@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24749,
+  "EOS_Progressed": 24750,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -7709,6 +7709,11 @@
       "Time": "2023-12-18T03:07:41.0030479+00:00",
       "NumProgressed": 24749,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-18T04:07:29.9746714+00:00",
+      "NumProgressed": 24750,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -7720,7 +7725,7 @@
       "Name": "Epic Legendary Prize",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_ALL_CARDS",
@@ -7736,7 +7741,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 0.2,
       "XP": 60,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -7744,7 +7749,7 @@
       "Name": "Luglox Genocide",
       "Percentage": 0.2,
       "XP": 60,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_APPLEBEES_BILL",
@@ -8071,13 +8076,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24749,
+      "Progressed": 24750,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 2042,
+      "Progressed": 2043,
       "Completed": 1376
     }
   ],
@@ -8085,8 +8090,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-12-09T22:00:53.8203021+00:00",
-  "LastChanged_Achievements": "2023-12-18T03:07:41.0030473+00:00",
+  "LastChanged_Achievements": "2023-12-18T04:07:29.9746711+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:16.6894951+00:00",
-  "LastUpdate_Ratings": "2023-12-18T03:01:42.5674184+00:00",
-  "LastUpdate_Achievements": "2023-12-18T03:07:41.0031175+00:00"
+  "LastUpdate_Ratings": "2023-12-18T04:01:36.4702502+00:00",
+  "LastUpdate_Achievements": "2023-12-18T04:07:29.9747426+00:00"
 }

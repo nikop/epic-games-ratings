@@ -37,9 +37,9 @@ Rating: 4.65 (Ranked 321)
 | Carried Stan's Load To Completion | 0.40% | ~99 |
 | A Starfish Is Born | 0.30% | ~74 |
 | Meet Frasier from Frasier | 0.30% | ~6 |
-| Epic Legendary Prize | 0.20% | ~49 |
-| Mods Please Ban | 0.20% | ~49 |
-| Luglox Genocide | 0.20% | ~49 |
+| Epic Legendary Prize | 0.20% | ~50 |
+| Mods Please Ban | 0.20% | ~50 |
+| Luglox Genocide | 0.20% | ~50 |
 | Give Away All Your Money | 0.20% | ~4 |
 | It's Like The Santa Clause | 0.20% | ~4 |
 | Playing Card To Get | 0.10% | ~25 |
@@ -50,7 +50,7 @@ Rating: 4.65 (Ranked 321)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,749 (Ranked 140)  
+Progressed: 24,750 (Ranked 140)  
 Completed: 14 (0.06%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 14 (0.06%) (Ranked 321)
 | 2023-12-15 | 24,710 | 14 |
 | 2023-12-16 | 24,727 | 14 |
 | 2023-12-17 | 24,747 | 14 |
-| 2023-12-18 | 24,749 | 14 |
+| 2023-12-18 | 24,750 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

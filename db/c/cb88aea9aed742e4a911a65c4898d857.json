@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -81,7 +81,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4992,
+  "EOS_Progressed": 5005,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 3022,
   "EOS_NewCompleters": 0,
@@ -1356,6 +1356,11 @@
       "Time": "2023-12-18T03:09:58.7629784+00:00",
       "NumProgressed": 4992,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T04:09:47.3148064+00:00",
+      "NumProgressed": 5005,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -1368,7 +1373,7 @@
       "Name": "Conspiracy",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 849
+      "UsersEstimate": 851
     },
     {
       "ID": "03_TheStolenStar",
@@ -1376,7 +1381,7 @@
       "Name": "Stolen Star",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -1480,7 +1485,7 @@
       "Name": "The Rise",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "17_TheExemplar",
@@ -1496,7 +1501,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "19_TheVoidWolf",
@@ -1584,7 +1589,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "30_The GreatestExploration",
@@ -1720,7 +1725,7 @@
       "Name": "A Spark",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "47_AFlame",
@@ -1887,7 +1892,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 4992,
+      "Progressed": 5005,
       "Completed": 0
     }
   ],
@@ -1895,8 +1900,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-17T10:00:08.9925028+00:00",
-  "LastChanged_Achievements": "2023-12-18T03:09:58.7629777+00:00",
+  "LastChanged_Achievements": "2023-12-18T04:09:47.3148061+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:14.7846288+00:00",
-  "LastUpdate_Ratings": "2023-12-18T03:00:45.6983349+00:00",
-  "LastUpdate_Achievements": "2023-12-18T03:09:58.7630439+00:00"
+  "LastUpdate_Ratings": "2023-12-18T04:00:42.0062808+00:00",
+  "LastUpdate_Achievements": "2023-12-18T04:09:47.3148565+00:00"
 }

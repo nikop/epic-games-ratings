@@ -4,8 +4,8 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3583,
+  "EOS_Progressed": 3584,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -5611,6 +5611,11 @@
       "Time": "2023-12-18T03:04:23.3796152+00:00",
       "NumProgressed": 3583,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-18T04:04:15.8395273+00:00",
+      "NumProgressed": 3584,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -5670,7 +5675,7 @@
       "Name": "Sliders",
       "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "SNOW_RUINS",
@@ -5686,7 +5691,7 @@
       "Name": "Starting as a duo",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -5725,7 +5730,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3583,
+      "Progressed": 3584,
       "Completed": 6
     }
   ],
@@ -5733,8 +5738,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-18T03:04:23.379615+00:00",
+  "LastChanged_Achievements": "2023-12-18T04:04:15.8395268+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:23.2126403+00:00",
-  "LastUpdate_Ratings": "2023-12-18T02:58:58.1476448+00:00",
-  "LastUpdate_Achievements": "2023-12-18T03:04:23.3796468+00:00"
+  "LastUpdate_Ratings": "2023-12-18T03:58:51.5100789+00:00",
+  "LastUpdate_Achievements": "2023-12-18T04:04:15.839563+00:00"
 }

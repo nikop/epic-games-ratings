@@ -1,24 +1,24 @@
 # ATOM RPG
 [Store](https://store.epicgames.com/en-US/p/atom-rpg-3adb54)  
 [View Rawdata](../../db/a/atom_rpg.json)  
-Rating: 4.47 (Ranked 645)  
+Rating: 4.47 (Ranked 644)  
 Number of Ratings: 54  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~1,402 |
+| Atom Agent | 99.00% | ~1,403 |
 | One HIT wonder | 36.00% | ~510 |
-| Wanderer | 34.00% | ~481 |
-| One shot, one kill | 27.00% | ~382 |
-| Traveler | 25.00% | ~354 |
+| Wanderer | 34.00% | ~482 |
+| One shot, one kill | 27.00% | ~383 |
+| Traveler | 24.00% | ~340 |
 | Grave Robber | 18.00% | ~255 |
 | Head Burst | 18.00% | ~255 |
 | Explorer | 17.00% | ~241 |
-| Double agent | 15.00% | ~212 |
-| Paranoia | 15.00% | ~212 |
+| Double agent | 15.00% | ~213 |
+| Paranoia | 15.00% | ~213 |
 | Kraina Grzybow | 10.00% | ~142 |
 | Savant | 10.00% | ~142 |
-| Love Guru | 9.00% | ~127 |
+| Love Guru | 9.00% | ~128 |
 | Bustin' nuts | 8.00% | ~113 |
 | Not-so-private Eye | 8.00% | ~113 |
 | Superhuman | 8.00% | ~113 |
@@ -27,12 +27,12 @@ Number of Ratings: 54  (23.09.2022)
 | Secret room | 5.00% | ~71 |
 | Indy | 4.00% | ~57 |
 | Sacrifice | 4.00% | ~57 |
-| Wishmaster | 3.00% | ~42 |
+| Wishmaster | 3.00% | ~43 |
 | Career criminal | 2.00% | ~28 |
 | Neanderthal | 2.00% | ~28 |
 | Cosmic Horror | 1.00% | ~14 |
 | It was worth a shot | 0.90% | ~13 |
-| Ghostbuster | 0.60% | ~8 |
+| Ghostbuster | 0.60% | ~9 |
 | Comrade Yogi | 0.50% | ~7 |
 | Tourist Korallov | 0.50% | ~7 |
 | Cheeki Breeki | 0.40% | ~6 |
@@ -43,7 +43,7 @@ Number of Ratings: 54  (23.09.2022)
 | No Name, No Slogan | 0.10% | ~1 |
 | Pacifist | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,416 (Ranked 249)  
+Progressed: 1,417 (Ranked 249)  
 Completed: 1 (0.07%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,6 +237,7 @@ Completed: 1 (0.07%) (Ranked 314)
 | 2023-12-15 | 1,375 | 1 |
 | 2023-12-16 | 1,398 | 1 |
 | 2023-12-17 | 1,416 | 1 |
+| 2023-12-18 | 1,417 | 1 |
 ## Awards
 Max (Character Customization): 52  (Ranked 435)  
 Sum: 52 (Ranked 489)  

@@ -6,16 +6,16 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~260,191 |
-| Cavalier | 25.00% | ~203,274 |
-| Fatso | 23.00% | ~187,012 |
-| Awakening | 21.00% | ~170,750 |
-| Ranger | 20.00% | ~162,619 |
-| Scrooge | 20.00% | ~162,619 |
-| Anorectic | 16.00% | ~130,095 |
-| Firestarter | 16.00% | ~130,095 |
-| Bookworm | 15.00% | ~121,964 |
-| Insomniac | 13.00% | ~105,702 |
+| Blacksmith's Son | 32.00% | ~260,192 |
+| Cavalier | 25.00% | ~203,275 |
+| Fatso | 23.00% | ~187,013 |
+| Awakening | 21.00% | ~170,751 |
+| Ranger | 20.00% | ~162,620 |
+| Scrooge | 20.00% | ~162,620 |
+| Anorectic | 16.00% | ~130,096 |
+| Firestarter | 16.00% | ~130,096 |
+| Bookworm | 15.00% | ~121,965 |
+| Insomniac | 13.00% | ~105,703 |
 | Buddy | 12.00% | ~97,572 |
 | Thief | 12.00% | ~97,572 |
 | Sinner | 11.00% | ~89,441 |
@@ -58,8 +58,8 @@ Number of Ratings: 9,133  (23.09.2022)
 | Mercenary's Honour | 0.70% | ~5,692 |
 | Saviour | 0.70% | ~5,692 |
 | Edward Kelly | 0.60% | ~4,879 |
-| I Can Quit Anytime | 0.50% | ~4,065 |
-| Perfectionist | 0.50% | ~4,065 |
+| I Can Quit Anytime | 0.50% | ~4,066 |
+| Perfectionist | 0.50% | ~4,066 |
 | Alcoholic | 0.30% | ~2,439 |
 | Sniper | 0.30% | ~2,439 |
 | Angel of Mercy | 0.20% | ~1,626 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~813 |
 | Wingman | 0.10% | ~813 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 813,096 (Ranked 18)  
+Progressed: 813,101 (Ranked 18)  
 Completed: 52 (0.01%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,7 +331,7 @@ Completed: 52 (0.01%) (Ranked 356)
 | 2023-12-15 | 812,670 | 52 |
 | 2023-12-16 | 812,891 | 52 |
 | 2023-12-17 | 813,083 | 52 |
-| 2023-12-18 | 813,096 | 52 |
+| 2023-12-18 | 813,101 | 52 |
 ## Awards
 Max (Character Customization): 7,678  (Ranked 52)  
 Sum: 28,524 (Ranked 50)  

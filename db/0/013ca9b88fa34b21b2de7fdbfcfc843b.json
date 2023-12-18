@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -8676,9 +8676,9 @@
       "ID": "CHAPTER_2_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "A Thorny Situation",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 85
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -8844,9 +8844,9 @@
       "ID": "DISPATCH_THORNS",
       "SetID": "9eia0f5",
       "Name": "Bramble Breaker",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 68
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -9027,8 +9027,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-15T16:03:24.8361061+00:00",
-  "LastChanged_Achievements": "2023-12-18T03:10:34.7852297+00:00",
+  "LastChanged_Achievements": "2023-12-18T04:10:22.910111+00:00",
   "LastUpdate_AppInfo": "2023-12-15T11:57:06.5610357+00:00",
-  "LastUpdate_Ratings": "2023-12-18T03:03:25.4553757+00:00",
-  "LastUpdate_Achievements": "2023-12-18T03:10:34.7852845+00:00"
+  "LastUpdate_Ratings": "2023-12-18T04:03:18.4963038+00:00",
+  "LastUpdate_Achievements": "2023-12-18T04:10:22.9101653+00:00"
 }

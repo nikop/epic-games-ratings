@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9858,9 +9858,9 @@
       "Count": 1026
     }
   ],
-  "EOS_Progressed": 128182,
+  "EOS_Progressed": 128190,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2093,
+  "EOS_NewPlayers": 2096,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35583,6 +35583,11 @@
       "Time": "2023-12-18T03:09:26.1979676+00:00",
       "NumProgressed": 128182,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-18T04:09:14.9258756+00:00",
+      "NumProgressed": 128190,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35698,7 +35703,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1026
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -35722,7 +35727,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3845
+      "UsersEstimate": 3846
     },
     {
       "ID": "combat_kill_cadavers",
@@ -35754,7 +35759,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3845
+      "UsersEstimate": 3846
     },
     {
       "ID": "combat_kill_fanatics",
@@ -35770,7 +35775,7 @@
       "Name": "Ichthyophobic",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1026
     },
     {
       "ID": "combat_kill_gaunts",
@@ -35786,7 +35791,7 @@
       "Name": "No More Mouths to Feed",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1026
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -35810,7 +35815,7 @@
       "Name": "Catch and Decease",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3845
+      "UsersEstimate": 3846
     },
     {
       "ID": "combat_kill_librarian",
@@ -35818,7 +35823,7 @@
       "Name": "Overdue Notice",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3845
+      "UsersEstimate": 3846
     },
     {
       "ID": "combat_kill_pillagers",
@@ -35834,7 +35839,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3845
+      "UsersEstimate": 3846
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -35946,7 +35951,7 @@
       "Name": "Autodidact",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3845
+      "UsersEstimate": 3846
     },
     {
       "ID": "hero_story_complete_all",
@@ -36130,7 +36135,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "combat_kill_collector",
@@ -36225,21 +36230,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 128182,
+      "Progressed": 128190,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 3051,
+      "Progressed": 3059,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-18T02:21:43.7847477+00:00",
-  "LastChanged_Achievements": "2023-12-18T03:09:26.1979674+00:00",
+  "LastChanged_Achievements": "2023-12-18T04:09:14.9258753+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-18T02:58:42.2843337+00:00",
-  "LastUpdate_Achievements": "2023-12-18T03:09:26.1981114+00:00"
+  "LastUpdate_Ratings": "2023-12-18T03:58:36.1548105+00:00",
+  "LastUpdate_Achievements": "2023-12-18T04:09:14.9261002+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "35eda4ff87f94a7491dc28175b8f3b4f",
   "Name": "Eternal Threads",
   "ProductSlug": "eternal-threads-197169",
-  "Ranking_Rating": 833,
+  "Ranking_Rating": 825,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 156,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.32,
+  "Rating": 4.33,
   "RatingHistory": [
     {
       "Time": "2023-10-22T18:02:06.461255+00:00",
@@ -245,15 +245,21 @@
       "Rating": 4.32,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-18T03:58:42.6359819+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15623,
+  "EOS_Progressed": 15628,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 1838,
+  "EOS_NewPlayers": 1836,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -4756,6 +4762,11 @@
       "Time": "2023-12-18T03:06:46.2108329+00:00",
       "NumProgressed": 15623,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-12-18T04:06:36.7633454+00:00",
+      "NumProgressed": 15628,
+      "NumCompleted": 68
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -4792,7 +4803,7 @@
       "Name": "Morbidly Curious",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "SAVE_EVERYONE_1_1",
@@ -4800,7 +4811,7 @@
       "Name": "Savior",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 1406
+      "UsersEstimate": 1407
     },
     {
       "ID": "SAVE_EVERYONE_PERFECT_1_2",
@@ -4840,23 +4851,23 @@
       "Name": "Investigator",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     }
   ],
   "AchievementSets": [
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 15623,
+      "Progressed": 15628,
       "Completed": 68
     }
   ],
   "FirstSeen": "2023-10-19T17:59:40.5875906+00:00",
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
-  "LastChanged": "2023-12-12T14:00:02.3951365+00:00",
-  "LastChanged_Achievements": "2023-12-18T03:06:46.2108326+00:00",
+  "LastChanged": "2023-12-18T03:58:42.6359817+00:00",
+  "LastChanged_Achievements": "2023-12-18T04:06:36.763345+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:09.5453569+00:00",
-  "LastUpdate_Ratings": "2023-12-18T02:58:48.8271685+00:00",
-  "LastUpdate_Achievements": "2023-12-18T03:06:46.2108654+00:00"
+  "LastUpdate_Ratings": "2023-12-18T03:58:42.6359822+00:00",
+  "LastUpdate_Achievements": "2023-12-18T04:06:36.7633717+00:00"
 }

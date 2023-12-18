@@ -4,8 +4,8 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 761,
+  "EOS_Progressed": 763,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 499,
+  "EOS_NewPlayers": 500,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1595,6 +1595,11 @@
       "Time": "2023-12-18T03:10:32.7602238+00:00",
       "NumProgressed": 761,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-18T04:10:20.8604202+00:00",
+      "NumProgressed": 763,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1604,17 +1609,17 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 342
+      "UsersEstimate": 351
     },
     {
       "ID": "ACH_02",
       "SetID": "efe2lj",
       "Name": "Find Allies",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_03",
@@ -1630,7 +1635,7 @@
       "Name": "Calm before the Storm",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_05",
@@ -1670,7 +1675,7 @@
       "Name": "The Mentor",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_10",
@@ -1780,9 +1785,9 @@
       "ID": "ACH_23",
       "SetID": "efe2lj",
       "Name": "Geared Up",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_24",
@@ -1798,7 +1803,7 @@
       "Name": "Fashion Victim",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH_26",
@@ -1820,9 +1825,9 @@
       "ID": "ACH_28",
       "SetID": "efe2lj",
       "Name": "I Found It",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 122
+      "UsersEstimate": 114
     },
     {
       "ID": "ACH_29",
@@ -1838,7 +1843,7 @@
       "Name": "Alchemist",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_31",
@@ -1893,14 +1898,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 761,
+      "Progressed": 763,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-18T03:10:32.7602236+00:00",
+  "LastChanged_Achievements": "2023-12-18T04:10:20.8604201+00:00",
   "LastUpdate_AppInfo": "2023-12-11T21:57:02.3853442+00:00",
-  "LastUpdate_Ratings": "2023-12-18T03:00:44.5357072+00:00",
-  "LastUpdate_Achievements": "2023-12-18T03:10:32.7602466+00:00"
+  "LastUpdate_Ratings": "2023-12-18T04:00:40.9064759+00:00",
+  "LastUpdate_Achievements": "2023-12-18T04:10:20.8604423+00:00"
 }

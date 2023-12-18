@@ -5,20 +5,20 @@ Rating: 4.20 (Ranked 930)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~8,019 |
-| Disposing of the Evidence | 38.00% | ~3,671 |
-| Without a Scratch | 34.00% | ~3,285 |
-| Wreckless Driving | 28.00% | ~2,705 |
-| A Marked Man | 25.00% | ~2,415 |
-| Street Sweeper | 18.00% | ~1,739 |
-| Liberty City Minute | 17.00% | ~1,642 |
+| First Day on the Job | 83.00% | ~8,021 |
+| Disposing of the Evidence | 38.00% | ~3,672 |
+| Without a Scratch | 34.00% | ~3,286 |
+| Wreckless Driving | 28.00% | ~2,706 |
+| A Marked Man | 25.00% | ~2,416 |
+| Street Sweeper | 18.00% | ~1,740 |
+| Liberty City Minute | 17.00% | ~1,643 |
 | Offshore Delivery | 13.00% | ~1,256 |
-| Dirty Money | 12.00% | ~1,159 |
+| Dirty Money | 12.00% | ~1,160 |
 | By a Mile | 10.00% | ~966 |
 | Not So Fast | 10.00% | ~966 |
 | Right-hand Man | 10.00% | ~966 |
 | A Gift from the King | 7.00% | ~676 |
-| Full Artillery | 4.00% | ~386 |
+| Full Artillery | 4.00% | ~387 |
 | Mob Boss | 3.00% | ~290 |
 | Escape Artist | 2.00% | ~193 |
 | Where To? | 2.00% | ~193 |
@@ -35,7 +35,7 @@ Rating: 4.20 (Ranked 930)
 | Is That All You've Got? | 0.90% | ~87 |
 | King of Liberty City | 0.60% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,661 (Ranked 173)  
+Progressed: 9,664 (Ranked 173)  
 Completed: 61 (0.63%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 61 (0.63%) (Ranked 193)
 | 2023-12-15 | 9,263 | 60 |
 | 2023-12-16 | 9,453 | 60 |
 | 2023-12-17 | 9,639 | 61 |
-| 2023-12-18 | 9,661 | 61 |
+| 2023-12-18 | 9,664 | 61 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

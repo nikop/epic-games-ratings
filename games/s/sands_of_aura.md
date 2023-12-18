@@ -13,8 +13,8 @@
 | Rain Must Fall | 8.00% | ~9 |
 | Overboard | 8.00% | ~9 |
 | Bladesmith | 8.00% | ~9 |
+| The Guardian of Fire | 7.00% | ~8 |
 | Explorer | 6.00% | ~7 |
-| The Guardian of Fire | 6.00% | ~7 |
 | Sovereignty of Irons | 5.00% | ~6 |
 | A Sandwyrm's Hoard | 5.00% | ~6 |
 | Twin Thorns | 5.00% | ~6 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 288,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1467,9 +1467,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 24481,
+  "EOS_Progressed": 24482,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 522,
+  "EOS_NewPlayers": 523,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -27467,6 +27467,11 @@
       "Time": "2023-12-18T03:04:32.1749923+00:00",
       "NumProgressed": 24481,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-12-18T04:04:24.3829971+00:00",
+      "NumProgressed": 24482,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 45,
@@ -27502,7 +27507,7 @@
       "Name": "Back to hell",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 8813
+      "UsersEstimate": 8814
     },
     {
       "ID": "CantRunCantHide",
@@ -27750,7 +27755,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 14933
+      "UsersEstimate": 14934
     },
     {
       "ID": "SwordToAGunfight",
@@ -27758,7 +27763,7 @@
       "Name": "Sword to a gunfight",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 7099
+      "UsersEstimate": 7100
     },
     {
       "ID": "TripleA",
@@ -27790,7 +27795,7 @@
       "Name": "Upgrades not mandatory",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 7099
+      "UsersEstimate": 7100
     },
     {
       "ID": "Wallrunner",
@@ -27814,7 +27819,7 @@
       "Name": "Where are my Keys?",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 9792
+      "UsersEstimate": 9793
     },
     {
       "ID": "WhereHeStood",
@@ -27830,28 +27835,28 @@
       "Name": "Why not both",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 7099
+      "UsersEstimate": 7100
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 24481,
+      "Progressed": 24482,
       "Completed": 65
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 24481,
+      "Progressed": 24482,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-12-17T16:58:19.716703+00:00",
-  "LastChanged_Achievements": "2023-12-18T03:04:32.1749915+00:00",
+  "LastChanged_Achievements": "2023-12-18T04:04:24.3829967+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:26.3617776+00:00",
-  "LastUpdate_Ratings": "2023-12-18T02:58:30.4300457+00:00",
-  "LastUpdate_Achievements": "2023-12-18T03:04:32.1751624+00:00"
+  "LastUpdate_Ratings": "2023-12-18T03:58:24.1156399+00:00",
+  "LastUpdate_Achievements": "2023-12-18T04:04:24.3831665+00:00"
 }

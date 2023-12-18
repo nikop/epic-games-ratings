@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 294,
   "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -997,9 +997,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 9468,
+  "EOS_Progressed": 9469,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9552,6 +9552,11 @@
       "Time": "2023-12-18T01:57:06.5101448+00:00",
       "NumProgressed": 9468,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-18T04:08:55.1171646+00:00",
+      "NumProgressed": 9469,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -9635,7 +9640,7 @@
       "Name": "Die Bosniaken Kommen!",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1042
     },
     {
       "ID": "ISONZO_ACH_DIRTY_DOZEN",
@@ -9715,7 +9720,7 @@
       "Name": "Machiavelli",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1042
     },
     {
       "ID": "ISONZO_ACH_MALPRACTICE",
@@ -9755,7 +9760,7 @@
       "Name": "Peak Performance",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4355
+      "UsersEstimate": 4356
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -9811,7 +9816,7 @@
       "Name": "Silver Lining",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2556
+      "UsersEstimate": 2557
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -9867,7 +9872,7 @@
       "Name": "The Show Must Go On",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "ISONZO_ACH_THUS_WITH_A_KISS",
@@ -9883,7 +9888,7 @@
       "Name": "Tosca",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "ISONZO_ACH_TUTTI_EROI",
@@ -9922,7 +9927,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9468,
+      "Progressed": 9469,
       "Completed": 10
     }
   ],
@@ -9930,8 +9935,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-12T17:02:56.6362998+00:00",
-  "LastChanged_Achievements": "2023-12-18T03:09:05.9469088+00:00",
+  "LastChanged_Achievements": "2023-12-18T04:08:55.1171643+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:27.7823002+00:00",
-  "LastUpdate_Ratings": "2023-12-18T02:59:56.2163389+00:00",
-  "LastUpdate_Achievements": "2023-12-18T03:09:05.9469652+00:00"
+  "LastUpdate_Ratings": "2023-12-18T03:59:50.541762+00:00",
+  "LastUpdate_Achievements": "2023-12-18T04:08:55.1172166+00:00"
 }

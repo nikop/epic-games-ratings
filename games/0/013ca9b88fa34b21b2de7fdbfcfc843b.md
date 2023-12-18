@@ -5,10 +5,10 @@ Rating: 4.61 (Ranked 392)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Thorny Situation | 0.90% | ~77 |
+| A Thorny Situation | 1.00% | ~85 |
 | Azoria Beckons | 0.80% | ~68 |
+| Bramble Breaker | 0.80% | ~68 |
 | ... And Spit Back Out | 0.70% | ~60 |
-| Bramble Breaker | 0.70% | ~60 |
 | Calm Sailing | 0.60% | ~51 |
 | Break-Net Speed | 0.60% | ~51 |
 | Open the Gate! | 0.50% | ~43 |

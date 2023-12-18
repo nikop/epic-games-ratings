@@ -5,24 +5,24 @@ Rating: 4.21 (Ranked 920)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~952 |
-| Battlefields Have Memories | 79.00% | ~864 |
-| Enlisted | 72.00% | ~788 |
-| Maybe Engage a Little | 66.00% | ~722 |
-| No More Names | 47.00% | ~514 |
-| Initiate | 33.00% | ~361 |
-| Thrada-Kul | 29.00% | ~317 |
-| Gravity-Challenged Rocks | 22.00% | ~241 |
-| Socialite | 21.00% | ~230 |
-| Soldier | 18.00% | ~197 |
-| All the Major Food Groups | 17.00% | ~186 |
-| Beggars Would Ride | 15.00% | ~164 |
-| Control is an Illusion | 14.00% | ~153 |
-| The Means to Save It | 12.00% | ~131 |
-| Resilience to Sin | 10.00% | ~109 |
-| A Familiar Nest | 9.00% | ~98 |
-| Geas Aristeya | 9.00% | ~98 |
-| Periapt Alizarin | 9.00% | ~98 |
+| Unforeseen | 87.00% | ~957 |
+| Battlefields Have Memories | 79.00% | ~869 |
+| Enlisted | 72.00% | ~792 |
+| Maybe Engage a Little | 66.00% | ~726 |
+| No More Names | 47.00% | ~517 |
+| Initiate | 32.00% | ~352 |
+| Thrada-Kul | 29.00% | ~319 |
+| Gravity-Challenged Rocks | 22.00% | ~242 |
+| Socialite | 21.00% | ~231 |
+| Soldier | 18.00% | ~198 |
+| All the Major Food Groups | 17.00% | ~187 |
+| Beggars Would Ride | 15.00% | ~165 |
+| Control is an Illusion | 14.00% | ~154 |
+| The Means to Save It | 11.00% | ~121 |
+| Resilience to Sin | 10.00% | ~110 |
+| A Familiar Nest | 9.00% | ~99 |
+| Geas Aristeya | 9.00% | ~99 |
+| Periapt Alizarin | 9.00% | ~99 |
 | A Perfect Cycle | 8.00% | ~88 |
 | Recruit | 7.00% | ~77 |
 | Armsman | 7.00% | ~77 |
@@ -44,7 +44,7 @@ Rating: 4.21 (Ranked 920)
 | Tip of the Spear | 0.70% | ~8 |
 | Master of Malachite | 0.60% | ~7 |
 | Backtracker | 0.60% | ~7 |
-| Treasure Hunter | 0.50% | ~5 |
+| Treasure Hunter | 0.50% | ~6 |
 | Grand Magnus | 0.40% | ~4 |
 | Petite Bourgeoisie | 0.40% | ~4 |
 | Diplomat | 0.30% | ~3 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 920)
 | Fowl Play | 0.30% | ~3 |
 | Family Business | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,094 (Ranked 270)  
+Progressed: 1,100 (Ranked 269)  
 Completed: 2 (0.18%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 2 (0.18%) (Ranked 270)
 | 2023-12-15 | 689 | 2 |
 | 2023-12-16 | 908 | 2 |
 | 2023-12-17 | 1,065 | 2 |
-| 2023-12-18 | 1,094 | 2 |
+| 2023-12-18 | 1,100 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,10 +5,10 @@ Rating: 4.62 (Ranked 370)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 37.00% | ~378 |
+| Time Heals All Wounds | 37.00% | ~379 |
 | The Mysterious Stranger | 28.00% | ~286 |
 | Rail Rat | 28.00% | ~286 |
-| Immaculate Aim | 24.00% | ~245 |
+| Immaculate Aim | 24.00% | ~246 |
 | Make Up For Lost Time | 23.00% | ~235 |
 | Time Flies | 23.00% | ~235 |
 | The Prince in Heels | 23.00% | ~235 |
@@ -21,10 +21,10 @@ Rating: 4.62 (Ranked 370)
 | Immaculate Aim | 22.00% | ~225 |
 | Breaking Down Barriers | 21.00% | ~215 |
 | The Wicked Twins | 21.00% | ~215 |
-| Right On Time | 20.00% | ~204 |
-| Like Clockwork | 20.00% | ~204 |
-| The Betrayer | 20.00% | ~204 |
-| Golem Chaser | 20.00% | ~204 |
+| Right On Time | 20.00% | ~205 |
+| Like Clockwork | 20.00% | ~205 |
+| The Betrayer | 20.00% | ~205 |
+| Golem Chaser | 20.00% | ~205 |
 | Check Your Pulse | 19.00% | ~194 |
 | The Loose Cannon | 18.00% | ~184 |
 | The Family Fortune | 18.00% | ~184 |
@@ -37,8 +37,8 @@ Rating: 4.62 (Ranked 370)
 | Good Neighbor | 13.00% | ~133 |
 | Chaincrawler Explorer | 12.00% | ~123 |
 | Ask Questions Later | 12.00% | ~123 |
-| Sump Explorer | 11.00% | ~112 |
-| Syron for Hope | 11.00% | ~112 |
+| Sump Explorer | 11.00% | ~113 |
+| Syron for Hope | 11.00% | ~113 |
 | Factorywood Explorer | 10.00% | ~102 |
 | Theater Explorer | 10.00% | ~102 |
 | Cultivair Explorer | 9.00% | ~92 |
@@ -59,7 +59,7 @@ Rating: 4.62 (Ranked 370)
 | Raw Talent | 0.70% | ~7 |
 | Going to Live Forever | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,022 (Ranked 275)  
+Progressed: 1,023 (Ranked 275)  
 Completed: 6 (0.59%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 6 (0.59%) (Ranked 197)
 | 2023-12-15 | 978 | 6 |
 | 2023-12-16 | 1,000 | 6 |
 | 2023-12-17 | 1,021 | 6 |
-| 2023-12-18 | 1,022 | 6 |
+| 2023-12-18 | 1,023 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

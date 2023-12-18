@@ -4,8 +4,8 @@
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
     "PcReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -1376,9 +1376,9 @@
       "ID": "TIME_PERFECT_DATE",
       "SetID": "9j9h72e",
       "Name": "Timejinx: The Perfect Date",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 84
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -1431,8 +1431,8 @@
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-18T03:10:03.1537588+00:00",
+  "LastChanged_Achievements": "2023-12-18T04:09:51.6912785+00:00",
   "LastUpdate_AppInfo": "2023-12-16T01:42:15.0489028+00:00",
-  "LastUpdate_Ratings": "2023-12-18T03:02:54.9591081+00:00",
-  "LastUpdate_Achievements": "2023-12-18T03:10:03.1537827+00:00"
+  "LastUpdate_Ratings": "2023-12-18T04:02:48.7076226+00:00",
+  "LastUpdate_Achievements": "2023-12-18T04:09:51.6912942+00:00"
 }

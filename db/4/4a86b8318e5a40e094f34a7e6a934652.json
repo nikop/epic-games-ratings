@@ -2,10 +2,10 @@
   "ID": "4a86b8318e5a40e094f34a7e6a934652",
   "Name": "I Am Future - Cozy Apocalypse Survival",
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
-  "Ranking_EOS_Progress": 367,
+  "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 304,
+  "EOS_Progressed": 305,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.99,
+  "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
       "Time": "2023-08-29T09:05:59.1773399+00:00",
@@ -1329,6 +1329,11 @@
       "Time": "2023-12-18T01:52:54.5946078+00:00",
       "NumProgressed": 304,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-18T04:04:48.7063481+00:00",
+      "NumProgressed": 305,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -1349,7 +1354,7 @@
       "Name": "Design Engineer",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "BRING_MARY",
@@ -1379,9 +1384,9 @@
       "ID": "CATCH_30_FISH",
       "SetID": "aniflfk",
       "Name": "Fisherman",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 158
+      "UsersEstimate": 156
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -1453,7 +1458,7 @@
       "Name": "Weed Warrior",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -1477,15 +1482,15 @@
       "Name": "Crypto Bro",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 234
+      "UsersEstimate": 232
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -1500,14 +1505,14 @@
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 304,
+      "Progressed": 305,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-18T03:04:56.7383689+00:00",
+  "LastChanged_Achievements": "2023-12-18T04:04:48.7063477+00:00",
   "LastUpdate_AppInfo": "2023-12-13T21:57:03.1278188+00:00",
-  "LastUpdate_Ratings": "2023-12-18T02:58:04.3099493+00:00",
-  "LastUpdate_Achievements": "2023-12-18T03:04:56.7383866+00:00"
+  "LastUpdate_Ratings": "2023-12-18T03:57:58.0879187+00:00",
+  "LastUpdate_Achievements": "2023-12-18T04:04:48.7063631+00:00"
 }

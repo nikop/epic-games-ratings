@@ -6,15 +6,15 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 8.00% | ~244 |
+| Malpractice Assurance | 8.00% | ~245 |
 | Lost and Found | 5.00% | ~153 |
 | This guy... again? | 4.00% | ~122 |
-| This Belongs in a Museum | 3.00% | ~3,845 |
-| Creep and Sleep | 3.00% | ~3,845 |
-| Catch and Decease | 3.00% | ~3,845 |
-| Overdue Notice | 3.00% | ~3,845 |
-| Escape from the Black Hole | 3.00% | ~3,845 |
-| Autodidact | 3.00% | ~3,845 |
+| This Belongs in a Museum | 3.00% | ~3,846 |
+| Creep and Sleep | 3.00% | ~3,846 |
+| Catch and Decease | 3.00% | ~3,846 |
+| Overdue Notice | 3.00% | ~3,846 |
+| Escape from the Black Hole | 3.00% | ~3,846 |
+| Autodidact | 3.00% | ~3,846 |
 | Ploughshares to Swords | 3.00% | ~92 |
 | Bloody Graduation | 3.00% | ~92 |
 | Don't Make Me Turn This Coach Around | 2.00% | ~2,564 |
@@ -53,9 +53,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | Utopia | 1.00% | ~1,282 |
 | Unshackled | 1.00% | ~1,282 |
 | Road Trip | 1.00% | ~1,282 |
-| Hope Rekindled | 0.80% | ~1,025 |
-| Ichthyophobic | 0.80% | ~1,025 |
-| No More Mouths to Feed | 0.80% | ~1,025 |
+| Hope Rekindled | 0.80% | ~1,026 |
+| Ichthyophobic | 0.80% | ~1,026 |
+| No More Mouths to Feed | 0.80% | ~1,026 |
 | Hot Air | 0.70% | ~897 |
 | Eyes Up | 0.70% | ~897 |
 | Slap on the Wrist | 0.70% | ~21 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~128 |
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,182 (Ranked 85)  
+Progressed: 128,190 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 3 (0.00%) (Ranked 380)
 | 2023-12-15 | 127,439 | 3 |
 | 2023-12-16 | 127,826 | 3 |
 | 2023-12-17 | 128,143 | 3 |
-| 2023-12-18 | 128,182 | 3 |
+| 2023-12-18 | 128,190 | 3 |
 ## Awards
 Max (Character Customization): 7,763  (Ranked 50)  
 Sum: 20,695 (Ranked 58)  

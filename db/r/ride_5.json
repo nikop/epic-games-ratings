@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2687,
+  "EOS_Progressed": 2688,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 259,
   "EOS_NewCompleters": 0,
@@ -6562,6 +6562,11 @@
       "Time": "2023-12-18T02:28:30.9258569+00:00",
       "NumProgressed": 2687,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T04:05:37.7443+00:00",
+      "NumProgressed": 2688,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -6574,7 +6579,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1155
+      "UsersEstimate": 1156
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -6630,7 +6635,7 @@
       "Name": "I Want One Too!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -6702,7 +6707,7 @@
       "Name": "Cherry Blossom and Temples",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -6830,7 +6835,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -6862,7 +6867,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -6926,7 +6931,7 @@
       "Name": "Rivals to the End",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -6965,14 +6970,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2687,
+      "Progressed": 2688,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-18T03:05:46.4473204+00:00",
+  "LastChanged_Achievements": "2023-12-18T04:05:37.7442995+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:35.5257739+00:00",
-  "LastUpdate_Ratings": "2023-12-18T02:57:51.3614766+00:00",
-  "LastUpdate_Achievements": "2023-12-18T03:05:46.4473975+00:00"
+  "LastUpdate_Ratings": "2023-12-18T03:57:46.2330878+00:00",
+  "LastUpdate_Achievements": "2023-12-18T04:05:37.7443497+00:00"
 }
