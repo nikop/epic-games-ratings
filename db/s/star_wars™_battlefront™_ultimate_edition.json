@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1861,
+  "EOS_Progressed": 1863,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 196,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5479,6 +5479,11 @@
       "Time": "2023-12-18T04:10:25.6109094+00:00",
       "NumProgressed": 1861,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-18T08:10:11.4454461+00:00",
+      "NumProgressed": 1863,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -5595,7 +5600,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "achievement_22",
@@ -5683,7 +5688,7 @@
       "Name": "Scrap collector",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "achievement_32",
@@ -5691,7 +5696,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "achievement_33",
@@ -5699,7 +5704,7 @@
       "Name": "Safety ain\u0027t the point of a joyride",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "achievement_34",
@@ -5707,7 +5712,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "achievement_35",
@@ -5715,7 +5720,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1656
+      "UsersEstimate": 1658
     },
     {
       "ID": "achievement_36",
@@ -5731,7 +5736,7 @@
       "Name": "Off to a good start",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "achievement_38",
@@ -5763,7 +5768,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "achievement_41",
@@ -5779,7 +5784,7 @@
       "Name": "Not bad for a little furball",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "achievement_43",
@@ -5795,7 +5800,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 28,
       "XP": 40,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "achievement_45",
@@ -5931,7 +5936,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "achievement_60",
@@ -5994,13 +5999,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1861,
+      "Progressed": 1863,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1861,
+      "Progressed": 1863,
       "Completed": 1
     }
   ],
@@ -6008,8 +6013,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-18T07:09:52.6245188+00:00",
+  "LastChanged_Achievements": "2023-12-18T08:10:11.4454456+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.5169818+00:00",
-  "LastUpdate_Ratings": "2023-12-18T06:59:54.2011324+00:00",
-  "LastUpdate_Achievements": "2023-12-18T07:09:52.6245888+00:00"
+  "LastUpdate_Ratings": "2023-12-18T08:00:05.6440834+00:00",
+  "LastUpdate_Achievements": "2023-12-18T08:10:11.4455092+00:00"
 }

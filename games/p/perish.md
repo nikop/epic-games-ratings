@@ -37,7 +37,6 @@
 | Rock and a Hard Place | 2.00% | ~76 |
 | The Midas Touch | 2.00% | ~76 |
 | Hapax Legomenon | 2.00% | ~76 |
-| Don't Pay the Ferryman | 2.00% | ~76 |
 | Veneration of Hephaestus | 2.00% | ~76 |
 | Vandili | 2.00% | ~76 |
 | No Scylla in Sight | 2.00% | ~76 |
@@ -48,6 +47,7 @@
 | The Nameless One | 1.00% | ~38 |
 | Rule of Thirds | 1.00% | ~38 |
 | Pyr Demon | 1.00% | ~38 |
+| Don't Pay the Ferryman | 1.00% | ~38 |
 | Biotechnology | 1.00% | ~38 |
 | The Archimedes Principle | 1.00% | ~38 |
 | Rites at Sea | 1.00% | ~38 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,799 (Ranked 207)  
+Progressed: 3,801 (Ranked 207)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-15 | 3,787 | 0 |
 | 2023-12-16 | 3,790 | 0 |
 | 2023-12-17 | 3,798 | 0 |
-| 2023-12-18 | 3,799 | 0 |
+| 2023-12-18 | 3,801 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

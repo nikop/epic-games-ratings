@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 52,
+  "Ranking_EOS_NewPlayers": 53,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5031,
+  "EOS_Progressed": 5038,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3025,
+  "EOS_NewPlayers": 3016,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1376,6 +1376,11 @@
       "Time": "2023-12-18T07:09:24.5543292+00:00",
       "NumProgressed": 5031,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T08:09:43.49406+00:00",
+      "NumProgressed": 5038,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -1388,7 +1393,7 @@
       "Name": "Conspiracy",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 906
+      "UsersEstimate": 907
     },
     {
       "ID": "03_TheStolenStar",
@@ -1396,7 +1401,7 @@
       "Name": "Stolen Star",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -1482,9 +1487,9 @@
       "ID": "14_TheBreezeOfPain",
       "SetID": "37a94m8",
       "Name": "Fear Not Obliteration",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 151
     },
     {
       "ID": "15_Pentakill",
@@ -1500,7 +1505,7 @@
       "Name": "The Rise",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "17_TheExemplar",
@@ -1516,15 +1521,15 @@
       "Name": "Rookie Skipper",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "19_TheVoidWolf",
       "SetID": "37a94m8",
       "Name": "Void Wolf",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 101
+      "UsersEstimate": 151
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -1604,7 +1609,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "30_The GreatestExploration",
@@ -1612,7 +1617,7 @@
       "Name": "Greatest Exploration",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "31_DontTouchThis",
@@ -1700,7 +1705,7 @@
       "Name": "Jungle Heat",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "42_TheIronJudgement",
@@ -1907,7 +1912,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 5031,
+      "Progressed": 5038,
       "Completed": 0
     }
   ],
@@ -1915,8 +1920,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-17T10:00:08.9925028+00:00",
-  "LastChanged_Achievements": "2023-12-18T07:09:24.5543289+00:00",
+  "LastChanged_Achievements": "2023-12-18T08:09:43.4940596+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:14.7846288+00:00",
-  "LastUpdate_Ratings": "2023-12-18T06:59:34.3680175+00:00",
-  "LastUpdate_Achievements": "2023-12-18T07:09:24.5543842+00:00"
+  "LastUpdate_Ratings": "2023-12-18T07:59:44.8308863+00:00",
+  "LastUpdate_Achievements": "2023-12-18T08:09:43.494112+00:00"
 }

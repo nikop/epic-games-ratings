@@ -583,9 +583,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9673,
+  "EOS_Progressed": 9674,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 880,
+  "EOS_NewPlayers": 881,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -12598,6 +12598,11 @@
       "Time": "2023-12-18T07:05:43.1673732+00:00",
       "NumProgressed": 9673,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-12-18T08:05:43.2884286+00:00",
+      "NumProgressed": 9674,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 29,
@@ -12681,7 +12686,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2708
+      "UsersEstimate": 2709
     },
     {
       "ID": "ACH11",
@@ -12713,7 +12718,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1644
+      "UsersEstimate": 1645
     },
     {
       "ID": "ACH15",
@@ -12737,7 +12742,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1257
+      "UsersEstimate": 1258
     },
     {
       "ID": "ACH18",
@@ -12840,7 +12845,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 9673,
+      "Progressed": 9674,
       "Completed": 61
     }
   ],
@@ -12848,8 +12853,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-12-17T21:02:34.258229+00:00",
-  "LastChanged_Achievements": "2023-12-18T07:05:43.1673728+00:00",
+  "LastChanged_Achievements": "2023-12-18T08:05:43.2884281+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:35.1384791+00:00",
-  "LastUpdate_Ratings": "2023-12-18T06:57:08.3654293+00:00",
-  "LastUpdate_Achievements": "2023-12-18T07:05:43.1674434+00:00"
+  "LastUpdate_Ratings": "2023-12-18T07:57:16.3953803+00:00",
+  "LastUpdate_Achievements": "2023-12-18T08:05:43.2885144+00:00"
 }

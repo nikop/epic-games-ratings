@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -85,7 +85,7 @@
   "Tags": [],
   "EOS_Progressed": 1263,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3703,9 +3703,9 @@
       "ID": "GSS_ACH_42_CARAVAN_01",
       "SetID": "5fn8ia4",
       "Name": "Help Wanted!",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 859
+      "UsersEstimate": 871
     },
     {
       "ID": "GSS_ACH_43_CARAVAN_02",
@@ -4040,8 +4040,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-17T13:01:05.5072332+00:00",
-  "LastChanged_Achievements": "2023-12-18T07:05:24.8331801+00:00",
+  "LastChanged_Achievements": "2023-12-18T08:05:24.6438086+00:00",
   "LastUpdate_AppInfo": "2023-12-11T18:57:06.5083214+00:00",
-  "LastUpdate_Ratings": "2023-12-18T06:58:37.7443923+00:00",
-  "LastUpdate_Achievements": "2023-12-18T07:05:24.833266+00:00"
+  "LastUpdate_Ratings": "2023-12-18T07:58:46.9143114+00:00",
+  "LastUpdate_Achievements": "2023-12-18T08:05:24.6438966+00:00"
 }

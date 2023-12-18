@@ -6,8 +6,8 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~51,133 |
-| Get Busy Living | 16.00% | ~32,725 |
+| Stone Walls | 25.00% | ~51,134 |
+| Get Busy Living | 16.00% | ~32,726 |
 | Samuel Norton | 9.00% | ~18,408 |
 | Spare The Rod | 5.00% | ~10,227 |
 | Don't Put Me In The Dark | 3.00% | ~6,136 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~205 |
 | ... It's What You Can Prove | 0.10% | ~205 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 204,531 (Ranked 75)  
+Progressed: 204,536 (Ranked 75)  
 Completed: 11 (0.01%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,16 +265,16 @@ Completed: 11 (0.01%) (Ranked 356)
 | 2023-12-15 | 203,614 | 11 |
 | 2023-12-16 | 204,038 | 11 |
 | 2023-12-17 | 204,450 | 11 |
-| 2023-12-18 | 204,531 | 11 |
+| 2023-12-18 | 204,536 | 11 |
 ## Awards
 Max (Great for Beginners): 606  (Ranked 200)  
-Sum: 4,632 (Ranked 148)  
+Sum: 4,637 (Ranked 148)  
 Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 606 |
 | This game is Extremely Fun | 589 |
-| This game is Highly Recommended | 548 |
+| This game is Highly Recommended | 553 |
 | This game has Quickly Understood Controls | 548 |
 | This game is Relaxing | 537 |
 | This game has Diverse Characters | 507 |
@@ -615,4 +615,4 @@ Diff (max vs sum): 52
 | 2023-12-15 | 4.61 | - | 602 | 4,611 |
 | 2023-12-16 | 4.61 | - | 603 | 4,626 |
 | 2023-12-17 | 4.61 | - | 603 | 4,627 |
-| 2023-12-18 | 4.61 | - | 606 | 4,632 |
+| 2023-12-18 | 4.61 | - | 606 | 4,637 |

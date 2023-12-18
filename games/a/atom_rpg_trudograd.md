@@ -5,7 +5,7 @@ Rating: 4.55 (Ranked 512)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fresh Prince of Trudograd | 87.00% | ~1,132 |
+| Fresh Prince of Trudograd | 87.00% | ~1,133 |
 | Household | 7.00% | ~91 |
 | An Old Friend | 6.00% | ~78 |
 | Lot 49 | 5.00% | ~65 |
@@ -27,10 +27,10 @@ Rating: 4.55 (Ranked 512)
 | Baby Eater | 0.60% | ~8 |
 | Admiral | 0.40% | ~5 |
 | Incompetence | 0.40% | ~5 |
+| Goose Sacrifice | 0.40% | ~5 |
 | Bronzovka | 0.30% | ~4 |
 | Commando | 0.30% | ~4 |
 | Holy Mountain | 0.30% | ~4 |
-| Goose Sacrifice | 0.30% | ~4 |
 | Second Thought | 0.30% | ~4 |
 | Sick Freak | 0.30% | ~4 |
 | Goodbye ATOM | 0.20% | ~3 |
@@ -38,7 +38,7 @@ Rating: 4.55 (Ranked 512)
 | Power of Simplicity | 0.20% | ~3 |
 | Terrorist | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,301 (Ranked 255)  
+Progressed: 1,302 (Ranked 255)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-15 | 1,289 | 0 |
 | 2023-12-16 | 1,296 | 0 |
 | 2023-12-17 | 1,300 | 0 |
-| 2023-12-18 | 1,301 | 0 |
+| 2023-12-18 | 1,302 | 0 |
 ## Awards
 Max (Character Customization): 26  (Ranked 526)  
 Sum: 26 (Ranked 535)  

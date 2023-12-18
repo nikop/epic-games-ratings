@@ -11,17 +11,17 @@
 | GG EZ | 53.00% | ~68 |
 | Hydrophobia | 39.00% | ~50 |
 | Ka-Ching! | 32.00% | ~41 |
-| Stop Right There | 26.00% | ~34 |
-| Get to the Point | 25.00% | ~32 |
+| Stop Right There | 27.00% | ~35 |
+| Get to the Point | 26.00% | ~34 |
 | Phew! | 16.00% | ~21 |
 | Mr. Want It All | 15.00% | ~19 |
+| Toe to Toe | 15.00% | ~19 |
 | The Hidden Secret | 14.00% | ~18 |
-| Toe to Toe | 14.00% | ~18 |
 | The Abyss Conqueror | 10.00% | ~13 |
 | Space Warrior: Prologue | 10.00% | ~13 |
 | The Fortress Conqueror | 9.00% | ~12 |
 | Grand Escape | 9.00% | ~12 |
-| Keep it Up, rookie! | 7.00% | ~9 |
+| Keep it Up, rookie! | 8.00% | ~10 |
 | The Deep Frozen Conqueror | 5.00% | ~6 |
 | The Infinite Train Conqueror | 5.00% | ~6 |
 | The Paradox Coordinate Conqueror | 5.00% | ~6 |
@@ -40,13 +40,13 @@
 | Space Ranger: Prologue | 3.00% | ~4 |
 | Breaking the Limit | 3.00% | ~4 |
 | The Truth? | 3.00% | ~4 |
+| Bye Bye Gravity | 3.00% | ~4 |
 | Break Through the Forbidden | 2.00% | ~3 |
 | Alloy Rangers, Assemble! | 2.00% | ~3 |
 | Pumped Up | 2.00% | ~3 |
 | Easy Peasy | 2.00% | ~3 |
 | Proliferation | 2.00% | ~3 |
 | Clean Sweep | 2.00% | ~3 |
-| Bye Bye Gravity | 2.00% | ~3 |
 | Burn After Reading | 2.00% | ~3 |
 | Flawless | 0.80% | ~1 |
 | Peace Out | 0.80% | ~1 |

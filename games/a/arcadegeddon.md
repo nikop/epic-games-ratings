@@ -6,17 +6,17 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 87.00% | ~8,700 |
-| Photogenic | 83.00% | ~8,300 |
-| Surge Gauntlet Jockey | 80.00% | ~8,000 |
-| Plug It In | 79.00% | ~7,900 |
-| Adventure Time | 75.00% | ~7,500 |
-| Playing With Power | 73.00% | ~7,300 |
-| Coup d'Etat | 56.00% | ~5,600 |
-| You're Fired | 54.00% | ~5,400 |
-| Get Furious | 53.00% | ~5,300 |
-| Hacks In Stacks | 53.00% | ~5,300 |
-| Gunplay And Cosplay | 52.00% | ~5,200 |
+| Let's Get This Party Started | 87.00% | ~8,701 |
+| Photogenic | 83.00% | ~8,301 |
+| Surge Gauntlet Jockey | 80.00% | ~8,001 |
+| Plug It In | 79.00% | ~7,901 |
+| Adventure Time | 75.00% | ~7,501 |
+| Playing With Power | 73.00% | ~7,301 |
+| Coup d'Etat | 56.00% | ~5,601 |
+| You're Fired | 54.00% | ~5,401 |
+| Get Furious | 53.00% | ~5,301 |
+| Hacks In Stacks | 53.00% | ~5,301 |
+| Gunplay And Cosplay | 52.00% | ~5,201 |
 | Meching Enemies | 46.00% | ~4,600 |
 | Ticket Toddler | 42.00% | ~4,200 |
 | Booty Bashing | 37.00% | ~3,700 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~40 |
 | Pyrotechnical | 0.20% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,000 (Ranked 171)  
+Progressed: 10,001 (Ranked 171)  
 Completed: 2 (0.02%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 2 (0.02%) (Ranked 348)
 | 2023-12-15 | 9,939 | 2 |
 | 2023-12-16 | 9,973 | 2 |
 | 2023-12-17 | 9,992 | 2 |
-| 2023-12-18 | 10,000 | 2 |
+| 2023-12-18 | 10,001 | 2 |
 ## Awards
 Max (Great for Beginners): 65  (Ranked 416)  
 Sum: 465 (Ranked 337)  

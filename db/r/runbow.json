@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 252284,
+  "EOS_Progressed": 252285,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 220,
+  "EOS_NewPlayers": 221,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21592,6 +21592,11 @@
       "Time": "2023-12-18T07:09:36.0554038+00:00",
       "NumProgressed": 252284,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-18T08:09:54.7689328+00:00",
+      "NumProgressed": 252285,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -21907,7 +21912,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55502
+      "UsersEstimate": 55503
     },
     {
       "ID": "thunderstruck",
@@ -21963,14 +21968,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 40365
+      "UsersEstimate": 40366
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 252284,
+      "Progressed": 252285,
       "Completed": 6
     }
   ],
@@ -21978,8 +21983,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-12-18T07:09:36.0554035+00:00",
+  "LastChanged_Achievements": "2023-12-18T08:09:54.7689324+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.4778344+00:00",
-  "LastUpdate_Ratings": "2023-12-18T06:57:55.0924714+00:00",
-  "LastUpdate_Achievements": "2023-12-18T07:09:36.0555666+00:00"
+  "LastUpdate_Ratings": "2023-12-18T07:58:02.9413558+00:00",
+  "LastUpdate_Achievements": "2023-12-18T08:09:54.7690526+00:00"
 }

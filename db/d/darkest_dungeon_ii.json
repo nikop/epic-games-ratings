@@ -9858,9 +9858,9 @@
       "Count": 1026
     }
   ],
-  "EOS_Progressed": 128226,
+  "EOS_Progressed": 128233,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2125,
+  "EOS_NewPlayers": 2128,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35603,6 +35603,11 @@
       "Time": "2023-12-18T07:09:01.4274848+00:00",
       "NumProgressed": 128226,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-18T08:09:19.9553422+00:00",
+      "NumProgressed": 128233,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36190,7 +36195,7 @@
       "Name": "Et Tu, Riposte?",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "hero_story_complete_crusader",
@@ -36245,21 +36250,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 128226,
+      "Progressed": 128233,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 3095,
+      "Progressed": 3102,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-18T02:21:43.7847477+00:00",
-  "LastChanged_Achievements": "2023-12-18T07:09:01.4274845+00:00",
+  "LastChanged_Achievements": "2023-12-18T08:09:19.9553416+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-18T06:58:11.3316781+00:00",
-  "LastUpdate_Achievements": "2023-12-18T07:09:01.4276465+00:00"
+  "LastUpdate_Ratings": "2023-12-18T07:58:19.3142361+00:00",
+  "LastUpdate_Achievements": "2023-12-18T08:09:19.9555325+00:00"
 }

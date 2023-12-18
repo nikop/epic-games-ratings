@@ -429,17 +429,17 @@
       "ID": "DLC",
       "SetID": "2621k8c",
       "Name": "Dog-like constitution",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "DM",
       "SetID": "2621k8c",
       "Name": "Dance Master",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "DP",
@@ -493,9 +493,9 @@
       "ID": "EI",
       "SetID": "2621k8c",
       "Name": "Exceptional intelligence",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Empathy",
@@ -581,9 +581,9 @@
       "ID": "HBACAAD",
       "SetID": "2621k8c",
       "Name": "Having both a cat and a dog",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "HE",
@@ -1021,9 +1021,9 @@
       "ID": "Superficial",
       "SetID": "2621k8c",
       "Name": "Superficial",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "TAAM",
@@ -1140,8 +1140,8 @@
   ],
   "FirstSeen": "2023-11-21T16:57:18.9896255+00:00",
   "FirstSeenAchievements": "2023-09-14T09:02:21.8735151+00:00",
-  "LastChanged_Achievements": "2023-12-18T07:09:52.9384432+00:00",
+  "LastChanged_Achievements": "2023-12-18T08:10:11.7387262+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.0306936+00:00",
-  "LastUpdate_Ratings": "2023-12-18T07:00:02.4077074+00:00",
-  "LastUpdate_Achievements": "2023-12-18T07:09:52.9385189+00:00"
+  "LastUpdate_Ratings": "2023-12-18T08:00:13.9066207+00:00",
+  "LastUpdate_Achievements": "2023-12-18T08:10:11.7388179+00:00"
 }

@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16725,
+  "EOS_Progressed": 16728,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 675,
+  "EOS_NewPlayers": 678,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -14244,6 +14244,11 @@
       "Time": "2023-12-18T07:03:42.0870999+00:00",
       "NumProgressed": 16725,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-12-18T08:03:42.4384011+00:00",
+      "NumProgressed": 16728,
+      "NumCompleted": 44
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14408,7 +14413,7 @@
       "Name": "Bosmang",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 1505
+      "UsersEstimate": 1506
     },
     {
       "ID": "28",
@@ -14432,7 +14437,7 @@
       "Name": "Captain Drummer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1505
+      "UsersEstimate": 1506
     },
     {
       "ID": "30",
@@ -14456,7 +14461,7 @@
       "Name": "Data Master",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "6",
@@ -14464,7 +14469,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1505
+      "UsersEstimate": 1506
     },
     {
       "ID": "7",
@@ -14488,7 +14493,7 @@
       "Name": "Impossible Objects",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1505
+      "UsersEstimate": 1506
     },
     {
       "ID": "31",
@@ -14512,7 +14517,7 @@
       "Name": "Zen Master",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "34",
@@ -14535,13 +14540,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16725,
+      "Progressed": 16728,
       "Completed": 44
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2679,
+      "Progressed": 2682,
       "Completed": 934
     }
   ],
@@ -14549,8 +14554,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-17T22:59:50.8326927+00:00",
-  "LastChanged_Achievements": "2023-12-18T07:03:42.0870995+00:00",
+  "LastChanged_Achievements": "2023-12-18T08:03:42.4384007+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:40.0929133+00:00",
-  "LastUpdate_Ratings": "2023-12-18T06:58:59.9007367+00:00",
-  "LastUpdate_Achievements": "2023-12-18T07:03:42.0872016+00:00"
+  "LastUpdate_Ratings": "2023-12-18T07:59:10.4626046+00:00",
+  "LastUpdate_Achievements": "2023-12-18T08:03:42.4384784+00:00"
 }

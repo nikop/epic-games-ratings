@@ -949,7 +949,7 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 12652,
+  "EOS_Progressed": 12653,
   "EOS_Completed": 70,
   "EOS_NewPlayers": 1311,
   "EOS_NewCompleters": 3,
@@ -14849,6 +14849,11 @@
       "Time": "2023-12-18T07:09:15.693068+00:00",
       "NumProgressed": 12652,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-12-18T08:09:34.1926679+00:00",
+      "NumProgressed": 12653,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 34,
@@ -15028,7 +15033,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2530
+      "UsersEstimate": 2531
     },
     {
       "ID": "ACH23",
@@ -15131,7 +15136,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 12652,
+      "Progressed": 12653,
       "Completed": 70
     }
   ],
@@ -15139,8 +15144,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-12-16T22:59:24.9371697+00:00",
-  "LastChanged_Achievements": "2023-12-18T07:09:15.6930677+00:00",
+  "LastChanged_Achievements": "2023-12-18T08:09:34.1926675+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:04.8941276+00:00",
-  "LastUpdate_Ratings": "2023-12-18T06:59:47.7266627+00:00",
-  "LastUpdate_Achievements": "2023-12-18T07:09:15.6931347+00:00"
+  "LastUpdate_Ratings": "2023-12-18T07:59:58.7048497+00:00",
+  "LastUpdate_Achievements": "2023-12-18T08:09:34.1927401+00:00"
 }

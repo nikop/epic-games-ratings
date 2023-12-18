@@ -63,7 +63,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | For Old Time' Sake | 0.60% | ~19 |
 | Handled | 0.50% | ~641 |
 | Body of Work | 0.50% | ~641 |
-| Et Tu, Riposte? | 0.50% | ~15 |
+| Et Tu, Riposte? | 0.50% | ~16 |
 | Clearing the Ledger | 0.40% | ~513 |
 | Shrine of Reflection | 0.40% | ~513 |
 | Bacon Bits | 0.30% | ~385 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~128 |
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,226 (Ranked 85)  
+Progressed: 128,233 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 3 (0.00%) (Ranked 380)
 | 2023-12-15 | 127,439 | 3 |
 | 2023-12-16 | 127,826 | 3 |
 | 2023-12-17 | 128,143 | 3 |
-| 2023-12-18 | 128,226 | 3 |
+| 2023-12-18 | 128,233 | 3 |
 ## Awards
 Max (Character Customization): 7,763  (Ranked 50)  
 Sum: 20,695 (Ranked 58)  

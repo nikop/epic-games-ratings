@@ -6,9 +6,9 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 3.00% | ~33,089 |
-| It wakes | 3.00% | ~33,089 |
-| Skillful | 3.00% | ~33,089 |
+| Zealous | 3.00% | ~33,090 |
+| It wakes | 3.00% | ~33,090 |
+| Skillful | 3.00% | ~33,090 |
 | The Grand Sacrifice | 2.00% | ~22,060 |
 | No one left behind | 2.00% | ~22,060 |
 | Medic | 2.00% | ~22,060 |
@@ -51,6 +51,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Made it out alive! | 0.70% | ~7,721 |
 | Gifts for the Fog | 0.70% | ~7,721 |
 | III-50 | 0.70% | ~7,721 |
+| All Aboard | 0.70% | ~7,721 |
 | Item of Obsession | 0.70% | ~7,721 |
 | House of Pain | 0.70% | ~7,721 |
 | Holiday Get-Together | 0.70% | ~7,721 |
@@ -64,7 +65,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Blood on your face | 0.60% | ~6,618 |
 | Nerves of steel | 0.60% | ~6,618 |
 | Shock Therapy | 0.60% | ~6,618 |
-| All Aboard | 0.60% | ~6,618 |
 | Cottage Owner | 0.60% | ~6,618 |
 | Campbell's Chapel Legacy | 0.60% | ~6,618 |
 | Ancestor's Rite | 0.60% | ~6,618 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,103 |
 | Adept Good Guy | 0.10% | ~1,103 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,102,977 (Ranked 12)  
+Progressed: 1,103,013 (Ranked 12)  
 Completed: 63 (0.01%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -481,7 +481,7 @@ Completed: 63 (0.01%) (Ranked 356)
 | 2023-12-15 | 1,097,468 | 62 |
 | 2023-12-16 | 1,099,953 | 62 |
 | 2023-12-17 | 1,102,441 | 63 |
-| 2023-12-18 | 1,102,977 | 63 |
+| 2023-12-18 | 1,103,013 | 63 |
 ## Awards
 Max (Diverse Characters): 38,160  (Ranked 15)  
 Sum: 288,438 (Ranked 12)  

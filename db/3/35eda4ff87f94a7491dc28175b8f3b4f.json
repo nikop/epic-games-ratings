@@ -257,9 +257,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15640,
+  "EOS_Progressed": 15643,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 1831,
+  "EOS_NewPlayers": 1827,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -4782,6 +4782,11 @@
       "Time": "2023-12-18T07:05:31.7334317+00:00",
       "NumProgressed": 15640,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-12-18T08:05:31.5753392+00:00",
+      "NumProgressed": 15643,
+      "NumCompleted": 68
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -4794,7 +4799,7 @@
       "Name": "Avid Reader",
       "Percentage": 0.7,
       "XP": 90,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "BEAM_ME_UP_SCOTTY_1_7",
@@ -4810,7 +4815,7 @@
       "Name": "Good Listener",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "MORBIDLY_CURIOUS_1_8",
@@ -4873,7 +4878,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 15640,
+      "Progressed": 15643,
       "Completed": 68
     }
   ],
@@ -4881,8 +4886,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2023-12-18T03:58:42.6359817+00:00",
-  "LastChanged_Achievements": "2023-12-18T07:05:31.7334312+00:00",
+  "LastChanged_Achievements": "2023-12-18T08:05:31.5753388+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:09.5453569+00:00",
-  "LastUpdate_Ratings": "2023-12-18T06:58:15.7712354+00:00",
-  "LastUpdate_Achievements": "2023-12-18T07:05:31.733459+00:00"
+  "LastUpdate_Ratings": "2023-12-18T07:58:25.3773638+00:00",
+  "LastUpdate_Achievements": "2023-12-18T08:05:31.5753712+00:00"
 }

@@ -9,9 +9,9 @@ Rating: 4.19 (Ranked 940)
 | Get a Grip | 12.00% | ~2,138 |
 | Paper Jams | 12.00% | ~2,138 |
 | The Outer Way | 12.00% | ~2,138 |
-| Desperate Times | 11.00% | ~1,959 |
-| Chew 'Em Up | 10.00% | ~1,781 |
-| Float Like A Butterfly | 10.00% | ~1,781 |
+| Desperate Times | 11.00% | ~1,960 |
+| Chew 'Em Up | 10.00% | ~1,782 |
+| Float Like A Butterfly | 10.00% | ~1,782 |
 | Reforged | 9.00% | ~1,603 |
 | Workplace Hazard | 8.00% | ~1,425 |
 | If the SHU Fits... | 7.00% | ~1,247 |
@@ -21,7 +21,7 @@ Rating: 4.19 (Ranked 940)
 | Crash Site | 6.00% | ~1,069 |
 | Full Circle | 6.00% | ~1,069 |
 | Power Up | 6.00% | ~1,069 |
-| Keep Fighting | 6.00% | ~344 |
+| Keep Fighting | 6.00% | ~345 |
 | Giving Back | 5.00% | ~891 |
 | You Need a Gun | 5.00% | ~891 |
 | I Do Belong Here | 5.00% | ~891 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 940)
 | Bear Trap | 0.10% | ~6 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,813 (Ranked 149)  
+Progressed: 17,816 (Ranked 149)  
 Completed: 82 (0.46%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 82 (0.46%) (Ranked 217)
 | 2023-12-15 | 17,123 | 82 |
 | 2023-12-16 | 17,442 | 82 |
 | 2023-12-17 | 17,760 | 82 |
-| 2023-12-18 | 17,813 | 82 |
+| 2023-12-18 | 17,816 | 82 |
 ## Awards
 Max (Amazing Storytelling): 88  (Ranked 388)  
 Sum: 517 (Ranked 328)  

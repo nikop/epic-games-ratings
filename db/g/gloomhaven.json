@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 103,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -2681,9 +2681,9 @@
       "Count": 218
     }
   ],
-  "EOS_Progressed": 27166,
+  "EOS_Progressed": 27168,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1398,
+  "EOS_NewPlayers": 1396,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13446,6 +13446,11 @@
       "Time": "2023-12-18T07:09:04.0874695+00:00",
       "NumProgressed": 27166,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-18T08:09:22.5563476+00:00",
+      "NumProgressed": 27168,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -13626,7 +13631,7 @@
       "Name": "Precious!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 4618
+      "UsersEstimate": 4619
     },
     {
       "ID": "Achievement_Trophy23",
@@ -13642,7 +13647,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 10866
+      "UsersEstimate": 10867
     },
     {
       "ID": "Achievement_Trophy25",
@@ -13658,7 +13663,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 9236
+      "UsersEstimate": 9237
     },
     {
       "ID": "Achievement_Trophy27",
@@ -13674,7 +13679,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 8693
+      "UsersEstimate": 8694
     },
     {
       "ID": "Achievement_Trophy29",
@@ -13690,7 +13695,7 @@
       "Name": "Spread the plague",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 7606
+      "UsersEstimate": 7607
     },
     {
       "ID": "Achievement_Trophy31",
@@ -13754,7 +13759,7 @@
       "Name": "Mine... All Mine...",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 4618
+      "UsersEstimate": 4619
     },
     {
       "ID": "Achievement_Trophy39",
@@ -13842,7 +13847,7 @@
       "Name": "Anatomy Lesson",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3803
+      "UsersEstimate": 3804
     },
     {
       "ID": "Achievement_Trophy50",
@@ -13890,7 +13895,7 @@
       "Name": "The Jaws of victory!",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "Achievement_Trophy_JOTL_06",
@@ -13906,7 +13911,7 @@
       "Name": "Pull out the big guns",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "Achievement_Trophy_JOTL_08",
@@ -13922,7 +13927,7 @@
       "Name": "Crimson Tornado",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "Achievement_Trophy_JOTL_10",
@@ -13945,7 +13950,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 27166,
+      "Progressed": 27168,
       "Completed": 1
     }
   ],
@@ -13953,8 +13958,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-12-17T20:59:18.3074128+00:00",
-  "LastChanged_Achievements": "2023-12-18T07:09:04.0874692+00:00",
+  "LastChanged_Achievements": "2023-12-18T08:09:22.5563471+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:35.1754464+00:00",
-  "LastUpdate_Ratings": "2023-12-18T06:58:48.1757523+00:00",
-  "LastUpdate_Achievements": "2023-12-18T07:09:04.0875487+00:00"
+  "LastUpdate_Ratings": "2023-12-18T07:58:58.2663939+00:00",
+  "LastUpdate_Achievements": "2023-12-18T08:09:22.5564966+00:00"
 }

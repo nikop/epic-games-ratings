@@ -6,19 +6,19 @@ Rating: 4.62 (Ranked 371)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 37.00% | ~379 |
-| Rail Rat | 29.00% | ~297 |
 | The Mysterious Stranger | 28.00% | ~287 |
+| Rail Rat | 28.00% | ~287 |
 | Immaculate Aim | 24.00% | ~246 |
 | Make Up For Lost Time | 23.00% | ~236 |
 | Time Flies | 23.00% | ~236 |
 | The Prince in Heels | 23.00% | ~236 |
 | The Brass Boss | 23.00% | ~236 |
-| The Steel Shadow | 22.00% | ~225 |
-| The Harder They Fall | 22.00% | ~225 |
-| No, Thanks! | 22.00% | ~225 |
-| Honest Mistake | 22.00% | ~225 |
-| Fast Learner | 22.00% | ~225 |
-| Immaculate Aim | 22.00% | ~225 |
+| The Steel Shadow | 22.00% | ~226 |
+| The Harder They Fall | 22.00% | ~226 |
+| No, Thanks! | 22.00% | ~226 |
+| Honest Mistake | 22.00% | ~226 |
+| Fast Learner | 22.00% | ~226 |
+| Immaculate Aim | 22.00% | ~226 |
 | Breaking Down Barriers | 21.00% | ~215 |
 | The Wicked Twins | 21.00% | ~215 |
 | Right On Time | 20.00% | ~205 |
@@ -30,12 +30,12 @@ Rating: 4.62 (Ranked 371)
 | The Family Fortune | 18.00% | ~184 |
 | Street Style | 17.00% | ~174 |
 | The Man Who Shattered Time | 17.00% | ~174 |
-| Treasure Trove | 14.00% | ~143 |
-| Whiz Kid | 14.00% | ~143 |
-| Cartographer | 14.00% | ~143 |
-| Family Memories | 13.00% | ~133 |
+| Treasure Trove | 14.00% | ~144 |
+| Whiz Kid | 14.00% | ~144 |
+| Cartographer | 14.00% | ~144 |
 | Good Neighbor | 13.00% | ~133 |
 | Chaincrawler Explorer | 12.00% | ~123 |
+| Family Memories | 12.00% | ~123 |
 | Ask Questions Later | 12.00% | ~123 |
 | Sump Explorer | 11.00% | ~113 |
 | Syron for Hope | 11.00% | ~113 |
@@ -46,8 +46,8 @@ Rating: 4.62 (Ranked 371)
 | Corin Goes Home | 8.00% | ~82 |
 | Sartorialist | 8.00% | ~82 |
 | Entresol Explorer | 8.00% | ~82 |
-| Hexlock for Protection | 6.00% | ~61 |
-| Golem Hunter | 6.00% | ~61 |
+| Hexlock for Protection | 6.00% | ~62 |
+| Golem Hunter | 6.00% | ~62 |
 | Clovemary for Remembering | 5.00% | ~51 |
 | Rungs Was Right | 5.00% | ~51 |
 | Wunderkind | 2.00% | ~20 |
@@ -59,7 +59,7 @@ Rating: 4.62 (Ranked 371)
 | Raw Talent | 0.70% | ~7 |
 | Going to Live Forever | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,024 (Ranked 275)  
+Progressed: 1,025 (Ranked 275)  
 Completed: 6 (0.59%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 6 (0.59%) (Ranked 197)
 | 2023-12-15 | 978 | 6 |
 | 2023-12-16 | 1,000 | 6 |
 | 2023-12-17 | 1,021 | 6 |
-| 2023-12-18 | 1,024 | 6 |
+| 2023-12-18 | 1,025 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

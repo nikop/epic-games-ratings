@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | First Shard | 82.00% | ~271 |
 | Found the Healer | 35.00% | ~115 |
-| Second Shard | 8.00% | ~26 |
+| Second Shard | 9.00% | ~30 |
 | Champion of Kalevala | 7.00% | ~23 |
 | Death is Merely a Setback | 7.00% | ~23 |
 | Ring of Fire! | 7.00% | ~23 |

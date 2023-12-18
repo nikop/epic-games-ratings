@@ -823,9 +823,9 @@
       "ID": "KR4_ACHIEVEMENT_DEFEAT_DWARF_KING",
       "SetID": "caeik3h",
       "Name": "I am Iron Man",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 116
+      "UsersEstimate": 118
     },
     {
       "ID": "KR4_ACHIEVEMENT_DEMOGORGON",
@@ -847,9 +847,9 @@
       "ID": "KR4_ACHIEVEMENT_DWARVES_KINGDOM_FULL",
       "SetID": "caeik3h",
       "Name": "No More Parties In DK",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "KR4_ACHIEVEMENT_ELITEHARASSERS",
@@ -975,9 +975,9 @@
       "ID": "KR4_ACHIEVEMENT_HYPNOTOAD",
       "SetID": "caeik3h",
       "Name": "Glory To The Hypnotoad",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "KR4_ACHIEVEMENT_ICESCULPTOR",
@@ -1023,9 +1023,9 @@
       "ID": "KR4_ACHIEVEMENT_KERMIT",
       "SetID": "caeik3h",
       "Name": "None Of My Business",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_DWARF_ENGINEERS",
@@ -1167,9 +1167,9 @@
       "ID": "KR4_ACHIEVEMENT_PEERLESS_DEFENDER",
       "SetID": "caeik3h",
       "Name": "Peerless Defender",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "KR4_ACHIEVEMENT_POLYX",
@@ -1215,9 +1215,9 @@
       "ID": "KR4_ACHIEVEMENT_SHAOLIN_MASTER",
       "SetID": "caeik3h",
       "Name": "Follow the Master",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "KR4_ACHIEVEMENT_SKIYETI",
@@ -1247,9 +1247,9 @@
       "ID": "KR4_ACHIEVEMENT_SPAWN_REINFORCEMENTS",
       "SetID": "caeik3h",
       "Name": "We Are Legion!",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 83
     },
     {
       "ID": "KR4_ACHIEVEMENT_SPIDERS",
@@ -1263,9 +1263,9 @@
       "ID": "KR4_ACHIEVEMENT_SPIRITMAUSOLEUM",
       "SetID": "caeik3h",
       "Name": "Defenders Of The Night",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "KR4_ACHIEVEMENT_SUPREME_DEFENDER",
@@ -1348,8 +1348,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-18T07:03:51.443764+00:00",
+  "LastChanged_Achievements": "2023-12-18T08:03:51.5072141+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:06.9365218+00:00",
-  "LastUpdate_Ratings": "2023-12-18T06:59:43.3542753+00:00",
-  "LastUpdate_Achievements": "2023-12-18T07:03:51.4438439+00:00"
+  "LastUpdate_Ratings": "2023-12-18T07:59:54.3517181+00:00",
+  "LastUpdate_Achievements": "2023-12-18T08:03:51.5072956+00:00"
 }

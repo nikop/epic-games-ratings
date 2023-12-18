@@ -5,8 +5,8 @@ Rating: 4.58 (Ranked 456)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 30.00% | ~1,065 |
-| Sputnik 2049 | 26.00% | ~923 |
+| Wakey Wakey | 30.00% | ~1,066 |
+| Sputnik 2049 | 26.00% | ~924 |
 | Without Breaking Some Eggs... | 25.00% | ~888 |
 | Infinite Growth... | 25.00% | ~888 |
 | A Thousand Strong | 18.00% | ~639 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 456)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,551 (Ranked 211)  
+Progressed: 3,552 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-15 | 3,496 | 0 |
 | 2023-12-16 | 3,519 | 0 |
 | 2023-12-17 | 3,550 | 0 |
-| 2023-12-18 | 3,551 | 0 |
+| 2023-12-18 | 3,552 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

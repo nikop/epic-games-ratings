@@ -6,17 +6,17 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 40.00% | ~10,866 |
-| Overkill | 34.00% | ~9,236 |
-| Vaccine Incoming | 32.00% | ~8,693 |
+| I'm not dead yet | 40.00% | ~10,867 |
+| Overkill | 34.00% | ~9,237 |
+| Vaccine Incoming | 32.00% | ~8,694 |
 | A normal day in Gloomhaven | 30.00% | ~8,150 |
-| Spread the plague | 28.00% | ~7,606 |
+| Spread the plague | 28.00% | ~7,607 |
 | Get over here! | 24.00% | ~6,520 |
 | Just when I thought I was out... | 19.00% | ~5,162 |
-| Precious! | 17.00% | ~4,618 |
-| Mine... All Mine... | 17.00% | ~4,618 |
+| Precious! | 17.00% | ~4,619 |
+| Mine... All Mine... | 17.00% | ~4,619 |
 | Grizzled veteran | 15.00% | ~4,075 |
-| Anatomy Lesson | 14.00% | ~3,803 |
+| Anatomy Lesson | 14.00% | ~3,804 |
 | Obstacle race | 13.00% | ~3,532 |
 | Light of my life | 13.00% | ~3,532 |
 | You activated my trap card! | 12.00% | ~3,260 |
@@ -56,9 +56,9 @@ Number of Ratings: 68  (23.09.2022)
 | A tough job | 0.40% | ~109 |
 | The evil that men do | 0.40% | ~109 |
 | MacReady Steady.. Go! | 0.40% | ~109 |
-| The Jaws of victory! | 0.30% | ~81 |
-| Pull out the big guns | 0.30% | ~81 |
-| Crimson Tornado | 0.30% | ~81 |
+| The Jaws of victory! | 0.30% | ~82 |
+| Pull out the big guns | 0.30% | ~82 |
+| Crimson Tornado | 0.30% | ~82 |
 | The Cartographer | 0.20% | ~54 |
 | Beware my power | 0.20% | ~54 |
 | Murder Death Kill | 0.20% | ~54 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Lara Who? | 0.10% | ~27 |
 | Hard-travelling Heroes | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,166 (Ranked 134)  
+Progressed: 27,168 (Ranked 134)  
 Completed: 1 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 1 (0.00%) (Ranked 380)
 | 2023-12-15 | 26,519 | 1 |
 | 2023-12-16 | 26,807 | 1 |
 | 2023-12-17 | 27,097 | 1 |
-| 2023-12-18 | 27,166 | 1 |
+| 2023-12-18 | 27,168 | 1 |
 ## Awards
 Max (Character Customization): 3,602  (Ranked 90)  
 Sum: 8,417 (Ranked 103)  

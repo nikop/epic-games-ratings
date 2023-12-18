@@ -2332,9 +2332,9 @@
       "Count": 258
     }
   ],
-  "EOS_Progressed": 220022,
+  "EOS_Progressed": 220025,
   "EOS_Completed": 101,
-  "EOS_NewPlayers": 1452,
+  "EOS_NewPlayers": 1448,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -30097,6 +30097,11 @@
       "Time": "2023-12-18T07:03:49.6190111+00:00",
       "NumProgressed": 220022,
       "NumCompleted": 101
+    },
+    {
+      "Time": "2023-12-18T08:03:49.7019329+00:00",
+      "NumProgressed": 220025,
+      "NumCompleted": 101
     }
   ],
   "TotalAchievements": 44,
@@ -30108,7 +30113,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 24202
+      "UsersEstimate": 24203
     },
     {
       "ID": "AtheistOx",
@@ -30132,7 +30137,7 @@
       "Name": "Chunin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 13201
+      "UsersEstimate": 13202
     },
     {
       "ID": "CompleteMastery",
@@ -30164,7 +30169,7 @@
       "Name": "Flying Rocks",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 13201
+      "UsersEstimate": 13202
     },
     {
       "ID": "GearUp",
@@ -30260,7 +30265,7 @@
       "Name": "Mugen Unchained",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 13201
+      "UsersEstimate": 13202
     },
     {
       "ID": "NoGimmicks",
@@ -30396,7 +30401,7 @@
       "Name": "Thorough",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 24202
+      "UsersEstimate": 24203
     },
     {
       "ID": "TimeParadox",
@@ -30428,7 +30433,7 @@
       "Name": "Warzone",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 13201
+      "UsersEstimate": 13202
     },
     {
       "ID": "WhenCutAcrossTheNeck",
@@ -30459,15 +30464,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 220022,
+      "Progressed": 220025,
       "Completed": 101
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-12-17T02:23:36.283208+00:00",
-  "LastChanged_Achievements": "2023-12-18T07:03:49.619011+00:00",
+  "LastChanged_Achievements": "2023-12-18T08:03:49.7019327+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:48.0979756+00:00",
-  "LastUpdate_Ratings": "2023-12-18T06:59:13.2466422+00:00",
-  "LastUpdate_Achievements": "2023-12-18T07:03:49.619155+00:00"
+  "LastUpdate_Ratings": "2023-12-18T07:59:23.5317015+00:00",
+  "LastUpdate_Achievements": "2023-12-18T08:03:49.7020714+00:00"
 }

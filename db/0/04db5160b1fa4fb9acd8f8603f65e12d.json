@@ -54,9 +54,9 @@
       "ID": "0_0",
       "SetID": "92c5pfn",
       "Name": "0.0%",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ALL_EYES_ON_ME",
@@ -78,9 +78,9 @@
       "ID": "ALMOST",
       "SetID": "92c5pfn",
       "Name": "Almost",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 45,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BASIC_NEED",
@@ -182,9 +182,9 @@
       "ID": "HAND_CARE",
       "SetID": "92c5pfn",
       "Name": "Take care of those hands",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "HEARTBREAKER",
@@ -357,8 +357,8 @@
   ],
   "FirstSeen": "2023-11-28T02:23:17.9466472+00:00",
   "FirstSeenAchievements": "2023-06-11T08:01:53.6412466+00:00",
-  "LastChanged_Achievements": "2023-12-18T07:03:58.519403+00:00",
+  "LastChanged_Achievements": "2023-12-18T08:03:58.6238383+00:00",
   "LastUpdate_AppInfo": "2023-12-18T02:20:38.6207149+00:00",
-  "LastUpdate_Ratings": "2023-12-18T06:59:23.081816+00:00",
-  "LastUpdate_Achievements": "2023-12-18T07:03:58.5194307+00:00"
+  "LastUpdate_Ratings": "2023-12-18T07:59:32.3478753+00:00",
+  "LastUpdate_Achievements": "2023-12-18T08:03:58.6238902+00:00"
 }

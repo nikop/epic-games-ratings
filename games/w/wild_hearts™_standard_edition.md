@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Land of the Rising Sun | 100.00% | ~627 |
-| Hidden History | 72.00% | ~451 |
+| Land of the Rising Sun | 100.00% | ~628 |
+| Hidden History | 72.00% | ~452 |
 | Commencing of Quests | 62.00% | ~389 |
-| Budding Conjuror | 61.00% | ~382 |
-| Man-Machine Master | 49.00% | ~307 |
-| Subsistence Skills | 49.00% | ~307 |
+| Budding Conjuror | 61.00% | ~383 |
+| Man-Machine Master | 49.00% | ~308 |
+| Subsistence Skills | 49.00% | ~308 |
 | Mountain Splitter | 48.00% | ~301 |
 | Charmed by the Hunt | 48.00% | ~301 |
 | Fusion Conjuror | 47.00% | ~295 |
 | Memory Rouser | 47.00% | ~295 |
-| Kemono Hunter | 42.00% | ~263 |
+| Kemono Hunter | 42.00% | ~264 |
 | Helpful Heart | 41.00% | ~257 |
-| Flawless Crystal | 40.00% | ~251 |
+| Flawless Crystal | 39.00% | ~245 |
 | Expert Conjuror | 39.00% | ~245 |
 | Bonds of Enmity | 37.00% | ~232 |
 | Distance Devourer | 36.00% | ~226 |
-| Counter Specialist | 34.00% | ~213 |
+| Counter Specialist | 34.00% | ~214 |
 | Master of the Skies | 33.00% | ~207 |
 | Axer of Auspice | 30.00% | ~188 |
 | Mighty Marmelizer | 29.00% | ~182 |
 | Fair Means or Foul | 28.00% | ~176 |
-| Kemono at Heart | 27.00% | ~169 |
+| Kemono at Heart | 27.00% | ~170 |
 | Single Minded | 26.00% | ~163 |
-| Snare Specialist | 26.00% | ~163 |
 | Artful Assister | 26.00% | ~163 |
-| Karakuri Trail | 24.00% | ~150 |
+| Snare Specialist | 25.00% | ~157 |
+| Karakuri Trail | 24.00% | ~151 |
 | Team Hunter | 22.00% | ~138 |
 | Karakuri Isle | 21.00% | ~132 |
 | Reincarnation Cycle Stopper | 21.00% | ~132 |
@@ -47,14 +47,14 @@
 | Haven Hunter | 12.00% | ~75 |
 | Tender Touch | 11.00% | ~69 |
 | Superlative View | 11.00% | ~69 |
-| Relentless Kemono Hunter | 9.00% | ~56 |
-| Vanquisher of the Volatile | 8.00% | ~50 |
+| Relentless Kemono Hunter | 9.00% | ~57 |
+| Vanquisher of the Volatile | 9.00% | ~57 |
 | Big Spender | 7.00% | ~44 |
 | Bewitched by Bathing | 6.00% | ~38 |
 | Tsukumo Whisperer | 4.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 627 (Ranked 308)  
-Completed: 8 (1.28%) (Ranked 153)  
+Progressed: 628 (Ranked 308)  
+Completed: 8 (1.27%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -147,4 +147,4 @@ Completed: 8 (1.28%) (Ranked 153)
 | 2023-12-15 | 484 | 8 |
 | 2023-12-16 | 552 | 8 |
 | 2023-12-17 | 613 | 8 |
-| 2023-12-18 | 627 | 8 |
+| 2023-12-18 | 628 | 8 |

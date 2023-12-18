@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
@@ -71,9 +71,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 91,
+  "EOS_Progressed": 92,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -506,6 +506,11 @@
       "Time": "2023-12-17T21:10:08.10226+00:00",
       "NumProgressed": 91,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T08:09:59.8042567+00:00",
+      "NumProgressed": 92,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T08:07:32.4989951+00:00",
@@ -516,7 +521,7 @@
       "ID": "id_10",
       "SetID": "bk9jib6",
       "Name": "The merciful one",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
       "UsersEstimate": 36
     },
@@ -580,7 +585,7 @@
       "ID": "id_19",
       "SetID": "bk9jib6",
       "Name": "Pandora\u0027s box",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
       "UsersEstimate": 17
     },
@@ -588,7 +593,7 @@
       "ID": "id_2",
       "SetID": "bk9jib6",
       "Name": "Field hand",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 10,
       "UsersEstimate": 40
     },
@@ -604,7 +609,7 @@
       "ID": "id_22",
       "SetID": "bk9jib6",
       "Name": "Ghost hunter",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
       "UsersEstimate": 17
     },
@@ -636,7 +641,7 @@
       "ID": "id_3",
       "SetID": "bk9jib6",
       "Name": "Philanthropist",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 10,
       "UsersEstimate": 63
     },
@@ -644,7 +649,7 @@
       "ID": "id_30",
       "SetID": "bk9jib6",
       "Name": "Beginner",
-      "Percentage": 93,
+      "Percentage": 92,
       "XP": 10,
       "UsersEstimate": 85
     },
@@ -660,7 +665,7 @@
       "ID": "id_33",
       "SetID": "bk9jib6",
       "Name": "Ferocious wild boars",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
       "UsersEstimate": 27
     },
@@ -692,7 +697,7 @@
       "ID": "id_4",
       "SetID": "bk9jib6",
       "Name": "Samaritan",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 20,
       "UsersEstimate": 39
     },
@@ -764,7 +769,7 @@
       "ID": "id_5",
       "SetID": "bk9jib6",
       "Name": "Peacekeeper",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
       "UsersEstimate": 16
     },
@@ -828,7 +833,7 @@
       "ID": "id_57",
       "SetID": "bk9jib6",
       "Name": "Well-to-do",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
       "UsersEstimate": 36
     },
@@ -860,7 +865,7 @@
       "ID": "id_60",
       "SetID": "bk9jib6",
       "Name": "Adventurer",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 10,
       "UsersEstimate": 60
     },
@@ -868,7 +873,7 @@
       "ID": "id_61",
       "SetID": "bk9jib6",
       "Name": "Map reader",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 10,
       "UsersEstimate": 68
     },
@@ -876,7 +881,7 @@
       "ID": "id_62",
       "SetID": "bk9jib6",
       "Name": "Archer",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 46
     },
@@ -908,7 +913,7 @@
       "ID": "id_9",
       "SetID": "bk9jib6",
       "Name": "Master detective",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
       "UsersEstimate": 17
     }
@@ -917,7 +922,7 @@
     {
       "ID": "bk9jib6",
       "IsBase": true,
-      "Progressed": 91,
+      "Progressed": 92,
       "Completed": 0
     }
   ],
@@ -925,8 +930,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-12-15T05:01:07.5728894+00:00",
-  "LastChanged_Achievements": "2023-12-18T07:09:40.9187546+00:00",
+  "LastChanged_Achievements": "2023-12-18T08:09:59.8042562+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:12.9761539+00:00",
-  "LastUpdate_Ratings": "2023-12-18T06:57:36.7850162+00:00",
-  "LastUpdate_Achievements": "2023-12-18T07:09:40.9187939+00:00"
+  "LastUpdate_Ratings": "2023-12-18T07:57:44.6874532+00:00",
+  "LastUpdate_Achievements": "2023-12-18T08:09:59.8043062+00:00"
 }

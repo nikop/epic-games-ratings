@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1024,
+  "EOS_Progressed": 1025,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -2814,6 +2814,11 @@
       "Time": "2023-12-18T05:09:49.0076187+00:00",
       "NumProgressed": 1024,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-18T08:09:56.2378395+00:00",
+      "NumProgressed": 1025,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2833,7 +2838,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -2849,7 +2854,7 @@
       "Name": "Treasure Trove",
       "Percentage": 14,
       "XP": 75,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -2919,9 +2924,9 @@
       "ID": "ExamineFamilyPortrait",
       "SetID": "a9e499d",
       "Name": "Family Memories",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 123
     },
     {
       "ID": "FactorywoodChests1",
@@ -2977,15 +2982,15 @@
       "Name": "Whiz Kid",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "GrindingTime1",
       "SetID": "a9e499d",
       "Name": "Rail Rat",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 297
+      "UsersEstimate": 287
     },
     {
       "ID": "HexlockGift",
@@ -2993,7 +2998,7 @@
       "Name": "Hexlock for Protection",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "InxChromaInTheatre",
@@ -3025,7 +3030,7 @@
       "Name": "Cartographer",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "NoCritterSump",
@@ -3073,7 +3078,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ParryRepeated1",
@@ -3081,7 +3086,7 @@
       "Name": "No, Thanks!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "PhaseDiveCounter",
@@ -3121,7 +3126,7 @@
       "Name": "Honest Mistake",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ScrambotCompletion1",
@@ -3129,7 +3134,7 @@
       "Name": "Golem Hunter",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ScrambotProgress1",
@@ -3153,7 +3158,7 @@
       "Name": "Fast Learner",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "SpeedRun",
@@ -3209,7 +3214,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "WatcherFought",
@@ -3248,7 +3253,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1024,
+      "Progressed": 1025,
       "Completed": 6
     }
   ],
@@ -3256,8 +3261,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-12-18T07:09:37.4760816+00:00",
+  "LastChanged_Achievements": "2023-12-18T08:09:56.2378391+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.1550939+00:00",
-  "LastUpdate_Ratings": "2023-12-18T06:57:52.4263678+00:00",
-  "LastUpdate_Achievements": "2023-12-18T07:09:37.476147+00:00"
+  "LastUpdate_Ratings": "2023-12-18T07:57:59.9691446+00:00",
+  "LastUpdate_Achievements": "2023-12-18T08:09:56.2379002+00:00"
 }

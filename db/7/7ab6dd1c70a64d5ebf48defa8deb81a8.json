@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 775,
+  "EOS_Progressed": 776,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 512,
+  "EOS_NewPlayers": 513,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1615,6 +1615,11 @@
       "Time": "2023-12-18T07:09:48.7446207+00:00",
       "NumProgressed": 775,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-18T08:10:07.5144927+00:00",
+      "NumProgressed": 776,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1624,9 +1629,9 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 356
+      "UsersEstimate": 349
     },
     {
       "ID": "ACH_02",
@@ -1824,9 +1829,9 @@
       "ID": "ACH_26",
       "SetID": "efe2lj",
       "Name": "Scholar",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_27",
@@ -1913,14 +1918,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 775,
+      "Progressed": 776,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-18T07:09:48.7446204+00:00",
+  "LastChanged_Achievements": "2023-12-18T08:10:07.5144923+00:00",
   "LastUpdate_AppInfo": "2023-12-11T21:57:02.3853442+00:00",
-  "LastUpdate_Ratings": "2023-12-18T06:59:33.6315449+00:00",
-  "LastUpdate_Achievements": "2023-12-18T07:09:48.7446497+00:00"
+  "LastUpdate_Ratings": "2023-12-18T07:59:43.3783892+00:00",
+  "LastUpdate_Achievements": "2023-12-18T08:10:07.5145243+00:00"
 }

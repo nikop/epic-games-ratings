@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -227,11 +227,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1220,
+  "EOS_Progressed": 1221,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.48,
+  "EOS_Completed_Percentage": 1.47,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:47.1560439+00:00",
@@ -2662,6 +2662,11 @@
       "Time": "2023-12-18T01:52:52.8782184+00:00",
       "NumProgressed": 1220,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-18T08:04:13.4078267+00:00",
+      "NumProgressed": 1221,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 27,
@@ -2697,7 +2702,7 @@
       "Name": "Roll with it",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -2705,7 +2710,7 @@
       "Name": "Kaboom",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "ACH_ELEVATOR_FIXED",
@@ -2713,7 +2718,7 @@
       "Name": "Fine, I\u0027ll do it myself",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "ACH_ELIZA_PHOTO",
@@ -2735,9 +2740,9 @@
       "ID": "ACH_GHOST_BUSTED",
       "SetID": "7k95e4n",
       "Name": "No need to call anyone",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 488
+      "UsersEstimate": 476
     },
     {
       "ID": "ACH_GLORY_AND_SPLENDOR_FINISHED",
@@ -2761,7 +2766,7 @@
       "Name": "Memento",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -2769,15 +2774,15 @@
       "Name": "No pressure",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "ACH_HOTEL_NAMED",
       "SetID": "7k95e4n",
       "Name": "And so it begins",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 891
+      "UsersEstimate": 879
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -2793,7 +2798,7 @@
       "Name": "Big fortune",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "ACH_POSTCARD",
@@ -2801,7 +2806,7 @@
       "Name": "Island boy",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "ACH_POWER_OUTRAGE_FIXED",
@@ -2825,7 +2830,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "ACH_STAR_2",
@@ -2833,7 +2838,7 @@
       "Name": "Moving up",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "ACH_STAR_3",
@@ -2888,7 +2893,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1220,
+      "Progressed": 1221,
       "Completed": 18
     }
   ],
@@ -2896,8 +2901,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-12-17T01:52:20.9654056+00:00",
-  "LastChanged_Achievements": "2023-12-18T07:04:13.1958861+00:00",
+  "LastChanged_Achievements": "2023-12-18T08:04:13.4078263+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:13.8800884+00:00",
-  "LastUpdate_Ratings": "2023-12-18T06:59:55.1778733+00:00",
-  "LastUpdate_Achievements": "2023-12-18T07:04:13.1959076+00:00"
+  "LastUpdate_Ratings": "2023-12-18T08:00:06.5917372+00:00",
+  "LastUpdate_Achievements": "2023-12-18T08:04:13.4078604+00:00"
 }

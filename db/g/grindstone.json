@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewPlayers": 327,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -213,9 +213,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5200,
+  "EOS_Progressed": 5201,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -978,6 +978,11 @@
       "Time": "2023-12-18T03:07:52.5063862+00:00",
       "NumProgressed": 5200,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-12-18T08:06:18.4632918+00:00",
+      "NumProgressed": 5201,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 49,
@@ -1093,7 +1098,7 @@
       "Name": "Timber!",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 3172
+      "UsersEstimate": 3173
     },
     {
       "ID": "ACHIEVE_ATE_FOOD_3",
@@ -1117,7 +1122,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5096
+      "UsersEstimate": 5097
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -1125,7 +1130,7 @@
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 3276
+      "UsersEstimate": 3277
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -1197,7 +1202,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4056
+      "UsersEstimate": 4057
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -1213,7 +1218,7 @@
       "Name": "Killed 20 Jerks",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 2808
+      "UsersEstimate": 2809
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_200",
@@ -1229,7 +1234,7 @@
       "Name": "Royal Flush",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3224
+      "UsersEstimate": 3225
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_50",
@@ -1261,7 +1266,7 @@
       "Name": "Survive the Bombsequences",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3068
+      "UsersEstimate": 3069
     },
     {
       "ID": "ACHIEVE_LVL_180_COMPLETE",
@@ -1277,7 +1282,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5096
+      "UsersEstimate": 5097
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1333,7 +1338,7 @@
       "Name": "Death Defied",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 2808
+      "UsersEstimate": 2809
     },
     {
       "ID": "ACHIEVE_PLATINUM",
@@ -1373,22 +1378,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3692
+      "UsersEstimate": 3693
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5200,
+      "Progressed": 5201,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-12-18T07:06:18.1061629+00:00",
+  "LastChanged_Achievements": "2023-12-18T08:06:18.4632913+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:32.3869893+00:00",
-  "LastUpdate_Ratings": "2023-12-18T06:57:04.7276543+00:00",
-  "LastUpdate_Achievements": "2023-12-18T07:06:18.1061935+00:00"
+  "LastUpdate_Ratings": "2023-12-18T07:57:12.6463082+00:00",
+  "LastUpdate_Achievements": "2023-12-18T08:06:18.4633368+00:00"
 }

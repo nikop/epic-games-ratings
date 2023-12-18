@@ -22,7 +22,7 @@
 | No bullying more | 67.00% | ~275 |
 | Pal of your father? | 64.00% | ~262 |
 | Spirit of the past | 62.00% | ~254 |
-| Employee of the month | 61.00% | ~250 |
+| Employee of the month | 62.00% | ~254 |
 | Law student | 58.00% | ~238 |
 | Workout professional | 57.00% | ~234 |
 | Little hacker | 57.00% | ~234 |

@@ -6,7 +6,7 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,792 |
+| Unforgiven | 89.00% | ~1,812 |
 | Self-Improvement | 71.00% | ~1,446 |
 | Perky | 65.00% | ~1,323 |
 | Let’s Ride | 59.00% | ~1,201 |

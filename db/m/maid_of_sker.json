@@ -4,7 +4,7 @@
   "ProductSlug": "maid-of-sker-2ae24e",
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 388,
+  "Ranking_EOS_NewPlayers": 377,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 232,
+  "EOS_Progressed": 233,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -545,6 +545,11 @@
       "Time": "2023-12-17T17:05:53.8139175+00:00",
       "NumProgressed": 232,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T08:05:12.9907486+00:00",
+      "NumProgressed": 233,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -556,7 +561,7 @@
       "Name": "Animal Lover",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "axe_of_kindness",
@@ -596,7 +601,7 @@
       "Name": "Choking Hazard",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "dodgy_geezer",
@@ -612,7 +617,7 @@
       "Name": "Don\u0027t Breathe",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "easy_listening",
@@ -795,7 +800,7 @@
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 232,
+      "Progressed": 233,
       "Completed": 0
     }
   ],
@@ -803,8 +808,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-12-18T07:05:12.7476946+00:00",
+  "LastChanged_Achievements": "2023-12-18T08:05:12.9907483+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:12.385492+00:00",
-  "LastUpdate_Ratings": "2023-12-18T06:57:40.650619+00:00",
-  "LastUpdate_Achievements": "2023-12-18T07:05:12.7477094+00:00"
+  "LastUpdate_Ratings": "2023-12-18T07:57:48.3822627+00:00",
+  "LastUpdate_Achievements": "2023-12-18T08:05:12.990765+00:00"
 }

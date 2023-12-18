@@ -6,7 +6,7 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~15,282 |
+| Sink Beneath the Waves | 36.00% | ~15,283 |
 | Sweet Sorrow | 18.00% | ~7,641 |
 | Rules the Waves | 17.00% | ~7,217 |
 | Thou, All-Shaking Thunder | 15.00% | ~6,368 |
@@ -23,7 +23,7 @@ Number of Ratings: 401  (23.09.2022)
 | Salvager | 7.00% | ~2,972 |
 | Open Your Ears | 7.00% | ~2,972 |
 | The Ascent of Man | 7.00% | ~2,972 |
-| Zee Fever | 5.00% | ~2,122 |
+| Zee Fever | 5.00% | ~2,123 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,698 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,698 |
 | Storm's Curse | 3.00% | ~1,274 |
@@ -31,12 +31,12 @@ Number of Ratings: 401  (23.09.2022)
 | Come Closer | 3.00% | ~1,274 |
 | Roaring Rise | 2.00% | ~849 |
 | I am the Captain of my Soul | 2.00% | ~849 |
-| A buoyant escape | 1.00% | ~424 |
-| Frightful, sheer, no-man-fathomed | 1.00% | ~424 |
-| The Bell Tolls | 1.00% | ~424 |
-| Knife, Cup and Bone | 1.00% | ~424 |
-| Rosewater sailor | 1.00% | ~424 |
-| A current under zee | 1.00% | ~424 |
+| A buoyant escape | 1.00% | ~425 |
+| Frightful, sheer, no-man-fathomed | 1.00% | ~425 |
+| The Bell Tolls | 1.00% | ~425 |
+| Knife, Cup and Bone | 1.00% | ~425 |
+| Rosewater sailor | 1.00% | ~425 |
+| A current under zee | 1.00% | ~425 |
 | Never Stop Sinking... | 0.90% | ~382 |
 | His bones in whispers | 0.90% | ~382 |
 | The beauty of the deep | 0.90% | ~382 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~42 |
 | Ten Years at Zee | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,450 (Ranked 124)  
+Progressed: 42,452 (Ranked 124)  
 Completed: 4 (0.01%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 4 (0.01%) (Ranked 356)
 | 2023-12-15 | 42,261 | 4 |
 | 2023-12-16 | 42,346 | 4 |
 | 2023-12-17 | 42,431 | 4 |
-| 2023-12-18 | 42,450 | 4 |
+| 2023-12-18 | 42,452 | 4 |
 ## Awards
 Max (Character Customization): 219  (Ranked 285)  
 Sum: 313 (Ranked 366)  

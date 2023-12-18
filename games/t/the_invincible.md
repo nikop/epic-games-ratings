@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 64.00% | ~479 |
-| The Teleprobe | 51.00% | ~381 |
-| The City | 46.00% | ~344 |
-| The field base | 41.00% | ~307 |
+| The Camp | 63.00% | ~472 |
+| The Teleprobe | 51.00% | ~382 |
+| The City | 46.00% | ~345 |
+| The field base | 41.00% | ~308 |
 | Survivors | 35.00% | ~262 |
-| The Condor | 32.00% | ~239 |
+| The Condor | 32.00% | ~240 |
 | The Alliance | 31.00% | ~232 |
 | The End | 31.00% | ~232 |
-| The Necroevolution | 26.00% | ~194 |
-| Krauta is alive | 25.00% | ~187 |
-| Peacemaker | 21.00% | ~157 |
+| The Necroevolution | 26.00% | ~195 |
+| Krauta is alive | 25.00% | ~188 |
+| Peacemaker | 21.00% | ~158 |
 | Volcanologist | 19.00% | ~142 |
 | On her own | 18.00% | ~135 |
-| Evacuation | 17.00% | ~127 |
-| Beyond divisions | 17.00% | ~127 |
+| Evacuation | 17.00% | ~128 |
+| Beyond divisions | 17.00% | ~128 |
 | Fierce fight | 16.00% | ~120 |
-| Flying Objects Operator | 14.00% | ~105 |
+| Flying Objects Operator | 15.00% | ~112 |
 | I remember everything! | 12.00% | ~90 |
 | Another giant | 11.00% | ~82 |
-| Violent solution | 9.00% | ~67 |
-| I leave no man behind | 7.00% | ~52 |
-| Innate curiosity | 7.00% | ~52 |
-| Ubiquitous holes | 5.00% | ~37 |
-| The Invincible | 5.00% | ~37 |
-| Strong objection | 5.00% | ~37 |
+| Violent solution | 9.00% | ~68 |
+| I leave no man behind | 7.00% | ~53 |
+| Innate curiosity | 7.00% | ~53 |
+| Ubiquitous holes | 5.00% | ~38 |
+| The Invincible | 5.00% | ~38 |
+| Strong objection | 5.00% | ~38 |
 | Got lost again | 4.00% | ~30 |
 | I leave no man behind (no exceptions) | 2.00% | ~15 |
 | Convoy list | 0.90% | ~7 |
 | No more mistakes | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 748 (Ranked 292)  
+Progressed: 750 (Ranked 292)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,4 +77,4 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-15 | 653 | 0 |
 | 2023-12-16 | 700 | 0 |
 | 2023-12-17 | 741 | 0 |
-| 2023-12-18 | 748 | 0 |
+| 2023-12-18 | 750 | 0 |
