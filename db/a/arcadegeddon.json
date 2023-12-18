@@ -2,13 +2,13 @@
   "ID": "043ffc92cbd64a9fbc350ea68f415937",
   "Name": "Arcadegeddon",
   "ProductSlug": "arcadegeddon",
-  "Ranking_Rating": 620,
+  "Ranking_Rating": 619,
   "Ranking_Popularity": 416,
   "Ranking_PopularitySum": 337,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
     "PcReleaseDate": "2021-07-08T21:30:00+00:00",
@@ -13379,8 +13379,8 @@
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-12-06T04:01:07.9880717+00:00",
-  "LastChanged_Achievements": "2023-12-18T22:05:46.5300413+00:00",
+  "LastChanged_Achievements": "2023-12-18T23:07:14.1205197+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:43.1227205+00:00",
-  "LastUpdate_Ratings": "2023-12-18T21:59:06.3996755+00:00",
-  "LastUpdate_Achievements": "2023-12-18T22:05:46.5301125+00:00"
+  "LastUpdate_Ratings": "2023-12-18T23:00:27.902133+00:00",
+  "LastUpdate_Achievements": "2023-12-18T23:07:14.1205973+00:00"
 }

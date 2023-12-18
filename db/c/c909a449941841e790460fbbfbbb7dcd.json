@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 397,
   "Ranking_EOS_Completed": 86,
   "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
     "PcReleaseDate": "2023-05-28T19:00:00+00:00",
@@ -944,9 +944,9 @@
       "ID": "BUY_FUSION_BOMB_LEVEL_1",
       "SetID": "14g34pl",
       "Name": "Kaboom!",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 60,
-      "UsersEstimate": 85
+      "UsersEstimate": 87
     },
     {
       "ID": "BUY_LASER_BEAM_LEVEL_1",
@@ -976,17 +976,17 @@
       "ID": "DEFEATED_100_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Murderer",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 171
+      "UsersEstimate": 173
     },
     {
       "ID": "DEFEATED_10_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Killer",
-      "Percentage": 95,
+      "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 200
     },
     {
       "ID": "DEFEATED_20000_ENEMIES",
@@ -1000,9 +1000,9 @@
       "ID": "NEW_ACHIEVEMENT_0_0",
       "SetID": "14g34pl",
       "Name": "Peaceful is safe!",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 60,
-      "UsersEstimate": 131
+      "UsersEstimate": 133
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_0",
@@ -1087,8 +1087,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-12-18T22:06:13.1313778+00:00",
+  "LastChanged_Achievements": "2023-12-18T23:07:49.8179933+00:00",
   "LastUpdate_AppInfo": "2023-12-12T21:57:14.3760557+00:00",
-  "LastUpdate_Ratings": "2023-12-18T21:57:27.6991168+00:00",
-  "LastUpdate_Achievements": "2023-12-18T22:06:13.1313939+00:00"
+  "LastUpdate_Ratings": "2023-12-18T22:58:00.8195214+00:00",
+  "LastUpdate_Achievements": "2023-12-18T23:07:49.8180034+00:00"
 }

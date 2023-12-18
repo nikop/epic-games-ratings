@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 815,
+  "EOS_Progressed": 818,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 551,
+  "EOS_NewPlayers": 554,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -1690,6 +1690,11 @@
       "Time": "2023-12-18T22:09:42.2103551+00:00",
       "NumProgressed": 815,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-18T23:10:25.7365356+00:00",
+      "NumProgressed": 818,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1701,7 +1706,7 @@
       "Name": "Break Out",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "ACH_02",
@@ -1709,7 +1714,7 @@
       "Name": "Find Allies",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACH_03",
@@ -1733,7 +1738,7 @@
       "Name": "To Battle",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_06",
@@ -1741,7 +1746,7 @@
       "Name": "Godslayer",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_07",
@@ -1757,7 +1762,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_09",
@@ -1803,9 +1808,9 @@
       "ID": "ACH_14",
       "SetID": "efe2lj",
       "Name": "Airborne",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_15",
@@ -1835,9 +1840,9 @@
       "ID": "ACH_18",
       "SetID": "efe2lj",
       "Name": "Shatter Them All",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH_19",
@@ -1877,7 +1882,7 @@
       "Name": "Geared Up",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH_24",
@@ -1949,7 +1954,7 @@
       "Name": "Miner",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_34",
@@ -1957,7 +1962,7 @@
       "Name": "The Collector",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH_35",
@@ -1988,14 +1993,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 815,
+      "Progressed": 818,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-18T22:09:42.2103548+00:00",
-  "LastUpdate_AppInfo": "2023-12-11T21:57:02.3853442+00:00",
-  "LastUpdate_Ratings": "2023-12-18T21:59:34.2910044+00:00",
-  "LastUpdate_Achievements": "2023-12-18T22:09:42.2103843+00:00"
+  "LastChanged_Achievements": "2023-12-18T23:10:25.7365342+00:00",
+  "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
+  "LastUpdate_Ratings": "2023-12-18T23:01:09.1629638+00:00",
+  "LastUpdate_Achievements": "2023-12-18T23:10:25.7365668+00:00"
 }

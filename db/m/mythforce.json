@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 317,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -842,7 +842,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5635,
+  "EOS_Progressed": 5636,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 0,
@@ -11362,6 +11362,11 @@
       "Time": "2023-12-18T22:03:08.4590428+00:00",
       "NumProgressed": 5635,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-18T23:03:27.3569545+00:00",
+      "NumProgressed": 5636,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -11406,7 +11411,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 1352
+      "UsersEstimate": 1353
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -11438,7 +11443,7 @@
       "Name": "Flawless Victory",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -11542,7 +11547,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 1352
+      "UsersEstimate": 1353
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -11557,15 +11562,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5635,
+      "Progressed": 5636,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-17T11:57:49.7030504+00:00",
-  "LastChanged_Achievements": "2023-12-18T22:03:08.4590425+00:00",
+  "LastChanged_Achievements": "2023-12-18T23:03:27.3569541+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:20.367807+00:00",
-  "LastUpdate_Ratings": "2023-12-18T21:57:59.1749007+00:00",
-  "LastUpdate_Achievements": "2023-12-18T22:03:08.4591198+00:00"
+  "LastUpdate_Ratings": "2023-12-18T22:58:45.4597038+00:00",
+  "LastUpdate_Achievements": "2023-12-18T23:03:27.3570279+00:00"
 }

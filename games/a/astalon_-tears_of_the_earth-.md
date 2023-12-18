@@ -20,12 +20,12 @@
 | Snakehead! | 30.00% | ~21 |
 | Fly, you fool! | 28.00% | ~20 |
 | Relic Collector | 27.00% | ~19 |
+| Cartographer | 25.00% | ~18 |
 | God of the Tower! | 24.00% | ~17 |
-| Cartographer | 24.00% | ~17 |
 | Wizard Mastery | 18.00% | ~13 |
 | Rogue Mastery | 17.00% | ~12 |
+| Slay the Monster! | 15.00% | ~11 |
 | Fighter Mastery | 14.00% | ~10 |
-| Slay the Monster! | 14.00% | ~10 |
 | Destoy all monsters! | 13.00% | ~9 |
 | Gorgonslayer Mastery | 11.00% | ~8 |
 | Built for adventure | 11.00% | ~8 |

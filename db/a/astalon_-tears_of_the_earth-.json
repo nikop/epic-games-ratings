@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 496,
   "Ranking_EOS_Completed": 90,
   "Ranking_EOS_NewPlayers": 474,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-04-01T00:00:00+00:00",
     "PcReleaseDate": "2022-04-01T00:00:00+00:00",
@@ -292,9 +292,9 @@
       "ID": "Defeat_5000_Enemies",
       "SetID": "4f0g260",
       "Name": "Slay the Monster!",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Defeat_Gemini",
@@ -356,9 +356,9 @@
       "ID": "Get_100_Map_Completion",
       "SetID": "4f0g260",
       "Name": "Cartographer",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Unlock_All_Secrets",
@@ -397,8 +397,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00",
   "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
-  "LastChanged_Achievements": "2023-12-18T22:03:53.3184092+00:00",
+  "LastChanged_Achievements": "2023-12-18T23:04:39.0283472+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:25.0046132+00:00",
-  "LastUpdate_Ratings": "2023-12-18T21:58:30.4512618+00:00",
-  "LastUpdate_Achievements": "2023-12-18T22:03:53.3184264+00:00"
+  "LastUpdate_Ratings": "2023-12-18T22:59:31.437515+00:00",
+  "LastUpdate_Achievements": "2023-12-18T23:04:39.0283676+00:00"
 }

@@ -5,24 +5,24 @@ Rating: 4.19 (Ranked 939)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 13.00% | ~2,332 |
-| Get a Grip | 13.00% | ~2,332 |
-| The Outer Way | 13.00% | ~2,332 |
-| Paper Jams | 12.00% | ~2,153 |
-| Desperate Times | 11.00% | ~1,973 |
-| Chew 'Em Up | 10.00% | ~1,794 |
-| Float Like A Butterfly | 10.00% | ~1,794 |
-| Reforged | 9.00% | ~1,614 |
-| Workplace Hazard | 8.00% | ~1,435 |
-| If the SHU Fits... | 8.00% | ~1,435 |
+| Flesh Wound | 13.00% | ~2,333 |
+| Get a Grip | 13.00% | ~2,333 |
+| The Outer Way | 13.00% | ~2,333 |
+| Paper Jams | 12.00% | ~2,154 |
+| Desperate Times | 11.00% | ~1,974 |
+| Chew 'Em Up | 10.00% | ~1,795 |
+| Float Like A Butterfly | 10.00% | ~1,795 |
+| Reforged | 9.00% | ~1,615 |
+| Workplace Hazard | 8.00% | ~1,436 |
+| If the SHU Fits... | 8.00% | ~1,436 |
 | Without A Paddle | 7.00% | ~1,256 |
-| Two Heads Are Better Than One | 6.00% | ~1,076 |
-| Terminated | 6.00% | ~1,076 |
-| In the Pipe, Five by Five | 6.00% | ~1,076 |
-| What Lies Beneath | 6.00% | ~1,076 |
-| Crash Site | 6.00% | ~1,076 |
-| Full Circle | 6.00% | ~1,076 |
-| Power Up | 6.00% | ~1,076 |
+| Two Heads Are Better Than One | 6.00% | ~1,077 |
+| Terminated | 6.00% | ~1,077 |
+| In the Pipe, Five by Five | 6.00% | ~1,077 |
+| What Lies Beneath | 6.00% | ~1,077 |
+| Crash Site | 6.00% | ~1,077 |
+| Full Circle | 6.00% | ~1,077 |
+| Power Up | 6.00% | ~1,077 |
 | Keep Fighting | 6.00% | ~352 |
 | Giving Back | 5.00% | ~897 |
 | You Need a Gun | 5.00% | ~897 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 939)
 | Bear Trap | 0.10% | ~6 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,938 (Ranked 149)  
+Progressed: 17,946 (Ranked 149)  
 Completed: 82 (0.46%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 82 (0.46%) (Ranked 219)
 | 2023-12-15 | 17,123 | 82 |
 | 2023-12-16 | 17,442 | 82 |
 | 2023-12-17 | 17,760 | 82 |
-| 2023-12-18 | 17,938 | 82 |
+| 2023-12-18 | 17,946 | 82 |
 ## Awards
 Max (Quickly Understood Controls): 88  (Ranked 388)  
 Sum: 521 (Ranked 327)  

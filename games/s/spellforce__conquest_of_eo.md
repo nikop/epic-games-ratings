@@ -8,7 +8,7 @@
 | Enough rooms to swing a cat | 84.00% | ~53 |
 | First to the post | 84.00% | ~53 |
 | A kind of Magic | 78.00% | ~49 |
-| Connected | 70.00% | ~44 |
+| Connected | 71.00% | ~45 |
 | Expansion | 67.00% | ~42 |
 | Mine! | 62.00% | ~39 |
 | Harvest Time | 60.00% | ~38 |
@@ -20,29 +20,29 @@
 | Alchemist's Apprentice | 40.00% | ~25 |
 | Friend of Lyraine | 40.00% | ~25 |
 | Redecorating | 33.00% | ~21 |
+| Slave to the rhythm | 24.00% | ~15 |
 | Friend of Sevenkeeps | 24.00% | ~15 |
 | Bad JuJu | 24.00% | ~15 |
-| Slave to the rhythm | 22.00% | ~14 |
 | Castle Meldec | 19.00% | ~12 |
 | Sevenkeeps Seat of Kings | 19.00% | ~12 |
 | Friend of Alluvyan | 16.00% | ~10 |
 | Break Free | 16.00% | ~10 |
 | Friend of Gillyshire | 14.00% | ~9 |
 | Friend of Connach | 14.00% | ~9 |
+| Friend of Bastion | 14.00% | ~9 |
 | Philo's Tale | 13.00% | ~8 |
 | Stormwatch Faste | 13.00% | ~8 |
-| Friend of Bastion | 13.00% | ~8 |
 | Friend of Orgash | 11.00% | ~7 |
 | Friend of Silver Drift Hollow | 11.00% | ~7 |
 | Friend of Windholme | 11.00% | ~7 |
 | Magic Academy | 11.00% | ~7 |
 | Defeat Gor | 10.00% | ~6 |
 | The Forge of Regan Gor | 10.00% | ~6 |
+| Silver Drift Hollow Mine | 10.00% | ~6 |
 | Defeat Uram | 8.00% | ~5 |
 | Elynn's Tale | 8.00% | ~5 |
 | Lore's Tale | 8.00% | ~5 |
 | Yngrid's Tale | 8.00% | ~5 |
-| Silver Drift Hollow Mine | 8.00% | ~5 |
 | Mage Teacher | 8.00% | ~5 |
 | A Master of Magic | 8.00% | ~5 |
 | A Joke | 8.00% | ~5 |

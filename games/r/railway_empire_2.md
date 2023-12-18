@@ -6,44 +6,44 @@ Rating: 4.42 (Ranked 721)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Country Bumpkin | 76.00% | ~1,857 |
-| A new Journey | 75.00% | ~1,832 |
-| Departure | 74.00% | ~1,808 |
-| From X to Y | 73.00% | ~1,783 |
+| A new Journey | 75.00% | ~1,833 |
+| Departure | 74.00% | ~1,809 |
+| From X to Y | 73.00% | ~1,784 |
 | Way of Iron | 71.00% | ~1,735 |
 | Mystery Tour | 69.00% | ~1,686 |
-| We brake for nobody | 68.00% | ~1,661 |
-| Brainstorm | 66.00% | ~1,612 |
-| Travel Company | 66.00% | ~1,612 |
-| Mind the Gap | 65.00% | ~1,588 |
-| All around the World | 63.00% | ~1,539 |
-| Right through the middle | 59.00% | ~1,441 |
-| Facility Manager | 54.00% | ~1,319 |
-| Poor Devil | 54.00% | ~1,319 |
+| We brake for nobody | 68.00% | ~1,662 |
+| Brainstorm | 66.00% | ~1,613 |
+| Travel Company | 66.00% | ~1,613 |
+| Mind the Gap | 65.00% | ~1,589 |
+| All around the World | 63.00% | ~1,540 |
+| Right through the middle | 59.00% | ~1,442 |
+| Facility Manager | 54.00% | ~1,320 |
+| Poor Devil | 54.00% | ~1,320 |
 | Producer | 51.00% | ~1,246 |
 | Apprentice | 42.00% | ~1,026 |
 | Bridge Builder | 42.00% | ~1,026 |
 | Access granted | 35.00% | ~855 |
 | Going once, going twice, sold | 35.00% | ~855 |
 | Bull and bear | 34.00% | ~831 |
-| Stoker | 33.00% | ~806 |
+| Stoker | 33.00% | ~807 |
 | Full Steam ahead | 32.00% | ~782 |
 | All mine | 30.00% | ~733 |
 | Mole | 30.00% | ~733 |
 | Financial Shark | 30.00% | ~733 |
 | Socializer | 30.00% | ~733 |
-| General Manager | 28.00% | ~684 |
 | Country Life | 28.00% | ~684 |
+| General Manager | 27.00% | ~660 |
 | Hostile Takeover | 25.00% | ~611 |
-| Seven at one stroke | 24.00% | ~586 |
-| Breaking Ground | 22.00% | ~537 |
+| Seven at one stroke | 24.00% | ~587 |
+| Breaking Ground | 22.00% | ~538 |
 | Trailblazer | 21.00% | ~513 |
 | Traffic Junction | 21.00% | ~513 |
 | Traffic Jam | 19.00% | ~464 |
 | Networker | 18.00% | ~440 |
 | Resistance is futile | 17.00% | ~415 |
 | Bold and beautiful | 16.00% | ~391 |
-| Assimilated | 15.00% | ~366 |
-| Settler | 15.00% | ~366 |
+| Assimilated | 15.00% | ~367 |
+| Settler | 15.00% | ~367 |
 | Go West | 14.00% | ~342 |
 | Max Power | 14.00% | ~342 |
 | Locusts | 14.00% | ~342 |
@@ -61,7 +61,7 @@ Rating: 4.42 (Ranked 721)
 | United States | 0.60% | ~15 |
 | Together we stand | 0.50% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,443 (Ranked 224)  
+Progressed: 2,444 (Ranked 224)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-15 | 2,397 | 0 |
 | 2023-12-16 | 2,415 | 0 |
 | 2023-12-17 | 2,428 | 0 |
-| 2023-12-18 | 2,443 | 0 |
+| 2023-12-18 | 2,444 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

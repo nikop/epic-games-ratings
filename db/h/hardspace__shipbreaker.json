@@ -2,13 +2,13 @@
   "ID": "0208da63c74542c99e8a0837e4e688c3",
   "Name": "Hardspace: Shipbreaker",
   "ProductSlug": "hardspace-shipbreaker",
-  "Ranking_Rating": 281,
+  "Ranking_Rating": 280,
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 325,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -303,9 +303,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 993,
+  "EOS_Progressed": 994,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2128,6 +2128,11 @@
       "Time": "2023-12-18T16:09:33.2926014+00:00",
       "NumProgressed": 993,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T23:09:28.9721586+00:00",
+      "NumProgressed": 994,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -2147,7 +2152,7 @@
       "Name": "Act II Complete",
       "Percentage": 22,
       "XP": 60,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ACH_ACT_3_COMPLETE",
@@ -2219,7 +2224,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -2235,7 +2240,7 @@
       "Name": "Critical Thinker",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "ACH_DISAGREE_AND_COMMIT",
@@ -2275,7 +2280,7 @@
       "Name": "It\u2019s Heating up!",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -2299,7 +2304,7 @@
       "Name": "Let\u2019s patch things up",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -2315,7 +2320,7 @@
       "Name": "Post No Bills",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "ACH_SEE_YOU_SPACE_COWBOY",
@@ -2337,9 +2342,9 @@
       "ID": "ACH_THE_WEIGHT_OF_THE_WORLD",
       "SetID": "108h92c",
       "Name": "The Weight of the World",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 298
+      "UsersEstimate": 288
     },
     {
       "ID": "ACH_TRUELY_SHOCKING",
@@ -2354,7 +2359,7 @@
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 993,
+      "Progressed": 994,
       "Completed": 0
     }
   ],
@@ -2362,8 +2367,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-11-20T03:58:42.1118377+00:00",
-  "LastChanged_Achievements": "2023-12-18T22:08:59.8434481+00:00",
+  "LastChanged_Achievements": "2023-12-18T23:09:28.9721583+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:08.6185668+00:00",
-  "LastUpdate_Ratings": "2023-12-18T21:58:35.7152434+00:00",
-  "LastUpdate_Achievements": "2023-12-18T22:08:59.8434676+00:00"
+  "LastUpdate_Ratings": "2023-12-18T22:59:40.4056664+00:00",
+  "LastUpdate_Achievements": "2023-12-18T23:09:28.9721832+00:00"
 }

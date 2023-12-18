@@ -14,8 +14,8 @@
 | Sign of weakness | 34.00% | ~52 |
 | Refuse to look | 33.00% | ~50 |
 | Face your fears | 27.00% | ~41 |
-| Finished it | 25.00% | ~38 |
-| Whispers long forgotten | 13.00% | ~20 |
+| Finished it | 26.00% | ~40 |
+| Whispers long forgotten | 14.00% | ~21 |
 | Debut | 11.00% | ~17 |
 | Playtime | 11.00% | ~17 |
 | The art of movement | 11.00% | ~17 |

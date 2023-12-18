@@ -6,14 +6,14 @@ Rating: 4.62 (Ranked 372)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Thorny Situation | 1.00% | ~85 |
-| Azoria Beckons | 0.80% | ~68 |
+| Azoria Beckons | 0.90% | ~77 |
 | ... And Spit Back Out | 0.80% | ~68 |
 | Bramble Breaker | 0.80% | ~68 |
 | Calm Sailing | 0.70% | ~60 |
 | Open the Gate! | 0.60% | ~51 |
 | Miner 49er | 0.60% | ~51 |
 | Break-Net Speed | 0.60% | ~51 |
-| Humble Collector | 0.50% | ~43 |
+| Humble Collector | 0.60% | ~51 |
 | Mist Walker | 0.50% | ~43 |
 | Clear the Air | 0.40% | ~34 |
 | Search for the Hairy Grell | 0.40% | ~34 |

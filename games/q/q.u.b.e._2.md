@@ -6,25 +6,25 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 75.00% | ~33,053 |
-| Quick Understanding of Block Extrusion | 68.00% | ~29,968 |
-| Nature or Nurture | 52.00% | ~22,917 |
-| Power Glove | 50.00% | ~22,036 |
-| Forgotten Memories | 43.00% | ~18,951 |
-| Cogs in the Machine | 36.00% | ~15,866 |
-| Mission Success | 23.00% | ~10,136 |
-| There's No Place Like Home | 23.00% | ~10,136 |
-| Green Cube Killer | 20.00% | ~8,814 |
-| Infinity Loop | 17.00% | ~7,492 |
-| Path to Salvation | 17.00% | ~7,492 |
-| Descendants | 15.00% | ~6,611 |
+| Lost in Space | 75.00% | ~33,058 |
+| Quick Understanding of Block Extrusion | 68.00% | ~29,972 |
+| Nature or Nurture | 52.00% | ~22,920 |
+| Power Glove | 50.00% | ~22,038 |
+| Forgotten Memories | 43.00% | ~18,953 |
+| Cogs in the Machine | 36.00% | ~15,868 |
+| Mission Success | 23.00% | ~10,138 |
+| There's No Place Like Home | 23.00% | ~10,138 |
+| Green Cube Killer | 20.00% | ~8,815 |
+| Infinity Loop | 17.00% | ~7,493 |
+| Path to Salvation | 17.00% | ~7,493 |
+| Descendants | 15.00% | ~6,612 |
 | The Flawed Teacher | 12.00% | ~5,289 |
-| To Infinity and Beyond | 6.00% | ~2,644 |
+| To Infinity and Beyond | 6.00% | ~2,645 |
 | The Truthful Enemy | 5.00% | ~2,204 |
 | Laser Sharp | 3.00% | ~1,322 |
-| Bronze collector | 2.00% | ~881 |
-| Home Stretch | 2.00% | ~881 |
-| Get me out of here | 2.00% | ~881 |
+| Bronze collector | 2.00% | ~882 |
+| Home Stretch | 2.00% | ~882 |
+| Get me out of here | 2.00% | ~882 |
 | True collector | 1.00% | ~441 |
 | Gold collector | 1.00% | ~441 |
 | Silver collector | 1.00% | ~441 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 1.00% | ~441 |
 | Expert Collector | 1.00% | ~441 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,071 (Ranked 122)  
+Progressed: 44,077 (Ranked 122)  
 Completed: 214 (0.49%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 214 (0.49%) (Ranked 214)
 | 2023-12-15 | 43,701 | 211 |
 | 2023-12-16 | 43,829 | 213 |
 | 2023-12-17 | 43,974 | 214 |
-| 2023-12-18 | 44,071 | 214 |
+| 2023-12-18 | 44,077 | 214 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

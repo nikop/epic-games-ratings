@@ -63,42 +63,42 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egyptian Paganism | 3.00% | ~475 |
 | Roman Paganism | 3.00% | ~475 |
 | Zoroastrianism | 3.00% | ~475 |
-| Hanging Gardens in Babylon | 2.00% | ~316 |
-| Beloved | 2.00% | ~316 |
-| Conqueror | 2.00% | ~316 |
-| Intercessor | 2.00% | ~316 |
-| Invincible | 2.00% | ~316 |
-| Lion | 2.00% | ~316 |
-| Mighty | 2.00% | ~316 |
-| Victorious | 2.00% | ~316 |
-| Good Difficulty | 2.00% | ~316 |
-| Champions | 2.00% | ~316 |
-| Landowners | 2.00% | ~316 |
-| Patrons | 2.00% | ~316 |
-| Riders | 2.00% | ~316 |
-| Sages | 2.00% | ~316 |
-| Traders | 2.00% | ~316 |
-| Acropolis | 2.00% | ~316 |
-| Circus Maximus | 2.00% | ~316 |
-| Hagia Sophia | 2.00% | ~316 |
-| Temple of Solomon | 2.00% | ~316 |
-| Mausoleum | 2.00% | ~316 |
-| Via Recta Souk | 2.00% | ~316 |
-| Learn to Play 3 | 2.00% | ~316 |
-| Greece | 2.00% | ~316 |
-| Power to the People | 2.00% | ~316 |
-| Persian Paganism | 2.00% | ~316 |
-| Building Wonders | 2.00% | ~316 |
-| Economic Reform | 2.00% | ~316 |
-| Military Prestige | 2.00% | ~316 |
-| Legalism | 2.00% | ~316 |
-| Mythology | 2.00% | ~316 |
-| Double Victory | 2.00% | ~316 |
-| Points Victory | 2.00% | ~316 |
-| Win a Single Player Game | 2.00% | ~316 |
-| The Clergy | 2.00% | ~316 |
-| Kushite Pyramids | 2.00% | ~316 |
-| Kushite Paganism | 2.00% | ~316 |
+| Hanging Gardens in Babylon | 2.00% | ~317 |
+| Beloved | 2.00% | ~317 |
+| Conqueror | 2.00% | ~317 |
+| Intercessor | 2.00% | ~317 |
+| Invincible | 2.00% | ~317 |
+| Lion | 2.00% | ~317 |
+| Mighty | 2.00% | ~317 |
+| Victorious | 2.00% | ~317 |
+| Good Difficulty | 2.00% | ~317 |
+| Champions | 2.00% | ~317 |
+| Landowners | 2.00% | ~317 |
+| Patrons | 2.00% | ~317 |
+| Riders | 2.00% | ~317 |
+| Sages | 2.00% | ~317 |
+| Traders | 2.00% | ~317 |
+| Acropolis | 2.00% | ~317 |
+| Circus Maximus | 2.00% | ~317 |
+| Hagia Sophia | 2.00% | ~317 |
+| Temple of Solomon | 2.00% | ~317 |
+| Mausoleum | 2.00% | ~317 |
+| Via Recta Souk | 2.00% | ~317 |
+| Learn to Play 3 | 2.00% | ~317 |
+| Greece | 2.00% | ~317 |
+| Power to the People | 2.00% | ~317 |
+| Persian Paganism | 2.00% | ~317 |
+| Building Wonders | 2.00% | ~317 |
+| Economic Reform | 2.00% | ~317 |
+| Military Prestige | 2.00% | ~317 |
+| Legalism | 2.00% | ~317 |
+| Mythology | 2.00% | ~317 |
+| Double Victory | 2.00% | ~317 |
+| Points Victory | 2.00% | ~317 |
+| Win a Single Player Game | 2.00% | ~317 |
+| The Clergy | 2.00% | ~317 |
+| Kushite Pyramids | 2.00% | ~317 |
+| Kushite Paganism | 2.00% | ~317 |
 | Bad Heir Day | 1.00% | ~158 |
 | Capable | 1.00% | ~158 |
 | Devout | 1.00% | ~158 |
@@ -143,12 +143,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Ox Hide | 0.80% | ~127 |
 | Learn to Play 5 | 0.80% | ~127 |
 | Cataphract Archer | 0.80% | ~127 |
+| No Undo | 0.80% | ~127 |
 | The Great Mage | 0.80% | ~127 |
 | Kmt Unified | 0.80% | ~127 |
 | Beja Archer | 0.80% | ~127 |
 | Old | 0.70% | ~111 |
 | Old World Order | 0.70% | ~111 |
-| No Undo | 0.70% | ~111 |
 | Kush | 0.70% | ~111 |
 | Glorious Difficulty | 0.60% | ~95 |
 | Hatti | 0.60% | ~95 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,825 (Ranked 155)  
+Progressed: 15,826 (Ranked 155)  
 Completed: 5 (0.03%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -591,7 +591,7 @@ Completed: 5 (0.03%) (Ranked 344)
 | 2023-12-15 | 15,768 | 5 |
 | 2023-12-16 | 15,789 | 5 |
 | 2023-12-17 | 15,807 | 5 |
-| 2023-12-18 | 15,825 | 5 |
+| 2023-12-18 | 15,826 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 279)  
 Sum: 1,902 (Ranked 220)  

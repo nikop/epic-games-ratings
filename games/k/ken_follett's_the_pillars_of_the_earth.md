@@ -7,16 +7,16 @@ Number of Ratings: 368  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tattletale | 40.00% | ~6,869 |
-| Man of politics | 34.00% | ~5,838 |
+| Man of politics | 34.00% | ~5,839 |
 | Friends of sorts | 33.00% | ~5,667 |
 | Yet another secret | 33.00% | ~5,667 |
-| Let there be darkness | 31.00% | ~5,323 |
+| Let there be darkness | 31.00% | ~5,324 |
 | End of Book One | 29.00% | ~4,980 |
-| Garden of Eden | 24.00% | ~4,121 |
+| Garden of Eden | 24.00% | ~4,122 |
 | Wannabe knight | 23.00% | ~3,950 |
 | Full house | 23.00% | ~3,950 |
 | Help an old friend | 21.00% | ~3,606 |
-| Two of us | 20.00% | ~3,434 |
+| Two of us | 20.00% | ~3,435 |
 | Negotiation skills | 18.00% | ~3,091 |
 | Workers' union | 18.00% | ~3,091 |
 | End of Book Two | 18.00% | ~3,091 |
@@ -29,11 +29,11 @@ Number of Ratings: 368  (23.09.2022)
 | Friar Tuck | 10.00% | ~1,717 |
 | First profit | 10.00% | ~1,717 |
 | Team player | 10.00% | ~1,717 |
-| Skilled merchant | 9.00% | ~1,545 |
-| Brother Marcus | 9.00% | ~1,545 |
-| The oath | 9.00% | ~1,545 |
-| The truth revealed | 9.00% | ~1,545 |
-| The End. | 9.00% | ~1,545 |
+| Skilled merchant | 9.00% | ~1,546 |
+| Brother Marcus | 9.00% | ~1,546 |
+| The oath | 9.00% | ~1,546 |
+| The truth revealed | 9.00% | ~1,546 |
+| The End. | 9.00% | ~1,546 |
 | Nothing but make-believe | 8.00% | ~1,374 |
 | A cry for help | 7.00% | ~1,202 |
 | Silentium est aureum | 7.00% | ~1,202 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~515 |
 | Boy of mystery | 2.00% | ~343 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,172 (Ranked 151)  
+Progressed: 17,173 (Ranked 151)  
 Completed: 119 (0.69%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 119 (0.69%) (Ranked 193)
 | 2023-12-15 | 17,058 | 119 |
 | 2023-12-16 | 17,109 | 119 |
 | 2023-12-17 | 17,152 | 119 |
-| 2023-12-18 | 17,172 | 119 |
+| 2023-12-18 | 17,173 | 119 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 320)  
 Sum: 200 (Ranked 410)  

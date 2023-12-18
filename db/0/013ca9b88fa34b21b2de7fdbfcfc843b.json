@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -8719,9 +8719,9 @@
       "ID": "CHAPTER_1_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Azoria Beckons",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 77
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -8855,9 +8855,9 @@
       "ID": "DISCOVER_SCROLLS_1",
       "SetID": "9eia0f5",
       "Name": "Humble Collector",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 51
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -9078,8 +9078,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-18T16:03:28.109707+00:00",
-  "LastChanged_Achievements": "2023-12-18T22:09:43.8805967+00:00",
+  "LastChanged_Achievements": "2023-12-18T23:10:27.7241741+00:00",
   "LastUpdate_AppInfo": "2023-12-15T11:57:06.5610357+00:00",
-  "LastUpdate_Ratings": "2023-12-18T22:02:56.4895726+00:00",
-  "LastUpdate_Achievements": "2023-12-18T22:09:43.8806639+00:00"
+  "LastUpdate_Ratings": "2023-12-18T23:03:08.884385+00:00",
+  "LastUpdate_Achievements": "2023-12-18T23:10:27.7242283+00:00"
 }

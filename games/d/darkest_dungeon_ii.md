@@ -8,7 +8,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 8.00% | ~261 |
 | Lost and Found | 5.00% | ~163 |
-| This guy... again? | 4.00% | ~130 |
+| This guy... again? | 4.00% | ~131 |
 | This Belongs in a Museum | 3.00% | ~3,852 |
 | Not Today! | 3.00% | ~3,852 |
 | Creep and Sleep | 3.00% | ~3,852 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~128 |
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,389 (Ranked 85)  
+Progressed: 128,398 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,15 +318,15 @@ Completed: 3 (0.00%) (Ranked 383)
 | 2023-12-15 | 127,439 | 3 |
 | 2023-12-16 | 127,826 | 3 |
 | 2023-12-17 | 128,143 | 3 |
-| 2023-12-18 | 128,389 | 3 |
+| 2023-12-18 | 128,398 | 3 |
 ## Awards
 Max (Character Customization): 7,784  (Ranked 50)  
-Sum: 20,750 (Ranked 58)  
+Sum: 20,761 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,784 |
-| This game has Diverse Characters | 1,720 |
+| This game has Diverse Characters | 1,731 |
 | This game has Challenging Combat | 1,606 |
 | This game is Highly Recommended | 1,544 |
 | This game is Extremely Fun | 1,471 |
@@ -664,4 +664,4 @@ Diff (max vs sum): -8
 | 2023-12-15 | 4.68 | - | 7,718 | 20,517 |
 | 2023-12-16 | 4.68 | - | 7,744 | 20,595 |
 | 2023-12-17 | 4.68 | - | 7,763 | 20,673 |
-| 2023-12-18 | 4.68 | - | 7,784 | 20,750 |
+| 2023-12-18 | 4.68 | - | 7,784 | 20,761 |

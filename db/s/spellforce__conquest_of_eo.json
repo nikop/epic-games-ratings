@@ -4,8 +4,8 @@
   "ProductSlug": "spellforce-conquest-of-eo",
   "Ranking_EOS_Progress": 504,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
     "PcReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -496,9 +496,9 @@
       "ID": "Enslave_Unit_Post_Battle",
       "SetID": "7b9f97e",
       "Name": "Slave to the rhythm",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "First_LevelUp",
@@ -512,9 +512,9 @@
       "ID": "First_Node_Meld",
       "SetID": "7b9f97e",
       "Name": "Connected",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Harvest_First_Plant",
@@ -600,9 +600,9 @@
       "ID": "Landmark_SilverDriftMine",
       "SetID": "7b9f97e",
       "Name": "Silver Drift Hollow Mine",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Landmark_StormwatchFaste",
@@ -808,9 +808,9 @@
       "ID": "Max_Reputation_Westguard",
       "SetID": "7b9f97e",
       "Name": "Friend of Bastion",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Max_Reputation_Windholme",
@@ -913,8 +913,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-12-18T22:08:53.4356175+00:00",
+  "LastChanged_Achievements": "2023-12-18T23:09:19.8720486+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:09.2965751+00:00",
-  "LastUpdate_Ratings": "2023-12-18T21:58:45.8776781+00:00",
-  "LastUpdate_Achievements": "2023-12-18T22:08:53.435668+00:00"
+  "LastUpdate_Ratings": "2023-12-18T22:59:56.7474575+00:00",
+  "LastUpdate_Achievements": "2023-12-18T23:09:19.8720932+00:00"
 }

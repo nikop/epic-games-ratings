@@ -3,9 +3,9 @@
   "Name": "Mia and the Dragon Princess",
   "ProductSlug": "mia-and-the-dragon-princess-f4e1d0",
   "Ranking_EOS_Progress": 468,
-  "Ranking_EOS_Completed": 133,
+  "Ranking_EOS_Completed": 107,
   "Ranking_EOS_NewPlayers": 454,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-05-04T07:00:00+00:00",
     "PcReleaseDate": "2023-05-04T07:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 94,
-  "EOS_Completed": 2,
+  "EOS_Completed": 3,
   "EOS_NewPlayers": 3,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.13,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 3.19,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:47:18.2098376+00:00",
@@ -499,6 +499,11 @@
       "Time": "2023-12-17T05:09:24.4124572+00:00",
       "NumProgressed": 94,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-18T23:09:22.378102+00:00",
+      "NumProgressed": 94,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 18,
@@ -604,9 +609,9 @@
       "ID": "key_keepers_curse",
       "SetID": "5anb57n",
       "Name": "Key Keeper\u0027s Curse",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "puzzle_prodigy",
@@ -654,13 +659,13 @@
       "ID": "5anb57n",
       "IsBase": true,
       "Progressed": 94,
-      "Completed": 2
+      "Completed": 3
     }
   ],
   "FirstSeen": "2023-05-13T16:58:04.6283661+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2023-12-18T22:08:55.0372859+00:00",
+  "LastChanged_Achievements": "2023-12-18T23:09:22.3781015+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:44.8478682+00:00",
-  "LastUpdate_Ratings": "2023-12-18T21:59:09.3835175+00:00",
-  "LastUpdate_Achievements": "2023-12-18T22:08:55.0372984+00:00"
+  "LastUpdate_Ratings": "2023-12-18T23:00:32.7265737+00:00",
+  "LastUpdate_Achievements": "2023-12-18T23:09:22.3781142+00:00"
 }

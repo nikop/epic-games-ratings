@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -441,9 +441,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 4476,
+  "EOS_Progressed": 4477,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 730,
+  "EOS_NewPlayers": 731,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -6906,6 +6906,11 @@
       "Time": "2023-12-18T22:06:00.737861+00:00",
       "NumProgressed": 4476,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-18T23:07:32.9481796+00:00",
+      "NumProgressed": 4477,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -6957,7 +6962,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2014
+      "UsersEstimate": 2015
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -7021,7 +7026,7 @@
       "Name": "Regicide",
       "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "ACH_KILL_UNDETECTED",
@@ -7029,7 +7034,7 @@
       "Name": "Call Me Snake",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 2551
+      "UsersEstimate": 2552
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -7037,7 +7042,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 2730
+      "UsersEstimate": 2731
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -7085,7 +7090,7 @@
       "Name": "Frontliner",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "ACH_MAX_SERGEANT",
@@ -7125,7 +7130,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1835
+      "UsersEstimate": 1836
     },
     {
       "ID": "ACH_MISSION_04",
@@ -7141,7 +7146,7 @@
       "Name": "Where It All Begun",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 1611
+      "UsersEstimate": 1612
     },
     {
       "ID": "ACH_MISSION_06",
@@ -7181,7 +7186,7 @@
       "Name": "The Spire",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "ACH_MISSION_11",
@@ -7221,15 +7226,15 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 3536
+      "UsersEstimate": 3537
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
       "SetID": "816efe",
       "Name": "This Was No Papercut",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 2372
+      "UsersEstimate": 2418
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -7276,7 +7281,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 4476,
+      "Progressed": 4477,
       "Completed": 3
     }
   ],
@@ -7284,8 +7289,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-12-17T17:58:02.247101+00:00",
-  "LastChanged_Achievements": "2023-12-18T22:06:00.7378603+00:00",
+  "LastChanged_Achievements": "2023-12-18T23:07:32.9481789+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:23.8354928+00:00",
-  "LastUpdate_Ratings": "2023-12-18T21:58:27.8975892+00:00",
-  "LastUpdate_Achievements": "2023-12-18T22:06:00.7379153+00:00"
+  "LastUpdate_Ratings": "2023-12-18T22:59:27.564304+00:00",
+  "LastUpdate_Achievements": "2023-12-18T23:07:32.9482392+00:00"
 }

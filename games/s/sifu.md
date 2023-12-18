@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 3.00% | ~22,044 |
+| The Old Grandmaster | 3.00% | ~22,045 |
 | The Assault | 2.00% | ~14,696 |
 | Life is your teacher | 2.00% | ~14,696 |
 | Lightning Hands | 2.00% | ~14,696 |
@@ -24,16 +24,16 @@ Number of Ratings: 9,492  (23.09.2022)
 | Lady Wing Chun | 0.90% | ~6,613 |
 | Kill Nil | 0.90% | ~6,613 |
 | Project Arena | 0.90% | ~397 |
-| Furious Fists | 0.80% | ~5,878 |
-| I know Kung-Fu | 0.80% | ~5,878 |
-| Take damage to save time | 0.80% | ~5,878 |
+| Furious Fists | 0.80% | ~5,879 |
+| I know Kung-Fu | 0.80% | ~5,879 |
+| Take damage to save time | 0.80% | ~5,879 |
 | Qi Gong: Mind | 0.70% | ~5,144 |
 | Kung-Fu Tussle | 0.70% | ~5,144 |
 | Fight the way you practice | 0.70% | ~309 |
 | Scareless | 0.60% | ~4,409 |
 | Dance of the Praying Mantis | 0.60% | ~4,409 |
-| Bloody Sport | 0.50% | ~220 |
-| Martial Hub | 0.50% | ~220 |
+| Bloody Sport | 0.50% | ~221 |
+| Martial Hub | 0.50% | ~221 |
 | Muk Yan Master | 0.40% | ~2,939 |
 | Detective Story | 0.40% | ~2,939 |
 | Tiger on Fire | 0.30% | ~2,204 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~44 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 734,799 (Ranked 24)  
+Progressed: 734,825 (Ranked 24)  
 Completed: 12,956 (1.76%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 12,956 (1.76%) (Ranked 139)
 | 2023-12-15 | 726,562 | 12,953 |
 | 2023-12-16 | 730,184 | 12,954 |
 | 2023-12-17 | 733,014 | 12,955 |
-| 2023-12-18 | 734,799 | 12,956 |
+| 2023-12-18 | 734,825 | 12,956 |
 ## Awards
 Max (Great Boss Battles): 6,957  (Ranked 55)  
 Sum: 12,197 (Ranked 84)  

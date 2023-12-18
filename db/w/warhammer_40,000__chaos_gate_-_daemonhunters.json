@@ -2,13 +2,13 @@
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
-  "Ranking_Rating": 455,
+  "Ranking_Rating": 456,
   "Ranking_Popularity": 278,
   "Ranking_PopularitySum": 333,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -795,9 +795,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3463,
+  "EOS_Progressed": 3464,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4460,6 +4460,11 @@
       "Time": "2023-12-18T21:05:48.5725223+00:00",
       "NumProgressed": 3463,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T23:05:52.7634311+00:00",
+      "NumProgressed": 3464,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5014,21 +5019,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3463,
+      "Progressed": 3464,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3463,
+      "Progressed": 3464,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-16T13:05:46.2808+00:00",
-  "LastChanged_Achievements": "2023-12-18T22:04:46.886504+00:00",
+  "LastChanged_Achievements": "2023-12-18T23:05:52.7634307+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:54.7152084+00:00",
-  "LastUpdate_Ratings": "2023-12-18T22:02:52.6673099+00:00",
-  "LastUpdate_Achievements": "2023-12-18T22:04:46.8865787+00:00"
+  "LastUpdate_Ratings": "2023-12-18T23:03:02.7056181+00:00",
+  "LastUpdate_Achievements": "2023-12-18T23:05:52.7635017+00:00"
 }

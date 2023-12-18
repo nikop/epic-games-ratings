@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -3373,10 +3373,10 @@
       "Count": 261
     }
   ],
-  "EOS_Progressed": 86614,
+  "EOS_Progressed": 86616,
   "EOS_Completed": 175,
-  "EOS_NewPlayers": 787,
-  "EOS_NewCompleters": 2,
+  "EOS_NewPlayers": 786,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
     {
@@ -30448,6 +30448,11 @@
       "Time": "2023-12-18T22:05:26.6314743+00:00",
       "NumProgressed": 86614,
       "NumCompleted": 175
+    },
+    {
+      "Time": "2023-12-18T23:06:46.5433496+00:00",
+      "NumProgressed": 86616,
+      "NumCompleted": 175
     }
   ],
   "TotalAchievements": 30,
@@ -30483,7 +30488,7 @@
       "Name": "New Home",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 19921
+      "UsersEstimate": 19922
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -30539,7 +30544,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 32047
+      "UsersEstimate": 32048
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -30555,7 +30560,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 27716
+      "UsersEstimate": 27717
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -30563,7 +30568,7 @@
       "Name": "Spirit",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 8661
+      "UsersEstimate": 8662
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -30587,7 +30592,7 @@
       "Name": "Beagle 2",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 19921
+      "UsersEstimate": 19922
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -30643,7 +30648,7 @@
       "Name": "Self-sufficient",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 14724
+      "UsersEstimate": 14725
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -30667,7 +30672,7 @@
       "Name": "Ultimate success",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 8661
+      "UsersEstimate": 8662
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -30698,15 +30703,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 86614,
+      "Progressed": 86616,
       "Completed": 175
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-12-17T20:00:45.1738747+00:00",
-  "LastChanged_Achievements": "2023-12-18T22:05:26.6314739+00:00",
+  "LastChanged_Achievements": "2023-12-18T23:06:46.5433492+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:25.3489016+00:00",
-  "LastUpdate_Ratings": "2023-12-18T21:57:11.9835356+00:00",
-  "LastUpdate_Achievements": "2023-12-18T22:05:26.6316216+00:00"
+  "LastUpdate_Ratings": "2023-12-18T22:57:37.7466527+00:00",
+  "LastUpdate_Achievements": "2023-12-18T23:06:46.5435034+00:00"
 }

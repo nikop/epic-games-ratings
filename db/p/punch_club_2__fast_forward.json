@@ -3,9 +3,9 @@
   "Name": "Punch Club 2: Fast Forward",
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 339,
-  "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 133,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1674,9 +1674,9 @@
       "ID": "adriana_recovery",
       "SetID": "69co12a",
       "Name": "Mom got better",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 155
     },
     {
       "ID": "adriana_sick",
@@ -1786,9 +1786,9 @@
       "ID": "fight_win_1",
       "SetID": "69co12a",
       "Name": "First winning",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 348
+      "UsersEstimate": 352
     },
     {
       "ID": "fight_win_10",
@@ -2002,9 +2002,9 @@
       "ID": "nero_basic",
       "SetID": "69co12a",
       "Name": "Neurotrainer \u2013 power gainer!",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 318
+      "UsersEstimate": 323
     },
     {
       "ID": "nero_extrime",
@@ -2018,9 +2018,9 @@
       "ID": "not_ok",
       "SetID": "69co12a",
       "Name": "Run K, run!",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 289
+      "UsersEstimate": 293
     },
     {
       "ID": "own_home",
@@ -2209,8 +2209,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-12-18T22:09:01.8515582+00:00",
+  "LastChanged_Achievements": "2023-12-18T23:09:31.7266531+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:32.3459278+00:00",
-  "LastUpdate_Ratings": "2023-12-18T21:59:28.4293488+00:00",
-  "LastUpdate_Achievements": "2023-12-18T22:09:01.8516123+00:00"
+  "LastUpdate_Ratings": "2023-12-18T23:01:00.1279026+00:00",
+  "LastUpdate_Achievements": "2023-12-18T23:09:31.7267016+00:00"
 }

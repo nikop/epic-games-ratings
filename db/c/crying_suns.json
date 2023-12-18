@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -673,9 +673,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 472445,
+  "EOS_Progressed": 472447,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 330,
+  "EOS_NewPlayers": 331,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25728,6 +25728,11 @@
       "Time": "2023-12-18T21:10:21.86198+00:00",
       "NumProgressed": 472445,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-12-18T23:10:30.2130438+00:00",
+      "NumProgressed": 472447,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -25779,7 +25784,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 47244
+      "UsersEstimate": 47245
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -25827,7 +25832,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 311814
+      "UsersEstimate": 311815
     },
     {
       "ID": "achievement_story_landa",
@@ -25859,7 +25864,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 118111
+      "UsersEstimate": 118112
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -25923,7 +25928,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160631
+      "UsersEstimate": 160632
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -26163,7 +26168,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207876
+      "UsersEstimate": 207877
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -26187,7 +26192,7 @@
       "Name": "Plan for the worst",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 56693
+      "UsersEstimate": 56694
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -26370,21 +26375,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 16379,
+      "Progressed": 16381,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 472445,
+      "Progressed": 472447,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-12-16T01:44:08.2225132+00:00",
-  "LastChanged_Achievements": "2023-12-18T22:09:46.3701021+00:00",
+  "LastChanged_Achievements": "2023-12-18T23:10:30.2130436+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:11.1940108+00:00",
-  "LastUpdate_Ratings": "2023-12-18T21:59:58.8539761+00:00",
-  "LastUpdate_Achievements": "2023-12-18T22:09:46.3702751+00:00"
+  "LastUpdate_Ratings": "2023-12-18T23:01:44.9656903+00:00",
+  "LastUpdate_Achievements": "2023-12-18T23:10:30.2131896+00:00"
 }

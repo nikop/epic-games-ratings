@@ -5,27 +5,27 @@ Rating: 4.26 (Ranked 881)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,832 |
-| Don't I Know You...? | 76.00% | ~1,740 |
-| Jailbreak | 66.00% | ~1,511 |
-| HEADSHOT! | 38.00% | ~870 |
-| Suited and Booted | 38.00% | ~870 |
-| Sleeping With The Fishes | 36.00% | ~824 |
-| Overheated | 30.00% | ~687 |
-| High Performance | 30.00% | ~687 |
-| Powered Up | 28.00% | ~641 |
-| Studied The Blade | 25.00% | ~572 |
+| Rigged And Ready | 80.00% | ~1,834 |
+| Don't I Know You...? | 76.00% | ~1,743 |
+| Jailbreak | 66.00% | ~1,513 |
+| HEADSHOT! | 38.00% | ~871 |
+| Suited and Booted | 38.00% | ~871 |
+| Sleeping With The Fishes | 35.00% | ~803 |
+| Overheated | 30.00% | ~688 |
+| High Performance | 30.00% | ~688 |
+| Powered Up | 28.00% | ~642 |
+| Studied The Blade | 25.00% | ~573 |
 | Home Invasion | 23.00% | ~527 |
 | Luminary | 23.00% | ~527 |
 | True Survivor | 22.00% | ~504 |
 | It's a Trap | 22.00% | ~504 |
-| Offensive Defense | 20.00% | ~458 |
-| Shocking | 20.00% | ~458 |
-| Unforeseeable Consequences | 20.00% | ~458 |
-| Court Martial | 19.00% | ~435 |
-| Clean Cut | 19.00% | ~435 |
-| Dead Again | 18.00% | ~412 |
-| Full Arsenal | 17.00% | ~389 |
+| Offensive Defense | 20.00% | ~459 |
+| Shocking | 20.00% | ~459 |
+| Unforeseeable Consequences | 20.00% | ~459 |
+| Court Martial | 19.00% | ~436 |
+| Clean Cut | 19.00% | ~436 |
+| Dead Again | 18.00% | ~413 |
+| Full Arsenal | 17.00% | ~390 |
 | Can't Trust Banks | 15.00% | ~344 |
 | Mommy Dearest | 14.00% | ~321 |
 | Bad Dog | 13.00% | ~298 |
@@ -41,15 +41,15 @@ Rating: 4.26 (Ranked 881)
 | A Little Banged Up | 8.00% | ~183 |
 | Following In Their Footsteps | 8.00% | ~183 |
 | Defense in Depth | 8.00% | ~183 |
-| Reverse Engineering | 7.00% | ~160 |
-| Reborn | 6.00% | ~137 |
-| Remote Surgery | 6.00% | ~137 |
-| Turbo Booster | 6.00% | ~137 |
-| Juiced Up | 6.00% | ~137 |
-| Squid Pro Quo | 6.00% | ~137 |
-| Hello Darkness My Old Friend | 5.00% | ~114 |
-| Counter-Sniper | 5.00% | ~114 |
-| Shrimp Cocktail | 5.00% | ~114 |
+| Reverse Engineering | 7.00% | ~161 |
+| Reborn | 6.00% | ~138 |
+| Remote Surgery | 6.00% | ~138 |
+| Turbo Booster | 6.00% | ~138 |
+| Juiced Up | 6.00% | ~138 |
+| Squid Pro Quo | 6.00% | ~138 |
+| Hello Darkness My Old Friend | 5.00% | ~115 |
+| Counter-Sniper | 5.00% | ~115 |
+| Shrimp Cocktail | 5.00% | ~115 |
 | Geronimo! | 4.00% | ~92 |
 | Homewrecker | 4.00% | ~92 |
 | Plank of Wood | 4.00% | ~92 |
@@ -63,7 +63,7 @@ Rating: 4.26 (Ranked 881)
 | Three Birds With One Stone | 1.00% | ~23 |
 | The Easy Way Out | 1.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,290 (Ranked 228)  
+Progressed: 2,293 (Ranked 228)  
 Completed: 13 (0.57%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,7 +242,7 @@ Completed: 13 (0.57%) (Ranked 204)
 | 2023-12-15 | 2,246 | 13 |
 | 2023-12-16 | 2,261 | 13 |
 | 2023-12-17 | 2,275 | 13 |
-| 2023-12-18 | 2,290 | 13 |
+| 2023-12-18 | 2,293 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1500,9 +1500,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 25494,
+  "EOS_Progressed": 25497,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 1798,
+  "EOS_NewPlayers": 1800,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -11010,6 +11010,11 @@
       "Time": "2023-12-18T22:09:24.4215739+00:00",
       "NumProgressed": 25494,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-18T23:10:02.7309692+00:00",
+      "NumProgressed": 25497,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -11171,9 +11176,9 @@
       "ID": "BossStudyAdvancedDefeated",
       "SetID": "3ojhj46",
       "Name": "For Love",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 102
     },
     {
       "ID": "BossStudyDefeated",
@@ -11332,21 +11337,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 25494,
+      "Progressed": 25497,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 4424,
+      "Progressed": 4427,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-07T09:58:25.2813813+00:00",
-  "LastChanged_Achievements": "2023-12-18T22:09:24.4215735+00:00",
+  "LastChanged_Achievements": "2023-12-18T23:10:02.7309687+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:44.2937948+00:00",
-  "LastUpdate_Ratings": "2023-12-18T21:57:06.952184+00:00",
-  "LastUpdate_Achievements": "2023-12-18T22:09:24.4216398+00:00"
+  "LastUpdate_Ratings": "2023-12-18T22:57:30.0140417+00:00",
+  "LastUpdate_Achievements": "2023-12-18T23:10:02.73104+00:00"
 }

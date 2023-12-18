@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 466,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 292,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
     "PcReleaseDate": "2009-10-30T16:00:00+00:00",
@@ -677,9 +677,9 @@
       "ID": "id_32",
       "SetID": "bk9jib6",
       "Name": "The brave little tailor",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "id_33",
@@ -901,9 +901,9 @@
       "ID": "id_62",
       "SetID": "bk9jib6",
       "Name": "Archer",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "id_63",
@@ -925,9 +925,9 @@
       "ID": "id_8",
       "SetID": "bk9jib6",
       "Name": "Sidelined",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "id_9",
@@ -950,8 +950,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-12-15T05:01:07.5728894+00:00",
-  "LastChanged_Achievements": "2023-12-18T22:09:34.9833141+00:00",
+  "LastChanged_Achievements": "2023-12-18T23:10:16.7194136+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:12.9761539+00:00",
-  "LastUpdate_Ratings": "2023-12-18T21:57:42.9226793+00:00",
-  "LastUpdate_Achievements": "2023-12-18T22:09:34.9833527+00:00"
+  "LastUpdate_Ratings": "2023-12-18T22:58:22.2169853+00:00",
+  "LastUpdate_Achievements": "2023-12-18T23:10:16.7194487+00:00"
 }

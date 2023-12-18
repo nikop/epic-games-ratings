@@ -18,8 +18,8 @@ Number of Ratings: 892  (23.09.2022)
 | Pack Mule | 79.00% | ~470 |
 | Yakmel Whisperer | 79.00% | ~470 |
 | I Do! | 78.00% | ~464 |
+| Diamonds are Forever | 78.00% | ~464 |
 | Officially Official | 77.00% | ~458 |
-| Diamonds are Forever | 77.00% | ~458 |
 | Can We Keep It? | 74.00% | ~440 |
 | First Love | 73.00% | ~434 |
 | Better Late than Never | 70.00% | ~416 |
@@ -32,8 +32,8 @@ Number of Ratings: 892  (23.09.2022)
 | Panda-kin | 65.00% | ~387 |
 | Mole Masher | 65.00% | ~387 |
 | Lifeline Pipeline | 64.00% | ~381 |
+| Knowledge is Power | 63.00% | ~375 |
 | Builder of the Month | 63.00% | ~375 |
-| Knowledge is Power | 62.00% | ~369 |
 | Waste Not Want Not | 62.00% | ~369 |
 | Commissions, commissions...! | 61.00% | ~363 |
 | Martle's Dream | 61.00% | ~363 |
@@ -52,8 +52,8 @@ Number of Ratings: 892  (23.09.2022)
 | Kind of a Big Deal | 45.00% | ~268 |
 | My Time Mansion | 43.00% | ~256 |
 | Just What I Always Wanted! | 43.00% | ~256 |
-| Sandrunning Speedster | 40.00% | ~238 |
-| He Can Spin A Yarn... | 38.00% | ~226 |
+| Sandrunning Speedster | 41.00% | ~244 |
+| He Can Spin A Yarn... | 39.00% | ~232 |
 | Santa In Training | 37.00% | ~220 |
 | It Belongs in a Museum! | 36.00% | ~214 |
 | Pro Gamer | 34.00% | ~202 |

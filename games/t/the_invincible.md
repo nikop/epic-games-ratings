@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 63.00% | ~484 |
-| The Teleprobe | 50.00% | ~384 |
-| The City | 46.00% | ~354 |
-| The field base | 42.00% | ~323 |
-| Survivors | 35.00% | ~269 |
-| The Alliance | 32.00% | ~246 |
-| The Condor | 32.00% | ~246 |
-| The End | 31.00% | ~238 |
+| The Camp | 63.00% | ~486 |
+| The Teleprobe | 50.00% | ~386 |
+| The City | 46.00% | ~355 |
+| The field base | 42.00% | ~324 |
+| Survivors | 35.00% | ~270 |
+| The Alliance | 32.00% | ~247 |
+| The Condor | 32.00% | ~247 |
+| The End | 32.00% | ~247 |
 | The Necroevolution | 26.00% | ~200 |
-| Krauta is alive | 25.00% | ~192 |
-| Peacemaker | 21.00% | ~161 |
+| Krauta is alive | 25.00% | ~193 |
+| Peacemaker | 21.00% | ~162 |
 | Volcanologist | 19.00% | ~146 |
-| On her own | 18.00% | ~138 |
+| On her own | 18.00% | ~139 |
 | Evacuation | 17.00% | ~131 |
 | Beyond divisions | 17.00% | ~131 |
 | Fierce fight | 16.00% | ~123 |
-| Flying Objects Operator | 15.00% | ~115 |
-| I remember everything! | 12.00% | ~92 |
+| Flying Objects Operator | 15.00% | ~116 |
+| I remember everything! | 12.00% | ~93 |
 | Another giant | 11.00% | ~85 |
 | Violent solution | 9.00% | ~69 |
 | I leave no man behind | 7.00% | ~54 |
 | Innate curiosity | 7.00% | ~54 |
-| Ubiquitous holes | 5.00% | ~38 |
-| The Invincible | 5.00% | ~38 |
-| Strong objection | 5.00% | ~38 |
+| Ubiquitous holes | 5.00% | ~39 |
+| The Invincible | 5.00% | ~39 |
+| Strong objection | 5.00% | ~39 |
 | Got lost again | 4.00% | ~31 |
 | I leave no man behind (no exceptions) | 2.00% | ~15 |
 | Convoy list | 0.90% | ~7 |
 | No more mistakes | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 769 (Ranked 292)  
+Progressed: 771 (Ranked 292)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,4 +77,4 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-15 | 653 | 0 |
 | 2023-12-16 | 700 | 0 |
 | 2023-12-17 | 741 | 0 |
-| 2023-12-18 | 769 | 0 |
+| 2023-12-18 | 771 | 0 |

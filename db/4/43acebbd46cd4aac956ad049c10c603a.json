@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -222,9 +222,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 1048,
+  "EOS_Progressed": 1050,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2707,6 +2707,11 @@
       "Time": "2023-12-18T21:04:39.652292+00:00",
       "NumProgressed": 1048,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-18T23:04:43.1669484+00:00",
+      "NumProgressed": 1050,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2743,7 +2748,7 @@
       "Name": "Archaeologist",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Balance",
@@ -2751,7 +2756,7 @@
       "Name": "Balance",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "BecomingSmarter",
@@ -2783,7 +2788,7 @@
       "Name": "Chasing the Light",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "Chicken",
@@ -2815,7 +2820,7 @@
       "Name": "Discovery",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "EasternWetlands",
@@ -2823,7 +2828,7 @@
       "Name": "Eastern Wetlands",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "EcstaticTruth",
@@ -2839,7 +2844,7 @@
       "Name": "Excellent",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "FloodedValley",
@@ -2887,7 +2892,7 @@
       "Name": "Into the Machine",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "JustOneLap",
@@ -2903,7 +2908,7 @@
       "Name": "Lord of the Files",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "LostMarshes",
@@ -2919,7 +2924,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "Mnemosyne",
@@ -3007,7 +3012,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "RenaissanceRobot",
@@ -3015,7 +3020,7 @@
       "Name": "Renaissance Robot",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ScientiaVincereTenebras",
@@ -3095,7 +3100,7 @@
       "Name": "The Future",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "TheHardWay",
@@ -3127,7 +3132,7 @@
       "Name": "The Word Endures",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "TouchGrass",
@@ -3151,7 +3156,7 @@
       "Name": "Verdant Canyon",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Wanderers",
@@ -3175,7 +3180,7 @@
       "Name": "Wooded Plateau",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "YourBiggestFan",
@@ -3190,7 +3195,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1048,
+      "Progressed": 1050,
       "Completed": 1
     }
   ],
@@ -3198,8 +3203,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-18T22:03:56.3494853+00:00",
+  "LastChanged_Achievements": "2023-12-18T23:04:43.166948+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-18T21:58:26.2783636+00:00",
-  "LastUpdate_Achievements": "2023-12-18T22:03:56.3495348+00:00"
+  "LastUpdate_Ratings": "2023-12-18T22:59:25.2841903+00:00",
+  "LastUpdate_Achievements": "2023-12-18T23:04:43.1669926+00:00"
 }

@@ -31,10 +31,10 @@
 | Bread and bocaua | 8.00% | ~5 |
 | Fanatacism is... poisonous | 8.00% | ~5 |
 | ECO mode | 8.00% | ~5 |
+| Blessed antennas | 7.00% | ~4 |
 | Blood Red Island | 7.00% | ~4 |
 | The adventurer | 7.00% | ~4 |
 | Pulp! The Beyond | 7.00% | ~4 |
-| Blessed antennas | 5.00% | ~3 |
 | The beast in the Oval Office | 5.00% | ~3 |
 | The scholar | 5.00% | ~3 |
 | Pulp! True Adventures | 5.00% | ~3 |

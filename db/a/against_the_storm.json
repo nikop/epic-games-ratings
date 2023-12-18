@@ -3491,9 +3491,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18610,
+  "EOS_Progressed": 18615,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 656,
+  "EOS_NewPlayers": 658,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16231,6 +16231,11 @@
       "Time": "2023-12-18T22:05:03.8382421+00:00",
       "NumProgressed": 18610,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-18T23:06:15.8531568+00:00",
+      "NumProgressed": 18615,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16371,7 +16376,7 @@
       "Name": "Barren Lands",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "WinNearBattleground",
@@ -16379,7 +16384,7 @@
       "Name": "Ancient Battleground",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "WinNearCrystals",
@@ -16475,7 +16480,7 @@
       "Name": "Statue of the Forefathers",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "WinNearTemple",
@@ -16643,7 +16648,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "WinNearFrosts",
@@ -16667,7 +16672,7 @@
       "Name": "Overgrown Library",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "WinNearPetrified",
@@ -16675,7 +16680,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "WinNearPresence",
@@ -16691,7 +16696,7 @@
       "Name": "Gathering Storm",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -16714,15 +16719,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18610,
+      "Progressed": 18615,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-18T15:58:52.7202576+00:00",
-  "LastChanged_Achievements": "2023-12-18T22:05:03.8382417+00:00",
+  "LastChanged_Achievements": "2023-12-18T23:06:15.8531564+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
-  "LastUpdate_Ratings": "2023-12-18T21:58:06.3427166+00:00",
-  "LastUpdate_Achievements": "2023-12-18T22:05:03.8383701+00:00"
+  "LastUpdate_Ratings": "2023-12-18T22:58:56.0865361+00:00",
+  "LastUpdate_Achievements": "2023-12-18T23:06:15.8532422+00:00"
 }

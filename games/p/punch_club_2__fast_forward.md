@@ -6,17 +6,17 @@
 | ---- | ---------- | ----- |
 | Such a strange dream… | 88.00% | ~369 |
 | Your first fight | 86.00% | ~360 |
+| First winning | 84.00% | ~352 |
 | Good Person Chip | 84.00% | ~352 |
-| First winning | 83.00% | ~348 |
 | Your first job | 82.00% | ~344 |
 | Fitness professional | 77.00% | ~323 |
 | Old movies enjoyer | 77.00% | ~323 |
 | Depressed visitor | 77.00% | ~323 |
-| Neurotrainer – power gainer! | 76.00% | ~318 |
+| Neurotrainer – power gainer! | 77.00% | ~323 |
 | Employee of the week | 76.00% | ~318 |
 | Your own amateur gym | 71.00% | ~297 |
 | First defeat | 70.00% | ~293 |
-| Run K, run! | 69.00% | ~289 |
+| Run K, run! | 70.00% | ~293 |
 | Hello, world! | 68.00% | ~285 |
 | No bullying more | 67.00% | ~281 |
 | Fighting is cool | 66.00% | ~277 |
@@ -44,9 +44,9 @@
 | Champion – no way back | 39.00% | ~163 |
 | Underground dwellers | 38.00% | ~159 |
 | Responsible approach | 38.00% | ~159 |
+| Mom got better | 37.00% | ~155 |
 | Deal with life | 37.00% | ~155 |
 | GYM professional | 37.00% | ~155 |
-| Mom got better | 36.00% | ~151 |
 | Poisoned fighter | 36.00% | ~151 |
 | The die is cast | 36.00% | ~151 |
 | Get out of my apartment! | 34.00% | ~142 |
@@ -72,7 +72,7 @@
 | The only right decision | 27.00% | ~113 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 419 (Ranked 339)  
-Completed: 9 (2.15%) (Ranked 132)  
+Completed: 9 (2.15%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

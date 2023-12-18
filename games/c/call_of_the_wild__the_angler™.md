@@ -20,7 +20,7 @@ Number of Ratings: 281  (23.09.2022)
 | License to Gill | 2.00% | ~144 |
 | School's Out for Summer | 2.00% | ~144 |
 | I'm Hooked! | 1.00% | ~72 |
-| Diamond in the Rough | 0.80% | ~58 |
+| Diamond in the Rough | 0.70% | ~50 |
 | I'm the Captain Now | 0.60% | ~43 |
 | Marathon | 0.60% | ~43 |
 | More than a Tourist | 0.50% | ~36 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,200 (Ranked 186)  
+Progressed: 7,202 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-15 | 6,981 | 0 |
 | 2023-12-16 | 7,057 | 0 |
 | 2023-12-17 | 7,136 | 0 |
-| 2023-12-18 | 7,200 | 0 |
+| 2023-12-18 | 7,202 | 0 |
 ## Awards
 Max (Relaxing): 39  (Ranked 468)  
 Sum: 207 (Ranked 403)  

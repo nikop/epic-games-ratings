@@ -1,25 +1,25 @@
 # Hardspace: Shipbreaker
 [Store](https://store.epicgames.com/en-US/p/hardspace-shipbreaker)  
 [View Rawdata](../../db/h/hardspace__shipbreaker.json)  
-Rating: 4.67 (Ranked 281)  
+Rating: 4.67 (Ranked 280)  
 Number of Ratings: 36  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breathe In… Breathe Out… | 73.00% | ~725 |
-| It’s Heating up! | 69.00% | ~685 |
-| Let’s patch things up | 65.00% | ~645 |
+| Breathe In… Breathe Out… | 73.00% | ~726 |
+| It’s Heating up! | 69.00% | ~686 |
+| Let’s patch things up | 65.00% | ~646 |
 | I can fix it! | 62.00% | ~616 |
-| Post No Bills | 55.00% | ~546 |
+| Post No Bills | 55.00% | ~547 |
 | Truly Shocking! | 48.00% | ~477 |
-| Critical Thinker | 36.00% | ~357 |
+| Critical Thinker | 36.00% | ~358 |
 | Always Finding Your Mark | 30.00% | ~298 |
-| The Weight of the World | 30.00% | ~298 |
 | Act I Complete | 29.00% | ~288 |
+| The Weight of the World | 29.00% | ~288 |
 | A drop in the Ocean | 28.00% | ~278 |
 | No Niños | 26.00% | ~258 |
 | I ain’t afraid of no Ghost | 25.00% | ~248 |
-| Act II Complete | 22.00% | ~218 |
+| Act II Complete | 22.00% | ~219 |
 | Bing Bang BOOM | 19.00% | ~189 |
 | A successful procedure! | 18.00% | ~179 |
 | Breaking the Ice | 18.00% | ~179 |
@@ -34,7 +34,7 @@ Number of Ratings: 36  (23.09.2022)
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 993 (Ranked 277)  
+Progressed: 994 (Ranked 277)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-15 | 983 | 0 |
 | 2023-12-16 | 985 | 0 |
 | 2023-12-17 | 989 | 0 |
-| 2023-12-18 | 993 | 0 |
+| 2023-12-18 | 994 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

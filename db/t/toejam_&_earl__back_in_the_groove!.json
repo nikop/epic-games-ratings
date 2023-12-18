@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58312,
+  "EOS_Progressed": 58313,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14321,6 +14321,11 @@
       "Time": "2023-12-18T21:07:22.6707384+00:00",
       "NumProgressed": 58312,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-18T23:07:27.4340218+00:00",
+      "NumProgressed": 58313,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -14468,7 +14473,7 @@
       "Name": "Gimme My Presents Back!",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "HFZGoober",
@@ -14508,7 +14513,7 @@
       "Name": "Level Diver",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "LittleGirl",
@@ -14723,7 +14728,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58312,
+      "Progressed": 58313,
       "Completed": 6
     }
   ],
@@ -14731,8 +14736,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-12-18T22:05:56.6080306+00:00",
+  "LastChanged_Achievements": "2023-12-18T23:07:27.4340212+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:49.0606835+00:00",
-  "LastUpdate_Ratings": "2023-12-18T21:59:17.1127775+00:00",
-  "LastUpdate_Achievements": "2023-12-18T22:05:56.6081232+00:00"
+  "LastUpdate_Ratings": "2023-12-18T23:00:44.238946+00:00",
+  "LastUpdate_Achievements": "2023-12-18T23:07:27.434117+00:00"
 }

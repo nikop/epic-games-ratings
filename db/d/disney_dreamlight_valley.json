@@ -6,7 +6,7 @@
   "Ranking_Popularity": 144,
   "Ranking_PopularitySum": 107,
   "Ranking_EOS_Progress": 165,
-  "Ranking_EOS_Completed": 126,
+  "Ranking_EOS_Completed": 127,
   "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
@@ -5305,10 +5305,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 8186,
       "NumberOfAwardsMax": 1137
+    },
+    {
+      "Time": "2023-12-18T22:59:37.9622912+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 8189,
+      "NumberOfAwardsMax": 1137
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8186,
+  "NumberOfAwards": 8189,
   "NumberOfAwardsMax": 1137,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5370,7 +5376,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 709
+      "Count": 712
     },
     {
       "Text": "This game has Easy Combat",
@@ -5379,7 +5385,7 @@
       "Count": 540
     }
   ],
-  "EOS_Progressed": 12805,
+  "EOS_Progressed": 12807,
   "EOS_Completed": 317,
   "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 8,
@@ -22204,6 +22210,11 @@
       "Time": "2023-12-18T22:08:47.004362+00:00",
       "NumProgressed": 12805,
       "NumCompleted": 317
+    },
+    {
+      "Time": "2023-12-18T23:09:10.823528+00:00",
+      "NumProgressed": 12807,
+      "NumCompleted": 317
     }
   ],
   "TotalAchievements": 15,
@@ -22223,7 +22234,7 @@
       "Name": "Banker",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 4994
+      "UsersEstimate": 4995
     },
     {
       "ID": "Bestest_Friend",
@@ -22231,7 +22242,7 @@
       "Name": "Bestest Friend",
       "Percentage": 46,
       "XP": 75,
-      "UsersEstimate": 5890
+      "UsersEstimate": 5891
     },
     {
       "ID": "Chef_Cook",
@@ -22255,7 +22266,7 @@
       "Name": "Constructor",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 6531
+      "UsersEstimate": 6532
     },
     {
       "ID": "Duty_Bound",
@@ -22263,7 +22274,7 @@
       "Name": "Duty Bound",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "Gardener",
@@ -22279,7 +22290,7 @@
       "Name": "Generous",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 3201
+      "UsersEstimate": 3202
     },
     {
       "ID": "Goofys_Investor",
@@ -22287,7 +22298,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 69,
       "XP": 75,
-      "UsersEstimate": 8835
+      "UsersEstimate": 8837
     },
     {
       "ID": "Miner",
@@ -22303,7 +22314,7 @@
       "Name": "Photographer",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 8707
+      "UsersEstimate": 8709
     },
     {
       "ID": "Renovator",
@@ -22311,7 +22322,7 @@
       "Name": "Renovator",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 6531
+      "UsersEstimate": 6532
     },
     {
       "ID": "Thorn_Cleaner",
@@ -22327,23 +22338,23 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 61,
       "XP": 100,
-      "UsersEstimate": 7811
+      "UsersEstimate": 7812
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 12805,
+      "Progressed": 12807,
       "Completed": 317
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-12-18T16:58:46.0410844+00:00",
-  "LastChanged_Achievements": "2023-12-18T22:08:47.0043601+00:00",
+  "LastChanged": "2023-12-18T22:59:37.962291+00:00",
+  "LastChanged_Achievements": "2023-12-18T23:09:10.8235276+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:26.6445497+00:00",
-  "LastUpdate_Ratings": "2023-12-18T21:58:34.0062649+00:00",
-  "LastUpdate_Achievements": "2023-12-18T22:08:47.0044639+00:00"
+  "LastUpdate_Ratings": "2023-12-18T22:59:37.9622916+00:00",
+  "LastUpdate_Achievements": "2023-12-18T23:09:10.8236182+00:00"
 }

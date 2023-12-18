@@ -4,8 +4,8 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -1336,9 +1336,9 @@
       "ID": "FIRST_ALL_MISSION_CLEAR",
       "SetID": "apihg0e",
       "Name": "Perfect Run",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 146
+      "UsersEstimate": 151
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -1384,9 +1384,9 @@
       "ID": "FIRST_POWER_BOOST",
       "SetID": "apihg0e",
       "Name": "Speed Demon",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 217
     },
     {
       "ID": "FIRST_S_RANK",
@@ -1599,8 +1599,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-18T22:05:17.7264138+00:00",
+  "LastChanged_Achievements": "2023-12-18T23:06:34.7974397+00:00",
   "LastUpdate_AppInfo": "2023-12-12T18:57:06.567221+00:00",
-  "LastUpdate_Ratings": "2023-12-18T22:02:50.8608502+00:00",
-  "LastUpdate_Achievements": "2023-12-18T22:05:17.7264467+00:00"
+  "LastUpdate_Ratings": "2023-12-18T23:02:59.8710014+00:00",
+  "LastUpdate_Achievements": "2023-12-18T23:06:34.7974641+00:00"
 }

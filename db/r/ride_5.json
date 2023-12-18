@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2719,
+  "EOS_Progressed": 2720,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 279,
+  "EOS_NewPlayers": 278,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6642,6 +6642,11 @@
       "Time": "2023-12-18T22:04:50.0848974+00:00",
       "NumProgressed": 2719,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T23:05:56.8532874+00:00",
+      "NumProgressed": 2720,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -6654,7 +6659,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -6676,9 +6681,9 @@
       "ID": "ML_ACHIEVEMENT_04",
       "SetID": "c7hf6a4",
       "Name": "Stamina Star",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 245
     },
     {
       "ID": "ML_ACHIEVEMENT_05",
@@ -6942,7 +6947,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -7045,14 +7050,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2719,
+      "Progressed": 2720,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-18T22:04:50.084897+00:00",
+  "LastChanged_Achievements": "2023-12-18T23:05:56.853287+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:35.5257739+00:00",
-  "LastUpdate_Ratings": "2023-12-18T21:57:43.385972+00:00",
-  "LastUpdate_Achievements": "2023-12-18T22:04:50.0849608+00:00"
+  "LastUpdate_Ratings": "2023-12-18T22:58:22.922884+00:00",
+  "LastUpdate_Achievements": "2023-12-18T23:05:56.8533395+00:00"
 }

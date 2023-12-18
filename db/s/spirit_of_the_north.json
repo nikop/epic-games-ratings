@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 449,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
@@ -339,9 +339,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 77178,
+  "EOS_Progressed": 77179,
   "EOS_Completed": 414,
-  "EOS_NewPlayers": 599,
+  "EOS_NewPlayers": 597,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -27039,6 +27039,11 @@
       "Time": "2023-12-18T22:09:14.5278194+00:00",
       "NumProgressed": 77178,
       "NumCompleted": 414
+    },
+    {
+      "Time": "2023-12-18T23:09:49.289513+00:00",
+      "NumProgressed": 77179,
+      "NumCompleted": 414
     }
   ],
   "TotalAchievements": 24,
@@ -27066,7 +27071,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 53253
+      "UsersEstimate": 53254
     },
     {
       "ID": "BEST_FRIENDS",
@@ -27082,7 +27087,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 20066
+      "UsersEstimate": 20067
     },
     {
       "ID": "ERADICATE",
@@ -27090,7 +27095,7 @@
       "Name": "ERADICATE",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16207
+      "UsersEstimate": 16208
     },
     {
       "ID": "FETCH",
@@ -27130,7 +27135,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 40904
+      "UsersEstimate": 40905
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -27194,7 +27199,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 16207
+      "UsersEstimate": 16208
     },
     {
       "ID": "SPIRIT_DASH",
@@ -27218,7 +27223,7 @@
       "Name": "UPROOTING DARKNESS",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12348
+      "UsersEstimate": 12349
     },
     {
       "ID": "WEIGHTLESS",
@@ -27234,14 +27239,14 @@
       "Name": "WRITTEN IN STONE",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 12348
+      "UsersEstimate": 12349
     }
   ],
   "AchievementSets": [
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 77178,
+      "Progressed": 77179,
       "Completed": 414
     }
   ],
@@ -27249,8 +27254,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2023-12-18T22:09:14.527819+00:00",
+  "LastChanged_Achievements": "2023-12-18T23:09:49.2895126+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:46.1287529+00:00",
-  "LastUpdate_Ratings": "2023-12-18T22:02:41.1248101+00:00",
-  "LastUpdate_Achievements": "2023-12-18T22:09:14.5279636+00:00"
+  "LastUpdate_Ratings": "2023-12-18T23:02:45.350416+00:00",
+  "LastUpdate_Achievements": "2023-12-18T23:09:49.2896662+00:00"
 }

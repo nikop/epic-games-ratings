@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 139,
   "Ranking_EOS_NewPlayers": 15,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8325,9 +8325,9 @@
       "Count": 433
     }
   ],
-  "EOS_Progressed": 734799,
+  "EOS_Progressed": 734825,
   "EOS_Completed": 12956,
-  "EOS_NewPlayers": 16828,
+  "EOS_NewPlayers": 16854,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.76,
   "EosHistory": [
@@ -29910,6 +29910,11 @@
       "Time": "2023-12-18T22:08:33.7137417+00:00",
       "NumProgressed": 734799,
       "NumCompleted": 12956
+    },
+    {
+      "Time": "2023-12-18T23:08:52.5400331+00:00",
+      "NumProgressed": 734825,
+      "NumCompleted": 12956
     }
   ],
   "TotalAchievements": 60,
@@ -29921,7 +29926,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22044
+      "UsersEstimate": 22045
     },
     {
       "ID": "02_Vengeance_H1",
@@ -29961,7 +29966,7 @@
       "Name": "Furious Fists",
       "Percentage": 0.8,
       "XP": 75,
-      "UsersEstimate": 5878
+      "UsersEstimate": 5879
     },
     {
       "ID": "07_Wude_H1",
@@ -30153,7 +30158,7 @@
       "Name": "I know Kung-Fu",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 5878
+      "UsersEstimate": 5879
     },
     {
       "ID": "31_ComboHigh",
@@ -30233,7 +30238,7 @@
       "Name": "Take damage to save time",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5878
+      "UsersEstimate": 5879
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -30273,7 +30278,7 @@
       "Name": "Bloody Sport",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -30281,7 +30286,7 @@
       "Name": "Martial Hub",
       "Percentage": 0.5,
       "XP": 80,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "47_Arena_GoldManhunt",
@@ -30400,21 +30405,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 44100,
+      "Progressed": 44126,
       "Completed": 10775
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 734799,
+      "Progressed": 734825,
       "Completed": 12956
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-18T19:02:51.3747131+00:00",
-  "LastChanged_Achievements": "2023-12-18T22:08:33.7137413+00:00",
+  "LastChanged_Achievements": "2023-12-18T23:08:52.5400325+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:50.1499922+00:00",
-  "LastUpdate_Ratings": "2023-12-18T22:02:44.7796218+00:00",
-  "LastUpdate_Achievements": "2023-12-18T22:08:33.7138892+00:00"
+  "LastUpdate_Ratings": "2023-12-18T23:02:51.1640184+00:00",
+  "LastUpdate_Achievements": "2023-12-18T23:08:52.5401596+00:00"
 }
