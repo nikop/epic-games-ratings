@@ -1,57 +1,57 @@
 # Song of Nunu: A League of Legends Story
 [Store](https://store.epicgames.com/en-US/p/song-of-nunu-a-league-of-legends-story)  
 [View Rawdata](../../db/s/song_of_nunu__a_league_of_legends_story™.json)  
-Rating: 4.43 (Ranked 699)  
+Rating: 4.48 (Ranked 637)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 75.00% | ~917 |
-| I Broke It | 73.00% | ~893 |
-| Better On Ice | 67.00% | ~819 |
-| Notai Notes | 67.00% | ~819 |
-| Blue Dreams | 65.00% | ~795 |
-| He's Famous! | 65.00% | ~795 |
-| Cutie Poro | 65.00% | ~795 |
-| Krugmazing | 64.00% | ~783 |
-| Moneyball | 60.00% | ~734 |
-| The Fire Below the Mountain | 60.00% | ~734 |
-| Iceborn | 55.00% | ~673 |
-| No Bites | 54.00% | ~660 |
-| Boom Things | 52.00% | ~636 |
-| Tear of Freedom | 51.00% | ~624 |
-| My Darkest Day | 48.00% | ~587 |
-| Rhythm Of Willump | 46.00% | ~563 |
-| The Relentless Storm | 46.00% | ~563 |
-| A Tragic Reminder | 44.00% | ~538 |
-| 3000 Year Blackout | 44.00% | ~538 |
-| The Finisher | 42.00% | ~514 |
-| So Close | 41.00% | ~501 |
-| You Get Used To It | 41.00% | ~501 |
-| Family | 39.00% | ~477 |
-| Biggest Snowball Ever | 39.00% | ~477 |
-| Freeze The Ice Witch | 39.00% | ~477 |
-| True Legends | 39.00% | ~477 |
-| Boosted! | 39.00% | ~477 |
-| Deadliest and Biggest Snowball Ever! | 39.00% | ~477 |
-| Bullseye | 36.00% | ~440 |
-| It Is Not Over | 35.00% | ~428 |
-| On The Rocks | 34.00% | ~416 |
-| Snowy Poro | 31.00% | ~379 |
-| Never Gets Old | 31.00% | ~379 |
-| Vertical Power | 27.00% | ~330 |
-| One From The Heart | 14.00% | ~171 |
-| Yummy | 10.00% | ~122 |
+| Feels Familiar | 75.00% | ~920 |
+| I Broke It | 73.00% | ~895 |
+| Better On Ice | 67.00% | ~821 |
+| Notai Notes | 66.00% | ~809 |
+| Blue Dreams | 65.00% | ~797 |
+| He's Famous! | 65.00% | ~797 |
+| Cutie Poro | 65.00% | ~797 |
+| Krugmazing | 64.00% | ~785 |
+| Moneyball | 60.00% | ~736 |
+| The Fire Below the Mountain | 60.00% | ~736 |
+| Iceborn | 55.00% | ~674 |
+| No Bites | 54.00% | ~662 |
+| Boom Things | 52.00% | ~638 |
+| Tear of Freedom | 51.00% | ~625 |
+| My Darkest Day | 48.00% | ~588 |
+| Rhythm Of Willump | 46.00% | ~564 |
+| The Relentless Storm | 46.00% | ~564 |
+| A Tragic Reminder | 44.00% | ~539 |
+| 3000 Year Blackout | 44.00% | ~539 |
+| The Finisher | 42.00% | ~515 |
+| So Close | 41.00% | ~503 |
+| You Get Used To It | 41.00% | ~503 |
+| Family | 39.00% | ~478 |
+| Biggest Snowball Ever | 39.00% | ~478 |
+| True Legends | 39.00% | ~478 |
+| Boosted! | 39.00% | ~478 |
+| Deadliest and Biggest Snowball Ever! | 39.00% | ~478 |
+| Freeze The Ice Witch | 38.00% | ~466 |
+| Bullseye | 36.00% | ~441 |
+| It Is Not Over | 35.00% | ~429 |
+| On The Rocks | 34.00% | ~417 |
+| Snowy Poro | 31.00% | ~380 |
+| Never Gets Old | 31.00% | ~380 |
+| Vertical Power | 27.00% | ~331 |
+| One From The Heart | 14.00% | ~172 |
+| Yummy | 10.00% | ~123 |
 | Snowball Fightn't | 9.00% | ~110 |
 | It Was Him | 7.00% | ~86 |
-| Handy Yeti | 6.00% | ~73 |
+| Handy Yeti | 6.00% | ~74 |
 | The Pied Piper Of Freljord | 5.00% | ~61 |
 | Braum's Poro Ranch | 3.00% | ~37 |
-| Rock Star | 2.00% | ~24 |
-| We Are Speed | 2.00% | ~24 |
+| Rock Star | 2.00% | ~25 |
+| We Are Speed | 2.00% | ~25 |
 | Sneaky Notai | 1.00% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,223 (Ranked 261)  
-Completed: 9 (0.74%) (Ranked 192)  
+Progressed: 1,226 (Ranked 259)  
+Completed: 9 (0.73%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -109,7 +109,7 @@ Completed: 9 (0.74%) (Ranked 192)
 | 2023-12-15 | 1,161 | 8 |
 | 2023-12-16 | 1,182 | 8 |
 | 2023-12-17 | 1,206 | 8 |
-| 2023-12-18 | 1,223 | 9 |
+| 2023-12-18 | 1,226 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -117,3 +117,4 @@ Completed: 9 (0.74%) (Ranked 192)
 | 2023-12-09 | 4.57 | 0 | 0 |
 | 2023-12-16 | 4.59 | 0 | 0 |
 | 2023-12-17 | 4.43 | 0 | 0 |
+| 2023-12-18 | 4.48 | 0 | 0 |

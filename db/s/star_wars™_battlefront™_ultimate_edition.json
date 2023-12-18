@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1874,
+  "EOS_Progressed": 1875,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 204,
+  "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5524,6 +5524,11 @@
       "Time": "2023-12-18T17:09:42.8292756+00:00",
       "NumProgressed": 1874,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-18T19:09:45.5346383+00:00",
+      "NumProgressed": 1875,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -5560,7 +5565,7 @@
       "Name": "Stay on target",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_13",
@@ -5584,7 +5589,7 @@
       "Name": "The Force is strong with this one",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "achievement_16",
@@ -5656,7 +5661,7 @@
       "Name": "Determined",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "achievement_24",
@@ -5720,7 +5725,7 @@
       "Name": "Precision shot",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "achievement_31",
@@ -5760,7 +5765,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1668
+      "UsersEstimate": 1669
     },
     {
       "ID": "achievement_36",
@@ -5774,9 +5779,9 @@
       "ID": "achievement_37",
       "SetID": "271ol84",
       "Name": "Off to a good start",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1218
+      "UsersEstimate": 1200
     },
     {
       "ID": "achievement_38",
@@ -5800,7 +5805,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "achievement_40",
@@ -5848,7 +5853,7 @@
       "Name": "This is a new day, a new beginning",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "achievement_46",
@@ -5864,7 +5869,7 @@
       "Name": "Greed can be a very powerful ally",
       "Percentage": 0.4,
       "XP": 60,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_48",
@@ -5896,7 +5901,7 @@
       "Name": "City in the Clouds",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "achievement_51",
@@ -5928,7 +5933,7 @@
       "Name": "That\u0027s no moon",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "achievement_55",
@@ -5984,7 +5989,7 @@
       "Name": "What will you become?",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "achievement_61",
@@ -6008,7 +6013,7 @@
       "Name": "Disturbed tranquility",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "achievement_7",
@@ -6039,13 +6044,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1874,
+      "Progressed": 1875,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1874,
+      "Progressed": 1875,
       "Completed": 1
     }
   ],
@@ -6053,8 +6058,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-18T18:10:42.5032515+00:00",
+  "LastChanged_Achievements": "2023-12-18T19:09:45.5346377+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.5169818+00:00",
-  "LastUpdate_Ratings": "2023-12-18T18:01:20.5634834+00:00",
-  "LastUpdate_Achievements": "2023-12-18T18:10:42.5033107+00:00"
+  "LastUpdate_Ratings": "2023-12-18T19:00:25.1229959+00:00",
+  "LastUpdate_Achievements": "2023-12-18T19:09:45.5347073+00:00"
 }

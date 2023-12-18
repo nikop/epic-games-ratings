@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 3.00% | ~22,041 |
-| The Assault | 2.00% | ~14,694 |
-| Life is your teacher | 2.00% | ~14,694 |
-| Lightning Hands | 2.00% | ~14,694 |
+| The Old Grandmaster | 3.00% | ~22,042 |
+| The Assault | 2.00% | ~14,695 |
+| Life is your teacher | 2.00% | ~14,695 |
+| Lightning Hands | 2.00% | ~14,695 |
 | The Hateful Pole Fighter | 1.00% | ~7,347 |
 | A Lady's Blood in the Snow | 1.00% | ~7,347 |
 | Stuntmaster | 1.00% | ~7,347 |
@@ -21,8 +21,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 1.00% | ~7,347 |
 | Rumble in the Hangar | 1.00% | ~7,347 |
 | Diligence as a goal | 1.00% | ~440 |
-| Lady Wing Chun | 0.90% | ~6,612 |
-| Kill Nil | 0.90% | ~6,612 |
+| Lady Wing Chun | 0.90% | ~6,613 |
+| Kill Nil | 0.90% | ~6,613 |
 | Project Arena | 0.90% | ~396 |
 | Furious Fists | 0.80% | ~5,878 |
 | I know Kung-Fu | 0.80% | ~5,878 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~44 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 734,691 (Ranked 24)  
+Progressed: 734,728 (Ranked 24)  
 Completed: 12,956 (1.76%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,16 +309,16 @@ Completed: 12,956 (1.76%) (Ranked 139)
 | 2023-12-15 | 726,562 | 12,953 |
 | 2023-12-16 | 730,184 | 12,954 |
 | 2023-12-17 | 733,014 | 12,955 |
-| 2023-12-18 | 734,691 | 12,956 |
+| 2023-12-18 | 734,728 | 12,956 |
 ## Awards
 Max (Great Boss Battles): 6,957  (Ranked 55)  
-Sum: 12,196 (Ranked 84)  
+Sum: 12,197 (Ranked 84)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,957 |
 | This game has Diverse Characters | 679 |
-| This game has Challenging Combat | 620 |
+| This game has Challenging Combat | 621 |
 | This game has Amazing Storytelling | 603 |
 | This game has Amazing Characters | 592 |
 | This game is Highly Recommended | 587 |
@@ -665,4 +665,4 @@ Diff (max vs sum): -29
 | 2023-12-15 | 4.82 | - | 6,930 | 12,162 |
 | 2023-12-16 | 4.82 | - | 6,935 | 12,172 |
 | 2023-12-17 | 4.82 | - | 6,944 | 12,182 |
-| 2023-12-18 | 4.82 | - | 6,957 | 12,196 |
+| 2023-12-18 | 4.82 | - | 6,957 | 12,197 |

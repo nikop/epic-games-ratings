@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 139,
   "Ranking_EOS_NewPlayers": 14,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8239,10 +8239,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 12196,
       "NumberOfAwardsMax": 6957
+    },
+    {
+      "Time": "2023-12-18T19:02:51.3747132+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 12197,
+      "NumberOfAwardsMax": 6957
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12196,
+  "NumberOfAwards": 12197,
   "NumberOfAwardsMax": 6957,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8292,7 +8298,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 620
+      "Count": 621
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -8319,9 +8325,9 @@
       "Count": 433
     }
   ],
-  "EOS_Progressed": 734691,
+  "EOS_Progressed": 734728,
   "EOS_Completed": 12956,
-  "EOS_NewPlayers": 16725,
+  "EOS_NewPlayers": 16762,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.76,
   "EosHistory": [
@@ -29884,6 +29890,11 @@
       "Time": "2023-12-18T18:09:06.2097472+00:00",
       "NumProgressed": 734691,
       "NumCompleted": 12956
+    },
+    {
+      "Time": "2023-12-18T19:08:30.3509509+00:00",
+      "NumProgressed": 734728,
+      "NumCompleted": 12956
     }
   ],
   "TotalAchievements": 60,
@@ -29895,7 +29906,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22041
+      "UsersEstimate": 22042
     },
     {
       "ID": "02_Vengeance_H1",
@@ -29903,7 +29914,7 @@
       "Name": "The Assault",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14694
+      "UsersEstimate": 14695
     },
     {
       "ID": "03_Vengeance_H2",
@@ -29927,7 +29938,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6612
+      "UsersEstimate": 6613
     },
     {
       "ID": "06_Vengeance_H5",
@@ -29999,7 +30010,7 @@
       "Name": "Kill Nil",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6612
+      "UsersEstimate": 6613
     },
     {
       "ID": "15_Detective_H1",
@@ -30071,7 +30082,7 @@
       "Name": "Life is your teacher",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14694
+      "UsersEstimate": 14695
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -30159,7 +30170,7 @@
       "Name": "Lightning Hands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14694
+      "UsersEstimate": 14695
     },
     {
       "ID": "35_WideStrike",
@@ -30374,21 +30385,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 43992,
+      "Progressed": 44029,
       "Completed": 10775
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 734691,
+      "Progressed": 734728,
       "Completed": 12956
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-12-18T14:03:00.2465084+00:00",
-  "LastChanged_Achievements": "2023-12-18T18:09:06.2097469+00:00",
+  "LastChanged": "2023-12-18T19:02:51.3747131+00:00",
+  "LastChanged_Achievements": "2023-12-18T19:08:30.3509503+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:50.1499922+00:00",
-  "LastUpdate_Ratings": "2023-12-18T18:03:10.0744094+00:00",
-  "LastUpdate_Achievements": "2023-12-18T18:09:06.2098959+00:00"
+  "LastUpdate_Ratings": "2023-12-18T19:02:51.3747137+00:00",
+  "LastUpdate_Achievements": "2023-12-18T19:08:30.3510838+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "cb62701a29834de6a91e5f634a72b6f8",
   "Name": "ATOM RPG",
   "ProductSlug": "atom-rpg-3adb54",
-  "Ranking_Rating": 644,
+  "Ranking_Rating": 645,
   "Ranking_Popularity": 435,
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -403,9 +403,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1422,
+  "EOS_Progressed": 1423,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3428,6 +3428,11 @@
       "Time": "2023-12-18T16:10:26.3290061+00:00",
       "NumProgressed": 1422,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-18T19:09:35.8617145+00:00",
+      "NumProgressed": 1423,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -3495,7 +3500,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     },
     {
       "ID": "EXPERT_1",
@@ -3695,7 +3700,7 @@
       "Name": "Traveler",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "VVE",
@@ -3711,7 +3716,7 @@
       "Name": "Wanderer",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "WISHMASTER_1",
@@ -3726,15 +3731,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1422,
+      "Progressed": 1423,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-11-03T17:57:55.7845483+00:00",
-  "LastChanged_Achievements": "2023-12-18T18:10:31.1431175+00:00",
+  "LastChanged_Achievements": "2023-12-18T19:09:35.8617141+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:19.4071615+00:00",
-  "LastUpdate_Ratings": "2023-12-18T18:02:45.872162+00:00",
-  "LastUpdate_Achievements": "2023-12-18T18:10:31.143144+00:00"
+  "LastUpdate_Ratings": "2023-12-18T19:02:32.5570876+00:00",
+  "LastUpdate_Achievements": "2023-12-18T19:09:35.8617438+00:00"
 }

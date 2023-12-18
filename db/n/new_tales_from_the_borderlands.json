@@ -3,11 +3,11 @@
   "Name": "New Tales from the Borderlands",
   "ProductSlug": "new-tales-from-the-borderlands",
   "Ranking_Rating": 988,
-  "Ranking_Popularity": 565,
-  "Ranking_PopularitySum": 565,
+  "Ranking_Popularity": 566,
+  "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -177,9 +177,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3727,
+  "EOS_Progressed": 3730,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1922,6 +1922,11 @@
       "Time": "2023-12-18T10:05:48.8258762+00:00",
       "NumProgressed": 3727,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T19:04:48.0718719+00:00",
+      "NumProgressed": 3730,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1933,7 +1938,7 @@
       "Name": "You\u0027re Not Naked",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "BUY_EVERY_COSMETIC_ITEM",
@@ -1965,7 +1970,7 @@
       "Name": "Totally Intentional",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 1677
+      "UsersEstimate": 1678
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -1973,7 +1978,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -1981,7 +1986,7 @@
       "Name": "From Zeroes...",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "FINISH_EPISODE_2",
@@ -2005,7 +2010,7 @@
       "Name": "The Shardmenstration",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "FINISH_EPISODE_5",
@@ -2029,7 +2034,7 @@
       "Name": "Tale in the Toilet",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "GET_MONEY_SINK_OR_SWIM",
@@ -2037,7 +2042,7 @@
       "Name": "You Rich Now!",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     },
     {
       "ID": "HACK_YOUR_FIRST_OBJECT",
@@ -2045,7 +2050,7 @@
       "Name": "We\u0027re In",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1230
+      "UsersEstimate": 1231
     },
     {
       "ID": "HOTWIRE_FIRST_OBJECT",
@@ -2053,7 +2058,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1864
+      "UsersEstimate": 1865
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -2069,7 +2074,7 @@
       "Name": "You Got the Goods, Kid",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "PERF_EVRY_BCKGRD_CHECK",
@@ -2077,7 +2082,7 @@
       "Name": "Super Trusting Friend!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "SUMMON_SEXY_INTERNS",
@@ -2101,7 +2106,7 @@
       "Name": "Those Were the Days...",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "WIN_EVERY_VAULTLANDER_IN_MAIN",
@@ -2109,7 +2114,7 @@
       "Name": "And Still Champion...",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "WIN_FIRST_VAULTLANDER_BATTLE",
@@ -2117,7 +2122,7 @@
       "Name": "Don\u0027t Get Cocky",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1007
     },
     {
       "ID": "WIN_VAULTLANDER_BATTLE_CLAPTRAP",
@@ -2140,7 +2145,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3727,
+      "Progressed": 3730,
       "Completed": 0
     }
   ],
@@ -2148,8 +2153,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2023-12-18T18:05:42.063426+00:00",
+  "LastChanged_Achievements": "2023-12-18T19:04:48.0718714+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:35.6151583+00:00",
-  "LastUpdate_Ratings": "2023-12-18T17:59:51.1956778+00:00",
-  "LastUpdate_Achievements": "2023-12-18T18:05:42.063447+00:00"
+  "LastUpdate_Ratings": "2023-12-18T18:59:19.5132317+00:00",
+  "LastUpdate_Achievements": "2023-12-18T19:04:48.0718952+00:00"
 }

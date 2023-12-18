@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 396,
+  "EOS_Progressed": 397,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1160,6 +1160,11 @@
       "Time": "2023-12-18T13:13:36.4768094+00:00",
       "NumProgressed": 396,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T19:05:53.5836346+00:00",
+      "NumProgressed": 397,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1203,7 +1208,7 @@
       "Name": "Floor Galore",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "ach_area_1",
@@ -1211,7 +1216,7 @@
       "Name": "Under One Roof",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ach_art",
@@ -1259,7 +1264,7 @@
       "Name": "Campaign Launch",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ach_campaigns_1",
@@ -1339,7 +1344,7 @@
       "Name": "Smooth Operator",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ach_contracts_1",
@@ -1507,7 +1512,7 @@
       "Name": "Grime is Not Good",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ach_grime_1",
@@ -1691,15 +1696,15 @@
       "Name": "Dinner Dash",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "ach_restaurants_4",
       "SetID": "b8gh1fi",
       "Name": "Potent Potables",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 99
     },
     {
       "ID": "ach_restaurants_5",
@@ -1707,7 +1712,7 @@
       "Name": "Starred Dining",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ach_retail_1",
@@ -1739,7 +1744,7 @@
       "Name": "Boutique Benefits",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ach_revs_1",
@@ -1747,7 +1752,7 @@
       "Name": "Cashflow Chief",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ach_revs_2",
@@ -1859,22 +1864,22 @@
       "Name": "Thrilled Tenants",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ach_visitors_1",
       "SetID": "b8gh1fi",
       "Name": "Destination Destiny",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 123
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 396,
+      "Progressed": 397,
       "Completed": 0
     }
   ],
@@ -1882,8 +1887,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-12-18T18:07:21.4200089+00:00",
+  "LastChanged_Achievements": "2023-12-18T19:05:53.5836341+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:18.491222+00:00",
-  "LastUpdate_Ratings": "2023-12-18T17:58:27.546732+00:00",
-  "LastUpdate_Achievements": "2023-12-18T18:07:21.4200782+00:00"
+  "LastUpdate_Ratings": "2023-12-18T18:58:17.8243989+00:00",
+  "LastUpdate_Achievements": "2023-12-18T19:05:53.5837292+00:00"
 }

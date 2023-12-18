@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 781,
+  "EOS_Progressed": 782,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.15,
   "EosHistory": [
@@ -2000,6 +2000,11 @@
       "Time": "2023-12-18T17:08:58.8139829+00:00",
       "NumProgressed": 781,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-18T19:09:01.2980432+00:00",
+      "NumProgressed": 782,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 20,
@@ -2011,7 +2016,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "CHOICES_MATTER",
@@ -2067,7 +2072,7 @@
       "Name": "The Bribe",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ENDING_7",
@@ -2099,7 +2104,7 @@
       "Name": "Fair Share",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "GOOD_KARMA",
@@ -2107,7 +2112,7 @@
       "Name": "Good Karma",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "INTERROGATION",
@@ -2153,9 +2158,9 @@
       "ID": "SHILL_BIDDER",
       "SetID": "8eejhlh",
       "Name": "Shill Bidder",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 320
+      "UsersEstimate": 328
     },
     {
       "ID": "STAR_CROSSED_LOVERS",
@@ -2163,14 +2168,14 @@
       "Name": "Star-Crossed Lovers",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     }
   ],
   "AchievementSets": [
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 781,
+      "Progressed": 782,
       "Completed": 9
     }
   ],
@@ -2178,8 +2183,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-12-18T18:09:46.696411+00:00",
+  "LastChanged_Achievements": "2023-12-18T19:09:01.2980428+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:24.4540531+00:00",
-  "LastUpdate_Ratings": "2023-12-18T17:57:32.7097719+00:00",
-  "LastUpdate_Achievements": "2023-12-18T18:09:46.69643+00:00"
+  "LastUpdate_Ratings": "2023-12-18T18:57:38.8931438+00:00",
+  "LastUpdate_Achievements": "2023-12-18T19:09:01.2980689+00:00"
 }

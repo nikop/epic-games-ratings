@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 689,
+  "EOS_Progressed": 690,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.05,
+  "EOS_Completed_Percentage": 3.04,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:48.1616312+00:00",
@@ -1240,6 +1240,11 @@
       "Time": "2023-12-18T18:09:53.9689412+00:00",
       "NumProgressed": 689,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-18T19:09:06.9279581+00:00",
+      "NumProgressed": 690,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 20,
@@ -1251,7 +1256,7 @@
       "Name": "Beat It",
       "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "blast_from_the_past",
@@ -1259,7 +1264,7 @@
       "Name": "Blast From The Past",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "deadly_secret",
@@ -1331,7 +1336,7 @@
       "Name": "MVP - Most Vanishing Person",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "falling_for_you",
@@ -1339,7 +1344,7 @@
       "Name": "Falling For You",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "free_champagne",
@@ -1355,7 +1360,7 @@
       "Name": "Kamikaze",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "kindar_surprise",
@@ -1403,14 +1408,14 @@
       "Name": "Tough Decision",
       "Percentage": 93,
       "XP": 50,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 689,
+      "Progressed": 690,
       "Completed": 21
     }
   ],
@@ -1418,8 +1423,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-12-18T18:09:53.9689411+00:00",
+  "LastChanged_Achievements": "2023-12-18T19:09:06.9279577+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:08.7462011+00:00",
-  "LastUpdate_Ratings": "2023-12-18T17:59:28.4929656+00:00",
-  "LastUpdate_Achievements": "2023-12-18T18:09:53.968953+00:00"
+  "LastUpdate_Ratings": "2023-12-18T18:59:03.8628779+00:00",
+  "LastUpdate_Achievements": "2023-12-18T19:09:06.9279746+00:00"
 }

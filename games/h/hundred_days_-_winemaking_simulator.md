@@ -29,16 +29,16 @@ Number of Ratings: 7,669  (23.09.2022)
 | Pastry Chef | 1.00% | ~165 |
 | King of Langhe | 1.00% | ~165 |
 | Gem of Monferrato | 1.00% | ~165 |
-| Treasure of Roero | 0.70% | ~115 |
-| Knight of Langhe | 0.50% | ~82 |
+| Treasure of Roero | 0.70% | ~116 |
+| Knight of Langhe | 0.50% | ~83 |
 | King of red wines | 0.20% | ~33 |
 | King of white wines | 0.20% | ~33 |
 | Sales Expert | 0.20% | ~33 |
-| Big deals | 0.10% | ~16 |
-| Master Winemaker | 0.10% | ~16 |
-| Unsuitable Terroir | 0.10% | ~16 |
+| Big deals | 0.10% | ~17 |
+| Master Winemaker | 0.10% | ~17 |
+| Unsuitable Terroir | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,499 (Ranked 153)  
+Progressed: 16,501 (Ranked 153)  
 Completed: 12 (0.07%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 12 (0.07%) (Ranked 317)
 | 2023-12-15 | 16,079 | 12 |
 | 2023-12-16 | 16,240 | 12 |
 | 2023-12-17 | 16,390 | 12 |
-| 2023-12-18 | 16,499 | 12 |
+| 2023-12-18 | 16,501 | 12 |
 ## Awards
 Max (Relaxing): 207  (Ranked 289)  
 Sum: 1,730 (Ranked 223)  

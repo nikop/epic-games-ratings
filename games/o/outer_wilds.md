@@ -3,6 +3,13 @@
 [View Rawdata](../../db/o/outer_wilds.json)  
 Rating: 4.90 (Ranked 6)  
 Number of Ratings: 726  (23.09.2022)  
+## Awards
+Max (Extremely Fun): 20  (Ranked 560)  
+Sum: 20 (Ranked 562)  
+Diff (max vs sum): -2  
+| Award | Count |
+| ----- | ----- |
+| This game is Extremely Fun | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -72,3 +79,4 @@ Number of Ratings: 726  (23.09.2022)
 | 2022-10-02 | 4.91 | - | - | - |
 | 2022-10-04 | 4.90 | - | - | - |
 | 2023-03-31 | 4.90 | - | 0 | 0 |
+| 2023-12-18 | 4.90 | - | 20 | 20 |

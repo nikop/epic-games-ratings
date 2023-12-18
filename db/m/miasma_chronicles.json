@@ -3,11 +3,11 @@
   "Name": "Miasma Chronicles",
   "ProductSlug": "miasma-chronicles",
   "Ranking_Rating": 730,
-  "Ranking_Popularity": 565,
-  "Ranking_PopularitySum": 565,
+  "Ranking_Popularity": 566,
+  "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -4156,9 +4156,9 @@
       "ID": "EXORCIST",
       "SetID": "9a4jnji",
       "Name": "Exorcist",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 776
+      "UsersEstimate": 792
     },
     {
       "ID": "EXPERIENCED",
@@ -4380,9 +4380,9 @@
       "ID": "THE_MEANING_OF_KAIN",
       "SetID": "9a4jnji",
       "Name": "The meaning of Kain",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 679
+      "UsersEstimate": 695
     },
     {
       "ID": "THE_WATCHERS",
@@ -4413,8 +4413,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-12-10T19:02:39.9378585+00:00",
-  "LastChanged_Achievements": "2023-12-18T18:10:41.3147567+00:00",
+  "LastChanged_Achievements": "2023-12-18T19:09:44.4857303+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:53.0198818+00:00",
-  "LastUpdate_Ratings": "2023-12-18T18:03:16.1212123+00:00",
-  "LastUpdate_Achievements": "2023-12-18T18:10:41.3148083+00:00"
+  "LastUpdate_Ratings": "2023-12-18T19:02:55.7822454+00:00",
+  "LastUpdate_Achievements": "2023-12-18T19:09:44.4857762+00:00"
 }

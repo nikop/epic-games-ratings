@@ -19,7 +19,7 @@ Rating: 4.56 (Ranked 498)
 | Collect Gold | 46.00% | ~1,038 |
 | Smithy Ready to Craft | 46.00% | ~1,038 |
 | Fix the Travellers Wagon | 45.00% | ~1,015 |
-| Complete Elder Faction | 41.00% | ~925 |
+| Complete Elder Faction | 42.00% | ~948 |
 | Throne Room Fit For A King | 39.00% | ~880 |
 | End of the Mozis | 38.00% | ~857 |
 | Meet the Creatures from the Deep | 36.00% | ~812 |

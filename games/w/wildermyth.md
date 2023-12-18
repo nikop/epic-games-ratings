@@ -27,9 +27,9 @@ Number of Ratings: 45  (23.09.2022)
 | Another Tale to Tell | 0.80% | ~12 |
 | A Story of Heroes | 0.80% | ~12 |
 | Legends Never Die | 0.70% | ~11 |
+| Chain Reaction | 0.70% | ~11 |
 | No Time for Clawmonsters | 0.70% | ~11 |
 | Plague Doctor | 0.60% | ~9 |
-| Chain Reaction | 0.60% | ~9 |
 | Everfading | 0.60% | ~9 |
 | Some Say I'm Too Flashy | 0.60% | ~9 |
 | Astrology | 0.60% | ~9 |

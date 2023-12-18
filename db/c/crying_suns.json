@@ -673,9 +673,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 472439,
+  "EOS_Progressed": 472441,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 332,
+  "EOS_NewPlayers": 330,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25713,6 +25713,11 @@
       "Time": "2023-12-18T18:10:42.1955297+00:00",
       "NumProgressed": 472439,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-12-18T19:09:45.2879419+00:00",
+      "NumProgressed": 472441,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -25740,7 +25745,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113385
+      "UsersEstimate": 113386
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -25812,7 +25817,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 311810
+      "UsersEstimate": 311811
     },
     {
       "ID": "achievement_story_landa",
@@ -25876,7 +25881,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51968
+      "UsersEstimate": 51969
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -25908,7 +25913,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160629
+      "UsersEstimate": 160630
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -26148,7 +26153,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207873
+      "UsersEstimate": 207874
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -26180,7 +26185,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 184251
+      "UsersEstimate": 184252
     },
     {
       "ID": "achievement_win_run_hard",
@@ -26276,7 +26281,7 @@
       "Name": "Soldiers of Fortune",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "achievement_unlock_pragmah_battleship",
@@ -26355,21 +26360,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 16373,
+      "Progressed": 16375,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 472439,
+      "Progressed": 472441,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-12-16T01:44:08.2225132+00:00",
-  "LastChanged_Achievements": "2023-12-18T18:10:42.1955295+00:00",
+  "LastChanged_Achievements": "2023-12-18T19:09:45.2879416+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:11.1940108+00:00",
-  "LastUpdate_Ratings": "2023-12-18T18:01:28.3475293+00:00",
-  "LastUpdate_Achievements": "2023-12-18T18:10:42.1957184+00:00"
+  "LastUpdate_Ratings": "2023-12-18T19:00:30.6189954+00:00",
+  "LastUpdate_Achievements": "2023-12-18T19:09:45.2881092+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Sherlock Holmes The Awakened",
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_Rating": 455,
-  "Ranking_Popularity": 565,
-  "Ranking_PopularitySum": 565,
+  "Ranking_Popularity": 566,
+  "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -139,7 +139,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1239,
+  "EOS_Progressed": 1240,
   "EOS_Completed": 34,
   "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 4,
@@ -4279,6 +4279,11 @@
       "Time": "2023-12-18T17:05:25.905365+00:00",
       "NumProgressed": 1239,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-18T19:05:17.8458849+00:00",
+      "NumProgressed": 1240,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 28,
@@ -4298,7 +4303,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 768
+      "UsersEstimate": 769
     },
     {
       "ID": "MQ02_1",
@@ -4306,7 +4311,7 @@
       "Name": "High Profile",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "MQ02_2",
@@ -4346,7 +4351,7 @@
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "MQ03_3",
@@ -4370,7 +4375,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "MQ04_1",
@@ -4386,7 +4391,7 @@
       "Name": "Let Me Be Frank",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "MQ04_3",
@@ -4410,7 +4415,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "MQ05_3",
@@ -4442,7 +4447,7 @@
       "Name": "Bookworm",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "MQ06_3",
@@ -4450,7 +4455,7 @@
       "Name": "Land, Ho!",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "MQ06_4",
@@ -4466,7 +4471,7 @@
       "Name": "Read It And Weep",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "MQ07_2",
@@ -4482,7 +4487,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "MQ08_2",
@@ -4490,7 +4495,7 @@
       "Name": "Up In Flames",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "MQ08_3",
@@ -4513,7 +4518,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1239,
+      "Progressed": 1240,
       "Completed": 34
     }
   ],
@@ -4521,8 +4526,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-18T11:03:40.7955298+00:00",
-  "LastChanged_Achievements": "2023-12-18T18:06:20.4596444+00:00",
+  "LastChanged_Achievements": "2023-12-18T19:05:17.8458844+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:14.2246919+00:00",
-  "LastUpdate_Ratings": "2023-12-18T18:03:20.9614148+00:00",
-  "LastUpdate_Achievements": "2023-12-18T18:06:20.4596723+00:00"
+  "LastUpdate_Ratings": "2023-12-18T19:02:59.3933118+00:00",
+  "LastUpdate_Achievements": "2023-12-18T19:05:17.8459219+00:00"
 }

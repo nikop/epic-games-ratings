@@ -6,15 +6,15 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 71.00% | ~84 |
-| Mash Machine | 64.00% | ~76 |
-| Furon Fashion | 38.00% | ~45 |
-| Ducks in a Row, Fish in a Barrel | 38.00% | ~45 |
-| Shop Til They Drop | 29.00% | ~35 |
-| Earthly Pleasures | 28.00% | ~33 |
-| Bodied Sattva | 23.00% | ~27 |
+| Rock of the Bay | 71.00% | ~85 |
+| Mash Machine | 63.00% | ~76 |
+| Furon Fashion | 38.00% | ~46 |
+| Ducks in a Row, Fish in a Barrel | 38.00% | ~46 |
+| Earthly Pleasures | 28.00% | ~34 |
+| Shop Til They Drop | 28.00% | ~34 |
+| Bodied Sattva | 23.00% | ~28 |
 | Cult Following | 21.00% | ~25 |
-| Upgreatest | 18.00% | ~21 |
+| Upgreatest | 18.00% | ~22 |
 | Lie Back and Think of Albion | 17.00% | ~20 |
 | Pimp My Raid | 17.00% | ~20 |
 | I Look Up As I Walk to Takoshima | 15.00% | ~18 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.00% | ~0 |
 | Trans-Siberian Express | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 119 (Ranked 445)  
+Progressed: 120 (Ranked 444)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-15 | 75 | 0 |
 | 2023-12-16 | 92 | 0 |
 | 2023-12-17 | 103 | 0 |
-| 2023-12-18 | 119 | 0 |
+| 2023-12-18 | 120 | 0 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 480)  
 Sum: 36 (Ranked 513)  

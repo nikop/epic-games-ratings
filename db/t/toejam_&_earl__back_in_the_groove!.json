@@ -3,8 +3,8 @@
   "Name": "ToeJam \u0026 Earl: Back in the Groove!",
   "ProductSlug": "toejam-and-earl-back-in-the-groove-cddc16",
   "Ranking_Rating": 826,
-  "Ranking_Popularity": 565,
-  "Ranking_PopularitySum": 565,
+  "Ranking_Popularity": 566,
+  "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 208,
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58309,
+  "EOS_Progressed": 58311,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14311,6 +14311,11 @@
       "Time": "2023-12-18T16:07:40.3140912+00:00",
       "NumProgressed": 58309,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-18T19:06:07.2249005+00:00",
+      "NumProgressed": 58311,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -14394,7 +14399,7 @@
       "Name": "Flying Present Catcher",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2915
+      "UsersEstimate": 2916
     },
     {
       "ID": "FlyingPresentMaster",
@@ -14634,7 +14639,7 @@
       "Name": "Sunflower Master",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2915
+      "UsersEstimate": 2916
     },
     {
       "ID": "Teamwork",
@@ -14713,7 +14718,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58309,
+      "Progressed": 58311,
       "Completed": 6
     }
   ],
@@ -14721,8 +14726,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-12-18T18:07:53.5057772+00:00",
+  "LastChanged_Achievements": "2023-12-18T19:06:07.2248999+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:49.0606835+00:00",
-  "LastUpdate_Ratings": "2023-12-18T18:00:27.2363596+00:00",
-  "LastUpdate_Achievements": "2023-12-18T18:07:53.505859+00:00"
+  "LastUpdate_Ratings": "2023-12-18T18:59:45.4319127+00:00",
+  "LastUpdate_Achievements": "2023-12-18T19:06:07.2250116+00:00"
 }

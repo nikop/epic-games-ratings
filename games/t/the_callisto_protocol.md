@@ -5,16 +5,16 @@ Rating: 4.19 (Ranked 940)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 13.00% | ~2,327 |
-| Get a Grip | 13.00% | ~2,327 |
-| Paper Jams | 12.00% | ~2,148 |
-| The Outer Way | 12.00% | ~2,148 |
-| Desperate Times | 11.00% | ~1,969 |
-| Chew 'Em Up | 10.00% | ~1,790 |
-| Float Like A Butterfly | 10.00% | ~1,790 |
-| Reforged | 9.00% | ~1,611 |
-| Workplace Hazard | 8.00% | ~1,432 |
-| If the SHU Fits... | 8.00% | ~1,432 |
+| Flesh Wound | 13.00% | ~2,328 |
+| Get a Grip | 13.00% | ~2,328 |
+| Paper Jams | 12.00% | ~2,149 |
+| The Outer Way | 12.00% | ~2,149 |
+| Desperate Times | 11.00% | ~1,970 |
+| Chew 'Em Up | 10.00% | ~1,791 |
+| Float Like A Butterfly | 10.00% | ~1,791 |
+| Reforged | 9.00% | ~1,612 |
+| Workplace Hazard | 8.00% | ~1,433 |
+| If the SHU Fits... | 8.00% | ~1,433 |
 | Without A Paddle | 7.00% | ~1,253 |
 | Two Heads Are Better Than One | 6.00% | ~1,074 |
 | Terminated | 6.00% | ~1,074 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 940)
 | Bear Trap | 0.10% | ~6 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,900 (Ranked 149)  
+Progressed: 17,907 (Ranked 149)  
 Completed: 82 (0.46%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 82 (0.46%) (Ranked 219)
 | 2023-12-15 | 17,123 | 82 |
 | 2023-12-16 | 17,442 | 82 |
 | 2023-12-17 | 17,760 | 82 |
-| 2023-12-18 | 17,900 | 82 |
+| 2023-12-18 | 17,907 | 82 |
 ## Awards
 Max (Quickly Understood Controls): 88  (Ranked 388)  
 Sum: 520 (Ranked 327)  

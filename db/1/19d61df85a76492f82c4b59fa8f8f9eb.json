@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 385,
+  "EOS_Progressed": 386,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 9.87,
+  "EOS_Completed_Percentage": 9.84,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -1814,6 +1814,11 @@
       "Time": "2023-12-18T17:08:34.3650677+00:00",
       "NumProgressed": 385,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-18T19:08:36.8493059+00:00",
+      "NumProgressed": 386,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 6,
@@ -1823,9 +1828,9 @@
       "ID": "CgkIgaGB2J0LEAIQAA",
       "SetID": "4ocea6d",
       "Name": "Printing Press",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 175,
-      "UsersEstimate": 235
+      "UsersEstimate": 232
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAQ",
@@ -1833,7 +1838,7 @@
       "Name": "File-cutter",
       "Percentage": 64,
       "XP": 165,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAg",
@@ -1841,7 +1846,7 @@
       "Name": "Viola Organista",
       "Percentage": 50,
       "XP": 165,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAw",
@@ -1849,7 +1854,7 @@
       "Name": "Scythed Chariot",
       "Percentage": 31,
       "XP": 165,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBA",
@@ -1857,29 +1862,29 @@
       "Name": "Revolving Bridge",
       "Percentage": 31,
       "XP": 165,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBQ",
       "SetID": "4ocea6d",
       "Name": "Flying Machine",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 165,
-      "UsersEstimate": 131
+      "UsersEstimate": 127
     }
   ],
   "AchievementSets": [
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 385,
+      "Progressed": 386,
       "Completed": 38
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-12-18T18:09:14.6169064+00:00",
+  "LastChanged_Achievements": "2023-12-18T19:08:36.8493055+00:00",
   "LastUpdate_AppInfo": "2023-12-15T02:21:09.453907+00:00",
-  "LastUpdate_Ratings": "2023-12-18T18:00:12.2469379+00:00",
-  "LastUpdate_Achievements": "2023-12-18T18:09:14.616921+00:00"
+  "LastUpdate_Ratings": "2023-12-18T18:59:35.001717+00:00",
+  "LastUpdate_Achievements": "2023-12-18T19:08:36.8493198+00:00"
 }

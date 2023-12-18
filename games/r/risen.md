@@ -5,11 +5,11 @@ Rating: 4.60 (Ranked 421)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 93.00% | ~88 |
-| Map reader | 74.00% | ~70 |
+| Beginner | 93.00% | ~89 |
+| Map reader | 73.00% | ~70 |
 | Philanthropist | 68.00% | ~65 |
-| Adventurer | 66.00% | ~63 |
-| Archer | 51.00% | ~48 |
+| Adventurer | 67.00% | ~64 |
+| Archer | 50.00% | ~48 |
 | The brave little tailor | 49.00% | ~47 |
 | Field hand | 43.00% | ~41 |
 | Samaritan | 42.00% | ~40 |
@@ -34,13 +34,13 @@ Rating: 4.60 (Ranked 421)
 | Master detective | 18.00% | ~17 |
 | Peacekeeper | 17.00% | ~16 |
 | Defender | 15.00% | ~14 |
+| Workaholic | 15.00% | ~14 |
 | Showdown | 14.00% | ~13 |
-| Workaholic | 14.00% | ~13 |
 | Safecracker | 13.00% | ~12 |
 | Master thief | 13.00% | ~12 |
-| Freedom fighter | 12.00% | ~11 |
-| Titan Lord | 11.00% | ~10 |
-| King of the handymen | 11.00% | ~10 |
+| Freedom fighter | 11.00% | ~11 |
+| Titan Lord | 10.00% | ~10 |
+| King of the handymen | 10.00% | ~10 |
 | Terror of the hens | 8.00% | ~8 |
 | Expert | 8.00% | ~8 |
 | The traveler | 7.00% | ~7 |
@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 421)
 | Master of the classes | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 95 (Ranked 467)  
+Progressed: 96 (Ranked 465)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-15 | 81 | 0 |
 | 2023-12-16 | 87 | 0 |
 | 2023-12-17 | 91 | 0 |
-| 2023-12-18 | 95 | 0 |
+| 2023-12-18 | 96 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

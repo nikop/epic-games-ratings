@@ -15,7 +15,7 @@ Rating: 4.35 (Ranked 801)
 | Major Felix Hagen | 55.00% | ~252 |
 | Fine-toothed Comb | 54.00% | ~248 |
 | Florette Duval | 54.00% | ~248 |
-| Order and Method | 52.00% | ~239 |
+| Order and Method | 53.00% | ~243 |
 | The Altercation | 50.00% | ~230 |
 | Truth from Within | 49.00% | ~225 |
 | The Major | 47.00% | ~216 |
@@ -25,7 +25,7 @@ Rating: 4.35 (Ranked 801)
 | The Interrogations | 44.00% | ~202 |
 | Well-acquainted | 42.00% | ~193 |
 | Zakariya Demir | 41.00% | ~188 |
-| Well-read | 39.00% | ~179 |
+| Well-read | 40.00% | ~184 |
 | Cassandra Van den Bosch | 38.00% | ~174 |
 | The Secret | 37.00% | ~170 |
 | Gedeon Demir | 35.00% | ~161 |

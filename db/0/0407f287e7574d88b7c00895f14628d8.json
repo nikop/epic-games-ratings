@@ -2,7 +2,7 @@
   "ID": "0407f287e7574d88b7c00895f14628d8",
   "Name": "Settlement Survival",
   "ProductSlug": "settlement-survival-923f57",
-  "Ranking_EOS_Progress": 483,
+  "Ranking_EOS_Progress": 482,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 158,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 82,
+  "EOS_Progressed": 83,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -319,6 +319,11 @@
       "Time": "2023-12-18T18:06:17.706633+00:00",
       "NumProgressed": 82,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T19:05:15.6221112+00:00",
+      "NumProgressed": 83,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T07:05:28.2307151+00:00",
@@ -361,9 +366,9 @@
       "ID": "dl1",
       "SetID": "b1ggf28",
       "Name": "Clear Road",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "dl2",
@@ -409,9 +414,9 @@
       "ID": "fw1",
       "SetID": "b1ggf28",
       "Name": "City Center",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "fw2",
@@ -449,7 +454,7 @@
       "ID": "g3",
       "SetID": "b1ggf28",
       "Name": "Handcart",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 7
     },
@@ -641,9 +646,9 @@
       "ID": "w1",
       "SetID": "b1ggf28",
       "Name": "Against the Cold",
-      "Percentage": 56,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "w2",
@@ -738,14 +743,14 @@
     {
       "ID": "b1ggf28",
       "IsBase": true,
-      "Progressed": 82,
+      "Progressed": 83,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-18T18:06:17.7066328+00:00",
+  "LastChanged_Achievements": "2023-12-18T19:05:15.6221107+00:00",
   "LastUpdate_AppInfo": "2023-12-13T03:56:57.6568972+00:00",
-  "LastUpdate_Ratings": "2023-12-18T18:03:02.5056342+00:00",
-  "LastUpdate_Achievements": "2023-12-18T18:06:17.7066601+00:00"
+  "LastUpdate_Ratings": "2023-12-18T19:02:45.4502783+00:00",
+  "LastUpdate_Achievements": "2023-12-18T19:05:15.6221483+00:00"
 }

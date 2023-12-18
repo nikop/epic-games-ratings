@@ -14,6 +14,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | That Was Quick | 0.70% | ~1,689 |
 | Colorful Corpse | 0.70% | ~1,689 |
 | Defeat The Dark | 0.70% | ~1,689 |
+| A Donation | 0.70% | ~1,689 |
 | A Quick Escape | 0.70% | ~1,689 |
 | Explorer | 0.70% | ~1,689 |
 | An Offering | 0.70% | ~1,689 |
@@ -25,7 +26,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Heartless | 0.60% | ~1,448 |
 | What's Yours Is Mine | 0.60% | ~1,448 |
 | Spine Breaker | 0.60% | ~1,448 |
-| A Donation | 0.60% | ~1,448 |
 | C-C-Combo | 0.60% | ~1,448 |
 | Deflection | 0.60% | ~1,448 |
 | Sneaky | 0.60% | ~1,448 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,251 (Ranked 66)  
+Progressed: 241,253 (Ranked 66)  
 Completed: 299 (0.12%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -387,7 +387,7 @@ Completed: 299 (0.12%) (Ranked 292)
 | 2023-12-15 | 241,093 | 299 |
 | 2023-12-16 | 241,163 | 299 |
 | 2023-12-17 | 241,211 | 299 |
-| 2023-12-18 | 241,251 | 299 |
+| 2023-12-18 | 241,253 | 299 |
 ## Awards
 Max (Quickly Understood Controls): 1,511  (Ranked 134)  
 Sum: 11,743 (Ranked 87)  

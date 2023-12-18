@@ -6,18 +6,18 @@
 | ---- | ---------- | ----- |
 | In the Black | 58.00% | ~230 |
 | Starting Skyward | 52.00% | ~206 |
-| Grime is Not Good | 46.00% | ~182 |
-| Floor Galore | 41.00% | ~162 |
-| Dinner Dash | 41.00% | ~162 |
-| Campaign Launch | 40.00% | ~158 |
+| Grime is Not Good | 46.00% | ~183 |
+| Floor Galore | 41.00% | ~163 |
+| Dinner Dash | 41.00% | ~163 |
+| Campaign Launch | 40.00% | ~159 |
 | Need a Consult | 37.00% | ~147 |
 | It's Technical | 37.00% | ~147 |
 | Upgrade Unlock | 36.00% | ~143 |
 | Delegate Maintenance | 33.00% | ~131 |
-| Destination Destiny | 32.00% | ~127 |
 | Proper Walls | 31.00% | ~123 |
+| Destination Destiny | 31.00% | ~123 |
 | Happy Tenants | 26.00% | ~103 |
-| Potent Potables | 26.00% | ~103 |
+| Potent Potables | 25.00% | ~99 |
 | Smooth Service | 25.00% | ~99 |
 | Your Prestige is Rising | 24.00% | ~95 |
 | Retail Revenue | 24.00% | ~95 |
@@ -32,12 +32,12 @@
 | Established Fame | 18.00% | ~71 |
 | Tasty Profits | 18.00% | ~71 |
 | We Don't Need No Education | 18.00% | ~71 |
-| Under One Roof | 16.00% | ~63 |
-| Cashflow Chief | 16.00% | ~63 |
-| Starred Dining | 15.00% | ~59 |
-| Smooth Operator | 13.00% | ~51 |
-| Boutique Benefits | 13.00% | ~51 |
-| Thrilled Tenants | 13.00% | ~51 |
+| Under One Roof | 16.00% | ~64 |
+| Cashflow Chief | 16.00% | ~64 |
+| Starred Dining | 15.00% | ~60 |
+| Smooth Operator | 13.00% | ~52 |
+| Boutique Benefits | 13.00% | ~52 |
+| Thrilled Tenants | 13.00% | ~52 |
 | Terrifically Trashed | 12.00% | ~48 |
 | 28 Days Later | 11.00% | ~44 |
 | Swimming in Surplus | 11.00% | ~44 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 396 (Ranked 341)  
+Progressed: 397 (Ranked 341)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-15 | 372 | 0 |
 | 2023-12-16 | 385 | 0 |
 | 2023-12-17 | 392 | 0 |
-| 2023-12-18 | 396 | 0 |
+| 2023-12-18 | 397 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

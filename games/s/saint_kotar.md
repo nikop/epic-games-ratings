@@ -6,16 +6,16 @@
 | ---- | ---------- | ----- |
 | Finish the Tutorial | 74.00% | ~17 |
 | A Map for Benedek | 52.00% | ~12 |
-| A Map for Nikolay | 48.00% | ~11 |
-| The Wall of Laments | 39.00% | ~9 |
+| A Map for Nikolay | 52.00% | ~12 |
+| The Wall of Laments | 43.00% | ~10 |
 | Death Whistle | 39.00% | ~9 |
 | Burial Mound | 35.00% | ~8 |
 | Make the Prophet Your Ally | 30.00% | ~7 |
 | Become a Half-Child | 30.00% | ~7 |
+| The Dreaded Klek | 30.00% | ~7 |
 | Find the Road of Cadavers | 30.00% | ~7 |
 | A Catacomb | 30.00% | ~7 |
 | Put Kata out of Her Misery | 26.00% | ~6 |
-| The Dreaded Klek | 26.00% | ~6 |
 | Found Ulric's Portrait | 26.00% | ~6 |
 | Veil of Vera | 26.00% | ~6 |
 | The Crypt of Ivan Kotar | 26.00% | ~6 |

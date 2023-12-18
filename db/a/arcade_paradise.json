@@ -3,11 +3,11 @@
   "Name": "Arcade Paradise",
   "ProductSlug": "arcade-paradise",
   "Ranking_Rating": 455,
-  "Ranking_Popularity": 565,
-  "Ranking_PopularitySum": 565,
+  "Ranking_Popularity": 566,
+  "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -93,9 +93,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 714,
+  "EOS_Progressed": 715,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -768,6 +768,11 @@
       "Time": "2023-12-18T09:04:00.0327048+00:00",
       "NumProgressed": 714,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T19:03:55.6701545+00:00",
+      "NumProgressed": 715,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 54,
@@ -803,7 +808,7 @@
       "Name": "GOOOAAAL",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "3DigitGoalTrophy",
@@ -827,7 +832,7 @@
       "Name": "Fetch Quest Complete",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "AhoyTrophy",
@@ -899,7 +904,7 @@
       "Name": "Bug Fixer",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "DreadTrophy",
@@ -923,7 +928,7 @@
       "Name": "Pushing a pull door",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "Ext4Trophy",
@@ -1187,7 +1192,7 @@
       "Name": "Gerald of Riviera",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "YouthTrophy",
@@ -1210,7 +1215,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 714,
+      "Progressed": 715,
       "Completed": 0
     }
   ],
@@ -1218,8 +1223,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-10-15T06:02:18.0550602+00:00",
-  "LastChanged_Achievements": "2023-12-18T18:04:33.8221331+00:00",
+  "LastChanged_Achievements": "2023-12-18T19:03:55.6701541+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:28.3598294+00:00",
-  "LastUpdate_Ratings": "2023-12-18T17:59:31.8970566+00:00",
-  "LastUpdate_Achievements": "2023-12-18T18:04:33.8221851+00:00"
+  "LastUpdate_Ratings": "2023-12-18T18:59:06.3854727+00:00",
+  "LastUpdate_Achievements": "2023-12-18T19:03:55.670197+00:00"
 }

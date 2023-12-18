@@ -3,11 +3,11 @@
   "Name": "The Uncertain: Light at the End",
   "ProductSlug": "the-uncertain-light-at-the-end",
   "Ranking_Rating": 1048,
-  "Ranking_Popularity": 565,
-  "Ranking_PopularitySum": 565,
+  "Ranking_Popularity": 566,
+  "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 590,
+  "EOS_Progressed": 591,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -1028,6 +1028,11 @@
       "Time": "2023-12-18T15:05:47.0177165+00:00",
       "NumProgressed": 590,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-18T19:05:54.1076223+00:00",
+      "NumProgressed": 591,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1159,7 +1164,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "Leisurely_Strol",
@@ -1215,7 +1220,7 @@
       "Name": "A Familiar Face",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "Paparazzi",
@@ -1270,7 +1275,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 590,
+      "Progressed": 591,
       "Completed": 6
     }
   ],
@@ -1278,8 +1283,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-12-18T18:07:22.2216586+00:00",
+  "LastChanged_Achievements": "2023-12-18T19:05:54.1076218+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:57:02.9075222+00:00",
-  "LastUpdate_Ratings": "2023-12-18T18:03:35.8128276+00:00",
-  "LastUpdate_Achievements": "2023-12-18T18:07:22.2216738+00:00"
+  "LastUpdate_Ratings": "2023-12-18T19:03:10.7307645+00:00",
+  "LastUpdate_Achievements": "2023-12-18T19:05:54.1076437+00:00"
 }

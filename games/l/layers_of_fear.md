@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 81.00% | ~121 |
-| Wanderer | 61.00% | ~91 |
-| A piece of the story | 58.00% | ~86 |
+| Something important | 80.00% | ~120 |
+| Wanderer | 61.00% | ~92 |
+| A piece of the story | 58.00% | ~87 |
 | It's covered up for a reason | 46.00% | ~69 |
 | Scraps of love | 43.00% | ~64 |
-| Do what you have to | 42.00% | ~63 |
-| The artist’s impression | 42.00% | ~63 |
+| Do what you have to | 41.00% | ~61 |
+| The artist’s impression | 41.00% | ~61 |
 | Sign of weakness | 35.00% | ~52 |
-| Refuse to look | 33.00% | ~49 |
+| Refuse to look | 33.00% | ~50 |
 | Face your fears | 27.00% | ~40 |
-| Finished it | 26.00% | ~39 |
-| Whispers long forgotten | 13.00% | ~19 |
+| Finished it | 25.00% | ~38 |
+| Whispers long forgotten | 13.00% | ~20 |
 | Debut | 11.00% | ~16 |
 | Playtime | 11.00% | ~16 |
 | The art of movement | 11.00% | ~16 |
 | Tough conversation | 11.00% | ~16 |
 | A Slice of Life | 10.00% | ~15 |
 | The tragedy unfolds | 10.00% | ~15 |
-| A new way | 9.00% | ~13 |
-| First steps | 9.00% | ~13 |
-| Sound Bite | 9.00% | ~13 |
-| True Reflection | 9.00% | ~13 |
+| A new way | 9.00% | ~14 |
+| First steps | 9.00% | ~14 |
+| Sound Bite | 9.00% | ~14 |
+| True Reflection | 9.00% | ~14 |
 | Another perspective | 8.00% | ~12 |
 | Breaking free | 8.00% | ~12 |
 | Lights! Camera! Action! | 8.00% | ~12 |
-| Casting Finished | 7.00% | ~10 |
-| Heavy Burden | 7.00% | ~10 |
+| Casting Finished | 7.00% | ~11 |
+| Heavy Burden | 7.00% | ~11 |
 | Fisherman | 6.00% | ~9 |
-| We Are Not Alone | 5.00% | ~7 |
+| We Are Not Alone | 5.00% | ~8 |
 | The Perfect Storm | 4.00% | ~6 |
 | Something to think about | 3.00% | ~4 |
 | I remember It Like Was Yesterday | 3.00% | ~4 |
@@ -45,10 +45,10 @@
 | Immortalized in my heart | 2.00% | ~3 |
 | Full Scoop | 2.00% | ~3 |
 | Preferred Parent | 2.00% | ~3 |
-| The Big Picture | 1.00% | ~1 |
-| In One Take | 1.00% | ~1 |
-| Rocket Science | 1.00% | ~1 |
-| Sword of the Serpent | 1.00% | ~1 |
+| The Big Picture | 1.00% | ~2 |
+| In One Take | 1.00% | ~2 |
+| Rocket Science | 1.00% | ~2 |
+| Sword of the Serpent | 1.00% | ~2 |
 | You Can’t Handle the Truth | 0.70% | ~1 |
 | The Tree and the Apple | 0.70% | ~1 |
 | The whole story | 0.00% | ~0 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 149 (Ranked 421)  
+Progressed: 150 (Ranked 420)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,4 +113,4 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-15 | 125 | 0 |
 | 2023-12-16 | 133 | 0 |
 | 2023-12-17 | 145 | 0 |
-| 2023-12-18 | 149 | 0 |
+| 2023-12-18 | 150 | 0 |

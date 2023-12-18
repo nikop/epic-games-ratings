@@ -5,25 +5,25 @@ Rating: 4.08 (Ranked 988)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Who Needs Keys? | 50.00% | ~1,864 |
-| Totally Intentional | 45.00% | ~1,677 |
-| Each Sold Separately | 38.00% | ~1,416 |
-| We're In | 33.00% | ~1,230 |
-| Tale in the Toilet | 30.00% | ~1,118 |
-| You're Not Naked | 29.00% | ~1,081 |
-| From Zeroes... | 29.00% | ~1,081 |
-| Don't Get Cocky | 27.00% | ~1,006 |
+| Who Needs Keys? | 50.00% | ~1,865 |
+| Totally Intentional | 45.00% | ~1,678 |
+| Each Sold Separately | 38.00% | ~1,417 |
+| We're In | 33.00% | ~1,231 |
+| Tale in the Toilet | 30.00% | ~1,119 |
+| You're Not Naked | 29.00% | ~1,082 |
+| From Zeroes... | 29.00% | ~1,082 |
+| Don't Get Cocky | 27.00% | ~1,007 |
 | Shard Snatchers | 25.00% | ~932 |
-| You Rich Now! | 23.00% | ~857 |
+| You Rich Now! | 23.00% | ~858 |
 | Our Lucky Winner | 21.00% | ~783 |
 | You Poor Now! | 21.00% | ~783 |
-| The Shardmenstration | 20.00% | ~745 |
-| You Got the Goods, Kid | 20.00% | ~745 |
-| Those Were the Days... | 19.00% | ~708 |
+| The Shardmenstration | 20.00% | ~746 |
+| You Got the Goods, Kid | 20.00% | ~746 |
+| Those Were the Days... | 19.00% | ~709 |
 | ...To Heroes | 18.00% | ~671 |
 | Mas, Por Favor | 18.00% | ~671 |
-| And Still Champion... | 15.00% | ~559 |
-| Super Trusting Friend! | 9.00% | ~335 |
+| And Still Champion... | 15.00% | ~560 |
+| Super Trusting Friend! | 9.00% | ~336 |
 | Bring back the butt! | 4.00% | ~149 |
 | Hey, thanks! | 4.00% | ~149 |
 | Murderous Mascot Mayhem | 3.00% | ~112 |
@@ -32,7 +32,7 @@ Rating: 4.08 (Ranked 988)
 | Not Dolls. Action Figures! | 0.20% | ~7 |
 | You Played This Before? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,727 (Ranked 208)  
+Progressed: 3,730 (Ranked 208)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-14 | 3,713 | 0 |
 | 2023-12-15 | 3,717 | 0 |
 | 2023-12-17 | 3,726 | 0 |
-| 2023-12-18 | 3,727 | 0 |
+| 2023-12-18 | 3,730 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

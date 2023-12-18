@@ -3,8 +3,8 @@
   "Name": "Super Meat Boy Forever",
   "ProductSlug": "super-meat-boy-forever",
   "Ranking_Rating": 352,
-  "Ranking_Popularity": 565,
-  "Ranking_PopularitySum": 565,
+  "Ranking_Popularity": 566,
+  "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 809,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 548,
@@ -171,6 +171,6 @@
   "FirstSeenRating": "2022-09-02T12:31:23.1316509+00:00",
   "LastChanged": "2023-11-24T20:59:46.3136794+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:14.0516192+00:00",
-  "LastUpdate_Ratings": "2023-12-18T18:03:17.4364279+00:00",
-  "LastUpdate_Achievements": "2023-12-18T18:06:09.8577902+00:00"
+  "LastUpdate_Ratings": "2023-12-18T19:02:56.685038+00:00",
+  "LastUpdate_Achievements": "2023-12-18T19:05:09.474153+00:00"
 }

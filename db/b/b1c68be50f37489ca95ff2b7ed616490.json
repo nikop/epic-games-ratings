@@ -2,7 +2,7 @@
   "ID": "b1c68be50f37489ca95ff2b7ed616490",
   "Name": "Agatha Christie - Murder on the Orient Express",
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
-  "Ranking_EOS_Progress": 439,
+  "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 158,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 125,
+  "EOS_Progressed": 126,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -569,6 +569,11 @@
       "Time": "2023-12-18T18:04:48.7639381+00:00",
       "NumProgressed": 125,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T19:04:06.7384381+00:00",
+      "NumProgressed": 126,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -579,7 +584,7 @@
       "ID": "1",
       "SetID": "6bgoh8g",
       "Name": "A mystery? No! A trifle for Poirot!",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 20,
       "UsersEstimate": 72
     },
@@ -613,7 +618,7 @@
       "Name": "A leap of faith to be sure!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "14",
@@ -621,7 +626,7 @@
       "Name": "End of the line, everyone disembark",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "15",
@@ -701,7 +706,7 @@
       "Name": "He is the doctor you\u0027re looking for",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "24",
@@ -796,14 +801,14 @@
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 125,
+      "Progressed": 126,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-12-18T18:04:48.7639378+00:00",
+  "LastChanged_Achievements": "2023-12-18T19:04:06.7384376+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:22.4243212+00:00",
-  "LastUpdate_Ratings": "2023-12-18T18:03:16.9738793+00:00",
-  "LastUpdate_Achievements": "2023-12-18T18:04:48.7639552+00:00"
+  "LastUpdate_Ratings": "2023-12-18T19:02:56.4021717+00:00",
+  "LastUpdate_Achievements": "2023-12-18T19:04:06.7384576+00:00"
 }

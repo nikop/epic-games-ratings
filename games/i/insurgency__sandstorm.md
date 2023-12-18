@@ -1,19 +1,19 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.61 (Ranked 392)  
+Rating: 4.61 (Ranked 393)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~25,229 |
-| Exploitative | 4.00% | ~20,183 |
-| Point Shooting | 4.00% | ~20,183 |
-| Wet Feet | 4.00% | ~20,183 |
-| High Speed Low Drag | 3.00% | ~15,137 |
-| Lucky | 3.00% | ~15,137 |
-| Stylin' | 3.00% | ~15,137 |
-| Turf War | 3.00% | ~15,137 |
+| Wallbanger | 5.00% | ~25,231 |
+| Exploitative | 4.00% | ~20,185 |
+| Point Shooting | 4.00% | ~20,185 |
+| Wet Feet | 4.00% | ~20,185 |
+| High Speed Low Drag | 3.00% | ~15,139 |
+| Lucky | 3.00% | ~15,139 |
+| Stylin' | 3.00% | ~15,139 |
+| Turf War | 3.00% | ~15,139 |
 | Banged | 2.00% | ~10,092 |
 | Checkpoint Victory | 2.00% | ~10,092 |
 | First Blood | 2.00% | ~10,092 |
@@ -23,15 +23,15 @@ Number of Ratings: 1,316  (23.09.2022)
 | Blindfire | 1.00% | ~5,046 |
 | Ruthless | 1.00% | ~5,046 |
 | Semper Paratus | 1.00% | ~5,046 |
-| Carrying | 0.90% | ~4,541 |
-| Efficient | 0.90% | ~4,541 |
-| Mount & Gun | 0.90% | ~4,541 |
-| Personal | 0.90% | ~4,541 |
+| Carrying | 0.90% | ~4,542 |
+| Efficient | 0.90% | ~4,542 |
+| Mount & Gun | 0.90% | ~4,542 |
+| Personal | 0.90% | ~4,542 |
 | Grounded | 0.80% | ~4,037 |
 | Play to Win | 0.80% | ~4,037 |
 | Special Delivery | 0.70% | ~3,532 |
-| Firefight Victory | 0.60% | ~3,027 |
-| #1 | 0.60% | ~3,027 |
+| Firefight Victory | 0.60% | ~3,028 |
+| #1 | 0.60% | ~3,028 |
 | Cinematic | 0.50% | ~2,523 |
 | Thanks Station! | 0.40% | ~2,018 |
 | Knock Knock | 0.30% | ~1,514 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~505 |
 | Road Hazard | 0.10% | ~505 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 504,579 (Ranked 37)  
+Progressed: 504,624 (Ranked 37)  
 Completed: 2 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 2 (0.00%) (Ranked 383)
 | 2023-12-15 | 501,850 | 2 |
 | 2023-12-16 | 502,965 | 2 |
 | 2023-12-17 | 503,977 | 2 |
-| 2023-12-18 | 504,579 | 2 |
+| 2023-12-18 | 504,624 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 407  (Ranked 234)  
 Sum: 3,249 (Ranked 176)  

@@ -3,8 +3,8 @@
   "Name": "Railway Empire 2",
   "ProductSlug": "railway-empire-2-46840c",
   "Ranking_Rating": 721,
-  "Ranking_Popularity": 565,
-  "Ranking_PopularitySum": 565,
+  "Ranking_Popularity": 566,
+  "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 234,
@@ -6933,9 +6933,9 @@
       "ID": "A00",
       "SetID": "9b7p7eo",
       "Name": "Apprentice",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1001
+      "UsersEstimate": 1025
     },
     {
       "ID": "A01",
@@ -7261,9 +7261,9 @@
       "ID": "A41",
       "SetID": "9b7p7eo",
       "Name": "Right through the middle",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1440
     },
     {
       "ID": "A42",
@@ -7382,8 +7382,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-12-07T22:58:14.7831098+00:00",
-  "LastChanged_Achievements": "2023-12-18T18:08:23.6525586+00:00",
+  "LastChanged_Achievements": "2023-12-18T19:06:27.9377122+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:12.4572163+00:00",
-  "LastUpdate_Ratings": "2023-12-18T18:02:31.3757818+00:00",
-  "LastUpdate_Achievements": "2023-12-18T18:08:23.6526118+00:00"
+  "LastUpdate_Ratings": "2023-12-18T19:00:32.1380547+00:00",
+  "LastUpdate_Achievements": "2023-12-18T19:06:27.9377829+00:00"
 }

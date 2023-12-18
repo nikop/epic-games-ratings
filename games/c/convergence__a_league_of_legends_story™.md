@@ -26,10 +26,10 @@ Rating: 4.64 (Ranked 339)
 | The Betrayer | 20.00% | ~206 |
 | Golem Chaser | 20.00% | ~206 |
 | Check Your Pulse | 19.00% | ~195 |
+| The Man Who Shattered Time | 18.00% | ~185 |
 | The Loose Cannon | 18.00% | ~185 |
 | The Family Fortune | 18.00% | ~185 |
 | Street Style | 17.00% | ~175 |
-| The Man Who Shattered Time | 17.00% | ~175 |
 | Treasure Trove | 14.00% | ~144 |
 | Whiz Kid | 14.00% | ~144 |
 | Cartographer | 14.00% | ~144 |
@@ -47,8 +47,8 @@ Rating: 4.64 (Ranked 339)
 | Sartorialist | 8.00% | ~82 |
 | Entresol Explorer | 8.00% | ~82 |
 | Golem Hunter | 7.00% | ~72 |
+| Clovemary for Remembering | 6.00% | ~62 |
 | Hexlock for Protection | 6.00% | ~62 |
-| Clovemary for Remembering | 5.00% | ~51 |
 | Rungs Was Right | 5.00% | ~51 |
 | Wunderkind | 2.00% | ~21 |
 | Fitting In | 2.00% | ~21 |

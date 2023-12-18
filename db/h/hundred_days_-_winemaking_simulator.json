@@ -1075,9 +1075,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 16499,
+  "EOS_Progressed": 16501,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 883,
+  "EOS_NewPlayers": 881,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -14055,6 +14055,11 @@
       "Time": "2023-12-18T18:10:01.7741595+00:00",
       "NumProgressed": 16499,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-18T19:09:12.902678+00:00",
+      "NumProgressed": 16501,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -14235,7 +14240,7 @@
       "Name": "Big deals",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "a_34",
@@ -14243,7 +14248,7 @@
       "Name": "Master Winemaker",
       "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "a_35",
@@ -14259,7 +14264,7 @@
       "Name": "Unsuitable Terroir",
       "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "a_4",
@@ -14275,7 +14280,7 @@
       "Name": "Treasure of Roero",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "a_6",
@@ -14291,7 +14296,7 @@
       "Name": "Knight of Langhe",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "a_8",
@@ -14314,7 +14319,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 16499,
+      "Progressed": 16501,
       "Completed": 12
     }
   ],
@@ -14322,8 +14327,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-27T12:03:17.4706024+00:00",
-  "LastChanged_Achievements": "2023-12-18T18:10:01.7741593+00:00",
+  "LastChanged_Achievements": "2023-12-18T19:09:12.9026775+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:03.7853176+00:00",
-  "LastUpdate_Ratings": "2023-12-18T17:58:23.5014583+00:00",
-  "LastUpdate_Achievements": "2023-12-18T18:10:01.7742353+00:00"
+  "LastUpdate_Ratings": "2023-12-18T18:58:14.9864306+00:00",
+  "LastUpdate_Achievements": "2023-12-18T19:09:12.9027573+00:00"
 }

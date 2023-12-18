@@ -9,8 +9,8 @@ Rating: 4.33 (Ranked 826)
 | Fall Fest | 8.00% | ~4,665 |
 | Thrill Seeker | 7.00% | ~4,082 |
 | HFZ Goober | 6.00% | ~3,499 |
-| Flying Present Catcher | 5.00% | ~2,915 |
-| Sunflower Master | 5.00% | ~2,915 |
+| Flying Present Catcher | 5.00% | ~2,916 |
+| Sunflower Master | 5.00% | ~2,916 |
 | Hi Fiver | 3.00% | ~1,749 |
 | A Timely Splash | 3.00% | ~1,749 |
 | Backer Visitor | 2.00% | ~1,166 |
@@ -55,7 +55,7 @@ Rating: 4.33 (Ranked 826)
 | Why Do I Keep Doing That? | 0.10% | ~58 |
 | Hey, You Did It! | 0.10% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,309 (Ranked 111)  
+Progressed: 58,311 (Ranked 111)  
 Completed: 6 (0.01%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 6 (0.01%) (Ranked 359)
 | 2023-12-15 | 58,252 | 6 |
 | 2023-12-16 | 58,281 | 6 |
 | 2023-12-17 | 58,299 | 6 |
-| 2023-12-18 | 58,309 | 6 |
+| 2023-12-18 | 58,311 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

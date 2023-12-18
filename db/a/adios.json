@@ -3,12 +3,12 @@
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
   "Ranking_Rating": 1063,
-  "Ranking_Popularity": 565,
-  "Ranking_PopularitySum": 565,
+  "Ranking_Popularity": 566,
+  "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -123,9 +123,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 80956,
+  "EOS_Progressed": 80960,
   "EOS_Completed": 886,
-  "EOS_NewPlayers": 598,
+  "EOS_NewPlayers": 595,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.09,
   "EosHistory": [
@@ -27103,6 +27103,11 @@
       "Time": "2023-12-18T18:06:12.2185067+00:00",
       "NumProgressed": 80956,
       "NumCompleted": 886
+    },
+    {
+      "Time": "2023-12-18T19:05:11.508162+00:00",
+      "NumProgressed": 80960,
+      "NumCompleted": 886
     }
   ],
   "TotalAchievements": 25,
@@ -27146,7 +27151,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 17810
+      "UsersEstimate": 17811
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -27154,7 +27159,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 14572
+      "UsersEstimate": 14573
     },
     {
       "ID": "Butcher",
@@ -27170,7 +27175,7 @@
       "Name": "Cut Call",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 4857
+      "UsersEstimate": 4858
     },
     {
       "ID": "Fair\u0027sFair",
@@ -27186,7 +27191,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 16191
+      "UsersEstimate": 16192
     },
     {
       "ID": "Hearty",
@@ -27218,7 +27223,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 17001
+      "UsersEstimate": 17002
     },
     {
       "ID": "Meaty",
@@ -27242,7 +27247,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 12953
+      "UsersEstimate": 12954
     },
     {
       "ID": "Nothing Left to Say",
@@ -27258,7 +27263,7 @@
       "Name": "Piano Man",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 8905
+      "UsersEstimate": 8906
     },
     {
       "ID": "Right On Target",
@@ -27306,14 +27311,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6476
+      "UsersEstimate": 6477
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 80956,
+      "Progressed": 80960,
       "Completed": 886
     }
   ],
@@ -27321,8 +27326,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-11-28T02:22:55.8136009+00:00",
-  "LastChanged_Achievements": "2023-12-18T18:06:12.2185064+00:00",
+  "LastChanged_Achievements": "2023-12-18T19:05:11.5081615+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:36.6719063+00:00",
-  "LastUpdate_Ratings": "2023-12-18T17:59:53.997203+00:00",
-  "LastUpdate_Achievements": "2023-12-18T18:06:12.2186476+00:00"
+  "LastUpdate_Ratings": "2023-12-18T18:59:21.6546337+00:00",
+  "LastUpdate_Achievements": "2023-12-18T19:05:11.5082909+00:00"
 }

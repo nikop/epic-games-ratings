@@ -16,12 +16,12 @@ Rating: 4.42 (Ranked 721)
 | Travel Company | 66.00% | ~1,611 |
 | Mind the Gap | 65.00% | ~1,587 |
 | All around the World | 63.00% | ~1,538 |
-| Right through the middle | 58.00% | ~1,416 |
+| Right through the middle | 59.00% | ~1,440 |
 | Facility Manager | 54.00% | ~1,318 |
 | Poor Devil | 54.00% | ~1,318 |
 | Producer | 51.00% | ~1,245 |
+| Apprentice | 42.00% | ~1,025 |
 | Bridge Builder | 42.00% | ~1,025 |
-| Apprentice | 41.00% | ~1,001 |
 | Access granted | 35.00% | ~854 |
 | Going once, going twice, sold | 35.00% | ~854 |
 | Bull and bear | 34.00% | ~830 |

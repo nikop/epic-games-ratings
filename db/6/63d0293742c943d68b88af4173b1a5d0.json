@@ -4,7 +4,7 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
@@ -1532,9 +1532,9 @@
       "ID": "Remake_006",
       "SetID": "5pi96jj",
       "Name": "Attempted Vehicular Infanticide",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 46
     },
     {
       "ID": "Remake_007",
@@ -1675,8 +1675,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-18T18:06:08.2857475+00:00",
+  "LastChanged_Achievements": "2023-12-18T19:05:08.371716+00:00",
   "LastUpdate_AppInfo": "2023-12-11T23:56:59.5421023+00:00",
-  "LastUpdate_Ratings": "2023-12-18T17:57:45.7451043+00:00",
-  "LastUpdate_Achievements": "2023-12-18T18:06:08.28577+00:00"
+  "LastUpdate_Ratings": "2023-12-18T18:57:47.8548467+00:00",
+  "LastUpdate_Achievements": "2023-12-18T19:05:08.371736+00:00"
 }

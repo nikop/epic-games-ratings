@@ -3,11 +3,11 @@
   "Name": "Risen",
   "ProductSlug": "risen-e8e55e",
   "Ranking_Rating": 421,
-  "Ranking_Popularity": 565,
-  "Ranking_PopularitySum": 565,
-  "Ranking_EOS_Progress": 467,
+  "Ranking_Popularity": 566,
+  "Ranking_PopularitySum": 566,
+  "Ranking_EOS_Progress": 465,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
@@ -71,9 +71,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 95,
+  "EOS_Progressed": 96,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -526,6 +526,11 @@
       "Time": "2023-12-18T17:09:31.67541+00:00",
       "NumProgressed": 95,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T19:09:33.9005628+00:00",
+      "NumProgressed": 96,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T08:07:32.4989951+00:00",
@@ -584,7 +589,7 @@
       "ID": "id_17",
       "SetID": "bk9jib6",
       "Name": "Freedom fighter",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
       "UsersEstimate": 11
     },
@@ -648,7 +653,7 @@
       "ID": "id_26",
       "SetID": "bk9jib6",
       "Name": "Titan Lord",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 50,
       "UsersEstimate": 10
     },
@@ -666,7 +671,7 @@
       "Name": "Beginner",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "id_32",
@@ -744,9 +749,9 @@
       "ID": "id_45",
       "SetID": "bk9jib6",
       "Name": "Workaholic",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "id_46",
@@ -880,15 +885,15 @@
       "ID": "id_60",
       "SetID": "bk9jib6",
       "Name": "Adventurer",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "id_61",
       "SetID": "bk9jib6",
       "Name": "Map reader",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 10,
       "UsersEstimate": 70
     },
@@ -896,7 +901,7 @@
       "ID": "id_62",
       "SetID": "bk9jib6",
       "Name": "Archer",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 48
     },
@@ -904,7 +909,7 @@
       "ID": "id_63",
       "SetID": "bk9jib6",
       "Name": "King of the handymen",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -937,7 +942,7 @@
     {
       "ID": "bk9jib6",
       "IsBase": true,
-      "Progressed": 95,
+      "Progressed": 96,
       "Completed": 0
     }
   ],
@@ -945,8 +950,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-12-15T05:01:07.5728894+00:00",
-  "LastChanged_Achievements": "2023-12-18T18:10:28.6510878+00:00",
+  "LastChanged_Achievements": "2023-12-18T19:09:33.9005622+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:12.9761539+00:00",
-  "LastUpdate_Ratings": "2023-12-18T17:58:11.3822043+00:00",
-  "LastUpdate_Achievements": "2023-12-18T18:10:28.6511256+00:00"
+  "LastUpdate_Ratings": "2023-12-18T18:58:06.0998177+00:00",
+  "LastUpdate_Achievements": "2023-12-18T19:09:33.9006002+00:00"
 }

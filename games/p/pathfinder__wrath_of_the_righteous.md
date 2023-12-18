@@ -9,7 +9,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Devoured by Darkness | 27.00% | ~3,371 |
 | A Spark | 19.00% | ~2,372 |
 | Burning City | 18.00% | ~2,247 |
-| Defender's Heart | 16.00% | ~1,997 |
+| Defender's Heart | 16.00% | ~1,998 |
 | Mythic Choices | 15.00% | ~1,873 |
 | Banner over the Citadel | 14.00% | ~1,748 |
 | Queen's Gratitude | 12.00% | ~1,498 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,484 (Ranked 167)  
+Progressed: 12,485 (Ranked 167)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -365,7 +365,7 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-15 | 12,356 | 0 |
 | 2023-12-16 | 12,405 | 0 |
 | 2023-12-17 | 12,459 | 0 |
-| 2023-12-18 | 12,484 | 0 |
+| 2023-12-18 | 12,485 | 0 |
 ## Awards
 Max (Character Customization): 1,763  (Ranked 124)  
 Sum: 7,150 (Ranked 123)  

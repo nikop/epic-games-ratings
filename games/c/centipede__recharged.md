@@ -1,7 +1,7 @@
 # Centipede: Recharged
 [Store](https://store.epicgames.com/en-US/p/centipede-recharged)  
 [View Rawdata](../../db/c/centipede__recharged.json)  
-Rating: 4.31 (Ranked 841)  
+Rating: 4.31 (Ranked 840)  
 Number of Ratings: 76  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -23,7 +23,7 @@ Number of Ratings: 76  (23.09.2022)
 | Shadow Warrior | 2.00% | ~472 |
 | Mirrors | 0.80% | ~189 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,600 (Ranked 142)  
+Progressed: 23,601 (Ranked 142)  
 Completed: 117 (0.50%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,7 +265,7 @@ Completed: 117 (0.50%) (Ranked 213)
 | 2023-12-15 | 23,444 | 117 |
 | 2023-12-16 | 23,523 | 117 |
 | 2023-12-17 | 23,571 | 117 |
-| 2023-12-18 | 23,600 | 117 |
+| 2023-12-18 | 23,601 | 117 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

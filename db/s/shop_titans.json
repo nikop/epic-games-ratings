@@ -7633,9 +7633,9 @@
       "Count": 3800
     }
   ],
-  "EOS_Progressed": 146233,
+  "EOS_Progressed": 146241,
   "EOS_Completed": 322,
-  "EOS_NewPlayers": 1495,
+  "EOS_NewPlayers": 1498,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -32973,6 +32973,11 @@
       "Time": "2023-12-18T18:07:22.3965461+00:00",
       "NumProgressed": 146233,
       "NumCompleted": 322
+    },
+    {
+      "Time": "2023-12-18T19:05:54.3546686+00:00",
+      "NumProgressed": 146241,
+      "NumCompleted": 322
     }
   ],
   "TotalAchievements": 112,
@@ -32984,7 +32989,7 @@
       "Name": "The Daily Grind",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5849
+      "UsersEstimate": 5850
     },
     {
       "ID": "advlevel02",
@@ -33064,7 +33069,7 @@
       "Name": "One Easy Payment",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5849
+      "UsersEstimate": 5850
     },
     {
       "ID": "bigsale02",
@@ -33088,7 +33093,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5849
+      "UsersEstimate": 5850
     },
     {
       "ID": "blueprint02",
@@ -33456,7 +33461,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10236
+      "UsersEstimate": 10237
     },
     {
       "ID": "gold02",
@@ -33464,7 +33469,7 @@
       "Name": "Pretty Penny",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5849
+      "UsersEstimate": 5850
     },
     {
       "ID": "gold03",
@@ -33536,7 +33541,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5849
+      "UsersEstimate": 5850
     },
     {
       "ID": "jackslot02",
@@ -33640,7 +33645,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5849
+      "UsersEstimate": 5850
     },
     {
       "ID": "master02",
@@ -33782,9 +33787,9 @@
       "ID": "sia_a",
       "SetID": "anfd17p",
       "Name": "King\u0027s Shadow",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1462
+      "UsersEstimate": 2925
     },
     {
       "ID": "transmuter",
@@ -33879,15 +33884,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 146233,
+      "Progressed": 146241,
       "Completed": 322
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-18T10:03:30.0691808+00:00",
-  "LastChanged_Achievements": "2023-12-18T18:07:22.3965459+00:00",
+  "LastChanged_Achievements": "2023-12-18T19:05:54.354668+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.001195+00:00",
-  "LastUpdate_Ratings": "2023-12-18T18:03:24.2828865+00:00",
-  "LastUpdate_Achievements": "2023-12-18T18:07:22.396749+00:00"
+  "LastUpdate_Ratings": "2023-12-18T19:03:01.7225548+00:00",
+  "LastUpdate_Achievements": "2023-12-18T19:05:54.354863+00:00"
 }

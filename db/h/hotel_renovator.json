@@ -3,9 +3,9 @@
   "Name": "Hotel Renovator",
   "ProductSlug": "hotel-renovator",
   "Ranking_Rating": 826,
-  "Ranking_Popularity": 565,
-  "Ranking_PopularitySum": 565,
-  "Ranking_EOS_Progress": 260,
+  "Ranking_Popularity": 566,
+  "Ranking_PopularitySum": 566,
+  "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 147,
   "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 158,
@@ -227,9 +227,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1224,
+  "EOS_Progressed": 1225,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.47,
   "EosHistory": [
@@ -2682,6 +2682,11 @@
       "Time": "2023-12-18T15:04:14.3368649+00:00",
       "NumProgressed": 1224,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-18T19:04:21.2293959+00:00",
+      "NumProgressed": 1225,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 27,
@@ -2717,7 +2722,7 @@
       "Name": "Roll with it",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -2725,7 +2730,7 @@
       "Name": "Kaboom",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACH_ELEVATOR_FIXED",
@@ -2741,7 +2746,7 @@
       "Name": "Love is in the air",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "ACH_ENGAGEMENT_RING",
@@ -2757,7 +2762,7 @@
       "Name": "No need to call anyone",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "ACH_GLORY_AND_SPLENDOR_FINISHED",
@@ -2789,7 +2794,7 @@
       "Name": "No pressure",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -2797,7 +2802,7 @@
       "Name": "And so it begins",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -2821,7 +2826,7 @@
       "Name": "Island boy",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ACH_POWER_OUTRAGE_FIXED",
@@ -2845,7 +2850,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "ACH_STAR_2",
@@ -2861,7 +2866,7 @@
       "Name": "Still more work ahead",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "ACH_STAR_4",
@@ -2901,14 +2906,14 @@
       "Name": "I think you dropped this",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     }
   ],
   "AchievementSets": [
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1224,
+      "Progressed": 1225,
       "Completed": 18
     }
   ],
@@ -2916,8 +2921,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-12-17T01:52:20.9654056+00:00",
-  "LastChanged_Achievements": "2023-12-18T18:05:08.0714471+00:00",
+  "LastChanged_Achievements": "2023-12-18T19:04:21.2293955+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:13.8800884+00:00",
-  "LastUpdate_Ratings": "2023-12-18T18:01:21.5595089+00:00",
-  "LastUpdate_Achievements": "2023-12-18T18:05:08.0714665+00:00"
+  "LastUpdate_Ratings": "2023-12-18T19:00:25.7622347+00:00",
+  "LastUpdate_Achievements": "2023-12-18T19:04:21.229423+00:00"
 }

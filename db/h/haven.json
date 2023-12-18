@@ -3,8 +3,8 @@
   "Name": "Haven",
   "ProductSlug": "haven",
   "Ranking_Rating": 150,
-  "Ranking_Popularity": 565,
-  "Ranking_PopularitySum": 565,
+  "Ranking_Popularity": 566,
+  "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 217,
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1660,
+  "EOS_Progressed": 1661,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -2573,6 +2573,11 @@
       "Time": "2023-12-18T18:04:45.7846531+00:00",
       "NumProgressed": 1660,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-18T19:04:04.4197866+00:00",
+      "NumProgressed": 1661,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -2584,7 +2589,7 @@
       "Name": "Lovebirds",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "10",
@@ -2640,7 +2645,7 @@
       "Name": "My little pony",
       "Percentage": 19,
       "XP": 70,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "17",
@@ -2656,7 +2661,7 @@
       "Name": "Like new!",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "19",
@@ -2792,7 +2797,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "7",
@@ -2823,15 +2828,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1660,
+      "Progressed": 1661,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-18T18:04:45.7846527+00:00",
+  "LastChanged_Achievements": "2023-12-18T19:04:04.4197862+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.3116727+00:00",
-  "LastUpdate_Ratings": "2023-12-18T17:58:36.438827+00:00",
-  "LastUpdate_Achievements": "2023-12-18T18:04:45.7846811+00:00"
+  "LastUpdate_Ratings": "2023-12-18T18:58:23.5749939+00:00",
+  "LastUpdate_Achievements": "2023-12-18T19:04:04.4198688+00:00"
 }

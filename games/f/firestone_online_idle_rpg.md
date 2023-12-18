@@ -5,39 +5,39 @@ Rating: 4.04 (Ranked 1,007)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,281 |
-| World Map | 78.00% | ~2,752 |
-| Temple of Eternals | 56.00% | ~1,976 |
-| Prestigious | 53.00% | ~1,870 |
-| Fellowship Power | 42.00% | ~1,482 |
-| Full Party | 24.00% | ~847 |
-| Guild Power | 23.00% | ~811 |
-| Prestigious x10 | 21.00% | ~741 |
-| The game is on | 18.00% | ~635 |
-| Dragon Clicker | 16.00% | ~564 |
-| Exotic Merchant | 16.00% | ~564 |
-| Miner Clicker | 15.00% | ~529 |
-| Hero inspection | 14.00% | ~494 |
-| Inspection | 14.00% | ~494 |
+| Victor | 93.00% | ~3,286 |
+| World Map | 78.00% | ~2,756 |
+| Temple of Eternals | 56.00% | ~1,978 |
+| Prestigious | 53.00% | ~1,872 |
+| Fellowship Power | 42.00% | ~1,484 |
+| Full Party | 24.00% | ~848 |
+| Guild Power | 23.00% | ~813 |
+| Prestigious x10 | 21.00% | ~742 |
+| The game is on | 18.00% | ~636 |
+| Dragon Clicker | 16.00% | ~565 |
+| Exotic Merchant | 16.00% | ~565 |
+| Miner Clicker | 15.00% | ~530 |
+| Hero inspection | 14.00% | ~495 |
+| Inspection | 14.00% | ~495 |
 | Dragon Master | 13.00% | ~459 |
 | Enlightenment | 13.00% | ~459 |
 | Lieutenant | 13.00% | ~459 |
-| Milestone collector | 11.00% | ~388 |
-| Mysterious Rock | 11.00% | ~388 |
-| Natural Talent | 11.00% | ~388 |
-| Superior | 11.00% | ~388 |
-| The Unstoppable | 11.00% | ~388 |
+| Milestone collector | 11.00% | ~389 |
+| Mysterious Rock | 11.00% | ~389 |
+| Natural Talent | 11.00% | ~389 |
+| Superior | 11.00% | ~389 |
+| The Unstoppable | 11.00% | ~389 |
 | Scientist | 10.00% | ~353 |
 | Challenger | 9.00% | ~318 |
 | Daily Quest Completionist | 9.00% | ~318 |
 | Doing My Part | 9.00% | ~318 |
 | Hunter | 9.00% | ~318 |
 | The power of Awakening | 9.00% | ~318 |
-| Frostfire Liberator | 8.00% | ~282 |
-| Mastery | 8.00% | ~282 |
-| Moving Up The Ladder | 8.00% | ~282 |
-| Relic Of The Past | 8.00% | ~282 |
-| Scroll Master | 8.00% | ~282 |
+| Frostfire Liberator | 8.00% | ~283 |
+| Mastery | 8.00% | ~283 |
+| Moving Up The Ladder | 8.00% | ~283 |
+| Relic Of The Past | 8.00% | ~283 |
+| Scroll Master | 8.00% | ~283 |
 | Four Leaf Clover | 7.00% | ~247 |
 | Here We Go Again | 7.00% | ~247 |
 | Master Enchanter | 7.00% | ~247 |
@@ -47,15 +47,15 @@ Rating: 4.04 (Ranked 1,007)
 | Dragon Slayer | 6.00% | ~212 |
 | The Expeditioner | 6.00% | ~212 |
 | Weekly Quest Completionist | 6.00% | ~212 |
-| Ancient Knowledge | 5.00% | ~176 |
-| Blueprint Upgrades | 5.00% | ~176 |
-| Enchanting skill | 5.00% | ~176 |
-| Engineer Mastery | 5.00% | ~176 |
-| How Do You Turn This On? | 5.00% | ~176 |
-| Lock And Load | 5.00% | ~176 |
-| Missions Dedication | 5.00% | ~176 |
-| Sailor | 5.00% | ~176 |
-| The Alchemist | 5.00% | ~176 |
+| Ancient Knowledge | 5.00% | ~177 |
+| Blueprint Upgrades | 5.00% | ~177 |
+| Enchanting skill | 5.00% | ~177 |
+| Engineer Mastery | 5.00% | ~177 |
+| How Do You Turn This On? | 5.00% | ~177 |
+| Lock And Load | 5.00% | ~177 |
+| Missions Dedication | 5.00% | ~177 |
+| Sailor | 5.00% | ~177 |
+| The Alchemist | 5.00% | ~177 |
 | Active Member | 4.00% | ~141 |
 | Arena Challenger | 4.00% | ~141 |
 | Background Story | 4.00% | ~141 |
@@ -74,14 +74,14 @@ Rating: 4.04 (Ranked 1,007)
 | Transmute | 1.00% | ~35 |
 | Tree of Life | 1.00% | ~35 |
 | Angel Power | 0.90% | ~32 |
-| Training makes a Pro player | 0.90% | ~32 |
 | Silverwood liberator | 0.80% | ~28 |
+| Training makes a Pro player | 0.80% | ~28 |
 | Beast War Machines | 0.70% | ~25 |
 | Ultimate War Machines | 0.60% | ~21 |
 | Jewel Enchanting | 0.20% | ~7 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,528 (Ranked 212)  
+Progressed: 3,533 (Ranked 212)  
 Completed: 2 (0.06%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 2 (0.06%) (Ranked 324)
 | 2023-12-15 | 3,437 | 2 |
 | 2023-12-16 | 3,473 | 2 |
 | 2023-12-17 | 3,503 | 2 |
-| 2023-12-18 | 3,528 | 2 |
+| 2023-12-18 | 3,533 | 2 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 471)  
 Sum: 145 (Ranked 432)  
