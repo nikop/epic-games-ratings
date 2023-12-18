@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 332,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -795,9 +795,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3449,
+  "EOS_Progressed": 3451,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4410,6 +4410,11 @@
       "Time": "2023-12-17T23:05:46.3013552+00:00",
       "NumProgressed": 3449,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T00:04:36.0882508+00:00",
+      "NumProgressed": 3451,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4437,7 +4442,7 @@
       "Name": "Look Over There!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "BloodAndIron",
@@ -4533,7 +4538,7 @@
       "Name": "Fleetmaster",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ForTheMachineGod",
@@ -4589,7 +4594,7 @@
       "Name": "Not So Fast...",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "Kills_Bleed",
@@ -4621,7 +4626,7 @@
       "Name": "Exterminator",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "Kills_FriendlyFire",
@@ -4645,7 +4650,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "Kills_Streak",
@@ -4653,7 +4658,7 @@
       "Name": "Purging Spree",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "Kills_Vakir",
@@ -4669,7 +4674,7 @@
       "Name": "An Ill Omen",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -4677,7 +4682,7 @@
       "Name": "Mind Like a Fortress",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "MasterCraftLevel3_Armour",
@@ -4693,7 +4698,7 @@
       "Name": "Nemesis Master",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "MasterCraftLevel3_Ranged",
@@ -4701,7 +4706,7 @@
       "Name": "Gunmaster",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "MasterOfTheForge",
@@ -4781,7 +4786,7 @@
       "Name": "Just a Scratch",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "NexusCompleted",
@@ -4805,7 +4810,7 @@
       "Name": "Only in Death",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "Preservationist",
@@ -4813,7 +4818,7 @@
       "Name": "Preservationist",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ReaperDefeated_Dolorus",
@@ -4837,7 +4842,7 @@
       "Name": "Junk Banishment",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ReaperDefeated_Poxus",
@@ -4861,7 +4866,7 @@
       "Name": "Long Distance Call",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "SkilledKnight",
@@ -4885,7 +4890,7 @@
       "Name": "Tactical Flexibility",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "AllAssassinsAcquired",
@@ -4893,7 +4898,7 @@
       "Name": "Execution Force",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ExperiencedCallidus",
@@ -4949,7 +4954,7 @@
       "Name": "Tactical Sabotage",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "TentarusHive_Destroyed",
@@ -4964,21 +4969,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3449,
+      "Progressed": 3451,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3449,
+      "Progressed": 3451,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-16T13:05:46.2808+00:00",
-  "LastChanged_Achievements": "2023-12-17T23:05:46.3013548+00:00",
+  "LastChanged_Achievements": "2023-12-18T00:04:36.0882506+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:54.7152084+00:00",
-  "LastUpdate_Ratings": "2023-12-17T23:03:30.4616171+00:00",
-  "LastUpdate_Achievements": "2023-12-17T23:05:46.3014153+00:00"
+  "LastUpdate_Ratings": "2023-12-18T00:03:02.3370875+00:00",
+  "LastUpdate_Achievements": "2023-12-18T00:04:36.0883249+00:00"
 }

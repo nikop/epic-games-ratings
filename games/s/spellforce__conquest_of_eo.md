@@ -21,8 +21,8 @@
 | Friend of Lyraine | 42.00% | ~25 |
 | Redecorating | 35.00% | ~21 |
 | Bad JuJu | 25.00% | ~15 |
+| Slave to the rhythm | 23.00% | ~14 |
 | Friend of Sevenkeeps | 23.00% | ~14 |
-| Slave to the rhythm | 22.00% | ~13 |
 | Castle Meldec | 20.00% | ~12 |
 | Sevenkeeps Seat of Kings | 18.00% | ~11 |
 | Friend of Alluvyan | 15.00% | ~9 |

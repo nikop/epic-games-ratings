@@ -3,8 +3,8 @@
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
   "Ranking_Rating": 85,
-  "Ranking_Popularity": 564,
-  "Ranking_PopularitySum": 564,
+  "Ranking_Popularity": 565,
+  "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 118,
   "Ranking_EOS_NewPlayers": 213,
@@ -149,7 +149,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1193,
+  "EOS_Progressed": 1194,
   "EOS_Completed": 32,
   "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
@@ -4009,6 +4009,11 @@
       "Time": "2023-12-17T23:08:01.0012876+00:00",
       "NumProgressed": 1193,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-12-18T00:06:11.1178292+00:00",
+      "NumProgressed": 1194,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4029,7 +4034,7 @@
       "Name": "A New Journey",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 799
+      "UsersEstimate": 800
     },
     {
       "ID": "_03_FinishAct1",
@@ -4077,7 +4082,7 @@
       "Name": "Swabbie",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "_09_Completion_20",
@@ -4099,9 +4104,9 @@
       "ID": "_11_Completion_40",
       "SetID": "8a1io5d",
       "Name": "Seadog",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 179
+      "UsersEstimate": 167
     },
     {
       "ID": "_12_Completion_50",
@@ -4141,7 +4146,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -4149,7 +4154,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -4228,7 +4233,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1193,
+      "Progressed": 1194,
       "Completed": 32
     }
   ],
@@ -4236,8 +4241,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-13T23:58:37.390497+00:00",
-  "LastChanged_Achievements": "2023-12-17T23:08:01.0012874+00:00",
+  "LastChanged_Achievements": "2023-12-18T00:06:11.117829+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:17.2609478+00:00",
-  "LastUpdate_Ratings": "2023-12-17T23:01:39.6410431+00:00",
-  "LastUpdate_Achievements": "2023-12-17T23:08:01.0013197+00:00"
+  "LastUpdate_Ratings": "2023-12-17T23:59:57.7057156+00:00",
+  "LastUpdate_Achievements": "2023-12-18T00:06:11.1178617+00:00"
 }

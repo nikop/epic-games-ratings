@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1406,
+  "EOS_Progressed": 1408,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3317,6 +3317,11 @@
       "Time": "2023-12-17T23:07:05.3515372+00:00",
       "NumProgressed": 1406,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-18T00:05:32.6932335+00:00",
+      "NumProgressed": 1408,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -3503,9 +3508,9 @@
       "ID": "ML_ACHIEVEMENT_23",
       "SetID": "5k00jcd",
       "Name": "The Scorpion",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -3599,9 +3604,9 @@
       "ID": "ML_ACHIEVEMENT_35",
       "SetID": "5k00jcd",
       "Name": "Extra gear",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 28
     },
     {
       "ID": "ML_ACHIEVEMENT_36",
@@ -3623,9 +3628,9 @@
       "ID": "ML_ACHIEVEMENT_38",
       "SetID": "5k00jcd",
       "Name": "Spoiled for choice",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -3696,20 +3701,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1406,
+      "Progressed": 1408,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1074,
+      "Progressed": 1076,
       "Completed": 997
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-17T23:07:05.3515369+00:00",
+  "LastChanged_Achievements": "2023-12-18T00:05:32.6932333+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:11.7320397+00:00",
-  "LastUpdate_Ratings": "2023-12-17T22:59:51.9653076+00:00",
-  "LastUpdate_Achievements": "2023-12-17T23:07:05.3516079+00:00"
+  "LastUpdate_Ratings": "2023-12-17T23:58:49.7574534+00:00",
+  "LastUpdate_Achievements": "2023-12-18T00:05:32.693281+00:00"
 }

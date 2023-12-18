@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -2271,9 +2271,9 @@
       "ID": "CompleteChapter2",
       "SetID": "52ail55",
       "Name": "Met the Enemy",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 547
+      "UsersEstimate": 556
     },
     {
       "ID": "CompleteChapter3",
@@ -2319,9 +2319,9 @@
       "ID": "CompleteChapter8",
       "SetID": "52ail55",
       "Name": "Troggoff Troubles",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 155
     },
     {
       "ID": "CompleteChapter9",
@@ -2430,8 +2430,8 @@
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-17T23:05:41.862466+00:00",
+  "LastChanged_Achievements": "2023-12-18T00:04:32.9933312+00:00",
   "LastUpdate_AppInfo": "2023-12-15T09:57:06.988595+00:00",
-  "LastUpdate_Ratings": "2023-12-17T23:00:32.6349082+00:00",
-  "LastUpdate_Achievements": "2023-12-17T23:05:41.8625106+00:00"
+  "LastUpdate_Ratings": "2023-12-17T23:59:15.3222446+00:00",
+  "LastUpdate_Achievements": "2023-12-18T00:04:32.993356+00:00"
 }

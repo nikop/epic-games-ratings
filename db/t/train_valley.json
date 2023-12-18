@@ -3,11 +3,11 @@
   "Name": "Train Valley",
   "ProductSlug": "train-valley-ead642",
   "Ranking_Rating": 619,
-  "Ranking_Popularity": 564,
-  "Ranking_PopularitySum": 564,
+  "Ranking_Popularity": 565,
+  "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 320,
-  "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_Completed": 232,
+  "Ranking_EOS_NewPlayers": 303,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -138,9 +138,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 556,
+  "EOS_Progressed": 557,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1463,6 +1463,11 @@
       "Time": "2023-12-17T17:05:02.4956817+00:00",
       "NumProgressed": 556,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-18T00:04:25.8288527+00:00",
+      "NumProgressed": 557,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -1480,9 +1485,9 @@
       "ID": "02_collector",
       "SetID": "chb1m60",
       "Name": "Collector",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 240
     },
     {
       "ID": "03_philatelist",
@@ -1506,7 +1511,7 @@
       "Name": "Pangs of conscience",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "06_living",
@@ -1522,7 +1527,7 @@
       "Name": "Europe",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "08_america",
@@ -1632,9 +1637,9 @@
       "ID": "21_missed",
       "SetID": "chb1m60",
       "Name": "Missed it!",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 106
+      "UsersEstimate": 100
     },
     {
       "ID": "22_ouroboros",
@@ -1648,9 +1653,9 @@
       "ID": "23_closecall",
       "SetID": "chb1m60",
       "Name": "Close call!",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 400
+      "UsersEstimate": 395
     },
     {
       "ID": "24_mega",
@@ -1690,7 +1695,7 @@
       "Name": "Non Stop!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "29_madness",
@@ -1738,7 +1743,7 @@
       "Name": "Need to think",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "35_achtung",
@@ -1785,15 +1790,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 556,
+      "Progressed": 557,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-12-03T05:59:23.5685326+00:00",
-  "LastChanged_Achievements": "2023-12-17T23:05:31.3746636+00:00",
+  "LastChanged_Achievements": "2023-12-18T00:04:25.8288524+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:44.2539038+00:00",
-  "LastUpdate_Ratings": "2023-12-17T23:01:55.017056+00:00",
-  "LastUpdate_Achievements": "2023-12-17T23:05:31.374707+00:00"
+  "LastUpdate_Ratings": "2023-12-18T00:00:07.3310214+00:00",
+  "LastUpdate_Achievements": "2023-12-18T00:04:25.8288758+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "Haven",
   "ProductSlug": "haven",
   "Ranking_Rating": 150,
-  "Ranking_Popularity": 564,
-  "Ranking_PopularitySum": 564,
+  "Ranking_Popularity": 565,
+  "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -2795,8 +2795,8 @@
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-17T23:04:37.5431853+00:00",
+  "LastChanged_Achievements": "2023-12-18T00:03:48.185991+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.3116727+00:00",
-  "LastUpdate_Ratings": "2023-12-17T22:58:13.3484319+00:00",
-  "LastUpdate_Achievements": "2023-12-17T23:04:37.5432457+00:00"
+  "LastUpdate_Ratings": "2023-12-17T23:57:46.7220905+00:00",
+  "LastUpdate_Achievements": "2023-12-18T00:03:48.1860166+00:00"
 }

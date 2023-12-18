@@ -1,33 +1,33 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.19 (Ranked 939)  
+Rating: 4.19 (Ranked 940)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 13.00% | ~2,309 |
-| Get a Grip | 12.00% | ~2,131 |
-| Paper Jams | 12.00% | ~2,131 |
-| The Outer Way | 12.00% | ~2,131 |
-| Desperate Times | 11.00% | ~1,954 |
-| Float Like A Butterfly | 10.00% | ~1,776 |
-| Chew 'Em Up | 9.00% | ~1,598 |
-| Reforged | 9.00% | ~1,598 |
-| Workplace Hazard | 7.00% | ~1,243 |
-| If the SHU Fits... | 7.00% | ~1,243 |
+| Flesh Wound | 13.00% | ~2,310 |
+| Get a Grip | 12.00% | ~2,132 |
+| Paper Jams | 12.00% | ~2,132 |
+| The Outer Way | 12.00% | ~2,132 |
+| Desperate Times | 11.00% | ~1,955 |
+| Float Like A Butterfly | 10.00% | ~1,777 |
+| Chew 'Em Up | 9.00% | ~1,599 |
+| Reforged | 9.00% | ~1,599 |
+| Workplace Hazard | 7.00% | ~1,244 |
+| If the SHU Fits... | 7.00% | ~1,244 |
 | Two Heads Are Better Than One | 6.00% | ~1,066 |
 | Without A Paddle | 6.00% | ~1,066 |
 | In the Pipe, Five by Five | 6.00% | ~1,066 |
 | Crash Site | 6.00% | ~1,066 |
 | Full Circle | 6.00% | ~1,066 |
 | Power Up | 6.00% | ~1,066 |
-| Keep Fighting | 6.00% | ~341 |
+| Keep Fighting | 6.00% | ~342 |
 | Giving Back | 5.00% | ~888 |
 | You Need a Gun | 5.00% | ~888 |
 | I Do Belong Here | 5.00% | ~888 |
 | Terminated | 5.00% | ~888 |
 | What Lies Beneath | 5.00% | ~888 |
-| It's Time | 4.00% | ~227 |
+| It's Time | 4.00% | ~228 |
 | In Striking Distance | 3.00% | ~533 |
 | The Commonality | 3.00% | ~533 |
 | One Last Job | 2.00% | ~114 |
@@ -35,7 +35,7 @@ Rating: 4.19 (Ranked 939)
 | This Isn't About Escape | 1.00% | ~57 |
 | Armed to the Teeth | 0.90% | ~51 |
 | Grim Reaper | 0.80% | ~142 |
-| Information Overload | 0.80% | ~45 |
+| Information Overload | 0.80% | ~46 |
 | Parole Denied | 0.70% | ~40 |
 | Mugshot | 0.70% | ~124 |
 | Instigator | 0.70% | ~40 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 939)
 | Bear Trap | 0.10% | ~6 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,760 (Ranked 149)  
+Progressed: 17,769 (Ranked 149)  
 Completed: 82 (0.46%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,6 +287,7 @@ Completed: 82 (0.46%) (Ranked 217)
 | 2023-12-15 | 17,123 | 82 |
 | 2023-12-16 | 17,442 | 82 |
 | 2023-12-17 | 17,760 | 82 |
+| 2023-12-18 | 17,769 | 82 |
 ## Awards
 Max (Amazing Storytelling): 87  (Ranked 388)  
 Sum: 516 (Ranked 328)  

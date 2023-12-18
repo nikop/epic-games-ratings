@@ -15,13 +15,13 @@
 | Get to the Point | 25.00% | ~32 |
 | Phew! | 16.00% | ~21 |
 | Mr. Want It All | 15.00% | ~19 |
+| The Hidden Secret | 14.00% | ~18 |
 | Toe to Toe | 14.00% | ~18 |
-| The Hidden Secret | 13.00% | ~17 |
 | The Abyss Conqueror | 10.00% | ~13 |
 | Space Warrior: Prologue | 10.00% | ~13 |
 | The Fortress Conqueror | 9.00% | ~12 |
 | Grand Escape | 9.00% | ~12 |
-| Keep it Up, rookie! | 6.00% | ~8 |
+| Keep it Up, rookie! | 7.00% | ~9 |
 | The Deep Frozen Conqueror | 5.00% | ~6 |
 | The Infinite Train Conqueror | 5.00% | ~6 |
 | The Paradox Coordinate Conqueror | 5.00% | ~6 |

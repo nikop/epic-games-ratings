@@ -4,15 +4,15 @@
 Rating: 4.62 (Ranked 370)  
 ## Awards
 Max (Challenging Combat): 53  (Ranked 432)  
-Sum: 313 (Ranked 365)  
+Sum: 315 (Ranked 365)  
 Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
 | This game has Challenging Combat | 53 |
 | This game is Highly Recommended | 52 |
 | This game is Hard for Beginners | 48 |
-| This game has Quickly Understood Controls | 44 |
-| This game is Extremely Fun | 43 |
+| This game has Quickly Understood Controls | 45 |
+| This game is Extremely Fun | 44 |
 | This game has Unique Visuals | 40 |
 | This game has Amazing Storytelling | 39 |
 | This game is Great for Quick Sessions | 36 |
@@ -96,4 +96,4 @@ Diff (max vs sum): 67
 | 2023-12-14 | 4.62 | 51 | 304 |
 | 2023-12-15 | 4.62 | 52 | 306 |
 | 2023-12-16 | 4.62 | 52 | 308 |
-| 2023-12-17 | 4.62 | 53 | 313 |
+| 2023-12-17 | 4.62 | 53 | 315 |

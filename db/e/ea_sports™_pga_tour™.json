@@ -2,7 +2,7 @@
   "ID": "19d5458aa3c849a1b0fff69da4c9ed9d",
   "Name": "EA SPORTS\u2122 PGA TOUR\u2122",
   "ProductSlug": "ea-sports-pga-tour",
-  "Ranking_EOS_Progress": 303,
+  "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 145,
   "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 97,
@@ -20,11 +20,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 647,
+  "EOS_Progressed": 648,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.55,
+  "EOS_Completed_Percentage": 1.54,
   "EosHistory": [
     {
       "Time": "2023-09-18T22:08:11.9466887+00:00",
@@ -2315,6 +2315,11 @@
       "Time": "2023-12-17T23:10:12.0754496+00:00",
       "NumProgressed": 647,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-18T00:09:18.5250063+00:00",
+      "NumProgressed": 648,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -2335,7 +2340,7 @@
       "Name": "Holey Moley",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "achievement_11",
@@ -2343,7 +2348,7 @@
       "Name": "Bomb\u0027s Away",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "achievement_12",
@@ -2383,7 +2388,7 @@
       "Name": "Star Power",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "achievement_17",
@@ -2391,7 +2396,7 @@
       "Name": "Clean Sheet",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "achievement_18",
@@ -2399,7 +2404,7 @@
       "Name": "Perfect Round",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "achievement_2",
@@ -2415,7 +2420,7 @@
       "Name": "A Passion for Excellence",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "achievement_4",
@@ -2470,13 +2475,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 647,
+      "Progressed": 648,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-12-17T23:10:12.0754492+00:00",
+  "LastChanged_Achievements": "2023-12-18T00:09:18.5250061+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:04.0623721+00:00",
-  "LastUpdate_Ratings": "2023-12-17T22:58:01.050261+00:00",
-  "LastUpdate_Achievements": "2023-12-17T23:10:12.0754829+00:00"
+  "LastUpdate_Ratings": "2023-12-17T23:57:39.0755639+00:00",
+  "LastUpdate_Achievements": "2023-12-18T00:09:18.5250216+00:00"
 }

@@ -2191,17 +2191,17 @@
       "ID": "AchvReachCamp",
       "SetID": "1hj060c",
       "Name": "The Camp",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 467
+      "UsersEstimate": 474
     },
     {
       "ID": "AchvReachCity",
       "SetID": "1hj060c",
       "Name": "The City",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 341
     },
     {
       "ID": "AchvReachCondor",
@@ -2254,8 +2254,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-17T23:09:53.0718293+00:00",
+  "LastChanged_Achievements": "2023-12-18T00:09:05.5551354+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.232501+00:00",
-  "LastUpdate_Ratings": "2023-12-17T22:57:20.886031+00:00",
-  "LastUpdate_Achievements": "2023-12-17T23:09:53.071872+00:00"
+  "LastUpdate_Ratings": "2023-12-17T23:57:13.2144925+00:00",
+  "LastUpdate_Achievements": "2023-12-18T00:09:05.5551614+00:00"
 }

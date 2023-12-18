@@ -5,45 +5,45 @@ Rating: 4.51 (Ranked 577)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 79.00% | ~3,470 |
-| Keep 'Em Coming | 68.00% | ~2,987 |
-| Snatched Out | 68.00% | ~2,987 |
-| Cleaning Lethe, One Nest At A Time | 61.00% | ~2,679 |
-| Call Me Snake | 57.00% | ~2,503 |
-| Something Lurks Under The Hills | 55.00% | ~2,416 |
-| This Was No Papercut | 54.00% | ~2,372 |
-| The Shrink Hates Me | 52.00% | ~2,284 |
-| People Person | 51.00% | ~2,240 |
-| Use The Bumper, That's What It's For | 48.00% | ~2,108 |
-| First Steps Into Madness | 48.00% | ~2,108 |
-| Colonial Barrels | 45.00% | ~1,976 |
-| Harper's Hell | 41.00% | ~1,801 |
-| Making a Stand | 40.00% | ~1,757 |
-| Damn Dude, You Gotta Lose Some Weight! | 38.00% | ~1,669 |
-| Where It All Begun | 36.00% | ~1,581 |
-| Recouped Investment | 35.00% | ~1,537 |
-| The More The Merrier | 31.00% | ~1,362 |
-| Omelette Du Fromage | 30.00% | ~1,318 |
-| Living Nightmare | 30.00% | ~1,318 |
-| The Darwin Era Was Here | 27.00% | ~1,186 |
-| Deep Into Insanity | 26.00% | ~1,142 |
-| The Passenger | 26.00% | ~1,142 |
-| Come on, You Wanna Live Forever? | 25.00% | ~1,098 |
-| The Spire | 24.00% | ~1,054 |
-| El Riesgo Siempre Vive | 22.00% | ~966 |
-| Stuff Of Nightmares | 21.00% | ~922 |
-| Excavating The Truth | 21.00% | ~922 |
-| Abysmal Horrors | 20.00% | ~878 |
-| One For Every Occasion | 19.00% | ~834 |
-| Frontliner | 19.00% | ~834 |
-| The Cable Guy | 19.00% | ~834 |
-| Bandage Lover | 17.00% | ~747 |
-| Regicide | 15.00% | ~659 |
-| This Went Smoothly | 13.00% | ~571 |
-| Flawless Victory | 12.00% | ~527 |
-| Heavy Steps | 12.00% | ~527 |
-| Perfect Enhancements | 9.00% | ~395 |
-| Hardened In The Heat Of Battle | 7.00% | ~307 |
+| This Is Hayes, Pioneer Station, Signing Off | 79.00% | ~3,475 |
+| Keep 'Em Coming | 68.00% | ~2,991 |
+| Snatched Out | 68.00% | ~2,991 |
+| Cleaning Lethe, One Nest At A Time | 61.00% | ~2,683 |
+| Call Me Snake | 57.00% | ~2,507 |
+| Something Lurks Under The Hills | 55.00% | ~2,419 |
+| This Was No Papercut | 54.00% | ~2,375 |
+| The Shrink Hates Me | 52.00% | ~2,287 |
+| People Person | 51.00% | ~2,243 |
+| Use The Bumper, That's What It's For | 48.00% | ~2,112 |
+| First Steps Into Madness | 48.00% | ~2,112 |
+| Colonial Barrels | 45.00% | ~1,980 |
+| Harper's Hell | 41.00% | ~1,804 |
+| Making a Stand | 40.00% | ~1,760 |
+| Damn Dude, You Gotta Lose Some Weight! | 38.00% | ~1,672 |
+| Where It All Begun | 36.00% | ~1,584 |
+| Recouped Investment | 35.00% | ~1,540 |
+| The More The Merrier | 31.00% | ~1,364 |
+| Living Nightmare | 30.00% | ~1,320 |
+| Omelette Du Fromage | 29.00% | ~1,276 |
+| The Darwin Era Was Here | 27.00% | ~1,188 |
+| Deep Into Insanity | 26.00% | ~1,144 |
+| The Passenger | 26.00% | ~1,144 |
+| Come on, You Wanna Live Forever? | 25.00% | ~1,100 |
+| The Spire | 24.00% | ~1,056 |
+| El Riesgo Siempre Vive | 22.00% | ~968 |
+| Stuff Of Nightmares | 21.00% | ~924 |
+| Excavating The Truth | 21.00% | ~924 |
+| Abysmal Horrors | 20.00% | ~880 |
+| One For Every Occasion | 19.00% | ~836 |
+| Frontliner | 19.00% | ~836 |
+| The Cable Guy | 19.00% | ~836 |
+| Bandage Lover | 17.00% | ~748 |
+| Regicide | 15.00% | ~660 |
+| This Went Smoothly | 13.00% | ~572 |
+| Flawless Victory | 12.00% | ~528 |
+| Heavy Steps | 12.00% | ~528 |
+| Perfect Enhancements | 9.00% | ~396 |
+| Hardened In The Heat Of Battle | 7.00% | ~308 |
 | The True Experience | 6.00% | ~264 |
 | Archivist | 2.00% | ~88 |
 | Fair And Square | 2.00% | ~88 |
@@ -51,7 +51,7 @@ Rating: 4.51 (Ranked 577)
 | This Ain't No Picnic | 0.70% | ~31 |
 | Chalk It Up To Experience | 0.70% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,392 (Ranked 201)  
+Progressed: 4,399 (Ranked 201)  
 Completed: 3 (0.07%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,6 +226,7 @@ Completed: 3 (0.07%) (Ranked 314)
 | 2023-12-15 | 4,069 | 3 |
 | 2023-12-16 | 4,217 | 3 |
 | 2023-12-17 | 4,392 | 3 |
+| 2023-12-18 | 4,399 | 3 |
 ## Awards
 Max (Great Boss Battles): 42  (Ranked 462)  
 Sum: 42 (Ranked 505)  

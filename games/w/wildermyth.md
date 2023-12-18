@@ -6,19 +6,19 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Me and My Familiar | 5.00% | ~76 |
-| The Cost of Heroism | 5.00% | ~76 |
+| Me and My Familiar | 5.00% | ~77 |
+| The Cost of Heroism | 5.00% | ~77 |
 | Gotta Ca... Must Collect All of Them | 4.00% | ~61 |
 | Passing Shadow | 4.00% | ~61 |
 | This Too Shall Pass | 4.00% | ~61 |
 | How Romantic! | 4.00% | ~61 |
 | Cutthroat Competitors | 4.00% | ~61 |
 | Daybreak | 4.00% | ~61 |
+| War Endured | 3.00% | ~46 |
+| Core Failure | 3.00% | ~46 |
 | A Mythic Menagerie | 2.00% | ~31 |
 | Completing the Look | 2.00% | ~31 |
 | Who's Counting? | 2.00% | ~31 |
-| War Endured | 2.00% | ~31 |
-| Core Failure | 2.00% | ~31 |
 | Let Me Get My Chisel | 1.00% | ~15 |
 | Thematic Divergence | 1.00% | ~15 |
 | Pyrrhic Victory | 1.00% | ~15 |
@@ -48,7 +48,7 @@ Number of Ratings: 45  (23.09.2022)
 | Bears are Scary | 0.30% | ~5 |
 | Fight Like a Bird | 0.30% | ~5 |
 | Into Mulch | 0.30% | ~5 |
-| I'm Not Smiling | 0.20% | ~3 |
+| I'm Not Smiling | 0.30% | ~5 |
 | Overwhelming Monstrosity | 0.10% | ~2 |
 | A Lowly Crust of Beef | 0.10% | ~2 |
 | The Power of Friendship | 0.10% | ~2 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Thwack! | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,530 (Ranked 246)  
+Progressed: 1,531 (Ranked 246)  
 Completed: 6 (0.39%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,6 +250,7 @@ Completed: 6 (0.39%) (Ranked 228)
 | 2023-12-15 | 1,526 | 6 |
 | 2023-12-16 | 1,527 | 6 |
 | 2023-12-17 | 1,530 | 6 |
+| 2023-12-18 | 1,531 | 6 |
 ## Awards
 Max (Character Customization): 29  (Ranked 509)  
 Sum: 29 (Ranked 525)  

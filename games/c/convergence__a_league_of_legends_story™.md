@@ -13,12 +13,12 @@ Rating: 4.62 (Ranked 370)
 | Time Flies | 23.00% | ~235 |
 | The Prince in Heels | 23.00% | ~235 |
 | The Brass Boss | 23.00% | ~235 |
+| The Steel Shadow | 22.00% | ~225 |
 | The Harder They Fall | 22.00% | ~225 |
 | No, Thanks! | 22.00% | ~225 |
 | Honest Mistake | 22.00% | ~225 |
 | Fast Learner | 22.00% | ~225 |
 | Immaculate Aim | 22.00% | ~225 |
-| The Steel Shadow | 21.00% | ~214 |
 | Breaking Down Barriers | 21.00% | ~214 |
 | The Wicked Twins | 21.00% | ~214 |
 | Right On Time | 20.00% | ~204 |

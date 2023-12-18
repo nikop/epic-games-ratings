@@ -16,7 +16,7 @@ Rating: 4.60 (Ranked 423)
 | The merciful one | 40.00% | ~36 |
 | Well-to-do | 40.00% | ~36 |
 | Ladies' man | 38.00% | ~35 |
-| Ferocious wild boars | 29.00% | ~26 |
+| Ferocious wild boars | 30.00% | ~27 |
 | Idiot | 27.00% | ~25 |
 | Beast slayer | 25.00% | ~23 |
 | Family man | 23.00% | ~21 |
@@ -28,9 +28,9 @@ Rating: 4.60 (Ranked 423)
 | Little hero | 21.00% | ~19 |
 | Hard worker | 21.00% | ~19 |
 | Sidelined | 21.00% | ~19 |
+| Fence | 20.00% | ~18 |
 | Pandora's box | 19.00% | ~17 |
 | Ghost hunter | 19.00% | ~17 |
-| Fence | 19.00% | ~17 |
 | Master detective | 19.00% | ~17 |
 | Peacekeeper | 18.00% | ~16 |
 | Defender | 15.00% | ~14 |

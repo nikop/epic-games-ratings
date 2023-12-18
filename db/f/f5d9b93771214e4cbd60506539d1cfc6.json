@@ -3,11 +3,11 @@
   "Name": "Guacamelee! Super Turbo Championship Edition",
   "ProductSlug": "guacamelee-stce-7cdbc8",
   "Ranking_Rating": 512,
-  "Ranking_Popularity": 564,
-  "Ranking_PopularitySum": 564,
+  "Ranking_Popularity": 565,
+  "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 156941,
+  "EOS_Progressed": 156943,
   "EOS_Completed": 361,
-  "EOS_NewPlayers": 855,
+  "EOS_NewPlayers": 848,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -21993,6 +21993,11 @@
       "Time": "2023-12-17T23:07:08.852416+00:00",
       "NumProgressed": 156941,
       "NumCompleted": 361
+    },
+    {
+      "Time": "2023-12-18T00:05:35.1701278+00:00",
+      "NumProgressed": 156943,
+      "NumCompleted": 361
     }
   ],
   "TotalAchievements": 31,
@@ -22012,7 +22017,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 109859
+      "UsersEstimate": 109860
     },
     {
       "ID": "EAwards_10",
@@ -22044,7 +22049,7 @@
       "Name": "Next-gen!!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 9416
+      "UsersEstimate": 9417
     },
     {
       "ID": "EAwards_14",
@@ -22052,7 +22057,7 @@
       "Name": "Do or Do Not",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 61207
+      "UsersEstimate": 61208
     },
     {
       "ID": "EAwards_15",
@@ -22100,7 +22105,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 43943
+      "UsersEstimate": 43944
     },
     {
       "ID": "EAwards_20",
@@ -22220,7 +22225,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 39235
+      "UsersEstimate": 39236
     },
     {
       "ID": "EAwards_7",
@@ -22251,7 +22256,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 156941,
+      "Progressed": 156943,
       "Completed": 361
     }
   ],
@@ -22259,8 +22264,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-12-16T18:59:03.9912318+00:00",
-  "LastChanged_Achievements": "2023-12-17T23:07:08.8524158+00:00",
+  "LastChanged_Achievements": "2023-12-18T00:05:35.1701276+00:00",
   "LastUpdate_AppInfo": "2023-12-15T07:57:06.2910443+00:00",
-  "LastUpdate_Ratings": "2023-12-17T23:00:45.6067726+00:00",
-  "LastUpdate_Achievements": "2023-12-17T23:07:08.8526146+00:00"
+  "LastUpdate_Ratings": "2023-12-17T23:59:23.8484675+00:00",
+  "LastUpdate_Achievements": "2023-12-18T00:05:35.1702468+00:00"
 }

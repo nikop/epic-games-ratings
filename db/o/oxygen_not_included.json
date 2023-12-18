@@ -2,7 +2,7 @@
   "ID": "lotus",
   "Name": "Oxygen Not Included",
   "ProductSlug": "oxygen-not-included",
-  "Ranking_Rating": 62,
+  "Ranking_Rating": 53,
   "Ranking_Popularity": 264,
   "Ranking_PopularitySum": 202,
   "Ranking_EOS_Progress": 801,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.83,
+  "Rating": 4.84,
   "NumberOfRatings": 897,
   "RatingHistory": [
     {
@@ -2526,10 +2526,16 @@
       "Rating": 4.83,
       "NumberOfAwards": 2381,
       "NumberOfAwardsMax": 275
+    },
+    {
+      "Time": "2023-12-17T23:57:03.344764+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 2382,
+      "NumberOfAwardsMax": 275
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2381,
+  "NumberOfAwards": 2382,
   "NumberOfAwardsMax": 275,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -2555,7 +2561,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 228
+      "Count": 229
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2611,8 +2617,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:44.1555168+00:00",
-  "LastChanged": "2023-12-17T17:02:48.7078252+00:00",
+  "LastChanged": "2023-12-17T23:57:03.3447638+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:33.6163335+00:00",
-  "LastUpdate_Ratings": "2023-12-17T22:57:05.2373749+00:00",
-  "LastUpdate_Achievements": "2023-12-17T23:06:45.4859872+00:00"
+  "LastUpdate_Ratings": "2023-12-17T23:57:03.3447643+00:00",
+  "LastUpdate_Achievements": "2023-12-18T00:05:18.631607+00:00"
 }

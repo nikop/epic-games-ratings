@@ -7,11 +7,11 @@ Number of Ratings: 371  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Executioner | 12.00% | ~414 |
-| Look Over There! | 9.00% | ~310 |
-| Not So Fast... | 9.00% | ~310 |
-| Watch Where You Step... | 9.00% | ~310 |
-| An Ill Omen | 9.00% | ~310 |
-| Purging Spree | 7.00% | ~241 |
+| Look Over There! | 9.00% | ~311 |
+| Not So Fast... | 9.00% | ~311 |
+| Watch Where You Step... | 9.00% | ~311 |
+| An Ill Omen | 9.00% | ~311 |
+| Purging Spree | 7.00% | ~242 |
 | Blood for the Blood God! | 6.00% | ~207 |
 | Bloodless | 6.00% | ~207 |
 | Honoured Battle-Brother | 4.00% | ~138 |
@@ -19,25 +19,25 @@ Number of Ratings: 371  (23.09.2022)
 | Friendly Fire | 4.00% | ~138 |
 | The Emperor Protects | 4.00% | ~138 |
 | A Foul Creche | 4.00% | ~138 |
-| Nemesis Master | 3.00% | ~103 |
-| Gunmaster | 3.00% | ~103 |
-| Just a Scratch | 3.00% | ~103 |
+| Nemesis Master | 3.00% | ~104 |
+| Gunmaster | 3.00% | ~104 |
+| Just a Scratch | 3.00% | ~104 |
 | Daemonkeeper | 2.00% | ~69 |
 | Hold Your Ground | 2.00% | ~69 |
 | Corruption Cleanser | 2.00% | ~69 |
 | Efficient Killer | 2.00% | ~69 |
 | A Gift Spurned | 2.00% | ~69 |
 | Hive Exterminator | 2.00% | ~69 |
-| Fleetmaster | 1.00% | ~34 |
-| Exterminator | 1.00% | ~34 |
-| Mind Like a Fortress | 1.00% | ~34 |
-| Only in Death | 1.00% | ~34 |
-| Preservationist | 1.00% | ~34 |
-| Junk Banishment | 1.00% | ~34 |
-| Long Distance Call | 1.00% | ~34 |
-| Tactical Flexibility | 1.00% | ~34 |
-| Execution Force | 1.00% | ~34 |
-| Tactical Sabotage | 1.00% | ~34 |
+| Fleetmaster | 1.00% | ~35 |
+| Exterminator | 1.00% | ~35 |
+| Mind Like a Fortress | 1.00% | ~35 |
+| Only in Death | 1.00% | ~35 |
+| Preservationist | 1.00% | ~35 |
+| Junk Banishment | 1.00% | ~35 |
+| Long Distance Call | 1.00% | ~35 |
+| Tactical Flexibility | 1.00% | ~35 |
+| Execution Force | 1.00% | ~35 |
+| Tactical Sabotage | 1.00% | ~35 |
 | For the Machine God | 0.90% | ~31 |
 | Death Comes For All | 0.90% | ~31 |
 | Patron of Deimos | 0.80% | ~28 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,449 (Ranked 214)  
+Progressed: 3,451 (Ranked 214)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,6 +286,7 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-15 | 3,402 | 0 |
 | 2023-12-16 | 3,433 | 0 |
 | 2023-12-17 | 3,449 | 0 |
+| 2023-12-18 | 3,451 | 0 |
 ## Awards
 Max (Character Customization): 229  (Ranked 277)  
 Sum: 490 (Ranked 332)  

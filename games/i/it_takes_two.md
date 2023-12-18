@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fried Friendship | 85.00% | ~40,977 |
-| Struck A Pose | 83.00% | ~40,013 |
-| Look At Him Go | 67.00% | ~32,299 |
-| On Rails Experience | 43.00% | ~20,729 |
-| A Daring Devil | 43.00% | ~20,729 |
-| Break the Bank | 33.00% | ~15,909 |
-| It Took Two | 30.00% | ~14,462 |
-| Bug Sized Relaxation | 15.00% | ~7,231 |
-| Plastic Prison Breakers | 14.00% | ~6,749 |
-| Terror Of The Seven Seas | 11.00% | ~5,303 |
-| Realize Your Art | 9.00% | ~4,339 |
-| Force Triangulated | 8.00% | ~3,857 |
-| Meditation Maestro | 8.00% | ~3,857 |
-| Lost And Found | 7.00% | ~3,375 |
-| Something Fishy | 7.00% | ~3,375 |
-| Snackosaurus | 6.00% | ~2,892 |
-| Platforming Prodigy | 6.00% | ~2,892 |
-| Mood Swing | 5.00% | ~2,410 |
-| Faraway Frequencies | 3.00% | ~1,446 |
+| Fried Friendship | 85.00% | ~40,990 |
+| Struck A Pose | 83.00% | ~40,026 |
+| Look At Him Go | 67.00% | ~32,310 |
+| On Rails Experience | 43.00% | ~20,736 |
+| A Daring Devil | 43.00% | ~20,736 |
+| Break the Bank | 33.00% | ~15,914 |
+| It Took Two | 30.00% | ~14,467 |
+| Bug Sized Relaxation | 15.00% | ~7,234 |
+| Plastic Prison Breakers | 14.00% | ~6,751 |
+| Terror Of The Seven Seas | 11.00% | ~5,305 |
+| Realize Your Art | 9.00% | ~4,340 |
+| Force Triangulated | 8.00% | ~3,858 |
+| Meditation Maestro | 8.00% | ~3,858 |
+| Lost And Found | 7.00% | ~3,376 |
+| Something Fishy | 7.00% | ~3,376 |
+| Snackosaurus | 6.00% | ~2,893 |
+| Platforming Prodigy | 6.00% | ~2,893 |
+| Mood Swing | 5.00% | ~2,411 |
+| Faraway Frequencies | 3.00% | ~1,447 |
 | Minigame Megalomania | 2.00% | ~964 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,208 (Ranked 117)  
+Progressed: 48,224 (Ranked 117)  
 Completed: 131 (0.27%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,3 +119,4 @@ Completed: 131 (0.27%) (Ranked 249)
 | 2023-12-15 | 35,301 | 125 |
 | 2023-12-16 | 42,220 | 127 |
 | 2023-12-17 | 48,208 | 131 |
+| 2023-12-18 | 48,224 | 131 |

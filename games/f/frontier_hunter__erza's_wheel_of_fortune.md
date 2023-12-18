@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~583 |
-| Training Simulation | 78.00% | ~489 |
+| Travel Streamer | 93.00% | ~584 |
+| Training Simulation | 78.00% | ~490 |
 | Kuku Bird Hunter | 65.00% | ~408 |
-| Storm Traveller | 60.00% | ~376 |
-| Wolf King Killer | 55.00% | ~345 |
-| Fashion Connoisseur | 52.00% | ~326 |
+| Storm Traveller | 60.00% | ~377 |
+| Wolf King Killer | 54.00% | ~339 |
+| Fashion Connoisseur | 52.00% | ~327 |
 | Arms Mechanic | 48.00% | ~301 |
 | Flower Thief | 44.00% | ~276 |
 | Apostle of Flame | 39.00% | ~245 |
-| Beginner Artificer | 38.00% | ~238 |
-| Beginner Cook | 37.00% | ~232 |
-| Seal Breaker | 31.00% | ~194 |
+| Beginner Artificer | 38.00% | ~239 |
+| Beginner Cook | 36.00% | ~226 |
+| Seal Breaker | 31.00% | ~195 |
 | Handyman | 28.00% | ~176 |
 | Giant Lizard Killer | 26.00% | ~163 |
 | Guardian | 25.00% | ~157 |
@@ -28,14 +28,14 @@
 | Lethal Blade Mantis Killer | 16.00% | ~100 |
 | Squeaky Clean | 16.00% | ~100 |
 | Master Artificer | 16.00% | ~100 |
-| Kind Adventurer | 15.00% | ~94 |
+| Kind Adventurer | 14.00% | ~88 |
 | Mermaid Killer | 14.00% | ~88 |
 | Cave Master | 14.00% | ~88 |
 | Face Slapper | 14.00% | ~88 |
 | Boss challenge | 10.00% | ~63 |
 | Berserker Slayer | 10.00% | ~63 |
-| Master Cook | 9.00% | ~56 |
-| Giantess Slayer | 9.00% | ~56 |
+| Master Cook | 9.00% | ~57 |
+| Giantess Slayer | 9.00% | ~57 |
 | Warden Slayer | 8.00% | ~50 |
 | Silver Moon Wolf King Challenge | 3.00% | ~19 |
 | Rebellious | 2.00% | ~13 |
@@ -50,7 +50,7 @@
 | Giantess Challenge | 1.00% | ~6 |
 | Warden Challenge | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 627 (Ranked 307)  
+Progressed: 628 (Ranked 307)  
 Completed: 1 (0.16%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,6 +154,7 @@ Completed: 1 (0.16%) (Ranked 278)
 | 2023-12-15 | 603 | 1 |
 | 2023-12-16 | 617 | 1 |
 | 2023-12-17 | 627 | 1 |
+| 2023-12-18 | 628 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -22,7 +22,7 @@ Rating: 4.43 (Ranked 699)
 | My Darkest Day | 48.00% | ~579 |
 | Rhythm Of Willump | 46.00% | ~555 |
 | The Relentless Storm | 46.00% | ~555 |
-| A Tragic Reminder | 44.00% | ~531 |
+| A Tragic Reminder | 45.00% | ~543 |
 | 3000 Year Blackout | 44.00% | ~531 |
 | The Finisher | 43.00% | ~519 |
 | So Close | 42.00% | ~507 |
@@ -33,9 +33,9 @@ Rating: 4.43 (Ranked 699)
 | True Legends | 39.00% | ~470 |
 | Boosted! | 39.00% | ~470 |
 | Deadliest and Biggest Snowball Ever! | 39.00% | ~470 |
+| It Is Not Over | 36.00% | ~434 |
 | Bullseye | 36.00% | ~434 |
-| It Is Not Over | 35.00% | ~422 |
-| On The Rocks | 34.00% | ~410 |
+| On The Rocks | 35.00% | ~422 |
 | Snowy Poro | 32.00% | ~386 |
 | Never Gets Old | 31.00% | ~374 |
 | Vertical Power | 27.00% | ~326 |

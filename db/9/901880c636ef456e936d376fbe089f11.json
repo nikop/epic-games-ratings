@@ -4,7 +4,7 @@
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
   "Ranking_EOS_Progress": 449,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 372,
+  "Ranking_EOS_NewPlayers": 371,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
@@ -749,9 +749,9 @@
       "ID": "ACH_FINISH_ONCE",
       "SetID": "8h8m55b",
       "Name": "One Way to Find Out",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_FIRSTLOVE",
@@ -1044,8 +1044,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-12-17T23:06:18.6353515+00:00",
+  "LastChanged_Achievements": "2023-12-18T00:04:58.9340319+00:00",
   "LastUpdate_AppInfo": "2023-12-12T20:56:55.8022632+00:00",
-  "LastUpdate_Ratings": "2023-12-17T22:58:49.0687085+00:00",
-  "LastUpdate_Achievements": "2023-12-17T23:06:18.6354093+00:00"
+  "LastUpdate_Ratings": "2023-12-17T23:58:09.2527585+00:00",
+  "LastUpdate_Achievements": "2023-12-18T00:04:58.9340619+00:00"
 }

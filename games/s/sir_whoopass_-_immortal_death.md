@@ -8,16 +8,16 @@
 | MLG 360 no scope kill! | 94.00% | ~125 |
 | Are you ready to rumble? | 94.00% | ~125 |
 | That's what cheese said! | 89.00% | ~118 |
-| AHHHHHH.....I'M ON FIRE!!! | 86.00% | ~114 |
-| I like you...but I have to kill you... | 86.00% | ~114 |
-| Not so hip anymore! | 85.00% | ~113 |
+| AHHHHHH.....I'M ON FIRE!!! | 87.00% | ~116 |
+| I like you...but I have to kill you... | 87.00% | ~116 |
+| Not so hip anymore! | 86.00% | ~114 |
 | Nerd | 83.00% | ~110 |
-| Blurry depth perception | 82.00% | ~109 |
-| Up and down | 79.00% | ~105 |
-| Rolling, Rolling, Rolling | 75.00% | ~100 |
-| Fire-fighter! | 67.00% | ~89 |
+| Blurry depth perception | 83.00% | ~110 |
+| Up and down | 80.00% | ~106 |
+| Rolling, Rolling, Rolling | 76.00% | ~101 |
+| Fire-fighter! | 68.00% | ~90 |
 | Oh, you're up to no gouda! | 65.00% | ~86 |
-| Make Love not War-Craft a Mistlefoe | 62.00% | ~82 |
+| Make Love not War-Craft a Mistlefoe | 63.00% | ~84 |
 | Meat grinder | 62.00% | ~82 |
 | You're not going to blow me up! | 56.00% | ~74 |
 | Mushroom soup of the day | 53.00% | ~70 |
@@ -28,7 +28,7 @@
 | Thats disgusting! | 48.00% | ~64 |
 | Self assessed tax return | 44.00% | ~59 |
 | My pants squeak when I walk | 44.00% | ~59 |
-| Surprise!! | 42.00% | ~56 |
+| Surprise!! | 43.00% | ~57 |
 | Haemochromatosis | 40.00% | ~53 |
 | Make America Grate Again | 37.00% | ~49 |
 | You can't stop me, bro! | 35.00% | ~47 |

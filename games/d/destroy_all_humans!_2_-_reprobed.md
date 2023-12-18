@@ -13,12 +13,12 @@ Number of Ratings: 90  (23.09.2022)
 | Shop Til They Drop | 29.00% | ~30 |
 | Earthly Pleasures | 25.00% | ~26 |
 | Bodied Sattva | 21.00% | ~22 |
+| Cult Following | 18.00% | ~19 |
 | Pimp My Raid | 18.00% | ~19 |
-| Cult Following | 17.00% | ~18 |
+| Lie Back and Think of Albion | 17.00% | ~18 |
 | Upgreatest | 17.00% | ~18 |
-| Lie Back and Think of Albion | 16.00% | ~16 |
 | I Look Up As I Walk to Takoshima | 16.00% | ~16 |
-| Perfect Probulator | 12.00% | ~12 |
+| Perfect Probulator | 13.00% | ~13 |
 | Freshly Squeezed | 12.00% | ~12 |
 | Die Nasty | 11.00% | ~11 |
 | Transmitting From Sol-3 | 7.00% | ~7 |
@@ -27,7 +27,7 @@ Number of Ratings: 90  (23.09.2022)
 | Fly Me to the Moon Base | 5.00% | ~5 |
 | Kaijuiced | 5.00% | ~5 |
 | Scuttled | 4.00% | ~4 |
-| Lobster Blisque | 2.00% | ~2 |
+| Lobster Blisque | 3.00% | ~3 |
 | Deincarnated | 2.00% | ~2 |
 | Yettisoned | 2.00% | ~2 |
 | Re-Return of the Clone of the Invasion II-2 | 2.00% | ~2 |
@@ -35,6 +35,7 @@ Number of Ratings: 90  (23.09.2022)
 | Ultimate Smoothie | 1.00% | ~1 |
 | Arty Facts | 1.00% | ~1 |
 | Forbidden Donut | 1.00% | ~1 |
+| The Optional Mandate | 1.00% | ~1 |
 | PK Slam Dunk | 0.00% | ~0 |
 | Gotta Catch All the Pop Art | 0.00% | ~0 |
 | This Is Earth Radio | 0.00% | ~0 |
@@ -43,7 +44,6 @@ Number of Ratings: 90  (23.09.2022)
 | Toilet Break | 0.00% | ~0 |
 | Albion Bridge Is for Falling Down | 0.00% | ~0 |
 | Ouch of Body Experience | 0.00% | ~0 |
-| The Optional Mandate | 0.00% | ~0 |
 | Higher Than the Futen Zoku | 0.00% | ~0 |
 | To Russia With Love | 0.00% | ~0 |
 | If You Know What I Mean | 0.00% | ~0 |

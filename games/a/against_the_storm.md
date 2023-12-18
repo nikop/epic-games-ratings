@@ -9,7 +9,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Abandoned Settlement | 5.00% | ~927 |
 | Overgrown Library | 5.00% | ~927 |
 | Petrified Necropolis | 5.00% | ~927 |
-| Gathering Storm | 4.00% | ~741 |
+| Gathering Storm | 4.00% | ~742 |
 | First Real Expedition | 3.00% | ~556 |
 | Taking Action | 3.00% | ~556 |
 | No Deaths | 3.00% | ~556 |
@@ -29,10 +29,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Levitating Monument | 1.00% | ~185 |
 | Monastery of the Holy Flame | 1.00% | ~185 |
 | Lost Colonies | 1.00% | ~185 |
+| Corrosive Torrent | 1.00% | ~185 |
 | Watchtower | 1.00% | ~185 |
 | A Real Challenge | 1.00% | ~185 |
 | Trade Baron | 1.00% | ~185 |
-| Corrosive Torrent | 0.90% | ~167 |
 | Cursed Lands | 0.90% | ~167 |
 | Barren Lands | 0.80% | ~148 |
 | Ancient Battleground | 0.80% | ~148 |
@@ -41,8 +41,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Sparkdew Crystals | 0.70% | ~130 |
 | Haunted Forest | 0.70% | ~130 |
 | Flooded Mines | 0.70% | ~130 |
+| Serving Ale | 0.60% | ~111 |
 | Defying the Crown | 0.60% | ~111 |
-| Serving Ale | 0.50% | ~93 |
 | Refinery | 0.50% | ~93 |
 | Fishmen Ritual Site | 0.50% | ~93 |
 | Forsaken Gods Temple | 0.50% | ~93 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,534 (Ranked 147)  
+Progressed: 18,540 (Ranked 147)  
 Completed: 39 (0.21%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,6 +308,7 @@ Completed: 39 (0.21%) (Ranked 263)
 | 2023-12-15 | 18,272 | 39 |
 | 2023-12-16 | 18,388 | 39 |
 | 2023-12-17 | 18,534 | 40 |
+| 2023-12-18 | 18,540 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 228)  
 Sum: 3,267 (Ranked 175)  

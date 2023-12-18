@@ -28,7 +28,7 @@ Rating: 4.65 (Ranked 321)
 | Series Wrap on Suit-O | 2.00% | ~495 |
 | Bathe With A Giant Nude Alien | 2.00% | ~41 |
 | We Came, We Chainsaw, We Conquered | 1.00% | ~20 |
-| Gunning For Your Job | 0.80% | ~198 |
+| Gunning For Your Job | 0.90% | ~223 |
 | Mux Ado About Shipping | 0.80% | ~16 |
 | We Paid For The Rights To Put A Whole Movie In Here | 0.70% | ~173 |
 | Sequel-Bait | 0.50% | ~124 |

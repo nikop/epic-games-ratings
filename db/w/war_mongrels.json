@@ -3,11 +3,11 @@
   "Name": "War Mongrels",
   "ProductSlug": "war-mongrels",
   "Ranking_Rating": 779,
-  "Ranking_Popularity": 564,
-  "Ranking_PopularitySum": 564,
+  "Ranking_Popularity": 565,
+  "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 673,
+  "EOS_Progressed": 674,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2325,6 +2325,11 @@
       "Time": "2023-12-17T17:10:41.6925309+00:00",
       "NumProgressed": 673,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T00:09:44.4979938+00:00",
+      "NumProgressed": 674,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2584,7 +2589,7 @@
       "Name": "Heroism",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_FIN_CH05",
@@ -2592,7 +2597,7 @@
       "Name": "Consequences",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACH_FIN_CH06",
@@ -2638,9 +2643,9 @@
       "ID": "ACH_FIN_CH11",
       "SetID": "1j25agn",
       "Name": "Sorrow",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH_FIN_CH12",
@@ -2672,7 +2677,7 @@
       "Name": "Helping Hand",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH_HIDE_BODIES",
@@ -2702,9 +2707,9 @@
       "ID": "ACH_KILL_BRAWL",
       "SetID": "1j25agn",
       "Name": "Here Comes the Boom",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 290
     },
     {
       "ID": "ACH_KILL_DOOR",
@@ -2720,7 +2725,7 @@
       "Name": "NO LIFE IS WORTH SAVING...",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "ACH_KILL_ENV",
@@ -2742,9 +2747,9 @@
       "ID": "ACH_KILL_OFFICER",
       "SetID": "1j25agn",
       "Name": "Eat Lead!",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 303
+      "UsersEstimate": 310
     },
     {
       "ID": "ACH_KILL_SAUSAGE",
@@ -2760,7 +2765,7 @@
       "Name": "Sniper Wolf",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ACH_KILL_THROW",
@@ -2807,15 +2812,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 673,
+      "Progressed": 674,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-11-28T01:45:15.549368+00:00",
-  "LastChanged_Achievements": "2023-12-17T23:10:47.7644234+00:00",
+  "LastChanged_Achievements": "2023-12-18T00:09:44.4979936+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:42.5352214+00:00",
-  "LastUpdate_Ratings": "2023-12-17T23:01:41.0231432+00:00",
-  "LastUpdate_Achievements": "2023-12-17T23:10:47.7644784+00:00"
+  "LastUpdate_Ratings": "2023-12-17T23:59:58.4223737+00:00",
+  "LastUpdate_Achievements": "2023-12-18T00:09:44.4980379+00:00"
 }

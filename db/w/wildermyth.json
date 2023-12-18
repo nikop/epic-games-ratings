@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -166,9 +166,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 1530,
+  "EOS_Progressed": 1531,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -2121,6 +2121,11 @@
       "Time": "2023-12-17T08:10:02.3478485+00:00",
       "NumProgressed": 1530,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-18T00:09:44.0277844+00:00",
+      "NumProgressed": 1531,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 56,
@@ -2148,7 +2153,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -2308,7 +2313,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "achievement_mythwalker",
@@ -2370,9 +2375,9 @@
       "ID": "completedStory_enduringWar",
       "SetID": "95dc8p",
       "Name": "War Endured",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 46
     },
     {
       "ID": "completedStory_legacy",
@@ -2434,9 +2439,9 @@
       "ID": "enduringWar_destroyCores",
       "SetID": "95dc8p",
       "Name": "Core Failure",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 46
     },
     {
       "ID": "enduringWar_destroyEnduring",
@@ -2522,9 +2527,9 @@
       "ID": "theme_skeleton_terrify10Enemies",
       "SetID": "95dc8p",
       "Name": "I\u0027m Not Smiling",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "theme_star_kill20EnemiesWithFallingStars",
@@ -2579,15 +2584,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1530,
+      "Progressed": 1531,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-11-12T17:00:17.2155611+00:00",
-  "LastChanged_Achievements": "2023-12-17T23:10:47.2713597+00:00",
+  "LastChanged_Achievements": "2023-12-18T00:09:44.0277843+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:42.9077467+00:00",
-  "LastUpdate_Ratings": "2023-12-17T23:01:42.1566727+00:00",
-  "LastUpdate_Achievements": "2023-12-17T23:10:47.2714338+00:00"
+  "LastUpdate_Ratings": "2023-12-17T23:59:59.1330252+00:00",
+  "LastUpdate_Achievements": "2023-12-18T00:09:44.027833+00:00"
 }

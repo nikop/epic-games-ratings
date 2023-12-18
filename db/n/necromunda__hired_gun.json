@@ -3,8 +3,8 @@
   "Name": "Necromunda: Hired Gun",
   "ProductSlug": "necromunda-hired-gun",
   "Ranking_Rating": 1003,
-  "Ranking_Popularity": 564,
-  "Ranking_PopularitySum": 564,
+  "Ranking_Popularity": 565,
+  "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 801,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 542,
@@ -393,5 +393,5 @@
   "LastChanged": "2023-11-30T02:59:47.3348239+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:10.7092332+00:00",
   "LastUpdate_Ratings": "2023-12-17T23:02:55.8754194+00:00",
-  "LastUpdate_Achievements": "2023-12-17T23:05:36.3821461+00:00"
+  "LastUpdate_Achievements": "2023-12-18T00:04:29.2374144+00:00"
 }

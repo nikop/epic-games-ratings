@@ -3,8 +3,8 @@
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
   "Ranking_Rating": 17,
-  "Ranking_Popularity": 564,
-  "Ranking_PopularitySum": 564,
+  "Ranking_Popularity": 565,
+  "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 205,
@@ -222,9 +222,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 1038,
+  "EOS_Progressed": 1039,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2662,6 +2662,11 @@
       "Time": "2023-12-17T22:03:42.7036796+00:00",
       "NumProgressed": 1038,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-18T00:03:45.1433032+00:00",
+      "NumProgressed": 1039,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2850,7 +2855,7 @@
       "Name": "Just One Lap",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "LordOfTheFiles",
@@ -2858,7 +2863,7 @@
       "Name": "Lord of the Files",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "LostMarshes",
@@ -2866,7 +2871,7 @@
       "Name": "Lost Marshes",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "MistressOfRiddles",
@@ -2962,7 +2967,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "RenaissanceRobot",
@@ -3074,7 +3079,7 @@
       "Name": "The Thief of Fire",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "TheWordEndures",
@@ -3090,7 +3095,7 @@
       "Name": "Touch Grass",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "TrevorsBiographer",
@@ -3145,7 +3150,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1038,
+      "Progressed": 1039,
       "Completed": 1
     }
   ],
@@ -3153,8 +3158,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-17T23:04:33.0993506+00:00",
+  "LastChanged_Achievements": "2023-12-18T00:03:45.1433029+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-17T22:58:53.8322652+00:00",
-  "LastUpdate_Achievements": "2023-12-17T23:04:33.0994029+00:00"
+  "LastUpdate_Ratings": "2023-12-17T23:58:12.655678+00:00",
+  "LastUpdate_Achievements": "2023-12-18T00:03:45.1433878+00:00"
 }

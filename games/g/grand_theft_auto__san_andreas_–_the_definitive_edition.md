@@ -5,22 +5,22 @@ Rating: 4.56 (Ranked 497)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~12,311 |
-| Pay 'n' Spray | 50.00% | ~7,600 |
-| All Dressed Up for San Fierro | 25.00% | ~3,800 |
-| The American Dream | 19.00% | ~2,888 |
-| School's Out | 18.00% | ~2,736 |
-| Smooth Moves | 17.00% | ~2,584 |
-| What happens in Las Venturas... | 15.00% | ~2,280 |
-| Today Was a Good Day | 15.00% | ~2,280 |
-| Horror of the Santa Maria | 11.00% | ~1,672 |
-| Liberty City State of Mind | 10.00% | ~1,520 |
-| The End of the Line | 8.00% | ~1,216 |
-| Original Gangster | 8.00% | ~1,216 |
-| With Extra Dip | 7.00% | ~1,064 |
-| Saviour | 6.00% | ~912 |
-| They Can’t Stop All of Us | 5.00% | ~760 |
-| Rescue a Kitten Too? | 5.00% | ~760 |
+| Getting Started | 81.00% | ~12,322 |
+| Pay 'n' Spray | 50.00% | ~7,606 |
+| All Dressed Up for San Fierro | 25.00% | ~3,803 |
+| The American Dream | 19.00% | ~2,890 |
+| School's Out | 18.00% | ~2,738 |
+| Smooth Moves | 17.00% | ~2,586 |
+| What happens in Las Venturas... | 15.00% | ~2,282 |
+| Today Was a Good Day | 15.00% | ~2,282 |
+| Horror of the Santa Maria | 11.00% | ~1,673 |
+| Liberty City State of Mind | 10.00% | ~1,521 |
+| The End of the Line | 8.00% | ~1,217 |
+| Original Gangster | 8.00% | ~1,217 |
+| With Extra Dip | 7.00% | ~1,065 |
+| Saviour | 6.00% | ~913 |
+| They Can’t Stop All of Us | 5.00% | ~761 |
+| Rescue a Kitten Too? | 5.00% | ~761 |
 | What are the Odds | 4.00% | ~608 |
 | Bike or Biker | 3.00% | ~456 |
 | What the City Needs | 3.00% | ~456 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 497)
 | ...Here we go again | 0.50% | ~76 |
 | I Ain't No Buster | 0.40% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,199 (Ranked 158)  
+Progressed: 15,212 (Ranked 158)  
 Completed: 58 (0.38%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,6 +283,7 @@ Completed: 58 (0.38%) (Ranked 229)
 | 2023-12-15 | 14,573 | 58 |
 | 2023-12-16 | 14,887 | 58 |
 | 2023-12-17 | 15,199 | 58 |
+| 2023-12-18 | 15,212 | 58 |
 ## Awards
 Max (Great Boss Battles): 451  (Ranked 224)  
 Sum: 701 (Ranked 301)  

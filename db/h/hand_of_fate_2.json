@@ -943,7 +943,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 665933,
+  "EOS_Progressed": 665934,
   "EOS_Completed": 174,
   "EOS_NewPlayers": 267,
   "EOS_NewCompleters": 1,
@@ -23798,6 +23798,11 @@
       "Time": "2023-12-17T23:09:25.1016168+00:00",
       "NumProgressed": 665933,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2023-12-18T00:08:46.0552756+00:00",
+      "NumProgressed": 665934,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 48,
@@ -23817,7 +23822,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 386241
+      "UsersEstimate": 386242
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -24073,7 +24078,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 166483
+      "UsersEstimate": 166484
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -24192,15 +24197,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 665933,
+      "Progressed": 665934,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-11-24T17:58:48.2867936+00:00",
-  "LastChanged_Achievements": "2023-12-17T23:09:25.1016166+00:00",
+  "LastChanged_Achievements": "2023-12-18T00:08:46.0552753+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:46.8226063+00:00",
-  "LastUpdate_Ratings": "2023-12-17T22:57:55.6328049+00:00",
-  "LastUpdate_Achievements": "2023-12-17T23:09:25.1017211+00:00"
+  "LastUpdate_Ratings": "2023-12-17T23:57:35.7520676+00:00",
+  "LastUpdate_Achievements": "2023-12-18T00:08:46.0554134+00:00"
 }

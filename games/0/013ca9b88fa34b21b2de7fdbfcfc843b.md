@@ -8,9 +8,9 @@ Rating: 4.61 (Ranked 392)
 | A Thorny Situation | 0.90% | ~77 |
 | Azoria Beckons | 0.80% | ~68 |
 | ... And Spit Back Out | 0.70% | ~59 |
+| Calm Sailing | 0.60% | ~51 |
 | Break-Net Speed | 0.60% | ~51 |
 | Bramble Breaker | 0.60% | ~51 |
-| Calm Sailing | 0.50% | ~42 |
 | Open the Gate! | 0.50% | ~42 |
 | Miner 49er | 0.50% | ~42 |
 | Clear the Air | 0.40% | ~34 |

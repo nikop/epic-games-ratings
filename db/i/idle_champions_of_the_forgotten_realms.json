@@ -8833,9 +8833,9 @@
       "Count": 3578
     }
   ],
-  "EOS_Progressed": 241554,
+  "EOS_Progressed": 241563,
   "EOS_Completed": 2539,
-  "EOS_NewPlayers": 2220,
+  "EOS_NewPlayers": 2226,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -36068,6 +36068,11 @@
       "Time": "2023-12-17T23:10:52.9852511+00:00",
       "NumProgressed": 241554,
       "NumCompleted": 2539
+    },
+    {
+      "Time": "2023-12-18T00:09:48.7503951+00:00",
+      "NumProgressed": 241563,
+      "NumCompleted": 2539
     }
   ],
   "TotalAchievements": 546,
@@ -40375,7 +40380,7 @@
       "Name": "Misaligned in Sigil",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "objective_completed_1562",
@@ -40391,7 +40396,7 @@
       "Name": "Chaos Theory",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "objective_completed_598",
@@ -40399,7 +40404,7 @@
       "Name": "The Overgrown Grove",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "objective_completed_673",
@@ -40423,7 +40428,7 @@
       "Name": "Mental Gymnastics",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "objective_completed_860",
@@ -40446,21 +40451,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 207828,
+      "Progressed": 207837,
       "Completed": 4027
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 241554,
+      "Progressed": 241563,
       "Completed": 2539
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-17T23:00:21.7952907+00:00",
-  "LastChanged_Achievements": "2023-12-17T23:10:52.9852509+00:00",
+  "LastChanged_Achievements": "2023-12-18T00:09:48.750395+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:52.1318001+00:00",
-  "LastUpdate_Ratings": "2023-12-17T23:00:21.7952914+00:00",
-  "LastUpdate_Achievements": "2023-12-17T23:10:52.9877476+00:00"
+  "LastUpdate_Ratings": "2023-12-17T23:59:08.5740191+00:00",
+  "LastUpdate_Achievements": "2023-12-18T00:09:48.7526129+00:00"
 }

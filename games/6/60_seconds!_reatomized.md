@@ -5,27 +5,27 @@ Rating: 4.54 (Ranked 534)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 94.00% | ~5,473 |
-| I will survive! | 93.00% | ~5,414 |
-| All thumbs | 92.00% | ~5,356 |
-| Home, sweet home | 91.00% | ~5,298 |
-| Survivalist | 90.00% | ~5,240 |
-| One way ticket | 85.00% | ~4,949 |
+| Prepper | 94.00% | ~5,474 |
+| I will survive! | 93.00% | ~5,415 |
+| All thumbs | 92.00% | ~5,357 |
+| Home, sweet home | 91.00% | ~5,299 |
+| Survivalist | 90.00% | ~5,241 |
+| One way ticket | 85.00% | ~4,950 |
 | Last man standing | 80.00% | ~4,658 |
-| Family guy | 77.00% | ~4,483 |
+| Family guy | 77.00% | ~4,484 |
 | Out of the Bag | 76.00% | ~4,425 |
 | The Dark Side | 71.00% | ~4,134 |
 | Duck and cover! | 66.00% | ~3,843 |
-| Souper! | 65.00% | ~3,784 |
-| Pacifist | 60.00% | ~3,493 |
-| 2-1-6 | 59.00% | ~3,435 |
+| Souper! | 65.00% | ~3,785 |
+| Pacifist | 60.00% | ~3,494 |
+| 2-1-6 | 59.00% | ~3,436 |
 | A gift | 54.00% | ~3,144 |
 | Girl Power | 49.00% | ~2,853 |
 | What goes around... | 45.00% | ~2,620 |
-| Be Prepared | 38.00% | ~2,212 |
-| Unbreakable | 37.00% | ~2,154 |
-| Gotta get 'em all | 34.00% | ~1,979 |
-| This is the end | 34.00% | ~1,979 |
+| Be Prepared | 38.00% | ~2,213 |
+| Unbreakable | 37.00% | ~2,155 |
+| Gotta get 'em all | 34.00% | ~1,980 |
+| This is the end | 34.00% | ~1,980 |
 | Atomic drill | 32.00% | ~1,863 |
 | Disco Roach | 28.00% | ~1,630 |
 | Dawkins Residence | 22.00% | ~1,281 |
@@ -66,7 +66,7 @@ Rating: 4.54 (Ranked 534)
 | Tora! Tora! Tora! | 0.20% | ~12 |
 | Dead Hand | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,822 (Ranked 189)  
+Progressed: 5,823 (Ranked 189)  
 Completed: 1 (0.02%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,6 +308,7 @@ Completed: 1 (0.02%) (Ranked 348)
 | 2023-12-15 | 5,790 | 1 |
 | 2023-12-16 | 5,807 | 1 |
 | 2023-12-17 | 5,822 | 1 |
+| 2023-12-18 | 5,823 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -3,11 +3,11 @@
   "Name": "Tchia",
   "ProductSlug": "tchia",
   "Ranking_Rating": 200,
-  "Ranking_Popularity": 564,
-  "Ranking_PopularitySum": 564,
+  "Ranking_Popularity": 565,
+  "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -257,9 +257,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8082,
+  "EOS_Progressed": 8084,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -9352,6 +9352,11 @@
       "Time": "2023-12-17T23:05:07.2131933+00:00",
       "NumProgressed": 8082,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-18T00:04:08.9571551+00:00",
+      "NumProgressed": 8084,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -9419,7 +9424,7 @@
       "Name": "Fashion Faux-Pas",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "FASHION_VICTIM",
@@ -9427,7 +9432,7 @@
       "Name": "Fashion Victim",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "GLOBE_TROTTER",
@@ -9467,7 +9472,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1697
+      "UsersEstimate": 1698
     },
     {
       "ID": "LIBERATOR",
@@ -9515,7 +9520,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "THING",
@@ -9530,7 +9535,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 8082,
+      "Progressed": 8084,
       "Completed": 34
     }
   ],
@@ -9538,8 +9543,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-12-17T08:57:44.8415466+00:00",
-  "LastChanged_Achievements": "2023-12-17T23:05:07.2131929+00:00",
+  "LastChanged_Achievements": "2023-12-18T00:04:08.957155+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:46.5620941+00:00",
-  "LastUpdate_Ratings": "2023-12-17T22:57:40.2042269+00:00",
-  "LastUpdate_Achievements": "2023-12-17T23:05:07.21328+00:00"
+  "LastUpdate_Ratings": "2023-12-17T23:57:25.549266+00:00",
+  "LastUpdate_Achievements": "2023-12-18T00:04:08.9572+00:00"
 }

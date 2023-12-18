@@ -4,7 +4,7 @@
   "ProductSlug": "kaze-and-the-wild-masks-94a27d",
   "Ranking_EOS_Progress": 592,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 423,
+  "Ranking_EOS_NewPlayers": 424,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-11-30T08:00:00+00:00",
@@ -225,9 +225,9 @@
       "ID": "20",
       "SetID": "279eo25",
       "Name": "Out of sight, Out of mind",
-      "Percentage": 30,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "21",
@@ -305,9 +305,9 @@
       "ID": "7",
       "SetID": "279eo25",
       "Name": "Green Island",
-      "Percentage": 30,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "8",
@@ -336,8 +336,8 @@
   ],
   "FirstSeen": "2023-12-03T09:57:17.9885642+00:00",
   "FirstSeenAchievements": "2023-11-20T15:03:30.7239426+00:00",
-  "LastChanged_Achievements": "2023-12-17T23:09:38.7273628+00:00",
+  "LastChanged_Achievements": "2023-12-18T00:08:55.7009403+00:00",
   "LastUpdate_AppInfo": "2023-12-11T16:57:10.5624045+00:00",
-  "LastUpdate_Ratings": "2023-12-17T22:58:20.3032348+00:00",
-  "LastUpdate_Achievements": "2023-12-17T23:09:38.7273781+00:00"
+  "LastUpdate_Ratings": "2023-12-17T23:57:50.915526+00:00",
+  "LastUpdate_Achievements": "2023-12-18T00:08:55.7009573+00:00"
 }

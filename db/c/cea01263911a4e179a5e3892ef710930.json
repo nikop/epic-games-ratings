@@ -3,8 +3,8 @@
   "Name": "Dodo Peak",
   "ProductSlug": "dodo-peak-159276",
   "Ranking_Rating": 1025,
-  "Ranking_Popularity": 564,
-  "Ranking_PopularitySum": 564,
+  "Ranking_Popularity": 565,
+  "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 120,
@@ -221,9 +221,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 89885,
+  "EOS_Progressed": 89887,
   "EOS_Completed": 306,
-  "EOS_NewPlayers": 676,
+  "EOS_NewPlayers": 671,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -14661,6 +14661,11 @@
       "Time": "2023-12-17T23:04:54.4762532+00:00",
       "NumProgressed": 89885,
       "NumCompleted": 306
+    },
+    {
+      "Time": "2023-12-18T00:04:00.0743525+00:00",
+      "NumProgressed": 89887,
+      "NumCompleted": 306
     }
   ],
   "AchievementsAdded": "2023-08-03T06:01:19.3820028+00:00",
@@ -14673,7 +14678,7 @@
       "Name": "Welcome to Dodo Peak",
       "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 71908
+      "UsersEstimate": 71910
     },
     {
       "ID": "grp_beet",
@@ -14689,7 +14694,7 @@
       "Name": "Two month\u0027s rent",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 69211
+      "UsersEstimate": 69213
     },
     {
       "ID": "grp_endless",
@@ -14713,7 +14718,7 @@
       "Name": "Play Free Bird",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 22471
+      "UsersEstimate": 22472
     },
     {
       "ID": "grp_level10",
@@ -14761,7 +14766,7 @@
       "Name": "Investing in BirdCoin",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 48538
+      "UsersEstimate": 48539
     },
     {
       "ID": "grp_money_tree",
@@ -14769,7 +14774,7 @@
       "Name": "Money doesn\u0027t grow on trees",
       "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 66515
+      "UsersEstimate": 66516
     },
     {
       "ID": "grp_speed",
@@ -14777,7 +14782,7 @@
       "Name": "As the dodo flies",
       "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 42246
+      "UsersEstimate": 42247
     },
     {
       "ID": "grp_stone",
@@ -14785,7 +14790,7 @@
       "Name": "Killing one stone with two birds",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 9887
+      "UsersEstimate": 9888
     },
     {
       "ID": "grp_store_ftux",
@@ -14808,7 +14813,7 @@
     {
       "ID": "2gd32f",
       "IsBase": true,
-      "Progressed": 89885,
+      "Progressed": 89887,
       "Completed": 306
     }
   ],
@@ -14816,8 +14821,8 @@
   "FirstSeenRating": "2023-08-27T07:59:18.2658043+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
   "LastChanged": "2023-12-16T14:00:50.6822682+00:00",
-  "LastChanged_Achievements": "2023-12-17T23:04:54.4762529+00:00",
+  "LastChanged_Achievements": "2023-12-18T00:04:00.0743523+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:08.8356638+00:00",
-  "LastUpdate_Ratings": "2023-12-17T22:57:51.1200282+00:00",
-  "LastUpdate_Achievements": "2023-12-17T23:04:54.4764122+00:00"
+  "LastUpdate_Ratings": "2023-12-17T23:57:32.8900394+00:00",
+  "LastUpdate_Achievements": "2023-12-18T00:04:00.0744094+00:00"
 }

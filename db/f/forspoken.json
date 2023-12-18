@@ -3,11 +3,11 @@
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
   "Ranking_Rating": 964,
-  "Ranking_Popularity": 564,
-  "Ranking_PopularitySum": 564,
+  "Ranking_Popularity": 565,
+  "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -498,9 +498,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 44267,
+  "EOS_Progressed": 44274,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 746,
+  "EOS_NewPlayers": 752,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15483,6 +15483,11 @@
       "Time": "2023-12-17T23:09:04.1353229+00:00",
       "NumProgressed": 44267,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-18T00:08:31.3592582+00:00",
+      "NumProgressed": 44274,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -15654,7 +15659,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2213
+      "UsersEstimate": 2214
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -15710,7 +15715,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2213
+      "UsersEstimate": 2214
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -15750,7 +15755,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2213
+      "UsersEstimate": 2214
     },
     {
       "ID": "MAGIC_IVY",
@@ -15830,7 +15835,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3984
+      "UsersEstimate": 3985
     },
     {
       "ID": "SPRING_ALL",
@@ -15917,22 +15922,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 44267,
+      "Progressed": 44274,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 9104,
-      "Completed": 9104
+      "Progressed": 9111,
+      "Completed": 9111
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-17T13:59:35.4745541+00:00",
-  "LastChanged_Achievements": "2023-12-17T23:09:04.1353226+00:00",
+  "LastChanged_Achievements": "2023-12-18T00:08:31.359258+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:26.7354097+00:00",
-  "LastUpdate_Ratings": "2023-12-17T22:59:46.0496357+00:00",
-  "LastUpdate_Achievements": "2023-12-17T23:09:04.135491+00:00"
+  "LastUpdate_Ratings": "2023-12-17T23:58:45.4526149+00:00",
+  "LastUpdate_Achievements": "2023-12-18T00:08:31.359366+00:00"
 }

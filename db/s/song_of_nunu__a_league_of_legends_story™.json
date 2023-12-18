@@ -3,8 +3,8 @@
   "Name": "Song of Nunu: A League of Legends Story",
   "ProductSlug": "song-of-nunu-a-league-of-legends-story",
   "Ranking_Rating": 699,
-  "Ranking_Popularity": 564,
-  "Ranking_PopularitySum": 564,
+  "Ranking_Popularity": 565,
+  "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 214,
@@ -2946,9 +2946,9 @@
       "ID": "EV_ACH06",
       "SetID": "6jeac23",
       "Name": "A Tragic Reminder",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 531
+      "UsersEstimate": 543
     },
     {
       "ID": "EV_ACH07",
@@ -3002,9 +3002,9 @@
       "ID": "EV_ACH13",
       "SetID": "6jeac23",
       "Name": "It Is Not Over",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 90,
-      "UsersEstimate": 422
+      "UsersEstimate": 434
     },
     {
       "ID": "EV_ACH14",
@@ -3050,9 +3050,9 @@
       "ID": "EV_ACH19",
       "SetID": "6jeac23",
       "Name": "On The Rocks",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 410
+      "UsersEstimate": 422
     },
     {
       "ID": "EV_ACH20",
@@ -3267,8 +3267,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-17T18:59:03.6599312+00:00",
-  "LastChanged_Achievements": "2023-12-17T23:10:47.448971+00:00",
+  "LastChanged_Achievements": "2023-12-18T00:09:44.252647+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:41.6283728+00:00",
-  "LastUpdate_Ratings": "2023-12-17T22:59:54.431205+00:00",
-  "LastUpdate_Achievements": "2023-12-17T23:10:47.4490186+00:00"
+  "LastUpdate_Ratings": "2023-12-17T23:58:51.5647074+00:00",
+  "LastUpdate_Achievements": "2023-12-18T00:09:44.252689+00:00"
 }

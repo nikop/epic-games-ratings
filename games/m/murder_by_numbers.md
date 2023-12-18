@@ -2,6 +2,13 @@
 [Store](https://store.epicgames.com/en-US/p/murder-by-numbers)  
 [View Rawdata](../../db/m/murder_by_numbers.json)  
 Rating: 4.28 (Ranked 869)  
+## Awards
+Max (Extremely Fun): 20  (Ranked 560)  
+Sum: 20 (Ranked 562)  
+Diff (max vs sum): -2  
+| Award | Count |
+| ----- | ----- |
+| This game is Extremely Fun | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -49,3 +56,4 @@ Rating: 4.28 (Ranked 869)
 | 2023-11-16 | 4.28 | 0 | 0 |
 | 2023-12-02 | 4.29 | 0 | 0 |
 | 2023-12-12 | 4.28 | 0 | 0 |
+| 2023-12-17 | 4.28 | 20 | 20 |

@@ -3485,9 +3485,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18534,
+  "EOS_Progressed": 18540,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 626,
+  "EOS_NewPlayers": 629,
   "EOS_NewCompleters": -2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16120,6 +16120,11 @@
       "Time": "2023-12-17T23:06:10.7431107+00:00",
       "NumProgressed": 18534,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-18T00:04:53.2738706+00:00",
+      "NumProgressed": 18540,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16130,9 +16135,9 @@
       "ID": "AleChain",
       "SetID": "cfbk359",
       "Name": "Serving Ale",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 111
     },
     {
       "ID": "AllFood",
@@ -16378,9 +16383,9 @@
       "ID": "WinNearTorrent",
       "SetID": "cfbk359",
       "Name": "Corrosive Torrent",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 185
     },
     {
       "ID": "WinNearWatchtower",
@@ -16580,7 +16585,7 @@
       "Name": "Gathering Storm",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -16603,15 +16608,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18534,
+      "Progressed": 18540,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-17T16:58:16.5971694+00:00",
-  "LastChanged_Achievements": "2023-12-17T23:06:10.7431105+00:00",
+  "LastChanged_Achievements": "2023-12-18T00:04:53.2738705+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
-  "LastUpdate_Ratings": "2023-12-17T22:58:22.7234646+00:00",
-  "LastUpdate_Achievements": "2023-12-17T23:06:10.7432337+00:00"
+  "LastUpdate_Ratings": "2023-12-17T23:57:52.641444+00:00",
+  "LastUpdate_Achievements": "2023-12-18T00:04:53.2739504+00:00"
 }

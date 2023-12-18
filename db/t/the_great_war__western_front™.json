@@ -3,8 +3,8 @@
   "Name": "The Great War: Western Front\u2122",
   "ProductSlug": "the-great-war-western-front",
   "Ranking_Rating": 1007,
-  "Ranking_Popularity": 564,
-  "Ranking_PopularitySum": 564,
+  "Ranking_Popularity": 565,
+  "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 221,
@@ -73,9 +73,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 666,
+  "EOS_Progressed": 667,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2963,6 +2963,11 @@
       "Time": "2023-12-17T23:05:37.7367654+00:00",
       "NumProgressed": 666,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T00:04:30.039679+00:00",
+      "NumProgressed": 667,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -2980,7 +2985,7 @@
       "ID": "COMPLETE_ALL_HISTORIC BATTLES",
       "SetID": "6kcl14p",
       "Name": "A Student of History",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 80,
       "UsersEstimate": 5
     },
@@ -3012,7 +3017,7 @@
       "ID": "DESTROY_100_EMPLACEMENTS_WITH_BOMBERS",
       "SetID": "6kcl14p",
       "Name": "Bombs Away!",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 60,
       "UsersEstimate": 1
     },
@@ -3069,7 +3074,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 666,
+      "Progressed": 667,
       "Completed": 0
     }
   ],
@@ -3077,8 +3082,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-11-20T01:47:16.6107096+00:00",
-  "LastChanged_Achievements": "2023-12-17T23:05:37.7367652+00:00",
+  "LastChanged_Achievements": "2023-12-18T00:04:30.0396787+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:01.8922403+00:00",
-  "LastUpdate_Ratings": "2023-12-17T23:00:52.4607878+00:00",
-  "LastUpdate_Achievements": "2023-12-17T23:05:37.7367972+00:00"
+  "LastUpdate_Ratings": "2023-12-17T23:59:28.0870495+00:00",
+  "LastUpdate_Achievements": "2023-12-18T00:04:30.0396991+00:00"
 }

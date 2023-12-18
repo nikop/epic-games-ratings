@@ -26,8 +26,8 @@ Rating: 4.33 (Ranked 825)
 | Teamwork Rules | 0.70% | ~408 |
 | Beaten By A Little Girl | 0.60% | ~350 |
 | Totally Bummed Again | 0.60% | ~350 |
-| I Can't Believe I've Done This | 0.50% | ~291 |
-| Piece O' Cake | 0.50% | ~291 |
+| I Can't Believe I've Done This | 0.50% | ~292 |
+| Piece O' Cake | 0.50% | ~292 |
 | Boom Box Baby | 0.40% | ~233 |
 | Flying Present Ultimate Master | 0.40% | ~233 |
 | Ridiculously Generous | 0.40% | ~233 |
@@ -55,7 +55,7 @@ Rating: 4.33 (Ranked 825)
 | Why Do I Keep Doing That? | 0.10% | ~58 |
 | Hey, You Did It! | 0.10% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,299 (Ranked 111)  
+Progressed: 58,301 (Ranked 111)  
 Completed: 6 (0.01%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,6 +297,7 @@ Completed: 6 (0.01%) (Ranked 356)
 | 2023-12-15 | 58,252 | 6 |
 | 2023-12-16 | 58,281 | 6 |
 | 2023-12-17 | 58,299 | 6 |
+| 2023-12-18 | 58,301 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
