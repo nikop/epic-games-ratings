@@ -39,13 +39,13 @@ Number of Ratings: 45  (23.09.2022)
 | In Soil, In Smoke | 0.50% | ~8 |
 | All My Birds, Safely Home | 0.50% | ~8 |
 | Wingknight's Prowess | 0.40% | ~6 |
+| Bears are Scary | 0.40% | ~6 |
 | Grillmaster | 0.40% | ~6 |
 | Tempest | 0.40% | ~6 |
 | Lochias's Hunger | 0.40% | ~6 |
 | We Emerge Changed | 0.30% | ~5 |
 | Worldwalker | 0.30% | ~5 |
 | No More Nightmares | 0.30% | ~5 |
-| Bears are Scary | 0.30% | ~5 |
 | Fight Like a Bird | 0.30% | ~5 |
 | Into Mulch | 0.30% | ~5 |
 | I'm Not Smiling | 0.30% | ~5 |
@@ -64,7 +64,7 @@ Number of Ratings: 45  (23.09.2022)
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,531 (Ranked 246)  
-Completed: 6 (0.39%) (Ranked 228)  
+Completed: 6 (0.39%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

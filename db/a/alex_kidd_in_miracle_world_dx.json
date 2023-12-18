@@ -4,7 +4,7 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 355,
+  "EOS_Progressed": 356,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.13,
+  "EOS_Completed_Percentage": 1.12,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:09.0192053+00:00",
@@ -634,6 +634,11 @@
       "Time": "2023-12-18T01:54:50.0291701+00:00",
       "NumProgressed": 355,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-18T02:29:17.575198+00:00",
+      "NumProgressed": 356,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -677,7 +682,7 @@
       "Name": "Second Commander",
       "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "EGLE_FREED",
@@ -693,7 +698,7 @@
       "Name": "First Commander",
       "Percentage": 19,
       "XP": 60,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "GRIZZLY_DEFEATED",
@@ -772,7 +777,7 @@
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 355,
+      "Progressed": 356,
       "Completed": 4
     }
   ],
@@ -780,8 +785,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-12-18T01:54:50.0291698+00:00",
+  "LastChanged_Achievements": "2023-12-18T02:29:17.5751976+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:47.260114+00:00",
-  "LastUpdate_Ratings": "2023-12-18T01:48:12.2761301+00:00",
-  "LastUpdate_Achievements": "2023-12-18T01:54:50.0291815+00:00"
+  "LastUpdate_Ratings": "2023-12-18T02:22:44.4776001+00:00",
+  "LastUpdate_Achievements": "2023-12-18T02:29:17.5752122+00:00"
 }

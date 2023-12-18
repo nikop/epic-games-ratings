@@ -5647,10 +5647,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 7190,
       "NumberOfAwardsMax": 2917
+    },
+    {
+      "Time": "2023-12-18T02:27:00.9798275+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 7200,
+      "NumberOfAwardsMax": 2917
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7190,
+  "NumberOfAwards": 7200,
   "NumberOfAwardsMax": 2917,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5664,7 +5670,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 454
+      "Count": 460
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5700,7 +5706,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 319
+      "Count": 323
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5721,9 +5727,9 @@
       "Count": 437
     }
   ],
-  "EOS_Progressed": 252288,
+  "EOS_Progressed": 252318,
   "EOS_Completed": 598,
-  "EOS_NewPlayers": 13998,
+  "EOS_NewPlayers": 14020,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -23521,6 +23527,11 @@
       "Time": "2023-12-18T01:57:46.758156+00:00",
       "NumProgressed": 252288,
       "NumCompleted": 598
+    },
+    {
+      "Time": "2023-12-18T02:33:02.5342695+00:00",
+      "NumProgressed": 252318,
+      "NumCompleted": 598
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -23533,7 +23544,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7569
+      "UsersEstimate": 7570
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -23549,7 +23560,7 @@
       "Name": "Am I Seeing This?",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 2018
+      "UsersEstimate": 2019
     },
     {
       "ID": "Defeat_Abberations_B",
@@ -23589,7 +23600,7 @@
       "Name": "Traitor",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 2018
+      "UsersEstimate": 2019
     },
     {
       "ID": "Defeat_Final_Boss",
@@ -23613,7 +23624,7 @@
       "Name": "The Killing Jar",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12614
+      "UsersEstimate": 12616
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -23645,7 +23656,7 @@
       "Name": "Madman\u0027s Paradise",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 2018
+      "UsersEstimate": 2019
     },
     {
       "ID": "Defeat_World_Boss",
@@ -23717,7 +23728,7 @@
       "Name": "First of Many",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10092
+      "UsersEstimate": 10093
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -23789,7 +23800,7 @@
       "Name": "Edgelord",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "Obtain_Melee_Weapons_B",
@@ -23805,7 +23816,7 @@
       "Name": "The Web",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 2018
+      "UsersEstimate": 2019
     },
     {
       "ID": "Obtain_Relics",
@@ -23821,7 +23832,7 @@
       "Name": "Scrap Collector",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 2018
+      "UsersEstimate": 2019
     },
     {
       "ID": "Obtain_Scrap_B",
@@ -23837,7 +23848,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7569
+      "UsersEstimate": 7570
     },
     {
       "ID": "Obtain_Traits_B",
@@ -23861,7 +23872,7 @@
       "Name": "Carnage in C-Minor",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "Upgrade_Boss_Weapon_A",
@@ -23925,7 +23936,7 @@
       "Name": "Transmutate",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "DLC1_Defeat_OneTrueKing",
@@ -23972,22 +23983,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 252288,
+      "Progressed": 252318,
       "Completed": 598
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 31453,
+      "Progressed": 31483,
       "Completed": 274
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-12-18T01:51:36.5296962+00:00",
-  "LastChanged_Achievements": "2023-12-18T01:57:46.7581557+00:00",
+  "LastChanged": "2023-12-18T02:27:00.9798274+00:00",
+  "LastChanged_Achievements": "2023-12-18T02:33:02.5342692+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:50:01.3962237+00:00",
-  "LastUpdate_Ratings": "2023-12-18T01:51:36.5296969+00:00",
-  "LastUpdate_Achievements": "2023-12-18T01:57:46.7582607+00:00"
+  "LastUpdate_Ratings": "2023-12-18T02:27:00.9798279+00:00",
+  "LastUpdate_Achievements": "2023-12-18T02:33:02.5343675+00:00"
 }

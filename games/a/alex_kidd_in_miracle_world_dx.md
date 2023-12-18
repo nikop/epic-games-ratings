@@ -8,9 +8,9 @@
 | Magic Ball | 33.00% | ~117 |
 | Assailants | 25.00% | ~89 |
 | Prisoner | 22.00% | ~78 |
-| First Commander | 19.00% | ~67 |
+| First Commander | 19.00% | ~68 |
 | Adventurer | 18.00% | ~64 |
-| Second Commander | 17.00% | ~60 |
+| Second Commander | 17.00% | ~61 |
 | Third Commander | 15.00% | ~53 |
 | Pacifist | 11.00% | ~39 |
 | Janken The Great | 10.00% | ~36 |
@@ -21,8 +21,8 @@
 | Collector | 1.00% | ~4 |
 | Champion | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 355 (Ranked 352)  
-Completed: 4 (1.13%) (Ranked 164)  
+Progressed: 356 (Ranked 352)  
+Completed: 4 (1.12%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -104,7 +104,7 @@ Completed: 4 (1.13%) (Ranked 164)
 | 2023-12-15 | 343 | 4 |
 | 2023-12-16 | 347 | 4 |
 | 2023-12-17 | 353 | 4 |
-| 2023-12-18 | 355 | 4 |
+| 2023-12-18 | 356 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 298,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10359,
+  "EOS_Progressed": 10360,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2062,6 +2062,11 @@
       "Time": "2023-12-17T15:06:19.8805161+00:00",
       "NumProgressed": 10359,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-18T02:29:54.5374808+00:00",
+      "NumProgressed": 10360,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 43,
@@ -2121,7 +2126,7 @@
       "Name": "car wash",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1657
+      "UsersEstimate": 1658
     },
     {
       "ID": "ACH_COLLECTIBLES_FINLAND",
@@ -2233,7 +2238,7 @@
       "Name": "keep it tidy",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 8080
+      "UsersEstimate": 8081
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -2297,7 +2302,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9945
+      "UsersEstimate": 9946
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -2305,7 +2310,7 @@
       "Name": "maximum attack",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1139
+      "UsersEstimate": 1140
     },
     {
       "ID": "ACH_MAX_SPEED_MEDIUM",
@@ -2313,7 +2318,7 @@
       "Name": "medium attack",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 6215
+      "UsersEstimate": 6216
     },
     {
       "ID": "ACH_NIGHT",
@@ -2409,22 +2414,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7458
+      "UsersEstimate": 7459
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10359,
+      "Progressed": 10360,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-12-18T01:55:42.6234584+00:00",
+  "LastChanged_Achievements": "2023-12-18T02:29:54.5374802+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:05.192967+00:00",
-  "LastUpdate_Ratings": "2023-12-18T01:47:06.1389368+00:00",
-  "LastUpdate_Achievements": "2023-12-18T01:55:42.6234875+00:00"
+  "LastUpdate_Ratings": "2023-12-18T02:21:59.6831284+00:00",
+  "LastUpdate_Achievements": "2023-12-18T02:29:54.5375302+00:00"
 }

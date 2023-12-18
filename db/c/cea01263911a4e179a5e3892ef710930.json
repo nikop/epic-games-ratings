@@ -221,7 +221,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 89897,
+  "EOS_Progressed": 89898,
   "EOS_Completed": 306,
   "EOS_NewPlayers": 674,
   "EOS_NewCompleters": 3,
@@ -14671,6 +14671,11 @@
       "Time": "2023-12-18T01:52:46.396807+00:00",
       "NumProgressed": 89897,
       "NumCompleted": 306
+    },
+    {
+      "Time": "2023-12-18T02:27:50.1532755+00:00",
+      "NumProgressed": 89898,
+      "NumCompleted": 306
     }
   ],
   "AchievementsAdded": "2023-08-03T06:01:19.3820028+00:00",
@@ -14691,7 +14696,7 @@
       "Name": "The early bird gets the beet",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 18878
+      "UsersEstimate": 18879
     },
     {
       "ID": "grp_collect_ruby",
@@ -14771,7 +14776,7 @@
       "Name": "Investing in BirdCoin",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 48544
+      "UsersEstimate": 48545
     },
     {
       "ID": "grp_money_tree",
@@ -14779,7 +14784,7 @@
       "Name": "Money doesn\u0027t grow on trees",
       "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 66524
+      "UsersEstimate": 66525
     },
     {
       "ID": "grp_speed",
@@ -14818,7 +14823,7 @@
     {
       "ID": "2gd32f",
       "IsBase": true,
-      "Progressed": 89897,
+      "Progressed": 89898,
       "Completed": 306
     }
   ],
@@ -14826,8 +14831,8 @@
   "FirstSeenRating": "2023-08-27T07:59:18.2658043+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
   "LastChanged": "2023-12-16T14:00:50.6822682+00:00",
-  "LastChanged_Achievements": "2023-12-18T01:52:46.3968066+00:00",
+  "LastChanged_Achievements": "2023-12-18T02:27:50.153275+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:08.8356638+00:00",
-  "LastUpdate_Ratings": "2023-12-18T01:45:56.8337012+00:00",
-  "LastUpdate_Achievements": "2023-12-18T01:52:46.3968857+00:00"
+  "LastUpdate_Ratings": "2023-12-18T02:21:12.4791594+00:00",
+  "LastUpdate_Achievements": "2023-12-18T02:27:50.1533749+00:00"
 }

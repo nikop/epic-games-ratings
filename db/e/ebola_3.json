@@ -2,9 +2,9 @@
   "ID": "929e7d2e310b44a0a2af387a803a8ec1",
   "Name": "EBOLA 3",
   "ProductSlug": "ebola-3-2c79e9",
-  "Ranking_EOS_Progress": 374,
+  "Ranking_EOS_Progress": 373,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 466,
+  "Ranking_EOS_NewPlayers": 439,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 288,
+  "EOS_Progressed": 289,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1236,6 +1236,11 @@
       "Time": "2023-12-17T08:10:01.6315657+00:00",
       "NumProgressed": 288,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T02:33:37.2257717+00:00",
+      "NumProgressed": 289,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -1271,7 +1276,7 @@
       "Name": "Inventory \u2714",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "achBett",
@@ -1311,7 +1316,7 @@
       "Name": "Chest \u2714",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "achCity",
@@ -1447,7 +1452,7 @@
       "Name": "Fright \u2714",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "achLizun",
@@ -1613,9 +1618,9 @@
       "ID": "achVitali",
       "SetID": "72gjli4",
       "Name": "Broadcasting \u2714",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "achWater",
@@ -1646,7 +1651,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 288,
+      "Progressed": 289,
       "Completed": 0
     }
   ],
@@ -1654,8 +1659,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-12-18T01:58:35.0390003+00:00",
+  "LastChanged_Achievements": "2023-12-18T02:33:37.2257713+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:04.7149129+00:00",
-  "LastUpdate_Ratings": "2023-12-18T01:49:04.8418408+00:00",
-  "LastUpdate_Achievements": "2023-12-18T01:58:35.0390329+00:00"
+  "LastUpdate_Ratings": "2023-12-18T02:23:19.9371104+00:00",
+  "LastUpdate_Achievements": "2023-12-18T02:33:37.225818+00:00"
 }

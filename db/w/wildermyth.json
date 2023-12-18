@@ -6,7 +6,7 @@
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 246,
-  "Ranking_EOS_Completed": 228,
+  "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 352,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
@@ -2463,9 +2463,9 @@
       "ID": "theme_bear_kill2EnemiesSimultaneously",
       "SetID": "95dc8p",
       "Name": "Bears are Scary",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "theme_crow_blind20Enemies",
@@ -2591,8 +2591,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-11-12T17:00:17.2155611+00:00",
-  "LastChanged_Achievements": "2023-12-18T01:58:35.9766876+00:00",
+  "LastChanged_Achievements": "2023-12-18T02:33:38.0128409+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:42.9077467+00:00",
-  "LastUpdate_Ratings": "2023-12-18T01:49:43.8979928+00:00",
-  "LastUpdate_Achievements": "2023-12-18T01:58:35.9767291+00:00"
+  "LastUpdate_Ratings": "2023-12-18T02:23:46.8847868+00:00",
+  "LastUpdate_Achievements": "2023-12-18T02:33:38.0128912+00:00"
 }

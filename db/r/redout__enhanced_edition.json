@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 237350,
+  "EOS_Progressed": 237351,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 351,
+  "EOS_NewPlayers": 349,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -25622,6 +25622,11 @@
       "Time": "2023-12-18T01:55:21.4870369+00:00",
       "NumProgressed": 237350,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-18T02:29:40.0933922+00:00",
+      "NumProgressed": 237351,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -25665,7 +25670,7 @@
       "Name": "CHALLENGER",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 26108
+      "UsersEstimate": 26109
     },
     {
       "ID": "CHALLENGETHEWORLD",
@@ -25673,7 +25678,7 @@
       "Name": "CHALLENGE THE WORLD",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 16614
+      "UsersEstimate": 16615
     },
     {
       "ID": "DRAGOON",
@@ -25713,7 +25718,7 @@
       "Name": "GILA",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7120
+      "UsersEstimate": 7121
     },
     {
       "ID": "GT9STRADALE",
@@ -25801,7 +25806,7 @@
       "Name": "PHOTOFINISH",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 16614
+      "UsersEstimate": 16615
     },
     {
       "ID": "PILEUPTROPHIES",
@@ -25904,15 +25909,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 237350,
+      "Progressed": 237351,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-12-18T01:55:21.4870366+00:00",
+  "LastChanged_Achievements": "2023-12-18T02:29:40.0933918+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:19.1296374+00:00",
-  "LastUpdate_Ratings": "2023-12-18T01:46:10.7156616+00:00",
-  "LastUpdate_Achievements": "2023-12-18T01:55:21.4871419+00:00"
+  "LastUpdate_Ratings": "2023-12-18T02:21:22.0541276+00:00",
+  "LastUpdate_Achievements": "2023-12-18T02:29:40.0935727+00:00"
 }

@@ -6,8 +6,8 @@ Rating: 4.62 (Ranked 370)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 37.00% | ~378 |
-| Rail Rat | 29.00% | ~296 |
 | The Mysterious Stranger | 28.00% | ~286 |
+| Rail Rat | 28.00% | ~286 |
 | Immaculate Aim | 24.00% | ~245 |
 | Make Up For Lost Time | 23.00% | ~235 |
 | Time Flies | 23.00% | ~235 |
@@ -19,8 +19,8 @@ Rating: 4.62 (Ranked 370)
 | Honest Mistake | 22.00% | ~225 |
 | Fast Learner | 22.00% | ~225 |
 | Immaculate Aim | 22.00% | ~225 |
-| Breaking Down Barriers | 21.00% | ~214 |
-| The Wicked Twins | 21.00% | ~214 |
+| Breaking Down Barriers | 21.00% | ~215 |
+| The Wicked Twins | 21.00% | ~215 |
 | Right On Time | 20.00% | ~204 |
 | Like Clockwork | 20.00% | ~204 |
 | The Betrayer | 20.00% | ~204 |
@@ -59,7 +59,7 @@ Rating: 4.62 (Ranked 370)
 | Raw Talent | 0.70% | ~7 |
 | Going to Live Forever | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,021 (Ranked 275)  
+Progressed: 1,022 (Ranked 275)  
 Completed: 6 (0.59%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,6 +207,7 @@ Completed: 6 (0.59%) (Ranked 197)
 | 2023-12-15 | 978 | 6 |
 | 2023-12-16 | 1,000 | 6 |
 | 2023-12-17 | 1,021 | 6 |
+| 2023-12-18 | 1,022 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -14,8 +14,8 @@
 | Mine! | 63.00% | ~38 |
 | Artificer's Apprentice | 58.00% | ~35 |
 | Fly the friendly Sky | 48.00% | ~29 |
+| Get out of here! | 47.00% | ~28 |
 | Necromancer's Apprentice | 45.00% | ~27 |
-| Get out of here! | 45.00% | ~27 |
 | The Circle | 42.00% | ~25 |
 | Alchemist's Apprentice | 42.00% | ~25 |
 | Friend of Lyraine | 42.00% | ~25 |
@@ -24,14 +24,14 @@
 | Bad JuJu | 25.00% | ~15 |
 | Slave to the rhythm | 23.00% | ~14 |
 | Castle Meldec | 20.00% | ~12 |
-| Sevenkeeps Seat of Kings | 18.00% | ~11 |
+| Sevenkeeps Seat of Kings | 20.00% | ~12 |
 | Friend of Alluvyan | 15.00% | ~9 |
 | Friend of Gillyshire | 15.00% | ~9 |
 | Friend of Connach | 15.00% | ~9 |
+| Break Free | 15.00% | ~9 |
 | Philo's Tale | 13.00% | ~8 |
 | Stormwatch Faste | 13.00% | ~8 |
 | Friend of Bastion | 13.00% | ~8 |
-| Break Free | 13.00% | ~8 |
 | Friend of Orgash | 12.00% | ~7 |
 | Defeat Gor | 10.00% | ~6 |
 | The Forge of Regan Gor | 10.00% | ~6 |

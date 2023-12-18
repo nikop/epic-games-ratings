@@ -6,9 +6,9 @@
   "Ranking_Popularity": 224,
   "Ranking_PopularitySum": 301,
   "Ranking_EOS_Progress": 158,
-  "Ranking_EOS_Completed": 229,
+  "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1813,11 +1813,11 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 15225,
-  "EOS_Completed": 58,
-  "EOS_NewPlayers": 1294,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.38,
+  "EOS_Progressed": 15227,
+  "EOS_Completed": 59,
+  "EOS_NewPlayers": 1296,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:18.653518+00:00",
@@ -16513,6 +16513,11 @@
       "Time": "2023-12-18T01:58:13.8570061+00:00",
       "NumProgressed": 15225,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-18T02:33:21.6631564+00:00",
+      "NumProgressed": 15227,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 35,
@@ -16524,7 +16529,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 12332
+      "UsersEstimate": 12334
     },
     {
       "ID": "ACH02",
@@ -16556,7 +16561,7 @@
       "Name": "A Legitimate Business",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ACH06",
@@ -16564,7 +16569,7 @@
       "Name": "I\u2019ll Have Two Number 9s",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ACH07",
@@ -16580,7 +16585,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 7612
+      "UsersEstimate": 7614
     },
     {
       "ID": "ACH09",
@@ -16596,7 +16601,7 @@
       "Name": "Who Needs Directions?",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ACH11",
@@ -16604,7 +16609,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1522
+      "UsersEstimate": 1523
     },
     {
       "ID": "ACH12",
@@ -16612,7 +16617,7 @@
       "Name": "Swiss Army Strife",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ACH13",
@@ -16620,7 +16625,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 2740
+      "UsersEstimate": 2741
     },
     {
       "ID": "ACH14",
@@ -16644,7 +16649,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2588
+      "UsersEstimate": 2589
     },
     {
       "ID": "ACH17",
@@ -16676,7 +16681,7 @@
       "Name": "Yes I Speak English",
       "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ACH21",
@@ -16700,7 +16705,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 3806
+      "UsersEstimate": 3807
     },
     {
       "ID": "ACH24",
@@ -16724,7 +16729,7 @@
       "Name": "Double or Nothin\u0027",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ACH27",
@@ -16732,7 +16737,7 @@
       "Name": "Assassin",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ACH28",
@@ -16756,7 +16761,7 @@
       "Name": "Public Enemy No. 1",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ACH31",
@@ -16772,7 +16777,7 @@
       "Name": "Ain\u2019t Nothing But a G Thing",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ACH33",
@@ -16803,16 +16808,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 15225,
-      "Completed": 58
+      "Progressed": 15227,
+      "Completed": 59
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-12-17T20:00:43.0101303+00:00",
-  "LastChanged_Achievements": "2023-12-18T01:58:13.8570057+00:00",
+  "LastChanged_Achievements": "2023-12-18T02:33:21.663156+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:24.5920887+00:00",
-  "LastUpdate_Ratings": "2023-12-18T01:50:31.4859644+00:00",
-  "LastUpdate_Achievements": "2023-12-18T01:58:13.8570961+00:00"
+  "LastUpdate_Ratings": "2023-12-18T02:23:58.2680499+00:00",
+  "LastUpdate_Achievements": "2023-12-18T02:33:21.6632358+00:00"
 }

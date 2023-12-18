@@ -6543,10 +6543,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 7276,
       "NumberOfAwardsMax": 850
+    },
+    {
+      "Time": "2023-12-18T02:23:03.9688162+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 7278,
+      "NumberOfAwardsMax": 850
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7276,
+  "NumberOfAwards": 7278,
   "NumberOfAwardsMax": 850,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -6614,7 +6620,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 703
+      "Count": 705
     }
   ],
   "EOS_Progressed": 0,
@@ -6636,9 +6642,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.239094+00:00",
-  "LastChanged": "2023-12-17T17:59:09.6418047+00:00",
-  "LastChanged_Achievements": "2023-12-18T01:57:19.3718535+00:00",
+  "LastChanged": "2023-12-18T02:23:03.9688161+00:00",
+  "LastChanged_Achievements": "2023-12-18T02:32:43.0048231+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:33.3357387+00:00",
-  "LastUpdate_Ratings": "2023-12-18T01:48:41.1333442+00:00",
-  "LastUpdate_Achievements": "2023-12-18T01:57:19.3718561+00:00"
+  "LastUpdate_Ratings": "2023-12-18T02:23:03.9688167+00:00",
+  "LastUpdate_Achievements": "2023-12-18T02:32:43.0048258+00:00"
 }

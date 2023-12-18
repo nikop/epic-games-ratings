@@ -842,9 +842,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5617,
+  "EOS_Progressed": 5618,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 178,
+  "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -11307,6 +11307,11 @@
       "Time": "2023-12-18T01:56:04.519716+00:00",
       "NumProgressed": 5617,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-18T02:30:10.4999536+00:00",
+      "NumProgressed": 5618,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -11359,7 +11364,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -11367,7 +11372,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1461
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -11375,7 +11380,7 @@
       "Name": "First Strike",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1124
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -11413,9 +11418,9 @@
       "ID": "MF_Ach_HorderBetterFasterStronger",
       "SetID": "9b9n573",
       "Name": "Horder Better Faster Stronger",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1011
+      "UsersEstimate": 955
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -11439,7 +11444,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -11502,15 +11507,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5617,
+      "Progressed": 5618,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-17T11:57:49.7030504+00:00",
-  "LastChanged_Achievements": "2023-12-18T01:56:04.5197155+00:00",
+  "LastChanged_Achievements": "2023-12-18T02:30:10.4999532+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:20.367807+00:00",
-  "LastUpdate_Ratings": "2023-12-18T01:46:16.9258353+00:00",
-  "LastUpdate_Achievements": "2023-12-18T01:56:04.5197637+00:00"
+  "LastUpdate_Ratings": "2023-12-18T02:21:25.8699947+00:00",
+  "LastUpdate_Achievements": "2023-12-18T02:30:10.5000157+00:00"
 }

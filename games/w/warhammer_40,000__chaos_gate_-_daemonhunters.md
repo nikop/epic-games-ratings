@@ -11,8 +11,8 @@ Number of Ratings: 371  (23.09.2022)
 | Look Over There! | 9.00% | ~311 |
 | Not So Fast... | 9.00% | ~311 |
 | An Ill Omen | 9.00% | ~311 |
+| Blood for the Blood God! | 7.00% | ~242 |
 | Purging Spree | 7.00% | ~242 |
-| Blood for the Blood God! | 6.00% | ~207 |
 | Bloodless | 6.00% | ~207 |
 | Honoured Battle-Brother | 4.00% | ~138 |
 | Surgical Excision | 4.00% | ~138 |

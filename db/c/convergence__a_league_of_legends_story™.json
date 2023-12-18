@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1021,
+  "EOS_Progressed": 1022,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -2799,6 +2799,11 @@
       "Time": "2023-12-17T22:09:36.4524099+00:00",
       "NumProgressed": 1021,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-18T02:33:24.0933506+00:00",
+      "NumProgressed": 1022,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2968,9 +2973,9 @@
       "ID": "GrindingTime1",
       "SetID": "a9e499d",
       "Name": "Rail Rat",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 296
+      "UsersEstimate": 286
     },
     {
       "ID": "HexlockGift",
@@ -3074,7 +3079,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -3082,7 +3087,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "PidgeDefeated",
@@ -3233,7 +3238,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1021,
+      "Progressed": 1022,
       "Completed": 6
     }
   ],
@@ -3241,8 +3246,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-12-18T01:58:17.123283+00:00",
+  "LastChanged_Achievements": "2023-12-18T02:33:24.0933503+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.1550939+00:00",
-  "LastUpdate_Ratings": "2023-12-18T01:46:15.0401946+00:00",
-  "LastUpdate_Achievements": "2023-12-18T01:58:17.1233313+00:00"
+  "LastUpdate_Ratings": "2023-12-18T02:21:24.6392005+00:00",
+  "LastUpdate_Achievements": "2023-12-18T02:33:24.0934174+00:00"
 }

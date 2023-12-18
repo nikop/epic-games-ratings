@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4979,
+  "EOS_Progressed": 4987,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3020,
+  "EOS_NewPlayers": 3022,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1346,6 +1346,11 @@
       "Time": "2023-12-18T01:57:59.2846451+00:00",
       "NumProgressed": 4979,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T02:33:11.4943664+00:00",
+      "NumProgressed": 4987,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -1358,7 +1363,7 @@
       "Name": "Conspiracy",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 846
+      "UsersEstimate": 848
     },
     {
       "ID": "03_TheStolenStar",
@@ -1462,7 +1467,7 @@
       "Name": "Pentakill",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "16_TheRise",
@@ -1574,7 +1579,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "30_The GreatestExploration",
@@ -1708,9 +1713,9 @@
       "ID": "46_ASpark",
       "SetID": "37a94m8",
       "Name": "A Spark",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 398
+      "UsersEstimate": 449
     },
     {
       "ID": "47_AFlame",
@@ -1877,7 +1882,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 4979,
+      "Progressed": 4987,
       "Completed": 0
     }
   ],
@@ -1885,8 +1890,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-17T10:00:08.9925028+00:00",
-  "LastChanged_Achievements": "2023-12-18T01:57:59.2846447+00:00",
+  "LastChanged_Achievements": "2023-12-18T02:33:11.494366+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:14.7846288+00:00",
-  "LastUpdate_Ratings": "2023-12-18T01:48:44.5413156+00:00",
-  "LastUpdate_Achievements": "2023-12-18T01:57:59.2847001+00:00"
+  "LastUpdate_Ratings": "2023-12-18T02:23:06.1795034+00:00",
+  "LastUpdate_Achievements": "2023-12-18T02:33:11.4944138+00:00"
 }
