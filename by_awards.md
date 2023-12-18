@@ -67,7 +67,7 @@
 | 65 | [BioShock Remastered](games/b/bioshock_remastered.md) | 6,007 | 4.64 | 340 |
 | 66 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 5,834 | 4.68 | 261 |
 | 67 | [Prey](games/p/prey.md) | 5,826 | 4.63 | 353 |
-| 68 | [Rogue Company](games/r/rogue_company.md) | 5,786 | 4.30 | 849 |
+| 68 | [Rogue Company](games/r/rogue_company.md) | 5,790 | 4.30 | 849 |
 | 69 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,762 | 4.85 | 46 |
 | 70 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,658 | 4.06 | 1,000 |
 | 71 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 5,590 | 3.98 | 1,021 |
@@ -119,7 +119,7 @@
 | 117 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,948 | 4.66 | 297 |
 | 118 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,860 | 4.50 | 599 |
 | 119 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 1,825 | 4.56 | 497 |
-| 120 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,813 | 4.63 | 353 |
+| 120 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,814 | 4.63 | 353 |
 | 121 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 1,801 | 4.51 | 577 |
 | 122 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 1,794 | 4.57 | 483 |
 | 123 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,786 | 4.55 | 512 |
@@ -149,11 +149,11 @@
 | 147 | [Saints Row](games/s/saints_row.md) | 1,081 | 3.79 | 1,054 |
 | 148 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 1,066 | 4.49 | 619 |
 | 149 | [MORDHAU](games/m/mordhau.md) | 1,065 | 4.38 | 770 |
-| 150 | [Torchlight II](games/t/torchlight_ii.md) | 1,062 | 4.59 | 443 |
-| 150 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 1,062 | 4.69 | 233 |
-| 152 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 1,057 | 4.40 | 745 |
-| 153 | [Ooblets](games/o/ooblets.md) | 1,048 | 4.88 | 17 |
-| 154 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 1,037 | 4.29 | 855 |
+| 150 | [Torchlight II](games/t/torchlight_ii.md) | 1,063 | 4.59 | 443 |
+| 151 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 1,062 | 4.69 | 233 |
+| 152 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 1,060 | 4.29 | 855 |
+| 153 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 1,057 | 4.40 | 745 |
+| 154 | [Ooblets](games/o/ooblets.md) | 1,048 | 4.88 | 17 |
 | 155 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 1,010 | 4.23 | 909 |
 | 156 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 997 | 4.54 | 534 |
 | 157 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 992 | 4.31 | 841 |
@@ -217,9 +217,9 @@
 | 215 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 503 | 4.83 | 63 |
 | 216 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 490 | 4.70 | 216 |
 | 217 | [Loop Hero](games/l/loop_hero.md) | 489 | 4.67 | 280 |
-| 218 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 479 | 4.71 | 200 |
-| 219 | [Second Extinction™](games/s/second_extinction™.md) | 477 | 4.06 | 1,000 |
-| 220 | [Alan Wake 2](games/a/alan_wake_2.md) | 474 | 4.79 | 99 |
+| 218 | [Alan Wake 2](games/a/alan_wake_2.md) | 483 | 4.79 | 99 |
+| 219 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 479 | 4.71 | 200 |
+| 220 | [Second Extinction™](games/s/second_extinction™.md) | 477 | 4.06 | 1,000 |
 | 221 | [Warface: Clutch](games/w/warface.md) | 464 | 3.90 | 1,037 |
 | 222 | [RimWorld](games/r/rimworld.md) | 462 | 4.89 | 11 |
 | 223 | [Unreal Tournament](games/u/unreal_tournament.md) | 460 | 4.66 | 297 |
@@ -485,20 +485,20 @@
 | 483 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 35 | 4.46 | 655 |
 | 483 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 35 | 4.61 | 392 |
 | 483 | [FUSER™](games/f/fuser™.md) | 35 | 4.71 | 200 |
+| 483 | [Northgard](games/n/northgard.md) | 35 | 4.69 | 233 |
 | 483 | [Outward Definitive Edition](games/o/outward.md) | 35 | 4.55 | 512 |
 | 483 | [TUNIC](games/t/tunic.md) | 35 | 4.83 | 63 |
-| 488 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 34 | 4.24 | 898 |
-| 488 | [Chimeraland](games/c/chimeraland.md) | 34 | 3.89 | 1,039 |
-| 488 | [Chorus](games/c/chorus.md) | 34 | 4.46 | 655 |
-| 488 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 34 | 4.63 | 353 |
-| 488 | [DOOM (1993)](games/d/doom_(1993).md) | 34 | 4.82 | 70 |
-| 488 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 34 | 4.20 | 930 |
-| 488 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 34 | 4.55 | 512 |
-| 488 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 34 | 4.54 | 534 |
-| 488 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 34 | 4.66 | 297 |
-| 497 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 33 | 4.20 | 930 |
-| 497 | [Northgard](games/n/northgard.md) | 33 | 4.69 | 233 |
-| 497 | [Warpips](games/w/warpips.md) | 33 | 4.43 | 699 |
+| 489 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 34 | 4.24 | 898 |
+| 489 | [Chimeraland](games/c/chimeraland.md) | 34 | 3.89 | 1,039 |
+| 489 | [Chorus](games/c/chorus.md) | 34 | 4.46 | 655 |
+| 489 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 34 | 4.63 | 353 |
+| 489 | [DOOM (1993)](games/d/doom_(1993).md) | 34 | 4.82 | 70 |
+| 489 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 34 | 4.20 | 930 |
+| 489 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 34 | 4.55 | 512 |
+| 489 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 34 | 4.54 | 534 |
+| 489 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 34 | 4.66 | 297 |
+| 498 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 33 | 4.20 | 930 |
+| 498 | [Warpips](games/w/warpips.md) | 33 | 4.43 | 699 |
 | 500 | [Blankos Block Party](games/b/blankos_block_party.md) | 32 | 4.21 | 920 |
 | 500 | [Karos](games/9/92d67652a4ca46c28507a29d6bc3db4d.md) | 32 | 4.62 | 370 |
 | 500 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 32 | 4.58 | 456 |
