@@ -78,8 +78,8 @@ Number of Ratings: 37  (23.09.2022)
 | Last man standing | 0.80% | ~35 |
 | Builder V | 0.80% | ~35 |
 | Buried | 0.80% | ~35 |
+| Craftsmen challenge | 0.80% | ~35 |
 | Penny pincher | 0.80% | ~35 |
-| Craftsmen challenge | 0.70% | ~31 |
 | I've been everywhere III | 0.60% | ~26 |
 | Made my choice | 0.60% | ~26 |
 | An honorable departure | 0.60% | ~26 |

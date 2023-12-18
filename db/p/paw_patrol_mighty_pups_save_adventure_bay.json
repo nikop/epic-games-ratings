@@ -4,8 +4,8 @@
   "ProductSlug": "paw-patrol-mighty-pups-save-adventure-bay-aaad37",
   "Ranking_EOS_Progress": 523,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 473,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 475,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-12-13T19:30:00+00:00",
     "PcReleaseDate": "2020-11-06T07:30:00+00:00",
@@ -355,9 +355,9 @@
       "ID": "18",
       "SetID": "38ide56",
       "Name": "Training Day",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "19",
@@ -379,9 +379,9 @@
       "ID": "20",
       "SetID": "38ide56",
       "Name": "In the Air",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "21",
@@ -459,9 +459,9 @@
       "ID": "3",
       "SetID": "38ide56",
       "Name": "Risky Rescue",
-      "Percentage": 51,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "4",
@@ -524,8 +524,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-12-18T19:04:12.4795855+00:00",
+  "LastChanged_Achievements": "2023-12-18T20:04:17.3564413+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:49.2024353+00:00",
-  "LastUpdate_Ratings": "2023-12-18T18:59:45.6715018+00:00",
-  "LastUpdate_Achievements": "2023-12-18T19:04:12.4796048+00:00"
+  "LastUpdate_Ratings": "2023-12-18T19:59:23.3382234+00:00",
+  "LastUpdate_Achievements": "2023-12-18T20:04:17.3564566+00:00"
 }

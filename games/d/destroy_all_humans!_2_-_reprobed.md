@@ -6,28 +6,28 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 71.00% | ~85 |
+| Rock of the Bay | 71.00% | ~86 |
 | Mash Machine | 63.00% | ~76 |
-| Furon Fashion | 38.00% | ~46 |
 | Ducks in a Row, Fish in a Barrel | 38.00% | ~46 |
-| Earthly Pleasures | 28.00% | ~34 |
-| Shop Til They Drop | 28.00% | ~34 |
+| Furon Fashion | 37.00% | ~45 |
+| Shop Til They Drop | 29.00% | ~35 |
+| Earthly Pleasures | 27.00% | ~33 |
 | Bodied Sattva | 23.00% | ~28 |
 | Cult Following | 21.00% | ~25 |
-| Upgreatest | 18.00% | ~22 |
-| Lie Back and Think of Albion | 17.00% | ~20 |
-| Pimp My Raid | 17.00% | ~20 |
+| Upgreatest | 19.00% | ~23 |
+| Lie Back and Think of Albion | 17.00% | ~21 |
+| Pimp My Raid | 17.00% | ~21 |
 | I Look Up As I Walk to Takoshima | 15.00% | ~18 |
-| Perfect Probulator | 12.00% | ~14 |
-| Freshly Squeezed | 12.00% | ~14 |
-| Die Nasty | 10.00% | ~12 |
-| Dusted | 8.00% | ~10 |
+| Perfect Probulator | 12.00% | ~15 |
+| Freshly Squeezed | 12.00% | ~15 |
+| Die Nasty | 11.00% | ~13 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 7.00% | ~8 |
+| Dusted | 7.00% | ~8 |
 | Transmitting From Sol-3 | 6.00% | ~7 |
 | Kaijuiced | 5.00% | ~6 |
 | Fly Me to the Moon Base | 4.00% | ~5 |
-| Lobster Blisque | 3.00% | ~4 |
 | Scuttled | 3.00% | ~4 |
+| Lobster Blisque | 2.00% | ~2 |
 | Deincarnated | 2.00% | ~2 |
 | Yettisoned | 2.00% | ~2 |
 | Re-Return of the Clone of the Invasion II-2 | 2.00% | ~2 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.00% | ~0 |
 | Trans-Siberian Express | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 120 (Ranked 444)  
+Progressed: 121 (Ranked 443)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-15 | 75 | 0 |
 | 2023-12-16 | 92 | 0 |
 | 2023-12-17 | 103 | 0 |
-| 2023-12-18 | 120 | 0 |
+| 2023-12-18 | 121 | 0 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 480)  
 Sum: 36 (Ranked 513)  

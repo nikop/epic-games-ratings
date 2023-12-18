@@ -2,10 +2,10 @@
   "ID": "ab4dbb7ed03c4ee49d810b7c018cd894",
   "Name": "Time on Frog Island",
   "ProductSlug": "time-on-frog-island-b3ad0d",
-  "Ranking_EOS_Progress": 568,
-  "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 418,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_Progress": 563,
+  "Ranking_EOS_Completed": 101,
+  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-07-12T13:00:00+00:00",
     "PcReleaseDate": "2022-07-12T13:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 27,
+  "EOS_Progressed": 29,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.7,
+  "EOS_Completed_Percentage": 3.45,
   "EosHistory": [
     {
       "Time": "2023-09-11T10:06:16.3667497+00:00",
@@ -170,6 +170,11 @@
       "Time": "2023-12-17T14:04:08.4298506+00:00",
       "NumProgressed": 27,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-18T20:03:56.9313811+00:00",
+      "NumProgressed": 29,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-11T10:06:16.366753+00:00",
@@ -180,7 +185,7 @@
       "ID": "a1",
       "SetID": "cdg65ol",
       "Name": "Frogs Legs",
-      "Percentage": 30,
+      "Percentage": 28,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -188,7 +193,7 @@
       "ID": "a10",
       "SetID": "cdg65ol",
       "Name": "Crunch Time",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -196,7 +201,7 @@
       "ID": "a11",
       "SetID": "cdg65ol",
       "Name": "Socialite",
-      "Percentage": 19,
+      "Percentage": 17,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -204,7 +209,7 @@
       "ID": "a12",
       "SetID": "cdg65ol",
       "Name": "Who Even Needs Keys",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -212,7 +217,7 @@
       "ID": "a13",
       "SetID": "cdg65ol",
       "Name": "One with the frogs",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -220,7 +225,7 @@
       "ID": "a14",
       "SetID": "cdg65ol",
       "Name": "Shrub-Seeing: Lights in the sky",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -228,7 +233,7 @@
       "ID": "a15",
       "SetID": "cdg65ol",
       "Name": "Shrub-Seeing: Townlife",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -244,7 +249,7 @@
       "ID": "a17",
       "SetID": "cdg65ol",
       "Name": "Shrub-Seeing: Silly Birbs",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -252,7 +257,7 @@
       "ID": "a18",
       "SetID": "cdg65ol",
       "Name": "Shrub-Seeing: Ancient Extractor",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -260,7 +265,7 @@
       "ID": "a19",
       "SetID": "cdg65ol",
       "Name": "Shrub-Seeing: Seen it all!",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -276,7 +281,7 @@
       "ID": "a20",
       "SetID": "cdg65ol",
       "Name": "Couch-surfing",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -284,7 +289,7 @@
       "ID": "a21",
       "SetID": "cdg65ol",
       "Name": "Sailor Swift",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -292,7 +297,7 @@
       "ID": "a22",
       "SetID": "cdg65ol",
       "Name": "No Evil",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -300,7 +305,7 @@
       "ID": "a23",
       "SetID": "cdg65ol",
       "Name": "Mad Scientist",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -340,7 +345,7 @@
       "ID": "a28",
       "SetID": "cdg65ol",
       "Name": "What?!",
-      "Percentage": 41,
+      "Percentage": 38,
       "XP": 15,
       "UsersEstimate": 11
     },
@@ -348,7 +353,7 @@
       "ID": "a29",
       "SetID": "cdg65ol",
       "Name": "Return to sender",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -356,7 +361,7 @@
       "ID": "a3",
       "SetID": "cdg65ol",
       "Name": "Sea Legs",
-      "Percentage": 67,
+      "Percentage": 62,
       "XP": 10,
       "UsersEstimate": 18
     },
@@ -372,7 +377,7 @@
       "ID": "a31",
       "SetID": "cdg65ol",
       "Name": "Vandal",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -380,7 +385,7 @@
       "ID": "a32",
       "SetID": "cdg65ol",
       "Name": "Just Here for the Food",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -396,7 +401,7 @@
       "ID": "a34",
       "SetID": "cdg65ol",
       "Name": "Falling with Style",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -404,7 +409,7 @@
       "ID": "a35",
       "SetID": "cdg65ol",
       "Name": "Froggy Friendship",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -412,15 +417,15 @@
       "ID": "a4",
       "SetID": "cdg65ol",
       "Name": "Shipwrecked!",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "a5",
       "SetID": "cdg65ol",
       "Name": "Hoist the Sails",
-      "Percentage": 19,
+      "Percentage": 17,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -428,7 +433,7 @@
       "ID": "a6",
       "SetID": "cdg65ol",
       "Name": "Secure the Sheets",
-      "Percentage": 19,
+      "Percentage": 17,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -436,7 +441,7 @@
       "ID": "a7",
       "SetID": "cdg65ol",
       "Name": "Hands on the Helm",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -444,7 +449,7 @@
       "ID": "a8",
       "SetID": "cdg65ol",
       "Name": "Replace the Rudder",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -461,7 +466,7 @@
     {
       "ID": "cdg65ol",
       "IsBase": true,
-      "Progressed": 27,
+      "Progressed": 29,
       "Completed": 1
     }
   ],
@@ -469,8 +474,8 @@
   "FirstSeenRating": "2023-03-31T05:58:16.4143103+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:44.2276989+00:00",
   "LastChanged": "2023-03-31T05:58:16.4143104+00:00",
-  "LastChanged_Achievements": "2023-12-18T19:03:51.0763697+00:00",
+  "LastChanged_Achievements": "2023-12-18T20:03:56.9313807+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:44.9136577+00:00",
-  "LastUpdate_Ratings": "2023-12-18T19:02:44.5499785+00:00",
-  "LastUpdate_Achievements": "2023-12-18T19:03:51.0763927+00:00"
+  "LastUpdate_Ratings": "2023-12-18T20:02:48.4569111+00:00",
+  "LastUpdate_Achievements": "2023-12-18T20:03:56.9314125+00:00"
 }

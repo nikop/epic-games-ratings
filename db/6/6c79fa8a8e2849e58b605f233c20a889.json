@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3049,
+  "EOS_Progressed": 3050,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8124,6 +8124,11 @@
       "Time": "2023-12-18T10:10:13.6068855+00:00",
       "NumProgressed": 3049,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-18T20:09:35.6216653+00:00",
+      "NumProgressed": 3050,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -8135,7 +8140,7 @@
       "Name": "Aggressor",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "AI_DRAW",
@@ -8231,7 +8236,7 @@
       "Name": "Gonna Fly Now",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "GRASSHOPPER",
@@ -8239,7 +8244,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1829
+      "UsersEstimate": 1830
     },
     {
       "ID": "GUARD_MAKER",
@@ -8271,7 +8276,7 @@
       "Name": "Knight Commander",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "MEDIC_MASTERY",
@@ -8310,14 +8315,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 3049,
+      "Progressed": 3050,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-12-18T19:09:27.7396626+00:00",
+  "LastChanged_Achievements": "2023-12-18T20:09:35.6216649+00:00",
   "LastUpdate_AppInfo": "2023-12-13T08:56:57.6507347+00:00",
-  "LastUpdate_Ratings": "2023-12-18T18:57:36.1272907+00:00",
-  "LastUpdate_Achievements": "2023-12-18T19:09:27.7397239+00:00"
+  "LastUpdate_Ratings": "2023-12-18T19:57:17.0890719+00:00",
+  "LastUpdate_Achievements": "2023-12-18T20:09:35.621719+00:00"
 }

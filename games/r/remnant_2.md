@@ -5,21 +5,21 @@ Rating: 4.75 (Ranked 150)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 5.00% | ~12,693 |
-| First of Many | 5.00% | ~12,693 |
-| Expanding Horizons | 3.00% | ~7,616 |
-| Quest for Survival | 3.00% | ~7,616 |
-| Not Your Average Trait | 3.00% | ~7,616 |
-| Gleaming the Cube | 2.00% | ~5,077 |
-| Not So Special Now | 2.00% | ~5,077 |
-| Not a Janitor | 2.00% | ~5,077 |
-| Familiar Face | 2.00% | ~5,077 |
-| Equal Measures | 2.00% | ~5,077 |
-| Blue Goddess | 2.00% | ~5,077 |
-| Duality | 2.00% | ~5,077 |
-| Boss'n Up | 2.00% | ~5,077 |
-| Make Some Room | 2.00% | ~5,077 |
-| Trait Chaser | 2.00% | ~5,077 |
+| The Killing Jar | 5.00% | ~12,696 |
+| First of Many | 5.00% | ~12,696 |
+| Expanding Horizons | 3.00% | ~7,617 |
+| Quest for Survival | 3.00% | ~7,617 |
+| Not Your Average Trait | 3.00% | ~7,617 |
+| Gleaming the Cube | 2.00% | ~5,078 |
+| Not So Special Now | 2.00% | ~5,078 |
+| Not a Janitor | 2.00% | ~5,078 |
+| Familiar Face | 2.00% | ~5,078 |
+| Equal Measures | 2.00% | ~5,078 |
+| Blue Goddess | 2.00% | ~5,078 |
+| Duality | 2.00% | ~5,078 |
+| Boss'n Up | 2.00% | ~5,078 |
+| Make Some Room | 2.00% | ~5,078 |
+| Trait Chaser | 2.00% | ~5,078 |
 | Chaos | 1.00% | ~2,539 |
 | Traitor | 1.00% | ~2,539 |
 | Power Surge | 1.00% | ~2,539 |
@@ -31,12 +31,12 @@ Rating: 4.75 (Ranked 150)
 | The Web | 1.00% | ~2,539 |
 | Almost There | 1.00% | ~2,539 |
 | Good, But Could Be Better! | 1.00% | ~2,539 |
-| Regicide | 1.00% | ~330 |
+| Regicide | 1.00% | ~331 |
 | Am I Seeing This? | 0.90% | ~2,285 |
 | Madman's Paradise | 0.90% | ~2,285 |
 | The Agenda | 0.90% | ~2,285 |
 | Scrap Collector | 0.90% | ~2,285 |
-| Master of the Dark Arts | 0.90% | ~297 |
+| Master of the Dark Arts | 0.90% | ~298 |
 | Forever is a Long Time Coming | 0.70% | ~1,777 |
 | Bad Moon Rising | 0.70% | ~1,777 |
 | Strapped | 0.70% | ~1,777 |
@@ -47,12 +47,12 @@ Rating: 4.75 (Ranked 150)
 | Carnage in C-Minor | 0.60% | ~1,523 |
 | No One Should Have All That Power | 0.60% | ~1,523 |
 | Transmutate | 0.60% | ~1,523 |
-| Only Human | 0.50% | ~1,269 |
-| Red Room | 0.50% | ~1,269 |
-| Tall Tales | 0.50% | ~1,269 |
-| Crafty | 0.40% | ~1,015 |
-| Ghost in the Machine | 0.40% | ~1,015 |
-| Maxed Out! | 0.40% | ~1,015 |
+| Only Human | 0.50% | ~1,270 |
+| Red Room | 0.50% | ~1,270 |
+| Tall Tales | 0.50% | ~1,270 |
+| Crafty | 0.40% | ~1,016 |
+| Ghost in the Machine | 0.40% | ~1,016 |
+| Maxed Out! | 0.40% | ~1,016 |
 | The Trigger | 0.30% | ~762 |
 | Cutting Edge | 0.30% | ~762 |
 | The Collector | 0.30% | ~762 |
@@ -61,8 +61,8 @@ Rating: 4.75 (Ranked 150)
 | You Shall Pass | 0.30% | ~99 |
 | A Foul Feast | 0.20% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,852 (Ranked 62)  
-Completed: 601 (0.24%) (Ranked 261)  
+Progressed: 253,911 (Ranked 62)  
+Completed: 603 (0.24%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -216,10 +216,10 @@ Completed: 601 (0.24%) (Ranked 261)
 | 2023-12-15 | 245,556 | 588 |
 | 2023-12-16 | 249,241 | 590 |
 | 2023-12-17 | 252,137 | 598 |
-| 2023-12-18 | 253,852 | 601 |
+| 2023-12-18 | 253,911 | 603 |
 ## Awards
 Max (Great Boss Battles): 3,014  (Ranked 99)  
-Sum: 7,307 (Ranked 119)  
+Sum: 7,317 (Ranked 119)  
 Diff (max vs sum): -20  
 | Award | Count |
 | ----- | ----- |
@@ -227,8 +227,8 @@ Diff (max vs sum): -20
 | This game has Diverse Characters | 488 |
 | This game is Highly Recommended | 460 |
 | This game has Challenging Combat | 454 |
+| This game has Quickly Understood Controls | 449 |
 | This game is Relaxing | 442 |
-| This game has Quickly Understood Controls | 439 |
 | This game has Amazing Storytelling | 439 |
 | This game is Extremely Fun | 438 |
 | This game has Amazing Characters | 426 |
@@ -382,4 +382,4 @@ Diff (max vs sum): -20
 | 2023-12-15 | 4.75 | 2,779 | 6,979 |
 | 2023-12-16 | 4.76 | 2,821 | 7,056 |
 | 2023-12-17 | 4.75 | 2,917 | 7,182 |
-| 2023-12-18 | 4.75 | 3,014 | 7,307 |
+| 2023-12-18 | 4.75 | 3,014 | 7,317 |

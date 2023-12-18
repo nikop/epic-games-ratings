@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9882,9 +9882,9 @@
       "Count": 1026
     }
   ],
-  "EOS_Progressed": 128361,
+  "EOS_Progressed": 128373,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2184,
+  "EOS_NewPlayers": 2180,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35687,6 +35687,11 @@
       "Time": "2023-12-18T19:08:54.3121613+00:00",
       "NumProgressed": 128361,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-18T20:09:02.5886865+00:00",
+      "NumProgressed": 128373,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36234,7 +36239,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "combat_kill_collector",
@@ -36242,7 +36247,7 @@
       "Name": "This guy... again?",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -36329,21 +36334,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 128361,
+      "Progressed": 128373,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 3230,
+      "Progressed": 3242,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-18T16:58:27.8935968+00:00",
-  "LastChanged_Achievements": "2023-12-18T19:08:54.3121609+00:00",
+  "LastChanged_Achievements": "2023-12-18T20:09:02.5886864+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-18T18:58:41.2872576+00:00",
-  "LastUpdate_Achievements": "2023-12-18T19:08:54.3123074+00:00"
+  "LastUpdate_Ratings": "2023-12-18T19:58:20.456088+00:00",
+  "LastUpdate_Achievements": "2023-12-18T20:09:02.5888523+00:00"
 }

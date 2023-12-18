@@ -5,33 +5,33 @@ Rating: 4.79 (Ranked 99)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,713 |
-| No more cages! | 91.00% | ~2,599 |
+| For Demacia | 95.00% | ~2,714 |
+| No more cages! | 91.00% | ~2,600 |
 | Everfrost | 78.00% | ~2,228 |
-| Pentakill | 77.00% | ~2,199 |
-| Dark Forest | 77.00% | ~2,199 |
-| The use of petricite | 74.00% | ~2,113 |
-| You can pet the dog | 61.00% | ~1,742 |
-| Thornbarrow | 40.00% | ~1,142 |
+| Pentakill | 77.00% | ~2,200 |
+| Dark Forest | 77.00% | ~2,200 |
+| The use of petricite | 74.00% | ~2,114 |
+| You can pet the dog | 61.00% | ~1,743 |
+| Thornbarrow | 40.00% | ~1,143 |
 | Big Helmet Bro | 39.00% | ~1,114 |
 | Clarion Cove | 39.00% | ~1,114 |
 | Past trauma | 37.00% | ~1,057 |
 | Ternmoat Headquarters | 37.00% | ~1,057 |
-| Elemental master | 36.00% | ~1,028 |
+| Elemental master | 36.00% | ~1,029 |
 | Cypress Glen Headquarters | 34.00% | ~971 |
-| Petricite Burst | 33.00% | ~942 |
-| Old friend | 31.00% | ~885 |
+| Petricite Burst | 33.00% | ~943 |
+| Old friend | 31.00% | ~886 |
 | Hijack | 30.00% | ~857 |
 | Devineur | 30.00% | ~857 |
 | Whispers in the Woods I | 27.00% | ~771 |
 | I chose my shackles | 26.00% | ~743 |
 | Ancient power | 26.00% | ~743 |
-| Sacred Woods | 24.00% | ~685 |
+| Sacred Woods | 24.00% | ~686 |
 | Little light | 23.00% | ~657 |
 | Capelworth | 23.00% | ~657 |
 | Full equipped | 23.00% | ~657 |
-| Glyndemere | 22.00% | ~628 |
-| Iffighain Headquarters | 22.00% | ~628 |
+| Glyndemere | 22.00% | ~629 |
+| Iffighain Headquarters | 22.00% | ~629 |
 | Whispers in the Woods II | 19.00% | ~543 |
 | Quickmoore Headquarters | 19.00% | ~543 |
 | No more holding back | 18.00% | ~514 |
@@ -59,7 +59,7 @@ Rating: 4.79 (Ranked 99)
 | Silverwing nest | 2.00% | ~57 |
 | The Unshackled | 1.00% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,856 (Ranked 218)  
+Progressed: 2,857 (Ranked 218)  
 Completed: 16 (0.56%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 16 (0.56%) (Ranked 206)
 | 2023-12-15 | 2,774 | 16 |
 | 2023-12-16 | 2,805 | 16 |
 | 2023-12-17 | 2,836 | 16 |
-| 2023-12-18 | 2,856 | 16 |
+| 2023-12-18 | 2,857 | 16 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

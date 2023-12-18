@@ -5,46 +5,46 @@ Rating: 3.83 (Ranked 1,045)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,690 |
-| The First Step | 88.00% | ~1,518 |
-| Moonbury Traveller | 64.00% | ~1,104 |
-| Rookie Chemist | 62.00% | ~1,070 |
-| Great Doctor | 51.00% | ~880 |
-| Dog Whisperer | 49.00% | ~845 |
-| Friendly | 47.00% | ~811 |
-| The Capitalist | 44.00% | ~759 |
-| K.O.! | 43.00% | ~742 |
-| Intermediate Chemist | 40.00% | ~690 |
-| Decorative Mind | 32.00% | ~552 |
-| Lumber Specialist | 32.00% | ~552 |
-| Kind-hearted | 26.00% | ~448 |
-| Catch of the Day | 25.00% | ~431 |
+| Welcome to Moonbury | 98.00% | ~1,694 |
+| The First Step | 88.00% | ~1,522 |
+| Moonbury Traveller | 64.00% | ~1,107 |
+| Rookie Chemist | 61.00% | ~1,055 |
+| Great Doctor | 51.00% | ~882 |
+| Dog Whisperer | 49.00% | ~847 |
+| Friendly | 47.00% | ~813 |
+| The Capitalist | 44.00% | ~761 |
+| K.O.! | 43.00% | ~743 |
+| Intermediate Chemist | 40.00% | ~692 |
+| Decorative Mind | 32.00% | ~553 |
+| Lumber Specialist | 32.00% | ~553 |
+| Kind-hearted | 25.00% | ~432 |
+| Catch of the Day | 25.00% | ~432 |
 | Amateur Chef | 22.00% | ~380 |
-| Fishing Guru | 21.00% | ~362 |
-| Spark of Love | 18.00% | ~310 |
-| Community Helper | 18.00% | ~310 |
+| Fishing Guru | 21.00% | ~363 |
+| Spark of Love | 18.00% | ~311 |
+| Community Helper | 17.00% | ~294 |
 | Expert Chemist | 15.00% | ~259 |
 | Stone Specialist | 14.00% | ~242 |
-| Sociable | 13.00% | ~224 |
-| Ablutomaniac | 13.00% | ~224 |
+| Sociable | 13.00% | ~225 |
+| Ablutomaniac | 13.00% | ~225 |
 | Line Cook | 12.00% | ~207 |
 | Good Samaritan | 11.00% | ~190 |
 | Production Sorter | 11.00% | ~190 |
-| Acrobatic Adventurer | 10.00% | ~172 |
-| Animal Exterminator | 9.00% | ~155 |
+| Acrobatic Adventurer | 10.00% | ~173 |
+| Animal Exterminator | 9.00% | ~156 |
 | Adolescent Love | 6.00% | ~104 |
 | Mail Carrier | 6.00% | ~104 |
 | Plantation Exterminator | 5.00% | ~86 |
 | Sous Chef | 4.00% | ~69 |
 | Grape Supplier | 4.00% | ~69 |
-| Being forgetful... | 2.00% | ~34 |
-| Community Advisor | 2.00% | ~34 |
-| Rock Exterminator | 2.00% | ~34 |
-| Tree Exterminator | 2.00% | ~34 |
+| Being forgetful... | 2.00% | ~35 |
+| Community Advisor | 2.00% | ~35 |
+| Rock Exterminator | 2.00% | ~35 |
+| Tree Exterminator | 2.00% | ~35 |
 | Moonbury Navigator | 1.00% | ~17 |
 | Being a donut... | 0.70% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,725 (Ranked 240)  
+Progressed: 1,729 (Ranked 240)  
 Completed: 10 (0.58%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,10 +211,10 @@ Completed: 10 (0.58%) (Ranked 201)
 | 2023-12-15 | 1,695 | 10 |
 | 2023-12-16 | 1,708 | 10 |
 | 2023-12-17 | 1,718 | 10 |
-| 2023-12-18 | 1,725 | 10 |
+| 2023-12-18 | 1,729 | 10 |
 ## Awards
-Max (Character Customization): 69  (Ranked 411)  
-Sum: 69 (Ranked 479)  
+Max (Character Customization): 69  (Ranked 412)  
+Sum: 69 (Ranked 480)  
 Diff (max vs sum): -68  
 | Award | Count |
 | ----- | ----- |

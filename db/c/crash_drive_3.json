@@ -4,8 +4,8 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 418,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
     "PcReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 418,
+  "EOS_Progressed": 419,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -654,6 +654,11 @@
       "Time": "2023-12-16T22:08:19.9527352+00:00",
       "NumProgressed": 418,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-18T20:08:30.4077625+00:00",
+      "NumProgressed": 419,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -665,7 +670,7 @@
       "Name": "Brace for impact!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ALL_ACHIEVEMENTS",
@@ -815,9 +820,9 @@
       "ID": "FULLY_LEVEL_CAR",
       "SetID": "20koof9",
       "Name": "Amateur Mechanic",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 113
     },
     {
       "ID": "HIGHEST_ASTEROID",
@@ -833,7 +838,7 @@
       "Name": "C-C-C-Combo!",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "HIT_10_PLAYERS",
@@ -841,15 +846,15 @@
       "Name": "Anger Issues",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "HIT_50_PUSHABLES",
       "SetID": "20koof9",
       "Name": "Pushover",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 113
     },
     {
       "ID": "HIT_ALIEN",
@@ -905,7 +910,7 @@
       "Name": "Your Highness",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "LEFT_LEVEL",
@@ -927,9 +932,9 @@
       "ID": "LOADED_LVL_FOREST",
       "SetID": "20koof9",
       "Name": "A Forest Walk",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 122
     },
     {
       "ID": "LOADED_LVL_SNOW",
@@ -943,9 +948,9 @@
       "ID": "LOADED_LVL_TANK",
       "SetID": "20koof9",
       "Name": "Feeling Hot Hot Hot!",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 67
     },
     {
       "ID": "MAX_MULTIPLIER",
@@ -975,9 +980,9 @@
       "ID": "SPIN_1080",
       "SetID": "20koof9",
       "Name": "Feeling Dizzy?",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 67
     },
     {
       "ID": "STUNT_EVENT",
@@ -1104,7 +1109,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 418,
+      "Progressed": 419,
       "Completed": 2
     }
   ],
@@ -1112,8 +1117,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-12-18T19:08:21.78973+00:00",
+  "LastChanged_Achievements": "2023-12-18T20:08:30.4077621+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:14.8431436+00:00",
-  "LastUpdate_Ratings": "2023-12-18T18:57:50.1719931+00:00",
-  "LastUpdate_Achievements": "2023-12-18T19:08:21.7897697+00:00"
+  "LastUpdate_Ratings": "2023-12-18T19:57:31.057494+00:00",
+  "LastUpdate_Achievements": "2023-12-18T20:08:30.4078009+00:00"
 }

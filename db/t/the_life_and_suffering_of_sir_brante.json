@@ -2,13 +2,13 @@
   "ID": "45bd0f6fc2704e22a3c1933f7bb972bf",
   "Name": "The Life and Suffering of Sir Brante",
   "ProductSlug": "the-life-and-suffering-of-sir-brante",
-  "Ranking_Rating": 175,
+  "Ranking_Rating": 198,
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 809,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 548,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 549,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-03-04T13:00:00+00:00",
     "PcReleaseDate": null,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.73,
+  "Rating": 4.71,
   "NumberOfRatings": 31,
   "RatingHistory": [
     {
@@ -115,6 +115,12 @@
       "Rating": 4.73,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-18T19:59:24.0895864+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -133,8 +139,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:20.7872128+00:00",
   "FirstSeenRating": "2022-08-01T11:01:07.2774148+00:00",
-  "LastChanged": "2023-08-24T01:39:27.1016145+00:00",
+  "LastChanged": "2023-12-18T19:59:24.0895862+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:09.4879268+00:00",
-  "LastUpdate_Ratings": "2023-12-18T18:59:46.425732+00:00",
-  "LastUpdate_Achievements": "2023-12-18T19:05:39.578837+00:00"
+  "LastUpdate_Ratings": "2023-12-18T19:59:24.0895868+00:00",
+  "LastUpdate_Achievements": "2023-12-18T20:05:42.287869+00:00"
 }

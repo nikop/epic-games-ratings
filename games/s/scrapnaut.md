@@ -6,39 +6,39 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My New Home | 61.00% | ~318 |
-| Scrap Gatherer | 57.00% | ~298 |
-| Mushroom Picker | 56.00% | ~292 |
-| Scrapper | 46.00% | ~240 |
-| Teleport | 44.00% | ~230 |
-| Cook | 43.00% | ~224 |
-| Scrap Master | 38.00% | ~198 |
-| Smelter | 35.00% | ~183 |
-| Digger | 32.00% | ~167 |
-| Electro-Scrap Gatherer | 32.00% | ~167 |
-| Survivor | 31.00% | ~162 |
-| Herbalist | 29.00% | ~151 |
-| Lumberjack | 29.00% | ~151 |
-| Robot Destroyer | 29.00% | ~151 |
-| Prepper | 26.00% | ~136 |
-| Electro-Scrap Master | 24.00% | ~125 |
+| My New Home | 61.00% | ~321 |
+| Mushroom Picker | 56.00% | ~295 |
+| Scrap Gatherer | 56.00% | ~295 |
+| Scrapper | 46.00% | ~242 |
+| Teleport | 44.00% | ~231 |
+| Cook | 43.00% | ~226 |
+| Scrap Master | 38.00% | ~200 |
+| Smelter | 35.00% | ~184 |
+| Digger | 32.00% | ~168 |
+| Electro-Scrap Gatherer | 32.00% | ~168 |
+| Survivor | 31.00% | ~163 |
+| Herbalist | 29.00% | ~153 |
+| Lumberjack | 29.00% | ~153 |
+| Robot Destroyer | 29.00% | ~153 |
+| Prepper | 26.00% | ~137 |
+| Electro-Scrap Master | 24.00% | ~126 |
 | Robot Hunter | 21.00% | ~110 |
-| Advanced Survivalist | 19.00% | ~99 |
+| Advanced Survivalist | 19.00% | ~100 |
 | Master Of Technology | 16.00% | ~84 |
 | Treasure Hunter | 16.00% | ~84 |
-| Mythical Smelter | 14.00% | ~73 |
-| Blacksmith | 11.00% | ~57 |
-| Master Of Management | 10.00% | ~52 |
-| Forest Lord | 10.00% | ~52 |
-| Fuel | 10.00% | ~52 |
-| Smelting Master | 10.00% | ~52 |
+| Mythical Smelter | 14.00% | ~74 |
+| Blacksmith | 11.00% | ~58 |
+| Master Of Management | 10.00% | ~53 |
+| Forest Lord | 10.00% | ~53 |
+| Fuel | 10.00% | ~53 |
+| Smelting Master | 10.00% | ~53 |
 | Black Gold | 7.00% | ~37 |
 | Survival Master | 5.00% | ~26 |
 | Traveler | 3.00% | ~16 |
-| Forest Killer | 2.00% | ~10 |
+| Forest Killer | 2.00% | ~11 |
 | Invincible | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 522 (Ranked 325)  
+Progressed: 526 (Ranked 325)  
 Completed: 3 (0.57%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 3 (0.57%) (Ranked 204)
 | 2023-12-15 | 508 | 1 |
 | 2023-12-16 | 511 | 1 |
 | 2023-12-17 | 516 | 3 |
-| 2023-12-18 | 522 | 3 |
+| 2023-12-18 | 526 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

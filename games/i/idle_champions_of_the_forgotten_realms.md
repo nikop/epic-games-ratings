@@ -18,6 +18,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 0.20% | ~484 |
 | The Mad Wizard | 0.20% | ~484 |
 | Arcane Suppression | 0.20% | ~416 |
+| Welcome to the Vrocks | 0.20% | ~416 |
 | When Tentacles Attack | 0.20% | ~416 |
 | Don't Lose Your Head | 0.20% | ~416 |
 | Mind Spike | 0.20% | ~416 |
@@ -551,9 +552,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~208 |
 | A Wise Approach | 0.10% | ~208 |
 | The Brains of an Illithid's Desire | 0.10% | ~208 |
-| Welcome to the Vrocks | 0.10% | ~208 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,781 (Ranked 65)  
+Progressed: 241,793 (Ranked 65)  
 Completed: 2,540 (1.05%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -795,7 +795,7 @@ Completed: 2,540 (1.05%) (Ranked 170)
 | 2023-12-15 | 240,802 | 2,532 |
 | 2023-12-16 | 241,195 | 2,536 |
 | 2023-12-17 | 241,554 | 2,539 |
-| 2023-12-18 | 241,781 | 2,540 |
+| 2023-12-18 | 241,793 | 2,540 |
 ## Awards
 Max (Great for Beginners): 5,658  (Ranked 70)  
 Sum: 32,948 (Ranked 41)  

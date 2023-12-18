@@ -2,13 +2,13 @@
   "ID": "2e09c1d223094f3798f63873548c9454",
   "Name": "Tchia",
   "ProductSlug": "tchia",
-  "Ranking_Rating": 199,
+  "Ranking_Rating": 198,
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -257,9 +257,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8106,
+  "EOS_Progressed": 8108,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -9407,6 +9407,11 @@
       "Time": "2023-12-18T19:04:25.8141142+00:00",
       "NumProgressed": 8106,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-18T20:04:30.4648075+00:00",
+      "NumProgressed": 8108,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -9434,7 +9439,7 @@
       "Name": "Audiophile",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -9458,7 +9463,7 @@
       "Name": "Clay Pigeon",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "ENERGY_SAVER",
@@ -9522,7 +9527,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1702
+      "UsersEstimate": 1703
     },
     {
       "ID": "LIBERATOR",
@@ -9560,9 +9565,9 @@
       "ID": "SOUL_CANON",
       "SetID": "3cck1g6",
       "Name": "Soul-Canon",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 567
+      "UsersEstimate": 486
     },
     {
       "ID": "THE_JOURNEY_ONWARDS",
@@ -9585,7 +9590,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 8106,
+      "Progressed": 8108,
       "Completed": 34
     }
   ],
@@ -9593,8 +9598,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-12-17T08:57:44.8415466+00:00",
-  "LastChanged_Achievements": "2023-12-18T19:04:25.8141136+00:00",
+  "LastChanged_Achievements": "2023-12-18T20:04:30.4648071+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:46.5620941+00:00",
-  "LastUpdate_Ratings": "2023-12-18T18:58:02.0501784+00:00",
-  "LastUpdate_Achievements": "2023-12-18T19:04:25.8142131+00:00"
+  "LastUpdate_Ratings": "2023-12-18T19:57:43.0459836+00:00",
+  "LastUpdate_Achievements": "2023-12-18T20:04:30.4648622+00:00"
 }

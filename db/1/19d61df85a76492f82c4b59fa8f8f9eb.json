@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 386,
+  "EOS_Progressed": 387,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 9.84,
+  "EOS_Completed_Percentage": 9.82,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -1819,6 +1819,11 @@
       "Time": "2023-12-18T19:08:36.8493059+00:00",
       "NumProgressed": 386,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-18T20:08:43.8915873+00:00",
+      "NumProgressed": 387,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 6,
@@ -1838,7 +1843,7 @@
       "Name": "File-cutter",
       "Percentage": 64,
       "XP": 165,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAg",
@@ -1846,7 +1851,7 @@
       "Name": "Viola Organista",
       "Percentage": 50,
       "XP": 165,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAw",
@@ -1870,21 +1875,21 @@
       "Name": "Flying Machine",
       "Percentage": 33,
       "XP": 165,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     }
   ],
   "AchievementSets": [
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 386,
+      "Progressed": 387,
       "Completed": 38
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-12-18T19:08:36.8493055+00:00",
+  "LastChanged_Achievements": "2023-12-18T20:08:43.8915869+00:00",
   "LastUpdate_AppInfo": "2023-12-15T02:21:09.453907+00:00",
-  "LastUpdate_Ratings": "2023-12-18T18:59:35.001717+00:00",
-  "LastUpdate_Achievements": "2023-12-18T19:08:36.8493198+00:00"
+  "LastUpdate_Ratings": "2023-12-18T19:59:12.2651223+00:00",
+  "LastUpdate_Achievements": "2023-12-18T20:08:43.8915999+00:00"
 }

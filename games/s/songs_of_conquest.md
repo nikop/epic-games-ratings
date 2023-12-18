@@ -6,8 +6,8 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 39.00% | ~214 |
-| Double Kill | 32.00% | ~176 |
+| Adept | 39.00% | ~215 |
+| Double Kill | 32.00% | ~177 |
 | Critical Hit | 18.00% | ~99 |
 | Veteran | 17.00% | ~94 |
 | Dressed For Success | 12.00% | ~66 |
@@ -18,11 +18,11 @@ Number of Ratings: 292  (23.09.2022)
 | Landlord Extraordinaire | 6.00% | ~33 |
 | Master | 6.00% | ~33 |
 | Whoops! | 4.00% | ~22 |
-| The Song of Stoutheart | 3.00% | ~16 |
-| Don't Touch My Stuff | 3.00% | ~16 |
-| Trojan Horse | 3.00% | ~16 |
-| Expert Essence Employment | 3.00% | ~16 |
-| Venisti, Vidisti, Perdidisti | 3.00% | ~16 |
+| The Song of Stoutheart | 3.00% | ~17 |
+| Don't Touch My Stuff | 3.00% | ~17 |
+| Trojan Horse | 3.00% | ~17 |
+| Expert Essence Employment | 3.00% | ~17 |
+| Venisti, Vidisti, Perdidisti | 3.00% | ~17 |
 | This Spot's Taken | 2.00% | ~11 |
 | Deepstrike | 2.00% | ~11 |
 | Pyrrhic Victory | 2.00% | ~11 |
@@ -35,9 +35,9 @@ Number of Ratings: 292  (23.09.2022)
 | Get Over Here! | 0.70% | ~4 |
 | Death To Diplomacy | 0.50% | ~3 |
 | Unlimited Power! | 0.50% | ~3 |
+| Fully Charged | 0.50% | ~3 |
 | Together For Her | 0.50% | ~3 |
 | Attack Bonanza | 0.40% | ~2 |
-| Fully Charged | 0.40% | ~2 |
 | Coming Through! | 0.40% | ~2 |
 | Barbecue | 0.40% | ~2 |
 | In The Thick of It | 0.40% | ~2 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 550 (Ranked 324)  
+Progressed: 552 (Ranked 323)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,11 +99,11 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-15 | 488 | 0 |
 | 2023-12-16 | 515 | 0 |
 | 2023-12-17 | 544 | 0 |
-| 2023-12-18 | 550 | 0 |
+| 2023-12-18 | 552 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 520)  
-Sum: 194 (Ranked 412)  
-Diff (max vs sum): 108  
+Sum: 194 (Ranked 413)  
+Diff (max vs sum): 107  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 27 |

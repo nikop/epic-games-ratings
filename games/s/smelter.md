@@ -21,8 +21,8 @@
 | Final Announcement | 21.00% | ~9 |
 | A New Strategy | 21.00% | ~9 |
 | A Terrible Way to Go | 21.00% | ~9 |
-| Isn't It Beautiful? | 16.00% | ~7 |
-| A Generous Leader | 16.00% | ~7 |
+| Isn't It Beautiful? | 19.00% | ~8 |
+| A Generous Leader | 19.00% | ~8 |
 | Dr. Dreinstein III | 14.00% | ~6 |
 | Orcharion Boost | 14.00% | ~6 |
 | Case Closed | 14.00% | ~6 |

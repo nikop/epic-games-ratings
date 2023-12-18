@@ -17,8 +17,8 @@ Number of Ratings: 85  (23.09.2022)
 | Perfect Probulator | 40.00% | ~6 |
 | Trans-Siberian Express | 40.00% | ~6 |
 | Re-Return of the Clone of the Invasion II-2 | 33.00% | ~5 |
+| Ducks in a Row, Fish in a Barrel | 33.00% | ~5 |
 | Upgreatest | 27.00% | ~4 |
-| Ducks in a Row, Fish in a Barrel | 27.00% | ~4 |
 | Fly Me to the Moon Base | 20.00% | ~3 |
 | Arkvoodle Doodle | 20.00% | ~3 |
 | Deincarnated | 20.00% | ~3 |
@@ -47,7 +47,7 @@ Number of Ratings: 85  (23.09.2022)
 | Toilet Break | 0.00% | ~0 |
 | Against All Odds | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15 (Ranked 616)  
+Progressed: 15 (Ranked 617)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |

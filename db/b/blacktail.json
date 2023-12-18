@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -2570,9 +2570,9 @@
       "ID": "LiarLiar",
       "SetID": "2aagp3d",
       "Name": "Liar Liar",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 48
     },
     {
       "ID": "LittleHelper",
@@ -2715,8 +2715,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2023-12-18T19:09:39.8500921+00:00",
+  "LastChanged_Achievements": "2023-12-18T20:09:47.3563928+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:13.6567295+00:00",
-  "LastUpdate_Ratings": "2023-12-18T19:00:34.427271+00:00",
-  "LastUpdate_Achievements": "2023-12-18T19:09:39.8501176+00:00"
+  "LastUpdate_Ratings": "2023-12-18T20:00:09.945736+00:00",
+  "LastUpdate_Achievements": "2023-12-18T20:09:47.356423+00:00"
 }

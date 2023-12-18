@@ -6,22 +6,22 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~87,642 |
-| Alt+F4 | 10.00% | ~24,345 |
-| Where's that freaking Dwarf? | 8.00% | ~19,476 |
-| Déjà vu | 7.00% | ~17,041 |
+| Sowwy! | 36.00% | ~87,645 |
+| Alt+F4 | 10.00% | ~24,346 |
+| Where's that freaking Dwarf? | 8.00% | ~19,477 |
+| Déjà vu | 7.00% | ~17,042 |
 | Sock! SOCK! | 6.00% | ~14,607 |
-| A beer, two curses, three companions | 5.00% | ~12,172 |
-| GG EZ | 5.00% | ~12,172 |
-| Speedrun | 5.00% | ~12,172 |
+| A beer, two curses, three companions | 5.00% | ~12,173 |
+| GG EZ | 5.00% | ~12,173 |
+| Speedrun | 5.00% | ~12,173 |
 | DM intervention | 4.00% | ~9,738 |
 | Fireproof Wizardess | 4.00% | ~9,738 |
-| Livin' in a dwarven paradise | 3.00% | ~7,303 |
-| Way of the Wimp | 3.00% | ~7,303 |
-| The plot thickens... At the tavern | 3.00% | ~7,303 |
-| The demons' feast | 3.00% | ~7,303 |
-| The Woman in the High Castle | 3.00% | ~7,303 |
-| Oh, when I'll be level 10... | 3.00% | ~7,303 |
+| Livin' in a dwarven paradise | 3.00% | ~7,304 |
+| Way of the Wimp | 3.00% | ~7,304 |
+| The plot thickens... At the tavern | 3.00% | ~7,304 |
+| The demons' feast | 3.00% | ~7,304 |
+| The Woman in the High Castle | 3.00% | ~7,304 |
+| Oh, when I'll be level 10... | 3.00% | ~7,304 |
 | Shiny and Crôm | 2.00% | ~4,869 |
 | The Great Library | 2.00% | ~4,869 |
 | Torture and Sensibility | 2.00% | ~4,869 |
@@ -38,13 +38,13 @@ Number of Ratings: 118  (23.09.2022)
 | I am the night | 2.00% | ~4,869 |
 | Thieves' Guild Accreditation | 2.00% | ~4,869 |
 | Team Building Exercise | 2.00% | ~4,869 |
-| %#*!$*! | 1.00% | ~2,434 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,434 |
-| Dead for good | 1.00% | ~2,434 |
-| Gargantua | 1.00% | ~2,434 |
-| In Navalu's footsteps | 1.00% | ~2,434 |
-| Lust and Debauchery | 1.00% | ~2,434 |
-| Material Girl | 1.00% | ~2,434 |
+| %#*!$*! | 1.00% | ~2,435 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,435 |
+| Dead for good | 1.00% | ~2,435 |
+| Gargantua | 1.00% | ~2,435 |
+| In Navalu's footsteps | 1.00% | ~2,435 |
+| Lust and Debauchery | 1.00% | ~2,435 |
+| Material Girl | 1.00% | ~2,435 |
 | Lëgal Legend | 0.90% | ~2,191 |
 | We come in peace | 0.80% | ~1,948 |
 | Holistic Adventuring Party | 0.70% | ~1,704 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~243 |
 | Dwarf Candy | 0.10% | ~243 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,449 (Ranked 64)  
+Progressed: 243,457 (Ranked 64)  
 Completed: 7 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 7 (0.00%) (Ranked 383)
 | 2023-12-15 | 242,956 | 7 |
 | 2023-12-16 | 243,151 | 7 |
 | 2023-12-17 | 243,348 | 7 |
-| 2023-12-18 | 243,449 | 7 |
+| 2023-12-18 | 243,457 | 7 |
 ## Awards
 Max (Character Customization): 247  (Ranked 272)  
 Sum: 519 (Ranked 328)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -222,9 +222,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 1046,
+  "EOS_Progressed": 1047,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2697,6 +2697,11 @@
       "Time": "2023-12-18T19:04:02.1126805+00:00",
       "NumProgressed": 1046,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-18T20:04:07.225171+00:00",
+      "NumProgressed": 1047,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2747,9 +2752,9 @@
       "ID": "BecomingSmarter",
       "SetID": "1n308hc",
       "Name": "Becoming Smarter",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 251
+      "UsersEstimate": 262
     },
     {
       "ID": "BreakTheLoop",
@@ -3053,7 +3058,7 @@
       "Name": "Team Spirit",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "TextAdventurer",
@@ -3149,7 +3154,7 @@
       "Name": "Wanderers",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "WesternDelta",
@@ -3180,7 +3185,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1046,
+      "Progressed": 1047,
       "Completed": 1
     }
   ],
@@ -3188,8 +3193,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-18T19:04:02.1126797+00:00",
+  "LastChanged_Achievements": "2023-12-18T20:04:07.2251705+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-18T18:58:52.6586131+00:00",
-  "LastUpdate_Achievements": "2023-12-18T19:04:02.112738+00:00"
+  "LastUpdate_Ratings": "2023-12-18T19:58:30.7093025+00:00",
+  "LastUpdate_Achievements": "2023-12-18T20:04:07.2252208+00:00"
 }

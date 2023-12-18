@@ -6,8 +6,8 @@ Rating: 4.60 (Ranked 421)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Beginner | 93.00% | ~89 |
-| Map reader | 73.00% | ~70 |
-| Philanthropist | 68.00% | ~65 |
+| Map reader | 74.00% | ~71 |
+| Philanthropist | 69.00% | ~66 |
 | Adventurer | 67.00% | ~64 |
 | Archer | 50.00% | ~48 |
 | The brave little tailor | 49.00% | ~47 |
@@ -36,7 +36,7 @@ Rating: 4.60 (Ranked 421)
 | Defender | 15.00% | ~14 |
 | Workaholic | 15.00% | ~14 |
 | Showdown | 14.00% | ~13 |
-| Safecracker | 13.00% | ~12 |
+| Safecracker | 14.00% | ~13 |
 | Master thief | 13.00% | ~12 |
 | Freedom fighter | 11.00% | ~11 |
 | Titan Lord | 10.00% | ~10 |

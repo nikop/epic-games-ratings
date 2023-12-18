@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -277,9 +277,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1923,
+  "EOS_Progressed": 1925,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2822,6 +2822,11 @@
       "Time": "2023-12-18T19:08:03.7516541+00:00",
       "NumProgressed": 1923,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T20:08:12.9239066+00:00",
+      "NumProgressed": 1925,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2849,7 +2854,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "Achievement_004",
@@ -3081,7 +3086,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "Achievement_034",
@@ -3089,7 +3094,7 @@
       "Name": "Catch and Release",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "Achievement_035",
@@ -3360,7 +3365,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1923,
+      "Progressed": 1925,
       "Completed": 0
     }
   ],
@@ -3368,8 +3373,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-18T11:01:29.0788489+00:00",
-  "LastChanged_Achievements": "2023-12-18T19:08:03.7516536+00:00",
+  "LastChanged_Achievements": "2023-12-18T20:08:12.9239062+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:02.9619993+00:00",
-  "LastUpdate_Ratings": "2023-12-18T19:00:13.9860532+00:00",
-  "LastUpdate_Achievements": "2023-12-18T19:08:03.7517146+00:00"
+  "LastUpdate_Ratings": "2023-12-18T19:59:50.8788349+00:00",
+  "LastUpdate_Achievements": "2023-12-18T20:08:12.9239712+00:00"
 }

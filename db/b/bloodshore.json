@@ -3,9 +3,9 @@
   "Name": "Bloodshore",
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 389,
-  "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 344,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_Completed": 126,
+  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
     "PcReleaseDate": "2021-11-03T17:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 240,
+  "EOS_Progressed": 242,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.5,
+  "EOS_Completed_Percentage": 2.48,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:37.2601776+00:00",
@@ -555,6 +555,11 @@
       "Time": "2023-12-18T19:04:13.3619528+00:00",
       "NumProgressed": 240,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-18T20:04:18.2185472+00:00",
+      "NumProgressed": 242,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 17,
@@ -564,9 +569,9 @@
       "ID": "bromance",
       "SetID": "84ad177",
       "Name": "Bromance",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 70
     },
     {
       "ID": "comedy_killer",
@@ -580,9 +585,9 @@
       "ID": "congratulations_you_are_a_sadist",
       "SetID": "84ad177",
       "Name": "Congratulations, you are a sadist",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 115
+      "UsersEstimate": 114
     },
     {
       "ID": "deathlooper",
@@ -596,17 +601,17 @@
       "ID": "good_job_nerd",
       "SetID": "84ad177",
       "Name": "Good job, nerd",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 75
     },
     {
       "ID": "leader_you_are_not",
       "SetID": "84ad177",
       "Name": "A leader, you are not",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 82
     },
     {
       "ID": "lootaphilia",
@@ -614,7 +619,7 @@
       "Name": "Lootaphilia",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "maybe_you_should_give_it_another_go",
@@ -622,7 +627,7 @@
       "Name": "Maybe you should give it another go",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "mikey_lizard",
@@ -638,15 +643,15 @@
       "Name": "Mission Complete",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "super_seducer",
       "SetID": "84ad177",
       "Name": "Super Seducer",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 122
+      "UsersEstimate": 121
     },
     {
       "ID": "superstar_crossed_lovers",
@@ -668,9 +673,9 @@
       "ID": "this_wont_end_well",
       "SetID": "84ad177",
       "Name": "This won\u0027t end well...",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 75
     },
     {
       "ID": "tried_to_warn_you",
@@ -686,7 +691,7 @@
       "Name": "Um, ok...",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "used_to_think_i_was_indecisive",
@@ -701,7 +706,7 @@
     {
       "ID": "84ad177",
       "IsBase": true,
-      "Progressed": 240,
+      "Progressed": 242,
       "Completed": 6
     }
   ],
@@ -709,8 +714,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-12-18T19:04:13.3619523+00:00",
+  "LastChanged_Achievements": "2023-12-18T20:04:18.2185466+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:59.0408325+00:00",
-  "LastUpdate_Ratings": "2023-12-18T19:03:06.8475394+00:00",
-  "LastUpdate_Achievements": "2023-12-18T19:04:13.3619656+00:00"
+  "LastUpdate_Ratings": "2023-12-18T20:03:11.421045+00:00",
+  "LastUpdate_Achievements": "2023-12-18T20:04:18.2185694+00:00"
 }

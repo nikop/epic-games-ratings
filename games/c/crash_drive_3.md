@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Brace for impact! | 30.00% | ~125 |
+| Brace for impact! | 30.00% | ~126 |
+| A Forest Walk | 29.00% | ~122 |
 | Baby's First Car | 28.00% | ~117 |
-| Amateur Mechanic | 28.00% | ~117 |
-| Pushover | 28.00% | ~117 |
-| A Forest Walk | 28.00% | ~117 |
+| Amateur Mechanic | 27.00% | ~113 |
+| Pushover | 27.00% | ~113 |
 | Multiply that! | 26.00% | ~109 |
-| C-C-C-Combo! | 25.00% | ~104 |
+| C-C-C-Combo! | 25.00% | ~105 |
 | Fore! | 23.00% | ~96 |
 | The Collector | 23.00% | ~96 |
 | Snow Fun! | 23.00% | ~96 |
@@ -27,12 +27,12 @@
 | Disoriented | 20.00% | ~84 |
 | Take that Frosty! | 20.00% | ~84 |
 | Beach Party! | 20.00% | ~84 |
-| Anger Issues | 19.00% | ~79 |
-| Your Highness | 19.00% | ~79 |
+| Anger Issues | 19.00% | ~80 |
+| Your Highness | 19.00% | ~80 |
 | Event Amateur | 18.00% | ~75 |
-| Feeling Hot Hot Hot! | 17.00% | ~71 |
-| Feeling Dizzy? | 17.00% | ~71 |
 | Drift King! | 16.00% | ~67 |
+| Feeling Hot Hot Hot! | 16.00% | ~67 |
+| Feeling Dizzy? | 16.00% | ~67 |
 | Ferry Good! | 16.00% | ~67 |
 | Assert Dominance | 16.00% | ~67 |
 | Speed of light | 16.00% | ~67 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 1.00% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 418 (Ranked 339)  
+Progressed: 419 (Ranked 339)  
 Completed: 2 (0.48%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,6 +159,7 @@ Completed: 2 (0.48%) (Ranked 217)
 | 2023-12-09 | 413 | 2 |
 | 2023-12-13 | 415 | 2 |
 | 2023-12-16 | 418 | 2 |
+| 2023-12-18 | 419 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

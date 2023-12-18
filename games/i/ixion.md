@@ -5,18 +5,18 @@ Rating: 4.58 (Ranked 455)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 30.00% | ~1,069 |
-| Sputnik 2049 | 26.00% | ~927 |
-| Without Breaking Some Eggs... | 25.00% | ~891 |
-| Infinite Growth... | 25.00% | ~891 |
+| Wakey Wakey | 30.00% | ~1,070 |
+| Sputnik 2049 | 26.00% | ~928 |
+| Without Breaking Some Eggs... | 25.00% | ~892 |
+| Infinite Growth... | 25.00% | ~892 |
 | Ready for a New World | 18.00% | ~642 |
-| Space Society | 17.00% | ~606 |
-| A Thousand Strong | 17.00% | ~606 |
+| Space Society | 17.00% | ~607 |
+| A Thousand Strong | 17.00% | ~607 |
 | Permanent Redesigns | 15.00% | ~535 |
-| Fully Recycled | 14.00% | ~499 |
-| Ain't Nobody Got Time for That | 14.00% | ~499 |
-| The Ship of Theseus | 14.00% | ~499 |
-| Guy de Borderlands | 13.00% | ~463 |
+| Fully Recycled | 14.00% | ~500 |
+| Ain't Nobody Got Time for That | 14.00% | ~500 |
+| The Ship of Theseus | 14.00% | ~500 |
+| Guy de Borderlands | 13.00% | ~464 |
 | Exceeding Capacity | 12.00% | ~428 |
 | Breaking Protocol | 12.00% | ~428 |
 | Hope Seeker | 12.00% | ~428 |
@@ -25,9 +25,9 @@ Rating: 4.58 (Ranked 455)
 | Power Outage | 8.00% | ~285 |
 | Convenient Transport | 8.00% | ~285 |
 | Please Make it Stop! | 8.00% | ~285 |
-| Sightseeing | 7.00% | ~249 |
-| Necessary Enhancement | 7.00% | ~249 |
-| From the Past | 7.00% | ~249 |
+| Sightseeing | 7.00% | ~250 |
+| Necessary Enhancement | 7.00% | ~250 |
+| From the Past | 7.00% | ~250 |
 | Access Granted | 6.00% | ~214 |
 | All in Good Health | 6.00% | ~214 |
 | Oats | 5.00% | ~178 |
@@ -58,12 +58,12 @@ Rating: 4.58 (Ranked 455)
 | Soylent Green | 0.40% | ~14 |
 | A Junker's Dream | 0.30% | ~11 |
 | Scenic View | 0.20% | ~7 |
-| I Give You the Stars | 0.20% | ~3 |
+| I Give You the Stars | 0.20% | ~4 |
 | Beyond Time and Space | 0.10% | ~4 |
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,564 (Ranked 211)  
+Progressed: 3,568 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-15 | 3,496 | 0 |
 | 2023-12-16 | 3,519 | 0 |
 | 2023-12-17 | 3,550 | 0 |
-| 2023-12-18 | 3,564 | 0 |
+| 2023-12-18 | 3,568 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

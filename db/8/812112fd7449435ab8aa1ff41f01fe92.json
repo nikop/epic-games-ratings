@@ -4,8 +4,8 @@
   "ProductSlug": "jump-challenge-228ff0",
   "Ranking_EOS_Progress": 555,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 473,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 451,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-23T18:00:00+00:00",
     "PcReleaseDate": "2022-03-19T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 32,
+  "EOS_Progressed": 33,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -174,6 +174,11 @@
       "Time": "2023-12-17T04:08:30.0272451+00:00",
       "NumProgressed": 32,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T20:03:23.0934186+00:00",
+      "NumProgressed": 33,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-13T15:03:01.8003971+00:00",
@@ -192,7 +197,7 @@
       "ID": "DEATH_ACID",
       "SetID": "5629o35",
       "Name": "Be wary of acid",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 50,
       "UsersEstimate": 11
     },
@@ -234,7 +239,7 @@
       "Name": "The floor is lava. Literally.",
       "Percentage": 97,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "DEATH_LAVA_100",
@@ -258,7 +263,7 @@
       "Name": "Welcome to the jumping challenge!",
       "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "OWN_SKINS",
@@ -288,15 +293,15 @@
       "ID": "SCORE_100",
       "SetID": "5629o35",
       "Name": "Newbie jumper",
-      "Percentage": 50,
+      "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "SCORE_300",
       "SetID": "5629o35",
       "Name": "Parkourer",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 25,
       "UsersEstimate": 8
     },
@@ -329,14 +334,14 @@
     {
       "ID": "5629o35",
       "IsBase": true,
-      "Progressed": 32,
+      "Progressed": 33,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-29T17:58:28.6807523+00:00",
   "FirstSeenAchievements": "2023-11-13T15:03:01.800397+00:00",
-  "LastChanged_Achievements": "2023-12-18T19:03:17.0842838+00:00",
+  "LastChanged_Achievements": "2023-12-18T20:03:23.0934181+00:00",
   "LastUpdate_AppInfo": "2023-12-18T17:57:03.6882168+00:00",
-  "LastUpdate_Ratings": "2023-12-18T19:02:37.3778861+00:00",
-  "LastUpdate_Achievements": "2023-12-18T19:03:17.0842988+00:00"
+  "LastUpdate_Ratings": "2023-12-18T20:02:41.530115+00:00",
+  "LastUpdate_Achievements": "2023-12-18T20:03:23.0934338+00:00"
 }

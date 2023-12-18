@@ -4,8 +4,8 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2714,
+  "EOS_Progressed": 2715,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 276,
+  "EOS_NewPlayers": 275,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6627,6 +6627,11 @@
       "Time": "2023-12-18T19:04:58.474455+00:00",
       "NumProgressed": 2714,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T20:05:01.8313108+00:00",
+      "NumProgressed": 2715,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -6655,7 +6660,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -6711,7 +6716,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -6789,9 +6794,9 @@
       "ID": "ML_ACHIEVEMENT_20",
       "SetID": "c7hf6a4",
       "Name": "The Road to Liberty",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 81
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -6845,9 +6850,9 @@
       "ID": "ML_ACHIEVEMENT_27",
       "SetID": "c7hf6a4",
       "Name": "Clean Race",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1140
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -6935,7 +6940,7 @@
       "Name": "Eat My Dust",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -6965,9 +6970,9 @@
       "ID": "ML_ACHIEVEMENT_42",
       "SetID": "c7hf6a4",
       "Name": "In Search of Perfection",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "ML_ACHIEVEMENT_43",
@@ -7030,14 +7035,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2714,
+      "Progressed": 2715,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-18T19:04:58.4744546+00:00",
+  "LastChanged_Achievements": "2023-12-18T20:05:01.8313103+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:35.5257739+00:00",
-  "LastUpdate_Ratings": "2023-12-18T18:58:06.5967298+00:00",
-  "LastUpdate_Achievements": "2023-12-18T19:04:58.4745095+00:00"
+  "LastUpdate_Ratings": "2023-12-18T19:57:47.3671786+00:00",
+  "LastUpdate_Achievements": "2023-12-18T20:05:01.8313682+00:00"
 }

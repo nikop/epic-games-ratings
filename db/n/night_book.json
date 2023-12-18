@@ -4,8 +4,8 @@
   "ProductSlug": "night-book-77f2c7",
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
     "PcReleaseDate": "2021-07-27T17:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 271,
+  "EOS_Progressed": 272,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.58,
+  "EOS_Completed_Percentage": 2.57,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:54.2644177+00:00",
@@ -521,6 +521,11 @@
       "Time": "2023-12-18T04:07:37.8801529+00:00",
       "NumProgressed": 271,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-18T20:08:06.2627637+00:00",
+      "NumProgressed": 272,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 17,
@@ -540,7 +545,7 @@
       "Name": "Career Woman",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "deal_or_no_deal",
@@ -548,7 +553,7 @@
       "Name": "Deal Or No Deal",
       "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "hopeful",
@@ -572,7 +577,7 @@
       "Name": "Impress Theron",
       "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "marriage_is_off",
@@ -596,7 +601,7 @@
       "Name": "He\u0027s Off His Meds",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "on_your_bike",
@@ -618,9 +623,9 @@
       "ID": "personal_life",
       "SetID": "a3kkelb",
       "Name": "Personal Life",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 128
     },
     {
       "ID": "save_dad",
@@ -667,7 +672,7 @@
     {
       "ID": "a3kkelb",
       "IsBase": true,
-      "Progressed": 271,
+      "Progressed": 272,
       "Completed": 7
     }
   ],
@@ -675,8 +680,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-12-18T19:06:25.701497+00:00",
+  "LastChanged_Achievements": "2023-12-18T20:08:06.2627633+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:56:54.4004321+00:00",
-  "LastUpdate_Ratings": "2023-12-18T18:58:56.2686767+00:00",
-  "LastUpdate_Achievements": "2023-12-18T19:06:25.7015114+00:00"
+  "LastUpdate_Ratings": "2023-12-18T19:58:34.3969588+00:00",
+  "LastUpdate_Achievements": "2023-12-18T20:08:06.2627762+00:00"
 }

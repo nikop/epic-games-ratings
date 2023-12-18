@@ -15,7 +15,7 @@
 | Neurotrainer – power gainer! | 76.00% | ~318 |
 | Employee of the week | 75.00% | ~314 |
 | Your own amateur gym | 71.00% | ~297 |
-| First defeat | 69.00% | ~288 |
+| First defeat | 70.00% | ~293 |
 | Run K, run! | 69.00% | ~288 |
 | Hello, world! | 68.00% | ~284 |
 | Fighting is cool | 67.00% | ~280 |
@@ -29,10 +29,10 @@
 | Handyman | 56.00% | ~234 |
 | Champion – starter pack | 56.00% | ~234 |
 | Intriguing candies | 56.00% | ~234 |
+| Fight for life | 55.00% | ~230 |
 | It's good to be alive | 55.00% | ~230 |
 | Own four walls | 55.00% | ~230 |
 | Employee of the year | 55.00% | ~230 |
-| Fight for life | 54.00% | ~226 |
 | Legal courier | 51.00% | ~213 |
 | Extreme neuropower! | 51.00% | ~213 |
 | Escaped from a big trouble | 47.00% | ~196 |
@@ -42,7 +42,7 @@
 | Guiding on the right path | 42.00% | ~176 |
 | No blades in the gym | 40.00% | ~167 |
 | Champion – no way back | 39.00% | ~163 |
-| Underground dwellers | 38.00% | ~159 |
+| Underground dwellers | 39.00% | ~163 |
 | Responsible approach | 38.00% | ~159 |
 | Deal with life | 37.00% | ~155 |
 | GYM professional | 37.00% | ~155 |
@@ -61,17 +61,17 @@
 | Keep nature safe | 31.00% | ~130 |
 | Family comes first | 31.00% | ~130 |
 | Key memories | 31.00% | ~130 |
+| Careerist | 31.00% | ~130 |
 | The heart of the Resistance | 31.00% | ~130 |
 | Trap disarmed | 30.00% | ~125 |
 | Another world | 30.00% | ~125 |
-| Careerist | 30.00% | ~125 |
 | Anyone can resist | 30.00% | ~125 |
 | The only right decision | 28.00% | ~117 |
 | The last bell ring | 28.00% | ~117 |
 | Silver’s past | 27.00% | ~113 |
 | Better cooking at home | 27.00% | ~113 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 418 (Ranked 339)  
+Progressed: 418 (Ranked 340)  
 Completed: 9 (2.15%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |

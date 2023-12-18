@@ -20,7 +20,7 @@
 | The Ascent | 58.00% | ~340 |
 | It's Warm and Cozy at Home | 58.00% | ~340 |
 | Trap Master | 55.00% | ~323 |
-| Minions, Minions! | 54.00% | ~317 |
+| Minions, Minions! | 55.00% | ~323 |
 | The Big Eaty | 54.00% | ~317 |
 | Hard Work | 53.00% | ~311 |
 | “… like son” | 51.00% | ~299 |
@@ -56,8 +56,8 @@
 | To Infinity And Beyond! | 18.00% | ~106 |
 | To the Max! | 17.00% | ~100 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~94 |
+| Evilification | 16.00% | ~94 |
 | Untouchable | 15.00% | ~88 |
-| Evilification | 15.00% | ~88 |
 | Mirror, Mirror | 14.00% | ~82 |
 | Heal Heal Blessing | 14.00% | ~82 |
 | Hands Off My Stones | 12.00% | ~70 |
@@ -67,7 +67,7 @@
 | I Don't Need Any Help | 8.00% | ~47 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 587 (Ranked 317)  
-Completed: 18 (3.07%) (Ranked 109)  
+Completed: 19 (3.24%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -109,4 +109,4 @@ Completed: 18 (3.07%) (Ranked 109)
 | 2023-12-15 | 566 | 17 |
 | 2023-12-16 | 576 | 17 |
 | 2023-12-17 | 586 | 17 |
-| 2023-12-18 | 587 | 18 |
+| 2023-12-18 | 587 | 19 |

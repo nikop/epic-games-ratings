@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -195,9 +195,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1413,
+  "EOS_Progressed": 1414,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 340,
+  "EOS_NewPlayers": 341,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3430,6 +3430,11 @@
       "Time": "2023-12-18T18:04:36.0356276+00:00",
       "NumProgressed": 1413,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T20:04:02.6225377+00:00",
+      "NumProgressed": 1414,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -3450,7 +3455,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 1272
+      "UsersEstimate": 1273
     },
     {
       "ID": "AC02",
@@ -3466,7 +3471,7 @@
       "Name": "Blood and Gold",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "AC04",
@@ -3474,7 +3479,7 @@
       "Name": "Blood and Iron",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "AC05",
@@ -3482,7 +3487,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "AC06",
@@ -3504,9 +3509,9 @@
       "ID": "AC08",
       "SetID": "l4abp0",
       "Name": "Forged in Fire",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 692
+      "UsersEstimate": 707
     },
     {
       "ID": "AC09",
@@ -3514,7 +3519,7 @@
       "Name": "Fermosa Fembra",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "AC10",
@@ -3554,7 +3559,7 @@
       "Name": "Acta, Non Verba",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "AC15",
@@ -3562,7 +3567,7 @@
       "Name": "Full Devotion",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "AC16",
@@ -3586,7 +3591,7 @@
       "Name": "Acquired Taste",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "AC19",
@@ -3618,7 +3623,7 @@
       "Name": "Empty Handed",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "AC23",
@@ -3642,7 +3647,7 @@
       "Name": "House of Grief and Hatred",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "AC26",
@@ -3650,7 +3655,7 @@
       "Name": "A Leap of Faith",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "AC27",
@@ -3666,7 +3671,7 @@
       "Name": "The Punished One",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "AC29",
@@ -3674,7 +3679,7 @@
       "Name": "The Veteran One",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "AC30",
@@ -3682,7 +3687,7 @@
       "Name": "The Anointed One",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "AC31",
@@ -3706,7 +3711,7 @@
       "Name": "Ultima Ratio",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "AC34",
@@ -3762,7 +3767,7 @@
       "Name": "Welcome Back!",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1116
+      "UsersEstimate": 1117
     },
     {
       "ID": "AC41",
@@ -3770,7 +3775,7 @@
       "Name": "Happy New Year!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "AC42",
@@ -3809,7 +3814,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 1413,
+      "Progressed": 1414,
       "Completed": 0
     }
   ],
@@ -3817,8 +3822,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-12-13T22:00:21.7018049+00:00",
-  "LastChanged_Achievements": "2023-12-18T19:03:57.256259+00:00",
+  "LastChanged_Achievements": "2023-12-18T20:04:02.6225375+00:00",
   "LastUpdate_AppInfo": "2023-12-13T02:20:44.5606116+00:00",
-  "LastUpdate_Ratings": "2023-12-18T18:59:25.4894225+00:00",
-  "LastUpdate_Achievements": "2023-12-18T19:03:57.2563056+00:00"
+  "LastUpdate_Ratings": "2023-12-18T19:59:03.3577725+00:00",
+  "LastUpdate_Achievements": "2023-12-18T20:04:02.6225816+00:00"
 }

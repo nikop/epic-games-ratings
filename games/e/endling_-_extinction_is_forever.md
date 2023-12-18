@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 95.00% | ~531 |
-| A Friend in Need | 61.00% | ~341 |
-| Surviving | 43.00% | ~240 |
-| Detox diet | 41.00% | ~229 |
-| Never Give Up | 40.00% | ~224 |
+| Home Sweet Home | 95.00% | ~532 |
+| A Friend in Need | 61.00% | ~342 |
+| Surviving | 43.00% | ~241 |
+| Detox diet | 41.00% | ~230 |
+| Never Give Up | 39.00% | ~218 |
 | Tasty | 37.00% | ~207 |
-| Lullaby | 31.00% | ~173 |
+| Lullaby | 31.00% | ~174 |
 | You Can Pet The Fox | 30.00% | ~168 |
 | Hard Fox Life | 24.00% | ~134 |
 | Never Let Down | 23.00% | ~129 |
-| A Barking Fox Doesn't Bite | 21.00% | ~117 |
-| Chicken Dinner | 21.00% | ~117 |
+| A Barking Fox Doesn't Bite | 21.00% | ~118 |
+| Chicken Dinner | 21.00% | ~118 |
 | Peaceful Instinct | 18.00% | ~101 |
 | Maternity | 17.00% | ~95 |
 | Barking in The Rain | 15.00% | ~84 |
 | Family Reunion | 14.00% | ~78 |
 | Beyond Words | 14.00% | ~78 |
 | Never Run Around | 13.00% | ~73 |
-| Two Peas in a Pod | 11.00% | ~61 |
-| All For One | 11.00% | ~61 |
-| Extinction is Forever | 11.00% | ~61 |
+| Two Peas in a Pod | 11.00% | ~62 |
+| All For One | 11.00% | ~62 |
+| Extinction is Forever | 11.00% | ~62 |
 | Three Little Foxes | 10.00% | ~56 |
 | We Are a Family | 9.00% | ~50 |
 | Mother Love | 4.00% | ~22 |
@@ -33,7 +33,7 @@
 | Omnivore | 1.00% | ~6 |
 | Endling | 0.90% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 559 (Ranked 319)  
+Progressed: 560 (Ranked 319)  
 Completed: 3 (0.54%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,6 +157,7 @@ Completed: 3 (0.54%) (Ranked 209)
 | 2023-12-14 | 555 | 3 |
 | 2023-12-15 | 556 | 3 |
 | 2023-12-16 | 559 | 3 |
+| 2023-12-18 | 560 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

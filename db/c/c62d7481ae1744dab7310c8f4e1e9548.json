@@ -2,10 +2,10 @@
   "ID": "c62d7481ae1744dab7310c8f4e1e9548",
   "Name": "Samorost 3",
   "ProductSlug": "samorost-3-0c4489",
-  "Ranking_EOS_Progress": 438,
+  "Ranking_EOS_Progress": 437,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2016-03-24T11:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 126,
+  "EOS_Progressed": 127,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.35,
+  "EOS_Completed_Percentage": 6.3,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -664,6 +664,11 @@
       "Time": "2023-12-18T17:04:52.1476402+00:00",
       "NumProgressed": 126,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-18T20:04:48.0382827+00:00",
+      "NumProgressed": 127,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -676,15 +681,15 @@
       "Name": "Woodworm",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Cikady",
       "SetID": "ag48e8e",
       "Name": "Cicadas",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 25
     },
     {
       "ID": "Destilat",
@@ -730,9 +735,9 @@
       "ID": "Kamzik",
       "SetID": "ag48e8e",
       "Name": "Chamois",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 65
     },
     {
       "ID": "Kour",
@@ -740,7 +745,7 @@
       "Name": "Spiral Smoke",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "KrabiPyramida",
@@ -748,7 +753,7 @@
       "Name": "Crab Pyramid",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Kudla",
@@ -764,7 +769,7 @@
       "Name": "Blossoms",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "MluviciPapouch",
@@ -780,7 +785,7 @@
       "Name": "Singing Mouse",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Netopyrci",
@@ -788,15 +793,15 @@
       "Name": "Cave Bats",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Netopyrek",
       "SetID": "ag48e8e",
       "Name": "Liana Bats",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "Pejsek",
@@ -804,7 +809,7 @@
       "Name": "Dog",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Poustevnik",
@@ -820,7 +825,7 @@
       "Name": "Cosmic Ring",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Rybka",
@@ -836,7 +841,7 @@
       "Name": "Owl",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "SpiciPapouch",
@@ -850,9 +855,9 @@
       "ID": "Sputnik2",
       "SetID": "ag48e8e",
       "Name": "Sputnik",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "Stonozka",
@@ -860,7 +865,7 @@
       "Name": "Centipede",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Strom",
@@ -884,7 +889,7 @@
       "Name": "Shem Is Home",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Xicht",
@@ -915,14 +920,14 @@
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 126,
+      "Progressed": 127,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-12-18T19:04:44.1330051+00:00",
+  "LastChanged_Achievements": "2023-12-18T20:04:48.0382824+00:00",
   "LastUpdate_AppInfo": "2023-12-16T05:57:11.9485544+00:00",
-  "LastUpdate_Ratings": "2023-12-18T19:02:43.9390118+00:00",
-  "LastUpdate_Achievements": "2023-12-18T19:04:44.133026+00:00"
+  "LastUpdate_Ratings": "2023-12-18T20:02:47.8487533+00:00",
+  "LastUpdate_Achievements": "2023-12-18T20:04:48.0383049+00:00"
 }

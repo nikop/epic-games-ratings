@@ -3,12 +3,12 @@
   "Name": "Soulstice",
   "ProductSlug": "soulstice",
   "Ranking_Rating": 920,
-  "Ranking_Popularity": 409,
-  "Ranking_PopularitySum": 478,
+  "Ranking_Popularity": 410,
+  "Ranking_PopularitySum": 479,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -431,9 +431,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 331044,
+  "EOS_Progressed": 331069,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3545,
+  "EOS_NewPlayers": 3556,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10101,6 +10101,11 @@
       "Time": "2023-12-18T19:04:39.2010878+00:00",
       "NumProgressed": 331044,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-18T20:04:42.9238306+00:00",
+      "NumProgressed": 331069,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -10113,7 +10118,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 9931
+      "UsersEstimate": 9932
     },
     {
       "ID": "S02_BRDA",
@@ -10129,7 +10134,7 @@
       "Name": "Rumors are true",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 2648
+      "UsersEstimate": 2649
     },
     {
       "ID": "S04_BRDC",
@@ -10249,7 +10254,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13242
+      "UsersEstimate": 13243
     },
     {
       "ID": "S19_CHALLENGES",
@@ -10305,7 +10310,7 @@
       "Name": "Pride is a sin, young Knight",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 2648
+      "UsersEstimate": 2649
     },
     {
       "ID": "S26_CRTA",
@@ -10337,7 +10342,7 @@
       "Name": "Your wounds\u2026 They are healing so fast!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2979
+      "UsersEstimate": 2980
     },
     {
       "ID": "S30_DIAMOND",
@@ -10425,14 +10430,14 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3310
+      "UsersEstimate": 3311
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 331044,
+      "Progressed": 331069,
       "Completed": 5
     }
   ],
@@ -10440,8 +10445,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-17T23:00:34.9131333+00:00",
-  "LastChanged_Achievements": "2023-12-18T19:04:39.2010873+00:00",
+  "LastChanged_Achievements": "2023-12-18T20:04:42.9238302+00:00",
   "LastUpdate_AppInfo": "2023-12-14T20:57:08.8756847+00:00",
-  "LastUpdate_Ratings": "2023-12-18T18:59:59.5218327+00:00",
-  "LastUpdate_Achievements": "2023-12-18T19:04:39.2011738+00:00"
+  "LastUpdate_Ratings": "2023-12-18T19:59:36.8391192+00:00",
+  "LastUpdate_Achievements": "2023-12-18T20:04:42.9239055+00:00"
 }

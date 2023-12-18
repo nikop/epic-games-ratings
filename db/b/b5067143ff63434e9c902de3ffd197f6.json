@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
     "PcReleaseDate": "2023-07-11T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15051,
+  "EOS_Progressed": 15062,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1031,
+  "EOS_NewPlayers": 1037,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9309,6 +9309,11 @@
       "Time": "2023-12-18T19:05:31.718449+00:00",
       "NumProgressed": 15051,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T20:05:34.7822305+00:00",
+      "NumProgressed": 15062,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -9361,7 +9366,7 @@
       "Name": "MEG",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ACH_RUNFORYOURLIFE",
@@ -9401,7 +9406,7 @@
       "Name": "End?",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ACH_WINELECTRICALSTATION",
@@ -9417,7 +9422,7 @@
       "Name": "Level 0",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3913
+      "UsersEstimate": 3916
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -9425,7 +9430,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1806
+      "UsersEstimate": 1807
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -9433,7 +9438,7 @@
       "Name": "Dreamer!",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1656
+      "UsersEstimate": 1657
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -9512,14 +9517,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 15051,
+      "Progressed": 15062,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-12-18T19:05:31.7184486+00:00",
+  "LastChanged_Achievements": "2023-12-18T20:05:34.7822302+00:00",
   "LastUpdate_AppInfo": "2023-12-18T18:57:14.5772532+00:00",
-  "LastUpdate_Ratings": "2023-12-18T18:59:29.3035826+00:00",
-  "LastUpdate_Achievements": "2023-12-18T19:05:31.7185048+00:00"
+  "LastUpdate_Ratings": "2023-12-18T19:59:06.9686741+00:00",
+  "LastUpdate_Achievements": "2023-12-18T20:05:34.7822782+00:00"
 }

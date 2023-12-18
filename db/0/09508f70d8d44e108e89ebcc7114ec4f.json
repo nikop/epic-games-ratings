@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 118,
   "Ranking_EOS_NewPlayers": 451,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-06-01T13:00:00+00:00",
     "PcReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -1570,9 +1570,9 @@
       "ID": "church",
       "SetID": "ap7g2g4",
       "Name": "Church",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 253
+      "UsersEstimate": 257
     },
     {
       "ID": "circus",
@@ -1682,9 +1682,9 @@
       "ID": "seaweed_farm",
       "SetID": "ap7g2g4",
       "Name": "Seaweed farm",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 190
+      "UsersEstimate": 195
     },
     {
       "ID": "tavern",
@@ -1737,8 +1737,8 @@
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-12-18T19:08:59.4417129+00:00",
+  "LastChanged_Achievements": "2023-12-18T20:09:07.5959889+00:00",
   "LastUpdate_AppInfo": "2023-12-15T04:57:00.4657974+00:00",
-  "LastUpdate_Ratings": "2023-12-18T19:02:50.5464738+00:00",
-  "LastUpdate_Achievements": "2023-12-18T19:08:59.4417338+00:00"
+  "LastUpdate_Ratings": "2023-12-18T20:02:53.8683935+00:00",
+  "LastUpdate_Achievements": "2023-12-18T20:09:07.5960127+00:00"
 }

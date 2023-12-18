@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 83,
   "Ranking_EOS_NewPlayers": 451,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2016-09-20T17:00:00+00:00",
@@ -429,17 +429,17 @@
       "ID": "CHAPTER_02_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Last Goodbye",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 25,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "CHAPTER_03_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "The Routine",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 123
+      "UsersEstimate": 125
     },
     {
       "ID": "CHAPTER_04_COMPLETE",
@@ -622,8 +622,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.332275+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:47.0734489+00:00",
   "LastChanged": "2023-03-31T05:58:47.3322751+00:00",
-  "LastChanged_Achievements": "2023-12-18T19:04:53.9755646+00:00",
+  "LastChanged_Achievements": "2023-12-18T20:04:57.6247907+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:55.4022304+00:00",
-  "LastUpdate_Ratings": "2023-12-18T18:59:58.0318764+00:00",
-  "LastUpdate_Achievements": "2023-12-18T19:04:53.9755797+00:00"
+  "LastUpdate_Ratings": "2023-12-18T19:59:35.406856+00:00",
+  "LastUpdate_Achievements": "2023-12-18T20:04:57.6248101+00:00"
 }

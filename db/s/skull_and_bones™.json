@@ -4,8 +4,8 @@
   "ProductSlug": "skull-and-bones",
   "Ranking_EOS_Progress": 809,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 548,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 549,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2024-02-16T05:00:00+00:00",
     "PcReleaseDate": null,
@@ -31,6 +31,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-17T01:48:19.709874+00:00",
-  "LastUpdate_Ratings": "2023-12-18T18:58:46.5427098+00:00",
-  "LastUpdate_Achievements": "2023-12-18T19:04:10.6312325+00:00"
+  "LastUpdate_Ratings": "2023-12-18T19:58:24.7494556+00:00",
+  "LastUpdate_Achievements": "2023-12-18T20:04:15.5115041+00:00"
 }

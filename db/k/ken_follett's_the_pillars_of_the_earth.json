@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17168,
+  "EOS_Progressed": 17169,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -16415,6 +16415,11 @@
       "Time": "2023-12-18T19:03:38.7616493+00:00",
       "NumProgressed": 17168,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-12-18T20:03:44.5197339+00:00",
+      "NumProgressed": 17169,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 41,
@@ -16466,7 +16471,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5665
+      "UsersEstimate": 5666
     },
     {
       "ID": "tpote_achievement_15",
@@ -16514,7 +16519,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5665
+      "UsersEstimate": 5666
     },
     {
       "ID": "tpote_achievement_20",
@@ -16634,7 +16639,7 @@
       "Name": "Nothing but make-believe",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1373
+      "UsersEstimate": 1374
     },
     {
       "ID": "tpote_achievement_34",
@@ -16690,7 +16695,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6867
+      "UsersEstimate": 6868
     },
     {
       "ID": "tpote_achievement_40",
@@ -16714,7 +16719,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 4120
+      "UsersEstimate": 4121
     },
     {
       "ID": "tpote_achievement_6",
@@ -16753,15 +16758,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17168,
+      "Progressed": 17169,
       "Completed": 119
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2023-12-18T19:03:38.7616489+00:00",
+  "LastChanged_Achievements": "2023-12-18T20:03:44.5197335+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:13.9933566+00:00",
-  "LastUpdate_Ratings": "2023-12-18T18:58:20.9568878+00:00",
-  "LastUpdate_Achievements": "2023-12-18T19:03:38.7617389+00:00"
+  "LastUpdate_Ratings": "2023-12-18T19:58:01.5597782+00:00",
+  "LastUpdate_Achievements": "2023-12-18T20:03:44.519839+00:00"
 }

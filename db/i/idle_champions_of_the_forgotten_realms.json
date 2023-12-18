@@ -8851,9 +8851,9 @@
       "Count": 3578
     }
   ],
-  "EOS_Progressed": 241781,
+  "EOS_Progressed": 241793,
   "EOS_Completed": 2540,
-  "EOS_NewPlayers": 2354,
+  "EOS_NewPlayers": 2358,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -36186,6 +36186,11 @@
       "Time": "2023-12-18T19:09:48.9561111+00:00",
       "NumProgressed": 241781,
       "NumCompleted": 2540
+    },
+    {
+      "Time": "2023-12-18T20:09:56.3890309+00:00",
+      "NumProgressed": 241793,
+      "NumCompleted": 2540
     }
   ],
   "TotalAchievements": 546,
@@ -40475,9 +40480,9 @@
       "ID": "objective_completed_1352",
       "SetID": "415jc5c",
       "Name": "Welcome to the Vrocks",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 208
+      "UsersEstimate": 416
     },
     {
       "ID": "objective_completed_1557",
@@ -40564,21 +40569,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 208055,
-      "Completed": 4034
+      "Progressed": 208067,
+      "Completed": 4035
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 241781,
+      "Progressed": 241793,
       "Completed": 2540
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-18T18:59:51.1707215+00:00",
-  "LastChanged_Achievements": "2023-12-18T19:09:48.9561106+00:00",
+  "LastChanged_Achievements": "2023-12-18T20:09:56.3890305+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:52.1318001+00:00",
-  "LastUpdate_Ratings": "2023-12-18T18:59:51.170722+00:00",
-  "LastUpdate_Achievements": "2023-12-18T19:09:48.9584065+00:00"
+  "LastUpdate_Ratings": "2023-12-18T19:59:28.854174+00:00",
+  "LastUpdate_Achievements": "2023-12-18T20:09:56.3920581+00:00"
 }

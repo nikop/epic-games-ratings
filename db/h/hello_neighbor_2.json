@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 93,
   "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -477,9 +477,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3452,
+  "EOS_Progressed": 3453,
   "EOS_Completed": 139,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.03,
   "EosHistory": [
@@ -5597,6 +5597,11 @@
       "Time": "2023-12-18T19:04:48.4439907+00:00",
       "NumProgressed": 3452,
       "NumCompleted": 139
+    },
+    {
+      "Time": "2023-12-18T20:04:52.1130318+00:00",
+      "NumProgressed": 3453,
+      "NumCompleted": 139
     }
   ],
   "TotalAchievements": 14,
@@ -5680,7 +5685,7 @@
       "Name": "Mad Scientist",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 828
+      "UsersEstimate": 829
     },
     {
       "ID": "ACH_REUNION",
@@ -5688,7 +5693,7 @@
       "Name": "Reunion",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 828
+      "UsersEstimate": 829
     },
     {
       "ID": "ACH_SHOVEL_NIGHT",
@@ -5696,7 +5701,7 @@
       "Name": "Shovel Night",
       "Percentage": 37,
       "XP": 55,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1278
     },
     {
       "ID": "ACH_TREASURE_HUNT",
@@ -5719,7 +5724,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3452,
+      "Progressed": 3453,
       "Completed": 139
     }
   ],
@@ -5727,8 +5732,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-12-16T18:57:24.1820131+00:00",
-  "LastChanged_Achievements": "2023-12-18T19:04:48.4439903+00:00",
+  "LastChanged_Achievements": "2023-12-18T20:04:52.1130306+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:20.5679965+00:00",
-  "LastUpdate_Ratings": "2023-12-18T18:58:22.6860213+00:00",
-  "LastUpdate_Achievements": "2023-12-18T19:04:48.444028+00:00"
+  "LastUpdate_Ratings": "2023-12-18T19:58:03.5640135+00:00",
+  "LastUpdate_Achievements": "2023-12-18T20:04:52.1130678+00:00"
 }

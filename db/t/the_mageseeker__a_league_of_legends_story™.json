@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2856,
+  "EOS_Progressed": 2857,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -4635,6 +4635,11 @@
       "Time": "2023-12-18T18:07:50.8840019+00:00",
       "NumProgressed": 2856,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-12-18T20:06:06.6860455+00:00",
+      "NumProgressed": 2857,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 53,
@@ -4694,7 +4699,7 @@
       "Name": "Elemental master",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1029
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -4710,7 +4715,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2713
+      "UsersEstimate": 2714
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -4782,7 +4787,7 @@
       "Name": "Old friend",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -4822,7 +4827,7 @@
       "Name": "Pentakill",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2199
+      "UsersEstimate": 2200
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -4830,7 +4835,7 @@
       "Name": "No more cages!",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 2599
+      "UsersEstimate": 2600
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -4862,7 +4867,7 @@
       "Name": "Dark Forest",
       "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 2199
+      "UsersEstimate": 2200
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -4870,7 +4875,7 @@
       "Name": "Thornbarrow",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1143
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -4894,7 +4899,7 @@
       "Name": "Sacred Woods",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -4902,7 +4907,7 @@
       "Name": "Glyndemere",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "STB_MISSION5B_COMPLETED",
@@ -4950,7 +4955,7 @@
       "Name": "You can pet the dog",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 1742
+      "UsersEstimate": 1743
     },
     {
       "ID": "STB_PET_HORSE",
@@ -4998,7 +5003,7 @@
       "Name": "Iffighain Headquarters",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_IV",
@@ -5022,7 +5027,7 @@
       "Name": "The use of petricite",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2113
+      "UsersEstimate": 2114
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -5062,14 +5067,14 @@
       "Name": "Petricite Burst",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2856,
+      "Progressed": 2857,
       "Completed": 16
     }
   ],
@@ -5077,8 +5082,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-17T13:59:07.4077367+00:00",
-  "LastChanged_Achievements": "2023-12-18T19:06:05.1532409+00:00",
+  "LastChanged_Achievements": "2023-12-18T20:06:06.6860452+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:24.9335177+00:00",
-  "LastUpdate_Ratings": "2023-12-18T18:59:09.2139455+00:00",
-  "LastUpdate_Achievements": "2023-12-18T19:06:05.1533058+00:00"
+  "LastUpdate_Ratings": "2023-12-18T19:58:46.8868671+00:00",
+  "LastUpdate_Achievements": "2023-12-18T20:06:06.6861+00:00"
 }

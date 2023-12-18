@@ -4,8 +4,8 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1148,
+  "EOS_Progressed": 1149,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2999,6 +2999,11 @@
       "Time": "2023-12-18T19:09:45.8542633+00:00",
       "NumProgressed": 1148,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T20:09:53.2116286+00:00",
+      "NumProgressed": 1149,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3050,7 +3055,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -3224,9 +3229,9 @@
       "ID": "EXT_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Fire Alarm",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 172
     },
     {
       "ID": "FREEB_ACHIEVEMENT_1",
@@ -3306,7 +3311,7 @@
       "Name": "Decakill!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -3330,7 +3335,7 @@
       "Name": "And There We Go",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -3386,7 +3391,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -3537,14 +3542,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1148,
+      "Progressed": 1149,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-12-18T19:09:45.8542629+00:00",
+  "LastChanged_Achievements": "2023-12-18T20:09:53.2116283+00:00",
   "LastUpdate_AppInfo": "2023-12-15T02:21:08.9329051+00:00",
-  "LastUpdate_Ratings": "2023-12-18T18:59:19.6295068+00:00",
-  "LastUpdate_Achievements": "2023-12-18T19:09:45.8543192+00:00"
+  "LastUpdate_Ratings": "2023-12-18T19:58:57.5222407+00:00",
+  "LastUpdate_Achievements": "2023-12-18T20:09:53.2117127+00:00"
 }

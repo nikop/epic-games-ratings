@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 403,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 182,
+  "EOS_Progressed": 183,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -764,6 +764,11 @@
       "Time": "2023-12-18T15:03:24.761548+00:00",
       "NumProgressed": 182,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T20:03:37.3031744+00:00",
+      "NumProgressed": 183,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-22T01:45:20.357802+00:00",
@@ -784,7 +789,7 @@
       "Name": "Anomaly Destroyer",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "AnomalyMaster",
@@ -1006,9 +1011,9 @@
       "ID": "EndlessTricks",
       "SetID": "1jeo1g7",
       "Name": "Endless Tricks",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 92
     },
     {
       "ID": "EridanianChampionAchievement",
@@ -1102,9 +1107,9 @@
       "ID": "LoyalPartner",
       "SetID": "1jeo1g7",
       "Name": "Loyal Partner",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 42
     },
     {
       "ID": "MechanicIntegration",
@@ -1136,7 +1141,7 @@
       "Name": "Mind Illuminator",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "NoctuanChampionAchievement",
@@ -1224,15 +1229,15 @@
       "Name": "Sadistic Plan",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "SanctuaryGuardian",
       "SetID": "1jeo1g7",
       "Name": "Sanctuary Guardian",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 93
     },
     {
       "ID": "Sentinelphobic",
@@ -1374,9 +1379,9 @@
       "ID": "Unbeatable",
       "SetID": "1jeo1g7",
       "Name": "Unbeatable",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 31
     },
     {
       "ID": "UnepicHero",
@@ -1488,7 +1493,7 @@
       "Name": "Eridanian Champion",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "EridanianHero",
@@ -1559,14 +1564,14 @@
     {
       "ID": "1jeo1g7",
       "IsBase": true,
-      "Progressed": 182,
+      "Progressed": 183,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-18T19:03:31.6243922+00:00",
+  "LastChanged_Achievements": "2023-12-18T20:03:37.3031741+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:09.6615872+00:00",
-  "LastUpdate_Ratings": "2023-12-18T19:00:27.2265184+00:00",
-  "LastUpdate_Achievements": "2023-12-18T19:03:31.624477+00:00"
+  "LastUpdate_Ratings": "2023-12-18T20:00:02.5377238+00:00",
+  "LastUpdate_Achievements": "2023-12-18T20:03:37.30329+00:00"
 }

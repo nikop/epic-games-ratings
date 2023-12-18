@@ -5,10 +5,10 @@
   "Ranking_Rating": 548,
   "Ranking_Popularity": 480,
   "Ranking_PopularitySum": 513,
-  "Ranking_EOS_Progress": 444,
+  "Ranking_EOS_Progress": 443,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -276,9 +276,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 120,
+  "EOS_Progressed": 121,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -756,6 +756,11 @@
       "Time": "2023-12-18T19:08:32.0665998+00:00",
       "NumProgressed": 120,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T20:08:39.3021752+00:00",
+      "NumProgressed": 121,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -784,7 +789,7 @@
       "Name": "Perfect Probulator",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_BASKETBALL_SLAM",
@@ -798,9 +803,9 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "4n84pon",
       "Name": "Furon Fashion",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -896,7 +901,7 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
@@ -904,7 +909,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -950,9 +955,9 @@
       "ID": "ACH_KILL_MILENKOV",
       "SetID": "4n84pon",
       "Name": "Lobster Blisque",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_KILL_ORANCHOV",
@@ -960,15 +965,15 @@
       "Name": "Freshly Squeezed",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_KILL_PONSONBY",
       "SetID": "4n84pon",
       "Name": "Die Nasty",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_KILL_REINCARNATOR",
@@ -1014,17 +1019,17 @@
       "ID": "ACH_OPEN_FLUFF_MENU",
       "SetID": "4n84pon",
       "Name": "Earthly Pleasures",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
       "SetID": "4n84pon",
       "Name": "Upgreatest",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -1054,9 +1059,9 @@
       "ID": "ACH_SKATE_AWAY_FROM_SPORE",
       "SetID": "4n84pon",
       "Name": "Dusted",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_SKATE_BAYCITY",
@@ -1102,9 +1107,9 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "4n84pon",
       "Name": "Shop Til They Drop",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1112,14 +1117,14 @@
       "Name": "Pimp My Raid",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 120,
+      "Progressed": 121,
       "Completed": 0
     }
   ],
@@ -1127,8 +1132,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-18T19:08:32.0665992+00:00",
+  "LastChanged_Achievements": "2023-12-18T20:08:39.3021747+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:43.3974092+00:00",
-  "LastUpdate_Ratings": "2023-12-18T18:57:26.1603502+00:00",
-  "LastUpdate_Achievements": "2023-12-18T19:08:32.0666257+00:00"
+  "LastUpdate_Ratings": "2023-12-18T19:57:08.1183557+00:00",
+  "LastUpdate_Achievements": "2023-12-18T20:08:39.3022116+00:00"
 }

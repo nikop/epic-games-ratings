@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 260,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1607,9 +1607,9 @@
       "Count": 75
     }
   ],
-  "EOS_Progressed": 7339,
+  "EOS_Progressed": 7340,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -14877,6 +14877,11 @@
       "Time": "2023-12-18T19:08:11.7041372+00:00",
       "NumProgressed": 7339,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-18T20:08:20.8229103+00:00",
+      "NumProgressed": 7340,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -14920,7 +14925,7 @@
       "Name": "Green Thumb",
       "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 4917
+      "UsersEstimate": 4918
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -14936,7 +14941,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 5357
+      "UsersEstimate": 5358
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -15008,7 +15013,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 62,
       "XP": 25,
-      "UsersEstimate": 4550
+      "UsersEstimate": 4551
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -15016,7 +15021,7 @@
       "Name": "Feast or Famine",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 2715
+      "UsersEstimate": 2716
     },
     {
       "ID": "STORE_NUTRITION_20000",
@@ -15040,7 +15045,7 @@
       "Name": "Winter Is Coming",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 2128
+      "UsersEstimate": 2129
     },
     {
       "ID": "SURVIVE_FIRST_DAY",
@@ -15048,7 +15053,7 @@
       "Name": "The First Day",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 5137
+      "UsersEstimate": 5138
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -15064,7 +15069,7 @@
       "Name": "Heating Up",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2348
+      "UsersEstimate": 2349
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
@@ -15135,15 +15140,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 7339,
+      "Progressed": 7340,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-12-17T15:58:46.9342571+00:00",
-  "LastChanged_Achievements": "2023-12-18T19:08:11.7041367+00:00",
+  "LastChanged_Achievements": "2023-12-18T20:08:20.8229097+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:47.8691665+00:00",
-  "LastUpdate_Ratings": "2023-12-18T18:59:43.1507891+00:00",
-  "LastUpdate_Achievements": "2023-12-18T19:08:11.7042109+00:00"
+  "LastUpdate_Ratings": "2023-12-18T19:59:20.3328808+00:00",
+  "LastUpdate_Achievements": "2023-12-18T20:08:20.8229861+00:00"
 }
