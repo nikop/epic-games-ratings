@@ -2,7 +2,7 @@
   "ID": "e920c823522745c88a85e396965afc62",
   "Name": "Indoorlands",
   "ProductSlug": "indoorlands-3b2356",
-  "Ranking_EOS_Progress": 806,
+  "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 549,
   "Ranking_EOS_NewCompleters": 153,
@@ -22,12 +22,18 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2023-12-18T13:12:21.2866985+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
   "AchievementsAdded": "2023-12-14T09:03:47.827813+00:00",
   "TotalAchievements": 31,
   "TotalAchievementsXP": 1000,
@@ -285,13 +291,13 @@
     {
       "ID": "d4692al",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-12-14T09:03:47.827813+00:00",
-  "LastChanged_Achievements": "2023-12-18T12:05:58.1265342+00:00",
+  "LastChanged_Achievements": "2023-12-18T13:12:21.2866974+00:00",
   "LastUpdate_AppInfo": "2023-12-14T08:57:08.1941241+00:00",
-  "LastUpdate_Ratings": "2023-12-18T11:59:54.26516+00:00",
-  "LastUpdate_Achievements": "2023-12-18T12:05:58.1265522+00:00"
+  "LastUpdate_Ratings": "2023-12-18T13:06:14.1524369+00:00",
+  "LastUpdate_Achievements": "2023-12-18T13:12:21.2867188+00:00"
 }

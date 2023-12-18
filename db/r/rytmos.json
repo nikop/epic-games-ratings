@@ -2,7 +2,7 @@
   "ID": "4208ed074a8a41a691358c1939e15c75",
   "Name": "Rytmos",
   "ProductSlug": "rytmos-bf191b",
-  "Ranking_EOS_Progress": 806,
+  "Ranking_EOS_Progress": 807,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 549,
   "Ranking_EOS_NewCompleters": 153,
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-04-24T16:57:21.090056+00:00",
   "LastChanged": "2023-04-24T16:57:21.0900561+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:01.8379676+00:00",
-  "LastUpdate_Ratings": "2023-12-18T12:01:02.2306337+00:00",
-  "LastUpdate_Achievements": "2023-12-18T12:09:58.4630934+00:00"
+  "LastUpdate_Ratings": "2023-12-18T13:07:25.0667755+00:00",
+  "LastUpdate_Achievements": "2023-12-18T13:16:07.3917017+00:00"
 }

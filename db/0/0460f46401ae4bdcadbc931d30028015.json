@@ -1023,9 +1023,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4736,
+  "EOS_Progressed": 4737,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 614,
+  "EOS_NewPlayers": 615,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7638,6 +7638,11 @@
       "Time": "2023-12-18T12:03:56.175723+00:00",
       "NumProgressed": 4736,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T13:10:11.0759714+00:00",
+      "NumProgressed": 4737,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -7786,7 +7791,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "achievement_7",
@@ -7810,14 +7815,14 @@
       "Name": "Future of the Franchise",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 4736,
+      "Progressed": 4737,
       "Completed": 0
     }
   ],
@@ -7825,8 +7830,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-12-18T04:58:43.8096786+00:00",
-  "LastChanged_Achievements": "2023-12-18T12:03:56.1757226+00:00",
+  "LastChanged_Achievements": "2023-12-18T13:10:11.075971+00:00",
   "LastUpdate_AppInfo": "2023-12-14T08:57:09.6557001+00:00",
-  "LastUpdate_Ratings": "2023-12-18T11:59:42.6995135+00:00",
-  "LastUpdate_Achievements": "2023-12-18T12:03:56.1757689+00:00"
+  "LastUpdate_Ratings": "2023-12-18T13:06:01.3482888+00:00",
+  "LastUpdate_Achievements": "2023-12-18T13:10:11.0760141+00:00"
 }

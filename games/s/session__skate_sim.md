@@ -36,6 +36,7 @@ Number of Ratings: 111  (23.09.2022)
 | Cops called! | 5.00% | ~163 |
 | Lines for days | 5.00% | ~163 |
 | Manny Destroys All | 5.00% | ~163 |
+| Prince of Philly | 5.00% | ~163 |
 | Renaissance man | 5.00% | ~163 |
 | Tank commander | 5.00% | ~163 |
 | Trick shot marksman | 5.00% | ~163 |
@@ -43,7 +44,6 @@ Number of Ratings: 111  (23.09.2022)
 | G.O.A.T. status | 4.00% | ~130 |
 | Hoarder | 4.00% | ~130 |
 | Pew-Pew | 4.00% | ~130 |
-| Prince of Philly | 4.00% | ~130 |
 | Many plys later... | 3.00% | ~98 |
 | Cross lock country | 2.00% | ~65 |
 | That was wheelie fun | 2.00% | ~65 |

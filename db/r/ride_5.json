@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2700,
+  "EOS_Progressed": 2702,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 266,
+  "EOS_NewPlayers": 265,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6597,6 +6597,11 @@
       "Time": "2023-12-18T12:05:56.8954781+00:00",
       "NumProgressed": 2700,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T13:12:20.0315226+00:00",
+      "NumProgressed": 2702,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -6609,7 +6614,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1162
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -6617,7 +6622,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -6681,7 +6686,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -6817,7 +6822,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -6897,7 +6902,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -6905,7 +6910,7 @@
       "Name": "Eat My Dust",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 1242
+      "UsersEstimate": 1243
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -6913,7 +6918,7 @@
       "Name": "Champagne Spray",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -6961,7 +6966,7 @@
       "Name": "Rivals to the End",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -7000,14 +7005,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2700,
+      "Progressed": 2702,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-18T12:05:56.8954776+00:00",
+  "LastChanged_Achievements": "2023-12-18T13:12:20.0315224+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:35.5257739+00:00",
-  "LastUpdate_Ratings": "2023-12-18T11:58:10.6394881+00:00",
-  "LastUpdate_Achievements": "2023-12-18T12:05:56.8955324+00:00"
+  "LastUpdate_Ratings": "2023-12-18T13:04:19.5946782+00:00",
+  "LastUpdate_Achievements": "2023-12-18T13:12:20.0315794+00:00"
 }

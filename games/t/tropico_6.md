@@ -6,21 +6,21 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 74.00% | ~4,797 |
-| Un-Lonely Island | 46.00% | ~2,982 |
-| The Beginning of a Servantship | 44.00% | ~2,852 |
+| Just One...More...Term... | 74.00% | ~4,798 |
+| Un-Lonely Island | 46.00% | ~2,983 |
+| The Beginning of a Servantship | 44.00% | ~2,853 |
 | Trade Is My Trait | 36.00% | ~2,334 |
 | Number 18 | 23.00% | ~1,491 |
 | We Don't Have Time For That | 18.00% | ~1,167 |
 | The Governator | 17.00% | ~1,102 |
 | The Legend of Langostino | 16.00% | ~1,037 |
-| Caribbean Comrade | 15.00% | ~972 |
-| The Dreamer of Dreams | 15.00% | ~972 |
+| Caribbean Comrade | 15.00% | ~973 |
+| The Dreamer of Dreams | 15.00% | ~973 |
 | Go Sovereigns! | 11.00% | ~713 |
 | For Science! | 11.00% | ~713 |
 | Happy Ending? | 10.00% | ~648 |
-| Of Seals And Men | 9.00% | ~583 |
-| Shackadelic | 9.00% | ~583 |
+| Of Seals And Men | 9.00% | ~584 |
+| Shackadelic | 9.00% | ~584 |
 | Double Trouble | 8.00% | ~519 |
 | Firestarter | 8.00% | ~519 |
 | I Owe You Nothing | 7.00% | ~454 |
@@ -32,10 +32,10 @@ Number of Ratings: 398  (23.09.2022)
 | Computer Says "No" | 5.00% | ~324 |
 | Watch The World Burn | 5.00% | ~324 |
 | Fairy Tale Come True | 5.00% | ~324 |
-| Been there, Done That | 3.00% | ~194 |
-| Apocalypso | 3.00% | ~194 |
-| Narcissist | 3.00% | ~194 |
-| The Time For Wonders | 3.00% | ~194 |
+| Been there, Done That | 3.00% | ~195 |
+| Apocalypso | 3.00% | ~195 |
+| Narcissist | 3.00% | ~195 |
+| The Time For Wonders | 3.00% | ~195 |
 | One Does Not Simply Stage A Coup | 2.00% | ~130 |
 | Promising Endeavors | 2.00% | ~130 |
 | Sublime Subliminal Supreme | 2.00% | ~130 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~52 |
 | My Ways | 0.20% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,482 (Ranked 188)  
+Progressed: 6,484 (Ranked 188)  
 Completed: 2 (0.03%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 2 (0.03%) (Ranked 341)
 | 2023-12-15 | 6,377 | 2 |
 | 2023-12-16 | 6,432 | 2 |
 | 2023-12-17 | 6,470 | 2 |
-| 2023-12-18 | 6,482 | 2 |
+| 2023-12-18 | 6,484 | 2 |
 ## Awards
 Max (Highly Recommended): 104  (Ranked 364)  
 Sum: 741 (Ranked 294)  

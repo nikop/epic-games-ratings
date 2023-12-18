@@ -22,7 +22,7 @@ Rating: 4.43 (Ranked 699)
 | My Darkest Day | 48.00% | ~583 |
 | Rhythm Of Willump | 46.00% | ~558 |
 | The Relentless Storm | 46.00% | ~558 |
-| A Tragic Reminder | 44.00% | ~534 |
+| A Tragic Reminder | 45.00% | ~546 |
 | 3000 Year Blackout | 44.00% | ~534 |
 | So Close | 42.00% | ~510 |
 | The Finisher | 42.00% | ~510 |

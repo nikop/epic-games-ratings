@@ -4,7 +4,7 @@
   "ProductSlug": "picklock-33eab8",
   "Ranking_EOS_Progress": 531,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewPlayers": 350,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -420,9 +420,9 @@
       "ID": "ach_picklock8",
       "SetID": "753ghg2",
       "Name": "Meat",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_picklock9",
@@ -443,8 +443,8 @@
   ],
   "FirstSeen": "2023-11-03T03:57:37.1640095+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6923906+00:00",
-  "LastChanged_Achievements": "2023-12-18T12:10:29.7642412+00:00",
+  "LastChanged_Achievements": "2023-12-18T13:16:40.4499098+00:00",
   "LastUpdate_AppInfo": "2023-12-13T08:56:58.7290951+00:00",
-  "LastUpdate_Ratings": "2023-12-18T12:03:19.4647897+00:00",
-  "LastUpdate_Achievements": "2023-12-18T12:10:29.7642619+00:00"
+  "LastUpdate_Ratings": "2023-12-18T13:09:30.8921903+00:00",
+  "LastUpdate_Achievements": "2023-12-18T13:16:40.4499288+00:00"
 }

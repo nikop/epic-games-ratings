@@ -5,9 +5,9 @@
   "Ranking_Rating": 372,
   "Ranking_Popularity": 479,
   "Ranking_PopularitySum": 461,
-  "Ranking_EOS_Progress": 191,
+  "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -555,9 +555,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5823,
+  "EOS_Progressed": 5825,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8380,6 +8380,11 @@
       "Time": "2023-12-18T12:05:00.8770303+00:00",
       "NumProgressed": 5823,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-18T13:11:20.2593571+00:00",
+      "NumProgressed": 5825,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -8519,7 +8524,7 @@
       "Name": "Secret Technique",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "25",
@@ -8870,13 +8875,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5823,
+      "Progressed": 5825,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5823,
+      "Progressed": 5825,
       "Completed": 7
     }
   ],
@@ -8884,8 +8889,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-14T06:01:52.3312422+00:00",
-  "LastChanged_Achievements": "2023-12-18T12:05:00.8770299+00:00",
+  "LastChanged_Achievements": "2023-12-18T13:11:20.2593567+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.6868317+00:00",
-  "LastUpdate_Ratings": "2023-12-18T11:59:39.768324+00:00",
-  "LastUpdate_Achievements": "2023-12-18T12:05:00.877108+00:00"
+  "LastUpdate_Ratings": "2023-12-18T13:05:58.5543042+00:00",
+  "LastUpdate_Achievements": "2023-12-18T13:11:20.2594337+00:00"
 }

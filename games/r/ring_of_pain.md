@@ -9,13 +9,13 @@ Number of Ratings: 15,086  (23.09.2022)
 | Matching | 1.00% | ~27 |
 | First Steps | 0.90% | ~2,171 |
 | Uncharted Territory | 0.80% | ~1,930 |
+| Not Touching You | 0.80% | ~22 |
 | Getting A Glimpse | 0.70% | ~1,689 |
 | That Was Quick | 0.70% | ~1,689 |
 | Defeat The Dark | 0.70% | ~1,689 |
 | A Quick Escape | 0.70% | ~1,689 |
 | Explorer | 0.70% | ~1,689 |
 | An Offering | 0.70% | ~1,689 |
-| Not Touching You | 0.70% | ~19 |
 | Nothing To Lose | 0.60% | ~1,447 |
 | Heavy Hitter | 0.60% | ~1,447 |
 | Delving Deeper | 0.60% | ~1,447 |
@@ -49,6 +49,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Well Prepared | 0.40% | ~965 |
 | Just Chilling | 0.40% | ~965 |
 | Save Our Souls | 0.40% | ~965 |
+| Don't Ignore Me! | 0.40% | ~965 |
 | All Consuming | 0.40% | ~965 |
 | Stop Hitting Yourself | 0.40% | ~965 |
 | Doing Time | 0.40% | ~965 |
@@ -61,7 +62,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Max Damage! | 0.30% | ~724 |
 | A Rough Road | 0.30% | ~724 |
 | Berzerker | 0.30% | ~724 |
-| Don't Ignore Me! | 0.30% | ~724 |
 | Illuminate, Eliminate | 0.30% | ~724 |
 | Chain Reaction | 0.30% | ~724 |
 | Antivenom | 0.30% | ~724 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,242 (Ranked 66)  
+Progressed: 241,245 (Ranked 66)  
 Completed: 299 (0.12%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -387,7 +387,7 @@ Completed: 299 (0.12%) (Ranked 290)
 | 2023-12-15 | 241,093 | 299 |
 | 2023-12-16 | 241,163 | 299 |
 | 2023-12-17 | 241,211 | 299 |
-| 2023-12-18 | 241,242 | 299 |
+| 2023-12-18 | 241,245 | 299 |
 ## Awards
 Max (Quickly Understood Controls): 1,511  (Ranked 134)  
 Sum: 11,743 (Ranked 87)  

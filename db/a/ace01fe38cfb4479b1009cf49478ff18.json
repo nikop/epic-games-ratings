@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 315,
+  "EOS_Progressed": 316,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -1204,6 +1204,11 @@
       "Time": "2023-12-18T12:07:08.6433619+00:00",
       "NumProgressed": 315,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-18T13:13:36.9147557+00:00",
+      "NumProgressed": 316,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -1246,7 +1251,7 @@
       "ID": "ach_complete_difficulty_extreme",
       "SetID": "d499apg",
       "Name": "Exterminatus",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 175,
       "UsersEstimate": 3
     },
@@ -1280,13 +1285,13 @@
       "Name": "Defeat a Lord of Change",
       "Percentage": 22,
       "XP": 45,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ach_find_all_secrets_c1",
       "SetID": "d499apg",
       "Name": "Find all Secrets - Chapter 1",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 95,
       "UsersEstimate": 3
     },
@@ -1311,14 +1316,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 315,
+      "Progressed": 316,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-12-18T12:07:08.6433616+00:00",
+  "LastChanged_Achievements": "2023-12-18T13:13:36.9147552+00:00",
   "LastUpdate_AppInfo": "2023-12-15T14:56:55.6680838+00:00",
-  "LastUpdate_Ratings": "2023-12-18T12:01:14.2574683+00:00",
-  "LastUpdate_Achievements": "2023-12-18T12:07:08.6433756+00:00"
+  "LastUpdate_Ratings": "2023-12-18T13:07:38.6952976+00:00",
+  "LastUpdate_Achievements": "2023-12-18T13:13:36.9147694+00:00"
 }

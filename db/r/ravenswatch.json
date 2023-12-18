@@ -2,7 +2,7 @@
   "ID": "c841cfc229e74ac3acc08a0ae117f9c8",
   "Name": "Ravenswatch",
   "ProductSlug": "ravenswatch-b0115d",
-  "Ranking_EOS_Progress": 806,
+  "Ranking_EOS_Progress": 807,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 549,
   "Ranking_EOS_NewCompleters": 153,
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-16T23:57:31.3844731+00:00",
-  "LastUpdate_Ratings": "2023-12-18T11:59:25.4670159+00:00",
-  "LastUpdate_Achievements": "2023-12-18T12:03:52.6074757+00:00"
+  "LastUpdate_Ratings": "2023-12-18T13:05:42.1190558+00:00",
+  "LastUpdate_Achievements": "2023-12-18T13:10:07.322678+00:00"
 }

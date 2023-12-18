@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 502,
+  "EOS_Progressed": 503,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -1742,6 +1742,11 @@
       "Time": "2023-12-18T12:10:36.3328481+00:00",
       "NumProgressed": 502,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-18T13:16:47.2840505+00:00",
+      "NumProgressed": 503,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -1753,7 +1758,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 52,
       "XP": 60,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "completeact2",
@@ -1833,7 +1838,7 @@
       "Name": "This is Not Heavy Metal!",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "scoreminrankrp2",
@@ -1857,7 +1862,7 @@
       "Name": "Welcome to the Garage",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "scoreminrankrv2",
@@ -1872,7 +1877,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 502,
+      "Progressed": 503,
       "Completed": 2
     }
   ],
@@ -1880,8 +1885,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-12-18T12:10:36.3328478+00:00",
+  "LastChanged_Achievements": "2023-12-18T13:16:47.2840501+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:48.6488501+00:00",
-  "LastUpdate_Ratings": "2023-12-18T12:00:26.371391+00:00",
-  "LastUpdate_Achievements": "2023-12-18T12:10:36.3328646+00:00"
+  "LastUpdate_Ratings": "2023-12-18T13:06:47.426943+00:00",
+  "LastUpdate_Achievements": "2023-12-18T13:16:47.2840655+00:00"
 }

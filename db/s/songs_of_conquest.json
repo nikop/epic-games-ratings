@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 546,
+  "EOS_Progressed": 547,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2223,6 +2223,11 @@
       "Time": "2023-12-18T09:08:44.1664301+00:00",
       "NumProgressed": 546,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T13:15:00.9654724+00:00",
+      "NumProgressed": 547,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2265,9 +2270,9 @@
       "ID": "AttackCount",
       "SetID": "71c0n9i",
       "Name": "Attack Bonanza",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "BaryaCampaign",
@@ -2666,15 +2671,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 546,
+      "Progressed": 547,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-18T12:08:26.0222798+00:00",
+  "LastChanged_Achievements": "2023-12-18T13:15:00.9654719+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:10.4027668+00:00",
-  "LastUpdate_Ratings": "2023-12-18T12:01:50.5366102+00:00",
-  "LastUpdate_Achievements": "2023-12-18T12:08:26.0223206+00:00"
+  "LastUpdate_Ratings": "2023-12-18T13:08:58.7288954+00:00",
+  "LastUpdate_Achievements": "2023-12-18T13:15:00.9655098+00:00"
 }

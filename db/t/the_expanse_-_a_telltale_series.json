@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16739,
+  "EOS_Progressed": 16743,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 687,
+  "EOS_NewPlayers": 690,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -14269,6 +14269,11 @@
       "Time": "2023-12-18T12:04:29.217458+00:00",
       "NumProgressed": 16739,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-12-18T13:10:46.3449754+00:00",
+      "NumProgressed": 16743,
+      "NumCompleted": 44
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14313,7 +14318,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2343
+      "UsersEstimate": 2344
     },
     {
       "ID": "14",
@@ -14401,7 +14406,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1005
     },
     {
       "ID": "24",
@@ -14425,7 +14430,7 @@
       "Name": "Call it Even",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1005
     },
     {
       "ID": "27",
@@ -14511,9 +14516,9 @@
       "ID": "9",
       "SetID": "458bbdk",
       "Name": "Impossible Objects",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1507
+      "UsersEstimate": 1339
     },
     {
       "ID": "31",
@@ -14537,7 +14542,7 @@
       "Name": "Zen Master",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "34",
@@ -14560,22 +14565,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16739,
+      "Progressed": 16743,
       "Completed": 44
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2693,
-      "Completed": 935
+      "Progressed": 2697,
+      "Completed": 937
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-17T22:59:50.8326927+00:00",
-  "LastChanged_Achievements": "2023-12-18T12:04:29.2174576+00:00",
+  "LastChanged_Achievements": "2023-12-18T13:10:46.3449749+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:40.0929133+00:00",
-  "LastUpdate_Ratings": "2023-12-18T12:00:05.2652303+00:00",
-  "LastUpdate_Achievements": "2023-12-18T12:04:29.2175537+00:00"
+  "LastUpdate_Ratings": "2023-12-18T13:06:25.3822054+00:00",
+  "LastUpdate_Achievements": "2023-12-18T13:10:46.345051+00:00"
 }

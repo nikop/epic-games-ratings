@@ -244,9 +244,9 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 42254,
+  "EOS_Progressed": 42256,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 383,
+  "EOS_NewPlayers": 382,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -26499,6 +26499,11 @@
       "Time": "2023-12-18T12:07:16.924228+00:00",
       "NumProgressed": 42254,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-12-18T13:13:45.7866619+00:00",
+      "NumProgressed": 42256,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 29,
@@ -26518,7 +26523,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8873
+      "UsersEstimate": 8874
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -26628,17 +26633,17 @@
       "ID": "ACH_17_DEFEATED_ICE_BEAST",
       "SetID": "443p4o4",
       "Name": "Ice To See You",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 169
+      "UsersEstimate": 211
     },
     {
       "ID": "ACH_18_DEFEATED_IMP",
       "SetID": "443p4o4",
       "Name": "Smack My Imp Up",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 169
+      "UsersEstimate": 211
     },
     {
       "ID": "ACH_19_DEFEATED_HOGRE",
@@ -26741,7 +26746,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 42254,
+      "Progressed": 42256,
       "Completed": 29
     }
   ],
@@ -26749,8 +26754,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-12-02T18:57:45.107059+00:00",
-  "LastChanged_Achievements": "2023-12-18T12:07:16.9242276+00:00",
+  "LastChanged_Achievements": "2023-12-18T13:13:45.7866616+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:31.5071316+00:00",
-  "LastUpdate_Ratings": "2023-12-18T11:59:25.7173647+00:00",
-  "LastUpdate_Achievements": "2023-12-18T12:07:16.9243485+00:00"
+  "LastUpdate_Ratings": "2023-12-18T13:05:42.3760787+00:00",
+  "LastUpdate_Achievements": "2023-12-18T13:13:45.7867849+00:00"
 }

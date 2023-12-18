@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 58.00% | ~229 |
-| Starting Skyward | 52.00% | ~205 |
+| In the Black | 58.00% | ~230 |
+| Starting Skyward | 52.00% | ~206 |
 | Grime is Not Good | 46.00% | ~182 |
 | Floor Galore | 41.00% | ~162 |
 | Dinner Dash | 41.00% | ~162 |
 | Campaign Launch | 40.00% | ~158 |
-| Need a Consult | 37.00% | ~146 |
-| It's Technical | 37.00% | ~146 |
-| Upgrade Unlock | 36.00% | ~142 |
-| Delegate Maintenance | 33.00% | ~130 |
-| Destination Destiny | 32.00% | ~126 |
-| Proper Walls | 31.00% | ~122 |
+| Need a Consult | 37.00% | ~147 |
+| It's Technical | 37.00% | ~147 |
+| Upgrade Unlock | 36.00% | ~143 |
+| Delegate Maintenance | 33.00% | ~131 |
+| Destination Destiny | 32.00% | ~127 |
+| Proper Walls | 31.00% | ~123 |
 | Happy Tenants | 26.00% | ~103 |
 | Potent Potables | 26.00% | ~103 |
 | Smooth Service | 25.00% | ~99 |
@@ -38,9 +38,9 @@
 | Smooth Operator | 13.00% | ~51 |
 | Boutique Benefits | 13.00% | ~51 |
 | Thrilled Tenants | 13.00% | ~51 |
-| Terrifically Trashed | 12.00% | ~47 |
-| 28 Days Later | 11.00% | ~43 |
-| Swimming in Surplus | 11.00% | ~43 |
+| Terrifically Trashed | 12.00% | ~48 |
+| 28 Days Later | 11.00% | ~44 |
+| Swimming in Surplus | 11.00% | ~44 |
 | Aestheticly Pleased | 10.00% | ~40 |
 | Plaza Plan | 9.00% | ~36 |
 | Master of Puppets | 9.00% | ~36 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 395 (Ranked 341)  
+Progressed: 396 (Ranked 341)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-15 | 372 | 0 |
 | 2023-12-16 | 385 | 0 |
 | 2023-12-17 | 392 | 0 |
-| 2023-12-18 | 395 | 0 |
+| 2023-12-18 | 396 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

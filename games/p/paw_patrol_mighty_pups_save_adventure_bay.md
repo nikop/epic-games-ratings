@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mighty Powers | 80.00% | ~37 |
-| Grand Re-Opening | 70.00% | ~32 |
-| Pup Pup Boogie | 67.00% | ~31 |
-| Summer Day | 63.00% | ~29 |
-| Mr. Porter | 54.00% | ~25 |
-| Risky Rescue | 52.00% | ~24 |
-| Carlos Is Tangled | 50.00% | ~23 |
+| Mighty Powers | 81.00% | ~38 |
+| Grand Re-Opening | 68.00% | ~32 |
+| Pup Pup Boogie | 66.00% | ~31 |
+| Summer Day | 62.00% | ~29 |
+| Mr. Porter | 53.00% | ~25 |
+| Risky Rescue | 51.00% | ~24 |
+| Carlos Is Tangled | 49.00% | ~23 |
 | Clear the Road | 43.00% | ~20 |
 | Mandy Family | 43.00% | ~20 |
-| Paw patrol member | 41.00% | ~19 |
-| Robot Out of Control | 41.00% | ~19 |
-| Break Time | 35.00% | ~16 |
-| Never Miss | 35.00% | ~16 |
-| Master of the Rope | 33.00% | ~15 |
-| Training Day | 33.00% | ~15 |
-| In the Air | 33.00% | ~15 |
+| Paw patrol member | 40.00% | ~19 |
+| Robot Out of Control | 40.00% | ~19 |
+| Break Time | 34.00% | ~16 |
+| Never Miss | 34.00% | ~16 |
+| Master of the Rope | 32.00% | ~15 |
+| Training Day | 32.00% | ~15 |
+| In the Air | 32.00% | ~15 |
 | Animal Sighting | 28.00% | ~13 |
 | The Fastest | 26.00% | ~12 |
 | Don’t Miss Any | 26.00% | ~12 |
-| You Have Been Everywhere | 22.00% | ~10 |
-| Adventure Bay’s Citizen | 22.00% | ~10 |
+| You Have Been Everywhere | 21.00% | ~10 |
+| Adventure Bay’s Citizen | 21.00% | ~10 |
 | Everything Under Control | 17.00% | ~8 |
 | Mountain and Ice | 17.00% | ~8 |
 | Nothing Can Stop You | 11.00% | ~5 |
@@ -35,7 +35,7 @@
 | The Collector | 0.00% | ~0 |
 | Pup Treat Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46 (Ranked 525)  
+Progressed: 47 (Ranked 523)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,6 +81,7 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-06 | 44 | 0 |
 | 2023-12-07 | 45 | 0 |
 | 2023-12-16 | 46 | 0 |
+| 2023-12-18 | 47 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

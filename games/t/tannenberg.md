@@ -6,55 +6,55 @@ Number of Ratings: 13,393  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~126,157 |
-| Comeback | 82.00% | ~116,234 |
-| Information is Key | 80.00% | ~113,399 |
-| Unlucky | 70.00% | ~99,224 |
-| Anarchist | 68.00% | ~96,389 |
-| Wallhack | 65.00% | ~92,137 |
-| Steady Supply | 60.00% | ~85,049 |
-| Lucky Shot | 53.00% | ~75,127 |
-| Forward Observer | 52.00% | ~73,709 |
-| Ring Ring! | 52.00% | ~73,709 |
-| Bossing Around | 45.00% | ~63,787 |
-| Frostbite | 45.00% | ~63,787 |
+| Immovable Object | 89.00% | ~126,158 |
+| Comeback | 82.00% | ~116,235 |
+| Information is Key | 80.00% | ~113,400 |
+| Unlucky | 70.00% | ~99,225 |
+| Anarchist | 68.00% | ~96,390 |
+| Wallhack | 65.00% | ~92,138 |
+| Steady Supply | 60.00% | ~85,050 |
+| Lucky Shot | 53.00% | ~75,128 |
+| Forward Observer | 52.00% | ~73,710 |
+| Ring Ring! | 52.00% | ~73,710 |
+| Bossing Around | 45.00% | ~63,788 |
+| Frostbite | 45.00% | ~63,788 |
 | Night Owl | 44.00% | ~62,370 |
 | Strength in Numbers | 44.00% | ~62,370 |
-| Fog of War | 41.00% | ~58,117 |
+| Fog of War | 41.00% | ~58,118 |
 | Rasputin | 39.00% | ~55,282 |
 | Stronghold Denied | 39.00% | ~55,282 |
 | Anyone Else? | 38.00% | ~53,865 |
 | Hydra | 36.00% | ~51,030 |
 | This Belongs to Us Now | 36.00% | ~51,030 |
 | Stronghold | 35.00% | ~49,612 |
-| Leeroy | 33.00% | ~46,777 |
-| Lost Batallion | 33.00% | ~46,777 |
+| Leeroy | 33.00% | ~46,778 |
+| Lost Batallion | 33.00% | ~46,778 |
 | This is MY Machine Gun! | 32.00% | ~45,360 |
 | Together As One | 31.00% | ~43,942 |
 | Gavrilo Princip | 27.00% | ~38,272 |
-| Lead Harvest | 25.00% | ~35,437 |
+| Lead Harvest | 25.00% | ~35,438 |
 | Skynet Confirmed | 23.00% | ~32,602 |
 | Kesselschlacht | 22.00% | ~31,185 |
 | Democracy Works! | 20.00% | ~28,350 |
 | Switch, Please! | 19.00% | ~26,932 |
 | At Least This Way I Can Win... | 18.00% | ~25,515 |
 | Tourist | 18.00% | ~25,515 |
-| I've Seen It All | 17.00% | ~24,097 |
-| Oops! | 17.00% | ~24,097 |
+| I've Seen It All | 17.00% | ~24,098 |
+| Oops! | 17.00% | ~24,098 |
 | Developers, Developers, Developers, Developers! | 16.00% | ~22,680 |
 | Butcher | 12.00% | ~17,010 |
 | Before the Leaves Fall | 10.00% | ~14,175 |
 | Close Call | 10.00% | ~14,175 |
 | Pinpoint | 10.00% | ~14,175 |
-| Tannenberg | 9.00% | ~12,757 |
+| Tannenberg | 9.00% | ~12,758 |
 | For the Emperor | 8.00% | ~11,340 |
 | Hawk Eye | 8.00% | ~11,340 |
-| Equality For All | 7.00% | ~9,922 |
-| Hötzendorf | 7.00% | ~9,922 |
+| Equality For All | 7.00% | ~9,923 |
+| Hötzendorf | 7.00% | ~9,923 |
 | Crack Shot | 6.00% | ~8,505 |
-| From Russia with Love | 5.00% | ~7,087 |
-| Overachiever | 5.00% | ~7,087 |
-| Your Family Will Be Proud... | 5.00% | ~7,087 |
+| From Russia with Love | 5.00% | ~7,088 |
+| Overachiever | 5.00% | ~7,088 |
+| Your Family Will Be Proud... | 5.00% | ~7,088 |
 | Gott Mit Uns | 4.00% | ~5,670 |
 | Indivisibiliter ac Inseparabiliter | 4.00% | ~5,670 |
 | Living on the Edge | 4.00% | ~5,670 |
@@ -67,14 +67,14 @@ Number of Ratings: 13,393  (23.09.2022)
 | Phone It In | 2.00% | ~2,835 |
 | Pulcējaties zem latviešu karogiem! | 2.00% | ~2,835 |
 | Pure Krupp Steel | 2.00% | ~2,835 |
-| From Russia with Hate | 1.00% | ~1,417 |
-| Talk Much? | 1.00% | ~1,417 |
-| To Arms! To Arms! | 1.00% | ~1,417 |
+| From Russia with Hate | 1.00% | ~1,418 |
+| Talk Much? | 1.00% | ~1,418 |
+| To Arms! To Arms! | 1.00% | ~1,418 |
 | Express to Petrograd | 0.90% | ~1,276 |
 | Seeing is Believing | 0.90% | ~1,276 |
 | Road to Berlin | 0.60% | ~850 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141,749 (Ranked 82)  
+Progressed: 141,750 (Ranked 82)  
 Completed: 34 (0.02%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 34 (0.02%) (Ranked 348)
 | 2023-12-15 | 141,400 | 33 |
 | 2023-12-16 | 141,561 | 33 |
 | 2023-12-17 | 141,706 | 34 |
-| 2023-12-18 | 141,749 | 34 |
+| 2023-12-18 | 141,750 | 34 |
 ## Awards
 Max (Competitive Players): 335  (Ranked 248)  
 Sum: 3,289 (Ranked 174)  

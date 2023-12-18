@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 556,
+  "EOS_Progressed": 557,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
@@ -1929,6 +1929,11 @@
       "Time": "2023-12-18T11:10:31.841878+00:00",
       "NumProgressed": 556,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-18T13:16:15.4707567+00:00",
+      "NumProgressed": 557,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-04T13:10:46.6045542+00:00",
@@ -1989,7 +1994,7 @@
       "Name": "I love customers",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "ACH_END_FIRST_TUTORIAL",
@@ -1997,7 +2002,7 @@
       "Name": "Ready to go",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "ACH_END_FIRST_WORKBENCH_MISSION",
@@ -2085,7 +2090,7 @@
       "Name": "Home sweet home",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "ACH_PLACE_MANY_ITEMS_IN_OFFICE",
@@ -2109,7 +2114,7 @@
       "Name": "Unpacked",
       "Percentage": 98,
       "XP": 15,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "ACH_SHOCK_ON_MISSION",
@@ -2133,7 +2138,7 @@
       "Name": "Unscrew you",
       "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ACH_WATCH_ALL_TV_CHANNELS",
@@ -2148,14 +2153,14 @@
     {
       "ID": "al4k4nh",
       "IsBase": true,
-      "Progressed": 556,
+      "Progressed": 557,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-12-18T12:10:06.1876751+00:00",
+  "LastChanged_Achievements": "2023-12-18T13:16:15.4707562+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:19.9363988+00:00",
-  "LastUpdate_Ratings": "2023-12-18T11:58:16.3038124+00:00",
-  "LastUpdate_Achievements": "2023-12-18T12:10:06.1877013+00:00"
+  "LastUpdate_Ratings": "2023-12-18T13:04:25.5734216+00:00",
+  "LastUpdate_Achievements": "2023-12-18T13:16:15.4707806+00:00"
 }

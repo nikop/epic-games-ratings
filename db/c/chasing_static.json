@@ -2,7 +2,7 @@
   "ID": "54de201ca03e45e68132e717c634f09d",
   "Name": "Chasing Static",
   "ProductSlug": "chasing-static-8405ca",
-  "Ranking_EOS_Progress": 806,
+  "Ranking_EOS_Progress": 807,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 549,
   "Ranking_EOS_NewCompleters": 153,
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:57:21.2502685+00:00",
   "LastChanged": "2023-03-31T05:57:21.2502686+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:17.2393138+00:00",
-  "LastUpdate_Ratings": "2023-12-18T11:58:24.1676282+00:00",
-  "LastUpdate_Achievements": "2023-12-18T12:06:11.0254404+00:00"
+  "LastUpdate_Ratings": "2023-12-18T13:04:33.7670804+00:00",
+  "LastUpdate_Achievements": "2023-12-18T13:12:35.1932973+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 3748,
+  "Ranking_EOS_NewCompleters": 3750,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3485,9 +3485,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18571,
+  "EOS_Progressed": 18579,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 642,
+  "EOS_NewPlayers": 649,
   "EOS_NewCompleters": -2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16175,6 +16175,11 @@
       "Time": "2023-12-18T12:06:15.2381825+00:00",
       "NumProgressed": 18571,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-18T13:12:39.7912275+00:00",
+      "NumProgressed": 18579,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16283,7 +16288,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "WinImpossible",
@@ -16403,7 +16408,7 @@
       "Name": "Royal Outpost",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "WinNearRuins",
@@ -16451,7 +16456,7 @@
       "Name": "Coral Forest",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "WinOnCursed",
@@ -16475,7 +16480,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "WinPrestige10",
@@ -16643,7 +16648,7 @@
       "Name": "Untamed Wilds",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "WinWithFoxes",
@@ -16658,15 +16663,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18571,
+      "Progressed": 18579,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-17T16:58:16.5971694+00:00",
-  "LastChanged_Achievements": "2023-12-18T12:06:15.238182+00:00",
+  "LastChanged_Achievements": "2023-12-18T13:12:39.7912271+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
-  "LastUpdate_Ratings": "2023-12-18T11:58:43.0240273+00:00",
-  "LastUpdate_Achievements": "2023-12-18T12:06:15.2382852+00:00"
+  "LastUpdate_Ratings": "2023-12-18T13:04:55.0500443+00:00",
+  "LastUpdate_Achievements": "2023-12-18T13:12:39.7913593+00:00"
 }

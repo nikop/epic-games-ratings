@@ -36,6 +36,7 @@ Number of Ratings: 292  (23.09.2022)
 | Death To Diplomacy | 0.50% | ~3 |
 | Unlimited Power! | 0.50% | ~3 |
 | Together For Her | 0.50% | ~3 |
+| Attack Bonanza | 0.40% | ~2 |
 | Fully Charged | 0.40% | ~2 |
 | Coming Through! | 0.40% | ~2 |
 | Barbecue | 0.40% | ~2 |
@@ -44,7 +45,6 @@ Number of Ratings: 292  (23.09.2022)
 | The Marsh Expands | 0.40% | ~2 |
 | Cleave | 0.40% | ~2 |
 | Bringer of Ruin | 0.20% | ~1 |
-| Attack Bonanza | 0.20% | ~1 |
 | Hello There | 0.20% | ~1 |
 | Killing Spree | 0.20% | ~1 |
 | An Empress's Hope | 0.20% | ~1 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 546 (Ranked 324)  
+Progressed: 547 (Ranked 324)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-15 | 488 | 0 |
 | 2023-12-16 | 515 | 0 |
 | 2023-12-17 | 544 | 0 |
-| 2023-12-18 | 546 | 0 |
+| 2023-12-18 | 547 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 520)  
 Sum: 194 (Ranked 412)  

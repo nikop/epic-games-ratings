@@ -17,7 +17,7 @@ Number of Ratings: 90  (23.09.2022)
 | Upgreatest | 19.00% | ~21 |
 | Lie Back and Think of Albion | 18.00% | ~20 |
 | Pimp My Raid | 17.00% | ~19 |
-| I Look Up As I Walk to Takoshima | 15.00% | ~17 |
+| I Look Up As I Walk to Takoshima | 16.00% | ~18 |
 | Perfect Probulator | 12.00% | ~14 |
 | Freshly Squeezed | 12.00% | ~14 |
 | Die Nasty | 11.00% | ~12 |

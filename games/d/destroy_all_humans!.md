@@ -6,28 +6,28 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lie Back and Think of Albion | 80.00% | ~4 |
-| Fly Me to the Moon Base | 40.00% | ~2 |
-| Yettisoned | 40.00% | ~2 |
-| Forbidden Donut | 40.00% | ~2 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 40.00% | ~2 |
-| Trans-Siberian Express | 40.00% | ~2 |
-| Arkvoodle Doodle | 20.00% | ~1 |
-| Deincarnated | 20.00% | ~1 |
-| I Look Up As I Walk to Takoshima | 20.00% | ~1 |
-| Freshly Squeezed | 20.00% | ~1 |
-| Furon Fashion | 20.00% | ~1 |
-| Path of the Furon | 20.00% | ~1 |
-| Earthly Pleasures | 20.00% | ~1 |
-| Kaijuiced | 20.00% | ~1 |
-| Die Nasty | 20.00% | ~1 |
-| Lobster Blisque | 20.00% | ~1 |
-| Re-Return of the Clone of the Invasion II-2 | 20.00% | ~1 |
-| Hidden Human Hive Harvest | 20.00% | ~1 |
-| Upgreatest | 20.00% | ~1 |
-| Mash Machine | 20.00% | ~1 |
-| Perfect Probulator | 20.00% | ~1 |
-| Ducks in a Row, Fish in a Barrel | 20.00% | ~1 |
+| Lie Back and Think of Albion | 100.00% | ~6 |
+| Yettisoned | 50.00% | ~3 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 50.00% | ~3 |
+| Lobster Blisque | 50.00% | ~3 |
+| Trans-Siberian Express | 50.00% | ~3 |
+| Fly Me to the Moon Base | 33.00% | ~2 |
+| Forbidden Donut | 33.00% | ~2 |
+| Freshly Squeezed | 33.00% | ~2 |
+| Kaijuiced | 33.00% | ~2 |
+| Arkvoodle Doodle | 17.00% | ~1 |
+| Deincarnated | 17.00% | ~1 |
+| I Look Up As I Walk to Takoshima | 17.00% | ~1 |
+| Furon Fashion | 17.00% | ~1 |
+| Path of the Furon | 17.00% | ~1 |
+| Earthly Pleasures | 17.00% | ~1 |
+| Die Nasty | 17.00% | ~1 |
+| Re-Return of the Clone of the Invasion II-2 | 17.00% | ~1 |
+| Hidden Human Hive Harvest | 17.00% | ~1 |
+| Upgreatest | 17.00% | ~1 |
+| Mash Machine | 17.00% | ~1 |
+| Perfect Probulator | 17.00% | ~1 |
+| Ducks in a Row, Fish in a Barrel | 17.00% | ~1 |
 | Scuttled | 0.00% | ~0 |
 | Transmitting From Sol-3 | 0.00% | ~0 |
 | Cult Following | 0.00% | ~0 |
@@ -47,12 +47,12 @@ Number of Ratings: 85  (23.09.2022)
 | Against All Odds | 0.00% | ~0 |
 | Dusted | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5 (Ranked 663)  
+Progressed: 6 (Ranked 652)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-12-18 | 5 | 0 |
+| 2023-12-18 | 6 | 0 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 489)  
 Sum: 34 (Ranked 515)  

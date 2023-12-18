@@ -223,9 +223,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8507,
+  "EOS_Progressed": 8508,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8668,6 +8668,11 @@
       "Time": "2023-12-18T08:10:09.2698693+00:00",
       "NumProgressed": 8507,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-18T13:16:54.6470199+00:00",
+      "NumProgressed": 8508,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -8766,9 +8771,9 @@
       "ID": "COLLECT_LOGS",
       "SetID": "9eia0f5",
       "Name": "Lumberjack",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 34
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -9023,13 +9028,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8507,
+      "Progressed": 8508,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1124,
+      "Progressed": 1125,
       "Completed": 1050
     }
   ],
@@ -9037,8 +9042,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-15T16:03:24.8361061+00:00",
-  "LastChanged_Achievements": "2023-12-18T12:10:43.1401912+00:00",
+  "LastChanged_Achievements": "2023-12-18T13:16:54.6470193+00:00",
   "LastUpdate_AppInfo": "2023-12-15T11:57:06.5610357+00:00",
-  "LastUpdate_Ratings": "2023-12-18T12:03:35.0700987+00:00",
-  "LastUpdate_Achievements": "2023-12-18T12:10:43.140252+00:00"
+  "LastUpdate_Ratings": "2023-12-18T13:09:47.6449006+00:00",
+  "LastUpdate_Achievements": "2023-12-18T13:16:54.6470917+00:00"
 }

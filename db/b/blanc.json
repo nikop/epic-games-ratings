@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3586,
+  "EOS_Progressed": 3587,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -5626,6 +5626,11 @@
       "Time": "2023-12-18T12:04:40.3190441+00:00",
       "NumProgressed": 3586,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-18T13:10:58.2943805+00:00",
+      "NumProgressed": 3587,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -5661,7 +5666,7 @@
       "Name": "Helping the little ones",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "MOVE_ON",
@@ -5740,7 +5745,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3586,
+      "Progressed": 3587,
       "Completed": 6
     }
   ],
@@ -5748,8 +5753,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-18T12:04:40.3190439+00:00",
+  "LastChanged_Achievements": "2023-12-18T13:10:58.2943799+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:23.2126403+00:00",
-  "LastUpdate_Ratings": "2023-12-18T11:59:12.4267106+00:00",
-  "LastUpdate_Achievements": "2023-12-18T12:04:40.31908+00:00"
+  "LastUpdate_Ratings": "2023-12-18T13:05:27.083381+00:00",
+  "LastUpdate_Achievements": "2023-12-18T13:10:58.2944201+00:00"
 }

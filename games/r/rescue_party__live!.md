@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | ASAP | 98.00% | ~242 |
+| Medal of honor | 36.00% | ~89 |
 | Life matters | 36.00% | ~89 |
-| Medal of honor | 35.00% | ~86 |
 | Safety first | 31.00% | ~77 |
 | Professional team! | 24.00% | ~59 |
 | Dawn of Victory | 13.00% | ~32 |

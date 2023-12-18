@@ -2,10 +2,10 @@
   "ID": "301ec0fdbcaf46b3af9322e436ac87bd",
   "Name": "Voidtrain",
   "ProductSlug": "voidtrain",
-  "Ranking_Rating": 578,
+  "Ranking_Rating": 599,
   "Ranking_Popularity": 454,
   "Ranking_PopularitySum": 384,
-  "Ranking_EOS_Progress": 806,
+  "Ranking_EOS_Progress": 807,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 549,
   "Ranking_EOS_NewCompleters": 153,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.51,
+  "Rating": 4.5,
   "NumberOfRatings": 1305,
   "RatingHistory": [
     {
@@ -1200,6 +1200,12 @@
       "Rating": 4.51,
       "NumberOfAwards": 260,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2023-12-18T13:09:33.5245745+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 260,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
@@ -1279,8 +1285,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:41.7165355+00:00",
-  "LastChanged": "2023-12-14T09:03:22.0657656+00:00",
+  "LastChanged": "2023-12-18T13:09:33.5245744+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:51.8410996+00:00",
-  "LastUpdate_Ratings": "2023-12-18T12:03:21.8568379+00:00",
-  "LastUpdate_Achievements": "2023-12-18T12:04:49.8095221+00:00"
+  "LastUpdate_Ratings": "2023-12-18T13:09:33.5245748+00:00",
+  "LastUpdate_Achievements": "2023-12-18T13:11:08.3210572+00:00"
 }

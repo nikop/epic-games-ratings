@@ -4,7 +4,7 @@
   "ProductSlug": "steamworld-build-71ee6c",
   "Ranking_EOS_Progress": 430,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -640,9 +640,9 @@
       "ID": "RollOut",
       "SetID": "4bd750m",
       "Name": "Roll Out",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "RoomToSpare",
@@ -735,8 +735,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-18T12:07:52.2563452+00:00",
+  "LastChanged_Achievements": "2023-12-18T13:14:24.355451+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.7183942+00:00",
-  "LastUpdate_Ratings": "2023-12-18T12:03:34.5503569+00:00",
-  "LastUpdate_Achievements": "2023-12-18T12:07:52.2563628+00:00"
+  "LastUpdate_Ratings": "2023-12-18T13:09:47.0938259+00:00",
+  "LastUpdate_Achievements": "2023-12-18T13:14:24.3554696+00:00"
 }

@@ -7,7 +7,7 @@ Rating: 4.64 (Ranked 340)
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 37.00% | ~380 |
 | Rail Rat | 29.00% | ~298 |
-| The Mysterious Stranger | 28.00% | ~287 |
+| The Mysterious Stranger | 28.00% | ~288 |
 | Immaculate Aim | 24.00% | ~246 |
 | Make Up For Lost Time | 23.00% | ~236 |
 | Time Flies | 23.00% | ~236 |
@@ -19,8 +19,8 @@ Rating: 4.64 (Ranked 340)
 | Honest Mistake | 22.00% | ~226 |
 | Fast Learner | 22.00% | ~226 |
 | Immaculate Aim | 22.00% | ~226 |
-| Breaking Down Barriers | 21.00% | ~215 |
-| The Wicked Twins | 21.00% | ~215 |
+| Breaking Down Barriers | 21.00% | ~216 |
+| The Wicked Twins | 21.00% | ~216 |
 | Right On Time | 20.00% | ~205 |
 | Like Clockwork | 20.00% | ~205 |
 | The Betrayer | 20.00% | ~205 |
@@ -28,13 +28,13 @@ Rating: 4.64 (Ranked 340)
 | Check Your Pulse | 19.00% | ~195 |
 | The Loose Cannon | 18.00% | ~185 |
 | The Family Fortune | 18.00% | ~185 |
-| Street Style | 17.00% | ~174 |
-| The Man Who Shattered Time | 17.00% | ~174 |
+| Street Style | 17.00% | ~175 |
+| The Man Who Shattered Time | 17.00% | ~175 |
 | Treasure Trove | 14.00% | ~144 |
 | Whiz Kid | 14.00% | ~144 |
 | Cartographer | 14.00% | ~144 |
-| Family Memories | 13.00% | ~133 |
-| Good Neighbor | 13.00% | ~133 |
+| Family Memories | 13.00% | ~134 |
+| Good Neighbor | 13.00% | ~134 |
 | Chaincrawler Explorer | 12.00% | ~123 |
 | Ask Questions Later | 12.00% | ~123 |
 | Sump Explorer | 11.00% | ~113 |
@@ -59,7 +59,7 @@ Rating: 4.64 (Ranked 340)
 | Raw Talent | 0.70% | ~7 |
 | Going to Live Forever | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,026 (Ranked 275)  
+Progressed: 1,027 (Ranked 275)  
 Completed: 6 (0.58%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 6 (0.58%) (Ranked 198)
 | 2023-12-15 | 978 | 6 |
 | 2023-12-16 | 1,000 | 6 |
 | 2023-12-17 | 1,021 | 6 |
-| 2023-12-18 | 1,026 | 6 |
+| 2023-12-18 | 1,027 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

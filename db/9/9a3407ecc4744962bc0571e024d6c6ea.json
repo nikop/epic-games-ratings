@@ -2924,9 +2924,9 @@
       "ID": "ABetterTomorrow",
       "SetID": "3ai6ml8",
       "Name": "A Better Tomorrow",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 515
+      "UsersEstimate": 525
     },
     {
       "ID": "BostonHayDay",
@@ -3091,8 +3091,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-12-18T12:10:21.7065415+00:00",
+  "LastChanged_Achievements": "2023-12-18T13:16:31.9583368+00:00",
   "LastUpdate_AppInfo": "2023-12-13T21:57:02.5994024+00:00",
-  "LastUpdate_Ratings": "2023-12-18T11:57:27.2385249+00:00",
-  "LastUpdate_Achievements": "2023-12-18T12:10:21.7065671+00:00"
+  "LastUpdate_Ratings": "2023-12-18T13:03:31.7314557+00:00",
+  "LastUpdate_Achievements": "2023-12-18T13:16:31.9583998+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_Rating": 760,
   "Ranking_Popularity": 197,
   "Ranking_PopularitySum": 161,
-  "Ranking_EOS_Progress": 806,
+  "Ranking_EOS_Progress": 807,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 549,
   "Ranking_EOS_NewCompleters": 153,
@@ -2949,10 +2949,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 3901,
       "NumberOfAwardsMax": 611
+    },
+    {
+      "Time": "2023-12-18T13:08:46.3626245+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 3902,
+      "NumberOfAwardsMax": 611
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3901,
+  "NumberOfAwards": 3902,
   "NumberOfAwardsMax": 611,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -3008,7 +3014,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 418
+      "Count": 419
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3028,8 +3034,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:27.7135917+00:00",
-  "LastChanged": "2023-12-16T13:01:50.556261+00:00",
+  "LastChanged": "2023-12-18T13:08:46.3626243+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:15.738389+00:00",
-  "LastUpdate_Ratings": "2023-12-18T12:01:39.874856+00:00",
-  "LastUpdate_Achievements": "2023-12-18T12:10:15.557853+00:00"
+  "LastUpdate_Ratings": "2023-12-18T13:08:46.3626247+00:00",
+  "LastUpdate_Achievements": "2023-12-18T13:16:25.5345265+00:00"
 }
