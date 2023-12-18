@@ -51,8 +51,8 @@
 | Sherlock Holmes | 0.60% | ~1 |
 | Do not feed the fish! | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 177 (Ranked 404)  
-Completed: 0 (0.00%) (Ranked 380)  
+Progressed: 177 (Ranked 405)  
+Completed: 0 (0.00%) (Ranked 381)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

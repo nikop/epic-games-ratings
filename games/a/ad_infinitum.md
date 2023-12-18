@@ -12,8 +12,8 @@
 | Path of Corruption | 36.00% | ~35 |
 | Hope | 30.00% | ~29 |
 | Rage | 30.00% | ~29 |
-| Path of Pain | 20.00% | ~19 |
-| Clarity | 15.00% | ~15 |
+| Path of Pain | 21.00% | ~20 |
+| Clarity | 16.00% | ~16 |
 | Reflections | 14.00% | ~14 |
 | The shining | 14.00% | ~14 |
 | Mayhem | 13.00% | ~13 |
@@ -35,7 +35,7 @@
 | Their names | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 97 (Ranked 463)  
-Completed: 0 (0.00%) (Ranked 380)  
+Completed: 0 (0.00%) (Ranked 381)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

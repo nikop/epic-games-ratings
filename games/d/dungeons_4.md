@@ -56,9 +56,9 @@
 | To Infinity And Beyond! | 18.00% | ~106 |
 | To the Max! | 17.00% | ~100 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~94 |
+| Untouchable | 15.00% | ~88 |
 | Evilification | 15.00% | ~88 |
 | Mirror, Mirror | 14.00% | ~82 |
-| Untouchable | 14.00% | ~82 |
 | Heal Heal Blessing | 14.00% | ~82 |
 | Hands Off My Stones | 12.00% | ~70 |
 | Laser Eyes Are So Useless | 11.00% | ~65 |
@@ -67,7 +67,7 @@
 | I Don't Need Any Help | 8.00% | ~47 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 587 (Ranked 317)  
-Completed: 18 (3.07%) (Ranked 108)  
+Completed: 18 (3.07%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

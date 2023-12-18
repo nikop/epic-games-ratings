@@ -3,9 +3,9 @@
   "Name": "Terror of Hemasaurus",
   "ProductSlug": "terror-of-hemasaurus-a08800",
   "Ranking_EOS_Progress": 473,
-  "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 469,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_Completed": 101,
+  "Ranking_EOS_NewPlayers": 470,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-10-17T17:00:00+00:00",
     "PcReleaseDate": "2022-10-17T17:00:00+00:00",
@@ -322,9 +322,9 @@
       "ID": "ACH_100_CARS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Crushing All Cars",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_100_HELICOPTERS_DESTROYED",
@@ -474,9 +474,9 @@
       "ID": "ACH_50_POLICE_HELICOPTERS",
       "SetID": "aio76gp",
       "Name": "Night Bird",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_50_SWAT_HELICOPTERS",
@@ -522,9 +522,9 @@
       "ID": "ACH_KILL_300_ENEMIES",
       "SetID": "aio76gp",
       "Name": "Monstrosity Atrocity",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_STORY_MODE",
@@ -563,8 +563,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.2122868+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.8436935+00:00",
   "LastChanged": "2023-03-31T05:57:37.2122869+00:00",
-  "LastChanged_Achievements": "2023-12-18T14:05:56.2906165+00:00",
+  "LastChanged_Achievements": "2023-12-18T15:05:45.5279669+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:25.6506261+00:00",
-  "LastUpdate_Ratings": "2023-12-18T13:58:11.1993398+00:00",
-  "LastUpdate_Achievements": "2023-12-18T14:05:56.2906337+00:00"
+  "LastUpdate_Ratings": "2023-12-18T14:58:11.8137895+00:00",
+  "LastUpdate_Achievements": "2023-12-18T15:05:45.5279801+00:00"
 }

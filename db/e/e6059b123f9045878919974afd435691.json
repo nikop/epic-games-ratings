@@ -3,9 +3,9 @@
   "Name": "Chased by Darkness",
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 267,
-  "Ranking_EOS_Completed": 380,
+  "Ranking_EOS_Completed": 381,
   "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -3206,9 +3206,9 @@
       "ID": "EXTINV_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Think Bullets Will Affect Her?",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 126
     },
     {
       "ID": "EXT_ACHIEVEMENT_1",
@@ -3533,8 +3533,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-12-18T14:09:51.9066908+00:00",
+  "LastChanged_Achievements": "2023-12-18T15:09:40.7895322+00:00",
   "LastUpdate_AppInfo": "2023-12-15T02:21:08.9329051+00:00",
-  "LastUpdate_Ratings": "2023-12-18T13:59:00.2248314+00:00",
-  "LastUpdate_Achievements": "2023-12-18T14:09:51.9067539+00:00"
+  "LastUpdate_Ratings": "2023-12-18T14:59:00.2081292+00:00",
+  "LastUpdate_Achievements": "2023-12-18T15:09:40.789585+00:00"
 }

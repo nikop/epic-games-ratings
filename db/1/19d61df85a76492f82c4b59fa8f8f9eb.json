@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 383,
+  "EOS_Progressed": 384,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 9.92,
+  "EOS_Completed_Percentage": 9.9,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -1804,6 +1804,11 @@
       "Time": "2023-12-18T00:08:38.925749+00:00",
       "NumProgressed": 383,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-18T15:08:32.1385092+00:00",
+      "NumProgressed": 384,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 6,
@@ -1823,7 +1828,7 @@
       "Name": "File-cutter",
       "Percentage": 64,
       "XP": 165,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAg",
@@ -1855,21 +1860,21 @@
       "Name": "Flying Machine",
       "Percentage": 34,
       "XP": 165,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     }
   ],
   "AchievementSets": [
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 383,
+      "Progressed": 384,
       "Completed": 38
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-12-18T14:08:42.7261106+00:00",
+  "LastChanged_Achievements": "2023-12-18T15:08:32.138509+00:00",
   "LastUpdate_AppInfo": "2023-12-15T02:21:09.453907+00:00",
-  "LastUpdate_Ratings": "2023-12-18T13:59:15.6891419+00:00",
-  "LastUpdate_Achievements": "2023-12-18T14:08:42.7261245+00:00"
+  "LastUpdate_Ratings": "2023-12-18T14:59:15.7681626+00:00",
+  "LastUpdate_Achievements": "2023-12-18T15:08:32.1385212+00:00"
 }

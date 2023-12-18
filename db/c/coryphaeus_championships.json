@@ -2,10 +2,10 @@
   "ID": "3a404cb5028b43b9a553312b7c965b42",
   "Name": "Coryphaeus Championships (Closed Beta)",
   "ProductSlug": "coryphaeus-championships-216f4a",
-  "Ranking_EOS_Progress": 677,
-  "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 549,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_Progress": 678,
+  "Ranking_EOS_Completed": 381,
+  "Ranking_EOS_NewPlayers": 548,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-07T20:30:00+00:00",
     "PcReleaseDate": "2023-12-07T22:00:00+00:00",
@@ -101,8 +101,8 @@
   ],
   "FirstSeen": "2023-12-09T15:59:00.0551516+00:00",
   "FirstSeenAchievements": "2023-05-02T14:01:03.0189024+00:00",
-  "LastChanged_Achievements": "2023-12-18T14:09:34.9989257+00:00",
+  "LastChanged_Achievements": "2023-12-18T15:09:23.8897163+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:14.015433+00:00",
-  "LastUpdate_Ratings": "2023-12-18T14:00:11.3769126+00:00",
-  "LastUpdate_Achievements": "2023-12-18T14:09:34.9989298+00:00"
+  "LastUpdate_Ratings": "2023-12-18T15:00:11.3336813+00:00",
+  "LastUpdate_Achievements": "2023-12-18T15:09:23.8897272+00:00"
 }

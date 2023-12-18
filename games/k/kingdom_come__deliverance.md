@@ -1,40 +1,40 @@
 # Kingdom Come: Deliverance
 [Store](https://store.epicgames.com/en-US/p/kingdom-come-deliverance)  
 [View Rawdata](../../db/k/kingdom_come__deliverance.json)  
-Rating: 4.71 (Ranked 200)  
+Rating: 4.71 (Ranked 199)  
 Number of Ratings: 9,133  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~260,205 |
-| Cavalier | 25.00% | ~203,285 |
-| Fatso | 23.00% | ~187,022 |
-| Awakening | 21.00% | ~170,760 |
-| Ranger | 20.00% | ~162,628 |
-| Scrooge | 20.00% | ~162,628 |
-| Anorectic | 16.00% | ~130,103 |
-| Firestarter | 16.00% | ~130,103 |
-| Bookworm | 15.00% | ~121,971 |
-| Insomniac | 13.00% | ~105,708 |
-| Buddy | 12.00% | ~97,577 |
-| Thief | 12.00% | ~97,577 |
-| Sinner | 11.00% | ~89,446 |
-| Traveller | 11.00% | ~89,446 |
-| Convict | 10.00% | ~81,314 |
-| Haggler | 9.00% | ~73,183 |
-| McLovin | 7.00% | ~56,920 |
-| Runt | 7.00% | ~56,920 |
-| Casanova | 6.00% | ~48,788 |
-| Bad Trip | 5.00% | ~40,657 |
-| Monk | 5.00% | ~40,657 |
-| Serial Killer | 5.00% | ~40,657 |
+| Blacksmith's Son | 32.00% | ~260,209 |
+| Cavalier | 25.00% | ~203,288 |
+| Fatso | 23.00% | ~187,025 |
+| Awakening | 21.00% | ~170,762 |
+| Ranger | 20.00% | ~162,631 |
+| Scrooge | 20.00% | ~162,631 |
+| Anorectic | 16.00% | ~130,104 |
+| Firestarter | 16.00% | ~130,104 |
+| Bookworm | 15.00% | ~121,973 |
+| Insomniac | 13.00% | ~105,710 |
+| Buddy | 12.00% | ~97,578 |
+| Thief | 12.00% | ~97,578 |
+| Sinner | 11.00% | ~89,447 |
+| Traveller | 11.00% | ~89,447 |
+| Convict | 10.00% | ~81,315 |
+| Haggler | 9.00% | ~73,184 |
+| McLovin | 7.00% | ~56,921 |
+| Runt | 7.00% | ~56,921 |
+| Casanova | 6.00% | ~48,789 |
+| Bad Trip | 5.00% | ~40,658 |
+| Monk | 5.00% | ~40,658 |
+| Serial Killer | 5.00% | ~40,658 |
 | Bastard | 4.00% | ~32,526 |
 | Hunter | 4.00% | ~32,526 |
 | Plague Doctor | 4.00% | ~32,526 |
-| Bard | 3.00% | ~24,394 |
-| Conqueror | 3.00% | ~24,394 |
-| Ginger in a Pickle | 3.00% | ~24,394 |
-| Kingdom did not come | 3.00% | ~24,394 |
+| Bard | 3.00% | ~24,395 |
+| Conqueror | 3.00% | ~24,395 |
+| Ginger in a Pickle | 3.00% | ~24,395 |
+| Kingdom did not come | 3.00% | ~24,395 |
 | Completionist | 2.00% | ~16,263 |
 | Death by splinter | 2.00% | ~16,263 |
 | King Charming | 2.00% | ~16,263 |
@@ -44,13 +44,13 @@ Number of Ratings: 9,133  (23.09.2022)
 | Robber Baron | 2.00% | ~16,263 |
 | Talmberger | 2.00% | ~16,263 |
 | The End | 2.00% | ~16,263 |
-| Woman's Lot | 1.00% | ~8,131 |
-| Chivalrous Soul | 1.00% | ~8,131 |
-| Spoilsport | 1.00% | ~8,131 |
-| Freud | 1.00% | ~8,131 |
-| Gambler | 1.00% | ~8,131 |
-| Master Huntsman | 1.00% | ~8,131 |
-| Stealth Killer | 1.00% | ~8,131 |
+| Woman's Lot | 1.00% | ~8,132 |
+| Chivalrous Soul | 1.00% | ~8,132 |
+| Spoilsport | 1.00% | ~8,132 |
+| Freud | 1.00% | ~8,132 |
+| Gambler | 1.00% | ~8,132 |
+| Master Huntsman | 1.00% | ~8,132 |
+| Stealth Killer | 1.00% | ~8,132 |
 | Bailiff | 0.90% | ~7,318 |
 | Tracker | 0.90% | ~7,318 |
 | David Horak | 0.80% | ~6,505 |
@@ -89,8 +89,8 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~813 |
 | Wingman | 0.10% | ~813 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 813,141 (Ranked 18)  
-Completed: 52 (0.01%) (Ranked 356)  
+Progressed: 813,153 (Ranked 18)  
+Completed: 52 (0.01%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -331,7 +331,7 @@ Completed: 52 (0.01%) (Ranked 356)
 | 2023-12-15 | 812,670 | 52 |
 | 2023-12-16 | 812,891 | 52 |
 | 2023-12-17 | 813,083 | 52 |
-| 2023-12-18 | 813,141 | 52 |
+| 2023-12-18 | 813,153 | 52 |
 ## Awards
 Max (Character Customization): 7,678  (Ranked 52)  
 Sum: 28,526 (Ranked 50)  

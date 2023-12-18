@@ -2,13 +2,13 @@
   "ID": "2e09c1d223094f3798f63873548c9454",
   "Name": "Tchia",
   "ProductSlug": "tchia",
-  "Ranking_Rating": 200,
+  "Ranking_Rating": 199,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 181,
-  "Ranking_EOS_Completed": 222,
+  "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -257,7 +257,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8102,
+  "EOS_Progressed": 8103,
   "EOS_Completed": 34,
   "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
@@ -9387,6 +9387,11 @@
       "Time": "2023-12-18T12:05:15.3954979+00:00",
       "NumProgressed": 8102,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-18T15:04:18.5860322+00:00",
+      "NumProgressed": 8103,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -9446,7 +9451,7 @@
       "Name": "Energy Saver",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1377
+      "UsersEstimate": 1378
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -9502,7 +9507,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1701
+      "UsersEstimate": 1702
     },
     {
       "ID": "LIBERATOR",
@@ -9540,9 +9545,9 @@
       "ID": "SOUL_CANON",
       "SetID": "3cck1g6",
       "Name": "Soul-Canon",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 486
+      "UsersEstimate": 567
     },
     {
       "ID": "THE_JOURNEY_ONWARDS",
@@ -9565,7 +9570,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 8102,
+      "Progressed": 8103,
       "Completed": 34
     }
   ],
@@ -9573,8 +9578,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-12-17T08:57:44.8415466+00:00",
-  "LastChanged_Achievements": "2023-12-18T14:04:29.7321151+00:00",
+  "LastChanged_Achievements": "2023-12-18T15:04:18.5860319+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:46.5620941+00:00",
-  "LastUpdate_Ratings": "2023-12-18T13:57:42.0836908+00:00",
-  "LastUpdate_Achievements": "2023-12-18T14:04:29.732178+00:00"
+  "LastUpdate_Ratings": "2023-12-18T14:57:42.9431404+00:00",
+  "LastUpdate_Achievements": "2023-12-18T15:04:18.5860869+00:00"
 }

@@ -12,7 +12,7 @@
 | Pinewood, Here we come! | 76.00% | ~83 |
 | The Van | 72.00% | ~78 |
 | Road-Trip | 65.00% | ~71 |
-| A Musical Pause | 63.00% | ~69 |
+| A Musical Pause | 64.00% | ~70 |
 | Briget's | 55.00% | ~60 |
 | Sound of Noise | 50.00% | ~54 |
 | Big City Music | 49.00% | ~53 |
@@ -60,7 +60,7 @@
 | Love is All | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 109 (Ranked 452)  
-Completed: 1 (0.92%) (Ranked 176)  
+Completed: 1 (0.92%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

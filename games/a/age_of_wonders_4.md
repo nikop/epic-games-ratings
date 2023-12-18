@@ -19,20 +19,20 @@ Rating: 4.62 (Ranked 372)
 | Magical Synergy | 3.00% | ~175 |
 | Seat of Power | 3.00% | ~175 |
 | In a Liege of Your Own | 3.00% | ~175 |
-| Return of the Wizard King | 2.00% | ~116 |
-| Enchanted Archipelago | 2.00% | ~116 |
-| Digging for Treasure | 2.00% | ~116 |
-| My Final Form | 2.00% | ~116 |
-| Fiery Friend | 2.00% | ~116 |
-| Impenetrable Fortress | 2.00% | ~116 |
-| Intimidation Tactics | 2.00% | ~116 |
-| Here be Dragons | 2.00% | ~116 |
-| Tipping the Scales | 2.00% | ~116 |
-| Mighty Hoard | 2.00% | ~116 |
-| Freed Lands of Manuhari | 2.00% | ~116 |
-| Sehiran Oasis | 2.00% | ~116 |
-| Chaos Surge | 2.00% | ~116 |
-| Spoils of War | 2.00% | ~116 |
+| Return of the Wizard King | 2.00% | ~117 |
+| Enchanted Archipelago | 2.00% | ~117 |
+| Digging for Treasure | 2.00% | ~117 |
+| My Final Form | 2.00% | ~117 |
+| Fiery Friend | 2.00% | ~117 |
+| Impenetrable Fortress | 2.00% | ~117 |
+| Intimidation Tactics | 2.00% | ~117 |
+| Here be Dragons | 2.00% | ~117 |
+| Tipping the Scales | 2.00% | ~117 |
+| Mighty Hoard | 2.00% | ~117 |
+| Freed Lands of Manuhari | 2.00% | ~117 |
+| Sehiran Oasis | 2.00% | ~117 |
+| Chaos Surge | 2.00% | ~117 |
+| Spoils of War | 2.00% | ~117 |
 | Arch Mage | 1.00% | ~58 |
 | The Creator | 1.00% | ~58 |
 | Crimson Caldera | 1.00% | ~58 |
@@ -42,10 +42,10 @@ Rating: 4.62 (Ranked 372)
 | Seal the Deal | 1.00% | ~58 |
 | A Conqueror's Cohort | 1.00% | ~58 |
 | Dawn of the Dread | 1.00% | ~58 |
+| Against the Odds | 0.90% | ~52 |
 | The Eternal Court | 0.90% | ~52 |
 | Lord of Chaos | 0.80% | ~47 |
 | Eternal Lord | 0.80% | ~47 |
-| Against the Odds | 0.80% | ~47 |
 | I've Got Everything I Need Right Here | 0.70% | ~41 |
 | God Emperor | 0.70% | ~41 |
 | The Goddess of Nature | 0.70% | ~41 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 372)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,825 (Ranked 191)  
+Progressed: 5,828 (Ranked 191)  
 Completed: 7 (0.12%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 7 (0.12%) (Ranked 290)
 | 2023-12-15 | 5,702 | 7 |
 | 2023-12-16 | 5,752 | 7 |
 | 2023-12-17 | 5,798 | 7 |
-| 2023-12-18 | 5,825 | 7 |
+| 2023-12-18 | 5,828 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 479)  
 Sum: 93 (Ranked 461)  

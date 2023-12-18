@@ -5,25 +5,25 @@ Rating: 4.43 (Ranked 699)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~59,728 |
-| This is only the beginning | 20.00% | ~45,945 |
-| Knowledge is power | 13.00% | ~29,864 |
-| Galvanic Rifle | 10.00% | ~22,972 |
-| Radium Ready | 10.00% | ~22,972 |
-| Power Ranger | 9.00% | ~20,675 |
-| Taser Goad | 9.00% | ~20,675 |
-| Half a cog | 9.00% | ~20,675 |
+| No aid from the Omnissiah | 26.00% | ~59,730 |
+| This is only the beginning | 20.00% | ~45,946 |
+| Knowledge is power | 13.00% | ~29,865 |
+| Galvanic Rifle | 10.00% | ~22,973 |
+| Radium Ready | 10.00% | ~22,973 |
+| Power Ranger | 9.00% | ~20,676 |
+| Taser Goad | 9.00% | ~20,676 |
+| Half a cog | 9.00% | ~20,676 |
 | Watch them crumble | 6.00% | ~13,784 |
 | Competent Cohort | 4.00% | ~9,189 |
 | Celestial Cartography Catastrophe | 4.00% | ~9,189 |
 | One with the Machine | 4.00% | ~9,189 |
 | Legio Cybernetica | 3.00% | ~6,892 |
 | Fleshy Disposal | 3.00% | ~6,892 |
-| Battle Servitor | 2.00% | ~4,594 |
-| Ding Dong Szaregon's Gone | 2.00% | ~4,594 |
-| Impatient destruction | 2.00% | ~4,594 |
-| Vivisected Vizier | 2.00% | ~4,594 |
-| Architect Abortion | 2.00% | ~4,594 |
+| Battle Servitor | 2.00% | ~4,595 |
+| Ding Dong Szaregon's Gone | 2.00% | ~4,595 |
+| Impatient destruction | 2.00% | ~4,595 |
+| Vivisected Vizier | 2.00% | ~4,595 |
+| Architect Abortion | 2.00% | ~4,595 |
 | Cohortus Maximus | 0.80% | ~1,838 |
 | Mother of Xenarites | 0.40% | ~919 |
 | False God | 0.30% | ~689 |
@@ -40,8 +40,8 @@ Rating: 4.43 (Ranked 699)
 | Perma-live | 0.10% | ~230 |
 | Purge the Heretek | 0.10% | ~230 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,725 (Ranked 70)  
-Completed: 5 (0.00%) (Ranked 380)  
+Progressed: 229,729 (Ranked 70)  
+Completed: 5 (0.00%) (Ranked 381)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -282,17 +282,17 @@ Completed: 5 (0.00%) (Ranked 380)
 | 2023-12-15 | 229,480 | 5 |
 | 2023-12-16 | 229,584 | 5 |
 | 2023-12-17 | 229,676 | 5 |
-| 2023-12-18 | 229,725 | 5 |
+| 2023-12-18 | 229,729 | 5 |
 ## Awards
 Max (Highly Recommended): 291  (Ranked 260)  
-Sum: 2,213 (Ranked 209)  
+Sum: 2,214 (Ranked 209)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 291 |
 | This game has Quickly Understood Controls | 286 |
 | This game is Extremely Fun | 282 |
-| This game has Amazing Characters | 271 |
+| This game has Amazing Characters | 272 |
 | This game has Diverse Characters | 269 |
 | This game has Amazing Storytelling | 251 |
 | This game is Relaxing | 245 |
@@ -409,3 +409,4 @@ Diff (max vs sum): 51
 | 2023-12-13 | 4.43 | 291 | 2,210 |
 | 2023-12-14 | 4.43 | 291 | 2,211 |
 | 2023-12-16 | 4.43 | 291 | 2,213 |
+| 2023-12-18 | 4.43 | 291 | 2,214 |

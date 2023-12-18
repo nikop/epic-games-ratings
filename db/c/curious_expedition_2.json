@@ -6,9 +6,9 @@
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 350,
-  "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_Completed": 249,
+  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
     "PcReleaseDate": "2021-01-28T00:00:00+00:00",
@@ -70,9 +70,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 359,
+  "EOS_Progressed": 360,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -420,6 +420,11 @@
       "Time": "2023-12-18T14:09:51.1181117+00:00",
       "NumProgressed": 359,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-18T15:09:39.9956736+00:00",
+      "NumProgressed": 360,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -445,9 +450,9 @@
       "ID": "ach-allAnimals",
       "SetID": "17ih7ma",
       "Name": "Zookeeper",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 25
     },
     {
       "ID": "ach-anthropology-complete",
@@ -583,7 +588,7 @@
       "Name": "O Captain My Captain",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ach-cartography-complete",
@@ -607,7 +612,7 @@
       "Name": "Cartographer",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ach-discover-locations-high",
@@ -623,7 +628,7 @@
       "Name": "Under the Table",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ach-environmentKill",
@@ -679,7 +684,7 @@
       "Name": "For the Club!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ach-keepHighStanding",
@@ -711,7 +716,7 @@
       "Name": "Shortening of the Way",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ach-learn-traits",
@@ -751,7 +756,7 @@
       "Name": "Veteran Explorer",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ach-meetGhost",
@@ -775,7 +780,7 @@
       "Name": "Insomnia",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ach-pacifist-goals",
@@ -831,7 +836,7 @@
       "Name": "A Gentle Beast",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ach-rideDinosaur",
@@ -839,7 +844,7 @@
       "Name": "Practical Palaeontology",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ach-rob-shrines",
@@ -910,7 +915,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 359,
+      "Progressed": 360,
       "Completed": 1
     }
   ],
@@ -918,8 +923,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-12-18T14:09:51.1181114+00:00",
+  "LastChanged_Achievements": "2023-12-18T15:09:39.9956733+00:00",
   "LastUpdate_AppInfo": "2023-12-16T13:57:07.0437312+00:00",
-  "LastUpdate_Ratings": "2023-12-18T13:58:31.4233449+00:00",
-  "LastUpdate_Achievements": "2023-12-18T14:09:51.1181552+00:00"
+  "LastUpdate_Ratings": "2023-12-18T14:58:31.5612487+00:00",
+  "LastUpdate_Achievements": "2023-12-18T15:09:39.9957102+00:00"
 }

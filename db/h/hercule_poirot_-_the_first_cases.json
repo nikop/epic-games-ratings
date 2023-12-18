@@ -6,9 +6,9 @@
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 332,
-  "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_Completed": 152,
+  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
     "PcReleaseDate": "2021-09-27T00:00:00+00:00",
@@ -732,9 +732,9 @@
       "ID": "ACH_015",
       "SetID": "72imik0",
       "Name": "Truth from Within",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 225
     },
     {
       "ID": "ACH_016",
@@ -1061,8 +1061,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-07-07T15:57:52.1284059+00:00",
-  "LastChanged_Achievements": "2023-12-18T14:05:54.7163993+00:00",
+  "LastChanged_Achievements": "2023-12-18T15:05:43.9504519+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:51.2766096+00:00",
-  "LastUpdate_Ratings": "2023-12-18T14:03:02.2187281+00:00",
-  "LastUpdate_Achievements": "2023-12-18T14:05:54.7164267+00:00"
+  "LastUpdate_Ratings": "2023-12-18T15:02:48.8993701+00:00",
+  "LastUpdate_Achievements": "2023-12-18T15:05:43.9504963+00:00"
 }

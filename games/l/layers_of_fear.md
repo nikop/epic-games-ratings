@@ -5,14 +5,14 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Something important | 81.00% | ~121 |
-| Wanderer | 60.00% | ~89 |
+| Wanderer | 61.00% | ~91 |
 | A piece of the story | 58.00% | ~86 |
 | It's covered up for a reason | 46.00% | ~69 |
 | Scraps of love | 43.00% | ~64 |
 | Do what you have to | 42.00% | ~63 |
 | The artist’s impression | 42.00% | ~63 |
 | Sign of weakness | 35.00% | ~52 |
-| Refuse to look | 32.00% | ~48 |
+| Refuse to look | 33.00% | ~49 |
 | Face your fears | 26.00% | ~39 |
 | Finished it | 26.00% | ~39 |
 | Whispers long forgotten | 13.00% | ~19 |
@@ -58,7 +58,7 @@
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 149 (Ranked 421)  
-Completed: 0 (0.00%) (Ranked 380)  
+Completed: 0 (0.00%) (Ranked 381)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

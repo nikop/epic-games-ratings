@@ -6,9 +6,9 @@
   "Ranking_Popularity": 483,
   "Ranking_PopularitySum": 389,
   "Ranking_EOS_Progress": 205,
-  "Ranking_EOS_Completed": 286,
+  "Ranking_EOS_Completed": 290,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -541,11 +541,11 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3998,
+  "EOS_Progressed": 4001,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 262,
+  "EOS_NewPlayers": 265,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.13,
+  "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:49.1218315+00:00",
@@ -6381,6 +6381,11 @@
       "Time": "2023-12-18T13:11:33.1971425+00:00",
       "NumProgressed": 3998,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-18T15:04:16.7930946+00:00",
+      "NumProgressed": 4001,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -6414,17 +6419,17 @@
       "ID": "ApexPredator_27",
       "SetID": "c4hee28",
       "Name": "Apex Predator",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 640
+      "UsersEstimate": 600
     },
     {
       "ID": "BloodAndJustice_50",
       "SetID": "c4hee28",
       "Name": "Blood and justice",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 200
     },
     {
       "ID": "CordonBleu_28",
@@ -6432,7 +6437,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1719
+      "UsersEstimate": 1720
     },
     {
       "ID": "CrowdPleaser",
@@ -6456,7 +6461,7 @@
       "Name": "Eureka",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1279
+      "UsersEstimate": 1280
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -6542,9 +6547,9 @@
       "ID": "MasterofAurai_20",
       "SetID": "c4hee28",
       "Name": "Master of Aurai",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 90,
-      "UsersEstimate": 16
+      "UsersEstimate": 12
     },
     {
       "ID": "MemoryOfALegend_51",
@@ -6576,7 +6581,7 @@
       "Name": "Ready for Summer",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 2039
+      "UsersEstimate": 2041
     },
     {
       "ID": "ReadyforWinter_42",
@@ -6584,7 +6589,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 2559
+      "UsersEstimate": 2561
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -6616,7 +6621,7 @@
       "Name": "Tapped!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1479
+      "UsersEstimate": 1480
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -6712,7 +6717,7 @@
       "Name": "Venture Outward",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2959
+      "UsersEstimate": 2961
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -6727,15 +6732,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3998,
+      "Progressed": 4001,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-18T14:04:27.8954943+00:00",
+  "LastChanged_Achievements": "2023-12-18T15:04:16.7930942+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:45.1407734+00:00",
-  "LastUpdate_Ratings": "2023-12-18T14:02:54.022941+00:00",
-  "LastUpdate_Achievements": "2023-12-18T14:04:27.8955891+00:00"
+  "LastUpdate_Ratings": "2023-12-18T15:02:40.6107023+00:00",
+  "LastUpdate_Achievements": "2023-12-18T15:04:16.7931482+00:00"
 }

@@ -6,16 +6,16 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 77.00% | ~5,720 |
-| Worker Specialization | 76.00% | ~5,646 |
-| First Contact | 72.00% | ~5,349 |
-| Win a Battle | 65.00% | ~4,829 |
+| Colonize a Planet | 77.00% | ~5,721 |
+| Worker Specialization | 76.00% | ~5,647 |
+| First Contact | 72.00% | ~5,350 |
+| Win a Battle | 65.00% | ~4,830 |
 | Anomaly Researcher | 61.00% | ~4,532 |
-| Unleash My Power | 60.00% | ~4,457 |
+| Unleash My Power | 60.00% | ~4,458 |
 | Own 30 Planets | 33.00% | ~2,452 |
 | Xenocide | 31.00% | ~2,303 |
 | Design a Civilization | 31.00% | ~2,303 |
-| Commodity Trader | 29.00% | ~2,154 |
+| Commodity Trader | 29.00% | ~2,155 |
 | Design a Ship | 27.00% | ~2,006 |
 | Commodity Seller | 24.00% | ~1,783 |
 | Prestige Victory! | 13.00% | ~966 |
@@ -79,8 +79,8 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,429 (Ranked 184)  
-Completed: 0 (0.00%) (Ranked 380)  
+Progressed: 7,430 (Ranked 184)  
+Completed: 0 (0.00%) (Ranked 381)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -320,6 +320,7 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-14 | 7,423 | 0 |
 | 2023-12-15 | 7,427 | 0 |
 | 2023-12-16 | 7,429 | 0 |
+| 2023-12-18 | 7,430 | 0 |
 ## Awards
 Max (Diverse Characters): 97  (Ranked 373)  
 Sum: 694 (Ranked 302)  

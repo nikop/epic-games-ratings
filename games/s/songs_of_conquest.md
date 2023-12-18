@@ -10,7 +10,7 @@ Number of Ratings: 292  (23.09.2022)
 | Double Kill | 32.00% | ~175 |
 | Critical Hit | 18.00% | ~99 |
 | Veteran | 17.00% | ~93 |
-| Dressed For Success | 11.00% | ~60 |
+| Dressed For Success | 12.00% | ~66 |
 | Humiliation | 8.00% | ~44 |
 | Multi Kill | 7.00% | ~38 |
 | Sorcerous Spree | 7.00% | ~38 |
@@ -62,7 +62,7 @@ Number of Ratings: 292  (23.09.2022)
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 548 (Ranked 324)  
-Completed: 0 (0.00%) (Ranked 380)  
+Completed: 0 (0.00%) (Ranked 381)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

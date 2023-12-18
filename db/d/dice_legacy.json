@@ -2,13 +2,13 @@
   "ID": "fc224bc11259446ab10c942201eb5926",
   "Name": "Dice Legacy",
   "ProductSlug": "dice-legacy",
-  "Ranking_Rating": 881,
+  "Ranking_Rating": 856,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
-  "Ranking_EOS_Progress": 260,
-  "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 280,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_Progress": 261,
+  "Ranking_EOS_Completed": 381,
+  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
     "PcReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.26,
+  "Rating": 4.29,
   "RatingHistory": [
     {
       "Time": "2023-01-10T11:57:19.8134476+00:00",
@@ -45,6 +45,12 @@
     {
       "Time": "2023-11-18T18:58:25.1922746+00:00",
       "Rating": 4.26,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-18T15:02:48.076888+00:00",
+      "Rating": 4.29,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -2461,9 +2467,9 @@
       "ID": "CHALLENGE_SCORTCHINGSUMMER",
       "SetID": "6ohhfoc",
       "Name": "Metropolis",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "CONTAINERS_FIVE_ONFIRE",
@@ -2485,9 +2491,9 @@
       "ID": "DICE_ALL_CORRUPTED",
       "SetID": "6ohhfoc",
       "Name": "It\u0027s spreading",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "DICE_TWELVE_FROZEN",
@@ -2645,9 +2651,9 @@
       "ID": "TRIPLE_WORKSHOP_PRODUCTION",
       "SetID": "6ohhfoc",
       "Name": "Knowledge is Power",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "UNLOCKALLACHIEVEMENTS",
@@ -2693,9 +2699,9 @@
       "ID": "WINMATCHWITH_MERCHANT",
       "SetID": "6ohhfoc",
       "Name": "The Foul",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "WINMATCHWITH_SAINT",
@@ -2765,9 +2771,9 @@
   "FirstSeen": "2022-07-22T20:22:02.0247279+00:00",
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
-  "LastChanged": "2023-11-18T18:58:25.1922744+00:00",
-  "LastChanged_Achievements": "2023-12-18T14:04:48.2672801+00:00",
+  "LastChanged": "2023-12-18T15:02:48.0768878+00:00",
+  "LastChanged_Achievements": "2023-12-18T15:04:36.9333546+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:49.3421858+00:00",
-  "LastUpdate_Ratings": "2023-12-18T14:03:01.4163858+00:00",
-  "LastUpdate_Achievements": "2023-12-18T14:04:48.2673147+00:00"
+  "LastUpdate_Ratings": "2023-12-18T15:02:48.0768883+00:00",
+  "LastUpdate_Achievements": "2023-12-18T15:04:36.933385+00:00"
 }

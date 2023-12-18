@@ -5,23 +5,23 @@ Rating: 4.04 (Ranked 1,007)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,273 |
-| World Map | 78.00% | ~2,745 |
-| Temple of Eternals | 56.00% | ~1,971 |
-| Prestigious | 53.00% | ~1,865 |
-| Fellowship Power | 42.00% | ~1,478 |
+| Victor | 93.00% | ~3,275 |
+| World Map | 78.00% | ~2,747 |
+| Temple of Eternals | 56.00% | ~1,972 |
+| Prestigious | 53.00% | ~1,867 |
+| Fellowship Power | 42.00% | ~1,479 |
 | Full Party | 24.00% | ~845 |
-| Guild Power | 23.00% | ~809 |
-| Prestigious x10 | 21.00% | ~739 |
-| The game is on | 18.00% | ~633 |
-| Dragon Clicker | 16.00% | ~563 |
-| Exotic Merchant | 16.00% | ~563 |
+| Guild Power | 23.00% | ~810 |
+| Prestigious x10 | 21.00% | ~740 |
+| The game is on | 18.00% | ~634 |
+| Dragon Clicker | 16.00% | ~564 |
+| Exotic Merchant | 16.00% | ~564 |
 | Miner Clicker | 15.00% | ~528 |
 | Hero inspection | 14.00% | ~493 |
 | Inspection | 14.00% | ~493 |
-| Dragon Master | 13.00% | ~457 |
-| Enlightenment | 13.00% | ~457 |
-| Lieutenant | 13.00% | ~457 |
+| Dragon Master | 13.00% | ~458 |
+| Enlightenment | 13.00% | ~458 |
+| Lieutenant | 13.00% | ~458 |
 | Milestone collector | 11.00% | ~387 |
 | Mysterious Rock | 11.00% | ~387 |
 | Natural Talent | 11.00% | ~387 |
@@ -38,11 +38,11 @@ Rating: 4.04 (Ranked 1,007)
 | Moving Up The Ladder | 8.00% | ~282 |
 | Relic Of The Past | 8.00% | ~282 |
 | Scroll Master | 8.00% | ~282 |
-| Four Leaf Clover | 7.00% | ~246 |
-| Here We Go Again | 7.00% | ~246 |
-| Master Enchanter | 7.00% | ~246 |
-| The father of Dragons | 7.00% | ~246 |
-| Trader | 7.00% | ~246 |
+| Four Leaf Clover | 7.00% | ~247 |
+| Here We Go Again | 7.00% | ~247 |
+| Master Enchanter | 7.00% | ~247 |
+| The father of Dragons | 7.00% | ~247 |
+| Trader | 7.00% | ~247 |
 | Crystal Mining | 6.00% | ~211 |
 | Dragon Slayer | 6.00% | ~211 |
 | Enchanting skill | 6.00% | ~211 |
@@ -81,8 +81,8 @@ Rating: 4.04 (Ranked 1,007)
 | Jewel Enchanting | 0.20% | ~7 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,519 (Ranked 212)  
-Completed: 2 (0.06%) (Ranked 321)  
+Progressed: 3,522 (Ranked 212)  
+Completed: 2 (0.06%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -318,7 +318,7 @@ Completed: 2 (0.06%) (Ranked 321)
 | 2023-12-15 | 3,437 | 2 |
 | 2023-12-16 | 3,473 | 2 |
 | 2023-12-17 | 3,503 | 2 |
-| 2023-12-18 | 3,519 | 2 |
+| 2023-12-18 | 3,522 | 2 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 471)  
 Sum: 145 (Ranked 432)  

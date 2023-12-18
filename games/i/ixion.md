@@ -12,7 +12,7 @@ Rating: 4.58 (Ranked 455)
 | A Thousand Strong | 18.00% | ~640 |
 | Ready for a New World | 18.00% | ~640 |
 | Space Society | 17.00% | ~605 |
-| Permanent Redesigns | 15.00% | ~533 |
+| Permanent Redesigns | 15.00% | ~534 |
 | Fully Recycled | 14.00% | ~498 |
 | Ain't Nobody Got Time for That | 14.00% | ~498 |
 | The Ship of Theseus | 14.00% | ~498 |
@@ -22,9 +22,9 @@ Rating: 4.58 (Ranked 455)
 | Hope Seeker | 12.00% | ~427 |
 | A Hunk of Junk | 11.00% | ~391 |
 | Man's Best Friend | 9.00% | ~320 |
-| Power Outage | 8.00% | ~284 |
-| Convenient Transport | 8.00% | ~284 |
-| Please Make it Stop! | 8.00% | ~284 |
+| Power Outage | 8.00% | ~285 |
+| Convenient Transport | 8.00% | ~285 |
+| Please Make it Stop! | 8.00% | ~285 |
 | Sightseeing | 7.00% | ~249 |
 | Necessary Enhancement | 7.00% | ~249 |
 | From the Past | 7.00% | ~249 |
@@ -63,8 +63,8 @@ Rating: 4.58 (Ranked 455)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,556 (Ranked 211)  
-Completed: 0 (0.00%) (Ranked 380)  
+Progressed: 3,557 (Ranked 211)  
+Completed: 0 (0.00%) (Ranked 381)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -295,7 +295,7 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-15 | 3,496 | 0 |
 | 2023-12-16 | 3,519 | 0 |
 | 2023-12-17 | 3,550 | 0 |
-| 2023-12-18 | 3,556 | 0 |
+| 2023-12-18 | 3,557 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

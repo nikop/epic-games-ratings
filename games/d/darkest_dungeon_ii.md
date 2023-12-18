@@ -6,8 +6,8 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 8.00% | ~253 |
-| Lost and Found | 5.00% | ~158 |
+| Malpractice Assurance | 8.00% | ~254 |
+| Lost and Found | 5.00% | ~159 |
 | This guy... again? | 4.00% | ~127 |
 | This Belongs in a Museum | 3.00% | ~3,849 |
 | Creep and Sleep | 3.00% | ~3,849 |
@@ -31,7 +31,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 2.00% | ~2,566 |
 | FNG | 2.00% | ~2,566 |
 | Nope | 2.00% | ~2,566 |
-| Friends 'Til the End | 2.00% | ~63 |
+| Friends 'Til the End | 2.00% | ~64 |
 | Resurrection | 1.00% | ~1,283 |
 | Unleash Hell | 1.00% | ~1,283 |
 | Funny Guy | 1.00% | ~1,283 |
@@ -61,9 +61,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | Eyes Up | 0.70% | ~898 |
 | Slap on the Wrist | 0.70% | ~22 |
 | For Old Time' Sake | 0.60% | ~19 |
-| Shrine of Reflection | 0.50% | ~641 |
-| Handled | 0.50% | ~641 |
-| Body of Work | 0.50% | ~641 |
+| Shrine of Reflection | 0.50% | ~642 |
+| Handled | 0.50% | ~642 |
+| Body of Work | 0.50% | ~642 |
 | Et Tu, Riposte? | 0.50% | ~16 |
 | Clearing the Ledger | 0.40% | ~513 |
 | Bacon Bits | 0.30% | ~385 |
@@ -86,8 +86,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~128 |
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,298 (Ranked 85)  
-Completed: 3 (0.00%) (Ranked 380)  
+Progressed: 128,306 (Ranked 85)  
+Completed: 3 (0.00%) (Ranked 381)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -318,7 +318,7 @@ Completed: 3 (0.00%) (Ranked 380)
 | 2023-12-15 | 127,439 | 3 |
 | 2023-12-16 | 127,826 | 3 |
 | 2023-12-17 | 128,143 | 3 |
-| 2023-12-18 | 128,298 | 3 |
+| 2023-12-18 | 128,306 | 3 |
 ## Awards
 Max (Character Customization): 7,784  (Ranked 50)  
 Sum: 20,737 (Ranked 58)  

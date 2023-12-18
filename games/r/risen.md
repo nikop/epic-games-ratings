@@ -18,10 +18,10 @@ Rating: 4.60 (Ranked 422)
 | Ladies' man | 38.00% | ~36 |
 | Ferocious wild boars | 30.00% | ~28 |
 | Idiot | 27.00% | ~25 |
-| Beast slayer | 24.00% | ~23 |
+| Beast slayer | 26.00% | ~24 |
+| Archaeologist | 23.00% | ~22 |
 | Family man | 22.00% | ~21 |
 | Death of a legend | 22.00% | ~21 |
-| Archaeologist | 22.00% | ~21 |
 | The fourth triplet | 22.00% | ~21 |
 | Wise man | 21.00% | ~20 |
 | Ogre friend | 21.00% | ~20 |
@@ -57,7 +57,7 @@ Rating: 4.60 (Ranked 422)
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 94 (Ranked 466)  
-Completed: 0 (0.00%) (Ranked 380)  
+Completed: 0 (0.00%) (Ranked 381)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

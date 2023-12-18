@@ -18,8 +18,8 @@ Number of Ratings: 743  (23.09.2022)
 | Stand back boy! | 47.00% | ~20,758 |
 | Chain reaction | 45.00% | ~19,874 |
 | Weird science | 44.00% | ~19,433 |
+| Look mummy! A shark! | 42.00% | ~18,549 |
 | What did you say, Blain? | 42.00% | ~18,549 |
-| Look mummy! A shark! | 41.00% | ~18,108 |
 | In the dark dark woods... | 39.00% | ~17,224 |
 | Come and get it! It's a running buffet! | 38.00% | ~16,783 |
 | Double tap | 37.00% | ~16,341 |
@@ -74,7 +74,7 @@ Number of Ratings: 743  (23.09.2022)
 | None more hard | 0.60% | ~265 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 44,165 (Ranked 121)  
-Completed: 25 (0.06%) (Ranked 321)  
+Completed: 25 (0.06%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

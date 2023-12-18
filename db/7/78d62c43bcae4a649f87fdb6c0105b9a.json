@@ -2,10 +2,10 @@
   "ID": "78d62c43bcae4a649f87fdb6c0105b9a",
   "Name": "Enchanted Portals",
   "ProductSlug": "enchanted-portals-65ca68",
-  "Ranking_EOS_Progress": 532,
-  "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 500,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_Progress": 533,
+  "Ranking_EOS_Completed": 381,
+  "Ranking_EOS_NewPlayers": 548,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-26T11:00:00+00:00",
     "PcReleaseDate": "2023-09-26T11:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 43,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -437,8 +437,8 @@
   ],
   "FirstSeen": "2023-09-28T10:00:15.1472211+00:00",
   "FirstSeenAchievements": "2023-09-13T08:04:00.4811231+00:00",
-  "LastChanged_Achievements": "2023-12-18T14:08:46.7711082+00:00",
+  "LastChanged_Achievements": "2023-12-18T15:08:35.8806167+00:00",
   "LastUpdate_AppInfo": "2023-12-18T02:20:39.0490562+00:00",
-  "LastUpdate_Ratings": "2023-12-18T14:03:00.9059449+00:00",
-  "LastUpdate_Achievements": "2023-12-18T14:08:46.7711312+00:00"
+  "LastUpdate_Ratings": "2023-12-18T15:02:47.712804+00:00",
+  "LastUpdate_Achievements": "2023-12-18T15:08:35.880626+00:00"
 }

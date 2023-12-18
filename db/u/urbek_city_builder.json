@@ -2,10 +2,10 @@
   "ID": "5d2e14c5f6ac427b8a8466508cf81f6d",
   "Name": "Urbek City Builder",
   "ProductSlug": "urbek-city-builder-17cf7d",
-  "Ranking_EOS_Progress": 337,
-  "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_Progress": 338,
+  "Ranking_EOS_Completed": 381,
+  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -2135,8 +2135,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-12-18T14:09:50.9994737+00:00",
+  "LastChanged_Achievements": "2023-12-18T15:09:40.0906021+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:36.321847+00:00",
-  "LastUpdate_Ratings": "2023-12-18T13:59:01.8399778+00:00",
-  "LastUpdate_Achievements": "2023-12-18T14:09:50.9995518+00:00"
+  "LastUpdate_Ratings": "2023-12-18T14:59:01.8516739+00:00",
+  "LastUpdate_Achievements": "2023-12-18T15:09:40.0906631+00:00"
 }

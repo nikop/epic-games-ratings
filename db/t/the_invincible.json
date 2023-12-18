@@ -3,9 +3,9 @@
   "Name": "The Invincible",
   "ProductSlug": "the-invincible",
   "Ranking_EOS_Progress": 292,
-  "Ranking_EOS_Completed": 380,
+  "Ranking_EOS_Completed": 381,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -2119,9 +2119,9 @@
       "ID": "AchvDiscoverAlliance",
       "SetID": "1hj060c",
       "Name": "The Alliance",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 241
     },
     {
       "ID": "AchvDoom",
@@ -2294,8 +2294,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-18T14:09:10.6946448+00:00",
+  "LastChanged_Achievements": "2023-12-18T15:09:00.1840952+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.232501+00:00",
-  "LastUpdate_Ratings": "2023-12-18T13:57:29.2545722+00:00",
-  "LastUpdate_Achievements": "2023-12-18T14:09:10.6946724+00:00"
+  "LastUpdate_Ratings": "2023-12-18T14:57:30.431367+00:00",
+  "LastUpdate_Achievements": "2023-12-18T15:09:00.1841185+00:00"
 }

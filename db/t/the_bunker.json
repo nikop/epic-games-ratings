@@ -3,9 +3,9 @@
   "Name": "The Bunker",
   "ProductSlug": "the-bunker-03b712",
   "Ranking_EOS_Progress": 417,
-  "Ranking_EOS_Completed": 93,
-  "Ranking_EOS_NewPlayers": 446,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_Completed": 83,
+  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2016-09-20T17:00:00+00:00",
@@ -31,10 +31,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 154,
-  "EOS_Completed": 6,
+  "EOS_Completed": 7,
   "EOS_NewPlayers": 3,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.9,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 4.55,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:47.0734478+00:00",
@@ -375,6 +375,11 @@
       "Time": "2023-12-17T17:05:17.3772412+00:00",
       "NumProgressed": 154,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-18T15:04:46.3380952+00:00",
+      "NumProgressed": 154,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 28,
@@ -416,9 +421,9 @@
       "ID": "ALL_PEGS",
       "SetID": "bho0i1h",
       "Name": "Friends",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "CHAPTER_02_COMPLETE",
@@ -576,9 +581,9 @@
       "ID": "PEG_NURSE",
       "SetID": "bho0i1h",
       "Name": "Nurse",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "PEG_SAM",
@@ -600,9 +605,9 @@
       "ID": "STAY",
       "SetID": "bho0i1h",
       "Name": "Stay",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     }
   ],
   "AchievementSets": [
@@ -610,15 +615,15 @@
       "ID": "bho0i1h",
       "IsBase": true,
       "Progressed": 154,
-      "Completed": 6
+      "Completed": 7
     }
   ],
   "FirstSeen": "2022-10-22T08:32:43.2662089+00:00",
   "FirstSeenRating": "2023-03-31T05:58:47.332275+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:47.0734489+00:00",
   "LastChanged": "2023-03-31T05:58:47.3322751+00:00",
-  "LastChanged_Achievements": "2023-12-18T14:04:57.7496614+00:00",
+  "LastChanged_Achievements": "2023-12-18T15:04:46.3380946+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:55.4022304+00:00",
-  "LastUpdate_Ratings": "2023-12-18T13:59:39.0381694+00:00",
-  "LastUpdate_Achievements": "2023-12-18T14:04:57.7496772+00:00"
+  "LastUpdate_Ratings": "2023-12-18T14:59:38.8482051+00:00",
+  "LastUpdate_Achievements": "2023-12-18T15:04:46.3381154+00:00"
 }

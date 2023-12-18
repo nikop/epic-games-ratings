@@ -3,9 +3,9 @@
   "Name": "HOT WHEELS UNLEASHED\u2122 2 - Turbocharged",
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 250,
-  "Ranking_EOS_Completed": 314,
+  "Ranking_EOS_Completed": 315,
   "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1416,
+  "EOS_Progressed": 1417,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3357,6 +3357,11 @@
       "Time": "2023-12-18T12:07:06.2223877+00:00",
       "NumProgressed": 1416,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-18T15:05:44.3873071+00:00",
+      "NumProgressed": 1417,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -3367,9 +3372,9 @@
       "ID": "ML_ACHIEVEMENT_01",
       "SetID": "5k00jcd",
       "Name": "Rookie",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 99
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -3377,7 +3382,7 @@
       "Name": "Acrobat",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -3385,7 +3390,7 @@
       "Name": "Out of control",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -3417,7 +3422,7 @@
       "Name": "Globetrotter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -3609,7 +3614,7 @@
       "Name": "Shopping time!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -3633,7 +3638,7 @@
       "Name": "Beyond the limit",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -3681,7 +3686,7 @@
       "Name": "A little nest egg",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ML_ACHIEVEMENT_41",
@@ -3736,20 +3741,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1416,
+      "Progressed": 1417,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1084,
+      "Progressed": 1085,
       "Completed": 997
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-18T14:05:55.1588039+00:00",
+  "LastChanged_Achievements": "2023-12-18T15:05:44.3873069+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:11.7320397+00:00",
-  "LastUpdate_Ratings": "2023-12-18T13:59:11.4931021+00:00",
-  "LastUpdate_Achievements": "2023-12-18T14:05:55.1588414+00:00"
+  "LastUpdate_Ratings": "2023-12-18T14:59:11.4379367+00:00",
+  "LastUpdate_Achievements": "2023-12-18T15:05:44.3873425+00:00"
 }

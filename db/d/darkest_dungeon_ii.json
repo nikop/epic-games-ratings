@@ -6,9 +6,9 @@
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 85,
-  "Ranking_EOS_Completed": 380,
+  "Ranking_EOS_Completed": 381,
   "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9876,9 +9876,9 @@
       "Count": 1026
     }
   ],
-  "EOS_Progressed": 128298,
+  "EOS_Progressed": 128306,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2170,
+  "EOS_NewPlayers": 2172,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35656,6 +35656,11 @@
       "Time": "2023-12-18T14:09:00.1438026+00:00",
       "NumProgressed": 128298,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-18T15:08:49.1890992+00:00",
+      "NumProgressed": 128306,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36027,7 +36032,7 @@
       "Name": "Shrine of Reflection",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "hero_story_complete_any",
@@ -36147,7 +36152,7 @@
       "Name": "Handled",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "run_victory_act05",
@@ -36155,7 +36160,7 @@
       "Name": "Body of Work",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "run_victory_all_confessions_back_to_back",
@@ -36203,7 +36208,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "combat_kill_collector",
@@ -36267,7 +36272,7 @@
       "Name": "Lost and Found",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -36275,7 +36280,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -36298,21 +36303,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 128298,
+      "Progressed": 128306,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 3167,
+      "Progressed": 3175,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-18T11:58:57.5808577+00:00",
-  "LastChanged_Achievements": "2023-12-18T14:09:00.1438021+00:00",
+  "LastChanged_Achievements": "2023-12-18T15:08:49.1890989+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-18T13:58:20.6724913+00:00",
-  "LastUpdate_Achievements": "2023-12-18T14:09:00.1439496+00:00"
+  "LastUpdate_Ratings": "2023-12-18T14:58:21.1958628+00:00",
+  "LastUpdate_Achievements": "2023-12-18T15:08:49.1892595+00:00"
 }

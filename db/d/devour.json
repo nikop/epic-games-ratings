@@ -3,9 +3,9 @@
   "Name": "DEVOUR",
   "ProductSlug": "devour-d62a36",
   "Ranking_EOS_Progress": 808,
-  "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 549,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_Completed": 381,
+  "Ranking_EOS_NewPlayers": 548,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
     "PcReleaseDate": "2021-01-29T00:00:00+00:00",
@@ -32,6 +32,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-17T01:49:18.2560554+00:00",
-  "LastUpdate_Ratings": "2023-12-18T14:02:35.8470739+00:00",
-  "LastUpdate_Achievements": "2023-12-18T14:05:38.6550016+00:00"
+  "LastUpdate_Ratings": "2023-12-18T15:00:23.1784641+00:00",
+  "LastUpdate_Achievements": "2023-12-18T15:05:27.7081053+00:00"
 }

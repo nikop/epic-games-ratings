@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 461,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -555,9 +555,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5825,
+  "EOS_Progressed": 5828,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 239,
+  "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8385,6 +8385,11 @@
       "Time": "2023-12-18T13:11:20.2593571+00:00",
       "NumProgressed": 5825,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-18T15:04:07.6316439+00:00",
+      "NumProgressed": 5828,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -8444,7 +8449,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "16",
@@ -8484,7 +8489,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "20",
@@ -8548,7 +8553,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "28",
@@ -8596,7 +8601,7 @@
       "Name": "My Final Form",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "33",
@@ -8628,15 +8633,15 @@
       "Name": "Fiery Friend",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "37",
       "SetID": "3aa2279",
       "Name": "Against the Odds",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 52
     },
     {
       "ID": "38",
@@ -8652,7 +8657,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "4",
@@ -8668,7 +8673,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "41",
@@ -8748,7 +8753,7 @@
       "Name": "Here be Dragons",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "46",
@@ -8756,7 +8761,7 @@
       "Name": "Tipping the Scales",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "47",
@@ -8780,7 +8785,7 @@
       "Name": "Mighty Hoard",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "50",
@@ -8796,7 +8801,7 @@
       "Name": "Freed Lands of Manuhari",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "52",
@@ -8804,7 +8809,7 @@
       "Name": "Sehiran Oasis",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "53",
@@ -8820,7 +8825,7 @@
       "Name": "Chaos Surge",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "55",
@@ -8844,7 +8849,7 @@
       "Name": "Spoils of War",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "58",
@@ -8875,13 +8880,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5825,
+      "Progressed": 5828,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5825,
+      "Progressed": 5828,
       "Completed": 7
     }
   ],
@@ -8889,8 +8894,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-14T06:01:52.3312422+00:00",
-  "LastChanged_Achievements": "2023-12-18T14:04:18.5092625+00:00",
+  "LastChanged_Achievements": "2023-12-18T15:04:07.6316435+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.6868317+00:00",
-  "LastUpdate_Ratings": "2023-12-18T13:58:53.1608241+00:00",
-  "LastUpdate_Achievements": "2023-12-18T14:04:18.5093385+00:00"
+  "LastUpdate_Ratings": "2023-12-18T14:58:52.7980853+00:00",
+  "LastUpdate_Achievements": "2023-12-18T15:04:07.6317091+00:00"
 }

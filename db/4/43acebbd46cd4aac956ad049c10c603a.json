@@ -6,9 +6,9 @@
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 273,
-  "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_Completed": 299,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -222,7 +222,7 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 1042,
+  "EOS_Progressed": 1043,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
@@ -2677,6 +2677,11 @@
       "Time": "2023-12-18T11:04:59.2172498+00:00",
       "NumProgressed": 1042,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-18T15:03:54.7476908+00:00",
+      "NumProgressed": 1043,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2697,7 +2702,7 @@
       "Name": "Ab Initio",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "AnthropicHills",
@@ -2935,9 +2940,9 @@
       "ID": "NotWhatItSeems",
       "SetID": "1n308hc",
       "Name": "Not What It Seems",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 83
     },
     {
       "ID": "Overload",
@@ -3049,7 +3054,7 @@
       "Name": "The All-Gifted",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "TheEdgeOfForever",
@@ -3097,7 +3102,7 @@
       "Name": "The Word Endures",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "TouchGrass",
@@ -3160,7 +3165,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1042,
+      "Progressed": 1043,
       "Completed": 1
     }
   ],
@@ -3168,8 +3173,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-18T14:04:05.7925534+00:00",
+  "LastChanged_Achievements": "2023-12-18T15:03:54.7476906+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-18T13:58:31.760946+00:00",
-  "LastUpdate_Achievements": "2023-12-18T14:04:05.7926067+00:00"
+  "LastUpdate_Ratings": "2023-12-18T14:58:31.9298324+00:00",
+  "LastUpdate_Achievements": "2023-12-18T15:03:54.7477327+00:00"
 }

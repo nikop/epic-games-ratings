@@ -2,11 +2,11 @@
   "ID": "f3720f53cccb4a20841a392a8ea0457f",
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
-  "Ranking_Rating": 672,
+  "Ranking_Rating": 671,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 136,
-  "Ranking_EOS_Completed": 137,
+  "Ranking_EOS_Completed": 138,
   "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
@@ -419,9 +419,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 26520,
+  "EOS_Progressed": 26522,
   "EOS_Completed": 495,
-  "EOS_NewPlayers": 509,
+  "EOS_NewPlayers": 508,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.87,
   "EosHistory": [
@@ -26454,6 +26454,11 @@
       "Time": "2023-12-18T14:06:06.4949959+00:00",
       "NumProgressed": 26520,
       "NumCompleted": 495
+    },
+    {
+      "Time": "2023-12-18T15:05:55.3460053+00:00",
+      "NumProgressed": 26522,
+      "NumCompleted": 495
     }
   ],
   "TotalAchievements": 20,
@@ -26465,7 +26470,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 4508
+      "UsersEstimate": 4509
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -26513,7 +26518,7 @@
       "Name": "An uninvited guest",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1856
+      "UsersEstimate": 1857
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -26521,7 +26526,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3182
+      "UsersEstimate": 3183
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -26577,7 +26582,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3182
+      "UsersEstimate": 3183
     },
     {
       "ID": "INTRO_FINISHED",
@@ -26585,7 +26590,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 20155
+      "UsersEstimate": 20157
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -26593,7 +26598,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7160
+      "UsersEstimate": 7161
     },
     {
       "ID": "NORTH_FINISHED",
@@ -26624,15 +26629,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 26520,
+      "Progressed": 26522,
       "Completed": 495
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-12-18T14:06:06.4949955+00:00",
+  "LastChanged_Achievements": "2023-12-18T15:05:55.3460051+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:01.7195881+00:00",
-  "LastUpdate_Ratings": "2023-12-18T13:59:51.7300635+00:00",
-  "LastUpdate_Achievements": "2023-12-18T14:06:06.4951326+00:00"
+  "LastUpdate_Ratings": "2023-12-18T14:59:51.5987544+00:00",
+  "LastUpdate_Achievements": "2023-12-18T15:05:55.3461064+00:00"
 }

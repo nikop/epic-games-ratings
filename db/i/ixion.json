@@ -6,9 +6,9 @@
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 211,
-  "Ranking_EOS_Completed": 380,
+  "Ranking_EOS_Completed": 381,
   "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -311,9 +311,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3556,
+  "EOS_Progressed": 3557,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6611,6 +6611,11 @@
       "Time": "2023-12-18T14:06:06.1615784+00:00",
       "NumProgressed": 3556,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T15:05:55.0023034+00:00",
+      "NumProgressed": 3557,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -6798,7 +6803,7 @@
       "Name": "Power Outage",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "ACH_BASE_32",
@@ -6918,7 +6923,7 @@
       "Name": "Permanent Redesigns",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "ACH_BASE_49",
@@ -6950,7 +6955,7 @@
       "Name": "Convenient Transport",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "ACH_BASE_52",
@@ -6974,7 +6979,7 @@
       "Name": "Please Make it Stop!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "ACH_BASE_57",
@@ -7077,13 +7082,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1740,
+      "Progressed": 1741,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3556,
+      "Progressed": 3557,
       "Completed": 0
     }
   ],
@@ -7091,8 +7096,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-10T20:59:24.4447628+00:00",
-  "LastChanged_Achievements": "2023-12-18T14:06:06.161578+00:00",
+  "LastChanged_Achievements": "2023-12-18T15:05:55.002303+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.6786359+00:00",
-  "LastUpdate_Ratings": "2023-12-18T13:59:04.677617+00:00",
-  "LastUpdate_Achievements": "2023-12-18T14:06:06.1616387+00:00"
+  "LastUpdate_Ratings": "2023-12-18T14:59:04.757993+00:00",
+  "LastUpdate_Achievements": "2023-12-18T15:05:55.0023769+00:00"
 }

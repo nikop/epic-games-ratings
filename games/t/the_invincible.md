@@ -9,8 +9,8 @@
 | The City | 46.00% | ~347 |
 | The field base | 41.00% | ~309 |
 | Survivors | 35.00% | ~264 |
+| The Alliance | 32.00% | ~241 |
 | The Condor | 32.00% | ~241 |
-| The Alliance | 31.00% | ~234 |
 | The End | 31.00% | ~234 |
 | The Necroevolution | 26.00% | ~196 |
 | Krauta is alive | 25.00% | ~188 |
@@ -35,7 +35,7 @@
 | No more mistakes | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 754 (Ranked 292)  
-Completed: 0 (0.00%) (Ranked 380)  
+Completed: 0 (0.00%) (Ranked 381)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

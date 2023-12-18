@@ -6,9 +6,9 @@
   "Ranking_Popularity": 520,
   "Ranking_PopularitySum": 412,
   "Ranking_EOS_Progress": 324,
-  "Ranking_EOS_Completed": 380,
+  "Ranking_EOS_Completed": 381,
   "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -2267,9 +2267,9 @@
       "ID": "ArtifactsEquipped",
       "SetID": "71c0n9i",
       "Name": "Dressed For Success",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 66
     },
     {
       "ID": "AttackCount",
@@ -2683,8 +2683,8 @@
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-18T14:08:26.8089032+00:00",
+  "LastChanged_Achievements": "2023-12-18T15:08:14.2772417+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:10.4027668+00:00",
-  "LastUpdate_Ratings": "2023-12-18T14:02:38.6817553+00:00",
-  "LastUpdate_Achievements": "2023-12-18T14:08:26.8089408+00:00"
+  "LastUpdate_Ratings": "2023-12-18T15:00:27.2810146+00:00",
+  "LastUpdate_Achievements": "2023-12-18T15:08:14.2772907+00:00"
 }

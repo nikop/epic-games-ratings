@@ -1,7 +1,7 @@
 # Dice Legacy
 [Store](https://store.epicgames.com/en-US/p/dice-legacy)  
 [View Rawdata](../../db/d/dice_legacy.json)  
-Rating: 4.26 (Ranked 881)  
+Rating: 4.29 (Ranked 856)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -28,21 +28,21 @@ Rating: 4.26 (Ranked 881)
 | The Council | 1.00% | ~12 |
 | The Mad | 1.00% | ~12 |
 | Like the dream | 1.00% | ~12 |
-| Metropolis | 0.80% | ~10 |
+| Metropolis | 0.90% | ~11 |
 | Charismatic Leader | 0.70% | ~9 |
+| Knowledge is Power | 0.70% | ~9 |
 | The Great Winter | 0.60% | ~7 |
 | Red Tape | 0.60% | ~7 |
-| Knowledge is Power | 0.60% | ~7 |
 | Six Faces | 0.50% | ~6 |
+| It's spreading | 0.30% | ~4 |
 | Ice and Fire | 0.20% | ~2 |
 | Mad Engineers | 0.20% | ~2 |
 | Aesthetics | 0.20% | ~2 |
-| It's spreading | 0.20% | ~2 |
 | The Flail | 0.20% | ~2 |
 | The Corrupted | 0.20% | ~2 |
+| The Foul | 0.20% | ~2 |
 | The Incarnate | 0.20% | ~2 |
 | The experiment | 0.10% | ~1 |
-| The Foul | 0.10% | ~1 |
 | Break the chains | 0.00% | ~0 |
 | Purist | 0.00% | ~0 |
 | Discover the truth | 0.00% | ~0 |
@@ -51,8 +51,8 @@ Rating: 4.26 (Ranked 881)
 | Fate is against us | 0.00% | ~0 |
 | Despite everything | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,223 (Ranked 260)  
-Completed: 0 (0.00%) (Ranked 380)  
+Progressed: 1,223 (Ranked 261)  
+Completed: 0 (0.00%) (Ranked 381)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -254,3 +254,4 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-03-31 | 4.29 | 0 | 0 |
 | 2023-06-02 | 4.27 | 0 | 0 |
 | 2023-11-18 | 4.26 | 0 | 0 |
+| 2023-12-18 | 4.29 | 0 | 0 |

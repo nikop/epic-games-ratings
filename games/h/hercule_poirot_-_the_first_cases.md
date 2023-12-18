@@ -17,7 +17,7 @@ Rating: 4.35 (Ranked 800)
 | Florette Duval | 54.00% | ~248 |
 | Order and Method | 52.00% | ~239 |
 | The Altercation | 50.00% | ~230 |
-| Truth from Within | 48.00% | ~220 |
+| Truth from Within | 49.00% | ~225 |
 | The Major | 47.00% | ~216 |
 | Comtesse Margaux de Vos | 45.00% | ~207 |
 | Curious and Beautiful | 44.00% | ~202 |
@@ -53,7 +53,7 @@ Rating: 4.35 (Ranked 800)
 | Work-life Balance | 3.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 459 (Ranked 332)  
-Completed: 6 (1.31%) (Ranked 151)  
+Completed: 6 (1.31%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

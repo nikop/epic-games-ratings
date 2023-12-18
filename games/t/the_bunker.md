@@ -27,14 +27,14 @@
 | General | 28.00% | ~43 |
 | Bookworm | 26.00% | ~40 |
 | Floppy Disk Finder | 15.00% | ~23 |
-| Stay | 13.00% | ~20 |
-| Nurse | 10.00% | ~15 |
+| Stay | 14.00% | ~22 |
+| Nurse | 11.00% | ~17 |
 | No Page Unturned | 6.00% | ~9 |
+| Friends | 6.00% | ~9 |
 | The Missing Piece | 6.00% | ~9 |
-| Friends | 5.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 154 (Ranked 417)  
-Completed: 6 (3.90%) (Ranked 93)  
+Completed: 7 (4.55%) (Ranked 83)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -88,6 +88,7 @@ Completed: 6 (3.90%) (Ranked 93)
 | 2023-12-14 | 151 | 6 |
 | 2023-12-16 | 152 | 6 |
 | 2023-12-17 | 154 | 6 |
+| 2023-12-18 | 154 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

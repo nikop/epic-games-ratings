@@ -25,9 +25,9 @@ Rating: 4.55 (Ranked 512)
 | And everything comes full circle. | 20.00% | ~99 |
 | Masseltov | 19.00% | ~94 |
 | Quickdraw | 16.00% | ~79 |
+| Heading the inverter | 15.00% | ~74 |
 | Thuna...? | 14.00% | ~69 |
 | Monstrous Harassment | 14.00% | ~69 |
-| Heading the inverter | 14.00% | ~69 |
 | Blast from the Past | 12.00% | ~59 |
 | Play it again, Ronny | 11.00% | ~54 |
 | Paradox! | 11.00% | ~54 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 512)
 | 1001 Jackalopes | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 493 (Ranked 328)  
-Completed: 7 (1.42%) (Ranked 148)  
+Completed: 7 (1.42%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
