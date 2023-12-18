@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 117090,
+  "EOS_Progressed": 117093,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 666,
+  "EOS_NewPlayers": 668,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -21744,6 +21744,11 @@
       "Time": "2023-12-18T20:09:41.3498414+00:00",
       "NumProgressed": 117090,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-12-18T21:10:07.6108222+00:00",
+      "NumProgressed": 117093,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 49,
@@ -21763,7 +21768,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 90159
+      "UsersEstimate": 90162
     },
     {
       "ID": "EAwards_10",
@@ -21779,7 +21784,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 30443
+      "UsersEstimate": 30444
     },
     {
       "ID": "EAwards_12",
@@ -21819,7 +21824,7 @@
       "Name": "PERFECT",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 8196
+      "UsersEstimate": 8197
     },
     {
       "ID": "EAwards_17",
@@ -21827,7 +21832,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 43323
+      "UsersEstimate": 43324
     },
     {
       "ID": "EAwards_18",
@@ -21843,7 +21848,7 @@
       "Name": "One Born Every Minute",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7025
+      "UsersEstimate": 7026
     },
     {
       "ID": "EAwards_2",
@@ -21851,7 +21856,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 57374
+      "UsersEstimate": 57376
     },
     {
       "ID": "EAwards_20",
@@ -21867,7 +21872,7 @@
       "Name": "Special Delivery!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 8196
+      "UsersEstimate": 8197
     },
     {
       "ID": "EAwards_22",
@@ -21875,7 +21880,7 @@
       "Name": "Combo Machine",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7025
+      "UsersEstimate": 7026
     },
     {
       "ID": "EAwards_23",
@@ -21891,7 +21896,7 @@
       "Name": "Temple Raider",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 8196
+      "UsersEstimate": 8197
     },
     {
       "ID": "EAwards_25",
@@ -21899,7 +21904,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 22247
+      "UsersEstimate": 22248
     },
     {
       "ID": "EAwards_26",
@@ -21939,7 +21944,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 23418
+      "UsersEstimate": 23419
     },
     {
       "ID": "EAwards_30",
@@ -21963,7 +21968,7 @@
       "Name": "El T\u00E9cnico T\u00E1ctico",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 8196
+      "UsersEstimate": 8197
     },
     {
       "ID": "EAwards_33",
@@ -22146,7 +22151,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 117090,
+      "Progressed": 117093,
       "Completed": 53
     }
   ],
@@ -22154,8 +22159,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-12-18T20:09:41.3498411+00:00",
+  "LastChanged_Achievements": "2023-12-18T21:10:07.6108217+00:00",
   "LastUpdate_AppInfo": "2023-12-15T07:57:07.3909986+00:00",
-  "LastUpdate_Ratings": "2023-12-18T19:58:06.6177374+00:00",
-  "LastUpdate_Achievements": "2023-12-18T20:09:41.3499731+00:00"
+  "LastUpdate_Ratings": "2023-12-18T20:58:37.9412043+00:00",
+  "LastUpdate_Achievements": "2023-12-18T21:10:07.6110064+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "c1edd23d035a4df0bbc419f2d0fbb40d",
   "Name": "Scrapnaut",
   "ProductSlug": "scrapnaut",
-  "Ranking_Rating": 856,
+  "Ranking_Rating": 855,
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewPlayers": 284,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -156,9 +156,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 526,
+  "EOS_Progressed": 527,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -1776,6 +1776,11 @@
       "Time": "2023-12-18T20:08:59.0377068+00:00",
       "NumProgressed": 526,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-18T21:09:12.3612981+00:00",
+      "NumProgressed": 527,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 31,
@@ -1787,7 +1792,7 @@
       "Name": "Digger",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ACH_ALL_TELEPORTS",
@@ -1825,9 +1830,9 @@
       "ID": "ACH_COLLECT_10_HERBS",
       "SetID": "7c4cldc",
       "Name": "Herbalist",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_COLLECT_10_MUSHROOMS",
@@ -1867,7 +1872,7 @@
       "Name": "Electro-Scrap Gatherer",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ACH_COLLECT_50_SCRAP",
@@ -1883,7 +1888,7 @@
       "Name": "Cook",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "ACH_CUT_100_TREES",
@@ -1931,7 +1936,7 @@
       "Name": "Robot Hunter",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH_KILL_20",
@@ -2027,14 +2032,14 @@
       "Name": "Teleport",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     }
   ],
   "AchievementSets": [
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 526,
+      "Progressed": 527,
       "Completed": 3
     }
   ],
@@ -2042,8 +2047,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2023-12-18T20:08:59.0377065+00:00",
+  "LastChanged_Achievements": "2023-12-18T21:09:12.3612978+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.762988+00:00",
-  "LastUpdate_Ratings": "2023-12-18T19:57:33.0582719+00:00",
-  "LastUpdate_Achievements": "2023-12-18T20:08:59.0377285+00:00"
+  "LastUpdate_Ratings": "2023-12-18T20:57:49.5836588+00:00",
+  "LastUpdate_Achievements": "2023-12-18T21:09:12.3613248+00:00"
 }

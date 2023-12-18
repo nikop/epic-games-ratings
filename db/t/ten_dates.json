@@ -950,9 +950,9 @@
       "ID": "success_brandy",
       "SetID": "6h5h9ho",
       "Name": "The boss",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 90,
-      "UsersEstimate": 83
+      "UsersEstimate": 87
     },
     {
       "ID": "success_derek",
@@ -1031,8 +1031,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-12-18T20:09:15.816348+00:00",
+  "LastChanged_Achievements": "2023-12-18T21:09:34.277059+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:10.0190099+00:00",
-  "LastUpdate_Ratings": "2023-12-18T19:59:00.0579437+00:00",
-  "LastUpdate_Achievements": "2023-12-18T20:09:15.816369+00:00"
+  "LastUpdate_Ratings": "2023-12-18T20:59:55.7677869+00:00",
+  "LastUpdate_Achievements": "2023-12-18T21:09:34.2770742+00:00"
 }

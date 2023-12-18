@@ -997,7 +997,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 9480,
+  "EOS_Progressed": 9481,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
@@ -9592,6 +9592,11 @@
       "Time": "2023-12-18T20:08:46.5000811+00:00",
       "NumProgressed": 9480,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-18T21:08:58.3899983+00:00",
+      "NumProgressed": 9481,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -9619,7 +9624,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4171
+      "UsersEstimate": 4172
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -9939,7 +9944,7 @@
       "Name": "Uomo Universale",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1232
+      "UsersEstimate": 1233
     },
     {
       "ID": "ISONZO_ACH_VENI_VIDI_VICI",
@@ -9962,7 +9967,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9480,
+      "Progressed": 9481,
       "Completed": 10
     }
   ],
@@ -9970,8 +9975,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-12T17:02:56.6362998+00:00",
-  "LastChanged_Achievements": "2023-12-18T20:08:46.5000807+00:00",
+  "LastChanged_Achievements": "2023-12-18T21:08:58.3899979+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:27.7823002+00:00",
-  "LastUpdate_Ratings": "2023-12-18T19:59:08.4941742+00:00",
-  "LastUpdate_Achievements": "2023-12-18T20:08:46.500146+00:00"
+  "LastUpdate_Ratings": "2023-12-18T21:00:07.7145666+00:00",
+  "LastUpdate_Achievements": "2023-12-18T21:08:58.3900631+00:00"
 }

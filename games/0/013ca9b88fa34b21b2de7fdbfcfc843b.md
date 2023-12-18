@@ -26,6 +26,7 @@ Rating: 4.62 (Ranked 372)
 | Flaming Hot Completos | 0.20% | ~17 |
 | Fae Farmer | 0.20% | ~17 |
 | Beach Comber | 0.20% | ~17 |
+| Fanatical Farmer | 0.20% | ~17 |
 | I Now Pronounce You... | 0.20% | ~17 |
 | Chatty Neighbor | 0.20% | ~17 |
 | Botanical Breakthrough | 0.20% | ~17 |
@@ -40,7 +41,6 @@ Rating: 4.62 (Ranked 372)
 | Giving the People What They Want | 0.10% | ~9 |
 | Scattered Scroll Scrounger | 0.10% | ~9 |
 | Rumble in the Jumble | 0.10% | ~9 |
-| Fanatical Farmer | 0.10% | ~9 |
 | Very Skilled | 0.10% | ~9 |
 | A Pal To All | 0.10% | ~1 |
 | Scroll Hunter | 0.10% | ~1 |
@@ -49,7 +49,7 @@ Rating: 4.62 (Ranked 372)
 | Going Down | 0.10% | ~1 |
 | Archi-Pal-igo Aficionado | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,515 (Ranked 179)  
+Progressed: 8,517 (Ranked 179)  
 Completed: 1 (0.01%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 1 (0.01%) (Ranked 359)
 | 2023-12-15 | 8,445 | 1 |
 | 2023-12-16 | 8,476 | 1 |
 | 2023-12-17 | 8,500 | 1 |
-| 2023-12-18 | 8,515 | 1 |
+| 2023-12-18 | 8,517 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

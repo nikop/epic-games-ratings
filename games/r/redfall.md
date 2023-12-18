@@ -5,7 +5,7 @@ Rating: 3.56 (Ranked 1,061)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 8.00% | ~154 |
+| I Like My Stakes Rare! | 9.00% | ~173 |
 | Home Is Where the Heart Is | 6.00% | ~116 |
 | Wounded Whispers | 6.00% | ~116 |
 | Catch and Release | 6.00% | ~116 |
@@ -21,10 +21,10 @@ Rating: 3.56 (Ranked 1,061)
 | Grounded | 3.00% | ~58 |
 | Heart Attack | 3.00% | ~58 |
 | Skin of Their Teeth | 3.00% | ~58 |
-| Neighborhood Revitalization | 2.00% | ~38 |
-| Bad Wiring | 2.00% | ~38 |
-| Radio Silence | 2.00% | ~38 |
-| I Spit On Your Grave | 2.00% | ~38 |
+| Neighborhood Revitalization | 2.00% | ~39 |
+| Bad Wiring | 2.00% | ~39 |
+| Radio Silence | 2.00% | ~39 |
+| I Spit On Your Grave | 2.00% | ~39 |
 | Sic Transit Umbra | 1.00% | ~19 |
 | Bell-ringer | 1.00% | ~19 |
 | Silence Is Golden | 1.00% | ~19 |
@@ -41,12 +41,12 @@ Rating: 3.56 (Ranked 1,061)
 | Revelations | 0.70% | ~13 |
 | Curious Finch | 0.70% | ~13 |
 | Block Party | 0.60% | ~12 |
+| Right This Way | 0.50% | ~10 |
 | Dexterity Save | 0.50% | ~10 |
 | Sisterhood | 0.40% | ~8 |
 | What Lies Below | 0.40% | ~8 |
 | Empty Nest Syndrome | 0.40% | ~8 |
 | Bloody Initiate | 0.40% | ~8 |
-| Right This Way | 0.40% | ~8 |
 | Good Samaritan | 0.40% | ~8 |
 | Neighborhood Watch | 0.30% | ~6 |
 | Blood Brother | 0.30% | ~6 |
@@ -72,7 +72,7 @@ Rating: 3.56 (Ranked 1,061)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,925 (Ranked 235)  
+Progressed: 1,927 (Ranked 235)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-15 | 1,843 | 0 |
 | 2023-12-16 | 1,886 | 0 |
 | 2023-12-17 | 1,914 | 0 |
-| 2023-12-18 | 1,925 | 0 |
+| 2023-12-18 | 1,927 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

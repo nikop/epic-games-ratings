@@ -4,7 +4,7 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -4554,9 +4554,9 @@
       "ID": "ACH_R_A",
       "SetID": "b3fep3o",
       "Name": "Olympian",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_R_D",
@@ -4683,8 +4683,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-12-18T20:03:46.2305954+00:00",
+  "LastChanged_Achievements": "2023-12-18T21:04:12.2444787+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:16.6917179+00:00",
-  "LastUpdate_Ratings": "2023-12-18T19:57:55.9476193+00:00",
-  "LastUpdate_Achievements": "2023-12-18T20:03:46.2306715+00:00"
+  "LastUpdate_Ratings": "2023-12-18T20:58:23.7143269+00:00",
+  "LastUpdate_Achievements": "2023-12-18T21:04:12.2445964+00:00"
 }

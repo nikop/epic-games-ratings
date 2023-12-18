@@ -844,7 +844,7 @@
   ],
   "EOS_Progressed": 5633,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 183,
+  "EOS_NewPlayers": 181,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -11367,9 +11367,9 @@
       "ID": "MF_Ach_ColdBloodedCritters",
       "SetID": "9b9n573",
       "Name": "Cold-Blooded Critters",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 563
+      "UsersEstimate": 620
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -11559,8 +11559,8 @@
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-17T11:57:49.7030504+00:00",
-  "LastChanged_Achievements": "2023-12-18T20:03:18.0118965+00:00",
+  "LastChanged_Achievements": "2023-12-18T21:03:33.8191398+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:20.367807+00:00",
-  "LastUpdate_Ratings": "2023-12-18T19:58:03.5478702+00:00",
-  "LastUpdate_Achievements": "2023-12-18T20:03:18.0119665+00:00"
+  "LastUpdate_Ratings": "2023-12-18T20:58:33.6591705+00:00",
+  "LastUpdate_Achievements": "2023-12-18T21:03:33.8192464+00:00"
 }

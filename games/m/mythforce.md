@@ -18,7 +18,7 @@ Number of Ratings: 285  (23.09.2022)
 | Ten Steps from the Grave | 15.00% | ~845 |
 | Everything Must Go! | 14.00% | ~789 |
 | Next Time on MythForce... | 14.00% | ~789 |
-| Cold-Blooded Critters | 10.00% | ~563 |
+| Cold-Blooded Critters | 11.00% | ~620 |
 | Death Becomes You | 8.00% | ~451 |
 | Flawless Victory | 7.00% | ~394 |
 | The Harder They Fall | 6.00% | ~338 |

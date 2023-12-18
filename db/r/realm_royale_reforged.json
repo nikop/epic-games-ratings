@@ -2,12 +2,12 @@
   "ID": "5fcf6f3031c547f789e29c18b422ca67",
   "Name": "Realm Royale Reforged",
   "ProductSlug": "realm-royale-reforged",
-  "Ranking_Rating": 856,
-  "Ranking_Popularity": 317,
+  "Ranking_Rating": 855,
+  "Ranking_Popularity": 318,
   "Ranking_PopularitySum": 239,
   "Ranking_EOS_Progress": 809,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 549,
+  "Ranking_EOS_NewPlayers": 551,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-11-29T12:00:00+00:00",
@@ -2412,6 +2412,6 @@
   "FirstSeenRating": "2022-08-24T22:31:27.0262733+00:00",
   "LastChanged": "2023-12-17T13:02:19.6469608+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:07.1185583+00:00",
-  "LastUpdate_Ratings": "2023-12-18T19:59:57.158564+00:00",
-  "LastUpdate_Achievements": "2023-12-18T20:05:39.2635193+00:00"
+  "LastUpdate_Ratings": "2023-12-18T21:01:20.2090333+00:00",
+  "LastUpdate_Achievements": "2023-12-18T21:06:43.4214686+00:00"
 }

@@ -21,10 +21,10 @@
 | The Crypt of Ivan Kotar | 26.00% | ~6 |
 | Lore and Background Story | 26.00% | ~6 |
 | Ulric's Painting Acquired | 22.00% | ~5 |
+| Nikolay's Nonsense | 22.00% | ~5 |
 | You Abandoned God | 22.00% | ~5 |
 | Save Arsen | 17.00% | ~4 |
 | Kabeer is Dead | 17.00% | ~4 |
-| Nikolay's Nonsense | 17.00% | ~4 |
 | Forgive Ida | 13.00% | ~3 |
 | Davor Was Deported | 13.00% | ~3 |
 | Gregor Was Punished | 13.00% | ~3 |

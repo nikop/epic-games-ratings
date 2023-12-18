@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Everything's Coming Up Gigachu | 93.00% | ~39 |
-| Cyber Bully | 69.00% | ~29 |
+| Cyber Bully | 71.00% | ~30 |
 | Loving Commute | 67.00% | ~28 |
 | Friendzoned | 40.00% | ~17 |
 | Love is in Bloom | 38.00% | ~16 |
@@ -20,7 +20,7 @@
 | Polyamorousasaurus | 12.00% | ~5 |
 | Loved and Lost | 10.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42 (Ranked 536)  
+Progressed: 42 (Ranked 537)  
 Completed: 4 (9.52%) (Ranked 43)  
 ## EOS Players History
 | Date | Progressed | Completed |

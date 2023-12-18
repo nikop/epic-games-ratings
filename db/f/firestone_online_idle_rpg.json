@@ -637,9 +637,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3535,
+  "EOS_Progressed": 3536,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 263,
+  "EOS_NewPlayers": 262,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -10167,6 +10167,11 @@
       "Time": "2023-12-18T20:05:42.1515429+00:00",
       "NumProgressed": 3535,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-18T21:06:47.5192608+00:00",
+      "NumProgressed": 3536,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -10280,9 +10285,9 @@
       "ID": "dragonclicker",
       "SetID": "3nl4bcg",
       "Name": "Dragon Clicker",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 566
+      "UsersEstimate": 530
     },
     {
       "ID": "dragonmaster",
@@ -10370,7 +10375,7 @@
       "Name": "Four Leaf Clover",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "frostfireliberator",
@@ -10386,7 +10391,7 @@
       "Name": "Full Party",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 848
+      "UsersEstimate": 849
     },
     {
       "ID": "gearenchanting",
@@ -10418,7 +10423,7 @@
       "Name": "Here We Go Again",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "heroinspection",
@@ -10490,7 +10495,7 @@
       "Name": "Master Enchanter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "mastery",
@@ -10578,7 +10583,7 @@
       "Name": "Prestigious x10",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "relicofthepast",
@@ -10658,7 +10663,7 @@
       "Name": "The father of Dragons",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "thegameison",
@@ -10698,7 +10703,7 @@
       "Name": "Trader",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "trainingmakesaproplayer",
@@ -10770,14 +10775,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2757
+      "UsersEstimate": 2758
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3535,
+      "Progressed": 3536,
       "Completed": 2
     }
   ],
@@ -10785,8 +10790,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-17T09:00:20.6514627+00:00",
-  "LastChanged_Achievements": "2023-12-18T20:05:42.1515427+00:00",
+  "LastChanged_Achievements": "2023-12-18T21:06:47.5192605+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:13.7887636+00:00",
-  "LastUpdate_Ratings": "2023-12-18T20:00:10.2432941+00:00",
-  "LastUpdate_Achievements": "2023-12-18T20:05:42.1516401+00:00"
+  "LastUpdate_Ratings": "2023-12-18T21:02:28.8960514+00:00",
+  "LastUpdate_Achievements": "2023-12-18T21:06:47.5194062+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2160,9 +2160,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15824,
+  "EOS_Progressed": 15825,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17900,6 +17900,11 @@
       "Time": "2023-12-18T20:09:21.7341273+00:00",
       "NumProgressed": 15824,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-18T21:09:41.8927523+00:00",
+      "NumProgressed": 15825,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -18399,7 +18404,7 @@
       "Name": "Intrepid",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
@@ -20646,21 +20651,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15824,
+      "Progressed": 15825,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15824,
+      "Progressed": 15825,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-18T02:26:39.2860853+00:00",
-  "LastChanged_Achievements": "2023-12-18T20:09:21.7341268+00:00",
+  "LastChanged_Achievements": "2023-12-18T21:09:41.8927519+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:47.4773202+00:00",
-  "LastUpdate_Ratings": "2023-12-18T20:02:52.2710895+00:00",
-  "LastUpdate_Achievements": "2023-12-18T20:09:21.7353236+00:00"
+  "LastUpdate_Ratings": "2023-12-18T21:02:57.4205571+00:00",
+  "LastUpdate_Achievements": "2023-12-18T21:09:41.8936538+00:00"
 }

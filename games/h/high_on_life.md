@@ -6,12 +6,12 @@ Rating: 4.65 (Ranked 321)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Satisfied Gus-tomer | 4.00% | ~990 |
+| Are You Packin'? | 4.00% | ~990 |
 | Sweezy Like Sunday Morning | 4.00% | ~990 |
 | First Bounty Down | 4.00% | ~990 |
 | G3 Graduation | 4.00% | ~990 |
 | Cold-Blooded Driller | 4.00% | ~990 |
 | Creature Feature | 3.00% | ~743 |
-| Are You Packin'? | 3.00% | ~743 |
 | Bring A Knife to a Gun Fight | 3.00% | ~743 |
 | RIP Davey Glutes | 3.00% | ~743 |
 | We're All Very Impressed, Trust Me | 3.00% | ~743 |
@@ -27,7 +27,7 @@ Rating: 4.65 (Ranked 321)
 | Spent 15 Hours At The Alien Strip Club | 2.00% | ~495 |
 | Series Wrap on Suit-O | 2.00% | ~495 |
 | Bathe With A Giant Nude Alien | 2.00% | ~41 |
-| We Came, We Chainsaw, We Conquered | 1.00% | ~20 |
+| We Came, We Chainsaw, We Conquered | 1.00% | ~21 |
 | Gunning For Your Job | 0.90% | ~223 |
 | Mux Ado About Shipping | 0.80% | ~16 |
 | We Paid For The Rights To Put A Whole Movie In Here | 0.70% | ~173 |
@@ -50,7 +50,7 @@ Rating: 4.65 (Ranked 321)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,757 (Ranked 140)  
+Progressed: 24,761 (Ranked 140)  
 Completed: 14 (0.06%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 14 (0.06%) (Ranked 324)
 | 2023-12-15 | 24,710 | 14 |
 | 2023-12-16 | 24,727 | 14 |
 | 2023-12-17 | 24,747 | 14 |
-| 2023-12-18 | 24,757 | 14 |
+| 2023-12-18 | 24,761 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

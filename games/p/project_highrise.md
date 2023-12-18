@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 58.00% | ~230 |
-| Starting Skyward | 52.00% | ~206 |
+| In the Black | 58.00% | ~231 |
+| Starting Skyward | 53.00% | ~211 |
 | Grime is Not Good | 46.00% | ~183 |
 | Floor Galore | 41.00% | ~163 |
-| Dinner Dash | 41.00% | ~163 |
-| Campaign Launch | 40.00% | ~159 |
+| Dinner Dash | 40.00% | ~159 |
+| Campaign Launch | 39.00% | ~155 |
 | Need a Consult | 37.00% | ~147 |
 | It's Technical | 37.00% | ~147 |
-| Upgrade Unlock | 36.00% | ~143 |
+| Upgrade Unlock | 35.00% | ~139 |
 | Delegate Maintenance | 33.00% | ~131 |
 | Proper Walls | 31.00% | ~123 |
 | Destination Destiny | 31.00% | ~123 |
 | Happy Tenants | 26.00% | ~103 |
-| Potent Potables | 25.00% | ~99 |
-| Smooth Service | 25.00% | ~99 |
-| Your Prestige is Rising | 24.00% | ~95 |
-| Retail Revenue | 24.00% | ~95 |
-| Don't Feel a Loan | 22.00% | ~87 |
-| People Mover | 21.00% | ~83 |
-| Artfully Done | 20.00% | ~79 |
-| Emporium Empire | 20.00% | ~79 |
-| Leveled Up Shops | 20.00% | ~79 |
-| Lux Living | 19.00% | ~75 |
-| Get Electrified | 19.00% | ~75 |
-| Rehab Expert | 18.00% | ~71 |
-| Established Fame | 18.00% | ~71 |
-| Tasty Profits | 18.00% | ~71 |
-| We Don't Need No Education | 18.00% | ~71 |
+| Potent Potables | 25.00% | ~100 |
+| Smooth Service | 25.00% | ~100 |
+| Your Prestige is Rising | 24.00% | ~96 |
+| Retail Revenue | 24.00% | ~96 |
+| Don't Feel a Loan | 22.00% | ~88 |
+| People Mover | 21.00% | ~84 |
+| Artfully Done | 20.00% | ~80 |
+| Emporium Empire | 20.00% | ~80 |
+| Leveled Up Shops | 20.00% | ~80 |
+| Lux Living | 19.00% | ~76 |
+| We Don't Need No Education | 19.00% | ~76 |
+| Get Electrified | 19.00% | ~76 |
+| Rehab Expert | 18.00% | ~72 |
+| Established Fame | 18.00% | ~72 |
+| Tasty Profits | 18.00% | ~72 |
 | Under One Roof | 16.00% | ~64 |
 | Cashflow Chief | 16.00% | ~64 |
 | Starred Dining | 15.00% | ~60 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 397 (Ranked 341)  
+Progressed: 398 (Ranked 341)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-15 | 372 | 0 |
 | 2023-12-16 | 385 | 0 |
 | 2023-12-17 | 392 | 0 |
-| 2023-12-18 | 397 | 0 |
+| 2023-12-18 | 398 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

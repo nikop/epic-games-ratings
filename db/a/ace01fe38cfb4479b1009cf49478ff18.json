@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 323,
+  "EOS_Progressed": 324,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1224,6 +1224,11 @@
       "Time": "2023-12-18T19:05:53.3031413+00:00",
       "NumProgressed": 323,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-18T21:07:05.5072462+00:00",
+      "NumProgressed": 324,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -1298,9 +1303,9 @@
       "ID": "ach_defeat_lord_of_change",
       "SetID": "d499apg",
       "Name": "Defeat a Lord of Change",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 45,
-      "UsersEstimate": 68
+      "UsersEstimate": 71
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -1331,14 +1336,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 323,
+      "Progressed": 324,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-12-18T20:05:55.6387946+00:00",
+  "LastChanged_Achievements": "2023-12-18T21:07:05.5072458+00:00",
   "LastUpdate_AppInfo": "2023-12-15T14:56:55.6680838+00:00",
-  "LastUpdate_Ratings": "2023-12-18T19:59:56.3090804+00:00",
-  "LastUpdate_Achievements": "2023-12-18T20:05:55.6388065+00:00"
+  "LastUpdate_Ratings": "2023-12-18T21:01:19.0082516+00:00",
+  "LastUpdate_Achievements": "2023-12-18T21:07:05.507264+00:00"
 }

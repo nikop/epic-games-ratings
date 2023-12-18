@@ -4,7 +4,7 @@
   "ProductSlug": "mia-and-the-dragon-princess-f4e1d0",
   "Ranking_EOS_Progress": 468,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 451,
+  "Ranking_EOS_NewPlayers": 454,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-04T07:00:00+00:00",
@@ -548,17 +548,17 @@
       "ID": "escape_artist",
       "SetID": "5anb57n",
       "Name": "Escape Artist",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "explosive_end",
       "SetID": "5anb57n",
       "Name": "Explosive End",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "finger_lickin_bad",
@@ -612,17 +612,17 @@
       "ID": "puzzle_prodigy",
       "SetID": "5anb57n",
       "Name": "Puzzle Prodigy",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "relight_my_cannon",
       "SetID": "5anb57n",
       "Name": "Relight my Cannon",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 40,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "set_sail",
@@ -659,8 +659,8 @@
   ],
   "FirstSeen": "2023-05-13T16:58:04.6283661+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2023-12-18T20:09:00.9219004+00:00",
+  "LastChanged_Achievements": "2023-12-18T21:09:15.0282064+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:44.8478682+00:00",
-  "LastUpdate_Ratings": "2023-12-18T19:59:14.7775487+00:00",
-  "LastUpdate_Achievements": "2023-12-18T20:09:00.9219133+00:00"
+  "LastUpdate_Ratings": "2023-12-18T21:00:16.9501006+00:00",
+  "LastUpdate_Achievements": "2023-12-18T21:09:15.028223+00:00"
 }

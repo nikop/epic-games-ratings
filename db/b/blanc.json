@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3594,
+  "EOS_Progressed": 3597,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -5646,6 +5646,11 @@
       "Time": "2023-12-18T20:04:04.1858883+00:00",
       "NumProgressed": 3594,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-18T21:04:35.4416836+00:00",
+      "NumProgressed": 3597,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -5665,7 +5670,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "FALLEN_TREE",
@@ -5681,7 +5686,7 @@
       "Name": "Helping the little ones",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "MOVE_ON",
@@ -5721,7 +5726,7 @@
       "Name": "Starting as a duo",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -5729,7 +5734,7 @@
       "Name": "Stronger together",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "THE_END",
@@ -5753,14 +5758,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3594,
+      "Progressed": 3597,
       "Completed": 6
     }
   ],
@@ -5768,8 +5773,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-18T20:04:04.1858879+00:00",
+  "LastChanged_Achievements": "2023-12-18T21:04:35.4416831+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:23.2126403+00:00",
-  "LastUpdate_Ratings": "2023-12-18T19:58:30.8745233+00:00",
-  "LastUpdate_Achievements": "2023-12-18T20:04:04.1859214+00:00"
+  "LastUpdate_Ratings": "2023-12-18T20:59:15.2590139+00:00",
+  "LastUpdate_Achievements": "2023-12-18T21:04:35.4417272+00:00"
 }

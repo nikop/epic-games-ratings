@@ -10,15 +10,15 @@ Rating: 4.03 (Ranked 1,009)
 | Das Ist Endgültig! | 16.00% | ~108 |
 | From the Pages of History | 8.00% | ~54 |
 | The Chemists' War | 6.00% | ~40 |
-| War with Friends | 2.00% | ~13 |
-| Nothing Can Stop Us! | 2.00% | ~13 |
+| War with Friends | 2.00% | ~14 |
+| Nothing Can Stop Us! | 2.00% | ~14 |
 | That's Not What Happened | 0.90% | ~6 |
 | A Student of History | 0.70% | ~5 |
 | Bombs Away! | 0.10% | ~1 |
 | Eventful | 0.00% | ~0 |
 | Generalissimo | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 674 (Ranked 299)  
+Progressed: 675 (Ranked 299)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-15 | 635 | 0 |
 | 2023-12-16 | 652 | 0 |
 | 2023-12-17 | 666 | 0 |
-| 2023-12-18 | 674 | 0 |
+| 2023-12-18 | 675 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

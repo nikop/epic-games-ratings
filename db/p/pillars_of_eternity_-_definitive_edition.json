@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 147,
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 549,
+  "Ranking_EOS_NewPlayers": 502,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-12-10T16:00:00+00:00",
@@ -3423,9 +3423,9 @@
       "Count": 189
     }
   ],
-  "EOS_Progressed": 1084,
+  "EOS_Progressed": 1085,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -3753,6 +3753,11 @@
       "Time": "2023-12-18T18:05:23.8157956+00:00",
       "NumProgressed": 1084,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-18T21:05:21.4426822+00:00",
+      "NumProgressed": 1085,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -3772,7 +3777,7 @@
       "Name": "Completed Act II",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "achievement_03",
@@ -3972,7 +3977,7 @@
       "Name": "Make an Adventurer",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "achievement_28",
@@ -4044,7 +4049,7 @@
       "Name": "Kickstarter Backer",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 900
+      "UsersEstimate": 901
     },
     {
       "ID": "achievement_37",
@@ -4147,15 +4152,15 @@
     {
       "ID": "70p237j",
       "IsBase": true,
-      "Progressed": 1084,
+      "Progressed": 1085,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.7524763+00:00",
   "LastChanged": "2023-12-18T14:58:00.0380628+00:00",
-  "LastChanged_Achievements": "2023-12-18T20:04:37.8792066+00:00",
+  "LastChanged_Achievements": "2023-12-18T21:05:21.4426818+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:04.341395+00:00",
-  "LastUpdate_Ratings": "2023-12-18T19:57:59.9531928+00:00",
-  "LastUpdate_Achievements": "2023-12-18T20:04:37.8792409+00:00"
+  "LastUpdate_Ratings": "2023-12-18T20:58:29.1359147+00:00",
+  "LastUpdate_Achievements": "2023-12-18T21:05:21.4427172+00:00"
 }

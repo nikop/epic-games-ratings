@@ -325,9 +325,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 233755,
+  "EOS_Progressed": 233757,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 319,
+  "EOS_NewPlayers": 317,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24875,6 +24875,11 @@
       "Time": "2023-12-18T20:09:02.4663533+00:00",
       "NumProgressed": 233755,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-18T21:09:17.0205137+00:00",
+      "NumProgressed": 233757,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -24950,7 +24955,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 84152
+      "UsersEstimate": 84153
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -25046,7 +25051,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 51426
+      "UsersEstimate": 51427
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -25094,7 +25099,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 39738
+      "UsersEstimate": 39739
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -25109,7 +25114,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 233755,
+      "Progressed": 233757,
       "Completed": 5
     }
   ],
@@ -25117,8 +25122,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-12-17T08:58:28.3947518+00:00",
-  "LastChanged_Achievements": "2023-12-18T20:09:02.4663526+00:00",
+  "LastChanged_Achievements": "2023-12-18T21:09:17.0205133+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:20.0893293+00:00",
-  "LastUpdate_Ratings": "2023-12-18T19:58:24.9751689+00:00",
-  "LastUpdate_Achievements": "2023-12-18T20:09:02.4664777+00:00"
+  "LastUpdate_Ratings": "2023-12-18T20:59:06.7689779+00:00",
+  "LastUpdate_Achievements": "2023-12-18T21:09:17.0206701+00:00"
 }

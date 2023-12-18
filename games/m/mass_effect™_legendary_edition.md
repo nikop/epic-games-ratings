@@ -4,104 +4,104 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 91.00% | ~2,098 |
-| Spectre Inductee | 69.00% | ~1,591 |
-| Medal of Exploration I | 59.00% | ~1,361 |
-| Recruit | 54.00% | ~1,245 |
-| Search and Rescue | 53.00% | ~1,222 |
-| Quarian Ally | 52.00% | ~1,199 |
-| Medal of Heroism | 47.00% | ~1,084 |
-| Honorarium of Corporate Service | 46.00% | ~1,061 |
-| Turian Ally | 43.00% | ~992 |
-| Medal of Exploration II | 42.00% | ~969 |
-| Council Legion of Merit | 41.00% | ~945 |
-| Medal of Honor | 39.00% | ~899 |
-| Meritorious Service Medal | 39.00% | ~899 |
-| Soldier | 38.00% | ~876 |
-| Soldier Ally | 38.00% | ~876 |
-| Charismatic | 38.00% | ~876 |
-| Asari Ally | 36.00% | ~830 |
-| Missing in Action | 36.00% | ~830 |
-| Principled | 35.00% | ~807 |
-| Colonial Savior | 35.00% | ~807 |
-| Medal of Exploration III | 34.00% | ~784 |
-| Paramour I | 33.00% | ~761 |
-| Sentinel Ally | 33.00% | ~761 |
-| Krogan Ally | 33.00% | ~761 |
-| Very Elusive | 33.00% | ~761 |
-| Scientist | 33.00% | ~761 |
-| Merciless | 32.00% | ~738 |
-| Head Hunter | 30.00% | ~692 |
-| Operative | 30.00% | ~692 |
-| Scholar | 30.00% | ~692 |
-| The Archangel | 29.00% | ~669 |
-| The Professor | 29.00% | ~669 |
-| Veteran | 28.00% | ~646 |
-| Power Full | 28.00% | ~646 |
-| The Convict | 27.00% | ~623 |
-| Colony Defense | 26.00% | ~600 |
-| The Krogan | 26.00% | ~600 |
-| Broke, Blind, and Bedlam | 26.00% | ~600 |
-| Driven | 26.00% | ~600 |
-| A Personal Touch | 25.00% | ~576 |
-| Shopaholic | 25.00% | ~576 |
-| Ghost Ship | 24.00% | ~553 |
-| The Assassin | 24.00% | ~553 |
-| The Justicar | 24.00% | ~553 |
-| The Quarian | 24.00% | ~553 |
-| The Prodigal | 24.00% | ~553 |
-| Galactic Explorer | 24.00% | ~553 |
-| Revenge! | 24.00% | ~553 |
-| Bringer of War | 24.00% | ~553 |
-| Focused | 23.00% | ~530 |
-| Archivist | 23.00% | ~530 |
-| Completionist | 23.00% | ~530 |
-| Battlemaster | 23.00% | ~530 |
-| Catharsis | 23.00% | ~530 |
-| Fade Away | 23.00% | ~530 |
-| Ghost of the Father | 23.00% | ~530 |
-| The Cure | 23.00% | ~530 |
-| Big Game Hunter | 23.00% | ~530 |
-| Heart of Darkness | 23.00% | ~530 |
-| Friend or Foe | 22.00% | ~507 |
-| Cat's in the Cradle | 22.00% | ~507 |
-| Doppelganger | 22.00% | ~507 |
-| Treason | 22.00% | ~507 |
-| Agent | 22.00% | ~507 |
-| Digital Exorcist | 22.00% | ~507 |
-| Mobilizer | 22.00% | ~507 |
-| Untouchable | 21.00% | ~484 |
-| Eye of the Hurricane | 21.00% | ~484 |
-| Giant Killer | 21.00% | ~484 |
-| Mission Accomplished | 21.00% | ~484 |
-| Suicide Mission | 21.00% | ~484 |
-| Against All Odds | 21.00% | ~484 |
-| A House Divided | 21.00% | ~484 |
-| World Shaker | 21.00% | ~484 |
-| Tunnel Rat | 20.00% | ~461 |
-| Liberator | 20.00% | ~461 |
-| First Aid Specialist | 19.00% | ~438 |
-| Pathfinder | 19.00% | ~438 |
-| Arbiter | 19.00% | ~438 |
-| Savior | 18.00% | ~415 |
-| Weapon Specialist | 18.00% | ~415 |
-| Lost and Found | 18.00% | ~415 |
-| Paramour II | 17.00% | ~392 |
-| Party Crasher | 17.00% | ~392 |
-| Fact Finder | 17.00% | ~392 |
-| Under Pressure | 16.00% | ~369 |
-| Last Resort | 16.00% | ~369 |
-| Hard Target | 16.00% | ~369 |
-| Saboteur | 16.00% | ~369 |
-| Last Witness | 16.00% | ~369 |
-| Well Connected | 16.00% | ~369 |
-| Problem Solver | 16.00% | ~369 |
-| Pyromaniac | 15.00% | ~346 |
-| No One Left Behind | 15.00% | ~346 |
-| Executioner | 14.00% | ~323 |
-| Patriot | 14.00% | ~323 |
-| Legend | 14.00% | ~323 |
-| Master and Commander | 14.00% | ~323 |
+| Distinguished Service Medal | 91.00% | ~2,104 |
+| Spectre Inductee | 69.00% | ~1,595 |
+| Medal of Exploration I | 59.00% | ~1,364 |
+| Recruit | 54.00% | ~1,248 |
+| Search and Rescue | 53.00% | ~1,225 |
+| Quarian Ally | 52.00% | ~1,202 |
+| Medal of Heroism | 47.00% | ~1,087 |
+| Honorarium of Corporate Service | 47.00% | ~1,087 |
+| Turian Ally | 43.00% | ~994 |
+| Medal of Exploration II | 42.00% | ~971 |
+| Council Legion of Merit | 41.00% | ~948 |
+| Medal of Honor | 39.00% | ~902 |
+| Meritorious Service Medal | 39.00% | ~902 |
+| Soldier | 38.00% | ~879 |
+| Soldier Ally | 38.00% | ~879 |
+| Charismatic | 38.00% | ~879 |
+| Asari Ally | 36.00% | ~832 |
+| Missing in Action | 36.00% | ~832 |
+| Principled | 35.00% | ~809 |
+| Colonial Savior | 35.00% | ~809 |
+| Medal of Exploration III | 34.00% | ~786 |
+| Paramour I | 33.00% | ~763 |
+| Sentinel Ally | 33.00% | ~763 |
+| Krogan Ally | 33.00% | ~763 |
+| Very Elusive | 33.00% | ~763 |
+| Scientist | 33.00% | ~763 |
+| Merciless | 32.00% | ~740 |
+| Head Hunter | 30.00% | ~694 |
+| Operative | 30.00% | ~694 |
+| Scholar | 30.00% | ~694 |
+| The Archangel | 29.00% | ~670 |
+| The Professor | 29.00% | ~670 |
+| Veteran | 28.00% | ~647 |
+| Power Full | 28.00% | ~647 |
+| The Convict | 27.00% | ~624 |
+| Colony Defense | 26.00% | ~601 |
+| The Krogan | 26.00% | ~601 |
+| Broke, Blind, and Bedlam | 26.00% | ~601 |
+| Driven | 26.00% | ~601 |
+| A Personal Touch | 25.00% | ~578 |
+| Shopaholic | 25.00% | ~578 |
+| Ghost Ship | 24.00% | ~555 |
+| The Assassin | 24.00% | ~555 |
+| The Justicar | 24.00% | ~555 |
+| The Quarian | 24.00% | ~555 |
+| The Prodigal | 24.00% | ~555 |
+| Galactic Explorer | 24.00% | ~555 |
+| Revenge! | 24.00% | ~555 |
+| Bringer of War | 24.00% | ~555 |
+| Focused | 23.00% | ~532 |
+| Archivist | 23.00% | ~532 |
+| Completionist | 23.00% | ~532 |
+| Battlemaster | 23.00% | ~532 |
+| Catharsis | 23.00% | ~532 |
+| Fade Away | 23.00% | ~532 |
+| Ghost of the Father | 23.00% | ~532 |
+| The Cure | 23.00% | ~532 |
+| Big Game Hunter | 23.00% | ~532 |
+| Heart of Darkness | 23.00% | ~532 |
+| Friend or Foe | 22.00% | ~509 |
+| Cat's in the Cradle | 22.00% | ~509 |
+| Doppelganger | 22.00% | ~509 |
+| Treason | 22.00% | ~509 |
+| Agent | 22.00% | ~509 |
+| Digital Exorcist | 22.00% | ~509 |
+| Mobilizer | 22.00% | ~509 |
+| Untouchable | 21.00% | ~486 |
+| Eye of the Hurricane | 21.00% | ~486 |
+| Giant Killer | 21.00% | ~486 |
+| Mission Accomplished | 21.00% | ~486 |
+| Suicide Mission | 21.00% | ~486 |
+| Against All Odds | 21.00% | ~486 |
+| A House Divided | 21.00% | ~486 |
+| World Shaker | 20.00% | ~462 |
+| Tunnel Rat | 20.00% | ~462 |
+| Liberator | 20.00% | ~462 |
+| First Aid Specialist | 19.00% | ~439 |
+| Pathfinder | 19.00% | ~439 |
+| Arbiter | 19.00% | ~439 |
+| Savior | 18.00% | ~416 |
+| Weapon Specialist | 18.00% | ~416 |
+| Lost and Found | 18.00% | ~416 |
+| Paramour II | 17.00% | ~393 |
+| Party Crasher | 17.00% | ~393 |
+| Fact Finder | 17.00% | ~393 |
+| Under Pressure | 16.00% | ~370 |
+| Last Resort | 16.00% | ~370 |
+| Hard Target | 16.00% | ~370 |
+| Saboteur | 16.00% | ~370 |
+| Last Witness | 16.00% | ~370 |
+| Well Connected | 16.00% | ~370 |
+| Problem Solver | 16.00% | ~370 |
+| Pyromaniac | 15.00% | ~347 |
+| No One Left Behind | 15.00% | ~347 |
+| Executioner | 14.00% | ~324 |
+| Patriot | 14.00% | ~324 |
+| Legend | 14.00% | ~324 |
+| Master and Commander | 14.00% | ~324 |
 | Long Service Medal | 12.00% | ~277 |
 | Sabotage Specialist | 12.00% | ~277 |
 | Throw Mastery | 12.00% | ~277 |
@@ -109,15 +109,15 @@
 | Electronics Specialist | 11.00% | ~254 |
 | Combined Arms | 10.00% | ~231 |
 | Bruiser | 9.00% | ~208 |
-| Always Prepared | 8.00% | ~184 |
-| Paramour III | 8.00% | ~184 |
-| Overload Specialist | 8.00% | ~184 |
-| Warp Mastery | 8.00% | ~184 |
-| Barrier Mastery | 7.00% | ~161 |
-| Sky High | 7.00% | ~161 |
-| Hijacker | 7.00% | ~161 |
-| Lift Mastery | 7.00% | ~161 |
-| Singularity Mastery | 5.00% | ~115 |
+| Always Prepared | 8.00% | ~185 |
+| Paramour III | 8.00% | ~185 |
+| Overload Specialist | 8.00% | ~185 |
+| Warp Mastery | 8.00% | ~185 |
+| Barrier Mastery | 7.00% | ~162 |
+| Sky High | 7.00% | ~162 |
+| Hijacker | 7.00% | ~162 |
+| Lift Mastery | 7.00% | ~162 |
+| Singularity Mastery | 5.00% | ~116 |
 | Insanity I | 4.00% | ~92 |
 | Damping Specialist | 4.00% | ~92 |
 | Shield Breaker | 3.00% | ~69 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 1.00% | ~23 |
 | The One and Only | 0.70% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,306 (Ranked 227)  
+Progressed: 2,312 (Ranked 226)  
 Completed: 7 (0.30%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,4 +226,4 @@ Completed: 7 (0.30%) (Ranked 247)
 | 2023-12-15 | 1,780 | 7 |
 | 2023-12-16 | 1,995 | 7 |
 | 2023-12-17 | 2,175 | 7 |
-| 2023-12-18 | 2,306 | 7 |
+| 2023-12-18 | 2,312 | 7 |

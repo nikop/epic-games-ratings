@@ -2,10 +2,10 @@
   "ID": "a17cc66c3a3c4d75875febf281c73fd2",
   "Name": "BLACKTAIL",
   "ProductSlug": "blacktail",
-  "Ranking_Rating": 261,
+  "Ranking_Rating": 260,
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
-  "Ranking_EOS_Progress": 285,
+  "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 156,
@@ -2538,9 +2538,9 @@
       "ID": "GoldRush",
       "SetID": "2aagp3d",
       "Name": "Gold rush",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 48
+      "UsersEstimate": 56
     },
     {
       "ID": "GossipGirl",
@@ -2715,8 +2715,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2023-12-18T20:09:47.3563928+00:00",
+  "LastChanged_Achievements": "2023-12-18T21:10:15.269494+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:13.6567295+00:00",
-  "LastUpdate_Ratings": "2023-12-18T20:00:09.945736+00:00",
-  "LastUpdate_Achievements": "2023-12-18T20:09:47.356423+00:00"
+  "LastUpdate_Ratings": "2023-12-18T21:02:28.4385577+00:00",
+  "LastUpdate_Achievements": "2023-12-18T21:10:15.2695195+00:00"
 }

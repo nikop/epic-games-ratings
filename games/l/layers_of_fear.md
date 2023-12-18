@@ -34,11 +34,11 @@
 | Fisherman | 6.00% | ~9 |
 | We Are Not Alone | 5.00% | ~8 |
 | The Perfect Storm | 4.00% | ~6 |
+| Instinct of self-preservation | 4.00% | ~6 |
 | Something to think about | 3.00% | ~4 |
 | I remember It Like Was Yesterday | 3.00% | ~4 |
 | Body of Work | 3.00% | ~4 |
 | Se7en Seas | 3.00% | ~4 |
-| Instinct of self-preservation | 3.00% | ~4 |
 | A Mosaic of Misery | 3.00% | ~4 |
 | Dark correspondence | 2.00% | ~3 |
 | It was worth a try | 2.00% | ~3 |

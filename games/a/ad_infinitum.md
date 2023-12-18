@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | Path of Despair | 89.00% | ~87 |
 | Morgengrauen | 86.00% | ~84 |
-| Not alone | 62.00% | ~61 |
-| Hunger | 56.00% | ~55 |
-| Awaken | 45.00% | ~44 |
+| Not alone | 63.00% | ~62 |
+| Hunger | 57.00% | ~56 |
+| Awaken | 46.00% | ~45 |
 | Path of Corruption | 36.00% | ~35 |
 | Hope | 30.00% | ~29 |
 | Rage | 30.00% | ~29 |
@@ -18,7 +18,7 @@
 | The shining | 15.00% | ~15 |
 | Mayhem | 14.00% | ~14 |
 | Health | 12.00% | ~12 |
-| Art critic | 9.00% | ~9 |
+| Art critic | 10.00% | ~10 |
 | Awaiting orders | 9.00% | ~9 |
 | Jigsaw | 9.00% | ~9 |
 | Peace | 9.00% | ~9 |

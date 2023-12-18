@@ -467,17 +467,17 @@
       "ID": "4",
       "SetID": "38ide56",
       "Name": "Carlos Is Tangled",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "5",
       "SetID": "38ide56",
       "Name": "Mandy Family",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "6",
@@ -524,8 +524,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-12-18T20:04:17.3564413+00:00",
+  "LastChanged_Achievements": "2023-12-18T21:04:53.6249031+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:49.2024353+00:00",
-  "LastUpdate_Ratings": "2023-12-18T19:59:23.3382234+00:00",
-  "LastUpdate_Achievements": "2023-12-18T20:04:17.3564566+00:00"
+  "LastUpdate_Ratings": "2023-12-18T21:00:28.4758292+00:00",
+  "LastUpdate_Achievements": "2023-12-18T21:04:53.6249252+00:00"
 }

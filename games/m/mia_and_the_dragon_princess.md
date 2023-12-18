@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Glass Act | 40.00% | ~38 |
-| Relight my Cannon | 38.00% | ~36 |
+| Relight my Cannon | 39.00% | ~37 |
 | Tour Guide Extraordinaire | 37.00% | ~35 |
-| Explosive End | 24.00% | ~23 |
+| Explosive End | 26.00% | ~24 |
 | Snitch | 24.00% | ~23 |
+| Puzzle Prodigy | 23.00% | ~22 |
 | A Box of Tricks | 22.00% | ~21 |
-| Puzzle Prodigy | 22.00% | ~21 |
 | Codebreaker | 20.00% | ~19 |
 | Finger-Lickin' Bad | 20.00% | ~19 |
 | Set Sail | 20.00% | ~19 |
@@ -20,8 +20,8 @@
 | Backstory Buff | 16.00% | ~15 |
 | Freedum Fighter | 4.00% | ~4 |
 | Key Keeper's Curse | 4.00% | ~4 |
+| Escape Artist | 3.00% | ~3 |
 | Fool's Gold | 3.00% | ~3 |
-| Escape Artist | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 94 (Ranked 468)  
 Completed: 2 (2.13%) (Ranked 133)  

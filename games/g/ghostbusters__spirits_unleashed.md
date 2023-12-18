@@ -20,16 +20,16 @@ Rating: 4.50 (Ranked 599)
 | There you are! | 4.00% | ~1,297 |
 | Vaporous Expansion | 4.00% | ~1,297 |
 | Whoopsie | 4.00% | ~1,297 |
-| Animated | 3.00% | ~972 |
-| We have the best insurance | 3.00% | ~972 |
-| Ectoplasmic Entity | 3.00% | ~972 |
-| Ghostbuster In Training | 3.00% | ~972 |
-| Icing on the Cake | 3.00% | ~972 |
-| Legions | 3.00% | ~972 |
-| Pesky Jerks | 3.00% | ~972 |
-| Right back at ya | 3.00% | ~972 |
-| Side Hustle | 3.00% | ~972 |
-| Summoner | 3.00% | ~972 |
+| Animated | 3.00% | ~973 |
+| We have the best insurance | 3.00% | ~973 |
+| Ectoplasmic Entity | 3.00% | ~973 |
+| Ghostbuster In Training | 3.00% | ~973 |
+| Icing on the Cake | 3.00% | ~973 |
+| Legions | 3.00% | ~973 |
+| Pesky Jerks | 3.00% | ~973 |
+| Right back at ya | 3.00% | ~973 |
+| Side Hustle | 3.00% | ~973 |
+| Summoner | 3.00% | ~973 |
 | Back Off | 2.00% | ~648 |
 | Collector | 2.00% | ~648 |
 | Escape Artist | 2.00% | ~648 |
@@ -47,7 +47,7 @@ Rating: 4.50 (Ranked 599)
 | Surprise! | 1.00% | ~324 |
 | Terrifying | 1.00% | ~324 |
 | Therapeutic | 0.80% | ~259 |
-| Rift Seeker | 0.60% | ~194 |
+| Rift Seeker | 0.60% | ~195 |
 | Master Collector | 0.50% | ~162 |
 | Ghost Expert | 0.30% | ~97 |
 | Catostrophic Destroyer | 0.20% | ~65 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 599)
 | Ultimate Defense | 0.20% | ~65 |
 | Line em' up | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,416 (Ranked 127)  
+Progressed: 32,418 (Ranked 127)  
 Completed: 69 (0.21%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 69 (0.21%) (Ranked 266)
 | 2023-12-15 | 32,291 | 69 |
 | 2023-12-16 | 32,332 | 69 |
 | 2023-12-17 | 32,383 | 69 |
-| 2023-12-18 | 32,416 | 69 |
+| 2023-12-18 | 32,418 | 69 |
 ## Awards
 Max (Great for Beginners): 324  (Ranked 251)  
 Sum: 2,917 (Ranked 181)  

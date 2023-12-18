@@ -431,9 +431,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 331069,
+  "EOS_Progressed": 331092,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3556,
+  "EOS_NewPlayers": 3569,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10106,6 +10106,11 @@
       "Time": "2023-12-18T20:04:42.9238306+00:00",
       "NumProgressed": 331069,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-18T21:05:28.0680823+00:00",
+      "NumProgressed": 331092,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -10118,7 +10123,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 9932
+      "UsersEstimate": 9933
     },
     {
       "ID": "S02_BRDA",
@@ -10126,7 +10131,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6621
+      "UsersEstimate": 6622
     },
     {
       "ID": "S03_OTWA",
@@ -10142,7 +10147,7 @@
       "Name": "We\u0027ll be careful",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 2317
+      "UsersEstimate": 2318
     },
     {
       "ID": "S05_SWRA",
@@ -10150,7 +10155,7 @@
       "Name": "Back to your senses",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 1986
+      "UsersEstimate": 1987
     },
     {
       "ID": "S06_LWTC",
@@ -10254,7 +10259,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13243
+      "UsersEstimate": 13244
     },
     {
       "ID": "S19_CHALLENGES",
@@ -10350,7 +10355,7 @@
       "Name": "Bring it on!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1986
+      "UsersEstimate": 1987
     },
     {
       "ID": "S31_CHNG_DIAMOND",
@@ -10437,7 +10442,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 331069,
+      "Progressed": 331092,
       "Completed": 5
     }
   ],
@@ -10445,8 +10450,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-17T23:00:34.9131333+00:00",
-  "LastChanged_Achievements": "2023-12-18T20:04:42.9238302+00:00",
+  "LastChanged_Achievements": "2023-12-18T21:05:28.0680814+00:00",
   "LastUpdate_AppInfo": "2023-12-14T20:57:08.8756847+00:00",
-  "LastUpdate_Ratings": "2023-12-18T19:59:36.8391192+00:00",
-  "LastUpdate_Achievements": "2023-12-18T20:04:42.9239055+00:00"
+  "LastUpdate_Ratings": "2023-12-18T21:00:47.3299606+00:00",
+  "LastUpdate_Achievements": "2023-12-18T21:05:28.0681607+00:00"
 }

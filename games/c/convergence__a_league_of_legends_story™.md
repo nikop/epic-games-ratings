@@ -26,10 +26,10 @@ Rating: 4.64 (Ranked 339)
 | The Betrayer | 20.00% | ~206 |
 | Golem Chaser | 20.00% | ~206 |
 | Check Your Pulse | 19.00% | ~196 |
+| The Man Who Shattered Time | 18.00% | ~185 |
 | The Loose Cannon | 18.00% | ~185 |
 | The Family Fortune | 18.00% | ~185 |
 | Street Style | 17.00% | ~175 |
-| The Man Who Shattered Time | 17.00% | ~175 |
 | Whiz Kid | 14.00% | ~144 |
 | Cartographer | 14.00% | ~144 |
 | Treasure Trove | 13.00% | ~134 |
@@ -60,7 +60,7 @@ Rating: 4.64 (Ranked 339)
 | Going to Live Forever | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,030 (Ranked 275)  
-Completed: 6 (0.58%) (Ranked 201)  
+Completed: 6 (0.58%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

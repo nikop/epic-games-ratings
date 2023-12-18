@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -944,9 +944,9 @@
       "ID": "AC_RECIPES_DONE_1",
       "SetID": "16i2akc",
       "Name": "Cook",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "AC_RECIPES_DONE_2",
@@ -1007,8 +1007,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-18T20:06:01.0143184+00:00",
+  "LastChanged_Achievements": "2023-12-18T21:07:12.3047057+00:00",
   "LastUpdate_AppInfo": "2023-12-12T20:56:56.8907916+00:00",
-  "LastUpdate_Ratings": "2023-12-18T19:58:57.5066644+00:00",
-  "LastUpdate_Achievements": "2023-12-18T20:06:01.0143524+00:00"
+  "LastUpdate_Ratings": "2023-12-18T20:59:52.0531849+00:00",
+  "LastUpdate_Achievements": "2023-12-18T21:07:12.3047388+00:00"
 }

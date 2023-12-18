@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2715,
+  "EOS_Progressed": 2716,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 275,
+  "EOS_NewPlayers": 276,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6632,6 +6632,11 @@
       "Time": "2023-12-18T20:05:01.8313108+00:00",
       "NumProgressed": 2715,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T21:05:52.9147339+00:00",
+      "NumProgressed": 2716,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -6644,7 +6649,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1167
+      "UsersEstimate": 1168
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -6850,9 +6855,9 @@
       "ID": "ML_ACHIEVEMENT_27",
       "SetID": "c7hf6a4",
       "Name": "Clean Race",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1114
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -6996,7 +7001,7 @@
       "Name": "Rivals to the End",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -7035,14 +7040,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2715,
+      "Progressed": 2716,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-18T20:05:01.8313103+00:00",
+  "LastChanged_Achievements": "2023-12-18T21:05:52.9147333+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:35.5257739+00:00",
-  "LastUpdate_Ratings": "2023-12-18T19:57:47.3671786+00:00",
-  "LastUpdate_Achievements": "2023-12-18T20:05:01.8313682+00:00"
+  "LastUpdate_Ratings": "2023-12-18T20:58:10.9843759+00:00",
+  "LastUpdate_Achievements": "2023-12-18T21:05:52.9147904+00:00"
 }

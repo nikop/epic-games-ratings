@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 765,
+  "EOS_Progressed": 767,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 217,
+  "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2065,6 +2065,11 @@
       "Time": "2023-12-18T20:09:12.7080654+00:00",
       "NumProgressed": 765,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T21:09:30.5150156+00:00",
+      "NumProgressed": 767,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -2077,7 +2082,7 @@
       "Name": "The Teleprobe",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 382
+      "UsersEstimate": 384
     },
     {
       "ID": "AchvAllMemories",
@@ -2101,7 +2106,7 @@
       "Name": "Fierce fight",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "AchvBombStop",
@@ -2173,7 +2178,7 @@
       "Name": "Krauta is alive",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "AchvLava",
@@ -2181,7 +2186,7 @@
       "Name": "Volcanologist",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "AchvLeaveNoManBehind",
@@ -2243,9 +2248,9 @@
       "ID": "AchvReachBase",
       "SetID": "1hj060c",
       "Name": "The field base",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 321
+      "UsersEstimate": 314
     },
     {
       "ID": "AchvReachCamp",
@@ -2253,7 +2258,7 @@
       "Name": "The Camp",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "AchvReachCity",
@@ -2261,7 +2266,7 @@
       "Name": "The City",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "AchvReachCondor",
@@ -2291,9 +2296,9 @@
       "ID": "AchvTheEnd",
       "SetID": "1hj060c",
       "Name": "The End",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 55,
-      "UsersEstimate": 245
+      "UsersEstimate": 238
     },
     {
       "ID": "AchvUnity",
@@ -2308,14 +2313,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 765,
+      "Progressed": 767,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-18T20:09:12.708065+00:00",
+  "LastChanged_Achievements": "2023-12-18T21:09:30.515015+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.232501+00:00",
-  "LastUpdate_Ratings": "2023-12-18T19:57:30.3379325+00:00",
-  "LastUpdate_Achievements": "2023-12-18T20:09:12.7081009+00:00"
+  "LastUpdate_Ratings": "2023-12-18T20:57:45.8494517+00:00",
+  "LastUpdate_Achievements": "2023-12-18T21:09:30.515042+00:00"
 }

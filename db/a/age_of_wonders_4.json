@@ -555,9 +555,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5837,
+  "EOS_Progressed": 5841,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 251,
+  "EOS_NewPlayers": 255,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8415,6 +8415,11 @@
       "Time": "2023-12-18T20:04:19.3775216+00:00",
       "NumProgressed": 5837,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-18T21:04:56.5678564+00:00",
+      "NumProgressed": 5841,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -8570,7 +8575,7 @@
       "Name": "Bone Peddler",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "27",
@@ -8586,7 +8591,7 @@
       "Name": "From Friends to Family",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "29",
@@ -8905,13 +8910,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5837,
+      "Progressed": 5841,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5837,
+      "Progressed": 5841,
       "Completed": 7
     }
   ],
@@ -8919,8 +8924,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-14T06:01:52.3312422+00:00",
-  "LastChanged_Achievements": "2023-12-18T20:04:19.3775213+00:00",
+  "LastChanged_Achievements": "2023-12-18T21:04:56.567856+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.6868317+00:00",
-  "LastUpdate_Ratings": "2023-12-18T19:58:50.4080455+00:00",
-  "LastUpdate_Achievements": "2023-12-18T20:04:19.3776155+00:00"
+  "LastUpdate_Ratings": "2023-12-18T20:59:42.5953404+00:00",
+  "LastUpdate_Achievements": "2023-12-18T21:04:56.5679692+00:00"
 }

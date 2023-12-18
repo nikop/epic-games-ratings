@@ -21,10 +21,10 @@
 | You have two wishes left | 15.00% | ~9 |
 | A rival with no options | 13.00% | ~8 |
 | The seer | 13.00% | ~8 |
+| You had one wish left | 11.00% | ~7 |
 | Et in arcadia ego | 11.00% | ~7 |
 | You've awakened the beast | 10.00% | ~6 |
 | Hate is... addictive | 10.00% | ~6 |
-| You had one wish left | 10.00% | ~6 |
 | The bully | 10.00% | ~6 |
 | Kirlian's best disciple | 10.00% | ~6 |
 | Welcome to Hellville | 10.00% | ~6 |

@@ -1279,7 +1279,7 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 3257,
+  "EOS_Progressed": 3258,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
@@ -6459,6 +6459,11 @@
       "Time": "2023-12-18T19:05:21.5435575+00:00",
       "NumProgressed": 3257,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-18T21:06:23.5058942+00:00",
+      "NumProgressed": 3258,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -6774,7 +6779,7 @@
       "Name": "The finer things in life",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -6853,15 +6858,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3257,
+      "Progressed": 3258,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-12-17T22:00:24.6037626+00:00",
-  "LastChanged_Achievements": "2023-12-18T20:05:24.6873633+00:00",
+  "LastChanged_Achievements": "2023-12-18T21:06:23.5058937+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:11.20318+00:00",
-  "LastUpdate_Ratings": "2023-12-18T19:57:17.8103979+00:00",
-  "LastUpdate_Achievements": "2023-12-18T20:05:24.6874148+00:00"
+  "LastUpdate_Ratings": "2023-12-18T20:57:28.2462146+00:00",
+  "LastUpdate_Achievements": "2023-12-18T21:06:23.5059495+00:00"
 }

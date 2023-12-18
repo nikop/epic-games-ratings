@@ -4,7 +4,7 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -1034,9 +1034,9 @@
       "ID": "self_preservation",
       "SetID": "f2im8d",
       "Name": "Instinct of self-preservation",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "sign_of_weakness",
@@ -1137,8 +1137,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-18T20:06:19.7631595+00:00",
+  "LastChanged_Achievements": "2023-12-18T21:07:37.3560895+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:26.5525701+00:00",
-  "LastUpdate_Ratings": "2023-12-18T19:57:17.2278801+00:00",
-  "LastUpdate_Achievements": "2023-12-18T20:06:19.7631975+00:00"
+  "LastUpdate_Ratings": "2023-12-18T20:57:27.368602+00:00",
+  "LastUpdate_Achievements": "2023-12-18T21:07:37.3561233+00:00"
 }

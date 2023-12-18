@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 209,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -1026,9 +1026,9 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 229750,
+  "EOS_Progressed": 229755,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 598,
+  "EOS_NewPlayers": 596,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27536,6 +27536,11 @@
       "Time": "2023-12-18T20:09:45.4567799+00:00",
       "NumProgressed": 229750,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-18T21:10:12.9650133+00:00",
+      "NumProgressed": 229755,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -27547,7 +27552,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 45950
+      "UsersEstimate": 45951
     },
     {
       "ID": "ACH_BASE_10",
@@ -27555,7 +27560,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 59735
+      "UsersEstimate": 59736
     },
     {
       "ID": "ACH_BASE_11",
@@ -27595,7 +27600,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22975
+      "UsersEstimate": 22976
     },
     {
       "ID": "ACH_BASE_17",
@@ -27611,7 +27616,7 @@
       "Name": "Radium Ready",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22975
+      "UsersEstimate": 22976
     },
     {
       "ID": "ACH_BASE_19",
@@ -27635,7 +27640,7 @@
       "Name": "Legio Cybernetica",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 6892
+      "UsersEstimate": 6893
     },
     {
       "ID": "ACH_BASE_21",
@@ -27771,7 +27776,7 @@
       "Name": "Fleshy Disposal",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 6892
+      "UsersEstimate": 6893
     },
     {
       "ID": "ACH_BASE_5",
@@ -27818,7 +27823,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 229750,
+      "Progressed": 229755,
       "Completed": 5
     }
   ],
@@ -27826,8 +27831,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-12-18T15:00:10.8258154+00:00",
-  "LastChanged_Achievements": "2023-12-18T20:09:45.4567792+00:00",
+  "LastChanged_Achievements": "2023-12-18T21:10:12.9650128+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:11.0870994+00:00",
-  "LastUpdate_Ratings": "2023-12-18T20:00:06.0790284+00:00",
-  "LastUpdate_Achievements": "2023-12-18T20:09:45.4569164+00:00"
+  "LastUpdate_Ratings": "2023-12-18T21:02:22.8769362+00:00",
+  "LastUpdate_Achievements": "2023-12-18T21:10:12.9651478+00:00"
 }

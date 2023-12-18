@@ -3,8 +3,8 @@
   "Name": "The Devil\u0027s Face",
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 316,
-  "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_Completed": 160,
+  "Ranking_EOS_NewPlayers": 390,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 588,
+  "EOS_Progressed": 589,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.19,
   "EosHistory": [
@@ -2564,6 +2564,11 @@
       "Time": "2023-12-17T20:05:55.8789116+00:00",
       "NumProgressed": 588,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-18T21:07:11.1716513+00:00",
+      "NumProgressed": 589,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 14,
@@ -2575,7 +2580,7 @@
       "Name": "The gateway to the underworld",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -2583,7 +2588,7 @@
       "Name": "Is it merely a dream?",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2597,9 +2602,9 @@
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "296pn27",
       "Name": "The choice",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 35
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -2623,7 +2628,7 @@
       "Name": "The path to enlightenment",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -2647,7 +2652,7 @@
       "Name": "Unholy lands",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -2655,7 +2660,7 @@
       "Name": "Unveiling the Magnitude of Sin",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -2686,14 +2691,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 588,
+      "Progressed": 589,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-12-18T20:06:00.0439411+00:00",
+  "LastChanged_Achievements": "2023-12-18T21:07:11.1716508+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:57:05.7189556+00:00",
-  "LastUpdate_Ratings": "2023-12-18T19:59:39.6770596+00:00",
-  "LastUpdate_Achievements": "2023-12-18T20:06:00.043961+00:00"
+  "LastUpdate_Ratings": "2023-12-18T21:00:51.9333309+00:00",
+  "LastUpdate_Achievements": "2023-12-18T21:07:11.1716764+00:00"
 }

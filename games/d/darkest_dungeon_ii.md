@@ -1,15 +1,16 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 261)  
+Rating: 4.68 (Ranked 260)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 8.00% | ~259 |
+| Malpractice Assurance | 8.00% | ~260 |
 | Lost and Found | 5.00% | ~162 |
 | This guy... again? | 4.00% | ~130 |
 | This Belongs in a Museum | 3.00% | ~3,851 |
+| Not Today! | 3.00% | ~3,851 |
 | Creep and Sleep | 3.00% | ~3,851 |
 | Catch and Decease | 3.00% | ~3,851 |
 | Overdue Notice | 3.00% | ~3,851 |
@@ -17,20 +18,19 @@ Number of Ratings: 7,767  (23.09.2022)
 | Autodidact | 3.00% | ~3,851 |
 | Ploughshares to Swords | 3.00% | ~97 |
 | Bloody Graduation | 3.00% | ~97 |
-| Don't Make Me Turn This Coach Around | 2.00% | ~2,567 |
-| Serenity Now! | 2.00% | ~2,567 |
-| It Rings a Bell | 2.00% | ~2,567 |
-| Not Today! | 2.00% | ~2,567 |
-| Meat and Greet | 2.00% | ~2,567 |
-| It Happens | 2.00% | ~2,567 |
-| Rush Hour | 2.00% | ~2,567 |
-| Merry Time | 2.00% | ~2,567 |
-| Harvest Festival | 2.00% | ~2,567 |
-| To Grandmother's House | 2.00% | ~2,567 |
-| Whale | 2.00% | ~2,567 |
-| A Place to Lay Your Head | 2.00% | ~2,567 |
-| FNG | 2.00% | ~2,567 |
-| Nope | 2.00% | ~2,567 |
+| Don't Make Me Turn This Coach Around | 2.00% | ~2,568 |
+| Serenity Now! | 2.00% | ~2,568 |
+| It Rings a Bell | 2.00% | ~2,568 |
+| Meat and Greet | 2.00% | ~2,568 |
+| It Happens | 2.00% | ~2,568 |
+| Rush Hour | 2.00% | ~2,568 |
+| Merry Time | 2.00% | ~2,568 |
+| Harvest Festival | 2.00% | ~2,568 |
+| To Grandmother's House | 2.00% | ~2,568 |
+| Whale | 2.00% | ~2,568 |
+| A Place to Lay Your Head | 2.00% | ~2,568 |
+| FNG | 2.00% | ~2,568 |
+| Nope | 2.00% | ~2,568 |
 | Friends 'Til the End | 2.00% | ~65 |
 | Resurrection | 1.00% | ~1,284 |
 | Unleash Hell | 1.00% | ~1,284 |
@@ -65,7 +65,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Handled | 0.50% | ~642 |
 | Body of Work | 0.50% | ~642 |
 | Et Tu, Riposte? | 0.50% | ~16 |
-| Clearing the Ledger | 0.40% | ~513 |
+| Clearing the Ledger | 0.40% | ~514 |
 | The World As It Was | 0.30% | ~385 |
 | Bacon Bits | 0.30% | ~385 |
 | Hat Trick | 0.30% | ~385 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~128 |
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,373 (Ranked 85)  
+Progressed: 128,380 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 3 (0.00%) (Ranked 383)
 | 2023-12-15 | 127,439 | 3 |
 | 2023-12-16 | 127,826 | 3 |
 | 2023-12-17 | 128,143 | 3 |
-| 2023-12-18 | 128,373 | 3 |
+| 2023-12-18 | 128,380 | 3 |
 ## Awards
 Max (Character Customization): 7,784  (Ranked 50)  
 Sum: 20,743 (Ranked 58)  

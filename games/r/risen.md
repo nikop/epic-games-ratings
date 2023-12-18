@@ -11,7 +11,7 @@ Rating: 4.60 (Ranked 421)
 | Adventurer | 67.00% | ~64 |
 | Archer | 50.00% | ~48 |
 | The brave little tailor | 49.00% | ~47 |
-| Field hand | 43.00% | ~41 |
+| Field hand | 44.00% | ~42 |
 | Samaritan | 42.00% | ~40 |
 | Well-to-do | 40.00% | ~38 |
 | The merciful one | 38.00% | ~36 |
@@ -19,9 +19,9 @@ Rating: 4.60 (Ranked 421)
 | Ferocious wild boars | 29.00% | ~28 |
 | Idiot | 27.00% | ~26 |
 | Beast slayer | 25.00% | ~24 |
+| Death of a legend | 23.00% | ~22 |
 | Archaeologist | 23.00% | ~22 |
 | Family man | 22.00% | ~21 |
-| Death of a legend | 22.00% | ~21 |
 | The fourth triplet | 22.00% | ~21 |
 | Wise man | 21.00% | ~20 |
 | Ogre friend | 21.00% | ~20 |
@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 421)
 | Master of the classes | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 96 (Ranked 465)  
+Progressed: 96 (Ranked 466)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |

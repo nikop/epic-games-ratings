@@ -4507,9 +4507,9 @@
       "ID": "META_ALL_LINK",
       "SetID": "2gma9an",
       "Name": "Peace walker",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 244
+      "UsersEstimate": 257
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -4667,9 +4667,9 @@
       "ID": "PROGRESS_N3",
       "SetID": "2gma9an",
       "Name": "A new dawn",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 366
+      "UsersEstimate": 379
     },
     {
       "ID": "PROGRESS_N4",
@@ -4700,8 +4700,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-17T17:02:33.5506237+00:00",
-  "LastChanged_Achievements": "2023-12-18T20:06:01.6684147+00:00",
+  "LastChanged_Achievements": "2023-12-18T21:07:13.2818885+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:30.8935759+00:00",
-  "LastUpdate_Ratings": "2023-12-18T19:57:13.2384159+00:00",
-  "LastUpdate_Achievements": "2023-12-18T20:06:01.6684513+00:00"
+  "LastUpdate_Ratings": "2023-12-18T20:57:21.5682652+00:00",
+  "LastUpdate_Achievements": "2023-12-18T21:07:13.2819278+00:00"
 }
