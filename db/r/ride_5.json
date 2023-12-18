@@ -3,9 +3,9 @@
   "Name": "RIDE 5",
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 220,
-  "Ranking_EOS_Completed": 382,
+  "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2709,
+  "EOS_Progressed": 2711,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 272,
+  "EOS_NewPlayers": 273,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6617,6 +6617,11 @@
       "Time": "2023-12-18T17:05:06.2211838+00:00",
       "NumProgressed": 2709,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T18:05:55.3549913+00:00",
+      "NumProgressed": 2711,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -6629,7 +6634,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1165
+      "UsersEstimate": 1166
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -6669,7 +6674,7 @@
       "Name": "Make It Your Own!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ML_ACHIEVEMENT_07",
@@ -6701,7 +6706,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -6779,9 +6784,9 @@
       "ID": "ML_ACHIEVEMENT_20",
       "SetID": "c7hf6a4",
       "Name": "The Road to Liberty",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 108
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -6805,7 +6810,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -6837,7 +6842,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1111
+      "UsersEstimate": 1112
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -6925,7 +6930,7 @@
       "Name": "Eat My Dust",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 1246
+      "UsersEstimate": 1247
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -6933,7 +6938,7 @@
       "Name": "Champagne Spray",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -7020,14 +7025,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2709,
+      "Progressed": 2711,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-18T17:05:06.2211834+00:00",
+  "LastChanged_Achievements": "2023-12-18T18:05:55.3549911+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:35.5257739+00:00",
-  "LastUpdate_Ratings": "2023-12-18T16:57:52.1260457+00:00",
-  "LastUpdate_Achievements": "2023-12-18T17:05:06.2212366+00:00"
+  "LastUpdate_Ratings": "2023-12-18T17:58:12.0716943+00:00",
+  "LastUpdate_Achievements": "2023-12-18T18:05:55.3550415+00:00"
 }

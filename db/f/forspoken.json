@@ -6,9 +6,9 @@
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 120,
-  "Ranking_EOS_Completed": 358,
+  "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -504,7 +504,7 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 44341,
+  "EOS_Progressed": 44343,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 795,
   "EOS_NewCompleters": 0,
@@ -15579,6 +15579,11 @@
       "Time": "2023-12-18T17:08:27.378797+00:00",
       "NumProgressed": 44341,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-18T18:09:05.7057953+00:00",
+      "NumProgressed": 44343,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -15782,7 +15787,7 @@
       "Name": "Leapfrogger",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2660
+      "UsersEstimate": 2661
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -15878,7 +15883,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2660
+      "UsersEstimate": 2661
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -15902,7 +15907,7 @@
       "Name": "Hell of a Run",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2660
+      "UsersEstimate": 2661
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -15942,7 +15947,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2660
+      "UsersEstimate": 2661
     },
     {
       "ID": "STAYING_AIR",
@@ -16013,22 +16018,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 44341,
+      "Progressed": 44343,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 9178,
-      "Completed": 9178
+      "Progressed": 9180,
+      "Completed": 9180
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-18T13:59:07.4147796+00:00",
-  "LastChanged_Achievements": "2023-12-18T17:08:27.3787966+00:00",
+  "LastChanged_Achievements": "2023-12-18T18:09:05.7057951+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:26.7354097+00:00",
-  "LastUpdate_Ratings": "2023-12-18T16:59:12.2601885+00:00",
-  "LastUpdate_Achievements": "2023-12-18T17:08:27.3788952+00:00"
+  "LastUpdate_Ratings": "2023-12-18T18:00:01.1845264+00:00",
+  "LastUpdate_Achievements": "2023-12-18T18:09:05.7059024+00:00"
 }

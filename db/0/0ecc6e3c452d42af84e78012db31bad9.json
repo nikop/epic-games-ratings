@@ -6,8 +6,8 @@
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 200,
-  "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_Completed": 184,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
@@ -35,7 +35,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4536,
+  "EOS_Progressed": 4537,
   "EOS_Completed": 38,
   "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 1,
@@ -11655,6 +11655,11 @@
       "Time": "2023-12-18T15:04:32.1545281+00:00",
       "NumProgressed": 4536,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-18T18:05:31.0808267+00:00",
+      "NumProgressed": 4537,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 16,
@@ -11738,7 +11743,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 3674
+      "UsersEstimate": 3675
     },
     {
       "ID": "ach_food_completed",
@@ -11762,7 +11767,7 @@
       "Name": "Game opened",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3447
+      "UsersEstimate": 3448
     },
     {
       "ID": "ach_magic_wand",
@@ -11793,7 +11798,7 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 4536,
+      "Progressed": 4537,
       "Completed": 38
     }
   ],
@@ -11801,8 +11806,8 @@
   "FirstSeenRating": "2023-12-06T23:00:44.8965761+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
   "LastChanged": "2023-12-06T23:00:44.8965762+00:00",
-  "LastChanged_Achievements": "2023-12-18T17:04:47.5653472+00:00",
+  "LastChanged_Achievements": "2023-12-18T18:05:31.0808264+00:00",
   "LastUpdate_AppInfo": "2023-12-15T21:57:12.1320242+00:00",
-  "LastUpdate_Ratings": "2023-12-18T16:59:08.4337215+00:00",
-  "LastUpdate_Achievements": "2023-12-18T17:04:47.5654043+00:00"
+  "LastUpdate_Ratings": "2023-12-18T17:59:56.0785779+00:00",
+  "LastUpdate_Achievements": "2023-12-18T18:05:31.0808895+00:00"
 }

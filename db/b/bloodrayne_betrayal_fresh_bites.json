@@ -3,9 +3,9 @@
   "Name": "BloodRayne Betrayal Fresh Bites",
   "ProductSlug": "bloodrayne-betrayal-fresh-bites-8f1012",
   "Ranking_EOS_Progress": 504,
-  "Ranking_EOS_Completed": 382,
-  "Ranking_EOS_NewPlayers": 501,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 383,
+  "Ranking_EOS_NewPlayers": 471,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-11-04T17:00:00+00:00",
     "PcReleaseDate": "2021-09-09T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 62,
+  "EOS_Progressed": 63,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -125,6 +125,11 @@
       "Time": "2023-12-17T14:10:41.5010592+00:00",
       "NumProgressed": 62,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T18:10:31.615854+00:00",
+      "NumProgressed": 63,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -200,7 +205,7 @@
       "Name": "Finish Him",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "FlightOfTheRaven",
@@ -230,15 +235,15 @@
       "ID": "JustATaste",
       "SetID": "6jf74lf",
       "Name": "Just a Taste",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "LastBullet",
       "SetID": "6jf74lf",
       "Name": "The Last Bullet",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
       "UsersEstimate": 9
     },
@@ -294,7 +299,7 @@
       "ID": "StrangeSkulls",
       "SetID": "6jf74lf",
       "Name": "Strange Skulls",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 10,
       "UsersEstimate": 37
     },
@@ -327,7 +332,7 @@
     {
       "ID": "6jf74lf",
       "IsBase": true,
-      "Progressed": 62,
+      "Progressed": 63,
       "Completed": 0
     }
   ],
@@ -335,8 +340,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.7137735+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:16.1017514+00:00",
   "LastChanged": "2023-03-31T05:58:13.7137736+00:00",
-  "LastChanged_Achievements": "2023-12-18T17:09:33.9964284+00:00",
+  "LastChanged_Achievements": "2023-12-18T18:10:31.6158538+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:11.0440495+00:00",
-  "LastUpdate_Ratings": "2023-12-18T16:57:18.7869191+00:00",
-  "LastUpdate_Achievements": "2023-12-18T17:09:33.9964443+00:00"
+  "LastUpdate_Ratings": "2023-12-18T17:57:24.7145969+00:00",
+  "LastUpdate_Achievements": "2023-12-18T18:10:31.6158661+00:00"
 }

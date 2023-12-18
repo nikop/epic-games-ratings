@@ -1,7 +1,7 @@
 # Fae Farm
 [Store](https://store.epicgames.com/en-US/p/fae-farm)  
 [View Rawdata](../../db/0/013ca9b88fa34b21b2de7fdbfcfc843b.json)  
-Rating: 4.62 (Ranked 371)  
+Rating: 4.62 (Ranked 372)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -50,7 +50,7 @@ Rating: 4.62 (Ranked 371)
 | Archi-Pal-igo Aficionado | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 8,514 (Ranked 179)  
-Completed: 1 (0.01%) (Ranked 358)  
+Completed: 1 (0.01%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

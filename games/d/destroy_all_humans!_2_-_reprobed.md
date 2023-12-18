@@ -10,8 +10,8 @@ Number of Ratings: 90  (23.09.2022)
 | Mash Machine | 64.00% | ~76 |
 | Furon Fashion | 38.00% | ~45 |
 | Ducks in a Row, Fish in a Barrel | 38.00% | ~45 |
+| Shop Til They Drop | 29.00% | ~35 |
 | Earthly Pleasures | 28.00% | ~33 |
-| Shop Til They Drop | 28.00% | ~33 |
 | Bodied Sattva | 23.00% | ~27 |
 | Cult Following | 21.00% | ~25 |
 | Upgreatest | 18.00% | ~21 |
@@ -21,11 +21,11 @@ Number of Ratings: 90  (23.09.2022)
 | Perfect Probulator | 12.00% | ~14 |
 | Freshly Squeezed | 12.00% | ~14 |
 | Die Nasty | 10.00% | ~12 |
+| Dusted | 8.00% | ~10 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 7.00% | ~8 |
-| Dusted | 7.00% | ~8 |
 | Transmitting From Sol-3 | 6.00% | ~7 |
+| Kaijuiced | 5.00% | ~6 |
 | Fly Me to the Moon Base | 4.00% | ~5 |
-| Kaijuiced | 4.00% | ~5 |
 | Lobster Blisque | 3.00% | ~4 |
 | Scuttled | 3.00% | ~4 |
 | Deincarnated | 2.00% | ~2 |
@@ -52,7 +52,7 @@ Number of Ratings: 90  (23.09.2022)
 | Trans-Siberian Express | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 119 (Ranked 445)  
-Completed: 0 (0.00%) (Ranked 382)  
+Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

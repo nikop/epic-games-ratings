@@ -6,9 +6,9 @@
   "Ranking_Popularity": 251,
   "Ranking_PopularitySum": 181,
   "Ranking_EOS_Progress": 127,
-  "Ranking_EOS_Completed": 265,
+  "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3783,7 +3783,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32407,
+  "EOS_Progressed": 32409,
   "EOS_Completed": 69,
   "EOS_NewPlayers": 232,
   "EOS_NewCompleters": 0,
@@ -22718,6 +22718,11 @@
       "Time": "2023-12-18T17:04:35.6439138+00:00",
       "NumProgressed": 32407,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-18T18:05:15.9006185+00:00",
+      "NumProgressed": 32409,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -22729,7 +22734,7 @@
       "Name": "Advancement",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2268
+      "UsersEstimate": 2269
     },
     {
       "ID": "Animated",
@@ -23057,7 +23062,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 1944
+      "UsersEstimate": 1945
     },
     {
       "ID": "Teamwork",
@@ -23136,7 +23141,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32407,
+      "Progressed": 32409,
       "Completed": 69
     }
   ],
@@ -23144,8 +23149,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-18T05:58:04.761001+00:00",
-  "LastChanged_Achievements": "2023-12-18T17:04:35.6439135+00:00",
+  "LastChanged_Achievements": "2023-12-18T18:05:15.9006183+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:05.1146147+00:00",
-  "LastUpdate_Ratings": "2023-12-18T16:58:18.3276811+00:00",
-  "LastUpdate_Achievements": "2023-12-18T17:04:35.6440234+00:00"
+  "LastUpdate_Ratings": "2023-12-18T17:58:45.8982031+00:00",
+  "LastUpdate_Achievements": "2023-12-18T18:05:15.9007443+00:00"
 }

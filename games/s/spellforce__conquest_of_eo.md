@@ -26,9 +26,9 @@
 | Castle Meldec | 19.00% | ~12 |
 | Sevenkeeps Seat of Kings | 19.00% | ~12 |
 | Friend of Alluvyan | 16.00% | ~10 |
+| Break Free | 16.00% | ~10 |
 | Friend of Gillyshire | 15.00% | ~9 |
 | Friend of Connach | 15.00% | ~9 |
-| Break Free | 15.00% | ~9 |
 | Philo's Tale | 13.00% | ~8 |
 | Stormwatch Faste | 13.00% | ~8 |
 | Friend of Bastion | 13.00% | ~8 |
@@ -75,8 +75,8 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62 (Ranked 504)  
-Completed: 0 (0.00%) (Ranked 382)  
+Progressed: 62 (Ranked 505)  
+Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 40,
-  "Ranking_EOS_Completed": 382,
+  "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 32,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -13419,9 +13419,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 478588,
+  "EOS_Progressed": 478624,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5521,
+  "EOS_NewPlayers": 5527,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41279,6 +41279,11 @@
       "Time": "2023-12-18T17:03:25.0992881+00:00",
       "NumProgressed": 478588,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-18T18:04:00.4290734+00:00",
+      "NumProgressed": 478624,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -43584,9 +43589,9 @@
       "ID": "achievement_thats_no_mon",
       "SetID": "8p2n7he",
       "Name": "That\u0027s No Mon",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 479
     },
     {
       "ID": "achievement_the_bohemians",
@@ -44193,21 +44198,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 478588,
+      "Progressed": 478624,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 478588,
+      "Progressed": 478624,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-12-18T16:01:10.5743615+00:00",
-  "LastChanged_Achievements": "2023-12-18T17:03:25.0992878+00:00",
+  "LastChanged_Achievements": "2023-12-18T18:04:00.4290733+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:33.9920534+00:00",
-  "LastUpdate_Ratings": "2023-12-18T16:59:49.2918647+00:00",
-  "LastUpdate_Achievements": "2023-12-18T17:03:25.1003699+00:00"
+  "LastUpdate_Ratings": "2023-12-18T18:00:52.9880037+00:00",
+  "LastUpdate_Achievements": "2023-12-18T18:04:00.4301308+00:00"
 }

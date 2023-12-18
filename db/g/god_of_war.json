@@ -6,9 +6,9 @@
   "Ranking_Popularity": 82,
   "Ranking_PopularitySum": 101,
   "Ranking_EOS_Progress": 809,
-  "Ranking_EOS_Completed": 382,
-  "Ranking_EOS_NewPlayers": 549,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 383,
+  "Ranking_EOS_NewPlayers": 548,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-01-14T16:00:00+00:00",
     "PcReleaseDate": "2022-01-14T16:00:00+00:00",
@@ -4119,10 +4119,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 8567,
       "NumberOfAwardsMax": 4458
+    },
+    {
+      "Time": "2023-12-18T18:03:07.1878378+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 8571,
+      "NumberOfAwardsMax": 4458
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8567,
+  "NumberOfAwards": 8571,
   "NumberOfAwardsMax": 4458,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4136,7 +4142,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2322
+      "Count": 2325
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4184,7 +4190,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 170
+      "Count": 171
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4228,8 +4234,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:02.7260883+00:00",
-  "LastChanged": "2023-12-18T06:02:45.8817154+00:00",
+  "LastChanged": "2023-12-18T18:03:07.1878376+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:48.5633985+00:00",
-  "LastUpdate_Ratings": "2023-12-18T17:02:45.5927456+00:00",
-  "LastUpdate_Achievements": "2023-12-18T17:08:05.6266299+00:00"
+  "LastUpdate_Ratings": "2023-12-18T18:03:07.1878381+00:00",
+  "LastUpdate_Achievements": "2023-12-18T18:08:36.4286725+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 520,
   "Ranking_PopularitySum": 499,
   "Ranking_EOS_Progress": 69,
-  "Ranking_EOS_Completed": 382,
-  "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 383,
+  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -325,9 +325,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 233746,
+  "EOS_Progressed": 233750,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 313,
+  "EOS_NewPlayers": 316,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24860,6 +24860,11 @@
       "Time": "2023-12-18T16:09:29.1600284+00:00",
       "NumProgressed": 233746,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-18T18:09:37.4188996+00:00",
+      "NumProgressed": 233750,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -24935,7 +24940,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 84149
+      "UsersEstimate": 84150
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -25007,7 +25012,7 @@
       "Name": "Champ\u0027een of The Praire",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 2337
+      "UsersEstimate": 2338
     },
     {
       "ID": "COMPLETE_THE_STORY_MODE_PROLOGUE",
@@ -25015,7 +25020,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 79474
+      "UsersEstimate": 79475
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -25031,7 +25036,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 51424
+      "UsersEstimate": 51425
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -25055,7 +25060,7 @@
       "Name": "Sin\u0027er Man",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "UNLOCK_ALL_TROPHIES",
@@ -25079,7 +25084,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 39737
+      "UsersEstimate": 39738
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -25087,14 +25092,14 @@
       "Name": "Come At Me!",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 2337
+      "UsersEstimate": 2338
     }
   ],
   "AchievementSets": [
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 233746,
+      "Progressed": 233750,
       "Completed": 5
     }
   ],
@@ -25102,8 +25107,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-12-17T08:58:28.3947518+00:00",
-  "LastChanged_Achievements": "2023-12-18T17:08:51.7492891+00:00",
+  "LastChanged_Achievements": "2023-12-18T18:09:37.4188994+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:20.0893293+00:00",
-  "LastUpdate_Ratings": "2023-12-18T16:58:32.5941106+00:00",
-  "LastUpdate_Achievements": "2023-12-18T17:08:51.7494013+00:00"
+  "LastUpdate_Ratings": "2023-12-18T17:59:05.8765546+00:00",
+  "LastUpdate_Achievements": "2023-12-18T18:09:37.4190289+00:00"
 }

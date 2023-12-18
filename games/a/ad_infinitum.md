@@ -14,9 +14,9 @@
 | Rage | 30.00% | ~29 |
 | Path of Pain | 21.00% | ~20 |
 | Clarity | 16.00% | ~16 |
+| The shining | 15.00% | ~15 |
 | Mayhem | 14.00% | ~14 |
 | Reflections | 14.00% | ~14 |
-| The shining | 14.00% | ~14 |
 | Health | 11.00% | ~11 |
 | Art critic | 9.00% | ~9 |
 | Awaiting orders | 8.00% | ~8 |
@@ -35,7 +35,7 @@
 | Their names | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 97 (Ranked 463)  
-Completed: 0 (0.00%) (Ranked 382)  
+Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

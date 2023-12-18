@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mathematic | 85.00% | ~111 |
-| It's Yours, My Friend | 73.00% | ~96 |
-| Digging a Hole | 71.00% | ~93 |
-| Going Places | 66.00% | ~86 |
-| Conducted Trade | 64.00% | ~84 |
+| Mathematic | 86.00% | ~113 |
+| It's Yours, My Friend | 74.00% | ~97 |
+| Digging a Hole | 72.00% | ~94 |
+| Going Places | 67.00% | ~88 |
+| Conducted Trade | 65.00% | ~85 |
 | Aristocratic | 63.00% | ~83 |
 | Tutti Frutti | 55.00% | ~72 |
 | Gotta Go Fast | 45.00% | ~59 |
@@ -26,7 +26,7 @@
 | Room To Spare | 11.00% | ~14 |
 | Real Purdy | 5.00% | ~7 |
 | Stack Overflow | 5.00% | ~7 |
-| Click 'Em All | 3.00% | ~4 |
+| Click 'Em All | 4.00% | ~5 |
 | Accustomed Customer | 2.00% | ~3 |
 | Interstellar Performance | 2.00% | ~3 |
 | I'm A Lumberbot | 0.80% | ~1 |
@@ -34,7 +34,7 @@
 | Nothing But Road | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 131 (Ranked 431)  
-Completed: 0 (0.00%) (Ranked 382)  
+Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 480,
   "Ranking_PopularitySum": 370,
   "Ranking_EOS_Progress": 194,
-  "Ranking_EOS_Completed": 316,
+  "Ranking_EOS_Completed": 317,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -842,9 +842,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5628,
+  "EOS_Progressed": 5629,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 180,
+  "EOS_NewPlayers": 181,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -11347,6 +11347,11 @@
       "Time": "2023-12-18T16:08:15.0720966+00:00",
       "NumProgressed": 5628,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-18T18:08:29.3007272+00:00",
+      "NumProgressed": 5629,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -11407,7 +11412,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1463
+      "UsersEstimate": 1464
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -11511,7 +11516,7 @@
       "Name": "Spending Spree",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1070
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -11542,15 +11547,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5628,
+      "Progressed": 5629,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-17T11:57:49.7030504+00:00",
-  "LastChanged_Achievements": "2023-12-18T17:06:39.3408372+00:00",
+  "LastChanged_Achievements": "2023-12-18T18:08:29.300727+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:20.367807+00:00",
-  "LastUpdate_Ratings": "2023-12-18T16:58:10.1786202+00:00",
-  "LastUpdate_Achievements": "2023-12-18T17:06:39.3408999+00:00"
+  "LastUpdate_Ratings": "2023-12-18T17:58:34.0349748+00:00",
+  "LastUpdate_Achievements": "2023-12-18T18:08:29.3007876+00:00"
 }

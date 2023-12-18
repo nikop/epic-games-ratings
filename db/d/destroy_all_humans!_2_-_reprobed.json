@@ -6,9 +6,9 @@
   "Ranking_Popularity": 480,
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 445,
-  "Ranking_EOS_Completed": 382,
+  "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -937,9 +937,9 @@
       "ID": "ACH_KILL_KOJIRA",
       "SetID": "4n84pon",
       "Name": "Kaijuiced",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_KILL_MILENKOV",
@@ -1049,9 +1049,9 @@
       "ID": "ACH_SKATE_AWAY_FROM_SPORE",
       "SetID": "4n84pon",
       "Name": "Dusted",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_SKATE_BAYCITY",
@@ -1097,9 +1097,9 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "4n84pon",
       "Name": "Shop Til They Drop",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1122,8 +1122,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-18T17:08:29.4457326+00:00",
+  "LastChanged_Achievements": "2023-12-18T18:09:08.4594544+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:43.3974092+00:00",
-  "LastUpdate_Ratings": "2023-12-18T16:57:12.8518136+00:00",
-  "LastUpdate_Achievements": "2023-12-18T17:08:29.4457584+00:00"
+  "LastUpdate_Ratings": "2023-12-18T17:57:16.4669813+00:00",
+  "LastUpdate_Achievements": "2023-12-18T18:09:08.4594805+00:00"
 }

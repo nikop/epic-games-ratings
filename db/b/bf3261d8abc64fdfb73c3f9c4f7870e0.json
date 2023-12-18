@@ -2,10 +2,10 @@
   "ID": "bf3261d8abc64fdfb73c3f9c4f7870e0",
   "Name": "Ash of Gods: Redemption",
   "ProductSlug": "ash-of-gods-redemption-e0b97d",
-  "Ranking_EOS_Progress": 549,
-  "Ranking_EOS_Completed": 382,
-  "Ranking_EOS_NewPlayers": 303,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Progress": 546,
+  "Ranking_EOS_Completed": 383,
+  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-11T09:00:00+00:00",
     "PcReleaseDate": "2018-03-22T23:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36,
+  "EOS_Progressed": 37,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -184,6 +184,11 @@
       "Time": "2023-12-18T15:08:38.4903463+00:00",
       "NumProgressed": 36,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T18:09:22.8503071+00:00",
+      "NumProgressed": 37,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-11T10:03:42.0552866+00:00",
@@ -274,7 +279,7 @@
       "ID": "achievement_death_to_javelin",
       "SetID": "bngbnfb",
       "Name": "Death to the javelin thrower",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -402,7 +407,7 @@
       "ID": "achievement_last_word",
       "SetID": "bngbnfb",
       "Name": "The last word",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
       "UsersEstimate": 13
     },
@@ -434,9 +439,9 @@
       "ID": "achievement_meet_vay",
       "SetID": "bngbnfb",
       "Name": "The monk",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "achievement_most_dangerous_man",
@@ -458,17 +463,17 @@
       "ID": "achievement_not_energetic",
       "SetID": "bngbnfb",
       "Name": "Not energetic",
-      "Percentage": 44,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_not_risky",
       "SetID": "bngbnfb",
       "Name": "Not a daredevil",
-      "Percentage": 44,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_rush",
@@ -522,7 +527,7 @@
       "ID": "achievement_thorn_alive",
       "SetID": "bngbnfb",
       "Name": "Thorn\u0027s alive!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -595,14 +600,14 @@
     {
       "ID": "bngbnfb",
       "IsBase": true,
-      "Progressed": 36,
+      "Progressed": 37,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-20T21:02:41.8286211+00:00",
   "FirstSeenAchievements": "2023-10-11T10:03:42.0552864+00:00",
-  "LastChanged_Achievements": "2023-12-18T17:08:40.6367578+00:00",
+  "LastChanged_Achievements": "2023-12-18T18:09:22.850307+00:00",
   "LastUpdate_AppInfo": "2023-12-13T14:57:06.6138532+00:00",
-  "LastUpdate_Ratings": "2023-12-18T16:57:07.3269184+00:00",
-  "LastUpdate_Achievements": "2023-12-18T17:08:40.6367868+00:00"
+  "LastUpdate_Ratings": "2023-12-18T17:57:08.9452984+00:00",
+  "LastUpdate_Achievements": "2023-12-18T18:09:22.8503327+00:00"
 }

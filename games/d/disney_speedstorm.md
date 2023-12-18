@@ -5,15 +5,15 @@ Rating: 4.40 (Ranked 746)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 12.00% | ~41,398 |
-| IT MAKES BOOM! | 8.00% | ~27,599 |
-| EXTRA BOOST | 6.00% | ~20,699 |
-| PROTECTED | 5.00% | ~17,249 |
-| HERE ARE SOME BARE NECESSITIES | 4.00% | ~13,799 |
-| PRO | 4.00% | ~13,799 |
-| AGGRESSIVE RACER | 3.00% | ~10,349 |
-| IT'S A LONG WAY TO THE TOP | 2.00% | ~6,900 |
-| A TIGER'S FEAR | 2.00% | ~6,900 |
+| ROOKIE | 12.00% | ~41,406 |
+| IT MAKES BOOM! | 8.00% | ~27,604 |
+| EXTRA BOOST | 6.00% | ~20,703 |
+| PROTECTED | 5.00% | ~17,252 |
+| HERE ARE SOME BARE NECESSITIES | 4.00% | ~13,802 |
+| PRO | 4.00% | ~13,802 |
+| AGGRESSIVE RACER | 3.00% | ~10,351 |
+| IT'S A LONG WAY TO THE TOP | 2.00% | ~6,901 |
+| A TIGER'S FEAR | 2.00% | ~6,901 |
 | TRAINING HARD | 1.00% | ~3,450 |
 | RELEASE THE KRAKEN | 1.00% | ~3,450 |
 | BE OUR GUEST | 1.00% | ~3,450 |
@@ -30,8 +30,8 @@ Rating: 4.40 (Ranked 746)
 | FRAMED! | 0.50% | ~1,725 |
 | ACE TRICKSTER | 0.50% | ~1,725 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 344,982 (Ranked 50)  
-Completed: 938 (0.27%) (Ranked 252)  
+Progressed: 345,046 (Ranked 50)  
+Completed: 939 (0.27%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -268,16 +268,16 @@ Completed: 938 (0.27%) (Ranked 252)
 | 2023-12-15 | 340,579 | 818 |
 | 2023-12-16 | 342,463 | 875 |
 | 2023-12-17 | 344,133 | 919 |
-| 2023-12-18 | 344,982 | 938 |
+| 2023-12-18 | 345,046 | 939 |
 ## Awards
 Max (Great for Beginners): 138  (Ranked 328)  
-Sum: 920 (Ranked 272)  
+Sum: 922 (Ranked 272)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 138 |
 | This game is Great for Quick Sessions | 121 |
-| This game has Diverse Characters | 104 |
+| This game has Diverse Characters | 106 |
 | This game has a Competitive Community | 81 |
 | This game has Amazing Characters | 73 |
 | This game has Playful Visuals | 68 |
@@ -368,4 +368,4 @@ Diff (max vs sum): 56
 | 2023-12-15 | 4.40 | 135 | 891 |
 | 2023-12-16 | 4.40 | 138 | 900 |
 | 2023-12-17 | 4.40 | 138 | 916 |
-| 2023-12-18 | 4.40 | 138 | 920 |
+| 2023-12-18 | 4.40 | 138 | 922 |

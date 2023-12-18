@@ -24,7 +24,7 @@
 | Spirit of the past | 62.00% | ~259 |
 | Employee of the month | 61.00% | ~254 |
 | Law student | 58.00% | ~242 |
-| Workout professional | 56.00% | ~234 |
+| Workout professional | 57.00% | ~238 |
 | Little hacker | 56.00% | ~234 |
 | Handyman | 56.00% | ~234 |
 | Intriguing candies | 56.00% | ~234 |
@@ -67,9 +67,9 @@
 | Careerist | 30.00% | ~125 |
 | Anyone can resist | 30.00% | ~125 |
 | The last bell ring | 29.00% | ~121 |
+| The only right decision | 28.00% | ~117 |
 | Silver’s past | 27.00% | ~113 |
 | Better cooking at home | 27.00% | ~113 |
-| The only right decision | 27.00% | ~113 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 417 (Ranked 340)  
 Completed: 9 (2.16%) (Ranked 132)  

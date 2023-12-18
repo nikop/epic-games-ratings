@@ -6,9 +6,9 @@
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 350,
-  "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 325,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 251,
+  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
     "PcReleaseDate": "2021-01-28T00:00:00+00:00",
@@ -70,7 +70,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 360,
+  "EOS_Progressed": 361,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
@@ -425,6 +425,11 @@
       "Time": "2023-12-18T15:09:39.9956736+00:00",
       "NumProgressed": 360,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-18T18:10:41.8727759+00:00",
+      "NumProgressed": 361,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -538,9 +543,9 @@
       "ID": "ach-campaign-finish-hard",
       "SetID": "17ih7ma",
       "Name": "Lunatic",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 7
     },
     {
       "ID": "ach-campaign-finish-normal",
@@ -572,15 +577,15 @@
       "Name": "A Strange Artefact",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ach-campaign-story2",
       "SetID": "17ih7ma",
       "Name": "Lost \u0026 Found \u0026 Lost Again",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 152
     },
     {
       "ID": "ach-campaign-story3",
@@ -612,7 +617,7 @@
       "Name": "Cartographer",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ach-discover-locations-high",
@@ -644,7 +649,7 @@
       "Name": "Red Flag Pirate",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ach-find-treasure-high",
@@ -660,7 +665,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ach-hardExpeditions",
@@ -724,7 +729,7 @@
       "Name": "Shennong Herbalist",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ach-maxClubLevel-american",
@@ -764,15 +769,15 @@
       "Name": "Spooky!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ach-noEquipment",
       "SetID": "17ih7ma",
       "Name": "Look Ma, No Equipment!",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 7
     },
     {
       "ID": "ach-noRest",
@@ -812,7 +817,7 @@
       "Name": "From Whence we Came",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ach-promotion",
@@ -828,7 +833,7 @@
       "Name": "Good Mama",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ach-redElk",
@@ -884,7 +889,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ach-unlockAllLeaders",
@@ -915,7 +920,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 360,
+      "Progressed": 361,
       "Completed": 1
     }
   ],
@@ -923,8 +928,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-12-18T17:09:42.2859638+00:00",
+  "LastChanged_Achievements": "2023-12-18T18:10:41.8727757+00:00",
   "LastUpdate_AppInfo": "2023-12-16T13:57:07.0437312+00:00",
-  "LastUpdate_Ratings": "2023-12-18T16:58:37.6194827+00:00",
-  "LastUpdate_Achievements": "2023-12-18T17:09:42.2860013+00:00"
+  "LastUpdate_Ratings": "2023-12-18T17:59:12.8625781+00:00",
+  "LastUpdate_Achievements": "2023-12-18T18:10:41.8728225+00:00"
 }

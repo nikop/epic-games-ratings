@@ -3,9 +3,9 @@
   "Name": "1428: Shadows over Silesia",
   "ProductSlug": "1428-shadows-over-silesia-266e5f",
   "Ranking_EOS_Progress": 529,
-  "Ranking_EOS_Completed": 382,
-  "Ranking_EOS_NewPlayers": 501,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 383,
+  "Ranking_EOS_NewPlayers": 548,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2022-10-04T11:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 45,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -251,9 +251,9 @@
       "ID": "SOS_AUTHORIZATION",
       "SetID": "6ci4lm2",
       "Name": "Authorization letter",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SOS_BASILISK",
@@ -722,8 +722,8 @@
   ],
   "FirstSeen": "2023-12-02T04:57:46.0113451+00:00",
   "FirstSeenAchievements": "2023-10-30T14:03:47.4515139+00:00",
-  "LastChanged_Achievements": "2023-12-18T17:03:40.7382778+00:00",
-  "LastUpdate_AppInfo": "2023-12-11T16:57:10.7137617+00:00",
-  "LastUpdate_Ratings": "2023-12-18T16:57:56.7481666+00:00",
-  "LastUpdate_Achievements": "2023-12-18T17:03:40.7383226+00:00"
+  "LastChanged_Achievements": "2023-12-18T18:04:20.0077869+00:00",
+  "LastUpdate_AppInfo": "2023-12-18T17:57:03.2546074+00:00",
+  "LastUpdate_Ratings": "2023-12-18T17:58:18.3605034+00:00",
+  "LastUpdate_Achievements": "2023-12-18T18:04:20.0078356+00:00"
 }

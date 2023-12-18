@@ -9,10 +9,10 @@ Rating: 3.56 (Ranked 1,061)
 | Home Is Where the Heart Is | 6.00% | ~115 |
 | Wounded Whispers | 6.00% | ~115 |
 | Catch and Release | 6.00% | ~115 |
+| Ne Plus Ultra | 5.00% | ~96 |
 | Fly Fisher | 5.00% | ~96 |
 | ICU | 5.00% | ~96 |
 | Blood Will Have Blood | 4.00% | ~77 |
-| Ne Plus Ultra | 4.00% | ~77 |
 | Peek-a-boo | 4.00% | ~77 |
 | Throw The First Stone | 4.00% | ~77 |
 | Sucks To Be You | 4.00% | ~77 |
@@ -38,9 +38,9 @@ Rating: 3.56 (Ranked 1,061)
 | Nice Try | 0.90% | ~17 |
 | Check, Please! | 0.80% | ~15 |
 | Blacklight Down | 0.80% | ~15 |
-| Revelations | 0.60% | ~12 |
+| Revelations | 0.70% | ~13 |
+| Curious Finch | 0.70% | ~13 |
 | Block Party | 0.60% | ~12 |
-| Curious Finch | 0.60% | ~12 |
 | Dexterity Save | 0.50% | ~10 |
 | Sisterhood | 0.40% | ~8 |
 | What Lies Below | 0.40% | ~8 |
@@ -73,7 +73,7 @@ Rating: 3.56 (Ranked 1,061)
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,921 (Ranked 235)  
-Completed: 0 (0.00%) (Ranked 382)  
+Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

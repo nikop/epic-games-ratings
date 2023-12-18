@@ -245,6 +245,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Take that, von Habsburgs! | 0.10% | ~479 |
 | Tear Down This Wall | 0.10% | ~479 |
 | That's a Silk Road | 0.10% | ~479 |
+| That's No Mon | 0.10% | ~479 |
 | The Bohemians | 0.10% | ~479 |
 | The Chrysanthemum Throne | 0.10% | ~479 |
 | The Coin is Stronger than the Sword | 0.10% | ~479 |
@@ -353,7 +354,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Sworn Fealty | 0.00% | ~0 |
 | Tatarstan | 0.00% | ~0 |
 | Terra Mariana | 0.00% | ~0 |
-| That's No Mon | 0.00% | ~0 |
 | The Burgundian Conquest | 0.00% | ~0 |
 | The Freest Man in the World | 0.00% | ~0 |
 | The Third Way | 0.00% | ~0 |
@@ -370,8 +370,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 478,588 (Ranked 40)  
-Completed: 1 (0.00%) (Ranked 382)  
+Progressed: 478,624 (Ranked 40)  
+Completed: 1 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -612,7 +612,7 @@ Completed: 1 (0.00%) (Ranked 382)
 | 2023-12-15 | 475,873 | 1 |
 | 2023-12-16 | 477,098 | 1 |
 | 2023-12-17 | 478,131 | 1 |
-| 2023-12-18 | 478,588 | 1 |
+| 2023-12-18 | 478,624 | 1 |
 ## Awards
 Max (Educational): 7,441  (Ranked 54)  
 Sum: 61,367 (Ranked 24)  

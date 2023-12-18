@@ -9,17 +9,17 @@ Rating: 4.64 (Ranked 339)
 | Rail Rat | 29.00% | ~298 |
 | The Mysterious Stranger | 28.00% | ~288 |
 | Immaculate Aim | 24.00% | ~247 |
+| The Brass Boss | 24.00% | ~247 |
 | Make Up For Lost Time | 23.00% | ~236 |
 | Time Flies | 23.00% | ~236 |
 | The Prince in Heels | 23.00% | ~236 |
-| The Brass Boss | 23.00% | ~236 |
 | The Steel Shadow | 22.00% | ~226 |
 | The Harder They Fall | 22.00% | ~226 |
 | No, Thanks! | 22.00% | ~226 |
+| Breaking Down Barriers | 22.00% | ~226 |
 | Honest Mistake | 22.00% | ~226 |
 | Fast Learner | 22.00% | ~226 |
 | Immaculate Aim | 22.00% | ~226 |
-| Breaking Down Barriers | 21.00% | ~216 |
 | The Wicked Twins | 21.00% | ~216 |
 | Right On Time | 20.00% | ~206 |
 | Like Clockwork | 20.00% | ~206 |
@@ -40,9 +40,9 @@ Rating: 4.64 (Ranked 339)
 | Sump Explorer | 11.00% | ~113 |
 | Syron for Hope | 11.00% | ~113 |
 | Factorywood Explorer | 10.00% | ~103 |
+| Fairgrounds Explorer | 10.00% | ~103 |
 | Theater Explorer | 10.00% | ~103 |
 | Cultivair Explorer | 9.00% | ~93 |
-| Fairgrounds Explorer | 9.00% | ~93 |
 | Corin Goes Home | 8.00% | ~82 |
 | Sartorialist | 8.00% | ~82 |
 | Entresol Explorer | 8.00% | ~82 |
@@ -60,7 +60,7 @@ Rating: 4.64 (Ranked 339)
 | Going to Live Forever | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,028 (Ranked 275)  
-Completed: 6 (0.58%) (Ranked 200)  
+Completed: 6 (0.58%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -3,9 +3,9 @@
   "Name": "Thief",
   "ProductSlug": "thief-5bb95f",
   "Ranking_EOS_Progress": 512,
-  "Ranking_EOS_Completed": 382,
+  "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
     "PcReleaseDate": "2014-02-25T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 56,
+  "EOS_Progressed": 57,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -244,6 +244,11 @@
       "Time": "2023-12-18T13:12:39.3392232+00:00",
       "NumProgressed": 56,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T18:06:13.0367555+00:00",
+      "NumProgressed": 57,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-13T17:03:37.6694863+00:00",
@@ -334,7 +339,7 @@
       "ID": "NEW_ACHIEVEMENT_1_18",
       "SetID": "ae95dh3",
       "Name": "Happy Birthday",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -350,7 +355,7 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "ae95dh3",
       "Name": "Quickly Pick a Lucky Lock",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -390,7 +395,7 @@
       "ID": "NEW_ACHIEVEMENT_1_24",
       "SetID": "ae95dh3",
       "Name": "All That Glitters",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
       "UsersEstimate": 11
     },
@@ -414,7 +419,7 @@
       "ID": "NEW_ACHIEVEMENT_1_27",
       "SetID": "ae95dh3",
       "Name": "The Drop",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 5,
       "UsersEstimate": 40
     },
@@ -422,7 +427,7 @@
       "ID": "NEW_ACHIEVEMENT_1_28",
       "SetID": "ae95dh3",
       "Name": "Lockdown",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 5,
       "UsersEstimate": 23
     },
@@ -430,7 +435,7 @@
       "ID": "NEW_ACHIEVEMENT_1_29",
       "SetID": "ae95dh3",
       "Name": "Dust to Dust",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 7
     },
@@ -551,14 +556,14 @@
     {
       "ID": "ae95dh3",
       "IsBase": true,
-      "Progressed": 56,
+      "Progressed": 57,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2023-12-18T17:05:20.0882149+00:00",
+  "LastChanged_Achievements": "2023-12-18T18:06:13.0367554+00:00",
   "LastUpdate_AppInfo": "2023-12-13T16:57:09.7184739+00:00",
-  "LastUpdate_Ratings": "2023-12-18T16:59:24.6913569+00:00",
-  "LastUpdate_Achievements": "2023-12-18T17:05:20.0882404+00:00"
+  "LastUpdate_Ratings": "2023-12-18T18:00:18.148831+00:00",
+  "LastUpdate_Achievements": "2023-12-18T18:06:13.036773+00:00"
 }

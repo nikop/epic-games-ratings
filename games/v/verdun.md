@@ -6,17 +6,17 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~52,043 |
-| Worth it | 63.00% | ~42,035 |
-| Eagle Eye | 55.00% | ~36,697 |
-| Corpseman I | 40.00% | ~26,689 |
-| Blast fishing | 37.00% | ~24,687 |
-| Not alone | 32.00% | ~21,351 |
-| Headhunter I | 26.00% | ~17,348 |
-| Manual Labour I | 25.00% | ~16,680 |
-| Developers, Developers, Developers | 24.00% | ~16,013 |
-| Basic Training | 23.00% | ~15,346 |
-| Furchtlos und Treu | 13.00% | ~8,674 |
+| Setting an example | 78.00% | ~52,047 |
+| Worth it | 63.00% | ~42,038 |
+| Eagle Eye | 55.00% | ~36,700 |
+| Corpseman I | 40.00% | ~26,691 |
+| Blast fishing | 37.00% | ~24,689 |
+| Not alone | 32.00% | ~21,353 |
+| Headhunter I | 26.00% | ~17,349 |
+| Manual Labour I | 25.00% | ~16,682 |
+| Developers, Developers, Developers | 24.00% | ~16,014 |
+| Basic Training | 23.00% | ~15,347 |
+| Furchtlos und Treu | 13.00% | ~8,675 |
 | Gott Mit Uns | 12.00% | ~8,007 |
 | This We'll Defend! | 9.00% | ~6,005 |
 | Anker wirf! | 9.00% | ~6,005 |
@@ -41,8 +41,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | In My Defens God Me Defend | 3.00% | ~2,002 |
 | Silver x100 | 3.00% | ~2,002 |
 | Impavidum Ferient Bella! | 3.00% | ~2,002 |
-| Bronze x100 | 2.00% | ~1,334 |
-| Shoot, Cover, Reload, Repeat | 2.00% | ~1,334 |
+| Bronze x100 | 2.00% | ~1,335 |
+| Shoot, Cover, Reload, Repeat | 2.00% | ~1,335 |
 | Gold x100 | 1.00% | ~667 |
 | Hunting the Hun | 1.00% | ~667 |
 | #1 | 1.00% | ~667 |
@@ -66,8 +66,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~67 |
 | Blood Brother | 0.10% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,722 (Ranked 109)  
-Completed: 4 (0.01%) (Ranked 358)  
+Progressed: 66,727 (Ranked 109)  
+Completed: 4 (0.01%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -308,7 +308,7 @@ Completed: 4 (0.01%) (Ranked 358)
 | 2023-12-15 | 66,434 | 4 |
 | 2023-12-16 | 66,554 | 4 |
 | 2023-12-17 | 66,676 | 4 |
-| 2023-12-18 | 66,722 | 4 |
+| 2023-12-18 | 66,727 | 4 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 363)  
 Sum: 821 (Ranked 282)  

@@ -5,30 +5,30 @@ Rating: 4.29 (Ranked 856)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~164,337 |
+| Corner Clout | 46.00% | ~164,339 |
 | Copacetic Coordination | 16.00% | ~57,161 |
-| Fronting the Money | 15.00% | ~53,588 |
+| Fronting the Money | 15.00% | ~53,589 |
 | The Dawn of Automation | 14.00% | ~50,016 |
 | Extraordinary Logistics | 14.00% | ~50,016 |
-| Dirty Money | 13.00% | ~46,443 |
-| Family First | 13.00% | ~46,443 |
+| Dirty Money | 13.00% | ~46,444 |
+| Family First | 13.00% | ~46,444 |
 | Cleaning House | 12.00% | ~42,871 |
 | Room in the Back | 12.00% | ~42,871 |
 | Beating the Heat | 11.00% | ~39,298 |
 | Booze Baron | 11.00% | ~39,298 |
 | Friends on the Force | 10.00% | ~35,726 |
 | Neighborhood Watch | 10.00% | ~35,726 |
-| Core Corps | 8.00% | ~28,580 |
-| Sizeable Stash | 8.00% | ~28,580 |
+| Core Corps | 8.00% | ~28,581 |
+| Sizeable Stash | 8.00% | ~28,581 |
 | Street Fighter | 7.00% | ~25,008 |
 | Friendly Gestures | 7.00% | ~25,008 |
 | People Person | 7.00% | ~25,008 |
-| Liquor Lord | 6.00% | ~21,435 |
-| Safety in Numbers | 6.00% | ~21,435 |
-| Moving Experiences | 6.00% | ~21,435 |
-| Wise Head | 6.00% | ~21,435 |
-| Show ‘em the Sugar | 6.00% | ~21,435 |
-| Killing Them Softly | 6.00% | ~21,435 |
+| Liquor Lord | 6.00% | ~21,436 |
+| Safety in Numbers | 6.00% | ~21,436 |
+| Moving Experiences | 6.00% | ~21,436 |
+| Wise Head | 6.00% | ~21,436 |
+| Show ‘em the Sugar | 6.00% | ~21,436 |
+| Killing Them Softly | 6.00% | ~21,436 |
 | Street Knowledge | 5.00% | ~17,863 |
 | Oh Captain | 5.00% | ~17,863 |
 | Branching Out | 5.00% | ~17,863 |
@@ -86,8 +86,8 @@ Rating: 4.29 (Ranked 856)
 | High Pillow | 0.10% | ~357 |
 | Station Master | 0.10% | ~357 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 357,255 (Ranked 49)  
-Completed: 7 (0.00%) (Ranked 382)  
+Progressed: 357,259 (Ranked 49)  
+Completed: 7 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -328,11 +328,11 @@ Completed: 7 (0.00%) (Ranked 382)
 | 2023-12-15 | 356,779 | 7 |
 | 2023-12-16 | 356,959 | 7 |
 | 2023-12-17 | 357,141 | 7 |
-| 2023-12-18 | 357,255 | 7 |
+| 2023-12-18 | 357,259 | 7 |
 ## Awards
 Max (Great for Beginners): 55  (Ranked 429)  
-Sum: 255 (Ranked 386)  
-Diff (max vs sum): 43  
+Sum: 255 (Ranked 387)  
+Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 55 |

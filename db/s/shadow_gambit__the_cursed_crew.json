@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 120,
   "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -149,9 +149,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1203,
+  "EOS_Progressed": 1205,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.66,
   "EosHistory": [
@@ -4054,6 +4054,11 @@
       "Time": "2023-12-18T16:03:41.6458147+00:00",
       "NumProgressed": 1203,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-12-18T18:03:40.0835967+00:00",
+      "NumProgressed": 1205,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4074,15 +4079,15 @@
       "Name": "A New Journey",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 589
+      "UsersEstimate": 602
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -4090,7 +4095,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "_05_FinishAct2",
@@ -4098,7 +4103,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -4122,7 +4127,7 @@
       "Name": "Swabbie",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "_09_Completion_20",
@@ -4146,7 +4151,7 @@
       "Name": "Seadog",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "_12_Completion_50",
@@ -4194,7 +4199,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -4210,7 +4215,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -4226,7 +4231,7 @@
       "Name": "Tobacco Travesty",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -4250,7 +4255,7 @@
       "Name": "Jaded Judge",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -4258,7 +4263,7 @@
       "Name": "Rustic Recipe",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -4273,7 +4278,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1203,
+      "Progressed": 1205,
       "Completed": 32
     }
   ],
@@ -4281,8 +4286,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-13T23:58:37.390497+00:00",
-  "LastChanged_Achievements": "2023-12-18T17:03:08.7820799+00:00",
+  "LastChanged_Achievements": "2023-12-18T18:03:40.0835966+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:17.2609478+00:00",
-  "LastUpdate_Ratings": "2023-12-18T17:00:25.1179068+00:00",
-  "LastUpdate_Achievements": "2023-12-18T17:03:08.7821295+00:00"
+  "LastUpdate_Ratings": "2023-12-18T18:02:40.9965911+00:00",
+  "LastUpdate_Achievements": "2023-12-18T18:03:40.083629+00:00"
 }

@@ -13,12 +13,12 @@ Number of Ratings: 209  (23.09.2022)
 | High Jump | 96.00% | ~2,278 |
 | Knee bending | 96.00% | ~2,278 |
 | Pickaxe | 94.00% | ~2,231 |
+| Force Beam | 93.00% | ~2,207 |
 | Entered Cage Town | 93.00% | ~2,207 |
 | Stone Pickaxe | 93.00% | ~2,207 |
 | Revenge | 93.00% | ~2,207 |
 | Cage Town | 93.00% | ~2,207 |
 | Surprise | 93.00% | ~2,207 |
-| Force Beam | 92.00% | ~2,183 |
 | Industrial Area | 90.00% | ~2,136 |
 | Magnet | 90.00% | ~2,136 |
 | Magnet Repel | 88.00% | ~2,088 |
@@ -28,10 +28,10 @@ Number of Ratings: 209  (23.09.2022)
 | Banking District | 86.00% | ~2,041 |
 | Arrested | 86.00% | ~2,041 |
 | Zappy Gun | 86.00% | ~2,041 |
+| Got your own one now | 86.00% | ~2,041 |
 | Mission Unlikely | 86.00% | ~2,041 |
-| Got your own one now | 85.00% | ~2,017 |
 | Don't draw dicks pls | 85.00% | ~2,017 |
-| Ripped | 84.00% | ~1,993 |
+| Ripped | 85.00% | ~2,017 |
 | Beat the big arena | 83.00% | ~1,970 |
 | Force Cube | 82.00% | ~1,946 |
 | Got Battery | 81.00% | ~1,922 |
@@ -43,7 +43,7 @@ Number of Ratings: 209  (23.09.2022)
 | Killed them all | 76.00% | ~1,803 |
 | Win | 76.00% | ~1,803 |
 | Greenhouse | 72.00% | ~1,709 |
-| Played with fire | 70.00% | ~1,661 |
+| Played with fire | 71.00% | ~1,685 |
 | You feel very sorry | 70.00% | ~1,661 |
 | No Match for you | 65.00% | ~1,542 |
 | Bouncy | 62.00% | ~1,471 |

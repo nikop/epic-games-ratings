@@ -6,8 +6,8 @@
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 93,
-  "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_Completed": 221,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
@@ -494,9 +494,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 95926,
+  "EOS_Progressed": 95930,
   "EOS_Completed": 436,
-  "EOS_NewPlayers": 698,
+  "EOS_NewPlayers": 699,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -27414,6 +27414,11 @@
       "Time": "2023-12-18T17:08:46.3767624+00:00",
       "NumProgressed": 95926,
       "NumCompleted": 436
+    },
+    {
+      "Time": "2023-12-18T18:09:30.3770543+00:00",
+      "NumProgressed": 95930,
+      "NumCompleted": 436
     }
   ],
   "TotalAchievements": 10,
@@ -27449,7 +27454,7 @@
       "Name": "Forest Drawings",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "Drawings04",
@@ -27489,7 +27494,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 33574
+      "UsersEstimate": 33576
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -27504,15 +27509,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 95926,
+      "Progressed": 95930,
       "Completed": 436
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-12-07T22:03:08.3516808+00:00",
-  "LastChanged_Achievements": "2023-12-18T17:08:46.3767619+00:00",
+  "LastChanged_Achievements": "2023-12-18T18:09:30.377054+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:55.6943357+00:00",
-  "LastUpdate_Ratings": "2023-12-18T17:02:57.3689337+00:00",
-  "LastUpdate_Achievements": "2023-12-18T17:08:46.3769072+00:00"
+  "LastUpdate_Ratings": "2023-12-18T18:03:23.239383+00:00",
+  "LastUpdate_Achievements": "2023-12-18T18:09:30.3771901+00:00"
 }

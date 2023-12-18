@@ -2,9 +2,9 @@
   "ID": "artemisia",
   "Name": "Artemisia",
   "Ranking_EOS_Progress": 809,
-  "Ranking_EOS_Completed": 382,
-  "Ranking_EOS_NewPlayers": 549,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 383,
+  "Ranking_EOS_NewPlayers": 548,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:31:57.0131841+00:00",
-  "LastUpdate_Ratings": "2023-12-18T16:58:49.1863803+00:00",
-  "LastUpdate_Achievements": "2023-12-18T17:05:43.9264122+00:00"
+  "LastUpdate_Ratings": "2023-12-18T17:59:28.6688466+00:00",
+  "LastUpdate_Achievements": "2023-12-18T18:06:57.8871711+00:00"
 }

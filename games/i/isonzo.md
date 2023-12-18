@@ -6,28 +6,28 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tutti Eroi! | 51.00% | ~4,833 |
-| You Shall Not Pass | 51.00% | ~4,833 |
-| Peak Performance | 46.00% | ~4,359 |
-| Avanti Savoia! | 44.00% | ~4,169 |
+| Tutti Eroi! | 51.00% | ~4,834 |
+| You Shall Not Pass | 51.00% | ~4,834 |
+| Peak Performance | 46.00% | ~4,360 |
+| Avanti Savoia! | 44.00% | ~4,170 |
 | Mamma Mia! | 35.00% | ~3,317 |
-| Conrad von Hotzensocks | 32.00% | ~3,032 |
-| Gabriele D'Annunzio | 32.00% | ~3,032 |
+| Conrad von Hotzensocks | 32.00% | ~3,033 |
+| Gabriele D'Annunzio | 32.00% | ~3,033 |
 | Silver Lining | 27.00% | ~2,559 |
 | Aurelio Baruzzi | 21.00% | ~1,990 |
-| Decimation | 20.00% | ~1,895 |
-| Donatello | 19.00% | ~1,800 |
-| Insubordination | 19.00% | ~1,800 |
-| The Italian Job | 19.00% | ~1,800 |
-| Veni Vidi Vici | 19.00% | ~1,800 |
+| Decimation | 20.00% | ~1,896 |
+| Donatello | 19.00% | ~1,801 |
+| Insubordination | 19.00% | ~1,801 |
+| The Italian Job | 19.00% | ~1,801 |
+| Veni Vidi Vici | 19.00% | ~1,801 |
 | Ragazzi del '99 | 17.00% | ~1,611 |
 | Luigi Cadorna | 16.00% | ~1,516 |
 | The Lion of the Isonzo | 14.00% | ~1,327 |
 | Uomo Universale | 13.00% | ~1,232 |
 | Dirty Dozen | 12.00% | ~1,137 |
 | Shaken, Not Stirred | 12.00% | ~1,137 |
-| Die Bosniaken Kommen! | 11.00% | ~1,042 |
-| Machiavelli | 11.00% | ~1,042 |
+| Die Bosniaken Kommen! | 11.00% | ~1,043 |
+| Machiavelli | 11.00% | ~1,043 |
 | The Devil's Paintbrush | 10.00% | ~948 |
 | Thus With A Kiss | 10.00% | ~948 |
 | Dante's Inferno | 9.00% | ~853 |
@@ -52,8 +52,8 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~38 |
 | Can I Go Home Now? | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,476 (Ranked 174)  
-Completed: 10 (0.11%) (Ranked 296)  
+Progressed: 9,478 (Ranked 174)  
+Completed: 10 (0.11%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -288,7 +288,7 @@ Completed: 10 (0.11%) (Ranked 296)
 | 2023-12-15 | 9,400 | 10 |
 | 2023-12-16 | 9,436 | 10 |
 | 2023-12-17 | 9,466 | 10 |
-| 2023-12-18 | 9,476 | 10 |
+| 2023-12-18 | 9,478 | 10 |
 ## Awards
 Max (Diverse Characters): 39  (Ranked 467)  
 Sum: 327 (Ranked 363)  

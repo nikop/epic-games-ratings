@@ -6,9 +6,9 @@
   "Ranking_Popularity": 279,
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 155,
-  "Ranking_EOS_Completed": 343,
-  "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 344,
+  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2160,9 +2160,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15821,
+  "EOS_Progressed": 15823,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17890,6 +17890,11 @@
       "Time": "2023-12-18T17:09:10.4210792+00:00",
       "NumProgressed": 15821,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-18T18:10:01.9529049+00:00",
+      "NumProgressed": 15823,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -18333,7 +18338,7 @@
       "Name": "Explorer",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -18813,7 +18818,7 @@
       "Name": "Friendly Family",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
@@ -20636,21 +20641,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15821,
+      "Progressed": 15823,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15821,
+      "Progressed": 15823,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-18T02:26:39.2860853+00:00",
-  "LastChanged_Achievements": "2023-12-18T17:09:10.4210788+00:00",
+  "LastChanged_Achievements": "2023-12-18T18:10:01.9529048+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:47.4773202+00:00",
-  "LastUpdate_Ratings": "2023-12-18T17:02:45.1956112+00:00",
-  "LastUpdate_Achievements": "2023-12-18T17:09:10.4220268+00:00"
+  "LastUpdate_Ratings": "2023-12-18T18:03:06.6643435+00:00",
+  "LastUpdate_Achievements": "2023-12-18T18:10:01.953821+00:00"
 }

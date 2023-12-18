@@ -6,9 +6,9 @@
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 318,
-  "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 290,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 236,
+  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -1513,9 +1513,9 @@
       "ID": "01_gettingstarted",
       "SetID": "chb1m60",
       "Name": "Getting started",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 434
+      "UsersEstimate": 439
     },
     {
       "ID": "02_collector",
@@ -1833,8 +1833,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-12-18T07:02:31.8741871+00:00",
-  "LastChanged_Achievements": "2023-12-18T17:04:51.8118287+00:00",
+  "LastChanged_Achievements": "2023-12-18T18:05:36.4963083+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:44.2539038+00:00",
-  "LastUpdate_Ratings": "2023-12-18T16:02:43.3975348+00:00",
-  "LastUpdate_Achievements": "2023-12-18T17:04:51.8118625+00:00"
+  "LastUpdate_Ratings": "2023-12-18T17:57:04.9366323+00:00",
+  "LastUpdate_Achievements": "2023-12-18T18:05:36.4963331+00:00"
 }

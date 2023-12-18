@@ -6,21 +6,21 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~311,808 |
-| Jeef Skeejj | 44.00% | ~207,872 |
-| Careful planning | 39.00% | ~184,250 |
+| The Shutdown | 66.00% | ~311,810 |
+| Jeef Skeejj | 44.00% | ~207,873 |
+| Careful planning | 39.00% | ~184,251 |
 | Second Coming | 34.00% | ~160,629 |
-| Jeef Skagg | 30.00% | ~141,731 |
-| Mother | 25.00% | ~118,109 |
+| Jeef Skagg | 30.00% | ~141,732 |
+| Mother | 25.00% | ~118,110 |
 | In space, no one can hear you scream | 24.00% | ~113,385 |
-| Chapter I: Echoes | 22.00% | ~103,936 |
-| Excelsior Rule | 22.00% | ~103,936 |
-| Things persisted in not being what they seemed | 20.00% | ~94,487 |
+| Chapter I: Echoes | 22.00% | ~103,937 |
+| Excelsior Rule | 22.00% | ~103,937 |
+| Things persisted in not being what they seemed | 20.00% | ~94,488 |
 | Knightmare Frames | 15.00% | ~70,866 |
 | May His passing cleanse the world | 15.00% | ~70,866 |
 | Chapter II: Fallible Flesh | 15.00% | ~70,866 |
 | Pope Zenon | 15.00% | ~70,866 |
-| Plan for the worst | 12.00% | ~56,692 |
+| Plan for the worst | 12.00% | ~56,693 |
 | Tetsuo | 11.00% | ~51,968 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~47,244 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~37,795 |
@@ -86,8 +86,8 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~16 |
 | Kronos Rule | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 472,437 (Ranked 42)  
-Completed: 20 (0.00%) (Ranked 382)  
+Progressed: 472,439 (Ranked 42)  
+Completed: 20 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -328,11 +328,11 @@ Completed: 20 (0.00%) (Ranked 382)
 | 2023-12-15 | 472,301 | 20 |
 | 2023-12-16 | 472,356 | 20 |
 | 2023-12-17 | 472,410 | 20 |
-| 2023-12-18 | 472,437 | 20 |
+| 2023-12-18 | 472,439 | 20 |
 ## Awards
 Max (Character Customization): 226  (Ranked 281)  
-Sum: 250 (Ranked 387)  
-Diff (max vs sum): -106  
+Sum: 250 (Ranked 388)  
+Diff (max vs sum): -107  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 226 |

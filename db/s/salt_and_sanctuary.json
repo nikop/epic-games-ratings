@@ -6,9 +6,9 @@
   "Ranking_Popularity": 257,
   "Ranking_PopularitySum": 215,
   "Ranking_EOS_Progress": 34,
-  "Ranking_EOS_Completed": 247,
+  "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
     "PcReleaseDate": "2016-05-17T16:00:00+00:00",
@@ -2868,10 +2868,10 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 541219,
-  "EOS_Completed": 1648,
-  "EOS_NewPlayers": 692,
-  "EOS_NewCompleters": 7,
+  "EOS_Progressed": 541222,
+  "EOS_Completed": 1649,
+  "EOS_NewPlayers": 694,
+  "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -29633,6 +29633,11 @@
       "Time": "2023-12-18T17:04:56.549197+00:00",
       "NumProgressed": 541219,
       "NumCompleted": 1648
+    },
+    {
+      "Time": "2023-12-18T18:05:42.8105518+00:00",
+      "NumProgressed": 541222,
+      "NumCompleted": 1649
     }
   ],
   "TotalAchievements": 37,
@@ -29644,7 +29649,7 @@
       "Name": "Branded",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 70358
+      "UsersEstimate": 70359
     },
     {
       "ID": "COASTROCK",
@@ -29660,7 +29665,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 167778
+      "UsersEstimate": 167779
     },
     {
       "ID": "DEVOTED",
@@ -29700,7 +29705,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 449212
+      "UsersEstimate": 449214
     },
     {
       "ID": "HONED",
@@ -29756,7 +29761,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 216488
+      "UsersEstimate": 216489
     },
     {
       "ID": "THE_CASTLE",
@@ -29844,7 +29849,7 @@
       "Name": "The Mire",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 37885
+      "UsersEstimate": 37886
     },
     {
       "ID": "THE_PALACE",
@@ -29892,7 +29897,7 @@
       "Name": "The Stone Roots",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 37885
+      "UsersEstimate": 37886
     },
     {
       "ID": "THE_THREE",
@@ -29900,7 +29905,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 346380
+      "UsersEstimate": 346382
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -29916,7 +29921,7 @@
       "Name": "The Village",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 92007
+      "UsersEstimate": 92008
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -29939,15 +29944,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 541219,
-      "Completed": 1648
+      "Progressed": 541222,
+      "Completed": 1649
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-12-17T11:59:11.0107157+00:00",
-  "LastChanged_Achievements": "2023-12-18T17:04:56.5491958+00:00",
+  "LastChanged_Achievements": "2023-12-18T18:05:42.8105515+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:36.3607432+00:00",
-  "LastUpdate_Ratings": "2023-12-18T16:59:07.1337973+00:00",
-  "LastUpdate_Achievements": "2023-12-18T17:04:56.5493617+00:00"
+  "LastUpdate_Ratings": "2023-12-18T17:59:54.331491+00:00",
+  "LastUpdate_Achievements": "2023-12-18T18:05:42.8106999+00:00"
 }

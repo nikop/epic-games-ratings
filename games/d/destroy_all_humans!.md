@@ -6,30 +6,30 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lie Back and Think of Albion | 73.00% | ~8 |
-| Kaijuiced | 55.00% | ~6 |
-| Lobster Blisque | 55.00% | ~6 |
-| Yettisoned | 45.00% | ~5 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 45.00% | ~5 |
-| I Look Up As I Walk to Takoshima | 36.00% | ~4 |
-| Freshly Squeezed | 36.00% | ~4 |
-| Forbidden Donut | 27.00% | ~3 |
-| Upgreatest | 27.00% | ~3 |
-| Perfect Probulator | 27.00% | ~3 |
-| Trans-Siberian Express | 27.00% | ~3 |
-| Fly Me to the Moon Base | 18.00% | ~2 |
-| Re-Return of the Clone of the Invasion II-2 | 18.00% | ~2 |
-| Ducks in a Row, Fish in a Barrel | 18.00% | ~2 |
-| Arkvoodle Doodle | 9.00% | ~1 |
-| Deincarnated | 9.00% | ~1 |
-| Rock of the Bay | 9.00% | ~1 |
-| Furon Fashion | 9.00% | ~1 |
-| Path of the Furon | 9.00% | ~1 |
-| Earthly Pleasures | 9.00% | ~1 |
-| Die Nasty | 9.00% | ~1 |
-| Hidden Human Hive Harvest | 9.00% | ~1 |
-| Mash Machine | 9.00% | ~1 |
-| Dusted | 9.00% | ~1 |
+| Lie Back and Think of Albion | 69.00% | ~9 |
+| Kaijuiced | 54.00% | ~7 |
+| Lobster Blisque | 54.00% | ~7 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 46.00% | ~6 |
+| Yettisoned | 38.00% | ~5 |
+| I Look Up As I Walk to Takoshima | 38.00% | ~5 |
+| Freshly Squeezed | 31.00% | ~4 |
+| Forbidden Donut | 23.00% | ~3 |
+| Upgreatest | 23.00% | ~3 |
+| Perfect Probulator | 23.00% | ~3 |
+| Trans-Siberian Express | 23.00% | ~3 |
+| Fly Me to the Moon Base | 15.00% | ~2 |
+| Re-Return of the Clone of the Invasion II-2 | 15.00% | ~2 |
+| Ducks in a Row, Fish in a Barrel | 15.00% | ~2 |
+| Arkvoodle Doodle | 8.00% | ~1 |
+| Deincarnated | 8.00% | ~1 |
+| Rock of the Bay | 8.00% | ~1 |
+| Furon Fashion | 8.00% | ~1 |
+| Path of the Furon | 8.00% | ~1 |
+| Earthly Pleasures | 8.00% | ~1 |
+| Die Nasty | 8.00% | ~1 |
+| Hidden Human Hive Harvest | 8.00% | ~1 |
+| Mash Machine | 8.00% | ~1 |
+| Dusted | 8.00% | ~1 |
 | Scuttled | 0.00% | ~0 |
 | Transmitting From Sol-3 | 0.00% | ~0 |
 | Cult Following | 0.00% | ~0 |
@@ -47,12 +47,12 @@ Number of Ratings: 85  (23.09.2022)
 | Bodied Sattva | 0.00% | ~0 |
 | Against All Odds | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11 (Ranked 634)  
-Completed: 0 (0.00%) (Ranked 382)  
+Progressed: 13 (Ranked 622)  
+Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-12-18 | 11 | 0 |
+| 2023-12-18 | 13 | 0 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 489)  
 Sum: 34 (Ranked 515)  

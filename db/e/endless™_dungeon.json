@@ -3,9 +3,9 @@
   "Name": "ENDLESS\u2122 Dungeon",
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 253,
-  "Ranking_EOS_Completed": 382,
-  "Ranking_EOS_NewPlayers": 280,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 383,
+  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1343,
+  "EOS_Progressed": 1344,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2670,6 +2670,11 @@
       "Time": "2023-12-18T06:06:09.5917379+00:00",
       "NumProgressed": 1343,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T18:08:02.2163606+00:00",
+      "NumProgressed": 1344,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -2826,7 +2831,7 @@
       "Name": "Hoarder",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -2921,14 +2926,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1343,
+      "Progressed": 1344,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-12-18T17:06:19.3455981+00:00",
+  "LastChanged_Achievements": "2023-12-18T18:08:02.2163604+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.7212713+00:00",
-  "LastUpdate_Ratings": "2023-12-18T16:58:12.2987824+00:00",
-  "LastUpdate_Achievements": "2023-12-18T17:06:19.3456259+00:00"
+  "LastUpdate_Ratings": "2023-12-18T17:58:37.9973531+00:00",
+  "LastUpdate_Achievements": "2023-12-18T18:08:02.2163825+00:00"
 }

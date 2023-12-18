@@ -6,7 +6,7 @@
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 152,
-  "Ranking_EOS_Completed": 255,
+  "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16755,
+  "EOS_Progressed": 16760,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 698,
+  "EOS_NewPlayers": 703,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -14294,6 +14294,11 @@
       "Time": "2023-12-18T17:03:45.9344002+00:00",
       "NumProgressed": 16755,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-12-18T18:04:26.5651763+00:00",
+      "NumProgressed": 16760,
+      "NumCompleted": 44
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14386,7 +14391,7 @@
       "Name": "Martian Music",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1340
+      "UsersEstimate": 1341
     },
     {
       "ID": "2",
@@ -14410,7 +14415,7 @@
       "Name": "Drone Dodger",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1340
+      "UsersEstimate": 1341
     },
     {
       "ID": "22",
@@ -14426,7 +14431,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "24",
@@ -14450,7 +14455,7 @@
       "Name": "Call it Even",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "27",
@@ -14570,7 +14575,7 @@
       "Name": "Master Negotiator",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "35",
@@ -14585,13 +14590,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16755,
+      "Progressed": 16760,
       "Completed": 44
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2709,
+      "Progressed": 2714,
       "Completed": 940
     }
   ],
@@ -14599,8 +14604,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-17T22:59:50.8326927+00:00",
-  "LastChanged_Achievements": "2023-12-18T17:03:45.9343997+00:00",
+  "LastChanged_Achievements": "2023-12-18T18:04:26.5651761+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:40.0929133+00:00",
-  "LastUpdate_Ratings": "2023-12-18T16:59:15.987493+00:00",
-  "LastUpdate_Achievements": "2023-12-18T17:03:45.9344879+00:00"
+  "LastUpdate_Ratings": "2023-12-18T18:00:06.0508331+00:00",
+  "LastUpdate_Achievements": "2023-12-18T18:04:26.5652671+00:00"
 }

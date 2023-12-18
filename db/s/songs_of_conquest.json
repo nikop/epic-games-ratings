@@ -6,9 +6,9 @@
   "Ranking_Popularity": 520,
   "Ranking_PopularitySum": 412,
   "Ranking_EOS_Progress": 324,
-  "Ranking_EOS_Completed": 382,
+  "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 549,
+  "EOS_Progressed": 550,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2238,6 +2238,11 @@
       "Time": "2023-12-18T16:08:42.4194703+00:00",
       "NumProgressed": 549,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T18:08:54.2303836+00:00",
+      "NumProgressed": 550,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2322,7 +2327,7 @@
       "Name": "Versatile Wielder",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ChainLightningKills",
@@ -2426,7 +2431,7 @@
       "Name": "Infernal Influence",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "KillingSpree",
@@ -2458,7 +2463,7 @@
       "Name": "Multi Kill",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "MultiplayerWins",
@@ -2522,7 +2527,7 @@
       "Name": "Such A Fungi",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "SorcerousSpree",
@@ -2530,7 +2535,7 @@
       "Name": "Sorcerous Spree",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -2570,7 +2575,7 @@
       "Name": "Ultra Kill",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "WielderLevel1",
@@ -2586,7 +2591,7 @@
       "Name": "Veteran",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "WielderLevel3",
@@ -2602,7 +2607,7 @@
       "Name": "Grand Master",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "WinBattleBeforeEnemyTurn",
@@ -2634,7 +2639,7 @@
       "Name": "Veni, Vidi, Vici",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "WinSiegeAsDefender",
@@ -2681,15 +2686,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 549,
+      "Progressed": 550,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-18T17:08:18.651488+00:00",
+  "LastChanged_Achievements": "2023-12-18T18:08:54.2303833+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:10.4027668+00:00",
-  "LastUpdate_Ratings": "2023-12-18T16:02:42.4482986+00:00",
-  "LastUpdate_Achievements": "2023-12-18T17:08:18.6515623+00:00"
+  "LastUpdate_Ratings": "2023-12-18T17:57:04.0898913+00:00",
+  "LastUpdate_Achievements": "2023-12-18T18:08:54.2304323+00:00"
 }

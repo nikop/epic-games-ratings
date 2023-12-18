@@ -6,7 +6,7 @@
   "Ranking_Popularity": 228,
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 147,
-  "Ranking_EOS_Completed": 265,
+  "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 3751,
   "Store": {
@@ -3491,9 +3491,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18592,
+  "EOS_Progressed": 18597,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 654,
+  "EOS_NewPlayers": 656,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16206,6 +16206,11 @@
       "Time": "2023-12-18T17:05:20.5295729+00:00",
       "NumProgressed": 18592,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-18T18:06:13.618114+00:00",
+      "NumProgressed": 18597,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16344,9 +16349,9 @@
       "ID": "WinNearBarren",
       "SetID": "cfbk359",
       "Name": "Barren Lands",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 167
     },
     {
       "ID": "WinNearBattleground",
@@ -16392,17 +16397,17 @@
       "ID": "WinNearForbidden",
       "SetID": "cfbk359",
       "Name": "Forbidden Lands",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 74
     },
     {
       "ID": "WinNearHaunted",
       "SetID": "cfbk359",
       "Name": "Haunted Forest",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 149
     },
     {
       "ID": "WinNearLevitating",
@@ -16689,15 +16694,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18592,
+      "Progressed": 18597,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-18T15:58:52.7202576+00:00",
-  "LastChanged_Achievements": "2023-12-18T17:05:20.5295725+00:00",
+  "LastChanged_Achievements": "2023-12-18T18:06:13.6181138+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
-  "LastUpdate_Ratings": "2023-12-18T16:58:17.7002289+00:00",
-  "LastUpdate_Achievements": "2023-12-18T17:05:20.5296559+00:00"
+  "LastUpdate_Ratings": "2023-12-18T17:58:45.0158813+00:00",
+  "LastUpdate_Achievements": "2023-12-18T18:06:13.6182103+00:00"
 }

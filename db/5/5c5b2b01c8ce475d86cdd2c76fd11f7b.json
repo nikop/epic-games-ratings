@@ -2,10 +2,10 @@
   "ID": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
   "Name": "Deus Ex - Mankind Divided",
   "ProductSlug": "deus-ex-mankind-divided-4c6370",
-  "Ranking_EOS_Progress": 558,
-  "Ranking_EOS_Completed": 382,
+  "Ranking_EOS_Progress": 556,
+  "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
     "PcReleaseDate": "2016-08-23T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 30,
+  "EOS_Progressed": 31,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -169,6 +169,11 @@
       "Time": "2023-12-18T11:06:42.4582955+00:00",
       "NumProgressed": 30,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T18:06:19.2018585+00:00",
+      "NumProgressed": 31,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-13T17:03:37.7079864+00:00",
@@ -187,7 +192,7 @@
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "7on801h",
       "Name": "Ghost",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -195,7 +200,7 @@
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "7on801h",
       "Name": "Singh No Swan Song",
-      "Percentage": 37,
+      "Percentage": 35,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -227,7 +232,7 @@
       "ID": "NEW_ACHIEVEMENT_1_15",
       "SetID": "7on801h",
       "Name": "The Golden Rookery",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -243,7 +248,7 @@
       "ID": "NEW_ACHIEVEMENT_1_17",
       "SetID": "7on801h",
       "Name": "The Net Is Vast and Infinite",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -251,7 +256,7 @@
       "ID": "NEW_ACHIEVEMENT_1_18",
       "SetID": "7on801h",
       "Name": "So Many Cucumbers",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -291,7 +296,7 @@
       "ID": "NEW_ACHIEVEMENT_1_22",
       "SetID": "7on801h",
       "Name": "Humanity \u002B",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
       "UsersEstimate": 8
     },
@@ -299,7 +304,7 @@
       "ID": "NEW_ACHIEVEMENT_1_23",
       "SetID": "7on801h",
       "Name": "And Embrace What You\u0027ve Become",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -371,7 +376,7 @@
       "ID": "NEW_ACHIEVEMENT_1_31",
       "SetID": "7on801h",
       "Name": "Ground Mail Was a Better Option",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -419,7 +424,7 @@
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "7on801h",
       "Name": "A Heated Combination",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -435,7 +440,7 @@
       "ID": "NEW_ACHIEVEMENT_2_1",
       "SetID": "7on801h",
       "Name": "I Can Only Fight Enemies I Can See",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -443,9 +448,9 @@
       "ID": "NEW_ACHIEVEMENT_2_10",
       "SetID": "7on801h",
       "Name": "Handle with Care",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_11",
@@ -467,9 +472,9 @@
       "ID": "NEW_ACHIEVEMENT_2_13",
       "SetID": "7on801h",
       "Name": "Adept of the Metaverse",
-      "Percentage": 23,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_14",
@@ -547,7 +552,7 @@
       "ID": "NEW_ACHIEVEMENT_2_22",
       "SetID": "o6aioj",
       "Name": "Help Desk",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -659,7 +664,7 @@
       "ID": "NEW_ACHIEVEMENT_2_7",
       "SetID": "7on801h",
       "Name": "01011000",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -667,7 +672,7 @@
       "ID": "NEW_ACHIEVEMENT_2_8",
       "SetID": "7on801h",
       "Name": "Cult of Personality",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -828,20 +833,20 @@
     {
       "ID": "7on801h",
       "IsBase": true,
-      "Progressed": 30,
+      "Progressed": 31,
       "Completed": 0
     },
     {
       "ID": "o6aioj",
       "IsBase": false,
-      "Progressed": 30,
+      "Progressed": 31,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2023-12-18T17:05:24.9788603+00:00",
+  "LastChanged_Achievements": "2023-12-18T18:06:19.2018583+00:00",
   "LastUpdate_AppInfo": "2023-12-13T16:57:09.7184844+00:00",
-  "LastUpdate_Ratings": "2023-12-18T16:59:24.5723628+00:00",
-  "LastUpdate_Achievements": "2023-12-18T17:05:24.9789239+00:00"
+  "LastUpdate_Ratings": "2023-12-18T18:00:17.9446476+00:00",
+  "LastUpdate_Achievements": "2023-12-18T18:06:19.2019167+00:00"
 }

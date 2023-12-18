@@ -2,10 +2,10 @@
   "ID": "9de65f6db18c4757a84e639d9a3e5a97",
   "Name": "Vagrus - The Riven Realms",
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
-  "Ranking_EOS_Progress": 395,
-  "Ranking_EOS_Completed": 382,
-  "Ranking_EOS_NewPlayers": 350,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Progress": 394,
+  "Ranking_EOS_Completed": 383,
+  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
     "PcReleaseDate": "2021-10-05T15:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 220,
+  "EOS_Progressed": 221,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -861,6 +861,11 @@
       "Time": "2023-12-18T07:03:54.6159025+00:00",
       "NumProgressed": 220,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T18:04:43.3231123+00:00",
+      "NumProgressed": 221,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -1190,9 +1195,9 @@
       "ID": "Vanilla_FailedContract",
       "SetID": "27kik8p",
       "Name": "Breached",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 27
     },
     {
       "ID": "Vanilla_Finndurarth",
@@ -1424,7 +1429,7 @@
       "Name": "Press-ganged",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "Vanilla_Ratharnak",
@@ -1486,9 +1491,9 @@
       "ID": "Vanilla_SecondChance",
       "SetID": "27kik8p",
       "Name": "A Second Chance",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 126
     },
     {
       "ID": "Vanilla_SecretsBelow",
@@ -1663,7 +1668,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 220,
+      "Progressed": 221,
       "Completed": 0
     }
   ],
@@ -1671,8 +1676,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-12-18T17:04:10.2605587+00:00",
+  "LastChanged_Achievements": "2023-12-18T18:04:43.3231121+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:13.1376509+00:00",
-  "LastUpdate_Ratings": "2023-12-18T16:57:59.7828727+00:00",
-  "LastUpdate_Achievements": "2023-12-18T17:04:10.260652+00:00"
+  "LastUpdate_Ratings": "2023-12-18T17:58:21.6370404+00:00",
+  "LastUpdate_Achievements": "2023-12-18T18:04:43.3231946+00:00"
 }

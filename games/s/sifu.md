@@ -6,27 +6,27 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 3.00% | ~22,039 |
-| The Assault | 2.00% | ~14,693 |
-| Life is your teacher | 2.00% | ~14,693 |
-| Lightning Hands | 2.00% | ~14,693 |
-| The Hateful Pole Fighter | 1.00% | ~7,346 |
-| A Lady's Blood in the Snow | 1.00% | ~7,346 |
-| Stuntmaster | 1.00% | ~7,346 |
-| Street Fighting | 1.00% | ~7,346 |
-| State of constant learning | 1.00% | ~7,346 |
-| Qi Gong: Breath | 1.00% | ~7,346 |
-| Qi Gong: Essence | 1.00% | ~7,346 |
-| Old Child | 1.00% | ~7,346 |
-| Path of the Prospect | 1.00% | ~7,346 |
-| Rumble in the Hangar | 1.00% | ~7,346 |
-| Diligence as a goal | 1.00% | ~439 |
+| The Old Grandmaster | 3.00% | ~22,041 |
+| The Assault | 2.00% | ~14,694 |
+| Life is your teacher | 2.00% | ~14,694 |
+| Lightning Hands | 2.00% | ~14,694 |
+| The Hateful Pole Fighter | 1.00% | ~7,347 |
+| A Lady's Blood in the Snow | 1.00% | ~7,347 |
+| Stuntmaster | 1.00% | ~7,347 |
+| Street Fighting | 1.00% | ~7,347 |
+| State of constant learning | 1.00% | ~7,347 |
+| Qi Gong: Breath | 1.00% | ~7,347 |
+| Qi Gong: Essence | 1.00% | ~7,347 |
+| Old Child | 1.00% | ~7,347 |
+| Path of the Prospect | 1.00% | ~7,347 |
+| Rumble in the Hangar | 1.00% | ~7,347 |
+| Diligence as a goal | 1.00% | ~440 |
 | Lady Wing Chun | 0.90% | ~6,612 |
 | Kill Nil | 0.90% | ~6,612 |
 | Project Arena | 0.90% | ~396 |
-| Furious Fists | 0.80% | ~5,877 |
-| I know Kung-Fu | 0.80% | ~5,877 |
-| Take damage to save time | 0.80% | ~5,877 |
+| Furious Fists | 0.80% | ~5,878 |
+| I know Kung-Fu | 0.80% | ~5,878 |
+| Take damage to save time | 0.80% | ~5,878 |
 | Qi Gong: Mind | 0.70% | ~5,143 |
 | Kung-Fu Tussle | 0.70% | ~5,143 |
 | Fight the way you practice | 0.70% | ~308 |
@@ -48,6 +48,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Martial Artist | 0.20% | ~1,469 |
 | Knowledge Greed | 0.20% | ~1,469 |
 | The Pit Protector | 0.20% | ~1,469 |
+| Be like water my friend | 0.20% | ~1,469 |
 | Come Snap With Me | 0.20% | ~1,469 |
 | Deadly Venom | 0.20% | ~88 |
 | A Touch of Acumen | 0.20% | ~88 |
@@ -56,7 +57,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Healing Memory | 0.10% | ~735 |
 | Master of the Phoenix Eye Fist | 0.10% | ~735 |
 | Ferocity, speed, strength, accuracy | 0.10% | ~735 |
-| Be like water my friend | 0.10% | ~735 |
 | Warriors from the Mountain | 0.10% | ~735 |
 | Secure, Protect, Leave | 0.10% | ~44 |
 | Crouching Tiger | 0.10% | ~44 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~44 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 734,644 (Ranked 24)  
+Progressed: 734,691 (Ranked 24)  
 Completed: 12,956 (1.76%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 12,956 (1.76%) (Ranked 139)
 | 2023-12-15 | 726,562 | 12,953 |
 | 2023-12-16 | 730,184 | 12,954 |
 | 2023-12-17 | 733,014 | 12,955 |
-| 2023-12-18 | 734,644 | 12,956 |
+| 2023-12-18 | 734,691 | 12,956 |
 ## Awards
 Max (Great Boss Battles): 6,957  (Ranked 55)  
 Sum: 12,196 (Ranked 84)  

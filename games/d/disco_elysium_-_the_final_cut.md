@@ -6,28 +6,28 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~37,484 |
-| Biggest Communism Builder | 24.00% | ~32,130 |
-| The World's Most Laughable Centrist | 20.00% | ~26,775 |
-| Il Coppo Del'Arte! | 18.00% | ~24,097 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,420 |
-| Hyperstellar Law Official | 16.00% | ~21,420 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~18,742 |
-| Gurdi-Ball Is Lit | 14.00% | ~18,742 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~17,403 |
-| Truly Rabid *Traditionalist* | 11.00% | ~14,726 |
+| Goodest Of The Good Cops | 28.00% | ~37,486 |
+| Biggest Communism Builder | 24.00% | ~32,131 |
+| The World's Most Laughable Centrist | 20.00% | ~26,776 |
+| Il Coppo Del'Arte! | 18.00% | ~24,098 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,421 |
+| Hyperstellar Law Official | 16.00% | ~21,421 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~18,743 |
+| Gurdi-Ball Is Lit | 14.00% | ~18,743 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~17,404 |
+| Truly Rabid *Traditionalist* | 11.00% | ~14,727 |
 | Unbelievably Boring **** | 9.00% | ~12,049 |
 | The Figurines Won't Win Her Back | 9.00% | ~12,049 |
 | Enemy Of The Physical Realm | 8.00% | ~10,710 |
-| Hardie's Heroes | 6.00% | ~8,032 |
+| Hardie's Heroes | 6.00% | ~8,033 |
 | The Lawbringer | 4.00% | ~5,355 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,355 |
 | The Opener Of The Eighth Seal | 3.00% | ~4,016 |
 | Bother Kim After Hours | 3.00% | ~4,016 |
-| Baddest Of the Bad Cops | 2.00% | ~2,677 |
-| Expert Advanced Remote Viewer | 2.00% | ~2,677 |
-| Recruit Detective Kuuno de Ruyter | 2.00% | ~2,677 |
-| Wheel of Pleasure and Light | 2.00% | ~2,677 |
+| Baddest Of the Bad Cops | 2.00% | ~2,678 |
+| Expert Advanced Remote Viewer | 2.00% | ~2,678 |
+| Recruit Detective Kuuno de Ruyter | 2.00% | ~2,678 |
+| Wheel of Pleasure and Light | 2.00% | ~2,678 |
 | Massive Torque Dork | 1.00% | ~1,339 |
 | Avowed Inframaterialist | 1.00% | ~1,339 |
 | Committee of la Responsabilité | 0.90% | ~1,205 |
@@ -47,8 +47,8 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~134 |
 | What body? | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,873 (Ranked 84)  
-Completed: 28 (0.02%) (Ranked 350)  
+Progressed: 133,879 (Ranked 84)  
+Completed: 28 (0.02%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -289,7 +289,7 @@ Completed: 28 (0.02%) (Ranked 350)
 | 2023-12-15 | 132,724 | 28 |
 | 2023-12-16 | 133,249 | 28 |
 | 2023-12-17 | 133,659 | 28 |
-| 2023-12-18 | 133,873 | 28 |
+| 2023-12-18 | 133,879 | 28 |
 ## Awards
 Max (Character Customization): 748  (Ranked 183)  
 Sum: 1,142 (Ranked 256)  

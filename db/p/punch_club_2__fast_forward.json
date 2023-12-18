@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 132,
   "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1720,9 +1720,9 @@
       "ID": "any_stat_15",
       "SetID": "69co12a",
       "Name": "Workout professional",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 238
     },
     {
       "ID": "any_stat_30",
@@ -2024,9 +2024,9 @@
       "ID": "plug_switch",
       "SetID": "69co12a",
       "Name": "The only right decision",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 117
     },
     {
       "ID": "poisoned_fighter",
@@ -2199,8 +2199,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-12-18T17:08:56.9758061+00:00",
+  "LastChanged_Achievements": "2023-12-18T18:09:44.427711+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:32.3459278+00:00",
-  "LastUpdate_Ratings": "2023-12-18T16:59:42.4980241+00:00",
-  "LastUpdate_Achievements": "2023-12-18T17:08:56.9758567+00:00"
+  "LastUpdate_Ratings": "2023-12-18T18:00:42.9367039+00:00",
+  "LastUpdate_Achievements": "2023-12-18T18:09:44.427757+00:00"
 }

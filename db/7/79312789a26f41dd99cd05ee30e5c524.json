@@ -3,9 +3,9 @@
   "Name": "Aviatrix",
   "ProductSlug": "avi-35e86e",
   "Ranking_EOS_Progress": 740,
-  "Ranking_EOS_Completed": 382,
-  "Ranking_EOS_NewPlayers": 549,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 383,
+  "Ranking_EOS_NewPlayers": 548,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-12T17:00:00+00:00",
     "PcReleaseDate": "2023-12-14T17:00:00+00:00",
@@ -91,8 +91,8 @@
   ],
   "FirstSeen": "2023-12-13T13:59:04.2427837+00:00",
   "FirstSeenAchievements": "2023-11-28T06:08:28.8985409+00:00",
-  "LastChanged_Achievements": "2023-12-18T17:04:57.316291+00:00",
+  "LastChanged_Achievements": "2023-12-18T18:05:43.7624+00:00",
   "LastUpdate_AppInfo": "2023-12-17T09:56:54.6169268+00:00",
-  "LastUpdate_Ratings": "2023-12-18T16:57:46.3815742+00:00",
-  "LastUpdate_Achievements": "2023-12-18T17:04:57.3162947+00:00"
+  "LastUpdate_Ratings": "2023-12-18T17:58:04.0534581+00:00",
+  "LastUpdate_Achievements": "2023-12-18T18:05:43.762405+00:00"
 }

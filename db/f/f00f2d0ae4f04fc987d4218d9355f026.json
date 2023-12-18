@@ -3,9 +3,9 @@
   "Name": "Bio Inc. Redemption",
   "ProductSlug": "bio-inc-redemption-280fe5",
   "Ranking_EOS_Progress": 607,
-  "Ranking_EOS_Completed": 382,
-  "Ranking_EOS_NewPlayers": 340,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 383,
+  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-12T05:00:00+00:00",
     "PcReleaseDate": "2018-03-08T05:00:00+00:00",
@@ -122,9 +122,9 @@
       "ID": "Athlete",
       "SetID": "aaidab7",
       "Name": "Athlete",
-      "Percentage": 6,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "BioIncMaster",
@@ -170,9 +170,9 @@
       "ID": "DiagnosticMaster",
       "SetID": "aaidab7",
       "Name": "Diagnostic Master",
-      "Percentage": 6,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DiagnosticPro",
@@ -186,17 +186,17 @@
       "ID": "DigestiveCollapse",
       "SetID": "aaidab7",
       "Name": "Digestive Collapse",
-      "Percentage": 6,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "HeartAttack",
       "SetID": "aaidab7",
       "Name": "Heart Attack",
-      "Percentage": 18,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ImmuneCollapse",
@@ -377,8 +377,8 @@
   ],
   "FirstSeen": "2023-12-14T22:59:18.6956288+00:00",
   "FirstSeenAchievements": "2023-12-12T04:03:25.1214352+00:00",
-  "LastChanged_Achievements": "2023-12-18T17:05:55.5889915+00:00",
+  "LastChanged_Achievements": "2023-12-18T18:07:13.4063349+00:00",
   "LastUpdate_AppInfo": "2023-12-12T03:57:09.7303206+00:00",
-  "LastUpdate_Ratings": "2023-12-18T17:00:10.0771945+00:00",
-  "LastUpdate_Achievements": "2023-12-18T17:05:55.5890081+00:00"
+  "LastUpdate_Ratings": "2023-12-18T18:01:21.2107967+00:00",
+  "LastUpdate_Achievements": "2023-12-18T18:07:13.4063629+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 371,
+  "Ranking_Rating": 372,
   "Ranking_Popularity": 479,
   "Ranking_PopularitySum": 461,
   "Ranking_EOS_Progress": 190,
-  "Ranking_EOS_Completed": 291,
+  "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -555,9 +555,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5831,
+  "EOS_Progressed": 5834,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 245,
+  "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8400,6 +8400,11 @@
       "Time": "2023-12-18T17:04:22.5243103+00:00",
       "NumProgressed": 5831,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-18T18:04:59.0361624+00:00",
+      "NumProgressed": 5834,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -8419,7 +8424,7 @@
       "Name": "Snap Out of It!",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "11",
@@ -8443,7 +8448,7 @@
       "Name": "The Magic That Empowers Me!",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "14",
@@ -8651,7 +8656,7 @@
       "Name": "Against the Odds",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "38",
@@ -8675,7 +8680,7 @@
       "Name": "The Eternal Court",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "40",
@@ -8691,7 +8696,7 @@
       "Name": "Jack of All Tomes",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "42",
@@ -8747,7 +8752,7 @@
       "Name": "Betrayal Most Foul",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "9",
@@ -8890,13 +8895,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5831,
+      "Progressed": 5834,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5831,
+      "Progressed": 5834,
       "Completed": 7
     }
   ],
@@ -8904,8 +8909,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-14T06:01:52.3312422+00:00",
-  "LastChanged_Achievements": "2023-12-18T17:04:22.5243099+00:00",
+  "LastChanged_Achievements": "2023-12-18T18:04:59.0361622+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.6868317+00:00",
-  "LastUpdate_Ratings": "2023-12-18T16:58:58.1530365+00:00",
-  "LastUpdate_Achievements": "2023-12-18T17:04:22.5243937+00:00"
+  "LastUpdate_Ratings": "2023-12-18T17:59:41.8161024+00:00",
+  "LastUpdate_Achievements": "2023-12-18T18:04:59.0362245+00:00"
 }

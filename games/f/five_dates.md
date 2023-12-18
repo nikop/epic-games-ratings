@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Set Up | 98.00% | ~1,160 |
-| Digital Casanova | 96.00% | ~1,137 |
-| Hold my Beer | 63.00% | ~746 |
-| Nueva Beginnings | 30.00% | ~355 |
-| Only Thyme Will Tell | 27.00% | ~320 |
-| We Go Again | 27.00% | ~320 |
-| Booty Call | 23.00% | ~272 |
-| In Contempt of Duvet | 23.00% | ~272 |
-| Not Alone | 23.00% | ~272 |
-| Planting the Seed | 17.00% | ~201 |
-| Light Sleepers | 10.00% | ~118 |
-| Smooth Criminal | 7.00% | ~83 |
-| Sore Loser | 6.00% | ~71 |
-| Interrogation | 5.00% | ~59 |
+| All Set Up | 98.00% | ~1,170 |
+| Digital Casanova | 96.00% | ~1,146 |
+| Hold my Beer | 62.00% | ~740 |
+| Nueva Beginnings | 30.00% | ~358 |
+| Only Thyme Will Tell | 27.00% | ~322 |
+| We Go Again | 27.00% | ~322 |
+| Booty Call | 23.00% | ~275 |
+| Not Alone | 23.00% | ~275 |
+| In Contempt of Duvet | 22.00% | ~263 |
+| Planting the Seed | 17.00% | ~203 |
+| Light Sleepers | 10.00% | ~119 |
+| Smooth Criminal | 7.00% | ~84 |
+| Sore Loser | 6.00% | ~72 |
+| Interrogation | 5.00% | ~60 |
 | Crash and Burn | 2.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,184 (Ranked 264)  
-Completed: 11 (0.93%) (Ranked 177)  
+Progressed: 1,194 (Ranked 264)  
+Completed: 11 (0.92%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -197,7 +197,7 @@ Completed: 11 (0.93%) (Ranked 177)
 | 2023-12-15 | 747 | 11 |
 | 2023-12-16 | 911 | 11 |
 | 2023-12-17 | 1,128 | 11 |
-| 2023-12-18 | 1,184 | 11 |
+| 2023-12-18 | 1,194 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

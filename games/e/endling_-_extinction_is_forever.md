@@ -8,7 +8,7 @@
 | A Friend in Need | 61.00% | ~341 |
 | Surviving | 43.00% | ~240 |
 | Detox diet | 41.00% | ~229 |
-| Never Give Up | 39.00% | ~218 |
+| Never Give Up | 40.00% | ~224 |
 | Tasty | 37.00% | ~207 |
 | Lullaby | 31.00% | ~173 |
 | You Can Pet The Fox | 30.00% | ~168 |
@@ -34,7 +34,7 @@
 | Endling | 0.90% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 559 (Ranked 319)  
-Completed: 3 (0.54%) (Ranked 208)  
+Completed: 3 (0.54%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.62 (Ranked 371)  
+Rating: 4.62 (Ranked 372)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -42,8 +42,8 @@ Rating: 4.62 (Ranked 371)
 | Seal the Deal | 1.00% | ~58 |
 | A Conqueror's Cohort | 1.00% | ~58 |
 | Dawn of the Dread | 1.00% | ~58 |
-| Against the Odds | 0.90% | ~52 |
-| The Eternal Court | 0.90% | ~52 |
+| Against the Odds | 0.90% | ~53 |
+| The Eternal Court | 0.90% | ~53 |
 | Lord of Chaos | 0.80% | ~47 |
 | Eternal Lord | 0.80% | ~47 |
 | I've Got Everything I Need Right Here | 0.70% | ~41 |
@@ -54,10 +54,10 @@ Rating: 4.62 (Ranked 371)
 | One for All, All for One | 0.70% | ~41 |
 | Pruning for Progress | 0.60% | ~35 |
 | Duality | 0.60% | ~35 |
-| Snap Out of It! | 0.30% | ~17 |
-| The Magic That Empowers Me! | 0.30% | ~17 |
-| Jack of All Tomes | 0.30% | ~17 |
-| Betrayal Most Foul | 0.30% | ~17 |
+| Snap Out of It! | 0.30% | ~18 |
+| The Magic That Empowers Me! | 0.30% | ~18 |
+| Jack of All Tomes | 0.30% | ~18 |
+| Betrayal Most Foul | 0.30% | ~18 |
 | A Very Special Ring | 0.20% | ~12 |
 | I Want to Break Free | 0.10% | ~6 |
 | Master of Evilness | 0.10% | ~6 |
@@ -66,8 +66,8 @@ Rating: 4.62 (Ranked 371)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,831 (Ranked 190)  
-Completed: 7 (0.12%) (Ranked 291)  
+Progressed: 5,834 (Ranked 190)  
+Completed: 7 (0.12%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -276,7 +276,7 @@ Completed: 7 (0.12%) (Ranked 291)
 | 2023-12-15 | 5,702 | 7 |
 | 2023-12-16 | 5,752 | 7 |
 | 2023-12-17 | 5,798 | 7 |
-| 2023-12-18 | 5,831 | 7 |
+| 2023-12-18 | 5,834 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 479)  
 Sum: 93 (Ranked 461)  

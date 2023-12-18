@@ -5,34 +5,34 @@ Rating: 3.53 (Ranked 1,063)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 22.00% | ~17,809 |
-| Master, Commander | 21.00% | ~16,999 |
-| Hard Worker | 20.00% | ~16,190 |
-| Adios, Friendo | 19.00% | ~15,380 |
-| Mechanic | 19.00% | ~15,380 |
-| Bottom's Up | 18.00% | ~14,571 |
-| Nice Try | 16.00% | ~12,952 |
-| Right On Target | 14.00% | ~11,333 |
-| Piano Man | 11.00% | ~8,904 |
-| Lazy Bones | 9.00% | ~7,285 |
+| Be Seeing You | 22.00% | ~17,810 |
+| Master, Commander | 21.00% | ~17,001 |
+| Hard Worker | 20.00% | ~16,191 |
+| Adios, Friendo | 19.00% | ~15,382 |
+| Mechanic | 19.00% | ~15,382 |
+| Bottom's Up | 18.00% | ~14,572 |
+| Nice Try | 16.00% | ~12,953 |
+| Right On Target | 14.00% | ~11,334 |
+| Piano Man | 11.00% | ~8,905 |
+| Lazy Bones | 9.00% | ~7,286 |
 | Vinyl Vibes | 8.00% | ~6,476 |
-| Nothing Left to Say | 7.00% | ~5,666 |
-| Sniper | 7.00% | ~5,666 |
+| Nothing Left to Say | 7.00% | ~5,667 |
+| Sniper | 7.00% | ~5,667 |
 | Cut Call | 6.00% | ~4,857 |
-| Magnetic Miracles | 5.00% | ~4,047 |
+| Magnetic Miracles | 5.00% | ~4,048 |
 | Butcher | 4.00% | ~3,238 |
 | Fair's Fair | 4.00% | ~3,238 |
 | Spicy | 4.00% | ~3,238 |
-| A Man Of Taste | 3.00% | ~2,428 |
-| Ace in the Hole | 3.00% | ~2,428 |
-| Hearty | 3.00% | ~2,428 |
-| Meaty | 3.00% | ~2,428 |
-| Taco Toto | 3.00% | ~2,428 |
+| A Man Of Taste | 3.00% | ~2,429 |
+| Ace in the Hole | 3.00% | ~2,429 |
+| Hearty | 3.00% | ~2,429 |
+| Meaty | 3.00% | ~2,429 |
+| Taco Toto | 3.00% | ~2,429 |
 | Audiophile | 2.00% | ~1,619 |
 | Tape Head | 2.00% | ~1,619 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80,948 (Ranked 99)  
-Completed: 886 (1.09%) (Ranked 168)  
+Progressed: 80,956 (Ranked 99)  
+Completed: 886 (1.09%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -273,7 +273,7 @@ Completed: 886 (1.09%) (Ranked 168)
 | 2023-12-15 | 80,707 | 877 |
 | 2023-12-16 | 80,812 | 879 |
 | 2023-12-17 | 80,912 | 883 |
-| 2023-12-18 | 80,948 | 886 |
+| 2023-12-18 | 80,956 | 886 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

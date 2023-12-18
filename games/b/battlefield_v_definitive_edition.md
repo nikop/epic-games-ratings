@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Man Standing | 92.00% | ~51,111 |
-| Enemy Attrition | 67.00% | ~37,222 |
-| Grim Reaper | 64.00% | ~35,555 |
-| Heads Down | 62.00% | ~34,444 |
-| Not On My Watch | 58.00% | ~32,222 |
-| Combat Engineer | 38.00% | ~21,111 |
-| Call ’em in! | 28.00% | ~15,555 |
-| Eager Beaver | 27.00% | ~15,000 |
-| Lovely | 27.00% | ~15,000 |
-| Store fuglar fanga ingi flugor | 16.00% | ~8,889 |
-| Ou La Mort | 14.00% | ~7,778 |
-| Elite | 13.00% | ~7,222 |
-| Fender Bender | 8.00% | ~4,444 |
-| Globetrotter | 7.00% | ~3,889 |
-| Jack of All Trades | 6.00% | ~3,333 |
-| Storyteller | 4.00% | ~2,222 |
-| Off-hand | 3.00% | ~1,667 |
-| Death from Above | 2.00% | ~1,111 |
-| Veteran | 0.70% | ~389 |
+| Last Man Standing | 92.00% | ~51,225 |
+| Enemy Attrition | 67.00% | ~37,305 |
+| Grim Reaper | 64.00% | ~35,635 |
+| Heads Down | 62.00% | ~34,521 |
+| Not On My Watch | 58.00% | ~32,294 |
+| Combat Engineer | 38.00% | ~21,158 |
+| Call ’em in! | 28.00% | ~15,590 |
+| Eager Beaver | 27.00% | ~15,033 |
+| Lovely | 27.00% | ~15,033 |
+| Store fuglar fanga ingi flugor | 16.00% | ~8,909 |
+| Ou La Mort | 14.00% | ~7,795 |
+| Elite | 13.00% | ~7,238 |
+| Fender Bender | 8.00% | ~4,454 |
+| Globetrotter | 7.00% | ~3,898 |
+| Jack of All Trades | 6.00% | ~3,341 |
+| Storyteller | 4.00% | ~2,227 |
+| Off-hand | 3.00% | ~1,670 |
+| Death from Above | 2.00% | ~1,114 |
+| Veteran | 0.70% | ~390 |
 | Hoist the Flag | 0.30% | ~167 |
 | Sins of the Fathers | 0.20% | ~111 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,555 (Ranked 114)  
-Completed: 0 (0.00%) (Ranked 382)  
+Progressed: 55,679 (Ranked 114)  
+Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -119,4 +119,4 @@ Completed: 0 (0.00%) (Ranked 382)
 | 2023-12-15 | 38,229 | 0 |
 | 2023-12-16 | 45,856 | 0 |
 | 2023-12-17 | 52,029 | 0 |
-| 2023-12-18 | 55,555 | 0 |
+| 2023-12-18 | 55,679 | 0 |
