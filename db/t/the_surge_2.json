@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -288,9 +288,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2278,
+  "EOS_Progressed": 2279,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -3513,6 +3513,11 @@
       "Time": "2023-12-18T05:04:26.9813788+00:00",
       "NumProgressed": 2278,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-18T06:04:29.2187255+00:00",
+      "NumProgressed": 2279,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3532,7 +3537,7 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1503
+      "UsersEstimate": 1504
     },
     {
       "ID": "ACHV_03",
@@ -3548,7 +3553,7 @@
       "Name": "Overheated",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "ACHV_05",
@@ -3612,7 +3617,7 @@
       "Name": "Reverse Engineering",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACHV_13",
@@ -3724,7 +3729,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1822
+      "UsersEstimate": 1823
     },
     {
       "ID": "ACHV_27",
@@ -3828,7 +3833,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1731
+      "UsersEstimate": 1732
     },
     {
       "ID": "ACHV_40",
@@ -3979,7 +3984,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2278,
+      "Progressed": 2279,
       "Completed": 13
     }
   ],
@@ -3987,8 +3992,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-17T06:57:54.8643494+00:00",
-  "LastChanged_Achievements": "2023-12-18T05:04:26.9813784+00:00",
+  "LastChanged_Achievements": "2023-12-18T06:04:29.2187251+00:00",
   "LastUpdate_AppInfo": "2023-12-16T16:57:00.284762+00:00",
-  "LastUpdate_Ratings": "2023-12-18T04:58:17.2409337+00:00",
-  "LastUpdate_Achievements": "2023-12-18T05:04:26.9814265+00:00"
+  "LastUpdate_Ratings": "2023-12-18T05:58:22.4145383+00:00",
+  "LastUpdate_Achievements": "2023-12-18T06:04:29.2187858+00:00"
 }

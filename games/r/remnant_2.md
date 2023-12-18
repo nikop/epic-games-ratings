@@ -5,26 +5,26 @@ Rating: 4.75 (Ranked 150)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 5.00% | ~12,626 |
-| First of Many | 4.00% | ~10,100 |
-| Expanding Horizons | 3.00% | ~7,575 |
-| Not Your Average Trait | 3.00% | ~7,575 |
-| Gleaming the Cube | 2.00% | ~5,050 |
-| Quest for Survival | 2.00% | ~5,050 |
-| Not a Janitor | 2.00% | ~5,050 |
-| Familiar Face | 2.00% | ~5,050 |
-| Boss'n Up | 2.00% | ~5,050 |
-| Trait Chaser | 2.00% | ~5,050 |
-| Not So Special Now | 1.00% | ~2,525 |
-| Equal Measures | 1.00% | ~2,525 |
-| Blue Goddess | 1.00% | ~2,525 |
-| Duality | 1.00% | ~2,525 |
-| Top Performer | 1.00% | ~2,525 |
-| Shhh...It's a Secret | 1.00% | ~2,525 |
-| Was This Supposed To Happen? | 1.00% | ~2,525 |
-| Almost There | 1.00% | ~2,525 |
-| Make Some Room | 1.00% | ~2,525 |
-| Good, But Could Be Better! | 1.00% | ~2,525 |
+| The Killing Jar | 5.00% | ~12,629 |
+| First of Many | 4.00% | ~10,103 |
+| Expanding Horizons | 3.00% | ~7,577 |
+| Not Your Average Trait | 3.00% | ~7,577 |
+| Gleaming the Cube | 2.00% | ~5,051 |
+| Quest for Survival | 2.00% | ~5,051 |
+| Not a Janitor | 2.00% | ~5,051 |
+| Familiar Face | 2.00% | ~5,051 |
+| Boss'n Up | 2.00% | ~5,051 |
+| Trait Chaser | 2.00% | ~5,051 |
+| Not So Special Now | 1.00% | ~2,526 |
+| Equal Measures | 1.00% | ~2,526 |
+| Blue Goddess | 1.00% | ~2,526 |
+| Duality | 1.00% | ~2,526 |
+| Top Performer | 1.00% | ~2,526 |
+| Shhh...It's a Secret | 1.00% | ~2,526 |
+| Was This Supposed To Happen? | 1.00% | ~2,526 |
+| Almost There | 1.00% | ~2,526 |
+| Make Some Room | 1.00% | ~2,526 |
+| Good, But Could Be Better! | 1.00% | ~2,526 |
 | Regicide | 1.00% | ~317 |
 | Chaos | 0.90% | ~2,273 |
 | Traitor | 0.90% | ~2,273 |
@@ -32,10 +32,10 @@ Rating: 4.75 (Ranked 150)
 | The God Gambit | 0.90% | ~2,273 |
 | Dark Designs | 0.90% | ~2,273 |
 | The Web | 0.90% | ~2,273 |
-| Master of the Dark Arts | 0.90% | ~285 |
-| Am I Seeing This? | 0.80% | ~2,020 |
-| Madman's Paradise | 0.80% | ~2,020 |
-| Scrap Collector | 0.80% | ~2,020 |
+| Master of the Dark Arts | 0.90% | ~286 |
+| Am I Seeing This? | 0.80% | ~2,021 |
+| Madman's Paradise | 0.80% | ~2,021 |
+| Scrap Collector | 0.80% | ~2,021 |
 | The Agenda | 0.70% | ~1,768 |
 | Forever is a Long Time Coming | 0.60% | ~1,515 |
 | Bad Moon Rising | 0.60% | ~1,515 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 150)
 | A Foul Feast | 0.20% | ~63 |
 | You Shall Pass | 0.20% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252,510 (Ranked 62)  
+Progressed: 252,574 (Ranked 62)  
 Completed: 598 (0.24%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 598 (0.24%) (Ranked 258)
 | 2023-12-15 | 245,556 | 588 |
 | 2023-12-16 | 249,241 | 590 |
 | 2023-12-17 | 252,137 | 598 |
-| 2023-12-18 | 252,510 | 598 |
+| 2023-12-18 | 252,574 | 598 |
 ## Awards
 Max (Great Boss Battles): 2,917  (Ranked 100)  
 Sum: 7,200 (Ranked 122)  

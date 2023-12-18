@@ -1611,11 +1611,17 @@
       "Rating": 4.19,
       "NumberOfAwards": 516,
       "NumberOfAwardsMax": 87
+    },
+    {
+      "Time": "2023-12-18T06:03:00.9466992+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 517,
+      "NumberOfAwardsMax": 88
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 516,
-  "NumberOfAwardsMax": 87,
+  "NumberOfAwards": 517,
+  "NumberOfAwardsMax": 88,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
     {
@@ -1646,7 +1652,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 87
+      "Count": 88
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1661,9 +1667,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 17799,
+  "EOS_Progressed": 17804,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1275,
+  "EOS_NewPlayers": 1280,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -10091,6 +10097,11 @@
       "Time": "2023-12-18T05:09:16.9509208+00:00",
       "NumProgressed": 17799,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-18T06:09:03.1736391+00:00",
+      "NumProgressed": 17804,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -10134,7 +10145,7 @@
       "Name": "Flesh Wound",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 2314
+      "UsersEstimate": 2315
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -10446,7 +10457,7 @@
       "Name": "One Last Job",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "KILL_BIOBOT",
@@ -10477,22 +10488,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 17799,
+      "Progressed": 17804,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 5725,
+      "Progressed": 5730,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-12-17T19:02:55.5200667+00:00",
-  "LastChanged_Achievements": "2023-12-18T05:09:16.9509205+00:00",
+  "LastChanged": "2023-12-18T06:03:00.946699+00:00",
+  "LastChanged_Achievements": "2023-12-18T06:09:03.1736388+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.4893565+00:00",
-  "LastUpdate_Ratings": "2023-12-18T05:03:08.0261799+00:00",
-  "LastUpdate_Achievements": "2023-12-18T05:09:16.9509811+00:00"
+  "LastUpdate_Ratings": "2023-12-18T06:03:00.9466995+00:00",
+  "LastUpdate_Achievements": "2023-12-18T06:09:03.1736988+00:00"
 }

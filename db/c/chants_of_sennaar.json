@@ -37,9 +37,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1311,
+  "EOS_Progressed": 1313,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 367,
+  "EOS_NewPlayers": 369,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 5.26,
   "EosHistory": [
@@ -4407,6 +4407,11 @@
       "Time": "2023-12-18T05:05:47.9869207+00:00",
       "NumProgressed": 1311,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-18T06:05:56.7271895+00:00",
+      "NumProgressed": 1313,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 25,
@@ -4416,9 +4421,9 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 236
+      "UsersEstimate": 249
     },
     {
       "ID": "END_GOOD",
@@ -4450,7 +4455,7 @@
       "Name": "A good beginning",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "META_HALF_LINK",
@@ -4474,7 +4479,7 @@
       "Name": "Free at last",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "META_RESULT_1-4",
@@ -4506,7 +4511,7 @@
       "Name": "A Link to the Past",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -4530,7 +4535,7 @@
       "Name": "True G3M4R",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -4560,9 +4565,9 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 590
+      "UsersEstimate": 604
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -4592,9 +4597,9 @@
       "ID": "PROGRESS_N3",
       "SetID": "2gma9an",
       "Name": "A new dawn",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 341
+      "UsersEstimate": 355
     },
     {
       "ID": "PROGRESS_N4",
@@ -4602,7 +4607,7 @@
       "Name": "The darkness",
       "Percentage": 22,
       "XP": 60,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "PROGRESS_N5",
@@ -4610,14 +4615,14 @@
       "Name": "One last step",
       "Percentage": 20,
       "XP": 80,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1311,
+      "Progressed": 1313,
       "Completed": 69
     }
   ],
@@ -4625,8 +4630,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-17T17:02:33.5506237+00:00",
-  "LastChanged_Achievements": "2023-12-18T05:05:47.9869205+00:00",
+  "LastChanged_Achievements": "2023-12-18T06:05:56.7271891+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:30.8935759+00:00",
-  "LastUpdate_Ratings": "2023-12-18T04:02:36.7976623+00:00",
-  "LastUpdate_Achievements": "2023-12-18T05:05:47.9869578+00:00"
+  "LastUpdate_Ratings": "2023-12-18T05:56:58.7136461+00:00",
+  "LastUpdate_Achievements": "2023-12-18T06:05:56.7272192+00:00"
 }

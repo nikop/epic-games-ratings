@@ -4,55 +4,55 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 88.00% | ~516 |
-| Thalya – Simply Immortal | 88.00% | ~516 |
-| For the Horde! | 83.00% | ~486 |
+| The Last Stand | 89.00% | ~522 |
+| Thalya – Simply Immortal | 88.00% | ~517 |
+| For the Horde! | 82.00% | ~481 |
 | Hammer Time, Round Two | 81.00% | ~475 |
-| The Hellwoods | 77.00% | ~451 |
-| The Plains of Strothalm | 71.00% | ~416 |
-| Experienced Thalya | 71.00% | ~416 |
-| Bad Elves Go Everywhere | 69.00% | ~404 |
-| Thalya's Concentrated Fury | 68.00% | ~398 |
-| Heroes’ Gorge | 64.00% | ~375 |
-| Master of Magic | 63.00% | ~369 |
-| Unicorn steaks – fresh off the hoof! | 62.00% | ~363 |
+| The Hellwoods | 77.00% | ~452 |
+| The Plains of Strothalm | 71.00% | ~417 |
+| Experienced Thalya | 71.00% | ~417 |
+| Thalya's Concentrated Fury | 68.00% | ~399 |
+| Bad Elves Go Everywhere | 68.00% | ~399 |
+| Heroes’ Gorge | 64.00% | ~376 |
+| Master of Magic | 63.00% | ~370 |
+| Unicorn steaks – fresh off the hoof! | 62.00% | ~364 |
 | Magic Accidents | 59.00% | ~346 |
 | The Ascent | 58.00% | ~340 |
 | It's Warm and Cozy at Home | 58.00% | ~340 |
-| Trap Master | 55.00% | ~322 |
-| Minions, Minions! | 54.00% | ~316 |
+| Trap Master | 55.00% | ~323 |
+| Minions, Minions! | 54.00% | ~317 |
 | Hard Work | 53.00% | ~311 |
 | The Big Eaty | 53.00% | ~311 |
 | “… like son” | 51.00% | ~299 |
-| YOU SHALL NOT PASS! | 50.00% | ~293 |
-| The Cathedral of Light | 47.00% | ~275 |
-| Shame! Shame! Shame! | 47.00% | ~275 |
-| Pure Dynamite! | 46.00% | ~270 |
-| Dungeonlord Gorgu | 46.00% | ~270 |
+| YOU SHALL NOT PASS! | 50.00% | ~294 |
+| The Cathedral of Light | 47.00% | ~276 |
+| Shame! Shame! Shame! | 47.00% | ~276 |
+| Pure Dynamite! | 45.00% | ~264 |
+| Dungeonlord Gorgu | 45.00% | ~264 |
 | Tanos' Crusade Against Thalya | 44.00% | ~258 |
-| Mana Cannon | 41.00% | ~240 |
+| Mana Cannon | 41.00% | ~241 |
 | All’s Well That Ends Evil | 39.00% | ~229 |
 | The Duel | 35.00% | ~205 |
-| Unstoppable Horde | 34.00% | ~199 |
-| Master of the Undead | 33.00% | ~193 |
-| If Looks Could Kill | 33.00% | ~193 |
+| Unstoppable Horde | 34.00% | ~200 |
+| Master of the Undead | 33.00% | ~194 |
+| If Looks Could Kill | 33.00% | ~194 |
 | The Finitude Drill | 30.00% | ~176 |
 | Ghost Pirates? Ghost Heroes! | 29.00% | ~170 |
 | Forbidden Knowledge | 28.00% | ~164 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 27.00% | ~158 |
 | Doom Hill | 27.00% | ~158 |
-| Hungry, Hungry Gorgu! | 26.00% | ~152 |
-| Stop Tanos! | 25.00% | ~146 |
-| Brimstone Shaken, Not Stirred | 25.00% | ~146 |
+| Hungry, Hungry Gorgu! | 26.00% | ~153 |
+| Stop Tanos! | 25.00% | ~147 |
+| Brimstone Shaken, Not Stirred | 25.00% | ~147 |
 | Sabotage! | 24.00% | ~141 |
 | Raiders of the Lost Stone | 23.00% | ~135 |
 | The Rune Sockets of Finitude (Part 1) | 23.00% | ~135 |
 | Bonus Evilness | 22.00% | ~129 |
 | The Rune Sockets of Finitude (Part 2) | 21.00% | ~123 |
 | The Last Stand - This Time For Real! | 20.00% | ~117 |
-| Rubble and Ashes | 19.00% | ~111 |
-| My Little Torture Chamber | 18.00% | ~105 |
-| To Infinity And Beyond! | 18.00% | ~105 |
+| Rubble and Ashes | 19.00% | ~112 |
+| My Little Torture Chamber | 18.00% | ~106 |
+| To Infinity And Beyond! | 18.00% | ~106 |
 | Lavalumps on Ice! | 17.00% | ~100 |
 | To the Max! | 17.00% | ~100 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~94 |
@@ -61,12 +61,12 @@
 | Untouchable | 14.00% | ~82 |
 | Heal Heal Blessing | 14.00% | ~82 |
 | Hands Off My Stones | 12.00% | ~70 |
-| Laser Eyes Are So Useless | 11.00% | ~64 |
+| Laser Eyes Are So Useless | 11.00% | ~65 |
 | Gorgu is in the Best of Health | 10.00% | ~59 |
 | No Mana, No Cry | 9.00% | ~53 |
 | I Don't Need Any Help | 8.00% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 586 (Ranked 317)  
+Progressed: 587 (Ranked 317)  
 Completed: 17 (2.90%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,3 +109,4 @@ Completed: 17 (2.90%) (Ranked 111)
 | 2023-12-15 | 566 | 17 |
 | 2023-12-16 | 576 | 17 |
 | 2023-12-17 | 586 | 17 |
+| 2023-12-18 | 587 | 17 |

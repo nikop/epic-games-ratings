@@ -368,9 +368,9 @@
       "ID": "10",
       "SetID": "41h3j82",
       "Name": "Born to Win",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 70,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "11",
@@ -456,9 +456,9 @@
       "ID": "3",
       "SetID": "41h3j82",
       "Name": "Welcome to Seoul",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 70,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "4",
@@ -488,9 +488,9 @@
       "ID": "7",
       "SetID": "41h3j82",
       "Name": "Roller Race",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "8",
@@ -521,8 +521,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2023-12-18T05:06:24.4189704+00:00",
+  "LastChanged_Achievements": "2023-12-18T06:06:36.5383893+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:21.6585239+00:00",
-  "LastUpdate_Ratings": "2023-12-18T05:00:20.7163306+00:00",
-  "LastUpdate_Achievements": "2023-12-18T05:06:24.418984+00:00"
+  "LastUpdate_Ratings": "2023-12-18T06:00:42.9802162+00:00",
+  "LastUpdate_Achievements": "2023-12-18T06:06:36.5383999+00:00"
 }

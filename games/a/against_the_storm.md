@@ -11,6 +11,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Petrified Necropolis | 5.00% | ~928 |
 | Gathering Storm | 4.00% | ~742 |
 | First Real Expedition | 3.00% | ~557 |
+| The Marshlands | 3.00% | ~557 |
 | Taking Action | 3.00% | ~557 |
 | No Deaths | 3.00% | ~557 |
 | Frosts | 3.00% | ~557 |
@@ -19,7 +20,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Overcoming Difficulty | 2.00% | ~371 |
 | Royal Outpost | 2.00% | ~371 |
 | Coral Forest | 2.00% | ~371 |
-| The Marshlands | 2.00% | ~371 |
 | The Scarlet Orchard | 2.00% | ~371 |
 | Untamed Wilds | 2.00% | ~371 |
 | Homesick | 1.00% | ~186 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,552 (Ranked 147)  
+Progressed: 18,555 (Ranked 147)  
 Completed: 39 (0.21%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 39 (0.21%) (Ranked 263)
 | 2023-12-15 | 18,272 | 39 |
 | 2023-12-16 | 18,388 | 39 |
 | 2023-12-17 | 18,534 | 40 |
-| 2023-12-18 | 18,552 | 39 |
+| 2023-12-18 | 18,555 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 228)  
 Sum: 3,267 (Ranked 175)  

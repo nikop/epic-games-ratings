@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 450,
+  "EOS_Progressed": 451,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1404,6 +1404,11 @@
       "Time": "2023-12-18T05:04:57.3581949+00:00",
       "NumProgressed": 450,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T06:05:01.7256621+00:00",
+      "NumProgressed": 451,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -1480,7 +1485,7 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "REMAKE_004",
@@ -1488,7 +1493,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "Remake_005",
@@ -1520,7 +1525,7 @@
       "Name": "Plumber\u0027s Apprentice",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Remake_009",
@@ -1528,7 +1533,7 @@
       "Name": "Make a fish your dish",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "Remake_010",
@@ -1560,7 +1565,7 @@
       "Name": "Toasted",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "Remake_14",
@@ -1639,14 +1644,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 450,
+      "Progressed": 451,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-18T05:04:57.3581945+00:00",
+  "LastChanged_Achievements": "2023-12-18T06:05:01.7256618+00:00",
   "LastUpdate_AppInfo": "2023-12-11T23:56:59.5421023+00:00",
-  "LastUpdate_Ratings": "2023-12-18T04:57:17.2085492+00:00",
-  "LastUpdate_Achievements": "2023-12-18T05:04:57.3582137+00:00"
+  "LastUpdate_Ratings": "2023-12-18T05:57:15.4566499+00:00",
+  "LastUpdate_Achievements": "2023-12-18T06:05:01.7256825+00:00"
 }

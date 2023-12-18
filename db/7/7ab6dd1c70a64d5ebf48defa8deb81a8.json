@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 769,
+  "EOS_Progressed": 773,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 506,
+  "EOS_NewPlayers": 510,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1605,6 +1605,11 @@
       "Time": "2023-12-18T05:10:00.6974946+00:00",
       "NumProgressed": 769,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-18T06:09:50.531973+00:00",
+      "NumProgressed": 773,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1614,9 +1619,9 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 354
+      "UsersEstimate": 348
     },
     {
       "ID": "ACH_02",
@@ -1670,9 +1675,9 @@
       "ID": "ACH_08",
       "SetID": "efe2lj",
       "Name": "A Taste of Wrath",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 116
     },
     {
       "ID": "ACH_09",
@@ -1688,13 +1693,13 @@
       "Name": "Trinity",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_11",
       "SetID": "efe2lj",
       "Name": "Forgemaster",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 40,
       "UsersEstimate": 5
     },
@@ -1736,7 +1741,7 @@
       "Name": "Essence Blow",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_17",
@@ -1808,7 +1813,7 @@
       "Name": "Fashion Victim",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_26",
@@ -1830,15 +1835,15 @@
       "ID": "ACH_28",
       "SetID": "efe2lj",
       "Name": "I Found It",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_29",
       "SetID": "efe2lj",
       "Name": "All That Gold",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 60,
       "UsersEstimate": 5
     },
@@ -1903,14 +1908,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 769,
+      "Progressed": 773,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-18T05:10:00.697494+00:00",
+  "LastChanged_Achievements": "2023-12-18T06:09:50.5319727+00:00",
   "LastUpdate_AppInfo": "2023-12-11T21:57:02.3853442+00:00",
-  "LastUpdate_Ratings": "2023-12-18T04:59:32.0222386+00:00",
-  "LastUpdate_Achievements": "2023-12-18T05:10:00.6975287+00:00"
+  "LastUpdate_Ratings": "2023-12-18T05:59:45.3529469+00:00",
+  "LastUpdate_Achievements": "2023-12-18T06:09:50.5319976+00:00"
 }

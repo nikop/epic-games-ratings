@@ -2,9 +2,9 @@
   "ID": "16c882e1ebdc4212b75b9d59c30b08f0",
   "Name": "Asteroids: Recharged",
   "ProductSlug": "asteroids-recharged",
-  "Ranking_EOS_Progress": 445,
+  "Ranking_EOS_Progress": 443,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-12-14T16:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 118,
+  "EOS_Progressed": 119,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.85,
+  "EOS_Completed_Percentage": 0.84,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:37.0797761+00:00",
@@ -324,6 +324,11 @@
       "Time": "2023-12-16T11:07:02.6291364+00:00",
       "NumProgressed": 118,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-18T06:06:34.3727087+00:00",
+      "NumProgressed": 119,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 16,
@@ -351,7 +356,7 @@
       "Name": "Friends Will Be Friends",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_GOOD_COMPANY",
@@ -429,7 +434,7 @@
       "ID": "ACH_THE_HITMAN",
       "SetID": "ca3jj1k",
       "Name": "The Hitman",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 75,
       "UsersEstimate": 60
     },
@@ -453,16 +458,16 @@
       "ID": "ACH_WE_WILL_ROCK_YOU",
       "SetID": "ca3jj1k",
       "Name": "We Will Rock You",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 30
+      "UsersEstimate": 29
     }
   ],
   "AchievementSets": [
     {
       "ID": "ca3jj1k",
       "IsBase": true,
-      "Progressed": 118,
+      "Progressed": 119,
       "Completed": 1
     }
   ],
@@ -470,8 +475,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.8457032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.0797767+00:00",
   "LastChanged": "2023-03-31T05:58:41.8457033+00:00",
-  "LastChanged_Achievements": "2023-12-18T05:06:22.3271678+00:00",
+  "LastChanged_Achievements": "2023-12-18T06:06:34.3727083+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:48.7017638+00:00",
-  "LastUpdate_Ratings": "2023-12-18T04:59:14.8733437+00:00",
-  "LastUpdate_Achievements": "2023-12-18T05:06:22.327179+00:00"
+  "LastUpdate_Ratings": "2023-12-18T05:59:26.5678368+00:00",
+  "LastUpdate_Achievements": "2023-12-18T06:06:34.3727213+00:00"
 }

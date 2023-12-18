@@ -2145,9 +2145,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 344500,
+  "EOS_Progressed": 344535,
   "EOS_Completed": 926,
-  "EOS_NewPlayers": 10303,
+  "EOS_NewPlayers": 10323,
   "EOS_NewCompleters": 385,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -16980,6 +16980,11 @@
       "Time": "2023-12-18T05:05:56.6322859+00:00",
       "NumProgressed": 344500,
       "NumCompleted": 926
+    },
+    {
+      "Time": "2023-12-18T06:06:06.3461306+00:00",
+      "NumProgressed": 344535,
+      "NumCompleted": 926
     }
   ],
   "TotalAchievements": 24,
@@ -16991,7 +16996,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 6890
+      "UsersEstimate": 6891
     },
     {
       "ID": "10",
@@ -16999,7 +17004,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 20670
+      "UsersEstimate": 20672
     },
     {
       "ID": "11",
@@ -17007,7 +17012,7 @@
       "Name": "PERFECTLY POISED",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 1722
+      "UsersEstimate": 1723
     },
     {
       "ID": "12",
@@ -17023,7 +17028,7 @@
       "Name": "EXPERIENCED CREW",
       "Percentage": 0.7,
       "XP": 70,
-      "UsersEstimate": 2411
+      "UsersEstimate": 2412
     },
     {
       "ID": "14",
@@ -17031,7 +17036,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 27560
+      "UsersEstimate": 27563
     },
     {
       "ID": "15",
@@ -17039,7 +17044,7 @@
       "Name": "FRAMED!",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 1722
+      "UsersEstimate": 1723
     },
     {
       "ID": "16",
@@ -17063,7 +17068,7 @@
       "Name": "ACE BRAWLER",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 2411
+      "UsersEstimate": 2412
     },
     {
       "ID": "19",
@@ -17087,7 +17092,7 @@
       "Name": "PROTECTED",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 17225
+      "UsersEstimate": 17227
     },
     {
       "ID": "21",
@@ -17111,7 +17116,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 6890
+      "UsersEstimate": 6891
     },
     {
       "ID": "24",
@@ -17119,7 +17124,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 13780
+      "UsersEstimate": 13781
     },
     {
       "ID": "3",
@@ -17135,7 +17140,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 10335
+      "UsersEstimate": 10336
     },
     {
       "ID": "5",
@@ -17143,7 +17148,7 @@
       "Name": "ROOKIE",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 41340
+      "UsersEstimate": 41344
     },
     {
       "ID": "6",
@@ -17151,7 +17156,7 @@
       "Name": "PRO",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 13780
+      "UsersEstimate": 13781
     },
     {
       "ID": "7",
@@ -17167,7 +17172,7 @@
       "Name": "ACE TRICKSTER",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 1722
+      "UsersEstimate": 1723
     },
     {
       "ID": "9",
@@ -17182,7 +17187,7 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 344500,
+      "Progressed": 344535,
       "Completed": 926
     }
   ],
@@ -17190,8 +17195,8 @@
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
   "LastChanged": "2023-12-17T21:57:21.7752209+00:00",
-  "LastChanged_Achievements": "2023-12-18T05:05:56.6322856+00:00",
+  "LastChanged_Achievements": "2023-12-18T06:06:06.3461303+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:10.18391+00:00",
-  "LastUpdate_Ratings": "2023-12-18T04:57:33.9472657+00:00",
-  "LastUpdate_Achievements": "2023-12-18T05:05:56.6323729+00:00"
+  "LastUpdate_Ratings": "2023-12-18T05:57:34.0725954+00:00",
+  "LastUpdate_Achievements": "2023-12-18T06:06:06.3462093+00:00"
 }

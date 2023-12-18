@@ -5,7 +5,7 @@ Rating: 4.19 (Ranked 940)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 13.00% | ~2,314 |
+| Flesh Wound | 13.00% | ~2,315 |
 | Get a Grip | 12.00% | ~2,136 |
 | Paper Jams | 12.00% | ~2,136 |
 | The Outer Way | 12.00% | ~2,136 |
@@ -30,7 +30,7 @@ Rating: 4.19 (Ranked 940)
 | It's Time | 4.00% | ~229 |
 | In Striking Distance | 3.00% | ~534 |
 | The Commonality | 3.00% | ~534 |
-| One Last Job | 2.00% | ~114 |
+| One Last Job | 2.00% | ~115 |
 | Big Spender | 1.00% | ~57 |
 | This Isn't About Escape | 1.00% | ~57 |
 | Armed to the Teeth | 0.90% | ~52 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 940)
 | Bear Trap | 0.10% | ~6 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,799 (Ranked 149)  
+Progressed: 17,804 (Ranked 149)  
 Completed: 82 (0.46%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,14 +287,14 @@ Completed: 82 (0.46%) (Ranked 217)
 | 2023-12-15 | 17,123 | 82 |
 | 2023-12-16 | 17,442 | 82 |
 | 2023-12-17 | 17,760 | 82 |
-| 2023-12-18 | 17,799 | 82 |
+| 2023-12-18 | 17,804 | 82 |
 ## Awards
-Max (Amazing Storytelling): 87  (Ranked 388)  
-Sum: 516 (Ranked 328)  
+Max (Amazing Storytelling): 88  (Ranked 388)  
+Sum: 517 (Ranked 328)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
-| This game has Amazing Storytelling | 87 |
+| This game has Amazing Storytelling | 88 |
 | This game has Quickly Understood Controls | 86 |
 | This game is Highly Recommended | 85 |
 | This game has Amazing Characters | 83 |
@@ -478,3 +478,4 @@ Diff (max vs sum): 60
 | 2023-12-15 | 4.20 | 85 | 509 |
 | 2023-12-16 | 4.20 | 85 | 512 |
 | 2023-12-17 | 4.20 | 87 | 516 |
+| 2023-12-18 | 4.19 | 88 | 517 |

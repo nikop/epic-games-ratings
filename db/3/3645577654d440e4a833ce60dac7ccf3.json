@@ -216,9 +216,9 @@
       "ID": "MagicCat10",
       "SetID": "df8cl74",
       "Name": "Magic Cat: 10 cats unlocked",
-      "Percentage": 29,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MagicCat20",
@@ -264,25 +264,25 @@
       "ID": "Tower1_Normal",
       "SetID": "df8cl74",
       "Name": "Clear the First Tower",
-      "Percentage": 57,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Tower1_RankA",
       "SetID": "df8cl74",
       "Name": "The First Tower: A Rank",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Tower1_RankS",
       "SetID": "df8cl74",
       "Name": "The First Tower: S Rank",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Tower2_Normal",
@@ -422,8 +422,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-22T06:03:17.9237808+00:00",
-  "LastChanged_Achievements": "2023-12-18T05:05:12.255774+00:00",
+  "LastChanged_Achievements": "2023-12-18T06:05:17.8732653+00:00",
   "LastUpdate_AppInfo": "2023-12-13T06:57:05.4389091+00:00",
-  "LastUpdate_Ratings": "2023-12-18T04:59:35.0909872+00:00",
-  "LastUpdate_Achievements": "2023-12-18T05:05:12.2557986+00:00"
+  "LastUpdate_Ratings": "2023-12-18T05:59:48.5542271+00:00",
+  "LastUpdate_Achievements": "2023-12-18T06:05:17.8732948+00:00"
 }

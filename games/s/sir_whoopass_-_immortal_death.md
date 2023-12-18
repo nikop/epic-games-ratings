@@ -39,11 +39,11 @@
 | I'm going to get a concussion | 32.00% | ~43 |
 | Karaoke king | 32.00% | ~43 |
 | Another one bites the iron | 29.00% | ~39 |
+| You're not so Big anymore, Boi! | 26.00% | ~35 |
 | A Megapint...? | 26.00% | ~35 |
 | Your daily dose of Vitamin C. | 26.00% | ~35 |
 | Ripe Meat Off The Bone! | 26.00% | ~35 |
 | Kleptomaniac | 26.00% | ~35 |
-| You're not so Big anymore, Boi! | 25.00% | ~33 |
 | Hovering around | 25.00% | ~33 |
 | I cant stand still! | 23.00% | ~31 |
 | Slimy... yet satisfying | 20.00% | ~27 |

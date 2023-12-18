@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 46.00% | ~354 |
-| Trinity | 18.00% | ~138 |
-| I Found It | 15.00% | ~115 |
-| A Taste of Wrath | 14.00% | ~108 |
+| Break Out | 45.00% | ~348 |
+| Trinity | 18.00% | ~139 |
+| I Found It | 16.00% | ~124 |
+| A Taste of Wrath | 15.00% | ~116 |
 | Find Allies | 13.00% | ~100 |
 | Shatter Them All | 13.00% | ~100 |
 | Geared Up | 13.00% | ~100 |
 | The Collector | 13.00% | ~100 |
-| Fashion Victim | 12.00% | ~92 |
+| Fashion Victim | 12.00% | ~93 |
 | Adventurer | 11.00% | ~85 |
 | Tributes of Caladrias | 11.00% | ~85 |
 | Scholar | 10.00% | ~77 |
 | Stone Collection | 10.00% | ~77 |
 | Powerful Allies | 8.00% | ~62 |
 | Big Bazar | 7.00% | ~54 |
-| Essence Blow | 5.00% | ~38 |
+| Essence Blow | 5.00% | ~39 |
 | Calm before the Storm | 4.00% | ~31 |
 | The Mentor | 4.00% | ~31 |
 | Alchemist | 4.00% | ~31 |
@@ -36,12 +36,12 @@
 | A Queen's Tale | 1.00% | ~8 |
 | Flawless Victory | 0.80% | ~6 |
 | Summiter | 0.80% | ~6 |
-| Forgemaster | 0.70% | ~5 |
-| All That Gold | 0.70% | ~5 |
+| Forgemaster | 0.60% | ~5 |
+| All That Gold | 0.60% | ~5 |
 | Shardbearer | 0.50% | ~4 |
 | Feeling Fancy | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 769 (Ranked 291)  
+Progressed: 773 (Ranked 291)  
 Completed: 3 (0.39%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,4 +108,4 @@ Completed: 3 (0.39%) (Ranked 227)
 | 2023-12-15 | 486 | 3 |
 | 2023-12-16 | 621 | 3 |
 | 2023-12-17 | 752 | 3 |
-| 2023-12-18 | 769 | 3 |
+| 2023-12-18 | 773 | 3 |

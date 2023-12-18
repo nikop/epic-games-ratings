@@ -2,7 +2,7 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 549,
+  "Ranking_Rating": 548,
   "Ranking_Popularity": 340,
   "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 166,
@@ -949,9 +949,9 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 12639,
+  "EOS_Progressed": 12647,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 1299,
+  "EOS_NewPlayers": 1306,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -14839,6 +14839,11 @@
       "Time": "2023-12-18T05:09:27.1057902+00:00",
       "NumProgressed": 12639,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-18T06:09:14.1719586+00:00",
+      "NumProgressed": 12647,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 34,
@@ -14866,7 +14871,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1264
+      "UsersEstimate": 1265
     },
     {
       "ID": "ACH04",
@@ -14930,7 +14935,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1390
+      "UsersEstimate": 1391
     },
     {
       "ID": "ACH12",
@@ -14938,7 +14943,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "ACH13",
@@ -14954,7 +14959,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 5308
+      "UsersEstimate": 5312
     },
     {
       "ID": "ACH15",
@@ -15010,7 +15015,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 5814
+      "UsersEstimate": 5818
     },
     {
       "ID": "ACH22",
@@ -15018,7 +15023,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2528
+      "UsersEstimate": 2529
     },
     {
       "ID": "ACH23",
@@ -15026,7 +15031,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 3160
+      "UsersEstimate": 3162
     },
     {
       "ID": "ACH24",
@@ -15034,7 +15039,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1896
+      "UsersEstimate": 1897
     },
     {
       "ID": "ACH25",
@@ -15042,7 +15047,7 @@
       "Name": "Chauffeur",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1769
+      "UsersEstimate": 1771
     },
     {
       "ID": "ACH26",
@@ -15050,7 +15055,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1896
+      "UsersEstimate": 1897
     },
     {
       "ID": "ACH27",
@@ -15066,7 +15071,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "ACH29",
@@ -15082,7 +15087,7 @@
       "Name": "Mischief Managed",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "ACH31",
@@ -15121,7 +15126,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 12639,
+      "Progressed": 12647,
       "Completed": 69
     }
   ],
@@ -15129,8 +15134,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-12-16T22:59:24.9371697+00:00",
-  "LastChanged_Achievements": "2023-12-18T05:09:27.1057898+00:00",
+  "LastChanged_Achievements": "2023-12-18T06:09:14.1719581+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:04.8941276+00:00",
-  "LastUpdate_Ratings": "2023-12-18T04:59:46.6463769+00:00",
-  "LastUpdate_Achievements": "2023-12-18T05:09:27.1058655+00:00"
+  "LastUpdate_Ratings": "2023-12-18T06:00:01.4003165+00:00",
+  "LastUpdate_Achievements": "2023-12-18T06:09:14.1720362+00:00"
 }

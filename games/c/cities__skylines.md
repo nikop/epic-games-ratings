@@ -1,37 +1,37 @@
 # Cities: Skylines
 [Store](https://store.epicgames.com/en-US/p/cities-skylines)  
 [View Rawdata](../../db/c/cities__skylines.json)  
-Rating: 4.66 (Ranked 297)  
+Rating: 4.66 (Ranked 296)  
 Number of Ratings: 25,248  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~870,344 |
-| Green Energy | 60.00% | ~735,502 |
-| Singing In The- | 59.00% | ~723,243 |
-| Foggy Weather | 58.00% | ~710,985 |
-| Unpopular Mayor | 40.00% | ~490,334 |
-| Power at Your Fingertips | 33.00% | ~404,526 |
-| City Planner | 22.00% | ~269,684 |
-| Rolling in Dough | 20.00% | ~245,167 |
-| Does My Bum Look Big In This? | 17.00% | ~208,392 |
-| Climbing the Social Ladder | 16.00% | ~196,134 |
-| Safe City | 13.00% | ~159,359 |
-| Quay-King | 11.00% | ~134,842 |
-| Lawmaker | 10.00% | ~122,584 |
-| With Canals You Can! | 10.00% | ~122,584 |
-| Nomen Est Omen | 7.00% | ~85,809 |
-| Well Informed | 6.00% | ~73,550 |
-| Fire Watch | 5.00% | ~61,292 |
-| Greenest City | 4.00% | ~49,033 |
-| Heavenly City | 3.00% | ~36,775 |
-| Reporting! | 3.00% | ~36,775 |
-| SIMulated City | 3.00% | ~36,775 |
-| The Safest Town | 3.00% | ~36,775 |
-| Professional Dumper | 2.00% | ~24,517 |
-| City in Motion | 1.00% | ~12,258 |
-| Earthloving City | 1.00% | ~12,258 |
-| Metropolis | 1.00% | ~12,258 |
+| Pioneer | 71.00% | ~870,381 |
+| Green Energy | 60.00% | ~735,533 |
+| Singing In The- | 59.00% | ~723,275 |
+| Foggy Weather | 58.00% | ~711,016 |
+| Unpopular Mayor | 40.00% | ~490,356 |
+| Power at Your Fingertips | 33.00% | ~404,543 |
+| City Planner | 22.00% | ~269,696 |
+| Rolling in Dough | 20.00% | ~245,178 |
+| Does My Bum Look Big In This? | 17.00% | ~208,401 |
+| Climbing the Social Ladder | 16.00% | ~196,142 |
+| Safe City | 13.00% | ~159,366 |
+| Quay-King | 11.00% | ~134,848 |
+| Lawmaker | 10.00% | ~122,589 |
+| With Canals You Can! | 10.00% | ~122,589 |
+| Nomen Est Omen | 7.00% | ~85,812 |
+| Well Informed | 6.00% | ~73,553 |
+| Fire Watch | 5.00% | ~61,294 |
+| Greenest City | 4.00% | ~49,036 |
+| Heavenly City | 3.00% | ~36,777 |
+| Reporting! | 3.00% | ~36,777 |
+| SIMulated City | 3.00% | ~36,777 |
+| The Safest Town | 3.00% | ~36,777 |
+| Professional Dumper | 2.00% | ~24,518 |
+| City in Motion | 1.00% | ~12,259 |
+| Earthloving City | 1.00% | ~12,259 |
+| Metropolis | 1.00% | ~12,259 |
 | Higher Education | 0.80% | ~9,807 |
 | Beam Me Up | 0.70% | ~8,581 |
 | Terraformer | 0.60% | ~7,355 |
@@ -41,15 +41,15 @@ Number of Ratings: 25,248  (23.09.2022)
 | Shake It Up! | 0.50% | ~6,129 |
 | The Waters of Our Lives | 0.50% | ~6,129 |
 | Twist and shout | 0.50% | ~6,129 |
-| Airfield Expertise | 0.40% | ~4,903 |
-| Drop the Base | 0.40% | ~4,903 |
-| Get Your Snowshoes Ready! | 0.40% | ~4,903 |
-| Happy Town | 0.40% | ~4,903 |
-| I Want It All | 0.40% | ~4,903 |
-| Just Tolling | 0.40% | ~4,903 |
-| Postman | 0.40% | ~4,903 |
-| Speed up! | 0.40% | ~4,903 |
-| Thunder and Lightning | 0.40% | ~4,903 |
+| Airfield Expertise | 0.40% | ~4,904 |
+| Drop the Base | 0.40% | ~4,904 |
+| Get Your Snowshoes Ready! | 0.40% | ~4,904 |
+| Happy Town | 0.40% | ~4,904 |
+| I Want It All | 0.40% | ~4,904 |
+| Just Tolling | 0.40% | ~4,904 |
+| Postman | 0.40% | ~4,904 |
+| Speed up! | 0.40% | ~4,904 |
+| Thunder and Lightning | 0.40% | ~4,904 |
 | A Huge Hadron | 0.30% | ~3,678 |
 | Airlifter | 0.30% | ~3,678 |
 | Airport Architect | 0.30% | ~3,678 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~1,226 |
 | Z00 | 0.10% | ~1,226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,225,836 (Ranked 11)  
+Progressed: 1,225,889 (Ranked 11)  
 Completed: 11 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -368,7 +368,7 @@ Completed: 11 (0.00%) (Ranked 380)
 | 2023-12-15 | 1,221,983 | 11 |
 | 2023-12-16 | 1,223,809 | 11 |
 | 2023-12-17 | 1,225,600 | 11 |
-| 2023-12-18 | 1,225,836 | 11 |
+| 2023-12-18 | 1,225,889 | 11 |
 ## Awards
 Max (Great for Beginners): 6,480  (Ranked 60)  
 Sum: 47,880 (Ranked 31)  

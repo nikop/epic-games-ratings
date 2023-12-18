@@ -498,9 +498,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 44292,
+  "EOS_Progressed": 44295,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 763,
+  "EOS_NewPlayers": 764,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15513,6 +15513,11 @@
       "Time": "2023-12-18T05:08:48.203242+00:00",
       "NumProgressed": 44292,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-18T06:08:32.6349669+00:00",
+      "NumProgressed": 44295,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -15572,7 +15577,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4429
+      "UsersEstimate": 4430
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -15676,7 +15681,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3100
+      "UsersEstimate": 3101
     },
     {
       "ID": "CUFF_ATTACK",
@@ -15764,7 +15769,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3100
+      "UsersEstimate": 3101
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -15860,7 +15865,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3986
+      "UsersEstimate": 3987
     },
     {
       "ID": "SPRING_ALL",
@@ -15947,22 +15952,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 44292,
+      "Progressed": 44295,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 9129,
-      "Completed": 9129
+      "Progressed": 9132,
+      "Completed": 9132
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-17T13:59:35.4745541+00:00",
-  "LastChanged_Achievements": "2023-12-18T05:08:48.2032414+00:00",
+  "LastChanged_Achievements": "2023-12-18T06:08:32.6349663+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:26.7354097+00:00",
-  "LastUpdate_Ratings": "2023-12-18T04:58:56.1487887+00:00",
-  "LastUpdate_Achievements": "2023-12-18T05:08:48.2033253+00:00"
+  "LastUpdate_Ratings": "2023-12-18T05:59:06.1209459+00:00",
+  "LastUpdate_Achievements": "2023-12-18T06:08:32.6350812+00:00"
 }

@@ -1,18 +1,18 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.53 (Ranked 549)  
+Rating: 4.53 (Ranked 548)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 14.00% | ~2,340 |
-| Bosmang | 9.00% | ~1,504 |
-| Captain Drummer | 9.00% | ~1,504 |
-| Celebrations are in Order | 9.00% | ~1,504 |
-| The Pit and the Pirates | 8.00% | ~1,337 |
-| Martian Music | 8.00% | ~1,337 |
-| Drone Dodger | 8.00% | ~1,337 |
-| Impossible Objects | 8.00% | ~1,337 |
+| Oyedang, Kopengs | 14.00% | ~2,341 |
+| Bosmang | 9.00% | ~1,505 |
+| Captain Drummer | 9.00% | ~1,505 |
+| Celebrations are in Order | 9.00% | ~1,505 |
+| The Pit and the Pirates | 8.00% | ~1,338 |
+| Martian Music | 8.00% | ~1,338 |
+| Drone Dodger | 8.00% | ~1,338 |
+| Impossible Objects | 8.00% | ~1,338 |
 | Zen Master | 8.00% | ~214 |
 | Stogie for Fogey | 7.00% | ~1,170 |
 | Spore Taste | 7.00% | ~1,170 |
@@ -28,8 +28,8 @@ Rating: 4.53 (Ranked 549)
 | Bottoms up! | 4.00% | ~669 |
 | Thorston Mayer | 4.00% | ~669 |
 | Master Negotiator | 4.00% | ~107 |
-| Data Logger | 3.00% | ~501 |
-| Miraculous Maya | 3.00% | ~501 |
+| Data Logger | 3.00% | ~502 |
+| Miraculous Maya | 3.00% | ~502 |
 | Data Master | 2.00% | ~334 |
 | Brother's Reaper | 1.00% | ~167 |
 | No Belter Left Behind | 1.00% | ~167 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 549)
 | Scavenger Star | 0.20% | ~33 |
 | Data Collector | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,716 (Ranked 152)  
+Progressed: 16,721 (Ranked 152)  
 Completed: 44 (0.26%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 44 (0.26%) (Ranked 255)
 | 2023-12-15 | 16,416 | 43 |
 | 2023-12-16 | 16,565 | 43 |
 | 2023-12-17 | 16,683 | 44 |
-| 2023-12-18 | 16,716 | 44 |
+| 2023-12-18 | 16,721 | 44 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

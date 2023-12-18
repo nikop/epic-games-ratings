@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -419,9 +419,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 26499,
+  "EOS_Progressed": 26502,
   "EOS_Completed": 495,
-  "EOS_NewPlayers": 504,
+  "EOS_NewPlayers": 506,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.87,
   "EosHistory": [
@@ -26414,6 +26414,11 @@
       "Time": "2023-12-18T05:05:51.3929908+00:00",
       "NumProgressed": 26499,
       "NumCompleted": 495
+    },
+    {
+      "Time": "2023-12-18T06:06:00.3976799+00:00",
+      "NumProgressed": 26502,
+      "NumCompleted": 495
     }
   ],
   "TotalAchievements": 20,
@@ -26545,7 +26550,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 20139
+      "UsersEstimate": 20142
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -26553,7 +26558,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7155
+      "UsersEstimate": 7156
     },
     {
       "ID": "NORTH_FINISHED",
@@ -26584,15 +26589,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 26499,
+      "Progressed": 26502,
       "Completed": 495
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-12-18T05:05:51.3929904+00:00",
+  "LastChanged_Achievements": "2023-12-18T06:06:00.3976796+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:01.7195881+00:00",
-  "LastUpdate_Ratings": "2023-12-18T04:59:39.5578604+00:00",
-  "LastUpdate_Achievements": "2023-12-18T05:05:51.3931214+00:00"
+  "LastUpdate_Ratings": "2023-12-18T05:59:53.3767343+00:00",
+  "LastUpdate_Achievements": "2023-12-18T06:06:00.3977978+00:00"
 }

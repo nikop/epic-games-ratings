@@ -7627,9 +7627,9 @@
       "Count": 3800
     }
   ],
-  "EOS_Progressed": 146160,
+  "EOS_Progressed": 146165,
   "EOS_Completed": 322,
-  "EOS_NewPlayers": 1481,
+  "EOS_NewPlayers": 1477,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -32902,6 +32902,11 @@
       "Time": "2023-12-18T05:05:42.1052105+00:00",
       "NumProgressed": 146160,
       "NumCompleted": 322
+    },
+    {
+      "Time": "2023-12-18T06:05:50.3825266+00:00",
+      "NumProgressed": 146165,
+      "NumCompleted": 322
     }
   ],
   "TotalAchievements": 112,
@@ -32913,7 +32918,7 @@
       "Name": "The Daily Grind",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5846
+      "UsersEstimate": 5847
     },
     {
       "ID": "advlevel02",
@@ -32993,7 +32998,7 @@
       "Name": "One Easy Payment",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5846
+      "UsersEstimate": 5847
     },
     {
       "ID": "bigsale02",
@@ -33017,7 +33022,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5846
+      "UsersEstimate": 5847
     },
     {
       "ID": "blueprint02",
@@ -33385,7 +33390,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10231
+      "UsersEstimate": 10232
     },
     {
       "ID": "gold02",
@@ -33393,7 +33398,7 @@
       "Name": "Pretty Penny",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5846
+      "UsersEstimate": 5847
     },
     {
       "ID": "gold03",
@@ -33465,7 +33470,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5846
+      "UsersEstimate": 5847
     },
     {
       "ID": "jackslot02",
@@ -33569,7 +33574,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5846
+      "UsersEstimate": 5847
     },
     {
       "ID": "master02",
@@ -33808,15 +33813,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 146160,
+      "Progressed": 146165,
       "Completed": 322
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-17T22:03:02.900071+00:00",
-  "LastChanged_Achievements": "2023-12-18T05:05:42.10521+00:00",
+  "LastChanged_Achievements": "2023-12-18T06:05:50.3825263+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.001195+00:00",
-  "LastUpdate_Ratings": "2023-12-18T05:03:06.94183+00:00",
-  "LastUpdate_Achievements": "2023-12-18T05:05:42.1054207+00:00"
+  "LastUpdate_Ratings": "2023-12-18T06:02:59.7876794+00:00",
+  "LastUpdate_Achievements": "2023-12-18T06:05:50.3827309+00:00"
 }

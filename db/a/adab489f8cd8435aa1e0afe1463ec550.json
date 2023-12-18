@@ -308,9 +308,9 @@
       "ID": "3",
       "SetID": "6hl9l7f",
       "Name": "Challenger",
-      "Percentage": 6,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "30",
@@ -467,8 +467,8 @@
   ],
   "FirstSeen": "2023-09-29T05:01:32.9866964+00:00",
   "FirstSeenAchievements": "2023-07-16T05:02:49.5531761+00:00",
-  "LastChanged_Achievements": "2023-12-18T05:04:30.6614194+00:00",
+  "LastChanged_Achievements": "2023-12-18T06:04:33.1852134+00:00",
   "LastUpdate_AppInfo": "2023-12-17T16:57:11.0127364+00:00",
-  "LastUpdate_Ratings": "2023-12-18T04:58:43.2141465+00:00",
-  "LastUpdate_Achievements": "2023-12-18T05:04:30.6614488+00:00"
+  "LastUpdate_Ratings": "2023-12-18T05:58:51.1169847+00:00",
+  "LastUpdate_Achievements": "2023-12-18T06:04:33.1852454+00:00"
 }

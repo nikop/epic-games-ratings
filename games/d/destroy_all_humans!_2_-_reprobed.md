@@ -1,7 +1,7 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.53 (Ranked 549)  
+Rating: 4.53 (Ranked 548)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -17,7 +17,7 @@ Number of Ratings: 90  (23.09.2022)
 | Pimp My Raid | 18.00% | ~19 |
 | Upgreatest | 17.00% | ~18 |
 | Lie Back and Think of Albion | 16.00% | ~17 |
-| I Look Up As I Walk to Takoshima | 15.00% | ~16 |
+| I Look Up As I Walk to Takoshima | 16.00% | ~17 |
 | Perfect Probulator | 12.00% | ~13 |
 | Freshly Squeezed | 11.00% | ~12 |
 | Die Nasty | 10.00% | ~11 |

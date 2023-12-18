@@ -3306,9 +3306,9 @@
       "ID": "ACH_CAR_WASH_02",
       "SetID": "5fn8ia4",
       "Name": "Car Wash Lvl. 2",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 429
+      "UsersEstimate": 442
     },
     {
       "ID": "ACH_CAR_WASH_03",
@@ -3554,9 +3554,9 @@
       "ID": "GSS_ACH_23_LOCKPICKING_03",
       "SetID": "5fn8ia4",
       "Name": "Just Checking!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 404
+      "UsersEstimate": 416
     },
     {
       "ID": "GSS_ACH_25_DENNIS",
@@ -4035,8 +4035,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-17T13:01:05.5072332+00:00",
-  "LastChanged_Achievements": "2023-12-18T05:05:22.5586251+00:00",
+  "LastChanged_Achievements": "2023-12-18T06:05:29.1506937+00:00",
   "LastUpdate_AppInfo": "2023-12-11T18:57:06.5083214+00:00",
-  "LastUpdate_Ratings": "2023-12-18T04:58:37.3181714+00:00",
-  "LastUpdate_Achievements": "2023-12-18T05:05:22.5587082+00:00"
+  "LastUpdate_Ratings": "2023-12-18T05:58:44.8202183+00:00",
+  "LastUpdate_Achievements": "2023-12-18T06:05:29.1507888+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -643,9 +643,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 4049,
+  "EOS_Progressed": 4050,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -8748,6 +8748,11 @@
       "Time": "2023-12-17T23:09:23.0086739+00:00",
       "NumProgressed": 4049,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-18T06:08:47.4050515+00:00",
+      "NumProgressed": 4050,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8767,7 +8772,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -8783,7 +8788,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -8823,7 +8828,7 @@
       "Name": "Organ Grinder",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -8839,7 +8844,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1903
+      "UsersEstimate": 1904
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -8879,7 +8884,7 @@
       "Name": "Gunslinger",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -8887,7 +8892,7 @@
       "Name": "Skirmisher",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -8895,7 +8900,7 @@
       "Name": "Sharpshooter",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -8959,7 +8964,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -8975,7 +8980,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -8983,7 +8988,7 @@
       "Name": "Resourceful",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -9031,7 +9036,7 @@
       "Name": "From Paris with Love",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "REWARD_43_X_FILES",
@@ -9039,7 +9044,7 @@
       "Name": "Burn after reading",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "REWARD_44_FRIEND_OR_FOE",
@@ -9047,7 +9052,7 @@
       "Name": "Souvenir hunter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "REWARD_45_STONE_CARVING",
@@ -9095,7 +9100,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1255
+      "UsersEstimate": 1256
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -9151,7 +9156,7 @@
       "Name": "Target America",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -9159,7 +9164,7 @@
       "Name": "Shoot for the Moon",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "REWARD_8_THE_KRAKEN_SLEEPS",
@@ -9326,13 +9331,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4000,
+      "Progressed": 4001,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4049,
+      "Progressed": 4050,
       "Completed": 11
     }
   ],
@@ -9340,8 +9345,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-12T01:46:40.8883813+00:00",
-  "LastChanged_Achievements": "2023-12-18T05:09:02.2108214+00:00",
+  "LastChanged_Achievements": "2023-12-18T06:08:47.4050512+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:56:53.9169066+00:00",
-  "LastUpdate_Ratings": "2023-12-18T04:57:50.0888554+00:00",
-  "LastUpdate_Achievements": "2023-12-18T05:09:02.2108981+00:00"
+  "LastUpdate_Ratings": "2023-12-18T05:57:52.309968+00:00",
+  "LastUpdate_Achievements": "2023-12-18T06:08:47.4051341+00:00"
 }

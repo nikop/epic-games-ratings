@@ -9858,9 +9858,9 @@
       "Count": 1026
     }
   ],
-  "EOS_Progressed": 128200,
+  "EOS_Progressed": 128212,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2103,
+  "EOS_NewPlayers": 2113,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35593,6 +35593,11 @@
       "Time": "2023-12-18T05:09:12.4680902+00:00",
       "NumProgressed": 128200,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-18T06:08:58.6036795+00:00",
+      "NumProgressed": 128212,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35698,9 +35703,9 @@
       "ID": "altar_of_hope_upgrade_total_half",
       "SetID": "64l4lke",
       "Name": "This Looks Familiar",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 769
+      "UsersEstimate": 897
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -36172,7 +36177,7 @@
       "Name": "Slap on the Wrist",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "combat_land_riposte_maa_hwy_dul",
@@ -36204,7 +36209,7 @@
       "Name": "Lost and Found",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -36212,7 +36217,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -36235,21 +36240,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 128200,
+      "Progressed": 128212,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 3069,
+      "Progressed": 3081,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-18T02:21:43.7847477+00:00",
-  "LastChanged_Achievements": "2023-12-18T05:09:12.4680898+00:00",
+  "LastChanged_Achievements": "2023-12-18T06:08:58.6036791+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-18T04:58:10.1098085+00:00",
-  "LastUpdate_Achievements": "2023-12-18T05:09:12.4682374+00:00"
+  "LastUpdate_Ratings": "2023-12-18T05:58:15.4064512+00:00",
+  "LastUpdate_Achievements": "2023-12-18T06:08:58.6038325+00:00"
 }

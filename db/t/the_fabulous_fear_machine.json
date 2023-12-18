@@ -540,9 +540,9 @@
       "ID": "34",
       "SetID": "d37idgg",
       "Name": "Pulp! Terror Tales in the Night",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "35",
@@ -707,8 +707,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2023-12-18T05:05:17.6046255+00:00",
+  "LastChanged_Achievements": "2023-12-18T06:05:23.7663467+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:27.0664892+00:00",
-  "LastUpdate_Ratings": "2023-12-18T04:58:32.8037411+00:00",
-  "LastUpdate_Achievements": "2023-12-18T05:05:17.6046518+00:00"
+  "LastUpdate_Ratings": "2023-12-18T05:58:39.6866854+00:00",
+  "LastUpdate_Achievements": "2023-12-18T06:05:23.7663806+00:00"
 }
