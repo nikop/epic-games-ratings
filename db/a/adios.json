@@ -123,9 +123,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 80929,
+  "EOS_Progressed": 80930,
   "EOS_Completed": 885,
-  "EOS_NewPlayers": 597,
+  "EOS_NewPlayers": 596,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.09,
   "EosHistory": [
@@ -27058,6 +27058,11 @@
       "Time": "2023-12-18T09:05:13.4860145+00:00",
       "NumProgressed": 80929,
       "NumCompleted": 885
+    },
+    {
+      "Time": "2023-12-18T10:06:20.8894165+00:00",
+      "NumProgressed": 80930,
+      "NumCompleted": 885
     }
   ],
   "TotalAchievements": 25,
@@ -27101,7 +27106,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 17804
+      "UsersEstimate": 17805
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -27268,7 +27273,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 80929,
+      "Progressed": 80930,
       "Completed": 885
     }
   ],
@@ -27276,8 +27281,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-11-28T02:22:55.8136009+00:00",
-  "LastChanged_Achievements": "2023-12-18T09:05:13.4860136+00:00",
+  "LastChanged_Achievements": "2023-12-18T10:06:20.889416+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:36.6719063+00:00",
-  "LastUpdate_Ratings": "2023-12-18T08:58:56.5456967+00:00",
-  "LastUpdate_Achievements": "2023-12-18T09:05:13.4861441+00:00"
+  "LastUpdate_Ratings": "2023-12-18T09:59:38.7301777+00:00",
+  "LastUpdate_Achievements": "2023-12-18T10:06:20.8895664+00:00"
 }

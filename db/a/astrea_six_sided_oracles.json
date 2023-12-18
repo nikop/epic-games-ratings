@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 175,
+  "EOS_Progressed": 176,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -749,6 +749,11 @@
       "Time": "2023-12-17T19:07:57.2252977+00:00",
       "NumProgressed": 175,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T10:04:04.1002747+00:00",
+      "NumProgressed": 176,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-22T01:45:20.357802+00:00",
@@ -761,7 +766,7 @@
       "Name": "Anomaly Control",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "AnomalyDestroyer",
@@ -769,7 +774,7 @@
       "Name": "Anomaly Destroyer",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "AnomalyMaster",
@@ -841,7 +846,7 @@
       "Name": "Artificer",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "AstralAdventurer",
@@ -953,7 +958,7 @@
       "Name": "Can\u0027t touch this",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "CriticalTwist",
@@ -993,7 +998,7 @@
       "Name": "Endless Tricks",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "EridanianChampionAchievement",
@@ -1105,7 +1110,7 @@
       "Name": "Mechanical Buddy",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "MeissasSavior",
@@ -1119,9 +1124,9 @@
       "ID": "MindIlluminator",
       "SetID": "1jeo1g7",
       "Name": "Mind Illuminator",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 77
     },
     {
       "ID": "NoctuanChampionAchievement",
@@ -1183,9 +1188,9 @@
       "ID": "PurificationPioneer",
       "SetID": "1jeo1g7",
       "Name": "Purification Pioneer",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 120
     },
     {
       "ID": "ReflexiveMind",
@@ -1217,7 +1222,7 @@
       "Name": "Sanctuary Guardian",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "Sentinelphobic",
@@ -1257,15 +1262,15 @@
       "Name": "Star Killer",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "StellarDismantler",
       "SetID": "1jeo1g7",
       "Name": "Stellar Dismantler",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 63
     },
     {
       "ID": "StellarHaste",
@@ -1393,7 +1398,7 @@
       "Name": "Wild\u0027s Keeper",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ApianChampion",
@@ -1409,7 +1414,7 @@
       "Name": "Apian Hero",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ApianMastery",
@@ -1447,9 +1452,9 @@
       "ID": "BehenianChampion",
       "SetID": "1jeo1g7",
       "Name": "Behenian Champion",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "BehenianHero",
@@ -1521,7 +1526,7 @@
       "Name": "Noctuan Champion",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "NoctuanHero",
@@ -1544,14 +1549,14 @@
     {
       "ID": "1jeo1g7",
       "IsBase": true,
-      "Progressed": 175,
+      "Progressed": 176,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-18T09:03:36.8471362+00:00",
+  "LastChanged_Achievements": "2023-12-18T10:04:04.1002742+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:09.6615872+00:00",
-  "LastUpdate_Ratings": "2023-12-18T09:00:01.0543915+00:00",
-  "LastUpdate_Achievements": "2023-12-18T09:03:36.8472513+00:00"
+  "LastUpdate_Ratings": "2023-12-18T10:01:10.5791836+00:00",
+  "LastUpdate_Achievements": "2023-12-18T10:04:04.1003672+00:00"
 }

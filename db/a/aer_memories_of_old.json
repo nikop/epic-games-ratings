@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -419,9 +419,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 26510,
+  "EOS_Progressed": 26511,
   "EOS_Completed": 495,
-  "EOS_NewPlayers": 509,
+  "EOS_NewPlayers": 508,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.87,
   "EosHistory": [
@@ -26434,6 +26434,11 @@
       "Time": "2023-12-18T09:06:03.5514501+00:00",
       "NumProgressed": 26510,
       "NumCompleted": 495
+    },
+    {
+      "Time": "2023-12-18T10:07:31.1759876+00:00",
+      "NumProgressed": 26511,
+      "NumCompleted": 495
     }
   ],
   "TotalAchievements": 20,
@@ -26461,7 +26466,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3711
+      "UsersEstimate": 3712
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -26509,7 +26514,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3711
+      "UsersEstimate": 3712
     },
     {
       "ID": "FOUND_ERIN",
@@ -26604,15 +26609,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 26510,
+      "Progressed": 26511,
       "Completed": 495
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-12-18T09:06:03.5514495+00:00",
+  "LastChanged_Achievements": "2023-12-18T10:07:31.1759871+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:01.7195881+00:00",
-  "LastUpdate_Ratings": "2023-12-18T08:59:44.9922218+00:00",
-  "LastUpdate_Achievements": "2023-12-18T09:06:03.5515761+00:00"
+  "LastUpdate_Ratings": "2023-12-18T10:00:47.9617442+00:00",
+  "LastUpdate_Achievements": "2023-12-18T10:07:31.1761111+00:00"
 }

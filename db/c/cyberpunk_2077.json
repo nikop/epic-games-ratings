@@ -16790,9 +16790,9 @@
       "Count": 16026
     }
   ],
-  "EOS_Progressed": 978162,
+  "EOS_Progressed": 978171,
   "EOS_Completed": 2933,
-  "EOS_NewPlayers": 3799,
+  "EOS_NewPlayers": 3790,
   "EOS_NewCompleters": 50,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -44360,6 +44360,11 @@
       "Time": "2023-12-18T09:04:58.4947543+00:00",
       "NumProgressed": 978162,
       "NumCompleted": 2933
+    },
+    {
+      "Time": "2023-12-18T10:05:59.6258484+00:00",
+      "NumProgressed": 978171,
+      "NumCompleted": 2933
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -44372,7 +44377,7 @@
       "Name": "City Lights",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 2934
+      "UsersEstimate": 2935
     },
     {
       "ID": "BornToBeWild",
@@ -44396,7 +44401,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 39126
+      "UsersEstimate": 39127
     },
     {
       "ID": "Denied",
@@ -44444,7 +44449,7 @@
       "Name": "Gun Fu",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 78253
+      "UsersEstimate": 78254
     },
     {
       "ID": "Gunslinger",
@@ -44548,7 +44553,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 39126
+      "UsersEstimate": 39127
     },
     {
       "ID": "Specialist",
@@ -44556,7 +44561,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 8803
+      "UsersEstimate": 8804
     },
     {
       "ID": "Temperance",
@@ -44588,7 +44593,7 @@
       "Name": "The Fool",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 68471
+      "UsersEstimate": 68472
     },
     {
       "ID": "TheHermit",
@@ -44596,7 +44601,7 @@
       "Name": "The Hermit",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 39126
+      "UsersEstimate": 39127
     },
     {
       "ID": "TheHightPriestess",
@@ -44612,7 +44617,7 @@
       "Name": "The Lovers",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 48908
+      "UsersEstimate": 48909
     },
     {
       "ID": "TheStar",
@@ -44636,7 +44641,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 39126
+      "UsersEstimate": 39127
     },
     {
       "ID": "TheWorld",
@@ -44668,7 +44673,7 @@
       "Name": "True Soldier",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 39126
+      "UsersEstimate": 39127
     },
     {
       "ID": "TrueWarrior",
@@ -44700,7 +44705,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 117379
+      "UsersEstimate": 117381
     },
     {
       "ID": "YipMan",
@@ -44828,7 +44833,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 4271
+      "UsersEstimate": 4272
     },
     {
       "ID": "HydraIsDead",
@@ -44844,7 +44849,7 @@
       "Name": "Arachnophobia",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 4271
+      "UsersEstimate": 4272
     },
     {
       "ID": "KingOfTheCups",
@@ -44907,21 +44912,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 978162,
+      "Progressed": 978171,
       "Completed": 2933
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 106785,
+      "Progressed": 106794,
       "Completed": 10409
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-12-18T01:51:15.0808782+00:00",
-  "LastChanged_Achievements": "2023-12-18T09:04:58.4947537+00:00",
+  "LastChanged_Achievements": "2023-12-18T10:05:59.6258482+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:11.4044836+00:00",
-  "LastUpdate_Ratings": "2023-12-18T09:03:08.1942814+00:00",
-  "LastUpdate_Achievements": "2023-12-18T09:04:58.4948948+00:00"
+  "LastUpdate_Ratings": "2023-12-18T10:03:21.5478721+00:00",
+  "LastUpdate_Achievements": "2023-12-18T10:05:59.6260052+00:00"
 }

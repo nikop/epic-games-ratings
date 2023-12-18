@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 321,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -177,9 +177,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3726,
+  "EOS_Progressed": 3727,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1917,6 +1917,11 @@
       "Time": "2023-12-17T21:05:15.1763117+00:00",
       "NumProgressed": 3726,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T10:05:48.8258762+00:00",
+      "NumProgressed": 3727,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1992,7 +1997,7 @@
       "Name": "Our Lucky Winner",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "FINISH_EPISODE_4",
@@ -2048,7 +2053,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1863
+      "UsersEstimate": 1864
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -2056,7 +2061,7 @@
       "Name": "You Poor Now!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "NAILED_PERFECT_SEXY_DANCE",
@@ -2135,7 +2140,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3726,
+      "Progressed": 3727,
       "Completed": 0
     }
   ],
@@ -2143,8 +2148,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2023-12-18T09:04:51.0155289+00:00",
+  "LastChanged_Achievements": "2023-12-18T10:05:48.8258757+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:35.6151583+00:00",
-  "LastUpdate_Ratings": "2023-12-18T08:58:54.5940216+00:00",
-  "LastUpdate_Achievements": "2023-12-18T09:04:51.0155543+00:00"
+  "LastUpdate_Ratings": "2023-12-18T09:59:35.8636017+00:00",
+  "LastUpdate_Achievements": "2023-12-18T10:05:48.8259007+00:00"
 }

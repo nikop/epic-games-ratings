@@ -2,9 +2,9 @@
   "ID": "8900287f0941428abcdd1b92af29abce",
   "Name": "Miniland Adventure",
   "ProductSlug": "miniland-adventure-ee81ff",
-  "Ranking_EOS_Progress": 595,
+  "Ranking_EOS_Progress": 592,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-12-07T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19,
+  "EOS_Progressed": 20,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -124,6 +124,11 @@
       "Time": "2023-12-17T03:08:57.1739612+00:00",
       "NumProgressed": 19,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T10:09:41.3650741+00:00",
+      "NumProgressed": 20,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-27T06:05:39.2666293+00:00",
@@ -150,7 +155,7 @@
       "ID": "ach-bone-meal",
       "SetID": "6aph42m",
       "Name": "I don\u0027t have the time to wait",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -158,7 +163,7 @@
       "ID": "ach-broccoli",
       "SetID": "6aph42m",
       "Name": "I don\u0027t even like it...",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -182,7 +187,7 @@
       "ID": "ach-bucket-of-salt-water",
       "SetID": "6aph42m",
       "Name": "Now I can drink that",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -190,7 +195,7 @@
       "ID": "ach-cactus",
       "SetID": "6aph42m",
       "Name": "Ouch, it\u0027s spiky!",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -206,25 +211,25 @@
       "ID": "ach-carpenter-table",
       "SetID": "6aph42m",
       "Name": "Time to build a house",
-      "Percentage": 58,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ach-chest",
       "SetID": "6aph42m",
       "Name": "I\u0027ve got no place in inventory",
-      "Percentage": 53,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ach-cooked-mutton",
       "SetID": "6aph42m",
       "Name": "Getting nutritions!",
-      "Percentage": 42,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ach-cooked-ostrich-egg",
@@ -238,7 +243,7 @@
       "ID": "ach-copper",
       "SetID": "6aph42m",
       "Name": "Harder materials",
-      "Percentage": 32,
+      "Percentage": 30,
       "XP": 20,
       "UsersEstimate": 6
     },
@@ -246,7 +251,7 @@
       "ID": "ach-copper-watering-can",
       "SetID": "6aph42m",
       "Name": "A true farmer",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -302,23 +307,23 @@
       "ID": "ach-furnace",
       "SetID": "6aph42m",
       "Name": "Time to smelt",
-      "Percentage": 58,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ach-furniture-table",
       "SetID": "6aph42m",
       "Name": "Time to furnish",
-      "Percentage": 58,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ach-goblin-bed",
       "SetID": "6aph42m",
       "Name": "Helping a friend",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -326,7 +331,7 @@
       "ID": "ach-goblin-bed-destroy",
       "SetID": "6aph42m",
       "Name": "Give and take",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -350,7 +355,7 @@
       "ID": "ach-ladder",
       "SetID": "6aph42m",
       "Name": "It\u0027s dark here!",
-      "Percentage": 53,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -430,7 +435,7 @@
       "ID": "ach-redwood-cone",
       "SetID": "6aph42m",
       "Name": "What a big tree!",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -446,7 +451,7 @@
       "ID": "ach-ruby",
       "SetID": "6aph42m",
       "Name": "Shiny!",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -494,7 +499,7 @@
       "ID": "ach-sprinkler",
       "SetID": "6aph42m",
       "Name": "I can finally rest in the morning!",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -518,15 +523,15 @@
       "ID": "ach-tool-table",
       "SetID": "6aph42m",
       "Name": "I\u0027m tired of sharp stone",
-      "Percentage": 63,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ach-torch",
       "SetID": "6aph42m",
       "Name": "I can see in the dark now!",
-      "Percentage": 42,
+      "Percentage": 40,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -534,7 +539,7 @@
       "ID": "ach-wool",
       "SetID": "6aph42m",
       "Name": "A naked sheep",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -542,23 +547,23 @@
       "ID": "ach-workbench",
       "SetID": "6aph42m",
       "Name": "I can craft more!",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     }
   ],
   "AchievementSets": [
     {
       "ID": "6aph42m",
       "IsBase": true,
-      "Progressed": 19,
+      "Progressed": 20,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-09T20:59:53.605626+00:00",
   "FirstSeenAchievements": "2023-09-27T06:05:39.2666292+00:00",
-  "LastChanged_Achievements": "2023-12-18T09:09:26.6509429+00:00",
+  "LastChanged_Achievements": "2023-12-18T10:09:41.3650736+00:00",
   "LastUpdate_AppInfo": "2023-12-13T11:57:08.2416501+00:00",
-  "LastUpdate_Ratings": "2023-12-18T08:59:57.654666+00:00",
-  "LastUpdate_Achievements": "2023-12-18T09:09:26.651+00:00"
+  "LastUpdate_Ratings": "2023-12-18T10:01:05.8356428+00:00",
+  "LastUpdate_Achievements": "2023-12-18T10:09:41.3651049+00:00"
 }

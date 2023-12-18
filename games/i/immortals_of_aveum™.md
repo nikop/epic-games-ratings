@@ -5,27 +5,27 @@ Rating: 4.21 (Ranked 920)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~986 |
-| Battlefields Have Memories | 79.00% | ~885 |
-| Enlisted | 73.00% | ~818 |
-| Maybe Engage a Little | 67.00% | ~750 |
-| No More Names | 47.00% | ~526 |
-| Initiate | 32.00% | ~358 |
-| Thrada-Kul | 28.00% | ~314 |
-| Gravity-Challenged Rocks | 22.00% | ~246 |
-| Socialite | 21.00% | ~235 |
+| Unforeseen | 87.00% | ~979 |
+| Battlefields Have Memories | 79.00% | ~889 |
+| Enlisted | 72.00% | ~810 |
+| Maybe Engage a Little | 67.00% | ~754 |
+| No More Names | 47.00% | ~529 |
+| Initiate | 32.00% | ~360 |
+| Thrada-Kul | 28.00% | ~315 |
+| Gravity-Challenged Rocks | 22.00% | ~248 |
+| Socialite | 21.00% | ~236 |
 | Soldier | 18.00% | ~202 |
-| All the Major Food Groups | 17.00% | ~190 |
-| Beggars Would Ride | 15.00% | ~168 |
-| Control is an Illusion | 14.00% | ~157 |
-| The Means to Save It | 11.00% | ~123 |
+| All the Major Food Groups | 17.00% | ~191 |
+| Beggars Would Ride | 15.00% | ~169 |
+| Control is an Illusion | 14.00% | ~158 |
+| The Means to Save It | 11.00% | ~124 |
 | Resilience to Sin | 10.00% | ~112 |
 | A Familiar Nest | 9.00% | ~101 |
 | Geas Aristeya | 9.00% | ~101 |
 | Periapt Alizarin | 9.00% | ~101 |
 | A Perfect Cycle | 8.00% | ~90 |
-| Recruit | 7.00% | ~78 |
-| Armsman | 7.00% | ~78 |
+| Recruit | 7.00% | ~79 |
+| Armsman | 7.00% | ~79 |
 | Lights Army | 5.00% | ~56 |
 | Periapt Cerulean | 5.00% | ~56 |
 | Good Boy | 5.00% | ~56 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 920)
 | Fowl Play | 0.30% | ~3 |
 | Family Business | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,120 (Ranked 269)  
+Progressed: 1,125 (Ranked 269)  
 Completed: 2 (0.18%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 2 (0.18%) (Ranked 270)
 | 2023-12-15 | 689 | 2 |
 | 2023-12-16 | 908 | 2 |
 | 2023-12-17 | 1,065 | 2 |
-| 2023-12-18 | 1,120 | 2 |
+| 2023-12-18 | 1,125 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

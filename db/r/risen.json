@@ -5,9 +5,9 @@
   "Ranking_Rating": 423,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 565,
-  "Ranking_EOS_Progress": 470,
+  "Ranking_EOS_Progress": 468,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
@@ -71,9 +71,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 92,
+  "EOS_Progressed": 93,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -511,6 +511,11 @@
       "Time": "2023-12-18T08:09:59.8042567+00:00",
       "NumProgressed": 92,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T10:10:21.9645696+00:00",
+      "NumProgressed": 93,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T08:07:32.4989951+00:00",
@@ -561,7 +566,7 @@
       "ID": "id_16",
       "SetID": "bk9jib6",
       "Name": "Little hero",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 19
     },
@@ -651,13 +656,13 @@
       "Name": "Beginner",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "id_32",
       "SetID": "bk9jib6",
       "Name": "The brave little tailor",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 10,
       "UsersEstimate": 45
     },
@@ -713,7 +718,7 @@
       "ID": "id_43",
       "SetID": "bk9jib6",
       "Name": "Hard worker",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
       "UsersEstimate": 19
     },
@@ -841,7 +846,7 @@
       "ID": "id_58",
       "SetID": "bk9jib6",
       "Name": "Moneybags",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -857,7 +862,7 @@
       "ID": "id_6",
       "SetID": "bk9jib6",
       "Name": "Fence",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 30,
       "UsersEstimate": 18
     },
@@ -865,15 +870,15 @@
       "ID": "id_60",
       "SetID": "bk9jib6",
       "Name": "Adventurer",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "id_61",
       "SetID": "bk9jib6",
       "Name": "Map reader",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 10,
       "UsersEstimate": 68
     },
@@ -881,7 +886,7 @@
       "ID": "id_62",
       "SetID": "bk9jib6",
       "Name": "Archer",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
       "UsersEstimate": 46
     },
@@ -905,7 +910,7 @@
       "ID": "id_8",
       "SetID": "bk9jib6",
       "Name": "Sidelined",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 19
     },
@@ -922,7 +927,7 @@
     {
       "ID": "bk9jib6",
       "IsBase": true,
-      "Progressed": 92,
+      "Progressed": 93,
       "Completed": 0
     }
   ],
@@ -930,8 +935,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-12-15T05:01:07.5728894+00:00",
-  "LastChanged_Achievements": "2023-12-18T09:09:55.2579527+00:00",
+  "LastChanged_Achievements": "2023-12-18T10:10:21.9645691+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:12.9761539+00:00",
-  "LastUpdate_Ratings": "2023-12-18T08:57:44.4093647+00:00",
-  "LastUpdate_Achievements": "2023-12-18T09:09:55.2579835+00:00"
+  "LastUpdate_Ratings": "2023-12-18T09:57:53.2060948+00:00",
+  "LastUpdate_Achievements": "2023-12-18T10:10:21.9646056+00:00"
 }

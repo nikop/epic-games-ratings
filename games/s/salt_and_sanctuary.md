@@ -6,17 +6,17 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~449,184 |
-| The Three | 64.00% | ~346,358 |
-| The Banquet | 40.00% | ~216,474 |
-| Devara's Light | 31.00% | ~167,767 |
-| The Iron Ones | 19.00% | ~102,825 |
-| The Village | 17.00% | ~92,001 |
+| Find Sanctuary | 83.00% | ~449,188 |
+| The Three | 64.00% | ~346,362 |
+| The Banquet | 40.00% | ~216,476 |
+| Devara's Light | 31.00% | ~167,769 |
+| The Iron Ones | 19.00% | ~102,826 |
+| The Village | 17.00% | ~92,002 |
 | The Forest | 15.00% | ~81,178 |
-| The Imposter | 14.00% | ~75,766 |
-| The Keep | 14.00% | ~75,766 |
-| Branded | 13.00% | ~70,354 |
-| The Castle | 11.00% | ~59,530 |
+| The Imposter | 14.00% | ~75,767 |
+| The Keep | 14.00% | ~75,767 |
+| Branded | 13.00% | ~70,355 |
+| The Castle | 11.00% | ~59,531 |
 | The Dome | 9.00% | ~48,707 |
 | The Red Hall | 9.00% | ~48,707 |
 | The Sacrifice | 9.00% | ~48,707 |
@@ -28,12 +28,12 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Construct | 6.00% | ~32,471 |
 | The Lake | 6.00% | ~32,471 |
 | The Ruins | 6.00% | ~32,471 |
-| The Alkymancery | 5.00% | ~27,059 |
-| The Pitchwoods | 5.00% | ~27,059 |
-| Honed | 4.00% | ~21,647 |
-| The House of Splendor | 4.00% | ~21,647 |
-| The Crypt | 4.00% | ~21,647 |
-| The Palace | 4.00% | ~21,647 |
+| The Alkymancery | 5.00% | ~27,060 |
+| The Pitchwoods | 5.00% | ~27,060 |
+| Honed | 4.00% | ~21,648 |
+| The House of Splendor | 4.00% | ~21,648 |
+| The Crypt | 4.00% | ~21,648 |
+| The Palace | 4.00% | ~21,648 |
 | Find Salvation | 3.00% | ~16,236 |
 | The Unspeakable Deep | 3.00% | ~16,236 |
 | Coastrock | 2.00% | ~10,824 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,824 |
 | Fading Fast | 1.00% | ~5,412 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 541,185 (Ranked 34)  
+Progressed: 541,190 (Ranked 34)  
 Completed: 1,646 (0.30%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 1,646 (0.30%) (Ranked 245)
 | 2023-12-15 | 540,878 | 1,643 |
 | 2023-12-16 | 541,020 | 1,644 |
 | 2023-12-17 | 541,146 | 1,646 |
-| 2023-12-18 | 541,185 | 1,646 |
+| 2023-12-18 | 541,190 | 1,646 |
 ## Awards
 Max (Challenging Combat): 294  (Ranked 257)  
 Sum: 2,011 (Ranked 215)  

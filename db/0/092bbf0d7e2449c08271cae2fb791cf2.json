@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 155,
+  "EOS_Progressed": 156,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.65,
+  "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
     {
       "Time": "2023-11-01T08:06:18.9626896+00:00",
@@ -514,6 +514,11 @@
       "Time": "2023-12-18T06:04:06.3220518+00:00",
       "NumProgressed": 155,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-18T10:05:05.4451787+00:00",
+      "NumProgressed": 156,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -524,17 +529,17 @@
       "ID": "ach1",
       "SetID": "796kfpa",
       "Name": "Good Morning",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 145,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ach2",
       "SetID": "796kfpa",
       "Name": "Blabber",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 145,
-      "UsersEstimate": 70
+      "UsersEstimate": 69
     },
     {
       "ID": "ach3",
@@ -572,23 +577,23 @@
       "ID": "ach7",
       "SetID": "796kfpa",
       "Name": "Snail Racing Champion",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 145,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     }
   ],
   "AchievementSets": [
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 155,
+      "Progressed": 156,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2023-12-18T09:04:20.5546132+00:00",
+  "LastChanged_Achievements": "2023-12-18T10:05:05.4451783+00:00",
   "LastUpdate_AppInfo": "2023-12-13T18:57:12.2683005+00:00",
-  "LastUpdate_Ratings": "2023-12-18T08:58:09.590338+00:00",
-  "LastUpdate_Achievements": "2023-12-18T09:04:20.5546228+00:00"
+  "LastUpdate_Ratings": "2023-12-18T09:58:31.1937997+00:00",
+  "LastUpdate_Achievements": "2023-12-18T10:05:05.4451963+00:00"
 }

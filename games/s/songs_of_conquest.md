@@ -12,9 +12,9 @@ Number of Ratings: 292  (23.09.2022)
 | Veteran | 17.00% | ~93 |
 | Dressed For Success | 11.00% | ~60 |
 | Humiliation | 8.00% | ~44 |
+| Multi Kill | 7.00% | ~38 |
 | Sorcerous Spree | 7.00% | ~38 |
 | Veni, Vidi, Vici | 7.00% | ~38 |
-| Multi Kill | 6.00% | ~33 |
 | Master | 6.00% | ~33 |
 | Landlord Extraordinaire | 5.00% | ~27 |
 | Whoops! | 4.00% | ~22 |

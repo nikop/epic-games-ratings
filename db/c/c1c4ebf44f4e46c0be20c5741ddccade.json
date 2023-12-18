@@ -2,9 +2,9 @@
   "ID": "c1c4ebf44f4e46c0be20c5741ddccade",
   "Name": "Munlay Online",
   "ProductSlug": "munlay-online-89550d",
-  "Ranking_EOS_Progress": 801,
+  "Ranking_EOS_Progress": 805,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewPlayers": 543,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-16T08:56:56.6578088+00:00",
-  "LastUpdate_Ratings": "2023-12-18T08:59:56.9404485+00:00",
-  "LastUpdate_Achievements": "2023-12-18T09:06:10.3830685+00:00"
+  "LastUpdate_Ratings": "2023-12-18T10:01:04.7544243+00:00",
+  "LastUpdate_Achievements": "2023-12-18T10:07:40.7800615+00:00"
 }

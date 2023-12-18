@@ -637,9 +637,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3514,
+  "EOS_Progressed": 3515,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 258,
+  "EOS_NewPlayers": 256,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -10117,6 +10117,11 @@
       "Time": "2023-12-18T09:05:40.9585705+00:00",
       "NumProgressed": 3514,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-18T10:06:59.0304956+00:00",
+      "NumProgressed": 3515,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -10336,7 +10341,7 @@
       "Name": "Full Party",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "gearenchanting",
@@ -10520,7 +10525,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1862
+      "UsersEstimate": 1863
     },
     {
       "ID": "prestigiousx10",
@@ -10552,7 +10557,7 @@
       "Name": "Scientist",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "scrollmaster",
@@ -10688,7 +10693,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3268
+      "UsersEstimate": 3269
     },
     {
       "ID": "warmachinesarmy",
@@ -10720,14 +10725,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2741
+      "UsersEstimate": 2742
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3514,
+      "Progressed": 3515,
       "Completed": 2
     }
   ],
@@ -10735,8 +10740,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-17T09:00:20.6514627+00:00",
-  "LastChanged_Achievements": "2023-12-18T09:05:40.9585701+00:00",
+  "LastChanged_Achievements": "2023-12-18T10:06:59.0304952+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:13.7887636+00:00",
-  "LastUpdate_Ratings": "2023-12-18T09:00:10.2955338+00:00",
-  "LastUpdate_Achievements": "2023-12-18T09:05:40.9586587+00:00"
+  "LastUpdate_Ratings": "2023-12-18T10:01:24.7958281+00:00",
+  "LastUpdate_Achievements": "2023-12-18T10:06:59.0305989+00:00"
 }

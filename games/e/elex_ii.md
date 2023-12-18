@@ -3,6 +3,66 @@
 [View Rawdata](../../db/e/elex_ii.json)  
 Rating: 4.30 (Ranked 849)  
 Number of Ratings: 124  (23.09.2022)  
+## Achievements
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Pack Rat | 0.00% | ~0 |
+| Banker | 0.00% | ~0 |
+| Entrepreneur | 0.00% | ~0 |
+| Drinker | 0.00% | ~0 |
+| Key Master | 0.00% | ~0 |
+| Treasure Hunter | 0.00% | ~0 |
+| Storyteller | 0.00% | ~0 |
+| Beam Me Up | 0.00% | ~0 |
+| Peddler | 0.00% | ~0 |
+| Weaponsmith | 0.00% | ~0 |
+| Socializer | 0.00% | ~0 |
+| Long-Haul Flyer | 0.00% | ~0 |
+| Alchemist | 0.00% | ~0 |
+| Computer Scientist | 0.00% | ~0 |
+| Globetrotter | 0.00% | ~0 |
+| Treasurer | 0.00% | ~0 |
+| Military Leader | 0.00% | ~0 |
+| Hotshot | 0.00% | ~0 |
+| Self-Sufficient | 0.00% | ~0 |
+| Free as a Bird | 0.00% | ~0 |
+| Idealist | 0.00% | ~0 |
+| Unbreakable | 0.00% | ~0 |
+| Role Model | 0.00% | ~0 |
+| Toy Time | 0.00% | ~0 |
+| Defector | 0.00% | ~0 |
+| Alb | 0.00% | ~0 |
+| Berserker | 0.00% | ~0 |
+| Cleric | 0.00% | ~0 |
+| Morkon | 0.00% | ~0 |
+| Outlaw | 0.00% | ~0 |
+| Creator | 0.00% | ~0 |
+| Destroyer | 0.00% | ~0 |
+| Perfectionist | 0.00% | ~0 |
+| Commander | 0.00% | ~0 |
+| Festival-goer | 0.00% | ~0 |
+| Civilian | 0.00% | ~0 |
+| Best Buddy | 0.00% | ~0 |
+| Legendary | 0.00% | ~0 |
+| Family Reunion | 0.00% | ~0 |
+| Irissa's Fate | 0.00% | ~0 |
+| Detective | 0.00% | ~0 |
+| Pass A38 | 0.00% | ~0 |
+| Warrior | 0.00% | ~0 |
+| Hunter | 0.00% | ~0 |
+| Defender | 0.00% | ~0 |
+| Ruthless | 0.00% | ~0 |
+| Enforcer | 0.00% | ~0 |
+| Fire in the Hole | 0.00% | ~0 |
+| Eternal Oblivion | 0.00% | ~0 |
+| Lover | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 2 (Ranked 703)  
+Completed: 0 (0.00%) (Ranked 380)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-12-18 | 2 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

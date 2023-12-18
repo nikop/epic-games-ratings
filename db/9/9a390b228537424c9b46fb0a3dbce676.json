@@ -2,9 +2,9 @@
   "ID": "9a390b228537424c9b46fb0a3dbce676",
   "Name": "Dark Mystery",
   "ProductSlug": "dark-mystery-baf914",
-  "Ranking_EOS_Progress": 801,
+  "Ranking_EOS_Progress": 805,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewPlayers": 543,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-12-06T18:30:00+00:00",
@@ -106,8 +106,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-03T19:03:20.8537297+00:00",
-  "LastChanged_Achievements": "2023-12-18T09:08:45.5694593+00:00",
+  "LastChanged_Achievements": "2023-12-18T10:08:43.2386279+00:00",
   "LastUpdate_AppInfo": "2023-12-17T19:57:02.4986779+00:00",
-  "LastUpdate_Ratings": "2023-12-18T08:57:31.8450292+00:00",
-  "LastUpdate_Achievements": "2023-12-18T09:08:45.5694639+00:00"
+  "LastUpdate_Ratings": "2023-12-18T09:57:35.8639835+00:00",
+  "LastUpdate_Achievements": "2023-12-18T10:08:43.2386347+00:00"
 }

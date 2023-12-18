@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 134777,
+  "EOS_Progressed": 134778,
   "EOS_Completed": 1196,
-  "EOS_NewPlayers": 1029,
+  "EOS_NewPlayers": 1028,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.89,
   "EosHistory": [
@@ -27918,6 +27918,11 @@
       "Time": "2023-12-18T09:04:04.7577773+00:00",
       "NumProgressed": 134777,
       "NumCompleted": 1196
+    },
+    {
+      "Time": "2023-12-18T10:04:43.3039963+00:00",
+      "NumProgressed": 134778,
+      "NumCompleted": 1196
     }
   ],
   "TotalAchievements": 34,
@@ -27945,7 +27950,7 @@
       "Name": "Interesting...",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 56606
+      "UsersEstimate": 56607
     },
     {
       "ID": "ACH_GAME_JOURNAL2",
@@ -28001,7 +28006,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 75475
+      "UsersEstimate": 75476
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -28177,7 +28182,7 @@
       "Name": "Deep Cut",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 32346
+      "UsersEstimate": 32347
     },
     {
       "ID": "ACH_L06_TEMPLE_END",
@@ -28200,7 +28205,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 134777,
+      "Progressed": 134778,
       "Completed": 1196
     }
   ],
@@ -28208,8 +28213,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-11-24T21:59:26.7035134+00:00",
-  "LastChanged_Achievements": "2023-12-18T09:04:04.757777+00:00",
+  "LastChanged_Achievements": "2023-12-18T10:04:43.3039958+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:18.9849827+00:00",
-  "LastUpdate_Ratings": "2023-12-18T08:00:28.5990077+00:00",
-  "LastUpdate_Achievements": "2023-12-18T09:04:04.7578994+00:00"
+  "LastUpdate_Ratings": "2023-12-18T09:56:57.8147983+00:00",
+  "LastUpdate_Achievements": "2023-12-18T10:04:43.3041374+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "95a85c33ce39422fa01d7db34ff70b6a",
   "Name": "Empire of Ember",
   "ProductSlug": "empire-of-ember-71234d",
-  "Ranking_EOS_Progress": 801,
+  "Ranking_EOS_Progress": 805,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewPlayers": 543,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-05-20T16:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:57:39.1605144+00:00",
   "LastChanged": "2023-03-31T05:57:39.1605145+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:15.8336142+00:00",
-  "LastUpdate_Ratings": "2023-12-18T08:58:06.4977923+00:00",
-  "LastUpdate_Achievements": "2023-12-18T09:09:06.7992984+00:00"
+  "LastUpdate_Ratings": "2023-12-18T09:58:26.6399865+00:00",
+  "LastUpdate_Achievements": "2023-12-18T10:09:13.220648+00:00"
 }

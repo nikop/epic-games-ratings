@@ -6,33 +6,33 @@ Number of Ratings: 48  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Plenty More to Go | 86.00% | ~643 |
-| All Bark, No Bite | 75.00% | ~561 |
-| Hopeful Hunter | 66.00% | ~494 |
-| Amateur Adventurer | 63.00% | ~471 |
+| Plenty More to Go | 86.00% | ~644 |
+| All Bark, No Bite | 75.00% | ~562 |
+| Hopeful Hunter | 65.00% | ~487 |
+| Amateur Adventurer | 63.00% | ~472 |
 | The Road to Recovery | 62.00% | ~464 |
 | Partners? | 60.00% | ~449 |
 | Magical Mineral Golem | 54.00% | ~404 |
-| On Outlander Lane | 53.00% | ~396 |
+| On Outlander Lane | 53.00% | ~397 |
 | First Time Fishing | 50.00% | ~374 |
 | A Girl About the Town | 49.00% | ~367 |
-| First Time Hunting | 48.00% | ~359 |
+| First Time Hunting | 48.00% | ~360 |
 | Rune Wall Wreckage | 47.00% | ~352 |
 | ...And Your Tax Money | 45.00% | ~337 |
 | The Lords of the Snowpeak | 39.00% | ~292 |
-| The Go-To Girl | 36.00% | ~269 |
-| Natural Born Monster-Killer | 36.00% | ~269 |
+| The Go-To Girl | 36.00% | ~270 |
+| Natural Born Monster-Killer | 36.00% | ~270 |
 | The Lava Mantor Wyrm | 35.00% | ~262 |
 | Scavenger's Honor | 35.00% | ~262 |
 | One Mean Merc | 35.00% | ~262 |
 | The Great Forest...On Foot! | 35.00% | ~262 |
-| Adept, for an Acting Mayor | 34.00% | ~254 |
-| Money, Money, Money | 34.00% | ~254 |
+| Adept, for an Acting Mayor | 34.00% | ~255 |
+| Money, Money, Money | 34.00% | ~255 |
 | Rune Wall Master | 33.00% | ~247 |
-| The Quarry...On Foot! | 30.00% | ~224 |
-| The Runebarrows...On Foot! | 28.00% | ~209 |
+| The Quarry...On Foot! | 30.00% | ~225 |
+| The Runebarrows...On Foot! | 28.00% | ~210 |
 | The Lava Ruins...On Foot! | 27.00% | ~202 |
-| The Snowpeak...On Foot! | 26.00% | ~194 |
+| The Snowpeak...On Foot! | 26.00% | ~195 |
 | Meat Master | 25.00% | ~187 |
 | Fishing Master | 24.00% | ~180 |
 | Armor Master | 23.00% | ~172 |
@@ -57,8 +57,8 @@ Number of Ratings: 48  (23.09.2022)
 | Full Force - Isha | 8.00% | ~60 |
 | Rising Champion | 7.00% | ~52 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 748 (Ranked 293)  
-Completed: 60 (8.02%) (Ranked 50)  
+Progressed: 749 (Ranked 293)  
+Completed: 60 (8.01%) (Ranked 50)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -109,7 +109,7 @@ Completed: 60 (8.02%) (Ranked 50)
 | 2023-12-15 | 729 | 60 |
 | 2023-12-16 | 741 | 60 |
 | 2023-12-17 | 746 | 60 |
-| 2023-12-18 | 748 | 60 |
+| 2023-12-18 | 749 | 60 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

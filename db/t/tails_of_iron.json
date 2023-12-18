@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewPlayers": 292,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2255,
+  "EOS_Progressed": 2256,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -4033,6 +4033,11 @@
       "Time": "2023-12-17T17:07:13.1926827+00:00",
       "NumProgressed": 2255,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-18T10:07:58.1239923+00:00",
+      "NumProgressed": 2256,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 30,
@@ -4052,7 +4057,7 @@
       "Name": "Collect Gold",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1038
     },
     {
       "ID": "Collect20Iron",
@@ -4060,7 +4065,7 @@
       "Name": "Collect Iron Ore",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 1082
+      "UsersEstimate": 1083
     },
     {
       "ID": "Collect50MonsterParts",
@@ -4124,7 +4129,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 1849
+      "UsersEstimate": 1850
     },
     {
       "ID": "CompleteHunterFaction",
@@ -4164,7 +4169,7 @@
       "Name": "Defeat Ratnor Rodentson",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "DefeatRattusAugustus",
@@ -4188,7 +4193,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1398
+      "UsersEstimate": 1399
     },
     {
       "ID": "GetTHWeapon",
@@ -4196,7 +4201,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1285
+      "UsersEstimate": 1286
     },
     {
       "ID": "Kill25Bugs",
@@ -4204,7 +4209,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1195
+      "UsersEstimate": 1196
     },
     {
       "ID": "Kill25Frogs",
@@ -4236,7 +4241,7 @@
       "Name": "Discover the mystery of the Kings Chambers",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "RepairChef",
@@ -4244,7 +4249,7 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 1082
+      "UsersEstimate": 1083
     },
     {
       "ID": "RepairSmith",
@@ -4252,7 +4257,7 @@
       "Name": "Smithy Ready to Craft",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1038
     },
     {
       "ID": "RepairThroneRoom",
@@ -4260,7 +4265,7 @@
       "Name": "Throne Room Fit For A King",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 879
+      "UsersEstimate": 880
     },
     {
       "ID": "RescueBrothers",
@@ -4268,7 +4273,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1195
+      "UsersEstimate": 1196
     },
     {
       "ID": "ReturnPowerInMines",
@@ -4283,22 +4288,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2255,
+      "Progressed": 2256,
       "Completed": 12
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 896,
-      "Completed": 896
+      "Progressed": 897,
+      "Completed": 897
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-12-16T18:59:01.3536966+00:00",
-  "LastChanged_Achievements": "2023-12-18T09:06:22.594022+00:00",
+  "LastChanged_Achievements": "2023-12-18T10:07:58.1239915+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:33.7739845+00:00",
-  "LastUpdate_Ratings": "2023-12-18T08:59:38.2598038+00:00",
-  "LastUpdate_Achievements": "2023-12-18T09:06:22.5940596+00:00"
+  "LastUpdate_Ratings": "2023-12-18T10:00:38.442473+00:00",
+  "LastUpdate_Achievements": "2023-12-18T10:07:58.1240299+00:00"
 }

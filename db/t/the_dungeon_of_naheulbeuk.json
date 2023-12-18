@@ -1509,9 +1509,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 243392,
+  "EOS_Progressed": 243397,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1134,
+  "EOS_NewPlayers": 1132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22704,6 +22704,11 @@
       "Time": "2023-12-18T09:09:52.5032351+00:00",
       "NumProgressed": 243392,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-18T10:10:18.0128641+00:00",
+      "NumProgressed": 243397,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -22729,9 +22734,9 @@
       "ID": "AllSideQuest",
       "SetID": "50chcgj",
       "Name": "Holistic Adventuring Party",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1704
     },
     {
       "ID": "BarbarianEpic",
@@ -22763,7 +22768,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 17037
+      "UsersEstimate": 17038
     },
     {
       "ID": "Chapter2",
@@ -23115,7 +23120,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19471
+      "UsersEstimate": 19472
     },
     {
       "ID": "DwarfElf15Support",
@@ -23163,7 +23168,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 87621
+      "UsersEstimate": 87623
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -23211,7 +23216,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24339
+      "UsersEstimate": 24340
     },
     {
       "ID": "FollowBraztok",
@@ -23418,21 +23423,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 243392,
+      "Progressed": 243397,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 243392,
+      "Progressed": 243397,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-12-17T23:01:26.2637708+00:00",
-  "LastChanged_Achievements": "2023-12-18T09:09:52.5032347+00:00",
+  "LastChanged_Achievements": "2023-12-18T10:10:18.0128637+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:08.5726178+00:00",
-  "LastUpdate_Ratings": "2023-12-18T09:00:08.0135311+00:00",
-  "LastUpdate_Achievements": "2023-12-18T09:09:52.5033878+00:00"
+  "LastUpdate_Ratings": "2023-12-18T10:01:21.241681+00:00",
+  "LastUpdate_Achievements": "2023-12-18T10:10:18.0130558+00:00"
 }

@@ -9,18 +9,18 @@ Rating: 4.19 (Ranked 940)
 | Get a Grip | 12.00% | ~2,139 |
 | Paper Jams | 12.00% | ~2,139 |
 | The Outer Way | 12.00% | ~2,139 |
-| Desperate Times | 11.00% | ~1,960 |
+| Desperate Times | 11.00% | ~1,961 |
 | Chew 'Em Up | 10.00% | ~1,782 |
 | Float Like A Butterfly | 10.00% | ~1,782 |
 | Reforged | 9.00% | ~1,604 |
 | Workplace Hazard | 8.00% | ~1,426 |
-| If the SHU Fits... | 7.00% | ~1,247 |
-| Without A Paddle | 7.00% | ~1,247 |
-| Two Heads Are Better Than One | 6.00% | ~1,069 |
-| In the Pipe, Five by Five | 6.00% | ~1,069 |
-| Crash Site | 6.00% | ~1,069 |
-| Full Circle | 6.00% | ~1,069 |
-| Power Up | 6.00% | ~1,069 |
+| If the SHU Fits... | 7.00% | ~1,248 |
+| Without A Paddle | 7.00% | ~1,248 |
+| Two Heads Are Better Than One | 6.00% | ~1,070 |
+| In the Pipe, Five by Five | 6.00% | ~1,070 |
+| Crash Site | 6.00% | ~1,070 |
+| Full Circle | 6.00% | ~1,070 |
+| Power Up | 6.00% | ~1,070 |
 | Keep Fighting | 6.00% | ~345 |
 | Giving Back | 5.00% | ~891 |
 | You Need a Gun | 5.00% | ~891 |
@@ -31,20 +31,20 @@ Rating: 4.19 (Ranked 940)
 | In Striking Distance | 3.00% | ~535 |
 | The Commonality | 3.00% | ~535 |
 | One Last Job | 2.00% | ~115 |
-| Big Spender | 1.00% | ~57 |
-| This Isn't About Escape | 1.00% | ~57 |
+| Big Spender | 1.00% | ~58 |
+| This Isn't About Escape | 1.00% | ~58 |
 | Armed to the Teeth | 0.90% | ~52 |
 | Grim Reaper | 0.80% | ~143 |
 | Information Overload | 0.80% | ~46 |
 | Parole Denied | 0.70% | ~40 |
 | Mugshot | 0.70% | ~125 |
 | Instigator | 0.70% | ~40 |
-| Quick Pick | 0.60% | ~34 |
+| Quick Pick | 0.60% | ~35 |
 | Subject Alpha | 0.40% | ~23 |
 | Don't Let It Mellow | 0.30% | ~17 |
 | The Protocol is About Life | 0.20% | ~36 |
-| Recidivist | 0.20% | ~11 |
-| Hoard Mode | 0.20% | ~11 |
+| Recidivist | 0.20% | ~12 |
+| Hoard Mode | 0.20% | ~12 |
 | It's over, Jacob! | 0.10% | ~18 |
 | Glutton for Punishment | 0.10% | ~6 |
 | You Belong Here | 0.10% | ~6 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 940)
 | Bear Trap | 0.10% | ~6 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,821 (Ranked 149)  
+Progressed: 17,825 (Ranked 149)  
 Completed: 82 (0.46%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 82 (0.46%) (Ranked 217)
 | 2023-12-15 | 17,123 | 82 |
 | 2023-12-16 | 17,442 | 82 |
 | 2023-12-17 | 17,760 | 82 |
-| 2023-12-18 | 17,821 | 82 |
+| 2023-12-18 | 17,825 | 82 |
 ## Awards
 Max (Amazing Storytelling): 88  (Ranked 388)  
 Sum: 517 (Ranked 328)  

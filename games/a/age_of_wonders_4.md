@@ -12,13 +12,13 @@ Rating: 4.62 (Ranked 372)
 | But this one is mine | 5.00% | ~291 |
 | Bone Peddler | 4.00% | ~233 |
 | From Friends to Family | 4.00% | ~233 |
-| Valley of Wonders | 3.00% | ~174 |
-| There Can Only Be One! | 3.00% | ~174 |
-| Full Ascension | 3.00% | ~174 |
-| Stronger Together | 3.00% | ~174 |
-| Magical Synergy | 3.00% | ~174 |
-| Seat of Power | 3.00% | ~174 |
-| In a Liege of Your Own | 3.00% | ~174 |
+| Valley of Wonders | 3.00% | ~175 |
+| There Can Only Be One! | 3.00% | ~175 |
+| Full Ascension | 3.00% | ~175 |
+| Stronger Together | 3.00% | ~175 |
+| Magical Synergy | 3.00% | ~175 |
+| Seat of Power | 3.00% | ~175 |
+| In a Liege of Your Own | 3.00% | ~175 |
 | Return of the Wizard King | 2.00% | ~116 |
 | Enchanted Archipelago | 2.00% | ~116 |
 | Digging for Treasure | 2.00% | ~116 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 372)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,813 (Ranked 191)  
+Progressed: 5,818 (Ranked 191)  
 Completed: 7 (0.12%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 7 (0.12%) (Ranked 290)
 | 2023-12-15 | 5,702 | 7 |
 | 2023-12-16 | 5,752 | 7 |
 | 2023-12-17 | 5,798 | 7 |
-| 2023-12-18 | 5,813 | 7 |
+| 2023-12-18 | 5,818 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 479)  
 Sum: 93 (Ranked 461)  

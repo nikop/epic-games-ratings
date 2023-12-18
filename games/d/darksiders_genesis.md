@@ -3,6 +3,46 @@
 [View Rawdata](../../db/d/darksiders_genesis.json)  
 Rating: 4.48 (Ranked 637)  
 Number of Ratings: 67  (23.09.2022)  
+## Achievements
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| A Bullet for All Seasons | 0.00% | ~0 |
+| Are You Not Entertained? | 0.00% | ~0 |
+| Astarte | 0.00% | ~0 |
+| Belial | 0.00% | ~0 |
+| Blademaster | 0.00% | ~0 |
+| Close the Rift | 0.00% | ~0 |
+| Collector | 0.00% | ~0 |
+| Dagon | 0.00% | ~0 |
+| Demolition Derby | 0.00% | ~0 |
+| Full of Hell | 0.00% | ~0 |
+| Gatekeeper | 0.00% | ~0 |
+| Good Deeds | 0.00% | ~0 |
+| Hell's Forge | 0.00% | ~0 |
+| Infested | 0.00% | ~0 |
+| Mammon | 0.00% | ~0 |
+| Master of Strife | 0.00% | ~0 |
+| Master of War | 0.00% | ~0 |
+| Mint I | 0.00% | ~0 |
+| Mint II | 0.00% | ~0 |
+| Mint III | 0.00% | ~0 |
+| Moloch | 0.00% | ~0 |
+| Ready to Blow | 0.00% | ~0 |
+| Respect For Animals | 0.00% | ~0 |
+| Soul Cache | 0.00% | ~0 |
+| The Dead Court | 0.00% | ~0 |
+| Garden of Forking Paths | 0.00% | ~0 |
+| The Promised End | 0.00% | ~0 |
+| Walking Armory | 0.00% | ~0 |
+| Why'd It Have to Be Snakes? | 0.00% | ~0 |
+| Wicked Killington | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 2 (Ranked 703)  
+Completed: 0 (0.00%) (Ranked 380)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-12-18 | 2 | 0 |
 ## Awards
 Max (Great Boss Battles): 44  (Ranked 457)  
 Sum: 44 (Ranked 501)  

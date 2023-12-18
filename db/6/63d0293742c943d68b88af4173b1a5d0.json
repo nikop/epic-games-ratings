@@ -4,7 +4,7 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 451,
+  "EOS_Progressed": 453,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1409,6 +1409,11 @@
       "Time": "2023-12-18T06:05:01.7256621+00:00",
       "NumProgressed": 451,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T10:06:16.6216173+00:00",
+      "NumProgressed": 453,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -1435,9 +1440,9 @@
       "ID": "5",
       "SetID": "5pi96jj",
       "Name": "What\u0027s Cooking?",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 41
     },
     {
       "ID": "6",
@@ -1461,7 +1466,7 @@
       "Name": "Baby\u0027s On Fire",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "9",
@@ -1477,7 +1482,7 @@
       "Name": "Turn a Rat into a Snack",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "REMAKE_002",
@@ -1485,15 +1490,15 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "REMAKE_004",
       "SetID": "5pi96jj",
       "Name": "I\u0027m Your Daddy",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 271
+      "UsersEstimate": 267
     },
     {
       "ID": "Remake_005",
@@ -1507,9 +1512,9 @@
       "ID": "Remake_006",
       "SetID": "5pi96jj",
       "Name": "Attempted Vehicular Infanticide",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 41
     },
     {
       "ID": "Remake_007",
@@ -1637,21 +1642,21 @@
       "Name": "Escape Lookout Cove",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     }
   ],
   "AchievementSets": [
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 451,
+      "Progressed": 453,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-18T09:05:10.4949953+00:00",
+  "LastChanged_Achievements": "2023-12-18T10:06:16.6216168+00:00",
   "LastUpdate_AppInfo": "2023-12-11T23:56:59.5421023+00:00",
-  "LastUpdate_Ratings": "2023-12-18T08:57:25.1325623+00:00",
-  "LastUpdate_Achievements": "2023-12-18T09:05:10.4950208+00:00"
+  "LastUpdate_Ratings": "2023-12-18T09:57:26.9522224+00:00",
+  "LastUpdate_Achievements": "2023-12-18T10:06:16.6216402+00:00"
 }

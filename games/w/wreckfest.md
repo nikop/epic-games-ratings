@@ -2,6 +2,36 @@
 [Store](https://store.epicgames.com/en-US/p/wreckfest)  
 [View Rawdata](../../db/w/wreckfest.json)  
 Rating: 4.26 (Ranked 881)  
+## Achievements
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Look Mom, I Can Fly | 0.00% | ~0 |
+| Highballer | 0.00% | ~0 |
+| Regional Juniors Champion | 0.00% | ~0 |
+| National Amateurs Champion | 0.00% | ~0 |
+| Challengers Champion | 0.00% | ~0 |
+| Pro Internationals Champion | 0.00% | ~0 |
+| World Masters Champion | 0.00% | ~0 |
+| Storm Warning | 0.00% | ~0 |
+| Wheeler Dealer | 0.00% | ~0 |
+| Junk Collector | 0.00% | ~0 |
+| Cash For Crashes | 0.00% | ~0 |
+| Glutton For Punishment | 0.00% | ~0 |
+| Garden Variety | 0.00% | ~0 |
+| Human Lover | 0.00% | ~0 |
+| Dirty Roller | 0.00% | ~0 |
+| Trashing Around | 0.00% | ~0 |
+| Showing Some Dedication | 0.00% | ~0 |
+| Rocketeer | 0.00% | ~0 |
+| Hating Them Tin Cans | 0.00% | ~0 |
+| Maniac Driver | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 2 (Ranked 703)  
+Completed: 0 (0.00%) (Ranked 380)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-12-18 | 2 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,9 +2,9 @@
   "ID": "269f94247b4f471b9381fd4052bf1fad",
   "Name": "Born of Bread",
   "ProductSlug": "born-of-bread-008e66",
-  "Ranking_EOS_Progress": 559,
+  "Ranking_EOS_Progress": 557,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewPlayers": 348,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-12-05T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 29,
+  "EOS_Progressed": 30,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -169,6 +169,11 @@
       "Time": "2023-12-18T00:08:26.7286351+00:00",
       "NumProgressed": 29,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T10:08:46.6852737+00:00",
+      "NumProgressed": 30,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T15:04:34.1379111+00:00",
@@ -195,7 +200,7 @@
       "ID": "ACH_BARGAIN-HUNTER",
       "SetID": "6lg1p1e",
       "Name": "Bargain Hunter",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -211,7 +216,7 @@
       "ID": "ACH_BIG-BROTHER",
       "SetID": "6lg1p1e",
       "Name": "Big Brother",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -219,7 +224,7 @@
       "ID": "ACH_BREAD-AND-BREAKFAST",
       "SetID": "6lg1p1e",
       "Name": "Bread and Breakfast",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -259,7 +264,7 @@
       "ID": "ACH_FIRST-PAYCHECK",
       "SetID": "6lg1p1e",
       "Name": "First Paycheck",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -283,7 +288,7 @@
       "ID": "ACH_HEART-OF-THE-CARDS",
       "SetID": "6lg1p1e",
       "Name": "Heart of the Cards",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -331,7 +336,7 @@
       "ID": "ACH_MISCHIEVOUS-BREAD",
       "SetID": "6lg1p1e",
       "Name": "Mischievous Bread",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 10,
       "UsersEstimate": 14
     },
@@ -365,7 +370,7 @@
       "Name": "Partner",
       "Percentage": 83,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_PHOTOGRAPHIC-MEMORY",
@@ -395,7 +400,7 @@
       "ID": "ACH_PRO-EXCAVATOR",
       "SetID": "6lg1p1e",
       "Name": "Pro Excavator",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -419,7 +424,7 @@
       "ID": "ACH_RATATOUIED",
       "SetID": "6lg1p1e",
       "Name": "Ratatouied",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -451,7 +456,7 @@
       "ID": "ACH_WHACK-A-MOLE",
       "SetID": "6lg1p1e",
       "Name": "Whack-a-mole",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -459,7 +464,7 @@
       "ID": "ACH_ZEN-MASTER",
       "SetID": "6lg1p1e",
       "Name": "Zen Master",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 4
     }
@@ -468,14 +473,14 @@
     {
       "ID": "6lg1p1e",
       "IsBase": true,
-      "Progressed": 29,
+      "Progressed": 30,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-07T10:00:27.7734376+00:00",
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2023-12-18T09:08:48.0386324+00:00",
+  "LastChanged_Achievements": "2023-12-18T10:08:46.6852732+00:00",
   "LastUpdate_AppInfo": "2023-12-13T21:57:03.3604769+00:00",
-  "LastUpdate_Ratings": "2023-12-18T08:58:12.2182432+00:00",
-  "LastUpdate_Achievements": "2023-12-18T09:08:48.0386498+00:00"
+  "LastUpdate_Ratings": "2023-12-18T09:58:35.1180597+00:00",
+  "LastUpdate_Achievements": "2023-12-18T10:08:46.6852927+00:00"
 }

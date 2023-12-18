@@ -6,14 +6,14 @@
 | ---- | ---------- | ----- |
 | Something important | 80.00% | ~118 |
 | Wanderer | 61.00% | ~90 |
-| A piece of the story | 58.00% | ~85 |
+| A piece of the story | 58.00% | ~86 |
 | It's covered up for a reason | 46.00% | ~68 |
-| Scraps of love | 43.00% | ~63 |
+| Scraps of love | 43.00% | ~64 |
 | Do what you have to | 42.00% | ~62 |
-| The artist’s impression | 41.00% | ~60 |
-| Sign of weakness | 35.00% | ~51 |
-| Refuse to look | 33.00% | ~49 |
-| Face your fears | 27.00% | ~40 |
+| The artist’s impression | 42.00% | ~62 |
+| Sign of weakness | 35.00% | ~52 |
+| Refuse to look | 32.00% | ~47 |
+| Face your fears | 26.00% | ~38 |
 | Finished it | 26.00% | ~38 |
 | Whispers long forgotten | 14.00% | ~21 |
 | Debut | 11.00% | ~16 |
@@ -21,10 +21,10 @@
 | The art of movement | 11.00% | ~16 |
 | Tough conversation | 11.00% | ~16 |
 | A Slice of Life | 10.00% | ~15 |
-| First steps | 10.00% | ~15 |
-| Sound Bite | 10.00% | ~15 |
 | The tragedy unfolds | 10.00% | ~15 |
 | A new way | 9.00% | ~13 |
+| First steps | 9.00% | ~13 |
+| Sound Bite | 9.00% | ~13 |
 | True Reflection | 9.00% | ~13 |
 | Another perspective | 8.00% | ~12 |
 | Breaking free | 8.00% | ~12 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 147 (Ranked 421)  
+Progressed: 148 (Ranked 421)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,4 +113,4 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-15 | 125 | 0 |
 | 2023-12-16 | 133 | 0 |
 | 2023-12-17 | 145 | 0 |
-| 2023-12-18 | 147 | 0 |
+| 2023-12-18 | 148 | 0 |

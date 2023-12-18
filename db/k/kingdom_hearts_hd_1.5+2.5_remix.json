@@ -4,10 +4,10 @@
   "ProductSlug": "kingdom-hearts-hd-1-5-2-5-remix",
   "Ranking_Rating": 70,
   "Ranking_Popularity": 160,
-  "Ranking_PopularitySum": 115,
-  "Ranking_EOS_Progress": 801,
+  "Ranking_PopularitySum": 114,
+  "Ranking_EOS_Progress": 805,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewPlayers": 543,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-03-30T13:00:00+00:00",
@@ -9633,10 +9633,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 7405,
       "NumberOfAwardsMax": 970
+    },
+    {
+      "Time": "2023-12-18T09:57:33.355769+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 7409,
+      "NumberOfAwardsMax": 970
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7405,
+  "NumberOfAwards": 7409,
   "NumberOfAwardsMax": 970,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9704,7 +9710,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 891
+      "Count": 895
     },
     {
       "Text": "This game has a Creative Community",
@@ -9724,8 +9730,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:56.8065488+00:00",
-  "LastChanged": "2023-12-18T08:57:30.097733+00:00",
+  "LastChanged": "2023-12-18T09:57:33.3557689+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.6114009+00:00",
-  "LastUpdate_Ratings": "2023-12-18T08:57:30.0977336+00:00",
-  "LastUpdate_Achievements": "2023-12-18T09:03:57.9883388+00:00"
+  "LastUpdate_Ratings": "2023-12-18T09:57:33.3557696+00:00",
+  "LastUpdate_Achievements": "2023-12-18T10:04:33.9716027+00:00"
 }

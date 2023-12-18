@@ -7,8 +7,8 @@ Number of Ratings: 22  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Self Defense | 47.00% | ~226 |
-| Grand Opening | 43.00% | ~206 |
-| Circus Electrique Proudly Presents... | 43.00% | ~206 |
+| Circus Electrique Proudly Presents... | 43.00% | ~207 |
+| Grand Opening | 42.00% | ~202 |
 | Path of Learning | 42.00% | ~202 |
 | Built in a Day | 35.00% | ~168 |
 | More Brain Than Brawn | 31.00% | ~149 |
@@ -23,32 +23,32 @@ Number of Ratings: 22  (23.09.2022)
 | Bar Brawler | 15.00% | ~72 |
 | Flawless Presentation | 15.00% | ~72 |
 | One More Thing... | 14.00% | ~67 |
-| King of District 2 | 13.00% | ~62 |
+| King of District 2 | 13.00% | ~63 |
 | Time Travel! | 12.00% | ~58 |
 | Marketing Manager | 11.00% | ~53 |
 | Circus Versus Circus | 9.00% | ~43 |
 | King of District 3 | 9.00% | ~43 |
-| Spirits High | 8.00% | ~38 |
 | Club Member | 7.00% | ~34 |
 | Hundred Percent Second | 7.00% | ~34 |
+| Spirits High | 7.00% | ~34 |
 | Mobile Infantry | 7.00% | ~34 |
 | Club Champion | 6.00% | ~29 |
 | Around the Clock | 5.00% | ~24 |
 | King of District 4 | 5.00% | ~24 |
 | City Savior | 4.00% | ~19 |
 | King of District 5 | 4.00% | ~19 |
-| Accomplished Veteran | 3.00% | ~14 |
 | Hundred Percent Third | 3.00% | ~14 |
 | Hundred Percent Fourth | 3.00% | ~14 |
 | Circus Maximus | 3.00% | ~14 |
-| Victorian Victor | 3.00% | ~14 |
-| Perfect Chemistry | 3.00% | ~14 |
 | Last Man Standing | 3.00% | ~14 |
+| Accomplished Veteran | 2.00% | ~10 |
 | Unmatched Skills | 2.00% | ~10 |
 | Hundred Percent Fifth | 2.00% | ~10 |
+| Victorian Victor | 2.00% | ~10 |
 | King of District 6 | 2.00% | ~10 |
 | Grand Slam | 2.00% | ~10 |
 | The Greatest Show | 2.00% | ~10 |
+| Perfect Chemistry | 2.00% | ~10 |
 | Hundred Percent Sixth | 1.00% | ~5 |
 | London Liberator | 1.00% | ~5 |
 | Vicious Busters | 1.00% | ~5 |
@@ -57,7 +57,7 @@ Number of Ratings: 22  (23.09.2022)
 | Guest Stars | 0.40% | ~2 |
 | Versatile Tactics | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 480 (Ranked 329)  
+Progressed: 481 (Ranked 329)  
 Completed: 1 (0.21%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,6 +118,7 @@ Completed: 1 (0.21%) (Ranked 263)
 | 2023-12-14 | 477 | 1 |
 | 2023-12-15 | 478 | 1 |
 | 2023-12-17 | 480 | 1 |
+| 2023-12-18 | 481 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

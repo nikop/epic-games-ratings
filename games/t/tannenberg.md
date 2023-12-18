@@ -6,52 +6,52 @@ Number of Ratings: 13,393  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~126,147 |
-| Comeback | 82.00% | ~116,225 |
-| Information is Key | 80.00% | ~113,390 |
-| Unlucky | 70.00% | ~99,217 |
-| Anarchist | 68.00% | ~96,382 |
-| Wallhack | 65.00% | ~92,130 |
-| Steady Supply | 60.00% | ~85,043 |
-| Lucky Shot | 53.00% | ~75,121 |
-| Forward Observer | 52.00% | ~73,704 |
-| Ring Ring! | 52.00% | ~73,704 |
-| Bossing Around | 45.00% | ~63,782 |
-| Frostbite | 45.00% | ~63,782 |
-| Night Owl | 44.00% | ~62,365 |
-| Strength in Numbers | 44.00% | ~62,365 |
-| Fog of War | 41.00% | ~58,113 |
-| Rasputin | 39.00% | ~55,278 |
-| Stronghold Denied | 39.00% | ~55,278 |
-| Anyone Else? | 38.00% | ~53,860 |
-| Hydra | 36.00% | ~51,026 |
-| This Belongs to Us Now | 36.00% | ~51,026 |
-| Stronghold | 35.00% | ~49,608 |
-| Leeroy | 33.00% | ~46,774 |
-| Lost Batallion | 33.00% | ~46,774 |
-| This is MY Machine Gun! | 32.00% | ~45,356 |
-| Together As One | 31.00% | ~43,939 |
-| Gavrilo Princip | 27.00% | ~38,269 |
-| Lead Harvest | 25.00% | ~35,434 |
-| Skynet Confirmed | 23.00% | ~32,600 |
-| Kesselschlacht | 22.00% | ~31,182 |
+| Immovable Object | 89.00% | ~126,150 |
+| Comeback | 82.00% | ~116,228 |
+| Information is Key | 80.00% | ~113,394 |
+| Unlucky | 70.00% | ~99,219 |
+| Anarchist | 68.00% | ~96,385 |
+| Wallhack | 65.00% | ~92,132 |
+| Steady Supply | 60.00% | ~85,045 |
+| Lucky Shot | 53.00% | ~75,123 |
+| Forward Observer | 52.00% | ~73,706 |
+| Ring Ring! | 52.00% | ~73,706 |
+| Bossing Around | 45.00% | ~63,784 |
+| Frostbite | 45.00% | ~63,784 |
+| Night Owl | 44.00% | ~62,366 |
+| Strength in Numbers | 44.00% | ~62,366 |
+| Fog of War | 41.00% | ~58,114 |
+| Rasputin | 39.00% | ~55,279 |
+| Stronghold Denied | 39.00% | ~55,279 |
+| Anyone Else? | 38.00% | ~53,862 |
+| Hydra | 36.00% | ~51,027 |
+| This Belongs to Us Now | 36.00% | ~51,027 |
+| Stronghold | 35.00% | ~49,610 |
+| Leeroy | 33.00% | ~46,775 |
+| Lost Batallion | 33.00% | ~46,775 |
+| This is MY Machine Gun! | 32.00% | ~45,357 |
+| Together As One | 31.00% | ~43,940 |
+| Gavrilo Princip | 27.00% | ~38,270 |
+| Lead Harvest | 25.00% | ~35,436 |
+| Skynet Confirmed | 23.00% | ~32,601 |
+| Kesselschlacht | 22.00% | ~31,183 |
 | Democracy Works! | 20.00% | ~28,348 |
-| Switch, Please! | 19.00% | ~26,930 |
-| At Least This Way I Can Win... | 18.00% | ~25,513 |
-| Tourist | 18.00% | ~25,513 |
-| I've Seen It All | 17.00% | ~24,095 |
-| Oops! | 17.00% | ~24,095 |
-| Developers, Developers, Developers, Developers! | 16.00% | ~22,678 |
+| Switch, Please! | 19.00% | ~26,931 |
+| At Least This Way I Can Win... | 18.00% | ~25,514 |
+| Tourist | 18.00% | ~25,514 |
+| I've Seen It All | 17.00% | ~24,096 |
+| Oops! | 17.00% | ~24,096 |
+| Developers, Developers, Developers, Developers! | 16.00% | ~22,679 |
 | Butcher | 12.00% | ~17,009 |
 | Before the Leaves Fall | 10.00% | ~14,174 |
 | Close Call | 10.00% | ~14,174 |
 | Pinpoint | 10.00% | ~14,174 |
-| Tannenberg | 9.00% | ~12,756 |
+| Tannenberg | 9.00% | ~12,757 |
 | For the Emperor | 8.00% | ~11,339 |
 | Hawk Eye | 8.00% | ~11,339 |
 | Equality For All | 7.00% | ~9,922 |
 | Hötzendorf | 7.00% | ~9,922 |
-| Crack Shot | 6.00% | ~8,504 |
+| Crack Shot | 6.00% | ~8,505 |
 | From Russia with Love | 5.00% | ~7,087 |
 | Overachiever | 5.00% | ~7,087 |
 | Your Family Will Be Proud... | 5.00% | ~7,087 |
@@ -74,7 +74,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Seeing is Believing | 0.90% | ~1,276 |
 | Road to Berlin | 0.60% | ~850 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141,738 (Ranked 82)  
+Progressed: 141,742 (Ranked 82)  
 Completed: 34 (0.02%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 34 (0.02%) (Ranked 348)
 | 2023-12-15 | 141,400 | 33 |
 | 2023-12-16 | 141,561 | 33 |
 | 2023-12-17 | 141,706 | 34 |
-| 2023-12-18 | 141,738 | 34 |
+| 2023-12-18 | 141,742 | 34 |
 ## Awards
 Max (Competitive Players): 335  (Ranked 248)  
 Sum: 3,289 (Ranked 174)  

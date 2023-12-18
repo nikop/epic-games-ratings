@@ -191,11 +191,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 748,
+  "EOS_Progressed": 749,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.02,
+  "EOS_Completed_Percentage": 8.01,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:45.6416158+00:00",
@@ -581,6 +581,11 @@
       "Time": "2023-12-18T07:04:26.2422988+00:00",
       "NumProgressed": 748,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-18T10:05:30.9615701+00:00",
+      "NumProgressed": 749,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 50,
@@ -592,7 +597,7 @@
       "Name": "Plenty More to Go",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "ACHIEVEMENT002",
@@ -616,7 +621,7 @@
       "Name": "All Bark, No Bite",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "ACHIEVEMENT005",
@@ -680,7 +685,7 @@
       "Name": "The Go-To Girl",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ACHIEVEMENT013",
@@ -720,7 +725,7 @@
       "Name": "Adept, for an Acting Mayor",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "ACHIEVEMENT018",
@@ -776,15 +781,15 @@
       "Name": "Amateur Adventurer",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "ACHIEVEMENT025",
       "SetID": "dejhjd5",
       "Name": "Hopeful Hunter",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 494
+      "UsersEstimate": 487
     },
     {
       "ID": "ACHIEVEMENT026",
@@ -800,7 +805,7 @@
       "Name": "Natural Born Monster-Killer",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ACHIEVEMENT028",
@@ -808,7 +813,7 @@
       "Name": "On Outlander Lane",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "ACHIEVEMENT029",
@@ -856,7 +861,7 @@
       "Name": "Money, Money, Money",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "ACHIEVEMENT035",
@@ -872,7 +877,7 @@
       "Name": "First Time Hunting",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "ACHIEVEMENT037",
@@ -920,7 +925,7 @@
       "Name": "The Quarry...On Foot!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "ACHIEVEMENT043",
@@ -928,7 +933,7 @@
       "Name": "The Snowpeak...On Foot!",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ACHIEVEMENT044",
@@ -944,7 +949,7 @@
       "Name": "The Runebarrows...On Foot!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACHIEVEMENT046",
@@ -991,15 +996,15 @@
     {
       "ID": "dejhjd5",
       "IsBase": true,
-      "Progressed": 748,
+      "Progressed": 749,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-12-03T09:59:31.596296+00:00",
-  "LastChanged_Achievements": "2023-12-18T09:04:38.3118223+00:00",
+  "LastChanged_Achievements": "2023-12-18T10:05:30.9615697+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:14.9591133+00:00",
-  "LastUpdate_Ratings": "2023-12-18T09:00:12.2540042+00:00",
-  "LastUpdate_Achievements": "2023-12-18T09:04:38.3118563+00:00"
+  "LastUpdate_Ratings": "2023-12-18T10:01:27.8023724+00:00",
+  "LastUpdate_Achievements": "2023-12-18T10:05:30.9616019+00:00"
 }

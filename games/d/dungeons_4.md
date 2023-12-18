@@ -43,8 +43,8 @@
 | Doom Hill | 27.00% | ~158 |
 | Hungry, Hungry Gorgu! | 26.00% | ~153 |
 | Stop Tanos! | 25.00% | ~147 |
+| Sabotage! | 25.00% | ~147 |
 | Brimstone Shaken, Not Stirred | 25.00% | ~147 |
-| Sabotage! | 24.00% | ~141 |
 | Raiders of the Lost Stone | 23.00% | ~135 |
 | The Rune Sockets of Finitude (Part 1) | 23.00% | ~135 |
 | Bonus Evilness | 22.00% | ~129 |
@@ -67,7 +67,7 @@
 | I Don't Need Any Help | 8.00% | ~47 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 587 (Ranked 317)  
-Completed: 17 (2.90%) (Ranked 111)  
+Completed: 18 (3.07%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -109,4 +109,4 @@ Completed: 17 (2.90%) (Ranked 111)
 | 2023-12-15 | 566 | 17 |
 | 2023-12-16 | 576 | 17 |
 | 2023-12-17 | 586 | 17 |
-| 2023-12-18 | 587 | 17 |
+| 2023-12-18 | 587 | 18 |

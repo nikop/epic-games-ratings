@@ -2,9 +2,9 @@
   "ID": "43c0da4f8c774c23a76a213fb8dfe59b",
   "Name": "Sky Racket",
   "ProductSlug": "sky-racket-4cf23a",
-  "Ranking_EOS_Progress": 801,
+  "Ranking_EOS_Progress": 805,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewPlayers": 543,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-09-21T03:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:51.9241214+00:00",
   "LastChanged": "2023-03-31T05:57:51.9241215+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:30.0879524+00:00",
-  "LastUpdate_Ratings": "2023-12-18T09:02:50.4832874+00:00",
-  "LastUpdate_Achievements": "2023-12-18T09:04:26.5223796+00:00"
+  "LastUpdate_Ratings": "2023-12-18T10:02:53.1029418+00:00",
+  "LastUpdate_Achievements": "2023-12-18T10:05:14.0652924+00:00"
 }

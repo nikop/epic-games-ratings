@@ -2,9 +2,9 @@
   "ID": "76939a6fe2b54f9299254c99a9aebd35",
   "Name": "The Smurfs 2 - The Prisoner of the Green Stone",
   "ProductSlug": "the-smurfs-2-the-prisonner-of-the-green-stone-ba4653",
-  "Ranking_EOS_Progress": 735,
+  "Ranking_EOS_Progress": 738,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewPlayers": 543,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-02T09:00:00+00:00",
@@ -36,9 +36,9 @@
       "NumCompleted": 0
     }
   ],
-  "AchievementsAdded": "2023-11-27T11:03:54.8105331+00:00",
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
+  "AchievementsAdded": "2023-12-18T10:09:09.8652595+00:00",
+  "TotalAchievements": 36,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "ANY_CHALLENGES_CRYSTAL",
@@ -69,7 +69,7 @@
       "SetID": "1oh5c4a",
       "Name": "Double-dealing",
       "Percentage": 100,
-      "XP": 15,
+      "XP": 20,
       "UsersEstimate": 1
     },
     {
@@ -85,7 +85,7 @@
       "SetID": "1oh5c4a",
       "Name": "Prison No Break",
       "Percentage": 100,
-      "XP": 15,
+      "XP": 20,
       "UsersEstimate": 1
     },
     {
@@ -101,7 +101,7 @@
       "SetID": "1oh5c4a",
       "Name": "King of the Forest",
       "Percentage": 100,
-      "XP": 30,
+      "XP": 45,
       "UsersEstimate": 1
     },
     {
@@ -109,7 +109,7 @@
       "SetID": "1oh5c4a",
       "Name": "The Gold Mountain",
       "Percentage": 100,
-      "XP": 30,
+      "XP": 45,
       "UsersEstimate": 1
     },
     {
@@ -117,7 +117,7 @@
       "SetID": "1oh5c4a",
       "Name": "Hot stuff",
       "Percentage": 100,
-      "XP": 30,
+      "XP": 45,
       "UsersEstimate": 1
     },
     {
@@ -149,7 +149,7 @@
       "SetID": "1oh5c4a",
       "Name": "Let\u2019s take a walk in the woods...",
       "Percentage": 100,
-      "XP": 15,
+      "XP": 20,
       "UsersEstimate": 1
     },
     {
@@ -157,7 +157,7 @@
       "SetID": "1oh5c4a",
       "Name": "Conquer the mountain!",
       "Percentage": 100,
-      "XP": 15,
+      "XP": 20,
       "UsersEstimate": 1
     },
     {
@@ -165,7 +165,7 @@
       "SetID": "1oh5c4a",
       "Name": "Flee, poor Smurfs!",
       "Percentage": 100,
-      "XP": 15,
+      "XP": 20,
       "UsersEstimate": 1
     },
     {
@@ -347,8 +347,8 @@
   ],
   "FirstSeen": "2023-11-04T17:03:44.9852977+00:00",
   "FirstSeenAchievements": "2023-10-12T16:06:09.4130672+00:00",
-  "LastChanged_Achievements": "2023-12-18T09:09:04.2833794+00:00",
+  "LastChanged_Achievements": "2023-12-18T10:09:09.8652572+00:00",
   "LastUpdate_AppInfo": "2023-12-14T08:57:08.5944413+00:00",
-  "LastUpdate_Ratings": "2023-12-18T08:59:01.349101+00:00",
-  "LastUpdate_Achievements": "2023-12-18T09:09:04.2833814+00:00"
+  "LastUpdate_Ratings": "2023-12-18T09:59:46.0514019+00:00",
+  "LastUpdate_Achievements": "2023-12-18T10:09:09.8662071+00:00"
 }

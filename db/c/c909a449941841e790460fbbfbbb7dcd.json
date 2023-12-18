@@ -4,7 +4,7 @@
   "ProductSlug": "road-defense-outsiders-22e4ba",
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewPlayers": 348,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 206,
+  "EOS_Progressed": 207,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.37,
+  "EOS_Completed_Percentage": 4.35,
   "EosHistory": [
     {
       "Time": "2023-09-18T15:04:59.5567381+00:00",
@@ -924,6 +924,11 @@
       "Time": "2023-12-18T07:06:15.6731893+00:00",
       "NumProgressed": 206,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-18T10:08:02.3210012+00:00",
+      "NumProgressed": 207,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-09-18T15:04:59.5567411+00:00",
@@ -950,9 +955,9 @@
       "ID": "DEFEATED_10000_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Slayer",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 35
+      "UsersEstimate": 33
     },
     {
       "ID": "DEFEATED_1000_ENEMIES",
@@ -968,7 +973,7 @@
       "Name": "Murderer",
       "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "DEFEATED_10_ENEMIES",
@@ -976,7 +981,7 @@
       "Name": "Killer",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "DEFEATED_20000_ENEMIES",
@@ -984,7 +989,7 @@
       "Name": "Exterminator",
       "Percentage": 8,
       "XP": 110,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "NEW_ACHIEVEMENT_0_0",
@@ -1022,9 +1027,9 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "14g34pl",
       "Name": "Sagehaven is safe!",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 31
+      "UsersEstimate": 29
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -1046,9 +1051,9 @@
       "ID": "REACH_LEVEL_10",
       "SetID": "14g34pl",
       "Name": "Powerful",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 60,
-      "UsersEstimate": 97
+      "UsersEstimate": 95
     },
     {
       "ID": "REACH_LEVEL_15",
@@ -1064,21 +1069,21 @@
       "Name": "Strong",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     }
   ],
   "AchievementSets": [
     {
       "ID": "14g34pl",
       "IsBase": true,
-      "Progressed": 206,
+      "Progressed": 207,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-12-18T09:06:25.4163192+00:00",
+  "LastChanged_Achievements": "2023-12-18T10:08:02.3210005+00:00",
   "LastUpdate_AppInfo": "2023-12-12T21:57:14.3760557+00:00",
-  "LastUpdate_Ratings": "2023-12-18T08:57:29.2107853+00:00",
-  "LastUpdate_Achievements": "2023-12-18T09:06:25.4163353+00:00"
+  "LastUpdate_Ratings": "2023-12-18T09:57:32.0020789+00:00",
+  "LastUpdate_Achievements": "2023-12-18T10:08:02.3210157+00:00"
 }

@@ -1500,9 +1500,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 25303,
+  "EOS_Progressed": 25319,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 1608,
+  "EOS_NewPlayers": 1624,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -10945,6 +10945,11 @@
       "Time": "2023-12-18T09:09:44.8302918+00:00",
       "NumProgressed": 25303,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-18T10:10:07.2522515+00:00",
+      "NumProgressed": 25319,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -11020,7 +11025,7 @@
       "Name": "Captain and Crew",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -11028,7 +11033,7 @@
       "Name": "For Glory",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "BossCastleDefeated",
@@ -11036,7 +11041,7 @@
       "Name": "Spells and Swords",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -11148,7 +11153,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "EndTimerFail",
@@ -11267,21 +11272,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 25303,
+      "Progressed": 25319,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 4233,
+      "Progressed": 4249,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-07T09:58:25.2813813+00:00",
-  "LastChanged_Achievements": "2023-12-18T09:09:44.8302915+00:00",
+  "LastChanged_Achievements": "2023-12-18T10:10:07.2522513+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:44.2937948+00:00",
-  "LastUpdate_Ratings": "2023-12-18T08:57:07.3644378+00:00",
-  "LastUpdate_Achievements": "2023-12-18T09:09:44.8303539+00:00"
+  "LastUpdate_Ratings": "2023-12-18T09:57:01.4483875+00:00",
+  "LastUpdate_Achievements": "2023-12-18T10:10:07.2523158+00:00"
 }

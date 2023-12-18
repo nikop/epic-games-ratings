@@ -3,6 +3,41 @@
 [View Rawdata](../../db/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.json)  
 Rating: 4.66 (Ranked 296)  
 Number of Ratings: 76  (23.09.2022)  
+## Achievements
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Robot encyclopedia | 0.00% | ~0 |
+| Are you ready now? | 0.00% | ~0 |
+| The Small Does Not Rule | 0.00% | ~0 |
+| 100% SpongeBob | 0.00% | ~0 |
+| Life's as extreme as you wanna make it! | 0.00% | ~0 |
+| Uptown and Downtown | 0.00% | ~0 |
+| Ship Shape | 0.00% | ~0 |
+| Hello, Bikini Bottom | 0.00% | ~0 |
+| Shanghaied | 0.00% | ~0 |
+| Jellyfishing | 0.00% | ~0 |
+| Jellyfish Jam | 0.00% | ~0 |
+| Kelp Forest of Fear | 0.00% | ~0 |
+| Keep it Rolling | 0.00% | ~0 |
+| Shrimp Catcher | 0.00% | ~0 |
+| Toxic Terror | 0.00% | ~0 |
+| Sweet Victory | 0.00% | ~0 |
+| SpongeBob vs SpongeBob! | 0.00% | ~0 |
+| Hit Rock Bottom | 0.00% | ~0 |
+| Sleepy Time | 0.00% | ~0 |
+| Sock Concert | 0.00% | ~0 |
+| Sock Opera | 0.00% | ~0 |
+| Super Ultra Mega Spatula Seeker | 0.00% | ~0 |
+| Super Spatula Seeker | 0.00% | ~0 |
+| Ultra Spatula Seeker | 0.00% | ~0 |
+| Mega Spatula Seeker | 0.00% | ~0 |
+| Sock Getter | 0.00% | ~0 |
+| Spatula Seeker | 0.00% | ~0 |
+| Sponge Smasher | 0.00% | ~0 |
+| Squirrel Smasher | 0.00% | ~0 |
+| Star Smasher | 0.00% | ~0 |
+| Surf's Up! | 0.00% | ~0 |
+| Time For Tutorial | 0.00% | ~0 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 489)  
 Sum: 34 (Ranked 515)  

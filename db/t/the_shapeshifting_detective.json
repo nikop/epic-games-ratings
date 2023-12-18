@@ -4,7 +4,7 @@
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 321,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 268,
+  "EOS_Progressed": 269,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.12,
   "EosHistory": [
@@ -595,6 +595,11 @@
       "Time": "2023-12-17T17:08:43.8465589+00:00",
       "NumProgressed": 268,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-18T10:08:37.0640103+00:00",
+      "NumProgressed": 269,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 21,
@@ -638,7 +643,7 @@
       "Name": "Chicken",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "hashtag_winning",
@@ -654,7 +659,7 @@
       "Name": "Heavy Rayne",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "highlander",
@@ -684,9 +689,9 @@
       "ID": "patient_listener",
       "SetID": "2db2j74",
       "Name": "Patient Listener",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 124
     },
     {
       "ID": "play_it_again_sam",
@@ -694,7 +699,7 @@
       "Name": "Play It Again Sam",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "play_me_by_the_hour",
@@ -702,7 +707,7 @@
       "Name": "Play Me By The Hour",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "poetent",
@@ -732,9 +737,9 @@
       "ID": "strong_silent_type",
       "SetID": "2db2j74",
       "Name": "Strong Silent Type",
-      "Percentage": 91,
+      "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 242
     },
     {
       "ID": "the_big_sleep",
@@ -748,9 +753,9 @@
       "ID": "video_saved_the_radio_star",
       "SetID": "2db2j74",
       "Name": "Video Saved The Radio Star",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 107
+      "UsersEstimate": 105
     },
     {
       "ID": "voyeur",
@@ -758,7 +763,7 @@
       "Name": "Voyeur",
       "Percentage": 11,
       "XP": 35,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "you_had_one_job",
@@ -773,7 +778,7 @@
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 268,
+      "Progressed": 269,
       "Completed": 3
     }
   ],
@@ -781,8 +786,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-12-18T09:08:41.2537923+00:00",
+  "LastChanged_Achievements": "2023-12-18T10:08:37.0640098+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:54.0210156+00:00",
-  "LastUpdate_Ratings": "2023-12-18T09:03:10.2857829+00:00",
-  "LastUpdate_Achievements": "2023-12-18T09:08:41.2538065+00:00"
+  "LastUpdate_Ratings": "2023-12-18T10:03:24.9595103+00:00",
+  "LastUpdate_Achievements": "2023-12-18T10:08:37.0640263+00:00"
 }

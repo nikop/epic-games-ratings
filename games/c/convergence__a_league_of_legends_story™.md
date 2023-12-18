@@ -5,7 +5,7 @@ Rating: 4.64 (Ranked 340)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 37.00% | ~379 |
+| Time Heals All Wounds | 37.00% | ~380 |
 | The Mysterious Stranger | 28.00% | ~287 |
 | Rail Rat | 28.00% | ~287 |
 | Immaculate Aim | 24.00% | ~246 |
@@ -26,8 +26,8 @@ Rating: 4.64 (Ranked 340)
 | The Betrayer | 20.00% | ~205 |
 | Golem Chaser | 20.00% | ~205 |
 | Check Your Pulse | 19.00% | ~195 |
-| The Loose Cannon | 18.00% | ~184 |
-| The Family Fortune | 18.00% | ~184 |
+| The Loose Cannon | 18.00% | ~185 |
+| The Family Fortune | 18.00% | ~185 |
 | Street Style | 17.00% | ~174 |
 | The Man Who Shattered Time | 17.00% | ~174 |
 | Treasure Trove | 14.00% | ~144 |
@@ -39,8 +39,8 @@ Rating: 4.64 (Ranked 340)
 | Ask Questions Later | 12.00% | ~123 |
 | Sump Explorer | 11.00% | ~113 |
 | Syron for Hope | 11.00% | ~113 |
-| Factorywood Explorer | 10.00% | ~102 |
-| Theater Explorer | 10.00% | ~102 |
+| Factorywood Explorer | 10.00% | ~103 |
+| Theater Explorer | 10.00% | ~103 |
 | Cultivair Explorer | 9.00% | ~92 |
 | Fairgrounds Explorer | 9.00% | ~92 |
 | Corin Goes Home | 8.00% | ~82 |
@@ -50,8 +50,8 @@ Rating: 4.64 (Ranked 340)
 | Golem Hunter | 6.00% | ~62 |
 | Clovemary for Remembering | 5.00% | ~51 |
 | Rungs Was Right | 5.00% | ~51 |
-| Wunderkind | 2.00% | ~20 |
-| Fitting In | 2.00% | ~20 |
+| Wunderkind | 2.00% | ~21 |
+| Fitting In | 2.00% | ~21 |
 | Thinking Two Steps Ahead | 1.00% | ~10 |
 | A Lesson in Precision | 1.00% | ~10 |
 | No Time to Waste | 1.00% | ~10 |
@@ -59,8 +59,8 @@ Rating: 4.64 (Ranked 340)
 | Raw Talent | 0.70% | ~7 |
 | Going to Live Forever | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,025 (Ranked 275)  
-Completed: 6 (0.59%) (Ranked 197)  
+Progressed: 1,026 (Ranked 275)  
+Completed: 6 (0.58%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -207,7 +207,7 @@ Completed: 6 (0.59%) (Ranked 197)
 | 2023-12-15 | 978 | 6 |
 | 2023-12-16 | 1,000 | 6 |
 | 2023-12-17 | 1,021 | 6 |
-| 2023-12-18 | 1,025 | 6 |
+| 2023-12-18 | 1,026 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

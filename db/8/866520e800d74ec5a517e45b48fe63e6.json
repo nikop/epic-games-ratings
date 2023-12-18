@@ -2,9 +2,9 @@
   "ID": "866520e800d74ec5a517e45b48fe63e6",
   "Name": "Aquarist",
   "ProductSlug": "aquarist-eb083d",
-  "Ranking_EOS_Progress": 801,
+  "Ranking_EOS_Progress": 805,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewPlayers": 543,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-01T15:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-03T05:59:31.6635807+00:00",
   "LastUpdate_AppInfo": "2023-12-13T02:20:43.8485532+00:00",
-  "LastUpdate_Ratings": "2023-12-18T08:58:34.7655131+00:00",
-  "LastUpdate_Achievements": "2023-12-18T09:04:08.298988+00:00"
+  "LastUpdate_Ratings": "2023-12-18T09:59:06.8107561+00:00",
+  "LastUpdate_Achievements": "2023-12-18T10:04:48.2093325+00:00"
 }

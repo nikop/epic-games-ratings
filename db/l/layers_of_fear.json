@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 147,
+  "EOS_Progressed": 148,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -689,6 +689,11 @@
       "Time": "2023-12-18T09:06:18.0849559+00:00",
       "NumProgressed": 147,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T10:07:51.8159902+00:00",
+      "NumProgressed": 148,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -803,9 +808,9 @@
       "ID": "do_not_look",
       "SetID": "f2im8d",
       "Name": "Refuse to look",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 49
+      "UsersEstimate": 47
     },
     {
       "ID": "do_what_you_have_to",
@@ -827,9 +832,9 @@
       "ID": "face_your_fears",
       "SetID": "f2im8d",
       "Name": "Face your fears",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 40
+      "UsersEstimate": 38
     },
     {
       "ID": "find_most_of_family_mementos",
@@ -853,7 +858,7 @@
       "Name": "Scraps of love",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "find_one_photo",
@@ -875,9 +880,9 @@
       "ID": "find_one_rat_sketch",
       "SetID": "f2im8d",
       "Name": "The artist\u2019s impression",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 62
     },
     {
       "ID": "finished_it",
@@ -891,9 +896,9 @@
       "ID": "first_step",
       "SetID": "f2im8d",
       "Name": "First steps",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "hear_most_of_interviews",
@@ -907,9 +912,9 @@
       "ID": "hear_one_interview",
       "SetID": "f2im8d",
       "Name": "Sound Bite",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "heavy_burden",
@@ -973,7 +978,7 @@
       "Name": "A piece of the story",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "playtime",
@@ -1029,7 +1034,7 @@
       "Name": "Sign of weakness",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "something_important",
@@ -1116,14 +1121,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 147,
+      "Progressed": 148,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-18T09:06:18.0849554+00:00",
+  "LastChanged_Achievements": "2023-12-18T10:07:51.8159897+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:26.5525701+00:00",
-  "LastUpdate_Ratings": "2023-12-18T08:57:14.2628147+00:00",
-  "LastUpdate_Achievements": "2023-12-18T09:06:18.0849895+00:00"
+  "LastUpdate_Ratings": "2023-12-18T09:57:10.8450456+00:00",
+  "LastUpdate_Achievements": "2023-12-18T10:07:51.8160295+00:00"
 }

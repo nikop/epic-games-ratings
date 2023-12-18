@@ -3,9 +3,9 @@
   "Name": "Dungeons 4",
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 317,
-  "Ranking_EOS_Completed": 111,
+  "Ranking_EOS_Completed": 108,
   "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 587,
-  "EOS_Completed": 17,
+  "EOS_Completed": 18,
   "EOS_NewPlayers": 44,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 2.9,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 3.07,
   "EosHistory": [
     {
       "Time": "2023-11-09T19:14:40.2664678+00:00",
@@ -1634,6 +1634,11 @@
       "Time": "2023-12-18T06:06:48.8023813+00:00",
       "NumProgressed": 587,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-12-18T10:08:25.8199601+00:00",
+      "NumProgressed": 587,
+      "NumCompleted": 18
     }
   ],
   "AchievementsAdded": "2023-11-07T12:05:38.3005436+00:00",
@@ -1996,9 +2001,9 @@
       "ID": "ach_main15drill_sabotage",
       "SetID": "4hg22ll",
       "Name": "Sabotage!",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 147
     },
     {
       "ID": "ach_main15drill_untouchable",
@@ -2134,13 +2139,13 @@
       "ID": "4hg22ll",
       "IsBase": true,
       "Progressed": 587,
-      "Completed": 17
+      "Completed": 18
     }
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-18T09:08:33.3500302+00:00",
+  "LastChanged_Achievements": "2023-12-18T10:08:25.8199599+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:09.5802782+00:00",
-  "LastUpdate_Ratings": "2023-12-18T08:58:50.4503336+00:00",
-  "LastUpdate_Achievements": "2023-12-18T09:08:33.3500867+00:00"
+  "LastUpdate_Ratings": "2023-12-18T09:59:29.9605912+00:00",
+  "LastUpdate_Achievements": "2023-12-18T10:08:25.8200008+00:00"
 }

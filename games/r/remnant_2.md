@@ -5,16 +5,16 @@ Rating: 4.75 (Ranked 150)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 5.00% | ~12,638 |
-| First of Many | 5.00% | ~12,638 |
-| Expanding Horizons | 3.00% | ~7,583 |
-| Not Your Average Trait | 3.00% | ~7,583 |
-| Gleaming the Cube | 2.00% | ~5,055 |
-| Quest for Survival | 2.00% | ~5,055 |
-| Not a Janitor | 2.00% | ~5,055 |
-| Familiar Face | 2.00% | ~5,055 |
-| Boss'n Up | 2.00% | ~5,055 |
-| Trait Chaser | 2.00% | ~5,055 |
+| The Killing Jar | 5.00% | ~12,641 |
+| First of Many | 5.00% | ~12,641 |
+| Expanding Horizons | 3.00% | ~7,585 |
+| Not Your Average Trait | 3.00% | ~7,585 |
+| Gleaming the Cube | 2.00% | ~5,056 |
+| Quest for Survival | 2.00% | ~5,056 |
+| Not a Janitor | 2.00% | ~5,056 |
+| Familiar Face | 2.00% | ~5,056 |
+| Boss'n Up | 2.00% | ~5,056 |
+| Trait Chaser | 2.00% | ~5,056 |
 | Dark Designs | 1.00% | ~2,528 |
 | Not So Special Now | 1.00% | ~2,528 |
 | Equal Measures | 1.00% | ~2,528 |
@@ -26,20 +26,20 @@ Rating: 4.75 (Ranked 150)
 | Almost There | 1.00% | ~2,528 |
 | Make Some Room | 1.00% | ~2,528 |
 | Good, But Could Be Better! | 1.00% | ~2,528 |
-| Regicide | 1.00% | ~319 |
+| Regicide | 1.00% | ~320 |
 | Chaos | 0.90% | ~2,275 |
 | Traitor | 0.90% | ~2,275 |
 | Power Surge | 0.90% | ~2,275 |
 | The God Gambit | 0.90% | ~2,275 |
 | The Web | 0.90% | ~2,275 |
-| Master of the Dark Arts | 0.90% | ~287 |
-| Am I Seeing This? | 0.80% | ~2,022 |
-| Madman's Paradise | 0.80% | ~2,022 |
-| The Agenda | 0.80% | ~2,022 |
-| Scrap Collector | 0.80% | ~2,022 |
+| Master of the Dark Arts | 0.90% | ~288 |
+| Am I Seeing This? | 0.80% | ~2,023 |
+| Madman's Paradise | 0.80% | ~2,023 |
+| The Agenda | 0.80% | ~2,023 |
+| Scrap Collector | 0.80% | ~2,023 |
+| Strapped | 0.70% | ~1,770 |
 | Forever is a Long Time Coming | 0.60% | ~1,517 |
 | Bad Moon Rising | 0.60% | ~1,517 |
-| Strapped | 0.60% | ~1,517 |
 | Edgelord | 0.60% | ~1,517 |
 | Scrap Hoarder | 0.60% | ~1,517 |
 | All These Traits� | 0.60% | ~1,517 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 150)
 | A Foul Feast | 0.20% | ~64 |
 | You Shall Pass | 0.20% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252,767 (Ranked 62)  
+Progressed: 252,824 (Ranked 62)  
 Completed: 599 (0.24%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,21 +216,21 @@ Completed: 599 (0.24%) (Ranked 258)
 | 2023-12-15 | 245,556 | 588 |
 | 2023-12-16 | 249,241 | 590 |
 | 2023-12-17 | 252,137 | 598 |
-| 2023-12-18 | 252,767 | 599 |
+| 2023-12-18 | 252,824 | 599 |
 ## Awards
 Max (Great Boss Battles): 2,917  (Ranked 100)  
-Sum: 7,200 (Ranked 122)  
-Diff (max vs sum): -22  
+Sum: 7,210 (Ranked 121)  
+Diff (max vs sum): -21  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,917 |
 | This game has Diverse Characters | 488 |
 | This game is Highly Recommended | 460 |
-| This game has Challenging Combat | 449 |
+| This game has Challenging Combat | 454 |
+| This game is Relaxing | 442 |
 | This game has Quickly Understood Controls | 439 |
 | This game has Amazing Storytelling | 439 |
 | This game is Extremely Fun | 438 |
-| This game is Relaxing | 437 |
 | This game has Amazing Characters | 426 |
 | This game has Unique Visuals | 384 |
 | This game has a Creative Community | 323 |
@@ -382,4 +382,4 @@ Diff (max vs sum): -22
 | 2023-12-15 | 4.75 | 2,779 | 6,979 |
 | 2023-12-16 | 4.76 | 2,821 | 7,056 |
 | 2023-12-17 | 4.75 | 2,917 | 7,182 |
-| 2023-12-18 | 4.75 | 2,917 | 7,200 |
+| 2023-12-18 | 4.75 | 2,917 | 7,210 |

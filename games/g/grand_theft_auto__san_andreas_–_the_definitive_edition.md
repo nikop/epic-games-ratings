@@ -5,23 +5,23 @@ Rating: 4.56 (Ranked 497)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~12,359 |
-| Pay 'n' Spray | 50.00% | ~7,629 |
-| All Dressed Up for San Fierro | 25.00% | ~3,814 |
-| The American Dream | 19.00% | ~2,899 |
-| School's Out | 18.00% | ~2,746 |
-| Smooth Moves | 17.00% | ~2,594 |
-| What happens in Las Venturas... | 15.00% | ~2,289 |
-| Today Was a Good Day | 15.00% | ~2,289 |
-| Horror of the Santa Maria | 11.00% | ~1,678 |
+| Getting Started | 81.00% | ~12,365 |
+| Pay 'n' Spray | 50.00% | ~7,632 |
+| All Dressed Up for San Fierro | 25.00% | ~3,816 |
+| The American Dream | 19.00% | ~2,900 |
+| School's Out | 18.00% | ~2,748 |
+| Smooth Moves | 17.00% | ~2,595 |
+| What happens in Las Venturas... | 15.00% | ~2,290 |
+| Today Was a Good Day | 15.00% | ~2,290 |
+| Horror of the Santa Maria | 11.00% | ~1,679 |
 | Liberty City State of Mind | 10.00% | ~1,526 |
 | The End of the Line | 8.00% | ~1,221 |
 | Original Gangster | 8.00% | ~1,221 |
-| With Extra Dip | 7.00% | ~1,068 |
-| Saviour | 6.00% | ~915 |
+| With Extra Dip | 7.00% | ~1,069 |
+| Saviour | 6.00% | ~916 |
 | They Can’t Stop All of Us | 5.00% | ~763 |
 | Rescue a Kitten Too? | 5.00% | ~763 |
-| What are the Odds | 4.00% | ~610 |
+| What are the Odds | 4.00% | ~611 |
 | Bike or Biker | 3.00% | ~458 |
 | What the City Needs | 3.00% | ~458 |
 | A Legitimate Business | 2.00% | ~305 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 497)
 | ...Here we go again | 0.50% | ~76 |
 | I Ain't No Buster | 0.40% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,258 (Ranked 158)  
+Progressed: 15,265 (Ranked 158)  
 Completed: 59 (0.39%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 59 (0.39%) (Ranked 227)
 | 2023-12-15 | 14,573 | 58 |
 | 2023-12-16 | 14,887 | 58 |
 | 2023-12-17 | 15,199 | 58 |
-| 2023-12-18 | 15,258 | 59 |
+| 2023-12-18 | 15,265 | 59 |
 ## Awards
 Max (Great Boss Battles): 451  (Ranked 224)  
 Sum: 702 (Ranked 301)  

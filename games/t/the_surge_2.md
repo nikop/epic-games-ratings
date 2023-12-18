@@ -5,14 +5,14 @@ Rating: 4.26 (Ranked 881)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,825 |
+| Rigged And Ready | 80.00% | ~1,826 |
 | Don't I Know You...? | 76.00% | ~1,734 |
-| Jailbreak | 66.00% | ~1,505 |
+| Jailbreak | 66.00% | ~1,506 |
 | HEADSHOT! | 38.00% | ~867 |
 | Suited and Booted | 38.00% | ~867 |
-| Sleeping With The Fishes | 36.00% | ~821 |
-| High Performance | 31.00% | ~707 |
-| Overheated | 30.00% | ~684 |
+| Sleeping With The Fishes | 36.00% | ~822 |
+| Overheated | 30.00% | ~685 |
+| High Performance | 30.00% | ~685 |
 | Powered Up | 28.00% | ~639 |
 | Studied The Blade | 25.00% | ~570 |
 | Home Invasion | 23.00% | ~525 |
@@ -22,8 +22,8 @@ Rating: 4.26 (Ranked 881)
 | Offensive Defense | 20.00% | ~456 |
 | Shocking | 20.00% | ~456 |
 | Unforeseeable Consequences | 20.00% | ~456 |
-| Court Martial | 19.00% | ~433 |
-| Clean Cut | 19.00% | ~433 |
+| Court Martial | 19.00% | ~434 |
+| Clean Cut | 19.00% | ~434 |
 | Dead Again | 18.00% | ~411 |
 | Full Arsenal | 17.00% | ~388 |
 | Can't Trust Banks | 15.00% | ~342 |
@@ -38,9 +38,9 @@ Rating: 4.26 (Ranked 881)
 | Stimulating The Local Economy | 10.00% | ~228 |
 | Triplets | 10.00% | ~228 |
 | Denying Prophecy | 9.00% | ~205 |
-| A Little Banged Up | 8.00% | ~182 |
-| Following In Their Footsteps | 8.00% | ~182 |
-| Defense in Depth | 8.00% | ~182 |
+| A Little Banged Up | 8.00% | ~183 |
+| Following In Their Footsteps | 8.00% | ~183 |
+| Defense in Depth | 8.00% | ~183 |
 | Reverse Engineering | 7.00% | ~160 |
 | Reborn | 6.00% | ~137 |
 | Remote Surgery | 6.00% | ~137 |
@@ -63,7 +63,7 @@ Rating: 4.26 (Ranked 881)
 | Three Birds With One Stone | 1.00% | ~23 |
 | The Easy Way Out | 1.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,281 (Ranked 227)  
+Progressed: 2,282 (Ranked 227)  
 Completed: 13 (0.57%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,7 +242,7 @@ Completed: 13 (0.57%) (Ranked 202)
 | 2023-12-15 | 2,246 | 13 |
 | 2023-12-16 | 2,261 | 13 |
 | 2023-12-17 | 2,275 | 13 |
-| 2023-12-18 | 2,281 | 13 |
+| 2023-12-18 | 2,282 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

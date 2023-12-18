@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Sigil | 0.70% | ~1,455 |
+| Welcome to Sigil | 0.70% | ~1,456 |
 | A Brief Tour of the Realms | 0.60% | ~1,450 |
 | Fast Food | 0.50% | ~1,040 |
 | The Cursed Farmer | 0.30% | ~725 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Brains of an Illithid's Desire | 0.10% | ~208 |
 | Welcome to the Vrocks | 0.10% | ~208 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,650 (Ranked 65)  
+Progressed: 241,663 (Ranked 65)  
 Completed: 2,539 (1.05%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -795,10 +795,10 @@ Completed: 2,539 (1.05%) (Ranked 168)
 | 2023-12-15 | 240,802 | 2,532 |
 | 2023-12-16 | 241,195 | 2,536 |
 | 2023-12-17 | 241,554 | 2,539 |
-| 2023-12-18 | 241,650 | 2,539 |
+| 2023-12-18 | 241,663 | 2,539 |
 ## Awards
 Max (Great for Beginners): 5,658  (Ranked 70)  
-Sum: 32,939 (Ranked 41)  
+Sum: 32,942 (Ranked 41)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -806,7 +806,7 @@ Diff (max vs sum): 29
 | This game has Diverse Characters | 5,611 |
 | This game has Quickly Understood Controls | 4,846 |
 | This game is Relaxing | 4,731 |
-| This game has Amazing Characters | 4,261 |
+| This game has Amazing Characters | 4,264 |
 | This game is Highly Recommended | 4,254 |
 | This game has Playful Visuals | 3,578 |
 ## Ratings History
@@ -1138,3 +1138,4 @@ Diff (max vs sum): 29
 | 2023-12-15 | 4.06 | - | 5,645 | 32,899 |
 | 2023-12-16 | 4.06 | - | 5,654 | 32,925 |
 | 2023-12-17 | 4.06 | - | 5,658 | 32,939 |
+| 2023-12-18 | 4.06 | - | 5,658 | 32,942 |

@@ -1667,9 +1667,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 17821,
+  "EOS_Progressed": 17825,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1297,
+  "EOS_NewPlayers": 1300,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -10117,6 +10117,11 @@
       "Time": "2023-12-18T09:09:20.5818742+00:00",
       "NumProgressed": 17821,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-18T10:09:32.7602474+00:00",
+      "NumProgressed": 17825,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -10208,7 +10213,7 @@
       "Name": "Recidivist",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "FINISH_GAME_HARDCORE_PLUS",
@@ -10248,7 +10253,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1070
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -10328,7 +10333,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "STORY_HABITAT",
@@ -10336,7 +10341,7 @@
       "Name": "Without A Paddle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "STORY_HANGAR",
@@ -10344,7 +10349,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1070
     },
     {
       "ID": "STORY_MINETOWN",
@@ -10360,7 +10365,7 @@
       "Name": "Desperate Times",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1960
+      "UsersEstimate": 1961
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -10368,7 +10373,7 @@
       "Name": "Crash Site",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1070
     },
     {
       "ID": "STORY_TOWER",
@@ -10376,7 +10381,7 @@
       "Name": "Full Circle",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1070
     },
     {
       "ID": "STORY_TUNNELS",
@@ -10384,7 +10389,7 @@
       "Name": "Power Up",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1070
     },
     {
       "ID": "DISMEMBER_100",
@@ -10424,7 +10429,7 @@
       "Name": "Hoard Mode",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "RIOT_10_POWERUPS",
@@ -10440,7 +10445,7 @@
       "Name": "Big Spender",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "DESTROY_FACTORY_CRATES",
@@ -10464,7 +10469,7 @@
       "Name": "This Isn\u0027t About Escape",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "FINISH_DLC4",
@@ -10496,20 +10501,20 @@
       "Name": "Quick Pick",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     }
   ],
   "AchievementSets": [
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 17821,
+      "Progressed": 17825,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 5747,
+      "Progressed": 5751,
       "Completed": 29
     }
   ],
@@ -10517,8 +10522,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-18T06:03:00.946699+00:00",
-  "LastChanged_Achievements": "2023-12-18T09:09:20.5818739+00:00",
+  "LastChanged_Achievements": "2023-12-18T10:09:32.7602468+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.4893565+00:00",
-  "LastUpdate_Ratings": "2023-12-18T09:03:15.2632794+00:00",
-  "LastUpdate_Achievements": "2023-12-18T09:09:20.5819343+00:00"
+  "LastUpdate_Ratings": "2023-12-18T10:03:32.2576566+00:00",
+  "LastUpdate_Achievements": "2023-12-18T10:09:32.7603225+00:00"
 }
