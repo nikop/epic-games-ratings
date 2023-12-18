@@ -2,9 +2,9 @@
   "ID": "9df61912ce644d8096412ba0f516759a",
   "Name": "Layers of Fear",
   "ProductSlug": "layers-of-fears-85a02b",
-  "Ranking_EOS_Progress": 422,
+  "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 145,
+  "EOS_Progressed": 147,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -684,6 +684,11 @@
       "Time": "2023-12-17T22:05:58.1075607+00:00",
       "NumProgressed": 145,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T09:06:18.0849559+00:00",
+      "NumProgressed": 147,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -776,7 +781,7 @@
       "Name": "It\u0027s covered up for a reason",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "decrypt_one_myth",
@@ -800,13 +805,13 @@
       "Name": "Refuse to look",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "do_what_you_have_to",
       "SetID": "f2im8d",
       "Name": "Do what you have to",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 25,
       "UsersEstimate": 62
     },
@@ -824,7 +829,7 @@
       "Name": "Face your fears",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "find_most_of_family_mementos",
@@ -848,7 +853,7 @@
       "Name": "Scraps of love",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "find_one_photo",
@@ -856,7 +861,7 @@
       "Name": "A Slice of Life",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "find_one_poster",
@@ -870,9 +875,9 @@
       "ID": "find_one_rat_sketch",
       "SetID": "f2im8d",
       "Name": "The artist\u2019s impression",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 60
     },
     {
       "ID": "finished_it",
@@ -888,7 +893,7 @@
       "Name": "First steps",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "hear_most_of_interviews",
@@ -904,7 +909,7 @@
       "Name": "Sound Bite",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "heavy_burden",
@@ -966,9 +971,9 @@
       "ID": "piece_of_story",
       "SetID": "f2im8d",
       "Name": "A piece of the story",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 85
     },
     {
       "ID": "playtime",
@@ -1022,9 +1027,9 @@
       "ID": "sign_of_weakness",
       "SetID": "f2im8d",
       "Name": "Sign of weakness",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 51
     },
     {
       "ID": "something_important",
@@ -1032,7 +1037,7 @@
       "Name": "Something important",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 118
     },
     {
       "ID": "spy_one_item",
@@ -1064,7 +1069,7 @@
       "Name": "The tragedy unfolds",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "tough_conversation",
@@ -1094,7 +1099,7 @@
       "ID": "wanderer",
       "SetID": "f2im8d",
       "Name": "Wanderer",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 5,
       "UsersEstimate": 90
     },
@@ -1104,21 +1109,21 @@
       "Name": "Whispers long forgotten",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     }
   ],
   "AchievementSets": [
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 145,
+      "Progressed": 147,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-18T08:06:08.2563983+00:00",
+  "LastChanged_Achievements": "2023-12-18T09:06:18.0849554+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:26.5525701+00:00",
-  "LastUpdate_Ratings": "2023-12-18T07:57:14.1365202+00:00",
-  "LastUpdate_Achievements": "2023-12-18T08:06:08.2564322+00:00"
+  "LastUpdate_Ratings": "2023-12-18T08:57:14.2628147+00:00",
+  "LastUpdate_Achievements": "2023-12-18T09:06:18.0849895+00:00"
 }

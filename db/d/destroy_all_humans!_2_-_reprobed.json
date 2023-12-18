@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 451,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -276,9 +276,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 109,
+  "EOS_Progressed": 111,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -716,6 +716,11 @@
       "Time": "2023-12-18T08:08:58.3498182+00:00",
       "NumProgressed": 109,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T09:08:55.1942668+00:00",
+      "NumProgressed": 111,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -726,9 +731,9 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -742,9 +747,9 @@
       "ID": "ACH_ANAL_PROBE_TRIPPLE_CRIT",
       "SetID": "4n84pon",
       "Name": "Perfect Probulator",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_BASKETBALL_SLAM",
@@ -760,7 +765,7 @@
       "Name": "Furon Fashion",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -798,9 +803,9 @@
       "ID": "ACH_COMPLETE_ARK01",
       "SetID": "4n84pon",
       "Name": "Cult Following",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -856,7 +861,7 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
@@ -864,7 +869,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -872,13 +877,13 @@
       "Name": "Fly Me to the Moon Base",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_ENTER_TAKOSHIMA",
       "SetID": "4n84pon",
       "Name": "I Look Up As I Walk to Takoshima",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 25,
       "UsersEstimate": 17
     },
@@ -894,9 +899,9 @@
       "ID": "ACH_KILL_BONGWATER",
       "SetID": "4n84pon",
       "Name": "Bodied Sattva",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -904,7 +909,7 @@
       "Name": "Kaijuiced",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_KILL_MILENKOV",
@@ -918,9 +923,9 @@
       "ID": "ACH_KILL_ORANCHOV",
       "SetID": "4n84pon",
       "Name": "Freshly Squeezed",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_KILL_PONSONBY",
@@ -976,15 +981,15 @@
       "Name": "Earthly Pleasures",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
       "SetID": "4n84pon",
       "Name": "Upgreatest",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -1014,9 +1019,9 @@
       "ID": "ACH_SKATE_AWAY_FROM_SPORE",
       "SetID": "4n84pon",
       "Name": "Dusted",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_SKATE_BAYCITY",
@@ -1079,7 +1084,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 109,
+      "Progressed": 111,
       "Completed": 0
     }
   ],
@@ -1087,8 +1092,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-18T08:08:58.3498176+00:00",
+  "LastChanged_Achievements": "2023-12-18T09:08:55.1942663+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:43.3974092+00:00",
   "LastUpdate_Ratings": "2023-12-18T08:00:28.4400648+00:00",
-  "LastUpdate_Achievements": "2023-12-18T08:08:58.3498502+00:00"
+  "LastUpdate_Achievements": "2023-12-18T09:08:55.1942909+00:00"
 }

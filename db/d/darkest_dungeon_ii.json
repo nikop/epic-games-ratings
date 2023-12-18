@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9858,9 +9858,9 @@
       "Count": 1026
     }
   ],
-  "EOS_Progressed": 128233,
+  "EOS_Progressed": 128243,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2128,
+  "EOS_NewPlayers": 2134,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35608,6 +35608,11 @@
       "Time": "2023-12-18T08:09:19.9553422+00:00",
       "NumProgressed": 128233,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-18T09:09:16.4108087+00:00",
+      "NumProgressed": 128243,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36155,7 +36160,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "combat_kill_collector",
@@ -36219,7 +36224,7 @@
       "Name": "Lost and Found",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -36250,21 +36255,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 128233,
+      "Progressed": 128243,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 3102,
+      "Progressed": 3112,
       "Completed": 801
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-18T02:21:43.7847477+00:00",
-  "LastChanged_Achievements": "2023-12-18T08:09:19.9553416+00:00",
+  "LastChanged_Achievements": "2023-12-18T09:09:16.4108085+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-18T07:58:19.3142361+00:00",
-  "LastUpdate_Achievements": "2023-12-18T08:09:19.9555325+00:00"
+  "LastUpdate_Ratings": "2023-12-18T08:58:17.1198265+00:00",
+  "LastUpdate_Achievements": "2023-12-18T09:09:16.4109687+00:00"
 }

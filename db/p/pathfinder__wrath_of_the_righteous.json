@@ -4625,9 +4625,9 @@
       "Count": 403
     }
   ],
-  "EOS_Progressed": 12468,
+  "EOS_Progressed": 12470,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17235,6 +17235,11 @@
       "Time": "2023-12-18T08:10:06.8613494+00:00",
       "NumProgressed": 12468,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T09:10:02.1447492+00:00",
+      "NumProgressed": 12470,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -17246,7 +17251,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3366
+      "UsersEstimate": 3367
     },
     {
       "ID": "02_BurningCity",
@@ -17254,7 +17259,7 @@
       "Name": "Burning City",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2244
+      "UsersEstimate": 2245
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -17318,7 +17323,7 @@
       "Name": "Path of the Azata",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "11_PathOfAeon",
@@ -17374,7 +17379,7 @@
       "Name": "Transformation",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "18_MythicChoices",
@@ -17430,7 +17435,7 @@
       "Name": "The Legacy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "25_MasterfulDispell",
@@ -17590,7 +17595,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "46_AllPathsOpen",
@@ -17622,7 +17627,7 @@
       "Name": "A Flame",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "50_HeyIKnowYou",
@@ -17670,7 +17675,7 @@
       "Name": "Next-Door Play",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "56_GetToad",
@@ -17678,7 +17683,7 @@
       "Name": "Get the Toad",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "57_PathOfDevil",
@@ -18142,7 +18147,7 @@
       "Name": "This Wall Won\u0027t Fall",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "DLC4_27_Not the Last Sarkorian",
@@ -18150,7 +18155,7 @@
       "Name": "Not the Last Sarkorian",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "DLC4_29_The Lady of the Forest",
@@ -18173,21 +18178,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11250,
+      "Progressed": 11252,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12468,
+      "Progressed": 12470,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-17T17:59:32.4724351+00:00",
-  "LastChanged_Achievements": "2023-12-18T08:10:06.861349+00:00",
+  "LastChanged_Achievements": "2023-12-18T09:10:02.1447489+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.7532096+00:00",
-  "LastUpdate_Ratings": "2023-12-18T08:00:06.1092728+00:00",
-  "LastUpdate_Achievements": "2023-12-18T08:10:06.8615039+00:00"
+  "LastUpdate_Ratings": "2023-12-18T08:59:59.1193184+00:00",
+  "LastUpdate_Achievements": "2023-12-18T09:10:02.1449182+00:00"
 }

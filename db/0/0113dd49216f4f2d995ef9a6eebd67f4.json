@@ -2,7 +2,7 @@
   "ID": "0113dd49216f4f2d995ef9a6eebd67f4",
   "Name": "Stray Gods: The Roleplaying Musical",
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
-  "Ranking_EOS_Progress": 429,
+  "Ranking_EOS_Progress": 428,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 284,
   "Ranking_EOS_NewCompleters": 153,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 131,
+  "EOS_Progressed": 132,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -604,6 +604,11 @@
       "Time": "2023-12-17T22:08:33.0463814+00:00",
       "NumProgressed": 131,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T09:08:50.2486952+00:00",
+      "NumProgressed": 132,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -624,15 +629,15 @@
       "Name": "Across The Styx",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "SG_AGAINSTALLODDS",
       "SetID": "bj5g0n4",
       "Name": "Against All Odds",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "SG_ALLTHEHELPYOUNEED",
@@ -656,7 +661,7 @@
       "Name": "Brand New Chorus",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SG_BRAVEONTIME",
@@ -672,7 +677,7 @@
       "Name": "Charismatic",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SG_CUNNING",
@@ -696,7 +701,7 @@
       "Name": "Everything Has Changed",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SG_FIERY",
@@ -750,9 +755,9 @@
       "ID": "SG_MEANTTOBE",
       "SetID": "bj5g0n4",
       "Name": "Meant To Be",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "SG_MYTIMETOSHINE",
@@ -766,9 +771,9 @@
       "ID": "SG_NOTALOSTGIRL",
       "SetID": "bj5g0n4",
       "Name": "Not A Lost Girl",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 59
     },
     {
       "ID": "SG_NOTTAKINGANYCHANCES",
@@ -808,7 +813,7 @@
       "Name": "Snake Charmer",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SG_TALKTOTHEHAND",
@@ -848,7 +853,7 @@
       "Name": "The High Road",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SG_THEKINGOFHELL",
@@ -880,7 +885,7 @@
       "Name": "The Ultimate Sacrifice",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SG_THISHELLISMINE",
@@ -911,14 +916,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 131,
+      "Progressed": 132,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-12-18T08:08:53.3012228+00:00",
+  "LastChanged_Achievements": "2023-12-18T09:08:50.2486949+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:06.0565697+00:00",
-  "LastUpdate_Ratings": "2023-12-18T07:58:59.9000052+00:00",
-  "LastUpdate_Achievements": "2023-12-18T08:08:53.3012472+00:00"
+  "LastUpdate_Ratings": "2023-12-18T08:58:54.7214871+00:00",
+  "LastUpdate_Achievements": "2023-12-18T09:08:50.2487158+00:00"
 }

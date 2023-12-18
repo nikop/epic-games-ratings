@@ -5103,9 +5103,9 @@
       "Count": 515
     }
   ],
-  "EOS_Progressed": 92100,
+  "EOS_Progressed": 92102,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 247,
+  "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -28283,6 +28283,11 @@
       "Time": "2023-12-18T08:04:56.4201094+00:00",
       "NumProgressed": 92100,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-18T09:05:07.4044473+00:00",
+      "NumProgressed": 92102,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -28334,7 +28339,7 @@
       "Name": "Legend Looter",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "ACH_0016",
@@ -28342,7 +28347,7 @@
       "Name": "Imports and Exports",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "ACH_0021",
@@ -28366,7 +28371,7 @@
       "Name": "Savvy Seeker",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "ACH_0040",
@@ -28382,7 +28387,7 @@
       "Name": "Foo Finder",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "ACH_0060",
@@ -28470,7 +28475,7 @@
       "Name": "Olympus Ascended",
       "Percentage": 0.5,
       "XP": 55,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "ACH_0310",
@@ -28486,7 +28491,7 @@
       "Name": "Ding Dong",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "ACH_0340",
@@ -28621,13 +28626,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 92100,
+      "Progressed": 92102,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 20447,
+      "Progressed": 20449,
       "Completed": 15586
     }
   ],
@@ -28635,8 +28640,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-12-18T08:00:19.9124796+00:00",
-  "LastChanged_Achievements": "2023-12-18T08:04:56.4201089+00:00",
+  "LastChanged_Achievements": "2023-12-18T09:05:07.4044468+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:15.2774722+00:00",
-  "LastUpdate_Ratings": "2023-12-18T08:00:19.91248+00:00",
-  "LastUpdate_Achievements": "2023-12-18T08:04:56.4202348+00:00"
+  "LastUpdate_Ratings": "2023-12-18T09:00:12.846416+00:00",
+  "LastUpdate_Achievements": "2023-12-18T09:05:07.4045492+00:00"
 }

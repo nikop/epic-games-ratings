@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Breaking Free | 41.00% | ~14 |
 | Overcoming Weakness | 21.00% | ~7 |
-| Boulder Breaker | 18.00% | ~6 |
+| Boulder Breaker | 21.00% | ~7 |
 | Fence-Sitter | 15.00% | ~5 |
 | Green Thumb | 12.00% | ~4 |
 | Crystal Hunter | 9.00% | ~3 |

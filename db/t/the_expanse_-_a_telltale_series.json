@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16728,
+  "EOS_Progressed": 16731,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 678,
+  "EOS_NewPlayers": 680,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -14249,6 +14249,11 @@
       "Time": "2023-12-18T08:03:42.4384011+00:00",
       "NumProgressed": 16728,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-12-18T09:03:54.875072+00:00",
+      "NumProgressed": 16731,
+      "NumCompleted": 44
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14285,7 +14290,7 @@
       "Name": "Data Archivist",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "13",
@@ -14317,7 +14322,7 @@
       "Name": "Drug Gifter",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "17",
@@ -14381,7 +14386,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "24",
@@ -14397,7 +14402,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "26",
@@ -14540,22 +14545,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16728,
+      "Progressed": 16731,
       "Completed": 44
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2682,
-      "Completed": 934
+      "Progressed": 2685,
+      "Completed": 935
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-17T22:59:50.8326927+00:00",
-  "LastChanged_Achievements": "2023-12-18T08:03:42.4384007+00:00",
+  "LastChanged_Achievements": "2023-12-18T09:03:54.8750714+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:40.0929133+00:00",
-  "LastUpdate_Ratings": "2023-12-18T07:59:10.4626046+00:00",
-  "LastUpdate_Achievements": "2023-12-18T08:03:42.4384784+00:00"
+  "LastUpdate_Ratings": "2023-12-18T08:59:04.9990175+00:00",
+  "LastUpdate_Achievements": "2023-12-18T09:03:54.8752547+00:00"
 }

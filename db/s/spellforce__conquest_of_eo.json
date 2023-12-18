@@ -801,9 +801,9 @@
       "ID": "Max_Reputation_Windholme",
       "SetID": "7b9f97e",
       "Name": "Friend of Windholme",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Max_Tower_And_Apprentices",
@@ -898,8 +898,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-12-18T08:09:16.6892491+00:00",
+  "LastChanged_Achievements": "2023-12-18T09:09:13.3204375+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:09.2965751+00:00",
-  "LastUpdate_Ratings": "2023-12-18T07:58:53.0235009+00:00",
-  "LastUpdate_Achievements": "2023-12-18T08:09:16.6892992+00:00"
+  "LastUpdate_Ratings": "2023-12-18T08:58:48.4624132+00:00",
+  "LastUpdate_Achievements": "2023-12-18T09:09:13.320483+00:00"
 }

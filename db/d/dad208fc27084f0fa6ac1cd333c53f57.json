@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5621,
+  "EOS_Progressed": 5622,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 413,
+  "EOS_NewPlayers": 414,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 0.93,
+  "EOS_Completed_Percentage": 0.92,
   "EosHistory": [
     {
       "Time": "2023-10-29T23:05:30.6543669+00:00",
@@ -5334,6 +5334,11 @@
       "Time": "2023-12-18T08:08:56.5136347+00:00",
       "NumProgressed": 5621,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-18T09:08:53.3014811+00:00",
+      "NumProgressed": 5622,
+      "NumCompleted": 52
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -5386,7 +5391,7 @@
       "Name": "Move the sofa",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 1967
+      "UsersEstimate": 1968
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_TV",
@@ -5394,7 +5399,7 @@
       "Name": "Turn on the TV",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 3204
+      "UsersEstimate": 3205
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -5402,7 +5407,7 @@
       "Name": "Wrong passcode",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 4497
+      "UsersEstimate": 4498
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -5466,21 +5471,21 @@
       "Name": "Turn on the TV in Speedrun",
       "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     }
   ],
   "AchievementSets": [
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 5621,
+      "Progressed": 5622,
       "Completed": 52
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-12-18T08:08:56.5136343+00:00",
+  "LastChanged_Achievements": "2023-12-18T09:08:53.3014807+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:07.8033204+00:00",
-  "LastUpdate_Ratings": "2023-12-18T07:58:16.6358573+00:00",
-  "LastUpdate_Achievements": "2023-12-18T08:08:56.5136732+00:00"
+  "LastUpdate_Ratings": "2023-12-18T08:58:14.5656298+00:00",
+  "LastUpdate_Achievements": "2023-12-18T09:08:53.3015058+00:00"
 }

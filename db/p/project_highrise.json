@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 393,
+  "EOS_Progressed": 394,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1145,6 +1145,11 @@
       "Time": "2023-12-18T07:05:43.6052614+00:00",
       "NumProgressed": 393,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T09:05:54.148566+00:00",
+      "NumProgressed": 394,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1156,7 +1161,7 @@
       "Name": "First 100 Days",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ach_ada",
@@ -1188,7 +1193,7 @@
       "Name": "Floor Galore",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ach_area_1",
@@ -1244,7 +1249,7 @@
       "Name": "Campaign Launch",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ach_campaigns_1",
@@ -1292,7 +1297,7 @@
       "Name": "Need a Consult",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ach_consultant_1",
@@ -1300,7 +1305,7 @@
       "Name": "Upgrade Unlock",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ach_consultants_a",
@@ -1460,7 +1465,7 @@
       "Name": "Starting Skyward",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ach_floors_1",
@@ -1484,15 +1489,15 @@
       "Name": "Water Features",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ach_grime",
       "SetID": "b8gh1fi",
       "Name": "Grime is Not Good",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 185
+      "UsersEstimate": 181
     },
     {
       "ID": "ach_grime_1",
@@ -1524,7 +1529,7 @@
       "Name": "Don\u0027t Feel a Loan",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ach_mod_1",
@@ -1556,7 +1561,7 @@
       "Name": "It\u0027s Technical",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ach_office_2",
@@ -1596,7 +1601,7 @@
       "Name": "Your Prestige is Rising",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ach_prestige_2",
@@ -1618,9 +1623,9 @@
       "ID": "ach_profit_0",
       "SetID": "b8gh1fi",
       "Name": "In the Black",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 232
+      "UsersEstimate": 229
     },
     {
       "ID": "ach_profit_1",
@@ -1676,15 +1681,15 @@
       "Name": "Dinner Dash",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ach_restaurants_4",
       "SetID": "b8gh1fi",
       "Name": "Potent Potables",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 102
     },
     {
       "ID": "ach_restaurants_5",
@@ -1700,7 +1705,7 @@
       "Name": "Retail Revenue",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ach_retail_2",
@@ -1820,7 +1825,7 @@
       "Name": "Phoning It In",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ach_util_power",
@@ -1859,7 +1864,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 393,
+      "Progressed": 394,
       "Completed": 0
     }
   ],
@@ -1867,8 +1872,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-12-18T08:05:43.7521422+00:00",
+  "LastChanged_Achievements": "2023-12-18T09:05:54.1485655+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:18.491222+00:00",
-  "LastUpdate_Ratings": "2023-12-18T07:57:56.3409028+00:00",
-  "LastUpdate_Achievements": "2023-12-18T08:05:43.7522359+00:00"
+  "LastUpdate_Ratings": "2023-12-18T08:57:55.6934232+00:00",
+  "LastUpdate_Achievements": "2023-12-18T09:05:54.1486385+00:00"
 }

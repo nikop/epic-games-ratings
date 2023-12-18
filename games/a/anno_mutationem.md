@@ -7,19 +7,19 @@ Rating: 4.54 (Ranked 533)
 | ---- | ---------- | ----- |
 | Tell me your story | 75.00% | ~590 |
 | Don't judge a manhole by its cover | 60.00% | ~472 |
-| I just love stuff! | 42.00% | ~330 |
-| Keep 'em coming! | 42.00% | ~330 |
+| I just love stuff! | 42.00% | ~331 |
+| Keep 'em coming! | 42.00% | ~331 |
 | The things they print nowadays | 39.00% | ~307 |
 | Big Spender | 38.00% | ~299 |
 | That's gotta hurt | 36.00% | ~283 |
-| I think it's broke | 26.00% | ~204 |
-| The Ann Flores Combo Experience | 26.00% | ~204 |
-| Club Star | 25.00% | ~196 |
+| I think it's broke | 26.00% | ~205 |
+| The Ann Flores Combo Experience | 26.00% | ~205 |
+| Club Star | 25.00% | ~197 |
 | Fire in the hole! | 20.00% | ~157 |
 | Omnipotence | 20.00% | ~157 |
 | The Warlord | 20.00% | ~157 |
-| You are the One | 19.00% | ~149 |
-| Deadly Kombationem | 18.00% | ~141 |
+| You are the One | 19.00% | ~150 |
+| Deadly Kombationem | 18.00% | ~142 |
 | The truth is out there | 16.00% | ~126 |
 | Annakin Skyscroller | 13.00% | ~102 |
 | In the smacker...I think | 10.00% | ~79 |
@@ -42,7 +42,7 @@ Rating: 4.54 (Ranked 533)
 | Love me like I love my posters | 1.00% | ~8 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 786 (Ranked 286)  
+Progressed: 787 (Ranked 286)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,6 +147,7 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-15 | 781 | 0 |
 | 2023-12-16 | 784 | 0 |
 | 2023-12-17 | 786 | 0 |
+| 2023-12-18 | 787 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

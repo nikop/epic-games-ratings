@@ -3735,9 +3735,9 @@
       "ID": "GSS_ACH_46_ORDER_CARPARTS",
       "SetID": "5fn8ia4",
       "Name": "Need the Car Parts!",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 973
+      "UsersEstimate": 985
     },
     {
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
@@ -3775,9 +3775,9 @@
       "ID": "GSS_ACH_51_UPGRADE_WORKSHOP_01",
       "SetID": "5fn8ia4",
       "Name": "Workshop Obtained!",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 985
+      "UsersEstimate": 998
     },
     {
       "ID": "GSS_ACH_52_UPGRADE_WORKSHOP_02",
@@ -3863,9 +3863,9 @@
       "ID": "GSS_ACH_62_POPULARITY_02",
       "SetID": "5fn8ia4",
       "Name": "Heard in Whispers",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 998
+      "UsersEstimate": 1010
     },
     {
       "ID": "GSS_ACH_63_POPULARITY_03",
@@ -4040,8 +4040,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-17T13:01:05.5072332+00:00",
-  "LastChanged_Achievements": "2023-12-18T08:05:24.6438086+00:00",
+  "LastChanged_Achievements": "2023-12-18T09:05:35.6721289+00:00",
   "LastUpdate_AppInfo": "2023-12-11T18:57:06.5083214+00:00",
-  "LastUpdate_Ratings": "2023-12-18T07:58:46.9143114+00:00",
-  "LastUpdate_Achievements": "2023-12-18T08:05:24.6438966+00:00"
+  "LastUpdate_Ratings": "2023-12-18T08:58:43.0914801+00:00",
+  "LastUpdate_Achievements": "2023-12-18T09:05:35.6722114+00:00"
 }

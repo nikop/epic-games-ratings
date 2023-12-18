@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 59.00% | ~232 |
-| Starting Skyward | 53.00% | ~208 |
-| Grime is Not Good | 47.00% | ~185 |
-| Floor Galore | 41.00% | ~161 |
-| Dinner Dash | 41.00% | ~161 |
-| Campaign Launch | 40.00% | ~157 |
-| Need a Consult | 37.00% | ~145 |
-| It's Technical | 37.00% | ~145 |
-| Upgrade Unlock | 36.00% | ~141 |
+| In the Black | 58.00% | ~229 |
+| Starting Skyward | 53.00% | ~209 |
+| Grime is Not Good | 46.00% | ~181 |
+| Floor Galore | 41.00% | ~162 |
+| Dinner Dash | 41.00% | ~162 |
+| Campaign Launch | 40.00% | ~158 |
+| Need a Consult | 37.00% | ~146 |
+| It's Technical | 37.00% | ~146 |
+| Upgrade Unlock | 36.00% | ~142 |
 | Delegate Maintenance | 34.00% | ~134 |
 | Destination Destiny | 32.00% | ~126 |
 | Proper Walls | 31.00% | ~122 |
 | Happy Tenants | 26.00% | ~102 |
-| Potent Potables | 25.00% | ~98 |
+| Potent Potables | 26.00% | ~102 |
 | Smooth Service | 25.00% | ~98 |
-| Your Prestige is Rising | 24.00% | ~94 |
-| Retail Revenue | 24.00% | ~94 |
-| Don't Feel a Loan | 22.00% | ~86 |
+| Your Prestige is Rising | 24.00% | ~95 |
+| Retail Revenue | 24.00% | ~95 |
+| Don't Feel a Loan | 22.00% | ~87 |
 | People Mover | 21.00% | ~83 |
 | Lux Living | 20.00% | ~79 |
 | Artfully Done | 20.00% | ~79 |
@@ -45,9 +45,9 @@
 | Plaza Plan | 9.00% | ~35 |
 | Master of Puppets | 9.00% | ~35 |
 | Refined Palates | 9.00% | ~35 |
-| First 100 Days | 8.00% | ~31 |
-| Water Features | 8.00% | ~31 |
-| Phoning It In | 8.00% | ~31 |
+| First 100 Days | 8.00% | ~32 |
+| Water Features | 8.00% | ~32 |
+| Phoning It In | 8.00% | ~32 |
 | Meet Me at HQ | 7.00% | ~28 |
 | Revenue Royalty | 7.00% | ~28 |
 | Golden Opportunity | 7.00% | ~28 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 393 (Ranked 341)  
+Progressed: 394 (Ranked 341)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-15 | 372 | 0 |
 | 2023-12-16 | 385 | 0 |
 | 2023-12-17 | 392 | 0 |
-| 2023-12-18 | 393 | 0 |
+| 2023-12-18 | 394 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

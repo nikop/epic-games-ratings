@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5038,
+  "EOS_Progressed": 5043,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3016,
+  "EOS_NewPlayers": 3009,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1381,6 +1381,11 @@
       "Time": "2023-12-18T08:09:43.49406+00:00",
       "NumProgressed": 5038,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-18T09:09:39.252513+00:00",
+      "NumProgressed": 5043,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -1393,7 +1398,7 @@
       "Name": "Conspiracy",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 907
+      "UsersEstimate": 908
     },
     {
       "ID": "03_TheStolenStar",
@@ -1495,9 +1500,9 @@
       "ID": "15_Pentakill",
       "SetID": "37a94m8",
       "Name": "Pentakill",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 202
     },
     {
       "ID": "16_TheRise",
@@ -1641,7 +1646,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -1745,7 +1750,7 @@
       "Name": "A Spark",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "47_AFlame",
@@ -1807,9 +1812,9 @@
       "ID": "54_ThisIsAJobForLordCaptain",
       "SetID": "37a94m8",
       "Name": "This Is a Job for the Lord Captain!",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 50
     },
     {
       "ID": "55_ReturningTheBoots",
@@ -1912,7 +1917,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 5038,
+      "Progressed": 5043,
       "Completed": 0
     }
   ],
@@ -1920,8 +1925,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-17T10:00:08.9925028+00:00",
-  "LastChanged_Achievements": "2023-12-18T08:09:43.4940596+00:00",
+  "LastChanged_Achievements": "2023-12-18T09:09:39.2525125+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:14.7846288+00:00",
-  "LastUpdate_Ratings": "2023-12-18T07:59:44.8308863+00:00",
-  "LastUpdate_Achievements": "2023-12-18T08:09:43.494112+00:00"
+  "LastUpdate_Ratings": "2023-12-18T08:59:38.4786767+00:00",
+  "LastUpdate_Achievements": "2023-12-18T09:09:39.2525646+00:00"
 }

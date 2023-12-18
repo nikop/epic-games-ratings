@@ -6,9 +6,9 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,366 |
+| Devoured by Darkness | 27.00% | ~3,367 |
 | A Spark | 19.00% | ~2,369 |
-| Burning City | 18.00% | ~2,244 |
+| Burning City | 18.00% | ~2,245 |
 | Defender's Heart | 16.00% | ~1,995 |
 | Mythic Choices | 15.00% | ~1,870 |
 | Banner over the Citadel | 14.00% | ~1,746 |
@@ -19,13 +19,13 @@ Number of Ratings: 1,354  (23.09.2022)
 | Demonic and Divine | 7.00% | ~873 |
 | Great Upstart | 6.00% | ~748 |
 | All Paths Open | 6.00% | ~748 |
-| Path of the Azata | 5.00% | ~623 |
-| Transformation | 5.00% | ~623 |
-| The Legacy | 5.00% | ~623 |
-| Voice from Your Dreams | 5.00% | ~623 |
-| A Flame | 5.00% | ~623 |
-| Next-Door Play | 5.00% | ~623 |
-| Get the Toad | 5.00% | ~623 |
+| Path of the Azata | 5.00% | ~624 |
+| Transformation | 5.00% | ~624 |
+| The Legacy | 5.00% | ~624 |
+| Voice from Your Dreams | 5.00% | ~624 |
+| A Flame | 5.00% | ~624 |
+| Next-Door Play | 5.00% | ~624 |
+| Get the Toad | 5.00% | ~624 |
 | Heart of the Fallen Land | 4.00% | ~499 |
 | Divide and Rule | 4.00% | ~499 |
 | Mythic Reinforcements | 4.00% | ~499 |
@@ -50,8 +50,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Strategic Victory | 1.00% | ~125 |
 | Abyssal Conspiracy | 1.00% | ~125 |
 | Truly Profane Gift | 1.00% | ~125 |
-| This Wall Won't Fall | 1.00% | ~112 |
-| Not the Last Sarkorian | 1.00% | ~112 |
+| This Wall Won't Fall | 1.00% | ~113 |
+| Not the Last Sarkorian | 1.00% | ~113 |
 | End of Eternal Guard | 0.90% | ~112 |
 | Masterful Charge | 0.70% | ~87 |
 | Playful Mood | 0.70% | ~87 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,468 (Ranked 167)  
+Progressed: 12,470 (Ranked 167)  
 Completed: 0 (0.00%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -365,7 +365,7 @@ Completed: 0 (0.00%) (Ranked 380)
 | 2023-12-15 | 12,356 | 0 |
 | 2023-12-16 | 12,405 | 0 |
 | 2023-12-17 | 12,459 | 0 |
-| 2023-12-18 | 12,468 | 0 |
+| 2023-12-18 | 12,470 | 0 |
 ## Awards
 Max (Character Customization): 1,763  (Ranked 124)  
 Sum: 7,148 (Ranked 123)  

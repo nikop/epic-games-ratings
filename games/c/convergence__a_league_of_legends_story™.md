@@ -1,7 +1,7 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.62 (Ranked 371)  
+Rating: 4.64 (Ranked 340)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -213,3 +213,4 @@ Completed: 6 (0.59%) (Ranked 197)
 | ---- | ------ | ---------------------- | ---------------------- |
 | 2023-07-28 | 4.60 | 0 | 0 |
 | 2023-10-16 | 4.62 | 0 | 0 |
+| 2023-12-18 | 4.64 | 0 | 0 |

@@ -5367,9 +5367,9 @@
       "Count": 540
     }
   ],
-  "EOS_Progressed": 12782,
+  "EOS_Progressed": 12783,
   "EOS_Completed": 315,
-  "EOS_NewPlayers": 310,
+  "EOS_NewPlayers": 311,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 2.46,
   "EosHistory": [
@@ -22132,6 +22132,11 @@
       "Time": "2023-12-18T06:08:48.8026619+00:00",
       "NumProgressed": 12782,
       "NumCompleted": 315
+    },
+    {
+      "Time": "2023-12-18T09:09:07.2900719+00:00",
+      "NumProgressed": 12783,
+      "NumCompleted": 315
     }
   ],
   "TotalAchievements": 15,
@@ -22199,7 +22204,7 @@
       "Name": "Gardener",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3962
+      "UsersEstimate": 3963
     },
     {
       "ID": "Generous",
@@ -22255,14 +22260,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 61,
       "XP": 100,
-      "UsersEstimate": 7797
+      "UsersEstimate": 7798
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 12782,
+      "Progressed": 12783,
       "Completed": 315
     }
   ],
@@ -22270,8 +22275,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-12-17T15:58:04.9870728+00:00",
-  "LastChanged_Achievements": "2023-12-18T08:09:10.7907944+00:00",
+  "LastChanged_Achievements": "2023-12-18T09:09:07.2900716+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:26.6445497+00:00",
-  "LastUpdate_Ratings": "2023-12-18T07:58:39.2729231+00:00",
-  "LastUpdate_Achievements": "2023-12-18T08:09:10.7908943+00:00"
+  "LastUpdate_Ratings": "2023-12-18T08:58:36.2070333+00:00",
+  "LastUpdate_Achievements": "2023-12-18T09:09:07.2901466+00:00"
 }

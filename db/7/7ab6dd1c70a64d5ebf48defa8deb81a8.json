@@ -3,9 +3,9 @@
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 289,
-  "Ranking_EOS_Completed": 227,
+  "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 776,
+  "EOS_Progressed": 780,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 513,
+  "EOS_NewPlayers": 517,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.39,
+  "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
     {
       "Time": "2023-06-23T15:02:22.2302993+00:00",
@@ -1620,6 +1620,11 @@
       "Time": "2023-12-18T08:10:07.5144927+00:00",
       "NumProgressed": 776,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-18T09:10:02.7166707+00:00",
+      "NumProgressed": 780,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1631,7 +1636,7 @@
       "Name": "Break Out",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 349
+      "UsersEstimate": 351
     },
     {
       "ID": "ACH_02",
@@ -1687,7 +1692,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ACH_09",
@@ -1727,7 +1732,7 @@
       "Name": "Adventurer",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_14",
@@ -1743,7 +1748,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_16",
@@ -1791,7 +1796,7 @@
       "Name": "Big Bazar",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_22",
@@ -1823,7 +1828,7 @@
       "Name": "Fashion Victim",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_26",
@@ -1831,7 +1836,7 @@
       "Name": "Scholar",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_27",
@@ -1847,7 +1852,7 @@
       "Name": "I Found It",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACH_29",
@@ -1918,14 +1923,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 776,
+      "Progressed": 780,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-18T08:10:07.5144923+00:00",
+  "LastChanged_Achievements": "2023-12-18T09:10:02.7166705+00:00",
   "LastUpdate_AppInfo": "2023-12-11T21:57:02.3853442+00:00",
-  "LastUpdate_Ratings": "2023-12-18T07:59:43.3783892+00:00",
-  "LastUpdate_Achievements": "2023-12-18T08:10:07.5145243+00:00"
+  "LastUpdate_Ratings": "2023-12-18T08:59:37.5345757+00:00",
+  "LastUpdate_Achievements": "2023-12-18T09:10:02.7166927+00:00"
 }

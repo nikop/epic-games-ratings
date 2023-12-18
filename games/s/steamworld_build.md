@@ -9,19 +9,19 @@
 | Digging a Hole | 71.00% | ~92 |
 | Going Places | 67.00% | ~87 |
 | Conducted Trade | 65.00% | ~84 |
-| Aristocratic | 62.00% | ~81 |
+| Aristocratic | 63.00% | ~82 |
 | Tutti Frutti | 55.00% | ~72 |
 | Gotta Go Fast | 45.00% | ~58 |
 | Slotting Machine | 38.00% | ~49 |
-| Systematic | 35.00% | ~46 |
-| Mine Sweeper | 32.00% | ~42 |
+| Systematic | 36.00% | ~47 |
+| Mine Sweeper | 33.00% | ~43 |
 | Roll Out | 32.00% | ~42 |
 | Dopa-Miner | 24.00% | ~31 |
 | Up, Up And Away! | 24.00% | ~31 |
 | Whoa! | 23.00% | ~30 |
 | Botropolis | 22.00% | ~29 |
 | Steam Powered | 16.00% | ~21 |
-| Steaming Rich | 15.00% | ~20 |
+| Steaming Rich | 16.00% | ~21 |
 | Manic Mechanic | 14.00% | ~18 |
 | Room To Spare | 11.00% | ~14 |
 | Real Purdy | 5.00% | ~6 |

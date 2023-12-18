@@ -5,18 +5,18 @@ Rating: 4.56 (Ranked 497)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~12,353 |
-| Pay 'n' Spray | 50.00% | ~7,626 |
-| All Dressed Up for San Fierro | 25.00% | ~3,813 |
-| The American Dream | 19.00% | ~2,898 |
-| School's Out | 18.00% | ~2,745 |
-| Smooth Moves | 17.00% | ~2,593 |
-| What happens in Las Venturas... | 15.00% | ~2,288 |
-| Today Was a Good Day | 15.00% | ~2,288 |
+| Getting Started | 81.00% | ~12,359 |
+| Pay 'n' Spray | 50.00% | ~7,629 |
+| All Dressed Up for San Fierro | 25.00% | ~3,814 |
+| The American Dream | 19.00% | ~2,899 |
+| School's Out | 18.00% | ~2,746 |
+| Smooth Moves | 17.00% | ~2,594 |
+| What happens in Las Venturas... | 15.00% | ~2,289 |
+| Today Was a Good Day | 15.00% | ~2,289 |
 | Horror of the Santa Maria | 11.00% | ~1,678 |
-| Liberty City State of Mind | 10.00% | ~1,525 |
-| The End of the Line | 8.00% | ~1,220 |
-| Original Gangster | 8.00% | ~1,220 |
+| Liberty City State of Mind | 10.00% | ~1,526 |
+| The End of the Line | 8.00% | ~1,221 |
+| Original Gangster | 8.00% | ~1,221 |
 | With Extra Dip | 7.00% | ~1,068 |
 | Saviour | 6.00% | ~915 |
 | They Can’t Stop All of Us | 5.00% | ~763 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 497)
 | ...Here we go again | 0.50% | ~76 |
 | I Ain't No Buster | 0.40% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,251 (Ranked 158)  
+Progressed: 15,258 (Ranked 158)  
 Completed: 59 (0.39%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,10 +283,10 @@ Completed: 59 (0.39%) (Ranked 227)
 | 2023-12-15 | 14,573 | 58 |
 | 2023-12-16 | 14,887 | 58 |
 | 2023-12-17 | 15,199 | 58 |
-| 2023-12-18 | 15,251 | 59 |
+| 2023-12-18 | 15,258 | 59 |
 ## Awards
 Max (Great Boss Battles): 451  (Ranked 224)  
-Sum: 701 (Ranked 301)  
+Sum: 702 (Ranked 301)  
 Diff (max vs sum): -77  
 | Award | Count |
 | ----- | ----- |
@@ -298,7 +298,7 @@ Diff (max vs sum): -77
 | This game is Highly Recommended | 31 |
 | This game has a Creative Community | 28 |
 | This game is Extremely Fun | 26 |
-| This game has Quickly Understood Controls | 24 |
+| This game has Quickly Understood Controls | 25 |
 | This game has Diverse Characters | 23 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -506,3 +506,4 @@ Diff (max vs sum): -77
 | 2023-12-15 | 4.56 | 444 | 730 |
 | 2023-12-16 | 4.56 | 448 | 734 |
 | 2023-12-17 | 4.56 | 451 | 701 |
+| 2023-12-18 | 4.56 | 451 | 702 |

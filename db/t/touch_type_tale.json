@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3871,
+  "EOS_Progressed": 3872,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
@@ -4962,6 +4962,11 @@
       "Time": "2023-12-17T21:04:59.8265837+00:00",
       "NumProgressed": 3871,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-18T09:04:39.6568803+00:00",
+      "NumProgressed": 3872,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -5021,7 +5026,7 @@
       "Name": "You and what Army?",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 3368
+      "UsersEstimate": 3369
     },
     {
       "ID": "campaign10",
@@ -5109,7 +5114,7 @@
       "Name": "Flanked!",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 2942
+      "UsersEstimate": 2943
     },
     {
       "ID": "campaign20",
@@ -5141,7 +5146,7 @@
       "Name": "Clay Fighter",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "campaign6",
@@ -5236,7 +5241,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3871,
+      "Progressed": 3872,
       "Completed": 11
     }
   ],
@@ -5244,8 +5249,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-12-18T08:04:28.003566+00:00",
+  "LastChanged_Achievements": "2023-12-18T09:04:39.6568799+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.6024939+00:00",
-  "LastUpdate_Ratings": "2023-12-18T08:00:06.477733+00:00",
-  "LastUpdate_Achievements": "2023-12-18T08:04:28.0036004+00:00"
+  "LastUpdate_Ratings": "2023-12-18T08:59:59.7137043+00:00",
+  "LastUpdate_Achievements": "2023-12-18T09:04:39.6569229+00:00"
 }

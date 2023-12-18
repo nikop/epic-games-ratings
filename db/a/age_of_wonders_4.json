@@ -2,7 +2,7 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 371,
+  "Ranking_Rating": 372,
   "Ranking_Popularity": 479,
   "Ranking_PopularitySum": 461,
   "Ranking_EOS_Progress": 191,
@@ -555,9 +555,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5812,
+  "EOS_Progressed": 5813,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 226,
+  "EOS_NewPlayers": 227,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8360,6 +8360,11 @@
       "Time": "2023-12-18T08:04:06.323474+00:00",
       "NumProgressed": 5812,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-18T09:04:18.7866383+00:00",
+      "NumProgressed": 5813,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -8435,7 +8440,7 @@
       "Name": "Lord of Chaos",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "18",
@@ -8475,7 +8480,7 @@
       "Name": "Eternal Lord",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "22",
@@ -8515,7 +8520,7 @@
       "Name": "Bone Peddler",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "27",
@@ -8531,7 +8536,7 @@
       "Name": "From Friends to Family",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "29",
@@ -8611,7 +8616,7 @@
       "Name": "Against the Odds",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "38",
@@ -8850,13 +8855,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5812,
+      "Progressed": 5813,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5812,
+      "Progressed": 5813,
       "Completed": 7
     }
   ],
@@ -8864,8 +8869,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-14T06:01:52.3312422+00:00",
-  "LastChanged_Achievements": "2023-12-18T08:04:06.3234737+00:00",
+  "LastChanged_Achievements": "2023-12-18T09:04:18.7866378+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.6868317+00:00",
-  "LastUpdate_Ratings": "2023-12-18T07:58:52.2684284+00:00",
-  "LastUpdate_Achievements": "2023-12-18T08:04:06.3235525+00:00"
+  "LastUpdate_Ratings": "2023-12-18T08:58:47.7404522+00:00",
+  "LastUpdate_Achievements": "2023-12-18T09:04:18.7867316+00:00"
 }

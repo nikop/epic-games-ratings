@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1667,9 +1667,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 17816,
+  "EOS_Progressed": 17821,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1292,
+  "EOS_NewPlayers": 1297,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -10112,6 +10112,11 @@
       "Time": "2023-12-18T08:09:24.1637694+00:00",
       "NumProgressed": 17816,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-18T09:09:20.5818742+00:00",
+      "NumProgressed": 17821,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -10155,7 +10160,7 @@
       "Name": "Flesh Wound",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 2316
+      "UsersEstimate": 2317
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -10227,7 +10232,7 @@
       "Name": "Get a Grip",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2138
+      "UsersEstimate": 2139
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -10235,7 +10240,7 @@
       "Name": "In Striking Distance",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "KILL_2HEAD",
@@ -10267,7 +10272,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1425
+      "UsersEstimate": 1426
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -10275,7 +10280,7 @@
       "Name": "The Commonality",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -10291,7 +10296,7 @@
       "Name": "Reforged",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1603
+      "UsersEstimate": 1604
     },
     {
       "ID": "PRINT_WEAPON",
@@ -10299,7 +10304,7 @@
       "Name": "Paper Jams",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2138
+      "UsersEstimate": 2139
     },
     {
       "ID": "SHARE_PHOTO",
@@ -10315,7 +10320,7 @@
       "Name": "The Outer Way",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2138
+      "UsersEstimate": 2139
     },
     {
       "ID": "STORY_ESCAPE",
@@ -10498,13 +10503,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 17816,
+      "Progressed": 17821,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 5742,
+      "Progressed": 5747,
       "Completed": 29
     }
   ],
@@ -10512,8 +10517,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-18T06:03:00.946699+00:00",
-  "LastChanged_Achievements": "2023-12-18T08:09:24.1637689+00:00",
+  "LastChanged_Achievements": "2023-12-18T09:09:20.5818739+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.4893565+00:00",
-  "LastUpdate_Ratings": "2023-12-18T08:03:04.9241049+00:00",
-  "LastUpdate_Achievements": "2023-12-18T08:09:24.1638268+00:00"
+  "LastUpdate_Ratings": "2023-12-18T09:03:15.2632794+00:00",
+  "LastUpdate_Achievements": "2023-12-18T09:09:20.5819343+00:00"
 }

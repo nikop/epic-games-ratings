@@ -3694,7 +3694,7 @@
       "Count": 747
     }
   ],
-  "EOS_Progressed": 241229,
+  "EOS_Progressed": 241231,
   "EOS_Completed": 299,
   "EOS_NewPlayers": 351,
   "EOS_NewCompleters": 5,
@@ -28614,6 +28614,11 @@
       "Time": "2023-12-18T08:10:13.2878468+00:00",
       "NumProgressed": 241229,
       "NumCompleted": 299
+    },
+    {
+      "Time": "2023-12-18T09:10:08.2371927+00:00",
+      "NumProgressed": 241231,
+      "NumCompleted": 299
     }
   ],
   "TotalAchievements": 138,
@@ -29631,9 +29636,9 @@
       "ID": "FINISHRUNALLCLERIC",
       "SetID": "1peahb6",
       "Name": "Diviner",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "FINISHRUNALLMAGE",
@@ -29728,13 +29733,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241229,
+      "Progressed": 241231,
       "Completed": 299
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 2709,
+      "Progressed": 2711,
       "Completed": 406
     }
   ],
@@ -29742,8 +29747,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-17T13:00:27.9873686+00:00",
-  "LastChanged_Achievements": "2023-12-18T08:10:13.2878464+00:00",
+  "LastChanged_Achievements": "2023-12-18T09:10:08.2371924+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:23.1397919+00:00",
-  "LastUpdate_Ratings": "2023-12-18T07:58:07.7369311+00:00",
-  "LastUpdate_Achievements": "2023-12-18T08:10:13.288085+00:00"
+  "LastUpdate_Ratings": "2023-12-18T08:58:06.3088463+00:00",
+  "LastUpdate_Achievements": "2023-12-18T09:10:08.2374304+00:00"
 }

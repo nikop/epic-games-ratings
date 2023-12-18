@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2843,
+  "EOS_Progressed": 2844,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -4595,6 +4595,11 @@
       "Time": "2023-12-18T06:06:01.7836813+00:00",
       "NumProgressed": 2843,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-12-18T09:06:04.984753+00:00",
+      "NumProgressed": 2844,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 53,
@@ -4654,7 +4659,7 @@
       "Name": "Elemental master",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1023
+      "UsersEstimate": 1024
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -4670,7 +4675,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2701
+      "UsersEstimate": 2702
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -4742,7 +4747,7 @@
       "Name": "Old friend",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -4782,7 +4787,7 @@
       "Name": "Pentakill",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2189
+      "UsersEstimate": 2190
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -4790,7 +4795,7 @@
       "Name": "No more cages!",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 2587
+      "UsersEstimate": 2588
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -4822,7 +4827,7 @@
       "Name": "Dark Forest",
       "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 2189
+      "UsersEstimate": 2190
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -4830,7 +4835,7 @@
       "Name": "Thornbarrow",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1137
+      "UsersEstimate": 1138
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -4854,7 +4859,7 @@
       "Name": "Sacred Woods",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -4862,7 +4867,7 @@
       "Name": "Glyndemere",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "STB_MISSION5B_COMPLETED",
@@ -4910,7 +4915,7 @@
       "Name": "You can pet the dog",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 1734
+      "UsersEstimate": 1735
     },
     {
       "ID": "STB_PET_HORSE",
@@ -4958,7 +4963,7 @@
       "Name": "Iffighain Headquarters",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_IV",
@@ -4982,7 +4987,7 @@
       "Name": "The use of petricite",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2104
+      "UsersEstimate": 2105
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -5022,14 +5027,14 @@
       "Name": "Petricite Burst",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2843,
+      "Progressed": 2844,
       "Completed": 16
     }
   ],
@@ -5037,8 +5042,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-17T13:59:07.4077367+00:00",
-  "LastChanged_Achievements": "2023-12-18T08:05:54.7828977+00:00",
+  "LastChanged_Achievements": "2023-12-18T09:06:04.9847525+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:24.9335177+00:00",
-  "LastUpdate_Ratings": "2023-12-18T07:58:47.9113285+00:00",
-  "LastUpdate_Achievements": "2023-12-18T08:05:54.7829548+00:00"
+  "LastUpdate_Ratings": "2023-12-18T08:58:44.1826074+00:00",
+  "LastUpdate_Achievements": "2023-12-18T09:06:04.9848122+00:00"
 }

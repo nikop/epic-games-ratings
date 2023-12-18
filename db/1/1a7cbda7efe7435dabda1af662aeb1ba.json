@@ -241,9 +241,9 @@
       "ID": "BOSS_KILL3",
       "SetID": "1icc7kd",
       "Name": "Boulder Breaker",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "BOSS_KILL4",
@@ -440,8 +440,8 @@
   ],
   "FirstSeen": "2023-05-19T06:56:53.0270163+00:00",
   "FirstSeenAchievements": "2023-05-16T17:00:43.3294802+00:00",
-  "LastChanged_Achievements": "2023-12-18T08:10:04.8666272+00:00",
+  "LastChanged_Achievements": "2023-12-18T09:10:00.2137967+00:00",
   "LastUpdate_AppInfo": "2023-12-13T11:57:08.5708199+00:00",
-  "LastUpdate_Ratings": "2023-12-18T08:00:10.5254504+00:00",
-  "LastUpdate_Achievements": "2023-12-18T08:10:04.866644+00:00"
+  "LastUpdate_Ratings": "2023-12-18T09:00:03.9736072+00:00",
+  "LastUpdate_Achievements": "2023-12-18T09:10:00.2138109+00:00"
 }

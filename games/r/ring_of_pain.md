@@ -88,6 +88,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Obsessed | 0.20% | ~482 |
 | Sentimental Value | 0.20% | ~482 |
 | Precious | 0.20% | ~482 |
+| Diviner | 0.20% | ~5 |
 | Nuclear | 0.20% | ~5 |
 | Raw Power | 0.20% | ~5 |
 | Quick Descent | 0.10% | ~241 |
@@ -138,14 +139,13 @@ Number of Ratings: 15,086  (23.09.2022)
 | Scrounger Appreciation | 0.10% | ~3 |
 | Explosives Expert | 0.10% | ~3 |
 | All Natural | 0.10% | ~3 |
-| Diviner | 0.10% | ~3 |
 | Soul Kin | 0.10% | ~3 |
 | Multiclass | 0.10% | ~3 |
 | Stalker | 0.10% | ~3 |
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,229 (Ranked 66)  
+Progressed: 241,231 (Ranked 66)  
 Completed: 299 (0.12%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -387,7 +387,7 @@ Completed: 299 (0.12%) (Ranked 290)
 | 2023-12-15 | 241,093 | 299 |
 | 2023-12-16 | 241,163 | 299 |
 | 2023-12-17 | 241,211 | 299 |
-| 2023-12-18 | 241,229 | 299 |
+| 2023-12-18 | 241,231 | 299 |
 ## Awards
 Max (Quickly Understood Controls): 1,511  (Ranked 134)  
 Sum: 11,743 (Ranked 87)  

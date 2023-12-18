@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.62 (Ranked 371)  
+Rating: 4.62 (Ranked 372)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,8 +10,8 @@ Rating: 4.62 (Ranked 371)
 | A Wonderful Discovery | 5.00% | ~291 |
 | Walls Cannot Stop Us | 5.00% | ~291 |
 | But this one is mine | 5.00% | ~291 |
-| Bone Peddler | 4.00% | ~232 |
-| From Friends to Family | 4.00% | ~232 |
+| Bone Peddler | 4.00% | ~233 |
+| From Friends to Family | 4.00% | ~233 |
 | Valley of Wonders | 3.00% | ~174 |
 | There Can Only Be One! | 3.00% | ~174 |
 | Full Ascension | 3.00% | ~174 |
@@ -43,9 +43,9 @@ Rating: 4.62 (Ranked 371)
 | A Conqueror's Cohort | 1.00% | ~58 |
 | Dawn of the Dread | 1.00% | ~58 |
 | The Eternal Court | 0.90% | ~52 |
-| Lord of Chaos | 0.80% | ~46 |
-| Eternal Lord | 0.80% | ~46 |
-| Against the Odds | 0.80% | ~46 |
+| Lord of Chaos | 0.80% | ~47 |
+| Eternal Lord | 0.80% | ~47 |
+| Against the Odds | 0.80% | ~47 |
 | I've Got Everything I Need Right Here | 0.70% | ~41 |
 | God Emperor | 0.70% | ~41 |
 | The Goddess of Nature | 0.70% | ~41 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 371)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,812 (Ranked 191)  
+Progressed: 5,813 (Ranked 191)  
 Completed: 7 (0.12%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 7 (0.12%) (Ranked 290)
 | 2023-12-15 | 5,702 | 7 |
 | 2023-12-16 | 5,752 | 7 |
 | 2023-12-17 | 5,798 | 7 |
-| 2023-12-18 | 5,812 | 7 |
+| 2023-12-18 | 5,813 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 479)  
 Sum: 93 (Ranked 461)  
