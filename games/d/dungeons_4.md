@@ -17,8 +17,8 @@
 | Master of Magic | 63.00% | ~372 |
 | Unicorn steaks – fresh off the hoof! | 62.00% | ~366 |
 | Magic Accidents | 60.00% | ~354 |
-| The Ascent | 58.00% | ~342 |
-| It's Warm and Cozy at Home | 58.00% | ~342 |
+| The Ascent | 59.00% | ~348 |
+| It's Warm and Cozy at Home | 59.00% | ~348 |
 | Trap Master | 55.00% | ~324 |
 | Minions, Minions! | 54.00% | ~319 |
 | Hard Work | 53.00% | ~313 |
@@ -46,8 +46,8 @@
 | Sabotage! | 25.00% | ~148 |
 | Brimstone Shaken, Not Stirred | 25.00% | ~148 |
 | Bonus Evilness | 24.00% | ~142 |
+| The Rune Sockets of Finitude (Part 1) | 24.00% | ~142 |
 | Raiders of the Lost Stone | 23.00% | ~136 |
-| The Rune Sockets of Finitude (Part 1) | 23.00% | ~136 |
 | The Rune Sockets of Finitude (Part 2) | 21.00% | ~124 |
 | The Last Stand - This Time For Real! | 20.00% | ~118 |
 | Rubble and Ashes | 19.00% | ~112 |
@@ -60,8 +60,8 @@
 | Untouchable | 15.00% | ~88 |
 | Mirror, Mirror | 14.00% | ~83 |
 | Heal Heal Blessing | 14.00% | ~83 |
+| Gorgu is in the Best of Health | 12.00% | ~71 |
 | Hands Off My Stones | 12.00% | ~71 |
-| Gorgu is in the Best of Health | 11.00% | ~65 |
 | Laser Eyes Are So Useless | 11.00% | ~65 |
 | No Mana, No Cry | 10.00% | ~59 |
 | I Don't Need Any Help | 8.00% | ~47 |

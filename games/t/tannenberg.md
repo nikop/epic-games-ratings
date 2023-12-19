@@ -6,47 +6,47 @@ Number of Ratings: 13,393  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~126,265 |
-| Comeback | 82.00% | ~116,334 |
-| Information is Key | 80.00% | ~113,497 |
-| Unlucky | 70.00% | ~99,310 |
-| Anarchist | 68.00% | ~96,472 |
-| Wallhack | 65.00% | ~92,216 |
-| Steady Supply | 60.00% | ~85,123 |
-| Lucky Shot | 53.00% | ~75,192 |
-| Forward Observer | 52.00% | ~73,773 |
-| Ring Ring! | 52.00% | ~73,773 |
-| Bossing Around | 45.00% | ~63,842 |
-| Frostbite | 45.00% | ~63,842 |
-| Night Owl | 44.00% | ~62,423 |
-| Strength in Numbers | 44.00% | ~62,423 |
-| Fog of War | 41.00% | ~58,167 |
-| Rasputin | 39.00% | ~55,330 |
-| Stronghold Denied | 39.00% | ~55,330 |
-| Anyone Else? | 38.00% | ~53,911 |
-| Hydra | 36.00% | ~51,074 |
-| This Belongs to Us Now | 36.00% | ~51,074 |
-| Stronghold | 35.00% | ~49,655 |
-| Leeroy | 33.00% | ~46,817 |
-| Lost Batallion | 33.00% | ~46,817 |
-| This is MY Machine Gun! | 32.00% | ~45,399 |
-| Together As One | 31.00% | ~43,980 |
-| Gavrilo Princip | 27.00% | ~38,305 |
+| Immovable Object | 89.00% | ~126,268 |
+| Comeback | 82.00% | ~116,337 |
+| Information is Key | 80.00% | ~113,499 |
+| Unlucky | 70.00% | ~99,312 |
+| Anarchist | 68.00% | ~96,474 |
+| Wallhack | 65.00% | ~92,218 |
+| Steady Supply | 60.00% | ~85,124 |
+| Lucky Shot | 53.00% | ~75,193 |
+| Forward Observer | 52.00% | ~73,774 |
+| Ring Ring! | 52.00% | ~73,774 |
+| Bossing Around | 45.00% | ~63,843 |
+| Frostbite | 45.00% | ~63,843 |
+| Night Owl | 44.00% | ~62,425 |
+| Strength in Numbers | 44.00% | ~62,425 |
+| Fog of War | 41.00% | ~58,168 |
+| Rasputin | 39.00% | ~55,331 |
+| Stronghold Denied | 39.00% | ~55,331 |
+| Anyone Else? | 38.00% | ~53,912 |
+| Hydra | 36.00% | ~51,075 |
+| This Belongs to Us Now | 36.00% | ~51,075 |
+| Stronghold | 35.00% | ~49,656 |
+| Leeroy | 33.00% | ~46,818 |
+| Lost Batallion | 33.00% | ~46,818 |
+| This is MY Machine Gun! | 32.00% | ~45,400 |
+| Together As One | 31.00% | ~43,981 |
+| Gavrilo Princip | 27.00% | ~38,306 |
 | Lead Harvest | 25.00% | ~35,468 |
-| Skynet Confirmed | 23.00% | ~32,630 |
+| Skynet Confirmed | 23.00% | ~32,631 |
 | Kesselschlacht | 22.00% | ~31,212 |
-| Democracy Works! | 20.00% | ~28,374 |
-| Switch, Please! | 19.00% | ~26,955 |
+| Democracy Works! | 20.00% | ~28,375 |
+| Switch, Please! | 19.00% | ~26,956 |
 | At Least This Way I Can Win... | 18.00% | ~25,537 |
 | Tourist | 18.00% | ~25,537 |
-| I've Seen It All | 17.00% | ~24,118 |
-| Oops! | 17.00% | ~24,118 |
-| Developers, Developers, Developers, Developers! | 16.00% | ~22,699 |
+| I've Seen It All | 17.00% | ~24,119 |
+| Oops! | 17.00% | ~24,119 |
+| Developers, Developers, Developers, Developers! | 16.00% | ~22,700 |
 | Butcher | 12.00% | ~17,025 |
 | Before the Leaves Fall | 10.00% | ~14,187 |
 | Close Call | 10.00% | ~14,187 |
 | Pinpoint | 10.00% | ~14,187 |
-| Tannenberg | 9.00% | ~12,768 |
+| Tannenberg | 9.00% | ~12,769 |
 | For the Emperor | 8.00% | ~11,350 |
 | Hawk Eye | 8.00% | ~11,350 |
 | Equality For All | 7.00% | ~9,931 |
@@ -74,7 +74,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Seeing is Believing | 0.90% | ~1,277 |
 | Road to Berlin | 0.60% | ~851 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141,871 (Ranked 82)  
+Progressed: 141,874 (Ranked 82)  
 Completed: 34 (0.02%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,16 +317,16 @@ Completed: 34 (0.02%) (Ranked 351)
 | 2023-12-16 | 141,561 | 33 |
 | 2023-12-17 | 141,706 | 34 |
 | 2023-12-18 | 141,794 | 34 |
-| 2023-12-19 | 141,871 | 34 |
+| 2023-12-19 | 141,874 | 34 |
 ## Awards
 Max (Competitive Players): 335  (Ranked 248)  
-Sum: 3,291 (Ranked 173)  
+Sum: 3,292 (Ranked 173)  
 Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
 | This game has Competitive Players | 335 |
 | This game has Challenging Combat | 326 |
-| This game has Diverse Characters | 319 |
+| This game has Diverse Characters | 320 |
 | This game is Extremely Fun | 317 |
 | This game has Quickly Understood Controls | 317 |
 | This game is Relaxing | 315 |
@@ -531,3 +531,4 @@ Diff (max vs sum): 75
 | 2023-12-15 | 4.39 | - | 335 | 3,288 |
 | 2023-12-16 | 4.39 | - | 335 | 3,289 |
 | 2023-12-18 | 4.39 | - | 335 | 3,291 |
+| 2023-12-19 | 4.39 | - | 335 | 3,292 |

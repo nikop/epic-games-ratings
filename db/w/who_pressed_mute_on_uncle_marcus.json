@@ -4,8 +4,8 @@
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
   "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 387,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 380,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
     "PcReleaseDate": "2022-03-18T05:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 255,
+  "EOS_Progressed": 256,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 10.59,
+  "EOS_Completed_Percentage": 10.55,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:58.284727+00:00",
@@ -635,6 +635,11 @@
       "Time": "2023-12-19T06:09:33.9167965+00:00",
       "NumProgressed": 255,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-12-19T19:08:57.3594965+00:00",
+      "NumProgressed": 256,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 17,
@@ -646,7 +651,7 @@
       "Name": "And away we go!",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "bless_the_rain",
@@ -670,7 +675,7 @@
       "Name": "Brown nosing",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "cheat",
@@ -678,7 +683,7 @@
       "Name": "Cheat",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "delusions",
@@ -694,15 +699,15 @@
       "Name": "Don\u0027t fear the baldness",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "instinct",
       "SetID": "202dmm8",
       "Name": "Instinct",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 100
     },
     {
       "ID": "job_one_done",
@@ -710,7 +715,7 @@
       "Name": "Job one. DONE!",
       "Percentage": 62,
       "XP": 100,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "just_like_me",
@@ -742,7 +747,7 @@
       "Name": "Sorry, kiddo",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "the_truth",
@@ -766,7 +771,7 @@
       "Name": "Toby foolery",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "you_are_carol_vorderman",
@@ -774,14 +779,14 @@
       "Name": "You are Carol Vorderman",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     }
   ],
   "AchievementSets": [
     {
       "ID": "202dmm8",
       "IsBase": true,
-      "Progressed": 255,
+      "Progressed": 256,
       "Completed": 27
     }
   ],
@@ -789,8 +794,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-12-19T18:09:19.0136681+00:00",
+  "LastChanged_Achievements": "2023-12-19T19:08:57.359496+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:24.8474883+00:00",
-  "LastUpdate_Ratings": "2023-12-19T17:59:25.9319214+00:00",
-  "LastUpdate_Achievements": "2023-12-19T18:09:19.0136901+00:00"
+  "LastUpdate_Ratings": "2023-12-19T18:59:03.9843091+00:00",
+  "LastUpdate_Achievements": "2023-12-19T19:08:57.3595147+00:00"
 }

@@ -1,22 +1,22 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.53 (Ranked 549)  
+Rating: 4.53 (Ranked 550)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 71.00% | ~90 |
+| Rock of the Bay | 71.00% | ~91 |
 | Mash Machine | 65.00% | ~83 |
 | Ducks in a Row, Fish in a Barrel | 41.00% | ~52 |
 | Furon Fashion | 37.00% | ~47 |
-| Shop Til They Drop | 31.00% | ~39 |
-| Earthly Pleasures | 28.00% | ~36 |
+| Shop Til They Drop | 30.00% | ~38 |
+| Earthly Pleasures | 27.00% | ~35 |
 | Bodied Sattva | 25.00% | ~32 |
-| Cult Following | 24.00% | ~30 |
-| Upgreatest | 20.00% | ~25 |
+| Cult Following | 23.00% | ~29 |
+| Upgreatest | 20.00% | ~26 |
 | Lie Back and Think of Albion | 19.00% | ~24 |
-| I Look Up As I Walk to Takoshima | 17.00% | ~22 |
+| I Look Up As I Walk to Takoshima | 16.00% | ~20 |
 | Pimp My Raid | 16.00% | ~20 |
 | Perfect Probulator | 13.00% | ~17 |
 | Freshly Squeezed | 13.00% | ~17 |
@@ -24,8 +24,8 @@ Number of Ratings: 90  (23.09.2022)
 | Transmitting From Sol-3 | 8.00% | ~10 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 8.00% | ~10 |
 | Dusted | 8.00% | ~10 |
-| Fly Me to the Moon Base | 6.00% | ~8 |
-| Kaijuiced | 6.00% | ~8 |
+| Fly Me to the Moon Base | 5.00% | ~6 |
+| Kaijuiced | 5.00% | ~6 |
 | Scuttled | 4.00% | ~5 |
 | Lobster Blisque | 2.00% | ~3 |
 | Deincarnated | 2.00% | ~3 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.00% | ~0 |
 | Trans-Siberian Express | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127 (Ranked 439)  
+Progressed: 128 (Ranked 437)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-16 | 92 | 0 |
 | 2023-12-17 | 103 | 0 |
 | 2023-12-18 | 121 | 0 |
-| 2023-12-19 | 127 | 0 |
+| 2023-12-19 | 128 | 0 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 481)  
 Sum: 36 (Ranked 513)  

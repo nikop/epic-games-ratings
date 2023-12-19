@@ -6,19 +6,19 @@ Number of Ratings: 28  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 78.00% | ~441 |
+| Getting started | 78.00% | ~442 |
 | Close call! | 72.00% | ~408 |
-| Builder | 53.00% | ~300 |
+| Builder | 53.00% | ~301 |
 | Pangs of conscience | 45.00% | ~255 |
 | Living it large! | 45.00% | ~255 |
-| Collector | 43.00% | ~243 |
-| Need to think | 43.00% | ~243 |
+| Collector | 43.00% | ~244 |
+| Need to think | 43.00% | ~244 |
 | Completely nuts! | 41.00% | ~232 |
 | Europe | 33.00% | ~187 |
 | Just in time! | 33.00% | ~187 |
 | Madness! | 32.00% | ~181 |
 | It's no coincidence. | 29.00% | ~164 |
-| Philatelist | 27.00% | ~153 |
+| Philatelist | 26.00% | ~147 |
 | Let's roll! | 26.00% | ~147 |
 | Ouroboros | 25.00% | ~142 |
 | Non Stop! | 24.00% | ~136 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Juggler | 0.40% | ~2 |
 | Maniac vandal | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 566 (Ranked 319)  
+Progressed: 567 (Ranked 319)  
 Completed: 2 (0.35%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 2 (0.35%) (Ranked 236)
 | 2023-12-16 | 553 | 2 |
 | 2023-12-17 | 556 | 2 |
 | 2023-12-18 | 564 | 2 |
-| 2023-12-19 | 566 | 2 |
+| 2023-12-19 | 567 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

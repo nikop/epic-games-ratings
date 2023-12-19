@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 253,
   "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -643,9 +643,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 4059,
+  "EOS_Progressed": 4060,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -8783,6 +8783,11 @@
       "Time": "2023-12-19T16:09:21.9391606+00:00",
       "NumProgressed": 4059,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-19T19:08:22.8575638+00:00",
+      "NumProgressed": 4060,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9050,7 +9055,7 @@
       "Name": "Close Quarters",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -9058,7 +9063,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -9130,7 +9135,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1258
+      "UsersEstimate": 1259
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -9282,7 +9287,7 @@
       "Name": "Last Resort",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
@@ -9290,7 +9295,7 @@
       "Name": "Siegebreaker",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -9298,7 +9303,7 @@
       "Name": "Ghost of Falaise",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "REWARD_DLC02_02_OPERATION_OVERLORD",
@@ -9361,13 +9366,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4010,
+      "Progressed": 4011,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4059,
+      "Progressed": 4060,
       "Completed": 11
     }
   ],
@@ -9375,8 +9380,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-12T01:46:40.8883813+00:00",
-  "LastChanged_Achievements": "2023-12-19T18:08:42.7106238+00:00",
+  "LastChanged_Achievements": "2023-12-19T19:08:22.8575629+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:56:53.9169066+00:00",
-  "LastUpdate_Ratings": "2023-12-19T17:58:46.4623453+00:00",
-  "LastUpdate_Achievements": "2023-12-19T18:08:42.7107218+00:00"
+  "LastUpdate_Ratings": "2023-12-19T18:58:27.172424+00:00",
+  "LastUpdate_Achievements": "2023-12-19T19:08:22.8576813+00:00"
 }

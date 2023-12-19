@@ -1,26 +1,26 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.53 (Ranked 549)  
+Rating: 4.53 (Ranked 550)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~5,935 |
-| Greasy Palms | 42.00% | ~5,419 |
-| South American Connection | 25.00% | ~3,226 |
-| Life of the Party | 20.00% | ~2,581 |
-| Tommy Two-Wheels | 15.00% | ~1,935 |
-| Big Heat from Little Havana | 14.00% | ~1,806 |
-| Chauffeur | 14.00% | ~1,806 |
-| Salutations My Little Friend | 11.00% | ~1,419 |
-| Iron-y | 10.00% | ~1,290 |
-| Gun for Hire | 9.00% | ~1,161 |
-| Mischief Managed | 8.00% | ~1,032 |
-| Vice City Mogul | 7.00% | ~903 |
-| Catch Me if You Can | 6.00% | ~774 |
-| Bloodstained Hands | 6.00% | ~774 |
-| Not my First Time | 5.00% | ~645 |
-| Grand Theft Auto | 5.00% | ~645 |
+| Legal Counsel | 46.00% | ~5,939 |
+| Greasy Palms | 42.00% | ~5,422 |
+| South American Connection | 25.00% | ~3,228 |
+| Life of the Party | 20.00% | ~2,582 |
+| Tommy Two-Wheels | 15.00% | ~1,936 |
+| Big Heat from Little Havana | 14.00% | ~1,807 |
+| Chauffeur | 14.00% | ~1,807 |
+| Salutations My Little Friend | 11.00% | ~1,420 |
+| Iron-y | 10.00% | ~1,291 |
+| Gun for Hire | 9.00% | ~1,162 |
+| Mischief Managed | 8.00% | ~1,033 |
+| Vice City Mogul | 7.00% | ~904 |
+| Catch Me if You Can | 6.00% | ~775 |
+| Bloodstained Hands | 6.00% | ~775 |
+| Not my First Time | 5.00% | ~646 |
+| Grand Theft Auto | 5.00% | ~646 |
 | Pie Guy | 4.00% | ~516 |
 | Running Rampant | 3.00% | ~387 |
 | Point A to Point B | 3.00% | ~387 |
@@ -40,7 +40,7 @@ Rating: 4.53 (Ranked 549)
 | Done it All | 0.90% | ~116 |
 | Kingpin | 0.50% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,903 (Ranked 165)  
+Progressed: 12,910 (Ranked 165)  
 Completed: 70 (0.54%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 70 (0.54%) (Ranked 207)
 | 2023-12-16 | 12,320 | 68 |
 | 2023-12-17 | 12,602 | 68 |
 | 2023-12-18 | 12,767 | 70 |
-| 2023-12-19 | 12,903 | 70 |
+| 2023-12-19 | 12,910 | 70 |
 ## Awards
 Max (Great Boss Battles): 130  (Ranked 338)  
 Sum: 130 (Ranked 440)  

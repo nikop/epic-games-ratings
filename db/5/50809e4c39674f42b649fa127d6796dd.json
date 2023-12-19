@@ -4,7 +4,7 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -1378,9 +1378,9 @@
       "ID": "FIRST_METEOR_SHOWER",
       "SetID": "apihg0e",
       "Name": "Celestial Rain",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 109
     },
     {
       "ID": "FIRST_MINIBOSS_DEFEATED",
@@ -1609,8 +1609,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-19T18:06:12.3559508+00:00",
+  "LastChanged_Achievements": "2023-12-19T19:05:33.4458526+00:00",
   "LastUpdate_AppInfo": "2023-12-12T18:57:06.567221+00:00",
-  "LastUpdate_Ratings": "2023-12-19T18:03:03.2735814+00:00",
-  "LastUpdate_Achievements": "2023-12-19T18:06:12.3559825+00:00"
+  "LastUpdate_Ratings": "2023-12-19T19:02:44.7129782+00:00",
+  "LastUpdate_Achievements": "2023-12-19T19:05:33.4458916+00:00"
 }

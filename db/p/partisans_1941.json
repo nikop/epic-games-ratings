@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 338,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1862,
+  "EOS_Progressed": 1863,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4459,6 +4459,11 @@
       "Time": "2023-12-19T18:09:03.629656+00:00",
       "NumProgressed": 1862,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-19T19:08:44.2017672+00:00",
+      "NumProgressed": 1863,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -4582,7 +4587,7 @@
       "Name": "Grenadier",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "Hard_Serpent",
@@ -4678,7 +4683,7 @@
       "Name": "Strategist",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "War_never_changes",
@@ -4686,7 +4691,7 @@
       "Name": "War Never Changes",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "We_were_not_here",
@@ -4709,15 +4714,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1862,
+      "Progressed": 1863,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-12-19T18:09:03.6296556+00:00",
+  "LastChanged_Achievements": "2023-12-19T19:08:44.2017666+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:45.5557319+00:00",
-  "LastUpdate_Ratings": "2023-12-19T18:02:50.2002344+00:00",
-  "LastUpdate_Achievements": "2023-12-19T18:09:03.6296921+00:00"
+  "LastUpdate_Ratings": "2023-12-19T19:02:33.44978+00:00",
+  "LastUpdate_Achievements": "2023-12-19T19:08:44.2018167+00:00"
 }

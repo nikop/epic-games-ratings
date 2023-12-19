@@ -5,8 +5,8 @@ Rating: 4.63 (Ranked 353)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Azoria Beckons | 1.00% | ~85 |
 | A Thorny Situation | 1.00% | ~85 |
-| Azoria Beckons | 0.90% | ~77 |
 | ... And Spit Back Out | 0.90% | ~77 |
 | Calm Sailing | 0.80% | ~68 |
 | Bramble Breaker | 0.80% | ~68 |
@@ -15,12 +15,12 @@ Rating: 4.63 (Ranked 353)
 | Miner 49er | 0.60% | ~51 |
 | Humble Collector | 0.60% | ~51 |
 | Mist Walker | 0.60% | ~51 |
+| Exit Through The Gift Shop | 0.50% | ~6 |
 | Clear the Air | 0.40% | ~34 |
 | Search for the Hairy Grell | 0.40% | ~34 |
 | Lumberjack | 0.40% | ~34 |
 | Higher Tax Bracket | 0.40% | ~34 |
 | Oui, Chef! | 0.40% | ~34 |
-| Exit Through The Gift Shop | 0.40% | ~5 |
 | Beach Comber | 0.30% | ~26 |
 | Botanical Breakthrough | 0.30% | ~26 |
 | Azorian Anniversary | 0.30% | ~26 |

@@ -9,7 +9,7 @@ Rating: 4.44 (Ranked 685)
 | Confirming Suspicions | 42.00% | ~1,705 |
 | The Kraken Wakes | 37.00% | ~1,502 |
 | It's Starting to Crack | 34.00% | ~1,380 |
-| Change the Channel | 31.00% | ~1,258 |
+| Change the Channel | 31.00% | ~1,259 |
 | Lord of War | 30.00% | ~1,218 |
 | Taking it back | 29.00% | ~1,177 |
 | Resourceful | 27.00% | ~1,096 |
@@ -24,8 +24,8 @@ Rating: 4.44 (Ranked 685)
 | Climbing the Ladder | 17.00% | ~690 |
 | Just a Flesh Wound | 17.00% | ~690 |
 | Der Geist | 17.00% | ~690 |
-| Close Quarters | 16.00% | ~649 |
-| Snake in the Grass | 16.00% | ~649 |
+| Close Quarters | 16.00% | ~650 |
+| Snake in the Grass | 16.00% | ~650 |
 | Skirmisher | 15.00% | ~609 |
 | Die Nussknacker Sweet! | 15.00% | ~609 |
 | Brains of the Operation | 15.00% | ~609 |
@@ -45,9 +45,9 @@ Rating: 4.44 (Ranked 685)
 | It'll Buff Right Out | 5.00% | ~203 |
 | Road Rage | 5.00% | ~203 |
 | Don't hold your breath | 5.00% | ~203 |
-| Last Resort | 5.00% | ~200 |
-| Siegebreaker | 5.00% | ~200 |
-| Ghost of Falaise | 5.00% | ~200 |
+| Last Resort | 5.00% | ~201 |
+| Siegebreaker | 5.00% | ~201 |
+| Ghost of Falaise | 5.00% | ~201 |
 | Locomotion Commotion | 4.00% | ~162 |
 | From Paris with Love | 3.00% | ~122 |
 | Burn after reading | 3.00% | ~122 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 685)
 | Going Overboard | 0.60% | ~24 |
 | Stroll in the Woods | 0.50% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,059 (Ranked 203)  
+Progressed: 4,060 (Ranked 203)  
 Completed: 11 (0.27%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 11 (0.27%) (Ranked 253)
 | 2023-12-16 | 4,034 | 11 |
 | 2023-12-17 | 4,049 | 11 |
 | 2023-12-18 | 4,057 | 11 |
-| 2023-12-19 | 4,059 | 11 |
+| 2023-12-19 | 4,060 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 516)  
 Sum: 28 (Ranked 530)  

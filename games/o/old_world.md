@@ -7,6 +7,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Alexander the Great | 0.10% | ~16 |
+| Lighthouse in Alexandria | 0.10% | ~16 |
+| Musaeum in Alexandria | 0.10% | ~16 |
+| Regicide | 0.10% | ~16 |
 | Bad Heir Day | 0.10% | ~16 |
 | Acropolis in Athenai | 0.10% | ~16 |
 | Hanging Gardens in Babylon | 0.10% | ~16 |
@@ -14,13 +17,16 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able | 0.10% | ~16 |
 | Ambitious | 0.10% | ~16 |
 | Architect | 0.10% | ~16 |
+| Beloved | 0.10% | ~16 |
 | Brilliant | 0.10% | ~16 |
 | Conqueror | 0.10% | ~16 |
+| Devout | 0.10% | ~16 |
 | Enlightened | 0.10% | ~16 |
 | Explorer | 0.10% | ~16 |
 | Fountainhead | 0.10% | ~16 |
 | Glorious | 0.10% | ~16 |
 | Good | 0.10% | ~16 |
+| Great | 0.10% | ~16 |
 | Intercessor | 0.10% | ~16 |
 | Intrepid | 0.10% | ~16 |
 | Just | 0.10% | ~16 |
@@ -40,21 +46,30 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legendary Cities | 0.10% | ~16 |
 | Strong Cities | 0.10% | ~16 |
 | Able Difficulty | 0.10% | ~16 |
+| Glorious Difficulty | 0.10% | ~16 |
 | Good Difficulty | 0.10% | ~16 |
 | Just Difficulty | 0.10% | ~16 |
+| Noble Difficulty | 0.10% | ~16 |
 | Strong Difficulty | 0.10% | ~16 |
 | Champions | 0.10% | ~16 |
+| Clerics | 0.10% | ~16 |
+| Hunters | 0.10% | ~16 |
 | Landowners | 0.10% | ~16 |
 | Patrons | 0.10% | ~16 |
+| Riders | 0.10% | ~16 |
 | Sages | 0.10% | ~16 |
 | Traders | 0.10% | ~16 |
 | Friendly Family | 0.10% | ~16 |
 | Furious Family | 0.10% | ~16 |
 | The Eternal Treaty | 0.10% | ~16 |
+| Hittite Iron | 0.10% | ~16 |
 | Acropolis | 0.10% | ~16 |
+| Apadana | 0.10% | ~16 |
 | Circus Maximus | 0.10% | ~16 |
 | Colossus | 0.10% | ~16 |
+| Great Ziggurat | 0.10% | ~16 |
 | Hanging Gardens | 0.10% | ~16 |
+| Temple of Solomon | 0.10% | ~16 |
 | Adur Burzen-Mihr | 0.10% | ~16 |
 | Ishtar Gate | 0.10% | ~16 |
 | Lighthouse | 0.10% | ~16 |
@@ -62,27 +77,45 @@ Number of Ratings: 1,307  (23.09.2022)
 | Musaeum | 0.10% | ~16 |
 | Oracle | 0.10% | ~16 |
 | Pantheon | 0.10% | ~16 |
+| Pyramids | 0.10% | ~16 |
+| Via Recta Souk | 0.10% | ~16 |
 | Learn to Play 1 | 0.10% | ~16 |
 | Learn to Play 2 | 0.10% | ~16 |
 | Learn to Play 5 | 0.10% | ~16 |
+| Macedonian Wars | 0.10% | ~16 |
+| Assyria | 0.10% | ~16 |
+| Egypt | 0.10% | ~16 |
 | Greece | 0.10% | ~16 |
 | Hatti | 0.10% | ~16 |
 | Old World Order | 0.10% | ~16 |
+| One True Faith | 0.10% | ~16 |
 | Play a Single Player Game | 0.10% | ~16 |
 | Christianity | 0.10% | ~16 |
 | Judaism | 0.10% | ~16 |
+| Manichaeism | 0.10% | ~16 |
+| Assyrian Paganism | 0.10% | ~16 |
+| Egyptian Paganism | 0.10% | ~16 |
 | Greek Paganism | 0.10% | ~16 |
+| Hittite Paganism | 0.10% | ~16 |
 | Roman Paganism | 0.10% | ~16 |
 | Zoroastrianism | 0.10% | ~16 |
 | Circus Maximus in Roma | 0.10% | ~16 |
 | Capturing Cities | 0.10% | ~16 |
 | Naming Landmarks | 0.10% | ~16 |
+| Economic Reform | 0.10% | ~16 |
+| Industrial Progress | 0.10% | ~16 |
+| Military Prestige | 0.10% | ~16 |
+| Dualism | 0.10% | ~16 |
+| Gnosticism | 0.10% | ~16 |
+| Mythology | 0.10% | ~16 |
 | Redemption | 0.10% | ~16 |
+| Veneration | 0.10% | ~16 |
 | Trade Caravan | 0.10% | ~16 |
 | Cimmerian Archer | 0.10% | ~16 |
 | Legionary | 0.10% | ~16 |
 | Turreted Elephant | 0.10% | ~16 |
 | All Nations | 0.10% | ~16 |
+| Ambition Victory | 0.10% | ~16 |
 | Double Victory | 0.10% | ~16 |
 | No Undo | 0.10% | ~16 |
 | Points Victory | 0.10% | ~16 |
@@ -92,10 +125,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Great Mage | 0.10% | ~16 |
 | Centenarian | 0.00% | ~0 |
 | Alexander the who? | 0.00% | ~0 |
-| Lighthouse in Alexandria | 0.00% | ~0 |
-| Musaeum in Alexandria | 0.00% | ~0 |
 | Alliance Victory | 0.00% | ~0 |
-| Regicide | 0.00% | ~0 |
 | Future Regicide | 0.00% | ~0 |
 | Barbarian Horde | 0.00% | ~0 |
 | The Great Raging Horde | 0.00% | ~0 |
@@ -128,12 +158,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cleopatra's Love | 0.00% | ~0 |
 | Ancient | 0.00% | ~0 |
 | Avenger | 0.00% | ~0 |
-| Beloved | 0.00% | ~0 |
 | Drillmaster | 0.00% | ~0 |
 | Capable | 0.00% | ~0 |
 | Destroyer | 0.00% | ~0 |
-| Devout | 0.00% | ~0 |
-| Great | 0.00% | ~0 |
 | Holy | 0.00% | ~0 |
 | Invincible | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
@@ -149,18 +176,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Council of Madness | 0.00% | ~0 |
 | Via Recta Souk in Damascus | 0.00% | ~0 |
 | Oracle in Delphi | 0.00% | ~0 |
-| Glorious Difficulty | 0.00% | ~0 |
 | Great Difficulty | 0.00% | ~0 |
 | Magnificent Difficulty | 0.00% | ~0 |
-| Noble Difficulty | 0.00% | ~0 |
 | Elephant in Elephantine | 0.00% | ~0 |
 | Ethnic Diversity | 0.00% | ~0 |
 | Et tu Brutus? | 0.00% | ~0 |
 | Event Level High | 0.00% | ~0 |
 | Artisans | 0.00% | ~0 |
-| Clerics | 0.00% | ~0 |
-| Hunters | 0.00% | ~0 |
-| Riders | 0.00% | ~0 |
 | Statesmen | 0.00% | ~0 |
 | Battle of the Fertile Crescent | 0.00% | ~0 |
 | Five Routs | 0.00% | ~0 |
@@ -209,16 +231,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Eastern Empire | 0.00% | ~0 |
 | Mausoleum in Halicarnassus | 0.00% | ~0 |
 | Hardcore | 0.00% | ~0 |
-| Hittite Iron | 0.00% | ~0 |
-| Apadana | 0.00% | ~0 |
-| Great Ziggurat | 0.00% | ~0 |
 | Hagia Sophia | 0.00% | ~0 |
 | Church of the Holy Sepulchre | 0.00% | ~0 |
-| Temple of Solomon | 0.00% | ~0 |
 | Cao'an | 0.00% | ~0 |
 | Necropolis | 0.00% | ~0 |
-| Pyramids | 0.00% | ~0 |
-| Via Recta Souk | 0.00% | ~0 |
 | Knowledge of the Ancients | 0.00% | ~0 |
 | Learn By Playing 1 - Able | 0.00% | ~0 |
 | Learn By Playing 2 - Just | 0.00% | ~0 |
@@ -226,18 +242,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn By Playing 4 - Strong | 0.00% | ~0 |
 | Learn to Play 3 | 0.00% | ~0 |
 | Learn to Play 4 | 0.00% | ~0 |
-| Macedonian Wars | 0.00% | ~0 |
 | Medo-Babylonian Conquest | 0.00% | ~0 |
 | Pyramids in Menefer | 0.00% | ~0 |
 | Merchants of the Levant | 0.00% | ~0 |
 | Realistic Mortality | 0.00% | ~0 |
-| Assyria | 0.00% | ~0 |
 | Babylonia | 0.00% | ~0 |
 | Carthage | 0.00% | ~0 |
-| Egypt | 0.00% | ~0 |
 | Persia | 0.00% | ~0 |
 | Rome | 0.00% | ~0 |
-| One True Faith | 0.00% | ~0 |
 | Pantheon of Gods | 0.00% | ~0 |
 | Apadana in Parsa | 0.00% | ~0 |
 | Play a 1-v-1 Game | 0.00% | ~0 |
@@ -249,28 +261,17 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Play-By-Cloud Game | 0.00% | ~0 |
 | Power to the People | 0.00% | ~0 |
 | Punic Wars | 0.00% | ~0 |
-| Manichaeism | 0.00% | ~0 |
-| Assyrian Paganism | 0.00% | ~0 |
 | Babylonian Paganism | 0.00% | ~0 |
 | Carthaginian Paganism | 0.00% | ~0 |
-| Egyptian Paganism | 0.00% | ~0 |
-| Hittite Paganism | 0.00% | ~0 |
 | Persian Paganism | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
 | Roman Papacy | 0.00% | ~0 |
 | Pantheon in Roma | 0.00% | ~0 |
 | Building Wonders | 0.00% | ~0 |
 | Ten Crowns | 0.00% | ~0 |
-| Economic Reform | 0.00% | ~0 |
-| Industrial Progress | 0.00% | ~0 |
-| Military Prestige | 0.00% | ~0 |
-| Dualism | 0.00% | ~0 |
 | Enlightenment | 0.00% | ~0 |
-| Gnosticism | 0.00% | ~0 |
 | Legalism | 0.00% | ~0 |
-| Mythology | 0.00% | ~0 |
 | Revelation | 0.00% | ~0 |
-| Veneration | 0.00% | ~0 |
 | Word of God | 0.00% | ~0 |
 | Cataphract Archer | 0.00% | ~0 |
 | Three Man Chariot | 0.00% | ~0 |
@@ -278,7 +279,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 0.00% | ~0 |
 | Siege Tower | 0.00% | ~0 |
 | Great Ziggurat in Ur | 0.00% | ~0 |
-| Ambition Victory | 0.00% | ~0 |
 | Conquest Victory | 0.00% | ~0 |
 | No Characters | 0.00% | ~0 |
 | One City Challenge | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Al Khazneh in Petra | 0.00% | ~0 |
 | Colosseum in Roma | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,834 (Ranked 157)  
+Progressed: 15,835 (Ranked 157)  
 Completed: 5 (0.03%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -608,7 +608,7 @@ Completed: 5 (0.03%) (Ranked 344)
 | 2023-12-16 | 15,789 | 5 |
 | 2023-12-17 | 15,807 | 5 |
 | 2023-12-18 | 15,826 | 5 |
-| 2023-12-19 | 15,834 | 5 |
+| 2023-12-19 | 15,835 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 279)  
 Sum: 1,904 (Ranked 220)  

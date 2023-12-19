@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 327,
+  "EOS_Progressed": 329,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 21,
-  "EOS_Completed_Percentage": 6.42,
+  "EOS_Completed_Percentage": 6.38,
   "EosHistory": [
     {
       "Time": "2023-12-07T15:03:10.6458391+00:00",
@@ -949,6 +949,11 @@
       "Time": "2023-12-19T18:04:23.5611653+00:00",
       "NumProgressed": 327,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-19T19:03:56.1265016+00:00",
+      "NumProgressed": 329,
+      "NumCompleted": 21
     }
   ],
   "AchievementsAdded": "2023-12-07T15:03:10.6469952+00:00",
@@ -967,17 +972,17 @@
       "ID": "10000_XP",
       "SetID": "8d0im30",
       "Name": "2 000 Score",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 200,
-      "UsersEstimate": 46
+      "UsersEstimate": 49
     },
     {
       "ID": "1000_XP",
       "SetID": "8d0im30",
       "Name": "1000 Score",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 200,
-      "UsersEstimate": 92
+      "UsersEstimate": 95
     },
     {
       "ID": "100_XP",
@@ -993,21 +998,21 @@
       "Name": "200 Score",
       "Percentage": 48,
       "XP": 200,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     }
   ],
   "AchievementSets": [
     {
       "ID": "8d0im30",
       "IsBase": true,
-      "Progressed": 327,
+      "Progressed": 329,
       "Completed": 21
     }
   ],
   "FirstSeen": "2023-12-08T10:57:34.1568649+00:00",
   "FirstSeenAchievements": "2023-12-07T15:03:10.6469952+00:00",
-  "LastChanged_Achievements": "2023-12-19T18:04:23.5611648+00:00",
+  "LastChanged_Achievements": "2023-12-19T19:03:56.1265008+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:11.5515181+00:00",
-  "LastUpdate_Ratings": "2023-12-19T17:59:59.0691279+00:00",
-  "LastUpdate_Achievements": "2023-12-19T18:04:23.5611769+00:00"
+  "LastUpdate_Ratings": "2023-12-19T18:59:34.5218454+00:00",
+  "LastUpdate_Achievements": "2023-12-19T19:03:56.1265173+00:00"
 }

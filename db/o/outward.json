@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4028,
+  "EOS_Progressed": 4029,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 291,
+  "EOS_NewPlayers": 292,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -6476,6 +6476,11 @@
       "Time": "2023-12-19T17:04:49.8451499+00:00",
       "NumProgressed": 4028,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-19T19:04:32.7752918+00:00",
+      "NumProgressed": 4029,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -6487,7 +6492,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "AceDetective_9",
@@ -6543,7 +6548,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "Eureka_23",
@@ -6687,7 +6692,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -6711,7 +6716,7 @@
       "Name": "Tapped!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1490
+      "UsersEstimate": 1491
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -6751,7 +6756,7 @@
       "Name": "The Power of Family",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -6822,15 +6827,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4028,
+      "Progressed": 4029,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-19T18:05:03.7002967+00:00",
+  "LastChanged_Achievements": "2023-12-19T19:04:32.7752915+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:45.1407734+00:00",
-  "LastUpdate_Ratings": "2023-12-19T18:02:48.9477567+00:00",
-  "LastUpdate_Achievements": "2023-12-19T18:05:03.7003403+00:00"
+  "LastUpdate_Ratings": "2023-12-19T19:02:32.3699584+00:00",
+  "LastUpdate_Achievements": "2023-12-19T19:04:32.7753683+00:00"
 }

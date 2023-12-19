@@ -6,11 +6,11 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~87,687 |
+| Sowwy! | 36.00% | ~87,690 |
 | Alt+F4 | 10.00% | ~24,358 |
-| Where's that freaking Dwarf? | 8.00% | ~19,486 |
-| Déjà vu | 7.00% | ~17,050 |
-| Sock! SOCK! | 6.00% | ~14,614 |
+| Where's that freaking Dwarf? | 8.00% | ~19,487 |
+| Déjà vu | 7.00% | ~17,051 |
+| Sock! SOCK! | 6.00% | ~14,615 |
 | A beer, two curses, three companions | 5.00% | ~12,179 |
 | GG EZ | 5.00% | ~12,179 |
 | Speedrun | 5.00% | ~12,179 |
@@ -58,6 +58,7 @@ Number of Ratings: 118  (23.09.2022)
 | Inception | 0.30% | ~731 |
 | Cursed die | 0.20% | ~487 |
 | The Blood Countess | 0.20% | ~487 |
+| He’s alive! Aliiiive! | 0.20% | ~487 |
 | Free customer service | 0.20% | ~487 |
 | Imposture and Trowels | 0.20% | ~487 |
 | Deep changes | 0.20% | ~487 |
@@ -70,7 +71,6 @@ Number of Ratings: 118  (23.09.2022)
 | Super-Ultra-Lydian | 0.20% | ~487 |
 | Demisemiquaver | 0.20% | ~487 |
 | Necrophilia | 0.10% | ~244 |
-| He’s alive! Aliiiive! | 0.10% | ~244 |
 | Restless night | 0.10% | ~244 |
 | King of the Arena | 0.10% | ~244 |
 | Finally free | 0.10% | ~244 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~244 |
 | Dwarf Candy | 0.10% | ~244 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,575 (Ranked 64)  
+Progressed: 243,582 (Ranked 64)  
 Completed: 7 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 7 (0.00%) (Ranked 383)
 | 2023-12-16 | 243,151 | 7 |
 | 2023-12-17 | 243,348 | 7 |
 | 2023-12-18 | 243,479 | 7 |
-| 2023-12-19 | 243,575 | 7 |
+| 2023-12-19 | 243,582 | 7 |
 ## Awards
 Max (Character Customization): 249  (Ranked 272)  
 Sum: 521 (Ranked 327)  

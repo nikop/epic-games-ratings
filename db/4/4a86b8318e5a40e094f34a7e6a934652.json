@@ -4,8 +4,8 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 315,
+  "EOS_Progressed": 316,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.95,
   "EosHistory": [
@@ -1374,6 +1374,11 @@
       "Time": "2023-12-19T15:05:03.9353356+00:00",
       "NumProgressed": 315,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-19T19:04:30.6227113+00:00",
+      "NumProgressed": 316,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -1386,15 +1391,15 @@
       "Name": "Holy Macaroni!",
       "Percentage": 91,
       "XP": 50,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
       "SetID": "aniflfk",
       "Name": "Design Engineer",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 94
+      "UsersEstimate": 92
     },
     {
       "ID": "BRING_MARY",
@@ -1402,7 +1407,7 @@
       "Name": "Retro Diva",
       "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "BRING_PROSPERO",
@@ -1410,7 +1415,7 @@
       "Name": "Amusement Park",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
@@ -1442,7 +1447,7 @@
       "Name": "Off on an Expedition!",
       "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -1450,7 +1455,7 @@
       "Name": "Farmer",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "HOUSEWARMING",
@@ -1466,7 +1471,7 @@
       "Name": "Leech Lunch",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -1488,7 +1493,7 @@
       "ID": "PREPARE_10_COFFEE",
       "SetID": "aniflfk",
       "Name": "Barista",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -1538,21 +1543,21 @@
       "Name": "Strong Signal",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     }
   ],
   "AchievementSets": [
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 315,
+      "Progressed": 316,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-19T18:05:01.2609805+00:00",
+  "LastChanged_Achievements": "2023-12-19T19:04:30.6227107+00:00",
   "LastUpdate_AppInfo": "2023-12-13T21:57:03.1278188+00:00",
-  "LastUpdate_Ratings": "2023-12-19T17:58:40.3338579+00:00",
-  "LastUpdate_Achievements": "2023-12-19T18:05:01.2609983+00:00"
+  "LastUpdate_Ratings": "2023-12-19T18:58:22.2682478+00:00",
+  "LastUpdate_Achievements": "2023-12-19T19:04:30.6227266+00:00"
 }

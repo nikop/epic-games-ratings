@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -325,9 +325,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 233788,
+  "EOS_Progressed": 233790,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 323,
+  "EOS_NewPlayers": 325,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24960,6 +24960,11 @@
       "Time": "2023-12-19T18:08:52.7677866+00:00",
       "NumProgressed": 233788,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-19T19:08:34.592652+00:00",
+      "NumProgressed": 233790,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 28,
@@ -25115,7 +25120,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 79488
+      "UsersEstimate": 79489
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -25131,7 +25136,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 51433
+      "UsersEstimate": 51434
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -25194,7 +25199,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 233788,
+      "Progressed": 233790,
       "Completed": 6
     }
   ],
@@ -25202,8 +25207,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-12-17T08:58:28.3947518+00:00",
-  "LastChanged_Achievements": "2023-12-19T18:08:52.7677863+00:00",
+  "LastChanged_Achievements": "2023-12-19T19:08:34.5926515+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:20.0893293+00:00",
-  "LastUpdate_Ratings": "2023-12-19T17:59:15.1540975+00:00",
-  "LastUpdate_Achievements": "2023-12-19T18:08:52.7679377+00:00"
+  "LastUpdate_Ratings": "2023-12-19T18:58:54.9801569+00:00",
+  "LastUpdate_Achievements": "2023-12-19T19:08:34.5928468+00:00"
 }

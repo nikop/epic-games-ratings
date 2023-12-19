@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 338,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -332,9 +332,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 109899,
+  "EOS_Progressed": 109900,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3587,6 +3587,11 @@
       "Time": "2023-12-19T07:05:46.8007437+00:00",
       "NumProgressed": 109899,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-19T19:05:29.1533686+00:00",
+      "NumProgressed": 109900,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -3742,7 +3747,7 @@
       "Name": "Variety Player - Gold",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "29",
@@ -3806,7 +3811,7 @@
       "Name": "Challenge Master",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "36",
@@ -3869,15 +3874,15 @@
     {
       "ID": "4i9cj6f",
       "IsBase": true,
-      "Progressed": 109899,
+      "Progressed": 109900,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00",
   "LastChanged": "2023-01-05T14:57:39.5556866+00:00",
-  "LastChanged_Achievements": "2023-12-19T18:06:07.4304051+00:00",
+  "LastChanged_Achievements": "2023-12-19T19:05:29.1533681+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:17.171157+00:00",
-  "LastUpdate_Ratings": "2023-12-19T17:59:06.7974307+00:00",
-  "LastUpdate_Achievements": "2023-12-19T18:06:07.4304386+00:00"
+  "LastUpdate_Ratings": "2023-12-19T18:58:46.2530311+00:00",
+  "LastUpdate_Achievements": "2023-12-19T19:05:29.1534152+00:00"
 }

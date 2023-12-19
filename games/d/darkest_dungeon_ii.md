@@ -6,12 +6,12 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 8.00% | ~274 |
-| Lost and Found | 5.00% | ~171 |
-| This Belongs in a Museum | 4.00% | ~5,142 |
-| Autodidact | 4.00% | ~5,142 |
-| This guy... again? | 4.00% | ~137 |
-| Bloody Graduation | 4.00% | ~137 |
+| Malpractice Assurance | 8.00% | ~275 |
+| Lost and Found | 5.00% | ~172 |
+| This Belongs in a Museum | 4.00% | ~5,143 |
+| Autodidact | 4.00% | ~5,143 |
+| This guy... again? | 4.00% | ~138 |
+| Bloody Graduation | 4.00% | ~138 |
 | Not Today! | 3.00% | ~3,857 |
 | Creep and Sleep | 3.00% | ~3,857 |
 | Meat and Greet | 3.00% | ~3,857 |
@@ -56,14 +56,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | Road Trip | 1.00% | ~1,286 |
 | Ichthyophobic | 0.90% | ~1,157 |
 | No More Mouths to Feed | 0.90% | ~1,157 |
-| This Looks Familiar | 0.80% | ~1,028 |
-| Hot Air | 0.80% | ~1,028 |
-| Eyes Up | 0.80% | ~1,028 |
-| Slap on the Wrist | 0.80% | ~27 |
+| This Looks Familiar | 0.80% | ~1,029 |
+| Hot Air | 0.80% | ~1,029 |
+| Eyes Up | 0.80% | ~1,029 |
+| Slap on the Wrist | 0.80% | ~28 |
 | For Old Time' Sake | 0.70% | ~24 |
 | Handled | 0.60% | ~771 |
+| Body of Work | 0.60% | ~771 |
 | Shrine of Reflection | 0.50% | ~643 |
-| Body of Work | 0.50% | ~643 |
 | Et Tu, Riposte? | 0.50% | ~17 |
 | Clearing the Ledger | 0.40% | ~514 |
 | Triage | 0.40% | ~514 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,558 (Ranked 85)  
+Progressed: 128,569 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 3 (0.00%) (Ranked 383)
 | 2023-12-16 | 127,826 | 3 |
 | 2023-12-17 | 128,143 | 3 |
 | 2023-12-18 | 128,398 | 3 |
-| 2023-12-19 | 128,558 | 3 |
+| 2023-12-19 | 128,569 | 3 |
 ## Awards
 Max (Character Customization): 7,795  (Ranked 50)  
 Sum: 20,792 (Ranked 58)  

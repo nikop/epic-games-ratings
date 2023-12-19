@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -222,9 +222,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 1054,
+  "EOS_Progressed": 1055,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2732,6 +2732,11 @@
       "Time": "2023-12-19T14:04:16.2712292+00:00",
       "NumProgressed": 1054,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T19:04:11.3110553+00:00",
+      "NumProgressed": 1055,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2752,7 +2757,7 @@
       "Name": "Ab Initio",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "AnthropicHills",
@@ -2928,7 +2933,7 @@
       "Name": "Lord of the Files",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "LostMarshes",
@@ -2960,7 +2965,7 @@
       "Name": "Museum Explorer",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "MuseumVisitor",
@@ -3014,9 +3019,9 @@
       "ID": "PrometheusUnbound",
       "SetID": "1n308hc",
       "Name": "Prometheus Unbound",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 95
     },
     {
       "ID": "PuzzleFiend",
@@ -3024,7 +3029,7 @@
       "Name": "Puzzle Fiend",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "RemnantsOfThePast",
@@ -3208,14 +3213,14 @@
       "Name": "Your Biggest Fan",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     }
   ],
   "AchievementSets": [
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1054,
+      "Progressed": 1055,
       "Completed": 1
     }
   ],
@@ -3223,8 +3228,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-19T18:04:39.8726572+00:00",
+  "LastChanged_Achievements": "2023-12-19T19:04:11.3110546+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-19T17:59:21.3939385+00:00",
-  "LastUpdate_Achievements": "2023-12-19T18:04:39.8727332+00:00"
+  "LastUpdate_Ratings": "2023-12-19T18:59:00.4743+00:00",
+  "LastUpdate_Achievements": "2023-12-19T19:04:11.3111255+00:00"
 }

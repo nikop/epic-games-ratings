@@ -5,29 +5,29 @@ Rating: 4.89 (Ranked 10)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 43.00% | ~4,113 |
-| Start with a bang! | 42.00% | ~4,017 |
-| You can pet the cat! | 38.00% | ~3,634 |
-| Who put gears in there? | 30.00% | ~2,869 |
+| Feeling the beat! | 43.00% | ~4,114 |
+| Start with a bang! | 42.00% | ~4,018 |
+| You can pet the cat! | 38.00% | ~3,635 |
+| Who put gears in there? | 30.00% | ~2,870 |
 | Cream of the Crop | 26.00% | ~2,487 |
-| Thanks for the free chip, Peppermint! | 25.00% | ~2,391 |
-| You got this, Peppermint? | 21.00% | ~2,008 |
-| Perfect Parry | 19.00% | ~1,817 |
-| Alright, that felt AWESOME! | 19.00% | ~1,817 |
+| Thanks for the free chip, Peppermint! | 25.00% | ~2,392 |
+| You got this, Peppermint? | 21.00% | ~2,009 |
+| Perfect Parry | 19.00% | ~1,818 |
+| Alright, that felt AWESOME! | 19.00% | ~1,818 |
 | I play my own way! | 17.00% | ~1,626 |
 | This will cost you big time | 15.00% | ~1,435 |
 | Uh, they were broken when I got here | 14.00% | ~1,339 |
-| Z-shielding's got nothing on us! | 13.00% | ~1,243 |
-| Kissing the sky! | 13.00% | ~1,243 |
-| Does that say weakpoint? | 13.00% | ~1,243 |
+| Z-shielding's got nothing on us! | 13.00% | ~1,244 |
+| Kissing the sky! | 13.00% | ~1,244 |
+| Does that say weakpoint? | 13.00% | ~1,244 |
 | Whoa! There's ANOTHER health bar!? | 11.00% | ~1,052 |
-| The Negotiator | 10.00% | ~956 |
+| The Negotiator | 10.00% | ~957 |
 | You must like calling me in, Chai | 9.00% | ~861 |
 | I look cool. But I can look COOLER. | 9.00% | ~861 |
 | Headliner | 8.00% | ~765 |
 | Out in a puff of smoke | 8.00% | ~765 |
-| Time to pay up! | 7.00% | ~669 |
-| Perfecter Parry-er! | 7.00% | ~669 |
+| Time to pay up! | 7.00% | ~670 |
+| Perfecter Parry-er! | 7.00% | ~670 |
 | Who's the boss now? | 6.00% | ~574 |
 | I have to read these things? | 6.00% | ~574 |
 | NOW we got a kickass hideout! | 6.00% | ~485 |
@@ -77,7 +77,7 @@ Rating: 4.89 (Ranked 10)
 | Voices from within | 0.10% | ~8 |
 | Low budget finish | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,564 (Ranked 174)  
+Progressed: 9,567 (Ranked 174)  
 Completed: 8 (0.08%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 8 (0.08%) (Ranked 314)
 | 2023-12-16 | 7,817 | 8 |
 | 2023-12-17 | 8,671 | 8 |
 | 2023-12-18 | 9,200 | 8 |
-| 2023-12-19 | 9,564 | 8 |
+| 2023-12-19 | 9,567 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

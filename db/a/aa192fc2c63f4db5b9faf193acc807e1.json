@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 136,
+  "EOS_Progressed": 137,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 6.62,
+  "EOS_Completed_Percentage": 6.57,
   "EosHistory": [
     {
       "Time": "2023-10-22T10:08:20.3379882+00:00",
@@ -619,6 +619,11 @@
       "Time": "2023-12-19T18:09:39.1576129+00:00",
       "NumProgressed": 136,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-19T19:09:15.3006903+00:00",
+      "NumProgressed": 137,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-10-22T10:08:20.3379913+00:00",
@@ -631,7 +636,7 @@
       "Name": "Follow to the brother",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "creepytaleach10",
@@ -663,7 +668,7 @@
       "Name": "True fisherman",
       "Percentage": 15,
       "XP": 80,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "creepytaleach2",
@@ -677,9 +682,9 @@
       "ID": "creepytaleach3",
       "SetID": "bnif31p",
       "Name": "Happy end",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 75,
-      "UsersEstimate": 54
+      "UsersEstimate": 53
     },
     {
       "ID": "creepytaleach4",
@@ -717,31 +722,31 @@
       "ID": "creepytaleach8",
       "SetID": "bnif31p",
       "Name": "Fake tune",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 63
+      "UsersEstimate": 62
     },
     {
       "ID": "creepytaleach9",
       "SetID": "bnif31p",
       "Name": "Idler",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 44
+      "UsersEstimate": 42
     }
   ],
   "AchievementSets": [
     {
       "ID": "bnif31p",
       "IsBase": true,
-      "Progressed": 136,
+      "Progressed": 137,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2023-12-19T18:09:39.1576125+00:00",
+  "LastChanged_Achievements": "2023-12-19T19:09:15.3006894+00:00",
   "LastUpdate_AppInfo": "2023-12-13T06:57:05.952085+00:00",
-  "LastUpdate_Ratings": "2023-12-19T17:59:58.6686997+00:00",
-  "LastUpdate_Achievements": "2023-12-19T18:09:39.1576251+00:00"
+  "LastUpdate_Ratings": "2023-12-19T18:59:34.2000774+00:00",
+  "LastUpdate_Achievements": "2023-12-19T19:09:15.300703+00:00"
 }

@@ -14,7 +14,7 @@
 | Depressed visitor | 77.00% | ~326 |
 | Neurotrainer – power gainer! | 77.00% | ~326 |
 | Employee of the week | 76.00% | ~321 |
-| Your own amateur gym | 70.00% | ~296 |
+| Your own amateur gym | 71.00% | ~300 |
 | First defeat | 70.00% | ~296 |
 | Run K, run! | 70.00% | ~296 |
 | No bullying more | 67.00% | ~283 |

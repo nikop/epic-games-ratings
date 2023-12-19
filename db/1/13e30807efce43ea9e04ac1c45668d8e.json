@@ -4,8 +4,8 @@
   "ProductSlug": "outliver-tribulations-679884",
   "Ranking_EOS_Progress": 568,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 510,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 511,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-07-18T15:00:00+00:00",
     "PcReleaseDate": "2023-07-18T15:00:00+00:00",
@@ -195,9 +195,9 @@
       "ID": "ACH_DEFEAT_KUKUTEKO",
       "SetID": "7m06add",
       "Name": "Kukuteko",
-      "Percentage": 7,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_DEFEAT_OMOTOKE",
@@ -354,8 +354,8 @@
   ],
   "FirstSeen": "2023-07-23T09:57:14.6972253+00:00",
   "FirstSeenAchievements": "2023-07-01T13:14:13.8674761+00:00",
-  "LastChanged_Achievements": "2023-12-19T18:09:23.5436757+00:00",
+  "LastChanged_Achievements": "2023-12-19T19:09:01.8739778+00:00",
   "LastUpdate_AppInfo": "2023-12-16T05:57:11.8325377+00:00",
-  "LastUpdate_Ratings": "2023-12-19T17:58:47.415861+00:00",
-  "LastUpdate_Achievements": "2023-12-19T18:09:23.5437144+00:00"
+  "LastUpdate_Ratings": "2023-12-19T18:58:28.0526997+00:00",
+  "LastUpdate_Achievements": "2023-12-19T19:09:01.8739975+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -283,9 +283,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1946,
+  "EOS_Progressed": 1947,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2893,6 +2893,11 @@
       "Time": "2023-12-19T17:03:25.7548681+00:00",
       "NumProgressed": 1946,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T19:03:12.0092447+00:00",
+      "NumProgressed": 1947,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2934,9 +2939,9 @@
       "ID": "Achievement_006",
       "SetID": "6b34g18",
       "Name": "Contingency Plans",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Achievement_007",
@@ -3431,7 +3436,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1946,
+      "Progressed": 1947,
       "Completed": 0
     }
   ],
@@ -3439,8 +3444,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-19T11:02:35.1367556+00:00",
-  "LastChanged_Achievements": "2023-12-19T18:03:32.9972125+00:00",
+  "LastChanged_Achievements": "2023-12-19T19:03:12.009244+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:02.9619993+00:00",
-  "LastUpdate_Ratings": "2023-12-19T18:02:28.2842326+00:00",
-  "LastUpdate_Achievements": "2023-12-19T18:03:32.9973046+00:00"
+  "LastUpdate_Ratings": "2023-12-19T19:00:14.6457381+00:00",
+  "LastUpdate_Achievements": "2023-12-19T19:03:12.0093215+00:00"
 }

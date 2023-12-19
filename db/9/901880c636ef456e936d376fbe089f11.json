@@ -2,10 +2,10 @@
   "ID": "901880c636ef456e936d376fbe089f11",
   "Name": "Coffee Talk Episode 2 - Hibiscus and Butterfly",
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
-  "Ranking_EOS_Progress": 449,
-  "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 398,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Progress": 448,
+  "Ranking_EOS_Completed": 182,
+  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
     "PcReleaseDate": "2023-04-20T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 117,
+  "EOS_Progressed": 118,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
@@ -609,6 +609,11 @@
       "Time": "2023-12-18T12:06:22.6184236+00:00",
       "NumProgressed": 117,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T19:05:25.2734688+00:00",
+      "NumProgressed": 118,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -692,7 +697,7 @@
       "Name": "It\u0027s a masterpiece!",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACH_CAT_SHELTER",
@@ -756,7 +761,7 @@
       "Name": "One Way to Find Out",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_FIRSTLOVE",
@@ -788,7 +793,7 @@
       "Name": "Good Review",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_GUEST_OF_HONOR",
@@ -796,7 +801,7 @@
       "Name": "Guest of Honor",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_HARDBOILED_ADVICE",
@@ -810,9 +815,9 @@
       "ID": "ACH_HOW_I_MET_YOUR_ANCESTOR",
       "SetID": "8h8m55b",
       "Name": "How I Met Your Ancestor",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_HYDE_LEIBOVITZ",
@@ -860,7 +865,7 @@
       "Name": "Welcome to Coffee Talk",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH_NOTHING_TO_SHOW",
@@ -882,7 +887,7 @@
       "ID": "ACH_OVERFLOWING_WARMTH",
       "SetID": "8h8m55b",
       "Name": "\u201COverflowing Warmth: CBAW\u201D",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 5,
       "UsersEstimate": 78
     },
@@ -946,7 +951,7 @@
       "ID": "ACH_TRASH_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Let me start over",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 5,
       "UsersEstimate": 83
     },
@@ -962,7 +967,7 @@
       "ID": "ACH_UNLOCK_ALL",
       "SetID": "8h8m55b",
       "Name": "Oh wow, thank you ... I guess",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 190,
       "UsersEstimate": 1
     },
@@ -994,9 +999,9 @@
       "ID": "ACH_UNSOLICITED_BOUNCER",
       "SetID": "8h8m55b",
       "Name": "Unsolicited Bouncer",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_VAMPIRES_DONT_CHANGE",
@@ -1012,7 +1017,7 @@
       "Name": "What\u2019s This?",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_WISTFUL_NIGHT",
@@ -1043,14 +1048,14 @@
     {
       "ID": "8h8m55b",
       "IsBase": true,
-      "Progressed": 117,
+      "Progressed": 118,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-12-19T18:06:02.9092458+00:00",
+  "LastChanged_Achievements": "2023-12-19T19:05:25.2734684+00:00",
   "LastUpdate_AppInfo": "2023-12-12T20:56:55.8022632+00:00",
-  "LastUpdate_Ratings": "2023-12-19T17:59:17.6495465+00:00",
-  "LastUpdate_Achievements": "2023-12-19T18:06:02.9092754+00:00"
+  "LastUpdate_Ratings": "2023-12-19T18:58:57.2464866+00:00",
+  "LastUpdate_Achievements": "2023-12-19T19:05:25.2735137+00:00"
 }

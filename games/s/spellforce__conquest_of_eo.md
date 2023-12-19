@@ -7,8 +7,8 @@
 | Home Sweet Home | 88.00% | ~56 |
 | Enough rooms to swing a cat | 84.00% | ~54 |
 | First to the post | 84.00% | ~54 |
-| A kind of Magic | 77.00% | ~49 |
-| Connected | 70.00% | ~45 |
+| A kind of Magic | 78.00% | ~50 |
+| Connected | 72.00% | ~46 |
 | Expansion | 67.00% | ~43 |
 | Harvest Time | 61.00% | ~39 |
 | Mine! | 61.00% | ~39 |
@@ -37,17 +37,17 @@
 | Friend of Windholme | 11.00% | ~7 |
 | Magic Academy | 11.00% | ~7 |
 | Defeat Gor | 9.00% | ~6 |
+| Elynn's Tale | 9.00% | ~6 |
 | The Forge of Regan Gor | 9.00% | ~6 |
 | Silver Drift Hollow Mine | 9.00% | ~6 |
+| Defeat Hokan | 8.00% | ~5 |
 | Defeat Uram | 8.00% | ~5 |
-| Elynn's Tale | 8.00% | ~5 |
 | Lore's Tale | 8.00% | ~5 |
 | Yngrid's Tale | 8.00% | ~5 |
 | Mage Teacher | 8.00% | ~5 |
 | A Master of Magic | 8.00% | ~5 |
 | A Joke | 8.00% | ~5 |
 | Get to the Airship! | 6.00% | ~4 |
-| Defeat Hokan | 6.00% | ~4 |
 | Defeat Isgrimm | 6.00% | ~4 |
 | Defeat Undergast | 6.00% | ~4 |
 | Lytra's Tale | 6.00% | ~4 |

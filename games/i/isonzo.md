@@ -6,24 +6,24 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tutti Eroi! | 51.00% | ~4,843 |
-| You Shall Not Pass | 51.00% | ~4,843 |
-| Peak Performance | 46.00% | ~4,368 |
-| Avanti Savoia! | 44.00% | ~4,178 |
-| Mamma Mia! | 35.00% | ~3,324 |
-| Conrad von Hotzensocks | 32.00% | ~3,039 |
-| Gabriele D'Annunzio | 32.00% | ~3,039 |
-| Silver Lining | 27.00% | ~2,564 |
-| Aurelio Baruzzi | 21.00% | ~1,994 |
-| Decimation | 20.00% | ~1,899 |
-| Donatello | 19.00% | ~1,804 |
-| Insubordination | 19.00% | ~1,804 |
-| The Italian Job | 19.00% | ~1,804 |
-| Veni Vidi Vici | 19.00% | ~1,804 |
-| Ragazzi del '99 | 17.00% | ~1,614 |
-| Luigi Cadorna | 16.00% | ~1,519 |
-| The Lion of the Isonzo | 14.00% | ~1,329 |
-| Uomo Universale | 13.00% | ~1,234 |
+| Tutti Eroi! | 51.00% | ~4,845 |
+| You Shall Not Pass | 51.00% | ~4,845 |
+| Peak Performance | 46.00% | ~4,370 |
+| Avanti Savoia! | 44.00% | ~4,180 |
+| Mamma Mia! | 35.00% | ~3,325 |
+| Conrad von Hotzensocks | 32.00% | ~3,040 |
+| Gabriele D'Annunzio | 32.00% | ~3,040 |
+| Silver Lining | 27.00% | ~2,565 |
+| Aurelio Baruzzi | 21.00% | ~1,995 |
+| Decimation | 20.00% | ~1,900 |
+| Donatello | 19.00% | ~1,805 |
+| Insubordination | 19.00% | ~1,805 |
+| The Italian Job | 19.00% | ~1,805 |
+| Veni Vidi Vici | 19.00% | ~1,805 |
+| Ragazzi del '99 | 17.00% | ~1,615 |
+| Luigi Cadorna | 16.00% | ~1,520 |
+| The Lion of the Isonzo | 14.00% | ~1,330 |
+| Uomo Universale | 13.00% | ~1,235 |
 | Dirty Dozen | 12.00% | ~1,140 |
 | Shaken, Not Stirred | 12.00% | ~1,140 |
 | Die Bosniaken Kommen! | 11.00% | ~1,045 |
@@ -50,9 +50,9 @@ Number of Ratings: 98  (23.09.2022)
 | Malpractice | 1.00% | ~95 |
 | Rome Wasn't Built In A Day | 1.00% | ~95 |
 | "Sacro Egoismo" | 0.40% | ~38 |
-| Can I Go Home Now? | 0.10% | ~9 |
+| Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,496 (Ranked 175)  
+Progressed: 9,500 (Ranked 175)  
 Completed: 10 (0.11%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 10 (0.11%) (Ranked 297)
 | 2023-12-16 | 9,436 | 10 |
 | 2023-12-17 | 9,466 | 10 |
 | 2023-12-18 | 9,486 | 10 |
-| 2023-12-19 | 9,496 | 10 |
+| 2023-12-19 | 9,500 | 10 |
 ## Awards
 Max (Diverse Characters): 40  (Ranked 467)  
 Sum: 330 (Ranked 363)  

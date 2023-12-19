@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 324,
   "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -1285,9 +1285,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 3278,
+  "EOS_Progressed": 3279,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6525,6 +6525,11 @@
       "Time": "2023-12-19T18:06:06.2119574+00:00",
       "NumProgressed": 3278,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-19T19:05:28.0668386+00:00",
+      "NumProgressed": 3279,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -6552,7 +6557,7 @@
       "Name": "Bottom ply killer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "ACH_COMMENCE-THE-HIJINX",
@@ -6600,7 +6605,7 @@
       "Name": "Fashionista",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "ACH_FINALLY-HE-SHUTS-UP",
@@ -6608,7 +6613,7 @@
       "Name": "Finally he zips it",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "ACH_FULFILLED-THE-DREAM",
@@ -6816,7 +6821,7 @@
       "Name": "That pinch!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "ACH_THAT-WAS-WHEELIE-FUN",
@@ -6919,15 +6924,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3278,
+      "Progressed": 3279,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-12-19T05:57:31.5785779+00:00",
-  "LastChanged_Achievements": "2023-12-19T18:06:06.2119572+00:00",
+  "LastChanged_Achievements": "2023-12-19T19:05:28.0668381+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:11.20318+00:00",
-  "LastUpdate_Ratings": "2023-12-19T17:57:58.0222127+00:00",
-  "LastUpdate_Achievements": "2023-12-19T18:06:06.2120053+00:00"
+  "LastUpdate_Ratings": "2023-12-19T18:57:44.700755+00:00",
+  "LastUpdate_Achievements": "2023-12-19T19:05:28.0669068+00:00"
 }

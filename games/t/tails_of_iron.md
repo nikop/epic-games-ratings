@@ -5,8 +5,8 @@ Rating: 4.56 (Ranked 498)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| End of the Mozis | 0.20% | ~5 |
-| Throne Room Fit For A King | 0.20% | ~5 |
+| End of the Mozis | 0.30% | ~7 |
+| Throne Room Fit For A King | 0.30% | ~7 |
 | Become King | 0.10% | ~2 |
 | Collect Gold | 0.10% | ~2 |
 | Collect Iron Ore | 0.10% | ~2 |

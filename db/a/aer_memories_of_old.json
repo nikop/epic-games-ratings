@@ -419,9 +419,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 26593,
+  "EOS_Progressed": 26596,
   "EOS_Completed": 495,
-  "EOS_NewPlayers": 516,
+  "EOS_NewPlayers": 517,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.86,
   "EosHistory": [
@@ -26574,6 +26574,11 @@
       "Time": "2023-12-19T18:07:45.2626033+00:00",
       "NumProgressed": 26593,
       "NumCompleted": 495
+    },
+    {
+      "Time": "2023-12-19T19:06:02.3116007+00:00",
+      "NumProgressed": 26596,
+      "NumCompleted": 495
     }
   ],
   "TotalAchievements": 20,
@@ -26609,7 +26614,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2393
+      "UsersEstimate": 2394
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -26617,7 +26622,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2925
+      "UsersEstimate": 2926
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -26625,7 +26630,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2659
+      "UsersEstimate": 2660
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -26641,7 +26646,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3191
+      "UsersEstimate": 3192
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -26697,7 +26702,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3191
+      "UsersEstimate": 3192
     },
     {
       "ID": "INTRO_FINISHED",
@@ -26705,7 +26710,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 20211
+      "UsersEstimate": 20213
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -26713,7 +26718,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7180
+      "UsersEstimate": 7181
     },
     {
       "ID": "NORTH_FINISHED",
@@ -26744,15 +26749,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 26593,
+      "Progressed": 26596,
       "Completed": 495
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-12-19T18:07:45.2626028+00:00",
+  "LastChanged_Achievements": "2023-12-19T19:06:02.3116003+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:01.7195881+00:00",
-  "LastUpdate_Ratings": "2023-12-19T18:02:26.35345+00:00",
-  "LastUpdate_Achievements": "2023-12-19T18:07:45.2627613+00:00"
+  "LastUpdate_Ratings": "2023-12-19T19:00:12.7707127+00:00",
+  "LastUpdate_Achievements": "2023-12-19T19:06:02.311738+00:00"
 }

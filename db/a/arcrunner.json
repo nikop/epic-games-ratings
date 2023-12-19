@@ -4,8 +4,8 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 338,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 882,
+  "EOS_Progressed": 883,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2076,6 +2076,11 @@
       "Time": "2023-12-19T17:09:18.3601263+00:00",
       "NumProgressed": 882,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T19:08:47.0515918+00:00",
+      "NumProgressed": 883,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -2101,9 +2106,9 @@
       "ID": "ACHV_CHALLENGEACCEPTED",
       "SetID": "cceobco",
       "Name": "Challenge Accepted",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 247
     },
     {
       "ID": "ACHV_CHALLENGEMASTERED",
@@ -2199,7 +2204,7 @@
       "Name": "Nanonic I",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "ACHV_NANONIC2",
@@ -2237,9 +2242,9 @@
       "ID": "ACHV_ROOKIE",
       "SetID": "cceobco",
       "Name": "Rookie",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 71
     },
     {
       "ID": "ACHV_SUPPLYRUN",
@@ -2287,7 +2292,7 @@
       "Name": "Unlocked and Loaded",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ACHV_UPCLOSEANDPERSONAL",
@@ -2318,13 +2323,13 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 882,
+      "Progressed": 883,
       "Completed": 0
     },
     {
       "ID": "cd9kng8",
       "IsBase": false,
-      "Progressed": 308,
+      "Progressed": 309,
       "Completed": 3
     }
   ],
@@ -2332,8 +2337,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-12-19T18:09:06.9967291+00:00",
+  "LastChanged_Achievements": "2023-12-19T19:08:47.0515912+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:31.7706606+00:00",
-  "LastUpdate_Ratings": "2023-12-19T17:59:43.8375145+00:00",
-  "LastUpdate_Achievements": "2023-12-19T18:09:06.9967631+00:00"
+  "LastUpdate_Ratings": "2023-12-19T18:59:20.046683+00:00",
+  "LastUpdate_Achievements": "2023-12-19T19:08:47.0516247+00:00"
 }

@@ -74,8 +74,8 @@ Rating: 4.04 (Ranked 1,008)
 | Titan Power | 1.00% | ~36 |
 | Transmute | 1.00% | ~36 |
 | Tree of Life | 1.00% | ~36 |
+| Training makes a Pro player | 0.90% | ~32 |
 | Silverwood liberator | 0.80% | ~28 |
-| Training makes a Pro player | 0.80% | ~28 |
 | Beast War Machines | 0.70% | ~25 |
 | Ultimate War Machines | 0.60% | ~21 |
 | Jewel Enchanting | 0.20% | ~7 |

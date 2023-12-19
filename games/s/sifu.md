@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 3.00% | ~22,085 |
-| The Assault | 2.00% | ~14,723 |
-| Life is your teacher | 2.00% | ~14,723 |
-| Lightning Hands | 2.00% | ~14,723 |
+| The Old Grandmaster | 3.00% | ~22,086 |
+| The Assault | 2.00% | ~14,724 |
+| Life is your teacher | 2.00% | ~14,724 |
+| Lightning Hands | 2.00% | ~14,724 |
 | The Hateful Pole Fighter | 1.00% | ~7,362 |
 | A Lady's Blood in the Snow | 1.00% | ~7,362 |
 | Kill Nil | 1.00% | ~7,362 |
@@ -22,28 +22,28 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 1.00% | ~7,362 |
 | Rumble in the Hangar | 1.00% | ~7,362 |
 | Diligence as a goal | 1.00% | ~455 |
-| Lady Wing Chun | 0.90% | ~6,625 |
-| I know Kung-Fu | 0.90% | ~6,625 |
-| Project Arena | 0.90% | ~409 |
-| Furious Fists | 0.80% | ~5,889 |
-| Qi Gong: Mind | 0.80% | ~5,889 |
-| Take damage to save time | 0.80% | ~5,889 |
+| Lady Wing Chun | 0.90% | ~6,626 |
+| I know Kung-Fu | 0.90% | ~6,626 |
+| Project Arena | 0.90% | ~410 |
+| Furious Fists | 0.80% | ~5,890 |
+| Qi Gong: Mind | 0.80% | ~5,890 |
+| Take damage to save time | 0.80% | ~5,890 |
 | Scareless | 0.70% | ~5,153 |
 | Kung-Fu Tussle | 0.70% | ~5,153 |
-| Fight the way you practice | 0.70% | ~318 |
+| Fight the way you practice | 0.70% | ~319 |
 | Dance of the Praying Mantis | 0.60% | ~4,417 |
-| Bloody Sport | 0.50% | ~227 |
-| Martial Hub | 0.50% | ~227 |
+| Bloody Sport | 0.50% | ~228 |
+| Martial Hub | 0.50% | ~228 |
 | Muk Yan Master | 0.40% | ~2,945 |
 | Tiger on Fire | 0.40% | ~2,945 |
 | Detective Story | 0.40% | ~2,945 |
-| Source of Flying Daggers | 0.30% | ~2,208 |
-| Iron Money | 0.30% | ~2,208 |
-| Legendary Talismans of Wuxing | 0.30% | ~2,208 |
-| Prodigal Child | 0.30% | ~2,208 |
-| The 36th Chamber of Kung-Fu | 0.30% | ~2,208 |
-| Sword Stained With Blood | 0.30% | ~2,208 |
-| The best strikes are the ones we avoid | 0.30% | ~136 |
+| Source of Flying Daggers | 0.30% | ~2,209 |
+| Iron Money | 0.30% | ~2,209 |
+| Legendary Talismans of Wuxing | 0.30% | ~2,209 |
+| Prodigal Child | 0.30% | ~2,209 |
+| The 36th Chamber of Kung-Fu | 0.30% | ~2,209 |
+| Sword Stained With Blood | 0.30% | ~2,209 |
+| The best strikes are the ones we avoid | 0.30% | ~137 |
 | Drunken Fighter | 0.20% | ~1,472 |
 | Martial Artist | 0.20% | ~1,472 |
 | Knowledge Greed | 0.20% | ~1,472 |
@@ -58,16 +58,16 @@ Number of Ratings: 9,492  (23.09.2022)
 | Master of the Phoenix Eye Fist | 0.10% | ~736 |
 | Ferocity, speed, strength, accuracy | 0.10% | ~736 |
 | Warriors from the Mountain | 0.10% | ~736 |
-| Secure, Protect, Leave | 0.10% | ~45 |
-| Crouching Tiger | 0.10% | ~45 |
-| Hidden Dragon | 0.10% | ~45 |
-| Master of the Flying Assassins | 0.10% | ~45 |
-| Here Cometh the Iceman | 0.10% | ~45 |
-| Fighter in the Pond | 0.10% | ~45 |
-| Bonus Stage | 0.10% | ~45 |
-| A Bit Of Everything, Simultaneously | 0.10% | ~45 |
+| Secure, Protect, Leave | 0.10% | ~46 |
+| Crouching Tiger | 0.10% | ~46 |
+| Hidden Dragon | 0.10% | ~46 |
+| Master of the Flying Assassins | 0.10% | ~46 |
+| Here Cometh the Iceman | 0.10% | ~46 |
+| Fighter in the Pond | 0.10% | ~46 |
+| Bonus Stage | 0.10% | ~46 |
+| A Bit Of Everything, Simultaneously | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 736,164 (Ranked 24)  
+Progressed: 736,201 (Ranked 24)  
 Completed: 12,958 (1.76%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,16 +310,16 @@ Completed: 12,958 (1.76%) (Ranked 139)
 | 2023-12-16 | 730,184 | 12,954 |
 | 2023-12-17 | 733,014 | 12,955 |
 | 2023-12-18 | 734,825 | 12,956 |
-| 2023-12-19 | 736,164 | 12,958 |
+| 2023-12-19 | 736,201 | 12,958 |
 ## Awards
 Max (Great Boss Battles): 6,965  (Ranked 55)  
-Sum: 12,209 (Ranked 84)  
+Sum: 12,211 (Ranked 84)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,965 |
 | This game has Diverse Characters | 679 |
-| This game has Challenging Combat | 621 |
+| This game has Challenging Combat | 623 |
 | This game has Amazing Storytelling | 605 |
 | This game has Amazing Characters | 594 |
 | This game is Highly Recommended | 587 |
@@ -667,4 +667,4 @@ Diff (max vs sum): -29
 | 2023-12-16 | 4.82 | - | 6,935 | 12,172 |
 | 2023-12-17 | 4.82 | - | 6,944 | 12,182 |
 | 2023-12-18 | 4.82 | - | 6,957 | 12,197 |
-| 2023-12-19 | 4.82 | - | 6,965 | 12,209 |
+| 2023-12-19 | 4.82 | - | 6,965 | 12,211 |

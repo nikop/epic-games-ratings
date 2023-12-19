@@ -553,8 +553,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~208 |
 | The Brains of an Illithid's Desire | 0.10% | ~208 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,045 (Ranked 65)  
-Completed: 2,542 (1.05%) (Ranked 170)  
+Progressed: 242,063 (Ranked 65)  
+Completed: 2,543 (1.05%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -796,7 +796,7 @@ Completed: 2,542 (1.05%) (Ranked 170)
 | 2023-12-16 | 241,195 | 2,536 |
 | 2023-12-17 | 241,554 | 2,539 |
 | 2023-12-18 | 241,838 | 2,541 |
-| 2023-12-19 | 242,045 | 2,542 |
+| 2023-12-19 | 242,063 | 2,543 |
 ## Awards
 Max (Great for Beginners): 5,661  (Ranked 70)  
 Sum: 32,964 (Ranked 41)  

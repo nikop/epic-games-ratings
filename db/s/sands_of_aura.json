@@ -4,8 +4,8 @@
   "ProductSlug": "sands-of-aura",
   "Ranking_EOS_Progress": 451,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
     "PcReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 113,
+  "EOS_Progressed": 114,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -570,6 +570,11 @@
       "Time": "2023-12-18T01:52:31.443653+00:00",
       "NumProgressed": 113,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T19:04:15.2839601+00:00",
+      "NumProgressed": 114,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-14T11:03:32.7947841+00:00",
@@ -780,9 +785,9 @@
       "ID": "DEFEAT_FERRUM_BOSSES",
       "SetID": "cm0d613",
       "Name": "Dousing a Venerable Flame",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 13
     },
     {
       "ID": "DEFEAT_ISHULAR_GIANT",
@@ -966,7 +971,7 @@
       "Name": "Advanced Armaments",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "SMITH_UPGRADE_2",
@@ -990,7 +995,7 @@
       "Name": "Spirit Within",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "UBAANI_MASTER",
@@ -1045,7 +1050,7 @@
     {
       "ID": "cm0d613",
       "IsBase": true,
-      "Progressed": 113,
+      "Progressed": 114,
       "Completed": 0
     }
   ],
@@ -1053,8 +1058,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-12-19T18:04:44.19276+00:00",
+  "LastChanged_Achievements": "2023-12-19T19:04:15.2839592+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:44.6330154+00:00",
-  "LastUpdate_Ratings": "2023-12-19T18:02:48.210037+00:00",
-  "LastUpdate_Achievements": "2023-12-19T18:04:44.1928061+00:00"
+  "LastUpdate_Ratings": "2023-12-19T19:02:31.2100703+00:00",
+  "LastUpdate_Achievements": "2023-12-19T19:04:15.2840015+00:00"
 }

@@ -5,19 +5,19 @@ Rating: 4.56 (Ranked 498)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 92.00% | ~90 |
+| Beginner | 91.00% | ~90 |
 | Map reader | 73.00% | ~72 |
 | Philanthropist | 68.00% | ~67 |
 | Adventurer | 66.00% | ~65 |
 | Archer | 51.00% | ~50 |
-| The brave little tailor | 50.00% | ~49 |
-| Field hand | 43.00% | ~42 |
-| Samaritan | 41.00% | ~40 |
-| Well-to-do | 39.00% | ~38 |
-| The merciful one | 37.00% | ~36 |
-| Ladies' man | 37.00% | ~36 |
-| Ferocious wild boars | 30.00% | ~29 |
-| Idiot | 27.00% | ~26 |
+| The brave little tailor | 49.00% | ~49 |
+| Field hand | 42.00% | ~42 |
+| Samaritan | 40.00% | ~40 |
+| Well-to-do | 38.00% | ~38 |
+| The merciful one | 36.00% | ~36 |
+| Ladies' man | 36.00% | ~36 |
+| Ferocious wild boars | 29.00% | ~29 |
+| Idiot | 26.00% | ~26 |
 | Beast slayer | 24.00% | ~24 |
 | Family man | 22.00% | ~22 |
 | Death of a legend | 22.00% | ~22 |
@@ -29,10 +29,10 @@ Rating: 4.56 (Ranked 498)
 | Little hero | 19.00% | ~19 |
 | Hard worker | 19.00% | ~19 |
 | Fence | 19.00% | ~19 |
+| Ghost hunter | 18.00% | ~18 |
 | Pandora's box | 17.00% | ~17 |
-| Ghost hunter | 17.00% | ~17 |
+| Peacekeeper | 17.00% | ~17 |
 | Master detective | 17.00% | ~17 |
-| Peacekeeper | 16.00% | ~16 |
 | Defender | 14.00% | ~14 |
 | Workaholic | 14.00% | ~14 |
 | Showdown | 13.00% | ~13 |
@@ -56,7 +56,7 @@ Rating: 4.56 (Ranked 498)
 | Master of the classes | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 98 (Ranked 465)  
+Progressed: 99 (Ranked 463)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-16 | 87 | 0 |
 | 2023-12-17 | 91 | 0 |
 | 2023-12-18 | 96 | 0 |
-| 2023-12-19 | 98 | 0 |
+| 2023-12-19 | 99 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

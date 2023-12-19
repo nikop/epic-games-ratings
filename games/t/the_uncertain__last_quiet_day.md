@@ -23,12 +23,12 @@ Rating: 3.75 (Ranked 1,058)
 | He is just a child | 19.00% | ~114 |
 | Uncertain | 18.00% | ~108 |
 | Goody | 17.00% | ~102 |
+| Please oh pleeease! | 17.00% | ~102 |
 | Ace | 16.00% | ~96 |
 | Concrete painting | 16.00% | ~96 |
 | Found it! | 16.00% | ~96 |
 | Hipster | 16.00% | ~96 |
 | Not what it seems | 16.00% | ~96 |
-| Please oh pleeease! | 16.00% | ~96 |
 | That's much better! | 15.00% | ~90 |
 | Not as clumsy or random | 13.00% | ~78 |
 | Blade Runner | 10.00% | ~60 |

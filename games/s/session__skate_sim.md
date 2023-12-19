@@ -19,10 +19,10 @@ Number of Ratings: 111  (23.09.2022)
 | Good vibes | 9.00% | ~295 |
 | Keep the dream alive | 9.00% | ~295 |
 | Tight lipslides | 8.00% | ~262 |
-| Bottom ply killer | 7.00% | ~229 |
-| Fashionista | 7.00% | ~229 |
-| Finally he zips it | 7.00% | ~229 |
-| That pinch! | 7.00% | ~229 |
+| Bottom ply killer | 7.00% | ~230 |
+| Fashionista | 7.00% | ~230 |
+| Finally he zips it | 7.00% | ~230 |
+| That pinch! | 7.00% | ~230 |
 | Commence the Hijinx! | 6.00% | ~197 |
 | DIY Boss | 6.00% | ~197 |
 | Fulfilled the dream | 6.00% | ~197 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,278 (Ranked 216)  
+Progressed: 3,279 (Ranked 216)  
 Completed: 2 (0.06%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 2 (0.06%) (Ranked 324)
 | 2023-12-16 | 3,212 | 2 |
 | 2023-12-17 | 3,239 | 2 |
 | 2023-12-18 | 3,263 | 2 |
-| 2023-12-19 | 3,278 | 2 |
+| 2023-12-19 | 3,279 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 59  (Ranked 421)  
 Sum: 568 (Ranked 321)  

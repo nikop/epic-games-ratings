@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -555,9 +555,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5873,
+  "EOS_Progressed": 5874,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 286,
+  "EOS_NewPlayers": 287,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8500,6 +8500,11 @@
       "Time": "2023-12-19T18:04:53.3210595+00:00",
       "NumProgressed": 5873,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-19T19:04:23.6753819+00:00",
+      "NumProgressed": 5874,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -8629,9 +8634,9 @@
       "ID": "23",
       "SetID": "3aa2279",
       "Name": "A Wonderful Discovery",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 294
+      "UsersEstimate": 352
     },
     {
       "ID": "24",
@@ -8990,13 +8995,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5873,
+      "Progressed": 5874,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5873,
+      "Progressed": 5874,
       "Completed": 7
     }
   ],
@@ -9004,8 +9009,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-14T06:01:52.3312422+00:00",
-  "LastChanged_Achievements": "2023-12-19T18:04:53.3210593+00:00",
+  "LastChanged_Achievements": "2023-12-19T19:04:23.6753816+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.6868317+00:00",
-  "LastUpdate_Ratings": "2023-12-19T17:59:44.2200922+00:00",
-  "LastUpdate_Achievements": "2023-12-19T18:04:53.3211228+00:00"
+  "LastUpdate_Ratings": "2023-12-19T18:59:20.3937239+00:00",
+  "LastUpdate_Achievements": "2023-12-19T19:04:23.6754632+00:00"
 }

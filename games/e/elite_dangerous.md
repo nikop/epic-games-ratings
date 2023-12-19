@@ -5,7 +5,7 @@ Rating: 4.63 (Ranked 353)
 Number of Ratings: 6,856  (23.09.2022)  
 ## Awards
 Max (Highly Recommended): 2,298  (Ranked 107)  
-Sum: 13,131 (Ranked 79)  
+Sum: 13,134 (Ranked 79)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -14,7 +14,7 @@ Diff (max vs sum): 28
 | This game is Relaxing | 2,236 |
 | This game is Extremely Fun | 2,195 |
 | This game is Educational | 2,165 |
-| This game has Amazing Storytelling | 1,980 |
+| This game has Amazing Storytelling | 1,983 |
 | This game has Obsessive Gameplay | 1,244 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -334,3 +334,4 @@ Diff (max vs sum): 28
 | 2023-12-16 | 4.63 | - | 2,296 | 13,118 |
 | 2023-12-17 | 4.63 | - | 2,296 | 13,120 |
 | 2023-12-18 | 4.63 | - | 2,298 | 13,131 |
+| 2023-12-19 | 4.63 | - | 2,298 | 13,134 |

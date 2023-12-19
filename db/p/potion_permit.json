@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -379,9 +379,9 @@
       "Count": 69
     }
   ],
-  "EOS_Progressed": 1734,
+  "EOS_Progressed": 1735,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -2754,6 +2754,11 @@
       "Time": "2023-12-19T18:06:13.5613051+00:00",
       "NumProgressed": 1734,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-19T19:05:34.410402+00:00",
+      "NumProgressed": 1735,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 38,
@@ -2765,7 +2770,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1699
+      "UsersEstimate": 1700
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -2773,7 +2778,7 @@
       "Name": "Great Doctor",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -2805,7 +2810,7 @@
       "Name": "Acrobatic Adventurer",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ACHIEVEMENTS_07",
@@ -2821,7 +2826,7 @@
       "Name": "The First Step",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1526
+      "UsersEstimate": 1527
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -2853,7 +2858,7 @@
       "Name": "Amateur Chef",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "ACHIEVEMENTS_13",
@@ -2885,7 +2890,7 @@
       "Name": "Sociable",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ACHIEVEMENTS_17",
@@ -3005,7 +3010,7 @@
       "Name": "Ablutomaniac",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ACHIEVEMENTS_32",
@@ -3068,7 +3073,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1734,
+      "Progressed": 1735,
       "Completed": 10
     }
   ],
@@ -3076,8 +3081,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-12-02T14:58:43.9151067+00:00",
-  "LastChanged_Achievements": "2023-12-19T18:06:13.5613048+00:00",
+  "LastChanged_Achievements": "2023-12-19T19:05:34.4104016+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:47.0899932+00:00",
-  "LastUpdate_Ratings": "2023-12-19T18:00:15.8359318+00:00",
-  "LastUpdate_Achievements": "2023-12-19T18:06:13.5613454+00:00"
+  "LastUpdate_Ratings": "2023-12-19T18:59:49.9334143+00:00",
+  "LastUpdate_Achievements": "2023-12-19T19:05:34.4104477+00:00"
 }
