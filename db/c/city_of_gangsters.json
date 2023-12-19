@@ -2,13 +2,13 @@
   "ID": "e33138cc2b964d38a42a812b83b6507e",
   "Name": "City of Gangsters",
   "ProductSlug": "city-of-gangsters-6c2974",
-  "Ranking_Rating": 856,
+  "Ranking_Rating": 868,
   "Ranking_Popularity": 429,
   "Ranking_PopularitySum": 387,
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.29,
+  "Rating": 4.28,
   "RatingHistory": [
     {
       "Time": "2023-02-04T02:04:08.6033841+00:00",
@@ -866,10 +866,16 @@
       "Rating": 4.29,
       "NumberOfAwards": 256,
       "NumberOfAwardsMax": 55
+    },
+    {
+      "Time": "2023-12-19T23:00:03.0925152+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 257,
+      "NumberOfAwardsMax": 55
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 256,
+  "NumberOfAwards": 257,
   "NumberOfAwardsMax": 55,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -877,7 +883,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game is Relaxing",
@@ -928,9 +934,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 357402,
+  "EOS_Progressed": 357404,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1033,
+  "EOS_NewPlayers": 1028,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28658,6 +28664,11 @@
       "Time": "2023-12-19T22:05:01.2438789+00:00",
       "NumProgressed": 357402,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-19T23:04:53.4300541+00:00",
+      "NumProgressed": 357404,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -28773,7 +28784,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 53610
+      "UsersEstimate": 53611
     },
     {
       "ID": "ach015",
@@ -28797,7 +28808,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 46462
+      "UsersEstimate": 46463
     },
     {
       "ID": "ach018",
@@ -28877,7 +28888,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 164405
+      "UsersEstimate": 164406
     },
     {
       "ID": "ach028",
@@ -29021,7 +29032,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 46462
+      "UsersEstimate": 46463
     },
     {
       "ID": "ach046",
@@ -29181,7 +29192,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 50036
+      "UsersEstimate": 50037
     },
     {
       "ID": "ach067",
@@ -29197,7 +29208,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 57184
+      "UsersEstimate": 57185
     },
     {
       "ID": "ach069",
@@ -29205,7 +29216,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 50036
+      "UsersEstimate": 50037
     },
     {
       "ID": "ach070",
@@ -29308,16 +29319,16 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 357402,
+      "Progressed": 357404,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-08-11T21:00:23.9390359+00:00",
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
-  "LastChanged": "2023-12-19T05:01:07.5121533+00:00",
-  "LastChanged_Achievements": "2023-12-19T22:05:01.2438782+00:00",
+  "LastChanged": "2023-12-19T23:00:03.092515+00:00",
+  "LastChanged_Achievements": "2023-12-19T23:04:53.4300536+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:53.9882256+00:00",
-  "LastUpdate_Ratings": "2023-12-19T22:00:12.2769589+00:00",
-  "LastUpdate_Achievements": "2023-12-19T22:05:01.2441309+00:00"
+  "LastUpdate_Ratings": "2023-12-19T23:00:03.0925155+00:00",
+  "LastUpdate_Achievements": "2023-12-19T23:04:53.4302475+00:00"
 }

@@ -6,11 +6,11 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~238,997 |
-| He's Signed! | 50.00% | ~238,997 |
-| First Victory | 50.00% | ~238,997 |
-| He's Sold! | 48.00% | ~229,437 |
-| I'm The Boss! | 42.00% | ~200,757 |
+| Clean Sheet | 50.00% | ~238,998 |
+| He's Signed! | 50.00% | ~238,998 |
+| First Victory | 50.00% | ~238,998 |
+| He's Sold! | 48.00% | ~229,438 |
+| I'm The Boss! | 42.00% | ~200,758 |
 | Hat-trick | 41.00% | ~195,978 |
 | Scoring Streak | 38.00% | ~181,638 |
 | Unbeatable! | 37.00% | ~176,858 |
@@ -21,16 +21,16 @@ Number of Ratings: 19,160  (23.09.2022)
 | He's a Natural | 31.00% | ~148,178 |
 | Millionaire's Club | 31.00% | ~148,178 |
 | Team Performance | 30.00% | ~143,398 |
-| Parked The Bus | 29.00% | ~138,618 |
-| Shrewd Spender | 29.00% | ~138,618 |
-| Star Man | 29.00% | ~138,618 |
-| Attack! | 28.00% | ~133,838 |
-| You're On Fire | 27.00% | ~129,058 |
-| Tremendous Trio | 27.00% | ~129,058 |
-| Record Sale | 27.00% | ~129,058 |
-| On A Roll | 26.00% | ~124,278 |
-| Unstoppable Force | 26.00% | ~124,278 |
-| Armchair Expert | 25.00% | ~119,498 |
+| Parked The Bus | 29.00% | ~138,619 |
+| Shrewd Spender | 29.00% | ~138,619 |
+| Star Man | 29.00% | ~138,619 |
+| Attack! | 28.00% | ~133,839 |
+| You're On Fire | 27.00% | ~129,059 |
+| Tremendous Trio | 27.00% | ~129,059 |
+| Record Sale | 27.00% | ~129,059 |
+| On A Roll | 26.00% | ~124,279 |
+| Unstoppable Force | 26.00% | ~124,279 |
+| Armchair Expert | 25.00% | ~119,499 |
 | Fantastic Five | 24.00% | ~114,719 |
 | Full Faith | 24.00% | ~114,719 |
 | Iron Curtain | 24.00% | ~114,719 |
@@ -55,13 +55,13 @@ Number of Ratings: 19,160  (23.09.2022)
 | You're Up! | 13.00% | ~62,139 |
 | Money, Money, Money | 12.00% | ~57,359 |
 | Invincible! | 11.00% | ~52,579 |
-| Superb Strike | 10.00% | ~47,799 |
-| International Superstar | 10.00% | ~47,799 |
-| Best In The World | 10.00% | ~47,799 |
-| Best In Europe | 9.00% | ~43,019 |
-| National Service | 9.00% | ~43,019 |
-| Headhunted | 9.00% | ~43,019 |
-| Domination | 9.00% | ~43,019 |
+| Superb Strike | 10.00% | ~47,800 |
+| International Superstar | 10.00% | ~47,800 |
+| Best In The World | 10.00% | ~47,800 |
+| Best In Europe | 9.00% | ~43,020 |
+| National Service | 9.00% | ~43,020 |
+| Headhunted | 9.00% | ~43,020 |
+| Domination | 9.00% | ~43,020 |
 | Best In The Business | 8.00% | ~38,240 |
 | Legend | 6.00% | ~28,680 |
 | Win the Club World Cup | 6.00% | ~28,680 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~478 |
 | Shoestring Budget | 0.10% | ~478 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 477,994 (Ranked 41)  
+Progressed: 477,995 (Ranked 41)  
 Completed: 22 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -348,21 +348,21 @@ Completed: 22 (0.00%) (Ranked 384)
 | 2023-12-16 | 477,803 | 22 |
 | 2023-12-17 | 477,869 | 22 |
 | 2023-12-18 | 477,925 | 22 |
-| 2023-12-19 | 477,994 | 22 |
+| 2023-12-19 | 477,995 | 22 |
 ## Awards
 Max (Relaxing): 6,486  (Ranked 60)  
-Sum: 51,144 (Ranked 30)  
+Sum: 51,146 (Ranked 30)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 6,486 |
 | This game is Extremely Fun | 6,082 |
 | This game has Competitive Players | 5,924 |
-| This game is Highly Recommended | 5,911 |
+| This game is Highly Recommended | 5,912 |
 | This game has Quickly Understood Controls | 5,906 |
 | This game is Educational | 5,894 |
 | This game has Diverse Characters | 5,605 |
-| This game has Amazing Storytelling | 4,940 |
+| This game has Amazing Storytelling | 4,941 |
 | This game has Obsessive Gameplay | 4,416 |
 | This game has Amazing Characters | 4,396 |
 | This game has a Creative Community | 1,495 |
@@ -690,4 +690,4 @@ Diff (max vs sum): 30
 | 2023-12-16 | 4.80 | - | 6,483 | 51,133 |
 | 2023-12-17 | 4.80 | - | 6,483 | 51,134 |
 | 2023-12-18 | 4.80 | - | 6,486 | 51,139 |
-| 2023-12-19 | 4.80 | - | 6,486 | 51,144 |
+| 2023-12-19 | 4.80 | - | 6,486 | 51,146 |

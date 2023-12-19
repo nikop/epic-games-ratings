@@ -2,13 +2,13 @@
   "ID": "bd1047eb76fd4fd490fcb8f668e5deda",
   "Name": "ToeJam \u0026 Earl: Back in the Groove!",
   "ProductSlug": "toejam-and-earl-back-in-the-groove-cddc16",
-  "Ranking_Rating": 828,
+  "Ranking_Rating": 827,
   "Ranking_Popularity": 567,
   "Ranking_PopularitySum": 567,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58325,
+  "EOS_Progressed": 58326,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14371,6 +14371,11 @@
       "Time": "2023-12-19T21:04:38.3158191+00:00",
       "NumProgressed": 58325,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-19T23:03:14.1901968+00:00",
+      "NumProgressed": 58326,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -14390,7 +14395,7 @@
       "Name": "Backer Visitor",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "BoomBox",
@@ -14470,7 +14475,7 @@
       "Name": "Food Taster",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 5832
+      "UsersEstimate": 5833
     },
     {
       "ID": "FoolMeTwice",
@@ -14638,7 +14643,7 @@
       "Name": "Hate That Randomizer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "RhythmStar",
@@ -14678,7 +14683,7 @@
       "Name": "Feet on Funkotron",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "StruckLove",
@@ -14773,7 +14778,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58325,
+      "Progressed": 58326,
       "Completed": 6
     }
   ],
@@ -14781,8 +14786,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-12-19T22:03:21.169955+00:00",
+  "LastChanged_Achievements": "2023-12-19T23:03:14.1901965+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:49.0606835+00:00",
-  "LastUpdate_Ratings": "2023-12-19T22:00:03.4574637+00:00",
-  "LastUpdate_Achievements": "2023-12-19T22:03:21.1700604+00:00"
+  "LastUpdate_Ratings": "2023-12-19T22:59:55.0511708+00:00",
+  "LastUpdate_Achievements": "2023-12-19T23:03:14.1902789+00:00"
 }

@@ -1,26 +1,26 @@
 # Hercule Poirot - The First Cases
 [Store](https://store.epicgames.com/en-US/p/hercule-poirot-the-first-cases-584238)  
 [View Rawdata](../../db/h/hercule_poirot_-_the_first_cases.json)  
-Rating: 4.35 (Ranked 799)  
+Rating: 4.35 (Ranked 800)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It Wasn’t a Burglary | 89.00% | ~411 |
 | Luc Piette | 76.00% | ~351 |
 | Angeline Van den Bosch | 73.00% | ~337 |
-| Elizabeth Padget | 70.00% | ~323 |
+| Elizabeth Padget | 71.00% | ~328 |
 | Little Grey Cells | 69.00% | ~319 |
 | The Bracelet | 66.00% | ~305 |
 | The Blackmail | 55.00% | ~254 |
 | Major Felix Hagen | 55.00% | ~254 |
 | Florette Duval | 54.00% | ~249 |
+| Order and Method | 53.00% | ~245 |
 | Fine-toothed Comb | 53.00% | ~245 |
-| Order and Method | 52.00% | ~240 |
 | The Altercation | 50.00% | ~231 |
-| Truth from Within | 48.00% | ~222 |
+| Truth from Within | 49.00% | ~226 |
 | The Major | 47.00% | ~217 |
+| Curious and Beautiful | 45.00% | ~208 |
 | Comtesse Margaux de Vos | 45.00% | ~208 |
-| Curious and Beautiful | 44.00% | ~203 |
 | Jacqueline “Jackie” Conrad | 44.00% | ~203 |
 | The Interrogations | 44.00% | ~203 |
 | Well-acquainted | 42.00% | ~194 |
@@ -38,9 +38,9 @@ Rating: 4.35 (Ranked 799)
 | The Family | 28.00% | ~129 |
 | Well-travelled | 27.00% | ~125 |
 | Thinking of Everything | 27.00% | ~125 |
+| Exquisite Artwork | 26.00% | ~120 |
 | Archibald Sterling | 26.00% | ~120 |
 | Viscount Edwin Van den Bosch | 26.00% | ~120 |
-| Exquisite Artwork | 25.00% | ~116 |
 | Well-prepared | 21.00% | ~97 |
 | The Truth | 21.00% | ~97 |
 | I Like an Audience | 19.00% | ~88 |
@@ -53,7 +53,7 @@ Rating: 4.35 (Ranked 799)
 | Work-life Balance | 3.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 462 (Ranked 332)  
-Completed: 6 (1.30%) (Ranked 153)  
+Completed: 6 (1.30%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

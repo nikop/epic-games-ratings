@@ -1,36 +1,36 @@
 # Art of Rally
 [Store](https://store.epicgames.com/en-US/p/art-of-rally)  
 [View Rawdata](../../db/a/art_of_rally_1.json)  
-Rating: 4.86 (Ranked 35)  
+Rating: 4.86 (Ranked 34)  
 Number of Ratings: 56  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,950 |
+| light attack | 96.00% | ~9,951 |
 | keep it tidy | 78.00% | ~8,085 |
-| podium | 72.00% | ~7,463 |
-| medium attack | 60.00% | ~6,219 |
-| brail | 57.00% | ~5,908 |
+| podium | 72.00% | ~7,464 |
+| medium attack | 60.00% | ~6,220 |
+| brail | 57.00% | ~5,909 |
 | good drivers have dead flies on the side windows | 44.00% | ~4,561 |
 | grocery-getter | 40.00% | ~4,146 |
 | rwd only | 27.00% | ~2,799 |
 | food tour: pasta | 27.00% | ~2,799 |
-| to finish first, first you must finish | 22.00% | ~2,280 |
-| autopilot | 22.00% | ~2,280 |
-| you can't treat a car like a human being. a car requires love | 22.00% | ~2,280 |
+| to finish first, first you must finish | 22.00% | ~2,281 |
+| autopilot | 22.00% | ~2,281 |
+| you can't treat a car like a human being. a car requires love | 22.00% | ~2,281 |
 | turbo | 20.00% | ~2,073 |
 | food tour: pretzel | 20.00% | ~2,073 |
-| car wash | 16.00% | ~1,658 |
+| car wash | 16.00% | ~1,659 |
 | bicycle race | 15.00% | ~1,555 |
 | the artist | 15.00% | ~1,555 |
 | perkele | 14.00% | ~1,451 |
 | monster | 14.00% | ~1,451 |
 | night ride | 14.00% | ~1,451 |
 | snorkel | 14.00% | ~1,451 |
-| where is the stage? | 13.00% | ~1,347 |
+| where is the stage? | 13.00% | ~1,348 |
 | maximum attack | 11.00% | ~1,140 |
-| espresso | 10.00% | ~1,036 |
-| parallel universe | 10.00% | ~1,036 |
+| espresso | 10.00% | ~1,037 |
+| parallel universe | 10.00% | ~1,037 |
 | mittens | 8.00% | ~829 |
 | samir | 8.00% | ~829 |
 | eurobeat | 7.00% | ~726 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~41 |
 | barely keeping it together | 0.40% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,365 (Ranked 170)  
+Progressed: 10,366 (Ranked 170)  
 Completed: 10 (0.10%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 10 (0.10%) (Ranked 301)
 | 2023-12-16 | 10,355 | 10 |
 | 2023-12-17 | 10,359 | 10 |
 | 2023-12-18 | 10,363 | 10 |
-| 2023-12-19 | 10,365 | 10 |
+| 2023-12-19 | 10,366 | 10 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

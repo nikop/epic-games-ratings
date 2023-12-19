@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 420,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 421,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
     "PcReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -2951,9 +2951,9 @@
       "ID": "ID_04_SONIC3K_WATCH_OPENING",
       "SetID": "7o8nc5m",
       "Name": "Welcome to Sonic 3 \u0026 Knuckles",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 454
+      "UsersEstimate": 461
     },
     {
       "ID": "ID_05_SONIC1_DEFEAT_MOTORA",
@@ -3015,9 +3015,9 @@
       "ID": "ID_12_SONIC3K_GET_ALL_BARRIERS",
       "SetID": "7o8nc5m",
       "Name": "Easy Peasy with Shields",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 376
+      "UsersEstimate": 383
     },
     {
       "ID": "ID_13_RING_COLLECTOR",
@@ -3215,8 +3215,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-12-13T19:57:46.4026225+00:00",
-  "LastChanged_Achievements": "2023-12-19T22:09:53.1732458+00:00",
+  "LastChanged_Achievements": "2023-12-19T23:09:24.1859843+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:34.9486393+00:00",
-  "LastUpdate_Ratings": "2023-12-19T21:57:04.6368176+00:00",
-  "LastUpdate_Achievements": "2023-12-19T22:09:53.173279+00:00"
+  "LastUpdate_Ratings": "2023-12-19T22:56:59.7633448+00:00",
+  "LastUpdate_Achievements": "2023-12-19T23:09:24.186013+00:00"
 }

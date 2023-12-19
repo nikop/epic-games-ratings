@@ -9,15 +9,15 @@ Number of Ratings: 1,845  (23.09.2022)
 | Overgrown Library | 6.00% | ~1,121 |
 | Abandoned Settlement | 5.00% | ~934 |
 | Petrified Necropolis | 5.00% | ~934 |
+| Ominous Presence | 4.00% | ~747 |
 | Gathering Storm | 4.00% | ~747 |
-| First Real Expedition | 3.00% | ~560 |
-| Coral Forest | 3.00% | ~560 |
-| The Marshlands | 3.00% | ~560 |
-| Taking Action | 3.00% | ~560 |
-| No Deaths | 3.00% | ~560 |
-| Frosts | 3.00% | ~560 |
-| Land of Greed | 3.00% | ~560 |
-| Ominous Presence | 3.00% | ~560 |
+| First Real Expedition | 3.00% | ~561 |
+| Coral Forest | 3.00% | ~561 |
+| The Marshlands | 3.00% | ~561 |
+| Taking Action | 3.00% | ~561 |
+| No Deaths | 3.00% | ~561 |
+| Frosts | 3.00% | ~561 |
+| Land of Greed | 3.00% | ~561 |
 | Overcoming Difficulty | 2.00% | ~374 |
 | Fertile Meadows | 2.00% | ~374 |
 | Royal Outpost | 2.00% | ~374 |
@@ -37,8 +37,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | A Real Challenge | 1.00% | ~187 |
 | Trade Baron | 1.00% | ~187 |
 | Barren Lands | 0.90% | ~168 |
+| Sparkdew Crystals | 0.90% | ~168 |
 | Against All Odds | 0.80% | ~149 |
-| Sparkdew Crystals | 0.80% | ~149 |
 | Haunted Forest | 0.80% | ~149 |
 | Flooded Mines | 0.80% | ~149 |
 | Serving Ale | 0.60% | ~112 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,681 (Ranked 147)  
+Progressed: 18,687 (Ranked 147)  
 Completed: 39 (0.21%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 39 (0.21%) (Ranked 268)
 | 2023-12-16 | 18,388 | 39 |
 | 2023-12-17 | 18,534 | 40 |
 | 2023-12-18 | 18,615 | 39 |
-| 2023-12-19 | 18,681 | 39 |
+| 2023-12-19 | 18,687 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 228)  
 Sum: 3,273 (Ranked 174)  

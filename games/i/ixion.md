@@ -10,8 +10,8 @@ Rating: 4.58 (Ranked 456)
 | Without Breaking Some Eggs... | 25.00% | ~896 |
 | Infinite Growth... | 25.00% | ~896 |
 | Ready for a New World | 18.00% | ~645 |
-| Space Society | 17.00% | ~609 |
-| A Thousand Strong | 17.00% | ~609 |
+| Space Society | 17.00% | ~610 |
+| A Thousand Strong | 17.00% | ~610 |
 | Permanent Redesigns | 15.00% | ~538 |
 | Fully Recycled | 14.00% | ~502 |
 | Ain't Nobody Got Time for That | 14.00% | ~502 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 456)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,585 (Ranked 211)  
+Progressed: 3,586 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-16 | 3,519 | 0 |
 | 2023-12-17 | 3,550 | 0 |
 | 2023-12-18 | 3,569 | 0 |
-| 2023-12-19 | 3,585 | 0 |
+| 2023-12-19 | 3,586 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

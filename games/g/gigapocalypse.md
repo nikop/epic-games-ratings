@@ -24,18 +24,18 @@
 | Glorious Battle | 43.00% | ~84 |
 | Meat Larder | 41.00% | ~80 |
 | Mutant And Proud | 39.00% | ~76 |
+| The Emperor's New Clothes | 33.00% | ~64 |
 | You Shall Not Pass | 32.00% | ~62 |
-| The Emperor's New Clothes | 32.00% | ~62 |
 | Happy Little Home | 32.00% | ~62 |
 | Final Evolution | 32.00% | ~62 |
 | Animal Lover | 31.00% | ~60 |
 | Godlike Power | 31.00% | ~60 |
 | Undying Skin | 31.00% | ~60 |
-| Fight Me! | 30.00% | ~58 |
+| Fight Me! | 31.00% | ~60 |
 | Supremacy | 30.00% | ~58 |
 | Mommy's Very Angry | 29.00% | ~57 |
+| Loyal Companion | 27.00% | ~53 |
 | Back To The Future | 26.00% | ~51 |
-| Loyal Companion | 26.00% | ~51 |
 | Immortal Skin | 25.00% | ~49 |
 | Lunch Before The Lunch | 23.00% | ~45 |
 | Fire Beacon | 23.00% | ~45 |

@@ -1,19 +1,19 @@
 # Going Medieval
 [Store](https://store.epicgames.com/en-US/p/going-medieval)  
 [View Rawdata](../../db/g/going_medieval.json)  
-Rating: 4.60 (Ranked 422)  
+Rating: 4.60 (Ranked 423)  
 Number of Ratings: 706  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 76.00% | ~5,600 |
-| Having A Field Day | 76.00% | ~5,600 |
-| Reap What You Sow | 73.00% | ~5,379 |
-| The First Day | 70.00% | ~5,158 |
-| Novice Researcher | 68.00% | ~5,011 |
-| Green Thumb | 67.00% | ~4,937 |
+| Get A Room | 76.00% | ~5,601 |
+| Having A Field Day | 76.00% | ~5,601 |
+| Reap What You Sow | 73.00% | ~5,380 |
+| The First Day | 70.00% | ~5,159 |
+| Novice Researcher | 68.00% | ~5,012 |
+| Green Thumb | 67.00% | ~4,938 |
 | Home Cooked Meal | 62.00% | ~4,569 |
-| Onward | 58.00% | ~4,274 |
+| Onward | 58.00% | ~4,275 |
 | The First Week | 56.00% | ~4,127 |
 | Beam Me Up | 53.00% | ~3,906 |
 | Studious Researcher | 53.00% | ~3,906 |
@@ -23,9 +23,9 @@ Number of Ratings: 706  (23.09.2022)
 | ...And Don’t Come Back! | 43.00% | ~3,169 |
 | Feast or Famine | 37.00% | ~2,727 |
 | Heating Up | 32.00% | ~2,358 |
-| Luminary Researcher | 31.00% | ~2,284 |
+| Luminary Researcher | 31.00% | ~2,285 |
 | Winter Is Coming | 29.00% | ~2,137 |
-| Fit For A King | 28.00% | ~2,063 |
+| Fit For A King | 28.00% | ~2,064 |
 | Winter Is Here | 25.00% | ~1,842 |
 | Oh Deer! | 23.00% | ~1,695 |
 | Disassembled | 22.00% | ~1,621 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~147 |
 | Wabbit Season | 0.50% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,369 (Ranked 185)  
+Progressed: 7,370 (Ranked 185)  
 Completed: 14 (0.19%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,7 +260,7 @@ Completed: 14 (0.19%) (Ranked 272)
 | 2023-12-16 | 7,306 | 14 |
 | 2023-12-17 | 7,327 | 14 |
 | 2023-12-18 | 7,345 | 14 |
-| 2023-12-19 | 7,369 | 14 |
+| 2023-12-19 | 7,370 | 14 |
 ## Awards
 Max (Great for Beginners): 132  (Ranked 334)  
 Sum: 1,048 (Ranked 260)  

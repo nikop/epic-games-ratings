@@ -3515,9 +3515,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18681,
+  "EOS_Progressed": 18687,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 688,
+  "EOS_NewPlayers": 693,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16365,6 +16365,11 @@
       "Time": "2023-12-19T22:05:34.3665835+00:00",
       "NumProgressed": 18681,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-19T23:05:26.5924261+00:00",
+      "NumProgressed": 18687,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16465,7 +16470,7 @@
       "Name": "First Real Expedition",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "WinHard",
@@ -16519,9 +16524,9 @@
       "ID": "WinNearCrystals",
       "SetID": "cfbk359",
       "Name": "Sparkdew Crystals",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 168
     },
     {
       "ID": "WinNearDangerous",
@@ -16641,7 +16646,7 @@
       "Name": "Coral Forest",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "WinOnCursed",
@@ -16657,7 +16662,7 @@
       "Name": "The Marshlands",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "WinOnMoorlands",
@@ -16713,7 +16718,7 @@
       "Name": "Taking Action",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "WinWithResolve",
@@ -16753,7 +16758,7 @@
       "Name": "No Deaths",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "WinWithoutOrders",
@@ -16785,7 +16790,7 @@
       "Name": "Frosts",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "WinNearGreed",
@@ -16793,7 +16798,7 @@
       "Name": "Land of Greed",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "WinNearLibrary",
@@ -16815,9 +16820,9 @@
       "ID": "WinNearPresence",
       "SetID": "cfbk359",
       "Name": "Ominous Presence",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 560
+      "UsersEstimate": 747
     },
     {
       "ID": "WinNearStorms",
@@ -16848,15 +16853,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18681,
+      "Progressed": 18687,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-19T21:58:46.6682158+00:00",
-  "LastChanged_Achievements": "2023-12-19T22:05:34.3665831+00:00",
+  "LastChanged_Achievements": "2023-12-19T23:05:26.5924258+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
-  "LastUpdate_Ratings": "2023-12-19T21:58:46.6682164+00:00",
-  "LastUpdate_Achievements": "2023-12-19T22:05:34.3666726+00:00"
+  "LastUpdate_Ratings": "2023-12-19T22:58:40.8468093+00:00",
+  "LastUpdate_Achievements": "2023-12-19T23:05:26.5925272+00:00"
 }

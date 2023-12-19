@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -257,9 +257,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8130,
+  "EOS_Progressed": 8131,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -9487,6 +9487,11 @@
       "Time": "2023-12-19T22:04:47.2448089+00:00",
       "NumProgressed": 8130,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-19T23:04:39.1090195+00:00",
+      "NumProgressed": 8131,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -9578,7 +9583,7 @@
       "Name": "Happy Camper",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "HISTORIAN",
@@ -9602,7 +9607,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1707
+      "UsersEstimate": 1708
     },
     {
       "ID": "LIBERATOR",
@@ -9610,7 +9615,7 @@
       "Name": "Liberator",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "LIVE_WIRE",
@@ -9626,7 +9631,7 @@
       "Name": "Shredder",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "SNIP_SNIP",
@@ -9665,7 +9670,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 8130,
+      "Progressed": 8131,
       "Completed": 34
     }
   ],
@@ -9673,8 +9678,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-12-17T08:57:44.8415466+00:00",
-  "LastChanged_Achievements": "2023-12-19T22:04:47.2448084+00:00",
+  "LastChanged_Achievements": "2023-12-19T23:04:39.1090192+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:46.5620941+00:00",
-  "LastUpdate_Ratings": "2023-12-19T21:58:18.8430844+00:00",
-  "LastUpdate_Achievements": "2023-12-19T22:04:47.2448679+00:00"
+  "LastUpdate_Ratings": "2023-12-19T22:58:11.959711+00:00",
+  "LastUpdate_Achievements": "2023-12-19T23:04:39.1090625+00:00"
 }

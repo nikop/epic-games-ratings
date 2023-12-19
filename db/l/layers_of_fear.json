@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -757,9 +757,9 @@
       "ID": "another_perspective",
       "SetID": "f2im8d",
       "Name": "Another perspective",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "assemble_puzzles",
@@ -901,17 +901,17 @@
       "ID": "find_one_memento",
       "SetID": "f2im8d",
       "Name": "Scraps of love",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "find_one_photo",
       "SetID": "f2im8d",
       "Name": "A Slice of Life",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "find_one_poster",
@@ -925,9 +925,9 @@
       "ID": "find_one_rat_sketch",
       "SetID": "f2im8d",
       "Name": "The artist\u2019s impression",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 67
     },
     {
       "ID": "finished_it",
@@ -1149,9 +1149,9 @@
       "ID": "wanderer",
       "SetID": "f2im8d",
       "Name": "Wanderer",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1172,8 +1172,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-19T22:03:28.8835097+00:00",
+  "LastChanged_Achievements": "2023-12-19T23:03:21.8821725+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:26.5525701+00:00",
-  "LastUpdate_Ratings": "2023-12-19T21:57:52.2193364+00:00",
-  "LastUpdate_Achievements": "2023-12-19T22:03:28.8835809+00:00"
+  "LastUpdate_Ratings": "2023-12-19T22:57:45.8532081+00:00",
+  "LastUpdate_Achievements": "2023-12-19T23:03:21.8822363+00:00"
 }

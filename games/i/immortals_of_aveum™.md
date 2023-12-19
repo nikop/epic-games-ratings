@@ -5,22 +5,22 @@ Rating: 4.19 (Ranked 939)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~1,127 |
-| Battlefields Have Memories | 79.00% | ~1,023 |
-| Enlisted | 71.00% | ~919 |
-| Maybe Engage a Little | 66.00% | ~855 |
-| No More Names | 47.00% | ~609 |
-| Initiate | 33.00% | ~427 |
-| Thrada-Kul | 29.00% | ~376 |
-| Socialite | 22.00% | ~285 |
-| Gravity-Challenged Rocks | 22.00% | ~285 |
-| Soldier | 18.00% | ~233 |
-| All the Major Food Groups | 18.00% | ~233 |
-| Beggars Would Ride | 15.00% | ~194 |
-| Control is an Illusion | 14.00% | ~181 |
-| The Means to Save It | 11.00% | ~142 |
+| Unforeseen | 87.00% | ~1,132 |
+| Battlefields Have Memories | 79.00% | ~1,028 |
+| Enlisted | 71.00% | ~924 |
+| Maybe Engage a Little | 66.00% | ~859 |
+| No More Names | 47.00% | ~611 |
+| Initiate | 33.00% | ~429 |
+| Thrada-Kul | 29.00% | ~377 |
+| Socialite | 22.00% | ~286 |
+| Gravity-Challenged Rocks | 22.00% | ~286 |
+| Soldier | 18.00% | ~234 |
+| All the Major Food Groups | 18.00% | ~234 |
+| Beggars Would Ride | 15.00% | ~195 |
+| Control is an Illusion | 14.00% | ~182 |
+| The Means to Save It | 11.00% | ~143 |
 | Resilience to Sin | 10.00% | ~130 |
-| A Familiar Nest | 9.00% | ~117 |
+| A Familiar Nest | 10.00% | ~130 |
 | Geas Aristeya | 9.00% | ~117 |
 | Periapt Alizarin | 9.00% | ~117 |
 | A Perfect Cycle | 8.00% | ~104 |
@@ -43,8 +43,8 @@ Rating: 4.19 (Ranked 939)
 | Master of Malachite | 0.70% | ~9 |
 | Tip of the Spear | 0.70% | ~9 |
 | Shroudfane Surveyor | 0.60% | ~8 |
-| Grand Magnus | 0.50% | ~6 |
-| Backtracker | 0.50% | ~6 |
+| Grand Magnus | 0.50% | ~7 |
+| Backtracker | 0.50% | ~7 |
 | Petite Bourgeoisie | 0.40% | ~5 |
 | Witch-Taker | 0.40% | ~5 |
 | Treasure Hunter | 0.40% | ~5 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 939)
 | Family Business | 0.20% | ~3 |
 | Fowl Play | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,295 (Ranked 257)  
+Progressed: 1,301 (Ranked 257)  
 Completed: 2 (0.15%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 2 (0.15%) (Ranked 287)
 | 2023-12-16 | 908 | 2 |
 | 2023-12-17 | 1,065 | 2 |
 | 2023-12-18 | 1,195 | 2 |
-| 2023-12-19 | 1,295 | 2 |
+| 2023-12-19 | 1,301 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

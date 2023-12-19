@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1458,
+  "EOS_Progressed": 1459,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3472,6 +3472,11 @@
       "Time": "2023-12-19T21:08:27.2619559+00:00",
       "NumProgressed": 1458,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T23:06:03.7194493+00:00",
+      "NumProgressed": 1459,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -3538,9 +3543,9 @@
       "ID": "ML_ACHIEVEMENT_08",
       "SetID": "5k00jcd",
       "Name": "Versatile riding",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -3658,9 +3663,9 @@
       "ID": "ML_ACHIEVEMENT_23",
       "SetID": "5k00jcd",
       "Name": "The Scorpion",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -3820,7 +3825,7 @@
       "Name": "Mission complete",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ML_ACHIEVEMENT_44",
@@ -3851,20 +3856,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1458,
+      "Progressed": 1459,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1126,
+      "Progressed": 1127,
       "Completed": 997
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-19T22:06:10.776088+00:00",
+  "LastChanged_Achievements": "2023-12-19T23:06:03.719449+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:11.7320397+00:00",
-  "LastUpdate_Ratings": "2023-12-19T21:59:48.6786504+00:00",
-  "LastUpdate_Achievements": "2023-12-19T22:06:10.7761352+00:00"
+  "LastUpdate_Ratings": "2023-12-19T22:59:39.5588815+00:00",
+  "LastUpdate_Achievements": "2023-12-19T23:06:03.7194882+00:00"
 }

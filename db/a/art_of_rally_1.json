@@ -2,13 +2,13 @@
   "ID": "4751c4f6a96547209a33831d847d2810",
   "Name": "Art of Rally",
   "ProductSlug": "art-of-rally",
-  "Ranking_Rating": 35,
+  "Ranking_Rating": 34,
   "Ranking_Popularity": 567,
   "Ranking_PopularitySum": 567,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
     "PcReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10365,
+  "EOS_Progressed": 10366,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2092,6 +2092,11 @@
       "Time": "2023-12-19T21:08:47.7781225+00:00",
       "NumProgressed": 10365,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-19T23:06:17.4544088+00:00",
+      "NumProgressed": 10366,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 43,
@@ -2111,7 +2116,7 @@
       "Name": "to finish first, first you must finish",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2280
+      "UsersEstimate": 2281
     },
     {
       "ID": "ACH_ABSOLUTE_DRIFT",
@@ -2127,7 +2132,7 @@
       "Name": "autopilot",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 2280
+      "UsersEstimate": 2281
     },
     {
       "ID": "ACH_ALL_BONUSES",
@@ -2151,7 +2156,7 @@
       "Name": "car wash",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "ACH_COLLECTIBLES_FINLAND",
@@ -2191,7 +2196,7 @@
       "Name": "espresso",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     },
     {
       "ID": "ACH_COMPLETE_CAREER",
@@ -2247,7 +2252,7 @@
       "Name": "parallel universe",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     },
     {
       "ID": "ACH_COMPLETE_NEAR_TOTALLED",
@@ -2295,7 +2300,7 @@
       "Name": "where is the stage?",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "ACH_FUJIN_ODO",
@@ -2311,7 +2316,7 @@
       "Name": "brail",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 5908
+      "UsersEstimate": 5909
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -2327,7 +2332,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9950
+      "UsersEstimate": 9951
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -2343,7 +2348,7 @@
       "Name": "medium attack",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 6219
+      "UsersEstimate": 6220
     },
     {
       "ID": "ACH_NIGHT",
@@ -2375,7 +2380,7 @@
       "Name": "you can\u0027t treat a car like a human being. a car requires love",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2280
+      "UsersEstimate": 2281
     },
     {
       "ID": "ACH_SIMULATOR",
@@ -2439,22 +2444,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7463
+      "UsersEstimate": 7464
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10365,
+      "Progressed": 10366,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-12-19T22:08:16.16197+00:00",
+  "LastChanged_Achievements": "2023-12-19T23:06:17.4544084+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:05.192967+00:00",
-  "LastUpdate_Ratings": "2023-12-19T21:59:13.3173503+00:00",
-  "LastUpdate_Achievements": "2023-12-19T22:08:16.162007+00:00"
+  "LastUpdate_Ratings": "2023-12-19T22:59:07.0588127+00:00",
+  "LastUpdate_Achievements": "2023-12-19T23:06:17.4544448+00:00"
 }

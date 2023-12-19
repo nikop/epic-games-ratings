@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 49,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -431,9 +431,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 331556,
+  "EOS_Progressed": 331577,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3602,
+  "EOS_NewPlayers": 3611,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10236,6 +10236,11 @@
       "Time": "2023-12-19T22:04:59.9948658+00:00",
       "NumProgressed": 331556,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-19T23:04:52.1201147+00:00",
+      "NumProgressed": 331577,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -10256,7 +10261,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6631
+      "UsersEstimate": 6632
     },
     {
       "ID": "S03_OTWA",
@@ -10264,7 +10269,7 @@
       "Name": "Rumors are true",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 2652
+      "UsersEstimate": 2653
     },
     {
       "ID": "S04_BRDC",
@@ -10384,7 +10389,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13262
+      "UsersEstimate": 13263
     },
     {
       "ID": "S19_CHALLENGES",
@@ -10440,7 +10445,7 @@
       "Name": "Pride is a sin, young Knight",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 2652
+      "UsersEstimate": 2653
     },
     {
       "ID": "S26_CRTA",
@@ -10567,7 +10572,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 331556,
+      "Progressed": 331577,
       "Completed": 5
     }
   ],
@@ -10575,8 +10580,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-17T23:00:34.9131333+00:00",
-  "LastChanged_Achievements": "2023-12-19T22:04:59.9948656+00:00",
+  "LastChanged_Achievements": "2023-12-19T23:04:52.1201144+00:00",
   "LastUpdate_AppInfo": "2023-12-14T20:57:08.8756847+00:00",
-  "LastUpdate_Ratings": "2023-12-19T22:00:17.2663019+00:00",
-  "LastUpdate_Achievements": "2023-12-19T22:04:59.9949293+00:00"
+  "LastUpdate_Ratings": "2023-12-19T23:00:08.3623068+00:00",
+  "LastUpdate_Achievements": "2023-12-19T23:04:52.120169+00:00"
 }

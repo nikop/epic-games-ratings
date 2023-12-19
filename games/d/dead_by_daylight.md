@@ -1,46 +1,46 @@
 # Dead by Daylight
 [Store](https://store.epicgames.com/en-US/p/dead-by-daylight)  
 [View Rawdata](../../db/d/dead_by_daylight.json)  
-Rating: 4.51 (Ranked 580)  
+Rating: 4.51 (Ranked 581)  
 Number of Ratings: 70,340  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 4.00% | ~44,238 |
-| Zealous | 3.00% | ~33,178 |
-| Not half bad | 3.00% | ~33,178 |
-| Skillful | 3.00% | ~33,178 |
-| Make Some Noise | 3.00% | ~33,178 |
-| The Grand Sacrifice | 2.00% | ~22,119 |
-| No one left behind | 2.00% | ~22,119 |
-| Medic | 2.00% | ~22,119 |
-| Handyman | 2.00% | ~22,119 |
-| Perfect Escape | 2.00% | ~22,119 |
-| Bloody Millionaire | 2.00% | ~22,119 |
-| Apt Survivor | 2.00% | ~22,119 |
-| Survival Treasures | 2.00% | ~22,119 |
-| I | 2.00% | ~22,119 |
-| Sorted | 2.00% | ~22,119 |
-| Healthy Obsession | 2.00% | ~22,119 |
-| Resurgence | 2.00% | ~22,119 |
-| Preemptive Strike | 2.00% | ~22,119 |
-| Humanitarian | 2.00% | ~22,119 |
-| Agonizing Escape | 1.00% | ~11,059 |
-| Backdoor Escape | 1.00% | ~11,059 |
-| I've got your back | 1.00% | ~11,059 |
-| Perfect Killing | 1.00% | ~11,059 |
-| Apt Killer | 1.00% | ~11,059 |
-| Risk it all | 1.00% | ~11,059 |
-| Vulture | 1.00% | ~11,059 |
-| II | 1.00% | ~11,059 |
-| III | 1.00% | ~11,059 |
-| Engineer | 1.00% | ~11,059 |
-| Wounded Healer | 1.00% | ~11,059 |
-| First to the Punch | 1.00% | ~11,059 |
-| Close Shave | 1.00% | ~11,059 |
-| With Scars to Show | 1.00% | ~11,059 |
-| Lifting The Fog | 1.00% | ~11,059 |
-| Second Act | 1.00% | ~11,059 |
+| It wakes | 4.00% | ~44,242 |
+| Zealous | 3.00% | ~33,181 |
+| Not half bad | 3.00% | ~33,181 |
+| Skillful | 3.00% | ~33,181 |
+| Make Some Noise | 3.00% | ~33,181 |
+| The Grand Sacrifice | 2.00% | ~22,121 |
+| No one left behind | 2.00% | ~22,121 |
+| Medic | 2.00% | ~22,121 |
+| Handyman | 2.00% | ~22,121 |
+| Perfect Escape | 2.00% | ~22,121 |
+| Bloody Millionaire | 2.00% | ~22,121 |
+| Apt Survivor | 2.00% | ~22,121 |
+| Survival Treasures | 2.00% | ~22,121 |
+| I | 2.00% | ~22,121 |
+| Sorted | 2.00% | ~22,121 |
+| Healthy Obsession | 2.00% | ~22,121 |
+| Resurgence | 2.00% | ~22,121 |
+| Preemptive Strike | 2.00% | ~22,121 |
+| Humanitarian | 2.00% | ~22,121 |
+| Agonizing Escape | 1.00% | ~11,060 |
+| Backdoor Escape | 1.00% | ~11,060 |
+| I've got your back | 1.00% | ~11,060 |
+| Perfect Killing | 1.00% | ~11,060 |
+| Apt Killer | 1.00% | ~11,060 |
+| Risk it all | 1.00% | ~11,060 |
+| Vulture | 1.00% | ~11,060 |
+| II | 1.00% | ~11,060 |
+| III | 1.00% | ~11,060 |
+| Engineer | 1.00% | ~11,060 |
+| Wounded Healer | 1.00% | ~11,060 |
+| First to the Punch | 1.00% | ~11,060 |
+| Close Shave | 1.00% | ~11,060 |
+| With Scars to Show | 1.00% | ~11,060 |
+| Lifting The Fog | 1.00% | ~11,060 |
+| Second Act | 1.00% | ~11,060 |
 | Blood on your hands | 0.90% | ~9,954 |
 | Escape Artist | 0.90% | ~9,954 |
 | Operation: Survival | 0.90% | ~9,954 |
@@ -68,6 +68,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Blood on your face | 0.60% | ~6,636 |
 | Leapfrog | 0.60% | ~6,636 |
 | Cottage Owner | 0.60% | ~6,636 |
+| Escaping the Nightmare | 0.60% | ~6,636 |
 | Campbell's Chapel Legacy | 0.60% | ~6,636 |
 | Ancestor's Rite | 0.60% | ~6,636 |
 | Outrun Evil | 0.60% | ~6,636 |
@@ -79,7 +80,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | A bite for the Entity | 0.50% | ~5,530 |
 | Hemophobia | 0.50% | ~5,530 |
 | Serial Killer | 0.50% | ~5,530 |
-| Escaping the Nightmare | 0.50% | ~5,530 |
 | Game Over | 0.50% | ~5,530 |
 | Devoted Gatekeeping | 0.50% | ~5,530 |
 | Shrine Apparatus | 0.50% | ~5,530 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,106 |
 | Adept Good Guy | 0.10% | ~1,106 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,105,947 (Ranked 13)  
+Progressed: 1,106,038 (Ranked 13)  
 Completed: 63 (0.01%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -482,7 +482,7 @@ Completed: 63 (0.01%) (Ranked 360)
 | 2023-12-16 | 1,099,953 | 62 |
 | 2023-12-17 | 1,102,441 | 63 |
 | 2023-12-18 | 1,104,280 | 63 |
-| 2023-12-19 | 1,105,947 | 63 |
+| 2023-12-19 | 1,106,038 | 63 |
 ## Awards
 Max (Diverse Characters): 38,197  (Ranked 15)  
 Sum: 289,078 (Ranked 12)  

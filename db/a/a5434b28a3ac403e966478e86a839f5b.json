@@ -3,9 +3,9 @@
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 300,
-  "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_Completed": 153,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 684,
-  "EOS_Completed": 8,
-  "EOS_NewPlayers": 79,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.17,
+  "EOS_Progressed": 685,
+  "EOS_Completed": 9,
+  "EOS_NewPlayers": 80,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 1.31,
   "EosHistory": [
     {
       "Time": "2023-09-22T21:07:10.6425492+00:00",
@@ -2325,6 +2325,11 @@
       "Time": "2023-12-19T22:08:30.0499996+00:00",
       "NumProgressed": 684,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-19T23:08:01.4514503+00:00",
+      "NumProgressed": 685,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -2337,7 +2342,7 @@
       "Name": "Assassinate the Makron",
       "Percentage": 16,
       "XP": 120,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_eou1",
@@ -2351,9 +2356,9 @@
       "ID": "ACH_eou2",
       "SetID": "51of0eo",
       "Name": "Destroy Strogg Logistical Train",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 239
+      "UsersEstimate": 233
     },
     {
       "ID": "ACH_eou3",
@@ -2369,7 +2374,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_eou5",
@@ -2377,7 +2382,7 @@
       "Name": "Shut Down Processing Plant",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_eou6",
@@ -2393,7 +2398,7 @@
       "Name": "Destroy the Big Gun",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_eou8",
@@ -2440,14 +2445,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 684,
-      "Completed": 8
+      "Progressed": 685,
+      "Completed": 9
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-19T22:08:30.049999+00:00",
+  "LastChanged_Achievements": "2023-12-19T23:08:01.4514499+00:00",
   "LastUpdate_AppInfo": "2023-12-15T04:56:57.6157011+00:00",
-  "LastUpdate_Ratings": "2023-12-19T21:59:18.9802629+00:00",
-  "LastUpdate_Achievements": "2023-12-19T22:08:30.0500221+00:00"
+  "LastUpdate_Ratings": "2023-12-19T22:59:12.494836+00:00",
+  "LastUpdate_Achievements": "2023-12-19T23:08:01.4514701+00:00"
 }

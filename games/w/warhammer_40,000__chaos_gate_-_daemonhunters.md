@@ -45,7 +45,7 @@ Number of Ratings: 371  (23.09.2022)
 | Hands-On Research | 0.70% | ~24 |
 | Harvest No More | 0.70% | ~24 |
 | Strike Force | 0.60% | ~21 |
-| True Mastery | 0.50% | ~17 |
+| True Mastery | 0.60% | ~21 |
 | Suffer Not the Mutant | 0.50% | ~17 |
 | Exercise in Restraint | 0.40% | ~14 |
 | Reign of Confusion | 0.40% | ~14 |

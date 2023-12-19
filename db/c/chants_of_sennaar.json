@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 567,
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 75,
-  "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -43,9 +43,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1406,
+  "EOS_Progressed": 1407,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 444,
+  "EOS_NewPlayers": 445,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 5.33,
   "EosHistory": [
@@ -4593,6 +4593,11 @@
       "Time": "2023-12-19T22:06:16.3816231+00:00",
       "NumProgressed": 1406,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2023-12-19T23:06:08.8415801+00:00",
+      "NumProgressed": 1407,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 25,
@@ -4602,17 +4607,17 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 267
+      "UsersEstimate": 281
     },
     {
       "ID": "END_GOOD",
       "SetID": "2gma9an",
       "Name": "In this together",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 200,
-      "UsersEstimate": 253
+      "UsersEstimate": 267
     },
     {
       "ID": "META_ALL_LINK",
@@ -4636,7 +4641,7 @@
       "Name": "A good beginning",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "META_HALF_LINK",
@@ -4690,9 +4695,9 @@
       "ID": "META_RESULT_3-4",
       "SetID": "2gma9an",
       "Name": "A Link to the Past",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 183
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -4716,7 +4721,7 @@
       "Name": "True G3M4R",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -4772,7 +4777,7 @@
       "Name": "The great escape",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "PROGRESS_N3",
@@ -4788,7 +4793,7 @@
       "Name": "The darkness",
       "Percentage": 24,
       "XP": 60,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "PROGRESS_N5",
@@ -4803,7 +4808,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1406,
+      "Progressed": 1407,
       "Completed": 75
     }
   ],
@@ -4811,8 +4816,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-19T13:57:35.0364217+00:00",
-  "LastChanged_Achievements": "2023-12-19T22:06:16.3816226+00:00",
+  "LastChanged_Achievements": "2023-12-19T23:06:08.8415798+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:30.8935759+00:00",
-  "LastUpdate_Ratings": "2023-12-19T21:57:48.1654405+00:00",
-  "LastUpdate_Achievements": "2023-12-19T22:06:16.3816599+00:00"
+  "LastUpdate_Ratings": "2023-12-19T22:57:41.8058015+00:00",
+  "LastUpdate_Achievements": "2023-12-19T23:06:08.8416091+00:00"
 }

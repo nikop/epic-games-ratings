@@ -6,12 +6,12 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,464 |
-| Gun Fu | 8.00% | ~78,309 |
-| The Fool | 7.00% | ~68,521 |
-| Right Back At Ya | 6.00% | ~58,732 |
-| Full Body Conversion | 5.00% | ~48,943 |
-| The Lovers | 5.00% | ~48,943 |
+| V for Vendetta | 12.00% | ~117,466 |
+| Gun Fu | 8.00% | ~78,311 |
+| The Fool | 7.00% | ~68,522 |
+| Right Back At Ya | 6.00% | ~58,733 |
+| Full Body Conversion | 5.00% | ~48,944 |
+| The Lovers | 5.00% | ~48,944 |
 | Stanislavski's Method | 4.00% | ~39,155 |
 | The Hermit | 4.00% | ~39,155 |
 | The Wheel of Fortune | 4.00% | ~39,155 |
@@ -24,14 +24,14 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Warrior | 3.00% | ~29,366 |
 | Legend of The Afterlife | 3.00% | ~29,366 |
 | Relic Ruler | 3.00% | ~3,225 |
-| Bushido and Chill | 2.00% | ~19,577 |
-| To Protect and Serve | 2.00% | ~19,577 |
-| Master Crafter | 2.00% | ~19,577 |
-| I Am The Law | 2.00% | ~19,577 |
-| The Quick and the Dead | 2.00% | ~19,577 |
-| The World | 2.00% | ~19,577 |
-| Two Heads, One Bullet | 2.00% | ~19,577 |
-| Judy vs Night City | 2.00% | ~19,577 |
+| Bushido and Chill | 2.00% | ~19,578 |
+| To Protect and Serve | 2.00% | ~19,578 |
+| Master Crafter | 2.00% | ~19,578 |
+| I Am The Law | 2.00% | ~19,578 |
+| The Quick and the Dead | 2.00% | ~19,578 |
+| The World | 2.00% | ~19,578 |
+| Two Heads, One Bullet | 2.00% | ~19,578 |
+| Judy vs Night City | 2.00% | ~19,578 |
 | The Wandering Fool | 1.00% | ~9,789 |
 | The Sun | 1.00% | ~9,789 |
 | Spin Doctor | 1.00% | ~1,075 |
@@ -49,9 +49,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Tower | 0.60% | ~645 |
 | Must Be Rats | 0.50% | ~4,894 |
 | Temperance | 0.50% | ~4,894 |
-| King of Pentacles | 0.50% | ~537 |
+| King of Pentacles | 0.50% | ~538 |
 | City Lights | 0.30% | ~2,937 |
-| King of Cups | 0.30% | ~322 |
+| King of Cups | 0.30% | ~323 |
 | Gunslinger | 0.20% | ~1,958 |
 | Mean Streets | 0.20% | ~1,958 |
 | Little Tokyo | 0.20% | ~1,958 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 978,866 (Ranked 16)  
+Progressed: 978,882 (Ranked 16)  
 Completed: 2,944 (0.30%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 2,944 (0.30%) (Ranked 248)
 | 2023-12-16 | 977,366 | 2,924 |
 | 2023-12-17 | 978,015 | 2,930 |
 | 2023-12-18 | 978,465 | 2,935 |
-| 2023-12-19 | 978,866 | 2,944 |
+| 2023-12-19 | 978,882 | 2,944 |
 ## Awards
 Max (Character Customization): 125,194  (Ranked 8)  
 Sum: 431,324 (Ranked 9)  

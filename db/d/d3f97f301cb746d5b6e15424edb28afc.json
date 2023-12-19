@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 315,
   "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -3446,9 +3446,9 @@
       "ID": "ACH_WASHCAR_03",
       "SetID": "5fn8ia4",
       "Name": "Sand? Not a problem",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 218
+      "UsersEstimate": 231
     },
     {
       "ID": "GSS_ACH_01_SHOP_01",
@@ -3478,9 +3478,9 @@
       "ID": "GSS_ACH_04_TIP_02",
       "SetID": "5fn8ia4",
       "Name": "Gaining skill",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1102
     },
     {
       "ID": "GSS_ACH_05_TIP_03",
@@ -3494,9 +3494,9 @@
       "ID": "GSS_ACH_06_FUEL_01",
       "SetID": "5fn8ia4",
       "Name": "Fueled it good!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1179
     },
     {
       "ID": "GSS_ACH_07_FUEL_02",
@@ -3550,9 +3550,9 @@
       "ID": "GSS_ACH_13_FUEL_SERVE_01",
       "SetID": "5fn8ia4",
       "Name": "So it begins",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1179
+      "UsersEstimate": 1191
     },
     {
       "ID": "GSS_ACH_14_FUEL_SERVE_02",
@@ -3662,9 +3662,9 @@
       "ID": "GSS_ACH_28_PAINT_02",
       "SetID": "5fn8ia4",
       "Name": "On the Roll",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1063
     },
     {
       "ID": "GSS_ACH_29_PAINT_03",
@@ -3742,9 +3742,9 @@
       "ID": "GSS_ACH_38_GARAGE_01",
       "SetID": "5fn8ia4",
       "Name": "IR Mechanic!",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 986
+      "UsersEstimate": 999
     },
     {
       "ID": "GSS_ACH_39_GARAGE_02",
@@ -3814,9 +3814,9 @@
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 2",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1114
     },
     {
       "ID": "GSS_ACH_48_UPGRADE_STATION_02",
@@ -4022,9 +4022,9 @@
       "ID": "GSS_ACH_73_MEETING_THE_UNCLE",
       "SetID": "5fn8ia4",
       "Name": "The Uncle",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1127
     },
     {
       "ID": "GSS_ACH_74_SANDSTORM",
@@ -4111,8 +4111,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-18T13:05:51.5719117+00:00",
-  "LastChanged_Achievements": "2023-12-19T22:05:56.4161306+00:00",
+  "LastChanged_Achievements": "2023-12-19T23:05:49.543739+00:00",
   "LastUpdate_AppInfo": "2023-12-18T18:57:14.4494443+00:00",
-  "LastUpdate_Ratings": "2023-12-19T21:59:23.7543083+00:00",
-  "LastUpdate_Achievements": "2023-12-19T22:05:56.4162274+00:00"
+  "LastUpdate_Ratings": "2023-12-19T22:59:16.9422924+00:00",
+  "LastUpdate_Achievements": "2023-12-19T23:05:49.5438374+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -1343,9 +1343,9 @@
       "ID": "FIRST_ACCEL_COMBO",
       "SetID": "apihg0e",
       "Name": "Combo Convert",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 166
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -1375,9 +1375,9 @@
       "ID": "FIRST_KODAMA_HERMIT_TALK",
       "SetID": "apihg0e",
       "Name": "Hermit Koco Encounter",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 180
     },
     {
       "ID": "FIRST_METEOR_SHOWER",
@@ -1614,8 +1614,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-19T22:05:48.4213166+00:00",
+  "LastChanged_Achievements": "2023-12-19T23:05:40.110776+00:00",
   "LastUpdate_AppInfo": "2023-12-19T19:57:15.6866052+00:00",
-  "LastUpdate_Ratings": "2023-12-19T22:02:53.6599668+00:00",
-  "LastUpdate_Achievements": "2023-12-19T22:05:48.4213487+00:00"
+  "LastUpdate_Ratings": "2023-12-19T23:02:43.6147158+00:00",
+  "LastUpdate_Achievements": "2023-12-19T23:05:40.1108049+00:00"
 }

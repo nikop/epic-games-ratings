@@ -1,17 +1,17 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.29 (Ranked 856)  
+Rating: 4.28 (Ranked 868)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~164,405 |
-| Copacetic Coordination | 16.00% | ~57,184 |
-| Fronting the Money | 15.00% | ~53,610 |
-| The Dawn of Automation | 14.00% | ~50,036 |
-| Extraordinary Logistics | 14.00% | ~50,036 |
-| Dirty Money | 13.00% | ~46,462 |
-| Family First | 13.00% | ~46,462 |
+| Corner Clout | 46.00% | ~164,406 |
+| Copacetic Coordination | 16.00% | ~57,185 |
+| Fronting the Money | 15.00% | ~53,611 |
+| The Dawn of Automation | 14.00% | ~50,037 |
+| Extraordinary Logistics | 14.00% | ~50,037 |
+| Dirty Money | 13.00% | ~46,463 |
+| Family First | 13.00% | ~46,463 |
 | Cleaning House | 12.00% | ~42,888 |
 | Room in the Back | 12.00% | ~42,888 |
 | Beating the Heat | 11.00% | ~39,314 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 856)
 | High Pillow | 0.10% | ~357 |
 | Station Master | 0.10% | ~357 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 357,402 (Ranked 49)  
+Progressed: 357,404 (Ranked 49)  
 Completed: 7 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,15 +329,15 @@ Completed: 7 (0.00%) (Ranked 384)
 | 2023-12-16 | 356,959 | 7 |
 | 2023-12-17 | 357,141 | 7 |
 | 2023-12-18 | 357,291 | 7 |
-| 2023-12-19 | 357,402 | 7 |
+| 2023-12-19 | 357,404 | 7 |
 ## Awards
 Max (Great for Beginners): 55  (Ranked 429)  
-Sum: 256 (Ranked 387)  
+Sum: 257 (Ranked 387)  
 Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 55 |
-| This game is Highly Recommended | 37 |
+| This game is Highly Recommended | 38 |
 | This game is Relaxing | 34 |
 | This game is Extremely Fun | 32 |
 | This game has Diverse Characters | 30 |
@@ -466,4 +466,4 @@ Diff (max vs sum): 42
 | 2023-12-14 | 4.29 | 52 | 250 |
 | 2023-12-15 | 4.29 | 52 | 252 |
 | 2023-12-17 | 4.29 | 55 | 255 |
-| 2023-12-19 | 4.29 | 55 | 256 |
+| 2023-12-19 | 4.29 | 55 | 257 |

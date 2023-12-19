@@ -1693,9 +1693,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 163372,
+  "EOS_Progressed": 163376,
   "EOS_Completed": 355,
-  "EOS_NewPlayers": 1081,
+  "EOS_NewPlayers": 1080,
   "EOS_NewCompleters": 57,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -19848,6 +19848,11 @@
       "Time": "2023-12-19T22:05:01.2779158+00:00",
       "NumProgressed": 163372,
       "NumCompleted": 355
+    },
+    {
+      "Time": "2023-12-19T23:04:53.4543587+00:00",
+      "NumProgressed": 163376,
+      "NumCompleted": 355
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -19996,7 +20001,7 @@
       "Name": "Harmless",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "DEFEAT_JAWCRAB",
@@ -20116,7 +20121,7 @@
       "Name": "Yank",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -20124,7 +20129,7 @@
       "Name": "Sharpened Vessel",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -20227,21 +20232,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 162955,
+      "Progressed": 162959,
       "Completed": 1242
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 163372,
+      "Progressed": 163376,
       "Completed": 355
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-19T20:59:46.5497646+00:00",
-  "LastChanged_Achievements": "2023-12-19T22:05:01.2779156+00:00",
+  "LastChanged_Achievements": "2023-12-19T23:04:53.4543585+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:23.4801204+00:00",
-  "LastUpdate_Ratings": "2023-12-19T21:58:45.4195701+00:00",
-  "LastUpdate_Achievements": "2023-12-19T22:05:01.2780036+00:00"
+  "LastUpdate_Ratings": "2023-12-19T22:58:39.5802033+00:00",
+  "LastUpdate_Achievements": "2023-12-19T23:04:53.4544751+00:00"
 }

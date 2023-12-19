@@ -4,8 +4,8 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1084,
+  "EOS_Progressed": 1085,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -2964,6 +2964,11 @@
       "Time": "2023-12-19T21:10:41.8162164+00:00",
       "NumProgressed": 1084,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-19T23:09:09.8070098+00:00",
+      "NumProgressed": 1085,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -2976,7 +2981,7 @@
       "Name": "A Better Tomorrow",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "BostonHayDay",
@@ -2984,7 +2989,7 @@
       "Name": "Boston Hay Day",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "BoxingClever",
@@ -3000,7 +3005,7 @@
       "Name": "Cartographer",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "Causality",
@@ -3016,7 +3021,7 @@
       "Name": "Congratulations, you\u0027re an engineer",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "DarkestBeforeTheDawn",
@@ -3056,7 +3061,7 @@
       "Name": "Lights Out",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "MiCasaSuCasa",
@@ -3064,7 +3069,7 @@
       "Name": "Mi Casa Su Casa",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "OnceMoreIntoTheBreach",
@@ -3072,7 +3077,7 @@
       "Name": "Once more into the Breach",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "Outpatient",
@@ -3080,7 +3085,7 @@
       "Name": "Outpatient",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "Relic",
@@ -3088,7 +3093,7 @@
       "Name": "Relic",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "SkeletonCrew",
@@ -3096,7 +3101,7 @@
       "Name": "Skeleton Crew",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "TerraTourGuide",
@@ -3112,7 +3117,7 @@
       "Name": "The Safety of Disbelief",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "TragedyDocumented",
@@ -3128,21 +3133,21 @@
       "Name": "Welcome to Fort Solis",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 954
+      "UsersEstimate": 955
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 1084,
+      "Progressed": 1085,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-12-19T22:09:38.4533415+00:00",
+  "LastChanged_Achievements": "2023-12-19T23:09:09.8070095+00:00",
   "LastUpdate_AppInfo": "2023-12-13T21:57:02.5994024+00:00",
-  "LastUpdate_Ratings": "2023-12-19T21:57:51.3691736+00:00",
-  "LastUpdate_Achievements": "2023-12-19T22:09:38.4533663+00:00"
+  "LastUpdate_Ratings": "2023-12-19T22:57:45.0103128+00:00",
+  "LastUpdate_Achievements": "2023-12-19T23:09:09.8070396+00:00"
 }

@@ -5,22 +5,22 @@ Rating: 4.55 (Ranked 513)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~12,627 |
-| Pay 'n' Spray | 50.00% | ~7,794 |
-| All Dressed Up for San Fierro | 25.00% | ~3,897 |
-| The American Dream | 19.00% | ~2,962 |
-| School's Out | 18.00% | ~2,806 |
-| Smooth Moves | 17.00% | ~2,650 |
-| What happens in Las Venturas... | 15.00% | ~2,338 |
-| Today Was a Good Day | 15.00% | ~2,338 |
+| Getting Started | 81.00% | ~12,631 |
+| Pay 'n' Spray | 50.00% | ~7,797 |
+| All Dressed Up for San Fierro | 25.00% | ~3,898 |
+| The American Dream | 19.00% | ~2,963 |
+| School's Out | 18.00% | ~2,807 |
+| Smooth Moves | 17.00% | ~2,651 |
+| What happens in Las Venturas... | 15.00% | ~2,339 |
+| Today Was a Good Day | 15.00% | ~2,339 |
 | Horror of the Santa Maria | 11.00% | ~1,715 |
 | Liberty City State of Mind | 10.00% | ~1,559 |
-| The End of the Line | 8.00% | ~1,247 |
-| Original Gangster | 8.00% | ~1,247 |
-| With Extra Dip | 7.00% | ~1,091 |
-| Saviour | 6.00% | ~935 |
-| They Can’t Stop All of Us | 5.00% | ~779 |
-| Rescue a Kitten Too? | 5.00% | ~779 |
+| The End of the Line | 8.00% | ~1,248 |
+| Original Gangster | 8.00% | ~1,248 |
+| With Extra Dip | 7.00% | ~1,092 |
+| Saviour | 6.00% | ~936 |
+| They Can’t Stop All of Us | 5.00% | ~780 |
+| Rescue a Kitten Too? | 5.00% | ~780 |
 | What are the Odds | 4.00% | ~624 |
 | Bike or Biker | 3.00% | ~468 |
 | What the City Needs | 3.00% | ~468 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 513)
 | ...Here we go again | 0.50% | ~78 |
 | I Ain't No Buster | 0.40% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,589 (Ranked 158)  
+Progressed: 15,594 (Ranked 158)  
 Completed: 60 (0.38%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 60 (0.38%) (Ranked 231)
 | 2023-12-16 | 14,887 | 58 |
 | 2023-12-17 | 15,199 | 58 |
 | 2023-12-18 | 15,403 | 59 |
-| 2023-12-19 | 15,589 | 60 |
+| 2023-12-19 | 15,594 | 60 |
 ## Awards
 Max (Great Boss Battles): 463  (Ranked 221)  
 Sum: 718 (Ranked 297)  

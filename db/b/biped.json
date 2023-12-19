@@ -4,8 +4,8 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8298,
+  "EOS_Progressed": 8300,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 963,
+  "EOS_NewPlayers": 965,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14409,6 +14409,11 @@
       "Time": "2023-12-19T22:06:22.9365544+00:00",
       "NumProgressed": 8298,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T23:06:15.4596207+00:00",
+      "NumProgressed": 8300,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -14420,7 +14425,7 @@
       "Name": "First Step",
       "Percentage": 34,
       "XP": 45,
-      "UsersEstimate": 2821
+      "UsersEstimate": 2822
     },
     {
       "ID": "10",
@@ -14476,7 +14481,7 @@
       "Name": "Dense Forest",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 2240
+      "UsersEstimate": 2241
     },
     {
       "ID": "3",
@@ -14539,7 +14544,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 8298,
+      "Progressed": 8300,
       "Completed": 0
     }
   ],
@@ -14547,8 +14552,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-12-19T22:06:22.9365539+00:00",
+  "LastChanged_Achievements": "2023-12-19T23:06:15.4596204+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:47.9764383+00:00",
-  "LastUpdate_Ratings": "2023-12-19T21:58:27.4884459+00:00",
-  "LastUpdate_Achievements": "2023-12-19T22:06:22.9366529+00:00"
+  "LastUpdate_Ratings": "2023-12-19T22:58:20.7426295+00:00",
+  "LastUpdate_Achievements": "2023-12-19T23:06:15.4596991+00:00"
 }

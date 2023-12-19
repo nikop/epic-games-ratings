@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 2759,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 306,
+  "EOS_NewPlayers": 304,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7043,9 +7043,9 @@
       "ID": "ML_ACHIEVEMENT_38",
       "SetID": "c7hf6a4",
       "Name": "Eat My Dust",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1297
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -7146,8 +7146,8 @@
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-19T22:05:19.9294276+00:00",
+  "LastChanged_Achievements": "2023-12-19T23:05:12.0454147+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:35.5257739+00:00",
-  "LastUpdate_Ratings": "2023-12-19T21:58:23.1985958+00:00",
-  "LastUpdate_Achievements": "2023-12-19T22:05:19.9294827+00:00"
+  "LastUpdate_Ratings": "2023-12-19T22:58:16.3954517+00:00",
+  "LastUpdate_Achievements": "2023-12-19T23:05:12.0454686+00:00"
 }

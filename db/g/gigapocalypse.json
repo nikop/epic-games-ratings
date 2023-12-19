@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 402,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 482,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-03-22T16:00:00+00:00",
     "PcReleaseDate": "2021-11-20T17:00:00+00:00",
@@ -557,9 +557,9 @@
       "ID": "secret22",
       "SetID": "39f6ck8",
       "Name": "The Emperor\u0027s New Clothes",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 64
     },
     {
       "ID": "secret23",
@@ -661,9 +661,9 @@
       "ID": "secret34",
       "SetID": "39f6ck8",
       "Name": "Fight Me!",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "secret35",
@@ -693,9 +693,9 @@
       "ID": "secret38",
       "SetID": "39f6ck8",
       "Name": "Loyal Companion",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "secret39",
@@ -878,8 +878,8 @@
   "FirstSeenRating": "2023-03-31T05:57:53.8583887+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:25.0690436+00:00",
   "LastChanged": "2023-03-31T05:57:53.8583888+00:00",
-  "LastChanged_Achievements": "2023-12-19T22:04:20.6887661+00:00",
+  "LastChanged_Achievements": "2023-12-19T23:04:12.8761509+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:50:01.3010128+00:00",
-  "LastUpdate_Ratings": "2023-12-19T22:03:06.2988507+00:00",
-  "LastUpdate_Achievements": "2023-12-19T22:04:20.688813+00:00"
+  "LastUpdate_Ratings": "2023-12-19T23:02:57.7958872+00:00",
+  "LastUpdate_Achievements": "2023-12-19T23:04:12.8761931+00:00"
 }

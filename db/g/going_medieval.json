@@ -2,13 +2,13 @@
   "ID": "d469e82d91fe4516a00d6566c3d2f8f7",
   "Name": "Going Medieval",
   "ProductSlug": "going-medieval",
-  "Ranking_Rating": 422,
+  "Ranking_Rating": 423,
   "Ranking_Popularity": 334,
   "Ranking_PopularitySum": 260,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1619,7 +1619,7 @@
       "Count": 75
     }
   ],
-  "EOS_Progressed": 7369,
+  "EOS_Progressed": 7370,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
@@ -14979,6 +14979,11 @@
       "Time": "2023-12-19T21:09:06.5262779+00:00",
       "NumProgressed": 7369,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-19T23:07:59.9092852+00:00",
+      "NumProgressed": 7370,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -14990,7 +14995,7 @@
       "Name": "Get A Room",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5600
+      "UsersEstimate": 5601
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -15022,7 +15027,7 @@
       "Name": "Green Thumb",
       "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 4937
+      "UsersEstimate": 4938
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -15030,7 +15035,7 @@
       "Name": "Having A Field Day",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5600
+      "UsersEstimate": 5601
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -15038,7 +15043,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 5379
+      "UsersEstimate": 5380
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -15126,7 +15131,7 @@
       "Name": "Fit For A King",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 2063
+      "UsersEstimate": 2064
     },
     {
       "ID": "STORE_NUTRITION_5000",
@@ -15150,7 +15155,7 @@
       "Name": "The First Day",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 5158
+      "UsersEstimate": 5159
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -15198,7 +15203,7 @@
       "Name": "Novice Researcher",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 5011
+      "UsersEstimate": 5012
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -15214,7 +15219,7 @@
       "Name": "Luminary Researcher",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 2284
+      "UsersEstimate": 2285
     },
     {
       "ID": "UNLOCK_RESEARCH_3",
@@ -15222,7 +15227,7 @@
       "Name": "Onward",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 4274
+      "UsersEstimate": 4275
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -15237,15 +15242,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 7369,
+      "Progressed": 7370,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-12-19T21:01:32.6284048+00:00",
-  "LastChanged_Achievements": "2023-12-19T22:08:28.5925142+00:00",
+  "LastChanged_Achievements": "2023-12-19T23:07:59.9092849+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:47.8691665+00:00",
-  "LastUpdate_Ratings": "2023-12-19T22:00:01.286996+00:00",
-  "LastUpdate_Achievements": "2023-12-19T22:08:28.592593+00:00"
+  "LastUpdate_Ratings": "2023-12-19T22:59:53.0162692+00:00",
+  "LastUpdate_Achievements": "2023-12-19T23:07:59.9093472+00:00"
 }

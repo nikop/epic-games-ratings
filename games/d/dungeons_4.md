@@ -21,8 +21,8 @@
 | It's Warm and Cozy at Home | 59.00% | ~349 |
 | Trap Master | 55.00% | ~326 |
 | Minions, Minions! | 54.00% | ~320 |
+| Hard Work | 54.00% | ~320 |
 | The Big Eaty | 54.00% | ~320 |
-| Hard Work | 53.00% | ~314 |
 | “… like son” | 51.00% | ~302 |
 | YOU SHALL NOT PASS! | 50.00% | ~296 |
 | The Cathedral of Light | 48.00% | ~284 |
@@ -49,8 +49,8 @@
 | Raiders of the Lost Stone | 23.00% | ~136 |
 | The Rune Sockets of Finitude (Part 1) | 23.00% | ~136 |
 | The Rune Sockets of Finitude (Part 2) | 21.00% | ~124 |
+| Rubble and Ashes | 20.00% | ~118 |
 | The Last Stand - This Time For Real! | 20.00% | ~118 |
-| Rubble and Ashes | 19.00% | ~112 |
 | My Little Torture Chamber | 18.00% | ~107 |
 | To Infinity And Beyond! | 18.00% | ~107 |
 | Lavalumps on Ice! | 17.00% | ~101 |

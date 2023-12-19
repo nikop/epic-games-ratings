@@ -17,13 +17,13 @@
 | For Science! | 35.00% | ~275 |
 | Meet the Petersons | 32.00% | ~251 |
 | Stay Cool | 30.00% | ~236 |
-| KIA | 27.00% | ~212 |
+| KIA | 28.00% | ~220 |
 | Mutiny in making | 24.00% | ~188 |
 | Eco-Shuttle | 20.00% | ~157 |
 | Et tu, Astrocitizen? | 20.00% | ~157 |
 | Space Explorer | 17.00% | ~133 |
 | Hands Full | 14.00% | ~110 |
-| Gold Medalist | 12.00% | ~94 |
+| Gold Medalist | 13.00% | ~102 |
 | Non-Fiction | 12.00% | ~94 |
 | No Man Left Behind | 9.00% | ~71 |
 | Fix-It Felix | 8.00% | ~63 |

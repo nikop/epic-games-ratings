@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
     "PcReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2293,
+  "EOS_Progressed": 2294,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 534,
+  "EOS_NewPlayers": 535,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2184,6 +2184,11 @@
       "Time": "2023-12-19T22:08:32.2973495+00:00",
       "NumProgressed": 2293,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T23:08:03.7058676+00:00",
+      "NumProgressed": 2294,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -2220,7 +2225,7 @@
       "Name": "Highest Among the Highest",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -2380,7 +2385,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -2571,14 +2576,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 2293,
+      "Progressed": 2294,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-19T22:08:32.2973487+00:00",
+  "LastChanged_Achievements": "2023-12-19T23:08:03.7058672+00:00",
   "LastUpdate_AppInfo": "2023-12-19T11:57:06.3691956+00:00",
-  "LastUpdate_Ratings": "2023-12-19T22:00:20.5646674+00:00",
-  "LastUpdate_Achievements": "2023-12-19T22:08:32.2974005+00:00"
+  "LastUpdate_Ratings": "2023-12-19T23:00:12.5377668+00:00",
+  "LastUpdate_Achievements": "2023-12-19T23:08:03.7059095+00:00"
 }
