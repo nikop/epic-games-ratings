@@ -6,16 +6,16 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~260,242 |
+| Blacksmith's Son | 32.00% | ~260,243 |
 | Cavalier | 25.00% | ~203,314 |
 | Fatso | 23.00% | ~187,049 |
 | Awakening | 21.00% | ~170,784 |
-| Ranger | 20.00% | ~162,651 |
-| Scrooge | 20.00% | ~162,651 |
+| Ranger | 20.00% | ~162,652 |
+| Scrooge | 20.00% | ~162,652 |
 | Anorectic | 16.00% | ~130,121 |
 | Firestarter | 16.00% | ~130,121 |
-| Bookworm | 15.00% | ~121,988 |
-| Insomniac | 13.00% | ~105,723 |
+| Bookworm | 15.00% | ~121,989 |
+| Insomniac | 13.00% | ~105,724 |
 | Buddy | 12.00% | ~97,591 |
 | Thief | 12.00% | ~97,591 |
 | Sinner | 11.00% | ~89,458 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~813 |
 | Wingman | 0.10% | ~813 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 813,256 (Ranked 18)  
+Progressed: 813,258 (Ranked 18)  
 Completed: 52 (0.01%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,10 +332,10 @@ Completed: 52 (0.01%) (Ranked 359)
 | 2023-12-16 | 812,891 | 52 |
 | 2023-12-17 | 813,083 | 52 |
 | 2023-12-18 | 813,218 | 52 |
-| 2023-12-19 | 813,256 | 52 |
+| 2023-12-19 | 813,258 | 52 |
 ## Awards
 Max (Character Customization): 7,681  (Ranked 52)  
-Sum: 28,533 (Ranked 50)  
+Sum: 28,534 (Ranked 50)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -344,7 +344,7 @@ Diff (max vs sum): 2
 | This game has Challenging Combat | 1,789 |
 | This game has Diverse Characters | 1,754 |
 | This game has Amazing Storytelling | 1,736 |
-| This game is Highly Recommended | 1,711 |
+| This game is Highly Recommended | 1,712 |
 | This game is Extremely Fun | 1,705 |
 | This game has Realistic Visuals | 1,685 |
 | This game has Amazing Characters | 1,682 |
@@ -680,4 +680,4 @@ Diff (max vs sum): 2
 | 2023-12-16 | 4.71 | - | 7,674 | 28,514 |
 | 2023-12-17 | 4.71 | - | 7,674 | 28,520 |
 | 2023-12-18 | 4.71 | - | 7,678 | 28,529 |
-| 2023-12-19 | 4.71 | - | 7,681 | 28,533 |
+| 2023-12-19 | 4.71 | - | 7,681 | 28,534 |

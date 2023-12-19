@@ -16,6 +16,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Explorer | 0.10% | ~16 |
 | Good | 0.10% | ~16 |
 | Intrepid | 0.10% | ~16 |
+| Magnificent | 0.10% | ~16 |
 | Mason | 0.10% | ~16 |
 | Settler | 0.10% | ~16 |
 | Valiant | 0.10% | ~16 |
@@ -28,11 +29,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 1 | 0.10% | ~16 |
 | Learn to Play 2 | 0.10% | ~16 |
 | Play a Single Player Game | 0.10% | ~16 |
+| Judaism | 0.10% | ~16 |
 | Roman Paganism | 0.10% | ~16 |
 | Circus Maximus in Roma | 0.10% | ~16 |
 | Capturing Cities | 0.10% | ~16 |
 | Redemption | 0.10% | ~16 |
 | Trade Caravan | 0.10% | ~16 |
+| Cimmerian Archer | 0.10% | ~16 |
 | Turreted Elephant | 0.10% | ~16 |
 | Centenarian | 0.00% | ~0 |
 | Alexander the who? | 0.00% | ~0 |
@@ -92,7 +95,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learned | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
 | Lion | 0.00% | ~0 |
-| Magnificent | 0.00% | ~0 |
 | Mighty | 0.00% | ~0 |
 | Noble | 0.00% | ~0 |
 | Old | 0.00% | ~0 |
@@ -235,7 +237,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Power to the People | 0.00% | ~0 |
 | Punic Wars | 0.00% | ~0 |
 | Christianity | 0.00% | ~0 |
-| Judaism | 0.00% | ~0 |
 | Manichaeism | 0.00% | ~0 |
 | Assyrian Paganism | 0.00% | ~0 |
 | Babylonian Paganism | 0.00% | ~0 |
@@ -263,7 +264,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Veneration | 0.00% | ~0 |
 | Word of God | 0.00% | ~0 |
 | Cataphract Archer | 0.00% | ~0 |
-| Cimmerian Archer | 0.00% | ~0 |
 | Three Man Chariot | 0.00% | ~0 |
 | Kushite Cavalry | 0.00% | ~0 |
 | Legionary | 0.00% | ~0 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 3.56,
+  "Rating": 3.57,
   "RatingHistory": [
     {
       "Time": "2023-05-02T02:57:49.0820146+00:00",
@@ -271,15 +271,21 @@
       "Rating": 3.56,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-19T11:02:35.1367558+00:00",
+      "Rating": 3.57,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1941,
+  "EOS_Progressed": 1942,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2872,6 +2878,11 @@
       "Time": "2023-12-19T10:03:11.8302504+00:00",
       "NumProgressed": 1941,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T11:03:55.9711635+00:00",
+      "NumProgressed": 1942,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2899,7 +2910,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "Achievement_004",
@@ -3105,9 +3116,9 @@
       "ID": "Achievement_030",
       "SetID": "6b34g18",
       "Name": "ICU",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 117
     },
     {
       "ID": "Achievement_031",
@@ -3131,7 +3142,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "Achievement_034",
@@ -3361,9 +3372,9 @@
       "ID": "Achievement_065",
       "SetID": "6b34g18",
       "Name": "Curious Finch",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "Achievement_066",
@@ -3410,16 +3421,16 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1941,
+      "Progressed": 1942,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-02T02:57:49.0820129+00:00",
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
-  "LastChanged": "2023-12-18T11:01:29.0788489+00:00",
-  "LastChanged_Achievements": "2023-12-19T10:03:11.8302501+00:00",
+  "LastChanged": "2023-12-19T11:02:35.1367556+00:00",
+  "LastChanged_Achievements": "2023-12-19T11:03:55.9711631+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:02.9619993+00:00",
-  "LastUpdate_Ratings": "2023-12-19T10:00:17.5593166+00:00",
-  "LastUpdate_Achievements": "2023-12-19T10:03:11.8303192+00:00"
+  "LastUpdate_Ratings": "2023-12-19T11:02:35.1367561+00:00",
+  "LastUpdate_Achievements": "2023-12-19T11:03:55.9712497+00:00"
 }

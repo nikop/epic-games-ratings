@@ -2,7 +2,7 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
-  "Ranking_EOS_Progress": 282,
+  "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 97,
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 847,
+  "EOS_Progressed": 851,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 582,
+  "EOS_NewPlayers": 586,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -1745,6 +1745,11 @@
       "Time": "2023-12-19T10:09:54.187437+00:00",
       "NumProgressed": 847,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-19T11:10:42.3464961+00:00",
+      "NumProgressed": 851,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1756,23 +1761,23 @@
       "Name": "Break Out",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "ACH_02",
       "SetID": "efe2lj",
       "Name": "Find Allies",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 136
     },
     {
       "ID": "ACH_03",
       "SetID": "efe2lj",
       "Name": "Powerful Allies",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_04",
@@ -1788,7 +1793,7 @@
       "Name": "To Battle",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_06",
@@ -1796,7 +1801,7 @@
       "Name": "Godslayer",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_07",
@@ -1820,7 +1825,7 @@
       "Name": "The Mentor",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_10",
@@ -1828,7 +1833,7 @@
       "Name": "Trinity",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACH_11",
@@ -1852,7 +1857,7 @@
       "Name": "Adventurer",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH_14",
@@ -1884,7 +1889,7 @@
       "Name": "Shatterer",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_18",
@@ -1900,7 +1905,7 @@
       "Name": "Slayer",
       "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_20",
@@ -1940,7 +1945,7 @@
       "Name": "All There Is",
       "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_25",
@@ -1948,7 +1953,7 @@
       "Name": "Fashion Victim",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH_26",
@@ -1972,7 +1977,7 @@
       "Name": "I Found It",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_29",
@@ -1988,7 +1993,7 @@
       "Name": "Alchemist",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_31",
@@ -1996,7 +2001,7 @@
       "Name": "Stone Collection",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_33",
@@ -2004,7 +2009,7 @@
       "Name": "Miner",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_34",
@@ -2028,7 +2033,7 @@
       "Name": "A Queen\u0027s Tale",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_38",
@@ -2043,14 +2048,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 847,
+      "Progressed": 851,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-19T10:09:54.1874366+00:00",
+  "LastChanged_Achievements": "2023-12-19T11:10:42.3464957+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
-  "LastUpdate_Ratings": "2023-12-19T10:00:06.3392566+00:00",
-  "LastUpdate_Achievements": "2023-12-19T10:09:54.187467+00:00"
+  "LastUpdate_Ratings": "2023-12-19T11:01:48.8088311+00:00",
+  "LastUpdate_Achievements": "2023-12-19T11:10:42.3465275+00:00"
 }

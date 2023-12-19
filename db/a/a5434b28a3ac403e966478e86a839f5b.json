@@ -2,8 +2,8 @@
   "ID": "a5434b28a3ac403e966478e86a839f5b",
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
-  "Ranking_EOS_Progress": 301,
-  "Ranking_EOS_Completed": 159,
+  "Ranking_EOS_Progress": 300,
+  "Ranking_EOS_Completed": 160,
   "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 675,
+  "EOS_Progressed": 676,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.19,
+  "EOS_Completed_Percentage": 1.18,
   "EosHistory": [
     {
       "Time": "2023-09-22T21:07:10.6425492+00:00",
@@ -2295,6 +2295,11 @@
       "Time": "2023-12-19T09:08:44.9794237+00:00",
       "NumProgressed": 675,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-19T11:08:45.5617672+00:00",
+      "NumProgressed": 676,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -2323,7 +2328,7 @@
       "Name": "Destroy Strogg Logistical Train",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ACH_eou3",
@@ -2347,7 +2352,7 @@
       "Name": "Shut Down Processing Plant",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ACH_eou6",
@@ -2410,14 +2415,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 675,
+      "Progressed": 676,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-19T10:08:29.8496025+00:00",
+  "LastChanged_Achievements": "2023-12-19T11:08:45.5617667+00:00",
   "LastUpdate_AppInfo": "2023-12-15T04:56:57.6157011+00:00",
-  "LastUpdate_Ratings": "2023-12-19T09:59:02.7911499+00:00",
-  "LastUpdate_Achievements": "2023-12-19T10:08:29.8496258+00:00"
+  "LastUpdate_Ratings": "2023-12-19T11:00:16.2785669+00:00",
+  "LastUpdate_Achievements": "2023-12-19T11:08:45.561786+00:00"
 }

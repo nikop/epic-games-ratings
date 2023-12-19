@@ -18,19 +18,20 @@ Number of Ratings: 46  (23.09.2022)
 | Sharpened Vessel | 0.40% | ~653 |
 | Shapely | 0.30% | ~490 |
 | Scion | 0.30% | ~489 |
+| Glare | 0.30% | ~489 |
 | Jawcrab | 0.30% | ~490 |
 | Jawstag | 0.30% | ~490 |
 | Feast | 0.30% | ~490 |
 | Watcher | 0.30% | ~490 |
 | Assimilation | 0.20% | ~327 |
 | Hunt Down | 0.20% | ~327 |
-| Glare | 0.20% | ~326 |
 | Host | 0.20% | ~326 |
 | Celebration | 0.20% | ~327 |
 | Inevitable | 0.20% | ~327 |
 | All-Seeing | 0.20% | ~327 |
 | Predator | 0.20% | ~327 |
 | Breathsmith | 0.20% | ~327 |
+| Dream | 0.20% | ~326 |
 | Spiral Heart | 0.10% | ~161 |
 | Bloodhunter | 0.10% | ~163 |
 | Skinmaker | 0.10% | ~163 |
@@ -43,7 +44,6 @@ Number of Ratings: 46  (23.09.2022)
 | Weakness | 0.10% | ~163 |
 | Unwrap the Gift | 0.10% | ~163 |
 | Passage | 0.10% | ~163 |
-| Dream | 0.10% | ~163 |
 | Generous | 0.10% | ~163 |
 | Kin | 0.10% | ~163 |
 | Listen | 0.10% | ~163 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~163 |
 | Intensify | 0.10% | ~163 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 163,287 (Ranked 79)  
+Progressed: 163,289 (Ranked 79)  
 Completed: 352 (0.22%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 352 (0.22%) (Ranked 264)
 | 2023-12-16 | 162,892 | 333 |
 | 2023-12-17 | 163,095 | 342 |
 | 2023-12-18 | 163,241 | 348 |
-| 2023-12-19 | 163,287 | 352 |
+| 2023-12-19 | 163,289 | 352 |
 ## Awards
 Max (Unique Visuals): 58  (Ranked 423)  
 Sum: 408 (Ranked 344)  

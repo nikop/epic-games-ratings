@@ -1,7 +1,7 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.56 (Ranked 498)  
+Rating: 4.56 (Ranked 497)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -36,7 +36,7 @@ Rating: 4.56 (Ranked 498)
 | King of Kings | 8.00% | ~180 |
 | A new Warchief rises | 1.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,256 (Ranked 229)  
+Progressed: 2,256 (Ranked 230)  
 Completed: 12 (0.53%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |

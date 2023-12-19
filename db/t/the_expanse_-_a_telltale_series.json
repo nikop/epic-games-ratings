@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16824,
+  "EOS_Progressed": 16827,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 757,
+  "EOS_NewPlayers": 760,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -14379,6 +14379,11 @@
       "Time": "2023-12-19T10:04:01.1661076+00:00",
       "NumProgressed": 16824,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-12-19T11:05:04.4649381+00:00",
+      "NumProgressed": 16827,
+      "NumCompleted": 44
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14423,7 +14428,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2355
+      "UsersEstimate": 2356
     },
     {
       "ID": "14",
@@ -14511,7 +14516,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "24",
@@ -14535,7 +14540,7 @@
       "Name": "Call it Even",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "27",
@@ -14575,7 +14580,7 @@
       "Name": "No Belter Left Behind",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "4",
@@ -14591,7 +14596,7 @@
       "Name": "Data Master",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "6",
@@ -14639,7 +14644,7 @@
       "Name": "Safe Cracker",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "33",
@@ -14663,29 +14668,29 @@
       "Name": "Madame Undersecretary",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16824,
+      "Progressed": 16827,
       "Completed": 44
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2778,
-      "Completed": 952
+      "Progressed": 2781,
+      "Completed": 953
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-17T22:59:50.8326927+00:00",
-  "LastChanged_Achievements": "2023-12-19T10:04:01.1661072+00:00",
+  "LastChanged_Achievements": "2023-12-19T11:05:04.4649376+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:40.0929133+00:00",
-  "LastUpdate_Ratings": "2023-12-19T09:59:32.6279436+00:00",
-  "LastUpdate_Achievements": "2023-12-19T10:04:01.1661748+00:00"
+  "LastUpdate_Ratings": "2023-12-19T11:00:59.0490326+00:00",
+  "LastUpdate_Achievements": "2023-12-19T11:05:04.4650138+00:00"
 }

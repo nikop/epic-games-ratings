@@ -266,9 +266,9 @@
       "ID": "ACH_FIRST_STAR_MANAGER",
       "SetID": "1lnhagg",
       "Name": "The First Star",
-      "Percentage": 12,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_FIRST_WIN",
@@ -457,8 +457,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2023-12-19T10:05:57.9389951+00:00",
+  "LastChanged_Achievements": "2023-12-19T11:07:48.1329835+00:00",
   "LastUpdate_AppInfo": "2023-12-15T02:21:15.0404929+00:00",
-  "LastUpdate_Ratings": "2023-12-19T10:02:44.2293529+00:00",
-  "LastUpdate_Achievements": "2023-12-19T10:05:57.9390139+00:00"
+  "LastUpdate_Ratings": "2023-12-19T11:03:12.7101082+00:00",
+  "LastUpdate_Achievements": "2023-12-19T11:07:48.1330043+00:00"
 }

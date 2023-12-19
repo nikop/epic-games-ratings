@@ -35,9 +35,9 @@ Number of Ratings: 10,109  (23.09.2022)
 | Blood Elemental | 24.00% | ~11,348 |
 | Unholy Bones | 23.00% | ~10,875 |
 | Lord of Fire | 23.00% | ~10,875 |
+| Uncommon Warrior | 23.00% | ~10,875 |
 | Cannon Fodder - III | 22.00% | ~10,402 |
 | Spiritual Attraction | 22.00% | ~10,402 |
-| Uncommon Warrior | 22.00% | ~10,402 |
 | Nightmare of the Humanity - I | 22.00% | ~10,402 |
 | Nightmare of the Humanity - II | 21.00% | ~9,929 |
 | That Was Easy! | 20.00% | ~9,456 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 461,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -8535,9 +8535,9 @@
       "ID": "16",
       "SetID": "3aa2279",
       "Name": "God Emperor",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 47
     },
     {
       "ID": "17",
@@ -8751,9 +8751,9 @@
       "ID": "40",
       "SetID": "3aa2279",
       "Name": "Intimidation Tactics",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 176
     },
     {
       "ID": "41",
@@ -8974,8 +8974,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-14T06:01:52.3312422+00:00",
-  "LastChanged_Achievements": "2023-12-19T10:04:25.7695624+00:00",
+  "LastChanged_Achievements": "2023-12-19T11:05:38.7972204+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.6868317+00:00",
-  "LastUpdate_Ratings": "2023-12-19T09:59:13.2538517+00:00",
-  "LastUpdate_Achievements": "2023-12-19T10:04:25.7696299+00:00"
+  "LastUpdate_Ratings": "2023-12-19T11:00:32.2646331+00:00",
+  "LastUpdate_Achievements": "2023-12-19T11:05:38.7972903+00:00"
 }

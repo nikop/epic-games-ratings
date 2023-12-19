@@ -8,17 +8,17 @@ Rating: 4.26 (Ranked 882)
 | Rigged And Ready | 80.00% | ~1,836 |
 | Don't I Know You...? | 76.00% | ~1,744 |
 | Jailbreak | 66.00% | ~1,515 |
+| Suited and Booted | 39.00% | ~895 |
 | HEADSHOT! | 38.00% | ~872 |
-| Suited and Booted | 38.00% | ~872 |
 | Sleeping With The Fishes | 36.00% | ~826 |
 | High Performance | 31.00% | ~711 |
 | Overheated | 30.00% | ~688 |
 | Powered Up | 28.00% | ~643 |
 | Studied The Blade | 25.00% | ~574 |
 | Home Invasion | 23.00% | ~528 |
-| Luminary | 22.00% | ~505 |
+| Luminary | 23.00% | ~528 |
+| True Survivor | 22.00% | ~505 |
 | It's a Trap | 22.00% | ~505 |
-| True Survivor | 21.00% | ~482 |
 | Offensive Defense | 20.00% | ~459 |
 | Shocking | 20.00% | ~459 |
 | Unforeseeable Consequences | 20.00% | ~459 |
@@ -64,7 +64,7 @@ Rating: 4.26 (Ranked 882)
 | The Easy Way Out | 1.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,295 (Ranked 228)  
-Completed: 13 (0.57%) (Ranked 204)  
+Completed: 13 (0.57%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

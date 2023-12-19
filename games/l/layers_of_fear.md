@@ -13,7 +13,7 @@
 | The artist’s impression | 41.00% | ~64 |
 | Sign of weakness | 34.00% | ~53 |
 | Refuse to look | 33.00% | ~52 |
-| Face your fears | 26.00% | ~41 |
+| Face your fears | 27.00% | ~42 |
 | Finished it | 25.00% | ~39 |
 | Whispers long forgotten | 13.00% | ~20 |
 | A Slice of Life | 10.00% | ~16 |

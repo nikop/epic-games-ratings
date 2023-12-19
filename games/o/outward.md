@@ -1,31 +1,31 @@
 # Outward Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/outward)  
 [View Rawdata](../../db/o/outward.json)  
-Rating: 4.55 (Ranked 512)  
+Rating: 4.55 (Ranked 511)  
 Number of Ratings: 266  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 74.00% | ~2,973 |
-| Ready for Winter | 63.00% | ~2,531 |
-| Ready for Summer | 51.00% | ~2,049 |
-| Cordon Bleu | 43.00% | ~1,727 |
-| Tapped! | 37.00% | ~1,486 |
-| Eureka | 32.00% | ~1,285 |
-| Scourge Slayer | 25.00% | ~1,004 |
-| Science, Troglodyte! | 23.00% | ~924 |
-| Exceptional Skill | 22.00% | ~884 |
-| Home Sweet Home | 22.00% | ~884 |
-| Encyclopedic! | 19.00% | ~763 |
+| Venture Outward | 74.00% | ~2,976 |
+| Ready for Winter | 63.00% | ~2,533 |
+| Ready for Summer | 51.00% | ~2,051 |
+| Cordon Bleu | 43.00% | ~1,729 |
+| Tapped! | 37.00% | ~1,488 |
+| Eureka | 32.00% | ~1,287 |
+| Scourge Slayer | 25.00% | ~1,005 |
+| Science, Troglodyte! | 23.00% | ~925 |
+| Exceptional Skill | 22.00% | ~885 |
+| Home Sweet Home | 22.00% | ~885 |
+| Encyclopedic! | 19.00% | ~764 |
 | A Fortress Toppled! | 16.00% | ~643 |
 | The Power of Family | 16.00% | ~643 |
 | Apex Predator | 15.00% | ~603 |
-| Strange amalgams | 12.00% | ~482 |
-| The Power of Faith | 12.00% | ~482 |
+| Strange amalgams | 12.00% | ~483 |
+| The Power of Faith | 12.00% | ~483 |
 | The Power of Freedom | 9.00% | ~362 |
-| Ace Detective | 8.00% | ~321 |
-| Gift from the Ancestors | 8.00% | ~321 |
-| Magic is a science | 8.00% | ~321 |
+| Ace Detective | 8.00% | ~322 |
+| Gift from the Ancestors | 8.00% | ~322 |
+| Magic is a science | 8.00% | ~322 |
 | House of Cards | 7.00% | ~281 |
 | Let ‘em eat magma! | 7.00% | ~281 |
 | The power of ambition | 7.00% | ~281 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~12 |
 | The Absolute Pinnacle. | 0.30% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,017 (Ranked 205)  
+Progressed: 4,021 (Ranked 205)  
 Completed: 5 (0.12%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 5 (0.12%) (Ranked 292)
 | 2023-12-16 | 3,940 | 5 |
 | 2023-12-17 | 3,981 | 5 |
 | 2023-12-18 | 4,009 | 5 |
-| 2023-12-19 | 4,017 | 5 |
+| 2023-12-19 | 4,021 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 484)  
 Sum: 246 (Ranked 391)  

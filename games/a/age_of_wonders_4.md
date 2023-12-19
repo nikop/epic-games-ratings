@@ -19,13 +19,13 @@ Rating: 4.62 (Ranked 372)
 | Magical Synergy | 3.00% | ~176 |
 | Seat of Power | 3.00% | ~176 |
 | In a Liege of Your Own | 3.00% | ~176 |
+| Intimidation Tactics | 3.00% | ~176 |
 | Return of the Wizard King | 2.00% | ~117 |
 | Enchanted Archipelago | 2.00% | ~117 |
 | Digging for Treasure | 2.00% | ~117 |
 | My Final Form | 2.00% | ~117 |
 | Fiery Friend | 2.00% | ~117 |
 | Impenetrable Fortress | 2.00% | ~117 |
-| Intimidation Tactics | 2.00% | ~117 |
 | Here be Dragons | 2.00% | ~117 |
 | Tipping the Scales | 2.00% | ~117 |
 | Mighty Hoard | 2.00% | ~117 |
@@ -45,9 +45,9 @@ Rating: 4.62 (Ranked 372)
 | Lord of Chaos | 0.90% | ~53 |
 | Against the Odds | 0.90% | ~53 |
 | The Eternal Court | 0.90% | ~53 |
+| God Emperor | 0.80% | ~47 |
 | Eternal Lord | 0.80% | ~47 |
 | I've Got Everything I Need Right Here | 0.70% | ~41 |
-| God Emperor | 0.70% | ~41 |
 | The Goddess of Nature | 0.70% | ~41 |
 | Manufactured War | 0.70% | ~41 |
 | Grexolis | 0.70% | ~41 |

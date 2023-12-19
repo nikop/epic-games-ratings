@@ -3,8 +3,8 @@
   "Name": "The Complex",
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 298,
-  "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_Completed": 112,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 691,
+  "EOS_Progressed": 692,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.04,
+  "EOS_Completed_Percentage": 3.03,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:48.1616312+00:00",
@@ -1250,6 +1250,11 @@
       "Time": "2023-12-19T01:56:23.5820252+00:00",
       "NumProgressed": 691,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-19T11:09:55.4373815+00:00",
+      "NumProgressed": 692,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 20,
@@ -1269,7 +1274,7 @@
       "Name": "Blast From The Past",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "deadly_secret",
@@ -1349,7 +1354,7 @@
       "Name": "Falling For You",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "free_champagne",
@@ -1365,7 +1370,7 @@
       "Name": "Kamikaze",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "kindar_surprise",
@@ -1373,7 +1378,7 @@
       "Name": "Kindar Surprise",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "not_a_people_person",
@@ -1413,14 +1418,14 @@
       "Name": "Tough Decision",
       "Percentage": 92,
       "XP": 50,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 691,
+      "Progressed": 692,
       "Completed": 21
     }
   ],
@@ -1428,8 +1433,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-12-19T10:09:20.4342527+00:00",
+  "LastChanged_Achievements": "2023-12-19T11:09:55.4373811+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:08.7462011+00:00",
-  "LastUpdate_Ratings": "2023-12-19T09:59:03.2853981+00:00",
-  "LastUpdate_Achievements": "2023-12-19T10:09:20.4342693+00:00"
+  "LastUpdate_Ratings": "2023-12-19T11:00:16.890908+00:00",
+  "LastUpdate_Achievements": "2023-12-19T11:09:55.4373986+00:00"
 }

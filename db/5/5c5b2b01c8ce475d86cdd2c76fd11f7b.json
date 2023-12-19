@@ -2,7 +2,7 @@
   "ID": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
   "Name": "Deus Ex - Mankind Divided",
   "ProductSlug": "deus-ex-mankind-divided-4c6370",
-  "Ranking_EOS_Progress": 559,
+  "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 158,
@@ -549,9 +549,9 @@
       "ID": "NEW_ACHIEVEMENT_2_21",
       "SetID": "o6aioj",
       "Name": "Murder He Wrote",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_22",
@@ -565,9 +565,9 @@
       "ID": "NEW_ACHIEVEMENT_2_23",
       "SetID": "o6aioj",
       "Name": "Go Figure",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_24",
@@ -581,9 +581,9 @@
       "ID": "NEW_ACHIEVEMENT_2_25",
       "SetID": "o6aioj",
       "Name": "Too Hot to Handle",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_26",
@@ -850,8 +850,8 @@
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2023-12-19T10:05:27.3715686+00:00",
+  "LastChanged_Achievements": "2023-12-19T11:07:05.6218011+00:00",
   "LastUpdate_AppInfo": "2023-12-13T16:57:09.7184844+00:00",
-  "LastUpdate_Ratings": "2023-12-19T09:59:41.666945+00:00",
-  "LastUpdate_Achievements": "2023-12-19T10:05:27.3716416+00:00"
+  "LastUpdate_Ratings": "2023-12-19T11:01:12.5174835+00:00",
+  "LastUpdate_Achievements": "2023-12-19T11:07:05.6218717+00:00"
 }

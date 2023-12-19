@@ -1789,17 +1789,17 @@
       "ID": "ach_main06transporter_completed",
       "SetID": "4hg22ll",
       "Name": "Heroes\u2019 Gorge",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 378
+      "UsersEstimate": 384
     },
     {
       "ID": "ach_main06transporter_towers",
       "SetID": "4hg22ll",
       "Name": "Mana Cannon",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 242
+      "UsersEstimate": 248
     },
     {
       "ID": "ach_main06transporter_transport",
@@ -2164,8 +2164,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-19T10:08:25.6388929+00:00",
+  "LastChanged_Achievements": "2023-12-19T11:08:39.5653683+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:09.5802782+00:00",
-  "LastUpdate_Ratings": "2023-12-19T09:59:15.8748612+00:00",
-  "LastUpdate_Achievements": "2023-12-19T10:08:25.6389358+00:00"
+  "LastUpdate_Ratings": "2023-12-19T11:00:36.2749607+00:00",
+  "LastUpdate_Achievements": "2023-12-19T11:08:39.5654167+00:00"
 }

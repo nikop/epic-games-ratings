@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Land of the Rising Sun | 100.00% | ~663 |
-| Hidden History | 71.00% | ~471 |
-| Commencing of Quests | 62.00% | ~411 |
-| Budding Conjuror | 61.00% | ~404 |
+| Land of the Rising Sun | 100.00% | ~664 |
+| Hidden History | 72.00% | ~478 |
+| Commencing of Quests | 63.00% | ~418 |
+| Budding Conjuror | 61.00% | ~405 |
 | Man-Machine Master | 50.00% | ~332 |
 | Mountain Splitter | 49.00% | ~325 |
-| Subsistence Skills | 49.00% | ~325 |
-| Charmed by the Hunt | 48.00% | ~318 |
+| Subsistence Skills | 48.00% | ~319 |
+| Charmed by the Hunt | 48.00% | ~319 |
 | Memory Rouser | 47.00% | ~312 |
 | Fusion Conjuror | 46.00% | ~305 |
-| Kemono Hunter | 42.00% | ~278 |
+| Kemono Hunter | 42.00% | ~279 |
 | Helpful Heart | 41.00% | ~272 |
 | Flawless Crystal | 39.00% | ~259 |
 | Expert Conjuror | 38.00% | ~252 |
@@ -22,14 +22,14 @@
 | Distance Devourer | 35.00% | ~232 |
 | Master of the Skies | 33.00% | ~219 |
 | Counter Specialist | 33.00% | ~219 |
-| Axer of Auspice | 29.00% | ~192 |
+| Axer of Auspice | 29.00% | ~193 |
 | Kemono at Heart | 28.00% | ~186 |
 | Mighty Marmelizer | 27.00% | ~179 |
 | Fair Means or Foul | 27.00% | ~179 |
 | Single Minded | 25.00% | ~166 |
 | Snare Specialist | 25.00% | ~166 |
 | Artful Assister | 25.00% | ~166 |
-| Karakuri Trail | 23.00% | ~152 |
+| Karakuri Trail | 23.00% | ~153 |
 | Team Hunter | 22.00% | ~146 |
 | Reincarnation Cycle Stopper | 21.00% | ~139 |
 | Karakuri Isle | 20.00% | ~133 |
@@ -39,8 +39,8 @@
 | Style Seeker | 16.00% | ~106 |
 | Human Believer | 16.00% | ~106 |
 | Karakuri Minato | 16.00% | ~106 |
-| Canyon of Karakuri | 15.00% | ~99 |
-| Quintessence of Form | 15.00% | ~99 |
+| Canyon of Karakuri | 15.00% | ~100 |
+| Quintessence of Form | 15.00% | ~100 |
 | Jack of All Trades | 13.00% | ~86 |
 | Karakuri Fortress | 12.00% | ~80 |
 | Volatile Vocation | 12.00% | ~80 |
@@ -53,8 +53,8 @@
 | Bewitched by Bathing | 6.00% | ~40 |
 | Tsukumo Whisperer | 4.00% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 663 (Ranked 303)  
-Completed: 8 (1.21%) (Ranked 157)  
+Progressed: 664 (Ranked 303)  
+Completed: 8 (1.20%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -148,4 +148,4 @@ Completed: 8 (1.21%) (Ranked 157)
 | 2023-12-16 | 552 | 8 |
 | 2023-12-17 | 613 | 8 |
 | 2023-12-18 | 649 | 8 |
-| 2023-12-19 | 663 | 8 |
+| 2023-12-19 | 664 | 8 |

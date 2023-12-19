@@ -3435,10 +3435,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3271,
       "NumberOfAwardsMax": 442
+    },
+    {
+      "Time": "2023-12-19T10:59:27.9732007+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3272,
+      "NumberOfAwardsMax": 442
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3271,
+  "NumberOfAwards": 3272,
   "NumberOfAwardsMax": 442,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3488,7 +3494,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 321
+      "Count": 322
     },
     {
       "Text": "This game has a Creative Community",
@@ -3503,9 +3509,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18639,
+  "EOS_Progressed": 18641,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 669,
+  "EOS_NewPlayers": 671,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16298,6 +16304,11 @@
       "Time": "2023-12-19T10:05:22.9000319+00:00",
       "NumProgressed": 18639,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-19T11:06:59.357397+00:00",
+      "NumProgressed": 18641,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16781,15 +16792,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18639,
+      "Progressed": 18641,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-12-19T08:58:44.2994653+00:00",
-  "LastChanged_Achievements": "2023-12-19T10:05:22.9000316+00:00",
+  "LastChanged": "2023-12-19T10:59:27.9732006+00:00",
+  "LastChanged_Achievements": "2023-12-19T11:06:59.3573966+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
-  "LastUpdate_Ratings": "2023-12-19T09:58:30.8205113+00:00",
-  "LastUpdate_Achievements": "2023-12-19T10:05:22.9001173+00:00"
+  "LastUpdate_Ratings": "2023-12-19T10:59:27.9732011+00:00",
+  "LastUpdate_Achievements": "2023-12-19T11:06:59.3574772+00:00"
 }

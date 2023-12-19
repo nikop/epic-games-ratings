@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
@@ -495,9 +495,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 255061,
+  "EOS_Progressed": 255064,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 610,
+  "EOS_NewPlayers": 609,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27680,6 +27680,11 @@
       "Time": "2023-12-19T10:03:25.2258667+00:00",
       "NumProgressed": 255061,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-19T11:04:14.9198253+00:00",
+      "NumProgressed": 255064,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -27691,7 +27696,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 68866
+      "UsersEstimate": 68867
     },
     {
       "ID": "ACH_AON",
@@ -27715,7 +27720,7 @@
       "Name": "BOY!",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 10202
+      "UsersEstimate": 10203
     },
     {
       "ID": "ACH_CATNIPCATNIP",
@@ -27731,7 +27736,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 30607
+      "UsersEstimate": 30608
     },
     {
       "ID": "ACH_ENJOY",
@@ -27771,7 +27776,7 @@
       "Name": "Elementary!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 22955
+      "UsersEstimate": 22956
     },
     {
       "ID": "ACH_HIDEANDSEEK",
@@ -27835,7 +27840,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 73968
+      "UsersEstimate": 73969
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -27851,7 +27856,7 @@
       "Name": "It\u0027s blue, always blue",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 2040
+      "UsersEstimate": 2041
     },
     {
       "ID": "ACH_KACHING",
@@ -27859,7 +27864,7 @@
       "Name": "Ka-ching!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10202
+      "UsersEstimate": 10203
     },
     {
       "ID": "ACH_LETMEOUT",
@@ -27883,7 +27888,7 @@
       "Name": "Let\u0027s try another",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 2040
+      "UsersEstimate": 2041
     },
     {
       "ID": "ACH_LETSBEACH",
@@ -27907,7 +27912,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 63765
+      "UsersEstimate": 63766
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -27955,7 +27960,7 @@
       "Name": "Home run",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 2040
+      "UsersEstimate": 2041
     },
     {
       "ID": "ACH_LETSWORK",
@@ -28011,7 +28016,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 63765
+      "UsersEstimate": 63766
     },
     {
       "ID": "ACH_SOREAD",
@@ -28019,7 +28024,7 @@
       "Name": "So you like to read?",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 10202
+      "UsersEstimate": 10203
     },
     {
       "ID": "ACH_TAKEBLUEPILL",
@@ -28106,7 +28111,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 255061,
+      "Progressed": 255064,
       "Completed": 7
     }
   ],
@@ -28114,8 +28119,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-11-30T10:59:11.8312964+00:00",
-  "LastChanged_Achievements": "2023-12-19T10:03:25.2258664+00:00",
+  "LastChanged_Achievements": "2023-12-19T11:04:14.919825+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:10.8864766+00:00",
-  "LastUpdate_Ratings": "2023-12-19T10:02:45.4743679+00:00",
-  "LastUpdate_Achievements": "2023-12-19T10:03:25.226005+00:00"
+  "LastUpdate_Ratings": "2023-12-19T11:03:14.4804368+00:00",
+  "LastUpdate_Achievements": "2023-12-19T11:04:14.9199558+00:00"
 }

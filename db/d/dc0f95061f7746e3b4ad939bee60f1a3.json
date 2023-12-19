@@ -2,7 +2,7 @@
   "ID": "dc0f95061f7746e3b4ad939bee60f1a3",
   "Name": "Puzzle Compound",
   "ProductSlug": "puzzle-compound-fe9903",
-  "Ranking_EOS_Progress": 522,
+  "Ranking_EOS_Progress": 521,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 552,
   "Ranking_EOS_NewCompleters": 158,
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 50,
+  "EOS_Progressed": 51,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -199,6 +199,11 @@
       "Time": "2023-11-28T20:09:32.6784628+00:00",
       "NumProgressed": 50,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T11:10:16.6175283+00:00",
+      "NumProgressed": 51,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 11,
@@ -208,7 +213,7 @@
       "ID": "ACH_CASTLE_COMPLETED",
       "SetID": "b5c8hh8",
       "Name": "The Forgotten Castle Complete",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 80,
       "UsersEstimate": 26
     },
@@ -232,7 +237,7 @@
       "ID": "ACH_HEIST_COMPLETED",
       "SetID": "b5c8hh8",
       "Name": "Bank Heist Complete",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 80,
       "UsersEstimate": 24
     },
@@ -248,7 +253,7 @@
       "ID": "ACH_MANSION_COMPLETED",
       "SetID": "b5c8hh8",
       "Name": "Jefferson\u0027s Mansion Complete",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 80,
       "UsersEstimate": 33
     },
@@ -264,7 +269,7 @@
       "ID": "ACH_SCIFI_COMPLETED",
       "SetID": "b5c8hh8",
       "Name": "Escape to Athelay Complete",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 80,
       "UsersEstimate": 14
     },
@@ -280,7 +285,7 @@
       "ID": "ACH_WESTERN_COMPLETED",
       "SetID": "b5c8hh8",
       "Name": "Wild Wild West Complete",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 80,
       "UsersEstimate": 14
     },
@@ -297,14 +302,14 @@
     {
       "ID": "b5c8hh8",
       "IsBase": true,
-      "Progressed": 50,
+      "Progressed": 51,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-09T19:57:14.7958612+00:00",
   "FirstSeenAchievements": "2023-05-09T02:03:36.4240684+00:00",
-  "LastChanged_Achievements": "2023-12-19T10:09:35.9632028+00:00",
+  "LastChanged_Achievements": "2023-12-19T11:10:16.6175279+00:00",
   "LastUpdate_AppInfo": "2023-12-12T20:56:55.5157709+00:00",
-  "LastUpdate_Ratings": "2023-12-19T09:58:06.2459672+00:00",
-  "LastUpdate_Achievements": "2023-12-19T10:09:35.9632118+00:00"
+  "LastUpdate_Ratings": "2023-12-19T10:58:51.7415124+00:00",
+  "LastUpdate_Achievements": "2023-12-19T11:10:16.617537+00:00"
 }

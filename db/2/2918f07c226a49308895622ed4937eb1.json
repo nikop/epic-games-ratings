@@ -4,7 +4,7 @@
   "ProductSlug": "hide-and-seek-9e0912",
   "Ranking_EOS_Progress": 472,
   "Ranking_EOS_Completed": 16,
-  "Ranking_EOS_NewPlayers": 377,
+  "Ranking_EOS_NewPlayers": 375,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-11-17T18:00:00+00:00",
@@ -410,9 +410,9 @@
       "ID": "ACHIEVEMENT_3",
       "SetID": "dhh8kbc",
       "Name": "Hide",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 175,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -426,9 +426,9 @@
       "ID": "ACHIEVEMENT_5",
       "SetID": "dhh8kbc",
       "Name": "Hiders win!",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 150,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -449,8 +449,8 @@
   ],
   "FirstSeen": "2023-11-18T09:58:40.5450132+00:00",
   "FirstSeenAchievements": "2023-10-27T08:03:12.3312996+00:00",
-  "LastChanged_Achievements": "2023-12-19T10:05:45.6609714+00:00",
+  "LastChanged_Achievements": "2023-12-19T11:07:30.9887437+00:00",
   "LastUpdate_AppInfo": "2023-12-15T13:02:10.7054316+00:00",
-  "LastUpdate_Ratings": "2023-12-19T09:58:37.1233853+00:00",
-  "LastUpdate_Achievements": "2023-12-19T10:05:45.6609796+00:00"
+  "LastUpdate_Ratings": "2023-12-19T10:59:37.4786622+00:00",
+  "LastUpdate_Achievements": "2023-12-19T11:07:30.9887528+00:00"
 }

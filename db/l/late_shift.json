@@ -2,9 +2,9 @@
   "ID": "537156dc975644649b905ec6e958506e",
   "Name": "Late Shift",
   "ProductSlug": "late-shift-8b0634",
-  "Ranking_EOS_Progress": 289,
+  "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 786,
+  "EOS_Progressed": 787,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.15,
+  "EOS_Completed_Percentage": 1.14,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:43.1533073+00:00",
@@ -2025,6 +2025,11 @@
       "Time": "2023-12-19T00:08:50.7611173+00:00",
       "NumProgressed": 786,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-19T11:09:48.3237532+00:00",
+      "NumProgressed": 787,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 20,
@@ -2036,7 +2041,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "CHOICES_MATTER",
@@ -2108,7 +2113,7 @@
       "Name": "Even Tempered",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -2172,7 +2177,7 @@
       "Name": "Sabotage",
       "Percentage": 11,
       "XP": 75,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "SHILL_BIDDER",
@@ -2180,7 +2185,7 @@
       "Name": "Shill Bidder",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "STAR_CROSSED_LOVERS",
@@ -2195,7 +2200,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 786,
+      "Progressed": 787,
       "Completed": 9
     }
   ],
@@ -2203,8 +2208,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-12-19T10:09:15.3800528+00:00",
+  "LastChanged_Achievements": "2023-12-19T11:09:48.3237525+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:24.4540531+00:00",
-  "LastUpdate_Ratings": "2023-12-19T09:57:36.3274276+00:00",
-  "LastUpdate_Achievements": "2023-12-19T10:09:15.3800828+00:00"
+  "LastUpdate_Ratings": "2023-12-19T10:58:07.9556403+00:00",
+  "LastUpdate_Achievements": "2023-12-19T11:09:48.3237793+00:00"
 }

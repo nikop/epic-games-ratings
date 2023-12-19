@@ -10,7 +10,7 @@ Number of Ratings: 34  (23.09.2022)
 | Cowardice | 61.00% | ~412 |
 | NO LIFE IS WORTH SAVING... | 47.00% | ~318 |
 | Eat Lead! | 46.00% | ~311 |
-| The Breaking Point | 44.00% | ~297 |
+| The Breaking Point | 45.00% | ~304 |
 | Here Comes the Boom | 43.00% | ~291 |
 | Prospector | 41.00% | ~277 |
 | Sniper Wolf | 40.00% | ~270 |
@@ -26,9 +26,9 @@ Number of Ratings: 34  (23.09.2022)
 | The Difference | 27.00% | ~183 |
 | Vengeance | 26.00% | ~176 |
 | It's Just an Accident | 25.00% | ~169 |
+| Collectibles of Chapter II | 23.00% | ~155 |
 | Broken Hopes | 23.00% | ~155 |
 | Bullseye! | 23.00% | ~155 |
-| Collectibles of Chapter II | 22.00% | ~149 |
 | Sorrow | 20.00% | ~135 |
 | Atonement | 18.00% | ~122 |
 | Food Massacre | 18.00% | ~122 |

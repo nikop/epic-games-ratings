@@ -1,18 +1,18 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.56 (Ranked 1,061)  
+Rating: 3.57 (Ranked 1,061)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 9.00% | ~175 |
 | Catch and Release | 7.00% | ~136 |
-| Home Is Where the Heart Is | 6.00% | ~116 |
-| Wounded Whispers | 6.00% | ~116 |
+| Home Is Where the Heart Is | 6.00% | ~117 |
+| ICU | 6.00% | ~117 |
+| Wounded Whispers | 6.00% | ~117 |
 | Blood Will Have Blood | 5.00% | ~97 |
 | Ne Plus Ultra | 5.00% | ~97 |
 | Fly Fisher | 5.00% | ~97 |
-| ICU | 5.00% | ~97 |
 | Welcome to the Neighborhood | 4.00% | ~78 |
 | Peek-a-boo | 4.00% | ~78 |
 | Throw The First Stone | 4.00% | ~78 |
@@ -38,9 +38,9 @@ Rating: 3.56 (Ranked 1,061)
 | Nice Try | 0.90% | ~17 |
 | Check, Please! | 0.80% | ~16 |
 | Blacklight Down | 0.80% | ~16 |
+| Curious Finch | 0.80% | ~16 |
 | Revelations | 0.70% | ~14 |
 | Block Party | 0.70% | ~14 |
-| Curious Finch | 0.70% | ~14 |
 | Right This Way | 0.50% | ~10 |
 | Dexterity Save | 0.50% | ~10 |
 | Sisterhood | 0.40% | ~8 |
@@ -72,7 +72,7 @@ Rating: 3.56 (Ranked 1,061)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,941 (Ranked 235)  
+Progressed: 1,942 (Ranked 235)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-16 | 1,886 | 0 |
 | 2023-12-17 | 1,914 | 0 |
 | 2023-12-18 | 1,930 | 0 |
-| 2023-12-19 | 1,941 | 0 |
+| 2023-12-19 | 1,942 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -234,3 +234,4 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-16 | 3.50 | 0 | 0 |
 | 2023-12-17 | 3.51 | 0 | 0 |
 | 2023-12-18 | 3.56 | 0 | 0 |
+| 2023-12-19 | 3.57 | 0 | 0 |

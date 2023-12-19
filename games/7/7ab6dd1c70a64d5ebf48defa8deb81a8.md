@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 48.00% | ~407 |
-| Trinity | 20.00% | ~169 |
-| I Found It | 17.00% | ~144 |
+| Break Out | 48.00% | ~408 |
+| Trinity | 20.00% | ~170 |
+| I Found It | 17.00% | ~145 |
+| Find Allies | 16.00% | ~136 |
 | A Taste of Wrath | 16.00% | ~136 |
-| Find Allies | 15.00% | ~127 |
 | Shatter Them All | 14.00% | ~119 |
 | Geared Up | 14.00% | ~119 |
 | The Collector | 14.00% | ~119 |
-| Adventurer | 13.00% | ~110 |
-| Fashion Victim | 13.00% | ~110 |
+| Adventurer | 13.00% | ~111 |
+| Fashion Victim | 13.00% | ~111 |
 | Tributes of Caladrias | 12.00% | ~102 |
 | Scholar | 12.00% | ~102 |
-| Powerful Allies | 11.00% | ~93 |
-| Stone Collection | 11.00% | ~93 |
+| Stone Collection | 11.00% | ~94 |
+| Powerful Allies | 10.00% | ~85 |
 | Big Bazar | 8.00% | ~68 |
 | Essence Blow | 6.00% | ~51 |
-| The Mentor | 5.00% | ~42 |
-| Alchemist | 5.00% | ~42 |
+| The Mentor | 5.00% | ~43 |
+| Alchemist | 5.00% | ~43 |
 | Calm before the Storm | 4.00% | ~34 |
 | Airborne | 4.00% | ~34 |
-| To Battle | 3.00% | ~25 |
-| Godslayer | 3.00% | ~25 |
-| Shatterer | 3.00% | ~25 |
-| Miner | 3.00% | ~25 |
+| To Battle | 3.00% | ~26 |
+| Godslayer | 3.00% | ~26 |
+| Shatterer | 3.00% | ~26 |
+| Miner | 3.00% | ~26 |
 | Clear Sight | 2.00% | ~17 |
 | Fine Feathers Make Fine Birds | 2.00% | ~17 |
-| Slayer | 1.00% | ~8 |
-| All There Is | 1.00% | ~8 |
-| A Queen's Tale | 1.00% | ~8 |
+| Slayer | 1.00% | ~9 |
+| All There Is | 1.00% | ~9 |
+| A Queen's Tale | 1.00% | ~9 |
 | Flawless Victory | 0.90% | ~8 |
 | False God | 0.90% | ~8 |
 | Summiter | 0.70% | ~6 |
@@ -41,7 +41,7 @@
 | Shardbearer | 0.50% | ~4 |
 | Feeling Fancy | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 847 (Ranked 282)  
+Progressed: 851 (Ranked 281)  
 Completed: 3 (0.35%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,4 +109,4 @@ Completed: 3 (0.35%) (Ranked 237)
 | 2023-12-16 | 621 | 3 |
 | 2023-12-17 | 752 | 3 |
 | 2023-12-18 | 818 | 3 |
-| 2023-12-19 | 847 | 3 |
+| 2023-12-19 | 851 | 3 |

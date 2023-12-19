@@ -6,7 +6,7 @@
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 273,
-  "Ranking_EOS_Completed": 300,
+  "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
@@ -222,11 +222,11 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 1052,
+  "EOS_Progressed": 1053,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.1,
+  "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
     {
       "Time": "2023-11-08T08:07:23.567232+00:00",
@@ -2722,6 +2722,11 @@
       "Time": "2023-12-19T02:27:29.4562265+00:00",
       "NumProgressed": 1052,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T11:05:21.0735546+00:00",
+      "NumProgressed": 1053,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2790,7 +2795,7 @@
       "Name": "Bridge Builder",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "ChasingTheLight",
@@ -2990,7 +2995,7 @@
       "Name": "Overload",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "Persistent",
@@ -3076,9 +3081,9 @@
       "ID": "TeamSpirit",
       "SetID": "1n308hc",
       "Name": "Team Spirit",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 179
     },
     {
       "ID": "TextAdventurer",
@@ -3126,7 +3131,7 @@
       "Name": "The Spark",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "TheThiefOfFire",
@@ -3134,7 +3139,7 @@
       "Name": "The Thief of Fire",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "TheWordEndures",
@@ -3150,7 +3155,7 @@
       "Name": "Touch Grass",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "TrevorsBiographer",
@@ -3205,7 +3210,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1052,
+      "Progressed": 1053,
       "Completed": 1
     }
   ],
@@ -3213,8 +3218,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-19T10:04:13.2058678+00:00",
+  "LastChanged_Achievements": "2023-12-19T11:05:21.0735542+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-19T09:58:51.5414878+00:00",
-  "LastUpdate_Achievements": "2023-12-19T10:04:13.2059147+00:00"
+  "LastUpdate_Ratings": "2023-12-19T10:59:59.9266918+00:00",
+  "LastUpdate_Achievements": "2023-12-19T11:05:21.0736149+00:00"
 }

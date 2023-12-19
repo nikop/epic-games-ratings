@@ -6,46 +6,46 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,434 |
-| Gun Fu | 8.00% | ~78,289 |
-| The Fool | 7.00% | ~68,503 |
-| Right Back At Ya | 6.00% | ~58,717 |
-| Full Body Conversion | 5.00% | ~48,931 |
-| The Lovers | 5.00% | ~48,931 |
-| Stanislavski's Method | 4.00% | ~39,145 |
-| The Hermit | 4.00% | ~39,145 |
-| The Wheel of Fortune | 4.00% | ~39,145 |
-| True Soldier | 4.00% | ~39,145 |
+| V for Vendetta | 12.00% | ~117,437 |
+| Gun Fu | 8.00% | ~78,291 |
+| The Fool | 7.00% | ~68,505 |
+| Right Back At Ya | 6.00% | ~58,718 |
+| Full Body Conversion | 5.00% | ~48,932 |
+| The Lovers | 5.00% | ~48,932 |
+| Stanislavski's Method | 4.00% | ~39,146 |
+| The Hermit | 4.00% | ~39,146 |
+| The Wheel of Fortune | 4.00% | ~39,146 |
+| True Soldier | 4.00% | ~39,146 |
 | All the President's Men | 4.00% | ~4,290 |
 | Arachnophobia | 4.00% | ~4,290 |
-| Christmas Tree Attack | 3.00% | ~29,358 |
-| Life of the Road | 3.00% | ~29,358 |
-| The High Priestess | 3.00% | ~29,358 |
-| True Warrior | 3.00% | ~29,358 |
-| Legend of The Afterlife | 3.00% | ~29,358 |
-| Relic Ruler | 3.00% | ~3,217 |
-| Bushido and Chill | 2.00% | ~19,572 |
-| To Protect and Serve | 2.00% | ~19,572 |
-| Master Crafter | 2.00% | ~19,572 |
-| I Am The Law | 2.00% | ~19,572 |
-| The Quick and the Dead | 2.00% | ~19,572 |
-| The World | 2.00% | ~19,572 |
-| Two Heads, One Bullet | 2.00% | ~19,572 |
-| Judy vs Night City | 2.00% | ~19,572 |
+| Christmas Tree Attack | 3.00% | ~29,359 |
+| Life of the Road | 3.00% | ~29,359 |
+| The High Priestess | 3.00% | ~29,359 |
+| True Warrior | 3.00% | ~29,359 |
+| Legend of The Afterlife | 3.00% | ~29,359 |
+| Relic Ruler | 3.00% | ~3,218 |
+| Bushido and Chill | 2.00% | ~19,573 |
+| To Protect and Serve | 2.00% | ~19,573 |
+| Master Crafter | 2.00% | ~19,573 |
+| I Am The Law | 2.00% | ~19,573 |
+| The Quick and the Dead | 2.00% | ~19,573 |
+| The World | 2.00% | ~19,573 |
+| Two Heads, One Bullet | 2.00% | ~19,573 |
+| Judy vs Night City | 2.00% | ~19,573 |
 | The Wandering Fool | 1.00% | ~9,786 |
 | The Sun | 1.00% | ~9,786 |
-| Spin Doctor | 1.00% | ~1,072 |
-| King of Wands | 1.00% | ~1,072 |
-| Dirty Deeds | 1.00% | ~1,072 |
-| Easy Come, Easy Go | 1.00% | ~1,072 |
+| Spin Doctor | 1.00% | ~1,073 |
+| King of Wands | 1.00% | ~1,073 |
+| Dirty Deeds | 1.00% | ~1,073 |
+| Easy Come, Easy Go | 1.00% | ~1,073 |
 | To Bad Decisions! | 0.90% | ~8,808 |
 | Ten out of Ten | 0.90% | ~8,808 |
 | The Star | 0.80% | ~7,829 |
 | Breathtaking | 0.70% | ~6,850 |
 | Autojock | 0.60% | ~5,872 |
-| The APB is Not Enough | 0.60% | ~643 |
-| Judgement Day | 0.60% | ~643 |
-| The Tower | 0.60% | ~643 |
+| The APB is Not Enough | 0.60% | ~644 |
+| Judgement Day | 0.60% | ~644 |
+| The Tower | 0.60% | ~644 |
 | Must Be Rats | 0.50% | ~4,893 |
 | Temperance | 0.50% | ~4,893 |
 | King of Pentacles | 0.50% | ~536 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 978,615 (Ranked 16)  
+Progressed: 978,638 (Ranked 16)  
 Completed: 2,938 (0.30%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,19 +317,19 @@ Completed: 2,938 (0.30%) (Ranked 246)
 | 2023-12-16 | 977,366 | 2,924 |
 | 2023-12-17 | 978,015 | 2,930 |
 | 2023-12-18 | 978,465 | 2,935 |
-| 2023-12-19 | 978,615 | 2,938 |
+| 2023-12-19 | 978,638 | 2,938 |
 ## Awards
 Max (Character Customization): 124,846  (Ranked 8)  
-Sum: 429,577 (Ranked 9)  
+Sum: 430,089 (Ranked 9)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 124,846 |
-| This game has Great Boss Battles | 91,570 |
+| This game has Great Boss Battles | 91,953 |
 | This game is Great for Beginners | 26,630 |
 | This game has Diverse Characters | 26,159 |
 | This game is Highly Recommended | 24,874 |
-| This game has Amazing Storytelling | 24,510 |
+| This game has Amazing Storytelling | 24,639 |
 | This game is Extremely Fun | 24,287 |
 | This game has Amazing Characters | 24,081 |
 | This game is Relaxing | 23,317 |
@@ -672,4 +672,4 @@ Diff (max vs sum): -1
 | 2023-12-16 | 4.66 | - | 123,963 | 424,262 |
 | 2023-12-17 | 4.66 | - | 124,505 | 427,247 |
 | 2023-12-18 | 4.66 | - | 124,846 | 429,269 |
-| 2023-12-19 | 4.66 | - | 124,846 | 429,577 |
+| 2023-12-19 | 4.66 | - | 124,846 | 430,089 |

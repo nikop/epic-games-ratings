@@ -6,36 +6,36 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kaijuiced | 68.00% | ~27 |
-| Lie Back and Think of Albion | 63.00% | ~25 |
-| Yettisoned | 53.00% | ~21 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 53.00% | ~21 |
-| I Look Up As I Walk to Takoshima | 48.00% | ~19 |
-| Lobster Blisque | 45.00% | ~18 |
-| Perfect Probulator | 43.00% | ~17 |
-| Shop Til They Drop | 40.00% | ~16 |
-| Freshly Squeezed | 35.00% | ~14 |
-| Ducks in a Row, Fish in a Barrel | 30.00% | ~12 |
-| Fly Me to the Moon Base | 28.00% | ~11 |
-| Forbidden Donut | 28.00% | ~11 |
-| Earthly Pleasures | 28.00% | ~11 |
-| Pimp My Raid | 25.00% | ~10 |
-| Bodied Sattva | 25.00% | ~10 |
-| Trans-Siberian Express | 23.00% | ~9 |
-| Upgreatest | 20.00% | ~8 |
-| Deincarnated | 18.00% | ~7 |
-| Rock of the Bay | 18.00% | ~7 |
+| Kaijuiced | 68.00% | ~28 |
+| Lie Back and Think of Albion | 63.00% | ~26 |
+| Yettisoned | 54.00% | ~22 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 54.00% | ~22 |
+| I Look Up As I Walk to Takoshima | 49.00% | ~20 |
+| Lobster Blisque | 46.00% | ~19 |
+| Perfect Probulator | 44.00% | ~18 |
+| Shop Til They Drop | 41.00% | ~17 |
+| Freshly Squeezed | 34.00% | ~14 |
+| Ducks in a Row, Fish in a Barrel | 32.00% | ~13 |
+| Fly Me to the Moon Base | 29.00% | ~12 |
+| Forbidden Donut | 29.00% | ~12 |
+| Earthly Pleasures | 29.00% | ~12 |
+| Pimp My Raid | 27.00% | ~11 |
+| Bodied Sattva | 27.00% | ~11 |
+| Upgreatest | 22.00% | ~9 |
+| Trans-Siberian Express | 22.00% | ~9 |
+| Deincarnated | 17.00% | ~7 |
+| Rock of the Bay | 17.00% | ~7 |
 | Re-Return of the Clone of the Invasion II-2 | 15.00% | ~6 |
+| Furon Fashion | 12.00% | ~5 |
 | Arkvoodle Doodle | 10.00% | ~4 |
-| Furon Fashion | 10.00% | ~4 |
-| Ouch of Body Experience | 8.00% | ~3 |
-| Hidden Human Hive Harvest | 8.00% | ~3 |
-| Mash Machine | 8.00% | ~3 |
-| If You Know What I Mean | 5.00% | ~2 |
+| Ouch of Body Experience | 10.00% | ~4 |
+| If You Know What I Mean | 7.00% | ~3 |
+| Hidden Human Hive Harvest | 7.00% | ~3 |
+| Mash Machine | 7.00% | ~3 |
 | Die Nasty | 5.00% | ~2 |
 | Dusted | 5.00% | ~2 |
-| PK Slam Dunk | 3.00% | ~1 |
-| Path of the Furon | 3.00% | ~1 |
+| PK Slam Dunk | 2.00% | ~1 |
+| Path of the Furon | 2.00% | ~1 |
 | Scuttled | 0.00% | ~0 |
 | Transmitting From Sol-3 | 0.00% | ~0 |
 | Cult Following | 0.00% | ~0 |
@@ -47,13 +47,13 @@ Number of Ratings: 85  (23.09.2022)
 | Toilet Break | 0.00% | ~0 |
 | Against All Odds | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40 (Ranked 543)  
+Progressed: 41 (Ranked 542)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-12-18 | 23 | 0 |
-| 2023-12-19 | 40 | 0 |
+| 2023-12-19 | 41 | 0 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 490)  
 Sum: 34 (Ranked 515)  

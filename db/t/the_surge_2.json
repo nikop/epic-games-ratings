@@ -6,7 +6,7 @@
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 228,
-  "Ranking_EOS_Completed": 204,
+  "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
@@ -3723,9 +3723,9 @@
       "ID": "ACHV_18",
       "SetID": "8p5mlmc",
       "Name": "True Survivor",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 482
+      "UsersEstimate": 505
     },
     {
       "ID": "ACHV_19",
@@ -3875,9 +3875,9 @@
       "ID": "ACHV_37",
       "SetID": "8p5mlmc",
       "Name": "Luminary",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 505
+      "UsersEstimate": 528
     },
     {
       "ID": "ACHV_38",
@@ -3907,9 +3907,9 @@
       "ID": "ACHV_41",
       "SetID": "8p5mlmc",
       "Name": "Suited and Booted",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 872
+      "UsersEstimate": 895
     },
     {
       "ID": "ACHV_42",
@@ -4052,8 +4052,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-17T06:57:54.8643494+00:00",
-  "LastChanged_Achievements": "2023-12-19T10:04:49.0377156+00:00",
+  "LastChanged_Achievements": "2023-12-19T11:06:11.8783448+00:00",
   "LastUpdate_AppInfo": "2023-12-16T16:57:00.284762+00:00",
-  "LastUpdate_Ratings": "2023-12-19T09:58:47.5857805+00:00",
-  "LastUpdate_Achievements": "2023-12-19T10:04:49.0377724+00:00"
+  "LastUpdate_Ratings": "2023-12-19T10:59:53.5352909+00:00",
+  "LastUpdate_Achievements": "2023-12-19T11:06:11.878409+00:00"
 }

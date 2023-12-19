@@ -13,7 +13,7 @@
 | Experienced Thalya | 72.00% | ~425 |
 | Thalya's Concentrated Fury | 69.00% | ~407 |
 | Bad Elves Go Everywhere | 69.00% | ~407 |
-| Heroes’ Gorge | 64.00% | ~378 |
+| Heroes’ Gorge | 65.00% | ~384 |
 | Master of Magic | 63.00% | ~372 |
 | Unicorn steaks – fresh off the hoof! | 62.00% | ~366 |
 | Magic Accidents | 60.00% | ~354 |
@@ -30,7 +30,7 @@
 | Pure Dynamite! | 45.00% | ~266 |
 | Dungeonlord Gorgu | 45.00% | ~266 |
 | Tanos' Crusade Against Thalya | 45.00% | ~266 |
-| Mana Cannon | 41.00% | ~242 |
+| Mana Cannon | 42.00% | ~248 |
 | All’s Well That Ends Evil | 40.00% | ~236 |
 | The Duel | 36.00% | ~212 |
 | Unstoppable Horde | 35.00% | ~206 |
