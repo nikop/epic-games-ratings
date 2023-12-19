@@ -21,7 +21,7 @@
 | 19 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.86% |
 | 20 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 21 | [Doodle Devil](games/d/doodle_devil.md) | 20.69% |
-| 22 | [The Riflemen](games/t/the_riflemen.md) | 20.35% |
+| 22 | [The Riflemen](games/t/the_riflemen.md) | 20.34% |
 | 23 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 23 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.00% |
 | 25 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.16% |
@@ -74,7 +74,7 @@
 | 71 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 5.88% |
 | 73 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 5.73% |
 | 74 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
-| 75 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.30% |
+| 75 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.29% |
 | 76 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.13% |
 | 77 | [Bugsnax](games/b/bugsnax.md) | 4.86% |
 | 78 | [JARS](games/j/jars.md) | 4.81% |
@@ -140,7 +140,7 @@
 | 138 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.86% |
 | 139 | [Sifu](games/s/sifu.md) | 1.76% |
 | 140 | [Frogun](games/f/frogun.md) | 1.75% |
-| 141 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.67% |
+| 141 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.66% |
 | 142 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.64% |
 | 143 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.59% |
 | 144 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.57% |
@@ -155,8 +155,8 @@
 | 152 | [Poosh XL](games/p/poosh_xl.md) | 1.30% |
 | 154 | [Botanicula](games/5/5c7501617f3449c5a6eed7590392f9fa.md) | 1.28% |
 | 155 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.27% |
-| 156 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 1.23% |
-| 157 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.22% |
+| 156 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.22% |
+| 156 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 1.22% |
 | 158 | [Iron Danger](games/i/iron_danger.md) | 1.21% |
 | 159 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.19% |
 | 159 | [The Devil's Face](games/t/the_devil's_face.md) | 1.19% |
@@ -227,10 +227,10 @@
 | 224 | [Tchia](games/t/tchia.md) | 0.42% |
 | 226 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.40% |
 | 226 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.40% |
-| 226 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.40% |
 | 226 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.40% |
-| 230 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.39% |
-| 230 | [Wildermyth](games/w/wildermyth.md) | 0.39% |
+| 229 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.39% |
+| 229 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.39% |
+| 229 | [Wildermyth](games/w/wildermyth.md) | 0.39% |
 | 232 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.38% |
 | 232 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
 | 234 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.37% |
@@ -278,14 +278,14 @@
 | 273 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.18% |
 | 273 | [Scathe](games/s/scathe.md) | 0.18% |
 | 278 | [Blanc](games/b/blanc.md) | 0.17% |
-| 278 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.17% |
-| 280 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.16% |
-| 280 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
-| 280 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
-| 280 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
-| 280 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.16% |
-| 280 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.16% |
-| 280 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.16% |
+| 279 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.16% |
+| 279 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
+| 279 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
+| 279 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
+| 279 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.16% |
+| 279 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.16% |
+| 279 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.16% |
+| 279 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.16% |
 | 287 | [RAILGRADE](games/r/railgrade.md) | 0.15% |
 | 288 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.14% |
 | 289 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
