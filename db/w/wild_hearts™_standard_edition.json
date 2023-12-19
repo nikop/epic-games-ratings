@@ -4,7 +4,7 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 649,
+  "EOS_Progressed": 650,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 268,
+  "EOS_NewPlayers": 269,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.23,
   "EosHistory": [
@@ -2333,6 +2333,11 @@
       "Time": "2023-12-18T22:08:49.3622562+00:00",
       "NumProgressed": 649,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-19T00:08:35.9807771+00:00",
+      "NumProgressed": 650,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -2345,7 +2350,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "achievement_10",
@@ -2369,7 +2374,7 @@
       "Name": "Canyon of Karakuri",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "achievement_13",
@@ -2391,9 +2396,9 @@
       "ID": "achievement_15",
       "SetID": "2cpn27e",
       "Name": "Memory Rouser",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 305
+      "UsersEstimate": 299
     },
     {
       "ID": "achievement_16",
@@ -2417,7 +2422,7 @@
       "Name": "Man-Machine Master",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "achievement_19",
@@ -2449,7 +2454,7 @@
       "Name": "Left Arm Leverager",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "achievement_22",
@@ -2471,9 +2476,9 @@
       "ID": "achievement_24",
       "SetID": "2cpn27e",
       "Name": "Single Minded",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 162
+      "UsersEstimate": 169
     },
     {
       "ID": "achievement_25",
@@ -2481,7 +2486,7 @@
       "Name": "Volatile Vocation",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "achievement_26",
@@ -2505,7 +2510,7 @@
       "Name": "Flawless Crystal",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "achievement_29",
@@ -2519,9 +2524,9 @@
       "ID": "achievement_3",
       "SetID": "2cpn27e",
       "Name": "Bonds of Enmity",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 240
     },
     {
       "ID": "achievement_30",
@@ -2569,7 +2574,7 @@
       "Name": "Unrivaled in Arms",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "achievement_36",
@@ -2583,9 +2588,9 @@
       "ID": "achievement_37",
       "SetID": "2cpn27e",
       "Name": "Hidden History",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 461
+      "UsersEstimate": 468
     },
     {
       "ID": "achievement_38",
@@ -2601,7 +2606,7 @@
       "Name": "Big Spender",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "achievement_4",
@@ -2633,7 +2638,7 @@
       "Name": "Quintessence of Form",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "achievement_43",
@@ -2673,7 +2678,7 @@
       "Name": "Threaded Harmony",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "achievement_48",
@@ -2697,7 +2702,7 @@
       "Name": "Commencing of Quests",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "achievement_7",
@@ -2728,13 +2733,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 649,
+      "Progressed": 650,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-18T23:09:14.243065+00:00",
+  "LastChanged_Achievements": "2023-12-19T00:08:35.9807768+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:11.6761115+00:00",
-  "LastUpdate_Ratings": "2023-12-18T23:00:44.5698233+00:00",
-  "LastUpdate_Achievements": "2023-12-18T23:09:14.2431026+00:00"
+  "LastUpdate_Ratings": "2023-12-18T23:59:33.6149275+00:00",
+  "LastUpdate_Achievements": "2023-12-19T00:08:35.9808139+00:00"
 }

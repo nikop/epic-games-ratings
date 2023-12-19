@@ -7581,9 +7581,9 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 204823,
+  "EOS_Progressed": 204837,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 2363,
+  "EOS_NewPlayers": 2372,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -35351,6 +35351,11 @@
       "Time": "2023-12-18T23:09:53.667023+00:00",
       "NumProgressed": 204823,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-19T00:09:05.4448664+00:00",
+      "NumProgressed": 204837,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 16,
@@ -35362,7 +35367,7 @@
       "Name": "Throw The Book At Them",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 4096
+      "UsersEstimate": 4097
     },
     {
       "ID": "Achievement_1",
@@ -35394,7 +35399,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 32772
+      "UsersEstimate": 32774
     },
     {
       "ID": "Achievement_13",
@@ -35442,7 +35447,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 51206
+      "UsersEstimate": 51209
     },
     {
       "ID": "Achievement_5",
@@ -35450,7 +35455,7 @@
       "Name": "Iron Bars",
       "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 4096
+      "UsersEstimate": 4097
     },
     {
       "ID": "Achievement_6",
@@ -35458,7 +35463,7 @@
       "Name": "Confined",
       "Percentage": 0.3,
       "XP": 120,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "Achievement_7",
@@ -35474,7 +35479,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 18434
+      "UsersEstimate": 18435
     },
     {
       "ID": "Achievement_9",
@@ -35482,22 +35487,22 @@
       "Name": "Spare The Rod",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 10241
+      "UsersEstimate": 10242
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 204823,
+      "Progressed": 204837,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-12-18T13:05:05.6242144+00:00",
-  "LastChanged_Achievements": "2023-12-18T23:09:53.6670226+00:00",
+  "LastChanged_Achievements": "2023-12-19T00:09:05.444866+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:22.4491085+00:00",
-  "LastUpdate_Ratings": "2023-12-18T22:59:05.3940827+00:00",
-  "LastUpdate_Achievements": "2023-12-18T23:09:53.6671543+00:00"
+  "LastUpdate_Ratings": "2023-12-18T23:58:24.7588159+00:00",
+  "LastUpdate_Achievements": "2023-12-19T00:09:05.445043+00:00"
 }

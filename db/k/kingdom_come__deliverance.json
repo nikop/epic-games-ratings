@@ -2,7 +2,7 @@
   "ID": "ca4058f18b0a4a9e9e2ccc28f7f33000",
   "Name": "Kingdom Come: Deliverance",
   "ProductSlug": "kingdom-come-deliverance",
-  "Ranking_Rating": 198,
+  "Ranking_Rating": 199,
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 18,
@@ -9375,9 +9375,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 813218,
+  "EOS_Progressed": 813222,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 1088,
+  "EOS_NewPlayers": 1089,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -36735,6 +36735,11 @@
       "Time": "2023-12-18T23:10:04.6380583+00:00",
       "NumProgressed": 813218,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-19T00:09:14.0337732+00:00",
+      "NumProgressed": 813222,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 82,
@@ -36770,7 +36775,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 130115
+      "UsersEstimate": 130116
     },
     {
       "ID": "Awakening",
@@ -36778,7 +36783,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 170776
+      "UsersEstimate": 170777
     },
     {
       "ID": "BadGirl",
@@ -36826,7 +36831,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 260230
+      "UsersEstimate": 260231
     },
     {
       "ID": "Bookworm",
@@ -36842,7 +36847,7 @@
       "Name": "Buddy",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 97586
+      "UsersEstimate": 97587
     },
     {
       "ID": "Casanova",
@@ -36858,7 +36863,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 203304
+      "UsersEstimate": 203306
     },
     {
       "ID": "Chivalrous",
@@ -36946,7 +36951,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 187040
+      "UsersEstimate": 187041
     },
     {
       "ID": "Fighter",
@@ -36962,7 +36967,7 @@
       "Name": "Firestarter",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 130115
+      "UsersEstimate": 130116
     },
     {
       "ID": "Freud",
@@ -37066,7 +37071,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 105718
+      "UsersEstimate": 105719
     },
     {
       "ID": "Judas",
@@ -37146,7 +37151,7 @@
       "Name": "McLovin",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 56925
+      "UsersEstimate": 56926
     },
     {
       "ID": "MercenarysHonor",
@@ -37250,7 +37255,7 @@
       "Name": "Runt",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 56925
+      "UsersEstimate": 56926
     },
     {
       "ID": "Saviour",
@@ -37322,7 +37327,7 @@
       "Name": "Thief",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 97586
+      "UsersEstimate": 97587
     },
     {
       "ID": "TisButAScratch",
@@ -37401,15 +37406,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 813218,
+      "Progressed": 813222,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-12-18T20:58:49.6883785+00:00",
-  "LastChanged_Achievements": "2023-12-18T23:10:04.6380579+00:00",
+  "LastChanged_Achievements": "2023-12-19T00:09:14.0337728+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:26.6961501+00:00",
-  "LastUpdate_Ratings": "2023-12-18T22:59:01.2514756+00:00",
-  "LastUpdate_Achievements": "2023-12-18T23:10:04.6382369+00:00"
+  "LastUpdate_Ratings": "2023-12-18T23:58:21.778832+00:00",
+  "LastUpdate_Achievements": "2023-12-19T00:09:14.0339375+00:00"
 }

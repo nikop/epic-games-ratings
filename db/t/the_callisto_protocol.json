@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 327,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1635,10 +1635,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 521,
       "NumberOfAwardsMax": 88
+    },
+    {
+      "Time": "2023-12-19T00:02:52.9228093+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 522,
+      "NumberOfAwardsMax": 88
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 521,
+  "NumberOfAwards": 522,
   "NumberOfAwardsMax": 88,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -1646,7 +1652,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 85
+      "Count": 86
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1685,9 +1691,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 17946,
+  "EOS_Progressed": 17954,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1421,
+  "EOS_NewPlayers": 1429,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -10205,6 +10211,11 @@
       "Time": "2023-12-18T23:09:29.8403687+00:00",
       "NumProgressed": 17946,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-19T00:08:47.5765341+00:00",
+      "NumProgressed": 17954,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -10232,7 +10243,7 @@
       "Name": "Giving Back",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -10240,7 +10251,7 @@
       "Name": "You Need a Gun",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "DISARM_ENEMY",
@@ -10248,7 +10259,7 @@
       "Name": "Flesh Wound",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 2333
+      "UsersEstimate": 2334
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -10280,7 +10291,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -10320,7 +10331,7 @@
       "Name": "Get a Grip",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2333
+      "UsersEstimate": 2334
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -10328,7 +10339,7 @@
       "Name": "In Striking Distance",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "KILL_2HEAD",
@@ -10368,7 +10379,7 @@
       "Name": "The Commonality",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -10384,7 +10395,7 @@
       "Name": "Reforged",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1615
+      "UsersEstimate": 1616
     },
     {
       "ID": "PRINT_WEAPON",
@@ -10408,7 +10419,7 @@
       "Name": "The Outer Way",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2333
+      "UsersEstimate": 2334
     },
     {
       "ID": "STORY_ESCAPE",
@@ -10424,7 +10435,7 @@
       "Name": "Without A Paddle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "STORY_HANGAR",
@@ -10448,7 +10459,7 @@
       "Name": "Desperate Times",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1974
+      "UsersEstimate": 1975
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -10520,7 +10531,7 @@
       "Name": "Subject Alpha",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "SPEND_20000",
@@ -10560,7 +10571,7 @@
       "Name": "One Last Job",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "KILL_BIOBOT",
@@ -10568,7 +10579,7 @@
       "Name": "Keep Fighting",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -10591,22 +10602,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 17946,
+      "Progressed": 17954,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 5872,
+      "Progressed": 5880,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-12-18T22:02:56.2476216+00:00",
-  "LastChanged_Achievements": "2023-12-18T23:09:29.8403683+00:00",
+  "LastChanged": "2023-12-19T00:02:52.9228091+00:00",
+  "LastChanged_Achievements": "2023-12-19T00:08:47.5765337+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.4893565+00:00",
-  "LastUpdate_Ratings": "2023-12-18T23:03:08.1834734+00:00",
-  "LastUpdate_Achievements": "2023-12-18T23:09:29.8404768+00:00"
+  "LastUpdate_Ratings": "2023-12-19T00:02:52.9228096+00:00",
+  "LastUpdate_Achievements": "2023-12-19T00:08:47.5765946+00:00"
 }

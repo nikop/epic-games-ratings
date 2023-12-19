@@ -6,24 +6,24 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~37,496 |
-| Biggest Communism Builder | 24.00% | ~32,140 |
-| The World's Most Laughable Centrist | 20.00% | ~26,783 |
-| Il Coppo Del'Arte! | 18.00% | ~24,105 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,426 |
-| Hyperstellar Law Official | 16.00% | ~21,426 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~18,748 |
-| Gurdi-Ball Is Lit | 14.00% | ~18,748 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~17,409 |
+| Goodest Of The Good Cops | 28.00% | ~37,498 |
+| Biggest Communism Builder | 24.00% | ~32,141 |
+| The World's Most Laughable Centrist | 20.00% | ~26,784 |
+| Il Coppo Del'Arte! | 18.00% | ~24,106 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,427 |
+| Hyperstellar Law Official | 16.00% | ~21,427 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~18,749 |
+| Gurdi-Ball Is Lit | 14.00% | ~18,749 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~17,410 |
 | Truly Rabid *Traditionalist* | 11.00% | ~14,731 |
-| Unbelievably Boring **** | 9.00% | ~12,052 |
-| The Figurines Won't Win Her Back | 9.00% | ~12,052 |
-| Enemy Of The Physical Realm | 8.00% | ~10,713 |
+| Unbelievably Boring **** | 9.00% | ~12,053 |
+| The Figurines Won't Win Her Back | 9.00% | ~12,053 |
+| Enemy Of The Physical Realm | 8.00% | ~10,714 |
 | Hardie's Heroes | 6.00% | ~8,035 |
 | The Lawbringer | 4.00% | ~5,357 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,357 |
-| The Opener Of The Eighth Seal | 3.00% | ~4,017 |
-| Bother Kim After Hours | 3.00% | ~4,017 |
+| The Opener Of The Eighth Seal | 3.00% | ~4,018 |
+| Bother Kim After Hours | 3.00% | ~4,018 |
 | Baddest Of the Bad Cops | 2.00% | ~2,678 |
 | Expert Advanced Remote Viewer | 2.00% | ~2,678 |
 | Recruit Detective Kuuno de Ruyter | 2.00% | ~2,678 |
@@ -35,7 +35,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Real Musor | 0.90% | ~1,205 |
 | Baddest Brow in Town | 0.80% | ~1,071 |
 | Networthy Individual | 0.70% | ~937 |
-| Leopard Mindset | 0.60% | ~803 |
+| Leopard Mindset | 0.60% | ~804 |
 | Modus: Mullen | 0.30% | ~402 |
 | Palerunner | 0.30% | ~402 |
 | Cause a ****storm | 0.20% | ~268 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~134 |
 | What body? | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,915 (Ranked 84)  
+Progressed: 133,920 (Ranked 84)  
 Completed: 28 (0.02%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,6 +290,7 @@ Completed: 28 (0.02%) (Ranked 351)
 | 2023-12-16 | 133,249 | 28 |
 | 2023-12-17 | 133,659 | 28 |
 | 2023-12-18 | 133,915 | 28 |
+| 2023-12-19 | 133,920 | 28 |
 ## Awards
 Max (Character Customization): 748  (Ranked 183)  
 Sum: 1,142 (Ranked 256)  

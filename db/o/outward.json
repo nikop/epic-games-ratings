@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4009,
+  "EOS_Progressed": 4010,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 273,
+  "EOS_NewPlayers": 274,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -6411,6 +6411,11 @@
       "Time": "2023-12-18T22:04:17.4555957+00:00",
       "NumProgressed": 4009,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-19T00:04:17.9268061+00:00",
+      "NumProgressed": 4010,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -6422,7 +6427,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "AceDetective_9",
@@ -6446,7 +6451,7 @@
       "Name": "Apex Predator",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "BloodAndJustice_50",
@@ -6646,7 +6651,7 @@
       "Name": "Tapped!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1483
+      "UsersEstimate": 1484
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -6686,7 +6691,7 @@
       "Name": "The Power of Family",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -6757,15 +6762,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4009,
+      "Progressed": 4010,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-18T23:05:11.9158435+00:00",
+  "LastChanged_Achievements": "2023-12-19T00:04:17.9268057+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:45.1407734+00:00",
-  "LastUpdate_Ratings": "2023-12-18T23:02:41.9827484+00:00",
-  "LastUpdate_Achievements": "2023-12-18T23:05:11.9158893+00:00"
+  "LastUpdate_Ratings": "2023-12-19T00:02:34.8835208+00:00",
+  "LastUpdate_Achievements": "2023-12-19T00:04:17.9268496+00:00"
 }

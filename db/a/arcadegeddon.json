@@ -832,9 +832,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 10007,
+  "EOS_Progressed": 10008,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12962,6 +12962,11 @@
       "Time": "2023-12-18T16:07:26.594636+00:00",
       "NumProgressed": 10007,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-19T00:05:53.2302692+00:00",
+      "NumProgressed": 10008,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 50,
@@ -12973,7 +12978,7 @@
       "Name": "Adventure Time",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 7505
+      "UsersEstimate": 7506
     },
     {
       "ID": "ACH_BOOTY_BASHING",
@@ -13117,7 +13122,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 8706
+      "UsersEstimate": 8707
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -13141,7 +13146,7 @@
       "Name": "Meching Enemies",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 4603
+      "UsersEstimate": 4604
     },
     {
       "ID": "ACH_NATURE_IS_LIT",
@@ -13173,7 +13178,7 @@
       "Name": "Photogenic",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 8306
+      "UsersEstimate": 8307
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -13181,7 +13186,7 @@
       "Name": "Playing With Power",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 7305
+      "UsersEstimate": 7306
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -13213,7 +13218,7 @@
       "Name": "Rapid Response",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 3202
+      "UsersEstimate": 3203
     },
     {
       "ID": "ACH_RESCUE_RANGER",
@@ -13372,15 +13377,15 @@
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 10007,
+      "Progressed": 10008,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-12-06T04:01:07.9880717+00:00",
-  "LastChanged_Achievements": "2023-12-18T23:07:14.1205197+00:00",
+  "LastChanged_Achievements": "2023-12-19T00:05:53.2302688+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:43.1227205+00:00",
-  "LastUpdate_Ratings": "2023-12-18T23:00:27.902133+00:00",
-  "LastUpdate_Achievements": "2023-12-18T23:07:14.1205973+00:00"
+  "LastUpdate_Ratings": "2023-12-18T23:59:22.2366706+00:00",
+  "LastUpdate_Achievements": "2023-12-19T00:05:53.2303481+00:00"
 }

@@ -12,7 +12,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Climate Change | 16.00% | ~107,415 |
 | Toy Train | 14.00% | ~93,988 |
 | Advanced Hiker | 13.00% | ~87,275 |
-| Hiker | 12.00% | ~80,561 |
+| Hiker | 12.00% | ~80,562 |
 | Mojave Courier | 6.00% | ~40,281 |
 | Saved by Nausicaä | 6.00% | ~40,281 |
 | Advanced Voyager | 4.00% | ~26,854 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~671 |
 | 20 Miles under the Sea | 0.10% | ~671 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 671,343 (Ranked 29)  
+Progressed: 671,346 (Ranked 29)  
 Completed: 12 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,6 +302,7 @@ Completed: 12 (0.00%) (Ranked 383)
 | 2023-12-16 | 670,752 | 12 |
 | 2023-12-17 | 671,091 | 12 |
 | 2023-12-18 | 671,343 | 12 |
+| 2023-12-19 | 671,346 | 12 |
 ## Awards
 Max (Great for Beginners): 204  (Ranked 292)  
 Sum: 1,613 (Ranked 232)  

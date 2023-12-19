@@ -410,9 +410,9 @@
       "ID": "f1",
       "SetID": "b1ggf28",
       "Name": "Agriculture Tycoon",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "f2",
@@ -530,9 +530,9 @@
       "ID": "jk1",
       "SetID": "b1ggf28",
       "Name": "Treatment of plague",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "jk2",
@@ -578,9 +578,9 @@
       "ID": "k1",
       "SetID": "b1ggf28",
       "Name": "Advanced Technology",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "k2",
@@ -769,8 +769,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-18T23:06:20.0409412+00:00",
+  "LastChanged_Achievements": "2023-12-19T00:05:09.0012545+00:00",
   "LastUpdate_AppInfo": "2023-12-13T03:56:57.6568972+00:00",
-  "LastUpdate_Ratings": "2023-12-18T23:02:42.8667649+00:00",
-  "LastUpdate_Achievements": "2023-12-18T23:06:20.0409717+00:00"
+  "LastUpdate_Ratings": "2023-12-19T00:02:35.5017693+00:00",
+  "LastUpdate_Achievements": "2023-12-19T00:05:09.0012939+00:00"
 }

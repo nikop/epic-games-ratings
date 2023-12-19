@@ -23,7 +23,7 @@ Rating: 4.86 (Ranked 35)
 | Rascal | 18.00% | ~244 |
 | Champollion | 18.00% | ~244 |
 | Open door | 16.00% | ~217 |
-| Feels like springtime | 15.00% | ~204 |
+| Feels like springtime | 16.00% | ~217 |
 | Alchemists Express | 15.00% | ~204 |
 | Free at last | 14.00% | ~190 |
 | A Link to the Past | 12.00% | ~163 |

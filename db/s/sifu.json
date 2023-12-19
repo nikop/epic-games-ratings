@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 139,
   "Ranking_EOS_NewPlayers": 15,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8325,9 +8325,9 @@
       "Count": 433
     }
   ],
-  "EOS_Progressed": 734825,
+  "EOS_Progressed": 734850,
   "EOS_Completed": 12956,
-  "EOS_NewPlayers": 16854,
+  "EOS_NewPlayers": 16879,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.76,
   "EosHistory": [
@@ -29915,6 +29915,11 @@
       "Time": "2023-12-18T23:08:52.5400331+00:00",
       "NumProgressed": 734825,
       "NumCompleted": 12956
+    },
+    {
+      "Time": "2023-12-19T00:08:19.938537+00:00",
+      "NumProgressed": 734850,
+      "NumCompleted": 12956
     }
   ],
   "TotalAchievements": 60,
@@ -29926,7 +29931,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22045
+      "UsersEstimate": 22046
     },
     {
       "ID": "02_Vengeance_H1",
@@ -29934,7 +29939,7 @@
       "Name": "The Assault",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14696
+      "UsersEstimate": 14697
     },
     {
       "ID": "03_Vengeance_H2",
@@ -29958,7 +29963,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6613
+      "UsersEstimate": 6614
     },
     {
       "ID": "06_Vengeance_H5",
@@ -29982,7 +29987,7 @@
       "Name": "Tiger on Fire",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 2204
+      "UsersEstimate": 2205
     },
     {
       "ID": "09_Wude_H3",
@@ -29990,7 +29995,7 @@
       "Name": "Source of Flying Daggers",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 2204
+      "UsersEstimate": 2205
     },
     {
       "ID": "10_Wude_H4",
@@ -29998,7 +30003,7 @@
       "Name": "Iron Money",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 2204
+      "UsersEstimate": 2205
     },
     {
       "ID": "11_Wude_H5",
@@ -30006,7 +30011,7 @@
       "Name": "Legendary Talismans of Wuxing",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 2204
+      "UsersEstimate": 2205
     },
     {
       "ID": "12_MidAge",
@@ -30022,7 +30027,7 @@
       "Name": "Prodigal Child",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 2204
+      "UsersEstimate": 2205
     },
     {
       "ID": "14_DeathlessBoss_Trophy",
@@ -30030,7 +30035,7 @@
       "Name": "Kill Nil",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6613
+      "UsersEstimate": 6614
     },
     {
       "ID": "15_Detective_H1",
@@ -30102,7 +30107,7 @@
       "Name": "Life is your teacher",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14696
+      "UsersEstimate": 14697
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -30142,7 +30147,7 @@
       "Name": "The 36th Chamber of Kung-Fu",
       "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 2204
+      "UsersEstimate": 2205
     },
     {
       "ID": "29_FocusAttack_Trophy",
@@ -30182,7 +30187,7 @@
       "Name": "Sword Stained With Blood",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2204
+      "UsersEstimate": 2205
     },
     {
       "ID": "34_TimedTakedown",
@@ -30190,7 +30195,7 @@
       "Name": "Lightning Hands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14696
+      "UsersEstimate": 14697
     },
     {
       "ID": "35_WideStrike",
@@ -30270,7 +30275,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -30405,21 +30410,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 44126,
+      "Progressed": 44151,
       "Completed": 10775
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 734825,
+      "Progressed": 734850,
       "Completed": 12956
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-18T19:02:51.3747131+00:00",
-  "LastChanged_Achievements": "2023-12-18T23:08:52.5400325+00:00",
+  "LastChanged_Achievements": "2023-12-19T00:08:19.9385367+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:50.1499922+00:00",
-  "LastUpdate_Ratings": "2023-12-18T23:02:51.1640184+00:00",
-  "LastUpdate_Achievements": "2023-12-18T23:08:52.5401596+00:00"
+  "LastUpdate_Ratings": "2023-12-19T00:02:41.0535546+00:00",
+  "LastUpdate_Achievements": "2023-12-19T00:08:19.9386698+00:00"
 }

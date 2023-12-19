@@ -6,23 +6,23 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 87.00% | ~8,706 |
-| Photogenic | 83.00% | ~8,306 |
+| Let's Get This Party Started | 87.00% | ~8,707 |
+| Photogenic | 83.00% | ~8,307 |
 | Surge Gauntlet Jockey | 80.00% | ~8,006 |
 | Plug It In | 79.00% | ~7,906 |
-| Adventure Time | 75.00% | ~7,505 |
-| Playing With Power | 73.00% | ~7,305 |
+| Adventure Time | 75.00% | ~7,506 |
+| Playing With Power | 73.00% | ~7,306 |
 | Coup d'Etat | 56.00% | ~5,604 |
 | You're Fired | 54.00% | ~5,404 |
 | Get Furious | 53.00% | ~5,304 |
 | Hacks In Stacks | 53.00% | ~5,304 |
 | Gunplay And Cosplay | 52.00% | ~5,204 |
-| Meching Enemies | 46.00% | ~4,603 |
+| Meching Enemies | 46.00% | ~4,604 |
 | Ticket Toddler | 42.00% | ~4,203 |
 | Booty Bashing | 37.00% | ~3,703 |
 | Field Medic | 36.00% | ~3,603 |
 | Here Comes a New Challenger | 36.00% | ~3,603 |
-| Rapid Response | 32.00% | ~3,202 |
+| Rapid Response | 32.00% | ~3,203 |
 | Surge Ahead | 29.00% | ~2,902 |
 | The Full Monty | 29.00% | ~2,902 |
 | Guardian Angel | 26.00% | ~2,602 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~40 |
 | Pyrotechnical | 0.20% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,007 (Ranked 171)  
+Progressed: 10,008 (Ranked 171)  
 Completed: 2 (0.02%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,6 +300,7 @@ Completed: 2 (0.02%) (Ranked 351)
 | 2023-12-16 | 9,973 | 2 |
 | 2023-12-17 | 9,992 | 2 |
 | 2023-12-18 | 10,007 | 2 |
+| 2023-12-19 | 10,008 | 2 |
 ## Awards
 Max (Great for Beginners): 65  (Ranked 416)  
 Sum: 465 (Ranked 337)  

@@ -6,24 +6,24 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 3.00% | ~33,128 |
-| It wakes | 3.00% | ~33,128 |
-| Skillful | 3.00% | ~33,128 |
-| The Grand Sacrifice | 2.00% | ~22,086 |
-| No one left behind | 2.00% | ~22,086 |
-| Medic | 2.00% | ~22,086 |
-| Handyman | 2.00% | ~22,086 |
-| Not half bad | 2.00% | ~22,086 |
-| Bloody Millionaire | 2.00% | ~22,086 |
-| Apt Survivor | 2.00% | ~22,086 |
-| Survival Treasures | 2.00% | ~22,086 |
-| I | 2.00% | ~22,086 |
-| Sorted | 2.00% | ~22,086 |
-| Healthy Obsession | 2.00% | ~22,086 |
-| Resurgence | 2.00% | ~22,086 |
-| Preemptive Strike | 2.00% | ~22,086 |
-| Humanitarian | 2.00% | ~22,086 |
-| Make Some Noise | 2.00% | ~22,086 |
+| Zealous | 3.00% | ~33,130 |
+| It wakes | 3.00% | ~33,130 |
+| Skillful | 3.00% | ~33,130 |
+| The Grand Sacrifice | 2.00% | ~22,087 |
+| No one left behind | 2.00% | ~22,087 |
+| Medic | 2.00% | ~22,087 |
+| Handyman | 2.00% | ~22,087 |
+| Not half bad | 2.00% | ~22,087 |
+| Bloody Millionaire | 2.00% | ~22,087 |
+| Apt Survivor | 2.00% | ~22,087 |
+| Survival Treasures | 2.00% | ~22,087 |
+| I | 2.00% | ~22,087 |
+| Sorted | 2.00% | ~22,087 |
+| Healthy Obsession | 2.00% | ~22,087 |
+| Resurgence | 2.00% | ~22,087 |
+| Preemptive Strike | 2.00% | ~22,087 |
+| Humanitarian | 2.00% | ~22,087 |
+| Make Some Noise | 2.00% | ~22,087 |
 | Agonizing Escape | 1.00% | ~11,043 |
 | Backdoor Escape | 1.00% | ~11,043 |
 | I've got your back | 1.00% | ~11,043 |
@@ -46,11 +46,12 @@ Number of Ratings: 70,340  (23.09.2022)
 | With Scars to Show | 0.90% | ~9,939 |
 | Flight to Freedom | 0.90% | ~9,939 |
 | Chorus of Chaos | 0.90% | ~9,939 |
-| Blood on your hands | 0.80% | ~8,834 |
-| III-50 | 0.80% | ~8,834 |
-| Unforgettable Getaway | 0.80% | ~8,834 |
-| Old West Oasis | 0.80% | ~8,834 |
-| Raccoon City Recruit | 0.80% | ~8,834 |
+| Blood on your hands | 0.80% | ~8,835 |
+| III-50 | 0.80% | ~8,835 |
+| Cherish your Life | 0.80% | ~8,835 |
+| Unforgettable Getaway | 0.80% | ~8,835 |
+| Old West Oasis | 0.80% | ~8,835 |
+| Raccoon City Recruit | 0.80% | ~8,835 |
 | Made it out alive! | 0.70% | ~7,730 |
 | Gifts for the Fog | 0.70% | ~7,730 |
 | All Aboard | 0.70% | ~7,730 |
@@ -58,7 +59,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | House of Pain | 0.70% | ~7,730 |
 | Holiday Get-Together | 0.70% | ~7,730 |
 | Near-Death Experience | 0.70% | ~7,730 |
-| Cherish your Life | 0.70% | ~7,730 |
 | Cutting Out | 0.70% | ~7,730 |
 | Classy Act | 0.70% | ~7,730 |
 | One More Step | 0.70% | ~7,730 |
@@ -74,18 +74,18 @@ Number of Ratings: 70,340  (23.09.2022)
 | A Fast Death | 0.60% | ~6,626 |
 | Extraterrestrial | 0.60% | ~6,626 |
 | Outta Nowhere | 0.60% | ~6,626 |
-| A bite for the Entity | 0.50% | ~5,521 |
-| Hemophobia | 0.50% | ~5,521 |
-| Leapfrog | 0.50% | ~5,521 |
-| Serial Killer | 0.50% | ~5,521 |
-| Escaping the Nightmare | 0.50% | ~5,521 |
-| Devoted Gatekeeping | 0.50% | ~5,521 |
-| Shrine Apparatus | 0.50% | ~5,521 |
-| Selfless Survival | 0.50% | ~5,521 |
-| End of Days | 0.50% | ~5,521 |
-| Insult and Injury | 0.50% | ~5,521 |
-| Outrun the Overlap | 0.50% | ~5,521 |
-| Rebuilding The Borgo | 0.50% | ~5,521 |
+| A bite for the Entity | 0.50% | ~5,522 |
+| Hemophobia | 0.50% | ~5,522 |
+| Leapfrog | 0.50% | ~5,522 |
+| Serial Killer | 0.50% | ~5,522 |
+| Escaping the Nightmare | 0.50% | ~5,522 |
+| Devoted Gatekeeping | 0.50% | ~5,522 |
+| Shrine Apparatus | 0.50% | ~5,522 |
+| Selfless Survival | 0.50% | ~5,522 |
+| End of Days | 0.50% | ~5,522 |
+| Insult and Injury | 0.50% | ~5,522 |
+| Outrun the Overlap | 0.50% | ~5,522 |
+| Rebuilding The Borgo | 0.50% | ~5,522 |
 | Jump Scares | 0.40% | ~4,417 |
 | Deep Cleansing | 0.40% | ~4,417 |
 | Texas BBQ | 0.40% | ~4,417 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,104 |
 | Adept Good Guy | 0.10% | ~1,104 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,104,280 (Ranked 12)  
+Progressed: 1,104,344 (Ranked 12)  
 Completed: 63 (0.01%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -482,6 +482,7 @@ Completed: 63 (0.01%) (Ranked 359)
 | 2023-12-16 | 1,099,953 | 62 |
 | 2023-12-17 | 1,102,441 | 63 |
 | 2023-12-18 | 1,104,280 | 63 |
+| 2023-12-19 | 1,104,344 | 63 |
 ## Awards
 Max (Diverse Characters): 38,160  (Ranked 15)  
 Sum: 288,729 (Ranked 12)  

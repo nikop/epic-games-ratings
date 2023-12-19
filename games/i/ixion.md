@@ -9,10 +9,10 @@ Rating: 4.58 (Ranked 456)
 | Sputnik 2049 | 26.00% | ~928 |
 | Without Breaking Some Eggs... | 25.00% | ~892 |
 | Infinite Growth... | 25.00% | ~892 |
-| Ready for a New World | 18.00% | ~642 |
+| Ready for a New World | 18.00% | ~643 |
 | Space Society | 17.00% | ~607 |
 | A Thousand Strong | 17.00% | ~607 |
-| Permanent Redesigns | 15.00% | ~535 |
+| Permanent Redesigns | 15.00% | ~536 |
 | Fully Recycled | 14.00% | ~500 |
 | Ain't Nobody Got Time for That | 14.00% | ~500 |
 | The Ship of Theseus | 14.00% | ~500 |
@@ -27,9 +27,9 @@ Rating: 4.58 (Ranked 456)
 | Please Make it Stop! | 8.00% | ~286 |
 | Sightseeing | 7.00% | ~250 |
 | Necessary Enhancement | 7.00% | ~250 |
-| From the Past | 7.00% | ~250 |
 | Access Granted | 6.00% | ~214 |
 | All in Good Health | 6.00% | ~214 |
+| From the Past | 6.00% | ~214 |
 | Oats | 5.00% | ~178 |
 | What They Hide From Us | 5.00% | ~178 |
 | ...  in a finite world | 5.00% | ~178 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 456)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,569 (Ranked 211)  
+Progressed: 3,570 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,6 +296,7 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-16 | 3,519 | 0 |
 | 2023-12-17 | 3,550 | 0 |
 | 2023-12-18 | 3,569 | 0 |
+| 2023-12-19 | 3,570 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1080,9 +1080,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_MEDIUM",
       "SetID": "caeik3h",
       "Name": "No Survivors II",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_WITH_VEZNAN_POWERS",
@@ -1373,8 +1373,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-18T23:04:41.296444+00:00",
+  "LastChanged_Achievements": "2023-12-19T00:03:54.621247+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:06.9365218+00:00",
-  "LastUpdate_Ratings": "2023-12-18T23:01:22.9397612+00:00",
-  "LastUpdate_Achievements": "2023-12-18T23:04:41.296528+00:00"
+  "LastUpdate_Ratings": "2023-12-19T00:00:01.0618248+00:00",
+  "LastUpdate_Achievements": "2023-12-19T00:03:54.6213304+00:00"
 }

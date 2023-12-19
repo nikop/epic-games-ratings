@@ -4,75 +4,75 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Such a strange dream… | 88.00% | ~369 |
-| Your first fight | 86.00% | ~360 |
-| First winning | 84.00% | ~352 |
-| Good Person Chip | 84.00% | ~352 |
+| Such a strange dream… | 88.00% | ~370 |
+| Your first fight | 86.00% | ~361 |
+| Good Person Chip | 84.00% | ~353 |
+| First winning | 83.00% | ~349 |
 | Your first job | 82.00% | ~344 |
 | Fitness professional | 77.00% | ~323 |
 | Old movies enjoyer | 77.00% | ~323 |
 | Depressed visitor | 77.00% | ~323 |
-| Neurotrainer – power gainer! | 77.00% | ~323 |
-| Employee of the week | 76.00% | ~318 |
-| Your own amateur gym | 71.00% | ~297 |
-| First defeat | 70.00% | ~293 |
-| Run K, run! | 70.00% | ~293 |
-| Hello, world! | 68.00% | ~285 |
+| Neurotrainer – power gainer! | 76.00% | ~319 |
+| Employee of the week | 76.00% | ~319 |
+| Your own amateur gym | 71.00% | ~298 |
+| First defeat | 70.00% | ~294 |
+| Run K, run! | 70.00% | ~294 |
+| Hello, world! | 68.00% | ~286 |
 | No bullying more | 67.00% | ~281 |
 | Fighting is cool | 66.00% | ~277 |
-| Pal of your father? | 64.00% | ~268 |
+| Pal of your father? | 64.00% | ~269 |
 | Spirit of the past | 62.00% | ~260 |
 | Employee of the month | 61.00% | ~256 |
-| Law student | 58.00% | ~243 |
+| Law student | 58.00% | ~244 |
 | Workout professional | 57.00% | ~239 |
 | Little hacker | 56.00% | ~235 |
 | Handyman | 56.00% | ~235 |
 | Champion – starter pack | 56.00% | ~235 |
 | Intriguing candies | 56.00% | ~235 |
-| Fight for life | 55.00% | ~230 |
-| It's good to be alive | 55.00% | ~230 |
-| Own four walls | 55.00% | ~230 |
-| Employee of the year | 55.00% | ~230 |
-| Legal courier | 51.00% | ~214 |
+| Fight for life | 55.00% | ~231 |
+| It's good to be alive | 55.00% | ~231 |
+| Own four walls | 55.00% | ~231 |
+| Employee of the year | 55.00% | ~231 |
 | Extreme neuropower! | 51.00% | ~214 |
+| Legal courier | 50.00% | ~210 |
 | Escaped from a big trouble | 47.00% | ~197 |
 | Now you are worthy | 45.00% | ~189 |
-| Fight is life | 43.00% | ~180 |
-| Mysterious voice | 43.00% | ~180 |
+| Fight is life | 43.00% | ~181 |
+| Mysterious voice | 43.00% | ~181 |
 | Guiding on the right path | 42.00% | ~176 |
 | No blades in the gym | 40.00% | ~168 |
-| Champion – no way back | 39.00% | ~163 |
-| Underground dwellers | 38.00% | ~159 |
-| Responsible approach | 38.00% | ~159 |
-| Mom got better | 37.00% | ~155 |
+| Champion – no way back | 39.00% | ~164 |
+| Underground dwellers | 38.00% | ~160 |
+| Responsible approach | 38.00% | ~160 |
 | Deal with life | 37.00% | ~155 |
 | GYM professional | 37.00% | ~155 |
+| Mom got better | 36.00% | ~151 |
 | Poisoned fighter | 36.00% | ~151 |
 | The die is cast | 36.00% | ~151 |
-| Get out of my apartment! | 34.00% | ~142 |
-| Gang wrangler | 33.00% | ~138 |
-| Seashell hunter | 33.00% | ~138 |
-| Undercover robot | 33.00% | ~138 |
+| Get out of my apartment! | 34.00% | ~143 |
+| Gang wrangler | 33.00% | ~139 |
+| Seashell hunter | 33.00% | ~139 |
+| Undercover robot | 33.00% | ~139 |
 | Problems of cyborgs | 32.00% | ~134 |
 | Not little hacker | 32.00% | ~134 |
 | Absolute Champion! | 32.00% | ~134 |
-| Your own way | 32.00% | ~134 |
 | The lonesome road | 31.00% | ~130 |
-| Keep nature safe | 31.00% | ~130 |
-| Family comes first | 31.00% | ~130 |
-| Key memories | 31.00% | ~130 |
-| Careerist | 31.00% | ~130 |
-| The heart of the Resistance | 31.00% | ~130 |
+| Your own way | 31.00% | ~130 |
 | Trap disarmed | 30.00% | ~126 |
 | Another world | 30.00% | ~126 |
+| Keep nature safe | 30.00% | ~126 |
+| Family comes first | 30.00% | ~126 |
+| Key memories | 30.00% | ~126 |
+| Careerist | 30.00% | ~126 |
 | Anyone can resist | 30.00% | ~126 |
-| The last bell ring | 28.00% | ~117 |
+| The heart of the Resistance | 30.00% | ~126 |
+| The last bell ring | 28.00% | ~118 |
 | Silver’s past | 27.00% | ~113 |
 | Better cooking at home | 27.00% | ~113 |
 | The only right decision | 27.00% | ~113 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 419 (Ranked 339)  
-Completed: 9 (2.15%) (Ranked 133)  
+Progressed: 420 (Ranked 339)  
+Completed: 9 (2.14%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -169,3 +169,4 @@ Completed: 9 (2.15%) (Ranked 133)
 | 2023-12-16 | 399 | 9 |
 | 2023-12-17 | 409 | 9 |
 | 2023-12-18 | 419 | 9 |
+| 2023-12-19 | 420 | 9 |

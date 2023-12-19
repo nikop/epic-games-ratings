@@ -113,9 +113,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8869,
+  "EOS_Progressed": 8871,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8968,6 +8968,11 @@
       "Time": "2023-12-18T22:09:47.8757058+00:00",
       "NumProgressed": 8869,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T00:09:35.5490447+00:00",
+      "NumProgressed": 8871,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -9100,7 +9105,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2749
+      "UsersEstimate": 2750
     },
     {
       "ID": "GamesPlayed10",
@@ -9204,7 +9209,7 @@
       "Name": "Purchased Healing Station Ultimate",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "HandCannonUpgraded1",
@@ -9252,7 +9257,7 @@
       "Name": "Destroyed 3 Inhibitors",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "InhibitorKills30",
@@ -9276,7 +9281,7 @@
       "Name": "Upgraded the Laser to Level 3",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "MaxCreditsEarned50000",
@@ -9468,7 +9473,7 @@
       "Name": "Purchased Rapid Fire Support",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "RSPurchased1",
@@ -9516,7 +9521,7 @@
       "Name": "Upgraded the Shotgun to Level 3",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "SniperUpgraded1",
@@ -9564,14 +9569,14 @@
       "Name": "Upgraded Weaponized Capacitor to Level 3",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1065
     }
   ],
   "AchievementSets": [
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8869,
+      "Progressed": 8871,
       "Completed": 1
     }
   ],
@@ -9579,8 +9584,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-12-18T09:02:43.8513268+00:00",
-  "LastChanged_Achievements": "2023-12-18T23:10:31.9212854+00:00",
+  "LastChanged_Achievements": "2023-12-19T00:09:35.5490444+00:00",
   "LastUpdate_AppInfo": "2023-12-12T16:57:27.9940225+00:00",
-  "LastUpdate_Ratings": "2023-12-18T22:57:12.7598024+00:00",
-  "LastUpdate_Achievements": "2023-12-18T23:10:31.9213681+00:00"
+  "LastUpdate_Ratings": "2023-12-18T23:57:06.1770402+00:00",
+  "LastUpdate_Achievements": "2023-12-19T00:09:35.5491283+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "2e09c1d223094f3798f63873548c9454",
   "Name": "Tchia",
   "ProductSlug": "tchia",
-  "Ranking_Rating": 198,
+  "Ranking_Rating": 199,
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 181,
@@ -259,7 +259,7 @@
   "Tags": [],
   "EOS_Progressed": 8112,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -9575,9 +9575,9 @@
       "ID": "SOUL_CANON",
       "SetID": "3cck1g6",
       "Name": "Soul-Canon",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 487
+      "UsersEstimate": 568
     },
     {
       "ID": "THE_JOURNEY_ONWARDS",
@@ -9608,8 +9608,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-12-17T08:57:44.8415466+00:00",
-  "LastChanged_Achievements": "2023-12-18T23:05:14.5089566+00:00",
+  "LastChanged_Achievements": "2023-12-19T00:04:19.8219115+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:46.5620941+00:00",
-  "LastUpdate_Ratings": "2023-12-18T22:58:16.4776382+00:00",
-  "LastUpdate_Achievements": "2023-12-18T23:05:14.5090093+00:00"
+  "LastUpdate_Ratings": "2023-12-18T23:57:50.499681+00:00",
+  "LastUpdate_Achievements": "2023-12-19T00:04:19.8219706+00:00"
 }

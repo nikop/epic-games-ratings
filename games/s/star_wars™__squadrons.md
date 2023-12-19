@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~29,474 |
-| A Better Idea | 24.00% | ~7,446 |
-| Safety in the Storm | 23.00% | ~7,136 |
-| Begin the Ceremony | 20.00% | ~6,205 |
-| Mission Accomplished | 18.00% | ~5,584 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~4,654 |
-| Asset Secured | 13.00% | ~4,033 |
-| A Starfighter of Your Own | 13.00% | ~4,033 |
+| Fracture at Fostar Haven | 95.00% | ~29,483 |
+| A Better Idea | 24.00% | ~7,448 |
+| Safety in the Storm | 23.00% | ~7,138 |
+| Begin the Ceremony | 20.00% | ~6,207 |
+| Mission Accomplished | 18.00% | ~5,586 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~4,655 |
+| Asset Secured | 13.00% | ~4,035 |
+| A Starfighter of Your Own | 13.00% | ~4,035 |
 | Unkillable | 7.00% | ~2,172 |
 | Together, Vanguard | 7.00% | ~2,172 |
 | The Galaxy's Finest (Pilot) | 6.00% | ~1,862 |
 | Sound Strategy | 6.00% | ~1,862 |
-| Stomped | 5.00% | ~1,551 |
+| Stomped | 5.00% | ~1,552 |
 | Great Shot, Kid | 4.00% | ~1,241 |
 | Fearless | 4.00% | ~1,241 |
 | Back From the Brink | 4.00% | ~1,241 |
@@ -28,8 +28,8 @@
 | Squadron Hunter | 3.00% | ~931 |
 | Punch It | 3.00% | ~931 |
 | Combat Pilot | 3.00% | ~931 |
-| Stun 'Em | 2.00% | ~620 |
-| Dressed for the Job You Want | 2.00% | ~620 |
+| Stun 'Em | 2.00% | ~621 |
+| Dressed for the Job You Want | 2.00% | ~621 |
 | I Have You Now | 1.00% | ~310 |
 | Against the Current | 0.90% | ~279 |
 | Denied | 0.70% | ~217 |
@@ -52,7 +52,7 @@
 | Fully Decorated | 0.10% | ~31 |
 | The Galaxy's Finest (Ace) | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,025 (Ranked 130)  
+Progressed: 31,035 (Ranked 130)  
 Completed: 3 (0.01%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,6 +146,7 @@ Completed: 3 (0.01%) (Ranked 359)
 | 2023-12-16 | 30,243 | 2 |
 | 2023-12-17 | 30,732 | 2 |
 | 2023-12-18 | 31,025 | 3 |
+| 2023-12-19 | 31,035 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

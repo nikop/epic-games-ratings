@@ -6,10 +6,10 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 39.00% | ~216 |
+| Adept | 40.00% | ~222 |
 | Double Kill | 32.00% | ~178 |
 | Critical Hit | 18.00% | ~100 |
-| Veteran | 17.00% | ~94 |
+| Veteran | 17.00% | ~95 |
 | Dressed For Success | 12.00% | ~67 |
 | Humiliation | 8.00% | ~44 |
 | Multi Kill | 7.00% | ~39 |
@@ -17,7 +17,7 @@ Number of Ratings: 292  (23.09.2022)
 | Veni, Vidi, Vici | 7.00% | ~39 |
 | Landlord Extraordinaire | 6.00% | ~33 |
 | Master | 6.00% | ~33 |
-| Whoops! | 5.00% | ~28 |
+| Whoops! | 4.00% | ~22 |
 | Don't Touch My Stuff | 4.00% | ~22 |
 | The Song of Stoutheart | 3.00% | ~17 |
 | This Spot's Taken | 3.00% | ~17 |
@@ -32,11 +32,11 @@ Number of Ratings: 292  (23.09.2022)
 | Ultra Kill | 1.00% | ~6 |
 | Grand Master | 1.00% | ~6 |
 | From the Ashes | 0.90% | ~5 |
+| Together For Her | 0.70% | ~4 |
 | Get Over Here! | 0.70% | ~4 |
 | Death To Diplomacy | 0.50% | ~3 |
 | Unlimited Power! | 0.50% | ~3 |
 | Fully Charged | 0.50% | ~3 |
-| Together For Her | 0.50% | ~3 |
 | Attack Bonanza | 0.40% | ~2 |
 | Coming Through! | 0.40% | ~2 |
 | Barbecue | 0.40% | ~2 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 555 (Ranked 323)  
+Progressed: 556 (Ranked 323)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,6 +100,7 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-16 | 515 | 0 |
 | 2023-12-17 | 544 | 0 |
 | 2023-12-18 | 555 | 0 |
+| 2023-12-19 | 556 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 520)  
 Sum: 194 (Ranked 413)  

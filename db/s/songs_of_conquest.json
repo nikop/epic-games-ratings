@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 555,
+  "EOS_Progressed": 556,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2258,6 +2258,11 @@
       "Time": "2023-12-18T22:08:24.7797899+00:00",
       "NumProgressed": 555,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T00:08:10.6465229+00:00",
+      "NumProgressed": 556,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2460,9 +2465,9 @@
       "ID": "LothCampaign",
       "SetID": "71c0n9i",
       "Name": "Together For Her",
-      "Percentage": 0.5,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "LothCampaignFinaleOnHard",
@@ -2508,9 +2513,9 @@
       "ID": "QuickRetaliationDeath",
       "SetID": "71c0n9i",
       "Name": "Whoops!",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 22
     },
     {
       "ID": "RanaCampaign",
@@ -2596,9 +2601,9 @@
       "ID": "WielderLevel1",
       "SetID": "71c0n9i",
       "Name": "Adept",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 222
     },
     {
       "ID": "WielderLevel2",
@@ -2606,7 +2611,7 @@
       "Name": "Veteran",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "WielderLevel3",
@@ -2701,15 +2706,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 555,
+      "Progressed": 556,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-18T23:08:38.6633696+00:00",
+  "LastChanged_Achievements": "2023-12-19T00:08:10.6465226+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:10.4027668+00:00",
-  "LastUpdate_Ratings": "2023-12-18T22:57:12.7932914+00:00",
-  "LastUpdate_Achievements": "2023-12-18T23:08:38.6634153+00:00"
+  "LastUpdate_Ratings": "2023-12-18T23:57:06.2586206+00:00",
+  "LastUpdate_Achievements": "2023-12-19T00:08:10.6465763+00:00"
 }

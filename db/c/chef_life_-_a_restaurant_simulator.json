@@ -4,7 +4,7 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 806,
+  "EOS_Progressed": 807,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3507,6 +3507,11 @@
       "Time": "2023-12-18T21:09:32.1781842+00:00",
       "NumProgressed": 806,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T00:08:55.2296812+00:00",
+      "NumProgressed": 807,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -3678,7 +3683,7 @@
       "Name": "Haute Cuisine",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "Money10000",
@@ -3692,9 +3697,9 @@
       "ID": "OpenRestaurant",
       "SetID": "d1bm05f",
       "Name": "The Big Day",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 516
+      "UsersEstimate": 508
     },
     {
       "ID": "Packing20",
@@ -3837,7 +3842,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 806,
+      "Progressed": 807,
       "Completed": 0
     }
   ],
@@ -3845,8 +3850,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-12-18T23:09:40.0606779+00:00",
+  "LastChanged_Achievements": "2023-12-19T00:08:55.229681+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:31.9021331+00:00",
-  "LastUpdate_Ratings": "2023-12-18T22:57:50.5006178+00:00",
-  "LastUpdate_Achievements": "2023-12-18T23:09:40.0607194+00:00"
+  "LastUpdate_Ratings": "2023-12-18T23:57:31.4635233+00:00",
+  "LastUpdate_Achievements": "2023-12-19T00:08:55.229717+00:00"
 }

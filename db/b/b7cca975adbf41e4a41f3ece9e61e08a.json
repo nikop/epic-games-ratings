@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 54,
+  "Ranking_EOS_NewPlayers": 55,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2023-10-18T04:00:00+00:00",
@@ -211,9 +211,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 13914,
+  "EOS_Progressed": 13915,
   "EOS_Completed": 232,
-  "EOS_NewPlayers": 2983,
+  "EOS_NewPlayers": 2984,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 1.67,
   "EosHistory": [
@@ -6826,6 +6826,11 @@
       "Time": "2023-12-18T23:09:31.3648528+00:00",
       "NumProgressed": 13914,
       "NumCompleted": 232
+    },
+    {
+      "Time": "2023-12-19T00:08:48.6876053+00:00",
+      "NumProgressed": 13915,
+      "NumCompleted": 232
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -6838,7 +6843,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 12244
+      "UsersEstimate": 12245
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -6846,7 +6851,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 11409
+      "UsersEstimate": 11410
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -6934,7 +6939,7 @@
       "Name": "I Love How Tough You Are",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 9183
+      "UsersEstimate": 9184
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -6942,7 +6947,7 @@
       "Name": "Happy Family",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 4313
+      "UsersEstimate": 4314
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_21",
@@ -7022,7 +7027,7 @@
       "Name": "Wanna Come To My Place For Dinner?",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 8348
+      "UsersEstimate": 8349
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -7030,7 +7035,7 @@
       "Name": "New Yoga Pose Unlocked",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1391
+      "UsersEstimate": 1392
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_31",
@@ -7054,7 +7059,7 @@
       "Name": "To Be Or Not To Be",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 7096
+      "UsersEstimate": 7097
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -7086,7 +7091,7 @@
       "Name": "FIRST LOVE",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 4313
+      "UsersEstimate": 4314
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_0",
@@ -7110,7 +7115,7 @@
       "Name": "Drama CP: Reel to Real",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 4452
+      "UsersEstimate": 4453
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_3",
@@ -7142,7 +7147,7 @@
       "Name": "Worthless Speech",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 4313
+      "UsersEstimate": 4314
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_7",
@@ -7150,7 +7155,7 @@
       "Name": "Drama King",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 5148
+      "UsersEstimate": 5149
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_8",
@@ -7173,7 +7178,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 13914,
+      "Progressed": 13915,
       "Completed": 232
     }
   ],
@@ -7181,8 +7186,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-12-17T20:00:39.7714632+00:00",
-  "LastChanged_Achievements": "2023-12-18T23:09:31.3648523+00:00",
+  "LastChanged_Achievements": "2023-12-19T00:08:48.6876051+00:00",
   "LastUpdate_AppInfo": "2023-12-16T02:17:47.0313349+00:00",
-  "LastUpdate_Ratings": "2023-12-18T22:57:14.5646439+00:00",
-  "LastUpdate_Achievements": "2023-12-18T23:09:31.3648988+00:00"
+  "LastUpdate_Ratings": "2023-12-18T23:57:07.5190868+00:00",
+  "LastUpdate_Achievements": "2023-12-19T00:08:48.6876528+00:00"
 }

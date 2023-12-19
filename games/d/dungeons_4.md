@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 88.00% | ~518 |
+| The Last Stand | 89.00% | ~524 |
 | Thalya – Simply Immortal | 88.00% | ~518 |
 | For the Horde! | 83.00% | ~489 |
 | Hammer Time, Round Two | 81.00% | ~477 |
 | The Hellwoods | 77.00% | ~454 |
 | The Plains of Strothalm | 71.00% | ~418 |
 | Experienced Thalya | 71.00% | ~418 |
-| Thalya's Concentrated Fury | 68.00% | ~401 |
+| Thalya's Concentrated Fury | 69.00% | ~406 |
 | Bad Elves Go Everywhere | 68.00% | ~401 |
 | Heroes’ Gorge | 64.00% | ~377 |
 | Master of Magic | 63.00% | ~371 |
@@ -42,7 +42,7 @@
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 27.00% | ~159 |
 | Doom Hill | 27.00% | ~159 |
 | Hungry, Hungry Gorgu! | 26.00% | ~153 |
-| Stop Tanos! | 25.00% | ~147 |
+| Stop Tanos! | 26.00% | ~153 |
 | Sabotage! | 25.00% | ~147 |
 | Brimstone Shaken, Not Stirred | 25.00% | ~147 |
 | Bonus Evilness | 23.00% | ~135 |
@@ -66,7 +66,7 @@
 | No Mana, No Cry | 10.00% | ~59 |
 | I Don't Need Any Help | 8.00% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 589 (Ranked 317)  
+Progressed: 589 (Ranked 316)  
 Completed: 19 (3.23%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |

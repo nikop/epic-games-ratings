@@ -2,10 +2,10 @@
   "ID": "aa192fc2c63f4db5b9faf193acc807e1",
   "Name": "Creepy Tale",
   "ProductSlug": "creepy-tale-058ebd",
-  "Ranking_EOS_Progress": 429,
-  "Ranking_EOS_Completed": 62,
+  "Ranking_EOS_Progress": 427,
+  "Ranking_EOS_Completed": 63,
   "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2021-02-21T17:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 133,
+  "EOS_Progressed": 134,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 6.77,
+  "EOS_Completed_Percentage": 6.72,
   "EosHistory": [
     {
       "Time": "2023-10-22T10:08:20.3379882+00:00",
@@ -604,6 +604,11 @@
       "Time": "2023-12-18T20:09:44.1468042+00:00",
       "NumProgressed": 133,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-19T00:09:25.4940929+00:00",
+      "NumProgressed": 134,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-10-22T10:08:20.3379913+00:00",
@@ -632,15 +637,15 @@
       "Name": "Alchemist",
       "Percentage": 53,
       "XP": 75,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "creepytaleach12",
       "SetID": "bnif31p",
       "Name": "Sweet feeling",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 80,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "creepytaleach13",
@@ -654,9 +659,9 @@
       "ID": "creepytaleach2",
       "SetID": "bnif31p",
       "Name": "Naivety",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 75,
-      "UsersEstimate": 47
+      "UsersEstimate": 46
     },
     {
       "ID": "creepytaleach3",
@@ -664,7 +669,7 @@
       "Name": "Happy end",
       "Percentage": 40,
       "XP": 75,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "creepytaleach4",
@@ -686,9 +691,9 @@
       "ID": "creepytaleach6",
       "SetID": "bnif31p",
       "Name": "Dead together",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 80,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "creepytaleach7",
@@ -712,21 +717,21 @@
       "Name": "Idler",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     }
   ],
   "AchievementSets": [
     {
       "ID": "bnif31p",
       "IsBase": true,
-      "Progressed": 133,
+      "Progressed": 134,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2023-12-18T23:10:19.7227221+00:00",
+  "LastChanged_Achievements": "2023-12-19T00:09:25.4940926+00:00",
   "LastUpdate_AppInfo": "2023-12-13T06:57:05.952085+00:00",
-  "LastUpdate_Ratings": "2023-12-18T23:00:14.649308+00:00",
-  "LastUpdate_Achievements": "2023-12-18T23:10:19.7227317+00:00"
+  "LastUpdate_Ratings": "2023-12-18T23:59:12.3706917+00:00",
+  "LastUpdate_Achievements": "2023-12-19T00:09:25.494102+00:00"
 }

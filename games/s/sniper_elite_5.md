@@ -6,14 +6,14 @@ Rating: 4.44 (Ranked 684)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 47.00% | ~1,907 |
-| Confirming Suspicions | 42.00% | ~1,704 |
+| Confirming Suspicions | 41.00% | ~1,664 |
 | The Kraken Wakes | 37.00% | ~1,501 |
-| It's Starting to Crack | 34.00% | ~1,379 |
+| It's Starting to Crack | 34.00% | ~1,380 |
 | Change the Channel | 31.00% | ~1,258 |
 | Lord of War | 30.00% | ~1,217 |
 | Taking it back | 29.00% | ~1,177 |
-| Resourceful | 27.00% | ~1,095 |
-| Target America | 27.00% | ~1,095 |
+| Resourceful | 27.00% | ~1,096 |
+| Target America | 27.00% | ~1,096 |
 | The Kraken Sleeps | 25.00% | ~1,014 |
 | As Quiet as a Mouse | 24.00% | ~974 |
 | Liberté | 23.00% | ~933 |
@@ -33,13 +33,13 @@ Rating: 4.44 (Ranked 684)
 | Opposing Force | 14.00% | ~568 |
 | Enemy at the Gates | 14.00% | ~568 |
 | Fields of Glory | 14.00% | ~568 |
-| Set Europe Ablaze | 13.00% | ~527 |
+| Set Europe Ablaze | 13.00% | ~528 |
 | Precision Is Key | 10.00% | ~406 |
 | My Little Friend | 10.00% | ~406 |
 | Rigged to Blow | 9.00% | ~365 |
 | Herr Today, Gone Tomorrow | 7.00% | ~281 |
 | The Long Game | 6.00% | ~243 |
-| Operation Foxley | 6.00% | ~240 |
+| Operation Foxley | 6.00% | ~241 |
 | Strategist | 5.00% | ~203 |
 | Tinkerer | 5.00% | ~203 |
 | It'll Buff Right Out | 5.00% | ~203 |
@@ -77,8 +77,8 @@ Rating: 4.44 (Ranked 684)
 | Going Overboard | 0.60% | ~24 |
 | Stroll in the Woods | 0.50% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,057 (Ranked 203)  
-Completed: 11 (0.27%) (Ranked 253)  
+Progressed: 4,058 (Ranked 203)  
+Completed: 11 (0.27%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -318,6 +318,7 @@ Completed: 11 (0.27%) (Ranked 253)
 | 2023-12-16 | 4,034 | 11 |
 | 2023-12-17 | 4,049 | 11 |
 | 2023-12-18 | 4,057 | 11 |
+| 2023-12-19 | 4,058 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 516)  
 Sum: 28 (Ranked 530)  

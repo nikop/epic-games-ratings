@@ -2,7 +2,7 @@
   "ID": "0acc28c619c44fbab3dd30c7f87e9679",
   "Name": "SpellForce: Conquest of Eo",
   "ProductSlug": "spellforce-conquest-of-eo",
-  "Ranking_EOS_Progress": 504,
+  "Ranking_EOS_Progress": 505,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 314,
   "Ranking_EOS_NewCompleters": 158,
@@ -352,9 +352,9 @@
       "ID": "Build_First_Lodge",
       "SetID": "7b9f97e",
       "Name": "Expansion",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Build_First_Room",
@@ -520,9 +520,9 @@
       "ID": "Harvest_First_Plant",
       "SetID": "7b9f97e",
       "Name": "Harvest Time",
-      "Percentage": 60,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "HeroStory_Elynn",
@@ -913,8 +913,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-12-18T23:09:19.8720486+00:00",
+  "LastChanged_Achievements": "2023-12-19T00:08:40.4385623+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:09.2965751+00:00",
-  "LastUpdate_Ratings": "2023-12-18T22:59:56.7474575+00:00",
-  "LastUpdate_Achievements": "2023-12-18T23:09:19.8720932+00:00"
+  "LastUpdate_Ratings": "2023-12-18T23:58:59.7967066+00:00",
+  "LastUpdate_Achievements": "2023-12-19T00:08:40.4386088+00:00"
 }

@@ -837,9 +837,9 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 81
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -869,9 +869,9 @@
       "ID": "AC_DISTANCE_2",
       "SetID": "16i2akc",
       "Name": "Journey",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -1012,8 +1012,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-18T23:07:17.1596452+00:00",
+  "LastChanged_Achievements": "2023-12-19T00:05:55.4806454+00:00",
   "LastUpdate_AppInfo": "2023-12-12T20:56:56.8907916+00:00",
-  "LastUpdate_Ratings": "2023-12-18T23:00:05.5201552+00:00",
-  "LastUpdate_Achievements": "2023-12-18T23:07:17.1596755+00:00"
+  "LastUpdate_Ratings": "2023-12-18T23:59:06.0499041+00:00",
+  "LastUpdate_Achievements": "2023-12-19T00:05:55.4806672+00:00"
 }

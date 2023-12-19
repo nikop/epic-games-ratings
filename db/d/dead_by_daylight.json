@@ -13988,9 +13988,9 @@
       "Count": 28234
     }
   ],
-  "EOS_Progressed": 1104280,
+  "EOS_Progressed": 1104344,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 15534,
+  "EOS_NewPlayers": 15528,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -41923,6 +41923,11 @@
       "Time": "2023-12-18T23:10:33.4988293+00:00",
       "NumProgressed": 1104280,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-12-19T00:09:37.0450244+00:00",
+      "NumProgressed": 1104344,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 232,
@@ -41934,7 +41939,7 @@
       "Name": "The Grand Sacrifice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 22086
+      "UsersEstimate": 22087
     },
     {
       "ID": "ACH_002",
@@ -41942,7 +41947,7 @@
       "Name": "A bite for the Entity",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 5521
+      "UsersEstimate": 5522
     },
     {
       "ID": "ACH_003",
@@ -41958,7 +41963,7 @@
       "Name": "Blood on your hands",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 8834
+      "UsersEstimate": 8835
     },
     {
       "ID": "ACH_005",
@@ -42054,7 +42059,7 @@
       "Name": "No one left behind",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 22086
+      "UsersEstimate": 22087
     },
     {
       "ID": "ACH_017",
@@ -42062,7 +42067,7 @@
       "Name": "Medic",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 22086
+      "UsersEstimate": 22087
     },
     {
       "ID": "ACH_018",
@@ -42070,7 +42075,7 @@
       "Name": "Handyman",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 22086
+      "UsersEstimate": 22087
     },
     {
       "ID": "ACH_019",
@@ -42102,7 +42107,7 @@
       "Name": "Zealous",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 33128
+      "UsersEstimate": 33130
     },
     {
       "ID": "ACH_023",
@@ -42110,7 +42115,7 @@
       "Name": "It wakes",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 33128
+      "UsersEstimate": 33130
     },
     {
       "ID": "ACH_024",
@@ -42118,7 +42123,7 @@
       "Name": "Not half bad",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 22086
+      "UsersEstimate": 22087
     },
     {
       "ID": "ACH_025",
@@ -42126,7 +42131,7 @@
       "Name": "Bloody Millionaire",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 22086
+      "UsersEstimate": 22087
     },
     {
       "ID": "ACH_026",
@@ -42142,7 +42147,7 @@
       "Name": "Apt Survivor",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 22086
+      "UsersEstimate": 22087
     },
     {
       "ID": "ACH_028",
@@ -42166,7 +42171,7 @@
       "Name": "Survival Treasures",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 22086
+      "UsersEstimate": 22087
     },
     {
       "ID": "ACH_031",
@@ -42238,7 +42243,7 @@
       "Name": "Skillful",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 33128
+      "UsersEstimate": 33130
     },
     {
       "ID": "ACH_040",
@@ -42246,7 +42251,7 @@
       "Name": "I",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 22086
+      "UsersEstimate": 22087
     },
     {
       "ID": "ACH_041",
@@ -42270,7 +42275,7 @@
       "Name": "III-50",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 8834
+      "UsersEstimate": 8835
     },
     {
       "ID": "ACH_044",
@@ -42302,7 +42307,7 @@
       "Name": "Hemophobia",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 5521
+      "UsersEstimate": 5522
     },
     {
       "ID": "ACH_048",
@@ -42406,7 +42411,7 @@
       "Name": "Leapfrog",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5521
+      "UsersEstimate": 5522
     },
     {
       "ID": "ACH_061",
@@ -42502,7 +42507,7 @@
       "Name": "Sorted",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 22086
+      "UsersEstimate": 22087
     },
     {
       "ID": "ACH_073",
@@ -42550,7 +42555,7 @@
       "Name": "Serial Killer",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 5521
+      "UsersEstimate": 5522
     },
     {
       "ID": "ACH_079",
@@ -42574,7 +42579,7 @@
       "Name": "Escaping the Nightmare",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5521
+      "UsersEstimate": 5522
     },
     {
       "ID": "ACH_082",
@@ -42644,9 +42649,9 @@
       "ID": "ACH_090",
       "SetID": "16jml5b",
       "Name": "Cherish your Life",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 7730
+      "UsersEstimate": 8835
     },
     {
       "ID": "ACH_091",
@@ -42790,7 +42795,7 @@
       "Name": "Unforgettable Getaway",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 8834
+      "UsersEstimate": 8835
     },
     {
       "ID": "ACH_109",
@@ -42806,7 +42811,7 @@
       "Name": "Devoted Gatekeeping",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5521
+      "UsersEstimate": 5522
     },
     {
       "ID": "ACH_111",
@@ -42838,7 +42843,7 @@
       "Name": "Shrine Apparatus",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5521
+      "UsersEstimate": 5522
     },
     {
       "ID": "ACH_115",
@@ -43046,7 +43051,7 @@
       "Name": "Old West Oasis",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 8834
+      "UsersEstimate": 8835
     },
     {
       "ID": "ACH_144",
@@ -43054,7 +43059,7 @@
       "Name": "Selfless Survival",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 5521
+      "UsersEstimate": 5522
     },
     {
       "ID": "ACH_145",
@@ -43102,7 +43107,7 @@
       "Name": "Healthy Obsession",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 22086
+      "UsersEstimate": 22087
     },
     {
       "ID": "ACH_151",
@@ -43150,7 +43155,7 @@
       "Name": "Resurgence",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 22086
+      "UsersEstimate": 22087
     },
     {
       "ID": "ACH_157",
@@ -43174,7 +43179,7 @@
       "Name": "End of Days",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 5521
+      "UsersEstimate": 5522
     },
     {
       "ID": "ACH_160",
@@ -43238,7 +43243,7 @@
       "Name": "Insult and Injury",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5521
+      "UsersEstimate": 5522
     },
     {
       "ID": "ACH_168",
@@ -43270,7 +43275,7 @@
       "Name": "Preemptive Strike",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 22086
+      "UsersEstimate": 22087
     },
     {
       "ID": "ACH_172",
@@ -43286,7 +43291,7 @@
       "Name": "Raccoon City Recruit",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 8834
+      "UsersEstimate": 8835
     },
     {
       "ID": "ACH_174",
@@ -43342,7 +43347,7 @@
       "Name": "Humanitarian",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 22086
+      "UsersEstimate": 22087
     },
     {
       "ID": "ACH_181",
@@ -43478,7 +43483,7 @@
       "Name": "Outrun the Overlap",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 5521
+      "UsersEstimate": 5522
     },
     {
       "ID": "ACH_198",
@@ -43574,7 +43579,7 @@
       "Name": "Rebuilding The Borgo",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 5521
+      "UsersEstimate": 5522
     },
     {
       "ID": "ACH_210",
@@ -43702,7 +43707,7 @@
       "Name": "Make Some Noise",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 22086
+      "UsersEstimate": 22087
     },
     {
       "ID": "ACH_226",
@@ -43789,21 +43794,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 1104280,
+      "Progressed": 1104344,
       "Completed": 73
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 1104280,
+      "Progressed": 1104344,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-12-18T21:57:55.3318482+00:00",
-  "LastChanged_Achievements": "2023-12-18T23:10:33.4988289+00:00",
+  "LastChanged_Achievements": "2023-12-19T00:09:37.0450242+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:18.8873949+00:00",
-  "LastUpdate_Ratings": "2023-12-18T22:58:39.7698328+00:00",
-  "LastUpdate_Achievements": "2023-12-18T23:10:33.4993519+00:00"
+  "LastUpdate_Ratings": "2023-12-18T23:58:06.5447995+00:00",
+  "LastUpdate_Achievements": "2023-12-19T00:09:37.0455826+00:00"
 }

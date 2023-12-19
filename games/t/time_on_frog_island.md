@@ -8,13 +8,13 @@
 | Sea Legs | 66.00% | ~19 |
 | What?! | 41.00% | ~12 |
 | Frogs Legs | 28.00% | ~8 |
-| Mad Scientist | 21.00% | ~6 |
+| Mad Scientist | 24.00% | ~7 |
 | Socialite | 17.00% | ~5 |
 | Hoist the Sails | 17.00% | ~5 |
 | Secure the Sheets | 17.00% | ~5 |
+| Who Even Needs Keys | 14.00% | ~4 |
 | Couch-surfing | 14.00% | ~4 |
 | Hands on the Helm | 14.00% | ~4 |
-| Who Even Needs Keys | 10.00% | ~3 |
 | Shrub-Seeing: Townlife | 10.00% | ~3 |
 | Shrub-Seeing: Silly Birbs | 10.00% | ~3 |
 | Sailor Swift | 10.00% | ~3 |

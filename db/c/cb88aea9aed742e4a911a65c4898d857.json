@@ -87,9 +87,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5250,
+  "EOS_Progressed": 5259,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2903,
+  "EOS_NewPlayers": 2898,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1462,6 +1462,11 @@
       "Time": "2023-12-18T23:09:55.3286331+00:00",
       "NumProgressed": 5250,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T00:09:06.7741959+00:00",
+      "NumProgressed": 5259,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -1474,7 +1479,7 @@
       "Name": "Conspiracy",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1052
     },
     {
       "ID": "03_TheStolenStar",
@@ -1482,7 +1487,7 @@
       "Name": "Stolen Star",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -1586,7 +1591,7 @@
       "Name": "The Rise",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "17_TheExemplar",
@@ -1602,7 +1607,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "19_TheVoidWolf",
@@ -1618,7 +1623,7 @@
       "Name": "Purge the Unclean",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "21_PreciseDefense",
@@ -1650,7 +1655,7 @@
       "Name": "Highrise",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "25_DynastyProspers",
@@ -1658,7 +1663,7 @@
       "Name": "The Dynasty Prospers",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "26_MasterOfTheTrade",
@@ -1682,7 +1687,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -1690,7 +1695,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "30_The GreatestExploration",
@@ -1698,7 +1703,7 @@
       "Name": "Greatest Exploration",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "31_DontTouchThis",
@@ -1722,7 +1727,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -1746,7 +1751,7 @@
       "Name": "Adventurous Archaeologist",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "37_TheSirenicalDiplomat",
@@ -1786,7 +1791,7 @@
       "Name": "Jungle Heat",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "42_TheIronJudgement",
@@ -1834,7 +1839,7 @@
       "Name": "A Flame",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "48_TheUnexpectedCompany",
@@ -1858,7 +1863,7 @@
       "Name": "Whodunit?",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "51_AmendsToTheDead",
@@ -1874,7 +1879,7 @@
       "Name": "Frog Trader",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "53_GardensOfMadness",
@@ -1882,7 +1887,7 @@
       "Name": "Enraged Dragon",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "54_ThisIsAJobForLordCaptain",
@@ -1890,7 +1895,7 @@
       "Name": "This Is a Job for the Lord Captain!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "55_ReturningTheBoots",
@@ -1906,7 +1911,7 @@
       "Name": "Thorough Investigation",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "57_TheBurningHeritage",
@@ -1954,7 +1959,7 @@
       "Name": "Invisible Bureaucracy",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "63_YouShouldGoToAnotherWindow",
@@ -1993,7 +1998,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 5250,
+      "Progressed": 5259,
       "Completed": 0
     }
   ],
@@ -2001,8 +2006,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-18T21:59:34.9324272+00:00",
-  "LastChanged_Achievements": "2023-12-18T23:09:55.3286328+00:00",
+  "LastChanged_Achievements": "2023-12-19T00:09:06.7741957+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:14.7846288+00:00",
-  "LastUpdate_Ratings": "2023-12-18T23:01:10.1081071+00:00",
-  "LastUpdate_Achievements": "2023-12-18T23:09:55.3286868+00:00"
+  "LastUpdate_Ratings": "2023-12-18T23:59:52.0460186+00:00",
+  "LastUpdate_Achievements": "2023-12-19T00:09:06.774259+00:00"
 }

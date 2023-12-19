@@ -6,7 +6,7 @@
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 273,
-  "Ranking_EOS_Completed": 301,
+  "Ranking_EOS_Completed": 300,
   "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
@@ -222,9 +222,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 1050,
+  "EOS_Progressed": 1051,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2712,6 +2712,11 @@
       "Time": "2023-12-18T23:04:43.1669484+00:00",
       "NumProgressed": 1050,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T00:03:56.0607543+00:00",
+      "NumProgressed": 1051,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2732,7 +2737,7 @@
       "Name": "Ab Initio",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "AnthropicHills",
@@ -2764,7 +2769,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "BreakTheLoop",
@@ -2812,7 +2817,7 @@
       "Name": "Desolate Island",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "Discovery",
@@ -2868,7 +2873,7 @@
       "Name": "Good Citizen",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "GrasslandsRing",
@@ -2876,7 +2881,7 @@
       "Name": "Grasslands Ring",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "HighPlain",
@@ -2900,7 +2905,7 @@
       "Name": "Just One Lap",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "LordOfTheFiles",
@@ -2916,7 +2921,7 @@
       "Name": "Lost Marshes",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "MistressOfRiddles",
@@ -2988,7 +2993,7 @@
       "Name": "Persistent",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "PrometheusUnbound",
@@ -3036,7 +3041,7 @@
       "Name": "Signatory",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "SingleRod",
@@ -3084,7 +3089,7 @@
       "Name": "The All-Gifted",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "TheEdgeOfForever",
@@ -3124,7 +3129,7 @@
       "Name": "The Thief of Fire",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "TheWordEndures",
@@ -3140,7 +3145,7 @@
       "Name": "Touch Grass",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "TrevorsBiographer",
@@ -3195,7 +3200,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1050,
+      "Progressed": 1051,
       "Completed": 1
     }
   ],
@@ -3203,8 +3208,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-18T23:04:43.166948+00:00",
+  "LastChanged_Achievements": "2023-12-19T00:03:56.060754+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-18T22:59:25.2841903+00:00",
-  "LastUpdate_Achievements": "2023-12-18T23:04:43.1669926+00:00"
+  "LastUpdate_Ratings": "2023-12-18T23:58:38.4758292+00:00",
+  "LastUpdate_Achievements": "2023-12-19T00:03:56.0608213+00:00"
 }

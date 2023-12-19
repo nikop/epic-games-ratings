@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 75,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -40,7 +40,7 @@
   "EOS_Progressed": 1357,
   "EOS_Completed": 72,
   "EOS_NewPlayers": 404,
-  "EOS_NewCompleters": 18,
+  "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 5.31,
   "EosHistory": [
     {
@@ -4565,9 +4565,9 @@
       "ID": "META_RESULT_1-4",
       "SetID": "2gma9an",
       "Name": "Feels like springtime",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 204
+      "UsersEstimate": 217
     },
     {
       "ID": "META_RESULT_2-3",
@@ -4710,8 +4710,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-17T17:02:33.5506237+00:00",
-  "LastChanged_Achievements": "2023-12-18T23:07:18.1099491+00:00",
+  "LastChanged_Achievements": "2023-12-19T00:05:56.1326879+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:30.8935759+00:00",
-  "LastUpdate_Ratings": "2023-12-18T22:57:33.7550874+00:00",
-  "LastUpdate_Achievements": "2023-12-18T23:07:18.1099809+00:00"
+  "LastUpdate_Ratings": "2023-12-18T23:57:20.0822703+00:00",
+  "LastUpdate_Achievements": "2023-12-19T00:05:56.1327188+00:00"
 }

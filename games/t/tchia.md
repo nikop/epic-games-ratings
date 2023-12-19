@@ -1,7 +1,7 @@
 # Tchia
 [Store](https://store.epicgames.com/en-US/p/tchia)  
 [View Rawdata](../../db/t/tchia.json)  
-Rating: 4.71 (Ranked 198)  
+Rating: 4.71 (Ranked 199)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,9 +13,9 @@ Rating: 4.71 (Ranked 198)
 | Ahem Ahem | 10.00% | ~811 |
 | Audiophile | 8.00% | ~649 |
 | Clay Pigeon | 7.00% | ~568 |
+| Soul-Canon | 7.00% | ~568 |
 | Historian | 6.00% | ~487 |
 | Iconoclast | 6.00% | ~487 |
-| Soul-Canon | 6.00% | ~487 |
 | Happy Camper | 5.00% | ~406 |
 | Liberator | 5.00% | ~406 |
 | Shredder | 5.00% | ~406 |

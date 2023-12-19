@@ -6,36 +6,36 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kaijuiced | 70.00% | ~16 |
-| Lie Back and Think of Albion | 57.00% | ~13 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 52.00% | ~12 |
-| Yettisoned | 48.00% | ~11 |
-| Lobster Blisque | 43.00% | ~10 |
-| I Look Up As I Walk to Takoshima | 39.00% | ~9 |
-| Freshly Squeezed | 35.00% | ~8 |
-| Perfect Probulator | 35.00% | ~8 |
-| Forbidden Donut | 30.00% | ~7 |
-| Shop Til They Drop | 30.00% | ~7 |
-| Ducks in a Row, Fish in a Barrel | 26.00% | ~6 |
-| Trans-Siberian Express | 26.00% | ~6 |
-| Re-Return of the Clone of the Invasion II-2 | 22.00% | ~5 |
-| Upgreatest | 22.00% | ~5 |
-| Fly Me to the Moon Base | 17.00% | ~4 |
-| Rock of the Bay | 17.00% | ~4 |
-| Earthly Pleasures | 17.00% | ~4 |
-| Arkvoodle Doodle | 13.00% | ~3 |
-| Deincarnated | 13.00% | ~3 |
-| Pimp My Raid | 13.00% | ~3 |
-| Bodied Sattva | 13.00% | ~3 |
-| Furon Fashion | 9.00% | ~2 |
-| Die Nasty | 9.00% | ~2 |
-| Hidden Human Hive Harvest | 9.00% | ~2 |
-| Mash Machine | 9.00% | ~2 |
+| Kaijuiced | 65.00% | ~17 |
+| Lie Back and Think of Albion | 54.00% | ~14 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 54.00% | ~14 |
+| Yettisoned | 42.00% | ~11 |
+| Lobster Blisque | 42.00% | ~11 |
+| I Look Up As I Walk to Takoshima | 38.00% | ~10 |
+| Shop Til They Drop | 35.00% | ~9 |
+| Perfect Probulator | 35.00% | ~9 |
+| Freshly Squeezed | 31.00% | ~8 |
+| Forbidden Donut | 27.00% | ~7 |
+| Ducks in a Row, Fish in a Barrel | 27.00% | ~7 |
+| Fly Me to the Moon Base | 23.00% | ~6 |
+| Earthly Pleasures | 23.00% | ~6 |
+| Trans-Siberian Express | 23.00% | ~6 |
+| Re-Return of the Clone of the Invasion II-2 | 19.00% | ~5 |
+| Upgreatest | 19.00% | ~5 |
+| Rock of the Bay | 15.00% | ~4 |
+| Pimp My Raid | 15.00% | ~4 |
+| Bodied Sattva | 15.00% | ~4 |
+| Arkvoodle Doodle | 12.00% | ~3 |
+| Deincarnated | 12.00% | ~3 |
+| Furon Fashion | 8.00% | ~2 |
+| Die Nasty | 8.00% | ~2 |
+| Hidden Human Hive Harvest | 8.00% | ~2 |
+| Mash Machine | 8.00% | ~2 |
+| Dusted | 8.00% | ~2 |
 | Ouch of Body Experience | 4.00% | ~1 |
 | PK Slam Dunk | 4.00% | ~1 |
 | If You Know What I Mean | 4.00% | ~1 |
 | Path of the Furon | 4.00% | ~1 |
-| Dusted | 4.00% | ~1 |
 | Scuttled | 0.00% | ~0 |
 | Transmitting From Sol-3 | 0.00% | ~0 |
 | Cult Following | 0.00% | ~0 |
@@ -47,12 +47,13 @@ Number of Ratings: 85  (23.09.2022)
 | Toilet Break | 0.00% | ~0 |
 | Against All Odds | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23 (Ranked 582)  
+Progressed: 26 (Ranked 574)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-12-18 | 23 | 0 |
+| 2023-12-19 | 26 | 0 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 489)  
 Sum: 34 (Ranked 515)  

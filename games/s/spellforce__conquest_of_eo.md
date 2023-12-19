@@ -9,9 +9,9 @@
 | First to the post | 84.00% | ~53 |
 | A kind of Magic | 78.00% | ~49 |
 | Connected | 71.00% | ~45 |
-| Expansion | 67.00% | ~42 |
+| Expansion | 68.00% | ~43 |
+| Harvest Time | 62.00% | ~39 |
 | Mine! | 62.00% | ~39 |
-| Harvest Time | 60.00% | ~38 |
 | Artificer's Apprentice | 56.00% | ~35 |
 | Fly the friendly Sky | 46.00% | ~29 |
 | Get out of here! | 44.00% | ~28 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63 (Ranked 504)  
+Progressed: 63 (Ranked 505)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |

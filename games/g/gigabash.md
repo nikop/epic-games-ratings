@@ -5,15 +5,15 @@ Rating: 4.55 (Ranked 512)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 11.00% | ~10,273 |
-| I've Had Enough! | 9.00% | ~8,405 |
-| Fists, Fury & a lot of Rage | 6.00% | ~5,603 |
-| All For One and One For All | 5.00% | ~4,669 |
-| Seasoned Fighter | 5.00% | ~4,669 |
-| Home Sweet Home? | 4.00% | ~3,736 |
-| A New Age | 3.00% | ~2,802 |
-| Oh Baby, A Triple | 2.00% | ~1,868 |
-| Symbiotic | 2.00% | ~1,868 |
+| All Grown Up! | 11.00% | ~10,277 |
+| I've Had Enough! | 9.00% | ~8,408 |
+| Fists, Fury & a lot of Rage | 6.00% | ~5,606 |
+| All For One and One For All | 5.00% | ~4,671 |
+| Seasoned Fighter | 5.00% | ~4,671 |
+| Home Sweet Home? | 4.00% | ~3,737 |
+| A New Age | 3.00% | ~2,803 |
+| Oh Baby, A Triple | 2.00% | ~1,869 |
+| Symbiotic | 2.00% | ~1,869 |
 | Battle Hardened | 1.00% | ~934 |
 | Master of Disguise | 1.00% | ~934 |
 | It's Mayhem! | 1.00% | ~934 |
@@ -22,8 +22,8 @@ Rating: 4.55 (Ranked 512)
 | Spectacular Finisher | 0.90% | ~841 |
 | Martyrdom | 0.80% | ~747 |
 | Cautious Veteran | 0.70% | ~654 |
-| Katamari | 0.60% | ~560 |
-| Zero-sum Game | 0.60% | ~560 |
+| Katamari | 0.60% | ~561 |
+| Zero-sum Game | 0.60% | ~561 |
 | Ninja Reflex | 0.50% | ~467 |
 | Taste Your Own Medicine | 0.40% | ~374 |
 | Sidetracked... | 0.30% | ~280 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 512)
 | Signature Look | 0.00% | ~0 |
 | What's Mine is Yours | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93,389 (Ranked 94)  
+Progressed: 93,426 (Ranked 94)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -55,6 +55,7 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-16 | 88,472 | 0 |
 | 2023-12-17 | 91,589 | 0 |
 | 2023-12-18 | 93,389 | 0 |
+| 2023-12-19 | 93,426 | 0 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 505)  
 Sum: 30 (Ranked 522)  

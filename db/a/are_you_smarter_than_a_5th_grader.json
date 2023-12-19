@@ -4,7 +4,7 @@
   "ProductSlug": "are-you-smarter-than-a-5th-grader-bc328a",
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 502,
+  "Ranking_EOS_NewPlayers": 474,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-08-23T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 373,
+  "EOS_Progressed": 374,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -535,6 +535,11 @@
       "Time": "2023-12-15T21:03:51.941539+00:00",
       "NumProgressed": 373,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T00:04:58.8165779+00:00",
+      "NumProgressed": 374,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 19,
@@ -570,7 +575,7 @@
       "Name": "Exam Practice",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ExamTime",
@@ -578,7 +583,7 @@
       "Name": "Exam Time",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "FifthGrade",
@@ -697,7 +702,7 @@
     {
       "ID": "6l18k14",
       "IsBase": true,
-      "Progressed": 373,
+      "Progressed": 374,
       "Completed": 0
     }
   ],
@@ -705,8 +710,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.561977+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.3990521+00:00",
   "LastChanged": "2023-03-31T05:58:18.5619771+00:00",
-  "LastChanged_Achievements": "2023-12-18T23:06:06.3479521+00:00",
+  "LastChanged_Achievements": "2023-12-19T00:04:58.8165775+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:14.1881575+00:00",
-  "LastUpdate_Ratings": "2023-12-18T22:57:06.3281705+00:00",
-  "LastUpdate_Achievements": "2023-12-18T23:06:06.3479654+00:00"
+  "LastUpdate_Ratings": "2023-12-18T23:57:01.9677221+00:00",
+  "LastUpdate_Achievements": "2023-12-19T00:04:58.8165897+00:00"
 }

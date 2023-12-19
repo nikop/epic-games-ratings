@@ -5,8 +5,8 @@ Rating: 4.04 (Ranked 1,007)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,289 |
-| World Map | 78.00% | ~2,759 |
+| Victor | 93.00% | ~3,290 |
+| World Map | 78.00% | ~2,760 |
 | Temple of Eternals | 56.00% | ~1,981 |
 | Prestigious | 53.00% | ~1,875 |
 | Fellowship Power | 42.00% | ~1,486 |
@@ -56,11 +56,11 @@ Rating: 4.04 (Ranked 1,007)
 | Missions Dedication | 5.00% | ~177 |
 | Sailor | 5.00% | ~177 |
 | The Alchemist | 5.00% | ~177 |
-| Active Member | 4.00% | ~141 |
-| Arena Challenger | 4.00% | ~141 |
-| Background Story | 4.00% | ~141 |
-| Ebony Jungle Liberator | 4.00% | ~141 |
-| Legendary | 4.00% | ~141 |
+| Active Member | 4.00% | ~142 |
+| Arena Challenger | 4.00% | ~142 |
+| Background Story | 4.00% | ~142 |
+| Ebony Jungle Liberator | 4.00% | ~142 |
+| Legendary | 4.00% | ~142 |
 | Gear Enchanting | 3.00% | ~106 |
 | Mythic Power | 3.00% | ~106 |
 | Cauldron Liberator | 2.00% | ~71 |
@@ -81,7 +81,7 @@ Rating: 4.04 (Ranked 1,007)
 | Jewel Enchanting | 0.20% | ~7 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,537 (Ranked 212)  
+Progressed: 3,538 (Ranked 212)  
 Completed: 2 (0.06%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,6 +319,7 @@ Completed: 2 (0.06%) (Ranked 324)
 | 2023-12-16 | 3,473 | 2 |
 | 2023-12-17 | 3,503 | 2 |
 | 2023-12-18 | 3,537 | 2 |
+| 2023-12-19 | 3,538 | 2 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 471)  
 Sum: 145 (Ranked 432)  

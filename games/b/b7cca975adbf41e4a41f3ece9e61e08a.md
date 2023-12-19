@@ -5,21 +5,21 @@ Rating: 4.75 (Ranked 150)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 88.00% | ~12,244 |
-| I Challenge You To Save More Money! | 82.00% | ~11,409 |
-| I Love How Tough You Are | 66.00% | ~9,183 |
-| Wanna Come To My Place For Dinner? | 60.00% | ~8,348 |
+| Last Night...Did We... | 88.00% | ~12,245 |
+| I Challenge You To Save More Money! | 82.00% | ~11,410 |
+| I Love How Tough You Are | 66.00% | ~9,184 |
+| Wanna Come To My Place For Dinner? | 60.00% | ~8,349 |
 | What I Want Is You | 54.00% | ~7,514 |
-| To Be Or Not To Be | 51.00% | ~7,096 |
+| To Be Or Not To Be | 51.00% | ~7,097 |
 | Are You Alright? | 47.00% | ~6,540 |
 | Love Actually | 43.00% | ~5,983 |
-| Drama King | 37.00% | ~5,148 |
+| Drama King | 37.00% | ~5,149 |
 | Go Clean up In Your Own Way | 34.00% | ~4,731 |
 | You're Really Something Else | 33.00% | ~4,592 |
-| Drama CP: Reel to Real | 32.00% | ~4,452 |
-| Happy Family | 31.00% | ~4,313 |
-| FIRST LOVE | 31.00% | ~4,313 |
-| Worthless Speech | 31.00% | ~4,313 |
+| Drama CP: Reel to Real | 32.00% | ~4,453 |
+| Happy Family | 31.00% | ~4,314 |
+| FIRST LOVE | 31.00% | ~4,314 |
+| Worthless Speech | 31.00% | ~4,314 |
 | ONE PUNCH | 30.00% | ~4,174 |
 | Absolutely Elegant | 29.00% | ~4,035 |
 | Still Single | 28.00% | ~3,896 |
@@ -37,7 +37,7 @@ Rating: 4.75 (Ranked 150)
 | Can You Do This Or Not? | 14.00% | ~1,948 |
 | Doesn't Matter I'll Handle It | 12.00% | ~1,670 |
 | The Flash | 11.00% | ~1,531 |
-| New Yoga Pose Unlocked | 10.00% | ~1,391 |
+| New Yoga Pose Unlocked | 10.00% | ~1,392 |
 | My Dear Love! | 8.00% | ~1,113 |
 | Counting Sheep? | 8.00% | ~1,113 |
 | This Ain't Right In Many Ways... | 8.00% | ~1,113 |
@@ -48,7 +48,7 @@ Rating: 4.75 (Ranked 150)
 | Tall; Grande; Venti | 2.00% | ~278 |
 | Limerence | 2.00% | ~278 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,914 (Ranked 164)  
+Progressed: 13,915 (Ranked 164)  
 Completed: 232 (1.67%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,6 +121,7 @@ Completed: 232 (1.67%) (Ranked 141)
 | 2023-12-16 | 12,949 | 216 |
 | 2023-12-17 | 13,525 | 223 |
 | 2023-12-18 | 13,914 | 232 |
+| 2023-12-19 | 13,915 | 232 |
 ## Awards
 Max (Impact the Story): 26  (Ranked 527)  
 Sum: 26 (Ranked 536)  

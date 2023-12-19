@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15079,
+  "EOS_Progressed": 15085,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1039,
+  "EOS_NewPlayers": 1037,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9329,6 +9329,11 @@
       "Time": "2023-12-18T23:06:41.421245+00:00",
       "NumProgressed": 15079,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T00:05:28.9345241+00:00",
+      "NumProgressed": 15085,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -9437,7 +9442,7 @@
       "Name": "Level 0",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3921
+      "UsersEstimate": 3922
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -9445,7 +9450,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1809
+      "UsersEstimate": 1810
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -9461,7 +9466,7 @@
       "Name": "Poolrooms",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "ACH_WINLEVEL4",
@@ -9501,7 +9506,7 @@
       "Name": "Motion",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "ACH_WINLEVEL9999999",
@@ -9532,14 +9537,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 15079,
+      "Progressed": 15085,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-12-18T23:06:41.4212445+00:00",
+  "LastChanged_Achievements": "2023-12-19T00:05:28.9345238+00:00",
   "LastUpdate_AppInfo": "2023-12-18T18:57:14.5772532+00:00",
-  "LastUpdate_Ratings": "2023-12-18T23:00:19.9248217+00:00",
-  "LastUpdate_Achievements": "2023-12-18T23:06:41.4212991+00:00"
+  "LastUpdate_Ratings": "2023-12-18T23:59:15.9863645+00:00",
+  "LastUpdate_Achievements": "2023-12-19T00:05:28.9345857+00:00"
 }

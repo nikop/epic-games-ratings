@@ -3703,10 +3703,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2917,
       "NumberOfAwardsMax": 324
+    },
+    {
+      "Time": "2023-12-18T23:58:18.6120704+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2918,
+      "NumberOfAwardsMax": 324
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2917,
+  "NumberOfAwards": 2918,
   "NumberOfAwardsMax": 324,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3732,7 +3738,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 318
+      "Count": 319
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3783,7 +3789,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32422,
+  "EOS_Progressed": 32423,
   "EOS_Completed": 69,
   "EOS_NewPlayers": 238,
   "EOS_NewCompleters": 0,
@@ -22748,6 +22754,11 @@
       "Time": "2023-12-18T23:05:16.9064983+00:00",
       "NumProgressed": 32422,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-19T00:04:21.6997107+00:00",
+      "NumProgressed": 32423,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -23166,16 +23177,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32422,
+      "Progressed": 32423,
       "Completed": 69
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-12-18T05:58:04.761001+00:00",
-  "LastChanged_Achievements": "2023-12-18T23:05:16.9064979+00:00",
+  "LastChanged": "2023-12-18T23:58:18.6120703+00:00",
+  "LastChanged_Achievements": "2023-12-19T00:04:21.6997099+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:05.1146147+00:00",
-  "LastUpdate_Ratings": "2023-12-18T22:58:56.8340856+00:00",
-  "LastUpdate_Achievements": "2023-12-18T23:05:16.906663+00:00"
+  "LastUpdate_Ratings": "2023-12-18T23:58:18.6120707+00:00",
+  "LastUpdate_Achievements": "2023-12-19T00:04:21.6998435+00:00"
 }

@@ -91,7 +91,7 @@
   "Tags": [],
   "EOS_Progressed": 1270,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3747,9 +3747,9 @@
       "ID": "GSS_ACH_43_CARAVAN_02",
       "SetID": "5fn8ia4",
       "Name": "Raising the Stakes",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 546
+      "UsersEstimate": 559
     },
     {
       "ID": "GSS_ACH_44_CARAVAN_03",
@@ -4076,8 +4076,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-18T13:05:51.5719117+00:00",
-  "LastChanged_Achievements": "2023-12-18T23:06:44.774964+00:00",
+  "LastChanged_Achievements": "2023-12-19T00:05:31.5539184+00:00",
   "LastUpdate_AppInfo": "2023-12-18T18:57:14.4494443+00:00",
-  "LastUpdate_Ratings": "2023-12-18T22:59:48.145705+00:00",
-  "LastUpdate_Achievements": "2023-12-18T23:06:44.7750669+00:00"
+  "LastUpdate_Ratings": "2023-12-18T23:58:54.3893979+00:00",
+  "LastUpdate_Achievements": "2023-12-19T00:05:31.5540221+00:00"
 }

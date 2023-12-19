@@ -28,7 +28,7 @@
 | Lethal Blade Mantis Killer | 16.00% | ~101 |
 | Squeaky Clean | 16.00% | ~101 |
 | Master Artificer | 16.00% | ~101 |
-| Kind Adventurer | 14.00% | ~88 |
+| Kind Adventurer | 15.00% | ~95 |
 | Mermaid Killer | 14.00% | ~88 |
 | Cave Master | 14.00% | ~88 |
 | Face Slapper | 14.00% | ~88 |
