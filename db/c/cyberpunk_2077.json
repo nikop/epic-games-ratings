@@ -16752,10 +16752,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 429396,
       "NumberOfAwardsMax": 124846
+    },
+    {
+      "Time": "2023-12-19T02:25:52.3977709+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 429577,
+      "NumberOfAwardsMax": 124846
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 429396,
+  "NumberOfAwards": 429577,
   "NumberOfAwardsMax": 124846,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -16775,7 +16781,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 25978
+      "Count": 26159
     },
     {
       "Text": "This game is Relaxing",
@@ -16832,9 +16838,9 @@
       "Count": 16120
     }
   ],
-  "EOS_Progressed": 978496,
+  "EOS_Progressed": 978508,
   "EOS_Completed": 2935,
-  "EOS_NewPlayers": 3762,
+  "EOS_NewPlayers": 3768,
   "EOS_NewCompleters": 49,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -44482,6 +44488,11 @@
       "Time": "2023-12-19T01:52:31.4479489+00:00",
       "NumProgressed": 978496,
       "NumCompleted": 2935
+    },
+    {
+      "Time": "2023-12-19T02:28:40.0019141+00:00",
+      "NumProgressed": 978508,
+      "NumCompleted": 2935
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -44494,7 +44505,7 @@
       "Name": "City Lights",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 2935
+      "UsersEstimate": 2936
     },
     {
       "ID": "BornToBeWild",
@@ -44558,7 +44569,7 @@
       "Name": "Frequent Flyer",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 978
+      "UsersEstimate": 979
     },
     {
       "ID": "GunKata",
@@ -44566,7 +44577,7 @@
       "Name": "Gun Fu",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 78280
+      "UsersEstimate": 78281
     },
     {
       "ID": "Gunslinger",
@@ -44630,7 +44641,7 @@
       "Name": "Must Be Rats",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4892
+      "UsersEstimate": 4893
     },
     {
       "ID": "NeverFadeAway",
@@ -44638,7 +44649,7 @@
       "Name": "Breathtaking",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 6849
+      "UsersEstimate": 6850
     },
     {
       "ID": "NoMansLand",
@@ -44654,7 +44665,7 @@
       "Name": "Daemon In The Shell",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 978
+      "UsersEstimate": 979
     },
     {
       "ID": "QueenOfTheHighway",
@@ -44678,7 +44689,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 8806
+      "UsersEstimate": 8807
     },
     {
       "ID": "Temperance",
@@ -44686,7 +44697,7 @@
       "Name": "Temperance",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4892
+      "UsersEstimate": 4893
     },
     {
       "ID": "ThatIsSoHardForTheKnees",
@@ -44694,7 +44705,7 @@
       "Name": "Rough Landing",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 978
+      "UsersEstimate": 979
     },
     {
       "ID": "TheDevil",
@@ -44710,7 +44721,7 @@
       "Name": "The Fool",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 68495
+      "UsersEstimate": 68496
     },
     {
       "ID": "TheHermit",
@@ -44822,7 +44833,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 117420
+      "UsersEstimate": 117421
     },
     {
       "ID": "YipMan",
@@ -45029,21 +45040,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 978496,
+      "Progressed": 978508,
       "Completed": 2935
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 107119,
+      "Progressed": 107131,
       "Completed": 10412
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-12-19T00:02:45.9786956+00:00",
-  "LastChanged_Achievements": "2023-12-19T01:52:31.4479486+00:00",
+  "LastChanged": "2023-12-19T02:25:52.3977708+00:00",
+  "LastChanged_Achievements": "2023-12-19T02:28:40.0019136+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:11.4044836+00:00",
-  "LastUpdate_Ratings": "2023-12-19T01:50:25.9446284+00:00",
-  "LastUpdate_Achievements": "2023-12-19T01:52:31.448106+00:00"
+  "LastUpdate_Ratings": "2023-12-19T02:25:52.3977713+00:00",
+  "LastUpdate_Achievements": "2023-12-19T02:28:40.0020708+00:00"
 }

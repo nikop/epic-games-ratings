@@ -13,7 +13,7 @@
 | Harvest Time | 62.00% | ~39 |
 | Mine! | 62.00% | ~39 |
 | Artificer's Apprentice | 56.00% | ~35 |
-| Fly the friendly Sky | 46.00% | ~29 |
+| Fly the friendly Sky | 48.00% | ~30 |
 | Get out of here! | 44.00% | ~28 |
 | Necromancer's Apprentice | 43.00% | ~27 |
 | The Circle | 40.00% | ~25 |

@@ -1521,9 +1521,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 243494,
+  "EOS_Progressed": 243497,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1144,
+  "EOS_NewPlayers": 1147,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22796,6 +22796,11 @@
       "Time": "2023-12-19T01:56:48.4177413+00:00",
       "NumProgressed": 243494,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-19T02:32:56.9121874+00:00",
+      "NumProgressed": 243497,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -23255,7 +23260,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 87658
+      "UsersEstimate": 87659
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -23303,7 +23308,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24349
+      "UsersEstimate": 24350
     },
     {
       "ID": "FollowBraztok",
@@ -23510,21 +23515,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 243494,
+      "Progressed": 243497,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 243494,
+      "Progressed": 243497,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-12-19T01:49:39.0919482+00:00",
-  "LastChanged_Achievements": "2023-12-19T01:56:48.417741+00:00",
+  "LastChanged_Achievements": "2023-12-19T02:32:56.9121869+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:08.5726178+00:00",
-  "LastUpdate_Ratings": "2023-12-19T01:49:39.0919487+00:00",
-  "LastUpdate_Achievements": "2023-12-19T01:56:48.4179232+00:00"
+  "LastUpdate_Ratings": "2023-12-19T02:25:16.8297451+00:00",
+  "LastUpdate_Achievements": "2023-12-19T02:32:56.9123756+00:00"
 }

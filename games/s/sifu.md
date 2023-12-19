@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 3.00% | ~22,047 |
+| The Old Grandmaster | 3.00% | ~22,048 |
 | The Assault | 2.00% | ~14,698 |
 | Life is your teacher | 2.00% | ~14,698 |
 | Lightning Hands | 2.00% | ~14,698 |
@@ -29,9 +29,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Take damage to save time | 0.80% | ~5,879 |
 | Qi Gong: Mind | 0.70% | ~5,144 |
 | Kung-Fu Tussle | 0.70% | ~5,144 |
-| Fight the way you practice | 0.70% | ~309 |
-| Scareless | 0.60% | ~4,409 |
-| Dance of the Praying Mantis | 0.60% | ~4,409 |
+| Fight the way you practice | 0.70% | ~310 |
+| Scareless | 0.60% | ~4,410 |
+| Dance of the Praying Mantis | 0.60% | ~4,410 |
 | Bloody Sport | 0.50% | ~221 |
 | Martial Hub | 0.50% | ~221 |
 | Muk Yan Master | 0.40% | ~2,940 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~44 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 734,894 (Ranked 24)  
+Progressed: 734,921 (Ranked 24)  
 Completed: 12,956 (1.76%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 12,956 (1.76%) (Ranked 139)
 | 2023-12-16 | 730,184 | 12,954 |
 | 2023-12-17 | 733,014 | 12,955 |
 | 2023-12-18 | 734,825 | 12,956 |
-| 2023-12-19 | 734,894 | 12,956 |
+| 2023-12-19 | 734,921 | 12,956 |
 ## Awards
 Max (Great Boss Battles): 6,957  (Ranked 55)  
 Sum: 12,197 (Ranked 84)  

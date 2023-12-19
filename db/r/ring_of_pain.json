@@ -3700,7 +3700,7 @@
       "Count": 747
     }
   ],
-  "EOS_Progressed": 241269,
+  "EOS_Progressed": 241270,
   "EOS_Completed": 299,
   "EOS_NewPlayers": 367,
   "EOS_NewCompleters": 4,
@@ -28690,6 +28690,11 @@
       "Time": "2023-12-19T01:57:03.9387288+00:00",
       "NumProgressed": 241269,
       "NumCompleted": 299
+    },
+    {
+      "Time": "2023-12-19T02:33:15.5300907+00:00",
+      "NumProgressed": 241270,
+      "NumCompleted": 299
     }
   ],
   "TotalAchievements": 138,
@@ -29709,7 +29714,7 @@
       "Name": "Diviner",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "FINISHRUNALLMAGE",
@@ -29749,7 +29754,7 @@
       "Name": "Nuclear",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "KILLBOSSINDIRECTLY",
@@ -29765,7 +29770,7 @@
       "Name": "Raw Power",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "KILLCREATUREWITHSAMESTATS",
@@ -29797,20 +29802,20 @@
       "Name": "Matching",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     }
   ],
   "AchievementSets": [
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241269,
+      "Progressed": 241270,
       "Completed": 299
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 2749,
+      "Progressed": 2750,
       "Completed": 406
     }
   ],
@@ -29818,8 +29823,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-18T20:58:42.6339542+00:00",
-  "LastChanged_Achievements": "2023-12-19T01:57:03.9387285+00:00",
+  "LastChanged_Achievements": "2023-12-19T02:33:15.5300903+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:23.1397919+00:00",
-  "LastUpdate_Ratings": "2023-12-19T01:45:45.6733649+00:00",
-  "LastUpdate_Achievements": "2023-12-19T01:57:03.938994+00:00"
+  "LastUpdate_Ratings": "2023-12-19T02:21:20.6681108+00:00",
+  "LastUpdate_Achievements": "2023-12-19T02:33:15.5303394+00:00"
 }

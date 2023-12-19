@@ -6,24 +6,24 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 3.00% | ~33,134 |
-| It wakes | 3.00% | ~33,134 |
-| Skillful | 3.00% | ~33,134 |
-| The Grand Sacrifice | 2.00% | ~22,089 |
-| No one left behind | 2.00% | ~22,089 |
-| Medic | 2.00% | ~22,089 |
-| Handyman | 2.00% | ~22,089 |
-| Not half bad | 2.00% | ~22,089 |
-| Bloody Millionaire | 2.00% | ~22,089 |
-| Apt Survivor | 2.00% | ~22,089 |
-| Survival Treasures | 2.00% | ~22,089 |
-| I | 2.00% | ~22,089 |
-| Sorted | 2.00% | ~22,089 |
-| Healthy Obsession | 2.00% | ~22,089 |
-| Resurgence | 2.00% | ~22,089 |
-| Preemptive Strike | 2.00% | ~22,089 |
-| Humanitarian | 2.00% | ~22,089 |
-| Make Some Noise | 2.00% | ~22,089 |
+| Zealous | 3.00% | ~33,135 |
+| It wakes | 3.00% | ~33,135 |
+| Not half bad | 3.00% | ~33,135 |
+| Skillful | 3.00% | ~33,135 |
+| The Grand Sacrifice | 2.00% | ~22,090 |
+| No one left behind | 2.00% | ~22,090 |
+| Medic | 2.00% | ~22,090 |
+| Handyman | 2.00% | ~22,090 |
+| Bloody Millionaire | 2.00% | ~22,090 |
+| Apt Survivor | 2.00% | ~22,090 |
+| Survival Treasures | 2.00% | ~22,090 |
+| I | 2.00% | ~22,090 |
+| Sorted | 2.00% | ~22,090 |
+| Healthy Obsession | 2.00% | ~22,090 |
+| Resurgence | 2.00% | ~22,090 |
+| Preemptive Strike | 2.00% | ~22,090 |
+| Humanitarian | 2.00% | ~22,090 |
+| Make Some Noise | 2.00% | ~22,090 |
 | Agonizing Escape | 1.00% | ~11,045 |
 | Backdoor Escape | 1.00% | ~11,045 |
 | I've got your back | 1.00% | ~11,045 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,104 |
 | Adept Good Guy | 0.10% | ~1,104 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,104,459 (Ranked 12)  
+Progressed: 1,104,497 (Ranked 12)  
 Completed: 63 (0.01%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -482,7 +482,7 @@ Completed: 63 (0.01%) (Ranked 359)
 | 2023-12-16 | 1,099,953 | 62 |
 | 2023-12-17 | 1,102,441 | 63 |
 | 2023-12-18 | 1,104,280 | 63 |
-| 2023-12-19 | 1,104,459 | 63 |
+| 2023-12-19 | 1,104,497 | 63 |
 ## Awards
 Max (Diverse Characters): 38,160  (Ranked 15)  
 Sum: 288,767 (Ranked 12)  

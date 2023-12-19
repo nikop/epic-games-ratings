@@ -8325,9 +8325,9 @@
       "Count": 433
     }
   ],
-  "EOS_Progressed": 734894,
+  "EOS_Progressed": 734921,
   "EOS_Completed": 12956,
-  "EOS_NewPlayers": 16922,
+  "EOS_NewPlayers": 16948,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.76,
   "EosHistory": [
@@ -29925,6 +29925,11 @@
       "Time": "2023-12-19T01:55:46.9873172+00:00",
       "NumProgressed": 734894,
       "NumCompleted": 12956
+    },
+    {
+      "Time": "2023-12-19T02:31:37.5202077+00:00",
+      "NumProgressed": 734921,
+      "NumCompleted": 12956
     }
   ],
   "TotalAchievements": 60,
@@ -29936,7 +29941,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22047
+      "UsersEstimate": 22048
     },
     {
       "ID": "02_Vengeance_H1",
@@ -30024,7 +30029,7 @@
       "Name": "Scareless",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4409
+      "UsersEstimate": 4410
     },
     {
       "ID": "13_LowAge",
@@ -30096,7 +30101,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 4409
+      "UsersEstimate": 4410
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -30400,7 +30405,7 @@
       "Name": "Fight the way you practice",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "60_Arena_Randomizer",
@@ -30415,21 +30420,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 44195,
+      "Progressed": 44222,
       "Completed": 10775
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 734894,
+      "Progressed": 734921,
       "Completed": 12956
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-18T19:02:51.3747131+00:00",
-  "LastChanged_Achievements": "2023-12-19T01:55:46.987317+00:00",
+  "LastChanged_Achievements": "2023-12-19T02:31:37.5202073+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:50.1499922+00:00",
-  "LastUpdate_Ratings": "2023-12-19T01:50:01.3356961+00:00",
-  "LastUpdate_Achievements": "2023-12-19T01:55:46.9874284+00:00"
+  "LastUpdate_Ratings": "2023-12-19T02:25:46.0174893+00:00",
+  "LastUpdate_Achievements": "2023-12-19T02:31:37.520326+00:00"
 }

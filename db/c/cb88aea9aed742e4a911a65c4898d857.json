@@ -93,7 +93,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5277,
+  "EOS_Progressed": 5282,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 2896,
   "EOS_NewCompleters": 0,
@@ -1478,6 +1478,11 @@
       "Time": "2023-12-19T01:56:34.3389754+00:00",
       "NumProgressed": 5277,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T02:32:38.8700096+00:00",
+      "NumProgressed": 5282,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -1490,7 +1495,7 @@
       "Name": "Conspiracy",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     },
     {
       "ID": "03_TheStolenStar",
@@ -1650,7 +1655,7 @@
       "Name": "Perfect Timing",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "23_DynastyRestored",
@@ -1728,9 +1733,9 @@
       "ID": "32_AviationSaviour",
       "SetID": "37a94m8",
       "Name": "Aviation Saviour",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 48
     },
     {
       "ID": "33_TzeentchCleaning",
@@ -1738,15 +1743,15 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "34_CuriosityIsNotAVice",
       "SetID": "37a94m8",
       "Name": "Curiosity Is Not a Vice",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 211
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -1842,7 +1847,7 @@
       "Name": "A Spark",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "47_AFlame",
@@ -1928,9 +1933,9 @@
       "ID": "57_TheBurningHeritage",
       "SetID": "37a94m8",
       "Name": "Burning Inheritance",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 37
     },
     {
       "ID": "58_KneeDeepInChaos",
@@ -2009,7 +2014,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 5277,
+      "Progressed": 5282,
       "Completed": 0
     }
   ],
@@ -2017,8 +2022,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-19T01:47:20.7959917+00:00",
-  "LastChanged_Achievements": "2023-12-19T01:56:34.3389752+00:00",
+  "LastChanged_Achievements": "2023-12-19T02:32:38.8700093+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:14.7846288+00:00",
-  "LastUpdate_Ratings": "2023-12-19T01:47:20.7959922+00:00",
-  "LastUpdate_Achievements": "2023-12-19T01:56:34.339036+00:00"
+  "LastUpdate_Ratings": "2023-12-19T02:23:31.053567+00:00",
+  "LastUpdate_Achievements": "2023-12-19T02:32:38.8700624+00:00"
 }

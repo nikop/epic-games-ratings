@@ -7581,9 +7581,9 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 204862,
+  "EOS_Progressed": 204866,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 2384,
+  "EOS_NewPlayers": 2385,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -35361,6 +35361,11 @@
       "Time": "2023-12-19T01:56:33.0059342+00:00",
       "NumProgressed": 204862,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-19T02:32:37.1148765+00:00",
+      "NumProgressed": 204866,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 16,
@@ -35404,7 +35409,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 32778
+      "UsersEstimate": 32779
     },
     {
       "ID": "Achievement_13",
@@ -35499,15 +35504,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 204862,
+      "Progressed": 204866,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-12-18T13:05:05.6242144+00:00",
-  "LastChanged_Achievements": "2023-12-19T01:56:33.0059338+00:00",
+  "LastChanged_Achievements": "2023-12-19T02:32:37.1148761+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:22.4491085+00:00",
-  "LastUpdate_Ratings": "2023-12-19T01:45:54.5230036+00:00",
-  "LastUpdate_Achievements": "2023-12-19T01:56:33.0060808+00:00"
+  "LastUpdate_Ratings": "2023-12-19T02:21:31.2844392+00:00",
+  "LastUpdate_Achievements": "2023-12-19T02:32:37.114983+00:00"
 }

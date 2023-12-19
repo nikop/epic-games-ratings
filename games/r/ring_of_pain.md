@@ -6,7 +6,7 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Matching | 1.00% | ~27 |
+| Matching | 1.00% | ~28 |
 | First Steps | 0.90% | ~2,171 |
 | Uncharted Territory | 0.80% | ~1,930 |
 | Not Touching You | 0.80% | ~22 |
@@ -89,9 +89,9 @@ Number of Ratings: 15,086  (23.09.2022)
 | Obsessed | 0.20% | ~483 |
 | Sentimental Value | 0.20% | ~483 |
 | Precious | 0.20% | ~483 |
-| Diviner | 0.20% | ~5 |
-| Nuclear | 0.20% | ~5 |
-| Raw Power | 0.20% | ~5 |
+| Diviner | 0.20% | ~6 |
+| Nuclear | 0.20% | ~6 |
+| Raw Power | 0.20% | ~6 |
 | Quick Descent | 0.10% | ~241 |
 | A Week Attempt | 0.10% | ~241 |
 | Hydrophobe | 0.10% | ~241 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,269 (Ranked 66)  
+Progressed: 241,270 (Ranked 66)  
 Completed: 299 (0.12%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -388,7 +388,7 @@ Completed: 299 (0.12%) (Ranked 292)
 | 2023-12-16 | 241,163 | 299 |
 | 2023-12-17 | 241,211 | 299 |
 | 2023-12-18 | 241,266 | 299 |
-| 2023-12-19 | 241,269 | 299 |
+| 2023-12-19 | 241,270 | 299 |
 ## Awards
 Max (Quickly Understood Controls): 1,511  (Ranked 134)  
 Sum: 11,745 (Ranked 87)  

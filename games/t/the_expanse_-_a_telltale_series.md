@@ -14,8 +14,8 @@ Rating: 4.53 (Ranked 548)
 | Martian Music | 8.00% | ~1,345 |
 | Drone Dodger | 8.00% | ~1,345 |
 | Zen Master | 8.00% | ~221 |
-| Stogie for Fogey | 7.00% | ~1,176 |
-| Spore Taste | 7.00% | ~1,176 |
+| Stogie for Fogey | 7.00% | ~1,177 |
+| Spore Taste | 7.00% | ~1,177 |
 | Safe Cracker | 7.00% | ~193 |
 | Madame Undersecretary | 7.00% | ~193 |
 | Heal Thy Medic | 6.00% | ~1,008 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 548)
 | Scavenger Star | 0.20% | ~34 |
 | Data Collector | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,807 (Ranked 152)  
+Progressed: 16,808 (Ranked 152)  
 Completed: 44 (0.26%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 44 (0.26%) (Ranked 256)
 | 2023-12-16 | 16,565 | 43 |
 | 2023-12-17 | 16,683 | 44 |
 | 2023-12-18 | 16,797 | 44 |
-| 2023-12-19 | 16,807 | 44 |
+| 2023-12-19 | 16,808 | 44 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

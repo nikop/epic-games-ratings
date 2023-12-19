@@ -17,7 +17,7 @@ Number of Ratings: 292  (23.09.2022)
 | Veni, Vidi, Vici | 7.00% | ~39 |
 | Landlord Extraordinaire | 6.00% | ~33 |
 | Master | 6.00% | ~33 |
-| Whoops! | 4.00% | ~22 |
+| Whoops! | 5.00% | ~28 |
 | Don't Touch My Stuff | 4.00% | ~22 |
 | The Song of Stoutheart | 3.00% | ~17 |
 | This Spot's Taken | 3.00% | ~17 |

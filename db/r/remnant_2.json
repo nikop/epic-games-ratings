@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewPlayers": 17,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2023-07-25T16:00:00+00:00",
     "PcReleaseDate": "2023-07-25T16:00:00+00:00",
@@ -5751,9 +5751,9 @@
       "Count": 442
     }
   ],
-  "EOS_Progressed": 254193,
+  "EOS_Progressed": 254219,
   "EOS_Completed": 603,
-  "EOS_NewPlayers": 15485,
+  "EOS_NewPlayers": 15499,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -23671,6 +23671,11 @@
       "Time": "2023-12-19T01:56:24.6983297+00:00",
       "NumProgressed": 254193,
       "NumCompleted": 603
+    },
+    {
+      "Time": "2023-12-19T02:32:26.5909532+00:00",
+      "NumProgressed": 254219,
+      "NumCompleted": 603
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -23683,7 +23688,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7626
+      "UsersEstimate": 7627
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -23747,7 +23752,7 @@
       "Name": "Forever is a Long Time Coming",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 1779
+      "UsersEstimate": 1780
     },
     {
       "ID": "Defeat_Guardian",
@@ -23763,7 +23768,7 @@
       "Name": "The Killing Jar",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12710
+      "UsersEstimate": 12711
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -23803,7 +23808,7 @@
       "Name": "Quest for Survival",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7626
+      "UsersEstimate": 7627
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -23867,7 +23872,7 @@
       "Name": "First of Many",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12710
+      "UsersEstimate": 12711
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -23899,7 +23904,7 @@
       "Name": "Bad Moon Rising",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1779
+      "UsersEstimate": 1780
     },
     {
       "ID": "Obtain_Boss_Alt_Reward",
@@ -23923,7 +23928,7 @@
       "Name": "Strapped",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1779
+      "UsersEstimate": 1780
     },
     {
       "ID": "Obtain_Guns_B",
@@ -23979,7 +23984,7 @@
       "Name": "Scrap Hoarder",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 1779
+      "UsersEstimate": 1780
     },
     {
       "ID": "Obtain_Traits_A",
@@ -23987,7 +23992,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10168
+      "UsersEstimate": 10169
     },
     {
       "ID": "Obtain_Traits_B",
@@ -23995,7 +24000,7 @@
       "Name": "All These Traits\uFFFD",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1779
+      "UsersEstimate": 1780
     },
     {
       "ID": "Obtain_Traits_C",
@@ -24019,7 +24024,7 @@
       "Name": "The Ultimate Weapon",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 1779
+      "UsersEstimate": 1780
     },
     {
       "ID": "Upgrade_Boss_Weapon_B",
@@ -24122,13 +24127,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 254193,
+      "Progressed": 254219,
       "Completed": 603
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 33358,
+      "Progressed": 33384,
       "Completed": 281
     }
   ],
@@ -24136,8 +24141,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-18T23:03:18.7338741+00:00",
-  "LastChanged_Achievements": "2023-12-19T01:56:24.6983294+00:00",
+  "LastChanged_Achievements": "2023-12-19T02:32:26.5909528+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:50:01.3962237+00:00",
-  "LastUpdate_Ratings": "2023-12-19T01:50:40.1881371+00:00",
-  "LastUpdate_Achievements": "2023-12-19T01:56:24.6984796+00:00"
+  "LastUpdate_Ratings": "2023-12-19T02:26:12.6761174+00:00",
+  "LastUpdate_Achievements": "2023-12-19T02:32:26.5910664+00:00"
 }

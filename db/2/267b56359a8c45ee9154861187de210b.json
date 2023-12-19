@@ -4,7 +4,7 @@
   "ProductSlug": "marble-it-up-ultra-7b5692",
   "Ranking_EOS_Progress": 489,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewPlayers": 318,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76,
+  "EOS_Progressed": 77,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -369,6 +369,11 @@
       "Time": "2023-12-18T07:05:10.9437986+00:00",
       "NumProgressed": 76,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T02:29:12.2671804+00:00",
+      "NumProgressed": 77,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T22:03:23.4161887+00:00",
@@ -507,7 +512,7 @@
       "ID": "beat_c1_silver",
       "SetID": "3448go",
       "Name": "Treasured Momentum",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 10,
       "UsersEstimate": 41
     },
@@ -699,7 +704,7 @@
       "ID": "beat_c4_silver",
       "SetID": "3448go",
       "Name": "Slip Sliding Away",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -955,7 +960,7 @@
       "ID": "rolldist_mid",
       "SetID": "3448go",
       "Name": "Marathon",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
       "UsersEstimate": 18
     },
@@ -963,7 +968,7 @@
       "ID": "rolldist_short",
       "SetID": "3448go",
       "Name": "Rolling the Competition",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 5,
       "UsersEstimate": 51
     },
@@ -1068,14 +1073,14 @@
     {
       "ID": "3448go",
       "IsBase": true,
-      "Progressed": 76,
+      "Progressed": 77,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-12-19T01:52:56.3648303+00:00",
+  "LastChanged_Achievements": "2023-12-19T02:29:12.2671801+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:19.378274+00:00",
-  "LastUpdate_Ratings": "2023-12-19T01:46:13.2885282+00:00",
-  "LastUpdate_Achievements": "2023-12-19T01:52:56.3649+00:00"
+  "LastUpdate_Ratings": "2023-12-19T02:21:56.8144987+00:00",
+  "LastUpdate_Achievements": "2023-12-19T02:29:12.2672474+00:00"
 }

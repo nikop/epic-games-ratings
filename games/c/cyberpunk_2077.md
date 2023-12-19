@@ -6,9 +6,9 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,420 |
-| Gun Fu | 8.00% | ~78,280 |
-| The Fool | 7.00% | ~68,495 |
+| V for Vendetta | 12.00% | ~117,421 |
+| Gun Fu | 8.00% | ~78,281 |
+| The Fool | 7.00% | ~68,496 |
 | Right Back At Ya | 6.00% | ~58,710 |
 | The Lovers | 5.00% | ~48,925 |
 | Full Body Conversion | 4.00% | ~39,140 |
@@ -38,19 +38,19 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 1.00% | ~1,071 |
 | Dirty Deeds | 1.00% | ~1,071 |
 | Easy Come, Easy Go | 1.00% | ~1,071 |
-| Ten out of Ten | 0.90% | ~8,806 |
+| Ten out of Ten | 0.90% | ~8,807 |
 | To Bad Decisions! | 0.80% | ~7,828 |
 | The Star | 0.80% | ~7,828 |
-| Breathtaking | 0.70% | ~6,849 |
+| Breathtaking | 0.70% | ~6,850 |
 | Autojock | 0.60% | ~5,871 |
 | The APB is Not Enough | 0.60% | ~643 |
 | Judgement Day | 0.60% | ~643 |
 | The Tower | 0.60% | ~643 |
-| Must Be Rats | 0.50% | ~4,892 |
-| Temperance | 0.50% | ~4,892 |
+| Must Be Rats | 0.50% | ~4,893 |
+| Temperance | 0.50% | ~4,893 |
 | King of Pentacles | 0.50% | ~536 |
 | King of Swords | 0.50% | ~536 |
-| City Lights | 0.30% | ~2,935 |
+| City Lights | 0.30% | ~2,936 |
 | King of Cups | 0.30% | ~321 |
 | Gunslinger | 0.20% | ~1,957 |
 | Mean Streets | 0.20% | ~1,957 |
@@ -60,9 +60,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | Greetings from Pacifica! | 0.20% | ~1,957 |
 | The Jungle | 0.20% | ~1,957 |
 | It's Elementary | 0.20% | ~1,957 |
-| Frequent Flyer | 0.10% | ~978 |
-| Daemon In The Shell | 0.10% | ~978 |
-| Rough Landing | 0.10% | ~978 |
+| Frequent Flyer | 0.10% | ~979 |
+| Daemon In The Shell | 0.10% | ~979 |
+| Rough Landing | 0.10% | ~979 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
 | Dirty Deeds | 0.00% | ~0 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 978,496 (Ranked 16)  
+Progressed: 978,508 (Ranked 16)  
 Completed: 2,935 (0.30%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,17 +317,17 @@ Completed: 2,935 (0.30%) (Ranked 246)
 | 2023-12-16 | 977,366 | 2,924 |
 | 2023-12-17 | 978,015 | 2,930 |
 | 2023-12-18 | 978,465 | 2,935 |
-| 2023-12-19 | 978,496 | 2,935 |
+| 2023-12-19 | 978,508 | 2,935 |
 ## Awards
 Max (Character Customization): 124,846  (Ranked 8)  
-Sum: 429,396 (Ranked 9)  
+Sum: 429,577 (Ranked 9)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 124,846 |
 | This game has Great Boss Battles | 91,570 |
 | This game is Great for Beginners | 26,630 |
-| This game has Diverse Characters | 25,978 |
+| This game has Diverse Characters | 26,159 |
 | This game is Highly Recommended | 24,874 |
 | This game has Amazing Storytelling | 24,510 |
 | This game is Extremely Fun | 24,287 |
@@ -672,4 +672,4 @@ Diff (max vs sum): -1
 | 2023-12-16 | 4.66 | - | 123,963 | 424,262 |
 | 2023-12-17 | 4.66 | - | 124,505 | 427,247 |
 | 2023-12-18 | 4.66 | - | 124,846 | 429,269 |
-| 2023-12-19 | 4.66 | - | 124,846 | 429,396 |
+| 2023-12-19 | 4.66 | - | 124,846 | 429,577 |

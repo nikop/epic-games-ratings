@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 554,
+  "EOS_Progressed": 555,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1314,6 +1314,11 @@
       "Time": "2023-12-19T01:56:58.7607902+00:00",
       "NumProgressed": 554,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T02:33:09.8850058+00:00",
+      "NumProgressed": 555,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1357,7 +1362,7 @@
       "Name": "Boss Killer",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "BugHunter",
@@ -1365,7 +1370,7 @@
       "Name": "Bug Hunter",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "Cryomancer",
@@ -1397,7 +1402,7 @@
       "Name": "Gladiator",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "GoblinTales",
@@ -1461,7 +1466,7 @@
       "Name": "Lumberjack",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "Marksman",
@@ -1509,7 +1514,7 @@
       "Name": "Orcs Must Die!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "Pyromancer",
@@ -1581,7 +1586,7 @@
       "Name": "The End",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "TheFallen",
@@ -1644,7 +1649,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 554,
+      "Progressed": 555,
       "Completed": 1
     }
   ],
@@ -1652,8 +1657,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-19T01:56:58.76079+00:00",
+  "LastChanged_Achievements": "2023-12-19T02:33:09.8850055+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:31.304442+00:00",
-  "LastUpdate_Ratings": "2023-12-19T01:46:27.2030743+00:00",
-  "LastUpdate_Achievements": "2023-12-19T01:56:58.7608216+00:00"
+  "LastUpdate_Ratings": "2023-12-19T02:22:15.2582289+00:00",
+  "LastUpdate_Achievements": "2023-12-19T02:33:09.8850391+00:00"
 }

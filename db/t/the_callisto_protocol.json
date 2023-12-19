@@ -1691,9 +1691,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 17970,
+  "EOS_Progressed": 17972,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1445,
+  "EOS_NewPlayers": 1447,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -10221,6 +10221,11 @@
       "Time": "2023-12-19T01:56:14.9302131+00:00",
       "NumProgressed": 17970,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-19T02:32:13.9316107+00:00",
+      "NumProgressed": 17972,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -10248,7 +10253,7 @@
       "Name": "Giving Back",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 898
+      "UsersEstimate": 899
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -10256,7 +10261,7 @@
       "Name": "You Need a Gun",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 898
+      "UsersEstimate": 899
     },
     {
       "ID": "DISARM_ENEMY",
@@ -10296,7 +10301,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 898
+      "UsersEstimate": 899
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -10408,7 +10413,7 @@
       "Name": "Paper Jams",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2156
+      "UsersEstimate": 2157
     },
     {
       "ID": "SHARE_PHOTO",
@@ -10464,7 +10469,7 @@
       "Name": "Desperate Times",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2156
+      "UsersEstimate": 2157
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -10607,13 +10612,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 17970,
+      "Progressed": 17972,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 5896,
+      "Progressed": 5898,
       "Completed": 29
     }
   ],
@@ -10621,8 +10626,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-19T00:02:52.9228091+00:00",
-  "LastChanged_Achievements": "2023-12-19T01:56:14.9302128+00:00",
+  "LastChanged_Achievements": "2023-12-19T02:32:13.9316104+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.4893565+00:00",
-  "LastUpdate_Ratings": "2023-12-19T01:50:32.7868983+00:00",
-  "LastUpdate_Achievements": "2023-12-19T01:56:14.9302957+00:00"
+  "LastUpdate_Ratings": "2023-12-19T02:26:02.5874444+00:00",
+  "LastUpdate_Achievements": "2023-12-19T02:32:13.9316728+00:00"
 }

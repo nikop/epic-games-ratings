@@ -4,7 +4,7 @@
   "ProductSlug": "sands-of-aura",
   "Ranking_EOS_Progress": 451,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 402,
+  "Ranking_EOS_NewPlayers": 403,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -980,9 +980,9 @@
       "ID": "START_GAME",
       "SetID": "cm0d613",
       "Name": "Setting Sail",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 101
     },
     {
       "ID": "UBAANI_DEFEAT",
@@ -1053,8 +1053,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-12-19T01:51:42.0746202+00:00",
+  "LastChanged_Achievements": "2023-12-19T02:27:35.0723063+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:44.6330154+00:00",
-  "LastUpdate_Ratings": "2023-12-19T01:49:53.6011195+00:00",
-  "LastUpdate_Achievements": "2023-12-19T01:51:42.0746638+00:00"
+  "LastUpdate_Ratings": "2023-12-19T02:25:36.4656931+00:00",
+  "LastUpdate_Achievements": "2023-12-19T02:27:35.0723489+00:00"
 }

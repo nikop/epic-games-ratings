@@ -7,9 +7,9 @@ Rating: 4.62 (Ranked 372)
 | ---- | ---------- | ----- |
 | Realm Estate | 6.00% | ~351 |
 | Secret Technique | 6.00% | ~351 |
-| A Wonderful Discovery | 5.00% | ~292 |
-| Walls Cannot Stop Us | 5.00% | ~292 |
-| But this one is mine | 5.00% | ~292 |
+| A Wonderful Discovery | 5.00% | ~293 |
+| Walls Cannot Stop Us | 5.00% | ~293 |
+| But this one is mine | 5.00% | ~293 |
 | Bone Peddler | 4.00% | ~234 |
 | From Friends to Family | 4.00% | ~234 |
 | Valley of Wonders | 3.00% | ~176 |
@@ -33,15 +33,15 @@ Rating: 4.62 (Ranked 372)
 | Sehiran Oasis | 2.00% | ~117 |
 | Chaos Surge | 2.00% | ~117 |
 | Spoils of War | 2.00% | ~117 |
-| Arch Mage | 1.00% | ~58 |
-| The Creator | 1.00% | ~58 |
-| Crimson Caldera | 1.00% | ~58 |
-| Preparation Is Everything | 1.00% | ~58 |
-| Blood of the Dragon | 1.00% | ~58 |
-| Prometheus Avenged | 1.00% | ~58 |
-| Seal the Deal | 1.00% | ~58 |
-| A Conqueror's Cohort | 1.00% | ~58 |
-| Dawn of the Dread | 1.00% | ~58 |
+| Arch Mage | 1.00% | ~59 |
+| The Creator | 1.00% | ~59 |
+| Crimson Caldera | 1.00% | ~59 |
+| Preparation Is Everything | 1.00% | ~59 |
+| Blood of the Dragon | 1.00% | ~59 |
+| Prometheus Avenged | 1.00% | ~59 |
+| Seal the Deal | 1.00% | ~59 |
+| A Conqueror's Cohort | 1.00% | ~59 |
+| Dawn of the Dread | 1.00% | ~59 |
 | Against the Odds | 0.90% | ~53 |
 | The Eternal Court | 0.90% | ~53 |
 | Lord of Chaos | 0.80% | ~47 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 372)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,850 (Ranked 190)  
+Progressed: 5,851 (Ranked 190)  
 Completed: 7 (0.12%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 7 (0.12%) (Ranked 292)
 | 2023-12-16 | 5,752 | 7 |
 | 2023-12-17 | 5,798 | 7 |
 | 2023-12-18 | 5,842 | 7 |
-| 2023-12-19 | 5,850 | 7 |
+| 2023-12-19 | 5,851 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 479)  
 Sum: 93 (Ranked 461)  

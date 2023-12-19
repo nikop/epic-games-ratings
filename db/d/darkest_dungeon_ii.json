@@ -9894,9 +9894,9 @@
       "Count": 1026
     }
   ],
-  "EOS_Progressed": 128414,
+  "EOS_Progressed": 128421,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2153,
+  "EOS_NewPlayers": 2154,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35729,6 +35729,11 @@
       "Time": "2023-12-19T01:56:10.7819195+00:00",
       "NumProgressed": 128414,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-19T02:32:07.8968229+00:00",
+      "NumProgressed": 128421,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35868,7 +35873,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3852
+      "UsersEstimate": 3853
     },
     {
       "ID": "combat_kill_cadavers",
@@ -35892,7 +35897,7 @@
       "Name": "Not Today!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3852
+      "UsersEstimate": 3853
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -35900,7 +35905,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3852
+      "UsersEstimate": 3853
     },
     {
       "ID": "combat_kill_fanatics",
@@ -35940,7 +35945,7 @@
       "Name": "Meat and Greet",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3852
+      "UsersEstimate": 3853
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -35956,7 +35961,7 @@
       "Name": "Catch and Decease",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3852
+      "UsersEstimate": 3853
     },
     {
       "ID": "combat_kill_librarian",
@@ -35964,7 +35969,7 @@
       "Name": "Overdue Notice",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3852
+      "UsersEstimate": 3853
     },
     {
       "ID": "combat_kill_pillagers",
@@ -35980,7 +35985,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3852
+      "UsersEstimate": 3853
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -36092,7 +36097,7 @@
       "Name": "Autodidact",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3852
+      "UsersEstimate": 3853
     },
     {
       "ID": "hero_story_complete_all",
@@ -36284,7 +36289,7 @@
       "Name": "This guy... again?",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -36324,7 +36329,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -36332,7 +36337,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "quest_complete_crusader",
@@ -36371,21 +36376,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 128414,
+      "Progressed": 128421,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 3283,
+      "Progressed": 3290,
       "Completed": 802
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-18T22:59:10.1872581+00:00",
-  "LastChanged_Achievements": "2023-12-19T01:56:10.7819192+00:00",
+  "LastChanged_Achievements": "2023-12-19T02:32:07.8968227+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-19T01:45:57.9372448+00:00",
-  "LastUpdate_Achievements": "2023-12-19T01:56:10.7820917+00:00"
+  "LastUpdate_Ratings": "2023-12-19T02:21:35.9603008+00:00",
+  "LastUpdate_Achievements": "2023-12-19T02:32:07.8969831+00:00"
 }

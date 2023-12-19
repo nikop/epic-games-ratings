@@ -567,9 +567,9 @@
       "ID": "DopaMiner",
       "SetID": "4bd750m",
       "Name": "Dopa-Miner",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "GoingPlaces",
@@ -750,8 +750,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-19T01:50:52.790016+00:00",
+  "LastChanged_Achievements": "2023-12-19T02:26:31.3921268+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.7183942+00:00",
-  "LastUpdate_Ratings": "2023-12-19T01:50:33.0151461+00:00",
-  "LastUpdate_Achievements": "2023-12-19T01:50:52.7900678+00:00"
+  "LastUpdate_Ratings": "2023-12-19T02:26:02.8893962+00:00",
+  "LastUpdate_Achievements": "2023-12-19T02:26:31.3921494+00:00"
 }

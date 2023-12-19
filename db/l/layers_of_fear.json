@@ -4,7 +4,7 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -900,9 +900,9 @@
       "ID": "find_one_rat_sketch",
       "SetID": "f2im8d",
       "Name": "The artist\u2019s impression",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "finished_it",
@@ -996,9 +996,9 @@
       "ID": "piece_of_story",
       "SetID": "f2im8d",
       "Name": "A piece of the story",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 88
     },
     {
       "ID": "playtime",
@@ -1147,8 +1147,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-19T01:50:41.7275555+00:00",
+  "LastChanged_Achievements": "2023-12-19T02:26:16.7637673+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:26.5525701+00:00",
-  "LastUpdate_Ratings": "2023-12-19T01:44:51.8975751+00:00",
-  "LastUpdate_Achievements": "2023-12-19T01:50:41.7292154+00:00"
+  "LastUpdate_Ratings": "2023-12-19T02:20:08.0988659+00:00",
+  "LastUpdate_Achievements": "2023-12-19T02:26:16.7638396+00:00"
 }

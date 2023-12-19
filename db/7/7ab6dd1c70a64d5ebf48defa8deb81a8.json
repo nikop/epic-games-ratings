@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 826,
+  "EOS_Progressed": 829,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 562,
+  "EOS_NewPlayers": 565,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1705,6 +1705,11 @@
       "Time": "2023-12-19T01:56:57.7627775+00:00",
       "NumProgressed": 826,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-19T02:33:08.5049687+00:00",
+      "NumProgressed": 829,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1716,7 +1721,7 @@
       "Name": "Break Out",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 388
+      "UsersEstimate": 390
     },
     {
       "ID": "ACH_02",
@@ -1772,7 +1777,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACH_09",
@@ -1788,7 +1793,7 @@
       "Name": "Trinity",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ACH_11",
@@ -1812,7 +1817,7 @@
       "Name": "Adventurer",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_14",
@@ -1908,7 +1913,7 @@
       "Name": "Fashion Victim",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_26",
@@ -1932,7 +1937,7 @@
       "Name": "I Found It",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ACH_29",
@@ -2003,14 +2008,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 826,
+      "Progressed": 829,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-19T01:56:57.7627771+00:00",
+  "LastChanged_Achievements": "2023-12-19T02:33:08.5049684+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
-  "LastUpdate_Ratings": "2023-12-19T01:47:20.1546317+00:00",
-  "LastUpdate_Achievements": "2023-12-19T01:56:57.7628092+00:00"
+  "LastUpdate_Ratings": "2023-12-19T02:23:30.1236166+00:00",
+  "LastUpdate_Achievements": "2023-12-19T02:33:08.5049936+00:00"
 }

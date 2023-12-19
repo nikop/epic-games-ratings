@@ -888,9 +888,9 @@
       "ID": "Tower_Fly",
       "SetID": "7b9f97e",
       "Name": "Fly the friendly Sky",
-      "Percentage": 46,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Zombify_Unit_Post_Battle",
@@ -913,8 +913,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-12-19T01:56:07.5643762+00:00",
+  "LastChanged_Achievements": "2023-12-19T02:32:04.0507729+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:09.2965751+00:00",
-  "LastUpdate_Ratings": "2023-12-19T01:46:29.9134261+00:00",
-  "LastUpdate_Achievements": "2023-12-19T01:56:07.5644226+00:00"
+  "LastUpdate_Ratings": "2023-12-19T02:22:19.1360795+00:00",
+  "LastUpdate_Achievements": "2023-12-19T02:32:04.0508206+00:00"
 }

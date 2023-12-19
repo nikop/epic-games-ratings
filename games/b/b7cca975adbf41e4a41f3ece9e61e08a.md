@@ -5,25 +5,25 @@ Rating: 4.75 (Ranked 150)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 88.00% | ~12,255 |
-| I Challenge You To Save More Money! | 82.00% | ~11,419 |
-| I Love How Tough You Are | 66.00% | ~9,191 |
-| Wanna Come To My Place For Dinner? | 60.00% | ~8,356 |
-| What I Want Is You | 54.00% | ~7,520 |
-| To Be Or Not To Be | 51.00% | ~7,102 |
-| Are You Alright? | 47.00% | ~6,545 |
-| Love Actually | 43.00% | ~5,988 |
+| Last Night...Did We... | 88.00% | ~12,257 |
+| I Challenge You To Save More Money! | 82.00% | ~11,421 |
+| I Love How Tough You Are | 66.00% | ~9,192 |
+| Wanna Come To My Place For Dinner? | 60.00% | ~8,357 |
+| What I Want Is You | 54.00% | ~7,521 |
+| To Be Or Not To Be | 51.00% | ~7,103 |
+| Are You Alright? | 47.00% | ~6,546 |
+| Love Actually | 43.00% | ~5,989 |
 | Drama King | 37.00% | ~5,153 |
-| Go Clean up In Your Own Way | 34.00% | ~4,735 |
+| Go Clean up In Your Own Way | 34.00% | ~4,736 |
 | You're Really Something Else | 33.00% | ~4,596 |
-| Drama CP: Reel to Real | 32.00% | ~4,456 |
-| Happy Family | 31.00% | ~4,317 |
-| FIRST LOVE | 31.00% | ~4,317 |
-| Worthless Speech | 31.00% | ~4,317 |
+| Drama CP: Reel to Real | 32.00% | ~4,457 |
+| Happy Family | 31.00% | ~4,318 |
+| FIRST LOVE | 31.00% | ~4,318 |
+| Worthless Speech | 31.00% | ~4,318 |
 | ONE PUNCH | 30.00% | ~4,178 |
 | Absolutely Elegant | 29.00% | ~4,039 |
-| Still Single | 28.00% | ~3,899 |
-| Days Of Innocence | 27.00% | ~3,760 |
+| Still Single | 28.00% | ~3,900 |
+| Days Of Innocence | 27.00% | ~3,761 |
 | Go Get Some Fries On The Pier | 26.00% | ~3,621 |
 | David | 26.00% | ~3,621 |
 | All I Have Is Money | 22.00% | ~3,064 |
@@ -31,7 +31,7 @@ Rating: 4.75 (Ranked 150)
 | A Slap In The Face! | 22.00% | ~3,064 |
 | That's So You | 22.00% | ~3,064 |
 | SALUTE | 22.00% | ~3,064 |
-| Let Me Be Your Toy Boy | 21.00% | ~2,924 |
+| Let Me Be Your Toy Boy | 21.00% | ~2,925 |
 | Off We Sail Tonight | 16.00% | ~2,228 |
 | Love You Three Thousand | 14.00% | ~1,950 |
 | Can You Do This Or Not? | 14.00% | ~1,950 |
@@ -48,7 +48,7 @@ Rating: 4.75 (Ranked 150)
 | Tall; Grande; Venti | 2.00% | ~279 |
 | Limerence | 2.00% | ~279 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,926 (Ranked 164)  
+Progressed: 13,928 (Ranked 164)  
 Completed: 232 (1.67%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 232 (1.67%) (Ranked 141)
 | 2023-12-16 | 12,949 | 216 |
 | 2023-12-17 | 13,525 | 223 |
 | 2023-12-18 | 13,914 | 232 |
-| 2023-12-19 | 13,926 | 232 |
+| 2023-12-19 | 13,928 | 232 |
 ## Awards
 Max (Impact the Story): 26  (Ranked 528)  
 Sum: 26 (Ranked 537)  

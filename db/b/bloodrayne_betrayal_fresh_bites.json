@@ -272,9 +272,9 @@
       "ID": "PersonallyPunched",
       "SetID": "6jf74lf",
       "Name": "Personally Punched",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Skullector",
@@ -304,9 +304,9 @@
       "ID": "StrangeSkulls",
       "SetID": "6jf74lf",
       "Name": "Strange Skulls",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ToSunrise",
@@ -320,9 +320,9 @@
       "ID": "TreasureHunter",
       "SetID": "6jf74lf",
       "Name": "Treasure Hunter",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "WalkingOnAir",
@@ -345,8 +345,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.7137735+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:16.1017514+00:00",
   "LastChanged": "2023-03-31T05:58:13.7137736+00:00",
-  "LastChanged_Achievements": "2023-12-19T01:56:52.9109313+00:00",
+  "LastChanged_Achievements": "2023-12-19T02:33:02.5647704+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:11.0440495+00:00",
-  "LastUpdate_Ratings": "2023-12-19T01:44:48.5160241+00:00",
-  "LastUpdate_Achievements": "2023-12-19T01:56:52.9109418+00:00"
+  "LastUpdate_Ratings": "2023-12-19T02:20:03.4527545+00:00",
+  "LastUpdate_Achievements": "2023-12-19T02:33:02.5647833+00:00"
 }
