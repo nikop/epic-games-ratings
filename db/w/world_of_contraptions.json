@@ -4,7 +4,7 @@
   "ProductSlug": "world-of-contraptions-6dbc07",
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-29T11:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 353,
+  "EOS_Progressed": 354,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1534,6 +1534,11 @@
       "Time": "2023-12-19T17:09:02.7292667+00:00",
       "NumProgressed": 353,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T18:08:49.253824+00:00",
+      "NumProgressed": 354,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -1543,9 +1548,9 @@
       "ID": "FIRST_LEVEL",
       "SetID": "aemieak",
       "Name": "The first of many",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 201
+      "UsersEstimate": 198
     },
     {
       "ID": "GROUP_EASY_COMPLETED",
@@ -1777,21 +1782,21 @@
       "Name": "Starting to take notes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     }
   ],
   "AchievementSets": [
     {
       "ID": "aemieak",
       "IsBase": true,
-      "Progressed": 353,
+      "Progressed": 354,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-29T16:58:58.1647905+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
-  "LastChanged_Achievements": "2023-12-19T17:09:02.7292664+00:00",
+  "LastChanged_Achievements": "2023-12-19T18:08:49.2538237+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:05.9324538+00:00",
-  "LastUpdate_Ratings": "2023-12-19T16:58:44.154403+00:00",
-  "LastUpdate_Achievements": "2023-12-19T17:09:02.7292913+00:00"
+  "LastUpdate_Ratings": "2023-12-19T17:59:12.1044959+00:00",
+  "LastUpdate_Achievements": "2023-12-19T18:08:49.2538499+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 281,
-  "Ranking_EOS_Completed": 236,
+  "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 868,
+  "EOS_Progressed": 870,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 603,
+  "EOS_NewPlayers": 605,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.35,
+  "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
       "Time": "2023-06-23T15:02:22.2302993+00:00",
@@ -1780,6 +1780,11 @@
       "Time": "2023-12-19T17:09:52.5097028+00:00",
       "NumProgressed": 868,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-19T18:09:44.7400898+00:00",
+      "NumProgressed": 870,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1789,9 +1794,9 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 417
+      "UsersEstimate": 426
     },
     {
       "ID": "ACH_02",
@@ -1807,7 +1812,7 @@
       "Name": "Powerful Allies",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACH_04",
@@ -1855,7 +1860,7 @@
       "Name": "The Mentor",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_10",
@@ -1863,7 +1868,7 @@
       "Name": "Trinity",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH_11",
@@ -1885,9 +1890,9 @@
       "ID": "ACH_13",
       "SetID": "efe2lj",
       "Name": "Adventurer",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 113
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_14",
@@ -1901,17 +1906,17 @@
       "ID": "ACH_15",
       "SetID": "efe2lj",
       "Name": "Tributes of Caladrias",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_16",
       "SetID": "efe2lj",
       "Name": "Essence Blow",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_17",
@@ -2021,17 +2026,17 @@
       "ID": "ACH_30",
       "SetID": "efe2lj",
       "Name": "Alchemist",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_31",
       "SetID": "efe2lj",
       "Name": "Stone Collection",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 96
     },
     {
       "ID": "ACH_33",
@@ -2045,9 +2050,9 @@
       "ID": "ACH_34",
       "SetID": "efe2lj",
       "Name": "The Collector",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 130
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_35",
@@ -2078,14 +2083,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 868,
+      "Progressed": 870,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-19T17:09:52.5097026+00:00",
+  "LastChanged_Achievements": "2023-12-19T18:09:44.7400895+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
-  "LastUpdate_Ratings": "2023-12-19T17:00:03.3796079+00:00",
-  "LastUpdate_Achievements": "2023-12-19T17:09:52.5097257+00:00"
+  "LastUpdate_Ratings": "2023-12-19T18:00:41.9522525+00:00",
+  "LastUpdate_Achievements": "2023-12-19T18:09:44.7401196+00:00"
 }

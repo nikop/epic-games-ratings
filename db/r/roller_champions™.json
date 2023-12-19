@@ -4,10 +4,10 @@
   "ProductSlug": "roller-champions",
   "Ranking_Rating": 816,
   "Ranking_Popularity": 267,
-  "Ranking_PopularitySum": 203,
-  "Ranking_EOS_Progress": 809,
+  "Ranking_PopularitySum": 204,
+  "Ranking_EOS_Progress": 810,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 555,
+  "Ranking_EOS_NewPlayers": 556,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-06-23T13:40:00+00:00",
@@ -3281,10 +3281,16 @@
       "Rating": 4.34,
       "NumberOfAwards": 2319,
       "NumberOfAwardsMax": 267
+    },
+    {
+      "Time": "2023-12-19T17:59:45.7380865+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 2320,
+      "NumberOfAwardsMax": 267
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2319,
+  "NumberOfAwards": 2320,
   "NumberOfAwardsMax": 267,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3328,7 +3334,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 227
+      "Count": 228
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3366,8 +3372,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:37.6973739+00:00",
-  "LastChanged": "2023-12-18T23:59:00.5756859+00:00",
+  "LastChanged": "2023-12-19T17:59:45.7380863+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:33.1073098+00:00",
-  "LastUpdate_Ratings": "2023-12-19T16:59:14.3482173+00:00",
-  "LastUpdate_Achievements": "2023-12-19T17:03:16.6554586+00:00"
+  "LastUpdate_Ratings": "2023-12-19T17:59:45.7380869+00:00",
+  "LastUpdate_Achievements": "2023-12-19T18:03:22.7451568+00:00"
 }

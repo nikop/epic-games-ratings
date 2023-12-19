@@ -2,7 +2,7 @@
   "ID": "2d831f372e6343cc85cceda5c9c808cf",
   "Name": "Haven",
   "ProductSlug": "haven",
-  "Ranking_Rating": 151,
+  "Ranking_Rating": 150,
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 243,
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1672,
+  "EOS_Progressed": 1673,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -2608,6 +2608,11 @@
       "Time": "2023-12-19T07:04:22.5356622+00:00",
       "NumProgressed": 1672,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-19T18:04:42.2060853+00:00",
+      "NumProgressed": 1673,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -2627,7 +2632,7 @@
       "Name": "Perfect timing",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "11",
@@ -2643,7 +2648,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "13",
@@ -2651,7 +2656,7 @@
       "Name": "Unstoppable",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "14",
@@ -2683,7 +2688,7 @@
       "Name": "Balding bloot!",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "18",
@@ -2827,7 +2832,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "7",
@@ -2841,9 +2846,9 @@
       "ID": "8",
       "SetID": "n50no0",
       "Name": "Over my dead body",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 635
+      "UsersEstimate": 619
     },
     {
       "ID": "9",
@@ -2858,15 +2863,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1672,
+      "Progressed": 1673,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-19T17:04:29.7721413+00:00",
+  "LastChanged_Achievements": "2023-12-19T18:04:42.2060848+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.3116727+00:00",
-  "LastUpdate_Ratings": "2023-12-19T16:58:25.566903+00:00",
-  "LastUpdate_Achievements": "2023-12-19T17:04:29.7721647+00:00"
+  "LastUpdate_Ratings": "2023-12-19T17:58:51.4492755+00:00",
+  "LastUpdate_Achievements": "2023-12-19T18:04:42.2061158+00:00"
 }

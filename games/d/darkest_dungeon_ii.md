@@ -12,12 +12,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | Autodidact | 4.00% | ~5,142 |
 | This guy... again? | 4.00% | ~137 |
 | Bloody Graduation | 4.00% | ~137 |
-| Not Today! | 3.00% | ~3,856 |
-| Creep and Sleep | 3.00% | ~3,856 |
-| Meat and Greet | 3.00% | ~3,856 |
-| Catch and Decease | 3.00% | ~3,856 |
-| Overdue Notice | 3.00% | ~3,856 |
-| Escape from the Black Hole | 3.00% | ~3,856 |
+| Not Today! | 3.00% | ~3,857 |
+| Creep and Sleep | 3.00% | ~3,857 |
+| Meat and Greet | 3.00% | ~3,857 |
+| Catch and Decease | 3.00% | ~3,857 |
+| Overdue Notice | 3.00% | ~3,857 |
+| Escape from the Black Hole | 3.00% | ~3,857 |
 | Ploughshares to Swords | 3.00% | ~103 |
 | Don't Make Me Turn This Coach Around | 2.00% | ~2,571 |
 | Serenity Now! | 2.00% | ~2,571 |
@@ -33,7 +33,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 2.00% | ~2,571 |
 | FNG | 2.00% | ~2,571 |
 | Nope | 2.00% | ~2,571 |
-| Friends 'Til the End | 2.00% | ~68 |
+| Friends 'Til the End | 2.00% | ~69 |
 | Resurrection | 1.00% | ~1,286 |
 | Unleash Hell | 1.00% | ~1,286 |
 | Funny Guy | 1.00% | ~1,286 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,550 (Ranked 85)  
+Progressed: 128,558 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 3 (0.00%) (Ranked 383)
 | 2023-12-16 | 127,826 | 3 |
 | 2023-12-17 | 128,143 | 3 |
 | 2023-12-18 | 128,398 | 3 |
-| 2023-12-19 | 128,550 | 3 |
+| 2023-12-19 | 128,558 | 3 |
 ## Awards
 Max (Character Customization): 7,795  (Ranked 50)  
 Sum: 20,792 (Ranked 58)  

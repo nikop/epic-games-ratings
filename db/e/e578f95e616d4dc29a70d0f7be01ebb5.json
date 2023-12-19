@@ -2,9 +2,9 @@
   "ID": "e578f95e616d4dc29a70d0f7be01ebb5",
   "Name": "Never Alone",
   "ProductSlug": "never-alone-bc835a",
-  "Ranking_EOS_Progress": 809,
+  "Ranking_EOS_Progress": 810,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 555,
+  "Ranking_EOS_NewPlayers": 556,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-17T03:57:03.9618077+00:00",
-  "LastUpdate_Ratings": "2023-12-19T16:59:18.2827796+00:00",
-  "LastUpdate_Achievements": "2023-12-19T17:03:55.6859085+00:00"
+  "LastUpdate_Ratings": "2023-12-19T17:59:50.3055891+00:00",
+  "LastUpdate_Achievements": "2023-12-19T18:04:05.2494801+00:00"
 }

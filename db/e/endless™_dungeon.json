@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1351,
+  "EOS_Progressed": 1353,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2705,6 +2705,11 @@
       "Time": "2023-12-19T07:06:36.2640014+00:00",
       "NumProgressed": 1351,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T18:03:25.6949979+00:00",
+      "NumProgressed": 1353,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -2773,7 +2778,7 @@
       "Name": "Pest Control",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -2797,7 +2802,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 932
+      "UsersEstimate": 934
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -2813,15 +2818,15 @@
       "Name": "Getting the Hang of It",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
       "SetID": "9991201",
       "Name": "Obsessively Thorough",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 176
+      "UsersEstimate": 162
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR",
@@ -2956,14 +2961,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1351,
+      "Progressed": 1353,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-12-19T17:03:19.1913535+00:00",
+  "LastChanged_Achievements": "2023-12-19T18:03:25.6949976+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.7212713+00:00",
-  "LastUpdate_Ratings": "2023-12-19T16:58:26.5628853+00:00",
-  "LastUpdate_Achievements": "2023-12-19T17:03:19.1913891+00:00"
+  "LastUpdate_Ratings": "2023-12-19T17:58:52.5735322+00:00",
+  "LastUpdate_Achievements": "2023-12-19T18:03:25.6950341+00:00"
 }

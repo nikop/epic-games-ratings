@@ -2,9 +2,9 @@
   "ID": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
   "Name": "Deus Ex - Mankind Divided",
   "ProductSlug": "deus-ex-mankind-divided-4c6370",
-  "Ranking_EOS_Progress": 558,
+  "Ranking_EOS_Progress": 556,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 33,
+  "EOS_Progressed": 34,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -184,6 +184,11 @@
       "Time": "2023-12-19T14:05:31.3308385+00:00",
       "NumProgressed": 33,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T18:06:01.9677234+00:00",
+      "NumProgressed": 34,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-13T17:03:37.7079864+00:00",
@@ -210,9 +215,9 @@
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "7on801h",
       "Name": "Singh No Swan Song",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -498,9 +503,9 @@
       "ID": "NEW_ACHIEVEMENT_2_15",
       "SetID": "7on801h",
       "Name": "Data Disciple",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_16",
@@ -843,20 +848,20 @@
     {
       "ID": "7on801h",
       "IsBase": true,
-      "Progressed": 33,
+      "Progressed": 34,
       "Completed": 0
     },
     {
       "ID": "o6aioj",
       "IsBase": false,
-      "Progressed": 33,
+      "Progressed": 34,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2023-12-19T17:05:42.367224+00:00",
+  "LastChanged_Achievements": "2023-12-19T18:06:01.967723+00:00",
   "LastUpdate_AppInfo": "2023-12-13T16:57:09.7184844+00:00",
-  "LastUpdate_Ratings": "2023-12-19T16:59:39.0085369+00:00",
-  "LastUpdate_Achievements": "2023-12-19T17:05:42.3672856+00:00"
+  "LastUpdate_Ratings": "2023-12-19T18:00:12.8000742+00:00",
+  "LastUpdate_Achievements": "2023-12-19T18:06:01.9677842+00:00"
 }

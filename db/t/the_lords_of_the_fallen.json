@@ -2,7 +2,7 @@
   "ID": "f2d5f78997994c9891b8f23d962be28e",
   "Name": "Lords of the Fallen",
   "ProductSlug": "lords-of-the-fallen",
-  "Ranking_Rating": 929,
+  "Ranking_Rating": 921,
   "Ranking_Popularity": 283,
   "Ranking_PopularitySum": 323,
   "Ranking_EOS_Progress": 195,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.2,
+  "Rating": 4.21,
   "RatingHistory": [
     {
       "Time": "2023-10-15T11:58:59.8898367+00:00",
@@ -943,10 +943,16 @@
       "Rating": 4.2,
       "NumberOfAwards": 560,
       "NumberOfAwardsMax": 223
+    },
+    {
+      "Time": "2023-12-19T17:57:48.4089201+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 562,
+      "NumberOfAwardsMax": 223
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 560,
+  "NumberOfAwards": 562,
   "NumberOfAwardsMax": 223,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -990,7 +996,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 28
+      "Count": 30
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1005,9 +1011,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5626,
+  "EOS_Progressed": 5645,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3283,
+  "EOS_NewPlayers": 3302,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -5405,6 +5411,11 @@
       "Time": "2023-12-19T17:08:44.7094683+00:00",
       "NumProgressed": 5626,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-19T18:08:29.6495282+00:00",
+      "NumProgressed": 5645,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-23T12:04:43.6042359+00:00",
@@ -5920,16 +5931,16 @@
     {
       "ID": "87e61g",
       "IsBase": true,
-      "Progressed": 5626,
+      "Progressed": 5645,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-10-13T16:58:40.9012964+00:00",
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
-  "LastChanged": "2023-12-18T21:57:05.4113537+00:00",
-  "LastChanged_Achievements": "2023-12-19T17:08:44.7094681+00:00",
+  "LastChanged": "2023-12-19T17:57:48.4089199+00:00",
+  "LastChanged_Achievements": "2023-12-19T18:08:29.6495279+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:35.9560906+00:00",
-  "LastUpdate_Ratings": "2023-12-19T16:57:30.2825826+00:00",
-  "LastUpdate_Achievements": "2023-12-19T17:08:44.7095298+00:00"
+  "LastUpdate_Ratings": "2023-12-19T17:57:48.4089205+00:00",
+  "LastUpdate_Achievements": "2023-12-19T18:08:29.6496035+00:00"
 }

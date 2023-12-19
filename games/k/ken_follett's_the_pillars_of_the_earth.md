@@ -10,9 +10,9 @@ Number of Ratings: 368  (23.09.2022)
 | Man of politics | 34.00% | ~5,843 |
 | Friends of sorts | 33.00% | ~5,671 |
 | Yet another secret | 33.00% | ~5,671 |
-| Let there be darkness | 31.00% | ~5,327 |
+| Let there be darkness | 31.00% | ~5,328 |
 | End of Book One | 29.00% | ~4,984 |
-| Garden of Eden | 24.00% | ~4,124 |
+| Garden of Eden | 24.00% | ~4,125 |
 | Wannabe knight | 23.00% | ~3,953 |
 | Full house | 23.00% | ~3,953 |
 | Help an old friend | 21.00% | ~3,609 |
@@ -25,10 +25,10 @@ Number of Ratings: 368  (23.09.2022)
 | Jack was here! | 14.00% | ~2,406 |
 | Exterminator | 13.00% | ~2,234 |
 | Whodunnit | 12.00% | ~2,062 |
-| Good midwife | 10.00% | ~1,718 |
-| Friar Tuck | 10.00% | ~1,718 |
-| First profit | 10.00% | ~1,718 |
-| Team player | 10.00% | ~1,718 |
+| Good midwife | 10.00% | ~1,719 |
+| Friar Tuck | 10.00% | ~1,719 |
+| First profit | 10.00% | ~1,719 |
+| Team player | 10.00% | ~1,719 |
 | Skilled merchant | 9.00% | ~1,547 |
 | Brother Marcus | 9.00% | ~1,547 |
 | The oath | 9.00% | ~1,547 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~516 |
 | Boy of mystery | 2.00% | ~344 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,185 (Ranked 151)  
+Progressed: 17,186 (Ranked 151)  
 Completed: 119 (0.69%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 119 (0.69%) (Ranked 193)
 | 2023-12-16 | 17,109 | 119 |
 | 2023-12-17 | 17,152 | 119 |
 | 2023-12-18 | 17,173 | 119 |
-| 2023-12-19 | 17,185 | 119 |
+| 2023-12-19 | 17,186 | 119 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 320)  
 Sum: 200 (Ranked 410)  

@@ -6,14 +6,14 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 61.00% | ~1,998 |
-| Keeping it classy | 28.00% | ~917 |
-| Welcome to the family | 22.00% | ~720 |
-| The finer things in life | 20.00% | ~655 |
+| You're free now! | 61.00% | ~2,000 |
+| Keeping it classy | 28.00% | ~918 |
+| Welcome to the family | 22.00% | ~721 |
+| The finer things in life | 20.00% | ~656 |
 | Backpacker | 14.00% | ~459 |
 | Go with the Flow | 13.00% | ~426 |
-| The flip trick crown jewel | 11.00% | ~360 |
 | Plastic Surgeon | 10.00% | ~328 |
+| The flip trick crown jewel | 10.00% | ~328 |
 | The hard way | 10.00% | ~328 |
 | Upfront shredder | 10.00% | ~328 |
 | Good vibes | 9.00% | ~295 |
@@ -23,15 +23,15 @@ Number of Ratings: 111  (23.09.2022)
 | Fashionista | 7.00% | ~229 |
 | Finally he zips it | 7.00% | ~229 |
 | That pinch! | 7.00% | ~229 |
-| Commence the Hijinx! | 6.00% | ~196 |
-| DIY Boss | 6.00% | ~196 |
-| Fulfilled the dream | 6.00% | ~196 |
-| G'Day Mate! | 6.00% | ~196 |
-| Laid back | 6.00% | ~196 |
-| NAHELL! | 6.00% | ~196 |
-| Purple passion | 6.00% | ~196 |
-| Squad goals | 6.00% | ~196 |
-| Sup widdit big dog! | 6.00% | ~196 |
+| Commence the Hijinx! | 6.00% | ~197 |
+| DIY Boss | 6.00% | ~197 |
+| Fulfilled the dream | 6.00% | ~197 |
+| G'Day Mate! | 6.00% | ~197 |
+| Laid back | 6.00% | ~197 |
+| NAHELL! | 6.00% | ~197 |
+| Purple passion | 6.00% | ~197 |
+| Squad goals | 6.00% | ~197 |
+| Sup widdit big dog! | 6.00% | ~197 |
 | Cops called! | 5.00% | ~164 |
 | Globetrotter | 5.00% | ~164 |
 | Lines for days | 5.00% | ~164 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,275 (Ranked 216)  
+Progressed: 3,278 (Ranked 216)  
 Completed: 2 (0.06%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 2 (0.06%) (Ranked 324)
 | 2023-12-16 | 3,212 | 2 |
 | 2023-12-17 | 3,239 | 2 |
 | 2023-12-18 | 3,263 | 2 |
-| 2023-12-19 | 3,275 | 2 |
+| 2023-12-19 | 3,278 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 59  (Ranked 421)  
 Sum: 568 (Ranked 321)  

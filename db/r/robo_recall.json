@@ -2,9 +2,9 @@
   "ID": "odin",
   "Name": "Robo Recall",
   "ProductSlug": "robo-recall",
-  "Ranking_EOS_Progress": 809,
+  "Ranking_EOS_Progress": 810,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 555,
+  "Ranking_EOS_NewPlayers": 556,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": null,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-16T20:57:47.932728+00:00",
-  "LastUpdate_Ratings": "2023-12-19T16:58:11.8382537+00:00",
-  "LastUpdate_Achievements": "2023-12-19T17:08:49.4135187+00:00"
+  "LastUpdate_Ratings": "2023-12-19T17:58:35.2622833+00:00",
+  "LastUpdate_Achievements": "2023-12-19T18:08:35.099004+00:00"
 }

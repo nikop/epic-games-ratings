@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -2758,9 +2758,9 @@
       "ID": "AnthropicHills",
       "SetID": "1n308hc",
       "Name": "Anthropic Hills",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 74
     },
     {
       "ID": "Archaeologist",
@@ -2798,9 +2798,9 @@
       "ID": "BridgeBuilder",
       "SetID": "1n308hc",
       "Name": "Bridge Builder",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 264
     },
     {
       "ID": "ChasingTheLight",
@@ -3223,8 +3223,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-19T17:04:27.5100386+00:00",
+  "LastChanged_Achievements": "2023-12-19T18:04:39.8726572+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-19T16:58:52.7521022+00:00",
-  "LastUpdate_Achievements": "2023-12-19T17:04:27.5100951+00:00"
+  "LastUpdate_Ratings": "2023-12-19T17:59:21.3939385+00:00",
+  "LastUpdate_Achievements": "2023-12-19T18:04:39.8727332+00:00"
 }

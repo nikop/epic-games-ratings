@@ -6,23 +6,23 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kaijuiced | 67.00% | ~31 |
-| Lie Back and Think of Albion | 65.00% | ~30 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 54.00% | ~25 |
-| Yettisoned | 52.00% | ~24 |
-| I Look Up As I Walk to Takoshima | 48.00% | ~22 |
+| Kaijuiced | 66.00% | ~31 |
+| Lie Back and Think of Albion | 64.00% | ~30 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 55.00% | ~26 |
+| Yettisoned | 51.00% | ~24 |
+| I Look Up As I Walk to Takoshima | 47.00% | ~22 |
+| Perfect Probulator | 45.00% | ~21 |
 | Lobster Blisque | 43.00% | ~20 |
-| Perfect Probulator | 43.00% | ~20 |
-| Shop Til They Drop | 41.00% | ~19 |
-| Freshly Squeezed | 35.00% | ~16 |
-| Ducks in a Row, Fish in a Barrel | 35.00% | ~16 |
+| Shop Til They Drop | 43.00% | ~20 |
+| Freshly Squeezed | 34.00% | ~16 |
+| Ducks in a Row, Fish in a Barrel | 34.00% | ~16 |
+| Earthly Pleasures | 30.00% | ~14 |
 | Fly Me to the Moon Base | 28.00% | ~13 |
 | Forbidden Donut | 28.00% | ~13 |
-| Earthly Pleasures | 28.00% | ~13 |
 | Pimp My Raid | 26.00% | ~12 |
 | Bodied Sattva | 26.00% | ~12 |
-| Upgreatest | 22.00% | ~10 |
-| Trans-Siberian Express | 22.00% | ~10 |
+| Upgreatest | 21.00% | ~10 |
+| Trans-Siberian Express | 21.00% | ~10 |
 | Deincarnated | 17.00% | ~8 |
 | Rock of the Bay | 17.00% | ~8 |
 | Re-Return of the Clone of the Invasion II-2 | 15.00% | ~7 |
@@ -32,28 +32,28 @@ Number of Ratings: 85  (23.09.2022)
 | If You Know What I Mean | 9.00% | ~4 |
 | Hidden Human Hive Harvest | 9.00% | ~4 |
 | Mash Machine | 9.00% | ~4 |
-| Die Nasty | 7.00% | ~3 |
+| Die Nasty | 6.00% | ~3 |
 | Dusted | 4.00% | ~2 |
 | PK Slam Dunk | 2.00% | ~1 |
 | Path of the Furon | 2.00% | ~1 |
+| Albion Bridge Is for Falling Down | 2.00% | ~1 |
 | Scuttled | 0.00% | ~0 |
 | Transmitting From Sol-3 | 0.00% | ~0 |
 | Cult Following | 0.00% | ~0 |
 | To Russia With Love | 0.00% | ~0 |
 | Steezy Down the Spine | 0.00% | ~0 |
-| Albion Bridge Is for Falling Down | 0.00% | ~0 |
 | Higher Than the Futen Zoku | 0.00% | ~0 |
 | Arty Facts | 0.00% | ~0 |
 | Toilet Break | 0.00% | ~0 |
 | Against All Odds | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46 (Ranked 531)  
+Progressed: 47 (Ranked 527)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-12-18 | 23 | 0 |
-| 2023-12-19 | 46 | 0 |
+| 2023-12-19 | 47 | 0 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 490)  
 Sum: 34 (Ranked 515)  

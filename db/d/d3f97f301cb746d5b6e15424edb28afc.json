@@ -5,7 +5,7 @@
   "Ranking_Rating": 482,
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
-  "Ranking_EOS_Progress": 257,
+  "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 157,
@@ -91,7 +91,7 @@
   "Tags": [],
   "EOS_Progressed": 1275,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3740,9 +3740,9 @@
       "ID": "GSS_ACH_39_GARAGE_02",
       "SetID": "5fn8ia4",
       "Name": "Machine Head",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 892
+      "UsersEstimate": 905
     },
     {
       "ID": "GSS_ACH_40_GARAGE_03",
@@ -3900,9 +3900,9 @@
       "ID": "GSS_ACH_59_UPGRADE_WAREHOUSE_04",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Lvl. 4",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 332
+      "UsersEstimate": 344
     },
     {
       "ID": "GSS_ACH_60_UPGRADE_WAREHOUSE_05",
@@ -4076,9 +4076,9 @@
       "ID": "GSS_ACH_88_DECORATION_02",
       "SetID": "5fn8ia4",
       "Name": "Decorating Better",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 370
+      "UsersEstimate": 382
     },
     {
       "ID": "GSS_ACH_89_DECORATION_03",
@@ -4101,8 +4101,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-18T13:05:51.5719117+00:00",
-  "LastChanged_Achievements": "2023-12-19T17:05:59.7601575+00:00",
+  "LastChanged_Achievements": "2023-12-19T18:06:20.9691493+00:00",
   "LastUpdate_AppInfo": "2023-12-18T18:57:14.4494443+00:00",
-  "LastUpdate_Ratings": "2023-12-19T16:59:07.8556605+00:00",
-  "LastUpdate_Achievements": "2023-12-19T17:05:59.7602658+00:00"
+  "LastUpdate_Ratings": "2023-12-19T17:59:38.6097059+00:00",
+  "LastUpdate_Achievements": "2023-12-19T18:06:20.9692284+00:00"
 }

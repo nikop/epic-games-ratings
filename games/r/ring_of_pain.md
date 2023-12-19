@@ -18,6 +18,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | A Quick Escape | 0.70% | ~1,689 |
 | Explorer | 0.70% | ~1,689 |
 | An Offering | 0.70% | ~1,689 |
+| Ambitious Intent | 0.60% | ~1,448 |
 | Nothing To Lose | 0.60% | ~1,448 |
 | Heavy Hitter | 0.60% | ~1,448 |
 | Delving Deeper | 0.60% | ~1,448 |
@@ -30,19 +31,18 @@ Number of Ratings: 15,086  (23.09.2022)
 | C-C-Combo | 0.60% | ~1,448 |
 | Deflection | 0.60% | ~1,448 |
 | Sneaky | 0.60% | ~1,448 |
-| Ambitious Intent | 0.50% | ~1,206 |
-| Dig Your Own Grave | 0.50% | ~1,206 |
-| Who To Trust? | 0.50% | ~1,206 |
-| Walk It Off | 0.50% | ~1,206 |
-| Cold Hearted | 0.50% | ~1,206 |
-| I Am Overburdened | 0.50% | ~1,206 |
-| Destroy Your Fears | 0.50% | ~1,206 |
-| Shootout | 0.50% | ~1,206 |
-| Stone Touch | 0.50% | ~1,206 |
-| Toxic | 0.50% | ~1,206 |
-| Shadow Walker | 0.50% | ~1,206 |
-| Flesh Wound | 0.50% | ~1,206 |
-| Shapeshifting | 0.50% | ~1,206 |
+| Dig Your Own Grave | 0.50% | ~1,207 |
+| Who To Trust? | 0.50% | ~1,207 |
+| Walk It Off | 0.50% | ~1,207 |
+| Cold Hearted | 0.50% | ~1,207 |
+| I Am Overburdened | 0.50% | ~1,207 |
+| Destroy Your Fears | 0.50% | ~1,207 |
+| Shootout | 0.50% | ~1,207 |
+| Stone Touch | 0.50% | ~1,207 |
+| Toxic | 0.50% | ~1,207 |
+| Shadow Walker | 0.50% | ~1,207 |
+| Flesh Wound | 0.50% | ~1,207 |
+| Shapeshifting | 0.50% | ~1,207 |
 | Expensive Look | 0.50% | ~14 |
 | What Doesn't Kill You | 0.50% | ~14 |
 | Consecutive Curses | 0.40% | ~965 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,300 (Ranked 66)  
+Progressed: 241,304 (Ranked 66)  
 Completed: 300 (0.12%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -388,7 +388,7 @@ Completed: 300 (0.12%) (Ranked 293)
 | 2023-12-16 | 241,163 | 299 |
 | 2023-12-17 | 241,211 | 299 |
 | 2023-12-18 | 241,266 | 299 |
-| 2023-12-19 | 241,300 | 300 |
+| 2023-12-19 | 241,304 | 300 |
 ## Awards
 Max (Quickly Understood Controls): 1,511  (Ranked 134)  
 Sum: 11,746 (Ranked 87)  

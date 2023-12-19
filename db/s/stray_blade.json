@@ -4,7 +4,7 @@
   "ProductSlug": "stray-blade",
   "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewPlayers": 387,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 137,
+  "EOS_Progressed": 138,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -674,6 +674,11 @@
       "Time": "2023-12-18T19:09:42.2568632+00:00",
       "NumProgressed": 137,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T18:09:45.1778013+00:00",
+      "NumProgressed": 138,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -933,7 +938,7 @@
       "Name": "Welcome to the Club",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_FINISH_GAME",
@@ -949,7 +954,7 @@
       "Name": "Don\u0027t Cry Wolf",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_OPEN_TEMPLE_GATE",
@@ -957,7 +962,7 @@
       "Name": "A new World ahead",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_PERFORM_MANY_PARRIES",
@@ -1100,13 +1105,13 @@
     {
       "ID": "7i20me3",
       "IsBase": true,
-      "Progressed": 137,
+      "Progressed": 138,
       "Completed": 0
     },
     {
       "ID": "doc1i1",
       "IsBase": false,
-      "Progressed": 135,
+      "Progressed": 136,
       "Completed": 117
     }
   ],
@@ -1114,8 +1119,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-12-19T17:09:52.8847819+00:00",
+  "LastChanged_Achievements": "2023-12-19T18:09:45.177801+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:18.8738917+00:00",
-  "LastUpdate_Ratings": "2023-12-19T16:58:44.6661931+00:00",
-  "LastUpdate_Achievements": "2023-12-19T17:09:52.8848131+00:00"
+  "LastUpdate_Ratings": "2023-12-19T17:59:12.6622237+00:00",
+  "LastUpdate_Achievements": "2023-12-19T18:09:45.1778428+00:00"
 }

@@ -39,13 +39,13 @@ Number of Ratings: 76  (23.09.2022)
 | Surf's Up! | 0.00% | ~0 |
 | Time For Tutorial | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76 (Ranked 491)  
+Progressed: 77 (Ranked 490)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-12-18 | 34 | 0 |
-| 2023-12-19 | 76 | 0 |
+| 2023-12-19 | 77 | 0 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 490)  
 Sum: 34 (Ranked 515)  

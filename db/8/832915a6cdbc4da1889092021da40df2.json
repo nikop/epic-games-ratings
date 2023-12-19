@@ -2,9 +2,9 @@
   "ID": "832915a6cdbc4da1889092021da40df2",
   "Name": "3D City",
   "ProductSlug": "3d-city-32fc13",
-  "Ranking_EOS_Progress": 809,
+  "Ranking_EOS_Progress": 810,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 555,
+  "Ranking_EOS_NewPlayers": 556,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-14T17:57:07.2081746+00:00",
-  "LastUpdate_Ratings": "2023-12-19T16:57:05.239815+00:00",
-  "LastUpdate_Achievements": "2023-12-19T17:08:36.8851936+00:00"
+  "LastUpdate_Ratings": "2023-12-19T17:57:21.5738387+00:00",
+  "LastUpdate_Achievements": "2023-12-19T18:08:21.07379+00:00"
 }

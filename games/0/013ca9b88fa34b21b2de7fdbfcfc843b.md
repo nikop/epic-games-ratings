@@ -7,8 +7,8 @@ Rating: 4.63 (Ranked 353)
 | ---- | ---------- | ----- |
 | A Thorny Situation | 1.00% | ~85 |
 | Azoria Beckons | 0.90% | ~77 |
+| ... And Spit Back Out | 0.90% | ~77 |
 | Calm Sailing | 0.80% | ~68 |
-| ... And Spit Back Out | 0.80% | ~68 |
 | Bramble Breaker | 0.80% | ~68 |
 | Open the Gate! | 0.70% | ~60 |
 | Break-Net Speed | 0.70% | ~60 |
@@ -22,6 +22,7 @@ Rating: 4.63 (Ranked 353)
 | Oui, Chef! | 0.40% | ~34 |
 | Exit Through The Gift Shop | 0.40% | ~5 |
 | Beach Comber | 0.30% | ~26 |
+| Botanical Breakthrough | 0.30% | ~26 |
 | Azorian Anniversary | 0.30% | ~26 |
 | Skilled | 0.30% | ~26 |
 | Flaming Hot Completos | 0.20% | ~17 |
@@ -29,7 +30,6 @@ Rating: 4.63 (Ranked 353)
 | Fanatical Farmer | 0.20% | ~17 |
 | I Now Pronounce You... | 0.20% | ~17 |
 | Chatty Neighbor | 0.20% | ~17 |
-| Botanical Breakthrough | 0.20% | ~17 |
 | Right Tool For the Job | 0.20% | ~17 |
 | Captain of Cozy | 0.20% | ~17 |
 | House Proud | 0.20% | ~17 |
@@ -49,7 +49,7 @@ Rating: 4.63 (Ranked 353)
 | Going Down | 0.10% | ~1 |
 | Archi-Pal-igo Aficionado | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,526 (Ranked 179)  
+Progressed: 8,529 (Ranked 179)  
 Completed: 1 (0.01%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 1 (0.01%) (Ranked 359)
 | 2023-12-16 | 8,476 | 1 |
 | 2023-12-17 | 8,500 | 1 |
 | 2023-12-18 | 8,518 | 1 |
-| 2023-12-19 | 8,526 | 1 |
+| 2023-12-19 | 8,529 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

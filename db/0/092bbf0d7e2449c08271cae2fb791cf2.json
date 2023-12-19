@@ -4,7 +4,7 @@
   "ProductSlug": "chuchel-203808",
   "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 183,
+  "EOS_Progressed": 184,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.55,
+  "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
     {
       "Time": "2023-11-01T08:06:18.9626896+00:00",
@@ -599,6 +599,11 @@
       "Time": "2023-12-19T16:05:35.533581+00:00",
       "NumProgressed": 183,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T18:04:54.3628205+00:00",
+      "NumProgressed": 184,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -619,7 +624,7 @@
       "Name": "Blabber",
       "Percentage": 46,
       "XP": 145,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ach3",
@@ -643,7 +648,7 @@
       "Name": "Cloudbuster",
       "Percentage": 3,
       "XP": 140,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach6",
@@ -666,14 +671,14 @@
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 183,
+      "Progressed": 184,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2023-12-19T17:04:41.3033584+00:00",
+  "LastChanged_Achievements": "2023-12-19T18:04:54.3628202+00:00",
   "LastUpdate_AppInfo": "2023-12-13T18:57:12.2683005+00:00",
-  "LastUpdate_Ratings": "2023-12-19T16:58:33.9719157+00:00",
-  "LastUpdate_Achievements": "2023-12-19T17:04:41.3033668+00:00"
+  "LastUpdate_Ratings": "2023-12-19T17:59:01.0328553+00:00",
+  "LastUpdate_Achievements": "2023-12-19T18:04:54.3628279+00:00"
 }

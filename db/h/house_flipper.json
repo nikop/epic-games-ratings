@@ -2169,9 +2169,9 @@
       "Count": 221
     }
   ],
-  "EOS_Progressed": 21610,
+  "EOS_Progressed": 21611,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11619,6 +11619,11 @@
       "Time": "2023-12-19T17:05:25.3641862+00:00",
       "NumProgressed": 21610,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-19T18:05:42.7586337+00:00",
+      "NumProgressed": 21611,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -11662,7 +11667,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 3025
+      "UsersEstimate": 3026
     },
     {
       "ID": "EstateAgent",
@@ -11670,7 +11675,7 @@
       "Name": "Estate Agent",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "FirstMoney",
@@ -11734,7 +11739,7 @@
       "Name": "Millionaire",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "MrAndMrsJantart",
@@ -11758,7 +11763,7 @@
       "Name": "Perfectionist",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "RafaelErko",
@@ -11813,15 +11818,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21610,
+      "Progressed": 21611,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-12-17T11:57:15.7420284+00:00",
-  "LastChanged_Achievements": "2023-12-19T17:05:25.3641854+00:00",
+  "LastChanged_Achievements": "2023-12-19T18:05:42.7586333+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:12.9668458+00:00",
-  "LastUpdate_Ratings": "2023-12-19T16:58:01.5137628+00:00",
-  "LastUpdate_Achievements": "2023-12-19T17:05:25.3642554+00:00"
+  "LastUpdate_Ratings": "2023-12-19T17:58:23.954987+00:00",
+  "LastUpdate_Achievements": "2023-12-19T18:05:42.758687+00:00"
 }

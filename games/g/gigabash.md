@@ -5,32 +5,32 @@ Rating: 4.55 (Ranked 512)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 11.00% | ~10,415 |
-| I've Had Enough! | 9.00% | ~8,522 |
-| Fists, Fury & a lot of Rage | 7.00% | ~6,628 |
-| Seasoned Fighter | 6.00% | ~5,681 |
-| All For One and One For All | 5.00% | ~4,734 |
-| Home Sweet Home? | 4.00% | ~3,787 |
-| A New Age | 3.00% | ~2,841 |
-| Oh Baby, A Triple | 2.00% | ~1,894 |
-| Master of Disguise | 2.00% | ~1,894 |
-| Symbiotic | 2.00% | ~1,894 |
-| Battle Hardened | 1.00% | ~947 |
-| It's Mayhem! | 1.00% | ~947 |
-| Right back at'cha | 1.00% | ~947 |
-| Spectacular Finisher | 1.00% | ~947 |
-| Double Punch! | 0.90% | ~852 |
-| Cautious Veteran | 0.80% | ~757 |
-| Martyrdom | 0.80% | ~757 |
-| Katamari | 0.60% | ~568 |
-| Zero-sum Game | 0.60% | ~568 |
-| Ninja Reflex | 0.50% | ~473 |
-| Taste Your Own Medicine | 0.50% | ~473 |
+| All Grown Up! | 11.00% | ~10,423 |
+| I've Had Enough! | 9.00% | ~8,528 |
+| Fists, Fury & a lot of Rage | 7.00% | ~6,633 |
+| Seasoned Fighter | 6.00% | ~5,685 |
+| All For One and One For All | 5.00% | ~4,738 |
+| Home Sweet Home? | 4.00% | ~3,790 |
+| A New Age | 3.00% | ~2,843 |
+| Oh Baby, A Triple | 2.00% | ~1,895 |
+| Master of Disguise | 2.00% | ~1,895 |
+| Symbiotic | 2.00% | ~1,895 |
+| Battle Hardened | 1.00% | ~948 |
+| It's Mayhem! | 1.00% | ~948 |
+| Right back at'cha | 1.00% | ~948 |
+| Spectacular Finisher | 1.00% | ~948 |
+| Double Punch! | 0.90% | ~853 |
+| Cautious Veteran | 0.80% | ~758 |
+| Martyrdom | 0.80% | ~758 |
+| Katamari | 0.60% | ~569 |
+| Zero-sum Game | 0.60% | ~569 |
+| Ninja Reflex | 0.50% | ~474 |
+| Taste Your Own Medicine | 0.50% | ~474 |
 | Just Getting Warmed Up | 0.30% | ~284 |
 | This is GigaBash! | 0.30% | ~284 |
 | Sidetracked... | 0.30% | ~284 |
 | Top of the Food Chain | 0.30% | ~284 |
-| Eye of the Titan | 0.20% | ~189 |
+| Eye of the Titan | 0.20% | ~190 |
 | 5 Stages of Grief | 0.10% | ~95 |
 | Bastion of Humanity | 0.10% | ~95 |
 | Let Them Fight | 0.10% | ~95 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 512)
 | Signature Look | 0.00% | ~0 |
 | What's Mine is Yours | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 94,684 (Ranked 94)  
+Progressed: 94,751 (Ranked 94)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -55,7 +55,7 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-16 | 88,472 | 0 |
 | 2023-12-17 | 91,589 | 0 |
 | 2023-12-18 | 93,389 | 0 |
-| 2023-12-19 | 94,684 | 0 |
+| 2023-12-19 | 94,751 | 0 |
 ## Awards
 Max (Great Boss Battles): 32  (Ranked 501)  
 Sum: 32 (Ranked 521)  

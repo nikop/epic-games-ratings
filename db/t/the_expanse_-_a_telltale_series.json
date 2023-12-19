@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16842,
+  "EOS_Progressed": 16845,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 770,
+  "EOS_NewPlayers": 773,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -14409,6 +14409,11 @@
       "Time": "2023-12-19T17:04:15.1713262+00:00",
       "NumProgressed": 16842,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-12-19T18:04:26.4879508+00:00",
+      "NumProgressed": 16845,
+      "NumCompleted": 45
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14501,7 +14506,7 @@
       "Name": "Martian Music",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "2",
@@ -14525,7 +14530,7 @@
       "Name": "Drone Dodger",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "22",
@@ -14595,9 +14600,9 @@
       "ID": "3",
       "SetID": "458bbdk",
       "Name": "Captain Drummer",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1516
+      "UsersEstimate": 1684
     },
     {
       "ID": "30",
@@ -14700,13 +14705,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16842,
+      "Progressed": 16845,
       "Completed": 45
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2796,
+      "Progressed": 2799,
       "Completed": 954
     }
   ],
@@ -14714,8 +14719,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-17T22:59:50.8326927+00:00",
-  "LastChanged_Achievements": "2023-12-19T17:04:15.171326+00:00",
+  "LastChanged_Achievements": "2023-12-19T18:04:26.4879505+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:40.0929133+00:00",
-  "LastUpdate_Ratings": "2023-12-19T16:59:30.4514088+00:00",
-  "LastUpdate_Achievements": "2023-12-19T17:04:15.1714133+00:00"
+  "LastUpdate_Ratings": "2023-12-19T18:00:03.6089439+00:00",
+  "LastUpdate_Achievements": "2023-12-19T18:04:26.4880553+00:00"
 }

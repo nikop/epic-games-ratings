@@ -9,7 +9,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Abandoned Settlement | 5.00% | ~933 |
 | Overgrown Library | 5.00% | ~933 |
 | Petrified Necropolis | 5.00% | ~933 |
-| Gathering Storm | 4.00% | ~746 |
+| Gathering Storm | 4.00% | ~747 |
 | First Real Expedition | 3.00% | ~560 |
 | Coral Forest | 3.00% | ~560 |
 | The Marshlands | 3.00% | ~560 |
@@ -31,12 +31,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | Levitating Monument | 1.00% | ~187 |
 | Monastery of the Holy Flame | 1.00% | ~187 |
 | Lost Colonies | 1.00% | ~187 |
+| Statue of the Forefathers | 1.00% | ~187 |
 | Corrosive Torrent | 1.00% | ~187 |
 | Cursed Lands | 1.00% | ~187 |
 | A Real Challenge | 1.00% | ~187 |
 | Trade Baron | 1.00% | ~187 |
 | Barren Lands | 0.90% | ~168 |
-| Statue of the Forefathers | 0.90% | ~168 |
 | Sparkdew Crystals | 0.80% | ~149 |
 | Haunted Forest | 0.80% | ~149 |
 | Flooded Mines | 0.80% | ~149 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,662 (Ranked 147)  
+Progressed: 18,665 (Ranked 147)  
 Completed: 39 (0.21%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 39 (0.21%) (Ranked 267)
 | 2023-12-16 | 18,388 | 39 |
 | 2023-12-17 | 18,534 | 40 |
 | 2023-12-18 | 18,615 | 39 |
-| 2023-12-19 | 18,662 | 39 |
+| 2023-12-19 | 18,665 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 228)  
 Sum: 3,272 (Ranked 174)  

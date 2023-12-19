@@ -85,7 +85,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 683,
+  "EOS_Progressed": 684,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
@@ -3055,6 +3055,11 @@
       "Time": "2023-12-19T17:05:12.3753805+00:00",
       "NumProgressed": 683,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T18:05:28.331608+00:00",
+      "NumProgressed": 684,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -3144,9 +3149,9 @@
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
       "SetID": "6kcl14p",
       "Name": "Das Ist Endg\u00FCltig!",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 109
+      "UsersEstimate": 103
     },
     {
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
@@ -3161,7 +3166,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 683,
+      "Progressed": 684,
       "Completed": 0
     }
   ],
@@ -3169,8 +3174,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-12-19T04:01:33.4642155+00:00",
-  "LastChanged_Achievements": "2023-12-19T17:05:12.3753801+00:00",
+  "LastChanged_Achievements": "2023-12-19T18:05:28.3316077+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:01.8922403+00:00",
-  "LastUpdate_Ratings": "2023-12-19T17:02:29.5815435+00:00",
-  "LastUpdate_Achievements": "2023-12-19T17:05:12.3753992+00:00"
+  "LastUpdate_Ratings": "2023-12-19T18:02:27.0307052+00:00",
+  "LastUpdate_Achievements": "2023-12-19T18:05:28.3316333+00:00"
 }

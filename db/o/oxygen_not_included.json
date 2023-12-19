@@ -2,12 +2,12 @@
   "ID": "lotus",
   "Name": "Oxygen Not Included",
   "ProductSlug": "oxygen-not-included",
-  "Ranking_Rating": 54,
+  "Ranking_Rating": 62,
   "Ranking_Popularity": 264,
   "Ranking_PopularitySum": 202,
-  "Ranking_EOS_Progress": 809,
+  "Ranking_EOS_Progress": 810,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 555,
+  "Ranking_EOS_NewPlayers": 556,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2019-11-25T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.84,
+  "Rating": 4.83,
   "NumberOfRatings": 897,
   "RatingHistory": [
     {
@@ -2544,6 +2544,12 @@
       "Rating": 4.84,
       "NumberOfAwards": 2385,
       "NumberOfAwardsMax": 276
+    },
+    {
+      "Time": "2023-12-19T17:58:00.9731266+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 2385,
+      "NumberOfAwardsMax": 276
     }
   ],
   "ReviewsDisabled": false,
@@ -2629,8 +2635,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:44.1555168+00:00",
-  "LastChanged": "2023-12-18T17:57:33.2512468+00:00",
+  "LastChanged": "2023-12-19T17:58:00.9731264+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:33.6163335+00:00",
-  "LastUpdate_Ratings": "2023-12-19T16:57:41.4091602+00:00",
-  "LastUpdate_Achievements": "2023-12-19T17:06:00.4579145+00:00"
+  "LastUpdate_Ratings": "2023-12-19T17:58:00.9731269+00:00",
+  "LastUpdate_Achievements": "2023-12-19T18:06:21.714747+00:00"
 }

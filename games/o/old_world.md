@@ -64,6 +64,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 0.10% | ~16 |
 | Learn to Play 1 | 0.10% | ~16 |
 | Learn to Play 2 | 0.10% | ~16 |
+| Learn to Play 5 | 0.10% | ~16 |
 | Greece | 0.10% | ~16 |
 | Hatti | 0.10% | ~16 |
 | Old World Order | 0.10% | ~16 |
@@ -83,8 +84,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Turreted Elephant | 0.10% | ~16 |
 | All Nations | 0.10% | ~16 |
 | Double Victory | 0.10% | ~16 |
+| No Undo | 0.10% | ~16 |
 | Points Victory | 0.10% | ~16 |
 | Win a Single Player Game | 0.10% | ~16 |
+| The Clergy | 0.10% | ~16 |
 | Deposed Tribe | 0.10% | ~16 |
 | The Great Mage | 0.10% | ~16 |
 | Centenarian | 0.00% | ~0 |
@@ -223,7 +226,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn By Playing 4 - Strong | 0.00% | ~0 |
 | Learn to Play 3 | 0.00% | ~0 |
 | Learn to Play 4 | 0.00% | ~0 |
-| Learn to Play 5 | 0.00% | ~0 |
 | Macedonian Wars | 0.00% | ~0 |
 | Medo-Babylonian Conquest | 0.00% | ~0 |
 | Pyramids in Menefer | 0.00% | ~0 |
@@ -279,7 +281,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambition Victory | 0.00% | ~0 |
 | Conquest Victory | 0.00% | ~0 |
 | No Characters | 0.00% | ~0 |
-| No Undo | 0.00% | ~0 |
 | One City Challenge | 0.00% | ~0 |
 | Randomized Families | 0.00% | ~0 |
 | Randomized Leaders | 0.00% | ~0 |
@@ -293,7 +294,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Network Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
-| The Clergy | 0.00% | ~0 |
 | Religious Dissent | 0.00% | ~0 |
 | Five Cults | 0.00% | ~0 |
 | The Mythical Beast | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Al Khazneh in Petra | 0.00% | ~0 |
 | Colosseum in Roma | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,833 (Ranked 157)  
+Progressed: 15,834 (Ranked 157)  
 Completed: 5 (0.03%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -608,10 +608,10 @@ Completed: 5 (0.03%) (Ranked 344)
 | 2023-12-16 | 15,789 | 5 |
 | 2023-12-17 | 15,807 | 5 |
 | 2023-12-18 | 15,826 | 5 |
-| 2023-12-19 | 15,833 | 5 |
+| 2023-12-19 | 15,834 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 279)  
-Sum: 1,902 (Ranked 220)  
+Sum: 1,904 (Ranked 220)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
@@ -619,10 +619,10 @@ Diff (max vs sum): 59
 | This game has Diverse Characters | 222 |
 | This game is Highly Recommended | 221 |
 | This game is Extremely Fun | 220 |
-| This game is Educational | 213 |
+| This game is Educational | 214 |
 | This game has Challenging Combat | 207 |
 | This game has Amazing Characters | 199 |
-| This game has Quickly Understood Controls | 196 |
+| This game has Quickly Understood Controls | 197 |
 | This game has Amazing Storytelling | 196 |
 | This game has Obsessive Gameplay | 155 |
 | This game has a Creative Community | 101 |
@@ -809,3 +809,4 @@ Diff (max vs sum): 59
 | 2023-12-11 | 4.65 | - | 228 | 1,900 |
 | 2023-12-15 | 4.65 | - | 228 | 1,901 |
 | 2023-12-18 | 4.65 | - | 228 | 1,902 |
+| 2023-12-19 | 4.65 | - | 228 | 1,904 |

@@ -2080,10 +2080,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1902,
       "NumberOfAwardsMax": 228
+    },
+    {
+      "Time": "2023-12-19T18:02:53.2051749+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1904,
+      "NumberOfAwardsMax": 228
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1902,
+  "NumberOfAwards": 1904,
   "NumberOfAwardsMax": 228,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2109,7 +2115,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 213
+      "Count": 214
     },
     {
       "Text": "This game has Challenging Combat",
@@ -2127,7 +2133,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 196
+      "Count": 197
     },
     {
       "Text": "This game is Relaxing",
@@ -2160,9 +2166,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15833,
+  "EOS_Progressed": 15834,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17940,6 +17946,11 @@
       "Time": "2023-12-19T15:09:42.6345178+00:00",
       "NumProgressed": 15833,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-19T18:09:19.1640423+00:00",
+      "NumProgressed": 15834,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -19501,9 +19512,9 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_5",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 5",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_MACEDONIAN_WARS",
@@ -20101,9 +20112,9 @@
       "ID": "ACHIEVEMENT_VICTORY_NO_UNDO",
       "SetID": "9201eeb",
       "Name": "No Undo",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_ONE_CITY_CHALLENGE",
@@ -20229,9 +20240,9 @@
       "ID": "ACHIEVEMENT_SACRED_PROFANE_CLERGY_COURT",
       "SetID": "9201eeb",
       "Name": "The Clergy",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_DEPOSE_TRIBE",
@@ -20814,21 +20825,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15833,
+      "Progressed": 15834,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15833,
+      "Progressed": 15834,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2023-12-18T02:26:39.2860853+00:00",
-  "LastChanged_Achievements": "2023-12-19T17:09:29.1487969+00:00",
+  "LastChanged": "2023-12-19T18:02:53.2051748+00:00",
+  "LastChanged_Achievements": "2023-12-19T18:09:19.164042+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:47.4773202+00:00",
-  "LastUpdate_Ratings": "2023-12-19T17:02:52.70436+00:00",
-  "LastUpdate_Achievements": "2023-12-19T17:09:29.1497657+00:00"
+  "LastUpdate_Ratings": "2023-12-19T18:02:53.2051751+00:00",
+  "LastUpdate_Achievements": "2023-12-19T18:09:19.1650376+00:00"
 }

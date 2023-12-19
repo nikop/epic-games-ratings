@@ -3,11 +3,11 @@
   "Name": "Galactic Civilizations IV",
   "ProductSlug": "galactic-civilizations-iv",
   "Ranking_Rating": 953,
-  "Ranking_Popularity": 373,
-  "Ranking_PopularitySum": 304,
+  "Ranking_Popularity": 371,
+  "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 350,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -907,11 +907,17 @@
       "Rating": 4.17,
       "NumberOfAwards": 694,
       "NumberOfAwardsMax": 97
+    },
+    {
+      "Time": "2023-12-19T18:02:35.2743797+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 696,
+      "NumberOfAwardsMax": 98
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 694,
-  "NumberOfAwardsMax": 97,
+  "NumberOfAwards": 696,
+  "NumberOfAwardsMax": 98,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -948,13 +954,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 97
+      "Count": 98
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 90
+      "Count": 91
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9812,9 +9818,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
-  "LastChanged": "2023-12-17T00:00:16.001778+00:00",
-  "LastChanged_Achievements": "2023-12-19T17:09:38.277138+00:00",
+  "LastChanged": "2023-12-19T18:02:35.2743795+00:00",
+  "LastChanged_Achievements": "2023-12-19T18:09:29.232114+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:41.5804615+00:00",
-  "LastUpdate_Ratings": "2023-12-19T17:02:37.0772804+00:00",
-  "LastUpdate_Achievements": "2023-12-19T17:09:38.2772344+00:00"
+  "LastUpdate_Ratings": "2023-12-19T18:02:35.2743799+00:00",
+  "LastUpdate_Achievements": "2023-12-19T18:09:29.2322035+00:00"
 }

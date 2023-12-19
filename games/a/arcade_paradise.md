@@ -5,20 +5,20 @@ Rating: 4.58 (Ranked 456)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pushing a pull door | 96.00% | ~687 |
-| Fetch Quest Complete | 90.00% | ~644 |
-| I can't wait! | 83.00% | ~594 |
-| Swish | 56.00% | ~401 |
-| Clean up on Aisle 9 | 40.00% | ~286 |
+| Pushing a pull door | 96.00% | ~688 |
+| Fetch Quest Complete | 90.00% | ~645 |
+| I can't wait! | 83.00% | ~595 |
+| Swish | 56.00% | ~402 |
+| Clean up on Aisle 9 | 39.00% | ~280 |
 | Machine Maxed | 29.00% | ~208 |
 | Existential dread | 26.00% | ~186 |
 | Bug Fixer | 25.00% | ~179 |
 | Gerald of Riviera | 25.00% | ~179 |
 | Goal | 22.00% | ~158 |
-| I ran the numbers | 15.00% | ~107 |
+| I ran the numbers | 15.00% | ~108 |
 | Taking the plunge | 13.00% | ~93 |
 | Hidden Packages | 11.00% | ~79 |
-| GOOOAAAL | 9.00% | ~64 |
+| GOOOAAAL | 9.00% | ~65 |
 | Ahoy Hoy | 7.00% | ~50 |
 | Rhythm is a dancer | 6.00% | ~43 |
 | New Kid on the Block | 6.00% | ~43 |
@@ -30,9 +30,9 @@ Rating: 4.58 (Ranked 456)
 | GoldGuy Jr | 4.00% | ~29 |
 | Nose to the Grindstone | 4.00% | ~29 |
 | Waking nightmare | 4.00% | ~29 |
-| To do. Done! | 3.00% | ~21 |
-| We come in peace | 3.00% | ~21 |
-| Hammer time | 3.00% | ~21 |
+| To do. Done! | 3.00% | ~22 |
+| We come in peace | 3.00% | ~22 |
+| Hammer time | 3.00% | ~22 |
 | 1CC | 2.00% | ~14 |
 | GOOOOOOAAAAAAALLLL!!!! | 2.00% | ~14 |
 | Modern Gorefare | 2.00% | ~14 |
@@ -60,7 +60,7 @@ Rating: 4.58 (Ranked 456)
 | Another all nighter? | 0.10% | ~1 |
 | Video killed the radio star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 716 (Ranked 295)  
+Progressed: 717 (Ranked 295)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-16 | 706 | 0 |
 | 2023-12-17 | 712 | 0 |
 | 2023-12-18 | 715 | 0 |
-| 2023-12-19 | 716 | 0 |
+| 2023-12-19 | 717 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,17 +6,17 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~980,547 |
-| I Need a Bigger Garage | 63.00% | ~686,383 |
-| Pump my Ride | 47.00% | ~512,064 |
-| Ghostbuster | 34.00% | ~370,429 |
-| Call Roadside Assistance | 18.00% | ~196,109 |
-| That Was Close | 18.00% | ~196,109 |
-| Quickie | 11.00% | ~119,845 |
-| California Dreamer | 7.00% | ~76,265 |
-| Can't Touch This | 5.00% | ~54,475 |
-| Carménère Taster | 4.00% | ~43,580 |
-| Comeback | 4.00% | ~43,580 |
+| The First of Many | 90.00% | ~980,564 |
+| I Need a Bigger Garage | 63.00% | ~686,395 |
+| Pump my Ride | 47.00% | ~512,073 |
+| Ghostbuster | 34.00% | ~370,435 |
+| Call Roadside Assistance | 18.00% | ~196,113 |
+| That Was Close | 18.00% | ~196,113 |
+| Quickie | 11.00% | ~119,847 |
+| California Dreamer | 7.00% | ~76,266 |
+| Can't Touch This | 5.00% | ~54,476 |
+| Carménère Taster | 4.00% | ~43,581 |
+| Comeback | 4.00% | ~43,581 |
 | Driver from Ipanema | 3.00% | ~32,685 |
 | Supersonic | 3.00% | ~32,685 |
 | Marathonist | 3.00% | ~32,685 |
@@ -33,19 +33,19 @@ Number of Ratings: 1,343  (23.09.2022)
 | Oil Tycoon | 1.00% | ~10,895 |
 | Golden Passport | 1.00% | ~10,895 |
 | Brave and Bold | 1.00% | ~10,895 |
-| Old Master | 0.90% | ~9,805 |
-| Otaku | 0.90% | ~9,805 |
+| Old Master | 0.90% | ~9,806 |
+| Otaku | 0.90% | ~9,806 |
 | Volcano Surfer | 0.80% | ~8,716 |
 | Survivor | 0.60% | ~6,537 |
 | King of the World | 0.60% | ~6,537 |
-| Getting Famous | 0.50% | ~5,447 |
-| Now Go Play Outside | 0.30% | ~3,268 |
+| Getting Famous | 0.50% | ~5,448 |
+| Now Go Play Outside | 0.30% | ~3,269 |
 | Master of the Racetrack | 0.20% | ~2,179 |
 | Look Mom, No Hands! | 0.20% | ~2,179 |
-| Transporter | 0.10% | ~1,089 |
+| Transporter | 0.10% | ~1,090 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,089,497 (Ranked 14)  
-Completed: 510 (0.05%) (Ranked 331)  
+Progressed: 1,089,516 (Ranked 14)  
+Completed: 510 (0.05%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -287,10 +287,10 @@ Completed: 510 (0.05%) (Ranked 331)
 | 2023-12-16 | 1,088,191 | 509 |
 | 2023-12-17 | 1,088,771 | 510 |
 | 2023-12-18 | 1,089,170 | 510 |
-| 2023-12-19 | 1,089,497 | 510 |
+| 2023-12-19 | 1,089,516 | 510 |
 ## Awards
 Max (Great for Beginners): 178  (Ranked 306)  
-Sum: 1,588 (Ranked 235)  
+Sum: 1,589 (Ranked 235)  
 Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
@@ -302,7 +302,7 @@ Diff (max vs sum): 71
 | This game is Highly Recommended | 137 |
 | This game has Playful Visuals | 128 |
 | This game has Competitive Players | 127 |
-| This game is Extremely Fun | 125 |
+| This game is Extremely Fun | 126 |
 | This game has Amazing Storytelling | 110 |
 | This game has Amazing Characters | 101 |
 | This game has a Competitive Community | 92 |
@@ -580,3 +580,4 @@ Diff (max vs sum): 71
 | 2023-12-16 | 4.54 | - | 178 | 1,583 |
 | 2023-12-17 | 4.54 | - | 178 | 1,584 |
 | 2023-12-18 | 4.54 | - | 178 | 1,588 |
+| 2023-12-19 | 4.54 | - | 178 | 1,589 |

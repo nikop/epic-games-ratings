@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewPlayers": 67,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9918,9 +9918,9 @@
       "Count": 1031
     }
   ],
-  "EOS_Progressed": 128550,
+  "EOS_Progressed": 128558,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2146,
+  "EOS_NewPlayers": 2143,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35828,6 +35828,11 @@
       "Time": "2023-12-19T17:09:06.7636265+00:00",
       "NumProgressed": 128550,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-19T18:08:53.902982+00:00",
+      "NumProgressed": 128558,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35991,7 +35996,7 @@
       "Name": "Not Today!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3856
+      "UsersEstimate": 3857
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -35999,7 +36004,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3856
+      "UsersEstimate": 3857
     },
     {
       "ID": "combat_kill_fanatics",
@@ -36039,7 +36044,7 @@
       "Name": "Meat and Greet",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3856
+      "UsersEstimate": 3857
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -36055,7 +36060,7 @@
       "Name": "Catch and Decease",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3856
+      "UsersEstimate": 3857
     },
     {
       "ID": "combat_kill_librarian",
@@ -36063,7 +36068,7 @@
       "Name": "Overdue Notice",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3856
+      "UsersEstimate": 3857
     },
     {
       "ID": "combat_kill_pillagers",
@@ -36079,7 +36084,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3856
+      "UsersEstimate": 3857
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -36447,7 +36452,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -36470,21 +36475,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 128550,
+      "Progressed": 128558,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 3419,
+      "Progressed": 3427,
       "Completed": 802
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-19T13:58:45.7072148+00:00",
-  "LastChanged_Achievements": "2023-12-19T17:09:06.7636261+00:00",
+  "LastChanged_Achievements": "2023-12-19T18:08:53.9029817+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-19T16:58:42.3978602+00:00",
-  "LastUpdate_Achievements": "2023-12-19T17:09:06.7638629+00:00"
+  "LastUpdate_Ratings": "2023-12-19T17:59:10.033746+00:00",
+  "LastUpdate_Achievements": "2023-12-19T18:08:53.9031613+00:00"
 }

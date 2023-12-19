@@ -2,9 +2,9 @@
   "ID": "0acc28c619c44fbab3dd30c7f87e9679",
   "Name": "SpellForce: Conquest of Eo",
   "ProductSlug": "spellforce-conquest-of-eo",
-  "Ranking_EOS_Progress": 508,
+  "Ranking_EOS_Progress": 505,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 318,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 63,
+  "EOS_Progressed": 64,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -334,6 +334,11 @@
       "Time": "2023-12-18T21:09:12.9159181+00:00",
       "NumProgressed": 63,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T18:08:50.2293075+00:00",
+      "NumProgressed": 64,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-25T16:04:46.0994968+00:00",
@@ -352,7 +357,7 @@
       "ID": "Build_First_Lodge",
       "SetID": "7b9f97e",
       "Name": "Expansion",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 15,
       "UsersEstimate": 43
     },
@@ -362,7 +367,7 @@
       "Name": "Enough rooms to swing a cat",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "Build_First_Room_Extension",
@@ -376,15 +381,15 @@
       "ID": "Capture_Own_Tower",
       "SetID": "7b9f97e",
       "Name": "Home Sweet Home",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Cast_First_Spell",
       "SetID": "7b9f97e",
       "Name": "A kind of Magic",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 15,
       "UsersEstimate": 49
     },
@@ -392,7 +397,7 @@
       "ID": "Circle_Page",
       "SetID": "7b9f97e",
       "Name": "The Circle",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
       "UsersEstimate": 25
     },
@@ -400,7 +405,7 @@
       "ID": "Craft_First_Glyph",
       "SetID": "7b9f97e",
       "Name": "Artificer\u0027s Apprentice",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 15,
       "UsersEstimate": 35
     },
@@ -408,15 +413,15 @@
       "ID": "Craft_First_Potion",
       "SetID": "7b9f97e",
       "Name": "Alchemist\u0027s Apprentice",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Craft_First_Undead",
       "SetID": "7b9f97e",
       "Name": "Necromancer\u0027s Apprentice",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
       "UsersEstimate": 27
     },
@@ -424,7 +429,7 @@
       "ID": "Defeat_Gor",
       "SetID": "7b9f97e",
       "Name": "Defeat Gor",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -496,7 +501,7 @@
       "ID": "Enslave_Unit_Post_Battle",
       "SetID": "7b9f97e",
       "Name": "Slave to the rhythm",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
       "UsersEstimate": 15
     },
@@ -506,13 +511,13 @@
       "Name": "First to the post",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "First_Node_Meld",
       "SetID": "7b9f97e",
       "Name": "Connected",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 15,
       "UsersEstimate": 45
     },
@@ -520,7 +525,7 @@
       "ID": "Harvest_First_Plant",
       "SetID": "7b9f97e",
       "Name": "Harvest Time",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 15,
       "UsersEstimate": 39
     },
@@ -568,7 +573,7 @@
       "ID": "Landmark_CastleMeldec",
       "SetID": "7b9f97e",
       "Name": "Castle Meldec",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 13
     },
@@ -592,7 +597,7 @@
       "ID": "Landmark_ReganGorForge",
       "SetID": "7b9f97e",
       "Name": "The Forge of Regan Gor",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -600,7 +605,7 @@
       "ID": "Landmark_SilverDriftMine",
       "SetID": "7b9f97e",
       "Name": "Silver Drift Hollow Mine",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -760,7 +765,7 @@
       "ID": "Max_Reputation_Goldenfields",
       "SetID": "7b9f97e",
       "Name": "Friend of Lyraine",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
       "UsersEstimate": 25
     },
@@ -776,7 +781,7 @@
       "ID": "Max_Reputation_Sevenkeeps",
       "SetID": "7b9f97e",
       "Name": "Friend of Sevenkeeps",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
       "UsersEstimate": 15
     },
@@ -832,7 +837,7 @@
       "ID": "Mine_First_Ore",
       "SetID": "7b9f97e",
       "Name": "Mine!",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 15,
       "UsersEstimate": 39
     },
@@ -888,7 +893,7 @@
       "ID": "Tower_Fly",
       "SetID": "7b9f97e",
       "Name": "Fly the friendly Sky",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 15,
       "UsersEstimate": 30
     },
@@ -896,7 +901,7 @@
       "ID": "Zombify_Unit_Post_Battle",
       "SetID": "7b9f97e",
       "Name": "Bad JuJu",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
       "UsersEstimate": 15
     }
@@ -905,7 +910,7 @@
     {
       "ID": "7b9f97e",
       "IsBase": true,
-      "Progressed": 63,
+      "Progressed": 64,
       "Completed": 0
     }
   ],
@@ -913,8 +918,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-12-19T17:09:03.5407686+00:00",
+  "LastChanged_Achievements": "2023-12-19T18:08:50.2293067+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:09.2965751+00:00",
-  "LastUpdate_Ratings": "2023-12-19T16:59:13.4890235+00:00",
-  "LastUpdate_Achievements": "2023-12-19T17:09:03.5408246+00:00"
+  "LastUpdate_Ratings": "2023-12-19T17:59:44.8042701+00:00",
+  "LastUpdate_Achievements": "2023-12-19T18:08:50.229354+00:00"
 }

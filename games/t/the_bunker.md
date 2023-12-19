@@ -5,28 +5,28 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Last Goodbye | 91.00% | ~142 |
-| The Routine | 80.00% | ~125 |
+| The Routine | 81.00% | ~126 |
 | Mother | 79.00% | ~123 |
-| Failure | 76.00% | ~119 |
-| Replace Fuse | 68.00% | ~106 |
+| Failure | 77.00% | ~120 |
+| Replace Fuse | 69.00% | ~108 |
 | Alarm | 67.00% | ~105 |
-| Air Filtration | 63.00% | ~98 |
+| Air Filtration | 64.00% | ~100 |
 | Broken | 62.00% | ~97 |
 | Radiation | 60.00% | ~94 |
-| Descent | 58.00% | ~90 |
+| Descent | 59.00% | ~92 |
 | Awakenings | 58.00% | ~90 |
 | Cold Storage | 58.00% | ~90 |
-| Sam | 56.00% | ~87 |
+| Sam | 57.00% | ~89 |
+| Commissioner | 52.00% | ~81 |
+| Soldier | 52.00% | ~81 |
 | Leave | 51.00% | ~80 |
-| Commissioner | 51.00% | ~80 |
-| Soldier | 51.00% | ~80 |
-| Churchill | 50.00% | ~78 |
-| Engineer | 49.00% | ~76 |
+| Churchill | 51.00% | ~80 |
+| Engineer | 50.00% | ~78 |
 | Doctor | 48.00% | ~75 |
 | Press Play | 37.00% | ~58 |
 | General | 29.00% | ~45 |
 | Bookworm | 27.00% | ~42 |
-| Floppy Disk Finder | 15.00% | ~23 |
+| Floppy Disk Finder | 16.00% | ~25 |
 | Stay | 13.00% | ~20 |
 | Nurse | 11.00% | ~17 |
 | No Page Unturned | 6.00% | ~9 |

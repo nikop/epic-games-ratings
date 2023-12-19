@@ -281,9 +281,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 10436,
+  "EOS_Progressed": 10441,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 2710,
+  "EOS_NewPlayers": 2714,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -7141,6 +7141,11 @@
       "Time": "2023-12-19T17:09:48.1853323+00:00",
       "NumProgressed": 10436,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-12-19T18:09:40.1209026+00:00",
+      "NumProgressed": 10441,
+      "NumCompleted": 19
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -7153,7 +7158,7 @@
       "Name": "All Jacked Up",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "BabySteps",
@@ -7161,7 +7166,7 @@
       "Name": "Baby Steps",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 3340
+      "UsersEstimate": 3341
     },
     {
       "ID": "BeLikeWater",
@@ -7193,7 +7198,7 @@
       "Name": "Connection Lost",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1774
+      "UsersEstimate": 1775
     },
     {
       "ID": "Eavesdropper",
@@ -7209,7 +7214,7 @@
       "Name": "Explosive Personality",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "FasterThanLight",
@@ -7225,7 +7230,7 @@
       "Name": "First Time?",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4592
+      "UsersEstimate": 4594
     },
     {
       "ID": "FuneralForTheDeath",
@@ -7257,7 +7262,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 1565
+      "UsersEstimate": 1566
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -7297,7 +7302,7 @@
       "Name": "Nasty!",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 2296
+      "UsersEstimate": 2297
     },
     {
       "ID": "NoMoreTotems",
@@ -7337,7 +7342,7 @@
       "Name": "The Floor Is Lava",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "TheOldSchoolWay",
@@ -7345,7 +7350,7 @@
       "Name": "The Old-School Way",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1983
+      "UsersEstimate": 1984
     },
     {
       "ID": "TheQuarterback",
@@ -7353,15 +7358,15 @@
       "Name": "The Quarterback",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 3548
+      "UsersEstimate": 3550
     },
     {
       "ID": "ThisIsDharma",
       "SetID": "acc6ea0",
       "Name": "This... Is... Dharma!",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1148
+      "UsersEstimate": 1253
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -7369,7 +7374,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1670
+      "UsersEstimate": 1671
     },
     {
       "ID": "UnResurrected",
@@ -7385,7 +7390,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1565
+      "UsersEstimate": 1566
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -7424,7 +7429,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 10436,
+      "Progressed": 10441,
       "Completed": 19
     }
   ],
@@ -7432,8 +7437,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-19T14:59:30.647279+00:00",
-  "LastChanged_Achievements": "2023-12-19T17:09:48.185332+00:00",
+  "LastChanged_Achievements": "2023-12-19T18:09:40.1209022+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:14.4379471+00:00",
-  "LastUpdate_Ratings": "2023-12-19T16:58:59.1291968+00:00",
-  "LastUpdate_Achievements": "2023-12-19T17:09:48.1853839+00:00"
+  "LastUpdate_Ratings": "2023-12-19T17:59:28.9337694+00:00",
+  "LastUpdate_Achievements": "2023-12-19T18:09:40.1209609+00:00"
 }

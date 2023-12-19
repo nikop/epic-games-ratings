@@ -4,8 +4,8 @@
   "ProductSlug": "time-trap-8a9725",
   "Ranking_EOS_Progress": 581,
   "Ranking_EOS_Completed": 15,
-  "Ranking_EOS_NewPlayers": 480,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewPlayers": 482,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-09-22T08:00:00+00:00",
     "PcReleaseDate": "2017-07-28T18:00:00+00:00",
@@ -216,9 +216,9 @@
       "ID": "achievement_winner",
       "SetID": "b9jpe8p",
       "Name": "Winner",
-      "Percentage": 36,
+      "Percentage": 40,
       "XP": 200,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     }
   ],
   "AchievementSets": [
@@ -231,8 +231,8 @@
   ],
   "FirstSeen": "2023-12-15T13:06:07.1604686+00:00",
   "FirstSeenAchievements": "2023-09-12T14:02:14.1636362+00:00",
-  "LastChanged_Achievements": "2023-12-19T17:09:45.9425027+00:00",
+  "LastChanged_Achievements": "2023-12-19T18:09:37.7557872+00:00",
   "LastUpdate_AppInfo": "2023-12-12T20:56:55.3189316+00:00",
-  "LastUpdate_Ratings": "2023-12-19T16:57:41.6413529+00:00",
-  "LastUpdate_Achievements": "2023-12-19T17:09:45.942508+00:00"
+  "LastUpdate_Ratings": "2023-12-19T17:58:01.2370538+00:00",
+  "LastUpdate_Achievements": "2023-12-19T18:09:37.7557924+00:00"
 }

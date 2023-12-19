@@ -16,7 +16,7 @@ Rating: 4.56 (Ranked 498)
 | Well-to-do | 39.00% | ~38 |
 | The merciful one | 37.00% | ~36 |
 | Ladies' man | 37.00% | ~36 |
-| Ferocious wild boars | 29.00% | ~28 |
+| Ferocious wild boars | 30.00% | ~29 |
 | Idiot | 27.00% | ~26 |
 | Beast slayer | 24.00% | ~24 |
 | Family man | 22.00% | ~22 |
@@ -41,8 +41,8 @@ Rating: 4.56 (Ranked 498)
 | Freedom fighter | 11.00% | ~11 |
 | King of the handymen | 11.00% | ~11 |
 | Titan Lord | 10.00% | ~10 |
+| Expert | 9.00% | ~9 |
 | Terror of the hens | 8.00% | ~8 |
-| Expert | 8.00% | ~8 |
 | The traveler | 7.00% | ~7 |
 | Moneybags | 6.00% | ~6 |
 | Rune master | 4.00% | ~4 |

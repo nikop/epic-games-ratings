@@ -257,9 +257,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8123,
+  "EOS_Progressed": 8126,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -9462,6 +9462,11 @@
       "Time": "2023-12-19T17:04:51.0575657+00:00",
       "NumProgressed": 8123,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-19T18:05:04.9692006+00:00",
+      "NumProgressed": 8126,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -9473,7 +9478,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "ARRR",
@@ -9481,7 +9486,7 @@
       "Name": "Arrr!",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "AUDIOPHILE",
@@ -9561,7 +9566,7 @@
       "Name": "Historian",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "ICONOCLAST",
@@ -9569,7 +9574,7 @@
       "Name": "Iconoclast",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "IN_A_PINCH",
@@ -9609,7 +9614,7 @@
       "Name": "Snip Snip",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "SOUL_CANON",
@@ -9625,7 +9630,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 1137
+      "UsersEstimate": 1138
     },
     {
       "ID": "THING",
@@ -9640,7 +9645,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 8123,
+      "Progressed": 8126,
       "Completed": 34
     }
   ],
@@ -9648,8 +9653,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-12-17T08:57:44.8415466+00:00",
-  "LastChanged_Achievements": "2023-12-19T17:04:51.0575655+00:00",
+  "LastChanged_Achievements": "2023-12-19T18:05:04.9692003+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:46.5620941+00:00",
-  "LastUpdate_Ratings": "2023-12-19T16:58:03.8997553+00:00",
-  "LastUpdate_Achievements": "2023-12-19T17:04:51.0576123+00:00"
+  "LastUpdate_Ratings": "2023-12-19T17:58:26.4579974+00:00",
+  "LastUpdate_Achievements": "2023-12-19T18:05:04.9692517+00:00"
 }

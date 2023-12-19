@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 87.00% | ~55 |
-| Enough rooms to swing a cat | 84.00% | ~53 |
-| First to the post | 84.00% | ~53 |
-| A kind of Magic | 78.00% | ~49 |
-| Connected | 71.00% | ~45 |
-| Expansion | 68.00% | ~43 |
-| Harvest Time | 62.00% | ~39 |
-| Mine! | 62.00% | ~39 |
-| Artificer's Apprentice | 56.00% | ~35 |
-| Fly the friendly Sky | 48.00% | ~30 |
+| Home Sweet Home | 88.00% | ~56 |
+| Enough rooms to swing a cat | 84.00% | ~54 |
+| First to the post | 84.00% | ~54 |
+| A kind of Magic | 77.00% | ~49 |
+| Connected | 70.00% | ~45 |
+| Expansion | 67.00% | ~43 |
+| Harvest Time | 61.00% | ~39 |
+| Mine! | 61.00% | ~39 |
+| Artificer's Apprentice | 55.00% | ~35 |
+| Fly the friendly Sky | 47.00% | ~30 |
 | Get out of here! | 44.00% | ~28 |
-| Necromancer's Apprentice | 43.00% | ~27 |
-| The Circle | 40.00% | ~25 |
-| Alchemist's Apprentice | 40.00% | ~25 |
-| Friend of Lyraine | 40.00% | ~25 |
+| Necromancer's Apprentice | 42.00% | ~27 |
+| Alchemist's Apprentice | 41.00% | ~26 |
+| The Circle | 39.00% | ~25 |
+| Friend of Lyraine | 39.00% | ~25 |
 | Redecorating | 33.00% | ~21 |
-| Slave to the rhythm | 24.00% | ~15 |
-| Friend of Sevenkeeps | 24.00% | ~15 |
-| Bad JuJu | 24.00% | ~15 |
-| Castle Meldec | 21.00% | ~13 |
+| Slave to the rhythm | 23.00% | ~15 |
+| Friend of Sevenkeeps | 23.00% | ~15 |
+| Bad JuJu | 23.00% | ~15 |
+| Castle Meldec | 20.00% | ~13 |
 | Sevenkeeps Seat of Kings | 19.00% | ~12 |
 | Friend of Alluvyan | 16.00% | ~10 |
 | Friend of Connach | 16.00% | ~10 |
@@ -36,9 +36,9 @@
 | Friend of Silver Drift Hollow | 11.00% | ~7 |
 | Friend of Windholme | 11.00% | ~7 |
 | Magic Academy | 11.00% | ~7 |
-| Defeat Gor | 10.00% | ~6 |
-| The Forge of Regan Gor | 10.00% | ~6 |
-| Silver Drift Hollow Mine | 10.00% | ~6 |
+| Defeat Gor | 9.00% | ~6 |
+| The Forge of Regan Gor | 9.00% | ~6 |
+| Silver Drift Hollow Mine | 9.00% | ~6 |
 | Defeat Uram | 8.00% | ~5 |
 | Elynn's Tale | 8.00% | ~5 |
 | Lore's Tale | 8.00% | ~5 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63 (Ranked 508)  
+Progressed: 64 (Ranked 505)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,6 +112,7 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-16 | 54 | 0 |
 | 2023-12-17 | 60 | 0 |
 | 2023-12-18 | 63 | 0 |
+| 2023-12-19 | 64 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

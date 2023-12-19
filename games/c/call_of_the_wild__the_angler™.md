@@ -1,7 +1,7 @@
 # Call of the Wild: The Angler™
 [Store](https://store.epicgames.com/en-US/p/call-of-the-wild-the-angler)  
 [View Rawdata](../../db/c/call_of_the_wild__the_angler™.json)  
-Rating: 4.20 (Ranked 929)  
+Rating: 4.20 (Ranked 930)  
 Number of Ratings: 281  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,222 (Ranked 186)  
+Progressed: 7,223 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,11 +290,11 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-16 | 7,057 | 0 |
 | 2023-12-17 | 7,136 | 0 |
 | 2023-12-18 | 7,202 | 0 |
-| 2023-12-19 | 7,222 | 0 |
+| 2023-12-19 | 7,223 | 0 |
 ## Awards
-Max (Relaxing): 39  (Ranked 469)  
+Max (Relaxing): 39  (Ranked 470)  
 Sum: 208 (Ranked 403)  
-Diff (max vs sum): 66  
+Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 39 |

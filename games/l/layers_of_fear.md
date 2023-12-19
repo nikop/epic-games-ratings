@@ -24,10 +24,10 @@
 | The tragedy unfolds | 10.00% | ~16 |
 | Tough conversation | 10.00% | ~16 |
 | First steps | 9.00% | ~14 |
+| Lights! Camera! Action! | 9.00% | ~14 |
 | A new way | 8.00% | ~13 |
 | Another perspective | 8.00% | ~13 |
 | Breaking free | 8.00% | ~13 |
-| Lights! Camera! Action! | 8.00% | ~13 |
 | True Reflection | 8.00% | ~13 |
 | Casting Finished | 6.00% | ~9 |
 | Heavy Burden | 6.00% | ~9 |

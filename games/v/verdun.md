@@ -6,17 +6,17 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~52,122 |
-| Worth it | 63.00% | ~42,098 |
-| Eagle Eye | 55.00% | ~36,753 |
-| Corpseman I | 40.00% | ~26,729 |
-| Blast fishing | 37.00% | ~24,725 |
-| Not alone | 32.00% | ~21,383 |
-| Headhunter I | 26.00% | ~17,374 |
-| Manual Labour I | 25.00% | ~16,706 |
+| Setting an example | 78.00% | ~52,125 |
+| Worth it | 63.00% | ~42,101 |
+| Eagle Eye | 55.00% | ~36,755 |
+| Corpseman I | 40.00% | ~26,731 |
+| Blast fishing | 37.00% | ~24,726 |
+| Not alone | 32.00% | ~21,385 |
+| Headhunter I | 26.00% | ~17,375 |
+| Manual Labour I | 25.00% | ~16,707 |
 | Developers, Developers, Developers | 24.00% | ~16,038 |
-| Basic Training | 23.00% | ~15,369 |
-| Furchtlos und Treu | 13.00% | ~8,687 |
+| Basic Training | 23.00% | ~15,370 |
+| Furchtlos und Treu | 13.00% | ~8,688 |
 | Gott Mit Uns | 12.00% | ~8,019 |
 | This We'll Defend! | 9.00% | ~6,014 |
 | Anker wirf! | 9.00% | ~6,014 |
@@ -41,8 +41,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | In My Defens God Me Defend | 3.00% | ~2,005 |
 | Silver x100 | 3.00% | ~2,005 |
 | Impavidum Ferient Bella! | 3.00% | ~2,005 |
-| Bronze x100 | 2.00% | ~1,336 |
-| Shoot, Cover, Reload, Repeat | 2.00% | ~1,336 |
+| Bronze x100 | 2.00% | ~1,337 |
+| Shoot, Cover, Reload, Repeat | 2.00% | ~1,337 |
 | Gold x100 | 1.00% | ~668 |
 | Hunting the Hun | 1.00% | ~668 |
 | #1 | 1.00% | ~668 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~67 |
 | Blood Brother | 0.10% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,823 (Ranked 109)  
+Progressed: 66,827 (Ranked 109)  
 Completed: 4 (0.01%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 4 (0.01%) (Ranked 359)
 | 2023-12-16 | 66,554 | 4 |
 | 2023-12-17 | 66,676 | 4 |
 | 2023-12-18 | 66,754 | 4 |
-| 2023-12-19 | 66,823 | 4 |
+| 2023-12-19 | 66,827 | 4 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 363)  
 Sum: 821 (Ranked 281)  

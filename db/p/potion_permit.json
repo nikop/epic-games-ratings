@@ -379,9 +379,9 @@
       "Count": 69
     }
   ],
-  "EOS_Progressed": 1733,
+  "EOS_Progressed": 1734,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -2749,6 +2749,11 @@
       "Time": "2023-12-19T17:05:53.0430601+00:00",
       "NumProgressed": 1733,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-19T18:06:13.5613051+00:00",
+      "NumProgressed": 1734,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 38,
@@ -2760,7 +2765,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1698
+      "UsersEstimate": 1699
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -2808,7 +2813,7 @@
       "Name": "K.O.!",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "ACHIEVEMENTS_08",
@@ -2816,15 +2821,15 @@
       "Name": "The First Step",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1525
+      "UsersEstimate": 1526
     },
     {
       "ID": "ACHIEVEMENTS_09",
       "SetID": "d4o538a",
       "Name": "Rookie Chemist",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1058
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -2832,7 +2837,7 @@
       "Name": "Intermediate Chemist",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "ACHIEVEMENTS_11",
@@ -2886,9 +2891,9 @@
       "ID": "ACHIEVEMENTS_17",
       "SetID": "d4o538a",
       "Name": "Kind-hearted",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 451
+      "UsersEstimate": 434
     },
     {
       "ID": "ACHIEVEMENTS_18",
@@ -2896,7 +2901,7 @@
       "Name": "Dog Whisperer",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "ACHIEVEMENTS_19",
@@ -3016,7 +3021,7 @@
       "Name": "Catch of the Day",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "ACHIEVEMENTS_34",
@@ -3024,7 +3029,7 @@
       "Name": "Moonbury Traveller",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "ACHIEVEMENTS_35",
@@ -3063,7 +3068,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1733,
+      "Progressed": 1734,
       "Completed": 10
     }
   ],
@@ -3071,8 +3076,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-12-02T14:58:43.9151067+00:00",
-  "LastChanged_Achievements": "2023-12-19T17:05:53.0430598+00:00",
+  "LastChanged_Achievements": "2023-12-19T18:06:13.5613048+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:47.0899932+00:00",
-  "LastUpdate_Ratings": "2023-12-19T16:59:41.9075041+00:00",
-  "LastUpdate_Achievements": "2023-12-19T17:05:53.0430928+00:00"
+  "LastUpdate_Ratings": "2023-12-19T18:00:15.8359318+00:00",
+  "LastUpdate_Achievements": "2023-12-19T18:06:13.5613454+00:00"
 }

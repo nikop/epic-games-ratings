@@ -2,7 +2,7 @@
   "ID": "0407f287e7574d88b7c00895f14628d8",
   "Name": "Settlement Survival",
   "ProductSlug": "settlement-survival-923f57",
-  "Ranking_EOS_Progress": 472,
+  "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 157,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 92,
+  "EOS_Progressed": 94,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -364,6 +364,11 @@
       "Time": "2023-12-19T14:05:29.6562606+00:00",
       "NumProgressed": 92,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T18:05:59.9636525+00:00",
+      "NumProgressed": 94,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T07:05:28.2307151+00:00",
@@ -408,7 +413,7 @@
       "Name": "Clear Road",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "dl2",
@@ -456,7 +461,7 @@
       "Name": "City Center",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "fw2",
@@ -478,7 +483,7 @@
       "ID": "g1",
       "SetID": "b1ggf28",
       "Name": "Skilled Workers",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 20,
       "UsersEstimate": 42
     },
@@ -542,7 +547,7 @@
       "ID": "jg3",
       "SetID": "b1ggf28",
       "Name": "Full Load",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -646,7 +651,7 @@
       "ID": "r1",
       "SetID": "b1ggf28",
       "Name": "Prosperity",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
       "UsersEstimate": 6
     },
@@ -688,7 +693,7 @@
       "Name": "Against the Cold",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "w2",
@@ -783,14 +788,14 @@
     {
       "ID": "b1ggf28",
       "IsBase": true,
-      "Progressed": 92,
+      "Progressed": 94,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-19T17:05:40.5407773+00:00",
+  "LastChanged_Achievements": "2023-12-19T18:05:59.9636522+00:00",
   "LastUpdate_AppInfo": "2023-12-13T03:56:57.6568972+00:00",
-  "LastUpdate_Ratings": "2023-12-19T17:02:49.5095878+00:00",
-  "LastUpdate_Achievements": "2023-12-19T17:05:40.5408154+00:00"
+  "LastUpdate_Ratings": "2023-12-19T18:02:49.6242306+00:00",
+  "LastUpdate_Achievements": "2023-12-19T18:05:59.9637116+00:00"
 }

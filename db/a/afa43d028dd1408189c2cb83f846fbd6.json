@@ -2,9 +2,9 @@
   "ID": "afa43d028dd1408189c2cb83f846fbd6",
   "Name": "Don\u0027t Turn Back",
   "ProductSlug": "dont-turn-back-ee3a9d",
-  "Ranking_EOS_Progress": 809,
+  "Ranking_EOS_Progress": 810,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 555,
+  "Ranking_EOS_NewPlayers": 556,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-12-18T00:00:00+00:00",
@@ -31,8 +31,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "d6p222h",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2023-12-19T18:06:30.2830283+00:00",
+  "LastChanged_Achievements": "2023-12-19T18:06:30.2830264+00:00",
   "LastUpdate_AppInfo": "2023-12-19T06:57:00.5865898+00:00",
-  "LastUpdate_Ratings": "2023-12-19T16:57:01.0048637+00:00",
-  "LastUpdate_Achievements": "2023-12-19T17:06:08.1106951+00:00"
+  "LastUpdate_Ratings": "2023-12-19T17:57:17.3994226+00:00",
+  "LastUpdate_Achievements": "2023-12-19T18:06:30.28303+00:00"
 }

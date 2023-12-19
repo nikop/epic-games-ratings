@@ -2,7 +2,7 @@
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
-  "Ranking_Rating": 929,
+  "Ranking_Rating": 930,
   "Ranking_Popularity": 342,
   "Ranking_PopularitySum": 283,
   "Ranking_EOS_Progress": 132,
@@ -1344,9 +1344,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 30779,
+  "EOS_Progressed": 30782,
   "EOS_Completed": 84,
-  "EOS_NewPlayers": 567,
+  "EOS_NewPlayers": 566,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -27394,6 +27394,11 @@
       "Time": "2023-12-19T17:09:33.598878+00:00",
       "NumProgressed": 30779,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2023-12-19T18:09:23.8755109+00:00",
+      "NumProgressed": 30782,
+      "NumCompleted": 84
     }
   ],
   "TotalAchievements": 22,
@@ -27477,7 +27482,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2462
+      "UsersEstimate": 2463
     },
     {
       "ID": "1025",
@@ -27509,7 +27514,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5540
+      "UsersEstimate": 5541
     },
     {
       "ID": "1029",
@@ -27517,7 +27522,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2462
+      "UsersEstimate": 2463
     },
     {
       "ID": "1030",
@@ -27533,7 +27538,7 @@
       "Name": "Well Stocked",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4001
+      "UsersEstimate": 4002
     },
     {
       "ID": "1032",
@@ -27541,7 +27546,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 12312
+      "UsersEstimate": 12313
     },
     {
       "ID": "1033",
@@ -27565,7 +27570,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 4001
+      "UsersEstimate": 4002
     },
     {
       "ID": "1036",
@@ -27580,15 +27585,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 30779,
+      "Progressed": 30782,
       "Completed": 84
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-16T17:01:32.5385124+00:00",
-  "LastChanged_Achievements": "2023-12-19T17:09:33.5988777+00:00",
+  "LastChanged_Achievements": "2023-12-19T18:09:23.8755106+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:33.5053041+00:00",
-  "LastUpdate_Ratings": "2023-12-19T16:57:41.2717441+00:00",
-  "LastUpdate_Achievements": "2023-12-19T17:09:33.5989999+00:00"
+  "LastUpdate_Ratings": "2023-12-19T17:58:00.8287074+00:00",
+  "LastUpdate_Achievements": "2023-12-19T18:09:23.8756553+00:00"
 }

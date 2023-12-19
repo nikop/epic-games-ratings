@@ -5,9 +5,9 @@
   "Ranking_Rating": 353,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 515,
-  "Ranking_EOS_Progress": 531,
+  "Ranking_EOS_Progress": 527,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -299,9 +299,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 46,
+  "EOS_Progressed": 47,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -429,6 +429,11 @@
       "Time": "2023-12-19T17:04:21.9751676+00:00",
       "NumProgressed": 46,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T18:04:33.8918713+00:00",
+      "NumProgressed": 47,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -479,7 +484,7 @@
       "ID": "ACH_ABILITY_PKHUMANINTOHUMAN",
       "SetID": "cefn62b",
       "Name": "Yettisoned",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 15,
       "UsersEstimate": 24
     },
@@ -503,7 +508,7 @@
       "ID": "ACH_ABILITY_SCANINHOLOBOB",
       "SetID": "cefn62b",
       "Name": "I Look Up As I Walk to Takoshima",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 15,
       "UsersEstimate": 22
     },
@@ -519,7 +524,7 @@
       "ID": "ACH_ABILITY_TRANSMOG",
       "SetID": "cefn62b",
       "Name": "Freshly Squeezed",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
       "UsersEstimate": 16
     },
@@ -527,7 +532,7 @@
       "ID": "ACH_ABILITY_WITHWEAPON",
       "SetID": "cefn62b",
       "Name": "Lie Back and Think of Albion",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 15,
       "UsersEstimate": 30
     },
@@ -591,15 +596,15 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "cefn62b",
       "Name": "Earthly Pleasures",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_COLLECT_BRAINWHILEDAMAGED",
       "SetID": "cefn62b",
       "Name": "Kaijuiced",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 15,
       "UsersEstimate": 31
     },
@@ -607,15 +612,15 @@
       "ID": "ACH_COLLECT_PROBE",
       "SetID": "cefn62b",
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_COMBAT_EVADEBAZOOKA",
       "SetID": "cefn62b",
       "Name": "Die Nasty",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -623,9 +628,9 @@
       "ID": "ACH_ENEMY_KILLARMQUIST",
       "SetID": "cefn62b",
       "Name": "Albion Bridge Is for Falling Down",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_ENEMY_KILLROBOPREZ",
@@ -679,7 +684,7 @@
       "ID": "ACH_INVADE_SANTAMODESTA",
       "SetID": "cefn62b",
       "Name": "Upgreatest",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
       "UsersEstimate": 10
     },
@@ -687,9 +692,9 @@
       "ID": "ACH_INVADE_TURNIPSEED",
       "SetID": "cefn62b",
       "Name": "Shop Til They Drop",
-      "Percentage": 41,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_INVADE_UNIONTOWN",
@@ -735,15 +740,15 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "cefn62b",
       "Name": "Perfect Probulator",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
       "SetID": "cefn62b",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
       "UsersEstimate": 16
     },
@@ -751,7 +756,7 @@
       "ID": "ACH_UPGRADE_TOPTIER",
       "SetID": "cefn62b",
       "Name": "Trans-Siberian Express",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 30,
       "UsersEstimate": 10
     }
@@ -760,15 +765,15 @@
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 46,
+      "Progressed": 47,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2023-11-09T01:43:19.9714919+00:00",
-  "LastChanged_Achievements": "2023-12-19T17:04:21.9751671+00:00",
+  "LastChanged_Achievements": "2023-12-19T18:04:33.891871+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:30.3369877+00:00",
-  "LastUpdate_Ratings": "2023-12-19T16:57:26.2834997+00:00",
-  "LastUpdate_Achievements": "2023-12-19T17:04:21.9751977+00:00"
+  "LastUpdate_Ratings": "2023-12-19T17:57:43.7692716+00:00",
+  "LastUpdate_Achievements": "2023-12-19T18:04:33.891897+00:00"
 }
