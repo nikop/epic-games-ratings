@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 8.00% | ~275 |
+| Malpractice Assurance | 8.00% | ~276 |
 | Lost and Found | 5.00% | ~172 |
 | This Belongs in a Museum | 4.00% | ~5,143 |
 | Autodidact | 4.00% | ~5,143 |
@@ -19,20 +19,20 @@ Number of Ratings: 7,767  (23.09.2022)
 | Overdue Notice | 3.00% | ~3,857 |
 | Escape from the Black Hole | 3.00% | ~3,857 |
 | Ploughshares to Swords | 3.00% | ~103 |
-| Don't Make Me Turn This Coach Around | 2.00% | ~2,571 |
-| Serenity Now! | 2.00% | ~2,571 |
-| It Rings a Bell | 2.00% | ~2,571 |
-| Dissector | 2.00% | ~2,571 |
-| It Happens | 2.00% | ~2,571 |
-| Spelunker | 2.00% | ~2,571 |
-| Rush Hour | 2.00% | ~2,571 |
-| Merry Time | 2.00% | ~2,571 |
-| Harvest Festival | 2.00% | ~2,571 |
-| To Grandmother's House | 2.00% | ~2,571 |
-| Whale | 2.00% | ~2,571 |
-| A Place to Lay Your Head | 2.00% | ~2,571 |
-| FNG | 2.00% | ~2,571 |
-| Nope | 2.00% | ~2,571 |
+| Don't Make Me Turn This Coach Around | 2.00% | ~2,572 |
+| Serenity Now! | 2.00% | ~2,572 |
+| It Rings a Bell | 2.00% | ~2,572 |
+| Dissector | 2.00% | ~2,572 |
+| It Happens | 2.00% | ~2,572 |
+| Spelunker | 2.00% | ~2,572 |
+| Rush Hour | 2.00% | ~2,572 |
+| Merry Time | 2.00% | ~2,572 |
+| Harvest Festival | 2.00% | ~2,572 |
+| To Grandmother's House | 2.00% | ~2,572 |
+| Whale | 2.00% | ~2,572 |
+| A Place to Lay Your Head | 2.00% | ~2,572 |
+| FNG | 2.00% | ~2,572 |
+| Nope | 2.00% | ~2,572 |
 | Friends 'Til the End | 2.00% | ~69 |
 | Resurrection | 1.00% | ~1,286 |
 | Unleash Hell | 1.00% | ~1,286 |
@@ -67,12 +67,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | Et Tu, Riposte? | 0.50% | ~17 |
 | Clearing the Ledger | 0.40% | ~514 |
 | Triage | 0.40% | ~514 |
+| No Mercy | 0.40% | ~14 |
 | A Life Well Lived | 0.30% | ~386 |
 | The World As It Was | 0.30% | ~386 |
 | Bacon Bits | 0.30% | ~386 |
 | Hat Trick | 0.30% | ~386 |
 | Maître De La Lame | 0.30% | ~10 |
-| No Mercy | 0.30% | ~10 |
 | Tears in the Rain | 0.20% | ~257 |
 | Eidetic | 0.20% | ~257 |
 | Battle Hardened | 0.20% | ~7 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,569 (Ranked 85)  
+Progressed: 128,578 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 3 (0.00%) (Ranked 383)
 | 2023-12-16 | 127,826 | 3 |
 | 2023-12-17 | 128,143 | 3 |
 | 2023-12-18 | 128,398 | 3 |
-| 2023-12-19 | 128,569 | 3 |
+| 2023-12-19 | 128,578 | 3 |
 ## Awards
 Max (Character Customization): 7,795  (Ranked 50)  
 Sum: 20,792 (Ranked 58)  

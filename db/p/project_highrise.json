@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 400,
+  "EOS_Progressed": 401,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1180,6 +1180,11 @@
       "Time": "2023-12-19T19:05:58.5547742+00:00",
       "NumProgressed": 400,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T20:08:22.7202638+00:00",
+      "NumProgressed": 401,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1245,7 +1250,7 @@
       "ID": "ach_art_large",
       "SetID": "b8gh1fi",
       "Name": "Artistic Largesse",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -1253,9 +1258,9 @@
       "ID": "ach_art_medium",
       "SetID": "b8gh1fi",
       "Name": "Curated Class",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_art_outside",
@@ -1293,7 +1298,7 @@
       "ID": "ach_campaigns_2",
       "SetID": "b8gh1fi",
       "Name": "Infrastructure Info",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -1349,9 +1354,9 @@
       "ID": "ach_consultants_b",
       "SetID": "b8gh1fi",
       "Name": "I\u0027m Busy Ruling",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 20
     },
     {
       "ID": "ach_consultants_c",
@@ -1413,7 +1418,7 @@
       "ID": "ach_ep1_casino",
       "SetID": "b8gh1fi",
       "Name": "High Hand",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -1421,9 +1426,9 @@
       "ID": "ach_ep1_checkin_1",
       "SetID": "b8gh1fi",
       "Name": "Full House",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_ep1_checkin_2",
@@ -1485,9 +1490,9 @@
       "ID": "ach_ep1_revs_2",
       "SetID": "b8gh1fi",
       "Name": "In the Money",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 8
     },
     {
       "ID": "ach_floors",
@@ -1495,39 +1500,39 @@
       "Name": "Starting Skyward",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ach_floors_1",
       "SetID": "b8gh1fi",
       "Name": "Careful Constructor",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 24
     },
     {
       "ID": "ach_floors_2",
       "SetID": "b8gh1fi",
       "Name": "Such Great Heights",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_fountains",
       "SetID": "b8gh1fi",
       "Name": "Water Features",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 28
     },
     {
       "ID": "ach_grime",
       "SetID": "b8gh1fi",
       "Name": "Grime is Not Good",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 184
     },
     {
       "ID": "ach_grime_1",
@@ -1581,9 +1586,9 @@
       "ID": "ach_nomoveout",
       "SetID": "b8gh1fi",
       "Name": "28 Days Later",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 40
     },
     {
       "ID": "ach_office_1",
@@ -1597,9 +1602,9 @@
       "ID": "ach_office_2",
       "SetID": "b8gh1fi",
       "Name": "Meet Me at HQ",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 24
     },
     {
       "ID": "ach_plaza",
@@ -1637,9 +1642,9 @@
       "ID": "ach_prestige_2",
       "SetID": "b8gh1fi",
       "Name": "Established Fame",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 68
     },
     {
       "ID": "ach_prestige_3",
@@ -1655,7 +1660,7 @@
       "Name": "In the Black",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ach_profit_1",
@@ -1733,9 +1738,9 @@
       "ID": "ach_retail_1",
       "SetID": "b8gh1fi",
       "Name": "Retail Revenue",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 92
     },
     {
       "ID": "ach_retail_2",
@@ -1837,9 +1842,9 @@
       "ID": "ach_util_cable",
       "SetID": "b8gh1fi",
       "Name": "Tuned In",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 20
     },
     {
       "ID": "ach_util_gas",
@@ -1877,9 +1882,9 @@
       "ID": "ach_veryhappy",
       "SetID": "b8gh1fi",
       "Name": "Thrilled Tenants",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 48
     },
     {
       "ID": "ach_visitors_1",
@@ -1894,7 +1899,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 400,
+      "Progressed": 401,
       "Completed": 0
     }
   ],
@@ -1902,8 +1907,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-12-19T19:05:58.5547737+00:00",
+  "LastChanged_Achievements": "2023-12-19T20:08:22.7202635+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:18.491222+00:00",
-  "LastUpdate_Ratings": "2023-12-19T18:58:25.4146675+00:00",
-  "LastUpdate_Achievements": "2023-12-19T19:05:58.5548577+00:00"
+  "LastUpdate_Ratings": "2023-12-19T19:59:24.5466997+00:00",
+  "LastUpdate_Achievements": "2023-12-19T20:08:22.7203364+00:00"
 }

@@ -6,13 +6,13 @@ Rating: 4.58 (Ranked 456)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 30.00% | ~1,075 |
-| Sputnik 2049 | 27.00% | ~967 |
+| Sputnik 2049 | 27.00% | ~968 |
 | Infinite Growth... | 26.00% | ~932 |
 | Without Breaking Some Eggs... | 25.00% | ~896 |
 | Ready for a New World | 18.00% | ~645 |
 | Space Society | 17.00% | ~609 |
 | A Thousand Strong | 17.00% | ~609 |
-| Permanent Redesigns | 15.00% | ~537 |
+| Permanent Redesigns | 15.00% | ~538 |
 | Fully Recycled | 14.00% | ~502 |
 | Ain't Nobody Got Time for That | 14.00% | ~502 |
 | The Ship of Theseus | 14.00% | ~502 |
@@ -21,7 +21,7 @@ Rating: 4.58 (Ranked 456)
 | Breaking Protocol | 12.00% | ~430 |
 | Hope Seeker | 12.00% | ~430 |
 | A Hunk of Junk | 11.00% | ~394 |
-| Man's Best Friend | 9.00% | ~322 |
+| Man's Best Friend | 9.00% | ~323 |
 | Power Outage | 8.00% | ~287 |
 | Convenient Transport | 8.00% | ~287 |
 | Please Make it Stop! | 8.00% | ~287 |
@@ -39,10 +39,10 @@ Rating: 4.58 (Ranked 456)
 | Sustainable Energy | 4.00% | ~143 |
 | In Dolos We Trust | 4.00% | ~143 |
 | Pedal to the Metal | 4.00% | ~143 |
-| Praise the Hull! | 3.00% | ~107 |
-| Delivery! | 3.00% | ~107 |
-| Help of the Forgotten Member | 3.00% | ~107 |
-| Pulsar Disciple | 3.00% | ~107 |
+| Praise the Hull! | 3.00% | ~108 |
+| Delivery! | 3.00% | ~108 |
+| Help of the Forgotten Member | 3.00% | ~108 |
+| Pulsar Disciple | 3.00% | ~108 |
 | Mutual Loyalty | 2.00% | ~72 |
 | Tiqqun Contender | 2.00% | ~72 |
 | Catastrophe Avoided | 2.00% | ~72 |
@@ -53,7 +53,7 @@ Rating: 4.58 (Ranked 456)
 | You Had One Job... | 1.00% | ~36 |
 | Gregor Spinoza | 1.00% | ~36 |
 | Scientifically Accurate | 1.00% | ~36 |
-| Work Harder | 0.60% | ~21 |
+| Work Harder | 0.60% | ~22 |
 | Crunch Culture | 0.40% | ~14 |
 | Soylent Green | 0.40% | ~14 |
 | A Junker's Dream | 0.30% | ~11 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 456)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,583 (Ranked 211)  
+Progressed: 3,584 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-16 | 3,519 | 0 |
 | 2023-12-17 | 3,550 | 0 |
 | 2023-12-18 | 3,569 | 0 |
-| 2023-12-19 | 3,583 | 0 |
+| 2023-12-19 | 3,584 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

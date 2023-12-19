@@ -4,7 +4,7 @@
   "ProductSlug": "puzzle-compound-fe9903",
   "Ranking_EOS_Progress": 518,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 481,
+  "Ranking_EOS_NewPlayers": 482,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-25T13:00:00+00:00",
@@ -258,9 +258,9 @@
       "ID": "ACH_MANSION_COMPLETED",
       "SetID": "b5c8hh8",
       "Name": "Jefferson\u0027s Mansion Complete",
-      "Percentage": 62,
+      "Percentage": 66,
       "XP": 80,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_MANSION_FAST_COMPLETED",
@@ -313,8 +313,8 @@
   ],
   "FirstSeen": "2023-06-09T19:57:14.7958612+00:00",
   "FirstSeenAchievements": "2023-05-09T02:03:36.4240684+00:00",
-  "LastChanged_Achievements": "2023-12-19T19:09:02.3347608+00:00",
+  "LastChanged_Achievements": "2023-12-19T20:10:23.7011315+00:00",
   "LastUpdate_AppInfo": "2023-12-12T20:56:55.5157709+00:00",
-  "LastUpdate_Ratings": "2023-12-19T18:58:14.5681757+00:00",
-  "LastUpdate_Achievements": "2023-12-19T19:09:02.3347696+00:00"
+  "LastUpdate_Ratings": "2023-12-19T19:59:09.146492+00:00",
+  "LastUpdate_Achievements": "2023-12-19T20:10:23.7011387+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 300,
-  "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_Completed": 160,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 680,
+  "EOS_Progressed": 682,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.18,
+  "EOS_Completed_Percentage": 1.17,
   "EosHistory": [
     {
       "Time": "2023-09-22T21:07:10.6425492+00:00",
@@ -2310,6 +2310,11 @@
       "Time": "2023-12-19T19:07:55.3716433+00:00",
       "NumProgressed": 680,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-19T20:08:58.3094473+00:00",
+      "NumProgressed": 682,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -2330,7 +2335,7 @@
       "Name": "Establish Communications",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ACH_eou2",
@@ -2338,7 +2343,7 @@
       "Name": "Destroy Strogg Logistical Train",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ACH_eou3",
@@ -2346,7 +2351,7 @@
       "Name": "Destroy Security Grid",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ACH_eou4",
@@ -2354,7 +2359,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "ACH_eou5",
@@ -2378,7 +2383,7 @@
       "Name": "Destroy the Big Gun",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "ACH_eou8",
@@ -2386,7 +2391,7 @@
       "Name": "Destroy Black Hole Generator",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACH_mg2",
@@ -2425,14 +2430,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 680,
+      "Progressed": 682,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-19T19:07:55.3716427+00:00",
+  "LastChanged_Achievements": "2023-12-19T20:08:58.3094469+00:00",
   "LastUpdate_AppInfo": "2023-12-15T04:56:57.6157011+00:00",
-  "LastUpdate_Ratings": "2023-12-19T18:59:10.2610438+00:00",
-  "LastUpdate_Achievements": "2023-12-19T19:07:55.3716666+00:00"
+  "LastUpdate_Ratings": "2023-12-19T20:00:27.1167783+00:00",
+  "LastUpdate_Achievements": "2023-12-19T20:08:58.3094663+00:00"
 }

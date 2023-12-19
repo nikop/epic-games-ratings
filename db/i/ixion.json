@@ -311,9 +311,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3583,
+  "EOS_Progressed": 3584,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6686,6 +6686,11 @@
       "Time": "2023-12-19T19:03:03.7822498+00:00",
       "NumProgressed": 3583,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T20:03:59.2384482+00:00",
+      "NumProgressed": 3584,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -6705,7 +6710,7 @@
       "Name": "Man\u0027s Best Friend",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "ACH_BASE_11",
@@ -6809,7 +6814,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "ACH_BASE_25",
@@ -6881,7 +6886,7 @@
       "Name": "Praise the Hull!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_BASE_33",
@@ -6953,7 +6958,7 @@
       "Name": "Work Harder",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_BASE_44",
@@ -6985,7 +6990,7 @@
       "Name": "Delivery!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_BASE_48",
@@ -6993,7 +6998,7 @@
       "Name": "Permanent Redesigns",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "ACH_BASE_49",
@@ -7113,7 +7118,7 @@
       "Name": "Help of the Forgotten Member",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_BASE_64",
@@ -7145,20 +7150,20 @@
       "Name": "Pulsar Disciple",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     }
   ],
   "AchievementSets": [
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1767,
+      "Progressed": 1768,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3583,
+      "Progressed": 3584,
       "Completed": 0
     }
   ],
@@ -7166,8 +7171,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-10T20:59:24.4447628+00:00",
-  "LastChanged_Achievements": "2023-12-19T19:03:03.7822491+00:00",
+  "LastChanged_Achievements": "2023-12-19T20:03:59.2384478+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.6786359+00:00",
-  "LastUpdate_Ratings": "2023-12-19T18:59:32.4592531+00:00",
-  "LastUpdate_Achievements": "2023-12-19T19:03:03.7823753+00:00"
+  "LastUpdate_Ratings": "2023-12-19T20:00:59.5799127+00:00",
+  "LastUpdate_Achievements": "2023-12-19T20:03:59.2385236+00:00"
 }

@@ -4733,9 +4733,9 @@
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 253
+      "UsersEstimate": 267
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -4781,9 +4781,9 @@
       "ID": "PROGRESS_N4",
       "SetID": "2gma9an",
       "Name": "The darkness",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 60,
-      "UsersEstimate": 323
+      "UsersEstimate": 337
     },
     {
       "ID": "PROGRESS_N5",
@@ -4806,8 +4806,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-19T13:57:35.0364217+00:00",
-  "LastChanged_Achievements": "2023-12-19T19:06:01.013523+00:00",
+  "LastChanged_Achievements": "2023-12-19T20:08:25.6621009+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:30.8935759+00:00",
-  "LastUpdate_Ratings": "2023-12-19T18:57:40.3322114+00:00",
-  "LastUpdate_Achievements": "2023-12-19T19:06:01.013566+00:00"
+  "LastUpdate_Ratings": "2023-12-19T19:58:18.5554716+00:00",
+  "LastUpdate_Achievements": "2023-12-19T20:08:25.662148+00:00"
 }

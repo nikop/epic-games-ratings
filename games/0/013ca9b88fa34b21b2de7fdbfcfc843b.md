@@ -15,10 +15,10 @@ Rating: 4.63 (Ranked 353)
 | Miner 49er | 0.60% | ~51 |
 | Humble Collector | 0.60% | ~51 |
 | Mist Walker | 0.60% | ~51 |
+| Lumberjack | 0.50% | ~43 |
 | Exit Through The Gift Shop | 0.50% | ~6 |
 | Clear the Air | 0.40% | ~34 |
 | Search for the Hairy Grell | 0.40% | ~34 |
-| Lumberjack | 0.40% | ~34 |
 | Higher Tax Bracket | 0.40% | ~34 |
 | Oui, Chef! | 0.40% | ~34 |
 | Beach Comber | 0.30% | ~26 |

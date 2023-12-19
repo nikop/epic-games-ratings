@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -3017,9 +3017,9 @@
       "ID": "EV_ACH01",
       "SetID": "6jeac23",
       "Name": "Blue Dreams",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 806
+      "UsersEstimate": 818
     },
     {
       "ID": "EV_ACH02",
@@ -3049,9 +3049,9 @@
       "ID": "EV_ACH05",
       "SetID": "6jeac23",
       "Name": "Tear of Freedom",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 632
+      "UsersEstimate": 645
     },
     {
       "ID": "EV_ACH06",
@@ -3105,9 +3105,9 @@
       "ID": "EV_ACH12",
       "SetID": "6jeac23",
       "Name": "Freeze The Ice Witch",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 471
+      "UsersEstimate": 484
     },
     {
       "ID": "EV_ACH13",
@@ -3378,8 +3378,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-18T18:59:32.6243964+00:00",
-  "LastChanged_Achievements": "2023-12-19T19:09:23.012555+00:00",
+  "LastChanged_Achievements": "2023-12-19T20:10:50.8874702+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:41.6283728+00:00",
-  "LastUpdate_Ratings": "2023-12-19T18:59:40.7085646+00:00",
-  "LastUpdate_Achievements": "2023-12-19T19:09:23.0126078+00:00"
+  "LastUpdate_Ratings": "2023-12-19T20:01:11.2835136+00:00",
+  "LastUpdate_Achievements": "2023-12-19T20:10:50.8875151+00:00"
 }

@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 64.00% | ~512 |
-| The Teleprobe | 51.00% | ~408 |
+| The Camp | 65.00% | ~521 |
+| The Teleprobe | 51.00% | ~409 |
 | The City | 47.00% | ~376 |
 | The field base | 42.00% | ~336 |
 | Survivors | 35.00% | ~280 |
@@ -34,7 +34,7 @@
 | Convoy list | 0.90% | ~7 |
 | No more mistakes | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 800 (Ranked 287)  
+Progressed: 801 (Ranked 287)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,4 +78,4 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-16 | 700 | 0 |
 | 2023-12-17 | 741 | 0 |
 | 2023-12-18 | 771 | 0 |
-| 2023-12-19 | 800 | 0 |
+| 2023-12-19 | 801 | 0 |

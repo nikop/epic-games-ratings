@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -319,7 +319,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24774,
+  "EOS_Progressed": 24775,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
@@ -7784,6 +7784,11 @@
       "Time": "2023-12-19T19:03:20.6322638+00:00",
       "NumProgressed": 24774,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-19T20:04:21.8213767+00:00",
+      "NumProgressed": 24775,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -7827,7 +7832,7 @@
       "Name": "Eatin\u0027 Good in the Neighborhood",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "ACH_GET_CREATURE",
@@ -7867,7 +7872,7 @@
       "Name": "Lezduit!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "ACH_GET_MAGBOOTS",
@@ -7899,7 +7904,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -7939,7 +7944,7 @@
       "Name": "Legendary Bounty Hunter",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "ACH_KILL_GIBLETS",
@@ -7963,7 +7968,7 @@
       "Name": "Self-Actualization",
       "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "ACH_KILL_SKRENDELS",
@@ -7979,7 +7984,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -8019,7 +8024,7 @@
       "Name": "Spent 15 Hours At The Alien Strip Club",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "ACH_NOT_KENNY",
@@ -8043,7 +8048,7 @@
       "Name": "Series Wrap on Suit-O",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "ACH_CHARGED_BALL_KILLS",
@@ -8146,13 +8151,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24774,
+      "Progressed": 24775,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 2067,
+      "Progressed": 2068,
       "Completed": 1376
     }
   ],
@@ -8160,8 +8165,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-12-09T22:00:53.8203021+00:00",
-  "LastChanged_Achievements": "2023-12-19T19:03:20.6322634+00:00",
+  "LastChanged_Achievements": "2023-12-19T20:04:21.8213761+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:16.6894951+00:00",
-  "LastUpdate_Ratings": "2023-12-19T19:00:24.0488556+00:00",
-  "LastUpdate_Achievements": "2023-12-19T19:03:20.6323633+00:00"
+  "LastUpdate_Ratings": "2023-12-19T20:03:03.4426083+00:00",
+  "LastUpdate_Achievements": "2023-12-19T20:04:21.8214467+00:00"
 }

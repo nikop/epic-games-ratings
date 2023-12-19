@@ -18,8 +18,8 @@
 | Taskmaster | 8.00% | ~18 |
 | Scholar | 7.00% | ~16 |
 | The More the Merrier | 7.00% | ~16 |
+| Harbinger | 7.00% | ~16 |
 | Tail-wind | 7.00% | ~16 |
-| Harbinger | 6.00% | ~13 |
 | Strategist | 5.00% | ~11 |
 | Courier | 5.00% | ~11 |
 | Pilgrimage's End | 5.00% | ~11 |

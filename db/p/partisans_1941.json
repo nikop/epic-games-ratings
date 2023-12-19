@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1863,
+  "EOS_Progressed": 1864,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4464,6 +4464,11 @@
       "Time": "2023-12-19T19:08:44.2017672+00:00",
       "NumProgressed": 1863,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-19T20:09:59.6855403+00:00",
+      "NumProgressed": 1864,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -4507,7 +4512,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "Commandos",
@@ -4555,7 +4560,7 @@
       "Name": "E1M1",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "Everyone_is_here",
@@ -4603,7 +4608,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "High_noon",
@@ -4665,9 +4670,9 @@
       "ID": "MoskitoBite",
       "SetID": "85nb4h3",
       "Name": "Mosquito bite",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 689
+      "UsersEstimate": 671
     },
     {
       "ID": "Scout",
@@ -4707,22 +4712,22 @@
       "Name": "Your Answer",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     }
   ],
   "AchievementSets": [
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1863,
+      "Progressed": 1864,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-12-19T19:08:44.2017666+00:00",
+  "LastChanged_Achievements": "2023-12-19T20:09:59.68554+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:45.5557319+00:00",
-  "LastUpdate_Ratings": "2023-12-19T19:02:33.44978+00:00",
-  "LastUpdate_Achievements": "2023-12-19T19:08:44.2018167+00:00"
+  "LastUpdate_Ratings": "2023-12-19T20:03:14.7327525+00:00",
+  "LastUpdate_Achievements": "2023-12-19T20:09:59.6855712+00:00"
 }

@@ -9,7 +9,7 @@ Rating: 4.48 (Ranked 640)
 | I Broke It | 73.00% | ~905 |
 | Better On Ice | 68.00% | ~843 |
 | Notai Notes | 67.00% | ~831 |
-| Blue Dreams | 65.00% | ~806 |
+| Blue Dreams | 66.00% | ~818 |
 | He's Famous! | 65.00% | ~806 |
 | Cutie Poro | 65.00% | ~806 |
 | Krugmazing | 64.00% | ~794 |
@@ -18,7 +18,7 @@ Rating: 4.48 (Ranked 640)
 | Iceborn | 55.00% | ~682 |
 | No Bites | 54.00% | ~670 |
 | Boom Things | 53.00% | ~657 |
-| Tear of Freedom | 51.00% | ~632 |
+| Tear of Freedom | 52.00% | ~645 |
 | My Darkest Day | 48.00% | ~595 |
 | Rhythm Of Willump | 46.00% | ~570 |
 | The Relentless Storm | 46.00% | ~570 |
@@ -29,10 +29,10 @@ Rating: 4.48 (Ranked 640)
 | You Get Used To It | 41.00% | ~508 |
 | Family | 39.00% | ~484 |
 | Biggest Snowball Ever | 39.00% | ~484 |
+| Freeze The Ice Witch | 39.00% | ~484 |
 | True Legends | 39.00% | ~484 |
 | Boosted! | 39.00% | ~484 |
 | Deadliest and Biggest Snowball Ever! | 39.00% | ~484 |
-| Freeze The Ice Witch | 38.00% | ~471 |
 | Bullseye | 36.00% | ~446 |
 | It Is Not Over | 35.00% | ~434 |
 | On The Rocks | 34.00% | ~422 |

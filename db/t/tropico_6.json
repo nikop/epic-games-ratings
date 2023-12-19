@@ -1455,9 +1455,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6515,
+  "EOS_Progressed": 6516,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14765,6 +14765,11 @@
       "Time": "2023-12-19T19:03:38.1520444+00:00",
       "NumProgressed": 6515,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-19T20:04:46.2766482+00:00",
+      "NumProgressed": 6516,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -14880,7 +14885,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1043
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -14896,7 +14901,7 @@
       "Name": "Number 18",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1498
+      "UsersEstimate": 1499
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -14936,7 +14941,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 4821
+      "UsersEstimate": 4822
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -15048,7 +15053,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2345
+      "UsersEstimate": 2346
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -15095,15 +15100,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6515,
+      "Progressed": 6516,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-12-17T08:59:24.7574779+00:00",
-  "LastChanged_Achievements": "2023-12-19T19:03:38.1520439+00:00",
+  "LastChanged_Achievements": "2023-12-19T20:04:46.2766478+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:47.7844638+00:00",
-  "LastUpdate_Ratings": "2023-12-19T18:59:50.8725489+00:00",
-  "LastUpdate_Achievements": "2023-12-19T19:03:38.1521269+00:00"
+  "LastUpdate_Ratings": "2023-12-19T20:01:26.3418768+00:00",
+  "LastUpdate_Achievements": "2023-12-19T20:04:46.276725+00:00"
 }

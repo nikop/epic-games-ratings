@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 251,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 790,
+  "EOS_Progressed": 791,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -2735,6 +2735,11 @@
       "Time": "2023-12-19T19:03:41.3527544+00:00",
       "NumProgressed": 790,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-19T20:04:50.7149711+00:00",
+      "NumProgressed": 791,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -2746,7 +2751,7 @@
       "Name": "Safe Pair of Hands",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "cool-shirts",
@@ -2810,7 +2815,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "play-at-night",
@@ -2866,7 +2871,7 @@
       "Name": "Camellos",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "unlock-residences",
@@ -2880,9 +2885,9 @@
       "ID": "upgrade-building",
       "SetID": "bed33dd",
       "Name": "Take-Off",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 640
+      "UsersEstimate": 633
     },
     {
       "ID": "use-submarine",
@@ -2897,15 +2902,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 790,
+      "Progressed": 791,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-12T19:59:33.5091909+00:00",
-  "LastChanged_Achievements": "2023-12-19T19:03:41.3527539+00:00",
+  "LastChanged_Achievements": "2023-12-19T20:04:50.7149709+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.4837395+00:00",
-  "LastUpdate_Ratings": "2023-12-19T18:59:32.7498025+00:00",
-  "LastUpdate_Achievements": "2023-12-19T19:03:41.352782+00:00"
+  "LastUpdate_Ratings": "2023-12-19T20:00:59.8725895+00:00",
+  "LastUpdate_Achievements": "2023-12-19T20:04:50.7149874+00:00"
 }

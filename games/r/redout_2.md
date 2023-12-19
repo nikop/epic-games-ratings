@@ -5,8 +5,8 @@ Rating: 4.50 (Ranked 602)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Increasing your Power Level | 28.00% | ~331 |
-| Rookie No More | 27.00% | ~319 |
+| Increasing your Power Level | 28.00% | ~332 |
+| Rookie No More | 27.00% | ~320 |
 | Enter the Speed Gauntlet | 25.00% | ~296 |
 | I just can't choose | 25.00% | ~296 |
 | A Cheese Grater to the Face | 20.00% | ~237 |
@@ -14,7 +14,7 @@ Rating: 4.50 (Ranked 602)
 | It's like an haircut | 17.00% | ~201 |
 | Ride in the rising sun | 16.00% | ~189 |
 | Suit up | 16.00% | ~189 |
-| Walked like an Egyptian | 15.00% | ~177 |
+| Walked like an Egyptian | 15.00% | ~178 |
 | Rookie No-No More | 13.00% | ~154 |
 | Running at the speed of sound | 13.00% | ~154 |
 | Martian explorer | 11.00% | ~130 |
@@ -34,13 +34,13 @@ Rating: 4.50 (Ranked 602)
 | Better luck next time | 4.00% | ~47 |
 | Dev, this! | 4.00% | ~47 |
 | He who laughs last... | 4.00% | ~47 |
-| Try them all | 3.00% | ~35 |
-| A-mazing! | 3.00% | ~35 |
-| To infinity and gravity! | 3.00% | ~35 |
-| One giant drive for mankind | 3.00% | ~35 |
-| [Sweats profusely] | 3.00% | ~35 |
-| It's like a party! | 3.00% | ~35 |
-| Healthy competition | 3.00% | ~35 |
+| Try them all | 3.00% | ~36 |
+| A-mazing! | 3.00% | ~36 |
+| To infinity and gravity! | 3.00% | ~36 |
+| One giant drive for mankind | 3.00% | ~36 |
+| [Sweats profusely] | 3.00% | ~36 |
+| It's like a party! | 3.00% | ~36 |
+| Healthy competition | 3.00% | ~36 |
 | This is to go, even Further Beyond! | 2.00% | ~24 |
 | Gitting Gud | 2.00% | ~24 |
 | Redout Champion | 2.00% | ~24 |
@@ -58,7 +58,7 @@ Rating: 4.50 (Ranked 602)
 | I, need, more, shelves! | 0.50% | ~6 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,183 (Ranked 266)  
+Progressed: 1,184 (Ranked 266)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,6 +194,7 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-12 | 1,180 | 0 |
 | 2023-12-16 | 1,182 | 0 |
 | 2023-12-17 | 1,183 | 0 |
+| 2023-12-19 | 1,184 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

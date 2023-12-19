@@ -6,10 +6,10 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 40.00% | ~228 |
+| Adept | 40.00% | ~229 |
 | Double Kill | 32.00% | ~183 |
 | Critical Hit | 18.00% | ~103 |
-| Veteran | 18.00% | ~103 |
+| Veteran | 17.00% | ~97 |
 | Dressed For Success | 12.00% | ~69 |
 | Humiliation | 8.00% | ~46 |
 | Multi Kill | 7.00% | ~40 |
@@ -32,18 +32,18 @@ Number of Ratings: 292  (23.09.2022)
 | From the Ashes | 1.00% | ~6 |
 | Such A Fungi | 1.00% | ~6 |
 | Grand Master | 1.00% | ~6 |
-| Together For Her | 0.70% | ~4 |
+| Together For Her | 0.90% | ~5 |
 | Get Over Here! | 0.70% | ~4 |
 | Death To Diplomacy | 0.50% | ~3 |
 | Unlimited Power! | 0.50% | ~3 |
 | Fully Charged | 0.50% | ~3 |
-| Attack Bonanza | 0.40% | ~2 |
-| Coming Through! | 0.40% | ~2 |
-| Barbecue | 0.40% | ~2 |
-| In The Thick of It | 0.40% | ~2 |
-| Oops! | 0.40% | ~2 |
-| The Marsh Expands | 0.40% | ~2 |
-| Cleave | 0.40% | ~2 |
+| Attack Bonanza | 0.30% | ~2 |
+| Coming Through! | 0.30% | ~2 |
+| Barbecue | 0.30% | ~2 |
+| In The Thick of It | 0.30% | ~2 |
+| Oops! | 0.30% | ~2 |
+| The Marsh Expands | 0.30% | ~2 |
+| Cleave | 0.30% | ~2 |
 | Bringer of Ruin | 0.20% | ~1 |
 | Hello There | 0.20% | ~1 |
 | Killing Spree | 0.20% | ~1 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 571 (Ranked 318)  
+Progressed: 572 (Ranked 318)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-16 | 515 | 0 |
 | 2023-12-17 | 544 | 0 |
 | 2023-12-18 | 555 | 0 |
-| 2023-12-19 | 571 | 0 |
+| 2023-12-19 | 572 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 520)  
 Sum: 194 (Ranked 413)  

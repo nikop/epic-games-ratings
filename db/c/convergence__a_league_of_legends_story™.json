@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -45,9 +45,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1034,
+  "EOS_Progressed": 1035,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -2860,6 +2860,11 @@
       "Time": "2023-12-19T19:09:10.7993945+00:00",
       "NumProgressed": 1034,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-19T20:10:35.2426552+00:00",
+      "NumProgressed": 1035,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2879,7 +2884,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -2895,7 +2900,7 @@
       "Name": "Treasure Trove",
       "Percentage": 13,
       "XP": 75,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -2967,7 +2972,7 @@
       "Name": "Family Memories",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "FactorywoodChests1",
@@ -2975,7 +2980,7 @@
       "Name": "Factorywood Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "FairgroundsChests1",
@@ -2983,7 +2988,7 @@
       "Name": "Fairgrounds Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -3005,9 +3010,9 @@
       "ID": "FutureEkko3Defeated",
       "SetID": "a9e499d",
       "Name": "The Man Who Shattered Time",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 176
     },
     {
       "ID": "GadgetCompletion1",
@@ -3119,7 +3124,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ParryRepeated1",
@@ -3135,7 +3140,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -3167,7 +3172,7 @@
       "Name": "Honest Mistake",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ScrambotCompletion1",
@@ -3199,7 +3204,7 @@
       "Name": "Fast Learner",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "SpeedRun",
@@ -3231,7 +3236,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "TheaterChests1",
@@ -3239,7 +3244,7 @@
       "Name": "Theater Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "TimewinderMultiKill1",
@@ -3255,7 +3260,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "WatcherFought",
@@ -3277,9 +3282,9 @@
       "ID": "Zarkon1Defeated",
       "SetID": "a9e499d",
       "Name": "The Brass Boss",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 248
+      "UsersEstimate": 238
     },
     {
       "ID": "Zarkon2Defeated",
@@ -3294,7 +3299,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1034,
+      "Progressed": 1035,
       "Completed": 6
     }
   ],
@@ -3302,8 +3307,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-18T08:57:59.1291337+00:00",
-  "LastChanged_Achievements": "2023-12-19T19:09:10.799394+00:00",
+  "LastChanged_Achievements": "2023-12-19T20:10:35.2426549+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.1550939+00:00",
-  "LastUpdate_Ratings": "2023-12-19T18:58:29.0138058+00:00",
-  "LastUpdate_Achievements": "2023-12-19T19:09:10.7994487+00:00"
+  "LastUpdate_Ratings": "2023-12-19T19:59:29.6029219+00:00",
+  "LastUpdate_Achievements": "2023-12-19T20:10:35.2427072+00:00"
 }

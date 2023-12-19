@@ -4,7 +4,7 @@
   "ProductSlug": "oxide-room-104-4c1249",
   "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewPlayers": 356,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -1461,9 +1461,9 @@
       "ID": "ACH_ROOM303",
       "SetID": "511e31d",
       "Name": "One-way",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_SPADE",
@@ -1485,9 +1485,9 @@
       "ID": "ACH_THIRDFLOOR",
       "SetID": "511e31d",
       "Name": "The third floor",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_WAREHOUSE",
@@ -1508,8 +1508,8 @@
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-12-19T19:03:00.4988615+00:00",
+  "LastChanged_Achievements": "2023-12-19T20:03:54.6313918+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:11.3257713+00:00",
-  "LastUpdate_Ratings": "2023-12-19T18:59:49.813406+00:00",
-  "LastUpdate_Achievements": "2023-12-19T19:03:00.4988941+00:00"
+  "LastUpdate_Ratings": "2023-12-19T20:01:24.7191066+00:00",
+  "LastUpdate_Achievements": "2023-12-19T20:03:54.6314246+00:00"
 }

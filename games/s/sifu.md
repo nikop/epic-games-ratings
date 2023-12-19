@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 3.00% | ~22,086 |
-| The Assault | 2.00% | ~14,724 |
-| Life is your teacher | 2.00% | ~14,724 |
-| Lightning Hands | 2.00% | ~14,724 |
+| The Old Grandmaster | 3.00% | ~22,087 |
+| The Assault | 2.00% | ~14,725 |
+| Life is your teacher | 2.00% | ~14,725 |
+| Lightning Hands | 2.00% | ~14,725 |
 | The Hateful Pole Fighter | 1.00% | ~7,362 |
 | A Lady's Blood in the Snow | 1.00% | ~7,362 |
 | Kill Nil | 1.00% | ~7,362 |
@@ -28,8 +28,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Furious Fists | 0.80% | ~5,890 |
 | Qi Gong: Mind | 0.80% | ~5,890 |
 | Take damage to save time | 0.80% | ~5,890 |
-| Scareless | 0.70% | ~5,153 |
-| Kung-Fu Tussle | 0.70% | ~5,153 |
+| Scareless | 0.70% | ~5,154 |
+| Kung-Fu Tussle | 0.70% | ~5,154 |
 | Fight the way you practice | 0.70% | ~319 |
 | Dance of the Praying Mantis | 0.60% | ~4,417 |
 | Bloody Sport | 0.50% | ~228 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~46 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 736,201 (Ranked 24)  
+Progressed: 736,228 (Ranked 24)  
 Completed: 12,958 (1.76%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 12,958 (1.76%) (Ranked 139)
 | 2023-12-16 | 730,184 | 12,954 |
 | 2023-12-17 | 733,014 | 12,955 |
 | 2023-12-18 | 734,825 | 12,956 |
-| 2023-12-19 | 736,201 | 12,958 |
+| 2023-12-19 | 736,228 | 12,958 |
 ## Awards
 Max (Great Boss Battles): 6,965  (Ranked 55)  
 Sum: 12,211 (Ranked 84)  

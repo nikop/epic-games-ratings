@@ -140,9 +140,9 @@
       "ID": "BOSS_04",
       "SetID": "35d3i7a",
       "Name": "THIS IS NOT ME!",
-      "Percentage": 19,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "BOSS_05",
@@ -300,9 +300,9 @@
       "ID": "MEM_IX",
       "SetID": "35d3i7a",
       "Name": "Hot dog.",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MEM_V",
@@ -444,17 +444,17 @@
       "ID": "MEM_XXIII",
       "SetID": "35d3i7a",
       "Name": "Don\u0027t take off the mask!",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MEM_XXIV",
       "SetID": "35d3i7a",
       "Name": "No one has to love you.",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MEM_XXV",
@@ -524,9 +524,9 @@
       "ID": "PROJ_IV",
       "SetID": "35d3i7a",
       "Name": "Obscurity.",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "PROJ_V",
@@ -547,8 +547,8 @@
   ],
   "FirstSeen": "2023-10-03T14:57:54.0765548+00:00",
   "FirstSeenAchievements": "2023-09-13T06:03:08.8902067+00:00",
-  "LastChanged_Achievements": "2023-12-19T19:09:21.1097065+00:00",
+  "LastChanged_Achievements": "2023-12-19T20:10:48.6033917+00:00",
   "LastUpdate_AppInfo": "2023-12-13T14:57:06.321908+00:00",
-  "LastUpdate_Ratings": "2023-12-19T19:00:15.9741201+00:00",
-  "LastUpdate_Achievements": "2023-12-19T19:09:21.1097385+00:00"
+  "LastUpdate_Ratings": "2023-12-19T20:02:52.2264038+00:00",
+  "LastUpdate_Achievements": "2023-12-19T20:10:48.603427+00:00"
 }

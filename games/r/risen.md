@@ -5,11 +5,11 @@ Rating: 4.56 (Ranked 498)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 91.00% | ~90 |
-| Map reader | 73.00% | ~72 |
-| Philanthropist | 68.00% | ~67 |
-| Adventurer | 66.00% | ~65 |
-| Archer | 51.00% | ~50 |
+| Beginner | 92.00% | ~92 |
+| Map reader | 73.00% | ~73 |
+| Philanthropist | 67.00% | ~67 |
+| Adventurer | 67.00% | ~67 |
+| Archer | 50.00% | ~50 |
 | The brave little tailor | 49.00% | ~49 |
 | Field hand | 42.00% | ~42 |
 | Samaritan | 40.00% | ~40 |
@@ -56,7 +56,7 @@ Rating: 4.56 (Ranked 498)
 | Master of the classes | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 99 (Ranked 463)  
+Progressed: 100 (Ranked 462)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-16 | 87 | 0 |
 | 2023-12-17 | 91 | 0 |
 | 2023-12-18 | 96 | 0 |
-| 2023-12-19 | 99 | 0 |
+| 2023-12-19 | 100 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

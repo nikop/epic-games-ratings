@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -222,9 +222,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 1055,
+  "EOS_Progressed": 1056,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2737,6 +2737,11 @@
       "Time": "2023-12-19T19:04:11.3110553+00:00",
       "NumProgressed": 1055,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T20:05:29.7041195+00:00",
+      "NumProgressed": 1056,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2755,9 +2760,9 @@
       "ID": "AbInitio",
       "SetID": "1n308hc",
       "Name": "Ab Initio",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 232
     },
     {
       "ID": "AnthropicHills",
@@ -2845,7 +2850,7 @@
       "Name": "Discovery",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "EasternWetlands",
@@ -2917,7 +2922,7 @@
       "Name": "Into the Machine",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "JustOneLap",
@@ -2973,7 +2978,7 @@
       "Name": "Museum Visitor",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "NewBeginning",
@@ -3093,7 +3098,7 @@
       "Name": "Team Spirit",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "TextAdventurer",
@@ -3101,7 +3106,7 @@
       "Name": "Text Adventurer",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "TheAllGifted",
@@ -3115,9 +3120,9 @@
       "ID": "TheEdgeOfForever",
       "SetID": "1n308hc",
       "Name": "The Edge of Forever",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 32
     },
     {
       "ID": "TheFuture",
@@ -3157,7 +3162,7 @@
       "Name": "The Word Endures",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "TouchGrass",
@@ -3220,7 +3225,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1055,
+      "Progressed": 1056,
       "Completed": 1
     }
   ],
@@ -3228,8 +3233,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-19T19:04:11.3110546+00:00",
+  "LastChanged_Achievements": "2023-12-19T20:05:29.7041189+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-19T18:59:00.4743+00:00",
-  "LastUpdate_Achievements": "2023-12-19T19:04:11.3111255+00:00"
+  "LastUpdate_Ratings": "2023-12-19T20:00:10.3311076+00:00",
+  "LastUpdate_Achievements": "2023-12-19T20:05:29.7041651+00:00"
 }

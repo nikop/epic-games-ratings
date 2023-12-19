@@ -2,9 +2,9 @@
   "ID": "9070f19d29354e45abf338e566da7ced",
   "Name": "FORECLOSED",
   "ProductSlug": "foreclosed",
-  "Ranking_EOS_Progress": 450,
-  "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 419,
+  "Ranking_EOS_Progress": 448,
+  "Ranking_EOS_Completed": 123,
+  "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 117,
+  "EOS_Progressed": 118,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.56,
+  "EOS_Completed_Percentage": 2.54,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:36.3929113+00:00",
@@ -274,6 +274,11 @@
       "Time": "2023-12-17T19:04:55.0643982+00:00",
       "NumProgressed": 117,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-19T20:07:00.1592435+00:00",
+      "NumProgressed": 118,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 24,
@@ -331,15 +336,15 @@
       "ID": "ExpertChoice",
       "SetID": "9e3d06k",
       "Name": "Tough Decision",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 24
     },
     {
       "ID": "FirstAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Breaking Through",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 10,
       "UsersEstimate": 85
     },
@@ -347,7 +352,7 @@
       "ID": "FirstSkillBuy",
       "SetID": "9e3d06k",
       "Name": "A.I. Training",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 5,
       "UsersEstimate": 58
     },
@@ -365,7 +370,7 @@
       "Name": "Sniper",
       "Percentage": 38,
       "XP": 25,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Headshots_1",
@@ -411,7 +416,7 @@
       "ID": "SecondAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Silent Overload",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 5,
       "UsersEstimate": 76
     },
@@ -435,9 +440,9 @@
       "ID": "StealthDefeat_1",
       "SetID": "9e3d06k",
       "Name": "Brain-hacker",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "StoryEnd",
@@ -459,9 +464,9 @@
       "ID": "TelekinesisThrow_1",
       "SetID": "9e3d06k",
       "Name": "Gravity Bender",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "ThirdAutoSkillUnlock",
@@ -476,7 +481,7 @@
     {
       "ID": "9e3d06k",
       "IsBase": true,
-      "Progressed": 117,
+      "Progressed": 118,
       "Completed": 3
     }
   ],
@@ -484,8 +489,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2023-12-19T19:05:19.0605363+00:00",
+  "LastChanged_Achievements": "2023-12-19T20:07:00.1592432+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:43.8867802+00:00",
-  "LastUpdate_Ratings": "2023-12-19T18:59:45.0227923+00:00",
-  "LastUpdate_Achievements": "2023-12-19T19:05:19.0605602+00:00"
+  "LastUpdate_Ratings": "2023-12-19T20:01:17.1784993+00:00",
+  "LastUpdate_Achievements": "2023-12-19T20:07:00.159258+00:00"
 }

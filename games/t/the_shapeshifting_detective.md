@@ -7,7 +7,7 @@
 | Play It Again Sam | 90.00% | ~247 |
 | Strong Silent Type | 90.00% | ~247 |
 | Play Me By The Hour | 69.00% | ~189 |
-| Patient Listener | 46.00% | ~126 |
+| Patient Listener | 47.00% | ~129 |
 | Video Saved The Radio Star | 39.00% | ~107 |
 | Hashtag Winning | 38.00% | ~104 |
 | A Woman Scorned | 28.00% | ~77 |
@@ -17,8 +17,8 @@
 | You Had One Job | 14.00% | ~38 |
 | Book 'em Danny | 13.00% | ~36 |
 | Poetent | 12.00% | ~33 |
+| Oscar Winning Performance | 11.00% | ~30 |
 | Voyeur | 11.00% | ~30 |
-| Oscar Winning Performance | 10.00% | ~27 |
 | Put A Ring On It | 9.00% | ~25 |
 | Chicken | 8.00% | ~22 |
 | Heavy Rayne | 8.00% | ~22 |
@@ -27,7 +27,7 @@
 | Bullseye | 4.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 274 (Ranked 379)  
-Completed: 3 (1.09%) (Ranked 167)  
+Completed: 3 (1.09%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,7 +2,7 @@
   "ID": "0113dd49216f4f2d995ef9a6eebd67f4",
   "Name": "Stray Gods: The Roleplaying Musical",
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
-  "Ranking_EOS_Progress": 426,
+  "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 158,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 137,
+  "EOS_Progressed": 138,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -634,6 +634,11 @@
       "Time": "2023-12-19T19:08:06.2116375+00:00",
       "NumProgressed": 137,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T20:09:12.5358741+00:00",
+      "NumProgressed": 138,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -646,7 +651,7 @@
       "Name": "Abdication",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "SG_ACROSSTHESTYX",
@@ -668,9 +673,9 @@
       "ID": "SG_ALLTHEHELPYOUNEED",
       "SetID": "bj5g0n4",
       "Name": "All The Help You Need",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "SG_ARROWOFEROSUNDONE",
@@ -718,7 +723,7 @@
       "Name": "End Of The Road",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -734,7 +739,7 @@
       "Name": "Fiery",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "SG_GODOFTHESUN",
@@ -748,17 +753,17 @@
       "ID": "SG_HEARTBREAKER",
       "SetID": "bj5g0n4",
       "Name": "Heartbreaker",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "SG_LIKEHEROESBEFOREYOU",
       "SetID": "bj5g0n4",
       "Name": "Like Heroes Before You",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "SG_LOSTINASONG",
@@ -766,7 +771,7 @@
       "Name": "Lost In A Song",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "SG_MAESTRO",
@@ -782,7 +787,7 @@
       "Name": "Meant To Be",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "SG_MYTIMETOSHINE",
@@ -796,9 +801,9 @@
       "ID": "SG_NOTALOSTGIRL",
       "SetID": "bj5g0n4",
       "Name": "Not A Lost Girl",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "SG_NOTTAKINGANYCHANCES",
@@ -854,15 +859,15 @@
       "Name": "The Answer Is You",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "SG_THECHOICEISYOURS",
       "SetID": "bj5g0n4",
       "Name": "The Choice Is Yours",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "SG_THEDEEPEND",
@@ -870,7 +875,7 @@
       "Name": "The Deep End",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "SG_THEHIGHROAD",
@@ -926,7 +931,7 @@
       "Name": "Together, Victorious",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "SG_VIRTUOSO",
@@ -941,14 +946,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 137,
+      "Progressed": 138,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-12-19T19:08:06.2116369+00:00",
+  "LastChanged_Achievements": "2023-12-19T20:09:12.5358737+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:06.0565697+00:00",
-  "LastUpdate_Ratings": "2023-12-19T18:59:27.9046459+00:00",
-  "LastUpdate_Achievements": "2023-12-19T19:08:06.2116594+00:00"
+  "LastUpdate_Ratings": "2023-12-19T20:00:52.7647352+00:00",
+  "LastUpdate_Achievements": "2023-12-19T20:09:12.5358953+00:00"
 }

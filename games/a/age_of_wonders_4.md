@@ -5,9 +5,9 @@ Rating: 4.62 (Ranked 374)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Secret Technique | 7.00% | ~411 |
 | Realm Estate | 6.00% | ~352 |
 | A Wonderful Discovery | 6.00% | ~352 |
-| Secret Technique | 6.00% | ~352 |
 | Walls Cannot Stop Us | 6.00% | ~352 |
 | From Friends to Family | 5.00% | ~294 |
 | But this one is mine | 5.00% | ~294 |
@@ -20,19 +20,19 @@ Rating: 4.62 (Ranked 374)
 | Seat of Power | 3.00% | ~176 |
 | In a Liege of Your Own | 3.00% | ~176 |
 | Intimidation Tactics | 3.00% | ~176 |
-| Return of the Wizard King | 2.00% | ~117 |
-| Enchanted Archipelago | 2.00% | ~117 |
-| Digging for Treasure | 2.00% | ~117 |
-| My Final Form | 2.00% | ~117 |
-| Fiery Friend | 2.00% | ~117 |
-| Impenetrable Fortress | 2.00% | ~117 |
-| Here be Dragons | 2.00% | ~117 |
-| Tipping the Scales | 2.00% | ~117 |
-| Mighty Hoard | 2.00% | ~117 |
-| Freed Lands of Manuhari | 2.00% | ~117 |
-| Sehiran Oasis | 2.00% | ~117 |
-| Chaos Surge | 2.00% | ~117 |
-| Spoils of War | 2.00% | ~117 |
+| Return of the Wizard King | 2.00% | ~118 |
+| Enchanted Archipelago | 2.00% | ~118 |
+| Digging for Treasure | 2.00% | ~118 |
+| My Final Form | 2.00% | ~118 |
+| Fiery Friend | 2.00% | ~118 |
+| Impenetrable Fortress | 2.00% | ~118 |
+| Here be Dragons | 2.00% | ~118 |
+| Tipping the Scales | 2.00% | ~118 |
+| Mighty Hoard | 2.00% | ~118 |
+| Freed Lands of Manuhari | 2.00% | ~118 |
+| Sehiran Oasis | 2.00% | ~118 |
+| Chaos Surge | 2.00% | ~118 |
+| Spoils of War | 2.00% | ~118 |
 | Arch Mage | 1.00% | ~59 |
 | The Creator | 1.00% | ~59 |
 | Crimson Caldera | 1.00% | ~59 |
@@ -54,7 +54,7 @@ Rating: 4.62 (Ranked 374)
 | Grexolis | 0.70% | ~41 |
 | One for All, All for One | 0.70% | ~41 |
 | Duality | 0.60% | ~35 |
-| Betrayal Most Foul | 0.40% | ~23 |
+| Betrayal Most Foul | 0.40% | ~24 |
 | Snap Out of It! | 0.30% | ~18 |
 | The Magic That Empowers Me! | 0.30% | ~18 |
 | Jack of All Tomes | 0.30% | ~18 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 374)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,874 (Ranked 190)  
+Progressed: 5,875 (Ranked 190)  
 Completed: 7 (0.12%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 7 (0.12%) (Ranked 293)
 | 2023-12-16 | 5,752 | 7 |
 | 2023-12-17 | 5,798 | 7 |
 | 2023-12-18 | 5,842 | 7 |
-| 2023-12-19 | 5,874 | 7 |
+| 2023-12-19 | 5,875 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 480)  
 Sum: 93 (Ranked 461)  

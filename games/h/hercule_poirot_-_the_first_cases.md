@@ -1,7 +1,7 @@
 # Hercule Poirot - The First Cases
 [Store](https://store.epicgames.com/en-US/p/hercule-poirot-the-first-cases-584238)  
 [View Rawdata](../../db/h/hercule_poirot_-_the_first_cases.json)  
-Rating: 4.35 (Ranked 800)  
+Rating: 4.35 (Ranked 799)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -25,7 +25,7 @@ Rating: 4.35 (Ranked 800)
 | The Interrogations | 44.00% | ~203 |
 | Well-acquainted | 41.00% | ~189 |
 | Zakariya Demir | 41.00% | ~189 |
-| Well-read | 39.00% | ~180 |
+| Well-read | 40.00% | ~184 |
 | Cassandra Van den Bosch | 38.00% | ~175 |
 | The Secret | 37.00% | ~171 |
 | Gedeon Demir | 35.00% | ~161 |

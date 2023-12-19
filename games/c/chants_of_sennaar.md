@@ -12,16 +12,16 @@ Rating: 4.88 (Ranked 17)
 | A new dawn | 28.00% | ~393 |
 | Scholar | 25.00% | ~351 |
 | True G3M4R | 24.00% | ~337 |
+| The darkness | 24.00% | ~337 |
 | A good beginning | 23.00% | ~323 |
-| The darkness | 23.00% | ~323 |
 | One last step | 21.00% | ~295 |
 | Cable guy | 20.00% | ~281 |
 | Half the way | 20.00% | ~281 |
 | I did it | 19.00% | ~267 |
 | Peace walker | 19.00% | ~267 |
+| Champollion | 19.00% | ~267 |
 | In this together | 18.00% | ~253 |
 | Rascal | 18.00% | ~253 |
-| Champollion | 18.00% | ~253 |
 | Open door | 16.00% | ~225 |
 | Feels like springtime | 16.00% | ~225 |
 | Alchemists Express | 16.00% | ~225 |

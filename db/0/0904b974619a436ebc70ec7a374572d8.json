@@ -4,7 +4,7 @@
   "ProductSlug": "picklock-33eab8",
   "Ranking_EOS_Progress": 533,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewPlayers": 356,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -318,9 +318,9 @@
       "ID": "ach_picklock17",
       "SetID": "753ghg2",
       "Name": "Transport company",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ach_picklock18",
@@ -453,8 +453,8 @@
   ],
   "FirstSeen": "2023-11-03T03:57:37.1640095+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6923906+00:00",
-  "LastChanged_Achievements": "2023-12-19T19:09:12.1062742+00:00",
+  "LastChanged_Achievements": "2023-12-19T20:10:37.0281101+00:00",
   "LastUpdate_AppInfo": "2023-12-13T08:56:58.7290951+00:00",
-  "LastUpdate_Ratings": "2023-12-19T19:02:39.6276962+00:00",
-  "LastUpdate_Achievements": "2023-12-19T19:09:12.1062873+00:00"
+  "LastUpdate_Ratings": "2023-12-19T20:03:22.7946635+00:00",
+  "LastUpdate_Achievements": "2023-12-19T20:10:37.0281266+00:00"
 }

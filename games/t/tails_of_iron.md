@@ -7,6 +7,8 @@ Rating: 4.56 (Ranked 498)
 | ---- | ---------- | ----- |
 | End of the Mozis | 0.30% | ~7 |
 | Throne Room Fit For A King | 0.30% | ~7 |
+| Meet the Creatures from the Deep | 0.20% | ~5 |
+| Return Power To The Depths | 0.20% | ~5 |
 | Become King | 0.10% | ~2 |
 | Collect Gold | 0.10% | ~2 |
 | Collect Iron Ore | 0.10% | ~2 |
@@ -16,6 +18,7 @@ Rating: 4.56 (Ranked 498)
 | Complete the Chefs Book | 0.10% | ~2 |
 | Complete Elder Faction | 0.10% | ~2 |
 | Complete Guard Faction | 0.10% | ~2 |
+| Defeat Avor Warden of the Northern Wastes | 0.10% | ~2 |
 | Defeat Ratnor Rodentson | 0.10% | ~2 |
 | Defeat Rattus Augustail | 0.10% | ~2 |
 | Fix the Travellers Wagon | 0.10% | ~2 |
@@ -24,11 +27,10 @@ Rating: 4.56 (Ranked 498)
 | Defeat 25 Grubs | 0.10% | ~2 |
 | Defeat 25 Frogs | 0.10% | ~2 |
 | Defeat 25 Mozis | 0.10% | ~2 |
-| Meet the Creatures from the Deep | 0.10% | ~2 |
+| Discover the mystery of the Kings Chambers | 0.10% | ~2 |
 | Kitchen Ready To Cook | 0.10% | ~2 |
 | Smithy Ready to Craft | 0.10% | ~2 |
 | Rescue Redgi's Brothers | 0.10% | ~2 |
-| Return Power To The Depths | 0.10% | ~2 |
 | Defeat Croakhis Khan | 0.10% | ~1 |
 | Defeat the Grub Buster | 0.10% | ~1 |
 | Defeat the Stalker Queen | 0.10% | ~1 |
@@ -39,8 +41,6 @@ Rating: 4.56 (Ranked 498)
 | Complete Arena Faction | 0.00% | ~0 |
 | Complete Ranger Faction | 0.00% | ~0 |
 | A new Warchief rises | 0.00% | ~0 |
-| Defeat Avor Warden of the Northern Wastes | 0.00% | ~0 |
-| Discover the mystery of the Kings Chambers | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,258 (Ranked 230)  
 Completed: 12 (0.53%) (Ranked 210)  

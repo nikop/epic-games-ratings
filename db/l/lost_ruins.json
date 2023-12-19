@@ -2,9 +2,9 @@
   "ID": "3ccad173be604de5b7df527b244f0308",
   "Name": "Lost Ruins",
   "ProductSlug": "lost-ruins-d6233b",
-  "Ranking_EOS_Progress": 324,
+  "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 560,
+  "EOS_Progressed": 561,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1344,6 +1344,11 @@
       "Time": "2023-12-19T19:09:21.3830461+00:00",
       "NumProgressed": 560,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T20:10:49.1015373+00:00",
+      "NumProgressed": 561,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1371,7 +1376,7 @@
       "Name": "Artifact Collector",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "Assassin",
@@ -1385,9 +1390,9 @@
       "ID": "BossKiller",
       "SetID": "82505mn",
       "Name": "Boss Killer",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 129
+      "UsersEstimate": 123
     },
     {
       "ID": "BugHunter",
@@ -1395,7 +1400,7 @@
       "Name": "Bug Hunter",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "Cryomancer",
@@ -1435,7 +1440,7 @@
       "Name": "Goblin Tales",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "Hardboiled",
@@ -1475,7 +1480,7 @@
       "Name": "Inquisitor",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "Librarian",
@@ -1497,9 +1502,9 @@
       "ID": "Marksman",
       "SetID": "82505mn",
       "Name": "Marksman",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 11
     },
     {
       "ID": "MeatLover",
@@ -1674,7 +1679,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 560,
+      "Progressed": 561,
       "Completed": 1
     }
   ],
@@ -1682,8 +1687,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-19T19:09:21.3830456+00:00",
+  "LastChanged_Achievements": "2023-12-19T20:10:49.101537+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:31.304442+00:00",
-  "LastUpdate_Ratings": "2023-12-19T18:59:18.2544984+00:00",
-  "LastUpdate_Achievements": "2023-12-19T19:09:21.3830756+00:00"
+  "LastUpdate_Ratings": "2023-12-19T20:00:37.5032931+00:00",
+  "LastUpdate_Achievements": "2023-12-19T20:10:49.1015687+00:00"
 }

@@ -1500,9 +1500,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 25724,
+  "EOS_Progressed": 25726,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 2021,
+  "EOS_NewPlayers": 2023,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -11115,6 +11115,11 @@
       "Time": "2023-12-19T19:09:03.5620438+00:00",
       "NumProgressed": 25724,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-19T20:10:25.3248852+00:00",
+      "NumProgressed": 25726,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -11254,7 +11259,7 @@
       "Name": "Harvest and Home",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -11286,7 +11291,7 @@
       "Name": "Poise and Poisons",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -11302,7 +11307,7 @@
       "Name": "Suns and Soldiers",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "BoxerBoss",
@@ -11437,21 +11442,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 25724,
+      "Progressed": 25726,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 4654,
+      "Progressed": 4656,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-07T09:58:25.2813813+00:00",
-  "LastChanged_Achievements": "2023-12-19T19:09:03.5620431+00:00",
+  "LastChanged_Achievements": "2023-12-19T20:10:25.3248848+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:44.2937948+00:00",
-  "LastUpdate_Ratings": "2023-12-19T18:57:37.3979153+00:00",
-  "LastUpdate_Achievements": "2023-12-19T19:09:03.5621496+00:00"
+  "LastUpdate_Ratings": "2023-12-19T19:58:15.2592014+00:00",
+  "LastUpdate_Achievements": "2023-12-19T20:10:25.3249643+00:00"
 }

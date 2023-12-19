@@ -14,7 +14,7 @@
 | Mine! | 61.00% | ~39 |
 | Artificer's Apprentice | 55.00% | ~35 |
 | Fly the friendly Sky | 47.00% | ~30 |
-| Get out of here! | 44.00% | ~28 |
+| Get out of here! | 45.00% | ~29 |
 | Necromancer's Apprentice | 42.00% | ~27 |
 | Alchemist's Apprentice | 41.00% | ~26 |
 | The Circle | 39.00% | ~25 |
@@ -37,11 +37,11 @@
 | Friend of Windholme | 11.00% | ~7 |
 | Magic Academy | 11.00% | ~7 |
 | Defeat Gor | 9.00% | ~6 |
+| Defeat Uram | 9.00% | ~6 |
 | Elynn's Tale | 9.00% | ~6 |
 | The Forge of Regan Gor | 9.00% | ~6 |
 | Silver Drift Hollow Mine | 9.00% | ~6 |
 | Defeat Hokan | 8.00% | ~5 |
-| Defeat Uram | 8.00% | ~5 |
 | Lore's Tale | 8.00% | ~5 |
 | Yngrid's Tale | 8.00% | ~5 |
 | Mage Teacher | 8.00% | ~5 |

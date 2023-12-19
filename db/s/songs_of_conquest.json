@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 571,
+  "EOS_Progressed": 572,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2318,6 +2318,11 @@
       "Time": "2023-12-19T18:08:17.7176066+00:00",
       "NumProgressed": 571,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T20:09:05.246623+00:00",
+      "NumProgressed": 572,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2360,7 +2365,7 @@
       "ID": "AttackCount",
       "SetID": "71c0n9i",
       "Name": "Attack Bonanza",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -2424,7 +2429,7 @@
       "ID": "ComingThrough",
       "SetID": "71c0n9i",
       "Name": "Coming Through!",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -2480,7 +2485,7 @@
       "ID": "FlameAttackKillCount",
       "SetID": "71c0n9i",
       "Name": "Barbecue",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -2488,7 +2493,7 @@
       "ID": "FrontlineFighterCount",
       "SetID": "71c0n9i",
       "Name": "In The Thick of It",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -2520,9 +2525,9 @@
       "ID": "LothCampaign",
       "SetID": "71c0n9i",
       "Name": "Together For Her",
-      "Percentage": 0.7,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "LothCampaignFinaleOnHard",
@@ -2552,7 +2557,7 @@
       "ID": "Oops",
       "SetID": "71c0n9i",
       "Name": "Oops!",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -2584,7 +2589,7 @@
       "ID": "RanaCampaignFinaleOnHard",
       "SetID": "71c0n9i",
       "Name": "The Marsh Expands",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -2624,7 +2629,7 @@
       "ID": "SweepKillCount",
       "SetID": "71c0n9i",
       "Name": "Cleave",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -2658,15 +2663,15 @@
       "Name": "Adept",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "WielderLevel2",
       "SetID": "71c0n9i",
       "Name": "Veteran",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 97
     },
     {
       "ID": "WielderLevel3",
@@ -2761,15 +2766,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 571,
+      "Progressed": 572,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-19T19:08:00.7919876+00:00",
+  "LastChanged_Achievements": "2023-12-19T20:09:05.2466228+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:10.4027668+00:00",
-  "LastUpdate_Ratings": "2023-12-19T18:57:26.4076594+00:00",
-  "LastUpdate_Achievements": "2023-12-19T19:08:00.7920414+00:00"
+  "LastUpdate_Ratings": "2023-12-19T19:57:59.8630802+00:00",
+  "LastUpdate_Achievements": "2023-12-19T20:09:05.2466603+00:00"
 }

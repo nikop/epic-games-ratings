@@ -9,9 +9,9 @@
 | A Map for Nikolay | 52.00% | ~12 |
 | The Wall of Laments | 43.00% | ~10 |
 | Death Whistle | 39.00% | ~9 |
+| Make the Prophet Your Ally | 35.00% | ~8 |
+| Become a Half-Child | 35.00% | ~8 |
 | Burial Mound | 35.00% | ~8 |
-| Make the Prophet Your Ally | 30.00% | ~7 |
-| Become a Half-Child | 30.00% | ~7 |
 | The Dreaded Klek | 30.00% | ~7 |
 | Find the Road of Cadavers | 30.00% | ~7 |
 | A Catacomb | 30.00% | ~7 |
@@ -21,9 +21,9 @@
 | The Crypt of Ivan Kotar | 26.00% | ~6 |
 | Lore and Background Story | 26.00% | ~6 |
 | Ulric's Painting Acquired | 22.00% | ~5 |
+| Save Arsen | 22.00% | ~5 |
 | Nikolay's Nonsense | 22.00% | ~5 |
 | You Abandoned God | 22.00% | ~5 |
-| Save Arsen | 17.00% | ~4 |
 | Kabeer is Dead | 17.00% | ~4 |
 | Forgive Ida | 13.00% | ~3 |
 | Davor Was Deported | 13.00% | ~3 |
@@ -42,15 +42,15 @@
 | Silenced the Voices | 9.00% | ~2 |
 | The Chapel | 9.00% | ~2 |
 | The Sewers | 9.00% | ~2 |
+| The Meaning of Life | 9.00% | ~2 |
 | Lodge's Secret Passage Shortcut | 9.00% | ~2 |
 | That's Viktoria | 9.00% | ~2 |
 | Found Vilim's Body | 4.00% | ~1 |
 | Get Eaten by the Food Man | 4.00% | ~1 |
 | Death Whistle Opened the Door | 4.00% | ~1 |
-| The Meaning of Life | 4.00% | ~1 |
 | Antun Has a Father Now | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23 (Ranked 587)  
+Progressed: 23 (Ranked 588)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |

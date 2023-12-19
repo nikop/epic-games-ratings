@@ -2,7 +2,7 @@
   "ID": "08900611756a442ab81750df9deacd77",
   "Name": "Saint Kotar",
   "ProductSlug": "saint-kotar-7f0c47",
-  "Ranking_EOS_Progress": 587,
+  "Ranking_EOS_Progress": 588,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 557,
   "Ranking_EOS_NewCompleters": 158,
@@ -97,17 +97,17 @@
       "ID": "Mojse_an_ally",
       "SetID": "4akddl8",
       "Name": "Make the Prophet Your Ally",
-      "Percentage": 30,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Nikolay_one_eye_less",
       "SetID": "4akddl8",
       "Name": "Become a Half-Child",
-      "Percentage": 30,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Ulric_painting_acquired",
@@ -137,9 +137,9 @@
       "ID": "by_killing_Hem_you_saved_one_soul",
       "SetID": "4akddl8",
       "Name": "Save Arsen",
-      "Percentage": 17,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "children_are_eaten_on_Klek",
@@ -369,9 +369,9 @@
       "ID": "made_Nikolay_ponder_about_meaning_of_life",
       "SetID": "4akddl8",
       "Name": "The Meaning of Life",
-      "Percentage": 4,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "made_Nikolay_say_all_his_nonsense",
@@ -442,8 +442,8 @@
   "FirstSeenRating": "2023-03-31T05:58:43.0246209+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.7285802+00:00",
   "LastChanged": "2023-03-31T05:58:43.024621+00:00",
-  "LastChanged_Achievements": "2023-12-19T19:04:40.4605638+00:00",
+  "LastChanged_Achievements": "2023-12-19T20:06:08.2217008+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:57:02.1166967+00:00",
-  "LastUpdate_Ratings": "2023-12-19T19:02:37.090814+00:00",
-  "LastUpdate_Achievements": "2023-12-19T19:04:40.4605905+00:00"
+  "LastUpdate_Ratings": "2023-12-19T20:03:19.6164523+00:00",
+  "LastUpdate_Achievements": "2023-12-19T20:06:08.2217312+00:00"
 }

@@ -21,8 +21,8 @@
 | It's Warm and Cozy at Home | 59.00% | ~348 |
 | Trap Master | 55.00% | ~324 |
 | Minions, Minions! | 54.00% | ~319 |
+| The Big Eaty | 54.00% | ~319 |
 | Hard Work | 53.00% | ~313 |
-| The Big Eaty | 53.00% | ~313 |
 | “… like son” | 51.00% | ~301 |
 | YOU SHALL NOT PASS! | 50.00% | ~295 |
 | The Cathedral of Light | 48.00% | ~283 |
@@ -34,12 +34,12 @@
 | All’s Well That Ends Evil | 40.00% | ~236 |
 | The Duel | 36.00% | ~212 |
 | Unstoppable Horde | 35.00% | ~206 |
-| Master of the Undead | 34.00% | ~201 |
+| Master of the Undead | 35.00% | ~206 |
 | If Looks Could Kill | 33.00% | ~195 |
 | The Finitude Drill | 31.00% | ~183 |
 | Ghost Pirates? Ghost Heroes! | 30.00% | ~177 |
+| Not Even a Tiny Thin Mint Wafer, Thanks! | 28.00% | ~165 |
 | Forbidden Knowledge | 28.00% | ~165 |
-| Not Even a Tiny Thin Mint Wafer, Thanks! | 27.00% | ~159 |
 | Doom Hill | 27.00% | ~159 |
 | Hungry, Hungry Gorgu! | 26.00% | ~153 |
 | Stop Tanos! | 26.00% | ~153 |

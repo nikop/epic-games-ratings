@@ -143,7 +143,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15465,
+  "EOS_Progressed": 15466,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 476,
   "EOS_NewCompleters": -1,
@@ -4148,6 +4148,11 @@
       "Time": "2023-12-19T19:08:40.292642+00:00",
       "NumProgressed": 15465,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-19T20:09:54.5136889+00:00",
+      "NumProgressed": 15466,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -4192,7 +4197,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 11599
+      "UsersEstimate": 11600
     },
     {
       "ID": "ACH_AE_14",
@@ -4200,7 +4205,7 @@
       "Name": "Sticky Situation",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 2938
+      "UsersEstimate": 2939
     },
     {
       "ID": "ACH_AE_15",
@@ -4208,7 +4213,7 @@
       "Name": "Right Back At You",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3402
+      "UsersEstimate": 3403
     },
     {
       "ID": "ACH_AE_16",
@@ -4216,7 +4221,7 @@
       "Name": "Energy Efficient",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 2010
+      "UsersEstimate": 2011
     },
     {
       "ID": "ACH_AE_17",
@@ -4246,9 +4251,9 @@
       "ID": "ACH_AE_2",
       "SetID": "ck3465",
       "Name": "Back to School",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3557
+      "UsersEstimate": 3712
     },
     {
       "ID": "ACH_AE_20",
@@ -4256,7 +4261,7 @@
       "Name": "Let It Out",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1546
+      "UsersEstimate": 1547
     },
     {
       "ID": "ACH_AE_21",
@@ -4392,7 +4397,7 @@
       "Name": "The Bomb",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2010
+      "UsersEstimate": 2011
     },
     {
       "ID": "ACH_AE_5",
@@ -4408,7 +4413,7 @@
       "Name": "Betrayal",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1546
+      "UsersEstimate": 1547
     },
     {
       "ID": "ACH_AE_7",
@@ -4424,7 +4429,7 @@
       "Name": "Prisoner Dilemma",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1546
+      "UsersEstimate": 1547
     },
     {
       "ID": "ACH_AE_9",
@@ -4432,14 +4437,14 @@
       "Name": "Paradise Lost",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1546
+      "UsersEstimate": 1547
     }
   ],
   "AchievementSets": [
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 15465,
+      "Progressed": 15466,
       "Completed": 14
     }
   ],
@@ -4447,8 +4452,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-13T16:00:23.030195+00:00",
-  "LastChanged_Achievements": "2023-12-19T19:08:40.2926418+00:00",
+  "LastChanged_Achievements": "2023-12-19T20:09:54.5136887+00:00",
   "LastUpdate_AppInfo": "2023-12-19T17:57:04.7850695+00:00",
-  "LastUpdate_Ratings": "2023-12-19T18:58:43.2723244+00:00",
-  "LastUpdate_Achievements": "2023-12-19T19:08:40.2926858+00:00"
+  "LastUpdate_Ratings": "2023-12-19T19:59:47.1550622+00:00",
+  "LastUpdate_Achievements": "2023-12-19T20:09:54.5137284+00:00"
 }

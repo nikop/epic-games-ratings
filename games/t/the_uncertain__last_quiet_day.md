@@ -22,9 +22,9 @@ Rating: 3.75 (Ranked 1,058)
 | Hacker | 19.00% | ~114 |
 | He is just a child | 19.00% | ~114 |
 | Uncertain | 18.00% | ~108 |
+| Ace | 17.00% | ~102 |
 | Goody | 17.00% | ~102 |
 | Please oh pleeease! | 17.00% | ~102 |
-| Ace | 16.00% | ~96 |
 | Concrete painting | 16.00% | ~96 |
 | Found it! | 16.00% | ~96 |
 | Hipster | 16.00% | ~96 |

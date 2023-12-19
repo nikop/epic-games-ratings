@@ -6,24 +6,24 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~37,552 |
-| Biggest Communism Builder | 24.00% | ~32,187 |
-| The World's Most Laughable Centrist | 20.00% | ~26,823 |
-| Il Coppo Del'Arte! | 18.00% | ~24,141 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,458 |
-| Hyperstellar Law Official | 16.00% | ~21,458 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~18,776 |
-| Gurdi-Ball Is Lit | 14.00% | ~18,776 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~17,435 |
-| Truly Rabid *Traditionalist* | 11.00% | ~14,753 |
-| Unbelievably Boring **** | 9.00% | ~12,070 |
-| The Figurines Won't Win Her Back | 9.00% | ~12,070 |
-| Enemy Of The Physical Realm | 8.00% | ~10,729 |
+| Goodest Of The Good Cops | 28.00% | ~37,554 |
+| Biggest Communism Builder | 24.00% | ~32,190 |
+| The World's Most Laughable Centrist | 20.00% | ~26,825 |
+| Il Coppo Del'Arte! | 18.00% | ~24,142 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,460 |
+| Hyperstellar Law Official | 16.00% | ~21,460 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~18,777 |
+| Gurdi-Ball Is Lit | 14.00% | ~18,777 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~17,436 |
+| Truly Rabid *Traditionalist* | 11.00% | ~14,754 |
+| Unbelievably Boring **** | 9.00% | ~12,071 |
+| The Figurines Won't Win Her Back | 9.00% | ~12,071 |
+| Enemy Of The Physical Realm | 8.00% | ~10,730 |
 | Hardie's Heroes | 6.00% | ~8,047 |
 | The Lawbringer | 4.00% | ~5,365 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,365 |
-| The Opener Of The Eighth Seal | 3.00% | ~4,023 |
-| Bother Kim After Hours | 3.00% | ~4,023 |
+| The Opener Of The Eighth Seal | 3.00% | ~4,024 |
+| Bother Kim After Hours | 3.00% | ~4,024 |
 | Baddest Of the Bad Cops | 2.00% | ~2,682 |
 | Expert Advanced Remote Viewer | 2.00% | ~2,682 |
 | Recruit Detective Kuuno de Ruyter | 2.00% | ~2,682 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~134 |
 | What body? | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,114 (Ranked 84)  
+Progressed: 134,123 (Ranked 84)  
 Completed: 28 (0.02%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 28 (0.02%) (Ranked 351)
 | 2023-12-16 | 133,249 | 28 |
 | 2023-12-17 | 133,659 | 28 |
 | 2023-12-18 | 133,915 | 28 |
-| 2023-12-19 | 134,114 | 28 |
+| 2023-12-19 | 134,123 | 28 |
 ## Awards
 Max (Character Customization): 750  (Ranked 184)  
 Sum: 1,144 (Ranked 256)  

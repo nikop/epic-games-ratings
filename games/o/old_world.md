@@ -14,10 +14,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Acropolis in Athenai | 0.10% | ~16 |
 | Hanging Gardens in Babylon | 0.10% | ~16 |
 | Ishtar Gate in Babylon | 0.10% | ~16 |
+| Carthage - Ox Hide | 0.10% | ~16 |
+| Bronze Victory (Carthage 1) | 0.10% | ~16 |
 | Able | 0.10% | ~16 |
 | Ambitious | 0.10% | ~16 |
 | Architect | 0.10% | ~16 |
 | Beloved | 0.10% | ~16 |
+| Drillmaster | 0.10% | ~16 |
 | Brilliant | 0.10% | ~16 |
 | Conqueror | 0.10% | ~16 |
 | Devout | 0.10% | ~16 |
@@ -36,12 +39,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mason | 0.10% | ~16 |
 | Mighty | 0.10% | ~16 |
 | Noble | 0.10% | ~16 |
+| Old | 0.10% | ~16 |
 | Peacemaker | 0.10% | ~16 |
 | Pioneer | 0.10% | ~16 |
 | Ready | 0.10% | ~16 |
 | Settler | 0.10% | ~16 |
 | Strong | 0.10% | ~16 |
 | Valiant | 0.10% | ~16 |
+| Warrior | 0.10% | ~16 |
 | Developing Cities | 0.10% | ~16 |
 | Legendary Cities | 0.10% | ~16 |
 | Strong Cities | 0.10% | ~16 |
@@ -70,17 +75,20 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat | 0.10% | ~16 |
 | Hanging Gardens | 0.10% | ~16 |
 | Temple of Solomon | 0.10% | ~16 |
+| Cao'an | 0.10% | ~16 |
 | Adur Burzen-Mihr | 0.10% | ~16 |
 | Ishtar Gate | 0.10% | ~16 |
 | Lighthouse | 0.10% | ~16 |
 | Mausoleum | 0.10% | ~16 |
 | Musaeum | 0.10% | ~16 |
+| Necropolis | 0.10% | ~16 |
 | Oracle | 0.10% | ~16 |
 | Pantheon | 0.10% | ~16 |
 | Pyramids | 0.10% | ~16 |
 | Via Recta Souk | 0.10% | ~16 |
 | Learn to Play 1 | 0.10% | ~16 |
 | Learn to Play 2 | 0.10% | ~16 |
+| Learn to Play 3 | 0.10% | ~16 |
 | Learn to Play 5 | 0.10% | ~16 |
 | Macedonian Wars | 0.10% | ~16 |
 | Assyria | 0.10% | ~16 |
@@ -94,12 +102,16 @@ Number of Ratings: 1,307  (23.09.2022)
 | Judaism | 0.10% | ~16 |
 | Manichaeism | 0.10% | ~16 |
 | Assyrian Paganism | 0.10% | ~16 |
+| Babylonian Paganism | 0.10% | ~16 |
+| Carthaginian Paganism | 0.10% | ~16 |
 | Egyptian Paganism | 0.10% | ~16 |
 | Greek Paganism | 0.10% | ~16 |
 | Hittite Paganism | 0.10% | ~16 |
+| Persian Paganism | 0.10% | ~16 |
 | Roman Paganism | 0.10% | ~16 |
 | Zoroastrianism | 0.10% | ~16 |
 | Circus Maximus in Roma | 0.10% | ~16 |
+| Pantheon in Roma | 0.10% | ~16 |
 | Capturing Cities | 0.10% | ~16 |
 | Naming Landmarks | 0.10% | ~16 |
 | Economic Reform | 0.10% | ~16 |
@@ -109,6 +121,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gnosticism | 0.10% | ~16 |
 | Mythology | 0.10% | ~16 |
 | Redemption | 0.10% | ~16 |
+| Revelation | 0.10% | ~16 |
 | Veneration | 0.10% | ~16 |
 | Trade Caravan | 0.10% | ~16 |
 | Cimmerian Archer | 0.10% | ~16 |
@@ -134,8 +147,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Before the Mongol Horde | 0.00% | ~0 |
 | Blade of the Monkey | 0.00% | ~0 |
 | Hagia Sophia in Byzantion | 0.00% | ~0 |
-| Carthage - Ox Hide | 0.00% | ~0 |
-| Bronze Victory (Carthage 1) | 0.00% | ~0 |
 | Epic Victory (Carthage 1) | 0.00% | ~0 |
 | Gold Victory (Carthage 1) | 0.00% | ~0 |
 | Silver Victory (Carthage 1) | 0.00% | ~0 |
@@ -158,19 +169,16 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cleopatra's Love | 0.00% | ~0 |
 | Ancient | 0.00% | ~0 |
 | Avenger | 0.00% | ~0 |
-| Drillmaster | 0.00% | ~0 |
 | Capable | 0.00% | ~0 |
 | Destroyer | 0.00% | ~0 |
 | Holy | 0.00% | ~0 |
 | Invincible | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
 | Lion | 0.00% | ~0 |
-| Old | 0.00% | ~0 |
 | Rebuilder | 0.00% | ~0 |
 | Restorer | 0.00% | ~0 |
 | Subjugator | 0.00% | ~0 |
 | Victorious | 0.00% | ~0 |
-| Warrior | 0.00% | ~0 |
 | White Death | 0.00% | ~0 |
 | Wise | 0.00% | ~0 |
 | Council of Madness | 0.00% | ~0 |
@@ -233,14 +241,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hardcore | 0.00% | ~0 |
 | Hagia Sophia | 0.00% | ~0 |
 | Church of the Holy Sepulchre | 0.00% | ~0 |
-| Cao'an | 0.00% | ~0 |
-| Necropolis | 0.00% | ~0 |
 | Knowledge of the Ancients | 0.00% | ~0 |
 | Learn By Playing 1 - Able | 0.00% | ~0 |
 | Learn By Playing 2 - Just | 0.00% | ~0 |
 | Learn By Playing 3 - Good | 0.00% | ~0 |
 | Learn By Playing 4 - Strong | 0.00% | ~0 |
-| Learn to Play 3 | 0.00% | ~0 |
 | Learn to Play 4 | 0.00% | ~0 |
 | Medo-Babylonian Conquest | 0.00% | ~0 |
 | Pyramids in Menefer | 0.00% | ~0 |
@@ -261,17 +266,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Play-By-Cloud Game | 0.00% | ~0 |
 | Power to the People | 0.00% | ~0 |
 | Punic Wars | 0.00% | ~0 |
-| Babylonian Paganism | 0.00% | ~0 |
-| Carthaginian Paganism | 0.00% | ~0 |
-| Persian Paganism | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
 | Roman Papacy | 0.00% | ~0 |
-| Pantheon in Roma | 0.00% | ~0 |
 | Building Wonders | 0.00% | ~0 |
 | Ten Crowns | 0.00% | ~0 |
 | Enlightenment | 0.00% | ~0 |
 | Legalism | 0.00% | ~0 |
-| Revelation | 0.00% | ~0 |
 | Word of God | 0.00% | ~0 |
 | Cataphract Archer | 0.00% | ~0 |
 | Three Man Chariot | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Al Khazneh in Petra | 0.00% | ~0 |
 | Colosseum in Roma | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,835 (Ranked 157)  
+Progressed: 15,839 (Ranked 157)  
 Completed: 5 (0.03%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -608,7 +608,7 @@ Completed: 5 (0.03%) (Ranked 344)
 | 2023-12-16 | 15,789 | 5 |
 | 2023-12-17 | 15,807 | 5 |
 | 2023-12-18 | 15,826 | 5 |
-| 2023-12-19 | 15,835 | 5 |
+| 2023-12-19 | 15,839 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 279)  
 Sum: 1,904 (Ranked 220)  

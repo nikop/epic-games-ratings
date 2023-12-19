@@ -2,7 +2,7 @@
   "ID": "b1555bed500048b79f6fad321d5a7202",
   "Name": "Nova Strike",
   "ProductSlug": "nova-strike",
-  "Ranking_EOS_Progress": 592,
+  "Ranking_EOS_Progress": 593,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 511,
   "Ranking_EOS_NewCompleters": 158,
@@ -241,17 +241,17 @@
       "ID": "4",
       "SetID": "5lmgb5n",
       "Name": "Shipwreck",
-      "Percentage": 5,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "5",
       "SetID": "5lmgb5n",
       "Name": "Mission complete",
-      "Percentage": 5,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "6",
@@ -296,8 +296,8 @@
   ],
   "FirstSeen": "2023-08-01T17:57:15.417179+00:00",
   "FirstSeenAchievements": "2023-07-27T09:00:47.8378979+00:00",
-  "LastChanged_Achievements": "2023-12-19T19:09:16.0264786+00:00",
+  "LastChanged_Achievements": "2023-12-19T20:10:42.3512398+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:10.5972302+00:00",
-  "LastUpdate_Ratings": "2023-12-19T19:02:33.0810123+00:00",
-  "LastUpdate_Achievements": "2023-12-19T19:09:16.0264917+00:00"
+  "LastUpdate_Ratings": "2023-12-19T20:03:14.1020712+00:00",
+  "LastUpdate_Achievements": "2023-12-19T20:10:42.351255+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 456,
+  "Ranking_EOS_NewPlayers": 441,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1183,
+  "EOS_Progressed": 1184,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1184,6 +1184,11 @@
       "Time": "2023-12-17T09:05:22.087308+00:00",
       "NumProgressed": 1183,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T20:06:48.4583143+00:00",
+      "NumProgressed": 1184,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -1203,7 +1208,7 @@
       "Name": "Try them all",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ALLMODULESA",
@@ -1211,7 +1216,7 @@
       "Name": "A-mazing!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ALLMODULESB",
@@ -1243,7 +1248,7 @@
       "Name": "To infinity and gravity!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ALLTRACKSCAIRO",
@@ -1251,7 +1256,7 @@
       "Name": "Walked like an Egyptian",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ALLTRACKSCLOUD",
@@ -1275,7 +1280,7 @@
       "Name": "One giant drive for mankind",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ALLTRACKSMARIANA",
@@ -1323,7 +1328,7 @@
       "Name": "Rookie No More",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "CAREERADVANCED",
@@ -1395,7 +1400,7 @@
       "Name": "[Sweats profusely]",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "CHAMPION",
@@ -1467,7 +1472,7 @@
       "Name": "It\u0027s like a party!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "JOINONEONLINE",
@@ -1507,7 +1512,7 @@
       "Name": "Increasing your Power Level",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "ONEPAINT",
@@ -1595,7 +1600,7 @@
       "Name": "Healthy competition",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "WINPOLE",
@@ -1610,7 +1615,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1183,
+      "Progressed": 1184,
       "Completed": 0
     }
   ],
@@ -1618,8 +1623,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-11-23T19:59:23.2109032+00:00",
-  "LastChanged_Achievements": "2023-12-19T19:05:10.3401272+00:00",
+  "LastChanged_Achievements": "2023-12-19T20:06:48.458314+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:54.1837394+00:00",
-  "LastUpdate_Ratings": "2023-12-19T19:02:45.1966982+00:00",
-  "LastUpdate_Achievements": "2023-12-19T19:05:10.3401753+00:00"
+  "LastUpdate_Ratings": "2023-12-19T20:03:30.8017794+00:00",
+  "LastUpdate_Achievements": "2023-12-19T20:06:48.4583577+00:00"
 }
