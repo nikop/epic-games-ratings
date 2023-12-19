@@ -36,7 +36,7 @@
 | [Kingdom Rush Vengeance](../games/c/c0d2e8a180624787be1c4c6386493796.md) | 77 | 1,000 | 2 |
 | [Mass Effect™ Legendary Edition](../games/m/mass_effect™_legendary_edition.md) | 127 | 2,915 | 2 |
 | [Mega City Force](../games/m/mega_city_police.md) | 27 | 1,050 | 2 |
-| [Old World](../games/o/old_world.md) | 342 | 3,360 | 2 |
+| [Old World](../games/o/old_world.md) | 358 | 3,440 | 2 |
 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](../games/p/pathfinder__wrath_of_the_righteous.md) | 116 | 1,150 | 2 |
 | [PAYDAY 2](../games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 1,328 | 15,000 | 2 |
 | [Pinball FX](../games/p/pinball_fx.md) | 39 | 1,180 | 2 |
