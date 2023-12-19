@@ -4,7 +4,7 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3808,
+  "EOS_Progressed": 3809,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4176,6 +4176,11 @@
       "Time": "2023-12-19T10:03:52.2400052+00:00",
       "NumProgressed": 3808,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T12:04:57.6109529+00:00",
+      "NumProgressed": 3809,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -4315,7 +4320,7 @@
       "Name": "To Suffer is to Learn",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ACH_M_D1",
@@ -4563,7 +4568,7 @@
       "Name": "Initiate\u0027s Resolve",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ACH_R_A",
@@ -4690,7 +4695,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3808,
+      "Progressed": 3809,
       "Completed": 0
     }
   ],
@@ -4698,8 +4703,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-12-19T11:04:52.1064835+00:00",
+  "LastChanged_Achievements": "2023-12-19T12:04:57.6109525+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:16.6917179+00:00",
-  "LastUpdate_Ratings": "2023-12-19T10:59:06.7093575+00:00",
-  "LastUpdate_Achievements": "2023-12-19T11:04:52.1065428+00:00"
+  "LastUpdate_Ratings": "2023-12-19T11:59:03.0346192+00:00",
+  "LastUpdate_Achievements": "2023-12-19T12:04:57.6110554+00:00"
 }

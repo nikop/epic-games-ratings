@@ -26,6 +26,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Adur Burzen-Mihr | 0.10% | ~16 |
 | Ishtar Gate | 0.10% | ~16 |
 | Mausoleum | 0.10% | ~16 |
+| Musaeum | 0.10% | ~16 |
 | Learn to Play 1 | 0.10% | ~16 |
 | Learn to Play 2 | 0.10% | ~16 |
 | Play a Single Player Game | 0.10% | ~16 |
@@ -196,7 +197,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Temple of Solomon | 0.00% | ~0 |
 | Cao'an | 0.00% | ~0 |
 | Lighthouse | 0.00% | ~0 |
-| Musaeum | 0.00% | ~0 |
 | Necropolis | 0.00% | ~0 |
 | Oracle | 0.00% | ~0 |
 | Pantheon | 0.00% | ~0 |

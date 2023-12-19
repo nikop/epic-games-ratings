@@ -33,8 +33,8 @@
 | It's good to be alive | 55.00% | ~232 |
 | Own four walls | 55.00% | ~232 |
 | Employee of the year | 55.00% | ~232 |
+| Legal courier | 51.00% | ~215 |
 | Extreme neuropower! | 51.00% | ~215 |
-| Legal courier | 50.00% | ~210 |
 | Escaped from a big trouble | 48.00% | ~202 |
 | Now you are worthy | 45.00% | ~189 |
 | Fight is life | 43.00% | ~181 |

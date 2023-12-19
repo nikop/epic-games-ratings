@@ -4,7 +4,7 @@
   "ProductSlug": "the-legend-of-tianding",
   "Ranking_EOS_Progress": 531,
   "Ranking_EOS_Completed": 64,
-  "Ranking_EOS_NewPlayers": 375,
+  "Ranking_EOS_NewPlayers": 376,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-11-02T01:00:00+00:00",
@@ -301,9 +301,9 @@
       "ID": "BeatBossNaka",
       "SetID": "123m9l1",
       "Name": "Killing Machine",
-      "Percentage": 44,
+      "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "BeatBossShimada",
@@ -502,8 +502,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2023-12-19T11:08:25.352989+00:00",
+  "LastChanged_Achievements": "2023-12-19T12:08:31.2691176+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:41.0518809+00:00",
-  "LastUpdate_Ratings": "2023-12-19T10:58:37.8051931+00:00",
-  "LastUpdate_Achievements": "2023-12-19T11:08:25.3530057+00:00"
+  "LastUpdate_Ratings": "2023-12-19T11:58:36.9096141+00:00",
+  "LastUpdate_Achievements": "2023-12-19T12:08:31.2691321+00:00"
 }

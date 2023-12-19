@@ -5,14 +5,14 @@ Rating: 4.19 (Ranked 938)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 13.00% | ~2,343 |
-| Get a Grip | 13.00% | ~2,343 |
-| The Outer Way | 13.00% | ~2,343 |
-| Paper Jams | 12.00% | ~2,163 |
-| Desperate Times | 12.00% | ~2,163 |
+| Flesh Wound | 13.00% | ~2,344 |
+| Get a Grip | 13.00% | ~2,344 |
+| The Outer Way | 13.00% | ~2,344 |
+| Paper Jams | 12.00% | ~2,164 |
+| Desperate Times | 12.00% | ~2,164 |
 | Chew 'Em Up | 10.00% | ~1,803 |
 | Float Like A Butterfly | 10.00% | ~1,803 |
-| Reforged | 9.00% | ~1,622 |
+| Reforged | 9.00% | ~1,623 |
 | Workplace Hazard | 8.00% | ~1,442 |
 | If the SHU Fits... | 8.00% | ~1,442 |
 | Without A Paddle | 7.00% | ~1,262 |
@@ -24,9 +24,9 @@ Rating: 4.19 (Ranked 938)
 | Full Circle | 6.00% | ~1,082 |
 | Power Up | 6.00% | ~1,082 |
 | Keep Fighting | 6.00% | ~357 |
-| Giving Back | 5.00% | ~901 |
-| You Need a Gun | 5.00% | ~901 |
-| I Do Belong Here | 5.00% | ~901 |
+| Giving Back | 5.00% | ~902 |
+| You Need a Gun | 5.00% | ~902 |
+| I Do Belong Here | 5.00% | ~902 |
 | It's Time | 4.00% | ~238 |
 | In Striking Distance | 3.00% | ~541 |
 | The Commonality | 3.00% | ~541 |
@@ -34,9 +34,9 @@ Rating: 4.19 (Ranked 938)
 | Big Spender | 1.00% | ~60 |
 | This Isn't About Escape | 1.00% | ~60 |
 | Armed to the Teeth | 0.90% | ~54 |
+| Grim Reaper | 0.80% | ~144 |
 | Mugshot | 0.80% | ~144 |
 | Information Overload | 0.80% | ~48 |
-| Grim Reaper | 0.70% | ~126 |
 | Parole Denied | 0.70% | ~42 |
 | Instigator | 0.70% | ~42 |
 | Quick Pick | 0.60% | ~36 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 938)
 | Bear Trap | 0.10% | ~6 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,026 (Ranked 149)  
+Progressed: 18,031 (Ranked 149)  
 Completed: 82 (0.45%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 82 (0.45%) (Ranked 222)
 | 2023-12-16 | 17,442 | 82 |
 | 2023-12-17 | 17,760 | 82 |
 | 2023-12-18 | 17,946 | 82 |
-| 2023-12-19 | 18,026 | 82 |
+| 2023-12-19 | 18,031 | 82 |
 ## Awards
 Max (Quickly Understood Controls): 88  (Ranked 388)  
 Sum: 523 (Ranked 326)  

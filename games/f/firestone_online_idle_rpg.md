@@ -68,12 +68,12 @@ Rating: 4.04 (Ranked 1,007)
 | Guardian Master | 2.00% | ~71 |
 | Pokerface | 2.00% | ~71 |
 | What lies behind the bush | 2.00% | ~71 |
+| Angel Power | 1.00% | ~35 |
 | Conqueror | 1.00% | ~35 |
 | Enhanced War Machines | 1.00% | ~35 |
 | Titan Power | 1.00% | ~35 |
 | Transmute | 1.00% | ~35 |
 | Tree of Life | 1.00% | ~35 |
-| Angel Power | 0.90% | ~32 |
 | Silverwood liberator | 0.80% | ~28 |
 | Training makes a Pro player | 0.80% | ~28 |
 | Beast War Machines | 0.70% | ~25 |

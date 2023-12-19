@@ -3521,9 +3521,9 @@
       "ID": "AC02",
       "SetID": "l4abp0",
       "Name": "Blood and Dust",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 950
+      "UsersEstimate": 965
     },
     {
       "ID": "AC03",
@@ -3545,9 +3545,9 @@
       "ID": "AC05",
       "SetID": "l4abp0",
       "Name": "The Sharpest Tool in the Shed",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 806
+      "UsersEstimate": 821
     },
     {
       "ID": "AC06",
@@ -3705,9 +3705,9 @@
       "ID": "AC25",
       "SetID": "l4abp0",
       "Name": "House of Grief and Hatred",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 576
+      "UsersEstimate": 590
     },
     {
       "ID": "AC26",
@@ -3809,9 +3809,9 @@
       "ID": "AC38",
       "SetID": "l4abp0",
       "Name": "Edge of Orison",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 490
+      "UsersEstimate": 504
     },
     {
       "ID": "AC39",
@@ -3825,9 +3825,9 @@
       "ID": "AC40",
       "SetID": "l4abp0",
       "Name": "Welcome Back!",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1138
     },
     {
       "ID": "AC41",
@@ -3882,8 +3882,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-12-13T22:00:21.7018049+00:00",
-  "LastChanged_Achievements": "2023-12-19T11:05:14.3848665+00:00",
+  "LastChanged_Achievements": "2023-12-19T12:05:19.7372468+00:00",
   "LastUpdate_AppInfo": "2023-12-13T02:20:44.5606116+00:00",
-  "LastUpdate_Ratings": "2023-12-19T11:00:51.4089637+00:00",
-  "LastUpdate_Achievements": "2023-12-19T11:05:14.384913+00:00"
+  "LastUpdate_Ratings": "2023-12-19T12:00:47.3923367+00:00",
+  "LastUpdate_Achievements": "2023-12-19T12:05:19.7372871+00:00"
 }

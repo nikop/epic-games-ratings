@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 375,
+  "Ranking_EOS_NewPlayers": 371,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 787,
+  "EOS_Progressed": 788,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1038,6 +1038,11 @@
       "Time": "2023-12-18T09:04:14.2579643+00:00",
       "NumProgressed": 787,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T12:05:38.8841594+00:00",
+      "NumProgressed": 788,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1113,7 +1118,7 @@
       "Name": "Fire in the hole!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "I feel secure, contained \u0026 protected",
@@ -1177,7 +1182,7 @@
       "Name": "Omnipotence",
       "Percentage": 20,
       "XP": 75,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "SERENITY_NOW",
@@ -1217,7 +1222,7 @@
       "Name": "Tell me your story",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -1225,7 +1230,7 @@
       "Name": "That\u0027s gotta hurt",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "The Traveler",
@@ -1257,7 +1262,7 @@
       "Name": "The Warlord",
       "Percentage": 20,
       "XP": 75,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "The_things_they_print_nowadays",
@@ -1297,7 +1302,7 @@
       "Name": "Woman on a (side) mission",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "You_are_the_One",
@@ -1313,7 +1318,7 @@
       "Name": "Don\u0027t judge a manhole by its cover",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "posters",
@@ -1336,7 +1341,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 787,
+      "Progressed": 788,
       "Completed": 0
     }
   ],
@@ -1344,8 +1349,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-12-09T07:59:55.495838+00:00",
-  "LastChanged_Achievements": "2023-12-19T11:05:32.3066579+00:00",
+  "LastChanged_Achievements": "2023-12-19T12:05:38.884159+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:41.3639651+00:00",
-  "LastUpdate_Ratings": "2023-12-19T11:02:48.4212734+00:00",
-  "LastUpdate_Achievements": "2023-12-19T11:05:32.3066794+00:00"
+  "LastUpdate_Ratings": "2023-12-19T12:02:53.6507361+00:00",
+  "LastUpdate_Achievements": "2023-12-19T12:05:38.8841857+00:00"
 }

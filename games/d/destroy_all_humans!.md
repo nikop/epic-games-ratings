@@ -6,26 +6,26 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kaijuiced | 68.00% | ~28 |
-| Lie Back and Think of Albion | 63.00% | ~26 |
-| Yettisoned | 54.00% | ~22 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 54.00% | ~22 |
-| I Look Up As I Walk to Takoshima | 49.00% | ~20 |
-| Lobster Blisque | 46.00% | ~19 |
-| Perfect Probulator | 44.00% | ~18 |
-| Shop Til They Drop | 41.00% | ~17 |
-| Freshly Squeezed | 34.00% | ~14 |
-| Ducks in a Row, Fish in a Barrel | 32.00% | ~13 |
+| Kaijuiced | 69.00% | ~29 |
+| Lie Back and Think of Albion | 64.00% | ~27 |
+| Yettisoned | 55.00% | ~23 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 55.00% | ~23 |
+| I Look Up As I Walk to Takoshima | 50.00% | ~21 |
+| Lobster Blisque | 45.00% | ~19 |
+| Perfect Probulator | 45.00% | ~19 |
+| Shop Til They Drop | 40.00% | ~17 |
+| Freshly Squeezed | 38.00% | ~16 |
+| Ducks in a Row, Fish in a Barrel | 33.00% | ~14 |
 | Fly Me to the Moon Base | 29.00% | ~12 |
 | Forbidden Donut | 29.00% | ~12 |
 | Earthly Pleasures | 29.00% | ~12 |
-| Pimp My Raid | 27.00% | ~11 |
-| Bodied Sattva | 27.00% | ~11 |
-| Upgreatest | 22.00% | ~9 |
-| Trans-Siberian Express | 22.00% | ~9 |
-| Deincarnated | 17.00% | ~7 |
-| Rock of the Bay | 17.00% | ~7 |
-| Re-Return of the Clone of the Invasion II-2 | 15.00% | ~6 |
+| Pimp My Raid | 26.00% | ~11 |
+| Bodied Sattva | 26.00% | ~11 |
+| Upgreatest | 21.00% | ~9 |
+| Trans-Siberian Express | 21.00% | ~9 |
+| Deincarnated | 19.00% | ~8 |
+| Rock of the Bay | 19.00% | ~8 |
+| Re-Return of the Clone of the Invasion II-2 | 14.00% | ~6 |
 | Furon Fashion | 12.00% | ~5 |
 | Arkvoodle Doodle | 10.00% | ~4 |
 | Ouch of Body Experience | 10.00% | ~4 |
@@ -47,13 +47,13 @@ Number of Ratings: 85  (23.09.2022)
 | Toilet Break | 0.00% | ~0 |
 | Against All Odds | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41 (Ranked 542)  
+Progressed: 42 (Ranked 541)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-12-18 | 23 | 0 |
-| 2023-12-19 | 41 | 0 |
+| 2023-12-19 | 42 | 0 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 490)  
 Sum: 34 (Ranked 515)  

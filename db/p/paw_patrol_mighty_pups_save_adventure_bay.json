@@ -4,7 +4,7 @@
   "ProductSlug": "paw-patrol-mighty-pups-save-adventure-bay-aaad37",
   "Ranking_EOS_Progress": 526,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 504,
+  "Ranking_EOS_NewPlayers": 506,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-12-13T19:30:00+00:00",
@@ -451,9 +451,9 @@
       "ID": "29",
       "SetID": "38ide56",
       "Name": "Paw patrol member",
-      "Percentage": 40,
+      "Percentage": 43,
       "XP": 200,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "3",
@@ -483,9 +483,9 @@
       "ID": "6",
       "SetID": "38ide56",
       "Name": "Robot Out of Control",
-      "Percentage": 40,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "7",
@@ -524,8 +524,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-12-19T11:05:35.6825378+00:00",
+  "LastChanged_Achievements": "2023-12-19T12:05:42.3428498+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:49.2024353+00:00",
-  "LastUpdate_Ratings": "2023-12-19T11:01:23.0356455+00:00",
-  "LastUpdate_Achievements": "2023-12-19T11:05:35.6825562+00:00"
+  "LastUpdate_Ratings": "2023-12-19T12:01:19.5459367+00:00",
+  "LastUpdate_Achievements": "2023-12-19T12:05:42.3428686+00:00"
 }

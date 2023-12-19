@@ -7,18 +7,18 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 8.00% | ~268 |
-| Lost and Found | 5.00% | ~167 |
+| Lost and Found | 5.00% | ~168 |
 | Autodidact | 4.00% | ~5,139 |
 | This guy... again? | 4.00% | ~134 |
-| This Belongs in a Museum | 3.00% | ~3,854 |
-| Not Today! | 3.00% | ~3,854 |
-| Creep and Sleep | 3.00% | ~3,854 |
-| Meat and Greet | 3.00% | ~3,854 |
-| Catch and Decease | 3.00% | ~3,854 |
-| Overdue Notice | 3.00% | ~3,854 |
-| Escape from the Black Hole | 3.00% | ~3,854 |
-| Ploughshares to Swords | 3.00% | ~100 |
-| Bloody Graduation | 3.00% | ~100 |
+| This Belongs in a Museum | 3.00% | ~3,855 |
+| Not Today! | 3.00% | ~3,855 |
+| Creep and Sleep | 3.00% | ~3,855 |
+| Meat and Greet | 3.00% | ~3,855 |
+| Catch and Decease | 3.00% | ~3,855 |
+| Overdue Notice | 3.00% | ~3,855 |
+| Escape from the Black Hole | 3.00% | ~3,855 |
+| Ploughshares to Swords | 3.00% | ~101 |
+| Bloody Graduation | 3.00% | ~101 |
 | Don't Make Me Turn This Coach Around | 2.00% | ~2,570 |
 | Serenity Now! | 2.00% | ~2,570 |
 | It Rings a Bell | 2.00% | ~2,570 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~128 |
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,476 (Ranked 85)  
+Progressed: 128,486 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,22 +319,22 @@ Completed: 3 (0.00%) (Ranked 383)
 | 2023-12-16 | 127,826 | 3 |
 | 2023-12-17 | 128,143 | 3 |
 | 2023-12-18 | 128,398 | 3 |
-| 2023-12-19 | 128,476 | 3 |
+| 2023-12-19 | 128,486 | 3 |
 ## Awards
-Max (Character Customization): 7,784  (Ranked 50)  
-Sum: 20,768 (Ranked 58)  
+Max (Character Customization): 7,795  (Ranked 50)  
+Sum: 20,786 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,784 |
+| This game has Inclusive Character Customization | 7,795 |
 | This game has Diverse Characters | 1,731 |
 | This game has Challenging Combat | 1,606 |
-| This game is Highly Recommended | 1,544 |
+| This game is Highly Recommended | 1,547 |
 | This game is Extremely Fun | 1,471 |
 | This game has Amazing Characters | 1,465 |
 | This game has Amazing Storytelling | 1,394 |
 | This game has Unique Visuals | 1,386 |
-| This game has Quickly Understood Controls | 1,356 |
+| This game has Quickly Understood Controls | 1,360 |
 | This game has a Creative Community | 1,031 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
@@ -666,4 +666,4 @@ Diff (max vs sum): -8
 | 2023-12-16 | 4.68 | - | 7,744 | 20,595 |
 | 2023-12-17 | 4.68 | - | 7,763 | 20,673 |
 | 2023-12-18 | 4.68 | - | 7,784 | 20,761 |
-| 2023-12-19 | 4.68 | - | 7,784 | 20,768 |
+| 2023-12-19 | 4.68 | - | 7,795 | 20,786 |

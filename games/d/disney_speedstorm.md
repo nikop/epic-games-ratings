@@ -5,15 +5,15 @@ Rating: 4.40 (Ranked 745)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 12.00% | ~41,521 |
-| IT MAKES BOOM! | 8.00% | ~27,680 |
-| EXTRA BOOST | 6.00% | ~20,760 |
-| PROTECTED | 5.00% | ~17,300 |
-| HERE ARE SOME BARE NECESSITIES | 4.00% | ~13,840 |
-| PRO | 4.00% | ~13,840 |
-| AGGRESSIVE RACER | 3.00% | ~10,380 |
-| IT'S A LONG WAY TO THE TOP | 2.00% | ~6,920 |
-| A TIGER'S FEAR | 2.00% | ~6,920 |
+| ROOKIE | 12.00% | ~41,525 |
+| IT MAKES BOOM! | 8.00% | ~27,683 |
+| EXTRA BOOST | 6.00% | ~20,763 |
+| PROTECTED | 5.00% | ~17,302 |
+| HERE ARE SOME BARE NECESSITIES | 4.00% | ~13,842 |
+| PRO | 4.00% | ~13,842 |
+| AGGRESSIVE RACER | 3.00% | ~10,381 |
+| IT'S A LONG WAY TO THE TOP | 2.00% | ~6,921 |
+| A TIGER'S FEAR | 2.00% | ~6,921 |
 | TRAINING HARD | 1.00% | ~3,460 |
 | RELEASE THE KRAKEN | 1.00% | ~3,460 |
 | BE OUR GUEST | 1.00% | ~3,460 |
@@ -30,8 +30,8 @@ Rating: 4.40 (Ranked 745)
 | PERFECTLY POISED | 0.50% | ~1,730 |
 | ACE TRICKSTER | 0.50% | ~1,730 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 346,006 (Ranked 50)  
-Completed: 963 (0.28%) (Ranked 251)  
+Progressed: 346,042 (Ranked 50)  
+Completed: 965 (0.28%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -269,10 +269,10 @@ Completed: 963 (0.28%) (Ranked 251)
 | 2023-12-16 | 342,463 | 875 |
 | 2023-12-17 | 344,133 | 919 |
 | 2023-12-18 | 345,440 | 949 |
-| 2023-12-19 | 346,006 | 963 |
+| 2023-12-19 | 346,042 | 965 |
 ## Awards
 Max (Great for Beginners): 142  (Ranked 325)  
-Sum: 926 (Ranked 272)  
+Sum: 927 (Ranked 272)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
@@ -284,7 +284,7 @@ Diff (max vs sum): 53
 | This game has Playful Visuals | 68 |
 | This game is Extremely Fun | 64 |
 | This game is Highly Recommended | 60 |
-| This game has Competitive Players | 57 |
+| This game has Competitive Players | 58 |
 | This game has Quickly Understood Controls | 53 |
 | This game is Relaxing | 52 |
 | This game has Amazing Storytelling | 49 |
@@ -370,3 +370,4 @@ Diff (max vs sum): 53
 | 2023-12-16 | 4.40 | 138 | 900 |
 | 2023-12-17 | 4.40 | 138 | 916 |
 | 2023-12-18 | 4.40 | 142 | 926 |
+| 2023-12-19 | 4.40 | 142 | 927 |

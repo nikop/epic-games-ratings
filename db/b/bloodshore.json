@@ -606,9 +606,9 @@
       "ID": "good_job_nerd",
       "SetID": "84ad177",
       "Name": "Good job, nerd",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 78
     },
     {
       "ID": "leader_you_are_not",
@@ -719,8 +719,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-12-19T11:05:36.7667816+00:00",
+  "LastChanged_Achievements": "2023-12-19T12:05:43.4796894+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:59.0408325+00:00",
-  "LastUpdate_Ratings": "2023-12-19T11:03:41.2332876+00:00",
-  "LastUpdate_Achievements": "2023-12-19T11:05:36.7667935+00:00"
+  "LastUpdate_Ratings": "2023-12-19T12:03:46.4918407+00:00",
+  "LastUpdate_Achievements": "2023-12-19T12:05:43.4797024+00:00"
 }

@@ -197,9 +197,9 @@
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "7on801h",
       "Name": "Ghost",
-      "Percentage": 16,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -525,9 +525,9 @@
       "ID": "NEW_ACHIEVEMENT_2_19",
       "SetID": "o6aioj",
       "Name": "Extract the Data\u2026",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_2",
@@ -541,9 +541,9 @@
       "ID": "NEW_ACHIEVEMENT_2_20",
       "SetID": "o6aioj",
       "Name": "Expose the Truth!",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_21",
@@ -573,9 +573,9 @@
       "ID": "NEW_ACHIEVEMENT_2_24",
       "SetID": "o6aioj",
       "Name": "Knock Knock",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_25",
@@ -589,9 +589,9 @@
       "ID": "NEW_ACHIEVEMENT_2_26",
       "SetID": "o6aioj",
       "Name": "Clean Sweep",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_27",
@@ -717,17 +717,17 @@
       "ID": "NEW_ACHIEVEMENT_3_11",
       "SetID": "o6aioj",
       "Name": "Don\u0027t Reach, Kid",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_3_12",
       "SetID": "o6aioj",
       "Name": "Smooth Like Soap",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_3_13",
@@ -741,25 +741,25 @@
       "ID": "NEW_ACHIEVEMENT_3_14",
       "SetID": "o6aioj",
       "Name": "Quid Pro Quo",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_3_15",
       "SetID": "o6aioj",
       "Name": "Dressed for the Occasion",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_3_16",
       "SetID": "o6aioj",
       "Name": "A Just Cause",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_3_17",
@@ -850,8 +850,8 @@
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2023-12-19T11:07:05.6218011+00:00",
+  "LastChanged_Achievements": "2023-12-19T12:07:11.8755067+00:00",
   "LastUpdate_AppInfo": "2023-12-13T16:57:09.7184844+00:00",
-  "LastUpdate_Ratings": "2023-12-19T11:01:12.5174835+00:00",
-  "LastUpdate_Achievements": "2023-12-19T11:07:05.6218717+00:00"
+  "LastUpdate_Ratings": "2023-12-19T12:01:08.7453584+00:00",
+  "LastUpdate_Achievements": "2023-12-19T12:07:11.8755704+00:00"
 }

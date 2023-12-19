@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17178,
+  "EOS_Progressed": 17179,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -16460,6 +16460,11 @@
       "Time": "2023-12-19T11:04:48.9824236+00:00",
       "NumProgressed": 17178,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-12-19T12:04:54.5103284+00:00",
+      "NumProgressed": 17179,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 41,
@@ -16535,7 +16540,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2748
+      "UsersEstimate": 2749
     },
     {
       "ID": "tpote_achievement_18",
@@ -16687,7 +16692,7 @@
       "Name": "A cry for help",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1202
+      "UsersEstimate": 1203
     },
     {
       "ID": "tpote_achievement_35",
@@ -16735,7 +16740,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6871
+      "UsersEstimate": 6872
     },
     {
       "ID": "tpote_achievement_40",
@@ -16775,7 +16780,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1202
+      "UsersEstimate": 1203
     },
     {
       "ID": "tpote_achievement_8",
@@ -16783,7 +16788,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3607
+      "UsersEstimate": 3608
     },
     {
       "ID": "tpote_achievement_9",
@@ -16798,15 +16803,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17178,
+      "Progressed": 17179,
       "Completed": 119
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2023-12-19T11:04:48.9824231+00:00",
+  "LastChanged_Achievements": "2023-12-19T12:04:54.5103279+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:13.9933566+00:00",
-  "LastUpdate_Ratings": "2023-12-19T10:59:14.5026139+00:00",
-  "LastUpdate_Achievements": "2023-12-19T11:04:48.9825444+00:00"
+  "LastUpdate_Ratings": "2023-12-19T11:59:10.8035064+00:00",
+  "LastUpdate_Achievements": "2023-12-19T12:04:54.5104348+00:00"
 }

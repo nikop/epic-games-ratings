@@ -24,9 +24,9 @@ Number of Ratings: 90  (23.09.2022)
 | The Irony of Fate, or Enjoy Your Tunguska! | 8.00% | ~10 |
 | Transmitting From Sol-3 | 7.00% | ~9 |
 | Dusted | 7.00% | ~9 |
-| Fly Me to the Moon Base | 5.00% | ~6 |
+| Fly Me to the Moon Base | 6.00% | ~8 |
 | Kaijuiced | 5.00% | ~6 |
-| Scuttled | 3.00% | ~4 |
+| Scuttled | 4.00% | ~5 |
 | Lobster Blisque | 2.00% | ~2 |
 | Deincarnated | 2.00% | ~2 |
 | Yettisoned | 2.00% | ~2 |

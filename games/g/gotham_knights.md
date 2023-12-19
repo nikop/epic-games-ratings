@@ -5,39 +5,39 @@ Rating: 4.18 (Ranked 947)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~39,347 |
-| Har, Har, Har, Very Funny | 34.00% | ~26,756 |
-| Loose Ends | 33.00% | ~25,969 |
-| To the Victor Go the Spoils | 28.00% | ~22,034 |
-| Knighthood | 27.00% | ~21,247 |
-| Get ReQ'd | 25.00% | ~19,674 |
-| Whispered Words | 24.00% | ~18,887 |
-| The Batman Family | 22.00% | ~17,313 |
-| Lock and Key | 22.00% | ~17,313 |
-| Something in the Clay | 21.00% | ~16,526 |
-| Quartzer Life Crisis | 20.00% | ~15,739 |
-| Working Hard or Harley Working? | 20.00% | ~15,739 |
-| Unstoppable Force | 20.00% | ~15,739 |
-| Bad Apples in Every Orchard | 20.00% | ~15,739 |
-| Snow Problem | 19.00% | ~14,952 |
-| The Show Mud Go On | 18.00% | ~14,165 |
-| From Inside Gotham's Walls | 17.00% | ~13,378 |
-| Protector of Gotham | 16.00% | ~12,591 |
-| Universal Health Scare | 16.00% | ~12,591 |
-| In Your Element | 15.00% | ~11,804 |
-| Voiceless | 15.00% | ~11,804 |
-| Rock and a Hard Place | 14.00% | ~11,017 |
-| Cooldown | 14.00% | ~11,017 |
-| Seeking Asylum | 14.00% | ~11,017 |
-| Not On My Watch | 13.00% | ~10,230 |
-| Shock Til They Drop | 13.00% | ~10,230 |
-| End of an Era | 12.00% | ~9,443 |
-| Bulldozed | 12.00% | ~9,443 |
-| Gotham Knight | 12.00% | ~9,443 |
-| Gotham City Confidential | 11.00% | ~8,656 |
-| Drone You Out | 10.00% | ~7,869 |
-| Out of Their League | 9.00% | ~7,082 |
-| Solid Alibi | 9.00% | ~7,082 |
+| First Step Into the Knight | 50.00% | ~39,350 |
+| Har, Har, Har, Very Funny | 34.00% | ~26,758 |
+| Loose Ends | 33.00% | ~25,971 |
+| To the Victor Go the Spoils | 28.00% | ~22,036 |
+| Knighthood | 27.00% | ~21,249 |
+| Get ReQ'd | 25.00% | ~19,675 |
+| Whispered Words | 24.00% | ~18,888 |
+| The Batman Family | 22.00% | ~17,314 |
+| Lock and Key | 22.00% | ~17,314 |
+| Something in the Clay | 20.00% | ~15,740 |
+| Quartzer Life Crisis | 20.00% | ~15,740 |
+| Working Hard or Harley Working? | 20.00% | ~15,740 |
+| Unstoppable Force | 20.00% | ~15,740 |
+| Bad Apples in Every Orchard | 20.00% | ~15,740 |
+| Snow Problem | 19.00% | ~14,953 |
+| The Show Mud Go On | 18.00% | ~14,166 |
+| From Inside Gotham's Walls | 17.00% | ~13,379 |
+| Protector of Gotham | 16.00% | ~12,592 |
+| Universal Health Scare | 16.00% | ~12,592 |
+| In Your Element | 15.00% | ~11,805 |
+| Voiceless | 15.00% | ~11,805 |
+| Rock and a Hard Place | 14.00% | ~11,018 |
+| Cooldown | 14.00% | ~11,018 |
+| Seeking Asylum | 14.00% | ~11,018 |
+| Not On My Watch | 13.00% | ~10,231 |
+| Shock Til They Drop | 13.00% | ~10,231 |
+| End of an Era | 12.00% | ~9,444 |
+| Bulldozed | 12.00% | ~9,444 |
+| Gotham Knight | 12.00% | ~9,444 |
+| Gotham City Confidential | 11.00% | ~8,657 |
+| Drone You Out | 10.00% | ~7,870 |
+| Out of Their League | 9.00% | ~7,083 |
+| Solid Alibi | 9.00% | ~7,083 |
 | Fusion Expert | 7.00% | ~5,509 |
 | Family Meeting | 6.00% | ~4,722 |
 | A Worthy Successor | 6.00% | ~4,722 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 947)
 | Element of Surprise | 0.20% | ~98 |
 | It's Nice to Be Wanted | 0.20% | ~98 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78,694 (Ranked 101)  
+Progressed: 78,701 (Ranked 101)  
 Completed: 126 (0.16%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,10 +310,10 @@ Completed: 126 (0.16%) (Ranked 279)
 | 2023-12-16 | 78,368 | 126 |
 | 2023-12-17 | 78,553 | 126 |
 | 2023-12-18 | 78,653 | 126 |
-| 2023-12-19 | 78,694 | 126 |
+| 2023-12-19 | 78,701 | 126 |
 ## Awards
 Max (Great Boss Battles): 3,028  (Ranked 98)  
-Sum: 5,176 (Ranked 142)  
+Sum: 5,177 (Ranked 142)  
 Diff (max vs sum): -44  
 | Award | Count |
 | ----- | ----- |
@@ -323,8 +323,8 @@ Diff (max vs sum): -44
 | This game is Relaxing | 270 |
 | This game has Quickly Understood Controls | 268 |
 | This game is Extremely Fun | 268 |
+| This game has Amazing Storytelling | 266 |
 | This game has Amazing Characters | 265 |
-| This game has Amazing Storytelling | 265 |
 | This game is Highly Recommended | 265 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
@@ -626,3 +626,4 @@ Diff (max vs sum): -44
 | 2023-12-16 | 4.18 | 3,013 | 5,155 |
 | 2023-12-17 | 4.18 | 3,022 | 5,169 |
 | 2023-12-18 | 4.18 | 3,028 | 5,176 |
+| 2023-12-19 | 4.18 | 3,028 | 5,177 |

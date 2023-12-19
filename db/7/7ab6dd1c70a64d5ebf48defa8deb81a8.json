@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 851,
+  "EOS_Progressed": 852,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 586,
+  "EOS_NewPlayers": 587,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -1750,6 +1750,11 @@
       "Time": "2023-12-19T11:10:42.3464961+00:00",
       "NumProgressed": 851,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-19T12:10:48.0660472+00:00",
+      "NumProgressed": 852,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1761,23 +1766,23 @@
       "Name": "Break Out",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "ACH_02",
       "SetID": "efe2lj",
       "Name": "Find Allies",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_03",
       "SetID": "efe2lj",
       "Name": "Powerful Allies",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_04",
@@ -1831,9 +1836,9 @@
       "ID": "ACH_10",
       "SetID": "efe2lj",
       "Name": "Trinity",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 170
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_11",
@@ -1895,9 +1900,9 @@
       "ID": "ACH_18",
       "SetID": "efe2lj",
       "Name": "Shatter Them All",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_19",
@@ -2015,9 +2020,9 @@
       "ID": "ACH_34",
       "SetID": "efe2lj",
       "Name": "The Collector",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_35",
@@ -2031,9 +2036,9 @@
       "ID": "ACH_36",
       "SetID": "efe2lj",
       "Name": "A Queen\u0027s Tale",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_38",
@@ -2048,14 +2053,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 851,
+      "Progressed": 852,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-19T11:10:42.3464957+00:00",
+  "LastChanged_Achievements": "2023-12-19T12:10:48.0660468+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
-  "LastUpdate_Ratings": "2023-12-19T11:01:48.8088311+00:00",
-  "LastUpdate_Achievements": "2023-12-19T11:10:42.3465275+00:00"
+  "LastUpdate_Ratings": "2023-12-19T12:01:46.0650082+00:00",
+  "LastUpdate_Achievements": "2023-12-19T12:10:48.0660774+00:00"
 }

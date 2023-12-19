@@ -7,9 +7,9 @@ Number of Ratings: 281  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Fish Just Got Reel | 10.00% | ~721 |
+| Can you smell what the Rod is Hooking | 8.00% | ~577 |
 | Hey Good Hookin | 8.00% | ~577 |
 | More Fish in the Sea | 8.00% | ~577 |
-| Can you smell what the Rod is Hooking | 7.00% | ~505 |
 | I'm on a Boat! | 7.00% | ~505 |
 | Scaling up | 7.00% | ~505 |
 | Ready to Rod and Roll | 5.00% | ~361 |
@@ -19,7 +19,7 @@ Number of Ratings: 281  (23.09.2022)
 | Going for Gold | 3.00% | ~216 |
 | License to Gill | 2.00% | ~144 |
 | School's Out for Summer | 2.00% | ~144 |
-| I'm Hooked! | 1.00% | ~72 |
+| I'm Hooked! | 2.00% | ~144 |
 | Diamond in the Rough | 0.80% | ~58 |
 | I'm the Captain Now | 0.70% | ~50 |
 | Marathon | 0.60% | ~43 |
@@ -293,14 +293,14 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-19 | 7,212 | 0 |
 ## Awards
 Max (Relaxing): 39  (Ranked 469)  
-Sum: 207 (Ranked 403)  
+Sum: 208 (Ranked 403)  
 Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 39 |
 | This game is Great for Beginners | 39 |
 | This game is Highly Recommended | 38 |
-| This game has Amazing Storytelling | 35 |
+| This game has Amazing Storytelling | 36 |
 | This game is Extremely Fun | 32 |
 | This game has Quickly Understood Controls | 24 |
 ## Ratings History
@@ -406,3 +406,4 @@ Diff (max vs sum): 66
 | 2023-12-15 | 4.20 | - | 39 | 202 |
 | 2023-12-17 | 4.20 | - | 39 | 206 |
 | 2023-12-18 | 4.20 | - | 39 | 207 |
+| 2023-12-19 | 4.20 | - | 39 | 208 |

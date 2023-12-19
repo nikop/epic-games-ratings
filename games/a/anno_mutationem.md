@@ -5,19 +5,19 @@ Rating: 4.54 (Ranked 531)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tell me your story | 75.00% | ~590 |
-| Don't judge a manhole by its cover | 60.00% | ~472 |
+| Tell me your story | 75.00% | ~591 |
+| Don't judge a manhole by its cover | 60.00% | ~473 |
 | I just love stuff! | 42.00% | ~331 |
 | Keep 'em coming! | 42.00% | ~331 |
 | The things they print nowadays | 39.00% | ~307 |
 | Big Spender | 38.00% | ~299 |
-| That's gotta hurt | 36.00% | ~283 |
+| That's gotta hurt | 36.00% | ~284 |
 | I think it's broke | 26.00% | ~205 |
 | The Ann Flores Combo Experience | 26.00% | ~205 |
 | Club Star | 25.00% | ~197 |
-| Fire in the hole! | 20.00% | ~157 |
-| Omnipotence | 20.00% | ~157 |
-| The Warlord | 20.00% | ~157 |
+| Fire in the hole! | 20.00% | ~158 |
+| Omnipotence | 20.00% | ~158 |
+| The Warlord | 20.00% | ~158 |
 | You are the One | 19.00% | ~150 |
 | Deadly Kombationem | 18.00% | ~142 |
 | The truth is out there | 16.00% | ~126 |
@@ -34,7 +34,7 @@ Rating: 4.54 (Ranked 531)
 | I feel secure, contained & protected | 6.00% | ~47 |
 | Science, it works! | 6.00% | ~47 |
 | The Traveler | 5.00% | ~39 |
-| Woman on a (side) mission | 4.00% | ~31 |
+| Woman on a (side) mission | 4.00% | ~32 |
 | Ann ULTRA | 3.00% | ~24 |
 | Lady Luck is a cool cat | 3.00% | ~24 |
 | SERENITY NOW | 2.00% | ~16 |
@@ -42,7 +42,7 @@ Rating: 4.54 (Ranked 531)
 | Love me like I love my posters | 1.00% | ~8 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 787 (Ranked 288)  
+Progressed: 788 (Ranked 288)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,6 +148,7 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-16 | 784 | 0 |
 | 2023-12-17 | 786 | 0 |
 | 2023-12-18 | 787 | 0 |
+| 2023-12-19 | 788 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

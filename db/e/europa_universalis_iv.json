@@ -2,7 +2,7 @@
   "ID": "80d3aeb1d7c3434981e0bcbc47700a83",
   "Name": "Europa Universalis IV",
   "ProductSlug": "europa-universalis-iv",
-  "Ranking_Rating": 233,
+  "Ranking_Rating": 232,
   "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 40,
@@ -13375,10 +13375,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 61410,
       "NumberOfAwardsMax": 7441
+    },
+    {
+      "Time": "2023-12-19T12:01:47.5892666+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 61422,
+      "NumberOfAwardsMax": 7441
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 61410,
+  "NumberOfAwards": 61422,
   "NumberOfAwardsMax": 7441,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -13440,7 +13446,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 5749
+      "Count": 5761
     },
     {
       "Text": "This game has Unique Visuals",
@@ -13449,9 +13455,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 478994,
+  "EOS_Progressed": 479023,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5632,
+  "EOS_NewPlayers": 5647,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41399,6 +41405,11 @@
       "Time": "2023-12-19T11:04:43.10881+00:00",
       "NumProgressed": 478994,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T12:04:49.0690258+00:00",
+      "NumProgressed": 479023,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -42512,9 +42523,9 @@
       "ID": "achievement_holy_horder",
       "SetID": "8p2n7he",
       "Name": "Holy Horder",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 479
     },
     {
       "ID": "achievement_holy_trinity",
@@ -44313,21 +44324,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 478994,
+      "Progressed": 479023,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 478994,
+      "Progressed": 479023,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-12-19T07:59:57.553874+00:00",
-  "LastChanged_Achievements": "2023-12-19T11:04:43.1088096+00:00",
+  "LastChanged": "2023-12-19T12:01:47.5892664+00:00",
+  "LastChanged_Achievements": "2023-12-19T12:04:49.0690254+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:33.9920534+00:00",
-  "LastUpdate_Ratings": "2023-12-19T11:01:50.3159167+00:00",
-  "LastUpdate_Achievements": "2023-12-19T11:04:43.1099869+00:00"
+  "LastUpdate_Ratings": "2023-12-19T12:01:47.589267+00:00",
+  "LastUpdate_Achievements": "2023-12-19T12:04:49.0701283+00:00"
 }

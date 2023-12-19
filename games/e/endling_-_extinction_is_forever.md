@@ -8,7 +8,7 @@
 | A Friend in Need | 61.00% | ~342 |
 | Surviving | 43.00% | ~241 |
 | Detox diet | 41.00% | ~230 |
-| Never Give Up | 39.00% | ~219 |
+| Never Give Up | 40.00% | ~224 |
 | Tasty | 37.00% | ~208 |
 | You Can Pet The Fox | 30.00% | ~168 |
 | Lullaby | 30.00% | ~168 |

@@ -8840,9 +8840,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 477944,
+  "EOS_Progressed": 477945,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 415,
+  "EOS_NewPlayers": 412,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33390,6 +33390,11 @@
       "Time": "2023-12-19T11:07:20.8090044+00:00",
       "NumProgressed": 477944,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-12-19T12:07:27.1073736+00:00",
+      "NumProgressed": 477945,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -33425,7 +33430,7 @@
       "Name": "Unbeatable!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 176839
+      "UsersEstimate": 176840
     },
     {
       "ID": "achievement_10_seasons_at_one_club",
@@ -33457,7 +33462,7 @@
       "Name": "On A Roll",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 124265
+      "UsersEstimate": 124266
     },
     {
       "ID": "achievement_20_seasons_at_one_club",
@@ -33481,7 +33486,7 @@
       "Name": "Top Form",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 81250
+      "UsersEstimate": 81251
     },
     {
       "ID": "achievement_3_players_in_team_of_the_year",
@@ -33513,7 +33518,7 @@
       "Name": "Team Performance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 143383
+      "UsersEstimate": 143384
     },
     {
       "ID": "achievement_5_players_in_team_of_the_year",
@@ -33553,7 +33558,7 @@
       "Name": "Thumping",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 176839
+      "UsersEstimate": 176840
     },
     {
       "ID": "achievement_buy_50_million_plus_player",
@@ -33601,7 +33606,7 @@
       "Name": "Do The Double",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 90809
+      "UsersEstimate": 90810
     },
     {
       "ID": "achievement_dont_concede_a_goal_for_10_consecutive_matches",
@@ -33633,7 +33638,7 @@
       "Name": "I\u0027m The Boss!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 200736
+      "UsersEstimate": 200737
     },
     {
       "ID": "achievement_full_board_confidence",
@@ -33689,7 +33694,7 @@
       "Name": "Attack!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 133824
+      "UsersEstimate": 133825
     },
     {
       "ID": "achievement_goal_scored_in_30_consecutive_matches",
@@ -33793,7 +33798,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 124265
+      "UsersEstimate": 124266
     },
     {
       "ID": "achievement_mr_delegator",
@@ -33825,7 +33830,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 167280
+      "UsersEstimate": 167281
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -33937,7 +33942,7 @@
       "Name": "Cash To Burn",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 81250
+      "UsersEstimate": 81251
     },
     {
       "ID": "achievement_sell_player",
@@ -33945,7 +33950,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 229413
+      "UsersEstimate": 229414
     },
     {
       "ID": "achievement_signed_a_player",
@@ -34184,15 +34189,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 477944,
+      "Progressed": 477945,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-12-18T23:59:39.2425449+00:00",
-  "LastChanged_Achievements": "2023-12-19T11:07:20.8090041+00:00",
+  "LastChanged_Achievements": "2023-12-19T12:07:27.1073732+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:52.4135376+00:00",
-  "LastUpdate_Ratings": "2023-12-19T11:01:31.3183156+00:00",
-  "LastUpdate_Achievements": "2023-12-19T11:07:20.8092253+00:00"
+  "LastUpdate_Ratings": "2023-12-19T12:01:28.1516106+00:00",
+  "LastUpdate_Achievements": "2023-12-19T12:07:27.1075995+00:00"
 }

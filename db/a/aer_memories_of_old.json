@@ -419,9 +419,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 26570,
+  "EOS_Progressed": 26572,
   "EOS_Completed": 495,
-  "EOS_NewPlayers": 513,
+  "EOS_NewPlayers": 514,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.86,
   "EosHistory": [
@@ -26539,6 +26539,11 @@
       "Time": "2023-12-19T11:08:06.2636665+00:00",
       "NumProgressed": 26570,
       "NumCompleted": 495
+    },
+    {
+      "Time": "2023-12-19T12:08:12.0088024+00:00",
+      "NumProgressed": 26572,
+      "NumCompleted": 495
     }
   ],
   "TotalAchievements": 20,
@@ -26558,7 +26563,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1328
+      "UsersEstimate": 1329
     },
     {
       "ID": "EAST_FINISHED",
@@ -26606,7 +26611,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3188
+      "UsersEstimate": 3189
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -26662,7 +26667,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3188
+      "UsersEstimate": 3189
     },
     {
       "ID": "INTRO_FINISHED",
@@ -26670,7 +26675,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 20193
+      "UsersEstimate": 20195
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -26709,15 +26714,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 26570,
+      "Progressed": 26572,
       "Completed": 495
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-12-19T11:08:06.2636661+00:00",
+  "LastChanged_Achievements": "2023-12-19T12:08:12.008802+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:01.7195881+00:00",
-  "LastUpdate_Ratings": "2023-12-19T11:02:00.076692+00:00",
-  "LastUpdate_Achievements": "2023-12-19T11:08:06.2638175+00:00"
+  "LastUpdate_Ratings": "2023-12-19T12:02:36.4451558+00:00",
+  "LastUpdate_Achievements": "2023-12-19T12:08:12.0089262+00:00"
 }

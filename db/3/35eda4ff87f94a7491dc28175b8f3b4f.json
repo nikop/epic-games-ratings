@@ -257,9 +257,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15869,
+  "EOS_Progressed": 15878,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 1820,
+  "EOS_NewPlayers": 1814,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -4922,6 +4922,11 @@
       "Time": "2023-12-19T11:07:36.6910673+00:00",
       "NumProgressed": 15869,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-12-19T12:07:43.1005326+00:00",
+      "NumProgressed": 15878,
+      "NumCompleted": 70
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -4958,7 +4963,7 @@
       "Name": "Morbidly Curious",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "SAVE_EVERYONE_1_1",
@@ -4966,7 +4971,7 @@
       "Name": "Savior",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 1428
+      "UsersEstimate": 1429
     },
     {
       "ID": "SAVE_EVERYONE_PERFECT_1_2",
@@ -4974,7 +4979,7 @@
       "Name": "Righter of Wrongs",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "SAVE_ONE_PERSON_1_0",
@@ -4982,7 +4987,7 @@
       "Name": "Rescuer",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1904
+      "UsersEstimate": 1905
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -5006,14 +5011,14 @@
       "Name": "Investigator",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     }
   ],
   "AchievementSets": [
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 15869,
+      "Progressed": 15878,
       "Completed": 70
     }
   ],
@@ -5021,8 +5026,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2023-12-18T03:58:42.6359817+00:00",
-  "LastChanged_Achievements": "2023-12-19T11:07:36.6910668+00:00",
+  "LastChanged_Achievements": "2023-12-19T12:07:43.1005322+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:09.5453569+00:00",
-  "LastUpdate_Ratings": "2023-12-19T10:59:50.4503638+00:00",
-  "LastUpdate_Achievements": "2023-12-19T11:07:36.6910966+00:00"
+  "LastUpdate_Ratings": "2023-12-19T11:59:47.6978587+00:00",
+  "LastUpdate_Achievements": "2023-12-19T12:07:43.1005613+00:00"
 }

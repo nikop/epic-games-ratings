@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 166,
+  "EOS_Progressed": 167,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
@@ -679,6 +679,11 @@
       "Time": "2023-12-19T08:05:50.6403254+00:00",
       "NumProgressed": 166,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T12:08:07.34706+00:00",
+      "NumProgressed": 167,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -763,7 +768,7 @@
       "Name": "Hunger",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "AC_BOSS_01",
@@ -771,15 +776,15 @@
       "Name": "Misery",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "AC_BOSS_02",
       "SetID": "16i2akc",
       "Name": "Downfall",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "AC_BOSS_03",
@@ -801,9 +806,9 @@
       "ID": "AC_COMBO_1",
       "SetID": "16i2akc",
       "Name": "Pack",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 43
     },
     {
       "ID": "AC_COMBO_2",
@@ -859,7 +864,7 @@
       "Name": "Killer",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -873,9 +878,9 @@
       "ID": "AC_DEATH_ENEMIES_3",
       "SetID": "16i2akc",
       "Name": "Genocide",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 45,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "AC_DISTANCE_1",
@@ -883,7 +888,7 @@
       "Name": "Excursion",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -899,7 +904,7 @@
       "Name": "Voyage",
       "Percentage": 34,
       "XP": 45,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
@@ -907,7 +912,7 @@
       "Name": "Player",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "AC_FLASHBACK_01",
@@ -945,9 +950,9 @@
       "ID": "AC_MONEY_BLACKJACK",
       "SetID": "16i2akc",
       "Name": "Winner",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "AC_MUSIC_CONCERT",
@@ -995,7 +1000,7 @@
       "Name": "Loss",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -1026,14 +1031,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 166,
+      "Progressed": 167,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-19T11:08:01.5074735+00:00",
+  "LastChanged_Achievements": "2023-12-19T12:08:07.3470597+00:00",
   "LastUpdate_AppInfo": "2023-12-12T20:56:56.8907916+00:00",
-  "LastUpdate_Ratings": "2023-12-19T11:00:42.515449+00:00",
-  "LastUpdate_Achievements": "2023-12-19T11:08:01.5074999+00:00"
+  "LastUpdate_Ratings": "2023-12-19T12:00:38.2428081+00:00",
+  "LastUpdate_Achievements": "2023-12-19T12:08:07.3470881+00:00"
 }

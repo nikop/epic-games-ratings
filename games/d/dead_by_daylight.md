@@ -6,46 +6,46 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 3.00% | ~33,148 |
-| It wakes | 3.00% | ~33,148 |
-| Not half bad | 3.00% | ~33,148 |
-| Skillful | 3.00% | ~33,148 |
-| The Grand Sacrifice | 2.00% | ~22,099 |
-| No one left behind | 2.00% | ~22,099 |
-| Medic | 2.00% | ~22,099 |
-| Handyman | 2.00% | ~22,099 |
-| Bloody Millionaire | 2.00% | ~22,099 |
-| Apt Survivor | 2.00% | ~22,099 |
-| Survival Treasures | 2.00% | ~22,099 |
-| I | 2.00% | ~22,099 |
-| Sorted | 2.00% | ~22,099 |
-| Healthy Obsession | 2.00% | ~22,099 |
-| Resurgence | 2.00% | ~22,099 |
-| Preemptive Strike | 2.00% | ~22,099 |
-| Humanitarian | 2.00% | ~22,099 |
-| Make Some Noise | 2.00% | ~22,099 |
-| Agonizing Escape | 1.00% | ~11,049 |
-| Backdoor Escape | 1.00% | ~11,049 |
-| I've got your back | 1.00% | ~11,049 |
-| Perfect Escape | 1.00% | ~11,049 |
-| Perfect Killing | 1.00% | ~11,049 |
-| Apt Killer | 1.00% | ~11,049 |
-| Risk it all | 1.00% | ~11,049 |
-| Vulture | 1.00% | ~11,049 |
-| II | 1.00% | ~11,049 |
-| III | 1.00% | ~11,049 |
-| Engineer | 1.00% | ~11,049 |
-| Wounded Healer | 1.00% | ~11,049 |
-| Close Shave | 1.00% | ~11,049 |
-| Lifting The Fog | 1.00% | ~11,049 |
-| Second Act | 1.00% | ~11,049 |
-| Escape Artist | 0.90% | ~9,944 |
-| First to the Punch | 0.90% | ~9,944 |
-| Operation: Survival | 0.90% | ~9,944 |
-| Every Last Drop | 0.90% | ~9,944 |
-| With Scars to Show | 0.90% | ~9,944 |
-| Flight to Freedom | 0.90% | ~9,944 |
-| Chorus of Chaos | 0.90% | ~9,944 |
+| Zealous | 3.00% | ~33,150 |
+| It wakes | 3.00% | ~33,150 |
+| Not half bad | 3.00% | ~33,150 |
+| Skillful | 3.00% | ~33,150 |
+| The Grand Sacrifice | 2.00% | ~22,100 |
+| No one left behind | 2.00% | ~22,100 |
+| Medic | 2.00% | ~22,100 |
+| Handyman | 2.00% | ~22,100 |
+| Bloody Millionaire | 2.00% | ~22,100 |
+| Apt Survivor | 2.00% | ~22,100 |
+| Survival Treasures | 2.00% | ~22,100 |
+| I | 2.00% | ~22,100 |
+| Sorted | 2.00% | ~22,100 |
+| Healthy Obsession | 2.00% | ~22,100 |
+| Resurgence | 2.00% | ~22,100 |
+| Preemptive Strike | 2.00% | ~22,100 |
+| Humanitarian | 2.00% | ~22,100 |
+| Make Some Noise | 2.00% | ~22,100 |
+| Agonizing Escape | 1.00% | ~11,050 |
+| Backdoor Escape | 1.00% | ~11,050 |
+| I've got your back | 1.00% | ~11,050 |
+| Perfect Escape | 1.00% | ~11,050 |
+| Perfect Killing | 1.00% | ~11,050 |
+| Apt Killer | 1.00% | ~11,050 |
+| Risk it all | 1.00% | ~11,050 |
+| Vulture | 1.00% | ~11,050 |
+| II | 1.00% | ~11,050 |
+| III | 1.00% | ~11,050 |
+| Engineer | 1.00% | ~11,050 |
+| Wounded Healer | 1.00% | ~11,050 |
+| Close Shave | 1.00% | ~11,050 |
+| Lifting The Fog | 1.00% | ~11,050 |
+| Second Act | 1.00% | ~11,050 |
+| Escape Artist | 0.90% | ~9,945 |
+| First to the Punch | 0.90% | ~9,945 |
+| Operation: Survival | 0.90% | ~9,945 |
+| Every Last Drop | 0.90% | ~9,945 |
+| With Scars to Show | 0.90% | ~9,945 |
+| Flight to Freedom | 0.90% | ~9,945 |
+| Chorus of Chaos | 0.90% | ~9,945 |
 | Blood on your hands | 0.80% | ~8,840 |
 | Gifts for the Fog | 0.80% | ~8,840 |
 | III-50 | 0.80% | ~8,840 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,105 |
 | Adept Good Guy | 0.10% | ~1,105 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,104,943 (Ranked 12)  
+Progressed: 1,104,999 (Ranked 13)  
 Completed: 63 (0.01%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -482,10 +482,10 @@ Completed: 63 (0.01%) (Ranked 359)
 | 2023-12-16 | 1,099,953 | 62 |
 | 2023-12-17 | 1,102,441 | 63 |
 | 2023-12-18 | 1,104,280 | 63 |
-| 2023-12-19 | 1,104,943 | 63 |
+| 2023-12-19 | 1,104,999 | 63 |
 ## Awards
 Max (Diverse Characters): 38,197  (Ranked 15)  
-Sum: 288,846 (Ranked 12)  
+Sum: 288,889 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -493,7 +493,7 @@ Diff (max vs sum): 3
 | This game is Highly Recommended | 33,083 |
 | This game has Amazing Characters | 32,532 |
 | This game has Competitive Players | 32,315 |
-| This game is Extremely Fun | 31,987 |
+| This game is Extremely Fun | 32,030 |
 | This game has Challenging Combat | 31,940 |
 | This game has Quickly Understood Controls | 31,105 |
 | This game has Amazing Storytelling | 29,453 |
@@ -832,4 +832,4 @@ Diff (max vs sum): 3
 | 2023-12-16 | 4.51 | - | 38,017 | 287,918 |
 | 2023-12-17 | 4.51 | - | 38,094 | 288,337 |
 | 2023-12-18 | 4.51 | - | 38,160 | 288,729 |
-| 2023-12-19 | 4.51 | - | 38,197 | 288,846 |
+| 2023-12-19 | 4.51 | - | 38,197 | 288,889 |

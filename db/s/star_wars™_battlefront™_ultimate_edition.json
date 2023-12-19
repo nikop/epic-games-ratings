@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1898,
+  "EOS_Progressed": 1899,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 219,
+  "EOS_NewPlayers": 220,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5584,6 +5584,11 @@
       "Time": "2023-12-19T10:09:58.251601+00:00",
       "NumProgressed": 1898,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T12:10:52.7824546+00:00",
+      "NumProgressed": 1899,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -5802,9 +5807,9 @@
       "ID": "achievement_33",
       "SetID": "271ol84",
       "Name": "Safety ain\u0027t the point of a joyride",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 76
     },
     {
       "ID": "achievement_34",
@@ -5820,7 +5825,7 @@
       "Name": "New Recruit",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1670
+      "UsersEstimate": 1671
     },
     {
       "ID": "achievement_36",
@@ -5834,9 +5839,9 @@
       "ID": "achievement_37",
       "SetID": "271ol84",
       "Name": "Off to a good start",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1234
     },
     {
       "ID": "achievement_38",
@@ -5900,7 +5905,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 28,
       "XP": 40,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "achievement_45",
@@ -6099,13 +6104,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1898,
+      "Progressed": 1899,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1898,
+      "Progressed": 1899,
       "Completed": 1
     }
   ],
@@ -6113,8 +6118,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-19T11:10:47.1066584+00:00",
+  "LastChanged_Achievements": "2023-12-19T12:10:52.7824543+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.5169818+00:00",
-  "LastUpdate_Ratings": "2023-12-19T11:02:44.2482281+00:00",
-  "LastUpdate_Achievements": "2023-12-19T11:10:47.1067712+00:00"
+  "LastUpdate_Ratings": "2023-12-19T12:02:49.5754111+00:00",
+  "LastUpdate_Achievements": "2023-12-19T12:10:52.7825187+00:00"
 }

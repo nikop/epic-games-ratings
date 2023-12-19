@@ -4,7 +4,7 @@
   "ProductSlug": "spellforce-conquest-of-eo",
   "Ranking_EOS_Progress": 508,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 321,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -624,9 +624,9 @@
       "ID": "Landmark_TuscariPortal",
       "SetID": "7b9f97e",
       "Name": "Tuscari Sea Portal",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Landmark_UramGorForge",
@@ -913,8 +913,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-12-19T11:09:34.0962735+00:00",
+  "LastChanged_Achievements": "2023-12-19T12:09:38.9550075+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:09.2965751+00:00",
-  "LastUpdate_Ratings": "2023-12-19T11:00:33.2258843+00:00",
-  "LastUpdate_Achievements": "2023-12-19T11:09:34.0963342+00:00"
+  "LastUpdate_Ratings": "2023-12-19T12:00:28.4344945+00:00",
+  "LastUpdate_Achievements": "2023-12-19T12:09:38.9550547+00:00"
 }

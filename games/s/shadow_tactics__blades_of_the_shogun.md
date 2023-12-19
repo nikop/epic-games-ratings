@@ -1,27 +1,27 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.67 (Ranked 280)  
+Rating: 4.67 (Ranked 279)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~26,429 |
-| A thief's beginning | 11.00% | ~24,226 |
-| Thorough | 11.00% | ~24,226 |
-| Disguised | 9.00% | ~19,821 |
-| Rescue Takuma | 9.00% | ~19,821 |
-| Rollin' | 9.00% | ~19,821 |
-| Tanuki Time | 9.00% | ~19,821 |
-| Stoned Ox | 8.00% | ~17,619 |
+| Genin | 12.00% | ~26,430 |
+| A thief's beginning | 11.00% | ~24,227 |
+| Thorough | 11.00% | ~24,227 |
+| Disguised | 9.00% | ~19,822 |
+| Rescue Takuma | 9.00% | ~19,822 |
+| Rollin' | 9.00% | ~19,822 |
+| Tanuki Time | 9.00% | ~19,822 |
+| Stoned Ox | 8.00% | ~17,620 |
 | Happy Planning | 7.00% | ~15,417 |
 | Ice Ice Yuki | 7.00% | ~15,417 |
 | Jonin | 7.00% | ~15,417 |
 | Yabu | 7.00% | ~15,417 |
-| Chunin | 6.00% | ~13,214 |
-| Flying Rocks | 6.00% | ~13,214 |
-| Mugen Unchained | 6.00% | ~13,214 |
-| Warzone | 6.00% | ~13,214 |
+| Chunin | 6.00% | ~13,215 |
+| Flying Rocks | 6.00% | ~13,215 |
+| Mugen Unchained | 6.00% | ~13,215 |
+| Warzone | 6.00% | ~13,215 |
 | Happy little accidents | 5.00% | ~11,012 |
 | Okkoto | 5.00% | ~11,012 |
 | Prisoners | 5.00% | ~11,012 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~220 |
 | Release the Kraken | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,238 (Ranked 73)  
+Progressed: 220,248 (Ranked 73)  
 Completed: 101 (0.05%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 101 (0.05%) (Ranked 331)
 | 2023-12-16 | 219,726 | 101 |
 | 2023-12-17 | 219,965 | 101 |
 | 2023-12-18 | 220,163 | 101 |
-| 2023-12-19 | 220,238 | 101 |
+| 2023-12-19 | 220,248 | 101 |
 ## Awards
 Max (Great for Beginners): 588  (Ranked 202)  
 Sum: 4,919 (Ranked 145)  

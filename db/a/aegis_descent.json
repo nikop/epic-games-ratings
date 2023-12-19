@@ -4,7 +4,7 @@
   "ProductSlug": "aegis-descent-a1f5a0",
   "Ranking_EOS_Progress": 338,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 422,
+  "Ranking_EOS_NewPlayers": 417,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 431,
+  "EOS_Progressed": 432,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -445,6 +445,11 @@
       "Time": "2023-12-18T15:03:21.2103601+00:00",
       "NumProgressed": 431,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T12:04:40.4887447+00:00",
+      "NumProgressed": 432,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -496,7 +501,7 @@
       "Name": "Clean Sweep",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "Award_DeathFromAbove",
@@ -528,7 +533,7 @@
       "Name": "DocKing",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "Award_EarlyBird",
@@ -632,7 +637,7 @@
       "Name": "Line of Duty",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "Award_MilitaryIntelligence",
@@ -696,15 +701,15 @@
       "Name": "Salvage",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Award_Scavenger",
       "SetID": "9ojec6n",
       "Name": "Scavenger",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 319
+      "UsersEstimate": 315
     },
     {
       "ID": "Award_ShellShock",
@@ -807,7 +812,7 @@
     {
       "ID": "9ojec6n",
       "IsBase": true,
-      "Progressed": 431,
+      "Progressed": 432,
       "Completed": 1
     }
   ],
@@ -815,8 +820,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-12-19T11:04:34.6645919+00:00",
+  "LastChanged_Achievements": "2023-12-19T12:04:40.488744+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:52.8544046+00:00",
-  "LastUpdate_Ratings": "2023-12-19T11:01:31.5099731+00:00",
-  "LastUpdate_Achievements": "2023-12-19T11:04:34.6646298+00:00"
+  "LastUpdate_Ratings": "2023-12-19T12:01:28.3389924+00:00",
+  "LastUpdate_Achievements": "2023-12-19T12:04:40.4887844+00:00"
 }

@@ -5,53 +5,53 @@ Rating: 4.53 (Ranked 548)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 79.00% | ~3,558 |
-| Keep 'Em Coming | 68.00% | ~3,063 |
-| Snatched Out | 68.00% | ~3,063 |
-| Cleaning Lethe, One Nest At A Time | 61.00% | ~2,747 |
-| Call Me Snake | 57.00% | ~2,567 |
-| Something Lurks Under The Hills | 55.00% | ~2,477 |
-| This Was No Papercut | 53.00% | ~2,387 |
-| The Shrink Hates Me | 51.00% | ~2,297 |
-| People Person | 50.00% | ~2,252 |
-| Use The Bumper, That's What It's For | 47.00% | ~2,117 |
-| First Steps Into Madness | 47.00% | ~2,117 |
-| Colonial Barrels | 45.00% | ~2,027 |
-| Harper's Hell | 41.00% | ~1,847 |
-| Making a Stand | 39.00% | ~1,757 |
-| Damn Dude, You Gotta Lose Some Weight! | 38.00% | ~1,712 |
-| Where It All Begun | 36.00% | ~1,621 |
-| Recouped Investment | 34.00% | ~1,531 |
-| Living Nightmare | 30.00% | ~1,351 |
-| The More The Merrier | 30.00% | ~1,351 |
-| Omelette Du Fromage | 29.00% | ~1,306 |
-| The Darwin Era Was Here | 27.00% | ~1,216 |
-| Deep Into Insanity | 26.00% | ~1,171 |
-| The Passenger | 25.00% | ~1,126 |
-| Come on, You Wanna Live Forever? | 24.00% | ~1,081 |
-| The Spire | 23.00% | ~1,036 |
-| El Riesgo Siempre Vive | 22.00% | ~991 |
-| Stuff Of Nightmares | 20.00% | ~901 |
-| Excavating The Truth | 20.00% | ~901 |
-| Abysmal Horrors | 20.00% | ~901 |
-| Frontliner | 19.00% | ~856 |
-| One For Every Occasion | 18.00% | ~811 |
-| The Cable Guy | 18.00% | ~811 |
-| Bandage Lover | 17.00% | ~766 |
-| Regicide | 15.00% | ~676 |
+| This Is Hayes, Pioneer Station, Signing Off | 79.00% | ~3,564 |
+| Keep 'Em Coming | 68.00% | ~3,067 |
+| Snatched Out | 68.00% | ~3,067 |
+| Cleaning Lethe, One Nest At A Time | 61.00% | ~2,752 |
+| Call Me Snake | 57.00% | ~2,571 |
+| Something Lurks Under The Hills | 55.00% | ~2,481 |
+| This Was No Papercut | 53.00% | ~2,391 |
+| The Shrink Hates Me | 51.00% | ~2,301 |
+| People Person | 50.00% | ~2,256 |
+| Use The Bumper, That's What It's For | 47.00% | ~2,120 |
+| First Steps Into Madness | 47.00% | ~2,120 |
+| Colonial Barrels | 45.00% | ~2,030 |
+| Harper's Hell | 41.00% | ~1,850 |
+| Making a Stand | 39.00% | ~1,759 |
+| Damn Dude, You Gotta Lose Some Weight! | 37.00% | ~1,669 |
+| Where It All Begun | 36.00% | ~1,624 |
+| Recouped Investment | 34.00% | ~1,534 |
+| Living Nightmare | 30.00% | ~1,353 |
+| The More The Merrier | 30.00% | ~1,353 |
+| Omelette Du Fromage | 29.00% | ~1,308 |
+| The Darwin Era Was Here | 27.00% | ~1,218 |
+| Deep Into Insanity | 26.00% | ~1,173 |
+| The Passenger | 25.00% | ~1,128 |
+| Come on, You Wanna Live Forever? | 24.00% | ~1,083 |
+| The Spire | 23.00% | ~1,038 |
+| El Riesgo Siempre Vive | 22.00% | ~992 |
+| Stuff Of Nightmares | 20.00% | ~902 |
+| Excavating The Truth | 20.00% | ~902 |
+| Frontliner | 19.00% | ~857 |
+| Abysmal Horrors | 19.00% | ~857 |
+| One For Every Occasion | 18.00% | ~812 |
+| The Cable Guy | 18.00% | ~812 |
+| Bandage Lover | 17.00% | ~767 |
+| Regicide | 14.00% | ~632 |
 | This Went Smoothly | 13.00% | ~586 |
-| Flawless Victory | 12.00% | ~540 |
-| Heavy Steps | 12.00% | ~540 |
-| Perfect Enhancements | 9.00% | ~405 |
-| Hardened In The Heat Of Battle | 7.00% | ~315 |
-| The True Experience | 6.00% | ~270 |
+| Flawless Victory | 12.00% | ~541 |
+| Heavy Steps | 12.00% | ~541 |
+| Perfect Enhancements | 9.00% | ~406 |
+| Hardened In The Heat Of Battle | 7.00% | ~316 |
+| The True Experience | 6.00% | ~271 |
 | Archivist | 2.00% | ~90 |
 | Fair And Square | 2.00% | ~90 |
 | Perfect Organism | 0.90% | ~41 |
 | This Ain't No Picnic | 0.70% | ~32 |
 | Chalk It Up To Experience | 0.70% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,504 (Ranked 201)  
+Progressed: 4,511 (Ranked 201)  
 Completed: 3 (0.07%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 3 (0.07%) (Ranked 317)
 | 2023-12-16 | 4,217 | 3 |
 | 2023-12-17 | 4,392 | 3 |
 | 2023-12-18 | 4,477 | 3 |
-| 2023-12-19 | 4,504 | 3 |
+| 2023-12-19 | 4,511 | 3 |
 ## Awards
 Max (Great Boss Battles): 43  (Ranked 461)  
 Sum: 43 (Ranked 503)  

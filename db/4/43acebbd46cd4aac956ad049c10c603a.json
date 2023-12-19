@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -2809,9 +2809,9 @@
       "ID": "Chicken",
       "SetID": "1n308hc",
       "Name": "Chicken",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "CircularOasis",
@@ -3218,8 +3218,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-19T11:05:21.0735542+00:00",
+  "LastChanged_Achievements": "2023-12-19T12:05:26.4377553+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-19T10:59:59.9266918+00:00",
-  "LastUpdate_Achievements": "2023-12-19T11:05:21.0736149+00:00"
+  "LastUpdate_Ratings": "2023-12-19T11:59:56.7339977+00:00",
+  "LastUpdate_Achievements": "2023-12-19T12:05:26.4378009+00:00"
 }

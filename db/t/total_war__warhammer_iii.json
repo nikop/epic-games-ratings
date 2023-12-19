@@ -2,7 +2,7 @@
   "ID": "dda64c2956b54f1ba3cd97f6aaee775f",
   "Name": "Total War: WARHAMMER III",
   "ProductSlug": "total-war-warhammer-3",
-  "Ranking_Rating": 198,
+  "Ranking_Rating": 216,
   "Ranking_Popularity": 110,
   "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 809,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.71,
+  "Rating": 4.7,
   "NumberOfRatings": 882,
   "RatingHistory": [
     {
@@ -9206,6 +9206,12 @@
       "Rating": 4.71,
       "NumberOfAwards": 8122,
       "NumberOfAwardsMax": 2177
+    },
+    {
+      "Time": "2023-12-19T12:00:31.9557338+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 8122,
+      "NumberOfAwardsMax": 2177
     }
   ],
   "ReviewsDisabled": false,
@@ -9303,8 +9309,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:31.8340221+00:00",
-  "LastChanged": "2023-12-19T08:59:33.7007072+00:00",
+  "LastChanged": "2023-12-19T12:00:31.9557336+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:33.8697885+00:00",
-  "LastUpdate_Ratings": "2023-12-19T11:00:36.857822+00:00",
-  "LastUpdate_Achievements": "2023-12-19T11:04:21.2904986+00:00"
+  "LastUpdate_Ratings": "2023-12-19T12:00:31.9557342+00:00",
+  "LastUpdate_Achievements": "2023-12-19T12:04:26.8821891+00:00"
 }

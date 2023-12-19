@@ -1,7 +1,7 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 233)  
+Rating: 4.69 (Ranked 232)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -129,6 +129,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Hard Bargaining | 0.10% | ~479 |
 | Hessian Mercenaries | 0.10% | ~479 |
 | Holiest Roman Empire | 0.10% | ~479 |
+| Holy Horder | 0.10% | ~479 |
 | Holy Trinity | 0.10% | ~479 |
 | Home and Away | 0.10% | ~479 |
 | Imperio español | 0.10% | ~479 |
@@ -323,7 +324,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Great Perm | 0.00% | ~0 |
 | Hanukkah Mutapa | 0.00% | ~0 |
 | Hoarder | 0.00% | ~0 |
-| Holy Horder | 0.00% | ~0 |
 | Ideas Guy | 0.00% | ~0 |
 | The Iron Price | 0.00% | ~0 |
 | It's All Greek To Me | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 478,994 (Ranked 40)  
+Progressed: 479,023 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -613,10 +613,10 @@ Completed: 1 (0.00%) (Ranked 383)
 | 2023-12-16 | 477,098 | 1 |
 | 2023-12-17 | 478,131 | 1 |
 | 2023-12-18 | 478,822 | 1 |
-| 2023-12-19 | 478,994 | 1 |
+| 2023-12-19 | 479,023 | 1 |
 ## Awards
 Max (Educational): 7,441  (Ranked 54)  
-Sum: 61,410 (Ranked 24)  
+Sum: 61,422 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -628,7 +628,7 @@ Diff (max vs sum): 30
 | This game is Relaxing | 6,844 |
 | This game has Competitive Players | 6,682 |
 | This game has Amazing Storytelling | 6,213 |
-| This game has Amazing Characters | 5,749 |
+| This game has Amazing Characters | 5,761 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -969,4 +969,4 @@ Diff (max vs sum): 30
 | 2023-12-16 | 4.69 | - | 7,396 | 61,143 |
 | 2023-12-17 | 4.69 | - | 7,422 | 61,308 |
 | 2023-12-18 | 4.69 | - | 7,441 | 61,382 |
-| 2023-12-19 | 4.69 | - | 7,441 | 61,410 |
+| 2023-12-19 | 4.69 | - | 7,441 | 61,422 |

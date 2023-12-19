@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -1803,9 +1803,9 @@
       "ID": "36_supercrash",
       "SetID": "chb1m60",
       "Name": "Supercrash!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 28
     },
     {
       "ID": "37_maniacvandal",
@@ -1843,8 +1843,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-12-18T07:02:31.8741871+00:00",
-  "LastChanged_Achievements": "2023-12-19T11:06:18.7370016+00:00",
+  "LastChanged_Achievements": "2023-12-19T12:06:24.7861138+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:44.2539038+00:00",
-  "LastUpdate_Ratings": "2023-12-19T10:57:36.2183343+00:00",
-  "LastUpdate_Achievements": "2023-12-19T11:06:18.7370329+00:00"
+  "LastUpdate_Ratings": "2023-12-19T11:57:38.0165857+00:00",
+  "LastUpdate_Achievements": "2023-12-19T12:06:24.7861465+00:00"
 }

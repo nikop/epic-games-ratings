@@ -15,31 +15,39 @@
 | Clean energy | 5.00% | ~22 |
 | Bucolic city | 5.00% | ~22 |
 | Soviet town | 5.00% | ~22 |
+| I love parks | 3.00% | ~13 |
 | Food producer | 2.00% | ~9 |
 | I love books! | 2.00% | ~9 |
-| I love parks | 2.00% | ~9 |
 | King of fish | 1.00% | ~4 |
 | Metropolurbek | 0.90% | ~4 |
 | Rebel city | 0.90% | ~4 |
 | Banking city | 0.70% | ~3 |
 | City crisis | 0.70% | ~3 |
-| I am very happy! | 0.50% | ~2 |
-| What would we do if we can't go out with friends? | 0.50% | ~2 |
+| I am very happy! | 0.70% | ~3 |
+| What would we do if we can't go out with friends? | 0.70% | ~3 |
+| Oh, life is too awesome! Thank you! | 0.50% | ~2 |
+| ¡Muy feliz! | 0.50% | ~2 |
+| Oh, I love parks, listening to birds! | 0.50% | ~2 |
+| Anarchist Utopia | 0.20% | ~1 |
+| Anarchist paradise | 0.20% | ~1 |
 | Banking empire | 0.20% | ~1 |
 | Food provider master | 0.20% | ~1 |
+| Urban style | 0.20% | ~1 |
+| Read! Everyone should read! | 0.20% | ~1 |
+| What is there after death? | 0.20% | ~1 |
+| Fear God, you sinners! | 0.20% | ~1 |
+| Perfect city | 0.20% | ~1 |
 | Oh, I am sad | 0.20% | ~1 |
-| Oh, life is too awesome! Thank you! | 0.20% | ~1 |
-| ¡Muy feliz! | 0.20% | ~1 |
 | Farming Frenzy | 0.20% | ~1 |
 | Farming Frenzy Plus | 0.20% | ~1 |
-| Oh, I love parks, listening to birds! | 0.20% | ~1 |
+| I don't feel well, I have to drink a coffe | 0.20% | ~1 |
 | Little Mayor | 0.20% | ~1 |
 | Town planner | 0.20% | ~1 |
 | Restorer | 0.20% | ~1 |
 | Restorer Plus | 0.20% | ~1 |
+| Sport is the best thing | 0.20% | ~1 |
+| Everyone should always do sport! | 0.20% | ~1 |
 | Temperate builder | 0.20% | ~1 |
-| Anarchist Utopia | 0.00% | ~0 |
-| Anarchist paradise | 0.00% | ~0 |
 | Full archipelago | 0.00% | ~0 |
 | Archipelago builder | 0.00% | ~0 |
 | Archipelago urban planner | 0.00% | ~0 |
@@ -49,23 +57,17 @@
 | Green energy | 0.00% | ~0 |
 | I can't see the sky | 0.00% | ~0 |
 | I can't breathe | 0.00% | ~0 |
-| Urban style | 0.00% | ~0 |
 | Collapsed city | 0.00% | ~0 |
-| Read! Everyone should read! | 0.00% | ~0 |
 | Full desert | 0.00% | ~0 |
 | Desert builder | 0.00% | ~0 |
 | Desert urban planner | 0.00% | ~0 |
 | Desert master | 0.00% | ~0 |
 | How scary! | 0.00% | ~0 |
 | Haunted city | 0.00% | ~0 |
-| What is there after death? | 0.00% | ~0 |
-| Fear God, you sinners! | 0.00% | ~0 |
-| Perfect city | 0.00% | ~0 |
 | Smile? I don't understand | 0.00% | ~0 |
 | Work, work, work... | 0.00% | ~0 |
 | Freedom to go to the mall! | 0.00% | ~0 |
 | Only freedom to go to the mall! | 0.00% | ~0 |
-| I don't feel well, I have to drink a coffe | 0.00% | ~0 |
 | What? Was that possible? | 0.00% | ~0 |
 | Metropolurbek Plus | 0.00% | ~0 |
 | City in flames | 0.00% | ~0 |
@@ -73,8 +75,6 @@
 | Restorer master | 0.00% | ~0 |
 | Singapore | 0.00% | ~0 |
 | Singapore Plus | 0.00% | ~0 |
-| Sport is the best thing | 0.00% | ~0 |
-| Everyone should always do sport! | 0.00% | ~0 |
 | Full temperate | 0.00% | ~0 |
 | Temperate urban planner | 0.00% | ~0 |
 | Temperate master | 0.00% | ~0 |

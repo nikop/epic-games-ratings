@@ -37,9 +37,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1381,
+  "EOS_Progressed": 1382,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 424,
+  "EOS_NewPlayers": 425,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 5.21,
   "EosHistory": [
@@ -4542,6 +4542,11 @@
       "Time": "2023-12-19T11:08:02.5843786+00:00",
       "NumProgressed": 1381,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2023-12-19T12:08:08.5205505+00:00",
+      "NumProgressed": 1382,
+      "NumCompleted": 72
     }
   ],
   "TotalAchievements": 25,
@@ -4553,7 +4558,7 @@
       "Name": "I did it",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "END_GOOD",
@@ -4569,7 +4574,7 @@
       "Name": "Peace walker",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -4697,7 +4702,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -4705,7 +4710,7 @@
       "Name": "Scholar",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "PROGRESS_N1",
@@ -4721,7 +4726,7 @@
       "Name": "The great escape",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "PROGRESS_N3",
@@ -4752,7 +4757,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1381,
+      "Progressed": 1382,
       "Completed": 72
     }
   ],
@@ -4760,8 +4765,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-17T17:02:33.5506237+00:00",
-  "LastChanged_Achievements": "2023-12-19T11:08:02.5843783+00:00",
+  "LastChanged_Achievements": "2023-12-19T12:08:08.5205502+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:30.8935759+00:00",
-  "LastUpdate_Ratings": "2023-12-19T10:57:57.2318991+00:00",
-  "LastUpdate_Achievements": "2023-12-19T11:08:02.5844137+00:00"
+  "LastUpdate_Ratings": "2023-12-19T11:57:58.2224387+00:00",
+  "LastUpdate_Achievements": "2023-12-19T12:08:08.5205817+00:00"
 }

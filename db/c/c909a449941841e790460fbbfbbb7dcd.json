@@ -3,8 +3,8 @@
   "Name": "Road Defense: Outsiders",
   "ProductSlug": "road-defense-outsiders-22e4ba",
   "Ranking_EOS_Progress": 397,
-  "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_Completed": 87,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 208,
+  "EOS_Progressed": 209,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.33,
+  "EOS_Completed_Percentage": 4.31,
   "EosHistory": [
     {
       "Time": "2023-09-18T15:04:59.5567381+00:00",
@@ -934,6 +934,11 @@
       "Time": "2023-12-18T18:08:20.9409462+00:00",
       "NumProgressed": 208,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-19T12:08:32.1421519+00:00",
+      "NumProgressed": 209,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-09-18T15:04:59.5567411+00:00",
@@ -946,7 +951,7 @@
       "Name": "Kaboom!",
       "Percentage": 42,
       "XP": 60,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "BUY_LASER_BEAM_LEVEL_1",
@@ -986,7 +991,7 @@
       "Name": "Killer",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "DEFEATED_20000_ENEMIES",
@@ -1002,7 +1007,7 @@
       "Name": "Peaceful is safe!",
       "Percentage": 64,
       "XP": 60,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_0",
@@ -1066,7 +1071,7 @@
       "Name": "Robust",
       "Percentage": 30,
       "XP": 110,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "REACH_LEVEL_5",
@@ -1074,21 +1079,21 @@
       "Name": "Strong",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     }
   ],
   "AchievementSets": [
     {
       "ID": "14g34pl",
       "IsBase": true,
-      "Progressed": 208,
+      "Progressed": 209,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-12-19T11:08:26.2437644+00:00",
+  "LastChanged_Achievements": "2023-12-19T12:08:32.1421511+00:00",
   "LastUpdate_AppInfo": "2023-12-12T21:57:14.3760557+00:00",
-  "LastUpdate_Ratings": "2023-12-19T10:58:26.5164961+00:00",
-  "LastUpdate_Achievements": "2023-12-19T11:08:26.2437791+00:00"
+  "LastUpdate_Ratings": "2023-12-19T11:58:26.5404102+00:00",
+  "LastUpdate_Achievements": "2023-12-19T12:08:32.1421684+00:00"
 }

@@ -52,12 +52,12 @@
 | Defeat Undergast | 6.00% | ~4 |
 | Lytra's Tale | 6.00% | ~4 |
 | Crypt of the Revenant | 6.00% | ~4 |
+| Tuscari Sea Portal | 6.00% | ~4 |
 | Balanced | 6.00% | ~4 |
 | Friend of Grey Dusk Vale | 6.00% | ~4 |
 | Defeat Ianna | 5.00% | ~3 |
 | Defeat Rohen | 5.00% | ~3 |
 | Defeat Yria | 5.00% | ~3 |
-| Tuscari Sea Portal | 5.00% | ~3 |
 | Master Alchemist | 5.00% | ~3 |
 | A Monopoly of Might | 5.00% | ~3 |
 | Heroes | 5.00% | ~3 |

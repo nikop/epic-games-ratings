@@ -79,7 +79,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Graveyard Call - III | 0.90% | ~426 |
 | I'll Be Back! | 0.80% | ~378 |
 | Doctorate in Potion Brewing | 0.70% | ~331 |
-| Unrivaled | 0.50% | ~236 |
+| Unrivaled | 0.60% | ~284 |
 | Renowned Researcher | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 47,282 (Ranked 118)  

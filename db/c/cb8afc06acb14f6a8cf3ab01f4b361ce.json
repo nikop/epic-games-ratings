@@ -431,9 +431,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 331314,
+  "EOS_Progressed": 331332,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3594,
+  "EOS_NewPlayers": 3596,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10181,6 +10181,11 @@
       "Time": "2023-12-19T11:06:12.4641425+00:00",
       "NumProgressed": 331314,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-19T12:06:18.588653+00:00",
+      "NumProgressed": 331332,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -10193,7 +10198,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 9939
+      "UsersEstimate": 9940
     },
     {
       "ID": "S02_BRDA",
@@ -10201,7 +10206,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6626
+      "UsersEstimate": 6627
     },
     {
       "ID": "S03_OTWA",
@@ -10512,7 +10517,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 331314,
+      "Progressed": 331332,
       "Completed": 5
     }
   ],
@@ -10520,8 +10525,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-17T23:00:34.9131333+00:00",
-  "LastChanged_Achievements": "2023-12-19T11:06:12.464142+00:00",
+  "LastChanged_Achievements": "2023-12-19T12:06:18.5886526+00:00",
   "LastUpdate_AppInfo": "2023-12-14T20:57:08.8756847+00:00",
-  "LastUpdate_Ratings": "2023-12-19T11:01:42.934241+00:00",
-  "LastUpdate_Achievements": "2023-12-19T11:06:12.4642091+00:00"
+  "LastUpdate_Ratings": "2023-12-19T12:01:39.5603431+00:00",
+  "LastUpdate_Achievements": "2023-12-19T12:06:18.5887211+00:00"
 }

@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Act of Kindness | 86.00% | ~72 |
-| Air Fighter | 74.00% | ~62 |
-| Oo-De-Lally | 68.00% | ~57 |
-| The Altruist | 67.00% | ~56 |
-| Treasure Hunter | 64.00% | ~54 |
-| Watch your Step! | 52.00% | ~44 |
-| Tap Dancing | 51.00% | ~43 |
-| MAX LEVEL | 50.00% | ~42 |
-| Right between the eyes | 39.00% | ~33 |
-| Spring Board | 39.00% | ~33 |
-| Starry Night | 37.00% | ~31 |
-| Rebel Unleashed | 35.00% | ~29 |
-| Merry Co-operation | 33.00% | ~28 |
-| Locksley's Tears | 32.00% | ~27 |
+| Act of Kindness | 86.00% | ~74 |
+| Air Fighter | 74.00% | ~64 |
+| Oo-De-Lally | 69.00% | ~59 |
+| The Altruist | 67.00% | ~58 |
+| Treasure Hunter | 64.00% | ~55 |
+| Tap Dancing | 52.00% | ~45 |
+| Watch your Step! | 51.00% | ~44 |
+| MAX LEVEL | 51.00% | ~44 |
+| Right between the eyes | 40.00% | ~34 |
+| Spring Board | 38.00% | ~33 |
+| Starry Night | 37.00% | ~32 |
+| Merry Co-operation | 35.00% | ~30 |
+| Rebel Unleashed | 34.00% | ~29 |
+| Locksley's Tears | 31.00% | ~27 |
 | Finish Him! | 27.00% | ~23 |
-| Assault on the Ram | 25.00% | ~21 |
-| Ultra Rebel Instinct | 25.00% | ~21 |
-| Merry Go Round | 24.00% | ~20 |
+| Assault on the Ram | 24.00% | ~21 |
+| Ultra Rebel Instinct | 24.00% | ~21 |
+| Merry Go Round | 23.00% | ~20 |
 | First Aid | 21.00% | ~18 |
 | Savior | 20.00% | ~17 |
-| Take Action! | 18.00% | ~15 |
-| Hidden Experiment | 17.00% | ~14 |
+| Take Action! | 17.00% | ~15 |
+| Hidden Experiment | 16.00% | ~14 |
 | Ascending Will | 15.00% | ~13 |
 | Ultra Combo | 13.00% | ~11 |
 | Haute Couture | 12.00% | ~10 |
-| Into the Lion's Den | 11.00% | ~9 |
+| Into the Lion's Den | 10.00% | ~9 |
 | The Gang prevails | 8.00% | ~7 |
 | Sky High Fighter | 8.00% | ~7 |
 | Brilliant Executioner | 7.00% | ~6 |
@@ -37,7 +37,7 @@
 | Power of Friendship! | 6.00% | ~5 |
 | No Mercy | 5.00% | ~4 |
 | Out of the ring | 5.00% | ~4 |
-| King of the Iron Fist | 4.00% | ~3 |
+| King of the Iron Fist | 3.00% | ~3 |
 | Five of Friends | 2.00% | ~2 |
 | A Gest of Robyn Hode | 2.00% | ~2 |
 | Only Child | 2.00% | ~2 |
@@ -58,7 +58,7 @@
 | The Armorer | 0.00% | ~0 |
 | Master of All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 84 (Ranked 482)  
+Progressed: 86 (Ranked 474)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,3 +86,4 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-16 | 77 | 0 |
 | 2023-12-17 | 82 | 0 |
 | 2023-12-18 | 84 | 0 |
+| 2023-12-19 | 86 | 0 |

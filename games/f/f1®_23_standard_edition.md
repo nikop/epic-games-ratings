@@ -1,61 +1,61 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.69 (Ranked 233)  
+Rating: 4.69 (Ranked 232)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~8,379 |
-| On the Top Step | 82.00% | ~7,551 |
-| Setting up for Success | 70.00% | ~6,446 |
-| Team Orders | 69.00% | ~6,354 |
-| Engineer | 48.00% | ~4,420 |
-| Familiar Faces | 43.00% | ~3,959 |
-| Going the Extra Mile | 37.00% | ~3,407 |
-| Sharing the Love | 35.00% | ~3,223 |
-| Hitting a Season | 30.00% | ~2,762 |
-| A Dozen Pieces | 27.00% | ~2,486 |
-| Challenge Yourself | 26.00% | ~2,394 |
-| Making History | 26.00% | ~2,394 |
-| Network Success | 24.00% | ~2,210 |
-| Spring Cleaning | 20.00% | ~1,842 |
-| Writing a new Chapter | 20.00% | ~1,842 |
-| Crucial Combo | 16.00% | ~1,473 |
-| Reduce | 16.00% | ~1,473 |
-| Ups and Downs | 16.00% | ~1,473 |
-| Reuse | 14.00% | ~1,289 |
-| One for the Book | 13.00% | ~1,197 |
-| Proving Them Wrong | 13.00% | ~1,197 |
-| Gathering Dust | 12.00% | ~1,105 |
-| Oil and Water | 12.00% | ~1,105 |
-| Hitting a Bullseye | 12.00% | ~1,105 |
-| Lightning Round the World | 11.00% | ~1,013 |
-| Switcheroo | 11.00% | ~1,013 |
-| Spinning Around | 11.00% | ~1,013 |
-| Eagle Eye | 10.00% | ~921 |
-| All in a Weekend's Work | 10.00% | ~921 |
-| Friendly Competition | 10.00% | ~921 |
-| Recycle | 9.00% | ~829 |
+| Getting on the Step | 91.00% | ~8,391 |
+| On the Top Step | 82.00% | ~7,561 |
+| Setting up for Success | 70.00% | ~6,455 |
+| Team Orders | 69.00% | ~6,362 |
+| Engineer | 48.00% | ~4,426 |
+| Familiar Faces | 43.00% | ~3,965 |
+| Going the Extra Mile | 37.00% | ~3,412 |
+| Sharing the Love | 35.00% | ~3,227 |
+| Hitting a Season | 30.00% | ~2,766 |
+| A Dozen Pieces | 27.00% | ~2,490 |
+| Challenge Yourself | 26.00% | ~2,397 |
+| Making History | 26.00% | ~2,397 |
+| Network Success | 24.00% | ~2,213 |
+| Spring Cleaning | 20.00% | ~1,844 |
+| Writing a new Chapter | 20.00% | ~1,844 |
+| Crucial Combo | 16.00% | ~1,475 |
+| Reduce | 16.00% | ~1,475 |
+| Ups and Downs | 16.00% | ~1,475 |
+| Reuse | 14.00% | ~1,291 |
+| One for the Book | 13.00% | ~1,199 |
+| Proving Them Wrong | 13.00% | ~1,199 |
+| Gathering Dust | 12.00% | ~1,107 |
+| Oil and Water | 12.00% | ~1,107 |
+| Lightning Round the World | 11.00% | ~1,014 |
+| Hitting a Bullseye | 11.00% | ~1,014 |
+| Switcheroo | 11.00% | ~1,014 |
+| Spinning Around | 11.00% | ~1,014 |
+| Eagle Eye | 10.00% | ~922 |
+| All in a Weekend's Work | 10.00% | ~922 |
+| Friendly Competition | 10.00% | ~922 |
+| Recycle | 9.00% | ~830 |
 | Undisputed Winner | 7.00% | ~645 |
 | Tinkerer | 7.00% | ~645 |
-| For all Those Back at the Factory | 5.00% | ~460 |
-| Living up to Expectations | 5.00% | ~460 |
-| Smooth Operator | 5.00% | ~460 |
-| Peak Performance | 4.00% | ~368 |
-| Seasoned Rookie | 3.00% | ~276 |
-| Hitting a Century | 3.00% | ~276 |
-| Loyal Bond | 3.00% | ~276 |
+| For all Those Back at the Factory | 5.00% | ~461 |
+| Living up to Expectations | 5.00% | ~461 |
+| Smooth Operator | 5.00% | ~461 |
+| Peak Performance | 4.00% | ~369 |
+| Seasoned Rookie | 3.00% | ~277 |
+| Hitting a Century | 3.00% | ~277 |
+| Loyal Bond | 3.00% | ~277 |
 | Wait, I know you? | 2.00% | ~184 |
 | Filling in the Gaps | 2.00% | ~184 |
 | Saturday Night Drama | 1.00% | ~92 |
 | Media Darling | 1.00% | ~92 |
-| Under the Microscope | 0.70% | ~64 |
+| Under the Microscope | 0.70% | ~65 |
 | Ultimate Collector | 0.40% | ~37 |
 | Golden Touch | 0.30% | ~28 |
 | Shot in the Dark | 0.10% | ~9 |
 | Elite Racer | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,208 (Ranked 176)  
+Progressed: 9,221 (Ranked 176)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-16 | 7,967 | 0 |
 | 2023-12-17 | 8,622 | 0 |
 | 2023-12-18 | 9,078 | 0 |
-| 2023-12-19 | 9,208 | 0 |
+| 2023-12-19 | 9,221 | 0 |
 ## Awards
 Max (Diverse Characters): 44  (Ranked 457)  
 Sum: 273 (Ranked 380)  

@@ -9826,18 +9826,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 20768,
       "NumberOfAwardsMax": 7784
+    },
+    {
+      "Time": "2023-12-19T11:59:41.3510076+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20786,
+      "NumberOfAwardsMax": 7795
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20768,
-  "NumberOfAwardsMax": 7784,
+  "NumberOfAwards": 20786,
+  "NumberOfAwardsMax": 7795,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7784
+      "Count": 7795
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -9849,7 +9855,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1544
+      "Count": 1547
     },
     {
       "Text": "This game is Extremely Fun",
@@ -9867,7 +9873,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1356
+      "Count": 1360
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9906,9 +9912,9 @@
       "Count": 1031
     }
   ],
-  "EOS_Progressed": 128476,
+  "EOS_Progressed": 128486,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2134,
+  "EOS_NewPlayers": 2137,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35786,6 +35792,11 @@
       "Time": "2023-12-19T11:09:38.2302882+00:00",
       "NumProgressed": 128476,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-19T12:09:43.0680633+00:00",
+      "NumProgressed": 128486,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35925,7 +35936,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3854
+      "UsersEstimate": 3855
     },
     {
       "ID": "combat_kill_cadavers",
@@ -35949,7 +35960,7 @@
       "Name": "Not Today!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3854
+      "UsersEstimate": 3855
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -35957,7 +35968,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3854
+      "UsersEstimate": 3855
     },
     {
       "ID": "combat_kill_fanatics",
@@ -35997,7 +36008,7 @@
       "Name": "Meat and Greet",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3854
+      "UsersEstimate": 3855
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -36013,7 +36024,7 @@
       "Name": "Catch and Decease",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3854
+      "UsersEstimate": 3855
     },
     {
       "ID": "combat_kill_librarian",
@@ -36021,7 +36032,7 @@
       "Name": "Overdue Notice",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3854
+      "UsersEstimate": 3855
     },
     {
       "ID": "combat_kill_pillagers",
@@ -36037,7 +36048,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3854
+      "UsersEstimate": 3855
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -36381,7 +36392,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -36389,7 +36400,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "quest_complete_crusader",
@@ -36397,7 +36408,7 @@
       "Name": "Lost and Found",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -36428,21 +36439,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 128476,
+      "Progressed": 128486,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 3345,
+      "Progressed": 3355,
       "Completed": 802
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-19T06:58:50.1637734+00:00",
-  "LastChanged_Achievements": "2023-12-19T11:09:38.2302879+00:00",
+  "LastChanged": "2023-12-19T11:59:41.3510074+00:00",
+  "LastChanged_Achievements": "2023-12-19T12:09:43.068063+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-19T10:59:43.8231942+00:00",
-  "LastUpdate_Achievements": "2023-12-19T11:09:38.2304655+00:00"
+  "LastUpdate_Ratings": "2023-12-19T11:59:41.3510081+00:00",
+  "LastUpdate_Achievements": "2023-12-19T12:09:43.0682184+00:00"
 }

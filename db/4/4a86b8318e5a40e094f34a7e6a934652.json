@@ -4,7 +4,7 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -1491,9 +1491,9 @@
       "ID": "REMOVE_100_WEEDS",
       "SetID": "aniflfk",
       "Name": "Weed Warrior",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 157
+      "UsersEstimate": 160
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -1546,8 +1546,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-19T11:05:49.219541+00:00",
+  "LastChanged_Achievements": "2023-12-19T12:05:55.6173492+00:00",
   "LastUpdate_AppInfo": "2023-12-13T21:57:03.1278188+00:00",
-  "LastUpdate_Ratings": "2023-12-19T10:59:05.2952242+00:00",
-  "LastUpdate_Achievements": "2023-12-19T11:05:49.2195609+00:00"
+  "LastUpdate_Ratings": "2023-12-19T11:59:01.6360574+00:00",
+  "LastUpdate_Achievements": "2023-12-19T12:05:55.617367+00:00"
 }

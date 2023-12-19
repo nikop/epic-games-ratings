@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 157102,
+  "EOS_Progressed": 157103,
   "EOS_Completed": 362,
-  "EOS_NewPlayers": 873,
+  "EOS_NewPlayers": 872,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -22158,6 +22158,11 @@
       "Time": "2023-12-19T10:06:03.6504756+00:00",
       "NumProgressed": 157102,
       "NumCompleted": 362
+    },
+    {
+      "Time": "2023-12-19T12:08:02.0919909+00:00",
+      "NumProgressed": 157103,
+      "NumCompleted": 362
     }
   ],
   "TotalAchievements": 31,
@@ -22177,7 +22182,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 109971
+      "UsersEstimate": 109972
     },
     {
       "ID": "EAwards_10",
@@ -22193,7 +22198,7 @@
       "Name": "Pollo Power",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 32991
+      "UsersEstimate": 32992
     },
     {
       "ID": "EAwards_12",
@@ -22201,7 +22206,7 @@
       "Name": "Last Straw",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 26707
+      "UsersEstimate": 26708
     },
     {
       "ID": "EAwards_13",
@@ -22241,7 +22246,7 @@
       "Name": "Main Event",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 34562
+      "UsersEstimate": 34563
     },
     {
       "ID": "EAwards_18",
@@ -22249,7 +22254,7 @@
       "Name": "That was INTENSE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 34562
+      "UsersEstimate": 34563
     },
     {
       "ID": "EAwards_19",
@@ -22353,7 +22358,7 @@
       "Name": "X\u0027tabay-Bye",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 29849
+      "UsersEstimate": 29850
     },
     {
       "ID": "EAwards_30",
@@ -22416,7 +22421,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 157102,
+      "Progressed": 157103,
       "Completed": 362
     }
   ],
@@ -22424,8 +22429,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-12-16T18:59:03.9912318+00:00",
-  "LastChanged_Achievements": "2023-12-19T11:07:56.0492878+00:00",
+  "LastChanged_Achievements": "2023-12-19T12:08:02.0919904+00:00",
   "LastUpdate_AppInfo": "2023-12-15T07:57:06.2910443+00:00",
-  "LastUpdate_Ratings": "2023-12-19T11:01:53.3856747+00:00",
-  "LastUpdate_Achievements": "2023-12-19T11:07:56.0494094+00:00"
+  "LastUpdate_Ratings": "2023-12-19T12:01:50.4866151+00:00",
+  "LastUpdate_Achievements": "2023-12-19T12:08:02.0921073+00:00"
 }

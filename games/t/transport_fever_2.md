@@ -6,48 +6,48 @@ Number of Ratings: 180  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 76.00% | ~1,562 |
-| First cargo item on board | 70.00% | ~1,438 |
-| First cargo item waiting | 70.00% | ~1,438 |
-| First bus stop | 69.00% | ~1,418 |
-| First passenger on board | 66.00% | ~1,356 |
-| First passenger waiting | 66.00% | ~1,356 |
-| First bus arrived | 65.00% | ~1,336 |
-| First train station | 62.00% | ~1,274 |
-| First steam train arrived | 58.00% | ~1,192 |
-| First industry upgraded | 55.00% | ~1,130 |
-| Transport millionaire | 53.00% | ~1,089 |
-| Cadet | 53.00% | ~1,089 |
-| Transport master | 51.00% | ~1,048 |
-| Cargo hub | 51.00% | ~1,048 |
-| Sculpturer | 48.00% | ~986 |
-| Settled down | 47.00% | ~966 |
-| First electric train arrived | 45.00% | ~925 |
-| Now what? | 45.00% | ~925 |
-| First ship arrived | 44.00% | ~904 |
-| Exemplary student | 42.00% | ~863 |
+| First line | 76.00% | ~1,563 |
+| First cargo item on board | 70.00% | ~1,440 |
+| First cargo item waiting | 70.00% | ~1,440 |
+| First bus stop | 69.00% | ~1,419 |
+| First passenger on board | 66.00% | ~1,358 |
+| First passenger waiting | 66.00% | ~1,358 |
+| First bus arrived | 64.00% | ~1,316 |
+| First train station | 62.00% | ~1,275 |
+| First steam train arrived | 58.00% | ~1,193 |
+| First industry upgraded | 55.00% | ~1,131 |
+| Transport millionaire | 53.00% | ~1,090 |
+| Cadet | 53.00% | ~1,090 |
+| Transport master | 51.00% | ~1,049 |
+| Cargo hub | 51.00% | ~1,049 |
+| Sculpturer | 48.00% | ~987 |
+| Settled down | 47.00% | ~967 |
+| First electric train arrived | 45.00% | ~926 |
+| Now what? | 45.00% | ~926 |
+| First ship arrived | 44.00% | ~905 |
+| Exemplary student | 42.00% | ~864 |
 | High speed | 41.00% | ~843 |
-| First aircraft arrived | 40.00% | ~822 |
-| Transport shark | 39.00% | ~801 |
+| First aircraft arrived | 40.00% | ~823 |
+| Transport shark | 39.00% | ~802 |
 | Mass production | 34.00% | ~699 |
 | Aircraft entrepreneur | 32.00% | ~658 |
-| Crowd in a train | 30.00% | ~616 |
-| The future is now, old man | 30.00% | ~616 |
-| Not in my backyard | 29.00% | ~596 |
-| The king of the sea | 28.00% | ~575 |
+| Crowd in a train | 30.00% | ~617 |
+| The future is now, old man | 30.00% | ~617 |
+| Not in my backyard | 29.00% | ~597 |
+| The king of the sea | 28.00% | ~576 |
 | City | 27.00% | ~555 |
 | Transport tycoon | 23.00% | ~473 |
-| Old timer | 22.00% | ~452 |
-| The ugly smell of success | 22.00% | ~452 |
+| Old timer | 22.00% | ~453 |
+| The ugly smell of success | 22.00% | ~453 |
 | Climate change | 21.00% | ~432 |
 | Heavily loaded | 20.00% | ~411 |
-| Bob Ross | 15.00% | ~308 |
+| Bob Ross | 15.00% | ~309 |
 | Truck Fever | 11.00% | ~226 |
 | Campaign expert | 10.00% | ~206 |
 | No free seats | 10.00% | ~206 |
 | Penny pincher | 9.00% | ~185 |
-| Back to the future | 8.00% | ~164 |
-| Transport belt | 8.00% | ~164 |
+| Back to the future | 8.00% | ~165 |
+| Transport belt | 8.00% | ~165 |
 | Campaign shark | 5.00% | ~103 |
 | E.P.E.C. | 5.00% | ~103 |
 | Transport shark (Hard mode) | 4.00% | ~82 |
@@ -62,13 +62,13 @@ Number of Ratings: 180  (23.09.2022)
 | Metropolis | 2.00% | ~41 |
 | Speed of light | 2.00% | ~41 |
 | Trans-Siberian Railway | 1.00% | ~21 |
-| Train Fever | 0.90% | ~18 |
-| Louis Favre | 0.90% | ~18 |
+| Train Fever | 0.90% | ~19 |
+| Louis Favre | 0.90% | ~19 |
 | Big spender | 0.60% | ~12 |
 | Glacier express | 0.20% | ~4 |
 | Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,055 (Ranked 232)  
+Progressed: 2,057 (Ranked 232)  
 Completed: 1 (0.05%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,15 +296,15 @@ Completed: 1 (0.05%) (Ranked 331)
 | 2023-12-16 | 2,003 | 1 |
 | 2023-12-17 | 2,029 | 1 |
 | 2023-12-18 | 2,050 | 1 |
-| 2023-12-19 | 2,055 | 1 |
+| 2023-12-19 | 2,057 | 1 |
 ## Awards
 Max (Great for Beginners): 47  (Ranked 451)  
-Sum: 323 (Ranked 364)  
+Sum: 324 (Ranked 364)  
 Diff (max vs sum): 87  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 47 |
-| This game is Highly Recommended | 44 |
+| This game is Highly Recommended | 45 |
 | This game has Amazing Storytelling | 39 |
 | This game is Extremely Fun | 38 |
 | This game has Quickly Understood Controls | 35 |
@@ -428,3 +428,4 @@ Diff (max vs sum): 87
 | 2023-12-14 | 4.68 | - | 45 | 320 |
 | 2023-12-16 | 4.68 | - | 46 | 322 |
 | 2023-12-17 | 4.68 | - | 47 | 323 |
+| 2023-12-19 | 4.68 | - | 47 | 324 |
