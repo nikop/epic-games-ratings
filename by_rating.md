@@ -91,7 +91,7 @@
 | 85 | [The Messenger](games/t/the_messenger.md) | 4.81 | 346 | 245 |
 | 85 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 566 |
 | 91 | [Aground](games/a/aground.md) | 4.80 | 0 | 566 |
-| 91 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,486 | 59 |
+| 91 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,486 | 60 |
 | 91 | [Huntdown](games/h/huntdown.md) | 4.80 | 0 | 566 |
 | 91 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 0 | 566 |
 | 91 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 127 | 341 |
@@ -296,7 +296,7 @@
 | 280 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 0 | 566 |
 | 295 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.66 | 0 | 566 |
 | 295 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 85 | 391 |
-| 295 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 6,480 | 60 |
+| 295 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 6,487 | 59 |
 | 295 | [Crashlands](games/c/crashlands.md) | 4.66 | 197 | 295 |
 | 295 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.66 | 124,846 | 8 |
 | 295 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,304 | 138 |
@@ -313,31 +313,31 @@
 | 295 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 1,948 | 117 |
 | 295 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.66 | 34 | 490 |
 | 295 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.66 | 0 | 566 |
-| 295 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.66 | 554 | 209 |
 | 295 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.66 | 240 | 275 |
 | 295 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 6,018 | 64 |
 | 295 | [Trackmania](games/t/trackmania.md) | 4.66 | 4,201 | 83 |
 | 295 | [Tropico 6](games/t/tropico_6.md) | 4.66 | 104 | 364 |
 | 295 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 460 | 222 |
 | 295 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 25 | 531 |
-| 321 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 566 |
-| 321 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 0 | 566 |
-| 321 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 0 | 566 |
-| 321 | [Black Book](games/b/black_book.md) | 4.65 | 0 | 566 |
-| 321 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 175 | 309 |
-| 321 | [Dead Space](games/d/dead_space.md) | 4.65 | 127 | 341 |
-| 321 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.65 | 0 | 566 |
-| 321 | [High On Life](games/h/high_on_life.md) | 4.65 | 0 | 566 |
-| 321 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.65 | 0 | 566 |
-| 321 | [Old World](games/o/old_world.md) | 4.65 | 228 | 279 |
-| 321 | [Road 96](games/r/road_96.md) | 4.65 | 0 | 566 |
-| 321 | [Rogue Lords](games/r/rogue_lords.md) | 4.65 | 0 | 566 |
-| 321 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 56 | 425 |
-| 321 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 24 | 536 |
-| 321 | [SOMA](games/s/soma.md) | 4.65 | 0 | 566 |
-| 321 | [Sonic Superstars](games/f/f11d27ea453b4ea4a6494ffbe0361482.md) | 4.65 | 0 | 566 |
-| 321 | [Tennis Manager 2022](games/t/tennis_manager_2022.md) | 4.65 | 0 | 566 |
-| 321 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.65 | 77 | 398 |
+| 320 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 566 |
+| 320 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 0 | 566 |
+| 320 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 0 | 566 |
+| 320 | [Black Book](games/b/black_book.md) | 4.65 | 0 | 566 |
+| 320 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 175 | 309 |
+| 320 | [Dead Space](games/d/dead_space.md) | 4.65 | 127 | 341 |
+| 320 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.65 | 0 | 566 |
+| 320 | [High On Life](games/h/high_on_life.md) | 4.65 | 0 | 566 |
+| 320 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.65 | 0 | 566 |
+| 320 | [Old World](games/o/old_world.md) | 4.65 | 228 | 279 |
+| 320 | [Road 96](games/r/road_96.md) | 4.65 | 0 | 566 |
+| 320 | [Rogue Lords](games/r/rogue_lords.md) | 4.65 | 0 | 566 |
+| 320 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 56 | 425 |
+| 320 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 24 | 536 |
+| 320 | [SOMA](games/s/soma.md) | 4.65 | 0 | 566 |
+| 320 | [Sonic Superstars](games/f/f11d27ea453b4ea4a6494ffbe0361482.md) | 4.65 | 0 | 566 |
+| 320 | [Tennis Manager 2022](games/t/tennis_manager_2022.md) | 4.65 | 0 | 566 |
+| 320 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.65 | 554 | 209 |
+| 320 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.65 | 77 | 398 |
 | 339 | [APE OUT](games/a/ape_out.md) | 4.64 | 0 | 566 |
 | 339 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 6,007 | 65 |
 | 339 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.64 | 0 | 566 |
@@ -547,7 +547,7 @@
 | 532 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 566 |
 | 532 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 0 | 566 |
 | 532 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 4.54 | 747 | 184 |
-| 548 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.53 | 42 | 462 |
+| 548 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.53 | 43 | 461 |
 | 548 | [Dark Deception](games/d/dark_deception.md) | 4.53 | 0 | 566 |
 | 548 | [Dauntless](games/d/dauntless.md) | 4.53 | 24,829 | 18 |
 | 548 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.53 | 23 | 545 |
@@ -860,7 +860,7 @@
 | 855 | [Farlight 84](games/6/64543c9227724068970bd85bc4e73e9e.md) | 4.29 | 25 | 531 |
 | 855 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.29 | 92 | 383 |
 | 855 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.29 | 0 | 566 |
-| 855 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.29 | 42 | 462 |
+| 855 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.29 | 42 | 463 |
 | 855 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 158 | 318 |
 | 855 | [RiMS Racing](games/r/rims_racing.md) | 4.29 | 0 | 566 |
 | 855 | [Scrapnaut](games/s/scrapnaut.md) | 4.29 | 0 | 566 |
