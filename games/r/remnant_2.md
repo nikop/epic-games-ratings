@@ -5,63 +5,63 @@ Rating: 4.75 (Ranked 150)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 5.00% | ~12,705 |
-| First of Many | 5.00% | ~12,705 |
-| Not Your Average Trait | 4.00% | ~10,164 |
-| Expanding Horizons | 3.00% | ~7,623 |
-| Quest for Survival | 3.00% | ~7,623 |
-| Gleaming the Cube | 2.00% | ~5,082 |
-| Not So Special Now | 2.00% | ~5,082 |
-| Not a Janitor | 2.00% | ~5,082 |
-| Familiar Face | 2.00% | ~5,082 |
-| Equal Measures | 2.00% | ~5,082 |
-| Blue Goddess | 2.00% | ~5,082 |
-| Duality | 2.00% | ~5,082 |
-| Boss'n Up | 2.00% | ~5,082 |
-| Make Some Room | 2.00% | ~5,082 |
-| Trait Chaser | 2.00% | ~5,082 |
-| Chaos | 1.00% | ~2,541 |
-| Traitor | 1.00% | ~2,541 |
-| Power Surge | 1.00% | ~2,541 |
-| The God Gambit | 1.00% | ~2,541 |
-| Dark Designs | 1.00% | ~2,541 |
-| Top Performer | 1.00% | ~2,541 |
-| Shhh...It's a Secret | 1.00% | ~2,541 |
-| Was This Supposed To Happen? | 1.00% | ~2,541 |
-| The Web | 1.00% | ~2,541 |
-| Almost There | 1.00% | ~2,541 |
-| Good, But Could Be Better! | 1.00% | ~2,541 |
-| Regicide | 1.00% | ~333 |
-| Am I Seeing This? | 0.90% | ~2,287 |
-| Madman's Paradise | 0.90% | ~2,287 |
-| The Agenda | 0.90% | ~2,287 |
-| Scrap Collector | 0.90% | ~2,287 |
-| Master of the Dark Arts | 0.90% | ~299 |
+| The Killing Jar | 5.00% | ~12,710 |
+| First of Many | 5.00% | ~12,710 |
+| Not Your Average Trait | 4.00% | ~10,168 |
+| Expanding Horizons | 3.00% | ~7,626 |
+| Quest for Survival | 3.00% | ~7,626 |
+| Gleaming the Cube | 2.00% | ~5,084 |
+| Not So Special Now | 2.00% | ~5,084 |
+| Not a Janitor | 2.00% | ~5,084 |
+| Familiar Face | 2.00% | ~5,084 |
+| Equal Measures | 2.00% | ~5,084 |
+| Blue Goddess | 2.00% | ~5,084 |
+| Duality | 2.00% | ~5,084 |
+| Boss'n Up | 2.00% | ~5,084 |
+| Make Some Room | 2.00% | ~5,084 |
+| Trait Chaser | 2.00% | ~5,084 |
+| Chaos | 1.00% | ~2,542 |
+| Traitor | 1.00% | ~2,542 |
+| Power Surge | 1.00% | ~2,542 |
+| The God Gambit | 1.00% | ~2,542 |
+| Dark Designs | 1.00% | ~2,542 |
+| Top Performer | 1.00% | ~2,542 |
+| Shhh...It's a Secret | 1.00% | ~2,542 |
+| Was This Supposed To Happen? | 1.00% | ~2,542 |
+| The Web | 1.00% | ~2,542 |
+| Almost There | 1.00% | ~2,542 |
+| Good, But Could Be Better! | 1.00% | ~2,542 |
+| Regicide | 1.00% | ~334 |
+| Am I Seeing This? | 0.90% | ~2,288 |
+| Madman's Paradise | 0.90% | ~2,288 |
+| The Agenda | 0.90% | ~2,288 |
+| Scrap Collector | 0.90% | ~2,288 |
+| Master of the Dark Arts | 0.90% | ~300 |
 | Forever is a Long Time Coming | 0.70% | ~1,779 |
 | Bad Moon Rising | 0.70% | ~1,779 |
 | Strapped | 0.70% | ~1,779 |
 | Scrap Hoarder | 0.70% | ~1,779 |
 | All These Traits� | 0.70% | ~1,779 |
 | The Ultimate Weapon | 0.70% | ~1,779 |
+| Tall Tales | 0.60% | ~1,525 |
 | Edgelord | 0.60% | ~1,525 |
 | Carnage in C-Minor | 0.60% | ~1,525 |
 | No One Should Have All That Power | 0.60% | ~1,525 |
 | Transmutate | 0.60% | ~1,525 |
 | Only Human | 0.50% | ~1,271 |
 | Red Room | 0.50% | ~1,271 |
-| Tall Tales | 0.50% | ~1,271 |
-| Crafty | 0.40% | ~1,016 |
-| Ghost in the Machine | 0.40% | ~1,016 |
-| Maxed Out! | 0.40% | ~1,016 |
-| The Trigger | 0.30% | ~762 |
-| Cutting Edge | 0.30% | ~762 |
-| The Collector | 0.30% | ~762 |
-| Proving Grounds | 0.30% | ~762 |
+| Crafty | 0.40% | ~1,017 |
+| Ghost in the Machine | 0.40% | ~1,017 |
+| Maxed Out! | 0.40% | ~1,017 |
+| The Trigger | 0.30% | ~763 |
+| Cutting Edge | 0.30% | ~763 |
+| The Collector | 0.30% | ~763 |
+| Proving Grounds | 0.30% | ~763 |
 | Succession | 0.30% | ~100 |
 | You Shall Pass | 0.30% | ~100 |
 | A Foul Feast | 0.20% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,105 (Ranked 62)  
+Progressed: 254,193 (Ranked 62)  
 Completed: 603 (0.24%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 603 (0.24%) (Ranked 261)
 | 2023-12-16 | 249,241 | 590 |
 | 2023-12-17 | 252,137 | 598 |
 | 2023-12-18 | 254,063 | 603 |
-| 2023-12-19 | 254,105 | 603 |
+| 2023-12-19 | 254,193 | 603 |
 ## Awards
 Max (Great Boss Battles): 3,014  (Ranked 99)  
 Sum: 7,323 (Ranked 118)  

@@ -1527,10 +1527,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 1046,
       "NumberOfAwardsMax": 132
+    },
+    {
+      "Time": "2023-12-19T01:47:00.6495949+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 1047,
+      "NumberOfAwardsMax": 132
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1046,
+  "NumberOfAwards": 1047,
   "NumberOfAwardsMax": 132,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1544,7 +1550,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 108
+      "Count": 109
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1607,9 +1613,9 @@
       "Count": 75
     }
   ],
-  "EOS_Progressed": 7348,
+  "EOS_Progressed": 7349,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -14897,6 +14903,11 @@
       "Time": "2023-12-19T00:08:02.5668358+00:00",
       "NumProgressed": 7348,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-19T01:55:29.6817322+00:00",
+      "NumProgressed": 7349,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -14908,7 +14919,7 @@
       "Name": "Get A Room",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5584
+      "UsersEstimate": 5585
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -14916,7 +14927,7 @@
       "Name": "Beam Me Up",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 3894
+      "UsersEstimate": 3895
     },
     {
       "ID": "DISMANTLE_ITEMS_5",
@@ -14940,7 +14951,7 @@
       "Name": "Green Thumb",
       "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 4923
+      "UsersEstimate": 4924
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -14948,7 +14959,7 @@
       "Name": "Having A Field Day",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5584
+      "UsersEstimate": 5585
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -14956,7 +14967,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 5364
+      "UsersEstimate": 5365
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -15044,7 +15055,7 @@
       "Name": "Fit For A King",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 2057
+      "UsersEstimate": 2058
     },
     {
       "ID": "STORE_NUTRITION_5000",
@@ -15052,7 +15063,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 3380
+      "UsersEstimate": 3381
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -15084,7 +15095,7 @@
       "Name": "Heating Up",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2351
+      "UsersEstimate": 2352
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
@@ -15148,22 +15159,22 @@
       "Name": "Studious Researcher",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 3894
+      "UsersEstimate": 3895
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 7348,
+      "Progressed": 7349,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
-  "LastChanged": "2023-12-17T15:58:46.9342571+00:00",
-  "LastChanged_Achievements": "2023-12-19T00:08:02.5668352+00:00",
+  "LastChanged": "2023-12-19T01:47:00.6495948+00:00",
+  "LastChanged_Achievements": "2023-12-19T01:55:29.6817318+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:47.8691665+00:00",
-  "LastUpdate_Ratings": "2023-12-18T23:59:31.1716593+00:00",
-  "LastUpdate_Achievements": "2023-12-19T00:08:02.5669105+00:00"
+  "LastUpdate_Ratings": "2023-12-19T01:47:00.6495952+00:00",
+  "LastUpdate_Achievements": "2023-12-19T01:55:29.6818071+00:00"
 }

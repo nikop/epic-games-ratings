@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mathematic | 86.00% | ~115 |
+| Mathematic | 87.00% | ~117 |
 | Digging a Hole | 72.00% | ~96 |
 | It's Yours, My Friend | 72.00% | ~96 |
 | Going Places | 66.00% | ~88 |
@@ -17,13 +17,13 @@
 | Mine Sweeper | 34.00% | ~46 |
 | Roll Out | 33.00% | ~44 |
 | Dopa-Miner | 24.00% | ~32 |
-| Up, Up And Away! | 23.00% | ~31 |
-| Whoa! | 23.00% | ~31 |
+| Up, Up And Away! | 24.00% | ~32 |
+| Whoa! | 24.00% | ~32 |
 | Botropolis | 22.00% | ~29 |
 | Steam Powered | 16.00% | ~21 |
 | Steaming Rich | 16.00% | ~21 |
-| Manic Mechanic | 13.00% | ~17 |
-| Room To Spare | 11.00% | ~15 |
+| Manic Mechanic | 14.00% | ~19 |
+| Room To Spare | 12.00% | ~16 |
 | Click 'Em All | 4.00% | ~5 |
 | Real Purdy | 4.00% | ~5 |
 | Stack Overflow | 4.00% | ~5 |

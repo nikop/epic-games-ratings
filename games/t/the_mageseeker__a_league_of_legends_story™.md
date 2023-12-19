@@ -5,22 +5,22 @@ Rating: 4.79 (Ranked 99)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,719 |
-| No more cages! | 91.00% | ~2,604 |
-| Everfrost | 78.00% | ~2,232 |
-| Pentakill | 77.00% | ~2,204 |
-| Dark Forest | 77.00% | ~2,204 |
-| The use of petricite | 74.00% | ~2,118 |
+| For Demacia | 95.00% | ~2,720 |
+| No more cages! | 91.00% | ~2,605 |
+| Everfrost | 78.00% | ~2,233 |
+| Pentakill | 77.00% | ~2,205 |
+| Dark Forest | 77.00% | ~2,205 |
+| The use of petricite | 74.00% | ~2,119 |
 | You can pet the dog | 61.00% | ~1,746 |
 | Thornbarrow | 40.00% | ~1,145 |
-| Big Helmet Bro | 39.00% | ~1,116 |
-| Clarion Cove | 39.00% | ~1,116 |
+| Big Helmet Bro | 39.00% | ~1,117 |
+| Clarion Cove | 39.00% | ~1,117 |
 | Elemental master | 37.00% | ~1,059 |
 | Past trauma | 37.00% | ~1,059 |
 | Ternmoat Headquarters | 37.00% | ~1,059 |
 | Cypress Glen Headquarters | 34.00% | ~973 |
-| Petricite Burst | 33.00% | ~944 |
-| Old friend | 31.00% | ~887 |
+| Petricite Burst | 33.00% | ~945 |
+| Old friend | 31.00% | ~888 |
 | Hijack | 30.00% | ~859 |
 | Devineur | 30.00% | ~859 |
 | Whispers in the Woods I | 27.00% | ~773 |
@@ -50,7 +50,7 @@ Rating: 4.79 (Ranked 99)
 | The Great City of Demacia | 13.00% | ~372 |
 | Truth is a dark mirror | 13.00% | ~372 |
 | Call it 'redistribution of magic | 13.00% | ~372 |
-| Back to sleep, then... | 12.00% | ~343 |
+| Back to sleep, then... | 12.00% | ~344 |
 | Do you trust me? | 11.00% | ~315 |
 | Chains master | 11.00% | ~315 |
 | The great mage rebellion starts now | 11.00% | ~315 |
@@ -59,7 +59,7 @@ Rating: 4.79 (Ranked 99)
 | Silverwing nest | 2.00% | ~57 |
 | The Unshackled | 1.00% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,862 (Ranked 218)  
+Progressed: 2,863 (Ranked 218)  
 Completed: 16 (0.56%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,6 +249,7 @@ Completed: 16 (0.56%) (Ranked 206)
 | 2023-12-16 | 2,805 | 16 |
 | 2023-12-17 | 2,836 | 16 |
 | 2023-12-18 | 2,862 | 16 |
+| 2023-12-19 | 2,863 | 16 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

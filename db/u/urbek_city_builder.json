@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 431,
+  "EOS_Progressed": 432,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1490,6 +1490,11 @@
       "Time": "2023-12-18T22:09:45.876203+00:00",
       "NumProgressed": 431,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T01:57:01.373979+00:00",
+      "NumProgressed": 432,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -1717,7 +1722,7 @@
       "Name": "The spiritual world...",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "FAITH_2",
@@ -2132,7 +2137,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 431,
+      "Progressed": 432,
       "Completed": 0
     }
   ],
@@ -2140,8 +2145,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-12-19T00:09:33.8039013+00:00",
+  "LastChanged_Achievements": "2023-12-19T01:57:01.3739788+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:36.321847+00:00",
-  "LastUpdate_Ratings": "2023-12-18T23:59:07.8736582+00:00",
-  "LastUpdate_Achievements": "2023-12-19T00:09:33.8039772+00:00"
+  "LastUpdate_Ratings": "2023-12-19T01:46:38.4549839+00:00",
+  "LastUpdate_Achievements": "2023-12-19T01:57:01.374044+00:00"
 }

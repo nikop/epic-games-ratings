@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1500,9 +1500,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 25498,
+  "EOS_Progressed": 25504,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 1801,
+  "EOS_NewPlayers": 1807,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -11020,6 +11020,11 @@
       "Time": "2023-12-19T00:09:12.5285014+00:00",
       "NumProgressed": 25498,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-19T01:56:39.8977117+00:00",
+      "NumProgressed": 25504,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -11055,7 +11060,7 @@
       "Name": "Full House",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "AllRunes",
@@ -11063,7 +11068,7 @@
       "Name": "Pillow Investments",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "AllScarsBronze",
@@ -11071,7 +11076,7 @@
       "Name": "Erebus Purified",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "AllSkills",
@@ -11079,7 +11084,7 @@
       "Name": "Looks Familiar",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "BossBridgeAdvancedDefeated",
@@ -11087,7 +11092,7 @@
       "Name": "For Justice",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "BossBridgeDefeated",
@@ -11119,7 +11124,7 @@
       "Name": "For Wrath",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "BossCaveDefeated",
@@ -11199,7 +11204,7 @@
       "Name": "For Pride",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "BossTowerDefeated",
@@ -11215,7 +11220,7 @@
       "Name": "K.O.",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "EnableHouseRules",
@@ -11231,7 +11236,7 @@
       "Name": "It Was Just an Estimate",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "FifteenLivesEasy",
@@ -11303,7 +11308,7 @@
       "Name": "Just the Beginning",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "StoryTutorial",
@@ -11311,7 +11316,7 @@
       "Name": "Wasted Betrayal",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "TitleDrop",
@@ -11319,7 +11324,7 @@
       "Name": "Had to Do It",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "UnlockHighMastery",
@@ -11335,28 +11340,28 @@
       "Name": "Color Coordination",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 25498,
+      "Progressed": 25504,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 4428,
+      "Progressed": 4434,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-07T09:58:25.2813813+00:00",
-  "LastChanged_Achievements": "2023-12-19T00:09:12.5285011+00:00",
+  "LastChanged_Achievements": "2023-12-19T01:56:39.8977114+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:44.2937948+00:00",
-  "LastUpdate_Ratings": "2023-12-18T23:57:17.7261416+00:00",
-  "LastUpdate_Achievements": "2023-12-19T00:09:12.5285663+00:00"
+  "LastUpdate_Ratings": "2023-12-19T01:44:45.3167573+00:00",
+  "LastUpdate_Achievements": "2023-12-19T01:56:39.8977778+00:00"
 }

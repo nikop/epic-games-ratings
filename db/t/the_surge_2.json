@@ -2,7 +2,7 @@
   "ID": "effee7c2775148e9a99f5685d29751d2",
   "Name": "The Surge 2",
   "ProductSlug": "the-surge-2-e7df70",
-  "Ranking_Rating": 881,
+  "Ranking_Rating": 882,
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 228,
@@ -288,9 +288,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2293,
+  "EOS_Progressed": 2294,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -3568,6 +3568,11 @@
       "Time": "2023-12-18T23:05:30.5665559+00:00",
       "NumProgressed": 2293,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-19T01:52:13.8757222+00:00",
+      "NumProgressed": 2294,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3579,7 +3584,7 @@
       "Name": "A Little Banged Up",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ACHV_02",
@@ -3587,7 +3592,7 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1513
+      "UsersEstimate": 1514
     },
     {
       "ID": "ACHV_03",
@@ -3611,7 +3616,7 @@
       "Name": "Studied The Blade",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "ACHV_06",
@@ -3619,7 +3624,7 @@
       "Name": "Home Invasion",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "ACHV_07",
@@ -3707,15 +3712,15 @@
       "Name": "Following In Their Footsteps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ACHV_18",
       "SetID": "8p5mlmc",
       "Name": "True Survivor",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 504
+      "UsersEstimate": 482
     },
     {
       "ID": "ACHV_19",
@@ -3723,7 +3728,7 @@
       "Name": "Defense in Depth",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ACHV_20",
@@ -3755,7 +3760,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     },
     {
       "ID": "ACHV_24",
@@ -3779,7 +3784,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1834
+      "UsersEstimate": 1835
     },
     {
       "ID": "ACHV_27",
@@ -3849,9 +3854,9 @@
       "ID": "ACHV_35",
       "SetID": "8p5mlmc",
       "Name": "Sleeping With The Fishes",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 803
+      "UsersEstimate": 826
     },
     {
       "ID": "ACHV_36",
@@ -3865,9 +3870,9 @@
       "ID": "ACHV_37",
       "SetID": "8p5mlmc",
       "Name": "Luminary",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 527
+      "UsersEstimate": 505
     },
     {
       "ID": "ACHV_38",
@@ -3899,7 +3904,7 @@
       "Name": "Suited and Booted",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     },
     {
       "ID": "ACHV_42",
@@ -3931,7 +3936,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "ACHV_46",
@@ -4034,7 +4039,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2293,
+      "Progressed": 2294,
       "Completed": 13
     }
   ],
@@ -4042,8 +4047,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-17T06:57:54.8643494+00:00",
-  "LastChanged_Achievements": "2023-12-19T00:04:31.9120034+00:00",
+  "LastChanged_Achievements": "2023-12-19T01:52:13.8757219+00:00",
   "LastUpdate_AppInfo": "2023-12-16T16:57:00.284762+00:00",
-  "LastUpdate_Ratings": "2023-12-18T23:58:34.2130546+00:00",
-  "LastUpdate_Achievements": "2023-12-19T00:04:31.9120523+00:00"
+  "LastUpdate_Ratings": "2023-12-19T01:46:04.0584121+00:00",
+  "LastUpdate_Achievements": "2023-12-19T01:52:13.8757771+00:00"
 }

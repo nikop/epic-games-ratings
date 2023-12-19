@@ -2,9 +2,9 @@
   "ID": "ad3283cc38a64db89c010975976948de",
   "Name": "Buddy and Friends in Halloween",
   "ProductSlug": "buddy-and-friends-in-halloween-192190",
-  "Ranking_EOS_Progress": 537,
-  "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_Progress": 534,
+  "Ranking_EOS_Completed": 58,
+  "Ranking_EOS_NewPlayers": 348,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-24T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 42,
+  "EOS_Progressed": 43,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.14,
+  "EOS_Completed_Percentage": 6.98,
   "EosHistory": [
     {
       "Time": "2023-09-27T22:06:15.8881954+00:00",
@@ -239,6 +239,11 @@
       "Time": "2023-12-18T18:07:45.0577908+00:00",
       "NumProgressed": 42,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-19T01:53:35.499677+00:00",
+      "NumProgressed": 43,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-27T20:05:04.1724035+00:00",
@@ -257,15 +262,15 @@
       "ID": "LEVEL_060_001",
       "SetID": "5g7b0mb",
       "Name": "Mirror - 60 pieces",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "LEVEL_060_002",
       "SetID": "5g7b0mb",
       "Name": "Doors - 60 pieces",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 5,
       "UsersEstimate": 27
     },
@@ -273,7 +278,7 @@
       "ID": "LEVEL_060_003",
       "SetID": "5g7b0mb",
       "Name": "Sidewalk - 60 pieces",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 5,
       "UsersEstimate": 22
     },
@@ -281,7 +286,7 @@
       "ID": "LEVEL_060_004",
       "SetID": "5g7b0mb",
       "Name": "Alley - 60 pieces",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 5,
       "UsersEstimate": 18
     },
@@ -289,7 +294,7 @@
       "ID": "LEVEL_060_005",
       "SetID": "5g7b0mb",
       "Name": "Grass - 60 pieces",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 5,
       "UsersEstimate": 19
     },
@@ -305,7 +310,7 @@
       "ID": "LEVEL_135_001",
       "SetID": "5g7b0mb",
       "Name": "Mirror - 135 pieces",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -353,7 +358,7 @@
       "ID": "LEVEL_240_001",
       "SetID": "5g7b0mb",
       "Name": "Mirror - 240 pieces",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
       "UsersEstimate": 7
     },
@@ -449,7 +454,7 @@
       "ID": "LEVEL_540_001",
       "SetID": "5g7b0mb",
       "Name": "Mirror - 540 pieces",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -457,7 +462,7 @@
       "ID": "LEVEL_540_002",
       "SetID": "5g7b0mb",
       "Name": "Doors - 540 pieces",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -481,7 +486,7 @@
       "ID": "LEVEL_540_005",
       "SetID": "5g7b0mb",
       "Name": "Grass - 540 pieces",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 100,
       "UsersEstimate": 4
     },
@@ -498,14 +503,14 @@
     {
       "ID": "5g7b0mb",
       "IsBase": true,
-      "Progressed": 42,
+      "Progressed": 43,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-25T11:59:09.0555301+00:00",
   "FirstSeenAchievements": "2023-09-22T13:08:37.9195504+00:00",
-  "LastChanged_Achievements": "2023-12-19T00:05:56.8504341+00:00",
+  "LastChanged_Achievements": "2023-12-19T01:53:35.4996766+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:12.2170732+00:00",
-  "LastUpdate_Ratings": "2023-12-18T23:59:21.5025274+00:00",
-  "LastUpdate_Achievements": "2023-12-19T00:05:56.8504558+00:00"
+  "LastUpdate_Ratings": "2023-12-19T01:46:51.4580595+00:00",
+  "LastUpdate_Achievements": "2023-12-19T01:53:35.4996973+00:00"
 }

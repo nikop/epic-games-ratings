@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -637,9 +637,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3538,
+  "EOS_Progressed": 3540,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 259,
+  "EOS_NewPlayers": 260,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -10182,6 +10182,11 @@
       "Time": "2023-12-19T00:05:36.466462+00:00",
       "NumProgressed": 3538,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-19T01:53:14.6092588+00:00",
+      "NumProgressed": 3540,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -10257,7 +10262,7 @@
       "Name": "Challenger",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "conqueror",
@@ -10281,7 +10286,7 @@
       "Name": "Daily Quest Completionist",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "doingmypart",
@@ -10289,7 +10294,7 @@
       "Name": "Doing My Part",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "dragonclicker",
@@ -10377,7 +10382,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1486
+      "UsersEstimate": 1487
     },
     {
       "ID": "fourleafclover",
@@ -10401,7 +10406,7 @@
       "Name": "Full Party",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "gearenchanting",
@@ -10441,7 +10446,7 @@
       "Name": "Hero inspection",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "howdoyouturnthison",
@@ -10457,7 +10462,7 @@
       "Name": "Hunter",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "inspection",
@@ -10465,7 +10470,7 @@
       "Name": "Inspection",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "jewelenchanting",
@@ -10585,7 +10590,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1875
+      "UsersEstimate": 1876
     },
     {
       "ID": "prestigiousx10",
@@ -10649,7 +10654,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 1981
+      "UsersEstimate": 1982
     },
     {
       "ID": "thealchemist",
@@ -10689,7 +10694,7 @@
       "Name": "The power of Awakening",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "theunstoppable",
@@ -10753,7 +10758,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3290
+      "UsersEstimate": 3292
     },
     {
       "ID": "warmachinesarmy",
@@ -10785,14 +10790,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2760
+      "UsersEstimate": 2761
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3538,
+      "Progressed": 3540,
       "Completed": 2
     }
   ],
@@ -10800,8 +10805,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-17T09:00:20.6514627+00:00",
-  "LastChanged_Achievements": "2023-12-19T00:05:36.4664617+00:00",
+  "LastChanged_Achievements": "2023-12-19T01:53:14.6092586+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:13.7887636+00:00",
-  "LastUpdate_Ratings": "2023-12-19T00:00:20.7523275+00:00",
-  "LastUpdate_Achievements": "2023-12-19T00:05:36.4665567+00:00"
+  "LastUpdate_Ratings": "2023-12-19T01:49:40.6386977+00:00",
+  "LastUpdate_Achievements": "2023-12-19T01:53:14.6093613+00:00"
 }

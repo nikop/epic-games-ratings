@@ -1,7 +1,7 @@
 # Song of Nunu: A League of Legends Story
 [Store](https://store.epicgames.com/en-US/p/song-of-nunu-a-league-of-legends-story)  
 [View Rawdata](../../db/s/song_of_nunu__a_league_of_legends_story™.json)  
-Rating: 4.48 (Ranked 637)  
+Rating: 4.48 (Ranked 638)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -24,15 +24,15 @@ Rating: 4.48 (Ranked 637)
 | The Relentless Storm | 46.00% | ~566 |
 | A Tragic Reminder | 44.00% | ~541 |
 | 3000 Year Blackout | 44.00% | ~541 |
+| So Close | 42.00% | ~517 |
 | The Finisher | 42.00% | ~517 |
-| So Close | 41.00% | ~504 |
 | You Get Used To It | 41.00% | ~504 |
 | Family | 39.00% | ~480 |
+| Biggest Snowball Ever | 39.00% | ~480 |
 | True Legends | 39.00% | ~480 |
 | Boosted! | 39.00% | ~480 |
-| Biggest Snowball Ever | 38.00% | ~467 |
+| Deadliest and Biggest Snowball Ever! | 39.00% | ~480 |
 | Freeze The Ice Witch | 38.00% | ~467 |
-| Deadliest and Biggest Snowball Ever! | 38.00% | ~467 |
 | Bullseye | 36.00% | ~443 |
 | It Is Not Over | 35.00% | ~430 |
 | On The Rocks | 34.00% | ~418 |

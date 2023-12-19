@@ -2,7 +2,7 @@
   "ID": "b04882669b2e495e9f747c8560488c93",
   "Name": "Trackmania",
   "ProductSlug": "trackmania",
-  "Ranking_Rating": 296,
+  "Ranking_Rating": 295,
   "Ranking_Popularity": 83,
   "Ranking_PopularitySum": 40,
   "Ranking_EOS_Progress": 809,
@@ -14670,10 +14670,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 34051,
       "NumberOfAwardsMax": 4201
+    },
+    {
+      "Time": "2023-12-19T01:45:51.6322039+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 34065,
+      "NumberOfAwardsMax": 4201
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 34051,
+  "NumberOfAwards": 34065,
   "NumberOfAwardsMax": 4201,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -14693,7 +14699,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 4137
+      "Count": 4145
     },
     {
       "Text": "This game is Extremely Fun",
@@ -14729,7 +14735,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 2774
+      "Count": 2778
     },
     {
       "Text": "This game has Challenging Combat",
@@ -14747,7 +14753,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1735
+      "Count": 1737
     }
   ],
   "EOS_Progressed": 0,
@@ -14761,8 +14767,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2023-12-18T19:58:14.5106415+00:00",
+  "LastChanged": "2023-12-19T01:45:51.6322037+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:05.3789885+00:00",
-  "LastUpdate_Ratings": "2023-12-18T23:58:22.0370485+00:00",
-  "LastUpdate_Achievements": "2023-12-19T00:09:11.0262118+00:00"
+  "LastUpdate_Ratings": "2023-12-19T01:45:51.6322046+00:00",
+  "LastUpdate_Achievements": "2023-12-19T01:56:38.4011488+00:00"
 }

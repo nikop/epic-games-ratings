@@ -2,7 +2,7 @@
   "ID": "c749cd78da34408d8434a46271f4bb79",
   "Name": "Saturnalia",
   "ProductSlug": "saturnalia",
-  "Ranking_Rating": 881,
+  "Ranking_Rating": 882,
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 106,
@@ -273,9 +273,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69437,
+  "EOS_Progressed": 69440,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 243,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17948,6 +17948,11 @@
       "Time": "2023-12-19T00:05:33.8218575+00:00",
       "NumProgressed": 69437,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-19T01:53:11.8677803+00:00",
+      "NumProgressed": 69440,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 20,
@@ -18063,7 +18068,7 @@
       "Name": "Phone Bill",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "ACH_READCLUES",
@@ -18095,7 +18100,7 @@
       "Name": "Out of Shape",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2777
+      "UsersEstimate": 2778
     },
     {
       "ID": "ACH_TECLAMISSION",
@@ -18118,7 +18123,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 69437,
+      "Progressed": 69440,
       "Completed": 18
     }
   ],
@@ -18126,8 +18131,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-11-04T14:58:39.1316469+00:00",
-  "LastChanged_Achievements": "2023-12-19T00:05:33.8218572+00:00",
+  "LastChanged_Achievements": "2023-12-19T01:53:11.8677799+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:13.0571911+00:00",
-  "LastUpdate_Ratings": "2023-12-18T23:57:26.0211625+00:00",
-  "LastUpdate_Achievements": "2023-12-19T00:05:33.821944+00:00"
+  "LastUpdate_Ratings": "2023-12-19T01:44:53.7112768+00:00",
+  "LastUpdate_Achievements": "2023-12-19T01:53:11.8678674+00:00"
 }

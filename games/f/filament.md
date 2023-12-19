@@ -1,18 +1,18 @@
 # Filament
 [Store](https://store.epicgames.com/en-US/p/filament-332a92)  
 [View Rawdata](../../db/f/filament.json)  
-Rating: 4.33 (Ranked 826)  
+Rating: 4.33 (Ranked 827)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Boarded! | 94.00% | ~194,877 |
+| Boarded! | 94.00% | ~194,880 |
 | Snooper. | 10.00% | ~20,732 |
-| You have to start somewhere, right? | 8.00% | ~16,585 |
+| You have to start somewhere, right? | 8.00% | ~16,586 |
 | So you're saying I don't touch these ones? | 6.00% | ~12,439 |
 | Corrupted. | 5.00% | ~10,366 |
 | Good things come in pairs... Coloured Pairs. | 5.00% | ~10,366 |
-| Answers can be found amongst the stars | 3.00% | ~6,219 |
-| Bend to the will of the arrows. | 3.00% | ~6,219 |
+| Answers can be found amongst the stars | 3.00% | ~6,220 |
+| Bend to the will of the arrows. | 3.00% | ~6,220 |
 | You've been through a lot. | 2.00% | ~4,146 |
 | People's feelings on these ones are very... Binary... | 2.00% | ~4,146 |
 | I hope you're ready. | 2.00% | ~4,146 |
@@ -35,7 +35,7 @@ Rating: 4.33 (Ranked 826)
 | Snooper + | 0.50% | ~1,037 |
 | Corrupted + | 0.40% | ~829 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 207,316 (Ranked 74)  
+Progressed: 207,319 (Ranked 74)  
 Completed: 543 (0.26%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,10 +278,11 @@ Completed: 543 (0.26%) (Ranked 256)
 | 2023-12-16 | 207,184 | 543 |
 | 2023-12-17 | 207,254 | 543 |
 | 2023-12-18 | 207,316 | 543 |
+| 2023-12-19 | 207,319 | 543 |
 ## Awards
 Max (Challenging Puzzles): 579  (Ranked 205)  
-Sum: 694 (Ranked 302)  
-Diff (max vs sum): -97  
+Sum: 694 (Ranked 303)  
+Diff (max vs sum): -98  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 579 |

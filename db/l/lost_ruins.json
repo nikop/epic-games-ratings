@@ -3,7 +3,7 @@
   "Name": "Lost Ruins",
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 324,
-  "Ranking_EOS_Completed": 274,
+  "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 553,
+  "EOS_Progressed": 554,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1309,6 +1309,11 @@
       "Time": "2023-12-19T00:09:31.3222313+00:00",
       "NumProgressed": 553,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T01:56:58.7607902+00:00",
+      "NumProgressed": 554,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1400,7 +1405,7 @@
       "Name": "Goblin Tales",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "Hardboiled",
@@ -1639,7 +1644,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 553,
+      "Progressed": 554,
       "Completed": 1
     }
   ],
@@ -1647,8 +1652,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-19T00:09:31.3222312+00:00",
+  "LastChanged_Achievements": "2023-12-19T01:56:58.76079+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:31.304442+00:00",
-  "LastUpdate_Ratings": "2023-12-18T23:58:57.0089535+00:00",
-  "LastUpdate_Achievements": "2023-12-19T00:09:31.3222562+00:00"
+  "LastUpdate_Ratings": "2023-12-19T01:46:27.2030743+00:00",
+  "LastUpdate_Achievements": "2023-12-19T01:56:58.7608216+00:00"
 }

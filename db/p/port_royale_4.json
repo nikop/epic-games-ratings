@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -3350,17 +3350,17 @@
       "ID": "ACH040",
       "SetID": "69nfp41",
       "Name": "Master \u0026 Commander",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH041",
       "SetID": "69nfp41",
       "Name": "Davy Jones\u0027 locker",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH042",
@@ -3438,8 +3438,8 @@
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-11-01T22:59:02.448108+00:00",
-  "LastChanged_Achievements": "2023-12-19T00:03:25.5405139+00:00",
+  "LastChanged_Achievements": "2023-12-19T01:51:06.7969999+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:34.3980229+00:00",
-  "LastUpdate_Ratings": "2023-12-18T23:57:43.9975437+00:00",
-  "LastUpdate_Achievements": "2023-12-19T00:03:25.5405621+00:00"
+  "LastUpdate_Ratings": "2023-12-19T01:45:11.7440988+00:00",
+  "LastUpdate_Achievements": "2023-12-19T01:51:06.797087+00:00"
 }

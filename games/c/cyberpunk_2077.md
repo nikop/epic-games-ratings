@@ -1,29 +1,29 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.66 (Ranked 296)  
+Rating: 4.66 (Ranked 295)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,417 |
-| Gun Fu | 8.00% | ~78,278 |
-| The Fool | 7.00% | ~68,493 |
-| Right Back At Ya | 6.00% | ~58,709 |
-| The Lovers | 5.00% | ~48,924 |
-| Full Body Conversion | 4.00% | ~39,139 |
-| Stanislavski's Method | 4.00% | ~39,139 |
-| The Hermit | 4.00% | ~39,139 |
-| The Wheel of Fortune | 4.00% | ~39,139 |
-| True Soldier | 4.00% | ~39,139 |
-| All the President's Men | 4.00% | ~4,284 |
-| Arachnophobia | 4.00% | ~4,284 |
-| Christmas Tree Attack | 3.00% | ~29,354 |
-| Life of the Road | 3.00% | ~29,354 |
-| The High Priestess | 3.00% | ~29,354 |
-| True Warrior | 3.00% | ~29,354 |
-| Legend of The Afterlife | 3.00% | ~29,354 |
-| Relic Ruler | 3.00% | ~3,213 |
+| V for Vendetta | 12.00% | ~117,420 |
+| Gun Fu | 8.00% | ~78,280 |
+| The Fool | 7.00% | ~68,495 |
+| Right Back At Ya | 6.00% | ~58,710 |
+| The Lovers | 5.00% | ~48,925 |
+| Full Body Conversion | 4.00% | ~39,140 |
+| Stanislavski's Method | 4.00% | ~39,140 |
+| The Hermit | 4.00% | ~39,140 |
+| The Wheel of Fortune | 4.00% | ~39,140 |
+| True Soldier | 4.00% | ~39,140 |
+| All the President's Men | 4.00% | ~4,285 |
+| Arachnophobia | 4.00% | ~4,285 |
+| Christmas Tree Attack | 3.00% | ~29,355 |
+| Life of the Road | 3.00% | ~29,355 |
+| The High Priestess | 3.00% | ~29,355 |
+| True Warrior | 3.00% | ~29,355 |
+| Legend of The Afterlife | 3.00% | ~29,355 |
+| Relic Ruler | 3.00% | ~3,214 |
 | Bushido and Chill | 2.00% | ~19,570 |
 | To Protect and Serve | 2.00% | ~19,570 |
 | Master Crafter | 2.00% | ~19,570 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 978,478 (Ranked 16)  
+Progressed: 978,496 (Ranked 16)  
 Completed: 2,935 (0.30%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 2,935 (0.30%) (Ranked 246)
 | 2023-12-16 | 977,366 | 2,924 |
 | 2023-12-17 | 978,015 | 2,930 |
 | 2023-12-18 | 978,465 | 2,935 |
-| 2023-12-19 | 978,478 | 2,935 |
+| 2023-12-19 | 978,496 | 2,935 |
 ## Awards
 Max (Character Customization): 124,846  (Ranked 8)  
 Sum: 429,396 (Ranked 9)  

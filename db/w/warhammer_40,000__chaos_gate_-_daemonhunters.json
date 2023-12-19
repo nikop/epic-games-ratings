@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
   "Ranking_Rating": 456,
   "Ranking_Popularity": 278,
-  "Ranking_PopularitySum": 333,
+  "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 206,
@@ -795,9 +795,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3465,
+  "EOS_Progressed": 3468,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4470,6 +4470,11 @@
       "Time": "2023-12-19T00:04:48.5052095+00:00",
       "NumProgressed": 3465,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T01:52:30.4333426+00:00",
+      "NumProgressed": 3468,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4687,9 +4692,9 @@
       "ID": "Kills_FriendlyFire",
       "SetID": "3jha1np",
       "Name": "Friendly Fire",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 139
     },
     {
       "ID": "Kills_Interactable",
@@ -4705,7 +4710,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "Kills_Streak",
@@ -4887,9 +4892,9 @@
       "ID": "ReaperDefeated_Mortus",
       "SetID": "3jha1np",
       "Name": "Harvest No More",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 24
     },
     {
       "ID": "ReaperDefeated_Necrosus",
@@ -4951,9 +4956,9 @@
       "ID": "AllAssassinsAcquired",
       "SetID": "2im8phi",
       "Name": "Execution Force",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 35
     },
     {
       "ID": "ExperiencedCallidus",
@@ -5024,21 +5029,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3465,
+      "Progressed": 3468,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3465,
+      "Progressed": 3468,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-16T13:05:46.2808+00:00",
-  "LastChanged_Achievements": "2023-12-19T00:04:48.5052092+00:00",
+  "LastChanged_Achievements": "2023-12-19T01:52:30.4333423+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:54.7152084+00:00",
-  "LastUpdate_Ratings": "2023-12-19T00:02:49.0331114+00:00",
-  "LastUpdate_Achievements": "2023-12-19T00:04:48.5052687+00:00"
+  "LastUpdate_Ratings": "2023-12-19T01:50:29.0328778+00:00",
+  "LastUpdate_Achievements": "2023-12-19T01:52:30.4334348+00:00"
 }

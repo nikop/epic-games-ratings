@@ -3491,7 +3491,7 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18617,
+  "EOS_Progressed": 18621,
   "EOS_Completed": 39,
   "EOS_NewPlayers": 659,
   "EOS_NewCompleters": -1,
@@ -16241,6 +16241,11 @@
       "Time": "2023-12-19T00:05:05.9870346+00:00",
       "NumProgressed": 18617,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-19T01:52:47.7192061+00:00",
+      "NumProgressed": 18621,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16315,9 +16320,9 @@
       "ID": "ManyEvents",
       "SetID": "cfbk359",
       "Name": "Efficient Explorer",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 93
     },
     {
       "ID": "MetalChain",
@@ -16724,15 +16729,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18617,
+      "Progressed": 18621,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-18T15:58:52.7202576+00:00",
-  "LastChanged_Achievements": "2023-12-19T00:05:05.9870343+00:00",
+  "LastChanged_Achievements": "2023-12-19T01:52:47.7192057+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
-  "LastUpdate_Ratings": "2023-12-18T23:58:18.0554657+00:00",
-  "LastUpdate_Achievements": "2023-12-19T00:05:05.9871157+00:00"
+  "LastUpdate_Ratings": "2023-12-19T01:45:46.8100056+00:00",
+  "LastUpdate_Achievements": "2023-12-19T01:52:47.7193191+00:00"
 }

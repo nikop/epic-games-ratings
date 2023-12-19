@@ -19,7 +19,7 @@
 | A Tradition Unlike Any Other | 23.00% | ~152 |
 | Golf's Original Championship | 23.00% | ~152 |
 | A Passion for Excellence | 22.00% | ~145 |
-| The Ultimate Prize | 16.00% | ~105 |
+| The Ultimate Prize | 17.00% | ~112 |
 | Golfer Versus Golfer | 13.00% | ~86 |
 | Victory Lap | 8.00% | ~53 |
 ## Popularity (Based on EOS Achievements)

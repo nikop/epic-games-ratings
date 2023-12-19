@@ -466,9 +466,9 @@
       "ID": "g2",
       "SetID": "b1ggf28",
       "Name": "Efficient Tools",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "g3",
@@ -538,9 +538,9 @@
       "ID": "jk2",
       "SetID": "b1ggf28",
       "Name": "Saving Lives",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "jk3",
@@ -586,9 +586,9 @@
       "ID": "k2",
       "SetID": "b1ggf28",
       "Name": "Practice Makes Perfect",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "k3",
@@ -602,9 +602,9 @@
       "ID": "m1",
       "SetID": "b1ggf28",
       "Name": "Animal Imports",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "m2",
@@ -674,9 +674,9 @@
       "ID": "w2",
       "SetID": "b1ggf28",
       "Name": "Efficient Heating",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "w3",
@@ -698,9 +698,9 @@
       "ID": "x2",
       "SetID": "b1ggf28",
       "Name": "Hard-Drinking",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "x3",
@@ -769,8 +769,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-19T00:05:09.0012545+00:00",
+  "LastChanged_Achievements": "2023-12-19T01:52:51.0793299+00:00",
   "LastUpdate_AppInfo": "2023-12-13T03:56:57.6568972+00:00",
-  "LastUpdate_Ratings": "2023-12-19T00:02:35.5017693+00:00",
-  "LastUpdate_Achievements": "2023-12-19T00:05:09.0012939+00:00"
+  "LastUpdate_Ratings": "2023-12-19T01:49:54.974163+00:00",
+  "LastUpdate_Achievements": "2023-12-19T01:52:51.0793744+00:00"
 }

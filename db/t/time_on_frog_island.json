@@ -4,7 +4,7 @@
   "ProductSlug": "time-on-frog-island-b3ad0d",
   "Ranking_EOS_Progress": 564,
   "Ranking_EOS_Completed": 101,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-07-12T13:00:00+00:00",
@@ -201,9 +201,9 @@
       "ID": "a11",
       "SetID": "cdg65ol",
       "Name": "Socialite",
-      "Percentage": 17,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "a12",
@@ -281,9 +281,9 @@
       "ID": "a20",
       "SetID": "cdg65ol",
       "Name": "Couch-surfing",
-      "Percentage": 14,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "a21",
@@ -474,8 +474,8 @@
   "FirstSeenRating": "2023-03-31T05:58:16.4143103+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:44.2276989+00:00",
   "LastChanged": "2023-03-31T05:58:16.4143104+00:00",
-  "LastChanged_Achievements": "2023-12-19T00:03:45.9099015+00:00",
+  "LastChanged_Achievements": "2023-12-19T01:51:27.363802+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:44.9136577+00:00",
-  "LastUpdate_Ratings": "2023-12-19T00:02:34.5985662+00:00",
-  "LastUpdate_Achievements": "2023-12-19T00:03:45.9099403+00:00"
+  "LastUpdate_Ratings": "2023-12-19T01:49:53.9948786+00:00",
+  "LastUpdate_Achievements": "2023-12-19T01:51:27.3638296+00:00"
 }

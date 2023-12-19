@@ -2,13 +2,13 @@
   "ID": "35eda4ff87f94a7491dc28175b8f3b4f",
   "Name": "Eternal Threads",
   "ProductSlug": "eternal-threads-197169",
-  "Ranking_Rating": 826,
+  "Ranking_Rating": 827,
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2022-05-19T14:00:00+00:00",
@@ -257,11 +257,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15800,
-  "EOS_Completed": 68,
-  "EOS_NewPlayers": 1811,
-  "EOS_NewCompleters": 17,
-  "EOS_Completed_Percentage": 0.43,
+  "EOS_Progressed": 15804,
+  "EOS_Completed": 69,
+  "EOS_NewPlayers": 1799,
+  "EOS_NewCompleters": 18,
+  "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
     {
       "Time": "2023-10-19T17:06:35.017307+00:00",
@@ -4867,6 +4867,11 @@
       "Time": "2023-12-19T00:05:37.1957899+00:00",
       "NumProgressed": 15800,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-12-19T01:53:15.4110444+00:00",
+      "NumProgressed": 15804,
+      "NumCompleted": 69
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -4958,16 +4963,16 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 15800,
-      "Completed": 68
+      "Progressed": 15804,
+      "Completed": 69
     }
   ],
   "FirstSeen": "2023-10-19T17:59:40.5875906+00:00",
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2023-12-18T03:58:42.6359817+00:00",
-  "LastChanged_Achievements": "2023-12-19T00:05:37.1957896+00:00",
+  "LastChanged_Achievements": "2023-12-19T01:53:15.411044+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:09.5453569+00:00",
-  "LastUpdate_Ratings": "2023-12-18T23:58:32.2527231+00:00",
-  "LastUpdate_Achievements": "2023-12-19T00:05:37.1958207+00:00"
+  "LastUpdate_Ratings": "2023-12-19T01:46:02.0971086+00:00",
+  "LastUpdate_Achievements": "2023-12-19T01:53:15.4110727+00:00"
 }

@@ -985,9 +985,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 7202,
+  "EOS_Progressed": 7203,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 432,
+  "EOS_NewPlayers": 433,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11555,6 +11555,11 @@
       "Time": "2023-12-18T23:06:37.7981265+00:00",
       "NumProgressed": 7202,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T01:53:04.2543317+00:00",
+      "NumProgressed": 7203,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -11740,9 +11745,9 @@
       "ID": "ACHIEVEMENT_023",
       "SetID": "1a05lfd",
       "Name": "No Fin left to give",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 29
+      "UsersEstimate": 36
     },
     {
       "ID": "ACHIEVEMENT_024",
@@ -11885,13 +11890,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7202,
+      "Progressed": 7203,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 6574,
+      "Progressed": 6575,
       "Completed": 113
     }
   ],
@@ -11899,8 +11904,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-18T19:59:10.2298636+00:00",
-  "LastChanged_Achievements": "2023-12-19T00:05:26.2433625+00:00",
+  "LastChanged_Achievements": "2023-12-19T01:53:04.2543314+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:41.8809727+00:00",
-  "LastUpdate_Ratings": "2023-12-18T23:59:20.4262845+00:00",
-  "LastUpdate_Achievements": "2023-12-19T00:05:26.2434492+00:00"
+  "LastUpdate_Ratings": "2023-12-19T01:46:50.2437866+00:00",
+  "LastUpdate_Achievements": "2023-12-19T01:53:04.2544327+00:00"
 }

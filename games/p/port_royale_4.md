@@ -43,9 +43,9 @@ Number of Ratings: 53  (23.09.2022)
 | Overpopulation | 4.00% | ~44 |
 | Premier Maître | 3.00% | ~33 |
 | Supreme conqueror | 3.00% | ~33 |
+| Master & Commander | 3.00% | ~33 |
 | Strategist | 2.00% | ~22 |
 | The customer is always right | 2.00% | ~22 |
-| Master & Commander | 2.00% | ~22 |
 | All aboard! | 2.00% | ~22 |
 | Gold fever | 2.00% | ~22 |
 | Fill it up, please! | 2.00% | ~22 |
@@ -55,7 +55,7 @@ Number of Ratings: 53  (23.09.2022)
 | Parlay? | 0.90% | ~10 |
 | Fleet Admiral | 0.80% | ~9 |
 | Traffic chaos | 0.70% | ~8 |
-| Davy Jones' locker | 0.30% | ~3 |
+| Davy Jones' locker | 0.40% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,099 (Ranked 270)  
 Completed: 1 (0.09%) (Ranked 308)  

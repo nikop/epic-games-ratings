@@ -2775,9 +2775,9 @@
       "ID": "BreakTheLoop",
       "SetID": "1n308hc",
       "Name": "Break the Loop",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 53
     },
     {
       "ID": "BridgeBuilder",
@@ -2951,9 +2951,9 @@
       "ID": "MuseumVisitor",
       "SetID": "1n308hc",
       "Name": "Museum Visitor",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 200
     },
     {
       "ID": "NewBeginning",
@@ -3079,9 +3079,9 @@
       "ID": "TextAdventurer",
       "SetID": "1n308hc",
       "Name": "Text Adventurer",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "TheAllGifted",
@@ -3111,9 +3111,9 @@
       "ID": "TheHardWay",
       "SetID": "1n308hc",
       "Name": "The Hard Way",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TheSpark",
@@ -3208,8 +3208,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-19T00:03:56.060754+00:00",
+  "LastChanged_Achievements": "2023-12-19T01:51:37.6413962+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-18T23:58:38.4758292+00:00",
-  "LastUpdate_Achievements": "2023-12-19T00:03:56.0608213+00:00"
+  "LastUpdate_Ratings": "2023-12-19T01:46:07.9700856+00:00",
+  "LastUpdate_Achievements": "2023-12-19T01:51:37.6414555+00:00"
 }

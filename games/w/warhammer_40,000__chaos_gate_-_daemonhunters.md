@@ -7,16 +7,16 @@ Number of Ratings: 371  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Executioner | 12.00% | ~416 |
-| Watch Where You Step... | 10.00% | ~346 |
+| Watch Where You Step... | 10.00% | ~347 |
 | Look Over There! | 9.00% | ~312 |
 | Not So Fast... | 9.00% | ~312 |
 | An Ill Omen | 9.00% | ~312 |
 | Blood for the Blood God! | 7.00% | ~243 |
 | Purging Spree | 7.00% | ~243 |
 | Bloodless | 6.00% | ~208 |
-| Friendly Fire | 5.00% | ~173 |
 | Honoured Battle-Brother | 4.00% | ~139 |
 | Surgical Excision | 4.00% | ~139 |
+| Friendly Fire | 4.00% | ~139 |
 | The Emperor Protects | 4.00% | ~139 |
 | A Foul Creche | 4.00% | ~139 |
 | Nemesis Master | 3.00% | ~104 |
@@ -27,7 +27,6 @@ Number of Ratings: 371  (23.09.2022)
 | Corruption Cleanser | 2.00% | ~69 |
 | Efficient Killer | 2.00% | ~69 |
 | A Gift Spurned | 2.00% | ~69 |
-| Execution Force | 2.00% | ~69 |
 | Hive Exterminator | 2.00% | ~69 |
 | Fleetmaster | 1.00% | ~35 |
 | Exterminator | 1.00% | ~35 |
@@ -37,13 +36,14 @@ Number of Ratings: 371  (23.09.2022)
 | Junk Banishment | 1.00% | ~35 |
 | Long Distance Call | 1.00% | ~35 |
 | Tactical Flexibility | 1.00% | ~35 |
+| Execution Force | 1.00% | ~35 |
 | Tactical Sabotage | 1.00% | ~35 |
 | For the Machine God | 0.90% | ~31 |
 | Death Comes For All | 0.90% | ~31 |
 | Patron of Deimos | 0.80% | ~28 |
 | Engine Kill | 0.80% | ~28 |
-| Harvest No More | 0.80% | ~28 |
 | Hands-On Research | 0.70% | ~24 |
+| Harvest No More | 0.70% | ~24 |
 | Strike Force | 0.60% | ~21 |
 | True Mastery | 0.50% | ~17 |
 | Suffer Not the Mutant | 0.50% | ~17 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,465 (Ranked 214)  
+Progressed: 3,468 (Ranked 214)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,11 +287,11 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-16 | 3,433 | 0 |
 | 2023-12-17 | 3,449 | 0 |
 | 2023-12-18 | 3,464 | 0 |
-| 2023-12-19 | 3,465 | 0 |
+| 2023-12-19 | 3,468 | 0 |
 ## Awards
 Max (Character Customization): 229  (Ranked 278)  
-Sum: 490 (Ranked 333)  
-Diff (max vs sum): -55  
+Sum: 490 (Ranked 334)  
+Diff (max vs sum): -56  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 229 |

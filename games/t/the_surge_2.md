@@ -1,24 +1,24 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.26 (Ranked 881)  
+Rating: 4.26 (Ranked 882)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,834 |
+| Rigged And Ready | 80.00% | ~1,835 |
 | Don't I Know You...? | 76.00% | ~1,743 |
-| Jailbreak | 66.00% | ~1,513 |
-| HEADSHOT! | 38.00% | ~871 |
-| Suited and Booted | 38.00% | ~871 |
-| Sleeping With The Fishes | 35.00% | ~803 |
+| Jailbreak | 66.00% | ~1,514 |
+| HEADSHOT! | 38.00% | ~872 |
+| Suited and Booted | 38.00% | ~872 |
+| Sleeping With The Fishes | 36.00% | ~826 |
 | High Performance | 31.00% | ~711 |
 | Overheated | 30.00% | ~688 |
 | Powered Up | 28.00% | ~642 |
-| Studied The Blade | 25.00% | ~573 |
-| Home Invasion | 23.00% | ~527 |
-| Luminary | 23.00% | ~527 |
-| True Survivor | 22.00% | ~504 |
-| It's a Trap | 22.00% | ~504 |
+| Studied The Blade | 25.00% | ~574 |
+| Home Invasion | 23.00% | ~528 |
+| Luminary | 22.00% | ~505 |
+| It's a Trap | 22.00% | ~505 |
+| True Survivor | 21.00% | ~482 |
 | Offensive Defense | 20.00% | ~459 |
 | Shocking | 20.00% | ~459 |
 | Unforeseeable Consequences | 20.00% | ~459 |
@@ -38,9 +38,9 @@ Rating: 4.26 (Ranked 881)
 | Stimulating The Local Economy | 10.00% | ~229 |
 | Triplets | 10.00% | ~229 |
 | Denying Prophecy | 9.00% | ~206 |
-| A Little Banged Up | 8.00% | ~183 |
-| Following In Their Footsteps | 8.00% | ~183 |
-| Defense in Depth | 8.00% | ~183 |
+| A Little Banged Up | 8.00% | ~184 |
+| Following In Their Footsteps | 8.00% | ~184 |
+| Defense in Depth | 8.00% | ~184 |
 | Reverse Engineering | 7.00% | ~161 |
 | Reborn | 6.00% | ~138 |
 | Remote Surgery | 6.00% | ~138 |
@@ -63,7 +63,7 @@ Rating: 4.26 (Ranked 881)
 | Three Birds With One Stone | 1.00% | ~23 |
 | The Easy Way Out | 1.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,293 (Ranked 228)  
+Progressed: 2,294 (Ranked 228)  
 Completed: 13 (0.57%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,6 +243,7 @@ Completed: 13 (0.57%) (Ranked 204)
 | 2023-12-16 | 2,261 | 13 |
 | 2023-12-17 | 2,275 | 13 |
 | 2023-12-18 | 2,293 | 13 |
+| 2023-12-19 | 2,294 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

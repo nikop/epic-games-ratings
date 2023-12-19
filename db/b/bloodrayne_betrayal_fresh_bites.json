@@ -2,9 +2,9 @@
   "ID": "bce5e14327134bbd9f987dc12e220e20",
   "Name": "BloodRayne Betrayal Fresh Bites",
   "ProductSlug": "bloodrayne-betrayal-fresh-bites-8f1012",
-  "Ranking_EOS_Progress": 505,
+  "Ranking_EOS_Progress": 502,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewPlayers": 455,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-11-04T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 63,
+  "EOS_Progressed": 64,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -130,6 +130,11 @@
       "Time": "2023-12-18T18:10:31.615854+00:00",
       "NumProgressed": 63,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T01:56:52.9109315+00:00",
+      "NumProgressed": 64,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -181,13 +186,13 @@
       "Name": "Crab Cakes",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "DropIn",
       "SetID": "6jf74lf",
       "Name": "Drop In",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 13
     },
@@ -205,13 +210,13 @@
       "Name": "Finish Him",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "FlightOfTheRaven",
       "SetID": "6jf74lf",
       "Name": "Flight of the Raven",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
       "UsersEstimate": 15
     },
@@ -237,7 +242,7 @@
       "Name": "Just a Taste",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "LastBullet",
@@ -299,7 +304,7 @@
       "ID": "StrangeSkulls",
       "SetID": "6jf74lf",
       "Name": "Strange Skulls",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 10,
       "UsersEstimate": 37
     },
@@ -315,7 +320,7 @@
       "ID": "TreasureHunter",
       "SetID": "6jf74lf",
       "Name": "Treasure Hunter",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 20,
       "UsersEstimate": 35
     },
@@ -332,7 +337,7 @@
     {
       "ID": "6jf74lf",
       "IsBase": true,
-      "Progressed": 63,
+      "Progressed": 64,
       "Completed": 0
     }
   ],
@@ -340,8 +345,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.7137735+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:16.1017514+00:00",
   "LastChanged": "2023-03-31T05:58:13.7137736+00:00",
-  "LastChanged_Achievements": "2023-12-19T00:09:25.4356389+00:00",
+  "LastChanged_Achievements": "2023-12-19T01:56:52.9109313+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:11.0440495+00:00",
-  "LastUpdate_Ratings": "2023-12-18T23:57:20.9372316+00:00",
-  "LastUpdate_Achievements": "2023-12-19T00:09:25.4356521+00:00"
+  "LastUpdate_Ratings": "2023-12-19T01:44:48.5160241+00:00",
+  "LastUpdate_Achievements": "2023-12-19T01:56:52.9109418+00:00"
 }

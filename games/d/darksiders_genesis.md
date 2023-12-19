@@ -1,7 +1,7 @@
 # Darksiders Genesis
 [Store](https://store.epicgames.com/en-US/p/darksiders-genesis)  
 [View Rawdata](../../db/d/darksiders_genesis.json)  
-Rating: 4.48 (Ranked 637)  
+Rating: 4.49 (Ranked 619)  
 Number of Ratings: 67  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -37,12 +37,13 @@ Number of Ratings: 67  (23.09.2022)
 | Why'd It Have to Be Snakes? | 0.00% | ~0 |
 | Wicked Killington | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39 (Ranked 545)  
+Progressed: 41 (Ranked 540)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-12-18 | 39 | 0 |
+| 2023-12-19 | 41 | 0 |
 ## Awards
 Max (Great Boss Battles): 44  (Ranked 457)  
 Sum: 44 (Ranked 501)  
@@ -131,3 +132,4 @@ Diff (max vs sum): -44
 | 2023-11-25 | 4.48 | - | 44 | 44 |
 | 2023-12-03 | 4.49 | - | 44 | 44 |
 | 2023-12-16 | 4.48 | - | 44 | 44 |
+| 2023-12-19 | 4.49 | - | 44 | 44 |

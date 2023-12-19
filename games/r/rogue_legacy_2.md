@@ -17,36 +17,36 @@ Number of Ratings: 1,331  (23.09.2022)
 | Progenitor and Protégé | 1.00% | ~255 |
 | Prequel to the Sequel | 1.00% | ~255 |
 | For Glory | 0.80% | ~204 |
-| Pillow Investments | 0.70% | ~178 |
-| Looks Familiar | 0.70% | ~178 |
+| Pillow Investments | 0.70% | ~179 |
+| Looks Familiar | 0.70% | ~179 |
 | Truly Blessed | 0.60% | ~153 |
 | Good Boy! | 0.60% | ~153 |
-| For Justice | 0.50% | ~127 |
+| For Justice | 0.50% | ~128 |
 | For Survival | 0.40% | ~102 |
 | For Love | 0.40% | ~102 |
 | Jack of all Trades | 0.40% | ~102 |
-| For Wrath | 0.30% | ~76 |
-| For Pride | 0.30% | ~76 |
-| K.O. | 0.30% | ~76 |
-| Just the Beginning | 0.30% | ~76 |
-| Wasted Betrayal | 0.30% | ~76 |
-| Color Coordination | 0.30% | ~76 |
+| For Wrath | 0.30% | ~77 |
+| For Pride | 0.30% | ~77 |
+| K.O. | 0.30% | ~77 |
+| Just the Beginning | 0.30% | ~77 |
+| Wasted Betrayal | 0.30% | ~77 |
+| Color Coordination | 0.30% | ~77 |
 | Black-shoppe | 0.20% | ~51 |
 | For Greed | 0.20% | ~51 |
 | For Penance | 0.20% | ~51 |
 | Good Practice | 0.20% | ~51 |
 | Maybe Wax Doesn't Melt | 0.20% | ~51 |
 | A Glimpse of the Future | 0.20% | ~51 |
-| Full House | 0.10% | ~25 |
-| Erebus Purified | 0.10% | ~25 |
-| It Was Just an Estimate | 0.10% | ~25 |
-| Had to Do It | 0.10% | ~25 |
+| Full House | 0.10% | ~26 |
+| Erebus Purified | 0.10% | ~26 |
+| It Was Just an Estimate | 0.10% | ~26 |
+| Had to Do It | 0.10% | ~26 |
 | Rogue's Legacy | 0.00% | ~0 |
 | Thanatophobia | 0.00% | ~0 |
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,498 (Ranked 138)  
+Progressed: 25,504 (Ranked 138)  
 Completed: 35 (0.14%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 35 (0.14%) (Ranked 288)
 | 2023-12-16 | 24,777 | 35 |
 | 2023-12-17 | 25,193 | 35 |
 | 2023-12-18 | 25,497 | 35 |
-| 2023-12-19 | 25,498 | 35 |
+| 2023-12-19 | 25,504 | 35 |
 ## Awards
 Max (Extremely Fun): 223  (Ranked 283)  
 Sum: 1,704 (Ranked 225)  

@@ -73,6 +73,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | A Long Climb | 0.20% | ~483 |
 | New Game+ | 0.20% | ~483 |
 | Barbecue | 0.20% | ~483 |
+| Explosive Betrayal | 0.20% | ~483 |
 | Grave Digger | 0.20% | ~483 |
 | Soul Stash | 0.20% | ~483 |
 | Juggernaut | 0.20% | ~483 |
@@ -98,7 +99,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Dead Revels | 0.10% | ~241 |
 | Friend of Vermin | 0.10% | ~241 |
 | Hanging On | 0.10% | ~241 |
-| Explosive Betrayal | 0.10% | ~241 |
 | A Hard Carry | 0.10% | ~241 |
 | Powerful Potion | 0.10% | ~241 |
 | For Science | 0.10% | ~241 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,266 (Ranked 66)  
+Progressed: 241,269 (Ranked 66)  
 Completed: 299 (0.12%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -388,6 +388,7 @@ Completed: 299 (0.12%) (Ranked 292)
 | 2023-12-16 | 241,163 | 299 |
 | 2023-12-17 | 241,211 | 299 |
 | 2023-12-18 | 241,266 | 299 |
+| 2023-12-19 | 241,269 | 299 |
 ## Awards
 Max (Quickly Understood Controls): 1,511  (Ranked 134)  
 Sum: 11,745 (Ranked 87)  

@@ -2258,9 +2258,9 @@
       "ID": "ACHIEVEMENT_27",
       "SetID": "7pimpda",
       "Name": "Fashion Connoisseur",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 329
+      "UsersEstimate": 335
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -2442,9 +2442,9 @@
       "ID": "ACHIEVEMENT_7",
       "SetID": "7pimpda",
       "Name": "Apostle of Flame",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 240
+      "UsersEstimate": 246
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -2475,8 +2475,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-19T00:08:35.7445384+00:00",
+  "LastChanged_Achievements": "2023-12-19T01:56:03.0344608+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:00.9363361+00:00",
-  "LastUpdate_Ratings": "2023-12-18T23:59:56.9119772+00:00",
-  "LastUpdate_Achievements": "2023-12-19T00:08:35.7445759+00:00"
+  "LastUpdate_Ratings": "2023-12-19T01:47:25.6743025+00:00",
+  "LastUpdate_Achievements": "2023-12-19T01:56:03.0345039+00:00"
 }

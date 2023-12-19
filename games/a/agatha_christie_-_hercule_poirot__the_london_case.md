@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marc Allard | 77.00% | ~36 |
-| Little ideas | 70.00% | ~33 |
-| The Ship | 64.00% | ~30 |
-| Seeking the truth | 55.00% | ~26 |
-| An old friend | 53.00% | ~25 |
-| The Gala | 51.00% | ~24 |
-| A curious gathering | 51.00% | ~24 |
-| Little grey cells | 49.00% | ~23 |
-| Impossible is possible | 49.00% | ~23 |
-| The Missing Magdalene | 49.00% | ~23 |
-| Arthur Hastings | 49.00% | ~23 |
-| Everything matters | 45.00% | ~21 |
-| An expert mediator | 43.00% | ~20 |
-| DI Hardwicke | 43.00% | ~20 |
+| Marc Allard | 75.00% | ~36 |
+| Little ideas | 69.00% | ~33 |
+| The Ship | 63.00% | ~30 |
+| Seeking the truth | 54.00% | ~26 |
+| An old friend | 52.00% | ~25 |
+| The Gala | 50.00% | ~24 |
+| A curious gathering | 50.00% | ~24 |
+| Little grey cells | 48.00% | ~23 |
+| Impossible is possible | 48.00% | ~23 |
+| The Missing Magdalene | 48.00% | ~23 |
+| Arthur Hastings | 48.00% | ~23 |
+| Everything matters | 44.00% | ~21 |
+| An expert mediator | 42.00% | ~20 |
+| DI Hardwicke | 42.00% | ~20 |
 | Order and method | 40.00% | ~19 |
 | Betty Allen | 38.00% | ~18 |
 | The Investigation Begins | 38.00% | ~18 |
-| Ms. Camilla B. Culsham | 34.00% | ~16 |
-| Irene Court-Smyth | 34.00% | ~16 |
-| An odd series of events | 32.00% | ~15 |
-| The Apartment | 32.00% | ~15 |
-| Nathaniel Dryden | 30.00% | ~14 |
-| Well-acquainted | 28.00% | ~13 |
-| Truth from within | 28.00% | ~13 |
-| A rude awakening | 28.00% | ~13 |
-| Anastasia Babanin | 28.00% | ~13 |
-| Zakariya Demir | 28.00% | ~13 |
-| Bartholomew | 28.00% | ~13 |
-| The Scheme | 28.00% | ~13 |
+| Ms. Camilla B. Culsham | 33.00% | ~16 |
+| Irene Court-Smyth | 33.00% | ~16 |
+| An odd series of events | 31.00% | ~15 |
+| The Apartment | 31.00% | ~15 |
+| Nathaniel Dryden | 29.00% | ~14 |
+| Well-acquainted | 27.00% | ~13 |
+| Truth from within | 27.00% | ~13 |
+| A rude awakening | 27.00% | ~13 |
+| Anastasia Babanin | 27.00% | ~13 |
+| Zakariya Demir | 27.00% | ~13 |
+| Bartholomew | 27.00% | ~13 |
+| The Scheme | 27.00% | ~13 |
 | A curious phrase | 23.00% | ~11 |
 | Evelyn Lakshmi Warbeck | 23.00% | ~11 |
 | The Suspects | 23.00% | ~11 |
@@ -49,10 +49,10 @@
 | A perilous journey | 15.00% | ~7 |
 | The Penitent Magdalene | 15.00% | ~7 |
 | A true performance | 15.00% | ~7 |
-| Perkins | 9.00% | ~4 |
+| Perkins | 8.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47 (Ranked 524)  
-Completed: 2 (4.26%) (Ranked 88)  
+Progressed: 48 (Ranked 524)  
+Completed: 2 (4.17%) (Ranked 91)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -95,3 +95,4 @@ Completed: 2 (4.26%) (Ranked 88)
 | 2023-12-16 | 45 | 1 |
 | 2023-12-17 | 46 | 1 |
 | 2023-12-18 | 47 | 2 |
+| 2023-12-19 | 48 | 2 |

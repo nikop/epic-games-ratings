@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 80.00% | ~122 |
-| Wanderer | 61.00% | ~93 |
-| A piece of the story | 57.00% | ~87 |
-| It's covered up for a reason | 45.00% | ~68 |
-| Scraps of love | 42.00% | ~64 |
-| Do what you have to | 41.00% | ~62 |
-| The artist’s impression | 41.00% | ~62 |
+| Something important | 80.00% | ~123 |
+| Wanderer | 60.00% | ~92 |
+| A piece of the story | 56.00% | ~86 |
+| It's covered up for a reason | 45.00% | ~69 |
+| Scraps of love | 42.00% | ~65 |
+| Do what you have to | 41.00% | ~63 |
+| The artist’s impression | 40.00% | ~62 |
 | Sign of weakness | 34.00% | ~52 |
-| Refuse to look | 33.00% | ~50 |
-| Face your fears | 27.00% | ~41 |
-| Finished it | 26.00% | ~40 |
-| Whispers long forgotten | 14.00% | ~21 |
-| Debut | 11.00% | ~17 |
-| Playtime | 11.00% | ~17 |
-| The art of movement | 11.00% | ~17 |
-| Tough conversation | 11.00% | ~17 |
+| Refuse to look | 32.00% | ~49 |
+| Face your fears | 27.00% | ~42 |
+| Finished it | 25.00% | ~38 |
+| Whispers long forgotten | 14.00% | ~22 |
 | A Slice of Life | 10.00% | ~15 |
+| Debut | 10.00% | ~15 |
+| Playtime | 10.00% | ~15 |
+| The art of movement | 10.00% | ~15 |
 | The tragedy unfolds | 10.00% | ~15 |
-| A new way | 9.00% | ~14 |
+| Tough conversation | 10.00% | ~15 |
 | First steps | 9.00% | ~14 |
 | Sound Bite | 9.00% | ~14 |
-| True Reflection | 9.00% | ~14 |
+| A new way | 8.00% | ~12 |
 | Another perspective | 8.00% | ~12 |
 | Breaking free | 8.00% | ~12 |
 | Lights! Camera! Action! | 8.00% | ~12 |
-| Casting Finished | 7.00% | ~11 |
-| Heavy Burden | 7.00% | ~11 |
+| True Reflection | 8.00% | ~12 |
+| Casting Finished | 6.00% | ~9 |
+| Heavy Burden | 6.00% | ~9 |
 | Fisherman | 6.00% | ~9 |
 | We Are Not Alone | 5.00% | ~8 |
 | The Perfect Storm | 4.00% | ~6 |
@@ -49,15 +49,15 @@
 | In One Take | 1.00% | ~2 |
 | Rocket Science | 1.00% | ~2 |
 | Sword of the Serpent | 1.00% | ~2 |
-| You Can’t Handle the Truth | 0.70% | ~1 |
-| The Tree and the Apple | 0.70% | ~1 |
+| You Can’t Handle the Truth | 0.60% | ~1 |
+| The Tree and the Apple | 0.60% | ~1 |
 | The whole story | 0.00% | ~0 |
 | You might have a problem | 0.00% | ~0 |
 | Inheritance | 0.00% | ~0 |
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152 (Ranked 420)  
+Progressed: 154 (Ranked 418)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,3 +114,4 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-16 | 133 | 0 |
 | 2023-12-17 | 145 | 0 |
 | 2023-12-18 | 152 | 0 |
+| 2023-12-19 | 154 | 0 |

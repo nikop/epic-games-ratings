@@ -842,7 +842,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5636,
+  "EOS_Progressed": 5637,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 0,
@@ -11367,6 +11367,11 @@
       "Time": "2023-12-18T23:03:27.3569545+00:00",
       "NumProgressed": 5636,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-19T01:50:48.3175112+00:00",
+      "NumProgressed": 5637,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -11427,7 +11432,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1465
+      "UsersEstimate": 1466
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -11539,7 +11544,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -11562,15 +11567,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5636,
+      "Progressed": 5637,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-17T11:57:49.7030504+00:00",
-  "LastChanged_Achievements": "2023-12-19T00:03:07.0016901+00:00",
+  "LastChanged_Achievements": "2023-12-19T01:50:48.3175109+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:20.367807+00:00",
-  "LastUpdate_Ratings": "2023-12-18T23:58:10.675275+00:00",
-  "LastUpdate_Achievements": "2023-12-19T00:03:07.0017632+00:00"
+  "LastUpdate_Ratings": "2023-12-19T01:45:39.4741917+00:00",
+  "LastUpdate_Achievements": "2023-12-19T01:50:48.317578+00:00"
 }
