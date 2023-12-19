@@ -3,9 +3,9 @@
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 281,
-  "Ranking_EOS_Completed": 237,
+  "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 866,
+  "EOS_Progressed": 868,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 601,
+  "EOS_NewPlayers": 603,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -1775,6 +1775,11 @@
       "Time": "2023-12-19T16:10:35.8113954+00:00",
       "NumProgressed": 866,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-19T17:09:52.5097028+00:00",
+      "NumProgressed": 868,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1786,7 +1791,7 @@
       "Name": "Break Out",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "ACH_02",
@@ -1944,9 +1949,9 @@
       "ID": "ACH_21",
       "SetID": "efe2lj",
       "Name": "Big Bazar",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_22",
@@ -1962,7 +1967,7 @@
       "Name": "Geared Up",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_24",
@@ -1978,7 +1983,7 @@
       "Name": "Fashion Victim",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_26",
@@ -2002,7 +2007,7 @@
       "Name": "I Found It",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_29",
@@ -2024,9 +2029,9 @@
       "ID": "ACH_31",
       "SetID": "efe2lj",
       "Name": "Stone Collection",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_33",
@@ -2073,14 +2078,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 866,
+      "Progressed": 868,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-19T16:10:35.811395+00:00",
+  "LastChanged_Achievements": "2023-12-19T17:09:52.5097026+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
-  "LastUpdate_Ratings": "2023-12-19T16:01:26.6428637+00:00",
-  "LastUpdate_Achievements": "2023-12-19T16:10:35.8114292+00:00"
+  "LastUpdate_Ratings": "2023-12-19T17:00:03.3796079+00:00",
+  "LastUpdate_Achievements": "2023-12-19T17:09:52.5097257+00:00"
 }

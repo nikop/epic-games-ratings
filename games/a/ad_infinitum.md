@@ -14,14 +14,14 @@
 | Rage | 30.00% | ~30 |
 | Path of Pain | 22.00% | ~22 |
 | Clarity | 17.00% | ~17 |
+| Reflections | 17.00% | ~17 |
 | The shining | 17.00% | ~17 |
 | Mayhem | 16.00% | ~16 |
-| Reflections | 16.00% | ~16 |
-| Health | 13.00% | ~13 |
+| Health | 14.00% | ~14 |
+| Jigsaw | 11.00% | ~11 |
+| Peace | 11.00% | ~11 |
 | Art critic | 10.00% | ~10 |
 | Awaiting orders | 10.00% | ~10 |
-| Jigsaw | 10.00% | ~10 |
-| Peace | 10.00% | ~10 |
 | An act of courage | 7.00% | ~7 |
 | Lost | 7.00% | ~7 |
 | An act of compassion | 5.00% | ~5 |
@@ -34,7 +34,7 @@
 | No one left behind | 0.00% | ~0 |
 | Their names | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 100 (Ranked 461)  
+Progressed: 100 (Ranked 462)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |

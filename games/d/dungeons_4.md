@@ -26,7 +26,7 @@
 | “… like son” | 51.00% | ~301 |
 | YOU SHALL NOT PASS! | 50.00% | ~295 |
 | The Cathedral of Light | 48.00% | ~283 |
-| Shame! Shame! Shame! | 47.00% | ~277 |
+| Shame! Shame! Shame! | 48.00% | ~283 |
 | Pure Dynamite! | 46.00% | ~271 |
 | Dungeonlord Gorgu | 45.00% | ~266 |
 | Tanos' Crusade Against Thalya | 45.00% | ~266 |
@@ -37,7 +37,7 @@
 | Master of the Undead | 34.00% | ~201 |
 | If Looks Could Kill | 33.00% | ~195 |
 | The Finitude Drill | 31.00% | ~183 |
-| Ghost Pirates? Ghost Heroes! | 29.00% | ~171 |
+| Ghost Pirates? Ghost Heroes! | 30.00% | ~177 |
 | Forbidden Knowledge | 28.00% | ~165 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 27.00% | ~159 |
 | Doom Hill | 27.00% | ~159 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -2035,9 +2035,9 @@
       "ID": "ACH_TELEPORT",
       "SetID": "7c4cldc",
       "Name": "Teleport",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 232
+      "UsersEstimate": 238
     }
   ],
   "AchievementSets": [
@@ -2052,8 +2052,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2023-12-19T16:09:29.5000306+00:00",
+  "LastChanged_Achievements": "2023-12-19T17:09:02.382058+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.762988+00:00",
-  "LastUpdate_Ratings": "2023-12-19T15:58:29.0410667+00:00",
-  "LastUpdate_Achievements": "2023-12-19T16:09:29.5000519+00:00"
+  "LastUpdate_Ratings": "2023-12-19T16:57:53.9722638+00:00",
+  "LastUpdate_Achievements": "2023-12-19T17:09:02.382088+00:00"
 }

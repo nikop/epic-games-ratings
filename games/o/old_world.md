@@ -9,6 +9,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Alexander the Great | 0.10% | ~16 |
 | Bad Heir Day | 0.10% | ~16 |
 | Acropolis in Athenai | 0.10% | ~16 |
+| Hanging Gardens in Babylon | 0.10% | ~16 |
 | Ishtar Gate in Babylon | 0.10% | ~16 |
 | Able | 0.10% | ~16 |
 | Ambitious | 0.10% | ~16 |
@@ -78,6 +79,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Redemption | 0.10% | ~16 |
 | Trade Caravan | 0.10% | ~16 |
 | Cimmerian Archer | 0.10% | ~16 |
+| Legionary | 0.10% | ~16 |
 | Turreted Elephant | 0.10% | ~16 |
 | All Nations | 0.10% | ~16 |
 | Double Victory | 0.10% | ~16 |
@@ -92,7 +94,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Alliance Victory | 0.00% | ~0 |
 | Regicide | 0.00% | ~0 |
 | Future Regicide | 0.00% | ~0 |
-| Hanging Gardens in Babylon | 0.00% | ~0 |
 | Barbarian Horde | 0.00% | ~0 |
 | The Great Raging Horde | 0.00% | ~0 |
 | United Against The Horde | 0.00% | ~0 |
@@ -272,7 +273,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cataphract Archer | 0.00% | ~0 |
 | Three Man Chariot | 0.00% | ~0 |
 | Kushite Cavalry | 0.00% | ~0 |
-| Legionary | 0.00% | ~0 |
 | Phalangite | 0.00% | ~0 |
 | Siege Tower | 0.00% | ~0 |
 | Great Ziggurat in Ur | 0.00% | ~0 |

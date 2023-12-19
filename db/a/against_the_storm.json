@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 3755,
+  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewCompleters": 3756,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3509,7 +3509,7 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18657,
+  "EOS_Progressed": 18662,
   "EOS_Completed": 39,
   "EOS_NewPlayers": 680,
   "EOS_NewCompleters": -1,
@@ -16329,6 +16329,11 @@
       "Time": "2023-12-19T16:06:50.8275881+00:00",
       "NumProgressed": 18657,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-19T17:05:37.798144+00:00",
+      "NumProgressed": 18662,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16603,9 +16608,9 @@
       "ID": "WinOnCoral",
       "SetID": "cfbk359",
       "Name": "Coral Forest",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 373
+      "UsersEstimate": 560
     },
     {
       "ID": "WinOnCursed",
@@ -16683,9 +16688,9 @@
       "ID": "WinWithResolve",
       "SetID": "cfbk359",
       "Name": "Victory Through Prosperity",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 93
+      "UsersEstimate": 112
     },
     {
       "ID": "WinWithRuins",
@@ -16812,15 +16817,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18657,
+      "Progressed": 18662,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-19T10:59:27.9732006+00:00",
-  "LastChanged_Achievements": "2023-12-19T16:06:50.8275876+00:00",
+  "LastChanged_Achievements": "2023-12-19T17:05:37.7981437+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
-  "LastUpdate_Ratings": "2023-12-19T15:59:20.8160398+00:00",
-  "LastUpdate_Achievements": "2023-12-19T16:06:50.8276751+00:00"
+  "LastUpdate_Ratings": "2023-12-19T16:58:31.8183173+00:00",
+  "LastUpdate_Achievements": "2023-12-19T17:05:37.7982266+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "the-zombie-smasher-eeafeb",
   "Ranking_EOS_Progress": 809,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 557,
+  "Ranking_EOS_NewPlayers": 555,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-07-13T07:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-15T02:22:32.3312651+00:00",
   "LastUpdate_AppInfo": "2023-12-17T16:57:10.8233639+00:00",
-  "LastUpdate_Ratings": "2023-12-19T15:58:29.37513+00:00",
-  "LastUpdate_Achievements": "2023-12-19T16:04:09.9071401+00:00"
+  "LastUpdate_Ratings": "2023-12-19T16:57:54.2413108+00:00",
+  "LastUpdate_Achievements": "2023-12-19T17:03:36.2163915+00:00"
 }

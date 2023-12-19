@@ -20,11 +20,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 660,
+  "EOS_Progressed": 661,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.52,
+  "EOS_Completed_Percentage": 1.51,
   "EosHistory": [
     {
       "Time": "2023-09-18T22:08:11.9466887+00:00",
@@ -2360,6 +2360,11 @@
       "Time": "2023-12-19T05:10:12.2080907+00:00",
       "NumProgressed": 660,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-19T17:09:28.5796008+00:00",
+      "NumProgressed": 661,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -2370,9 +2375,9 @@
       "ID": "achievement_1",
       "SetID": "7ldgi7j",
       "Name": "The Ultimate Prize",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 112
+      "UsersEstimate": 106
     },
     {
       "ID": "achievement_10",
@@ -2396,7 +2401,7 @@
       "Name": "From Way Downtown",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "achievement_13",
@@ -2404,7 +2409,7 @@
       "Name": "Competitor\u0027s Spirit",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "achievement_14",
@@ -2428,7 +2433,7 @@
       "Name": "Star Power",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "achievement_17",
@@ -2436,7 +2441,7 @@
       "Name": "Clean Sheet",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "achievement_18",
@@ -2444,7 +2449,7 @@
       "Name": "Perfect Round",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "achievement_2",
@@ -2492,15 +2497,15 @@
       "Name": "Makin\u0027 the Cut",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "achievement_8",
       "SetID": "7ldgi7j",
       "Name": "Winner\u0027s Circle",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 35,
-      "UsersEstimate": 350
+      "UsersEstimate": 344
     },
     {
       "ID": "achievement_9",
@@ -2515,13 +2520,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 660,
+      "Progressed": 661,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-12-19T16:10:04.8620041+00:00",
+  "LastChanged_Achievements": "2023-12-19T17:09:28.5796006+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:04.0623721+00:00",
-  "LastUpdate_Ratings": "2023-12-19T15:59:01.4542756+00:00",
-  "LastUpdate_Achievements": "2023-12-19T16:10:04.8620342+00:00"
+  "LastUpdate_Ratings": "2023-12-19T16:58:17.9412906+00:00",
+  "LastUpdate_Achievements": "2023-12-19T17:09:28.5796182+00:00"
 }

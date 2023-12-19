@@ -4,7 +4,7 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 881,
+  "EOS_Progressed": 882,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2071,6 +2071,11 @@
       "Time": "2023-12-18T22:09:08.4714162+00:00",
       "NumProgressed": 881,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T17:09:18.3601263+00:00",
+      "NumProgressed": 882,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -2090,7 +2095,7 @@
       "Name": "The Bigger They Are",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ACHV_CHALLENGEACCEPTED",
@@ -2114,7 +2119,7 @@
       "Name": "The City",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ACHV_CYBERNETIC",
@@ -2122,7 +2127,7 @@
       "Name": "Cybernetic",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ACHV_CYBORG",
@@ -2313,13 +2318,13 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 881,
+      "Progressed": 882,
       "Completed": 0
     },
     {
       "ID": "cd9kng8",
       "IsBase": false,
-      "Progressed": 307,
+      "Progressed": 308,
       "Completed": 3
     }
   ],
@@ -2327,8 +2332,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-12-19T16:09:51.242352+00:00",
+  "LastChanged_Achievements": "2023-12-19T17:09:18.360126+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:31.7706606+00:00",
-  "LastUpdate_Ratings": "2023-12-19T16:00:16.3140772+00:00",
-  "LastUpdate_Achievements": "2023-12-19T16:09:51.2423819+00:00"
+  "LastUpdate_Ratings": "2023-12-19T16:59:12.4996445+00:00",
+  "LastUpdate_Achievements": "2023-12-19T17:09:18.3601547+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -3772,9 +3772,9 @@
       "ID": "GSS_ACH_43_CARAVAN_02",
       "SetID": "5fn8ia4",
       "Name": "Raising the Stakes",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 548
+      "UsersEstimate": 561
     },
     {
       "ID": "GSS_ACH_44_CARAVAN_03",
@@ -4044,9 +4044,9 @@
       "ID": "GSS_ACH_77_EMPLOYEE_LEVEL_05",
       "SetID": "5fn8ia4",
       "Name": "Well Versed",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 829
+      "UsersEstimate": 842
     },
     {
       "ID": "GSS_ACH_78_EMPLOYEE_LEVEL_10",
@@ -4101,8 +4101,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-18T13:05:51.5719117+00:00",
-  "LastChanged_Achievements": "2023-12-19T16:07:19.5927138+00:00",
+  "LastChanged_Achievements": "2023-12-19T17:05:59.7601575+00:00",
   "LastUpdate_AppInfo": "2023-12-18T18:57:14.4494443+00:00",
-  "LastUpdate_Ratings": "2023-12-19T16:00:09.9314338+00:00",
-  "LastUpdate_Achievements": "2023-12-19T16:07:19.5927953+00:00"
+  "LastUpdate_Ratings": "2023-12-19T16:59:07.8556605+00:00",
+  "LastUpdate_Achievements": "2023-12-19T17:05:59.7602658+00:00"
 }

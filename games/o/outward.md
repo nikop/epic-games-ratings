@@ -6,8 +6,8 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 74.00% | ~2,980 |
-| Ready for Winter | 63.00% | ~2,537 |
+| Venture Outward | 74.00% | ~2,981 |
+| Ready for Winter | 63.00% | ~2,538 |
 | Ready for Summer | 50.00% | ~2,014 |
 | Cordon Bleu | 43.00% | ~1,732 |
 | Tapped! | 37.00% | ~1,490 |
@@ -22,7 +22,7 @@ Number of Ratings: 266  (23.09.2022)
 | Apex Predator | 15.00% | ~604 |
 | Strange amalgams | 12.00% | ~483 |
 | The Power of Faith | 12.00% | ~483 |
-| The Power of Freedom | 9.00% | ~362 |
+| The Power of Freedom | 9.00% | ~363 |
 | Ace Detective | 8.00% | ~322 |
 | Gift from the Ancestors | 8.00% | ~322 |
 | Magic is a science | 8.00% | ~322 |
@@ -49,8 +49,8 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~12 |
 | The Absolute Pinnacle. | 0.30% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,027 (Ranked 205)  
-Completed: 5 (0.12%) (Ranked 292)  
+Progressed: 4,028 (Ranked 205)  
+Completed: 5 (0.12%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -278,7 +278,7 @@ Completed: 5 (0.12%) (Ranked 292)
 | 2023-12-16 | 3,940 | 5 |
 | 2023-12-17 | 3,981 | 5 |
 | 2023-12-18 | 4,009 | 5 |
-| 2023-12-19 | 4,027 | 5 |
+| 2023-12-19 | 4,028 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 484)  
 Sum: 246 (Ranked 391)  

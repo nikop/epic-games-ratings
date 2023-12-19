@@ -10,10 +10,10 @@
 | That's what cheese said! | 90.00% | ~121 |
 | AHHHHHH.....I'M ON FIRE!!! | 87.00% | ~117 |
 | I like you...but I have to kill you... | 87.00% | ~117 |
-| Not so hip anymore! | 85.00% | ~114 |
+| Not so hip anymore! | 86.00% | ~115 |
+| Blurry depth perception | 83.00% | ~111 |
 | Nerd | 82.00% | ~110 |
-| Blurry depth perception | 82.00% | ~110 |
-| Up and down | 79.00% | ~106 |
+| Up and down | 80.00% | ~107 |
 | Rolling, Rolling, Rolling | 75.00% | ~100 |
 | Fire-fighter! | 67.00% | ~90 |
 | Oh, you're up to no gouda! | 65.00% | ~87 |

@@ -33,6 +33,7 @@ Rating: 4.63 (Ranked 353)
 | Right Tool For the Job | 0.20% | ~17 |
 | Captain of Cozy | 0.20% | ~17 |
 | House Proud | 0.20% | ~17 |
+| Polyglot | 0.20% | ~2 |
 | Azorian Hat Dance | 0.20% | ~2 |
 | Cloverfield Island | 0.10% | ~9 |
 | Got to Catch Them All | 0.10% | ~9 |
@@ -44,7 +45,6 @@ Rating: 4.63 (Ranked 353)
 | Very Skilled | 0.10% | ~9 |
 | A Pal To All | 0.10% | ~1 |
 | Scroll Hunter | 0.10% | ~1 |
-| Polyglot | 0.10% | ~1 |
 | Splish-Splash | 0.10% | ~1 |
 | Going Down | 0.10% | ~1 |
 | Archi-Pal-igo Aficionado | 0.00% | ~0 |

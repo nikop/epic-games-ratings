@@ -11,6 +11,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Petrified Necropolis | 5.00% | ~933 |
 | Gathering Storm | 4.00% | ~746 |
 | First Real Expedition | 3.00% | ~560 |
+| Coral Forest | 3.00% | ~560 |
 | The Marshlands | 3.00% | ~560 |
 | Taking Action | 3.00% | ~560 |
 | No Deaths | 3.00% | ~560 |
@@ -21,7 +22,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Fertile Meadows | 2.00% | ~373 |
 | Royal Outpost | 2.00% | ~373 |
 | Watchtower | 2.00% | ~373 |
-| Coral Forest | 2.00% | ~373 |
 | The Scarlet Orchard | 2.00% | ~373 |
 | Untamed Wilds | 2.00% | ~373 |
 | Homesick | 1.00% | ~187 |
@@ -42,13 +42,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Flooded Mines | 0.80% | ~149 |
 | Against All Odds | 0.70% | ~131 |
 | Serving Ale | 0.60% | ~112 |
+| Victory Through Prosperity | 0.60% | ~112 |
 | Defying the Crown | 0.60% | ~112 |
 | Into the Forest | 0.60% | ~112 |
 | Efficient Explorer | 0.50% | ~93 |
 | Refinery | 0.50% | ~93 |
 | Fishmen Ritual Site | 0.50% | ~93 |
 | Forsaken Gods Temple | 0.50% | ~93 |
-| Victory Through Prosperity | 0.50% | ~93 |
 | Dangerous Lands | 0.40% | ~75 |
 | Forbidden Lands | 0.40% | ~75 |
 | Fox Utopia | 0.40% | ~75 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,657 (Ranked 147)  
+Progressed: 18,662 (Ranked 147)  
 Completed: 39 (0.21%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 39 (0.21%) (Ranked 267)
 | 2023-12-16 | 18,388 | 39 |
 | 2023-12-17 | 18,534 | 40 |
 | 2023-12-18 | 18,615 | 39 |
-| 2023-12-19 | 18,657 | 39 |
+| 2023-12-19 | 18,662 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 228)  
 Sum: 3,272 (Ranked 174)  

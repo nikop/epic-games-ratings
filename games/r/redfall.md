@@ -33,9 +33,9 @@ Rating: 3.57 (Ranked 1,062)
 | Starve the Beast | 1.00% | ~19 |
 | Harvest’s End | 1.00% | ~19 |
 | Helping Hand | 1.00% | ~19 |
-| Contingency Plans | 0.90% | ~17 |
-| You Clean It Up | 0.90% | ~17 |
-| Nice Try | 0.90% | ~17 |
+| Contingency Plans | 0.90% | ~18 |
+| You Clean It Up | 0.90% | ~18 |
+| Nice Try | 0.90% | ~18 |
 | Revelations | 0.80% | ~16 |
 | Check, Please! | 0.80% | ~16 |
 | Blacklight Down | 0.80% | ~16 |
@@ -72,7 +72,7 @@ Rating: 3.57 (Ranked 1,062)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,944 (Ranked 235)  
+Progressed: 1,946 (Ranked 235)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-16 | 1,886 | 0 |
 | 2023-12-17 | 1,914 | 0 |
 | 2023-12-18 | 1,930 | 0 |
-| 2023-12-19 | 1,944 | 0 |
+| 2023-12-19 | 1,946 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

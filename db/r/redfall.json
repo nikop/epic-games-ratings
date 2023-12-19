@@ -283,9 +283,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1944,
+  "EOS_Progressed": 1946,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2888,6 +2888,11 @@
       "Time": "2023-12-19T15:03:36.7113006+00:00",
       "NumProgressed": 1944,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T17:03:25.7548681+00:00",
+      "NumProgressed": 1946,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2931,7 +2936,7 @@
       "Name": "Contingency Plans",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Achievement_007",
@@ -3107,7 +3112,7 @@
       "Name": "You Clean It Up",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Achievement_029",
@@ -3283,7 +3288,7 @@
       "Name": "Nice Try",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Achievement_053",
@@ -3426,7 +3431,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1944,
+      "Progressed": 1946,
       "Completed": 0
     }
   ],
@@ -3434,8 +3439,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-19T11:02:35.1367556+00:00",
-  "LastChanged_Achievements": "2023-12-19T16:03:56.3502341+00:00",
+  "LastChanged_Achievements": "2023-12-19T17:03:25.7548677+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:02.9619993+00:00",
-  "LastUpdate_Ratings": "2023-12-19T16:02:38.2855342+00:00",
-  "LastUpdate_Achievements": "2023-12-19T16:03:56.3503492+00:00"
+  "LastUpdate_Ratings": "2023-12-19T17:02:31.144746+00:00",
+  "LastUpdate_Achievements": "2023-12-19T17:03:25.7549396+00:00"
 }

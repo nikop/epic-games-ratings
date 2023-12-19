@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -795,9 +795,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3473,
+  "EOS_Progressed": 3474,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4495,6 +4495,11 @@
       "Time": "2023-12-19T16:06:27.6016608+00:00",
       "NumProgressed": 3473,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T17:05:20.5918617+00:00",
+      "NumProgressed": 3474,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4616,9 +4621,9 @@
       "ID": "FleetMaster",
       "SetID": "2im8phi",
       "Name": "Fleetmaster",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 31
     },
     {
       "ID": "ForTheMachineGod",
@@ -4712,9 +4717,9 @@
       "ID": "Kills_FriendlyFire",
       "SetID": "3jha1np",
       "Name": "Friendly Fire",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 174
     },
     {
       "ID": "Kills_Interactable",
@@ -4976,9 +4981,9 @@
       "ID": "AllAssassinsAcquired",
       "SetID": "2im8phi",
       "Name": "Execution Force",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 69
     },
     {
       "ID": "ExperiencedCallidus",
@@ -5049,21 +5054,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3473,
+      "Progressed": 3474,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3473,
+      "Progressed": 3474,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-16T13:05:46.2808+00:00",
-  "LastChanged_Achievements": "2023-12-19T16:06:27.6016602+00:00",
+  "LastChanged_Achievements": "2023-12-19T17:05:20.5918613+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:54.7152084+00:00",
-  "LastUpdate_Ratings": "2023-12-19T16:03:25.335755+00:00",
-  "LastUpdate_Achievements": "2023-12-19T16:06:27.6017178+00:00"
+  "LastUpdate_Ratings": "2023-12-19T17:03:02.8664216+00:00",
+  "LastUpdate_Achievements": "2023-12-19T17:05:20.5919216+00:00"
 }

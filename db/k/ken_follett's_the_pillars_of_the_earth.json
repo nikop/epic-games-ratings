@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17184,
+  "EOS_Progressed": 17185,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 191,
+  "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -16485,6 +16485,11 @@
       "Time": "2023-12-19T16:04:46.5062597+00:00",
       "NumProgressed": 17184,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-12-19T17:04:03.9628212+00:00",
+      "NumProgressed": 17185,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 41,
@@ -16512,7 +16517,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3952
+      "UsersEstimate": 3953
     },
     {
       "ID": "tpote_achievement_12",
@@ -16560,7 +16565,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2749
+      "UsersEstimate": 2750
     },
     {
       "ID": "tpote_achievement_18",
@@ -16600,7 +16605,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 4983
+      "UsersEstimate": 4984
     },
     {
       "ID": "tpote_achievement_22",
@@ -16792,7 +16797,7 @@
       "Name": "Full house",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3952
+      "UsersEstimate": 3953
     },
     {
       "ID": "tpote_achievement_7",
@@ -16823,15 +16828,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17184,
+      "Progressed": 17185,
       "Completed": 119
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2023-12-19T16:04:46.5062592+00:00",
+  "LastChanged_Achievements": "2023-12-19T17:04:03.962821+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:13.9933566+00:00",
-  "LastUpdate_Ratings": "2023-12-19T15:59:08.5439343+00:00",
-  "LastUpdate_Achievements": "2023-12-19T16:04:46.5063679+00:00"
+  "LastUpdate_Ratings": "2023-12-19T16:58:22.9098285+00:00",
+  "LastUpdate_Achievements": "2023-12-19T17:04:03.9628999+00:00"
 }

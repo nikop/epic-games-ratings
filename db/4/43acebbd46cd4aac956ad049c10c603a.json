@@ -224,7 +224,7 @@
   ],
   "EOS_Progressed": 1054,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3030,9 +3030,9 @@
       "ID": "RemnantsOfThePast",
       "SetID": "1n308hc",
       "Name": "Remnants of the Past",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 253
     },
     {
       "ID": "RenaissanceRobot",
@@ -3223,8 +3223,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-19T16:05:17.4937542+00:00",
+  "LastChanged_Achievements": "2023-12-19T17:04:27.5100386+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-19T15:59:48.8361891+00:00",
-  "LastUpdate_Achievements": "2023-12-19T16:05:17.4938171+00:00"
+  "LastUpdate_Ratings": "2023-12-19T16:58:52.7521022+00:00",
+  "LastUpdate_Achievements": "2023-12-19T17:04:27.5100951+00:00"
 }

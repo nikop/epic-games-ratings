@@ -4,8 +4,8 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 471,
+  "EOS_Progressed": 472,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -1262,6 +1262,11 @@
       "Time": "2023-12-18T16:06:45.4934912+00:00",
       "NumProgressed": 471,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-19T17:05:51.6743974+00:00",
+      "NumProgressed": 472,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1362,15 +1367,15 @@
       "Name": "Hermit Koco Encounter",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "FIRST_METEOR_SHOWER",
       "SetID": "apihg0e",
       "Name": "Celestial Rain",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 104
     },
     {
       "ID": "FIRST_MINIBOSS_DEFEATED",
@@ -1593,14 +1598,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 471,
+      "Progressed": 472,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-19T16:07:09.3191279+00:00",
+  "LastChanged_Achievements": "2023-12-19T17:05:51.6743969+00:00",
   "LastUpdate_AppInfo": "2023-12-12T18:57:06.567221+00:00",
-  "LastUpdate_Ratings": "2023-12-19T16:03:22.5179702+00:00",
-  "LastUpdate_Achievements": "2023-12-19T16:07:09.3191551+00:00"
+  "LastUpdate_Ratings": "2023-12-19T17:03:00.8774094+00:00",
+  "LastUpdate_Achievements": "2023-12-19T17:05:51.674428+00:00"
 }

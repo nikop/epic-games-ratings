@@ -252,9 +252,9 @@
       "ID": "ACH_COACH_OF_THE_SEASON",
       "SetID": "1lnhagg",
       "Name": "Standing at the Top",
-      "Percentage": 14,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_EMPTY_ARENA",
@@ -268,9 +268,9 @@
       "ID": "ACH_FIRST_CHAMPIONSHIP",
       "SetID": "1lnhagg",
       "Name": "First is Always Special",
-      "Percentage": 20,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_FIRST_STAR_MANAGER",
@@ -308,9 +308,9 @@
       "ID": "ACH_FULL_ARENA",
       "SetID": "1lnhagg",
       "Name": "Full Arena",
-      "Percentage": 37,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_HALL_OF_FAME",
@@ -332,9 +332,9 @@
       "ID": "ACH_JUNIOR_BEARD",
       "SetID": "1lnhagg",
       "Name": "What a man!",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_LOSER_STREAK",
@@ -428,9 +428,9 @@
       "ID": "ACH_WIN_BY_40",
       "SetID": "1lnhagg",
       "Name": "Overpowered",
-      "Percentage": 43,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_WIN_EUROLEAGUE",
@@ -467,8 +467,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2023-12-19T16:07:36.5948947+00:00",
+  "LastChanged_Achievements": "2023-12-19T17:06:13.3403861+00:00",
   "LastUpdate_AppInfo": "2023-12-15T02:21:15.0404929+00:00",
-  "LastUpdate_Ratings": "2023-12-19T16:03:09.1154323+00:00",
-  "LastUpdate_Achievements": "2023-12-19T16:07:36.5949156+00:00"
+  "LastUpdate_Ratings": "2023-12-19T17:02:51.8937654+00:00",
+  "LastUpdate_Achievements": "2023-12-19T17:06:13.3404043+00:00"
 }

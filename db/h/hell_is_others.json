@@ -1351,9 +1351,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 259499,
+  "EOS_Progressed": 259501,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 218,
+  "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24556,6 +24556,11 @@
       "Time": "2023-12-19T16:07:37.6753162+00:00",
       "NumProgressed": 259499,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-19T17:06:14.235929+00:00",
+      "NumProgressed": 259501,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -24591,7 +24596,7 @@
       "Name": "The Gamble",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 1297
+      "UsersEstimate": 1298
     },
     {
       "ID": "Act5",
@@ -24599,7 +24604,7 @@
       "Name": "The Descent",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 1297
+      "UsersEstimate": 1298
     },
     {
       "ID": "BackHomeAfterTimesUp",
@@ -24655,7 +24660,7 @@
       "Name": "Arms dealer",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "CompleteBestiary",
@@ -24687,7 +24692,7 @@
       "Name": "Fixer III",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "CreedsInBank1",
@@ -24711,7 +24716,7 @@
       "Name": "Saver III",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "DiscoverAllObjects",
@@ -24719,7 +24724,7 @@
       "Name": "Collector",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "EatNFungus",
@@ -24743,7 +24748,7 @@
       "Name": "Mansion",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "FullInventoryExpansion",
@@ -24783,7 +24788,7 @@
       "Name": "Green thumb III",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "GrowPlantsSameTime",
@@ -24791,7 +24796,7 @@
       "Name": "Plantation",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "HomeWithNFurniture",
@@ -24895,7 +24900,7 @@
       "Name": "Reminescence",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "MaxRepOfAllNpcs",
@@ -24903,7 +24908,7 @@
       "Name": "Beloved",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "MaxRepOfOneNpc",
@@ -24943,7 +24948,7 @@
       "Name": "Capitalist II",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "Patrimony3",
@@ -24951,7 +24956,7 @@
       "Name": "Capitalist III",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ReachNDays1",
@@ -24983,7 +24988,7 @@
       "Name": "AML questionnaire",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "TakeHomeNHearts",
@@ -24991,7 +24996,7 @@
       "Name": "Heartbreaker",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "UnlockAllAchievements",
@@ -24999,7 +25004,7 @@
       "Name": "Hell Is You",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "UnlockedAllShops",
@@ -25014,7 +25019,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 259499,
+      "Progressed": 259501,
       "Completed": 3
     }
   ],
@@ -25022,8 +25027,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-12-18T11:58:36.2981098+00:00",
-  "LastChanged_Achievements": "2023-12-19T16:07:37.6753159+00:00",
+  "LastChanged_Achievements": "2023-12-19T17:06:14.2359285+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.6293608+00:00",
-  "LastUpdate_Ratings": "2023-12-19T15:59:13.6854631+00:00",
-  "LastUpdate_Achievements": "2023-12-19T16:07:37.6754415+00:00"
+  "LastUpdate_Ratings": "2023-12-19T16:58:26.6942952+00:00",
+  "LastUpdate_Achievements": "2023-12-19T17:06:14.2360428+00:00"
 }

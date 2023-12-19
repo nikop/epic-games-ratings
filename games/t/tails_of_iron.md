@@ -5,6 +5,8 @@ Rating: 4.56 (Ranked 498)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| End of the Mozis | 0.20% | ~5 |
+| Throne Room Fit For A King | 0.20% | ~5 |
 | Become King | 0.10% | ~2 |
 | Collect Gold | 0.10% | ~2 |
 | Collect Iron Ore | 0.10% | ~2 |
@@ -14,9 +16,9 @@ Rating: 4.56 (Ranked 498)
 | Complete the Chefs Book | 0.10% | ~2 |
 | Complete Elder Faction | 0.10% | ~2 |
 | Complete Guard Faction | 0.10% | ~2 |
-| End of the Mozis | 0.10% | ~2 |
 | Defeat Ratnor Rodentson | 0.10% | ~2 |
 | Defeat Rattus Augustail | 0.10% | ~2 |
+| Fix the Travellers Wagon | 0.10% | ~2 |
 | Ranged Weapon | 0.10% | ~2 |
 | Two Handed Weapon | 0.10% | ~2 |
 | Defeat 25 Grubs | 0.10% | ~2 |
@@ -25,7 +27,6 @@ Rating: 4.56 (Ranked 498)
 | Meet the Creatures from the Deep | 0.10% | ~2 |
 | Kitchen Ready To Cook | 0.10% | ~2 |
 | Smithy Ready to Craft | 0.10% | ~2 |
-| Throne Room Fit For A King | 0.10% | ~2 |
 | Rescue Redgi's Brothers | 0.10% | ~2 |
 | Return Power To The Depths | 0.10% | ~2 |
 | Defeat Croakhis Khan | 0.10% | ~1 |
@@ -39,10 +40,9 @@ Rating: 4.56 (Ranked 498)
 | Complete Ranger Faction | 0.00% | ~0 |
 | A new Warchief rises | 0.00% | ~0 |
 | Defeat Avor Warden of the Northern Wastes | 0.00% | ~0 |
-| Fix the Travellers Wagon | 0.00% | ~0 |
 | Discover the mystery of the Kings Chambers | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,257 (Ranked 230)  
+Progressed: 2,258 (Ranked 230)  
 Completed: 12 (0.53%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 12 (0.53%) (Ranked 210)
 | 2023-12-16 | 2,250 | 12 |
 | 2023-12-17 | 2,255 | 12 |
 | 2023-12-18 | 2,256 | 12 |
-| 2023-12-19 | 2,257 | 12 |
+| 2023-12-19 | 2,258 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

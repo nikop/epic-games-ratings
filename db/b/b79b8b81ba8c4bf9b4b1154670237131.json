@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 3755,
+  "Ranking_EOS_NewCompleters": 3756,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
     "PcReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -143,9 +143,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15460,
+  "EOS_Progressed": 15461,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 479,
+  "EOS_NewPlayers": 475,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4133,6 +4133,11 @@
       "Time": "2023-12-19T16:09:41.8884353+00:00",
       "NumProgressed": 15460,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-19T17:09:11.5219703+00:00",
+      "NumProgressed": 15461,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -4177,7 +4182,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 11595
+      "UsersEstimate": 11596
     },
     {
       "ID": "ACH_AE_14",
@@ -4185,7 +4190,7 @@
       "Name": "Sticky Situation",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 2937
+      "UsersEstimate": 2938
     },
     {
       "ID": "ACH_AE_15",
@@ -4231,9 +4236,9 @@
       "ID": "ACH_AE_2",
       "SetID": "ck3465",
       "Name": "Back to School",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3556
+      "UsersEstimate": 3711
     },
     {
       "ID": "ACH_AE_20",
@@ -4424,7 +4429,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 15460,
+      "Progressed": 15461,
       "Completed": 14
     }
   ],
@@ -4432,8 +4437,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-13T16:00:23.030195+00:00",
-  "LastChanged_Achievements": "2023-12-19T16:09:41.8884348+00:00",
+  "LastChanged_Achievements": "2023-12-19T17:09:11.5219699+00:00",
   "LastUpdate_AppInfo": "2023-12-12T16:57:28.350985+00:00",
-  "LastUpdate_Ratings": "2023-12-19T15:59:26.5971792+00:00",
-  "LastUpdate_Achievements": "2023-12-19T16:09:41.8884789+00:00"
+  "LastUpdate_Ratings": "2023-12-19T16:58:36.3125002+00:00",
+  "LastUpdate_Achievements": "2023-12-19T17:09:11.5220064+00:00"
 }

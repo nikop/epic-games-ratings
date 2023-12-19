@@ -4,7 +4,7 @@
   "ProductSlug": "outbreak-epidemic-viral-terror-54b6e9",
   "Ranking_EOS_Progress": 636,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 481,
+  "Ranking_EOS_NewPlayers": 480,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-09-27T14:00:00+00:00",
@@ -69,9 +69,9 @@
       "ID": "A_BIT_MUCH_ACH",
       "SetID": "7ec7obg",
       "Name": "A Bit Much",
-      "Percentage": 0,
+      "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ENDURANCE_RUN_ACH",
@@ -172,8 +172,8 @@
   ],
   "FirstSeen": "2023-12-18T18:00:58.2692599+00:00",
   "FirstSeenAchievements": "2023-10-18T22:15:20.9427782+00:00",
-  "LastChanged_Achievements": "2023-12-19T16:07:56.9312252+00:00",
+  "LastChanged_Achievements": "2023-12-19T17:08:07.9732516+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:15.2155163+00:00",
-  "LastUpdate_Ratings": "2023-12-19T16:01:32.7350188+00:00",
-  "LastUpdate_Achievements": "2023-12-19T16:07:56.9312352+00:00"
+  "LastUpdate_Ratings": "2023-12-19T17:02:27.5989681+00:00",
+  "LastUpdate_Achievements": "2023-12-19T17:08:07.9732585+00:00"
 }

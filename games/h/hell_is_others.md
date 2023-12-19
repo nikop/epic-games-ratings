@@ -39,30 +39,30 @@ Rating: 4.40 (Ranked 746)
 | Number 1 | 0.80% | ~2,076 |
 | A major purchase | 0.60% | ~1,557 |
 | Interior designer | 0.60% | ~1,557 |
-| The Gamble | 0.50% | ~1,297 |
-| The Descent | 0.50% | ~1,297 |
+| The Gamble | 0.50% | ~1,298 |
+| The Descent | 0.50% | ~1,298 |
 | Expert Hunter | 0.40% | ~1,038 |
 | Fungi hunter | 0.40% | ~1,038 |
 | Predator III | 0.40% | ~1,038 |
-| Arms dealer | 0.30% | ~778 |
-| Fixer III | 0.30% | ~778 |
-| AML questionnaire | 0.30% | ~778 |
-| Heartbreaker | 0.30% | ~778 |
+| Arms dealer | 0.30% | ~779 |
+| Fixer III | 0.30% | ~779 |
+| AML questionnaire | 0.30% | ~779 |
+| Heartbreaker | 0.30% | ~779 |
 | Workhorse | 0.20% | ~519 |
 | Homerun | 0.20% | ~519 |
 | A season in Century City | 0.20% | ~519 |
-| Saver III | 0.10% | ~259 |
-| Collector | 0.10% | ~259 |
-| Mansion | 0.10% | ~259 |
-| Green thumb III | 0.10% | ~259 |
-| Plantation | 0.10% | ~259 |
-| Reminescence | 0.10% | ~259 |
-| Beloved | 0.10% | ~259 |
-| Capitalist II | 0.10% | ~259 |
-| Capitalist III | 0.10% | ~259 |
-| Hell Is You | 0.10% | ~259 |
+| Saver III | 0.10% | ~260 |
+| Collector | 0.10% | ~260 |
+| Mansion | 0.10% | ~260 |
+| Green thumb III | 0.10% | ~260 |
+| Plantation | 0.10% | ~260 |
+| Reminescence | 0.10% | ~260 |
+| Beloved | 0.10% | ~260 |
+| Capitalist II | 0.10% | ~260 |
+| Capitalist III | 0.10% | ~260 |
+| Hell Is You | 0.10% | ~260 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 259,499 (Ranked 59)  
+Progressed: 259,501 (Ranked 59)  
 Completed: 3 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 3 (0.00%) (Ranked 383)
 | 2023-12-16 | 259,413 | 3 |
 | 2023-12-17 | 259,443 | 3 |
 | 2023-12-18 | 259,478 | 3 |
-| 2023-12-19 | 259,499 | 3 |
+| 2023-12-19 | 259,501 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 53  (Ranked 432)  
 Sum: 365 (Ranked 357)  

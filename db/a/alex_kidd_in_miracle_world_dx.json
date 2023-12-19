@@ -4,7 +4,7 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 358,
+  "EOS_Progressed": 359,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.12,
+  "EOS_Completed_Percentage": 1.11,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:09.0192053+00:00",
@@ -649,6 +649,11 @@
       "Time": "2023-12-18T16:07:10.6419391+00:00",
       "NumProgressed": 358,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-19T17:06:09.8127828+00:00",
+      "NumProgressed": 359,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -732,7 +737,7 @@
       "Name": "Adventurer",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "LEVEL_06_NO_SHOT",
@@ -770,9 +775,9 @@
       "ID": "PET_DOG",
       "SetID": "7im05fi",
       "Name": "Overwhelmed Beast",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 32
     },
     {
       "ID": "TELEPATHY_BALL_OBTAINED",
@@ -787,7 +792,7 @@
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 358,
+      "Progressed": 359,
       "Completed": 4
     }
   ],
@@ -795,8 +800,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-12-19T16:07:33.1799226+00:00",
+  "LastChanged_Achievements": "2023-12-19T17:06:09.8127823+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:47.260114+00:00",
-  "LastUpdate_Ratings": "2023-12-19T16:00:57.5017943+00:00",
-  "LastUpdate_Achievements": "2023-12-19T16:07:33.1799367+00:00"
+  "LastUpdate_Ratings": "2023-12-19T16:59:42.0881494+00:00",
+  "LastUpdate_Achievements": "2023-12-19T17:06:09.8127963+00:00"
 }

@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 75.00% | ~145 |
-| Purification Pioneer | 70.00% | ~135 |
-| Mechanical Buddy | 65.00% | ~125 |
-| Dicesmithing Time! | 59.00% | ~114 |
-| Sanctuary Guardian | 53.00% | ~102 |
+| Meissa's Savior | 75.00% | ~146 |
+| Purification Pioneer | 70.00% | ~136 |
+| Mechanical Buddy | 64.00% | ~124 |
+| Dicesmithing Time! | 58.00% | ~113 |
+| Sanctuary Guardian | 53.00% | ~103 |
 | Endless Tricks | 49.00% | ~95 |
 | Wild's Keeper | 45.00% | ~87 |
 | Mind Illuminator | 42.00% | ~81 |
+| Stellar Dismantler | 35.00% | ~68 |
 | Noctuan Champion | 35.00% | ~68 |
-| Stellar Dismantler | 34.00% | ~66 |
 | Anomaly Destroyer | 30.00% | ~58 |
-| Astral Adventurer | 30.00% | ~58 |
+| Astral Adventurer | 29.00% | ~56 |
 | Star Killer | 27.00% | ~52 |
 | Eridanian Champion | 25.00% | ~48 |
-| Loyal Partner | 23.00% | ~44 |
-| Lacertian Champion | 23.00% | ~44 |
+| Loyal Partner | 23.00% | ~45 |
+| Lacertian Champion | 23.00% | ~45 |
 | Apian Champion | 21.00% | ~41 |
 | Shard Spender | 19.00% | ~37 |
 | Unbeatable | 18.00% | ~35 |
@@ -30,10 +30,10 @@
 | Stellar Haste | 10.00% | ~19 |
 | Aquarian Champion | 10.00% | ~19 |
 | Heart Gate | 9.00% | ~17 |
-| Favored by the Cosmos | 8.00% | ~15 |
-| The Corruption Goddess | 8.00% | ~15 |
-| The Goddes Avatar | 8.00% | ~15 |
-| Wave Bender | 8.00% | ~15 |
+| Favored by the Cosmos | 8.00% | ~16 |
+| The Corruption Goddess | 8.00% | ~16 |
+| The Goddes Avatar | 8.00% | ~16 |
+| Wave Bender | 8.00% | ~16 |
 | Artificer | 6.00% | ~12 |
 | Can't touch this | 6.00% | ~12 |
 | Apian Hero | 6.00% | ~12 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 193 (Ranked 403)  
+Progressed: 194 (Ranked 403)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,4 +157,4 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-16 | 161 | 0 |
 | 2023-12-17 | 175 | 0 |
 | 2023-12-18 | 184 | 0 |
-| 2023-12-19 | 193 | 0 |
+| 2023-12-19 | 194 | 0 |

@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 676,
+  "EOS_Progressed": 677,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.18,
   "EosHistory": [
@@ -2300,6 +2300,11 @@
       "Time": "2023-12-19T11:08:45.5617672+00:00",
       "NumProgressed": 676,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-19T17:08:28.4965496+00:00",
+      "NumProgressed": 677,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -2320,7 +2325,7 @@
       "Name": "Establish Communications",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "ACH_eou2",
@@ -2344,7 +2349,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_eou5",
@@ -2366,9 +2371,9 @@
       "ID": "ACH_eou7",
       "SetID": "51of0eo",
       "Name": "Destroy the Big Gun",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 162
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_eou8",
@@ -2415,14 +2420,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 676,
+      "Progressed": 677,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-19T16:08:44.7849787+00:00",
+  "LastChanged_Achievements": "2023-12-19T17:08:28.4965494+00:00",
   "LastUpdate_AppInfo": "2023-12-15T04:56:57.6157011+00:00",
-  "LastUpdate_Ratings": "2023-12-19T16:00:03.2470794+00:00",
-  "LastUpdate_Achievements": "2023-12-19T16:08:44.7850019+00:00"
+  "LastUpdate_Ratings": "2023-12-19T16:59:03.1002965+00:00",
+  "LastUpdate_Achievements": "2023-12-19T17:08:28.496568+00:00"
 }

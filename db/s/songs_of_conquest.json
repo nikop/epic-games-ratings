@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 565,
+  "EOS_Progressed": 568,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2308,6 +2308,11 @@
       "Time": "2023-12-19T16:08:51.4853564+00:00",
       "NumProgressed": 565,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T17:08:33.7502023+00:00",
+      "NumProgressed": 568,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2464,7 +2469,7 @@
       "Name": "Double Kill",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "FlameAttackKillCount",
@@ -2646,9 +2651,9 @@
       "ID": "WielderLevel1",
       "SetID": "71c0n9i",
       "Name": "Adept",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 227
     },
     {
       "ID": "WielderLevel2",
@@ -2751,15 +2756,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 565,
+      "Progressed": 568,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-19T16:08:51.4853559+00:00",
+  "LastChanged_Achievements": "2023-12-19T17:08:33.7502018+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:10.4027668+00:00",
-  "LastUpdate_Ratings": "2023-12-19T15:57:40.9511251+00:00",
-  "LastUpdate_Achievements": "2023-12-19T16:08:51.4853955+00:00"
+  "LastUpdate_Ratings": "2023-12-19T16:57:19.4952592+00:00",
+  "LastUpdate_Achievements": "2023-12-19T17:08:33.7502393+00:00"
 }

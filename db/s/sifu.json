@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 139,
   "Ranking_EOS_NewPlayers": 15,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8343,10 +8343,10 @@
       "Count": 433
     }
   ],
-  "EOS_Progressed": 736071,
-  "EOS_Completed": 12957,
-  "EOS_NewPlayers": 18083,
-  "EOS_NewCompleters": 5,
+  "EOS_Progressed": 736126,
+  "EOS_Completed": 12958,
+  "EOS_NewPlayers": 18138,
+  "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.76,
   "EosHistory": [
     {
@@ -30018,6 +30018,11 @@
       "Time": "2023-12-19T16:09:03.3297778+00:00",
       "NumProgressed": 736071,
       "NumCompleted": 12957
+    },
+    {
+      "Time": "2023-12-19T17:08:42.7576114+00:00",
+      "NumProgressed": 736126,
+      "NumCompleted": 12958
     }
   ],
   "TotalAchievements": 60,
@@ -30029,7 +30034,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22082
+      "UsersEstimate": 22084
     },
     {
       "ID": "02_Vengeance_H1",
@@ -30037,7 +30042,7 @@
       "Name": "The Assault",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14721
+      "UsersEstimate": 14723
     },
     {
       "ID": "03_Vengeance_H2",
@@ -30077,7 +30082,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 2944
+      "UsersEstimate": 2945
     },
     {
       "ID": "08_Wude_H2",
@@ -30085,7 +30090,7 @@
       "Name": "Tiger on Fire",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 2944
+      "UsersEstimate": 2945
     },
     {
       "ID": "09_Wude_H3",
@@ -30117,7 +30122,7 @@
       "Name": "Scareless",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5152
+      "UsersEstimate": 5153
     },
     {
       "ID": "13_LowAge",
@@ -30141,7 +30146,7 @@
       "Name": "Detective Story",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2944
+      "UsersEstimate": 2945
     },
     {
       "ID": "16_Detective_H2",
@@ -30189,7 +30194,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 4416
+      "UsersEstimate": 4417
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -30205,7 +30210,7 @@
       "Name": "Life is your teacher",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14721
+      "UsersEstimate": 14723
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -30293,7 +30298,7 @@
       "Name": "Lightning Hands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14721
+      "UsersEstimate": 14723
     },
     {
       "ID": "35_WideStrike",
@@ -30301,7 +30306,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5152
+      "UsersEstimate": 5153
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -30365,7 +30370,7 @@
       "Name": "Project Arena",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -30508,21 +30513,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 45372,
+      "Progressed": 45427,
       "Completed": 10775
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 736071,
-      "Completed": 12957
+      "Progressed": 736126,
+      "Completed": 12958
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-19T16:03:13.8751116+00:00",
-  "LastChanged_Achievements": "2023-12-19T16:09:03.3297773+00:00",
+  "LastChanged_Achievements": "2023-12-19T17:08:42.7576112+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:50.1499922+00:00",
-  "LastUpdate_Ratings": "2023-12-19T16:03:13.8751122+00:00",
-  "LastUpdate_Achievements": "2023-12-19T16:09:03.3299122+00:00"
+  "LastUpdate_Ratings": "2023-12-19T17:02:55.2651442+00:00",
+  "LastUpdate_Achievements": "2023-12-19T17:08:42.7577593+00:00"
 }

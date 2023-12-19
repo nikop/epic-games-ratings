@@ -1500,9 +1500,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 25702,
+  "EOS_Progressed": 25715,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 2000,
+  "EOS_NewPlayers": 2013,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -11100,6 +11100,11 @@
       "Time": "2023-12-19T16:10:13.3506969+00:00",
       "NumProgressed": 25702,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-19T17:09:35.0006046+00:00",
+      "NumProgressed": 25715,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -11191,7 +11196,7 @@
       "Name": "Spells and Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1285
+      "UsersEstimate": 1286
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -11422,21 +11427,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 25702,
+      "Progressed": 25715,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 4632,
+      "Progressed": 4645,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-07T09:58:25.2813813+00:00",
-  "LastChanged_Achievements": "2023-12-19T16:10:13.3506965+00:00",
+  "LastChanged_Achievements": "2023-12-19T17:09:35.0006044+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:44.2937948+00:00",
-  "LastUpdate_Ratings": "2023-12-19T15:57:57.4221183+00:00",
-  "LastUpdate_Achievements": "2023-12-19T16:10:13.3507629+00:00"
+  "LastUpdate_Ratings": "2023-12-19T16:57:31.8875119+00:00",
+  "LastUpdate_Achievements": "2023-12-19T17:09:35.0006629+00:00"
 }

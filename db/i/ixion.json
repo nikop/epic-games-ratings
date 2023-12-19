@@ -311,9 +311,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3581,
+  "EOS_Progressed": 3582,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6676,6 +6676,11 @@
       "Time": "2023-12-19T16:03:45.3936978+00:00",
       "NumProgressed": 3581,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T17:03:17.3698464+00:00",
+      "NumProgressed": 3582,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -6687,7 +6692,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "ACH_BASE_10",
@@ -6751,7 +6756,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "ACH_BASE_19",
@@ -6775,7 +6780,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "ACH_BASE_22",
@@ -6797,9 +6802,9 @@
       "ID": "ACH_BASE_24",
       "SetID": "92iocjf",
       "Name": "Sputnik 2049",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 931
+      "UsersEstimate": 967
     },
     {
       "ID": "ACH_BASE_25",
@@ -6837,9 +6842,9 @@
       "ID": "ACH_BASE_29",
       "SetID": "92iocjf",
       "Name": "A Thousand Strong",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 609
+      "UsersEstimate": 645
     },
     {
       "ID": "ACH_BASE_3",
@@ -6863,7 +6868,7 @@
       "Name": "Power Outage",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "ACH_BASE_32",
@@ -7015,7 +7020,7 @@
       "Name": "Convenient Transport",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "ACH_BASE_52",
@@ -7039,7 +7044,7 @@
       "Name": "Please Make it Stop!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "ACH_BASE_57",
@@ -7142,13 +7147,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1765,
+      "Progressed": 1766,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3581,
+      "Progressed": 3582,
       "Completed": 0
     }
   ],
@@ -7156,8 +7161,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-10T20:59:24.4447628+00:00",
-  "LastChanged_Achievements": "2023-12-19T16:03:45.3936973+00:00",
+  "LastChanged_Achievements": "2023-12-19T17:03:17.3698463+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.6786359+00:00",
-  "LastUpdate_Ratings": "2023-12-19T16:00:32.2517619+00:00",
-  "LastUpdate_Achievements": "2023-12-19T16:03:45.3937765+00:00"
+  "LastUpdate_Ratings": "2023-12-19T16:59:24.2045165+00:00",
+  "LastUpdate_Achievements": "2023-12-19T17:03:17.3699261+00:00"
 }

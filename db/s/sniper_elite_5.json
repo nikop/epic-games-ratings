@@ -8960,9 +8960,9 @@
       "ID": "REWARD_2_GATHERING_INTEL",
       "SetID": "bm6el81",
       "Name": "Confirming Suspicions",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1664
+      "UsersEstimate": 1705
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -9375,8 +9375,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-12T01:46:40.8883813+00:00",
-  "LastChanged_Achievements": "2023-12-19T16:09:21.9391602+00:00",
+  "LastChanged_Achievements": "2023-12-19T17:08:56.6407169+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:56:53.9169066+00:00",
-  "LastUpdate_Ratings": "2023-12-19T15:59:06.6338987+00:00",
-  "LastUpdate_Achievements": "2023-12-19T16:09:21.939253+00:00"
+  "LastUpdate_Ratings": "2023-12-19T16:58:21.5990774+00:00",
+  "LastUpdate_Achievements": "2023-12-19T17:08:56.6408235+00:00"
 }

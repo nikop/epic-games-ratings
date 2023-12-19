@@ -15,15 +15,15 @@
 | Refuse to look | 33.00% | ~52 |
 | Face your fears | 27.00% | ~42 |
 | Finished it | 26.00% | ~41 |
-| Whispers long forgotten | 13.00% | ~20 |
+| Whispers long forgotten | 14.00% | ~22 |
+| Debut | 11.00% | ~17 |
+| The art of movement | 11.00% | ~17 |
 | A Slice of Life | 10.00% | ~16 |
-| Debut | 10.00% | ~16 |
+| Sound Bite | 10.00% | ~16 |
 | Playtime | 10.00% | ~16 |
-| The art of movement | 10.00% | ~16 |
 | The tragedy unfolds | 10.00% | ~16 |
 | Tough conversation | 10.00% | ~16 |
 | First steps | 9.00% | ~14 |
-| Sound Bite | 9.00% | ~14 |
 | A new way | 8.00% | ~13 |
 | Another perspective | 8.00% | ~13 |
 | Breaking free | 8.00% | ~13 |

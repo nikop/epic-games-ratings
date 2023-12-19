@@ -1,20 +1,20 @@
 # Prison Architect
 [Store](https://store.epicgames.com/en-US/p/prison-architect)  
 [View Rawdata](../../db/p/prison_architect.json)  
-Rating: 4.61 (Ranked 395)  
+Rating: 4.61 (Ranked 394)  
 Number of Ratings: 4,491  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~51,264 |
-| Get Busy Living | 16.00% | ~32,809 |
-| Samuel Norton | 9.00% | ~18,455 |
-| Spare The Rod | 5.00% | ~10,253 |
+| Stone Walls | 25.00% | ~51,269 |
+| Get Busy Living | 16.00% | ~32,812 |
+| Samuel Norton | 9.00% | ~18,457 |
+| Spare The Rod | 5.00% | ~10,254 |
 | Don't Put Me In The Dark | 3.00% | ~6,152 |
 | Wait and Hope | 3.00% | ~6,152 |
 | I May Have Found A Way Out Of Here | 3.00% | ~6,152 |
-| Throw The Book At Them | 2.00% | ~4,101 |
-| Iron Bars | 2.00% | ~4,101 |
+| Throw The Book At Them | 2.00% | ~4,102 |
+| Iron Bars | 2.00% | ~4,102 |
 | D.B. Cooper | 1.00% | ~2,051 |
 | Reformation | 0.60% | ~1,230 |
 | Crowd Control | 0.50% | ~1,025 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~205 |
 | ... It's What You Can Prove | 0.10% | ~205 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 205,056 (Ranked 75)  
+Progressed: 205,077 (Ranked 75)  
 Completed: 11 (0.01%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,14 +266,14 @@ Completed: 11 (0.01%) (Ranked 359)
 | 2023-12-16 | 204,038 | 11 |
 | 2023-12-17 | 204,450 | 11 |
 | 2023-12-18 | 204,823 | 11 |
-| 2023-12-19 | 205,056 | 11 |
+| 2023-12-19 | 205,077 | 11 |
 ## Awards
-Max (Great for Beginners): 606  (Ranked 200)  
-Sum: 4,640 (Ranked 148)  
+Max (Great for Beginners): 607  (Ranked 200)  
+Sum: 4,641 (Ranked 148)  
 Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 606 |
+| This game is Great for Beginners | 607 |
 | This game is Extremely Fun | 589 |
 | This game is Highly Recommended | 553 |
 | This game has Quickly Understood Controls | 548 |
@@ -617,3 +617,4 @@ Diff (max vs sum): 52
 | 2023-12-16 | 4.61 | - | 603 | 4,626 |
 | 2023-12-17 | 4.61 | - | 603 | 4,627 |
 | 2023-12-18 | 4.61 | - | 606 | 4,640 |
+| 2023-12-19 | 4.61 | - | 607 | 4,641 |

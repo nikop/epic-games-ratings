@@ -5,34 +5,34 @@ Rating: 4.88 (Ranked 17)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 47.00% | ~656 |
-| Welcome to the Tower | 43.00% | ~600 |
-| The great escape | 36.00% | ~503 |
-| The Preacher's fate | 34.00% | ~475 |
-| A new dawn | 28.00% | ~391 |
-| Scholar | 24.00% | ~335 |
-| A good beginning | 23.00% | ~321 |
-| True G3M4R | 23.00% | ~321 |
-| The darkness | 23.00% | ~321 |
-| One last step | 21.00% | ~293 |
-| Cable guy | 20.00% | ~279 |
-| Half the way | 20.00% | ~279 |
-| I did it | 19.00% | ~265 |
-| Peace walker | 19.00% | ~265 |
-| Champollion | 19.00% | ~265 |
-| In this together | 18.00% | ~251 |
-| Rascal | 18.00% | ~251 |
-| Open door | 16.00% | ~223 |
-| Feels like springtime | 16.00% | ~223 |
-| Alchemists Express | 16.00% | ~223 |
-| Free at last | 14.00% | ~195 |
+| That's the spirit | 47.00% | ~658 |
+| Welcome to the Tower | 43.00% | ~602 |
+| The great escape | 36.00% | ~504 |
+| The Preacher's fate | 34.00% | ~476 |
+| A new dawn | 28.00% | ~392 |
+| True G3M4R | 24.00% | ~336 |
+| Scholar | 24.00% | ~336 |
+| A good beginning | 23.00% | ~322 |
+| The darkness | 23.00% | ~322 |
+| One last step | 21.00% | ~294 |
+| Cable guy | 20.00% | ~280 |
+| Half the way | 20.00% | ~280 |
+| I did it | 19.00% | ~266 |
+| Peace walker | 19.00% | ~266 |
+| Champollion | 19.00% | ~266 |
+| In this together | 18.00% | ~252 |
+| Rascal | 18.00% | ~252 |
+| Open door | 16.00% | ~224 |
+| Feels like springtime | 16.00% | ~224 |
+| Alchemists Express | 16.00% | ~224 |
+| Free at last | 14.00% | ~196 |
 | A Link to the Past | 12.00% | ~168 |
 | A great audience | 10.00% | ~140 |
 | For its own good | 10.00% | ~140 |
 | Fashion victim | 6.00% | ~84 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,396 (Ranked 252)  
-Completed: 74 (5.30%) (Ranked 75)  
+Progressed: 1,400 (Ranked 252)  
+Completed: 74 (5.29%) (Ranked 75)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -181,7 +181,7 @@ Completed: 74 (5.30%) (Ranked 75)
 | 2023-12-16 | 1,201 | 66 |
 | 2023-12-17 | 1,295 | 69 |
 | 2023-12-18 | 1,357 | 72 |
-| 2023-12-19 | 1,396 | 74 |
+| 2023-12-19 | 1,400 | 74 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

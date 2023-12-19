@@ -893,9 +893,9 @@
       "ID": "CLG_SKILL_LEVEL5_1",
       "SetID": "89cjc9l",
       "Name": "Topped up",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 59
     },
     {
       "ID": "CLG_SKILL_LEVEL5_2",
@@ -1109,9 +1109,9 @@
       "ID": "PRG_CHAPTER_2",
       "SetID": "89cjc9l",
       "Name": "Duscot Steamcity",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 96
     },
     {
       "ID": "PRG_CHAPTER_3",
@@ -1422,8 +1422,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-12-07T15:59:55.7707113+00:00",
-  "LastChanged_Achievements": "2023-12-19T16:04:25.2431467+00:00",
+  "LastChanged_Achievements": "2023-12-19T17:03:47.6050217+00:00",
   "LastUpdate_AppInfo": "2023-12-16T16:56:58.7640888+00:00",
-  "LastUpdate_Ratings": "2023-12-19T15:59:30.5035711+00:00",
-  "LastUpdate_Achievements": "2023-12-19T16:04:25.2432269+00:00"
+  "LastUpdate_Ratings": "2023-12-19T16:58:39.1838881+00:00",
+  "LastUpdate_Achievements": "2023-12-19T17:03:47.6050797+00:00"
 }

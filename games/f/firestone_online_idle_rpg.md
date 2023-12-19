@@ -5,28 +5,28 @@ Rating: 4.04 (Ranked 1,008)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,302 |
-| World Map | 78.00% | ~2,769 |
-| Temple of Eternals | 56.00% | ~1,988 |
-| Prestigious | 53.00% | ~1,882 |
-| Fellowship Power | 42.00% | ~1,491 |
+| Victor | 93.00% | ~3,303 |
+| World Map | 78.00% | ~2,771 |
+| Temple of Eternals | 56.00% | ~1,989 |
+| Prestigious | 53.00% | ~1,883 |
+| Fellowship Power | 42.00% | ~1,492 |
 | Full Party | 24.00% | ~852 |
-| Guild Power | 23.00% | ~816 |
+| Guild Power | 23.00% | ~817 |
 | Prestigious x10 | 21.00% | ~746 |
 | The game is on | 18.00% | ~639 |
 | Dragon Clicker | 16.00% | ~568 |
 | Exotic Merchant | 16.00% | ~568 |
-| Miner Clicker | 15.00% | ~532 |
+| Miner Clicker | 15.00% | ~533 |
 | Hero inspection | 14.00% | ~497 |
 | Inspection | 14.00% | ~497 |
 | Dragon Master | 13.00% | ~462 |
 | Enlightenment | 13.00% | ~462 |
 | Lieutenant | 13.00% | ~462 |
-| Milestone collector | 11.00% | ~390 |
-| Mysterious Rock | 11.00% | ~390 |
-| Natural Talent | 11.00% | ~390 |
-| Superior | 11.00% | ~390 |
-| The Unstoppable | 11.00% | ~390 |
+| Milestone collector | 11.00% | ~391 |
+| Mysterious Rock | 11.00% | ~391 |
+| Natural Talent | 11.00% | ~391 |
+| Superior | 11.00% | ~391 |
+| The Unstoppable | 11.00% | ~391 |
 | Scientist | 10.00% | ~355 |
 | Challenger | 9.00% | ~320 |
 | Daily Quest Completionist | 9.00% | ~320 |
@@ -61,8 +61,8 @@ Rating: 4.04 (Ranked 1,008)
 | Background Story | 4.00% | ~142 |
 | Ebony Jungle Liberator | 4.00% | ~142 |
 | Legendary | 4.00% | ~142 |
-| Gear Enchanting | 3.00% | ~106 |
-| Mythic Power | 3.00% | ~106 |
+| Gear Enchanting | 3.00% | ~107 |
+| Mythic Power | 3.00% | ~107 |
 | Cauldron Liberator | 2.00% | ~71 |
 | Enchanting skill x5 | 2.00% | ~71 |
 | Guardian Master | 2.00% | ~71 |
@@ -81,7 +81,7 @@ Rating: 4.04 (Ranked 1,008)
 | Jewel Enchanting | 0.20% | ~7 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,550 (Ranked 212)  
+Progressed: 3,552 (Ranked 212)  
 Completed: 2 (0.06%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 2 (0.06%) (Ranked 324)
 | 2023-12-16 | 3,473 | 2 |
 | 2023-12-17 | 3,503 | 2 |
 | 2023-12-18 | 3,537 | 2 |
-| 2023-12-19 | 3,550 | 2 |
+| 2023-12-19 | 3,552 | 2 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 472)  
 Sum: 145 (Ranked 432)  

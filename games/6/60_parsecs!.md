@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 97.00% | ~760 |
-| Space Colonization | 81.00% | ~635 |
-| Friendzone | 80.00% | ~627 |
-| Hello World | 75.00% | ~588 |
+| Don't Panic! | 97.00% | ~761 |
+| Space Colonization | 81.00% | ~636 |
+| Friendzone | 80.00% | ~628 |
+| Hello World | 75.00% | ~589 |
 | Space Engineer | 65.00% | ~510 |
-| Tinkerer | 63.00% | ~494 |
+| Tinkerer | 63.00% | ~495 |
 | Dust to Dust | 59.00% | ~463 |
-| Across The Stars | 49.00% | ~384 |
-| Crafty | 49.00% | ~384 |
+| Across The Stars | 49.00% | ~385 |
+| Crafty | 49.00% | ~385 |
 | All Seats Taken | 40.00% | ~314 |
-| For Science! | 35.00% | ~274 |
+| For Science! | 35.00% | ~275 |
 | Meet the Petersons | 32.00% | ~251 |
-| Stay Cool | 30.00% | ~235 |
+| Stay Cool | 30.00% | ~236 |
 | KIA | 27.00% | ~212 |
 | Mutiny in making | 24.00% | ~188 |
 | Eco-Shuttle | 20.00% | ~157 |
 | Et tu, Astrocitizen? | 20.00% | ~157 |
 | Space Explorer | 17.00% | ~133 |
 | Hands Full | 14.00% | ~110 |
-| Gold Medalist | 13.00% | ~102 |
+| Gold Medalist | 12.00% | ~94 |
 | Non-Fiction | 12.00% | ~94 |
 | No Man Left Behind | 9.00% | ~71 |
 | Fix-It Felix | 8.00% | ~63 |
 | Intergalactic Breakup | 8.00% | ~63 |
 | Second Life | 8.00% | ~63 |
-| Axel jump in space! | 7.00% | ~55 |
 | First of April | 7.00% | ~55 |
 | Flawless Maegangement | 7.00% | ~55 |
+| Axel jump in space! | 6.00% | ~47 |
 | Extreme Makeover | 5.00% | ~39 |
 | The Improvinator | 4.00% | ~31 |
 | The Last Supper | 4.00% | ~31 |
@@ -49,7 +49,7 @@
 | Unidentified Flying Offspring | 0.10% | ~1 |
 | Man's best comrade | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 784 (Ranked 292)  
+Progressed: 785 (Ranked 291)  
 Completed: 1 (0.13%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,6 +179,7 @@ Completed: 1 (0.13%) (Ranked 289)
 | 2023-12-13 | 781 | 1 |
 | 2023-12-14 | 783 | 1 |
 | 2023-12-16 | 784 | 1 |
+| 2023-12-19 | 785 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

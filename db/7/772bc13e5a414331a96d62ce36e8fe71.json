@@ -970,17 +970,17 @@
       "ID": "1000_XP",
       "SetID": "8d0im30",
       "Name": "1000 Score",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 200,
-      "UsersEstimate": 88
+      "UsersEstimate": 91
     },
     {
       "ID": "100_XP",
       "SetID": "8d0im30",
       "Name": "500 Score",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 200,
-      "UsersEstimate": 124
+      "UsersEstimate": 127
     },
     {
       "ID": "10_XP",
@@ -1001,8 +1001,8 @@
   ],
   "FirstSeen": "2023-12-08T10:57:34.1568649+00:00",
   "FirstSeenAchievements": "2023-12-07T15:03:10.6469952+00:00",
-  "LastChanged_Achievements": "2023-12-19T16:04:57.6315508+00:00",
+  "LastChanged_Achievements": "2023-12-19T17:04:12.6590841+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:11.5515181+00:00",
-  "LastUpdate_Ratings": "2023-12-19T16:00:35.239239+00:00",
-  "LastUpdate_Achievements": "2023-12-19T16:04:57.6315626+00:00"
+  "LastUpdate_Ratings": "2023-12-19T16:59:26.3553895+00:00",
+  "LastUpdate_Achievements": "2023-12-19T17:04:12.6590934+00:00"
 }
