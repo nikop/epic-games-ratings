@@ -9,16 +9,16 @@ Rating: 4.29 (Ranked 855)
 | The City | 11.00% | ~135 |
 | Manipulating Fate | 10.00% | ~123 |
 | Full house | 7.00% | ~86 |
+| Burn and Pillage | 7.00% | ~86 |
 | Hear me out | 7.00% | ~86 |
-| Burn and Pillage | 6.00% | ~74 |
 | Listening to the crowd | 6.00% | ~74 |
+| Ascended | 5.00% | ~61 |
 | The Penitent Ones | 5.00% | ~61 |
 | Greedy | 5.00% | ~61 |
 | Hidden Secrets | 5.00% | ~61 |
 | The Stranded King | 5.00% | ~61 |
 | Accepting the Prophecy | 5.00% | ~61 |
 | Just Chilling | 4.00% | ~49 |
-| Ascended | 4.00% | ~49 |
 | Incredible Strength | 4.00% | ~49 |
 | Prophecy Fulfilled | 4.00% | ~49 |
 | The Greedy Ones | 3.00% | ~37 |
@@ -38,11 +38,11 @@ Rating: 4.29 (Ranked 855)
 | Ice and Fire | 0.20% | ~2 |
 | Mad Engineers | 0.20% | ~2 |
 | Aesthetics | 0.20% | ~2 |
+| The experiment | 0.20% | ~2 |
 | The Flail | 0.20% | ~2 |
 | The Corrupted | 0.20% | ~2 |
 | The Foul | 0.20% | ~2 |
 | The Incarnate | 0.20% | ~2 |
-| The experiment | 0.10% | ~1 |
 | Break the chains | 0.00% | ~0 |
 | Purist | 0.00% | ~0 |
 | Discover the truth | 0.00% | ~0 |

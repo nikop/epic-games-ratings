@@ -6,50 +6,50 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 3.00% | ~22,072 |
-| The Assault | 2.00% | ~14,714 |
-| Life is your teacher | 2.00% | ~14,714 |
-| Lightning Hands | 2.00% | ~14,714 |
-| The Hateful Pole Fighter | 1.00% | ~7,357 |
-| A Lady's Blood in the Snow | 1.00% | ~7,357 |
-| Kill Nil | 1.00% | ~7,357 |
-| Stuntmaster | 1.00% | ~7,357 |
-| Street Fighting | 1.00% | ~7,357 |
-| State of constant learning | 1.00% | ~7,357 |
-| Qi Gong: Breath | 1.00% | ~7,357 |
-| Qi Gong: Essence | 1.00% | ~7,357 |
-| Old Child | 1.00% | ~7,357 |
-| Path of the Prospect | 1.00% | ~7,357 |
-| Rumble in the Hangar | 1.00% | ~7,357 |
-| Diligence as a goal | 1.00% | ~450 |
-| Lady Wing Chun | 0.90% | ~6,622 |
-| I know Kung-Fu | 0.90% | ~6,622 |
-| Project Arena | 0.90% | ~405 |
-| Furious Fists | 0.80% | ~5,886 |
-| Qi Gong: Mind | 0.80% | ~5,886 |
-| Take damage to save time | 0.80% | ~5,886 |
-| Scareless | 0.70% | ~5,150 |
-| Kung-Fu Tussle | 0.70% | ~5,150 |
-| Fight the way you practice | 0.70% | ~315 |
-| Dance of the Praying Mantis | 0.60% | ~4,414 |
-| Bloody Sport | 0.50% | ~225 |
-| Martial Hub | 0.50% | ~225 |
+| The Old Grandmaster | 3.00% | ~22,076 |
+| The Assault | 2.00% | ~14,717 |
+| Life is your teacher | 2.00% | ~14,717 |
+| Lightning Hands | 2.00% | ~14,717 |
+| The Hateful Pole Fighter | 1.00% | ~7,359 |
+| A Lady's Blood in the Snow | 1.00% | ~7,359 |
+| Kill Nil | 1.00% | ~7,359 |
+| Stuntmaster | 1.00% | ~7,359 |
+| Street Fighting | 1.00% | ~7,359 |
+| State of constant learning | 1.00% | ~7,359 |
+| Qi Gong: Breath | 1.00% | ~7,359 |
+| Qi Gong: Essence | 1.00% | ~7,359 |
+| Old Child | 1.00% | ~7,359 |
+| Path of the Prospect | 1.00% | ~7,359 |
+| Rumble in the Hangar | 1.00% | ~7,359 |
+| Diligence as a goal | 1.00% | ~452 |
+| Lady Wing Chun | 0.90% | ~6,623 |
+| I know Kung-Fu | 0.90% | ~6,623 |
+| Project Arena | 0.90% | ~406 |
+| Furious Fists | 0.80% | ~5,887 |
+| Qi Gong: Mind | 0.80% | ~5,887 |
+| Take damage to save time | 0.80% | ~5,887 |
+| Scareless | 0.70% | ~5,151 |
+| Kung-Fu Tussle | 0.70% | ~5,151 |
+| Fight the way you practice | 0.70% | ~316 |
+| Dance of the Praying Mantis | 0.60% | ~4,415 |
+| Bloody Sport | 0.50% | ~226 |
+| Martial Hub | 0.50% | ~226 |
 | Muk Yan Master | 0.40% | ~2,943 |
 | Tiger on Fire | 0.40% | ~2,943 |
 | Detective Story | 0.40% | ~2,943 |
-| Source of Flying Daggers | 0.30% | ~2,207 |
-| Iron Money | 0.30% | ~2,207 |
-| Legendary Talismans of Wuxing | 0.30% | ~2,207 |
-| Prodigal Child | 0.30% | ~2,207 |
-| The 36th Chamber of Kung-Fu | 0.30% | ~2,207 |
-| Sword Stained With Blood | 0.30% | ~2,207 |
+| Source of Flying Daggers | 0.30% | ~2,208 |
+| Iron Money | 0.30% | ~2,208 |
+| Legendary Talismans of Wuxing | 0.30% | ~2,208 |
+| Prodigal Child | 0.30% | ~2,208 |
+| The 36th Chamber of Kung-Fu | 0.30% | ~2,208 |
+| Sword Stained With Blood | 0.30% | ~2,208 |
 | The best strikes are the ones we avoid | 0.30% | ~135 |
-| Drunken Fighter | 0.20% | ~1,471 |
-| Martial Artist | 0.20% | ~1,471 |
-| Knowledge Greed | 0.20% | ~1,471 |
-| The Pit Protector | 0.20% | ~1,471 |
-| Be like water my friend | 0.20% | ~1,471 |
-| Come Snap With Me | 0.20% | ~1,471 |
+| Drunken Fighter | 0.20% | ~1,472 |
+| Martial Artist | 0.20% | ~1,472 |
+| Knowledge Greed | 0.20% | ~1,472 |
+| The Pit Protector | 0.20% | ~1,472 |
+| Be like water my friend | 0.20% | ~1,472 |
+| Come Snap With Me | 0.20% | ~1,472 |
 | Deadly Venom | 0.20% | ~90 |
 | A Touch of Acumen | 0.20% | ~90 |
 | Skill and an even stronger will | 0.20% | ~90 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~45 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 735,723 (Ranked 24)  
+Progressed: 735,856 (Ranked 24)  
 Completed: 12,957 (1.76%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,14 +310,14 @@ Completed: 12,957 (1.76%) (Ranked 139)
 | 2023-12-16 | 730,184 | 12,954 |
 | 2023-12-17 | 733,014 | 12,955 |
 | 2023-12-18 | 734,825 | 12,956 |
-| 2023-12-19 | 735,723 | 12,957 |
+| 2023-12-19 | 735,856 | 12,957 |
 ## Awards
-Max (Great Boss Battles): 6,957  (Ranked 55)  
-Sum: 12,199 (Ranked 84)  
+Max (Great Boss Battles): 6,965  (Ranked 55)  
+Sum: 12,207 (Ranked 84)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,957 |
+| This game has Great Boss Battles | 6,965 |
 | This game has Diverse Characters | 679 |
 | This game has Challenging Combat | 621 |
 | This game has Amazing Storytelling | 603 |
@@ -667,4 +667,4 @@ Diff (max vs sum): -29
 | 2023-12-16 | 4.82 | - | 6,935 | 12,172 |
 | 2023-12-17 | 4.82 | - | 6,944 | 12,182 |
 | 2023-12-18 | 4.82 | - | 6,957 | 12,197 |
-| 2023-12-19 | 4.82 | - | 6,957 | 12,199 |
+| 2023-12-19 | 4.82 | - | 6,965 | 12,207 |

@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 505,
+  "Ranking_EOS_NewPlayers": 476,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -23,9 +23,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 621,
+  "EOS_Progressed": 622,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1708,6 +1708,11 @@
       "Time": "2023-12-15T14:03:31.0175849+00:00",
       "NumProgressed": 621,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T14:05:03.6516151+00:00",
+      "NumProgressed": 622,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1743,7 +1748,7 @@
       "Name": "The Wraith",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "Chapter10",
@@ -1887,7 +1892,7 @@
       "Name": "Wait! Wait! Not yet!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "Memories",
@@ -1901,9 +1906,9 @@
       "ID": "Murderer",
       "SetID": "70l3651",
       "Name": "Murderer",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 56
     },
     {
       "ID": "NoDamage",
@@ -1999,21 +2004,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 621,
+      "Progressed": 622,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-12-19T13:10:12.0792774+00:00",
+  "LastChanged_Achievements": "2023-12-19T14:05:03.6516148+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:23.8581095+00:00",
-  "LastUpdate_Ratings": "2023-12-19T13:04:01.0375365+00:00",
-  "LastUpdate_Achievements": "2023-12-19T13:10:12.0793011+00:00"
+  "LastUpdate_Ratings": "2023-12-19T13:58:57.8925993+00:00",
+  "LastUpdate_Achievements": "2023-12-19T14:05:03.6516503+00:00"
 }

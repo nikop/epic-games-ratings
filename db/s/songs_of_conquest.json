@@ -5,7 +5,7 @@
   "Ranking_Rating": 232,
   "Ranking_Popularity": 520,
   "Ranking_PopularitySum": 413,
-  "Ranking_EOS_Progress": 321,
+  "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 158,
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 562,
+  "EOS_Progressed": 563,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2293,6 +2293,11 @@
       "Time": "2023-12-19T13:13:43.1191035+00:00",
       "NumProgressed": 562,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T14:08:25.5626384+00:00",
+      "NumProgressed": 563,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2329,7 +2334,7 @@
       "Name": "Dressed For Success",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "AttackCount",
@@ -2569,7 +2574,7 @@
       "Name": "Don\u0027t Touch My Stuff",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "RepelIntoExplosiveFungi",
@@ -2623,9 +2628,9 @@
       "ID": "UltraKill",
       "SetID": "71c0n9i",
       "Name": "Ultra Kill",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 11
     },
     {
       "ID": "WielderLevel1",
@@ -2639,9 +2644,9 @@
       "ID": "WielderLevel2",
       "SetID": "71c0n9i",
       "Name": "Veteran",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 101
     },
     {
       "ID": "WielderLevel3",
@@ -2736,15 +2741,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 562,
+      "Progressed": 563,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-19T13:13:43.1191031+00:00",
+  "LastChanged_Achievements": "2023-12-19T14:08:25.5626381+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:10.4027668+00:00",
-  "LastUpdate_Ratings": "2023-12-19T13:02:27.3643734+00:00",
-  "LastUpdate_Achievements": "2023-12-19T13:13:43.1191488+00:00"
+  "LastUpdate_Ratings": "2023-12-19T13:57:20.9840967+00:00",
+  "LastUpdate_Achievements": "2023-12-19T14:08:25.5626758+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -477,9 +477,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3461,
+  "EOS_Progressed": 3462,
   "EOS_Completed": 139,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.02,
   "EosHistory": [
@@ -5637,6 +5637,11 @@
       "Time": "2023-12-19T13:10:10.4034635+00:00",
       "NumProgressed": 3461,
       "NumCompleted": 139
+    },
+    {
+      "Time": "2023-12-19T14:05:01.7713608+00:00",
+      "NumProgressed": 3462,
+      "NumCompleted": 139
     }
   ],
   "TotalAchievements": 14,
@@ -5664,7 +5669,7 @@
       "Name": "Cat Person",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "ACH_CLIMBER",
@@ -5672,7 +5677,7 @@
       "Name": "Climber",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "ACH_DOG_LOVER",
@@ -5704,7 +5709,7 @@
       "Name": "Hidden Secrets",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "ACH_IMPRISONMENT",
@@ -5744,7 +5749,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 1038
+      "UsersEstimate": 1039
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -5759,7 +5764,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3461,
+      "Progressed": 3462,
       "Completed": 139
     }
   ],
@@ -5767,8 +5772,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-12-16T18:57:24.1820131+00:00",
-  "LastChanged_Achievements": "2023-12-19T13:10:10.4034629+00:00",
+  "LastChanged_Achievements": "2023-12-19T14:05:01.7713605+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:20.5679965+00:00",
-  "LastUpdate_Ratings": "2023-12-19T13:03:31.4647335+00:00",
-  "LastUpdate_Achievements": "2023-12-19T13:10:10.4034956+00:00"
+  "LastUpdate_Ratings": "2023-12-19T13:58:26.8950734+00:00",
+  "LastUpdate_Achievements": "2023-12-19T14:05:01.7714016+00:00"
 }

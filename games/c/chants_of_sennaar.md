@@ -1,38 +1,38 @@
 # Chants of Sennaar
 [Store](https://store.epicgames.com/en-US/p/chants-of-sennaar)  
 [View Rawdata](../../db/c/chants_of_sennaar.json)  
-Rating: 4.86 (Ranked 35)  
+Rating: 4.88 (Ranked 17)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 47.00% | ~651 |
-| Welcome to the Tower | 43.00% | ~596 |
-| The great escape | 36.00% | ~499 |
-| The Preacher's fate | 34.00% | ~471 |
-| A new dawn | 28.00% | ~388 |
+| That's the spirit | 47.00% | ~652 |
+| Welcome to the Tower | 43.00% | ~597 |
+| The great escape | 36.00% | ~500 |
+| The Preacher's fate | 34.00% | ~472 |
+| A new dawn | 28.00% | ~389 |
 | Scholar | 24.00% | ~333 |
 | A good beginning | 23.00% | ~319 |
 | True G3M4R | 23.00% | ~319 |
 | The darkness | 23.00% | ~319 |
-| Cable guy | 20.00% | ~277 |
-| Half the way | 20.00% | ~277 |
-| One last step | 20.00% | ~277 |
-| I did it | 19.00% | ~263 |
-| Peace walker | 19.00% | ~263 |
-| In this together | 18.00% | ~249 |
-| Rascal | 18.00% | ~249 |
-| Champollion | 18.00% | ~249 |
+| One last step | 21.00% | ~291 |
+| Cable guy | 20.00% | ~278 |
+| Half the way | 20.00% | ~278 |
+| I did it | 19.00% | ~264 |
+| Peace walker | 19.00% | ~264 |
+| In this together | 18.00% | ~250 |
+| Rascal | 18.00% | ~250 |
+| Champollion | 18.00% | ~250 |
 | Open door | 16.00% | ~222 |
 | Feels like springtime | 16.00% | ~222 |
 | Alchemists Express | 16.00% | ~222 |
 | Free at last | 14.00% | ~194 |
-| A Link to the Past | 12.00% | ~166 |
+| A Link to the Past | 12.00% | ~167 |
 | A great audience | 10.00% | ~139 |
 | For its own good | 10.00% | ~139 |
 | Fashion victim | 5.00% | ~69 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,386 (Ranked 252)  
-Completed: 73 (5.27%) (Ranked 75)  
+Progressed: 1,388 (Ranked 252)  
+Completed: 73 (5.26%) (Ranked 75)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -181,9 +181,10 @@ Completed: 73 (5.27%) (Ranked 75)
 | 2023-12-16 | 1,201 | 66 |
 | 2023-12-17 | 1,295 | 69 |
 | 2023-12-18 | 1,357 | 72 |
-| 2023-12-19 | 1,386 | 73 |
+| 2023-12-19 | 1,388 | 73 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
 | 2023-12-16 | 4.85 | 0 | 0 |
 | 2023-12-17 | 4.86 | 0 | 0 |
+| 2023-12-19 | 4.88 | 0 | 0 |

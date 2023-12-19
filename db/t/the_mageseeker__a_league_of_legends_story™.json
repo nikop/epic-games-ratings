@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2870,
+  "EOS_Progressed": 2871,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -4680,6 +4680,11 @@
       "Time": "2023-12-19T13:11:23.1456882+00:00",
       "NumProgressed": 2870,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-12-19T14:07:55.9028137+00:00",
+      "NumProgressed": 2871,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 53,
@@ -4755,7 +4760,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2726
+      "UsersEstimate": 2727
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -4795,7 +4800,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1120
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -4867,7 +4872,7 @@
       "Name": "Pentakill",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2210
+      "UsersEstimate": 2211
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -4875,7 +4880,7 @@
       "Name": "No more cages!",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 2612
+      "UsersEstimate": 2613
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -4907,7 +4912,7 @@
       "Name": "Dark Forest",
       "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 2210
+      "UsersEstimate": 2211
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -4923,15 +4928,15 @@
       "Name": "Clarion Cove",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1120
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Devineur",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 861
+      "UsersEstimate": 890
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -4947,7 +4952,7 @@
       "Name": "Glyndemere",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "STB_MISSION5B_COMPLETED",
@@ -5019,7 +5024,7 @@
       "Name": "Back to sleep, then...",
       "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_I",
@@ -5043,7 +5048,7 @@
       "Name": "Iffighain Headquarters",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_IV",
@@ -5067,7 +5072,7 @@
       "Name": "The use of petricite",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2124
+      "UsersEstimate": 2125
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -5114,7 +5119,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2870,
+      "Progressed": 2871,
       "Completed": 16
     }
   ],
@@ -5122,8 +5127,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-17T13:59:07.4077367+00:00",
-  "LastChanged_Achievements": "2023-12-19T13:11:23.1456878+00:00",
+  "LastChanged_Achievements": "2023-12-19T14:07:55.9028132+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:24.9335177+00:00",
-  "LastUpdate_Ratings": "2023-12-19T13:04:16.2054327+00:00",
-  "LastUpdate_Achievements": "2023-12-19T13:11:23.1457345+00:00"
+  "LastUpdate_Ratings": "2023-12-19T13:59:13.0617215+00:00",
+  "LastUpdate_Achievements": "2023-12-19T14:07:55.9028661+00:00"
 }

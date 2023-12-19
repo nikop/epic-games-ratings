@@ -8,9 +8,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 8.00% | ~270 |
 | Lost and Found | 5.00% | ~169 |
+| This Belongs in a Museum | 4.00% | ~5,140 |
 | Autodidact | 4.00% | ~5,140 |
 | This guy... again? | 4.00% | ~135 |
-| This Belongs in a Museum | 3.00% | ~3,855 |
+| Bloody Graduation | 4.00% | ~135 |
 | Not Today! | 3.00% | ~3,855 |
 | Creep and Sleep | 3.00% | ~3,855 |
 | Meat and Greet | 3.00% | ~3,855 |
@@ -18,7 +19,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Overdue Notice | 3.00% | ~3,855 |
 | Escape from the Black Hole | 3.00% | ~3,855 |
 | Ploughshares to Swords | 3.00% | ~101 |
-| Bloody Graduation | 3.00% | ~101 |
 | Don't Make Me Turn This Coach Around | 2.00% | ~2,570 |
 | Serenity Now! | 2.00% | ~2,570 |
 | It Rings a Bell | 2.00% | ~2,570 |
@@ -32,7 +32,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 2.00% | ~2,570 |
 | FNG | 2.00% | ~2,570 |
 | Nope | 2.00% | ~2,570 |
-| Friends 'Til the End | 2.00% | ~67 |
+| Friends 'Til the End | 2.00% | ~68 |
 | Resurrection | 1.00% | ~1,285 |
 | Unleash Hell | 1.00% | ~1,285 |
 | Funny Guy | 1.00% | ~1,285 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,503 (Ranked 85)  
+Progressed: 128,511 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,10 +319,10 @@ Completed: 3 (0.00%) (Ranked 383)
 | 2023-12-16 | 127,826 | 3 |
 | 2023-12-17 | 128,143 | 3 |
 | 2023-12-18 | 128,398 | 3 |
-| 2023-12-19 | 128,503 | 3 |
+| 2023-12-19 | 128,511 | 3 |
 ## Awards
 Max (Character Customization): 7,795  (Ranked 50)  
-Sum: 20,786 (Ranked 58)  
+Sum: 20,792 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -331,9 +331,9 @@ Diff (max vs sum): -8
 | This game has Challenging Combat | 1,606 |
 | This game is Highly Recommended | 1,547 |
 | This game is Extremely Fun | 1,471 |
-| This game has Amazing Characters | 1,465 |
+| This game has Amazing Characters | 1,467 |
 | This game has Amazing Storytelling | 1,394 |
-| This game has Unique Visuals | 1,386 |
+| This game has Unique Visuals | 1,390 |
 | This game has Quickly Understood Controls | 1,360 |
 | This game has a Creative Community | 1,031 |
 | This game has Obsessive Gameplay | 585 |
@@ -666,4 +666,4 @@ Diff (max vs sum): -8
 | 2023-12-16 | 4.68 | - | 7,744 | 20,595 |
 | 2023-12-17 | 4.68 | - | 7,763 | 20,673 |
 | 2023-12-18 | 4.68 | - | 7,784 | 20,761 |
-| 2023-12-19 | 4.68 | - | 7,795 | 20,786 |
+| 2023-12-19 | 4.68 | - | 7,795 | 20,792 |

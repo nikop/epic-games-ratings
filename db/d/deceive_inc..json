@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19105,
+  "EOS_Progressed": 19106,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13864,6 +13864,11 @@
       "Time": "2023-12-19T02:28:23.693138+00:00",
       "NumProgressed": 19105,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-19T14:04:57.3861075+00:00",
+      "NumProgressed": 19106,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -13971,7 +13976,7 @@
       "Name": "Keycards Royale",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1910
+      "UsersEstimate": 1911
     },
     {
       "ID": "0014",
@@ -14011,7 +14016,7 @@
       "Name": "In It to Win It",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1719
+      "UsersEstimate": 1720
     },
     {
       "ID": "0019",
@@ -14027,7 +14032,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 10,
       "XP": 115,
-      "UsersEstimate": 1910
+      "UsersEstimate": 1911
     },
     {
       "ID": "0021",
@@ -14162,7 +14167,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19105,
+      "Progressed": 19106,
       "Completed": 4
     }
   ],
@@ -14170,8 +14175,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-11-20T16:57:01.0774379+00:00",
-  "LastChanged_Achievements": "2023-12-19T13:10:06.2440505+00:00",
+  "LastChanged_Achievements": "2023-12-19T14:04:57.3861071+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:23.0079073+00:00",
-  "LastUpdate_Ratings": "2023-12-19T13:02:12.9790516+00:00",
-  "LastUpdate_Achievements": "2023-12-19T13:10:06.2441365+00:00"
+  "LastUpdate_Ratings": "2023-12-19T13:57:06.543524+00:00",
+  "LastUpdate_Achievements": "2023-12-19T14:04:57.3862135+00:00"
 }

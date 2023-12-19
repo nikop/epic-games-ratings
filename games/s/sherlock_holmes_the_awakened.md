@@ -5,36 +5,36 @@ Rating: 4.54 (Ranked 531)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 63.00% | ~788 |
-| To Hell In A Handcart | 62.00% | ~775 |
-| High Profile | 54.00% | ~675 |
-| Whispers In The Dark | 51.00% | ~638 |
-| Fond Memories | 50.00% | ~625 |
+| Read Between The Lines | 63.00% | ~789 |
+| To Hell In A Handcart | 62.00% | ~776 |
+| High Profile | 54.00% | ~676 |
+| Whispers In The Dark | 51.00% | ~639 |
+| Fond Memories | 50.00% | ~626 |
 | A Method To His Madness | 47.00% | ~588 |
-| History Check | 46.00% | ~575 |
-| The New World | 44.00% | ~550 |
-| Gaze Into The Abyss | 43.00% | ~538 |
+| History Check | 46.00% | ~576 |
+| The New World | 44.00% | ~551 |
 | Open Sesame | 43.00% | ~538 |
 | Sticky Fingers | 43.00% | ~538 |
-| Knives Out | 43.00% | ~538 |
-| Lock, Stock, And Barrel | 42.00% | ~525 |
-| Back In The Saddle | 42.00% | ~525 |
-| Land, Ho! | 42.00% | ~525 |
-| No Man Is An Island | 40.00% | ~500 |
-| At Wits' End | 40.00% | ~500 |
-| Up In Flames | 38.00% | ~475 |
-| Fhtagn! | 38.00% | ~475 |
-| Bookworm | 37.00% | ~462 |
+| Lock, Stock, And Barrel | 42.00% | ~526 |
+| Gaze Into The Abyss | 42.00% | ~526 |
+| Knives Out | 42.00% | ~526 |
+| Land, Ho! | 42.00% | ~526 |
+| Back In The Saddle | 41.00% | ~513 |
+| No Man Is An Island | 40.00% | ~501 |
+| At Wits' End | 39.00% | ~488 |
+| Up In Flames | 38.00% | ~476 |
+| Fhtagn! | 38.00% | ~476 |
+| Bookworm | 37.00% | ~463 |
 | Going Once... | 35.00% | ~438 |
-| Let Me Be Frank | 34.00% | ~425 |
-| No Stone Unturned | 32.00% | ~400 |
-| Brain Food | 30.00% | ~375 |
+| Let Me Be Frank | 34.00% | ~426 |
+| No Stone Unturned | 32.00% | ~401 |
+| Brain Food | 30.00% | ~376 |
 | Read It And Weep | 19.00% | ~238 |
 | Curiosity Killed The Cat | 18.00% | ~225 |
 | Big Breakthrough | 12.00% | ~150 |
 | Reawakened | 3.00% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,250 (Ranked 259)  
+Progressed: 1,252 (Ranked 259)  
 Completed: 34 (2.72%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 34 (2.72%) (Ranked 118)
 | 2023-12-16 | 1,211 | 31 |
 | 2023-12-17 | 1,226 | 33 |
 | 2023-12-18 | 1,241 | 34 |
-| 2023-12-19 | 1,250 | 34 |
+| 2023-12-19 | 1,252 | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

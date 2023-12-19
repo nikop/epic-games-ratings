@@ -4279,9 +4279,9 @@
       "ID": "ReturnPowerInMines",
       "SetID": "9lj35g4",
       "Name": "Return Power To The Depths",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 812
+      "UsersEstimate": 835
     }
   ],
   "AchievementSets": [
@@ -4302,8 +4302,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-12-16T18:59:01.3536966+00:00",
-  "LastChanged_Achievements": "2023-12-19T13:13:22.0458079+00:00",
+  "LastChanged_Achievements": "2023-12-19T14:08:03.9085247+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:33.7739845+00:00",
-  "LastUpdate_Ratings": "2023-12-19T13:05:14.2991997+00:00",
-  "LastUpdate_Achievements": "2023-12-19T13:13:22.0458367+00:00"
+  "LastUpdate_Ratings": "2023-12-19T14:00:09.7992711+00:00",
+  "LastUpdate_Achievements": "2023-12-19T14:08:03.9085555+00:00"
 }

@@ -6,29 +6,29 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kaijuiced | 69.00% | ~29 |
-| Lie Back and Think of Albion | 64.00% | ~27 |
-| Yettisoned | 55.00% | ~23 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 55.00% | ~23 |
-| I Look Up As I Walk to Takoshima | 50.00% | ~21 |
-| Lobster Blisque | 45.00% | ~19 |
-| Perfect Probulator | 45.00% | ~19 |
-| Shop Til They Drop | 40.00% | ~17 |
-| Freshly Squeezed | 38.00% | ~16 |
-| Ducks in a Row, Fish in a Barrel | 36.00% | ~15 |
-| Fly Me to the Moon Base | 29.00% | ~12 |
-| Forbidden Donut | 29.00% | ~12 |
-| Earthly Pleasures | 29.00% | ~12 |
-| Pimp My Raid | 26.00% | ~11 |
-| Bodied Sattva | 26.00% | ~11 |
-| Upgreatest | 24.00% | ~10 |
-| Trans-Siberian Express | 21.00% | ~9 |
-| Deincarnated | 19.00% | ~8 |
-| Rock of the Bay | 19.00% | ~8 |
-| Re-Return of the Clone of the Invasion II-2 | 17.00% | ~7 |
-| Furon Fashion | 12.00% | ~5 |
-| Arkvoodle Doodle | 10.00% | ~4 |
-| Ouch of Body Experience | 10.00% | ~4 |
+| Kaijuiced | 70.00% | ~31 |
+| Lie Back and Think of Albion | 66.00% | ~29 |
+| Yettisoned | 55.00% | ~24 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 55.00% | ~24 |
+| I Look Up As I Walk to Takoshima | 48.00% | ~21 |
+| Lobster Blisque | 43.00% | ~19 |
+| Shop Til They Drop | 43.00% | ~19 |
+| Perfect Probulator | 43.00% | ~19 |
+| Freshly Squeezed | 36.00% | ~16 |
+| Ducks in a Row, Fish in a Barrel | 34.00% | ~15 |
+| Forbidden Donut | 30.00% | ~13 |
+| Earthly Pleasures | 30.00% | ~13 |
+| Fly Me to the Moon Base | 27.00% | ~12 |
+| Bodied Sattva | 27.00% | ~12 |
+| Pimp My Raid | 25.00% | ~11 |
+| Upgreatest | 23.00% | ~10 |
+| Trans-Siberian Express | 20.00% | ~9 |
+| Deincarnated | 18.00% | ~8 |
+| Rock of the Bay | 18.00% | ~8 |
+| Re-Return of the Clone of the Invasion II-2 | 16.00% | ~7 |
+| Furon Fashion | 11.00% | ~5 |
+| Arkvoodle Doodle | 9.00% | ~4 |
+| Ouch of Body Experience | 9.00% | ~4 |
 | If You Know What I Mean | 7.00% | ~3 |
 | Die Nasty | 7.00% | ~3 |
 | Hidden Human Hive Harvest | 7.00% | ~3 |
@@ -47,13 +47,13 @@ Number of Ratings: 85  (23.09.2022)
 | Toilet Break | 0.00% | ~0 |
 | Against All Odds | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42 (Ranked 541)  
+Progressed: 44 (Ranked 535)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-12-18 | 23 | 0 |
-| 2023-12-19 | 42 | 0 |
+| 2023-12-19 | 44 | 0 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 490)  
 Sum: 34 (Ranked 515)  

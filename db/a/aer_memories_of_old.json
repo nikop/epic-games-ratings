@@ -6,7 +6,7 @@
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 136,
-  "Ranking_EOS_Completed": 138,
+  "Ranking_EOS_Completed": 137,
   "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
@@ -419,7 +419,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 26577,
+  "EOS_Progressed": 26578,
   "EOS_Completed": 495,
   "EOS_NewPlayers": 518,
   "EOS_NewCompleters": 7,
@@ -26549,6 +26549,11 @@
       "Time": "2023-12-19T13:11:20.9996479+00:00",
       "NumProgressed": 26577,
       "NumCompleted": 495
+    },
+    {
+      "Time": "2023-12-19T14:06:14.1034208+00:00",
+      "NumProgressed": 26578,
+      "NumCompleted": 495
     }
   ],
   "TotalAchievements": 20,
@@ -26592,7 +26597,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2923
+      "UsersEstimate": 2924
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -26719,15 +26724,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 26577,
+      "Progressed": 26578,
       "Completed": 495
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-12-19T13:11:20.9996476+00:00",
+  "LastChanged_Achievements": "2023-12-19T14:06:14.1034201+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:01.7195881+00:00",
-  "LastUpdate_Ratings": "2023-12-19T13:05:20.1882975+00:00",
-  "LastUpdate_Achievements": "2023-12-19T13:11:20.9997496+00:00"
+  "LastUpdate_Ratings": "2023-12-19T14:00:17.6935421+00:00",
+  "LastUpdate_Achievements": "2023-12-19T14:06:14.1035678+00:00"
 }

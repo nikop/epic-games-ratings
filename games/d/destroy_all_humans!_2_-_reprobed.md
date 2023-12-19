@@ -7,15 +7,15 @@ Number of Ratings: 90  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rock of the Bay | 71.00% | ~89 |
-| Mash Machine | 64.00% | ~80 |
+| Mash Machine | 63.00% | ~79 |
 | Ducks in a Row, Fish in a Barrel | 40.00% | ~50 |
-| Furon Fashion | 38.00% | ~48 |
+| Furon Fashion | 37.00% | ~47 |
 | Shop Til They Drop | 30.00% | ~38 |
 | Earthly Pleasures | 28.00% | ~35 |
-| Bodied Sattva | 25.00% | ~31 |
+| Bodied Sattva | 25.00% | ~32 |
 | Cult Following | 23.00% | ~29 |
 | Upgreatest | 20.00% | ~25 |
-| Lie Back and Think of Albion | 18.00% | ~22 |
+| Lie Back and Think of Albion | 19.00% | ~24 |
 | I Look Up As I Walk to Takoshima | 16.00% | ~20 |
 | Pimp My Raid | 16.00% | ~20 |
 | Perfect Probulator | 13.00% | ~16 |
@@ -27,11 +27,11 @@ Number of Ratings: 90  (23.09.2022)
 | Fly Me to the Moon Base | 6.00% | ~8 |
 | Kaijuiced | 5.00% | ~6 |
 | Scuttled | 4.00% | ~5 |
-| Lobster Blisque | 2.00% | ~2 |
-| Deincarnated | 2.00% | ~2 |
-| Yettisoned | 2.00% | ~2 |
-| Re-Return of the Clone of the Invasion II-2 | 2.00% | ~2 |
-| Arkvoodle Doodle | 2.00% | ~2 |
+| Lobster Blisque | 2.00% | ~3 |
+| Deincarnated | 2.00% | ~3 |
+| Yettisoned | 2.00% | ~3 |
+| Re-Return of the Clone of the Invasion II-2 | 2.00% | ~3 |
+| Arkvoodle Doodle | 2.00% | ~3 |
 | Ultimate Smoothie | 0.80% | ~1 |
 | Arty Facts | 0.80% | ~1 |
 | Forbidden Donut | 0.80% | ~1 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.00% | ~0 |
 | Trans-Siberian Express | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 125 (Ranked 440)  
+Progressed: 126 (Ranked 440)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-16 | 92 | 0 |
 | 2023-12-17 | 103 | 0 |
 | 2023-12-18 | 121 | 0 |
-| 2023-12-19 | 125 | 0 |
+| 2023-12-19 | 126 | 0 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 481)  
 Sum: 36 (Ranked 513)  

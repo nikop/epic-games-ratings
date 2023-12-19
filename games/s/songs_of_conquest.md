@@ -9,8 +9,8 @@ Number of Ratings: 292  (23.09.2022)
 | Adept | 40.00% | ~225 |
 | Double Kill | 32.00% | ~180 |
 | Critical Hit | 18.00% | ~101 |
-| Veteran | 17.00% | ~96 |
-| Dressed For Success | 12.00% | ~67 |
+| Veteran | 18.00% | ~101 |
+| Dressed For Success | 12.00% | ~68 |
 | Humiliation | 8.00% | ~45 |
 | Multi Kill | 7.00% | ~39 |
 | Sorcerous Spree | 7.00% | ~39 |
@@ -18,19 +18,19 @@ Number of Ratings: 292  (23.09.2022)
 | Landlord Extraordinaire | 6.00% | ~34 |
 | Master | 6.00% | ~34 |
 | Whoops! | 5.00% | ~28 |
-| Don't Touch My Stuff | 4.00% | ~22 |
+| Don't Touch My Stuff | 4.00% | ~23 |
 | The Song of Stoutheart | 3.00% | ~17 |
 | Trojan Horse | 3.00% | ~17 |
 | Expert Essence Employment | 3.00% | ~17 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~17 |
 | This Spot's Taken | 2.00% | ~11 |
 | Deepstrike | 2.00% | ~11 |
+| Ultra Kill | 2.00% | ~11 |
 | Pyrrhic Victory | 2.00% | ~11 |
 | Versatile Wielder | 1.00% | ~6 |
 | Infernal Influence | 1.00% | ~6 |
 | From the Ashes | 1.00% | ~6 |
 | Such A Fungi | 1.00% | ~6 |
-| Ultra Kill | 1.00% | ~6 |
 | Grand Master | 1.00% | ~6 |
 | Together For Her | 0.70% | ~4 |
 | Get Over Here! | 0.70% | ~4 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 562 (Ranked 321)  
+Progressed: 563 (Ranked 319)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-16 | 515 | 0 |
 | 2023-12-17 | 544 | 0 |
 | 2023-12-18 | 555 | 0 |
-| 2023-12-19 | 562 | 0 |
+| 2023-12-19 | 563 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 520)  
 Sum: 194 (Ranked 413)  

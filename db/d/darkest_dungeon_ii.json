@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9832,10 +9832,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20786,
       "NumberOfAwardsMax": 7795
+    },
+    {
+      "Time": "2023-12-19T13:58:45.707215+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20792,
+      "NumberOfAwardsMax": 7795
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20786,
+  "NumberOfAwards": 20792,
   "NumberOfAwardsMax": 7795,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9879,7 +9885,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1465
+      "Count": 1467
     },
     {
       "Text": "This game has Diverse Characters",
@@ -9897,7 +9903,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 1386
+      "Count": 1390
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -9912,9 +9918,9 @@
       "Count": 1031
     }
   ],
-  "EOS_Progressed": 128503,
+  "EOS_Progressed": 128511,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2149,
+  "EOS_NewPlayers": 2147,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35802,6 +35808,11 @@
       "Time": "2023-12-19T13:14:15.4284388+00:00",
       "NumProgressed": 128503,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-19T14:08:58.7218502+00:00",
+      "NumProgressed": 128511,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35939,9 +35950,9 @@
       "ID": "combat_kill_antiquarian",
       "SetID": "64l4lke",
       "Name": "This Belongs in a Museum",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 3855
+      "UsersEstimate": 5140
     },
     {
       "ID": "combat_kill_cadavers",
@@ -36403,9 +36414,9 @@
       "ID": "hero_story_complete_duelist",
       "SetID": "d3bcpc8",
       "Name": "Bloody Graduation",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 135
     },
     {
       "ID": "quest_complete_crusader",
@@ -36421,7 +36432,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -36444,21 +36455,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 128503,
+      "Progressed": 128511,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 3372,
+      "Progressed": 3380,
       "Completed": 802
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-19T11:59:41.3510074+00:00",
-  "LastChanged_Achievements": "2023-12-19T13:14:15.4284385+00:00",
+  "LastChanged": "2023-12-19T13:58:45.7072148+00:00",
+  "LastChanged_Achievements": "2023-12-19T14:08:58.7218498+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-19T13:03:49.4018354+00:00",
-  "LastUpdate_Achievements": "2023-12-19T13:14:15.4285857+00:00"
+  "LastUpdate_Ratings": "2023-12-19T13:58:45.7072155+00:00",
+  "LastUpdate_Achievements": "2023-12-19T14:08:58.7220216+00:00"
 }

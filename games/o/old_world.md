@@ -16,16 +16,27 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conqueror | 0.10% | ~16 |
 | Explorer | 0.10% | ~16 |
 | Good | 0.10% | ~16 |
+| Intercessor | 0.10% | ~16 |
 | Intrepid | 0.10% | ~16 |
 | Magnificent | 0.10% | ~16 |
 | Mason | 0.10% | ~16 |
+| Peacemaker | 0.10% | ~16 |
+| Pioneer | 0.10% | ~16 |
 | Settler | 0.10% | ~16 |
 | Valiant | 0.10% | ~16 |
 | Legendary Cities | 0.10% | ~16 |
+| Able Difficulty | 0.10% | ~16 |
+| Good Difficulty | 0.10% | ~16 |
+| Just Difficulty | 0.10% | ~16 |
+| Strong Difficulty | 0.10% | ~16 |
+| Landowners | 0.10% | ~16 |
+| Traders | 0.10% | ~16 |
 | Friendly Family | 0.10% | ~16 |
 | Furious Family | 0.10% | ~16 |
+| The Eternal Treaty | 0.10% | ~16 |
 | Acropolis | 0.10% | ~16 |
 | Circus Maximus | 0.10% | ~16 |
+| Hanging Gardens | 0.10% | ~16 |
 | Adur Burzen-Mihr | 0.10% | ~16 |
 | Ishtar Gate | 0.10% | ~16 |
 | Mausoleum | 0.10% | ~16 |
@@ -33,6 +44,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 0.10% | ~16 |
 | Learn to Play 1 | 0.10% | ~16 |
 | Learn to Play 2 | 0.10% | ~16 |
+| Hatti | 0.10% | ~16 |
 | Play a Single Player Game | 0.10% | ~16 |
 | Judaism | 0.10% | ~16 |
 | Roman Paganism | 0.10% | ~16 |
@@ -42,6 +54,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Trade Caravan | 0.10% | ~16 |
 | Cimmerian Archer | 0.10% | ~16 |
 | Turreted Elephant | 0.10% | ~16 |
+| Double Victory | 0.10% | ~16 |
+| Deposed Tribe | 0.10% | ~16 |
 | Centenarian | 0.00% | ~0 |
 | Alexander the who? | 0.00% | ~0 |
 | Lighthouse in Alexandria | 0.00% | ~0 |
@@ -92,7 +106,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious | 0.00% | ~0 |
 | Great | 0.00% | ~0 |
 | Holy | 0.00% | ~0 |
-| Intercessor | 0.00% | ~0 |
 | Invincible | 0.00% | ~0 |
 | Just | 0.00% | ~0 |
 | Keystone | 0.00% | ~0 |
@@ -102,8 +115,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mighty | 0.00% | ~0 |
 | Noble | 0.00% | ~0 |
 | Old | 0.00% | ~0 |
-| Peacemaker | 0.00% | ~0 |
-| Pioneer | 0.00% | ~0 |
 | Ready | 0.00% | ~0 |
 | Rebuilder | 0.00% | ~0 |
 | Restorer | 0.00% | ~0 |
@@ -118,14 +129,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Cities | 0.00% | ~0 |
 | Via Recta Souk in Damascus | 0.00% | ~0 |
 | Oracle in Delphi | 0.00% | ~0 |
-| Able Difficulty | 0.00% | ~0 |
 | Glorious Difficulty | 0.00% | ~0 |
-| Good Difficulty | 0.00% | ~0 |
 | Great Difficulty | 0.00% | ~0 |
-| Just Difficulty | 0.00% | ~0 |
 | Magnificent Difficulty | 0.00% | ~0 |
 | Noble Difficulty | 0.00% | ~0 |
-| Strong Difficulty | 0.00% | ~0 |
 | Elephant in Elephantine | 0.00% | ~0 |
 | Ethnic Diversity | 0.00% | ~0 |
 | Et tu Brutus? | 0.00% | ~0 |
@@ -134,14 +141,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Champions | 0.00% | ~0 |
 | Clerics | 0.00% | ~0 |
 | Hunters | 0.00% | ~0 |
-| Landowners | 0.00% | ~0 |
 | Patrons | 0.00% | ~0 |
 | Riders | 0.00% | ~0 |
 | Sages | 0.00% | ~0 |
 | Statesmen | 0.00% | ~0 |
-| Traders | 0.00% | ~0 |
 | Battle of the Fertile Crescent | 0.00% | ~0 |
-| The Eternal Treaty | 0.00% | ~0 |
 | Five Routs | 0.00% | ~0 |
 | Game of the Week | 0.00% | ~0 |
 | That Also Works | 0.00% | ~0 |
@@ -193,7 +197,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus | 0.00% | ~0 |
 | Great Ziggurat | 0.00% | ~0 |
 | Hagia Sophia | 0.00% | ~0 |
-| Hanging Gardens | 0.00% | ~0 |
 | Church of the Holy Sepulchre | 0.00% | ~0 |
 | Temple of Solomon | 0.00% | ~0 |
 | Cao'an | 0.00% | ~0 |
@@ -220,7 +223,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage | 0.00% | ~0 |
 | Egypt | 0.00% | ~0 |
 | Greece | 0.00% | ~0 |
-| Hatti | 0.00% | ~0 |
 | Persia | 0.00% | ~0 |
 | Rome | 0.00% | ~0 |
 | Old World Order | 0.00% | ~0 |
@@ -273,7 +275,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | All Nations | 0.00% | ~0 |
 | Ambition Victory | 0.00% | ~0 |
 | Conquest Victory | 0.00% | ~0 |
-| Double Victory | 0.00% | ~0 |
 | No Characters | 0.00% | ~0 |
 | No Undo | 0.00% | ~0 |
 | One City Challenge | 0.00% | ~0 |
@@ -292,7 +293,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 | Win a Single Player Game | 0.00% | ~0 |
 | The Clergy | 0.00% | ~0 |
-| Deposed Tribe | 0.00% | ~0 |
 | Religious Dissent | 0.00% | ~0 |
 | Five Cults | 0.00% | ~0 |
 | The Great Mage | 0.00% | ~0 |

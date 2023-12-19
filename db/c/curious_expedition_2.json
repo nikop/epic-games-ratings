@@ -2,12 +2,12 @@
   "ID": "2ba34162e36a4caf860fd00f934c8af1",
   "Name": "Curious Expedition 2",
   "ProductSlug": "curious-expedition-2-8cb901",
-  "Ranking_Rating": 174,
+  "Ranking_Rating": 175,
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 349,
-  "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_Completed": 253,
+  "Ranking_EOS_NewPlayers": 317,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -70,11 +70,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 363,
+  "EOS_Progressed": 364,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.28,
+  "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:50.9590463+00:00",
@@ -440,6 +440,11 @@
       "Time": "2023-12-19T12:10:52.1169349+00:00",
       "NumProgressed": 363,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T14:09:48.6501447+00:00",
+      "NumProgressed": 364,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -473,9 +478,9 @@
       "ID": "ach-anthropology-complete",
       "SetID": "17ih7ma",
       "Name": "Islander Understanding",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 18
     },
     {
       "ID": "ach-ascension-complete",
@@ -529,7 +534,7 @@
       "ID": "ach-campaign-allEndings",
       "SetID": "17ih7ma",
       "Name": "Now I\u0027ve Seen It All",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 150,
       "UsersEstimate": 2
     },
@@ -563,7 +568,7 @@
       "Name": "Adventurer",
       "Percentage": 15,
       "XP": 80,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ach-campaign-noDeath",
@@ -593,17 +598,17 @@
       "ID": "ach-campaign-story2",
       "SetID": "17ih7ma",
       "Name": "Lost \u0026 Found \u0026 Lost Again",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 157
     },
     {
       "ID": "ach-campaign-story3",
       "SetID": "17ih7ma",
       "Name": "O Captain My Captain",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 109
     },
     {
       "ID": "ach-cartography-complete",
@@ -619,7 +624,7 @@
       "Name": "Roll to Save",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ach-discover-locations",
@@ -627,7 +632,7 @@
       "Name": "Cartographer",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ach-discover-locations-high",
@@ -651,7 +656,7 @@
       "Name": "Fire and Flood",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ach-find-treasure",
@@ -673,9 +678,9 @@
       "ID": "ach-firstExpedition",
       "SetID": "17ih7ma",
       "Name": "The Adventure Begins",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 229
     },
     {
       "ID": "ach-hardExpeditions",
@@ -739,7 +744,7 @@
       "Name": "Shennong Herbalist",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ach-maxClubLevel-american",
@@ -779,7 +784,7 @@
       "Name": "Spooky!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ach-noEquipment",
@@ -795,7 +800,7 @@
       "Name": "Insomnia",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ach-pacifist-goals",
@@ -803,7 +808,7 @@
       "Name": "Nahua Seeker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ach-paleMask-cure",
@@ -825,9 +830,9 @@
       "ID": "ach-portal-return",
       "SetID": "17ih7ma",
       "Name": "From Whence we Came",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 149
     },
     {
       "ID": "ach-promotion",
@@ -859,7 +864,7 @@
       "Name": "Practical Palaeontology",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ach-rob-shrines",
@@ -899,7 +904,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ach-unlockAllLeaders",
@@ -923,14 +928,14 @@
       "Name": "Dapper",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     }
   ],
   "AchievementSets": [
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 363,
+      "Progressed": 364,
       "Completed": 1
     }
   ],
@@ -938,8 +943,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-12-19T13:15:04.0733971+00:00",
+  "LastChanged_Achievements": "2023-12-19T14:09:48.6501442+00:00",
   "LastUpdate_AppInfo": "2023-12-16T13:57:07.0437312+00:00",
-  "LastUpdate_Ratings": "2023-12-19T13:03:59.8954794+00:00",
-  "LastUpdate_Achievements": "2023-12-19T13:15:04.0734344+00:00"
+  "LastUpdate_Ratings": "2023-12-19T13:58:56.5093136+00:00",
+  "LastUpdate_Achievements": "2023-12-19T14:09:48.6501843+00:00"
 }

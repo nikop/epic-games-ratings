@@ -5,7 +5,7 @@ Rating: 4.68 (Ranked 260)
 Number of Ratings: 3,949  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 4,098  (Ranked 85)  
-Sum: 7,205 (Ranked 122)  
+Sum: 7,206 (Ranked 122)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
@@ -19,7 +19,7 @@ Diff (max vs sum): -37
 | This game has Quickly Understood Controls | 354 |
 | This game has Amazing Characters | 345 |
 | This game has Obsessive Gameplay | 198 |
-| This game has a Creative Community | 184 |
+| This game has a Creative Community | 185 |
 | This game has Realistic Visuals | 107 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -310,3 +310,4 @@ Diff (max vs sum): -37
 | 2023-12-16 | 4.68 | - | 4,092 | 7,197 |
 | 2023-12-17 | 4.68 | - | 4,092 | 7,198 |
 | 2023-12-18 | 4.68 | - | 4,098 | 7,205 |
+| 2023-12-19 | 4.68 | - | 4,098 | 7,206 |

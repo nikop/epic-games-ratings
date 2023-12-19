@@ -1,38 +1,38 @@
 # Curious Expedition 2
 [Store](https://store.epicgames.com/en-US/p/curious-expedition-2-8cb901)  
 [View Rawdata](../../db/c/curious_expedition_2.json)  
-Rating: 4.73 (Ranked 174)  
+Rating: 4.73 (Ranked 175)  
 Number of Ratings: 20  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 64.00% | ~232 |
-| Cartographer | 56.00% | ~203 |
+| The Adventure Begins | 63.00% | ~229 |
+| Cartographer | 56.00% | ~204 |
 | A Strange Artefact | 52.00% | ~189 |
-| Insomnia | 48.00% | ~174 |
-| Lost & Found & Lost Again | 42.00% | ~152 |
-| From Whence we Came | 42.00% | ~152 |
-| Fire and Flood | 40.00% | ~145 |
-| Spooky! | 37.00% | ~134 |
-| Shennong Herbalist | 34.00% | ~123 |
-| Treasure Hunt | 34.00% | ~123 |
+| Insomnia | 48.00% | ~175 |
+| Lost & Found & Lost Again | 43.00% | ~157 |
+| From Whence we Came | 41.00% | ~149 |
+| Fire and Flood | 40.00% | ~146 |
+| Spooky! | 37.00% | ~135 |
+| Shennong Herbalist | 34.00% | ~124 |
+| Treasure Hunt | 34.00% | ~124 |
 | Good Mama | 32.00% | ~116 |
-| O Captain My Captain | 31.00% | ~113 |
+| O Captain My Captain | 30.00% | ~109 |
 | Plunderer | 28.00% | ~102 |
 | Taxonomist | 27.00% | ~98 |
 | Traveller | 25.00% | ~91 |
 | Uncertain Loyalties | 25.00% | ~91 |
-| Roll to Save | 23.00% | ~83 |
-| Nahua Seeker | 23.00% | ~83 |
+| Roll to Save | 23.00% | ~84 |
+| Nahua Seeker | 23.00% | ~84 |
 | Veteran Explorer | 21.00% | ~76 |
 | Red Flag Pirate | 19.00% | ~69 |
 | Iron Man | 17.00% | ~62 |
 | For the Club! | 16.00% | ~58 |
 | Shortening of the Way | 16.00% | ~58 |
 | A Gentle Beast | 16.00% | ~58 |
-| Adventurer | 15.00% | ~54 |
-| Practical Palaeontology | 15.00% | ~54 |
-| Dapper | 15.00% | ~54 |
+| Adventurer | 15.00% | ~55 |
+| Practical Palaeontology | 15.00% | ~55 |
+| Dapper | 15.00% | ~55 |
 | The New Director | 13.00% | ~47 |
 | The Director is Dead | 13.00% | ~47 |
 | And Here Is Your Statue | 13.00% | ~47 |
@@ -49,7 +49,7 @@ Number of Ratings: 20  (23.09.2022)
 | Level Up | 8.00% | ~29 |
 | Zookeeper | 7.00% | ~25 |
 | The Workshop | 7.00% | ~25 |
-| Islander Understanding | 6.00% | ~22 |
+| Islander Understanding | 5.00% | ~18 |
 | A Paris Sunset | 5.00% | ~18 |
 | The Director Perseveres | 5.00% | ~18 |
 | The Round Table | 5.00% | ~18 |
@@ -65,10 +65,10 @@ Number of Ratings: 20  (23.09.2022)
 | Everything is FINE... | 0.80% | ~3 |
 | Pacifism Ain't Easy | 0.80% | ~3 |
 | It's Not Too Late | 0.80% | ~3 |
-| Now I've Seen It All | 0.60% | ~2 |
+| Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 363 (Ranked 349)  
-Completed: 1 (0.28%) (Ranked 251)  
+Progressed: 364 (Ranked 349)  
+Completed: 1 (0.27%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -124,7 +124,7 @@ Completed: 1 (0.28%) (Ranked 251)
 | 2023-12-16 | 354 | 1 |
 | 2023-12-17 | 358 | 1 |
 | 2023-12-18 | 362 | 1 |
-| 2023-12-19 | 363 | 1 |
+| 2023-12-19 | 364 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

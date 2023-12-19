@@ -222,9 +222,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 1053,
+  "EOS_Progressed": 1054,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2727,6 +2727,11 @@
       "Time": "2023-12-19T11:05:21.0735546+00:00",
       "NumProgressed": 1053,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T14:04:16.2712292+00:00",
+      "NumProgressed": 1054,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2779,7 +2784,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "BreakTheLoop",
@@ -2857,9 +2862,9 @@
       "ID": "Excellent",
       "SetID": "1n308hc",
       "Name": "Excellent",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 74
     },
     {
       "ID": "FloodedValley",
@@ -3179,7 +3184,7 @@
       "Name": "Wanderers",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "WesternDelta",
@@ -3210,7 +3215,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1053,
+      "Progressed": 1054,
       "Completed": 1
     }
   ],
@@ -3218,8 +3223,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-19T13:09:25.8736592+00:00",
+  "LastChanged_Achievements": "2023-12-19T14:04:16.2712288+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-19T13:03:59.6554232+00:00",
-  "LastUpdate_Achievements": "2023-12-19T13:09:25.8737222+00:00"
+  "LastUpdate_Ratings": "2023-12-19T13:58:56.3927902+00:00",
+  "LastUpdate_Achievements": "2023-12-19T14:04:16.2712874+00:00"
 }

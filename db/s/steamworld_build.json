@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 135,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -532,9 +532,9 @@
       "ID": "Aristocratic",
       "SetID": "4bd750m",
       "Name": "Aristocratic",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "Botropolis",
@@ -755,8 +755,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-19T13:08:40.8366673+00:00",
+  "LastChanged_Achievements": "2023-12-19T14:03:30.7162054+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.7183942+00:00",
-  "LastUpdate_Ratings": "2023-12-19T13:08:12.2976376+00:00",
-  "LastUpdate_Achievements": "2023-12-19T13:08:40.8366895+00:00"
+  "LastUpdate_Ratings": "2023-12-19T14:02:59.7439974+00:00",
+  "LastUpdate_Achievements": "2023-12-19T14:03:30.716221+00:00"
 }

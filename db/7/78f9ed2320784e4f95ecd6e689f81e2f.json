@@ -3,8 +3,8 @@
   "Name": "GeoJelly",
   "ProductSlug": "geojelly-a44cfe",
   "Ranking_EOS_Progress": 516,
-  "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 552,
+  "Ranking_EOS_Completed": 138,
+  "Ranking_EOS_NewPlayers": 507,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-06-07T18:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 53,
+  "EOS_Progressed": 54,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.89,
+  "EOS_Completed_Percentage": 1.85,
   "EosHistory": [
     {
       "Time": "2023-05-09T08:01:56.5960176+00:00",
@@ -294,6 +294,11 @@
       "Time": "2023-12-13T17:09:22.0739129+00:00",
       "NumProgressed": 53,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T14:09:03.0520075+00:00",
+      "NumProgressed": 54,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-20T13:09:34.3755385+00:00",
@@ -376,7 +381,7 @@
       "ID": "JUMPER_100",
       "SetID": "dademeo",
       "Name": "Jumper 100",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 75,
       "UsersEstimate": 11
     },
@@ -384,7 +389,7 @@
       "ID": "JUMPER_1000",
       "SetID": "dademeo",
       "Name": "Jumper 1000",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 75,
       "UsersEstimate": 4
     },
@@ -424,7 +429,7 @@
       "ID": "PERFECTIONIST",
       "SetID": "dademeo",
       "Name": "Perfectionist",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 75,
       "UsersEstimate": 11
     },
@@ -449,14 +454,14 @@
     {
       "ID": "dademeo",
       "IsBase": true,
-      "Progressed": 53,
+      "Progressed": 54,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-24T07:57:28.1262112+00:00",
   "FirstSeenAchievements": "2023-05-09T08:01:56.5974066+00:00",
-  "LastChanged_Achievements": "2023-12-19T13:14:19.8102838+00:00",
+  "LastChanged_Achievements": "2023-12-19T14:09:03.0520071+00:00",
   "LastUpdate_AppInfo": "2023-12-13T02:20:41.5047782+00:00",
-  "LastUpdate_Ratings": "2023-12-19T13:02:56.5756273+00:00",
-  "LastUpdate_Achievements": "2023-12-19T13:14:19.810295+00:00"
+  "LastUpdate_Ratings": "2023-12-19T13:57:51.4928249+00:00",
+  "LastUpdate_Achievements": "2023-12-19T14:09:03.0520191+00:00"
 }

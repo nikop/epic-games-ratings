@@ -22,8 +22,8 @@ Rating: 4.33 (Ranked 827)
 | Big fortune | 32.00% | ~394 |
 | Still more work ahead | 30.00% | ~369 |
 | Aesop's fable | 28.00% | ~344 |
+| Hotel sleuthing | 28.00% | ~344 |
 | Kaboom | 27.00% | ~332 |
-| Hotel sleuthing | 27.00% | ~332 |
 | Nearly there | 26.00% | ~320 |
 | Broken heart | 23.00% | ~283 |
 | Island boy | 22.00% | ~271 |

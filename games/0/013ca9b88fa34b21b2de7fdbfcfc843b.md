@@ -14,7 +14,7 @@ Rating: 4.62 (Ranked 372)
 | Break-Net Speed | 0.70% | ~60 |
 | Miner 49er | 0.60% | ~51 |
 | Humble Collector | 0.60% | ~51 |
-| Mist Walker | 0.50% | ~43 |
+| Mist Walker | 0.60% | ~51 |
 | Clear the Air | 0.40% | ~34 |
 | Search for the Hairy Grell | 0.40% | ~34 |
 | Lumberjack | 0.40% | ~34 |

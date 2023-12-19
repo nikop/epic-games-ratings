@@ -5,55 +5,55 @@ Rating: 4.19 (Ranked 938)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~1,087 |
-| Battlefields Have Memories | 79.00% | ~987 |
-| Enlisted | 72.00% | ~899 |
-| Maybe Engage a Little | 66.00% | ~824 |
-| No More Names | 47.00% | ~587 |
-| Initiate | 33.00% | ~412 |
-| Thrada-Kul | 29.00% | ~362 |
+| Unforeseen | 87.00% | ~1,088 |
+| Battlefields Have Memories | 79.00% | ~988 |
+| Enlisted | 72.00% | ~901 |
+| Maybe Engage a Little | 66.00% | ~826 |
+| No More Names | 47.00% | ~588 |
+| Initiate | 33.00% | ~413 |
+| Thrada-Kul | 29.00% | ~363 |
 | Socialite | 22.00% | ~275 |
 | Gravity-Challenged Rocks | 22.00% | ~275 |
 | Soldier | 18.00% | ~225 |
-| All the Major Food Groups | 17.00% | ~212 |
-| Beggars Would Ride | 15.00% | ~187 |
-| Control is an Illusion | 13.00% | ~162 |
-| The Means to Save It | 11.00% | ~137 |
+| All the Major Food Groups | 18.00% | ~225 |
+| Beggars Would Ride | 15.00% | ~188 |
+| Control is an Illusion | 13.00% | ~163 |
+| The Means to Save It | 11.00% | ~138 |
 | Resilience to Sin | 10.00% | ~125 |
-| A Familiar Nest | 9.00% | ~112 |
-| Geas Aristeya | 9.00% | ~112 |
-| Periapt Alizarin | 9.00% | ~112 |
+| A Familiar Nest | 9.00% | ~113 |
+| Geas Aristeya | 9.00% | ~113 |
+| Periapt Alizarin | 9.00% | ~113 |
 | A Perfect Cycle | 8.00% | ~100 |
 | Recruit | 8.00% | ~100 |
-| Armsman | 7.00% | ~87 |
-| Lights Army | 5.00% | ~62 |
-| Good Boy | 5.00% | ~62 |
+| Armsman | 7.00% | ~88 |
+| Lights Army | 5.00% | ~63 |
+| Good Boy | 5.00% | ~63 |
 | Best Dressed | 4.00% | ~50 |
 | Periapt Cerulean | 4.00% | ~50 |
 | Periapt Viridian | 4.00% | ~50 |
 | Shroudfane Explorer | 4.00% | ~50 |
-| Kitted Out | 3.00% | ~37 |
-| Armaments Azure | 3.00% | ~37 |
-| Armaments Gules | 3.00% | ~37 |
+| Kitted Out | 3.00% | ~38 |
+| Armaments Azure | 3.00% | ~38 |
+| Armaments Gules | 3.00% | ~38 |
 | Scholar | 2.00% | ~25 |
 | Armaments Vert | 2.00% | ~25 |
 | Veteran | 2.00% | ~25 |
-| Master of Carmine | 1.00% | ~12 |
+| Master of Carmine | 1.00% | ~13 |
 | Master of Ultramarine | 0.90% | ~11 |
 | Master of Malachite | 0.70% | ~9 |
 | Tip of the Spear | 0.70% | ~9 |
-| Shroudfane Surveyor | 0.60% | ~7 |
-| Backtracker | 0.60% | ~7 |
+| Shroudfane Surveyor | 0.60% | ~8 |
+| Backtracker | 0.60% | ~8 |
 | Grand Magnus | 0.50% | ~6 |
 | Treasure Hunter | 0.40% | ~5 |
 | Petite Bourgeoisie | 0.30% | ~4 |
-| Family Business | 0.20% | ~2 |
-| Diplomat | 0.20% | ~2 |
-| Witch-Taker | 0.20% | ~2 |
-| Out of Time | 0.20% | ~2 |
-| Fowl Play | 0.20% | ~2 |
+| Family Business | 0.20% | ~3 |
+| Diplomat | 0.20% | ~3 |
+| Witch-Taker | 0.20% | ~3 |
+| Out of Time | 0.20% | ~3 |
+| Fowl Play | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,249 (Ranked 260)  
+Progressed: 1,251 (Ranked 260)  
 Completed: 2 (0.16%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 2 (0.16%) (Ranked 279)
 | 2023-12-16 | 908 | 2 |
 | 2023-12-17 | 1,065 | 2 |
 | 2023-12-18 | 1,195 | 2 |
-| 2023-12-19 | 1,249 | 2 |
+| 2023-12-19 | 1,251 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

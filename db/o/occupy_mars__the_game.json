@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1794,
+  "EOS_Progressed": 1795,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4630,6 +4630,11 @@
       "Time": "2023-12-18T13:15:43.2640081+00:00",
       "NumProgressed": 1794,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T14:08:55.6797724+00:00",
+      "NumProgressed": 1795,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4833,7 +4838,7 @@
       "Name": "Gardener",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -4857,7 +4862,7 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -4889,7 +4894,7 @@
       "Name": "Miner",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -4977,7 +4982,7 @@
       "Name": "Space Forest",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "NEW_ACHIEVEMENT_SPOTTY_FRIEND",
@@ -5024,7 +5029,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1794,
+      "Progressed": 1795,
       "Completed": 0
     }
   ],
@@ -5032,8 +5037,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-12-19T01:49:45.9320817+00:00",
-  "LastChanged_Achievements": "2023-12-19T13:14:12.4498341+00:00",
+  "LastChanged_Achievements": "2023-12-19T14:08:55.679772+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:56:59.196607+00:00",
-  "LastUpdate_Ratings": "2023-12-19T13:02:11.9306476+00:00",
-  "LastUpdate_Achievements": "2023-12-19T13:14:12.449875+00:00"
+  "LastUpdate_Ratings": "2023-12-19T13:57:05.4504476+00:00",
+  "LastUpdate_Achievements": "2023-12-19T14:08:55.6798201+00:00"
 }

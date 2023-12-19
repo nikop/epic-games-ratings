@@ -1,26 +1,26 @@
 # The Alto Collection
 [Store](https://store.epicgames.com/en-US/p/the-alto-collection)  
 [View Rawdata](../../db/t/the_alto_collection.json)  
-Rating: 4.71 (Ranked 198)  
+Rating: 4.71 (Ranked 197)  
 Number of Ratings: 332  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~13,724 |
-| Finding Your Footing | 25.00% | ~12,707 |
-| Nomad | 17.00% | ~8,641 |
-| Picking Up Speed | 15.00% | ~7,624 |
-| Welcome Maya | 14.00% | ~7,116 |
-| Scout | 11.00% | ~5,591 |
-| Sightseer | 11.00% | ~5,591 |
+| Rookie | 27.00% | ~13,725 |
+| Finding Your Footing | 25.00% | ~12,708 |
+| Nomad | 17.00% | ~8,642 |
+| Picking Up Speed | 15.00% | ~7,625 |
+| Welcome Maya | 14.00% | ~7,117 |
+| Scout | 11.00% | ~5,592 |
+| Sightseer | 11.00% | ~5,592 |
 | Amateur | 10.00% | ~5,083 |
-| Unlock Maya | 8.00% | ~4,066 |
-| Wanderer | 8.00% | ~4,066 |
+| Unlock Maya | 8.00% | ~4,067 |
+| Wanderer | 8.00% | ~4,067 |
 | Enter Paz | 7.00% | ~3,558 |
 | Aviator | 6.00% | ~3,050 |
-| My Little Friend | 5.00% | ~2,541 |
-| One With The Board | 5.00% | ~2,541 |
-| Voyager | 5.00% | ~2,541 |
+| My Little Friend | 5.00% | ~2,542 |
+| One With The Board | 5.00% | ~2,542 |
+| Voyager | 5.00% | ~2,542 |
 | Junkie | 3.00% | ~1,525 |
 | Traveler | 3.00% | ~1,525 |
 | Unlock Paz | 3.00% | ~1,525 |
@@ -36,17 +36,17 @@ Number of Ratings: 332  (23.09.2022)
 | Daredevil | 1.00% | ~508 |
 | Introducing Sumara | 1.00% | ~508 |
 | Vandal | 1.00% | ~508 |
-| Unlock Felipe | 0.90% | ~457 |
+| Unlock Felipe | 0.90% | ~458 |
 | Adventurer | 0.80% | ~407 |
 | Unlock Tupa | 0.50% | ~254 |
-| Master Of The Sands | 0.30% | ~152 |
+| Master Of The Sands | 0.30% | ~153 |
 | Master | 0.20% | ~102 |
 | Survivalist | 0.20% | ~102 |
 | Life Aquatic | 0.10% | ~51 |
 | The Ultimate Challenge | 0.10% | ~51 |
 | Windswept | 0.10% | ~51 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,828 (Ranked 117)  
+Progressed: 50,834 (Ranked 117)  
 Completed: 5 (0.01%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 5 (0.01%) (Ranked 359)
 | 2023-12-16 | 50,490 | 5 |
 | 2023-12-17 | 50,645 | 5 |
 | 2023-12-18 | 50,764 | 5 |
-| 2023-12-19 | 50,828 | 5 |
+| 2023-12-19 | 50,834 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 49  (Ranked 445)  
 Sum: 387 (Ranked 352)  

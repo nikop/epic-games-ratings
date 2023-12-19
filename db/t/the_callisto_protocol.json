@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1697,9 +1697,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 18045,
+  "EOS_Progressed": 18050,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1520,
+  "EOS_NewPlayers": 1525,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -10287,6 +10287,11 @@
       "Time": "2023-12-19T13:14:19.2149429+00:00",
       "NumProgressed": 18045,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-19T14:09:02.5099599+00:00",
+      "NumProgressed": 18050,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -10392,9 +10397,9 @@
       "ID": "FINISH_NEW_GAME_PLUS",
       "SetID": "6j5ggkc",
       "Name": "Parole Denied",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 48
     },
     {
       "ID": "GRP_25_ENEMIES",
@@ -10410,7 +10415,7 @@
       "Name": "In Striking Distance",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "KILL_2HEAD",
@@ -10426,7 +10431,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1804
+      "UsersEstimate": 1805
     },
     {
       "ID": "KILL_ROBOT",
@@ -10450,7 +10455,7 @@
       "Name": "The Commonality",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -10458,7 +10463,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1804
+      "UsersEstimate": 1805
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -10472,9 +10477,9 @@
       "ID": "PRINT_WEAPON",
       "SetID": "4hj6d86",
       "Name": "Paper Jams",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2165
+      "UsersEstimate": 2346
     },
     {
       "ID": "SHARE_PHOTO",
@@ -10506,7 +10511,7 @@
       "Name": "Without A Paddle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1263
+      "UsersEstimate": 1264
     },
     {
       "ID": "STORY_HANGAR",
@@ -10514,7 +10519,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1263
+      "UsersEstimate": 1264
     },
     {
       "ID": "STORY_MINETOWN",
@@ -10530,7 +10535,7 @@
       "Name": "Desperate Times",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2165
+      "UsersEstimate": 2166
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -10642,7 +10647,7 @@
       "Name": "One Last Job",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "KILL_BIOBOT",
@@ -10650,7 +10655,7 @@
       "Name": "Keep Fighting",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -10673,13 +10678,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 18045,
+      "Progressed": 18050,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 5971,
+      "Progressed": 5976,
       "Completed": 29
     }
   ],
@@ -10687,8 +10692,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-19T04:03:19.1162955+00:00",
-  "LastChanged_Achievements": "2023-12-19T13:14:19.2149425+00:00",
+  "LastChanged_Achievements": "2023-12-19T14:09:02.5099594+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.4893565+00:00",
-  "LastUpdate_Ratings": "2023-12-19T13:08:11.9175788+00:00",
-  "LastUpdate_Achievements": "2023-12-19T13:14:19.2150038+00:00"
+  "LastUpdate_Ratings": "2023-12-19T14:02:59.6143571+00:00",
+  "LastUpdate_Achievements": "2023-12-19T14:09:02.5100347+00:00"
 }
