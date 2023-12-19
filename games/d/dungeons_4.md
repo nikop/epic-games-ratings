@@ -21,8 +21,8 @@
 | It's Warm and Cozy at Home | 59.00% | ~348 |
 | Trap Master | 55.00% | ~324 |
 | Minions, Minions! | 54.00% | ~319 |
+| Hard Work | 54.00% | ~319 |
 | The Big Eaty | 54.00% | ~319 |
-| Hard Work | 53.00% | ~313 |
 | “… like son” | 51.00% | ~301 |
 | YOU SHALL NOT PASS! | 50.00% | ~295 |
 | The Cathedral of Light | 48.00% | ~283 |
@@ -35,7 +35,7 @@
 | The Duel | 36.00% | ~212 |
 | Unstoppable Horde | 35.00% | ~206 |
 | Master of the Undead | 35.00% | ~206 |
-| If Looks Could Kill | 33.00% | ~195 |
+| If Looks Could Kill | 34.00% | ~201 |
 | The Finitude Drill | 31.00% | ~183 |
 | Ghost Pirates? Ghost Heroes! | 30.00% | ~177 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 28.00% | ~165 |
@@ -57,8 +57,8 @@
 | To the Max! | 17.00% | ~100 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~94 |
 | Evilification | 16.00% | ~94 |
+| Mirror, Mirror | 15.00% | ~88 |
 | Untouchable | 15.00% | ~88 |
-| Mirror, Mirror | 14.00% | ~83 |
 | Heal Heal Blessing | 14.00% | ~83 |
 | Gorgu is in the Best of Health | 12.00% | ~71 |
 | Hands Off My Stones | 12.00% | ~71 |
@@ -67,7 +67,7 @@
 | I Don't Need Any Help | 8.00% | ~47 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 590 (Ranked 316)  
-Completed: 19 (3.22%) (Ranked 106)  
+Completed: 19 (3.22%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

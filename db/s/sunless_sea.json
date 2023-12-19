@@ -3,12 +3,12 @@
   "Name": "Sunless Sea",
   "ProductSlug": "sunless-sea",
   "Ranking_Rating": 443,
-  "Ranking_Popularity": 286,
+  "Ranking_Popularity": 285,
   "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 124,
-  "Ranking_EOS_Completed": 359,
+  "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -740,18 +740,24 @@
       "Rating": 4.59,
       "NumberOfAwards": 313,
       "NumberOfAwardsMax": 219
+    },
+    {
+      "Time": "2023-12-19T20:59:18.2117105+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 314,
+      "NumberOfAwardsMax": 220
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 313,
-  "NumberOfAwardsMax": 219,
+  "NumberOfAwards": 314,
+  "NumberOfAwardsMax": 220,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 219
+      "Count": 220
     },
     {
       "Text": "This game has Unique Visuals",
@@ -778,9 +784,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 42532,
+  "EOS_Progressed": 42533,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 438,
+  "EOS_NewPlayers": 436,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -25568,6 +25574,11 @@
       "Time": "2023-12-19T20:08:40.7446173+00:00",
       "NumProgressed": 42532,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-19T21:08:49.0840886+00:00",
+      "NumProgressed": 42533,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -25595,7 +25606,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7230
+      "UsersEstimate": 7231
     },
     {
       "ID": "ach_antiquarian10",
@@ -25787,7 +25798,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5954
+      "UsersEstimate": 5955
     },
     {
       "ID": "ach_legacysalvager",
@@ -26010,15 +26021,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 42532,
+      "Progressed": 42533,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
-  "LastChanged": "2023-12-12T19:58:23.5805042+00:00",
-  "LastChanged_Achievements": "2023-12-19T20:08:40.7446169+00:00",
+  "LastChanged": "2023-12-19T20:59:18.2117104+00:00",
+  "LastChanged_Achievements": "2023-12-19T21:08:49.0840883+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:14.0795156+00:00",
-  "LastUpdate_Ratings": "2023-12-19T19:59:12.015114+00:00",
-  "LastUpdate_Achievements": "2023-12-19T20:08:40.7447598+00:00"
+  "LastUpdate_Ratings": "2023-12-19T20:59:18.2117108+00:00",
+  "LastUpdate_Achievements": "2023-12-19T21:08:49.084243+00:00"
 }

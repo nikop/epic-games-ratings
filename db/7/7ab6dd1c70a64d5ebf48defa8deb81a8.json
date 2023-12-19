@@ -3,8 +3,8 @@
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 281,
-  "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_Completed": 240,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 874,
+  "EOS_Progressed": 876,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 609,
+  "EOS_NewPlayers": 611,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -1795,6 +1795,11 @@
       "Time": "2023-12-19T20:10:47.9580932+00:00",
       "NumProgressed": 874,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-19T21:11:01.8570119+00:00",
+      "NumProgressed": 876,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1806,7 +1811,7 @@
       "Name": "Break Out",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "ACH_02",
@@ -1828,9 +1833,9 @@
       "ID": "ACH_04",
       "SetID": "efe2lj",
       "Name": "Calm before the Storm",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_05",
@@ -1854,7 +1859,7 @@
       "Name": "Clear Sight",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_08",
@@ -1892,9 +1897,9 @@
       "ID": "ACH_12",
       "SetID": "efe2lj",
       "Name": "Shardbearer",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_13",
@@ -1902,7 +1907,7 @@
       "Name": "Adventurer",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACH_14",
@@ -1974,7 +1979,7 @@
       "Name": "Fine Feathers Make Fine Birds",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_23",
@@ -1998,7 +2003,7 @@
       "Name": "Fashion Victim",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACH_26",
@@ -2020,9 +2025,9 @@
       "ID": "ACH_28",
       "SetID": "efe2lj",
       "Name": "I Found It",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_29",
@@ -2078,7 +2083,7 @@
       "Name": "A Queen\u0027s Tale",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_38",
@@ -2093,14 +2098,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 874,
+      "Progressed": 876,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-19T20:10:47.9580929+00:00",
+  "LastChanged_Achievements": "2023-12-19T21:11:01.8570115+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
-  "LastUpdate_Ratings": "2023-12-19T19:00:10.2431583+00:00",
-  "LastUpdate_Achievements": "2023-12-19T20:10:47.9581339+00:00"
+  "LastUpdate_Ratings": "2023-12-19T20:57:18.0500767+00:00",
+  "LastUpdate_Achievements": "2023-12-19T21:11:01.857043+00:00"
 }

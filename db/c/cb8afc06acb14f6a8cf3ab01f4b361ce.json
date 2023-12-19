@@ -6,9 +6,9 @@
   "Ranking_Popularity": 410,
   "Ranking_PopularitySum": 479,
   "Ranking_EOS_Progress": 52,
-  "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_Completed": 384,
+  "Ranking_EOS_NewPlayers": 49,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -431,9 +431,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 331519,
+  "EOS_Progressed": 331536,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3607,
+  "EOS_NewPlayers": 3602,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10226,6 +10226,11 @@
       "Time": "2023-12-19T20:06:16.4593402+00:00",
       "NumProgressed": 331519,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-19T21:06:51.7348636+00:00",
+      "NumProgressed": 331536,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -10246,7 +10251,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6630
+      "UsersEstimate": 6631
     },
     {
       "ID": "S03_OTWA",
@@ -10557,7 +10562,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 331519,
+      "Progressed": 331536,
       "Completed": 5
     }
   ],
@@ -10565,8 +10570,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-17T23:00:34.9131333+00:00",
-  "LastChanged_Achievements": "2023-12-19T20:06:16.4593399+00:00",
+  "LastChanged_Achievements": "2023-12-19T21:06:51.7348632+00:00",
   "LastUpdate_AppInfo": "2023-12-14T20:57:08.8756847+00:00",
-  "LastUpdate_Ratings": "2023-12-19T20:01:48.8504467+00:00",
-  "LastUpdate_Achievements": "2023-12-19T20:06:16.4593931+00:00"
+  "LastUpdate_Ratings": "2023-12-19T21:02:45.8325291+00:00",
+  "LastUpdate_Achievements": "2023-12-19T21:06:51.7349417+00:00"
 }

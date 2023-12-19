@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That wasn't so bad | 87.00% | ~320 |
-| Let it begin | 48.00% | ~177 |
+| That wasn't so bad | 88.00% | ~324 |
+| Let it begin | 49.00% | ~180 |
 | The athlete | 27.00% | ~99 |
 | The intellectual | 25.00% | ~92 |
 | The boss | 24.00% | ~88 |
@@ -25,7 +25,7 @@
 | Muggy Misha | 3.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 368 (Ranked 349)  
-Completed: 4 (1.09%) (Ranked 168)  
+Completed: 4 (1.09%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

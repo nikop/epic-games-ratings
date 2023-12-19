@@ -18,7 +18,7 @@
 | The third floor | 19.00% | ~51 |
 | One-way | 17.00% | ~46 |
 | On the right path | 16.00% | ~43 |
-| It can't be true | 15.00% | ~40 |
+| It can't be true | 16.00% | ~43 |
 | He who seeks, finds! | 13.00% | ~35 |
 | I'm close now | 12.00% | ~32 |
 | Failed attempt | 12.00% | ~32 |
@@ -37,7 +37,7 @@
 | Sly as a fox | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 270 (Ranked 381)  
-Completed: 1 (0.37%) (Ranked 234)  
+Completed: 1 (0.37%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

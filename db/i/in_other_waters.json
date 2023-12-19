@@ -3,9 +3,9 @@
   "Name": "In Other Waters",
   "ProductSlug": "in-other-waters-771a9b",
   "Ranking_EOS_Progress": 810,
-  "Ranking_EOS_Completed": 383,
+  "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 557,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2022-05-05T15:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:18.347421+00:00",
   "LastChanged": "2023-03-31T05:57:18.3474212+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:35.6639244+00:00",
-  "LastUpdate_Ratings": "2023-12-19T19:58:51.0407493+00:00",
-  "LastUpdate_Achievements": "2023-12-19T20:09:20.8220141+00:00"
+  "LastUpdate_Ratings": "2023-12-19T20:58:57.8795004+00:00",
+  "LastUpdate_Achievements": "2023-12-19T21:09:32.288041+00:00"
 }

@@ -34,7 +34,7 @@ Rating: 4.31 (Ranked 841)
 | Practice Makes Perfect | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 705 (Ranked 296)  
-Completed: 0 (0.00%) (Ranked 383)  
+Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

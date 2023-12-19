@@ -5,64 +5,64 @@ Rating: 4.42 (Ranked 721)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 76.00% | ~1,868 |
-| A new Journey | 75.00% | ~1,844 |
-| Departure | 74.00% | ~1,819 |
-| From X to Y | 73.00% | ~1,794 |
-| Way of Iron | 71.00% | ~1,745 |
-| Mystery Tour | 69.00% | ~1,696 |
-| We brake for nobody | 68.00% | ~1,671 |
-| Brainstorm | 66.00% | ~1,622 |
-| Travel Company | 66.00% | ~1,622 |
-| Mind the Gap | 65.00% | ~1,598 |
-| All around the World | 63.00% | ~1,549 |
-| Right through the middle | 59.00% | ~1,450 |
-| Facility Manager | 54.00% | ~1,327 |
-| Poor Devil | 54.00% | ~1,327 |
-| Producer | 51.00% | ~1,254 |
-| Bridge Builder | 42.00% | ~1,032 |
-| Apprentice | 41.00% | ~1,008 |
-| Going once, going twice, sold | 36.00% | ~885 |
-| Access granted | 35.00% | ~860 |
-| Bull and bear | 34.00% | ~836 |
-| Stoker | 33.00% | ~811 |
-| Full Steam ahead | 32.00% | ~787 |
-| All mine | 31.00% | ~762 |
-| Mole | 30.00% | ~737 |
-| Financial Shark | 30.00% | ~737 |
-| Socializer | 30.00% | ~737 |
-| General Manager | 28.00% | ~688 |
-| Country Life | 28.00% | ~688 |
-| Hostile Takeover | 25.00% | ~614 |
-| Seven at one stroke | 24.00% | ~590 |
-| Breaking Ground | 22.00% | ~541 |
-| Trailblazer | 21.00% | ~516 |
-| Traffic Junction | 21.00% | ~516 |
-| Traffic Jam | 19.00% | ~467 |
-| Networker | 18.00% | ~442 |
-| Resistance is futile | 17.00% | ~418 |
-| Bold and beautiful | 16.00% | ~393 |
+| Country Bumpkin | 76.00% | ~1,871 |
+| A new Journey | 75.00% | ~1,846 |
+| Departure | 74.00% | ~1,822 |
+| From X to Y | 73.00% | ~1,797 |
+| Way of Iron | 71.00% | ~1,748 |
+| Mystery Tour | 69.00% | ~1,699 |
+| We brake for nobody | 68.00% | ~1,674 |
+| Brainstorm | 66.00% | ~1,625 |
+| Travel Company | 66.00% | ~1,625 |
+| Mind the Gap | 65.00% | ~1,600 |
+| All around the World | 63.00% | ~1,551 |
+| Right through the middle | 59.00% | ~1,453 |
+| Facility Manager | 54.00% | ~1,329 |
+| Poor Devil | 54.00% | ~1,329 |
+| Producer | 50.00% | ~1,231 |
+| Bridge Builder | 42.00% | ~1,034 |
+| Apprentice | 41.00% | ~1,009 |
+| Going once, going twice, sold | 36.00% | ~886 |
+| Access granted | 35.00% | ~862 |
+| Bull and bear | 34.00% | ~837 |
+| Stoker | 33.00% | ~812 |
+| Full Steam ahead | 32.00% | ~788 |
+| All mine | 30.00% | ~739 |
+| Mole | 30.00% | ~739 |
+| Financial Shark | 30.00% | ~739 |
+| Socializer | 30.00% | ~739 |
+| Country Life | 28.00% | ~689 |
+| General Manager | 27.00% | ~665 |
+| Hostile Takeover | 25.00% | ~616 |
+| Seven at one stroke | 24.00% | ~591 |
+| Trailblazer | 21.00% | ~517 |
+| Traffic Junction | 21.00% | ~517 |
+| Breaking Ground | 21.00% | ~517 |
+| Traffic Jam | 19.00% | ~468 |
+| Networker | 18.00% | ~443 |
+| Resistance is futile | 17.00% | ~419 |
+| Bold and beautiful | 16.00% | ~394 |
 | Assimilated | 15.00% | ~369 |
 | Settler | 15.00% | ~369 |
-| Go West | 14.00% | ~344 |
-| Max Power | 14.00% | ~344 |
-| Locusts | 14.00% | ~344 |
-| A new Hope | 11.00% | ~270 |
-| Tycoon | 11.00% | ~270 |
-| Unstoppable | 9.00% | ~221 |
-| Track to the Future | 9.00% | ~221 |
-| Call of Duty | 9.00% | ~221 |
+| Go West | 14.00% | ~345 |
+| Max Power | 14.00% | ~345 |
+| Locusts | 14.00% | ~345 |
+| A new Hope | 11.00% | ~271 |
+| Tycoon | 11.00% | ~271 |
+| Unstoppable | 9.00% | ~222 |
+| Track to the Future | 9.00% | ~222 |
+| Call of Duty | 9.00% | ~222 |
 | Conductor | 7.00% | ~172 |
 | Engineer | 4.00% | ~98 |
 | Let off some steam | 4.00% | ~98 |
 | Accurate | 4.00% | ~98 |
 | Three Cheers for Progress | 1.00% | ~25 |
-| European Union | 0.70% | ~17 |
+| European Union | 0.60% | ~15 |
 | United States | 0.60% | ~15 |
 | Together we stand | 0.50% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,458 (Ranked 223)  
-Completed: 0 (0.00%) (Ranked 383)  
+Progressed: 2,462 (Ranked 223)  
+Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -276,7 +276,7 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-16 | 2,415 | 0 |
 | 2023-12-17 | 2,428 | 0 |
 | 2023-12-18 | 2,444 | 0 |
-| 2023-12-19 | 2,458 | 0 |
+| 2023-12-19 | 2,462 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

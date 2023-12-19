@@ -13,7 +13,7 @@
 | The Frenzy | 32.00% | ~253 |
 | Good Karma | 29.00% | ~230 |
 | Office Clerk | 28.00% | ~222 |
-| Protector | 26.00% | ~206 |
+| Protector | 27.00% | ~214 |
 | The Bribe | 24.00% | ~190 |
 | The Ploy | 15.00% | ~119 |
 | Interrogation | 15.00% | ~119 |
@@ -25,8 +25,8 @@
 | Proficient Storyteller | 3.00% | ~24 |
 | Expert Storyteller | 1.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 792 (Ranked 288)  
-Completed: 9 (1.14%) (Ranked 164)  
+Progressed: 792 (Ranked 290)  
+Completed: 9 (1.14%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,10 +2,10 @@
   "ID": "3b925119dbd84a9986f06e66e6794033",
   "Name": "The Jackbox Party Pack 10",
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
-  "Ranking_EOS_Progress": 346,
-  "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_Progress": 345,
+  "Ranking_EOS_Completed": 384,
+  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
     "PcReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 381,
+  "EOS_Progressed": 382,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1314,6 +1314,11 @@
       "Time": "2023-12-19T20:10:20.6241613+00:00",
       "NumProgressed": 381,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T21:10:34.0546577+00:00",
+      "NumProgressed": 382,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -1366,7 +1371,7 @@
       "Name": "Hypnotorious: Self Aware",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "HYPNO_OUTLIER_ONLY_ID",
@@ -1422,7 +1427,7 @@
       "Name": "Timejinx: Timejinx",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "TIME_ORWELL",
@@ -1446,7 +1451,7 @@
       "Name": "Timejinx: The Perfect Guest",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "TKO2_BEACH_LIFE",
@@ -1485,14 +1490,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 381,
+      "Progressed": 382,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-19T20:10:20.6241611+00:00",
+  "LastChanged_Achievements": "2023-12-19T21:10:34.0546573+00:00",
   "LastUpdate_AppInfo": "2023-12-16T01:42:15.0489028+00:00",
-  "LastUpdate_Ratings": "2023-12-19T20:03:10.824184+00:00",
-  "LastUpdate_Achievements": "2023-12-19T20:10:20.6241784+00:00"
+  "LastUpdate_Ratings": "2023-12-19T21:03:18.8157122+00:00",
+  "LastUpdate_Achievements": "2023-12-19T21:10:34.0546787+00:00"
 }

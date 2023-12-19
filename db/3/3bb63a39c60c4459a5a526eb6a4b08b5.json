@@ -3,9 +3,9 @@
   "Name": "Fly Corp",
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 276,
-  "Ranking_EOS_Completed": 300,
+  "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1013,
+  "EOS_Progressed": 1014,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3904,6 +3904,11 @@
       "Time": "2023-12-19T19:09:20.6995645+00:00",
       "NumProgressed": 1013,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T21:11:01.9757666+00:00",
+      "NumProgressed": 1014,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -3937,9 +3942,9 @@
       "ID": "BigPlane",
       "SetID": "1e89b4i",
       "Name": "Expensive Plane",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 264
     },
     {
       "ID": "BudgetFlight",
@@ -3955,7 +3960,7 @@
       "Name": "Calculated",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "Close",
@@ -4083,7 +4088,7 @@
       "Name": "Long Distances",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ManagementMaster",
@@ -4115,7 +4120,7 @@
       "Name": "New Record",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "NoTimeForModernization",
@@ -4129,9 +4134,9 @@
       "ID": "NoWayBack",
       "SetID": "1e89b4i",
       "Name": "No Way Back",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 456
+      "UsersEstimate": 446
     },
     {
       "ID": "NotPlanned",
@@ -4139,7 +4144,7 @@
       "Name": "This Wasn\u0027t Part of the Plan...",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "Ownway",
@@ -4250,14 +4255,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 1013,
+      "Progressed": 1014,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-12-19T20:10:48.1655183+00:00",
+  "LastChanged_Achievements": "2023-12-19T21:11:01.9757661+00:00",
   "LastUpdate_AppInfo": "2023-12-19T19:57:14.5538478+00:00",
-  "LastUpdate_Ratings": "2023-12-19T19:57:39.2722703+00:00",
-  "LastUpdate_Achievements": "2023-12-19T20:10:48.1655538+00:00"
+  "LastUpdate_Ratings": "2023-12-19T20:57:42.6853344+00:00",
+  "LastUpdate_Achievements": "2023-12-19T21:11:01.9758143+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "d3b4722b35674be186318c5f5e14b13e",
   "Name": "Arms Race 2",
   "ProductSlug": "arms-race-2-219fd5",
-  "Ranking_EOS_Progress": 669,
-  "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 457,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_Progress": 657,
+  "Ranking_EOS_Completed": 384,
+  "Ranking_EOS_NewPlayers": 443,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-12-05T18:00:00+00:00",
     "PcReleaseDate": "2023-12-05T18:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 5,
+  "EOS_Progressed": 6,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -51,6 +51,11 @@
     {
       "Time": "2023-12-19T16:04:46.738283+00:00",
       "NumProgressed": 5,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T21:05:31.7598281+00:00",
+      "NumProgressed": 6,
       "NumCompleted": 0
     }
   ],
@@ -199,13 +204,13 @@
     {
       "ID": "1g0ce2c",
       "IsBase": true,
-      "Progressed": 5,
+      "Progressed": 6,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-11T21:08:28.3507055+00:00",
-  "LastChanged_Achievements": "2023-12-19T20:04:59.5291835+00:00",
+  "LastChanged_Achievements": "2023-12-19T21:05:31.7598276+00:00",
   "LastUpdate_AppInfo": "2023-12-12T21:57:14.2224077+00:00",
-  "LastUpdate_Ratings": "2023-12-19T20:02:54.9171508+00:00",
-  "LastUpdate_Achievements": "2023-12-19T20:04:59.5291991+00:00"
+  "LastUpdate_Ratings": "2023-12-19T21:03:02.4602927+00:00",
+  "LastUpdate_Achievements": "2023-12-19T21:05:31.7598641+00:00"
 }

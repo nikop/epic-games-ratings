@@ -2,13 +2,13 @@
   "ID": "dda64c2956b54f1ba3cd97f6aaee775f",
   "Name": "Total War: WARHAMMER III",
   "ProductSlug": "total-war-warhammer-3",
-  "Ranking_Rating": 217,
+  "Ranking_Rating": 197,
   "Ranking_Popularity": 110,
   "Ranking_PopularitySum": 109,
   "Ranking_EOS_Progress": 810,
-  "Ranking_EOS_Completed": 383,
+  "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 557,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-02-17T06:00:00+00:00",
     "PcReleaseDate": "2022-02-17T06:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.7,
+  "Rating": 4.71,
   "NumberOfRatings": 882,
   "RatingHistory": [
     {
@@ -9230,10 +9230,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 8131,
       "NumberOfAwardsMax": 2177
+    },
+    {
+      "Time": "2023-12-19T21:00:51.8472555+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 8133,
+      "NumberOfAwardsMax": 2177
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8131,
+  "NumberOfAwards": 8133,
   "NumberOfAwardsMax": 2177,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -9301,7 +9307,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 441
+      "Count": 443
     },
     {
       "Text": "This game has Unique Visuals",
@@ -9327,8 +9333,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:31.8340221+00:00",
-  "LastChanged": "2023-12-19T17:59:47.5480924+00:00",
+  "LastChanged": "2023-12-19T21:00:51.8472554+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:33.8697885+00:00",
-  "LastUpdate_Ratings": "2023-12-19T20:00:46.5955691+00:00",
-  "LastUpdate_Achievements": "2023-12-19T20:04:32.7749335+00:00"
+  "LastUpdate_Ratings": "2023-12-19T21:00:51.8472559+00:00",
+  "LastUpdate_Achievements": "2023-12-19T21:05:04.3756419+00:00"
 }

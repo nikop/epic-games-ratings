@@ -2,10 +2,10 @@
   "ID": "ace01fe38cfb4479b1009cf49478ff18",
   "Name": "Warhammer 40,000: Boltgun",
   "ProductSlug": "boltgun-b1cb36",
-  "Ranking_EOS_Progress": 356,
-  "Ranking_EOS_Completed": 250,
+  "Ranking_EOS_Progress": 355,
+  "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 348,
+  "EOS_Progressed": 349,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -1294,6 +1294,11 @@
       "Time": "2023-12-19T20:08:21.0359293+00:00",
       "NumProgressed": 348,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T21:08:29.2626276+00:00",
+      "NumProgressed": 349,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -1352,9 +1357,9 @@
       "ID": "ach_complete_difficulty_medium",
       "SetID": "d499apg",
       "Name": "My Armour is Contempt",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 95,
-      "UsersEstimate": 17
+      "UsersEstimate": 21
     },
     {
       "ID": "ach_defeat_great_unclean_one",
@@ -1401,14 +1406,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 348,
+      "Progressed": 349,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-12-19T20:08:21.035929+00:00",
+  "LastChanged_Achievements": "2023-12-19T21:08:29.2626267+00:00",
   "LastUpdate_AppInfo": "2023-12-15T14:56:55.6680838+00:00",
-  "LastUpdate_Ratings": "2023-12-19T20:02:54.0495876+00:00",
-  "LastUpdate_Achievements": "2023-12-19T20:08:21.0359473+00:00"
+  "LastUpdate_Ratings": "2023-12-19T21:03:01.5643092+00:00",
+  "LastUpdate_Achievements": "2023-12-19T21:08:29.2626442+00:00"
 }

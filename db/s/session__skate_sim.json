@@ -6,9 +6,9 @@
   "Ranking_Popularity": 421,
   "Ranking_PopularitySum": 321,
   "Ranking_EOS_Progress": 216,
-  "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_Completed": 325,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -1285,9 +1285,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 3281,
+  "EOS_Progressed": 3282,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6535,6 +6535,11 @@
       "Time": "2023-12-19T20:07:11.858394+00:00",
       "NumProgressed": 3281,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-19T21:07:49.4983192+00:00",
+      "NumProgressed": 3282,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -6874,7 +6879,7 @@
       "Name": "Tight lipslides",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ACH_TRICK-SHOT-MARKSMAN",
@@ -6922,22 +6927,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 2001
+      "UsersEstimate": 2002
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3281,
+      "Progressed": 3282,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-12-19T05:57:31.5785779+00:00",
-  "LastChanged_Achievements": "2023-12-19T20:07:11.8583938+00:00",
+  "LastChanged_Achievements": "2023-12-19T21:07:49.4983188+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:11.20318+00:00",
-  "LastUpdate_Ratings": "2023-12-19T19:58:24.9588549+00:00",
-  "LastUpdate_Achievements": "2023-12-19T20:07:11.8584382+00:00"
+  "LastUpdate_Ratings": "2023-12-19T20:58:31.9911408+00:00",
+  "LastUpdate_Achievements": "2023-12-19T21:07:49.4983654+00:00"
 }

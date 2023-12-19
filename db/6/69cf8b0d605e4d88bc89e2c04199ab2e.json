@@ -3,9 +3,9 @@
   "Name": "Super Kids Racing",
   "ProductSlug": "super-kids-racing-7bf296",
   "Ranking_EOS_Progress": 690,
-  "Ranking_EOS_Completed": 383,
+  "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 557,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-12-07T18:30:00+00:00",
     "PcReleaseDate": "2018-02-08T18:30:00+00:00",
@@ -117,8 +117,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-04T01:51:30.5725375+00:00",
-  "LastChanged_Achievements": "2023-12-19T20:05:46.7607085+00:00",
+  "LastChanged_Achievements": "2023-12-19T21:06:21.4303091+00:00",
   "LastUpdate_AppInfo": "2023-12-18T02:20:38.6926517+00:00",
-  "LastUpdate_Ratings": "2023-12-19T19:57:45.7724458+00:00",
-  "LastUpdate_Achievements": "2023-12-19T20:05:46.7607153+00:00"
+  "LastUpdate_Ratings": "2023-12-19T20:57:49.8109356+00:00",
+  "LastUpdate_Achievements": "2023-12-19T21:06:21.4303177+00:00"
 }

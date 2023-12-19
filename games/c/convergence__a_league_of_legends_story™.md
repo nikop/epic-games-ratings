@@ -8,19 +8,19 @@ Rating: 4.64 (Ranked 340)
 | Time Heals All Wounds | 37.00% | ~383 |
 | Rail Rat | 29.00% | ~300 |
 | The Mysterious Stranger | 28.00% | ~290 |
-| Immaculate Aim | 24.00% | ~248 |
+| Immaculate Aim | 24.00% | ~249 |
+| The Brass Boss | 24.00% | ~249 |
 | Make Up For Lost Time | 23.00% | ~238 |
 | Time Flies | 23.00% | ~238 |
 | No, Thanks! | 23.00% | ~238 |
 | The Prince in Heels | 23.00% | ~238 |
-| The Brass Boss | 23.00% | ~238 |
 | The Steel Shadow | 22.00% | ~228 |
 | The Harder They Fall | 22.00% | ~228 |
 | Breaking Down Barriers | 22.00% | ~228 |
 | Honest Mistake | 22.00% | ~228 |
 | Fast Learner | 22.00% | ~228 |
 | Immaculate Aim | 22.00% | ~228 |
-| The Wicked Twins | 21.00% | ~217 |
+| The Wicked Twins | 21.00% | ~218 |
 | Right On Time | 20.00% | ~207 |
 | Like Clockwork | 20.00% | ~207 |
 | The Betrayer | 20.00% | ~207 |
@@ -46,7 +46,7 @@ Rating: 4.64 (Ranked 340)
 | Corin Goes Home | 8.00% | ~83 |
 | Sartorialist | 8.00% | ~83 |
 | Entresol Explorer | 8.00% | ~83 |
-| Golem Hunter | 7.00% | ~72 |
+| Golem Hunter | 7.00% | ~73 |
 | Clovemary for Remembering | 6.00% | ~62 |
 | Hexlock for Protection | 6.00% | ~62 |
 | Rungs Was Right | 5.00% | ~52 |
@@ -59,8 +59,8 @@ Rating: 4.64 (Ranked 340)
 | Raw Talent | 0.70% | ~7 |
 | Going to Live Forever | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,035 (Ranked 275)  
-Completed: 6 (0.58%) (Ranked 199)  
+Progressed: 1,036 (Ranked 274)  
+Completed: 6 (0.58%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -208,7 +208,7 @@ Completed: 6 (0.58%) (Ranked 199)
 | 2023-12-16 | 1,000 | 6 |
 | 2023-12-17 | 1,021 | 6 |
 | 2023-12-18 | 1,030 | 6 |
-| 2023-12-19 | 1,035 | 6 |
+| 2023-12-19 | 1,036 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

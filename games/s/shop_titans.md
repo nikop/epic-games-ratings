@@ -12,16 +12,16 @@ Number of Ratings: 12,664  (23.09.2022)
 | Tinkle of Coins | 7.00% | ~10,249 |
 | Disintermediation | 6.00% | ~8,785 |
 | Capitalism Ho! | 6.00% | ~8,785 |
-| One Easy Payment | 5.00% | ~7,320 |
-| Another Satisfied Customer | 5.00% | ~7,320 |
-| It's Free Real Estate | 5.00% | ~7,320 |
-| Budding Merchant | 5.00% | ~7,320 |
-| Own the Means of Production | 5.00% | ~7,320 |
-| The Daily Grind | 4.00% | ~5,856 |
-| Some Assembly Required | 4.00% | ~5,856 |
-| Pretty Penny | 4.00% | ~5,856 |
-| One-Armed Bandit | 4.00% | ~5,856 |
-| Through Repetition, Perfection | 4.00% | ~5,856 |
+| One Easy Payment | 5.00% | ~7,321 |
+| Another Satisfied Customer | 5.00% | ~7,321 |
+| It's Free Real Estate | 5.00% | ~7,321 |
+| Budding Merchant | 5.00% | ~7,321 |
+| Own the Means of Production | 5.00% | ~7,321 |
+| The Daily Grind | 4.00% | ~5,857 |
+| Some Assembly Required | 4.00% | ~5,857 |
+| Pretty Penny | 4.00% | ~5,857 |
+| One-Armed Bandit | 4.00% | ~5,857 |
+| Through Repetition, Perfection | 4.00% | ~5,857 |
 | On the Path to Greatness | 3.00% | ~4,392 |
 | Ascended | 3.00% | ~4,392 |
 | Vanity, Verily | 3.00% | ~4,392 |
@@ -36,6 +36,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Helping Hand | 3.00% | ~4,392 |
 | Accomplished Merchant | 3.00% | ~4,392 |
 | Dungeon Imports | 3.00% | ~4,392 |
+| Natural 20 | 3.00% | ~4,392 |
 | Did we pack lunch? | 3.00% | ~4,392 |
 | Arcane Industries | 3.00% | ~4,392 |
 | A Notch Above the Rest | 2.00% | ~2,928 |
@@ -81,7 +82,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Miracle Alchemist | 2.00% | ~2,928 |
 | Laden with Loot | 2.00% | ~2,928 |
 | Bountiful Harvest | 2.00% | ~2,928 |
-| Natural 20 | 2.00% | ~2,928 |
 | Seasoned Journeyman | 2.00% | ~2,928 |
 | Precision Engineering | 2.00% | ~2,928 |
 | Scourge of the Seas | 2.00% | ~2,928 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~586 |
 | Capitalist Camaraderie | 0.20% | ~293 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 146,410 (Ranked 81)  
-Completed: 325 (0.22%) (Ranked 264)  
+Progressed: 146,416 (Ranked 81)  
+Completed: 325 (0.22%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -362,10 +362,10 @@ Completed: 325 (0.22%) (Ranked 264)
 | 2023-12-16 | 145,933 | 319 |
 | 2023-12-17 | 146,136 | 322 |
 | 2023-12-18 | 146,265 | 322 |
-| 2023-12-19 | 146,410 | 325 |
+| 2023-12-19 | 146,416 | 325 |
 ## Awards
 Max (Great for Beginners): 4,898  (Ranked 75)  
-Sum: 27,762 (Ranked 51)  
+Sum: 27,764 (Ranked 51)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
@@ -374,7 +374,7 @@ Diff (max vs sum): 24
 | This game has Quickly Understood Controls | 4,048 |
 | This game has Diverse Characters | 3,983 |
 | This game is Highly Recommended | 3,800 |
-| This game has Easy Combat | 3,748 |
+| This game has Easy Combat | 3,750 |
 | This game has Playful Visuals | 3,223 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
@@ -702,3 +702,4 @@ Diff (max vs sum): 24
 | 2023-12-16 | 3.99 | - | 4,896 | 27,750 |
 | 2023-12-17 | 3.99 | - | 4,898 | 27,759 |
 | 2023-12-18 | 3.99 | - | 4,898 | 27,762 |
+| 2023-12-19 | 3.99 | - | 4,898 | 27,764 |

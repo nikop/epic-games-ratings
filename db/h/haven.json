@@ -6,9 +6,9 @@
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 242,
-  "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_Completed": 197,
+  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1678,
+  "EOS_Progressed": 1679,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -2623,6 +2623,11 @@
       "Time": "2023-12-19T20:05:32.6336709+00:00",
       "NumProgressed": 1678,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-19T21:06:06.1093464+00:00",
+      "NumProgressed": 1679,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -2632,9 +2637,9 @@
       "ID": "1",
       "SetID": "n50no0",
       "Name": "Lovebirds",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 772
+      "UsersEstimate": 789
     },
     {
       "ID": "10",
@@ -2698,7 +2703,7 @@
       "Name": "Balding bloot!",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 1258
+      "UsersEstimate": 1259
     },
     {
       "ID": "18",
@@ -2762,7 +2767,7 @@
       "Name": "In my shoes",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "25",
@@ -2802,7 +2807,7 @@
       "Name": "Self-sustainability",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "31",
@@ -2873,15 +2878,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1678,
+      "Progressed": 1679,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-19T20:05:32.6336704+00:00",
+  "LastChanged_Achievements": "2023-12-19T21:06:06.1093456+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.3116727+00:00",
-  "LastUpdate_Ratings": "2023-12-19T19:59:32.3883083+00:00",
-  "LastUpdate_Achievements": "2023-12-19T20:05:32.6336985+00:00"
+  "LastUpdate_Ratings": "2023-12-19T20:59:39.1376864+00:00",
+  "LastUpdate_Achievements": "2023-12-19T21:06:06.1093813+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 273,
-  "Ranking_EOS_Completed": 307,
+  "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -222,9 +222,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 1056,
+  "EOS_Progressed": 1057,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2742,6 +2742,11 @@
       "Time": "2023-12-19T20:05:29.7041195+00:00",
       "NumProgressed": 1056,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T21:06:03.2610417+00:00",
+      "NumProgressed": 1057,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2762,7 +2767,7 @@
       "Name": "Ab Initio",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "AnthropicHills",
@@ -2834,7 +2839,7 @@
       "Name": "Circular Oasis",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "DesolateIsland",
@@ -2882,7 +2887,7 @@
       "Name": "Flooded Valley",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "GnothiSeauton",
@@ -2954,7 +2959,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "Mnemosyne",
@@ -3002,7 +3007,7 @@
       "Name": "Not What It Seems",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "Overload",
@@ -3010,7 +3015,7 @@
       "Name": "Overload",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "Persistent",
@@ -3042,7 +3047,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "RenaissanceRobot",
@@ -3058,7 +3063,7 @@
       "Name": "Scientia Vincere Tenebras",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "Signatory",
@@ -3090,7 +3095,7 @@
       "Name": "Southern Coast",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "TeamSpirit",
@@ -3160,9 +3165,9 @@
       "ID": "TheWordEndures",
       "SetID": "1n308hc",
       "Name": "The Word Endures",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 275
+      "UsersEstimate": 285
     },
     {
       "ID": "TouchGrass",
@@ -3176,17 +3181,17 @@
       "ID": "TrevorsBiographer",
       "SetID": "1n308hc",
       "Name": "Trevor\u0027s Biographer",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 63
+      "UsersEstimate": 74
     },
     {
       "ID": "VerdantCanyon",
       "SetID": "1n308hc",
       "Name": "Verdant Canyon",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 85
     },
     {
       "ID": "Wanderers",
@@ -3202,7 +3207,7 @@
       "Name": "Western Delta",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "WoodedPlateau",
@@ -3225,7 +3230,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1056,
+      "Progressed": 1057,
       "Completed": 1
     }
   ],
@@ -3233,8 +3238,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-19T20:05:29.7041189+00:00",
+  "LastChanged_Achievements": "2023-12-19T21:06:03.2610412+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-19T20:00:10.3311076+00:00",
-  "LastUpdate_Achievements": "2023-12-19T20:05:29.7041651+00:00"
+  "LastUpdate_Ratings": "2023-12-19T21:00:17.1748756+00:00",
+  "LastUpdate_Achievements": "2023-12-19T21:06:03.26109+00:00"
 }

@@ -14,10 +14,10 @@ Rating: 3.57 (Ranked 1,062)
 | Ne Plus Ultra | 5.00% | ~97 |
 | Fly Fisher | 5.00% | ~97 |
 | Peek-a-boo | 5.00% | ~97 |
+| Enter of Your Own Free Will | 4.00% | ~78 |
 | Welcome to the Neighborhood | 4.00% | ~78 |
 | Throw The First Stone | 4.00% | ~78 |
 | Sucks To Be You | 4.00% | ~78 |
-| Enter of Your Own Free Will | 3.00% | ~58 |
 | Bad Wiring | 3.00% | ~58 |
 | Grounded | 3.00% | ~58 |
 | Heart Attack | 3.00% | ~58 |
@@ -73,7 +73,7 @@ Rating: 3.57 (Ranked 1,062)
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,947 (Ranked 235)  
-Completed: 0 (0.00%) (Ranked 383)  
+Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

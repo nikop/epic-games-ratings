@@ -6,19 +6,19 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kaijuiced | 67.00% | ~33 |
-| Lie Back and Think of Albion | 61.00% | ~30 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 53.00% | ~26 |
-| Yettisoned | 49.00% | ~24 |
-| I Look Up As I Walk to Takoshima | 45.00% | ~22 |
-| Shop Til They Drop | 45.00% | ~22 |
-| Perfect Probulator | 43.00% | ~21 |
-| Lobster Blisque | 41.00% | ~20 |
-| Ducks in a Row, Fish in a Barrel | 35.00% | ~17 |
-| Freshly Squeezed | 33.00% | ~16 |
-| Earthly Pleasures | 31.00% | ~15 |
-| Fly Me to the Moon Base | 29.00% | ~14 |
-| Forbidden Donut | 27.00% | ~13 |
+| Kaijuiced | 66.00% | ~33 |
+| Lie Back and Think of Albion | 62.00% | ~31 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 54.00% | ~27 |
+| Yettisoned | 50.00% | ~25 |
+| I Look Up As I Walk to Takoshima | 44.00% | ~22 |
+| Shop Til They Drop | 44.00% | ~22 |
+| Perfect Probulator | 42.00% | ~21 |
+| Lobster Blisque | 40.00% | ~20 |
+| Ducks in a Row, Fish in a Barrel | 34.00% | ~17 |
+| Freshly Squeezed | 32.00% | ~16 |
+| Earthly Pleasures | 30.00% | ~15 |
+| Fly Me to the Moon Base | 28.00% | ~14 |
+| Forbidden Donut | 26.00% | ~13 |
 | Pimp My Raid | 24.00% | ~12 |
 | Bodied Sattva | 24.00% | ~12 |
 | Upgreatest | 20.00% | ~10 |
@@ -47,13 +47,13 @@ Number of Ratings: 85  (23.09.2022)
 | Toilet Break | 0.00% | ~0 |
 | Against All Odds | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49 (Ranked 525)  
-Completed: 0 (0.00%) (Ranked 383)  
+Progressed: 50 (Ranked 525)  
+Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-12-18 | 23 | 0 |
-| 2023-12-19 | 49 | 0 |
+| 2023-12-19 | 50 | 0 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 490)  
 Sum: 34 (Ranked 515)  

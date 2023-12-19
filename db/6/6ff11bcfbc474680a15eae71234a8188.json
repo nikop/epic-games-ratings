@@ -2,10 +2,10 @@
   "ID": "6ff11bcfbc474680a15eae71234a8188",
   "Name": "Ebenezer and the Invisible World",
   "ProductSlug": "ebenezer-and-the-invisible-world-9241e7",
-  "Ranking_EOS_Progress": 669,
-  "Ranking_EOS_Completed": 383,
+  "Ranking_EOS_Progress": 670,
+  "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 557,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-11-03T07:00:00+00:00",
     "PcReleaseDate": "2023-11-03T07:00:00+00:00",
@@ -282,8 +282,8 @@
   ],
   "FirstSeen": "2023-11-12T04:58:12.7844813+00:00",
   "FirstSeenAchievements": "2023-10-30T19:03:57.5044689+00:00",
-  "LastChanged_Achievements": "2023-12-19T20:04:36.4208938+00:00",
+  "LastChanged_Achievements": "2023-12-19T21:05:08.1319564+00:00",
   "LastUpdate_AppInfo": "2023-12-19T01:44:23.9738+00:00",
-  "LastUpdate_Ratings": "2023-12-19T19:59:08.1292293+00:00",
-  "LastUpdate_Achievements": "2023-12-19T20:04:36.4209124+00:00"
+  "LastUpdate_Ratings": "2023-12-19T20:59:13.8869895+00:00",
+  "LastUpdate_Achievements": "2023-12-19T21:05:08.1319743+00:00"
 }

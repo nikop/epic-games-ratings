@@ -6,7 +6,7 @@
   "Ranking_Popularity": 75,
   "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 81,
-  "Ranking_EOS_Completed": 264,
+  "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
@@ -7583,10 +7583,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27762,
       "NumberOfAwardsMax": 4898
+    },
+    {
+      "Time": "2023-12-19T21:04:06.1269525+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27764,
+      "NumberOfAwardsMax": 4898
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27762,
+  "NumberOfAwards": 27764,
   "NumberOfAwardsMax": 4898,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7612,7 +7618,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 3748
+      "Count": 3750
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -7639,9 +7645,9 @@
       "Count": 3800
     }
   ],
-  "EOS_Progressed": 146410,
+  "EOS_Progressed": 146416,
   "EOS_Completed": 325,
-  "EOS_NewPlayers": 1560,
+  "EOS_NewPlayers": 1561,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -33099,6 +33105,11 @@
       "Time": "2023-12-19T20:03:58.3541077+00:00",
       "NumProgressed": 146410,
       "NumCompleted": 325
+    },
+    {
+      "Time": "2023-12-19T21:04:29.5673916+00:00",
+      "NumProgressed": 146416,
+      "NumCompleted": 325
     }
   ],
   "TotalAchievements": 112,
@@ -33110,7 +33121,7 @@
       "Name": "The Daily Grind",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5856
+      "UsersEstimate": 5857
     },
     {
       "ID": "advlevel02",
@@ -33190,7 +33201,7 @@
       "Name": "One Easy Payment",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7320
+      "UsersEstimate": 7321
     },
     {
       "ID": "bigsale02",
@@ -33214,7 +33225,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5856
+      "UsersEstimate": 5857
     },
     {
       "ID": "blueprint02",
@@ -33462,7 +33473,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7320
+      "UsersEstimate": 7321
     },
     {
       "ID": "energy02",
@@ -33486,7 +33497,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7320
+      "UsersEstimate": 7321
     },
     {
       "ID": "expansion02",
@@ -33590,7 +33601,7 @@
       "Name": "Pretty Penny",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5856
+      "UsersEstimate": 5857
     },
     {
       "ID": "gold03",
@@ -33662,7 +33673,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5856
+      "UsersEstimate": 5857
     },
     {
       "ID": "jackslot02",
@@ -33694,7 +33705,7 @@
       "Name": "Budding Merchant",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 7320
+      "UsersEstimate": 7321
     },
     {
       "ID": "level02",
@@ -33766,15 +33777,15 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5856
+      "UsersEstimate": 5857
     },
     {
       "ID": "master02",
       "SetID": "anfd17p",
       "Name": "Natural 20",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2928
+      "UsersEstimate": 4392
     },
     {
       "ID": "master03",
@@ -33974,7 +33985,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7320
+      "UsersEstimate": 7321
     },
     {
       "ID": "workers02",
@@ -34005,15 +34016,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 146410,
+      "Progressed": 146416,
       "Completed": 325
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-12-18T20:03:05.7659156+00:00",
-  "LastChanged_Achievements": "2023-12-19T20:03:58.3541072+00:00",
+  "LastChanged": "2023-12-19T21:04:06.1269511+00:00",
+  "LastChanged_Achievements": "2023-12-19T21:04:29.5673912+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.001195+00:00",
-  "LastUpdate_Ratings": "2023-12-19T20:03:35.7595881+00:00",
-  "LastUpdate_Achievements": "2023-12-19T20:03:58.3543445+00:00"
+  "LastUpdate_Ratings": "2023-12-19T21:04:06.1269529+00:00",
+  "LastUpdate_Achievements": "2023-12-19T21:04:29.5676511+00:00"
 }

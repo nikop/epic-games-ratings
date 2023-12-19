@@ -6,7 +6,7 @@
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 136,
-  "Ranking_EOS_Completed": 137,
+  "Ranking_EOS_Completed": 138,
   "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
@@ -419,9 +419,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 26598,
+  "EOS_Progressed": 26601,
   "EOS_Completed": 495,
-  "EOS_NewPlayers": 516,
+  "EOS_NewPlayers": 518,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.86,
   "EosHistory": [
@@ -26584,6 +26584,11 @@
       "Time": "2023-12-19T20:08:27.3471431+00:00",
       "NumProgressed": 26598,
       "NumCompleted": 495
+    },
+    {
+      "Time": "2023-12-19T21:08:35.8235758+00:00",
+      "NumProgressed": 26601,
+      "NumCompleted": 495
     }
   ],
   "TotalAchievements": 20,
@@ -26715,7 +26720,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 20214
+      "UsersEstimate": 20217
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -26723,7 +26728,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7181
+      "UsersEstimate": 7182
     },
     {
       "ID": "NORTH_FINISHED",
@@ -26754,15 +26759,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 26598,
+      "Progressed": 26601,
       "Completed": 495
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-12-19T20:08:27.3471427+00:00",
+  "LastChanged_Achievements": "2023-12-19T21:08:35.8235755+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:01.7195881+00:00",
-  "LastUpdate_Ratings": "2023-12-19T20:02:48.0314987+00:00",
-  "LastUpdate_Achievements": "2023-12-19T20:08:27.3472902+00:00"
+  "LastUpdate_Ratings": "2023-12-19T21:02:55.2333244+00:00",
+  "LastUpdate_Achievements": "2023-12-19T21:08:35.8237027+00:00"
 }

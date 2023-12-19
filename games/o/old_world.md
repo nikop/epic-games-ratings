@@ -14,10 +14,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Acropolis in Athenai | 0.10% | ~16 |
 | Hanging Gardens in Babylon | 0.10% | ~16 |
 | Ishtar Gate in Babylon | 0.10% | ~16 |
+| Before the Mongol Horde | 0.10% | ~16 |
 | Carthage - Ox Hide | 0.10% | ~16 |
 | Bronze Victory (Carthage 1) | 0.10% | ~16 |
+| Silver Victory (Carthage 1) | 0.10% | ~16 |
 | Able | 0.10% | ~16 |
 | Ambitious | 0.10% | ~16 |
+| Ancient | 0.10% | ~16 |
 | Architect | 0.10% | ~16 |
 | Beloved | 0.10% | ~16 |
 | Drillmaster | 0.10% | ~16 |
@@ -46,6 +49,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Settler | 0.10% | ~16 |
 | Strong | 0.10% | ~16 |
 | Valiant | 0.10% | ~16 |
+| Victorious | 0.10% | ~16 |
 | Warrior | 0.10% | ~16 |
 | Developing Cities | 0.10% | ~16 |
 | Legendary Cities | 0.10% | ~16 |
@@ -144,12 +148,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Great Raging Horde | 0.00% | ~0 |
 | United Against The Horde | 0.00% | ~0 |
 | Battle of Opis | 0.00% | ~0 |
-| Before the Mongol Horde | 0.00% | ~0 |
 | Blade of the Monkey | 0.00% | ~0 |
 | Hagia Sophia in Byzantion | 0.00% | ~0 |
 | Epic Victory (Carthage 1) | 0.00% | ~0 |
 | Gold Victory (Carthage 1) | 0.00% | ~0 |
-| Silver Victory (Carthage 1) | 0.00% | ~0 |
 | Carthage - Riches and Influence | 0.00% | ~0 |
 | Bronze Victory (Carthage 2) | 0.00% | ~0 |
 | Epic Victory (Carthage 2) | 0.00% | ~0 |
@@ -167,7 +169,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Silver Victory (Carthage 4) | 0.00% | ~0 |
 | Carthage Campaign | 0.00% | ~0 |
 | Cleopatra's Love | 0.00% | ~0 |
-| Ancient | 0.00% | ~0 |
 | Avenger | 0.00% | ~0 |
 | Capable | 0.00% | ~0 |
 | Destroyer | 0.00% | ~0 |
@@ -178,7 +179,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rebuilder | 0.00% | ~0 |
 | Restorer | 0.00% | ~0 |
 | Subjugator | 0.00% | ~0 |
-| Victorious | 0.00% | ~0 |
 | White Death | 0.00% | ~0 |
 | Wise | 0.00% | ~0 |
 | Council of Madness | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Al Khazneh in Petra | 0.00% | ~0 |
 | Colosseum in Roma | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,839 (Ranked 157)  
+Progressed: 15,840 (Ranked 157)  
 Completed: 5 (0.03%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -608,7 +608,7 @@ Completed: 5 (0.03%) (Ranked 344)
 | 2023-12-16 | 15,789 | 5 |
 | 2023-12-17 | 15,807 | 5 |
 | 2023-12-18 | 15,826 | 5 |
-| 2023-12-19 | 15,839 | 5 |
+| 2023-12-19 | 15,840 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 279)  
 Sum: 1,904 (Ranked 220)  

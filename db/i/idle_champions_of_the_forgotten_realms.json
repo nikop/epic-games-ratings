@@ -6,7 +6,7 @@
   "Ranking_Popularity": 70,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 65,
-  "Ranking_EOS_Completed": 170,
+  "Ranking_EOS_Completed": 171,
   "Ranking_EOS_NewPlayers": 60,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
@@ -8881,9 +8881,9 @@
       "Count": 3579
     }
   ],
-  "EOS_Progressed": 242083,
+  "EOS_Progressed": 242101,
   "EOS_Completed": 2544,
-  "EOS_NewPlayers": 2527,
+  "EOS_NewPlayers": 2544,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -36341,6 +36341,11 @@
       "Time": "2023-12-19T20:10:56.3705512+00:00",
       "NumProgressed": 242083,
       "NumCompleted": 2544
+    },
+    {
+      "Time": "2023-12-19T21:11:10.284785+00:00",
+      "NumProgressed": 242101,
+      "NumCompleted": 2544
     }
   ],
   "TotalAchievements": 546,
@@ -39494,9 +39499,9 @@
       "ID": "objective_completed_7",
       "SetID": "cc37lbc",
       "Name": "The Mad Wizard",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 484
+      "UsersEstimate": 726
     },
     {
       "ID": "objective_completed_70",
@@ -40640,7 +40645,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1459
     },
     {
       "ID": "objective_completed_1558",
@@ -40719,21 +40724,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 208357,
-      "Completed": 4046
+      "Progressed": 208375,
+      "Completed": 4047
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 242083,
+      "Progressed": 242101,
       "Completed": 2544
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-19T18:00:27.0264428+00:00",
-  "LastChanged_Achievements": "2023-12-19T20:10:56.3705507+00:00",
+  "LastChanged_Achievements": "2023-12-19T21:11:10.2847846+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:52.1318001+00:00",
-  "LastUpdate_Ratings": "2023-12-19T20:01:37.5116968+00:00",
-  "LastUpdate_Achievements": "2023-12-19T20:10:56.372832+00:00"
+  "LastUpdate_Ratings": "2023-12-19T21:01:43.8477522+00:00",
+  "LastUpdate_Achievements": "2023-12-19T21:11:10.2870251+00:00"
 }

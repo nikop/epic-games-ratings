@@ -5,36 +5,36 @@ Rating: 4.33 (Ranked 827)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 76.00% | ~936 |
-| And so it begins | 72.00% | ~887 |
-| No pressure | 70.00% | ~862 |
-| Memento | 61.00% | ~752 |
-| Let there be light | 58.00% | ~715 |
-| I think you dropped this | 54.00% | ~665 |
-| Soulmate? | 53.00% | ~653 |
-| Excellent service | 49.00% | ~604 |
-| Roll with it | 46.00% | ~567 |
-| Humble beginnings | 44.00% | ~542 |
-| Love is in the air | 43.00% | ~530 |
-| Fine, I'll do it myself | 42.00% | ~517 |
-| Moving up | 41.00% | ~505 |
-| No need to call anyone | 39.00% | ~480 |
-| Big fortune | 32.00% | ~394 |
+| Good start | 76.00% | ~939 |
+| And so it begins | 72.00% | ~889 |
+| No pressure | 70.00% | ~864 |
+| Memento | 61.00% | ~753 |
+| Let there be light | 58.00% | ~716 |
+| I think you dropped this | 54.00% | ~667 |
+| Soulmate? | 53.00% | ~655 |
+| Excellent service | 49.00% | ~605 |
+| Roll with it | 46.00% | ~568 |
+| Humble beginnings | 44.00% | ~543 |
+| Love is in the air | 43.00% | ~531 |
+| Fine, I'll do it myself | 42.00% | ~519 |
+| Moving up | 41.00% | ~506 |
+| No need to call anyone | 39.00% | ~482 |
+| Big fortune | 32.00% | ~395 |
 | Still more work ahead | 30.00% | ~370 |
-| Aesop's fable | 28.00% | ~345 |
-| Hotel sleuthing | 28.00% | ~345 |
+| Aesop's fable | 28.00% | ~346 |
+| Hotel sleuthing | 28.00% | ~346 |
 | Kaboom | 27.00% | ~333 |
-| Nearly there | 26.00% | ~320 |
-| Broken heart | 23.00% | ~283 |
-| Island boy | 22.00% | ~271 |
-| You're a star | 21.00% | ~259 |
-| Unstoppable | 19.00% | ~234 |
-| Reunited | 19.00% | ~234 |
+| Nearly there | 26.00% | ~321 |
+| Broken heart | 23.00% | ~284 |
+| Island boy | 22.00% | ~272 |
+| You're a star | 20.00% | ~247 |
+| Unstoppable | 19.00% | ~235 |
+| Reunited | 19.00% | ~235 |
 | King of hospitality | 11.00% | ~136 |
 | Top spot in town | 2.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,232 (Ranked 263)  
-Completed: 18 (1.46%) (Ranked 148)  
+Progressed: 1,235 (Ranked 262)  
+Completed: 18 (1.46%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -222,7 +222,7 @@ Completed: 18 (1.46%) (Ranked 148)
 | 2023-12-16 | 1,208 | 18 |
 | 2023-12-17 | 1,218 | 18 |
 | 2023-12-18 | 1,226 | 18 |
-| 2023-12-19 | 1,232 | 18 |
+| 2023-12-19 | 1,235 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

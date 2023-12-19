@@ -146,7 +146,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 241,308 (Ranked 66)  
-Completed: 300 (0.12%) (Ranked 293)  
+Completed: 300 (0.12%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

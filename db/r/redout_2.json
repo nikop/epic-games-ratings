@@ -6,9 +6,9 @@
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 266,
-  "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 441,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_Completed": 384,
+  "Ranking_EOS_NewPlayers": 443,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -1326,9 +1326,9 @@
       "ID": "CAREERACADEMY",
       "SetID": "3dh70f3",
       "Name": "Rookie No More",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 320
+      "UsersEstimate": 332
     },
     {
       "ID": "CAREERADVANCED",
@@ -1430,9 +1430,9 @@
       "ID": "FINISHSOUND",
       "SetID": "3dh70f3",
       "Name": "Running at the speed of sound",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 166
     },
     {
       "ID": "FLYLONG",
@@ -1623,8 +1623,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-11-23T19:59:23.2109032+00:00",
-  "LastChanged_Achievements": "2023-12-19T20:06:48.458314+00:00",
+  "LastChanged_Achievements": "2023-12-19T21:07:24.5651159+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:54.1837394+00:00",
-  "LastUpdate_Ratings": "2023-12-19T20:03:30.8017794+00:00",
-  "LastUpdate_Achievements": "2023-12-19T20:06:48.4583577+00:00"
+  "LastUpdate_Ratings": "2023-12-19T21:04:00.8808653+00:00",
+  "LastUpdate_Achievements": "2023-12-19T21:07:24.5651531+00:00"
 }

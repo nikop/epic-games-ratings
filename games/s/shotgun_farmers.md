@@ -6,26 +6,26 @@
 | ---- | ---------- | ----- |
 | Seeds of War | 82.00% | ~289 |
 | First Blood | 63.00% | ~222 |
-| Triple Kill | 62.00% | ~218 |
-| Aspairagus | 60.00% | ~181 |
-| No Asperascope | 58.00% | ~204 |
-| Survivor | 57.00% | ~172 |
+| Triple Kill | 62.00% | ~219 |
+| Aspairagus | 60.00% | ~182 |
+| No Asperascope | 58.00% | ~205 |
+| Survivor | 57.00% | ~173 |
 | Cornivore | 55.00% | ~194 |
-| I Believe I Can Fly | 49.00% | ~172 |
-| No Diggity | 45.00% | ~136 |
+| I Believe I Can Fly | 49.00% | ~173 |
+| No Diggity | 44.00% | ~133 |
 | Early Survivor | 41.00% | ~124 |
 | Bouncemato | 31.00% | ~94 |
 | 10K | 29.00% | ~102 |
 | Amateur Survivor | 29.00% | ~88 |
 | 15K | 27.00% | ~95 |
-| Drinking Problem | 22.00% | ~77 |
-| Quick-Draw Pod | 22.00% | ~66 |
-| Grave Digger | 22.00% | ~66 |
-| Pork Chop Express | 20.00% | ~70 |
-| Professional Survivor | 20.00% | ~60 |
-| Carrocketeer | 18.00% | ~63 |
+| Drinking Problem | 22.00% | ~78 |
+| Quick-Draw Pod | 22.00% | ~67 |
+| Grave Digger | 22.00% | ~67 |
+| Pork Chop Express | 20.00% | ~71 |
+| Professional Survivor | 20.00% | ~61 |
+| Carrocketeer | 18.00% | ~64 |
 | Skin Of Your Teeth | 17.00% | ~60 |
-| This Is My Boomstick | 17.00% | ~51 |
+| This Is My Boomstick | 17.00% | ~52 |
 | Getting Started | 16.00% | ~56 |
 | Eggtraordinary | 15.00% | ~53 |
 | Oh My Gourd | 14.00% | ~42 |
@@ -34,8 +34,8 @@
 | Quit Horsin' Around | 11.00% | ~39 |
 | Fresh Pancake | 10.00% | ~35 |
 | Quadsparagus | 10.00% | ~30 |
-| Bring Home The Bacon | 9.00% | ~32 |
-| Expert Survivor | 9.00% | ~27 |
+| Bring Home The Bacon | 8.00% | ~28 |
+| Expert Survivor | 8.00% | ~24 |
 | Early Bird | 6.00% | ~21 |
 | Chick Magnet | 5.00% | ~18 |
 | I Have The High Ground | 5.00% | ~18 |
@@ -46,8 +46,8 @@
 | 15 Days | 2.00% | ~7 |
 | Pro Shotgunner | 1.00% | ~4 |
 | Easy Peasy | 1.00% | ~3 |
-| King of the Crow | 0.90% | ~3 |
-| Tomassacred | 0.90% | ~3 |
+| King of the Crow | 0.80% | ~2 |
+| Tomassacred | 0.80% | ~2 |
 | Pro Pyromancer | 0.60% | ~2 |
 | Pro Sniperagus | 0.60% | ~2 |
 | Unstoppable | 0.60% | ~2 |
@@ -79,8 +79,8 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 352 (Ranked 354)  
-Completed: 0 (0.00%) (Ranked 383)  
+Progressed: 353 (Ranked 354)  
+Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -228,6 +228,7 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-13 | 350 | 0 |
 | 2023-12-15 | 351 | 0 |
 | 2023-12-16 | 352 | 0 |
+| 2023-12-19 | 353 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 40,
-  "Ranking_EOS_Completed": 383,
+  "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 33,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -13473,9 +13473,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 479357,
+  "EOS_Progressed": 479397,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5744,
+  "EOS_NewPlayers": 5758,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41468,6 +41468,11 @@
       "Time": "2023-12-19T20:04:56.5457811+00:00",
       "NumProgressed": 479357,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T21:05:28.9317727+00:00",
+      "NumProgressed": 479397,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -44143,7 +44148,7 @@
       "Name": "Until death do us apart",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1917
+      "UsersEstimate": 1918
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -44382,21 +44387,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 479357,
+      "Progressed": 479397,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 479357,
+      "Progressed": 479397,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-12-19T20:02:45.7646877+00:00",
-  "LastChanged_Achievements": "2023-12-19T20:04:56.5457808+00:00",
+  "LastChanged_Achievements": "2023-12-19T21:05:28.9317723+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:33.9920534+00:00",
-  "LastUpdate_Ratings": "2023-12-19T20:02:45.7646884+00:00",
-  "LastUpdate_Achievements": "2023-12-19T20:04:56.5468807+00:00"
+  "LastUpdate_Ratings": "2023-12-19T21:02:52.3204826+00:00",
+  "LastUpdate_Achievements": "2023-12-19T21:05:28.9328065+00:00"
 }

@@ -29,7 +29,7 @@ Rating: 4.88 (Ranked 17)
 | A Link to the Past | 12.00% | ~168 |
 | A great audience | 10.00% | ~140 |
 | For its own good | 10.00% | ~140 |
-| Fashion victim | 5.00% | ~70 |
+| Fashion victim | 6.00% | ~84 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,404 (Ranked 252)  
 Completed: 74 (5.27%) (Ranked 75)  

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 99,
-  "Ranking_EOS_Completed": 167,
+  "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
@@ -123,7 +123,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 81042,
+  "EOS_Progressed": 81044,
   "EOS_Completed": 888,
   "EOS_NewPlayers": 600,
   "EOS_NewCompleters": 14,
@@ -27233,6 +27233,11 @@
       "Time": "2023-12-19T20:06:58.5245426+00:00",
       "NumProgressed": 81042,
       "NumCompleted": 888
+    },
+    {
+      "Time": "2023-12-19T21:07:35.4917823+00:00",
+      "NumProgressed": 81044,
+      "NumCompleted": 888
     }
   ],
   "TotalAchievements": 25,
@@ -27276,7 +27281,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 17829
+      "UsersEstimate": 17830
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -27316,7 +27321,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 16208
+      "UsersEstimate": 16209
     },
     {
       "ID": "Hearty",
@@ -27436,14 +27441,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6483
+      "UsersEstimate": 6484
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 81042,
+      "Progressed": 81044,
       "Completed": 888
     }
   ],
@@ -27451,8 +27456,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-11-28T02:22:55.8136009+00:00",
-  "LastChanged_Achievements": "2023-12-19T20:06:58.5245422+00:00",
+  "LastChanged_Achievements": "2023-12-19T21:07:35.4917819+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:36.6719063+00:00",
-  "LastUpdate_Ratings": "2023-12-19T20:00:55.8854393+00:00",
-  "LastUpdate_Achievements": "2023-12-19T20:06:58.5247207+00:00"
+  "LastUpdate_Ratings": "2023-12-19T21:01:00.9694116+00:00",
+  "LastUpdate_Achievements": "2023-12-19T21:07:35.4919343+00:00"
 }

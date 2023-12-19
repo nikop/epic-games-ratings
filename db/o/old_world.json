@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2166,9 +2166,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15839,
+  "EOS_Progressed": 15840,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17961,6 +17961,11 @@
       "Time": "2023-12-19T20:10:18.5176511+00:00",
       "NumProgressed": 15839,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-19T21:10:32.0661573+00:00",
+      "NumProgressed": 15840,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -18098,9 +18103,9 @@
       "ID": "ACHIEVEMENT_BEFORE_MONGOL_HORDE",
       "SetID": "9201eeb",
       "Name": "Before the Mongol Horde",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_BLADE_OF_THE_MONKEY",
@@ -18154,9 +18159,9 @@
       "ID": "ACHIEVEMENT_CARTHAGE_1_SILVER",
       "SetID": "9201eeb",
       "Name": "Silver Victory (Carthage 1)",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_2",
@@ -18314,9 +18319,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_ANCIENT",
       "SetID": "9201eeb",
       "Name": "Ancient",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_ARCHITECT",
@@ -18626,9 +18631,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_VICTORIOUS",
       "SetID": "9201eeb",
       "Name": "Victorious",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_WARRIOR",
@@ -20835,21 +20840,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15839,
+      "Progressed": 15840,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15839,
+      "Progressed": 15840,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-19T18:02:53.2051748+00:00",
-  "LastChanged_Achievements": "2023-12-19T20:10:18.5176508+00:00",
+  "LastChanged_Achievements": "2023-12-19T21:10:32.0661568+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:47.4773202+00:00",
-  "LastUpdate_Ratings": "2023-12-19T20:03:18.7473108+00:00",
-  "LastUpdate_Achievements": "2023-12-19T20:10:18.5186762+00:00"
+  "LastUpdate_Ratings": "2023-12-19T21:03:47.1120222+00:00",
+  "LastUpdate_Achievements": "2023-12-19T21:10:32.0671685+00:00"
 }

@@ -6,15 +6,15 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,949 |
-| keep it tidy | 78.00% | ~8,084 |
-| podium | 72.00% | ~7,462 |
-| medium attack | 60.00% | ~6,218 |
-| brail | 57.00% | ~5,907 |
-| good drivers have dead flies on the side windows | 44.00% | ~4,560 |
+| light attack | 96.00% | ~9,950 |
+| keep it tidy | 78.00% | ~8,085 |
+| podium | 72.00% | ~7,463 |
+| medium attack | 60.00% | ~6,219 |
+| brail | 57.00% | ~5,908 |
+| good drivers have dead flies on the side windows | 44.00% | ~4,561 |
 | grocery-getter | 40.00% | ~4,146 |
-| rwd only | 27.00% | ~2,798 |
-| food tour: pasta | 27.00% | ~2,798 |
+| rwd only | 27.00% | ~2,799 |
+| food tour: pasta | 27.00% | ~2,799 |
 | to finish first, first you must finish | 22.00% | ~2,280 |
 | autopilot | 22.00% | ~2,280 |
 | you can't treat a car like a human being. a car requires love | 22.00% | ~2,280 |
@@ -33,10 +33,10 @@ Number of Ratings: 56  (23.09.2022)
 | parallel universe | 10.00% | ~1,036 |
 | mittens | 8.00% | ~829 |
 | samir | 8.00% | ~829 |
-| eurobeat | 7.00% | ~725 |
-| viking | 7.00% | ~725 |
-| master of rally | 7.00% | ~725 |
-| antilag | 7.00% | ~725 |
+| eurobeat | 7.00% | ~726 |
+| viking | 7.00% | ~726 |
+| master of rally | 7.00% | ~726 |
+| antilag | 7.00% | ~726 |
 | parking lot | 6.00% | ~622 |
 | oktoberfest | 6.00% | ~622 |
 | in like a lamb, out like a lion | 6.00% | ~622 |
@@ -50,8 +50,8 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~41 |
 | barely keeping it together | 0.40% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,364 (Ranked 170)  
-Completed: 10 (0.10%) (Ranked 300)  
+Progressed: 10,365 (Ranked 170)  
+Completed: 10 (0.10%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -223,7 +223,7 @@ Completed: 10 (0.10%) (Ranked 300)
 | 2023-12-16 | 10,355 | 10 |
 | 2023-12-17 | 10,359 | 10 |
 | 2023-12-18 | 10,363 | 10 |
-| 2023-12-19 | 10,364 | 10 |
+| 2023-12-19 | 10,365 | 10 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

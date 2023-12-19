@@ -3,9 +3,9 @@
   "Name": "First Jam",
   "ProductSlug": "first-jam-b123fc",
   "Ranking_EOS_Progress": 810,
-  "Ranking_EOS_Completed": 383,
+  "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 557,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2023-08-15T09:00:00+00:00",
@@ -32,7 +32,7 @@
   "TotalAchievementsXP": 0,
   "Achievements": [],
   "AchievementSets": [],
-  "LastUpdate_AppInfo": "2023-12-12T20:56:55.0520255+00:00",
-  "LastUpdate_Ratings": "2023-12-19T19:58:04.7430034+00:00",
-  "LastUpdate_Achievements": "2023-12-19T20:09:22.3810396+00:00"
+  "LastUpdate_AppInfo": "2023-12-19T20:57:13.2829327+00:00",
+  "LastUpdate_Ratings": "2023-12-19T20:58:10.655579+00:00",
+  "LastUpdate_Achievements": "2023-12-19T21:09:33.8923828+00:00"
 }

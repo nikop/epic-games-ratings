@@ -5,8 +5,8 @@ Rating: 4.50 (Ranked 602)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Rookie No More | 28.00% | ~332 |
 | Increasing your Power Level | 28.00% | ~332 |
-| Rookie No More | 27.00% | ~320 |
 | Enter the Speed Gauntlet | 25.00% | ~296 |
 | I just can't choose | 25.00% | ~296 |
 | A Cheese Grater to the Face | 20.00% | ~237 |
@@ -15,8 +15,8 @@ Rating: 4.50 (Ranked 602)
 | Ride in the rising sun | 16.00% | ~189 |
 | Suit up | 16.00% | ~189 |
 | Walked like an Egyptian | 15.00% | ~178 |
+| Running at the speed of sound | 14.00% | ~166 |
 | Rookie No-No More | 13.00% | ~154 |
-| Running at the speed of sound | 13.00% | ~154 |
 | Martian explorer | 11.00% | ~130 |
 | To the core | 8.00% | ~95 |
 | Blurred photofinish | 8.00% | ~95 |
@@ -59,7 +59,7 @@ Rating: 4.50 (Ranked 602)
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,184 (Ranked 266)  
-Completed: 0 (0.00%) (Ranked 383)  
+Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

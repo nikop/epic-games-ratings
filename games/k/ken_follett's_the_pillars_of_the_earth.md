@@ -7,22 +7,22 @@ Number of Ratings: 368  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tattletale | 40.00% | ~6,876 |
-| Man of politics | 34.00% | ~5,844 |
-| Friends of sorts | 33.00% | ~5,672 |
-| Yet another secret | 33.00% | ~5,672 |
+| Man of politics | 34.00% | ~5,845 |
+| Friends of sorts | 33.00% | ~5,673 |
+| Yet another secret | 33.00% | ~5,673 |
 | Let there be darkness | 31.00% | ~5,329 |
 | End of Book One | 29.00% | ~4,985 |
-| Garden of Eden | 24.00% | ~4,125 |
-| Wannabe knight | 23.00% | ~3,953 |
-| Full house | 23.00% | ~3,953 |
+| Garden of Eden | 24.00% | ~4,126 |
+| Wannabe knight | 23.00% | ~3,954 |
+| Full house | 23.00% | ~3,954 |
 | Help an old friend | 21.00% | ~3,610 |
 | Two of us | 20.00% | ~3,438 |
 | Negotiation skills | 18.00% | ~3,094 |
 | Workers' union | 18.00% | ~3,094 |
 | End of Book Two | 18.00% | ~3,094 |
 | Everything's in order | 16.00% | ~2,750 |
-| Twist of Fate | 14.00% | ~2,406 |
-| Jack was here! | 14.00% | ~2,406 |
+| Twist of Fate | 14.00% | ~2,407 |
+| Jack was here! | 14.00% | ~2,407 |
 | Exterminator | 13.00% | ~2,235 |
 | Whodunnit | 12.00% | ~2,063 |
 | Good midwife | 10.00% | ~1,719 |
@@ -38,9 +38,9 @@ Number of Ratings: 368  (23.09.2022)
 | A cry for help | 7.00% | ~1,203 |
 | Silentium est aureum | 7.00% | ~1,203 |
 | Rebel without a cause | 6.00% | ~1,031 |
-| Staring contest champion | 5.00% | ~859 |
-| Lone wolf | 5.00% | ~859 |
-| Vox Populi | 5.00% | ~859 |
+| Staring contest champion | 5.00% | ~860 |
+| Lone wolf | 5.00% | ~860 |
+| Vox Populi | 5.00% | ~860 |
 | Revenge | 4.00% | ~688 |
 | Countess Aliena | 4.00% | ~688 |
 | Care, like a brother cares | 3.00% | ~516 |
@@ -48,8 +48,8 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~516 |
 | Boy of mystery | 2.00% | ~344 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,189 (Ranked 151)  
-Completed: 119 (0.69%) (Ranked 193)  
+Progressed: 17,190 (Ranked 151)  
+Completed: 119 (0.69%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -291,7 +291,7 @@ Completed: 119 (0.69%) (Ranked 193)
 | 2023-12-16 | 17,109 | 119 |
 | 2023-12-17 | 17,152 | 119 |
 | 2023-12-18 | 17,173 | 119 |
-| 2023-12-19 | 17,189 | 119 |
+| 2023-12-19 | 17,190 | 119 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 320)  
 Sum: 200 (Ranked 410)  

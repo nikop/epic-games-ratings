@@ -3,7 +3,7 @@
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 939,
-  "Ranking_Popularity": 388,
+  "Ranking_Popularity": 387,
   "Ranking_PopularitySum": 326,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 222,
@@ -1653,11 +1653,17 @@
       "Rating": 4.19,
       "NumberOfAwards": 525,
       "NumberOfAwardsMax": 88
+    },
+    {
+      "Time": "2023-12-19T21:04:08.3149071+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 526,
+      "NumberOfAwardsMax": 89
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 525,
-  "NumberOfAwardsMax": 88,
+  "NumberOfAwards": 526,
+  "NumberOfAwardsMax": 89,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
@@ -1676,7 +1682,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 88
+      "Count": 89
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1703,9 +1709,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 18112,
+  "EOS_Progressed": 18120,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1582,
+  "EOS_NewPlayers": 1590,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -10328,6 +10334,11 @@
       "Time": "2023-12-19T20:09:53.0980584+00:00",
       "NumProgressed": 18112,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-19T21:10:05.9446831+00:00",
+      "NumProgressed": 18120,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -10371,7 +10382,7 @@
       "Name": "Flesh Wound",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 2536
+      "UsersEstimate": 2537
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -10443,7 +10454,7 @@
       "Name": "Get a Grip",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2355
+      "UsersEstimate": 2356
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -10451,7 +10462,7 @@
       "Name": "In Striking Distance",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "KILL_2HEAD",
@@ -10467,7 +10478,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1811
+      "UsersEstimate": 1812
     },
     {
       "ID": "KILL_ROBOT",
@@ -10483,7 +10494,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1450
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -10491,7 +10502,7 @@
       "Name": "The Commonality",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -10499,7 +10510,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1811
+      "UsersEstimate": 1812
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -10507,7 +10518,7 @@
       "Name": "Reforged",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1811
+      "UsersEstimate": 1812
     },
     {
       "ID": "PRINT_WEAPON",
@@ -10515,7 +10526,7 @@
       "Name": "Paper Jams",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2355
+      "UsersEstimate": 2356
     },
     {
       "ID": "SHARE_PHOTO",
@@ -10531,7 +10542,7 @@
       "Name": "The Outer Way",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2355
+      "UsersEstimate": 2356
     },
     {
       "ID": "STORY_ESCAPE",
@@ -10539,7 +10550,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1450
     },
     {
       "ID": "STORY_HABITAT",
@@ -10571,7 +10582,7 @@
       "Name": "Desperate Times",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2173
+      "UsersEstimate": 2174
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -10691,7 +10702,7 @@
       "Name": "Keep Fighting",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -10714,22 +10725,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 18112,
+      "Progressed": 18120,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 6038,
+      "Progressed": 6046,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-12-19T17:03:06.380702+00:00",
-  "LastChanged_Achievements": "2023-12-19T20:09:53.0980581+00:00",
+  "LastChanged": "2023-12-19T21:04:08.3149069+00:00",
+  "LastChanged_Achievements": "2023-12-19T21:10:05.9446827+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.4893565+00:00",
-  "LastUpdate_Ratings": "2023-12-19T20:03:37.8277972+00:00",
-  "LastUpdate_Achievements": "2023-12-19T20:09:53.0981157+00:00"
+  "LastUpdate_Ratings": "2023-12-19T21:04:08.3149074+00:00",
+  "LastUpdate_Achievements": "2023-12-19T21:10:05.9447394+00:00"
 }

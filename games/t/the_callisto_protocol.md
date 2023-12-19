@@ -5,16 +5,16 @@ Rating: 4.19 (Ranked 939)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 14.00% | ~2,536 |
-| Get a Grip | 13.00% | ~2,355 |
-| Paper Jams | 13.00% | ~2,355 |
-| The Outer Way | 13.00% | ~2,355 |
-| Desperate Times | 12.00% | ~2,173 |
-| Chew 'Em Up | 10.00% | ~1,811 |
-| Float Like A Butterfly | 10.00% | ~1,811 |
-| Reforged | 10.00% | ~1,811 |
-| Workplace Hazard | 8.00% | ~1,449 |
-| If the SHU Fits... | 8.00% | ~1,449 |
+| Flesh Wound | 14.00% | ~2,537 |
+| Get a Grip | 13.00% | ~2,356 |
+| Paper Jams | 13.00% | ~2,356 |
+| The Outer Way | 13.00% | ~2,356 |
+| Desperate Times | 12.00% | ~2,174 |
+| Chew 'Em Up | 10.00% | ~1,812 |
+| Float Like A Butterfly | 10.00% | ~1,812 |
+| Reforged | 10.00% | ~1,812 |
+| Workplace Hazard | 8.00% | ~1,450 |
+| If the SHU Fits... | 8.00% | ~1,450 |
 | Two Heads Are Better Than One | 7.00% | ~1,268 |
 | Without A Paddle | 7.00% | ~1,268 |
 | In the Pipe, Five by Five | 7.00% | ~1,268 |
@@ -23,13 +23,13 @@ Rating: 4.19 (Ranked 939)
 | What Lies Beneath | 6.00% | ~1,087 |
 | Full Circle | 6.00% | ~1,087 |
 | Power Up | 6.00% | ~1,087 |
-| Keep Fighting | 6.00% | ~362 |
+| Keep Fighting | 6.00% | ~363 |
 | Giving Back | 5.00% | ~906 |
 | You Need a Gun | 5.00% | ~906 |
 | I Do Belong Here | 5.00% | ~906 |
 | It's Time | 4.00% | ~242 |
-| In Striking Distance | 3.00% | ~543 |
-| The Commonality | 3.00% | ~543 |
+| In Striking Distance | 3.00% | ~544 |
+| The Commonality | 3.00% | ~544 |
 | One Last Job | 2.00% | ~121 |
 | Big Spender | 1.00% | ~60 |
 | This Isn't About Escape | 1.00% | ~60 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 939)
 | Bear Trap | 0.10% | ~6 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,112 (Ranked 149)  
+Progressed: 18,120 (Ranked 149)  
 Completed: 82 (0.45%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,14 +288,14 @@ Completed: 82 (0.45%) (Ranked 222)
 | 2023-12-16 | 17,442 | 82 |
 | 2023-12-17 | 17,760 | 82 |
 | 2023-12-18 | 17,946 | 82 |
-| 2023-12-19 | 18,112 | 82 |
+| 2023-12-19 | 18,120 | 82 |
 ## Awards
-Max (Quickly Understood Controls): 88  (Ranked 388)  
-Sum: 525 (Ranked 326)  
-Diff (max vs sum): 62  
+Max (Quickly Understood Controls): 89  (Ranked 387)  
+Sum: 526 (Ranked 326)  
+Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 88 |
+| This game has Quickly Understood Controls | 89 |
 | This game has Amazing Storytelling | 88 |
 | This game is Highly Recommended | 86 |
 | This game has Amazing Characters | 84 |
@@ -480,4 +480,4 @@ Diff (max vs sum): 62
 | 2023-12-16 | 4.20 | 85 | 512 |
 | 2023-12-17 | 4.20 | 87 | 516 |
 | 2023-12-18 | 4.19 | 88 | 521 |
-| 2023-12-19 | 4.19 | 88 | 525 |
+| 2023-12-19 | 4.19 | 89 | 526 |

@@ -3,9 +3,9 @@
   "Name": "Pinball M",
   "ProductSlug": "pinball-m-755276",
   "Ranking_EOS_Progress": 229,
-  "Ranking_EOS_Completed": 383,
+  "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
     "PcReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2289,
+  "EOS_Progressed": 2290,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 540,
+  "EOS_NewPlayers": 535,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2174,6 +2174,11 @@
       "Time": "2023-12-19T20:09:01.0107686+00:00",
       "NumProgressed": 2289,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T21:09:11.527105+00:00",
+      "NumProgressed": 2290,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -2210,7 +2215,7 @@
       "Name": "Highest Among the Highest",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -2290,7 +2295,7 @@
       "Name": "Worthy Badge",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -2561,14 +2566,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 2289,
+      "Progressed": 2290,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-19T20:09:01.0107683+00:00",
+  "LastChanged_Achievements": "2023-12-19T21:09:11.5271047+00:00",
   "LastUpdate_AppInfo": "2023-12-19T11:57:06.3691956+00:00",
-  "LastUpdate_Ratings": "2023-12-19T20:01:53.7446511+00:00",
-  "LastUpdate_Achievements": "2023-12-19T20:09:01.0108065+00:00"
+  "LastUpdate_Ratings": "2023-12-19T21:02:50.8809581+00:00",
+  "LastUpdate_Achievements": "2023-12-19T21:09:11.5271397+00:00"
 }

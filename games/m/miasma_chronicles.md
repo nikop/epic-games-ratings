@@ -31,8 +31,8 @@ Rating: 4.37 (Ranked 779)
 | Pushing Daisy | 33.00% | ~534 |
 | Endgame | 28.00% | ~453 |
 | Savior | 28.00% | ~453 |
+| Silent but Violent | 27.00% | ~437 |
 | There Can Be Only One! | 27.00% | ~437 |
-| Silent but Violent | 26.00% | ~421 |
 | Chain Killer | 23.00% | ~372 |
 | The Watchers | 22.00% | ~356 |
 | Commando | 17.00% | ~275 |
@@ -58,7 +58,7 @@ Rating: 4.37 (Ranked 779)
 | QA Has Suffered! (Redux) | 0.80% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,619 (Ranked 245)  
-Completed: 0 (0.00%) (Ranked 383)  
+Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

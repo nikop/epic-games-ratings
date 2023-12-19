@@ -3,12 +3,12 @@
   "Name": "KINGDOM HEARTS HD 1.5\u002B2.5 ReMIX",
   "ProductSlug": "kingdom-hearts-hd-1-5-2-5-remix",
   "Ranking_Rating": 70,
-  "Ranking_Popularity": 159,
+  "Ranking_Popularity": 160,
   "Ranking_PopularitySum": 115,
   "Ranking_EOS_Progress": 810,
-  "Ranking_EOS_Completed": 383,
+  "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 557,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-03-30T13:00:00+00:00",
     "PcReleaseDate": "2021-03-30T13:00:00+00:00",
@@ -9675,10 +9675,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 7440,
       "NumberOfAwardsMax": 974
+    },
+    {
+      "Time": "2023-12-19T20:58:54.0945925+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 7451,
+      "NumberOfAwardsMax": 974
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7440,
+  "NumberOfAwards": 7451,
   "NumberOfAwardsMax": 974,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9692,7 +9698,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 928
+      "Count": 932
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9734,7 +9740,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 952
+      "Count": 959
     },
     {
       "Text": "This game is Highly Recommended",
@@ -9766,8 +9772,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:56.8065488+00:00",
-  "LastChanged": "2023-12-19T18:57:59.6621805+00:00",
+  "LastChanged": "2023-12-19T20:58:54.0945923+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.6114009+00:00",
-  "LastUpdate_Ratings": "2023-12-19T19:58:47.3470935+00:00",
-  "LastUpdate_Achievements": "2023-12-19T20:05:16.8475936+00:00"
+  "LastUpdate_Ratings": "2023-12-19T20:58:54.0945929+00:00",
+  "LastUpdate_Achievements": "2023-12-19T21:05:49.5729701+00:00"
 }
