@@ -7,7 +7,7 @@
 | Under the Bridge | 90.00% | ~114 |
 | Treasure Hunter | 9.00% | ~11 |
 | Budget Killer | 6.00% | ~8 |
-| Space Invader | 5.00% | ~6 |
+| Space Invader | 6.00% | ~8 |
 | Extra Life | 4.00% | ~5 |
 | One Man Army | 4.00% | ~5 |
 | In the Can | 3.00% | ~4 |

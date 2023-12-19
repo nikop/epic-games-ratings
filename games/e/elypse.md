@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A path of no return | 97.00% | ~107 |
-| A bottomless pit | 82.00% | ~90 |
-| Pigeon | 78.00% | ~86 |
-| Baited | 67.00% | ~74 |
-| "Swoosh" | 59.00% | ~65 |
-| The light at the end of the tunnel | 58.00% | ~64 |
+| A path of no return | 98.00% | ~108 |
+| A bottomless pit | 83.00% | ~91 |
+| Pigeon | 79.00% | ~87 |
+| Baited | 68.00% | ~75 |
+| "Swoosh" | 60.00% | ~66 |
+| The light at the end of the tunnel | 59.00% | ~65 |
 | Masochistic | 53.00% | ~58 |
 | Splash! | 51.00% | ~56 |
 | Soft skin | 50.00% | ~55 |
@@ -17,7 +17,7 @@
 | Rock Solid | 35.00% | ~38 |
 | The beast within | 34.00% | ~37 |
 | It's getting dark | 34.00% | ~37 |
-| Sensitive soul | 33.00% | ~36 |
+| Sensitive soul | 34.00% | ~37 |
 | Hard Rock | 31.00% | ~34 |
 | Rooftop | 30.00% | ~33 |
 | Homeless | 28.00% | ~31 |

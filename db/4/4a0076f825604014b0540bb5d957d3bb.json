@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 480,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 374,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2019-12-04T00:00:00+00:00",
@@ -517,9 +517,9 @@
       "ID": "CgkInO_K3eIdEAIQCw",
       "SetID": "6bj96in",
       "Name": "MASTER CRAFTSMAN",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 40,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "CgkInO_K3eIdEAIQDA",
@@ -652,8 +652,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-12-19T15:09:53.4227472+00:00",
+  "LastChanged_Achievements": "2023-12-19T16:10:18.2916975+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:14.9435383+00:00",
-  "LastUpdate_Ratings": "2023-12-19T15:00:47.564363+00:00",
-  "LastUpdate_Achievements": "2023-12-19T15:09:53.422767+00:00"
+  "LastUpdate_Ratings": "2023-12-19T16:01:29.7092146+00:00",
+  "LastUpdate_Achievements": "2023-12-19T16:10:18.2917413+00:00"
 }

@@ -6,10 +6,10 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 8.00% | ~271 |
+| Malpractice Assurance | 8.00% | ~273 |
 | Lost and Found | 5.00% | ~170 |
-| This Belongs in a Museum | 4.00% | ~5,141 |
-| Autodidact | 4.00% | ~5,141 |
+| This Belongs in a Museum | 4.00% | ~5,142 |
+| Autodidact | 4.00% | ~5,142 |
 | This guy... again? | 4.00% | ~136 |
 | Bloody Graduation | 4.00% | ~136 |
 | Not Today! | 3.00% | ~3,856 |
@@ -19,19 +19,20 @@ Number of Ratings: 7,767  (23.09.2022)
 | Overdue Notice | 3.00% | ~3,856 |
 | Escape from the Black Hole | 3.00% | ~3,856 |
 | Ploughshares to Swords | 3.00% | ~102 |
-| Don't Make Me Turn This Coach Around | 2.00% | ~2,570 |
-| Serenity Now! | 2.00% | ~2,570 |
-| It Rings a Bell | 2.00% | ~2,570 |
-| Dissector | 2.00% | ~2,570 |
-| It Happens | 2.00% | ~2,570 |
-| Rush Hour | 2.00% | ~2,570 |
-| Merry Time | 2.00% | ~2,570 |
-| Harvest Festival | 2.00% | ~2,570 |
-| To Grandmother's House | 2.00% | ~2,570 |
-| Whale | 2.00% | ~2,570 |
-| A Place to Lay Your Head | 2.00% | ~2,570 |
-| FNG | 2.00% | ~2,570 |
-| Nope | 2.00% | ~2,570 |
+| Don't Make Me Turn This Coach Around | 2.00% | ~2,571 |
+| Serenity Now! | 2.00% | ~2,571 |
+| It Rings a Bell | 2.00% | ~2,571 |
+| Dissector | 2.00% | ~2,571 |
+| It Happens | 2.00% | ~2,571 |
+| Spelunker | 2.00% | ~2,571 |
+| Rush Hour | 2.00% | ~2,571 |
+| Merry Time | 2.00% | ~2,571 |
+| Harvest Festival | 2.00% | ~2,571 |
+| To Grandmother's House | 2.00% | ~2,571 |
+| Whale | 2.00% | ~2,571 |
+| A Place to Lay Your Head | 2.00% | ~2,571 |
+| FNG | 2.00% | ~2,571 |
+| Nope | 2.00% | ~2,571 |
 | Friends 'Til the End | 2.00% | ~68 |
 | Resurrection | 1.00% | ~1,285 |
 | Unleash Hell | 1.00% | ~1,285 |
@@ -46,7 +47,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Deprogramming | 1.00% | ~1,285 |
 | Now Stay Dead | 1.00% | ~1,285 |
 | Reverse Banditry | 1.00% | ~1,285 |
-| Spelunker | 1.00% | ~1,285 |
 | Ramble On | 1.00% | ~1,285 |
 | A Clear Conscience | 1.00% | ~1,285 |
 | When You Want Something Done Right | 1.00% | ~1,285 |
@@ -56,10 +56,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | Road Trip | 1.00% | ~1,285 |
 | Ichthyophobic | 0.90% | ~1,157 |
 | No More Mouths to Feed | 0.90% | ~1,157 |
+| This Looks Familiar | 0.80% | ~1,028 |
 | Hot Air | 0.80% | ~1,028 |
 | Eyes Up | 0.80% | ~1,028 |
 | Slap on the Wrist | 0.80% | ~27 |
-| This Looks Familiar | 0.70% | ~900 |
 | For Old Time' Sake | 0.70% | ~24 |
 | Handled | 0.60% | ~771 |
 | Shrine of Reflection | 0.50% | ~643 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,522 (Ranked 85)  
+Progressed: 128,539 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 3 (0.00%) (Ranked 383)
 | 2023-12-16 | 127,826 | 3 |
 | 2023-12-17 | 128,143 | 3 |
 | 2023-12-18 | 128,398 | 3 |
-| 2023-12-19 | 128,522 | 3 |
+| 2023-12-19 | 128,539 | 3 |
 ## Awards
 Max (Character Customization): 7,795  (Ranked 50)  
 Sum: 20,792 (Ranked 58)  

@@ -9,9 +9,14 @@ Rating: 4.56 (Ranked 498)
 | Collect Gold | 0.10% | ~2 |
 | Collect Iron Ore | 0.10% | ~2 |
 | Collect Monster Parts | 0.10% | ~2 |
+| Return the Statues | 0.10% | ~2 |
+| Complete Redgi's Armory | 0.10% | ~2 |
+| Complete the Chefs Book | 0.10% | ~2 |
 | Complete Elder Faction | 0.10% | ~2 |
 | Complete Guard Faction | 0.10% | ~2 |
 | End of the Mozis | 0.10% | ~2 |
+| Defeat Ratnor Rodentson | 0.10% | ~2 |
+| Defeat Rattus Augustail | 0.10% | ~2 |
 | Ranged Weapon | 0.10% | ~2 |
 | Two Handed Weapon | 0.10% | ~2 |
 | Defeat 25 Grubs | 0.10% | ~2 |
@@ -29,16 +34,11 @@ Rating: 4.56 (Ranked 498)
 | Shield Maiden Yellow Tongue | 0.10% | ~1 |
 | I Remember My First Beer | 0.10% | ~1 |
 | The Bright Fir | 0.10% | ~1 |
-| Return the Statues | 0.00% | ~0 |
-| Complete Redgi's Armory | 0.00% | ~0 |
 | King of Kings | 0.00% | ~0 |
 | Complete Arena Faction | 0.00% | ~0 |
-| Complete the Chefs Book | 0.00% | ~0 |
 | Complete Ranger Faction | 0.00% | ~0 |
 | A new Warchief rises | 0.00% | ~0 |
 | Defeat Avor Warden of the Northern Wastes | 0.00% | ~0 |
-| Defeat Ratnor Rodentson | 0.00% | ~0 |
-| Defeat Rattus Augustail | 0.00% | ~0 |
 | Fix the Travellers Wagon | 0.00% | ~0 |
 | Discover the mystery of the Kings Chambers | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

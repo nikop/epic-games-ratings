@@ -12,8 +12,8 @@
 | The Alliance | 33.00% | ~262 |
 | The Condor | 32.00% | ~254 |
 | The End | 32.00% | ~254 |
+| Krauta is alive | 26.00% | ~206 |
 | The Necroevolution | 26.00% | ~206 |
-| Krauta is alive | 25.00% | ~198 |
 | Peacemaker | 21.00% | ~167 |
 | Volcanologist | 20.00% | ~159 |
 | On her own | 18.00% | ~143 |

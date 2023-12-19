@@ -1,36 +1,36 @@
 # Zombie Army 4: Dead War
 [Store](https://store.epicgames.com/en-US/p/zombie-army-4-dead-war)  
 [View Rawdata](../../db/z/zombie_army_4__dead_war.json)  
-Rating: 4.69 (Ranked 233)  
+Rating: 4.69 (Ranked 232)  
 Number of Ratings: 743  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 69.00% | ~30,477 |
-| Say goodbye, creep! | 66.00% | ~29,152 |
-| Blood splattered | 66.00% | ~29,152 |
-| Choo choo! | 63.00% | ~27,827 |
-| Groovy | 62.00% | ~27,385 |
+| Shoot it, man! Shoot it in the head! | 69.00% | ~30,478 |
+| Say goodbye, creep! | 66.00% | ~29,153 |
+| Blood splattered | 66.00% | ~29,153 |
+| Choo choo! | 63.00% | ~27,828 |
+| Groovy | 62.00% | ~27,386 |
 | Cleanup on aisle 4! | 57.00% | ~25,177 |
 | Gold | 51.00% | ~22,527 |
-| The boat can leave now...tell the crew | 49.00% | ~21,643 |
+| The boat can leave now...tell the crew | 49.00% | ~21,644 |
 | Give me something to shoot! | 47.00% | ~20,760 |
 | Stand back boy! | 47.00% | ~20,760 |
-| Chain reaction | 45.00% | ~19,876 |
+| Chain reaction | 45.00% | ~19,877 |
 | Weird science | 44.00% | ~19,435 |
-| What did you say, Blain? | 42.00% | ~18,551 |
+| What did you say, Blain? | 42.00% | ~18,552 |
 | Look mummy! A shark! | 41.00% | ~18,110 |
-| In the dark dark woods... | 39.00% | ~17,226 |
+| In the dark dark woods... | 39.00% | ~17,227 |
 | Come and get it! It's a running buffet! | 38.00% | ~16,785 |
 | Double tap | 37.00% | ~16,343 |
 | Cranial blowout! | 37.00% | ~16,343 |
-| All of this has happened before… | 36.00% | ~15,901 |
-| Zombie killin' machine | 36.00% | ~15,901 |
-| Every bullet counts | 36.00% | ~15,901 |
+| All of this has happened before… | 36.00% | ~15,902 |
+| Zombie killin' machine | 36.00% | ~15,902 |
+| Every bullet counts | 36.00% | ~15,902 |
 | All roads lead to Rome | 34.00% | ~15,018 |
 | You've got red on you | 34.00% | ~15,018 |
-| You're all going to die down here | 32.00% | ~14,134 |
-| He did Nazi that coming | 32.00% | ~14,134 |
+| You're all going to die down here | 32.00% | ~14,135 |
+| He did Nazi that coming | 32.00% | ~14,135 |
 | Kill of the week | 31.00% | ~13,693 |
 | I never liked them anyway | 31.00% | ~13,693 |
 | Is it over? | 28.00% | ~12,368 |
@@ -45,7 +45,7 @@ Number of Ratings: 743  (23.09.2022)
 | The bigger they are... | 15.00% | ~6,626 |
 | I'm going deeper underground | 14.00% | ~6,184 |
 | Well equipped | 13.00% | ~5,742 |
-| Into the deep | 12.00% | ~5,300 |
+| Into the deep | 12.00% | ~5,301 |
 | Damnedbusters | 9.00% | ~3,975 |
 | Plane sailing | 8.00% | ~3,534 |
 | I can do anything I want. I got guns | 8.00% | ~3,534 |
@@ -61,8 +61,8 @@ Number of Ratings: 743  (23.09.2022)
 | Staring at Shadows | 6.00% | ~2,650 |
 | I told you we should have gone to the beach | 6.00% | ~2,650 |
 | Hoarder | 6.00% | ~2,650 |
-| Kali Ma | 5.00% | ~2,208 |
-| Have you tried turning it off and on again? | 5.00% | ~2,208 |
+| Kali Ma | 5.00% | ~2,209 |
+| Have you tried turning it off and on again? | 5.00% | ~2,209 |
 | They're coming to get you Barbara | 4.00% | ~1,767 |
 | Total protonic reversal | 4.00% | ~1,767 |
 | A friend in need | 4.00% | ~1,767 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~442 |
 | None more hard | 0.60% | ~265 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,170 (Ranked 121)  
+Progressed: 44,171 (Ranked 121)  
 Completed: 25 (0.06%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 25 (0.06%) (Ranked 324)
 | 2023-12-16 | 44,155 | 25 |
 | 2023-12-17 | 44,165 | 25 |
 | 2023-12-18 | 44,167 | 25 |
-| 2023-12-19 | 44,170 | 25 |
+| 2023-12-19 | 44,171 | 25 |
 ## Awards
 Max (Great Boss Battles): 858  (Ranked 171)  
 Sum: 2,596 (Ranked 195)  

@@ -9918,9 +9918,9 @@
       "Count": 1031
     }
   ],
-  "EOS_Progressed": 128522,
+  "EOS_Progressed": 128539,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2141,
+  "EOS_NewPlayers": 2145,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35818,6 +35818,11 @@
       "Time": "2023-12-19T15:09:18.3920947+00:00",
       "NumProgressed": 128522,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-19T16:09:35.4590612+00:00",
+      "NumProgressed": 128539,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35829,7 +35834,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2570
+      "UsersEstimate": 2571
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -35837,7 +35842,7 @@
       "Name": "Serenity Now!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2570
+      "UsersEstimate": 2571
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -35845,7 +35850,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2570
+      "UsersEstimate": 2571
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -35923,9 +35928,9 @@
       "ID": "altar_of_hope_upgrade_total_half",
       "SetID": "64l4lke",
       "Name": "This Looks Familiar",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 900
+      "UsersEstimate": 1028
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -35957,7 +35962,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5141
+      "UsersEstimate": 5142
     },
     {
       "ID": "combat_kill_cadavers",
@@ -35965,7 +35970,7 @@
       "Name": "Dissector",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2570
+      "UsersEstimate": 2571
     },
     {
       "ID": "combat_kill_cosmic",
@@ -36101,7 +36106,7 @@
       "Name": "It Happens",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2570
+      "UsersEstimate": 2571
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -36115,9 +36120,9 @@
       "ID": "driving_biome_clear_cave",
       "SetID": "64l4lke",
       "Name": "Spelunker",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1285
+      "UsersEstimate": 2571
     },
     {
       "ID": "driving_biome_clear_city",
@@ -36125,7 +36130,7 @@
       "Name": "Rush Hour",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2570
+      "UsersEstimate": 2571
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -36133,7 +36138,7 @@
       "Name": "Merry Time",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2570
+      "UsersEstimate": 2571
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -36141,7 +36146,7 @@
       "Name": "Harvest Festival",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2570
+      "UsersEstimate": 2571
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -36149,7 +36154,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2570
+      "UsersEstimate": 2571
     },
     {
       "ID": "driving_distance_easy",
@@ -36181,7 +36186,7 @@
       "Name": "Autodidact",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5141
+      "UsersEstimate": 5142
     },
     {
       "ID": "hero_story_complete_all",
@@ -36205,7 +36210,7 @@
       "Name": "Whale",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2570
+      "UsersEstimate": 2571
     },
     {
       "ID": "hospital_full_service",
@@ -36221,7 +36226,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2570
+      "UsersEstimate": 2571
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -36237,7 +36242,7 @@
       "Name": "FNG",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2570
+      "UsersEstimate": 2571
     },
     {
       "ID": "inn_visit_all_variants",
@@ -36277,7 +36282,7 @@
       "Name": "Nope",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2570
+      "UsersEstimate": 2571
     },
     {
       "ID": "run_victory_act01",
@@ -36365,7 +36370,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 271
+      "UsersEstimate": 273
     },
     {
       "ID": "combat_kill_collector",
@@ -36460,21 +36465,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 128522,
+      "Progressed": 128539,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 3391,
+      "Progressed": 3408,
       "Completed": 802
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-19T13:58:45.7072148+00:00",
-  "LastChanged_Achievements": "2023-12-19T15:09:18.3920939+00:00",
+  "LastChanged_Achievements": "2023-12-19T16:09:35.4590608+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-19T14:59:11.1513871+00:00",
-  "LastUpdate_Achievements": "2023-12-19T15:09:18.3922508+00:00"
+  "LastUpdate_Ratings": "2023-12-19T15:59:34.6440249+00:00",
+  "LastUpdate_Achievements": "2023-12-19T16:09:35.4592303+00:00"
 }

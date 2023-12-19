@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 322)  
+Rating: 4.65 (Ranked 321)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -31,6 +31,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 0.10% | ~16 |
 | Peacemaker | 0.10% | ~16 |
 | Pioneer | 0.10% | ~16 |
+| Ready | 0.10% | ~16 |
 | Settler | 0.10% | ~16 |
 | Strong | 0.10% | ~16 |
 | Valiant | 0.10% | ~16 |
@@ -134,7 +135,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Liberator | 0.00% | ~0 |
 | Lion | 0.00% | ~0 |
 | Old | 0.00% | ~0 |
-| Ready | 0.00% | ~0 |
 | Rebuilder | 0.00% | ~0 |
 | Restorer | 0.00% | ~0 |
 | Subjugator | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Al Khazneh in Petra | 0.00% | ~0 |
 | Colosseum in Roma | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,833 (Ranked 156)  
+Progressed: 15,833 (Ranked 157)  
 Completed: 5 (0.03%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |

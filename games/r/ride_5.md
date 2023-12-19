@@ -6,23 +6,23 @@
 | ---- | ---------- | ----- |
 | Eat My Dust | 46.00% | ~1,265 |
 | First Love | 43.00% | ~1,182 |
-| Clean Race | 41.00% | ~1,127 |
+| Clean Race | 41.00% | ~1,128 |
 | Hear That Roar! | 40.00% | ~1,100 |
-| Rivals to the End | 29.00% | ~797 |
+| Rivals to the End | 29.00% | ~798 |
 | Bitter Rivalry | 28.00% | ~770 |
 | Champagne Spray | 26.00% | ~715 |
-| We're Going to Need a Bigger Garage | 25.00% | ~687 |
+| We're Going to Need a Bigger Garage | 25.00% | ~688 |
 | I Want One Too! | 20.00% | ~550 |
 | Restored and Ready | 19.00% | ~522 |
 | Legendary!!! | 19.00% | ~522 |
 | Quick Pit Stop | 19.00% | ~522 |
-| Go-Faster Stripes | 17.00% | ~467 |
+| Go-Faster Stripes | 17.00% | ~468 |
 | I'm Here Too! | 15.00% | ~412 |
 | We've Just Begun | 12.00% | ~330 |
-| Is It the Right Size? | 9.00% | ~247 |
+| Is It the Right Size? | 9.00% | ~248 |
 | Stamina Star | 8.00% | ~220 |
 | Evangelist | 6.00% | ~165 |
-| Make It Your Own! | 5.00% | ~137 |
+| Make It Your Own! | 5.00% | ~138 |
 | Cherry Blossom and Temples | 4.00% | ~110 |
 | Spoilt for Choice | 3.00% | ~82 |
 | La Dolce Vita | 3.00% | ~82 |
@@ -36,16 +36,16 @@
 | Back in Blighty | 2.00% | ~55 |
 | Still Here | 2.00% | ~55 |
 | Overtaking the Master | 2.00% | ~55 |
-| Next Level | 1.00% | ~27 |
-| I Don't Stop | 1.00% | ~27 |
+| Next Level | 1.00% | ~28 |
+| I Don't Stop | 1.00% | ~28 |
 | Exhausted but Happy | 0.70% | ~19 |
 | In Search of Perfection | 0.70% | ~19 |
 | Globe-trotter | 0.50% | ~14 |
-| Maximum Endurance | 0.20% | ~5 |
-| Breathtaking Views | 0.20% | ~5 |
-| Beyond the Limiter | 0.20% | ~5 |
-| All My Own Toys | 0.20% | ~5 |
-| Full Power | 0.20% | ~5 |
+| Maximum Endurance | 0.20% | ~6 |
+| Breathtaking Views | 0.20% | ~6 |
+| Beyond the Limiter | 0.20% | ~6 |
+| All My Own Toys | 0.20% | ~6 |
+| Full Power | 0.20% | ~6 |
 | Endless | 0.10% | ~3 |
 | At the Top | 0.10% | ~3 |
 | There's a Great View up Here | 0.10% | ~3 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,749 (Ranked 220)  
+Progressed: 2,750 (Ranked 220)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,4 +163,4 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-16 | 2,636 | 0 |
 | 2023-12-17 | 2,685 | 0 |
 | 2023-12-18 | 2,720 | 0 |
-| 2023-12-19 | 2,749 | 0 |
+| 2023-12-19 | 2,750 | 0 |

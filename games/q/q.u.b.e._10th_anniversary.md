@@ -5,14 +5,14 @@ Rating: 4.42 (Ranked 722)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 28.00% | ~7,210 |
-| Sector 2 | 25.00% | ~6,438 |
-| Crush That Cube! | 21.00% | ~5,408 |
-| Sector 3 | 21.00% | ~5,408 |
-| Sector 4 | 17.00% | ~4,378 |
-| Crush That Ball! | 16.00% | ~4,120 |
+| Sector 1 | 28.00% | ~7,212 |
+| Sector 2 | 25.00% | ~6,439 |
+| Crush That Cube! | 21.00% | ~5,409 |
+| Sector 3 | 21.00% | ~5,409 |
+| Sector 4 | 17.00% | ~4,379 |
+| Crush That Ball! | 16.00% | ~4,121 |
 | Sector 5 | 11.00% | ~2,833 |
-| Sector 6 | 10.00% | ~2,575 |
+| Sector 6 | 10.00% | ~2,576 |
 | Feeling the Blues | 7.00% | ~1,803 |
 | Squished | 7.00% | ~1,803 |
 | Finale | 7.00% | ~1,803 |
@@ -30,7 +30,7 @@ Rating: 4.42 (Ranked 722)
 | Maxed Out | 2.00% | ~515 |
 | The Collector | 1.00% | ~258 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,751 (Ranked 137)  
+Progressed: 25,757 (Ranked 137)  
 Completed: 164 (0.64%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 164 (0.64%) (Ranked 194)
 | 2023-12-16 | 25,393 | 159 |
 | 2023-12-17 | 25,557 | 161 |
 | 2023-12-18 | 25,684 | 164 |
-| 2023-12-19 | 25,751 | 164 |
+| 2023-12-19 | 25,757 | 164 |
 ## Awards
 Max (Challenging Puzzles): 22  (Ranked 549)  
 Sum: 22 (Ranked 551)  

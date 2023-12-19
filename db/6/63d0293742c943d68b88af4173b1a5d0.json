@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
     "PcReleaseDate": "2015-12-23T05:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 462,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1675,9 +1675,9 @@
       "ID": "Remake_22",
       "SetID": "5pi96jj",
       "Name": "Escape Lookout Cove",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 83
     }
   ],
   "AchievementSets": [
@@ -1690,8 +1690,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-19T15:05:54.4202994+00:00",
+  "LastChanged_Achievements": "2023-12-19T16:06:44.776785+00:00",
   "LastUpdate_AppInfo": "2023-12-19T01:44:23.8086343+00:00",
-  "LastUpdate_Ratings": "2023-12-19T14:58:11.3145799+00:00",
-  "LastUpdate_Achievements": "2023-12-19T15:05:54.4203239+00:00"
+  "LastUpdate_Ratings": "2023-12-19T15:58:23.2323713+00:00",
+  "LastUpdate_Achievements": "2023-12-19T16:06:44.7768087+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2749,
+  "EOS_Progressed": 2750,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 302,
+  "EOS_NewPlayers": 303,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6712,6 +6712,11 @@
       "Time": "2023-12-19T15:05:43.9534176+00:00",
       "NumProgressed": 2749,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T16:06:31.7348176+00:00",
+      "NumProgressed": 2750,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -6740,7 +6745,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -6764,7 +6769,7 @@
       "Name": "Make It Your Own!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ML_ACHIEVEMENT_07",
@@ -6788,7 +6793,7 @@
       "Name": "Is It the Right Size?",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -6796,7 +6801,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -6820,7 +6825,7 @@
       "Name": "Maximum Endurance",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ML_ACHIEVEMENT_14",
@@ -6892,7 +6897,7 @@
       "Name": "Breathtaking Views",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ML_ACHIEVEMENT_23",
@@ -6932,7 +6937,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -6940,7 +6945,7 @@
       "Name": "Beyond the Limiter",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ML_ACHIEVEMENT_29",
@@ -6964,7 +6969,7 @@
       "Name": "All My Own Toys",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -6988,7 +6993,7 @@
       "Name": "Next Level",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -6996,7 +7001,7 @@
       "Name": "Full Power",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ML_ACHIEVEMENT_36",
@@ -7060,7 +7065,7 @@
       "Name": "I Don\u0027t Stop",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ML_ACHIEVEMENT_44",
@@ -7076,7 +7081,7 @@
       "Name": "Rivals to the End",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -7115,14 +7120,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2749,
+      "Progressed": 2750,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-19T15:05:43.953417+00:00",
+  "LastChanged_Achievements": "2023-12-19T16:06:31.7348171+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:35.5257739+00:00",
-  "LastUpdate_Ratings": "2023-12-19T14:58:33.3442616+00:00",
-  "LastUpdate_Achievements": "2023-12-19T15:05:43.9534694+00:00"
+  "LastUpdate_Ratings": "2023-12-19T15:58:48.6215996+00:00",
+  "LastUpdate_Achievements": "2023-12-19T16:06:31.7348759+00:00"
 }

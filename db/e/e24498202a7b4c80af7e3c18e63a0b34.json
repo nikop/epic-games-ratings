@@ -2,7 +2,7 @@
   "ID": "e24498202a7b4c80af7e3c18e63a0b34",
   "Name": "Horizon Chase 2",
   "ProductSlug": "horizon-chase-2",
-  "Ranking_Rating": 233,
+  "Ranking_Rating": 232,
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 183,
@@ -157,9 +157,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7530,
+  "EOS_Progressed": 7531,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 278,
+  "EOS_NewPlayers": 279,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -7582,6 +7582,11 @@
       "Time": "2023-12-19T15:06:13.8059605+00:00",
       "NumProgressed": 7530,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-12-19T16:07:08.4430855+00:00",
+      "NumProgressed": 7531,
+      "NumCompleted": 44
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -7594,7 +7599,7 @@
       "Name": "First of Many",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 6551
+      "UsersEstimate": 6552
     },
     {
       "ID": "achievement_01_02",
@@ -7610,7 +7615,7 @@
       "Name": "Brand New Ride",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4894
+      "UsersEstimate": 4895
     },
     {
       "ID": "achievement_01_04",
@@ -7618,7 +7623,7 @@
       "Name": "Bzzzt",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 5572
+      "UsersEstimate": 5573
     },
     {
       "ID": "achievement_01_05",
@@ -7634,7 +7639,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4518
+      "UsersEstimate": 4519
     },
     {
       "ID": "achievement_01_07",
@@ -7658,7 +7663,7 @@
       "Name": "Right Foot",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 3313
+      "UsersEstimate": 3314
     },
     {
       "ID": "achievement_01_10",
@@ -7746,7 +7751,7 @@
       "Name": "Brazil - Check!",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 1355
+      "UsersEstimate": 1356
     },
     {
       "ID": "achievement_03_03",
@@ -7794,7 +7799,7 @@
       "Name": "Golden Professional Champion",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "achievement_03_09",
@@ -7834,7 +7839,7 @@
       "Name": "Gotta go Fast",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 3614
+      "UsersEstimate": 3615
     },
     {
       "ID": "achievement_04_03",
@@ -7850,7 +7855,7 @@
       "Name": "Flawless Racer",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 1355
+      "UsersEstimate": 1356
     },
     {
       "ID": "achievement_04_05",
@@ -7858,7 +7863,7 @@
       "Name": "That was a Close Call!",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 2560
+      "UsersEstimate": 2561
     },
     {
       "ID": "achievement_04_06",
@@ -7874,7 +7879,7 @@
       "Name": "Nitro Saver",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 3840
+      "UsersEstimate": 3841
     },
     {
       "ID": "achievement_04_08",
@@ -7882,7 +7887,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 6476
+      "UsersEstimate": 6477
     },
     {
       "ID": "achievement_04_09",
@@ -7897,7 +7902,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 7530,
+      "Progressed": 7531,
       "Completed": 44
     }
   ],
@@ -7905,8 +7910,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-12-15T14:57:21.0131466+00:00",
-  "LastChanged_Achievements": "2023-12-19T15:06:13.8059598+00:00",
+  "LastChanged_Achievements": "2023-12-19T16:07:08.4430849+00:00",
   "LastUpdate_AppInfo": "2023-12-14T22:57:19.0822196+00:00",
-  "LastUpdate_Ratings": "2023-12-19T14:59:43.692741+00:00",
-  "LastUpdate_Achievements": "2023-12-19T15:06:13.806023+00:00"
+  "LastUpdate_Ratings": "2023-12-19T16:00:12.2855373+00:00",
+  "LastUpdate_Achievements": "2023-12-19T16:07:08.443141+00:00"
 }

@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4026,
+  "EOS_Progressed": 4027,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 289,
+  "EOS_NewPlayers": 290,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -6466,6 +6466,11 @@
       "Time": "2023-12-19T15:05:06.2892311+00:00",
       "NumProgressed": 4026,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-19T16:05:46.7405786+00:00",
+      "NumProgressed": 4027,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -6517,7 +6522,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1731
+      "UsersEstimate": 1732
     },
     {
       "ID": "CrowdPleaser",
@@ -6541,7 +6546,7 @@
       "Name": "Eureka",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1288
+      "UsersEstimate": 1289
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -6661,7 +6666,7 @@
       "Name": "Ready for Summer",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 2013
+      "UsersEstimate": 2014
     },
     {
       "ID": "ReadyforWinter_42",
@@ -6669,7 +6674,7 @@
       "Name": "Ready for Winter",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 2536
+      "UsersEstimate": 2537
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -6685,7 +6690,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1007
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -6797,7 +6802,7 @@
       "Name": "Venture Outward",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2979
+      "UsersEstimate": 2980
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -6812,15 +6817,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4026,
+      "Progressed": 4027,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-19T15:05:06.2892306+00:00",
+  "LastChanged_Achievements": "2023-12-19T16:05:46.7405783+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:45.1407734+00:00",
-  "LastUpdate_Ratings": "2023-12-19T15:02:56.7758933+00:00",
-  "LastUpdate_Achievements": "2023-12-19T15:05:06.2892867+00:00"
+  "LastUpdate_Ratings": "2023-12-19T16:03:03.9990888+00:00",
+  "LastUpdate_Achievements": "2023-12-19T16:05:46.7406263+00:00"
 }

@@ -6,34 +6,34 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 3.00% | ~22,080 |
-| The Assault | 2.00% | ~14,720 |
-| Life is your teacher | 2.00% | ~14,720 |
-| Lightning Hands | 2.00% | ~14,720 |
-| The Hateful Pole Fighter | 1.00% | ~7,360 |
-| A Lady's Blood in the Snow | 1.00% | ~7,360 |
-| Kill Nil | 1.00% | ~7,360 |
-| Stuntmaster | 1.00% | ~7,360 |
-| Street Fighting | 1.00% | ~7,360 |
-| State of constant learning | 1.00% | ~7,360 |
-| Qi Gong: Breath | 1.00% | ~7,360 |
-| Qi Gong: Essence | 1.00% | ~7,360 |
-| Old Child | 1.00% | ~7,360 |
-| Path of the Prospect | 1.00% | ~7,360 |
-| Rumble in the Hangar | 1.00% | ~7,360 |
-| Diligence as a goal | 1.00% | ~453 |
-| Lady Wing Chun | 0.90% | ~6,624 |
-| I know Kung-Fu | 0.90% | ~6,624 |
+| The Old Grandmaster | 3.00% | ~22,082 |
+| The Assault | 2.00% | ~14,721 |
+| Life is your teacher | 2.00% | ~14,721 |
+| Lightning Hands | 2.00% | ~14,721 |
+| The Hateful Pole Fighter | 1.00% | ~7,361 |
+| A Lady's Blood in the Snow | 1.00% | ~7,361 |
+| Kill Nil | 1.00% | ~7,361 |
+| Stuntmaster | 1.00% | ~7,361 |
+| Street Fighting | 1.00% | ~7,361 |
+| State of constant learning | 1.00% | ~7,361 |
+| Qi Gong: Breath | 1.00% | ~7,361 |
+| Qi Gong: Essence | 1.00% | ~7,361 |
+| Old Child | 1.00% | ~7,361 |
+| Path of the Prospect | 1.00% | ~7,361 |
+| Rumble in the Hangar | 1.00% | ~7,361 |
+| Diligence as a goal | 1.00% | ~454 |
+| Lady Wing Chun | 0.90% | ~6,625 |
+| I know Kung-Fu | 0.90% | ~6,625 |
 | Project Arena | 0.90% | ~408 |
-| Furious Fists | 0.80% | ~5,888 |
-| Qi Gong: Mind | 0.80% | ~5,888 |
-| Take damage to save time | 0.80% | ~5,888 |
+| Furious Fists | 0.80% | ~5,889 |
+| Qi Gong: Mind | 0.80% | ~5,889 |
+| Take damage to save time | 0.80% | ~5,889 |
 | Scareless | 0.70% | ~5,152 |
 | Kung-Fu Tussle | 0.70% | ~5,152 |
-| Fight the way you practice | 0.70% | ~317 |
+| Fight the way you practice | 0.70% | ~318 |
 | Dance of the Praying Mantis | 0.60% | ~4,416 |
-| Bloody Sport | 0.50% | ~226 |
-| Martial Hub | 0.50% | ~226 |
+| Bloody Sport | 0.50% | ~227 |
+| Martial Hub | 0.50% | ~227 |
 | Muk Yan Master | 0.40% | ~2,944 |
 | Tiger on Fire | 0.40% | ~2,944 |
 | Detective Story | 0.40% | ~2,944 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~45 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 735,987 (Ranked 24)  
+Progressed: 736,071 (Ranked 24)  
 Completed: 12,957 (1.76%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,17 +310,17 @@ Completed: 12,957 (1.76%) (Ranked 139)
 | 2023-12-16 | 730,184 | 12,954 |
 | 2023-12-17 | 733,014 | 12,955 |
 | 2023-12-18 | 734,825 | 12,956 |
-| 2023-12-19 | 735,987 | 12,957 |
+| 2023-12-19 | 736,071 | 12,957 |
 ## Awards
 Max (Great Boss Battles): 6,965  (Ranked 55)  
-Sum: 12,207 (Ranked 84)  
+Sum: 12,209 (Ranked 84)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,965 |
 | This game has Diverse Characters | 679 |
 | This game has Challenging Combat | 621 |
-| This game has Amazing Storytelling | 603 |
+| This game has Amazing Storytelling | 605 |
 | This game has Amazing Characters | 594 |
 | This game is Highly Recommended | 587 |
 | This game has Quickly Understood Controls | 584 |
@@ -667,4 +667,4 @@ Diff (max vs sum): -29
 | 2023-12-16 | 4.82 | - | 6,935 | 12,172 |
 | 2023-12-17 | 4.82 | - | 6,944 | 12,182 |
 | 2023-12-18 | 4.82 | - | 6,957 | 12,197 |
-| 2023-12-19 | 4.82 | - | 6,965 | 12,207 |
+| 2023-12-19 | 4.82 | - | 6,965 | 12,209 |

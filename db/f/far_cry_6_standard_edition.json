@@ -2,13 +2,13 @@
   "ID": "b4565296c22549e4830c13bc7506642d",
   "Name": "Far Cry 6 Standard Edition",
   "ProductSlug": "far-cry-6",
-  "Ranking_Rating": 672,
+  "Ranking_Rating": 673,
   "Ranking_Popularity": 157,
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 809,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 555,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 557,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-11-29T15:00:00+00:00",
     "PcReleaseDate": "2021-10-07T04:00:00+00:00",
@@ -9161,10 +9161,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 7610,
       "NumberOfAwardsMax": 995
+    },
+    {
+      "Time": "2023-12-19T15:57:16.4335838+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 7617,
+      "NumberOfAwardsMax": 995
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7610,
+  "NumberOfAwards": 7617,
   "NumberOfAwardsMax": 995,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9172,7 +9178,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 927
+      "Count": 929
     },
     {
       "Text": "This game is Highly Recommended",
@@ -9196,7 +9202,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 939
+      "Count": 944
     },
     {
       "Text": "This game is Relaxing",
@@ -9234,8 +9240,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:07.3905482+00:00",
-  "LastChanged": "2023-12-19T13:02:09.1369521+00:00",
+  "LastChanged": "2023-12-19T15:57:16.4335836+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.1939913+00:00",
-  "LastUpdate_Ratings": "2023-12-19T14:57:15.6591726+00:00",
-  "LastUpdate_Achievements": "2023-12-19T15:04:37.7748845+00:00"
+  "LastUpdate_Ratings": "2023-12-19T15:57:16.4335841+00:00",
+  "LastUpdate_Achievements": "2023-12-19T16:05:11.6300763+00:00"
 }

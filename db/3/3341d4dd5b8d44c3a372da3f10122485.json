@@ -1299,9 +1299,9 @@
       "ID": "Snekoun",
       "SetID": "823jm6g",
       "Name": "Snailman",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 80,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "Sopouch",
@@ -1330,8 +1330,8 @@
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-12-19T15:08:56.7490953+00:00",
+  "LastChanged_Achievements": "2023-12-19T16:09:08.3407046+00:00",
   "LastUpdate_AppInfo": "2023-12-16T05:57:11.9761332+00:00",
-  "LastUpdate_Ratings": "2023-12-19T14:58:54.3942551+00:00",
-  "LastUpdate_Achievements": "2023-12-19T15:08:56.7491119+00:00"
+  "LastUpdate_Ratings": "2023-12-19T15:59:14.2031308+00:00",
+  "LastUpdate_Achievements": "2023-12-19T16:09:08.3407199+00:00"
 }

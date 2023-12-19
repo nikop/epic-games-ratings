@@ -1,7 +1,7 @@
 # Mars Horizon
 [Store](https://store.epicgames.com/en-US/p/mars-horizon)  
 [View Rawdata](../../db/m/mars_horizon.json)  
-Rating: 4.50 (Ranked 601)  
+Rating: 4.51 (Ranked 580)  
 Number of Ratings: 23  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -27,3 +27,4 @@ Number of Ratings: 23  (23.09.2022)
 | 2023-07-21 | 4.47 | - | 0 | 0 |
 | 2023-08-22 | 4.49 | - | 0 | 0 |
 | 2023-09-16 | 4.50 | - | 0 | 0 |
+| 2023-12-19 | 4.51 | - | 0 | 0 |

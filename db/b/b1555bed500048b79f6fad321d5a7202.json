@@ -4,8 +4,8 @@
   "ProductSlug": "nova-strike",
   "Ranking_EOS_Progress": 592,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 506,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 507,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-07-27T08:00:00+00:00",
     "PcReleaseDate": "2023-07-27T08:00:00+00:00",
@@ -201,9 +201,9 @@
       "ID": "15",
       "SetID": "5lmgb5n",
       "Name": "Space terror",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "16",
@@ -217,9 +217,9 @@
       "ID": "17",
       "SetID": "5lmgb5n",
       "Name": "Jackpot",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "2",
@@ -296,8 +296,8 @@
   ],
   "FirstSeen": "2023-08-01T17:57:15.417179+00:00",
   "FirstSeenAchievements": "2023-07-27T09:00:47.8378979+00:00",
-  "LastChanged_Achievements": "2023-12-19T15:10:03.4220208+00:00",
+  "LastChanged_Achievements": "2023-12-19T16:10:30.3596866+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:10.5972302+00:00",
-  "LastUpdate_Ratings": "2023-12-19T15:02:56.6347577+00:00",
-  "LastUpdate_Achievements": "2023-12-19T15:10:03.4220317+00:00"
+  "LastUpdate_Ratings": "2023-12-19T16:03:05.8010176+00:00",
+  "LastUpdate_Achievements": "2023-12-19T16:10:30.3597013+00:00"
 }

@@ -1,21 +1,21 @@
 # Session: Skate Sim
 [Store](https://store.epicgames.com/en-US/p/session-skate-sim)  
 [View Rawdata](../../db/s/session__skate_sim.json)  
-Rating: 4.69 (Ranked 233)  
+Rating: 4.69 (Ranked 232)  
 Number of Ratings: 111  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 61.00% | ~1,997 |
+| You're free now! | 61.00% | ~1,998 |
 | Keeping it classy | 28.00% | ~917 |
 | Welcome to the family | 22.00% | ~720 |
 | The finer things in life | 20.00% | ~655 |
-| Backpacker | 14.00% | ~458 |
-| Go with the Flow | 14.00% | ~458 |
+| Backpacker | 14.00% | ~459 |
+| Go with the Flow | 13.00% | ~426 |
 | The flip trick crown jewel | 11.00% | ~360 |
-| Plastic Surgeon | 10.00% | ~327 |
-| The hard way | 10.00% | ~327 |
-| Upfront shredder | 10.00% | ~327 |
+| Plastic Surgeon | 10.00% | ~328 |
+| The hard way | 10.00% | ~328 |
+| Upfront shredder | 10.00% | ~328 |
 | Good vibes | 9.00% | ~295 |
 | Keep the dream alive | 9.00% | ~295 |
 | Tight lipslides | 8.00% | ~262 |
@@ -45,8 +45,8 @@ Number of Ratings: 111  (23.09.2022)
 | Pew-Pew | 4.00% | ~131 |
 | Prince of Philly | 4.00% | ~131 |
 | Many plys later... | 3.00% | ~98 |
-| Cross lock country | 2.00% | ~65 |
-| That was wheelie fun | 2.00% | ~65 |
+| Cross lock country | 2.00% | ~66 |
+| That was wheelie fun | 2.00% | ~66 |
 | Dipped! | 1.00% | ~33 |
 | Skatepark hero | 1.00% | ~33 |
 | Bing Bong! | 0.10% | ~3 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,274 (Ranked 216)  
+Progressed: 3,275 (Ranked 216)  
 Completed: 2 (0.06%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 2 (0.06%) (Ranked 324)
 | 2023-12-16 | 3,212 | 2 |
 | 2023-12-17 | 3,239 | 2 |
 | 2023-12-18 | 3,263 | 2 |
-| 2023-12-19 | 3,274 | 2 |
+| 2023-12-19 | 3,275 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 59  (Ranked 420)  
 Sum: 568 (Ranked 321)  

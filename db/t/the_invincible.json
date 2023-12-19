@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -2231,9 +2231,9 @@
       "ID": "AchvKrautaAlive",
       "SetID": "1hj060c",
       "Name": "Krauta is alive",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 198
+      "UsersEstimate": 206
     },
     {
       "ID": "AchvLava",
@@ -2374,8 +2374,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-19T15:09:29.2743907+00:00",
+  "LastChanged_Achievements": "2023-12-19T16:09:48.7026682+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.232501+00:00",
-  "LastUpdate_Ratings": "2023-12-19T14:58:13.126683+00:00",
-  "LastUpdate_Achievements": "2023-12-19T15:09:29.2744226+00:00"
+  "LastUpdate_Ratings": "2023-12-19T15:58:25.4724489+00:00",
+  "LastUpdate_Achievements": "2023-12-19T16:09:48.7026933+00:00"
 }

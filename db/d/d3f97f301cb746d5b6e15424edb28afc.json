@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -91,7 +91,7 @@
   "Tags": [],
   "EOS_Progressed": 1275,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3724,9 +3724,9 @@
       "ID": "GSS_ACH_37_BROOM_03",
       "SetID": "5fn8ia4",
       "Name": "Dirt Stains? Not here!",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 880
+      "UsersEstimate": 892
     },
     {
       "ID": "GSS_ACH_38_GARAGE_01",
@@ -3796,9 +3796,9 @@
       "ID": "GSS_ACH_46_ORDER_CARPARTS",
       "SetID": "5fn8ia4",
       "Name": "Need the Car Parts!",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 982
+      "UsersEstimate": 994
     },
     {
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
@@ -3932,9 +3932,9 @@
       "ID": "GSS_ACH_63_POPULARITY_03",
       "SetID": "5fn8ia4",
       "Name": "In the Desert There Is a ...",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 956
+      "UsersEstimate": 969
     },
     {
       "ID": "GSS_ACH_64_POPULARITY_04",
@@ -4004,9 +4004,9 @@
       "ID": "GSS_ACH_72_GAME_COMPLETE",
       "SetID": "5fn8ia4",
       "Name": "The Dust Bowl",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 319
+      "UsersEstimate": 332
     },
     {
       "ID": "GSS_ACH_73_MEETING_THE_UNCLE",
@@ -4101,8 +4101,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-18T13:05:51.5719117+00:00",
-  "LastChanged_Achievements": "2023-12-19T15:06:22.9599619+00:00",
+  "LastChanged_Achievements": "2023-12-19T16:07:19.5927138+00:00",
   "LastUpdate_AppInfo": "2023-12-18T18:57:14.4494443+00:00",
-  "LastUpdate_Ratings": "2023-12-19T14:59:41.8119759+00:00",
-  "LastUpdate_Achievements": "2023-12-19T15:06:22.960057+00:00"
+  "LastUpdate_Ratings": "2023-12-19T16:00:09.9314338+00:00",
+  "LastUpdate_Achievements": "2023-12-19T16:07:19.5927953+00:00"
 }

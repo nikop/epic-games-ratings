@@ -2,13 +2,13 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed Ecto Edition",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 601,
+  "Ranking_Rating": 602,
   "Ranking_Popularity": 251,
   "Ranking_PopularitySum": 181,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3789,7 +3789,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32441,
+  "EOS_Progressed": 32442,
   "EOS_Completed": 69,
   "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 0,
@@ -22809,6 +22809,11 @@
       "Time": "2023-12-19T14:04:41.9907462+00:00",
       "NumProgressed": 32441,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-19T16:05:51.5533419+00:00",
+      "NumProgressed": 32442,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -23148,7 +23153,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 1946
+      "UsersEstimate": 1947
     },
     {
       "ID": "Teamwork",
@@ -23227,7 +23232,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32441,
+      "Progressed": 32442,
       "Completed": 69
     }
   ],
@@ -23235,8 +23240,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-18T23:58:18.6120703+00:00",
-  "LastChanged_Achievements": "2023-12-19T15:05:10.3844122+00:00",
+  "LastChanged_Achievements": "2023-12-19T16:05:51.5533413+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:05.1146147+00:00",
-  "LastUpdate_Ratings": "2023-12-19T14:59:00.4369864+00:00",
-  "LastUpdate_Achievements": "2023-12-19T15:05:10.3845471+00:00"
+  "LastUpdate_Ratings": "2023-12-19T15:59:21.483944+00:00",
+  "LastUpdate_Achievements": "2023-12-19T16:05:51.5534423+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewPlayers": 395,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -1517,9 +1517,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "8d3ci0",
       "Name": "Family pond",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 111
+      "UsersEstimate": 114
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -1588,8 +1588,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-12-19T15:06:21.2279969+00:00",
+  "LastChanged_Achievements": "2023-12-19T16:07:17.2938711+00:00",
   "LastUpdate_AppInfo": "2023-12-17T03:57:04.3181788+00:00",
-  "LastUpdate_Ratings": "2023-12-19T14:57:32.5996997+00:00",
-  "LastUpdate_Achievements": "2023-12-19T15:06:21.2280139+00:00"
+  "LastUpdate_Ratings": "2023-12-19T15:57:35.7053724+00:00",
+  "LastUpdate_Achievements": "2023-12-19T16:07:17.2938879+00:00"
 }

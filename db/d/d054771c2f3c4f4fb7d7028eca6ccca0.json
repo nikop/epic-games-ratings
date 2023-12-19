@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
     "PcReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2272,
+  "EOS_Progressed": 2274,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 539,
+  "EOS_NewPlayers": 540,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2149,6 +2149,11 @@
       "Time": "2023-12-19T15:08:39.7544045+00:00",
       "NumProgressed": 2272,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T16:08:47.533341+00:00",
+      "NumProgressed": 2274,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -2479,9 +2484,9 @@
       "ID": "ACHIEVEMENT_49",
       "SetID": "c167foo",
       "Name": "I\u0027m your friend to the end",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_50",
@@ -2536,14 +2541,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 2272,
+      "Progressed": 2274,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-19T15:08:39.7544041+00:00",
+  "LastChanged_Achievements": "2023-12-19T16:08:47.5333406+00:00",
   "LastUpdate_AppInfo": "2023-12-19T11:57:06.3691956+00:00",
-  "LastUpdate_Ratings": "2023-12-19T15:00:44.4992325+00:00",
-  "LastUpdate_Achievements": "2023-12-19T15:08:39.7544432+00:00"
+  "LastUpdate_Ratings": "2023-12-19T16:01:25.8583468+00:00",
+  "LastUpdate_Achievements": "2023-12-19T16:08:47.533376+00:00"
 }

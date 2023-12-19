@@ -2,13 +2,13 @@
   "ID": "9bcf5a4dc1d54cb6ab1a42f3a70c5cf4",
   "Name": "Assassin\u0027s Creed\u00AE Mirage",
   "ProductSlug": "assassins-creed-mirage",
-  "Ranking_Rating": 672,
+  "Ranking_Rating": 673,
   "Ranking_Popularity": 296,
-  "Ranking_PopularitySum": 234,
+  "Ranking_PopularitySum": 233,
   "Ranking_EOS_Progress": 809,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 555,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 557,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
     "PcReleaseDate": "2023-10-05T16:00:00+00:00",
@@ -2389,10 +2389,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 1594,
       "NumberOfAwardsMax": 196
+    },
+    {
+      "Time": "2023-12-19T15:58:54.1644078+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 1602,
+      "NumberOfAwardsMax": 196
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1594,
+  "NumberOfAwards": 1602,
   "NumberOfAwardsMax": 196,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2412,7 +2418,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 167
+      "Count": 169
     },
     {
       "Text": "This game is Educational",
@@ -2424,7 +2430,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 171
+      "Count": 172
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2448,7 +2454,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 178
+      "Count": 183
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -2475,8 +2481,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-05T18:58:30.4202319+00:00",
   "FirstSeenRating": "2023-10-06T05:58:23.6709697+00:00",
-  "LastChanged": "2023-12-19T11:58:55.3323346+00:00",
+  "LastChanged": "2023-12-19T15:58:54.1644076+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:12.6848167+00:00",
-  "LastUpdate_Ratings": "2023-12-19T14:58:37.8458931+00:00",
-  "LastUpdate_Achievements": "2023-12-19T15:08:34.799546+00:00"
+  "LastUpdate_Ratings": "2023-12-19T15:58:54.1644081+00:00",
+  "LastUpdate_Achievements": "2023-12-19T16:08:41.5387031+00:00"
 }

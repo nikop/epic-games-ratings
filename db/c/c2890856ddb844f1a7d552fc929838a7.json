@@ -5,10 +5,10 @@
   "Ranking_Rating": 27,
   "Ranking_Popularity": 536,
   "Ranking_PopularitySum": 541,
-  "Ranking_EOS_Progress": 248,
+  "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -3720,9 +3720,9 @@
       "ID": "AC25",
       "SetID": "l4abp0",
       "Name": "House of Grief and Hatred",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 580
+      "UsersEstimate": 594
     },
     {
       "ID": "AC26",
@@ -3784,9 +3784,9 @@
       "ID": "AC33",
       "SetID": "l4abp0",
       "Name": "Ultima Ratio",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 710
+      "UsersEstimate": 724
     },
     {
       "ID": "AC34",
@@ -3897,8 +3897,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-12-13T22:00:21.7018049+00:00",
-  "LastChanged_Achievements": "2023-12-19T15:04:37.2282188+00:00",
+  "LastChanged_Achievements": "2023-12-19T16:05:10.9947072+00:00",
   "LastUpdate_AppInfo": "2023-12-13T02:20:44.5606116+00:00",
-  "LastUpdate_Ratings": "2023-12-19T15:00:01.5077024+00:00",
-  "LastUpdate_Achievements": "2023-12-19T15:04:37.228268+00:00"
+  "LastUpdate_Ratings": "2023-12-19T16:00:34.0391469+00:00",
+  "LastUpdate_Achievements": "2023-12-19T16:05:10.9947453+00:00"
 }

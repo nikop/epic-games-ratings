@@ -2,8 +2,8 @@
   "ID": "87b2e2971d6b485085001a91c73a9718",
   "Name": "Kaze and the Wild Masks",
   "ProductSlug": "kaze-and-the-wild-masks-94a27d",
-  "Ranking_EOS_Progress": 597,
-  "Ranking_EOS_Completed": 79,
+  "Ranking_EOS_Progress": 592,
+  "Ranking_EOS_Completed": 82,
   "Ranking_EOS_NewPlayers": 425,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21,
+  "EOS_Progressed": 22,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.76,
+  "EOS_Completed_Percentage": 4.55,
   "EosHistory": [
     {
       "Time": "2023-11-20T15:03:30.7226968+00:00",
@@ -129,6 +129,11 @@
       "Time": "2023-12-19T01:56:10.974038+00:00",
       "NumProgressed": 21,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T16:09:34.51711+00:00",
+      "NumProgressed": 22,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-20T15:03:30.7239426+00:00",
@@ -139,7 +144,7 @@
       "ID": "1",
       "SetID": "279eo25",
       "Name": "Crystal Collector",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -147,7 +152,7 @@
       "ID": "10",
       "SetID": "279eo25",
       "Name": "Untouchable!",
-      "Percentage": 76,
+      "Percentage": 73,
       "XP": 10,
       "UsersEstimate": 16
     },
@@ -155,7 +160,7 @@
       "ID": "11",
       "SetID": "279eo25",
       "Name": "Queen of the Hill",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -171,7 +176,7 @@
       "ID": "13",
       "SetID": "279eo25",
       "Name": "Golden Rabbit",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -195,7 +200,7 @@
       "ID": "16",
       "SetID": "279eo25",
       "Name": "Grounded!",
-      "Percentage": 29,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -203,7 +208,7 @@
       "ID": "17",
       "SetID": "279eo25",
       "Name": "Beet Broken",
-      "Percentage": 29,
+      "Percentage": 27,
       "XP": 25,
       "UsersEstimate": 6
     },
@@ -211,7 +216,7 @@
       "ID": "18",
       "SetID": "279eo25",
       "Name": "Tears of Joy",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -219,7 +224,7 @@
       "ID": "19",
       "SetID": "279eo25",
       "Name": "Heroine of the day!",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -227,7 +232,7 @@
       "ID": "2",
       "SetID": "279eo25",
       "Name": "Crystal Addict",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -235,7 +240,7 @@
       "ID": "20",
       "SetID": "279eo25",
       "Name": "Out of sight, Out of mind",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -243,7 +248,7 @@
       "ID": "21",
       "SetID": "279eo25",
       "Name": "The floor is lava!",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -251,7 +256,7 @@
       "ID": "22",
       "SetID": "279eo25",
       "Name": "Perfect landing",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -267,7 +272,7 @@
       "ID": "24",
       "SetID": "279eo25",
       "Name": "Oops!",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -275,7 +280,7 @@
       "ID": "25",
       "SetID": "279eo25",
       "Name": "Speedrunner",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -283,7 +288,7 @@
       "ID": "3",
       "SetID": "279eo25",
       "Name": "Best Friend",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -291,15 +296,15 @@
       "ID": "4",
       "SetID": "279eo25",
       "Name": "Who are they?",
-      "Percentage": 57,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "5",
       "SetID": "279eo25",
       "Name": "Card Addict",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 25,
       "UsersEstimate": 7
     },
@@ -315,7 +320,7 @@
       "ID": "7",
       "SetID": "279eo25",
       "Name": "Green Island",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -331,7 +336,7 @@
       "ID": "9",
       "SetID": "279eo25",
       "Name": "Wait... What?",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 100,
       "UsersEstimate": 2
     }
@@ -340,14 +345,14 @@
     {
       "ID": "279eo25",
       "IsBase": true,
-      "Progressed": 21,
+      "Progressed": 22,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-03T09:57:17.9885642+00:00",
   "FirstSeenAchievements": "2023-11-20T15:03:30.7239426+00:00",
-  "LastChanged_Achievements": "2023-12-19T15:09:17.6927514+00:00",
+  "LastChanged_Achievements": "2023-12-19T16:09:34.5171095+00:00",
   "LastUpdate_AppInfo": "2023-12-18T17:57:03.4883943+00:00",
-  "LastUpdate_Ratings": "2023-12-19T14:58:57.6922223+00:00",
-  "LastUpdate_Achievements": "2023-12-19T15:09:17.6927659+00:00"
+  "LastUpdate_Ratings": "2023-12-19T15:59:18.3959178+00:00",
+  "LastUpdate_Achievements": "2023-12-19T16:09:34.5171234+00:00"
 }

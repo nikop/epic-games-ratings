@@ -956,9 +956,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 28849,
+  "EOS_Progressed": 28850,
   "EOS_Completed": 1402,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 4.86,
   "EosHistory": [
@@ -7946,6 +7946,11 @@
       "Time": "2023-12-19T15:09:37.3172535+00:00",
       "NumProgressed": 28849,
       "NumCompleted": 1402
+    },
+    {
+      "Time": "2023-12-19T16:09:58.5925319+00:00",
+      "NumProgressed": 28850,
+      "NumCompleted": 1402
     }
   ],
   "TotalAchievements": 30,
@@ -7965,7 +7970,7 @@
       "Name": "Feeding Frenzy",
       "Percentage": 19,
       "XP": 70,
-      "UsersEstimate": 5481
+      "UsersEstimate": 5482
     },
     {
       "ID": "ACH_ALL_VIDS",
@@ -7997,7 +8002,7 @@
       "Name": "Deep Impact",
       "Percentage": 23,
       "XP": 70,
-      "UsersEstimate": 6635
+      "UsersEstimate": 6636
     },
     {
       "ID": "ACH_CATCH_ALL",
@@ -8013,7 +8018,7 @@
       "Name": "Got to Catch a Lot",
       "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 19040
+      "UsersEstimate": 19041
     },
     {
       "ID": "ACH_CATCH_QUARTER",
@@ -8029,7 +8034,7 @@
       "Name": "Say Cheese!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 4327
+      "UsersEstimate": 4328
     },
     {
       "ID": "ACH_COMBO_MEAL",
@@ -8045,7 +8050,7 @@
       "Name": "In the Arms of the Gramble",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 17021
+      "UsersEstimate": 17022
     },
     {
       "ID": "ACH_FIRST_BUGSNAK",
@@ -8069,7 +8074,7 @@
       "Name": "Candid Cryptid",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 10097
+      "UsersEstimate": 10098
     },
     {
       "ID": "ACH_HATS",
@@ -8077,7 +8082,7 @@
       "Name": "Dapper Capper",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2019
+      "UsersEstimate": 2020
     },
     {
       "ID": "ACH_HOME",
@@ -8101,7 +8106,7 @@
       "Name": "Launch Party",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 16155
+      "UsersEstimate": 16156
     },
     {
       "ID": "ACH_MAIN_STORY",
@@ -8117,7 +8122,7 @@
       "Name": "That Reminds Me of a Puzzle",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 12405
+      "UsersEstimate": 12406
     },
     {
       "ID": "ACH_RETURN_ALL",
@@ -8125,7 +8130,7 @@
       "Name": "Know Thy Neighbor",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 17021
+      "UsersEstimate": 17022
     },
     {
       "ID": "ACH_SIDE_QUEST",
@@ -8141,7 +8146,7 @@
       "Name": "Grab Bag",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 6635
+      "UsersEstimate": 6636
     },
     {
       "ID": "ACH_SNAXBURG",
@@ -8181,7 +8186,7 @@
       "Name": "Double Trapper",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 21637
+      "UsersEstimate": 21638
     },
     {
       "ID": "ACH_WATERFALL",
@@ -8189,22 +8194,22 @@
       "Name": "Wonderfalls",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 25099
+      "UsersEstimate": 25100
     }
   ],
   "AchievementSets": [
     {
       "ID": "2m0copd",
       "IsBase": true,
-      "Progressed": 28849,
+      "Progressed": 28850,
       "Completed": 1402
     }
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
   "LastChanged": "2023-12-16T21:57:50.1602353+00:00",
-  "LastChanged_Achievements": "2023-12-19T15:09:37.3172528+00:00",
+  "LastChanged_Achievements": "2023-12-19T16:09:58.5925313+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:22.6495226+00:00",
-  "LastUpdate_Ratings": "2023-12-19T14:59:22.663667+00:00",
-  "LastUpdate_Achievements": "2023-12-19T15:09:37.317303+00:00"
+  "LastUpdate_Ratings": "2023-12-19T15:59:47.9986016+00:00",
+  "LastUpdate_Achievements": "2023-12-19T16:09:58.5925888+00:00"
 }

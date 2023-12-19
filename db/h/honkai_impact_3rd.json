@@ -2,13 +2,13 @@
   "ID": "d2d162953fec40e381867d7af8371362",
   "Name": "Honkai Impact 3rd",
   "ProductSlug": "honkai-impact-3rd",
-  "Ranking_Rating": 601,
+  "Ranking_Rating": 602,
   "Ranking_Popularity": 97,
   "Ranking_PopularitySum": 85,
   "Ranking_EOS_Progress": 809,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 555,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 557,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-27T06:00:00+00:00",
     "PcReleaseDate": null,
@@ -9629,10 +9629,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 11933,
       "NumberOfAwardsMax": 3175
+    },
+    {
+      "Time": "2023-12-19T16:01:05.5189767+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 11938,
+      "NumberOfAwardsMax": 3175
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11933,
+  "NumberOfAwards": 11938,
   "NumberOfAwardsMax": 3175,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9652,7 +9658,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 750
+      "Count": 751
     },
     {
       "Text": "This game is Highly Recommended",
@@ -9694,7 +9700,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 510
+      "Count": 514
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9733,8 +9739,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-27T11:30:26.4233372+00:00",
   "FirstSeenRating": "2022-10-28T11:32:15.7744841+00:00",
-  "LastChanged": "2023-12-19T13:59:53.7941111+00:00",
+  "LastChanged": "2023-12-19T16:01:05.5189765+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:50.0031913+00:00",
-  "LastUpdate_Ratings": "2023-12-19T15:00:27.8286544+00:00",
-  "LastUpdate_Achievements": "2023-12-19T15:04:02.2956236+00:00"
+  "LastUpdate_Ratings": "2023-12-19T16:01:05.5189772+00:00",
+  "LastUpdate_Achievements": "2023-12-19T16:04:28.1787918+00:00"
 }

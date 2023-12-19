@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 252316,
+  "EOS_Progressed": 252317,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 221,
+  "EOS_NewPlayers": 218,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21702,6 +21702,11 @@
       "Time": "2023-12-19T15:09:54.6052224+00:00",
       "NumProgressed": 252316,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-19T16:10:19.6754248+00:00",
+      "NumProgressed": 252317,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -21737,7 +21742,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52986
+      "UsersEstimate": 52987
     },
     {
       "ID": "blotbuster",
@@ -21785,7 +21790,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37847
+      "UsersEstimate": 37848
     },
     {
       "ID": "clearCut",
@@ -21865,7 +21870,7 @@
       "Name": "He Who Laughs Last",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7569
+      "UsersEstimate": 7570
     },
     {
       "ID": "hereWeGo",
@@ -21889,7 +21894,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 133727
+      "UsersEstimate": 133728
     },
     {
       "ID": "indegestible",
@@ -22001,7 +22006,7 @@
       "Name": "Shoo, Cat!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7569
+      "UsersEstimate": 7570
     },
     {
       "ID": "talentScout",
@@ -22080,7 +22085,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 252316,
+      "Progressed": 252317,
       "Completed": 6
     }
   ],
@@ -22088,8 +22093,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-12-19T15:09:54.6052216+00:00",
+  "LastChanged_Achievements": "2023-12-19T16:10:19.6754239+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.4778344+00:00",
-  "LastUpdate_Ratings": "2023-12-19T14:58:53.099423+00:00",
-  "LastUpdate_Achievements": "2023-12-19T15:09:54.6053386+00:00"
+  "LastUpdate_Ratings": "2023-12-19T15:59:12.790284+00:00",
+  "LastUpdate_Achievements": "2023-12-19T16:10:19.6755663+00:00"
 }

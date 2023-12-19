@@ -3,9 +3,9 @@
   "Name": "Clash - Artifacts of Chaos",
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
   "Ranking_EOS_Progress": 441,
-  "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 393,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_Completed": 188,
+  "Ranking_EOS_NewPlayers": 385,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
     "PcReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 124,
+  "EOS_Progressed": 125,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.81,
+  "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:21.1984631+00:00",
@@ -366,6 +366,11 @@
       "Time": "2023-12-18T13:16:50.3724591+00:00",
       "NumProgressed": 124,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T16:10:33.8893351+00:00",
+      "NumProgressed": 125,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 21,
@@ -385,7 +390,7 @@
       "Name": "The Pride of Moozhaw",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Achievement11",
@@ -393,7 +398,7 @@
       "Name": "Your Training Continues",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "Achievement12",
@@ -401,7 +406,7 @@
       "Name": "Your Training Is Complete",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Achievement13",
@@ -423,9 +428,9 @@
       "ID": "Achievement15",
       "SetID": "jf6ho5",
       "Name": "Target Practice",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 54
     },
     {
       "ID": "Achievement16",
@@ -433,7 +438,7 @@
       "Name": "The Bigger They Are",
       "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Achievement17",
@@ -447,7 +452,7 @@
       "ID": "Achievement18",
       "SetID": "jf6ho5",
       "Name": "Over the Moon",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 90,
       "UsersEstimate": 38
     },
@@ -463,9 +468,9 @@
       "ID": "Achievement2",
       "SetID": "jf6ho5",
       "Name": "Winner",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 35,
-      "UsersEstimate": 29
+      "UsersEstimate": 28
     },
     {
       "ID": "Achievement20",
@@ -487,7 +492,7 @@
       "ID": "Achievement3",
       "SetID": "jf6ho5",
       "Name": "Enemies of Fate",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 35,
       "UsersEstimate": 38
     },
@@ -505,7 +510,7 @@
       "Name": "Red in Tooth and Claw",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Achievement6",
@@ -529,7 +534,7 @@
       "Name": "Armored",
       "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Achievement9",
@@ -544,7 +549,7 @@
     {
       "ID": "jf6ho5",
       "IsBase": true,
-      "Progressed": 124,
+      "Progressed": 125,
       "Completed": 1
     }
   ],
@@ -552,8 +557,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-12-19T15:10:06.4462373+00:00",
+  "LastChanged_Achievements": "2023-12-19T16:10:33.8893344+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:10.316662+00:00",
-  "LastUpdate_Ratings": "2023-12-19T14:57:25.7954957+00:00",
-  "LastUpdate_Achievements": "2023-12-19T15:10:06.4462532+00:00"
+  "LastUpdate_Ratings": "2023-12-19T15:57:27.5006059+00:00",
+  "LastUpdate_Achievements": "2023-12-19T16:10:33.889346+00:00"
 }

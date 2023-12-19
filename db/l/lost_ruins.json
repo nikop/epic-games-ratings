@@ -4,8 +4,8 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 558,
+  "EOS_Progressed": 559,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1334,6 +1334,11 @@
       "Time": "2023-12-19T15:10:08.8216615+00:00",
       "NumProgressed": 558,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T16:10:36.8523024+00:00",
+      "NumProgressed": 559,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1377,7 +1382,7 @@
       "Name": "Boss Killer",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "BugHunter",
@@ -1465,7 +1470,7 @@
       "Name": "Inquisitor",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "Librarian",
@@ -1617,7 +1622,7 @@
       "Name": "Trio",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "TrapMaster",
@@ -1625,7 +1630,7 @@
       "Name": "Trap Master",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "TreasureHunter",
@@ -1664,7 +1669,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 558,
+      "Progressed": 559,
       "Completed": 1
     }
   ],
@@ -1672,8 +1677,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-19T15:10:08.8216606+00:00",
+  "LastChanged_Achievements": "2023-12-19T16:10:36.8523021+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:31.304442+00:00",
-  "LastUpdate_Ratings": "2023-12-19T14:59:44.9014184+00:00",
-  "LastUpdate_Achievements": "2023-12-19T15:10:08.8217041+00:00"
+  "LastUpdate_Ratings": "2023-12-19T16:00:13.6788891+00:00",
+  "LastUpdate_Achievements": "2023-12-19T16:10:36.8523318+00:00"
 }

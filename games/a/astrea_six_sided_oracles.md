@@ -8,27 +8,27 @@
 | Purification Pioneer | 70.00% | ~135 |
 | Mechanical Buddy | 65.00% | ~125 |
 | Dicesmithing Time! | 59.00% | ~114 |
-| Sanctuary Guardian | 52.00% | ~100 |
+| Sanctuary Guardian | 53.00% | ~102 |
 | Endless Tricks | 49.00% | ~95 |
 | Wild's Keeper | 45.00% | ~87 |
 | Mind Illuminator | 42.00% | ~81 |
+| Noctuan Champion | 35.00% | ~68 |
 | Stellar Dismantler | 34.00% | ~66 |
-| Noctuan Champion | 34.00% | ~66 |
 | Anomaly Destroyer | 30.00% | ~58 |
-| Astral Adventurer | 29.00% | ~56 |
-| Star Killer | 26.00% | ~50 |
-| Eridanian Champion | 24.00% | ~46 |
+| Astral Adventurer | 30.00% | ~58 |
+| Star Killer | 27.00% | ~52 |
+| Eridanian Champion | 25.00% | ~48 |
 | Loyal Partner | 23.00% | ~44 |
 | Lacertian Champion | 23.00% | ~44 |
 | Apian Champion | 21.00% | ~41 |
 | Shard Spender | 19.00% | ~37 |
-| Unbeatable | 17.00% | ~33 |
+| Unbeatable | 18.00% | ~35 |
 | Behenian Champion | 16.00% | ~31 |
 | Sadistic Plan | 13.00% | ~25 |
+| Astral Seeker | 10.00% | ~19 |
 | Heavy Purger | 10.00% | ~19 |
 | Stellar Haste | 10.00% | ~19 |
 | Aquarian Champion | 10.00% | ~19 |
-| Astral Seeker | 9.00% | ~17 |
 | Heart Gate | 9.00% | ~17 |
 | Favored by the Cosmos | 8.00% | ~15 |
 | The Corruption Goddess | 8.00% | ~15 |
@@ -40,31 +40,31 @@
 | Anomaly Control | 5.00% | ~10 |
 | Denying Destiny | 5.00% | ~10 |
 | The Dark Moon | 5.00% | ~10 |
+| Lacertian Hero | 5.00% | ~10 |
 | If I Had Failed... | 4.00% | ~8 |
 | Prestidigitation | 4.00% | ~8 |
 | Purification Avatar | 4.00% | ~8 |
 | The Chaos Artisan | 4.00% | ~8 |
 | The Distorted Sage | 4.00% | ~8 |
 | Behenian Hero | 4.00% | ~8 |
-| Lacertian Hero | 4.00% | ~8 |
 | Noctuan Hero | 4.00% | ~8 |
 | Astrarium of Holding | 3.00% | ~6 |
 | The Abyssal Terror | 3.00% | ~6 |
+| The Raging Skies | 3.00% | ~6 |
 | Aquarian Hero | 3.00% | ~6 |
 | Behenian Mastery | 3.00% | ~6 |
 | Eridanian Hero | 3.00% | ~6 |
+| Astromancer | 2.00% | ~4 |
 | Critical Twist | 2.00% | ~4 |
 | Pocket Astrarium | 2.00% | ~4 |
 | Reflexive Mind | 2.00% | ~4 |
 | Sentinelphobic | 2.00% | ~4 |
 | The Ardent Prince | 2.00% | ~4 |
-| The Raging Skies | 2.00% | ~4 |
 | Aquarian Mastery | 2.00% | ~4 |
 | Eridanian Mastery | 2.00% | ~4 |
 | Lacertian Mastery | 2.00% | ~4 |
 | Noctuan Mastery | 2.00% | ~4 |
 | Astral Tinkerer | 1.00% | ~2 |
-| Astromancer | 1.00% | ~2 |
 | Plague Doctor | 1.00% | ~2 |
 | Royal Choir | 1.00% | ~2 |
 | Anomaly Master | 0.50% | ~1 |

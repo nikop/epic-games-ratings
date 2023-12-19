@@ -2,13 +2,13 @@
   "ID": "d66c34349a054c3ea529726a5687520e",
   "Name": "Wargame: Red Dragon",
   "ProductSlug": "wargame-red-dragon",
-  "Ranking_Rating": 233,
+  "Ranking_Rating": 232,
   "Ranking_Popularity": 151,
-  "Ranking_PopularitySum": 106,
+  "Ranking_PopularitySum": 105,
   "Ranking_EOS_Progress": 809,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 555,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 557,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-03-04T16:00:00+00:00",
     "PcReleaseDate": "2014-04-17T16:00:00+00:00",
@@ -6465,10 +6465,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 8220,
       "NumberOfAwardsMax": 1063
+    },
+    {
+      "Time": "2023-12-19T15:58:40.7235427+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 8221,
+      "NumberOfAwardsMax": 1063
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8220,
+  "NumberOfAwards": 8221,
   "NumberOfAwardsMax": 1063,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6494,7 +6500,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 947
+      "Count": 948
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6556,8 +6562,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:18.8189699+00:00",
-  "LastChanged": "2023-12-18T15:58:09.6983637+00:00",
+  "LastChanged": "2023-12-19T15:58:40.7235426+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:10.5878562+00:00",
-  "LastUpdate_Ratings": "2023-12-19T14:58:26.1192149+00:00",
-  "LastUpdate_Achievements": "2023-12-19T15:06:33.1560731+00:00"
+  "LastUpdate_Ratings": "2023-12-19T15:58:40.7235431+00:00",
+  "LastUpdate_Achievements": "2023-12-19T16:07:32.11351+00:00"
 }
