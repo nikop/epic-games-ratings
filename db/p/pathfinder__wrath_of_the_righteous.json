@@ -2,12 +2,12 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 130,
+  "Ranking_Rating": 131,
   "Ranking_Popularity": 124,
   "Ranking_PopularitySum": 123,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4557,10 +4557,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7150,
       "NumberOfAwardsMax": 1763
+    },
+    {
+      "Time": "2023-12-19T14:57:09.5966831+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7151,
+      "NumberOfAwardsMax": 1763
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7150,
+  "NumberOfAwards": 7151,
   "NumberOfAwardsMax": 1763,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4628,12 +4634,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 403
+      "Count": 404
     }
   ],
-  "EOS_Progressed": 12510,
+  "EOS_Progressed": 12514,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 220,
+  "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17366,6 +17372,11 @@
       "Time": "2023-12-19T14:09:45.3913565+00:00",
       "NumProgressed": 12510,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T15:10:08.2450268+00:00",
+      "NumProgressed": 12514,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -17377,7 +17388,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3378
+      "UsersEstimate": 3379
     },
     {
       "ID": "02_BurningCity",
@@ -17385,7 +17396,7 @@
       "Name": "Burning City",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2252
+      "UsersEstimate": 2253
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -17393,7 +17404,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1751
+      "UsersEstimate": 1752
     },
     {
       "ID": "04_FithCrusade",
@@ -17417,7 +17428,7 @@
       "Name": "Heart of the Fallen Land",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "07_FinalThreshold",
@@ -17513,7 +17524,7 @@
       "Name": "Mythic Choices",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1876
+      "UsersEstimate": 1877
     },
     {
       "ID": "19_EqualToAroden",
@@ -17577,7 +17588,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1501
+      "UsersEstimate": 1502
     },
     {
       "ID": "28_GreatUpstart",
@@ -17609,7 +17620,7 @@
       "Name": "Divide and Rule",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "32_MythicReinforcements",
@@ -17617,7 +17628,7 @@
       "Name": "Mythic Reinforcements",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "33_DefendersHeart",
@@ -17745,7 +17756,7 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2377
+      "UsersEstimate": 2378
     },
     {
       "ID": "49_Flame",
@@ -17761,7 +17772,7 @@
       "Name": "Hey, I Know You!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "51_DemonicAndDivine",
@@ -18304,21 +18315,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11292,
+      "Progressed": 11296,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12510,
+      "Progressed": 12514,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-12-18T18:01:21.2392845+00:00",
-  "LastChanged_Achievements": "2023-12-19T14:09:45.3913561+00:00",
+  "LastChanged": "2023-12-19T14:57:09.5966829+00:00",
+  "LastChanged_Achievements": "2023-12-19T15:10:08.2450263+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.7532096+00:00",
-  "LastUpdate_Ratings": "2023-12-19T13:07:38.9906547+00:00",
-  "LastUpdate_Achievements": "2023-12-19T14:09:45.3915165+00:00"
+  "LastUpdate_Ratings": "2023-12-19T14:57:09.5966834+00:00",
+  "LastUpdate_Achievements": "2023-12-19T15:10:08.2452108+00:00"
 }

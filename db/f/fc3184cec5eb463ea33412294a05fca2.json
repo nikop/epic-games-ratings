@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 48,
   "Ranking_EOS_NewPlayers": 393,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
     "PcReleaseDate": "2022-07-06T08:00:00+00:00",
@@ -1469,9 +1469,9 @@
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "8d3ci0",
       "Name": "Cruise ship",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 127
+      "UsersEstimate": 130
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -1493,9 +1493,9 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "8d3ci0",
       "Name": "High-rise",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 205
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -1549,9 +1549,9 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "8d3ci0",
       "Name": "Private pool",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 215
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -1565,9 +1565,9 @@
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "8d3ci0",
       "Name": "On fire",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 60,
-      "UsersEstimate": 121
+      "UsersEstimate": 124
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -1588,8 +1588,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-12-19T14:05:46.8216729+00:00",
+  "LastChanged_Achievements": "2023-12-19T15:06:21.2279969+00:00",
   "LastUpdate_AppInfo": "2023-12-17T03:57:04.3181788+00:00",
-  "LastUpdate_Ratings": "2023-12-19T13:57:17.2485608+00:00",
-  "LastUpdate_Achievements": "2023-12-19T14:05:46.821689+00:00"
+  "LastUpdate_Ratings": "2023-12-19T14:57:32.5996997+00:00",
+  "LastUpdate_Achievements": "2023-12-19T15:06:21.2280139+00:00"
 }

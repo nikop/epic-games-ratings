@@ -4,7 +4,7 @@
   "ProductSlug": "ugly-da09b2",
   "Ranking_EOS_Progress": 613,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 507,
+  "Ranking_EOS_NewPlayers": 506,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -324,9 +324,9 @@
       "ID": "MEM_VII",
       "SetID": "35d3i7a",
       "Name": "PUT ON THE F****** MASK!",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MEM_VIII",
@@ -547,8 +547,8 @@
   ],
   "FirstSeen": "2023-10-03T14:57:54.0765548+00:00",
   "FirstSeenAchievements": "2023-09-13T06:03:08.8902067+00:00",
-  "LastChanged_Achievements": "2023-12-19T14:09:46.191315+00:00",
+  "LastChanged_Achievements": "2023-12-19T15:10:08.9707776+00:00",
   "LastUpdate_AppInfo": "2023-12-13T14:57:06.321908+00:00",
-  "LastUpdate_Ratings": "2023-12-19T14:00:21.974073+00:00",
-  "LastUpdate_Achievements": "2023-12-19T14:09:46.1913468+00:00"
+  "LastUpdate_Ratings": "2023-12-19T15:02:37.0401781+00:00",
+  "LastUpdate_Achievements": "2023-12-19T15:10:08.9708195+00:00"
 }

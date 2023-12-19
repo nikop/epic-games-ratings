@@ -2,7 +2,7 @@
   "ID": "5f2fcf280d11455f8eab5c1e2a4d0392",
   "Name": "House Party",
   "ProductSlug": "house-party-ae8b27",
-  "Ranking_Rating": 827,
+  "Ranking_Rating": 828,
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 187,
@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6724,
+  "EOS_Progressed": 6726,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7142,6 +7142,11 @@
       "Time": "2023-12-19T12:07:41.944031+00:00",
       "NumProgressed": 6724,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-19T15:06:27.2212142+00:00",
+      "NumProgressed": 6726,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -7289,7 +7294,7 @@
       "Name": "Drunk and Disorderly: Stephanie",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "DoNotBurn",
@@ -7329,7 +7334,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "GoodRiddance",
@@ -7704,21 +7709,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3763,
+      "Progressed": 3765,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6724,
+      "Progressed": 6726,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-11-09T16:59:44.3369528+00:00",
-  "LastChanged_Achievements": "2023-12-19T14:05:52.2924172+00:00",
+  "LastChanged_Achievements": "2023-12-19T15:06:27.2212136+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:57:00.6837777+00:00",
-  "LastUpdate_Ratings": "2023-12-19T13:58:11.5228502+00:00",
-  "LastUpdate_Achievements": "2023-12-19T14:05:52.2925084+00:00"
+  "LastUpdate_Ratings": "2023-12-19T14:58:34.0857306+00:00",
+  "LastUpdate_Achievements": "2023-12-19T15:06:27.2212871+00:00"
 }

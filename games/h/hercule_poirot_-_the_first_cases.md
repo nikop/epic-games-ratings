@@ -1,35 +1,35 @@
 # Hercule Poirot - The First Cases
 [Store](https://store.epicgames.com/en-US/p/hercule-poirot-the-first-cases-584238)  
 [View Rawdata](../../db/h/hercule_poirot_-_the_first_cases.json)  
-Rating: 4.35 (Ranked 800)  
+Rating: 4.35 (Ranked 801)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It Wasn’t a Burglary | 89.00% | ~409 |
+| It Wasn’t a Burglary | 89.00% | ~410 |
 | Luc Piette | 76.00% | ~350 |
-| Angeline Van den Bosch | 73.00% | ~336 |
-| Elizabeth Padget | 70.00% | ~322 |
-| Little Grey Cells | 69.00% | ~317 |
+| Angeline Van den Bosch | 74.00% | ~341 |
+| Elizabeth Padget | 70.00% | ~323 |
+| Little Grey Cells | 69.00% | ~318 |
 | The Bracelet | 66.00% | ~304 |
-| The Blackmail | 55.00% | ~253 |
-| Major Felix Hagen | 55.00% | ~253 |
-| Florette Duval | 54.00% | ~248 |
+| The Blackmail | 55.00% | ~254 |
+| Major Felix Hagen | 55.00% | ~254 |
+| Florette Duval | 54.00% | ~249 |
 | Fine-toothed Comb | 53.00% | ~244 |
-| Order and Method | 52.00% | ~239 |
+| Order and Method | 52.00% | ~240 |
 | The Altercation | 50.00% | ~230 |
-| Truth from Within | 49.00% | ~225 |
-| The Major | 47.00% | ~216 |
+| Truth from Within | 49.00% | ~226 |
+| The Major | 47.00% | ~217 |
 | Comtesse Margaux de Vos | 45.00% | ~207 |
-| Curious and Beautiful | 44.00% | ~202 |
-| Jacqueline “Jackie” Conrad | 44.00% | ~202 |
-| The Interrogations | 44.00% | ~202 |
-| Well-acquainted | 42.00% | ~193 |
+| Curious and Beautiful | 44.00% | ~203 |
+| Jacqueline “Jackie” Conrad | 44.00% | ~203 |
+| The Interrogations | 44.00% | ~203 |
+| Well-acquainted | 41.00% | ~189 |
 | Zakariya Demir | 41.00% | ~189 |
-| Well-read | 40.00% | ~184 |
+| Well-read | 39.00% | ~180 |
 | Cassandra Van den Bosch | 38.00% | ~175 |
-| The Secret | 37.00% | ~170 |
+| The Secret | 37.00% | ~171 |
 | Gedeon Demir | 35.00% | ~161 |
-| Rehana Piette | 34.00% | ~156 |
+| Rehana Piette | 34.00% | ~157 |
 | Instinct is Marvellous | 33.00% | ~152 |
 | Ernesto da Silva | 33.00% | ~152 |
 | Inge Frank | 31.00% | ~143 |
@@ -43,7 +43,7 @@ Rating: 4.35 (Ranked 800)
 | Exquisite Artwork | 25.00% | ~115 |
 | Well-prepared | 21.00% | ~97 |
 | The Truth | 21.00% | ~97 |
-| I Like an Audience | 19.00% | ~87 |
+| I Like an Audience | 19.00% | ~88 |
 | Sunken Secrets | 18.00% | ~83 |
 | What Else Did I Miss? | 18.00% | ~83 |
 | The Denouement | 17.00% | ~78 |
@@ -52,7 +52,7 @@ Rating: 4.35 (Ranked 800)
 | Room with a View | 7.00% | ~32 |
 | Work-life Balance | 3.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 460 (Ranked 332)  
+Progressed: 461 (Ranked 332)  
 Completed: 6 (1.30%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,6 +140,7 @@ Completed: 6 (1.30%) (Ranked 152)
 | 2023-12-16 | 457 | 6 |
 | 2023-12-17 | 459 | 6 |
 | 2023-12-18 | 460 | 6 |
+| 2023-12-19 | 461 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

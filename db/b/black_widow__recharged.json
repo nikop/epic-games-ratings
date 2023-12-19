@@ -2,7 +2,7 @@
   "ID": "a25444fc25e9498781983b58ceba30c5",
   "Name": "Black Widow: Recharged",
   "ProductSlug": "black-widow-recharged",
-  "Ranking_Rating": 920,
+  "Ranking_Rating": 921,
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 143,
@@ -173,9 +173,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23128,
+  "EOS_Progressed": 23129,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 633,
+  "EOS_NewPlayers": 632,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -20633,6 +20633,11 @@
       "Time": "2023-12-19T14:03:41.4049773+00:00",
       "NumProgressed": 23128,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-19T15:04:04.8220341+00:00",
+      "NumProgressed": 23129,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 14,
@@ -20668,7 +20673,7 @@
       "Name": "Danger Ahead",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 6013
+      "UsersEstimate": 6014
     },
     {
       "ID": "ACH_DONT_BRING_ME_DOWN",
@@ -20724,7 +20729,7 @@
       "Name": "Look at Me Now",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 6013
+      "UsersEstimate": 6014
     },
     {
       "ID": "ACH_THE_FALL",
@@ -20732,7 +20737,7 @@
       "Name": "The Fall",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 3700
+      "UsersEstimate": 3701
     },
     {
       "ID": "ACH_TIME_OF_OUR_LIFE",
@@ -20755,15 +20760,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 23128,
+      "Progressed": 23129,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-11-02T20:58:32.2795394+00:00",
-  "LastChanged_Achievements": "2023-12-19T14:03:41.404977+00:00",
+  "LastChanged_Achievements": "2023-12-19T15:04:04.8220336+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:16.5568567+00:00",
-  "LastUpdate_Ratings": "2023-12-19T14:02:31.6805648+00:00",
-  "LastUpdate_Achievements": "2023-12-19T14:03:41.405083+00:00"
+  "LastUpdate_Ratings": "2023-12-19T15:02:47.2376618+00:00",
+  "LastUpdate_Achievements": "2023-12-19T15:04:04.8221415+00:00"
 }

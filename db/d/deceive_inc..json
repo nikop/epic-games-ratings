@@ -2,7 +2,7 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 455,
+  "Ranking_Rating": 456,
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 146,
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19106,
+  "EOS_Progressed": 19107,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13869,6 +13869,11 @@
       "Time": "2023-12-19T14:04:57.3861075+00:00",
       "NumProgressed": 19106,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-19T15:05:27.8430387+00:00",
+      "NumProgressed": 19107,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -13944,7 +13949,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4394
+      "UsersEstimate": 4395
     },
     {
       "ID": "0010",
@@ -14064,7 +14069,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4203
+      "UsersEstimate": 4204
     },
     {
       "ID": "0025",
@@ -14096,7 +14101,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4394
+      "UsersEstimate": 4395
     },
     {
       "ID": "0029",
@@ -14167,7 +14172,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19106,
+      "Progressed": 19107,
       "Completed": 4
     }
   ],
@@ -14175,8 +14180,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-11-20T16:57:01.0774379+00:00",
-  "LastChanged_Achievements": "2023-12-19T14:04:57.3861071+00:00",
+  "LastChanged_Achievements": "2023-12-19T15:05:27.8430382+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:23.0079073+00:00",
-  "LastUpdate_Ratings": "2023-12-19T13:57:06.543524+00:00",
-  "LastUpdate_Achievements": "2023-12-19T14:04:57.3862135+00:00"
+  "LastUpdate_Ratings": "2023-12-19T14:57:20.2149706+00:00",
+  "LastUpdate_Achievements": "2023-12-19T15:05:27.8431329+00:00"
 }

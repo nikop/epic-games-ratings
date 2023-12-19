@@ -2,13 +2,13 @@
   "ID": "6ff9efdef6dc45ecb40ed20fcd2c4621",
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
-  "Ranking_Rating": 260,
+  "Ranking_Rating": 261,
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9918,9 +9918,9 @@
       "Count": 1031
     }
   ],
-  "EOS_Progressed": 128511,
+  "EOS_Progressed": 128522,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2147,
+  "EOS_NewPlayers": 2141,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35813,6 +35813,11 @@
       "Time": "2023-12-19T14:08:58.7218502+00:00",
       "NumProgressed": 128511,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-19T15:09:18.3920947+00:00",
+      "NumProgressed": 128522,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35926,9 +35931,9 @@
       "ID": "altar_of_hope_upgrade_total_quarter",
       "SetID": "64l4lke",
       "Name": "Hope Rekindled",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1157
+      "UsersEstimate": 1285
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -35952,7 +35957,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5140
+      "UsersEstimate": 5141
     },
     {
       "ID": "combat_kill_cadavers",
@@ -35976,7 +35981,7 @@
       "Name": "Not Today!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3855
+      "UsersEstimate": 3856
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -35984,7 +35989,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3855
+      "UsersEstimate": 3856
     },
     {
       "ID": "combat_kill_fanatics",
@@ -36024,7 +36029,7 @@
       "Name": "Meat and Greet",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3855
+      "UsersEstimate": 3856
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -36040,7 +36045,7 @@
       "Name": "Catch and Decease",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3855
+      "UsersEstimate": 3856
     },
     {
       "ID": "combat_kill_librarian",
@@ -36048,7 +36053,7 @@
       "Name": "Overdue Notice",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3855
+      "UsersEstimate": 3856
     },
     {
       "ID": "combat_kill_pillagers",
@@ -36064,7 +36069,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3855
+      "UsersEstimate": 3856
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -36176,7 +36181,7 @@
       "Name": "Autodidact",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5140
+      "UsersEstimate": 5141
     },
     {
       "ID": "hero_story_complete_all",
@@ -36360,7 +36365,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "combat_kill_collector",
@@ -36368,7 +36373,7 @@
       "Name": "This guy... again?",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -36408,7 +36413,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -36416,7 +36421,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "quest_complete_crusader",
@@ -36424,7 +36429,7 @@
       "Name": "Lost and Found",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -36455,21 +36460,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 128511,
+      "Progressed": 128522,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 3380,
+      "Progressed": 3391,
       "Completed": 802
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-19T13:58:45.7072148+00:00",
-  "LastChanged_Achievements": "2023-12-19T14:08:58.7218498+00:00",
+  "LastChanged_Achievements": "2023-12-19T15:09:18.3920939+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-19T13:58:45.7072155+00:00",
-  "LastUpdate_Achievements": "2023-12-19T14:08:58.7220216+00:00"
+  "LastUpdate_Ratings": "2023-12-19T14:59:11.1513871+00:00",
+  "LastUpdate_Achievements": "2023-12-19T15:09:18.3922508+00:00"
 }

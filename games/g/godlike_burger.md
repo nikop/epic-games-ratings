@@ -1,24 +1,24 @@
 # Godlike Burger
 [Store](https://store.epicgames.com/en-US/p/godlike-burger-4150a0)  
 [View Rawdata](../../db/g/godlike_burger.json)  
-Rating: 4.51 (Ranked 579)  
+Rating: 4.51 (Ranked 580)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~174,322 |
-| FIRST BLOOD | 40.00% | ~154,953 |
-| KEVIN! | 30.00% | ~116,215 |
-| JACK OF ALL TRADES | 23.00% | ~89,098 |
-| CRIMINAL | 20.00% | ~77,477 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~42,612 |
-| WITHOUT BREAKING A SWEAT | 9.00% | ~34,864 |
-| HONORS STUDENT | 8.00% | ~30,991 |
-| BUTCHER | 6.00% | ~23,243 |
-| INDIVIDUAL APPROACH | 5.00% | ~19,369 |
-| RAMBO | 5.00% | ~19,369 |
-| HELL'S KITCHEN | 4.00% | ~15,495 |
-| CELEBRITY | 3.00% | ~11,621 |
-| MARTYR | 3.00% | ~11,621 |
+| MASTER CHEF | 45.00% | ~174,336 |
+| FIRST BLOOD | 40.00% | ~154,966 |
+| KEVIN! | 30.00% | ~116,224 |
+| JACK OF ALL TRADES | 23.00% | ~89,105 |
+| CRIMINAL | 20.00% | ~77,483 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~42,616 |
+| WITHOUT BREAKING A SWEAT | 9.00% | ~34,867 |
+| HONORS STUDENT | 8.00% | ~30,993 |
+| BUTCHER | 6.00% | ~23,245 |
+| INDIVIDUAL APPROACH | 5.00% | ~19,371 |
+| RAMBO | 5.00% | ~19,371 |
+| HELL'S KITCHEN | 4.00% | ~15,497 |
+| CELEBRITY | 3.00% | ~11,622 |
+| MARTYR | 3.00% | ~11,622 |
 | GRATITUDE | 2.00% | ~7,748 |
 | PATTY-KILLER | 2.00% | ~7,748 |
 | EXPERIMENTALIST | 1.00% | ~3,874 |
@@ -34,7 +34,7 @@ Rating: 4.51 (Ranked 579)
 | MISTER ALL THUMBS | 0.10% | ~387 |
 | TRAVELER | 0.10% | ~387 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 387,383 (Ranked 47)  
+Progressed: 387,414 (Ranked 47)  
 Completed: 51 (0.01%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 51 (0.01%) (Ranked 359)
 | 2023-12-16 | 386,180 | 49 |
 | 2023-12-17 | 386,772 | 49 |
 | 2023-12-18 | 387,178 | 51 |
-| 2023-12-19 | 387,383 | 51 |
+| 2023-12-19 | 387,414 | 51 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

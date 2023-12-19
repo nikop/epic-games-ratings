@@ -1,12 +1,12 @@
 # ToeJam & Earl: Back in the Groove!
 [Store](https://store.epicgames.com/en-US/p/toejam-and-earl-back-in-the-groove-cddc16)  
 [View Rawdata](../../db/t/toejam_&_earl__back_in_the_groove!.json)  
-Rating: 4.33 (Ranked 827)  
+Rating: 4.33 (Ranked 828)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Food Taster | 10.00% | ~5,832 |
-| Fall Fest | 8.00% | ~4,665 |
+| Fall Fest | 8.00% | ~4,666 |
 | Thrill Seeker | 7.00% | ~4,082 |
 | HFZ Goober | 6.00% | ~3,499 |
 | Flying Present Catcher | 5.00% | ~2,916 |
@@ -55,7 +55,7 @@ Rating: 4.33 (Ranked 827)
 | Why Do I Keep Doing That? | 0.10% | ~58 |
 | Hey, You Did It! | 0.10% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,318 (Ranked 112)  
+Progressed: 58,319 (Ranked 112)  
 Completed: 6 (0.01%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 6 (0.01%) (Ranked 359)
 | 2023-12-16 | 58,281 | 6 |
 | 2023-12-17 | 58,299 | 6 |
 | 2023-12-18 | 58,313 | 6 |
-| 2023-12-19 | 58,318 | 6 |
+| 2023-12-19 | 58,319 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

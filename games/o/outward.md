@@ -1,16 +1,16 @@
 # Outward Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/outward)  
 [View Rawdata](../../db/o/outward.json)  
-Rating: 4.55 (Ranked 511)  
+Rating: 4.55 (Ranked 512)  
 Number of Ratings: 266  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 74.00% | ~2,978 |
+| Venture Outward | 74.00% | ~2,979 |
 | Ready for Winter | 63.00% | ~2,536 |
-| Ready for Summer | 50.00% | ~2,012 |
+| Ready for Summer | 50.00% | ~2,013 |
 | Cordon Bleu | 43.00% | ~1,731 |
-| Tapped! | 37.00% | ~1,489 |
+| Tapped! | 37.00% | ~1,490 |
 | Eureka | 32.00% | ~1,288 |
 | Scourge Slayer | 25.00% | ~1,006 |
 | Science, Troglodyte! | 23.00% | ~926 |
@@ -37,10 +37,10 @@ Number of Ratings: 266  (23.09.2022)
 | Memory of a legend | 4.00% | ~161 |
 | Light of Levant | 3.00% | ~121 |
 | This was a mistake... | 3.00% | ~121 |
-| Crowd Pleaser. | 2.00% | ~80 |
-| Perfect Defense | 2.00% | ~80 |
-| Power! To! The People! | 2.00% | ~80 |
-| Your actions define you | 2.00% | ~80 |
+| Crowd Pleaser. | 2.00% | ~81 |
+| Perfect Defense | 2.00% | ~81 |
+| Power! To! The People! | 2.00% | ~81 |
+| Your actions define you | 2.00% | ~81 |
 | The blood is life | 1.00% | ~40 |
 | They'll Tell Stories About This | 1.00% | ~40 |
 | Vanquisher of nightmares | 1.00% | ~40 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~12 |
 | The Absolute Pinnacle. | 0.30% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,025 (Ranked 205)  
+Progressed: 4,026 (Ranked 205)  
 Completed: 5 (0.12%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 5 (0.12%) (Ranked 292)
 | 2023-12-16 | 3,940 | 5 |
 | 2023-12-17 | 3,981 | 5 |
 | 2023-12-18 | 4,009 | 5 |
-| 2023-12-19 | 4,025 | 5 |
+| 2023-12-19 | 4,026 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 484)  
 Sum: 246 (Ranked 391)  

@@ -2,7 +2,7 @@
   "ID": "f2d5f78997994c9891b8f23d962be28e",
   "Name": "Lords of the Fallen",
   "ProductSlug": "lords-of-the-fallen",
-  "Ranking_Rating": 928,
+  "Ranking_Rating": 929,
   "Ranking_Popularity": 283,
   "Ranking_PopularitySum": 323,
   "Ranking_EOS_Progress": 195,
@@ -1005,9 +1005,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5559,
+  "EOS_Progressed": 5582,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3216,
+  "EOS_NewPlayers": 3239,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -5390,6 +5390,11 @@
       "Time": "2023-12-19T14:08:36.7420018+00:00",
       "NumProgressed": 5559,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-19T15:08:54.8012475+00:00",
+      "NumProgressed": 5582,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-23T12:04:43.6042359+00:00",
@@ -5905,7 +5910,7 @@
     {
       "ID": "87e61g",
       "IsBase": true,
-      "Progressed": 5559,
+      "Progressed": 5582,
       "Completed": 2
     }
   ],
@@ -5913,8 +5918,8 @@
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
   "LastChanged": "2023-12-18T21:57:05.4113537+00:00",
-  "LastChanged_Achievements": "2023-12-19T14:08:36.7420015+00:00",
+  "LastChanged_Achievements": "2023-12-19T15:08:54.801247+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:35.9560906+00:00",
-  "LastUpdate_Ratings": "2023-12-19T13:57:31.1549766+00:00",
-  "LastUpdate_Achievements": "2023-12-19T14:08:36.7420654+00:00"
+  "LastUpdate_Ratings": "2023-12-19T14:57:48.3632686+00:00",
+  "LastUpdate_Achievements": "2023-12-19T15:08:54.8013156+00:00"
 }

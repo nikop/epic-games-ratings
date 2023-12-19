@@ -2,12 +2,12 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 745,
+  "Ranking_Rating": 746,
   "Ranking_Popularity": 432,
   "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -1351,9 +1351,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 259491,
+  "EOS_Progressed": 259497,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 217,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24546,6 +24546,11 @@
       "Time": "2023-12-19T14:06:02.1923152+00:00",
       "NumProgressed": 259491,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-19T15:06:37.7302962+00:00",
+      "NumProgressed": 259497,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -24557,7 +24562,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 18164
+      "UsersEstimate": 18165
     },
     {
       "ID": "Act2",
@@ -24605,7 +24610,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80442
+      "UsersEstimate": 80444
     },
     {
       "ID": "BackHomeNTimes",
@@ -24661,7 +24666,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25949
+      "UsersEstimate": 25950
     },
     {
       "ID": "CreditLevel2",
@@ -24757,7 +24762,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15569
+      "UsersEstimate": 15570
     },
     {
       "ID": "GrowPlants2",
@@ -24813,7 +24818,7 @@
       "Name": "Cleaning Company",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15569
+      "UsersEstimate": 15570
     },
     {
       "ID": "KillOtherWithKatana",
@@ -24845,7 +24850,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59683
+      "UsersEstimate": 59684
     },
     {
       "ID": "KillOthers2",
@@ -24949,7 +24954,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25949
+      "UsersEstimate": 25950
     },
     {
       "ID": "ReachNDays2",
@@ -25004,7 +25009,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 259491,
+      "Progressed": 259497,
       "Completed": 3
     }
   ],
@@ -25012,8 +25017,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-12-18T11:58:36.2981098+00:00",
-  "LastChanged_Achievements": "2023-12-19T14:06:02.1923147+00:00",
+  "LastChanged_Achievements": "2023-12-19T15:06:37.7302956+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.6293608+00:00",
-  "LastUpdate_Ratings": "2023-12-19T13:58:29.1530137+00:00",
-  "LastUpdate_Achievements": "2023-12-19T14:06:02.1924445+00:00"
+  "LastUpdate_Ratings": "2023-12-19T14:58:53.9181439+00:00",
+  "LastUpdate_Achievements": "2023-12-19T15:06:37.7304124+00:00"
 }

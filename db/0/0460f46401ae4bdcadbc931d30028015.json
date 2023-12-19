@@ -2,12 +2,12 @@
   "ID": "0460f46401ae4bdcadbc931d30028015",
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
-  "Ranking_Rating": 938,
+  "Ranking_Rating": 939,
   "Ranking_Popularity": 432,
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -1035,9 +1035,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4887,
+  "EOS_Progressed": 4888,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 749,
+  "EOS_NewPlayers": 750,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7755,6 +7755,11 @@
       "Time": "2023-12-19T13:08:48.8077492+00:00",
       "NumProgressed": 4887,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T15:04:01.3196838+00:00",
+      "NumProgressed": 4888,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -7767,7 +7772,7 @@
       "Name": "Primetime",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "achievement_10",
@@ -7775,7 +7780,7 @@
       "Name": "Stud Finder",
       "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 1759
+      "UsersEstimate": 1760
     },
     {
       "ID": "achievement_11",
@@ -7783,7 +7788,7 @@
       "Name": "Big Spender",
       "Percentage": 20,
       "XP": 60,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "achievement_12",
@@ -7791,7 +7796,7 @@
       "Name": "Dealmaker",
       "Percentage": 27,
       "XP": 60,
-      "UsersEstimate": 1319
+      "UsersEstimate": 1320
     },
     {
       "ID": "achievement_13",
@@ -7807,7 +7812,7 @@
       "Name": "ROTY",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 1759
+      "UsersEstimate": 1760
     },
     {
       "ID": "achievement_15",
@@ -7863,7 +7868,7 @@
       "Name": "Saw It Coming",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 2834
+      "UsersEstimate": 2835
     },
     {
       "ID": "achievement_21",
@@ -7919,7 +7924,7 @@
       "Name": "Bragging Rights",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 1368
+      "UsersEstimate": 1369
     },
     {
       "ID": "achievement_9",
@@ -7934,7 +7939,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 4887,
+      "Progressed": 4888,
       "Completed": 0
     }
   ],
@@ -7942,8 +7947,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-12-19T02:22:20.6886298+00:00",
-  "LastChanged_Achievements": "2023-12-19T14:03:38.1726285+00:00",
+  "LastChanged_Achievements": "2023-12-19T15:04:01.3196833+00:00",
   "LastUpdate_AppInfo": "2023-12-14T08:57:09.6557001+00:00",
-  "LastUpdate_Ratings": "2023-12-19T13:59:18.7766167+00:00",
-  "LastUpdate_Achievements": "2023-12-19T14:03:38.1726795+00:00"
+  "LastUpdate_Ratings": "2023-12-19T14:59:49.1827511+00:00",
+  "LastUpdate_Achievements": "2023-12-19T15:04:01.3197204+00:00"
 }

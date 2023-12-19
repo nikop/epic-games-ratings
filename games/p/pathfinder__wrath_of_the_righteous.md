@@ -1,18 +1,18 @@
 # Pathfinder: Wrath of the Righteous - Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/pathfinder-wrath-of-the-righteous)  
 [View Rawdata](../../db/p/pathfinder__wrath_of_the_righteous.json)  
-Rating: 4.76 (Ranked 130)  
+Rating: 4.76 (Ranked 131)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,378 |
-| A Spark | 19.00% | ~2,377 |
-| Burning City | 18.00% | ~2,252 |
+| Devoured by Darkness | 27.00% | ~3,379 |
+| A Spark | 19.00% | ~2,378 |
+| Burning City | 18.00% | ~2,253 |
 | Defender's Heart | 16.00% | ~2,002 |
-| Mythic Choices | 15.00% | ~1,876 |
-| Banner over the Citadel | 14.00% | ~1,751 |
-| Queen's Gratitude | 12.00% | ~1,501 |
+| Mythic Choices | 15.00% | ~1,877 |
+| Banner over the Citadel | 14.00% | ~1,752 |
+| Queen's Gratitude | 12.00% | ~1,502 |
 | Fifth Crusade | 9.00% | ~1,126 |
 | Embrace of the Abyss | 7.00% | ~876 |
 | Path of the Angel | 7.00% | ~876 |
@@ -26,10 +26,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | A Flame | 5.00% | ~626 |
 | Next-Door Play | 5.00% | ~626 |
 | Get the Toad | 5.00% | ~626 |
-| Heart of the Fallen Land | 4.00% | ~500 |
-| Divide and Rule | 4.00% | ~500 |
-| Mythic Reinforcements | 4.00% | ~500 |
-| Hey, I Know You! | 4.00% | ~500 |
+| Heart of the Fallen Land | 4.00% | ~501 |
+| Divide and Rule | 4.00% | ~501 |
+| Mythic Reinforcements | 4.00% | ~501 |
+| Hey, I Know You! | 4.00% | ~501 |
 | Path of the Trickster | 3.00% | ~375 |
 | Path of the Lich | 3.00% | ~375 |
 | Heroic Victory | 3.00% | ~375 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,510 (Ranked 167)  
+Progressed: 12,514 (Ranked 167)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -366,10 +366,10 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-16 | 12,405 | 0 |
 | 2023-12-17 | 12,459 | 0 |
 | 2023-12-18 | 12,490 | 0 |
-| 2023-12-19 | 12,510 | 0 |
+| 2023-12-19 | 12,514 | 0 |
 ## Awards
 Max (Character Customization): 1,763  (Ranked 124)  
-Sum: 7,150 (Ranked 123)  
+Sum: 7,151 (Ranked 123)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
@@ -382,7 +382,7 @@ Diff (max vs sum): 1
 | This game has Challenging Combat | 597 |
 | This game has Quickly Understood Controls | 582 |
 | This game is Relaxing | 563 |
-| This game has a Creative Community | 403 |
+| This game has a Creative Community | 404 |
 | This game has Obsessive Gameplay | 364 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -682,3 +682,4 @@ Diff (max vs sum): 1
 | 2023-12-16 | 4.76 | - | 1,761 | 7,143 |
 | 2023-12-17 | 4.76 | - | 1,763 | 7,148 |
 | 2023-12-18 | 4.76 | - | 1,763 | 7,150 |
+| 2023-12-19 | 4.76 | - | 1,763 | 7,151 |

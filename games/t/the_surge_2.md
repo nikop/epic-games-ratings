@@ -1,37 +1,37 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.26 (Ranked 882)  
+Rating: 4.26 (Ranked 884)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,837 |
-| Don't I Know You...? | 76.00% | ~1,745 |
-| Jailbreak | 66.00% | ~1,515 |
-| Suited and Booted | 39.00% | ~895 |
-| HEADSHOT! | 38.00% | ~872 |
+| Rigged And Ready | 80.00% | ~1,838 |
+| Don't I Know You...? | 76.00% | ~1,746 |
+| Jailbreak | 65.00% | ~1,494 |
+| HEADSHOT! | 38.00% | ~873 |
+| Suited and Booted | 38.00% | ~873 |
 | Sleeping With The Fishes | 36.00% | ~827 |
 | Overheated | 30.00% | ~689 |
 | High Performance | 30.00% | ~689 |
 | Powered Up | 28.00% | ~643 |
 | Studied The Blade | 25.00% | ~574 |
-| Home Invasion | 23.00% | ~528 |
-| Luminary | 23.00% | ~528 |
-| True Survivor | 22.00% | ~505 |
-| It's a Trap | 22.00% | ~505 |
-| Offensive Defense | 20.00% | ~459 |
-| Shocking | 20.00% | ~459 |
-| Unforeseeable Consequences | 20.00% | ~459 |
-| Court Martial | 19.00% | ~436 |
-| Clean Cut | 19.00% | ~436 |
-| Dead Again | 18.00% | ~413 |
-| Full Arsenal | 17.00% | ~390 |
-| Can't Trust Banks | 15.00% | ~344 |
-| Mommy Dearest | 14.00% | ~321 |
-| Bad Dog | 13.00% | ~298 |
-| Where It All Began | 13.00% | ~298 |
-| Risk Tolerant | 13.00% | ~298 |
-| What A Catchy Song | 13.00% | ~298 |
+| Home Invasion | 23.00% | ~529 |
+| Luminary | 22.00% | ~506 |
+| It's a Trap | 22.00% | ~506 |
+| True Survivor | 21.00% | ~483 |
+| Offensive Defense | 20.00% | ~460 |
+| Shocking | 20.00% | ~460 |
+| Unforeseeable Consequences | 20.00% | ~460 |
+| Court Martial | 19.00% | ~437 |
+| Clean Cut | 19.00% | ~437 |
+| Dead Again | 18.00% | ~414 |
+| Full Arsenal | 17.00% | ~391 |
+| Can't Trust Banks | 15.00% | ~345 |
+| Mommy Dearest | 14.00% | ~322 |
+| Bad Dog | 13.00% | ~299 |
+| Where It All Began | 13.00% | ~299 |
+| Risk Tolerant | 13.00% | ~299 |
+| What A Catchy Song | 13.00% | ~299 |
 | Corrupted Beauty | 12.00% | ~276 |
 | Marked For Success | 12.00% | ~276 |
 | Sorry, Didn't See You There | 12.00% | ~276 |
@@ -63,7 +63,7 @@ Rating: 4.26 (Ranked 882)
 | Three Birds With One Stone | 1.00% | ~23 |
 | The Easy Way Out | 1.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,296 (Ranked 228)  
+Progressed: 2,298 (Ranked 228)  
 Completed: 13 (0.57%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 13 (0.57%) (Ranked 203)
 | 2023-12-16 | 2,261 | 13 |
 | 2023-12-17 | 2,275 | 13 |
 | 2023-12-18 | 2,293 | 13 |
-| 2023-12-19 | 2,296 | 13 |
+| 2023-12-19 | 2,298 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

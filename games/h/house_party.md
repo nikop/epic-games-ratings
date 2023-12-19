@@ -1,12 +1,12 @@
 # House Party
 [Store](https://store.epicgames.com/en-US/p/house-party-ae8b27)  
 [View Rawdata](../../db/h/house_party.json)  
-Rating: 4.33 (Ranked 827)  
+Rating: 4.33 (Ranked 828)  
 Number of Ratings: 177  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Friend in Need... | 6.00% | ~403 |
+| A Friend in Need... | 6.00% | ~404 |
 | Smooth Operator: Madison | 5.00% | ~336 |
 | The Brahdyssey | 3.00% | ~202 |
 | Caught in the Act | 3.00% | ~202 |
@@ -14,7 +14,7 @@ Number of Ratings: 177  (23.09.2022)
 | Life Found a Way | 3.00% | ~113 |
 | Relentless | 3.00% | ~202 |
 | If at First You Don't Succeed... | 3.00% | ~202 |
-| Drunk and Disorderly: Stephanie | 2.00% | ~134 |
+| Drunk and Disorderly: Stephanie | 2.00% | ~135 |
 | Amy | 1.00% | ~67 |
 | Drunk and Disorderly: Ashley | 1.00% | ~67 |
 | IRL Let's Player | 1.00% | ~67 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~7 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,724 (Ranked 187)  
+Progressed: 6,726 (Ranked 187)  
 Completed: 3 (0.04%) (Ranked 340)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 3 (0.04%) (Ranked 340)
 | 2023-12-16 | 6,670 | 3 |
 | 2023-12-17 | 6,705 | 3 |
 | 2023-12-18 | 6,720 | 3 |
-| 2023-12-19 | 6,724 | 3 |
+| 2023-12-19 | 6,726 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

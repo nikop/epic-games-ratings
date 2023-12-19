@@ -2,7 +2,7 @@
   "ID": "e18be81f77f346dfbc4467f4ed715e27",
   "Name": "Blanc",
   "ProductSlug": "blanc-703b40",
-  "Ranking_EOS_Progress": 210,
+  "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 158,
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3605,
+  "EOS_Progressed": 3607,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -5676,6 +5676,11 @@
       "Time": "2023-12-19T11:05:15.9868551+00:00",
       "NumProgressed": 3605,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-19T15:04:38.3673823+00:00",
+      "NumProgressed": 3607,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -5695,7 +5700,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "FALLEN_TREE",
@@ -5775,7 +5780,7 @@
       "Name": "Transmission",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
@@ -5790,7 +5795,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3605,
+      "Progressed": 3607,
       "Completed": 6
     }
   ],
@@ -5798,8 +5803,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-19T14:04:12.2978295+00:00",
+  "LastChanged_Achievements": "2023-12-19T15:04:38.3673816+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:23.2126403+00:00",
-  "LastUpdate_Ratings": "2023-12-19T13:58:56.2450526+00:00",
-  "LastUpdate_Achievements": "2023-12-19T14:04:12.2978681+00:00"
+  "LastUpdate_Ratings": "2023-12-19T14:59:23.384138+00:00",
+  "LastUpdate_Achievements": "2023-12-19T15:04:38.3674257+00:00"
 }

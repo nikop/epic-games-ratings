@@ -2,13 +2,13 @@
   "ID": "135201128d4f428699a891fc501a5097",
   "Name": "Scorn",
   "ProductSlug": "scorn",
-  "Ranking_Rating": 657,
+  "Ranking_Rating": 658,
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-10-14T10:00:00+00:00",
     "PcReleaseDate": "2022-10-14T10:00:00+00:00",
@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2696,
+  "EOS_Progressed": 2698,
   "EOS_Completed": 188,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 6.97,
   "EosHistory": [
@@ -4110,6 +4110,11 @@
       "Time": "2023-12-19T14:08:15.3484457+00:00",
       "NumProgressed": 2696,
       "NumCompleted": 188
+    },
+    {
+      "Time": "2023-12-19T15:08:31.8857786+00:00",
+      "NumProgressed": 2698,
+      "NumCompleted": 188
     }
   ],
   "TotalAchievements": 12,
@@ -4129,7 +4134,7 @@
       "Name": "002",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "003",
@@ -4137,7 +4142,7 @@
       "Name": "003",
       "Percentage": 17,
       "XP": 80,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "004",
@@ -4145,7 +4150,7 @@
       "Name": "004",
       "Percentage": 16,
       "XP": 80,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "005",
@@ -4153,7 +4158,7 @@
       "Name": "005",
       "Percentage": 15,
       "XP": 80,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "006",
@@ -4216,7 +4221,7 @@
     {
       "ID": "94k0mj8",
       "IsBase": true,
-      "Progressed": 2696,
+      "Progressed": 2698,
       "Completed": 188
     }
   ],
@@ -4224,8 +4229,8 @@
   "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.2661117+00:00",
   "LastChanged": "2023-11-28T11:59:38.0602265+00:00",
-  "LastChanged_Achievements": "2023-12-19T14:08:15.3484453+00:00",
+  "LastChanged_Achievements": "2023-12-19T15:08:31.885778+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:35.1188589+00:00",
-  "LastUpdate_Ratings": "2023-12-19T13:57:54.242222+00:00",
-  "LastUpdate_Achievements": "2023-12-19T14:08:15.3484758+00:00"
+  "LastUpdate_Ratings": "2023-12-19T14:58:13.6920346+00:00",
+  "LastUpdate_Achievements": "2023-12-19T15:08:31.8858097+00:00"
 }

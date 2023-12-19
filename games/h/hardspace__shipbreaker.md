@@ -1,17 +1,17 @@
 # Hardspace: Shipbreaker
 [Store](https://store.epicgames.com/en-US/p/hardspace-shipbreaker)  
 [View Rawdata](../../db/h/hardspace__shipbreaker.json)  
-Rating: 4.67 (Ranked 279)  
+Rating: 4.67 (Ranked 280)  
 Number of Ratings: 36  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breathe In… Breathe Out… | 73.00% | ~727 |
-| It’s Heating up! | 69.00% | ~687 |
-| Let’s patch things up | 65.00% | ~647 |
+| Breathe In… Breathe Out… | 73.00% | ~728 |
+| It’s Heating up! | 69.00% | ~688 |
+| Let’s patch things up | 65.00% | ~648 |
 | I can fix it! | 62.00% | ~618 |
-| Post No Bills | 55.00% | ~548 |
-| Truly Shocking! | 48.00% | ~478 |
+| Post No Bills | 54.00% | ~538 |
+| Truly Shocking! | 48.00% | ~479 |
 | Critical Thinker | 36.00% | ~359 |
 | Always Finding Your Mark | 30.00% | ~299 |
 | Act I Complete | 29.00% | ~289 |
@@ -34,7 +34,7 @@ Number of Ratings: 36  (23.09.2022)
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 996 (Ranked 277)  
+Progressed: 997 (Ranked 277)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-16 | 985 | 0 |
 | 2023-12-17 | 989 | 0 |
 | 2023-12-18 | 994 | 0 |
-| 2023-12-19 | 996 | 0 |
+| 2023-12-19 | 997 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

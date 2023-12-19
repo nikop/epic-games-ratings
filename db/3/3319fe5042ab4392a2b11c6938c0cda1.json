@@ -4,7 +4,7 @@
   "ProductSlug": "thief-5bb95f",
   "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
@@ -382,9 +382,9 @@
       "ID": "NEW_ACHIEVEMENT_1_19",
       "SetID": "ae95dh3",
       "Name": "Hidden Agenda",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -454,9 +454,9 @@
       "ID": "NEW_ACHIEVEMENT_1_27",
       "SetID": "ae95dh3",
       "Name": "The Drop",
-      "Percentage": 66,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_28",
@@ -486,9 +486,9 @@
       "ID": "NEW_ACHIEVEMENT_1_30",
       "SetID": "ae95dh3",
       "Name": "Dirty Secrets",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_31",
@@ -597,8 +597,8 @@
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2023-12-19T14:05:25.7759984+00:00",
+  "LastChanged_Achievements": "2023-12-19T15:05:58.5618397+00:00",
   "LastUpdate_AppInfo": "2023-12-13T16:57:09.7184739+00:00",
-  "LastUpdate_Ratings": "2023-12-19T13:59:45.07206+00:00",
-  "LastUpdate_Achievements": "2023-12-19T14:05:25.7760253+00:00"
+  "LastUpdate_Ratings": "2023-12-19T15:00:17.0864281+00:00",
+  "LastUpdate_Achievements": "2023-12-19T15:05:58.5618618+00:00"
 }

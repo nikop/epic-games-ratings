@@ -2,12 +2,12 @@
   "ID": "6ea398b9c2244250a9177c0b8a69b5cd",
   "Name": "Prey",
   "ProductSlug": "prey",
-  "Ranking_Rating": 352,
+  "Ranking_Rating": 353,
   "Ranking_Popularity": 67,
   "Ranking_PopularitySum": 112,
   "Ranking_EOS_Progress": 809,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 554,
+  "Ranking_EOS_NewPlayers": 555,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-09-09T15:00:00+00:00",
@@ -4248,11 +4248,17 @@
       "Rating": 4.63,
       "NumberOfAwards": 7902,
       "NumberOfAwardsMax": 5827
+    },
+    {
+      "Time": "2023-12-19T14:59:48.4506253+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 7905,
+      "NumberOfAwardsMax": 5830
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7902,
-  "NumberOfAwardsMax": 5827,
+  "NumberOfAwards": 7905,
+  "NumberOfAwardsMax": 5830,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
@@ -4307,7 +4313,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 5827
+      "Count": 5830
     },
     {
       "Text": "This game has Challenging Combat",
@@ -4327,8 +4333,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:29.7707864+00:00",
-  "LastChanged": "2023-12-19T13:04:21.175944+00:00",
+  "LastChanged": "2023-12-19T14:59:48.4506251+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.9681865+00:00",
-  "LastUpdate_Ratings": "2023-12-19T13:59:18.0495615+00:00",
-  "LastUpdate_Achievements": "2023-12-19T14:03:42.7042356+00:00"
+  "LastUpdate_Ratings": "2023-12-19T14:59:48.4506255+00:00",
+  "LastUpdate_Achievements": "2023-12-19T15:04:06.164188+00:00"
 }

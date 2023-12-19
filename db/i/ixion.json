@@ -2,12 +2,12 @@
   "ID": "1efd3d783b814b8b8548fb60c5983825",
   "Name": "IXION",
   "ProductSlug": "ixion-88cda4",
-  "Ranking_Rating": 455,
+  "Ranking_Rating": 456,
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -311,9 +311,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3573,
+  "EOS_Progressed": 3578,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6666,6 +6666,11 @@
       "Time": "2023-12-19T11:08:06.9910949+00:00",
       "NumProgressed": 3573,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T15:03:27.7510618+00:00",
+      "NumProgressed": 3578,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -6677,7 +6682,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "ACH_BASE_10",
@@ -6693,7 +6698,7 @@
       "Name": "Mutual Loyalty",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_BASE_12",
@@ -6725,7 +6730,7 @@
       "Name": "Tiqqun Contender",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_BASE_17",
@@ -6741,7 +6746,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "ACH_BASE_19",
@@ -6757,7 +6762,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "ACH_BASE_21",
@@ -6765,7 +6770,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1073
     },
     {
       "ID": "ACH_BASE_22",
@@ -6781,15 +6786,15 @@
       "Name": "Space Society",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "ACH_BASE_24",
       "SetID": "92iocjf",
       "Name": "Sputnik 2049",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 965
+      "UsersEstimate": 930
     },
     {
       "ID": "ACH_BASE_25",
@@ -6813,7 +6818,7 @@
       "Name": "A Hunk of Junk",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "ACH_BASE_28",
@@ -6827,9 +6832,9 @@
       "ID": "ACH_BASE_29",
       "SetID": "92iocjf",
       "Name": "A Thousand Strong",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 643
+      "UsersEstimate": 608
     },
     {
       "ID": "ACH_BASE_3",
@@ -6837,7 +6842,7 @@
       "Name": "Catastrophe Avoided",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_BASE_30",
@@ -6869,7 +6874,7 @@
       "Name": "Fully Recycled",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "ACH_BASE_34",
@@ -6877,7 +6882,7 @@
       "Name": "Ready for a New World",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "ACH_BASE_35",
@@ -6893,7 +6898,7 @@
       "Name": "Access Granted",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH_BASE_37",
@@ -6941,7 +6946,7 @@
       "Name": "Space Greenhouse",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_BASE_45",
@@ -6973,7 +6978,7 @@
       "Name": "Permanent Redesigns",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "ACH_BASE_49",
@@ -6981,7 +6986,7 @@
       "Name": "Ain\u0027t Nobody Got Time for That",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "ACH_BASE_5",
@@ -6989,7 +6994,7 @@
       "Name": "Tiqqun Unchained",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_BASE_50",
@@ -7021,7 +7026,7 @@
       "Name": "All in Good Health",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH_BASE_56",
@@ -7053,7 +7058,7 @@
       "Name": "The Ship of Theseus",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "ACH_BASE_6",
@@ -7109,7 +7114,7 @@
       "Name": "From the Past",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH_BASE_8",
@@ -7132,13 +7137,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1757,
+      "Progressed": 1762,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3573,
+      "Progressed": 3578,
       "Completed": 0
     }
   ],
@@ -7146,8 +7151,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-10T20:59:24.4447628+00:00",
-  "LastChanged_Achievements": "2023-12-19T13:11:21.6468395+00:00",
+  "LastChanged_Achievements": "2023-12-19T15:03:27.7510607+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.6786359+00:00",
-  "LastUpdate_Ratings": "2023-12-19T13:59:28.6694012+00:00",
-  "LastUpdate_Achievements": "2023-12-19T13:11:21.6468988+00:00"
+  "LastUpdate_Ratings": "2023-12-19T15:00:00.1530851+00:00",
+  "LastUpdate_Achievements": "2023-12-19T15:03:27.7512096+00:00"
 }

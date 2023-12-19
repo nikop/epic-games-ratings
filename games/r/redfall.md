@@ -1,7 +1,7 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.57 (Ranked 1,061)  
+Rating: 3.57 (Ranked 1,062)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,16 +13,16 @@ Rating: 3.57 (Ranked 1,061)
 | Blood Will Have Blood | 5.00% | ~97 |
 | Ne Plus Ultra | 5.00% | ~97 |
 | Fly Fisher | 5.00% | ~97 |
+| Peek-a-boo | 5.00% | ~97 |
 | Welcome to the Neighborhood | 4.00% | ~78 |
-| Peek-a-boo | 4.00% | ~78 |
 | Throw The First Stone | 4.00% | ~78 |
 | Sucks To Be You | 4.00% | ~78 |
 | Enter of Your Own Free Will | 3.00% | ~58 |
+| Bad Wiring | 3.00% | ~58 |
 | Grounded | 3.00% | ~58 |
 | Heart Attack | 3.00% | ~58 |
 | Skin of Their Teeth | 3.00% | ~58 |
 | Neighborhood Revitalization | 2.00% | ~39 |
-| Bad Wiring | 2.00% | ~39 |
 | Radio Silence | 2.00% | ~39 |
 | I Spit On Your Grave | 2.00% | ~39 |
 | Sic Transit Umbra | 1.00% | ~19 |
@@ -72,7 +72,7 @@ Rating: 3.57 (Ranked 1,061)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,942 (Ranked 235)  
+Progressed: 1,944 (Ranked 235)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-16 | 1,886 | 0 |
 | 2023-12-17 | 1,914 | 0 |
 | 2023-12-18 | 1,930 | 0 |
-| 2023-12-19 | 1,942 | 0 |
+| 2023-12-19 | 1,944 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

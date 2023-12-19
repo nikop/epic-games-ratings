@@ -398,17 +398,17 @@
       "ID": "creepytale3_ach_31",
       "SetID": "7idcjbn",
       "Name": "An insidious ritual",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "creepytale3_ach_32",
       "SetID": "7idcjbn",
       "Name": "Classic",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "creepytale3_ach_33",
@@ -502,9 +502,9 @@
       "ID": "creepytale3_ach_8",
       "SetID": "7idcjbn",
       "Name": "Save mission",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "creepytale3_ach_9",
@@ -525,8 +525,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2023-12-19T14:05:53.3224552+00:00",
+  "LastChanged_Achievements": "2023-12-19T15:06:28.2943578+00:00",
   "LastUpdate_AppInfo": "2023-12-13T06:57:05.5738942+00:00",
-  "LastUpdate_Ratings": "2023-12-19T14:02:36.2114042+00:00",
-  "LastUpdate_Achievements": "2023-12-19T14:05:53.3224729+00:00"
+  "LastUpdate_Ratings": "2023-12-19T15:02:51.4538196+00:00",
+  "LastUpdate_Achievements": "2023-12-19T15:06:28.294378+00:00"
 }

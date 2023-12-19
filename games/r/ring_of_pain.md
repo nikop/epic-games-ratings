@@ -1,7 +1,7 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 455)  
+Rating: 4.58 (Ranked 456)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -79,6 +79,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Juggernaut | 0.20% | ~483 |
 | Gigantic | 0.20% | ~483 |
 | Become The Nightmare | 0.20% | ~483 |
+| Trail Of Death | 0.20% | ~483 |
 | Clearing The Room | 0.20% | ~483 |
 | Path To Enlightenment | 0.20% | ~483 |
 | Just Looking Around | 0.20% | ~483 |
@@ -107,7 +108,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Predator | 0.10% | ~241 |
 | Here Comes The Airplane | 0.10% | ~241 |
 | Resourceful | 0.10% | ~241 |
-| Trail Of Death | 0.10% | ~241 |
 | Blizzard | 0.10% | ~241 |
 | The Boulder | 0.10% | ~241 |
 | Overthrown | 0.10% | ~241 |
@@ -145,8 +145,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,292 (Ranked 66)  
-Completed: 299 (0.12%) (Ranked 292)  
+Progressed: 241,296 (Ranked 66)  
+Completed: 300 (0.12%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -388,7 +388,7 @@ Completed: 299 (0.12%) (Ranked 292)
 | 2023-12-16 | 241,163 | 299 |
 | 2023-12-17 | 241,211 | 299 |
 | 2023-12-18 | 241,266 | 299 |
-| 2023-12-19 | 241,292 | 299 |
+| 2023-12-19 | 241,296 | 300 |
 ## Awards
 Max (Quickly Understood Controls): 1,511  (Ranked 134)  
 Sum: 11,746 (Ranked 87)  

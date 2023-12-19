@@ -1,32 +1,32 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.19 (Ranked 938)  
+Rating: 4.19 (Ranked 939)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 13.00% | ~2,346 |
-| Get a Grip | 13.00% | ~2,346 |
-| Paper Jams | 13.00% | ~2,346 |
-| The Outer Way | 13.00% | ~2,346 |
-| Desperate Times | 12.00% | ~2,166 |
-| Chew 'Em Up | 10.00% | ~1,805 |
-| Float Like A Butterfly | 10.00% | ~1,805 |
-| Reforged | 9.00% | ~1,624 |
+| Flesh Wound | 14.00% | ~2,528 |
+| Get a Grip | 13.00% | ~2,347 |
+| Paper Jams | 13.00% | ~2,347 |
+| The Outer Way | 13.00% | ~2,347 |
+| Desperate Times | 12.00% | ~2,167 |
+| Chew 'Em Up | 10.00% | ~1,806 |
+| Float Like A Butterfly | 10.00% | ~1,806 |
+| Reforged | 9.00% | ~1,625 |
 | Workplace Hazard | 8.00% | ~1,444 |
 | If the SHU Fits... | 8.00% | ~1,444 |
+| Two Heads Are Better Than One | 7.00% | ~1,264 |
 | Without A Paddle | 7.00% | ~1,264 |
 | In the Pipe, Five by Five | 7.00% | ~1,264 |
-| Two Heads Are Better Than One | 6.00% | ~1,083 |
 | Terminated | 6.00% | ~1,083 |
 | What Lies Beneath | 6.00% | ~1,083 |
 | Crash Site | 6.00% | ~1,083 |
 | Full Circle | 6.00% | ~1,083 |
 | Power Up | 6.00% | ~1,083 |
 | Keep Fighting | 6.00% | ~359 |
-| Giving Back | 5.00% | ~902 |
-| You Need a Gun | 5.00% | ~902 |
-| I Do Belong Here | 5.00% | ~902 |
+| Giving Back | 5.00% | ~903 |
+| You Need a Gun | 5.00% | ~903 |
+| I Do Belong Here | 5.00% | ~903 |
 | It's Time | 4.00% | ~239 |
 | In Striking Distance | 3.00% | ~542 |
 | The Commonality | 3.00% | ~542 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 938)
 | Bear Trap | 0.10% | ~6 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,050 (Ranked 149)  
+Progressed: 18,056 (Ranked 149)  
 Completed: 82 (0.45%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 82 (0.45%) (Ranked 222)
 | 2023-12-16 | 17,442 | 82 |
 | 2023-12-17 | 17,760 | 82 |
 | 2023-12-18 | 17,946 | 82 |
-| 2023-12-19 | 18,050 | 82 |
+| 2023-12-19 | 18,056 | 82 |
 ## Awards
 Max (Quickly Understood Controls): 88  (Ranked 388)  
 Sum: 523 (Ranked 326)  

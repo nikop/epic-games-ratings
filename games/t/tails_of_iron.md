@@ -1,42 +1,48 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.56 (Ranked 497)  
+Rating: 4.56 (Ranked 498)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 82.00% | ~1,850 |
-| Become King | 74.00% | ~1,669 |
-| Defeat 25 Frogs | 63.00% | ~1,421 |
-| Ranged Weapon | 62.00% | ~1,399 |
-| Collect Monster Parts | 58.00% | ~1,308 |
-| Two Handed Weapon | 57.00% | ~1,286 |
-| Defeat 25 Grubs | 53.00% | ~1,196 |
-| Rescue Redgi's Brothers | 53.00% | ~1,196 |
-| Collect Iron Ore | 48.00% | ~1,083 |
-| Defeat 25 Mozis | 48.00% | ~1,083 |
-| Kitchen Ready To Cook | 48.00% | ~1,083 |
-| Collect Gold | 46.00% | ~1,038 |
-| Smithy Ready to Craft | 46.00% | ~1,038 |
-| Fix the Travellers Wagon | 45.00% | ~1,015 |
-| Complete Elder Faction | 42.00% | ~948 |
-| Throne Room Fit For A King | 39.00% | ~880 |
-| End of the Mozis | 38.00% | ~857 |
-| Return Power To The Depths | 37.00% | ~835 |
-| Meet the Creatures from the Deep | 36.00% | ~812 |
-| Defeat Ratnor Rodentson | 30.00% | ~677 |
-| Return the Statues | 27.00% | ~609 |
-| Defeat Rattus Augustail | 27.00% | ~609 |
-| Complete the Chefs Book | 25.00% | ~564 |
-| Complete Ranger Faction | 21.00% | ~474 |
-| Defeat Avor Warden of the Northern Wastes | 21.00% | ~474 |
-| Discover the mystery of the Kings Chambers | 19.00% | ~429 |
-| Complete Arena Faction | 16.00% | ~361 |
-| Complete Redgi's Armory | 8.00% | ~180 |
-| King of Kings | 8.00% | ~180 |
-| A new Warchief rises | 1.00% | ~23 |
+| Become King | 0.10% | ~2 |
+| Collect Gold | 0.10% | ~2 |
+| Collect Iron Ore | 0.10% | ~2 |
+| Collect Monster Parts | 0.10% | ~2 |
+| Complete Elder Faction | 0.10% | ~2 |
+| Complete Guard Faction | 0.10% | ~2 |
+| End of the Mozis | 0.10% | ~2 |
+| Ranged Weapon | 0.10% | ~2 |
+| Two Handed Weapon | 0.10% | ~2 |
+| Defeat 25 Grubs | 0.10% | ~2 |
+| Defeat 25 Frogs | 0.10% | ~2 |
+| Defeat 25 Mozis | 0.10% | ~2 |
+| Meet the Creatures from the Deep | 0.10% | ~2 |
+| Kitchen Ready To Cook | 0.10% | ~2 |
+| Smithy Ready to Craft | 0.10% | ~2 |
+| Throne Room Fit For A King | 0.10% | ~2 |
+| Rescue Redgi's Brothers | 0.10% | ~2 |
+| Return Power To The Depths | 0.10% | ~2 |
+| Defeat Croakhis Khan | 0.10% | ~1 |
+| Defeat the Grub Buster | 0.10% | ~1 |
+| Defeat the Stalker Queen | 0.10% | ~1 |
+| Shield Maiden Yellow Tongue | 0.10% | ~1 |
+| I Remember My First Beer | 0.10% | ~1 |
+| The Bright Fir | 0.10% | ~1 |
+| Return the Statues | 0.00% | ~0 |
+| Complete Redgi's Armory | 0.00% | ~0 |
+| King of Kings | 0.00% | ~0 |
+| Complete Arena Faction | 0.00% | ~0 |
+| Complete the Chefs Book | 0.00% | ~0 |
+| Complete Ranger Faction | 0.00% | ~0 |
+| A new Warchief rises | 0.00% | ~0 |
+| Defeat Avor Warden of the Northern Wastes | 0.00% | ~0 |
+| Defeat Ratnor Rodentson | 0.00% | ~0 |
+| Defeat Rattus Augustail | 0.00% | ~0 |
+| Fix the Travellers Wagon | 0.00% | ~0 |
+| Discover the mystery of the Kings Chambers | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,256 (Ranked 230)  
+Progressed: 2,257 (Ranked 230)  
 Completed: 12 (0.53%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,6 +240,7 @@ Completed: 12 (0.53%) (Ranked 210)
 | 2023-12-16 | 2,250 | 12 |
 | 2023-12-17 | 2,255 | 12 |
 | 2023-12-18 | 2,256 | 12 |
+| 2023-12-19 | 2,257 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -22,14 +22,14 @@
 | Assault on the Ram | 24.00% | ~21 |
 | Ultra Rebel Instinct | 24.00% | ~21 |
 | Merry Go Round | 23.00% | ~20 |
-| First Aid | 21.00% | ~18 |
+| First Aid | 22.00% | ~19 |
 | Savior | 20.00% | ~17 |
+| Hidden Experiment | 17.00% | ~15 |
 | Take Action! | 17.00% | ~15 |
-| Hidden Experiment | 16.00% | ~14 |
 | Ascending Will | 15.00% | ~13 |
 | Ultra Combo | 13.00% | ~11 |
+| Into the Lion's Den | 12.00% | ~10 |
 | Haute Couture | 12.00% | ~10 |
-| Into the Lion's Den | 10.00% | ~9 |
 | The Gang prevails | 8.00% | ~7 |
 | Sky High Fighter | 8.00% | ~7 |
 | Brilliant Executioner | 7.00% | ~6 |

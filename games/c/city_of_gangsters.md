@@ -1,21 +1,21 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.29 (Ranked 855)  
+Rating: 4.29 (Ranked 856)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~164,384 |
-| Copacetic Coordination | 16.00% | ~57,177 |
+| Corner Clout | 46.00% | ~164,387 |
+| Copacetic Coordination | 16.00% | ~57,178 |
 | Fronting the Money | 15.00% | ~53,604 |
-| The Dawn of Automation | 14.00% | ~50,030 |
-| Extraordinary Logistics | 14.00% | ~50,030 |
-| Dirty Money | 13.00% | ~46,456 |
-| Family First | 13.00% | ~46,456 |
+| The Dawn of Automation | 14.00% | ~50,031 |
+| Extraordinary Logistics | 14.00% | ~50,031 |
+| Dirty Money | 13.00% | ~46,457 |
+| Family First | 13.00% | ~46,457 |
 | Cleaning House | 12.00% | ~42,883 |
 | Room in the Back | 12.00% | ~42,883 |
-| Beating the Heat | 11.00% | ~39,309 |
-| Booze Baron | 11.00% | ~39,309 |
+| Beating the Heat | 11.00% | ~39,310 |
+| Booze Baron | 11.00% | ~39,310 |
 | Friends on the Force | 10.00% | ~35,736 |
 | Neighborhood Watch | 10.00% | ~35,736 |
 | Core Corps | 8.00% | ~28,589 |
@@ -23,12 +23,12 @@ Rating: 4.29 (Ranked 855)
 | Street Fighter | 7.00% | ~25,015 |
 | Friendly Gestures | 7.00% | ~25,015 |
 | People Person | 7.00% | ~25,015 |
-| Liquor Lord | 6.00% | ~21,441 |
-| Safety in Numbers | 6.00% | ~21,441 |
-| Moving Experiences | 6.00% | ~21,441 |
-| Wise Head | 6.00% | ~21,441 |
-| Show ‘em the Sugar | 6.00% | ~21,441 |
-| Killing Them Softly | 6.00% | ~21,441 |
+| Liquor Lord | 6.00% | ~21,442 |
+| Safety in Numbers | 6.00% | ~21,442 |
+| Moving Experiences | 6.00% | ~21,442 |
+| Wise Head | 6.00% | ~21,442 |
+| Show ‘em the Sugar | 6.00% | ~21,442 |
+| Killing Them Softly | 6.00% | ~21,442 |
 | Street Knowledge | 5.00% | ~17,868 |
 | Oh Captain | 5.00% | ~17,868 |
 | Branching Out | 5.00% | ~17,868 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 855)
 | High Pillow | 0.10% | ~357 |
 | Station Master | 0.10% | ~357 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 357,357 (Ranked 49)  
+Progressed: 357,362 (Ranked 49)  
 Completed: 7 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 7 (0.00%) (Ranked 383)
 | 2023-12-16 | 356,959 | 7 |
 | 2023-12-17 | 357,141 | 7 |
 | 2023-12-18 | 357,291 | 7 |
-| 2023-12-19 | 357,357 | 7 |
+| 2023-12-19 | 357,362 | 7 |
 ## Awards
 Max (Great for Beginners): 55  (Ranked 429)  
 Sum: 256 (Ranked 387)  

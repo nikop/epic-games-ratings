@@ -4,7 +4,7 @@
   "ProductSlug": "loretta-0099a6",
   "Ranking_EOS_Progress": 640,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 554,
+  "Ranking_EOS_NewPlayers": 555,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-02-16T08:00:00+00:00",
@@ -187,9 +187,9 @@
       "ID": "ach_lora_letter_cutter_egs",
       "SetID": "134m0cb",
       "Name": "Dead End",
-      "Percentage": 40,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_lora_look_your_own_past_egs",
@@ -260,8 +260,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.6808915+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.2290524+00:00",
   "LastChanged": "2023-03-31T05:58:45.6808915+00:00",
-  "LastChanged_Achievements": "2023-12-19T14:06:14.0321829+00:00",
+  "LastChanged_Achievements": "2023-12-19T15:08:10.4236239+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:09.9938253+00:00",
-  "LastUpdate_Ratings": "2023-12-19T13:57:13.0566551+00:00",
-  "LastUpdate_Achievements": "2023-12-19T14:06:14.0321954+00:00"
+  "LastUpdate_Ratings": "2023-12-19T14:57:27.5209146+00:00",
+  "LastUpdate_Achievements": "2023-12-19T15:08:10.4236388+00:00"
 }

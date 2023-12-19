@@ -1,45 +1,45 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.66 (Ranked 295)  
+Rating: 4.66 (Ranked 296)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,446 |
-| Gun Fu | 8.00% | ~78,297 |
-| The Fool | 7.00% | ~68,510 |
-| Right Back At Ya | 6.00% | ~58,723 |
-| Full Body Conversion | 5.00% | ~48,936 |
-| The Lovers | 5.00% | ~48,936 |
-| Stanislavski's Method | 4.00% | ~39,149 |
-| The Hermit | 4.00% | ~39,149 |
-| The Wheel of Fortune | 4.00% | ~39,149 |
-| True Soldier | 4.00% | ~39,149 |
-| All the President's Men | 4.00% | ~4,294 |
-| Arachnophobia | 4.00% | ~4,294 |
-| Christmas Tree Attack | 3.00% | ~29,361 |
-| Life of the Road | 3.00% | ~29,361 |
-| The High Priestess | 3.00% | ~29,361 |
-| True Warrior | 3.00% | ~29,361 |
-| Legend of The Afterlife | 3.00% | ~29,361 |
-| Relic Ruler | 3.00% | ~3,220 |
-| Bushido and Chill | 2.00% | ~19,574 |
-| To Protect and Serve | 2.00% | ~19,574 |
-| Master Crafter | 2.00% | ~19,574 |
-| I Am The Law | 2.00% | ~19,574 |
-| The Quick and the Dead | 2.00% | ~19,574 |
-| The World | 2.00% | ~19,574 |
-| Two Heads, One Bullet | 2.00% | ~19,574 |
-| Judy vs Night City | 2.00% | ~19,574 |
+| V for Vendetta | 12.00% | ~117,449 |
+| Gun Fu | 8.00% | ~78,299 |
+| The Fool | 7.00% | ~68,512 |
+| Right Back At Ya | 6.00% | ~58,724 |
+| Full Body Conversion | 5.00% | ~48,937 |
+| The Lovers | 5.00% | ~48,937 |
+| Stanislavski's Method | 4.00% | ~39,150 |
+| The Hermit | 4.00% | ~39,150 |
+| The Wheel of Fortune | 4.00% | ~39,150 |
+| True Soldier | 4.00% | ~39,150 |
+| All the President's Men | 4.00% | ~4,295 |
+| Arachnophobia | 4.00% | ~4,295 |
+| Christmas Tree Attack | 3.00% | ~29,362 |
+| Life of the Road | 3.00% | ~29,362 |
+| The High Priestess | 3.00% | ~29,362 |
+| True Warrior | 3.00% | ~29,362 |
+| Legend of The Afterlife | 3.00% | ~29,362 |
+| Relic Ruler | 3.00% | ~3,221 |
+| Bushido and Chill | 2.00% | ~19,575 |
+| To Protect and Serve | 2.00% | ~19,575 |
+| Master Crafter | 2.00% | ~19,575 |
+| I Am The Law | 2.00% | ~19,575 |
+| The Quick and the Dead | 2.00% | ~19,575 |
+| The World | 2.00% | ~19,575 |
+| Two Heads, One Bullet | 2.00% | ~19,575 |
+| Judy vs Night City | 2.00% | ~19,575 |
 | The Wandering Fool | 1.00% | ~9,787 |
 | The Sun | 1.00% | ~9,787 |
-| Spin Doctor | 1.00% | ~1,073 |
-| King of Wands | 1.00% | ~1,073 |
-| Dirty Deeds | 1.00% | ~1,073 |
-| Easy Come, Easy Go | 1.00% | ~1,073 |
-| To Bad Decisions! | 0.90% | ~8,808 |
-| Ten out of Ten | 0.90% | ~8,808 |
+| Spin Doctor | 1.00% | ~1,074 |
+| King of Wands | 1.00% | ~1,074 |
+| Dirty Deeds | 1.00% | ~1,074 |
+| Easy Come, Easy Go | 1.00% | ~1,074 |
+| To Bad Decisions! | 0.90% | ~8,809 |
+| Ten out of Ten | 0.90% | ~8,809 |
 | The Star | 0.80% | ~7,830 |
 | Breathtaking | 0.70% | ~6,851 |
 | Autojock | 0.60% | ~5,872 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 978,716 (Ranked 16)  
-Completed: 2,941 (0.30%) (Ranked 246)  
+Progressed: 978,740 (Ranked 16)  
+Completed: 2,942 (0.30%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -317,10 +317,10 @@ Completed: 2,941 (0.30%) (Ranked 246)
 | 2023-12-16 | 977,366 | 2,924 |
 | 2023-12-17 | 978,015 | 2,930 |
 | 2023-12-18 | 978,465 | 2,935 |
-| 2023-12-19 | 978,716 | 2,941 |
+| 2023-12-19 | 978,740 | 2,942 |
 ## Awards
 Max (Character Customization): 124,846  (Ranked 8)  
-Sum: 430,224 (Ranked 9)  
+Sum: 430,379 (Ranked 9)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -328,7 +328,7 @@ Diff (max vs sum): -1
 | This game has Great Boss Battles | 91,953 |
 | This game is Great for Beginners | 26,630 |
 | This game has Diverse Characters | 26,159 |
-| This game is Highly Recommended | 24,874 |
+| This game is Highly Recommended | 25,029 |
 | This game has Amazing Storytelling | 24,639 |
 | This game is Extremely Fun | 24,287 |
 | This game has Amazing Characters | 24,081 |
@@ -672,4 +672,4 @@ Diff (max vs sum): -1
 | 2023-12-16 | 4.66 | - | 123,963 | 424,262 |
 | 2023-12-17 | 4.66 | - | 124,505 | 427,247 |
 | 2023-12-18 | 4.66 | - | 124,846 | 429,269 |
-| 2023-12-19 | 4.66 | - | 124,846 | 430,224 |
+| 2023-12-19 | 4.66 | - | 124,846 | 430,379 |

@@ -6,17 +6,17 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Abandoned Settlement | 5.00% | ~932 |
-| Overgrown Library | 5.00% | ~932 |
-| Petrified Necropolis | 5.00% | ~932 |
+| Abandoned Settlement | 5.00% | ~933 |
+| Overgrown Library | 5.00% | ~933 |
+| Petrified Necropolis | 5.00% | ~933 |
 | Gathering Storm | 4.00% | ~746 |
-| First Real Expedition | 3.00% | ~559 |
-| The Marshlands | 3.00% | ~559 |
-| Taking Action | 3.00% | ~559 |
-| No Deaths | 3.00% | ~559 |
-| Frosts | 3.00% | ~559 |
-| Land of Greed | 3.00% | ~559 |
-| Ominous Presence | 3.00% | ~559 |
+| First Real Expedition | 3.00% | ~560 |
+| The Marshlands | 3.00% | ~560 |
+| Taking Action | 3.00% | ~560 |
+| No Deaths | 3.00% | ~560 |
+| Frosts | 3.00% | ~560 |
+| Land of Greed | 3.00% | ~560 |
+| Ominous Presence | 3.00% | ~560 |
 | Overcoming Difficulty | 2.00% | ~373 |
 | Fertile Meadows | 2.00% | ~373 |
 | Royal Outpost | 2.00% | ~373 |
@@ -24,17 +24,17 @@ Number of Ratings: 1,845  (23.09.2022)
 | Coral Forest | 2.00% | ~373 |
 | The Scarlet Orchard | 2.00% | ~373 |
 | Untamed Wilds | 2.00% | ~373 |
-| Homesick | 1.00% | ~186 |
-| Ruined Armory | 1.00% | ~186 |
-| Bandit Camp | 1.00% | ~186 |
-| Ancient Battleground | 1.00% | ~186 |
-| Levitating Monument | 1.00% | ~186 |
-| Monastery of the Holy Flame | 1.00% | ~186 |
-| Lost Colonies | 1.00% | ~186 |
-| Corrosive Torrent | 1.00% | ~186 |
-| Cursed Lands | 1.00% | ~186 |
-| A Real Challenge | 1.00% | ~186 |
-| Trade Baron | 1.00% | ~186 |
+| Homesick | 1.00% | ~187 |
+| Ruined Armory | 1.00% | ~187 |
+| Bandit Camp | 1.00% | ~187 |
+| Ancient Battleground | 1.00% | ~187 |
+| Levitating Monument | 1.00% | ~187 |
+| Monastery of the Holy Flame | 1.00% | ~187 |
+| Lost Colonies | 1.00% | ~187 |
+| Corrosive Torrent | 1.00% | ~187 |
+| Cursed Lands | 1.00% | ~187 |
+| A Real Challenge | 1.00% | ~187 |
+| Trade Baron | 1.00% | ~187 |
 | Barren Lands | 0.90% | ~168 |
 | Statue of the Forefathers | 0.90% | ~168 |
 | Sparkdew Crystals | 0.80% | ~149 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,648 (Ranked 147)  
+Progressed: 18,653 (Ranked 147)  
 Completed: 39 (0.21%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 39 (0.21%) (Ranked 267)
 | 2023-12-16 | 18,388 | 39 |
 | 2023-12-17 | 18,534 | 40 |
 | 2023-12-18 | 18,615 | 39 |
-| 2023-12-19 | 18,648 | 39 |
+| 2023-12-19 | 18,653 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 228)  
 Sum: 3,272 (Ranked 174)  

@@ -1,16 +1,16 @@
 # ANNO Mutationem
 [Store](https://store.epicgames.com/en-US/p/anno-mutationem-ef8b9e)  
 [View Rawdata](../../db/a/anno_mutationem.json)  
-Rating: 4.54 (Ranked 531)  
+Rating: 4.54 (Ranked 532)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tell me your story | 75.00% | ~591 |
+| Tell me your story | 75.00% | ~592 |
 | Don't judge a manhole by its cover | 60.00% | ~473 |
 | I just love stuff! | 42.00% | ~331 |
 | Keep 'em coming! | 42.00% | ~331 |
-| The things they print nowadays | 39.00% | ~307 |
-| Big Spender | 38.00% | ~299 |
+| The things they print nowadays | 39.00% | ~308 |
+| Big Spender | 38.00% | ~300 |
 | That's gotta hurt | 36.00% | ~284 |
 | I think it's broke | 27.00% | ~213 |
 | The Ann Flores Combo Experience | 26.00% | ~205 |
@@ -21,7 +21,7 @@ Rating: 4.54 (Ranked 531)
 | You are the One | 19.00% | ~150 |
 | Deadly Kombationem | 18.00% | ~142 |
 | The truth is out there | 16.00% | ~126 |
-| Annakin Skyscroller | 13.00% | ~102 |
+| Annakin Skyscroller | 13.00% | ~103 |
 | In the smacker...I think | 10.00% | ~79 |
 | Arm Wrestlin' | 9.00% | ~71 |
 | 1+1>2 | 9.00% | ~71 |
@@ -42,7 +42,7 @@ Rating: 4.54 (Ranked 531)
 | Love me like I love my posters | 1.00% | ~8 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 788 (Ranked 289)  
+Progressed: 789 (Ranked 289)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-16 | 784 | 0 |
 | 2023-12-17 | 786 | 0 |
 | 2023-12-18 | 787 | 0 |
-| 2023-12-19 | 788 | 0 |
+| 2023-12-19 | 789 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

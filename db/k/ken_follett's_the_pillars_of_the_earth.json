@@ -2,13 +2,13 @@
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
-  "Ranking_Rating": 579,
+  "Ranking_Rating": 580,
   "Ranking_Popularity": 320,
   "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -570,7 +570,7 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17181,
+  "EOS_Progressed": 17183,
   "EOS_Completed": 119,
   "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 1,
@@ -16475,6 +16475,11 @@
       "Time": "2023-12-19T14:03:52.8040369+00:00",
       "NumProgressed": 17181,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-12-19T15:04:17.3505995+00:00",
+      "NumProgressed": 17183,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 41,
@@ -16542,7 +16547,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2405
+      "UsersEstimate": 2406
     },
     {
       "ID": "tpote_achievement_17",
@@ -16590,7 +16595,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 4982
+      "UsersEstimate": 4983
     },
     {
       "ID": "tpote_achievement_22",
@@ -16598,7 +16603,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3436
+      "UsersEstimate": 3437
     },
     {
       "ID": "tpote_achievement_23",
@@ -16662,7 +16667,7 @@
       "Name": "Let there be darkness",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5326
+      "UsersEstimate": 5327
     },
     {
       "ID": "tpote_achievement_30",
@@ -16686,7 +16691,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2405
+      "UsersEstimate": 2406
     },
     {
       "ID": "tpote_achievement_33",
@@ -16694,7 +16699,7 @@
       "Name": "Nothing but make-believe",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1374
+      "UsersEstimate": 1375
     },
     {
       "ID": "tpote_achievement_34",
@@ -16750,7 +16755,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6872
+      "UsersEstimate": 6873
     },
     {
       "ID": "tpote_achievement_40",
@@ -16774,7 +16779,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 4123
+      "UsersEstimate": 4124
     },
     {
       "ID": "tpote_achievement_6",
@@ -16813,15 +16818,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17181,
+      "Progressed": 17183,
       "Completed": 119
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2023-12-19T14:03:52.8040366+00:00",
+  "LastChanged_Achievements": "2023-12-19T15:04:17.3505989+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:13.9933566+00:00",
-  "LastUpdate_Ratings": "2023-12-19T13:58:25.3085005+00:00",
-  "LastUpdate_Achievements": "2023-12-19T14:03:52.8041223+00:00"
+  "LastUpdate_Ratings": "2023-12-19T14:58:49.4750984+00:00",
+  "LastUpdate_Achievements": "2023-12-19T15:04:17.3507146+00:00"
 }

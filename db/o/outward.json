@@ -2,13 +2,13 @@
   "ID": "viola",
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
-  "Ranking_Rating": 511,
+  "Ranking_Rating": 512,
   "Ranking_Popularity": 484,
   "Ranking_PopularitySum": 391,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4025,
+  "EOS_Progressed": 4026,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 288,
+  "EOS_NewPlayers": 289,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -6461,6 +6461,11 @@
       "Time": "2023-12-19T14:04:38.2920282+00:00",
       "NumProgressed": 4025,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-19T15:05:06.2892311+00:00",
+      "NumProgressed": 4026,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -6520,7 +6525,7 @@
       "Name": "Crowd Pleaser.",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "Encyclopedic_30",
@@ -6640,7 +6645,7 @@
       "Name": "Perfect Defense",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "PowerToThePeople",
@@ -6648,7 +6653,7 @@
       "Name": "Power! To! The People!",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ReadyforSummer_41",
@@ -6656,7 +6661,7 @@
       "Name": "Ready for Summer",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 2012
+      "UsersEstimate": 2013
     },
     {
       "ID": "ReadyforWinter_42",
@@ -6696,7 +6701,7 @@
       "Name": "Tapped!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1489
+      "UsersEstimate": 1490
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -6792,7 +6797,7 @@
       "Name": "Venture Outward",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2978
+      "UsersEstimate": 2979
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -6800,22 +6805,22 @@
       "Name": "Your actions define you",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     }
   ],
   "AchievementSets": [
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4025,
+      "Progressed": 4026,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-19T14:04:38.2920278+00:00",
+  "LastChanged_Achievements": "2023-12-19T15:05:06.2892306+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:45.1407734+00:00",
-  "LastUpdate_Ratings": "2023-12-19T14:02:41.5044857+00:00",
-  "LastUpdate_Achievements": "2023-12-19T14:04:38.2920855+00:00"
+  "LastUpdate_Ratings": "2023-12-19T15:02:56.7758933+00:00",
+  "LastUpdate_Achievements": "2023-12-19T15:05:06.2892867+00:00"
 }

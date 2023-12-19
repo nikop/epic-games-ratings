@@ -2,7 +2,7 @@
   "ID": "a3dd9f3da8ec49c7b25dec42cce2ec46",
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
-  "Ranking_Rating": 1063,
+  "Ranking_Rating": 1064,
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 99,
@@ -123,9 +123,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 81020,
+  "EOS_Progressed": 81022,
   "EOS_Completed": 887,
-  "EOS_NewPlayers": 602,
+  "EOS_NewPlayers": 601,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.09,
   "EosHistory": [
@@ -27203,6 +27203,11 @@
       "Time": "2023-12-19T14:05:24.8604592+00:00",
       "NumProgressed": 81020,
       "NumCompleted": 887
+    },
+    {
+      "Time": "2023-12-19T15:05:57.3854528+00:00",
+      "NumProgressed": 81022,
+      "NumCompleted": 887
     }
   ],
   "TotalAchievements": 25,
@@ -27246,7 +27251,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 17824
+      "UsersEstimate": 17825
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -27318,7 +27323,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 17014
+      "UsersEstimate": 17015
     },
     {
       "ID": "Meaty",
@@ -27342,7 +27347,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 12963
+      "UsersEstimate": 12964
     },
     {
       "ID": "Nothing Left to Say",
@@ -27350,7 +27355,7 @@
       "Name": "Nothing Left to Say",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 5671
+      "UsersEstimate": 5672
     },
     {
       "ID": "Piano Man",
@@ -27374,7 +27379,7 @@
       "Name": "Sniper",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 5671
+      "UsersEstimate": 5672
     },
     {
       "ID": "Spicy",
@@ -27413,7 +27418,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 81020,
+      "Progressed": 81022,
       "Completed": 887
     }
   ],
@@ -27421,8 +27426,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-11-28T02:22:55.8136009+00:00",
-  "LastChanged_Achievements": "2023-12-19T14:05:24.8604587+00:00",
+  "LastChanged_Achievements": "2023-12-19T15:05:57.385452+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:36.6719063+00:00",
-  "LastUpdate_Ratings": "2023-12-19T13:59:26.2486066+00:00",
-  "LastUpdate_Achievements": "2023-12-19T14:05:24.8605939+00:00"
+  "LastUpdate_Ratings": "2023-12-19T14:59:57.3437362+00:00",
+  "LastUpdate_Achievements": "2023-12-19T15:05:57.3856286+00:00"
 }

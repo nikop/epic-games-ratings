@@ -7,7 +7,7 @@
 | Mathematic | 87.00% | ~117 |
 | Digging a Hole | 73.00% | ~99 |
 | It's Yours, My Friend | 73.00% | ~99 |
-| Going Places | 67.00% | ~90 |
+| Going Places | 68.00% | ~92 |
 | Conducted Trade | 66.00% | ~89 |
 | Aristocratic | 63.00% | ~85 |
 | Tutti Frutti | 55.00% | ~74 |
@@ -20,8 +20,8 @@
 | Up, Up And Away! | 24.00% | ~32 |
 | Whoa! | 24.00% | ~32 |
 | Botropolis | 21.00% | ~28 |
+| Steaming Rich | 17.00% | ~23 |
 | Steam Powered | 16.00% | ~22 |
-| Steaming Rich | 16.00% | ~22 |
 | Manic Mechanic | 14.00% | ~19 |
 | Room To Spare | 12.00% | ~16 |
 | Click 'Em All | 4.00% | ~5 |

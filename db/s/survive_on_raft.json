@@ -2,9 +2,9 @@
   "ID": "da28ed4a03cb414393269a6b60b621be",
   "Name": "Survive on Raft",
   "ProductSlug": "survive-on-raft-9845bd",
-  "Ranking_EOS_Progress": 708,
+  "Ranking_EOS_Progress": 709,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 554,
+  "Ranking_EOS_NewPlayers": 555,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-12T17:00:00+00:00",
@@ -344,8 +344,8 @@
   ],
   "FirstSeen": "2023-10-13T02:18:44.3797423+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:41.3982894+00:00",
-  "LastChanged_Achievements": "2023-12-19T14:05:28.604546+00:00",
+  "LastChanged_Achievements": "2023-12-19T15:06:01.3342607+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:20.7650704+00:00",
-  "LastUpdate_Ratings": "2023-12-19T13:58:51.9611528+00:00",
-  "LastUpdate_Achievements": "2023-12-19T14:05:28.6045638+00:00"
+  "LastUpdate_Ratings": "2023-12-19T14:59:18.4902719+00:00",
+  "LastUpdate_Achievements": "2023-12-19T15:06:01.334283+00:00"
 }

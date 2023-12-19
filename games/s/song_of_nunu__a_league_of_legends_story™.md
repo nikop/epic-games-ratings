@@ -1,7 +1,7 @@
 # Song of Nunu: A League of Legends Story
 [Store](https://store.epicgames.com/en-US/p/song-of-nunu-a-league-of-legends-story)  
 [View Rawdata](../../db/s/song_of_nunu__a_league_of_legends_story™.json)  
-Rating: 4.48 (Ranked 638)  
+Rating: 4.48 (Ranked 640)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -18,7 +18,7 @@ Rating: 4.48 (Ranked 638)
 | No Bites | 55.00% | ~679 |
 | Iceborn | 55.00% | ~679 |
 | Boom Things | 53.00% | ~654 |
-| Tear of Freedom | 51.00% | ~629 |
+| Tear of Freedom | 52.00% | ~642 |
 | My Darkest Day | 48.00% | ~592 |
 | Rhythm Of Willump | 46.00% | ~568 |
 | The Relentless Storm | 46.00% | ~568 |

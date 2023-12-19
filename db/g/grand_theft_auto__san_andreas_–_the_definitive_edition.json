@@ -2,9 +2,9 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 511,
-  "Ranking_Popularity": 223,
-  "Ranking_PopularitySum": 299,
+  "Ranking_Rating": 512,
+  "Ranking_Popularity": 221,
+  "Ranking_PopularitySum": 297,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 79,
@@ -1769,18 +1769,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 710,
       "NumberOfAwardsMax": 457
+    },
+    {
+      "Time": "2023-12-19T14:57:39.4834331+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 717,
+      "NumberOfAwardsMax": 463
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 710,
-  "NumberOfAwardsMax": 457,
+  "NumberOfAwards": 717,
+  "NumberOfAwardsMax": 463,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 457
+      "Count": 463
     },
     {
       "Text": "This game is Relaxing",
@@ -1804,7 +1810,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1837,9 +1843,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 15495,
+  "EOS_Progressed": 15503,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 1545,
+  "EOS_NewPlayers": 1553,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -16722,6 +16728,11 @@
       "Time": "2023-12-19T14:09:31.2276056+00:00",
       "NumProgressed": 15495,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-19T15:09:53.6540757+00:00",
+      "NumProgressed": 15503,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 35,
@@ -16733,7 +16744,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 12551
+      "UsersEstimate": 12557
     },
     {
       "ID": "ACH02",
@@ -16781,7 +16792,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2944
+      "UsersEstimate": 2946
     },
     {
       "ID": "ACH08",
@@ -16789,7 +16800,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 7748
+      "UsersEstimate": 7752
     },
     {
       "ID": "ACH09",
@@ -16829,7 +16840,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 2789
+      "UsersEstimate": 2791
     },
     {
       "ID": "ACH14",
@@ -16837,7 +16848,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1704
+      "UsersEstimate": 1705
     },
     {
       "ID": "ACH15",
@@ -16853,7 +16864,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2634
+      "UsersEstimate": 2636
     },
     {
       "ID": "ACH17",
@@ -16901,7 +16912,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 2324
+      "UsersEstimate": 2325
     },
     {
       "ID": "ACH23",
@@ -16909,7 +16920,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 3874
+      "UsersEstimate": 3876
     },
     {
       "ID": "ACH24",
@@ -16957,7 +16968,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2324
+      "UsersEstimate": 2325
     },
     {
       "ID": "ACH30",
@@ -16989,7 +17000,7 @@
       "Name": "Remastered",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH34",
@@ -16997,7 +17008,7 @@
       "Name": "...Here we go again",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH35",
@@ -17012,16 +17023,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 15495,
+      "Progressed": 15503,
       "Completed": 60
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-12-19T09:57:17.5484801+00:00",
-  "LastChanged_Achievements": "2023-12-19T14:09:31.2276048+00:00",
+  "LastChanged": "2023-12-19T14:57:39.4834329+00:00",
+  "LastChanged_Achievements": "2023-12-19T15:09:53.6540749+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:24.5920887+00:00",
-  "LastUpdate_Ratings": "2023-12-19T13:57:23.460906+00:00",
-  "LastUpdate_Achievements": "2023-12-19T14:09:31.2276757+00:00"
+  "LastUpdate_Ratings": "2023-12-19T14:57:39.4834334+00:00",
+  "LastUpdate_Achievements": "2023-12-19T15:09:53.6541719+00:00"
 }

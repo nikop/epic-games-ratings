@@ -2,7 +2,7 @@
   "ID": "ca4058f18b0a4a9e9e2ccc28f7f33000",
   "Name": "Kingdom Come: Deliverance",
   "ProductSlug": "kingdom-come-deliverance",
-  "Ranking_Rating": 197,
+  "Ranking_Rating": 198,
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 18,
@@ -9405,9 +9405,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 813286,
+  "EOS_Progressed": 813293,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 1099,
+  "EOS_NewPlayers": 1101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -36840,6 +36840,11 @@
       "Time": "2023-12-19T14:09:29.0937083+00:00",
       "NumProgressed": 813286,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-19T15:09:51.3013767+00:00",
+      "NumProgressed": 813293,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 82,
@@ -36875,7 +36880,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 130126
+      "UsersEstimate": 130127
     },
     {
       "ID": "Awakening",
@@ -36883,7 +36888,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 170790
+      "UsersEstimate": 170792
     },
     {
       "ID": "BadGirl",
@@ -36899,7 +36904,7 @@
       "Name": "Bad Trip",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40664
+      "UsersEstimate": 40665
     },
     {
       "ID": "Bailiff",
@@ -36923,7 +36928,7 @@
       "Name": "Bastard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 32531
+      "UsersEstimate": 32532
     },
     {
       "ID": "BlacksmithsSon",
@@ -36931,7 +36936,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 260252
+      "UsersEstimate": 260254
     },
     {
       "ID": "Bookworm",
@@ -36939,7 +36944,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 121993
+      "UsersEstimate": 121994
     },
     {
       "ID": "Buddy",
@@ -36947,7 +36952,7 @@
       "Name": "Buddy",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 97594
+      "UsersEstimate": 97595
     },
     {
       "ID": "Casanova",
@@ -36955,7 +36960,7 @@
       "Name": "Casanova",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 48797
+      "UsersEstimate": 48798
     },
     {
       "ID": "Cavalier",
@@ -36963,7 +36968,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 203322
+      "UsersEstimate": 203323
     },
     {
       "ID": "Chivalrous",
@@ -37051,7 +37056,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 187056
+      "UsersEstimate": 187057
     },
     {
       "ID": "Fighter",
@@ -37067,7 +37072,7 @@
       "Name": "Firestarter",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 130126
+      "UsersEstimate": 130127
     },
     {
       "ID": "Freud",
@@ -37147,7 +37152,7 @@
       "Name": "Hunter",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 32531
+      "UsersEstimate": 32532
     },
     {
       "ID": "ICanStop",
@@ -37171,7 +37176,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 105727
+      "UsersEstimate": 105728
     },
     {
       "ID": "Judas",
@@ -37251,7 +37256,7 @@
       "Name": "McLovin",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 56930
+      "UsersEstimate": 56931
     },
     {
       "ID": "MercenarysHonor",
@@ -37275,7 +37280,7 @@
       "Name": "Monk",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40664
+      "UsersEstimate": 40665
     },
     {
       "ID": "NotSoChristianBurial",
@@ -37323,7 +37328,7 @@
       "Name": "Plague Doctor",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 32531
+      "UsersEstimate": 32532
     },
     {
       "ID": "Ranger",
@@ -37331,7 +37336,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 162657
+      "UsersEstimate": 162659
     },
     {
       "ID": "RevenantOfLedechko",
@@ -37355,7 +37360,7 @@
       "Name": "Runt",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 56930
+      "UsersEstimate": 56931
     },
     {
       "ID": "Saviour",
@@ -37371,7 +37376,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 162657
+      "UsersEstimate": 162659
     },
     {
       "ID": "SerialKiller",
@@ -37379,7 +37384,7 @@
       "Name": "Serial Killer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40664
+      "UsersEstimate": 40665
     },
     {
       "ID": "Sinner",
@@ -37387,7 +37392,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 89461
+      "UsersEstimate": 89462
     },
     {
       "ID": "Sniper",
@@ -37427,7 +37432,7 @@
       "Name": "Thief",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 97594
+      "UsersEstimate": 97595
     },
     {
       "ID": "TisButAScratch",
@@ -37459,7 +37464,7 @@
       "Name": "Traveller",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 89461
+      "UsersEstimate": 89462
     },
     {
       "ID": "TrialAndError",
@@ -37506,15 +37511,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 813286,
+      "Progressed": 813293,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-12-19T13:58:38.8407643+00:00",
-  "LastChanged_Achievements": "2023-12-19T14:09:29.0937077+00:00",
+  "LastChanged_Achievements": "2023-12-19T15:09:51.3013761+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:26.6961501+00:00",
-  "LastUpdate_Ratings": "2023-12-19T13:58:38.840765+00:00",
-  "LastUpdate_Achievements": "2023-12-19T14:09:29.0939413+00:00"
+  "LastUpdate_Ratings": "2023-12-19T14:59:03.8567266+00:00",
+  "LastUpdate_Achievements": "2023-12-19T15:09:51.3015362+00:00"
 }

@@ -1,22 +1,22 @@
 # Terraforming Mars
 [Store](https://store.epicgames.com/en-US/p/terraforming-mars-18c3ad)  
 [View Rawdata](../../db/t/terraforming_mars.json)  
-Rating: 4.53 (Ranked 548)  
+Rating: 4.53 (Ranked 549)  
 Number of Ratings: 2,731  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 37.00% | ~32,068 |
-| Final touch | 34.00% | ~29,468 |
+| It's a steal! | 37.00% | ~32,069 |
+| Final touch | 34.00% | ~29,469 |
 | Prop-M Rover | 32.00% | ~27,735 |
 | Changing the Planet | 28.00% | ~24,268 |
-| Sojourner | 26.00% | ~22,534 |
-| New Home | 23.00% | ~19,934 |
-| Beagle 2 | 23.00% | ~19,934 |
+| Sojourner | 26.00% | ~22,535 |
+| New Home | 23.00% | ~19,935 |
+| Beagle 2 | 23.00% | ~19,935 |
 | Winner Winner Terraformer | 21.00% | ~18,201 |
-| Project Manager | 19.00% | ~16,467 |
-| Curiosity | 19.00% | ~16,467 |
-| Collector | 19.00% | ~16,467 |
+| Project Manager | 19.00% | ~16,468 |
+| Curiosity | 19.00% | ~16,468 |
+| Collector | 19.00% | ~16,468 |
 | No Longer Red | 18.00% | ~15,601 |
 | Master | 18.00% | ~15,601 |
 | Self-sufficient | 17.00% | ~14,734 |
@@ -30,14 +30,14 @@ Number of Ratings: 2,731  (23.09.2022)
 | Grand champion | 11.00% | ~9,534 |
 | Spirit | 10.00% | ~8,667 |
 | Ultimate success | 10.00% | ~8,667 |
-| Variety Expert | 9.00% | ~7,800 |
+| Variety Expert | 9.00% | ~7,801 |
 | Frequent tester | 8.00% | ~6,934 |
 | Determined | 8.00% | ~6,934 |
 | Terraformer | 4.00% | ~3,467 |
 | Team Effort | 3.00% | ~2,600 |
 | Opportunity | 3.00% | ~2,600 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,671 (Ranked 97)  
+Progressed: 86,673 (Ranked 97)  
 Completed: 175 (0.20%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 175 (0.20%) (Ranked 270)
 | 2023-12-16 | 86,342 | 174 |
 | 2023-12-17 | 86,483 | 174 |
 | 2023-12-18 | 86,616 | 175 |
-| 2023-12-19 | 86,671 | 175 |
+| 2023-12-19 | 86,673 | 175 |
 ## Awards
 Max (Relaxing): 530  (Ranked 210)  
 Sum: 3,300 (Ranked 172)  

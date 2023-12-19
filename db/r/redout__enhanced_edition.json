@@ -2,7 +2,7 @@
   "ID": "93ea0d593cb04e62afb0741bbf894173",
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
-  "Ranking_Rating": 600,
+  "Ranking_Rating": 601,
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 68,
@@ -337,7 +337,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 237412,
+  "EOS_Progressed": 237413,
   "EOS_Completed": 49,
   "EOS_NewPlayers": 339,
   "EOS_NewCompleters": 0,
@@ -25782,6 +25782,11 @@
       "Time": "2023-12-19T14:03:10.0981394+00:00",
       "NumProgressed": 237412,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-19T15:03:31.2290565+00:00",
+      "NumProgressed": 237413,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -25809,7 +25814,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 66475
+      "UsersEstimate": 66476
     },
     {
       "ID": "CENTAUR",
@@ -25881,7 +25886,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 47482
+      "UsersEstimate": 47483
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -26009,7 +26014,7 @@
       "Name": "SHOWOFF",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 9496
+      "UsersEstimate": 9497
     },
     {
       "ID": "SNEAKYSNEAKY",
@@ -26064,15 +26069,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 237412,
+      "Progressed": 237413,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-12-19T14:03:10.098139+00:00",
+  "LastChanged_Achievements": "2023-12-19T15:03:31.2290558+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:19.1296374+00:00",
-  "LastUpdate_Ratings": "2023-12-19T13:58:23.1534007+00:00",
-  "LastUpdate_Achievements": "2023-12-19T14:03:10.0983072+00:00"
+  "LastUpdate_Ratings": "2023-12-19T14:58:47.0234456+00:00",
+  "LastUpdate_Achievements": "2023-12-19T15:03:31.229208+00:00"
 }

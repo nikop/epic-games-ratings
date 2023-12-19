@@ -4,7 +4,7 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 362,
+  "EOS_Progressed": 363,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.1,
   "EosHistory": [
@@ -861,6 +861,11 @@
       "Time": "2023-12-18T20:09:15.8163484+00:00",
       "NumProgressed": 362,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-19T15:09:32.2692283+00:00",
+      "NumProgressed": 363,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 19,
@@ -872,7 +877,7 @@
       "Name": "Picky!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "fail_ryan",
@@ -888,7 +893,7 @@
       "Name": "Playing the field",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "misha_date3_all",
@@ -904,7 +909,7 @@
       "Name": "Let it begin",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "profile_ryan",
@@ -912,7 +917,7 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "ryan_date2_all",
@@ -968,7 +973,7 @@
       "Name": "The individualist",
       "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "success_jake",
@@ -976,7 +981,7 @@
       "Name": "The nice guy",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "success_kathleen",
@@ -984,7 +989,7 @@
       "Name": "The intellectual",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "success_lucas",
@@ -1000,7 +1005,7 @@
       "Name": "The athlete",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "success_ty",
@@ -1023,7 +1028,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 362,
+      "Progressed": 363,
       "Completed": 4
     }
   ],
@@ -1031,8 +1036,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-12-19T14:09:11.6094775+00:00",
+  "LastChanged_Achievements": "2023-12-19T15:09:32.2692278+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:10.0190099+00:00",
-  "LastUpdate_Ratings": "2023-12-19T13:59:26.9015779+00:00",
-  "LastUpdate_Achievements": "2023-12-19T14:09:11.6094956+00:00"
+  "LastUpdate_Ratings": "2023-12-19T14:59:58.0333411+00:00",
+  "LastUpdate_Achievements": "2023-12-19T15:09:32.2692423+00:00"
 }

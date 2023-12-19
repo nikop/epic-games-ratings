@@ -5,21 +5,21 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meissa's Savior | 75.00% | ~145 |
-| Purification Pioneer | 69.00% | ~133 |
-| Mechanical Buddy | 64.00% | ~124 |
-| Dicesmithing Time! | 58.00% | ~112 |
+| Purification Pioneer | 70.00% | ~135 |
+| Mechanical Buddy | 65.00% | ~125 |
+| Dicesmithing Time! | 59.00% | ~114 |
 | Sanctuary Guardian | 52.00% | ~100 |
-| Endless Tricks | 48.00% | ~93 |
-| Wild's Keeper | 44.00% | ~85 |
+| Endless Tricks | 49.00% | ~95 |
+| Wild's Keeper | 45.00% | ~87 |
 | Mind Illuminator | 42.00% | ~81 |
 | Stellar Dismantler | 34.00% | ~66 |
 | Noctuan Champion | 34.00% | ~66 |
 | Anomaly Destroyer | 30.00% | ~58 |
-| Astral Adventurer | 28.00% | ~54 |
+| Astral Adventurer | 29.00% | ~56 |
 | Star Killer | 26.00% | ~50 |
 | Eridanian Champion | 24.00% | ~46 |
+| Loyal Partner | 23.00% | ~44 |
 | Lacertian Champion | 23.00% | ~44 |
-| Loyal Partner | 22.00% | ~42 |
 | Apian Champion | 21.00% | ~41 |
 | Shard Spender | 19.00% | ~37 |
 | Unbeatable | 17.00% | ~33 |
@@ -52,6 +52,7 @@
 | The Abyssal Terror | 3.00% | ~6 |
 | Aquarian Hero | 3.00% | ~6 |
 | Behenian Mastery | 3.00% | ~6 |
+| Eridanian Hero | 3.00% | ~6 |
 | Critical Twist | 2.00% | ~4 |
 | Pocket Astrarium | 2.00% | ~4 |
 | Reflexive Mind | 2.00% | ~4 |
@@ -59,7 +60,6 @@
 | The Ardent Prince | 2.00% | ~4 |
 | The Raging Skies | 2.00% | ~4 |
 | Aquarian Mastery | 2.00% | ~4 |
-| Eridanian Hero | 2.00% | ~4 |
 | Eridanian Mastery | 2.00% | ~4 |
 | Lacertian Mastery | 2.00% | ~4 |
 | Noctuan Mastery | 2.00% | ~4 |

@@ -2,7 +2,7 @@
   "ID": "3ffb410dab2d409aacd39a1abc6fcbba",
   "Name": "Prison Architect",
   "ProductSlug": "prison-architect",
-  "Ranking_Rating": 394,
+  "Ranking_Rating": 395,
   "Ranking_Popularity": 200,
   "Ranking_PopularitySum": 148,
   "Ranking_EOS_Progress": 75,
@@ -7581,9 +7581,9 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 205017,
+  "EOS_Progressed": 205037,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 2450,
+  "EOS_NewPlayers": 2459,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -35426,6 +35426,11 @@
       "Time": "2023-12-19T14:09:19.515422+00:00",
       "NumProgressed": 205017,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-19T15:09:41.0090906+00:00",
+      "NumProgressed": 205037,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 16,
@@ -35437,7 +35442,7 @@
       "Name": "Throw The Book At Them",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 4100
+      "UsersEstimate": 4101
     },
     {
       "ID": "Achievement_1",
@@ -35469,7 +35474,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 32803
+      "UsersEstimate": 32806
     },
     {
       "ID": "Achievement_13",
@@ -35517,7 +35522,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 51254
+      "UsersEstimate": 51259
     },
     {
       "ID": "Achievement_5",
@@ -35525,7 +35530,7 @@
       "Name": "Iron Bars",
       "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 4100
+      "UsersEstimate": 4101
     },
     {
       "ID": "Achievement_6",
@@ -35549,7 +35554,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 18452
+      "UsersEstimate": 18453
     },
     {
       "ID": "Achievement_9",
@@ -35557,22 +35562,22 @@
       "Name": "Spare The Rod",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 10251
+      "UsersEstimate": 10252
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 205017,
+      "Progressed": 205037,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-12-18T13:05:05.6242144+00:00",
-  "LastChanged_Achievements": "2023-12-19T14:09:19.5154217+00:00",
+  "LastChanged_Achievements": "2023-12-19T15:09:41.0090897+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:22.4491085+00:00",
-  "LastUpdate_Ratings": "2023-12-19T13:58:41.9580842+00:00",
-  "LastUpdate_Achievements": "2023-12-19T14:09:19.5155579+00:00"
+  "LastUpdate_Ratings": "2023-12-19T14:59:07.2684218+00:00",
+  "LastUpdate_Achievements": "2023-12-19T15:09:41.0092386+00:00"
 }

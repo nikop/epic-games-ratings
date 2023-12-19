@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Second Chance | 58.00% | ~129 |
-| Press-ganged | 42.00% | ~93 |
+| Press-ganged | 42.00% | ~94 |
 | The Package | 26.00% | ~58 |
-| Conquered | 20.00% | ~44 |
+| Conquered | 20.00% | ~45 |
 | Randomized | 18.00% | ~40 |
 | Breached | 12.00% | ~27 |
-| Scribe | 11.00% | ~24 |
+| Scribe | 11.00% | ~25 |
 | Tactician | 10.00% | ~22 |
 | Conciliator | 9.00% | ~20 |
 | Fight Another Day | 9.00% | ~20 |
@@ -21,19 +21,19 @@
 | Tail-wind | 7.00% | ~16 |
 | Harbinger | 6.00% | ~13 |
 | Strategist | 5.00% | ~11 |
-| Deputized | 5.00% | ~11 |
 | Courier | 5.00% | ~11 |
-| Been There | 5.00% | ~11 |
-| Spiritual Journey | 5.00% | ~11 |
 | Pilgrimage's End | 5.00% | ~11 |
 | Merchant | 5.00% | ~11 |
-| Trouble at Fort Larius | 5.00% | ~11 |
 | Quartermaster | 4.00% | ~9 |
 | Potential Unlocked | 4.00% | ~9 |
+| Deputized | 4.00% | ~9 |
 | The Voice of Hereafter | 4.00% | ~9 |
 | Despised | 4.00% | ~9 |
+| Been There | 4.00% | ~9 |
 | A Terrible Will | 4.00% | ~9 |
+| Spiritual Journey | 4.00% | ~9 |
 | Inquisitions of Discord | 4.00% | ~9 |
+| Trouble at Fort Larius | 4.00% | ~9 |
 | Unseen Patterns | 4.00% | ~9 |
 | Bounty Hunter | 3.00% | ~7 |
 | Huntress Unbound | 3.00% | ~7 |
@@ -66,20 +66,20 @@
 | What Lies Below | 0.90% | ~2 |
 | The Last Voyage | 0.90% | ~2 |
 | Theory to Practice | 0.90% | ~2 |
-| And the Sky Full of Stars | 0.50% | ~1 |
-| General | 0.50% | ~1 |
-| Company of Heroes | 0.50% | ~1 |
-| Conqueror | 0.50% | ~1 |
-| Forager | 0.50% | ~1 |
-| Forged in Battle | 0.50% | ~1 |
-| Manticore | 0.50% | ~1 |
-| Chromatic Collector | 0.50% | ~1 |
-| Loader | 0.50% | ~1 |
-| Mercenary | 0.50% | ~1 |
-| Despoiler | 0.50% | ~1 |
-| Celebrity | 0.50% | ~1 |
-| Arcanite | 0.50% | ~1 |
-| Tax Evasion | 0.50% | ~1 |
+| And the Sky Full of Stars | 0.40% | ~1 |
+| General | 0.40% | ~1 |
+| Company of Heroes | 0.40% | ~1 |
+| Conqueror | 0.40% | ~1 |
+| Forager | 0.40% | ~1 |
+| Forged in Battle | 0.40% | ~1 |
+| Manticore | 0.40% | ~1 |
+| Chromatic Collector | 0.40% | ~1 |
+| Loader | 0.40% | ~1 |
+| Mercenary | 0.40% | ~1 |
+| Despoiler | 0.40% | ~1 |
+| Celebrity | 0.40% | ~1 |
+| Arcanite | 0.40% | ~1 |
+| Tax Evasion | 0.40% | ~1 |
 | Liberator | 0.00% | ~0 |
 | For the Cause! | 0.00% | ~0 |
 | Death Denied | 0.00% | ~0 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222 (Ranked 394)  
+Progressed: 223 (Ranked 393)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,6 +194,7 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-16 | 215 | 0 |
 | 2023-12-17 | 218 | 0 |
 | 2023-12-18 | 222 | 0 |
+| 2023-12-19 | 223 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

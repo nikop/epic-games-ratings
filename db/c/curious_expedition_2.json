@@ -630,9 +630,9 @@
       "ID": "ach-discover-locations",
       "SetID": "17ih7ma",
       "Name": "Cartographer",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 204
+      "UsersEstimate": 207
     },
     {
       "ID": "ach-discover-locations-high",
@@ -678,9 +678,9 @@
       "ID": "ach-firstExpedition",
       "SetID": "17ih7ma",
       "Name": "The Adventure Begins",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 233
     },
     {
       "ID": "ach-hardExpeditions",
@@ -798,9 +798,9 @@
       "ID": "ach-noRest",
       "SetID": "17ih7ma",
       "Name": "Insomnia",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 178
     },
     {
       "ID": "ach-pacifist-goals",
@@ -943,8 +943,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-12-19T14:09:48.6501442+00:00",
+  "LastChanged_Achievements": "2023-12-19T15:10:11.4444444+00:00",
   "LastUpdate_AppInfo": "2023-12-16T13:57:07.0437312+00:00",
-  "LastUpdate_Ratings": "2023-12-19T13:58:56.5093136+00:00",
-  "LastUpdate_Achievements": "2023-12-19T14:09:48.6501843+00:00"
+  "LastUpdate_Ratings": "2023-12-19T14:59:23.603622+00:00",
+  "LastUpdate_Achievements": "2023-12-19T15:10:11.4444921+00:00"
 }

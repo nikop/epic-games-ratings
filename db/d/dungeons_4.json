@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 106,
   "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -2013,9 +2013,9 @@
       "ID": "ach_main15drill_completed",
       "SetID": "4hg22ll",
       "Name": "The Finitude Drill",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 183
     },
     {
       "ID": "ach_main15drill_sabotage",
@@ -2164,8 +2164,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-19T14:08:16.5172522+00:00",
+  "LastChanged_Achievements": "2023-12-19T15:08:33.2462758+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:09.5802782+00:00",
-  "LastUpdate_Ratings": "2023-12-19T13:59:19.5371851+00:00",
-  "LastUpdate_Achievements": "2023-12-19T14:08:16.5173066+00:00"
+  "LastUpdate_Ratings": "2023-12-19T14:59:50.0789577+00:00",
+  "LastUpdate_Achievements": "2023-12-19T15:08:33.2463262+00:00"
 }

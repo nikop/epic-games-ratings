@@ -2,7 +2,7 @@
   "ID": "48e20c81667c4ff49c85dd79ac3a01b0",
   "Name": "Redfall",
   "ProductSlug": "redfall",
-  "Ranking_Rating": 1061,
+  "Ranking_Rating": 1062,
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 235,
@@ -283,9 +283,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1942,
+  "EOS_Progressed": 1944,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2883,6 +2883,11 @@
       "Time": "2023-12-19T11:03:55.9711635+00:00",
       "NumProgressed": 1942,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T15:03:36.7113006+00:00",
+      "NumProgressed": 1944,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3012,9 +3017,9 @@
       "ID": "Achievement_017",
       "SetID": "6b34g18",
       "Name": "Bad Wiring",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 58
     },
     {
       "ID": "Achievement_018",
@@ -3092,9 +3097,9 @@
       "ID": "Achievement_027",
       "SetID": "6b34g18",
       "Name": "Peek-a-boo",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 97
     },
     {
       "ID": "Achievement_028",
@@ -3421,7 +3426,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1942,
+      "Progressed": 1944,
       "Completed": 0
     }
   ],
@@ -3429,8 +3434,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-19T11:02:35.1367556+00:00",
-  "LastChanged_Achievements": "2023-12-19T14:03:15.2471271+00:00",
+  "LastChanged_Achievements": "2023-12-19T15:03:36.7113001+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:02.9619993+00:00",
-  "LastUpdate_Ratings": "2023-12-19T14:00:21.0490159+00:00",
-  "LastUpdate_Achievements": "2023-12-19T14:03:15.2472275+00:00"
+  "LastUpdate_Ratings": "2023-12-19T15:02:35.9767076+00:00",
+  "LastUpdate_Achievements": "2023-12-19T15:03:36.7113645+00:00"
 }

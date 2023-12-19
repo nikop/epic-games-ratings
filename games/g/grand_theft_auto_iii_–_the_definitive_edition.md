@@ -1,25 +1,25 @@
 # Grand Theft Auto III – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-iii-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto_iii_–_the_definitive_edition.json)  
-Rating: 4.19 (Ranked 938)  
+Rating: 4.19 (Ranked 939)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~8,146 |
-| Disposing of the Evidence | 38.00% | ~3,729 |
-| Without a Scratch | 34.00% | ~3,337 |
-| Wreckless Driving | 28.00% | ~2,748 |
-| A Marked Man | 25.00% | ~2,454 |
-| Street Sweeper | 18.00% | ~1,767 |
-| Liberty City Minute | 17.00% | ~1,668 |
-| Offshore Delivery | 13.00% | ~1,276 |
-| Dirty Money | 12.00% | ~1,178 |
-| By a Mile | 10.00% | ~981 |
-| Not So Fast | 10.00% | ~981 |
-| Right-hand Man | 10.00% | ~981 |
-| A Gift from the King | 7.00% | ~687 |
+| First Day on the Job | 83.00% | ~8,153 |
+| Disposing of the Evidence | 38.00% | ~3,733 |
+| Without a Scratch | 34.00% | ~3,340 |
+| Wreckless Driving | 28.00% | ~2,750 |
+| A Marked Man | 25.00% | ~2,456 |
+| Street Sweeper | 18.00% | ~1,768 |
+| Liberty City Minute | 17.00% | ~1,670 |
+| Offshore Delivery | 13.00% | ~1,277 |
+| Dirty Money | 12.00% | ~1,179 |
+| By a Mile | 10.00% | ~982 |
+| Not So Fast | 10.00% | ~982 |
+| Right-hand Man | 10.00% | ~982 |
+| A Gift from the King | 7.00% | ~688 |
 | Full Artillery | 4.00% | ~393 |
-| Mob Boss | 3.00% | ~294 |
+| Mob Boss | 3.00% | ~295 |
 | Escape Artist | 2.00% | ~196 |
 | Where To? | 2.00% | ~196 |
 | Splish Splash | 2.00% | ~196 |
@@ -35,7 +35,7 @@ Rating: 4.19 (Ranked 938)
 | Is That All You've Got? | 0.90% | ~88 |
 | King of Liberty City | 0.60% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,814 (Ranked 172)  
+Progressed: 9,823 (Ranked 172)  
 Completed: 62 (0.63%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 62 (0.63%) (Ranked 195)
 | 2023-12-16 | 9,453 | 60 |
 | 2023-12-17 | 9,639 | 61 |
 | 2023-12-18 | 9,752 | 61 |
-| 2023-12-19 | 9,814 | 62 |
+| 2023-12-19 | 9,823 | 62 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

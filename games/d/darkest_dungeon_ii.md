@@ -1,24 +1,24 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 260)  
+Rating: 4.68 (Ranked 261)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 8.00% | ~270 |
-| Lost and Found | 5.00% | ~169 |
-| This Belongs in a Museum | 4.00% | ~5,140 |
-| Autodidact | 4.00% | ~5,140 |
-| This guy... again? | 4.00% | ~135 |
-| Bloody Graduation | 4.00% | ~135 |
-| Not Today! | 3.00% | ~3,855 |
-| Creep and Sleep | 3.00% | ~3,855 |
-| Meat and Greet | 3.00% | ~3,855 |
-| Catch and Decease | 3.00% | ~3,855 |
-| Overdue Notice | 3.00% | ~3,855 |
-| Escape from the Black Hole | 3.00% | ~3,855 |
-| Ploughshares to Swords | 3.00% | ~101 |
+| Malpractice Assurance | 8.00% | ~271 |
+| Lost and Found | 5.00% | ~170 |
+| This Belongs in a Museum | 4.00% | ~5,141 |
+| Autodidact | 4.00% | ~5,141 |
+| This guy... again? | 4.00% | ~136 |
+| Bloody Graduation | 4.00% | ~136 |
+| Not Today! | 3.00% | ~3,856 |
+| Creep and Sleep | 3.00% | ~3,856 |
+| Meat and Greet | 3.00% | ~3,856 |
+| Catch and Decease | 3.00% | ~3,856 |
+| Overdue Notice | 3.00% | ~3,856 |
+| Escape from the Black Hole | 3.00% | ~3,856 |
+| Ploughshares to Swords | 3.00% | ~102 |
 | Don't Make Me Turn This Coach Around | 2.00% | ~2,570 |
 | Serenity Now! | 2.00% | ~2,570 |
 | It Rings a Bell | 2.00% | ~2,570 |
@@ -40,6 +40,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Wyrdly Reconstructed | 1.00% | ~1,285 |
 | Boxcar Kid | 1.00% | ~1,285 |
 | Unfulfilled Desires | 1.00% | ~1,285 |
+| Hope Rekindled | 1.00% | ~1,285 |
 | Predator | 1.00% | ~1,285 |
 | Banishment | 1.00% | ~1,285 |
 | Deprogramming | 1.00% | ~1,285 |
@@ -53,7 +54,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Utopia | 1.00% | ~1,285 |
 | Unshackled | 1.00% | ~1,285 |
 | Road Trip | 1.00% | ~1,285 |
-| Hope Rekindled | 0.90% | ~1,157 |
 | Ichthyophobic | 0.90% | ~1,157 |
 | No More Mouths to Feed | 0.90% | ~1,157 |
 | Hot Air | 0.80% | ~1,028 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,511 (Ranked 85)  
+Progressed: 128,522 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 3 (0.00%) (Ranked 383)
 | 2023-12-16 | 127,826 | 3 |
 | 2023-12-17 | 128,143 | 3 |
 | 2023-12-18 | 128,398 | 3 |
-| 2023-12-19 | 128,511 | 3 |
+| 2023-12-19 | 128,522 | 3 |
 ## Awards
 Max (Character Customization): 7,795  (Ranked 50)  
 Sum: 20,792 (Ranked 58)  

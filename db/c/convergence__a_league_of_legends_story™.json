@@ -2,12 +2,12 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 339,
+  "Ranking_Rating": 340,
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -45,9 +45,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1030,
+  "EOS_Progressed": 1032,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -2845,6 +2845,11 @@
       "Time": "2023-12-18T20:09:38.2609175+00:00",
       "NumProgressed": 1030,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-19T15:09:57.4651223+00:00",
+      "NumProgressed": 1032,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2896,7 +2901,7 @@
       "Name": "Corin Goes Home",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ClockworkProgress1",
@@ -2920,7 +2925,7 @@
       "Name": "Sartorialist",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "CosmeticProgress1",
@@ -2944,7 +2949,7 @@
       "Name": "Entresol Explorer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ExamineFamilyPortrait",
@@ -2976,7 +2981,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -2992,7 +2997,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "GadgetCompletion1",
@@ -3040,7 +3045,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "LacunaCompleted",
@@ -3128,7 +3133,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "PidgeDefeated",
@@ -3144,7 +3149,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "RewindParry",
@@ -3200,7 +3205,7 @@
       "Name": "Sump Explorer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "SyronGift",
@@ -3208,7 +3213,7 @@
       "Name": "Syron for Hope",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "TemporalPulseKills1",
@@ -3232,7 +3237,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "WarwickDefeated",
@@ -3272,14 +3277,14 @@
       "Name": "The Family Fortune",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1030,
+      "Progressed": 1032,
       "Completed": 6
     }
   ],
@@ -3287,8 +3292,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-18T08:57:59.1291337+00:00",
-  "LastChanged_Achievements": "2023-12-19T14:09:34.7604602+00:00",
+  "LastChanged_Achievements": "2023-12-19T15:09:57.4651216+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.1550939+00:00",
-  "LastUpdate_Ratings": "2023-12-19T13:58:25.880909+00:00",
-  "LastUpdate_Achievements": "2023-12-19T14:09:34.7605053+00:00"
+  "LastUpdate_Ratings": "2023-12-19T14:58:50.0945731+00:00",
+  "LastUpdate_Achievements": "2023-12-19T15:09:57.4651726+00:00"
 }

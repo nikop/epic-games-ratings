@@ -1,19 +1,19 @@
 # The Surge
 [Store](https://store.epicgames.com/en-US/p/the-surge)  
 [View Rawdata](../../db/t/the_surge.json)  
-Rating: 4.43 (Ranked 700)  
+Rating: 4.43 (Ranked 701)  
 Number of Ratings: 62  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,682 |
-| I'll Be Back | 84.00% | ~4,184 |
-| Sorry, I Dropped This | 77.00% | ~3,835 |
+| On My Own Two Feet | 94.00% | ~4,683 |
+| I'll Be Back | 84.00% | ~4,185 |
+| Sorry, I Dropped This | 77.00% | ~3,836 |
 | First Day on the Job | 76.00% | ~3,786 |
 | Butcher's Bill | 55.00% | ~2,740 |
 | P.A.X | 37.00% | ~1,843 |
 | Hey Listen | 37.00% | ~1,843 |
-| OPERATOR | 36.00% | ~1,793 |
+| OPERATOR | 36.00% | ~1,794 |
 | It's Blue Light | 33.00% | ~1,644 |
 | Most Wanted | 26.00% | ~1,295 |
 | Infidel | 23.00% | ~1,146 |
@@ -35,9 +35,9 @@ Number of Ratings: 62  (23.09.2022)
 | Raging Drones | 9.00% | ~448 |
 | Overconfident | 9.00% | ~448 |
 | Is This Real Life? | 9.00% | ~448 |
-| Pusher Man | 8.00% | ~398 |
-| Squad Chief Helvig | 8.00% | ~398 |
-| No More Marching | 8.00% | ~398 |
+| Pusher Man | 8.00% | ~399 |
+| Squad Chief Helvig | 8.00% | ~399 |
+| No More Marching | 8.00% | ~399 |
 | Duty-Bound | 7.00% | ~349 |
 | Follow the White Rabbit | 7.00% | ~349 |
 | Liberation | 7.00% | ~349 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~30 |
 | The Surge | 0.40% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,981 (Ranked 198)  
+Progressed: 4,982 (Ranked 198)  
 Completed: 18 (0.36%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 18 (0.36%) (Ranked 235)
 | 2023-12-16 | 4,924 | 18 |
 | 2023-12-17 | 4,956 | 18 |
 | 2023-12-18 | 4,973 | 18 |
-| 2023-12-19 | 4,981 | 18 |
+| 2023-12-19 | 4,982 | 18 |
 ## Awards
 Max (Great Boss Battles): 29  (Ranked 509)  
 Sum: 29 (Ranked 525)  

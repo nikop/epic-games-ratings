@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | The only good Rat is a dead Rat | 90.00% | ~9 |
 | Act of Violence | 90.00% | ~9 |
+| Dead End | 50.00% | ~5 |
 | Ace in the Hole | 50.00% | ~5 |
 | A Cure for Wellness | 50.00% | ~5 |
-| Dead End | 40.00% | ~4 |
 | The New Beginning | 40.00% | ~4 |
 | Red is Dead | 30.00% | ~3 |
 | Out of the Past | 20.00% | ~2 |

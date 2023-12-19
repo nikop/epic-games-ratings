@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 557,
+  "EOS_Progressed": 558,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1329,6 +1329,11 @@
       "Time": "2023-12-19T13:15:01.6123501+00:00",
       "NumProgressed": 557,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T15:10:08.8216615+00:00",
+      "NumProgressed": 558,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1380,7 +1385,7 @@
       "Name": "Bug Hunter",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "Cryomancer",
@@ -1468,7 +1473,7 @@
       "Name": "Librarian",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "Lumberjack",
@@ -1524,7 +1529,7 @@
       "Name": "Orcs Must Die!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "Pyromancer",
@@ -1604,7 +1609,7 @@
       "Name": "The Fallen",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "TheTrio",
@@ -1659,7 +1664,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 557,
+      "Progressed": 558,
       "Completed": 1
     }
   ],
@@ -1667,8 +1672,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-19T14:09:45.9764207+00:00",
+  "LastChanged_Achievements": "2023-12-19T15:10:08.8216606+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:31.304442+00:00",
-  "LastUpdate_Ratings": "2023-12-19T13:59:14.8562929+00:00",
-  "LastUpdate_Achievements": "2023-12-19T14:09:45.9764501+00:00"
+  "LastUpdate_Ratings": "2023-12-19T14:59:44.9014184+00:00",
+  "LastUpdate_Achievements": "2023-12-19T15:10:08.8217041+00:00"
 }

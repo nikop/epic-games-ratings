@@ -1,7 +1,7 @@
 # Sherlock Holmes The Awakened
 [Store](https://store.epicgames.com/en-US/p/sherlock-holmes-the-awakened)  
 [View Rawdata](../../db/s/sherlock_holmes_the_awakened.json)  
-Rating: 4.54 (Ranked 531)  
+Rating: 4.54 (Ranked 532)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,19 +13,19 @@ Rating: 4.54 (Ranked 531)
 | A Method To His Madness | 47.00% | ~588 |
 | History Check | 46.00% | ~576 |
 | The New World | 44.00% | ~551 |
+| Gaze Into The Abyss | 43.00% | ~538 |
 | Open Sesame | 43.00% | ~538 |
 | Sticky Fingers | 43.00% | ~538 |
 | Lock, Stock, And Barrel | 42.00% | ~526 |
-| Gaze Into The Abyss | 42.00% | ~526 |
 | Knives Out | 42.00% | ~526 |
 | Land, Ho! | 42.00% | ~526 |
 | Back In The Saddle | 41.00% | ~513 |
 | No Man Is An Island | 40.00% | ~501 |
-| At Wits' End | 39.00% | ~488 |
+| At Wits' End | 40.00% | ~501 |
 | Up In Flames | 38.00% | ~476 |
 | Fhtagn! | 38.00% | ~476 |
 | Bookworm | 37.00% | ~463 |
-| Going Once... | 35.00% | ~438 |
+| Going Once... | 36.00% | ~451 |
 | Let Me Be Frank | 34.00% | ~426 |
 | No Stone Unturned | 32.00% | ~401 |
 | Brain Food | 30.00% | ~376 |
@@ -34,7 +34,7 @@ Rating: 4.54 (Ranked 531)
 | Big Breakthrough | 12.00% | ~150 |
 | Reawakened | 3.00% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,252 (Ranked 259)  
+Progressed: 1,252 (Ranked 260)  
 Completed: 34 (2.72%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |

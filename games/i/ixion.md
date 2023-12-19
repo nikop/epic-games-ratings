@@ -1,35 +1,35 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.58 (Ranked 455)  
+Rating: 4.58 (Ranked 456)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 30.00% | ~1,072 |
-| Sputnik 2049 | 27.00% | ~965 |
-| Infinite Growth... | 26.00% | ~929 |
-| Without Breaking Some Eggs... | 25.00% | ~893 |
-| A Thousand Strong | 18.00% | ~643 |
-| Ready for a New World | 18.00% | ~643 |
-| Space Society | 17.00% | ~607 |
-| Permanent Redesigns | 15.00% | ~536 |
-| Fully Recycled | 14.00% | ~500 |
-| Ain't Nobody Got Time for That | 14.00% | ~500 |
-| The Ship of Theseus | 14.00% | ~500 |
-| Guy de Borderlands | 13.00% | ~464 |
+| Wakey Wakey | 30.00% | ~1,073 |
+| Infinite Growth... | 26.00% | ~930 |
+| Sputnik 2049 | 26.00% | ~930 |
+| Without Breaking Some Eggs... | 25.00% | ~894 |
+| Ready for a New World | 18.00% | ~644 |
+| Space Society | 17.00% | ~608 |
+| A Thousand Strong | 17.00% | ~608 |
+| Permanent Redesigns | 15.00% | ~537 |
+| Fully Recycled | 14.00% | ~501 |
+| Ain't Nobody Got Time for That | 14.00% | ~501 |
+| The Ship of Theseus | 14.00% | ~501 |
+| Guy de Borderlands | 13.00% | ~465 |
 | Exceeding Capacity | 12.00% | ~429 |
 | Breaking Protocol | 12.00% | ~429 |
 | Hope Seeker | 12.00% | ~429 |
-| A Hunk of Junk | 11.00% | ~393 |
+| A Hunk of Junk | 11.00% | ~394 |
 | Man's Best Friend | 9.00% | ~322 |
 | Power Outage | 8.00% | ~286 |
 | Convenient Transport | 8.00% | ~286 |
 | Please Make it Stop! | 8.00% | ~286 |
 | Sightseeing | 7.00% | ~250 |
 | Necessary Enhancement | 7.00% | ~250 |
-| Access Granted | 6.00% | ~214 |
-| All in Good Health | 6.00% | ~214 |
-| From the Past | 6.00% | ~214 |
+| Access Granted | 6.00% | ~215 |
+| All in Good Health | 6.00% | ~215 |
+| From the Past | 6.00% | ~215 |
 | Oats | 5.00% | ~179 |
 | What They Hide From Us | 5.00% | ~179 |
 | ...  in a finite world | 5.00% | ~179 |
@@ -43,11 +43,11 @@ Rating: 4.58 (Ranked 455)
 | Delivery! | 3.00% | ~107 |
 | Help of the Forgotten Member | 3.00% | ~107 |
 | Pulsar Disciple | 3.00% | ~107 |
-| Mutual Loyalty | 2.00% | ~71 |
-| Tiqqun Contender | 2.00% | ~71 |
-| Catastrophe Avoided | 2.00% | ~71 |
-| Space Greenhouse | 2.00% | ~71 |
-| Tiqqun Unchained | 2.00% | ~71 |
+| Mutual Loyalty | 2.00% | ~72 |
+| Tiqqun Contender | 2.00% | ~72 |
+| Catastrophe Avoided | 2.00% | ~72 |
+| Space Greenhouse | 2.00% | ~72 |
+| Tiqqun Unchained | 2.00% | ~72 |
 | Better Him Than Me | 1.00% | ~36 |
 | Remember the Dead | 1.00% | ~36 |
 | You Had One Job... | 1.00% | ~36 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 455)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,573 (Ranked 211)  
+Progressed: 3,578 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-16 | 3,519 | 0 |
 | 2023-12-17 | 3,550 | 0 |
 | 2023-12-18 | 3,569 | 0 |
-| 2023-12-19 | 3,573 | 0 |
+| 2023-12-19 | 3,578 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
