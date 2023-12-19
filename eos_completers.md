@@ -8,7 +8,7 @@
 | 6 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.84% |
 | 7 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 44.89% |
 | 8 | [greensheen Production](games/g/greensheen_production.md) | 43.75% |
-| 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 38.10% |
+| 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 38.51% |
 | 10 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 36.32% |
 | 11 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 33.33% |
 | 11 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 33.33% |
@@ -45,7 +45,7 @@
 | 43 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 9.52% |
 | 44 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
 | 45 | [Smelter](games/s/smelter.md) | 9.30% |
-| 46 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.07% |
+| 46 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.10% |
 | 47 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 9.02% |
 | 48 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.67% |
 | 49 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 8.33% |
@@ -91,7 +91,7 @@
 | 89 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.23% |
 | 90 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.20% |
 | 91 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 4.17% |
-| 92 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.11% |
+| 92 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.10% |
 | 93 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.02% |
 | 94 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | 4.00% |
 | 95 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.90% |
@@ -174,7 +174,7 @@
 | 172 | [Sable](games/s/sable.md) | 1.02% |
 | 172 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.02% |
 | 172 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.02% |
-| 175 | [Colossal Cave](games/c/colossal_cave.md) | 0.99% |
+| 175 | [Colossal Cave](games/c/colossal_cave.md) | 0.98% |
 | 176 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.96% |
 | 176 | [Trifox](games/t/trifox.md) | 0.96% |
 | 178 | [A Musical Story](games/a/a_musical_story.md) | 0.92% |
@@ -195,14 +195,14 @@
 | 193 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.69% |
 | 194 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.64% |
 | 195 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.62% |
-| 195 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 0.62% |
+| 196 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 0.61% |
 | 197 | [Haven](games/h/haven.md) | 0.60% |
-| 198 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.59% |
 | 198 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.59% |
-| 200 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 0.58% |
-| 200 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.58% |
-| 200 | [Grindstone](games/g/grindstone.md) | 0.58% |
-| 200 | [Potion Permit](games/p/potion_permit.md) | 0.58% |
+| 199 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 0.58% |
+| 199 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.58% |
+| 199 | [Grindstone](games/g/grindstone.md) | 0.58% |
+| 199 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.58% |
+| 199 | [Potion Permit](games/p/potion_permit.md) | 0.58% |
 | 204 | [Scrapnaut](games/s/scrapnaut.md) | 0.57% |
 | 204 | [The Surge 2](games/t/the_surge_2.md) | 0.57% |
 | 206 | [Aragami 2](games/a/aragami_2.md) | 0.56% |
@@ -227,10 +227,10 @@
 | 224 | [Tchia](games/t/tchia.md) | 0.42% |
 | 226 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.40% |
 | 226 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.40% |
-| 226 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.40% |
-| 229 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.39% |
-| 229 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.39% |
-| 229 | [Wildermyth](games/w/wildermyth.md) | 0.39% |
+| 228 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.39% |
+| 228 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.39% |
+| 228 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.39% |
+| 228 | [Wildermyth](games/w/wildermyth.md) | 0.39% |
 | 232 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.38% |
 | 232 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
 | 234 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.37% |
@@ -271,12 +271,12 @@
 | 266 | [GRIME](games/g/grime.md) | 0.21% |
 | 270 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.20% |
 | 271 | [Going Medieval](games/g/going_medieval.md) | 0.19% |
-| 271 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.19% |
-| 273 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.18% |
-| 273 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.18% |
-| 273 | [Lost Ruins](games/l/lost_ruins.md) | 0.18% |
-| 273 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.18% |
-| 273 | [Scathe](games/s/scathe.md) | 0.18% |
+| 272 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.18% |
+| 272 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.18% |
+| 272 | [Lost Ruins](games/l/lost_ruins.md) | 0.18% |
+| 272 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.18% |
+| 272 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.18% |
+| 272 | [Scathe](games/s/scathe.md) | 0.18% |
 | 278 | [Blanc](games/b/blanc.md) | 0.17% |
 | 279 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.16% |
 | 279 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
