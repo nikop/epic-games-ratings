@@ -89,7 +89,6 @@
 | [The Harvest](games/1/171eb5b083604de697c6d64e243d308b.md) | 2024-01-31 | - |  | - | - |
 | [The Evolving Forest](games/6/6e80378d8a1444cf94e8221bee233464.md) | 2024-01-31 | - |  | - | - |
 | [Argonauts Agency 5: Captive of Circe](games/7/7f9155561a3e461a83739c94459d013b.md) | 2024-02-01 | - |  | - | - |
-| [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 2024-02-02 | - |  | - | - |
 | [1001 Jigsaw. World Tour: Great America](games/1/12d6ced529194cd583ec2690325036bc.md) | 2024-02-04 | - |  | - | - |
 | [Mahjong Valentine's Day](games/f/f6228e2659d24439b49d918618787b44.md) | 2024-02-07 | - |  | - | - |
 | [The Inquisitor](games/f/f58503d7dbfe4aa5ab843e853b519901.md) | 2024-02-08 | - |  | - | - |
@@ -120,6 +119,7 @@
 | [Deverse World](games/c/c4a0429b74cb4abbb49b15e652ec6c1f.md) | 2024-02-29 | 19 (1,000 XP) | 460 | - | 0 |
 | [Expeditions - A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 2024-03-05 | - |  | - | - |
 | [Life by You](games/l/life_by_you.md) | 2024-03-05 | - |  | - | - |
+| [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 2024-03-05 | - |  | - | - |
 | [Total Reload](games/t/total_reload.md) | 2024-03-07 | - |  | - | - |
 | [Homeworld 3](games/h/homeworld_3.md) | 2024-03-08 | - |  | - | - |
 | [My Sweet Floating in the Void](games/8/8a33892627f0470faf7a76965e29a197.md) | 2024-03-14 | 5 (1,000 XP) | 0 | - | - |
@@ -155,7 +155,7 @@
 | [Elden Gunfire](games/2/2a031a58bca34b179a0c7b9c1a9e130e.md) | 2024-06-30 | - |  | - | - |
 | [Forgotten Runiverse](games/2/28102c9b12f0424cb937170f7f6286b9.md) | 2024-06-30 | - |  | - | - |
 | [I Love Finding Cats](games/2/22d7d08b02de4ce79b0316ced5064741.md) | 2024-06-30 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 398,137 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 398,138 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
@@ -331,6 +331,7 @@
 | [Forza Polpo](games/1/11e946fd34244e56b7af5d99e87bf5d4.md) | 2099-01-01 | - |  | - | - |
 | [FRACTALS OF DESTINY](games/c/c3282c07843f4c4b8601d8c6abd1d7c5.md) | 2099-01-01 | 8 (1,000 XP) | 1 | - | - |
 | [G.I. Joe Wrath of Cobra](games/d/d9d79f35d883467ca7886d443087b602.md) | 2099-01-01 | - |  | - | - |
+| [Game Room](games/4/40712343dccb4c8183c34eda1c034c17.md) | 2099-01-01 | - |  | - | - |
 | [Gastro Force](games/g/gastro_force.md) | 2099-01-01 | - |  | - | - |
 | [Gematombe](games/g/gematombe.md) | 2099-01-01 | - |  | - | - |
 | [Goldilock One - BOSS Arena](games/g/goldilock_one_-_boss_arena.md) | 2099-01-01 | - |  | - | - |
