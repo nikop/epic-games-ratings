@@ -17,9 +17,9 @@
 | Solved eighth case | 6.00% | ~13 |
 | Solved The Spider of Lanka 2nd Case | 6.00% | ~10 |
 | Solved the Lemurian Vampire 2nd Case | 5.00% | ~8 |
+| Solved tenth case | 4.00% | ~9 |
 | Solved eleventh case | 3.00% | ~7 |
 | Solved ninth case | 3.00% | ~7 |
-| Solved tenth case | 3.00% | ~7 |
 | Solved the Lemurian Vampire 3rd Case | 2.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 221 (Ranked 395)  

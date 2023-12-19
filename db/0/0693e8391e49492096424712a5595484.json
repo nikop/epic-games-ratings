@@ -2472,9 +2472,9 @@
       "ID": "BeggarWomanCoin",
       "SetID": "db30heh",
       "Name": "Alms",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 529
+      "UsersEstimate": 535
     },
     {
       "ID": "BeggarWomanFishGrilled",
@@ -2775,8 +2775,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-12-19T05:07:33.2020893+00:00",
+  "LastChanged_Achievements": "2023-12-19T07:03:16.2777326+00:00",
   "LastUpdate_AppInfo": "2023-12-13T02:20:40.9635354+00:00",
-  "LastUpdate_Ratings": "2023-12-19T05:57:28.7582819+00:00",
-  "LastUpdate_Achievements": "2023-12-19T05:07:33.2021223+00:00"
+  "LastUpdate_Ratings": "2023-12-19T06:57:35.7585057+00:00",
+  "LastUpdate_Achievements": "2023-12-19T07:03:16.2777703+00:00"
 }

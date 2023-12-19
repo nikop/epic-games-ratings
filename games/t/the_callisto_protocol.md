@@ -5,28 +5,28 @@ Rating: 4.19 (Ranked 939)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 13.00% | ~2,338 |
-| Get a Grip | 13.00% | ~2,338 |
-| The Outer Way | 13.00% | ~2,338 |
-| Paper Jams | 12.00% | ~2,158 |
-| Desperate Times | 12.00% | ~2,158 |
+| Flesh Wound | 13.00% | ~2,339 |
+| Get a Grip | 13.00% | ~2,339 |
+| The Outer Way | 13.00% | ~2,339 |
+| Paper Jams | 12.00% | ~2,159 |
+| Desperate Times | 12.00% | ~2,159 |
 | Chew 'Em Up | 10.00% | ~1,799 |
 | Float Like A Butterfly | 10.00% | ~1,799 |
 | Reforged | 9.00% | ~1,619 |
 | Workplace Hazard | 8.00% | ~1,439 |
 | If the SHU Fits... | 8.00% | ~1,439 |
-| Without A Paddle | 7.00% | ~1,259 |
-| Two Heads Are Better Than One | 6.00% | ~1,079 |
-| Terminated | 6.00% | ~1,079 |
-| In the Pipe, Five by Five | 6.00% | ~1,079 |
-| What Lies Beneath | 6.00% | ~1,079 |
-| Crash Site | 6.00% | ~1,079 |
-| Full Circle | 6.00% | ~1,079 |
-| Power Up | 6.00% | ~1,079 |
+| Without A Paddle | 7.00% | ~1,260 |
+| Two Heads Are Better Than One | 6.00% | ~1,080 |
+| Terminated | 6.00% | ~1,080 |
+| In the Pipe, Five by Five | 6.00% | ~1,080 |
+| What Lies Beneath | 6.00% | ~1,080 |
+| Crash Site | 6.00% | ~1,080 |
+| Full Circle | 6.00% | ~1,080 |
+| Power Up | 6.00% | ~1,080 |
 | Keep Fighting | 6.00% | ~355 |
-| Giving Back | 5.00% | ~899 |
-| You Need a Gun | 5.00% | ~899 |
-| I Do Belong Here | 5.00% | ~899 |
+| Giving Back | 5.00% | ~900 |
+| You Need a Gun | 5.00% | ~900 |
+| I Do Belong Here | 5.00% | ~900 |
 | It's Time | 4.00% | ~237 |
 | In Striking Distance | 3.00% | ~540 |
 | The Commonality | 3.00% | ~540 |
@@ -39,7 +39,7 @@ Rating: 4.19 (Ranked 939)
 | Mugshot | 0.80% | ~144 |
 | Information Overload | 0.80% | ~47 |
 | Instigator | 0.70% | ~41 |
-| Quick Pick | 0.60% | ~35 |
+| Quick Pick | 0.60% | ~36 |
 | Subject Alpha | 0.40% | ~24 |
 | Don't Let It Mellow | 0.30% | ~18 |
 | The Protocol is About Life | 0.20% | ~36 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 939)
 | Bear Trap | 0.10% | ~6 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,987 (Ranked 149)  
+Progressed: 17,993 (Ranked 149)  
 Completed: 82 (0.46%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 82 (0.46%) (Ranked 219)
 | 2023-12-16 | 17,442 | 82 |
 | 2023-12-17 | 17,760 | 82 |
 | 2023-12-18 | 17,946 | 82 |
-| 2023-12-19 | 17,987 | 82 |
+| 2023-12-19 | 17,993 | 82 |
 ## Awards
 Max (Quickly Understood Controls): 88  (Ranked 388)  
 Sum: 523 (Ranked 327)  

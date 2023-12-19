@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4631,7 +4631,7 @@
       "Count": 403
     }
   ],
-  "EOS_Progressed": 12499,
+  "EOS_Progressed": 12500,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 0,
@@ -17331,6 +17331,11 @@
       "Time": "2023-12-19T06:09:59.286532+00:00",
       "NumProgressed": 12499,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T07:09:46.6275158+00:00",
+      "NumProgressed": 12500,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -17534,7 +17539,7 @@
       "Name": "Masterful Dispel",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "27_VictorySeige",
@@ -17646,7 +17651,7 @@
       "Name": "End of Eternal Guard",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "41_PlayfulMood",
@@ -17662,7 +17667,7 @@
       "Name": "Just Pathetic",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "43_DreadfulDragon",
@@ -18269,21 +18274,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11281,
+      "Progressed": 11282,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12499,
+      "Progressed": 12500,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-18T18:01:21.2392845+00:00",
-  "LastChanged_Achievements": "2023-12-19T06:09:59.2865314+00:00",
+  "LastChanged_Achievements": "2023-12-19T07:09:46.6275155+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.7532096+00:00",
-  "LastUpdate_Ratings": "2023-12-19T06:02:31.7932917+00:00",
-  "LastUpdate_Achievements": "2023-12-19T06:09:59.2867323+00:00"
+  "LastUpdate_Ratings": "2023-12-19T07:00:42.893916+00:00",
+  "LastUpdate_Achievements": "2023-12-19T07:09:46.6276698+00:00"
 }

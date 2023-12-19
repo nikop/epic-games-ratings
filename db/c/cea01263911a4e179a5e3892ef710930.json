@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-08-03T05:00:00+00:00",
@@ -221,7 +221,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 89994,
+  "EOS_Progressed": 89995,
   "EOS_Completed": 306,
   "EOS_NewPlayers": 698,
   "EOS_NewCompleters": 3,
@@ -14806,6 +14806,11 @@
       "Time": "2023-12-19T06:04:43.8116205+00:00",
       "NumProgressed": 89994,
       "NumCompleted": 306
+    },
+    {
+      "Time": "2023-12-19T07:04:35.5564839+00:00",
+      "NumProgressed": 89995,
+      "NumCompleted": 306
     }
   ],
   "AchievementsAdded": "2023-08-03T06:01:19.3820028+00:00",
@@ -14818,7 +14823,7 @@
       "Name": "Welcome to Dodo Peak",
       "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 71995
+      "UsersEstimate": 71996
     },
     {
       "ID": "grp_beet",
@@ -14834,7 +14839,7 @@
       "Name": "Two month\u0027s rent",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 69295
+      "UsersEstimate": 69296
     },
     {
       "ID": "grp_endless",
@@ -14858,7 +14863,7 @@
       "Name": "Play Free Bird",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 22498
+      "UsersEstimate": 22499
     },
     {
       "ID": "grp_level10",
@@ -14922,7 +14927,7 @@
       "Name": "As the dodo flies",
       "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 42297
+      "UsersEstimate": 42298
     },
     {
       "ID": "grp_stone",
@@ -14938,7 +14943,7 @@
       "Name": "Birds of a Feather",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 38697
+      "UsersEstimate": 38698
     },
     {
       "ID": "grp_weekly_beaten",
@@ -14946,14 +14951,14 @@
       "Name": "Bird of the Week",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 8099
+      "UsersEstimate": 8100
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gd32f",
       "IsBase": true,
-      "Progressed": 89994,
+      "Progressed": 89995,
       "Completed": 306
     }
   ],
@@ -14961,8 +14966,8 @@
   "FirstSeenRating": "2023-08-27T07:59:18.2658043+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
   "LastChanged": "2023-12-16T14:00:50.6822682+00:00",
-  "LastChanged_Achievements": "2023-12-19T06:04:43.8116201+00:00",
+  "LastChanged_Achievements": "2023-12-19T07:04:35.5564836+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:08.8356638+00:00",
-  "LastUpdate_Ratings": "2023-12-19T05:58:08.9405925+00:00",
-  "LastUpdate_Achievements": "2023-12-19T06:04:43.8116947+00:00"
+  "LastUpdate_Ratings": "2023-12-19T06:58:15.5669133+00:00",
+  "LastUpdate_Achievements": "2023-12-19T07:04:35.5565609+00:00"
 }

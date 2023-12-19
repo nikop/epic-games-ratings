@@ -60,8 +60,8 @@
 | Grumpy Immortal | 10.00% | ~13 |
 | Ancient Ruins of Moist Overhangs | 9.00% | ~12 |
 | I want to throw up! | 8.00% | ~11 |
+| Scrambled Eggs | 8.00% | ~11 |
 | My name is Whoopass, SIR Whoopass! | 7.00% | ~9 |
-| Scrambled Eggs | 7.00% | ~9 |
 | Ancient Ruins of Leaky Roof | 6.00% | ~8 |
 | Ancient Ruins of Misplaced Belongings | 5.00% | ~7 |
 | Ancient Ruins of Poor Intrusion Prevention | 5.00% | ~7 |
@@ -81,9 +81,9 @@
 | Consider it dealt with | 2.00% | ~3 |
 | I'm getting full... | 0.80% | ~1 |
 | Bloody Knuckles | 0.80% | ~1 |
+| I've got the power | 0.80% | ~1 |
 | I'm feeling lucky! | 0.80% | ~1 |
 | No...No...No...that was not meant for you...yet! | 0.00% | ~0 |
-| I've got the power | 0.00% | ~0 |
 | Catch me if you can | 0.00% | ~0 |
 | Better safe than sorry - use protection | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

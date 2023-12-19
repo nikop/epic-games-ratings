@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -431,9 +431,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 331241,
+  "EOS_Progressed": 331252,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3580,
+  "EOS_NewPlayers": 3579,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10156,6 +10156,11 @@
       "Time": "2023-12-19T06:05:08.737517+00:00",
       "NumProgressed": 331241,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-19T07:04:59.9668491+00:00",
+      "NumProgressed": 331252,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -10168,7 +10173,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 9937
+      "UsersEstimate": 9938
     },
     {
       "ID": "S02_BRDA",
@@ -10200,7 +10205,7 @@
       "Name": "Back to your senses",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 1987
+      "UsersEstimate": 1988
     },
     {
       "ID": "S06_LWTC",
@@ -10384,7 +10389,7 @@
       "Name": "Not even from this world",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "S29_RECOVER",
@@ -10400,7 +10405,7 @@
       "Name": "Bring it on!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1987
+      "UsersEstimate": 1988
     },
     {
       "ID": "S31_CHNG_DIAMOND",
@@ -10464,7 +10469,7 @@
       "Name": "Chaos be damned!",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "S39_END_RAPTURE",
@@ -10480,14 +10485,14 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3312
+      "UsersEstimate": 3313
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 331241,
+      "Progressed": 331252,
       "Completed": 5
     }
   ],
@@ -10495,8 +10500,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-17T23:00:34.9131333+00:00",
-  "LastChanged_Achievements": "2023-12-19T06:05:08.7375164+00:00",
+  "LastChanged_Achievements": "2023-12-19T07:04:59.9668487+00:00",
   "LastUpdate_AppInfo": "2023-12-14T20:57:08.8756847+00:00",
-  "LastUpdate_Ratings": "2023-12-19T06:00:14.5611973+00:00",
-  "LastUpdate_Achievements": "2023-12-19T06:05:08.7375869+00:00"
+  "LastUpdate_Ratings": "2023-12-19T07:00:17.1919125+00:00",
+  "LastUpdate_Achievements": "2023-12-19T07:04:59.9669021+00:00"
 }

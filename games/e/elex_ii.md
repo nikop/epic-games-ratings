@@ -57,12 +57,13 @@ Number of Ratings: 124  (23.09.2022)
 | Eternal Oblivion | 0.00% | ~0 |
 | Lover | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18 (Ranked 605)  
+Progressed: 19 (Ranked 602)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-12-18 | 18 | 0 |
+| 2023-12-19 | 19 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

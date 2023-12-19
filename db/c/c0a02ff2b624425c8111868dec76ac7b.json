@@ -4,8 +4,8 @@
   "ProductSlug": "worldless-49eae3",
   "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 375,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 371,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-11-21T14:00:00+00:00",
     "PcReleaseDate": "2023-11-21T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 150,
+  "EOS_Progressed": 151,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -649,6 +649,11 @@
       "Time": "2023-12-18T04:07:09.3500324+00:00",
       "NumProgressed": 150,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T07:06:30.3318958+00:00",
+      "NumProgressed": 151,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-17T13:09:54.2114838+00:00",
@@ -677,7 +682,7 @@
       "Name": "Armored",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_ALL_ORBS_COLLECTED",
@@ -709,7 +714,7 @@
       "Name": "Together",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_BIPOLAR_ABSORBED",
@@ -741,7 +746,7 @@
       "Name": "Demon",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_DETERMINATION",
@@ -765,7 +770,7 @@
       "Name": "Edda and Aven",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_FIRST_ABSORPTION",
@@ -852,14 +857,14 @@
     {
       "ID": "cagp2pi",
       "IsBase": true,
-      "Progressed": 150,
+      "Progressed": 151,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2023-12-19T06:07:51.2355721+00:00",
+  "LastChanged_Achievements": "2023-12-19T07:06:30.3318954+00:00",
   "LastUpdate_AppInfo": "2023-12-15T14:56:55.2100039+00:00",
-  "LastUpdate_Ratings": "2023-12-19T05:59:34.6547561+00:00",
-  "LastUpdate_Achievements": "2023-12-19T06:07:51.235587+00:00"
+  "LastUpdate_Ratings": "2023-12-19T06:59:40.2445393+00:00",
+  "LastUpdate_Achievements": "2023-12-19T07:06:30.3319112+00:00"
 }

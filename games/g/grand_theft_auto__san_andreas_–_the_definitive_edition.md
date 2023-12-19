@@ -5,25 +5,25 @@ Rating: 4.55 (Ranked 512)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~12,512 |
-| Pay 'n' Spray | 50.00% | ~7,724 |
+| Getting Started | 81.00% | ~12,514 |
+| Pay 'n' Spray | 50.00% | ~7,725 |
 | All Dressed Up for San Fierro | 25.00% | ~3,862 |
-| The American Dream | 19.00% | ~2,935 |
-| School's Out | 18.00% | ~2,780 |
+| The American Dream | 19.00% | ~2,936 |
+| School's Out | 18.00% | ~2,781 |
 | Smooth Moves | 17.00% | ~2,626 |
-| What happens in Las Venturas... | 15.00% | ~2,317 |
-| Today Was a Good Day | 15.00% | ~2,317 |
-| Horror of the Santa Maria | 11.00% | ~1,699 |
+| What happens in Las Venturas... | 15.00% | ~2,318 |
+| Today Was a Good Day | 15.00% | ~2,318 |
+| Horror of the Santa Maria | 11.00% | ~1,700 |
 | Liberty City State of Mind | 10.00% | ~1,545 |
 | The End of the Line | 8.00% | ~1,236 |
 | Original Gangster | 8.00% | ~1,236 |
-| With Extra Dip | 7.00% | ~1,081 |
+| With Extra Dip | 7.00% | ~1,082 |
 | Saviour | 6.00% | ~927 |
 | They Can’t Stop All of Us | 5.00% | ~772 |
 | Rescue a Kitten Too? | 5.00% | ~772 |
 | What are the Odds | 4.00% | ~618 |
-| Bike or Biker | 3.00% | ~463 |
-| What the City Needs | 3.00% | ~463 |
+| Bike or Biker | 3.00% | ~464 |
+| What the City Needs | 3.00% | ~464 |
 | A Legitimate Business | 2.00% | ~309 |
 | I’ll Have Two Number 9s | 2.00% | ~309 |
 | Who Needs Directions? | 2.00% | ~309 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 512)
 | ...Here we go again | 0.50% | ~77 |
 | I Ain't No Buster | 0.40% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,447 (Ranked 158)  
+Progressed: 15,450 (Ranked 158)  
 Completed: 60 (0.39%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 60 (0.39%) (Ranked 229)
 | 2023-12-16 | 14,887 | 58 |
 | 2023-12-17 | 15,199 | 58 |
 | 2023-12-18 | 15,403 | 59 |
-| 2023-12-19 | 15,447 | 60 |
+| 2023-12-19 | 15,450 | 60 |
 ## Awards
 Max (Great Boss Battles): 457  (Ranked 223)  
 Sum: 709 (Ranked 300)  

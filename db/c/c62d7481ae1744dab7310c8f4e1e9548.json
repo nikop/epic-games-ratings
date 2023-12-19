@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 435,
   "Ranking_EOS_Completed": 68,
   "Ranking_EOS_NewPlayers": 317,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2016-03-24T11:00:00+00:00",
@@ -780,9 +780,9 @@
       "ID": "MluviciPapouch",
       "SetID": "ag48e8e",
       "Name": "Mimicking Parrot",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Myska",
@@ -931,8 +931,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-12-19T06:05:14.2515713+00:00",
+  "LastChanged_Achievements": "2023-12-19T07:05:05.5231302+00:00",
   "LastUpdate_AppInfo": "2023-12-16T05:57:11.9485544+00:00",
-  "LastUpdate_Ratings": "2023-12-19T06:02:52.1577099+00:00",
-  "LastUpdate_Achievements": "2023-12-19T06:05:14.2515944+00:00"
+  "LastUpdate_Ratings": "2023-12-19T07:02:43.3581362+00:00",
+  "LastUpdate_Achievements": "2023-12-19T07:05:05.5231764+00:00"
 }

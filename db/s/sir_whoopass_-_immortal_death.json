@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 431,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 550,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-05-19T23:00:00+00:00",
     "PcReleaseDate": "2022-08-18T17:00:00+00:00",
@@ -1016,9 +1016,9 @@
       "ID": "ITEM_2",
       "SetID": "9gfkh7c",
       "Name": "Scrambled Eggs",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "ITEM_3",
@@ -1080,9 +1080,9 @@
       "ID": "LEVELUP_1",
       "SetID": "9gfkh7c",
       "Name": "I\u0027ve got the power",
-      "Percentage": 0,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "LEVELUP_2",
@@ -1271,8 +1271,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-12-19T06:10:03.1878637+00:00",
+  "LastChanged_Achievements": "2023-12-19T07:09:50.5376731+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:14.2372178+00:00",
-  "LastUpdate_Ratings": "2023-12-19T06:03:10.0301712+00:00",
-  "LastUpdate_Achievements": "2023-12-19T06:10:03.1879336+00:00"
+  "LastUpdate_Ratings": "2023-12-19T07:03:01.4404381+00:00",
+  "LastUpdate_Achievements": "2023-12-19T07:09:50.5377344+00:00"
 }

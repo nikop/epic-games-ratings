@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 280,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5700,
+  "EOS_Progressed": 5702,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4813,6 +4813,11 @@
       "Time": "2023-12-18T20:05:50.5007469+00:00",
       "NumProgressed": 5700,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T07:06:14.7176884+00:00",
+      "NumProgressed": 5702,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -4896,7 +4901,7 @@
       "Name": "Level: Heating-Up",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ach_campaign_progress12",
@@ -4936,7 +4941,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2793
+      "UsersEstimate": 2794
     },
     {
       "ID": "ach_campaign_progress6",
@@ -4960,7 +4965,7 @@
       "Name": "Level: Eye In The Sky",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ach_campaign_progress9",
@@ -4976,7 +4981,7 @@
       "Name": "Returning Home: Quick Learner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1482
+      "UsersEstimate": 1483
     },
     {
       "ID": "ach_campaign_special10",
@@ -5240,7 +5245,7 @@
       "Name": "CEO",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ach_frp_researchdata",
@@ -5408,7 +5413,7 @@
       "Name": "Rockstar",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ach_speedy",
@@ -5431,15 +5436,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5700,
+      "Progressed": 5702,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-12-19T06:06:24.5039759+00:00",
+  "LastChanged_Achievements": "2023-12-19T07:06:14.7176881+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:04.2667134+00:00",
-  "LastUpdate_Ratings": "2023-12-19T06:00:34.0349879+00:00",
-  "LastUpdate_Achievements": "2023-12-19T06:06:24.5040486+00:00"
+  "LastUpdate_Ratings": "2023-12-19T07:00:36.649315+00:00",
+  "LastUpdate_Achievements": "2023-12-19T07:06:14.7177594+00:00"
 }

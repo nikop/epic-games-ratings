@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1613,9 +1613,9 @@
       "Count": 75
     }
   ],
-  "EOS_Progressed": 7355,
+  "EOS_Progressed": 7356,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -14928,6 +14928,11 @@
       "Time": "2023-12-19T05:08:48.363861+00:00",
       "NumProgressed": 7355,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-19T07:08:11.1892109+00:00",
+      "NumProgressed": 7356,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -14939,7 +14944,7 @@
       "Name": "Get A Room",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5590
+      "UsersEstimate": 5591
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -14947,7 +14952,7 @@
       "Name": "Beam Me Up",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 3898
+      "UsersEstimate": 3899
     },
     {
       "ID": "DISMANTLE_ITEMS_5",
@@ -14971,7 +14976,7 @@
       "Name": "Green Thumb",
       "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 4928
+      "UsersEstimate": 4929
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -14979,7 +14984,7 @@
       "Name": "Having A Field Day",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5590
+      "UsersEstimate": 5591
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -14987,7 +14992,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 5369
+      "UsersEstimate": 5370
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -15059,7 +15064,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 62,
       "XP": 25,
-      "UsersEstimate": 4560
+      "UsersEstimate": 4561
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -15067,7 +15072,7 @@
       "Name": "Feast or Famine",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 2721
+      "UsersEstimate": 2722
     },
     {
       "ID": "STORE_NUTRITION_20000",
@@ -15075,7 +15080,7 @@
       "Name": "Fit For A King",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 2059
+      "UsersEstimate": 2060
     },
     {
       "ID": "STORE_NUTRITION_5000",
@@ -15083,7 +15088,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 3383
+      "UsersEstimate": 3384
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -15099,7 +15104,7 @@
       "Name": "The First Day",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 5148
+      "UsersEstimate": 5149
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -15147,7 +15152,7 @@
       "Name": "Novice Researcher",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 5001
+      "UsersEstimate": 5002
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -15179,22 +15184,22 @@
       "Name": "Studious Researcher",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 3898
+      "UsersEstimate": 3899
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 7355,
+      "Progressed": 7356,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-12-19T01:47:00.6495948+00:00",
-  "LastChanged_Achievements": "2023-12-19T06:08:22.9686828+00:00",
+  "LastChanged_Achievements": "2023-12-19T07:08:11.1892102+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:47.8691665+00:00",
-  "LastUpdate_Ratings": "2023-12-19T05:59:55.1688811+00:00",
-  "LastUpdate_Achievements": "2023-12-19T06:08:22.96876+00:00"
+  "LastUpdate_Ratings": "2023-12-19T06:59:59.044408+00:00",
+  "LastUpdate_Achievements": "2023-12-19T07:08:11.1892793+00:00"
 }

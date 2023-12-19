@@ -15625,9 +15625,9 @@
       "ID": "aeromancer",
       "SetID": "2jelldm",
       "Name": "The Aeromancer",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 44099
+      "UsersEstimate": 44777
     },
     {
       "ID": "area_copse",
@@ -16057,8 +16057,8 @@
   "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:04.986715+00:00",
   "LastChanged": "2023-12-13T06:59:46.2084302+00:00",
-  "LastChanged_Achievements": "2023-12-19T06:05:13.0887313+00:00",
+  "LastChanged_Achievements": "2023-12-19T07:05:04.3133883+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:26.7574135+00:00",
-  "LastUpdate_Ratings": "2023-12-19T05:59:07.1940388+00:00",
-  "LastUpdate_Achievements": "2023-12-19T06:05:13.0888309+00:00"
+  "LastUpdate_Ratings": "2023-12-19T06:59:12.0678035+00:00",
+  "LastUpdate_Achievements": "2023-12-19T07:05:04.3134854+00:00"
 }

@@ -6,8 +6,12 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Alexander the Great | 0.10% | ~16 |
+| Acropolis in Athenai | 0.10% | ~16 |
+| Circus Maximus | 0.10% | ~16 |
+| Mausoleum | 0.10% | ~16 |
+| Circus Maximus in Roma | 0.10% | ~16 |
 | Centenarian | 0.00% | ~0 |
-| Alexander the Great | 0.00% | ~0 |
 | Alexander the who? | 0.00% | ~0 |
 | Lighthouse in Alexandria | 0.00% | ~0 |
 | Musaeum in Alexandria | 0.00% | ~0 |
@@ -15,7 +19,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Regicide | 0.00% | ~0 |
 | Bad Heir Day | 0.00% | ~0 |
 | Future Regicide | 0.00% | ~0 |
-| Acropolis in Athenai | 0.00% | ~0 |
 | Hanging Gardens in Babylon | 0.00% | ~0 |
 | Ishtar Gate in Babylon | 0.00% | ~0 |
 | Barbarian Horde | 0.00% | ~0 |
@@ -173,7 +176,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Iron | 0.00% | ~0 |
 | Acropolis | 0.00% | ~0 |
 | Apadana | 0.00% | ~0 |
-| Circus Maximus | 0.00% | ~0 |
 | Colossus | 0.00% | ~0 |
 | Great Ziggurat | 0.00% | ~0 |
 | Hagia Sophia | 0.00% | ~0 |
@@ -184,7 +186,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Adur Burzen-Mihr | 0.00% | ~0 |
 | Ishtar Gate | 0.00% | ~0 |
 | Lighthouse | 0.00% | ~0 |
-| Mausoleum | 0.00% | ~0 |
 | Musaeum | 0.00% | ~0 |
 | Necropolis | 0.00% | ~0 |
 | Oracle | 0.00% | ~0 |
@@ -242,7 +243,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Zoroastrianism | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
 | Roman Papacy | 0.00% | ~0 |
-| Circus Maximus in Roma | 0.00% | ~0 |
 | Pantheon in Roma | 0.00% | ~0 |
 | Building Wonders | 0.00% | ~0 |
 | Capturing Cities | 0.00% | ~0 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -4245,9 +4245,9 @@
       "ID": "_18_UpgradeAllCharacters",
       "SetID": "8a1io5d",
       "Name": "Fully Decked",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 125,
-      "UsersEstimate": 73
+      "UsersEstimate": 85
     },
     {
       "ID": "_19_CrewTale_BSP",
@@ -4301,9 +4301,9 @@
       "ID": "_25_CrewTale_GCW",
       "SetID": "8a1io5d",
       "Name": "Rustic Recipe",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 134
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -4326,8 +4326,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-13T23:58:37.390497+00:00",
-  "LastChanged_Achievements": "2023-12-19T06:03:35.6837951+00:00",
+  "LastChanged_Achievements": "2023-12-19T07:03:28.4097978+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:17.2609478+00:00",
-  "LastUpdate_Ratings": "2023-12-19T05:57:02.2488994+00:00",
-  "LastUpdate_Achievements": "2023-12-19T06:03:35.6838458+00:00"
+  "LastUpdate_Ratings": "2023-12-19T06:57:09.6248002+00:00",
+  "LastUpdate_Achievements": "2023-12-19T07:03:28.4098347+00:00"
 }

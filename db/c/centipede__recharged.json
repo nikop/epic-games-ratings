@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -335,9 +335,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23629,
+  "EOS_Progressed": 23630,
   "EOS_Completed": 117,
-  "EOS_NewPlayers": 451,
+  "EOS_NewPlayers": 449,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -20305,6 +20305,11 @@
       "Time": "2023-12-19T06:08:02.8912475+00:00",
       "NumProgressed": 23629,
       "NumCompleted": 117
+    },
+    {
+      "Time": "2023-12-19T07:06:41.950767+00:00",
+      "NumProgressed": 23630,
+      "NumCompleted": 117
     }
   ],
   "TotalAchievements": 16,
@@ -20356,7 +20361,7 @@
       "Name": "Feel The Thunder",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1182
     },
     {
       "ID": "Fireworks",
@@ -20388,7 +20393,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 9215
+      "UsersEstimate": 9216
     },
     {
       "ID": "Mirrors",
@@ -20443,15 +20448,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 23629,
+      "Progressed": 23630,
       "Completed": 117
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-12-12T11:59:02.4722779+00:00",
-  "LastChanged_Achievements": "2023-12-19T06:08:02.8912469+00:00",
+  "LastChanged_Achievements": "2023-12-19T07:06:41.9507665+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:14.2267698+00:00",
-  "LastUpdate_Ratings": "2023-12-19T05:57:50.5502044+00:00",
-  "LastUpdate_Achievements": "2023-12-19T06:08:02.8913369+00:00"
+  "LastUpdate_Ratings": "2023-12-19T06:57:56.5732766+00:00",
+  "LastUpdate_Achievements": "2023-12-19T07:06:41.9508706+00:00"
 }

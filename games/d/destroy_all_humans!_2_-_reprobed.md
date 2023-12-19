@@ -6,26 +6,26 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 72.00% | ~89 |
-| Mash Machine | 63.00% | ~77 |
-| Ducks in a Row, Fish in a Barrel | 39.00% | ~48 |
-| Furon Fashion | 37.00% | ~46 |
-| Shop Til They Drop | 30.00% | ~37 |
-| Earthly Pleasures | 27.00% | ~33 |
-| Bodied Sattva | 24.00% | ~30 |
-| Cult Following | 23.00% | ~28 |
+| Rock of the Bay | 71.00% | ~89 |
+| Mash Machine | 64.00% | ~80 |
+| Ducks in a Row, Fish in a Barrel | 40.00% | ~50 |
+| Furon Fashion | 38.00% | ~48 |
+| Shop Til They Drop | 30.00% | ~38 |
+| Earthly Pleasures | 27.00% | ~34 |
+| Bodied Sattva | 25.00% | ~31 |
+| Cult Following | 23.00% | ~29 |
 | Upgreatest | 20.00% | ~25 |
 | Lie Back and Think of Albion | 18.00% | ~22 |
+| I Look Up As I Walk to Takoshima | 16.00% | ~20 |
 | Pimp My Raid | 16.00% | ~20 |
-| I Look Up As I Walk to Takoshima | 15.00% | ~18 |
 | Perfect Probulator | 13.00% | ~16 |
 | Freshly Squeezed | 13.00% | ~16 |
 | Die Nasty | 12.00% | ~15 |
 | Transmitting From Sol-3 | 7.00% | ~9 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 7.00% | ~9 |
 | Dusted | 7.00% | ~9 |
+| Fly Me to the Moon Base | 5.00% | ~6 |
 | Kaijuiced | 5.00% | ~6 |
-| Fly Me to the Moon Base | 4.00% | ~5 |
 | Scuttled | 3.00% | ~4 |
 | Lobster Blisque | 2.00% | ~2 |
 | Deincarnated | 2.00% | ~2 |
@@ -35,12 +35,12 @@ Number of Ratings: 90  (23.09.2022)
 | Ultimate Smoothie | 0.80% | ~1 |
 | Arty Facts | 0.80% | ~1 |
 | Forbidden Donut | 0.80% | ~1 |
+| Hidden Human Hive Harvest | 0.80% | ~1 |
 | The Optional Mandate | 0.80% | ~1 |
 | PK Slam Dunk | 0.00% | ~0 |
 | Gotta Catch All the Pop Art | 0.00% | ~0 |
 | This Is Earth Radio | 0.00% | ~0 |
 | Against All Odds | 0.00% | ~0 |
-| Hidden Human Hive Harvest | 0.00% | ~0 |
 | Toilet Break | 0.00% | ~0 |
 | Albion Bridge Is for Falling Down | 0.00% | ~0 |
 | Ouch of Body Experience | 0.00% | ~0 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.00% | ~0 |
 | Trans-Siberian Express | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 123 (Ranked 441)  
+Progressed: 125 (Ranked 440)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,11 +74,11 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-16 | 92 | 0 |
 | 2023-12-17 | 103 | 0 |
 | 2023-12-18 | 121 | 0 |
-| 2023-12-19 | 123 | 0 |
+| 2023-12-19 | 125 | 0 |
 ## Awards
-Max (Great Boss Battles): 36  (Ranked 480)  
+Max (Great Boss Battles): 36  (Ranked 481)  
 Sum: 36 (Ranked 513)  
-Diff (max vs sum): -33  
+Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 36 |

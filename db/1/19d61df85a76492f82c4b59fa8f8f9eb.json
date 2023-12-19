@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 388,
+  "EOS_Progressed": 389,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 9.79,
+  "EOS_Completed_Percentage": 9.77,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -1829,6 +1829,11 @@
       "Time": "2023-12-18T21:08:54.6437207+00:00",
       "NumProgressed": 388,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-19T07:08:36.503032+00:00",
+      "NumProgressed": 389,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 6,
@@ -1838,9 +1843,9 @@
       "ID": "CgkIgaGB2J0LEAIQAA",
       "SetID": "4ocea6d",
       "Name": "Printing Press",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 175,
-      "UsersEstimate": 237
+      "UsersEstimate": 233
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAQ",
@@ -1848,7 +1853,7 @@
       "Name": "File-cutter",
       "Percentage": 64,
       "XP": 165,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAg",
@@ -1864,7 +1869,7 @@
       "Name": "Scythed Chariot",
       "Percentage": 31,
       "XP": 165,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBA",
@@ -1872,7 +1877,7 @@
       "Name": "Revolving Bridge",
       "Percentage": 31,
       "XP": 165,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBQ",
@@ -1887,14 +1892,14 @@
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 388,
+      "Progressed": 389,
       "Completed": 38
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-12-19T06:08:48.8150999+00:00",
+  "LastChanged_Achievements": "2023-12-19T07:08:36.5030317+00:00",
   "LastUpdate_AppInfo": "2023-12-15T02:21:09.453907+00:00",
-  "LastUpdate_Ratings": "2023-12-19T05:59:44.1482168+00:00",
-  "LastUpdate_Achievements": "2023-12-19T06:08:48.8151174+00:00"
+  "LastUpdate_Ratings": "2023-12-19T06:59:49.8526855+00:00",
+  "LastUpdate_Achievements": "2023-12-19T07:08:36.5030453+00:00"
 }

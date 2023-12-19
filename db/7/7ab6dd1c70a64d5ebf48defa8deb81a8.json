@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 835,
+  "EOS_Progressed": 837,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 570,
+  "EOS_NewPlayers": 572,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1725,6 +1725,11 @@
       "Time": "2023-12-19T06:09:58.4777298+00:00",
       "NumProgressed": 835,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-19T07:09:45.8676706+00:00",
+      "NumProgressed": 837,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1736,7 +1741,7 @@
       "Name": "Break Out",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "ACH_02",
@@ -1744,7 +1749,7 @@
       "Name": "Find Allies",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACH_03",
@@ -2023,14 +2028,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 835,
+      "Progressed": 837,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-19T06:09:58.4777291+00:00",
+  "LastChanged_Achievements": "2023-12-19T07:09:45.8676702+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
-  "LastUpdate_Ratings": "2023-12-19T06:00:19.1075591+00:00",
-  "LastUpdate_Achievements": "2023-12-19T06:09:58.4777529+00:00"
+  "LastUpdate_Ratings": "2023-12-19T07:00:22.0738368+00:00",
+  "LastUpdate_Achievements": "2023-12-19T07:09:45.8676998+00:00"
 }

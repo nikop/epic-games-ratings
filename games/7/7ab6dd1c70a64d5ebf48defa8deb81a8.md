@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 48.00% | ~401 |
+| Break Out | 48.00% | ~402 |
 | Trinity | 20.00% | ~167 |
 | I Found It | 17.00% | ~142 |
 | A Taste of Wrath | 16.00% | ~134 |
-| Find Allies | 15.00% | ~125 |
+| Find Allies | 15.00% | ~126 |
 | Shatter Them All | 14.00% | ~117 |
 | Geared Up | 14.00% | ~117 |
 | The Collector | 14.00% | ~117 |
@@ -41,7 +41,7 @@
 | Shardbearer | 0.50% | ~4 |
 | Feeling Fancy | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 835 (Ranked 284)  
+Progressed: 837 (Ranked 284)  
 Completed: 3 (0.36%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,4 +109,4 @@ Completed: 3 (0.36%) (Ranked 235)
 | 2023-12-16 | 621 | 3 |
 | 2023-12-17 | 752 | 3 |
 | 2023-12-18 | 818 | 3 |
-| 2023-12-19 | 835 | 3 |
+| 2023-12-19 | 837 | 3 |

@@ -1,15 +1,15 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.29 (Ranked 856)  
+Rating: 4.29 (Ranked 855)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~164,369 |
+| Corner Clout | 46.00% | ~164,370 |
 | Copacetic Coordination | 16.00% | ~57,172 |
-| Fronting the Money | 15.00% | ~53,598 |
-| The Dawn of Automation | 14.00% | ~50,025 |
-| Extraordinary Logistics | 14.00% | ~50,025 |
+| Fronting the Money | 15.00% | ~53,599 |
+| The Dawn of Automation | 14.00% | ~50,026 |
+| Extraordinary Logistics | 14.00% | ~50,026 |
 | Dirty Money | 13.00% | ~46,452 |
 | Family First | 13.00% | ~46,452 |
 | Cleaning House | 12.00% | ~42,879 |
@@ -23,12 +23,12 @@ Rating: 4.29 (Ranked 856)
 | Street Fighter | 7.00% | ~25,013 |
 | Friendly Gestures | 7.00% | ~25,013 |
 | People Person | 7.00% | ~25,013 |
-| Liquor Lord | 6.00% | ~21,439 |
-| Safety in Numbers | 6.00% | ~21,439 |
-| Moving Experiences | 6.00% | ~21,439 |
-| Wise Head | 6.00% | ~21,439 |
-| Show ‘em the Sugar | 6.00% | ~21,439 |
-| Killing Them Softly | 6.00% | ~21,439 |
+| Liquor Lord | 6.00% | ~21,440 |
+| Safety in Numbers | 6.00% | ~21,440 |
+| Moving Experiences | 6.00% | ~21,440 |
+| Wise Head | 6.00% | ~21,440 |
+| Show ‘em the Sugar | 6.00% | ~21,440 |
+| Killing Them Softly | 6.00% | ~21,440 |
 | Street Knowledge | 5.00% | ~17,866 |
 | Oh Captain | 5.00% | ~17,866 |
 | Branching Out | 5.00% | ~17,866 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 856)
 | High Pillow | 0.10% | ~357 |
 | Station Master | 0.10% | ~357 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 357,323 (Ranked 49)  
+Progressed: 357,325 (Ranked 49)  
 Completed: 7 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 7 (0.00%) (Ranked 383)
 | 2023-12-16 | 356,959 | 7 |
 | 2023-12-17 | 357,141 | 7 |
 | 2023-12-18 | 357,291 | 7 |
-| 2023-12-19 | 357,323 | 7 |
+| 2023-12-19 | 357,325 | 7 |
 ## Awards
 Max (Great for Beginners): 55  (Ranked 429)  
 Sum: 256 (Ranked 387)  

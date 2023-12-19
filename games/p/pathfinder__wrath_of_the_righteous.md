@@ -52,14 +52,14 @@ Number of Ratings: 1,354  (23.09.2022)
 | Truly Profane Gift | 1.00% | ~125 |
 | This Wall Won't Fall | 1.00% | ~113 |
 | Not the Last Sarkorian | 1.00% | ~113 |
-| End of Eternal Guard | 0.90% | ~112 |
+| End of Eternal Guard | 0.90% | ~113 |
 | Masterful Charge | 0.70% | ~87 |
 | Playful Mood | 0.70% | ~87 |
 | Dreadful Dragon | 0.70% | ~87 |
 | Prelate's Nemesis | 0.50% | ~62 |
 | Ashes to Ashes | 0.40% | ~50 |
-| Masterful Dispel | 0.30% | ~37 |
-| Just Pathetic | 0.30% | ~37 |
+| Masterful Dispel | 0.30% | ~38 |
+| Just Pathetic | 0.30% | ~38 |
 | Path of the Swarm | 0.20% | ~25 |
 | Spirit of Adventure | 0.20% | ~25 |
 | Equal to Aroden | 0.10% | ~12 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,499 (Ranked 167)  
+Progressed: 12,500 (Ranked 167)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -366,7 +366,7 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-16 | 12,405 | 0 |
 | 2023-12-17 | 12,459 | 0 |
 | 2023-12-18 | 12,490 | 0 |
-| 2023-12-19 | 12,499 | 0 |
+| 2023-12-19 | 12,500 | 0 |
 ## Awards
 Max (Character Customization): 1,763  (Ranked 124)  
 Sum: 7,150 (Ranked 123)  

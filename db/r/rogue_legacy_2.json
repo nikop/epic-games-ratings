@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1500,9 +1500,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 25549,
+  "EOS_Progressed": 25556,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 1850,
+  "EOS_NewPlayers": 1856,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -11050,6 +11050,11 @@
       "Time": "2023-12-19T06:09:39.77839+00:00",
       "NumProgressed": 25549,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-19T07:09:27.3137579+00:00",
+      "NumProgressed": 25556,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -11125,7 +11130,7 @@
       "Name": "Captain and Crew",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -11141,7 +11146,7 @@
       "Name": "Spells and Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1278
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -11157,7 +11162,7 @@
       "Name": "Hands and Hammers",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "BossFinalAdvancedDefeated",
@@ -11173,7 +11178,7 @@
       "Name": "King and Kin",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "BossForestAdvancedDefeated",
@@ -11205,7 +11210,7 @@
       "Name": "Progenitor and Prot\u00E9g\u00E9",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "BossStudyAdvancedDefeated",
@@ -11253,7 +11258,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "EndTimerFail",
@@ -11317,7 +11322,7 @@
       "Name": "Prequel to the Sequel",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "RogueMode",
@@ -11372,21 +11377,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 25549,
+      "Progressed": 25556,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 4479,
+      "Progressed": 4486,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-07T09:58:25.2813813+00:00",
-  "LastChanged_Achievements": "2023-12-19T06:09:39.7783895+00:00",
+  "LastChanged_Achievements": "2023-12-19T07:09:27.3137569+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:44.2937948+00:00",
-  "LastUpdate_Ratings": "2023-12-19T05:57:23.2503331+00:00",
-  "LastUpdate_Achievements": "2023-12-19T06:09:39.7784511+00:00"
+  "LastUpdate_Ratings": "2023-12-19T06:57:30.8686088+00:00",
+  "LastUpdate_Achievements": "2023-12-19T07:09:27.3138162+00:00"
 }

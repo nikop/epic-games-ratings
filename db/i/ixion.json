@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -6729,9 +6729,9 @@
       "ID": "ACH_BASE_18",
       "SetID": "92iocjf",
       "Name": "Infinite Growth...",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 893
+      "UsersEstimate": 928
     },
     {
       "ID": "ACH_BASE_19",
@@ -7136,8 +7136,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-10T20:59:24.4447628+00:00",
-  "LastChanged_Achievements": "2023-12-19T06:07:49.4510698+00:00",
+  "LastChanged_Achievements": "2023-12-19T07:06:28.8240933+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.6786359+00:00",
-  "LastUpdate_Ratings": "2023-12-19T05:59:32.0194943+00:00",
-  "LastUpdate_Achievements": "2023-12-19T06:07:49.4511693+00:00"
+  "LastUpdate_Ratings": "2023-12-19T06:59:37.7348404+00:00",
+  "LastUpdate_Achievements": "2023-12-19T07:06:28.8241705+00:00"
 }

@@ -21,13 +21,13 @@ Rating: 4.81 (Ranked 85)
 | Persistent Parasite | 16.00% | ~194 |
 | Seadog | 14.00% | ~170 |
 | Jaded Judge | 12.00% | ~146 |
+| Rustic Recipe | 11.00% | ~134 |
 | Tobacco Travesty | 10.00% | ~121 |
-| Rustic Recipe | 10.00% | ~121 |
 | Privateer | 9.00% | ~109 |
 | Accursed Artifacts | 9.00% | ~109 |
 | Lyrical Longing | 9.00% | ~109 |
+| Fully Decked | 7.00% | ~85 |
 | Corsair | 6.00% | ~73 |
-| Fully Decked | 6.00% | ~73 |
 | Freebooter | 4.00% | ~49 |
 | Marauder | 3.00% | ~36 |
 | Welcome Back Jester | 3.00% | ~36 |

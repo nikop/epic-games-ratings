@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 364,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-09-08T17:00:00+00:00",
     "PcReleaseDate": "2022-12-19T18:00:00+00:00",
@@ -667,9 +667,9 @@
       "ID": "ACHIEVEMENT_AV_07",
       "SetID": "b50kim2",
       "Name": "MISSION 07",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_AV_08",
@@ -875,9 +875,9 @@
       "ID": "ACHIEVEMENT_RW_01",
       "SetID": "b50kim2",
       "Name": "RUNAWAY 01",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "ACHIEVEMENT_RW_02",
@@ -1026,8 +1026,8 @@
   ],
   "FirstSeen": "2023-09-12T13:03:58.3163014+00:00",
   "FirstSeenAchievements": "2023-07-24T21:06:11.7516454+00:00",
-  "LastChanged_Achievements": "2023-12-19T06:05:57.0033687+00:00",
+  "LastChanged_Achievements": "2023-12-19T07:05:47.3655753+00:00",
   "LastUpdate_AppInfo": "2023-12-12T07:57:15.5904158+00:00",
-  "LastUpdate_Ratings": "2023-12-19T05:56:58.9691373+00:00",
-  "LastUpdate_Achievements": "2023-12-19T06:05:57.0033999+00:00"
+  "LastUpdate_Ratings": "2023-12-19T06:57:05.6979316+00:00",
+  "LastUpdate_Achievements": "2023-12-19T07:05:47.3656119+00:00"
 }

@@ -16,18 +16,18 @@ Number of Ratings: 98  (23.09.2022)
 | Silver Lining | 27.00% | ~2,561 |
 | Aurelio Baruzzi | 21.00% | ~1,992 |
 | Decimation | 20.00% | ~1,897 |
-| Donatello | 19.00% | ~1,802 |
-| Insubordination | 19.00% | ~1,802 |
-| The Italian Job | 19.00% | ~1,802 |
-| Veni Vidi Vici | 19.00% | ~1,802 |
+| Donatello | 19.00% | ~1,803 |
+| Insubordination | 19.00% | ~1,803 |
+| The Italian Job | 19.00% | ~1,803 |
+| Veni Vidi Vici | 19.00% | ~1,803 |
 | Ragazzi del '99 | 17.00% | ~1,613 |
 | Luigi Cadorna | 16.00% | ~1,518 |
 | The Lion of the Isonzo | 14.00% | ~1,328 |
 | Uomo Universale | 13.00% | ~1,233 |
 | Dirty Dozen | 12.00% | ~1,138 |
 | Shaken, Not Stirred | 12.00% | ~1,138 |
-| Die Bosniaken Kommen! | 11.00% | ~1,043 |
-| Machiavelli | 11.00% | ~1,043 |
+| Die Bosniaken Kommen! | 11.00% | ~1,044 |
+| Machiavelli | 11.00% | ~1,044 |
 | The Devil's Paintbrush | 10.00% | ~949 |
 | Thus With A Kiss | 10.00% | ~949 |
 | Dante's Inferno | 9.00% | ~854 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~38 |
 | Can I Go Home Now? | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,486 (Ranked 174)  
+Progressed: 9,487 (Ranked 174)  
 Completed: 10 (0.11%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,6 +289,7 @@ Completed: 10 (0.11%) (Ranked 297)
 | 2023-12-16 | 9,436 | 10 |
 | 2023-12-17 | 9,466 | 10 |
 | 2023-12-18 | 9,486 | 10 |
+| 2023-12-19 | 9,487 | 10 |
 ## Awards
 Max (Diverse Characters): 40  (Ranked 466)  
 Sum: 328 (Ranked 363)  

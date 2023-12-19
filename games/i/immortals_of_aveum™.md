@@ -5,15 +5,15 @@ Rating: 4.23 (Ranked 910)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~1,068 |
-| Battlefields Have Memories | 79.00% | ~970 |
-| Enlisted | 72.00% | ~884 |
-| Maybe Engage a Little | 66.00% | ~810 |
-| No More Names | 47.00% | ~577 |
-| Initiate | 33.00% | ~405 |
-| Thrada-Kul | 29.00% | ~356 |
-| Socialite | 22.00% | ~270 |
-| Gravity-Challenged Rocks | 22.00% | ~270 |
+| Unforeseen | 87.00% | ~1,070 |
+| Battlefields Have Memories | 79.00% | ~972 |
+| Enlisted | 72.00% | ~886 |
+| Maybe Engage a Little | 66.00% | ~812 |
+| No More Names | 47.00% | ~578 |
+| Initiate | 33.00% | ~406 |
+| Thrada-Kul | 29.00% | ~357 |
+| Socialite | 22.00% | ~271 |
+| Gravity-Challenged Rocks | 22.00% | ~271 |
 | Soldier | 18.00% | ~221 |
 | All the Major Food Groups | 17.00% | ~209 |
 | Beggars Would Ride | 15.00% | ~184 |
@@ -26,8 +26,8 @@ Rating: 4.23 (Ranked 910)
 | A Perfect Cycle | 8.00% | ~98 |
 | Recruit | 7.00% | ~86 |
 | Armsman | 7.00% | ~86 |
-| Lights Army | 5.00% | ~61 |
-| Good Boy | 5.00% | ~61 |
+| Lights Army | 5.00% | ~62 |
+| Good Boy | 5.00% | ~62 |
 | Best Dressed | 4.00% | ~49 |
 | Periapt Cerulean | 4.00% | ~49 |
 | Periapt Viridian | 4.00% | ~49 |
@@ -40,9 +40,9 @@ Rating: 4.23 (Ranked 910)
 | Veteran | 2.00% | ~25 |
 | Master of Carmine | 1.00% | ~12 |
 | Master of Ultramarine | 0.90% | ~11 |
+| Master of Malachite | 0.70% | ~9 |
 | Shroudfane Surveyor | 0.70% | ~9 |
 | Tip of the Spear | 0.70% | ~9 |
-| Master of Malachite | 0.60% | ~7 |
 | Backtracker | 0.60% | ~7 |
 | Grand Magnus | 0.50% | ~6 |
 | Treasure Hunter | 0.40% | ~5 |
@@ -53,7 +53,7 @@ Rating: 4.23 (Ranked 910)
 | Out of Time | 0.20% | ~2 |
 | Fowl Play | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,228 (Ranked 262)  
+Progressed: 1,230 (Ranked 261)  
 Completed: 2 (0.16%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 2 (0.16%) (Ranked 279)
 | 2023-12-16 | 908 | 2 |
 | 2023-12-17 | 1,065 | 2 |
 | 2023-12-18 | 1,195 | 2 |
-| 2023-12-19 | 1,228 | 2 |
+| 2023-12-19 | 1,230 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

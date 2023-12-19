@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 31,
   "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-12-02T16:00:00+00:00",
     "PcReleaseDate": "2019-01-17T15:00:00+00:00",
@@ -517,7 +517,7 @@
       "Count": 139
     }
   ],
-  "EOS_Progressed": 614487,
+  "EOS_Progressed": 614488,
   "EOS_Completed": 556,
   "EOS_NewPlayers": 921,
   "EOS_NewCompleters": 1,
@@ -27857,6 +27857,11 @@
       "Time": "2023-12-19T06:08:43.8777317+00:00",
       "NumProgressed": 614487,
       "NumCompleted": 556
+    },
+    {
+      "Time": "2023-12-19T07:08:31.6847987+00:00",
+      "NumProgressed": 614488,
+      "NumCompleted": 556
     }
   ],
   "TotalAchievements": 28,
@@ -27916,7 +27921,7 @@
       "Name": "README reader",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 24579
+      "UsersEstimate": 24580
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -27932,7 +27937,7 @@
       "Name": "We need more gold",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 374837
+      "UsersEstimate": 374838
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -27948,7 +27953,7 @@
       "Name": "One more!",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 270374
+      "UsersEstimate": 270375
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -27996,7 +28001,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 571473
+      "UsersEstimate": 571474
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -28028,7 +28033,7 @@
       "Name": "Error: Stack Overflow",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 405561
+      "UsersEstimate": 405562
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -28044,7 +28049,7 @@
       "Name": "The dawn of civilization",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 325678
+      "UsersEstimate": 325679
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -28091,15 +28096,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 614487,
+      "Progressed": 614488,
       "Completed": 556
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-12-14T08:59:50.8437194+00:00",
-  "LastChanged_Achievements": "2023-12-19T06:08:43.8777311+00:00",
+  "LastChanged_Achievements": "2023-12-19T07:08:31.6847984+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:34.7183441+00:00",
-  "LastUpdate_Ratings": "2023-12-19T05:57:54.6055926+00:00",
-  "LastUpdate_Achievements": "2023-12-19T06:08:43.8778569+00:00"
+  "LastUpdate_Ratings": "2023-12-19T06:58:00.9371704+00:00",
+  "LastUpdate_Achievements": "2023-12-19T07:08:31.684922+00:00"
 }

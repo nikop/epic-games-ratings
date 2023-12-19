@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 465,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 292,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
     "PcReleaseDate": "2009-10-30T16:00:00+00:00",
@@ -672,9 +672,9 @@
       "ID": "id_3",
       "SetID": "bk9jib6",
       "Name": "Philanthropist",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "id_30",
@@ -896,17 +896,17 @@
       "ID": "id_60",
       "SetID": "bk9jib6",
       "Name": "Adventurer",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "id_61",
       "SetID": "bk9jib6",
       "Name": "Map reader",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "id_62",
@@ -961,8 +961,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-12-19T04:58:37.4442529+00:00",
-  "LastChanged_Achievements": "2023-12-19T06:09:51.5357253+00:00",
+  "LastChanged_Achievements": "2023-12-19T07:09:38.9171259+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:12.9761539+00:00",
-  "LastUpdate_Ratings": "2023-12-19T05:58:05.3682231+00:00",
-  "LastUpdate_Achievements": "2023-12-19T06:09:51.5357553+00:00"
+  "LastUpdate_Ratings": "2023-12-19T06:58:12.0663008+00:00",
+  "LastUpdate_Achievements": "2023-12-19T07:09:38.9171623+00:00"
 }

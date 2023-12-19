@@ -6,23 +6,23 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 3.00% | ~22,054 |
-| The Assault | 2.00% | ~14,702 |
-| Life is your teacher | 2.00% | ~14,702 |
-| Lightning Hands | 2.00% | ~14,702 |
-| The Hateful Pole Fighter | 1.00% | ~7,351 |
-| A Lady's Blood in the Snow | 1.00% | ~7,351 |
-| Stuntmaster | 1.00% | ~7,351 |
-| Street Fighting | 1.00% | ~7,351 |
-| State of constant learning | 1.00% | ~7,351 |
-| Qi Gong: Breath | 1.00% | ~7,351 |
-| Qi Gong: Essence | 1.00% | ~7,351 |
-| Old Child | 1.00% | ~7,351 |
-| Path of the Prospect | 1.00% | ~7,351 |
-| Rumble in the Hangar | 1.00% | ~7,351 |
-| Diligence as a goal | 1.00% | ~444 |
-| Lady Wing Chun | 0.90% | ~6,616 |
-| Kill Nil | 0.90% | ~6,616 |
+| The Old Grandmaster | 3.00% | ~22,055 |
+| The Assault | 2.00% | ~14,704 |
+| Life is your teacher | 2.00% | ~14,704 |
+| Lightning Hands | 2.00% | ~14,704 |
+| The Hateful Pole Fighter | 1.00% | ~7,352 |
+| A Lady's Blood in the Snow | 1.00% | ~7,352 |
+| Stuntmaster | 1.00% | ~7,352 |
+| Street Fighting | 1.00% | ~7,352 |
+| State of constant learning | 1.00% | ~7,352 |
+| Qi Gong: Breath | 1.00% | ~7,352 |
+| Qi Gong: Essence | 1.00% | ~7,352 |
+| Old Child | 1.00% | ~7,352 |
+| Path of the Prospect | 1.00% | ~7,352 |
+| Rumble in the Hangar | 1.00% | ~7,352 |
+| Diligence as a goal | 1.00% | ~445 |
+| Lady Wing Chun | 0.90% | ~6,617 |
+| Kill Nil | 0.90% | ~6,617 |
 | Project Arena | 0.90% | ~400 |
 | Furious Fists | 0.80% | ~5,881 |
 | I know Kung-Fu | 0.80% | ~5,881 |
@@ -34,15 +34,15 @@ Number of Ratings: 9,492  (23.09.2022)
 | Dance of the Praying Mantis | 0.60% | ~4,411 |
 | Bloody Sport | 0.50% | ~222 |
 | Martial Hub | 0.50% | ~222 |
-| Muk Yan Master | 0.40% | ~2,940 |
-| Tiger on Fire | 0.40% | ~2,940 |
-| Detective Story | 0.40% | ~2,940 |
-| Source of Flying Daggers | 0.30% | ~2,205 |
-| Iron Money | 0.30% | ~2,205 |
-| Legendary Talismans of Wuxing | 0.30% | ~2,205 |
-| Prodigal Child | 0.30% | ~2,205 |
-| The 36th Chamber of Kung-Fu | 0.30% | ~2,205 |
-| Sword Stained With Blood | 0.30% | ~2,205 |
+| Muk Yan Master | 0.40% | ~2,941 |
+| Tiger on Fire | 0.40% | ~2,941 |
+| Detective Story | 0.40% | ~2,941 |
+| Source of Flying Daggers | 0.30% | ~2,206 |
+| Iron Money | 0.30% | ~2,206 |
+| Legendary Talismans of Wuxing | 0.30% | ~2,206 |
+| Prodigal Child | 0.30% | ~2,206 |
+| The 36th Chamber of Kung-Fu | 0.30% | ~2,206 |
+| Sword Stained With Blood | 0.30% | ~2,206 |
 | The best strikes are the ones we avoid | 0.30% | ~133 |
 | Drunken Fighter | 0.20% | ~1,470 |
 | Martial Artist | 0.20% | ~1,470 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~44 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 735,118 (Ranked 24)  
+Progressed: 735,182 (Ranked 24)  
 Completed: 12,956 (1.76%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 12,956 (1.76%) (Ranked 139)
 | 2023-12-16 | 730,184 | 12,954 |
 | 2023-12-17 | 733,014 | 12,955 |
 | 2023-12-18 | 734,825 | 12,956 |
-| 2023-12-19 | 735,118 | 12,956 |
+| 2023-12-19 | 735,182 | 12,956 |
 ## Awards
 Max (Great Boss Battles): 6,957  (Ranked 55)  
 Sum: 12,199 (Ranked 84)  

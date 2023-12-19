@@ -6,9 +6,9 @@ Rating: 4.56 (Ranked 498)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Beginner | 93.00% | ~90 |
-| Map reader | 73.00% | ~71 |
-| Philanthropist | 68.00% | ~66 |
-| Adventurer | 66.00% | ~64 |
+| Map reader | 74.00% | ~72 |
+| Philanthropist | 69.00% | ~67 |
+| Adventurer | 67.00% | ~65 |
 | Archer | 52.00% | ~50 |
 | The brave little tailor | 49.00% | ~48 |
 | Field hand | 43.00% | ~42 |

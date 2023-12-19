@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -93,9 +93,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5314,
+  "EOS_Progressed": 5319,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2900,
+  "EOS_NewPlayers": 2896,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1503,6 +1503,11 @@
       "Time": "2023-12-19T06:09:33.4239054+00:00",
       "NumProgressed": 5314,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T07:09:21.0271846+00:00",
+      "NumProgressed": 5319,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -1515,7 +1520,7 @@
       "Name": "Conspiracy",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 1116
+      "UsersEstimate": 1117
     },
     {
       "ID": "03_TheStolenStar",
@@ -1523,7 +1528,7 @@
       "Name": "Stolen Star",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -1611,7 +1616,7 @@
       "Name": "Fear Not Obliteration",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "15_Pentakill",
@@ -1627,7 +1632,7 @@
       "Name": "The Rise",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "17_TheExemplar",
@@ -1643,7 +1648,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "19_TheVoidWolf",
@@ -1651,7 +1656,7 @@
       "Name": "Void Wolf",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -1731,7 +1736,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "30_The GreatestExploration",
@@ -1763,7 +1768,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -1785,9 +1790,9 @@
       "ID": "36_TheAdventurousArchaelogist",
       "SetID": "37a94m8",
       "Name": "Adventurous Archaeologist",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 16
     },
     {
       "ID": "37_TheSirenicalDiplomat",
@@ -1835,7 +1840,7 @@
       "Name": "Iron Judgement",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -2034,7 +2039,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 5314,
+      "Progressed": 5319,
       "Completed": 0
     }
   ],
@@ -2042,8 +2047,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-19T01:47:20.7959917+00:00",
-  "LastChanged_Achievements": "2023-12-19T06:09:33.4239049+00:00",
+  "LastChanged_Achievements": "2023-12-19T07:09:21.0271842+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:14.7846288+00:00",
-  "LastUpdate_Ratings": "2023-12-19T06:00:19.8195641+00:00",
-  "LastUpdate_Achievements": "2023-12-19T06:09:33.4239559+00:00"
+  "LastUpdate_Ratings": "2023-12-19T07:00:22.7554002+00:00",
+  "LastUpdate_Achievements": "2023-12-19T07:09:21.0272319+00:00"
 }

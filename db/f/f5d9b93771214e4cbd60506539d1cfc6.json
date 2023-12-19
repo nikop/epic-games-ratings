@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 157087,
+  "EOS_Progressed": 157088,
   "EOS_Completed": 362,
-  "EOS_NewPlayers": 872,
+  "EOS_NewPlayers": 871,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -22138,6 +22138,11 @@
       "Time": "2023-12-19T06:06:30.4904042+00:00",
       "NumProgressed": 157087,
       "NumCompleted": 362
+    },
+    {
+      "Time": "2023-12-19T07:06:20.4220053+00:00",
+      "NumProgressed": 157088,
+      "NumCompleted": 362
     }
   ],
   "TotalAchievements": 31,
@@ -22157,7 +22162,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 109961
+      "UsersEstimate": 109962
     },
     {
       "ID": "EAwards_10",
@@ -22205,7 +22210,7 @@
       "Name": "No Encore!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 18850
+      "UsersEstimate": 18851
     },
     {
       "ID": "EAwards_16",
@@ -22245,7 +22250,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 43984
+      "UsersEstimate": 43985
     },
     {
       "ID": "EAwards_20",
@@ -22269,7 +22274,7 @@
       "Name": "Poncho\u0027d Out",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6283
+      "UsersEstimate": 6284
     },
     {
       "ID": "EAwards_23",
@@ -22357,7 +22362,7 @@
       "Name": "Licking his Wounds",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 18850
+      "UsersEstimate": 18851
     },
     {
       "ID": "EAwards_6",
@@ -22389,14 +22394,14 @@
       "Name": "Nooks and Crannies",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 18850
+      "UsersEstimate": 18851
     }
   ],
   "AchievementSets": [
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 157087,
+      "Progressed": 157088,
       "Completed": 362
     }
   ],
@@ -22404,8 +22409,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-12-16T18:59:03.9912318+00:00",
-  "LastChanged_Achievements": "2023-12-19T06:06:30.4904037+00:00",
+  "LastChanged_Achievements": "2023-12-19T07:06:20.4220051+00:00",
   "LastUpdate_AppInfo": "2023-12-15T07:57:06.2910443+00:00",
-  "LastUpdate_Ratings": "2023-12-19T06:00:22.6682101+00:00",
-  "LastUpdate_Achievements": "2023-12-19T06:06:30.4905189+00:00"
+  "LastUpdate_Ratings": "2023-12-19T07:00:25.538504+00:00",
+  "LastUpdate_Achievements": "2023-12-19T07:06:20.4221183+00:00"
 }

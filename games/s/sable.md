@@ -6,12 +6,12 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~35,741 |
-| Just The Two of Us | 33.00% | ~34,690 |
-| Up On High | 25.00% | ~26,280 |
-| Under The Hood | 25.00% | ~26,280 |
-| Got Your Nose | 24.00% | ~25,229 |
-| The Gift of Gab | 24.00% | ~25,229 |
+| Simoon | 34.00% | ~35,742 |
+| Just The Two of Us | 33.00% | ~34,691 |
+| Up On High | 25.00% | ~26,281 |
+| Under The Hood | 25.00% | ~26,281 |
+| Got Your Nose | 24.00% | ~25,230 |
+| The Gift of Gab | 24.00% | ~25,230 |
 | Wrapping Up | 22.00% | ~23,127 |
 | More Than A Box Of Sand | 18.00% | ~18,922 |
 | The Dunboyne | 17.00% | ~17,871 |
@@ -20,7 +20,7 @@ Number of Ratings: 43  (23.09.2022)
 | Silver-Tongued Sable | 16.00% | ~16,820 |
 | Sticky Paws | 16.00% | ~16,820 |
 | Bubble Up | 16.00% | ~16,820 |
-| Thread The Needle | 15.00% | ~15,768 |
+| Thread The Needle | 15.00% | ~15,769 |
 | Power to the People | 14.00% | ~14,717 |
 | Nesting Giant | 14.00% | ~14,717 |
 | Take That! | 13.00% | ~13,666 |
@@ -28,7 +28,7 @@ Number of Ratings: 43  (23.09.2022)
 | Big Spender | 13.00% | ~13,666 |
 | Badge Collector | 12.00% | ~12,615 |
 | Quite The Catch | 12.00% | ~12,615 |
-| Rowleys Way | 11.00% | ~11,563 |
+| Rowleys Way | 11.00% | ~11,564 |
 | The Machinist Mask | 10.00% | ~10,512 |
 | The Cartographer Mask | 10.00% | ~10,512 |
 | Balfron Connection | 10.00% | ~10,512 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~3,154 |
 | Vivacious Vivarium | 2.00% | ~2,102 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 105,122 (Ranked 90)  
+Progressed: 105,124 (Ranked 90)  
 Completed: 1,070 (1.02%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 1,070 (1.02%) (Ranked 172)
 | 2023-12-16 | 104,613 | 1,063 |
 | 2023-12-17 | 104,855 | 1,068 |
 | 2023-12-18 | 105,077 | 1,070 |
-| 2023-12-19 | 105,122 | 1,070 |
+| 2023-12-19 | 105,124 | 1,070 |
 ## Awards
 Max (Extremely Fun): 29  (Ranked 509)  
 Sum: 120 (Ranked 446)  

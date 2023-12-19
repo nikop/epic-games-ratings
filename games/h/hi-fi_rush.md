@@ -5,36 +5,36 @@ Rating: 4.89 (Ranked 10)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 41.00% | ~3,807 |
-| Feeling the beat! | 41.00% | ~3,807 |
-| You can pet the cat! | 37.00% | ~3,435 |
-| Who put gears in there? | 29.00% | ~2,693 |
-| Cream of the Crop | 25.00% | ~2,321 |
-| Thanks for the free chip, Peppermint! | 24.00% | ~2,228 |
-| You got this, Peppermint? | 20.00% | ~1,857 |
-| Perfect Parry | 18.00% | ~1,671 |
-| Alright, that felt AWESOME! | 18.00% | ~1,671 |
-| I play my own way! | 16.00% | ~1,486 |
-| This will cost you big time | 14.00% | ~1,300 |
-| Uh, they were broken when I got here | 14.00% | ~1,300 |
-| Does that say weakpoint? | 13.00% | ~1,207 |
-| Z-shielding's got nothing on us! | 12.00% | ~1,114 |
-| Kissing the sky! | 12.00% | ~1,114 |
-| Whoa! There's ANOTHER health bar!? | 10.00% | ~928 |
-| The Negotiator | 9.00% | ~836 |
-| I look cool. But I can look COOLER. | 9.00% | ~836 |
-| You must like calling me in, Chai | 8.00% | ~743 |
-| Headliner | 7.00% | ~650 |
-| Out in a puff of smoke | 7.00% | ~650 |
-| Perfecter Parry-er! | 7.00% | ~650 |
-| Time to pay up! | 6.00% | ~557 |
-| Who's the boss now? | 6.00% | ~557 |
-| I have to read these things? | 6.00% | ~557 |
-| There's such a thing as TOO helpful | 5.00% | ~464 |
-| NOW we got a kickass hideout! | 5.00% | ~390 |
-| Well that was a rush! | 4.00% | ~371 |
-| Beat-hit mania | 4.00% | ~371 |
-| That's a lot of junk metal… | 4.00% | ~371 |
+| Feeling the beat! | 42.00% | ~3,907 |
+| Start with a bang! | 41.00% | ~3,814 |
+| You can pet the cat! | 37.00% | ~3,442 |
+| Who put gears in there? | 29.00% | ~2,698 |
+| Cream of the Crop | 25.00% | ~2,326 |
+| Thanks for the free chip, Peppermint! | 24.00% | ~2,233 |
+| You got this, Peppermint? | 20.00% | ~1,861 |
+| Perfect Parry | 18.00% | ~1,675 |
+| Alright, that felt AWESOME! | 18.00% | ~1,675 |
+| I play my own way! | 16.00% | ~1,488 |
+| This will cost you big time | 14.00% | ~1,302 |
+| Uh, they were broken when I got here | 14.00% | ~1,302 |
+| Z-shielding's got nothing on us! | 13.00% | ~1,209 |
+| Does that say weakpoint? | 13.00% | ~1,209 |
+| Kissing the sky! | 12.00% | ~1,116 |
+| Whoa! There's ANOTHER health bar!? | 10.00% | ~930 |
+| The Negotiator | 9.00% | ~837 |
+| I look cool. But I can look COOLER. | 9.00% | ~837 |
+| You must like calling me in, Chai | 8.00% | ~744 |
+| Headliner | 7.00% | ~651 |
+| Out in a puff of smoke | 7.00% | ~651 |
+| Perfecter Parry-er! | 7.00% | ~651 |
+| Time to pay up! | 6.00% | ~558 |
+| Who's the boss now? | 6.00% | ~558 |
+| I have to read these things? | 6.00% | ~558 |
+| There's such a thing as TOO helpful | 5.00% | ~465 |
+| NOW we got a kickass hideout! | 5.00% | ~391 |
+| Well that was a rush! | 4.00% | ~372 |
+| Beat-hit mania | 4.00% | ~372 |
+| That's a lot of junk metal… | 4.00% | ~372 |
 | I told you I'd be fine, Peppermint! | 3.00% | ~279 |
 | Chip-tuned | 2.00% | ~186 |
 | Wanna hear my playlist? | 2.00% | ~186 |
@@ -49,8 +49,8 @@ Rating: 4.89 (Ranked 10)
 | You ever parry a volcano? | 1.00% | ~93 |
 | Call me Turbo Chai | 1.00% | ~78 |
 | New bad guys? No problem! | 0.60% | ~47 |
-| Easy Listening | 0.50% | ~46 |
-| OK, well THEY came after ME! | 0.50% | ~46 |
+| Easy Listening | 0.50% | ~47 |
+| OK, well THEY came after ME! | 0.50% | ~47 |
 | Problem solved... wait, what? | 0.30% | ~28 |
 | Now this is how you fight like a team! | 0.30% | ~28 |
 | Choose your own adventure | 0.30% | ~23 |
@@ -77,7 +77,7 @@ Rating: 4.89 (Ranked 10)
 | Voices from within | 0.10% | ~8 |
 | Low budget finish | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,285 (Ranked 175)  
+Progressed: 9,303 (Ranked 175)  
 Completed: 8 (0.09%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 8 (0.09%) (Ranked 308)
 | 2023-12-16 | 7,817 | 8 |
 | 2023-12-17 | 8,671 | 8 |
 | 2023-12-18 | 9,200 | 8 |
-| 2023-12-19 | 9,285 | 8 |
+| 2023-12-19 | 9,303 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

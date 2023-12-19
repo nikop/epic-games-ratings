@@ -3,12 +3,12 @@
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
   "Ranking_Rating": 512,
-  "Ranking_Popularity": 483,
+  "Ranking_Popularity": 484,
   "Ranking_PopularitySum": 391,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4015,
+  "EOS_Progressed": 4016,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 278,
+  "EOS_NewPlayers": 279,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -6436,6 +6436,11 @@
       "Time": "2023-12-19T04:05:25.5843714+00:00",
       "NumProgressed": 4015,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-19T07:04:44.0403727+00:00",
+      "NumProgressed": 4016,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -6447,7 +6452,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "AceDetective_9",
@@ -6487,7 +6492,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1726
+      "UsersEstimate": 1727
     },
     {
       "ID": "CrowdPleaser",
@@ -6519,7 +6524,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "ForAllAurai_8",
@@ -6551,7 +6556,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "HouseofCards_19",
@@ -6639,7 +6644,7 @@
       "Name": "Ready for Winter",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 2529
+      "UsersEstimate": 2530
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -6647,7 +6652,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -6711,7 +6716,7 @@
       "Name": "The Power of Family",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -6767,7 +6772,7 @@
       "Name": "Venture Outward",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2971
+      "UsersEstimate": 2972
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -6782,15 +6787,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4015,
+      "Progressed": 4016,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-19T06:04:52.3778647+00:00",
+  "LastChanged_Achievements": "2023-12-19T07:04:44.0403722+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:45.1407734+00:00",
-  "LastUpdate_Ratings": "2023-12-19T06:02:53.331832+00:00",
-  "LastUpdate_Achievements": "2023-12-19T06:04:52.3779078+00:00"
+  "LastUpdate_Ratings": "2023-12-19T07:02:44.4870808+00:00",
+  "LastUpdate_Achievements": "2023-12-19T07:04:44.0404305+00:00"
 }

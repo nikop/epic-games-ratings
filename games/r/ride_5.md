@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 46.00% | ~1,255 |
-| First Love | 43.00% | ~1,173 |
-| Clean Race | 41.00% | ~1,118 |
-| Hear That Roar! | 40.00% | ~1,091 |
-| Rivals to the End | 29.00% | ~791 |
-| Bitter Rivalry | 28.00% | ~764 |
-| Champagne Spray | 26.00% | ~709 |
-| We're Going to Need a Bigger Garage | 25.00% | ~682 |
-| I Want One Too! | 20.00% | ~546 |
-| Restored and Ready | 19.00% | ~518 |
-| Legendary!!! | 19.00% | ~518 |
-| Quick Pit Stop | 19.00% | ~518 |
-| Go-Faster Stripes | 17.00% | ~464 |
-| I'm Here Too! | 15.00% | ~409 |
-| We've Just Begun | 12.00% | ~327 |
-| Stamina Star | 9.00% | ~246 |
+| Eat My Dust | 46.00% | ~1,257 |
+| First Love | 43.00% | ~1,175 |
+| Clean Race | 41.00% | ~1,121 |
+| Hear That Roar! | 40.00% | ~1,093 |
+| Rivals to the End | 29.00% | ~793 |
+| Bitter Rivalry | 28.00% | ~765 |
+| Champagne Spray | 26.00% | ~711 |
+| We're Going to Need a Bigger Garage | 25.00% | ~683 |
+| I Want One Too! | 20.00% | ~547 |
+| Restored and Ready | 19.00% | ~519 |
+| Legendary!!! | 19.00% | ~519 |
+| Quick Pit Stop | 19.00% | ~519 |
+| Go-Faster Stripes | 17.00% | ~465 |
+| I'm Here Too! | 15.00% | ~410 |
+| We've Just Begun | 12.00% | ~328 |
 | Is It the Right Size? | 9.00% | ~246 |
+| Stamina Star | 8.00% | ~219 |
 | Evangelist | 6.00% | ~164 |
-| Make It Your Own! | 5.00% | ~136 |
+| Make It Your Own! | 5.00% | ~137 |
 | Cherry Blossom and Temples | 4.00% | ~109 |
 | Spoilt for Choice | 3.00% | ~82 |
 | La Dolce Vita | 3.00% | ~82 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,728 (Ranked 220)  
+Progressed: 2,733 (Ranked 220)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,4 +163,4 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-16 | 2,636 | 0 |
 | 2023-12-17 | 2,685 | 0 |
 | 2023-12-18 | 2,720 | 0 |
-| 2023-12-19 | 2,728 | 0 |
+| 2023-12-19 | 2,733 | 0 |
