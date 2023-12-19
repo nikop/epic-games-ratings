@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1152,
+  "EOS_Progressed": 1153,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3014,6 +3014,11 @@
       "Time": "2023-12-19T04:10:32.0540364+00:00",
       "NumProgressed": 1152,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T05:10:47.5503019+00:00",
+      "NumProgressed": 1153,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3023,9 +3028,9 @@
       "ID": "AMMO_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "This Isn\u0027t The Last Box",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 783
+      "UsersEstimate": 796
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -3097,7 +3102,7 @@
       "Name": "Capraphobia",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -3225,15 +3230,15 @@
       "Name": "Greetings from Royalty",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Think Bullets Will Affect Her?",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 115
     },
     {
       "ID": "EXT_ACHIEVEMENT_1",
@@ -3273,7 +3278,7 @@
       "Name": "I\u0027ll Save You!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "FREE_ACHIEVEMENT_2",
@@ -3313,7 +3318,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -3552,14 +3557,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1152,
+      "Progressed": 1153,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-12-19T04:10:32.054036+00:00",
+  "LastChanged_Achievements": "2023-12-19T05:10:47.5503016+00:00",
   "LastUpdate_AppInfo": "2023-12-15T02:21:08.9329051+00:00",
-  "LastUpdate_Ratings": "2023-12-19T04:00:13.6562729+00:00",
-  "LastUpdate_Achievements": "2023-12-19T04:10:32.0540946+00:00"
+  "LastUpdate_Ratings": "2023-12-19T05:00:18.2842102+00:00",
+  "LastUpdate_Achievements": "2023-12-19T05:10:47.5503552+00:00"
 }

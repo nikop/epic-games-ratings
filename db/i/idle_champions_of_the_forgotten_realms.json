@@ -8863,9 +8863,9 @@
       "Count": 3578
     }
   ],
-  "EOS_Progressed": 241887,
+  "EOS_Progressed": 241896,
   "EOS_Completed": 2541,
-  "EOS_NewPlayers": 2404,
+  "EOS_NewPlayers": 2409,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -36243,6 +36243,11 @@
       "Time": "2023-12-19T04:10:35.4833772+00:00",
       "NumProgressed": 241887,
       "NumCompleted": 2541
+    },
+    {
+      "Time": "2023-12-19T05:10:50.830464+00:00",
+      "NumProgressed": 241896,
+      "NumCompleted": 2541
     }
   ],
   "TotalAchievements": 546,
@@ -40550,7 +40555,7 @@
       "Name": "Misaligned in Sigil",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "objective_completed_1562",
@@ -40566,7 +40571,7 @@
       "Name": "Chaos Theory",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "objective_completed_598",
@@ -40574,7 +40579,7 @@
       "Name": "The Overgrown Grove",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "objective_completed_673",
@@ -40582,7 +40587,7 @@
       "Name": "When Tentacles Attack",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "objective_completed_678",
@@ -40590,7 +40595,7 @@
       "Name": "Flames of Avernus",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "objective_completed_683",
@@ -40598,7 +40603,7 @@
       "Name": "Mental Gymnastics",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "objective_completed_860",
@@ -40621,21 +40626,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 208161,
+      "Progressed": 208170,
       "Completed": 4037
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 241887,
+      "Progressed": 241896,
       "Completed": 2541
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-19T02:23:12.6305307+00:00",
-  "LastChanged_Achievements": "2023-12-19T04:10:35.4833768+00:00",
+  "LastChanged_Achievements": "2023-12-19T05:10:50.8304636+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:52.1318001+00:00",
-  "LastUpdate_Ratings": "2023-12-19T04:01:03.0548643+00:00",
-  "LastUpdate_Achievements": "2023-12-19T04:10:35.4858133+00:00"
+  "LastUpdate_Ratings": "2023-12-19T05:01:03.6197276+00:00",
+  "LastUpdate_Achievements": "2023-12-19T05:10:50.832807+00:00"
 }

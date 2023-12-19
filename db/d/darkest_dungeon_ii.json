@@ -9894,9 +9894,9 @@
       "Count": 1026
     }
   ],
-  "EOS_Progressed": 128428,
+  "EOS_Progressed": 128442,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2146,
+  "EOS_NewPlayers": 2152,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35744,6 +35744,11 @@
       "Time": "2023-12-19T04:09:21.8652451+00:00",
       "NumProgressed": 128428,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-19T05:09:41.6918061+00:00",
+      "NumProgressed": 128442,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35929,9 +35934,9 @@
       "ID": "combat_kill_fisherfolk",
       "SetID": "64l4lke",
       "Name": "Ichthyophobic",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1156
     },
     {
       "ID": "combat_kill_gaunts",
@@ -35947,7 +35952,7 @@
       "Name": "No More Mouths to Feed",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -36219,7 +36224,7 @@
       "Name": "Hot Air",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "run_victory_act03",
@@ -36291,7 +36296,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "combat_kill_collector",
@@ -36331,7 +36336,7 @@
       "Name": "Et Tu, Riposte?",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "hero_story_complete_crusader",
@@ -36355,7 +36360,7 @@
       "Name": "Lost and Found",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -36386,21 +36391,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 128428,
+      "Progressed": 128442,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 3297,
+      "Progressed": 3311,
       "Completed": 802
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-18T22:59:10.1872581+00:00",
-  "LastChanged_Achievements": "2023-12-19T04:09:21.8652445+00:00",
+  "LastChanged_Achievements": "2023-12-19T05:09:41.6918056+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-19T03:59:17.5781256+00:00",
-  "LastUpdate_Achievements": "2023-12-19T04:09:21.8654488+00:00"
+  "LastUpdate_Ratings": "2023-12-19T04:59:26.0715965+00:00",
+  "LastUpdate_Achievements": "2023-12-19T05:09:41.6919606+00:00"
 }

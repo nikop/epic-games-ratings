@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marc Allard | 75.00% | ~36 |
-| Little ideas | 69.00% | ~33 |
-| The Ship | 63.00% | ~30 |
-| Seeking the truth | 54.00% | ~26 |
-| An old friend | 52.00% | ~25 |
-| The Gala | 50.00% | ~24 |
-| A curious gathering | 50.00% | ~24 |
-| Little grey cells | 48.00% | ~23 |
-| Impossible is possible | 48.00% | ~23 |
-| The Missing Magdalene | 48.00% | ~23 |
-| Arthur Hastings | 48.00% | ~23 |
-| Everything matters | 44.00% | ~21 |
-| An expert mediator | 42.00% | ~20 |
-| DI Hardwicke | 42.00% | ~20 |
-| Order and method | 40.00% | ~19 |
-| Betty Allen | 38.00% | ~18 |
-| The Investigation Begins | 38.00% | ~18 |
+| Marc Allard | 73.00% | ~36 |
+| Little ideas | 67.00% | ~33 |
+| The Ship | 61.00% | ~30 |
+| Seeking the truth | 53.00% | ~26 |
+| An old friend | 51.00% | ~25 |
+| The Gala | 49.00% | ~24 |
+| A curious gathering | 49.00% | ~24 |
+| Little grey cells | 47.00% | ~23 |
+| Impossible is possible | 47.00% | ~23 |
+| The Missing Magdalene | 47.00% | ~23 |
+| Arthur Hastings | 47.00% | ~23 |
+| Everything matters | 43.00% | ~21 |
+| An expert mediator | 41.00% | ~20 |
+| DI Hardwicke | 41.00% | ~20 |
+| Order and method | 39.00% | ~19 |
+| Betty Allen | 37.00% | ~18 |
+| The Investigation Begins | 37.00% | ~18 |
 | Ms. Camilla B. Culsham | 33.00% | ~16 |
 | Irene Court-Smyth | 33.00% | ~16 |
 | An odd series of events | 31.00% | ~15 |
@@ -33,26 +33,26 @@
 | Zakariya Demir | 27.00% | ~13 |
 | Bartholomew | 27.00% | ~13 |
 | The Scheme | 27.00% | ~13 |
-| A curious phrase | 23.00% | ~11 |
-| Evelyn Lakshmi Warbeck | 23.00% | ~11 |
-| The Suspects | 23.00% | ~11 |
-| Horace Mountjoy | 19.00% | ~9 |
-| Johan Kristiansen | 19.00% | ~9 |
-| The Secrets | 19.00% | ~9 |
-| Well-travelled | 17.00% | ~8 |
-| A peculiar fellow | 17.00% | ~8 |
-| Florence Farquhar | 17.00% | ~8 |
-| Mortimer Ailsworth | 17.00% | ~8 |
-| The Investigation Starts Anew | 17.00% | ~8 |
-| The Denouement | 15.00% | ~7 |
-| A treasured heirloom | 15.00% | ~7 |
-| A perilous journey | 15.00% | ~7 |
-| The Penitent Magdalene | 15.00% | ~7 |
-| A true performance | 15.00% | ~7 |
+| A curious phrase | 22.00% | ~11 |
+| Evelyn Lakshmi Warbeck | 22.00% | ~11 |
+| The Suspects | 22.00% | ~11 |
+| Horace Mountjoy | 18.00% | ~9 |
+| Johan Kristiansen | 18.00% | ~9 |
+| The Secrets | 18.00% | ~9 |
+| Well-travelled | 16.00% | ~8 |
+| A peculiar fellow | 16.00% | ~8 |
+| Florence Farquhar | 16.00% | ~8 |
+| Mortimer Ailsworth | 16.00% | ~8 |
+| The Investigation Starts Anew | 16.00% | ~8 |
+| The Denouement | 14.00% | ~7 |
+| A treasured heirloom | 14.00% | ~7 |
+| A perilous journey | 14.00% | ~7 |
+| The Penitent Magdalene | 14.00% | ~7 |
+| A true performance | 14.00% | ~7 |
 | Perkins | 8.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48 (Ranked 525)  
-Completed: 2 (4.17%) (Ranked 91)  
+Progressed: 49 (Ranked 523)  
+Completed: 2 (4.08%) (Ranked 92)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -95,4 +95,4 @@ Completed: 2 (4.17%) (Ranked 91)
 | 2023-12-16 | 45 | 1 |
 | 2023-12-17 | 46 | 1 |
 | 2023-12-18 | 47 | 2 |
-| 2023-12-19 | 48 | 2 |
+| 2023-12-19 | 49 | 2 |

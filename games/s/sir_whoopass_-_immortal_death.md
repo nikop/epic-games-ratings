@@ -43,8 +43,8 @@
 | A Megapint...? | 26.00% | ~35 |
 | Your daily dose of Vitamin C. | 26.00% | ~35 |
 | Ripe Meat Off The Bone! | 26.00% | ~35 |
+| Hovering around | 26.00% | ~35 |
 | Kleptomaniac | 26.00% | ~35 |
-| Hovering around | 25.00% | ~33 |
 | I cant stand still! | 23.00% | ~31 |
 | Slimy... yet satisfying | 20.00% | ~27 |
 | Master Butcher | 19.00% | ~25 |

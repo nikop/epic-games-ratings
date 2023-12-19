@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Mathematic | 87.00% | ~117 |
+| It's Yours, My Friend | 73.00% | ~98 |
 | Digging a Hole | 72.00% | ~96 |
-| It's Yours, My Friend | 72.00% | ~96 |
 | Going Places | 66.00% | ~88 |
 | Conducted Trade | 65.00% | ~87 |
 | Aristocratic | 61.00% | ~82 |
@@ -17,7 +17,7 @@
 | Mine Sweeper | 34.00% | ~46 |
 | Roll Out | 33.00% | ~44 |
 | Dopa-Miner | 25.00% | ~34 |
-| Up, Up And Away! | 24.00% | ~32 |
+| Up, Up And Away! | 25.00% | ~34 |
 | Whoa! | 24.00% | ~32 |
 | Botropolis | 22.00% | ~29 |
 | Steam Powered | 16.00% | ~21 |

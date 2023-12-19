@@ -3815,9 +3815,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 53577,
+  "EOS_Progressed": 53579,
   "EOS_Completed": 253,
-  "EOS_NewPlayers": 1502,
+  "EOS_NewPlayers": 1504,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -15120,6 +15120,11 @@
       "Time": "2023-12-19T04:05:16.9636483+00:00",
       "NumProgressed": 53577,
       "NumCompleted": 253
+    },
+    {
+      "Time": "2023-12-19T05:05:22.2411141+00:00",
+      "NumProgressed": 53579,
+      "NumCompleted": 253
     }
   ],
   "TotalAchievements": 45,
@@ -15155,7 +15160,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 42326
+      "UsersEstimate": 42327
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -15243,7 +15248,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 31075
+      "UsersEstimate": 31076
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -15251,7 +15256,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 24645
+      "UsersEstimate": 24646
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -15259,7 +15264,7 @@
       "Name": "Revenge of the Sith",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 21431
+      "UsersEstimate": 21432
     },
     {
       "ID": "COMPLETE_EPISODE_4",
@@ -15267,7 +15272,7 @@
       "Name": "A New Hope",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 25181
+      "UsersEstimate": 25182
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -15275,7 +15280,7 @@
       "Name": "The Empire Strikes Back",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 19823
+      "UsersEstimate": 19824
     },
     {
       "ID": "COMPLETE_EPISODE_6",
@@ -15291,7 +15296,7 @@
       "Name": "The Force Awakens",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 13930
+      "UsersEstimate": 13931
     },
     {
       "ID": "COMPLETE_EPISODE_8",
@@ -15307,7 +15312,7 @@
       "Name": "The Rise of Skywalker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 10715
+      "UsersEstimate": 10716
     },
     {
       "ID": "COMPLETE_FAULTYDROID_ON_TATOOINE",
@@ -15323,7 +15328,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 30003
+      "UsersEstimate": 30004
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -15371,7 +15376,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 31075
+      "UsersEstimate": 31076
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -15395,7 +15400,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 51434
+      "UsersEstimate": 51436
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -15435,7 +15440,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 38040
+      "UsersEstimate": 38041
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -15451,7 +15456,7 @@
       "Name": "\u0027\u0027A fine addition to my collection\u0027\u0027",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 19823
+      "UsersEstimate": 19824
     },
     {
       "ID": "RIDE_ALL_CREATURES",
@@ -15467,7 +15472,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 28396
+      "UsersEstimate": 28397
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -15483,22 +15488,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 38040
+      "UsersEstimate": 38041
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 53577,
+      "Progressed": 53579,
       "Completed": 253
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-12-18T17:59:25.1662155+00:00",
-  "LastChanged_Achievements": "2023-12-19T04:05:16.9636478+00:00",
+  "LastChanged_Achievements": "2023-12-19T05:05:22.2411137+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:24.1915187+00:00",
-  "LastUpdate_Ratings": "2023-12-19T03:59:45.6225537+00:00",
-  "LastUpdate_Achievements": "2023-12-19T04:05:16.9637246+00:00"
+  "LastUpdate_Ratings": "2023-12-19T04:59:52.150222+00:00",
+  "LastUpdate_Achievements": "2023-12-19T05:05:22.2411952+00:00"
 }

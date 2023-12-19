@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -59,7 +59,7 @@
   "Tags": [],
   "EOS_Progressed": 1231,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
@@ -3070,9 +3070,9 @@
       "ID": "EV_ACH12",
       "SetID": "6jeac23",
       "Name": "Freeze The Ice Witch",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 468
+      "UsersEstimate": 480
     },
     {
       "ID": "EV_ACH13",
@@ -3343,8 +3343,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-18T18:59:32.6243964+00:00",
-  "LastChanged_Achievements": "2023-12-19T04:10:29.6927915+00:00",
+  "LastChanged_Achievements": "2023-12-19T05:10:45.5893125+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:41.6283728+00:00",
-  "LastUpdate_Ratings": "2023-12-19T04:00:33.3163708+00:00",
-  "LastUpdate_Achievements": "2023-12-19T04:10:29.6928267+00:00"
+  "LastUpdate_Ratings": "2023-12-19T05:00:36.980234+00:00",
+  "LastUpdate_Achievements": "2023-12-19T05:10:45.5893514+00:00"
 }

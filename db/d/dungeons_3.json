@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
     "PcReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -3341,11 +3341,17 @@
       "Rating": 4.66,
       "NumberOfAwards": 2810,
       "NumberOfAwardsMax": 389
+    },
+    {
+      "Time": "2023-12-19T04:58:27.8206722+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 2812,
+      "NumberOfAwardsMax": 391
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2810,
-  "NumberOfAwardsMax": 389,
+  "NumberOfAwards": 2812,
+  "NumberOfAwardsMax": 391,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -3358,7 +3364,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 389
+      "Count": 391
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3415,7 +3421,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 43977,
+  "EOS_Progressed": 43979,
   "EOS_Completed": 358,
   "EOS_NewPlayers": 812,
   "EOS_NewCompleters": 7,
@@ -30425,6 +30431,11 @@
       "Time": "2023-12-19T04:05:17.6983439+00:00",
       "NumProgressed": 43977,
       "NumCompleted": 358
+    },
+    {
+      "Time": "2023-12-19T05:05:23.0402844+00:00",
+      "NumProgressed": 43979,
+      "NumCompleted": 358
     }
   ],
   "TotalAchievements": 60,
@@ -30436,7 +30447,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 25946
+      "UsersEstimate": 25948
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -30444,7 +30455,7 @@
       "Name": "No one has to die today!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20669
+      "UsersEstimate": 20670
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -30452,7 +30463,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 25507
+      "UsersEstimate": 25508
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -30500,7 +30511,7 @@
       "Name": "Difficult family relationships",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 10994
+      "UsersEstimate": 10995
     },
     {
       "ID": "ACH_D3_Campaign_DayNight_1",
@@ -30524,7 +30535,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 14952
+      "UsersEstimate": 14953
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -30548,7 +30559,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 21988
+      "UsersEstimate": 21990
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -30580,7 +30591,7 @@
       "Name": "MASS-O-BOT",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 10554
+      "UsersEstimate": 10555
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_2",
@@ -30596,7 +30607,7 @@
       "Name": "The last burger",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 16271
+      "UsersEstimate": 16272
     },
     {
       "ID": "ACH_D3_Campaign_Fire_1",
@@ -30604,7 +30615,7 @@
       "Name": "Prepare the grave",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 10554
+      "UsersEstimate": 10555
     },
     {
       "ID": "ACH_D3_Campaign_Fire_2",
@@ -30620,7 +30631,7 @@
       "Name": "Angel of Fire",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 10554
+      "UsersEstimate": 10555
     },
     {
       "ID": "ACH_D3_Campaign_Graves_1",
@@ -30628,7 +30639,7 @@
       "Name": "Braiiiiins!",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 16711
+      "UsersEstimate": 16712
     },
     {
       "ID": "ACH_D3_Campaign_Graves_2",
@@ -30644,7 +30655,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 19350
+      "UsersEstimate": 19351
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -30716,7 +30727,7 @@
       "Name": "Destroy the thing",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 11434
+      "UsersEstimate": 11435
     },
     {
       "ID": "ACH_D3_Campaign_Pain_1",
@@ -30788,7 +30799,7 @@
       "Name": "The Force disturbed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 9235
+      "UsersEstimate": 9236
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_1",
@@ -30812,7 +30823,7 @@
       "Name": "Damned good",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 14512
+      "UsersEstimate": 14513
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_1",
@@ -30820,7 +30831,7 @@
       "Name": "Death and destruction!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 20229
+      "UsersEstimate": 20230
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -30828,7 +30839,7 @@
       "Name": "Shadow hunter",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 13193
+      "UsersEstimate": 13194
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_Completed",
@@ -30836,7 +30847,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 30784
+      "UsersEstimate": 30785
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -30860,7 +30871,7 @@
       "Name": "The Victorious Evil",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 8795
+      "UsersEstimate": 8796
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_1",
@@ -30876,7 +30887,7 @@
       "Name": "Hearts are trump",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 3078
+      "UsersEstimate": 3079
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_Completed",
@@ -30884,7 +30895,7 @@
       "Name": "Not-So-Overproud",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 13193
+      "UsersEstimate": 13194
     },
     {
       "ID": "ACH_D3_Campaign_Water_1",
@@ -30908,22 +30919,22 @@
       "Name": "Tide Master",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 11434
+      "UsersEstimate": 11435
     }
   ],
   "AchievementSets": [
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 43977,
+      "Progressed": 43979,
       "Completed": 358
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
-  "LastChanged": "2023-12-16T12:01:48.6572157+00:00",
-  "LastChanged_Achievements": "2023-12-19T04:05:17.6983435+00:00",
+  "LastChanged": "2023-12-19T04:58:27.8206721+00:00",
+  "LastChanged_Achievements": "2023-12-19T05:05:23.0402841+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:12.618272+00:00",
-  "LastUpdate_Ratings": "2023-12-19T03:58:15.3717977+00:00",
-  "LastUpdate_Achievements": "2023-12-19T04:05:17.6984981+00:00"
+  "LastUpdate_Ratings": "2023-12-19T04:58:27.8206725+00:00",
+  "LastUpdate_Achievements": "2023-12-19T05:05:23.0404542+00:00"
 }

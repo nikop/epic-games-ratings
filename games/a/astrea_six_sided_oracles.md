@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 75.00% | ~139 |
+| Meissa's Savior | 75.00% | ~140 |
 | Purification Pioneer | 69.00% | ~128 |
-| Mechanical Buddy | 64.00% | ~118 |
-| Dicesmithing Time! | 57.00% | ~105 |
-| Sanctuary Guardian | 52.00% | ~96 |
-| Endless Tricks | 50.00% | ~92 |
-| Wild's Keeper | 45.00% | ~83 |
-| Mind Illuminator | 43.00% | ~80 |
+| Mechanical Buddy | 64.00% | ~119 |
+| Dicesmithing Time! | 59.00% | ~110 |
+| Sanctuary Guardian | 52.00% | ~97 |
+| Endless Tricks | 50.00% | ~93 |
+| Wild's Keeper | 46.00% | ~86 |
+| Mind Illuminator | 44.00% | ~82 |
 | Stellar Dismantler | 35.00% | ~65 |
 | Noctuan Champion | 35.00% | ~65 |
-| Anomaly Destroyer | 30.00% | ~56 |
-| Astral Adventurer | 29.00% | ~54 |
-| Star Killer | 26.00% | ~48 |
+| Anomaly Destroyer | 31.00% | ~58 |
+| Astral Adventurer | 30.00% | ~56 |
+| Star Killer | 27.00% | ~50 |
 | Eridanian Champion | 25.00% | ~46 |
-| Lacertian Champion | 24.00% | ~44 |
+| Lacertian Champion | 24.00% | ~45 |
 | Loyal Partner | 23.00% | ~43 |
 | Apian Champion | 21.00% | ~39 |
 | Shard Spender | 19.00% | ~35 |
-| Unbeatable | 17.00% | ~31 |
-| Behenian Champion | 16.00% | ~30 |
+| Unbeatable | 18.00% | ~33 |
+| Behenian Champion | 17.00% | ~32 |
 | Sadistic Plan | 14.00% | ~26 |
 | Aquarian Champion | 11.00% | ~20 |
-| Heavy Purger | 10.00% | ~18 |
-| Stellar Haste | 10.00% | ~18 |
+| Heavy Purger | 10.00% | ~19 |
+| Stellar Haste | 10.00% | ~19 |
 | Astral Seeker | 9.00% | ~17 |
 | Heart Gate | 9.00% | ~17 |
 | Wave Bender | 9.00% | ~17 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 185 (Ranked 403)  
+Progressed: 186 (Ranked 403)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,4 +157,4 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-16 | 161 | 0 |
 | 2023-12-17 | 175 | 0 |
 | 2023-12-18 | 184 | 0 |
-| 2023-12-19 | 185 | 0 |
+| 2023-12-19 | 186 | 0 |

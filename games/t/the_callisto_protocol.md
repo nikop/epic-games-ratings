@@ -5,16 +5,16 @@ Rating: 4.19 (Ranked 939)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 13.00% | ~2,337 |
-| Get a Grip | 13.00% | ~2,337 |
-| The Outer Way | 13.00% | ~2,337 |
-| Paper Jams | 12.00% | ~2,157 |
-| Desperate Times | 12.00% | ~2,157 |
+| Flesh Wound | 13.00% | ~2,338 |
+| Get a Grip | 13.00% | ~2,338 |
+| The Outer Way | 13.00% | ~2,338 |
+| Paper Jams | 12.00% | ~2,158 |
+| Desperate Times | 12.00% | ~2,158 |
 | Chew 'Em Up | 10.00% | ~1,798 |
 | Float Like A Butterfly | 10.00% | ~1,798 |
-| Reforged | 9.00% | ~1,618 |
-| Workplace Hazard | 8.00% | ~1,438 |
-| If the SHU Fits... | 8.00% | ~1,438 |
+| Reforged | 9.00% | ~1,619 |
+| Workplace Hazard | 8.00% | ~1,439 |
+| If the SHU Fits... | 8.00% | ~1,439 |
 | Without A Paddle | 7.00% | ~1,259 |
 | Two Heads Are Better Than One | 6.00% | ~1,079 |
 | Terminated | 6.00% | ~1,079 |
@@ -23,13 +23,13 @@ Rating: 4.19 (Ranked 939)
 | Crash Site | 6.00% | ~1,079 |
 | Full Circle | 6.00% | ~1,079 |
 | Power Up | 6.00% | ~1,079 |
-| Keep Fighting | 6.00% | ~354 |
+| Keep Fighting | 6.00% | ~355 |
 | Giving Back | 5.00% | ~899 |
 | You Need a Gun | 5.00% | ~899 |
 | I Do Belong Here | 5.00% | ~899 |
 | It's Time | 4.00% | ~236 |
-| In Striking Distance | 3.00% | ~539 |
-| The Commonality | 3.00% | ~539 |
+| In Striking Distance | 3.00% | ~540 |
+| The Commonality | 3.00% | ~540 |
 | One Last Job | 2.00% | ~118 |
 | Big Spender | 1.00% | ~59 |
 | This Isn't About Escape | 1.00% | ~59 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 939)
 | Bear Trap | 0.10% | ~6 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,979 (Ranked 149)  
+Progressed: 17,984 (Ranked 149)  
 Completed: 82 (0.46%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 82 (0.46%) (Ranked 219)
 | 2023-12-16 | 17,442 | 82 |
 | 2023-12-17 | 17,760 | 82 |
 | 2023-12-18 | 17,946 | 82 |
-| 2023-12-19 | 17,979 | 82 |
+| 2023-12-19 | 17,984 | 82 |
 ## Awards
 Max (Quickly Understood Controls): 88  (Ranked 388)  
 Sum: 523 (Ranked 327)  

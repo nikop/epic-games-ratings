@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 327,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1697,9 +1697,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 17979,
+  "EOS_Progressed": 17984,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1454,
+  "EOS_NewPlayers": 1459,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -10242,6 +10242,11 @@
       "Time": "2023-12-19T04:09:27.8124223+00:00",
       "NumProgressed": 17979,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-19T05:09:47.1877508+00:00",
+      "NumProgressed": 17984,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -10285,7 +10290,7 @@
       "Name": "Flesh Wound",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 2337
+      "UsersEstimate": 2338
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -10357,7 +10362,7 @@
       "Name": "Get a Grip",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2337
+      "UsersEstimate": 2338
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -10365,7 +10370,7 @@
       "Name": "In Striking Distance",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "KILL_2HEAD",
@@ -10397,7 +10402,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1438
+      "UsersEstimate": 1439
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -10405,7 +10410,7 @@
       "Name": "The Commonality",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -10421,7 +10426,7 @@
       "Name": "Reforged",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1618
+      "UsersEstimate": 1619
     },
     {
       "ID": "PRINT_WEAPON",
@@ -10429,7 +10434,7 @@
       "Name": "Paper Jams",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2157
+      "UsersEstimate": 2158
     },
     {
       "ID": "SHARE_PHOTO",
@@ -10445,7 +10450,7 @@
       "Name": "The Outer Way",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2337
+      "UsersEstimate": 2338
     },
     {
       "ID": "STORY_ESCAPE",
@@ -10453,7 +10458,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1438
+      "UsersEstimate": 1439
     },
     {
       "ID": "STORY_HABITAT",
@@ -10485,7 +10490,7 @@
       "Name": "Desperate Times",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2157
+      "UsersEstimate": 2158
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -10605,7 +10610,7 @@
       "Name": "Keep Fighting",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -10628,13 +10633,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 17979,
+      "Progressed": 17984,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 5905,
+      "Progressed": 5910,
       "Completed": 29
     }
   ],
@@ -10642,8 +10647,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-19T04:03:19.1162955+00:00",
-  "LastChanged_Achievements": "2023-12-19T04:09:27.8124218+00:00",
+  "LastChanged_Achievements": "2023-12-19T05:09:47.1877504+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.4893565+00:00",
-  "LastUpdate_Ratings": "2023-12-19T04:03:19.116296+00:00",
-  "LastUpdate_Achievements": "2023-12-19T04:09:27.8125041+00:00"
+  "LastUpdate_Ratings": "2023-12-19T05:03:32.4734667+00:00",
+  "LastUpdate_Achievements": "2023-12-19T05:09:47.1878125+00:00"
 }

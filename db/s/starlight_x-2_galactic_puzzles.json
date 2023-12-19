@@ -726,9 +726,9 @@
       "ID": "ach_usehints_01",
       "SetID": "8jkn3bi",
       "Name": "Use 20 hints",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_usehints_02",
@@ -749,8 +749,8 @@
   ],
   "FirstSeen": "2023-11-18T16:58:15.9400848+00:00",
   "FirstSeenAchievements": "2023-04-25T20:54:03.7448556+00:00",
-  "LastChanged_Achievements": "2023-12-19T04:10:19.4613519+00:00",
+  "LastChanged_Achievements": "2023-12-19T05:10:35.7670079+00:00",
   "LastUpdate_AppInfo": "2023-12-16T16:56:59.5295548+00:00",
-  "LastUpdate_Ratings": "2023-12-19T03:59:19.5065803+00:00",
-  "LastUpdate_Achievements": "2023-12-19T04:10:19.4614043+00:00"
+  "LastUpdate_Ratings": "2023-12-19T04:59:27.9770489+00:00",
+  "LastUpdate_Achievements": "2023-12-19T05:10:35.7670378+00:00"
 }

@@ -1,7 +1,7 @@
 # MultiVersus
 [Store](https://store.epicgames.com/en-US/p/multiversus)  
 [View Rawdata](../../db/m/multiversus.json)  
-Rating: 4.56 (Ranked 499)  
+Rating: 4.56 (Ranked 498)  
 Number of Ratings: 55,748  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -17,25 +17,25 @@ Number of Ratings: 55,748  (23.09.2022)
 | Spike Specialist | 54.00% | ~583,793 |
 | Southpaw Specialist | 54.00% | ~583,793 |
 | Rightie Specialist | 54.00% | ~583,793 |
-| Signature Slammer | 43.00% | ~464,872 |
-| Distanced Damage Dealer | 42.00% | ~454,061 |
-| Watch Your Head | 42.00% | ~454,061 |
-| Catch This | 42.00% | ~454,061 |
-| Toast Master | 41.00% | ~443,250 |
-| Nice Speech | 41.00% | ~443,250 |
-| Credit Where It's Due | 41.00% | ~443,250 |
-| Life of the Party | 36.00% | ~389,195 |
-| Social Butterfly | 36.00% | ~389,195 |
-| Party Animal | 36.00% | ~389,195 |
-| And Your Little Dog, Too! | 33.00% | ~356,762 |
-| Bring A Friend | 33.00% | ~356,762 |
-| Ringouts Are Better In Pairs | 33.00% | ~356,762 |
-| Ground Floor: Ringouts | 29.00% | ~313,518 |
-| Watch Your Step | 29.00% | ~313,518 |
-| Going Down? | 29.00% | ~313,518 |
+| Signature Slammer | 43.00% | ~464,873 |
+| Distanced Damage Dealer | 42.00% | ~454,062 |
+| Watch Your Head | 42.00% | ~454,062 |
+| Catch This | 42.00% | ~454,062 |
+| Toast Master | 41.00% | ~443,251 |
+| Nice Speech | 41.00% | ~443,251 |
+| Credit Where It's Due | 41.00% | ~443,251 |
+| Life of the Party | 36.00% | ~389,196 |
+| Social Butterfly | 36.00% | ~389,196 |
+| Party Animal | 36.00% | ~389,196 |
+| And Your Little Dog, Too! | 33.00% | ~356,763 |
+| Bring A Friend | 33.00% | ~356,763 |
+| Ringouts Are Better In Pairs | 33.00% | ~356,763 |
+| Ground Floor: Ringouts | 29.00% | ~313,519 |
+| Watch Your Step | 29.00% | ~313,519 |
+| Going Down? | 29.00% | ~313,519 |
 | Run It Back | 6.00% | ~64,866 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,081,098 (Ranked 15)  
+Progressed: 1,081,099 (Ranked 15)  
 Completed: 31,692 (2.93%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,6 +106,7 @@ Completed: 31,692 (2.93%) (Ranked 113)
 | 2023-07-03 | 1,081,096 | 31,692 |
 | 2023-11-23 | 1,081,097 | 31,692 |
 | 2023-11-27 | 1,081,098 | 31,692 |
+| 2023-12-19 | 1,081,099 | 31,692 |
 ## Awards
 Max (Great for Beginners): 4,751  (Ranked 79)  
 Sum: 45,750 (Ranked 33)  

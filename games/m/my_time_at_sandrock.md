@@ -9,7 +9,7 @@ Number of Ratings: 892  (23.09.2022)
 | Adept Assembler | 227.00% | ~1,344 |
 | Iron Chef | 163.00% | ~965 |
 | Super Spelunker | 139.00% | ~823 |
-| Greeno-B-Gone | 127.00% | ~752 |
+| Greeno-B-Gone | 128.00% | ~758 |
 | The Little Wood that Could | 120.00% | ~710 |
 | Your Especially Earned Trajectory | 106.00% | ~628 |
 | On that Grindset | 90.00% | ~533 |
@@ -22,7 +22,7 @@ Number of Ratings: 892  (23.09.2022)
 | Officially Official | 78.00% | ~462 |
 | Can We Keep It? | 75.00% | ~444 |
 | First Love | 73.00% | ~432 |
-| Better Late than Never | 71.00% | ~420 |
+| Better Late than Never | 72.00% | ~426 |
 | Unboxing | 71.00% | ~420 |
 | Financially Secure | 69.00% | ~408 |
 | Elementary, My Dear | 69.00% | ~408 |
@@ -39,8 +39,8 @@ Number of Ratings: 892  (23.09.2022)
 | Commissions, commissions...! | 61.00% | ~361 |
 | Martle's Dream | 61.00% | ~361 |
 | Happier-est Place on Earth | 61.00% | ~361 |
+| You Don't Win Friends With Salad | 61.00% | ~361 |
 | What Plants Crave | 60.00% | ~355 |
-| You Don't Win Friends With Salad | 60.00% | ~355 |
 | Bridging the Gap | 57.00% | ~337 |
 | Finishing Touches | 56.00% | ~332 |
 | Call Me Fishmael | 55.00% | ~326 |
@@ -122,7 +122,7 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-19 | 593 | 0 |
 ## Awards
 Max (Character Customization): 608  (Ranked 198)  
-Sum: 1,439 (Ranked 240)  
+Sum: 1,441 (Ranked 240)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
@@ -133,10 +133,10 @@ Diff (max vs sum): -42
 | This game has Quickly Understood Controls | 86 |
 | This game has Diverse Characters | 85 |
 | This game is Relaxing | 79 |
-| This game has Amazing Characters | 75 |
+| This game has Amazing Characters | 76 |
 | This game has Amazing Storytelling | 75 |
 | This game has Easy Combat | 71 |
-| This game has a Creative Community | 60 |
+| This game has a Creative Community | 61 |
 | This game has a Kind Community | 46 |
 | This game has Obsessive Gameplay | 40 |
 ## Ratings History
@@ -335,3 +335,4 @@ Diff (max vs sum): -42
 | 2023-12-16 | 4.68 | - | 608 | 1,437 |
 | 2023-12-17 | 4.68 | - | 608 | 1,438 |
 | 2023-12-18 | 4.68 | - | 608 | 1,439 |
+| 2023-12-19 | 4.68 | - | 608 | 1,441 |

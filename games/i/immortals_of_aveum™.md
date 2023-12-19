@@ -5,33 +5,33 @@ Rating: 4.23 (Ranked 910)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~1,061 |
-| Battlefields Have Memories | 79.00% | ~963 |
-| Enlisted | 72.00% | ~878 |
-| Maybe Engage a Little | 66.00% | ~805 |
-| No More Names | 47.00% | ~573 |
-| Initiate | 33.00% | ~402 |
-| Thrada-Kul | 29.00% | ~354 |
-| Socialite | 22.00% | ~268 |
-| Gravity-Challenged Rocks | 22.00% | ~268 |
-| Soldier | 18.00% | ~219 |
-| All the Major Food Groups | 17.00% | ~207 |
-| Beggars Would Ride | 15.00% | ~183 |
-| Control is an Illusion | 13.00% | ~158 |
-| The Means to Save It | 11.00% | ~134 |
+| Unforeseen | 87.00% | ~1,065 |
+| Battlefields Have Memories | 79.00% | ~967 |
+| Enlisted | 72.00% | ~881 |
+| Maybe Engage a Little | 66.00% | ~808 |
+| No More Names | 47.00% | ~575 |
+| Initiate | 33.00% | ~404 |
+| Thrada-Kul | 29.00% | ~355 |
+| Socialite | 22.00% | ~269 |
+| Gravity-Challenged Rocks | 22.00% | ~269 |
+| Soldier | 18.00% | ~220 |
+| All the Major Food Groups | 17.00% | ~208 |
+| Beggars Would Ride | 15.00% | ~184 |
+| Control is an Illusion | 13.00% | ~159 |
+| The Means to Save It | 11.00% | ~135 |
 | Resilience to Sin | 10.00% | ~122 |
-| A Familiar Nest | 10.00% | ~122 |
+| A Familiar Nest | 9.00% | ~110 |
 | Geas Aristeya | 9.00% | ~110 |
 | Periapt Alizarin | 9.00% | ~110 |
 | A Perfect Cycle | 8.00% | ~98 |
 | Recruit | 8.00% | ~98 |
-| Armsman | 7.00% | ~85 |
+| Armsman | 7.00% | ~86 |
 | Lights Army | 5.00% | ~61 |
 | Good Boy | 5.00% | ~61 |
+| Best Dressed | 4.00% | ~49 |
 | Periapt Cerulean | 4.00% | ~49 |
 | Periapt Viridian | 4.00% | ~49 |
 | Kitted Out | 3.00% | ~37 |
-| Best Dressed | 3.00% | ~37 |
 | Armaments Azure | 3.00% | ~37 |
 | Armaments Gules | 3.00% | ~37 |
 | Shroudfane Explorer | 3.00% | ~37 |
@@ -39,7 +39,7 @@ Rating: 4.23 (Ranked 910)
 | Armaments Vert | 2.00% | ~24 |
 | Veteran | 2.00% | ~24 |
 | Master of Carmine | 1.00% | ~12 |
-| Master of Ultramarine | 0.80% | ~10 |
+| Master of Ultramarine | 0.90% | ~11 |
 | Shroudfane Surveyor | 0.70% | ~9 |
 | Tip of the Spear | 0.70% | ~9 |
 | Master of Malachite | 0.60% | ~7 |
@@ -53,7 +53,7 @@ Rating: 4.23 (Ranked 910)
 | Out of Time | 0.20% | ~2 |
 | Fowl Play | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,219 (Ranked 264)  
+Progressed: 1,224 (Ranked 264)  
 Completed: 2 (0.16%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 2 (0.16%) (Ranked 279)
 | 2023-12-16 | 908 | 2 |
 | 2023-12-17 | 1,065 | 2 |
 | 2023-12-18 | 1,195 | 2 |
-| 2023-12-19 | 1,219 | 2 |
+| 2023-12-19 | 1,224 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

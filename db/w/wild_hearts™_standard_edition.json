@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 657,
+  "EOS_Progressed": 658,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 276,
+  "EOS_NewPlayers": 277,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.22,
   "EosHistory": [
@@ -2353,6 +2353,11 @@
       "Time": "2023-12-19T04:09:11.5455616+00:00",
       "NumProgressed": 657,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-19T05:09:32.1452329+00:00",
+      "NumProgressed": 658,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -2365,15 +2370,15 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "achievement_10",
       "SetID": "2cpn27e",
       "Name": "Karakuri Trail",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 158
     },
     {
       "ID": "achievement_11",
@@ -2381,7 +2386,7 @@
       "Name": "Karakuri Isle",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "achievement_12",
@@ -2405,7 +2410,7 @@
       "Name": "Fusion Conjuror",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "achievement_15",
@@ -2437,7 +2442,7 @@
       "Name": "Man-Machine Master",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "achievement_19",
@@ -2507,9 +2512,9 @@
       "ID": "achievement_26",
       "SetID": "2cpn27e",
       "Name": "Vanquisher of the Volatile",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 80,
-      "UsersEstimate": 53
+      "UsersEstimate": 59
     },
     {
       "ID": "achievement_27",
@@ -2525,7 +2530,7 @@
       "Name": "Flawless Crystal",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "achievement_29",
@@ -2533,7 +2538,7 @@
       "Name": "Fair Means or Foul",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "achievement_3",
@@ -2605,7 +2610,7 @@
       "Name": "Hidden History",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "achievement_38",
@@ -2637,7 +2642,7 @@
       "Name": "Jack of All Trades",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "achievement_41",
@@ -2677,7 +2682,7 @@
       "Name": "Helpful Heart",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "achievement_46",
@@ -2685,7 +2690,7 @@
       "Name": "Charmed by the Hunt",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "achievement_47",
@@ -2717,7 +2722,7 @@
       "Name": "Commencing of Quests",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "achievement_7",
@@ -2748,13 +2753,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 657,
+      "Progressed": 658,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-19T04:09:11.5455613+00:00",
+  "LastChanged_Achievements": "2023-12-19T05:09:32.1452325+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:11.6761115+00:00",
-  "LastUpdate_Ratings": "2023-12-19T04:00:55.279679+00:00",
-  "LastUpdate_Achievements": "2023-12-19T04:09:11.5456003+00:00"
+  "LastUpdate_Ratings": "2023-12-19T05:00:56.0657211+00:00",
+  "LastUpdate_Achievements": "2023-12-19T05:09:32.1452709+00:00"
 }

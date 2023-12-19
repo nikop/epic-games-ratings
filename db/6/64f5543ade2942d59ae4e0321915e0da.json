@@ -738,17 +738,17 @@
       "ID": "AC_BLACKJACK_GAMES_2",
       "SetID": "16i2akc",
       "Name": "Ludopath",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "AC_BOSS_00",
       "SetID": "16i2akc",
       "Name": "Hunger",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "AC_BOSS_01",
@@ -794,17 +794,17 @@
       "ID": "AC_COMBO_2",
       "SetID": "16i2akc",
       "Name": "Flock",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "AC_COMBO_3",
       "SetID": "16i2akc",
       "Name": "Herd",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "AC_CROSSBOW_MAX",
@@ -842,9 +842,9 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 85
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -874,9 +874,9 @@
       "ID": "AC_DISTANCE_2",
       "SetID": "16i2akc",
       "Name": "Journey",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -890,9 +890,9 @@
       "ID": "AC_FIRST_BLACKJACK",
       "SetID": "16i2akc",
       "Name": "Player",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 51
     },
     {
       "ID": "AC_FLASHBACK_01",
@@ -1017,8 +1017,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-19T04:07:37.1925761+00:00",
+  "LastChanged_Achievements": "2023-12-19T05:07:33.5569447+00:00",
   "LastUpdate_AppInfo": "2023-12-12T20:56:56.8907916+00:00",
-  "LastUpdate_Ratings": "2023-12-19T04:00:13.5970688+00:00",
-  "LastUpdate_Achievements": "2023-12-19T04:07:37.1926062+00:00"
+  "LastUpdate_Ratings": "2023-12-19T05:00:18.1619395+00:00",
+  "LastUpdate_Achievements": "2023-12-19T05:07:33.5569695+00:00"
 }

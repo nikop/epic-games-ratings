@@ -5,7 +5,7 @@
   "Ranking_Rating": 548,
   "Ranking_Popularity": 480,
   "Ranking_PopularitySum": 513,
-  "Ranking_EOS_Progress": 442,
+  "Ranking_EOS_Progress": 441,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 159,
@@ -276,9 +276,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 122,
+  "EOS_Progressed": 123,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -766,6 +766,11 @@
       "Time": "2023-12-19T03:08:52.7853836+00:00",
       "NumProgressed": 122,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T05:09:13.2216706+00:00",
+      "NumProgressed": 123,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -776,9 +781,9 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -808,7 +813,7 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "4n84pon",
       "Name": "Furon Fashion",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
       "UsersEstimate": 46
     },
@@ -848,9 +853,9 @@
       "ID": "ACH_COMPLETE_ARK01",
       "SetID": "4n84pon",
       "Name": "Cult Following",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -912,9 +917,9 @@
       "ID": "ACH_ENTER_BAYCITY",
       "SetID": "4n84pon",
       "Name": "Rock of the Bay",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 87
+      "UsersEstimate": 89
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -946,7 +951,7 @@
       "Name": "Bodied Sattva",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -1034,7 +1039,7 @@
       "Name": "Upgreatest",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -1129,7 +1134,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 122,
+      "Progressed": 123,
       "Completed": 0
     }
   ],
@@ -1137,8 +1142,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-19T04:08:51.3530331+00:00",
+  "LastChanged_Achievements": "2023-12-19T05:09:13.2216702+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:43.3974092+00:00",
-  "LastUpdate_Ratings": "2023-12-19T03:57:26.6224378+00:00",
-  "LastUpdate_Achievements": "2023-12-19T04:08:51.3530648+00:00"
+  "LastUpdate_Ratings": "2023-12-19T04:57:43.4438955+00:00",
+  "LastUpdate_Achievements": "2023-12-19T05:09:13.2217013+00:00"
 }

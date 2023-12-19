@@ -985,9 +985,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 7204,
+  "EOS_Progressed": 7206,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 434,
+  "EOS_NewPlayers": 436,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11565,6 +11565,11 @@
       "Time": "2023-12-19T03:06:57.1309649+00:00",
       "NumProgressed": 7204,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T05:06:54.7934569+00:00",
+      "NumProgressed": 7206,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -11576,7 +11581,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -11742,9 +11747,9 @@
       "ID": "ACHIEVEMENT_022",
       "SetID": "1a05lfd",
       "Name": "Diamond in the Rough",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 50
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_023",
@@ -11895,13 +11900,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7204,
+      "Progressed": 7206,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 6576,
+      "Progressed": 6578,
       "Completed": 113
     }
   ],
@@ -11909,8 +11914,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-18T19:59:10.2298636+00:00",
-  "LastChanged_Achievements": "2023-12-19T04:06:55.2224406+00:00",
+  "LastChanged_Achievements": "2023-12-19T05:06:54.7934565+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:41.8809727+00:00",
-  "LastUpdate_Ratings": "2023-12-19T04:00:33.627893+00:00",
-  "LastUpdate_Achievements": "2023-12-19T04:06:55.2225369+00:00"
+  "LastUpdate_Ratings": "2023-12-19T05:00:37.1945852+00:00",
+  "LastUpdate_Achievements": "2023-12-19T05:06:54.7935309+00:00"
 }

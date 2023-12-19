@@ -5,34 +5,34 @@ Rating: 4.86 (Ranked 35)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 46.00% | ~626 |
-| Welcome to the Tower | 42.00% | ~572 |
-| The great escape | 35.00% | ~476 |
-| The Preacher's fate | 34.00% | ~463 |
-| A new dawn | 28.00% | ~381 |
+| That's the spirit | 46.00% | ~627 |
+| Welcome to the Tower | 43.00% | ~587 |
+| The great escape | 35.00% | ~477 |
+| The Preacher's fate | 33.00% | ~450 |
+| A new dawn | 28.00% | ~382 |
 | Scholar | 24.00% | ~327 |
-| A good beginning | 23.00% | ~313 |
-| True G3M4R | 23.00% | ~313 |
-| The darkness | 23.00% | ~313 |
-| One last step | 20.00% | ~272 |
+| A good beginning | 23.00% | ~314 |
+| True G3M4R | 23.00% | ~314 |
+| The darkness | 23.00% | ~314 |
+| One last step | 20.00% | ~273 |
 | I did it | 19.00% | ~259 |
 | Peace walker | 19.00% | ~259 |
 | Cable guy | 19.00% | ~259 |
 | Half the way | 19.00% | ~259 |
-| In this together | 18.00% | ~245 |
-| Rascal | 18.00% | ~245 |
-| Champollion | 18.00% | ~245 |
+| In this together | 18.00% | ~246 |
+| Rascal | 18.00% | ~246 |
+| Champollion | 18.00% | ~246 |
 | Open door | 16.00% | ~218 |
 | Feels like springtime | 16.00% | ~218 |
-| Alchemists Express | 15.00% | ~204 |
+| Alchemists Express | 15.00% | ~205 |
 | Free at last | 14.00% | ~191 |
-| A Link to the Past | 12.00% | ~163 |
+| A Link to the Past | 12.00% | ~164 |
 | A great audience | 10.00% | ~136 |
 | For its own good | 10.00% | ~136 |
 | Fashion victim | 5.00% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,361 (Ranked 252)  
-Completed: 72 (5.29%) (Ranked 75)  
+Progressed: 1,364 (Ranked 252)  
+Completed: 72 (5.28%) (Ranked 75)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -181,7 +181,7 @@ Completed: 72 (5.29%) (Ranked 75)
 | 2023-12-16 | 1,201 | 66 |
 | 2023-12-17 | 1,295 | 69 |
 | 2023-12-18 | 1,357 | 72 |
-| 2023-12-19 | 1,361 | 72 |
+| 2023-12-19 | 1,364 | 72 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

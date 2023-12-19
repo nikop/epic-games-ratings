@@ -25,11 +25,11 @@
 | Teacups for Toppy | 41.00% | ~472 |
 | Nightmare Fuel | 40.00% | ~460 |
 | Take Heart | 40.00% | ~460 |
+| Stronger! | 40.00% | ~460 |
 | Well Rested | 40.00% | ~460 |
 | Ancient Wisdom | 39.00% | ~448 |
 | Frog Facts! | 39.00% | ~448 |
 | All That Glistens | 39.00% | ~448 |
-| Stronger! | 39.00% | ~448 |
 | Spellbound | 37.00% | ~426 |
 | Extinct Again! | 37.00% | ~426 |
 | All Skilled Up! | 37.00% | ~426 |

@@ -4,7 +4,7 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -1677,9 +1677,9 @@
       "ID": "ach_main01begin_die",
       "SetID": "4hg22ll",
       "Name": "Thalya\u00A0\u2013 Simply Immortal",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 519
+      "UsersEstimate": 525
     },
     {
       "ID": "ach_main01begin_storm",
@@ -2164,8 +2164,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-19T04:08:21.4735739+00:00",
+  "LastChanged_Achievements": "2023-12-19T05:08:45.1010083+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:09.5802782+00:00",
-  "LastUpdate_Ratings": "2023-12-19T04:00:07.0496209+00:00",
-  "LastUpdate_Achievements": "2023-12-19T04:08:21.4736184+00:00"
+  "LastUpdate_Ratings": "2023-12-19T05:00:12.1812593+00:00",
+  "LastUpdate_Achievements": "2023-12-19T05:08:45.1010606+00:00"
 }

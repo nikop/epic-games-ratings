@@ -270,9 +270,9 @@
       "ID": "achievement_berserk",
       "SetID": "bngbnfb",
       "Name": "Berserker",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achievement_blance_is_my_choise",
@@ -478,17 +478,17 @@
       "ID": "achievement_not_energetic",
       "SetID": "bngbnfb",
       "Name": "Not energetic",
-      "Percentage": 45,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_not_risky",
       "SetID": "bngbnfb",
       "Name": "Not a daredevil",
-      "Percentage": 45,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_rush",
@@ -621,8 +621,8 @@
   ],
   "FirstSeen": "2023-10-20T21:02:41.8286211+00:00",
   "FirstSeenAchievements": "2023-10-11T10:03:42.0552864+00:00",
-  "LastChanged_Achievements": "2023-12-19T04:09:06.927697+00:00",
+  "LastChanged_Achievements": "2023-12-19T05:09:27.7491443+00:00",
   "LastUpdate_AppInfo": "2023-12-13T14:57:06.6138532+00:00",
-  "LastUpdate_Ratings": "2023-12-19T03:57:18.4007905+00:00",
-  "LastUpdate_Achievements": "2023-12-19T04:09:06.927727+00:00"
+  "LastUpdate_Ratings": "2023-12-19T04:57:36.179894+00:00",
+  "LastUpdate_Achievements": "2023-12-19T05:09:27.7491723+00:00"
 }

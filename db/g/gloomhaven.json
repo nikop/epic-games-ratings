@@ -3,7 +3,7 @@
   "Name": "Gloomhaven",
   "ProductSlug": "gloomhaven-92f741",
   "Ranking_Rating": 645,
-  "Ranking_Popularity": 90,
+  "Ranking_Popularity": 91,
   "Ranking_PopularitySum": 103,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 383,
@@ -2687,9 +2687,9 @@
       "Count": 218
     }
   ],
-  "EOS_Progressed": 27316,
+  "EOS_Progressed": 27318,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1407,
+  "EOS_NewPlayers": 1408,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13557,6 +13557,11 @@
       "Time": "2023-12-19T04:09:25.413671+00:00",
       "NumProgressed": 27316,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T05:09:44.8756232+00:00",
+      "NumProgressed": 27318,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -13577,7 +13582,7 @@
       "Name": "Dungeon Veteran",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2458
+      "UsersEstimate": 2459
     },
     {
       "ID": "Achievement_Trophy03",
@@ -13585,7 +13590,7 @@
       "Name": "I hate portals",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "Achievement_Trophy04",
@@ -13665,7 +13670,7 @@
       "Name": "Down the hatch",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "Achievement_Trophy14",
@@ -13673,7 +13678,7 @@
       "Name": "An eye for an eye",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "Achievement_Trophy15",
@@ -13681,7 +13686,7 @@
       "Name": "The Cephalophore",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "Achievement_Trophy16",
@@ -13745,7 +13750,7 @@
       "Name": "Grizzled veteran",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 4097
+      "UsersEstimate": 4098
     },
     {
       "ID": "Achievement_Trophy24",
@@ -13753,7 +13758,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 10926
+      "UsersEstimate": 10927
     },
     {
       "ID": "Achievement_Trophy25",
@@ -13769,7 +13774,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 9287
+      "UsersEstimate": 9288
     },
     {
       "ID": "Achievement_Trophy27",
@@ -13785,7 +13790,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 8741
+      "UsersEstimate": 8742
     },
     {
       "ID": "Achievement_Trophy29",
@@ -13801,7 +13806,7 @@
       "Name": "Spread the plague",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 7648
+      "UsersEstimate": 7649
     },
     {
       "ID": "Achievement_Trophy31",
@@ -13953,7 +13958,7 @@
       "Name": "Anatomy Lesson",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3824
+      "UsersEstimate": 3825
     },
     {
       "ID": "Achievement_Trophy50",
@@ -14056,7 +14061,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 27316,
+      "Progressed": 27318,
       "Completed": 1
     }
   ],
@@ -14064,8 +14069,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-12-18T17:59:50.0952949+00:00",
-  "LastChanged_Achievements": "2023-12-19T04:09:25.4136706+00:00",
+  "LastChanged_Achievements": "2023-12-19T05:09:44.8756229+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:35.1754464+00:00",
-  "LastUpdate_Ratings": "2023-12-19T04:00:12.1440473+00:00",
-  "LastUpdate_Achievements": "2023-12-19T04:09:25.4137504+00:00"
+  "LastUpdate_Ratings": "2023-12-19T05:00:16.879677+00:00",
+  "LastUpdate_Achievements": "2023-12-19T05:09:44.8757025+00:00"
 }

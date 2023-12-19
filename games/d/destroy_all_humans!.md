@@ -6,30 +6,30 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kaijuiced | 68.00% | ~23 |
-| Lie Back and Think of Albion | 62.00% | ~21 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 53.00% | ~18 |
-| Yettisoned | 47.00% | ~16 |
-| Lobster Blisque | 44.00% | ~15 |
-| I Look Up As I Walk to Takoshima | 41.00% | ~14 |
-| Shop Til They Drop | 38.00% | ~13 |
-| Perfect Probulator | 35.00% | ~12 |
-| Freshly Squeezed | 29.00% | ~10 |
-| Forbidden Donut | 26.00% | ~9 |
-| Ducks in a Row, Fish in a Barrel | 26.00% | ~9 |
-| Fly Me to the Moon Base | 24.00% | ~8 |
-| Earthly Pleasures | 24.00% | ~8 |
-| Trans-Siberian Express | 24.00% | ~8 |
-| Pimp My Raid | 21.00% | ~7 |
-| Rock of the Bay | 18.00% | ~6 |
-| Upgreatest | 18.00% | ~6 |
-| Bodied Sattva | 18.00% | ~6 |
-| Re-Return of the Clone of the Invasion II-2 | 15.00% | ~5 |
-| Arkvoodle Doodle | 12.00% | ~4 |
-| Deincarnated | 9.00% | ~3 |
-| Furon Fashion | 9.00% | ~3 |
-| Hidden Human Hive Harvest | 9.00% | ~3 |
-| Mash Machine | 9.00% | ~3 |
+| Kaijuiced | 67.00% | ~24 |
+| Lie Back and Think of Albion | 61.00% | ~22 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 53.00% | ~19 |
+| Yettisoned | 47.00% | ~17 |
+| I Look Up As I Walk to Takoshima | 42.00% | ~15 |
+| Lobster Blisque | 42.00% | ~15 |
+| Shop Til They Drop | 39.00% | ~14 |
+| Perfect Probulator | 39.00% | ~14 |
+| Freshly Squeezed | 33.00% | ~12 |
+| Forbidden Donut | 28.00% | ~10 |
+| Fly Me to the Moon Base | 25.00% | ~9 |
+| Earthly Pleasures | 25.00% | ~9 |
+| Ducks in a Row, Fish in a Barrel | 25.00% | ~9 |
+| Bodied Sattva | 22.00% | ~8 |
+| Trans-Siberian Express | 22.00% | ~8 |
+| Rock of the Bay | 19.00% | ~7 |
+| Pimp My Raid | 19.00% | ~7 |
+| Upgreatest | 19.00% | ~7 |
+| Deincarnated | 14.00% | ~5 |
+| Re-Return of the Clone of the Invasion II-2 | 14.00% | ~5 |
+| Arkvoodle Doodle | 11.00% | ~4 |
+| Furon Fashion | 8.00% | ~3 |
+| Hidden Human Hive Harvest | 8.00% | ~3 |
+| Mash Machine | 8.00% | ~3 |
 | Ouch of Body Experience | 6.00% | ~2 |
 | If You Know What I Mean | 6.00% | ~2 |
 | Die Nasty | 6.00% | ~2 |
@@ -47,13 +47,13 @@ Number of Ratings: 85  (23.09.2022)
 | Toilet Break | 0.00% | ~0 |
 | Against All Odds | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34 (Ranked 554)  
+Progressed: 36 (Ranked 553)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-12-18 | 23 | 0 |
-| 2023-12-19 | 34 | 0 |
+| 2023-12-19 | 36 | 0 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 490)  
 Sum: 34 (Ranked 515)  
