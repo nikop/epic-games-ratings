@@ -21,7 +21,7 @@
 | 19 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.86% |
 | 20 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 21 | [Doodle Devil](games/d/doodle_devil.md) | 20.69% |
-| 22 | [The Riflemen](games/t/the_riflemen.md) | 20.36% |
+| 22 | [The Riflemen](games/t/the_riflemen.md) | 20.35% |
 | 23 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 23 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.00% |
 | 25 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.16% |
@@ -91,7 +91,7 @@
 | 89 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.23% |
 | 90 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.20% |
 | 91 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 4.17% |
-| 92 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.12% |
+| 92 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.11% |
 | 93 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.02% |
 | 94 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | 4.00% |
 | 95 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.90% |
@@ -115,12 +115,12 @@
 | 113 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 114 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.86% |
 | 114 | [Without Escape](games/w/without_escape.md) | 2.86% |
-| 116 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.83% |
+| 116 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.82% |
 | 117 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2.74% |
 | 118 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 119 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.71% |
 | 120 | [Mega City Force](games/m/mega_city_police.md) | 2.70% |
-| 121 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.65% |
+| 121 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.64% |
 | 122 | [FORECLOSED](games/f/foreclosed.md) | 2.56% |
 | 122 | [Night Book](games/n/night_book.md) | 2.56% |
 | 124 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 2.50% |
@@ -170,7 +170,7 @@
 | 168 | [Ten Dates](games/t/ten_dates.md) | 1.10% |
 | 169 | [Adios](games/a/adios.md) | 1.09% |
 | 170 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.05% |
-| 171 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.03% |
+| 171 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.04% |
 | 172 | [Sable](games/s/sable.md) | 1.02% |
 | 172 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.02% |
 | 172 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.02% |
