@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1500,9 +1500,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 25571,
+  "EOS_Progressed": 25584,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 1871,
+  "EOS_NewPlayers": 1884,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -11060,6 +11060,11 @@
       "Time": "2023-12-19T08:09:00.2086015+00:00",
       "NumProgressed": 25571,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-19T09:09:57.4979362+00:00",
+      "NumProgressed": 25584,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -11079,7 +11084,7 @@
       "Name": "Truly Blessed",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "AllEquipment",
@@ -11119,7 +11124,7 @@
       "Name": "Looks Familiar",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "BossBridgeAdvancedDefeated",
@@ -11135,7 +11140,7 @@
       "Name": "Captain and Crew",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -11199,7 +11204,7 @@
       "Name": "Harvest and Home",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -11231,7 +11236,7 @@
       "Name": "Poise and Poisons",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -11247,7 +11252,7 @@
       "Name": "Suns and Soldiers",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "BoxerBoss",
@@ -11263,7 +11268,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     },
     {
       "ID": "EndTimerFail",
@@ -11319,7 +11324,7 @@
       "Name": "Good Boy!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "PrequelReveal",
@@ -11382,21 +11387,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 25571,
+      "Progressed": 25584,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 4501,
+      "Progressed": 4514,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-07T09:58:25.2813813+00:00",
-  "LastChanged_Achievements": "2023-12-19T08:09:00.2086009+00:00",
+  "LastChanged_Achievements": "2023-12-19T09:09:57.4979356+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:44.2937948+00:00",
-  "LastUpdate_Ratings": "2023-12-19T07:57:24.3804652+00:00",
-  "LastUpdate_Achievements": "2023-12-19T08:09:00.2086641+00:00"
+  "LastUpdate_Ratings": "2023-12-19T08:57:35.3311111+00:00",
+  "LastUpdate_Achievements": "2023-12-19T09:09:57.4980042+00:00"
 }

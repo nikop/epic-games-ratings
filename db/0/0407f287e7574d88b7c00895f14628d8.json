@@ -4,8 +4,8 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 471,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
     "PcReleaseDate": "2022-10-24T16:00:00+00:00",
@@ -602,9 +602,9 @@
       "ID": "m1",
       "SetID": "b1ggf28",
       "Name": "Animal Imports",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "m2",
@@ -769,8 +769,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-19T08:05:09.8455253+00:00",
+  "LastChanged_Achievements": "2023-12-19T09:05:53.3477371+00:00",
   "LastUpdate_AppInfo": "2023-12-13T03:56:57.6568972+00:00",
-  "LastUpdate_Ratings": "2023-12-19T08:02:34.0597446+00:00",
-  "LastUpdate_Achievements": "2023-12-19T08:05:09.8455646+00:00"
+  "LastUpdate_Ratings": "2023-12-19T09:02:56.8334218+00:00",
+  "LastUpdate_Achievements": "2023-12-19T09:05:53.347766+00:00"
 }

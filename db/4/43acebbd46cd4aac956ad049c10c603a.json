@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 300,
   "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -3132,9 +3132,9 @@
       "ID": "TheThiefOfFire",
       "SetID": "1n308hc",
       "Name": "The Thief of Fire",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 179
+      "UsersEstimate": 189
     },
     {
       "ID": "TheWordEndures",
@@ -3213,8 +3213,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-19T08:03:58.9649686+00:00",
+  "LastChanged_Achievements": "2023-12-19T09:04:33.4409988+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-19T07:58:45.7298412+00:00",
-  "LastUpdate_Achievements": "2023-12-19T08:03:58.9650122+00:00"
+  "LastUpdate_Ratings": "2023-12-19T08:59:07.4010585+00:00",
+  "LastUpdate_Achievements": "2023-12-19T09:04:33.4410431+00:00"
 }

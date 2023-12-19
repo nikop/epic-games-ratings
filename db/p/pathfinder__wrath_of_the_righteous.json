@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4631,9 +4631,9 @@
       "Count": 403
     }
   ],
-  "EOS_Progressed": 12500,
+  "EOS_Progressed": 12501,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17336,6 +17336,11 @@
       "Time": "2023-12-19T07:09:46.6275158+00:00",
       "NumProgressed": 12500,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T09:10:16.9021408+00:00",
+      "NumProgressed": 12501,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -17491,7 +17496,7 @@
       "Name": "Equal to Aroden",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "20_SpiritOfAdventures",
@@ -17507,7 +17512,7 @@
       "Name": "Test of the Starstone",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "22_MasterfulCraftsmanship",
@@ -17515,7 +17520,7 @@
       "Name": "Masterful Craftsmanship",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "23_MasterfulCharge",
@@ -17523,7 +17528,7 @@
       "Name": "Masterful Charge",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "24_Legacy",
@@ -17635,7 +17640,7 @@
       "Name": "Prelate\u0027s Nemesis",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "39_Blight of Drezen",
@@ -17659,7 +17664,7 @@
       "Name": "Playful Mood",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "42_JustPathetic",
@@ -17675,7 +17680,7 @@
       "Name": "Dreadful Dragon",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "44_AshesToAshes",
@@ -18274,21 +18279,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11282,
+      "Progressed": 11283,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12500,
+      "Progressed": 12501,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-18T18:01:21.2392845+00:00",
-  "LastChanged_Achievements": "2023-12-19T08:09:17.5770269+00:00",
+  "LastChanged_Achievements": "2023-12-19T09:10:16.9021401+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.7532096+00:00",
-  "LastUpdate_Ratings": "2023-12-19T08:00:15.71638+00:00",
-  "LastUpdate_Achievements": "2023-12-19T08:09:17.5771804+00:00"
+  "LastUpdate_Ratings": "2023-12-19T09:02:37.6483337+00:00",
+  "LastUpdate_Achievements": "2023-12-19T09:10:16.9022927+00:00"
 }

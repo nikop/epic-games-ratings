@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -2408,9 +2408,9 @@
       "ID": "AmanitaRun",
       "SetID": "db30heh",
       "Name": "Wild Run",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 270
+      "UsersEstimate": 276
     },
     {
       "ID": "BasiliskBroom",
@@ -2456,9 +2456,9 @@
       "ID": "BearRum",
       "SetID": "db30heh",
       "Name": "Ready for Bed",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 114
+      "UsersEstimate": 120
     },
     {
       "ID": "BearSword",
@@ -2504,9 +2504,9 @@
       "ID": "BroomPistol",
       "SetID": "db30heh",
       "Name": "Target Hit",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 156
+      "UsersEstimate": 162
     },
     {
       "ID": "DevilPriest",
@@ -2775,8 +2775,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-12-19T08:03:01.5087313+00:00",
+  "LastChanged_Achievements": "2023-12-19T09:03:29.8098006+00:00",
   "LastUpdate_AppInfo": "2023-12-13T02:20:40.9635354+00:00",
-  "LastUpdate_Ratings": "2023-12-19T07:57:29.2314665+00:00",
-  "LastUpdate_Achievements": "2023-12-19T08:03:01.5087838+00:00"
+  "LastUpdate_Ratings": "2023-12-19T08:57:40.389424+00:00",
+  "LastUpdate_Achievements": "2023-12-19T09:03:29.8098473+00:00"
 }

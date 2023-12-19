@@ -419,9 +419,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 26558,
+  "EOS_Progressed": 26560,
   "EOS_Completed": 495,
-  "EOS_NewPlayers": 502,
+  "EOS_NewPlayers": 504,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.86,
   "EosHistory": [
@@ -26524,6 +26524,11 @@
       "Time": "2023-12-19T08:05:53.8757684+00:00",
       "NumProgressed": 26558,
       "NumCompleted": 495
+    },
+    {
+      "Time": "2023-12-19T09:06:41.2213149+00:00",
+      "NumProgressed": 26560,
+      "NumCompleted": 495
     }
   ],
   "TotalAchievements": 20,
@@ -26567,7 +26572,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2921
+      "UsersEstimate": 2922
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -26615,7 +26620,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1593
+      "UsersEstimate": 1594
     },
     {
       "ID": "FOUND_MAMBA",
@@ -26623,7 +26628,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1593
+      "UsersEstimate": 1594
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -26639,7 +26644,7 @@
       "Name": "Written in stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1593
+      "UsersEstimate": 1594
     },
     {
       "ID": "GAME_FINISHED",
@@ -26655,7 +26660,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 20184
+      "UsersEstimate": 20186
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -26679,7 +26684,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1593
+      "UsersEstimate": 1594
     },
     {
       "ID": "WEST_FINISHED",
@@ -26687,22 +26692,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4780
+      "UsersEstimate": 4781
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 26558,
+      "Progressed": 26560,
       "Completed": 495
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-12-19T08:05:53.875768+00:00",
+  "LastChanged_Achievements": "2023-12-19T09:06:41.2213143+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:01.7195881+00:00",
-  "LastUpdate_Ratings": "2023-12-19T08:00:03.7108034+00:00",
-  "LastUpdate_Achievements": "2023-12-19T08:05:53.8759016+00:00"
+  "LastUpdate_Ratings": "2023-12-19T09:00:35.1388715+00:00",
+  "LastUpdate_Achievements": "2023-12-19T09:06:41.2214573+00:00"
 }

@@ -18,7 +18,7 @@ Rating: 4.48 (Ranked 638)
 | Iceborn | 55.00% | ~678 |
 | No Bites | 54.00% | ~665 |
 | Boom Things | 53.00% | ~653 |
-| Tear of Freedom | 51.00% | ~628 |
+| Tear of Freedom | 52.00% | ~641 |
 | My Darkest Day | 48.00% | ~591 |
 | Rhythm Of Willump | 46.00% | ~567 |
 | The Relentless Storm | 46.00% | ~567 |
@@ -50,7 +50,7 @@ Rating: 4.48 (Ranked 638)
 | We Are Speed | 2.00% | ~25 |
 | Sneaky Notai | 1.00% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,232 (Ranked 260)  
+Progressed: 1,232 (Ranked 261)  
 Completed: 9 (0.73%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |

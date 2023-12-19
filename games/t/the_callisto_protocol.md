@@ -5,9 +5,9 @@ Rating: 4.19 (Ranked 938)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 13.00% | ~2,340 |
-| Get a Grip | 13.00% | ~2,340 |
-| The Outer Way | 13.00% | ~2,340 |
+| Flesh Wound | 13.00% | ~2,341 |
+| Get a Grip | 13.00% | ~2,341 |
+| The Outer Way | 13.00% | ~2,341 |
 | Paper Jams | 12.00% | ~2,160 |
 | Desperate Times | 12.00% | ~2,160 |
 | Chew 'Em Up | 10.00% | ~1,800 |
@@ -34,11 +34,11 @@ Rating: 4.19 (Ranked 938)
 | Big Spender | 1.00% | ~59 |
 | This Isn't About Escape | 1.00% | ~59 |
 | Armed to the Teeth | 0.90% | ~53 |
-| Grim Reaper | 0.80% | ~144 |
-| Parole Denied | 0.80% | ~47 |
 | Mugshot | 0.80% | ~144 |
 | Information Overload | 0.80% | ~47 |
-| Instigator | 0.70% | ~41 |
+| Grim Reaper | 0.70% | ~126 |
+| Parole Denied | 0.70% | ~42 |
+| Instigator | 0.70% | ~42 |
 | Quick Pick | 0.60% | ~36 |
 | Subject Alpha | 0.40% | ~24 |
 | Don't Let It Mellow | 0.30% | ~18 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 938)
 | Bear Trap | 0.10% | ~6 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,000 (Ranked 149)  
+Progressed: 18,004 (Ranked 149)  
 Completed: 82 (0.46%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 82 (0.46%) (Ranked 219)
 | 2023-12-16 | 17,442 | 82 |
 | 2023-12-17 | 17,760 | 82 |
 | 2023-12-18 | 17,946 | 82 |
-| 2023-12-19 | 18,000 | 82 |
+| 2023-12-19 | 18,004 | 82 |
 ## Awards
 Max (Quickly Understood Controls): 88  (Ranked 388)  
 Sum: 523 (Ranked 327)  

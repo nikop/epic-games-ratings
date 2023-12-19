@@ -10,7 +10,7 @@
 | Hammer Time, Round Two | 81.00% | ~478 |
 | The Hellwoods | 77.00% | ~454 |
 | The Plains of Strothalm | 72.00% | ~425 |
-| Experienced Thalya | 71.00% | ~419 |
+| Experienced Thalya | 72.00% | ~425 |
 | Thalya's Concentrated Fury | 69.00% | ~407 |
 | Bad Elves Go Everywhere | 69.00% | ~407 |
 | Heroes’ Gorge | 64.00% | ~378 |
@@ -29,11 +29,11 @@
 | Shame! Shame! Shame! | 47.00% | ~277 |
 | Pure Dynamite! | 45.00% | ~266 |
 | Dungeonlord Gorgu | 45.00% | ~266 |
-| Tanos' Crusade Against Thalya | 44.00% | ~260 |
+| Tanos' Crusade Against Thalya | 45.00% | ~266 |
 | Mana Cannon | 41.00% | ~242 |
 | All’s Well That Ends Evil | 40.00% | ~236 |
+| The Duel | 36.00% | ~212 |
 | Unstoppable Horde | 35.00% | ~206 |
-| The Duel | 35.00% | ~206 |
 | Master of the Undead | 34.00% | ~201 |
 | If Looks Could Kill | 33.00% | ~195 |
 | The Finitude Drill | 30.00% | ~177 |

@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5673,
+  "EOS_Progressed": 5674,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 427,
+  "EOS_NewPlayers": 428,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.92,
   "EosHistory": [
@@ -5444,6 +5444,11 @@
       "Time": "2023-12-19T08:08:08.3118676+00:00",
       "NumProgressed": 5673,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-19T09:08:59.3912561+00:00",
+      "NumProgressed": 5674,
+      "NumCompleted": 52
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -5472,7 +5477,7 @@
       "Name": "Collect the mask",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 1815
+      "UsersEstimate": 1816
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_OPENGATE",
@@ -5480,7 +5485,7 @@
       "Name": "Unlock the gate",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 1815
+      "UsersEstimate": 1816
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_PC",
@@ -5512,7 +5517,7 @@
       "Name": "Wrong passcode",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 4538
+      "UsersEstimate": 4539
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -5583,14 +5588,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 5673,
+      "Progressed": 5674,
       "Completed": 52
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-12-19T08:08:08.3118672+00:00",
+  "LastChanged_Achievements": "2023-12-19T09:08:59.3912555+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:07.8033204+00:00",
-  "LastUpdate_Ratings": "2023-12-19T07:58:32.9545988+00:00",
-  "LastUpdate_Achievements": "2023-12-19T08:08:08.3119039+00:00"
+  "LastUpdate_Ratings": "2023-12-19T08:58:52.6174206+00:00",
+  "LastUpdate_Achievements": "2023-12-19T09:08:59.3912903+00:00"
 }

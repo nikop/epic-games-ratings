@@ -4,8 +4,8 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 306,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1274,
+  "EOS_Progressed": 1275,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4519,6 +4519,11 @@
       "Time": "2023-12-18T18:10:41.1758804+00:00",
       "NumProgressed": 1274,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T09:10:19.6292276+00:00",
+      "NumProgressed": 1275,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4530,7 +4535,7 @@
       "Name": "Adventurous 1",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "adventurous_2",
@@ -4698,7 +4703,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "elemental_stones_2",
@@ -4794,7 +4799,7 @@
       "Name": "Good Host 1",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "good_host_2",
@@ -4938,7 +4943,7 @@
       "Name": "Sophisticated Alchemist 1",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "sophisticated_alchemist_2",
@@ -4946,7 +4951,7 @@
       "Name": "Sophisticated Alchemist 2",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "sophisticated_alchemist_3",
@@ -5010,7 +5015,7 @@
       "Name": "Taste of Victory 1",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "taste_of_victory_2",
@@ -5042,7 +5047,7 @@
       "Name": "Tomb Raider 2",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "tomb_raider_3",
@@ -5057,14 +5062,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1274,
+      "Progressed": 1275,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-12-19T08:09:20.1508028+00:00",
+  "LastChanged_Achievements": "2023-12-19T09:10:19.6292271+00:00",
   "LastUpdate_AppInfo": "2023-12-12T16:57:27.95796+00:00",
-  "LastUpdate_Ratings": "2023-12-19T07:00:53.0248095+00:00",
-  "LastUpdate_Achievements": "2023-12-19T08:09:20.1508758+00:00"
+  "LastUpdate_Ratings": "2023-12-19T08:57:02.7227851+00:00",
+  "LastUpdate_Achievements": "2023-12-19T09:10:19.6292868+00:00"
 }

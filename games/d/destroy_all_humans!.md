@@ -8,13 +8,13 @@ Number of Ratings: 85  (23.09.2022)
 | ---- | ---------- | ----- |
 | Kaijuiced | 68.00% | ~27 |
 | Lie Back and Think of Albion | 63.00% | ~25 |
+| Yettisoned | 53.00% | ~21 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 53.00% | ~21 |
-| Yettisoned | 50.00% | ~20 |
 | I Look Up As I Walk to Takoshima | 48.00% | ~19 |
 | Lobster Blisque | 45.00% | ~18 |
 | Perfect Probulator | 43.00% | ~17 |
 | Shop Til They Drop | 40.00% | ~16 |
-| Freshly Squeezed | 33.00% | ~13 |
+| Freshly Squeezed | 35.00% | ~14 |
 | Ducks in a Row, Fish in a Barrel | 30.00% | ~12 |
 | Fly Me to the Moon Base | 28.00% | ~11 |
 | Forbidden Donut | 28.00% | ~11 |

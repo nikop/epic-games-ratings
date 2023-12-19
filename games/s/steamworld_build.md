@@ -10,7 +10,7 @@
 | Conducted Trade | 66.00% | ~88 |
 | Going Places | 66.00% | ~88 |
 | Aristocratic | 62.00% | ~83 |
-| Tutti Frutti | 54.00% | ~72 |
+| Tutti Frutti | 55.00% | ~74 |
 | Gotta Go Fast | 45.00% | ~60 |
 | Slotting Machine | 38.00% | ~51 |
 | Systematic | 37.00% | ~50 |
@@ -33,7 +33,7 @@
 | Yup. | 0.70% | ~1 |
 | Nothing But Road | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134 (Ranked 427)  
+Progressed: 134 (Ranked 428)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |

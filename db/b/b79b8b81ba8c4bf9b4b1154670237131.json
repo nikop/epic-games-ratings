@@ -143,9 +143,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15449,
+  "EOS_Progressed": 15450,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 482,
+  "EOS_NewPlayers": 481,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4098,6 +4098,11 @@
       "Time": "2023-12-19T08:08:37.2118771+00:00",
       "NumProgressed": 15449,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-19T09:09:31.4698771+00:00",
+      "NumProgressed": 15450,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -4142,7 +4147,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 11587
+      "UsersEstimate": 11588
     },
     {
       "ID": "ACH_AE_14",
@@ -4150,7 +4155,7 @@
       "Name": "Sticky Situation",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 2935
+      "UsersEstimate": 2936
     },
     {
       "ID": "ACH_AE_15",
@@ -4190,7 +4195,7 @@
       "Name": "Signature Style",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2317
+      "UsersEstimate": 2318
     },
     {
       "ID": "ACH_AE_2",
@@ -4198,7 +4203,7 @@
       "Name": "Back to School",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3553
+      "UsersEstimate": 3554
     },
     {
       "ID": "ACH_AE_20",
@@ -4222,7 +4227,7 @@
       "Name": "The High Road",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 3553
+      "UsersEstimate": 3554
     },
     {
       "ID": "ACH_AE_23",
@@ -4230,7 +4235,7 @@
       "Name": "Emergency Services",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1699
+      "UsersEstimate": 1700
     },
     {
       "ID": "ACH_AE_24",
@@ -4238,7 +4243,7 @@
       "Name": "Think Fast",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1699
+      "UsersEstimate": 1700
     },
     {
       "ID": "ACH_AE_25",
@@ -4246,7 +4251,7 @@
       "Name": "Family History",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1699
+      "UsersEstimate": 1700
     },
     {
       "ID": "ACH_AE_26",
@@ -4254,7 +4259,7 @@
       "Name": "Live With It",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1699
+      "UsersEstimate": 1700
     },
     {
       "ID": "ACH_AE_27",
@@ -4278,7 +4283,7 @@
       "Name": "Swiped Right",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "ACH_AE_3",
@@ -4310,7 +4315,7 @@
       "Name": "Diplomat",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "ACH_AE_33",
@@ -4366,7 +4371,7 @@
       "Name": "Renewal",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 1699
+      "UsersEstimate": 1700
     },
     {
       "ID": "ACH_AE_8",
@@ -4389,7 +4394,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 15449,
+      "Progressed": 15450,
       "Completed": 14
     }
   ],
@@ -4397,8 +4402,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-13T16:00:23.030195+00:00",
-  "LastChanged_Achievements": "2023-12-19T08:08:37.2118764+00:00",
+  "LastChanged_Achievements": "2023-12-19T09:09:31.4698767+00:00",
   "LastUpdate_AppInfo": "2023-12-12T16:57:28.350985+00:00",
-  "LastUpdate_Ratings": "2023-12-19T07:58:29.5414421+00:00",
-  "LastUpdate_Achievements": "2023-12-19T08:08:37.2119131+00:00"
+  "LastUpdate_Ratings": "2023-12-19T08:58:49.0070032+00:00",
+  "LastUpdate_Achievements": "2023-12-19T09:09:31.4699137+00:00"
 }

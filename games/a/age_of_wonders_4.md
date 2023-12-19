@@ -5,8 +5,8 @@ Rating: 4.62 (Ranked 372)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Realm Estate | 6.00% | ~351 |
-| Secret Technique | 6.00% | ~351 |
+| Realm Estate | 6.00% | ~352 |
+| Secret Technique | 6.00% | ~352 |
 | A Wonderful Discovery | 5.00% | ~293 |
 | Walls Cannot Stop Us | 5.00% | ~293 |
 | From Friends to Family | 5.00% | ~293 |
@@ -42,9 +42,9 @@ Rating: 4.62 (Ranked 372)
 | Seal the Deal | 1.00% | ~59 |
 | A Conqueror's Cohort | 1.00% | ~59 |
 | Dawn of the Dread | 1.00% | ~59 |
+| Lord of Chaos | 0.90% | ~53 |
 | Against the Odds | 0.90% | ~53 |
 | The Eternal Court | 0.90% | ~53 |
-| Lord of Chaos | 0.80% | ~47 |
 | Eternal Lord | 0.80% | ~47 |
 | I've Got Everything I Need Right Here | 0.70% | ~41 |
 | God Emperor | 0.70% | ~41 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 372)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,858 (Ranked 190)  
+Progressed: 5,859 (Ranked 190)  
 Completed: 7 (0.12%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 7 (0.12%) (Ranked 292)
 | 2023-12-16 | 5,752 | 7 |
 | 2023-12-17 | 5,798 | 7 |
 | 2023-12-18 | 5,842 | 7 |
-| 2023-12-19 | 5,858 | 7 |
+| 2023-12-19 | 5,859 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 479)  
 Sum: 93 (Ranked 461)  

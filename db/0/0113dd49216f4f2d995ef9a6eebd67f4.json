@@ -2,10 +2,10 @@
   "ID": "0113dd49216f4f2d995ef9a6eebd67f4",
   "Name": "Stray Gods: The Roleplaying Musical",
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
-  "Ranking_EOS_Progress": 427,
+  "Ranking_EOS_Progress": 426,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 289,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 134,
+  "EOS_Progressed": 135,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -619,6 +619,11 @@
       "Time": "2023-12-18T18:09:01.9192821+00:00",
       "NumProgressed": 134,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T09:08:56.3880144+00:00",
+      "NumProgressed": 135,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -631,7 +636,7 @@
       "Name": "Abdication",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "SG_ACROSSTHESTYX",
@@ -701,7 +706,7 @@
       "ID": "SG_ENDOFTHEROAD",
       "SetID": "bj5g0n4",
       "Name": "End Of The Road",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 15,
       "UsersEstimate": 103
     },
@@ -735,7 +740,7 @@
       "Name": "Heartbreaker",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "SG_LIKEHEROESBEFOREYOU",
@@ -775,7 +780,7 @@
       "Name": "My Time To Shine",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "SG_NOTALOSTGIRL",
@@ -799,7 +804,7 @@
       "Name": "Queen Without A Throne",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "SG_SAYINGGOODBYE",
@@ -807,7 +812,7 @@
       "Name": "Saying Goodbye",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "SG_SHARETHISDANCE",
@@ -879,7 +884,7 @@
       "Name": "The Muse\u2019s Encore",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "SG_THEQUEENOFTHEDEAD",
@@ -926,14 +931,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 134,
+      "Progressed": 135,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-12-19T08:08:05.5515487+00:00",
+  "LastChanged_Achievements": "2023-12-19T09:08:56.388014+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:06.0565697+00:00",
-  "LastUpdate_Ratings": "2023-12-19T07:59:13.1903283+00:00",
-  "LastUpdate_Achievements": "2023-12-19T08:08:05.5515738+00:00"
+  "LastUpdate_Ratings": "2023-12-19T08:59:38.215275+00:00",
+  "LastUpdate_Achievements": "2023-12-19T09:08:56.3880384+00:00"
 }

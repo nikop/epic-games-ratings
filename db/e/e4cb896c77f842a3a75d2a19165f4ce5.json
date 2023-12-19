@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 115,
   "Ranking_EOS_NewPlayers": 318,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T03:00:00+00:00",
@@ -2113,9 +2113,9 @@
       "ID": "LEVEL_017",
       "SetID": "7jk5g4e",
       "Name": "Temple",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 95,
-      "UsersEstimate": 140
+      "UsersEstimate": 147
     },
     {
       "ID": "LEVEL_019",
@@ -2168,8 +2168,8 @@
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-12-19T08:08:34.8377745+00:00",
+  "LastChanged_Achievements": "2023-12-19T09:09:28.699397+00:00",
   "LastUpdate_AppInfo": "2023-12-19T04:57:12.4356092+00:00",
-  "LastUpdate_Ratings": "2023-12-19T07:58:55.7087771+00:00",
-  "LastUpdate_Achievements": "2023-12-19T08:08:34.8378018+00:00"
+  "LastUpdate_Ratings": "2023-12-19T08:59:19.0235854+00:00",
+  "LastUpdate_Achievements": "2023-12-19T09:09:28.6994142+00:00"
 }

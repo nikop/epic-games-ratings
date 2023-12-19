@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 46,
-  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2779,
+  "EOS_Progressed": 2780,
   "EOS_Completed": 253,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 9.1,
   "EosHistory": [
@@ -7861,6 +7861,11 @@
       "Time": "2023-12-19T04:09:05.7110314+00:00",
       "NumProgressed": 2779,
       "NumCompleted": 253
+    },
+    {
+      "Time": "2023-12-19T09:09:13.0678082+00:00",
+      "NumProgressed": 2780,
+      "NumCompleted": 253
     }
   ],
   "TotalAchievements": 12,
@@ -7888,7 +7893,7 @@
       "Name": "Building the Fox",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "Green Ticket Roundup",
@@ -7960,14 +7965,14 @@
       "Name": "Nuremberg Laws",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     }
   ],
   "AchievementSets": [
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2779,
+      "Progressed": 2780,
       "Completed": 253
     }
   ],
@@ -7975,8 +7980,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-12-19T08:08:20.6658634+00:00",
+  "LastChanged_Achievements": "2023-12-19T09:09:13.0678077+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:21.9699753+00:00",
-  "LastUpdate_Ratings": "2023-12-19T07:58:43.2649558+00:00",
-  "LastUpdate_Achievements": "2023-12-19T08:08:20.6659282+00:00"
+  "LastUpdate_Ratings": "2023-12-19T08:59:04.5695577+00:00",
+  "LastUpdate_Achievements": "2023-12-19T09:09:13.0678492+00:00"
 }

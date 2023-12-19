@@ -5,16 +5,16 @@ Rating: 4.73 (Ranked 174)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~13,403 |
-| Newcomers | 78.00% | ~11,364 |
-| A Burden of Blood | 73.00% | ~10,635 |
+| Under a New Sun | 92.00% | ~13,404 |
+| Newcomers | 78.00% | ~11,365 |
+| A Burden of Blood | 73.00% | ~10,636 |
 | Protector's Duty | 69.00% | ~10,053 |
-| Alchemist | 68.00% | ~9,907 |
-| In our Wake | 67.00% | ~9,761 |
+| Alchemist | 68.00% | ~9,908 |
+| In our Wake | 67.00% | ~9,762 |
 | Leaving all Behind | 65.00% | ~9,470 |
 | Felons | 62.00% | ~9,033 |
-| A Sea of Promises | 60.00% | ~8,741 |
-| Tales and Revelations | 57.00% | ~8,304 |
+| A Sea of Promises | 60.00% | ~8,742 |
+| Tales and Revelations | 57.00% | ~8,305 |
 | Bloodline | 52.00% | ~7,576 |
 | The Cradle of Centuries | 49.00% | ~7,139 |
 | The Life We Deserve | 46.00% | ~6,702 |
@@ -27,8 +27,8 @@ Rating: 4.73 (Ranked 174)
 | Perfect shot | 23.00% | ~3,351 |
 | Mercy | 23.00% | ~3,351 |
 | Effective instruments | 22.00% | ~3,205 |
-| Knights! | 21.00% | ~3,059 |
-| Perfect throw | 21.00% | ~3,059 |
+| Knights! | 21.00% | ~3,060 |
+| Perfect throw | 21.00% | ~3,060 |
 | Handful of pockets | 13.00% | ~1,894 |
 | Pocket laboratory | 12.00% | ~1,748 |
 | Not a toy anymore | 11.00% | ~1,603 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 174)
 | Old protector | 2.00% | ~291 |
 | Malignant | 1.00% | ~146 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,569 (Ranked 162)  
+Progressed: 14,570 (Ranked 162)  
 Completed: 58 (0.40%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 58 (0.40%) (Ranked 227)
 | 2023-12-16 | 14,360 | 58 |
 | 2023-12-17 | 14,466 | 58 |
 | 2023-12-18 | 14,550 | 58 |
-| 2023-12-19 | 14,569 | 58 |
+| 2023-12-19 | 14,570 | 58 |
 ## Awards
 Max (Great Boss Battles): 437  (Ranked 229)  
 Sum: 692 (Ranked 306)  

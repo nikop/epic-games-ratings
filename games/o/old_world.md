@@ -7,13 +7,23 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Alexander the Great | 0.10% | ~16 |
+| Bad Heir Day | 0.10% | ~16 |
 | Acropolis in Athenai | 0.10% | ~16 |
+| Ishtar Gate in Babylon | 0.10% | ~16 |
+| Brilliant | 0.10% | ~16 |
+| Explorer | 0.10% | ~16 |
+| Intrepid | 0.10% | ~16 |
+| Mason | 0.10% | ~16 |
 | Settler | 0.10% | ~16 |
+| Friendly Family | 0.10% | ~16 |
 | Circus Maximus | 0.10% | ~16 |
+| Adur Burzen-Mihr | 0.10% | ~16 |
+| Ishtar Gate | 0.10% | ~16 |
 | Mausoleum | 0.10% | ~16 |
 | Learn to Play 1 | 0.10% | ~16 |
 | Learn to Play 2 | 0.10% | ~16 |
 | Play a Single Player Game | 0.10% | ~16 |
+| Roman Paganism | 0.10% | ~16 |
 | Circus Maximus in Roma | 0.10% | ~16 |
 | Capturing Cities | 0.10% | ~16 |
 | Centenarian | 0.00% | ~0 |
@@ -22,10 +32,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Musaeum in Alexandria | 0.00% | ~0 |
 | Alliance Victory | 0.00% | ~0 |
 | Regicide | 0.00% | ~0 |
-| Bad Heir Day | 0.00% | ~0 |
 | Future Regicide | 0.00% | ~0 |
 | Hanging Gardens in Babylon | 0.00% | ~0 |
-| Ishtar Gate in Babylon | 0.00% | ~0 |
 | Barbarian Horde | 0.00% | ~0 |
 | The Great Raging Horde | 0.00% | ~0 |
 | United Against The Horde | 0.00% | ~0 |
@@ -62,20 +70,17 @@ Number of Ratings: 1,307  (23.09.2022)
 | Avenger | 0.00% | ~0 |
 | Beloved | 0.00% | ~0 |
 | Drillmaster | 0.00% | ~0 |
-| Brilliant | 0.00% | ~0 |
 | Capable | 0.00% | ~0 |
 | Conqueror | 0.00% | ~0 |
 | Destroyer | 0.00% | ~0 |
 | Devout | 0.00% | ~0 |
 | Enlightened | 0.00% | ~0 |
-| Explorer | 0.00% | ~0 |
 | Fountainhead | 0.00% | ~0 |
 | Glorious | 0.00% | ~0 |
 | Good | 0.00% | ~0 |
 | Great | 0.00% | ~0 |
 | Holy | 0.00% | ~0 |
 | Intercessor | 0.00% | ~0 |
-| Intrepid | 0.00% | ~0 |
 | Invincible | 0.00% | ~0 |
 | Just | 0.00% | ~0 |
 | Keystone | 0.00% | ~0 |
@@ -83,7 +88,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Liberator | 0.00% | ~0 |
 | Lion | 0.00% | ~0 |
 | Magnificent | 0.00% | ~0 |
-| Mason | 0.00% | ~0 |
 | Mighty | 0.00% | ~0 |
 | Noble | 0.00% | ~0 |
 | Old | 0.00% | ~0 |
@@ -127,7 +131,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Sages | 0.00% | ~0 |
 | Statesmen | 0.00% | ~0 |
 | Traders | 0.00% | ~0 |
-| Friendly Family | 0.00% | ~0 |
 | Furious Family | 0.00% | ~0 |
 | Battle of the Fertile Crescent | 0.00% | ~0 |
 | The Eternal Treaty | 0.00% | ~0 |
@@ -187,8 +190,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Church of the Holy Sepulchre | 0.00% | ~0 |
 | Temple of Solomon | 0.00% | ~0 |
 | Cao'an | 0.00% | ~0 |
-| Adur Burzen-Mihr | 0.00% | ~0 |
-| Ishtar Gate | 0.00% | ~0 |
 | Lighthouse | 0.00% | ~0 |
 | Musaeum | 0.00% | ~0 |
 | Necropolis | 0.00% | ~0 |
@@ -240,7 +241,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greek Paganism | 0.00% | ~0 |
 | Hittite Paganism | 0.00% | ~0 |
 | Persian Paganism | 0.00% | ~0 |
-| Roman Paganism | 0.00% | ~0 |
 | Zoroastrianism | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
 | Roman Papacy | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Al Khazneh in Petra | 0.00% | ~0 |
 | Colosseum in Roma | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,831 (Ranked 156)  
+Progressed: 15,832 (Ranked 156)  
 Completed: 5 (0.03%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -608,7 +608,7 @@ Completed: 5 (0.03%) (Ranked 344)
 | 2023-12-16 | 15,789 | 5 |
 | 2023-12-17 | 15,807 | 5 |
 | 2023-12-18 | 15,826 | 5 |
-| 2023-12-19 | 15,831 | 5 |
+| 2023-12-19 | 15,832 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 279)  
 Sum: 1,902 (Ranked 220)  

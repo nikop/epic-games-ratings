@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -4505,9 +4505,9 @@
       "ID": "AutoDisrupted",
       "SetID": "3jha1np",
       "Name": "Look Over There!",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 312
+      "UsersEstimate": 347
     },
     {
       "ID": "BloodAndIron",
@@ -4657,9 +4657,9 @@
       "ID": "Kills_Auto",
       "SetID": "3jha1np",
       "Name": "Not So Fast...",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 312
+      "UsersEstimate": 347
     },
     {
       "ID": "Kills_Bleed",
@@ -5047,8 +5047,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-16T13:05:46.2808+00:00",
-  "LastChanged_Achievements": "2023-12-19T08:04:50.0966694+00:00",
+  "LastChanged_Achievements": "2023-12-19T09:05:31.4974333+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:54.7152084+00:00",
-  "LastUpdate_Ratings": "2023-12-19T08:02:47.3843587+00:00",
-  "LastUpdate_Achievements": "2023-12-19T08:04:50.0967389+00:00"
+  "LastUpdate_Ratings": "2023-12-19T09:03:12.2943055+00:00",
+  "LastUpdate_Achievements": "2023-12-19T09:05:31.4974966+00:00"
 }

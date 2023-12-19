@@ -6,24 +6,24 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 3.00% | ~33,144 |
-| It wakes | 3.00% | ~33,144 |
-| Not half bad | 3.00% | ~33,144 |
-| Skillful | 3.00% | ~33,144 |
-| The Grand Sacrifice | 2.00% | ~22,096 |
-| No one left behind | 2.00% | ~22,096 |
-| Medic | 2.00% | ~22,096 |
-| Handyman | 2.00% | ~22,096 |
-| Bloody Millionaire | 2.00% | ~22,096 |
-| Apt Survivor | 2.00% | ~22,096 |
-| Survival Treasures | 2.00% | ~22,096 |
-| I | 2.00% | ~22,096 |
-| Sorted | 2.00% | ~22,096 |
-| Healthy Obsession | 2.00% | ~22,096 |
-| Resurgence | 2.00% | ~22,096 |
-| Preemptive Strike | 2.00% | ~22,096 |
-| Humanitarian | 2.00% | ~22,096 |
-| Make Some Noise | 2.00% | ~22,096 |
+| Zealous | 3.00% | ~33,145 |
+| It wakes | 3.00% | ~33,145 |
+| Not half bad | 3.00% | ~33,145 |
+| Skillful | 3.00% | ~33,145 |
+| The Grand Sacrifice | 2.00% | ~22,097 |
+| No one left behind | 2.00% | ~22,097 |
+| Medic | 2.00% | ~22,097 |
+| Handyman | 2.00% | ~22,097 |
+| Bloody Millionaire | 2.00% | ~22,097 |
+| Apt Survivor | 2.00% | ~22,097 |
+| Survival Treasures | 2.00% | ~22,097 |
+| I | 2.00% | ~22,097 |
+| Sorted | 2.00% | ~22,097 |
+| Healthy Obsession | 2.00% | ~22,097 |
+| Resurgence | 2.00% | ~22,097 |
+| Preemptive Strike | 2.00% | ~22,097 |
+| Humanitarian | 2.00% | ~22,097 |
+| Make Some Noise | 2.00% | ~22,097 |
 | Agonizing Escape | 1.00% | ~11,048 |
 | Backdoor Escape | 1.00% | ~11,048 |
 | I've got your back | 1.00% | ~11,048 |
@@ -39,19 +39,19 @@ Number of Ratings: 70,340  (23.09.2022)
 | Close Shave | 1.00% | ~11,048 |
 | Lifting The Fog | 1.00% | ~11,048 |
 | Second Act | 1.00% | ~11,048 |
-| Escape Artist | 0.90% | ~9,943 |
-| First to the Punch | 0.90% | ~9,943 |
-| Operation: Survival | 0.90% | ~9,943 |
-| Every Last Drop | 0.90% | ~9,943 |
-| With Scars to Show | 0.90% | ~9,943 |
-| Flight to Freedom | 0.90% | ~9,943 |
-| Chorus of Chaos | 0.90% | ~9,943 |
-| Blood on your hands | 0.80% | ~8,838 |
-| III-50 | 0.80% | ~8,838 |
-| Cherish your Life | 0.80% | ~8,838 |
-| Unforgettable Getaway | 0.80% | ~8,838 |
-| Old West Oasis | 0.80% | ~8,838 |
-| Raccoon City Recruit | 0.80% | ~8,838 |
+| Escape Artist | 0.90% | ~9,944 |
+| First to the Punch | 0.90% | ~9,944 |
+| Operation: Survival | 0.90% | ~9,944 |
+| Every Last Drop | 0.90% | ~9,944 |
+| With Scars to Show | 0.90% | ~9,944 |
+| Flight to Freedom | 0.90% | ~9,944 |
+| Chorus of Chaos | 0.90% | ~9,944 |
+| Blood on your hands | 0.80% | ~8,839 |
+| III-50 | 0.80% | ~8,839 |
+| Cherish your Life | 0.80% | ~8,839 |
+| Unforgettable Getaway | 0.80% | ~8,839 |
+| Old West Oasis | 0.80% | ~8,839 |
+| Raccoon City Recruit | 0.80% | ~8,839 |
 | Made it out alive! | 0.70% | ~7,734 |
 | Gifts for the Fog | 0.70% | ~7,734 |
 | All Aboard | 0.70% | ~7,734 |
@@ -96,15 +96,15 @@ Number of Ratings: 70,340  (23.09.2022)
 | I See You | 0.40% | ~4,419 |
 | High Speed Pursuit | 0.40% | ~4,419 |
 | Complete the Evolution | 0.40% | ~4,419 |
-| Blood in your mouth | 0.30% | ~3,314 |
-| Looter | 0.30% | ~3,314 |
-| Whiffing to Success | 0.30% | ~3,314 |
-| Heavy Burden | 0.30% | ~3,314 |
-| Power Moves | 0.30% | ~3,314 |
-| Punch Drunk | 0.30% | ~3,314 |
-| Prowler | 0.30% | ~3,314 |
-| Triage | 0.30% | ~3,314 |
-| Kitted Out | 0.30% | ~3,314 |
+| Blood in your mouth | 0.30% | ~3,315 |
+| Looter | 0.30% | ~3,315 |
+| Whiffing to Success | 0.30% | ~3,315 |
+| Heavy Burden | 0.30% | ~3,315 |
+| Power Moves | 0.30% | ~3,315 |
+| Punch Drunk | 0.30% | ~3,315 |
+| Prowler | 0.30% | ~3,315 |
+| Triage | 0.30% | ~3,315 |
+| Kitted Out | 0.30% | ~3,315 |
 | A feast for the Entity | 0.20% | ~2,210 |
 | Mad House | 0.20% | ~2,210 |
 | Milk 'n' Cookies | 0.20% | ~2,210 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,105 |
 | Adept Good Guy | 0.10% | ~1,105 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,104,811 (Ranked 12)  
+Progressed: 1,104,840 (Ranked 12)  
 Completed: 63 (0.01%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -482,7 +482,7 @@ Completed: 63 (0.01%) (Ranked 359)
 | 2023-12-16 | 1,099,953 | 62 |
 | 2023-12-17 | 1,102,441 | 63 |
 | 2023-12-18 | 1,104,280 | 63 |
-| 2023-12-19 | 1,104,811 | 63 |
+| 2023-12-19 | 1,104,840 | 63 |
 ## Awards
 Max (Diverse Characters): 38,197  (Ranked 15)  
 Sum: 288,804 (Ranked 12)  

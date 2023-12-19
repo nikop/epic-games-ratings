@@ -16,28 +16,28 @@ Number of Ratings: 12,664  (23.09.2022)
 | It's Free Real Estate | 5.00% | ~7,316 |
 | Budding Merchant | 5.00% | ~7,316 |
 | Own the Means of Production | 5.00% | ~7,316 |
-| The Daily Grind | 4.00% | ~5,852 |
-| One Easy Payment | 4.00% | ~5,852 |
-| Some Assembly Required | 4.00% | ~5,852 |
-| Pretty Penny | 4.00% | ~5,852 |
-| One-Armed Bandit | 4.00% | ~5,852 |
-| Through Repetition, Perfection | 4.00% | ~5,852 |
-| On the Path to Greatness | 3.00% | ~4,389 |
-| Ascended | 3.00% | ~4,389 |
-| Vanity, Verily | 3.00% | ~4,389 |
-| Bounty Hunters | 3.00% | ~4,389 |
-| Blank Page Syndrome | 3.00% | ~4,389 |
-| Demand for Supplies | 3.00% | ~4,389 |
-| Flooding the Market | 3.00% | ~4,389 |
-| Where it Hurts | 3.00% | ~4,389 |
-| Efficient Floor Space | 3.00% | ~4,389 |
-| Gem Expert | 3.00% | ~4,389 |
-| Gild-Gotten Goods | 3.00% | ~4,389 |
-| Helping Hand | 3.00% | ~4,389 |
-| Accomplished Merchant | 3.00% | ~4,389 |
-| Dungeon Imports | 3.00% | ~4,389 |
-| Did we pack lunch? | 3.00% | ~4,389 |
-| Arcane Industries | 3.00% | ~4,389 |
+| The Daily Grind | 4.00% | ~5,853 |
+| One Easy Payment | 4.00% | ~5,853 |
+| Some Assembly Required | 4.00% | ~5,853 |
+| Pretty Penny | 4.00% | ~5,853 |
+| One-Armed Bandit | 4.00% | ~5,853 |
+| Through Repetition, Perfection | 4.00% | ~5,853 |
+| On the Path to Greatness | 3.00% | ~4,390 |
+| Ascended | 3.00% | ~4,390 |
+| Vanity, Verily | 3.00% | ~4,390 |
+| Bounty Hunters | 3.00% | ~4,390 |
+| Blank Page Syndrome | 3.00% | ~4,390 |
+| Demand for Supplies | 3.00% | ~4,390 |
+| Flooding the Market | 3.00% | ~4,390 |
+| Where it Hurts | 3.00% | ~4,390 |
+| Efficient Floor Space | 3.00% | ~4,390 |
+| Gem Expert | 3.00% | ~4,390 |
+| Gild-Gotten Goods | 3.00% | ~4,390 |
+| Helping Hand | 3.00% | ~4,390 |
+| Accomplished Merchant | 3.00% | ~4,390 |
+| Dungeon Imports | 3.00% | ~4,390 |
+| Did we pack lunch? | 3.00% | ~4,390 |
+| Arcane Industries | 3.00% | ~4,390 |
 | A Notch Above the Rest | 2.00% | ~2,926 |
 | Cream of the Crop | 2.00% | ~2,926 |
 | Top of the World | 2.00% | ~2,926 |
@@ -106,8 +106,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Eternal Crusade | 1.00% | ~1,463 |
 | Economy of Scarce | 1.00% | ~1,463 |
 | All or Nothing! | 0.90% | ~1,317 |
-| The Greatest Grind | 0.80% | ~1,170 |
-| Marvels from the World Over | 0.80% | ~1,170 |
+| The Greatest Grind | 0.80% | ~1,171 |
+| Marvels from the World Over | 0.80% | ~1,171 |
 | Bane of Legends | 0.70% | ~1,024 |
 | Anything not Nailed Down | 0.70% | ~1,024 |
 | Ultimate Collector | 0.60% | ~878 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~585 |
 | Capitalist Camaraderie | 0.20% | ~293 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 146,312 (Ranked 81)  
+Progressed: 146,317 (Ranked 81)  
 Completed: 324 (0.22%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -362,7 +362,7 @@ Completed: 324 (0.22%) (Ranked 264)
 | 2023-12-16 | 145,933 | 319 |
 | 2023-12-17 | 146,136 | 322 |
 | 2023-12-18 | 146,265 | 322 |
-| 2023-12-19 | 146,312 | 324 |
+| 2023-12-19 | 146,317 | 324 |
 ## Awards
 Max (Great for Beginners): 4,898  (Ranked 75)  
 Sum: 27,762 (Ranked 51)  

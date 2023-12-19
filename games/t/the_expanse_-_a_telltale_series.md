@@ -14,13 +14,13 @@ Rating: 4.53 (Ranked 548)
 | Martian Music | 8.00% | ~1,346 |
 | Drone Dodger | 8.00% | ~1,346 |
 | Zen Master | 8.00% | ~222 |
-| Stogie for Fogey | 7.00% | ~1,177 |
-| Spore Taste | 7.00% | ~1,177 |
+| Stogie for Fogey | 7.00% | ~1,178 |
+| Spore Taste | 7.00% | ~1,178 |
 | Safe Cracker | 7.00% | ~194 |
 | Madame Undersecretary | 7.00% | ~194 |
 | Heal Thy Medic | 6.00% | ~1,009 |
 | Call it Even | 6.00% | ~1,009 |
-| Keep Arjun in Check | 6.00% | ~166 |
+| Keep Arjun in Check | 6.00% | ~167 |
 | Data Archivist | 5.00% | ~841 |
 | Drug Gifter | 5.00% | ~841 |
 | Thorston Mayer | 5.00% | ~841 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 548)
 | Scavenger Star | 0.20% | ~34 |
 | Data Collector | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,821 (Ranked 152)  
+Progressed: 16,822 (Ranked 152)  
 Completed: 44 (0.26%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 44 (0.26%) (Ranked 256)
 | 2023-12-16 | 16,565 | 43 |
 | 2023-12-17 | 16,683 | 44 |
 | 2023-12-18 | 16,797 | 44 |
-| 2023-12-19 | 16,821 | 44 |
+| 2023-12-19 | 16,822 | 44 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

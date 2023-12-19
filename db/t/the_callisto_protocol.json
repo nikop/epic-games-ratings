@@ -1697,9 +1697,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 18000,
+  "EOS_Progressed": 18004,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1475,
+  "EOS_NewPlayers": 1479,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -10262,6 +10262,11 @@
       "Time": "2023-12-19T08:08:35.9954242+00:00",
       "NumProgressed": 18000,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-19T09:09:30.0495207+00:00",
+      "NumProgressed": 18004,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -10305,15 +10310,15 @@
       "Name": "Flesh Wound",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 2340
+      "UsersEstimate": 2341
     },
     {
       "ID": "FIND_ALL_BIOS",
       "SetID": "4hj6d86",
       "Name": "Grim Reaper",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 144
+      "UsersEstimate": 126
     },
     {
       "ID": "FINISH_CONTAGION",
@@ -10367,9 +10372,9 @@
       "ID": "FINISH_NEW_GAME_PLUS",
       "SetID": "6j5ggkc",
       "Name": "Parole Denied",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 42
     },
     {
       "ID": "GRP_25_ENEMIES",
@@ -10377,7 +10382,7 @@
       "Name": "Get a Grip",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2340
+      "UsersEstimate": 2341
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -10465,7 +10470,7 @@
       "Name": "The Outer Way",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2340
+      "UsersEstimate": 2341
     },
     {
       "ID": "STORY_ESCAPE",
@@ -10545,7 +10550,7 @@
       "Name": "Instigator",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -10648,13 +10653,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 18000,
+      "Progressed": 18004,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 5926,
+      "Progressed": 5930,
       "Completed": 29
     }
   ],
@@ -10662,8 +10667,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-19T04:03:19.1162955+00:00",
-  "LastChanged_Achievements": "2023-12-19T08:08:35.995423+00:00",
+  "LastChanged_Achievements": "2023-12-19T09:09:30.0495203+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.4893565+00:00",
-  "LastUpdate_Ratings": "2023-12-19T08:02:51.004881+00:00",
-  "LastUpdate_Achievements": "2023-12-19T08:08:35.9954912+00:00"
+  "LastUpdate_Ratings": "2023-12-19T09:03:16.4500899+00:00",
+  "LastUpdate_Achievements": "2023-12-19T09:09:30.0495909+00:00"
 }

@@ -31,7 +31,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 2.00% | ~2,569 |
 | FNG | 2.00% | ~2,569 |
 | Nope | 2.00% | ~2,569 |
-| Friends 'Til the End | 2.00% | ~66 |
+| Friends 'Til the End | 2.00% | ~67 |
 | Resurrection | 1.00% | ~1,285 |
 | Unleash Hell | 1.00% | ~1,285 |
 | Funny Guy | 1.00% | ~1,285 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~128 |
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,452 (Ranked 85)  
+Progressed: 128,461 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 3 (0.00%) (Ranked 383)
 | 2023-12-16 | 127,826 | 3 |
 | 2023-12-17 | 128,143 | 3 |
 | 2023-12-18 | 128,398 | 3 |
-| 2023-12-19 | 128,452 | 3 |
+| 2023-12-19 | 128,461 | 3 |
 ## Awards
 Max (Character Customization): 7,784  (Ranked 50)  
 Sum: 20,768 (Ranked 58)  
