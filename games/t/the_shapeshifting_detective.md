@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Play It Again Sam | 90.00% | ~244 |
-| Strong Silent Type | 90.00% | ~244 |
-| Play Me By The Hour | 69.00% | ~187 |
+| Play It Again Sam | 90.00% | ~245 |
+| Strong Silent Type | 90.00% | ~245 |
+| Play Me By The Hour | 69.00% | ~188 |
 | Patient Listener | 46.00% | ~125 |
 | Video Saved The Radio Star | 39.00% | ~106 |
 | Hashtag Winning | 38.00% | ~103 |
@@ -26,8 +26,8 @@
 | The Big Sleep | 5.00% | ~14 |
 | Bullseye | 4.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 271 (Ranked 380)  
-Completed: 3 (1.11%) (Ranked 167)  
+Progressed: 272 (Ranked 380)  
+Completed: 3 (1.10%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -103,6 +103,7 @@ Completed: 3 (1.11%) (Ranked 167)
 | 2023-12-16 | 263 | 3 |
 | 2023-12-17 | 268 | 3 |
 | 2023-12-18 | 271 | 3 |
+| 2023-12-19 | 272 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

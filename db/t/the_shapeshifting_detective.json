@@ -4,8 +4,8 @@
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 321,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
     "PcReleaseDate": "2018-11-06T17:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 271,
+  "EOS_Progressed": 272,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.11,
+  "EOS_Completed_Percentage": 1.1,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:57.7196507+00:00",
@@ -605,6 +605,11 @@
       "Time": "2023-12-18T16:08:37.9275145+00:00",
       "NumProgressed": 271,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-19T13:13:39.6636878+00:00",
+      "NumProgressed": 272,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 21,
@@ -704,7 +709,7 @@
       "Name": "Play It Again Sam",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "play_me_by_the_hour",
@@ -712,7 +717,7 @@
       "Name": "Play Me By The Hour",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "poetent",
@@ -744,7 +749,7 @@
       "Name": "Strong Silent Type",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "the_big_sleep",
@@ -783,7 +788,7 @@
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 271,
+      "Progressed": 272,
       "Completed": 3
     }
   ],
@@ -791,8 +796,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-12-19T12:08:53.4615585+00:00",
+  "LastChanged_Achievements": "2023-12-19T13:13:39.6636875+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:54.0210156+00:00",
-  "LastUpdate_Ratings": "2023-12-19T12:03:33.642755+00:00",
-  "LastUpdate_Achievements": "2023-12-19T12:08:53.4615748+00:00"
+  "LastUpdate_Ratings": "2023-12-19T13:08:07.1594106+00:00",
+  "LastUpdate_Achievements": "2023-12-19T13:13:39.6636994+00:00"
 }

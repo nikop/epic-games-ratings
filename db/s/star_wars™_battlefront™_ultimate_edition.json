@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1899,
+  "EOS_Progressed": 1900,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 220,
+  "EOS_NewPlayers": 221,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5589,6 +5589,11 @@
       "Time": "2023-12-19T12:10:52.7824546+00:00",
       "NumProgressed": 1899,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T13:15:04.6067052+00:00",
+      "NumProgressed": 1900,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -5825,7 +5830,7 @@
       "Name": "New Recruit",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1671
+      "UsersEstimate": 1672
     },
     {
       "ID": "achievement_36",
@@ -5839,9 +5844,9 @@
       "ID": "achievement_37",
       "SetID": "271ol84",
       "Name": "Off to a good start",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1216
     },
     {
       "ID": "achievement_38",
@@ -5873,7 +5878,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "achievement_41",
@@ -5985,7 +5990,7 @@
       "Name": "I\u2019ll take that bet",
       "Percentage": 0.5,
       "XP": 90,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_54",
@@ -6104,13 +6109,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1899,
+      "Progressed": 1900,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1899,
+      "Progressed": 1900,
       "Completed": 1
     }
   ],
@@ -6118,8 +6123,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-19T12:10:52.7824543+00:00",
+  "LastChanged_Achievements": "2023-12-19T13:15:04.606705+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.5169818+00:00",
-  "LastUpdate_Ratings": "2023-12-19T12:02:49.5754111+00:00",
-  "LastUpdate_Achievements": "2023-12-19T12:10:52.7825187+00:00"
+  "LastUpdate_Ratings": "2023-12-19T13:07:38.3985715+00:00",
+  "LastUpdate_Achievements": "2023-12-19T13:15:04.60678+00:00"
 }

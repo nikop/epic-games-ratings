@@ -6,10 +6,10 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 8.00% | ~268 |
-| Lost and Found | 5.00% | ~168 |
-| Autodidact | 4.00% | ~5,139 |
-| This guy... again? | 4.00% | ~134 |
+| Malpractice Assurance | 8.00% | ~270 |
+| Lost and Found | 5.00% | ~169 |
+| Autodidact | 4.00% | ~5,140 |
+| This guy... again? | 4.00% | ~135 |
 | This Belongs in a Museum | 3.00% | ~3,855 |
 | Not Today! | 3.00% | ~3,855 |
 | Creep and Sleep | 3.00% | ~3,855 |
@@ -22,6 +22,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Don't Make Me Turn This Coach Around | 2.00% | ~2,570 |
 | Serenity Now! | 2.00% | ~2,570 |
 | It Rings a Bell | 2.00% | ~2,570 |
+| Dissector | 2.00% | ~2,570 |
 | It Happens | 2.00% | ~2,570 |
 | Rush Hour | 2.00% | ~2,570 |
 | Merry Time | 2.00% | ~2,570 |
@@ -40,7 +41,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Boxcar Kid | 1.00% | ~1,285 |
 | Unfulfilled Desires | 1.00% | ~1,285 |
 | Predator | 1.00% | ~1,285 |
-| Dissector | 1.00% | ~1,285 |
 | Banishment | 1.00% | ~1,285 |
 | Deprogramming | 1.00% | ~1,285 |
 | Now Stay Dead | 1.00% | ~1,285 |
@@ -53,40 +53,40 @@ Number of Ratings: 7,767  (23.09.2022)
 | Utopia | 1.00% | ~1,285 |
 | Unshackled | 1.00% | ~1,285 |
 | Road Trip | 1.00% | ~1,285 |
-| Hope Rekindled | 0.90% | ~1,156 |
-| Ichthyophobic | 0.90% | ~1,156 |
-| No More Mouths to Feed | 0.80% | ~1,028 |
+| Hope Rekindled | 0.90% | ~1,157 |
+| Ichthyophobic | 0.90% | ~1,157 |
+| No More Mouths to Feed | 0.90% | ~1,157 |
 | Hot Air | 0.80% | ~1,028 |
 | Eyes Up | 0.80% | ~1,028 |
 | Slap on the Wrist | 0.80% | ~27 |
-| This Looks Familiar | 0.70% | ~899 |
-| For Old Time' Sake | 0.70% | ~23 |
+| This Looks Familiar | 0.70% | ~900 |
+| For Old Time' Sake | 0.70% | ~24 |
 | Handled | 0.60% | ~771 |
-| Shrine of Reflection | 0.50% | ~642 |
-| Body of Work | 0.50% | ~642 |
+| Shrine of Reflection | 0.50% | ~643 |
+| Body of Work | 0.50% | ~643 |
 | Et Tu, Riposte? | 0.50% | ~17 |
 | Clearing the Ledger | 0.40% | ~514 |
 | Triage | 0.40% | ~514 |
-| The World As It Was | 0.30% | ~385 |
-| Bacon Bits | 0.30% | ~385 |
-| Hat Trick | 0.30% | ~385 |
+| A Life Well Lived | 0.30% | ~386 |
+| The World As It Was | 0.30% | ~386 |
+| Bacon Bits | 0.30% | ~386 |
+| Hat Trick | 0.30% | ~386 |
 | Maître De La Lame | 0.30% | ~10 |
 | No Mercy | 0.30% | ~10 |
-| A Life Well Lived | 0.20% | ~257 |
 | Tears in the Rain | 0.20% | ~257 |
 | Eidetic | 0.20% | ~257 |
 | Battle Hardened | 0.20% | ~7 |
 | On This Long Road, We Found Redemption | 0.20% | ~7 |
-| Loop Year | 0.10% | ~128 |
-| Circle of Life | 0.10% | ~128 |
-| No Gravestone Left Unturned | 0.10% | ~128 |
-| 20,000 Leagues Above the Sea | 0.10% | ~128 |
-| The Clash | 0.10% | ~128 |
-| Grand Slam | 0.10% | ~128 |
-| Hard Mode | 0.10% | ~128 |
+| Loop Year | 0.10% | ~129 |
+| Circle of Life | 0.10% | ~129 |
+| No Gravestone Left Unturned | 0.10% | ~129 |
+| 20,000 Leagues Above the Sea | 0.10% | ~129 |
+| The Clash | 0.10% | ~129 |
+| Grand Slam | 0.10% | ~129 |
+| Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,486 (Ranked 85)  
+Progressed: 128,503 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 3 (0.00%) (Ranked 383)
 | 2023-12-16 | 127,826 | 3 |
 | 2023-12-17 | 128,143 | 3 |
 | 2023-12-18 | 128,398 | 3 |
-| 2023-12-19 | 128,486 | 3 |
+| 2023-12-19 | 128,503 | 3 |
 ## Awards
 Max (Character Customization): 7,795  (Ranked 50)  
 Sum: 20,786 (Ranked 58)  

@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 320)  
+Rating: 4.65 (Ranked 321)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,6 +13,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able | 0.10% | ~16 |
 | Ambitious | 0.10% | ~16 |
 | Brilliant | 0.10% | ~16 |
+| Conqueror | 0.10% | ~16 |
 | Explorer | 0.10% | ~16 |
 | Good | 0.10% | ~16 |
 | Intrepid | 0.10% | ~16 |
@@ -20,13 +21,16 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mason | 0.10% | ~16 |
 | Settler | 0.10% | ~16 |
 | Valiant | 0.10% | ~16 |
+| Legendary Cities | 0.10% | ~16 |
 | Friendly Family | 0.10% | ~16 |
+| Furious Family | 0.10% | ~16 |
 | Acropolis | 0.10% | ~16 |
 | Circus Maximus | 0.10% | ~16 |
 | Adur Burzen-Mihr | 0.10% | ~16 |
 | Ishtar Gate | 0.10% | ~16 |
 | Mausoleum | 0.10% | ~16 |
 | Musaeum | 0.10% | ~16 |
+| Pantheon | 0.10% | ~16 |
 | Learn to Play 1 | 0.10% | ~16 |
 | Learn to Play 2 | 0.10% | ~16 |
 | Play a Single Player Game | 0.10% | ~16 |
@@ -81,7 +85,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beloved | 0.00% | ~0 |
 | Drillmaster | 0.00% | ~0 |
 | Capable | 0.00% | ~0 |
-| Conqueror | 0.00% | ~0 |
 | Destroyer | 0.00% | ~0 |
 | Devout | 0.00% | ~0 |
 | Enlightened | 0.00% | ~0 |
@@ -112,7 +115,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Wise | 0.00% | ~0 |
 | Council of Madness | 0.00% | ~0 |
 | Developing Cities | 0.00% | ~0 |
-| Legendary Cities | 0.00% | ~0 |
 | Strong Cities | 0.00% | ~0 |
 | Via Recta Souk in Damascus | 0.00% | ~0 |
 | Oracle in Delphi | 0.00% | ~0 |
@@ -138,7 +140,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Sages | 0.00% | ~0 |
 | Statesmen | 0.00% | ~0 |
 | Traders | 0.00% | ~0 |
-| Furious Family | 0.00% | ~0 |
 | Battle of the Fertile Crescent | 0.00% | ~0 |
 | The Eternal Treaty | 0.00% | ~0 |
 | Five Routs | 0.00% | ~0 |
@@ -199,7 +200,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lighthouse | 0.00% | ~0 |
 | Necropolis | 0.00% | ~0 |
 | Oracle | 0.00% | ~0 |
-| Pantheon | 0.00% | ~0 |
 | Pyramids | 0.00% | ~0 |
 | Via Recta Souk | 0.00% | ~0 |
 | Knowledge of the Ancients | 0.00% | ~0 |

@@ -6,19 +6,19 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~41,276 |
-| First Steps | 80.00% | ~35,506 |
+| Awakening | 93.00% | ~41,277 |
+| First Steps | 80.00% | ~35,507 |
 | Control the Shadows | 67.00% | ~29,737 |
-| Tools of the Trade | 63.00% | ~27,961 |
+| Tools of the Trade | 63.00% | ~27,962 |
 | Apprentice | 60.00% | ~26,630 |
-| Secret Seeker | 57.00% | ~25,298 |
+| Secret Seeker | 57.00% | ~25,299 |
 | Forge of Assassins | 55.00% | ~24,411 |
-| Revenant | 52.00% | ~23,079 |
-| I don’t Care! | 45.00% | ~19,972 |
+| Revenant | 52.00% | ~23,080 |
+| I don’t Care! | 45.00% | ~19,973 |
 | Bird of Prey | 37.00% | ~16,422 |
 | Engraved with Power | 32.00% | ~14,203 |
 | Lady | 31.00% | ~13,759 |
-| Fashionable Assassin | 27.00% | ~11,983 |
+| Fashionable Assassin | 27.00% | ~11,984 |
 | Apex Predator | 24.00% | ~10,652 |
 | Soul Reaver | 23.00% | ~10,208 |
 | Embers | 22.00% | ~9,764 |
@@ -33,9 +33,9 @@ Number of Ratings: 88  (23.09.2022)
 | Ruse | 12.00% | ~5,326 |
 | Master Ninja | 11.00% | ~4,882 |
 | Hatching | 10.00% | ~4,438 |
-| Bonds | 9.00% | ~3,994 |
-| Get Over Here | 9.00% | ~3,994 |
-| The Hidden Village | 9.00% | ~3,994 |
+| Bonds | 9.00% | ~3,995 |
+| Get Over Here | 9.00% | ~3,995 |
+| The Hidden Village | 9.00% | ~3,995 |
 | Denouement | 8.00% | ~3,551 |
 | A Pleasant Stay | 8.00% | ~3,551 |
 | Pilgrimage | 7.00% | ~3,107 |
@@ -45,13 +45,13 @@ Number of Ratings: 88  (23.09.2022)
 | Left Behind | 4.00% | ~1,775 |
 | Secrets of the Earth | 4.00% | ~1,775 |
 | Heart of Fire | 4.00% | ~1,775 |
-| The Lion’s Den | 3.00% | ~1,331 |
-| Forest Spirits | 3.00% | ~1,331 |
+| The Lion’s Den | 3.00% | ~1,332 |
+| Forest Spirits | 3.00% | ~1,332 |
 | Hot Potato | 2.00% | ~888 |
 | Anger Management | 2.00% | ~888 |
 | Legacy | 2.00% | ~888 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,383 (Ranked 120)  
+Progressed: 44,384 (Ranked 120)  
 Completed: 247 (0.56%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 247 (0.56%) (Ranked 205)
 | 2023-12-16 | 44,347 | 247 |
 | 2023-12-17 | 44,373 | 247 |
 | 2023-12-18 | 44,378 | 247 |
-| 2023-12-19 | 44,383 | 247 |
+| 2023-12-19 | 44,384 | 247 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

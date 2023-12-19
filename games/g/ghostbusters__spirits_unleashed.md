@@ -14,12 +14,12 @@ Rating: 4.50 (Ranked 600)
 | Fully Upgraded | 5.00% | ~1,622 |
 | Solo Capture | 5.00% | ~1,622 |
 | Teamwork | 5.00% | ~1,622 |
-| Clutch Capture | 4.00% | ~1,297 |
-| Cultured | 4.00% | ~1,297 |
-| Daily Dose | 4.00% | ~1,297 |
-| There you are! | 4.00% | ~1,297 |
-| Vaporous Expansion | 4.00% | ~1,297 |
-| Whoopsie | 4.00% | ~1,297 |
+| Clutch Capture | 4.00% | ~1,298 |
+| Cultured | 4.00% | ~1,298 |
+| Daily Dose | 4.00% | ~1,298 |
+| There you are! | 4.00% | ~1,298 |
+| Vaporous Expansion | 4.00% | ~1,298 |
+| Whoopsie | 4.00% | ~1,298 |
 | Animated | 3.00% | ~973 |
 | We have the best insurance | 3.00% | ~973 |
 | Ectoplasmic Entity | 3.00% | ~973 |
@@ -46,7 +46,7 @@ Rating: 4.50 (Ranked 600)
 | Rivalry | 1.00% | ~324 |
 | Surprise! | 1.00% | ~324 |
 | Terrifying | 1.00% | ~324 |
-| Therapeutic | 0.80% | ~259 |
+| Therapeutic | 0.80% | ~260 |
 | Rift Seeker | 0.60% | ~195 |
 | Master Collector | 0.50% | ~162 |
 | Ghost Expert | 0.30% | ~97 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 600)
 | Ultimate Defense | 0.20% | ~65 |
 | Line em' up | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,437 (Ranked 127)  
+Progressed: 32,440 (Ranked 127)  
 Completed: 69 (0.21%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 69 (0.21%) (Ranked 267)
 | 2023-12-16 | 32,332 | 69 |
 | 2023-12-17 | 32,383 | 69 |
 | 2023-12-18 | 32,422 | 69 |
-| 2023-12-19 | 32,437 | 69 |
+| 2023-12-19 | 32,440 | 69 |
 ## Awards
 Max (Great for Beginners): 324  (Ranked 251)  
 Sum: 2,918 (Ranked 181)  

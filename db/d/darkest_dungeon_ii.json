@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9912,9 +9912,9 @@
       "Count": 1031
     }
   ],
-  "EOS_Progressed": 128486,
+  "EOS_Progressed": 128503,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2137,
+  "EOS_NewPlayers": 2149,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35797,6 +35797,11 @@
       "Time": "2023-12-19T12:09:43.0680633+00:00",
       "NumProgressed": 128486,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-19T13:14:15.4284388+00:00",
+      "NumProgressed": 128503,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35830,9 +35835,9 @@
       "ID": "altar_of_hope_memory_equip_five_same_hero",
       "SetID": "64l4lke",
       "Name": "A Life Well Lived",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 257
+      "UsersEstimate": 386
     },
     {
       "ID": "altar_of_hope_unlock_hero_flagellant",
@@ -35896,7 +35901,7 @@
       "Name": "The World As It Was",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "altar_of_hope_upgrade_total_half",
@@ -35904,7 +35909,7 @@
       "Name": "This Looks Familiar",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 899
+      "UsersEstimate": 900
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -35912,7 +35917,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1156
+      "UsersEstimate": 1157
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -35920,7 +35925,7 @@
       "Name": "Loop Year",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "combat_kill_animal",
@@ -35942,9 +35947,9 @@
       "ID": "combat_kill_cadavers",
       "SetID": "64l4lke",
       "Name": "Dissector",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1285
+      "UsersEstimate": 2570
     },
     {
       "ID": "combat_kill_cosmic",
@@ -35984,7 +35989,7 @@
       "Name": "Ichthyophobic",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1156
+      "UsersEstimate": 1157
     },
     {
       "ID": "combat_kill_gaunts",
@@ -35998,9 +36003,9 @@
       "ID": "combat_kill_gentry",
       "SetID": "64l4lke",
       "Name": "No More Mouths to Feed",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1157
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -36056,7 +36061,7 @@
       "Name": "Circle of Life",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "combat_kill_swine",
@@ -36064,7 +36069,7 @@
       "Name": "Bacon Bits",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "combat_party_wipe_all_run_bosses",
@@ -36072,7 +36077,7 @@
       "Name": "No Gravestone Left Unturned",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "combat_party_wipe_any_run_boss",
@@ -36088,7 +36093,7 @@
       "Name": "Hat Trick",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "driving_biome_clear_cave",
@@ -36144,7 +36149,7 @@
       "Name": "20,000 Leagues Above the Sea",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "hero_loss_memoried",
@@ -36160,7 +36165,7 @@
       "Name": "Autodidact",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5139
+      "UsersEstimate": 5140
     },
     {
       "ID": "hero_story_complete_all",
@@ -36168,7 +36173,7 @@
       "Name": "Shrine of Reflection",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "hero_story_complete_any",
@@ -36232,7 +36237,7 @@
       "Name": "The Clash",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "relationships_all_positive_mountain",
@@ -36296,7 +36301,7 @@
       "Name": "Body of Work",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "run_victory_all_confessions_back_to_back",
@@ -36304,7 +36309,7 @@
       "Name": "Grand Slam",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "run_victory_final_boss_infernal_flame",
@@ -36312,7 +36317,7 @@
       "Name": "Hard Mode",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "stagecoach_upgrade_equip_all",
@@ -36344,7 +36349,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 270
     },
     {
       "ID": "combat_kill_collector",
@@ -36352,7 +36357,7 @@
       "Name": "This guy... again?",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -36408,7 +36413,7 @@
       "Name": "Lost and Found",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -36424,7 +36429,7 @@
       "Name": "For Old Time\u0027 Sake",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "run_victory_final_boss_hwy_cru",
@@ -36439,21 +36444,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 128486,
+      "Progressed": 128503,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 3355,
+      "Progressed": 3372,
       "Completed": 802
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-19T11:59:41.3510074+00:00",
-  "LastChanged_Achievements": "2023-12-19T12:09:43.068063+00:00",
+  "LastChanged_Achievements": "2023-12-19T13:14:15.4284385+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-19T11:59:41.3510081+00:00",
-  "LastUpdate_Achievements": "2023-12-19T12:09:43.0682184+00:00"
+  "LastUpdate_Ratings": "2023-12-19T13:03:49.4018354+00:00",
+  "LastUpdate_Achievements": "2023-12-19T13:14:15.4285857+00:00"
 }

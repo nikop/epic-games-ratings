@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -251,9 +251,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44383,
+  "EOS_Progressed": 44384,
   "EOS_Completed": 247,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -19241,6 +19241,11 @@
       "Time": "2023-12-19T08:04:33.219965+00:00",
       "NumProgressed": 44383,
       "NumCompleted": 247
+    },
+    {
+      "Time": "2023-12-19T13:10:00.2930941+00:00",
+      "NumProgressed": 44384,
+      "NumCompleted": 247
     }
   ],
   "TotalAchievements": 44,
@@ -19252,7 +19257,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25298
+      "UsersEstimate": 25299
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -19308,7 +19313,7 @@
       "Name": "Bonds",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 3994
+      "UsersEstimate": 3995
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -19356,7 +19361,7 @@
       "Name": "The Lion\u2019s Den",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -19372,7 +19377,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 35506
+      "UsersEstimate": 35507
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -19396,7 +19401,7 @@
       "Name": "Get Over Here",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3994
+      "UsersEstimate": 3995
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -19420,7 +19425,7 @@
       "Name": "The Hidden Village",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 3994
+      "UsersEstimate": 3995
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -19492,7 +19497,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 27961
+      "UsersEstimate": 27962
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -19500,7 +19505,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11983
+      "UsersEstimate": 11984
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -19556,7 +19561,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19972
+      "UsersEstimate": 19973
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -19580,7 +19585,7 @@
       "Name": "Forest Spirits",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -19588,7 +19593,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 41276
+      "UsersEstimate": 41277
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -19596,14 +19601,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 23079
+      "UsersEstimate": 23080
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 44383,
+      "Progressed": 44384,
       "Completed": 247
     }
   ],
@@ -19611,8 +19616,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-17T19:02:52.186594+00:00",
-  "LastChanged_Achievements": "2023-12-19T12:06:17.0719066+00:00",
+  "LastChanged_Achievements": "2023-12-19T13:10:00.2930939+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:54.9639492+00:00",
-  "LastUpdate_Ratings": "2023-12-19T12:03:35.7355289+00:00",
-  "LastUpdate_Achievements": "2023-12-19T12:06:17.0720073+00:00"
+  "LastUpdate_Ratings": "2023-12-19T13:08:08.487471+00:00",
+  "LastUpdate_Achievements": "2023-12-19T13:10:00.2932072+00:00"
 }

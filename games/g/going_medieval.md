@@ -6,28 +6,28 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 76.00% | ~5,592 |
-| Having A Field Day | 76.00% | ~5,592 |
-| Reap What You Sow | 73.00% | ~5,371 |
+| Get A Room | 76.00% | ~5,593 |
+| Having A Field Day | 76.00% | ~5,593 |
+| Reap What You Sow | 73.00% | ~5,372 |
 | The First Day | 70.00% | ~5,151 |
-| Novice Researcher | 68.00% | ~5,003 |
-| Green Thumb | 67.00% | ~4,930 |
-| Home Cooked Meal | 62.00% | ~4,562 |
+| Novice Researcher | 68.00% | ~5,004 |
+| Green Thumb | 67.00% | ~4,931 |
+| Home Cooked Meal | 62.00% | ~4,563 |
 | Onward | 58.00% | ~4,268 |
-| The First Week | 56.00% | ~4,120 |
+| The First Week | 56.00% | ~4,121 |
 | Beam Me Up | 53.00% | ~3,900 |
 | Studious Researcher | 53.00% | ~3,900 |
 | Putting Food on the Table | 46.00% | ~3,385 |
-| Adept Researcher | 45.00% | ~3,311 |
+| Adept Researcher | 45.00% | ~3,312 |
 | Retribution | 43.00% | ~3,164 |
 | ...And Don’t Come Back! | 43.00% | ~3,164 |
-| Feast or Famine | 37.00% | ~2,722 |
+| Feast or Famine | 37.00% | ~2,723 |
 | Heating Up | 32.00% | ~2,355 |
 | Luminary Researcher | 31.00% | ~2,281 |
 | Winter Is Coming | 29.00% | ~2,134 |
-| Fit For A King | 28.00% | ~2,060 |
+| Fit For A King | 28.00% | ~2,061 |
 | Winter Is Here | 25.00% | ~1,840 |
-| Oh Deer! | 23.00% | ~1,692 |
+| Oh Deer! | 23.00% | ~1,693 |
 | Disassembled | 22.00% | ~1,619 |
 | A Party Now | 22.00% | ~1,619 |
 | All Year Round | 22.00% | ~1,619 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~147 |
 | Wabbit Season | 0.50% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,358 (Ranked 185)  
+Progressed: 7,359 (Ranked 185)  
 Completed: 14 (0.19%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,7 +260,7 @@ Completed: 14 (0.19%) (Ranked 271)
 | 2023-12-16 | 7,306 | 14 |
 | 2023-12-17 | 7,327 | 14 |
 | 2023-12-18 | 7,345 | 14 |
-| 2023-12-19 | 7,358 | 14 |
+| 2023-12-19 | 7,359 | 14 |
 ## Awards
 Max (Great for Beginners): 132  (Ranked 334)  
 Sum: 1,047 (Ranked 260)  

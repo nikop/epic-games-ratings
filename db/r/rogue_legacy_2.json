@@ -1500,9 +1500,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 25632,
+  "EOS_Progressed": 25654,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 1931,
+  "EOS_NewPlayers": 1953,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -11080,6 +11080,11 @@
       "Time": "2023-12-19T12:10:24.280391+00:00",
       "NumProgressed": 25632,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-19T13:14:43.5339727+00:00",
+      "NumProgressed": 25654,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -11123,7 +11128,7 @@
       "Name": "Pillow Investments",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "AllScarsBronze",
@@ -11137,9 +11142,9 @@
       "ID": "AllSkills",
       "SetID": "3ojhj46",
       "Name": "Looks Familiar",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 154
+      "UsersEstimate": 180
     },
     {
       "ID": "BossBridgeAdvancedDefeated",
@@ -11155,7 +11160,7 @@
       "Name": "Captain and Crew",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -11171,7 +11176,7 @@
       "Name": "Spells and Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1283
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -11187,7 +11192,7 @@
       "Name": "Hands and Hammers",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "BossFinalAdvancedDefeated",
@@ -11203,7 +11208,7 @@
       "Name": "King and Kin",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "BossForestAdvancedDefeated",
@@ -11235,7 +11240,7 @@
       "Name": "Progenitor and Prot\u00E9g\u00E9",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "BossStudyAdvancedDefeated",
@@ -11283,7 +11288,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "EndTimerFail",
@@ -11337,9 +11342,9 @@
       "ID": "PetDragon",
       "SetID": "3ojhj46",
       "Name": "Good Boy!",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 128
     },
     {
       "ID": "PrequelReveal",
@@ -11347,7 +11352,7 @@
       "Name": "Prequel to the Sequel",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "RogueMode",
@@ -11402,21 +11407,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 25632,
+      "Progressed": 25654,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 4562,
+      "Progressed": 4584,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-07T09:58:25.2813813+00:00",
-  "LastChanged_Achievements": "2023-12-19T12:10:24.2803906+00:00",
+  "LastChanged_Achievements": "2023-12-19T13:14:43.5339723+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:44.2937948+00:00",
-  "LastUpdate_Ratings": "2023-12-19T11:57:54.7201761+00:00",
-  "LastUpdate_Achievements": "2023-12-19T12:10:24.2804745+00:00"
+  "LastUpdate_Ratings": "2023-12-19T13:02:39.3010973+00:00",
+  "LastUpdate_Achievements": "2023-12-19T13:14:43.5340424+00:00"
 }

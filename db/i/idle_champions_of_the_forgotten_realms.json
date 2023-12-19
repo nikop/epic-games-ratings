@@ -8875,9 +8875,9 @@
       "Count": 3579
     }
   ],
-  "EOS_Progressed": 241957,
+  "EOS_Progressed": 241972,
   "EOS_Completed": 2542,
-  "EOS_NewPlayers": 2445,
+  "EOS_NewPlayers": 2454,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -36295,6 +36295,11 @@
       "Time": "2023-12-19T12:10:56.8007275+00:00",
       "NumProgressed": 241957,
       "NumCompleted": 2542
+    },
+    {
+      "Time": "2023-12-19T13:15:08.1068731+00:00",
+      "NumProgressed": 241972,
+      "NumCompleted": 2542
     }
   ],
   "TotalAchievements": 546,
@@ -40656,9 +40661,9 @@
       "ID": "objective_completed_860",
       "SetID": "415jc5c",
       "Name": "Don\u0027t Lose Your Head",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 416
+      "UsersEstimate": 625
     },
     {
       "ID": "objective_completed_865",
@@ -40673,21 +40678,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 208231,
-      "Completed": 4041
+      "Progressed": 208246,
+      "Completed": 4042
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 241957,
+      "Progressed": 241972,
       "Completed": 2542
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-19T09:59:53.7355645+00:00",
-  "LastChanged_Achievements": "2023-12-19T12:10:56.8007271+00:00",
+  "LastChanged_Achievements": "2023-12-19T13:15:08.1068729+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:52.1318001+00:00",
-  "LastUpdate_Ratings": "2023-12-19T12:01:27.2057618+00:00",
-  "LastUpdate_Achievements": "2023-12-19T12:10:56.8030533+00:00"
+  "LastUpdate_Ratings": "2023-12-19T13:05:01.22639+00:00",
+  "LastUpdate_Achievements": "2023-12-19T13:15:08.1091354+00:00"
 }

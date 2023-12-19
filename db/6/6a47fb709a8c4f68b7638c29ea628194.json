@@ -170,9 +170,9 @@
       "ID": "REGISTER",
       "SetID": "4nk2039",
       "Name": "On the starting grid",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "RESEARCHED_2",
@@ -328,8 +328,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-03T16:02:20.9417998+00:00",
-  "LastChanged_Achievements": "2023-12-19T12:09:24.4980033+00:00",
+  "LastChanged_Achievements": "2023-12-19T13:14:01.9892874+00:00",
   "LastUpdate_AppInfo": "2023-12-17T22:57:03.6262025+00:00",
-  "LastUpdate_Ratings": "2023-12-19T11:59:49.948748+00:00",
-  "LastUpdate_Achievements": "2023-12-19T12:09:24.4980237+00:00"
+  "LastUpdate_Ratings": "2023-12-19T13:03:55.0629437+00:00",
+  "LastUpdate_Achievements": "2023-12-19T13:14:01.9893061+00:00"
 }

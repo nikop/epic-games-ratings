@@ -5,43 +5,43 @@ Rating: 4.50 (Ranked 600)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 86.00% | ~385 |
-| Vanquisher of Robots | 77.00% | ~345 |
-| Party | 50.00% | ~224 |
-| Impossible Cube | 47.00% | ~211 |
+| Good start! | 86.00% | ~387 |
+| Vanquisher of Robots | 77.00% | ~346 |
+| Party | 50.00% | ~225 |
+| Impossible Cube | 46.00% | ~207 |
 | Knowledge is Power | 45.00% | ~202 |
-| Through the Darkness | 44.00% | ~197 |
-| No Mercy | 43.00% | ~193 |
-| The Return of a Rat | 42.00% | ~188 |
-| Fat of the Earth | 36.00% | ~161 |
-| Last Man Standing | 32.00% | ~143 |
-| He's Seen It All | 28.00% | ~125 |
-| Great Hero | 28.00% | ~125 |
-| Campaigning | 27.00% | ~121 |
-| Catch Jonathan_tostar | 27.00% | ~121 |
-| Rookie | 27.00% | ~121 |
-| Assemble a Meganewbie | 26.00% | ~116 |
+| Through the Darkness | 44.00% | ~198 |
+| No Mercy | 43.00% | ~194 |
+| The Return of a Rat | 42.00% | ~189 |
+| Fat of the Earth | 36.00% | ~162 |
+| Last Man Standing | 32.00% | ~144 |
+| He's Seen It All | 28.00% | ~126 |
+| Great Hero | 28.00% | ~126 |
+| Campaigning | 27.00% | ~122 |
+| Catch Jonathan_tostar | 27.00% | ~122 |
+| Rookie | 27.00% | ~122 |
+| Assemble a Meganewbie | 26.00% | ~117 |
 | Frugal | 22.00% | ~99 |
 | Feed a God | 22.00% | ~99 |
 | To the Moon and Back | 20.00% | ~90 |
-| Great Flight | 19.00% | ~85 |
+| Great Flight | 19.00% | ~86 |
 | Holy Vengeance | 17.00% | ~76 |
 | Honorary Cultist | 13.00% | ~58 |
 | Brain and Brawn | 12.00% | ~54 |
 | Strength and Sorcery | 10.00% | ~45 |
 | Omae Wa Mou Shindeiru | 8.00% | ~36 |
-| Experimentalist | 7.00% | ~31 |
-| Soldier | 7.00% | ~31 |
+| Experimentalist | 7.00% | ~32 |
+| Soldier | 7.00% | ~32 |
 | Wide Selection | 6.00% | ~27 |
 | Android Power | 6.00% | ~27 |
-| Shopaholic | 3.00% | ~13 |
-| Zombie Lover | 3.00% | ~13 |
+| Shopaholic | 3.00% | ~14 |
+| Zombie Lover | 3.00% | ~14 |
 | Munchkin | 2.00% | ~9 |
 | Full House | 1.00% | ~4 |
 | Vet | 0.90% | ~4 |
 | Real Achiever | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 448 (Ranked 334)  
+Progressed: 450 (Ranked 334)  
 Completed: 1 (0.22%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 1 (0.22%) (Ranked 264)
 | 2023-12-16 | 445 | 1 |
 | 2023-12-17 | 446 | 1 |
 | 2023-12-18 | 447 | 1 |
-| 2023-12-19 | 448 | 1 |
+| 2023-12-19 | 450 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

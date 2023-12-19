@@ -4,7 +4,7 @@
   "ProductSlug": "deus-ex-mankind-divided-4c6370",
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
@@ -645,9 +645,9 @@
       "ID": "NEW_ACHIEVEMENT_2_4",
       "SetID": "7on801h",
       "Name": "The Harvester",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_5",
@@ -850,8 +850,8 @@
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2023-12-19T12:07:11.8755067+00:00",
+  "LastChanged_Achievements": "2023-12-19T13:10:38.9745155+00:00",
   "LastUpdate_AppInfo": "2023-12-13T16:57:09.7184844+00:00",
-  "LastUpdate_Ratings": "2023-12-19T12:01:08.7453584+00:00",
-  "LastUpdate_Achievements": "2023-12-19T12:07:11.8755704+00:00"
+  "LastUpdate_Ratings": "2023-12-19T13:04:48.9320416+00:00",
+  "LastUpdate_Achievements": "2023-12-19T13:10:38.9745933+00:00"
 }

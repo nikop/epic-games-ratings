@@ -26,10 +26,10 @@
 | Castle Meldec | 21.00% | ~13 |
 | Sevenkeeps Seat of Kings | 19.00% | ~12 |
 | Friend of Alluvyan | 16.00% | ~10 |
+| Friend of Connach | 16.00% | ~10 |
 | Break Free | 16.00% | ~10 |
 | Stormwatch Faste | 14.00% | ~9 |
 | Friend of Gillyshire | 14.00% | ~9 |
-| Friend of Connach | 14.00% | ~9 |
 | Friend of Bastion | 14.00% | ~9 |
 | Philo's Tale | 13.00% | ~8 |
 | Friend of Orgash | 11.00% | ~7 |

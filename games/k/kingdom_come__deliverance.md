@@ -6,28 +6,28 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~260,246 |
-| Cavalier | 25.00% | ~203,317 |
-| Fatso | 23.00% | ~187,052 |
-| Awakening | 21.00% | ~170,786 |
-| Ranger | 20.00% | ~162,654 |
-| Scrooge | 20.00% | ~162,654 |
-| Anorectic | 16.00% | ~130,123 |
-| Firestarter | 16.00% | ~130,123 |
-| Bookworm | 15.00% | ~121,990 |
-| Insomniac | 13.00% | ~105,725 |
-| Buddy | 12.00% | ~97,592 |
-| Thief | 12.00% | ~97,592 |
-| Sinner | 11.00% | ~89,460 |
-| Traveller | 11.00% | ~89,460 |
-| Convict | 10.00% | ~81,327 |
-| Haggler | 9.00% | ~73,194 |
-| McLovin | 7.00% | ~56,929 |
-| Runt | 7.00% | ~56,929 |
-| Casanova | 6.00% | ~48,796 |
-| Bad Trip | 5.00% | ~40,663 |
-| Monk | 5.00% | ~40,663 |
-| Serial Killer | 5.00% | ~40,663 |
+| Blacksmith's Son | 32.00% | ~260,249 |
+| Cavalier | 25.00% | ~203,320 |
+| Fatso | 23.00% | ~187,054 |
+| Awakening | 21.00% | ~170,789 |
+| Ranger | 20.00% | ~162,656 |
+| Scrooge | 20.00% | ~162,656 |
+| Anorectic | 16.00% | ~130,125 |
+| Firestarter | 16.00% | ~130,125 |
+| Bookworm | 15.00% | ~121,992 |
+| Insomniac | 13.00% | ~105,726 |
+| Buddy | 12.00% | ~97,593 |
+| Thief | 12.00% | ~97,593 |
+| Sinner | 11.00% | ~89,461 |
+| Traveller | 11.00% | ~89,461 |
+| Convict | 10.00% | ~81,328 |
+| Haggler | 9.00% | ~73,195 |
+| McLovin | 7.00% | ~56,930 |
+| Runt | 7.00% | ~56,930 |
+| Casanova | 6.00% | ~48,797 |
+| Bad Trip | 5.00% | ~40,664 |
+| Monk | 5.00% | ~40,664 |
+| Serial Killer | 5.00% | ~40,664 |
 | Bastard | 4.00% | ~32,531 |
 | Hunter | 4.00% | ~32,531 |
 | Plague Doctor | 4.00% | ~32,531 |
@@ -35,15 +35,15 @@ Number of Ratings: 9,133  (23.09.2022)
 | Conqueror | 3.00% | ~24,398 |
 | Ginger in a Pickle | 3.00% | ~24,398 |
 | Kingdom did not come | 3.00% | ~24,398 |
-| Completionist | 2.00% | ~16,265 |
-| Death by splinter | 2.00% | ~16,265 |
-| King Charming | 2.00% | ~16,265 |
-| Knightrider | 2.00% | ~16,265 |
-| Level Cap | 2.00% | ~16,265 |
-| Arena Master | 2.00% | ~16,265 |
-| Robber Baron | 2.00% | ~16,265 |
-| Talmberger | 2.00% | ~16,265 |
-| The End | 2.00% | ~16,265 |
+| Completionist | 2.00% | ~16,266 |
+| Death by splinter | 2.00% | ~16,266 |
+| King Charming | 2.00% | ~16,266 |
+| Knightrider | 2.00% | ~16,266 |
+| Level Cap | 2.00% | ~16,266 |
+| Arena Master | 2.00% | ~16,266 |
+| Robber Baron | 2.00% | ~16,266 |
+| Talmberger | 2.00% | ~16,266 |
+| The End | 2.00% | ~16,266 |
 | Woman's Lot | 1.00% | ~8,133 |
 | Chivalrous Soul | 1.00% | ~8,133 |
 | Spoilsport | 1.00% | ~8,133 |
@@ -51,8 +51,8 @@ Number of Ratings: 9,133  (23.09.2022)
 | Gambler | 1.00% | ~8,133 |
 | Master Huntsman | 1.00% | ~8,133 |
 | Stealth Killer | 1.00% | ~8,133 |
-| Bailiff | 0.90% | ~7,319 |
-| Tracker | 0.90% | ~7,319 |
+| Bailiff | 0.90% | ~7,320 |
+| Tracker | 0.90% | ~7,320 |
 | David Horak | 0.80% | ~6,506 |
 | Fighter | 0.70% | ~5,693 |
 | Mercenary's Honour | 0.70% | ~5,693 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~813 |
 | Wingman | 0.10% | ~813 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 813,269 (Ranked 18)  
+Progressed: 813,279 (Ranked 18)  
 Completed: 52 (0.01%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,10 +332,10 @@ Completed: 52 (0.01%) (Ranked 359)
 | 2023-12-16 | 812,891 | 52 |
 | 2023-12-17 | 813,083 | 52 |
 | 2023-12-18 | 813,218 | 52 |
-| 2023-12-19 | 813,269 | 52 |
+| 2023-12-19 | 813,279 | 52 |
 ## Awards
 Max (Character Customization): 7,681  (Ranked 52)  
-Sum: 28,534 (Ranked 50)  
+Sum: 28,537 (Ranked 50)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -343,7 +343,7 @@ Diff (max vs sum): 2
 | This game has Great Boss Battles | 5,620 |
 | This game has Challenging Combat | 1,789 |
 | This game has Diverse Characters | 1,754 |
-| This game has Amazing Storytelling | 1,736 |
+| This game has Amazing Storytelling | 1,739 |
 | This game is Highly Recommended | 1,712 |
 | This game is Extremely Fun | 1,705 |
 | This game has Realistic Visuals | 1,685 |
@@ -680,4 +680,4 @@ Diff (max vs sum): 2
 | 2023-12-16 | 4.71 | - | 7,674 | 28,514 |
 | 2023-12-17 | 4.71 | - | 7,674 | 28,520 |
 | 2023-12-18 | 4.71 | - | 7,678 | 28,529 |
-| 2023-12-19 | 4.71 | - | 7,681 | 28,534 |
+| 2023-12-19 | 4.71 | - | 7,681 | 28,537 |

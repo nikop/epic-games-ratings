@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-2-1b9bb1",
   "Ranking_EOS_Progress": 407,
   "Ranking_EOS_Completed": 7,
-  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 176,
+  "EOS_Progressed": 177,
   "EOS_Completed": 79,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 12,
-  "EOS_Completed_Percentage": 44.89,
+  "EOS_Completed_Percentage": 44.63,
   "EosHistory": [
     {
       "Time": "2023-06-30T19:02:26.4579198+00:00",
@@ -1199,6 +1199,11 @@
       "Time": "2023-12-19T01:55:51.1036579+00:00",
       "NumProgressed": 176,
       "NumCompleted": 79
+    },
+    {
+      "Time": "2023-12-19T13:13:55.7602921+00:00",
+      "NumProgressed": 177,
+      "NumCompleted": 79
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.1574321+00:00",
@@ -1219,7 +1224,7 @@
       "Name": "Intro",
       "Percentage": 97,
       "XP": 75,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "Kanalizace",
@@ -1227,23 +1232,23 @@
       "Name": "Sewers",
       "Percentage": 79,
       "XP": 75,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "Kompotarna",
       "SetID": "823jm6g",
       "Name": "Pantry",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 80,
-      "UsersEstimate": 143
+      "UsersEstimate": 142
     },
     {
       "ID": "Konec",
       "SetID": "823jm6g",
       "Name": "Happy End",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 75,
-      "UsersEstimate": 83
+      "UsersEstimate": 81
     },
     {
       "ID": "Les",
@@ -1251,15 +1256,15 @@
       "Name": "Woods",
       "Percentage": 63,
       "XP": 80,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "Majak",
       "SetID": "823jm6g",
       "Name": "Lighthouse",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 75,
-      "UsersEstimate": 83
+      "UsersEstimate": 81
     },
     {
       "ID": "Nora",
@@ -1267,23 +1272,23 @@
       "Name": "Burrow",
       "Percentage": 63,
       "XP": 75,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "Planina",
       "SetID": "823jm6g",
       "Name": "Plain",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 80,
-      "UsersEstimate": 113
+      "UsersEstimate": 112
     },
     {
       "ID": "Poklop",
       "SetID": "823jm6g",
       "Name": "Hatch",
-      "Percentage": 86,
+      "Percentage": 85,
       "XP": 75,
-      "UsersEstimate": 151
+      "UsersEstimate": 150
     },
     {
       "ID": "Snekoun",
@@ -1307,21 +1312,21 @@
       "Name": "Seal Peaks",
       "Percentage": 53,
       "XP": 75,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     }
   ],
   "AchievementSets": [
     {
       "ID": "823jm6g",
       "IsBase": true,
-      "Progressed": 176,
+      "Progressed": 177,
       "Completed": 79
     }
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-12-19T12:09:16.0628694+00:00",
+  "LastChanged_Achievements": "2023-12-19T13:13:55.7602917+00:00",
   "LastUpdate_AppInfo": "2023-12-16T05:57:11.9761332+00:00",
-  "LastUpdate_Ratings": "2023-12-19T11:59:17.2183886+00:00",
-  "LastUpdate_Achievements": "2023-12-19T12:09:16.0628839+00:00"
+  "LastUpdate_Ratings": "2023-12-19T13:03:34.2049687+00:00",
+  "LastUpdate_Achievements": "2023-12-19T13:13:55.760305+00:00"
 }

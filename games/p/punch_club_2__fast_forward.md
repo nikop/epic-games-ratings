@@ -64,8 +64,8 @@
 | Family comes first | 30.00% | ~126 |
 | Key memories | 30.00% | ~126 |
 | Careerist | 30.00% | ~126 |
+| Anyone can resist | 30.00% | ~126 |
 | The heart of the Resistance | 30.00% | ~126 |
-| Anyone can resist | 29.00% | ~122 |
 | The last bell ring | 28.00% | ~118 |
 | Silver’s past | 27.00% | ~114 |
 | Better cooking at home | 27.00% | ~114 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -2679,9 +2679,9 @@
       "ID": "Toxic",
       "SetID": "2aagp3d",
       "Name": "Toxic",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 24
     },
     {
       "ID": "Webbed",
@@ -2720,8 +2720,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2023-12-19T12:10:46.3667286+00:00",
+  "LastChanged_Achievements": "2023-12-19T13:14:59.5400933+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:13.6567295+00:00",
-  "LastUpdate_Ratings": "2023-12-19T12:02:57.364933+00:00",
-  "LastUpdate_Achievements": "2023-12-19T12:10:46.3667599+00:00"
+  "LastUpdate_Ratings": "2023-12-19T13:07:43.3815643+00:00",
+  "LastUpdate_Achievements": "2023-12-19T13:14:59.5401201+00:00"
 }

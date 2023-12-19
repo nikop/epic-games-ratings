@@ -143,9 +143,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15454,
+  "EOS_Progressed": 15455,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 483,
+  "EOS_NewPlayers": 482,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4113,6 +4113,11 @@
       "Time": "2023-12-19T11:09:45.4854406+00:00",
       "NumProgressed": 15454,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-19T13:14:20.3475585+00:00",
+      "NumProgressed": 15455,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -4157,7 +4162,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 11590
+      "UsersEstimate": 11591
     },
     {
       "ID": "ACH_AE_14",
@@ -4213,7 +4218,7 @@
       "Name": "Back to School",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3554
+      "UsersEstimate": 3555
     },
     {
       "ID": "ACH_AE_20",
@@ -4221,7 +4226,7 @@
       "Name": "Let It Out",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1545
+      "UsersEstimate": 1546
     },
     {
       "ID": "ACH_AE_21",
@@ -4237,7 +4242,7 @@
       "Name": "The High Road",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 3554
+      "UsersEstimate": 3555
     },
     {
       "ID": "ACH_AE_23",
@@ -4365,7 +4370,7 @@
       "Name": "Bad Chemistry",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1854
+      "UsersEstimate": 1855
     },
     {
       "ID": "ACH_AE_6",
@@ -4373,7 +4378,7 @@
       "Name": "Betrayal",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1545
+      "UsersEstimate": 1546
     },
     {
       "ID": "ACH_AE_7",
@@ -4389,7 +4394,7 @@
       "Name": "Prisoner Dilemma",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1545
+      "UsersEstimate": 1546
     },
     {
       "ID": "ACH_AE_9",
@@ -4397,14 +4402,14 @@
       "Name": "Paradise Lost",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1545
+      "UsersEstimate": 1546
     }
   ],
   "AchievementSets": [
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 15454,
+      "Progressed": 15455,
       "Completed": 14
     }
   ],
@@ -4412,8 +4417,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-13T16:00:23.030195+00:00",
-  "LastChanged_Achievements": "2023-12-19T12:09:50.8935774+00:00",
+  "LastChanged_Achievements": "2023-12-19T13:14:20.3475581+00:00",
   "LastUpdate_AppInfo": "2023-12-12T16:57:28.350985+00:00",
-  "LastUpdate_Ratings": "2023-12-19T11:59:32.400151+00:00",
-  "LastUpdate_Achievements": "2023-12-19T12:09:50.8936168+00:00"
+  "LastUpdate_Ratings": "2023-12-19T13:03:43.2203488+00:00",
+  "LastUpdate_Achievements": "2023-12-19T13:14:20.347601+00:00"
 }

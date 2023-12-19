@@ -36,10 +36,10 @@ Rating: 3.57 (Ranked 1,061)
 | Contingency Plans | 0.90% | ~17 |
 | You Clean It Up | 0.90% | ~17 |
 | Nice Try | 0.90% | ~17 |
+| Revelations | 0.80% | ~16 |
 | Check, Please! | 0.80% | ~16 |
 | Blacklight Down | 0.80% | ~16 |
 | Curious Finch | 0.80% | ~16 |
-| Revelations | 0.70% | ~14 |
 | Block Party | 0.70% | ~14 |
 | Right This Way | 0.50% | ~10 |
 | Dexterity Save | 0.50% | ~10 |

@@ -2820,9 +2820,9 @@
       "ID": "ACH_HOTEL_NAMED",
       "SetID": "7k95e4n",
       "Name": "And so it begins",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 886
+      "UsersEstimate": 898
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -2941,8 +2941,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-12-17T01:52:20.9654056+00:00",
-  "LastChanged_Achievements": "2023-12-19T12:05:55.3712831+00:00",
+  "LastChanged_Achievements": "2023-12-19T13:09:44.9338033+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:13.8800884+00:00",
-  "LastUpdate_Ratings": "2023-12-19T12:02:50.7918836+00:00",
-  "LastUpdate_Achievements": "2023-12-19T12:05:55.3713059+00:00"
+  "LastUpdate_Ratings": "2023-12-19T13:07:39.1065534+00:00",
+  "LastUpdate_Achievements": "2023-12-19T13:09:44.9338299+00:00"
 }

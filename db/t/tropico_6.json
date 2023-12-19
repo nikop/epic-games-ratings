@@ -1455,9 +1455,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6507,
+  "EOS_Progressed": 6508,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 206,
+  "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14740,6 +14740,11 @@
       "Time": "2023-12-19T11:04:34.2059847+00:00",
       "NumProgressed": 6507,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-19T13:08:53.1093694+00:00",
+      "NumProgressed": 6508,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -14847,7 +14852,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 2863
+      "UsersEstimate": 2864
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -14911,7 +14916,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 4815
+      "UsersEstimate": 4816
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -14943,7 +14948,7 @@
       "Name": "I Owe You Nothing",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "ACH_MYWAYS",
@@ -15007,7 +15012,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 2993
+      "UsersEstimate": 2994
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -15031,7 +15036,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -15055,7 +15060,7 @@
       "Name": "French Connection",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -15070,15 +15075,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6507,
+      "Progressed": 6508,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-12-17T08:59:24.7574779+00:00",
-  "LastChanged_Achievements": "2023-12-19T12:04:40.0173206+00:00",
+  "LastChanged_Achievements": "2023-12-19T13:08:53.109369+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:47.7844638+00:00",
-  "LastUpdate_Ratings": "2023-12-19T12:01:14.4803237+00:00",
-  "LastUpdate_Achievements": "2023-12-19T12:04:40.0173952+00:00"
+  "LastUpdate_Ratings": "2023-12-19T13:04:52.5496341+00:00",
+  "LastUpdate_Achievements": "2023-12-19T13:08:53.1095506+00:00"
 }

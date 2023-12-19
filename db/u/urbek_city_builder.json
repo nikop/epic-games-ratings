@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -1615,9 +1615,9 @@
       "ID": "COMIDA_2",
       "SetID": "44dlcg0",
       "Name": "Food provider master",
-      "Percentage": 0.2,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CONTAMINACION_1",
@@ -2160,8 +2160,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-12-19T12:10:52.4384007+00:00",
+  "LastChanged_Achievements": "2023-12-19T13:15:04.3251889+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:36.321847+00:00",
-  "LastUpdate_Ratings": "2023-12-19T12:00:40.9388376+00:00",
-  "LastUpdate_Achievements": "2023-12-19T12:10:52.4384633+00:00"
+  "LastUpdate_Ratings": "2023-12-19T13:04:30.6337843+00:00",
+  "LastUpdate_Achievements": "2023-12-19T13:15:04.3252497+00:00"
 }

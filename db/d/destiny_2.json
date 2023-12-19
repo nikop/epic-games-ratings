@@ -12576,10 +12576,10 @@
       "Count": 3329
     }
   ],
-  "EOS_Progressed": 1106804,
-  "EOS_Completed": 27039,
-  "EOS_NewPlayers": 497804,
-  "EOS_NewCompleters": 7288,
+  "EOS_Progressed": 1109000,
+  "EOS_Completed": 27061,
+  "EOS_NewPlayers": 499971,
+  "EOS_NewCompleters": 7302,
   "EOS_Completed_Percentage": 2.44,
   "EosHistory": [
     {
@@ -40476,6 +40476,11 @@
       "Time": "2023-12-19T12:05:12.4081986+00:00",
       "NumProgressed": 1106804,
       "NumCompleted": 27039
+    },
+    {
+      "Time": "2023-12-19T13:09:15.6456345+00:00",
+      "NumProgressed": 1109000,
+      "NumCompleted": 27061
     }
   ],
   "TotalAchievements": 23,
@@ -40487,7 +40492,7 @@
       "Name": "Long and Winding Road",
       "Percentage": 94,
       "XP": 40,
-      "UsersEstimate": 1040396
+      "UsersEstimate": 1042460
     },
     {
       "ID": "ACH_10",
@@ -40495,7 +40500,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 13,
       "XP": 80,
-      "UsersEstimate": 143885
+      "UsersEstimate": 144170
     },
     {
       "ID": "ACH_11",
@@ -40503,7 +40508,7 @@
       "Name": "Belly Of The Beast",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 88544
+      "UsersEstimate": 88720
     },
     {
       "ID": "ACH_12",
@@ -40511,7 +40516,7 @@
       "Name": "The Prestige",
       "Percentage": 5,
       "XP": 120,
-      "UsersEstimate": 55340
+      "UsersEstimate": 55450
     },
     {
       "ID": "ACH_13",
@@ -40519,7 +40524,7 @@
       "Name": "Lest Ye Be Judged",
       "Percentage": 20,
       "XP": 80,
-      "UsersEstimate": 221361
+      "UsersEstimate": 221800
     },
     {
       "ID": "ACH_14",
@@ -40527,7 +40532,7 @@
       "Name": "Legends Grow",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 121748
+      "UsersEstimate": 121990
     },
     {
       "ID": "ACH_15",
@@ -40535,7 +40540,7 @@
       "Name": "Exotique",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 99612
+      "UsersEstimate": 99810
     },
     {
       "ID": "ACH_16",
@@ -40543,7 +40548,7 @@
       "Name": "Seal the Deal",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 55340
+      "UsersEstimate": 55450
     },
     {
       "ID": "ACH_17",
@@ -40551,7 +40556,7 @@
       "Name": "Fashion Statement",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 66408
+      "UsersEstimate": 66540
     },
     {
       "ID": "ACH_18",
@@ -40559,7 +40564,7 @@
       "Name": "Heart of the Awoken",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 154953
+      "UsersEstimate": 155260
     },
     {
       "ID": "ACH_19",
@@ -40567,7 +40572,7 @@
       "Name": "An Exotic Journey",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 110680
+      "UsersEstimate": 110900
     },
     {
       "ID": "ACH_2",
@@ -40575,7 +40580,7 @@
       "Name": "Zavala\u0027s Lieutenant",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 166021
+      "UsersEstimate": 166350
     },
     {
       "ID": "ACH_20",
@@ -40583,7 +40588,7 @@
       "Name": "High-Stakes Play",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 143885
+      "UsersEstimate": 144170
     },
     {
       "ID": "ACH_21",
@@ -40591,7 +40596,7 @@
       "Name": "Darkness Falls",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 99612
+      "UsersEstimate": 99810
     },
     {
       "ID": "ACH_22",
@@ -40599,7 +40604,7 @@
       "Name": "Nothing Left to Say",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 110680
+      "UsersEstimate": 110900
     },
     {
       "ID": "ACH_23",
@@ -40607,7 +40612,7 @@
       "Name": "Wishing for the Best",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 55340
+      "UsersEstimate": 55450
     },
     {
       "ID": "ACH_3",
@@ -40615,7 +40620,7 @@
       "Name": "Cayde\u0027s Pathfinder",
       "Percentage": 20,
       "XP": 60,
-      "UsersEstimate": 221361
+      "UsersEstimate": 221800
     },
     {
       "ID": "ACH_4",
@@ -40623,7 +40628,7 @@
       "Name": "Ikora\u0027s Prot\u00E9g\u00E9",
       "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 199225
+      "UsersEstimate": 199620
     },
     {
       "ID": "ACH_5",
@@ -40631,7 +40636,7 @@
       "Name": "Show Me What You Got",
       "Percentage": 13,
       "XP": 80,
-      "UsersEstimate": 143885
+      "UsersEstimate": 144170
     },
     {
       "ID": "ACH_6",
@@ -40639,7 +40644,7 @@
       "Name": "In A Flash",
       "Percentage": 27,
       "XP": 80,
-      "UsersEstimate": 298837
+      "UsersEstimate": 299430
     },
     {
       "ID": "ACH_7",
@@ -40647,7 +40652,7 @@
       "Name": "The People\u0027s Hero",
       "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 586606
+      "UsersEstimate": 587770
     },
     {
       "ID": "ACH_8",
@@ -40655,37 +40660,37 @@
       "Name": "Heart of Darkness",
       "Percentage": 19,
       "XP": 80,
-      "UsersEstimate": 210293
+      "UsersEstimate": 210710
     },
     {
       "ID": "ACH_9",
       "SetID": "cpegfdi",
       "Name": "The Life Exotic",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 120,
-      "UsersEstimate": 177089
+      "UsersEstimate": 166350
     }
   ],
   "AchievementSets": [
     {
       "ID": "41p75ck",
       "IsBase": true,
-      "Progressed": 1106804,
-      "Completed": 27039
+      "Progressed": 1109000,
+      "Completed": 27061
     },
     {
       "ID": "cpegfdi",
       "IsBase": false,
-      "Progressed": 1106804,
-      "Completed": 55893
+      "Progressed": 1109000,
+      "Completed": 55940
     }
   ],
   "FirstSeen": "2022-08-23T20:00:58.6908762+00:00",
   "FirstSeenRating": "2022-08-24T03:30:20.9735605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:52.6483728+00:00",
   "LastChanged": "2023-12-19T01:45:25.639037+00:00",
-  "LastChanged_Achievements": "2023-12-19T12:05:12.4081982+00:00",
+  "LastChanged_Achievements": "2023-12-19T13:09:15.6456342+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:12.2411657+00:00",
-  "LastUpdate_Ratings": "2023-12-19T11:58:53.7112193+00:00",
-  "LastUpdate_Achievements": "2023-12-19T12:05:12.4083606+00:00"
+  "LastUpdate_Ratings": "2023-12-19T13:03:18.7887554+00:00",
+  "LastUpdate_Achievements": "2023-12-19T13:09:15.6457559+00:00"
 }

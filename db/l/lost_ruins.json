@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 556,
+  "EOS_Progressed": 557,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1324,6 +1324,11 @@
       "Time": "2023-12-19T04:10:27.5834111+00:00",
       "NumProgressed": 556,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T13:15:01.6123501+00:00",
+      "NumProgressed": 557,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1399,7 +1404,7 @@
       "Name": "Ghost Buster",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "Gladiator",
@@ -1415,7 +1420,7 @@
       "Name": "Goblin Tales",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "Hardboiled",
@@ -1447,7 +1452,7 @@
       "Name": "Iconoclasm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "Inquisitor",
@@ -1469,9 +1474,9 @@
       "ID": "Lumberjack",
       "SetID": "82505mn",
       "Name": "Lumberjack",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 61
     },
     {
       "ID": "Marksman",
@@ -1535,7 +1540,7 @@
       "Name": "Reincarnation",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "Roughneck",
@@ -1589,17 +1594,17 @@
       "ID": "TheEnd",
       "SetID": "82505mn",
       "Name": "The End",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 67
+      "UsersEstimate": 61
     },
     {
       "ID": "TheFallen",
       "SetID": "82505mn",
       "Name": "The Fallen",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 117
+      "UsersEstimate": 111
     },
     {
       "ID": "TheTrio",
@@ -1613,9 +1618,9 @@
       "ID": "TrapMaster",
       "SetID": "82505mn",
       "Name": "Trap Master",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 100
     },
     {
       "ID": "TreasureHunter",
@@ -1654,7 +1659,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 556,
+      "Progressed": 557,
       "Completed": 1
     }
   ],
@@ -1662,8 +1667,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-19T12:10:49.085282+00:00",
+  "LastChanged_Achievements": "2023-12-19T13:15:01.6123498+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:31.304442+00:00",
-  "LastUpdate_Ratings": "2023-12-19T12:00:24.2385494+00:00",
-  "LastUpdate_Achievements": "2023-12-19T12:10:49.0853076+00:00"
+  "LastUpdate_Ratings": "2023-12-19T13:04:18.1064665+00:00",
+  "LastUpdate_Achievements": "2023-12-19T13:15:01.6123815+00:00"
 }

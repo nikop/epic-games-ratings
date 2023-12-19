@@ -27,7 +27,7 @@
 | YOU SHALL NOT PASS! | 50.00% | ~295 |
 | The Cathedral of Light | 48.00% | ~283 |
 | Shame! Shame! Shame! | 47.00% | ~277 |
-| Pure Dynamite! | 45.00% | ~266 |
+| Pure Dynamite! | 46.00% | ~271 |
 | Dungeonlord Gorgu | 45.00% | ~266 |
 | Tanos' Crusade Against Thalya | 45.00% | ~266 |
 | Mana Cannon | 42.00% | ~248 |
@@ -63,7 +63,7 @@
 | Hands Off My Stones | 12.00% | ~71 |
 | Gorgu is in the Best of Health | 11.00% | ~65 |
 | Laser Eyes Are So Useless | 11.00% | ~65 |
-| No Mana, No Cry | 9.00% | ~53 |
+| No Mana, No Cry | 10.00% | ~59 |
 | I Don't Need Any Help | 8.00% | ~47 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 590 (Ranked 316)  

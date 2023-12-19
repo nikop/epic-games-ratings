@@ -20,7 +20,7 @@
 | Master of the Rope | 34.00% | ~16 |
 | Training Day | 34.00% | ~16 |
 | In the Air | 34.00% | ~16 |
-| Animal Sighting | 28.00% | ~13 |
+| Animal Sighting | 30.00% | ~14 |
 | The Fastest | 26.00% | ~12 |
 | Don’t Miss Any | 26.00% | ~12 |
 | You Have Been Everywhere | 21.00% | ~10 |

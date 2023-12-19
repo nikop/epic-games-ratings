@@ -5,9 +5,9 @@ Rating: 4.20 (Ranked 928)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Comrades | 0.30% | ~17 |
 | A Veil Lifted | 0.20% | ~11 |
 | Lost and Found | 0.20% | ~11 |
-| Comrades | 0.20% | ~11 |
 | Shared Triumph | 0.20% | ~11 |
 | No Mercy | 0.20% | ~11 |
 | Shades of Violence | 0.20% | ~11 |
@@ -69,7 +69,7 @@ Rating: 4.20 (Ranked 928)
 | A Rest Among the Dead | 0.10% | ~6 |
 | A Trace of Venom | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,539 (Ranked 195)  
+Progressed: 5,554 (Ranked 195)  
 Completed: 2 (0.04%) (Ranked 340)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 2 (0.04%) (Ranked 340)
 | 2023-12-16 | 4,327 | 2 |
 | 2023-12-17 | 4,961 | 2 |
 | 2023-12-18 | 5,377 | 2 |
-| 2023-12-19 | 5,539 | 2 |
+| 2023-12-19 | 5,554 | 2 |
 ## Awards
 Max (Character Customization): 223  (Ranked 283)  
 Sum: 560 (Ranked 323)  

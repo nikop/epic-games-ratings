@@ -1829,9 +1829,9 @@
       "ID": "ach_main07storm_dynamite",
       "SetID": "4hg22ll",
       "Name": "Pure Dynamite!",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 266
+      "UsersEstimate": 271
     },
     {
       "ID": "ach_main07storm_storm",
@@ -2077,9 +2077,9 @@
       "ID": "ach_main17stone_transporter",
       "SetID": "4hg22ll",
       "Name": "No Mana, No Cry",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 59
     },
     {
       "ID": "ach_main18unholy_completed",
@@ -2164,8 +2164,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-19T12:08:45.6235575+00:00",
+  "LastChanged_Achievements": "2023-12-19T13:13:34.2722988+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:09.5802782+00:00",
-  "LastUpdate_Ratings": "2023-12-19T12:00:31.3827704+00:00",
-  "LastUpdate_Achievements": "2023-12-19T12:08:45.6236166+00:00"
+  "LastUpdate_Ratings": "2023-12-19T13:04:22.6363568+00:00",
+  "LastUpdate_Achievements": "2023-12-19T13:13:34.2723535+00:00"
 }

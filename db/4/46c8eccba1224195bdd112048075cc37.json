@@ -941,9 +941,9 @@
       "ID": "ReturnShell",
       "SetID": "7g1kpc8",
       "Name": "Detective",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "SecondBoss",
@@ -980,8 +980,8 @@
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-12-19T12:08:11.5257032+00:00",
+  "LastChanged_Achievements": "2023-12-19T13:11:20.6536148+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.1609711+00:00",
-  "LastUpdate_Ratings": "2023-12-19T11:59:36.6130534+00:00",
-  "LastUpdate_Achievements": "2023-12-19T12:08:11.5257215+00:00"
+  "LastUpdate_Ratings": "2023-12-19T13:03:46.3250287+00:00",
+  "LastUpdate_Achievements": "2023-12-19T13:11:20.6536319+00:00"
 }

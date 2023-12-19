@@ -15,24 +15,24 @@ Number of Ratings: 85  (23.09.2022)
 | Perfect Probulator | 45.00% | ~19 |
 | Shop Til They Drop | 40.00% | ~17 |
 | Freshly Squeezed | 38.00% | ~16 |
-| Ducks in a Row, Fish in a Barrel | 33.00% | ~14 |
+| Ducks in a Row, Fish in a Barrel | 36.00% | ~15 |
 | Fly Me to the Moon Base | 29.00% | ~12 |
 | Forbidden Donut | 29.00% | ~12 |
 | Earthly Pleasures | 29.00% | ~12 |
 | Pimp My Raid | 26.00% | ~11 |
 | Bodied Sattva | 26.00% | ~11 |
-| Upgreatest | 21.00% | ~9 |
+| Upgreatest | 24.00% | ~10 |
 | Trans-Siberian Express | 21.00% | ~9 |
 | Deincarnated | 19.00% | ~8 |
 | Rock of the Bay | 19.00% | ~8 |
-| Re-Return of the Clone of the Invasion II-2 | 14.00% | ~6 |
+| Re-Return of the Clone of the Invasion II-2 | 17.00% | ~7 |
 | Furon Fashion | 12.00% | ~5 |
 | Arkvoodle Doodle | 10.00% | ~4 |
 | Ouch of Body Experience | 10.00% | ~4 |
 | If You Know What I Mean | 7.00% | ~3 |
+| Die Nasty | 7.00% | ~3 |
 | Hidden Human Hive Harvest | 7.00% | ~3 |
 | Mash Machine | 7.00% | ~3 |
-| Die Nasty | 5.00% | ~2 |
 | Dusted | 5.00% | ~2 |
 | PK Slam Dunk | 2.00% | ~1 |
 | Path of the Furon | 2.00% | ~1 |

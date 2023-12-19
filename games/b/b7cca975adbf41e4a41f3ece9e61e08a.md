@@ -5,50 +5,50 @@ Rating: 4.75 (Ranked 150)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 89.00% | ~12,522 |
-| I Challenge You To Save More Money! | 82.00% | ~11,537 |
-| I Love How Tough You Are | 66.00% | ~9,286 |
-| Wanna Come To My Place For Dinner? | 60.00% | ~8,442 |
-| What I Want Is You | 54.00% | ~7,598 |
-| To Be Or Not To Be | 51.00% | ~7,176 |
-| Are You Alright? | 47.00% | ~6,613 |
-| Love Actually | 43.00% | ~6,050 |
-| Drama King | 37.00% | ~5,206 |
-| Go Clean up In Your Own Way | 34.00% | ~4,784 |
-| You're Really Something Else | 33.00% | ~4,643 |
-| Drama CP: Reel to Real | 32.00% | ~4,502 |
-| Happy Family | 31.00% | ~4,362 |
-| FIRST LOVE | 31.00% | ~4,362 |
-| Worthless Speech | 31.00% | ~4,362 |
-| ONE PUNCH | 30.00% | ~4,221 |
-| Absolutely Elegant | 29.00% | ~4,080 |
-| Still Single | 28.00% | ~3,940 |
-| Days Of Innocence | 27.00% | ~3,799 |
-| Go Get Some Fries On The Pier | 26.00% | ~3,658 |
-| David | 26.00% | ~3,658 |
-| All I Have Is Money | 22.00% | ~3,095 |
-| Lover In Dark Alley | 22.00% | ~3,095 |
-| A Slap In The Face! | 22.00% | ~3,095 |
-| That's So You | 22.00% | ~3,095 |
-| SALUTE | 22.00% | ~3,095 |
-| Let Me Be Your Toy Boy | 21.00% | ~2,955 |
-| Off We Sail Tonight | 16.00% | ~2,251 |
-| Love You Three Thousand | 14.00% | ~1,970 |
-| Can You Do This Or Not? | 14.00% | ~1,970 |
-| Doesn't Matter I'll Handle It | 12.00% | ~1,688 |
-| The Flash | 11.00% | ~1,548 |
-| New Yoga Pose Unlocked | 10.00% | ~1,407 |
-| My Dear Love! | 8.00% | ~1,126 |
-| Counting Sheep? | 8.00% | ~1,126 |
-| This Ain't Right In Many Ways... | 8.00% | ~1,126 |
-| Life Is A Rollercoaster | 7.00% | ~985 |
-| Boys Need To Protect Themselves | 7.00% | ~985 |
-| Stubborn Noob | 7.00% | ~985 |
-| Hurrah! | 2.00% | ~281 |
-| Tall; Grande; Venti | 2.00% | ~281 |
-| Limerence | 2.00% | ~281 |
+| Last Night...Did We... | 89.00% | ~12,537 |
+| I Challenge You To Save More Money! | 82.00% | ~11,551 |
+| I Love How Tough You Are | 67.00% | ~9,438 |
+| Wanna Come To My Place For Dinner? | 60.00% | ~8,452 |
+| What I Want Is You | 54.00% | ~7,606 |
+| To Be Or Not To Be | 51.00% | ~7,184 |
+| Are You Alright? | 47.00% | ~6,620 |
+| Love Actually | 43.00% | ~6,057 |
+| Drama King | 37.00% | ~5,212 |
+| Go Clean up In Your Own Way | 34.00% | ~4,789 |
+| You're Really Something Else | 33.00% | ~4,648 |
+| Drama CP: Reel to Real | 32.00% | ~4,508 |
+| Happy Family | 31.00% | ~4,367 |
+| FIRST LOVE | 31.00% | ~4,367 |
+| Worthless Speech | 31.00% | ~4,367 |
+| ONE PUNCH | 30.00% | ~4,226 |
+| Absolutely Elegant | 29.00% | ~4,085 |
+| Still Single | 28.00% | ~3,944 |
+| Days Of Innocence | 27.00% | ~3,803 |
+| Go Get Some Fries On The Pier | 26.00% | ~3,662 |
+| David | 26.00% | ~3,662 |
+| All I Have Is Money | 22.00% | ~3,099 |
+| Lover In Dark Alley | 22.00% | ~3,099 |
+| A Slap In The Face! | 22.00% | ~3,099 |
+| That's So You | 22.00% | ~3,099 |
+| SALUTE | 22.00% | ~3,099 |
+| Let Me Be Your Toy Boy | 21.00% | ~2,958 |
+| Off We Sail Tonight | 16.00% | ~2,254 |
+| Love You Three Thousand | 14.00% | ~1,972 |
+| Can You Do This Or Not? | 14.00% | ~1,972 |
+| Doesn't Matter I'll Handle It | 12.00% | ~1,690 |
+| The Flash | 11.00% | ~1,549 |
+| New Yoga Pose Unlocked | 10.00% | ~1,409 |
+| My Dear Love! | 8.00% | ~1,127 |
+| Counting Sheep? | 8.00% | ~1,127 |
+| This Ain't Right In Many Ways... | 8.00% | ~1,127 |
+| Life Is A Rollercoaster | 7.00% | ~986 |
+| Boys Need To Protect Themselves | 7.00% | ~986 |
+| Stubborn Noob | 7.00% | ~986 |
+| Hurrah! | 2.00% | ~282 |
+| Tall; Grande; Venti | 2.00% | ~282 |
+| Limerence | 2.00% | ~282 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,070 (Ranked 164)  
+Progressed: 14,086 (Ranked 164)  
 Completed: 232 (1.65%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 232 (1.65%) (Ranked 141)
 | 2023-12-16 | 12,949 | 216 |
 | 2023-12-17 | 13,525 | 223 |
 | 2023-12-18 | 13,914 | 232 |
-| 2023-12-19 | 14,070 | 232 |
+| 2023-12-19 | 14,086 | 232 |
 ## Awards
 Max (Impact the Story): 27  (Ranked 520)  
 Sum: 27 (Ranked 534)  

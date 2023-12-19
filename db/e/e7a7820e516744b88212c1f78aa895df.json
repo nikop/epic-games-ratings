@@ -4,7 +4,7 @@
   "ProductSlug": "overpass-2",
   "Ranking_EOS_Progress": 372,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 385,
+  "Ranking_EOS_NewPlayers": 386,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -1323,17 +1323,17 @@
       "ID": "achSponsor10",
       "SetID": "7ji07dj",
       "Name": "Schmoozer",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "achSponsor20",
       "SetID": "7ji07dj",
       "Name": "Corporate Cooperator",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "achSponsor5",
@@ -1466,8 +1466,8 @@
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-12-19T12:10:09.0816325+00:00",
+  "LastChanged_Achievements": "2023-12-19T13:14:32.8216761+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:11.6032807+00:00",
-  "LastUpdate_Ratings": "2023-12-19T12:01:12.3282907+00:00",
-  "LastUpdate_Achievements": "2023-12-19T12:10:09.0816537+00:00"
+  "LastUpdate_Ratings": "2023-12-19T13:04:51.2080451+00:00",
+  "LastUpdate_Achievements": "2023-12-19T13:14:32.8216938+00:00"
 }
