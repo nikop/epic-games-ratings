@@ -5,8 +5,8 @@
   "Ranking_Rating": 512,
   "Ranking_Popularity": 223,
   "Ranking_PopularitySum": 300,
-  "Ranking_EOS_Progress": 159,
-  "Ranking_EOS_Completed": 228,
+  "Ranking_EOS_Progress": 158,
+  "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
@@ -1831,9 +1831,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 15441,
+  "EOS_Progressed": 15447,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 1495,
+  "EOS_NewPlayers": 1501,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -16671,6 +16671,11 @@
       "Time": "2023-12-19T05:10:25.5176054+00:00",
       "NumProgressed": 15441,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-19T06:09:44.565158+00:00",
+      "NumProgressed": 15447,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 35,
@@ -16682,7 +16687,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 12507
+      "UsersEstimate": 12512
     },
     {
       "ID": "ACH02",
@@ -16698,7 +16703,7 @@
       "Name": "The End of the Line",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1236
     },
     {
       "ID": "ACH04",
@@ -16730,7 +16735,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2934
+      "UsersEstimate": 2935
     },
     {
       "ID": "ACH08",
@@ -16738,7 +16743,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 7720
+      "UsersEstimate": 7724
     },
     {
       "ID": "ACH09",
@@ -16762,7 +16767,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1544
+      "UsersEstimate": 1545
     },
     {
       "ID": "ACH12",
@@ -16778,7 +16783,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 2779
+      "UsersEstimate": 2780
     },
     {
       "ID": "ACH14",
@@ -16802,7 +16807,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2625
+      "UsersEstimate": 2626
     },
     {
       "ID": "ACH17",
@@ -16818,7 +16823,7 @@
       "Name": "Saviour",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "ACH19",
@@ -16850,7 +16855,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 2316
+      "UsersEstimate": 2317
     },
     {
       "ID": "ACH23",
@@ -16858,7 +16863,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 3860
+      "UsersEstimate": 3862
     },
     {
       "ID": "ACH24",
@@ -16898,7 +16903,7 @@
       "Name": "Original Gangster",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1236
     },
     {
       "ID": "ACH29",
@@ -16906,7 +16911,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2316
+      "UsersEstimate": 2317
     },
     {
       "ID": "ACH30",
@@ -16961,7 +16966,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 15441,
+      "Progressed": 15447,
       "Completed": 60
     }
   ],
@@ -16969,8 +16974,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-12-18T13:09:03.7300682+00:00",
-  "LastChanged_Achievements": "2023-12-19T05:10:25.5176049+00:00",
+  "LastChanged_Achievements": "2023-12-19T06:09:44.5651575+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:24.5920887+00:00",
-  "LastUpdate_Ratings": "2023-12-19T04:57:34.829014+00:00",
-  "LastUpdate_Achievements": "2023-12-19T05:10:25.517683+00:00"
+  "LastUpdate_Ratings": "2023-12-19T05:57:13.010359+00:00",
+  "LastUpdate_Achievements": "2023-12-19T06:09:44.5652469+00:00"
 }

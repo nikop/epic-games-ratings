@@ -6,10 +6,10 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 3.00% | ~33,140 |
-| It wakes | 3.00% | ~33,140 |
-| Not half bad | 3.00% | ~33,140 |
-| Skillful | 3.00% | ~33,140 |
+| Zealous | 3.00% | ~33,142 |
+| It wakes | 3.00% | ~33,142 |
+| Not half bad | 3.00% | ~33,142 |
+| Skillful | 3.00% | ~33,142 |
 | The Grand Sacrifice | 2.00% | ~22,094 |
 | No one left behind | 2.00% | ~22,094 |
 | Medic | 2.00% | ~22,094 |
@@ -46,12 +46,12 @@ Number of Ratings: 70,340  (23.09.2022)
 | With Scars to Show | 0.90% | ~9,942 |
 | Flight to Freedom | 0.90% | ~9,942 |
 | Chorus of Chaos | 0.90% | ~9,942 |
-| Blood on your hands | 0.80% | ~8,837 |
-| III-50 | 0.80% | ~8,837 |
-| Cherish your Life | 0.80% | ~8,837 |
-| Unforgettable Getaway | 0.80% | ~8,837 |
-| Old West Oasis | 0.80% | ~8,837 |
-| Raccoon City Recruit | 0.80% | ~8,837 |
+| Blood on your hands | 0.80% | ~8,838 |
+| III-50 | 0.80% | ~8,838 |
+| Cherish your Life | 0.80% | ~8,838 |
+| Unforgettable Getaway | 0.80% | ~8,838 |
+| Old West Oasis | 0.80% | ~8,838 |
+| Raccoon City Recruit | 0.80% | ~8,838 |
 | Made it out alive! | 0.70% | ~7,733 |
 | Gifts for the Fog | 0.70% | ~7,733 |
 | All Aboard | 0.70% | ~7,733 |
@@ -75,17 +75,17 @@ Number of Ratings: 70,340  (23.09.2022)
 | A Fast Death | 0.60% | ~6,628 |
 | Extraterrestrial | 0.60% | ~6,628 |
 | Outta Nowhere | 0.60% | ~6,628 |
-| A bite for the Entity | 0.50% | ~5,523 |
-| Hemophobia | 0.50% | ~5,523 |
-| Leapfrog | 0.50% | ~5,523 |
-| Serial Killer | 0.50% | ~5,523 |
-| Escaping the Nightmare | 0.50% | ~5,523 |
-| Devoted Gatekeeping | 0.50% | ~5,523 |
-| Shrine Apparatus | 0.50% | ~5,523 |
-| Selfless Survival | 0.50% | ~5,523 |
-| End of Days | 0.50% | ~5,523 |
-| Insult and Injury | 0.50% | ~5,523 |
-| Rebuilding The Borgo | 0.50% | ~5,523 |
+| A bite for the Entity | 0.50% | ~5,524 |
+| Hemophobia | 0.50% | ~5,524 |
+| Leapfrog | 0.50% | ~5,524 |
+| Serial Killer | 0.50% | ~5,524 |
+| Escaping the Nightmare | 0.50% | ~5,524 |
+| Devoted Gatekeeping | 0.50% | ~5,524 |
+| Shrine Apparatus | 0.50% | ~5,524 |
+| Selfless Survival | 0.50% | ~5,524 |
+| End of Days | 0.50% | ~5,524 |
+| Insult and Injury | 0.50% | ~5,524 |
+| Rebuilding The Borgo | 0.50% | ~5,524 |
 | Jump Scares | 0.40% | ~4,419 |
 | Deep Cleansing | 0.40% | ~4,419 |
 | Texas BBQ | 0.40% | ~4,419 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,105 |
 | Adept Good Guy | 0.10% | ~1,105 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,104,676 (Ranked 12)  
+Progressed: 1,104,719 (Ranked 12)  
 Completed: 63 (0.01%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -482,7 +482,7 @@ Completed: 63 (0.01%) (Ranked 359)
 | 2023-12-16 | 1,099,953 | 62 |
 | 2023-12-17 | 1,102,441 | 63 |
 | 2023-12-18 | 1,104,280 | 63 |
-| 2023-12-19 | 1,104,676 | 63 |
+| 2023-12-19 | 1,104,719 | 63 |
 ## Awards
 Max (Diverse Characters): 38,197  (Ranked 15)  
 Sum: 288,804 (Ranked 12)  

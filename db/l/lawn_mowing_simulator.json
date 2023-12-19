@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 27,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-07-28T15:00:00+00:00",
     "PcReleaseDate": "2022-07-28T15:00:00+00:00",
@@ -2224,9 +2224,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 689233,
+  "EOS_Progressed": 689236,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 1723,
+  "EOS_NewPlayers": 1720,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30089,6 +30089,11 @@
       "Time": "2023-12-19T05:10:44.7296465+00:00",
       "NumProgressed": 689233,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-12-19T06:10:00.7510315+00:00",
+      "NumProgressed": 689236,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 54,
@@ -30100,7 +30105,7 @@
       "Name": "The dream begins",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 544494
+      "UsersEstimate": 544496
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -30188,7 +30193,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 248124
+      "UsersEstimate": 248125
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -30340,7 +30345,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 213662
+      "UsersEstimate": 213663
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -30460,7 +30465,7 @@
       "Name": "Credible",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 48246
+      "UsersEstimate": 48247
     },
     {
       "ID": "RP_DISTINGUISHED",
@@ -30531,15 +30536,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 689233,
+      "Progressed": 689236,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-12-15T23:57:11.8160512+00:00",
-  "LastChanged_Achievements": "2023-12-19T05:10:44.7296462+00:00",
+  "LastChanged_Achievements": "2023-12-19T06:10:00.751031+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:21.409328+00:00",
-  "LastUpdate_Ratings": "2023-12-19T04:59:35.2331623+00:00",
-  "LastUpdate_Achievements": "2023-12-19T05:10:44.7298124+00:00"
+  "LastUpdate_Ratings": "2023-12-19T05:58:52.118072+00:00",
+  "LastUpdate_Achievements": "2023-12-19T06:10:00.7512109+00:00"
 }

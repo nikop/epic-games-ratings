@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 232,
   "Ranking_EOS_Progress": 29,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-04-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-23T00:00:00+00:00",
@@ -2891,9 +2891,9 @@
       "Count": 150
     }
   ],
-  "EOS_Progressed": 671381,
+  "EOS_Progressed": 671383,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 2081,
+  "EOS_NewPlayers": 2074,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30696,6 +30696,11 @@
       "Time": "2023-12-19T05:10:42.538014+00:00",
       "NumProgressed": 671381,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-19T06:09:58.7248159+00:00",
+      "NumProgressed": 671383,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 52,
@@ -30827,7 +30832,7 @@
       "Name": "Toy Train",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 93993
+      "UsersEstimate": 93994
     },
     {
       "ID": "_01_21_TRACKS_1000",
@@ -31122,15 +31127,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 671381,
+      "Progressed": 671383,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-12-17T07:02:31.3935889+00:00",
-  "LastChanged_Achievements": "2023-12-19T05:10:42.5380135+00:00",
+  "LastChanged_Achievements": "2023-12-19T06:09:58.7248155+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:57:01.1134977+00:00",
-  "LastUpdate_Ratings": "2023-12-19T04:58:14.8959854+00:00",
-  "LastUpdate_Achievements": "2023-12-19T05:10:42.5381977+00:00"
+  "LastUpdate_Ratings": "2023-12-19T05:57:46.9245448+00:00",
+  "LastUpdate_Achievements": "2023-12-19T06:09:58.7249713+00:00"
 }

@@ -39,8 +39,8 @@ Rating: 3.56 (Ranked 1,061)
 | Check, Please! | 0.80% | ~15 |
 | Blacklight Down | 0.80% | ~15 |
 | Revelations | 0.70% | ~14 |
+| Block Party | 0.70% | ~14 |
 | Curious Finch | 0.70% | ~14 |
-| Block Party | 0.60% | ~12 |
 | Right This Way | 0.50% | ~10 |
 | Dexterity Save | 0.50% | ~10 |
 | Sisterhood | 0.40% | ~8 |

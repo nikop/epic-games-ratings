@@ -26,9 +26,9 @@
 | Violent solution | 9.00% | ~70 |
 | I leave no man behind | 7.00% | ~54 |
 | Innate curiosity | 7.00% | ~54 |
+| Strong objection | 6.00% | ~47 |
 | Ubiquitous holes | 5.00% | ~39 |
 | The Invincible | 5.00% | ~39 |
-| Strong objection | 5.00% | ~39 |
 | Got lost again | 4.00% | ~31 |
 | I leave no man behind (no exceptions) | 2.00% | ~16 |
 | Convoy list | 0.90% | ~7 |

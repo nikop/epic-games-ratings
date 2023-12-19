@@ -5,34 +5,34 @@ Rating: 4.54 (Ranked 532)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 5.00% | ~37,548 |
-| Break A Leg | 4.00% | ~30,039 |
-| Hotel California | 4.00% | ~30,039 |
-| Git Gutte! | 3.00% | ~22,529 |
-| Coup de Grâce | 3.00% | ~22,529 |
-| Hazardous Materials | 3.00% | ~22,529 |
-| Apex Predator | 3.00% | ~22,529 |
-| Personal Assistant Personally Assisted | 3.00% | ~22,529 |
-| One of Us | 3.00% | ~2,295 |
-| Whatever It Takes | 3.00% | ~2,295 |
-| Pork Chopped | 3.00% | ~2,295 |
-| Dr. Reed, I Presume? | 2.00% | ~15,019 |
-| Anger Management | 2.00% | ~15,019 |
-| Perks of the Job | 2.00% | ~15,019 |
-| Bookworm | 2.00% | ~15,019 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~15,019 |
-| But Doctor, I am Butcho | 2.00% | ~15,019 |
-| Slayer Squad | 2.00% | ~15,019 |
-| Can't Handle the Truth | 2.00% | ~15,019 |
-| Like Riding a Bike | 2.00% | ~15,019 |
-| Friends Like These | 2.00% | ~15,019 |
-| Zombologist | 2.00% | ~15,019 |
-| Ooh, Shiny! | 2.00% | ~15,019 |
-| A Patton Emerges | 2.00% | ~15,019 |
-| I Am the Resurrection | 2.00% | ~15,019 |
-| Stacking the Deck | 2.00% | ~15,019 |
-| Our True Nature | 2.00% | ~15,019 |
-| This is My Weapon | 2.00% | ~15,019 |
+| Welcome To Hell-A | 5.00% | ~37,551 |
+| Break A Leg | 4.00% | ~30,041 |
+| Hotel California | 4.00% | ~30,041 |
+| Git Gutte! | 3.00% | ~22,530 |
+| Coup de Grâce | 3.00% | ~22,530 |
+| Hazardous Materials | 3.00% | ~22,530 |
+| Apex Predator | 3.00% | ~22,530 |
+| Personal Assistant Personally Assisted | 3.00% | ~22,530 |
+| One of Us | 3.00% | ~2,297 |
+| Whatever It Takes | 3.00% | ~2,297 |
+| Pork Chopped | 3.00% | ~2,297 |
+| Dr. Reed, I Presume? | 2.00% | ~15,020 |
+| Anger Management | 2.00% | ~15,020 |
+| Perks of the Job | 2.00% | ~15,020 |
+| Bookworm | 2.00% | ~15,020 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~15,020 |
+| But Doctor, I am Butcho | 2.00% | ~15,020 |
+| Slayer Squad | 2.00% | ~15,020 |
+| Can't Handle the Truth | 2.00% | ~15,020 |
+| Like Riding a Bike | 2.00% | ~15,020 |
+| Friends Like These | 2.00% | ~15,020 |
+| Zombologist | 2.00% | ~15,020 |
+| Ooh, Shiny! | 2.00% | ~15,020 |
+| A Patton Emerges | 2.00% | ~15,020 |
+| I Am the Resurrection | 2.00% | ~15,020 |
+| Stacking the Deck | 2.00% | ~15,020 |
+| Our True Nature | 2.00% | ~15,020 |
+| This is My Weapon | 2.00% | ~15,020 |
 | Making Your Mark | 1.00% | ~7,510 |
 | Jumbo Keyring | 1.00% | ~7,510 |
 | Humanity Distilled | 1.00% | ~7,510 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 532)
 | Bucket List | 0.10% | ~751 |
 | Wilhelm | 0.10% | ~77 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 750,964 (Ranked 21)  
+Progressed: 751,013 (Ranked 21)  
 Completed: 2,487 (0.33%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 2,487 (0.33%) (Ranked 242)
 | 2023-12-16 | 744,879 | 2,483 |
 | 2023-12-17 | 748,324 | 2,488 |
 | 2023-12-18 | 750,555 | 2,489 |
-| 2023-12-19 | 750,964 | 2,487 |
+| 2023-12-19 | 751,013 | 2,487 |
 ## Awards
 Max (Great Boss Battles): 8,337  (Ranked 47)  
 Sum: 12,787 (Ranked 80)  

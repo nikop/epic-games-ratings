@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -93,9 +93,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5309,
+  "EOS_Progressed": 5314,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2904,
+  "EOS_NewPlayers": 2900,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1498,6 +1498,11 @@
       "Time": "2023-12-19T05:10:12.1158677+00:00",
       "NumProgressed": 5309,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T06:09:33.4239054+00:00",
+      "NumProgressed": 5314,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -1510,7 +1515,7 @@
       "Name": "Conspiracy",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     },
     {
       "ID": "03_TheStolenStar",
@@ -1540,9 +1545,9 @@
       "ID": "06_TheExpanseCalamity",
       "SetID": "37a94m8",
       "Name": "Expanse Calamity",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 21
     },
     {
       "ID": "07_TheGrandFinale",
@@ -1614,7 +1619,7 @@
       "Name": "Pentakill",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "16_TheRise",
@@ -1734,7 +1739,7 @@
       "Name": "Greatest Exploration",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "31_DontTouchThis",
@@ -1750,7 +1755,7 @@
       "Name": "Aviation Saviour",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "33_TzeentchCleaning",
@@ -1766,7 +1771,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -1790,7 +1795,7 @@
       "Name": "Silver-Tongued Diplomat",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "38_ThoseWhoAreAboutToDieSaluteYou",
@@ -1822,7 +1827,7 @@
       "Name": "Jungle Heat",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "42_TheIronJudgement",
@@ -1862,7 +1867,7 @@
       "Name": "A Spark",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "47_AFlame",
@@ -2029,7 +2034,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 5309,
+      "Progressed": 5314,
       "Completed": 0
     }
   ],
@@ -2037,8 +2042,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-19T01:47:20.7959917+00:00",
-  "LastChanged_Achievements": "2023-12-19T05:10:12.1158671+00:00",
+  "LastChanged_Achievements": "2023-12-19T06:09:33.4239049+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:14.7846288+00:00",
-  "LastUpdate_Ratings": "2023-12-19T05:01:21.6418501+00:00",
-  "LastUpdate_Achievements": "2023-12-19T05:10:12.1159233+00:00"
+  "LastUpdate_Ratings": "2023-12-19T06:00:19.8195641+00:00",
+  "LastUpdate_Achievements": "2023-12-19T06:09:33.4239559+00:00"
 }

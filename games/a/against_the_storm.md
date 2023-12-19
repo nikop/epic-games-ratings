@@ -6,9 +6,9 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Abandoned Settlement | 5.00% | ~931 |
-| Overgrown Library | 5.00% | ~931 |
-| Petrified Necropolis | 5.00% | ~931 |
+| Abandoned Settlement | 5.00% | ~932 |
+| Overgrown Library | 5.00% | ~932 |
+| Petrified Necropolis | 5.00% | ~932 |
 | Gathering Storm | 4.00% | ~745 |
 | First Real Expedition | 3.00% | ~559 |
 | The Marshlands | 3.00% | ~559 |
@@ -27,6 +27,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Homesick | 1.00% | ~186 |
 | Ruined Armory | 1.00% | ~186 |
 | Bandit Camp | 1.00% | ~186 |
+| Ancient Battleground | 1.00% | ~186 |
 | Levitating Monument | 1.00% | ~186 |
 | Monastery of the Holy Flame | 1.00% | ~186 |
 | Lost Colonies | 1.00% | ~186 |
@@ -35,7 +36,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | A Real Challenge | 1.00% | ~186 |
 | Trade Baron | 1.00% | ~186 |
 | Barren Lands | 0.90% | ~168 |
-| Ancient Battleground | 0.90% | ~168 |
 | Statue of the Forefathers | 0.90% | ~168 |
 | Sparkdew Crystals | 0.80% | ~149 |
 | Haunted Forest | 0.80% | ~149 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,629 (Ranked 147)  
+Progressed: 18,630 (Ranked 147)  
 Completed: 39 (0.21%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 39 (0.21%) (Ranked 266)
 | 2023-12-16 | 18,388 | 39 |
 | 2023-12-17 | 18,534 | 40 |
 | 2023-12-18 | 18,615 | 39 |
-| 2023-12-19 | 18,629 | 39 |
+| 2023-12-19 | 18,630 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 228)  
 Sum: 3,269 (Ranked 174)  

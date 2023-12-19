@@ -8,7 +8,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 8.00% | ~265 |
 | Lost and Found | 5.00% | ~166 |
-| This guy... again? | 4.00% | ~132 |
+| This guy... again? | 4.00% | ~133 |
 | This Belongs in a Museum | 3.00% | ~3,853 |
 | Not Today! | 3.00% | ~3,853 |
 | Creep and Sleep | 3.00% | ~3,853 |
@@ -17,8 +17,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Overdue Notice | 3.00% | ~3,853 |
 | Escape from the Black Hole | 3.00% | ~3,853 |
 | Autodidact | 3.00% | ~3,853 |
-| Ploughshares to Swords | 3.00% | ~99 |
-| Bloody Graduation | 3.00% | ~99 |
+| Ploughshares to Swords | 3.00% | ~100 |
+| Bloody Graduation | 3.00% | ~100 |
 | Don't Make Me Turn This Coach Around | 2.00% | ~2,569 |
 | Serenity Now! | 2.00% | ~2,569 |
 | It Rings a Bell | 2.00% | ~2,569 |
@@ -57,7 +57,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Ichthyophobic | 0.90% | ~1,156 |
 | No More Mouths to Feed | 0.80% | ~1,028 |
 | Hot Air | 0.80% | ~1,028 |
-| Slap on the Wrist | 0.80% | ~26 |
+| Slap on the Wrist | 0.80% | ~27 |
 | This Looks Familiar | 0.70% | ~899 |
 | Eyes Up | 0.70% | ~899 |
 | For Old Time' Sake | 0.70% | ~23 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~128 |
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,442 (Ranked 85)  
+Progressed: 128,448 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,10 +319,10 @@ Completed: 3 (0.00%) (Ranked 383)
 | 2023-12-16 | 127,826 | 3 |
 | 2023-12-17 | 128,143 | 3 |
 | 2023-12-18 | 128,398 | 3 |
-| 2023-12-19 | 128,442 | 3 |
+| 2023-12-19 | 128,448 | 3 |
 ## Awards
 Max (Character Customization): 7,784  (Ranked 50)  
-Sum: 20,761 (Ranked 58)  
+Sum: 20,766 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -335,7 +335,7 @@ Diff (max vs sum): -8
 | This game has Amazing Storytelling | 1,392 |
 | This game has Unique Visuals | 1,386 |
 | This game has Quickly Understood Controls | 1,356 |
-| This game has a Creative Community | 1,026 |
+| This game has a Creative Community | 1,031 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
 ## Ratings History
@@ -666,3 +666,4 @@ Diff (max vs sum): -8
 | 2023-12-16 | 4.68 | - | 7,744 | 20,595 |
 | 2023-12-17 | 4.68 | - | 7,763 | 20,673 |
 | 2023-12-18 | 4.68 | - | 7,784 | 20,761 |
+| 2023-12-19 | 4.68 | - | 7,784 | 20,766 |

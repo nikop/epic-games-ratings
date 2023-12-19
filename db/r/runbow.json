@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 252306,
+  "EOS_Progressed": 252307,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 218,
+  "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21667,6 +21667,11 @@
       "Time": "2023-12-19T05:10:26.0058257+00:00",
       "NumProgressed": 252306,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-19T06:09:44.9651389+00:00",
+      "NumProgressed": 252307,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -21854,7 +21859,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 133722
+      "UsersEstimate": 133723
     },
     {
       "ID": "indegestible",
@@ -21894,7 +21899,7 @@
       "Name": "Lazy Laser",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 20184
+      "UsersEstimate": 20185
     },
     {
       "ID": "lockupLockdown",
@@ -21918,7 +21923,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126153
+      "UsersEstimate": 126154
     },
     {
       "ID": "notScared",
@@ -21982,7 +21987,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55507
+      "UsersEstimate": 55508
     },
     {
       "ID": "thunderstruck",
@@ -22045,7 +22050,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 252306,
+      "Progressed": 252307,
       "Completed": 6
     }
   ],
@@ -22053,8 +22058,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-12-19T05:10:26.0058252+00:00",
+  "LastChanged_Achievements": "2023-12-19T06:09:44.9651386+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.4778344+00:00",
-  "LastUpdate_Ratings": "2023-12-19T04:59:03.2254982+00:00",
-  "LastUpdate_Achievements": "2023-12-19T05:10:26.0059541+00:00"
+  "LastUpdate_Ratings": "2023-12-19T05:58:25.4946462+00:00",
+  "LastUpdate_Achievements": "2023-12-19T06:09:44.9652619+00:00"
 }

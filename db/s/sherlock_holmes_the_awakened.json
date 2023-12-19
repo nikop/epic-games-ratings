@@ -139,9 +139,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1244,
+  "EOS_Progressed": 1245,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 2.73,
   "EosHistory": [
@@ -4304,6 +4304,11 @@
       "Time": "2023-12-19T05:06:40.2469519+00:00",
       "NumProgressed": 1244,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-19T06:05:51.1725006+00:00",
+      "NumProgressed": 1245,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 28,
@@ -4321,9 +4326,9 @@
       "ID": "MQ01_2",
       "SetID": "bbing49",
       "Name": "To Hell In A Handcart",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 759
+      "UsersEstimate": 772
     },
     {
       "ID": "MQ02_1",
@@ -4353,9 +4358,9 @@
       "ID": "MQ02_4",
       "SetID": "bbing49",
       "Name": "Whispers In The Dark",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 40,
-      "UsersEstimate": 647
+      "UsersEstimate": 635
     },
     {
       "ID": "MQ03_1",
@@ -4371,7 +4376,7 @@
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "MQ03_3",
@@ -4379,7 +4384,7 @@
       "Name": "History Check",
       "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "MQ03_4",
@@ -4435,7 +4440,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "MQ05_3",
@@ -4467,7 +4472,7 @@
       "Name": "Bookworm",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "MQ06_3",
@@ -4475,7 +4480,7 @@
       "Name": "Land, Ho!",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "MQ06_4",
@@ -4491,7 +4496,7 @@
       "Name": "Read It And Weep",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "MQ07_2",
@@ -4538,7 +4543,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1244,
+      "Progressed": 1245,
       "Completed": 34
     }
   ],
@@ -4546,8 +4551,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-18T11:03:40.7955298+00:00",
-  "LastChanged_Achievements": "2023-12-19T05:06:40.2469514+00:00",
+  "LastChanged_Achievements": "2023-12-19T06:05:51.1725002+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:14.2246919+00:00",
-  "LastUpdate_Ratings": "2023-12-19T05:03:27.2991351+00:00",
-  "LastUpdate_Achievements": "2023-12-19T05:06:40.2469846+00:00"
+  "LastUpdate_Ratings": "2023-12-19T06:03:09.1956081+00:00",
+  "LastUpdate_Achievements": "2023-12-19T06:05:51.1725313+00:00"
 }

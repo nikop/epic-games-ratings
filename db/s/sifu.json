@@ -8331,9 +8331,9 @@
       "Count": 433
     }
   ],
-  "EOS_Progressed": 735070,
+  "EOS_Progressed": 735118,
   "EOS_Completed": 12956,
-  "EOS_NewPlayers": 17093,
+  "EOS_NewPlayers": 17140,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.76,
   "EosHistory": [
@@ -29951,6 +29951,11 @@
       "Time": "2023-12-19T05:09:11.1060304+00:00",
       "NumProgressed": 735070,
       "NumCompleted": 12956
+    },
+    {
+      "Time": "2023-12-19T06:08:42.1184382+00:00",
+      "NumProgressed": 735118,
+      "NumCompleted": 12956
     }
   ],
   "TotalAchievements": 60,
@@ -29962,7 +29967,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22052
+      "UsersEstimate": 22054
     },
     {
       "ID": "02_Vengeance_H1",
@@ -29970,7 +29975,7 @@
       "Name": "The Assault",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14701
+      "UsersEstimate": 14702
     },
     {
       "ID": "03_Vengeance_H2",
@@ -30050,7 +30055,7 @@
       "Name": "Scareless",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4410
+      "UsersEstimate": 4411
     },
     {
       "ID": "13_LowAge",
@@ -30122,7 +30127,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 4410
+      "UsersEstimate": 4411
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -30138,7 +30143,7 @@
       "Name": "Life is your teacher",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14701
+      "UsersEstimate": 14702
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -30154,7 +30159,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5145
+      "UsersEstimate": 5146
     },
     {
       "ID": "26_ShrineSpirit",
@@ -30226,7 +30231,7 @@
       "Name": "Lightning Hands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14701
+      "UsersEstimate": 14702
     },
     {
       "ID": "35_WideStrike",
@@ -30234,7 +30239,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5145
+      "UsersEstimate": 5146
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -30298,7 +30303,7 @@
       "Name": "Project Arena",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -30441,21 +30446,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 44371,
+      "Progressed": 44419,
       "Completed": 10775
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 735070,
+      "Progressed": 735118,
       "Completed": 12956
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-19T04:03:02.1381497+00:00",
-  "LastChanged_Achievements": "2023-12-19T05:09:11.1060301+00:00",
+  "LastChanged_Achievements": "2023-12-19T06:08:42.1184373+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:50.1499922+00:00",
-  "LastUpdate_Ratings": "2023-12-19T05:03:16.7670894+00:00",
-  "LastUpdate_Achievements": "2023-12-19T05:09:11.10615+00:00"
+  "LastUpdate_Ratings": "2023-12-19T06:03:00.6098533+00:00",
+  "LastUpdate_Achievements": "2023-12-19T06:08:42.1185649+00:00"
 }

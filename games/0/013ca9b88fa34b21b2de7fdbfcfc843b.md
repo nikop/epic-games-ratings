@@ -18,10 +18,10 @@ Rating: 4.62 (Ranked 372)
 | Clear the Air | 0.40% | ~34 |
 | Search for the Hairy Grell | 0.40% | ~34 |
 | Lumberjack | 0.40% | ~34 |
+| Oui, Chef! | 0.40% | ~34 |
 | Exit Through The Gift Shop | 0.40% | ~5 |
 | Beach Comber | 0.30% | ~26 |
 | Higher Tax Bracket | 0.30% | ~26 |
-| Oui, Chef! | 0.30% | ~26 |
 | Azorian Anniversary | 0.30% | ~26 |
 | Skilled | 0.30% | ~26 |
 | Flaming Hot Completos | 0.20% | ~17 |

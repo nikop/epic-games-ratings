@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 114,
   "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T03:00:00+00:00",
@@ -2092,9 +2092,9 @@
       "ID": "LEVEL_006",
       "SetID": "7jk5g4e",
       "Name": "Market",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 95,
-      "UsersEstimate": 412
+      "UsersEstimate": 419
     },
     {
       "ID": "LEVEL_012",
@@ -2108,9 +2108,9 @@
       "ID": "LEVEL_017",
       "SetID": "7jk5g4e",
       "Name": "Temple",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 95,
-      "UsersEstimate": 140
+      "UsersEstimate": 146
     },
     {
       "ID": "LEVEL_019",
@@ -2163,8 +2163,8 @@
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-12-19T05:09:45.7190989+00:00",
+  "LastChanged_Achievements": "2023-12-19T06:09:11.1659243+00:00",
   "LastUpdate_AppInfo": "2023-12-19T04:57:12.4356092+00:00",
-  "LastUpdate_Ratings": "2023-12-19T04:59:54.4484865+00:00",
-  "LastUpdate_Achievements": "2023-12-19T05:09:45.719118+00:00"
+  "LastUpdate_Ratings": "2023-12-19T05:59:08.0454485+00:00",
+  "LastUpdate_Achievements": "2023-12-19T06:09:11.1659428+00:00"
 }

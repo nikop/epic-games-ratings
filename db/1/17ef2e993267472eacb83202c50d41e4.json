@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -113,9 +113,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8875,
+  "EOS_Progressed": 8877,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8988,6 +8988,11 @@
       "Time": "2023-12-19T03:10:33.8865302+00:00",
       "NumProgressed": 8875,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T06:10:04.2055443+00:00",
+      "NumProgressed": 8877,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -9040,7 +9045,7 @@
       "Name": "Upgraded Cybernetic Enhancement to Level 3",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "CreditsEarned50000",
@@ -9120,7 +9125,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2751
+      "UsersEstimate": 2752
     },
     {
       "ID": "GamesPlayed10",
@@ -9320,7 +9325,7 @@
       "Name": "Dealt 30000 Damage in a single match",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "MaxHealingDone30000",
@@ -9360,7 +9365,7 @@
       "Name": "Eliminated 10 Players in a single match",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "MaxTowersKilled3",
@@ -9528,7 +9533,7 @@
       "Name": "Purchased SuperCharge",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "ShotgunUpgraged1",
@@ -9544,7 +9549,7 @@
       "Name": "Upgraded the Sniper to Level 3",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "TGPurchased1",
@@ -9591,7 +9596,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8875,
+      "Progressed": 8877,
       "Completed": 1
     }
   ],
@@ -9599,8 +9604,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-12-18T09:02:43.8513268+00:00",
-  "LastChanged_Achievements": "2023-12-19T05:10:48.7344534+00:00",
+  "LastChanged_Achievements": "2023-12-19T06:10:04.205544+00:00",
   "LastUpdate_AppInfo": "2023-12-12T16:57:27.9940225+00:00",
-  "LastUpdate_Ratings": "2023-12-19T04:57:31.1574648+00:00",
-  "LastUpdate_Achievements": "2023-12-19T05:10:48.7345423+00:00"
+  "LastUpdate_Ratings": "2023-12-19T05:57:09.9267934+00:00",
+  "LastUpdate_Achievements": "2023-12-19T06:10:04.2056253+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 156,
-  "Ranking_EOS_Completed": 222,
+  "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2022-05-19T14:00:00+00:00",
@@ -257,10 +257,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15820,
-  "EOS_Completed": 69,
-  "EOS_NewPlayers": 1802,
-  "EOS_NewCompleters": 18,
+  "EOS_Progressed": 15822,
+  "EOS_Completed": 70,
+  "EOS_NewPlayers": 1799,
+  "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
     {
@@ -4892,6 +4892,11 @@
       "Time": "2023-12-19T05:07:09.3843435+00:00",
       "NumProgressed": 15820,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-19T06:06:15.7782378+00:00",
+      "NumProgressed": 15822,
+      "NumCompleted": 70
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -4912,7 +4917,7 @@
       "Name": "Beam Me Up Scotty",
       "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "LISTEN_TO_ALL_6_VOICEMAILS_1_4",
@@ -4952,7 +4957,7 @@
       "Name": "Rescuer",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1898
+      "UsersEstimate": 1899
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -4960,7 +4965,7 @@
       "Name": "Secrets Out",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "UNLOCK_ALL_4_DOORS_1_3",
@@ -4983,16 +4988,16 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 15820,
-      "Completed": 69
+      "Progressed": 15822,
+      "Completed": 70
     }
   ],
   "FirstSeen": "2023-10-19T17:59:40.5875906+00:00",
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2023-12-18T03:58:42.6359817+00:00",
-  "LastChanged_Achievements": "2023-12-19T05:07:09.384343+00:00",
+  "LastChanged_Achievements": "2023-12-19T06:06:15.7782373+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:09.5453569+00:00",
-  "LastUpdate_Ratings": "2023-12-19T04:59:31.9802914+00:00",
-  "LastUpdate_Achievements": "2023-12-19T05:07:09.3843734+00:00"
+  "LastUpdate_Ratings": "2023-12-19T05:58:49.4254174+00:00",
+  "LastUpdate_Achievements": "2023-12-19T06:06:15.7782657+00:00"
 }

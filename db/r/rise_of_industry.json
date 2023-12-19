@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2019-05-01T23:00:00+00:00",
@@ -306,9 +306,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 760375,
+  "EOS_Progressed": 760378,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1700,
+  "EOS_NewPlayers": 1698,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28221,6 +28221,11 @@
       "Time": "2023-12-19T05:08:29.2036406+00:00",
       "NumProgressed": 760375,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-19T06:08:06.6142281+00:00",
+      "NumProgressed": 760378,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -28256,7 +28261,7 @@
       "Name": "Penniless",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 45622
+      "UsersEstimate": 45623
     },
     {
       "ID": "ach_build_bridge",
@@ -28296,7 +28301,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 281339
+      "UsersEstimate": 281340
     },
     {
       "ID": "ach_demolish_trees",
@@ -28328,7 +28333,7 @@
       "Name": "Massive Gains",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 45622
+      "UsersEstimate": 45623
     },
     {
       "ID": "ach_max_truck_distance",
@@ -28360,7 +28365,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 364980
+      "UsersEstimate": 364981
     },
     {
       "ID": "ach_produced",
@@ -28440,14 +28445,14 @@
       "Name": "City Planner",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 144471
+      "UsersEstimate": 144472
     }
   ],
   "AchievementSets": [
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 760375,
+      "Progressed": 760378,
       "Completed": 4
     }
   ],
@@ -28455,8 +28460,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-12-01T16:00:20.573033+00:00",
-  "LastChanged_Achievements": "2023-12-19T05:08:29.20364+00:00",
+  "LastChanged_Achievements": "2023-12-19T06:08:06.6142274+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:28.6229748+00:00",
-  "LastUpdate_Ratings": "2023-12-19T04:58:03.5602664+00:00",
-  "LastUpdate_Achievements": "2023-12-19T05:08:29.2037992+00:00"
+  "LastUpdate_Ratings": "2023-12-19T05:57:36.8406314+00:00",
+  "LastUpdate_Achievements": "2023-12-19T06:08:06.6143791+00:00"
 }

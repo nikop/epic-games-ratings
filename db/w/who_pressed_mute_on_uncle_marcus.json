@@ -4,8 +4,8 @@
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
   "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 391,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 385,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
     "PcReleaseDate": "2022-03-18T05:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 254,
+  "EOS_Progressed": 255,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 10.63,
+  "EOS_Completed_Percentage": 10.59,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:58.284727+00:00",
@@ -630,6 +630,11 @@
       "Time": "2023-12-17T07:09:06.0667604+00:00",
       "NumProgressed": 254,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-12-19T06:09:33.9167965+00:00",
+      "NumProgressed": 255,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 17,
@@ -655,9 +660,9 @@
       "ID": "blow",
       "SetID": "202dmm8",
       "Name": "Blow",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 94
+      "UsersEstimate": 92
     },
     {
       "ID": "brown_nosing",
@@ -705,7 +710,7 @@
       "Name": "Job one. DONE!",
       "Percentage": 62,
       "XP": 100,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "just_like_me",
@@ -713,7 +718,7 @@
       "Name": "Just like me",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "making_a_murderer",
@@ -737,7 +742,7 @@
       "Name": "Sorry, kiddo",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "the_truth",
@@ -776,7 +781,7 @@
     {
       "ID": "202dmm8",
       "IsBase": true,
-      "Progressed": 254,
+      "Progressed": 255,
       "Completed": 27
     }
   ],
@@ -784,8 +789,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-12-19T05:10:12.6733077+00:00",
+  "LastChanged_Achievements": "2023-12-19T06:09:33.916796+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:24.8474883+00:00",
-  "LastUpdate_Ratings": "2023-12-19T04:59:45.7236686+00:00",
-  "LastUpdate_Achievements": "2023-12-19T05:10:12.6733206+00:00"
+  "LastUpdate_Ratings": "2023-12-19T05:59:00.6161316+00:00",
+  "LastUpdate_Achievements": "2023-12-19T06:09:33.9168094+00:00"
 }

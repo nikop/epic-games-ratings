@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -2943,9 +2943,9 @@
       "ID": "Achievement_011",
       "SetID": "6b34g18",
       "Name": "Block Party",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "Achievement_012",
@@ -3408,8 +3408,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-18T11:01:29.0788489+00:00",
-  "LastChanged_Achievements": "2023-12-19T05:08:40.0622575+00:00",
+  "LastChanged_Achievements": "2023-12-19T06:08:16.0045909+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:02.9619993+00:00",
-  "LastUpdate_Ratings": "2023-12-19T05:01:35.1128675+00:00",
-  "LastUpdate_Achievements": "2023-12-19T05:08:40.0623244+00:00"
+  "LastUpdate_Ratings": "2023-12-19T06:00:30.8296834+00:00",
+  "LastUpdate_Achievements": "2023-12-19T06:08:16.0046475+00:00"
 }

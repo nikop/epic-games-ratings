@@ -966,9 +966,9 @@
       "ID": "TINGWD_HEADSHOT",
       "SetID": "c0imaa6",
       "Name": "Headshot",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 37
     },
     {
       "ID": "TINGWD_HONEY",
@@ -1014,9 +1014,9 @@
       "ID": "TINGWD_PUNCHMAN",
       "SetID": "c0imaa6",
       "Name": "One Punch Man",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "TINGWD_RADAR",
@@ -1093,8 +1093,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-12-19T05:04:55.9322652+00:00",
+  "LastChanged_Achievements": "2023-12-19T06:04:23.3301084+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:02.2829018+00:00",
-  "LastUpdate_Ratings": "2023-12-19T05:01:23.0838934+00:00",
-  "LastUpdate_Achievements": "2023-12-19T05:04:55.9322926+00:00"
+  "LastUpdate_Ratings": "2023-12-19T06:00:21.0996805+00:00",
+  "LastUpdate_Achievements": "2023-12-19T06:04:23.3301341+00:00"
 }

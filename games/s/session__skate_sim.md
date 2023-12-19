@@ -9,9 +9,9 @@ Number of Ratings: 111  (23.09.2022)
 | You're free now! | 61.00% | ~1,993 |
 | Keeping it classy | 28.00% | ~915 |
 | Welcome to the family | 22.00% | ~719 |
-| The finer things in life | 20.00% | ~653 |
-| Backpacker | 14.00% | ~457 |
-| Go with the Flow | 14.00% | ~457 |
+| The finer things in life | 20.00% | ~654 |
+| Backpacker | 14.00% | ~458 |
+| Go with the Flow | 14.00% | ~458 |
 | The flip trick crown jewel | 11.00% | ~359 |
 | Plastic Surgeon | 10.00% | ~327 |
 | The hard way | 10.00% | ~327 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,267 (Ranked 216)  
+Progressed: 3,268 (Ranked 216)  
 Completed: 2 (0.06%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,10 +273,10 @@ Completed: 2 (0.06%) (Ranked 324)
 | 2023-12-16 | 3,212 | 2 |
 | 2023-12-17 | 3,239 | 2 |
 | 2023-12-18 | 3,263 | 2 |
-| 2023-12-19 | 3,267 | 2 |
+| 2023-12-19 | 3,268 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 59  (Ranked 420)  
-Sum: 567 (Ranked 321)  
+Sum: 568 (Ranked 321)  
 Diff (max vs sum): 99  
 | Award | Count |
 | ----- | ----- |
@@ -291,7 +291,7 @@ Diff (max vs sum): 99
 | This game is Relaxing | 45 |
 | This game has Quickly Understood Controls | 39 |
 | This game is Educational | 39 |
-| This game has Challenging Combat | 31 |
+| This game has Challenging Combat | 32 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -480,3 +480,4 @@ Diff (max vs sum): 99
 | 2023-12-15 | 4.69 | - | 59 | 564 |
 | 2023-12-16 | 4.69 | - | 59 | 566 |
 | 2023-12-17 | 4.69 | - | 59 | 567 |
+| 2023-12-19 | 4.69 | - | 59 | 568 |

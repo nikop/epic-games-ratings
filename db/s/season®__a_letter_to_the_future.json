@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1541,
+  "EOS_Progressed": 1542,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 217,
+  "EOS_NewPlayers": 218,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 4.09,
   "EosHistory": [
@@ -3249,6 +3249,11 @@
       "Time": "2023-12-19T05:10:22.4591592+00:00",
       "NumProgressed": 1541,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-12-19T06:09:41.9432984+00:00",
+      "NumProgressed": 1542,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 16,
@@ -3284,7 +3289,7 @@
       "Name": "Emotional Baggage Handler",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "ACH_GOODBYETIENGVALLEY",
@@ -3316,7 +3321,7 @@
       "Name": "Home Leaver",
       "Percentage": 81,
       "XP": 40,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -3324,7 +3329,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 81,
       "XP": 40,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -3387,7 +3392,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1541,
+      "Progressed": 1542,
       "Completed": 63
     }
   ],
@@ -3395,8 +3400,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-12-19T05:10:22.4591587+00:00",
+  "LastChanged_Achievements": "2023-12-19T06:09:41.9432979+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:50.4706145+00:00",
-  "LastUpdate_Ratings": "2023-12-19T05:00:59.4934347+00:00",
-  "LastUpdate_Achievements": "2023-12-19T05:10:22.4591816+00:00"
+  "LastUpdate_Ratings": "2023-12-19T06:00:01.0700503+00:00",
+  "LastUpdate_Achievements": "2023-12-19T06:09:41.9433213+00:00"
 }

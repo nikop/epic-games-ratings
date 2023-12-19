@@ -4,7 +4,7 @@
   "ProductSlug": "chuchel-203808",
   "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 171,
+  "EOS_Progressed": 172,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -559,6 +559,11 @@
       "Time": "2023-12-18T21:04:58.3390693+00:00",
       "NumProgressed": 171,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T06:04:43.2870315+00:00",
+      "NumProgressed": 172,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -577,9 +582,9 @@
       "ID": "ach2",
       "SetID": "796kfpa",
       "Name": "Blabber",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 145,
-      "UsersEstimate": 75
+      "UsersEstimate": 77
     },
     {
       "ID": "ach3",
@@ -601,9 +606,9 @@
       "ID": "ach5",
       "SetID": "796kfpa",
       "Name": "Cloudbuster",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 140,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "ach6",
@@ -626,14 +631,14 @@
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 171,
+      "Progressed": 172,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2023-12-19T05:05:19.8121493+00:00",
+  "LastChanged_Achievements": "2023-12-19T06:04:43.287031+00:00",
   "LastUpdate_AppInfo": "2023-12-13T18:57:12.2683005+00:00",
-  "LastUpdate_Ratings": "2023-12-19T04:59:15.1826678+00:00",
-  "LastUpdate_Achievements": "2023-12-19T05:05:19.8121591+00:00"
+  "LastUpdate_Ratings": "2023-12-19T05:58:34.9151728+00:00",
+  "LastUpdate_Achievements": "2023-12-19T06:04:43.28704+00:00"
 }

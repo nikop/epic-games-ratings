@@ -22,14 +22,14 @@ Rating: 4.42 (Ranked 721)
 | Producer | 51.00% | ~1,248 |
 | Apprentice | 42.00% | ~1,028 |
 | Bridge Builder | 42.00% | ~1,028 |
+| Going once, going twice, sold | 36.00% | ~881 |
 | Access granted | 35.00% | ~857 |
-| Going once, going twice, sold | 35.00% | ~857 |
 | Bull and bear | 34.00% | ~832 |
 | Stoker | 33.00% | ~808 |
 | Full Steam ahead | 32.00% | ~783 |
-| All mine | 30.00% | ~734 |
+| All mine | 31.00% | ~759 |
+| Financial Shark | 31.00% | ~759 |
 | Mole | 30.00% | ~734 |
-| Financial Shark | 30.00% | ~734 |
 | Socializer | 30.00% | ~734 |
 | Country Life | 28.00% | ~685 |
 | General Manager | 27.00% | ~661 |

@@ -3,12 +3,12 @@
   "Name": "Bridge Constructor: The Walking Dead",
   "ProductSlug": "bridge-constructor-the-walking-dead",
   "Ranking_Rating": 1027,
-  "Ranking_Popularity": 505,
-  "Ranking_PopularitySum": 522,
+  "Ranking_Popularity": 506,
+  "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 809,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 550,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2020-11-19T16:00:00+00:00",
     "PcReleaseDate": "2020-11-19T16:00:00+00:00",
@@ -368,6 +368,6 @@
   "FirstSeen": "2022-07-22T20:28:51.0308349+00:00",
   "LastChanged": "2023-12-13T16:58:43.5747408+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:09.1125061+00:00",
-  "LastUpdate_Ratings": "2023-12-19T04:58:09.2890757+00:00",
-  "LastUpdate_Achievements": "2023-12-19T05:04:14.1652425+00:00"
+  "LastUpdate_Ratings": "2023-12-19T05:57:41.4654839+00:00",
+  "LastUpdate_Achievements": "2023-12-19T06:03:48.5752279+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "rescue-party-live",
   "Ranking_EOS_Progress": 387,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 391,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 385,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-01-13T16:00:00+00:00",
     "PcReleaseDate": "2022-01-13T16:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 248,
+  "EOS_Progressed": 249,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.82,
+  "EOS_Completed_Percentage": 2.81,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:37.3014297+00:00",
@@ -439,6 +439,11 @@
       "Time": "2023-12-19T02:27:58.8792443+00:00",
       "NumProgressed": 248,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-19T06:04:52.6168647+00:00",
+      "NumProgressed": 249,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 18,
@@ -456,9 +461,9 @@
       "ID": "ACH_DAWN_OF_VICTORY",
       "SetID": "1p69hf1",
       "Name": "Dawn of Victory",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_FOREIGN_FRIENDS",
@@ -498,7 +503,7 @@
       "Name": "Life matters",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACH_LIGHT",
@@ -586,14 +591,14 @@
       "Name": "ASAP",
       "Percentage": 98,
       "XP": 50,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     }
   ],
   "AchievementSets": [
     {
       "ID": "1p69hf1",
       "IsBase": true,
-      "Progressed": 248,
+      "Progressed": 249,
       "Completed": 7
     }
   ],
@@ -601,8 +606,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.1285386+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.3014308+00:00",
   "LastChanged": "2023-03-31T05:58:01.1285387+00:00",
-  "LastChanged_Achievements": "2023-12-19T05:05:30.8778659+00:00",
+  "LastChanged_Achievements": "2023-12-19T06:04:52.6168642+00:00",
   "LastUpdate_AppInfo": "2023-12-16T16:57:01.0783511+00:00",
-  "LastUpdate_Ratings": "2023-12-19T05:00:00.9310704+00:00",
-  "LastUpdate_Achievements": "2023-12-19T05:05:30.877879+00:00"
+  "LastUpdate_Ratings": "2023-12-19T05:59:13.1782664+00:00",
+  "LastUpdate_Achievements": "2023-12-19T06:04:52.6168766+00:00"
 }

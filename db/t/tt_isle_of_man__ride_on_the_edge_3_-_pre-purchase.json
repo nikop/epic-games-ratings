@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 289,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -1193,9 +1193,9 @@
       "ID": "ACHIEVEMENT_29",
       "SetID": "gagif7",
       "Name": "You Get An Upgrade, You Get An Upgrade!",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -1288,8 +1288,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-12-19T05:05:00.9348828+00:00",
+  "LastChanged_Achievements": "2023-12-19T06:04:27.5082919+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:23.9007171+00:00",
-  "LastUpdate_Ratings": "2023-12-19T04:59:44.8423113+00:00",
-  "LastUpdate_Achievements": "2023-12-19T05:05:00.9349137+00:00"
+  "LastUpdate_Ratings": "2023-12-19T05:59:00.0247961+00:00",
+  "LastUpdate_Achievements": "2023-12-19T06:04:27.5083492+00:00"
 }

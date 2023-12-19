@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 471,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
     "PcReleaseDate": "2022-10-24T16:00:00+00:00",
@@ -738,9 +738,9 @@
       "ID": "zn1",
       "SetID": "b1ggf28",
       "Name": "Snowstorm",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "zn2",
@@ -769,8 +769,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-19T05:06:37.3715895+00:00",
+  "LastChanged_Achievements": "2023-12-19T06:05:48.7329475+00:00",
   "LastUpdate_AppInfo": "2023-12-13T03:56:57.6568972+00:00",
-  "LastUpdate_Ratings": "2023-12-19T05:03:08.6390118+00:00",
-  "LastUpdate_Achievements": "2023-12-19T05:06:37.3716343+00:00"
+  "LastUpdate_Ratings": "2023-12-19T06:02:54.0517709+00:00",
+  "LastUpdate_Achievements": "2023-12-19T06:05:48.7329785+00:00"
 }
