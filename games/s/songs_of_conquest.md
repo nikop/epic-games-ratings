@@ -28,10 +28,10 @@ Number of Ratings: 292  (23.09.2022)
 | Pyrrhic Victory | 2.00% | ~11 |
 | Versatile Wielder | 1.00% | ~6 |
 | Infernal Influence | 1.00% | ~6 |
+| From the Ashes | 1.00% | ~6 |
 | Such A Fungi | 1.00% | ~6 |
 | Ultra Kill | 1.00% | ~6 |
 | Grand Master | 1.00% | ~6 |
-| From the Ashes | 0.90% | ~5 |
 | Together For Her | 0.70% | ~4 |
 | Get Over Here! | 0.70% | ~4 |
 | Death To Diplomacy | 0.50% | ~3 |

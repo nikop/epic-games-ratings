@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 64.00% | ~497 |
-| The Teleprobe | 51.00% | ~396 |
-| The City | 46.00% | ~357 |
-| The field base | 42.00% | ~326 |
-| Survivors | 35.00% | ~272 |
-| The Alliance | 32.00% | ~249 |
-| The Condor | 32.00% | ~249 |
-| The End | 32.00% | ~249 |
-| The Necroevolution | 26.00% | ~202 |
-| Krauta is alive | 25.00% | ~194 |
-| Peacemaker | 21.00% | ~163 |
+| The Camp | 64.00% | ~499 |
+| The Teleprobe | 51.00% | ~398 |
+| The City | 46.00% | ~359 |
+| The field base | 42.00% | ~328 |
+| Survivors | 35.00% | ~273 |
+| The Alliance | 32.00% | ~250 |
+| The Condor | 32.00% | ~250 |
+| The End | 32.00% | ~250 |
+| The Necroevolution | 26.00% | ~203 |
+| Krauta is alive | 25.00% | ~195 |
+| Peacemaker | 21.00% | ~164 |
 | Volcanologist | 19.00% | ~148 |
 | On her own | 18.00% | ~140 |
-| Evacuation | 17.00% | ~132 |
-| Beyond divisions | 17.00% | ~132 |
-| Fierce fight | 16.00% | ~124 |
+| Evacuation | 17.00% | ~133 |
+| Beyond divisions | 17.00% | ~133 |
+| Fierce fight | 16.00% | ~125 |
 | Flying Objects Operator | 15.00% | ~117 |
-| I remember everything! | 12.00% | ~93 |
-| Another giant | 11.00% | ~85 |
+| I remember everything! | 12.00% | ~94 |
+| Another giant | 11.00% | ~86 |
 | Violent solution | 9.00% | ~70 |
-| I leave no man behind | 7.00% | ~54 |
-| Innate curiosity | 7.00% | ~54 |
+| I leave no man behind | 7.00% | ~55 |
+| Innate curiosity | 7.00% | ~55 |
 | Strong objection | 6.00% | ~47 |
 | Ubiquitous holes | 5.00% | ~39 |
 | The Invincible | 5.00% | ~39 |
@@ -34,7 +34,7 @@
 | Convoy list | 0.90% | ~7 |
 | No more mistakes | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 777 (Ranked 292)  
+Progressed: 780 (Ranked 292)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,4 +78,4 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-16 | 700 | 0 |
 | 2023-12-17 | 741 | 0 |
 | 2023-12-18 | 771 | 0 |
-| 2023-12-19 | 777 | 0 |
+| 2023-12-19 | 780 | 0 |

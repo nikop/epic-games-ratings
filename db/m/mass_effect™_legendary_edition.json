@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2357,
+  "EOS_Progressed": 2358,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 780,
+  "EOS_NewPlayers": 781,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -5328,6 +5328,11 @@
       "Time": "2023-12-19T07:09:46.4514818+00:00",
       "NumProgressed": 2357,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-19T08:09:17.6256758+00:00",
+      "NumProgressed": 2358,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-20T19:07:08.0577567+00:00",
@@ -5340,7 +5345,7 @@
       "Name": "Medal of Honor",
       "Percentage": 39,
       "XP": 125,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "achievement_10",
@@ -5412,7 +5417,7 @@
       "Name": "Eye of the Hurricane",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "achievement_108",
@@ -5492,7 +5497,7 @@
       "Name": "The One and Only",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_117",
@@ -5532,15 +5537,15 @@
       "Name": "Paramour I",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "achievement_121",
       "SetID": "d252ncf",
       "Name": "Paramour II",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 401
+      "UsersEstimate": 377
     },
     {
       "ID": "achievement_122",
@@ -5652,7 +5657,7 @@
       "Name": "Medal of Heroism",
       "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "achievement_20",
@@ -5676,7 +5681,7 @@
       "Name": "Medal of Exploration II",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "achievement_23",
@@ -5684,7 +5689,7 @@
       "Name": "Medal of Exploration III",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "achievement_24",
@@ -5740,7 +5745,7 @@
       "Name": "Distinguished Service Medal",
       "Percentage": 91,
       "XP": 25,
-      "UsersEstimate": 2145
+      "UsersEstimate": 2146
     },
     {
       "ID": "achievement_30",
@@ -5756,7 +5761,7 @@
       "Name": "Spectre Inductee",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1626
+      "UsersEstimate": 1627
     },
     {
       "ID": "achievement_32",
@@ -5772,7 +5777,7 @@
       "Name": "Search and Rescue",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 1249
+      "UsersEstimate": 1250
     },
     {
       "ID": "achievement_34",
@@ -5780,7 +5785,7 @@
       "Name": "Colonial Savior",
       "Percentage": 34,
       "XP": 75,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "achievement_35",
@@ -5828,7 +5833,7 @@
       "Name": "Council Legion of Merit",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "achievement_40",
@@ -5884,7 +5889,7 @@
       "Name": "The Convict",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "achievement_47",
@@ -5916,7 +5921,7 @@
       "Name": "Honorarium of Corporate Service",
       "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "achievement_50",
@@ -5932,7 +5937,7 @@
       "Name": "A House Divided",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "achievement_52",
@@ -6042,9 +6047,9 @@
       "ID": "achievement_64",
       "SetID": "d252ncf",
       "Name": "Merciless",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 731
+      "UsersEstimate": 755
     },
     {
       "ID": "achievement_65",
@@ -6108,7 +6113,7 @@
       "Name": "Scientist",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "achievement_72",
@@ -6132,7 +6137,7 @@
       "Name": "Power Full",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "achievement_75",
@@ -6148,7 +6153,7 @@
       "Name": "Broke, Blind, and Bedlam",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "achievement_77",
@@ -6172,7 +6177,7 @@
       "Name": "Driven",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "achievement_8",
@@ -6204,7 +6209,7 @@
       "Name": "World Shaker",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "achievement_83",
@@ -6300,7 +6305,7 @@
       "Name": "Liberator",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "achievement_94",
@@ -6332,7 +6337,7 @@
       "Name": "Shopaholic",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "achievement_98",
@@ -6355,19 +6360,19 @@
     {
       "ID": "b9pe172",
       "IsBase": true,
-      "Progressed": 2357,
+      "Progressed": 2358,
       "Completed": 7
     },
     {
       "ID": "d252ncf",
       "IsBase": false,
-      "Progressed": 2357,
+      "Progressed": 2358,
       "Completed": 6
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-19T07:09:46.4514815+00:00",
+  "LastChanged_Achievements": "2023-12-19T08:09:17.6256753+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:58.4660143+00:00",
-  "LastUpdate_Ratings": "2023-12-19T07:03:08.7405229+00:00",
-  "LastUpdate_Achievements": "2023-12-19T07:09:46.4516355+00:00"
+  "LastUpdate_Ratings": "2023-12-19T08:02:53.8280145+00:00",
+  "LastUpdate_Achievements": "2023-12-19T08:09:17.6258341+00:00"
 }

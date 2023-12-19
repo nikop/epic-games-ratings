@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 460,
+  "EOS_Progressed": 461,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1439,6 +1439,11 @@
       "Time": "2023-12-18T21:06:06.3035237+00:00",
       "NumProgressed": 460,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T08:05:02.7231139+00:00",
+      "NumProgressed": 461,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -1491,7 +1496,7 @@
       "Name": "Baby\u0027s On Fire",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "9",
@@ -1513,9 +1518,9 @@
       "ID": "REMAKE_002",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s First...",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 345
+      "UsersEstimate": 341
     },
     {
       "ID": "REMAKE_004",
@@ -1523,7 +1528,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "Remake_005",
@@ -1674,14 +1679,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 460,
+      "Progressed": 461,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-19T07:05:31.8937691+00:00",
+  "LastChanged_Achievements": "2023-12-19T08:05:02.7231134+00:00",
   "LastUpdate_AppInfo": "2023-12-19T01:44:23.8086343+00:00",
-  "LastUpdate_Ratings": "2023-12-19T06:57:51.1710412+00:00",
-  "LastUpdate_Achievements": "2023-12-19T07:05:31.8937977+00:00"
+  "LastUpdate_Ratings": "2023-12-19T07:57:43.3784297+00:00",
+  "LastUpdate_Achievements": "2023-12-19T08:05:02.7231371+00:00"
 }

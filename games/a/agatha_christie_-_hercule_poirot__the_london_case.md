@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marc Allard | 73.00% | ~36 |
-| Little ideas | 67.00% | ~33 |
-| The Ship | 61.00% | ~30 |
-| Seeking the truth | 53.00% | ~26 |
-| An old friend | 51.00% | ~25 |
-| The Gala | 49.00% | ~24 |
-| A curious gathering | 49.00% | ~24 |
-| Little grey cells | 47.00% | ~23 |
-| Impossible is possible | 47.00% | ~23 |
-| The Missing Magdalene | 47.00% | ~23 |
-| Arthur Hastings | 47.00% | ~23 |
-| Everything matters | 43.00% | ~21 |
-| An expert mediator | 41.00% | ~20 |
-| DI Hardwicke | 41.00% | ~20 |
-| Order and method | 39.00% | ~19 |
-| Betty Allen | 37.00% | ~18 |
-| The Investigation Begins | 37.00% | ~18 |
-| Ms. Camilla B. Culsham | 33.00% | ~16 |
-| Irene Court-Smyth | 33.00% | ~16 |
-| An odd series of events | 31.00% | ~15 |
-| The Apartment | 31.00% | ~15 |
-| Nathaniel Dryden | 29.00% | ~14 |
-| Well-acquainted | 27.00% | ~13 |
-| Truth from within | 27.00% | ~13 |
-| A rude awakening | 27.00% | ~13 |
-| Anastasia Babanin | 27.00% | ~13 |
-| Zakariya Demir | 27.00% | ~13 |
-| Bartholomew | 27.00% | ~13 |
-| The Scheme | 27.00% | ~13 |
+| Marc Allard | 74.00% | ~37 |
+| Little ideas | 68.00% | ~34 |
+| The Ship | 62.00% | ~31 |
+| Seeking the truth | 54.00% | ~27 |
+| An old friend | 52.00% | ~26 |
+| The Gala | 50.00% | ~25 |
+| A curious gathering | 50.00% | ~25 |
+| Little grey cells | 48.00% | ~24 |
+| Impossible is possible | 48.00% | ~24 |
+| The Missing Magdalene | 48.00% | ~24 |
+| Arthur Hastings | 48.00% | ~24 |
+| Everything matters | 42.00% | ~21 |
+| An expert mediator | 40.00% | ~20 |
+| DI Hardwicke | 40.00% | ~20 |
+| Order and method | 38.00% | ~19 |
+| Betty Allen | 36.00% | ~18 |
+| The Investigation Begins | 36.00% | ~18 |
+| Ms. Camilla B. Culsham | 32.00% | ~16 |
+| Irene Court-Smyth | 32.00% | ~16 |
+| An odd series of events | 30.00% | ~15 |
+| The Apartment | 30.00% | ~15 |
+| Nathaniel Dryden | 28.00% | ~14 |
+| Well-acquainted | 26.00% | ~13 |
+| Truth from within | 26.00% | ~13 |
+| A rude awakening | 26.00% | ~13 |
+| Anastasia Babanin | 26.00% | ~13 |
+| Zakariya Demir | 26.00% | ~13 |
+| Bartholomew | 26.00% | ~13 |
+| The Scheme | 26.00% | ~13 |
 | A curious phrase | 22.00% | ~11 |
 | Evelyn Lakshmi Warbeck | 22.00% | ~11 |
 | The Suspects | 22.00% | ~11 |
@@ -51,8 +51,8 @@
 | A true performance | 14.00% | ~7 |
 | Perkins | 8.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49 (Ranked 523)  
-Completed: 2 (4.08%) (Ranked 91)  
+Progressed: 50 (Ranked 522)  
+Completed: 2 (4.00%) (Ranked 93)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -95,4 +95,4 @@ Completed: 2 (4.08%) (Ranked 91)
 | 2023-12-16 | 45 | 1 |
 | 2023-12-17 | 46 | 1 |
 | 2023-12-18 | 47 | 2 |
-| 2023-12-19 | 49 | 2 |
+| 2023-12-19 | 50 | 2 |

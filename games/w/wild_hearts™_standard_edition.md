@@ -4,38 +4,38 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Land of the Rising Sun | 100.00% | ~661 |
-| Hidden History | 71.00% | ~469 |
+| Land of the Rising Sun | 100.00% | ~662 |
+| Hidden History | 71.00% | ~470 |
 | Commencing of Quests | 62.00% | ~410 |
-| Budding Conjuror | 61.00% | ~403 |
-| Man-Machine Master | 50.00% | ~330 |
+| Budding Conjuror | 61.00% | ~404 |
+| Man-Machine Master | 50.00% | ~331 |
 | Mountain Splitter | 49.00% | ~324 |
-| Subsistence Skills | 48.00% | ~317 |
-| Charmed by the Hunt | 48.00% | ~317 |
+| Subsistence Skills | 48.00% | ~318 |
+| Charmed by the Hunt | 48.00% | ~318 |
 | Memory Rouser | 47.00% | ~311 |
-| Fusion Conjuror | 46.00% | ~304 |
+| Fusion Conjuror | 46.00% | ~305 |
 | Kemono Hunter | 42.00% | ~278 |
 | Helpful Heart | 41.00% | ~271 |
 | Flawless Crystal | 39.00% | ~258 |
-| Expert Conjuror | 38.00% | ~251 |
+| Expert Conjuror | 37.00% | ~245 |
 | Bonds of Enmity | 36.00% | ~238 |
-| Distance Devourer | 35.00% | ~231 |
+| Distance Devourer | 35.00% | ~232 |
 | Master of the Skies | 33.00% | ~218 |
 | Counter Specialist | 33.00% | ~218 |
 | Axer of Auspice | 29.00% | ~192 |
 | Kemono at Heart | 28.00% | ~185 |
-| Mighty Marmelizer | 27.00% | ~178 |
-| Fair Means or Foul | 27.00% | ~178 |
-| Single Minded | 25.00% | ~165 |
-| Snare Specialist | 25.00% | ~165 |
-| Artful Assister | 25.00% | ~165 |
+| Mighty Marmelizer | 27.00% | ~179 |
+| Fair Means or Foul | 27.00% | ~179 |
+| Single Minded | 25.00% | ~166 |
+| Snare Specialist | 25.00% | ~166 |
+| Artful Assister | 25.00% | ~166 |
 | Karakuri Trail | 23.00% | ~152 |
-| Team Hunter | 22.00% | ~145 |
+| Team Hunter | 22.00% | ~146 |
 | Reincarnation Cycle Stopper | 21.00% | ~139 |
 | Karakuri Isle | 20.00% | ~132 |
-| Left Arm Leverager | 17.00% | ~112 |
-| Unrivaled in Arms | 17.00% | ~112 |
-| Threaded Harmony | 17.00% | ~112 |
+| Left Arm Leverager | 17.00% | ~113 |
+| Unrivaled in Arms | 17.00% | ~113 |
+| Threaded Harmony | 17.00% | ~113 |
 | Style Seeker | 16.00% | ~106 |
 | Human Believer | 16.00% | ~106 |
 | Karakuri Minato | 16.00% | ~106 |
@@ -53,7 +53,7 @@
 | Bewitched by Bathing | 6.00% | ~40 |
 | Tsukumo Whisperer | 4.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 661 (Ranked 303)  
+Progressed: 662 (Ranked 303)  
 Completed: 8 (1.21%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,4 +148,4 @@ Completed: 8 (1.21%) (Ranked 157)
 | 2023-12-16 | 552 | 8 |
 | 2023-12-17 | 613 | 8 |
 | 2023-12-18 | 649 | 8 |
-| 2023-12-19 | 661 | 8 |
+| 2023-12-19 | 662 | 8 |

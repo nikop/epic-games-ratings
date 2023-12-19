@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 661,
+  "EOS_Progressed": 662,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 279,
+  "EOS_NewPlayers": 280,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.21,
   "EosHistory": [
@@ -2368,6 +2368,11 @@
       "Time": "2023-12-19T07:08:47.5320389+00:00",
       "NumProgressed": 661,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-19T08:08:24.830717+00:00",
+      "NumProgressed": 662,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -2380,7 +2385,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "achievement_10",
@@ -2420,7 +2425,7 @@
       "Name": "Fusion Conjuror",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "achievement_15",
@@ -2436,7 +2441,7 @@
       "Name": "Distance Devourer",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "achievement_17",
@@ -2452,7 +2457,7 @@
       "Name": "Man-Machine Master",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "achievement_19",
@@ -2476,7 +2481,7 @@
       "Name": "Subsistence Skills",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "achievement_21",
@@ -2484,7 +2489,7 @@
       "Name": "Left Arm Leverager",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "achievement_22",
@@ -2508,7 +2513,7 @@
       "Name": "Single Minded",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "achievement_25",
@@ -2532,7 +2537,7 @@
       "Name": "Mighty Marmelizer",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "achievement_28",
@@ -2548,7 +2553,7 @@
       "Name": "Fair Means or Foul",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "achievement_3",
@@ -2572,7 +2577,7 @@
       "Name": "Snare Specialist",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "achievement_32",
@@ -2604,7 +2609,7 @@
       "Name": "Unrivaled in Arms",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "achievement_36",
@@ -2620,7 +2625,7 @@
       "Name": "Hidden History",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "achievement_38",
@@ -2676,7 +2681,7 @@
       "Name": "Team Hunter",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "achievement_44",
@@ -2684,7 +2689,7 @@
       "Name": "Artful Assister",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "achievement_45",
@@ -2700,7 +2705,7 @@
       "Name": "Charmed by the Hunt",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "achievement_47",
@@ -2708,7 +2713,7 @@
       "Name": "Threaded Harmony",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "achievement_48",
@@ -2740,15 +2745,15 @@
       "Name": "Budding Conjuror",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "achievement_8",
       "SetID": "2cpn27e",
       "Name": "Expert Conjuror",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 251
+      "UsersEstimate": 245
     },
     {
       "ID": "achievement_9",
@@ -2763,13 +2768,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 661,
+      "Progressed": 662,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-19T07:08:47.5320386+00:00",
+  "LastChanged_Achievements": "2023-12-19T08:08:24.8307166+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:11.6761115+00:00",
-  "LastUpdate_Ratings": "2023-12-19T07:00:02.6447772+00:00",
-  "LastUpdate_Achievements": "2023-12-19T07:08:47.5320823+00:00"
+  "LastUpdate_Ratings": "2023-12-19T07:59:38.7189716+00:00",
+  "LastUpdate_Achievements": "2023-12-19T08:08:24.8307533+00:00"
 }

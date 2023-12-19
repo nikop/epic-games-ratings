@@ -5,16 +5,16 @@ Rating: 4.66 (Ranked 295)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Mantis | 100.00% | ~25,200 |
-| A Long Time Ago | 92.00% | ~23,184 |
-| Sabersmith | 79.00% | ~19,908 |
-| The Obstacle is the Way | 77.00% | ~19,404 |
-| Back At You | 71.00% | ~17,892 |
-| Happy Go Wookiee | 68.00% | ~17,136 |
-| Everything is Connected | 58.00% | ~14,616 |
-| Her Name Was Masana Tide | 53.00% | ~13,356 |
-| Bank Shot | 53.00% | ~13,356 |
-| Perfect Timing | 51.00% | ~12,852 |
+| The Mantis | 100.00% | ~25,201 |
+| A Long Time Ago | 92.00% | ~23,185 |
+| Sabersmith | 79.00% | ~19,909 |
+| The Obstacle is the Way | 77.00% | ~19,405 |
+| Back At You | 71.00% | ~17,893 |
+| Happy Go Wookiee | 68.00% | ~17,137 |
+| Everything is Connected | 58.00% | ~14,617 |
+| Her Name Was Masana Tide | 53.00% | ~13,357 |
+| Bank Shot | 53.00% | ~13,357 |
+| Perfect Timing | 51.00% | ~12,853 |
 | Gorgara Falls | 49.00% | ~12,348 |
 | The Full Glow-Up | 49.00% | ~12,348 |
 | For A More Civilized Age | 47.00% | ~11,844 |
@@ -45,7 +45,7 @@ Rating: 4.66 (Ranked 295)
 | Kicking Back | 2.00% | ~504 |
 | Not So Fast | 1.00% | ~252 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,200 (Ranked 139)  
+Progressed: 25,201 (Ranked 139)  
 Completed: 261 (1.04%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 261 (1.04%) (Ranked 171)
 | 2023-12-16 | 24,341 | 253 |
 | 2023-12-17 | 24,807 | 255 |
 | 2023-12-18 | 25,110 | 259 |
-| 2023-12-19 | 25,200 | 261 |
+| 2023-12-19 | 25,201 | 261 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

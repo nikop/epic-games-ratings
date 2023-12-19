@@ -6,7 +6,7 @@ Number of Ratings: 54  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~1,414 |
+| Atom Agent | 99.00% | ~1,415 |
 | One HIT wonder | 36.00% | ~514 |
 | Wanderer | 34.00% | ~486 |
 | One shot, one kill | 27.00% | ~386 |
@@ -25,8 +25,8 @@ Number of Ratings: 54  (23.09.2022)
 | The Vitinsky Rifle | 6.00% | ~86 |
 | Protection racket | 5.00% | ~71 |
 | Secret room | 5.00% | ~71 |
-| Indy | 4.00% | ~57 |
 | Sacrifice | 4.00% | ~57 |
+| Indy | 3.00% | ~43 |
 | Wishmaster | 3.00% | ~43 |
 | Career criminal | 2.00% | ~29 |
 | Neanderthal | 2.00% | ~29 |
@@ -35,15 +35,15 @@ Number of Ratings: 54  (23.09.2022)
 | Ghostbuster | 0.60% | ~9 |
 | Comrade Yogi | 0.50% | ~7 |
 | Tourist Korallov | 0.50% | ~7 |
-| Cheeki Breeki | 0.40% | ~6 |
-| It's a classic! | 0.40% | ~6 |
-| Expert | 0.40% | ~6 |
+| Cheeki Breeki | 0.30% | ~4 |
+| It's a classic! | 0.30% | ~4 |
+| Expert | 0.30% | ~4 |
 | Mystical relics | 0.20% | ~3 |
 | 27 Club | 0.10% | ~1 |
 | No Name, No Slogan | 0.10% | ~1 |
 | Pacifist | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,428 (Ranked 251)  
+Progressed: 1,429 (Ranked 251)  
 Completed: 1 (0.07%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 1 (0.07%) (Ranked 317)
 | 2023-12-16 | 1,398 | 1 |
 | 2023-12-17 | 1,416 | 1 |
 | 2023-12-18 | 1,425 | 1 |
-| 2023-12-19 | 1,428 | 1 |
+| 2023-12-19 | 1,429 | 1 |
 ## Awards
 Max (Character Customization): 52  (Ranked 436)  
 Sum: 52 (Ranked 489)  

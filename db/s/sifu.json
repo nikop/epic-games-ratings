@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 139,
   "Ranking_EOS_NewPlayers": 15,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8331,10 +8331,10 @@
       "Count": 433
     }
   ],
-  "EOS_Progressed": 735182,
-  "EOS_Completed": 12956,
-  "EOS_NewPlayers": 17204,
-  "EOS_NewCompleters": 4,
+  "EOS_Progressed": 735233,
+  "EOS_Completed": 12957,
+  "EOS_NewPlayers": 17253,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.76,
   "EosHistory": [
     {
@@ -29961,6 +29961,11 @@
       "Time": "2023-12-19T07:08:29.9952728+00:00",
       "NumProgressed": 735182,
       "NumCompleted": 12956
+    },
+    {
+      "Time": "2023-12-19T08:08:08.965955+00:00",
+      "NumProgressed": 735233,
+      "NumCompleted": 12957
     }
   ],
   "TotalAchievements": 60,
@@ -29972,7 +29977,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22055
+      "UsersEstimate": 22057
     },
     {
       "ID": "02_Vengeance_H1",
@@ -29980,7 +29985,7 @@
       "Name": "The Assault",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14704
+      "UsersEstimate": 14705
     },
     {
       "ID": "03_Vengeance_H2",
@@ -30012,7 +30017,7 @@
       "Name": "Furious Fists",
       "Percentage": 0.8,
       "XP": 75,
-      "UsersEstimate": 5881
+      "UsersEstimate": 5882
     },
     {
       "ID": "07_Wude_H1",
@@ -30148,7 +30153,7 @@
       "Name": "Life is your teacher",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14704
+      "UsersEstimate": 14705
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -30164,7 +30169,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5146
+      "UsersEstimate": 5147
     },
     {
       "ID": "26_ShrineSpirit",
@@ -30204,7 +30209,7 @@
       "Name": "I know Kung-Fu",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 5881
+      "UsersEstimate": 5882
     },
     {
       "ID": "31_ComboHigh",
@@ -30236,7 +30241,7 @@
       "Name": "Lightning Hands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14704
+      "UsersEstimate": 14705
     },
     {
       "ID": "35_WideStrike",
@@ -30244,7 +30249,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5146
+      "UsersEstimate": 5147
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -30284,7 +30289,7 @@
       "Name": "Take damage to save time",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5881
+      "UsersEstimate": 5882
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -30308,7 +30313,7 @@
       "Name": "Project Arena",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -30324,7 +30329,7 @@
       "Name": "Bloody Sport",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -30332,7 +30337,7 @@
       "Name": "Martial Hub",
       "Percentage": 0.5,
       "XP": 80,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "47_Arena_GoldManhunt",
@@ -30348,7 +30353,7 @@
       "Name": "Secure, Protect, Leave",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "49_Arena_GoldSurvival",
@@ -30356,7 +30361,7 @@
       "Name": "The best strikes are the ones we avoid",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "50_Arena_GoldTimePerf",
@@ -30372,7 +30377,7 @@
       "Name": "Crouching Tiger",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "52_Arena_DragonAll",
@@ -30380,7 +30385,7 @@
       "Name": "Hidden Dragon",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "53_Arena_HighStamps",
@@ -30396,7 +30401,7 @@
       "Name": "Master of the Flying Assassins",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "55_Arena_SnowballKill",
@@ -30404,7 +30409,7 @@
       "Name": "Here Cometh the Iceman",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "56_Arena_LakeKill",
@@ -30412,7 +30417,7 @@
       "Name": "Fighter in the Pond",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "57_Arena_Car",
@@ -30420,7 +30425,7 @@
       "Name": "Bonus Stage",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "58_Arena_Music",
@@ -30436,7 +30441,7 @@
       "Name": "Fight the way you practice",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "60_Arena_Randomizer",
@@ -30444,28 +30449,28 @@
       "Name": "A Bit Of Everything, Simultaneously",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     }
   ],
   "AchievementSets": [
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 44483,
+      "Progressed": 44534,
       "Completed": 10775
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 735182,
-      "Completed": 12956
+      "Progressed": 735233,
+      "Completed": 12957
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-19T04:03:02.1381497+00:00",
-  "LastChanged_Achievements": "2023-12-19T07:08:29.9952724+00:00",
+  "LastChanged_Achievements": "2023-12-19T08:08:08.9659546+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:50.1499922+00:00",
-  "LastUpdate_Ratings": "2023-12-19T07:02:51.6640752+00:00",
-  "LastUpdate_Achievements": "2023-12-19T07:08:29.9954279+00:00"
+  "LastUpdate_Ratings": "2023-12-19T08:02:39.6449176+00:00",
+  "LastUpdate_Achievements": "2023-12-19T08:08:08.9660879+00:00"
 }

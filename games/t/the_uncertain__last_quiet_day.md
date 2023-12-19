@@ -11,7 +11,7 @@ Rating: 3.75 (Ranked 1,057)
 | Hands up! | 53.00% | ~316 |
 | Now you know | 53.00% | ~316 |
 | Short circuit | 53.00% | ~316 |
-| Curious | 43.00% | ~256 |
+| Curious | 43.00% | ~257 |
 | Everybody lies | 36.00% | ~215 |
 | Trick or Treat? | 24.00% | ~143 |
 | There is another way | 23.00% | ~137 |
@@ -23,14 +23,14 @@ Rating: 3.75 (Ranked 1,057)
 | He is just a child | 19.00% | ~113 |
 | Uncertain | 18.00% | ~107 |
 | Goody | 17.00% | ~101 |
-| Ace | 16.00% | ~95 |
-| Concrete painting | 16.00% | ~95 |
-| Found it! | 16.00% | ~95 |
-| Hipster | 16.00% | ~95 |
-| Not what it seems | 16.00% | ~95 |
-| Please oh pleeease! | 16.00% | ~95 |
-| That's much better! | 15.00% | ~89 |
-| Not as clumsy or random | 13.00% | ~77 |
+| Ace | 16.00% | ~96 |
+| Concrete painting | 16.00% | ~96 |
+| Found it! | 16.00% | ~96 |
+| Hipster | 16.00% | ~96 |
+| Not what it seems | 16.00% | ~96 |
+| Please oh pleeease! | 16.00% | ~96 |
+| That's much better! | 15.00% | ~90 |
+| Not as clumsy or random | 13.00% | ~78 |
 | Blade Runner | 10.00% | ~60 |
 | Perfect hearing | 9.00% | ~54 |
 | Meticulous | 8.00% | ~48 |
@@ -38,8 +38,8 @@ Rating: 3.75 (Ranked 1,057)
 | Accurate | 5.00% | ~30 |
 | Silent | 4.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 596 (Ranked 313)  
-Completed: 19 (3.19%) (Ranked 107)  
+Progressed: 597 (Ranked 314)  
+Completed: 19 (3.18%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -169,6 +169,7 @@ Completed: 19 (3.19%) (Ranked 107)
 | 2023-12-16 | 594 | 19 |
 | 2023-12-17 | 595 | 19 |
 | 2023-12-18 | 596 | 19 |
+| 2023-12-19 | 597 | 19 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

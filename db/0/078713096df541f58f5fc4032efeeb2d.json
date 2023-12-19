@@ -4,7 +4,7 @@
   "ProductSlug": "creepy-tale-3-ingrid-penance-1daff4",
   "Ranking_EOS_Progress": 529,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -337,9 +337,9 @@
       "ID": "creepytale3_ach_21",
       "SetID": "7idcjbn",
       "Name": "Larva",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "creepytale3_ach_22",
@@ -481,9 +481,9 @@
       "ID": "creepytale3_ach_6",
       "SetID": "7idcjbn",
       "Name": "Let me sleep!",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "creepytale3_ach_7",
@@ -520,8 +520,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2023-12-19T07:06:05.5239551+00:00",
+  "LastChanged_Achievements": "2023-12-19T08:05:33.5240029+00:00",
   "LastUpdate_AppInfo": "2023-12-13T06:57:05.5738942+00:00",
-  "LastUpdate_Ratings": "2023-12-19T07:02:39.117542+00:00",
-  "LastUpdate_Achievements": "2023-12-19T07:06:05.5239774+00:00"
+  "LastUpdate_Ratings": "2023-12-19T08:02:29.0044853+00:00",
+  "LastUpdate_Achievements": "2023-12-19T08:05:33.5240243+00:00"
 }

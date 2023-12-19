@@ -39,8 +39,8 @@ Rating: 4.56 (Ranked 498)
 | Safecracker | 13.00% | ~13 |
 | Master thief | 12.00% | ~12 |
 | Freedom fighter | 11.00% | ~11 |
+| King of the handymen | 11.00% | ~11 |
 | Titan Lord | 10.00% | ~10 |
-| King of the handymen | 10.00% | ~10 |
 | Terror of the hens | 8.00% | ~8 |
 | Expert | 8.00% | ~8 |
 | The traveler | 7.00% | ~7 |

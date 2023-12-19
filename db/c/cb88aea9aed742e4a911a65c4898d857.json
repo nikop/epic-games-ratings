@@ -93,9 +93,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5319,
+  "EOS_Progressed": 5323,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2896,
+  "EOS_NewPlayers": 2887,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1508,6 +1508,11 @@
       "Time": "2023-12-19T07:09:21.0271846+00:00",
       "NumProgressed": 5319,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T08:08:54.5037115+00:00",
+      "NumProgressed": 5323,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -1520,7 +1525,7 @@
       "Name": "Conspiracy",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 1117
+      "UsersEstimate": 1118
     },
     {
       "ID": "03_TheStolenStar",
@@ -1622,9 +1627,9 @@
       "ID": "15_Pentakill",
       "SetID": "37a94m8",
       "Name": "Pentakill",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 266
     },
     {
       "ID": "16_TheRise",
@@ -1680,7 +1685,7 @@
       "Name": "Perfect Timing",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "23_DynastyRestored",
@@ -1872,7 +1877,7 @@
       "Name": "A Spark",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "47_AFlame",
@@ -2039,7 +2044,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 5319,
+      "Progressed": 5323,
       "Completed": 0
     }
   ],
@@ -2047,8 +2052,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-19T01:47:20.7959917+00:00",
-  "LastChanged_Achievements": "2023-12-19T07:09:21.0271842+00:00",
+  "LastChanged_Achievements": "2023-12-19T08:08:54.503711+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:14.7846288+00:00",
-  "LastUpdate_Ratings": "2023-12-19T07:00:22.7554002+00:00",
-  "LastUpdate_Achievements": "2023-12-19T07:09:21.0272319+00:00"
+  "LastUpdate_Ratings": "2023-12-19T07:59:57.1969235+00:00",
+  "LastUpdate_Achievements": "2023-12-19T08:08:54.5037674+00:00"
 }

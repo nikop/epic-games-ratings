@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1008,
+  "EOS_Progressed": 1009,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3889,6 +3889,11 @@
       "Time": "2023-12-18T21:10:17.820789+00:00",
       "NumProgressed": 1008,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T08:09:17.807119+00:00",
+      "NumProgressed": 1009,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -3916,7 +3921,7 @@
       "Name": "Basic Controls",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "BigPlane",
@@ -3940,7 +3945,7 @@
       "Name": "Calculated",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "Close",
@@ -4068,7 +4073,7 @@
       "Name": "Long Distances",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ManagementMaster",
@@ -4100,7 +4105,7 @@
       "Name": "New Record",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "NoTimeForModernization",
@@ -4124,7 +4129,7 @@
       "Name": "This Wasn\u0027t Part of the Plan...",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "Ownway",
@@ -4148,7 +4153,7 @@
       "Name": "Race Against Time",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Reaction",
@@ -4228,21 +4233,21 @@
       "Name": "Transport Hub",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 1008,
+      "Progressed": 1009,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-12-19T07:09:46.6899145+00:00",
+  "LastChanged_Achievements": "2023-12-19T08:09:17.8071186+00:00",
   "LastUpdate_AppInfo": "2023-12-12T19:56:58.9295156+00:00",
-  "LastUpdate_Ratings": "2023-12-19T06:02:44.0343154+00:00",
-  "LastUpdate_Achievements": "2023-12-19T07:09:46.6899519+00:00"
+  "LastUpdate_Ratings": "2023-12-19T07:56:57.0791321+00:00",
+  "LastUpdate_Achievements": "2023-12-19T08:09:17.8071573+00:00"
 }

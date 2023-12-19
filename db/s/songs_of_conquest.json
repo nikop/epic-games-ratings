@@ -2531,9 +2531,9 @@
       "ID": "RanaCampaign",
       "SetID": "71c0n9i",
       "Name": "From the Ashes",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "RanaCampaignFinaleOnHard",
@@ -2723,8 +2723,8 @@
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-19T07:08:20.0013196+00:00",
+  "LastChanged_Achievements": "2023-12-19T08:07:59.9189138+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:10.4027668+00:00",
-  "LastUpdate_Ratings": "2023-12-19T06:57:17.9091755+00:00",
-  "LastUpdate_Achievements": "2023-12-19T07:08:20.0013666+00:00"
+  "LastUpdate_Ratings": "2023-12-19T07:57:11.8632563+00:00",
+  "LastUpdate_Achievements": "2023-12-19T08:07:59.9189548+00:00"
 }

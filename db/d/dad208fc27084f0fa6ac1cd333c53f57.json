@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-10-31T14:00:00+00:00",
     "PcReleaseDate": "2021-10-14T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5672,
+  "EOS_Progressed": 5673,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 426,
+  "EOS_NewPlayers": 427,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.92,
   "EosHistory": [
@@ -5439,6 +5439,11 @@
       "Time": "2023-12-19T07:08:29.274425+00:00",
       "NumProgressed": 5672,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-19T08:08:08.3118676+00:00",
+      "NumProgressed": 5673,
+      "NumCompleted": 52
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -5491,7 +5496,7 @@
       "Name": "Move the sofa",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 1985
+      "UsersEstimate": 1986
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_TV",
@@ -5499,7 +5504,7 @@
       "Name": "Turn on the TV",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 3233
+      "UsersEstimate": 3234
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -5578,14 +5583,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 5672,
+      "Progressed": 5673,
       "Completed": 52
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-12-19T07:08:29.2744248+00:00",
+  "LastChanged_Achievements": "2023-12-19T08:08:08.3118672+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:07.8033204+00:00",
-  "LastUpdate_Ratings": "2023-12-19T06:58:47.2655854+00:00",
-  "LastUpdate_Achievements": "2023-12-19T07:08:29.274451+00:00"
+  "LastUpdate_Ratings": "2023-12-19T07:58:32.9545988+00:00",
+  "LastUpdate_Achievements": "2023-12-19T08:08:08.3119039+00:00"
 }

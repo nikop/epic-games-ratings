@@ -1901,7 +1901,7 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 66777,
+  "EOS_Progressed": 66778,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 655,
   "EOS_NewCompleters": 0,
@@ -28626,6 +28626,11 @@
       "Time": "2023-12-19T07:03:53.9776118+00:00",
       "NumProgressed": 66777,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-19T08:03:35.6496885+00:00",
+      "NumProgressed": 66778,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -28637,7 +28642,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 36727
+      "UsersEstimate": 36728
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -28757,7 +28762,7 @@
       "Name": "Developers, Developers, Developers",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 16026
+      "UsersEstimate": 16027
     },
     {
       "ID": "VERDUN_ACH_DOUGHBOYS",
@@ -29005,7 +29010,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 52086
+      "UsersEstimate": 52087
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -29101,22 +29106,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 24707
+      "UsersEstimate": 24708
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 66777,
+      "Progressed": 66778,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-12-16T22:00:11.5437359+00:00",
-  "LastChanged_Achievements": "2023-12-19T07:03:53.9776113+00:00",
+  "LastChanged_Achievements": "2023-12-19T08:03:35.6496878+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:33.1495851+00:00",
-  "LastUpdate_Ratings": "2023-12-19T06:57:39.7785882+00:00",
-  "LastUpdate_Achievements": "2023-12-19T07:03:53.9777548+00:00"
+  "LastUpdate_Ratings": "2023-12-19T07:57:32.8660697+00:00",
+  "LastUpdate_Achievements": "2023-12-19T08:03:35.6498493+00:00"
 }

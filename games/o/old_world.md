@@ -8,9 +8,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | ---- | ---------- | ----- |
 | Alexander the Great | 0.10% | ~16 |
 | Acropolis in Athenai | 0.10% | ~16 |
+| Settler | 0.10% | ~16 |
 | Circus Maximus | 0.10% | ~16 |
 | Mausoleum | 0.10% | ~16 |
+| Learn to Play 1 | 0.10% | ~16 |
+| Learn to Play 2 | 0.10% | ~16 |
+| Play a Single Player Game | 0.10% | ~16 |
 | Circus Maximus in Roma | 0.10% | ~16 |
+| Capturing Cities | 0.10% | ~16 |
 | Centenarian | 0.00% | ~0 |
 | Alexander the who? | 0.00% | ~0 |
 | Lighthouse in Alexandria | 0.00% | ~0 |
@@ -87,7 +92,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ready | 0.00% | ~0 |
 | Rebuilder | 0.00% | ~0 |
 | Restorer | 0.00% | ~0 |
-| Settler | 0.00% | ~0 |
 | Strong | 0.00% | ~0 |
 | Subjugator | 0.00% | ~0 |
 | Valiant | 0.00% | ~0 |
@@ -197,8 +201,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn By Playing 2 - Just | 0.00% | ~0 |
 | Learn By Playing 3 - Good | 0.00% | ~0 |
 | Learn By Playing 4 - Strong | 0.00% | ~0 |
-| Learn to Play 1 | 0.00% | ~0 |
-| Learn to Play 2 | 0.00% | ~0 |
 | Learn to Play 3 | 0.00% | ~0 |
 | Learn to Play 4 | 0.00% | ~0 |
 | Learn to Play 5 | 0.00% | ~0 |
@@ -226,7 +228,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a MP Teams Game | 0.00% | ~0 |
 | Play a Network Game | 0.00% | ~0 |
 | Play a Play-By-Cloud Game | 0.00% | ~0 |
-| Play a Single Player Game | 0.00% | ~0 |
 | Power to the People | 0.00% | ~0 |
 | Punic Wars | 0.00% | ~0 |
 | Christianity | 0.00% | ~0 |
@@ -245,7 +246,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Papacy | 0.00% | ~0 |
 | Pantheon in Roma | 0.00% | ~0 |
 | Building Wonders | 0.00% | ~0 |
-| Capturing Cities | 0.00% | ~0 |
 | Naming Landmarks | 0.00% | ~0 |
 | Ten Crowns | 0.00% | ~0 |
 | Economic Reform | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Al Khazneh in Petra | 0.00% | ~0 |
 | Colosseum in Roma | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,830 (Ranked 155)  
+Progressed: 15,831 (Ranked 156)  
 Completed: 5 (0.03%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -608,7 +608,7 @@ Completed: 5 (0.03%) (Ranked 344)
 | 2023-12-16 | 15,789 | 5 |
 | 2023-12-17 | 15,807 | 5 |
 | 2023-12-18 | 15,826 | 5 |
-| 2023-12-19 | 15,830 | 5 |
+| 2023-12-19 | 15,831 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 279)  
 Sum: 1,902 (Ranked 220)  

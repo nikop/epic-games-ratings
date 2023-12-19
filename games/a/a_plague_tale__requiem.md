@@ -11,7 +11,7 @@ Rating: 4.73 (Ranked 174)
 | Protector's Duty | 69.00% | ~10,053 |
 | Alchemist | 68.00% | ~9,907 |
 | In our Wake | 67.00% | ~9,761 |
-| Leaving all Behind | 64.00% | ~9,324 |
+| Leaving all Behind | 65.00% | ~9,470 |
 | Felons | 62.00% | ~9,033 |
 | A Sea of Promises | 60.00% | ~8,741 |
 | Tales and Revelations | 57.00% | ~8,304 |

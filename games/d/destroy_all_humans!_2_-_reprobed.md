@@ -11,7 +11,7 @@ Number of Ratings: 90  (23.09.2022)
 | Ducks in a Row, Fish in a Barrel | 40.00% | ~50 |
 | Furon Fashion | 38.00% | ~48 |
 | Shop Til They Drop | 30.00% | ~38 |
-| Earthly Pleasures | 27.00% | ~34 |
+| Earthly Pleasures | 28.00% | ~35 |
 | Bodied Sattva | 25.00% | ~31 |
 | Cult Following | 23.00% | ~29 |
 | Upgreatest | 20.00% | ~25 |

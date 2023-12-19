@@ -4,7 +4,7 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 420,
+  "Ranking_EOS_NewPlayers": 413,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 323,
+  "EOS_Progressed": 324,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 8.67,
+  "EOS_Completed_Percentage": 8.64,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -1434,6 +1434,11 @@
       "Time": "2023-12-19T01:53:08.5190825+00:00",
       "NumProgressed": 323,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-19T08:05:27.0692186+00:00",
+      "NumProgressed": 324,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 16,
@@ -1469,7 +1474,7 @@
       "Name": "Ducks adrift",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -1485,7 +1490,7 @@
       "Name": "High-rise",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -1501,7 +1506,7 @@
       "Name": "Floatpiercer",
       "Percentage": 15,
       "XP": 150,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -1525,7 +1530,7 @@
       "Name": "Catch a flight",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -1533,7 +1538,7 @@
       "Name": "Way to the shore",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -1541,7 +1546,7 @@
       "Name": "Private pool",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -1572,14 +1577,14 @@
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 323,
+      "Progressed": 324,
       "Completed": 28
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-12-19T07:05:58.4250793+00:00",
+  "LastChanged_Achievements": "2023-12-19T08:05:27.0692181+00:00",
   "LastUpdate_AppInfo": "2023-12-17T03:57:04.3181788+00:00",
-  "LastUpdate_Ratings": "2023-12-19T06:57:14.1896758+00:00",
-  "LastUpdate_Achievements": "2023-12-19T07:05:58.4250954+00:00"
+  "LastUpdate_Ratings": "2023-12-19T07:57:07.9689222+00:00",
+  "LastUpdate_Achievements": "2023-12-19T08:05:27.0692413+00:00"
 }

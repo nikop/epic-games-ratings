@@ -2,7 +2,7 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
-  "Ranking_EOS_Progress": 284,
+  "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 96,
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 837,
+  "EOS_Progressed": 842,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 572,
+  "EOS_NewPlayers": 577,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1730,6 +1730,11 @@
       "Time": "2023-12-19T07:09:45.8676706+00:00",
       "NumProgressed": 837,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-19T08:09:17.0689338+00:00",
+      "NumProgressed": 842,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1741,7 +1746,7 @@
       "Name": "Break Out",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 402
+      "UsersEstimate": 404
     },
     {
       "ID": "ACH_02",
@@ -1765,7 +1770,7 @@
       "Name": "Calm before the Storm",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_05",
@@ -1797,7 +1802,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH_09",
@@ -1813,7 +1818,7 @@
       "Name": "Trinity",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ACH_11",
@@ -1845,7 +1850,7 @@
       "Name": "Airborne",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_15",
@@ -1853,7 +1858,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_16",
@@ -1861,15 +1866,15 @@
       "Name": "Essence Blow",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_17",
       "SetID": "efe2lj",
       "Name": "Shatterer",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_18",
@@ -1877,7 +1882,7 @@
       "Name": "Shatter Them All",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACH_19",
@@ -1917,7 +1922,7 @@
       "Name": "Geared Up",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACH_24",
@@ -1941,7 +1946,7 @@
       "Name": "Scholar",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_27",
@@ -1957,7 +1962,7 @@
       "Name": "I Found It",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_29",
@@ -1981,7 +1986,7 @@
       "Name": "Stone Collection",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_33",
@@ -1997,7 +2002,7 @@
       "Name": "The Collector",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACH_35",
@@ -2028,14 +2033,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 837,
+      "Progressed": 842,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-19T07:09:45.8676702+00:00",
+  "LastChanged_Achievements": "2023-12-19T08:09:17.0689334+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
-  "LastUpdate_Ratings": "2023-12-19T07:00:22.0738368+00:00",
-  "LastUpdate_Achievements": "2023-12-19T07:09:45.8676998+00:00"
+  "LastUpdate_Ratings": "2023-12-19T07:59:56.5896141+00:00",
+  "LastUpdate_Achievements": "2023-12-19T08:09:17.0689674+00:00"
 }

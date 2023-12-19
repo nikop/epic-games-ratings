@@ -376,9 +376,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4976,
+  "EOS_Progressed": 4977,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3706,6 +3706,11 @@
       "Time": "2023-12-19T04:06:44.3204831+00:00",
       "NumProgressed": 4976,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-19T08:05:15.0412+00:00",
+      "NumProgressed": 4977,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -3765,7 +3770,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4180
+      "UsersEstimate": 4181
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -3773,7 +3778,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4677
+      "UsersEstimate": 4678
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -3805,7 +3810,7 @@
       "Name": "Gear Up",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "ID_ACHIEV_13",
@@ -3933,7 +3938,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3782
+      "UsersEstimate": 3783
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -3989,7 +3994,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -4061,7 +4066,7 @@
       "Name": "OPERATOR",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1791
+      "UsersEstimate": 1792
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -4252,15 +4257,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4976,
+      "Progressed": 4977,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-11-03T01:46:55.8375725+00:00",
-  "LastChanged_Achievements": "2023-12-19T07:05:45.2062146+00:00",
+  "LastChanged_Achievements": "2023-12-19T08:05:15.0411995+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.7369287+00:00",
-  "LastUpdate_Ratings": "2023-12-19T06:58:32.0381522+00:00",
-  "LastUpdate_Achievements": "2023-12-19T07:05:45.2062867+00:00"
+  "LastUpdate_Ratings": "2023-12-19T07:58:19.320669+00:00",
+  "LastUpdate_Achievements": "2023-12-19T08:05:15.041275+00:00"
 }

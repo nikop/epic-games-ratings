@@ -284,9 +284,9 @@
       "ID": "27",
       "SetID": "6hl9l7f",
       "Name": "Full Power",
-      "Percentage": 17,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "28",
@@ -467,8 +467,8 @@
   ],
   "FirstSeen": "2023-09-29T05:01:32.9866964+00:00",
   "FirstSeenAchievements": "2023-07-16T05:02:49.5531761+00:00",
-  "LastChanged_Achievements": "2023-12-19T07:05:02.7677922+00:00",
+  "LastChanged_Achievements": "2023-12-19T08:04:36.8581459+00:00",
   "LastUpdate_AppInfo": "2023-12-17T16:57:11.0127364+00:00",
-  "LastUpdate_Ratings": "2023-12-19T06:59:26.0467918+00:00",
-  "LastUpdate_Achievements": "2023-12-19T07:05:02.7678197+00:00"
+  "LastUpdate_Ratings": "2023-12-19T07:59:07.141253+00:00",
+  "LastUpdate_Achievements": "2023-12-19T08:04:36.8581724+00:00"
 }

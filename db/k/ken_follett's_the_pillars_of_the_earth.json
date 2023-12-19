@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17175,
+  "EOS_Progressed": 17176,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 195,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -16445,6 +16445,11 @@
       "Time": "2023-12-19T01:51:14.8770227+00:00",
       "NumProgressed": 17175,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-12-19T08:03:36.4537845+00:00",
+      "NumProgressed": 17176,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 41,
@@ -16464,7 +16469,7 @@
       "Name": "Rebel without a cause",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1031
     },
     {
       "ID": "tpote_achievement_11",
@@ -16632,7 +16637,7 @@
       "Name": "Let there be darkness",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5324
+      "UsersEstimate": 5325
     },
     {
       "ID": "tpote_achievement_30",
@@ -16783,15 +16788,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17175,
+      "Progressed": 17176,
       "Completed": 119
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2023-12-19T07:03:54.8903826+00:00",
+  "LastChanged_Achievements": "2023-12-19T08:03:36.453784+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:13.9933566+00:00",
-  "LastUpdate_Ratings": "2023-12-19T06:58:28.534651+00:00",
-  "LastUpdate_Achievements": "2023-12-19T07:03:54.890461+00:00"
+  "LastUpdate_Ratings": "2023-12-19T07:58:16.2706708+00:00",
+  "LastUpdate_Achievements": "2023-12-19T08:03:36.4538635+00:00"
 }

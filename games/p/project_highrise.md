@@ -48,12 +48,12 @@
 | First 100 Days | 8.00% | ~32 |
 | Water Features | 8.00% | ~32 |
 | Phoning It In | 8.00% | ~32 |
+| Careful Constructor | 7.00% | ~28 |
 | Meet Me at HQ | 7.00% | ~28 |
 | Revenue Royalty | 7.00% | ~28 |
 | Golden Opportunity | 7.00% | ~28 |
 | Pipe Up | 7.00% | ~28 |
 | I'm Busy Ruling | 6.00% | ~24 |
-| Careful Constructor | 6.00% | ~24 |
 | Profound Proceeds | 6.00% | ~24 |
 | Maximum Reuse | 6.00% | ~24 |
 | Tuned In | 6.00% | ~24 |

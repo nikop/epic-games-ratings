@@ -1,20 +1,20 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.19 (Ranked 939)  
+Rating: 4.19 (Ranked 938)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 13.00% | ~2,339 |
-| Get a Grip | 13.00% | ~2,339 |
-| The Outer Way | 13.00% | ~2,339 |
-| Paper Jams | 12.00% | ~2,159 |
-| Desperate Times | 12.00% | ~2,159 |
-| Chew 'Em Up | 10.00% | ~1,799 |
-| Float Like A Butterfly | 10.00% | ~1,799 |
-| Reforged | 9.00% | ~1,619 |
-| Workplace Hazard | 8.00% | ~1,439 |
-| If the SHU Fits... | 8.00% | ~1,439 |
+| Flesh Wound | 13.00% | ~2,340 |
+| Get a Grip | 13.00% | ~2,340 |
+| The Outer Way | 13.00% | ~2,340 |
+| Paper Jams | 12.00% | ~2,160 |
+| Desperate Times | 12.00% | ~2,160 |
+| Chew 'Em Up | 10.00% | ~1,800 |
+| Float Like A Butterfly | 10.00% | ~1,800 |
+| Reforged | 9.00% | ~1,620 |
+| Workplace Hazard | 8.00% | ~1,440 |
+| If the SHU Fits... | 8.00% | ~1,440 |
 | Without A Paddle | 7.00% | ~1,260 |
 | Two Heads Are Better Than One | 6.00% | ~1,080 |
 | Terminated | 6.00% | ~1,080 |
@@ -23,14 +23,14 @@ Rating: 4.19 (Ranked 939)
 | Crash Site | 6.00% | ~1,080 |
 | Full Circle | 6.00% | ~1,080 |
 | Power Up | 6.00% | ~1,080 |
-| Keep Fighting | 6.00% | ~355 |
+| Keep Fighting | 6.00% | ~356 |
 | Giving Back | 5.00% | ~900 |
 | You Need a Gun | 5.00% | ~900 |
 | I Do Belong Here | 5.00% | ~900 |
 | It's Time | 4.00% | ~237 |
 | In Striking Distance | 3.00% | ~540 |
 | The Commonality | 3.00% | ~540 |
-| One Last Job | 2.00% | ~118 |
+| One Last Job | 2.00% | ~119 |
 | Big Spender | 1.00% | ~59 |
 | This Isn't About Escape | 1.00% | ~59 |
 | Armed to the Teeth | 0.90% | ~53 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 939)
 | Bear Trap | 0.10% | ~6 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,993 (Ranked 149)  
+Progressed: 18,000 (Ranked 149)  
 Completed: 82 (0.46%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 82 (0.46%) (Ranked 219)
 | 2023-12-16 | 17,442 | 82 |
 | 2023-12-17 | 17,760 | 82 |
 | 2023-12-18 | 17,946 | 82 |
-| 2023-12-19 | 17,993 | 82 |
+| 2023-12-19 | 18,000 | 82 |
 ## Awards
 Max (Quickly Understood Controls): 88  (Ranked 388)  
 Sum: 523 (Ranked 327)  

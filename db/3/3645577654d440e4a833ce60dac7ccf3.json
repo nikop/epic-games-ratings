@@ -288,25 +288,25 @@
       "ID": "Tower2_Normal",
       "SetID": "df8cl74",
       "Name": "Clear the Second Tower",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Tower2_RankA",
       "SetID": "df8cl74",
       "Name": "The Second Tower: A Rank",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Tower2_RankS",
       "SetID": "df8cl74",
       "Name": "The Second Tower: S Rank",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Tower3_Normal",
@@ -422,8 +422,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-22T06:03:17.9237808+00:00",
-  "LastChanged_Achievements": "2023-12-19T07:05:47.7650687+00:00",
+  "LastChanged_Achievements": "2023-12-19T08:05:17.4008271+00:00",
   "LastUpdate_AppInfo": "2023-12-13T06:57:05.4389091+00:00",
-  "LastUpdate_Ratings": "2023-12-19T07:00:25.117017+00:00",
-  "LastUpdate_Achievements": "2023-12-19T07:05:47.7650963+00:00"
+  "LastUpdate_Ratings": "2023-12-19T07:59:59.2596534+00:00",
+  "LastUpdate_Achievements": "2023-12-19T08:05:17.4008554+00:00"
 }

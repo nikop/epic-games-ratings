@@ -916,9 +916,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 50797,
+  "EOS_Progressed": 50801,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 997,
+  "EOS_NewPlayers": 999,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -28466,6 +28466,11 @@
       "Time": "2023-12-19T07:03:16.3745155+00:00",
       "NumProgressed": 50797,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-19T08:03:01.5819826+00:00",
+      "NumProgressed": 50801,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -28517,7 +28522,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 13715
+      "UsersEstimate": 13716
     },
     {
       "ID": "goals180",
@@ -28597,7 +28602,7 @@
       "Name": "Nomad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 8635
+      "UsersEstimate": 8636
     },
     {
       "ID": "novice",
@@ -28685,7 +28690,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 12699
+      "UsersEstimate": 12700
     },
     {
       "ID": "sandboarder",
@@ -28788,15 +28793,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 50797,
+      "Progressed": 50801,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-12-16T06:59:13.2454805+00:00",
-  "LastChanged_Achievements": "2023-12-19T07:03:16.3745148+00:00",
+  "LastChanged_Achievements": "2023-12-19T08:03:01.5819822+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:56.7269376+00:00",
-  "LastUpdate_Ratings": "2023-12-19T07:00:18.4854974+00:00",
-  "LastUpdate_Achievements": "2023-12-19T07:03:16.3746548+00:00"
+  "LastUpdate_Ratings": "2023-12-19T07:59:53.6653879+00:00",
+  "LastUpdate_Achievements": "2023-12-19T08:03:01.5822288+00:00"
 }

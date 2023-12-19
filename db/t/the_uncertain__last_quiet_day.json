@@ -5,9 +5,9 @@
   "Ranking_Rating": 1057,
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 566,
-  "Ranking_EOS_Progress": 313,
-  "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 420,
+  "Ranking_EOS_Progress": 314,
+  "Ranking_EOS_Completed": 108,
+  "Ranking_EOS_NewPlayers": 413,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -39,11 +39,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 596,
+  "EOS_Progressed": 597,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.19,
+  "EOS_Completed_Percentage": 3.18,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:50.241177+00:00",
@@ -909,6 +909,11 @@
       "Time": "2023-12-18T00:09:36.5578883+00:00",
       "NumProgressed": 596,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-12-19T08:09:12.2109655+00:00",
+      "NumProgressed": 597,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 32,
@@ -920,7 +925,7 @@
       "Name": "Ace",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ANNOYING",
@@ -952,7 +957,7 @@
       "Name": "Concrete painting",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "CURIOUS",
@@ -960,7 +965,7 @@
       "Name": "Curious",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "EVERYBODY_LIES",
@@ -984,7 +989,7 @@
       "Name": "Found it!",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "GOODY",
@@ -1032,7 +1037,7 @@
       "Name": "Hipster",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "I_CAN_DO_A_THING_OR_TWO",
@@ -1064,7 +1069,7 @@
       "Name": "Not as clumsy or random",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "NOT_WHAT_IT_SEEMS",
@@ -1072,7 +1077,7 @@
       "Name": "Not what it seems",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "NOW_YOU_KNOW",
@@ -1096,7 +1101,7 @@
       "Name": "Please oh pleeease!",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "POOL",
@@ -1144,7 +1149,7 @@
       "Name": "That\u0027s much better!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "THERE_IS_ANOTHER_WAY",
@@ -1175,7 +1180,7 @@
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 596,
+      "Progressed": 597,
       "Completed": 19
     }
   ],
@@ -1183,8 +1188,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-12-08T04:01:04.3643054+00:00",
-  "LastChanged_Achievements": "2023-12-19T07:09:40.6663796+00:00",
+  "LastChanged_Achievements": "2023-12-19T08:09:12.2109649+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.7016288+00:00",
-  "LastUpdate_Ratings": "2023-12-19T06:58:49.8834263+00:00",
-  "LastUpdate_Achievements": "2023-12-19T07:09:40.6664015+00:00"
+  "LastUpdate_Ratings": "2023-12-19T07:58:35.2875079+00:00",
+  "LastUpdate_Achievements": "2023-12-19T08:09:12.2109891+00:00"
 }

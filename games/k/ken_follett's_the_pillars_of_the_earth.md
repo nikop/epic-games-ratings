@@ -10,7 +10,7 @@ Number of Ratings: 368  (23.09.2022)
 | Man of politics | 34.00% | ~5,840 |
 | Friends of sorts | 33.00% | ~5,668 |
 | Yet another secret | 33.00% | ~5,668 |
-| Let there be darkness | 31.00% | ~5,324 |
+| Let there be darkness | 31.00% | ~5,325 |
 | End of Book One | 29.00% | ~4,981 |
 | Garden of Eden | 24.00% | ~4,122 |
 | Wannabe knight | 23.00% | ~3,950 |
@@ -37,7 +37,7 @@ Number of Ratings: 368  (23.09.2022)
 | Nothing but make-believe | 8.00% | ~1,374 |
 | A cry for help | 7.00% | ~1,202 |
 | Silentium est aureum | 7.00% | ~1,202 |
-| Rebel without a cause | 6.00% | ~1,030 |
+| Rebel without a cause | 6.00% | ~1,031 |
 | Staring contest champion | 5.00% | ~859 |
 | Lone wolf | 5.00% | ~859 |
 | Vox Populi | 5.00% | ~859 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~515 |
 | Boy of mystery | 2.00% | ~344 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,175 (Ranked 151)  
+Progressed: 17,176 (Ranked 151)  
 Completed: 119 (0.69%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 119 (0.69%) (Ranked 193)
 | 2023-12-16 | 17,109 | 119 |
 | 2023-12-17 | 17,152 | 119 |
 | 2023-12-18 | 17,173 | 119 |
-| 2023-12-19 | 17,175 | 119 |
+| 2023-12-19 | 17,176 | 119 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 320)  
 Sum: 200 (Ranked 410)  

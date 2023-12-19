@@ -6,34 +6,34 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 40.00% | ~10,931 |
-| Overkill | 34.00% | ~9,292 |
-| Vaccine Incoming | 32.00% | ~8,745 |
-| A normal day in Gloomhaven | 30.00% | ~8,198 |
-| Spread the plague | 28.00% | ~7,652 |
-| Get over here! | 24.00% | ~6,559 |
-| Just when I thought I was out... | 19.00% | ~5,192 |
-| Mine... All Mine... | 17.00% | ~4,646 |
-| Precious! | 16.00% | ~4,372 |
-| Grizzled veteran | 15.00% | ~4,099 |
-| Anatomy Lesson | 14.00% | ~3,826 |
+| I'm not dead yet | 40.00% | ~10,934 |
+| Overkill | 34.00% | ~9,294 |
+| Vaccine Incoming | 32.00% | ~8,747 |
+| A normal day in Gloomhaven | 30.00% | ~8,200 |
+| Spread the plague | 28.00% | ~7,654 |
+| Get over here! | 24.00% | ~6,560 |
+| Just when I thought I was out... | 19.00% | ~5,193 |
+| Mine... All Mine... | 17.00% | ~4,647 |
+| Precious! | 16.00% | ~4,373 |
+| Grizzled veteran | 15.00% | ~4,100 |
+| Anatomy Lesson | 14.00% | ~3,827 |
 | Obstacle race | 13.00% | ~3,553 |
 | Light of my life | 13.00% | ~3,553 |
-| You activated my trap card! | 12.00% | ~3,279 |
-| Who's the Boss? | 11.00% | ~3,006 |
-| Augmented rat | 11.00% | ~3,006 |
+| You activated my trap card! | 12.00% | ~3,280 |
+| Who's the Boss? | 11.00% | ~3,007 |
+| Augmented rat | 11.00% | ~3,007 |
 | Doom and gloom | 10.00% | ~2,733 |
 | Dungeon Veteran | 9.00% | ~2,460 |
-| Pain is your friend | 8.00% | ~2,186 |
-| Black death | 8.00% | ~2,186 |
-| Play it again, Sam | 8.00% | ~2,186 |
+| Pain is your friend | 8.00% | ~2,187 |
+| Black death | 8.00% | ~2,187 |
+| Play it again, Sam | 8.00% | ~2,187 |
 | Pack leader | 7.00% | ~1,913 |
 | Quad damage | 6.00% | ~1,640 |
-| Power Up! | 5.00% | ~1,366 |
-| Merchant of doom | 5.00% | ~1,366 |
-| Caught off guard | 5.00% | ~1,366 |
-| Pretty lights! | 5.00% | ~1,366 |
-| Now you see me... | 5.00% | ~1,366 |
+| Power Up! | 5.00% | ~1,367 |
+| Merchant of doom | 5.00% | ~1,367 |
+| Caught off guard | 5.00% | ~1,367 |
+| Pretty lights! | 5.00% | ~1,367 |
+| Now you see me... | 5.00% | ~1,367 |
 | The Pro from Dover | 4.00% | ~1,093 |
 | I hate portals | 3.00% | ~820 |
 | Down the hatch | 3.00% | ~820 |
@@ -61,14 +61,14 @@ Number of Ratings: 68  (23.09.2022)
 | Crimson Tornado | 0.30% | ~82 |
 | The Cartographer | 0.20% | ~55 |
 | Beware my power | 0.20% | ~55 |
-| Murder Death Kill | 0.20% | ~55 |
 | A cult following | 0.10% | ~27 |
 | Over your dead body | 0.10% | ~27 |
 | The Guildmaster | 0.10% | ~27 |
 | Lara Who? | 0.10% | ~27 |
 | Hard-travelling Heroes | 0.10% | ~27 |
+| Murder Death Kill | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,328 (Ranked 134)  
+Progressed: 27,334 (Ranked 134)  
 Completed: 1 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 1 (0.00%) (Ranked 383)
 | 2023-12-16 | 26,807 | 1 |
 | 2023-12-17 | 27,097 | 1 |
 | 2023-12-18 | 27,282 | 1 |
-| 2023-12-19 | 27,328 | 1 |
+| 2023-12-19 | 27,334 | 1 |
 ## Awards
 Max (Character Customization): 3,603  (Ranked 91)  
 Sum: 8,418 (Ranked 103)  

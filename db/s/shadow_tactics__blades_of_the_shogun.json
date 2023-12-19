@@ -2344,9 +2344,9 @@
       "Count": 258
     }
   ],
-  "EOS_Progressed": 220211,
+  "EOS_Progressed": 220214,
   "EOS_Completed": 101,
-  "EOS_NewPlayers": 1480,
+  "EOS_NewPlayers": 1475,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -30229,6 +30229,11 @@
       "Time": "2023-12-19T07:04:14.536743+00:00",
       "NumProgressed": 220211,
       "NumCompleted": 101
+    },
+    {
+      "Time": "2023-12-19T08:03:53.9417791+00:00",
+      "NumProgressed": 220214,
+      "NumCompleted": 101
     }
   ],
   "TotalAchievements": 44,
@@ -30240,7 +30245,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 24223
+      "UsersEstimate": 24224
     },
     {
       "ID": "AtheistOx",
@@ -30304,7 +30309,7 @@
       "Name": "Gear up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8808
+      "UsersEstimate": 8809
     },
     {
       "ID": "Genin",
@@ -30312,7 +30317,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 26425
+      "UsersEstimate": 26426
     },
     {
       "ID": "HappyLittleAccidents",
@@ -30408,7 +30413,7 @@
       "Name": "Noboru",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 8808
+      "UsersEstimate": 8809
     },
     {
       "ID": "Okkoto",
@@ -30472,7 +30477,7 @@
       "Name": "Still Rollin\u0027",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8808
+      "UsersEstimate": 8809
     },
     {
       "ID": "Stoned",
@@ -30528,7 +30533,7 @@
       "Name": "Thorough",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 24223
+      "UsersEstimate": 24224
     },
     {
       "ID": "TimeParadox",
@@ -30591,15 +30596,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 220211,
+      "Progressed": 220214,
       "Completed": 101
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-12-19T05:00:52.8303349+00:00",
-  "LastChanged_Achievements": "2023-12-19T07:04:14.5367426+00:00",
+  "LastChanged_Achievements": "2023-12-19T08:03:53.9417786+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:48.0979756+00:00",
-  "LastUpdate_Ratings": "2023-12-19T06:59:59.3155822+00:00",
-  "LastUpdate_Achievements": "2023-12-19T07:04:14.5369254+00:00"
+  "LastUpdate_Ratings": "2023-12-19T07:59:36.2861623+00:00",
+  "LastUpdate_Achievements": "2023-12-19T08:03:53.9419014+00:00"
 }

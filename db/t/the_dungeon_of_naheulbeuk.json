@@ -1521,9 +1521,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 243514,
+  "EOS_Progressed": 243517,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1141,
+  "EOS_NewPlayers": 1140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22826,6 +22826,11 @@
       "Time": "2023-12-19T07:09:36.5148428+00:00",
       "NumProgressed": 243514,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-19T08:09:08.4929646+00:00",
+      "NumProgressed": 243517,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -22837,7 +22842,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7305
+      "UsersEstimate": 7306
     },
     {
       "ID": "100Fail",
@@ -22869,7 +22874,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7305
+      "UsersEstimate": 7306
     },
     {
       "ID": "BookCollection",
@@ -22901,7 +22906,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7305
+      "UsersEstimate": 7306
     },
     {
       "ID": "Chapter4",
@@ -22909,7 +22914,7 @@
       "Name": "The demons\u0027 feast",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7305
+      "UsersEstimate": 7306
     },
     {
       "ID": "Chapter5",
@@ -22989,7 +22994,7 @@
       "Name": "The Woman in the High Castle",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7305
+      "UsersEstimate": 7306
     },
     {
       "ID": "DLC1ChooseNecro",
@@ -23285,7 +23290,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 87665
+      "UsersEstimate": 87666
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -23333,7 +23338,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24351
+      "UsersEstimate": 24352
     },
     {
       "ID": "FollowBraztok",
@@ -23517,7 +23522,7 @@
       "Name": "Oh, when I\u0027ll be level 10...",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7305
+      "UsersEstimate": 7306
     },
     {
       "ID": "WizardEpic",
@@ -23540,21 +23545,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 243514,
+      "Progressed": 243517,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 243514,
+      "Progressed": 243517,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-12-19T01:49:39.0919482+00:00",
-  "LastChanged_Achievements": "2023-12-19T07:09:36.5148424+00:00",
+  "LastChanged_Achievements": "2023-12-19T08:09:08.4929637+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:08.5726178+00:00",
-  "LastUpdate_Ratings": "2023-12-19T07:00:48.2683892+00:00",
-  "LastUpdate_Achievements": "2023-12-19T07:09:36.5150211+00:00"
+  "LastUpdate_Ratings": "2023-12-19T08:00:20.3862451+00:00",
+  "LastUpdate_Achievements": "2023-12-19T08:09:08.4931079+00:00"
 }
