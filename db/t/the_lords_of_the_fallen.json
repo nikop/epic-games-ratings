@@ -1011,9 +1011,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5730,
+  "EOS_Progressed": 5752,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3386,
+  "EOS_NewPlayers": 3408,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5431,6 +5431,11 @@
       "Time": "2023-12-19T21:09:30.7113068+00:00",
       "NumProgressed": 5730,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-19T22:08:46.2227033+00:00",
+      "NumProgressed": 5752,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-23T12:04:43.6042359+00:00",
@@ -5451,7 +5456,7 @@
       "Name": "A Veil Lifted",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_003",
@@ -5459,7 +5464,7 @@
       "Name": "Lost and Found",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_004",
@@ -5603,7 +5608,7 @@
       "Name": "Shared Triumph",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_022",
@@ -5619,7 +5624,7 @@
       "Name": "No Mercy",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_024",
@@ -5651,7 +5656,7 @@
       "Name": "Shades of Violence",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_028",
@@ -5891,7 +5896,7 @@
       "Name": "Thriving in Darkness",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_058",
@@ -5946,7 +5951,7 @@
     {
       "ID": "87e61g",
       "IsBase": true,
-      "Progressed": 5730,
+      "Progressed": 5752,
       "Completed": 2
     }
   ],
@@ -5954,8 +5959,8 @@
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
   "LastChanged": "2023-12-19T17:57:48.4089199+00:00",
-  "LastChanged_Achievements": "2023-12-19T21:09:30.7113064+00:00",
+  "LastChanged_Achievements": "2023-12-19T22:08:46.2227027+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:35.9560906+00:00",
-  "LastUpdate_Ratings": "2023-12-19T20:58:19.8551363+00:00",
-  "LastUpdate_Achievements": "2023-12-19T21:09:30.7113708+00:00"
+  "LastUpdate_Ratings": "2023-12-19T21:57:44.3640817+00:00",
+  "LastUpdate_Achievements": "2023-12-19T22:08:46.22276+00:00"
 }

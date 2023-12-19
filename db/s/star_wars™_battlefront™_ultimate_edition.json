@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1910,
+  "EOS_Progressed": 1911,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 226,
+  "EOS_NewPlayers": 227,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5624,6 +5624,11 @@
       "Time": "2023-12-19T20:10:52.40907+00:00",
       "NumProgressed": 1910,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T22:09:57.3313611+00:00",
+      "NumProgressed": 1911,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -5860,7 +5865,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1700
+      "UsersEstimate": 1701
     },
     {
       "ID": "achievement_36",
@@ -5908,7 +5913,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "achievement_41",
@@ -5988,7 +5993,7 @@
       "Name": "Shoot first",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "achievement_50",
@@ -6139,13 +6144,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1910,
+      "Progressed": 1911,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1910,
+      "Progressed": 1911,
       "Completed": 1
     }
   ],
@@ -6153,8 +6158,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-19T21:11:06.2292902+00:00",
+  "LastChanged_Achievements": "2023-12-19T22:09:57.3313605+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.5169818+00:00",
-  "LastUpdate_Ratings": "2023-12-19T20:57:29.6497749+00:00",
-  "LastUpdate_Achievements": "2023-12-19T21:11:06.2293522+00:00"
+  "LastUpdate_Ratings": "2023-12-19T21:57:09.8801998+00:00",
+  "LastUpdate_Achievements": "2023-12-19T22:09:57.3314565+00:00"
 }

@@ -6,24 +6,24 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,463 |
+| V for Vendetta | 12.00% | ~117,464 |
 | Gun Fu | 8.00% | ~78,309 |
-| The Fool | 7.00% | ~68,520 |
-| Right Back At Ya | 6.00% | ~58,731 |
+| The Fool | 7.00% | ~68,521 |
+| Right Back At Ya | 6.00% | ~58,732 |
 | Full Body Conversion | 5.00% | ~48,943 |
 | The Lovers | 5.00% | ~48,943 |
-| Stanislavski's Method | 4.00% | ~39,154 |
-| The Hermit | 4.00% | ~39,154 |
-| The Wheel of Fortune | 4.00% | ~39,154 |
-| True Soldier | 4.00% | ~39,154 |
-| All the President's Men | 4.00% | ~4,299 |
-| Arachnophobia | 4.00% | ~4,299 |
+| Stanislavski's Method | 4.00% | ~39,155 |
+| The Hermit | 4.00% | ~39,155 |
+| The Wheel of Fortune | 4.00% | ~39,155 |
+| True Soldier | 4.00% | ~39,155 |
+| All the President's Men | 4.00% | ~4,300 |
+| Arachnophobia | 4.00% | ~4,300 |
 | Christmas Tree Attack | 3.00% | ~29,366 |
 | Life of the Road | 3.00% | ~29,366 |
 | The High Priestess | 3.00% | ~29,366 |
 | True Warrior | 3.00% | ~29,366 |
 | Legend of The Afterlife | 3.00% | ~29,366 |
-| Relic Ruler | 3.00% | ~3,224 |
+| Relic Ruler | 3.00% | ~3,225 |
 | Bushido and Chill | 2.00% | ~19,577 |
 | To Protect and Serve | 2.00% | ~19,577 |
 | Master Crafter | 2.00% | ~19,577 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 978,858 (Ranked 16)  
-Completed: 2,943 (0.30%) (Ranked 248)  
+Progressed: 978,866 (Ranked 16)  
+Completed: 2,944 (0.30%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -317,7 +317,7 @@ Completed: 2,943 (0.30%) (Ranked 248)
 | 2023-12-16 | 977,366 | 2,924 |
 | 2023-12-17 | 978,015 | 2,930 |
 | 2023-12-18 | 978,465 | 2,935 |
-| 2023-12-19 | 978,858 | 2,943 |
+| 2023-12-19 | 978,866 | 2,944 |
 ## Awards
 Max (Character Customization): 125,194  (Ranked 8)  
 Sum: 431,324 (Ranked 9)  

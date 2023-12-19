@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 158,
+  "EOS_Progressed": 159,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -734,6 +734,11 @@
       "Time": "2023-12-19T21:04:47.7306486+00:00",
       "NumProgressed": 158,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T22:03:28.8835101+00:00",
+      "NumProgressed": 159,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -778,7 +783,7 @@
       "Name": "Casting Finished",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "collect_items_mother",
@@ -858,7 +863,7 @@
       "Name": "Do what you have to",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "earn_all_trophies",
@@ -872,9 +877,9 @@
       "ID": "face_your_fears",
       "SetID": "f2im8d",
       "Name": "Face your fears",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 43
+      "UsersEstimate": 41
     },
     {
       "ID": "find_most_of_family_mementos",
@@ -898,7 +903,7 @@
       "Name": "Scraps of love",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "find_one_photo",
@@ -962,7 +967,7 @@
       "Name": "Heavy Burden",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "in_one_take",
@@ -1018,7 +1023,7 @@
       "Name": "A piece of the story",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "playtime",
@@ -1074,15 +1079,15 @@
       "Name": "Sign of weakness",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "something_important",
       "SetID": "f2im8d",
       "Name": "Something important",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 129
     },
     {
       "ID": "spy_one_item",
@@ -1090,7 +1095,7 @@
       "Name": "Fisherman",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "sword_of_the_serpent",
@@ -1146,7 +1151,7 @@
       "Name": "Wanderer",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1161,14 +1166,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 158,
+      "Progressed": 159,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-19T21:04:47.7306482+00:00",
+  "LastChanged_Achievements": "2023-12-19T22:03:28.8835097+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:26.5525701+00:00",
-  "LastUpdate_Ratings": "2023-12-19T20:58:31.3859746+00:00",
-  "LastUpdate_Achievements": "2023-12-19T21:04:47.7306903+00:00"
+  "LastUpdate_Ratings": "2023-12-19T21:57:52.2193364+00:00",
+  "LastUpdate_Achievements": "2023-12-19T22:03:28.8835809+00:00"
 }

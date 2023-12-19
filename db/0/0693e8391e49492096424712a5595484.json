@@ -2,7 +2,7 @@
   "ID": "0693e8391e49492096424712a5595484",
   "Name": "Pilgrims",
   "ProductSlug": "pilgrims-6d250f",
-  "Ranking_EOS_Progress": 312,
+  "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 55,
   "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 55,
@@ -2535,9 +2535,9 @@
       "ID": "DevilRope",
       "SetID": "db30heh",
       "Name": "The Devil is My Friend",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 423
+      "UsersEstimate": 429
     },
     {
       "ID": "Drunkard",
@@ -2790,8 +2790,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-12-19T21:04:43.5533026+00:00",
+  "LastChanged_Achievements": "2023-12-19T22:03:25.4968061+00:00",
   "LastUpdate_AppInfo": "2023-12-13T02:20:40.9635354+00:00",
-  "LastUpdate_Ratings": "2023-12-19T20:58:28.3281986+00:00",
-  "LastUpdate_Achievements": "2023-12-19T21:04:43.5533501+00:00"
+  "LastUpdate_Ratings": "2023-12-19T21:57:50.0616214+00:00",
+  "LastUpdate_Achievements": "2023-12-19T22:03:25.4968514+00:00"
 }

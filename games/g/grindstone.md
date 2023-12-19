@@ -1,7 +1,7 @@
 # Grindstone
 [Store](https://store.epicgames.com/en-US/p/grindstone)  
 [View Rawdata](../../db/g/grindstone.json)  
-Rating: 4.84 (Ranked 54)  
+Rating: 4.84 (Ranked 53)  
 Number of Ratings: 63  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -57,7 +57,7 @@ Number of Ratings: 63  (23.09.2022)
 | Completionist | 0.60% | ~31 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,204 (Ranked 197)  
-Completed: 30 (0.58%) (Ranked 200)  
+Completed: 30 (0.58%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

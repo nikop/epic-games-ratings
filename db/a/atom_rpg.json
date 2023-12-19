@@ -403,9 +403,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1435,
+  "EOS_Progressed": 1436,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3478,6 +3478,11 @@
       "Time": "2023-12-19T19:09:15.1053122+00:00",
       "NumProgressed": 1435,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T22:09:48.2389404+00:00",
+      "NumProgressed": 1436,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -3545,7 +3550,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1421
+      "UsersEstimate": 1422
     },
     {
       "ID": "EXPERT_1",
@@ -3641,7 +3646,7 @@
       "Name": "One HIT wonder",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -3649,7 +3654,7 @@
       "Name": "One shot, one kill",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "PACIFIST",
@@ -3745,7 +3750,7 @@
       "Name": "Traveler",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "VVE",
@@ -3776,15 +3781,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1435,
+      "Progressed": 1436,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-11-03T17:57:55.7845483+00:00",
-  "LastChanged_Achievements": "2023-12-19T21:10:54.8529958+00:00",
+  "LastChanged_Achievements": "2023-12-19T22:09:48.2389401+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:19.4071615+00:00",
-  "LastUpdate_Ratings": "2023-12-19T20:57:53.8084883+00:00",
-  "LastUpdate_Achievements": "2023-12-19T21:10:54.8530324+00:00"
+  "LastUpdate_Ratings": "2023-12-19T21:57:25.2142952+00:00",
+  "LastUpdate_Achievements": "2023-12-19T22:09:48.2389829+00:00"
 }

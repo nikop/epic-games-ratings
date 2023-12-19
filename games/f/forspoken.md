@@ -1,7 +1,7 @@
 # Forspoken
 [Store](https://store.epicgames.com/en-US/p/forspoken)  
 [View Rawdata](../../db/f/forspoken.json)  
-Rating: 4.11 (Ranked 981)  
+Rating: 4.12 (Ranked 979)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,8 +11,8 @@ Rating: 4.11 (Ranked 981)
 | Knock 'Em Dead | 7.00% | ~3,111 |
 | Pilgrimage: Initiate | 7.00% | ~3,111 |
 | Hell of a Run | 7.00% | ~3,111 |
-| Leapfrogger | 6.00% | ~2,666 |
-| Call of the Fount: Baptized | 6.00% | ~2,666 |
+| Leapfrogger | 6.00% | ~2,667 |
+| Call of the Fount: Baptized | 6.00% | ~2,667 |
 | No Mercy | 5.00% | ~2,222 |
 | Explorer: Seeker | 5.00% | ~2,222 |
 | Help Me Out Here | 5.00% | ~2,222 |
@@ -59,7 +59,7 @@ Rating: 4.11 (Ranked 981)
 | Remembrance | 0.10% | ~44 |
 | Cat Person | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,440 (Ranked 119)  
+Progressed: 44,442 (Ranked 119)  
 Completed: 3 (0.01%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,11 +302,14 @@ Completed: 3 (0.01%) (Ranked 360)
 | 2023-12-16 | 44,114 | 3 |
 | 2023-12-17 | 44,267 | 3 |
 | 2023-12-18 | 44,366 | 3 |
-| 2023-12-19 | 44,440 | 3 |
+| 2023-12-19 | 44,442 | 3 |
 ## Awards
+Max (Character Customization): 32  (Ranked 501)  
+Sum: 32 (Ranked 521)  
+Diff (max vs sum): -20  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 30 |
+| This game has Inclusive Character Customization | 32 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -394,3 +397,4 @@ Completed: 3 (0.01%) (Ranked 360)
 | 2023-12-16 | 4.15 | 30 | 30 |
 | 2023-12-17 | 4.15 | 0 | 0 |
 | 2023-12-18 | 4.11 | 0 | 0 |
+| 2023-12-19 | 4.12 | 32 | 32 |

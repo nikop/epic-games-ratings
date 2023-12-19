@@ -9,7 +9,7 @@
 | Job one. DONE! | 62.00% | ~160 |
 | You are Carol Vorderman | 59.00% | ~152 |
 | Toby foolery | 50.00% | ~129 |
-| Instinct | 39.00% | ~101 |
+| Instinct | 40.00% | ~103 |
 | Don't fear the baldness | 38.00% | ~98 |
 | Blow | 36.00% | ~93 |
 | Just like me | 34.00% | ~88 |

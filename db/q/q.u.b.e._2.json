@@ -3,11 +3,11 @@
   "Name": "Q.U.B.E. 2",
   "ProductSlug": "q-u-b-e-2",
   "Ranking_Rating": 685,
-  "Ranking_Popularity": 566,
-  "Ranking_PopularitySum": 566,
+  "Ranking_Popularity": 567,
+  "Ranking_PopularitySum": 567,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
@@ -587,9 +587,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44203,
+  "EOS_Progressed": 44205,
   "EOS_Completed": 214,
-  "EOS_NewPlayers": 866,
+  "EOS_NewPlayers": 860,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -11187,6 +11187,11 @@
       "Time": "2023-12-19T21:10:03.4359744+00:00",
       "NumProgressed": 44203,
       "NumCompleted": 214
+    },
+    {
+      "Time": "2023-12-19T22:09:09.7296049+00:00",
+      "NumProgressed": 44205,
+      "NumCompleted": 214
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -11199,7 +11204,7 @@
       "Name": "Descendants",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 6630
+      "UsersEstimate": 6631
     },
     {
       "ID": "ACH_BLUEEND",
@@ -11207,7 +11212,7 @@
       "Name": "The Flawed Teacher",
       "Percentage": 12,
       "XP": 120,
-      "UsersEstimate": 5304
+      "UsersEstimate": 5305
     },
     {
       "ID": "ACH_CUBEKILLER",
@@ -11359,7 +11364,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 22986
+      "UsersEstimate": 22987
     },
     {
       "ID": "ACH_PEAK",
@@ -11391,7 +11396,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 30058
+      "UsersEstimate": 30059
     },
     {
       "ID": "ACH_S4",
@@ -11407,7 +11412,7 @@
       "Name": "Cogs in the Machine",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 15913
+      "UsersEstimate": 15914
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -11415,7 +11420,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 33152
+      "UsersEstimate": 33154
     },
     {
       "ID": "ACH_STATUE",
@@ -11423,22 +11428,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 19007
+      "UsersEstimate": 19008
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 44203,
+      "Progressed": 44205,
       "Completed": 214
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-12-17T06:58:25.2845688+00:00",
-  "LastChanged_Achievements": "2023-12-19T21:10:03.4359739+00:00",
+  "LastChanged_Achievements": "2023-12-19T22:09:09.7296045+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:08.0533856+00:00",
-  "LastUpdate_Ratings": "2023-12-19T21:00:57.3607011+00:00",
-  "LastUpdate_Achievements": "2023-12-19T21:10:03.4360574+00:00"
+  "LastUpdate_Ratings": "2023-12-19T21:59:35.7380442+00:00",
+  "LastUpdate_Achievements": "2023-12-19T22:09:09.729675+00:00"
 }

@@ -9,8 +9,8 @@ Number of Ratings: 285  (23.09.2022)
 | Faceroll the Bones | 26.00% | ~1,472 |
 | Hit 'Em Where It Hurts | 25.00% | ~1,416 |
 | Perk Shard Punch Card | 25.00% | ~1,416 |
+| That'll Leave a Mark | 25.00% | ~1,416 |
 | Debuff Dogpile | 24.00% | ~1,359 |
-| That'll Leave a Mark | 24.00% | ~1,359 |
 | Mushroom Madness! | 22.00% | ~1,246 |
 | First Strike | 20.00% | ~1,133 |
 | Spending Spree | 19.00% | ~1,076 |

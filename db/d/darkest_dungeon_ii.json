@@ -9918,9 +9918,9 @@
       "Count": 1031
     }
   ],
-  "EOS_Progressed": 128586,
+  "EOS_Progressed": 128597,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2135,
+  "EOS_NewPlayers": 2140,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35848,6 +35848,11 @@
       "Time": "2023-12-19T21:10:01.2019528+00:00",
       "NumProgressed": 128586,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-19T22:09:08.1516363+00:00",
+      "NumProgressed": 128597,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35865,9 +35870,9 @@
       "ID": "affinity_resolute_first_time",
       "SetID": "64l4lke",
       "Name": "Serenity Now!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2572
+      "UsersEstimate": 3858
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -35987,7 +35992,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5143
+      "UsersEstimate": 5144
     },
     {
       "ID": "combat_kill_cadavers",
@@ -36211,7 +36216,7 @@
       "Name": "Autodidact",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5143
+      "UsersEstimate": 5144
     },
     {
       "ID": "hero_story_complete_all",
@@ -36395,7 +36400,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "combat_kill_collector",
@@ -36403,7 +36408,7 @@
       "Name": "This guy... again?",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -36451,7 +36456,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "quest_complete_crusader",
@@ -36490,21 +36495,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 128586,
+      "Progressed": 128597,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 3455,
+      "Progressed": 3466,
       "Completed": 802
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-19T13:58:45.7072148+00:00",
-  "LastChanged_Achievements": "2023-12-19T21:10:01.2019521+00:00",
+  "LastChanged_Achievements": "2023-12-19T22:09:08.1516358+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-19T21:00:02.7025372+00:00",
-  "LastUpdate_Achievements": "2023-12-19T21:10:01.2021374+00:00"
+  "LastUpdate_Ratings": "2023-12-19T21:58:57.8539838+00:00",
+  "LastUpdate_Achievements": "2023-12-19T22:09:08.1518208+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
   "Ranking_Rating": 1064,
-  "Ranking_Popularity": 566,
-  "Ranking_PopularitySum": 566,
+  "Ranking_Popularity": 567,
+  "Ranking_PopularitySum": 567,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -123,9 +123,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 81044,
+  "EOS_Progressed": 81049,
   "EOS_Completed": 888,
-  "EOS_NewPlayers": 600,
+  "EOS_NewPlayers": 602,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.1,
   "EosHistory": [
@@ -27238,6 +27238,11 @@
       "Time": "2023-12-19T21:07:35.4917823+00:00",
       "NumProgressed": 81044,
       "NumCompleted": 888
+    },
+    {
+      "Time": "2023-12-19T22:05:32.294704+00:00",
+      "NumProgressed": 81049,
+      "NumCompleted": 888
     }
   ],
   "TotalAchievements": 25,
@@ -27265,7 +27270,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 19,
       "XP": 150,
-      "UsersEstimate": 15398
+      "UsersEstimate": 15399
     },
     {
       "ID": "Audiophile",
@@ -27281,7 +27286,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 17830
+      "UsersEstimate": 17831
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -27289,7 +27294,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 14588
+      "UsersEstimate": 14589
     },
     {
       "ID": "Butcher",
@@ -27321,7 +27326,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 16209
+      "UsersEstimate": 16210
     },
     {
       "ID": "Hearty",
@@ -27353,7 +27358,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 17019
+      "UsersEstimate": 17020
     },
     {
       "ID": "Meaty",
@@ -27369,7 +27374,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 15398
+      "UsersEstimate": 15399
     },
     {
       "ID": "Nice Try",
@@ -27377,7 +27382,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 12967
+      "UsersEstimate": 12968
     },
     {
       "ID": "Nothing Left to Say",
@@ -27401,7 +27406,7 @@
       "Name": "Right On Target",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 11346
+      "UsersEstimate": 11347
     },
     {
       "ID": "Sniper",
@@ -27448,7 +27453,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 81044,
+      "Progressed": 81049,
       "Completed": 888
     }
   ],
@@ -27456,8 +27461,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-11-28T02:22:55.8136009+00:00",
-  "LastChanged_Achievements": "2023-12-19T21:07:35.4917819+00:00",
+  "LastChanged_Achievements": "2023-12-19T22:05:32.2947035+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:36.6719063+00:00",
-  "LastUpdate_Ratings": "2023-12-19T21:01:00.9694116+00:00",
-  "LastUpdate_Achievements": "2023-12-19T21:07:35.4919343+00:00"
+  "LastUpdate_Ratings": "2023-12-19T21:59:38.6872254+00:00",
+  "LastUpdate_Achievements": "2023-12-19T22:05:32.2948267+00:00"
 }

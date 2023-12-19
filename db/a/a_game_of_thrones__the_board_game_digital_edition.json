@@ -1344,7 +1344,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 30796,
+  "EOS_Progressed": 30801,
   "EOS_Completed": 84,
   "EOS_NewPlayers": 571,
   "EOS_NewCompleters": 1,
@@ -27414,6 +27414,11 @@
       "Time": "2023-12-19T21:10:36.8797363+00:00",
       "NumProgressed": 30796,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2023-12-19T22:09:34.8769136+00:00",
+      "NumProgressed": 30801,
+      "NumCompleted": 84
     }
   ],
   "TotalAchievements": 22,
@@ -27529,7 +27534,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5543
+      "UsersEstimate": 5544
     },
     {
       "ID": "1029",
@@ -27545,7 +27550,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6159
+      "UsersEstimate": 6160
     },
     {
       "ID": "1031",
@@ -27553,7 +27558,7 @@
       "Name": "Well Stocked",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4003
+      "UsersEstimate": 4004
     },
     {
       "ID": "1032",
@@ -27561,7 +27566,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 12318
+      "UsersEstimate": 12320
     },
     {
       "ID": "1033",
@@ -27585,30 +27590,30 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 4003
+      "UsersEstimate": 4004
     },
     {
       "ID": "1036",
       "SetID": "9l3d3cl",
       "Name": "A Long Journey",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2464
+      "UsersEstimate": 2156
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 30796,
+      "Progressed": 30801,
       "Completed": 84
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-16T17:01:32.5385124+00:00",
-  "LastChanged_Achievements": "2023-12-19T21:10:36.8797359+00:00",
+  "LastChanged_Achievements": "2023-12-19T22:09:34.8769134+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:33.5053041+00:00",
-  "LastUpdate_Ratings": "2023-12-19T20:58:35.7380074+00:00",
-  "LastUpdate_Achievements": "2023-12-19T21:10:36.8799303+00:00"
+  "LastUpdate_Ratings": "2023-12-19T21:57:55.594232+00:00",
+  "LastUpdate_Achievements": "2023-12-19T22:09:34.8770692+00:00"
 }

@@ -5,15 +5,15 @@ Rating: 4.64 (Ranked 340)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 37.00% | ~383 |
-| Rail Rat | 29.00% | ~300 |
+| Time Heals All Wounds | 37.00% | ~384 |
+| Rail Rat | 29.00% | ~301 |
 | The Mysterious Stranger | 28.00% | ~290 |
 | Immaculate Aim | 24.00% | ~249 |
 | The Brass Boss | 24.00% | ~249 |
-| Make Up For Lost Time | 23.00% | ~238 |
-| Time Flies | 23.00% | ~238 |
-| No, Thanks! | 23.00% | ~238 |
-| The Prince in Heels | 23.00% | ~238 |
+| Make Up For Lost Time | 23.00% | ~239 |
+| Time Flies | 23.00% | ~239 |
+| No, Thanks! | 23.00% | ~239 |
+| The Prince in Heels | 23.00% | ~239 |
 | The Steel Shadow | 22.00% | ~228 |
 | The Harder They Fall | 22.00% | ~228 |
 | Breaking Down Barriers | 22.00% | ~228 |
@@ -26,8 +26,8 @@ Rating: 4.64 (Ranked 340)
 | The Betrayer | 20.00% | ~207 |
 | Golem Chaser | 20.00% | ~207 |
 | Check Your Pulse | 19.00% | ~197 |
-| The Loose Cannon | 18.00% | ~186 |
-| The Family Fortune | 18.00% | ~186 |
+| The Loose Cannon | 18.00% | ~187 |
+| The Family Fortune | 18.00% | ~187 |
 | Street Style | 17.00% | ~176 |
 | The Man Who Shattered Time | 17.00% | ~176 |
 | Whiz Kid | 14.00% | ~145 |
@@ -59,8 +59,8 @@ Rating: 4.64 (Ranked 340)
 | Raw Talent | 0.70% | ~7 |
 | Going to Live Forever | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,036 (Ranked 274)  
-Completed: 6 (0.58%) (Ranked 200)  
+Progressed: 1,037 (Ranked 274)  
+Completed: 6 (0.58%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -208,7 +208,7 @@ Completed: 6 (0.58%) (Ranked 200)
 | 2023-12-16 | 1,000 | 6 |
 | 2023-12-17 | 1,021 | 6 |
 | 2023-12-18 | 1,030 | 6 |
-| 2023-12-19 | 1,036 | 6 |
+| 2023-12-19 | 1,037 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

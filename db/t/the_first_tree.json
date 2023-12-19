@@ -3,8 +3,8 @@
   "Name": "The First Tree",
   "ProductSlug": "the-first-tree",
   "Ranking_Rating": 1011,
-  "Ranking_Popularity": 566,
-  "Ranking_PopularitySum": 566,
+  "Ranking_Popularity": 567,
+  "Ranking_PopularitySum": 567,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 167,
@@ -271,9 +271,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 39221,
+  "EOS_Progressed": 39226,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 289,
+  "EOS_NewPlayers": 288,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -21441,6 +21441,11 @@
       "Time": "2023-12-19T21:04:58.8857817+00:00",
       "NumProgressed": 39221,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-12-19T22:03:37.0341561+00:00",
+      "NumProgressed": 39226,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 14,
@@ -21468,7 +21473,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 10197
+      "UsersEstimate": 10199
     },
     {
       "ID": "allItems",
@@ -21476,7 +21481,7 @@
       "Name": "Excavator",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "allSecrets",
@@ -21532,7 +21537,7 @@
       "Name": "Hare Today",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 9413
+      "UsersEstimate": 9414
     },
     {
       "ID": "firstItem",
@@ -21540,7 +21545,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 30200
+      "UsersEstimate": 30204
     },
     {
       "ID": "roots",
@@ -21563,15 +21568,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 39221,
+      "Progressed": 39226,
       "Completed": 121
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-12-09T15:00:19.5920578+00:00",
-  "LastChanged_Achievements": "2023-12-19T21:04:58.8857812+00:00",
+  "LastChanged_Achievements": "2023-12-19T22:03:37.0341556+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:34.0215734+00:00",
-  "LastUpdate_Ratings": "2023-12-19T20:59:05.9588363+00:00",
-  "LastUpdate_Achievements": "2023-12-19T21:04:58.8858992+00:00"
+  "LastUpdate_Ratings": "2023-12-19T21:58:17.2191953+00:00",
+  "LastUpdate_Achievements": "2023-12-19T22:03:37.0342711+00:00"
 }

@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 49.00% | ~429 |
+| Break Out | 49.00% | ~430 |
 | Trinity | 21.00% | ~184 |
 | I Found It | 18.00% | ~158 |
 | A Taste of Wrath | 17.00% | ~149 |
 | Find Allies | 16.00% | ~140 |
 | Shatter Them All | 16.00% | ~140 |
 | The Collector | 16.00% | ~140 |
-| Geared Up | 15.00% | ~131 |
+| Geared Up | 15.00% | ~132 |
 | Adventurer | 14.00% | ~123 |
 | Fashion Victim | 14.00% | ~123 |
 | Tributes of Caladrias | 13.00% | ~114 |
@@ -20,16 +20,16 @@
 | Powerful Allies | 11.00% | ~96 |
 | Big Bazar | 9.00% | ~79 |
 | Essence Blow | 7.00% | ~61 |
+| Alchemist | 6.00% | ~53 |
 | Calm before the Storm | 5.00% | ~44 |
 | The Mentor | 5.00% | ~44 |
-| Alchemist | 5.00% | ~44 |
 | Airborne | 4.00% | ~35 |
 | To Battle | 3.00% | ~26 |
 | Godslayer | 3.00% | ~26 |
 | Shatterer | 3.00% | ~26 |
+| Fine Feathers Make Fine Birds | 3.00% | ~26 |
 | Miner | 3.00% | ~26 |
 | Clear Sight | 2.00% | ~18 |
-| Fine Feathers Make Fine Birds | 2.00% | ~18 |
 | A Queen's Tale | 2.00% | ~18 |
 | Slayer | 1.00% | ~9 |
 | Flawless Victory | 1.00% | ~9 |
@@ -41,7 +41,7 @@
 | All That Gold | 0.60% | ~5 |
 | Feeling Fancy | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 876 (Ranked 281)  
+Progressed: 877 (Ranked 281)  
 Completed: 3 (0.34%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,4 +109,4 @@ Completed: 3 (0.34%) (Ranked 240)
 | 2023-12-16 | 621 | 3 |
 | 2023-12-17 | 752 | 3 |
 | 2023-12-18 | 818 | 3 |
-| 2023-12-19 | 876 | 3 |
+| 2023-12-19 | 877 | 3 |

@@ -3,8 +3,8 @@
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
   "Ranking_Rating": 91,
-  "Ranking_Popularity": 566,
-  "Ranking_PopularitySum": 566,
+  "Ranking_Popularity": 567,
+  "Ranking_PopularitySum": 567,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 58,
@@ -93,9 +93,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5492,
+  "EOS_Progressed": 5499,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2768,
+  "EOS_NewPlayers": 2764,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1578,6 +1578,11 @@
       "Time": "2023-12-19T21:10:30.6794832+00:00",
       "NumProgressed": 5492,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T22:09:30.0617447+00:00",
+      "NumProgressed": 5499,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -1590,15 +1595,15 @@
       "Name": "Conspiracy",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1210
     },
     {
       "ID": "03_TheStolenStar",
       "SetID": "37a94m8",
       "Name": "Stolen Star",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 549
+      "UsersEstimate": 605
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -1702,7 +1707,7 @@
       "Name": "The Rise",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "17_TheExemplar",
@@ -1718,7 +1723,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "19_TheVoidWolf",
@@ -1750,7 +1755,7 @@
       "Name": "Perfect Timing",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "23_DynastyRestored",
@@ -1798,7 +1803,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -1806,7 +1811,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "30_The GreatestExploration",
@@ -1828,17 +1833,17 @@
       "ID": "32_AviationSaviour",
       "SetID": "37a94m8",
       "Name": "Aviation Saviour",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 55
     },
     {
       "ID": "33_TzeentchCleaning",
       "SetID": "37a94m8",
       "Name": "Cleening Out the Tzeentch",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 494
+      "UsersEstimate": 550
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -1860,9 +1865,9 @@
       "ID": "36_TheAdventurousArchaelogist",
       "SetID": "37a94m8",
       "Name": "Adventurous Archaeologist",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 22
     },
     {
       "ID": "37_TheSirenicalDiplomat",
@@ -1942,7 +1947,7 @@
       "Name": "A Spark",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "47_AFlame",
@@ -2044,9 +2049,9 @@
       "ID": "59_ThePossessedShip",
       "SetID": "37a94m8",
       "Name": "The Possessed Ship",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 22
     },
     {
       "ID": "60_NotSoBottomlessPit",
@@ -2109,7 +2114,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 5492,
+      "Progressed": 5499,
       "Completed": 0
     }
   ],
@@ -2117,8 +2122,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-19T01:47:20.7959917+00:00",
-  "LastChanged_Achievements": "2023-12-19T21:10:30.6794825+00:00",
+  "LastChanged_Achievements": "2023-12-19T22:09:30.061744+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:14.7846288+00:00",
-  "LastUpdate_Ratings": "2023-12-19T21:02:51.7895727+00:00",
-  "LastUpdate_Achievements": "2023-12-19T21:10:30.6795331+00:00"
+  "LastUpdate_Ratings": "2023-12-19T22:00:21.1936845+00:00",
+  "LastUpdate_Achievements": "2023-12-19T22:09:30.0618364+00:00"
 }

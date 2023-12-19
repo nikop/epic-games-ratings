@@ -3,11 +3,11 @@
   "Name": "The Uncertain: Last Quiet Day",
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_Rating": 1058,
-  "Ranking_Popularity": 566,
-  "Ranking_PopularitySum": 566,
+  "Ranking_Popularity": 567,
+  "Ranking_PopularitySum": 567,
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -39,11 +39,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 598,
+  "EOS_Progressed": 599,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.18,
+  "EOS_Completed_Percentage": 3.17,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:50.241177+00:00",
@@ -919,6 +919,11 @@
       "Time": "2023-12-19T10:09:49.4273868+00:00",
       "NumProgressed": 598,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-12-19T22:09:48.4040929+00:00",
+      "NumProgressed": 599,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 32,
@@ -970,7 +975,7 @@
       "Name": "Curious",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "EVERYBODY_LIES",
@@ -978,7 +983,7 @@
       "Name": "Everybody lies",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "EVERY_LITTLE_HELPS",
@@ -1185,7 +1190,7 @@
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 598,
+      "Progressed": 599,
       "Completed": 19
     }
   ],
@@ -1193,8 +1198,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-12-08T04:01:04.3643054+00:00",
-  "LastChanged_Achievements": "2023-12-19T21:10:54.9056205+00:00",
+  "LastChanged_Achievements": "2023-12-19T22:09:48.4040927+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.7016288+00:00",
-  "LastUpdate_Ratings": "2023-12-19T21:00:02.4432301+00:00",
-  "LastUpdate_Achievements": "2023-12-19T21:10:54.9056403+00:00"
+  "LastUpdate_Ratings": "2023-12-19T21:58:57.6252658+00:00",
+  "LastUpdate_Achievements": "2023-12-19T22:09:48.404111+00:00"
 }

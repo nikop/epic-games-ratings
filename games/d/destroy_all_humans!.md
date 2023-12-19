@@ -6,23 +6,23 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kaijuiced | 66.00% | ~33 |
-| Lie Back and Think of Albion | 62.00% | ~31 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 54.00% | ~27 |
+| Kaijuiced | 68.00% | ~34 |
+| Lie Back and Think of Albion | 64.00% | ~32 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 56.00% | ~28 |
 | Yettisoned | 50.00% | ~25 |
-| I Look Up As I Walk to Takoshima | 44.00% | ~22 |
+| I Look Up As I Walk to Takoshima | 46.00% | ~23 |
 | Shop Til They Drop | 44.00% | ~22 |
-| Perfect Probulator | 42.00% | ~21 |
+| Perfect Probulator | 44.00% | ~22 |
 | Lobster Blisque | 40.00% | ~20 |
+| Freshly Squeezed | 34.00% | ~17 |
 | Ducks in a Row, Fish in a Barrel | 34.00% | ~17 |
-| Freshly Squeezed | 32.00% | ~16 |
 | Earthly Pleasures | 30.00% | ~15 |
 | Fly Me to the Moon Base | 28.00% | ~14 |
 | Forbidden Donut | 26.00% | ~13 |
 | Pimp My Raid | 24.00% | ~12 |
 | Bodied Sattva | 24.00% | ~12 |
+| Trans-Siberian Express | 22.00% | ~11 |
 | Upgreatest | 20.00% | ~10 |
-| Trans-Siberian Express | 20.00% | ~10 |
 | Deincarnated | 16.00% | ~8 |
 | Rock of the Bay | 16.00% | ~8 |
 | Re-Return of the Clone of the Invasion II-2 | 14.00% | ~7 |

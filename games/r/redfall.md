@@ -18,9 +18,9 @@ Rating: 3.57 (Ranked 1,062)
 | Welcome to the Neighborhood | 4.00% | ~78 |
 | Throw The First Stone | 4.00% | ~78 |
 | Sucks To Be You | 4.00% | ~78 |
+| Heart Attack | 4.00% | ~78 |
 | Bad Wiring | 3.00% | ~58 |
 | Grounded | 3.00% | ~58 |
-| Heart Attack | 3.00% | ~58 |
 | Skin of Their Teeth | 3.00% | ~58 |
 | Neighborhood Revitalization | 2.00% | ~39 |
 | Radio Silence | 2.00% | ~39 |

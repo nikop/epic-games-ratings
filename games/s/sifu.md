@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 3.00% | ~22,088 |
-| The Assault | 2.00% | ~14,725 |
-| Life is your teacher | 2.00% | ~14,725 |
-| Lightning Hands | 2.00% | ~14,725 |
+| The Old Grandmaster | 3.00% | ~22,089 |
+| The Assault | 2.00% | ~14,726 |
+| Life is your teacher | 2.00% | ~14,726 |
+| Lightning Hands | 2.00% | ~14,726 |
 | The Hateful Pole Fighter | 1.00% | ~7,363 |
 | A Lady's Blood in the Snow | 1.00% | ~7,363 |
 | Kill Nil | 1.00% | ~7,363 |
@@ -22,8 +22,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 1.00% | ~7,363 |
 | Rumble in the Hangar | 1.00% | ~7,363 |
 | Diligence as a goal | 1.00% | ~456 |
-| Lady Wing Chun | 0.90% | ~6,626 |
-| I know Kung-Fu | 0.90% | ~6,626 |
+| Lady Wing Chun | 0.90% | ~6,627 |
+| I know Kung-Fu | 0.90% | ~6,627 |
 | Project Arena | 0.90% | ~410 |
 | Furious Fists | 0.80% | ~5,890 |
 | Qi Gong: Mind | 0.80% | ~5,890 |
@@ -32,7 +32,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kung-Fu Tussle | 0.70% | ~5,154 |
 | Fight the way you practice | 0.70% | ~319 |
 | Dance of the Praying Mantis | 0.60% | ~4,418 |
-| Martial Hub | 0.60% | ~273 |
+| Martial Hub | 0.60% | ~274 |
 | Bloody Sport | 0.50% | ~228 |
 | Muk Yan Master | 0.40% | ~2,945 |
 | Tiger on Fire | 0.40% | ~2,945 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~46 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 736,263 (Ranked 24)  
+Progressed: 736,285 (Ranked 24)  
 Completed: 12,958 (1.76%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 12,958 (1.76%) (Ranked 140)
 | 2023-12-16 | 730,184 | 12,954 |
 | 2023-12-17 | 733,014 | 12,955 |
 | 2023-12-18 | 734,825 | 12,956 |
-| 2023-12-19 | 736,263 | 12,958 |
+| 2023-12-19 | 736,285 | 12,958 |
 ## Awards
 Max (Great Boss Battles): 6,965  (Ranked 55)  
 Sum: 12,211 (Ranked 84)  

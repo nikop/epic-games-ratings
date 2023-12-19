@@ -17,6 +17,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Before the Mongol Horde | 0.10% | ~16 |
 | Carthage - Ox Hide | 0.10% | ~16 |
 | Bronze Victory (Carthage 1) | 0.10% | ~16 |
+| Gold Victory (Carthage 1) | 0.10% | ~16 |
 | Silver Victory (Carthage 1) | 0.10% | ~16 |
 | Able | 0.10% | ~16 |
 | Ambitious | 0.10% | ~16 |
@@ -60,6 +61,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just Difficulty | 0.10% | ~16 |
 | Noble Difficulty | 0.10% | ~16 |
 | Strong Difficulty | 0.10% | ~16 |
+| Event Level High | 0.10% | ~16 |
+| Artisans | 0.10% | ~16 |
 | Champions | 0.10% | ~16 |
 | Clerics | 0.10% | ~16 |
 | Hunters | 0.10% | ~16 |
@@ -95,7 +98,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 3 | 0.10% | ~16 |
 | Learn to Play 5 | 0.10% | ~16 |
 | Macedonian Wars | 0.10% | ~16 |
+| Realistic Mortality | 0.10% | ~16 |
 | Assyria | 0.10% | ~16 |
+| Babylonia | 0.10% | ~16 |
 | Egypt | 0.10% | ~16 |
 | Greece | 0.10% | ~16 |
 | Hatti | 0.10% | ~16 |
@@ -122,6 +127,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Industrial Progress | 0.10% | ~16 |
 | Military Prestige | 0.10% | ~16 |
 | Dualism | 0.10% | ~16 |
+| Enlightenment | 0.10% | ~16 |
 | Gnosticism | 0.10% | ~16 |
 | Mythology | 0.10% | ~16 |
 | Redemption | 0.10% | ~16 |
@@ -136,10 +142,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 0.10% | ~16 |
 | No Undo | 0.10% | ~16 |
 | Points Victory | 0.10% | ~16 |
+| Role-Playing | 0.10% | ~16 |
 | Win a Single Player Game | 0.10% | ~16 |
 | The Clergy | 0.10% | ~16 |
 | Deposed Tribe | 0.10% | ~16 |
 | The Great Mage | 0.10% | ~16 |
+| Royal Library | 0.10% | ~16 |
 | Centenarian | 0.00% | ~0 |
 | Alexander the who? | 0.00% | ~0 |
 | Alliance Victory | 0.00% | ~0 |
@@ -151,7 +159,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Blade of the Monkey | 0.00% | ~0 |
 | Hagia Sophia in Byzantion | 0.00% | ~0 |
 | Epic Victory (Carthage 1) | 0.00% | ~0 |
-| Gold Victory (Carthage 1) | 0.00% | ~0 |
 | Carthage - Riches and Influence | 0.00% | ~0 |
 | Bronze Victory (Carthage 2) | 0.00% | ~0 |
 | Epic Victory (Carthage 2) | 0.00% | ~0 |
@@ -189,8 +196,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Elephant in Elephantine | 0.00% | ~0 |
 | Ethnic Diversity | 0.00% | ~0 |
 | Et tu Brutus? | 0.00% | ~0 |
-| Event Level High | 0.00% | ~0 |
-| Artisans | 0.00% | ~0 |
 | Statesmen | 0.00% | ~0 |
 | Battle of the Fertile Crescent | 0.00% | ~0 |
 | Five Routs | 0.00% | ~0 |
@@ -250,8 +255,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Medo-Babylonian Conquest | 0.00% | ~0 |
 | Pyramids in Menefer | 0.00% | ~0 |
 | Merchants of the Levant | 0.00% | ~0 |
-| Realistic Mortality | 0.00% | ~0 |
-| Babylonia | 0.00% | ~0 |
 | Carthage | 0.00% | ~0 |
 | Persia | 0.00% | ~0 |
 | Rome | 0.00% | ~0 |
@@ -270,7 +273,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Papacy | 0.00% | ~0 |
 | Building Wonders | 0.00% | ~0 |
 | Ten Crowns | 0.00% | ~0 |
-| Enlightenment | 0.00% | ~0 |
 | Legalism | 0.00% | ~0 |
 | Word of God | 0.00% | ~0 |
 | Cataphract Archer | 0.00% | ~0 |
@@ -284,7 +286,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | One City Challenge | 0.00% | ~0 |
 | Randomized Families | 0.00% | ~0 |
 | Randomized Leaders | 0.00% | ~0 |
-| Role-Playing | 0.00% | ~0 |
 | Time Victory | 0.00% | ~0 |
 | Necropolis in Waset | 0.00% | ~0 |
 | Win a 1-v-1 Game | 0.00% | ~0 |
@@ -357,7 +358,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Heliopolis | 0.00% | ~0 |
 | Jebel Barkal | 0.00% | ~0 |
 | Jerwan Aqueduct | 0.00% | ~0 |
-| Royal Library | 0.00% | ~0 |
 | Yazilikaya | 0.00% | ~0 |
 | Jerwan Aqueduct in Jerwan | 0.00% | ~0 |
 | Jebel Barkal in Napata | 0.00% | ~0 |

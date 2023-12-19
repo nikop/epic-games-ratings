@@ -4,7 +4,7 @@
   "ProductSlug": "strike-force-kitty-4603e5",
   "Ranking_EOS_Progress": 455,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -686,9 +686,9 @@
       "ID": "ach27",
       "SetID": "baneh2j",
       "Name": "Preparation",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 35,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ach28",
@@ -750,9 +750,9 @@
       "ID": "ach6",
       "SetID": "baneh2j",
       "Name": "On the style",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 35,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ach7",
@@ -789,8 +789,8 @@
   ],
   "FirstSeen": "2023-10-28T07:00:19.541662+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6926977+00:00",
-  "LastChanged_Achievements": "2023-12-19T21:07:57.8803707+00:00",
+  "LastChanged_Achievements": "2023-12-19T22:05:48.9949696+00:00",
   "LastUpdate_AppInfo": "2023-12-13T08:56:58.3281162+00:00",
-  "LastUpdate_Ratings": "2023-12-19T21:00:46.9851733+00:00",
-  "LastUpdate_Achievements": "2023-12-19T21:07:57.8803991+00:00"
+  "LastUpdate_Ratings": "2023-12-19T21:59:29.4755247+00:00",
+  "LastUpdate_Achievements": "2023-12-19T22:05:48.994989+00:00"
 }

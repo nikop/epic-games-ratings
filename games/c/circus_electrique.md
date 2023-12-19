@@ -14,20 +14,20 @@ Number of Ratings: 22  (23.09.2022)
 | More Brain Than Brawn | 31.00% | ~150 |
 | Perfect Illusion | 25.00% | ~121 |
 | Hundred Percent First | 25.00% | ~121 |
-| Dirty Dozen | 21.00% | ~101 |
+| Dirty Dozen | 21.00% | ~102 |
 | Fan Service | 19.00% | ~92 |
 | Lion Tamer | 18.00% | ~87 |
 | King of District 1 | 17.00% | ~82 |
 | Amazing! | 17.00% | ~82 |
-| Lucky Day | 15.00% | ~72 |
-| Bar Brawler | 15.00% | ~72 |
-| Flawless Presentation | 15.00% | ~72 |
+| Lucky Day | 15.00% | ~73 |
+| Bar Brawler | 15.00% | ~73 |
+| Flawless Presentation | 15.00% | ~73 |
 | One More Thing... | 14.00% | ~68 |
 | King of District 2 | 13.00% | ~63 |
 | Time Travel! | 12.00% | ~58 |
 | Marketing Manager | 11.00% | ~53 |
-| Circus Versus Circus | 9.00% | ~43 |
-| King of District 3 | 9.00% | ~43 |
+| Circus Versus Circus | 9.00% | ~44 |
+| King of District 3 | 9.00% | ~44 |
 | Club Member | 7.00% | ~34 |
 | Hundred Percent Second | 7.00% | ~34 |
 | Spirits High | 7.00% | ~34 |
@@ -37,10 +37,10 @@ Number of Ratings: 22  (23.09.2022)
 | King of District 4 | 5.00% | ~24 |
 | City Savior | 4.00% | ~19 |
 | King of District 5 | 4.00% | ~19 |
-| Hundred Percent Third | 3.00% | ~14 |
-| Hundred Percent Fourth | 3.00% | ~14 |
-| Circus Maximus | 3.00% | ~14 |
-| Last Man Standing | 3.00% | ~14 |
+| Hundred Percent Third | 3.00% | ~15 |
+| Hundred Percent Fourth | 3.00% | ~15 |
+| Circus Maximus | 3.00% | ~15 |
+| Last Man Standing | 3.00% | ~15 |
 | Accomplished Veteran | 2.00% | ~10 |
 | Unmatched Skills | 2.00% | ~10 |
 | Hundred Percent Fifth | 2.00% | ~10 |
@@ -57,7 +57,7 @@ Number of Ratings: 22  (23.09.2022)
 | Guest Stars | 0.40% | ~2 |
 | Versatile Tactics | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 483 (Ranked 329)  
+Progressed: 484 (Ranked 329)  
 Completed: 1 (0.21%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 1 (0.21%) (Ranked 268)
 | 2023-12-15 | 478 | 1 |
 | 2023-12-17 | 480 | 1 |
 | 2023-12-18 | 482 | 1 |
-| 2023-12-19 | 483 | 1 |
+| 2023-12-19 | 484 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

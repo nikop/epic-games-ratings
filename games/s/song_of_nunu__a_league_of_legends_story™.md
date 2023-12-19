@@ -10,15 +10,15 @@ Rating: 4.48 (Ranked 640)
 | Better On Ice | 68.00% | ~844 |
 | Notai Notes | 67.00% | ~831 |
 | Blue Dreams | 66.00% | ~819 |
-| He's Famous! | 65.00% | ~807 |
+| He's Famous! | 66.00% | ~819 |
 | Cutie Poro | 65.00% | ~807 |
 | Krugmazing | 64.00% | ~794 |
+| The Fire Below the Mountain | 61.00% | ~757 |
 | Moneyball | 60.00% | ~745 |
-| The Fire Below the Mountain | 60.00% | ~745 |
 | No Bites | 55.00% | ~683 |
 | Iceborn | 55.00% | ~683 |
 | Boom Things | 53.00% | ~658 |
-| Tear of Freedom | 51.00% | ~633 |
+| Tear of Freedom | 52.00% | ~645 |
 | My Darkest Day | 48.00% | ~596 |
 | Rhythm Of Willump | 46.00% | ~571 |
 | The Relentless Storm | 46.00% | ~571 |

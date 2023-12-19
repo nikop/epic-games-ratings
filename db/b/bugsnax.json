@@ -2,13 +2,13 @@
   "ID": "c42b08b655c04a64a0535331629d4b6d",
   "Name": "Bugsnax",
   "ProductSlug": "bugsnax",
-  "Ranking_Rating": 36,
+  "Ranking_Rating": 35,
   "Ranking_Popularity": 457,
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 77,
   "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2020-11-12T14:00:00+00:00",
     "PcReleaseDate": "2020-11-12T14:00:00+00:00",
@@ -956,9 +956,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 28852,
+  "EOS_Progressed": 28853,
   "EOS_Completed": 1402,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 4.86,
   "EosHistory": [
@@ -7961,6 +7961,11 @@
       "Time": "2023-12-19T21:10:24.2324311+00:00",
       "NumProgressed": 28852,
       "NumCompleted": 1402
+    },
+    {
+      "Time": "2023-12-19T22:09:25.164163+00:00",
+      "NumProgressed": 28853,
+      "NumCompleted": 1402
     }
   ],
   "TotalAchievements": 30,
@@ -7972,7 +7977,7 @@
       "Name": "Survivor",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 12983
+      "UsersEstimate": 12984
     },
     {
       "ID": "ACH_ALL_TRANSFORM",
@@ -8028,7 +8033,7 @@
       "Name": "Got to Catch a Lot",
       "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 19042
+      "UsersEstimate": 19043
     },
     {
       "ID": "ACH_CATCH_QUARTER",
@@ -8036,7 +8041,7 @@
       "Name": "Got to Catch a Few",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 22216
+      "UsersEstimate": 22217
     },
     {
       "ID": "ACH_CHEESE_SCAN",
@@ -8068,7 +8073,7 @@
       "Name": "Everybody Gets One",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 27986
+      "UsersEstimate": 27987
     },
     {
       "ID": "ACH_FULL_TRANSFORM",
@@ -8076,7 +8081,7 @@
       "Name": "I\u0027m Stuffed",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 19908
+      "UsersEstimate": 19909
     },
     {
       "ID": "ACH_GOLEM",
@@ -8084,7 +8089,7 @@
       "Name": "Candid Cryptid",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 10098
+      "UsersEstimate": 10099
     },
     {
       "ID": "ACH_HATS",
@@ -8116,7 +8121,7 @@
       "Name": "Launch Party",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 16157
+      "UsersEstimate": 16158
     },
     {
       "ID": "ACH_MAIN_STORY",
@@ -8132,7 +8137,7 @@
       "Name": "That Reminds Me of a Puzzle",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 12406
+      "UsersEstimate": 12407
     },
     {
       "ID": "ACH_RETURN_ALL",
@@ -8164,7 +8169,7 @@
       "Name": "Gone Home",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 26832
+      "UsersEstimate": 26833
     },
     {
       "ID": "ACH_STEAL_DIARY",
@@ -8196,7 +8201,7 @@
       "Name": "Double Trapper",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 21639
+      "UsersEstimate": 21640
     },
     {
       "ID": "ACH_WATERFALL",
@@ -8204,22 +8209,22 @@
       "Name": "Wonderfalls",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 25101
+      "UsersEstimate": 25102
     }
   ],
   "AchievementSets": [
     {
       "ID": "2m0copd",
       "IsBase": true,
-      "Progressed": 28852,
+      "Progressed": 28853,
       "Completed": 1402
     }
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
   "LastChanged": "2023-12-16T21:57:50.1602353+00:00",
-  "LastChanged_Achievements": "2023-12-19T21:10:24.2324307+00:00",
+  "LastChanged_Achievements": "2023-12-19T22:09:25.1641624+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:22.6495226+00:00",
-  "LastUpdate_Ratings": "2023-12-19T21:00:20.625829+00:00",
-  "LastUpdate_Achievements": "2023-12-19T21:10:24.232488+00:00"
+  "LastUpdate_Ratings": "2023-12-19T21:59:10.3137057+00:00",
+  "LastUpdate_Achievements": "2023-12-19T22:09:25.1642127+00:00"
 }

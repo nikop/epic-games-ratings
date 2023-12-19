@@ -3,8 +3,8 @@
   "Name": "Star Renegades",
   "ProductSlug": "star-renegades",
   "Ranking_Rating": 685,
-  "Ranking_Popularity": 566,
-  "Ranking_PopularitySum": 566,
+  "Ranking_Popularity": 567,
+  "Ranking_PopularitySum": 567,
   "Ranking_EOS_Progress": 810,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 557,
@@ -129,6 +129,6 @@
   "FirstSeenRating": "2022-09-29T13:01:46.0510474+00:00",
   "LastChanged": "2023-09-18T03:58:27.5592229+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:16.0134485+00:00",
-  "LastUpdate_Ratings": "2023-12-19T20:59:51.5719005+00:00",
-  "LastUpdate_Achievements": "2023-12-19T21:10:02.0561669+00:00"
+  "LastUpdate_Ratings": "2023-12-19T21:58:49.3017696+00:00",
+  "LastUpdate_Achievements": "2023-12-19T22:09:08.7506578+00:00"
 }

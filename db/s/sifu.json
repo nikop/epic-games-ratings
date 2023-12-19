@@ -8349,9 +8349,9 @@
       "Count": 433
     }
   ],
-  "EOS_Progressed": 736263,
+  "EOS_Progressed": 736285,
   "EOS_Completed": 12958,
-  "EOS_NewPlayers": 18272,
+  "EOS_NewPlayers": 18293,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.76,
   "EosHistory": [
@@ -30049,6 +30049,11 @@
       "Time": "2023-12-19T21:09:27.8840847+00:00",
       "NumProgressed": 736263,
       "NumCompleted": 12958
+    },
+    {
+      "Time": "2023-12-19T22:08:44.5248843+00:00",
+      "NumProgressed": 736285,
+      "NumCompleted": 12958
     }
   ],
   "TotalAchievements": 60,
@@ -30060,7 +30065,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22088
+      "UsersEstimate": 22089
     },
     {
       "ID": "02_Vengeance_H1",
@@ -30068,7 +30073,7 @@
       "Name": "The Assault",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14725
+      "UsersEstimate": 14726
     },
     {
       "ID": "03_Vengeance_H2",
@@ -30092,7 +30097,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6626
+      "UsersEstimate": 6627
     },
     {
       "ID": "06_Vengeance_H5",
@@ -30236,7 +30241,7 @@
       "Name": "Life is your teacher",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14725
+      "UsersEstimate": 14726
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -30292,7 +30297,7 @@
       "Name": "I know Kung-Fu",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6626
+      "UsersEstimate": 6627
     },
     {
       "ID": "31_ComboHigh",
@@ -30324,7 +30329,7 @@
       "Name": "Lightning Hands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14725
+      "UsersEstimate": 14726
     },
     {
       "ID": "35_WideStrike",
@@ -30420,7 +30425,7 @@
       "Name": "Martial Hub",
       "Percentage": 0.6,
       "XP": 80,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "47_Arena_GoldManhunt",
@@ -30539,21 +30544,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 45564,
+      "Progressed": 45586,
       "Completed": 10775
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 736263,
+      "Progressed": 736285,
       "Completed": 12958
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-19T19:02:39.1469614+00:00",
-  "LastChanged_Achievements": "2023-12-19T21:09:27.8840842+00:00",
+  "LastChanged_Achievements": "2023-12-19T22:08:44.5248838+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:50.1499922+00:00",
-  "LastUpdate_Ratings": "2023-12-19T21:03:50.7464836+00:00",
-  "LastUpdate_Achievements": "2023-12-19T21:09:27.8841992+00:00"
+  "LastUpdate_Ratings": "2023-12-19T22:02:47.6826106+00:00",
+  "LastUpdate_Achievements": "2023-12-19T22:08:44.5249984+00:00"
 }

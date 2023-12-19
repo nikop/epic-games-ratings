@@ -2,8 +2,8 @@
   "ID": "64f5543ade2942d59ae4e0321915e0da",
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
-  "Ranking_EOS_Progress": 413,
-  "Ranking_EOS_Completed": 198,
+  "Ranking_EOS_Progress": 412,
+  "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 170,
+  "EOS_Progressed": 171,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.59,
+  "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
     {
       "Time": "2023-10-17T15:03:17.566478+00:00",
@@ -699,6 +699,11 @@
       "Time": "2023-12-19T18:06:42.0389287+00:00",
       "NumProgressed": 170,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T22:06:15.1822518+00:00",
+      "NumProgressed": 171,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -751,7 +756,7 @@
       "Name": "Arsenal",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "AC_ALL_WEAPON_SLOTS",
@@ -759,7 +764,7 @@
       "Name": "Armory",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "AC_BLACKJACK_GAMES_1",
@@ -783,7 +788,7 @@
       "Name": "Hunger",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "AC_BOSS_01",
@@ -805,9 +810,9 @@
       "ID": "AC_BOSS_03",
       "SetID": "16i2akc",
       "Name": "Sacrilege",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "AC_BOSS_04",
@@ -855,7 +860,7 @@
       "Name": "Corpse",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "AC_DEATH_2",
@@ -863,7 +868,7 @@
       "Name": "Carcass",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "AC_DEATH_3",
@@ -877,9 +882,9 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 91
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -887,7 +892,7 @@
       "Name": "Psycopath",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "AC_DEATH_ENEMIES_3",
@@ -903,7 +908,7 @@
       "Name": "Excursion",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -911,7 +916,7 @@
       "Name": "Journey",
       "Percentage": 49,
       "XP": 25,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -925,9 +930,9 @@
       "ID": "AC_FIRST_BLACKJACK",
       "SetID": "16i2akc",
       "Name": "Player",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 51
     },
     {
       "ID": "AC_FLASHBACK_01",
@@ -967,7 +972,7 @@
       "Name": "Winner",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "AC_MUSIC_CONCERT",
@@ -1015,7 +1020,7 @@
       "Name": "Loss",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -1046,14 +1051,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 170,
+      "Progressed": 171,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-19T21:08:32.94441+00:00",
+  "LastChanged_Achievements": "2023-12-19T22:06:15.1822514+00:00",
   "LastUpdate_AppInfo": "2023-12-19T20:57:15.8211494+00:00",
-  "LastUpdate_Ratings": "2023-12-19T21:00:57.7102309+00:00",
-  "LastUpdate_Achievements": "2023-12-19T21:08:32.9444392+00:00"
+  "LastUpdate_Ratings": "2023-12-19T21:59:35.9869732+00:00",
+  "LastUpdate_Achievements": "2023-12-19T22:06:15.1822779+00:00"
 }

@@ -1,16 +1,16 @@
 # shapez
 [Store](https://store.epicgames.com/en-US/p/shapez-0929c9)  
 [View Rawdata](../../db/s/shapez.json)  
-Rating: 4.71 (Ranked 197)  
+Rating: 4.71 (Ranked 198)  
 ## Awards
-Max (Relaxing): 20  (Ranked 560)  
-Sum: 40 (Ranked 506)  
-Diff (max vs sum): 54  
+Max (Great for Beginners): 21  (Ranked 557)  
+Sum: 41 (Ranked 506)  
+Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 215 |
+| This game is Great for Beginners | 21 |
 | This game is Relaxing | 20 |
-| This game is Great for Beginners | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -77,3 +77,4 @@ Diff (max vs sum): 54
 | 2023-07-19 | 4.71 | 214 | 214 |
 | 2023-07-21 | 4.71 | 215 | 215 |
 | 2023-12-10 | 4.71 | 20 | 40 |
+| 2023-12-19 | 4.71 | 21 | 41 |

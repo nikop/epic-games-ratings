@@ -17,13 +17,13 @@ Rating: 4.65 (Ranked 321)
 | We're All Very Impressed, Trust Me | 3.00% | ~743 |
 | Hardest Battle In The Game | 3.00% | ~743 |
 | Who's The Boss? | 3.00% | ~743 |
+| Fallout Doesn't Let You Do This | 3.00% | ~743 |
 | Don't Knife The Hand That Feeds | 3.00% | ~743 |
 | Eatin' Good in the Neighborhood | 2.00% | ~496 |
 | Lezduit! | 2.00% | ~496 |
 | Eye Scream, You Scream | 2.00% | ~496 |
 | Legendary Bounty Hunter | 2.00% | ~496 |
 | Self-Actualization | 2.00% | ~496 |
-| Fallout Doesn't Let You Do This | 2.00% | ~496 |
 | Spent 15 Hours At The Alien Strip Club | 2.00% | ~496 |
 | Series Wrap on Suit-O | 2.00% | ~496 |
 | Bathe With A Giant Nude Alien | 2.00% | ~41 |
@@ -50,7 +50,7 @@ Rating: 4.65 (Ranked 321)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,777 (Ranked 140)  
+Progressed: 24,778 (Ranked 140)  
 Completed: 14 (0.06%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 14 (0.06%) (Ranked 325)
 | 2023-12-16 | 24,727 | 14 |
 | 2023-12-17 | 24,747 | 14 |
 | 2023-12-18 | 24,764 | 14 |
-| 2023-12-19 | 24,777 | 14 |
+| 2023-12-19 | 24,778 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

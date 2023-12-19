@@ -18,7 +18,7 @@
 | Helpful Heart | 41.00% | ~280 |
 | Flawless Crystal | 39.00% | ~266 |
 | Expert Conjuror | 38.00% | ~260 |
-| Bonds of Enmity | 36.00% | ~246 |
+| Bonds of Enmity | 37.00% | ~253 |
 | Distance Devourer | 35.00% | ~239 |
 | Master of the Skies | 33.00% | ~225 |
 | Counter Specialist | 33.00% | ~225 |
@@ -53,7 +53,7 @@
 | Bewitched by Bathing | 6.00% | ~41 |
 | Tsukumo Whisperer | 4.00% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 683 (Ranked 300)  
+Progressed: 683 (Ranked 301)  
 Completed: 8 (1.17%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |

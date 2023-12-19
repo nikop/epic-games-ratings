@@ -3,11 +3,11 @@
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_Rating": 1066,
-  "Ranking_Popularity": 566,
-  "Ranking_PopularitySum": 566,
+  "Ranking_Popularity": 567,
+  "Ranking_PopularitySum": 567,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2047,
+  "EOS_Progressed": 2048,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7819,6 +7819,11 @@
       "Time": "2023-12-18T19:05:57.4291392+00:00",
       "NumProgressed": 2047,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T22:03:24.21131+00:00",
+      "NumProgressed": 2048,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7934,7 +7939,7 @@
       "Name": "Facility Online",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -8133,7 +8138,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2047,
+      "Progressed": 2048,
       "Completed": 1
     }
   ],
@@ -8141,8 +8146,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-11T08:59:11.5639448+00:00",
-  "LastChanged_Achievements": "2023-12-19T21:04:42.0172103+00:00",
+  "LastChanged_Achievements": "2023-12-19T22:03:24.2113095+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:15.2562842+00:00",
-  "LastUpdate_Ratings": "2023-12-19T20:59:43.4255731+00:00",
-  "LastUpdate_Achievements": "2023-12-19T21:04:42.0172869+00:00"
+  "LastUpdate_Ratings": "2023-12-19T21:58:43.2499585+00:00",
+  "LastUpdate_Achievements": "2023-12-19T22:03:24.211386+00:00"
 }

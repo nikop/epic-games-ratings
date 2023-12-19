@@ -5,16 +5,16 @@ Rating: 4.15 (Ranked 966)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 38.00% | ~27,098 |
-| As Far Away As Possible | 18.00% | ~12,836 |
-| A Most Unstable Organism | 13.00% | ~9,270 |
-| No Time to Follow Protocol | 10.00% | ~7,131 |
-| Float Like a Butterfly... | 8.00% | ~5,705 |
+| Your Lucky Day | 38.00% | ~27,102 |
+| As Far Away As Possible | 18.00% | ~12,838 |
+| A Most Unstable Organism | 13.00% | ~9,272 |
+| No Time to Follow Protocol | 10.00% | ~7,132 |
+| Float Like a Butterfly... | 8.00% | ~5,706 |
 | Nano Connoisseur | 6.00% | ~4,279 |
 | In Two Places At Once | 6.00% | ~4,279 |
-| More Power to You | 5.00% | ~3,566 |
-| Pulling Your Weight | 3.00% | ~2,139 |
-| Reaping Rivals | 3.00% | ~2,139 |
+| More Power to You | 6.00% | ~4,279 |
+| Pulling Your Weight | 3.00% | ~2,140 |
+| Reaping Rivals | 3.00% | ~2,140 |
 | fifteenth Time's the Charm | 1.00% | ~713 |
 | Gone Rogue | 0.60% | ~428 |
 | Memory Keeper | 0.40% | ~285 |
@@ -22,7 +22,7 @@ Rating: 4.15 (Ranked 966)
 | Past Master | 0.40% | ~285 |
 | Runs for Your Money | 0.30% | ~214 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71,311 (Ranked 104)  
+Progressed: 71,321 (Ranked 104)  
 Completed: 59 (0.08%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,10 +136,10 @@ Completed: 59 (0.08%) (Ranked 315)
 | 2023-12-16 | 69,966 | 57 |
 | 2023-12-17 | 70,623 | 57 |
 | 2023-12-18 | 71,065 | 59 |
-| 2023-12-19 | 71,311 | 59 |
+| 2023-12-19 | 71,321 | 59 |
 ## Awards
 Max (Great for Beginners): 110  (Ranked 356)  
-Sum: 476 (Ranked 335)  
+Sum: 477 (Ranked 335)  
 Diff (max vs sum): 21  
 | Award | Count |
 | ----- | ----- |
@@ -150,7 +150,7 @@ Diff (max vs sum): 21
 | This game has Amazing Characters | 54 |
 | This game is Extremely Fun | 51 |
 | This game has Amazing Storytelling | 46 |
-| This game has Quickly Understood Controls | 41 |
+| This game has Quickly Understood Controls | 42 |
 | This game is Relaxing | 40 |
 | This game has Unique Visuals | 20 |
 ## Ratings History
@@ -248,4 +248,4 @@ Diff (max vs sum): 21
 | 2023-12-16 | 4.15 | 107 | 427 |
 | 2023-12-17 | 4.15 | 109 | 431 |
 | 2023-12-18 | 4.16 | 110 | 434 |
-| 2023-12-19 | 4.15 | 110 | 476 |
+| 2023-12-19 | 4.15 | 110 | 477 |

@@ -3,11 +3,11 @@
   "Name": "Circus Electrique",
   "ProductSlug": "circus-electrique",
   "Ranking_Rating": 957,
-  "Ranking_Popularity": 566,
-  "Ranking_PopularitySum": 566,
+  "Ranking_Popularity": 567,
+  "Ranking_PopularitySum": 567,
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 419,
+  "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -77,9 +77,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 483,
+  "EOS_Progressed": 484,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -542,6 +542,11 @@
       "Time": "2023-12-19T02:28:22.3273181+00:00",
       "NumProgressed": 483,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T22:05:04.3080534+00:00",
+      "NumProgressed": 484,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -585,7 +590,7 @@
       "Name": "Circus Versus Circus",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_06",
@@ -633,7 +638,7 @@
       "Name": "Lucky Day",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -649,7 +654,7 @@
       "Name": "Bar Brawler",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -681,7 +686,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -721,7 +726,7 @@
       "Name": "Hundred Percent Third",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -729,7 +734,7 @@
       "Name": "Hundred Percent Fourth",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -753,7 +758,7 @@
       "Name": "Circus Maximus",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -801,7 +806,7 @@
       "Name": "King of District 3",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -841,7 +846,7 @@
       "Name": "Flawless Presentation",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -897,7 +902,7 @@
       "Name": "Last Man Standing",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_45",
@@ -952,7 +957,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 483,
+      "Progressed": 484,
       "Completed": 1
     }
   ],
@@ -960,8 +965,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-12-19T21:06:57.5289828+00:00",
+  "LastChanged_Achievements": "2023-12-19T22:05:04.3080529+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:19.7923718+00:00",
-  "LastUpdate_Ratings": "2023-12-19T20:57:41.6063486+00:00",
-  "LastUpdate_Achievements": "2023-12-19T21:06:57.5290188+00:00"
+  "LastUpdate_Ratings": "2023-12-19T21:57:17.7473668+00:00",
+  "LastUpdate_Achievements": "2023-12-19T22:05:04.3080863+00:00"
 }

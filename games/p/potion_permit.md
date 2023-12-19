@@ -12,8 +12,8 @@ Rating: 3.83 (Ranked 1,046)
 | Great Doctor | 51.00% | ~885 |
 | Dog Whisperer | 49.00% | ~851 |
 | Friendly | 47.00% | ~816 |
+| K.O.! | 44.00% | ~764 |
 | The Capitalist | 44.00% | ~764 |
-| K.O.! | 43.00% | ~746 |
 | Intermediate Chemist | 40.00% | ~694 |
 | Decorative Mind | 32.00% | ~556 |
 | Lumber Specialist | 32.00% | ~556 |
@@ -45,7 +45,7 @@ Rating: 3.83 (Ranked 1,046)
 | Being a donut... | 0.70% | ~12 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,736 (Ranked 240)  
-Completed: 10 (0.58%) (Ranked 200)  
+Completed: 10 (0.58%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -3,11 +3,11 @@
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_Rating": 340,
-  "Ranking_Popularity": 566,
-  "Ranking_PopularitySum": 566,
+  "Ranking_Popularity": 567,
+  "Ranking_PopularitySum": 567,
   "Ranking_EOS_Progress": 274,
-  "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_Completed": 199,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -45,9 +45,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1036,
+  "EOS_Progressed": 1037,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -2870,6 +2870,11 @@
       "Time": "2023-12-19T21:10:49.1239812+00:00",
       "NumProgressed": 1036,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-19T22:09:44.0712172+00:00",
+      "NumProgressed": 1037,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3041,7 +3046,7 @@
       "Name": "Rail Rat",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "HexlockGift",
@@ -3065,7 +3070,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "LacunaCompleted",
@@ -3073,7 +3078,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "MapCompletion1",
@@ -3121,7 +3126,7 @@
       "Name": "Time Flies",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ParryBoss",
@@ -3137,7 +3142,7 @@
       "Name": "No, Thanks!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "PhaseDiveCounter",
@@ -3161,7 +3166,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "RewindDamage1",
@@ -3169,7 +3174,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "RewindParry",
@@ -3297,14 +3302,14 @@
       "Name": "The Family Fortune",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1036,
+      "Progressed": 1037,
       "Completed": 6
     }
   ],
@@ -3312,8 +3317,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-18T08:57:59.1291337+00:00",
-  "LastChanged_Achievements": "2023-12-19T21:10:49.1239807+00:00",
+  "LastChanged_Achievements": "2023-12-19T22:09:44.0712167+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.1550939+00:00",
-  "LastUpdate_Ratings": "2023-12-19T20:59:36.0966177+00:00",
-  "LastUpdate_Achievements": "2023-12-19T21:10:49.1240294+00:00"
+  "LastUpdate_Ratings": "2023-12-19T21:58:37.761499+00:00",
+  "LastUpdate_Achievements": "2023-12-19T22:09:44.0712594+00:00"
 }

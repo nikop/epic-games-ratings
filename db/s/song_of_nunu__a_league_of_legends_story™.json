@@ -3,8 +3,8 @@
   "Name": "Song of Nunu: A League of Legends Story",
   "ProductSlug": "song-of-nunu-a-league-of-legends-story",
   "Ranking_Rating": 640,
-  "Ranking_Popularity": 566,
-  "Ranking_PopularitySum": 566,
+  "Ranking_Popularity": 567,
+  "Ranking_PopularitySum": 567,
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 209,
@@ -59,7 +59,7 @@
   "Tags": [],
   "EOS_Progressed": 1241,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
@@ -3038,9 +3038,9 @@
       "ID": "EV_ACH03",
       "SetID": "6jeac23",
       "Name": "He\u0027s Famous!",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 807
+      "UsersEstimate": 819
     },
     {
       "ID": "EV_ACH04",
@@ -3054,9 +3054,9 @@
       "ID": "EV_ACH05",
       "SetID": "6jeac23",
       "Name": "Tear of Freedom",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 633
+      "UsersEstimate": 645
     },
     {
       "ID": "EV_ACH06",
@@ -3294,9 +3294,9 @@
       "ID": "EV_ACH35",
       "SetID": "6jeac23",
       "Name": "The Fire Below the Mountain",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 745
+      "UsersEstimate": 757
     },
     {
       "ID": "EV_ACH36",
@@ -3383,8 +3383,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-18T18:59:32.6243964+00:00",
-  "LastChanged_Achievements": "2023-12-19T21:11:04.7525322+00:00",
+  "LastChanged_Achievements": "2023-12-19T22:09:56.1432642+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:41.6283728+00:00",
-  "LastUpdate_Ratings": "2023-12-19T21:01:16.6155145+00:00",
-  "LastUpdate_Achievements": "2023-12-19T21:11:04.7525838+00:00"
+  "LastUpdate_Ratings": "2023-12-19T21:59:50.1578608+00:00",
+  "LastUpdate_Achievements": "2023-12-19T22:09:56.1433039+00:00"
 }

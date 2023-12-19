@@ -6,24 +6,24 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~373,435 |
-| Now You're Talking | 62.00% | ~330,757 |
-| Steel Yourself | 62.00% | ~330,757 |
+| First Step | 70.00% | ~373,437 |
+| Now You're Talking | 62.00% | ~330,758 |
+| Steel Yourself | 62.00% | ~330,758 |
 | Window Dressing | 50.00% | ~266,740 |
-| Trigger Happy | 46.00% | ~245,400 |
+| Trigger Happy | 46.00% | ~245,401 |
 | Riverborn | 45.00% | ~240,066 |
-| Starry Eyed | 34.00% | ~181,383 |
-| Poking Around | 34.00% | ~181,383 |
+| Starry Eyed | 34.00% | ~181,384 |
+| Poking Around | 34.00% | ~181,384 |
 | Talk of the Town | 24.00% | ~128,035 |
-| AAARR! | 23.00% | ~122,700 |
-| Hello Darkness | 23.00% | ~122,700 |
-| Wind At Our Backs | 22.00% | ~117,365 |
+| AAARR! | 23.00% | ~122,701 |
+| Hello Darkness | 23.00% | ~122,701 |
+| Wind At Our Backs | 22.00% | ~117,366 |
 | To the Beat | 20.00% | ~106,696 |
-| Sunny Shores | 17.00% | ~90,691 |
+| Sunny Shores | 17.00% | ~90,692 |
 | Sunday Best | 16.00% | ~85,357 |
 | To Victory! | 15.00% | ~80,022 |
 | Two of a Kind | 14.00% | ~74,687 |
-| Keep On Trucking | 13.00% | ~69,352 |
+| Keep On Trucking | 13.00% | ~69,353 |
 | Going on an Adventure | 11.00% | ~58,683 |
 | Make Peace, Not War | 11.00% | ~58,683 |
 | Walking The Line | 10.00% | ~53,348 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,600 |
 | Point Taken | 0.20% | ~1,067 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 533,479 (Ranked 35)  
+Progressed: 533,481 (Ranked 35)  
 Completed: 510 (0.10%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,10 +307,10 @@ Completed: 510 (0.10%) (Ranked 301)
 | 2023-12-16 | 533,271 | 510 |
 | 2023-12-17 | 533,354 | 510 |
 | 2023-12-18 | 533,418 | 510 |
-| 2023-12-19 | 533,479 | 510 |
+| 2023-12-19 | 533,481 | 510 |
 ## Awards
-Max (Relaxing): 21  (Ranked 556)  
-Sum: 21 (Ranked 558)  
+Max (Relaxing): 21  (Ranked 557)  
+Sum: 21 (Ranked 559)  
 Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |

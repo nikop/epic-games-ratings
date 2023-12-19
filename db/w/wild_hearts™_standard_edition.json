@@ -2,7 +2,7 @@
   "ID": "4cbfe407ada24702a556b6e4d28a8800",
   "Name": "WILD HEARTS\u2122 Standard Edition",
   "ProductSlug": "wild-hearts",
-  "Ranking_EOS_Progress": 300,
+  "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 161,
   "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 159,
@@ -2619,9 +2619,9 @@
       "ID": "achievement_3",
       "SetID": "2cpn27e",
       "Name": "Bonds of Enmity",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 253
     },
     {
       "ID": "achievement_30",
@@ -2833,8 +2833,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-19T21:09:50.0440738+00:00",
+  "LastChanged_Achievements": "2023-12-19T22:09:00.6151474+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:11.6761115+00:00",
-  "LastUpdate_Ratings": "2023-12-19T21:01:36.4306052+00:00",
-  "LastUpdate_Achievements": "2023-12-19T21:09:50.0441124+00:00"
+  "LastUpdate_Ratings": "2023-12-19T22:00:03.6907555+00:00",
+  "LastUpdate_Achievements": "2023-12-19T22:09:00.6151973+00:00"
 }

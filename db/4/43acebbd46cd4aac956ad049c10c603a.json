@@ -3,8 +3,8 @@
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
   "Ranking_Rating": 17,
-  "Ranking_Popularity": 566,
-  "Ranking_PopularitySum": 566,
+  "Ranking_Popularity": 567,
+  "Ranking_PopularitySum": 567,
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 213,
@@ -2797,9 +2797,9 @@
       "ID": "BecomingSmarter",
       "SetID": "1n308hc",
       "Name": "Becoming Smarter",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 264
+      "UsersEstimate": 275
     },
     {
       "ID": "BreakTheLoop",
@@ -2925,9 +2925,9 @@
       "ID": "IntoTheMachine",
       "SetID": "1n308hc",
       "Name": "Into the Machine",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 201
+      "UsersEstimate": 211
     },
     {
       "ID": "JustOneLap",
@@ -3013,9 +3013,9 @@
       "ID": "Overload",
       "SetID": "1n308hc",
       "Name": "Overload",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 243
     },
     {
       "ID": "Persistent",
@@ -3117,9 +3117,9 @@
       "ID": "TheAllGifted",
       "SetID": "1n308hc",
       "Name": "The All-Gifted",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 137
+      "UsersEstimate": 148
     },
     {
       "ID": "TheEdgeOfForever",
@@ -3238,8 +3238,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-19T21:06:03.2610412+00:00",
+  "LastChanged_Achievements": "2023-12-19T22:04:24.5245636+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-19T21:00:17.1748756+00:00",
-  "LastUpdate_Achievements": "2023-12-19T21:06:03.26109+00:00"
+  "LastUpdate_Ratings": "2023-12-19T21:59:08.2932964+00:00",
+  "LastUpdate_Achievements": "2023-12-19T22:04:24.524616+00:00"
 }

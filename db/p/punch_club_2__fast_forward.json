@@ -1920,9 +1920,9 @@
       "ID": "hack_gpp",
       "SetID": "69co12a",
       "Name": "Little hacker",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 239
     },
     {
       "ID": "handyman",
@@ -2160,9 +2160,9 @@
       "ID": "soft_install",
       "SetID": "69co12a",
       "Name": "Hello, world!",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 290
     },
     {
       "ID": "trainer_promotion_1",
@@ -2239,8 +2239,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-12-19T21:10:08.7359941+00:00",
+  "LastChanged_Achievements": "2023-12-19T22:09:13.7333987+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:32.3459278+00:00",
-  "LastUpdate_Ratings": "2023-12-19T21:02:42.4070948+00:00",
-  "LastUpdate_Achievements": "2023-12-19T21:10:08.7360491+00:00"
+  "LastUpdate_Ratings": "2023-12-19T22:00:14.8578265+00:00",
+  "LastUpdate_Achievements": "2023-12-19T22:09:13.733461+00:00"
 }

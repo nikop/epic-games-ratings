@@ -2,8 +2,8 @@
   "ID": "315e6807f6684c279fc286d0fc36a44f",
   "Name": "shapez",
   "ProductSlug": "shapez-0929c9",
-  "Ranking_Rating": 197,
-  "Ranking_Popularity": 560,
+  "Ranking_Rating": 198,
+  "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 810,
   "Ranking_EOS_Completed": 384,
@@ -412,12 +412,18 @@
       "Rating": 4.71,
       "NumberOfAwards": 40,
       "NumberOfAwardsMax": 20
+    },
+    {
+      "Time": "2023-12-19T21:59:47.2957873+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 41,
+      "NumberOfAwardsMax": 21
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 40,
-  "NumberOfAwardsMax": 20,
-  "MaxAwardTitle": "Relaxing",
+  "NumberOfAwards": 41,
+  "NumberOfAwardsMax": 21,
+  "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
@@ -435,7 +441,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -450,8 +456,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-01T20:01:20.018196+00:00",
   "FirstSeenRating": "2022-11-10T15:57:35.7088081+00:00",
-  "LastChanged": "2023-12-10T13:59:07.4385515+00:00",
+  "LastChanged": "2023-12-19T21:59:47.2957871+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:27.3578024+00:00",
-  "LastUpdate_Ratings": "2023-12-19T21:01:12.4177824+00:00",
-  "LastUpdate_Achievements": "2023-12-19T21:04:36.8230528+00:00"
+  "LastUpdate_Ratings": "2023-12-19T21:59:47.2957876+00:00",
+  "LastUpdate_Achievements": "2023-12-19T22:03:19.96343+00:00"
 }

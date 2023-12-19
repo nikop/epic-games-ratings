@@ -2,7 +2,7 @@
   "ID": "3bb8a6671a8540fda09479156601b3c0",
   "Name": "Quest of Dungeons",
   "ProductSlug": "quest-of-dungeons-3064d5",
-  "Ranking_EOS_Progress": 512,
+  "Ranking_EOS_Progress": 513,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 557,
   "Ranking_EOS_NewCompleters": 159,
@@ -374,8 +374,8 @@
   "FirstSeenRating": "2023-03-31T05:58:05.3767866+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:45.5363654+00:00",
   "LastChanged": "2023-03-31T05:58:05.3767867+00:00",
-  "LastChanged_Achievements": "2023-12-19T21:09:41.8993145+00:00",
+  "LastChanged_Achievements": "2023-12-19T22:08:54.4669811+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:57:01.8334911+00:00",
-  "LastUpdate_Ratings": "2023-12-19T20:59:09.0388561+00:00",
-  "LastUpdate_Achievements": "2023-12-19T21:09:41.8993293+00:00"
+  "LastUpdate_Ratings": "2023-12-19T21:58:19.391984+00:00",
+  "LastUpdate_Achievements": "2023-12-19T22:08:54.4669992+00:00"
 }

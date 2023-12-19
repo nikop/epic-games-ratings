@@ -6,12 +6,12 @@ Rating: 4.21 (Ranked 921)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Comrades | 0.30% | ~17 |
-| A Veil Lifted | 0.20% | ~11 |
-| Lost and Found | 0.20% | ~11 |
-| Shared Triumph | 0.20% | ~11 |
-| No Mercy | 0.20% | ~11 |
-| Shades of Violence | 0.20% | ~11 |
-| Thriving in Darkness | 0.20% | ~11 |
+| A Veil Lifted | 0.20% | ~12 |
+| Lost and Found | 0.20% | ~12 |
+| Shared Triumph | 0.20% | ~12 |
+| No Mercy | 0.20% | ~12 |
+| Shades of Violence | 0.20% | ~12 |
+| Thriving in Darkness | 0.20% | ~12 |
 | Wayfarer | 0.10% | ~6 |
 | Weapon Collector | 0.10% | ~6 |
 | Ironclad | 0.10% | ~6 |
@@ -69,7 +69,7 @@ Rating: 4.21 (Ranked 921)
 | A Rest Among the Dead | 0.10% | ~6 |
 | A Trace of Venom | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,730 (Ranked 192)  
+Progressed: 5,752 (Ranked 192)  
 Completed: 2 (0.03%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 2 (0.03%) (Ranked 344)
 | 2023-12-16 | 4,327 | 2 |
 | 2023-12-17 | 4,961 | 2 |
 | 2023-12-18 | 5,377 | 2 |
-| 2023-12-19 | 5,730 | 2 |
+| 2023-12-19 | 5,752 | 2 |
 ## Awards
 Max (Character Customization): 223  (Ranked 283)  
 Sum: 562 (Ranked 323)  

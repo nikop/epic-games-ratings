@@ -2,12 +2,12 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 981,
-  "Ranking_Popularity": 566,
-  "Ranking_PopularitySum": 566,
+  "Ranking_Rating": 979,
+  "Ranking_Popularity": 501,
+  "Ranking_PopularitySum": 521,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "SA"
     }
   },
-  "Rating": 4.11,
+  "Rating": 4.12,
   "RatingHistory": [
     {
       "Time": "2023-01-28T02:09:06.4755934+00:00",
@@ -491,22 +491,29 @@
       "Rating": 4.11,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-19T21:59:43.5847445+00:00",
+      "Rating": 4.12,
+      "NumberOfAwards": 32,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 32,
+  "NumberOfAwardsMax": 32,
+  "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 30
+      "Count": 32
     }
   ],
-  "EOS_Progressed": 44440,
+  "EOS_Progressed": 44442,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 861,
+  "EOS_NewPlayers": 863,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15704,6 +15711,11 @@
       "Time": "2023-12-19T21:09:26.5752315+00:00",
       "NumProgressed": 44440,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-19T22:08:43.4455079+00:00",
+      "NumProgressed": 44442,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -15907,7 +15919,7 @@
       "Name": "Leapfrogger",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2666
+      "UsersEstimate": 2667
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -16067,7 +16079,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2666
+      "UsersEstimate": 2667
     },
     {
       "ID": "STAYING_AIR",
@@ -16138,22 +16150,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 44440,
+      "Progressed": 44442,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 9277,
-      "Completed": 9277
+      "Progressed": 9279,
+      "Completed": 9279
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
-  "LastChanged": "2023-12-18T13:59:07.4147796+00:00",
-  "LastChanged_Achievements": "2023-12-19T21:09:26.5752311+00:00",
+  "LastChanged": "2023-12-19T21:59:43.5847443+00:00",
+  "LastChanged_Achievements": "2023-12-19T22:08:43.4455075+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:26.7354097+00:00",
-  "LastUpdate_Ratings": "2023-12-19T21:01:08.4426248+00:00",
-  "LastUpdate_Achievements": "2023-12-19T21:09:26.5753486+00:00"
+  "LastUpdate_Ratings": "2023-12-19T21:59:43.5847448+00:00",
+  "LastUpdate_Achievements": "2023-12-19T22:08:43.4456174+00:00"
 }

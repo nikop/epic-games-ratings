@@ -4,7 +4,7 @@
   "ProductSlug": "deeeer-simulator-9bfc4a",
   "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
@@ -685,9 +685,9 @@
       "ID": "EpicACHV_11",
       "SetID": "acn799d",
       "Name": "Dead or Deer",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 70,
-      "UsersEstimate": 52
+      "UsersEstimate": 54
     },
     {
       "ID": "EpicACHV_12",
@@ -797,9 +797,9 @@
       "ID": "EpicACHV_9",
       "SetID": "acn799d",
       "Name": "Deer-hunting",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     }
   ],
   "AchievementSets": [
@@ -812,8 +812,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-12-19T21:09:30.4084942+00:00",
+  "LastChanged_Achievements": "2023-12-19T22:08:45.9749159+00:00",
   "LastUpdate_AppInfo": "2023-12-13T14:57:07.3813852+00:00",
-  "LastUpdate_Ratings": "2023-12-19T20:59:10.9768776+00:00",
-  "LastUpdate_Achievements": "2023-12-19T21:09:30.4085095+00:00"
+  "LastUpdate_Ratings": "2023-12-19T21:58:20.724511+00:00",
+  "LastUpdate_Achievements": "2023-12-19T22:08:45.974931+00:00"
 }

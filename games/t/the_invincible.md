@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 65.00% | ~521 |
-| The Teleprobe | 52.00% | ~417 |
-| The City | 47.00% | ~377 |
-| The field base | 42.00% | ~337 |
-| Survivors | 35.00% | ~281 |
-| The Alliance | 33.00% | ~265 |
-| The Condor | 32.00% | ~257 |
-| The End | 32.00% | ~257 |
-| Krauta is alive | 26.00% | ~209 |
-| The Necroevolution | 26.00% | ~209 |
-| Peacemaker | 21.00% | ~168 |
-| Volcanologist | 20.00% | ~160 |
-| On her own | 18.00% | ~144 |
-| Evacuation | 18.00% | ~144 |
-| Beyond divisions | 17.00% | ~136 |
-| Fierce fight | 16.00% | ~128 |
-| Flying Objects Operator | 15.00% | ~120 |
-| I remember everything! | 12.00% | ~96 |
-| Another giant | 11.00% | ~88 |
-| Violent solution | 9.00% | ~72 |
+| The Camp | 65.00% | ~524 |
+| The Teleprobe | 51.00% | ~411 |
+| The City | 47.00% | ~379 |
+| The field base | 42.00% | ~339 |
+| Survivors | 34.00% | ~274 |
+| The Alliance | 33.00% | ~266 |
+| The Condor | 32.00% | ~258 |
+| The End | 32.00% | ~258 |
+| Krauta is alive | 26.00% | ~210 |
+| The Necroevolution | 26.00% | ~210 |
+| Peacemaker | 21.00% | ~169 |
+| Volcanologist | 20.00% | ~161 |
+| On her own | 18.00% | ~145 |
+| Evacuation | 17.00% | ~137 |
+| Beyond divisions | 17.00% | ~137 |
+| Fierce fight | 16.00% | ~129 |
+| Flying Objects Operator | 15.00% | ~121 |
+| I remember everything! | 12.00% | ~97 |
+| Another giant | 11.00% | ~89 |
+| Violent solution | 9.00% | ~73 |
 | I leave no man behind | 7.00% | ~56 |
 | Innate curiosity | 7.00% | ~56 |
 | Strong objection | 6.00% | ~48 |
@@ -34,7 +34,7 @@
 | Convoy list | 0.90% | ~7 |
 | No more mistakes | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 802 (Ranked 287)  
+Progressed: 806 (Ranked 286)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,4 +78,4 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-16 | 700 | 0 |
 | 2023-12-17 | 741 | 0 |
 | 2023-12-18 | 771 | 0 |
-| 2023-12-19 | 802 | 0 |
+| 2023-12-19 | 806 | 0 |

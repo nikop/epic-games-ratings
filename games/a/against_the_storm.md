@@ -6,8 +6,8 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Overgrown Library | 6.00% | ~1,121 |
 | Abandoned Settlement | 5.00% | ~934 |
-| Overgrown Library | 5.00% | ~934 |
 | Petrified Necropolis | 5.00% | ~934 |
 | Gathering Storm | 4.00% | ~747 |
 | First Real Expedition | 3.00% | ~560 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,677 (Ranked 147)  
+Progressed: 18,681 (Ranked 147)  
 Completed: 39 (0.21%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,10 +309,10 @@ Completed: 39 (0.21%) (Ranked 268)
 | 2023-12-16 | 18,388 | 39 |
 | 2023-12-17 | 18,534 | 40 |
 | 2023-12-18 | 18,615 | 39 |
-| 2023-12-19 | 18,677 | 39 |
+| 2023-12-19 | 18,681 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 228)  
-Sum: 3,272 (Ranked 174)  
+Sum: 3,273 (Ranked 174)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
@@ -323,7 +323,7 @@ Diff (max vs sum): 54
 | This game is Highly Recommended | 394 |
 | This game has Unique Visuals | 332 |
 | This game has Amazing Storytelling | 322 |
-| This game has Amazing Characters | 288 |
+| This game has Amazing Characters | 289 |
 | This game has Obsessive Gameplay | 254 |
 | This game has a Creative Community | 216 |
 ## Ratings History
@@ -587,4 +587,4 @@ Diff (max vs sum): 54
 | 2023-12-16 | 4.82 | - | 442 | 3,264 |
 | 2023-12-17 | 4.82 | - | 442 | 3,267 |
 | 2023-12-18 | 4.82 | - | 442 | 3,268 |
-| 2023-12-19 | 4.82 | - | 442 | 3,272 |
+| 2023-12-19 | 4.82 | - | 442 | 3,273 |

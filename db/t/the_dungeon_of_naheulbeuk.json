@@ -1453,10 +1453,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 521,
       "NumberOfAwardsMax": 249
+    },
+    {
+      "Time": "2023-12-19T22:00:31.1868854+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 522,
+      "NumberOfAwardsMax": 249
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 521,
+  "NumberOfAwards": 522,
   "NumberOfAwardsMax": 249,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1518,12 +1524,12 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 20
+      "Count": 21
     }
   ],
-  "EOS_Progressed": 243597,
+  "EOS_Progressed": 243606,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1127,
+  "EOS_NewPlayers": 1124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22891,6 +22897,11 @@
       "Time": "2023-12-19T21:10:51.0565724+00:00",
       "NumProgressed": 243597,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-19T22:09:45.4992379+00:00",
+      "NumProgressed": 243606,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -23350,7 +23361,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 87695
+      "UsersEstimate": 87698
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -23398,7 +23409,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24360
+      "UsersEstimate": 24361
     },
     {
       "ID": "FollowBraztok",
@@ -23605,21 +23616,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 243597,
+      "Progressed": 243606,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 243597,
+      "Progressed": 243606,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-12-19T01:49:39.0919482+00:00",
-  "LastChanged_Achievements": "2023-12-19T21:10:51.0565717+00:00",
+  "LastChanged": "2023-12-19T22:00:31.1868815+00:00",
+  "LastChanged_Achievements": "2023-12-19T22:09:45.4992374+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:08.5726178+00:00",
-  "LastUpdate_Ratings": "2023-12-19T21:03:07.1502346+00:00",
-  "LastUpdate_Achievements": "2023-12-19T21:10:51.0567177+00:00"
+  "LastUpdate_Ratings": "2023-12-19T22:00:31.1868858+00:00",
+  "LastUpdate_Achievements": "2023-12-19T22:09:45.4994046+00:00"
 }

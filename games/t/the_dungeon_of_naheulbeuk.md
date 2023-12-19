@@ -6,8 +6,8 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~87,695 |
-| Alt+F4 | 10.00% | ~24,360 |
+| Sowwy! | 36.00% | ~87,698 |
+| Alt+F4 | 10.00% | ~24,361 |
 | Where's that freaking Dwarf? | 8.00% | ~19,488 |
 | Déjà vu | 7.00% | ~17,052 |
 | Sock! SOCK! | 6.00% | ~14,616 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~244 |
 | Dwarf Candy | 0.10% | ~244 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,597 (Ranked 64)  
+Progressed: 243,606 (Ranked 64)  
 Completed: 7 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,10 +297,10 @@ Completed: 7 (0.00%) (Ranked 384)
 | 2023-12-16 | 243,151 | 7 |
 | 2023-12-17 | 243,348 | 7 |
 | 2023-12-18 | 243,479 | 7 |
-| 2023-12-19 | 243,597 | 7 |
+| 2023-12-19 | 243,606 | 7 |
 ## Awards
 Max (Character Customization): 249  (Ranked 272)  
-Sum: 521 (Ranked 327)  
+Sum: 522 (Ranked 327)  
 Diff (max vs sum): -55  
 | Award | Count |
 | ----- | ----- |
@@ -313,7 +313,7 @@ Diff (max vs sum): -55
 | This game has Amazing Characters | 28 |
 | This game has Diverse Characters | 27 |
 | This game is Extremely Fun | 26 |
-| This game has Playful Visuals | 20 |
+| This game has Playful Visuals | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -513,4 +513,4 @@ Diff (max vs sum): -55
 | 2023-12-12 | 4.58 | - | 246 | 518 |
 | 2023-12-17 | 4.58 | - | 247 | 519 |
 | 2023-12-18 | 4.59 | - | 247 | 519 |
-| 2023-12-19 | 4.59 | - | 249 | 521 |
+| 2023-12-19 | 4.59 | - | 249 | 522 |

@@ -11,8 +11,8 @@ Rating: 3.75 (Ranked 1,058)
 | Hands up! | 53.00% | ~317 |
 | Now you know | 53.00% | ~317 |
 | Short circuit | 53.00% | ~317 |
-| Curious | 42.00% | ~251 |
-| Everybody lies | 36.00% | ~215 |
+| Curious | 42.00% | ~252 |
+| Everybody lies | 36.00% | ~216 |
 | Trick or Treat? | 24.00% | ~144 |
 | There is another way | 23.00% | ~138 |
 | Sysadmin | 22.00% | ~132 |
@@ -38,8 +38,8 @@ Rating: 3.75 (Ranked 1,058)
 | Accurate | 5.00% | ~30 |
 | Silent | 4.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 598 (Ranked 314)  
-Completed: 19 (3.18%) (Ranked 109)  
+Progressed: 599 (Ranked 314)  
+Completed: 19 (3.17%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -169,7 +169,7 @@ Completed: 19 (3.18%) (Ranked 109)
 | 2023-12-16 | 594 | 19 |
 | 2023-12-17 | 595 | 19 |
 | 2023-12-18 | 596 | 19 |
-| 2023-12-19 | 598 | 19 |
+| 2023-12-19 | 599 | 19 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
