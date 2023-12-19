@@ -70,16 +70,16 @@
 | 68 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 68 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.25% |
 | 70 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
-| 71 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.88% |
-| 71 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 5.88% |
-| 73 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 5.68% |
+| 71 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 5.97% |
+| 72 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.88% |
+| 72 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 5.88% |
 | 74 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
-| 75 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.26% |
+| 75 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.24% |
 | 76 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.13% |
 | 77 | [Bugsnax](games/b/bugsnax.md) | 4.86% |
 | 78 | [JARS](games/j/jars.md) | 4.81% |
 | 79 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 4.76% |
-| 80 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.74% |
+| 80 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.73% |
 | 81 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.69% |
 | 81 | [ZZT!](games/z/zzt!.md) | 4.69% |
 | 83 | [The Bunker](games/t/the_bunker.md) | 4.52% |
@@ -125,8 +125,8 @@
 | 122 | [Night Book](games/n/night_book.md) | 2.56% |
 | 124 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 2.50% |
 | 124 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 126 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.49% |
-| 127 | [Bloodshore](games/b/bloodshore.md) | 2.48% |
+| 126 | [Bloodshore](games/b/bloodshore.md) | 2.48% |
+| 126 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.48% |
 | 128 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.47% |
 | 129 | [Destiny 2](games/d/destiny_2.md) | 2.45% |
 | 130 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.44% |
@@ -140,7 +140,7 @@
 | 138 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.86% |
 | 139 | [Sifu](games/s/sifu.md) | 1.76% |
 | 140 | [Frogun](games/f/frogun.md) | 1.75% |
-| 141 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.66% |
+| 141 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.65% |
 | 142 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.64% |
 | 143 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.59% |
 | 144 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.57% |
@@ -249,7 +249,7 @@
 | 246 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 0.30% |
 | 246 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.30% |
 | 246 | [Them and Us](games/t/them_and_us.md) | 0.30% |
-| 246 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.30% |
+| 250 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.29% |
 | 251 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.28% |
 | 251 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.28% |
 | 251 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.28% |
