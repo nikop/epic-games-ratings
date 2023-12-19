@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 458,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 368,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-10-02T10:00:00+00:00",
     "PcReleaseDate": "2022-04-14T08:00:00+00:00",
@@ -490,9 +490,9 @@
       "ID": "NeonBeachChamp",
       "SetID": "2i48e34",
       "Name": "Neon Beach Champ",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 75,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "NeonBeachGod",
@@ -577,8 +577,8 @@
   ],
   "FirstSeen": "2023-10-14T16:03:11.8091132+00:00",
   "FirstSeenAchievements": "2023-09-27T15:03:05.6724323+00:00",
-  "LastChanged_Achievements": "2023-12-19T03:10:21.9045901+00:00",
+  "LastChanged_Achievements": "2023-12-19T04:10:20.738267+00:00",
   "LastUpdate_AppInfo": "2023-12-13T21:57:02.9496413+00:00",
-  "LastUpdate_Ratings": "2023-12-19T02:58:42.5760092+00:00",
-  "LastUpdate_Achievements": "2023-12-19T03:10:21.904601+00:00"
+  "LastUpdate_Ratings": "2023-12-19T03:58:41.5037772+00:00",
+  "LastUpdate_Achievements": "2023-12-19T04:10:20.7382792+00:00"
 }

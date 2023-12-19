@@ -6,33 +6,33 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kaijuiced | 67.00% | ~22 |
-| Lie Back and Think of Albion | 58.00% | ~19 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 52.00% | ~17 |
-| Lobster Blisque | 45.00% | ~15 |
-| Yettisoned | 42.00% | ~14 |
-| I Look Up As I Walk to Takoshima | 39.00% | ~13 |
-| Shop Til They Drop | 36.00% | ~12 |
-| Perfect Probulator | 33.00% | ~11 |
-| Freshly Squeezed | 30.00% | ~10 |
-| Forbidden Donut | 27.00% | ~9 |
-| Ducks in a Row, Fish in a Barrel | 27.00% | ~9 |
+| Kaijuiced | 68.00% | ~23 |
+| Lie Back and Think of Albion | 62.00% | ~21 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 53.00% | ~18 |
+| Yettisoned | 47.00% | ~16 |
+| Lobster Blisque | 44.00% | ~15 |
+| I Look Up As I Walk to Takoshima | 41.00% | ~14 |
+| Shop Til They Drop | 38.00% | ~13 |
+| Perfect Probulator | 35.00% | ~12 |
+| Freshly Squeezed | 29.00% | ~10 |
+| Forbidden Donut | 26.00% | ~9 |
+| Ducks in a Row, Fish in a Barrel | 26.00% | ~9 |
+| Fly Me to the Moon Base | 24.00% | ~8 |
 | Earthly Pleasures | 24.00% | ~8 |
-| Fly Me to the Moon Base | 21.00% | ~7 |
-| Trans-Siberian Express | 21.00% | ~7 |
+| Trans-Siberian Express | 24.00% | ~8 |
+| Pimp My Raid | 21.00% | ~7 |
 | Rock of the Bay | 18.00% | ~6 |
-| Pimp My Raid | 18.00% | ~6 |
 | Upgreatest | 18.00% | ~6 |
 | Bodied Sattva | 18.00% | ~6 |
 | Re-Return of the Clone of the Invasion II-2 | 15.00% | ~5 |
 | Arkvoodle Doodle | 12.00% | ~4 |
 | Deincarnated | 9.00% | ~3 |
 | Furon Fashion | 9.00% | ~3 |
+| Hidden Human Hive Harvest | 9.00% | ~3 |
 | Mash Machine | 9.00% | ~3 |
 | Ouch of Body Experience | 6.00% | ~2 |
 | If You Know What I Mean | 6.00% | ~2 |
 | Die Nasty | 6.00% | ~2 |
-| Hidden Human Hive Harvest | 6.00% | ~2 |
 | Dusted | 6.00% | ~2 |
 | PK Slam Dunk | 3.00% | ~1 |
 | Path of the Furon | 3.00% | ~1 |
@@ -47,13 +47,13 @@ Number of Ratings: 85  (23.09.2022)
 | Toilet Break | 0.00% | ~0 |
 | Against All Odds | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33 (Ranked 556)  
+Progressed: 34 (Ranked 554)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-12-18 | 23 | 0 |
-| 2023-12-19 | 33 | 0 |
+| 2023-12-19 | 34 | 0 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 490)  
 Sum: 34 (Ranked 515)  

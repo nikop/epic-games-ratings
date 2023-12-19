@@ -4,7 +4,7 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -1741,9 +1741,9 @@
       "ID": "ach_main04undead_completed",
       "SetID": "4hg22ll",
       "Name": "The Plains of Strothalm",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 419
+      "UsersEstimate": 425
     },
     {
       "ID": "ach_main04undead_minions",
@@ -1941,9 +1941,9 @@
       "ID": "ach_main12race_completed",
       "SetID": "4hg22ll",
       "Name": "All\u2019s Well That Ends Evil",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 236
     },
     {
       "ID": "ach_main12race_tanosevilness",
@@ -2164,8 +2164,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-19T03:08:22.4521186+00:00",
+  "LastChanged_Achievements": "2023-12-19T04:08:21.4735739+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:09.5802782+00:00",
-  "LastUpdate_Ratings": "2023-12-19T03:00:11.1487302+00:00",
-  "LastUpdate_Achievements": "2023-12-19T03:08:22.452192+00:00"
+  "LastUpdate_Ratings": "2023-12-19T04:00:07.0496209+00:00",
+  "LastUpdate_Achievements": "2023-12-19T04:08:21.4736184+00:00"
 }

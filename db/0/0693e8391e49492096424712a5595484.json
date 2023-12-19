@@ -2499,9 +2499,9 @@
       "ID": "BroomPistol",
       "SetID": "db30heh",
       "Name": "Target Hit",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 156
+      "UsersEstimate": 162
     },
     {
       "ID": "DevilPriest",
@@ -2770,8 +2770,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-12-19T03:07:38.0447502+00:00",
+  "LastChanged_Achievements": "2023-12-19T04:07:36.8160448+00:00",
   "LastUpdate_AppInfo": "2023-12-13T02:20:40.9635354+00:00",
-  "LastUpdate_Ratings": "2023-12-19T02:57:38.2357681+00:00",
-  "LastUpdate_Achievements": "2023-12-19T03:07:38.0447831+00:00"
+  "LastUpdate_Ratings": "2023-12-19T03:57:37.4699399+00:00",
+  "LastUpdate_Achievements": "2023-12-19T04:07:36.8160848+00:00"
 }

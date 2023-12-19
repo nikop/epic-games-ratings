@@ -9,7 +9,7 @@
 | For the Horde! | 83.00% | ~490 |
 | Hammer Time, Round Two | 81.00% | ~478 |
 | The Hellwoods | 77.00% | ~454 |
-| The Plains of Strothalm | 71.00% | ~419 |
+| The Plains of Strothalm | 72.00% | ~425 |
 | Experienced Thalya | 71.00% | ~419 |
 | Thalya's Concentrated Fury | 69.00% | ~407 |
 | Bad Elves Go Everywhere | 68.00% | ~401 |
@@ -31,7 +31,7 @@
 | Dungeonlord Gorgu | 45.00% | ~266 |
 | Tanos' Crusade Against Thalya | 44.00% | ~260 |
 | Mana Cannon | 41.00% | ~242 |
-| All’s Well That Ends Evil | 39.00% | ~230 |
+| All’s Well That Ends Evil | 40.00% | ~236 |
 | Unstoppable Horde | 35.00% | ~206 |
 | The Duel | 35.00% | ~206 |
 | Master of the Undead | 34.00% | ~201 |

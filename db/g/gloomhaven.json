@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2021-10-20T12:00:00+00:00",
@@ -2687,9 +2687,9 @@
       "Count": 218
     }
   ],
-  "EOS_Progressed": 27314,
+  "EOS_Progressed": 27316,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1411,
+  "EOS_NewPlayers": 1407,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13552,6 +13552,11 @@
       "Time": "2023-12-19T03:09:26.900572+00:00",
       "NumProgressed": 27314,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T04:09:25.413671+00:00",
+      "NumProgressed": 27316,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -13732,7 +13737,7 @@
       "Name": "Precious!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 4370
+      "UsersEstimate": 4371
     },
     {
       "ID": "Achievement_Trophy23",
@@ -13780,7 +13785,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 8740
+      "UsersEstimate": 8741
     },
     {
       "ID": "Achievement_Trophy29",
@@ -13804,7 +13809,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 8194
+      "UsersEstimate": 8195
     },
     {
       "ID": "Achievement_Trophy32",
@@ -13852,7 +13857,7 @@
       "Name": "Get over here!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 6555
+      "UsersEstimate": 6556
     },
     {
       "ID": "Achievement_Trophy38",
@@ -13860,7 +13865,7 @@
       "Name": "Mine... All Mine...",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 4643
+      "UsersEstimate": 4644
     },
     {
       "ID": "Achievement_Trophy39",
@@ -13940,7 +13945,7 @@
       "Name": "Doom and gloom",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 2731
+      "UsersEstimate": 2732
     },
     {
       "ID": "Achievement_Trophy49",
@@ -14051,7 +14056,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 27314,
+      "Progressed": 27316,
       "Completed": 1
     }
   ],
@@ -14059,8 +14064,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-12-18T17:59:50.0952949+00:00",
-  "LastChanged_Achievements": "2023-12-19T03:09:26.9005716+00:00",
+  "LastChanged_Achievements": "2023-12-19T04:09:25.4136706+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:35.1754464+00:00",
-  "LastUpdate_Ratings": "2023-12-19T03:00:16.0658779+00:00",
-  "LastUpdate_Achievements": "2023-12-19T03:09:26.9006544+00:00"
+  "LastUpdate_Ratings": "2023-12-19T04:00:12.1440473+00:00",
+  "LastUpdate_Achievements": "2023-12-19T04:09:25.4137504+00:00"
 }

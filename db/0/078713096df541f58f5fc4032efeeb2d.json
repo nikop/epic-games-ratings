@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 529,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -265,17 +265,17 @@
       "ID": "creepytale3_ach_11",
       "SetID": "7idcjbn",
       "Name": "Dexterity",
-      "Percentage": 72,
+      "Percentage": 74,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "creepytale3_ach_12",
       "SetID": "7idcjbn",
       "Name": "Exchange of pleasantries",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "creepytale3_ach_14",
@@ -289,9 +289,9 @@
       "ID": "creepytale3_ach_15",
       "SetID": "7idcjbn",
       "Name": "Bathing time!",
-      "Percentage": 52,
+      "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "creepytale3_ach_17",
@@ -489,9 +489,9 @@
       "ID": "creepytale3_ach_7",
       "SetID": "7idcjbn",
       "Name": "Burn, little bird!",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "creepytale3_ach_8",
@@ -520,8 +520,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2023-12-19T03:07:12.5219299+00:00",
+  "LastChanged_Achievements": "2023-12-19T04:07:10.4586533+00:00",
   "LastUpdate_AppInfo": "2023-12-13T06:57:05.5738942+00:00",
-  "LastUpdate_Ratings": "2023-12-19T03:02:47.7952633+00:00",
-  "LastUpdate_Achievements": "2023-12-19T03:07:12.5219533+00:00"
+  "LastUpdate_Ratings": "2023-12-19T04:02:45.6380718+00:00",
+  "LastUpdate_Achievements": "2023-12-19T04:07:10.4586716+00:00"
 }

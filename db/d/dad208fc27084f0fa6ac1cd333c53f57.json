@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5666,
+  "EOS_Progressed": 5667,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 425,
+  "EOS_NewPlayers": 424,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.92,
   "EosHistory": [
@@ -5419,6 +5419,11 @@
       "Time": "2023-12-19T03:08:49.9271683+00:00",
       "NumProgressed": 5666,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-19T04:08:48.5387834+00:00",
+      "NumProgressed": 5667,
+      "NumCompleted": 52
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -5463,7 +5468,7 @@
       "Name": "Unlock the PC",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 2096
+      "UsersEstimate": 2097
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_SOFA",
@@ -5487,7 +5492,7 @@
       "Name": "Wrong passcode",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 4533
+      "UsersEstimate": 4534
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -5558,14 +5563,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 5666,
+      "Progressed": 5667,
       "Completed": 52
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-12-19T03:08:49.927168+00:00",
+  "LastChanged_Achievements": "2023-12-19T04:08:48.5387829+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:07.8033204+00:00",
-  "LastUpdate_Ratings": "2023-12-19T02:59:15.3901058+00:00",
-  "LastUpdate_Achievements": "2023-12-19T03:08:49.9272035+00:00"
+  "LastUpdate_Ratings": "2023-12-19T03:59:13.2766814+00:00",
+  "LastUpdate_Achievements": "2023-12-19T04:08:48.538821+00:00"
 }

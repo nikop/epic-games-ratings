@@ -19,13 +19,13 @@ Rating: 4.62 (Ranked 372)
 | Search for the Hairy Grell | 0.40% | ~34 |
 | Lumberjack | 0.40% | ~34 |
 | Exit Through The Gift Shop | 0.40% | ~5 |
+| Beach Comber | 0.30% | ~26 |
 | Higher Tax Bracket | 0.30% | ~26 |
 | Oui, Chef! | 0.30% | ~26 |
 | Azorian Anniversary | 0.30% | ~26 |
 | Skilled | 0.30% | ~26 |
 | Flaming Hot Completos | 0.20% | ~17 |
 | Fae Farmer | 0.20% | ~17 |
-| Beach Comber | 0.20% | ~17 |
 | Fanatical Farmer | 0.20% | ~17 |
 | I Now Pronounce You... | 0.20% | ~17 |
 | Chatty Neighbor | 0.20% | ~17 |
@@ -49,7 +49,7 @@ Rating: 4.62 (Ranked 372)
 | Going Down | 0.10% | ~1 |
 | Archi-Pal-igo Aficionado | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,519 (Ranked 179)  
+Progressed: 8,521 (Ranked 179)  
 Completed: 1 (0.01%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 1 (0.01%) (Ranked 359)
 | 2023-12-16 | 8,476 | 1 |
 | 2023-12-17 | 8,500 | 1 |
 | 2023-12-18 | 8,518 | 1 |
-| 2023-12-19 | 8,519 | 1 |
+| 2023-12-19 | 8,521 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

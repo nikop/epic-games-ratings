@@ -5,21 +5,21 @@ Rating: 4.69 (Ranked 233)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 32.00% | ~217,003 |
-| 50 HEADSHOTS | 29.00% | ~196,659 |
-| SCIENCE AND INDUSTRY | 28.00% | ~189,878 |
-| FINISHED CHAPTER 1 | 27.00% | ~183,096 |
-| FINISHED CHAPTER 2 | 20.00% | ~135,627 |
-| 200 HEADSHOTS | 18.00% | ~122,064 |
-| FINISHED CHAPTER 3 | 17.00% | ~115,283 |
-| FINISHED CHAPTER 4 | 15.00% | ~101,720 |
-| FINISH CHAPTER 5 | 12.00% | ~81,376 |
-| FINISH CHAPTER 6 | 11.00% | ~74,595 |
-| CATHARTIC ESCAPISM | 11.00% | ~74,595 |
-| 1000 KILLS | 10.00% | ~67,814 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~27,125 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~13,563 |
-| FIRST BLOOD | 2.00% | ~13,563 |
+| 100 KILLS | 32.00% | ~216,994 |
+| 50 HEADSHOTS | 29.00% | ~196,650 |
+| SCIENCE AND INDUSTRY | 28.00% | ~189,869 |
+| FINISHED CHAPTER 1 | 27.00% | ~183,088 |
+| FINISHED CHAPTER 2 | 20.00% | ~135,621 |
+| 200 HEADSHOTS | 18.00% | ~122,059 |
+| FINISHED CHAPTER 3 | 17.00% | ~115,278 |
+| FINISHED CHAPTER 4 | 15.00% | ~101,716 |
+| FINISH CHAPTER 5 | 12.00% | ~81,373 |
+| FINISH CHAPTER 6 | 11.00% | ~74,592 |
+| CATHARTIC ESCAPISM | 11.00% | ~74,592 |
+| 1000 KILLS | 10.00% | ~67,810 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~27,124 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~13,562 |
+| FIRST BLOOD | 2.00% | ~13,562 |
 | OUT OF ORDER | 1.00% | ~6,781 |
 | PACEMAKER | 1.00% | ~6,781 |
 | TIME PARADOX | 1.00% | ~6,781 |
@@ -27,7 +27,7 @@ Rating: 4.69 (Ranked 233)
 | PARTYHARD | 0.80% | ~5,425 |
 | NEW GAME PLUS | 0.70% | ~4,747 |
 | FIREFIGHT LEVEL 40 | 0.50% | ~3,391 |
-| CHURCH | 0.40% | ~2,713 |
+| CHURCH | 0.40% | ~2,712 |
 | FIREFIGHT LEVEL 50 | 0.30% | ~2,034 |
 | REMEMBER THE ARMORY | 0.30% | ~2,034 |
 | 5 RUNS | 0.30% | ~2,034 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 233)
 | THE GAMBLER | 0.10% | ~678 |
 | WARRIOR IN A GARDEN | 0.10% | ~678 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 678,135 (Ranked 28)  
+Progressed: 678,105 (Ranked 28)  
 Completed: 70 (0.01%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |

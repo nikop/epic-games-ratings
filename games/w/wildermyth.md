@@ -25,8 +25,8 @@ Number of Ratings: 45  (23.09.2022)
 | Echoes Die | 1.00% | ~15 |
 | A Story of Heroes | 0.90% | ~14 |
 | Turncoat | 0.90% | ~14 |
+| Legends Never Die | 0.80% | ~12 |
 | Another Tale to Tell | 0.80% | ~12 |
-| Legends Never Die | 0.70% | ~11 |
 | Chain Reaction | 0.70% | ~11 |
 | No Time for Clawmonsters | 0.70% | ~11 |
 | Plague Doctor | 0.60% | ~9 |
@@ -63,8 +63,8 @@ Number of Ratings: 45  (23.09.2022)
 | Thwack! | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,535 (Ranked 246)  
-Completed: 6 (0.39%) (Ranked 229)  
+Progressed: 1,535 (Ranked 247)  
+Completed: 6 (0.39%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

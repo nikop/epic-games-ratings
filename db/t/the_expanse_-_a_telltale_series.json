@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16810,
+  "EOS_Progressed": 16812,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 747,
+  "EOS_NewPlayers": 749,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -14344,6 +14344,11 @@
       "Time": "2023-12-19T03:04:39.5040809+00:00",
       "NumProgressed": 16810,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-12-19T04:04:38.1041645+00:00",
+      "NumProgressed": 16812,
+      "NumCompleted": 44
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14380,7 +14385,7 @@
       "Name": "Data Archivist",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "13",
@@ -14388,7 +14393,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2353
+      "UsersEstimate": 2354
     },
     {
       "ID": "14",
@@ -14412,7 +14417,7 @@
       "Name": "Drug Gifter",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "17",
@@ -14452,7 +14457,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "21",
@@ -14492,7 +14497,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "26",
@@ -14538,9 +14543,9 @@
       "ID": "30",
       "SetID": "458bbdk",
       "Name": "No Belter Left Behind",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 168
+      "UsersEstimate": 336
     },
     {
       "ID": "4",
@@ -14604,7 +14609,7 @@
       "Name": "Safe Cracker",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "33",
@@ -14628,20 +14633,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16810,
+      "Progressed": 16812,
       "Completed": 44
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2764,
+      "Progressed": 2766,
       "Completed": 949
     }
   ],
@@ -14649,8 +14654,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-17T22:59:50.8326927+00:00",
-  "LastChanged_Achievements": "2023-12-19T03:04:39.5040804+00:00",
+  "LastChanged_Achievements": "2023-12-19T04:04:38.1041642+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:40.0929133+00:00",
-  "LastUpdate_Ratings": "2023-12-19T03:00:33.2763034+00:00",
-  "LastUpdate_Achievements": "2023-12-19T03:04:39.5041512+00:00"
+  "LastUpdate_Ratings": "2023-12-19T04:00:30.1285937+00:00",
+  "LastUpdate_Achievements": "2023-12-19T04:04:38.1042406+00:00"
 }

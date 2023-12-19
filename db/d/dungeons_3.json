@@ -3415,9 +3415,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 43976,
+  "EOS_Progressed": 43977,
   "EOS_Completed": 358,
-  "EOS_NewPlayers": 813,
+  "EOS_NewPlayers": 812,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
@@ -30420,6 +30420,11 @@
       "Time": "2023-12-19T03:05:18.7055841+00:00",
       "NumProgressed": 43976,
       "NumCompleted": 358
+    },
+    {
+      "Time": "2023-12-19T04:05:17.6983439+00:00",
+      "NumProgressed": 43977,
+      "NumCompleted": 358
     }
   ],
   "TotalAchievements": 60,
@@ -30447,7 +30452,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 25506
+      "UsersEstimate": 25507
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -30639,7 +30644,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 19349
+      "UsersEstimate": 19350
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -30647,7 +30652,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 18030
+      "UsersEstimate": 18031
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -30655,7 +30660,7 @@
       "Name": "Hands off the Dungeonheart!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15831
+      "UsersEstimate": 15832
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_Completed",
@@ -30663,7 +30668,7 @@
       "Name": "Rusty Steel",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 18030
+      "UsersEstimate": 18031
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -30703,7 +30708,7 @@
       "Name": "Chorus of damnation",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 8355
+      "UsersEstimate": 8356
     },
     {
       "ID": "ACH_D3_Campaign_Infested_Completed",
@@ -30735,7 +30740,7 @@
       "Name": "Where there is Light, there is Shadow",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 10114
+      "UsersEstimate": 10115
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_1",
@@ -30759,7 +30764,7 @@
       "Name": "For a handfull of Catapults",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 12313
+      "UsersEstimate": 12314
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_1",
@@ -30767,7 +30772,7 @@
       "Name": "Can\u2019t stand the sight of Dark Elf blood",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 6596
+      "UsersEstimate": 6597
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_2",
@@ -30831,7 +30836,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 30783
+      "UsersEstimate": 30784
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -30863,7 +30868,7 @@
       "Name": "We don\u2019t have time!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 8355
+      "UsersEstimate": 8356
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_2",
@@ -30910,15 +30915,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 43976,
+      "Progressed": 43977,
       "Completed": 358
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-12-16T12:01:48.6572157+00:00",
-  "LastChanged_Achievements": "2023-12-19T03:05:18.7055837+00:00",
+  "LastChanged_Achievements": "2023-12-19T04:05:17.6983435+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:12.618272+00:00",
-  "LastUpdate_Ratings": "2023-12-19T02:58:16.0285052+00:00",
-  "LastUpdate_Achievements": "2023-12-19T03:05:18.7057494+00:00"
+  "LastUpdate_Ratings": "2023-12-19T03:58:15.3717977+00:00",
+  "LastUpdate_Achievements": "2023-12-19T04:05:17.6984981+00:00"
 }

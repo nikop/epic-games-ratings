@@ -1,14 +1,14 @@
 # while True: learn()
 [Store](https://store.epicgames.com/en-US/p/while-true-learn)  
 [View Rawdata](../../db/w/while_true__learn().json)  
-Rating: 4.51 (Ranked 578)  
+Rating: 4.51 (Ranked 579)  
 Number of Ratings: 896  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~571,465 |
-| Error: Stack Overflow | 66.00% | ~405,556 |
-| We need more gold | 61.00% | ~374,832 |
+| First.. Bit? | 93.00% | ~571,466 |
+| Error: Stack Overflow | 66.00% | ~405,557 |
+| We need more gold | 61.00% | ~374,833 |
 | The dawn of civilization | 53.00% | ~325,674 |
 | More FPS for the FPS god! | 50.00% | ~307,240 |
 | Beauty and harmony | 48.00% | ~294,950 |
@@ -35,7 +35,7 @@ Number of Ratings: 896  (23.09.2022)
 | Elements will destroy you! | 0.30% | ~1,843 |
 | The Scrooge | 0.10% | ~614 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 614,479 (Ranked 31)  
+Progressed: 614,480 (Ranked 31)  
 Completed: 556 (0.09%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 556 (0.09%) (Ranked 308)
 | 2023-12-16 | 614,185 | 556 |
 | 2023-12-17 | 614,342 | 556 |
 | 2023-12-18 | 614,455 | 556 |
-| 2023-12-19 | 614,479 | 556 |
+| 2023-12-19 | 614,480 | 556 |
 ## Awards
 Max (Challenging Puzzles): 139  (Ranked 328)  
 Sum: 139 (Ranked 436)  

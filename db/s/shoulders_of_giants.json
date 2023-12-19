@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 412,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 403,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
     "PcReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -99,9 +99,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2309,
+  "EOS_Progressed": 2310,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -1939,6 +1939,11 @@
       "Time": "2023-12-18T19:05:51.9838051+00:00",
       "NumProgressed": 2309,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-19T04:07:27.6934139+00:00",
+      "NumProgressed": 2310,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 19,
@@ -1990,7 +1995,7 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 2032
+      "UsersEstimate": 2033
     },
     {
       "ID": "deal_damage",
@@ -2006,7 +2011,7 @@
       "Name": "A Ribbiting Performance",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 1755
+      "UsersEstimate": 1756
     },
     {
       "ID": "defeat_tree_dummy",
@@ -2054,7 +2059,7 @@
       "Name": "Frogbot",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "save_planet_bestfriend",
@@ -2101,7 +2106,7 @@
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 2309,
+      "Progressed": 2310,
       "Completed": 10
     }
   ],
@@ -2109,8 +2114,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-12-04T09:57:32.2251724+00:00",
-  "LastChanged_Achievements": "2023-12-19T03:07:29.0979091+00:00",
+  "LastChanged_Achievements": "2023-12-19T04:07:27.6934136+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:18.0615265+00:00",
-  "LastUpdate_Ratings": "2023-12-19T02:58:44.2763368+00:00",
-  "LastUpdate_Achievements": "2023-12-19T03:07:29.0979282+00:00"
+  "LastUpdate_Ratings": "2023-12-19T03:58:42.8572874+00:00",
+  "LastUpdate_Achievements": "2023-12-19T04:07:27.6934336+00:00"
 }

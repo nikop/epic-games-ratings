@@ -5,10 +5,10 @@
   "Ranking_Rating": 112,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 525,
-  "Ranking_EOS_Progress": 246,
-  "Ranking_EOS_Completed": 229,
+  "Ranking_EOS_Progress": 247,
+  "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 348,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -2339,9 +2339,9 @@
       "ID": "achievement_mythwalker",
       "SetID": "95dc8p",
       "Name": "Legends Never Die",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement_rivalStuntAbility5Times",
@@ -2611,8 +2611,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-11-12T17:00:17.2155611+00:00",
-  "LastChanged_Achievements": "2023-12-19T03:10:30.4950172+00:00",
+  "LastChanged_Achievements": "2023-12-19T04:10:29.3768605+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:42.9077467+00:00",
-  "LastUpdate_Ratings": "2023-12-19T02:57:08.8872738+00:00",
-  "LastUpdate_Achievements": "2023-12-19T03:10:30.4950579+00:00"
+  "LastUpdate_Ratings": "2023-12-19T03:57:09.1238199+00:00",
+  "LastUpdate_Achievements": "2023-12-19T04:10:29.3769035+00:00"
 }

@@ -12,7 +12,7 @@
 | Path of Corruption | 36.00% | ~36 |
 | Hope | 30.00% | ~30 |
 | Rage | 30.00% | ~30 |
-| Path of Pain | 21.00% | ~21 |
+| Path of Pain | 22.00% | ~22 |
 | Clarity | 17.00% | ~17 |
 | Mayhem | 16.00% | ~16 |
 | Reflections | 16.00% | ~16 |
@@ -22,13 +22,13 @@
 | Awaiting orders | 10.00% | ~10 |
 | Jigsaw | 10.00% | ~10 |
 | Peace | 10.00% | ~10 |
+| An act of courage | 7.00% | ~7 |
 | Lost | 7.00% | ~7 |
-| An act of courage | 6.00% | ~6 |
 | An act of compassion | 5.00% | ~5 |
 | An act of mercy | 4.00% | ~4 |
 | All knowing | 3.00% | ~3 |
 | Ad Infinitum | 2.00% | ~2 |
-| Corruption | 1.00% | ~1 |
+| Corruption | 2.00% | ~2 |
 | Despair | 1.00% | ~1 |
 | Pain | 1.00% | ~1 |
 | No one left behind | 0.00% | ~0 |

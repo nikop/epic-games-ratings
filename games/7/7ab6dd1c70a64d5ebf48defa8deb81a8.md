@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 47.00% | ~390 |
+| Break Out | 48.00% | ~398 |
 | Trinity | 20.00% | ~166 |
 | I Found It | 17.00% | ~141 |
 | A Taste of Wrath | 16.00% | ~133 |
@@ -31,10 +31,10 @@
 | Shatterer | 2.00% | ~17 |
 | Fine Feathers Make Fine Birds | 2.00% | ~17 |
 | Slayer | 1.00% | ~8 |
+| Flawless Victory | 1.00% | ~8 |
 | All There Is | 1.00% | ~8 |
 | False God | 1.00% | ~8 |
 | A Queen's Tale | 1.00% | ~8 |
-| Flawless Victory | 0.80% | ~7 |
 | Summiter | 0.70% | ~6 |
 | Forgemaster | 0.60% | ~5 |
 | All That Gold | 0.60% | ~5 |

@@ -47,7 +47,7 @@
 | Hovering around | 25.00% | ~33 |
 | I cant stand still! | 23.00% | ~31 |
 | Slimy... yet satisfying | 20.00% | ~27 |
-| Master Butcher | 18.00% | ~24 |
+| Master Butcher | 19.00% | ~25 |
 | Just wing it! | 18.00% | ~24 |
 | Deal with it | 18.00% | ~24 |
 | Yeehaw!!! | 15.00% | ~20 |

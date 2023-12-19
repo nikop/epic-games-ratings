@@ -139,9 +139,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1242,
+  "EOS_Progressed": 1243,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 2.74,
   "EosHistory": [
@@ -4294,6 +4294,11 @@
       "Time": "2023-12-19T00:05:11.1384142+00:00",
       "NumProgressed": 1242,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-19T04:06:39.8334653+00:00",
+      "NumProgressed": 1243,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 28,
@@ -4305,7 +4310,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "MQ01_2",
@@ -4313,7 +4318,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "MQ02_1",
@@ -4353,7 +4358,7 @@
       "Name": "Fond Memories",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "MQ03_2",
@@ -4369,7 +4374,7 @@
       "Name": "History Check",
       "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "MQ03_4",
@@ -4401,7 +4406,7 @@
       "Name": "Let Me Be Frank",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "MQ04_3",
@@ -4497,7 +4502,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "MQ08_2",
@@ -4528,7 +4533,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1242,
+      "Progressed": 1243,
       "Completed": 34
     }
   ],
@@ -4536,8 +4541,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-18T11:03:40.7955298+00:00",
-  "LastChanged_Achievements": "2023-12-19T03:06:41.7809262+00:00",
+  "LastChanged_Achievements": "2023-12-19T04:06:39.833465+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:14.2246919+00:00",
-  "LastUpdate_Ratings": "2023-12-19T03:03:15.3348416+00:00",
-  "LastUpdate_Achievements": "2023-12-19T03:06:41.7809538+00:00"
+  "LastUpdate_Ratings": "2023-12-19T04:03:13.4939294+00:00",
+  "LastUpdate_Achievements": "2023-12-19T04:06:39.8335065+00:00"
 }

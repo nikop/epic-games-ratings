@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -589,9 +589,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9773,
+  "EOS_Progressed": 9777,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 976,
+  "EOS_NewPlayers": 980,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -12704,6 +12704,11 @@
       "Time": "2023-12-19T03:07:29.9526481+00:00",
       "NumProgressed": 9773,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-12-19T04:07:28.4964755+00:00",
+      "NumProgressed": 9777,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 29,
@@ -12715,7 +12720,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 8112
+      "UsersEstimate": 8115
     },
     {
       "ID": "ACH02",
@@ -12723,7 +12728,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 3323
+      "UsersEstimate": 3324
     },
     {
       "ID": "ACH03",
@@ -12731,7 +12736,7 @@
       "Name": "Escape Artist",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ACH04",
@@ -12739,7 +12744,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 3714
+      "UsersEstimate": 3715
     },
     {
       "ID": "ACH05",
@@ -12755,7 +12760,7 @@
       "Name": "Street Sweeper",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1759
+      "UsersEstimate": 1760
     },
     {
       "ID": "ACH07",
@@ -12779,7 +12784,7 @@
       "Name": "By a Mile",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "ACH10",
@@ -12787,7 +12792,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2736
+      "UsersEstimate": 2738
     },
     {
       "ID": "ACH11",
@@ -12811,7 +12816,7 @@
       "Name": "Where To?",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ACH14",
@@ -12819,7 +12824,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1661
+      "UsersEstimate": 1662
     },
     {
       "ID": "ACH15",
@@ -12835,7 +12840,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2443
+      "UsersEstimate": 2444
     },
     {
       "ID": "ACH17",
@@ -12843,7 +12848,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1270
+      "UsersEstimate": 1271
     },
     {
       "ID": "ACH18",
@@ -12851,7 +12856,7 @@
       "Name": "Not So Fast",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "ACH19",
@@ -12875,7 +12880,7 @@
       "Name": "Splish Splash",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ACH22",
@@ -12883,7 +12888,7 @@
       "Name": "Playing Doctor",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ACH23",
@@ -12907,7 +12912,7 @@
       "Name": "Right-hand Man",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "ACH26",
@@ -12923,7 +12928,7 @@
       "Name": "Liberty City Secrets",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ACH28",
@@ -12946,7 +12951,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 9773,
+      "Progressed": 9777,
       "Completed": 61
     }
   ],
@@ -12954,8 +12959,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-12-18T19:57:19.5017889+00:00",
-  "LastChanged_Achievements": "2023-12-19T03:07:29.9526476+00:00",
+  "LastChanged_Achievements": "2023-12-19T04:07:28.496475+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:35.1384791+00:00",
-  "LastUpdate_Ratings": "2023-12-19T02:57:44.9137736+00:00",
-  "LastUpdate_Achievements": "2023-12-19T03:07:29.9527179+00:00"
+  "LastUpdate_Ratings": "2023-12-19T03:57:43.9651043+00:00",
+  "LastUpdate_Achievements": "2023-12-19T04:07:28.4965585+00:00"
 }

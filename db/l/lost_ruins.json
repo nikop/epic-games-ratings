@@ -3,9 +3,9 @@
   "Name": "Lost Ruins",
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 324,
-  "Ranking_EOS_Completed": 273,
+  "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 260,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 555,
+  "EOS_Progressed": 556,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1319,6 +1319,11 @@
       "Time": "2023-12-19T02:33:09.8850058+00:00",
       "NumProgressed": 555,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T04:10:27.5834111+00:00",
+      "NumProgressed": 556,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1346,7 +1351,7 @@
       "Name": "Artifact Collector",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "Assassin",
@@ -1368,9 +1373,9 @@
       "ID": "BugHunter",
       "SetID": "82505mn",
       "Name": "Bug Hunter",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 133
     },
     {
       "ID": "Cryomancer",
@@ -1450,7 +1455,7 @@
       "Name": "Inquisitor",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "Librarian",
@@ -1610,7 +1615,7 @@
       "Name": "Trap Master",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "TreasureHunter",
@@ -1649,7 +1654,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 555,
+      "Progressed": 556,
       "Completed": 1
     }
   ],
@@ -1657,8 +1662,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-19T03:10:28.6771665+00:00",
+  "LastChanged_Achievements": "2023-12-19T04:10:27.5834106+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:31.304442+00:00",
-  "LastUpdate_Ratings": "2023-12-19T03:00:03.9127632+00:00",
-  "LastUpdate_Achievements": "2023-12-19T03:10:28.6771968+00:00"
+  "LastUpdate_Ratings": "2023-12-19T03:59:59.590134+00:00",
+  "LastUpdate_Achievements": "2023-12-19T04:10:27.5834378+00:00"
 }
