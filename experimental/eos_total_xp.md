@@ -36,6 +36,7 @@
 | [Remnant 2](../games/r/remnant_2.md) | 55 | 1,250 |
 | [Destiny 2](../games/d/destiny_2.md) | 23 | 1,240 |
 | [Rogue Legacy 2](../games/r/rogue_legacy_2.md) | 39 | 1,240 |
+| [Tails of Iron](../games/t/tails_of_iron.md) | 36 | 1,230 |
 | [Dying Light 2: Stay Human - Winter Tales Edition](../games/d/dying_light_2_stay_human.md) | 65 | 1,200 |
 | [GRIME](../games/g/grime.md) | 45 | 1,200 |
 | [HAAK](../games/2/24bd39f944fa45ad8a953116f9908525.md) | 57 | 1,200 |
@@ -715,7 +716,6 @@
 | [System Shock](../games/s/system_shock.md) | 46 | 1,000 |
 | [Tabletop Playground](../games/9/95f3bd44c8394061aca3eb1ce4b1f0fb.md) | 5 | 1,000 |
 | [Tad the Lost Explorer](../games/t/tad_the_lost_explorer.md) | 27 | 1,000 |
-| [Tails of Iron](../games/t/tails_of_iron.md) | 30 | 1,000 |
 | [Tales of the Orient: The Rising Sun](../games/t/tales_of_the_orient__the_rising_sun.md) | 16 | 1,000 |
 | [Tales of the Tiny Planet](../games/f/fcfb5f2cb071465391cc3c4555327790.md) | 34 | 1,000 |
 | [Tangles](../games/f/f10440a3a8fa4c29ae5be55c949ba58f.md) | 8 | 1,000 |

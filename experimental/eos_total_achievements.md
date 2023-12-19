@@ -345,6 +345,7 @@
 | [Heim](../games/h/heim.md) | 36 | 1,000 |
 | [Ikonei Island: An Earthlock Adventure](../games/9/9d18d8b14f2249278132414a09234394.md) | 36 | 1,000 |
 | [Survive on Raft](../games/s/survive_on_raft.md) | 36 | 1,000 |
+| [Tails of Iron](../games/t/tails_of_iron.md) | 36 | 1,230 |
 | [The Captain is Dead](../games/t/the_captain_is_dead.md) | 36 | 1,000 |
 | [The Lord of the Rings - Gollum™](../games/t/the_lord_of_the_rings_-_gollum™.md) | 36 | 1,000 |
 | [The Smurfs 2 - The Prisoner of the Green Stone](../games/7/76939a6fe2b54f9299254c99a9aebd35.md) | 36 | 1,000 |
@@ -446,7 +447,6 @@
 | [Scathe](../games/s/scathe.md) | 30 | 1,000 |
 | [SPACE ELITE FORCE](../games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 30 | 1,000 |
 | [Spacebase Startopia - Standard Edition](../games/s/spacebase_startopia.md) | 30 | 1,000 |
-| [Tails of Iron](../games/t/tails_of_iron.md) | 30 | 1,000 |
 | [Terraforming Mars](../games/t/terraforming_mars.md) | 30 | 1,000 |
 | [Terror of Hemasaurus](../games/t/terror_of_hemasaurus.md) | 30 | 1,000 |
 | [The House of Da Vinci 3](../games/6/6bd33f792d3d4350ab80acb891597df8.md) | 30 | 1,000 |

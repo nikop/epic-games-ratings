@@ -387,6 +387,7 @@
 | [Morbid The Lords of Ire](games/m/morbid_the_lords_of_ire.md) | 2099-01-01 | - |  | - | - |
 | [Munlay Online](games/c/c1c4ebf44f4e46c0be20c5741ddccade.md) | 2099-01-01 | - |  | - | - |
 | [Mutus Meteora](games/0/06a3d76750a1495d853e3067de19c377.md) | 2099-01-01 | - |  | - | - |
+| [Necrosmith 2](games/e/e153609a322d42e18ee587bb862022fc.md) | 2099-01-01 | - |  | - | - |
 | [Never Alone](games/e/e578f95e616d4dc29a70d0f7be01ebb5.md) | 2099-01-01 | - |  | - | - |
 | [Never Ending Dungeon](games/4/4bd29d43dd73456485bffe1307497c81.md) | 2099-01-01 | - |  | - | - |
 | [New Arc Line](games/8/8d86c6965e66438d89f062a09a273782.md) | 2099-01-01 | - |  | - | - |
