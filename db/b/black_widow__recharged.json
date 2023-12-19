@@ -173,9 +173,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23105,
+  "EOS_Progressed": 23106,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 637,
+  "EOS_NewPlayers": 636,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -20578,6 +20578,11 @@
       "Time": "2023-12-19T02:26:45.0624843+00:00",
       "NumProgressed": 23105,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-19T03:04:08.0951814+00:00",
+      "NumProgressed": 23106,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 14,
@@ -20589,7 +20594,7 @@
       "Name": "Across The Border",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 17791
+      "UsersEstimate": 17792
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -20613,7 +20618,7 @@
       "Name": "Danger Ahead",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 6007
+      "UsersEstimate": 6008
     },
     {
       "ID": "ACH_DONT_BRING_ME_DOWN",
@@ -20669,7 +20674,7 @@
       "Name": "Look at Me Now",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 6007
+      "UsersEstimate": 6008
     },
     {
       "ID": "ACH_THE_FALL",
@@ -20700,15 +20705,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 23105,
+      "Progressed": 23106,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-11-02T20:58:32.2795394+00:00",
-  "LastChanged_Achievements": "2023-12-19T02:26:45.0624839+00:00",
+  "LastChanged_Achievements": "2023-12-19T03:04:08.0951809+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:16.5568567+00:00",
-  "LastUpdate_Ratings": "2023-12-19T02:25:20.8602461+00:00",
-  "LastUpdate_Achievements": "2023-12-19T02:26:45.0625813+00:00"
+  "LastUpdate_Ratings": "2023-12-19T03:02:36.856697+00:00",
+  "LastUpdate_Achievements": "2023-12-19T03:04:08.095292+00:00"
 }

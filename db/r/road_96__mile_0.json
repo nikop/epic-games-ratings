@@ -3,7 +3,7 @@
   "Name": "Road 96: Mile 0",
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 326,
-  "Ranking_EOS_Completed": 226,
+  "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 506,
+  "EOS_Progressed": 507,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.4,
+  "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:35.153611+00:00",
@@ -1757,6 +1757,11 @@
       "Time": "2023-12-18T21:10:12.5086319+00:00",
       "NumProgressed": 506,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-19T03:10:22.5066223+00:00",
+      "NumProgressed": 507,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -1768,7 +1773,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 52,
       "XP": 60,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "completeact2",
@@ -1816,7 +1821,7 @@
       "Name": "Freedom",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "scoreminrankrf1",
@@ -1824,7 +1829,7 @@
       "Name": "86\u0027s Nightmare",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "scoreminrankrf2",
@@ -1880,14 +1885,14 @@
       "Name": "Friendzone",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     }
   ],
   "AchievementSets": [
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 506,
+      "Progressed": 507,
       "Completed": 2
     }
   ],
@@ -1895,8 +1900,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-12-19T02:33:03.9016325+00:00",
+  "LastChanged_Achievements": "2023-12-19T03:10:22.506622+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:48.6488501+00:00",
-  "LastUpdate_Ratings": "2023-12-19T02:23:04.5542293+00:00",
-  "LastUpdate_Achievements": "2023-12-19T02:33:03.90165+00:00"
+  "LastUpdate_Ratings": "2023-12-19T03:00:56.3431171+00:00",
+  "LastUpdate_Achievements": "2023-12-19T03:10:22.5066384+00:00"
 }

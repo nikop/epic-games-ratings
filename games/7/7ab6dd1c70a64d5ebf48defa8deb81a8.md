@@ -14,14 +14,14 @@
 | The Collector | 14.00% | ~116 |
 | Adventurer | 13.00% | ~108 |
 | Fashion Victim | 13.00% | ~108 |
-| Tributes of Caladrias | 12.00% | ~99 |
-| Scholar | 12.00% | ~99 |
+| Tributes of Caladrias | 12.00% | ~100 |
+| Scholar | 12.00% | ~100 |
 | Stone Collection | 11.00% | ~91 |
 | Powerful Allies | 10.00% | ~83 |
 | Big Bazar | 8.00% | ~66 |
 | Essence Blow | 6.00% | ~50 |
-| The Mentor | 5.00% | ~41 |
-| Alchemist | 5.00% | ~41 |
+| The Mentor | 5.00% | ~42 |
+| Alchemist | 5.00% | ~42 |
 | Calm before the Storm | 4.00% | ~33 |
 | Airborne | 4.00% | ~33 |
 | To Battle | 3.00% | ~25 |
@@ -41,7 +41,7 @@
 | Shardbearer | 0.50% | ~4 |
 | Feeling Fancy | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 829 (Ranked 284)  
+Progressed: 830 (Ranked 284)  
 Completed: 3 (0.36%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,4 +109,4 @@ Completed: 3 (0.36%) (Ranked 235)
 | 2023-12-16 | 621 | 3 |
 | 2023-12-17 | 752 | 3 |
 | 2023-12-18 | 818 | 3 |
-| 2023-12-19 | 829 | 3 |
+| 2023-12-19 | 830 | 3 |

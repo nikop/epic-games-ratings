@@ -5,8 +5,8 @@ Rating: 4.29 (Ranked 855)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~164,362 |
-| Copacetic Coordination | 16.00% | ~57,169 |
+| Corner Clout | 46.00% | ~164,363 |
+| Copacetic Coordination | 16.00% | ~57,170 |
 | Fronting the Money | 15.00% | ~53,596 |
 | The Dawn of Automation | 14.00% | ~50,023 |
 | Extraordinary Logistics | 14.00% | ~50,023 |
@@ -23,19 +23,19 @@ Rating: 4.29 (Ranked 855)
 | Street Fighter | 7.00% | ~25,012 |
 | Friendly Gestures | 7.00% | ~25,012 |
 | People Person | 7.00% | ~25,012 |
-| Liquor Lord | 6.00% | ~21,438 |
-| Safety in Numbers | 6.00% | ~21,438 |
-| Moving Experiences | 6.00% | ~21,438 |
-| Wise Head | 6.00% | ~21,438 |
-| Show ‘em the Sugar | 6.00% | ~21,438 |
-| Killing Them Softly | 6.00% | ~21,438 |
-| Street Knowledge | 5.00% | ~17,865 |
-| Oh Captain | 5.00% | ~17,865 |
-| Branching Out | 5.00% | ~17,865 |
-| Improvement Missions | 5.00% | ~17,865 |
-| Opportunity Knocked | 5.00% | ~17,865 |
-| City of Big Shoulders | 5.00% | ~17,865 |
-| Mission Mastery | 5.00% | ~17,865 |
+| Liquor Lord | 6.00% | ~21,439 |
+| Safety in Numbers | 6.00% | ~21,439 |
+| Moving Experiences | 6.00% | ~21,439 |
+| Wise Head | 6.00% | ~21,439 |
+| Show ‘em the Sugar | 6.00% | ~21,439 |
+| Killing Them Softly | 6.00% | ~21,439 |
+| Street Knowledge | 5.00% | ~17,866 |
+| Oh Captain | 5.00% | ~17,866 |
+| Branching Out | 5.00% | ~17,866 |
+| Improvement Missions | 5.00% | ~17,866 |
+| Opportunity Knocked | 5.00% | ~17,866 |
+| City of Big Shoulders | 5.00% | ~17,866 |
+| Mission Mastery | 5.00% | ~17,866 |
 | Considerable Clams | 4.00% | ~14,292 |
 | Gin Joint | 4.00% | ~14,292 |
 | An Affront to the Enemy | 4.00% | ~14,292 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 855)
 | High Pillow | 0.10% | ~357 |
 | Station Master | 0.10% | ~357 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 357,308 (Ranked 49)  
+Progressed: 357,310 (Ranked 49)  
 Completed: 7 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 7 (0.00%) (Ranked 383)
 | 2023-12-16 | 356,959 | 7 |
 | 2023-12-17 | 357,141 | 7 |
 | 2023-12-18 | 357,291 | 7 |
-| 2023-12-19 | 357,308 | 7 |
+| 2023-12-19 | 357,310 | 7 |
 ## Awards
 Max (Great for Beginners): 55  (Ranked 429)  
 Sum: 255 (Ranked 387)  

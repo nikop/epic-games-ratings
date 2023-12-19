@@ -143,9 +143,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15437,
+  "EOS_Progressed": 15440,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 480,
+  "EOS_NewPlayers": 482,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4078,6 +4078,11 @@
       "Time": "2023-12-19T01:56:16.0861139+00:00",
       "NumProgressed": 15437,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-19T03:09:30.919709+00:00",
+      "NumProgressed": 15440,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -4090,7 +4095,7 @@
       "Name": "Revelations",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 5866
+      "UsersEstimate": 5867
     },
     {
       "ID": "ACH_AE_10",
@@ -4098,7 +4103,7 @@
       "Name": "Together We Fight",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1389
+      "UsersEstimate": 1390
     },
     {
       "ID": "ACH_AE_11",
@@ -4122,7 +4127,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 11578
+      "UsersEstimate": 11580
     },
     {
       "ID": "ACH_AE_14",
@@ -4130,7 +4135,7 @@
       "Name": "Sticky Situation",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 2933
+      "UsersEstimate": 2934
     },
     {
       "ID": "ACH_AE_15",
@@ -4138,7 +4143,7 @@
       "Name": "Right Back At You",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3396
+      "UsersEstimate": 3397
     },
     {
       "ID": "ACH_AE_16",
@@ -4162,7 +4167,7 @@
       "Name": "Crime Fighter",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "ACH_AE_19",
@@ -4170,15 +4175,15 @@
       "Name": "Signature Style",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 2161
+      "UsersEstimate": 2162
     },
     {
       "ID": "ACH_AE_2",
       "SetID": "ck3465",
       "Name": "Back to School",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3705
+      "UsersEstimate": 3551
     },
     {
       "ID": "ACH_AE_20",
@@ -4266,7 +4271,7 @@
       "Name": "Pajama Boy",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 2624
+      "UsersEstimate": 2625
     },
     {
       "ID": "ACH_AE_30",
@@ -4330,7 +4335,7 @@
       "Name": "Bad Chemistry",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1852
+      "UsersEstimate": 1853
     },
     {
       "ID": "ACH_AE_6",
@@ -4369,7 +4374,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 15437,
+      "Progressed": 15440,
       "Completed": 14
     }
   ],
@@ -4377,8 +4382,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-13T16:00:23.030195+00:00",
-  "LastChanged_Achievements": "2023-12-19T02:32:15.4691593+00:00",
+  "LastChanged_Achievements": "2023-12-19T03:09:30.9197087+00:00",
   "LastUpdate_AppInfo": "2023-12-12T16:57:28.350985+00:00",
-  "LastUpdate_Ratings": "2023-12-19T02:21:28.0901026+00:00",
-  "LastUpdate_Achievements": "2023-12-19T02:32:15.4692121+00:00"
+  "LastUpdate_Ratings": "2023-12-19T02:59:10.6919184+00:00",
+  "LastUpdate_Achievements": "2023-12-19T03:09:30.9197468+00:00"
 }

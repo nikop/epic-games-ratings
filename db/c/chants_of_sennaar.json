@@ -37,11 +37,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1358,
+  "EOS_Progressed": 1360,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 405,
+  "EOS_NewPlayers": 407,
   "EOS_NewCompleters": 17,
-  "EOS_Completed_Percentage": 5.3,
+  "EOS_Completed_Percentage": 5.29,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -4497,6 +4497,11 @@
       "Time": "2023-12-19T01:53:34.7614507+00:00",
       "NumProgressed": 1358,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2023-12-19T03:07:39.3604691+00:00",
+      "NumProgressed": 1360,
+      "NumCompleted": 72
     }
   ],
   "TotalAchievements": 25,
@@ -4516,15 +4521,15 @@
       "Name": "In this together",
       "Percentage": 18,
       "XP": 200,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "META_ALL_LINK",
       "SetID": "2gma9an",
       "Name": "Peace walker",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 244
+      "UsersEstimate": 258
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -4540,7 +4545,7 @@
       "Name": "A good beginning",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "META_HALF_LINK",
@@ -4556,7 +4561,7 @@
       "Name": "Open door",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "META_RESULT_1-3",
@@ -4572,7 +4577,7 @@
       "Name": "Feels like springtime",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "META_RESULT_2-3",
@@ -4612,7 +4617,7 @@
       "Name": "Rascal",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -4620,7 +4625,7 @@
       "Name": "True G3M4R",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -4644,7 +4649,7 @@
       "Name": "Champollion",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -4652,7 +4657,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -4668,7 +4673,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "PROGRESS_N2",
@@ -4676,7 +4681,7 @@
       "Name": "The great escape",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "PROGRESS_N3",
@@ -4684,7 +4689,7 @@
       "Name": "A new dawn",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "PROGRESS_N4",
@@ -4692,7 +4697,7 @@
       "Name": "The darkness",
       "Percentage": 23,
       "XP": 60,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "PROGRESS_N5",
@@ -4707,7 +4712,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1358,
+      "Progressed": 1360,
       "Completed": 72
     }
   ],
@@ -4715,8 +4720,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-17T17:02:33.5506237+00:00",
-  "LastChanged_Achievements": "2023-12-19T02:30:01.3716071+00:00",
+  "LastChanged_Achievements": "2023-12-19T03:07:39.3604687+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:30.8935759+00:00",
-  "LastUpdate_Ratings": "2023-12-19T02:20:02.2000055+00:00",
-  "LastUpdate_Achievements": "2023-12-19T02:30:01.3716507+00:00"
+  "LastUpdate_Ratings": "2023-12-19T02:57:34.5107068+00:00",
+  "LastUpdate_Achievements": "2023-12-19T03:07:39.3605035+00:00"
 }

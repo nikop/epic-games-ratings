@@ -2,9 +2,9 @@
   "ID": "3eb832eb6d9f4496818a0b0d667420c0",
   "Name": "DNF Duel",
   "ProductSlug": "dnf-duel-07d055",
-  "Ranking_EOS_Progress": 590,
+  "Ranking_EOS_Progress": 582,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewPlayers": 357,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-18T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22,
+  "EOS_Progressed": 24,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -104,6 +104,11 @@
       "Time": "2023-12-19T01:53:04.7214491+00:00",
       "NumProgressed": 22,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T03:06:57.6090739+00:00",
+      "NumProgressed": 24,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T09:03:44.926061+00:00",
@@ -114,7 +119,7 @@
       "ID": "ACHIEVEMENT_001",
       "SetID": "dge1ook",
       "Name": "Gold Merchant",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -122,7 +127,7 @@
       "ID": "ACHIEVEMENT_002",
       "SetID": "dge1ook",
       "Name": "Relentless Will",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -130,7 +135,7 @@
       "ID": "ACHIEVEMENT_003",
       "SetID": "dge1ook",
       "Name": "In the Face of Will",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -138,7 +143,7 @@
       "ID": "ACHIEVEMENT_004",
       "SetID": "dge1ook",
       "Name": "Advocate of The Gate",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -146,7 +151,7 @@
       "ID": "ACHIEVEMENT_005",
       "SetID": "dge1ook",
       "Name": "The Beginning of a Legend",
-      "Percentage": 73,
+      "Percentage": 67,
       "XP": 10,
       "UsersEstimate": 16
     },
@@ -154,7 +159,7 @@
       "ID": "ACHIEVEMENT_006",
       "SetID": "dge1ook",
       "Name": "Thorough Preparation",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -162,7 +167,7 @@
       "ID": "ACHIEVEMENT_007",
       "SetID": "dge1ook",
       "Name": "Veteran Fighter",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -170,15 +175,15 @@
       "ID": "ACHIEVEMENT_008",
       "SetID": "dge1ook",
       "Name": "Home Sweet Home",
-      "Percentage": 118,
+      "Percentage": 113,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_009",
       "SetID": "dge1ook",
       "Name": "Level Analysis Complete",
-      "Percentage": 91,
+      "Percentage": 83,
       "XP": 5,
       "UsersEstimate": 20
     },
@@ -186,7 +191,7 @@
       "ID": "ACHIEVEMENT_010",
       "SetID": "dge1ook",
       "Name": "Man with 100 Names",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -194,7 +199,7 @@
       "ID": "ACHIEVEMENT_011",
       "SetID": "dge1ook",
       "Name": "Suspicious Collector",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -202,7 +207,7 @@
       "ID": "ACHIEVEMENT_012",
       "SetID": "dge1ook",
       "Name": "Well, This Is Who I Am...",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -210,7 +215,7 @@
       "ID": "ACHIEVEMENT_013",
       "SetID": "dge1ook",
       "Name": "For Home Appreciation",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -218,7 +223,7 @@
       "ID": "ACHIEVEMENT_014",
       "SetID": "dge1ook",
       "Name": "Gallerist",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -226,7 +231,7 @@
       "ID": "ACHIEVEMENT_015",
       "SetID": "dge1ook",
       "Name": "Barely Alive",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -234,7 +239,7 @@
       "ID": "ACHIEVEMENT_016",
       "SetID": "dge1ook",
       "Name": "Back from the Dead",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -242,7 +247,7 @@
       "ID": "ACHIEVEMENT_017",
       "SetID": "dge1ook",
       "Name": "Eternity Crusher",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -250,7 +255,7 @@
       "ID": "ACHIEVEMENT_018",
       "SetID": "dge1ook",
       "Name": "Unsinkable",
-      "Percentage": 32,
+      "Percentage": 29,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -258,7 +263,7 @@
       "ID": "ACHIEVEMENT_019",
       "SetID": "dge1ook",
       "Name": "Adventurer at the Precipice",
-      "Percentage": 32,
+      "Percentage": 29,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -266,7 +271,7 @@
       "ID": "ACHIEVEMENT_020",
       "SetID": "dge1ook",
       "Name": "Victorious over Hardships",
-      "Percentage": 32,
+      "Percentage": 29,
       "XP": 50,
       "UsersEstimate": 7
     },
@@ -274,7 +279,7 @@
       "ID": "ACHIEVEMENT_021",
       "SetID": "dge1ook",
       "Name": "Downloaded",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -282,7 +287,7 @@
       "ID": "ACHIEVEMENT_022",
       "SetID": "dge1ook",
       "Name": "The Strength to Fight",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -290,7 +295,7 @@
       "ID": "ACHIEVEMENT_023",
       "SetID": "dge1ook",
       "Name": "Performance Examination",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -298,7 +303,7 @@
       "ID": "ACHIEVEMENT_024",
       "SetID": "dge1ook",
       "Name": "Loyal Vassal",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -306,7 +311,7 @@
       "ID": "ACHIEVEMENT_025",
       "SetID": "dge1ook",
       "Name": "My Best Battle",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -314,7 +319,7 @@
       "ID": "ACHIEVEMENT_026",
       "SetID": "dge1ook",
       "Name": "One Step at a Time",
-      "Percentage": 41,
+      "Percentage": 38,
       "XP": 5,
       "UsersEstimate": 9
     },
@@ -322,7 +327,7 @@
       "ID": "ACHIEVEMENT_027",
       "SetID": "dge1ook",
       "Name": "Training Advancement",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -330,7 +335,7 @@
       "ID": "ACHIEVEMENT_028",
       "SetID": "dge1ook",
       "Name": "A Raging Madness",
-      "Percentage": 50,
+      "Percentage": 46,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -338,7 +343,7 @@
       "ID": "ACHIEVEMENT_029",
       "SetID": "dge1ook",
       "Name": "Training Shall Proceed!",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -346,7 +351,7 @@
       "ID": "ACHIEVEMENT_030",
       "SetID": "dge1ook",
       "Name": "To Greater Heights",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -354,7 +359,7 @@
       "ID": "ACHIEVEMENT_031",
       "SetID": "dge1ook",
       "Name": "Inquisition",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -362,7 +367,7 @@
       "ID": "ACHIEVEMENT_032",
       "SetID": "dge1ook",
       "Name": "Fire!",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -370,7 +375,7 @@
       "ID": "ACHIEVEMENT_033",
       "SetID": "dge1ook",
       "Name": "Here We Go, Astra!",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -378,7 +383,7 @@
       "ID": "ACHIEVEMENT_034",
       "SetID": "dge1ook",
       "Name": "No Regrets",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -386,7 +391,7 @@
       "ID": "ACHIEVEMENT_035",
       "SetID": "dge1ook",
       "Name": "Behold My Ninja Arts!",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -394,7 +399,7 @@
       "ID": "ACHIEVEMENT_036",
       "SetID": "dge1ook",
       "Name": "Looking for Friends",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -402,7 +407,7 @@
       "ID": "ACHIEVEMENT_037",
       "SetID": "dge1ook",
       "Name": "Unrelenting Spear",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -410,7 +415,7 @@
       "ID": "ACHIEVEMENT_038",
       "SetID": "dge1ook",
       "Name": "Storm Watch",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -418,7 +423,7 @@
       "ID": "ACHIEVEMENT_039",
       "SetID": "dge1ook",
       "Name": "Two Swords One Soul",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -426,7 +431,7 @@
       "ID": "ACHIEVEMENT_040",
       "SetID": "dge1ook",
       "Name": "Mercenary Business",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -434,7 +439,7 @@
       "ID": "ACHIEVEMENT_041",
       "SetID": "dge1ook",
       "Name": "Path of Benevolence",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -442,7 +447,7 @@
       "ID": "ACHIEVEMENT_042",
       "SetID": "dge1ook",
       "Name": "Duty Calls",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -450,7 +455,7 @@
       "ID": "ACHIEVEMENT_043",
       "SetID": "dge1ook",
       "Name": "At the End of Wandering",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 5
     }
@@ -459,14 +464,14 @@
     {
       "ID": "dge1ook",
       "IsBase": true,
-      "Progressed": 22,
+      "Progressed": 24,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-18T12:03:11.9776038+00:00",
   "FirstSeenAchievements": "2023-12-05T09:03:44.9260609+00:00",
-  "LastChanged_Achievements": "2023-12-19T02:29:22.8836716+00:00",
+  "LastChanged_Achievements": "2023-12-19T03:06:57.6090737+00:00",
   "LastUpdate_AppInfo": "2023-12-12T09:57:05.6253168+00:00",
-  "LastUpdate_Ratings": "2023-12-19T02:25:39.586417+00:00",
-  "LastUpdate_Achievements": "2023-12-19T02:29:22.8837012+00:00"
+  "LastUpdate_Ratings": "2023-12-19T03:02:56.7999183+00:00",
+  "LastUpdate_Achievements": "2023-12-19T03:06:57.6090971+00:00"
 }

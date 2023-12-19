@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-08-03T05:00:00+00:00",
     "PcReleaseDate": null,
@@ -221,9 +221,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 89983,
+  "EOS_Progressed": 89984,
   "EOS_Completed": 306,
-  "EOS_NewPlayers": 695,
+  "EOS_NewPlayers": 693,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -14786,6 +14786,11 @@
       "Time": "2023-12-19T02:27:48.4379887+00:00",
       "NumProgressed": 89983,
       "NumCompleted": 306
+    },
+    {
+      "Time": "2023-12-19T03:05:16.000454+00:00",
+      "NumProgressed": 89984,
+      "NumCompleted": 306
     }
   ],
   "AchievementsAdded": "2023-08-03T06:01:19.3820028+00:00",
@@ -14798,7 +14803,7 @@
       "Name": "Welcome to Dodo Peak",
       "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 71986
+      "UsersEstimate": 71987
     },
     {
       "ID": "grp_beet",
@@ -14806,7 +14811,7 @@
       "Name": "The early bird gets the beet",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 18896
+      "UsersEstimate": 18897
     },
     {
       "ID": "grp_collect_ruby",
@@ -14814,7 +14819,7 @@
       "Name": "Two month\u0027s rent",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 69287
+      "UsersEstimate": 69288
     },
     {
       "ID": "grp_endless",
@@ -14894,7 +14899,7 @@
       "Name": "Money doesn\u0027t grow on trees",
       "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 66587
+      "UsersEstimate": 66588
     },
     {
       "ID": "grp_speed",
@@ -14926,14 +14931,14 @@
       "Name": "Bird of the Week",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 8098
+      "UsersEstimate": 8099
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gd32f",
       "IsBase": true,
-      "Progressed": 89983,
+      "Progressed": 89984,
       "Completed": 306
     }
   ],
@@ -14941,8 +14946,8 @@
   "FirstSeenRating": "2023-08-27T07:59:18.2658043+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
   "LastChanged": "2023-12-16T14:00:50.6822682+00:00",
-  "LastChanged_Achievements": "2023-12-19T02:27:48.4379883+00:00",
+  "LastChanged_Achievements": "2023-12-19T03:05:16.0004537+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:08.8356638+00:00",
-  "LastUpdate_Ratings": "2023-12-19T02:20:53.5227293+00:00",
-  "LastUpdate_Achievements": "2023-12-19T02:27:48.4380688+00:00"
+  "LastUpdate_Ratings": "2023-12-19T02:58:31.4414215+00:00",
+  "LastUpdate_Achievements": "2023-12-19T03:05:16.0005274+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "ace01fe38cfb4479b1009cf49478ff18",
   "Name": "Warhammer 40,000: Boltgun",
   "ProductSlug": "boltgun-b1cb36",
-  "Ranking_EOS_Progress": 358,
+  "Ranking_EOS_Progress": 357,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 158,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 333,
+  "EOS_Progressed": 334,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -1244,6 +1244,11 @@
       "Time": "2023-12-19T01:53:28.9870904+00:00",
       "NumProgressed": 333,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T03:07:31.2599302+00:00",
+      "NumProgressed": 334,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -1270,17 +1275,17 @@
       "ID": "ach_chapter_complete_3",
       "SetID": "d499apg",
       "Name": "Chapter III - Complete",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 45,
-      "UsersEstimate": 27
+      "UsersEstimate": 23
     },
     {
       "ID": "ach_complete_difficulty_easy",
       "SetID": "d499apg",
       "Name": "The Emperor Protects",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 45,
-      "UsersEstimate": 27
+      "UsersEstimate": 23
     },
     {
       "ID": "ach_complete_difficulty_extreme",
@@ -1351,14 +1356,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 333,
+      "Progressed": 334,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-12-19T02:29:53.947869+00:00",
+  "LastChanged_Achievements": "2023-12-19T03:07:31.2599297+00:00",
   "LastUpdate_AppInfo": "2023-12-15T14:56:55.6680838+00:00",
-  "LastUpdate_Ratings": "2023-12-19T02:23:52.28561+00:00",
-  "LastUpdate_Achievements": "2023-12-19T02:29:53.9478815+00:00"
+  "LastUpdate_Ratings": "2023-12-19T03:01:47.8853264+00:00",
+  "LastUpdate_Achievements": "2023-12-19T03:07:31.2599456+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -8748,9 +8748,9 @@
       "ID": "CHAPTER_4_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Open the Gate!",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 60
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -9083,8 +9083,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-18T16:03:28.109707+00:00",
-  "LastChanged_Achievements": "2023-12-19T02:33:10.4707358+00:00",
+  "LastChanged_Achievements": "2023-12-19T03:10:29.5623733+00:00",
   "LastUpdate_AppInfo": "2023-12-15T11:57:06.5610357+00:00",
-  "LastUpdate_Ratings": "2023-12-19T02:26:02.9182258+00:00",
-  "LastUpdate_Achievements": "2023-12-19T02:33:10.4707875+00:00"
+  "LastUpdate_Ratings": "2023-12-19T03:03:21.3702674+00:00",
+  "LastUpdate_Achievements": "2023-12-19T03:10:29.5624258+00:00"
 }

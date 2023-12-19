@@ -7,9 +7,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Old Grandmaster | 3.00% | ~22,048 |
-| The Assault | 2.00% | ~14,698 |
-| Life is your teacher | 2.00% | ~14,698 |
-| Lightning Hands | 2.00% | ~14,698 |
+| The Assault | 2.00% | ~14,699 |
+| Life is your teacher | 2.00% | ~14,699 |
+| Lightning Hands | 2.00% | ~14,699 |
 | The Hateful Pole Fighter | 1.00% | ~7,349 |
 | A Lady's Blood in the Snow | 1.00% | ~7,349 |
 | Stuntmaster | 1.00% | ~7,349 |
@@ -21,14 +21,14 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 1.00% | ~7,349 |
 | Rumble in the Hangar | 1.00% | ~7,349 |
 | Diligence as a goal | 1.00% | ~442 |
-| Lady Wing Chun | 0.90% | ~6,614 |
-| Kill Nil | 0.90% | ~6,614 |
+| Lady Wing Chun | 0.90% | ~6,615 |
+| Kill Nil | 0.90% | ~6,615 |
 | Project Arena | 0.90% | ~398 |
-| Furious Fists | 0.80% | ~5,879 |
-| I know Kung-Fu | 0.80% | ~5,879 |
-| Take damage to save time | 0.80% | ~5,879 |
-| Qi Gong: Mind | 0.70% | ~5,144 |
-| Kung-Fu Tussle | 0.70% | ~5,144 |
+| Furious Fists | 0.80% | ~5,880 |
+| I know Kung-Fu | 0.80% | ~5,880 |
+| Take damage to save time | 0.80% | ~5,880 |
+| Qi Gong: Mind | 0.70% | ~5,145 |
+| Kung-Fu Tussle | 0.70% | ~5,145 |
 | Fight the way you practice | 0.70% | ~310 |
 | Scareless | 0.60% | ~4,410 |
 | Dance of the Praying Mantis | 0.60% | ~4,410 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~44 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 734,921 (Ranked 24)  
+Progressed: 734,948 (Ranked 24)  
 Completed: 12,956 (1.76%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 12,956 (1.76%) (Ranked 139)
 | 2023-12-16 | 730,184 | 12,954 |
 | 2023-12-17 | 733,014 | 12,955 |
 | 2023-12-18 | 734,825 | 12,956 |
-| 2023-12-19 | 734,921 | 12,956 |
+| 2023-12-19 | 734,948 | 12,956 |
 ## Awards
 Max (Great Boss Battles): 6,957  (Ranked 55)  
 Sum: 12,197 (Ranked 84)  

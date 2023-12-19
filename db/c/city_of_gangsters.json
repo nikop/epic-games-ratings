@@ -922,9 +922,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 357308,
+  "EOS_Progressed": 357310,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1034,
+  "EOS_NewPlayers": 1032,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28552,6 +28552,11 @@
       "Time": "2023-12-19T02:28:17.9720564+00:00",
       "NumProgressed": 357308,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-19T03:05:48.5840656+00:00",
+      "NumProgressed": 357310,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -28603,7 +28608,7 @@
       "Name": "Street Knowledge",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17865
+      "UsersEstimate": 17866
     },
     {
       "ID": "ach007",
@@ -28643,7 +28648,7 @@
       "Name": "Oh Captain",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17865
+      "UsersEstimate": 17866
     },
     {
       "ID": "ach012",
@@ -28675,7 +28680,7 @@
       "Name": "Branching Out",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17865
+      "UsersEstimate": 17866
     },
     {
       "ID": "ach016",
@@ -28771,7 +28776,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 164362
+      "UsersEstimate": 164363
     },
     {
       "ID": "ach028",
@@ -28875,7 +28880,7 @@
       "Name": "Improvement Missions",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17865
+      "UsersEstimate": 17866
     },
     {
       "ID": "ach041",
@@ -28891,7 +28896,7 @@
       "Name": "Opportunity Knocked",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17865
+      "UsersEstimate": 17866
     },
     {
       "ID": "ach043",
@@ -28955,7 +28960,7 @@
       "Name": "City of Big Shoulders",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17865
+      "UsersEstimate": 17866
     },
     {
       "ID": "ach051",
@@ -28971,7 +28976,7 @@
       "Name": "Liquor Lord",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21438
+      "UsersEstimate": 21439
     },
     {
       "ID": "ach053",
@@ -29035,7 +29040,7 @@
       "Name": "Safety in Numbers",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21438
+      "UsersEstimate": 21439
     },
     {
       "ID": "ach061",
@@ -29059,7 +29064,7 @@
       "Name": "Moving Experiences",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21438
+      "UsersEstimate": 21439
     },
     {
       "ID": "ach065",
@@ -29091,7 +29096,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 57169
+      "UsersEstimate": 57170
     },
     {
       "ID": "ach069",
@@ -29115,7 +29120,7 @@
       "Name": "Mission Mastery",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 17865
+      "UsersEstimate": 17866
     },
     {
       "ID": "ach072",
@@ -29123,7 +29128,7 @@
       "Name": "Wise Head",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21438
+      "UsersEstimate": 21439
     },
     {
       "ID": "ach073",
@@ -29131,7 +29136,7 @@
       "Name": "Show \u2018em the Sugar",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21438
+      "UsersEstimate": 21439
     },
     {
       "ID": "ach074",
@@ -29147,7 +29152,7 @@
       "Name": "Killing Them Softly",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21438
+      "UsersEstimate": 21439
     },
     {
       "ID": "ach076",
@@ -29202,7 +29207,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 357308,
+      "Progressed": 357310,
       "Completed": 7
     }
   ],
@@ -29210,8 +29215,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-12-17T21:59:11.727159+00:00",
-  "LastChanged_Achievements": "2023-12-19T02:28:17.972056+00:00",
+  "LastChanged_Achievements": "2023-12-19T03:05:48.5840652+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:53.9882256+00:00",
-  "LastUpdate_Ratings": "2023-12-19T02:23:16.5621206+00:00",
-  "LastUpdate_Achievements": "2023-12-19T02:28:17.9722756+00:00"
+  "LastUpdate_Ratings": "2023-12-19T03:01:09.237822+00:00",
+  "LastUpdate_Achievements": "2023-12-19T03:05:48.5842243+00:00"
 }

@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 829,
+  "EOS_Progressed": 830,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 565,
+  "EOS_NewPlayers": 566,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1710,6 +1710,11 @@
       "Time": "2023-12-19T02:33:08.5049687+00:00",
       "NumProgressed": 829,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-19T03:10:27.2991659+00:00",
+      "NumProgressed": 830,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1785,7 +1790,7 @@
       "Name": "The Mentor",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_10",
@@ -1833,7 +1838,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_16",
@@ -1921,7 +1926,7 @@
       "Name": "Scholar",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_27",
@@ -1953,7 +1958,7 @@
       "Name": "Alchemist",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_31",
@@ -2008,14 +2013,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 829,
+      "Progressed": 830,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-19T02:33:08.5049684+00:00",
+  "LastChanged_Achievements": "2023-12-19T03:10:27.2991655+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
-  "LastUpdate_Ratings": "2023-12-19T02:23:30.1236166+00:00",
-  "LastUpdate_Achievements": "2023-12-19T02:33:08.5049936+00:00"
+  "LastUpdate_Ratings": "2023-12-19T03:01:23.3095389+00:00",
+  "LastUpdate_Achievements": "2023-12-19T03:10:27.2991941+00:00"
 }

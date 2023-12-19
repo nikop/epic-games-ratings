@@ -6,25 +6,25 @@ Rating: 4.76 (Ranked 130)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Motivational Speaker | 69.00% | ~252,548 |
-| The Player Whisperer | 68.00% | ~248,887 |
+| The Player Whisperer | 68.00% | ~248,888 |
 | One of Us, One of Us! | 62.00% | ~226,927 |
-| First Victory | 55.00% | ~201,306 |
+| First Victory | 55.00% | ~201,307 |
 | Clean Sheet | 54.00% | ~197,646 |
 | #DoneDeal | 54.00% | ~197,646 |
 | Off the Books | 52.00% | ~190,326 |
 | Super-Sub | 52.00% | ~190,326 |
-| Hat-trick | 46.00% | ~168,365 |
+| Hat-trick | 46.00% | ~168,366 |
 | Planned Signing | 44.00% | ~161,045 |
 | "I Would Love It If We Beat Them" | 43.00% | ~157,385 |
-| Scoring Streak | 40.00% | ~146,404 |
-| Wheeler Dealer | 40.00% | ~146,404 |
-| Thumping | 39.00% | ~142,744 |
-| People Pleaser | 39.00% | ~142,744 |
-| Unbeatable! | 38.00% | ~139,084 |
+| Scoring Streak | 40.00% | ~146,405 |
+| Wheeler Dealer | 40.00% | ~146,405 |
+| Thumping | 39.00% | ~142,745 |
+| People Pleaser | 39.00% | ~142,745 |
+| Unbeatable! | 38.00% | ~139,085 |
 | One Of Our Own | 36.00% | ~131,764 |
 | Record Signing | 32.00% | ~117,124 |
-| They're a Natural | 31.00% | ~113,463 |
-| Team Performance | 30.00% | ~109,803 |
+| They're a Natural | 31.00% | ~113,464 |
+| Team Performance | 30.00% | ~109,804 |
 | Star Player | 29.00% | ~106,143 |
 | The Only Stat That Matters | 29.00% | ~106,143 |
 | Parked The Bus | 27.00% | ~98,823 |
@@ -42,8 +42,8 @@ Rating: 4.76 (Ranked 130)
 | Drilling Down | 23.00% | ~84,183 |
 | Flavour Of The Month | 23.00% | ~84,183 |
 | The Special One | 23.00% | ~84,183 |
-| What A Goal! | 22.00% | ~80,522 |
-| Goal Machine | 21.00% | ~76,862 |
+| What A Goal! | 22.00% | ~80,523 |
+| Goal Machine | 21.00% | ~76,863 |
 | Splashing the Cash | 20.00% | ~73,202 |
 | Immovable Object | 20.00% | ~73,202 |
 | Cup Glory! | 20.00% | ~73,202 |
@@ -52,7 +52,7 @@ Rating: 4.76 (Ranked 130)
 | Cash to Burn | 16.00% | ~58,562 |
 | Top Form | 14.00% | ~51,242 |
 | Window Shopping | 14.00% | ~51,242 |
-| A Game of Two Halves | 13.00% | ~47,581 |
+| A Game of Two Halves | 13.00% | ~47,582 |
 | You're Up! | 12.00% | ~43,921 |
 | Money, Money, Money | 10.00% | ~36,601 |
 | Clean Sheet Network | 8.00% | ~29,281 |
@@ -106,7 +106,7 @@ Rating: 4.76 (Ranked 130)
 | 200 Club | 0.10% | ~366 |
 | Draft Value | 0.10% | ~366 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 366,011 (Ranked 48)  
+Progressed: 366,012 (Ranked 48)  
 Completed: 28 (0.01%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -349,7 +349,7 @@ Completed: 28 (0.01%) (Ranked 359)
 | 2023-12-16 | 365,516 | 28 |
 | 2023-12-17 | 365,779 | 28 |
 | 2023-12-18 | 365,999 | 28 |
-| 2023-12-19 | 366,011 | 28 |
+| 2023-12-19 | 366,012 | 28 |
 ## Awards
 Max (Diverse Characters): 1,287  (Ranked 139)  
 Sum: 8,893 (Ranked 98)  

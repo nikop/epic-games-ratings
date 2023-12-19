@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1440,
+  "EOS_Progressed": 1441,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3412,6 +3412,11 @@
       "Time": "2023-12-19T02:29:51.8664984+00:00",
       "NumProgressed": 1440,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T03:07:29.0842996+00:00",
+      "NumProgressed": 1441,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -3462,9 +3467,9 @@
       "ID": "ML_ACHIEVEMENT_06",
       "SetID": "5k00jcd",
       "Name": "Now try online",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "ML_ACHIEVEMENT_07",
@@ -3502,9 +3507,9 @@
       "ID": "ML_ACHIEVEMENT_11",
       "SetID": "5k00jcd",
       "Name": "It\u0027s me you have to beat",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 29
     },
     {
       "ID": "ML_ACHIEVEMENT_12",
@@ -3566,9 +3571,9 @@
       "ID": "ML_ACHIEVEMENT_19",
       "SetID": "5k00jcd",
       "Name": "Well begun\u2026",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 72
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -3791,20 +3796,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1440,
+      "Progressed": 1441,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1108,
+      "Progressed": 1109,
       "Completed": 997
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-19T02:29:51.8664981+00:00",
+  "LastChanged_Achievements": "2023-12-19T03:07:29.0842993+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:11.7320397+00:00",
-  "LastUpdate_Ratings": "2023-12-19T02:22:44.5461417+00:00",
-  "LastUpdate_Achievements": "2023-12-19T02:29:51.8665375+00:00"
+  "LastUpdate_Ratings": "2023-12-19T03:00:34.1976867+00:00",
+  "LastUpdate_Achievements": "2023-12-19T03:07:29.0843491+00:00"
 }

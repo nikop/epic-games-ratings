@@ -1328,9 +1328,9 @@
       "ID": "KR4_ACHIEVEMENT_TROLL",
       "SetID": "caeik3h",
       "Name": "Oh My God!",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "KR4_ACHIEVEMENT_VERUK_MAX",
@@ -1373,8 +1373,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-19T02:27:27.6966421+00:00",
+  "LastChanged_Achievements": "2023-12-19T03:04:54.1519882+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:06.9365218+00:00",
-  "LastUpdate_Ratings": "2023-12-19T02:23:43.5620118+00:00",
-  "LastUpdate_Achievements": "2023-12-19T02:27:27.6967005+00:00"
+  "LastUpdate_Ratings": "2023-12-19T03:01:37.986622+00:00",
+  "LastUpdate_Achievements": "2023-12-19T03:04:54.15206+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
@@ -9289,18 +9289,24 @@
       "Rating": 4.71,
       "NumberOfAwards": 28529,
       "NumberOfAwardsMax": 7678
+    },
+    {
+      "Time": "2023-12-19T02:59:09.7349881+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 28532,
+      "NumberOfAwardsMax": 7681
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28529,
-  "NumberOfAwardsMax": 7678,
+  "NumberOfAwards": 28532,
+  "NumberOfAwardsMax": 7681,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7678
+      "Count": 7681
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -9375,9 +9381,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 813230,
+  "EOS_Progressed": 813232,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 1089,
+  "EOS_NewPlayers": 1090,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -36750,6 +36756,11 @@
       "Time": "2023-12-19T02:32:48.1639258+00:00",
       "NumProgressed": 813230,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-19T03:10:05.7041157+00:00",
+      "NumProgressed": 813232,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 82,
@@ -36793,7 +36804,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 170778
+      "UsersEstimate": 170779
     },
     {
       "ID": "BadGirl",
@@ -36849,7 +36860,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 121984
+      "UsersEstimate": 121985
     },
     {
       "ID": "Buddy",
@@ -37297,7 +37308,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 89455
+      "UsersEstimate": 89456
     },
     {
       "ID": "Sniper",
@@ -37369,7 +37380,7 @@
       "Name": "Traveller",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 89455
+      "UsersEstimate": 89456
     },
     {
       "ID": "TrialAndError",
@@ -37416,15 +37427,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 813230,
+      "Progressed": 813232,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-12-18T20:58:49.6883785+00:00",
-  "LastChanged_Achievements": "2023-12-19T02:32:48.1639255+00:00",
+  "LastChanged": "2023-12-19T02:59:09.7349879+00:00",
+  "LastChanged_Achievements": "2023-12-19T03:10:05.7041152+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:26.6961501+00:00",
-  "LastUpdate_Ratings": "2023-12-19T02:21:27.2267102+00:00",
-  "LastUpdate_Achievements": "2023-12-19T02:32:48.1640909+00:00"
+  "LastUpdate_Ratings": "2023-12-19T02:59:09.7349885+00:00",
+  "LastUpdate_Achievements": "2023-12-19T03:10:05.7042812+00:00"
 }

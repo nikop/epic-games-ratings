@@ -251,7 +251,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44379,
+  "EOS_Progressed": 44380,
   "EOS_Completed": 247,
   "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 2,
@@ -19221,6 +19221,11 @@
       "Time": "2023-12-19T00:04:31.1939325+00:00",
       "NumProgressed": 44379,
       "NumCompleted": 247
+    },
+    {
+      "Time": "2023-12-19T03:05:45.7509991+00:00",
+      "NumProgressed": 44380,
+      "NumCompleted": 247
     }
   ],
   "TotalAchievements": 44,
@@ -19232,7 +19237,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25296
+      "UsersEstimate": 25297
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -19240,7 +19245,7 @@
       "Name": "Lady",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13757
+      "UsersEstimate": 13758
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -19248,7 +19253,7 @@
       "Name": "Embers",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 9763
+      "UsersEstimate": 9764
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -19256,7 +19261,7 @@
       "Name": "Burning",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7544
+      "UsersEstimate": 7545
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -19272,7 +19277,7 @@
       "Name": "Ruse",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5325
+      "UsersEstimate": 5326
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -19352,7 +19357,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 35503
+      "UsersEstimate": 35504
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -19424,7 +19429,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 16420
+      "UsersEstimate": 16421
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -19456,7 +19461,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 24408
+      "UsersEstimate": 24409
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -19464,7 +19469,7 @@
       "Name": "Engraved with Power",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 14201
+      "UsersEstimate": 14202
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -19480,7 +19485,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11982
+      "UsersEstimate": 11983
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -19496,7 +19501,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 26627
+      "UsersEstimate": 26628
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -19504,7 +19509,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 29734
+      "UsersEstimate": 29735
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -19568,7 +19573,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 41272
+      "UsersEstimate": 41273
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -19576,14 +19581,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 23077
+      "UsersEstimate": 23078
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 44379,
+      "Progressed": 44380,
       "Completed": 247
     }
   ],
@@ -19591,8 +19596,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-17T19:02:52.186594+00:00",
-  "LastChanged_Achievements": "2023-12-19T02:28:15.6080695+00:00",
+  "LastChanged_Achievements": "2023-12-19T03:05:45.7509987+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:54.9639492+00:00",
-  "LastUpdate_Ratings": "2023-12-19T02:25:58.0555641+00:00",
-  "LastUpdate_Achievements": "2023-12-19T02:28:15.6081665+00:00"
+  "LastUpdate_Ratings": "2023-12-19T03:03:15.9905227+00:00",
+  "LastUpdate_Achievements": "2023-12-19T03:05:45.7510861+00:00"
 }

@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4013,
+  "EOS_Progressed": 4014,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 277,
+  "EOS_NewPlayers": 278,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -6426,6 +6426,11 @@
       "Time": "2023-12-19T02:27:58.3252602+00:00",
       "NumProgressed": 4013,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-19T03:05:26.8608572+00:00",
+      "NumProgressed": 4014,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -6493,7 +6498,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "Eureka_23",
@@ -6629,7 +6634,7 @@
       "Name": "Ready for Winter",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 2528
+      "UsersEstimate": 2529
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -6645,7 +6650,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1004
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -6772,15 +6777,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4013,
+      "Progressed": 4014,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-19T02:27:58.3252598+00:00",
+  "LastChanged_Achievements": "2023-12-19T03:05:26.8608567+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:45.1407734+00:00",
-  "LastUpdate_Ratings": "2023-12-19T02:25:37.4766217+00:00",
-  "LastUpdate_Achievements": "2023-12-19T02:27:58.3253053+00:00"
+  "LastUpdate_Ratings": "2023-12-19T03:02:54.5660523+00:00",
+  "LastUpdate_Achievements": "2023-12-19T03:05:26.8609138+00:00"
 }

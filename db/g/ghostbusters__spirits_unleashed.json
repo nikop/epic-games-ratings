@@ -4,7 +4,7 @@
   "ProductSlug": "ghostbusters-spirits-unleashed",
   "Ranking_Rating": 600,
   "Ranking_Popularity": 251,
-  "Ranking_PopularitySum": 181,
+  "Ranking_PopularitySum": 180,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 172,
@@ -3789,9 +3789,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32427,
+  "EOS_Progressed": 32428,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 241,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -22769,6 +22769,11 @@
       "Time": "2023-12-19T02:28:03.183458+00:00",
       "NumProgressed": 32427,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-19T03:05:32.1986115+00:00",
+      "NumProgressed": 32428,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -23187,7 +23192,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32427,
+      "Progressed": 32428,
       "Completed": 69
     }
   ],
@@ -23195,8 +23200,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-18T23:58:18.6120703+00:00",
-  "LastChanged_Achievements": "2023-12-19T02:28:03.1834576+00:00",
+  "LastChanged_Achievements": "2023-12-19T03:05:32.1986109+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:05.1146147+00:00",
-  "LastUpdate_Ratings": "2023-12-19T02:21:23.0738877+00:00",
-  "LastUpdate_Achievements": "2023-12-19T02:28:03.1835547+00:00"
+  "LastUpdate_Ratings": "2023-12-19T02:59:05.0372109+00:00",
+  "LastUpdate_Achievements": "2023-12-19T03:05:32.1987467+00:00"
 }

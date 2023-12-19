@@ -8325,9 +8325,9 @@
       "Count": 433
     }
   ],
-  "EOS_Progressed": 734921,
+  "EOS_Progressed": 734948,
   "EOS_Completed": 12956,
-  "EOS_NewPlayers": 16948,
+  "EOS_NewPlayers": 16973,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.76,
   "EosHistory": [
@@ -29930,6 +29930,11 @@
       "Time": "2023-12-19T02:31:37.5202077+00:00",
       "NumProgressed": 734921,
       "NumCompleted": 12956
+    },
+    {
+      "Time": "2023-12-19T03:08:50.1751076+00:00",
+      "NumProgressed": 734948,
+      "NumCompleted": 12956
     }
   ],
   "TotalAchievements": 60,
@@ -29949,7 +29954,7 @@
       "Name": "The Assault",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14698
+      "UsersEstimate": 14699
     },
     {
       "ID": "03_Vengeance_H2",
@@ -29973,7 +29978,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6614
+      "UsersEstimate": 6615
     },
     {
       "ID": "06_Vengeance_H5",
@@ -29981,7 +29986,7 @@
       "Name": "Furious Fists",
       "Percentage": 0.8,
       "XP": 75,
-      "UsersEstimate": 5879
+      "UsersEstimate": 5880
     },
     {
       "ID": "07_Wude_H1",
@@ -30045,7 +30050,7 @@
       "Name": "Kill Nil",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6614
+      "UsersEstimate": 6615
     },
     {
       "ID": "15_Detective_H1",
@@ -30117,7 +30122,7 @@
       "Name": "Life is your teacher",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14698
+      "UsersEstimate": 14699
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -30133,7 +30138,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5144
+      "UsersEstimate": 5145
     },
     {
       "ID": "26_ShrineSpirit",
@@ -30173,7 +30178,7 @@
       "Name": "I know Kung-Fu",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 5879
+      "UsersEstimate": 5880
     },
     {
       "ID": "31_ComboHigh",
@@ -30205,7 +30210,7 @@
       "Name": "Lightning Hands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14698
+      "UsersEstimate": 14699
     },
     {
       "ID": "35_WideStrike",
@@ -30213,7 +30218,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5144
+      "UsersEstimate": 5145
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -30253,7 +30258,7 @@
       "Name": "Take damage to save time",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5879
+      "UsersEstimate": 5880
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -30420,21 +30425,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 44222,
+      "Progressed": 44249,
       "Completed": 10775
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 734921,
+      "Progressed": 734948,
       "Completed": 12956
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-18T19:02:51.3747131+00:00",
-  "LastChanged_Achievements": "2023-12-19T02:31:37.5202073+00:00",
+  "LastChanged_Achievements": "2023-12-19T03:08:50.1751075+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:50.1499922+00:00",
-  "LastUpdate_Ratings": "2023-12-19T02:25:46.0174893+00:00",
-  "LastUpdate_Achievements": "2023-12-19T02:31:37.520326+00:00"
+  "LastUpdate_Ratings": "2023-12-19T03:03:03.9179706+00:00",
+  "LastUpdate_Achievements": "2023-12-19T03:08:50.1752207+00:00"
 }

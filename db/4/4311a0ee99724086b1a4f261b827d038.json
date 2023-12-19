@@ -749,9 +749,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 238358,
+  "EOS_Progressed": 238361,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1143,
+  "EOS_NewPlayers": 1144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17944,6 +17944,11 @@
       "Time": "2023-12-19T02:33:04.9418909+00:00",
       "NumProgressed": 238358,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T03:10:23.5172351+00:00",
+      "NumProgressed": 238361,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -18012,7 +18017,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 50055
+      "UsersEstimate": 50056
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -18140,7 +18145,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 33370
+      "UsersEstimate": 33371
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -18227,7 +18232,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 238358,
+      "Progressed": 238361,
       "Completed": 0
     }
   ],
@@ -18235,8 +18240,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-12-17T22:57:40.9765895+00:00",
-  "LastChanged_Achievements": "2023-12-19T02:33:04.9418905+00:00",
+  "LastChanged_Achievements": "2023-12-19T03:10:23.5172349+00:00",
   "LastUpdate_AppInfo": "2023-12-15T04:56:59.9211133+00:00",
-  "LastUpdate_Ratings": "2023-12-19T02:20:44.4304484+00:00",
-  "LastUpdate_Achievements": "2023-12-19T02:33:04.9419934+00:00"
+  "LastUpdate_Ratings": "2023-12-19T02:58:21.2838842+00:00",
+  "LastUpdate_Achievements": "2023-12-19T03:10:23.517329+00:00"
 }

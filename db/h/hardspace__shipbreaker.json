@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -303,9 +303,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 994,
+  "EOS_Progressed": 995,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2133,6 +2133,11 @@
       "Time": "2023-12-18T23:09:28.9721586+00:00",
       "NumProgressed": 994,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T03:09:28.2553667+00:00",
+      "NumProgressed": 995,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -2144,7 +2149,7 @@
       "Name": "Act I Complete",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "ACH_ACT_2_COMPLETE",
@@ -2176,7 +2181,7 @@
       "Name": "A drop in the Ocean",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "ACH_A_SUCCESSFUL_PROCEDURE",
@@ -2192,7 +2197,7 @@
       "Name": "A Tucked Tale",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_BEST_THING_MONEY_CAN_BUY",
@@ -2200,7 +2205,7 @@
       "Name": "The best thing money can buy",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_BING_BANG_BOOM",
@@ -2280,7 +2285,7 @@
       "Name": "It\u2019s Heating up!",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -2288,7 +2293,7 @@
       "Name": "I ain\u2019t afraid of no Ghost",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ACH_I_CAN_FIX_IT",
@@ -2296,7 +2301,7 @@
       "Name": "I can fix it!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -2304,7 +2309,7 @@
       "Name": "Let\u2019s patch things up",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -2312,15 +2317,15 @@
       "Name": "No Ni\u00F1os",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ACH_POST_NO_BILLS",
       "SetID": "108h92c",
       "Name": "Post No Bills",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 547
+      "UsersEstimate": 537
     },
     {
       "ID": "ACH_SEE_YOU_SPACE_COWBOY",
@@ -2344,7 +2349,7 @@
       "Name": "The Weight of the World",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "ACH_TRUELY_SHOCKING",
@@ -2352,14 +2357,14 @@
       "Name": "Truly Shocking!",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     }
   ],
   "AchievementSets": [
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 994,
+      "Progressed": 995,
       "Completed": 0
     }
   ],
@@ -2367,8 +2372,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-11-20T03:58:42.1118377+00:00",
-  "LastChanged_Achievements": "2023-12-19T02:32:13.0999425+00:00",
+  "LastChanged_Achievements": "2023-12-19T03:09:28.2553664+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:08.6185668+00:00",
-  "LastUpdate_Ratings": "2023-12-19T02:22:04.2261773+00:00",
-  "LastUpdate_Achievements": "2023-12-19T02:32:13.0999675+00:00"
+  "LastUpdate_Ratings": "2023-12-19T02:59:51.2877318+00:00",
+  "LastUpdate_Achievements": "2023-12-19T03:09:28.2553856+00:00"
 }

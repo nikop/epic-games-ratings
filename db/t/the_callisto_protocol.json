@@ -1691,9 +1691,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 17972,
+  "EOS_Progressed": 17974,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1447,
+  "EOS_NewPlayers": 1449,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -10226,6 +10226,11 @@
       "Time": "2023-12-19T02:32:13.9316107+00:00",
       "NumProgressed": 17972,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-19T03:09:29.2930955+00:00",
+      "NumProgressed": 17974,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -10269,7 +10274,7 @@
       "Name": "Flesh Wound",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 2336
+      "UsersEstimate": 2337
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -10341,7 +10346,7 @@
       "Name": "Get a Grip",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2336
+      "UsersEstimate": 2337
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -10405,7 +10410,7 @@
       "Name": "Reforged",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1617
+      "UsersEstimate": 1618
     },
     {
       "ID": "PRINT_WEAPON",
@@ -10429,7 +10434,7 @@
       "Name": "The Outer Way",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2336
+      "UsersEstimate": 2337
     },
     {
       "ID": "STORY_ESCAPE",
@@ -10612,13 +10617,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 17972,
+      "Progressed": 17974,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 5898,
+      "Progressed": 5900,
       "Completed": 29
     }
   ],
@@ -10626,8 +10631,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-19T00:02:52.9228091+00:00",
-  "LastChanged_Achievements": "2023-12-19T02:32:13.9316104+00:00",
+  "LastChanged_Achievements": "2023-12-19T03:09:29.2930951+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.4893565+00:00",
-  "LastUpdate_Ratings": "2023-12-19T02:26:02.5874444+00:00",
-  "LastUpdate_Achievements": "2023-12-19T02:32:13.9316728+00:00"
+  "LastUpdate_Ratings": "2023-12-19T03:03:20.9948274+00:00",
+  "LastUpdate_Achievements": "2023-12-19T03:09:29.2931578+00:00"
 }

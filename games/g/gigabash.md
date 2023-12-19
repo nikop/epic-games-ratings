@@ -5,27 +5,27 @@ Rating: 4.55 (Ranked 512)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 11.00% | ~10,295 |
-| I've Had Enough! | 9.00% | ~8,424 |
-| Fists, Fury & a lot of Rage | 6.00% | ~5,616 |
-| All For One and One For All | 5.00% | ~4,680 |
-| Seasoned Fighter | 5.00% | ~4,680 |
-| Home Sweet Home? | 4.00% | ~3,744 |
-| A New Age | 3.00% | ~2,808 |
-| Oh Baby, A Triple | 2.00% | ~1,872 |
-| Symbiotic | 2.00% | ~1,872 |
+| All Grown Up! | 11.00% | ~10,300 |
+| I've Had Enough! | 9.00% | ~8,427 |
+| Fists, Fury & a lot of Rage | 6.00% | ~5,618 |
+| All For One and One For All | 5.00% | ~4,682 |
+| Seasoned Fighter | 5.00% | ~4,682 |
+| Home Sweet Home? | 4.00% | ~3,745 |
+| A New Age | 3.00% | ~2,809 |
+| Oh Baby, A Triple | 2.00% | ~1,873 |
+| Symbiotic | 2.00% | ~1,873 |
 | Battle Hardened | 1.00% | ~936 |
 | Master of Disguise | 1.00% | ~936 |
 | It's Mayhem! | 1.00% | ~936 |
 | Right back at'cha | 1.00% | ~936 |
-| Double Punch! | 0.90% | ~842 |
-| Spectacular Finisher | 0.90% | ~842 |
+| Double Punch! | 0.90% | ~843 |
+| Spectacular Finisher | 0.90% | ~843 |
 | Martyrdom | 0.80% | ~749 |
 | Cautious Veteran | 0.70% | ~655 |
 | Katamari | 0.60% | ~562 |
 | Zero-sum Game | 0.60% | ~562 |
 | Ninja Reflex | 0.50% | ~468 |
-| Taste Your Own Medicine | 0.40% | ~374 |
+| Taste Your Own Medicine | 0.40% | ~375 |
 | This is GigaBash! | 0.30% | ~281 |
 | Sidetracked... | 0.30% | ~281 |
 | Eye of the Titan | 0.20% | ~187 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 512)
 | Signature Look | 0.00% | ~0 |
 | What's Mine is Yours | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93,595 (Ranked 94)  
+Progressed: 93,632 (Ranked 94)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -55,7 +55,7 @@ Completed: 0 (0.00%) (Ranked 383)
 | 2023-12-16 | 88,472 | 0 |
 | 2023-12-17 | 91,589 | 0 |
 | 2023-12-18 | 93,389 | 0 |
-| 2023-12-19 | 93,595 | 0 |
+| 2023-12-19 | 93,632 | 0 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 505)  
 Sum: 30 (Ranked 522)  

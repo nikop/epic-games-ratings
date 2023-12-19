@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fried Friendship | 85.00% | ~44,392 |
-| Struck A Pose | 82.00% | ~42,825 |
-| Look At Him Go | 66.00% | ~34,469 |
-| On Rails Experience | 43.00% | ~22,457 |
-| A Daring Devil | 42.00% | ~21,935 |
-| Break the Bank | 33.00% | ~17,235 |
-| It Took Two | 29.00% | ~15,146 |
-| Bug Sized Relaxation | 14.00% | ~7,312 |
-| Plastic Prison Breakers | 14.00% | ~7,312 |
-| Terror Of The Seven Seas | 10.00% | ~5,223 |
-| Realize Your Art | 8.00% | ~4,178 |
-| Force Triangulated | 8.00% | ~4,178 |
-| Meditation Maestro | 8.00% | ~4,178 |
-| Lost And Found | 7.00% | ~3,656 |
-| Something Fishy | 7.00% | ~3,656 |
-| Snackosaurus | 6.00% | ~3,134 |
-| Platforming Prodigy | 6.00% | ~3,134 |
-| Mood Swing | 5.00% | ~2,611 |
-| Faraway Frequencies | 3.00% | ~1,567 |
+| Fried Friendship | 85.00% | ~44,418 |
+| Struck A Pose | 82.00% | ~42,850 |
+| Look At Him Go | 66.00% | ~34,489 |
+| On Rails Experience | 43.00% | ~22,470 |
+| A Daring Devil | 42.00% | ~21,948 |
+| Break the Bank | 33.00% | ~17,244 |
+| It Took Two | 29.00% | ~15,154 |
+| Bug Sized Relaxation | 14.00% | ~7,316 |
+| Plastic Prison Breakers | 14.00% | ~7,316 |
+| Terror Of The Seven Seas | 10.00% | ~5,226 |
+| Realize Your Art | 8.00% | ~4,180 |
+| Force Triangulated | 8.00% | ~4,180 |
+| Meditation Maestro | 8.00% | ~4,180 |
+| Lost And Found | 7.00% | ~3,658 |
+| Something Fishy | 7.00% | ~3,658 |
+| Snackosaurus | 6.00% | ~3,135 |
+| Platforming Prodigy | 6.00% | ~3,135 |
+| Mood Swing | 5.00% | ~2,613 |
+| Faraway Frequencies | 3.00% | ~1,568 |
 | Minigame Megalomania | 2.00% | ~1,045 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,226 (Ranked 116)  
+Progressed: 52,256 (Ranked 116)  
 Completed: 133 (0.25%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,4 +120,4 @@ Completed: 133 (0.25%) (Ranked 259)
 | 2023-12-16 | 42,220 | 127 |
 | 2023-12-17 | 48,208 | 131 |
 | 2023-12-18 | 52,144 | 133 |
-| 2023-12-19 | 52,226 | 133 |
+| 2023-12-19 | 52,256 | 133 |

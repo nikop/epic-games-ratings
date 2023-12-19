@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
     "PcReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -3415,9 +3415,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 43975,
+  "EOS_Progressed": 43976,
   "EOS_Completed": 358,
-  "EOS_NewPlayers": 814,
+  "EOS_NewPlayers": 813,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
@@ -30415,6 +30415,11 @@
       "Time": "2023-12-19T02:27:50.9039011+00:00",
       "NumProgressed": 43975,
       "NumCompleted": 358
+    },
+    {
+      "Time": "2023-12-19T03:05:18.7055841+00:00",
+      "NumProgressed": 43976,
+      "NumCompleted": 358
     }
   ],
   "TotalAchievements": 60,
@@ -30426,7 +30431,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 25945
+      "UsersEstimate": 25946
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -30434,7 +30439,7 @@
       "Name": "No one has to die today!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20668
+      "UsersEstimate": 20669
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -30466,7 +30471,7 @@
       "Name": "At the foot of Mount Destiny",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 9674
+      "UsersEstimate": 9675
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_1",
@@ -30546,7 +30551,7 @@
       "Name": "Spawner Killer",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2638
+      "UsersEstimate": 2639
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_2",
@@ -30562,7 +30567,7 @@
       "Name": "Stock Market Crash",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 13632
+      "UsersEstimate": 13633
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_1",
@@ -30618,7 +30623,7 @@
       "Name": "Braiiiiins!",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 16710
+      "UsersEstimate": 16711
     },
     {
       "ID": "ACH_D3_Campaign_Graves_2",
@@ -30666,7 +30671,7 @@
       "Name": "Thirst quencher",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 11873
+      "UsersEstimate": 11874
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_2",
@@ -30682,7 +30687,7 @@
       "Name": "Ogre Solo!",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 11873
+      "UsersEstimate": 11874
     },
     {
       "ID": "ACH_D3_Campaign_Infested_1",
@@ -30786,7 +30791,7 @@
       "Name": "Factory farming",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 13632
+      "UsersEstimate": 13633
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_2",
@@ -30794,7 +30799,7 @@
       "Name": "A little something extra",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 2638
+      "UsersEstimate": 2639
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_Completed",
@@ -30810,7 +30815,7 @@
       "Name": "Death and destruction!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 20228
+      "UsersEstimate": 20229
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -30818,7 +30823,7 @@
       "Name": "Shadow hunter",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 13192
+      "UsersEstimate": 13193
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_Completed",
@@ -30826,7 +30831,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 30782
+      "UsersEstimate": 30783
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -30834,7 +30839,7 @@
       "Name": "The Benevolent Evil",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 2638
+      "UsersEstimate": 2639
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_2",
@@ -30874,7 +30879,7 @@
       "Name": "Not-So-Overproud",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 13192
+      "UsersEstimate": 13193
     },
     {
       "ID": "ACH_D3_Campaign_Water_1",
@@ -30905,15 +30910,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 43975,
+      "Progressed": 43976,
       "Completed": 358
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-12-16T12:01:48.6572157+00:00",
-  "LastChanged_Achievements": "2023-12-19T02:27:50.9039006+00:00",
+  "LastChanged_Achievements": "2023-12-19T03:05:18.7055837+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:12.618272+00:00",
-  "LastUpdate_Ratings": "2023-12-19T02:20:39.770137+00:00",
-  "LastUpdate_Achievements": "2023-12-19T02:27:50.904082+00:00"
+  "LastUpdate_Ratings": "2023-12-19T02:58:16.0285052+00:00",
+  "LastUpdate_Achievements": "2023-12-19T03:05:18.7057494+00:00"
 }

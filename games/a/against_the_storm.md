@@ -17,13 +17,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Frosts | 3.00% | ~559 |
 | Land of Greed | 3.00% | ~559 |
 | Ominous Presence | 3.00% | ~559 |
-| Overcoming Difficulty | 2.00% | ~372 |
-| Fertile Meadows | 2.00% | ~372 |
-| Royal Outpost | 2.00% | ~372 |
-| Watchtower | 2.00% | ~372 |
-| Coral Forest | 2.00% | ~372 |
-| The Scarlet Orchard | 2.00% | ~372 |
-| Untamed Wilds | 2.00% | ~372 |
+| Overcoming Difficulty | 2.00% | ~373 |
+| Fertile Meadows | 2.00% | ~373 |
+| Royal Outpost | 2.00% | ~373 |
+| Watchtower | 2.00% | ~373 |
+| Coral Forest | 2.00% | ~373 |
+| The Scarlet Orchard | 2.00% | ~373 |
+| Untamed Wilds | 2.00% | ~373 |
 | Homesick | 1.00% | ~186 |
 | Ruined Armory | 1.00% | ~186 |
 | Bandit Camp | 1.00% | ~186 |
@@ -49,9 +49,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Fishmen Ritual Site | 0.50% | ~93 |
 | Forsaken Gods Temple | 0.50% | ~93 |
 | Victory Through Prosperity | 0.50% | ~93 |
-| Dangerous Lands | 0.40% | ~74 |
-| Forbidden Lands | 0.40% | ~74 |
-| Fox Utopia | 0.40% | ~74 |
+| Dangerous Lands | 0.40% | ~75 |
+| Forbidden Lands | 0.40% | ~75 |
+| Fox Utopia | 0.40% | ~75 |
 | Feeding The People | 0.30% | ~56 |
 | Like a Machine | 0.30% | ~56 |
 | Prestigious Expedition | 0.20% | ~37 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,623 (Ranked 147)  
+Progressed: 18,627 (Ranked 147)  
 Completed: 39 (0.21%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,11 +309,11 @@ Completed: 39 (0.21%) (Ranked 266)
 | 2023-12-16 | 18,388 | 39 |
 | 2023-12-17 | 18,534 | 40 |
 | 2023-12-18 | 18,615 | 39 |
-| 2023-12-19 | 18,623 | 39 |
+| 2023-12-19 | 18,627 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 228)  
-Sum: 3,268 (Ranked 175)  
-Diff (max vs sum): 53  
+Sum: 3,268 (Ranked 174)  
+Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 442 |

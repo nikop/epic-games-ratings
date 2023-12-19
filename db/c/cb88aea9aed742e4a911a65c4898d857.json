@@ -93,9 +93,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5282,
+  "EOS_Progressed": 5289,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2896,
+  "EOS_NewPlayers": 2897,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1483,6 +1483,11 @@
       "Time": "2023-12-19T02:32:38.8700096+00:00",
       "NumProgressed": 5282,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T03:09:55.8475921+00:00",
+      "NumProgressed": 5289,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -1493,9 +1498,9 @@
       "ID": "02_TheIntrigue",
       "SetID": "37a94m8",
       "Name": "Conspiracy",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 1056
+      "UsersEstimate": 1111
     },
     {
       "ID": "03_TheStolenStar",
@@ -1503,7 +1508,7 @@
       "Name": "Stolen Star",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -1591,7 +1596,7 @@
       "Name": "Fear Not Obliteration",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "15_Pentakill",
@@ -1599,7 +1604,7 @@
       "Name": "Pentakill",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "16_TheRise",
@@ -1607,7 +1612,7 @@
       "Name": "The Rise",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "17_TheExemplar",
@@ -1623,7 +1628,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "19_TheVoidWolf",
@@ -1631,7 +1636,7 @@
       "Name": "Void Wolf",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -1711,7 +1716,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "30_The GreatestExploration",
@@ -1751,7 +1756,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -1815,7 +1820,7 @@
       "Name": "Iron Judgement",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -1847,7 +1852,7 @@
       "Name": "A Spark",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "47_AFlame",
@@ -1877,9 +1882,9 @@
       "ID": "50_Whodunit",
       "SetID": "37a94m8",
       "Name": "Whodunit?",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 106
     },
     {
       "ID": "51_AmendsToTheDead",
@@ -2014,7 +2019,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 5282,
+      "Progressed": 5289,
       "Completed": 0
     }
   ],
@@ -2022,8 +2027,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-19T01:47:20.7959917+00:00",
-  "LastChanged_Achievements": "2023-12-19T02:32:38.8700093+00:00",
+  "LastChanged_Achievements": "2023-12-19T03:09:55.8475916+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:14.7846288+00:00",
-  "LastUpdate_Ratings": "2023-12-19T02:23:31.053567+00:00",
-  "LastUpdate_Achievements": "2023-12-19T02:32:38.8700624+00:00"
+  "LastUpdate_Ratings": "2023-12-19T03:01:24.3571644+00:00",
+  "LastUpdate_Achievements": "2023-12-19T03:09:55.8476435+00:00"
 }
