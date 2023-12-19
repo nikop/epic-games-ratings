@@ -2,9 +2,9 @@
   "ID": "e3c41cdcfdd044478dd6ed66556df982",
   "Name": "Battle Planet - Judgement Day",
   "ProductSlug": "battle-planet-judgement-day-1f3c51",
-  "Ranking_EOS_Progress": 740,
+  "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 551,
+  "Ranking_EOS_NewPlayers": 504,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-15T00:00:00+00:00",
@@ -22,15 +22,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-12-18T16:05:55.982579+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T10:05:01.5363578+00:00",
+      "NumProgressed": 2,
       "NumCompleted": 0
     }
   ],
@@ -42,7 +47,7 @@
       "ID": "BOSS_KILL_BOSSBOMB",
       "SetID": "26018g2",
       "Name": "Battle Master",
-      "Percentage": 300,
+      "Percentage": 150,
       "XP": 150,
       "UsersEstimate": 3
     },
@@ -50,7 +55,7 @@
       "ID": "BOSS_KILL_JETPACKTWINS",
       "SetID": "26018g2",
       "Name": "Double Trouble",
-      "Percentage": 300,
+      "Percentage": 150,
       "XP": 70,
       "UsersEstimate": 3
     },
@@ -58,7 +63,7 @@
       "ID": "BOSS_KILL_SPIDER",
       "SetID": "26018g2",
       "Name": "Exterminator",
-      "Percentage": 300,
+      "Percentage": 150,
       "XP": 70,
       "UsersEstimate": 3
     },
@@ -66,7 +71,7 @@
       "ID": "BOSS_KILL_WORMOTH",
       "SetID": "26018g2",
       "Name": "Annihilator",
-      "Percentage": 300,
+      "Percentage": 150,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -74,7 +79,7 @@
       "ID": "PROGRESSION_DEFUSE_BOMBS",
       "SetID": "26018g2",
       "Name": "Bomb Specialist",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 95,
       "UsersEstimate": 1
     },
@@ -82,7 +87,7 @@
       "ID": "PROGRESSION_ESCAPE_FIRST_PLANET",
       "SetID": "26018g2",
       "Name": "Survivalist",
-      "Percentage": 400,
+      "Percentage": 200,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -90,7 +95,7 @@
       "ID": "PROGRESSION_KILL_ENEMIES",
       "SetID": "26018g2",
       "Name": "Warmonger",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 45,
       "UsersEstimate": 1
     },
@@ -98,7 +103,7 @@
       "ID": "PROGRESSION_UNLOCK_MECHA",
       "SetID": "26018g2",
       "Name": "Warmachinist",
-      "Percentage": 300,
+      "Percentage": 150,
       "XP": 35,
       "UsersEstimate": 3
     },
@@ -106,7 +111,7 @@
       "ID": "PROGRESSION_UNLOCK_PSYCHO",
       "SetID": "26018g2",
       "Name": "Maniac",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 45,
       "UsersEstimate": 2
     },
@@ -114,7 +119,7 @@
       "ID": "PROGRESSION_UNLOCK_SPY",
       "SetID": "26018g2",
       "Name": "Technician",
-      "Percentage": 300,
+      "Percentage": 150,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -122,7 +127,7 @@
       "ID": "UPGRADES_ITEMS_ALL_FULLY",
       "SetID": "26018g2",
       "Name": "Craftsman",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 95,
       "UsersEstimate": 2
     },
@@ -130,7 +135,7 @@
       "ID": "UPGRADES_PERMAUPGRADES_ALL_FULLY",
       "SetID": "26018g2",
       "Name": "Perfectionist",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 200,
       "UsersEstimate": 2
     },
@@ -138,7 +143,7 @@
       "ID": "UPGRADES_WEAPONS_ALL_FULLY",
       "SetID": "26018g2",
       "Name": "Weapon Specialist",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 150,
       "UsersEstimate": 2
     }
@@ -147,13 +152,13 @@
     {
       "ID": "26018g2",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-12-14T16:03:34.2764174+00:00",
-  "LastChanged_Achievements": "2023-12-19T09:05:26.6186116+00:00",
+  "LastChanged_Achievements": "2023-12-19T10:05:01.5363575+00:00",
   "LastUpdate_AppInfo": "2023-12-14T15:56:57.3782694+00:00",
-  "LastUpdate_Ratings": "2023-12-19T08:59:33.4968801+00:00",
-  "LastUpdate_Achievements": "2023-12-19T09:05:26.6186183+00:00"
+  "LastUpdate_Ratings": "2023-12-19T09:59:16.0616034+00:00",
+  "LastUpdate_Achievements": "2023-12-19T10:05:01.5363672+00:00"
 }

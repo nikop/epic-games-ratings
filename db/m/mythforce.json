@@ -842,9 +842,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5644,
+  "EOS_Progressed": 5645,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -11397,6 +11397,11 @@
       "Time": "2023-12-19T08:03:11.0095081+00:00",
       "NumProgressed": 5644,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-19T10:03:23.3071682+00:00",
+      "NumProgressed": 5645,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -11457,7 +11462,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1467
+      "UsersEstimate": 1468
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -11505,7 +11510,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -11561,7 +11566,7 @@
       "Name": "Spending Spree",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1073
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -11575,9 +11580,9 @@
       "ID": "MF_Ach_ThatllLeaveAMark",
       "SetID": "9b9n573",
       "Name": "That\u0027ll Leave a Mark",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 1411
+      "UsersEstimate": 1355
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -11592,15 +11597,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5644,
+      "Progressed": 5645,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-17T11:57:49.7030504+00:00",
-  "LastChanged_Achievements": "2023-12-19T09:03:40.117868+00:00",
+  "LastChanged_Achievements": "2023-12-19T10:03:23.3071678+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:20.367807+00:00",
-  "LastUpdate_Ratings": "2023-12-19T08:58:35.85675+00:00",
-  "LastUpdate_Achievements": "2023-12-19T09:03:40.1179343+00:00"
+  "LastUpdate_Ratings": "2023-12-19T09:58:23.2000478+00:00",
+  "LastUpdate_Achievements": "2023-12-19T10:03:23.3072428+00:00"
 }

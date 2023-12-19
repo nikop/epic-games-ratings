@@ -20,7 +20,7 @@ Rating: 3.95 (Ranked 1,027)
 | Case Closed | 1.00% | ~922 |
 | True Player | 1.00% | ~922 |
 | Rockay Rex | 1.00% | ~922 |
-| Track Star | 0.90% | ~829 |
+| Track Star | 0.90% | ~830 |
 | Headhunter | 0.80% | ~737 |
 | I Like Trains | 0.70% | ~645 |
 | Freebooter | 0.70% | ~645 |
@@ -32,11 +32,11 @@ Rating: 3.95 (Ranked 1,027)
 | Olympus Ascended | 0.50% | ~461 |
 | Ding Dong | 0.50% | ~461 |
 | All that Glitters | 0.40% | ~82 |
-| Rockay Raider | 0.30% | ~276 |
-| Groundhog Days | 0.30% | ~276 |
-| Cracked the Jack | 0.30% | ~276 |
-| Red Star | 0.30% | ~276 |
-| Classy Joint | 0.30% | ~276 |
+| Rockay Raider | 0.30% | ~277 |
+| Groundhog Days | 0.30% | ~277 |
+| Cracked the Jack | 0.30% | ~277 |
+| Red Star | 0.30% | ~277 |
+| Classy Joint | 0.30% | ~277 |
 | All for One | 0.30% | ~62 |
 | Rockay Knight | 0.20% | ~184 |
 | Privateer | 0.20% | ~184 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,027)
 | Full House | 0.10% | ~92 |
 | Geek Out | 0.10% | ~92 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,164 (Ranked 95)  
+Progressed: 92,167 (Ranked 95)  
 Completed: 58 (0.06%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 58 (0.06%) (Ranked 324)
 | 2023-12-16 | 92,018 | 58 |
 | 2023-12-17 | 92,087 | 58 |
 | 2023-12-18 | 92,143 | 58 |
-| 2023-12-19 | 92,164 | 58 |
+| 2023-12-19 | 92,167 | 58 |
 ## Awards
 Max (Diverse Characters): 567  (Ranked 207)  
 Sum: 2,685 (Ranked 191)  

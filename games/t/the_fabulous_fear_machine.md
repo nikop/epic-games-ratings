@@ -28,28 +28,28 @@
 | The bully | 10.00% | ~6 |
 | Kirlian's best disciple | 10.00% | ~6 |
 | Welcome to Hellville | 10.00% | ~6 |
+| Blood Red Island | 8.00% | ~5 |
 | Bread and bocaua | 8.00% | ~5 |
 | Fanatacism is... poisonous | 8.00% | ~5 |
+| Pulp! The Beyond | 8.00% | ~5 |
 | ECO mode | 8.00% | ~5 |
 | Blessed antennas | 7.00% | ~4 |
-| Blood Red Island | 7.00% | ~4 |
+| The beast in the Oval Office | 7.00% | ~4 |
 | The adventurer | 7.00% | ~4 |
-| Pulp! The Beyond | 7.00% | ~4 |
-| The beast in the Oval Office | 5.00% | ~3 |
+| Pulp! True Adventures | 7.00% | ~4 |
 | The scholar | 5.00% | ~3 |
-| Pulp! True Adventures | 5.00% | ~3 |
+| America had no Faith | 5.00% | ~3 |
 | Vaccine fans | 5.00% | ~3 |
-| America had no Faith | 3.00% | ~2 |
-| Pulp! Weird Science | 2.00% | ~1 |
+| Pulp! Weird Science | 3.00% | ~2 |
 | Pulp! Heart Throbs | 2.00% | ~1 |
 | Pulp! Tales from the Crypt | 2.00% | ~1 |
+| Pulp! Skeleton Hand | 2.00% | ~1 |
 | Thirst for Oleum | 2.00% | ~1 |
 | The barbarian invasions | 2.00% | ~1 |
 | Troy is burning! | 2.00% | ~1 |
 | A new Hindenburg | 2.00% | ~1 |
 | Pulp! The Perfect Crime | 0.00% | ~0 |
 | Pulp! Mister Mystery | 0.00% | ~0 |
-| Pulp! Skeleton Hand | 0.00% | ~0 |
 | Pulp! The Vault of Horror | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 61 (Ranked 509)  

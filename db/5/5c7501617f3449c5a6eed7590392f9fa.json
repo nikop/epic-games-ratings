@@ -2,10 +2,10 @@
   "ID": "5c7501617f3449c5a6eed7590392f9fa",
   "Name": "Botanicula",
   "ProductSlug": "botanicula-50043d",
-  "Ranking_EOS_Progress": 486,
+  "Ranking_EOS_Progress": 488,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 251,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2012-04-19T11:00:00+00:00",
@@ -495,9 +495,9 @@
       "ID": "Ach-03-skakavec",
       "SetID": "2pjo9pi",
       "Name": "Skakavec",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Ach-03-svolavac",
@@ -790,8 +790,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2023-12-19T09:08:56.8500435+00:00",
+  "LastChanged_Achievements": "2023-12-19T10:08:41.0424914+00:00",
   "LastUpdate_AppInfo": "2023-12-13T18:57:10.2639848+00:00",
-  "LastUpdate_Ratings": "2023-12-19T09:00:22.4774673+00:00",
-  "LastUpdate_Achievements": "2023-12-19T09:08:56.8500762+00:00"
+  "LastUpdate_Ratings": "2023-12-19T10:00:01.6889266+00:00",
+  "LastUpdate_Achievements": "2023-12-19T10:08:41.0425243+00:00"
 }

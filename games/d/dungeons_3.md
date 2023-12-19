@@ -10,20 +10,20 @@ Number of Ratings: 1,635  (23.09.2022)
 | The Evilest Evil | 59.00% | ~25,951 |
 | Twistram is devastated | 58.00% | ~25,511 |
 | The Gehenna Stones | 50.00% | ~21,992 |
-| No one has to die today! | 47.00% | ~20,672 |
+| No one has to die today! | 47.00% | ~20,673 |
 | Death and destruction! | 46.00% | ~20,233 |
 | The Swamplanders from the swamplands | 44.00% | ~19,353 |
-| The One-Huge-Army-Building Evil | 41.00% | ~18,033 |
-| Rusty Steel | 41.00% | ~18,033 |
+| The One-Huge-Army-Building Evil | 41.00% | ~18,034 |
+| Rusty Steel | 41.00% | ~18,034 |
 | Braiiiiins! | 38.00% | ~16,714 |
 | The last burger | 37.00% | ~16,274 |
-| Hands off the Dungeonheart! | 36.00% | ~15,834 |
+| Hands off the Dungeonheart! | 36.00% | ~15,835 |
 | A trip on sea, what fun it can be | 34.00% | ~14,955 |
 | Damned good | 33.00% | ~14,515 |
 | Stock Market Crash | 31.00% | ~13,635 |
 | Factory farming | 31.00% | ~13,635 |
-| Shadow hunter | 30.00% | ~13,195 |
-| Not-So-Overproud | 30.00% | ~13,195 |
+| Shadow hunter | 30.00% | ~13,196 |
+| Not-So-Overproud | 30.00% | ~13,196 |
 | For a handfull of Catapults | 28.00% | ~12,316 |
 | Thirst quencher | 27.00% | ~11,876 |
 | Ogre Solo! | 27.00% | ~11,876 |
@@ -33,8 +33,8 @@ Number of Ratings: 1,635  (23.09.2022)
 | MASS-O-BOT | 24.00% | ~10,556 |
 | Prepare the grave | 24.00% | ~10,556 |
 | Angel of Fire | 24.00% | ~10,556 |
-| Where there is Light, there is Shadow | 23.00% | ~10,116 |
-| At the foot of Mount Destiny | 22.00% | ~9,676 |
+| Where there is Light, there is Shadow | 23.00% | ~10,117 |
+| At the foot of Mount Destiny | 22.00% | ~9,677 |
 | The Force disturbed | 21.00% | ~9,237 |
 | The Victorious Evil | 20.00% | ~8,797 |
 | Chorus of damnation | 19.00% | ~8,357 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~880 |
 | Sacrifices! | 2.00% | ~880 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,984 (Ranked 123)  
+Progressed: 43,985 (Ranked 123)  
 Completed: 358 (0.81%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 358 (0.81%) (Ranked 187)
 | 2023-12-16 | 43,722 | 356 |
 | 2023-12-17 | 43,873 | 358 |
 | 2023-12-18 | 43,970 | 358 |
-| 2023-12-19 | 43,984 | 358 |
+| 2023-12-19 | 43,985 | 358 |
 ## Awards
 Max (Great for Beginners): 391  (Ranked 237)  
 Sum: 2,812 (Ranked 184)  

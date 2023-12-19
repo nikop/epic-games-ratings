@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Meissa's Savior | 75.00% | ~140 |
 | Purification Pioneer | 70.00% | ~131 |
-| Mechanical Buddy | 64.00% | ~120 |
+| Mechanical Buddy | 65.00% | ~122 |
 | Dicesmithing Time! | 59.00% | ~110 |
 | Sanctuary Guardian | 52.00% | ~97 |
 | Endless Tricks | 50.00% | ~94 |

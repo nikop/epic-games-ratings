@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 321)  
+Rating: 4.65 (Ranked 320)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,12 +10,17 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bad Heir Day | 0.10% | ~16 |
 | Acropolis in Athenai | 0.10% | ~16 |
 | Ishtar Gate in Babylon | 0.10% | ~16 |
+| Able | 0.10% | ~16 |
+| Ambitious | 0.10% | ~16 |
 | Brilliant | 0.10% | ~16 |
 | Explorer | 0.10% | ~16 |
+| Good | 0.10% | ~16 |
 | Intrepid | 0.10% | ~16 |
 | Mason | 0.10% | ~16 |
 | Settler | 0.10% | ~16 |
+| Valiant | 0.10% | ~16 |
 | Friendly Family | 0.10% | ~16 |
+| Acropolis | 0.10% | ~16 |
 | Circus Maximus | 0.10% | ~16 |
 | Adur Burzen-Mihr | 0.10% | ~16 |
 | Ishtar Gate | 0.10% | ~16 |
@@ -26,6 +31,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Paganism | 0.10% | ~16 |
 | Circus Maximus in Roma | 0.10% | ~16 |
 | Capturing Cities | 0.10% | ~16 |
+| Redemption | 0.10% | ~16 |
+| Trade Caravan | 0.10% | ~16 |
+| Turreted Elephant | 0.10% | ~16 |
 | Centenarian | 0.00% | ~0 |
 | Alexander the who? | 0.00% | ~0 |
 | Lighthouse in Alexandria | 0.00% | ~0 |
@@ -63,8 +71,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Silver Victory (Carthage 4) | 0.00% | ~0 |
 | Carthage Campaign | 0.00% | ~0 |
 | Cleopatra's Love | 0.00% | ~0 |
-| Able | 0.00% | ~0 |
-| Ambitious | 0.00% | ~0 |
 | Ancient | 0.00% | ~0 |
 | Architect | 0.00% | ~0 |
 | Avenger | 0.00% | ~0 |
@@ -77,7 +83,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightened | 0.00% | ~0 |
 | Fountainhead | 0.00% | ~0 |
 | Glorious | 0.00% | ~0 |
-| Good | 0.00% | ~0 |
 | Great | 0.00% | ~0 |
 | Holy | 0.00% | ~0 |
 | Intercessor | 0.00% | ~0 |
@@ -98,7 +103,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Restorer | 0.00% | ~0 |
 | Strong | 0.00% | ~0 |
 | Subjugator | 0.00% | ~0 |
-| Valiant | 0.00% | ~0 |
 | Victorious | 0.00% | ~0 |
 | Warrior | 0.00% | ~0 |
 | White Death | 0.00% | ~0 |
@@ -181,7 +185,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum in Halicarnassus | 0.00% | ~0 |
 | Hardcore | 0.00% | ~0 |
 | Hittite Iron | 0.00% | ~0 |
-| Acropolis | 0.00% | ~0 |
 | Apadana | 0.00% | ~0 |
 | Colossus | 0.00% | ~0 |
 | Great Ziggurat | 0.00% | ~0 |
@@ -256,11 +259,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gnosticism | 0.00% | ~0 |
 | Legalism | 0.00% | ~0 |
 | Mythology | 0.00% | ~0 |
-| Redemption | 0.00% | ~0 |
 | Revelation | 0.00% | ~0 |
 | Veneration | 0.00% | ~0 |
 | Word of God | 0.00% | ~0 |
-| Trade Caravan | 0.00% | ~0 |
 | Cataphract Archer | 0.00% | ~0 |
 | Cimmerian Archer | 0.00% | ~0 |
 | Three Man Chariot | 0.00% | ~0 |
@@ -268,7 +269,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legionary | 0.00% | ~0 |
 | Phalangite | 0.00% | ~0 |
 | Siege Tower | 0.00% | ~0 |
-| Turreted Elephant | 0.00% | ~0 |
 | Great Ziggurat in Ur | 0.00% | ~0 |
 | All Nations | 0.00% | ~0 |
 | Ambition Victory | 0.00% | ~0 |

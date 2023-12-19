@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 156,
+  "EOS_Progressed": 157,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -724,6 +724,11 @@
       "Time": "2023-12-19T09:03:33.1930119+00:00",
       "NumProgressed": 156,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T10:03:16.8401805+00:00",
+      "NumProgressed": 157,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -736,7 +741,7 @@
       "Name": "A new way",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "another_perspective",
@@ -744,7 +749,7 @@
       "Name": "Another perspective",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "assemble_puzzles",
@@ -760,7 +765,7 @@
       "Name": "Breaking free",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "casting_finished",
@@ -814,9 +819,9 @@
       "ID": "covered_up_for_a_reason",
       "SetID": "f2im8d",
       "Name": "It\u0027s covered up for a reason",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 71
     },
     {
       "ID": "decrypt_one_myth",
@@ -840,15 +845,15 @@
       "Name": "Refuse to look",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "do_what_you_have_to",
       "SetID": "f2im8d",
       "Name": "Do what you have to",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 66
+      "UsersEstimate": 64
     },
     {
       "ID": "earn_all_trophies",
@@ -984,7 +989,7 @@
       "Name": "Lights! Camera! Action!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "once_upon_a_time",
@@ -1062,9 +1067,9 @@
       "ID": "sign_of_weakness",
       "SetID": "f2im8d",
       "Name": "Sign of weakness",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 53
     },
     {
       "ID": "something_important",
@@ -1072,7 +1077,7 @@
       "Name": "Something important",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "spy_one_item",
@@ -1120,7 +1125,7 @@
       "Name": "True Reflection",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "view_most_of_photos",
@@ -1151,14 +1156,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 156,
+      "Progressed": 157,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-19T09:03:33.1930115+00:00",
+  "LastChanged_Achievements": "2023-12-19T10:03:16.8401801+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:26.5525701+00:00",
-  "LastUpdate_Ratings": "2023-12-19T08:57:42.833652+00:00",
-  "LastUpdate_Achievements": "2023-12-19T09:03:33.1930603+00:00"
+  "LastUpdate_Ratings": "2023-12-19T09:57:33.5867458+00:00",
+  "LastUpdate_Achievements": "2023-12-19T10:03:16.8402208+00:00"
 }

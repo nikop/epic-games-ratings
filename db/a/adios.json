@@ -123,7 +123,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 81008,
+  "EOS_Progressed": 81010,
   "EOS_Completed": 887,
   "EOS_NewPlayers": 607,
   "EOS_NewCompleters": 13,
@@ -27178,6 +27178,11 @@
       "Time": "2023-12-19T09:05:48.5548051+00:00",
       "NumProgressed": 81008,
       "NumCompleted": 887
+    },
+    {
+      "Time": "2023-12-19T10:05:21.3385683+00:00",
+      "NumProgressed": 81010,
+      "NumCompleted": 887
     }
   ],
   "TotalAchievements": 25,
@@ -27229,7 +27234,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 14581
+      "UsersEstimate": 14582
     },
     {
       "ID": "Butcher",
@@ -27245,7 +27250,7 @@
       "Name": "Cut Call",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 4860
+      "UsersEstimate": 4861
     },
     {
       "ID": "Fair\u0027sFair",
@@ -27317,7 +27322,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 12961
+      "UsersEstimate": 12962
     },
     {
       "ID": "Nothing Left to Say",
@@ -27388,7 +27393,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 81008,
+      "Progressed": 81010,
       "Completed": 887
     }
   ],
@@ -27396,8 +27401,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-11-28T02:22:55.8136009+00:00",
-  "LastChanged_Achievements": "2023-12-19T09:05:48.5548046+00:00",
+  "LastChanged_Achievements": "2023-12-19T10:05:21.3385681+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:36.6719063+00:00",
-  "LastUpdate_Ratings": "2023-12-19T08:59:40.3055419+00:00",
-  "LastUpdate_Achievements": "2023-12-19T09:05:48.5549123+00:00"
+  "LastUpdate_Ratings": "2023-12-19T09:59:22.9451462+00:00",
+  "LastUpdate_Achievements": "2023-12-19T10:05:21.3387011+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "4d936d45ca14450c86d6472c3c494181",
   "Name": "Hero Battle Fantasy Arena",
   "ProductSlug": "hero-battle-fantasy-arena-f15594",
-  "Ranking_EOS_Progress": 740,
+  "Ranking_EOS_Progress": 741,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 551,
+  "Ranking_EOS_NewPlayers": 552,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-15T00:00:00+00:00",
@@ -168,8 +168,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-16T08:05:18.2860146+00:00",
-  "LastChanged_Achievements": "2023-12-19T09:08:31.630314+00:00",
+  "LastChanged_Achievements": "2023-12-19T10:08:17.8652129+00:00",
   "LastUpdate_AppInfo": "2023-12-17T11:57:04.4085632+00:00",
-  "LastUpdate_Ratings": "2023-12-19T08:58:10.6409391+00:00",
-  "LastUpdate_Achievements": "2023-12-19T09:08:31.6303234+00:00"
+  "LastUpdate_Ratings": "2023-12-19T09:57:59.3114444+00:00",
+  "LastUpdate_Achievements": "2023-12-19T10:08:17.8652224+00:00"
 }

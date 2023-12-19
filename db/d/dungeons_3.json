@@ -3421,7 +3421,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 43984,
+  "EOS_Progressed": 43985,
   "EOS_Completed": 358,
   "EOS_NewPlayers": 806,
   "EOS_NewCompleters": 7,
@@ -30451,6 +30451,11 @@
       "Time": "2023-12-19T09:04:51.6440701+00:00",
       "NumProgressed": 43984,
       "NumCompleted": 358
+    },
+    {
+      "Time": "2023-12-19T10:04:29.637183+00:00",
+      "NumProgressed": 43985,
+      "NumCompleted": 358
     }
   ],
   "TotalAchievements": 60,
@@ -30470,7 +30475,7 @@
       "Name": "No one has to die today!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20672
+      "UsersEstimate": 20673
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -30502,7 +30507,7 @@
       "Name": "At the foot of Mount Destiny",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 9676
+      "UsersEstimate": 9677
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_1",
@@ -30678,7 +30683,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 18033
+      "UsersEstimate": 18034
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -30686,7 +30691,7 @@
       "Name": "Hands off the Dungeonheart!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15834
+      "UsersEstimate": 15835
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_Completed",
@@ -30694,7 +30699,7 @@
       "Name": "Rusty Steel",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 18033
+      "UsersEstimate": 18034
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -30766,7 +30771,7 @@
       "Name": "Where there is Light, there is Shadow",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 10116
+      "UsersEstimate": 10117
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_1",
@@ -30854,7 +30859,7 @@
       "Name": "Shadow hunter",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 13195
+      "UsersEstimate": 13196
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_Completed",
@@ -30910,7 +30915,7 @@
       "Name": "Not-So-Overproud",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 13195
+      "UsersEstimate": 13196
     },
     {
       "ID": "ACH_D3_Campaign_Water_1",
@@ -30941,15 +30946,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 43984,
+      "Progressed": 43985,
       "Completed": 358
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-12-19T04:58:27.8206721+00:00",
-  "LastChanged_Achievements": "2023-12-19T09:04:51.6440698+00:00",
+  "LastChanged_Achievements": "2023-12-19T10:04:29.6371826+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:12.618272+00:00",
-  "LastUpdate_Ratings": "2023-12-19T08:58:09.2787626+00:00",
-  "LastUpdate_Achievements": "2023-12-19T09:04:51.6442125+00:00"
+  "LastUpdate_Ratings": "2023-12-19T09:57:58.1198147+00:00",
+  "LastUpdate_Achievements": "2023-12-19T10:04:29.6374162+00:00"
 }

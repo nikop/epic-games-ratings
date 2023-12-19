@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -2868,9 +2868,9 @@
       "ID": "GnothiSeauton",
       "SetID": "1n308hc",
       "Name": "Gnothi Seauton",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 42
+      "UsersEstimate": 53
     },
     {
       "ID": "GoodCitizen",
@@ -3148,9 +3148,9 @@
       "ID": "TouchGrass",
       "SetID": "1n308hc",
       "Name": "Touch Grass",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 189
     },
     {
       "ID": "TrevorsBiographer",
@@ -3213,8 +3213,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-19T09:04:33.4409988+00:00",
+  "LastChanged_Achievements": "2023-12-19T10:04:13.2058678+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-19T08:59:07.4010585+00:00",
-  "LastUpdate_Achievements": "2023-12-19T09:04:33.4410431+00:00"
+  "LastUpdate_Ratings": "2023-12-19T09:58:51.5414878+00:00",
+  "LastUpdate_Achievements": "2023-12-19T10:04:13.2059147+00:00"
 }

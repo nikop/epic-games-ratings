@@ -4,7 +4,7 @@
   "ProductSlug": "the-dungeon-of-naheulbeuk",
   "Ranking_Rating": 442,
   "Ranking_Popularity": 272,
-  "Ranking_PopularitySum": 328,
+  "Ranking_PopularitySum": 327,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 97,
@@ -1521,9 +1521,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 243520,
+  "EOS_Progressed": 243524,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1140,
+  "EOS_NewPlayers": 1141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22836,6 +22836,11 @@
       "Time": "2023-12-19T09:10:06.7263666+00:00",
       "NumProgressed": 243520,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-19T10:09:45.6460608+00:00",
+      "NumProgressed": 243524,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -22895,7 +22900,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 17046
+      "UsersEstimate": 17047
     },
     {
       "ID": "Chapter2",
@@ -23295,7 +23300,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 87667
+      "UsersEstimate": 87669
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -23550,21 +23555,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 243520,
+      "Progressed": 243524,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 243520,
+      "Progressed": 243524,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-12-19T01:49:39.0919482+00:00",
-  "LastChanged_Achievements": "2023-12-19T09:10:06.7263663+00:00",
+  "LastChanged_Achievements": "2023-12-19T10:09:45.6460605+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:08.5726178+00:00",
-  "LastUpdate_Ratings": "2023-12-19T09:02:43.1437862+00:00",
-  "LastUpdate_Achievements": "2023-12-19T09:10:06.7265152+00:00"
+  "LastUpdate_Ratings": "2023-12-19T10:02:28.777441+00:00",
+  "LastUpdate_Achievements": "2023-12-19T10:09:45.6462143+00:00"
 }

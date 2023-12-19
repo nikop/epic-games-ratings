@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -4727,9 +4727,9 @@
       "ID": "STB_CRITICAL_HITS",
       "SetID": "3pe2bac",
       "Name": "Elemental master",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1061
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -5087,9 +5087,9 @@
       "ID": "STB_UNLOCK_ULTIMATE",
       "SetID": "3pe2bac",
       "Name": "Ancient power",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 745
+      "UsersEstimate": 774
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -5112,8 +5112,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-17T13:59:07.4077367+00:00",
-  "LastChanged_Achievements": "2023-12-19T09:06:43.7128349+00:00",
+  "LastChanged_Achievements": "2023-12-19T10:06:13.0405452+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:24.9335177+00:00",
-  "LastUpdate_Ratings": "2023-12-19T08:59:25.9163302+00:00",
-  "LastUpdate_Achievements": "2023-12-19T09:06:43.7128934+00:00"
+  "LastUpdate_Ratings": "2023-12-19T09:59:09.2710566+00:00",
+  "LastUpdate_Achievements": "2023-12-19T10:06:13.0405914+00:00"
 }

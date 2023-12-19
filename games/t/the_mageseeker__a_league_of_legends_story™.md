@@ -15,17 +15,17 @@ Rating: 4.79 (Ranked 99)
 | Thornbarrow | 40.00% | ~1,147 |
 | Big Helmet Bro | 39.00% | ~1,118 |
 | Clarion Cove | 39.00% | ~1,118 |
+| Elemental master | 37.00% | ~1,061 |
 | Past trauma | 37.00% | ~1,061 |
 | Ternmoat Headquarters | 37.00% | ~1,061 |
-| Elemental master | 36.00% | ~1,032 |
 | Cypress Glen Headquarters | 34.00% | ~975 |
 | Petricite Burst | 33.00% | ~946 |
 | Old friend | 31.00% | ~889 |
 | Hijack | 30.00% | ~860 |
 | Devineur | 30.00% | ~860 |
 | Whispers in the Woods I | 27.00% | ~774 |
+| Ancient power | 27.00% | ~774 |
 | I chose my shackles | 26.00% | ~745 |
-| Ancient power | 26.00% | ~745 |
 | Sacred Woods | 25.00% | ~717 |
 | Little light | 23.00% | ~659 |
 | Capelworth | 23.00% | ~659 |

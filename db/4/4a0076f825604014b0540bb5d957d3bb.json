@@ -477,9 +477,9 @@
       "ID": "CgkInO_K3eIdEAIQBg",
       "SetID": "6bj96in",
       "Name": "BACK TO THE FUTURE",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 40,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "CgkInO_K3eIdEAIQBw",
@@ -509,9 +509,9 @@
       "ID": "CgkInO_K3eIdEAIQCg",
       "SetID": "6bj96in",
       "Name": "ADVANCED CRAFTSMAN",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 40,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "CgkInO_K3eIdEAIQCw",
@@ -652,8 +652,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-12-19T09:10:01.4294788+00:00",
+  "LastChanged_Achievements": "2023-12-19T10:09:40.7574922+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:14.9435383+00:00",
-  "LastUpdate_Ratings": "2023-12-19T09:00:29.6321268+00:00",
-  "LastUpdate_Achievements": "2023-12-19T09:10:01.4294945+00:00"
+  "LastUpdate_Ratings": "2023-12-19T10:00:08.4481385+00:00",
+  "LastUpdate_Achievements": "2023-12-19T10:09:40.7575062+00:00"
 }

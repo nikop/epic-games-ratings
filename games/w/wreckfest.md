@@ -5,6 +5,9 @@ Rating: 4.26 (Ranked 882)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Storm Warning | 1.00% | ~1 |
+| Wheeler Dealer | 1.00% | ~1 |
+| Junk Collector | 1.00% | ~1 |
 | Look Mom, I Can Fly | 0.00% | ~0 |
 | Highballer | 0.00% | ~0 |
 | Regional Juniors Champion | 0.00% | ~0 |
@@ -12,9 +15,6 @@ Rating: 4.26 (Ranked 882)
 | Challengers Champion | 0.00% | ~0 |
 | Pro Internationals Champion | 0.00% | ~0 |
 | World Masters Champion | 0.00% | ~0 |
-| Storm Warning | 0.00% | ~0 |
-| Wheeler Dealer | 0.00% | ~0 |
-| Junk Collector | 0.00% | ~0 |
 | Cash For Crashes | 0.00% | ~0 |
 | Glutton For Punishment | 0.00% | ~0 |
 | Garden Variety | 0.00% | ~0 |
@@ -26,13 +26,13 @@ Rating: 4.26 (Ranked 882)
 | Hating Them Tin Cans | 0.00% | ~0 |
 | Maniac Driver | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78 (Ranked 486)  
+Progressed: 81 (Ranked 485)  
 Completed: 0 (0.00%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-12-18 | 58 | 0 |
-| 2023-12-19 | 78 | 0 |
+| 2023-12-19 | 81 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 48.00% | ~405 |
+| Break Out | 48.00% | ~407 |
 | Trinity | 20.00% | ~169 |
-| I Found It | 17.00% | ~143 |
-| A Taste of Wrath | 16.00% | ~135 |
+| I Found It | 17.00% | ~144 |
+| A Taste of Wrath | 16.00% | ~136 |
 | Find Allies | 15.00% | ~127 |
-| Shatter Them All | 14.00% | ~118 |
-| Geared Up | 14.00% | ~118 |
-| The Collector | 14.00% | ~118 |
+| Shatter Them All | 14.00% | ~119 |
+| Geared Up | 14.00% | ~119 |
+| The Collector | 14.00% | ~119 |
 | Adventurer | 13.00% | ~110 |
 | Fashion Victim | 13.00% | ~110 |
-| Tributes of Caladrias | 12.00% | ~101 |
-| Scholar | 12.00% | ~101 |
+| Tributes of Caladrias | 12.00% | ~102 |
+| Scholar | 12.00% | ~102 |
+| Powerful Allies | 11.00% | ~93 |
 | Stone Collection | 11.00% | ~93 |
-| Powerful Allies | 10.00% | ~84 |
 | Big Bazar | 8.00% | ~68 |
 | Essence Blow | 6.00% | ~51 |
 | The Mentor | 5.00% | ~42 |
@@ -26,9 +26,9 @@
 | Airborne | 4.00% | ~34 |
 | To Battle | 3.00% | ~25 |
 | Godslayer | 3.00% | ~25 |
+| Shatterer | 3.00% | ~25 |
 | Miner | 3.00% | ~25 |
 | Clear Sight | 2.00% | ~17 |
-| Shatterer | 2.00% | ~17 |
 | Fine Feathers Make Fine Birds | 2.00% | ~17 |
 | Slayer | 1.00% | ~8 |
 | All There Is | 1.00% | ~8 |
@@ -41,8 +41,8 @@
 | Shardbearer | 0.50% | ~4 |
 | Feeling Fancy | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 844 (Ranked 282)  
-Completed: 3 (0.36%) (Ranked 235)  
+Progressed: 847 (Ranked 282)  
+Completed: 3 (0.35%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -109,4 +109,4 @@ Completed: 3 (0.36%) (Ranked 235)
 | 2023-12-16 | 621 | 3 |
 | 2023-12-17 | 752 | 3 |
 | 2023-12-18 | 818 | 3 |
-| 2023-12-19 | 844 | 3 |
+| 2023-12-19 | 847 | 3 |

@@ -4,7 +4,7 @@
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
   "Ranking_EOS_Progress": 308,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -2455,9 +2455,9 @@
       "ID": "ACHIEVEMENT_8",
       "SetID": "7pimpda",
       "Name": "Seal Breaker",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 197
+      "UsersEstimate": 203
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -2480,8 +2480,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-19T09:09:16.9791642+00:00",
+  "LastChanged_Achievements": "2023-12-19T10:08:59.8189914+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:00.9363361+00:00",
-  "LastUpdate_Ratings": "2023-12-19T09:00:33.4734918+00:00",
-  "LastUpdate_Achievements": "2023-12-19T09:09:16.9792042+00:00"
+  "LastUpdate_Ratings": "2023-12-19T10:00:12.105476+00:00",
+  "LastUpdate_Achievements": "2023-12-19T10:08:59.8190304+00:00"
 }

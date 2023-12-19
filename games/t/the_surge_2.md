@@ -5,15 +5,15 @@ Rating: 4.26 (Ranked 882)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,835 |
-| Don't I Know You...? | 76.00% | ~1,743 |
-| Jailbreak | 66.00% | ~1,514 |
+| Rigged And Ready | 80.00% | ~1,836 |
+| Don't I Know You...? | 76.00% | ~1,744 |
+| Jailbreak | 66.00% | ~1,515 |
 | HEADSHOT! | 38.00% | ~872 |
 | Suited and Booted | 38.00% | ~872 |
 | Sleeping With The Fishes | 36.00% | ~826 |
 | High Performance | 31.00% | ~711 |
 | Overheated | 30.00% | ~688 |
-| Powered Up | 28.00% | ~642 |
+| Powered Up | 28.00% | ~643 |
 | Studied The Blade | 25.00% | ~574 |
 | Home Invasion | 23.00% | ~528 |
 | Luminary | 22.00% | ~505 |
@@ -35,9 +35,9 @@ Rating: 4.26 (Ranked 882)
 | Corrupted Beauty | 12.00% | ~275 |
 | Marked For Success | 12.00% | ~275 |
 | Sorry, Didn't See You There | 12.00% | ~275 |
-| Stimulating The Local Economy | 10.00% | ~229 |
-| Triplets | 10.00% | ~229 |
-| Denying Prophecy | 9.00% | ~206 |
+| Stimulating The Local Economy | 10.00% | ~230 |
+| Triplets | 10.00% | ~230 |
+| Denying Prophecy | 9.00% | ~207 |
 | A Little Banged Up | 8.00% | ~184 |
 | Following In Their Footsteps | 8.00% | ~184 |
 | Defense in Depth | 8.00% | ~184 |
@@ -63,7 +63,7 @@ Rating: 4.26 (Ranked 882)
 | Three Birds With One Stone | 1.00% | ~23 |
 | The Easy Way Out | 1.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,294 (Ranked 228)  
+Progressed: 2,295 (Ranked 228)  
 Completed: 13 (0.57%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 13 (0.57%) (Ranked 204)
 | 2023-12-16 | 2,261 | 13 |
 | 2023-12-17 | 2,275 | 13 |
 | 2023-12-18 | 2,293 | 13 |
-| 2023-12-19 | 2,294 | 13 |
+| 2023-12-19 | 2,295 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

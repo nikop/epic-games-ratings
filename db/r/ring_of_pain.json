@@ -3626,10 +3626,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 11745,
       "NumberOfAwardsMax": 1511
+    },
+    {
+      "Time": "2023-12-19T09:58:29.6543321+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 11746,
+      "NumberOfAwardsMax": 1511
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11745,
+  "NumberOfAwards": 11746,
   "NumberOfAwardsMax": 1511,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3673,7 +3679,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1388
+      "Count": 1389
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3700,9 +3706,9 @@
       "Count": 747
     }
   ],
-  "EOS_Progressed": 241277,
+  "EOS_Progressed": 241279,
   "EOS_Completed": 299,
-  "EOS_NewPlayers": 366,
+  "EOS_NewPlayers": 368,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -28725,6 +28731,11 @@
       "Time": "2023-12-19T09:10:22.8344663+00:00",
       "NumProgressed": 241277,
       "NumCompleted": 299
+    },
+    {
+      "Time": "2023-12-19T10:10:00.2875792+00:00",
+      "NumProgressed": 241279,
+      "NumCompleted": 299
     }
   ],
   "TotalAchievements": 138,
@@ -28768,7 +28779,7 @@
       "Name": "First Steps",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2171
+      "UsersEstimate": 2172
     },
     {
       "ID": "CURSE1HP",
@@ -29480,7 +29491,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2171
+      "UsersEstimate": 2172
     },
     {
       "ID": "SPECIALROOMS10",
@@ -29839,22 +29850,22 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241277,
+      "Progressed": 241279,
       "Completed": 299
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 2757,
-      "Completed": 406
+      "Progressed": 2759,
+      "Completed": 407
     }
   ],
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
-  "LastChanged": "2023-12-18T20:58:42.6339542+00:00",
-  "LastChanged_Achievements": "2023-12-19T09:10:22.8344656+00:00",
+  "LastChanged": "2023-12-19T09:58:29.6543319+00:00",
+  "LastChanged_Achievements": "2023-12-19T10:10:00.2875789+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:23.1397919+00:00",
-  "LastUpdate_Ratings": "2023-12-19T08:58:43.0248415+00:00",
-  "LastUpdate_Achievements": "2023-12-19T09:10:22.8347327+00:00"
+  "LastUpdate_Ratings": "2023-12-19T09:58:29.6543324+00:00",
+  "LastUpdate_Achievements": "2023-12-19T10:10:00.2878246+00:00"
 }

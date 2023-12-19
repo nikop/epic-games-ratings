@@ -755,7 +755,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 238390,
+  "EOS_Progressed": 238394,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1152,
   "EOS_NewCompleters": 0,
@@ -17985,6 +17985,11 @@
       "Time": "2023-12-19T09:10:13.0053157+00:00",
       "NumProgressed": 238390,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-19T10:09:51.3328868+00:00",
+      "NumProgressed": 238394,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -18053,7 +18058,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 50062
+      "UsersEstimate": 50063
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -18189,7 +18194,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 16687
+      "UsersEstimate": 16688
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -18268,7 +18273,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 238390,
+      "Progressed": 238394,
       "Completed": 0
     }
   ],
@@ -18276,8 +18281,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-12-19T08:58:13.1418686+00:00",
-  "LastChanged_Achievements": "2023-12-19T09:10:13.0053153+00:00",
+  "LastChanged_Achievements": "2023-12-19T10:09:51.3328863+00:00",
   "LastUpdate_AppInfo": "2023-12-15T04:56:59.9211133+00:00",
-  "LastUpdate_Ratings": "2023-12-19T08:58:13.1418693+00:00",
-  "LastUpdate_Achievements": "2023-12-19T09:10:13.0054249+00:00"
+  "LastUpdate_Ratings": "2023-12-19T09:58:01.666145+00:00",
+  "LastUpdate_Achievements": "2023-12-19T10:09:51.3330211+00:00"
 }

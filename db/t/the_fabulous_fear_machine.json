@@ -4,7 +4,7 @@
   "ProductSlug": "the-fabulous-fear-machine-8e7c6b",
   "Ranking_EOS_Progress": 509,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewPlayers": 350,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-04T16:00:00+00:00",
@@ -364,17 +364,17 @@
       "ID": "14",
       "SetID": "d37idgg",
       "Name": "The beast in the Oval Office",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "15",
       "SetID": "d37idgg",
       "Name": "Blood Red Island",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "16",
@@ -484,9 +484,9 @@
       "ID": "28",
       "SetID": "d37idgg",
       "Name": "Pulp! Weird Science",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "29",
@@ -524,9 +524,9 @@
       "ID": "32",
       "SetID": "d37idgg",
       "Name": "Pulp! Skeleton Hand",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "33",
@@ -572,17 +572,17 @@
       "ID": "38",
       "SetID": "d37idgg",
       "Name": "Pulp! True Adventures",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "39",
       "SetID": "d37idgg",
       "Name": "Pulp! The Beyond",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "4",
@@ -628,9 +628,9 @@
       "ID": "44",
       "SetID": "d37idgg",
       "Name": "America had no Faith",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "45",
@@ -707,8 +707,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2023-12-19T09:06:06.7609808+00:00",
+  "LastChanged_Achievements": "2023-12-19T10:05:38.3408546+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:27.0664892+00:00",
-  "LastUpdate_Ratings": "2023-12-19T08:59:19.7268568+00:00",
-  "LastUpdate_Achievements": "2023-12-19T09:06:06.7610082+00:00"
+  "LastUpdate_Ratings": "2023-12-19T09:59:03.0418728+00:00",
+  "LastUpdate_Achievements": "2023-12-19T10:05:38.3408822+00:00"
 }

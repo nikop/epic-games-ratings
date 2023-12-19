@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1081,
+  "EOS_Progressed": 1082,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -2949,6 +2949,11 @@
       "Time": "2023-12-19T03:10:07.3946617+00:00",
       "NumProgressed": 1081,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-19T10:09:39.5004594+00:00",
+      "NumProgressed": 1082,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -2969,7 +2974,7 @@
       "Name": "Boston Hay Day",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "BoxingClever",
@@ -3017,7 +3022,7 @@
       "Name": "Drinking on the Job",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "DustDancing",
@@ -3049,7 +3054,7 @@
       "Name": "Mi Casa Su Casa",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "OnceMoreIntoTheBreach",
@@ -3065,7 +3070,7 @@
       "Name": "Outpatient",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "Relic",
@@ -3073,7 +3078,7 @@
       "Name": "Relic",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "SkeletonCrew",
@@ -3113,21 +3118,21 @@
       "Name": "Welcome to Fort Solis",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 1081,
+      "Progressed": 1082,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-12-19T09:10:00.0990553+00:00",
+  "LastChanged_Achievements": "2023-12-19T10:09:39.5004592+00:00",
   "LastUpdate_AppInfo": "2023-12-13T21:57:02.5994024+00:00",
-  "LastUpdate_Ratings": "2023-12-19T08:57:41.8731606+00:00",
-  "LastUpdate_Achievements": "2023-12-19T09:10:00.0990807+00:00"
+  "LastUpdate_Ratings": "2023-12-19T09:57:32.7108994+00:00",
+  "LastUpdate_Achievements": "2023-12-19T10:09:39.5004787+00:00"
 }

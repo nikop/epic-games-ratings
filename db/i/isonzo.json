@@ -1003,9 +1003,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 9487,
+  "EOS_Progressed": 9488,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9613,6 +9613,11 @@
       "Time": "2023-12-19T07:08:39.6900536+00:00",
       "NumProgressed": 9487,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-19T10:08:53.2127784+00:00",
+      "NumProgressed": 9488,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -9640,7 +9645,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4174
+      "UsersEstimate": 4175
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -9688,7 +9693,7 @@
       "Name": "Decimation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1897
+      "UsersEstimate": 1898
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -9704,7 +9709,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1139
     },
     {
       "ID": "ISONZO_ACH_DONATELLO",
@@ -9744,7 +9749,7 @@
       "Name": "Generalissimo",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ISONZO_ACH_INSUBORDINATION",
@@ -9792,7 +9797,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 3320
+      "UsersEstimate": 3321
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -9808,7 +9813,7 @@
       "Name": "\u0022O La Vittoria, O Tutti Accoppati\u0022",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ISONZO_ACH_PEAK_PERFORMANCE",
@@ -9864,7 +9869,7 @@
       "Name": "Shaken, Not Stirred",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1139
     },
     {
       "ID": "ISONZO_ACH_SILVER_LINING",
@@ -9872,7 +9877,7 @@
       "Name": "Silver Lining",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2561
+      "UsersEstimate": 2562
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -9952,7 +9957,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4838
+      "UsersEstimate": 4839
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -9976,14 +9981,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4838
+      "UsersEstimate": 4839
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9487,
+      "Progressed": 9488,
       "Completed": 10
     }
   ],
@@ -9991,8 +9996,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-18T21:59:02.9623745+00:00",
-  "LastChanged_Achievements": "2023-12-19T09:09:10.1732079+00:00",
+  "LastChanged_Achievements": "2023-12-19T10:08:53.2127781+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:27.7823002+00:00",
-  "LastUpdate_Ratings": "2023-12-19T08:59:50.6444248+00:00",
-  "LastUpdate_Achievements": "2023-12-19T09:09:10.1732776+00:00"
+  "LastUpdate_Ratings": "2023-12-19T09:59:32.9906602+00:00",
+  "LastUpdate_Achievements": "2023-12-19T10:08:53.2128473+00:00"
 }

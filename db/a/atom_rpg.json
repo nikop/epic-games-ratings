@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -403,9 +403,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1429,
+  "EOS_Progressed": 1430,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3453,6 +3453,11 @@
       "Time": "2023-12-19T08:09:11.9810986+00:00",
       "NumProgressed": 1429,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-19T10:09:49.0845445+00:00",
+      "NumProgressed": 1430,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -3520,7 +3525,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1415
+      "UsersEstimate": 1416
     },
     {
       "ID": "EXPERT_1",
@@ -3616,7 +3621,7 @@
       "Name": "One HIT wonder",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -3656,7 +3661,7 @@
       "Name": "Protection racket",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "RELICTS",
@@ -3696,7 +3701,7 @@
       "Name": "Secret room",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "SHOG",
@@ -3751,15 +3756,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1429,
+      "Progressed": 1430,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-11-03T17:57:55.7845483+00:00",
-  "LastChanged_Achievements": "2023-12-19T09:10:10.5078466+00:00",
+  "LastChanged_Achievements": "2023-12-19T10:09:49.0845443+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:19.4071615+00:00",
-  "LastUpdate_Ratings": "2023-12-19T08:57:12.8268769+00:00",
-  "LastUpdate_Achievements": "2023-12-19T09:10:10.507882+00:00"
+  "LastUpdate_Ratings": "2023-12-19T09:57:06.4453072+00:00",
+  "LastUpdate_Achievements": "2023-12-19T10:09:49.0845785+00:00"
 }
