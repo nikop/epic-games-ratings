@@ -9942,7 +9942,7 @@
       "Count": 1033
     }
   ],
-  "EOS_Progressed": 128673,
+  "EOS_Progressed": 128675,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 2126,
   "EOS_NewCompleters": 1,
@@ -35932,6 +35932,11 @@
       "Time": "2023-12-20T09:09:20.829108+00:00",
       "NumProgressed": 128673,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-20T10:09:01.4497893+00:00",
+      "NumProgressed": 128675,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35943,7 +35948,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2573
+      "UsersEstimate": 2574
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -35959,7 +35964,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2573
+      "UsersEstimate": 2574
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -36079,7 +36084,7 @@
       "Name": "Dissector",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2573
+      "UsersEstimate": 2574
     },
     {
       "ID": "combat_kill_cosmic",
@@ -36215,7 +36220,7 @@
       "Name": "It Happens",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2573
+      "UsersEstimate": 2574
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -36231,7 +36236,7 @@
       "Name": "Spelunker",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2573
+      "UsersEstimate": 2574
     },
     {
       "ID": "driving_biome_clear_city",
@@ -36239,7 +36244,7 @@
       "Name": "Rush Hour",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2573
+      "UsersEstimate": 2574
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -36247,7 +36252,7 @@
       "Name": "Merry Time",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2573
+      "UsersEstimate": 2574
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -36255,7 +36260,7 @@
       "Name": "Harvest Festival",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2573
+      "UsersEstimate": 2574
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -36263,7 +36268,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2573
+      "UsersEstimate": 2574
     },
     {
       "ID": "driving_distance_easy",
@@ -36271,7 +36276,7 @@
       "Name": "Ramble On",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2573
+      "UsersEstimate": 2574
     },
     {
       "ID": "driving_distance_hard",
@@ -36319,7 +36324,7 @@
       "Name": "Whale",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2573
+      "UsersEstimate": 2574
     },
     {
       "ID": "hospital_full_service",
@@ -36335,7 +36340,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2573
+      "UsersEstimate": 2574
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -36351,7 +36356,7 @@
       "Name": "FNG",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2573
+      "UsersEstimate": 2574
     },
     {
       "ID": "inn_visit_all_variants",
@@ -36381,9 +36386,9 @@
       "ID": "roster_confirm_all_memoried",
       "SetID": "64l4lke",
       "Name": "Eidetic",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 257
+      "UsersEstimate": 386
     },
     {
       "ID": "run_end_abandon",
@@ -36391,7 +36396,7 @@
       "Name": "Nope",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2573
+      "UsersEstimate": 2574
     },
     {
       "ID": "run_victory_act01",
@@ -36479,7 +36484,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "combat_kill_collector",
@@ -36574,21 +36579,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 128673,
+      "Progressed": 128675,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 3542,
+      "Progressed": 3544,
       "Completed": 802
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-20T06:59:09.654724+00:00",
-  "LastChanged_Achievements": "2023-12-20T09:09:20.8291077+00:00",
+  "LastChanged_Achievements": "2023-12-20T10:09:01.4497891+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-20T08:59:29.998558+00:00",
-  "LastUpdate_Achievements": "2023-12-20T09:09:20.8292628+00:00"
+  "LastUpdate_Ratings": "2023-12-20T09:59:30.7332772+00:00",
+  "LastUpdate_Achievements": "2023-12-20T10:09:01.4499421+00:00"
 }

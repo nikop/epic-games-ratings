@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~220 |
 | Release the Kraken | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,396 (Ranked 73)  
+Progressed: 220,402 (Ranked 73)  
 Completed: 101 (0.05%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,10 +295,10 @@ Completed: 101 (0.05%) (Ranked 332)
 | 2023-12-17 | 219,965 | 101 |
 | 2023-12-18 | 220,163 | 101 |
 | 2023-12-19 | 220,342 | 101 |
-| 2023-12-20 | 220,396 | 101 |
+| 2023-12-20 | 220,402 | 101 |
 ## Awards
 Max (Great for Beginners): 588  (Ranked 202)  
-Sum: 4,919 (Ranked 145)  
+Sum: 4,920 (Ranked 145)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
@@ -310,7 +310,7 @@ Diff (max vs sum): 57
 | This game is Relaxing | 500 |
 | This game is Highly Recommended | 498 |
 | This game has Challenging Combat | 497 |
-| This game has Quickly Understood Controls | 463 |
+| This game has Quickly Understood Controls | 464 |
 | This game has a Creative Community | 258 |
 | This game has Unique Visuals | 20 |
 ## Ratings History
@@ -556,3 +556,4 @@ Diff (max vs sum): 57
 | 2023-12-17 | 4.67 | - | 588 | 4,916 |
 | 2023-12-18 | 4.67 | - | 588 | 4,918 |
 | 2023-12-19 | 4.67 | - | 588 | 4,919 |
+| 2023-12-20 | 4.67 | - | 588 | 4,920 |

@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 689,
+  "EOS_Progressed": 690,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.31,
+  "EOS_Completed_Percentage": 1.3,
   "EosHistory": [
     {
       "Time": "2023-09-22T21:07:10.6425492+00:00",
@@ -2350,6 +2350,11 @@
       "Time": "2023-12-20T09:08:41.6464669+00:00",
       "NumProgressed": 689,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-20T10:06:54.2218542+00:00",
+      "NumProgressed": 690,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -2378,7 +2383,7 @@
       "Name": "Destroy Strogg Logistical Train",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH_eou3",
@@ -2386,7 +2391,7 @@
       "Name": "Destroy Security Grid",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ACH_eou4",
@@ -2394,7 +2399,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ACH_eou5",
@@ -2418,7 +2423,7 @@
       "Name": "Destroy the Big Gun",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ACH_eou8",
@@ -2465,14 +2470,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 689,
+      "Progressed": 690,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-20T09:08:41.6464667+00:00",
+  "LastChanged_Achievements": "2023-12-20T10:06:54.2218538+00:00",
   "LastUpdate_AppInfo": "2023-12-15T04:56:57.6157011+00:00",
-  "LastUpdate_Ratings": "2023-12-20T08:59:50.9359624+00:00",
-  "LastUpdate_Achievements": "2023-12-20T09:08:41.6464848+00:00"
+  "LastUpdate_Ratings": "2023-12-20T09:59:50.8320783+00:00",
+  "LastUpdate_Achievements": "2023-12-20T10:06:54.2218731+00:00"
 }

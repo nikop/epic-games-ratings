@@ -3,7 +3,7 @@
   "Name": "Spirit of the North",
   "ProductSlug": "spirit-of-the-north-f58a66",
   "Ranking_Rating": 789,
-  "Ranking_Popularity": 521,
+  "Ranking_Popularity": 522,
   "Ranking_PopularitySum": 449,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 209,
@@ -339,7 +339,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 77300,
+  "EOS_Progressed": 77301,
   "EOS_Completed": 414,
   "EOS_NewPlayers": 633,
   "EOS_NewCompleters": 3,
@@ -27209,6 +27209,11 @@
       "Time": "2023-12-20T09:09:38.2205832+00:00",
       "NumProgressed": 77300,
       "NumCompleted": 414
+    },
+    {
+      "Time": "2023-12-20T10:09:18.4902608+00:00",
+      "NumProgressed": 77301,
+      "NumCompleted": 414
     }
   ],
   "TotalAchievements": 24,
@@ -27236,7 +27241,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 53337
+      "UsersEstimate": 53338
     },
     {
       "ID": "BEST_FRIENDS",
@@ -27300,7 +27305,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 40969
+      "UsersEstimate": 40970
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -27411,7 +27416,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 77300,
+      "Progressed": 77301,
       "Completed": 414
     }
   ],
@@ -27419,8 +27424,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2023-12-20T09:09:38.2205824+00:00",
+  "LastChanged_Achievements": "2023-12-20T10:09:18.4902602+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:46.1287529+00:00",
-  "LastUpdate_Ratings": "2023-12-20T09:03:07.0394801+00:00",
-  "LastUpdate_Achievements": "2023-12-20T09:09:38.2207264+00:00"
+  "LastUpdate_Ratings": "2023-12-20T10:03:03.3420158+00:00",
+  "LastUpdate_Achievements": "2023-12-20T10:09:18.4904343+00:00"
 }

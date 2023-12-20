@@ -5,26 +5,26 @@ Rating: 4.74 (Ranked 161)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 6.00% | ~15,372 |
-| First of Many | 5.00% | ~12,810 |
-| Not Your Average Trait | 4.00% | ~10,248 |
-| Expanding Horizons | 3.00% | ~7,686 |
-| Gleaming the Cube | 3.00% | ~7,686 |
-| Quest for Survival | 3.00% | ~7,686 |
-| Familiar Face | 3.00% | ~7,686 |
-| Boss'n Up | 3.00% | ~7,686 |
-| Trait Chaser | 3.00% | ~7,686 |
-| Not So Special Now | 2.00% | ~5,124 |
-| Not a Janitor | 2.00% | ~5,124 |
-| Equal Measures | 2.00% | ~5,124 |
-| Blue Goddess | 2.00% | ~5,124 |
-| Duality | 2.00% | ~5,124 |
-| Top Performer | 2.00% | ~5,124 |
-| Shhh...It's a Secret | 2.00% | ~5,124 |
-| Was This Supposed To Happen? | 2.00% | ~5,124 |
-| Almost There | 2.00% | ~5,124 |
-| Make Some Room | 2.00% | ~5,124 |
-| Good, But Could Be Better! | 2.00% | ~5,124 |
+| The Killing Jar | 6.00% | ~15,375 |
+| First of Many | 5.00% | ~12,812 |
+| Not Your Average Trait | 4.00% | ~10,250 |
+| Expanding Horizons | 3.00% | ~7,687 |
+| Gleaming the Cube | 3.00% | ~7,687 |
+| Quest for Survival | 3.00% | ~7,687 |
+| Familiar Face | 3.00% | ~7,687 |
+| Boss'n Up | 3.00% | ~7,687 |
+| Trait Chaser | 3.00% | ~7,687 |
+| Not So Special Now | 2.00% | ~5,125 |
+| Not a Janitor | 2.00% | ~5,125 |
+| Equal Measures | 2.00% | ~5,125 |
+| Blue Goddess | 2.00% | ~5,125 |
+| Duality | 2.00% | ~5,125 |
+| Top Performer | 2.00% | ~5,125 |
+| Shhh...It's a Secret | 2.00% | ~5,125 |
+| Was This Supposed To Happen? | 2.00% | ~5,125 |
+| Almost There | 2.00% | ~5,125 |
+| Make Some Room | 2.00% | ~5,125 |
+| Good, But Could Be Better! | 2.00% | ~5,125 |
 | Am I Seeing This? | 1.00% | ~2,562 |
 | Chaos | 1.00% | ~2,562 |
 | Traitor | 1.00% | ~2,562 |
@@ -46,8 +46,8 @@ Rating: 4.74 (Ranked 161)
 | Carnage in C-Minor | 0.80% | ~2,050 |
 | The Ultimate Weapon | 0.80% | ~2,050 |
 | No One Should Have All That Power | 0.80% | ~2,050 |
-| Tall Tales | 0.70% | ~1,793 |
-| Transmutate | 0.70% | ~1,793 |
+| Tall Tales | 0.70% | ~1,794 |
+| Transmutate | 0.70% | ~1,794 |
 | Only Human | 0.60% | ~1,537 |
 | Red Room | 0.60% | ~1,537 |
 | Maxed Out! | 0.50% | ~1,281 |
@@ -61,7 +61,7 @@ Rating: 4.74 (Ranked 161)
 | You Shall Pass | 0.30% | ~106 |
 | A Foul Feast | 0.20% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 256,194 (Ranked 61)  
+Progressed: 256,242 (Ranked 61)  
 Completed: 608 (0.24%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 608 (0.24%) (Ranked 261)
 | 2023-12-17 | 252,137 | 598 |
 | 2023-12-18 | 254,063 | 603 |
 | 2023-12-19 | 255,737 | 607 |
-| 2023-12-20 | 256,194 | 608 |
+| 2023-12-20 | 256,242 | 608 |
 ## Awards
 Max (Great Boss Battles): 3,117  (Ranked 98)  
 Sum: 7,528 (Ranked 114)  

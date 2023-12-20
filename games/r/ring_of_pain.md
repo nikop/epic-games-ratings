@@ -9,12 +9,13 @@ Number of Ratings: 15,086  (23.09.2022)
 | First Steps | 1.00% | ~2,413 |
 | Matching | 1.00% | ~28 |
 | Uncharted Territory | 0.90% | ~2,172 |
-| Not Touching You | 0.80% | ~22 |
+| Not Touching You | 0.80% | ~23 |
 | Heavy Hitter | 0.70% | ~1,689 |
 | Getting A Glimpse | 0.70% | ~1,689 |
 | That Was Quick | 0.70% | ~1,689 |
 | Colorful Corpse | 0.70% | ~1,689 |
 | Defeat The Dark | 0.70% | ~1,689 |
+| Goodbye, Frog Friend | 0.70% | ~1,689 |
 | A Donation | 0.70% | ~1,689 |
 | A Quick Escape | 0.70% | ~1,689 |
 | Explorer | 0.70% | ~1,689 |
@@ -24,7 +25,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Delving Deeper | 0.60% | ~1,448 |
 | R.I.P | 0.60% | ~1,448 |
 | The Bestiary | 0.60% | ~1,448 |
-| Goodbye, Frog Friend | 0.60% | ~1,448 |
 | Heartless | 0.60% | ~1,448 |
 | What's Yours Is Mine | 0.60% | ~1,448 |
 | Spine Breaker | 0.60% | ~1,448 |
@@ -71,7 +71,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Achievement Hunter | 0.20% | ~483 |
 | Challenge Increases | 0.20% | ~483 |
 | A Long Climb | 0.20% | ~483 |
-| Dead Revels | 0.20% | ~483 |
 | New Game+ | 0.20% | ~483 |
 | Barbecue | 0.20% | ~483 |
 | Explosive Betrayal | 0.20% | ~483 |
@@ -98,6 +97,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | A Week Attempt | 0.10% | ~241 |
 | Hydrophobe | 0.10% | ~241 |
 | Disposal | 0.10% | ~241 |
+| Dead Revels | 0.10% | ~241 |
 | Friend of Vermin | 0.10% | ~241 |
 | Hanging On | 0.10% | ~241 |
 | A Hard Carry | 0.10% | ~241 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,332 (Ranked 66)  
+Progressed: 241,334 (Ranked 66)  
 Completed: 300 (0.12%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -389,7 +389,7 @@ Completed: 300 (0.12%) (Ranked 295)
 | 2023-12-17 | 241,211 | 299 |
 | 2023-12-18 | 241,266 | 299 |
 | 2023-12-19 | 241,311 | 300 |
-| 2023-12-20 | 241,332 | 300 |
+| 2023-12-20 | 241,334 | 300 |
 ## Awards
 Max (Quickly Understood Controls): 1,511  (Ranked 134)  
 Sum: 11,746 (Ranked 88)  

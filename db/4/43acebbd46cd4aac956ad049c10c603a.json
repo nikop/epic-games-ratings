@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 161,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -2994,9 +2994,9 @@
       "ID": "NewBeginning",
       "SetID": "1n308hc",
       "Name": "A New Beginning",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 42
+      "UsersEstimate": 53
     },
     {
       "ID": "NewMorality",
@@ -3243,8 +3243,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-20T09:05:00.4370106+00:00",
+  "LastChanged_Achievements": "2023-12-20T10:04:55.9356801+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-20T08:59:40.2067699+00:00",
-  "LastUpdate_Achievements": "2023-12-20T09:05:00.437068+00:00"
+  "LastUpdate_Ratings": "2023-12-20T09:59:40.5144519+00:00",
+  "LastUpdate_Achievements": "2023-12-20T10:04:55.935727+00:00"
 }

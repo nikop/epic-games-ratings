@@ -5,34 +5,34 @@ Rating: 4.88 (Ranked 17)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 48.00% | ~682 |
-| Welcome to the Tower | 43.00% | ~611 |
-| The great escape | 36.00% | ~511 |
-| The Preacher's fate | 34.00% | ~483 |
-| A new dawn | 29.00% | ~412 |
-| Scholar | 25.00% | ~355 |
-| True G3M4R | 24.00% | ~341 |
-| The darkness | 24.00% | ~341 |
+| That's the spirit | 48.00% | ~683 |
+| Welcome to the Tower | 43.00% | ~612 |
+| The great escape | 36.00% | ~512 |
+| The Preacher's fate | 34.00% | ~484 |
+| A new dawn | 28.00% | ~398 |
+| Scholar | 25.00% | ~356 |
+| True G3M4R | 24.00% | ~342 |
+| The darkness | 24.00% | ~342 |
 | A good beginning | 23.00% | ~327 |
-| One last step | 21.00% | ~298 |
-| I did it | 20.00% | ~284 |
-| Cable guy | 20.00% | ~284 |
-| Half the way | 20.00% | ~284 |
+| One last step | 21.00% | ~299 |
+| I did it | 20.00% | ~285 |
+| Cable guy | 20.00% | ~285 |
+| Half the way | 20.00% | ~285 |
 | In this together | 19.00% | ~270 |
 | Peace walker | 19.00% | ~270 |
 | Champollion | 19.00% | ~270 |
 | Rascal | 18.00% | ~256 |
-| Open door | 17.00% | ~241 |
-| Feels like springtime | 16.00% | ~227 |
-| Alchemists Express | 16.00% | ~227 |
+| Open door | 17.00% | ~242 |
+| Feels like springtime | 16.00% | ~228 |
+| Alchemists Express | 16.00% | ~228 |
 | Free at last | 14.00% | ~199 |
 | A Link to the Past | 13.00% | ~185 |
 | A great audience | 10.00% | ~142 |
 | For its own good | 10.00% | ~142 |
 | Fashion victim | 6.00% | ~85 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,420 (Ranked 252)  
-Completed: 75 (5.28%) (Ranked 75)  
+Progressed: 1,423 (Ranked 252)  
+Completed: 75 (5.27%) (Ranked 75)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -182,7 +182,7 @@ Completed: 75 (5.28%) (Ranked 75)
 | 2023-12-17 | 1,295 | 69 |
 | 2023-12-18 | 1,357 | 72 |
 | 2023-12-19 | 1,407 | 75 |
-| 2023-12-20 | 1,420 | 75 |
+| 2023-12-20 | 1,423 | 75 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

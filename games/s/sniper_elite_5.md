@@ -1,16 +1,16 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.44 (Ranked 685)  
+Rating: 4.45 (Ranked 673)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,909 |
+| Meeting Resistance | 47.00% | ~1,910 |
 | Confirming Suspicions | 42.00% | ~1,706 |
 | The Kraken Wakes | 37.00% | ~1,503 |
 | It's Starting to Crack | 34.00% | ~1,381 |
-| Lord of War | 31.00% | ~1,259 |
-| Change the Channel | 31.00% | ~1,259 |
+| Change the Channel | 31.00% | ~1,260 |
+| Lord of War | 30.00% | ~1,219 |
 | Taking it back | 29.00% | ~1,178 |
 | Resourceful | 27.00% | ~1,097 |
 | Target America | 27.00% | ~1,097 |
@@ -26,10 +26,10 @@ Rating: 4.44 (Ranked 685)
 | Der Geist | 17.00% | ~691 |
 | Close Quarters | 16.00% | ~650 |
 | Snake in the Grass | 16.00% | ~650 |
-| No Stone Unturned | 15.00% | ~609 |
 | Skirmisher | 15.00% | ~609 |
 | Die Nussknacker Sweet! | 15.00% | ~609 |
 | Brains of the Operation | 15.00% | ~609 |
+| No Stone Unturned | 14.00% | ~569 |
 | Opposing Force | 14.00% | ~569 |
 | Enemy at the Gates | 14.00% | ~569 |
 | Fields of Glory | 14.00% | ~569 |
@@ -48,7 +48,7 @@ Rating: 4.44 (Ranked 685)
 | Last Resort | 5.00% | ~201 |
 | Siegebreaker | 5.00% | ~201 |
 | Ghost of Falaise | 5.00% | ~201 |
-| Locomotion Commotion | 4.00% | ~162 |
+| Locomotion Commotion | 4.00% | ~163 |
 | From Paris with Love | 3.00% | ~122 |
 | Burn after reading | 3.00% | ~122 |
 | Souvenir hunter | 3.00% | ~122 |
@@ -71,13 +71,13 @@ Rating: 4.44 (Ranked 685)
 | Alpha | 1.00% | ~40 |
 | Das Familienjuwel | 1.00% | ~40 |
 | Master of Rifles | 0.90% | ~37 |
-| Master of Pistols | 0.80% | ~32 |
+| Master of Pistols | 0.80% | ~33 |
 | Operation Overlord | 0.70% | ~28 |
 | Master-at-arms | 0.60% | ~24 |
 | Going Overboard | 0.60% | ~24 |
 | Stroll in the Woods | 0.50% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,062 (Ranked 204)  
+Progressed: 4,063 (Ranked 204)  
 Completed: 11 (0.27%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,10 +319,10 @@ Completed: 11 (0.27%) (Ranked 255)
 | 2023-12-17 | 4,049 | 11 |
 | 2023-12-18 | 4,057 | 11 |
 | 2023-12-19 | 4,060 | 11 |
-| 2023-12-20 | 4,062 | 11 |
+| 2023-12-20 | 4,063 | 11 |
 ## Awards
-Max (Great for Beginners): 28  (Ranked 517)  
-Sum: 28 (Ranked 531)  
+Max (Great for Beginners): 28  (Ranked 518)  
+Sum: 28 (Ranked 532)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -425,3 +425,4 @@ Diff (max vs sum): -14
 | 2023-11-29 | 4.44 | 27 | 27 |
 | 2023-12-07 | 4.43 | 28 | 28 |
 | 2023-12-12 | 4.44 | 28 | 28 |
+| 2023-12-20 | 4.45 | 28 | 28 |

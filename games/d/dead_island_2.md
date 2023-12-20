@@ -5,34 +5,34 @@ Rating: 4.54 (Ranked 531)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 5.00% | ~37,658 |
-| Break A Leg | 4.00% | ~30,127 |
-| Hotel California | 4.00% | ~30,127 |
-| Git Gutte! | 3.00% | ~22,595 |
-| Coup de Grâce | 3.00% | ~22,595 |
-| Hazardous Materials | 3.00% | ~22,595 |
-| Friends Like These | 3.00% | ~22,595 |
-| Apex Predator | 3.00% | ~22,595 |
-| Personal Assistant Personally Assisted | 3.00% | ~22,595 |
-| One of Us | 3.00% | ~2,361 |
-| Whatever It Takes | 3.00% | ~2,361 |
-| Pork Chopped | 3.00% | ~2,361 |
-| Dr. Reed, I Presume? | 2.00% | ~15,063 |
-| Anger Management | 2.00% | ~15,063 |
-| Perks of the Job | 2.00% | ~15,063 |
-| Bookworm | 2.00% | ~15,063 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~15,063 |
-| But Doctor, I am Butcho | 2.00% | ~15,063 |
-| Slayer Squad | 2.00% | ~15,063 |
-| Can't Handle the Truth | 2.00% | ~15,063 |
-| Like Riding a Bike | 2.00% | ~15,063 |
-| Zombologist | 2.00% | ~15,063 |
-| Ooh, Shiny! | 2.00% | ~15,063 |
-| A Patton Emerges | 2.00% | ~15,063 |
-| I Am the Resurrection | 2.00% | ~15,063 |
-| Stacking the Deck | 2.00% | ~15,063 |
-| Our True Nature | 2.00% | ~15,063 |
-| This is My Weapon | 2.00% | ~15,063 |
+| Welcome To Hell-A | 5.00% | ~37,661 |
+| Break A Leg | 4.00% | ~30,129 |
+| Hotel California | 4.00% | ~30,129 |
+| Git Gutte! | 3.00% | ~22,597 |
+| Coup de Grâce | 3.00% | ~22,597 |
+| Hazardous Materials | 3.00% | ~22,597 |
+| Friends Like These | 3.00% | ~22,597 |
+| Apex Predator | 3.00% | ~22,597 |
+| Personal Assistant Personally Assisted | 3.00% | ~22,597 |
+| One of Us | 3.00% | ~2,363 |
+| Whatever It Takes | 3.00% | ~2,363 |
+| Pork Chopped | 3.00% | ~2,363 |
+| Dr. Reed, I Presume? | 2.00% | ~15,064 |
+| Anger Management | 2.00% | ~15,064 |
+| Perks of the Job | 2.00% | ~15,064 |
+| Bookworm | 2.00% | ~15,064 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~15,064 |
+| But Doctor, I am Butcho | 2.00% | ~15,064 |
+| Slayer Squad | 2.00% | ~15,064 |
+| Can't Handle the Truth | 2.00% | ~15,064 |
+| Like Riding a Bike | 2.00% | ~15,064 |
+| Zombologist | 2.00% | ~15,064 |
+| Ooh, Shiny! | 2.00% | ~15,064 |
+| A Patton Emerges | 2.00% | ~15,064 |
+| I Am the Resurrection | 2.00% | ~15,064 |
+| Stacking the Deck | 2.00% | ~15,064 |
+| Our True Nature | 2.00% | ~15,064 |
+| This is My Weapon | 2.00% | ~15,064 |
 | Making Your Mark | 1.00% | ~7,532 |
 | Jumbo Keyring | 1.00% | ~7,532 |
 | Humanity Distilled | 1.00% | ~7,532 |
@@ -40,25 +40,25 @@ Rating: 4.54 (Ranked 531)
 | Max Headroom | 1.00% | ~7,532 |
 | Go, Bobcats! | 1.00% | ~7,532 |
 | Rising Star | 1.00% | ~7,532 |
-| Not Even My Final Form | 0.90% | ~6,778 |
-| Smorgasbord | 0.80% | ~6,025 |
-| Internet Famous | 0.80% | ~6,025 |
-| Make it So | 0.70% | ~5,272 |
-| On Safari | 0.70% | ~5,272 |
-| Variety is the Spice of Death | 0.70% | ~5,272 |
+| Not Even My Final Form | 0.90% | ~6,779 |
+| Smorgasbord | 0.80% | ~6,026 |
+| Internet Famous | 0.80% | ~6,026 |
+| Make it So | 0.70% | ~5,273 |
+| On Safari | 0.70% | ~5,273 |
+| Variety is the Spice of Death | 0.70% | ~5,273 |
 | LA Influential | 0.50% | ~3,766 |
 | Sole Survivor | 0.50% | ~3,766 |
 | Gore Horse | 0.50% | ~3,766 |
 | Sharpest Tool in the Box | 0.50% | ~3,766 |
 | Top That, Tisha! | 0.40% | ~315 |
-| Survival Skills | 0.30% | ~2,259 |
+| Survival Skills | 0.30% | ~2,260 |
 | Donk! | 0.20% | ~1,506 |
-| Lawn and Order | 0.20% | ~157 |
+| Lawn and Order | 0.20% | ~158 |
 | Bucket List | 0.10% | ~753 |
 | Wilhelm | 0.10% | ~79 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 753,165 (Ranked 21)  
-Completed: 2,488 (0.33%) (Ranked 244)  
+Progressed: 753,219 (Ranked 21)  
+Completed: 2,488 (0.33%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -301,7 +301,7 @@ Completed: 2,488 (0.33%) (Ranked 244)
 | 2023-12-17 | 748,324 | 2,488 |
 | 2023-12-18 | 750,555 | 2,489 |
 | 2023-12-19 | 752,530 | 2,488 |
-| 2023-12-20 | 753,165 | 2,488 |
+| 2023-12-20 | 753,219 | 2,488 |
 ## Awards
 Max (Great Boss Battles): 8,406  (Ranked 47)  
 Sum: 12,893 (Ranked 80)  

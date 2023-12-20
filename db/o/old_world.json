@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 161,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2166,9 +2166,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15845,
+  "EOS_Progressed": 15846,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17991,6 +17991,11 @@
       "Time": "2023-12-20T08:09:25.0310913+00:00",
       "NumProgressed": 15845,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-20T10:09:25.4597047+00:00",
+      "NumProgressed": 15846,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -18320,9 +18325,9 @@
       "ID": "ACHIEVEMENT_CLEOPATRAS_LOVE",
       "SetID": "9201eeb",
       "Name": "Cleopatra\u0027s Love",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_ABLE",
@@ -20865,21 +20870,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15845,
+      "Progressed": 15846,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15845,
+      "Progressed": 15846,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-19T18:02:53.2051748+00:00",
-  "LastChanged_Achievements": "2023-12-20T09:09:45.1537277+00:00",
+  "LastChanged_Achievements": "2023-12-20T10:09:25.4597044+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:47.4773202+00:00",
-  "LastUpdate_Ratings": "2023-12-20T09:03:08.5336801+00:00",
-  "LastUpdate_Achievements": "2023-12-20T09:09:45.1547143+00:00"
+  "LastUpdate_Ratings": "2023-12-20T10:03:04.8828763+00:00",
+  "LastUpdate_Achievements": "2023-12-20T10:09:25.4606597+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "sir-whoopass-757c5c",
   "Ranking_EOS_Progress": 430,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 482,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 481,
+  "Ranking_EOS_NewCompleters": 161,
   "Store": {
     "ReleaseDate": "2023-05-19T23:00:00+00:00",
     "PcReleaseDate": "2022-08-18T17:00:00+00:00",
@@ -1218,9 +1218,9 @@
       "ID": "SHARK",
       "SetID": "9gfkh7c",
       "Name": "Meat grinder",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 84
     },
     {
       "ID": "SKELETON_1",
@@ -1281,8 +1281,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-12-20T09:10:09.1119909+00:00",
+  "LastChanged_Achievements": "2023-12-20T10:09:48.5081759+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:14.2372178+00:00",
-  "LastUpdate_Ratings": "2023-12-20T09:03:19.2678234+00:00",
-  "LastUpdate_Achievements": "2023-12-20T09:10:09.1120636+00:00"
+  "LastUpdate_Ratings": "2023-12-20T10:03:15.3489841+00:00",
+  "LastUpdate_Achievements": "2023-12-20T10:09:48.508247+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 567,
   "Ranking_PopularitySum": 567,
   "Ranking_EOS_Progress": 265,
-  "Ranking_EOS_Completed": 122,
+  "Ranking_EOS_Completed": 120,
   "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -149,11 +149,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1221,
-  "EOS_Completed": 32,
-  "EOS_NewPlayers": 101,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.62,
+  "EOS_Progressed": 1222,
+  "EOS_Completed": 33,
+  "EOS_NewPlayers": 102,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 2.7,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -4134,6 +4134,11 @@
       "Time": "2023-12-20T06:04:31.7489147+00:00",
       "NumProgressed": 1221,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-12-20T10:04:08.5432532+00:00",
+      "NumProgressed": 1222,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4146,7 +4151,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -4154,7 +4159,7 @@
       "Name": "A New Journey",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "_03_FinishAct1",
@@ -4162,7 +4167,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -4178,7 +4183,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -4186,7 +4191,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "_07_FinishAct3",
@@ -4282,7 +4287,7 @@
       "Name": "Fully Decked",
       "Percentage": 7,
       "XP": 125,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "_19_CrewTale_BSP",
@@ -4290,7 +4295,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -4353,16 +4358,16 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1221,
-      "Completed": 32
+      "Progressed": 1222,
+      "Completed": 33
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-13T23:58:37.390497+00:00",
-  "LastChanged_Achievements": "2023-12-20T09:04:12.4731372+00:00",
+  "LastChanged_Achievements": "2023-12-20T10:04:08.5432526+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:17.2609478+00:00",
-  "LastUpdate_Ratings": "2023-12-20T08:58:00.4440585+00:00",
-  "LastUpdate_Achievements": "2023-12-20T09:04:12.4731765+00:00"
+  "LastUpdate_Ratings": "2023-12-20T09:58:03.51638+00:00",
+  "LastUpdate_Achievements": "2023-12-20T10:04:08.5432825+00:00"
 }

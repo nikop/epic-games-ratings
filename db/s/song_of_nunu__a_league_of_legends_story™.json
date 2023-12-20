@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 567,
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -59,7 +59,7 @@
   "Tags": [],
   "EOS_Progressed": 1246,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -3071,9 +3071,9 @@
       "ID": "EV_ACH04",
       "SetID": "6jeac23",
       "Name": "No Bites",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 673
+      "UsersEstimate": 685
     },
     {
       "ID": "EV_ACH05",
@@ -3151,9 +3151,9 @@
       "ID": "EV_ACH14",
       "SetID": "6jeac23",
       "Name": "Boom Things",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 648
+      "UsersEstimate": 660
     },
     {
       "ID": "EV_ACH15",
@@ -3408,8 +3408,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-18T18:59:32.6243964+00:00",
-  "LastChanged_Achievements": "2023-12-20T09:10:07.4569031+00:00",
+  "LastChanged_Achievements": "2023-12-20T10:09:46.9724652+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:41.6283728+00:00",
-  "LastUpdate_Ratings": "2023-12-20T09:00:19.7536496+00:00",
-  "LastUpdate_Achievements": "2023-12-20T09:10:07.4569456+00:00"
+  "LastUpdate_Ratings": "2023-12-20T10:00:18.7736159+00:00",
+  "LastUpdate_Achievements": "2023-12-20T10:09:46.9725743+00:00"
 }

@@ -20,8 +20,8 @@
 | Health | 15.00% | ~15 |
 | Awaiting orders | 12.00% | ~12 |
 | Jigsaw | 12.00% | ~12 |
+| Peace | 12.00% | ~12 |
 | Art critic | 11.00% | ~11 |
-| Peace | 11.00% | ~11 |
 | Lost | 8.00% | ~8 |
 | An act of courage | 7.00% | ~7 |
 | An act of compassion | 5.00% | ~5 |

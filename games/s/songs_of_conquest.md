@@ -21,9 +21,9 @@ Number of Ratings: 292  (23.09.2022)
 | Don't Touch My Stuff | 4.00% | ~23 |
 | Trojan Horse | 4.00% | ~23 |
 | The Song of Stoutheart | 3.00% | ~17 |
+| This Spot's Taken | 3.00% | ~17 |
 | Expert Essence Employment | 3.00% | ~17 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~17 |
-| This Spot's Taken | 2.00% | ~12 |
 | Deepstrike | 2.00% | ~12 |
 | Ultra Kill | 2.00% | ~12 |
 | Pyrrhic Victory | 2.00% | ~12 |
@@ -103,9 +103,9 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-19 | 575 | 0 |
 | 2023-12-20 | 581 | 0 |
 ## Awards
-Max (Quickly Understood Controls): 27  (Ranked 521)  
+Max (Quickly Understood Controls): 27  (Ranked 522)  
 Sum: 194 (Ranked 412)  
-Diff (max vs sum): 109  
+Diff (max vs sum): 110  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 27 |

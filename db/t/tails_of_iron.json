@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 567,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 321,
+  "Ranking_EOS_NewCompleters": 161,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2258,
+  "EOS_Progressed": 2259,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -4048,6 +4048,11 @@
       "Time": "2023-12-19T17:08:12.4283979+00:00",
       "NumProgressed": 2258,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-20T10:03:28.8762152+00:00",
+      "NumProgressed": 2259,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 36,
@@ -4169,9 +4174,9 @@
       "ID": "DefeatMoziQueen",
       "SetID": "9lj35g4",
       "Name": "End of the Mozis",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "DefeatRatnorRodentson",
@@ -4346,13 +4351,13 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2258,
+      "Progressed": 2259,
       "Completed": 12
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 899,
+      "Progressed": 900,
       "Completed": 897
     }
   ],
@@ -4360,8 +4365,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-12-16T18:59:01.3536966+00:00",
-  "LastChanged_Achievements": "2023-12-20T09:03:31.8396645+00:00",
+  "LastChanged_Achievements": "2023-12-20T10:03:28.8762149+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:33.7739845+00:00",
-  "LastUpdate_Ratings": "2023-12-20T08:57:25.6344511+00:00",
-  "LastUpdate_Achievements": "2023-12-20T09:03:31.8397561+00:00"
+  "LastUpdate_Ratings": "2023-12-20T09:57:29.7347071+00:00",
+  "LastUpdate_Achievements": "2023-12-20T10:03:28.8762732+00:00"
 }

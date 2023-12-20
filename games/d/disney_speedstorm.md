@@ -5,15 +5,15 @@ Rating: 4.40 (Ranked 747)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 12.00% | ~41,671 |
-| IT MAKES BOOM! | 8.00% | ~27,780 |
-| EXTRA BOOST | 6.00% | ~20,835 |
-| PROTECTED | 5.00% | ~17,363 |
-| HERE ARE SOME BARE NECESSITIES | 4.00% | ~13,890 |
-| PRO | 4.00% | ~13,890 |
-| AGGRESSIVE RACER | 3.00% | ~10,418 |
-| IT'S A LONG WAY TO THE TOP | 2.00% | ~6,945 |
-| A TIGER'S FEAR | 2.00% | ~6,945 |
+| ROOKIE | 12.00% | ~41,674 |
+| IT MAKES BOOM! | 8.00% | ~27,783 |
+| EXTRA BOOST | 6.00% | ~20,837 |
+| PROTECTED | 5.00% | ~17,364 |
+| HERE ARE SOME BARE NECESSITIES | 4.00% | ~13,891 |
+| PRO | 4.00% | ~13,891 |
+| AGGRESSIVE RACER | 3.00% | ~10,419 |
+| IT'S A LONG WAY TO THE TOP | 2.00% | ~6,946 |
+| A TIGER'S FEAR | 2.00% | ~6,946 |
 | TRAINING HARD | 1.00% | ~3,473 |
 | RELEASE THE KRAKEN | 1.00% | ~3,473 |
 | BE OUR GUEST | 1.00% | ~3,473 |
@@ -21,17 +21,17 @@ Rating: 4.40 (Ranked 747)
 | FRIENDLY | 1.00% | ~3,473 |
 | MASTER | 1.00% | ~3,473 |
 | LEGENDARY HERO | 1.00% | ~3,473 |
-| DEFEAT OUR CHAMPION | 0.90% | ~3,125 |
-| ACE DEFENDER | 0.90% | ~3,125 |
-| THE EYE OF THE HUNTER | 0.90% | ~3,125 |
+| DEFEAT OUR CHAMPION | 0.90% | ~3,126 |
+| ACE DEFENDER | 0.90% | ~3,126 |
+| THE EYE OF THE HUNTER | 0.90% | ~3,126 |
 | EXPERIENCED CREW | 0.80% | ~2,778 |
 | ACE BRAWLER | 0.80% | ~2,778 |
 | FRAMED! | 0.60% | ~2,084 |
 | PERFECTLY POISED | 0.50% | ~1,736 |
 | ACE TRICKSTER | 0.50% | ~1,736 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 347,256 (Ranked 50)  
-Completed: 980 (0.28%) (Ranked 252)  
+Progressed: 347,285 (Ranked 50)  
+Completed: 981 (0.28%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -270,7 +270,7 @@ Completed: 980 (0.28%) (Ranked 252)
 | 2023-12-17 | 344,133 | 919 |
 | 2023-12-18 | 345,440 | 949 |
 | 2023-12-19 | 346,758 | 975 |
-| 2023-12-20 | 347,256 | 980 |
+| 2023-12-20 | 347,285 | 981 |
 ## Awards
 Max (Great for Beginners): 147  (Ranked 323)  
 Sum: 944 (Ranked 272)  

@@ -5,7 +5,7 @@ Rating: 4.56 (Ranked 497)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| End of the Mozis | 0.30% | ~7 |
+| End of the Mozis | 0.40% | ~9 |
 | Throne Room Fit For A King | 0.30% | ~7 |
 | Meet the Creatures from the Deep | 0.20% | ~5 |
 | Return Power To The Depths | 0.20% | ~5 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 497)
 | Complete Ranger Faction | 0.00% | ~0 |
 | A new Warchief rises | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,258 (Ranked 230)  
+Progressed: 2,259 (Ranked 230)  
 Completed: 12 (0.53%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,6 +241,7 @@ Completed: 12 (0.53%) (Ranked 212)
 | 2023-12-17 | 2,255 | 12 |
 | 2023-12-18 | 2,256 | 12 |
 | 2023-12-19 | 2,258 | 12 |
+| 2023-12-20 | 2,259 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

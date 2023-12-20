@@ -4,8 +4,8 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 161,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 321,
+  "EOS_Progressed": 322,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
@@ -1394,6 +1394,11 @@
       "Time": "2023-12-20T08:04:52.3713403+00:00",
       "NumProgressed": 321,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-20T10:05:14.1110653+00:00",
+      "NumProgressed": 322,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -1406,7 +1411,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 91,
       "XP": 50,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -1430,7 +1435,7 @@
       "Name": "Amusement Park",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
@@ -1446,7 +1451,7 @@
       "Name": "Fisherman",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -1478,7 +1483,7 @@
       "Name": "A Party to Remember!",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "LUNCH_LEECH",
@@ -1526,7 +1531,7 @@
       "Name": "Bridge Builder",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "SLEEP_50_HOURS",
@@ -1550,7 +1555,7 @@
       "Name": "Uppies!",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -1558,21 +1563,21 @@
       "Name": "Strong Signal",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     }
   ],
   "AchievementSets": [
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 321,
+      "Progressed": 322,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-20T09:05:19.0811239+00:00",
+  "LastChanged_Achievements": "2023-12-20T10:05:14.1110648+00:00",
   "LastUpdate_AppInfo": "2023-12-13T21:57:03.1278188+00:00",
-  "LastUpdate_Ratings": "2023-12-20T08:59:04.6615823+00:00",
-  "LastUpdate_Achievements": "2023-12-20T09:05:19.0811423+00:00"
+  "LastUpdate_Ratings": "2023-12-20T09:59:05.8590479+00:00",
+  "LastUpdate_Achievements": "2023-12-20T10:05:14.1110851+00:00"
 }

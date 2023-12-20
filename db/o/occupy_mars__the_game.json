@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 356,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 161,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -325,7 +325,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1796,
+  "EOS_Progressed": 1797,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
@@ -4640,6 +4640,11 @@
       "Time": "2023-12-19T19:08:32.5809403+00:00",
       "NumProgressed": 1796,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T10:08:57.5934062+00:00",
+      "NumProgressed": 1797,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4907,7 +4912,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -4921,9 +4926,9 @@
       "ID": "NEW_ACHIEVEMENT_OCCUPY_MARS",
       "SetID": "l546gc",
       "Name": "Occupy Mars!",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 557
+      "UsersEstimate": 539
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -5034,7 +5039,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1796,
+      "Progressed": 1797,
       "Completed": 0
     }
   ],
@@ -5042,8 +5047,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-12-19T01:49:45.9320817+00:00",
-  "LastChanged_Achievements": "2023-12-20T09:09:17.1000148+00:00",
+  "LastChanged_Achievements": "2023-12-20T10:08:57.5934057+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:56:59.196607+00:00",
-  "LastUpdate_Ratings": "2023-12-20T08:57:52.1000224+00:00",
-  "LastUpdate_Achievements": "2023-12-20T09:09:17.1000906+00:00"
+  "LastUpdate_Ratings": "2023-12-20T09:57:55.3669868+00:00",
+  "LastUpdate_Achievements": "2023-12-20T10:08:57.5934518+00:00"
 }

@@ -16886,9 +16886,9 @@
       "Count": 16220
     }
   ],
-  "EOS_Progressed": 978989,
+  "EOS_Progressed": 979008,
   "EOS_Completed": 2945,
-  "EOS_NewPlayers": 3761,
+  "EOS_NewPlayers": 3760,
   "EOS_NewCompleters": 54,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -44696,6 +44696,11 @@
       "Time": "2023-12-20T09:05:53.006811+00:00",
       "NumProgressed": 978989,
       "NumCompleted": 2945
+    },
+    {
+      "Time": "2023-12-20T10:05:48.0878513+00:00",
+      "NumProgressed": 979008,
+      "NumCompleted": 2945
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -44732,7 +44737,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 48949
+      "UsersEstimate": 48950
     },
     {
       "ID": "Denied",
@@ -44740,7 +44745,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 58739
+      "UsersEstimate": 58740
     },
     {
       "ID": "FollowingTheRiver",
@@ -44780,7 +44785,7 @@
       "Name": "Gun Fu",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 78319
+      "UsersEstimate": 78321
     },
     {
       "ID": "Gunslinger",
@@ -44924,7 +44929,7 @@
       "Name": "The Fool",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 68529
+      "UsersEstimate": 68531
     },
     {
       "ID": "TheHermit",
@@ -44948,7 +44953,7 @@
       "Name": "The Lovers",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 48949
+      "UsersEstimate": 48950
     },
     {
       "ID": "TheStar",
@@ -45036,7 +45041,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 117479
+      "UsersEstimate": 117481
     },
     {
       "ID": "YipMan",
@@ -45148,7 +45153,7 @@
       "Name": "Relic Ruler",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 3228
+      "UsersEstimate": 3229
     },
     {
       "ID": "UltimateSurvivor",
@@ -45164,7 +45169,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 4304
+      "UsersEstimate": 4305
     },
     {
       "ID": "HydraIsDead",
@@ -45180,7 +45185,7 @@
       "Name": "Arachnophobia",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 4304
+      "UsersEstimate": 4305
     },
     {
       "ID": "KingOfTheCups",
@@ -45243,21 +45248,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 978989,
+      "Progressed": 979008,
       "Completed": 2945
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 107612,
+      "Progressed": 107631,
       "Completed": 10422
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-12-20T03:02:52.9469072+00:00",
-  "LastChanged_Achievements": "2023-12-20T09:05:53.0068107+00:00",
+  "LastChanged_Achievements": "2023-12-20T10:05:48.0878509+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:11.4044836+00:00",
-  "LastUpdate_Ratings": "2023-12-20T09:03:15.4428512+00:00",
-  "LastUpdate_Achievements": "2023-12-20T09:05:53.0069806+00:00"
+  "LastUpdate_Ratings": "2023-12-20T10:03:11.4899072+00:00",
+  "LastUpdate_Achievements": "2023-12-20T10:05:48.0880207+00:00"
 }

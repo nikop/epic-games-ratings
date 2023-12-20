@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~594 |
-| Training Simulation | 79.00% | ~505 |
+| Travel Streamer | 93.00% | ~595 |
+| Training Simulation | 79.00% | ~506 |
 | Kuku Bird Hunter | 66.00% | ~422 |
-| Storm Traveller | 60.00% | ~383 |
-| Wolf King Killer | 55.00% | ~351 |
+| Storm Traveller | 60.00% | ~384 |
+| Wolf King Killer | 55.00% | ~352 |
 | Fashion Connoisseur | 53.00% | ~339 |
 | Arms Mechanic | 48.00% | ~307 |
-| Flower Thief | 44.00% | ~281 |
-| Apostle of Flame | 39.00% | ~249 |
+| Flower Thief | 44.00% | ~282 |
+| Apostle of Flame | 39.00% | ~250 |
 | Beginner Artificer | 38.00% | ~243 |
-| Beginner Cook | 37.00% | ~236 |
-| Seal Breaker | 32.00% | ~204 |
+| Beginner Cook | 37.00% | ~237 |
+| Seal Breaker | 32.00% | ~205 |
 | Handyman | 28.00% | ~179 |
 | Giant Lizard Killer | 26.00% | ~166 |
 | Guardian | 25.00% | ~160 |
@@ -29,9 +29,9 @@
 | Squeaky Clean | 16.00% | ~102 |
 | Master Artificer | 16.00% | ~102 |
 | Kind Adventurer | 15.00% | ~96 |
-| Mermaid Killer | 14.00% | ~89 |
-| Cave Master | 14.00% | ~89 |
-| Face Slapper | 14.00% | ~89 |
+| Mermaid Killer | 14.00% | ~90 |
+| Cave Master | 14.00% | ~90 |
+| Face Slapper | 14.00% | ~90 |
 | Boss challenge | 10.00% | ~64 |
 | Berserker Slayer | 10.00% | ~64 |
 | Master Cook | 9.00% | ~58 |
@@ -50,7 +50,7 @@
 | Giantess Challenge | 1.00% | ~6 |
 | Warden Challenge | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 639 (Ranked 308)  
+Progressed: 640 (Ranked 308)  
 Completed: 1 (0.16%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 1 (0.16%) (Ranked 281)
 | 2023-12-17 | 627 | 1 |
 | 2023-12-18 | 632 | 1 |
 | 2023-12-19 | 636 | 1 |
-| 2023-12-20 | 639 | 1 |
+| 2023-12-20 | 640 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

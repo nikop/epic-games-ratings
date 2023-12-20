@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 432,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 161,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
     "PcReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -806,9 +806,9 @@
       "ID": "7",
       "SetID": "6bgoh8g",
       "Name": "It\u0027s all coming together",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "8",
@@ -837,8 +837,8 @@
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-12-20T09:05:03.6795365+00:00",
+  "LastChanged_Achievements": "2023-12-20T10:04:59.1594193+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:22.4243212+00:00",
-  "LastUpdate_Ratings": "2023-12-20T09:03:16.2399305+00:00",
-  "LastUpdate_Achievements": "2023-12-20T09:05:03.679556+00:00"
+  "LastUpdate_Ratings": "2023-12-20T10:03:12.3160405+00:00",
+  "LastUpdate_Achievements": "2023-12-20T10:04:59.1594371+00:00"
 }

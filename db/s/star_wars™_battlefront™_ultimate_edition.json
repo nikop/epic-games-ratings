@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 332,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 161,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1928,
+  "EOS_Progressed": 1929,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 241,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5674,6 +5674,11 @@
       "Time": "2023-12-20T08:09:48.0109753+00:00",
       "NumProgressed": 1928,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T10:09:47.9445792+00:00",
+      "NumProgressed": 1929,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -5886,7 +5891,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "achievement_33",
@@ -5910,7 +5915,7 @@
       "Name": "New Recruit",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1697
+      "UsersEstimate": 1698
     },
     {
       "ID": "achievement_36",
@@ -5926,7 +5931,7 @@
       "Name": "Off to a good start",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1235
     },
     {
       "ID": "achievement_38",
@@ -5958,7 +5963,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "achievement_41",
@@ -6022,7 +6027,7 @@
       "Name": "No such thing as luck",
       "Percentage": 0.7,
       "XP": 90,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_49",
@@ -6030,7 +6035,7 @@
       "Name": "Do we take prisoners?",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_5",
@@ -6086,7 +6091,7 @@
       "Name": "Stop that Droid",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_56",
@@ -6189,13 +6194,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1928,
+      "Progressed": 1929,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1928,
+      "Progressed": 1929,
       "Completed": 1
     }
   ],
@@ -6203,8 +6208,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-20T09:10:08.4552481+00:00",
+  "LastChanged_Achievements": "2023-12-20T10:09:47.944579+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.5169818+00:00",
-  "LastUpdate_Ratings": "2023-12-20T08:57:44.1509506+00:00",
-  "LastUpdate_Achievements": "2023-12-20T09:10:08.4553386+00:00"
+  "LastUpdate_Ratings": "2023-12-20T09:57:47.7122162+00:00",
+  "LastUpdate_Achievements": "2023-12-20T10:09:47.9446601+00:00"
 }
