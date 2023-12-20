@@ -83,7 +83,7 @@
 | [Punch Club 2: Fast Forward](../games/p/punch_club_2__fast_forward.md) | 66 | 1,000 |
 | [Redfall](../games/r/redfall.md) | 66 | 1,000 |
 | [Zombie Army 4: Dead War](../games/z/zombie_army_4__dead_war.md) | 66 | 1,000 |
-| [Dying Light 2: Stay Human - Winter Tales Edition](../games/d/dying_light_2_stay_human.md) | 65 | 1,200 |
+| [Dying Light 2 Stay Human](../games/d/dying_light_2_stay_human.md) | 65 | 1,200 |
 | [Warhammer 40,000: Rogue Trader](../games/c/cb88aea9aed742e4a911a65c4898d857.md) | 65 | 1,000 |
 | [Darksiders III](../games/d/darksiders_iii.md) | 64 | 1,000 |
 | [Deadwater Saloon](../games/0/0011a38fecb741dc9923879a4f490d42.md) | 64 | 1,000 |
@@ -681,6 +681,7 @@
 | [Mask of the Rose](../games/c/cd4a7839ad21465cab08d6742093d2a0.md) | 17 | 1,000 |
 | [My Demon Wife](../games/m/my_demon_wife.md) | 17 | 1,000 |
 | [Night Book](../games/n/night_book.md) | 17 | 1,000 |
+| [Potato Sack Racing Simulator 2024](../games/2/2ea4230c2a664c27a7e3d1c94a487241.md) | 17 | 1,000 |
 | [Probo Rush](../games/p/probo_rush.md) | 17 | 1,400 |
 | [Road Defense: Outsiders](../games/c/c909a449941841e790460fbbfbbb7dcd.md) | 17 | 1,000 |
 | [Sea Horizon](../games/b/bcd479d96de045fa8805f2bf4962475e.md) | 17 | 1,000 |

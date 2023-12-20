@@ -37,7 +37,7 @@
 | [Destiny 2](../games/d/destiny_2.md) | 23 | 1,240 |
 | [Rogue Legacy 2](../games/r/rogue_legacy_2.md) | 39 | 1,240 |
 | [Tails of Iron](../games/t/tails_of_iron.md) | 36 | 1,230 |
-| [Dying Light 2: Stay Human - Winter Tales Edition](../games/d/dying_light_2_stay_human.md) | 65 | 1,200 |
+| [Dying Light 2 Stay Human](../games/d/dying_light_2_stay_human.md) | 65 | 1,200 |
 | [GRIME](../games/g/grime.md) | 45 | 1,200 |
 | [HAAK](../games/2/24bd39f944fa45ad8a953116f9908525.md) | 57 | 1,200 |
 | [Stray Blade](../games/s/stray_blade.md) | 52 | 1,200 |
@@ -567,6 +567,7 @@
 | [Poosh XL](../games/p/poosh_xl.md) | 20 | 1,000 |
 | [Popcorn Rocket](../games/4/4acbe0ba4b144020b1dee0d6dd607029.md) | 41 | 1,000 |
 | [Port Royale 4](../games/p/port_royale_4.md) | 50 | 1,000 |
+| [Potato Sack Racing Simulator 2024](../games/2/2ea4230c2a664c27a7e3d1c94a487241.md) | 17 | 1,000 |
 | [Potion Permit](../games/p/potion_permit.md) | 38 | 1,000 |
 | [Power Vacuum](../games/8/80d6afef34fc4d3ea8a72c7820743fb8.md) | 21 | 1,000 |
 | [Prehistoric Kingdom](../games/p/prehistoric_kingdom.md) | 22 | 1,000 |
