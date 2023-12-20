@@ -60,7 +60,7 @@
 | [Saloon Simulator](games/6/678afb6b7fea4643a800b5e1783347b7.md) | 2023-12-31 | - |  | - | - |
 | [Super BUFF HD](games/7/74b34f2f86db48579e9f785686886111.md) | 2023-12-31 | - |  | - | - |
 | [Supergalactix](games/s/supergalactix.md) | 2023-12-31 | - |  | - | - |
-| [Tangles](games/f/f10440a3a8fa4c29ae5be55c949ba58f.md) | 2023-12-31 | 8 (1,000 XP) | 13 | - | - |
+| [Tangles](games/f/f10440a3a8fa4c29ae5be55c949ba58f.md) | 2023-12-31 | 8 (1,000 XP) | 14 | - | - |
 | [Tenement](games/7/78d14ec62d2a41d095ac4facc9278617.md) | 2023-12-31 | 60 (1,000 XP) | 1 | - | - |
 | [Tents and Trees](games/c/c3ee706f06354a7ca940a71fc28aa887.md) | 2023-12-31 | - |  | - | - |
 | [The Artifact Hunter](games/t/the_artifact_hunter.md) | 2023-12-31 | - |  | - | - |
