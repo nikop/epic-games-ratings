@@ -7,7 +7,7 @@
 | The Last Stand | 88.00% | ~526 |
 | Thalya – Simply Immortal | 88.00% | ~526 |
 | For the Horde! | 82.00% | ~490 |
-| Hammer Time, Round Two | 80.00% | ~478 |
+| Hammer Time, Round Two | 81.00% | ~484 |
 | The Hellwoods | 77.00% | ~460 |
 | The Plains of Strothalm | 71.00% | ~425 |
 | Experienced Thalya | 71.00% | ~425 |
@@ -21,8 +21,8 @@
 | It's Warm and Cozy at Home | 59.00% | ~353 |
 | Trap Master | 55.00% | ~329 |
 | Minions, Minions! | 54.00% | ~323 |
+| Hard Work | 54.00% | ~323 |
 | The Big Eaty | 54.00% | ~323 |
-| Hard Work | 53.00% | ~317 |
 | “… like son” | 51.00% | ~305 |
 | YOU SHALL NOT PASS! | 50.00% | ~299 |
 | The Cathedral of Light | 48.00% | ~287 |
@@ -66,7 +66,7 @@
 | No Mana, No Cry | 10.00% | ~60 |
 | I Don't Need Any Help | 8.00% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 598 (Ranked 316)  
+Progressed: 598 (Ranked 317)  
 Completed: 20 (3.34%) (Ranked 104)  
 ## EOS Players History
 | Date | Progressed | Completed |

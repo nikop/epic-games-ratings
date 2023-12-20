@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1344,9 +1344,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 30875,
+  "EOS_Progressed": 30881,
   "EOS_Completed": 84,
-  "EOS_NewPlayers": 579,
+  "EOS_NewPlayers": 583,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -27519,6 +27519,11 @@
       "Time": "2023-12-20T21:09:48.3705494+00:00",
       "NumProgressed": 30875,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2023-12-20T22:10:36.6279343+00:00",
+      "NumProgressed": 30881,
+      "NumCompleted": 84
     }
   ],
   "TotalAchievements": 22,
@@ -27538,7 +27543,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1852
+      "UsersEstimate": 1853
     },
     {
       "ID": "1017",
@@ -27546,7 +27551,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1852
+      "UsersEstimate": 1853
     },
     {
       "ID": "1018",
@@ -27562,7 +27567,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2161
+      "UsersEstimate": 2162
     },
     {
       "ID": "1020",
@@ -27586,7 +27591,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1852
+      "UsersEstimate": 1853
     },
     {
       "ID": "1023",
@@ -27618,7 +27623,7 @@
       "Name": "Oathkeeper",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2161
+      "UsersEstimate": 2162
     },
     {
       "ID": "1027",
@@ -27634,7 +27639,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5558
+      "UsersEstimate": 5559
     },
     {
       "ID": "1029",
@@ -27650,7 +27655,7 @@
       "Name": "Battering Crew",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 5866
+      "UsersEstimate": 5867
     },
     {
       "ID": "1031",
@@ -27658,7 +27663,7 @@
       "Name": "Well Stocked",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4014
+      "UsersEstimate": 4015
     },
     {
       "ID": "1032",
@@ -27666,7 +27671,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 12350
+      "UsersEstimate": 12352
     },
     {
       "ID": "1033",
@@ -27682,7 +27687,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2161
+      "UsersEstimate": 2162
     },
     {
       "ID": "1035",
@@ -27690,7 +27695,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 4014
+      "UsersEstimate": 4015
     },
     {
       "ID": "1036",
@@ -27698,22 +27703,22 @@
       "Name": "A Long Journey",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2161
+      "UsersEstimate": 2162
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 30875,
+      "Progressed": 30881,
       "Completed": 84
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-16T17:01:32.5385124+00:00",
-  "LastChanged_Achievements": "2023-12-20T21:09:48.3705492+00:00",
+  "LastChanged_Achievements": "2023-12-20T22:10:36.6279337+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:33.5053041+00:00",
-  "LastUpdate_Ratings": "2023-12-20T20:58:47.039078+00:00",
-  "LastUpdate_Achievements": "2023-12-20T21:09:48.3706768+00:00"
+  "LastUpdate_Ratings": "2023-12-20T21:59:27.4269341+00:00",
+  "LastUpdate_Achievements": "2023-12-20T22:10:36.6280618+00:00"
 }

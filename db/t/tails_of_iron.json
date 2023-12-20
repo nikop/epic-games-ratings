@@ -4248,9 +4248,9 @@
       "ID": "Kill25Bugs",
       "SetID": "9lj35g4",
       "Name": "Defeat 25 Grubs",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "Kill25Frogs",
@@ -4328,9 +4328,9 @@
       "ID": "DefeatCroakhisKhan",
       "SetID": "cbf1i0c",
       "Name": "Defeat Croakhis Khan",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DefeatGrubBuster",
@@ -4391,8 +4391,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-12-20T19:57:28.9419379+00:00",
-  "LastChanged_Achievements": "2023-12-20T21:03:45.6462033+00:00",
+  "LastChanged_Achievements": "2023-12-20T22:04:31.1994253+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:33.7739845+00:00",
-  "LastUpdate_Ratings": "2023-12-20T20:57:43.3365085+00:00",
-  "LastUpdate_Achievements": "2023-12-20T21:03:45.6462414+00:00"
+  "LastUpdate_Ratings": "2023-12-20T21:57:51.2847724+00:00",
+  "LastUpdate_Achievements": "2023-12-20T22:04:31.1994997+00:00"
 }

@@ -15,13 +15,13 @@ Number of Ratings: 85  (23.09.2022)
 | Lobster Blisque | 52.00% | ~38 |
 | Perfect Probulator | 49.00% | ~36 |
 | Fly Me to the Moon Base | 44.00% | ~32 |
+| Freshly Squeezed | 40.00% | ~29 |
 | Earthly Pleasures | 40.00% | ~29 |
 | Pimp My Raid | 40.00% | ~29 |
 | Ducks in a Row, Fish in a Barrel | 38.00% | ~28 |
-| Freshly Squeezed | 37.00% | ~27 |
+| Upgreatest | 32.00% | ~23 |
 | Bodied Sattva | 30.00% | ~22 |
 | Forbidden Donut | 29.00% | ~21 |
-| Upgreatest | 29.00% | ~21 |
 | Rock of the Bay | 25.00% | ~18 |
 | Trans-Siberian Express | 25.00% | ~18 |
 | Furon Fashion | 22.00% | ~16 |
@@ -30,7 +30,7 @@ Number of Ratings: 85  (23.09.2022)
 | If You Know What I Mean | 14.00% | ~10 |
 | Arkvoodle Doodle | 12.00% | ~9 |
 | Ouch of Body Experience | 12.00% | ~9 |
-| Dusted | 11.00% | ~8 |
+| Dusted | 12.00% | ~9 |
 | Die Nasty | 10.00% | ~7 |
 | PK Slam Dunk | 8.00% | ~6 |
 | Hidden Human Hive Harvest | 7.00% | ~5 |

@@ -6,27 +6,27 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~41,300 |
-| First Steps | 80.00% | ~35,527 |
-| Control the Shadows | 67.00% | ~29,754 |
+| Awakening | 93.00% | ~41,301 |
+| First Steps | 80.00% | ~35,528 |
+| Control the Shadows | 67.00% | ~29,755 |
 | Tools of the Trade | 63.00% | ~27,978 |
-| Apprentice | 60.00% | ~26,645 |
-| Secret Seeker | 57.00% | ~25,313 |
-| Forge of Assassins | 55.00% | ~24,425 |
+| Apprentice | 60.00% | ~26,646 |
+| Secret Seeker | 57.00% | ~25,314 |
+| Forge of Assassins | 55.00% | ~24,426 |
 | Revenant | 52.00% | ~23,093 |
 | I don’t Care! | 45.00% | ~19,984 |
-| Bird of Prey | 37.00% | ~16,431 |
+| Bird of Prey | 37.00% | ~16,432 |
 | Engraved with Power | 32.00% | ~14,211 |
 | Lady | 31.00% | ~13,767 |
-| Fashionable Assassin | 27.00% | ~11,990 |
+| Fashionable Assassin | 27.00% | ~11,991 |
 | Apex Predator | 24.00% | ~10,658 |
 | Soul Reaver | 23.00% | ~10,214 |
 | Embers | 22.00% | ~9,770 |
 | Wall Lizard | 20.00% | ~8,882 |
 | Clinging to Life | 18.00% | ~7,994 |
 | Burning | 17.00% | ~7,550 |
-| Look Behind You | 16.00% | ~7,105 |
-| Sleeping on the Job | 16.00% | ~7,105 |
+| Look Behind You | 16.00% | ~7,106 |
+| Sleeping on the Job | 16.00% | ~7,106 |
 | Family | 14.00% | ~6,217 |
 | War Engines | 14.00% | ~6,217 |
 | Signature Move | 14.00% | ~6,217 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~888 |
 | Legacy | 2.00% | ~888 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,409 (Ranked 121)  
+Progressed: 44,410 (Ranked 121)  
 Completed: 247 (0.56%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 247 (0.56%) (Ranked 204)
 | 2023-12-17 | 44,373 | 247 |
 | 2023-12-18 | 44,378 | 247 |
 | 2023-12-19 | 44,390 | 247 |
-| 2023-12-20 | 44,409 | 247 |
+| 2023-12-20 | 44,410 | 247 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

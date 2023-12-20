@@ -5,36 +5,36 @@ Rating: 4.19 (Ranked 939)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 14.00% | ~2,559 |
-| The Outer Way | 14.00% | ~2,559 |
-| Get a Grip | 13.00% | ~2,376 |
-| Paper Jams | 13.00% | ~2,376 |
-| Desperate Times | 13.00% | ~2,376 |
-| Chew 'Em Up | 11.00% | ~2,010 |
-| Float Like A Butterfly | 11.00% | ~2,010 |
-| Reforged | 10.00% | ~1,828 |
-| Workplace Hazard | 9.00% | ~1,645 |
-| If the SHU Fits... | 9.00% | ~1,645 |
-| Two Heads Are Better Than One | 7.00% | ~1,279 |
-| Without A Paddle | 7.00% | ~1,279 |
-| In the Pipe, Five by Five | 7.00% | ~1,279 |
-| Crash Site | 7.00% | ~1,279 |
-| You Need a Gun | 6.00% | ~1,096 |
-| Terminated | 6.00% | ~1,096 |
-| What Lies Beneath | 6.00% | ~1,096 |
-| Full Circle | 6.00% | ~1,096 |
-| Power Up | 6.00% | ~1,096 |
-| Keep Fighting | 6.00% | ~372 |
+| Flesh Wound | 14.00% | ~2,560 |
+| Get a Grip | 14.00% | ~2,560 |
+| The Outer Way | 14.00% | ~2,560 |
+| Paper Jams | 13.00% | ~2,377 |
+| Desperate Times | 13.00% | ~2,377 |
+| Chew 'Em Up | 11.00% | ~2,012 |
+| Float Like A Butterfly | 11.00% | ~2,012 |
+| Reforged | 10.00% | ~1,829 |
+| Workplace Hazard | 9.00% | ~1,646 |
+| If the SHU Fits... | 9.00% | ~1,646 |
+| Two Heads Are Better Than One | 7.00% | ~1,280 |
+| Without A Paddle | 7.00% | ~1,280 |
+| In the Pipe, Five by Five | 7.00% | ~1,280 |
+| Crash Site | 7.00% | ~1,280 |
+| You Need a Gun | 6.00% | ~1,097 |
+| Terminated | 6.00% | ~1,097 |
+| What Lies Beneath | 6.00% | ~1,097 |
+| Full Circle | 6.00% | ~1,097 |
+| Power Up | 6.00% | ~1,097 |
+| Keep Fighting | 6.00% | ~373 |
 | Giving Back | 5.00% | ~914 |
 | I Do Belong Here | 5.00% | ~914 |
-| It's Time | 4.00% | ~248 |
-| In Striking Distance | 3.00% | ~548 |
-| The Commonality | 3.00% | ~548 |
+| It's Time | 4.00% | ~249 |
+| In Striking Distance | 3.00% | ~549 |
+| The Commonality | 3.00% | ~549 |
 | One Last Job | 2.00% | ~124 |
 | Big Spender | 1.00% | ~62 |
 | This Isn't About Escape | 1.00% | ~62 |
 | Armed to the Teeth | 0.90% | ~56 |
-| Mugshot | 0.90% | ~164 |
+| Mugshot | 0.90% | ~165 |
 | Grim Reaper | 0.80% | ~146 |
 | Parole Denied | 0.80% | ~50 |
 | Instigator | 0.80% | ~50 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 939)
 | Bear Trap | 0.10% | ~6 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,275 (Ranked 149)  
+Progressed: 18,287 (Ranked 149)  
 Completed: 82 (0.45%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 82 (0.45%) (Ranked 223)
 | 2023-12-17 | 17,760 | 82 |
 | 2023-12-18 | 17,946 | 82 |
 | 2023-12-19 | 18,137 | 82 |
-| 2023-12-20 | 18,275 | 82 |
+| 2023-12-20 | 18,287 | 82 |
 ## Awards
 Max (Quickly Understood Controls): 89  (Ranked 388)  
 Sum: 533 (Ranked 326)  

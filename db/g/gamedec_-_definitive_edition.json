@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 463,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
@@ -495,9 +495,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 255171,
+  "EOS_Progressed": 255173,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 608,
+  "EOS_NewPlayers": 606,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27850,6 +27850,11 @@
       "Time": "2023-12-20T21:04:28.2175815+00:00",
       "NumProgressed": 255171,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-20T22:05:30.7165266+00:00",
+      "NumProgressed": 255173,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -27861,7 +27866,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 68896
+      "UsersEstimate": 68897
     },
     {
       "ID": "ACH_AON",
@@ -27941,7 +27946,7 @@
       "Name": "Elementary!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 22965
+      "UsersEstimate": 22966
     },
     {
       "ID": "ACH_HIDEANDSEEK",
@@ -28276,7 +28281,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 255171,
+      "Progressed": 255173,
       "Completed": 7
     }
   ],
@@ -28284,8 +28289,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-11-30T10:59:11.8312964+00:00",
-  "LastChanged_Achievements": "2023-12-20T21:04:28.2175811+00:00",
+  "LastChanged_Achievements": "2023-12-20T22:05:30.7165259+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:10.8864766+00:00",
-  "LastUpdate_Ratings": "2023-12-20T21:03:07.9735552+00:00",
-  "LastUpdate_Achievements": "2023-12-20T21:04:28.2177348+00:00"
+  "LastUpdate_Ratings": "2023-12-20T22:03:12.5614518+00:00",
+  "LastUpdate_Achievements": "2023-12-20T22:05:30.7166801+00:00"
 }

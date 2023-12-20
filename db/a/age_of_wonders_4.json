@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 450,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -567,7 +567,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5909,
+  "EOS_Progressed": 5910,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 313,
   "EOS_NewCompleters": 0,
@@ -8607,6 +8607,11 @@
       "Time": "2023-12-20T21:05:28.2451708+00:00",
       "NumProgressed": 5909,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-20T22:06:55.8660849+00:00",
+      "NumProgressed": 5910,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -8778,7 +8783,7 @@
       "Name": "From Friends to Family",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "29",
@@ -9082,7 +9087,7 @@
       "Name": "But this one is mine",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "60",
@@ -9097,13 +9102,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5909,
+      "Progressed": 5910,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5909,
+      "Progressed": 5910,
       "Completed": 7
     }
   ],
@@ -9111,8 +9116,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-20T07:59:25.4319145+00:00",
-  "LastChanged_Achievements": "2023-12-20T21:05:28.2451706+00:00",
+  "LastChanged_Achievements": "2023-12-20T22:06:55.8660843+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.6868317+00:00",
-  "LastUpdate_Ratings": "2023-12-20T21:00:17.8774316+00:00",
-  "LastUpdate_Achievements": "2023-12-20T21:05:28.2452368+00:00"
+  "LastUpdate_Ratings": "2023-12-20T22:01:43.7553965+00:00",
+  "LastUpdate_Achievements": "2023-12-20T22:06:55.866182+00:00"
 }

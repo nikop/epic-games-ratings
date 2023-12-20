@@ -614,9 +614,9 @@
       "ID": "ACH_ABILITY_TRANSMOG",
       "SetID": "cefn62b",
       "Name": "Freshly Squeezed",
-      "Percentage": 37,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_ABILITY_WITHWEAPON",
@@ -774,9 +774,9 @@
       "ID": "ACH_INVADE_SANTAMODESTA",
       "SetID": "cefn62b",
       "Name": "Upgreatest",
-      "Percentage": 29,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_INVADE_TURNIPSEED",
@@ -822,9 +822,9 @@
       "ID": "ACH_REVISIT_MISSION",
       "SetID": "cefn62b",
       "Name": "Dusted",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_UPGRADE_CRYPTO",
@@ -862,8 +862,8 @@
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2023-11-09T01:43:19.9714919+00:00",
-  "LastChanged_Achievements": "2023-12-20T21:05:09.9152188+00:00",
+  "LastChanged_Achievements": "2023-12-20T22:06:29.8326207+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:30.3369877+00:00",
-  "LastUpdate_Ratings": "2023-12-20T20:58:31.8625001+00:00",
-  "LastUpdate_Achievements": "2023-12-20T21:05:09.9152381+00:00"
+  "LastUpdate_Ratings": "2023-12-20T21:59:04.878618+00:00",
+  "LastUpdate_Achievements": "2023-12-20T22:06:29.832646+00:00"
 }

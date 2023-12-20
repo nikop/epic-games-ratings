@@ -4,7 +4,7 @@
   "ProductSlug": "boltgun-b1cb36",
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 374,
+  "EOS_Progressed": 375,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -1379,6 +1379,11 @@
       "Time": "2023-12-20T21:03:44.0144372+00:00",
       "NumProgressed": 374,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T22:04:28.7679556+00:00",
+      "NumProgressed": 375,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -1391,7 +1396,7 @@
       "Name": "Chapter I - Complete",
       "Percentage": 18,
       "XP": 45,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ach_chapter_complete_2",
@@ -1431,7 +1436,7 @@
       "Name": "Emperor\u2019s Mercy",
       "Percentage": 2,
       "XP": 175,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ach_complete_difficulty_medium",
@@ -1486,14 +1491,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 374,
+      "Progressed": 375,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-12-20T21:03:44.0144366+00:00",
+  "LastChanged_Achievements": "2023-12-20T22:04:28.7679551+00:00",
   "LastUpdate_AppInfo": "2023-12-15T14:56:55.6680838+00:00",
-  "LastUpdate_Ratings": "2023-12-20T20:57:36.1700079+00:00",
-  "LastUpdate_Achievements": "2023-12-20T21:03:44.0144512+00:00"
+  "LastUpdate_Ratings": "2023-12-20T21:57:40.1449568+00:00",
+  "LastUpdate_Achievements": "2023-12-20T22:04:28.7679786+00:00"
 }

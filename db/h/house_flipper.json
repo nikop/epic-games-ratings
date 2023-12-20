@@ -2181,9 +2181,9 @@
       "Count": 221
     }
   ],
-  "EOS_Progressed": 21634,
+  "EOS_Progressed": 21635,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11706,6 +11706,11 @@
       "Time": "2023-12-20T21:06:12.986361+00:00",
       "NumProgressed": 21634,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-20T22:07:57.9336839+00:00",
+      "NumProgressed": 21635,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -11717,7 +11722,7 @@
       "Name": "Family man",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2812
+      "UsersEstimate": 2813
     },
     {
       "ID": "CarMechanic",
@@ -11765,7 +11770,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20552
+      "UsersEstimate": 20553
     },
     {
       "ID": "GameOver",
@@ -11797,7 +11802,7 @@
       "Name": "Mystery",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 2163
+      "UsersEstimate": 2164
     },
     {
       "ID": "JuniorEstateAgent",
@@ -11805,7 +11810,7 @@
       "Name": "Junior Estate Agent",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2812
+      "UsersEstimate": 2813
     },
     {
       "ID": "KnockKnock",
@@ -11869,7 +11874,7 @@
       "Name": "Pro-creative",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4110
+      "UsersEstimate": 4111
     },
     {
       "ID": "Strongman",
@@ -11885,7 +11890,7 @@
       "Name": "Artistic soul",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 2163
+      "UsersEstimate": 2164
     },
     {
       "ID": "YouDoItWrong",
@@ -11900,15 +11905,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21634,
+      "Progressed": 21635,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-12-20T12:58:55.6191708+00:00",
-  "LastChanged_Achievements": "2023-12-20T21:06:12.9863608+00:00",
+  "LastChanged_Achievements": "2023-12-20T22:07:57.9336833+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:12.9668458+00:00",
-  "LastUpdate_Ratings": "2023-12-20T20:59:07.7758685+00:00",
-  "LastUpdate_Achievements": "2023-12-20T21:06:12.9864104+00:00"
+  "LastUpdate_Ratings": "2023-12-20T21:59:58.4008926+00:00",
+  "LastUpdate_Achievements": "2023-12-20T22:07:57.9337702+00:00"
 }

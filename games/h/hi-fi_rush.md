@@ -5,16 +5,16 @@ Rating: 4.88 (Ranked 16)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 44.00% | ~4,355 |
-| Start with a bang! | 43.00% | ~4,256 |
-| You can pet the cat! | 39.00% | ~3,860 |
-| Who put gears in there? | 31.00% | ~3,068 |
-| Cream of the Crop | 27.00% | ~2,672 |
-| Thanks for the free chip, Peppermint! | 26.00% | ~2,573 |
-| You got this, Peppermint? | 22.00% | ~2,177 |
-| Perfect Parry | 20.00% | ~1,979 |
-| Alright, that felt AWESOME! | 19.00% | ~1,880 |
-| I play my own way! | 18.00% | ~1,781 |
+| Feeling the beat! | 44.00% | ~4,356 |
+| Start with a bang! | 43.00% | ~4,257 |
+| You can pet the cat! | 39.00% | ~3,861 |
+| Who put gears in there? | 31.00% | ~3,069 |
+| Cream of the Crop | 27.00% | ~2,673 |
+| Thanks for the free chip, Peppermint! | 26.00% | ~2,574 |
+| You got this, Peppermint? | 22.00% | ~2,178 |
+| Perfect Parry | 20.00% | ~1,980 |
+| Alright, that felt AWESOME! | 19.00% | ~1,881 |
+| I play my own way! | 18.00% | ~1,782 |
 | This will cost you big time | 15.00% | ~1,485 |
 | Uh, they were broken when I got here | 15.00% | ~1,485 |
 | Z-shielding's got nothing on us! | 14.00% | ~1,386 |
@@ -50,7 +50,7 @@ Rating: 4.88 (Ranked 16)
 | Call me Turbo Chai | 1.00% | ~84 |
 | Easy Listening | 0.70% | ~69 |
 | New bad guys? No problem! | 0.60% | ~51 |
-| OK, well THEY came after ME! | 0.50% | ~49 |
+| OK, well THEY came after ME! | 0.50% | ~50 |
 | Problem solved... wait, what? | 0.30% | ~30 |
 | Now this is how you fight like a team! | 0.30% | ~30 |
 | I am a good person who likes to help | 0.30% | ~30 |
@@ -77,7 +77,7 @@ Rating: 4.88 (Ranked 16)
 | Voices from within | 0.10% | ~8 |
 | Low budget finish | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,897 (Ranked 174)  
+Progressed: 9,900 (Ranked 174)  
 Completed: 8 (0.08%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 8 (0.08%) (Ranked 316)
 | 2023-12-17 | 8,671 | 8 |
 | 2023-12-18 | 9,200 | 8 |
 | 2023-12-19 | 9,581 | 8 |
-| 2023-12-20 | 9,897 | 8 |
+| 2023-12-20 | 9,900 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

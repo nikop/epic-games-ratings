@@ -20,22 +20,23 @@ Number of Ratings: 7,767  (23.09.2022)
 | Overdue Notice | 3.00% | ~3,863 |
 | Escape from the Black Hole | 3.00% | ~3,863 |
 | Ploughshares to Swords | 3.00% | ~109 |
-| Don't Make Me Turn This Coach Around | 2.00% | ~2,575 |
-| It Rings a Bell | 2.00% | ~2,575 |
-| Dissector | 2.00% | ~2,575 |
-| Banishment | 2.00% | ~2,575 |
-| It Happens | 2.00% | ~2,575 |
-| Spelunker | 2.00% | ~2,575 |
-| Rush Hour | 2.00% | ~2,575 |
-| Merry Time | 2.00% | ~2,575 |
-| Harvest Festival | 2.00% | ~2,575 |
-| To Grandmother's House | 2.00% | ~2,575 |
-| Ramble On | 2.00% | ~2,575 |
-| Whale | 2.00% | ~2,575 |
-| A Place to Lay Your Head | 2.00% | ~2,575 |
-| FNG | 2.00% | ~2,575 |
-| Nope | 2.00% | ~2,575 |
-| Unshackled | 2.00% | ~2,575 |
+| Don't Make Me Turn This Coach Around | 2.00% | ~2,576 |
+| It Rings a Bell | 2.00% | ~2,576 |
+| Dissector | 2.00% | ~2,576 |
+| Banishment | 2.00% | ~2,576 |
+| Deprogramming | 2.00% | ~2,576 |
+| It Happens | 2.00% | ~2,576 |
+| Spelunker | 2.00% | ~2,576 |
+| Rush Hour | 2.00% | ~2,576 |
+| Merry Time | 2.00% | ~2,576 |
+| Harvest Festival | 2.00% | ~2,576 |
+| To Grandmother's House | 2.00% | ~2,576 |
+| Ramble On | 2.00% | ~2,576 |
+| Whale | 2.00% | ~2,576 |
+| A Place to Lay Your Head | 2.00% | ~2,576 |
+| FNG | 2.00% | ~2,576 |
+| Nope | 2.00% | ~2,576 |
+| Unshackled | 2.00% | ~2,576 |
 | Friends 'Til the End | 2.00% | ~73 |
 | Resurrection | 1.00% | ~1,288 |
 | Unleash Hell | 1.00% | ~1,288 |
@@ -46,7 +47,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Unfulfilled Desires | 1.00% | ~1,288 |
 | Hope Rekindled | 1.00% | ~1,288 |
 | Predator | 1.00% | ~1,288 |
-| Deprogramming | 1.00% | ~1,288 |
 | Ichthyophobic | 1.00% | ~1,288 |
 | Now Stay Dead | 1.00% | ~1,288 |
 | Reverse Banditry | 1.00% | ~1,288 |
@@ -61,8 +61,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | This Looks Familiar | 0.80% | ~1,030 |
 | Slap on the Wrist | 0.80% | ~29 |
 | For Old Time' Sake | 0.80% | ~29 |
+| Handled | 0.70% | ~901 |
 | Shrine of Reflection | 0.60% | ~773 |
-| Handled | 0.60% | ~773 |
 | Body of Work | 0.60% | ~773 |
 | Et Tu, Riposte? | 0.60% | ~22 |
 | Clearing the Ledger | 0.50% | ~644 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,771 (Ranked 85)  
+Progressed: 128,777 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 3 (0.00%) (Ranked 384)
 | 2023-12-17 | 128,143 | 3 |
 | 2023-12-18 | 128,398 | 3 |
 | 2023-12-19 | 128,605 | 3 |
-| 2023-12-20 | 128,771 | 3 |
+| 2023-12-20 | 128,777 | 3 |
 ## Awards
 Max (Character Customization): 7,805  (Ranked 50)  
 Sum: 20,840 (Ranked 58)  

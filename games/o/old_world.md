@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 322)  
+Rating: 4.65 (Ranked 321)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -28,6 +28,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Silver Victory (Carthage 2) | 0.10% | ~16 |
 | Carthage - Rise of Rome | 0.10% | ~16 |
 | Bronze Victory (Carthage 3) | 0.10% | ~16 |
+| Gold Victory (Carthage 3) | 0.10% | ~16 |
 | Silver Victory (Carthage 3) | 0.10% | ~16 |
 | Cleopatra's Love | 0.10% | ~16 |
 | Able | 0.10% | ~16 |
@@ -164,7 +165,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Veneration | 0.10% | ~16 |
 | Trade Caravan | 0.10% | ~16 |
 | Cimmerian Archer | 0.10% | ~16 |
+| Kushite Cavalry | 0.10% | ~16 |
 | Legionary | 0.10% | ~16 |
+| Phalangite | 0.10% | ~16 |
 | Siege Tower | 0.10% | ~16 |
 | Turreted Elephant | 0.10% | ~16 |
 | All Nations | 0.10% | ~16 |
@@ -175,6 +178,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Points Victory | 0.10% | ~16 |
 | Randomized Leaders | 0.10% | ~16 |
 | Role-Playing | 0.10% | ~16 |
+| Win a Hotseat Game | 0.10% | ~16 |
 | Win a Single Player Game | 0.10% | ~16 |
 | The Clergy | 0.10% | ~16 |
 | Deposed Tribe | 0.10% | ~16 |
@@ -196,7 +200,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Blade of the Monkey | 0.00% | ~0 |
 | Hagia Sophia in Byzantion | 0.00% | ~0 |
 | Epic Victory (Carthage 3) | 0.00% | ~0 |
-| Gold Victory (Carthage 3) | 0.00% | ~0 |
 | Carthage - Seizing Destiny | 0.00% | ~0 |
 | Bronze Victory (Carthage 4) | 0.00% | ~0 |
 | Epic Victory (Carthage 4) | 0.00% | ~0 |
@@ -286,8 +289,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Word of God | 0.00% | ~0 |
 | Cataphract Archer | 0.00% | ~0 |
 | Three Man Chariot | 0.00% | ~0 |
-| Kushite Cavalry | 0.00% | ~0 |
-| Phalangite | 0.00% | ~0 |
 | Great Ziggurat in Ur | 0.00% | ~0 |
 | No Characters | 0.00% | ~0 |
 | One City Challenge | 0.00% | ~0 |
@@ -296,7 +297,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis in Waset | 0.00% | ~0 |
 | Win a 1-v-1 Game | 0.00% | ~0 |
 | Win a Free-For-All Game (>2 Players) | 0.00% | ~0 |
-| Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Network Game | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Al Khazneh in Petra | 0.00% | ~0 |
 | Colosseum in Roma | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,851 (Ranked 158)  
+Progressed: 15,853 (Ranked 158)  
 Completed: 5 (0.03%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -609,7 +609,7 @@ Completed: 5 (0.03%) (Ranked 345)
 | 2023-12-17 | 15,807 | 5 |
 | 2023-12-18 | 15,826 | 5 |
 | 2023-12-19 | 15,840 | 5 |
-| 2023-12-20 | 15,851 | 5 |
+| 2023-12-20 | 15,853 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 279)  
 Sum: 1,904 (Ranked 220)  

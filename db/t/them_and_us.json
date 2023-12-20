@@ -4,7 +4,7 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 361,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewPlayers": 351,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -1493,9 +1493,9 @@
       "ID": "ETUA_AloneInTheDark",
       "SetID": "65jc0ap",
       "Name": "Alone In The Dark",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 50
     },
     {
       "ID": "ETUA_AlonewithThem",
@@ -1814,8 +1814,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-12-20T21:03:35.7048143+00:00",
+  "LastChanged_Achievements": "2023-12-20T22:04:17.0145498+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:15.4863673+00:00",
-  "LastUpdate_Ratings": "2023-12-20T20:59:17.7029143+00:00",
-  "LastUpdate_Achievements": "2023-12-20T21:03:35.7048555+00:00"
+  "LastUpdate_Ratings": "2023-12-20T22:00:13.848405+00:00",
+  "LastUpdate_Achievements": "2023-12-20T22:04:17.0145882+00:00"
 }

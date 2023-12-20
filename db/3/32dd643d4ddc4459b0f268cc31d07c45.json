@@ -1,9 +1,9 @@
 {
   "ID": "32dd643d4ddc4459b0f268cc31d07c45",
   "Name": null,
-  "Ranking_EOS_Progress": 811,
+  "Ranking_EOS_Progress": 812,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 559,
+  "Ranking_EOS_NewPlayers": 558,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:32:24.6476784+00:00",
-  "LastUpdate_Ratings": "2023-12-20T21:00:17.5843835+00:00",
-  "LastUpdate_Achievements": "2023-12-20T21:06:33.0936104+00:00"
+  "LastUpdate_Ratings": "2023-12-20T22:01:43.2631256+00:00",
+  "LastUpdate_Achievements": "2023-12-20T22:08:24.7174907+00:00"
 }

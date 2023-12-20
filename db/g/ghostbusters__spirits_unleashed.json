@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 182,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3789,9 +3789,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32473,
+  "EOS_Progressed": 32476,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 247,
+  "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -22904,6 +22904,11 @@
       "Time": "2023-12-20T21:05:41.2624871+00:00",
       "NumProgressed": 32473,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-20T22:07:13.7621998+00:00",
+      "NumProgressed": 32476,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -22931,7 +22936,7 @@
       "Name": "Back Off",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "Best_Insurance",
@@ -22971,7 +22976,7 @@
       "Name": "Collector",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "Cultured",
@@ -23035,7 +23040,7 @@
       "Name": "Escape Artist",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "Fragile_Panes",
@@ -23147,7 +23152,7 @@
       "Name": "Rift Destroyer",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "Rift_Seeker",
@@ -23195,7 +23200,7 @@
       "Name": "Skilled",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "Solo_Capture",
@@ -23211,7 +23216,7 @@
       "Name": "Stunner",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "Stylish",
@@ -23219,7 +23224,7 @@
       "Name": "Stylish",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3247
+      "UsersEstimate": 3248
     },
     {
       "ID": "Summoner",
@@ -23243,7 +23248,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 1948
+      "UsersEstimate": 1949
     },
     {
       "ID": "Teamwork",
@@ -23283,7 +23288,7 @@
       "Name": "Tobin\u0027s Prodigy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "Ultimate_Defense",
@@ -23307,7 +23312,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "Whoopsie",
@@ -23322,7 +23327,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32473,
+      "Progressed": 32476,
       "Completed": 69
     }
   ],
@@ -23330,8 +23335,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-18T23:58:18.6120703+00:00",
-  "LastChanged_Achievements": "2023-12-20T21:05:41.2624867+00:00",
+  "LastChanged_Achievements": "2023-12-20T22:07:13.7621993+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:05.1146147+00:00",
-  "LastUpdate_Ratings": "2023-12-20T20:59:37.3909118+00:00",
-  "LastUpdate_Achievements": "2023-12-20T21:05:41.2626031+00:00"
+  "LastUpdate_Ratings": "2023-12-20T22:00:43.7860517+00:00",
+  "LastUpdate_Achievements": "2023-12-20T22:07:13.7623159+00:00"
 }

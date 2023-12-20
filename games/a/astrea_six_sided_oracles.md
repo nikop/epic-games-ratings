@@ -36,46 +36,46 @@
 | Wave Bender | 8.00% | ~16 |
 | Artificer | 6.00% | ~12 |
 | Can't touch this | 6.00% | ~12 |
+| Apian Hero | 6.00% | ~12 |
 | Anomaly Control | 5.00% | ~10 |
+| Denying Destiny | 5.00% | ~10 |
 | The Dark Moon | 5.00% | ~10 |
-| Apian Hero | 5.00% | ~10 |
-| Denying Destiny | 4.00% | ~8 |
+| Lacertian Hero | 5.00% | ~10 |
+| If I Had Failed... | 4.00% | ~8 |
 | Prestidigitation | 4.00% | ~8 |
+| Purification Avatar | 4.00% | ~8 |
 | The Chaos Artisan | 4.00% | ~8 |
 | The Distorted Sage | 4.00% | ~8 |
 | Behenian Hero | 4.00% | ~8 |
-| Lacertian Hero | 4.00% | ~8 |
 | Noctuan Hero | 4.00% | ~8 |
 | Astrarium of Holding | 3.00% | ~6 |
-| If I Had Failed... | 3.00% | ~6 |
-| Purification Avatar | 3.00% | ~6 |
 | The Abyssal Terror | 3.00% | ~6 |
+| Aquarian Hero | 3.00% | ~6 |
 | Behenian Mastery | 3.00% | ~6 |
+| Eridanian Hero | 3.00% | ~6 |
+| Astromancer | 2.00% | ~4 |
+| Critical Twist | 2.00% | ~4 |
 | Pocket Astrarium | 2.00% | ~4 |
 | Sentinelphobic | 2.00% | ~4 |
 | The Ardent Prince | 2.00% | ~4 |
 | The Raging Skies | 2.00% | ~4 |
-| Aquarian Hero | 2.00% | ~4 |
 | Aquarian Mastery | 2.00% | ~4 |
-| Eridanian Hero | 2.00% | ~4 |
 | Lacertian Mastery | 2.00% | ~4 |
 | Noctuan Mastery | 2.00% | ~4 |
 | Astral Tinkerer | 1.00% | ~2 |
-| Astromancer | 1.00% | ~2 |
-| Critical Twist | 1.00% | ~2 |
+| Astrea's Saviors | 1.00% | ~2 |
+| Astrium Specialist | 1.00% | ~2 |
 | Plague Doctor | 1.00% | ~2 |
 | Reflexive Mind | 1.00% | ~2 |
 | Royal Choir | 1.00% | ~2 |
+| This is Fine | 1.00% | ~2 |
 | Eridanian Mastery | 1.00% | ~2 |
 | Anomaly Master | 0.50% | ~1 |
 | Arch-Oracle | 0.50% | ~1 |
-| Astrea's Saviors | 0.50% | ~1 |
-| Astrium Specialist | 0.50% | ~1 |
 | Dice Specialist | 0.50% | ~1 |
 | Gotta tinker'em all! | 0.50% | ~1 |
 | Six-Sided Mastery | 0.50% | ~1 |
 | The world goes round... | 0.50% | ~1 |
-| This is Fine | 0.50% | ~1 |
 | Unepic Hero | 0.50% | ~1 |
 | Virtuous Warrior | 0.50% | ~1 |
 | Apian Mastery | 0.50% | ~1 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 357,
   "Ranking_EOS_Completed": 19,
   "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
     "PcReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 352,
-  "EOS_Completed": 86,
+  "EOS_Completed": 87,
   "EOS_NewPlayers": 29,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 24.43,
+  "EOS_NewCompleters": 6,
+  "EOS_Completed_Percentage": 24.72,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -1874,6 +1874,11 @@
       "Time": "2023-12-20T20:03:51.7887097+00:00",
       "NumProgressed": 352,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2023-12-20T22:04:58.2868749+00:00",
+      "NumProgressed": 352,
+      "NumCompleted": 87
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -1940,9 +1945,9 @@
       "ID": "GameComplete",
       "SetID": "7jbi7el",
       "Name": "Savior",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 162
+      "UsersEstimate": 165
     },
     {
       "ID": "GasDeath",
@@ -1988,9 +1993,9 @@
       "ID": "Synthesis",
       "SetID": "7jbi7el",
       "Name": "Beginner Chemist",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 80,
-      "UsersEstimate": 162
+      "UsersEstimate": 165
     }
   ],
   "AchievementSets": [
@@ -1998,13 +2003,13 @@
       "ID": "7jbi7el",
       "IsBase": true,
       "Progressed": 352,
-      "Completed": 86
+      "Completed": 87
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-12-20T21:04:04.6370534+00:00",
+  "LastChanged_Achievements": "2023-12-20T22:04:58.286874+00:00",
   "LastUpdate_AppInfo": "2023-12-20T02:56:48.8578291+00:00",
-  "LastUpdate_Ratings": "2023-12-20T20:58:34.6822766+00:00",
-  "LastUpdate_Achievements": "2023-12-20T21:04:04.6370788+00:00"
+  "LastUpdate_Ratings": "2023-12-20T21:59:09.0418173+00:00",
+  "LastUpdate_Achievements": "2023-12-20T22:04:58.2868908+00:00"
 }

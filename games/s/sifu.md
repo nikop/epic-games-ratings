@@ -8,9 +8,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Old Grandmaster | 3.00% | ~22,127 |
 | Life is your teacher | 3.00% | ~22,127 |
-| The Assault | 2.00% | ~14,751 |
-| The Hateful Pole Fighter | 2.00% | ~14,751 |
-| Lightning Hands | 2.00% | ~14,751 |
+| The Assault | 2.00% | ~14,752 |
+| The Hateful Pole Fighter | 2.00% | ~14,752 |
+| Old Child | 2.00% | ~14,752 |
+| Lightning Hands | 2.00% | ~14,752 |
 | A Lady's Blood in the Snow | 1.00% | ~7,376 |
 | Lady Wing Chun | 1.00% | ~7,376 |
 | Kill Nil | 1.00% | ~7,376 |
@@ -19,7 +20,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | State of constant learning | 1.00% | ~7,376 |
 | Qi Gong: Breath | 1.00% | ~7,376 |
 | Qi Gong: Essence | 1.00% | ~7,376 |
-| Old Child | 1.00% | ~7,376 |
 | Path of the Prospect | 1.00% | ~7,376 |
 | Rumble in the Hangar | 1.00% | ~7,376 |
 | Diligence as a goal | 1.00% | ~469 |
@@ -27,7 +27,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | I know Kung-Fu | 0.90% | ~6,638 |
 | Take damage to save time | 0.90% | ~6,638 |
 | Project Arena | 0.90% | ~422 |
-| Qi Gong: Mind | 0.80% | ~5,900 |
+| Qi Gong: Mind | 0.80% | ~5,901 |
 | Scareless | 0.70% | ~5,163 |
 | Kung-Fu Tussle | 0.70% | ~5,163 |
 | Fight the way you practice | 0.70% | ~328 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~47 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 737,557 (Ranked 23)  
+Progressed: 737,577 (Ranked 23)  
 Completed: 12,958 (1.76%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,10 +311,10 @@ Completed: 12,958 (1.76%) (Ranked 140)
 | 2023-12-17 | 733,014 | 12,955 |
 | 2023-12-18 | 734,825 | 12,956 |
 | 2023-12-19 | 736,295 | 12,958 |
-| 2023-12-20 | 737,557 | 12,958 |
+| 2023-12-20 | 737,577 | 12,958 |
 ## Awards
 Max (Great Boss Battles): 6,973  (Ranked 55)  
-Sum: 12,222 (Ranked 84)  
+Sum: 12,223 (Ranked 84)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
@@ -323,7 +323,7 @@ Diff (max vs sum): -29
 | This game has Challenging Combat | 623 |
 | This game has Amazing Storytelling | 605 |
 | This game has Amazing Characters | 594 |
-| This game is Highly Recommended | 587 |
+| This game is Highly Recommended | 588 |
 | This game has Quickly Understood Controls | 584 |
 | This game is Extremely Fun | 575 |
 | This game has Unique Visuals | 568 |
@@ -669,4 +669,4 @@ Diff (max vs sum): -29
 | 2023-12-17 | 4.82 | - | 6,944 | 12,182 |
 | 2023-12-18 | 4.82 | - | 6,957 | 12,197 |
 | 2023-12-19 | 4.82 | - | 6,965 | 12,212 |
-| 2023-12-20 | 4.82 | - | 6,973 | 12,222 |
+| 2023-12-20 | 4.82 | - | 6,973 | 12,223 |

@@ -997,9 +997,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 7281,
+  "EOS_Progressed": 7287,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 499,
+  "EOS_NewPlayers": 504,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11727,6 +11727,11 @@
       "Time": "2023-12-20T21:03:34.3546164+00:00",
       "NumProgressed": 7281,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T22:04:14.9304263+00:00",
+      "NumProgressed": 7287,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -11738,7 +11743,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -11746,7 +11751,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -11754,7 +11759,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -11786,7 +11791,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -11794,7 +11799,7 @@
       "Name": "Scaling up",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -11842,7 +11847,7 @@
       "Name": "Goldfish?",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -11850,7 +11855,7 @@
       "Name": "Going for Gold",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -12032,9 +12037,9 @@
       "ID": "ACHIEVEMENT_039",
       "SetID": "6jk25od",
       "Name": "Aguas Claras Conquistador",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_040",
@@ -12057,13 +12062,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7281,
+      "Progressed": 7287,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 6653,
+      "Progressed": 6659,
       "Completed": 113
     }
   ],
@@ -12071,8 +12076,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-19T21:01:18.283185+00:00",
-  "LastChanged_Achievements": "2023-12-20T21:03:34.3546161+00:00",
+  "LastChanged_Achievements": "2023-12-20T22:04:14.930426+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:41.8809727+00:00",
-  "LastUpdate_Ratings": "2023-12-20T21:00:36.0100482+00:00",
-  "LastUpdate_Achievements": "2023-12-20T21:03:34.3546903+00:00"
+  "LastUpdate_Ratings": "2023-12-20T22:02:11.3179446+00:00",
+  "LastUpdate_Achievements": "2023-12-20T22:04:14.9305139+00:00"
 }

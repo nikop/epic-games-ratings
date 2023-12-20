@@ -4,7 +4,7 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 371,
+  "EOS_Progressed": 372,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.08,
   "EosHistory": [
@@ -896,6 +896,11 @@
       "Time": "2023-12-20T21:09:36.0267609+00:00",
       "NumProgressed": 371,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-20T22:10:18.5751637+00:00",
+      "NumProgressed": 372,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 19,
@@ -947,7 +952,7 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "ryan_date2_all",
@@ -987,7 +992,7 @@
       "Name": "The boss",
       "Percentage": 23,
       "XP": 90,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "success_derek",
@@ -1003,7 +1008,7 @@
       "Name": "The individualist",
       "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "success_jake",
@@ -1058,7 +1063,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 371,
+      "Progressed": 372,
       "Completed": 4
     }
   ],
@@ -1066,8 +1071,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-12-20T21:09:36.0267605+00:00",
+  "LastChanged_Achievements": "2023-12-20T22:10:18.5751632+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:10.0190099+00:00",
-  "LastUpdate_Ratings": "2023-12-20T21:00:27.2177202+00:00",
-  "LastUpdate_Achievements": "2023-12-20T21:09:36.0267769+00:00"
+  "LastUpdate_Ratings": "2023-12-20T22:01:57.5682379+00:00",
+  "LastUpdate_Achievements": "2023-12-20T22:10:18.5751821+00:00"
 }

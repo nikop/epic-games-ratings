@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1362,
+  "EOS_Progressed": 1363,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 638,
+  "EOS_NewPlayers": 639,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
@@ -2445,6 +2445,11 @@
       "Time": "2023-12-20T21:09:55.8704878+00:00",
       "NumProgressed": 1362,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-20T22:10:46.8570294+00:00",
+      "NumProgressed": 1363,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 15,
@@ -2456,7 +2461,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 1335
+      "UsersEstimate": 1336
     },
     {
       "ID": "booty_call",
@@ -2488,7 +2493,7 @@
       "Name": "Hold my Beer",
       "Percentage": 62,
       "XP": 25,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -2504,7 +2509,7 @@
       "Name": "Interrogation",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "light_sleepers",
@@ -2575,7 +2580,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 1362,
+      "Progressed": 1363,
       "Completed": 11
     }
   ],
@@ -2583,8 +2588,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-12-20T21:09:55.8704869+00:00",
+  "LastChanged_Achievements": "2023-12-20T22:10:46.8570289+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:02.6209919+00:00",
-  "LastUpdate_Ratings": "2023-12-20T20:58:01.0513604+00:00",
-  "LastUpdate_Achievements": "2023-12-20T21:09:55.8705092+00:00"
+  "LastUpdate_Ratings": "2023-12-20T21:58:17.6966384+00:00",
+  "LastUpdate_Achievements": "2023-12-20T22:10:46.8570526+00:00"
 }

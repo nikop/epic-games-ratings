@@ -43,11 +43,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1461,
+  "EOS_Progressed": 1463,
   "EOS_Completed": 78,
   "EOS_NewPlayers": 482,
   "EOS_NewCompleters": 22,
-  "EOS_Completed_Percentage": 5.34,
+  "EOS_Completed_Percentage": 5.33,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -4678,6 +4678,11 @@
       "Time": "2023-12-20T21:08:32.9689179+00:00",
       "NumProgressed": 1461,
       "NumCompleted": 78
+    },
+    {
+      "Time": "2023-12-20T22:08:50.6141866+00:00",
+      "NumProgressed": 1463,
+      "NumCompleted": 78
     }
   ],
   "TotalAchievements": 25,
@@ -4689,7 +4694,7 @@
       "Name": "I did it",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "END_GOOD",
@@ -4713,7 +4718,7 @@
       "Name": "Cable guy",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "META_FIRST_LINK",
@@ -4729,7 +4734,7 @@
       "Name": "Half the way",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "META_RESULT_1-2",
@@ -4833,7 +4838,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -4841,7 +4846,7 @@
       "Name": "Scholar",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "PROGRESS_N1",
@@ -4849,7 +4854,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "PROGRESS_N2",
@@ -4857,7 +4862,7 @@
       "Name": "The great escape",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "PROGRESS_N3",
@@ -4865,7 +4870,7 @@
       "Name": "A new dawn",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "PROGRESS_N4",
@@ -4888,7 +4893,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1461,
+      "Progressed": 1463,
       "Completed": 78
     }
   ],
@@ -4896,8 +4901,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-19T13:57:35.0364217+00:00",
-  "LastChanged_Achievements": "2023-12-20T21:08:32.9689173+00:00",
+  "LastChanged_Achievements": "2023-12-20T22:08:50.6141852+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:30.8935759+00:00",
-  "LastUpdate_Ratings": "2023-12-20T20:58:39.530184+00:00",
-  "LastUpdate_Achievements": "2023-12-20T21:08:32.9689564+00:00"
+  "LastUpdate_Ratings": "2023-12-20T21:59:16.3614132+00:00",
+  "LastUpdate_Achievements": "2023-12-20T22:08:50.6142292+00:00"
 }

@@ -11,7 +11,7 @@
 | Conducted Trade | 65.00% | ~92 |
 | Aristocratic | 63.00% | ~89 |
 | Tutti Frutti | 57.00% | ~81 |
-| Gotta Go Fast | 44.00% | ~62 |
+| Gotta Go Fast | 45.00% | ~64 |
 | Systematic | 41.00% | ~58 |
 | Slotting Machine | 39.00% | ~55 |
 | Roll Out | 36.00% | ~51 |
@@ -21,8 +21,8 @@
 | Whoa! | 25.00% | ~36 |
 | Botropolis | 23.00% | ~33 |
 | Steaming Rich | 18.00% | ~26 |
-| Steam Powered | 16.00% | ~23 |
-| Manic Mechanic | 14.00% | ~20 |
+| Steam Powered | 17.00% | ~24 |
+| Manic Mechanic | 15.00% | ~21 |
 | Room To Spare | 12.00% | ~17 |
 | Click 'Em All | 4.00% | ~6 |
 | Real Purdy | 4.00% | ~6 |

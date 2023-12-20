@@ -5,7 +5,7 @@
   "Ranking_Rating": 232,
   "Ranking_Popularity": 524,
   "Ranking_PopularitySum": 412,
-  "Ranking_EOS_Progress": 317,
+  "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 158,
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 596,
+  "EOS_Progressed": 599,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2408,6 +2408,11 @@
       "Time": "2023-12-20T21:08:52.2455311+00:00",
       "NumProgressed": 596,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T22:09:17.0381836+00:00",
+      "NumProgressed": 599,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2524,7 +2529,7 @@
       "Name": "Critical Hit",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "Deepstrike",
@@ -2564,7 +2569,7 @@
       "Name": "Double Kill",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "FlameAttackKillCount",
@@ -2626,9 +2631,9 @@
       "ID": "MultiKill",
       "SetID": "71c0n9i",
       "Name": "Multi Kill",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 48
     },
     {
       "ID": "MultiplayerWins",
@@ -2748,7 +2753,7 @@
       "Name": "Adept",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 246
     },
     {
       "ID": "WielderLevel2",
@@ -2756,7 +2761,7 @@
       "Name": "Veteran",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "WielderLevel3",
@@ -2851,15 +2856,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 596,
+      "Progressed": 599,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-20T21:08:52.2455308+00:00",
+  "LastChanged_Achievements": "2023-12-20T22:09:17.0381831+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:10.4027668+00:00",
-  "LastUpdate_Ratings": "2023-12-20T20:58:26.2988614+00:00",
-  "LastUpdate_Achievements": "2023-12-20T21:08:52.2455773+00:00"
+  "LastUpdate_Ratings": "2023-12-20T21:58:56.4982339+00:00",
+  "LastUpdate_Achievements": "2023-12-20T22:09:17.0382389+00:00"
 }

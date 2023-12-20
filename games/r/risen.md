@@ -5,19 +5,19 @@ Rating: 4.56 (Ranked 498)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 92.00% | ~92 |
-| Map reader | 73.00% | ~73 |
-| Philanthropist | 67.00% | ~67 |
-| Adventurer | 67.00% | ~67 |
-| Archer | 51.00% | ~51 |
+| Beginner | 91.00% | ~92 |
+| Map reader | 72.00% | ~73 |
+| Philanthropist | 66.00% | ~67 |
+| Adventurer | 66.00% | ~67 |
 | The brave little tailor | 50.00% | ~50 |
+| Archer | 50.00% | ~50 |
 | Field hand | 43.00% | ~43 |
 | Samaritan | 41.00% | ~41 |
-| Well-to-do | 39.00% | ~39 |
+| Well-to-do | 40.00% | ~40 |
 | The merciful one | 38.00% | ~38 |
 | Ladies' man | 37.00% | ~37 |
 | Ferocious wild boars | 30.00% | ~30 |
-| Idiot | 27.00% | ~27 |
+| Idiot | 28.00% | ~28 |
 | Beast slayer | 24.00% | ~24 |
 | Family man | 22.00% | ~22 |
 | Death of a legend | 22.00% | ~22 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 498)
 | Freedom fighter | 12.00% | ~12 |
 | King of the handymen | 11.00% | ~11 |
 | Titan Lord | 10.00% | ~10 |
-| Terror of the hens | 9.00% | ~9 |
+| Terror of the hens | 10.00% | ~10 |
 | Expert | 9.00% | ~9 |
 | The traveler | 7.00% | ~7 |
 | Moneybags | 6.00% | ~6 |
@@ -56,7 +56,7 @@ Rating: 4.56 (Ranked 498)
 | Master of the classes | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 100 (Ranked 465)  
+Progressed: 101 (Ranked 466)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,6 +108,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-17 | 91 | 0 |
 | 2023-12-18 | 96 | 0 |
 | 2023-12-19 | 100 | 0 |
+| 2023-12-20 | 101 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
