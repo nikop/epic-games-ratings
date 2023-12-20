@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 391,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 161,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
@@ -673,9 +673,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 472514,
+  "EOS_Progressed": 472515,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 334,
+  "EOS_NewPlayers": 332,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25883,6 +25883,11 @@
       "Time": "2023-12-20T12:10:50.4994559+00:00",
       "NumProgressed": 472514,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-12-20T13:10:05.6506038+00:00",
+      "NumProgressed": 472515,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -25910,7 +25915,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113403
+      "UsersEstimate": 113404
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -25934,7 +25939,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 47251
+      "UsersEstimate": 47252
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -25982,7 +25987,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 311859
+      "UsersEstimate": 311860
     },
     {
       "ID": "achievement_story_landa",
@@ -26014,7 +26019,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 118128
+      "UsersEstimate": 118129
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -26318,7 +26323,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207906
+      "UsersEstimate": 207907
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -26350,7 +26355,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 184280
+      "UsersEstimate": 184281
     },
     {
       "ID": "achievement_win_run_hard",
@@ -26525,21 +26530,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 16448,
+      "Progressed": 16449,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 472514,
+      "Progressed": 472515,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-12-16T01:44:08.2225132+00:00",
-  "LastChanged_Achievements": "2023-12-20T12:10:50.4994557+00:00",
+  "LastChanged_Achievements": "2023-12-20T13:10:05.6506034+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:11.1940108+00:00",
-  "LastUpdate_Ratings": "2023-12-20T11:57:20.514149+00:00",
-  "LastUpdate_Achievements": "2023-12-20T12:10:50.4996401+00:00"
+  "LastUpdate_Ratings": "2023-12-20T12:57:27.743923+00:00",
+  "LastUpdate_Achievements": "2023-12-20T13:10:05.6507867+00:00"
 }

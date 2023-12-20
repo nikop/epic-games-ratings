@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 55,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -2428,9 +2428,9 @@
       "ID": "AmanitaRun",
       "SetID": "db30heh",
       "Name": "Wild Run",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 272
+      "UsersEstimate": 278
     },
     {
       "ID": "BasiliskBroom",
@@ -2508,9 +2508,9 @@
       "ID": "BeggarWomanHut",
       "SetID": "db30heh",
       "Name": "Home Sweet Home",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 430
+      "UsersEstimate": 436
     },
     {
       "ID": "BroomAmanita",
@@ -2612,9 +2612,9 @@
       "ID": "HastrmanRum",
       "SetID": "db30heh",
       "Name": "That\u0027s Not Water",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 133
+      "UsersEstimate": 139
     },
     {
       "ID": "HatFlower",
@@ -2636,9 +2636,9 @@
       "ID": "PitSoul",
       "SetID": "db30heh",
       "Name": "Your Soul Is Mine",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 266
+      "UsersEstimate": 272
     },
     {
       "ID": "PriestBroom",
@@ -2716,9 +2716,9 @@
       "ID": "RogueKing",
       "SetID": "db30heh",
       "Name": "Long Live The King",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 182
+      "UsersEstimate": 188
     },
     {
       "ID": "RogueNaked",
@@ -2795,8 +2795,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-12-20T12:04:45.4688912+00:00",
+  "LastChanged_Achievements": "2023-12-20T13:04:12.1225435+00:00",
   "LastUpdate_AppInfo": "2023-12-20T02:56:49.0129985+00:00",
-  "LastUpdate_Ratings": "2023-12-20T11:58:47.3028051+00:00",
-  "LastUpdate_Achievements": "2023-12-20T12:04:45.4689277+00:00"
+  "LastUpdate_Ratings": "2023-12-20T12:58:30.3263284+00:00",
+  "LastUpdate_Achievements": "2023-12-20T13:04:12.1225791+00:00"
 }

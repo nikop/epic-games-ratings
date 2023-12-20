@@ -12,7 +12,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Defender's Heart | 16.00% | ~2,006 |
 | Mythic Choices | 15.00% | ~1,881 |
 | Banner over the Citadel | 14.00% | ~1,755 |
-| Queen's Gratitude | 12.00% | ~1,504 |
+| Queen's Gratitude | 12.00% | ~1,505 |
 | Fifth Crusade | 9.00% | ~1,128 |
 | Embrace of the Abyss | 7.00% | ~878 |
 | Path of the Angel | 7.00% | ~878 |
@@ -26,10 +26,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | A Flame | 5.00% | ~627 |
 | Next-Door Play | 5.00% | ~627 |
 | Get the Toad | 5.00% | ~627 |
-| Heart of the Fallen Land | 4.00% | ~501 |
-| Divide and Rule | 4.00% | ~501 |
-| Mythic Reinforcements | 4.00% | ~501 |
-| Hey, I Know You! | 4.00% | ~501 |
+| Heart of the Fallen Land | 4.00% | ~502 |
+| Divide and Rule | 4.00% | ~502 |
+| Mythic Reinforcements | 4.00% | ~502 |
+| Hey, I Know You! | 4.00% | ~502 |
 | Path of the Trickster | 3.00% | ~376 |
 | Path of the Lich | 3.00% | ~376 |
 | Heroic Victory | 3.00% | ~376 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,537 (Ranked 167)  
+Progressed: 12,538 (Ranked 167)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -367,10 +367,10 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-17 | 12,459 | 0 |
 | 2023-12-18 | 12,490 | 0 |
 | 2023-12-19 | 12,526 | 0 |
-| 2023-12-20 | 12,537 | 0 |
+| 2023-12-20 | 12,538 | 0 |
 ## Awards
 Max (Character Customization): 1,763  (Ranked 124)  
-Sum: 7,152 (Ranked 123)  
+Sum: 7,153 (Ranked 123)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
@@ -381,7 +381,7 @@ Diff (max vs sum): 1
 | This game has Amazing Characters | 646 |
 | This game has Amazing Storytelling | 629 |
 | This game has Challenging Combat | 597 |
-| This game has Quickly Understood Controls | 582 |
+| This game has Quickly Understood Controls | 583 |
 | This game is Relaxing | 564 |
 | This game has a Creative Community | 404 |
 | This game has Obsessive Gameplay | 364 |
@@ -684,4 +684,4 @@ Diff (max vs sum): 1
 | 2023-12-17 | 4.76 | - | 1,763 | 7,148 |
 | 2023-12-18 | 4.76 | - | 1,763 | 7,150 |
 | 2023-12-19 | 4.76 | - | 1,763 | 7,151 |
-| 2023-12-20 | 4.76 | - | 1,763 | 7,152 |
+| 2023-12-20 | 4.76 | - | 1,763 | 7,153 |

@@ -5,7 +5,7 @@
   "Ranking_Rating": 43,
   "Ranking_Popularity": 284,
   "Ranking_PopularitySum": 225,
-  "Ranking_EOS_Progress": 138,
+  "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 290,
   "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 161,
@@ -1500,9 +1500,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 25853,
+  "EOS_Progressed": 25877,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 2148,
+  "EOS_NewPlayers": 2172,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -11200,6 +11200,11 @@
       "Time": "2023-12-20T12:10:24.0000086+00:00",
       "NumProgressed": 25853,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-20T13:09:45.265232+00:00",
+      "NumProgressed": 25877,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -11275,7 +11280,7 @@
       "Name": "Captain and Crew",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -11291,7 +11296,7 @@
       "Name": "Spells and Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1293
+      "UsersEstimate": 1294
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -11331,7 +11336,7 @@
       "Name": "For Survival",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "BossForestDefeated",
@@ -11339,7 +11344,7 @@
       "Name": "Harvest and Home",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -11363,7 +11368,7 @@
       "Name": "For Love",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "BossStudyDefeated",
@@ -11371,7 +11376,7 @@
       "Name": "Poise and Poisons",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -11387,7 +11392,7 @@
       "Name": "Suns and Soldiers",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "BoxerBoss",
@@ -11507,7 +11512,7 @@
       "Name": "Jack of all Trades",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "UnlockHighestUnity",
@@ -11522,21 +11527,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 25853,
+      "Progressed": 25877,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 4783,
+      "Progressed": 4807,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-07T09:58:25.2813813+00:00",
-  "LastChanged_Achievements": "2023-12-20T12:10:24.0000082+00:00",
+  "LastChanged_Achievements": "2023-12-20T13:09:45.2652316+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:44.2937948+00:00",
-  "LastUpdate_Ratings": "2023-12-20T11:58:41.2067134+00:00",
-  "LastUpdate_Achievements": "2023-12-20T12:10:24.0000785+00:00"
+  "LastUpdate_Ratings": "2023-12-20T12:58:26.0041179+00:00",
+  "LastUpdate_Achievements": "2023-12-20T13:09:45.2653023+00:00"
 }

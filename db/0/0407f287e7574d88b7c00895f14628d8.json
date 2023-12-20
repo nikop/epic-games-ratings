@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 99,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -604,9 +604,9 @@
       "ID": "jz1",
       "SetID": "b1ggf28",
       "Name": "Builder",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "jz2",
@@ -740,9 +740,9 @@
       "ID": "x1",
       "SetID": "b1ggf28",
       "Name": "Happiness Maintainer",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "x2",
@@ -819,8 +819,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-20T12:07:36.774389+00:00",
+  "LastChanged_Achievements": "2023-12-20T13:06:25.0672242+00:00",
   "LastUpdate_AppInfo": "2023-12-20T04:56:56.1414311+00:00",
-  "LastUpdate_Ratings": "2023-12-20T12:03:04.3835116+00:00",
-  "LastUpdate_Achievements": "2023-12-20T12:07:36.7744182+00:00"
+  "LastUpdate_Ratings": "2023-12-20T13:03:12.7815141+00:00",
+  "LastUpdate_Achievements": "2023-12-20T13:06:25.0672696+00:00"
 }

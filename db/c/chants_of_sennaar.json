@@ -43,11 +43,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1431,
+  "EOS_Progressed": 1433,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 464,
+  "EOS_NewPlayers": 466,
   "EOS_NewCompleters": 20,
-  "EOS_Completed_Percentage": 5.24,
+  "EOS_Completed_Percentage": 5.23,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -4643,6 +4643,11 @@
       "Time": "2023-12-20T12:08:41.1112914+00:00",
       "NumProgressed": 1431,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2023-12-20T13:08:28.3036206+00:00",
+      "NumProgressed": 1433,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 25,
@@ -4678,7 +4683,7 @@
       "Name": "Cable guy",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "META_FIRST_LINK",
@@ -4686,7 +4691,7 @@
       "Name": "A good beginning",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "META_HALF_LINK",
@@ -4694,7 +4699,7 @@
       "Name": "Half the way",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "META_RESULT_1-2",
@@ -4710,7 +4715,7 @@
       "Name": "Free at last",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "META_RESULT_1-4",
@@ -4766,7 +4771,7 @@
       "Name": "True G3M4R",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -4788,9 +4793,9 @@
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 258
+      "UsersEstimate": 272
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -4798,7 +4803,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -4814,7 +4819,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "PROGRESS_N2",
@@ -4822,7 +4827,7 @@
       "Name": "The great escape",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "PROGRESS_N3",
@@ -4838,7 +4843,7 @@
       "Name": "The darkness",
       "Percentage": 24,
       "XP": 60,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "PROGRESS_N5",
@@ -4853,7 +4858,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1431,
+      "Progressed": 1433,
       "Completed": 75
     }
   ],
@@ -4861,8 +4866,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-19T13:57:35.0364217+00:00",
-  "LastChanged_Achievements": "2023-12-20T12:08:41.1112911+00:00",
+  "LastChanged_Achievements": "2023-12-20T13:08:28.3036202+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:30.8935759+00:00",
-  "LastUpdate_Ratings": "2023-12-20T11:58:44.6472658+00:00",
-  "LastUpdate_Achievements": "2023-12-20T12:08:41.1113271+00:00"
+  "LastUpdate_Ratings": "2023-12-20T12:58:28.4336519+00:00",
+  "LastUpdate_Achievements": "2023-12-20T13:08:28.3036585+00:00"
 }

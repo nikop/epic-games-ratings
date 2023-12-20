@@ -4,7 +4,7 @@
   "ProductSlug": "against-the-storm",
   "Ranking_Rating": 70,
   "Ranking_Popularity": 228,
-  "Ranking_PopularitySum": 174,
+  "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 127,
@@ -3447,10 +3447,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3273,
       "NumberOfAwardsMax": 442
+    },
+    {
+      "Time": "2023-12-20T12:59:24.8081061+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3274,
+      "NumberOfAwardsMax": 442
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3273,
+  "NumberOfAwards": 3274,
   "NumberOfAwardsMax": 442,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3476,7 +3482,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 410
+      "Count": 411
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3515,9 +3521,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18722,
+  "EOS_Progressed": 18726,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 710,
+  "EOS_NewPlayers": 713,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16430,6 +16436,11 @@
       "Time": "2023-12-20T12:07:34.447146+00:00",
       "NumProgressed": 18722,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-20T13:06:23.2669231+00:00",
+      "NumProgressed": 18726,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16570,7 +16581,7 @@
       "Name": "Barren Lands",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "WinNearBattleground",
@@ -16586,7 +16597,7 @@
       "Name": "Sparkdew Crystals",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "WinNearDangerous",
@@ -16602,7 +16613,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "WinNearFishmen",
@@ -16642,7 +16653,7 @@
       "Name": "Flooded Mines",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "WinNearMonastery",
@@ -16658,7 +16669,7 @@
       "Name": "Royal Outpost",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "WinNearRuins",
@@ -16698,7 +16709,7 @@
       "Name": "Watchtower",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "WinOnCoral",
@@ -16730,7 +16741,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "WinPrestige10",
@@ -16866,7 +16877,7 @@
       "Name": "Overgrown Library",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1124
     },
     {
       "ID": "WinNearPetrified",
@@ -16898,7 +16909,7 @@
       "Name": "Untamed Wilds",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "WinWithFoxes",
@@ -16913,15 +16924,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18722,
+      "Progressed": 18726,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-12-19T21:58:46.6682158+00:00",
-  "LastChanged_Achievements": "2023-12-20T12:07:34.4471457+00:00",
+  "LastChanged": "2023-12-20T12:59:24.808106+00:00",
+  "LastChanged_Achievements": "2023-12-20T13:06:23.2669228+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
-  "LastUpdate_Ratings": "2023-12-20T12:00:03.7309722+00:00",
-  "LastUpdate_Achievements": "2023-12-20T12:07:34.4472256+00:00"
+  "LastUpdate_Ratings": "2023-12-20T12:59:24.8081064+00:00",
+  "LastUpdate_Achievements": "2023-12-20T13:06:23.2670305+00:00"
 }

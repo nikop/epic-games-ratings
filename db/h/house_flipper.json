@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 161,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
@@ -2101,10 +2101,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 2273,
       "NumberOfAwardsMax": 328
+    },
+    {
+      "Time": "2023-12-20T12:58:55.6191709+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2274,
+      "NumberOfAwardsMax": 328
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2273,
+  "NumberOfAwards": 2274,
   "NumberOfAwardsMax": 328,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2130,7 +2136,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 221
+      "Count": 222
     },
     {
       "Text": "This game is Relaxing",
@@ -2175,9 +2181,9 @@
       "Count": 221
     }
   ],
-  "EOS_Progressed": 21621,
+  "EOS_Progressed": 21623,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11665,6 +11671,11 @@
       "Time": "2023-12-20T11:07:11.3062898+00:00",
       "NumProgressed": 21621,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-20T13:06:10.362844+00:00",
+      "NumProgressed": 21623,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -11724,7 +11735,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20540
+      "UsersEstimate": 20542
     },
     {
       "ID": "GameOver",
@@ -11788,7 +11799,7 @@
       "Name": "Just Enough",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4324
+      "UsersEstimate": 4325
     },
     {
       "ID": "Negotiator",
@@ -11812,7 +11823,7 @@
       "Name": "Alpha Male",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4324
+      "UsersEstimate": 4325
     },
     {
       "ID": "SeniorEstateAgent",
@@ -11859,15 +11870,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21621,
+      "Progressed": 21623,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
-  "LastChanged": "2023-12-19T22:58:10.0648414+00:00",
-  "LastChanged_Achievements": "2023-12-20T12:07:17.3622827+00:00",
+  "LastChanged": "2023-12-20T12:58:55.6191708+00:00",
+  "LastChanged_Achievements": "2023-12-20T13:06:10.3628435+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:12.9668458+00:00",
-  "LastUpdate_Ratings": "2023-12-20T11:59:22.9402064+00:00",
-  "LastUpdate_Achievements": "2023-12-20T12:07:17.3623454+00:00"
+  "LastUpdate_Ratings": "2023-12-20T12:58:55.6191712+00:00",
+  "LastUpdate_Achievements": "2023-12-20T13:06:10.3629223+00:00"
 }

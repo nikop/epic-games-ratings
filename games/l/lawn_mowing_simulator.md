@@ -6,12 +6,12 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 79.00% | ~544,756 |
-| Every story has a beginning | 36.00% | ~248,243 |
-| The first of many | 31.00% | ~213,765 |
-| Positive word of mouth | 18.00% | ~124,122 |
-| Lawn in the U.S.A. | 15.00% | ~103,435 |
-| Blade Runner | 9.00% | ~62,061 |
+| The dream begins | 79.00% | ~544,764 |
+| Every story has a beginning | 36.00% | ~248,247 |
+| The first of many | 31.00% | ~213,768 |
+| Positive word of mouth | 18.00% | ~124,124 |
+| Lawn in the U.S.A. | 15.00% | ~103,436 |
+| Blade Runner | 9.00% | ~62,062 |
 | Credible | 7.00% | ~48,270 |
 | Teamwork makes the dream work | 6.00% | ~41,374 |
 | Where there's muck there's brass | 4.00% | ~27,583 |
@@ -20,13 +20,13 @@ Number of Ratings: 5,086  (23.09.2022)
 | Size isn't everything | 3.00% | ~20,687 |
 | Close shave | 3.00% | ~20,687 |
 | Established | 3.00% | ~20,687 |
-| Fighting on all fronts | 2.00% | ~13,791 |
-| Mighty Mowing Park Ranger | 2.00% | ~13,791 |
-| Every good deed… | 2.00% | ~13,791 |
-| Leaner and meaner | 2.00% | ~13,791 |
-| The top of the mountain | 2.00% | ~13,791 |
-| First step on the ladder | 2.00% | ~13,791 |
-| Trusted | 2.00% | ~13,791 |
+| Fighting on all fronts | 2.00% | ~13,792 |
+| Mighty Mowing Park Ranger | 2.00% | ~13,792 |
+| Every good deed… | 2.00% | ~13,792 |
+| Leaner and meaner | 2.00% | ~13,792 |
+| The top of the mountain | 2.00% | ~13,792 |
+| First step on the ladder | 2.00% | ~13,792 |
+| Trusted | 2.00% | ~13,792 |
 | Earn your stripes | 0.90% | ~6,206 |
 | Lawn & Order | 0.90% | ~6,206 |
 | The grass is always greener | 0.90% | ~6,206 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~690 |
 | Mo mowers, mo problems | 0.10% | ~690 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 689,565 (Ranked 27)  
+Progressed: 689,575 (Ranked 27)  
 Completed: 19 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 19 (0.00%) (Ranked 385)
 | 2023-12-17 | 688,953 | 19 |
 | 2023-12-18 | 689,187 | 19 |
 | 2023-12-19 | 689,447 | 19 |
-| 2023-12-20 | 689,565 | 19 |
+| 2023-12-20 | 689,575 | 19 |
 ## Awards
 Max (Quickly Understood Controls): 182  (Ranked 305)  
 Sum: 990 (Ranked 265)  

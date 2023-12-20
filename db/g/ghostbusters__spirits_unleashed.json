@@ -4,7 +4,7 @@
   "ProductSlug": "ghostbusters-spirits-unleashed",
   "Ranking_Rating": 602,
   "Ranking_Popularity": 251,
-  "Ranking_PopularitySum": 181,
+  "Ranking_PopularitySum": 182,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 172,
@@ -3789,9 +3789,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32465,
+  "EOS_Progressed": 32466,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 253,
+  "EOS_NewPlayers": 254,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -22874,6 +22874,11 @@
       "Time": "2023-12-20T10:05:20.5417421+00:00",
       "NumProgressed": 32465,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-20T13:05:38.9367018+00:00",
+      "NumProgressed": 32466,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -23189,7 +23194,7 @@
       "Name": "Stylish",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3246
+      "UsersEstimate": 3247
     },
     {
       "ID": "Summoner",
@@ -23292,7 +23297,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32465,
+      "Progressed": 32466,
       "Completed": 69
     }
   ],
@@ -23300,8 +23305,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-18T23:58:18.6120703+00:00",
-  "LastChanged_Achievements": "2023-12-20T12:06:36.0568577+00:00",
+  "LastChanged_Achievements": "2023-12-20T13:05:38.9367014+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:05.1146147+00:00",
-  "LastUpdate_Ratings": "2023-12-20T12:00:04.2361493+00:00",
-  "LastUpdate_Achievements": "2023-12-20T12:06:36.0569803+00:00"
+  "LastUpdate_Ratings": "2023-12-20T12:59:25.160395+00:00",
+  "LastUpdate_Achievements": "2023-12-20T13:05:38.9368767+00:00"
 }

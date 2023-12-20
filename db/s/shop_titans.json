@@ -7663,9 +7663,9 @@
       "Count": 3800
     }
   ],
-  "EOS_Progressed": 146498,
+  "EOS_Progressed": 146507,
   "EOS_Completed": 325,
-  "EOS_NewPlayers": 1565,
+  "EOS_NewPlayers": 1567,
   "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -33198,6 +33198,11 @@
       "Time": "2023-12-20T12:04:32.6874617+00:00",
       "NumProgressed": 146498,
       "NumCompleted": 325
+    },
+    {
+      "Time": "2023-12-20T13:04:02.4920026+00:00",
+      "NumProgressed": 146507,
+      "NumCompleted": 325
     }
   ],
   "TotalAchievements": 112,
@@ -33361,7 +33366,7 @@
       "Name": "Bane of Legends",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1026
     },
     {
       "ID": "champions01",
@@ -33377,7 +33382,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13185
+      "UsersEstimate": 13186
     },
     {
       "ID": "chest02",
@@ -33441,7 +33446,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11720
+      "UsersEstimate": 11721
     },
     {
       "ID": "commonres02",
@@ -33505,7 +33510,7 @@
       "Name": "Oligarch Monarch",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "damage01",
@@ -33817,7 +33822,7 @@
       "Name": "Merchant Extraordinaire",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "lilu_a",
@@ -33857,7 +33862,7 @@
       "Name": "Anything not Nailed Down",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1026
     },
     {
       "ID": "master01",
@@ -33905,7 +33910,7 @@
       "Name": "All or Nothing!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1318
+      "UsersEstimate": 1319
     },
     {
       "ID": "polonia_a",
@@ -34025,7 +34030,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11720
+      "UsersEstimate": 11721
     },
     {
       "ID": "twinenchant01",
@@ -34104,15 +34109,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 146498,
+      "Progressed": 146507,
       "Completed": 325
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-20T03:02:58.4385215+00:00",
-  "LastChanged_Achievements": "2023-12-20T12:04:32.6874614+00:00",
+  "LastChanged_Achievements": "2023-12-20T13:04:02.4920023+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.001195+00:00",
-  "LastUpdate_Ratings": "2023-12-20T12:03:45.5741036+00:00",
-  "LastUpdate_Achievements": "2023-12-20T12:04:32.6876868+00:00"
+  "LastUpdate_Ratings": "2023-12-20T13:03:27.4889565+00:00",
+  "LastUpdate_Achievements": "2023-12-20T13:04:02.492259+00:00"
 }

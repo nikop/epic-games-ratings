@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 50.00% | ~450 |
+| Break Out | 50.00% | ~451 |
 | Trinity | 22.00% | ~198 |
 | I Found It | 18.00% | ~162 |
 | Find Allies | 17.00% | ~153 |
@@ -17,7 +17,7 @@
 | Fashion Victim | 14.00% | ~126 |
 | Scholar | 14.00% | ~126 |
 | Stone Collection | 13.00% | ~117 |
-| Powerful Allies | 11.00% | ~99 |
+| Powerful Allies | 12.00% | ~108 |
 | Big Bazar | 9.00% | ~81 |
 | Essence Blow | 7.00% | ~63 |
 | Alchemist | 6.00% | ~54 |
@@ -41,7 +41,7 @@
 | All That Gold | 0.60% | ~5 |
 | Feeling Fancy | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 899 (Ranked 280)  
+Progressed: 902 (Ranked 280)  
 Completed: 3 (0.33%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,4 +110,4 @@ Completed: 3 (0.33%) (Ranked 243)
 | 2023-12-17 | 752 | 3 |
 | 2023-12-18 | 818 | 3 |
 | 2023-12-19 | 881 | 3 |
-| 2023-12-20 | 899 | 3 |
+| 2023-12-20 | 902 | 3 |

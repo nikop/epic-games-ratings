@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 161,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1931,
+  "EOS_Progressed": 1934,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 242,
+  "EOS_NewPlayers": 245,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5684,6 +5684,11 @@
       "Time": "2023-12-20T11:11:11.3480914+00:00",
       "NumProgressed": 1931,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T13:10:05.483772+00:00",
+      "NumProgressed": 1934,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -5830,9 +5835,9 @@
       "ID": "achievement_25",
       "SetID": "271ol84",
       "Name": "A tremor in the Force",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 77
     },
     {
       "ID": "achievement_26",
@@ -5872,7 +5877,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "achievement_30",
@@ -5888,7 +5893,7 @@
       "Name": "Scrap collector",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "achievement_32",
@@ -5918,9 +5923,9 @@
       "ID": "achievement_35",
       "SetID": "271ol84",
       "Name": "New Recruit",
-      "Percentage": 89,
+      "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1719
+      "UsersEstimate": 1702
     },
     {
       "ID": "achievement_36",
@@ -5936,7 +5941,7 @@
       "Name": "Off to a good start",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1236
+      "UsersEstimate": 1238
     },
     {
       "ID": "achievement_38",
@@ -5944,7 +5949,7 @@
       "Name": "Survivor",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "achievement_39",
@@ -5968,7 +5973,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "achievement_41",
@@ -6000,15 +6005,15 @@
       "Name": "A good blaster at your side",
       "Percentage": 28,
       "XP": 40,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "achievement_45",
       "SetID": "cemm4l8",
       "Name": "This is a new day, a new beginning",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_46",
@@ -6136,7 +6141,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "achievement_60",
@@ -6199,13 +6204,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1931,
+      "Progressed": 1934,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1931,
+      "Progressed": 1934,
       "Completed": 1
     }
   ],
@@ -6213,8 +6218,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-20T12:10:50.3835976+00:00",
+  "LastChanged_Achievements": "2023-12-20T13:10:05.4837718+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.5169818+00:00",
-  "LastUpdate_Ratings": "2023-12-20T11:57:53.0791456+00:00",
-  "LastUpdate_Achievements": "2023-12-20T12:10:50.3836618+00:00"
+  "LastUpdate_Ratings": "2023-12-20T12:57:51.6506738+00:00",
+  "LastUpdate_Achievements": "2023-12-20T13:10:05.483842+00:00"
 }

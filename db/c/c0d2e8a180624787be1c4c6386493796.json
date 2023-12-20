@@ -4,7 +4,7 @@
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -844,9 +844,9 @@
       "ID": "KR4_ACHIEVEMENT_BLACKBURN_RETURNS",
       "SetID": "caeik3h",
       "Name": "Blackburn Returns",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "KR4_ACHIEVEMENT_BONEFLINGERS",
@@ -1100,9 +1100,9 @@
       "ID": "KR4_ACHIEVEMENT_JOKULL",
       "SetID": "caeik3h",
       "Name": "How To Tame Your Dragon",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 50,
-      "UsersEstimate": 112
+      "UsersEstimate": 114
     },
     {
       "ID": "KR4_ACHIEVEMENT_KERMIT",
@@ -1180,9 +1180,9 @@
       "ID": "KR4_ACHIEVEMENT_MELTINGFURNACE",
       "SetID": "caeik3h",
       "Name": "Presto Logs",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     },
     {
       "ID": "KR4_ACHIEVEMENT_MERCENARIES",
@@ -1404,9 +1404,9 @@
       "ID": "KR4_ACHIEVEMENT_WINTERLORD",
       "SetID": "caeik3h",
       "Name": "Lord of Winter",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 72
     },
     {
       "ID": "KR4_ACHIEVEMENT_WINTER_QUEEN",
@@ -1433,8 +1433,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-20T12:06:01.5490012+00:00",
+  "LastChanged_Achievements": "2023-12-20T13:05:09.7282794+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:06.9365218+00:00",
   "LastUpdate_Ratings": "2023-12-20T12:02:51.615908+00:00",
-  "LastUpdate_Achievements": "2023-12-20T12:06:01.5490579+00:00"
+  "LastUpdate_Achievements": "2023-12-20T13:05:09.7283685+00:00"
 }

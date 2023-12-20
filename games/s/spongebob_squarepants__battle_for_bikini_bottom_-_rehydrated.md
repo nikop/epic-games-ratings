@@ -6,7 +6,7 @@ Number of Ratings: 76  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Are you ready now? | 1.00% | ~1 |
+| Are you ready now? | 0.90% | ~1 |
 | Robot encyclopedia | 0.00% | ~0 |
 | The Small Does Not Rule | 0.00% | ~0 |
 | 100% SpongeBob | 0.00% | ~0 |
@@ -39,14 +39,14 @@ Number of Ratings: 76  (23.09.2022)
 | Surf's Up! | 0.00% | ~0 |
 | Time For Tutorial | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 103 (Ranked 460)  
+Progressed: 106 (Ranked 457)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-12-18 | 34 | 0 |
 | 2023-12-19 | 88 | 0 |
-| 2023-12-20 | 103 | 0 |
+| 2023-12-20 | 106 | 0 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 491)  
 Sum: 34 (Ranked 516)  

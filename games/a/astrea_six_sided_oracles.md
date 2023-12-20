@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 75.00% | ~151 |
-| Purification Pioneer | 71.00% | ~143 |
-| Mechanical Buddy | 66.00% | ~133 |
-| Dicesmithing Time! | 59.00% | ~119 |
-| Sanctuary Guardian | 53.00% | ~107 |
+| Meissa's Savior | 76.00% | ~153 |
+| Purification Pioneer | 72.00% | ~145 |
+| Mechanical Buddy | 67.00% | ~135 |
+| Dicesmithing Time! | 60.00% | ~121 |
+| Sanctuary Guardian | 54.00% | ~109 |
 | Endless Tricks | 49.00% | ~98 |
 | Wild's Keeper | 45.00% | ~90 |
 | Mind Illuminator | 41.00% | ~82 |
@@ -23,7 +23,7 @@
 | Apian Champion | 21.00% | ~42 |
 | Shard Spender | 18.00% | ~36 |
 | Unbeatable | 17.00% | ~34 |
-| Behenian Champion | 15.00% | ~30 |
+| Behenian Champion | 16.00% | ~32 |
 | Sadistic Plan | 14.00% | ~28 |
 | Aquarian Champion | 10.00% | ~20 |
 | Astral Seeker | 9.00% | ~18 |

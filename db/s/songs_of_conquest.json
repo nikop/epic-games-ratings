@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 582,
+  "EOS_Progressed": 585,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2363,6 +2363,11 @@
       "Time": "2023-12-20T12:09:06.9374322+00:00",
       "NumProgressed": 582,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T13:08:47.8241172+00:00",
+      "NumProgressed": 585,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2383,7 +2388,7 @@
       "Name": "The Song of Stoutheart",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ArleonCampaignFinaleOnHard",
@@ -2431,7 +2436,7 @@
       "Name": "This Spot\u0027s Taken",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "BurrowUp",
@@ -2519,7 +2524,7 @@
       "Name": "Double Kill",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "FlameAttackKillCount",
@@ -2703,7 +2708,7 @@
       "Name": "Adept",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "WielderLevel2",
@@ -2751,7 +2756,7 @@
       "Name": "Expert Essence Employment",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "WinSiegeAsAttacker",
@@ -2767,7 +2772,7 @@
       "Name": "Venisti, Vidisti, Perdidisti",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "WinsWithFactionArleon",
@@ -2806,15 +2811,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 582,
+      "Progressed": 585,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-20T12:09:06.9374319+00:00",
+  "LastChanged_Achievements": "2023-12-20T13:08:47.8241167+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:10.4027668+00:00",
-  "LastUpdate_Ratings": "2023-12-20T11:58:26.0636305+00:00",
-  "LastUpdate_Achievements": "2023-12-20T12:09:06.9374727+00:00"
+  "LastUpdate_Ratings": "2023-12-20T12:58:15.0942617+00:00",
+  "LastUpdate_Achievements": "2023-12-20T13:08:47.8241581+00:00"
 }

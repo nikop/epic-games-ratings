@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 161,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 452,
+  "EOS_Progressed": 453,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -538,6 +538,11 @@
       "Time": "2023-12-20T06:06:34.5646602+00:00",
       "NumProgressed": 452,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T13:05:51.030767+00:00",
+      "NumProgressed": 453,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -555,9 +560,9 @@
       "ID": "assemble-team2",
       "SetID": "799afm0",
       "Name": "Brain and Brawn",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 50
     },
     {
       "ID": "assemble-team3",
@@ -581,7 +586,7 @@
       "Name": "Frugal",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "collect-discounted-items2",
@@ -597,7 +602,7 @@
       "Name": "No Mercy",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "different-items1",
@@ -675,9 +680,9 @@
       "ID": "finished-quest-reaper",
       "SetID": "799afm0",
       "Name": "Catch Jonathan_tostar",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 118
     },
     {
       "ID": "finished-quest-sci",
@@ -693,7 +698,7 @@
       "Name": "To the Moon and Back",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "finished-quest-sword",
@@ -765,7 +770,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "win-first-level",
@@ -773,15 +778,15 @@
       "Name": "Good start!",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "win-koth-fights1",
       "SetID": "799afm0",
       "Name": "Rookie",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 118
     },
     {
       "ID": "win-koth-fights2",
@@ -828,7 +833,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 452,
+      "Progressed": 453,
       "Completed": 1
     }
   ],
@@ -836,8 +841,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-12-20T12:06:51.7810471+00:00",
+  "LastChanged_Achievements": "2023-12-20T13:05:51.0307667+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:10.0467066+00:00",
-  "LastUpdate_Ratings": "2023-12-20T11:58:09.0138704+00:00",
-  "LastUpdate_Achievements": "2023-12-20T12:06:51.7810647+00:00"
+  "LastUpdate_Ratings": "2023-12-20T12:58:02.9648169+00:00",
+  "LastUpdate_Achievements": "2023-12-20T13:05:51.0307867+00:00"
 }

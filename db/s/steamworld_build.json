@@ -565,9 +565,9 @@
       "ID": "Botropolis",
       "SetID": "4bd750m",
       "Name": "Botropolis",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "ClickEmAll",
@@ -780,8 +780,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-20T12:05:02.9377278+00:00",
+  "LastChanged_Achievements": "2023-12-20T13:04:25.0989858+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.7183942+00:00",
-  "LastUpdate_Ratings": "2023-12-20T12:03:47.8750018+00:00",
-  "LastUpdate_Achievements": "2023-12-20T12:05:02.9377473+00:00"
+  "LastUpdate_Ratings": "2023-12-20T13:03:28.8450441+00:00",
+  "LastUpdate_Achievements": "2023-12-20T13:04:25.0990049+00:00"
 }

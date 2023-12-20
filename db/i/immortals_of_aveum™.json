@@ -5,9 +5,9 @@
   "Ranking_Rating": 917,
   "Ranking_Popularity": 569,
   "Ranking_PopularitySum": 569,
-  "Ranking_EOS_Progress": 254,
+  "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 161,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -247,9 +247,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1354,
+  "EOS_Progressed": 1358,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1021,
+  "EOS_NewPlayers": 1025,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2477,6 +2477,11 @@
       "Time": "2023-12-20T12:10:18.4791726+00:00",
       "NumProgressed": 1354,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-20T13:09:41.2623779+00:00",
+      "NumProgressed": 1358,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -2487,9 +2492,9 @@
       "ID": "achievement_1",
       "SetID": "18al4io",
       "Name": "Unforeseen",
-      "Percentage": 88,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 1192
+      "UsersEstimate": 1181
     },
     {
       "ID": "achievement_10",
@@ -2503,9 +2508,9 @@
       "ID": "achievement_11",
       "SetID": "18al4io",
       "Name": "The Means to Save It",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 149
     },
     {
       "ID": "achievement_12",
@@ -2513,7 +2518,7 @@
       "Name": "Resilience to Sin",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "achievement_13",
@@ -2521,7 +2526,7 @@
       "Name": "A Familiar Nest",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "achievement_14",
@@ -2537,7 +2542,7 @@
       "Name": "A Perfect Cycle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "achievement_16",
@@ -2545,7 +2550,7 @@
       "Name": "Recruit",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "achievement_17",
@@ -2569,7 +2574,7 @@
       "Name": "Socialite",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "achievement_2",
@@ -2577,7 +2582,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1073
     },
     {
       "ID": "achievement_20",
@@ -2633,7 +2638,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 880
+      "UsersEstimate": 883
     },
     {
       "ID": "achievement_36",
@@ -2665,7 +2670,7 @@
       "Name": "No More Names",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 636
+      "UsersEstimate": 638
     },
     {
       "ID": "achievement_41",
@@ -2703,9 +2708,9 @@
       "ID": "achievement_45",
       "SetID": "18al4io",
       "Name": "Periapt Alizarin",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 135
+      "UsersEstimate": 122
     },
     {
       "ID": "achievement_46",
@@ -2721,7 +2726,7 @@
       "Name": "Enlisted",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 961
+      "UsersEstimate": 964
     },
     {
       "ID": "achievement_49",
@@ -2737,7 +2742,7 @@
       "Name": "Initiate",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "achievement_50",
@@ -2769,7 +2774,7 @@
       "Name": "Master of Malachite",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_59",
@@ -2785,7 +2790,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "achievement_60",
@@ -2801,7 +2806,7 @@
       "Name": "Tip of the Spear",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_63",
@@ -2823,9 +2828,9 @@
       "ID": "achievement_66",
       "SetID": "18al4io",
       "Name": "Backtracker",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_67",
@@ -2841,7 +2846,7 @@
       "Name": "Gravity-Challenged Rocks",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "achievement_8",
@@ -2864,7 +2869,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 1354,
+      "Progressed": 1358,
       "Completed": 2
     }
   ],
@@ -2872,8 +2877,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-12-20T07:58:57.6107154+00:00",
-  "LastChanged_Achievements": "2023-12-20T12:10:18.4791723+00:00",
+  "LastChanged_Achievements": "2023-12-20T13:09:41.2623775+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:30.3074422+00:00",
-  "LastUpdate_Ratings": "2023-12-20T12:00:20.0260809+00:00",
-  "LastUpdate_Achievements": "2023-12-20T12:10:18.4792056+00:00"
+  "LastUpdate_Ratings": "2023-12-20T12:59:35.958348+00:00",
+  "LastUpdate_Achievements": "2023-12-20T13:09:41.2624247+00:00"
 }

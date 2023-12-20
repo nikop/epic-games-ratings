@@ -8899,9 +8899,9 @@
       "Count": 3581
     }
   ],
-  "EOS_Progressed": 242242,
+  "EOS_Progressed": 242252,
   "EOS_Completed": 2546,
-  "EOS_NewPlayers": 2630,
+  "EOS_NewPlayers": 2635,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -36439,6 +36439,11 @@
       "Time": "2023-12-20T12:10:54.4315603+00:00",
       "NumProgressed": 242242,
       "NumCompleted": 2546
+    },
+    {
+      "Time": "2023-12-20T13:10:09.138017+00:00",
+      "NumProgressed": 242252,
+      "NumCompleted": 2546
     }
   ],
   "TotalAchievements": 546,
@@ -38130,7 +38135,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "objective_completed_35",
@@ -38314,7 +38319,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "objective_completed_40",
@@ -40817,21 +40822,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 208516,
+      "Progressed": 208526,
       "Completed": 4047
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 242242,
+      "Progressed": 242252,
       "Completed": 2546
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-20T10:00:37.0523856+00:00",
-  "LastChanged_Achievements": "2023-12-20T12:10:54.4315597+00:00",
+  "LastChanged_Achievements": "2023-12-20T13:10:09.1380167+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:52.1318001+00:00",
-  "LastUpdate_Ratings": "2023-12-20T12:02:45.2630446+00:00",
-  "LastUpdate_Achievements": "2023-12-20T12:10:54.4338007+00:00"
+  "LastUpdate_Ratings": "2023-12-20T13:00:39.6139262+00:00",
+  "LastUpdate_Achievements": "2023-12-20T13:10:09.1402461+00:00"
 }

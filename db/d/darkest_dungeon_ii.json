@@ -9948,9 +9948,9 @@
       "Count": 1033
     }
   ],
-  "EOS_Progressed": 128689,
+  "EOS_Progressed": 128699,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2123,
+  "EOS_NewPlayers": 2127,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35953,6 +35953,11 @@
       "Time": "2023-12-20T12:09:48.4426768+00:00",
       "NumProgressed": 128689,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-20T13:09:18.7401779+00:00",
+      "NumProgressed": 128699,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36498,9 +36503,9 @@
       "ID": "combat_kill_chirurgeon",
       "SetID": "d3bcpc8",
       "Name": "Malpractice Assurance",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 285
+      "UsersEstimate": 321
     },
     {
       "ID": "combat_kill_collector",
@@ -36508,7 +36513,7 @@
       "Name": "This guy... again?",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -36532,7 +36537,7 @@
       "Name": "Slap on the Wrist",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "combat_land_riposte_maa_hwy_dul",
@@ -36556,7 +36561,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "quest_complete_crusader",
@@ -36595,21 +36600,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 128689,
+      "Progressed": 128699,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 3558,
+      "Progressed": 3568,
       "Completed": 802
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-20T12:00:17.7863289+00:00",
-  "LastChanged_Achievements": "2023-12-20T12:09:48.4426764+00:00",
+  "LastChanged_Achievements": "2023-12-20T13:09:18.7401774+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-20T12:00:17.7863295+00:00",
-  "LastUpdate_Achievements": "2023-12-20T12:09:48.442859+00:00"
+  "LastUpdate_Ratings": "2023-12-20T12:59:34.5209765+00:00",
+  "LastUpdate_Achievements": "2023-12-20T13:09:18.7403327+00:00"
 }

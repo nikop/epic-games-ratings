@@ -5,17 +5,17 @@ Rating: 4.62 (Ranked 374)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 7.00% | ~412 |
+| Secret Technique | 7.00% | ~413 |
 | Realm Estate | 6.00% | ~354 |
 | A Wonderful Discovery | 6.00% | ~354 |
 | Walls Cannot Stop Us | 6.00% | ~354 |
 | From Friends to Family | 5.00% | ~295 |
 | But this one is mine | 5.00% | ~295 |
+| Full Ascension | 4.00% | ~236 |
 | Bone Peddler | 4.00% | ~236 |
 | Magical Synergy | 4.00% | ~236 |
 | Valley of Wonders | 3.00% | ~177 |
 | There Can Only Be One! | 3.00% | ~177 |
-| Full Ascension | 3.00% | ~177 |
 | Stronger Together | 3.00% | ~177 |
 | Seat of Power | 3.00% | ~177 |
 | In a Liege of Your Own | 3.00% | ~177 |
@@ -36,6 +36,7 @@ Rating: 4.62 (Ranked 374)
 | Spoils of War | 2.00% | ~118 |
 | Arch Mage | 1.00% | ~59 |
 | The Creator | 1.00% | ~59 |
+| Eternal Lord | 1.00% | ~59 |
 | Crimson Caldera | 1.00% | ~59 |
 | Against the Odds | 1.00% | ~59 |
 | Blood of the Dragon | 1.00% | ~59 |
@@ -44,7 +45,6 @@ Rating: 4.62 (Ranked 374)
 | A Conqueror's Cohort | 1.00% | ~59 |
 | Dawn of the Dread | 1.00% | ~59 |
 | Lord of Chaos | 0.90% | ~53 |
-| Eternal Lord | 0.90% | ~53 |
 | The Eternal Court | 0.90% | ~53 |
 | God Emperor | 0.80% | ~47 |
 | I've Got Everything I Need Right Here | 0.70% | ~41 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 374)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,892 (Ranked 191)  
+Progressed: 5,893 (Ranked 191)  
 Completed: 7 (0.12%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 7 (0.12%) (Ranked 295)
 | 2023-12-17 | 5,798 | 7 |
 | 2023-12-18 | 5,842 | 7 |
 | 2023-12-19 | 5,881 | 7 |
-| 2023-12-20 | 5,892 | 7 |
+| 2023-12-20 | 5,893 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 481)  
 Sum: 113 (Ranked 450)  

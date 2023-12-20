@@ -6,7 +6,7 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Overgrown Library | 6.00% | ~1,123 |
+| Overgrown Library | 6.00% | ~1,124 |
 | Abandoned Settlement | 5.00% | ~936 |
 | Petrified Necropolis | 5.00% | ~936 |
 | Taking Action | 4.00% | ~749 |
@@ -19,11 +19,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | No Deaths | 3.00% | ~562 |
 | Frosts | 3.00% | ~562 |
 | Land of Greed | 3.00% | ~562 |
-| Fertile Meadows | 2.00% | ~374 |
-| Royal Outpost | 2.00% | ~374 |
-| Watchtower | 2.00% | ~374 |
-| The Scarlet Orchard | 2.00% | ~374 |
-| Untamed Wilds | 2.00% | ~374 |
+| Fertile Meadows | 2.00% | ~375 |
+| Royal Outpost | 2.00% | ~375 |
+| Watchtower | 2.00% | ~375 |
+| The Scarlet Orchard | 2.00% | ~375 |
+| Untamed Wilds | 2.00% | ~375 |
 | Homesick | 1.00% | ~187 |
 | Ruined Armory | 1.00% | ~187 |
 | Bandit Camp | 1.00% | ~187 |
@@ -36,9 +36,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Cursed Lands | 1.00% | ~187 |
 | A Real Challenge | 1.00% | ~187 |
 | Trade Baron | 1.00% | ~187 |
-| Barren Lands | 0.90% | ~168 |
-| Sparkdew Crystals | 0.90% | ~168 |
-| Flooded Mines | 0.90% | ~168 |
+| Barren Lands | 0.90% | ~169 |
+| Sparkdew Crystals | 0.90% | ~169 |
+| Flooded Mines | 0.90% | ~169 |
 | Against All Odds | 0.80% | ~150 |
 | Haunted Forest | 0.80% | ~150 |
 | Defying the Crown | 0.70% | ~131 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,722 (Ranked 147)  
+Progressed: 18,726 (Ranked 147)  
 Completed: 39 (0.21%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,17 +310,17 @@ Completed: 39 (0.21%) (Ranked 269)
 | 2023-12-17 | 18,534 | 40 |
 | 2023-12-18 | 18,615 | 39 |
 | 2023-12-19 | 18,687 | 39 |
-| 2023-12-20 | 18,722 | 39 |
+| 2023-12-20 | 18,726 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 228)  
-Sum: 3,273 (Ranked 174)  
-Diff (max vs sum): 54  
+Sum: 3,274 (Ranked 175)  
+Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 442 |
 | This game is Relaxing | 438 |
 | This game is Great for Beginners | 430 |
-| This game is Extremely Fun | 410 |
+| This game is Extremely Fun | 411 |
 | This game is Highly Recommended | 394 |
 | This game has Unique Visuals | 332 |
 | This game has Amazing Storytelling | 322 |
@@ -589,3 +589,4 @@ Diff (max vs sum): 54
 | 2023-12-17 | 4.82 | - | 442 | 3,267 |
 | 2023-12-18 | 4.82 | - | 442 | 3,268 |
 | 2023-12-19 | 4.82 | - | 442 | 3,273 |
+| 2023-12-20 | 4.82 | - | 442 | 3,274 |

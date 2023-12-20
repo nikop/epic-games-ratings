@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 65.00% | ~532 |
-| The Teleprobe | 52.00% | ~426 |
-| The City | 47.00% | ~385 |
-| The field base | 42.00% | ~344 |
-| Survivors | 35.00% | ~287 |
-| The Alliance | 33.00% | ~270 |
-| The Condor | 32.00% | ~262 |
-| The End | 32.00% | ~262 |
-| Krauta is alive | 26.00% | ~213 |
-| The Necroevolution | 26.00% | ~213 |
-| Peacemaker | 21.00% | ~172 |
+| The Camp | 65.00% | ~534 |
+| The Teleprobe | 52.00% | ~427 |
+| The City | 46.00% | ~378 |
+| The field base | 42.00% | ~345 |
+| Survivors | 35.00% | ~288 |
+| The Alliance | 33.00% | ~271 |
+| The Condor | 32.00% | ~263 |
+| The End | 32.00% | ~263 |
+| The Necroevolution | 27.00% | ~222 |
+| Krauta is alive | 26.00% | ~214 |
+| Peacemaker | 21.00% | ~173 |
 | Volcanologist | 20.00% | ~164 |
-| On her own | 18.00% | ~147 |
-| Evacuation | 18.00% | ~147 |
-| Fierce fight | 17.00% | ~139 |
-| Beyond divisions | 17.00% | ~139 |
+| On her own | 18.00% | ~148 |
+| Evacuation | 18.00% | ~148 |
+| Fierce fight | 17.00% | ~140 |
+| Beyond divisions | 17.00% | ~140 |
 | Flying Objects Operator | 15.00% | ~123 |
-| I remember everything! | 13.00% | ~106 |
+| I remember everything! | 13.00% | ~107 |
 | Another giant | 11.00% | ~90 |
 | Violent solution | 9.00% | ~74 |
-| I leave no man behind | 7.00% | ~57 |
-| Innate curiosity | 7.00% | ~57 |
+| I leave no man behind | 7.00% | ~58 |
+| Innate curiosity | 7.00% | ~58 |
 | Strong objection | 6.00% | ~49 |
 | Ubiquitous holes | 5.00% | ~41 |
 | The Invincible | 5.00% | ~41 |
@@ -34,7 +34,7 @@
 | Convoy list | 0.90% | ~7 |
 | No more mistakes | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 819 (Ranked 286)  
+Progressed: 822 (Ranked 286)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,4 +79,4 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-17 | 741 | 0 |
 | 2023-12-18 | 771 | 0 |
 | 2023-12-19 | 807 | 0 |
-| 2023-12-20 | 819 | 0 |
+| 2023-12-20 | 822 | 0 |

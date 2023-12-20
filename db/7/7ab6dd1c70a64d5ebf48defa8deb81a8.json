@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 899,
+  "EOS_Progressed": 902,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 634,
+  "EOS_NewPlayers": 637,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1860,6 +1860,11 @@
       "Time": "2023-12-20T11:11:06.6721038+00:00",
       "NumProgressed": 899,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-20T13:10:01.6800147+00:00",
+      "NumProgressed": 902,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1871,7 +1876,7 @@
       "Name": "Break Out",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "ACH_02",
@@ -1885,9 +1890,9 @@
       "ID": "ACH_03",
       "SetID": "efe2lj",
       "Name": "Powerful Allies",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_04",
@@ -2158,14 +2163,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 899,
+      "Progressed": 902,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-20T12:10:45.7113421+00:00",
+  "LastChanged_Achievements": "2023-12-20T13:10:01.6800144+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
-  "LastUpdate_Ratings": "2023-12-20T11:57:42.3189418+00:00",
-  "LastUpdate_Achievements": "2023-12-20T12:10:45.7113723+00:00"
+  "LastUpdate_Ratings": "2023-12-20T12:57:43.7920966+00:00",
+  "LastUpdate_Achievements": "2023-12-20T13:10:01.6800473+00:00"
 }

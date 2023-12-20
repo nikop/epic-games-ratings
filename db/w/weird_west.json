@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 390,
   "Ranking_EOS_NewCompleters": 161,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -376,9 +376,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 2037,
+  "EOS_Progressed": 2038,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -2931,6 +2931,11 @@
       "Time": "2023-12-18T21:03:48.3773895+00:00",
       "NumProgressed": 2037,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-20T13:04:31.2218209+00:00",
+      "NumProgressed": 2038,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2950,7 +2955,7 @@
       "Name": "Dead or Alive",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -2966,7 +2971,7 @@
       "Name": "Dishonored",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "ACH_DOG_DAYS",
@@ -2990,7 +2995,7 @@
       "Name": "Elusive Prey",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ACH_EXPLORER",
@@ -3190,7 +3195,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1324
+      "UsersEstimate": 1325
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -3206,7 +3211,7 @@
       "Name": "Power Behind the Pulpit",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ACH_RAIN_OF_DEATH",
@@ -3214,7 +3219,7 @@
       "Name": "Rain of Death",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "ACH_REVENANT",
@@ -3230,7 +3235,7 @@
       "Name": "Scholar",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "ACH_SELF_IMPROVEMENT",
@@ -3238,7 +3243,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1446
+      "UsersEstimate": 1447
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -3246,7 +3251,7 @@
       "Name": "Something Wicked This Way Comes\u2026",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ACH_THATS_ALL_FOLKS",
@@ -3262,7 +3267,7 @@
       "Name": "There is Hope",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ACH_THE_GREAT_ESCAPE",
@@ -3318,7 +3323,7 @@
       "Name": "Unforgiven",
       "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 1813
+      "UsersEstimate": 1814
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -3365,15 +3370,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 2037,
+      "Progressed": 2038,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-11-26T10:59:42.9428977+00:00",
-  "LastChanged_Achievements": "2023-12-20T12:05:10.9662757+00:00",
+  "LastChanged_Achievements": "2023-12-20T13:04:31.2218206+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.3075289+00:00",
-  "LastUpdate_Ratings": "2023-12-20T12:00:16.9176016+00:00",
-  "LastUpdate_Achievements": "2023-12-20T12:05:10.9663179+00:00"
+  "LastUpdate_Ratings": "2023-12-20T12:59:33.8649258+00:00",
+  "LastUpdate_Achievements": "2023-12-20T13:04:31.2218605+00:00"
 }

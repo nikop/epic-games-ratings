@@ -52,7 +52,7 @@
 | Pulp! Skeleton Hand | 2.00% | ~1 |
 | Pulp! The Vault of Horror | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61 (Ranked 511)  
+Progressed: 61 (Ranked 512)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |

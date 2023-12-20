@@ -2,7 +2,7 @@
   "ID": "ace01fe38cfb4479b1009cf49478ff18",
   "Name": "Warhammer 40,000: Boltgun",
   "ProductSlug": "boltgun-b1cb36",
-  "Ranking_EOS_Progress": 353,
+  "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 161,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 361,
+  "EOS_Progressed": 362,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 184,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -1344,6 +1344,11 @@
       "Time": "2023-12-20T12:04:03.7163505+00:00",
       "NumProgressed": 361,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T13:03:40.8719137+00:00",
+      "NumProgressed": 362,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -1364,7 +1369,7 @@
       "Name": "Chapter II - Complete",
       "Percentage": 9,
       "XP": 45,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ach_chapter_complete_3",
@@ -1420,7 +1425,7 @@
       "Name": "Defeat a Lord of Change",
       "Percentage": 22,
       "XP": 45,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -1451,14 +1456,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 361,
+      "Progressed": 362,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-12-20T12:04:03.7163499+00:00",
+  "LastChanged_Achievements": "2023-12-20T13:03:40.8719134+00:00",
   "LastUpdate_AppInfo": "2023-12-15T14:56:55.6680838+00:00",
-  "LastUpdate_Ratings": "2023-12-20T11:57:17.5613353+00:00",
-  "LastUpdate_Achievements": "2023-12-20T12:04:03.7163747+00:00"
+  "LastUpdate_Ratings": "2023-12-20T12:57:25.7832634+00:00",
+  "LastUpdate_Achievements": "2023-12-20T13:03:40.8719416+00:00"
 }

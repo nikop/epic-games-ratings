@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 161,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -1068,9 +1068,9 @@
       "ID": "DicesmithingTime",
       "SetID": "1jeo1g7",
       "Name": "Dicesmithing Time!",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 121
     },
     {
       "ID": "EndlessTricks",
@@ -1188,17 +1188,17 @@
       "ID": "MechanicalBuddy",
       "SetID": "1jeo1g7",
       "Name": "Mechanical Buddy",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 135
     },
     {
       "ID": "MeissasSavior",
       "SetID": "1jeo1g7",
       "Name": "Meissa\u0027s Savior",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 153
     },
     {
       "ID": "MindIlluminator",
@@ -1268,9 +1268,9 @@
       "ID": "PurificationPioneer",
       "SetID": "1jeo1g7",
       "Name": "Purification Pioneer",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 145
     },
     {
       "ID": "ReflexiveMind",
@@ -1300,9 +1300,9 @@
       "ID": "SanctuaryGuardian",
       "SetID": "1jeo1g7",
       "Name": "Sanctuary Guardian",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 109
     },
     {
       "ID": "Sentinelphobic",
@@ -1532,9 +1532,9 @@
       "ID": "BehenianChampion",
       "SetID": "1jeo1g7",
       "Name": "Behenian Champion",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "BehenianHero",
@@ -1635,8 +1635,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-20T12:05:24.4617719+00:00",
+  "LastChanged_Achievements": "2023-12-20T13:04:41.3013654+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:09.6615872+00:00",
-  "LastUpdate_Ratings": "2023-12-20T11:57:58.5126328+00:00",
-  "LastUpdate_Achievements": "2023-12-20T12:05:24.4618495+00:00"
+  "LastUpdate_Ratings": "2023-12-20T12:57:55.514766+00:00",
+  "LastUpdate_Achievements": "2023-12-20T13:04:41.3014418+00:00"
 }

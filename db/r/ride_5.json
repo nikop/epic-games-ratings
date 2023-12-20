@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2766,
+  "EOS_Progressed": 2767,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 306,
+  "EOS_NewPlayers": 307,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6762,6 +6762,11 @@
       "Time": "2023-12-20T09:05:54.7668203+00:00",
       "NumProgressed": 2766,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T13:06:08.2167191+00:00",
+      "NumProgressed": 2767,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -6782,7 +6787,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1106
+      "UsersEstimate": 1107
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -7062,7 +7067,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -7165,14 +7170,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2766,
+      "Progressed": 2767,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-20T12:07:14.4247741+00:00",
+  "LastChanged_Achievements": "2023-12-20T13:06:08.2167187+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:35.5257739+00:00",
-  "LastUpdate_Ratings": "2023-12-20T11:59:31.5946285+00:00",
-  "LastUpdate_Achievements": "2023-12-20T12:07:14.4248295+00:00"
+  "LastUpdate_Ratings": "2023-12-20T12:59:01.6255166+00:00",
+  "LastUpdate_Achievements": "2023-12-20T13:06:08.2168088+00:00"
 }

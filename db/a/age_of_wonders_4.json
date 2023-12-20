@@ -567,9 +567,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5892,
+  "EOS_Progressed": 5893,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 304,
+  "EOS_NewPlayers": 305,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8562,6 +8562,11 @@
       "Time": "2023-12-20T12:06:19.3379795+00:00",
       "NumProgressed": 5892,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-20T13:05:25.4880717+00:00",
+      "NumProgressed": 5893,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -8611,9 +8616,9 @@
       "ID": "14",
       "SetID": "3aa2279",
       "Name": "Full Ascension",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 177
+      "UsersEstimate": 236
     },
     {
       "ID": "15",
@@ -8675,9 +8680,9 @@
       "ID": "21",
       "SetID": "3aa2279",
       "Name": "Eternal Lord",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 59
     },
     {
       "ID": "22",
@@ -8701,7 +8706,7 @@
       "Name": "Secret Technique",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "25",
@@ -9052,13 +9057,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5892,
+      "Progressed": 5893,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5892,
+      "Progressed": 5893,
       "Completed": 7
     }
   ],
@@ -9066,8 +9071,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-20T07:59:25.4319145+00:00",
-  "LastChanged_Achievements": "2023-12-20T12:06:19.337949+00:00",
+  "LastChanged_Achievements": "2023-12-20T13:05:25.4880714+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.6868317+00:00",
-  "LastUpdate_Ratings": "2023-12-20T12:00:59.935902+00:00",
-  "LastUpdate_Achievements": "2023-12-20T12:06:19.3380643+00:00"
+  "LastUpdate_Ratings": "2023-12-20T13:00:04.4140517+00:00",
+  "LastUpdate_Achievements": "2023-12-20T13:05:25.4881463+00:00"
 }

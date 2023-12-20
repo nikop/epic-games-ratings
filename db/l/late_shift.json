@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 794,
+  "EOS_Progressed": 795,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.13,
   "EosHistory": [
@@ -2060,6 +2060,11 @@
       "Time": "2023-12-20T12:09:56.5020807+00:00",
       "NumProgressed": 794,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-20T13:09:24.7508339+00:00",
+      "NumProgressed": 795,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 20,
@@ -2071,7 +2076,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "CHOICES_MATTER",
@@ -2119,7 +2124,7 @@
       "Name": "The Delivery",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "ENDING_6",
@@ -2159,7 +2164,7 @@
       "Name": "Fair Share",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "GOOD_KARMA",
@@ -2167,7 +2172,7 @@
       "Name": "Good Karma",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "INTERROGATION",
@@ -2183,7 +2188,7 @@
       "Name": "Office Clerk",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "PROFICIENT_STORYTELLER",
@@ -2199,7 +2204,7 @@
       "Name": "Protector",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "SABOTAGE",
@@ -2223,14 +2228,14 @@
       "Name": "Star-Crossed Lovers",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     }
   ],
   "AchievementSets": [
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 794,
+      "Progressed": 795,
       "Completed": 9
     }
   ],
@@ -2238,8 +2243,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-12-20T12:09:56.5020804+00:00",
+  "LastChanged_Achievements": "2023-12-20T13:09:24.7508334+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:24.4540531+00:00",
-  "LastUpdate_Ratings": "2023-12-20T11:58:53.3458626+00:00",
-  "LastUpdate_Achievements": "2023-12-20T12:09:56.5021057+00:00"
+  "LastUpdate_Ratings": "2023-12-20T12:58:34.5795423+00:00",
+  "LastUpdate_Achievements": "2023-12-20T13:09:24.7508578+00:00"
 }

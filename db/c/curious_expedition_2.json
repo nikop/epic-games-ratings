@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 321,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 161,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -595,9 +595,9 @@
       "ID": "ach-campaign-story1",
       "SetID": "17ih7ma",
       "Name": "A Strange Artefact",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 193
     },
     {
       "ID": "ach-campaign-story2",
@@ -635,9 +635,9 @@
       "ID": "ach-discover-locations",
       "SetID": "17ih7ma",
       "Name": "Cartographer",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 204
+      "UsersEstimate": 208
     },
     {
       "ID": "ach-discover-locations-high",
@@ -948,8 +948,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-12-20T12:10:49.5563495+00:00",
+  "LastChanged_Achievements": "2023-12-20T13:10:04.8856406+00:00",
   "LastUpdate_AppInfo": "2023-12-16T13:57:07.0437312+00:00",
-  "LastUpdate_Ratings": "2023-12-20T12:00:32.5335848+00:00",
-  "LastUpdate_Achievements": "2023-12-20T12:10:49.5563848+00:00"
+  "LastUpdate_Ratings": "2023-12-20T12:59:45.1303361+00:00",
+  "LastUpdate_Achievements": "2023-12-20T13:10:04.8856858+00:00"
 }

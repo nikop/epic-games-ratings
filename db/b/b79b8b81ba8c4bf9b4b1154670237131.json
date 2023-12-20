@@ -143,9 +143,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15500,
+  "EOS_Progressed": 15501,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 459,
+  "EOS_NewPlayers": 457,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4218,6 +4218,11 @@
       "Time": "2023-12-20T12:09:52.902889+00:00",
       "NumProgressed": 15500,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-20T13:09:22.0143454+00:00",
+      "NumProgressed": 15501,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -4262,7 +4267,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 11625
+      "UsersEstimate": 11626
     },
     {
       "ID": "ACH_AE_14",
@@ -4294,7 +4299,7 @@
       "Name": "Respect the Cannon",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_AE_18",
@@ -4509,7 +4514,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 15500,
+      "Progressed": 15501,
       "Completed": 14
     }
   ],
@@ -4517,8 +4522,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-13T16:00:23.030195+00:00",
-  "LastChanged_Achievements": "2023-12-20T12:09:52.9028885+00:00",
+  "LastChanged_Achievements": "2023-12-20T13:09:22.0143451+00:00",
   "LastUpdate_AppInfo": "2023-12-19T17:57:04.7850695+00:00",
-  "LastUpdate_Ratings": "2023-12-20T12:00:09.2716805+00:00",
-  "LastUpdate_Achievements": "2023-12-20T12:09:52.9029254+00:00"
+  "LastUpdate_Ratings": "2023-12-20T12:59:28.7040422+00:00",
+  "LastUpdate_Achievements": "2023-12-20T13:09:22.0143923+00:00"
 }

@@ -372,9 +372,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 207382,
+  "EOS_Progressed": 207385,
   "EOS_Completed": 544,
-  "EOS_NewPlayers": 429,
+  "EOS_NewPlayers": 431,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -26437,6 +26437,11 @@
       "Time": "2023-12-20T12:06:38.3319379+00:00",
       "NumProgressed": 207382,
       "NumCompleted": 544
+    },
+    {
+      "Time": "2023-12-20T13:05:40.6038517+00:00",
+      "NumProgressed": 207385,
+      "NumCompleted": 544
     }
   ],
   "TotalAchievements": 29,
@@ -26472,7 +26477,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 194939
+      "UsersEstimate": 194942
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -26520,7 +26525,7 @@
       "Name": "Answers can be found amongst the stars",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6221
+      "UsersEstimate": 6222
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTED",
@@ -26616,7 +26621,7 @@
       "Name": "Bend to the will of the arrows.",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6221
+      "UsersEstimate": 6222
     },
     {
       "ID": "ACHIEVEMENT_SECRET",
@@ -26679,7 +26684,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 207382,
+      "Progressed": 207385,
       "Completed": 544
     }
   ],
@@ -26687,8 +26692,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-12-14T16:59:49.3073331+00:00",
-  "LastChanged_Achievements": "2023-12-20T12:06:38.3319376+00:00",
+  "LastChanged_Achievements": "2023-12-20T13:05:40.6038514+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:10.7680666+00:00",
-  "LastUpdate_Ratings": "2023-12-20T11:59:34.3569835+00:00",
-  "LastUpdate_Achievements": "2023-12-20T12:06:38.332058+00:00"
+  "LastUpdate_Ratings": "2023-12-20T12:59:03.8008248+00:00",
+  "LastUpdate_Achievements": "2023-12-20T13:05:40.6039897+00:00"
 }

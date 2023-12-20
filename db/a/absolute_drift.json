@@ -481,9 +481,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1557306,
+  "EOS_Progressed": 1557312,
   "EOS_Completed": 756,
-  "EOS_NewPlayers": 1473,
+  "EOS_NewPlayers": 1471,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -28406,6 +28406,11 @@
       "Time": "2023-12-20T12:06:44.0581221+00:00",
       "NumProgressed": 1557306,
       "NumCompleted": 756
+    },
+    {
+      "Time": "2023-12-20T13:05:45.0117919+00:00",
+      "NumProgressed": 1557312,
+      "NumCompleted": 756
     }
   ],
   "TotalAchievements": 20,
@@ -28425,7 +28430,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 109011
+      "UsersEstimate": 109012
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -28561,7 +28566,7 @@
       "Name": "The Long Drift",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 77865
+      "UsersEstimate": 77866
     },
     {
       "ID": "ACH_WASHING_MACHINE",
@@ -28576,15 +28581,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1557306,
+      "Progressed": 1557312,
       "Completed": 756
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-12-17T11:57:05.6881594+00:00",
-  "LastChanged_Achievements": "2023-12-20T12:06:44.0581216+00:00",
+  "LastChanged_Achievements": "2023-12-20T13:05:45.0117916+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.8814559+00:00",
-  "LastUpdate_Ratings": "2023-12-20T11:59:12.6589763+00:00",
-  "LastUpdate_Achievements": "2023-12-20T12:06:44.0582657+00:00"
+  "LastUpdate_Ratings": "2023-12-20T12:58:48.3798543+00:00",
+  "LastUpdate_Achievements": "2023-12-20T13:05:45.0119015+00:00"
 }

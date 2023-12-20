@@ -6,9 +6,9 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 9.00% | ~13,185 |
-| Basic in Bulk | 8.00% | ~11,720 |
-| Titan's First Steps | 8.00% | ~11,720 |
+| Sponsored by Argon | 9.00% | ~13,186 |
+| Basic in Bulk | 8.00% | ~11,721 |
+| Titan's First Steps | 8.00% | ~11,721 |
 | Tinkle of Coins | 7.00% | ~10,255 |
 | Disintermediation | 6.00% | ~8,790 |
 | It's Free Real Estate | 6.00% | ~8,790 |
@@ -105,21 +105,21 @@ Number of Ratings: 12,664  (23.09.2022)
 | Jackpot! | 1.00% | ~1,465 |
 | Eternal Crusade | 1.00% | ~1,465 |
 | Economy of Scarce | 1.00% | ~1,465 |
-| All or Nothing! | 0.90% | ~1,318 |
+| All or Nothing! | 0.90% | ~1,319 |
 | The Greatest Grind | 0.80% | ~1,172 |
 | Marvels from the World Over | 0.80% | ~1,172 |
-| Bane of Legends | 0.70% | ~1,025 |
-| Anything not Nailed Down | 0.70% | ~1,025 |
+| Bane of Legends | 0.70% | ~1,026 |
+| Anything not Nailed Down | 0.70% | ~1,026 |
 | Ultimate Collector | 0.60% | ~879 |
 | Unleashed Potential | 0.60% | ~879 |
 | JACKPOT!!! | 0.60% | ~879 |
-| Oligarch Monarch | 0.50% | ~732 |
-| Merchant Extraordinaire | 0.50% | ~732 |
+| Oligarch Monarch | 0.50% | ~733 |
+| Merchant Extraordinaire | 0.50% | ~733 |
 | To Hell and Back | 0.40% | ~586 |
 | Cash Only Please | 0.40% | ~586 |
 | Capitalist Camaraderie | 0.20% | ~293 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 146,498 (Ranked 81)  
+Progressed: 146,507 (Ranked 81)  
 Completed: 325 (0.22%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -363,7 +363,7 @@ Completed: 325 (0.22%) (Ranked 266)
 | 2023-12-17 | 146,136 | 322 |
 | 2023-12-18 | 146,265 | 322 |
 | 2023-12-19 | 146,428 | 325 |
-| 2023-12-20 | 146,498 | 325 |
+| 2023-12-20 | 146,507 | 325 |
 ## Awards
 Max (Great for Beginners): 4,900  (Ranked 75)  
 Sum: 27,768 (Ranked 51)  

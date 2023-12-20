@@ -5,25 +5,25 @@ Rating: 4.54 (Ranked 531)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 94.00% | ~5,499 |
-| I will survive! | 93.00% | ~5,440 |
-| All thumbs | 92.00% | ~5,382 |
+| Prepper | 94.00% | ~5,500 |
+| I will survive! | 93.00% | ~5,441 |
+| All thumbs | 92.00% | ~5,383 |
 | Home, sweet home | 91.00% | ~5,324 |
-| Survivalist | 90.00% | ~5,265 |
-| One way ticket | 85.00% | ~4,972 |
-| Last man standing | 80.00% | ~4,680 |
-| Family guy | 77.00% | ~4,504 |
-| Out of the Bag | 76.00% | ~4,446 |
+| Survivalist | 90.00% | ~5,266 |
+| One way ticket | 85.00% | ~4,973 |
+| Last man standing | 80.00% | ~4,681 |
+| Family guy | 77.00% | ~4,505 |
+| Out of the Bag | 76.00% | ~4,447 |
 | The Dark Side | 71.00% | ~4,154 |
-| Duck and cover! | 66.00% | ~3,861 |
-| Souper! | 65.00% | ~3,802 |
-| Pacifist | 60.00% | ~3,510 |
+| Duck and cover! | 66.00% | ~3,862 |
+| Souper! | 65.00% | ~3,803 |
+| Pacifist | 60.00% | ~3,511 |
 | 2-1-6 | 59.00% | ~3,452 |
-| A gift | 54.00% | ~3,159 |
-| Girl Power | 49.00% | ~2,866 |
+| A gift | 54.00% | ~3,160 |
+| Girl Power | 49.00% | ~2,867 |
 | What goes around... | 44.00% | ~2,574 |
 | Be Prepared | 38.00% | ~2,223 |
-| Unbreakable | 37.00% | ~2,164 |
+| Unbreakable | 37.00% | ~2,165 |
 | Gotta get 'em all | 34.00% | ~1,989 |
 | This is the end | 34.00% | ~1,989 |
 | Atomic drill | 32.00% | ~1,872 |
@@ -34,16 +34,16 @@ Rating: 4.54 (Ranked 531)
 | New species | 17.00% | ~995 |
 | A New Hope | 16.00% | ~936 |
 | Enigma | 16.00% | ~936 |
-| Challenger | 13.00% | ~760 |
-| Men in Black | 13.00% | ~760 |
+| Challenger | 13.00% | ~761 |
+| Men in Black | 13.00% | ~761 |
 | No stone unturned | 12.00% | ~702 |
-| Unplugged | 9.00% | ~526 |
+| Unplugged | 9.00% | ~527 |
 | Holidays! | 7.00% | ~410 |
 | Mad Hatter | 7.00% | ~410 |
 | Yes Man | 7.00% | ~410 |
 | Lumbersexual | 6.00% | ~351 |
-| Take that, Brundlefly! | 5.00% | ~292 |
-| Rogue One | 5.00% | ~292 |
+| Take that, Brundlefly! | 5.00% | ~293 |
+| Rogue One | 5.00% | ~293 |
 | Danger zone | 4.00% | ~234 |
 | Feline Domination | 4.00% | ~234 |
 | Friend in need | 4.00% | ~234 |
@@ -53,9 +53,9 @@ Rating: 4.54 (Ranked 531)
 | Panzer | 2.00% | ~117 |
 | Liberation | 2.00% | ~117 |
 | Not Alone | 2.00% | ~117 |
-| Cuckoo's nest | 1.00% | ~58 |
-| Raining Cats and Dogs | 1.00% | ~58 |
-| Konrad style! | 1.00% | ~58 |
+| Cuckoo's nest | 1.00% | ~59 |
+| Raining Cats and Dogs | 1.00% | ~59 |
+| Konrad style! | 1.00% | ~59 |
 | Cat Lady | 0.90% | ~53 |
 | Bughunter | 0.80% | ~47 |
 | Pro gamer | 0.70% | ~41 |
@@ -66,7 +66,7 @@ Rating: 4.54 (Ranked 531)
 | Tora! Tora! Tora! | 0.20% | ~12 |
 | Dead Hand | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,850 (Ranked 192)  
+Progressed: 5,851 (Ranked 192)  
 Completed: 1 (0.02%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 1 (0.02%) (Ranked 353)
 | 2023-12-17 | 5,822 | 1 |
 | 2023-12-18 | 5,833 | 1 |
 | 2023-12-19 | 5,846 | 1 |
-| 2023-12-20 | 5,850 | 1 |
+| 2023-12-20 | 5,851 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

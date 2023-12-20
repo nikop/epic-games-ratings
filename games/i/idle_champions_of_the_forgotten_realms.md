@@ -19,8 +19,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flames of Avernus | 0.30% | ~626 |
 | Mental Gymnastics | 0.30% | ~626 |
 | Don't Lose Your Head | 0.30% | ~626 |
-| The Ring of Regeneration | 0.20% | ~484 |
-| Are Ya Chicken? | 0.20% | ~484 |
+| The Ring of Regeneration | 0.20% | ~485 |
+| Are Ya Chicken? | 0.20% | ~485 |
 | Arcane Suppression | 0.20% | ~417 |
 | Welcome to the Vrocks | 0.20% | ~417 |
 | Mind Spike | 0.20% | ~417 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~209 |
 | The Brains of an Illithid's Desire | 0.10% | ~209 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,242 (Ranked 65)  
+Progressed: 242,252 (Ranked 65)  
 Completed: 2,546 (1.05%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -797,7 +797,7 @@ Completed: 2,546 (1.05%) (Ranked 171)
 | 2023-12-17 | 241,554 | 2,539 |
 | 2023-12-18 | 241,838 | 2,541 |
 | 2023-12-19 | 242,122 | 2,544 |
-| 2023-12-20 | 242,242 | 2,546 |
+| 2023-12-20 | 242,252 | 2,546 |
 ## Awards
 Max (Great for Beginners): 5,665  (Ranked 70)  
 Sum: 32,971 (Ranked 41)  
