@@ -2,7 +2,7 @@
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
-  "Ranking_Rating": 1019,
+  "Ranking_Rating": 1018,
   "Ranking_Popularity": 75,
   "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 81,
@@ -7663,9 +7663,9 @@
       "Count": 3800
     }
   ],
-  "EOS_Progressed": 146455,
+  "EOS_Progressed": 146461,
   "EOS_Completed": 325,
-  "EOS_NewPlayers": 1566,
+  "EOS_NewPlayers": 1570,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -33153,6 +33153,11 @@
       "Time": "2023-12-20T03:03:22.4162306+00:00",
       "NumProgressed": 146455,
       "NumCompleted": 325
+    },
+    {
+      "Time": "2023-12-20T04:04:21.143798+00:00",
+      "NumProgressed": 146461,
+      "NumCompleted": 325
     }
   ],
   "TotalAchievements": 112,
@@ -33332,7 +33337,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11716
+      "UsersEstimate": 11717
     },
     {
       "ID": "chest02",
@@ -33396,7 +33401,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11716
+      "UsersEstimate": 11717
     },
     {
       "ID": "commonres02",
@@ -33428,7 +33433,7 @@
       "Name": "Disintermediation",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8787
+      "UsersEstimate": 8788
     },
     {
       "ID": "craft02",
@@ -33540,7 +33545,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8787
+      "UsersEstimate": 8788
     },
     {
       "ID": "expansion02",
@@ -33940,7 +33945,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8787
+      "UsersEstimate": 8788
     },
     {
       "ID": "sell02",
@@ -33980,7 +33985,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11716
+      "UsersEstimate": 11717
     },
     {
       "ID": "twinenchant01",
@@ -34059,15 +34064,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 146455,
+      "Progressed": 146461,
       "Completed": 325
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-20T03:02:58.4385215+00:00",
-  "LastChanged_Achievements": "2023-12-20T03:03:22.4162302+00:00",
+  "LastChanged_Achievements": "2023-12-20T04:04:21.1437977+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.001195+00:00",
-  "LastUpdate_Ratings": "2023-12-20T03:02:58.4385221+00:00",
-  "LastUpdate_Achievements": "2023-12-20T03:03:22.416651+00:00"
+  "LastUpdate_Ratings": "2023-12-20T04:03:26.0096909+00:00",
+  "LastUpdate_Achievements": "2023-12-20T04:04:21.1440617+00:00"
 }

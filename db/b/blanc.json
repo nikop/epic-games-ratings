@@ -3,7 +3,7 @@
   "Name": "Blanc",
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 209,
-  "Ranking_EOS_Completed": 279,
+  "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3616,
+  "EOS_Progressed": 3617,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -5706,6 +5706,11 @@
       "Time": "2023-12-19T23:04:12.3728005+00:00",
       "NumProgressed": 3616,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-20T04:05:26.3270864+00:00",
+      "NumProgressed": 3617,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -5765,7 +5770,7 @@
       "Name": "Sliders",
       "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "SNOW_RUINS",
@@ -5781,7 +5786,7 @@
       "Name": "Starting as a duo",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -5820,7 +5825,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3616,
+      "Progressed": 3617,
       "Completed": 6
     }
   ],
@@ -5828,8 +5833,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-20T03:04:27.1017402+00:00",
+  "LastChanged_Achievements": "2023-12-20T04:05:26.3270861+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:23.2126403+00:00",
-  "LastUpdate_Ratings": "2023-12-20T02:59:01.898355+00:00",
-  "LastUpdate_Achievements": "2023-12-20T03:04:27.1017875+00:00"
+  "LastUpdate_Ratings": "2023-12-20T04:00:09.7780858+00:00",
+  "LastUpdate_Achievements": "2023-12-20T04:05:26.327126+00:00"
 }

@@ -1,7 +1,7 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.19 (Ranked 939)  
+Rating: 4.19 (Ranked 938)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,10 +9,10 @@ Rating: 4.19 (Ranked 939)
 | Get a Grip | 13.00% | ~2,360 |
 | Paper Jams | 13.00% | ~2,360 |
 | The Outer Way | 13.00% | ~2,360 |
-| Desperate Times | 12.00% | ~2,178 |
+| Desperate Times | 12.00% | ~2,179 |
 | Chew 'Em Up | 11.00% | ~1,997 |
-| Float Like A Butterfly | 10.00% | ~1,815 |
-| Reforged | 10.00% | ~1,815 |
+| Float Like A Butterfly | 10.00% | ~1,816 |
+| Reforged | 10.00% | ~1,816 |
 | Workplace Hazard | 8.00% | ~1,452 |
 | If the SHU Fits... | 8.00% | ~1,452 |
 | Two Heads Are Better Than One | 7.00% | ~1,271 |
@@ -34,9 +34,9 @@ Rating: 4.19 (Ranked 939)
 | Big Spender | 1.00% | ~61 |
 | This Isn't About Escape | 1.00% | ~61 |
 | Armed to the Teeth | 0.90% | ~55 |
+| Mugshot | 0.90% | ~163 |
 | Grim Reaper | 0.80% | ~145 |
 | Parole Denied | 0.80% | ~49 |
-| Mugshot | 0.80% | ~145 |
 | Instigator | 0.70% | ~43 |
 | Information Overload | 0.70% | ~43 |
 | Quick Pick | 0.60% | ~36 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 939)
 | Bear Trap | 0.10% | ~6 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,154 (Ranked 148)  
+Progressed: 18,155 (Ranked 148)  
 Completed: 82 (0.45%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 82 (0.45%) (Ranked 222)
 | 2023-12-17 | 17,760 | 82 |
 | 2023-12-18 | 17,946 | 82 |
 | 2023-12-19 | 18,137 | 82 |
-| 2023-12-20 | 18,154 | 82 |
+| 2023-12-20 | 18,155 | 82 |
 ## Awards
 Max (Quickly Understood Controls): 89  (Ranked 387)  
 Sum: 529 (Ranked 326)  

@@ -17,6 +17,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Before the Mongol Horde | 0.10% | ~16 |
 | Carthage - Ox Hide | 0.10% | ~16 |
 | Bronze Victory (Carthage 1) | 0.10% | ~16 |
+| Epic Victory (Carthage 1) | 0.10% | ~16 |
 | Gold Victory (Carthage 1) | 0.10% | ~16 |
 | Silver Victory (Carthage 1) | 0.10% | ~16 |
 | Carthage - Riches and Influence | 0.10% | ~16 |
@@ -115,6 +116,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | One True Faith | 0.10% | ~16 |
 | Play a LAN Game | 0.10% | ~16 |
 | Play a Single Player Game | 0.10% | ~16 |
+| Power to the People | 0.10% | ~16 |
 | Christianity | 0.10% | ~16 |
 | Judaism | 0.10% | ~16 |
 | Manichaeism | 0.10% | ~16 |
@@ -167,7 +169,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Battle of Opis | 0.00% | ~0 |
 | Blade of the Monkey | 0.00% | ~0 |
 | Hagia Sophia in Byzantion | 0.00% | ~0 |
-| Epic Victory (Carthage 1) | 0.00% | ~0 |
 | Epic Victory (Carthage 2) | 0.00% | ~0 |
 | Gold Victory (Carthage 2) | 0.00% | ~0 |
 | Silver Victory (Carthage 2) | 0.00% | ~0 |
@@ -268,7 +269,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a MP Teams Game | 0.00% | ~0 |
 | Play a Network Game | 0.00% | ~0 |
 | Play a Play-By-Cloud Game | 0.00% | ~0 |
-| Power to the People | 0.00% | ~0 |
 | Punic Wars | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
 | Roman Papacy | 0.00% | ~0 |

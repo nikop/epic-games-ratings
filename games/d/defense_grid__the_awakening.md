@@ -6,18 +6,18 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~398,519 |
-| Happy Returns | 78.00% | ~383,759 |
-| Hey! That's mine! | 78.00% | ~383,759 |
-| Field Promotion | 74.00% | ~364,079 |
-| Leadhead | 71.00% | ~349,319 |
-| Eradicator | 67.00% | ~329,639 |
-| Surplus | 66.00% | ~324,719 |
-| I Spy | 64.00% | ~314,879 |
-| Burn Baby Burn | 59.00% | ~290,279 |
-| Yellow Beats Green | 56.00% | ~275,519 |
-| Salvage Rights | 53.00% | ~260,759 |
-| What IS that? | 51.00% | ~250,919 |
+| First Blood | 81.00% | ~398,521 |
+| Happy Returns | 78.00% | ~383,761 |
+| Hey! That's mine! | 78.00% | ~383,761 |
+| Field Promotion | 74.00% | ~364,081 |
+| Leadhead | 71.00% | ~349,321 |
+| Eradicator | 67.00% | ~329,641 |
+| Surplus | 66.00% | ~324,721 |
+| I Spy | 64.00% | ~314,881 |
+| Burn Baby Burn | 59.00% | ~290,281 |
+| Yellow Beats Green | 56.00% | ~275,521 |
+| Salvage Rights | 53.00% | ~260,761 |
+| What IS that? | 51.00% | ~250,921 |
 | Close Call | 50.00% | ~246,000 |
 | Pew Pew | 50.00% | ~246,000 |
 | Penny Pincher | 49.00% | ~241,080 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~492 |
 | You Monster | 0.10% | ~492 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 491,999 (Ranked 38)  
+Progressed: 492,001 (Ranked 38)  
 Completed: 5 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 5 (0.00%) (Ranked 384)
 | 2023-12-17 | 491,855 | 5 |
 | 2023-12-18 | 491,924 | 5 |
 | 2023-12-19 | 491,990 | 5 |
-| 2023-12-20 | 491,999 | 5 |
+| 2023-12-20 | 492,001 | 5 |
 ## Awards
 Max (Great for Beginners): 262  (Ranked 269)  
 Sum: 1,736 (Ranked 222)  

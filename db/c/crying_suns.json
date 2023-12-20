@@ -673,9 +673,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 472499,
+  "EOS_Progressed": 472500,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 334,
+  "EOS_NewPlayers": 333,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25848,6 +25848,11 @@
       "Time": "2023-12-20T02:10:07.4554474+00:00",
       "NumProgressed": 472499,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-12-20T04:10:44.2323008+00:00",
+      "NumProgressed": 472500,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -25947,7 +25952,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 311849
+      "UsersEstimate": 311850
     },
     {
       "ID": "achievement_story_landa",
@@ -26267,7 +26272,7 @@
       "Name": "Excelsior Mastery",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 4252
+      "UsersEstimate": 4253
     },
     {
       "ID": "achievement_win_all_chapers_with_starter_hard",
@@ -26490,21 +26495,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 16433,
+      "Progressed": 16434,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 472499,
+      "Progressed": 472500,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-12-16T01:44:08.2225132+00:00",
-  "LastChanged_Achievements": "2023-12-20T03:09:37.2884475+00:00",
+  "LastChanged_Achievements": "2023-12-20T04:10:44.2323006+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:11.1940108+00:00",
-  "LastUpdate_Ratings": "2023-12-20T03:02:34.1741092+00:00",
-  "LastUpdate_Achievements": "2023-12-20T03:09:37.2886295+00:00"
+  "LastUpdate_Ratings": "2023-12-20T04:03:01.7713881+00:00",
+  "LastUpdate_Achievements": "2023-12-20T04:10:44.232444+00:00"
 }

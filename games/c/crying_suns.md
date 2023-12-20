@@ -6,7 +6,7 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~311,849 |
+| The Shutdown | 66.00% | ~311,850 |
 | Jeef Skeejj | 44.00% | ~207,900 |
 | Careful planning | 39.00% | ~184,275 |
 | Second Coming | 34.00% | ~160,650 |
@@ -56,7 +56,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Emperor of Misery | 1.00% | ~4,725 |
 | A Frozen Lady | 1.00% | ~4,725 |
 | Void Rule | 1.00% | ~4,725 |
-| Excelsior Mastery | 0.90% | ~4,252 |
+| Excelsior Mastery | 0.90% | ~4,253 |
 | Hand of the Emperor | 0.60% | ~99 |
 | The greatest admiral of all time | 0.50% | ~2,362 |
 | Soldiers of Fortune | 0.40% | ~66 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~16 |
 | Kronos Rule | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 472,499 (Ranked 42)  
+Progressed: 472,500 (Ranked 42)  
 Completed: 20 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 20 (0.00%) (Ranked 384)
 | 2023-12-17 | 472,410 | 20 |
 | 2023-12-18 | 472,447 | 20 |
 | 2023-12-19 | 472,497 | 20 |
-| 2023-12-20 | 472,499 | 20 |
+| 2023-12-20 | 472,500 | 20 |
 ## Awards
 Max (Character Customization): 226  (Ranked 282)  
 Sum: 250 (Ranked 391)  

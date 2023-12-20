@@ -8361,9 +8361,9 @@
       "Count": 434
     }
   ],
-  "EOS_Progressed": 736402,
+  "EOS_Progressed": 736439,
   "EOS_Completed": 12958,
-  "EOS_NewPlayers": 18408,
+  "EOS_NewPlayers": 18444,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.76,
   "EosHistory": [
@@ -30091,6 +30091,11 @@
       "Time": "2023-12-20T03:08:24.0885558+00:00",
       "NumProgressed": 736402,
       "NumCompleted": 12958
+    },
+    {
+      "Time": "2023-12-20T04:08:51.8825492+00:00",
+      "NumProgressed": 736439,
+      "NumCompleted": 12958
     }
   ],
   "TotalAchievements": 60,
@@ -30102,7 +30107,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22092
+      "UsersEstimate": 22093
     },
     {
       "ID": "02_Vengeance_H1",
@@ -30110,7 +30115,7 @@
       "Name": "The Assault",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14728
+      "UsersEstimate": 14729
     },
     {
       "ID": "03_Vengeance_H2",
@@ -30262,7 +30267,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 4418
+      "UsersEstimate": 4419
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -30278,7 +30283,7 @@
       "Name": "Life is your teacher",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22092
+      "UsersEstimate": 22093
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -30294,7 +30299,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5891
+      "UsersEstimate": 5892
     },
     {
       "ID": "26_ShrineSpirit",
@@ -30366,7 +30371,7 @@
       "Name": "Lightning Hands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14728
+      "UsersEstimate": 14729
     },
     {
       "ID": "35_WideStrike",
@@ -30414,7 +30419,7 @@
       "Name": "Take damage to save time",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5891
+      "UsersEstimate": 5892
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -30438,7 +30443,7 @@
       "Name": "Project Arena",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -30581,21 +30586,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 45703,
+      "Progressed": 45740,
       "Completed": 10775
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 736402,
+      "Progressed": 736439,
       "Completed": 12958
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-20T01:32:54.5847871+00:00",
-  "LastChanged_Achievements": "2023-12-20T03:08:24.0885555+00:00",
+  "LastChanged_Achievements": "2023-12-20T04:08:51.882549+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:50.1499922+00:00",
-  "LastUpdate_Ratings": "2023-12-20T03:02:48.3026943+00:00",
-  "LastUpdate_Achievements": "2023-12-20T03:08:24.0887283+00:00"
+  "LastUpdate_Ratings": "2023-12-20T04:03:15.982148+00:00",
+  "LastUpdate_Achievements": "2023-12-20T04:08:51.8826726+00:00"
 }

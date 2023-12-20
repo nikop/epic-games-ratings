@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16875,
+  "EOS_Progressed": 16879,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 795,
+  "EOS_NewPlayers": 799,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -14459,6 +14459,11 @@
       "Time": "2023-12-20T03:04:19.0561721+00:00",
       "NumProgressed": 16875,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-12-20T04:05:18.3258757+00:00",
+      "NumProgressed": 16879,
+      "NumCompleted": 45
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14503,7 +14508,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2362
+      "UsersEstimate": 2363
     },
     {
       "ID": "14",
@@ -14519,7 +14524,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1182
     },
     {
       "ID": "16",
@@ -14527,7 +14532,7 @@
       "Name": "Drug Gifter",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     },
     {
       "ID": "17",
@@ -14591,7 +14596,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     },
     {
       "ID": "24",
@@ -14615,7 +14620,7 @@
       "Name": "Call it Even",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     },
     {
       "ID": "27",
@@ -14727,7 +14732,7 @@
       "Name": "Zen Master",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "34",
@@ -14735,7 +14740,7 @@
       "Name": "Master Negotiator",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "35",
@@ -14750,13 +14755,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16875,
+      "Progressed": 16879,
       "Completed": 45
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2829,
+      "Progressed": 2833,
       "Completed": 962
     }
   ],
@@ -14764,8 +14769,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-17T22:59:50.8326927+00:00",
-  "LastChanged_Achievements": "2023-12-20T03:04:19.0561718+00:00",
+  "LastChanged_Achievements": "2023-12-20T04:05:18.3258754+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:40.0929133+00:00",
-  "LastUpdate_Ratings": "2023-12-20T02:59:38.8411742+00:00",
-  "LastUpdate_Achievements": "2023-12-20T03:04:19.0562873+00:00"
+  "LastUpdate_Ratings": "2023-12-20T04:00:47.7425743+00:00",
+  "LastUpdate_Achievements": "2023-12-20T04:05:18.3259694+00:00"
 }

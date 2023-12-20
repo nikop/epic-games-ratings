@@ -71,6 +71,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Achievement Hunter | 0.20% | ~483 |
 | Challenge Increases | 0.20% | ~483 |
 | A Long Climb | 0.20% | ~483 |
+| Dead Revels | 0.20% | ~483 |
 | New Game+ | 0.20% | ~483 |
 | Barbecue | 0.20% | ~483 |
 | Explosive Betrayal | 0.20% | ~483 |
@@ -97,7 +98,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | A Week Attempt | 0.10% | ~241 |
 | Hydrophobe | 0.10% | ~241 |
 | Disposal | 0.10% | ~241 |
-| Dead Revels | 0.10% | ~241 |
 | Friend of Vermin | 0.10% | ~241 |
 | Hanging On | 0.10% | ~241 |
 | A Hard Carry | 0.10% | ~241 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,318 (Ranked 66)  
+Progressed: 241,322 (Ranked 66)  
 Completed: 300 (0.12%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -389,11 +389,11 @@ Completed: 300 (0.12%) (Ranked 294)
 | 2023-12-17 | 241,211 | 299 |
 | 2023-12-18 | 241,266 | 299 |
 | 2023-12-19 | 241,311 | 300 |
-| 2023-12-20 | 241,318 | 300 |
+| 2023-12-20 | 241,322 | 300 |
 ## Awards
 Max (Quickly Understood Controls): 1,511  (Ranked 134)  
-Sum: 11,746 (Ranked 87)  
-Diff (max vs sum): 47  
+Sum: 11,746 (Ranked 88)  
+Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,534 |

@@ -6,18 +6,18 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,472 |
-| Gun Fu | 8.00% | ~78,314 |
-| The Fool | 7.00% | ~68,525 |
-| Right Back At Ya | 6.00% | ~58,736 |
+| V for Vendetta | 12.00% | ~117,473 |
+| Gun Fu | 8.00% | ~78,316 |
+| The Fool | 7.00% | ~68,526 |
+| Right Back At Ya | 6.00% | ~58,737 |
 | Full Body Conversion | 5.00% | ~48,947 |
 | The Lovers | 5.00% | ~48,947 |
-| Stanislavski's Method | 4.00% | ~39,157 |
-| The Hermit | 4.00% | ~39,157 |
-| The Wheel of Fortune | 4.00% | ~39,157 |
-| True Soldier | 4.00% | ~39,157 |
-| All the President's Men | 4.00% | ~4,302 |
-| Arachnophobia | 4.00% | ~4,302 |
+| Stanislavski's Method | 4.00% | ~39,158 |
+| The Hermit | 4.00% | ~39,158 |
+| The Wheel of Fortune | 4.00% | ~39,158 |
+| True Soldier | 4.00% | ~39,158 |
+| All the President's Men | 4.00% | ~4,303 |
+| Arachnophobia | 4.00% | ~4,303 |
 | Christmas Tree Attack | 3.00% | ~29,368 |
 | Life of the Road | 3.00% | ~29,368 |
 | The High Priestess | 3.00% | ~29,368 |
@@ -40,7 +40,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Easy Come, Easy Go | 1.00% | ~1,076 |
 | To Bad Decisions! | 0.90% | ~8,810 |
 | Ten out of Ten | 0.90% | ~8,810 |
-| The Star | 0.80% | ~7,831 |
+| The Star | 0.80% | ~7,832 |
 | Breathtaking | 0.70% | ~6,853 |
 | Autojock | 0.60% | ~5,874 |
 | The APB is Not Enough | 0.60% | ~645 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 978,931 (Ranked 16)  
+Progressed: 978,944 (Ranked 16)  
 Completed: 2,944 (0.30%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 2,944 (0.30%) (Ranked 248)
 | 2023-12-17 | 978,015 | 2,930 |
 | 2023-12-18 | 978,465 | 2,935 |
 | 2023-12-19 | 978,882 | 2,944 |
-| 2023-12-20 | 978,931 | 2,944 |
+| 2023-12-20 | 978,944 | 2,944 |
 ## Awards
 Max (Character Customization): 125,194  (Ranked 8)  
 Sum: 431,631 (Ranked 9)  

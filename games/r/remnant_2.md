@@ -5,25 +5,25 @@ Rating: 4.75 (Ranked 150)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 6.00% | ~15,354 |
-| First of Many | 5.00% | ~12,795 |
-| Not Your Average Trait | 4.00% | ~10,236 |
-| Expanding Horizons | 3.00% | ~7,677 |
-| Quest for Survival | 3.00% | ~7,677 |
-| Familiar Face | 3.00% | ~7,677 |
-| Boss'n Up | 3.00% | ~7,677 |
-| Gleaming the Cube | 2.00% | ~5,118 |
-| Not So Special Now | 2.00% | ~5,118 |
-| Not a Janitor | 2.00% | ~5,118 |
-| Equal Measures | 2.00% | ~5,118 |
-| Blue Goddess | 2.00% | ~5,118 |
-| Duality | 2.00% | ~5,118 |
-| Top Performer | 2.00% | ~5,118 |
-| Was This Supposed To Happen? | 2.00% | ~5,118 |
-| Almost There | 2.00% | ~5,118 |
-| Make Some Room | 2.00% | ~5,118 |
-| Good, But Could Be Better! | 2.00% | ~5,118 |
-| Trait Chaser | 2.00% | ~5,118 |
+| The Killing Jar | 6.00% | ~15,357 |
+| First of Many | 5.00% | ~12,797 |
+| Not Your Average Trait | 4.00% | ~10,238 |
+| Expanding Horizons | 3.00% | ~7,678 |
+| Quest for Survival | 3.00% | ~7,678 |
+| Familiar Face | 3.00% | ~7,678 |
+| Boss'n Up | 3.00% | ~7,678 |
+| Gleaming the Cube | 2.00% | ~5,119 |
+| Not So Special Now | 2.00% | ~5,119 |
+| Not a Janitor | 2.00% | ~5,119 |
+| Equal Measures | 2.00% | ~5,119 |
+| Blue Goddess | 2.00% | ~5,119 |
+| Duality | 2.00% | ~5,119 |
+| Top Performer | 2.00% | ~5,119 |
+| Was This Supposed To Happen? | 2.00% | ~5,119 |
+| Almost There | 2.00% | ~5,119 |
+| Make Some Room | 2.00% | ~5,119 |
+| Good, But Could Be Better! | 2.00% | ~5,119 |
+| Trait Chaser | 2.00% | ~5,119 |
 | Am I Seeing This? | 1.00% | ~2,559 |
 | Chaos | 1.00% | ~2,559 |
 | Traitor | 1.00% | ~2,559 |
@@ -40,17 +40,17 @@ Rating: 4.75 (Ranked 150)
 | Bad Moon Rising | 0.90% | ~2,303 |
 | Strapped | 0.90% | ~2,303 |
 | All These Traits� | 0.90% | ~2,303 |
-| Forever is a Long Time Coming | 0.80% | ~2,047 |
-| Scrap Hoarder | 0.80% | ~2,047 |
-| The Ultimate Weapon | 0.80% | ~2,047 |
-| Edgelord | 0.70% | ~1,791 |
-| Carnage in C-Minor | 0.70% | ~1,791 |
-| No One Should Have All That Power | 0.70% | ~1,791 |
-| Transmutate | 0.70% | ~1,791 |
-| Only Human | 0.60% | ~1,535 |
-| Red Room | 0.60% | ~1,535 |
-| Tall Tales | 0.60% | ~1,535 |
-| Maxed Out! | 0.50% | ~1,279 |
+| Forever is a Long Time Coming | 0.80% | ~2,048 |
+| Scrap Hoarder | 0.80% | ~2,048 |
+| The Ultimate Weapon | 0.80% | ~2,048 |
+| Tall Tales | 0.70% | ~1,792 |
+| Edgelord | 0.70% | ~1,792 |
+| Carnage in C-Minor | 0.70% | ~1,792 |
+| No One Should Have All That Power | 0.70% | ~1,792 |
+| Transmutate | 0.70% | ~1,792 |
+| Only Human | 0.60% | ~1,536 |
+| Red Room | 0.60% | ~1,536 |
+| Maxed Out! | 0.50% | ~1,280 |
 | Crafty | 0.40% | ~1,024 |
 | Ghost in the Machine | 0.40% | ~1,024 |
 | The Trigger | 0.40% | ~1,024 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 150)
 | You Shall Pass | 0.30% | ~105 |
 | A Foul Feast | 0.20% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,893 (Ranked 61)  
+Progressed: 255,942 (Ranked 61)  
 Completed: 607 (0.24%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,10 +218,10 @@ Completed: 607 (0.24%) (Ranked 260)
 | 2023-12-17 | 252,137 | 598 |
 | 2023-12-18 | 254,063 | 603 |
 | 2023-12-19 | 255,737 | 607 |
-| 2023-12-20 | 255,893 | 607 |
+| 2023-12-20 | 255,942 | 607 |
 ## Awards
 Max (Great Boss Battles): 3,117  (Ranked 98)  
-Sum: 7,491 (Ranked 114)  
+Sum: 7,501 (Ranked 114)  
 Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
@@ -229,8 +229,8 @@ Diff (max vs sum): -16
 | This game has Diverse Characters | 499 |
 | This game is Highly Recommended | 472 |
 | This game has Challenging Combat | 463 |
+| This game is Extremely Fun | 456 |
 | This game has Quickly Understood Controls | 455 |
-| This game is Extremely Fun | 446 |
 | This game is Relaxing | 446 |
 | This game has Amazing Storytelling | 445 |
 | This game has Amazing Characters | 430 |
@@ -386,4 +386,4 @@ Diff (max vs sum): -16
 | 2023-12-17 | 4.75 | 2,917 | 7,182 |
 | 2023-12-18 | 4.75 | 3,014 | 7,323 |
 | 2023-12-19 | 4.75 | 3,117 | 7,485 |
-| 2023-12-20 | 4.75 | 3,117 | 7,491 |
+| 2023-12-20 | 4.75 | 3,117 | 7,501 |

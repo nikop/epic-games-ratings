@@ -1500,9 +1500,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 25748,
+  "EOS_Progressed": 25756,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 2044,
+  "EOS_NewPlayers": 2052,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -11155,6 +11155,11 @@
       "Time": "2023-12-20T03:09:16.0495848+00:00",
       "NumProgressed": 25748,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-20T04:10:23.2453005+00:00",
+      "NumProgressed": 25756,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -11174,7 +11179,7 @@
       "Name": "Truly Blessed",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "AllEquipment",
@@ -11182,7 +11187,7 @@
       "Name": "Black-shoppe",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "AllFriends",
@@ -11214,7 +11219,7 @@
       "Name": "Looks Familiar",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "BossBridgeAdvancedDefeated",
@@ -11230,7 +11235,7 @@
       "Name": "Captain and Crew",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -11246,7 +11251,7 @@
       "Name": "Spells and Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1287
+      "UsersEstimate": 1288
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -11262,7 +11267,7 @@
       "Name": "Hands and Hammers",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "BossFinalAdvancedDefeated",
@@ -11270,7 +11275,7 @@
       "Name": "For Greed",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "BossFinalDefeated",
@@ -11278,7 +11283,7 @@
       "Name": "King and Kin",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "BossForestAdvancedDefeated",
@@ -11302,7 +11307,7 @@
       "Name": "For Penance",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "BossGardenDefeated",
@@ -11310,7 +11315,7 @@
       "Name": "Progenitor and Prot\u00E9g\u00E9",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "BossStudyAdvancedDefeated",
@@ -11358,7 +11363,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "EndTimerFail",
@@ -11390,7 +11395,7 @@
       "Name": "Good Practice",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "Icarus",
@@ -11398,7 +11403,7 @@
       "Name": "Maybe Wax Doesn\u0027t Melt",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "NightmareKhidr",
@@ -11406,7 +11411,7 @@
       "Name": "A Glimpse of the Future",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "PetDragon",
@@ -11414,7 +11419,7 @@
       "Name": "Good Boy!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "PrequelReveal",
@@ -11422,7 +11427,7 @@
       "Name": "Prequel to the Sequel",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "RogueMode",
@@ -11477,21 +11482,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 25748,
+      "Progressed": 25756,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 4678,
+      "Progressed": 4686,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-07T09:58:25.2813813+00:00",
-  "LastChanged_Achievements": "2023-12-20T03:09:16.0495845+00:00",
+  "LastChanged_Achievements": "2023-12-20T04:10:23.2453002+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:44.2937948+00:00",
-  "LastUpdate_Ratings": "2023-12-20T02:57:43.2552561+00:00",
-  "LastUpdate_Achievements": "2023-12-20T03:09:16.0496819+00:00"
+  "LastUpdate_Ratings": "2023-12-20T03:58:32.186966+00:00",
+  "LastUpdate_Achievements": "2023-12-20T04:10:23.2453763+00:00"
 }

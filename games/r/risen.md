@@ -37,7 +37,7 @@ Rating: 4.56 (Ranked 498)
 | Workaholic | 14.00% | ~14 |
 | Showdown | 13.00% | ~13 |
 | Safecracker | 13.00% | ~13 |
-| Master thief | 12.00% | ~12 |
+| Master thief | 13.00% | ~13 |
 | Freedom fighter | 11.00% | ~11 |
 | King of the handymen | 11.00% | ~11 |
 | Titan Lord | 10.00% | ~10 |

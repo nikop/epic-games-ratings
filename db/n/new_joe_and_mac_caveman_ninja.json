@@ -4,7 +4,7 @@
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
   "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewPlayers": 308,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 255,
+  "EOS_Progressed": 256,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.35,
+  "EOS_Completed_Percentage": 2.34,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:18.1728843+00:00",
@@ -541,6 +541,11 @@
       "Time": "2023-12-20T03:04:40.1089116+00:00",
       "NumProgressed": 255,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-20T04:05:39.223759+00:00",
+      "NumProgressed": 256,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 15,
@@ -552,7 +557,7 @@
       "Name": "The T-Rex plain.",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "02",
@@ -568,7 +573,7 @@
       "Name": "In the treetops.",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "04",
@@ -576,7 +581,7 @@
       "Name": "At the top of the mountain.",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "05",
@@ -671,7 +676,7 @@
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 255,
+      "Progressed": 256,
       "Completed": 6
     }
   ],
@@ -679,8 +684,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-12-20T03:04:40.1089113+00:00",
+  "LastChanged_Achievements": "2023-12-20T04:05:39.2237588+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:07.9011591+00:00",
-  "LastUpdate_Ratings": "2023-12-20T02:57:19.9808579+00:00",
-  "LastUpdate_Achievements": "2023-12-20T03:04:40.1089227+00:00"
+  "LastUpdate_Ratings": "2023-12-20T03:57:52.2772246+00:00",
+  "LastUpdate_Achievements": "2023-12-20T04:05:39.2237697+00:00"
 }

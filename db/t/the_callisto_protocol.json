@@ -2,7 +2,7 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 939,
+  "Ranking_Rating": 938,
   "Ranking_Popularity": 387,
   "Ranking_PopularitySum": 326,
   "Ranking_EOS_Progress": 148,
@@ -1721,9 +1721,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 18154,
+  "EOS_Progressed": 18155,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1624,
+  "EOS_NewPlayers": 1625,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -10381,6 +10381,11 @@
       "Time": "2023-12-20T03:08:51.1196079+00:00",
       "NumProgressed": 18154,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-20T04:09:19.1852685+00:00",
+      "NumProgressed": 18155,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -10552,7 +10557,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1815
+      "UsersEstimate": 1816
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -10560,7 +10565,7 @@
       "Name": "Reforged",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1815
+      "UsersEstimate": 1816
     },
     {
       "ID": "PRINT_WEAPON",
@@ -10574,9 +10579,9 @@
       "ID": "SHARE_PHOTO",
       "SetID": "4hj6d86",
       "Name": "Mugshot",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 163
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -10624,7 +10629,7 @@
       "Name": "Desperate Times",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2178
+      "UsersEstimate": 2179
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -10767,13 +10772,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 18154,
+      "Progressed": 18155,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 6080,
+      "Progressed": 6081,
       "Completed": 29
     }
   ],
@@ -10781,8 +10786,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-20T03:02:59.9663401+00:00",
-  "LastChanged_Achievements": "2023-12-20T03:08:51.1196075+00:00",
+  "LastChanged_Achievements": "2023-12-20T04:09:19.1852682+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.4893565+00:00",
-  "LastUpdate_Ratings": "2023-12-20T03:02:59.9663405+00:00",
-  "LastUpdate_Achievements": "2023-12-20T03:08:51.1196898+00:00"
+  "LastUpdate_Ratings": "2023-12-20T04:03:27.3397945+00:00",
+  "LastUpdate_Achievements": "2023-12-20T04:09:19.1853519+00:00"
 }

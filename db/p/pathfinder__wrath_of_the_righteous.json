@@ -4637,9 +4637,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12527,
+  "EOS_Progressed": 12528,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 235,
+  "EOS_NewPlayers": 236,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17412,6 +17412,11 @@
       "Time": "2023-12-20T01:39:50.4733634+00:00",
       "NumProgressed": 12527,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T04:10:41.1510454+00:00",
+      "NumProgressed": 12528,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -17423,7 +17428,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3382
+      "UsersEstimate": 3383
     },
     {
       "ID": "02_BurningCity",
@@ -17447,7 +17452,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -18350,21 +18355,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11309,
+      "Progressed": 11310,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12527,
+      "Progressed": 12528,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-19T14:57:09.5966829+00:00",
-  "LastChanged_Achievements": "2023-12-20T03:09:34.0718213+00:00",
+  "LastChanged_Achievements": "2023-12-20T04:10:41.1510452+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.7532096+00:00",
-  "LastUpdate_Ratings": "2023-12-20T02:57:09.808555+00:00",
-  "LastUpdate_Achievements": "2023-12-20T03:09:34.0720162+00:00"
+  "LastUpdate_Ratings": "2023-12-20T03:57:33.0039886+00:00",
+  "LastUpdate_Achievements": "2023-12-20T04:10:41.1512005+00:00"
 }

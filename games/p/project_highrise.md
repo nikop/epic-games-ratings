@@ -20,7 +20,7 @@
 | Potent Potables | 25.00% | ~100 |
 | Smooth Service | 25.00% | ~100 |
 | Your Prestige is Rising | 24.00% | ~96 |
-| Retail Revenue | 23.00% | ~92 |
+| Retail Revenue | 24.00% | ~96 |
 | Don't Feel a Loan | 22.00% | ~88 |
 | People Mover | 21.00% | ~84 |
 | Artfully Done | 20.00% | ~80 |
@@ -37,8 +37,8 @@
 | Starred Dining | 15.00% | ~60 |
 | Smooth Operator | 13.00% | ~52 |
 | Boutique Benefits | 13.00% | ~52 |
+| Thrilled Tenants | 13.00% | ~52 |
 | Terrifically Trashed | 12.00% | ~48 |
-| Thrilled Tenants | 12.00% | ~48 |
 | Swimming in Surplus | 11.00% | ~44 |
 | Aestheticly Pleased | 10.00% | ~40 |
 | 28 Days Later | 10.00% | ~40 |

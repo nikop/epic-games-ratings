@@ -2224,9 +2224,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 689490,
+  "EOS_Progressed": 689500,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 1810,
+  "EOS_NewPlayers": 1813,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30199,6 +30199,11 @@
       "Time": "2023-12-20T03:09:35.2939263+00:00",
       "NumProgressed": 689490,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-12-20T04:10:42.1756103+00:00",
+      "NumProgressed": 689500,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 54,
@@ -30210,7 +30215,7 @@
       "Name": "The dream begins",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 544697
+      "UsersEstimate": 544705
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -30226,7 +30231,7 @@
       "Name": "Earn your stripes",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6205
+      "UsersEstimate": 6206
     },
     {
       "ID": "ALL_AMATEUR_CHALLENGES",
@@ -30234,7 +30239,7 @@
       "Name": "Amateur mower",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "ALL_EXPERT_CHALLENGES",
@@ -30242,7 +30247,7 @@
       "Name": "Expert mower",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "ALL_PROFESSIONAL_CHALLENGES",
@@ -30250,7 +30255,7 @@
       "Name": "Professional mower",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "AMERICAN_MOWER_4TH_JULY",
@@ -30258,7 +30263,7 @@
       "Name": "Lawn on the 4th of July",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "APPRENTICE_TO_EXPERT",
@@ -30298,7 +30303,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 248216
+      "UsersEstimate": 248220
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -30314,7 +30319,7 @@
       "Name": "Lawn \u0026 Order",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6205
+      "UsersEstimate": 6206
     },
     {
       "ID": "CONTRACT_SMALL_DECK",
@@ -30338,7 +30343,7 @@
       "Name": "A seat at the round table",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "DLC001_KNIGHTCONTRACT",
@@ -30346,7 +30351,7 @@
       "Name": "Home game",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "DLC001_MEGALITHVALUABLE",
@@ -30354,7 +30359,7 @@
       "Name": "Excalibur?",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "DLC001_PAINTINGVALUABLE",
@@ -30362,7 +30367,7 @@
       "Name": "An axe to grind",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "DLC001_PUBVALUABLE",
@@ -30370,7 +30375,7 @@
       "Name": "Elderly chap, big grey beard, pointy hat.",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "DLC001_STONECIRCLESVALUABLE",
@@ -30378,7 +30383,7 @@
       "Name": "Head of the family",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "DLC002_CANYONVALUABLE",
@@ -30386,7 +30391,7 @@
       "Name": "Spared no expense",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "DLC002_HERBIVOREVALUABLE",
@@ -30394,7 +30399,7 @@
       "Name": "We\u2019re going to make a fortune with this place",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "DLC002_OVERGROWN",
@@ -30402,7 +30407,7 @@
       "Name": "Don\u2019t go into the long grass!",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "DLC002_RAPTORVALUABLE",
@@ -30410,7 +30415,7 @@
       "Name": "Clever girl",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "DLC002_TREXVALUABLE",
@@ -30418,7 +30423,7 @@
       "Name": "We have a T-Rex",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "DLC002_WELCOME",
@@ -30426,7 +30431,7 @@
       "Name": "Welcome to Dino Safari!",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "DOWNSIZE_HQ",
@@ -30450,7 +30455,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 213742
+      "UsersEstimate": 213745
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -30466,7 +30471,7 @@
       "Name": "Lawn Enforcement Officer",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "HAND_IN_1_VALUABLE",
@@ -30482,7 +30487,7 @@
       "Name": "Teamwork makes the dream work",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 41369
+      "UsersEstimate": 41370
     },
     {
       "ID": "NO_FINE_CONTRACT",
@@ -30490,7 +30495,7 @@
       "Name": "The grass is always greener",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6205
+      "UsersEstimate": 6206
     },
     {
       "ID": "ONE_OF_EACH_CONTRACT",
@@ -30498,7 +30503,7 @@
       "Name": "Jack of all trades",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6205
+      "UsersEstimate": 6206
     },
     {
       "ID": "OWN_ALL_ORIGINAL_MOWERS",
@@ -30506,7 +30511,7 @@
       "Name": "Mo mowers, mo problems",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "OWN_AMERICAN_MOWER",
@@ -30514,7 +30519,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 103424
+      "UsersEstimate": 103425
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -30538,7 +30543,7 @@
       "Name": "All hands on deck",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6205
+      "UsersEstimate": 6206
     },
     {
       "ID": "PURCHASE_FORTH_HQ",
@@ -30570,7 +30575,7 @@
       "Name": "Credible",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 48264
+      "UsersEstimate": 48265
     },
     {
       "ID": "RP_DISTINGUISHED",
@@ -30602,7 +30607,7 @@
       "Name": "Professional",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6205
+      "UsersEstimate": 6206
     },
     {
       "ID": "RP_RANK_UP",
@@ -30610,7 +30615,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 124108
+      "UsersEstimate": 124110
     },
     {
       "ID": "RP_TRUSTED",
@@ -30626,7 +30631,7 @@
       "Name": "Blade Runner",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 62054
+      "UsersEstimate": 62055
     },
     {
       "ID": "UPGRADE_COMPANY_HQ",
@@ -30641,15 +30646,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 689490,
+      "Progressed": 689500,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-12-15T23:57:11.8160512+00:00",
-  "LastChanged_Achievements": "2023-12-20T03:09:35.293926+00:00",
+  "LastChanged_Achievements": "2023-12-20T04:10:42.17561+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:21.409328+00:00",
-  "LastUpdate_Ratings": "2023-12-20T02:58:58.1777017+00:00",
-  "LastUpdate_Achievements": "2023-12-20T03:09:35.2941496+00:00"
+  "LastUpdate_Ratings": "2023-12-20T04:00:06.1048477+00:00",
+  "LastUpdate_Achievements": "2023-12-20T04:10:42.1757888+00:00"
 }

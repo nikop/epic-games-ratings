@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1921,
+  "EOS_Progressed": 1922,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 234,
+  "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5654,6 +5654,11 @@
       "Time": "2023-12-20T03:09:37.038597+00:00",
       "NumProgressed": 1921,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T04:10:43.9636632+00:00",
+      "NumProgressed": 1922,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -5698,7 +5703,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "achievement_14",
@@ -5866,7 +5871,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "achievement_33",
@@ -5888,9 +5893,9 @@
       "ID": "achievement_35",
       "SetID": "271ol84",
       "Name": "New Recruit",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1690
+      "UsersEstimate": 1711
     },
     {
       "ID": "achievement_36",
@@ -5904,9 +5909,9 @@
       "ID": "achievement_37",
       "SetID": "271ol84",
       "Name": "Off to a good start",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1229
+      "UsersEstimate": 1249
     },
     {
       "ID": "achievement_38",
@@ -6146,7 +6151,7 @@
       "Name": "A cunning warrior",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "achievement_8",
@@ -6169,13 +6174,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1921,
+      "Progressed": 1922,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1921,
+      "Progressed": 1922,
       "Completed": 1
     }
   ],
@@ -6183,8 +6188,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-20T03:09:37.0385967+00:00",
+  "LastChanged_Achievements": "2023-12-20T04:10:43.9636628+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.5169818+00:00",
-  "LastUpdate_Ratings": "2023-12-20T02:57:09.0590354+00:00",
-  "LastUpdate_Achievements": "2023-12-20T03:09:37.0386706+00:00"
+  "LastUpdate_Ratings": "2023-12-20T03:57:31.6164202+00:00",
+  "LastUpdate_Achievements": "2023-12-20T04:10:43.9637464+00:00"
 }

@@ -13,7 +13,7 @@ Rating: 4.63 (Ranked 354)
 | Break-Net Speed | 0.80% | ~68 |
 | Open the Gate! | 0.70% | ~60 |
 | Miner 49er | 0.70% | ~60 |
-| Humble Collector | 0.60% | ~51 |
+| Humble Collector | 0.70% | ~60 |
 | Mist Walker | 0.60% | ~51 |
 | Lumberjack | 0.50% | ~43 |
 | Exit Through The Gift Shop | 0.50% | ~6 |

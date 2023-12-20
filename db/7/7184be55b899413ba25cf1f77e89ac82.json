@@ -2,9 +2,9 @@
   "ID": "7184be55b899413ba25cf1f77e89ac82",
   "Name": "Demon Turf Neon Splash",
   "ProductSlug": "demon-turf-neon-splash-7ed9b5",
-  "Ranking_EOS_Progress": 459,
+  "Ranking_EOS_Progress": 457,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewPlayers": 370,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-02T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 103,
+  "EOS_Progressed": 104,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -469,6 +469,11 @@
       "Time": "2023-12-20T01:39:45.3937162+00:00",
       "NumProgressed": 103,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T04:10:36.2290059+00:00",
+      "NumProgressed": 104,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-27T15:03:05.6724324+00:00",
@@ -495,7 +500,7 @@
       "ID": "NeonBeachChamp",
       "SetID": "2i48e34",
       "Name": "Neon Beach Champ",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 75,
       "UsersEstimate": 14
     },
@@ -576,14 +581,14 @@
     {
       "ID": "2i48e34",
       "IsBase": true,
-      "Progressed": 103,
+      "Progressed": 104,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-14T16:03:11.8091132+00:00",
   "FirstSeenAchievements": "2023-09-27T15:03:05.6724323+00:00",
-  "LastChanged_Achievements": "2023-12-20T03:09:29.057932+00:00",
+  "LastChanged_Achievements": "2023-12-20T04:10:36.2290056+00:00",
   "LastUpdate_AppInfo": "2023-12-13T21:57:02.9496413+00:00",
-  "LastUpdate_Ratings": "2023-12-20T02:58:28.8595413+00:00",
-  "LastUpdate_Achievements": "2023-12-20T03:09:29.0579422+00:00"
+  "LastUpdate_Ratings": "2023-12-20T03:59:35.6137712+00:00",
+  "LastUpdate_Achievements": "2023-12-20T04:10:36.2290204+00:00"
 }

@@ -495,9 +495,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 255111,
+  "EOS_Progressed": 255113,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 614,
+  "EOS_NewPlayers": 612,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27765,6 +27765,11 @@
       "Time": "2023-12-20T03:03:44.2086488+00:00",
       "NumProgressed": 255111,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-20T04:04:44.1205188+00:00",
+      "NumProgressed": 255113,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -27776,7 +27781,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 68880
+      "UsersEstimate": 68881
     },
     {
       "ID": "ACH_AON",
@@ -27800,7 +27805,7 @@
       "Name": "BOY!",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 10204
+      "UsersEstimate": 10205
     },
     {
       "ID": "ACH_CATNIPCATNIP",
@@ -27816,7 +27821,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 30613
+      "UsersEstimate": 30614
     },
     {
       "ID": "ACH_ENJOY",
@@ -27840,7 +27845,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 33164
+      "UsersEstimate": 33165
     },
     {
       "ID": "ACH_HATTRICK",
@@ -27920,7 +27925,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 73982
+      "UsersEstimate": 73983
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -27944,7 +27949,7 @@
       "Name": "Ka-ching!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10204
+      "UsersEstimate": 10205
     },
     {
       "ID": "ACH_LETMEOUT",
@@ -28104,7 +28109,7 @@
       "Name": "So you like to read?",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 10204
+      "UsersEstimate": 10205
     },
     {
       "ID": "ACH_TAKEBLUEPILL",
@@ -28191,7 +28196,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 255111,
+      "Progressed": 255113,
       "Completed": 7
     }
   ],
@@ -28199,8 +28204,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-11-30T10:59:11.8312964+00:00",
-  "LastChanged_Achievements": "2023-12-20T03:03:44.2086485+00:00",
+  "LastChanged_Achievements": "2023-12-20T04:04:44.1205185+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:10.8864766+00:00",
-  "LastUpdate_Ratings": "2023-12-20T03:02:46.0535331+00:00",
-  "LastUpdate_Achievements": "2023-12-20T03:03:44.2088089+00:00"
+  "LastUpdate_Ratings": "2023-12-20T04:03:13.8617617+00:00",
+  "LastUpdate_Achievements": "2023-12-20T04:04:44.1206443+00:00"
 }

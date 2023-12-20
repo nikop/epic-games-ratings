@@ -2,12 +2,12 @@
   "ID": "75d74aeb36024d95b8a30bad40dc19c3",
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
-  "Ranking_Rating": 930,
+  "Ranking_Rating": 929,
   "Ranking_Popularity": 467,
   "Ranking_PopularitySum": 402,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -997,9 +997,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 7236,
+  "EOS_Progressed": 7237,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 459,
+  "EOS_NewPlayers": 460,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11657,6 +11657,11 @@
       "Time": "2023-12-20T02:06:25.3459261+00:00",
       "NumProgressed": 7236,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T04:06:55.4741952+00:00",
+      "NumProgressed": 7237,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -11987,13 +11992,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7236,
+      "Progressed": 7237,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 6608,
+      "Progressed": 6609,
       "Completed": 113
     }
   ],
@@ -12001,8 +12006,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-19T21:01:18.283185+00:00",
-  "LastChanged_Achievements": "2023-12-20T03:05:55.8354217+00:00",
+  "LastChanged_Achievements": "2023-12-20T04:06:55.4741948+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:41.8809727+00:00",
-  "LastUpdate_Ratings": "2023-12-20T02:59:41.4167885+00:00",
-  "LastUpdate_Achievements": "2023-12-20T03:05:55.8355162+00:00"
+  "LastUpdate_Ratings": "2023-12-20T04:00:50.5906464+00:00",
+  "LastUpdate_Achievements": "2023-12-20T04:06:55.4742708+00:00"
 }

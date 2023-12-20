@@ -34,7 +34,7 @@
 | Employee of the year | 55.00% | ~234 |
 | Fight for life | 54.00% | ~230 |
 | Legal courier | 51.00% | ~217 |
-| Extreme neuropower! | 50.00% | ~213 |
+| Extreme neuropower! | 51.00% | ~217 |
 | Escaped from a big trouble | 47.00% | ~200 |
 | Now you are worthy | 44.00% | ~187 |
 | Fight is life | 42.00% | ~179 |

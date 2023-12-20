@@ -10,7 +10,7 @@
 | Hammer Time, Round Two | 81.00% | ~480 |
 | The Hellwoods | 77.00% | ~457 |
 | The Plains of Strothalm | 72.00% | ~427 |
-| Experienced Thalya | 71.00% | ~421 |
+| Experienced Thalya | 72.00% | ~427 |
 | Thalya's Concentrated Fury | 69.00% | ~409 |
 | Bad Elves Go Everywhere | 69.00% | ~409 |
 | Heroes’ Gorge | 65.00% | ~385 |
@@ -21,12 +21,12 @@
 | It's Warm and Cozy at Home | 59.00% | ~350 |
 | Trap Master | 55.00% | ~326 |
 | Minions, Minions! | 54.00% | ~320 |
+| Hard Work | 54.00% | ~320 |
 | The Big Eaty | 54.00% | ~320 |
-| Hard Work | 53.00% | ~314 |
 | “… like son” | 51.00% | ~302 |
 | YOU SHALL NOT PASS! | 50.00% | ~296 |
 | The Cathedral of Light | 48.00% | ~285 |
-| Shame! Shame! Shame! | 47.00% | ~279 |
+| Shame! Shame! Shame! | 48.00% | ~285 |
 | Pure Dynamite! | 46.00% | ~273 |
 | Dungeonlord Gorgu | 46.00% | ~273 |
 | Tanos' Crusade Against Thalya | 45.00% | ~267 |

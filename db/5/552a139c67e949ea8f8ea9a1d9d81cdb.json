@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1465,
+  "EOS_Progressed": 1466,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3497,6 +3497,11 @@
       "Time": "2023-12-20T03:06:16.4633149+00:00",
       "NumProgressed": 1465,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T04:07:15.9187504+00:00",
+      "NumProgressed": 1466,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -3539,9 +3544,9 @@
       "ID": "ML_ACHIEVEMENT_05",
       "SetID": "5k00jcd",
       "Name": "Like lightning!",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -3876,20 +3881,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1465,
+      "Progressed": 1466,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1133,
+      "Progressed": 1134,
       "Completed": 997
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-20T03:06:16.4633145+00:00",
+  "LastChanged_Achievements": "2023-12-20T04:07:15.9187501+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:11.7320397+00:00",
-  "LastUpdate_Ratings": "2023-12-20T02:59:39.2178797+00:00",
-  "LastUpdate_Achievements": "2023-12-20T03:06:16.4633557+00:00"
+  "LastUpdate_Ratings": "2023-12-20T04:00:48.1037464+00:00",
+  "LastUpdate_Achievements": "2023-12-20T04:07:15.9187992+00:00"
 }

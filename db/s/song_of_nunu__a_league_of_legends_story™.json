@@ -3058,9 +3058,9 @@
       "ID": "EV_ACH03",
       "SetID": "6jeac23",
       "Name": "He\u0027s Famous!",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 809
+      "UsersEstimate": 822
     },
     {
       "ID": "EV_ACH04",
@@ -3314,9 +3314,9 @@
       "ID": "EV_ACH35",
       "SetID": "6jeac23",
       "Name": "The Fire Below the Mountain",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 747
+      "UsersEstimate": 759
     },
     {
       "ID": "EV_ACH36",
@@ -3403,8 +3403,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-18T18:59:32.6243964+00:00",
-  "LastChanged_Achievements": "2023-12-20T03:09:36.1037545+00:00",
+  "LastChanged_Achievements": "2023-12-20T04:10:42.9290567+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:41.6283728+00:00",
-  "LastUpdate_Ratings": "2023-12-20T02:59:40.5846875+00:00",
-  "LastUpdate_Achievements": "2023-12-20T03:09:36.103841+00:00"
+  "LastUpdate_Ratings": "2023-12-20T04:00:49.6458398+00:00",
+  "LastUpdate_Achievements": "2023-12-20T04:10:42.9290896+00:00"
 }

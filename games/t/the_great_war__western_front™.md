@@ -1,7 +1,7 @@
 # The Great War: Western Front™
 [Store](https://store.epicgames.com/en-US/p/the-great-war-western-front)  
 [View Rawdata](../../db/t/the_great_war__western_front™.json)  
-Rating: 4.00 (Ranked 1,014)  
+Rating: 3.97 (Ranked 1,023)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -18,7 +18,7 @@ Rating: 4.00 (Ranked 1,014)
 | Eventful | 0.00% | ~0 |
 | Generalissimo | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 689 (Ranked 299)  
+Progressed: 689 (Ranked 300)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,3 +238,4 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-11-20 | 4.04 | 0 | 0 |
 | 2023-12-18 | 4.03 | 0 | 0 |
 | 2023-12-19 | 4.00 | 0 | 0 |
+| 2023-12-20 | 3.97 | 0 | 0 |

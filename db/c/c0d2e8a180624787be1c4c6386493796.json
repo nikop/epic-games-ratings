@@ -832,9 +832,9 @@
       "ID": "KR4_ACHIEVEMENT_BONEFLINGERS",
       "SetID": "caeik3h",
       "Name": "The Skeleton War",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "KR4_ACHIEVEMENT_BONEHART",
@@ -1112,9 +1112,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_HARD",
       "SetID": "caeik3h",
       "Name": "No Survivors III",
-      "Percentage": 56,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 100
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_MEDIUM",
@@ -1413,8 +1413,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-20T03:04:30.3766803+00:00",
+  "LastChanged_Achievements": "2023-12-20T04:05:29.6162591+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:06.9365218+00:00",
-  "LastUpdate_Ratings": "2023-12-20T03:02:30.261564+00:00",
-  "LastUpdate_Achievements": "2023-12-20T03:04:30.3767695+00:00"
+  "LastUpdate_Ratings": "2023-12-20T04:02:57.8531042+00:00",
+  "LastUpdate_Achievements": "2023-12-20T04:05:29.6163128+00:00"
 }
