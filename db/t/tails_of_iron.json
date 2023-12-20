@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2262,
+  "EOS_Progressed": 2263,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -4068,6 +4068,11 @@
       "Time": "2023-12-20T18:03:49.0432412+00:00",
       "NumProgressed": 2262,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-20T19:03:39.640966+00:00",
+      "NumProgressed": 2263,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 36,
@@ -4077,9 +4082,9 @@
       "ID": "BecomeKing",
       "SetID": "9lj35g4",
       "Name": "Become King",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "Collect20Gold",
@@ -4157,9 +4162,9 @@
       "ID": "CompleteGuardFaction",
       "SetID": "9lj35g4",
       "Name": "Complete Guard Faction",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "CompleteHunterFaction",
@@ -4357,22 +4362,22 @@
       "ID": "TravelToBrightFirForest",
       "SetID": "cbf1i0c",
       "Name": "The Bright Fir",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2262,
+      "Progressed": 2263,
       "Completed": 12
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 903,
+      "Progressed": 904,
       "Completed": 897
     }
   ],
@@ -4380,8 +4385,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-12-16T18:59:01.3536966+00:00",
-  "LastChanged_Achievements": "2023-12-20T18:03:49.0432404+00:00",
+  "LastChanged_Achievements": "2023-12-20T19:03:39.6409656+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:33.7739845+00:00",
-  "LastUpdate_Ratings": "2023-12-20T17:57:33.6151903+00:00",
-  "LastUpdate_Achievements": "2023-12-20T18:03:49.0432843+00:00"
+  "LastUpdate_Ratings": "2023-12-20T18:57:27.4763458+00:00",
+  "LastUpdate_Achievements": "2023-12-20T19:03:39.6410105+00:00"
 }

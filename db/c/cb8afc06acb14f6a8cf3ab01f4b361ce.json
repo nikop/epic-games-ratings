@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 51,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -437,9 +437,9 @@
       "Count": 71
     }
   ],
-  "EOS_Progressed": 331922,
+  "EOS_Progressed": 331948,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3645,
+  "EOS_NewPlayers": 3651,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10342,6 +10342,11 @@
       "Time": "2023-12-20T18:06:14.4567177+00:00",
       "NumProgressed": 331922,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-20T19:05:51.793841+00:00",
+      "NumProgressed": 331948,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -10370,7 +10375,7 @@
       "Name": "Rumors are true",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 2655
+      "UsersEstimate": 2656
     },
     {
       "ID": "S04_BRDC",
@@ -10378,7 +10383,7 @@
       "Name": "We\u0027ll be careful",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 2323
+      "UsersEstimate": 2324
     },
     {
       "ID": "S05_SWRA",
@@ -10490,7 +10495,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13277
+      "UsersEstimate": 13278
     },
     {
       "ID": "S19_CHALLENGES",
@@ -10546,7 +10551,7 @@
       "Name": "Pride is a sin, young Knight",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 2655
+      "UsersEstimate": 2656
     },
     {
       "ID": "S26_CRTA",
@@ -10578,7 +10583,7 @@
       "Name": "Your wounds\u2026 They are healing so fast!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2987
+      "UsersEstimate": 2988
     },
     {
       "ID": "S30_DIAMOND",
@@ -10673,7 +10678,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 331922,
+      "Progressed": 331948,
       "Completed": 5
     }
   ],
@@ -10681,8 +10686,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-20T17:57:35.3329235+00:00",
-  "LastChanged_Achievements": "2023-12-20T18:06:14.4567173+00:00",
+  "LastChanged_Achievements": "2023-12-20T19:05:51.7938408+00:00",
   "LastUpdate_AppInfo": "2023-12-14T20:57:08.8756847+00:00",
-  "LastUpdate_Ratings": "2023-12-20T17:57:35.3329247+00:00",
-  "LastUpdate_Achievements": "2023-12-20T18:06:14.4567881+00:00"
+  "LastUpdate_Ratings": "2023-12-20T18:57:28.8905744+00:00",
+  "LastUpdate_Achievements": "2023-12-20T19:05:51.7938963+00:00"
 }

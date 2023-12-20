@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Will This Help? | 75.00% | ~205 |
-| Career Woman | 66.00% | ~180 |
+| Career Woman | 67.00% | ~183 |
 | No One Is Safe | 64.00% | ~175 |
-| He's Off His Meds | 54.00% | ~147 |
-| Deal Or No Deal | 48.00% | ~131 |
+| He's Off His Meds | 55.00% | ~150 |
+| Deal Or No Deal | 49.00% | ~134 |
 | Impress Theron | 48.00% | ~131 |
 | Personal Life | 48.00% | ~131 |
 | On Your Bike | 29.00% | ~79 |

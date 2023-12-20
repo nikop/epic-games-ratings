@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 558,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-29T07:30:00+00:00",
     "PcReleaseDate": "2022-12-01T04:00:00+00:00",
@@ -289,9 +289,9 @@
       "ID": "ACH_FIRST_WIN",
       "SetID": "1lnhagg",
       "Name": "The First of Many to Come",
-      "Percentage": 69,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_FIVE_STARS_MANAGER",
@@ -417,9 +417,9 @@
       "ID": "ACH_WELCOME",
       "SetID": "1lnhagg",
       "Name": "Welcome to IBM 23!",
-      "Percentage": 92,
+      "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_WINNER_STREAK",
@@ -472,8 +472,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2023-12-20T18:03:42.7395613+00:00",
+  "LastChanged_Achievements": "2023-12-20T19:03:33.9614399+00:00",
   "LastUpdate_AppInfo": "2023-12-15T02:21:15.0404929+00:00",
-  "LastUpdate_Ratings": "2023-12-20T18:03:06.2578627+00:00",
-  "LastUpdate_Achievements": "2023-12-20T18:03:42.739603+00:00"
+  "LastUpdate_Ratings": "2023-12-20T19:03:00.9264051+00:00",
+  "LastUpdate_Achievements": "2023-12-20T19:03:33.9614584+00:00"
 }

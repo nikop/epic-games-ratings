@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 166,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -18,7 +18,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 718,
+  "EOS_Progressed": 719,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 329,
   "EOS_NewCompleters": 0,
@@ -2513,6 +2513,11 @@
       "Time": "2023-12-20T18:09:30.8239911+00:00",
       "NumProgressed": 718,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-20T19:09:15.5888788+00:00",
+      "NumProgressed": 719,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -2525,7 +2530,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "achievement_10",
@@ -2541,7 +2546,7 @@
       "Name": "Karakuri Isle",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "achievement_12",
@@ -2565,7 +2570,7 @@
       "Name": "Fusion Conjuror",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "achievement_15",
@@ -2573,7 +2578,7 @@
       "Name": "Memory Rouser",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "achievement_16",
@@ -2581,7 +2586,7 @@
       "Name": "Distance Devourer",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "achievement_17",
@@ -2597,7 +2602,7 @@
       "Name": "Man-Machine Master",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "achievement_19",
@@ -2637,7 +2642,7 @@
       "Name": "Kemono Hunter",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "achievement_23",
@@ -2645,15 +2650,15 @@
       "Name": "Relentless Kemono Hunter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "achievement_24",
       "SetID": "2cpn27e",
       "Name": "Single Minded",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 180
+      "UsersEstimate": 187
     },
     {
       "ID": "achievement_25",
@@ -2669,7 +2674,7 @@
       "Name": "Vanquisher of the Volatile",
       "Percentage": 8,
       "XP": 80,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "achievement_27",
@@ -2701,7 +2706,7 @@
       "Name": "Bonds of Enmity",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "achievement_30",
@@ -2747,9 +2752,9 @@
       "ID": "achievement_35",
       "SetID": "2cpn27e",
       "Name": "Unrivaled in Arms",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 115
+      "UsersEstimate": 122
     },
     {
       "ID": "achievement_36",
@@ -2789,7 +2794,7 @@
       "Name": "Axer of Auspice",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "achievement_40",
@@ -2837,7 +2842,7 @@
       "Name": "Helpful Heart",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "achievement_46",
@@ -2877,7 +2882,7 @@
       "Name": "Commencing of Quests",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "achievement_7",
@@ -2908,13 +2913,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 718,
+      "Progressed": 719,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-20T18:09:30.8239909+00:00",
+  "LastChanged_Achievements": "2023-12-20T19:09:15.5888785+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:11.6761115+00:00",
-  "LastUpdate_Ratings": "2023-12-20T18:02:49.2151118+00:00",
-  "LastUpdate_Achievements": "2023-12-20T18:09:30.824026+00:00"
+  "LastUpdate_Ratings": "2023-12-20T19:02:46.0178595+00:00",
+  "LastUpdate_Achievements": "2023-12-20T19:09:15.5889172+00:00"
 }

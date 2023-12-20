@@ -2,13 +2,13 @@
   "ID": "9533b9db84274b15886caa464445a975",
   "Name": "The Crew\u2122 Motorfest Standard Edition",
   "ProductSlug": "the-crew-motorfest",
-  "Ranking_Rating": 321,
+  "Ranking_Rating": 296,
   "Ranking_Popularity": 209,
   "Ranking_PopularitySum": 158,
   "Ranking_EOS_Progress": 811,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 559,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-14T08:00:00+00:00",
     "PcReleaseDate": "2023-09-14T08:00:00+00:00",
@@ -20,7 +20,7 @@
       "isPrepurchase": "true"
     }
   },
-  "Rating": 4.65,
+  "Rating": 4.66,
   "RatingHistory": [
     {
       "Time": "2023-09-15T10:57:58.1384791+00:00",
@@ -3393,10 +3393,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 4012,
       "NumberOfAwardsMax": 560
+    },
+    {
+      "Time": "2023-12-20T19:03:11.3325093+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4014,
+      "NumberOfAwardsMax": 560
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4012,
+  "NumberOfAwards": 4014,
   "NumberOfAwardsMax": 560,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -3422,7 +3428,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 517
+      "Count": 519
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3479,8 +3485,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-14T08:57:08.1529881+00:00",
   "FirstSeenRating": "2023-09-15T10:57:58.1384789+00:00",
-  "LastChanged": "2023-12-20T14:03:21.4393126+00:00",
+  "LastChanged": "2023-12-20T19:03:11.3325091+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:54.5749667+00:00",
-  "LastUpdate_Ratings": "2023-12-20T18:03:18.104236+00:00",
-  "LastUpdate_Achievements": "2023-12-20T18:09:48.1578742+00:00"
+  "LastUpdate_Ratings": "2023-12-20T19:03:11.3325097+00:00",
+  "LastUpdate_Achievements": "2023-12-20T19:09:31.0686273+00:00"
 }

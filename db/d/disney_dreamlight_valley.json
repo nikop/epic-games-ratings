@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 126,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -5341,10 +5341,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 8199,
       "NumberOfAwardsMax": 1144
+    },
+    {
+      "Time": "2023-12-20T18:59:55.7142497+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 8201,
+      "NumberOfAwardsMax": 1144
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8199,
+  "NumberOfAwards": 8201,
   "NumberOfAwardsMax": 1144,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5376,7 +5382,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 766
+      "Count": 767
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5400,7 +5406,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 797
+      "Count": 798
     },
     {
       "Text": "This game has a Creative Community",
@@ -5415,10 +5421,10 @@
       "Count": 540
     }
   ],
-  "EOS_Progressed": 12880,
-  "EOS_Completed": 319,
-  "EOS_NewPlayers": 340,
-  "EOS_NewCompleters": 7,
+  "EOS_Progressed": 12881,
+  "EOS_Completed": 320,
+  "EOS_NewPlayers": 338,
+  "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 2.48,
   "EosHistory": [
     {
@@ -22395,6 +22401,11 @@
       "Time": "2023-12-20T18:09:24.7201127+00:00",
       "NumProgressed": 12880,
       "NumCompleted": 319
+    },
+    {
+      "Time": "2023-12-20T19:09:10.2607087+00:00",
+      "NumProgressed": 12881,
+      "NumCompleted": 320
     }
   ],
   "TotalAchievements": 15,
@@ -22414,7 +22425,7 @@
       "Name": "Banker",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 5023
+      "UsersEstimate": 5024
     },
     {
       "ID": "Bestest_Friend",
@@ -22478,7 +22489,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 69,
       "XP": 75,
-      "UsersEstimate": 8887
+      "UsersEstimate": 8888
     },
     {
       "ID": "Miner",
@@ -22494,7 +22505,7 @@
       "Name": "Photographer",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 8758
+      "UsersEstimate": 8759
     },
     {
       "ID": "Renovator",
@@ -22525,16 +22536,16 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 12880,
-      "Completed": 319
+      "Progressed": 12881,
+      "Completed": 320
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-12-20T14:59:49.2182536+00:00",
-  "LastChanged_Achievements": "2023-12-20T18:09:24.720112+00:00",
+  "LastChanged": "2023-12-20T18:59:55.7142495+00:00",
+  "LastChanged_Achievements": "2023-12-20T19:09:10.2607084+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:26.6445497+00:00",
-  "LastUpdate_Ratings": "2023-12-20T18:00:21.121279+00:00",
-  "LastUpdate_Achievements": "2023-12-20T18:09:24.7201787+00:00"
+  "LastUpdate_Ratings": "2023-12-20T18:59:55.7142502+00:00",
+  "LastUpdate_Achievements": "2023-12-20T19:09:10.2608036+00:00"
 }

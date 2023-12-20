@@ -5,13 +5,13 @@ Rating: 4.79 (Ranked 99)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,749 |
+| For Demacia | 95.00% | ~2,750 |
 | No more cages! | 91.00% | ~2,634 |
-| Everfrost | 78.00% | ~2,257 |
-| Pentakill | 77.00% | ~2,228 |
-| Dark Forest | 77.00% | ~2,228 |
+| Everfrost | 78.00% | ~2,258 |
+| Pentakill | 77.00% | ~2,229 |
+| Dark Forest | 77.00% | ~2,229 |
 | The use of petricite | 74.00% | ~2,142 |
-| You can pet the dog | 61.00% | ~1,765 |
+| You can pet the dog | 61.00% | ~1,766 |
 | Thornbarrow | 41.00% | ~1,187 |
 | Big Helmet Bro | 40.00% | ~1,158 |
 | Clarion Cove | 39.00% | ~1,129 |
@@ -23,9 +23,9 @@ Rating: 4.79 (Ranked 99)
 | Old friend | 31.00% | ~897 |
 | Devineur | 31.00% | ~897 |
 | Hijack | 30.00% | ~868 |
-| Whispers in the Woods I | 27.00% | ~781 |
-| Ancient power | 27.00% | ~781 |
-| I chose my shackles | 26.00% | ~752 |
+| Whispers in the Woods I | 27.00% | ~782 |
+| Ancient power | 27.00% | ~782 |
+| I chose my shackles | 26.00% | ~753 |
 | Sacred Woods | 25.00% | ~724 |
 | Little light | 23.00% | ~666 |
 | Capelworth | 23.00% | ~666 |
@@ -55,11 +55,11 @@ Rating: 4.79 (Ranked 99)
 | Chains master | 11.00% | ~318 |
 | The great mage rebellion starts now | 11.00% | ~318 |
 | You can pet the... horse | 11.00% | ~318 |
-| Spellcrafting | 10.00% | ~289 |
+| Spellcrafting | 10.00% | ~290 |
 | Silverwing nest | 2.00% | ~58 |
 | The Unshackled | 1.00% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,894 (Ranked 219)  
+Progressed: 2,895 (Ranked 219)  
 Completed: 16 (0.55%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 16 (0.55%) (Ranked 207)
 | 2023-12-17 | 2,836 | 16 |
 | 2023-12-18 | 2,862 | 16 |
 | 2023-12-19 | 2,879 | 16 |
-| 2023-12-20 | 2,894 | 16 |
+| 2023-12-20 | 2,895 | 16 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

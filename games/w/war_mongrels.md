@@ -1,31 +1,31 @@
 # War Mongrels
 [Store](https://store.epicgames.com/en-US/p/war-mongrels)  
 [View Rawdata](../../db/w/war_mongrels.json)  
-Rating: 4.37 (Ranked 779)  
+Rating: 4.37 (Ranked 778)  
 Number of Ratings: 34  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 68.00% | ~460 |
-| Cowardice | 61.00% | ~413 |
-| NO LIFE IS WORTH SAVING... | 47.00% | ~318 |
-| Eat Lead! | 46.00% | ~311 |
+| Explorer | 68.00% | ~461 |
+| Cowardice | 61.00% | ~414 |
+| NO LIFE IS WORTH SAVING... | 47.00% | ~319 |
+| Eat Lead! | 46.00% | ~312 |
 | The Breaking Point | 44.00% | ~298 |
-| Here Comes the Boom | 43.00% | ~291 |
+| Here Comes the Boom | 43.00% | ~292 |
 | Prospector | 41.00% | ~278 |
 | Sniper Wolf | 40.00% | ~271 |
-| Treasure Hunter | 38.00% | ~257 |
-| The Motivation | 38.00% | ~257 |
+| Treasure Hunter | 38.00% | ~258 |
+| The Motivation | 38.00% | ~258 |
 | Heroism | 36.00% | ~244 |
 | Missing in Action | 35.00% | ~237 |
-| Collectibles of Chapter I | 34.00% | ~230 |
-| King of Knives | 33.00% | ~223 |
+| Collectibles of Chapter I | 34.00% | ~231 |
+| King of Knives | 33.00% | ~224 |
 | Consequences | 32.00% | ~217 |
 | Opportunities | 31.00% | ~210 |
-| The Horror | 29.00% | ~196 |
+| The Horror | 29.00% | ~197 |
 | The Difference | 27.00% | ~183 |
 | Vengeance | 26.00% | ~176 |
-| It's Just an Accident | 25.00% | ~169 |
+| It's Just an Accident | 24.00% | ~163 |
 | Collectibles of Chapter II | 23.00% | ~156 |
 | Broken Hopes | 23.00% | ~156 |
 | Bullseye! | 23.00% | ~156 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.10% | ~1 |
 | Challenges of Chapter XII | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 677 (Ranked 303)  
+Progressed: 678 (Ranked 303)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-17 | 673 | 0 |
 | 2023-12-18 | 675 | 0 |
 | 2023-12-19 | 676 | 0 |
-| 2023-12-20 | 677 | 0 |
+| 2023-12-20 | 678 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

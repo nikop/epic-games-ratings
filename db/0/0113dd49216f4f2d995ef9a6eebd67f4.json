@@ -2,10 +2,10 @@
   "ID": "0113dd49216f4f2d995ef9a6eebd67f4",
   "Name": "Stray Gods: The Roleplaying Musical",
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
-  "Ranking_EOS_Progress": 430,
+  "Ranking_EOS_Progress": 426,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 291,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 139,
+  "EOS_Progressed": 141,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -644,6 +644,11 @@
       "Time": "2023-12-20T14:09:00.6924444+00:00",
       "NumProgressed": 139,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T19:08:53.0983596+00:00",
+      "NumProgressed": 141,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -680,7 +685,7 @@
       "Name": "All The Help You Need",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "SG_ARROWOFEROSUNDONE",
@@ -726,7 +731,7 @@
       "ID": "SG_ENDOFTHEROAD",
       "SetID": "bj5g0n4",
       "Name": "End Of The Road",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 15,
       "UsersEstimate": 106
     },
@@ -758,9 +763,9 @@
       "ID": "SG_HEARTBREAKER",
       "SetID": "bj5g0n4",
       "Name": "Heartbreaker",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 23
     },
     {
       "ID": "SG_LIKEHEROESBEFOREYOU",
@@ -774,9 +779,9 @@
       "ID": "SG_LOSTINASONG",
       "SetID": "bj5g0n4",
       "Name": "Lost In A Song",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "SG_MAESTRO",
@@ -790,9 +795,9 @@
       "ID": "SG_MEANTTOBE",
       "SetID": "bj5g0n4",
       "Name": "Meant To Be",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 30
     },
     {
       "ID": "SG_MYTIMETOSHINE",
@@ -806,9 +811,9 @@
       "ID": "SG_NOTALOSTGIRL",
       "SetID": "bj5g0n4",
       "Name": "Not A Lost Girl",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 63
     },
     {
       "ID": "SG_NOTTAKINGANYCHANCES",
@@ -824,7 +829,7 @@
       "Name": "Queen Without A Throne",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "SG_SAYINGGOODBYE",
@@ -872,7 +877,7 @@
       "Name": "The Choice Is Yours",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "SG_THEDEEPEND",
@@ -880,7 +885,7 @@
       "Name": "The Deep End",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "SG_THEHIGHROAD",
@@ -904,7 +909,7 @@
       "Name": "The Muse\u2019s Encore",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "SG_THEQUEENOFTHEDEAD",
@@ -951,14 +956,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 139,
+      "Progressed": 141,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-12-20T18:09:06.9214572+00:00",
+  "LastChanged_Achievements": "2023-12-20T19:08:53.0983592+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:06.0565697+00:00",
-  "LastUpdate_Ratings": "2023-12-20T18:00:42.815371+00:00",
-  "LastUpdate_Achievements": "2023-12-20T18:09:06.9214782+00:00"
+  "LastUpdate_Ratings": "2023-12-20T19:00:14.4357386+00:00",
+  "LastUpdate_Achievements": "2023-12-20T19:08:53.0983841+00:00"
 }

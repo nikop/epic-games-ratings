@@ -4,8 +4,8 @@
   "ProductSlug": "night-book-77f2c7",
   "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
     "PcReleaseDate": "2021-07-27T17:00:00+00:00",
@@ -548,17 +548,17 @@
       "ID": "career_woman",
       "SetID": "a3kkelb",
       "Name": "Career Woman",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 183
     },
     {
       "ID": "deal_or_no_deal",
       "SetID": "a3kkelb",
       "Name": "Deal Or No Deal",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 131
+      "UsersEstimate": 134
     },
     {
       "ID": "hopeful",
@@ -604,9 +604,9 @@
       "ID": "off_his_meds",
       "SetID": "a3kkelb",
       "Name": "He\u0027s Off His Meds",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 150
     },
     {
       "ID": "on_your_bike",
@@ -685,8 +685,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-12-20T18:03:58.8084565+00:00",
+  "LastChanged_Achievements": "2023-12-20T19:03:49.4348274+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:56:54.4004321+00:00",
-  "LastUpdate_Ratings": "2023-12-20T18:00:15.6476073+00:00",
-  "LastUpdate_Achievements": "2023-12-20T18:03:58.8084705+00:00"
+  "LastUpdate_Ratings": "2023-12-20T18:59:51.0683851+00:00",
+  "LastUpdate_Achievements": "2023-12-20T19:03:49.4348358+00:00"
 }

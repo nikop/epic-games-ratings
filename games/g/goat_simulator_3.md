@@ -5,47 +5,47 @@ Rating: 4.83 (Ranked 61)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~235,096 |
-| Private Club | 73.00% | ~188,593 |
-| Rogue Guild | 65.00% | ~167,926 |
-| I Watched the Intro | 57.00% | ~147,258 |
-| Covert Consortium | 55.00% | ~142,091 |
-| Goat Queen | 53.00% | ~136,924 |
-| Reach the Stratosphere | 50.00% | ~129,174 |
-| Synchronization Complete | 47.00% | ~121,423 |
-| Secret Society | 45.00% | ~116,256 |
-| Shadow Syndicate | 37.00% | ~95,588 |
-| What a Waste of Money | 33.00% | ~85,255 |
-| New Goat Order | 30.00% | ~77,504 |
-| Don't touch the servers | 28.00% | ~72,337 |
-| Real Buoy | 27.00% | ~69,754 |
-| San Angora: Become Human | 26.00% | ~67,170 |
-| Raider of the Lost Parking Garage | 26.00% | ~67,170 |
-| Welcome to Earth | 25.00% | ~64,587 |
-| Egg Simulator | 19.00% | ~49,086 |
-| Into the Matrix | 19.00% | ~49,086 |
-| Where is It? | 17.00% | ~43,919 |
-| Beauty, Mindfulness and Meditation | 15.00% | ~38,752 |
-| 401(K.O.) | 15.00% | ~38,752 |
-| Black Market | 14.00% | ~36,169 |
-| Car Cave | 12.00% | ~31,002 |
+| Forgotten Sorority | 91.00% | ~235,103 |
+| Private Club | 73.00% | ~188,599 |
+| Rogue Guild | 65.00% | ~167,931 |
+| I Watched the Intro | 57.00% | ~147,262 |
+| Covert Consortium | 55.00% | ~142,095 |
+| Goat Queen | 53.00% | ~136,928 |
+| Reach the Stratosphere | 50.00% | ~129,178 |
+| Synchronization Complete | 47.00% | ~121,427 |
+| Secret Society | 45.00% | ~116,260 |
+| Shadow Syndicate | 37.00% | ~95,591 |
+| What a Waste of Money | 33.00% | ~85,257 |
+| New Goat Order | 30.00% | ~77,506 |
+| Don't touch the servers | 28.00% | ~72,339 |
+| Real Buoy | 27.00% | ~69,756 |
+| San Angora: Become Human | 26.00% | ~67,172 |
+| Raider of the Lost Parking Garage | 26.00% | ~67,172 |
+| Welcome to Earth | 25.00% | ~64,589 |
+| Egg Simulator | 19.00% | ~49,087 |
+| Into the Matrix | 19.00% | ~49,087 |
+| Where is It? | 17.00% | ~43,920 |
+| Beauty, Mindfulness and Meditation | 15.00% | ~38,753 |
+| 401(K.O.) | 15.00% | ~38,753 |
+| Black Market | 14.00% | ~36,170 |
+| Car Cave | 12.00% | ~31,003 |
 | Club Mohair | 8.00% | ~20,668 |
 | A Center for Ants? | 8.00% | ~20,668 |
-| French Fika | 7.00% | ~18,084 |
-| Nasty! | 5.00% | ~12,917 |
+| French Fika | 7.00% | ~18,085 |
+| Nasty! | 5.00% | ~12,918 |
 | Who Baywatches the Baywatch? | 4.00% | ~10,334 |
 | [REDACTED] | 4.00% | ~10,334 |
 | Cannibanana | 2.00% | ~5,167 |
 | Daredevil | 2.00% | ~5,167 |
-| Crocsquatch | 1.00% | ~2,583 |
-| You Trusted Your Instincts | 1.00% | ~2,583 |
-| Certified Fresh | 1.00% | ~2,583 |
-| Streaking | 1.00% | ~2,583 |
-| Try Hard 2 | 1.00% | ~2,583 |
+| Crocsquatch | 1.00% | ~2,584 |
+| You Trusted Your Instincts | 1.00% | ~2,584 |
+| Certified Fresh | 1.00% | ~2,584 |
+| Streaking | 1.00% | ~2,584 |
+| Try Hard 2 | 1.00% | ~2,584 |
 | Move! That! Bus! | 0.60% | ~1,550 |
 | G.O.A.T | 0.40% | ~1,033 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 258,347 (Ranked 60)  
+Progressed: 258,355 (Ranked 60)  
 Completed: 914 (0.35%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,10 +289,10 @@ Completed: 914 (0.35%) (Ranked 238)
 | 2023-12-17 | 257,294 | 910 |
 | 2023-12-18 | 257,715 | 911 |
 | 2023-12-19 | 258,066 | 912 |
-| 2023-12-20 | 258,347 | 914 |
+| 2023-12-20 | 258,355 | 914 |
 ## Awards
 Max (Great for Beginners): 508  (Ranked 215)  
-Sum: 4,142 (Ranked 155)  
+Sum: 4,145 (Ranked 155)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
@@ -302,10 +302,10 @@ Diff (max vs sum): 60
 | This game has Amazing Characters | 413 |
 | This game is Extremely Fun | 403 |
 | This game has Amazing Storytelling | 393 |
+| This game has Quickly Understood Controls | 384 |
 | This game has a Silly Community | 384 |
 | This game is Relaxing | 383 |
-| This game has Quickly Understood Controls | 383 |
-| This game has Easy Combat | 361 |
+| This game has Easy Combat | 363 |
 | This game is Educational | 263 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -577,4 +577,4 @@ Diff (max vs sum): 60
 | 2023-12-17 | 4.84 | 503 | 4,124 |
 | 2023-12-18 | 4.83 | 506 | 4,127 |
 | 2023-12-19 | 4.83 | 508 | 4,140 |
-| 2023-12-20 | 4.83 | 508 | 4,142 |
+| 2023-12-20 | 4.83 | 508 | 4,145 |

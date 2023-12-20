@@ -3,7 +3,7 @@
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 301,
-  "Ranking_EOS_Completed": 153,
+  "Ranking_EOS_Completed": 155,
   "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 694,
+  "EOS_Progressed": 695,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.3,
+  "EOS_Completed_Percentage": 1.29,
   "EosHistory": [
     {
       "Time": "2023-09-22T21:07:10.6425492+00:00",
@@ -2375,6 +2375,11 @@
       "Time": "2023-12-20T18:08:55.258316+00:00",
       "NumProgressed": 694,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-20T19:08:43.0259779+00:00",
+      "NumProgressed": 695,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -2481,23 +2486,23 @@
       "ID": "ACH_xatrix",
       "SetID": "51of0eo",
       "Name": "Destroy the Moon Base",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 120,
-      "UsersEstimate": 62
+      "UsersEstimate": 56
     }
   ],
   "AchievementSets": [
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 694,
+      "Progressed": 695,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-20T18:08:55.2583154+00:00",
+  "LastChanged_Achievements": "2023-12-20T19:08:43.0259774+00:00",
   "LastUpdate_AppInfo": "2023-12-15T04:56:57.6157011+00:00",
-  "LastUpdate_Ratings": "2023-12-20T18:00:23.4570716+00:00",
-  "LastUpdate_Achievements": "2023-12-20T18:08:55.2583356+00:00"
+  "LastUpdate_Ratings": "2023-12-20T18:59:57.7382468+00:00",
+  "LastUpdate_Achievements": "2023-12-20T19:08:43.0259929+00:00"
 }

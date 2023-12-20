@@ -6,8 +6,8 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Tutti Eroi! | 51.00% | ~4,854 |
 | You Shall Not Pass | 51.00% | ~4,854 |
-| Tutti Eroi! | 50.00% | ~4,759 |
 | Peak Performance | 46.00% | ~4,378 |
 | Avanti Savoia! | 44.00% | ~4,188 |
 | Mamma Mia! | 35.00% | ~3,331 |
@@ -24,9 +24,9 @@ Number of Ratings: 98  (23.09.2022)
 | Luigi Cadorna | 16.00% | ~1,523 |
 | The Lion of the Isonzo | 14.00% | ~1,333 |
 | Uomo Universale | 13.00% | ~1,237 |
+| Die Bosniaken Kommen! | 12.00% | ~1,142 |
 | Dirty Dozen | 12.00% | ~1,142 |
 | Shaken, Not Stirred | 12.00% | ~1,142 |
-| Die Bosniaken Kommen! | 11.00% | ~1,047 |
 | Machiavelli | 11.00% | ~1,047 |
 | The Devil's Paintbrush | 10.00% | ~952 |
 | Thus With A Kiss | 10.00% | ~952 |

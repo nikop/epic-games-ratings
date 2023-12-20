@@ -67,7 +67,7 @@
 | I Don't Need Any Help | 8.00% | ~48 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 594 (Ranked 317)  
-Completed: 19 (3.20%) (Ranked 107)  
+Completed: 20 (3.37%) (Ranked 104)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -111,4 +111,4 @@ Completed: 19 (3.20%) (Ranked 107)
 | 2023-12-17 | 586 | 17 |
 | 2023-12-18 | 589 | 19 |
 | 2023-12-19 | 592 | 19 |
-| 2023-12-20 | 594 | 19 |
+| 2023-12-20 | 594 | 20 |

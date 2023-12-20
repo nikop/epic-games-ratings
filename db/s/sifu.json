@@ -8367,9 +8367,9 @@
       "Count": 434
     }
   ],
-  "EOS_Progressed": 737473,
+  "EOS_Progressed": 737504,
   "EOS_Completed": 12958,
-  "EOS_NewPlayers": 19454,
+  "EOS_NewPlayers": 19462,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.76,
   "EosHistory": [
@@ -30172,6 +30172,11 @@
       "Time": "2023-12-20T18:09:11.5531417+00:00",
       "NumProgressed": 737473,
       "NumCompleted": 12958
+    },
+    {
+      "Time": "2023-12-20T19:08:57.9670972+00:00",
+      "NumProgressed": 737504,
+      "NumCompleted": 12958
     }
   ],
   "TotalAchievements": 60,
@@ -30183,7 +30188,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22124
+      "UsersEstimate": 22125
     },
     {
       "ID": "02_Vengeance_H1",
@@ -30191,7 +30196,7 @@
       "Name": "The Assault",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14749
+      "UsersEstimate": 14750
     },
     {
       "ID": "03_Vengeance_H2",
@@ -30199,7 +30204,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14749
+      "UsersEstimate": 14750
     },
     {
       "ID": "04_Vengeance_H3",
@@ -30223,7 +30228,7 @@
       "Name": "Furious Fists",
       "Percentage": 0.9,
       "XP": 75,
-      "UsersEstimate": 6637
+      "UsersEstimate": 6638
     },
     {
       "ID": "07_Wude_H1",
@@ -30255,7 +30260,7 @@
       "Name": "Iron Money",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 2212
+      "UsersEstimate": 2213
     },
     {
       "ID": "11_Wude_H5",
@@ -30263,7 +30268,7 @@
       "Name": "Legendary Talismans of Wuxing",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 2212
+      "UsersEstimate": 2213
     },
     {
       "ID": "12_MidAge",
@@ -30271,7 +30276,7 @@
       "Name": "Scareless",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5162
+      "UsersEstimate": 5163
     },
     {
       "ID": "13_LowAge",
@@ -30279,7 +30284,7 @@
       "Name": "Prodigal Child",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 2212
+      "UsersEstimate": 2213
     },
     {
       "ID": "14_DeathlessBoss_Trophy",
@@ -30327,7 +30332,7 @@
       "Name": "Healing Memory",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "20_Traversal_Trophy",
@@ -30359,7 +30364,7 @@
       "Name": "Life is your teacher",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22124
+      "UsersEstimate": 22125
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -30399,7 +30404,7 @@
       "Name": "The 36th Chamber of Kung-Fu",
       "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 2212
+      "UsersEstimate": 2213
     },
     {
       "ID": "29_FocusAttack_Trophy",
@@ -30407,7 +30412,7 @@
       "Name": "Master of the Phoenix Eye Fist",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "30_ComboMid",
@@ -30415,7 +30420,7 @@
       "Name": "I know Kung-Fu",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6637
+      "UsersEstimate": 6638
     },
     {
       "ID": "31_ComboHigh",
@@ -30439,7 +30444,7 @@
       "Name": "Sword Stained With Blood",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2212
+      "UsersEstimate": 2213
     },
     {
       "ID": "34_TimedTakedown",
@@ -30447,7 +30452,7 @@
       "Name": "Lightning Hands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14749
+      "UsersEstimate": 14750
     },
     {
       "ID": "35_WideStrike",
@@ -30455,7 +30460,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5162
+      "UsersEstimate": 5163
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -30495,7 +30500,7 @@
       "Name": "Take damage to save time",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6637
+      "UsersEstimate": 6638
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -30503,7 +30508,7 @@
       "Name": "Warriors from the Mountain",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "42_PhotoMode_Trophy",
@@ -30647,7 +30652,7 @@
       "Name": "Fight the way you practice",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "60_Arena_Randomizer",
@@ -30662,21 +30667,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 46774,
+      "Progressed": 46805,
       "Completed": 10777
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 737473,
+      "Progressed": 737504,
       "Completed": 12958
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-20T14:03:14.9334543+00:00",
-  "LastChanged_Achievements": "2023-12-20T18:09:11.5531412+00:00",
+  "LastChanged_Achievements": "2023-12-20T19:08:57.9670971+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:50.1499922+00:00",
-  "LastUpdate_Ratings": "2023-12-20T18:03:10.6962031+00:00",
-  "LastUpdate_Achievements": "2023-12-20T18:09:11.5532663+00:00"
+  "LastUpdate_Ratings": "2023-12-20T19:03:04.7748785+00:00",
+  "LastUpdate_Achievements": "2023-12-20T19:08:57.9672208+00:00"
 }

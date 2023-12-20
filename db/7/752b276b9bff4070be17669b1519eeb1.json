@@ -2,13 +2,13 @@
   "ID": "752b276b9bff4070be17669b1519eeb1",
   "Name": "Snowbreak Containment Zone",
   "ProductSlug": "snowbreak-containment-zone-abc820",
-  "Ranking_Rating": 770,
-  "Ranking_Popularity": 354,
-  "Ranking_PopularitySum": 302,
+  "Ranking_Rating": 778,
+  "Ranking_Popularity": 355,
+  "Ranking_PopularitySum": 301,
   "Ranking_EOS_Progress": 811,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 559,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-07-20T02:00:00+00:00",
     "PcReleaseDate": "2023-07-20T02:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.38,
+  "Rating": 4.37,
   "RatingHistory": [
     {
       "Time": "2023-07-29T23:57:57.562026+00:00",
@@ -2075,10 +2075,16 @@
       "Rating": 4.38,
       "NumberOfAwards": 702,
       "NumberOfAwardsMax": 111
+    },
+    {
+      "Time": "2023-12-20T18:57:18.5457892+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 705,
+      "NumberOfAwardsMax": 111
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 702,
+  "NumberOfAwards": 705,
   "NumberOfAwardsMax": 111,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2122,7 +2128,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 80
+      "Count": 83
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2155,8 +2161,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-25T06:57:36.7654235+00:00",
   "FirstSeenRating": "2023-07-29T23:57:57.5620258+00:00",
-  "LastChanged": "2023-12-20T07:02:36.6545323+00:00",
+  "LastChanged": "2023-12-20T18:57:18.545789+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:07.0604871+00:00",
-  "LastUpdate_Ratings": "2023-12-20T17:57:23.5135722+00:00",
-  "LastUpdate_Achievements": "2023-12-20T18:08:20.295218+00:00"
+  "LastUpdate_Ratings": "2023-12-20T18:57:18.5457895+00:00",
+  "LastUpdate_Achievements": "2023-12-20T19:06:42.5520758+00:00"
 }

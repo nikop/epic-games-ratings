@@ -6,23 +6,23 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,504 |
-| Gun Fu | 8.00% | ~78,336 |
-| The Fool | 7.00% | ~68,544 |
-| Right Back At Ya | 6.00% | ~58,752 |
-| Full Body Conversion | 5.00% | ~48,960 |
-| The Lovers | 5.00% | ~48,960 |
-| Stanislavski's Method | 4.00% | ~39,168 |
-| The Hermit | 4.00% | ~39,168 |
-| The Wheel of Fortune | 4.00% | ~39,168 |
-| True Soldier | 4.00% | ~39,168 |
-| All the President's Men | 4.00% | ~4,313 |
-| Arachnophobia | 4.00% | ~4,313 |
-| Christmas Tree Attack | 3.00% | ~29,376 |
-| Life of the Road | 3.00% | ~29,376 |
-| The High Priestess | 3.00% | ~29,376 |
-| True Warrior | 3.00% | ~29,376 |
-| Legend of The Afterlife | 3.00% | ~29,376 |
+| V for Vendetta | 12.00% | ~117,506 |
+| Gun Fu | 8.00% | ~78,337 |
+| The Fool | 7.00% | ~68,545 |
+| Right Back At Ya | 6.00% | ~58,753 |
+| Full Body Conversion | 5.00% | ~48,961 |
+| The Lovers | 5.00% | ~48,961 |
+| Stanislavski's Method | 4.00% | ~39,169 |
+| The Hermit | 4.00% | ~39,169 |
+| The Wheel of Fortune | 4.00% | ~39,169 |
+| True Soldier | 4.00% | ~39,169 |
+| All the President's Men | 4.00% | ~4,314 |
+| Arachnophobia | 4.00% | ~4,314 |
+| Christmas Tree Attack | 3.00% | ~29,377 |
+| Life of the Road | 3.00% | ~29,377 |
+| The High Priestess | 3.00% | ~29,377 |
+| True Warrior | 3.00% | ~29,377 |
+| Legend of The Afterlife | 3.00% | ~29,377 |
 | Relic Ruler | 3.00% | ~3,235 |
 | Bushido and Chill | 2.00% | ~19,584 |
 | To Protect and Serve | 2.00% | ~19,584 |
@@ -41,7 +41,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | To Bad Decisions! | 0.90% | ~8,813 |
 | Ten out of Ten | 0.90% | ~8,813 |
 | The Star | 0.80% | ~7,834 |
-| Breathtaking | 0.70% | ~6,854 |
+| Breathtaking | 0.70% | ~6,855 |
 | Autojock | 0.60% | ~5,875 |
 | The APB is Not Enough | 0.60% | ~647 |
 | Judgement Day | 0.60% | ~647 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Temperance | 0.50% | ~4,896 |
 | King of Pentacles | 0.50% | ~539 |
 | City Lights | 0.30% | ~2,938 |
-| King of Cups | 0.30% | ~323 |
+| King of Cups | 0.30% | ~324 |
 | Gunslinger | 0.20% | ~1,958 |
 | Mean Streets | 0.20% | ~1,958 |
 | Little Tokyo | 0.20% | ~1,958 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 979,204 (Ranked 16)  
+Progressed: 979,218 (Ranked 16)  
 Completed: 2,948 (0.30%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,21 +318,21 @@ Completed: 2,948 (0.30%) (Ranked 249)
 | 2023-12-17 | 978,015 | 2,930 |
 | 2023-12-18 | 978,465 | 2,935 |
 | 2023-12-19 | 978,882 | 2,944 |
-| 2023-12-20 | 979,204 | 2,948 |
+| 2023-12-20 | 979,218 | 2,948 |
 ## Awards
-Max (Character Customization): 125,194  (Ranked 8)  
-Sum: 432,671 (Ranked 9)  
+Max (Character Customization): 125,560  (Ranked 8)  
+Sum: 433,190 (Ranked 9)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 125,194 |
+| This game has Inclusive Character Customization | 125,560 |
 | This game has Great Boss Battles | 92,276 |
 | This game is Great for Beginners | 26,977 |
 | This game has Diverse Characters | 26,313 |
 | This game is Highly Recommended | 25,193 |
 | This game has Amazing Storytelling | 24,750 |
 | This game is Extremely Fun | 24,440 |
-| This game has Amazing Characters | 24,237 |
+| This game has Amazing Characters | 24,390 |
 | This game has Quickly Understood Controls | 23,478 |
 | This game is Relaxing | 23,474 |
 | This game has a Creative Community | 16,339 |
@@ -674,4 +674,4 @@ Diff (max vs sum): -1
 | 2023-12-17 | 4.66 | - | 124,505 | 427,247 |
 | 2023-12-18 | 4.66 | - | 124,846 | 429,269 |
 | 2023-12-19 | 4.66 | - | 125,194 | 431,324 |
-| 2023-12-20 | 4.66 | - | 125,194 | 432,671 |
+| 2023-12-20 | 4.66 | - | 125,560 | 433,190 |

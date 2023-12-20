@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -222,9 +222,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 1059,
+  "EOS_Progressed": 1061,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2757,6 +2757,11 @@
       "Time": "2023-12-20T16:04:53.5580495+00:00",
       "NumProgressed": 1059,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T19:05:14.9445414+00:00",
+      "NumProgressed": 1061,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2809,7 +2814,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "BreakTheLoop",
@@ -2825,7 +2830,7 @@
       "Name": "Bridge Builder",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "ChasingTheLight",
@@ -2873,7 +2878,7 @@
       "Name": "Eastern Wetlands",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "EcstaticTruth",
@@ -2993,7 +2998,7 @@
       "Name": "Museum Visitor",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "NewBeginning",
@@ -3023,9 +3028,9 @@
       "ID": "Overload",
       "SetID": "1n308hc",
       "Name": "Overload",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 254
+      "UsersEstimate": 244
     },
     {
       "ID": "Persistent",
@@ -3047,9 +3052,9 @@
       "ID": "PuzzleFiend",
       "SetID": "1n308hc",
       "Name": "Puzzle Fiend",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 138
     },
     {
       "ID": "RemnantsOfThePast",
@@ -3129,7 +3134,7 @@
       "Name": "The All-Gifted",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "TheEdgeOfForever",
@@ -3161,7 +3166,7 @@
       "Name": "The Spark",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "TheThiefOfFire",
@@ -3209,7 +3214,7 @@
       "Name": "Wanderers",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "WesternDelta",
@@ -3240,7 +3245,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1059,
+      "Progressed": 1061,
       "Completed": 1
     }
   ],
@@ -3248,8 +3253,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-20T18:05:33.71788+00:00",
+  "LastChanged_Achievements": "2023-12-20T19:05:14.944541+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-20T18:00:11.0035431+00:00",
-  "LastUpdate_Achievements": "2023-12-20T18:05:33.7179259+00:00"
+  "LastUpdate_Ratings": "2023-12-20T18:59:47.0749695+00:00",
+  "LastUpdate_Achievements": "2023-12-20T19:05:14.9445929+00:00"
 }

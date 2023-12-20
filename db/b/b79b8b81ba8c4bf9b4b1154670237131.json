@@ -143,9 +143,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15516,
+  "EOS_Progressed": 15517,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 448,
+  "EOS_NewPlayers": 444,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4243,6 +4243,11 @@
       "Time": "2023-12-20T18:09:43.3247395+00:00",
       "NumProgressed": 15516,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-20T19:09:27.0575018+00:00",
+      "NumProgressed": 15517,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -4263,7 +4268,7 @@
       "Name": "Together We Fight",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1396
+      "UsersEstimate": 1397
     },
     {
       "ID": "ACH_AE_11",
@@ -4287,7 +4292,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 11637
+      "UsersEstimate": 11638
     },
     {
       "ID": "ACH_AE_14",
@@ -4335,7 +4340,7 @@
       "Name": "Signature Style",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2327
+      "UsersEstimate": 2328
     },
     {
       "ID": "ACH_AE_2",
@@ -4423,7 +4428,7 @@
       "Name": "Swiped Right",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "ACH_AE_3",
@@ -4534,7 +4539,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 15516,
+      "Progressed": 15517,
       "Completed": 14
     }
   ],
@@ -4542,8 +4547,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-13T16:00:23.030195+00:00",
-  "LastChanged_Achievements": "2023-12-20T18:09:43.3247391+00:00",
+  "LastChanged_Achievements": "2023-12-20T19:09:27.0575016+00:00",
   "LastUpdate_AppInfo": "2023-12-19T17:57:04.7850695+00:00",
-  "LastUpdate_Ratings": "2023-12-20T17:59:51.9965696+00:00",
-  "LastUpdate_Achievements": "2023-12-20T18:09:43.3247909+00:00"
+  "LastUpdate_Ratings": "2023-12-20T18:59:30.5127807+00:00",
+  "LastUpdate_Achievements": "2023-12-20T19:09:27.0575393+00:00"
 }

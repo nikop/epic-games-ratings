@@ -5,43 +5,43 @@ Rating: 4.28 (Ranked 870)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~164,453 |
-| Copacetic Coordination | 16.00% | ~57,201 |
-| Fronting the Money | 15.00% | ~53,626 |
-| The Dawn of Automation | 14.00% | ~50,051 |
-| Extraordinary Logistics | 14.00% | ~50,051 |
-| Dirty Money | 13.00% | ~46,476 |
-| Family First | 13.00% | ~46,476 |
-| Cleaning House | 12.00% | ~42,901 |
-| Room in the Back | 12.00% | ~42,901 |
-| Beating the Heat | 11.00% | ~39,326 |
-| Booze Baron | 11.00% | ~39,326 |
-| Friends on the Force | 10.00% | ~35,751 |
-| Neighborhood Watch | 10.00% | ~35,751 |
-| Core Corps | 8.00% | ~28,600 |
-| Sizeable Stash | 8.00% | ~28,600 |
-| Street Fighter | 7.00% | ~25,025 |
-| Friendly Gestures | 7.00% | ~25,025 |
-| People Person | 7.00% | ~25,025 |
-| Liquor Lord | 6.00% | ~21,450 |
-| Safety in Numbers | 6.00% | ~21,450 |
-| Moving Experiences | 6.00% | ~21,450 |
-| Wise Head | 6.00% | ~21,450 |
-| Show ‘em the Sugar | 6.00% | ~21,450 |
-| Killing Them Softly | 6.00% | ~21,450 |
-| Street Knowledge | 5.00% | ~17,875 |
-| Oh Captain | 5.00% | ~17,875 |
-| Branching Out | 5.00% | ~17,875 |
-| Improvement Missions | 5.00% | ~17,875 |
-| Opportunity Knocked | 5.00% | ~17,875 |
-| City of Big Shoulders | 5.00% | ~17,875 |
-| Mission Mastery | 5.00% | ~17,875 |
-| Considerable Clams | 4.00% | ~14,300 |
-| Gin Joint | 4.00% | ~14,300 |
-| An Affront to the Enemy | 4.00% | ~14,300 |
-| Friends from Back Home | 4.00% | ~14,300 |
-| Bees Knees Bootlegger | 4.00% | ~14,300 |
-| Half Century Mark | 4.00% | ~14,300 |
+| Corner Clout | 46.00% | ~164,457 |
+| Copacetic Coordination | 16.00% | ~57,203 |
+| Fronting the Money | 15.00% | ~53,627 |
+| The Dawn of Automation | 14.00% | ~50,052 |
+| Extraordinary Logistics | 14.00% | ~50,052 |
+| Dirty Money | 13.00% | ~46,477 |
+| Family First | 13.00% | ~46,477 |
+| Cleaning House | 12.00% | ~42,902 |
+| Room in the Back | 12.00% | ~42,902 |
+| Beating the Heat | 11.00% | ~39,327 |
+| Booze Baron | 11.00% | ~39,327 |
+| Friends on the Force | 10.00% | ~35,752 |
+| Neighborhood Watch | 10.00% | ~35,752 |
+| Core Corps | 8.00% | ~28,601 |
+| Sizeable Stash | 8.00% | ~28,601 |
+| Street Fighter | 7.00% | ~25,026 |
+| Friendly Gestures | 7.00% | ~25,026 |
+| People Person | 7.00% | ~25,026 |
+| Liquor Lord | 6.00% | ~21,451 |
+| Safety in Numbers | 6.00% | ~21,451 |
+| Moving Experiences | 6.00% | ~21,451 |
+| Wise Head | 6.00% | ~21,451 |
+| Show ‘em the Sugar | 6.00% | ~21,451 |
+| Killing Them Softly | 6.00% | ~21,451 |
+| Street Knowledge | 5.00% | ~17,876 |
+| Oh Captain | 5.00% | ~17,876 |
+| Branching Out | 5.00% | ~17,876 |
+| Improvement Missions | 5.00% | ~17,876 |
+| Opportunity Knocked | 5.00% | ~17,876 |
+| City of Big Shoulders | 5.00% | ~17,876 |
+| Mission Mastery | 5.00% | ~17,876 |
+| Considerable Clams | 4.00% | ~14,301 |
+| Gin Joint | 4.00% | ~14,301 |
+| An Affront to the Enemy | 4.00% | ~14,301 |
+| Friends from Back Home | 4.00% | ~14,301 |
+| Bees Knees Bootlegger | 4.00% | ~14,301 |
+| Half Century Mark | 4.00% | ~14,301 |
 | Corner Opportunities | 3.00% | ~10,725 |
 | 2122 North Clark Street | 3.00% | ~10,725 |
 | Copious Cabbage | 3.00% | ~10,725 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 870)
 | High Pillow | 0.10% | ~358 |
 | Station Master | 0.10% | ~358 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 357,506 (Ranked 49)  
+Progressed: 357,516 (Ranked 49)  
 Completed: 7 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 7 (0.00%) (Ranked 384)
 | 2023-12-17 | 357,141 | 7 |
 | 2023-12-18 | 357,291 | 7 |
 | 2023-12-19 | 357,404 | 7 |
-| 2023-12-20 | 357,506 | 7 |
+| 2023-12-20 | 357,516 | 7 |
 ## Awards
 Max (Great for Beginners): 55  (Ranked 431)  
 Sum: 257 (Ranked 388)  

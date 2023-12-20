@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 828,
+  "EOS_Progressed": 829,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 274,
+  "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2225,6 +2225,11 @@
       "Time": "2023-12-20T18:09:49.403182+00:00",
       "NumProgressed": 828,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T19:09:32.2786517+00:00",
+      "NumProgressed": 829,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -2301,7 +2306,7 @@
       "Name": "The Alliance",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "AchvDoom",
@@ -2333,7 +2338,7 @@
       "Name": "Krauta is alive",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "AchvLava",
@@ -2413,7 +2418,7 @@
       "Name": "The Camp",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "AchvReachCity",
@@ -2468,14 +2473,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 828,
+      "Progressed": 829,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-20T18:09:49.4031816+00:00",
+  "LastChanged_Achievements": "2023-12-20T19:09:32.2786513+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.232501+00:00",
-  "LastUpdate_Ratings": "2023-12-20T17:59:00.1777697+00:00",
-  "LastUpdate_Achievements": "2023-12-20T18:09:49.4032323+00:00"
+  "LastUpdate_Ratings": "2023-12-20T18:58:44.8746197+00:00",
+  "LastUpdate_Achievements": "2023-12-20T19:09:32.2786741+00:00"
 }

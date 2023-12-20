@@ -21,7 +21,7 @@
 | Smooth Service | 25.00% | ~101 |
 | Your Prestige is Rising | 24.00% | ~97 |
 | Retail Revenue | 24.00% | ~97 |
-| Don't Feel a Loan | 22.00% | ~89 |
+| Don't Feel a Loan | 23.00% | ~93 |
 | People Mover | 21.00% | ~85 |
 | Artfully Done | 20.00% | ~81 |
 | Emporium Empire | 20.00% | ~81 |

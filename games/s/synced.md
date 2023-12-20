@@ -5,14 +5,14 @@ Rating: 4.15 (Ranked 966)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 38.00% | ~27,170 |
-| As Far Away As Possible | 19.00% | ~13,585 |
-| A Most Unstable Organism | 13.00% | ~9,295 |
-| No Time to Follow Protocol | 10.00% | ~7,150 |
-| Float Like a Butterfly... | 8.00% | ~5,720 |
-| Nano Connoisseur | 6.00% | ~4,290 |
-| In Two Places At Once | 6.00% | ~4,290 |
-| More Power to You | 6.00% | ~4,290 |
+| Your Lucky Day | 38.00% | ~27,175 |
+| As Far Away As Possible | 19.00% | ~13,587 |
+| A Most Unstable Organism | 13.00% | ~9,297 |
+| No Time to Follow Protocol | 10.00% | ~7,151 |
+| Float Like a Butterfly... | 8.00% | ~5,721 |
+| Nano Connoisseur | 6.00% | ~4,291 |
+| In Two Places At Once | 6.00% | ~4,291 |
+| More Power to You | 6.00% | ~4,291 |
 | Pulling Your Weight | 3.00% | ~2,145 |
 | Reaping Rivals | 3.00% | ~2,145 |
 | fifteenth Time's the Charm | 1.00% | ~715 |
@@ -20,9 +20,9 @@ Rating: 4.15 (Ranked 966)
 | Memory Keeper | 0.40% | ~286 |
 | Completely Customizable | 0.40% | ~286 |
 | Past Master | 0.40% | ~286 |
-| Runs for Your Money | 0.30% | ~214 |
+| Runs for Your Money | 0.30% | ~215 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71,499 (Ranked 104)  
+Progressed: 71,512 (Ranked 104)  
 Completed: 59 (0.08%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,14 +137,14 @@ Completed: 59 (0.08%) (Ranked 316)
 | 2023-12-17 | 70,623 | 57 |
 | 2023-12-18 | 71,065 | 59 |
 | 2023-12-19 | 71,333 | 59 |
-| 2023-12-20 | 71,499 | 59 |
+| 2023-12-20 | 71,512 | 59 |
 ## Awards
-Max (Great for Beginners): 110  (Ranked 356)  
-Sum: 479 (Ranked 335)  
-Diff (max vs sum): 21  
+Max (Great for Beginners): 113  (Ranked 352)  
+Sum: 482 (Ranked 335)  
+Diff (max vs sum): 17  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 110 |
+| This game is Great for Beginners | 113 |
 | This game has Diverse Characters | 77 |
 | This game is Highly Recommended | 57 |
 | This game has a Competitive Community | 54 |
@@ -250,4 +250,4 @@ Diff (max vs sum): 21
 | 2023-12-17 | 4.15 | 109 | 431 |
 | 2023-12-18 | 4.16 | 110 | 434 |
 | 2023-12-19 | 4.15 | 110 | 477 |
-| 2023-12-20 | 4.15 | 110 | 479 |
+| 2023-12-20 | 4.15 | 113 | 482 |

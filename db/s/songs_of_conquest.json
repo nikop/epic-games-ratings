@@ -5,10 +5,10 @@
   "Ranking_Rating": 232,
   "Ranking_Popularity": 524,
   "Ranking_PopularitySum": 412,
-  "Ranking_EOS_Progress": 319,
+  "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 591,
+  "EOS_Progressed": 593,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2393,6 +2393,11 @@
       "Time": "2023-12-20T18:09:02.8988214+00:00",
       "NumProgressed": 591,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T19:08:49.525158+00:00",
+      "NumProgressed": 593,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2509,7 +2514,7 @@
       "Name": "Critical Hit",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "Deepstrike",
@@ -2549,7 +2554,7 @@
       "Name": "Double Kill",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "FlameAttackKillCount",
@@ -2613,7 +2618,7 @@
       "Name": "Multi Kill",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "MultiplayerWins",
@@ -2685,7 +2690,7 @@
       "Name": "Sorcerous Spree",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -2709,7 +2714,7 @@
       "Name": "Landlord Extraordinaire",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "TrojanHorse",
@@ -2733,7 +2738,7 @@
       "Name": "Adept",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "WielderLevel2",
@@ -2741,7 +2746,7 @@
       "Name": "Veteran",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "WielderLevel3",
@@ -2749,7 +2754,7 @@
       "Name": "Master",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "WielderLevel4",
@@ -2836,15 +2841,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 591,
+      "Progressed": 593,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-20T18:09:02.8988208+00:00",
+  "LastChanged_Achievements": "2023-12-20T19:08:49.5251573+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:10.4027668+00:00",
-  "LastUpdate_Ratings": "2023-12-20T17:58:24.0236122+00:00",
-  "LastUpdate_Achievements": "2023-12-20T18:09:02.8988589+00:00"
+  "LastUpdate_Ratings": "2023-12-20T18:58:11.3563944+00:00",
+  "LastUpdate_Achievements": "2023-12-20T19:08:49.5252256+00:00"
 }

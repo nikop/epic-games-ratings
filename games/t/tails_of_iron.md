@@ -9,9 +9,9 @@ Rating: 4.56 (Ranked 497)
 | Meet the Creatures from the Deep | 0.40% | ~9 |
 | Throne Room Fit For A King | 0.40% | ~9 |
 | Return Power To The Depths | 0.40% | ~9 |
-| The Bright Fir | 0.30% | ~3 |
-| Become King | 0.20% | ~5 |
-| Complete Guard Faction | 0.20% | ~5 |
+| The Bright Fir | 0.40% | ~4 |
+| Become King | 0.30% | ~7 |
+| Complete Guard Faction | 0.30% | ~7 |
 | Defeat Ratnor Rodentson | 0.20% | ~5 |
 | Collect Gold | 0.10% | ~2 |
 | Collect Iron Ore | 0.10% | ~2 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 497)
 | Complete Arena Faction | 0.00% | ~0 |
 | A new Warchief rises | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,262 (Ranked 231)  
+Progressed: 2,263 (Ranked 231)  
 Completed: 12 (0.53%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 12 (0.53%) (Ranked 211)
 | 2023-12-17 | 2,255 | 12 |
 | 2023-12-18 | 2,256 | 12 |
 | 2023-12-19 | 2,258 | 12 |
-| 2023-12-20 | 2,262 | 12 |
+| 2023-12-20 | 2,263 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -311,9 +311,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3601,
+  "EOS_Progressed": 3603,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6751,6 +6751,11 @@
       "Time": "2023-12-20T18:04:12.5475945+00:00",
       "NumProgressed": 3601,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T19:04:02.092205+00:00",
+      "NumProgressed": 3603,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -6762,7 +6767,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 900
+      "UsersEstimate": 901
     },
     {
       "ID": "ACH_BASE_10",
@@ -6826,7 +6831,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 936
+      "UsersEstimate": 937
     },
     {
       "ID": "ACH_BASE_19",
@@ -6850,7 +6855,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "ACH_BASE_22",
@@ -6866,7 +6871,7 @@
       "Name": "Space Society",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "ACH_BASE_24",
@@ -6874,7 +6879,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "ACH_BASE_25",
@@ -6914,7 +6919,7 @@
       "Name": "A Thousand Strong",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "ACH_BASE_3",
@@ -6962,7 +6967,7 @@
       "Name": "Ready for a New World",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "ACH_BASE_35",
@@ -7217,13 +7222,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1785,
+      "Progressed": 1787,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3601,
+      "Progressed": 3603,
       "Completed": 0
     }
   ],
@@ -7231,8 +7236,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-10T20:59:24.4447628+00:00",
-  "LastChanged_Achievements": "2023-12-20T18:04:12.547594+00:00",
+  "LastChanged_Achievements": "2023-12-20T19:04:02.0922047+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.6786359+00:00",
-  "LastUpdate_Ratings": "2023-12-20T18:00:47.9258679+00:00",
-  "LastUpdate_Achievements": "2023-12-20T18:04:12.5476794+00:00"
+  "LastUpdate_Ratings": "2023-12-20T19:00:18.9502034+00:00",
+  "LastUpdate_Achievements": "2023-12-20T19:04:02.0922644+00:00"
 }

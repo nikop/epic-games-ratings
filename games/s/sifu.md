@@ -6,11 +6,11 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 3.00% | ~22,124 |
-| Life is your teacher | 3.00% | ~22,124 |
-| The Assault | 2.00% | ~14,749 |
-| The Hateful Pole Fighter | 2.00% | ~14,749 |
-| Lightning Hands | 2.00% | ~14,749 |
+| The Old Grandmaster | 3.00% | ~22,125 |
+| Life is your teacher | 3.00% | ~22,125 |
+| The Assault | 2.00% | ~14,750 |
+| The Hateful Pole Fighter | 2.00% | ~14,750 |
+| Lightning Hands | 2.00% | ~14,750 |
 | A Lady's Blood in the Snow | 1.00% | ~7,375 |
 | Lady Wing Chun | 1.00% | ~7,375 |
 | Kill Nil | 1.00% | ~7,375 |
@@ -23,14 +23,14 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 1.00% | ~7,375 |
 | Rumble in the Hangar | 1.00% | ~7,375 |
 | Diligence as a goal | 1.00% | ~468 |
-| Furious Fists | 0.90% | ~6,637 |
-| I know Kung-Fu | 0.90% | ~6,637 |
-| Take damage to save time | 0.90% | ~6,637 |
+| Furious Fists | 0.90% | ~6,638 |
+| I know Kung-Fu | 0.90% | ~6,638 |
+| Take damage to save time | 0.90% | ~6,638 |
 | Project Arena | 0.90% | ~421 |
 | Qi Gong: Mind | 0.80% | ~5,900 |
-| Scareless | 0.70% | ~5,162 |
-| Kung-Fu Tussle | 0.70% | ~5,162 |
-| Fight the way you practice | 0.70% | ~327 |
+| Scareless | 0.70% | ~5,163 |
+| Kung-Fu Tussle | 0.70% | ~5,163 |
+| Fight the way you practice | 0.70% | ~328 |
 | Dance of the Praying Mantis | 0.60% | ~4,425 |
 | Martial Hub | 0.60% | ~281 |
 | Bloody Sport | 0.50% | ~234 |
@@ -38,11 +38,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Tiger on Fire | 0.40% | ~2,950 |
 | Source of Flying Daggers | 0.40% | ~2,950 |
 | Detective Story | 0.40% | ~2,950 |
-| Iron Money | 0.30% | ~2,212 |
-| Legendary Talismans of Wuxing | 0.30% | ~2,212 |
-| Prodigal Child | 0.30% | ~2,212 |
-| The 36th Chamber of Kung-Fu | 0.30% | ~2,212 |
-| Sword Stained With Blood | 0.30% | ~2,212 |
+| Iron Money | 0.30% | ~2,213 |
+| Legendary Talismans of Wuxing | 0.30% | ~2,213 |
+| Prodigal Child | 0.30% | ~2,213 |
+| The 36th Chamber of Kung-Fu | 0.30% | ~2,213 |
+| Sword Stained With Blood | 0.30% | ~2,213 |
 | The best strikes are the ones we avoid | 0.30% | ~140 |
 | Drunken Fighter | 0.20% | ~1,475 |
 | Martial Artist | 0.20% | ~1,475 |
@@ -55,9 +55,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | A Touch of Acumen | 0.20% | ~94 |
 | Skill and an even stronger will | 0.20% | ~94 |
 | Beatmaker | 0.20% | ~94 |
-| Healing Memory | 0.10% | ~737 |
-| Master of the Phoenix Eye Fist | 0.10% | ~737 |
-| Warriors from the Mountain | 0.10% | ~737 |
+| Healing Memory | 0.10% | ~738 |
+| Master of the Phoenix Eye Fist | 0.10% | ~738 |
+| Warriors from the Mountain | 0.10% | ~738 |
 | Secure, Protect, Leave | 0.10% | ~47 |
 | Crouching Tiger | 0.10% | ~47 |
 | Hidden Dragon | 0.10% | ~47 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~47 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 737,473 (Ranked 23)  
+Progressed: 737,504 (Ranked 23)  
 Completed: 12,958 (1.76%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 12,958 (1.76%) (Ranked 140)
 | 2023-12-17 | 733,014 | 12,955 |
 | 2023-12-18 | 734,825 | 12,956 |
 | 2023-12-19 | 736,295 | 12,958 |
-| 2023-12-20 | 737,473 | 12,958 |
+| 2023-12-20 | 737,504 | 12,958 |
 ## Awards
 Max (Great Boss Battles): 6,973  (Ranked 55)  
 Sum: 12,222 (Ranked 84)  

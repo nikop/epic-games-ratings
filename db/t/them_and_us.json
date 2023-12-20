@@ -2,10 +2,10 @@
   "ID": "713cf66874564881adc4f5bb9ade5ceb",
   "Name": "Them and Us",
   "ProductSlug": "them-and-us-7c9c73",
-  "Ranking_EOS_Progress": 362,
+  "Ranking_EOS_Progress": 361,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 334,
+  "EOS_Progressed": 335,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -1471,6 +1471,11 @@
       "Time": "2023-12-20T17:03:23.4993615+00:00",
       "NumProgressed": 334,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T19:03:28.7290295+00:00",
+      "NumProgressed": 335,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1482,7 +1487,7 @@
       "Name": "Lover of classics",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ETUA_AloneInTheDark",
@@ -1498,7 +1503,7 @@
       "Name": "Alone with Them",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -1578,7 +1583,7 @@
       "Name": "Forced to Kill",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1586,7 +1591,7 @@
       "Name": "Them and Us",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ETUA_LifeOfTheThousandGods",
@@ -1642,7 +1647,7 @@
       "Name": "OUTRAGE",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ETUA_PTD",
@@ -1658,7 +1663,7 @@
       "Name": "Parasite Exterminated",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ETUA_Researcher",
@@ -1674,7 +1679,7 @@
       "Name": "Rest In Peace",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ETUA_SUPER",
@@ -1738,7 +1743,7 @@
       "Name": "The Curse Is Real",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ETUA_TheForgottenTower",
@@ -1754,7 +1759,7 @@
       "Name": "This Coffin Has Your Name On It!",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ETUA_ThisMansionIsClean",
@@ -1794,14 +1799,14 @@
       "Name": "What have I done!?",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     }
   ],
   "AchievementSets": [
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 334,
+      "Progressed": 335,
       "Completed": 1
     }
   ],
@@ -1809,8 +1814,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-12-20T18:03:37.1264885+00:00",
+  "LastChanged_Achievements": "2023-12-20T19:03:28.7290291+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:15.4863673+00:00",
-  "LastUpdate_Ratings": "2023-12-20T17:59:24.4039596+00:00",
-  "LastUpdate_Achievements": "2023-12-20T18:03:37.1265309+00:00"
+  "LastUpdate_Ratings": "2023-12-20T18:59:06.0177423+00:00",
+  "LastUpdate_Achievements": "2023-12-20T19:03:28.7290628+00:00"
 }

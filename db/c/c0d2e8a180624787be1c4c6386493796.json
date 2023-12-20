@@ -3,7 +3,7 @@
   "Name": "Kingdom Rush Vengeance",
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 410,
-  "Ranking_EOS_Completed": 202,
+  "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
@@ -1316,9 +1316,9 @@
       "ID": "KR4_ACHIEVEMENT_SLENDERMAN",
       "SetID": "caeik3h",
       "Name": "Too Late?",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "KR4_ACHIEVEMENT_SON_OF_FIRE",
@@ -1433,8 +1433,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-20T18:05:32.9111249+00:00",
+  "LastChanged_Achievements": "2023-12-20T19:05:14.2074654+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:06.9365218+00:00",
-  "LastUpdate_Ratings": "2023-12-20T17:57:20.7432652+00:00",
-  "LastUpdate_Achievements": "2023-12-20T18:05:32.9111866+00:00"
+  "LastUpdate_Ratings": "2023-12-20T18:57:15.538965+00:00",
+  "LastUpdate_Achievements": "2023-12-20T19:05:14.2075278+00:00"
 }

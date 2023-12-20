@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 513,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 422,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-04-13T22:00:00+00:00",
     "PcReleaseDate": "2016-02-01T10:30:00+00:00",
@@ -328,9 +328,9 @@
       "ID": "1",
       "SetID": "6m1k8ai",
       "Name": "Start of a Journey",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "10",
@@ -416,9 +416,9 @@
       "ID": "2",
       "SetID": "6m1k8ai",
       "Name": "Escape the Maze",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "20",
@@ -480,9 +480,9 @@
       "ID": "27",
       "SetID": "6m1k8ai",
       "Name": "A thing of beauty",
-      "Percentage": 84,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "28",
@@ -719,8 +719,8 @@
   ],
   "FirstSeen": "2023-08-02T12:00:06.1215649+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:54.1443777+00:00",
-  "LastChanged_Achievements": "2023-12-20T18:08:47.691257+00:00",
+  "LastChanged_Achievements": "2023-12-20T19:08:35.9352385+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:53.8848096+00:00",
-  "LastUpdate_Ratings": "2023-12-20T18:03:16.6775038+00:00",
-  "LastUpdate_Achievements": "2023-12-20T18:08:47.6912931+00:00"
+  "LastUpdate_Ratings": "2023-12-20T19:03:10.1289759+00:00",
+  "LastUpdate_Achievements": "2023-12-20T19:08:35.9352723+00:00"
 }

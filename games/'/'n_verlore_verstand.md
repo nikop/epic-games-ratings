@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start of a Journey | 89.00% | ~56 |
-| A thing of beauty | 84.00% | ~53 |
-| Escape the Maze | 59.00% | ~37 |
+| Start of a Journey | 90.00% | ~57 |
+| A thing of beauty | 86.00% | ~54 |
+| Escape the Maze | 60.00% | ~38 |
 | Brace the cold | 44.00% | ~28 |
 | A Long Walk | 43.00% | ~27 |
 | Dont mind the heat | 17.00% | ~11 |

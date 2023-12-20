@@ -5,25 +5,25 @@ Rating: 4.19 (Ranked 939)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 14.00% | ~2,555 |
-| The Outer Way | 14.00% | ~2,555 |
-| Get a Grip | 13.00% | ~2,373 |
-| Paper Jams | 13.00% | ~2,373 |
-| Desperate Times | 12.00% | ~2,190 |
+| Flesh Wound | 14.00% | ~2,556 |
+| The Outer Way | 14.00% | ~2,556 |
+| Get a Grip | 13.00% | ~2,374 |
+| Paper Jams | 13.00% | ~2,374 |
+| Desperate Times | 12.00% | ~2,191 |
 | Chew 'Em Up | 11.00% | ~2,008 |
 | Float Like A Butterfly | 11.00% | ~2,008 |
-| Reforged | 10.00% | ~1,825 |
+| Reforged | 10.00% | ~1,826 |
 | Workplace Hazard | 9.00% | ~1,643 |
-| If the SHU Fits... | 8.00% | ~1,460 |
+| If the SHU Fits... | 8.00% | ~1,461 |
 | Two Heads Are Better Than One | 7.00% | ~1,278 |
 | Without A Paddle | 7.00% | ~1,278 |
 | In the Pipe, Five by Five | 7.00% | ~1,278 |
 | Crash Site | 7.00% | ~1,278 |
-| You Need a Gun | 6.00% | ~1,095 |
-| Terminated | 6.00% | ~1,095 |
-| What Lies Beneath | 6.00% | ~1,095 |
-| Full Circle | 6.00% | ~1,095 |
-| Power Up | 6.00% | ~1,095 |
+| You Need a Gun | 6.00% | ~1,096 |
+| Terminated | 6.00% | ~1,096 |
+| What Lies Beneath | 6.00% | ~1,096 |
+| Full Circle | 6.00% | ~1,096 |
+| Power Up | 6.00% | ~1,096 |
 | Keep Fighting | 6.00% | ~371 |
 | Giving Back | 5.00% | ~913 |
 | I Do Belong Here | 5.00% | ~913 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 939)
 | Bear Trap | 0.10% | ~6 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,251 (Ranked 149)  
+Progressed: 18,259 (Ranked 149)  
 Completed: 82 (0.45%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,10 +289,10 @@ Completed: 82 (0.45%) (Ranked 223)
 | 2023-12-17 | 17,760 | 82 |
 | 2023-12-18 | 17,946 | 82 |
 | 2023-12-19 | 18,137 | 82 |
-| 2023-12-20 | 18,251 | 82 |
+| 2023-12-20 | 18,259 | 82 |
 ## Awards
 Max (Quickly Understood Controls): 89  (Ranked 388)  
-Sum: 532 (Ranked 326)  
+Sum: 533 (Ranked 326)  
 Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
@@ -301,7 +301,7 @@ Diff (max vs sum): 62
 | This game is Highly Recommended | 88 |
 | This game has Amazing Characters | 86 |
 | This game is Extremely Fun | 81 |
-| This game has Challenging Combat | 65 |
+| This game has Challenging Combat | 66 |
 | This game has a Creative Community | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -482,4 +482,4 @@ Diff (max vs sum): 62
 | 2023-12-17 | 4.20 | 87 | 516 |
 | 2023-12-18 | 4.19 | 88 | 521 |
 | 2023-12-19 | 4.19 | 89 | 526 |
-| 2023-12-20 | 4.19 | 89 | 532 |
+| 2023-12-20 | 4.19 | 89 | 533 |

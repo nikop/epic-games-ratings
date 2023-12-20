@@ -4,8 +4,8 @@
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 641,
+  "EOS_Progressed": 642,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -2132,6 +2132,11 @@
       "Time": "2023-12-20T15:09:00.802081+00:00",
       "NumProgressed": 641,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T19:09:13.9323033+00:00",
+      "NumProgressed": 642,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -2143,7 +2148,7 @@
       "Name": "Travel Streamer",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -2175,7 +2180,7 @@
       "Name": "Flying Kobold Killer",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -2183,7 +2188,7 @@
       "Name": "Youth Magnet",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -2213,9 +2218,9 @@
       "ID": "ACHIEVEMENT_18",
       "SetID": "7pimpda",
       "Name": "Kind Adventurer",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 96
+      "UsersEstimate": 90
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -2231,7 +2236,7 @@
       "Name": "Training Simulation",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -2255,7 +2260,7 @@
       "Name": "Beginner Cook",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -2269,9 +2274,9 @@
       "ID": "ACHIEVEMENT_24",
       "SetID": "7pimpda",
       "Name": "Arms Mechanic",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 314
+      "UsersEstimate": 308
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -2311,7 +2316,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -2495,14 +2500,14 @@
       "Name": "Handyman",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 641,
+      "Progressed": 642,
       "Completed": 1
     }
   ],
@@ -2510,8 +2515,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-20T18:09:28.8561523+00:00",
+  "LastChanged_Achievements": "2023-12-20T19:09:13.932303+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:00.9363361+00:00",
-  "LastUpdate_Ratings": "2023-12-20T17:57:30.1662596+00:00",
-  "LastUpdate_Achievements": "2023-12-20T18:09:28.8561878+00:00"
+  "LastUpdate_Ratings": "2023-12-20T18:57:24.4863322+00:00",
+  "LastUpdate_Achievements": "2023-12-20T19:09:13.9323411+00:00"
 }

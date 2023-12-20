@@ -10,16 +10,16 @@
 | Going Places | 67.00% | ~94 |
 | Conducted Trade | 66.00% | ~93 |
 | Aristocratic | 62.00% | ~87 |
-| Tutti Frutti | 55.00% | ~78 |
+| Tutti Frutti | 56.00% | ~79 |
 | Gotta Go Fast | 45.00% | ~63 |
 | Slotting Machine | 39.00% | ~55 |
 | Systematic | 38.00% | ~54 |
 | Mine Sweeper | 35.00% | ~49 |
-| Roll Out | 34.00% | ~48 |
+| Roll Out | 35.00% | ~49 |
 | Dopa-Miner | 27.00% | ~38 |
 | Up, Up And Away! | 26.00% | ~37 |
 | Whoa! | 25.00% | ~35 |
-| Botropolis | 22.00% | ~31 |
+| Botropolis | 23.00% | ~32 |
 | Steaming Rich | 18.00% | ~25 |
 | Steam Powered | 16.00% | ~23 |
 | Manic Mechanic | 14.00% | ~20 |

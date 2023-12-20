@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 461,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-06-23T03:00:00+00:00",
     "PcReleaseDate": "2022-06-23T03:00:00+00:00",
@@ -503,9 +503,9 @@
       "ID": "ACH_43",
       "SetID": "2eg5kgc",
       "Name": "Our World Now",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 201
     },
     {
       "ID": "ACH_44",
@@ -567,8 +567,8 @@
   "FirstSeen": "2022-07-22T20:19:58.3140985+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.7038898+00:00",
   "LastChanged": "2023-03-31T05:57:16.8033506+00:00",
-  "LastChanged_Achievements": "2023-12-20T18:10:29.5364937+00:00",
+  "LastChanged_Achievements": "2023-12-20T19:10:09.11088+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:11.976583+00:00",
-  "LastUpdate_Ratings": "2023-12-20T18:02:50.8301706+00:00",
-  "LastUpdate_Achievements": "2023-12-20T18:10:29.5365203+00:00"
+  "LastUpdate_Ratings": "2023-12-20T19:02:47.4831429+00:00",
+  "LastUpdate_Achievements": "2023-12-20T19:10:09.1109179+00:00"
 }

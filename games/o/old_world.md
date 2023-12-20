@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 321)  
+Rating: 4.65 (Ranked 322)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -26,6 +26,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Epic Victory (Carthage 2) | 0.10% | ~16 |
 | Gold Victory (Carthage 2) | 0.10% | ~16 |
 | Silver Victory (Carthage 2) | 0.10% | ~16 |
+| Carthage - Rise of Rome | 0.10% | ~16 |
+| Bronze Victory (Carthage 3) | 0.10% | ~16 |
 | Cleopatra's Love | 0.10% | ~16 |
 | Able | 0.10% | ~16 |
 | Ambitious | 0.10% | ~16 |
@@ -189,8 +191,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Battle of Opis | 0.00% | ~0 |
 | Blade of the Monkey | 0.00% | ~0 |
 | Hagia Sophia in Byzantion | 0.00% | ~0 |
-| Carthage - Rise of Rome | 0.00% | ~0 |
-| Bronze Victory (Carthage 3) | 0.00% | ~0 |
 | Epic Victory (Carthage 3) | 0.00% | ~0 |
 | Gold Victory (Carthage 3) | 0.00% | ~0 |
 | Silver Victory (Carthage 3) | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Al Khazneh in Petra | 0.00% | ~0 |
 | Colosseum in Roma | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,848 (Ranked 158)  
+Progressed: 15,849 (Ranked 158)  
 Completed: 5 (0.03%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -609,7 +609,7 @@ Completed: 5 (0.03%) (Ranked 345)
 | 2023-12-17 | 15,807 | 5 |
 | 2023-12-18 | 15,826 | 5 |
 | 2023-12-19 | 15,840 | 5 |
-| 2023-12-20 | 15,848 | 5 |
+| 2023-12-20 | 15,849 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 279)  
 Sum: 1,904 (Ranked 220)  

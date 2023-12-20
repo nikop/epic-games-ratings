@@ -4,8 +4,8 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 518,
+  "EOS_Progressed": 519,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1812,6 +1812,11 @@
       "Time": "2023-12-20T17:10:04.4784019+00:00",
       "NumProgressed": 518,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-20T19:10:05.3532199+00:00",
+      "NumProgressed": 519,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -1821,9 +1826,9 @@
       "ID": "completeact1",
       "SetID": "40n95i5",
       "Name": "BBFF (Best Brigade Friend Forever)",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 60,
-      "UsersEstimate": 264
+      "UsersEstimate": 260
     },
     {
       "ID": "completeact2",
@@ -1837,9 +1842,9 @@
       "ID": "completeact3",
       "SetID": "40n95i5",
       "Name": "On the Road",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 218
+      "UsersEstimate": 213
     },
     {
       "ID": "findalltapes",
@@ -1871,7 +1876,7 @@
       "Name": "Freedom",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "scoreminrankrf1",
@@ -1879,7 +1884,7 @@
       "Name": "86\u0027s Nightmare",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "scoreminrankrf2",
@@ -1887,7 +1892,7 @@
       "Name": "Partners in Crime",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "scoreminrankrh1",
@@ -1895,7 +1900,7 @@
       "Name": "Souvenirs",
       "Percentage": 29,
       "XP": 40,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "scoreminrankrp1",
@@ -1925,9 +1930,9 @@
       "ID": "scoreminrankrv1",
       "SetID": "40n95i5",
       "Name": "Welcome to the Garage",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 98
+      "UsersEstimate": 93
     },
     {
       "ID": "scoreminrankrv2",
@@ -1935,14 +1940,14 @@
       "Name": "Friendzone",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     }
   ],
   "AchievementSets": [
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 518,
+      "Progressed": 519,
       "Completed": 2
     }
   ],
@@ -1950,8 +1955,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-12-20T18:10:25.5652945+00:00",
+  "LastChanged_Achievements": "2023-12-20T19:10:05.3532197+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:48.6488501+00:00",
-  "LastUpdate_Ratings": "2023-12-20T18:02:48.4900898+00:00",
-  "LastUpdate_Achievements": "2023-12-20T18:10:25.5653188+00:00"
+  "LastUpdate_Ratings": "2023-12-20T19:02:45.3762905+00:00",
+  "LastUpdate_Achievements": "2023-12-20T19:10:05.3532357+00:00"
 }

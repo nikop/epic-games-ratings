@@ -5,12 +5,12 @@ Rating: 4.64 (Ranked 338)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Satisfied Gus-tomer | 4.00% | ~991 |
-| Are You Packin'? | 4.00% | ~991 |
-| Sweezy Like Sunday Morning | 4.00% | ~991 |
-| First Bounty Down | 4.00% | ~991 |
-| G3 Graduation | 4.00% | ~991 |
-| Cold-Blooded Driller | 4.00% | ~991 |
+| Satisfied Gus-tomer | 4.00% | ~992 |
+| Are You Packin'? | 4.00% | ~992 |
+| Sweezy Like Sunday Morning | 4.00% | ~992 |
+| First Bounty Down | 4.00% | ~992 |
+| G3 Graduation | 4.00% | ~992 |
+| Cold-Blooded Driller | 4.00% | ~992 |
 | Creature Feature | 3.00% | ~744 |
 | Bring A Knife to a Gun Fight | 3.00% | ~744 |
 | RIP Davey Glutes | 3.00% | ~744 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 338)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,786 (Ranked 141)  
+Progressed: 24,788 (Ranked 141)  
 Completed: 14 (0.06%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 14 (0.06%) (Ranked 325)
 | 2023-12-17 | 24,747 | 14 |
 | 2023-12-18 | 24,764 | 14 |
 | 2023-12-19 | 24,778 | 14 |
-| 2023-12-20 | 24,786 | 14 |
+| 2023-12-20 | 24,788 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
