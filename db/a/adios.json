@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 167,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -123,9 +123,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 81069,
+  "EOS_Progressed": 81071,
   "EOS_Completed": 888,
-  "EOS_NewPlayers": 594,
+  "EOS_NewPlayers": 596,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.1,
   "EosHistory": [
@@ -27293,6 +27293,11 @@
       "Time": "2023-12-20T08:05:39.5919258+00:00",
       "NumProgressed": 81069,
       "NumCompleted": 888
+    },
+    {
+      "Time": "2023-12-20T09:06:07.2740921+00:00",
+      "NumProgressed": 81071,
+      "NumCompleted": 888
     }
   ],
   "TotalAchievements": 25,
@@ -27336,7 +27341,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 17835
+      "UsersEstimate": 17836
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -27344,7 +27349,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 14592
+      "UsersEstimate": 14593
     },
     {
       "ID": "Butcher",
@@ -27400,7 +27405,7 @@
       "Name": "Magnetic Miracles",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 4053
+      "UsersEstimate": 4054
     },
     {
       "ID": "Master, Commander",
@@ -27408,7 +27413,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 17024
+      "UsersEstimate": 17025
     },
     {
       "ID": "Meaty",
@@ -27503,7 +27508,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 81069,
+      "Progressed": 81071,
       "Completed": 888
     }
   ],
@@ -27511,8 +27516,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-11-28T02:22:55.8136009+00:00",
-  "LastChanged_Achievements": "2023-12-20T08:05:39.5919253+00:00",
+  "LastChanged_Achievements": "2023-12-20T09:06:07.2740917+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:36.6719063+00:00",
-  "LastUpdate_Ratings": "2023-12-20T07:59:34.1999503+00:00",
-  "LastUpdate_Achievements": "2023-12-20T08:05:39.5920765+00:00"
+  "LastUpdate_Ratings": "2023-12-20T09:00:09.396231+00:00",
+  "LastUpdate_Achievements": "2023-12-20T09:06:07.2742747+00:00"
 }

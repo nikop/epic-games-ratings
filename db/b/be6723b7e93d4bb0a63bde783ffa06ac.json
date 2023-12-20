@@ -3,9 +3,9 @@
   "Name": "StrikeForce Kitty",
   "ProductSlug": "strike-force-kitty-4603e5",
   "Ranking_EOS_Progress": 454,
-  "Ranking_EOS_Completed": 384,
+  "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 282,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2018-02-20T17:00:00+00:00",
@@ -707,9 +707,9 @@
       "ID": "ach29",
       "SetID": "baneh2j",
       "Name": "My first team",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 35,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ach3",
@@ -723,9 +723,9 @@
       "ID": "ach30",
       "SetID": "baneh2j",
       "Name": "Found!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ach31",
@@ -794,8 +794,8 @@
   ],
   "FirstSeen": "2023-10-28T07:00:19.541662+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6926977+00:00",
-  "LastChanged_Achievements": "2023-12-20T08:05:55.4409408+00:00",
-  "LastUpdate_AppInfo": "2023-12-13T08:56:58.3281162+00:00",
-  "LastUpdate_Ratings": "2023-12-20T07:59:25.3110594+00:00",
-  "LastUpdate_Achievements": "2023-12-20T08:05:55.4409586+00:00"
+  "LastChanged_Achievements": "2023-12-20T09:06:23.6058877+00:00",
+  "LastUpdate_AppInfo": "2023-12-20T08:57:19.3639355+00:00",
+  "LastUpdate_Ratings": "2023-12-20T09:00:00.2781817+00:00",
+  "LastUpdate_Achievements": "2023-12-20T09:06:23.6059038+00:00"
 }

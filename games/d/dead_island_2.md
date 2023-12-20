@@ -5,41 +5,41 @@ Rating: 4.54 (Ranked 531)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 5.00% | ~37,656 |
-| Break A Leg | 4.00% | ~30,125 |
-| Hotel California | 4.00% | ~30,125 |
-| Git Gutte! | 3.00% | ~22,593 |
-| Coup de Grâce | 3.00% | ~22,593 |
-| Hazardous Materials | 3.00% | ~22,593 |
-| Friends Like These | 3.00% | ~22,593 |
-| Apex Predator | 3.00% | ~22,593 |
-| Personal Assistant Personally Assisted | 3.00% | ~22,593 |
-| One of Us | 3.00% | ~2,360 |
-| Whatever It Takes | 3.00% | ~2,360 |
-| Pork Chopped | 3.00% | ~2,360 |
-| Dr. Reed, I Presume? | 2.00% | ~15,062 |
-| Anger Management | 2.00% | ~15,062 |
-| Perks of the Job | 2.00% | ~15,062 |
-| Bookworm | 2.00% | ~15,062 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~15,062 |
-| But Doctor, I am Butcho | 2.00% | ~15,062 |
-| Slayer Squad | 2.00% | ~15,062 |
-| Can't Handle the Truth | 2.00% | ~15,062 |
-| Like Riding a Bike | 2.00% | ~15,062 |
-| Zombologist | 2.00% | ~15,062 |
-| Ooh, Shiny! | 2.00% | ~15,062 |
-| A Patton Emerges | 2.00% | ~15,062 |
-| I Am the Resurrection | 2.00% | ~15,062 |
-| Stacking the Deck | 2.00% | ~15,062 |
-| Our True Nature | 2.00% | ~15,062 |
-| This is My Weapon | 2.00% | ~15,062 |
-| Making Your Mark | 1.00% | ~7,531 |
-| Jumbo Keyring | 1.00% | ~7,531 |
-| Humanity Distilled | 1.00% | ~7,531 |
-| Down with the Sickness | 1.00% | ~7,531 |
-| Max Headroom | 1.00% | ~7,531 |
-| Go, Bobcats! | 1.00% | ~7,531 |
-| Rising Star | 1.00% | ~7,531 |
+| Welcome To Hell-A | 5.00% | ~37,658 |
+| Break A Leg | 4.00% | ~30,127 |
+| Hotel California | 4.00% | ~30,127 |
+| Git Gutte! | 3.00% | ~22,595 |
+| Coup de Grâce | 3.00% | ~22,595 |
+| Hazardous Materials | 3.00% | ~22,595 |
+| Friends Like These | 3.00% | ~22,595 |
+| Apex Predator | 3.00% | ~22,595 |
+| Personal Assistant Personally Assisted | 3.00% | ~22,595 |
+| One of Us | 3.00% | ~2,361 |
+| Whatever It Takes | 3.00% | ~2,361 |
+| Pork Chopped | 3.00% | ~2,361 |
+| Dr. Reed, I Presume? | 2.00% | ~15,063 |
+| Anger Management | 2.00% | ~15,063 |
+| Perks of the Job | 2.00% | ~15,063 |
+| Bookworm | 2.00% | ~15,063 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~15,063 |
+| But Doctor, I am Butcho | 2.00% | ~15,063 |
+| Slayer Squad | 2.00% | ~15,063 |
+| Can't Handle the Truth | 2.00% | ~15,063 |
+| Like Riding a Bike | 2.00% | ~15,063 |
+| Zombologist | 2.00% | ~15,063 |
+| Ooh, Shiny! | 2.00% | ~15,063 |
+| A Patton Emerges | 2.00% | ~15,063 |
+| I Am the Resurrection | 2.00% | ~15,063 |
+| Stacking the Deck | 2.00% | ~15,063 |
+| Our True Nature | 2.00% | ~15,063 |
+| This is My Weapon | 2.00% | ~15,063 |
+| Making Your Mark | 1.00% | ~7,532 |
+| Jumbo Keyring | 1.00% | ~7,532 |
+| Humanity Distilled | 1.00% | ~7,532 |
+| Down with the Sickness | 1.00% | ~7,532 |
+| Max Headroom | 1.00% | ~7,532 |
+| Go, Bobcats! | 1.00% | ~7,532 |
+| Rising Star | 1.00% | ~7,532 |
 | Not Even My Final Form | 0.90% | ~6,778 |
 | Smorgasbord | 0.80% | ~6,025 |
 | Internet Famous | 0.80% | ~6,025 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 531)
 | Bucket List | 0.10% | ~753 |
 | Wilhelm | 0.10% | ~79 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 753,116 (Ranked 21)  
-Completed: 2,488 (0.33%) (Ranked 243)  
+Progressed: 753,165 (Ranked 21)  
+Completed: 2,488 (0.33%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -301,10 +301,10 @@ Completed: 2,488 (0.33%) (Ranked 243)
 | 2023-12-17 | 748,324 | 2,488 |
 | 2023-12-18 | 750,555 | 2,489 |
 | 2023-12-19 | 752,530 | 2,488 |
-| 2023-12-20 | 753,116 | 2,488 |
+| 2023-12-20 | 753,165 | 2,488 |
 ## Awards
 Max (Great Boss Battles): 8,406  (Ranked 47)  
-Sum: 12,888 (Ranked 80)  
+Sum: 12,893 (Ranked 80)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -315,7 +315,7 @@ Diff (max vs sum): -33
 | This game is Relaxing | 551 |
 | This game has Amazing Storytelling | 543 |
 | This game is Extremely Fun | 528 |
-| This game is Highly Recommended | 521 |
+| This game is Highly Recommended | 526 |
 | This game has Amazing Characters | 490 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -563,3 +563,4 @@ Diff (max vs sum): -33
 | 2023-12-17 | 4.54 | 8,286 | 12,727 |
 | 2023-12-18 | 4.54 | 8,337 | 12,787 |
 | 2023-12-19 | 4.54 | 8,406 | 12,888 |
+| 2023-12-20 | 4.54 | 8,406 | 12,893 |

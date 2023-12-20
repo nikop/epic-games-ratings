@@ -7935,9 +7935,9 @@
       "ID": "achievement_04_08",
       "SetID": "4f1m94d",
       "Name": "Trigger-Happy",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 6491
+      "UsersEstimate": 6567
     },
     {
       "ID": "achievement_04_09",
@@ -7960,8 +7960,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-12-15T14:57:21.0131466+00:00",
-  "LastChanged_Achievements": "2023-12-20T08:05:54.4822671+00:00",
+  "LastChanged_Achievements": "2023-12-20T09:06:22.6767497+00:00",
   "LastUpdate_AppInfo": "2023-12-14T22:57:19.0822196+00:00",
-  "LastUpdate_Ratings": "2023-12-20T07:59:22.2574584+00:00",
-  "LastUpdate_Achievements": "2023-12-20T08:05:54.4823234+00:00"
+  "LastUpdate_Ratings": "2023-12-20T08:59:57.1501315+00:00",
+  "LastUpdate_Achievements": "2023-12-20T09:06:22.6768227+00:00"
 }

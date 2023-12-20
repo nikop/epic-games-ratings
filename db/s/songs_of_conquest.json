@@ -6,9 +6,9 @@
   "Ranking_Popularity": 521,
   "Ranking_PopularitySum": 412,
   "Ranking_EOS_Progress": 318,
-  "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_Completed": 385,
+  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 580,
+  "EOS_Progressed": 581,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2353,6 +2353,11 @@
       "Time": "2023-12-20T08:08:29.3371685+00:00",
       "NumProgressed": 580,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T09:08:47.2648786+00:00",
+      "NumProgressed": 581,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2509,7 +2514,7 @@
       "Name": "Double Kill",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "FlameAttackKillCount",
@@ -2603,9 +2608,9 @@
       "ID": "QuickRetaliationDeath",
       "SetID": "71c0n9i",
       "Name": "Whoops!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 29
     },
     {
       "ID": "RanaCampaign",
@@ -2701,7 +2706,7 @@
       "Name": "Veteran",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "WielderLevel3",
@@ -2796,15 +2801,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 580,
+      "Progressed": 581,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-20T08:08:29.3371681+00:00",
+  "LastChanged_Achievements": "2023-12-20T09:08:47.2648782+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:10.4027668+00:00",
-  "LastUpdate_Ratings": "2023-12-20T07:57:37.0350373+00:00",
-  "LastUpdate_Achievements": "2023-12-20T08:08:29.3372228+00:00"
+  "LastUpdate_Ratings": "2023-12-20T08:58:08.2289824+00:00",
+  "LastUpdate_Achievements": "2023-12-20T09:08:47.2649224+00:00"
 }

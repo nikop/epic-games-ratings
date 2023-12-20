@@ -6,9 +6,9 @@
   "Ranking_Popularity": 462,
   "Ranking_PopularitySum": 434,
   "Ranking_EOS_Progress": 203,
-  "Ranking_EOS_Completed": 384,
+  "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -937,7 +937,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4069,
+  "EOS_Progressed": 4070,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
@@ -7392,6 +7392,11 @@
       "Time": "2023-12-20T06:04:31.1021539+00:00",
       "NumProgressed": 4069,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T09:04:12.0514286+00:00",
+      "NumProgressed": 4070,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -7452,7 +7457,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 2197
+      "UsersEstimate": 2198
     },
     {
       "ID": "achievement_16",
@@ -7468,7 +7473,7 @@
       "Name": "Pocket Ace",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "achievement_18",
@@ -7524,7 +7529,7 @@
       "Name": "Lockdown Corner",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "achievement_5",
@@ -7548,7 +7553,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "achievement_8",
@@ -7564,14 +7569,14 @@
       "Name": "Head-to-Head",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     }
   ],
   "AchievementSets": [
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4069,
+      "Progressed": 4070,
       "Completed": 0
     }
   ],
@@ -7579,8 +7584,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-12-19T13:02:18.1227826+00:00",
-  "LastChanged_Achievements": "2023-12-20T08:03:46.4958766+00:00",
+  "LastChanged_Achievements": "2023-12-20T09:04:12.0514283+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:51.9510539+00:00",
-  "LastUpdate_Ratings": "2023-12-20T07:57:27.8046777+00:00",
-  "LastUpdate_Achievements": "2023-12-20T08:03:46.4959189+00:00"
+  "LastUpdate_Ratings": "2023-12-20T08:57:58.78501+00:00",
+  "LastUpdate_Achievements": "2023-12-20T09:04:12.0514786+00:00"
 }

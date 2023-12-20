@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Mathematic | 86.00% | ~120 |
-| It's Yours, My Friend | 73.00% | ~101 |
-| Digging a Hole | 72.00% | ~100 |
+| It's Yours, My Friend | 74.00% | ~103 |
+| Digging a Hole | 73.00% | ~101 |
 | Going Places | 67.00% | ~93 |
 | Conducted Trade | 65.00% | ~90 |
 | Aristocratic | 62.00% | ~86 |
@@ -16,9 +16,9 @@
 | Systematic | 37.00% | ~51 |
 | Mine Sweeper | 35.00% | ~49 |
 | Roll Out | 33.00% | ~46 |
-| Dopa-Miner | 25.00% | ~35 |
+| Dopa-Miner | 26.00% | ~36 |
+| Whoa! | 25.00% | ~35 |
 | Up, Up And Away! | 24.00% | ~33 |
-| Whoa! | 24.00% | ~33 |
 | Botropolis | 22.00% | ~31 |
 | Steaming Rich | 18.00% | ~25 |
 | Steam Powered | 16.00% | ~22 |
@@ -34,7 +34,7 @@
 | Nothing But Road | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 139 (Ranked 424)  
-Completed: 0 (0.00%) (Ranked 384)  
+Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

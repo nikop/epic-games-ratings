@@ -6,9 +6,9 @@
   "Ranking_Popularity": 480,
   "Ranking_PopularitySum": 450,
   "Ranking_EOS_Progress": 191,
-  "Ranking_EOS_Completed": 294,
+  "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -567,9 +567,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5884,
+  "EOS_Progressed": 5886,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 296,
+  "EOS_NewPlayers": 298,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8542,6 +8542,11 @@
       "Time": "2023-12-20T05:05:49.4115397+00:00",
       "NumProgressed": 5884,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-20T09:05:12.8902916+00:00",
+      "NumProgressed": 5886,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -8591,9 +8596,9 @@
       "ID": "14",
       "SetID": "3aa2279",
       "Name": "Full Ascension",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 235
+      "UsersEstimate": 177
     },
     {
       "ID": "15",
@@ -8791,9 +8796,9 @@
       "ID": "37",
       "SetID": "3aa2279",
       "Name": "Against the Odds",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 59
     },
     {
       "ID": "38",
@@ -9032,13 +9037,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5884,
+      "Progressed": 5886,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5884,
+      "Progressed": 5886,
       "Completed": 7
     }
   ],
@@ -9046,8 +9051,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-20T07:59:25.4319145+00:00",
-  "LastChanged_Achievements": "2023-12-20T08:04:46.3220482+00:00",
+  "LastChanged_Achievements": "2023-12-20T09:05:12.8902914+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.6868317+00:00",
-  "LastUpdate_Ratings": "2023-12-20T07:59:25.431915+00:00",
-  "LastUpdate_Achievements": "2023-12-20T08:04:46.3221315+00:00"
+  "LastUpdate_Ratings": "2023-12-20T09:00:00.4037796+00:00",
+  "LastUpdate_Achievements": "2023-12-20T09:05:12.8903648+00:00"
 }

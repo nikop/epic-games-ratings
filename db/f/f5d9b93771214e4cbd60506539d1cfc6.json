@@ -6,9 +6,9 @@
   "Ranking_Popularity": 567,
   "Ranking_PopularitySum": 567,
   "Ranking_EOS_Progress": 80,
-  "Ranking_EOS_Completed": 262,
+  "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2015-10-16T01:00:00+00:00",
@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 157208,
+  "EOS_Progressed": 157209,
   "EOS_Completed": 363,
-  "EOS_NewPlayers": 887,
+  "EOS_NewPlayers": 888,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -22253,6 +22253,11 @@
       "Time": "2023-12-20T06:08:13.1333466+00:00",
       "NumProgressed": 157208,
       "NumCompleted": 363
+    },
+    {
+      "Time": "2023-12-20T09:08:24.0079765+00:00",
+      "NumProgressed": 157209,
+      "NumCompleted": 363
     }
   ],
   "TotalAchievements": 31,
@@ -22296,7 +22301,7 @@
       "Name": "Last Straw",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 26725
+      "UsersEstimate": 26726
     },
     {
       "ID": "EAwards_13",
@@ -22304,7 +22309,7 @@
       "Name": "Next-gen!!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 9432
+      "UsersEstimate": 9433
     },
     {
       "ID": "EAwards_14",
@@ -22312,7 +22317,7 @@
       "Name": "Do or Do Not",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 61311
+      "UsersEstimate": 61312
     },
     {
       "ID": "EAwards_15",
@@ -22360,7 +22365,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 44018
+      "UsersEstimate": 44019
     },
     {
       "ID": "EAwards_20",
@@ -22511,7 +22516,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 157208,
+      "Progressed": 157209,
       "Completed": 363
     }
   ],
@@ -22519,8 +22524,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-12-16T18:59:03.9912318+00:00",
-  "LastChanged_Achievements": "2023-12-20T08:06:15.8963423+00:00",
+  "LastChanged_Achievements": "2023-12-20T09:08:24.0079761+00:00",
   "LastUpdate_AppInfo": "2023-12-15T07:57:06.2910443+00:00",
-  "LastUpdate_Ratings": "2023-12-20T07:57:01.1771127+00:00",
-  "LastUpdate_Achievements": "2023-12-20T08:06:15.8964854+00:00"
+  "LastUpdate_Ratings": "2023-12-20T08:57:30.9774496+00:00",
+  "LastUpdate_Achievements": "2023-12-20T09:08:24.0080709+00:00"
 }

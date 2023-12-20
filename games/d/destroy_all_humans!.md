@@ -8,8 +8,8 @@ Number of Ratings: 85  (23.09.2022)
 | ---- | ---------- | ----- |
 | Kaijuiced | 70.00% | ~42 |
 | Lie Back and Think of Albion | 62.00% | ~37 |
+| Yettisoned | 55.00% | ~33 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 55.00% | ~33 |
-| Yettisoned | 53.00% | ~32 |
 | I Look Up As I Walk to Takoshima | 50.00% | ~30 |
 | Lobster Blisque | 48.00% | ~29 |
 | Shop Til They Drop | 48.00% | ~29 |
@@ -48,7 +48,7 @@ Number of Ratings: 85  (23.09.2022)
 | Against All Odds | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 60 (Ranked 513)  
-Completed: 0 (0.00%) (Ranked 384)  
+Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

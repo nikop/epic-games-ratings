@@ -2,13 +2,13 @@
   "ID": "15e6680a0c164ee189fcc3eb10398fd6",
   "Name": "Brawlhalla",
   "ProductSlug": "brawlhalla",
-  "Ranking_Rating": 422,
+  "Ranking_Rating": 441,
   "Ranking_Popularity": 201,
   "Ranking_PopularitySum": 146,
   "Ranking_EOS_Progress": 810,
-  "Ranking_EOS_Completed": 384,
+  "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 558,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-11-15T17:00:00+00:00",
     "PcReleaseDate": "2022-10-17T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.59,
   "RatingHistory": [
     {
       "Time": "2022-11-21T06:57:02.0735411+00:00",
@@ -9837,10 +9837,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 4896,
       "NumberOfAwardsMax": 599
+    },
+    {
+      "Time": "2023-12-20T08:57:21.655644+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 4899,
+      "NumberOfAwardsMax": 599
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4896,
+  "NumberOfAwards": 4899,
   "NumberOfAwardsMax": 599,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -9902,7 +9908,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 508
+      "Count": 511
     },
     {
       "Text": "This game has a Competitive Community",
@@ -9929,8 +9935,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-12-20T02:03:05.0596269+00:00",
+  "LastChanged": "2023-12-20T08:57:21.6556439+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:11.8649346+00:00",
-  "LastUpdate_Ratings": "2023-12-20T07:02:40.3285778+00:00",
-  "LastUpdate_Achievements": "2023-12-20T08:09:22.0951402+00:00"
+  "LastUpdate_Ratings": "2023-12-20T08:57:21.6556445+00:00",
+  "LastUpdate_Achievements": "2023-12-20T09:09:42.0403252+00:00"
 }

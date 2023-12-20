@@ -19,7 +19,7 @@ Rating: 4.42 (Ranked 720)
 | Right through the middle | 59.00% | ~1,454 |
 | Facility Manager | 54.00% | ~1,331 |
 | Poor Devil | 54.00% | ~1,331 |
-| Producer | 50.00% | ~1,232 |
+| Producer | 51.00% | ~1,257 |
 | Apprentice | 42.00% | ~1,035 |
 | Bridge Builder | 42.00% | ~1,035 |
 | Going once, going twice, sold | 36.00% | ~887 |
@@ -62,7 +62,7 @@ Rating: 4.42 (Ranked 720)
 | Together we stand | 0.50% | ~12 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,464 (Ranked 224)  
-Completed: 0 (0.00%) (Ranked 384)  
+Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

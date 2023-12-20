@@ -2,13 +2,13 @@
   "ID": "f672c20984f04f69936e6057feefe3d1",
   "Name": "Sunless Sea",
   "ProductSlug": "sunless-sea",
-  "Ranking_Rating": 442,
+  "Ranking_Rating": 441,
   "Ranking_Popularity": 285,
   "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 124,
-  "Ranking_EOS_Completed": 360,
+  "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -786,7 +786,7 @@
   ],
   "EOS_Progressed": 42552,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 438,
+  "EOS_NewPlayers": 437,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -26073,8 +26073,8 @@
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-12-19T20:59:18.2117104+00:00",
-  "LastChanged_Achievements": "2023-12-20T08:03:15.4241451+00:00",
+  "LastChanged_Achievements": "2023-12-20T09:03:40.3198238+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:14.0795156+00:00",
-  "LastUpdate_Ratings": "2023-12-20T07:58:25.8142341+00:00",
-  "LastUpdate_Achievements": "2023-12-20T08:03:15.4243535+00:00"
+  "LastUpdate_Ratings": "2023-12-20T08:58:58.9265256+00:00",
+  "LastUpdate_Achievements": "2023-12-20T09:03:40.3199704+00:00"
 }

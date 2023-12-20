@@ -6,11 +6,11 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 4.00% | ~44,265 |
-| Zealous | 3.00% | ~33,199 |
-| Not half bad | 3.00% | ~33,199 |
-| Skillful | 3.00% | ~33,199 |
-| Make Some Noise | 3.00% | ~33,199 |
+| It wakes | 4.00% | ~44,267 |
+| Zealous | 3.00% | ~33,200 |
+| Not half bad | 3.00% | ~33,200 |
+| Skillful | 3.00% | ~33,200 |
+| Make Some Noise | 3.00% | ~33,200 |
 | The Grand Sacrifice | 2.00% | ~22,133 |
 | No one left behind | 2.00% | ~22,133 |
 | Medic | 2.00% | ~22,133 |
@@ -25,23 +25,23 @@ Number of Ratings: 70,340  (23.09.2022)
 | Resurgence | 2.00% | ~22,133 |
 | Preemptive Strike | 2.00% | ~22,133 |
 | Humanitarian | 2.00% | ~22,133 |
-| Escape Artist | 1.00% | ~11,066 |
-| Agonizing Escape | 1.00% | ~11,066 |
-| Backdoor Escape | 1.00% | ~11,066 |
-| I've got your back | 1.00% | ~11,066 |
-| Perfect Killing | 1.00% | ~11,066 |
-| Apt Killer | 1.00% | ~11,066 |
-| Risk it all | 1.00% | ~11,066 |
-| Vulture | 1.00% | ~11,066 |
-| II | 1.00% | ~11,066 |
-| III | 1.00% | ~11,066 |
-| Engineer | 1.00% | ~11,066 |
-| Wounded Healer | 1.00% | ~11,066 |
-| First to the Punch | 1.00% | ~11,066 |
-| Close Shave | 1.00% | ~11,066 |
-| With Scars to Show | 1.00% | ~11,066 |
-| Lifting The Fog | 1.00% | ~11,066 |
-| Second Act | 1.00% | ~11,066 |
+| Escape Artist | 1.00% | ~11,067 |
+| Agonizing Escape | 1.00% | ~11,067 |
+| Backdoor Escape | 1.00% | ~11,067 |
+| I've got your back | 1.00% | ~11,067 |
+| Perfect Killing | 1.00% | ~11,067 |
+| Apt Killer | 1.00% | ~11,067 |
+| Risk it all | 1.00% | ~11,067 |
+| Vulture | 1.00% | ~11,067 |
+| II | 1.00% | ~11,067 |
+| III | 1.00% | ~11,067 |
+| Engineer | 1.00% | ~11,067 |
+| Wounded Healer | 1.00% | ~11,067 |
+| First to the Punch | 1.00% | ~11,067 |
+| Close Shave | 1.00% | ~11,067 |
+| With Scars to Show | 1.00% | ~11,067 |
+| Lifting The Fog | 1.00% | ~11,067 |
+| Second Act | 1.00% | ~11,067 |
 | Blood on your hands | 0.90% | ~9,960 |
 | Operation: Survival | 0.90% | ~9,960 |
 | Every Last Drop | 0.90% | ~9,960 |
@@ -54,17 +54,17 @@ Number of Ratings: 70,340  (23.09.2022)
 | Unforgettable Getaway | 0.80% | ~8,853 |
 | Old West Oasis | 0.80% | ~8,853 |
 | Classy Act | 0.80% | ~8,853 |
-| Made it out alive! | 0.70% | ~7,746 |
-| Nerves of steel | 0.70% | ~7,746 |
-| Shock Therapy | 0.70% | ~7,746 |
-| All Aboard | 0.70% | ~7,746 |
-| Item of Obsession | 0.70% | ~7,746 |
-| House of Pain | 0.70% | ~7,746 |
-| Holiday Get-Together | 0.70% | ~7,746 |
-| Near-Death Experience | 0.70% | ~7,746 |
-| Cutting Out | 0.70% | ~7,746 |
-| One More Step | 0.70% | ~7,746 |
-| MU/TH/UR Dearest | 0.70% | ~7,746 |
+| Made it out alive! | 0.70% | ~7,747 |
+| Nerves of steel | 0.70% | ~7,747 |
+| Shock Therapy | 0.70% | ~7,747 |
+| All Aboard | 0.70% | ~7,747 |
+| Item of Obsession | 0.70% | ~7,747 |
+| House of Pain | 0.70% | ~7,747 |
+| Holiday Get-Together | 0.70% | ~7,747 |
+| Near-Death Experience | 0.70% | ~7,747 |
+| Cutting Out | 0.70% | ~7,747 |
+| One More Step | 0.70% | ~7,747 |
+| MU/TH/UR Dearest | 0.70% | ~7,747 |
 | A bite for the Entity | 0.60% | ~6,640 |
 | Blood on your face | 0.60% | ~6,640 |
 | Leapfrog | 0.60% | ~6,640 |
@@ -239,8 +239,8 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,107 |
 | Adept Good Guy | 0.10% | ~1,107 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,106,630 (Ranked 13)  
-Completed: 63 (0.01%) (Ranked 360)  
+Progressed: 1,106,663 (Ranked 13)  
+Completed: 63 (0.01%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -483,7 +483,7 @@ Completed: 63 (0.01%) (Ranked 360)
 | 2023-12-17 | 1,102,441 | 63 |
 | 2023-12-18 | 1,104,280 | 63 |
 | 2023-12-19 | 1,106,038 | 63 |
-| 2023-12-20 | 1,106,630 | 63 |
+| 2023-12-20 | 1,106,663 | 63 |
 ## Awards
 Max (Diverse Characters): 38,251  (Ranked 15)  
 Sum: 289,184 (Ranked 12)  

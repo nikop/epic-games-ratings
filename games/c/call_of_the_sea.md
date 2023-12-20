@@ -7,7 +7,7 @@ Rating: 4.40 (Ranked 747)
 | ---- | ---------- | ----- |
 | A Family Heirloom | 80.00% | ~108,054 |
 | 74 miles East of Otaheité | 56.00% | ~75,638 |
-| Interesting... | 42.00% | ~56,728 |
+| Interesting... | 42.00% | ~56,729 |
 | The Everhart Expedition | 40.00% | ~54,027 |
 | Seaside Serenade | 31.00% | ~41,871 |
 | Halfway there | 30.00% | ~40,520 |
@@ -19,10 +19,10 @@ Rating: 4.40 (Ranked 747)
 | Dark Water Ride | 25.00% | ~33,767 |
 | Sunken | 25.00% | ~33,767 |
 | Deep Cut | 24.00% | ~32,416 |
-| FHALGOF'N' | 23.00% | ~31,065 |
+| FHALGOF'N' | 23.00% | ~31,066 |
 | Marsh Cannery | 21.00% | ~28,364 |
 | Greetings from Y'ha-nthlei! | 18.00% | ~24,312 |
-| The only thing I have now | 17.00% | ~22,961 |
+| The only thing I have now | 17.00% | ~22,962 |
 | Not Another Boring Slideshow! | 16.00% | ~21,611 |
 | Naacalvision | 16.00% | ~21,611 |
 | The Norahnomicon | 10.00% | ~13,507 |
@@ -40,7 +40,7 @@ Rating: 4.40 (Ranked 747)
 | Gently down the stream... | 1.00% | ~1,351 |
 | Meta-reference | 1.00% | ~1,351 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,067 (Ranked 83)  
+Progressed: 135,068 (Ranked 83)  
 Completed: 1,199 (0.89%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 1,199 (0.89%) (Ranked 182)
 | 2023-12-17 | 134,729 | 1,195 |
 | 2023-12-18 | 134,876 | 1,198 |
 | 2023-12-19 | 135,021 | 1,199 |
-| 2023-12-20 | 135,067 | 1,199 |
+| 2023-12-20 | 135,068 | 1,199 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

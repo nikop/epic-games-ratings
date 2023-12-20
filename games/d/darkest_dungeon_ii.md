@@ -10,8 +10,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Lost and Found | 5.00% | ~177 |
 | This Belongs in a Museum | 4.00% | ~5,147 |
 | Autodidact | 4.00% | ~5,147 |
-| This guy... again? | 4.00% | ~141 |
-| Bloody Graduation | 4.00% | ~141 |
+| This guy... again? | 4.00% | ~142 |
+| Bloody Graduation | 4.00% | ~142 |
 | Serenity Now! | 3.00% | ~3,860 |
 | Not Today! | 3.00% | ~3,860 |
 | Creep and Sleep | 3.00% | ~3,860 |
@@ -86,8 +86,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,664 (Ranked 85)  
-Completed: 3 (0.00%) (Ranked 384)  
+Progressed: 128,673 (Ranked 85)  
+Completed: 3 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -320,7 +320,7 @@ Completed: 3 (0.00%) (Ranked 384)
 | 2023-12-17 | 128,143 | 3 |
 | 2023-12-18 | 128,398 | 3 |
 | 2023-12-19 | 128,605 | 3 |
-| 2023-12-20 | 128,664 | 3 |
+| 2023-12-20 | 128,673 | 3 |
 ## Awards
 Max (Character Customization): 7,795  (Ranked 50)  
 Sum: 20,813 (Ranked 58)  

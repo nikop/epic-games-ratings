@@ -13,7 +13,7 @@
 | Old movies enjoyer | 77.00% | ~329 |
 | Depressed visitor | 77.00% | ~329 |
 | Neurotrainer – power gainer! | 77.00% | ~329 |
-| Employee of the week | 75.00% | ~320 |
+| Employee of the week | 76.00% | ~325 |
 | Your own amateur gym | 71.00% | ~303 |
 | Run K, run! | 70.00% | ~299 |
 | First defeat | 69.00% | ~295 |

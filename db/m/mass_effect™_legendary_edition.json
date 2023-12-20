@@ -3,7 +3,7 @@
   "Name": "Mass Effect\u2122 Legendary Edition",
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 223,
-  "Ranking_EOS_Completed": 244,
+  "Ranking_EOS_Completed": 245,
   "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2478,
+  "EOS_Progressed": 2479,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 888,
+  "EOS_NewPlayers": 889,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -5453,6 +5453,11 @@
       "Time": "2023-12-20T08:09:46.270945+00:00",
       "NumProgressed": 2478,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-20T09:10:06.7234146+00:00",
+      "NumProgressed": 2479,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-20T19:07:08.0577567+00:00",
@@ -5473,7 +5478,7 @@
       "Name": "Barrier Mastery",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "achievement_100",
@@ -5521,7 +5526,7 @@
       "Name": "Sky High",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "achievement_106",
@@ -5553,7 +5558,7 @@
       "Name": "Hijacker",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "achievement_11",
@@ -5665,7 +5670,7 @@
       "Name": "Paramour II",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "achievement_122",
@@ -5689,7 +5694,7 @@
       "Name": "Recruit",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "achievement_125",
@@ -5775,9 +5780,9 @@
       "ID": "achievement_2",
       "SetID": "b9pe172",
       "Name": "Medal of Heroism",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1140
     },
     {
       "ID": "achievement_20",
@@ -5793,7 +5798,7 @@
       "Name": "Medal of Exploration I",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 1462
+      "UsersEstimate": 1463
     },
     {
       "ID": "achievement_22",
@@ -5801,7 +5806,7 @@
       "Name": "Medal of Exploration II",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "achievement_23",
@@ -5857,7 +5862,7 @@
       "Name": "Asari Ally",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "achievement_3",
@@ -5865,7 +5870,7 @@
       "Name": "Distinguished Service Medal",
       "Percentage": 91,
       "XP": 25,
-      "UsersEstimate": 2255
+      "UsersEstimate": 2256
     },
     {
       "ID": "achievement_30",
@@ -5881,7 +5886,7 @@
       "Name": "Spectre Inductee",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1710
+      "UsersEstimate": 1711
     },
     {
       "ID": "achievement_32",
@@ -5897,7 +5902,7 @@
       "Name": "Search and Rescue",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 1313
+      "UsersEstimate": 1314
     },
     {
       "ID": "achievement_34",
@@ -5921,7 +5926,7 @@
       "Name": "Missing in Action",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "achievement_37",
@@ -5953,7 +5958,7 @@
       "Name": "Council Legion of Merit",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "achievement_40",
@@ -5983,9 +5988,9 @@
       "ID": "achievement_43",
       "SetID": "d252ncf",
       "Name": "Friend or Foe",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 520
+      "UsersEstimate": 496
     },
     {
       "ID": "achievement_44",
@@ -6009,7 +6014,7 @@
       "Name": "The Convict",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "achievement_47",
@@ -6073,7 +6078,7 @@
       "Name": "Cat\u0027s in the Cradle",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "achievement_54",
@@ -6089,7 +6094,7 @@
       "Name": "Doppelganger",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "achievement_56",
@@ -6097,7 +6102,7 @@
       "Name": "Fade Away",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "achievement_57",
@@ -6129,7 +6134,7 @@
       "Name": "Lift Mastery",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "achievement_60",
@@ -6137,7 +6142,7 @@
       "Name": "Treason",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "achievement_61",
@@ -6177,7 +6182,7 @@
       "Name": "Overload Specialist",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "achievement_66",
@@ -6201,7 +6206,7 @@
       "Name": "Agent",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "achievement_69",
@@ -6231,9 +6236,9 @@
       "ID": "achievement_71",
       "SetID": "d252ncf",
       "Name": "Scientist",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 768
+      "UsersEstimate": 793
     },
     {
       "ID": "achievement_72",
@@ -6281,7 +6286,7 @@
       "Name": "Digital Exorcist",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "achievement_78",
@@ -6321,15 +6326,15 @@
       "Name": "Mobilizer",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "achievement_82",
       "SetID": "d252ncf",
       "Name": "World Shaker",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 471
+      "UsersEstimate": 496
     },
     {
       "ID": "achievement_83",
@@ -6353,7 +6358,7 @@
       "Name": "Party Crasher",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "achievement_86",
@@ -6361,7 +6366,7 @@
       "Name": "Hard Target",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "achievement_87",
@@ -6417,7 +6422,7 @@
       "Name": "Fact Finder",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "achievement_93",
@@ -6433,7 +6438,7 @@
       "Name": "Problem Solver",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "achievement_95",
@@ -6480,19 +6485,19 @@
     {
       "ID": "b9pe172",
       "IsBase": true,
-      "Progressed": 2478,
+      "Progressed": 2479,
       "Completed": 8
     },
     {
       "ID": "d252ncf",
       "IsBase": false,
-      "Progressed": 2478,
+      "Progressed": 2479,
       "Completed": 6
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-20T08:09:46.2709446+00:00",
+  "LastChanged_Achievements": "2023-12-20T09:10:06.7234143+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:58.4660143+00:00",
-  "LastUpdate_Ratings": "2023-12-20T08:03:03.0123862+00:00",
-  "LastUpdate_Achievements": "2023-12-20T08:09:46.2710981+00:00"
+  "LastUpdate_Ratings": "2023-12-20T09:03:25.3391693+00:00",
+  "LastUpdate_Achievements": "2023-12-20T09:10:06.7235766+00:00"
 }

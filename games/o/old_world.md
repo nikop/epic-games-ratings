@@ -366,7 +366,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colosseum in Roma | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15,845 (Ranked 157)  
-Completed: 5 (0.03%) (Ranked 344)  
+Completed: 5 (0.03%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 481,
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 195,
-  "Ranking_EOS_Completed": 318,
+  "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -842,9 +842,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5672,
+  "EOS_Progressed": 5674,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 205,
+  "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -11452,6 +11452,11 @@
       "Time": "2023-12-20T05:04:22.110264+00:00",
       "NumProgressed": 5672,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-20T09:04:11.1559855+00:00",
+      "NumProgressed": 5674,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -11496,7 +11501,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 1361
+      "UsersEstimate": 1362
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -11520,7 +11525,7 @@
       "Name": "First Strike",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1135
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -11560,7 +11565,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -11647,15 +11652,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5672,
+      "Progressed": 5674,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-17T11:57:49.7030504+00:00",
-  "LastChanged_Achievements": "2023-12-20T08:03:45.6193735+00:00",
+  "LastChanged_Achievements": "2023-12-20T09:04:11.1559851+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:20.367807+00:00",
-  "LastUpdate_Ratings": "2023-12-20T07:58:38.8862286+00:00",
-  "LastUpdate_Achievements": "2023-12-20T08:03:45.6194538+00:00"
+  "LastUpdate_Ratings": "2023-12-20T08:59:12.5974141+00:00",
+  "LastUpdate_Achievements": "2023-12-20T09:04:11.1560357+00:00"
 }

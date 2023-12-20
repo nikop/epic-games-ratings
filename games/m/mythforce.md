@@ -10,11 +10,11 @@ Number of Ratings: 285  (23.09.2022)
 | Hit 'Em Where It Hurts | 25.00% | ~1,418 |
 | Perk Shard Punch Card | 25.00% | ~1,418 |
 | That'll Leave a Mark | 25.00% | ~1,418 |
-| Debuff Dogpile | 24.00% | ~1,361 |
+| Debuff Dogpile | 24.00% | ~1,362 |
 | Mushroom Madness! | 22.00% | ~1,248 |
-| First Strike | 20.00% | ~1,134 |
+| First Strike | 20.00% | ~1,135 |
 | Spending Spree | 19.00% | ~1,078 |
-| Horder Better Faster Stronger | 17.00% | ~964 |
+| Horder Better Faster Stronger | 17.00% | ~965 |
 | Ten Steps from the Grave | 15.00% | ~851 |
 | Everything Must Go! | 14.00% | ~794 |
 | Next Time on MythForce... | 14.00% | ~794 |
@@ -30,8 +30,8 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.50% | ~28 |
 | Deadalus and Loving It | 0.20% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,672 (Ranked 195)  
-Completed: 4 (0.07%) (Ranked 318)  
+Progressed: 5,674 (Ranked 195)  
+Completed: 4 (0.07%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -188,7 +188,7 @@ Completed: 4 (0.07%) (Ranked 318)
 | 2023-12-17 | 5,611 | 4 |
 | 2023-12-18 | 5,636 | 4 |
 | 2023-12-19 | 5,665 | 4 |
-| 2023-12-20 | 5,672 | 4 |
+| 2023-12-20 | 5,674 | 4 |
 ## Awards
 Max (Great for Beginners): 36  (Ranked 481)  
 Sum: 294 (Ranked 371)  

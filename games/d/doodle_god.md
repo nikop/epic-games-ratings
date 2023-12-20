@@ -17,8 +17,8 @@
 | Creator of Modernity | 17.00% | ~45 |
 | Deity of Darkness | 17.00% | ~45 |
 | Doodle Bar | 17.00% | ~45 |
+| Creator of Magic | 16.00% | ~42 |
 | Half the Kingdom | 16.00% | ~42 |
-| Creator of Magic | 15.00% | ~40 |
 | Heavenly Virtues | 11.00% | ~29 |
 | Salvation! | 10.00% | ~26 |
 | Brilliant Inventor | 8.00% | ~21 |

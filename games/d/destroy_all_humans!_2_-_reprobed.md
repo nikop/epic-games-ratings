@@ -21,7 +21,7 @@ Number of Ratings: 90  (23.09.2022)
 | Perfect Probulator | 13.00% | ~17 |
 | Freshly Squeezed | 12.00% | ~16 |
 | Die Nasty | 12.00% | ~16 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 8.00% | ~11 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 9.00% | ~12 |
 | Dusted | 8.00% | ~11 |
 | Transmitting From Sol-3 | 7.00% | ~9 |
 | Kaijuiced | 7.00% | ~9 |
@@ -52,7 +52,7 @@ Number of Ratings: 90  (23.09.2022)
 | Trans-Siberian Express | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 134 (Ranked 432)  
-Completed: 0 (0.00%) (Ranked 384)  
+Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

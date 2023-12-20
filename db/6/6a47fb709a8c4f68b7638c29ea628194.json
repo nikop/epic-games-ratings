@@ -2,10 +2,10 @@
   "ID": "6a47fb709a8c4f68b7638c29ea628194",
   "Name": "Engine Evolution 2023",
   "ProductSlug": "engine-evolution-2023-7d9eb7",
-  "Ranking_EOS_Progress": 517,
-  "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_Progress": 516,
+  "Ranking_EOS_Completed": 385,
+  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
     "PcReleaseDate": "2023-08-07T10:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 56,
+  "EOS_Progressed": 58,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -102,6 +102,11 @@
       "Time": "2023-12-20T07:08:58.0103942+00:00",
       "NumProgressed": 56,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T09:09:05.0974405+00:00",
+      "NumProgressed": 58,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-03T16:02:20.9417999+00:00",
@@ -160,7 +165,7 @@
       "ID": "FINISHED_1",
       "SetID": "4nk2039",
       "Name": "Greener",
-      "Percentage": 36,
+      "Percentage": 34,
       "XP": 5,
       "UsersEstimate": 20
     },
@@ -200,7 +205,7 @@
       "ID": "FINISHED_RACE_MOTORBIKE_1",
       "SetID": "4nk2039",
       "Name": "One motorbike race",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 5,
       "UsersEstimate": 17
     },
@@ -208,15 +213,15 @@
       "ID": "ONE_LAP",
       "SetID": "4nk2039",
       "Name": "First lap",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "PODIUM_1",
       "SetID": "4nk2039",
       "Name": "Podium finisher",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
       "UsersEstimate": 16
     },
@@ -240,15 +245,15 @@
       "ID": "REGISTER",
       "SetID": "4nk2039",
       "Name": "On the starting grid",
-      "Percentage": 98,
+      "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "RESEARCHED_2",
       "SetID": "4nk2039",
       "Name": "Generation 2",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -320,7 +325,7 @@
       "ID": "WIN_10",
       "SetID": "4nk2039",
       "Name": "Championship contender",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 75,
       "UsersEstimate": 2
     },
@@ -352,7 +357,7 @@
       "ID": "XP_100",
       "SetID": "4nk2039",
       "Name": "Newcomer",
-      "Percentage": 36,
+      "Percentage": 34,
       "XP": 5,
       "UsersEstimate": 20
     },
@@ -393,13 +398,13 @@
     {
       "ID": "4nk2039",
       "IsBase": true,
-      "Progressed": 56,
+      "Progressed": 58,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-09-03T16:02:20.9417998+00:00",
-  "LastChanged_Achievements": "2023-12-20T08:08:46.8479945+00:00",
+  "LastChanged_Achievements": "2023-12-20T09:09:05.0974402+00:00",
   "LastUpdate_AppInfo": "2023-12-17T22:57:03.6262025+00:00",
-  "LastUpdate_Ratings": "2023-12-20T07:59:01.5457054+00:00",
-  "LastUpdate_Achievements": "2023-12-20T08:08:46.848023+00:00"
+  "LastUpdate_Ratings": "2023-12-20T08:59:35.5927827+00:00",
+  "LastUpdate_Achievements": "2023-12-20T09:09:05.0974665+00:00"
 }

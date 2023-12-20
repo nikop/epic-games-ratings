@@ -6,7 +6,7 @@
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 85,
-  "Ranking_EOS_Completed": 384,
+  "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 67,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
@@ -9942,9 +9942,9 @@
       "Count": 1033
     }
   ],
-  "EOS_Progressed": 128664,
+  "EOS_Progressed": 128673,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2121,
+  "EOS_NewPlayers": 2126,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35927,6 +35927,11 @@
       "Time": "2023-12-20T08:09:01.4667435+00:00",
       "NumProgressed": 128664,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-20T09:09:20.829108+00:00",
+      "NumProgressed": 128673,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36482,7 +36487,7 @@
       "Name": "This guy... again?",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -36530,7 +36535,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "quest_complete_crusader",
@@ -36569,21 +36574,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 128664,
+      "Progressed": 128673,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 3533,
+      "Progressed": 3542,
       "Completed": 802
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-20T06:59:09.654724+00:00",
-  "LastChanged_Achievements": "2023-12-20T08:09:01.4667432+00:00",
+  "LastChanged_Achievements": "2023-12-20T09:09:20.8291077+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-20T07:58:56.1939419+00:00",
-  "LastUpdate_Achievements": "2023-12-20T08:09:01.4668952+00:00"
+  "LastUpdate_Ratings": "2023-12-20T08:59:29.998558+00:00",
+  "LastUpdate_Achievements": "2023-12-20T09:09:20.8292628+00:00"
 }

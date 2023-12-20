@@ -5,18 +5,18 @@ Rating: 4.58 (Ranked 455)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 30.00% | ~1,076 |
+| Wakey Wakey | 30.00% | ~1,077 |
 | Sputnik 2049 | 27.00% | ~969 |
 | Infinite Growth... | 26.00% | ~933 |
-| Without Breaking Some Eggs... | 25.00% | ~897 |
+| Without Breaking Some Eggs... | 25.00% | ~898 |
 | Ready for a New World | 18.00% | ~646 |
 | Space Society | 17.00% | ~610 |
 | A Thousand Strong | 17.00% | ~610 |
 | Permanent Redesigns | 15.00% | ~538 |
-| Fully Recycled | 14.00% | ~502 |
-| Ain't Nobody Got Time for That | 14.00% | ~502 |
-| The Ship of Theseus | 14.00% | ~502 |
-| Guy de Borderlands | 13.00% | ~466 |
+| Fully Recycled | 14.00% | ~503 |
+| Ain't Nobody Got Time for That | 14.00% | ~503 |
+| The Ship of Theseus | 14.00% | ~503 |
+| Guy de Borderlands | 13.00% | ~467 |
 | Exceeding Capacity | 12.00% | ~431 |
 | Breaking Protocol | 12.00% | ~431 |
 | Hope Seeker | 12.00% | ~431 |
@@ -30,12 +30,12 @@ Rating: 4.58 (Ranked 455)
 | Access Granted | 6.00% | ~215 |
 | All in Good Health | 6.00% | ~215 |
 | From the Past | 6.00% | ~215 |
-| Oats | 5.00% | ~179 |
-| What They Hide From Us | 5.00% | ~179 |
-| ...  in a finite world | 5.00% | ~179 |
-| BRAWL! | 5.00% | ~179 |
-| Drill-dozer | 5.00% | ~179 |
-| What the Ruins Teach Us | 5.00% | ~179 |
+| Oats | 5.00% | ~180 |
+| What They Hide From Us | 5.00% | ~180 |
+| ...  in a finite world | 5.00% | ~180 |
+| BRAWL! | 5.00% | ~180 |
+| Drill-dozer | 5.00% | ~180 |
+| What the Ruins Teach Us | 5.00% | ~180 |
 | Sustainable Energy | 4.00% | ~144 |
 | In Dolos We Trust | 4.00% | ~144 |
 | Pedal to the Metal | 4.00% | ~144 |
@@ -63,8 +63,8 @@ Rating: 4.58 (Ranked 455)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,588 (Ranked 211)  
-Completed: 0 (0.00%) (Ranked 384)  
+Progressed: 3,590 (Ranked 211)  
+Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -297,7 +297,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-17 | 3,550 | 0 |
 | 2023-12-18 | 3,569 | 0 |
 | 2023-12-19 | 3,586 | 0 |
-| 2023-12-20 | 3,588 | 0 |
+| 2023-12-20 | 3,590 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

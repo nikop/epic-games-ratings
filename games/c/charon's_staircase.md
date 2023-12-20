@@ -16,8 +16,8 @@
 | Lights and shadows | 33.00% | ~28 |
 | The threshold of horror | 31.00% | ~26 |
 | Second document retrieved | 29.00% | ~24 |
+| Deadly chase | 29.00% | ~24 |
 | Third document retrieved | 27.00% | ~23 |
-| Deadly chase | 27.00% | ~23 |
 | Dara's home | 27.00% | ~23 |
 | The lowest floor of the lift | 26.00% | ~22 |
 | Charon's coin | 25.00% | ~21 |

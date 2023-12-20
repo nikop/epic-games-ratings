@@ -3,9 +3,9 @@
   "Name": "RIDE 5",
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 220,
-  "Ranking_EOS_Completed": 384,
+  "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2765,
+  "EOS_Progressed": 2766,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 307,
+  "EOS_NewPlayers": 308,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6757,6 +6757,11 @@
       "Time": "2023-12-20T08:05:27.3786337+00:00",
       "NumProgressed": 2765,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T09:05:54.7668203+00:00",
+      "NumProgressed": 2766,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -6801,7 +6806,7 @@
       "Name": "Restored and Ready",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -6841,7 +6846,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -6857,7 +6862,7 @@
       "Name": "Legendary!!!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -6919,9 +6924,9 @@
       "ID": "ML_ACHIEVEMENT_20",
       "SetID": "c7hf6a4",
       "Name": "The Road to Liberty",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 111
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -6975,9 +6980,9 @@
       "ID": "ML_ACHIEVEMENT_27",
       "SetID": "c7hf6a4",
       "Name": "Clean Race",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1162
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -7160,14 +7165,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2765,
+      "Progressed": 2766,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-20T08:05:27.3786332+00:00",
+  "LastChanged_Achievements": "2023-12-20T09:05:54.7668196+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:35.5257739+00:00",
-  "LastUpdate_Ratings": "2023-12-20T07:58:23.4231769+00:00",
-  "LastUpdate_Achievements": "2023-12-20T08:05:27.3787072+00:00"
+  "LastUpdate_Ratings": "2023-12-20T08:58:56.4399398+00:00",
+  "LastUpdate_Achievements": "2023-12-20T09:05:54.7669001+00:00"
 }

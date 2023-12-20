@@ -3,7 +3,7 @@
   "Name": "STAR WARS\u2122: Squadrons",
   "ProductSlug": "star-wars-squadrons",
   "Ranking_EOS_Progress": 131,
-  "Ranking_EOS_Completed": 360,
+  "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 62,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 31416,
+  "EOS_Progressed": 31420,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 2472,
   "EOS_NewCompleters": 1,
@@ -10839,6 +10839,11 @@
       "Time": "2023-12-20T08:09:45.1708717+00:00",
       "NumProgressed": 31416,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-20T09:10:05.6020826+00:00",
+      "NumProgressed": 31420,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -10851,7 +10856,7 @@
       "Name": "The Galaxy\u0027s Finest (Story Mode)",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 4712
+      "UsersEstimate": 4713
     },
     {
       "ID": "achievement_10",
@@ -10899,7 +10904,7 @@
       "Name": "Begin the Ceremony",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 6283
+      "UsersEstimate": 6284
     },
     {
       "ID": "achievement_16",
@@ -10907,7 +10912,7 @@
       "Name": "Found Your Place",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "achievement_17",
@@ -10931,7 +10936,7 @@
       "Name": "Stronger Together",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "achievement_2",
@@ -10995,7 +11000,7 @@
       "Name": "Squadron Hunter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "achievement_27",
@@ -11059,7 +11064,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 5655
+      "UsersEstimate": 5656
     },
     {
       "ID": "achievement_34",
@@ -11075,7 +11080,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 29845
+      "UsersEstimate": 29849
     },
     {
       "ID": "achievement_36",
@@ -11091,7 +11096,7 @@
       "Name": "Asset Secured",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4084
+      "UsersEstimate": 4085
     },
     {
       "ID": "achievement_38",
@@ -11107,7 +11112,7 @@
       "Name": "Safety in the Storm",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 7226
+      "UsersEstimate": 7227
     },
     {
       "ID": "achievement_4",
@@ -11147,7 +11152,7 @@
       "Name": "Punch It",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "achievement_44",
@@ -11195,7 +11200,7 @@
       "Name": "A Starfighter of Your Own",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4084
+      "UsersEstimate": 4085
     },
     {
       "ID": "achievement_7",
@@ -11211,7 +11216,7 @@
       "Name": "A Better Idea",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 7226
+      "UsersEstimate": 7227
     },
     {
       "ID": "achievement_9",
@@ -11226,7 +11231,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 31416,
+      "Progressed": 31420,
       "Completed": 3
     }
   ],
@@ -11234,8 +11239,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-12-20T08:09:45.1708714+00:00",
+  "LastChanged_Achievements": "2023-12-20T09:10:05.6020823+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:14.4146452+00:00",
-  "LastUpdate_Ratings": "2023-12-20T08:03:02.2255194+00:00",
-  "LastUpdate_Achievements": "2023-12-20T08:09:45.1709415+00:00"
+  "LastUpdate_Ratings": "2023-12-20T09:03:24.5111915+00:00",
+  "LastUpdate_Achievements": "2023-12-20T09:10:05.6021599+00:00"
 }

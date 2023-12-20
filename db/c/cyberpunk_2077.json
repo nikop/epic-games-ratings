@@ -6,7 +6,7 @@
   "Ranking_Popularity": 8,
   "Ranking_PopularitySum": 9,
   "Ranking_EOS_Progress": 16,
-  "Ranking_EOS_Completed": 248,
+  "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 47,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -16886,9 +16886,9 @@
       "Count": 16220
     }
   ],
-  "EOS_Progressed": 978984,
+  "EOS_Progressed": 978989,
   "EOS_Completed": 2945,
-  "EOS_NewPlayers": 3768,
+  "EOS_NewPlayers": 3761,
   "EOS_NewCompleters": 54,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -44691,6 +44691,11 @@
       "Time": "2023-12-20T08:05:25.7115666+00:00",
       "NumProgressed": 978984,
       "NumCompleted": 2945
+    },
+    {
+      "Time": "2023-12-20T09:05:53.006811+00:00",
+      "NumProgressed": 978989,
+      "NumCompleted": 2945
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -44879,7 +44884,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 39159
+      "UsersEstimate": 39160
     },
     {
       "ID": "Specialist",
@@ -44927,7 +44932,7 @@
       "Name": "The Hermit",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 39159
+      "UsersEstimate": 39160
     },
     {
       "ID": "TheHightPriestess",
@@ -44967,7 +44972,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 39159
+      "UsersEstimate": 39160
     },
     {
       "ID": "TheWorld",
@@ -44999,7 +45004,7 @@
       "Name": "True Soldier",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 39159
+      "UsersEstimate": 39160
     },
     {
       "ID": "TrueWarrior",
@@ -45031,7 +45036,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 117478
+      "UsersEstimate": 117479
     },
     {
       "ID": "YipMan",
@@ -45238,21 +45243,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 978984,
+      "Progressed": 978989,
       "Completed": 2945
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 107607,
+      "Progressed": 107612,
       "Completed": 10422
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-12-20T03:02:52.9469072+00:00",
-  "LastChanged_Achievements": "2023-12-20T08:05:25.7115662+00:00",
+  "LastChanged_Achievements": "2023-12-20T09:05:53.0068107+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:11.4044836+00:00",
-  "LastUpdate_Ratings": "2023-12-20T08:02:53.314785+00:00",
-  "LastUpdate_Achievements": "2023-12-20T08:05:25.7117502+00:00"
+  "LastUpdate_Ratings": "2023-12-20T09:03:15.4428512+00:00",
+  "LastUpdate_Achievements": "2023-12-20T09:05:53.0069806+00:00"
 }

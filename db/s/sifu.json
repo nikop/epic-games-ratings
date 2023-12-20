@@ -5,7 +5,7 @@
   "Ranking_Rating": 70,
   "Ranking_Popularity": 55,
   "Ranking_PopularitySum": 84,
-  "Ranking_EOS_Progress": 24,
+  "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 140,
   "Ranking_EOS_NewPlayers": 15,
   "Ranking_EOS_NewCompleters": 44,
@@ -8361,9 +8361,9 @@
       "Count": 434
     }
   ],
-  "EOS_Progressed": 736656,
+  "EOS_Progressed": 736717,
   "EOS_Completed": 12958,
-  "EOS_NewPlayers": 18658,
+  "EOS_NewPlayers": 18717,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.76,
   "EosHistory": [
@@ -30116,6 +30116,11 @@
       "Time": "2023-12-20T08:08:38.2390647+00:00",
       "NumProgressed": 736656,
       "NumCompleted": 12958
+    },
+    {
+      "Time": "2023-12-20T09:08:56.3529511+00:00",
+      "NumProgressed": 736717,
+      "NumCompleted": 12958
     }
   ],
   "TotalAchievements": 60,
@@ -30127,7 +30132,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22100
+      "UsersEstimate": 22102
     },
     {
       "ID": "02_Vengeance_H1",
@@ -30135,7 +30140,7 @@
       "Name": "The Assault",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14733
+      "UsersEstimate": 14734
     },
     {
       "ID": "03_Vengeance_H2",
@@ -30303,7 +30308,7 @@
       "Name": "Life is your teacher",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22100
+      "UsersEstimate": 22102
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -30319,7 +30324,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5893
+      "UsersEstimate": 5894
     },
     {
       "ID": "26_ShrineSpirit",
@@ -30391,7 +30396,7 @@
       "Name": "Lightning Hands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14733
+      "UsersEstimate": 14734
     },
     {
       "ID": "35_WideStrike",
@@ -30439,7 +30444,7 @@
       "Name": "Take damage to save time",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5893
+      "UsersEstimate": 5894
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -30606,21 +30611,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 45957,
+      "Progressed": 46018,
       "Completed": 10776
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 736656,
+      "Progressed": 736717,
       "Completed": 12958
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-20T01:32:54.5847871+00:00",
-  "LastChanged_Achievements": "2023-12-20T08:08:38.2390644+00:00",
+  "LastChanged_Achievements": "2023-12-20T09:08:56.3529505+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:50.1499922+00:00",
-  "LastUpdate_Ratings": "2023-12-20T08:02:49.1111179+00:00",
-  "LastUpdate_Achievements": "2023-12-20T08:08:38.2392271+00:00"
+  "LastUpdate_Ratings": "2023-12-20T09:03:10.9762638+00:00",
+  "LastUpdate_Achievements": "2023-12-20T09:08:56.3530993+00:00"
 }

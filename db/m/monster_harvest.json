@@ -2,9 +2,9 @@
   "ID": "5c744d37f3a24e81aaee7eac20e19f0d",
   "Name": "Monster Harvest",
   "ProductSlug": "monster-harvest-75f018",
-  "Ranking_EOS_Progress": 369,
+  "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewPlayers": 356,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-11-03T14:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 306,
+  "EOS_Progressed": 307,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.27,
+  "EOS_Completed_Percentage": 3.26,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:24.8770575+00:00",
@@ -465,6 +465,11 @@
       "Time": "2023-12-19T22:09:28.047402+00:00",
       "NumProgressed": 306,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-20T09:09:39.6458123+00:00",
+      "NumProgressed": 307,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 10,
@@ -506,9 +511,9 @@
       "ID": "MY_FIRST_PLANIMAL",
       "SetID": "ca3djk0",
       "Name": "My first Planimal!",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 100,
-      "UsersEstimate": 214
+      "UsersEstimate": 212
     },
     {
       "ID": "RED_SLIME_TIME",
@@ -516,7 +521,7 @@
       "Name": "Red Slime Time",
       "Percentage": 66,
       "XP": 100,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "SAVE_THE_SLIMES",
@@ -548,14 +553,14 @@
       "Name": "Welcome To Planimal Point",
       "Percentage": 96,
       "XP": 100,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     }
   ],
   "AchievementSets": [
     {
       "ID": "ca3djk0",
       "IsBase": true,
-      "Progressed": 306,
+      "Progressed": 307,
       "Completed": 10
     }
   ],
@@ -563,8 +568,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.9307508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.8770583+00:00",
   "LastChanged": "2023-03-31T05:58:23.9307509+00:00",
-  "LastChanged_Achievements": "2023-12-20T08:09:19.7174872+00:00",
+  "LastChanged_Achievements": "2023-12-20T09:09:39.6458119+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:48.5922633+00:00",
-  "LastUpdate_Ratings": "2023-12-20T08:02:46.8988858+00:00",
-  "LastUpdate_Achievements": "2023-12-20T08:09:19.7174977+00:00"
+  "LastUpdate_Ratings": "2023-12-20T09:03:08.6482021+00:00",
+  "LastUpdate_Achievements": "2023-12-20T09:09:39.6458337+00:00"
 }

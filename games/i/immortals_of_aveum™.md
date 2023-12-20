@@ -1,23 +1,23 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.22 (Ranked 916)  
+Rating: 4.22 (Ranked 917)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~1,178 |
-| Battlefields Have Memories | 79.00% | ~1,058 |
+| Unforeseen | 88.00% | ~1,179 |
+| Battlefields Have Memories | 79.00% | ~1,059 |
 | Enlisted | 71.00% | ~951 |
 | Maybe Engage a Little | 66.00% | ~884 |
-| No More Names | 47.00% | ~629 |
+| No More Names | 47.00% | ~630 |
 | Initiate | 33.00% | ~442 |
-| Thrada-Kul | 29.00% | ~388 |
-| Socialite | 22.00% | ~295 |
+| Thrada-Kul | 29.00% | ~389 |
 | Gravity-Challenged Rocks | 22.00% | ~295 |
+| Socialite | 21.00% | ~281 |
 | Soldier | 18.00% | ~241 |
 | All the Major Food Groups | 17.00% | ~228 |
 | Beggars Would Ride | 16.00% | ~214 |
-| Control is an Illusion | 14.00% | ~187 |
+| Control is an Illusion | 14.00% | ~188 |
 | The Means to Save It | 12.00% | ~161 |
 | Resilience to Sin | 10.00% | ~134 |
 | A Familiar Nest | 10.00% | ~134 |
@@ -53,8 +53,8 @@ Rating: 4.22 (Ranked 916)
 | Family Business | 0.20% | ~3 |
 | Fowl Play | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,339 (Ranked 254)  
-Completed: 2 (0.15%) (Ranked 287)  
+Progressed: 1,340 (Ranked 254)  
+Completed: 2 (0.15%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -136,7 +136,7 @@ Completed: 2 (0.15%) (Ranked 287)
 | 2023-12-17 | 1,065 | 2 |
 | 2023-12-18 | 1,195 | 2 |
 | 2023-12-19 | 1,301 | 2 |
-| 2023-12-20 | 1,339 | 2 |
+| 2023-12-20 | 1,340 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
