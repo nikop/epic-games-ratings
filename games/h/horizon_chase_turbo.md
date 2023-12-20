@@ -1,32 +1,32 @@
 # Horizon Chase Turbo
 [Store](https://store.epicgames.com/en-US/p/horizon-chase-turbo)  
 [View Rawdata](../../db/h/horizon_chase_turbo.json)  
-Rating: 4.54 (Ranked 531)  
+Rating: 4.54 (Ranked 532)  
 Number of Ratings: 1,343  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~980,963 |
-| I Need a Bigger Garage | 63.00% | ~686,674 |
-| Pump my Ride | 47.00% | ~512,281 |
-| Ghostbuster | 34.00% | ~370,586 |
-| Call Roadside Assistance | 18.00% | ~196,193 |
-| That Was Close | 18.00% | ~196,193 |
-| Quickie | 11.00% | ~119,895 |
-| California Dreamer | 7.00% | ~76,297 |
-| Can't Touch This | 5.00% | ~54,498 |
-| Carménère Taster | 4.00% | ~43,598 |
-| Comeback | 4.00% | ~43,598 |
-| Driver from Ipanema | 3.00% | ~32,699 |
-| Supersonic | 3.00% | ~32,699 |
-| Marathonist | 3.00% | ~32,699 |
-| Living Legend | 3.00% | ~32,699 |
-| God of Roads | 2.00% | ~21,799 |
-| Pathfinder | 2.00% | ~21,799 |
-| Go-Kart Champion | 2.00% | ~21,799 |
-| Round the Globe | 2.00% | ~21,799 |
-| Completionist | 2.00% | ~21,799 |
-| Harder, Better, Faster, Stronger | 2.00% | ~21,799 |
+| The First of Many | 90.00% | ~980,987 |
+| I Need a Bigger Garage | 63.00% | ~686,691 |
+| Pump my Ride | 47.00% | ~512,293 |
+| Ghostbuster | 34.00% | ~370,595 |
+| Call Roadside Assistance | 18.00% | ~196,197 |
+| That Was Close | 18.00% | ~196,197 |
+| Quickie | 11.00% | ~119,898 |
+| California Dreamer | 7.00% | ~76,299 |
+| Can't Touch This | 5.00% | ~54,499 |
+| Carménère Taster | 4.00% | ~43,599 |
+| Comeback | 4.00% | ~43,599 |
+| Driver from Ipanema | 3.00% | ~32,700 |
+| Supersonic | 3.00% | ~32,700 |
+| Marathonist | 3.00% | ~32,700 |
+| Living Legend | 3.00% | ~32,700 |
+| God of Roads | 2.00% | ~21,800 |
+| Pathfinder | 2.00% | ~21,800 |
+| Go-Kart Champion | 2.00% | ~21,800 |
+| Round the Globe | 2.00% | ~21,800 |
+| Completionist | 2.00% | ~21,800 |
+| Harder, Better, Faster, Stronger | 2.00% | ~21,800 |
 | Crocodile Hunter | 1.00% | ~10,900 |
 | The Iceman | 1.00% | ~10,900 |
 | Bollywood Star | 1.00% | ~10,900 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Look Mom, No Hands! | 0.20% | ~2,180 |
 | Transporter | 0.10% | ~1,090 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,089,959 (Ranked 14)  
+Progressed: 1,089,986 (Ranked 14)  
 Completed: 511 (0.05%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 511 (0.05%) (Ranked 332)
 | 2023-12-17 | 1,088,771 | 510 |
 | 2023-12-18 | 1,089,170 | 510 |
 | 2023-12-19 | 1,089,602 | 510 |
-| 2023-12-20 | 1,089,959 | 511 |
+| 2023-12-20 | 1,089,986 | 511 |
 ## Awards
 Max (Great for Beginners): 178  (Ranked 306)  
 Sum: 1,593 (Ranked 235)  

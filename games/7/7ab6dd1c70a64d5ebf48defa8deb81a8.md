@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | Break Out | 51.00% | ~466 |
 | Trinity | 22.00% | ~201 |
+| A Taste of Wrath | 18.00% | ~164 |
 | I Found It | 18.00% | ~164 |
 | Find Allies | 17.00% | ~155 |
-| A Taste of Wrath | 17.00% | ~155 |
 | The Collector | 17.00% | ~155 |
 | Shatter Them All | 16.00% | ~146 |
 | Geared Up | 16.00% | ~146 |
@@ -19,7 +19,7 @@
 | Stone Collection | 13.00% | ~119 |
 | Powerful Allies | 12.00% | ~110 |
 | Big Bazar | 9.00% | ~82 |
-| Essence Blow | 7.00% | ~64 |
+| Essence Blow | 8.00% | ~73 |
 | The Mentor | 6.00% | ~55 |
 | Alchemist | 6.00% | ~55 |
 | Calm before the Storm | 5.00% | ~46 |
@@ -36,9 +36,9 @@
 | All There Is | 1.00% | ~9 |
 | False God | 1.00% | ~9 |
 | Summiter | 0.80% | ~7 |
+| Forgemaster | 0.70% | ~6 |
 | Shardbearer | 0.70% | ~6 |
-| Forgemaster | 0.50% | ~5 |
-| All That Gold | 0.50% | ~5 |
+| All That Gold | 0.70% | ~6 |
 | Feeling Fancy | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 913 (Ranked 281)  

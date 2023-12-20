@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1159,
+  "EOS_Progressed": 1161,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3044,6 +3044,11 @@
       "Time": "2023-12-20T17:10:13.412734+00:00",
       "NumProgressed": 1159,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T18:10:35.1182686+00:00",
+      "NumProgressed": 1161,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3053,9 +3058,9 @@
       "ID": "AMMO_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "This Isn\u0027t The Last Box",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 800
+      "UsersEstimate": 789
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -3071,7 +3076,7 @@
       "Name": "FULLCLIP",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
@@ -3079,7 +3084,7 @@
       "Name": "Out Of Stock",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ATKM_ACHIEVEMENT_1",
@@ -3095,7 +3100,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -3103,7 +3108,7 @@
       "Name": "Goat Whisperer",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "ATK_ACHIEVEMENT_3",
@@ -3127,7 +3132,7 @@
       "Name": "Capraphobia",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -3183,7 +3188,7 @@
       "Name": "Where There\u0027s Smoke There\u0027s Fire",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "BURN_ACHIEVEMENT_3",
@@ -3271,7 +3276,7 @@
       "Name": "Fire Alarm",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "FREEB_ACHIEVEMENT_1",
@@ -3295,7 +3300,7 @@
       "Name": "Where Is Houdini?",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "FREE_ACHIEVEMENT_1",
@@ -3327,7 +3332,7 @@
       "Name": "Pest Control or Taxonomist?",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "KILLR_ACHIEVEMENT_1",
@@ -3335,7 +3340,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 637
+      "UsersEstimate": 639
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -3343,7 +3348,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -3375,7 +3380,7 @@
       "Name": "And There We Go",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -3407,7 +3412,7 @@
       "Name": "Leecher Hunting Season",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "LEECHER_ACHIEVEMENT_1",
@@ -3415,7 +3420,7 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -3431,7 +3436,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -3461,9 +3466,9 @@
       "ID": "MEAT_ACHIEVEMENT_3",
       "SetID": "9lcahn0",
       "Name": "Ancestral Banquet",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 81
     },
     {
       "ID": "NOTEM_ACHIEVEMENT_1",
@@ -3479,7 +3484,7 @@
       "Name": "Buy A Book",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "OUT_ACHIEVEMENT_1",
@@ -3582,14 +3587,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1159,
+      "Progressed": 1161,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-12-20T17:10:13.4127336+00:00",
+  "LastChanged_Achievements": "2023-12-20T18:10:35.1182679+00:00",
   "LastUpdate_AppInfo": "2023-12-15T02:21:08.9329051+00:00",
-  "LastUpdate_Ratings": "2023-12-20T17:00:11.5062767+00:00",
-  "LastUpdate_Achievements": "2023-12-20T17:10:13.4127971+00:00"
+  "LastUpdate_Ratings": "2023-12-20T18:00:42.7151585+00:00",
+  "LastUpdate_Achievements": "2023-12-20T18:10:35.1183234+00:00"
 }

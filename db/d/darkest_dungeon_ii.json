@@ -9960,9 +9960,9 @@
       "Count": 1033
     }
   ],
-  "EOS_Progressed": 128734,
+  "EOS_Progressed": 128745,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2129,
+  "EOS_NewPlayers": 2127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35990,6 +35990,11 @@
       "Time": "2023-12-20T17:09:23.0541354+00:00",
       "NumProgressed": 128734,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-20T18:09:39.4998036+00:00",
+      "NumProgressed": 128745,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36129,7 +36134,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5149
+      "UsersEstimate": 5150
     },
     {
       "ID": "combat_kill_cadavers",
@@ -36353,7 +36358,7 @@
       "Name": "Autodidact",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5149
+      "UsersEstimate": 5150
     },
     {
       "ID": "hero_story_complete_all",
@@ -36471,9 +36476,9 @@
       "ID": "run_victory_act03",
       "SetID": "64l4lke",
       "Name": "Eyes Up",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1159
     },
     {
       "ID": "run_victory_act04",
@@ -36537,7 +36542,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "combat_kill_collector",
@@ -36545,7 +36550,7 @@
       "Name": "This guy... again?",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -36593,7 +36598,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "quest_complete_crusader",
@@ -36601,7 +36606,7 @@
       "Name": "Lost and Found",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -36615,9 +36620,9 @@
       "ID": "run_victory_any_ves_pd_hwy_cru",
       "SetID": "d3bcpc8",
       "Name": "For Old Time\u0027 Sake",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 29
     },
     {
       "ID": "run_victory_final_boss_hwy_cru",
@@ -36632,21 +36637,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 128734,
+      "Progressed": 128745,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 3603,
+      "Progressed": 3614,
       "Completed": 802
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-20T16:59:35.1528366+00:00",
-  "LastChanged_Achievements": "2023-12-20T17:09:23.0541349+00:00",
+  "LastChanged_Achievements": "2023-12-20T18:09:39.4998031+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-20T16:59:35.1528374+00:00",
-  "LastUpdate_Achievements": "2023-12-20T17:09:23.0543416+00:00"
+  "LastUpdate_Ratings": "2023-12-20T17:59:59.3404282+00:00",
+  "LastUpdate_Achievements": "2023-12-20T18:09:39.4999833+00:00"
 }

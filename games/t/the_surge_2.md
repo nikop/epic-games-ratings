@@ -5,7 +5,7 @@ Rating: 4.26 (Ranked 885)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 79.00% | ~1,826 |
+| Rigged And Ready | 80.00% | ~1,849 |
 | Don't I Know You...? | 76.00% | ~1,756 |
 | Jailbreak | 66.00% | ~1,525 |
 | HEADSHOT! | 38.00% | ~878 |

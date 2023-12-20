@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 434,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -937,7 +937,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4072,
+  "EOS_Progressed": 4073,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
@@ -7407,6 +7407,11 @@
       "Time": "2023-12-20T16:04:02.1857745+00:00",
       "NumProgressed": 4072,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T18:04:36.5458629+00:00",
+      "NumProgressed": 4073,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -7451,7 +7456,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 2158
+      "UsersEstimate": 2159
     },
     {
       "ID": "achievement_14",
@@ -7507,7 +7512,7 @@
       "Name": "Unblockable",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "achievement_20",
@@ -7563,7 +7568,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 1262
+      "UsersEstimate": 1263
     },
     {
       "ID": "achievement_8",
@@ -7586,7 +7591,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4072,
+      "Progressed": 4073,
       "Completed": 0
     }
   ],
@@ -7594,8 +7599,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-12-19T13:02:18.1227826+00:00",
-  "LastChanged_Achievements": "2023-12-20T17:04:16.7039392+00:00",
+  "LastChanged_Achievements": "2023-12-20T18:04:36.5458624+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:51.9510539+00:00",
-  "LastUpdate_Ratings": "2023-12-20T16:58:03.4242932+00:00",
-  "LastUpdate_Achievements": "2023-12-20T17:04:16.7039987+00:00"
+  "LastUpdate_Ratings": "2023-12-20T17:58:12.4996404+00:00",
+  "LastUpdate_Achievements": "2023-12-20T18:04:36.5459077+00:00"
 }

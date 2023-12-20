@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -2887,9 +2887,9 @@
       "ID": "Excellent",
       "SetID": "1n308hc",
       "Name": "Excellent",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 85
     },
     {
       "ID": "FloodedValley",
@@ -3023,9 +3023,9 @@
       "ID": "Overload",
       "SetID": "1n308hc",
       "Name": "Overload",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 254
     },
     {
       "ID": "Persistent",
@@ -3055,9 +3055,9 @@
       "ID": "RemnantsOfThePast",
       "SetID": "1n308hc",
       "Name": "Remnants of the Past",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 254
+      "UsersEstimate": 265
     },
     {
       "ID": "RenaissanceRobot",
@@ -3248,8 +3248,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-20T17:05:07.4730259+00:00",
+  "LastChanged_Achievements": "2023-12-20T18:05:33.71788+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-20T16:59:44.9204863+00:00",
-  "LastUpdate_Achievements": "2023-12-20T17:05:07.4730847+00:00"
+  "LastUpdate_Ratings": "2023-12-20T18:00:11.0035431+00:00",
+  "LastUpdate_Achievements": "2023-12-20T18:05:33.7179259+00:00"
 }

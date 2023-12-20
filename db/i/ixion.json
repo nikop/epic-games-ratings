@@ -311,9 +311,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3600,
+  "EOS_Progressed": 3601,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6746,6 +6746,11 @@
       "Time": "2023-12-20T17:03:55.4343558+00:00",
       "NumProgressed": 3600,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T18:04:12.5475945+00:00",
+      "NumProgressed": 3601,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -6987,9 +6992,9 @@
       "ID": "ACH_BASE_38",
       "SetID": "92iocjf",
       "Name": "You Had One Job...",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_BASE_4",
@@ -7212,13 +7217,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1784,
+      "Progressed": 1785,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3600,
+      "Progressed": 3601,
       "Completed": 0
     }
   ],
@@ -7226,8 +7231,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-10T20:59:24.4447628+00:00",
-  "LastChanged_Achievements": "2023-12-20T17:03:55.4343554+00:00",
+  "LastChanged_Achievements": "2023-12-20T18:04:12.547594+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.6786359+00:00",
-  "LastUpdate_Ratings": "2023-12-20T17:00:15.8198864+00:00",
-  "LastUpdate_Achievements": "2023-12-20T17:03:55.4344334+00:00"
+  "LastUpdate_Ratings": "2023-12-20T18:00:47.9258679+00:00",
+  "LastUpdate_Achievements": "2023-12-20T18:04:12.5476794+00:00"
 }

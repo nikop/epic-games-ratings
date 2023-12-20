@@ -6,42 +6,42 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~30,868 |
-| The Evilest Evil | 59.00% | ~26,017 |
-| Twistram is devastated | 58.00% | ~25,576 |
-| The Gehenna Stones | 50.00% | ~22,048 |
-| No one has to die today! | 47.00% | ~20,726 |
-| Death and destruction! | 46.00% | ~20,285 |
-| The Swamplanders from the swamplands | 44.00% | ~19,403 |
-| The One-Huge-Army-Building Evil | 41.00% | ~18,080 |
-| Rusty Steel | 41.00% | ~18,080 |
-| Braiiiiins! | 38.00% | ~16,757 |
-| The last burger | 37.00% | ~16,316 |
-| Hands off the Dungeonheart! | 36.00% | ~15,875 |
-| A trip on sea, what fun it can be | 34.00% | ~14,993 |
-| Damned good | 33.00% | ~14,552 |
-| Stock Market Crash | 31.00% | ~13,670 |
-| Factory farming | 31.00% | ~13,670 |
-| Shadow hunter | 30.00% | ~13,229 |
-| Not-So-Overproud | 30.00% | ~13,229 |
-| For a handfull of Catapults | 28.00% | ~12,347 |
-| Thirst quencher | 27.00% | ~11,906 |
-| Ogre Solo! | 27.00% | ~11,906 |
-| Destroy the thing | 26.00% | ~11,465 |
-| Tide Master | 26.00% | ~11,465 |
-| Difficult family relationships | 25.00% | ~11,024 |
-| MASS-O-BOT | 24.00% | ~10,583 |
-| Prepare the grave | 24.00% | ~10,583 |
-| Angel of Fire | 24.00% | ~10,583 |
-| Where there is Light, there is Shadow | 23.00% | ~10,142 |
-| At the foot of Mount Destiny | 22.00% | ~9,701 |
-| The Force disturbed | 21.00% | ~9,260 |
-| The Victorious Evil | 20.00% | ~8,819 |
-| Chorus of damnation | 19.00% | ~8,378 |
-| We don’t have time! | 19.00% | ~8,378 |
-| The Stones’ Power | 18.00% | ~7,937 |
-| Flat as a pancake | 17.00% | ~7,496 |
-| Lifeguard | 17.00% | ~7,496 |
+| The Shadow strikes | 70.00% | ~30,872 |
+| The Evilest Evil | 59.00% | ~26,021 |
+| Twistram is devastated | 58.00% | ~25,580 |
+| The Gehenna Stones | 50.00% | ~22,052 |
+| No one has to die today! | 47.00% | ~20,728 |
+| Death and destruction! | 46.00% | ~20,287 |
+| The Swamplanders from the swamplands | 44.00% | ~19,405 |
+| The One-Huge-Army-Building Evil | 41.00% | ~18,082 |
+| Rusty Steel | 41.00% | ~18,082 |
+| Braiiiiins! | 38.00% | ~16,759 |
+| The last burger | 37.00% | ~16,318 |
+| Hands off the Dungeonheart! | 36.00% | ~15,877 |
+| A trip on sea, what fun it can be | 34.00% | ~14,995 |
+| Damned good | 33.00% | ~14,554 |
+| Stock Market Crash | 31.00% | ~13,672 |
+| Factory farming | 31.00% | ~13,672 |
+| Shadow hunter | 30.00% | ~13,231 |
+| Not-So-Overproud | 30.00% | ~13,231 |
+| For a handfull of Catapults | 28.00% | ~12,349 |
+| Thirst quencher | 27.00% | ~11,908 |
+| Ogre Solo! | 27.00% | ~11,908 |
+| Destroy the thing | 26.00% | ~11,467 |
+| Tide Master | 26.00% | ~11,467 |
+| Difficult family relationships | 25.00% | ~11,026 |
+| MASS-O-BOT | 24.00% | ~10,585 |
+| Prepare the grave | 24.00% | ~10,585 |
+| Angel of Fire | 24.00% | ~10,585 |
+| Where there is Light, there is Shadow | 23.00% | ~10,144 |
+| At the foot of Mount Destiny | 22.00% | ~9,703 |
+| The Force disturbed | 21.00% | ~9,262 |
+| The Victorious Evil | 20.00% | ~8,821 |
+| Chorus of damnation | 19.00% | ~8,380 |
+| We don’t have time! | 19.00% | ~8,380 |
+| The Stones’ Power | 18.00% | ~7,939 |
+| Flat as a pancake | 17.00% | ~7,498 |
+| Lifeguard | 17.00% | ~7,498 |
 | Can’t stand the sight of Dark Elf blood | 15.00% | ~6,615 |
 | This is fun, I’m going to keep doing this! | 12.00% | ~5,292 |
 | Then let them eat cake! | 12.00% | ~5,292 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~882 |
 | Sacrifices! | 2.00% | ~882 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,097 (Ranked 123)  
+Progressed: 44,103 (Ranked 123)  
 Completed: 358 (0.81%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 358 (0.81%) (Ranked 188)
 | 2023-12-17 | 43,873 | 358 |
 | 2023-12-18 | 43,970 | 358 |
 | 2023-12-19 | 44,045 | 358 |
-| 2023-12-20 | 44,097 | 358 |
+| 2023-12-20 | 44,103 | 358 |
 ## Awards
 Max (Great for Beginners): 391  (Ranked 237)  
 Sum: 2,820 (Ranked 184)  

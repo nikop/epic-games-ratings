@@ -5,31 +5,31 @@ Rating: 4.53 (Ranked 551)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 14.00% | ~2,367 |
-| Captain Drummer | 10.00% | ~1,691 |
-| The Pit and the Pirates | 9.00% | ~1,522 |
-| Martian Music | 9.00% | ~1,522 |
-| Drone Dodger | 9.00% | ~1,522 |
-| Bosmang | 9.00% | ~1,522 |
-| Celebrations are in Order | 9.00% | ~1,522 |
-| Impossible Objects | 9.00% | ~1,522 |
+| Oyedang, Kopengs | 14.00% | ~2,368 |
+| Captain Drummer | 10.00% | ~1,692 |
+| The Pit and the Pirates | 9.00% | ~1,523 |
+| Martian Music | 9.00% | ~1,523 |
+| Drone Dodger | 9.00% | ~1,523 |
+| Bosmang | 9.00% | ~1,523 |
+| Celebrations are in Order | 9.00% | ~1,523 |
+| Impossible Objects | 9.00% | ~1,523 |
 | Spore Taste | 8.00% | ~1,353 |
-| Zen Master | 8.00% | ~229 |
+| Zen Master | 8.00% | ~230 |
 | Stogie for Fogey | 7.00% | ~1,184 |
 | Call it Even | 7.00% | ~1,184 |
-| Safe Cracker | 7.00% | ~200 |
-| Madame Undersecretary | 7.00% | ~200 |
+| Safe Cracker | 7.00% | ~201 |
+| Madame Undersecretary | 7.00% | ~201 |
 | Drug Gifter | 6.00% | ~1,015 |
 | Heal Thy Medic | 6.00% | ~1,015 |
 | Keep Arjun in Check | 6.00% | ~172 |
 | Data Archivist | 5.00% | ~846 |
 | Thorston Mayer | 5.00% | ~846 |
 | Khan's Revenge | 5.00% | ~846 |
-| Master Negotiator | 5.00% | ~143 |
-| Doctor Approved | 4.00% | ~676 |
-| Bottoms up! | 4.00% | ~676 |
-| Data Logger | 3.00% | ~507 |
-| Miraculous Maya | 3.00% | ~507 |
+| Master Negotiator | 5.00% | ~144 |
+| Doctor Approved | 4.00% | ~677 |
+| Bottoms up! | 4.00% | ~677 |
+| Data Logger | 3.00% | ~508 |
+| Miraculous Maya | 3.00% | ~508 |
 | No Belter Left Behind | 2.00% | ~338 |
 | Data Master | 2.00% | ~338 |
 | Brother's Reaper | 1.00% | ~169 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 551)
 | Scavenger Star | 0.20% | ~34 |
 | Data Collector | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,910 (Ranked 152)  
+Progressed: 16,917 (Ranked 153)  
 Completed: 45 (0.27%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 45 (0.27%) (Ranked 254)
 | 2023-12-17 | 16,683 | 44 |
 | 2023-12-18 | 16,797 | 44 |
 | 2023-12-19 | 16,865 | 45 |
-| 2023-12-20 | 16,910 | 45 |
+| 2023-12-20 | 16,917 | 45 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -14,6 +14,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Acropolis in Athenai | 0.10% | ~16 |
 | Hanging Gardens in Babylon | 0.10% | ~16 |
 | Ishtar Gate in Babylon | 0.10% | ~16 |
+| Barbarian Horde | 0.10% | ~16 |
 | Before the Mongol Horde | 0.10% | ~16 |
 | Carthage - Ox Hide | 0.10% | ~16 |
 | Bronze Victory (Carthage 1) | 0.10% | ~16 |
@@ -33,6 +34,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beloved | 0.10% | ~16 |
 | Drillmaster | 0.10% | ~16 |
 | Brilliant | 0.10% | ~16 |
+| Capable | 0.10% | ~16 |
 | Conqueror | 0.10% | ~16 |
 | Devout | 0.10% | ~16 |
 | Enlightened | 0.10% | ~16 |
@@ -80,6 +82,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Patrons | 0.10% | ~16 |
 | Riders | 0.10% | ~16 |
 | Sages | 0.10% | ~16 |
+| Statesmen | 0.10% | ~16 |
 | Traders | 0.10% | ~16 |
 | Friendly Family | 0.10% | ~16 |
 | Furious Family | 0.10% | ~16 |
@@ -118,6 +121,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt | 0.10% | ~16 |
 | Greece | 0.10% | ~16 |
 | Hatti | 0.10% | ~16 |
+| Rome | 0.10% | ~16 |
 | Old World Order | 0.10% | ~16 |
 | One True Faith | 0.10% | ~16 |
 | Pantheon of Gods | 0.10% | ~16 |
@@ -141,6 +145,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Building Wonders | 0.10% | ~16 |
 | Capturing Cities | 0.10% | ~16 |
 | Naming Landmarks | 0.10% | ~16 |
+| Ten Crowns | 0.10% | ~16 |
 | Economic Reform | 0.10% | ~16 |
 | Industrial Progress | 0.10% | ~16 |
 | Military Prestige | 0.10% | ~16 |
@@ -159,6 +164,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Turreted Elephant | 0.10% | ~16 |
 | All Nations | 0.10% | ~16 |
 | Ambition Victory | 0.10% | ~16 |
+| Conquest Victory | 0.10% | ~16 |
 | Double Victory | 0.10% | ~16 |
 | No Undo | 0.10% | ~16 |
 | Points Victory | 0.10% | ~16 |
@@ -168,6 +174,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Deposed Tribe | 0.10% | ~16 |
 | The Great Mage | 0.10% | ~16 |
 | Ramesses II KIA | 0.10% | ~16 |
+| Lost the Hearts of Kmt | 0.10% | ~16 |
+| Won the Hearts of Kmt | 0.10% | ~16 |
+| Partly Balanced Ma'at | 0.10% | ~16 |
 | Kush | 0.10% | ~16 |
 | Beja Archer | 0.10% | ~16 |
 | Royal Library | 0.10% | ~16 |
@@ -175,7 +184,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Alexander the who? | 0.00% | ~0 |
 | Alliance Victory | 0.00% | ~0 |
 | Future Regicide | 0.00% | ~0 |
-| Barbarian Horde | 0.00% | ~0 |
 | The Great Raging Horde | 0.00% | ~0 |
 | United Against The Horde | 0.00% | ~0 |
 | Battle of Opis | 0.00% | ~0 |
@@ -193,7 +201,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Silver Victory (Carthage 4) | 0.00% | ~0 |
 | Carthage Campaign | 0.00% | ~0 |
 | Avenger | 0.00% | ~0 |
-| Capable | 0.00% | ~0 |
 | Destroyer | 0.00% | ~0 |
 | Holy | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
@@ -209,7 +216,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Elephant in Elephantine | 0.00% | ~0 |
 | Ethnic Diversity | 0.00% | ~0 |
 | Et tu Brutus? | 0.00% | ~0 |
-| Statesmen | 0.00% | ~0 |
 | Battle of the Fertile Crescent | 0.00% | ~0 |
 | Five Routs | 0.00% | ~0 |
 | Game of the Week | 0.00% | ~0 |
@@ -266,7 +272,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pyramids in Menefer | 0.00% | ~0 |
 | Merchants of the Levant | 0.00% | ~0 |
 | Persia | 0.00% | ~0 |
-| Rome | 0.00% | ~0 |
 | Apadana in Parsa | 0.00% | ~0 |
 | Play a 1-v-1 Game | 0.00% | ~0 |
 | Play a Free-For-All Game (>2 Players) | 0.00% | ~0 |
@@ -277,14 +282,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Punic Wars | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
 | Roman Papacy | 0.00% | ~0 |
-| Ten Crowns | 0.00% | ~0 |
 | Word of God | 0.00% | ~0 |
 | Cataphract Archer | 0.00% | ~0 |
 | Three Man Chariot | 0.00% | ~0 |
 | Kushite Cavalry | 0.00% | ~0 |
 | Phalangite | 0.00% | ~0 |
 | Great Ziggurat in Ur | 0.00% | ~0 |
-| Conquest Victory | 0.00% | ~0 |
 | No Characters | 0.00% | ~0 |
 | One City Challenge | 0.00% | ~0 |
 | Randomized Families | 0.00% | ~0 |
@@ -333,10 +336,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pharaonic Ramesses II The Great | 0.00% | ~0 |
 | Pharaonic Qadesh Victory | 0.00% | ~0 |
 | Split the Army | 0.00% | ~0 |
-| Lost the Hearts of Kmt | 0.00% | ~0 |
 | The Neter Collapsed | 0.00% | ~0 |
-| Won the Hearts of Kmt | 0.00% | ~0 |
-| Partly Balanced Ma'at | 0.00% | ~0 |
 | Won the Pharaonic Hearts of Kmt | 0.00% | ~0 |
 | Pharaonic Partly Balanced Ma'at | 0.00% | ~0 |
 | Kmt's Sunset | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Al Khazneh in Petra | 0.00% | ~0 |
 | Colosseum in Roma | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,846 (Ranked 157)  
+Progressed: 15,848 (Ranked 158)  
 Completed: 5 (0.03%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -609,7 +609,7 @@ Completed: 5 (0.03%) (Ranked 345)
 | 2023-12-17 | 15,807 | 5 |
 | 2023-12-18 | 15,826 | 5 |
 | 2023-12-19 | 15,840 | 5 |
-| 2023-12-20 | 15,846 | 5 |
+| 2023-12-20 | 15,848 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 279)  
 Sum: 1,904 (Ranked 220)  

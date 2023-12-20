@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1101,
+  "EOS_Progressed": 1102,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3031,6 +3031,11 @@
       "Time": "2023-12-19T19:03:40.5827899+00:00",
       "NumProgressed": 1101,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T18:04:57.6470845+00:00",
+      "NumProgressed": 1102,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -3042,7 +3047,7 @@
       "Name": "Cabin boy",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "ACH001",
@@ -3130,7 +3135,7 @@
       "Name": "Intangible",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "ACH012",
@@ -3146,7 +3151,7 @@
       "Name": "In a mint condition",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "ACH014",
@@ -3154,7 +3159,7 @@
       "Name": "Christening",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "ACH015",
@@ -3162,7 +3167,7 @@
       "Name": "Groundskeeper",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "ACH016",
@@ -3210,7 +3215,7 @@
       "Name": "Collectionitis",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ACH022",
@@ -3258,7 +3263,7 @@
       "Name": "I\u0027m out of here for a while",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "ACH028",
@@ -3274,7 +3279,7 @@
       "Name": "Licence to Kill",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "ACH030",
@@ -3298,7 +3303,7 @@
       "Name": "Pirates!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "ACH033",
@@ -3394,7 +3399,7 @@
       "Name": "Greed for gold",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "ACH045",
@@ -3426,7 +3431,7 @@
       "Name": "Megalomania",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ACH049",
@@ -3441,15 +3446,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 1101,
+      "Progressed": 1102,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-11-01T22:59:02.448108+00:00",
-  "LastChanged_Achievements": "2023-12-20T17:04:35.2762655+00:00",
+  "LastChanged_Achievements": "2023-12-20T18:04:57.6470841+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:34.3980229+00:00",
-  "LastUpdate_Ratings": "2023-12-20T16:58:50.6819271+00:00",
-  "LastUpdate_Achievements": "2023-12-20T17:04:35.2763128+00:00"
+  "LastUpdate_Ratings": "2023-12-20T17:59:06.7480144+00:00",
+  "LastUpdate_Achievements": "2023-12-20T18:04:57.6471235+00:00"
 }

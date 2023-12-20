@@ -13,8 +13,8 @@ Rating: 4.48 (Ranked 640)
 | He's Famous! | 66.00% | ~824 |
 | Cutie Poro | 65.00% | ~811 |
 | Krugmazing | 64.00% | ~799 |
+| The Fire Below the Mountain | 61.00% | ~761 |
 | Moneyball | 60.00% | ~749 |
-| The Fire Below the Mountain | 60.00% | ~749 |
 | No Bites | 55.00% | ~686 |
 | Iceborn | 55.00% | ~686 |
 | Boom Things | 53.00% | ~661 |
@@ -25,13 +25,13 @@ Rating: 4.48 (Ranked 640)
 | A Tragic Reminder | 45.00% | ~562 |
 | 3000 Year Blackout | 44.00% | ~549 |
 | So Close | 42.00% | ~524 |
+| You Get Used To It | 42.00% | ~524 |
 | The Finisher | 42.00% | ~524 |
-| You Get Used To It | 41.00% | ~512 |
-| Family | 39.00% | ~487 |
+| Family | 40.00% | ~499 |
+| Boosted! | 40.00% | ~499 |
 | Biggest Snowball Ever | 39.00% | ~487 |
 | Freeze The Ice Witch | 39.00% | ~487 |
 | True Legends | 39.00% | ~487 |
-| Boosted! | 39.00% | ~487 |
 | Deadliest and Biggest Snowball Ever! | 39.00% | ~487 |
 | Bullseye | 36.00% | ~449 |
 | It Is Not Over | 35.00% | ~437 |

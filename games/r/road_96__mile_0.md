@@ -15,8 +15,8 @@
 | 86's Nightmare | 8.00% | ~41 |
 | Partners in Crime | 8.00% | ~41 |
 | Friendzone | 8.00% | ~41 |
+| The Eye of the Storm | 7.00% | ~36 |
 | Attack on Tyran | 6.00% | ~31 |
-| The Eye of the Storm | 6.00% | ~31 |
 | Song Harvester | 1.00% | ~5 |
 | Try Harder | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)

@@ -12,7 +12,7 @@ Number of Ratings: 892  (23.09.2022)
 | Greeno-B-Gone | 123.00% | ~763 |
 | The Little Wood that Could | 118.00% | ~732 |
 | Your Especially Earned Trajectory | 102.00% | ~632 |
-| On that Grindset | 89.00% | ~552 |
+| On that Grindset | 90.00% | ~558 |
 | One of the Cool Kids | 84.00% | ~521 |
 | No Mountain Wide Enough | 82.00% | ~508 |
 | Pack Mule | 79.00% | ~490 |
@@ -56,7 +56,7 @@ Number of Ratings: 892  (23.09.2022)
 | He Can Spin A Yarn... | 38.00% | ~236 |
 | Santa In Training | 38.00% | ~236 |
 | It Belongs in a Museum! | 35.00% | ~217 |
-| Pro Gamer | 33.00% | ~205 |
+| Pro Gamer | 34.00% | ~211 |
 | Do Your Part | 33.00% | ~205 |
 | Newton | 33.00% | ~205 |
 | Cardistry | 24.00% | ~149 |
@@ -123,7 +123,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-20 | 620 | 0 |
 ## Awards
 Max (Character Customization): 608  (Ranked 198)  
-Sum: 1,441 (Ranked 240)  
+Sum: 1,442 (Ranked 240)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
@@ -133,7 +133,7 @@ Diff (max vs sum): -42
 | This game is Extremely Fun | 91 |
 | This game has Quickly Understood Controls | 86 |
 | This game has Diverse Characters | 85 |
-| This game is Relaxing | 79 |
+| This game is Relaxing | 80 |
 | This game has Amazing Characters | 76 |
 | This game has Amazing Storytelling | 75 |
 | This game has Easy Combat | 71 |
@@ -337,3 +337,4 @@ Diff (max vs sum): -42
 | 2023-12-17 | 4.68 | - | 608 | 1,438 |
 | 2023-12-18 | 4.68 | - | 608 | 1,439 |
 | 2023-12-19 | 4.68 | - | 608 | 1,441 |
+| 2023-12-20 | 4.68 | - | 608 | 1,442 |

@@ -4,7 +4,7 @@
   "ProductSlug": "skydrift-infinity-c4ca37",
   "Ranking_EOS_Progress": 811,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewPlayers": 559,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-05-06T13:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:31.2682698+00:00",
   "LastChanged": "2023-03-31T05:58:31.2682699+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:17.2831873+00:00",
-  "LastUpdate_Ratings": "2023-12-20T16:59:32.0295035+00:00",
-  "LastUpdate_Achievements": "2023-12-20T17:03:52.5414237+00:00"
+  "LastUpdate_Ratings": "2023-12-20T17:59:55.6950025+00:00",
+  "LastUpdate_Achievements": "2023-12-20T18:04:09.3337667+00:00"
 }

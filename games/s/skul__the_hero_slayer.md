@@ -6,23 +6,23 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~10,667 |
-| What should I buy? | 81.00% | ~9,291 |
-| Focus! | 60.00% | ~6,882 |
-| Rescued Elder Ent | 60.00% | ~6,882 |
-| The End of the Gold Mane Knights | 46.00% | ~5,276 |
-| False Goddess, Disappear | 37.00% | ~4,244 |
-| Rules of Etiquette | 37.00% | ~4,244 |
-| Quick Movements | 30.00% | ~3,441 |
-| Inventory Management | 30.00% | ~3,441 |
+| The Legend Begins | 93.00% | ~10,669 |
+| What should I buy? | 81.00% | ~9,292 |
+| Focus! | 60.00% | ~6,883 |
+| Rescued Elder Ent | 60.00% | ~6,883 |
+| The End of the Gold Mane Knights | 46.00% | ~5,277 |
+| False Goddess, Disappear | 37.00% | ~4,245 |
+| Rules of Etiquette | 37.00% | ~4,245 |
+| Quick Movements | 30.00% | ~3,442 |
+| Inventory Management | 30.00% | ~3,442 |
 | The Fall of the Leonia Order | 28.00% | ~3,212 |
 | Go Home... | 25.00% | ~2,868 |
 | The Final Battle of the First Hero | 24.00% | ~2,753 |
-| The Hero Killer | 23.00% | ~2,638 |
+| The Hero Killer | 23.00% | ~2,639 |
 | Brain at Full Throttle | 20.00% | ~2,294 |
 | Rookies Welcome | 18.00% | ~2,065 |
-| Deadly Power | 15.00% | ~1,720 |
-| Castle Restoration Plans | 12.00% | ~1,376 |
+| Deadly Power | 15.00% | ~1,721 |
+| Castle Restoration Plans | 13.00% | ~1,491 |
 | The Dwarven Chandelier | 10.00% | ~1,147 |
 | Master of Speed | 9.00% | ~1,032 |
 | The Levitator | 7.00% | ~803 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 1.00% | ~115 |
 | Cold-Blooded | 0.70% | ~80 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,470 (Ranked 169)  
+Progressed: 11,472 (Ranked 169)  
 Completed: 18 (0.16%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 18 (0.16%) (Ranked 281)
 | 2023-12-17 | 10,628 | 18 |
 | 2023-12-18 | 10,938 | 18 |
 | 2023-12-19 | 11,222 | 18 |
-| 2023-12-20 | 11,470 | 18 |
+| 2023-12-20 | 11,472 | 18 |
 ## Awards
 Max (Great for Beginners): 139  (Ranked 328)  
 Sum: 957 (Ranked 271)  

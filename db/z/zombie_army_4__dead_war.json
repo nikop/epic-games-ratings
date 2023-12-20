@@ -10142,9 +10142,9 @@
       "ID": "SE_COMPLETE_CROATIA",
       "SetID": "49kdhbg",
       "Name": "Look mummy! A shark!",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 18113
+      "UsersEstimate": 18555
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -10606,8 +10606,8 @@
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-12-14T22:58:01.1346341+00:00",
-  "LastChanged_Achievements": "2023-12-20T17:06:22.4561106+00:00",
+  "LastChanged_Achievements": "2023-12-20T18:06:59.2887615+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:42.1560557+00:00",
-  "LastUpdate_Ratings": "2023-12-20T17:02:34.3997226+00:00",
-  "LastUpdate_Achievements": "2023-12-20T17:06:22.4561882+00:00"
+  "LastUpdate_Ratings": "2023-12-20T18:00:56.2968941+00:00",
+  "LastUpdate_Achievements": "2023-12-20T18:06:59.2888289+00:00"
 }

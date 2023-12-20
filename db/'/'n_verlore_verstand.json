@@ -4,7 +4,7 @@
   "ProductSlug": "n-verlore-verstand-1d7f5b",
   "Ranking_EOS_Progress": 513,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 441,
+  "Ranking_EOS_NewPlayers": 422,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-04-13T22:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 61,
+  "EOS_Progressed": 63,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -314,6 +314,11 @@
       "Time": "2023-12-19T22:08:20.6332337+00:00",
       "NumProgressed": 61,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T18:08:47.6912575+00:00",
+      "NumProgressed": 63,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -323,15 +328,15 @@
       "ID": "1",
       "SetID": "6m1k8ai",
       "Name": "Start of a Journey",
-      "Percentage": 90,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "10",
       "SetID": "6m1k8ai",
       "Name": "A Dangerous Road",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -413,7 +418,7 @@
       "Name": "Escape the Maze",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "20",
@@ -475,9 +480,9 @@
       "ID": "27",
       "SetID": "6m1k8ai",
       "Name": "A thing of beauty",
-      "Percentage": 85,
+      "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "28",
@@ -501,7 +506,7 @@
       "Name": "Brace the cold",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "30",
@@ -589,7 +594,7 @@
       "Name": "A Long Walk",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "40",
@@ -667,7 +672,7 @@
       "ID": "5",
       "SetID": "6m1k8ai",
       "Name": "Dont mind the heat",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -708,14 +713,14 @@
     {
       "ID": "6m1k8ai",
       "IsBase": true,
-      "Progressed": 61,
+      "Progressed": 63,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-02T12:00:06.1215649+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:54.1443777+00:00",
-  "LastChanged_Achievements": "2023-12-20T17:08:37.1681346+00:00",
+  "LastChanged_Achievements": "2023-12-20T18:08:47.691257+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:53.8848096+00:00",
-  "LastUpdate_Ratings": "2023-12-20T17:03:08.6993612+00:00",
-  "LastUpdate_Achievements": "2023-12-20T17:08:37.1681643+00:00"
+  "LastUpdate_Ratings": "2023-12-20T18:03:16.6775038+00:00",
+  "LastUpdate_Achievements": "2023-12-20T18:08:47.6912931+00:00"
 }

@@ -5,34 +5,34 @@ Rating: 4.88 (Ranked 16)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 48.00% | ~696 |
-| Welcome to the Tower | 43.00% | ~623 |
-| The great escape | 36.00% | ~522 |
-| The Preacher's fate | 35.00% | ~507 |
-| A new dawn | 29.00% | ~420 |
-| Scholar | 25.00% | ~362 |
-| True G3M4R | 24.00% | ~348 |
-| A good beginning | 23.00% | ~333 |
-| The darkness | 23.00% | ~333 |
-| One last step | 21.00% | ~304 |
-| I did it | 20.00% | ~290 |
-| Cable guy | 20.00% | ~290 |
-| Half the way | 20.00% | ~290 |
-| In this together | 19.00% | ~275 |
-| Peace walker | 19.00% | ~275 |
-| Champollion | 19.00% | ~275 |
-| Rascal | 18.00% | ~261 |
-| Open door | 17.00% | ~246 |
+| That's the spirit | 48.00% | ~697 |
+| Welcome to the Tower | 44.00% | ~639 |
+| The great escape | 36.00% | ~523 |
+| The Preacher's fate | 35.00% | ~509 |
+| A new dawn | 28.00% | ~407 |
+| Scholar | 25.00% | ~363 |
+| True G3M4R | 24.00% | ~349 |
+| A good beginning | 23.00% | ~334 |
+| The darkness | 23.00% | ~334 |
+| One last step | 21.00% | ~305 |
+| I did it | 20.00% | ~291 |
+| Cable guy | 20.00% | ~291 |
+| Half the way | 20.00% | ~291 |
+| In this together | 19.00% | ~276 |
+| Peace walker | 19.00% | ~276 |
+| Rascal | 19.00% | ~276 |
+| Champollion | 19.00% | ~276 |
+| Open door | 17.00% | ~247 |
 | Feels like springtime | 16.00% | ~232 |
 | Alchemists Express | 16.00% | ~232 |
 | Free at last | 14.00% | ~203 |
-| A Link to the Past | 13.00% | ~188 |
-| A great audience | 10.00% | ~145 |
-| For its own good | 10.00% | ~145 |
+| A Link to the Past | 13.00% | ~189 |
+| A great audience | 11.00% | ~160 |
+| For its own good | 11.00% | ~160 |
 | Fashion victim | 6.00% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,449 (Ranked 252)  
-Completed: 76 (5.24%) (Ranked 75)  
+Progressed: 1,453 (Ranked 251)  
+Completed: 77 (5.30%) (Ranked 75)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -182,7 +182,7 @@ Completed: 76 (5.24%) (Ranked 75)
 | 2023-12-17 | 1,295 | 69 |
 | 2023-12-18 | 1,357 | 72 |
 | 2023-12-19 | 1,407 | 75 |
-| 2023-12-20 | 1,449 | 76 |
+| 2023-12-20 | 1,453 | 77 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

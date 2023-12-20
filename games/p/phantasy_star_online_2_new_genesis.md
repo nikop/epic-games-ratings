@@ -1,12 +1,12 @@
 # Phantasy Star Online 2 New Genesis
 [Store](https://store.epicgames.com/en-US/p/phantasy-star-online-2)  
 [View Rawdata](../../db/p/phantasy_star_online_2_new_genesis.json)  
-Rating: 4.54 (Ranked 531)  
+Rating: 4.54 (Ranked 532)  
 Number of Ratings: 692  (23.09.2022)  
 ## Awards
 Max (Character Customization): 998  (Ranked 156)  
-Sum: 4,406 (Ranked 150)  
-Diff (max vs sum): 6  
+Sum: 4,406 (Ranked 151)  
+Diff (max vs sum): 5  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 998 |

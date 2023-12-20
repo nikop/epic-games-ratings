@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 402,
+  "EOS_Progressed": 403,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1190,6 +1190,11 @@
       "Time": "2023-12-19T21:08:31.1039317+00:00",
       "NumProgressed": 402,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T18:08:39.4249363+00:00",
+      "NumProgressed": 403,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1217,7 +1222,7 @@
       "Name": "Lux Living",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ach_apartments_2",
@@ -1249,7 +1254,7 @@
       "Name": "Artfully Done",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ach_art_large",
@@ -1335,9 +1340,9 @@
       "ID": "ach_consultant",
       "SetID": "b8gh1fi",
       "Name": "Need a Consult",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 149
     },
     {
       "ID": "ach_consultant_1",
@@ -1505,7 +1510,7 @@
       "Name": "Starting Skyward",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ach_floors_1",
@@ -1553,7 +1558,7 @@
       "Name": "Rehab Expert",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ach_happy",
@@ -1569,7 +1574,7 @@
       "Name": "Don\u0027t Feel a Loan",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ach_mod_1",
@@ -1625,7 +1630,7 @@
       "Name": "People Mover",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ach_pop_2",
@@ -1641,7 +1646,7 @@
       "Name": "Your Prestige is Rising",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ach_prestige_2",
@@ -1649,7 +1654,7 @@
       "Name": "Established Fame",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ach_prestige_3",
@@ -1665,7 +1670,7 @@
       "Name": "In the Black",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ach_profit_1",
@@ -1713,7 +1718,7 @@
       "Name": "Tasty Profits",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ach_restaurants_3",
@@ -1729,7 +1734,7 @@
       "Name": "Potent Potables",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ach_restaurants_5",
@@ -1745,7 +1750,7 @@
       "Name": "Retail Revenue",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ach_retail_2",
@@ -1753,7 +1758,7 @@
       "Name": "Emporium Empire",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ach_retail_3",
@@ -1761,7 +1766,7 @@
       "Name": "Leveled Up Shops",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ach_retail_4",
@@ -1825,7 +1830,7 @@
       "Name": "Smooth Service",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ach_trash_1",
@@ -1841,7 +1846,7 @@
       "Name": "We Don\u0027t Need No Education",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ach_util_cable",
@@ -1873,7 +1878,7 @@
       "Name": "Get Electrified",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ach_util_water",
@@ -1904,7 +1909,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 402,
+      "Progressed": 403,
       "Completed": 0
     }
   ],
@@ -1912,8 +1917,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-12-20T17:08:30.2549553+00:00",
+  "LastChanged_Achievements": "2023-12-20T18:08:39.424936+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:18.491222+00:00",
-  "LastUpdate_Ratings": "2023-12-20T16:59:12.9208988+00:00",
-  "LastUpdate_Achievements": "2023-12-20T17:08:30.2550298+00:00"
+  "LastUpdate_Ratings": "2023-12-20T17:59:33.1510943+00:00",
+  "LastUpdate_Achievements": "2023-12-20T18:08:39.425007+00:00"
 }

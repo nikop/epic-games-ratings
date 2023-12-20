@@ -2,7 +2,7 @@
   "ID": "e462ded8eeed40d7b81015ca87cdb5d8",
   "Name": "The Complex",
   "ProductSlug": "the-complex-0ca5bb",
-  "Ranking_EOS_Progress": 299,
+  "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 113,
   "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 159,
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 699,
+  "EOS_Progressed": 700,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3,
   "EosHistory": [
@@ -1280,6 +1280,11 @@
       "Time": "2023-12-20T13:09:29.5584166+00:00",
       "NumProgressed": 699,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-20T18:09:52.5175053+00:00",
+      "NumProgressed": 700,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 20,
@@ -1299,7 +1304,7 @@
       "Name": "Blast From The Past",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "deadly_secret",
@@ -1395,7 +1400,7 @@
       "Name": "Kamikaze",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "kindar_surprise",
@@ -1435,22 +1440,22 @@
       "Name": "The Rebel And The Doctor",
       "Percentage": 58,
       "XP": 100,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "tough_decision",
       "SetID": "d4f4pll",
       "Name": "Tough Decision",
-      "Percentage": 93,
+      "Percentage": 92,
       "XP": 50,
-      "UsersEstimate": 650
+      "UsersEstimate": 644
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 699,
+      "Progressed": 700,
       "Completed": 21
     }
   ],
@@ -1458,8 +1463,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-12-20T17:09:34.1791297+00:00",
+  "LastChanged_Achievements": "2023-12-20T18:09:52.5175048+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:08.7462011+00:00",
-  "LastUpdate_Ratings": "2023-12-20T16:59:55.7161738+00:00",
-  "LastUpdate_Achievements": "2023-12-20T17:09:34.1791777+00:00"
+  "LastUpdate_Ratings": "2023-12-20T18:00:23.7124553+00:00",
+  "LastUpdate_Achievements": "2023-12-20T18:09:52.5175278+00:00"
 }

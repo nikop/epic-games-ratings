@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 240,
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -1804,10 +1804,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1441,
       "NumberOfAwardsMax": 608
+    },
+    {
+      "Time": "2023-12-20T18:00:05.0861175+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1442,
+      "NumberOfAwardsMax": 608
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1441,
+  "NumberOfAwards": 1442,
   "NumberOfAwardsMax": 608,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1863,7 +1869,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 79
+      "Count": 80
     },
     {
       "Text": "This game has Diverse Characters",
@@ -7131,9 +7137,9 @@
       "ID": "C_STAMINA",
       "SetID": "80dcan0",
       "Name": "On that Grindset",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 552
+      "UsersEstimate": 558
     },
     {
       "ID": "C_STAYUP",
@@ -7435,9 +7441,9 @@
       "ID": "S_GAMECOIN",
       "SetID": "80dcan0",
       "Name": "Pro Gamer",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 211
     },
     {
       "ID": "S_GHOST",
@@ -7602,9 +7608,9 @@
   ],
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
-  "LastChanged": "2023-12-19T04:59:33.1168952+00:00",
-  "LastChanged_Achievements": "2023-12-20T17:04:19.5420514+00:00",
+  "LastChanged": "2023-12-20T18:00:05.0861172+00:00",
+  "LastChanged_Achievements": "2023-12-20T18:04:39.1957719+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:20.3290168+00:00",
-  "LastUpdate_Ratings": "2023-12-20T16:59:39.8776572+00:00",
-  "LastUpdate_Achievements": "2023-12-20T17:04:19.5421186+00:00"
+  "LastUpdate_Ratings": "2023-12-20T18:00:05.0861178+00:00",
+  "LastUpdate_Achievements": "2023-12-20T18:04:39.1958402+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 402,
+  "Ranking_EOS_NewPlayers": 403,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 562,
+  "EOS_Progressed": 563,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
@@ -999,6 +999,11 @@
       "Time": "2023-12-20T12:10:44.8345588+00:00",
       "NumProgressed": 562,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-20T18:10:28.7342434+00:00",
+      "NumProgressed": 563,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -1074,7 +1079,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "TROP009",
@@ -1104,9 +1109,9 @@
       "ID": "TROP012",
       "SetID": "9n0dl35",
       "Name": "Never Give Up",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 220
     },
     {
       "ID": "TROP013",
@@ -1154,7 +1159,7 @@
       "Name": "Mother Love",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "TROP019",
@@ -1194,7 +1199,7 @@
       "Name": "Detox diet",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "TROP024",
@@ -1233,7 +1238,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 562,
+      "Progressed": 563,
       "Completed": 3
     }
   ],
@@ -1241,8 +1246,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-12-20T17:10:07.2512152+00:00",
+  "LastChanged_Achievements": "2023-12-20T18:10:28.734243+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:57.910858+00:00",
-  "LastUpdate_Ratings": "2023-12-20T16:57:27.2449233+00:00",
-  "LastUpdate_Achievements": "2023-12-20T17:10:07.2512362+00:00"
+  "LastUpdate_Ratings": "2023-12-20T17:57:29.732185+00:00",
+  "LastUpdate_Achievements": "2023-12-20T18:10:28.7342637+00:00"
 }

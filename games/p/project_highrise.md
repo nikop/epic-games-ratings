@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 59.00% | ~237 |
-| Starting Skyward | 53.00% | ~213 |
+| In the Black | 59.00% | ~238 |
+| Starting Skyward | 53.00% | ~214 |
 | Grime is Not Good | 47.00% | ~189 |
 | Floor Galore | 41.00% | ~165 |
 | Dinner Dash | 41.00% | ~165 |
 | Campaign Launch | 40.00% | ~161 |
-| Need a Consult | 38.00% | ~153 |
+| Need a Consult | 37.00% | ~149 |
 | It's Technical | 37.00% | ~149 |
 | Upgrade Unlock | 36.00% | ~145 |
 | Delegate Maintenance | 33.00% | ~133 |
 | Proper Walls | 32.00% | ~129 |
 | Destination Destiny | 31.00% | ~125 |
 | Happy Tenants | 26.00% | ~105 |
-| Potent Potables | 25.00% | ~100 |
-| Smooth Service | 25.00% | ~100 |
-| Your Prestige is Rising | 24.00% | ~96 |
-| Retail Revenue | 24.00% | ~96 |
-| Don't Feel a Loan | 22.00% | ~88 |
-| People Mover | 21.00% | ~84 |
-| Artfully Done | 20.00% | ~80 |
-| Emporium Empire | 20.00% | ~80 |
-| Leveled Up Shops | 20.00% | ~80 |
-| Lux Living | 19.00% | ~76 |
-| We Don't Need No Education | 19.00% | ~76 |
-| Get Electrified | 19.00% | ~76 |
-| Rehab Expert | 18.00% | ~72 |
-| Tasty Profits | 18.00% | ~72 |
-| Established Fame | 17.00% | ~68 |
+| Potent Potables | 25.00% | ~101 |
+| Smooth Service | 25.00% | ~101 |
+| Your Prestige is Rising | 24.00% | ~97 |
+| Retail Revenue | 24.00% | ~97 |
+| Don't Feel a Loan | 22.00% | ~89 |
+| People Mover | 21.00% | ~85 |
+| Artfully Done | 20.00% | ~81 |
+| Emporium Empire | 20.00% | ~81 |
+| Leveled Up Shops | 20.00% | ~81 |
+| Lux Living | 19.00% | ~77 |
+| We Don't Need No Education | 19.00% | ~77 |
+| Get Electrified | 19.00% | ~77 |
+| Rehab Expert | 18.00% | ~73 |
+| Tasty Profits | 18.00% | ~73 |
+| Established Fame | 17.00% | ~69 |
 | Under One Roof | 16.00% | ~64 |
 | Cashflow Chief | 16.00% | ~64 |
 | Starred Dining | 15.00% | ~60 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 402 (Ranked 342)  
+Progressed: 403 (Ranked 342)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,6 +200,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-17 | 392 | 0 |
 | 2023-12-18 | 398 | 0 |
 | 2023-12-19 | 402 | 0 |
+| 2023-12-20 | 403 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -13435,10 +13435,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 61530,
       "NumberOfAwardsMax": 7472
+    },
+    {
+      "Time": "2023-12-20T17:57:39.9692232+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 61540,
+      "NumberOfAwardsMax": 7472
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 61530,
+  "NumberOfAwards": 61540,
   "NumberOfAwardsMax": 7472,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -13488,7 +13494,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 6853
+      "Count": 6863
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -13509,9 +13515,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 479838,
+  "EOS_Progressed": 479880,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5898,
+  "EOS_NewPlayers": 5899,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41609,6 +41615,11 @@
       "Time": "2023-12-20T17:04:46.5013677+00:00",
       "NumProgressed": 479838,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T18:05:10.1406852+00:00",
+      "NumProgressed": 479880,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -44284,7 +44295,7 @@
       "Name": "Until death do us apart",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1919
+      "UsersEstimate": 1920
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -44523,21 +44534,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 479838,
+      "Progressed": 479880,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 479838,
+      "Progressed": 479880,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-12-20T13:57:40.097623+00:00",
-  "LastChanged_Achievements": "2023-12-20T17:04:46.5013673+00:00",
+  "LastChanged": "2023-12-20T17:57:39.9692229+00:00",
+  "LastChanged_Achievements": "2023-12-20T18:05:10.1406847+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:33.9920534+00:00",
-  "LastUpdate_Ratings": "2023-12-20T16:57:35.7713393+00:00",
-  "LastUpdate_Achievements": "2023-12-20T17:04:46.5023997+00:00"
+  "LastUpdate_Ratings": "2023-12-20T17:57:39.9692236+00:00",
+  "LastUpdate_Achievements": "2023-12-20T18:05:10.1417027+00:00"
 }

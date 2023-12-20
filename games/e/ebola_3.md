@@ -9,7 +9,7 @@
 | Inventory ✔ | 54.00% | ~160 |
 | Police officers ✔ | 28.00% | ~83 |
 | Mutation ✔ | 26.00% | ~77 |
-| Doberman ✔ | 15.00% | ~44 |
+| Doberman ✔ | 15.00% | ~45 |
 | Weapon ✔ | 12.00% | ~36 |
 | Chess ✔ | 10.00% | ~30 |
 | Master of Unlocking ✔ | 9.00% | ~27 |
@@ -55,7 +55,7 @@
 | Seeker Two ✔ | 0.30% | ~1 |
 | Rank A+ ✔ | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296 (Ranked 375)  
+Progressed: 297 (Ranked 375)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-17 | 288 | 0 |
 | 2023-12-18 | 292 | 0 |
 | 2023-12-19 | 295 | 0 |
-| 2023-12-20 | 296 | 0 |
+| 2023-12-20 | 297 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

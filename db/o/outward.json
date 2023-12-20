@@ -3,11 +3,11 @@
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
   "Ranking_Rating": 512,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 391,
+  "Ranking_Popularity": 487,
+  "Ranking_PopularitySum": 392,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4048,
+  "EOS_Progressed": 4049,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 310,
+  "EOS_NewPlayers": 311,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -6531,6 +6531,11 @@
       "Time": "2023-12-20T17:05:29.8922122+00:00",
       "NumProgressed": 4048,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-20T18:05:59.1863579+00:00",
+      "NumProgressed": 4049,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -6734,7 +6739,7 @@
       "Name": "Ready for Winter",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 2550
+      "UsersEstimate": 2551
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -6766,7 +6771,7 @@
       "Name": "Tapped!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -6877,15 +6882,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4048,
+      "Progressed": 4049,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-20T17:05:29.8922117+00:00",
+  "LastChanged_Achievements": "2023-12-20T18:05:59.1863576+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:45.1407734+00:00",
-  "LastUpdate_Ratings": "2023-12-20T17:02:57.0307385+00:00",
-  "LastUpdate_Achievements": "2023-12-20T17:05:29.8922662+00:00"
+  "LastUpdate_Ratings": "2023-12-20T18:03:03.2947886+00:00",
+  "LastUpdate_Achievements": "2023-12-20T18:05:59.1864082+00:00"
 }

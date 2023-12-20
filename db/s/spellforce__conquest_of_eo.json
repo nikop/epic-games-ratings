@@ -362,9 +362,9 @@
       "ID": "Build_First_Lodge",
       "SetID": "7b9f97e",
       "Name": "Expansion",
-      "Percentage": 66,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "Build_First_Room",
@@ -746,9 +746,9 @@
       "ID": "Max_Reputation_Alluvyan",
       "SetID": "7b9f97e",
       "Name": "Friend of Alluvyan",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Max_Reputation_Coldmark",
@@ -923,8 +923,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-12-20T17:09:19.1838722+00:00",
+  "LastChanged_Achievements": "2023-12-20T18:09:35.2455346+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:09.2965751+00:00",
-  "LastUpdate_Ratings": "2023-12-20T17:00:05.4658605+00:00",
-  "LastUpdate_Achievements": "2023-12-20T17:09:19.1839295+00:00"
+  "LastUpdate_Ratings": "2023-12-20T18:00:35.4487226+00:00",
+  "LastUpdate_Achievements": "2023-12-20T18:09:35.2455818+00:00"
 }

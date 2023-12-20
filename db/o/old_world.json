@@ -5,7 +5,7 @@
   "Ranking_Rating": 321,
   "Ranking_Popularity": 279,
   "Ranking_PopularitySum": 220,
-  "Ranking_EOS_Progress": 157,
+  "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 159,
@@ -2166,9 +2166,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15846,
+  "EOS_Progressed": 15848,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17996,6 +17996,11 @@
       "Time": "2023-12-20T10:09:25.4597047+00:00",
       "NumProgressed": 15846,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-20T18:10:09.4589592+00:00",
+      "NumProgressed": 15848,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -18101,9 +18106,9 @@
       "ID": "ACHIEVEMENT_BARBARIAN_INVASION",
       "SetID": "9201eeb",
       "Name": "Barbarian Horde",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_BARBARIAN_INVASION_GREAT_RAGING",
@@ -18397,9 +18402,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_CAPABLE",
       "SetID": "9201eeb",
       "Name": "Capable",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_CONQUEROR",
@@ -18901,9 +18906,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_STATESMEN",
       "SetID": "7l38kb8",
       "Name": "Statesmen",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_TRADERS",
@@ -19661,9 +19666,9 @@
       "ID": "ACHIEVEMENT_NATION_ROME",
       "SetID": "7l38kb8",
       "Name": "Rome",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_OLD_WORLD_ORDER",
@@ -19933,9 +19938,9 @@
       "ID": "ACHIEVEMENT_STAT_TEN_LEADERS",
       "SetID": "9201eeb",
       "Name": "Ten Crowns",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_TECH_ECONOMIC_REFORM",
@@ -20133,9 +20138,9 @@
       "ID": "ACHIEVEMENT_VICTORY_CONQUEST",
       "SetID": "7l38kb8",
       "Name": "Conquest Victory",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_DOUBLE",
@@ -20597,9 +20602,9 @@
       "ID": "ACHIEVEMENT_EGYPT5_DEFEAT",
       "SetID": "9201eeb",
       "Name": "Lost the Hearts of Kmt",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_EGYPT5_MAJOR_DEFEAT",
@@ -20613,17 +20618,17 @@
       "ID": "ACHIEVEMENT_EGYPT5_MAJOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Won the Hearts of Kmt",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_EGYPT5_MINOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Partly Balanced Ma\u0027at",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_EGYPT5_PHARAOH_MAJOR_VICTORY",
@@ -20870,21 +20875,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15846,
+      "Progressed": 15848,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15846,
+      "Progressed": 15848,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-19T18:02:53.2051748+00:00",
-  "LastChanged_Achievements": "2023-12-20T17:09:49.0779565+00:00",
+  "LastChanged_Achievements": "2023-12-20T18:10:09.4589589+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:47.4773202+00:00",
-  "LastUpdate_Ratings": "2023-12-20T17:03:00.5978988+00:00",
-  "LastUpdate_Achievements": "2023-12-20T17:09:49.0789665+00:00"
+  "LastUpdate_Ratings": "2023-12-20T18:03:07.5111215+00:00",
+  "LastUpdate_Achievements": "2023-12-20T18:10:09.4599203+00:00"
 }

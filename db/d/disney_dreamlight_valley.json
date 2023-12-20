@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 126,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -5415,10 +5415,10 @@
       "Count": 540
     }
   ],
-  "EOS_Progressed": 12879,
+  "EOS_Progressed": 12880,
   "EOS_Completed": 319,
-  "EOS_NewPlayers": 342,
-  "EOS_NewCompleters": 8,
+  "EOS_NewPlayers": 340,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 2.48,
   "EosHistory": [
     {
@@ -22390,6 +22390,11 @@
       "Time": "2023-12-20T17:09:10.1908441+00:00",
       "NumProgressed": 12879,
       "NumCompleted": 319
+    },
+    {
+      "Time": "2023-12-20T18:09:24.7201127+00:00",
+      "NumProgressed": 12880,
+      "NumCompleted": 319
     }
   ],
   "TotalAchievements": 15,
@@ -22417,7 +22422,7 @@
       "Name": "Bestest Friend",
       "Percentage": 46,
       "XP": 75,
-      "UsersEstimate": 5924
+      "UsersEstimate": 5925
     },
     {
       "ID": "Chef_Cook",
@@ -22441,7 +22446,7 @@
       "Name": "Constructor",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 6568
+      "UsersEstimate": 6569
     },
     {
       "ID": "Duty_Bound",
@@ -22457,7 +22462,7 @@
       "Name": "Gardener",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3992
+      "UsersEstimate": 3993
     },
     {
       "ID": "Generous",
@@ -22497,7 +22502,7 @@
       "Name": "Renovator",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 6568
+      "UsersEstimate": 6569
     },
     {
       "ID": "Thorn_Cleaner",
@@ -22513,14 +22518,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 61,
       "XP": 100,
-      "UsersEstimate": 7856
+      "UsersEstimate": 7857
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 12879,
+      "Progressed": 12880,
       "Completed": 319
     }
   ],
@@ -22528,8 +22533,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-12-20T14:59:49.2182536+00:00",
-  "LastChanged_Achievements": "2023-12-20T17:09:10.1908437+00:00",
+  "LastChanged_Achievements": "2023-12-20T18:09:24.720112+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:26.6445497+00:00",
-  "LastUpdate_Ratings": "2023-12-20T16:59:53.5722644+00:00",
-  "LastUpdate_Achievements": "2023-12-20T17:09:10.190965+00:00"
+  "LastUpdate_Ratings": "2023-12-20T18:00:21.121279+00:00",
+  "LastUpdate_Achievements": "2023-12-20T18:09:24.7201787+00:00"
 }

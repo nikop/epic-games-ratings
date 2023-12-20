@@ -7,19 +7,19 @@
 | Marc Allard | 75.00% | ~40 |
 | Little ideas | 70.00% | ~37 |
 | The Ship | 64.00% | ~34 |
-| Seeking the truth | 53.00% | ~28 |
-| An old friend | 51.00% | ~27 |
-| The Gala | 49.00% | ~26 |
-| A curious gathering | 49.00% | ~26 |
-| Little grey cells | 47.00% | ~25 |
-| Impossible is possible | 47.00% | ~25 |
-| The Missing Magdalene | 47.00% | ~25 |
-| Arthur Hastings | 47.00% | ~25 |
-| Everything matters | 43.00% | ~23 |
-| An expert mediator | 42.00% | ~22 |
-| DI Hardwicke | 42.00% | ~22 |
+| Seeking the truth | 55.00% | ~29 |
+| An old friend | 53.00% | ~28 |
+| The Gala | 51.00% | ~27 |
+| A curious gathering | 51.00% | ~27 |
+| Little grey cells | 49.00% | ~26 |
+| Impossible is possible | 49.00% | ~26 |
+| The Missing Magdalene | 49.00% | ~26 |
+| Arthur Hastings | 49.00% | ~26 |
+| Everything matters | 45.00% | ~24 |
+| An expert mediator | 43.00% | ~23 |
+| DI Hardwicke | 43.00% | ~23 |
 | Order and method | 38.00% | ~20 |
-| Betty Allen | 36.00% | ~19 |
+| Betty Allen | 38.00% | ~20 |
 | The Investigation Begins | 36.00% | ~19 |
 | Ms. Camilla B. Culsham | 32.00% | ~17 |
 | Irene Court-Smyth | 32.00% | ~17 |

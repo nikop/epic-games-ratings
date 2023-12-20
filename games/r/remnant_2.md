@@ -5,42 +5,42 @@ Rating: 4.74 (Ranked 162)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 6.00% | ~15,410 |
-| First of Many | 6.00% | ~15,410 |
-| Not Your Average Trait | 4.00% | ~10,273 |
-| Expanding Horizons | 3.00% | ~7,705 |
-| Gleaming the Cube | 3.00% | ~7,705 |
-| Quest for Survival | 3.00% | ~7,705 |
-| Familiar Face | 3.00% | ~7,705 |
-| Boss'n Up | 3.00% | ~7,705 |
-| Trait Chaser | 3.00% | ~7,705 |
-| Not So Special Now | 2.00% | ~5,137 |
-| Not a Janitor | 2.00% | ~5,137 |
-| Equal Measures | 2.00% | ~5,137 |
-| Blue Goddess | 2.00% | ~5,137 |
-| Duality | 2.00% | ~5,137 |
-| Top Performer | 2.00% | ~5,137 |
-| Shhh...It's a Secret | 2.00% | ~5,137 |
-| Was This Supposed To Happen? | 2.00% | ~5,137 |
-| Almost There | 2.00% | ~5,137 |
-| Make Some Room | 2.00% | ~5,137 |
-| Good, But Could Be Better! | 2.00% | ~5,137 |
-| Am I Seeing This? | 1.00% | ~2,568 |
-| Chaos | 1.00% | ~2,568 |
-| Traitor | 1.00% | ~2,568 |
-| Forever is a Long Time Coming | 1.00% | ~2,568 |
-| Power Surge | 1.00% | ~2,568 |
-| The God Gambit | 1.00% | ~2,568 |
-| Dark Designs | 1.00% | ~2,568 |
-| Madman's Paradise | 1.00% | ~2,568 |
-| The Agenda | 1.00% | ~2,568 |
-| Bad Moon Rising | 1.00% | ~2,568 |
-| Strapped | 1.00% | ~2,568 |
-| The Web | 1.00% | ~2,568 |
-| Scrap Collector | 1.00% | ~2,568 |
-| All These Traits� | 1.00% | ~2,568 |
-| Regicide | 1.00% | ~360 |
-| Master of the Dark Arts | 1.00% | ~360 |
+| The Killing Jar | 6.00% | ~15,414 |
+| First of Many | 6.00% | ~15,414 |
+| Not Your Average Trait | 4.00% | ~10,276 |
+| Expanding Horizons | 3.00% | ~7,707 |
+| Gleaming the Cube | 3.00% | ~7,707 |
+| Quest for Survival | 3.00% | ~7,707 |
+| Familiar Face | 3.00% | ~7,707 |
+| Boss'n Up | 3.00% | ~7,707 |
+| Trait Chaser | 3.00% | ~7,707 |
+| Not So Special Now | 2.00% | ~5,138 |
+| Not a Janitor | 2.00% | ~5,138 |
+| Equal Measures | 2.00% | ~5,138 |
+| Blue Goddess | 2.00% | ~5,138 |
+| Duality | 2.00% | ~5,138 |
+| Top Performer | 2.00% | ~5,138 |
+| Shhh...It's a Secret | 2.00% | ~5,138 |
+| Was This Supposed To Happen? | 2.00% | ~5,138 |
+| Almost There | 2.00% | ~5,138 |
+| Make Some Room | 2.00% | ~5,138 |
+| Good, But Could Be Better! | 2.00% | ~5,138 |
+| Am I Seeing This? | 1.00% | ~2,569 |
+| Chaos | 1.00% | ~2,569 |
+| Traitor | 1.00% | ~2,569 |
+| Forever is a Long Time Coming | 1.00% | ~2,569 |
+| Power Surge | 1.00% | ~2,569 |
+| The God Gambit | 1.00% | ~2,569 |
+| Dark Designs | 1.00% | ~2,569 |
+| Madman's Paradise | 1.00% | ~2,569 |
+| The Agenda | 1.00% | ~2,569 |
+| Bad Moon Rising | 1.00% | ~2,569 |
+| Strapped | 1.00% | ~2,569 |
+| The Web | 1.00% | ~2,569 |
+| Scrap Collector | 1.00% | ~2,569 |
+| All These Traits� | 1.00% | ~2,569 |
+| Regicide | 1.00% | ~361 |
+| Master of the Dark Arts | 1.00% | ~361 |
 | Scrap Hoarder | 0.90% | ~2,312 |
 | The Ultimate Weapon | 0.90% | ~2,312 |
 | Edgelord | 0.80% | ~2,055 |
@@ -52,17 +52,17 @@ Rating: 4.74 (Ranked 162)
 | Only Human | 0.60% | ~1,541 |
 | Crafty | 0.50% | ~1,284 |
 | Maxed Out! | 0.50% | ~1,284 |
-| Ghost in the Machine | 0.40% | ~1,027 |
-| The Trigger | 0.40% | ~1,027 |
-| Cutting Edge | 0.40% | ~1,027 |
-| The Collector | 0.40% | ~1,027 |
+| Ghost in the Machine | 0.40% | ~1,028 |
+| The Trigger | 0.40% | ~1,028 |
+| Cutting Edge | 0.40% | ~1,028 |
+| The Collector | 0.40% | ~1,028 |
 | Proving Grounds | 0.30% | ~771 |
 | Succession | 0.30% | ~108 |
 | You Shall Pass | 0.30% | ~108 |
 | A Foul Feast | 0.20% | ~72 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 256,837 (Ranked 61)  
-Completed: 609 (0.24%) (Ranked 261)  
+Progressed: 256,897 (Ranked 61)  
+Completed: 610 (0.24%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -218,7 +218,7 @@ Completed: 609 (0.24%) (Ranked 261)
 | 2023-12-17 | 252,137 | 598 |
 | 2023-12-18 | 254,063 | 603 |
 | 2023-12-19 | 255,737 | 607 |
-| 2023-12-20 | 256,837 | 609 |
+| 2023-12-20 | 256,897 | 610 |
 ## Awards
 Max (Great Boss Battles): 3,117  (Ranked 98)  
 Sum: 7,566 (Ranked 114)  

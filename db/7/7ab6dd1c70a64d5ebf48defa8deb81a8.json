@@ -4,7 +4,7 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 913,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 645,
+  "EOS_NewPlayers": 642,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1950,9 +1950,9 @@
       "ID": "ACH_08",
       "SetID": "efe2lj",
       "Name": "A Taste of Wrath",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 164
     },
     {
       "ID": "ACH_09",
@@ -1974,9 +1974,9 @@
       "ID": "ACH_11",
       "SetID": "efe2lj",
       "Name": "Forgemaster",
-      "Percentage": 0.5,
+      "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_12",
@@ -2014,9 +2014,9 @@
       "ID": "ACH_16",
       "SetID": "efe2lj",
       "Name": "Essence Blow",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_17",
@@ -2118,9 +2118,9 @@
       "ID": "ACH_29",
       "SetID": "efe2lj",
       "Name": "All That Gold",
-      "Percentage": 0.5,
+      "Percentage": 0.7,
       "XP": 60,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_30",
@@ -2189,8 +2189,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-20T17:10:07.8990356+00:00",
+  "LastChanged_Achievements": "2023-12-20T18:10:29.4554123+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
-  "LastUpdate_Ratings": "2023-12-20T16:57:40.9685377+00:00",
-  "LastUpdate_Achievements": "2023-12-20T17:10:07.8990686+00:00"
+  "LastUpdate_Ratings": "2023-12-20T17:57:46.1817347+00:00",
+  "LastUpdate_Achievements": "2023-12-20T18:10:29.4554363+00:00"
 }

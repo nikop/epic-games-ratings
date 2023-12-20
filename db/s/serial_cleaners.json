@@ -4,7 +4,7 @@
   "ProductSlug": "serial-cleaners",
   "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 385,
+  "Ranking_EOS_NewPlayers": 380,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 283,
+  "EOS_Progressed": 284,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.12,
+  "EOS_Completed_Percentage": 2.11,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:28.6580163+00:00",
@@ -674,6 +674,11 @@
       "Time": "2023-12-20T16:03:54.8208309+00:00",
       "NumProgressed": 283,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-20T18:04:28.5493668+00:00",
+      "NumProgressed": 284,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 24,
@@ -717,7 +722,7 @@
       "Name": "Pride and Joy",
       "Percentage": 9,
       "XP": 75,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "CHAPTER3_COMPLETE",
@@ -827,9 +832,9 @@
       "ID": "NODEATH_MISSION_CLEAR",
       "SetID": "2lk004m",
       "Name": "A New Broom Sweeps Clean",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 51
+      "UsersEstimate": 54
     },
     {
       "ID": "PERFECT_CLEANED_EVERY_MAP",
@@ -876,13 +881,13 @@
     {
       "ID": "5jieak",
       "IsBase": false,
-      "Progressed": 146,
+      "Progressed": 147,
       "Completed": 16
     },
     {
       "ID": "2lk004m",
       "IsBase": true,
-      "Progressed": 283,
+      "Progressed": 284,
       "Completed": 6
     }
   ],
@@ -890,8 +895,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-12-20T17:04:09.5040222+00:00",
+  "LastChanged_Achievements": "2023-12-20T18:04:28.5493663+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:54.371463+00:00",
-  "LastUpdate_Ratings": "2023-12-20T16:57:18.339416+00:00",
-  "LastUpdate_Achievements": "2023-12-20T17:04:09.5040367+00:00"
+  "LastUpdate_Ratings": "2023-12-20T17:57:19.3389993+00:00",
+  "LastUpdate_Achievements": "2023-12-20T18:04:28.5493807+00:00"
 }

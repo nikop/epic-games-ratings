@@ -2,13 +2,13 @@
   "ID": "ad43401ad02840c2b2bee5f1f1a59988",
   "Name": "Q.U.B.E. 10th Anniversary",
   "ProductSlug": "qube-10th-anniversary-59e999",
-  "Ranking_Rating": 720,
+  "Ranking_Rating": 730,
   "Ranking_Popularity": 552,
   "Ranking_PopularitySum": 554,
-  "Ranking_EOS_Progress": 138,
+  "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2022-09-29T11:00:00+00:00",
     "PcReleaseDate": "2022-09-14T13:00:00+00:00",
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.42,
+  "Rating": 4.41,
   "RatingHistory": [
     {
       "Time": "2023-10-16T17:01:54.4862812+00:00",
@@ -274,6 +274,12 @@
       "Rating": 4.42,
       "NumberOfAwards": 22,
       "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2023-12-20T18:00:20.4804289+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 22,
+      "NumberOfAwardsMax": 22
     }
   ],
   "ReviewsDisabled": false,
@@ -288,9 +294,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 25899,
+  "EOS_Progressed": 25907,
   "EOS_Completed": 166,
-  "EOS_NewPlayers": 1032,
+  "EOS_NewPlayers": 1031,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -7553,6 +7559,11 @@
       "Time": "2023-12-20T17:10:00.9679567+00:00",
       "NumProgressed": 25899,
       "NumCompleted": 166
+    },
+    {
+      "Time": "2023-12-20T18:10:22.0531704+00:00",
+      "NumProgressed": 25907,
+      "NumCompleted": 166
     }
   ],
   "TotalAchievements": 24,
@@ -7588,7 +7599,7 @@
       "Name": "Crush That Ball!",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 4403
+      "UsersEstimate": 4404
     },
     {
       "ID": "ACH_CrushPhysicsCube",
@@ -7596,7 +7607,7 @@
       "Name": "Crush That Cube!",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 5439
+      "UsersEstimate": 5440
     },
     {
       "ID": "ACH_Finale",
@@ -7692,7 +7703,7 @@
       "Name": "Sector 1",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 7252
+      "UsersEstimate": 7254
     },
     {
       "ID": "ACH_Sector2",
@@ -7700,7 +7711,7 @@
       "Name": "Sector 2",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 6475
+      "UsersEstimate": 6477
     },
     {
       "ID": "ACH_Sector3",
@@ -7708,7 +7719,7 @@
       "Name": "Sector 3",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 5439
+      "UsersEstimate": 5440
     },
     {
       "ID": "ACH_Sector4",
@@ -7716,7 +7727,7 @@
       "Name": "Sector 4",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 4662
+      "UsersEstimate": 4663
     },
     {
       "ID": "ACH_Sector5",
@@ -7724,7 +7735,7 @@
       "Name": "Sector 5",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 2849
+      "UsersEstimate": 2850
     },
     {
       "ID": "ACH_Sector6",
@@ -7732,7 +7743,7 @@
       "Name": "Sector 6",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 2590
+      "UsersEstimate": 2591
     },
     {
       "ID": "ACH_Sector7",
@@ -7755,16 +7766,16 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 25899,
+      "Progressed": 25907,
       "Completed": 166
     }
   ],
   "FirstSeen": "2023-10-12T18:57:52.5770146+00:00",
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
-  "LastChanged": "2023-12-11T17:59:07.2531282+00:00",
-  "LastChanged_Achievements": "2023-12-20T17:10:00.9679563+00:00",
+  "LastChanged": "2023-12-20T18:00:20.4804286+00:00",
+  "LastChanged_Achievements": "2023-12-20T18:10:22.0531701+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:26.5220859+00:00",
-  "LastUpdate_Ratings": "2023-12-20T16:59:52.9809912+00:00",
-  "LastUpdate_Achievements": "2023-12-20T17:10:00.9680077+00:00"
+  "LastUpdate_Ratings": "2023-12-20T18:00:20.4804292+00:00",
+  "LastUpdate_Achievements": "2023-12-20T18:10:22.0532099+00:00"
 }

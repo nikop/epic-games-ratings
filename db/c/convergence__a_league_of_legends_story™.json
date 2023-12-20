@@ -3170,9 +3170,9 @@
       "ID": "ParryRepeated1",
       "SetID": "a9e499d",
       "Name": "No, Thanks!",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 240
     },
     {
       "ID": "PhaseDiveCounter",
@@ -3347,8 +3347,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-18T08:57:59.1291337+00:00",
-  "LastChanged_Achievements": "2023-12-20T17:09:59.1887758+00:00",
+  "LastChanged_Achievements": "2023-12-20T18:10:20.183016+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.1550939+00:00",
-  "LastUpdate_Ratings": "2023-12-20T16:59:16.596511+00:00",
-  "LastUpdate_Achievements": "2023-12-20T17:09:59.1888246+00:00"
+  "LastUpdate_Ratings": "2023-12-20T17:59:37.4948288+00:00",
+  "LastUpdate_Achievements": "2023-12-20T18:10:20.1830579+00:00"
 }

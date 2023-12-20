@@ -9,7 +9,7 @@
 | First to the post | 83.00% | ~54 |
 | A kind of Magic | 77.00% | ~50 |
 | Connected | 71.00% | ~46 |
-| Expansion | 66.00% | ~43 |
+| Expansion | 68.00% | ~44 |
 | Harvest Time | 62.00% | ~40 |
 | Mine! | 62.00% | ~40 |
 | Artificer's Apprentice | 54.00% | ~35 |
@@ -25,7 +25,7 @@
 | Bad JuJu | 23.00% | ~15 |
 | Castle Meldec | 22.00% | ~14 |
 | Sevenkeeps Seat of Kings | 18.00% | ~12 |
-| Friend of Alluvyan | 15.00% | ~10 |
+| Friend of Alluvyan | 17.00% | ~11 |
 | Friend of Connach | 15.00% | ~10 |
 | Break Free | 15.00% | ~10 |
 | Philo's Tale | 14.00% | ~9 |

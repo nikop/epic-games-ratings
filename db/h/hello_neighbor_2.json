@@ -477,7 +477,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3484,
+  "EOS_Progressed": 3485,
   "EOS_Completed": 139,
   "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 1,
@@ -5707,6 +5707,11 @@
       "Time": "2023-12-20T17:05:53.3735488+00:00",
       "NumProgressed": 3484,
       "NumCompleted": 139
+    },
+    {
+      "Time": "2023-12-20T18:06:26.1541532+00:00",
+      "NumProgressed": 3485,
+      "NumCompleted": 139
     }
   ],
   "TotalAchievements": 14,
@@ -5726,7 +5731,7 @@
       "Name": "Case Closed",
       "Percentage": 36,
       "XP": 55,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -5782,7 +5787,7 @@
       "Name": "Imprisonment",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
@@ -5814,22 +5819,22 @@
       "Name": "Treasure Hunt",
       "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
       "SetID": "4kfb9pd",
       "Name": "Welcome to Raven Brooks",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 35,
-      "UsersEstimate": 2718
+      "UsersEstimate": 2753
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3484,
+      "Progressed": 3485,
       "Completed": 139
     }
   ],
@@ -5837,8 +5842,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-12-16T18:57:24.1820131+00:00",
-  "LastChanged_Achievements": "2023-12-20T17:05:53.373548+00:00",
+  "LastChanged_Achievements": "2023-12-20T18:06:26.1541527+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:20.5679965+00:00",
-  "LastUpdate_Ratings": "2023-12-20T16:59:17.6946121+00:00",
-  "LastUpdate_Achievements": "2023-12-20T17:05:53.3735903+00:00"
+  "LastUpdate_Ratings": "2023-12-20T17:59:38.7210581+00:00",
+  "LastUpdate_Achievements": "2023-12-20T18:06:26.154189+00:00"
 }

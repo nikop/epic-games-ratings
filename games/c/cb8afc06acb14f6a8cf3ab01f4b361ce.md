@@ -5,16 +5,16 @@ Rating: 4.21 (Ranked 923)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 4.00% | ~13,276 |
-| May the Torchbearer light our way | 3.00% | ~9,957 |
-| A powerful aura was here | 3.00% | ~9,957 |
+| The touch of Chaos | 4.00% | ~13,277 |
+| May the Torchbearer light our way | 3.00% | ~9,958 |
+| A powerful aura was here | 3.00% | ~9,958 |
 | Let's raise the stakes!! | 1.00% | ~3,319 |
 | Your wounds… They are healing so fast! | 0.90% | ~2,987 |
 | Rumors are true | 0.80% | ~2,655 |
 | Pride is a sin, young Knight | 0.80% | ~2,655 |
 | We'll be careful | 0.70% | ~2,323 |
-| Back to your senses | 0.60% | ~1,991 |
-| Bring it on! | 0.60% | ~1,991 |
+| Back to your senses | 0.60% | ~1,992 |
+| Bring it on! | 0.60% | ~1,992 |
 | They tricked me | 0.50% | ~1,660 |
 | We need to talk | 0.50% | ~1,660 |
 | I feel drawn to it | 0.50% | ~1,660 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 923)
 | Something... unnatural | 0.10% | ~332 |
 | We strike as one | 0.10% | ~332 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 331,903 (Ranked 52)  
+Progressed: 331,922 (Ranked 52)  
 Completed: 5 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,14 +134,14 @@ Completed: 5 (0.00%) (Ranked 384)
 | 2023-12-17 | 330,670 | 5 |
 | 2023-12-18 | 331,132 | 5 |
 | 2023-12-19 | 331,577 | 5 |
-| 2023-12-20 | 331,903 | 5 |
+| 2023-12-20 | 331,922 | 5 |
 ## Awards
-Max (Great Boss Battles): 70  (Ranked 411)  
-Sum: 70 (Ranked 480)  
-Diff (max vs sum): -69  
+Max (Great Boss Battles): 71  (Ranked 409)  
+Sum: 71 (Ranked 477)  
+Diff (max vs sum): -68  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 70 |
+| This game has Great Boss Battles | 71 |
 | This game has Inclusive Character Customization | 41 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -191,3 +191,4 @@ Diff (max vs sum): -69
 | 2023-12-15 | 4.21 | 68 | 68 |
 | 2023-12-16 | 4.21 | 69 | 69 |
 | 2023-12-17 | 4.21 | 70 | 70 |
+| 2023-12-20 | 4.21 | 71 | 71 |
