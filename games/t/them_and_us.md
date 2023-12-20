@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alone with Them | 71.00% | ~236 |
-| Forced to Kill | 68.00% | ~226 |
+| Alone with Them | 71.00% | ~237 |
+| Forced to Kill | 68.00% | ~227 |
 | A Night To Remember | 41.00% | ~137 |
-| Safe...For now? | 35.00% | ~117 |
+| Safe...For now? | 34.00% | ~114 |
 | Open Sesame | 30.00% | ~100 |
-| What have I done!? | 20.00% | ~67 |
 | Them and Us | 19.00% | ~63 |
 | OUTRAGE | 19.00% | ~63 |
-| This Coffin Has Your Name On It! | 15.00% | ~50 |
+| What have I done!? | 19.00% | ~63 |
+| This Coffin Has Your Name On It! | 16.00% | ~53 |
 | Alone In The Dark | 14.00% | ~47 |
 | The Cultists | 14.00% | ~47 |
-| The Forgotten Tower | 14.00% | ~47 |
 | Parasite Exterminated | 13.00% | ~43 |
+| The Forgotten Tower | 13.00% | ~43 |
 | Trapped | 12.00% | ~40 |
 | Modern Player | 11.00% | ~37 |
 | Lover of classics | 10.00% | ~33 |
@@ -25,15 +25,15 @@
 | What A Mansion | 8.00% | ~27 |
 | I Am The Gate Keeper! | 7.00% | ~23 |
 | Researcher | 6.00% | ~20 |
-| This Mansion Is Clean | 5.00% | ~17 |
 | Armed To The Teeth | 4.00% | ~13 |
+| This Mansion Is Clean | 4.00% | ~13 |
 | The bus stop | 3.00% | ~10 |
-| Back In Time | 2.00% | ~7 |
 | Spiritual essence well spent | 2.00% | ~7 |
 | Run and Gun | 2.00% | ~7 |
 | Pet The Dog | 2.00% | ~7 |
-| The 5th Element | 2.00% | ~7 |
+| Back In Time | 1.00% | ~3 |
 | Retro Player | 1.00% | ~3 |
+| The 5th Element | 1.00% | ~3 |
 | Before The Eclipse | 0.90% | ~3 |
 | Box Of Ploutus | 0.60% | ~2 |
 | No Time To Relax | 0.60% | ~2 |
@@ -45,7 +45,7 @@
 | Nightmare Over | 0.30% | ~1 |
 | Survival Horror | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 333 (Ranked 361)  
+Progressed: 334 (Ranked 362)  
 Completed: 1 (0.30%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 1 (0.30%) (Ranked 249)
 | 2023-12-17 | 328 | 1 |
 | 2023-12-18 | 329 | 1 |
 | 2023-12-19 | 331 | 1 |
-| 2023-12-20 | 333 | 1 |
+| 2023-12-20 | 334 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

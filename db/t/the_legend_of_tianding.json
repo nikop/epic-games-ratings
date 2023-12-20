@@ -2,7 +2,7 @@
   "ID": "2015d187216e4b33b88edee66282e4a1",
   "Name": "The Legend of Tianding",
   "ProductSlug": "the-legend-of-tianding",
-  "Ranking_EOS_Progress": 534,
+  "Ranking_EOS_Progress": 535,
   "Ranking_EOS_Completed": 64,
   "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 101,
@@ -413,9 +413,9 @@
       "ID": "MilitaryFactoryExplorer",
       "SetID": "123m9l1",
       "Name": "Urban Explorer",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "OmamoriExpert",
@@ -445,9 +445,9 @@
       "ID": "SewerExplorer",
       "SetID": "123m9l1",
       "Name": "Sewer Rat",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Survivor",
@@ -502,8 +502,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2023-12-20T16:03:27.3423691+00:00",
+  "LastChanged_Achievements": "2023-12-20T17:03:42.2773509+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:41.0518809+00:00",
-  "LastUpdate_Ratings": "2023-12-20T15:58:43.2780618+00:00",
-  "LastUpdate_Achievements": "2023-12-20T16:03:27.3423841+00:00"
+  "LastUpdate_Ratings": "2023-12-20T16:58:53.5526803+00:00",
+  "LastUpdate_Achievements": "2023-12-20T17:03:42.2773675+00:00"
 }

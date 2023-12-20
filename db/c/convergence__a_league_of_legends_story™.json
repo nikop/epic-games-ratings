@@ -5,10 +5,10 @@
   "Ranking_Rating": 338,
   "Ranking_Popularity": 569,
   "Ranking_PopularitySum": 569,
-  "Ranking_EOS_Progress": 274,
+  "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -45,9 +45,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1042,
+  "EOS_Progressed": 1043,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -2900,6 +2900,11 @@
       "Time": "2023-12-20T11:10:55.5438512+00:00",
       "NumProgressed": 1042,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-20T17:09:59.1887766+00:00",
+      "NumProgressed": 1043,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2935,7 +2940,7 @@
       "Name": "Treasure Trove",
       "Percentage": 13,
       "XP": 75,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -2943,7 +2948,7 @@
       "Name": "Right On Time",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ClockworkCompletion1",
@@ -2959,7 +2964,7 @@
       "Name": "Like Clockwork",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ClovemaryGift",
@@ -3007,7 +3012,7 @@
       "Name": "Family Memories",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "FactorywoodChests1",
@@ -3021,9 +3026,9 @@
       "ID": "FairgroundsChests1",
       "SetID": "a9e499d",
       "Name": "Fairgrounds Explorer",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 94
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -3039,7 +3044,7 @@
       "Name": "The Betrayer",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -3223,7 +3228,7 @@
       "Name": "Golem Chaser",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "SkillCompletion1",
@@ -3311,15 +3316,15 @@
       "Name": "Good Neighbor",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "Zarkon1Defeated",
       "SetID": "a9e499d",
       "Name": "The Brass Boss",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 250
+      "UsersEstimate": 240
     },
     {
       "ID": "Zarkon2Defeated",
@@ -3334,7 +3339,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1042,
+      "Progressed": 1043,
       "Completed": 6
     }
   ],
@@ -3342,8 +3347,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-18T08:57:59.1291337+00:00",
-  "LastChanged_Achievements": "2023-12-20T16:09:49.2833251+00:00",
+  "LastChanged_Achievements": "2023-12-20T17:09:59.1887758+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.1550939+00:00",
-  "LastUpdate_Ratings": "2023-12-20T15:59:06.1358068+00:00",
-  "LastUpdate_Achievements": "2023-12-20T16:09:49.2833654+00:00"
+  "LastUpdate_Ratings": "2023-12-20T16:59:16.596511+00:00",
+  "LastUpdate_Achievements": "2023-12-20T17:09:59.1888246+00:00"
 }

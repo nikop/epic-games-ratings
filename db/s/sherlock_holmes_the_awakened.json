@@ -5,9 +5,9 @@
   "Ranking_Rating": 531,
   "Ranking_Popularity": 569,
   "Ranking_PopularitySum": 569,
-  "Ranking_EOS_Progress": 260,
+  "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -147,7 +147,7 @@
   "Tags": [],
   "EOS_Progressed": 1262,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 2.85,
   "EosHistory": [
@@ -4464,9 +4464,9 @@
       "ID": "MQ03_5",
       "SetID": "bbing49",
       "Name": "A Method To His Madness",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 593
+      "UsersEstimate": 606
     },
     {
       "ID": "MQ04_1",
@@ -4520,9 +4520,9 @@
       "ID": "MQ05_4",
       "SetID": "bbing49",
       "Name": "Knives Out",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 530
+      "UsersEstimate": 543
     },
     {
       "ID": "MQ06_1",
@@ -4617,8 +4617,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-19T11:03:29.5971745+00:00",
-  "LastChanged_Achievements": "2023-12-20T16:06:10.98201+00:00",
+  "LastChanged_Achievements": "2023-12-20T17:06:23.3999088+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:14.2246919+00:00",
-  "LastUpdate_Ratings": "2023-12-20T16:02:56.066109+00:00",
-  "LastUpdate_Achievements": "2023-12-20T16:06:10.982052+00:00"
+  "LastUpdate_Ratings": "2023-12-20T17:03:10.4151747+00:00",
+  "LastUpdate_Achievements": "2023-12-20T17:06:23.3999505+00:00"
 }

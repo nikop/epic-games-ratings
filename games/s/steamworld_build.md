@@ -16,7 +16,7 @@
 | Systematic | 39.00% | ~55 |
 | Mine Sweeper | 35.00% | ~49 |
 | Roll Out | 34.00% | ~48 |
-| Dopa-Miner | 26.00% | ~36 |
+| Dopa-Miner | 27.00% | ~38 |
 | Up, Up And Away! | 25.00% | ~35 |
 | Whoa! | 25.00% | ~35 |
 | Botropolis | 22.00% | ~31 |
@@ -33,7 +33,7 @@
 | Yup. | 0.70% | ~1 |
 | Nothing But Road | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140 (Ranked 424)  
+Progressed: 140 (Ranked 426)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |

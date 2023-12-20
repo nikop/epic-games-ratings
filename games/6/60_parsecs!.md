@@ -17,7 +17,7 @@
 | For Science! | 35.00% | ~275 |
 | Meet the Petersons | 32.00% | ~252 |
 | Stay Cool | 30.00% | ~236 |
-| KIA | 27.00% | ~212 |
+| KIA | 28.00% | ~220 |
 | Mutiny in making | 25.00% | ~196 |
 | Eco-Shuttle | 20.00% | ~157 |
 | Et tu, Astrocitizen? | 20.00% | ~157 |
@@ -49,7 +49,7 @@
 | Unidentified Flying Offspring | 0.10% | ~1 |
 | Man's best comrade | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 786 (Ranked 292)  
+Progressed: 786 (Ranked 293)  
 Completed: 1 (0.13%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |

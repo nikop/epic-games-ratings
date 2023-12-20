@@ -14,8 +14,8 @@ Number of Ratings: 90  (23.09.2022)
 | Earthly Pleasures | 27.00% | ~37 |
 | Bodied Sattva | 25.00% | ~34 |
 | Cult Following | 23.00% | ~31 |
+| Lie Back and Think of Albion | 19.00% | ~26 |
 | Upgreatest | 19.00% | ~26 |
-| Lie Back and Think of Albion | 18.00% | ~24 |
 | I Look Up As I Walk to Takoshima | 18.00% | ~24 |
 | Pimp My Raid | 17.00% | ~23 |
 | Perfect Probulator | 13.00% | ~18 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.00% | ~0 |
 | Trans-Siberian Express | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136 (Ranked 431)  
+Progressed: 136 (Ranked 433)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |

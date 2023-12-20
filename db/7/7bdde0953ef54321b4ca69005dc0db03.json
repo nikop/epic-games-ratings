@@ -2,10 +2,10 @@
   "ID": "7bdde0953ef54321b4ca69005dc0db03",
   "Name": "Extreme Offroad Racing",
   "ProductSlug": "extreme-offroad-racing-439263",
-  "Ranking_EOS_Progress": 810,
+  "Ranking_EOS_Progress": 811,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 558,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-10-14T18:30:00+00:00",
     "PcReleaseDate": "2023-10-14T18:30:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-02T20:00:40.1567082+00:00",
   "LastUpdate_AppInfo": "2023-12-19T22:56:53.6915798+00:00",
-  "LastUpdate_Ratings": "2023-12-20T15:59:51.6463743+00:00",
-  "LastUpdate_Achievements": "2023-12-20T16:05:04.939169+00:00"
+  "LastUpdate_Ratings": "2023-12-20T17:00:01.5350608+00:00",
+  "LastUpdate_Achievements": "2023-12-20T17:05:18.928417+00:00"
 }

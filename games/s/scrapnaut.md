@@ -13,7 +13,7 @@ Number of Ratings: 38  (23.09.2022)
 | Teleport | 44.00% | ~235 |
 | Cook | 43.00% | ~230 |
 | Scrap Master | 38.00% | ~203 |
-| Smelter | 35.00% | ~187 |
+| Smelter | 36.00% | ~193 |
 | Digger | 32.00% | ~171 |
 | Electro-Scrap Gatherer | 32.00% | ~171 |
 | Survivor | 31.00% | ~166 |
@@ -38,7 +38,7 @@ Number of Ratings: 38  (23.09.2022)
 | Forest Killer | 2.00% | ~11 |
 | Invincible | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 535 (Ranked 325)  
+Progressed: 535 (Ranked 326)  
 Completed: 3 (0.56%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |

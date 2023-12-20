@@ -6,7 +6,7 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 61.00% | ~2,007 |
+| You're free now! | 61.00% | ~2,008 |
 | Keeping it classy | 28.00% | ~921 |
 | Welcome to the family | 22.00% | ~724 |
 | The finer things in life | 20.00% | ~658 |
@@ -27,19 +27,19 @@ Number of Ratings: 111  (23.09.2022)
 | DIY Boss | 6.00% | ~197 |
 | Fulfilled the dream | 6.00% | ~197 |
 | G'Day Mate! | 6.00% | ~197 |
-| Globetrotter | 6.00% | ~197 |
 | Laid back | 6.00% | ~197 |
 | NAHELL! | 6.00% | ~197 |
 | Purple passion | 6.00% | ~197 |
 | Squad goals | 6.00% | ~197 |
 | Sup widdit big dog! | 6.00% | ~197 |
-| Cops called! | 5.00% | ~164 |
-| Lines for days | 5.00% | ~164 |
-| Manny Destroys All | 5.00% | ~164 |
-| Renaissance man | 5.00% | ~164 |
-| Tank commander | 5.00% | ~164 |
-| Trick shot marksman | 5.00% | ~164 |
-| We get it, you're good | 5.00% | ~164 |
+| Cops called! | 5.00% | ~165 |
+| Globetrotter | 5.00% | ~165 |
+| Lines for days | 5.00% | ~165 |
+| Manny Destroys All | 5.00% | ~165 |
+| Renaissance man | 5.00% | ~165 |
+| Tank commander | 5.00% | ~165 |
+| Trick shot marksman | 5.00% | ~165 |
+| We get it, you're good | 5.00% | ~165 |
 | G.O.A.T. status | 4.00% | ~132 |
 | Hoarder | 4.00% | ~132 |
 | Pew-Pew | 4.00% | ~132 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,290 (Ranked 216)  
+Progressed: 3,291 (Ranked 217)  
 Completed: 2 (0.06%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 2 (0.06%) (Ranked 325)
 | 2023-12-17 | 3,239 | 2 |
 | 2023-12-18 | 3,263 | 2 |
 | 2023-12-19 | 3,283 | 2 |
-| 2023-12-20 | 3,290 | 2 |
+| 2023-12-20 | 3,291 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 59  (Ranked 422)  
 Sum: 568 (Ranked 323)  

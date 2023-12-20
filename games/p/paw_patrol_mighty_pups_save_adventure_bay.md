@@ -8,15 +8,15 @@
 | Grand Re-Opening | 70.00% | ~33 |
 | Pup Pup Boogie | 68.00% | ~32 |
 | Summer Day | 66.00% | ~31 |
-| Mr. Porter | 55.00% | ~26 |
+| Mr. Porter | 57.00% | ~27 |
 | Risky Rescue | 55.00% | ~26 |
 | Carlos Is Tangled | 51.00% | ~24 |
 | Clear the Road | 45.00% | ~21 |
 | Mandy Family | 45.00% | ~21 |
 | Paw patrol member | 43.00% | ~20 |
 | Robot Out of Control | 43.00% | ~20 |
+| Never Miss | 38.00% | ~18 |
 | Break Time | 36.00% | ~17 |
-| Never Miss | 36.00% | ~17 |
 | Master of the Rope | 34.00% | ~16 |
 | Training Day | 34.00% | ~16 |
 | In the Air | 34.00% | ~16 |
@@ -35,7 +35,7 @@
 | The Collector | 0.00% | ~0 |
 | Pup Treat Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47 (Ranked 530)  
+Progressed: 47 (Ranked 531)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |

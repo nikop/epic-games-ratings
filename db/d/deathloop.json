@@ -3,12 +3,12 @@
   "Name": "DEATHLOOP",
   "ProductSlug": "deathloop",
   "Ranking_Rating": 602,
-  "Ranking_Popularity": 472,
-  "Ranking_PopularitySum": 388,
-  "Ranking_EOS_Progress": 810,
+  "Ranking_Popularity": 468,
+  "Ranking_PopularitySum": 387,
+  "Ranking_EOS_Progress": 811,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 558,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-03-24T15:00:00+00:00",
     "PcReleaseDate": "2021-09-14T15:00:00+00:00",
@@ -985,11 +985,17 @@
       "Rating": 4.5,
       "NumberOfAwards": 255,
       "NumberOfAwardsMax": 39
+    },
+    {
+      "Time": "2023-12-20T16:58:19.9638375+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 257,
+      "NumberOfAwardsMax": 40
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 255,
-  "NumberOfAwardsMax": 39,
+  "NumberOfAwards": 257,
+  "NumberOfAwardsMax": 40,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
     {
@@ -1014,13 +1020,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 39
+      "Count": 40
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1058,8 +1064,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:46.7837121+00:00",
-  "LastChanged": "2023-12-20T11:58:34.8944899+00:00",
+  "LastChanged": "2023-12-20T16:58:19.9638373+00:00",
   "LastUpdate_AppInfo": "2023-12-16T13:57:08.2688654+00:00",
-  "LastUpdate_Ratings": "2023-12-20T15:58:10.5298359+00:00",
-  "LastUpdate_Achievements": "2023-12-20T16:09:05.4787757+00:00"
+  "LastUpdate_Ratings": "2023-12-20T16:58:19.9638378+00:00",
+  "LastUpdate_Achievements": "2023-12-20T17:09:16.0031047+00:00"
 }

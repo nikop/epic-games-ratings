@@ -2,10 +2,10 @@
   "ID": "d155880c8bd146dcbaeac93796be53d6",
   "Name": "1775 Rebellion",
   "ProductSlug": "1775-rebellion-aa5b41",
-  "Ranking_EOS_Progress": 810,
+  "Ranking_EOS_Progress": 811,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 558,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-10-13T11:00:00+00:00",
     "PcReleaseDate": "2016-09-26T11:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-29T22:58:14.0056081+00:00",
   "LastUpdate_AppInfo": "2023-12-14T01:43:58.8755888+00:00",
-  "LastUpdate_Ratings": "2023-12-20T16:02:36.6973496+00:00",
-  "LastUpdate_Achievements": "2023-12-20T16:08:41.0893577+00:00"
+  "LastUpdate_Ratings": "2023-12-20T17:02:51.9184477+00:00",
+  "LastUpdate_Achievements": "2023-12-20T17:08:50.9976282+00:00"
 }

@@ -1,15 +1,15 @@
 # Chants of Sennaar
 [Store](https://store.epicgames.com/en-US/p/chants-of-sennaar)  
 [View Rawdata](../../db/c/chants_of_sennaar.json)  
-Rating: 4.88 (Ranked 17)  
+Rating: 4.88 (Ranked 16)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | That's the spirit | 48.00% | ~696 |
 | Welcome to the Tower | 43.00% | ~623 |
 | The great escape | 36.00% | ~522 |
-| The Preacher's fate | 34.00% | ~493 |
-| A new dawn | 28.00% | ~406 |
+| The Preacher's fate | 35.00% | ~507 |
+| A new dawn | 29.00% | ~420 |
 | Scholar | 25.00% | ~362 |
 | True G3M4R | 24.00% | ~348 |
 | A good beginning | 23.00% | ~333 |
@@ -31,7 +31,7 @@ Rating: 4.88 (Ranked 17)
 | For its own good | 10.00% | ~145 |
 | Fashion victim | 6.00% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,449 (Ranked 251)  
+Progressed: 1,449 (Ranked 252)  
 Completed: 76 (5.24%) (Ranked 75)  
 ## EOS Players History
 | Date | Progressed | Completed |

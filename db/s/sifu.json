@@ -8367,9 +8367,9 @@
       "Count": 434
     }
   ],
-  "EOS_Progressed": 737376,
+  "EOS_Progressed": 737433,
   "EOS_Completed": 12958,
-  "EOS_NewPlayers": 19368,
+  "EOS_NewPlayers": 19424,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.76,
   "EosHistory": [
@@ -30162,6 +30162,11 @@
       "Time": "2023-12-20T16:08:48.2255967+00:00",
       "NumProgressed": 737376,
       "NumCompleted": 12958
+    },
+    {
+      "Time": "2023-12-20T17:08:58.29792+00:00",
+      "NumProgressed": 737433,
+      "NumCompleted": 12958
     }
   ],
   "TotalAchievements": 60,
@@ -30173,7 +30178,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22121
+      "UsersEstimate": 22123
     },
     {
       "ID": "02_Vengeance_H1",
@@ -30181,7 +30186,7 @@
       "Name": "The Assault",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14748
+      "UsersEstimate": 14749
     },
     {
       "ID": "03_Vengeance_H2",
@@ -30189,7 +30194,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14748
+      "UsersEstimate": 14749
     },
     {
       "ID": "04_Vengeance_H3",
@@ -30213,7 +30218,7 @@
       "Name": "Furious Fists",
       "Percentage": 0.9,
       "XP": 75,
-      "UsersEstimate": 6636
+      "UsersEstimate": 6637
     },
     {
       "ID": "07_Wude_H1",
@@ -30333,7 +30338,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 4424
+      "UsersEstimate": 4425
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -30349,7 +30354,7 @@
       "Name": "Life is your teacher",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22121
+      "UsersEstimate": 22123
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -30405,7 +30410,7 @@
       "Name": "I know Kung-Fu",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6636
+      "UsersEstimate": 6637
     },
     {
       "ID": "31_ComboHigh",
@@ -30437,7 +30442,7 @@
       "Name": "Lightning Hands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14748
+      "UsersEstimate": 14749
     },
     {
       "ID": "35_WideStrike",
@@ -30485,7 +30490,7 @@
       "Name": "Take damage to save time",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6636
+      "UsersEstimate": 6637
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -30509,7 +30514,7 @@
       "Name": "Project Arena",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -30525,7 +30530,7 @@
       "Name": "Bloody Sport",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -30652,21 +30657,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 46677,
+      "Progressed": 46734,
       "Completed": 10777
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 737376,
+      "Progressed": 737433,
       "Completed": 12958
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-20T14:03:14.9334543+00:00",
-  "LastChanged_Achievements": "2023-12-20T16:08:48.2255958+00:00",
+  "LastChanged_Achievements": "2023-12-20T17:08:58.2979196+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:50.1499922+00:00",
-  "LastUpdate_Ratings": "2023-12-20T16:02:48.7791635+00:00",
-  "LastUpdate_Achievements": "2023-12-20T16:08:48.2257375+00:00"
+  "LastUpdate_Ratings": "2023-12-20T17:03:03.3516045+00:00",
+  "LastUpdate_Achievements": "2023-12-20T17:08:58.2980335+00:00"
 }

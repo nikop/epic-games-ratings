@@ -5,10 +5,10 @@
   "Ranking_Rating": 1062,
   "Ranking_Popularity": 569,
   "Ranking_PopularitySum": 569,
-  "Ranking_EOS_Progress": 235,
+  "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -283,9 +283,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1958,
+  "EOS_Progressed": 1960,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 180,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2938,6 +2938,11 @@
       "Time": "2023-12-20T16:03:50.1094958+00:00",
       "NumProgressed": 1958,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T17:04:05.106447+00:00",
+      "NumProgressed": 1960,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3173,15 +3178,15 @@
       "Name": "ICU",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "Achievement_031",
       "SetID": "6b34g18",
       "Name": "Sucks To Be You",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 98
     },
     {
       "ID": "Achievement_032",
@@ -3197,7 +3202,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "Achievement_034",
@@ -3476,7 +3481,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1958,
+      "Progressed": 1960,
       "Completed": 0
     }
   ],
@@ -3484,8 +3489,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-19T11:02:35.1367556+00:00",
-  "LastChanged_Achievements": "2023-12-20T16:03:50.1094952+00:00",
+  "LastChanged_Achievements": "2023-12-20T17:04:05.1064465+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:02.9619993+00:00",
-  "LastUpdate_Ratings": "2023-12-20T15:57:10.9590733+00:00",
-  "LastUpdate_Achievements": "2023-12-20T16:03:50.1095588+00:00"
+  "LastUpdate_Ratings": "2023-12-20T16:57:19.8278488+00:00",
+  "LastUpdate_Achievements": "2023-12-20T17:04:05.1065295+00:00"
 }

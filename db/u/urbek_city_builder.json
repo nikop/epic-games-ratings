@@ -2,10 +2,10 @@
   "ID": "5d2e14c5f6ac427b8a8466508cf81f6d",
   "Name": "Urbek City Builder",
   "ProductSlug": "urbek-city-builder-17cf7d",
-  "Ranking_EOS_Progress": 336,
+  "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 306,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -1931,9 +1931,9 @@
       "ID": "NIGHT_LIFE_2",
       "SetID": "44dlcg0",
       "Name": "What would we do if we can\u0027t go out with friends?",
-      "Percentage": 0.7,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NIGHT_LIFE_3",
@@ -2180,8 +2180,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-12-20T16:10:02.1791129+00:00",
+  "LastChanged_Achievements": "2023-12-20T17:10:11.8739191+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:36.321847+00:00",
-  "LastUpdate_Ratings": "2023-12-20T16:00:04.494054+00:00",
-  "LastUpdate_Achievements": "2023-12-20T16:10:02.1791744+00:00"
+  "LastUpdate_Ratings": "2023-12-20T17:00:13.4428671+00:00",
+  "LastUpdate_Achievements": "2023-12-20T17:10:11.8739964+00:00"
 }

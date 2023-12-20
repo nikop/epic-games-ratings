@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1500,9 +1500,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 25913,
+  "EOS_Progressed": 25923,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 2208,
+  "EOS_NewPlayers": 2218,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -11220,6 +11220,11 @@
       "Time": "2023-12-20T16:09:40.189475+00:00",
       "NumProgressed": 25913,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-20T17:09:50.1371789+00:00",
+      "NumProgressed": 25923,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -11239,7 +11244,7 @@
       "Name": "Truly Blessed",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "AllEquipment",
@@ -11279,7 +11284,7 @@
       "Name": "Looks Familiar",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "BossBridgeAdvancedDefeated",
@@ -11423,7 +11428,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "EndTimerFail",
@@ -11542,21 +11547,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 25913,
+      "Progressed": 25923,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 4843,
+      "Progressed": 4853,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-07T09:58:25.2813813+00:00",
-  "LastChanged_Achievements": "2023-12-20T16:09:40.1894747+00:00",
+  "LastChanged_Achievements": "2023-12-20T17:09:50.1371785+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:44.2937948+00:00",
-  "LastUpdate_Ratings": "2023-12-20T15:58:15.0175505+00:00",
-  "LastUpdate_Achievements": "2023-12-20T16:09:40.1895526+00:00"
+  "LastUpdate_Ratings": "2023-12-20T16:58:25.0848995+00:00",
+  "LastUpdate_Achievements": "2023-12-20T17:09:50.1372482+00:00"
 }

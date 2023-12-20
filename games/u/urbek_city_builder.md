@@ -19,12 +19,12 @@
 | Food producer | 2.00% | ~9 |
 | I love books! | 2.00% | ~9 |
 | King of fish | 1.00% | ~4 |
+| What would we do if we can't go out with friends? | 0.90% | ~4 |
 | Metropolurbek | 0.90% | ~4 |
 | Rebel city | 0.90% | ~4 |
 | Banking city | 0.70% | ~3 |
 | City crisis | 0.70% | ~3 |
 | I am very happy! | 0.70% | ~3 |
-| What would we do if we can't go out with friends? | 0.70% | ~3 |
 | Food provider master | 0.50% | ~2 |
 | Oh, life is too awesome! Thank you! | 0.50% | ~2 |
 | ¡Muy feliz! | 0.50% | ~2 |
@@ -84,7 +84,7 @@
 | Rainforest master | 0.00% | ~0 |
 | Welfare state | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 440 (Ranked 336)  
+Progressed: 440 (Ranked 337)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |

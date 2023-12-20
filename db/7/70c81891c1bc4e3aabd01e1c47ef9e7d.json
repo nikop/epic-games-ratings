@@ -2,10 +2,10 @@
   "ID": "70c81891c1bc4e3aabd01e1c47ef9e7d",
   "Name": "Zarathustra - Cybergeddon",
   "ProductSlug": "zarathustra-cybergeddon-70bc56",
-  "Ranking_EOS_Progress": 810,
+  "Ranking_EOS_Progress": 811,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 558,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-12-05T11:00:00+00:00",
     "PcReleaseDate": "2023-11-29T23:30:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-08T20:59:50.8064667+00:00",
   "LastUpdate_AppInfo": "2023-12-18T15:57:05.9917924+00:00",
-  "LastUpdate_Ratings": "2023-12-20T15:58:49.1027666+00:00",
-  "LastUpdate_Achievements": "2023-12-20T16:06:12.6000557+00:00"
+  "LastUpdate_Ratings": "2023-12-20T16:58:59.4209402+00:00",
+  "LastUpdate_Achievements": "2023-12-20T17:06:24.9597409+00:00"
 }

@@ -1,51 +1,51 @@
 # EA SPORTS™ FIFA 23 Standard Edition
 [Store](https://store.epicgames.com/en-US/p/fifa-23)  
 [View Rawdata](../../db/e/ea_sports™_fifa_23_standard_edition.json)  
-Rating: 4.26 (Ranked 884)  
+Rating: 4.26 (Ranked 885)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Power Shot | 75.00% | ~152,283 |
-| Dead-ball specialist | 62.00% | ~125,887 |
-| European Legend | 52.00% | ~105,583 |
-| Multitasking | 51.00% | ~103,552 |
-| Balanced Path | 49.00% | ~99,492 |
-| High Grades | 48.00% | ~97,461 |
-| Let the Games Begin | 47.00% | ~95,431 |
-| A Moment of Your Time | 46.00% | ~93,400 |
-| Aiming High | 46.00% | ~93,400 |
-| Tactical Tinkerer | 40.00% | ~81,218 |
-| Intuition and Execution | 39.00% | ~79,187 |
-| Squad Building Connoisseur | 38.00% | ~77,157 |
-| The Winning Formula | 36.00% | ~73,096 |
-| Parking the Bus | 28.00% | ~56,852 |
-| Safe House | 26.00% | ~52,791 |
-| Best of Five | 25.00% | ~50,761 |
-| Football is Everything | 24.00% | ~48,731 |
-| The Chosen One | 22.00% | ~44,670 |
-| Fresh Fit | 21.00% | ~42,639 |
-| Bring it on | 17.00% | ~34,517 |
-| Life-Like | 14.00% | ~28,426 |
-| Make the Grade | 12.00% | ~24,365 |
-| I Played Them All | 10.00% | ~20,304 |
-| Specialist | 10.00% | ~20,304 |
-| Teamwork works | 9.00% | ~18,274 |
-| First of Many | 9.00% | ~18,274 |
-| Momentous Achievement | 6.00% | ~12,183 |
-| In Cahoots | 5.00% | ~10,152 |
-| Tune Your Club | 5.00% | ~10,152 |
-| Becoming Unplayable | 5.00% | ~10,152 |
-| Shop till you drop | 5.00% | ~10,152 |
-| On the way up | 5.00% | ~10,152 |
+| Power Shot | 75.00% | ~152,296 |
+| Dead-ball specialist | 62.00% | ~125,898 |
+| European Legend | 52.00% | ~105,592 |
+| Multitasking | 51.00% | ~103,562 |
+| Balanced Path | 49.00% | ~99,500 |
+| High Grades | 48.00% | ~97,470 |
+| Let the Games Begin | 47.00% | ~95,439 |
+| A Moment of Your Time | 46.00% | ~93,409 |
+| Aiming High | 46.00% | ~93,409 |
+| Tactical Tinkerer | 40.00% | ~81,225 |
+| Intuition and Execution | 39.00% | ~79,194 |
+| Squad Building Connoisseur | 38.00% | ~77,164 |
+| The Winning Formula | 36.00% | ~73,102 |
+| Parking the Bus | 28.00% | ~56,857 |
+| Safe House | 26.00% | ~52,796 |
+| Best of Five | 25.00% | ~50,766 |
+| Football is Everything | 24.00% | ~48,735 |
+| The Chosen One | 22.00% | ~44,674 |
+| Fresh Fit | 21.00% | ~42,643 |
+| Bring it on | 17.00% | ~34,521 |
+| Life-Like | 14.00% | ~28,429 |
+| Make the Grade | 12.00% | ~24,367 |
+| I Played Them All | 10.00% | ~20,306 |
+| Specialist | 10.00% | ~20,306 |
+| Teamwork works | 9.00% | ~18,276 |
+| First of Many | 9.00% | ~18,276 |
+| Momentous Achievement | 6.00% | ~12,184 |
+| In Cahoots | 5.00% | ~10,153 |
+| Tune Your Club | 5.00% | ~10,153 |
+| Becoming Unplayable | 5.00% | ~10,153 |
+| Shop till you drop | 5.00% | ~10,153 |
+| On the way up | 5.00% | ~10,153 |
 | Volta's best | 4.00% | ~8,122 |
 | Full-House | 4.00% | ~8,122 |
-| Sharing is Caring | 3.00% | ~6,091 |
+| Sharing is Caring | 3.00% | ~6,092 |
 | Full wardrobe | 0.60% | ~1,218 |
 | Girl Power | 0.40% | ~812 |
 | Training Addict | 0.10% | ~203 |
 | Dazzling Personality | 0.10% | ~203 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 203,044 (Ranked 76)  
+Progressed: 203,062 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,10 +142,10 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-17 | 202,037 | 0 |
 | 2023-12-18 | 202,437 | 0 |
 | 2023-12-19 | 202,791 | 0 |
-| 2023-12-20 | 203,044 | 0 |
+| 2023-12-20 | 203,062 | 0 |
 ## Awards
 Max (Diverse Characters): 21,838  (Ranked 20)  
-Sum: 108,756 (Ranked 15)  
+Sum: 108,763 (Ranked 15)  
 Diff (max vs sum): 5  
 | Award | Count |
 | ----- | ----- |
@@ -156,7 +156,7 @@ Diff (max vs sum): 5
 | This game is Extremely Fun | 11,748 |
 | This game has Competitive Players | 11,705 |
 | This game has Amazing Storytelling | 11,525 |
-| This game has Quickly Understood Controls | 10,614 |
+| This game has Quickly Understood Controls | 10,621 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -510,4 +510,4 @@ Diff (max vs sum): 5
 | 2023-12-17 | 4.26 | 21,800 | 108,554 |
 | 2023-12-18 | 4.26 | 21,814 | 108,635 |
 | 2023-12-19 | 4.26 | 21,838 | 108,735 |
-| 2023-12-20 | 4.26 | 21,838 | 108,756 |
+| 2023-12-20 | 4.26 | 21,838 | 108,763 |

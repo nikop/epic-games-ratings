@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1699,10 +1699,10 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 163492,
-  "EOS_Completed": 361,
-  "EOS_NewPlayers": 1127,
-  "EOS_NewCompleters": 60,
+  "EOS_Progressed": 163500,
+  "EOS_Completed": 362,
+  "EOS_NewPlayers": 1128,
+  "EOS_NewCompleters": 58,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
     {
@@ -19944,6 +19944,11 @@
       "Time": "2023-12-20T16:05:31.6135459+00:00",
       "NumProgressed": 163492,
       "NumCompleted": 361
+    },
+    {
+      "Time": "2023-12-20T17:05:44.6273166+00:00",
+      "NumProgressed": 163500,
+      "NumCompleted": 362
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -19964,7 +19969,7 @@
       "Name": "Bloodhunter",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ACQUIRE_ALLOUTFITS",
@@ -19972,7 +19977,7 @@
       "Name": "Skinmaker",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ACQUIRE_ALLTRAITS",
@@ -19988,7 +19993,7 @@
       "Name": "Instruments",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ACQUIRE_FETALPEARLS",
@@ -20012,15 +20017,15 @@
       "Name": "Breath",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ACQUIRE_TRAIT",
       "SetID": "ccc0dlh",
       "Name": "Taste",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1635
+      "UsersEstimate": 3270
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -20028,7 +20033,7 @@
       "Name": "Weeper",
       "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 1471
+      "UsersEstimate": 1472
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -20084,7 +20089,7 @@
       "Name": "Hush",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "DEFEAT_HARMLESSROCKGIANT",
@@ -20092,7 +20097,7 @@
       "Name": "Harmless",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "DEFEAT_JAWCRAB",
@@ -20148,7 +20153,7 @@
       "Name": "Silenced Whispers",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -20156,7 +20161,7 @@
       "Name": "Devourer",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -20188,7 +20193,7 @@
       "Name": "Kinship",
       "Percentage": 0.1,
       "XP": 120,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "MISC_ENDING_SURRENDER",
@@ -20196,7 +20201,7 @@
       "Name": "Weakness",
       "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "MISC_MAXUPGRADE",
@@ -20236,7 +20241,7 @@
       "Name": "Unwrap the Gift",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "MISC_UNLOCKNERVEPASSES",
@@ -20244,7 +20249,7 @@
       "Name": "Passage",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "QUEST_CHILD",
@@ -20260,7 +20265,7 @@
       "Name": "Generous",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "QUEST_KIN",
@@ -20284,7 +20289,7 @@
       "Name": "Proportions",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "DEFEAT_DREAMBORN",
@@ -20323,21 +20328,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 163075,
+      "Progressed": 163083,
       "Completed": 1242
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 163492,
-      "Completed": 361
+      "Progressed": 163500,
+      "Completed": 362
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-20T15:59:13.4462939+00:00",
-  "LastChanged_Achievements": "2023-12-20T16:05:31.6135456+00:00",
+  "LastChanged_Achievements": "2023-12-20T17:05:44.6273163+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:23.4801204+00:00",
-  "LastUpdate_Ratings": "2023-12-20T15:59:13.4462944+00:00",
-  "LastUpdate_Achievements": "2023-12-20T16:05:31.6136965+00:00"
+  "LastUpdate_Ratings": "2023-12-20T16:59:23.6073955+00:00",
+  "LastUpdate_Achievements": "2023-12-20T17:05:44.6274558+00:00"
 }

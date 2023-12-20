@@ -41,8 +41,8 @@ Rating: 4.56 (Ranked 497)
 | Freedom fighter | 12.00% | ~12 |
 | King of the handymen | 11.00% | ~11 |
 | Titan Lord | 10.00% | ~10 |
+| Terror of the hens | 9.00% | ~9 |
 | Expert | 9.00% | ~9 |
-| Terror of the hens | 8.00% | ~8 |
 | The traveler | 7.00% | ~7 |
 | Moneybags | 6.00% | ~6 |
 | Rune master | 4.00% | ~4 |
@@ -56,7 +56,7 @@ Rating: 4.56 (Ranked 497)
 | Master of the classes | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 100 (Ranked 464)  
+Progressed: 100 (Ranked 465)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |

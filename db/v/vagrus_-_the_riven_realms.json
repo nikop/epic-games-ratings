@@ -2,10 +2,10 @@
   "ID": "9de65f6db18c4757a84e639d9a3e5a97",
   "Name": "Vagrus - The Riven Realms",
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
-  "Ranking_EOS_Progress": 392,
+  "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 344,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
     "PcReleaseDate": "2021-10-05T15:00:00+00:00",
@@ -1575,9 +1575,9 @@
       "ID": "Vanilla_ThePackage",
       "SetID": "27kik8p",
       "Name": "The Package",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 61
     },
     {
       "ID": "Vanilla_ThePilgrimageEnds",
@@ -1696,8 +1696,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-12-20T16:04:54.1722749+00:00",
+  "LastChanged_Achievements": "2023-12-20T17:05:08.2000969+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:13.1376509+00:00",
-  "LastUpdate_Ratings": "2023-12-20T15:58:58.094242+00:00",
-  "LastUpdate_Achievements": "2023-12-20T16:04:54.1723584+00:00"
+  "LastUpdate_Ratings": "2023-12-20T16:59:08.6177231+00:00",
+  "LastUpdate_Achievements": "2023-12-20T17:05:08.2001954+00:00"
 }

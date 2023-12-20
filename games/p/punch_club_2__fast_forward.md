@@ -10,11 +10,11 @@
 | First winning | 83.00% | ~358 |
 | Your first job | 82.00% | ~353 |
 | Old movies enjoyer | 77.00% | ~332 |
+| Depressed visitor | 77.00% | ~332 |
+| Neurotrainer – power gainer! | 77.00% | ~332 |
 | Fitness professional | 76.00% | ~328 |
-| Depressed visitor | 76.00% | ~328 |
-| Neurotrainer – power gainer! | 76.00% | ~328 |
 | Employee of the week | 75.00% | ~323 |
-| Your own amateur gym | 70.00% | ~302 |
+| Your own amateur gym | 71.00% | ~306 |
 | Run K, run! | 70.00% | ~302 |
 | First defeat | 69.00% | ~297 |
 | Hello, world! | 68.00% | ~293 |
@@ -27,8 +27,8 @@
 | Workout professional | 56.00% | ~241 |
 | Little hacker | 56.00% | ~241 |
 | Handyman | 56.00% | ~241 |
+| Champion – starter pack | 56.00% | ~241 |
 | Fight for life | 55.00% | ~237 |
-| Champion – starter pack | 55.00% | ~237 |
 | It's good to be alive | 55.00% | ~237 |
 | Own four walls | 55.00% | ~237 |
 | Intriguing candies | 55.00% | ~237 |
@@ -71,7 +71,7 @@
 | The only right decision | 27.00% | ~116 |
 | Silver’s past | 26.00% | ~112 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 431 (Ranked 339)  
+Progressed: 431 (Ranked 340)  
 Completed: 9 (2.09%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |

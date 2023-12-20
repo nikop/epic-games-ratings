@@ -6,14 +6,14 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Taste | 2.00% | ~3,270 |
 | Imprint | 2.00% | ~3,270 |
 | The Hunt | 1.00% | ~1,635 |
-| Taste | 1.00% | ~1,635 |
 | Ravenous | 1.00% | ~1,635 |
-| Weeper | 0.90% | ~1,471 |
-| Harmless | 0.50% | ~817 |
-| Silenced Whispers | 0.50% | ~817 |
-| Devourer | 0.50% | ~817 |
+| Weeper | 0.90% | ~1,472 |
+| Harmless | 0.50% | ~818 |
+| Silenced Whispers | 0.50% | ~818 |
+| Devourer | 0.50% | ~818 |
 | Feast | 0.40% | ~654 |
 | Yank | 0.40% | ~654 |
 | Sharpened Vessel | 0.40% | ~654 |
@@ -34,27 +34,27 @@ Number of Ratings: 46  (23.09.2022)
 | Breathsmith | 0.20% | ~327 |
 | Dream | 0.20% | ~326 |
 | Spiral Heart | 0.10% | ~161 |
-| Bloodhunter | 0.10% | ~163 |
-| Skinmaker | 0.10% | ~163 |
-| Instruments | 0.10% | ~163 |
+| Bloodhunter | 0.10% | ~164 |
+| Skinmaker | 0.10% | ~164 |
+| Instruments | 0.10% | ~164 |
 | Zygote | 0.10% | ~163 |
-| Breath | 0.10% | ~163 |
-| Hush | 0.10% | ~163 |
-| Kinship | 0.10% | ~163 |
-| Weakness | 0.10% | ~163 |
-| Unwrap the Gift | 0.10% | ~163 |
-| Passage | 0.10% | ~163 |
-| Generous | 0.10% | ~163 |
+| Breath | 0.10% | ~164 |
+| Hush | 0.10% | ~164 |
+| Kinship | 0.10% | ~164 |
+| Weakness | 0.10% | ~164 |
+| Unwrap the Gift | 0.10% | ~164 |
+| Passage | 0.10% | ~164 |
+| Generous | 0.10% | ~164 |
 | Kin | 0.10% | ~163 |
 | Listen | 0.10% | ~163 |
-| Proportions | 0.10% | ~163 |
+| Proportions | 0.10% | ~164 |
 | The Nightmare | 0.10% | ~163 |
 | Touch of Otherwhere | 0.10% | ~163 |
 | Enrich | 0.10% | ~163 |
 | Intensify | 0.10% | ~163 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 163,492 (Ranked 79)  
-Completed: 361 (0.22%) (Ranked 265)  
+Progressed: 163,500 (Ranked 79)  
+Completed: 362 (0.22%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -274,7 +274,7 @@ Completed: 361 (0.22%) (Ranked 265)
 | 2023-12-17 | 163,095 | 342 |
 | 2023-12-18 | 163,241 | 348 |
 | 2023-12-19 | 163,376 | 355 |
-| 2023-12-20 | 163,492 | 361 |
+| 2023-12-20 | 163,500 | 362 |
 ## Awards
 Max (Unique Visuals): 58  (Ranked 424)  
 Sum: 413 (Ranked 344)  

@@ -5,23 +5,23 @@ Rating: 4.52 (Ranked 567)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~6,007 |
-| Greasy Palms | 42.00% | ~5,484 |
-| South American Connection | 25.00% | ~3,264 |
-| Life of the Party | 20.00% | ~2,612 |
-| Tommy Two-Wheels | 15.00% | ~1,959 |
-| Big Heat from Little Havana | 14.00% | ~1,828 |
-| Chauffeur | 14.00% | ~1,828 |
-| Salutations My Little Friend | 11.00% | ~1,436 |
-| Iron-y | 10.00% | ~1,306 |
-| Gun for Hire | 9.00% | ~1,175 |
-| Mischief Managed | 8.00% | ~1,045 |
-| Vice City Mogul | 7.00% | ~914 |
-| Catch Me if You Can | 6.00% | ~783 |
-| Bloodstained Hands | 6.00% | ~783 |
+| Legal Counsel | 46.00% | ~6,012 |
+| Greasy Palms | 42.00% | ~5,489 |
+| South American Connection | 25.00% | ~3,267 |
+| Life of the Party | 20.00% | ~2,614 |
+| Tommy Two-Wheels | 15.00% | ~1,960 |
+| Big Heat from Little Havana | 14.00% | ~1,830 |
+| Chauffeur | 14.00% | ~1,830 |
+| Salutations My Little Friend | 11.00% | ~1,438 |
+| Iron-y | 10.00% | ~1,307 |
+| Gun for Hire | 9.00% | ~1,176 |
+| Mischief Managed | 8.00% | ~1,046 |
+| Vice City Mogul | 7.00% | ~915 |
+| Catch Me if You Can | 6.00% | ~784 |
+| Bloodstained Hands | 6.00% | ~784 |
 | Not my First Time | 5.00% | ~653 |
 | Grand Theft Auto | 5.00% | ~653 |
-| Pie Guy | 4.00% | ~522 |
+| Pie Guy | 4.00% | ~523 |
 | Point A to Point B | 3.00% | ~392 |
 | High Quality H2O | 3.00% | ~392 |
 | Bull in a China Shop | 3.00% | ~392 |
@@ -40,7 +40,7 @@ Rating: 4.52 (Ranked 567)
 | Done it All | 0.90% | ~118 |
 | Kingpin | 0.50% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,058 (Ranked 165)  
+Progressed: 13,069 (Ranked 166)  
 Completed: 71 (0.54%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 71 (0.54%) (Ranked 209)
 | 2023-12-17 | 12,602 | 68 |
 | 2023-12-18 | 12,767 | 70 |
 | 2023-12-19 | 12,956 | 70 |
-| 2023-12-20 | 13,058 | 71 |
+| 2023-12-20 | 13,069 | 71 |
 ## Awards
 Max (Great Boss Battles): 131  (Ranked 336)  
 Sum: 131 (Ranked 438)  

@@ -2,10 +2,10 @@
   "ID": "4d96a32c1e5b49c3adccbcfa6deed873",
   "Name": "ArcRunner",
   "ProductSlug": "arcrunner-61fee6",
-  "Ranking_EOS_Progress": 281,
+  "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 339,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 886,
+  "EOS_Progressed": 887,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2086,6 +2086,11 @@
       "Time": "2023-12-20T03:08:59.0616569+00:00",
       "NumProgressed": 886,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T17:09:33.9999749+00:00",
+      "NumProgressed": 887,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -2097,7 +2102,7 @@
       "Name": "Augmented",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ACHV_BIGGERTHEYARE",
@@ -2129,7 +2134,7 @@
       "Name": "The City",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ACHV_CYBERNETIC",
@@ -2177,7 +2182,7 @@
       "Name": "Fully Modded",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACHV_HARDBOILED",
@@ -2209,7 +2214,7 @@
       "Name": "Nanonic I",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ACHV_NANONIC2",
@@ -2328,13 +2333,13 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 886,
+      "Progressed": 887,
       "Completed": 0
     },
     {
       "ID": "cd9kng8",
       "IsBase": false,
-      "Progressed": 312,
+      "Progressed": 313,
       "Completed": 3
     }
   ],
@@ -2342,8 +2347,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-12-20T16:09:23.7360073+00:00",
+  "LastChanged_Achievements": "2023-12-20T17:09:33.9999745+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:31.7706606+00:00",
-  "LastUpdate_Ratings": "2023-12-20T15:59:54.8018153+00:00",
-  "LastUpdate_Achievements": "2023-12-20T16:09:23.7360788+00:00"
+  "LastUpdate_Ratings": "2023-12-20T17:00:04.5493284+00:00",
+  "LastUpdate_Achievements": "2023-12-20T17:09:34.0000027+00:00"
 }

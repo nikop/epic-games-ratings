@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8911,9 +8911,9 @@
       "Count": 3581
     }
   ],
-  "EOS_Progressed": 242299,
+  "EOS_Progressed": 242314,
   "EOS_Completed": 2546,
-  "EOS_NewPlayers": 2658,
+  "EOS_NewPlayers": 2646,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -36471,6 +36471,11 @@
       "Time": "2023-12-20T16:10:05.7061307+00:00",
       "NumProgressed": 242299,
       "NumCompleted": 2546
+    },
+    {
+      "Time": "2023-12-20T17:10:16.0628027+00:00",
+      "NumProgressed": 242314,
+      "NumCompleted": 2546
     }
   ],
   "TotalAchievements": 546,
@@ -36482,7 +36487,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1938
+      "UsersEstimate": 1939
     },
     {
       "ID": "objective_completed_10",
@@ -40849,21 +40854,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 208573,
-      "Completed": 4048
+      "Progressed": 208588,
+      "Completed": 4049
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 242299,
+      "Progressed": 242314,
       "Completed": 2546
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-20T16:00:30.0528838+00:00",
-  "LastChanged_Achievements": "2023-12-20T16:10:05.7061304+00:00",
+  "LastChanged_Achievements": "2023-12-20T17:10:16.0628023+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:52.1318001+00:00",
-  "LastUpdate_Ratings": "2023-12-20T16:00:30.0528845+00:00",
-  "LastUpdate_Achievements": "2023-12-20T16:10:05.70841+00:00"
+  "LastUpdate_Ratings": "2023-12-20T17:02:47.0442077+00:00",
+  "LastUpdate_Achievements": "2023-12-20T17:10:16.0651184+00:00"
 }

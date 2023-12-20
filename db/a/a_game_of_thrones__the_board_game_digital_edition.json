@@ -4,10 +4,10 @@
   "ProductSlug": "a-game-of-thrones-5858a3",
   "Ranking_Rating": 931,
   "Ranking_Popularity": 344,
-  "Ranking_PopularitySum": 283,
+  "Ranking_PopularitySum": 284,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1344,9 +1344,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 30846,
+  "EOS_Progressed": 30850,
   "EOS_Completed": 84,
-  "EOS_NewPlayers": 565,
+  "EOS_NewPlayers": 567,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -27494,6 +27494,11 @@
       "Time": "2023-12-20T16:09:38.2069959+00:00",
       "NumProgressed": 30846,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2023-12-20T17:09:48.2021835+00:00",
+      "NumProgressed": 30850,
+      "NumCompleted": 84
     }
   ],
   "TotalAchievements": 22,
@@ -27537,7 +27542,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2159
+      "UsersEstimate": 2160
     },
     {
       "ID": "1020",
@@ -27569,7 +27574,7 @@
       "Name": "What is Dead may Never Die",
       "Percentage": 3,
       "XP": 65,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "1024",
@@ -27593,7 +27598,7 @@
       "Name": "Oathkeeper",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2159
+      "UsersEstimate": 2160
     },
     {
       "ID": "1027",
@@ -27609,7 +27614,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5552
+      "UsersEstimate": 5553
     },
     {
       "ID": "1029",
@@ -27623,9 +27628,9 @@
       "ID": "1030",
       "SetID": "9l3d3cl",
       "Name": "Battering Crew",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 6169
+      "UsersEstimate": 5862
     },
     {
       "ID": "1031",
@@ -27641,7 +27646,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 12338
+      "UsersEstimate": 12340
     },
     {
       "ID": "1033",
@@ -27649,7 +27654,7 @@
       "Name": "The Swift",
       "Percentage": 3,
       "XP": 120,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "1034",
@@ -27657,7 +27662,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2159
+      "UsersEstimate": 2160
     },
     {
       "ID": "1035",
@@ -27673,22 +27678,22 @@
       "Name": "A Long Journey",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2159
+      "UsersEstimate": 2160
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 30846,
+      "Progressed": 30850,
       "Completed": 84
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-16T17:01:32.5385124+00:00",
-  "LastChanged_Achievements": "2023-12-20T16:09:38.2069957+00:00",
+  "LastChanged_Achievements": "2023-12-20T17:09:48.2021829+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:33.5053041+00:00",
-  "LastUpdate_Ratings": "2023-12-20T15:58:24.6363795+00:00",
-  "LastUpdate_Achievements": "2023-12-20T16:09:38.2071847+00:00"
+  "LastUpdate_Ratings": "2023-12-20T16:58:34.9014871+00:00",
+  "LastUpdate_Achievements": "2023-12-20T17:09:48.202326+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9874,10 +9874,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20834,
       "NumberOfAwardsMax": 7805
+    },
+    {
+      "Time": "2023-12-20T16:59:35.1528368+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20836,
+      "NumberOfAwardsMax": 7805
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20834,
+  "NumberOfAwards": 20836,
   "NumberOfAwardsMax": 7805,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9915,7 +9921,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1360
+      "Count": 1362
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9954,10 +9960,10 @@
       "Count": 1033
     }
   ],
-  "EOS_Progressed": 128728,
+  "EOS_Progressed": 128734,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2139,
-  "EOS_NewCompleters": 1,
+  "EOS_NewPlayers": 2129,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
@@ -35979,6 +35985,11 @@
       "Time": "2023-12-20T16:09:12.5958407+00:00",
       "NumProgressed": 128728,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-20T17:09:23.0541354+00:00",
+      "NumProgressed": 128734,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36132,9 +36143,9 @@
       "ID": "combat_kill_cosmic",
       "SetID": "64l4lke",
       "Name": "Banishment",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1287
+      "UsersEstimate": 2575
     },
     {
       "ID": "combat_kill_death",
@@ -36621,21 +36632,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 128728,
+      "Progressed": 128734,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 3597,
+      "Progressed": 3603,
       "Completed": 802
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-20T14:59:30.2019511+00:00",
-  "LastChanged_Achievements": "2023-12-20T16:09:12.5958404+00:00",
+  "LastChanged": "2023-12-20T16:59:35.1528366+00:00",
+  "LastChanged_Achievements": "2023-12-20T17:09:23.0541349+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-20T15:59:24.9518002+00:00",
-  "LastUpdate_Achievements": "2023-12-20T16:09:12.5960722+00:00"
+  "LastUpdate_Ratings": "2023-12-20T16:59:35.1528374+00:00",
+  "LastUpdate_Achievements": "2023-12-20T17:09:23.0543416+00:00"
 }

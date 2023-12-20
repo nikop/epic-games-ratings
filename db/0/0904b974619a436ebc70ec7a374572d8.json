@@ -2,10 +2,10 @@
   "ID": "0904b974619a436ebc70ec7a374572d8",
   "Name": "Picklock",
   "ProductSlug": "picklock-33eab8",
-  "Ranking_EOS_Progress": 534,
+  "Ranking_EOS_Progress": 535,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 365,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2020-05-07T16:00:00+00:00",
@@ -326,9 +326,9 @@
       "ID": "ach_picklock18",
       "SetID": "753ghg2",
       "Name": "Clothing store",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ach_picklock19",
@@ -453,8 +453,8 @@
   ],
   "FirstSeen": "2023-11-03T03:57:37.1640095+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6923906+00:00",
-  "LastChanged_Achievements": "2023-12-20T16:09:49.8673176+00:00",
+  "LastChanged_Achievements": "2023-12-20T17:09:59.5894357+00:00",
   "LastUpdate_AppInfo": "2023-12-20T08:57:19.6216308+00:00",
-  "LastUpdate_Ratings": "2023-12-20T15:57:11.7046638+00:00",
-  "LastUpdate_Achievements": "2023-12-20T16:09:49.8673274+00:00"
+  "LastUpdate_Ratings": "2023-12-20T16:57:20.5846338+00:00",
+  "LastUpdate_Achievements": "2023-12-20T17:09:59.5894522+00:00"
 }

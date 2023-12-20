@@ -14,7 +14,7 @@ Number of Ratings: 75  (23.09.2022)
 | Level: Extra Life | 7.00% | ~400 |
 | Rising Markets: Avoiding the Reds | 7.00% | ~400 |
 | Data Churn Type I | 7.00% | ~400 |
-| Millionaire | 6.00% | ~342 |
+| Millionaire | 6.00% | ~343 |
 | Data Churn Type II | 5.00% | ~285 |
 | Speedy | 5.00% | ~285 |
 | Extra Life: Wish Granted | 4.00% | ~228 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~6 |
 | Prestigious | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,708 (Ranked 194)  
+Progressed: 5,709 (Ranked 195)  
 Completed: 1 (0.02%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 1 (0.02%) (Ranked 353)
 | 2023-12-17 | 5,695 | 1 |
 | 2023-12-18 | 5,700 | 1 |
 | 2023-12-19 | 5,706 | 1 |
-| 2023-12-20 | 5,708 | 1 |
+| 2023-12-20 | 5,709 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

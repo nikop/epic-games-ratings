@@ -5,10 +5,10 @@
   "Ranking_Rating": 497,
   "Ranking_Popularity": 569,
   "Ranking_PopularitySum": 569,
-  "Ranking_EOS_Progress": 230,
+  "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 321,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2260,
+  "EOS_Progressed": 2261,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -4058,6 +4058,11 @@
       "Time": "2023-12-20T15:03:32.8157387+00:00",
       "NumProgressed": 2260,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-20T17:03:33.9933818+00:00",
+      "NumProgressed": 2261,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 36,
@@ -4187,9 +4192,9 @@
       "ID": "DefeatRatnorRodentson",
       "SetID": "9lj35g4",
       "Name": "Defeat Ratnor Rodentson",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "DefeatRattusAugustus",
@@ -4251,9 +4256,9 @@
       "ID": "MeetTheMoles",
       "SetID": "9lj35g4",
       "Name": "Meet the Creatures from the Deep",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "MysteryKingsChamber",
@@ -4299,9 +4304,9 @@
       "ID": "ReturnPowerInMines",
       "SetID": "9lj35g4",
       "Name": "Return Power To The Depths",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "DefeatCroakhisKhan",
@@ -4356,13 +4361,13 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2260,
+      "Progressed": 2261,
       "Completed": 12
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 901,
+      "Progressed": 902,
       "Completed": 897
     }
   ],
@@ -4370,8 +4375,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-12-16T18:59:01.3536966+00:00",
-  "LastChanged_Achievements": "2023-12-20T16:03:18.7341064+00:00",
+  "LastChanged_Achievements": "2023-12-20T17:03:33.9933812+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:33.7739845+00:00",
-  "LastUpdate_Ratings": "2023-12-20T15:57:21.9112662+00:00",
-  "LastUpdate_Achievements": "2023-12-20T16:03:18.7341619+00:00"
+  "LastUpdate_Ratings": "2023-12-20T16:57:30.5166837+00:00",
+  "LastUpdate_Achievements": "2023-12-20T17:03:33.9934212+00:00"
 }

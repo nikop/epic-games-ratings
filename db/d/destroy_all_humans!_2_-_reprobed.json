@@ -5,10 +5,10 @@
   "Ranking_Rating": 551,
   "Ranking_Popularity": 482,
   "Ranking_PopularitySum": 514,
-  "Ranking_EOS_Progress": 431,
+  "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -964,9 +964,9 @@
       "ID": "ACH_ENTER_ALBION",
       "SetID": "4n84pon",
       "Name": "Lie Back and Think of Albion",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
@@ -1197,8 +1197,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-20T16:08:49.5206028+00:00",
+  "LastChanged_Achievements": "2023-12-20T17:08:59.7270012+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:43.3974092+00:00",
-  "LastUpdate_Ratings": "2023-12-20T15:58:12.0323634+00:00",
-  "LastUpdate_Achievements": "2023-12-20T16:08:49.520627+00:00"
+  "LastUpdate_Ratings": "2023-12-20T16:58:21.6262616+00:00",
+  "LastUpdate_Achievements": "2023-12-20T17:08:59.7270329+00:00"
 }

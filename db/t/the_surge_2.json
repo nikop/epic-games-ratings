@@ -2,13 +2,13 @@
   "ID": "effee7c2775148e9a99f5685d29751d2",
   "Name": "The Surge 2",
   "ProductSlug": "the-surge-2-e7df70",
-  "Ranking_Rating": 884,
+  "Ranking_Rating": 885,
   "Ranking_Popularity": 569,
   "Ranking_PopularitySum": 569,
-  "Ranking_EOS_Progress": 228,
+  "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -288,9 +288,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2310,
+  "EOS_Progressed": 2311,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -3638,6 +3638,11 @@
       "Time": "2023-12-20T16:05:31.091181+00:00",
       "NumProgressed": 2310,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-20T17:05:44.263492+00:00",
+      "NumProgressed": 2311,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3689,7 +3694,7 @@
       "Name": "Home Invasion",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "ACHV_07",
@@ -3705,7 +3710,7 @@
       "Name": "Mommy Dearest",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "ACHV_09",
@@ -3849,7 +3854,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1825
+      "UsersEstimate": 1826
     },
     {
       "ID": "ACHV_27",
@@ -3921,7 +3926,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "ACHV_36",
@@ -3929,7 +3934,7 @@
       "Name": "Can\u0027t Trust Banks",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "ACHV_37",
@@ -4104,7 +4109,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2310,
+      "Progressed": 2311,
       "Completed": 13
     }
   ],
@@ -4112,8 +4117,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-17T06:57:54.8643494+00:00",
-  "LastChanged_Achievements": "2023-12-20T16:05:31.0911805+00:00",
+  "LastChanged_Achievements": "2023-12-20T17:05:44.2634916+00:00",
   "LastUpdate_AppInfo": "2023-12-16T16:57:00.284762+00:00",
-  "LastUpdate_Ratings": "2023-12-20T15:59:31.0984245+00:00",
-  "LastUpdate_Achievements": "2023-12-20T16:05:31.0912284+00:00"
+  "LastUpdate_Ratings": "2023-12-20T16:59:41.0319977+00:00",
+  "LastUpdate_Achievements": "2023-12-20T17:05:44.2635372+00:00"
 }

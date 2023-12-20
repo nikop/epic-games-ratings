@@ -5,10 +5,10 @@
   "Ranking_Rating": 232,
   "Ranking_Popularity": 422,
   "Ranking_PopularitySum": 323,
-  "Ranking_EOS_Progress": 216,
+  "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 325,
-  "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -1285,9 +1285,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 3290,
+  "EOS_Progressed": 3291,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6575,6 +6575,11 @@
       "Time": "2023-12-20T15:06:22.6347304+00:00",
       "NumProgressed": 3290,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-20T17:06:27.9265492+00:00",
+      "NumProgressed": 3291,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -6618,7 +6623,7 @@
       "Name": "Cops called!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_CROSS-LOCK-COUNTRY",
@@ -6680,9 +6685,9 @@
       "ID": "ACH_GLOBETROTTER",
       "SetID": "72olkc5",
       "Name": "Globetrotter",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_GO-WITH-THE-FLOW",
@@ -6754,7 +6759,7 @@
       "Name": "Lines for days",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_LOVES-YOU-BACK",
@@ -6770,7 +6775,7 @@
       "Name": "Manny Destroys All",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_MANY-PLYS-LATER",
@@ -6826,7 +6831,7 @@
       "Name": "Renaissance man",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_SKATEPARK-HERO",
@@ -6858,7 +6863,7 @@
       "Name": "Tank commander",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_THAT-PINCH",
@@ -6922,7 +6927,7 @@
       "Name": "Trick shot marksman",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_ULTIMATE-SKATE-NERD",
@@ -6946,7 +6951,7 @@
       "Name": "We get it, you\u0027re good",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_WELCOME-TO-THE-FAMILY",
@@ -6962,22 +6967,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 2007
+      "UsersEstimate": 2008
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3290,
+      "Progressed": 3291,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-12-19T05:57:31.5785779+00:00",
-  "LastChanged_Achievements": "2023-12-20T16:06:15.4137134+00:00",
+  "LastChanged_Achievements": "2023-12-20T17:06:27.9265487+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:11.20318+00:00",
-  "LastUpdate_Ratings": "2023-12-20T15:58:21.8375029+00:00",
-  "LastUpdate_Achievements": "2023-12-20T16:06:15.4137608+00:00"
+  "LastUpdate_Ratings": "2023-12-20T16:58:31.8602562+00:00",
+  "LastUpdate_Achievements": "2023-12-20T17:06:27.9266116+00:00"
 }

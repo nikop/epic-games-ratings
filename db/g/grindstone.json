@@ -5,10 +5,10 @@
   "Ranking_Rating": 53,
   "Ranking_Popularity": 569,
   "Ranking_PopularitySum": 569,
-  "Ranking_EOS_Progress": 197,
+  "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 339,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
     "PcReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -213,9 +213,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5205,
+  "EOS_Progressed": 5206,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -1003,6 +1003,11 @@
       "Time": "2023-12-20T01:33:19.727583+00:00",
       "NumProgressed": 5205,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-12-20T17:03:49.6102004+00:00",
+      "NumProgressed": 5206,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 49,
@@ -1022,7 +1027,7 @@
       "Name": "Off the Beaten Path",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "ACHIEVE_50_BATWINGS",
@@ -1054,7 +1059,7 @@
       "Name": "Ghost Facers!",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "ACHIEVE_50_GOLD",
@@ -1070,7 +1075,7 @@
       "Name": "Jerk-Slayer",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2238
+      "UsersEstimate": 2239
     },
     {
       "ID": "ACHIEVE_50_ICE",
@@ -1118,7 +1123,7 @@
       "Name": "Timber!",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 3175
+      "UsersEstimate": 3176
     },
     {
       "ID": "ACHIEVE_ATE_FOOD_3",
@@ -1142,7 +1147,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5101
+      "UsersEstimate": 5102
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -1150,7 +1155,7 @@
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 3279
+      "UsersEstimate": 3280
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -1190,7 +1195,7 @@
       "Name": "Fortunate Soul",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 2602
+      "UsersEstimate": 2603
     },
     {
       "ID": "ACHIEVE_GREED_GRIND_WIN",
@@ -1222,7 +1227,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4060
+      "UsersEstimate": 4061
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -1254,7 +1259,7 @@
       "Name": "Royal Flush",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3227
+      "UsersEstimate": 3228
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_50",
@@ -1286,7 +1291,7 @@
       "Name": "Survive the Bombsequences",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3071
+      "UsersEstimate": 3072
     },
     {
       "ID": "ACHIEVE_LVL_180_COMPLETE",
@@ -1302,7 +1307,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5101
+      "UsersEstimate": 5102
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1326,7 +1331,7 @@
       "Name": "It\u0027s Been a Blast",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "ACHIEVE_MIDAS",
@@ -1342,7 +1347,7 @@
       "Name": "For Rock and Stone!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "ACHIEVE_OKBOOMER_LAVA",
@@ -1405,15 +1410,15 @@
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5205,
+      "Progressed": 5206,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-12-20T16:03:34.3830575+00:00",
+  "LastChanged_Achievements": "2023-12-20T17:03:49.6102002+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:32.3869893+00:00",
-  "LastUpdate_Ratings": "2023-12-20T15:58:19.991841+00:00",
-  "LastUpdate_Achievements": "2023-12-20T16:03:34.3830893+00:00"
+  "LastUpdate_Ratings": "2023-12-20T16:58:29.9496094+00:00",
+  "LastUpdate_Achievements": "2023-12-20T17:03:49.6102501+00:00"
 }

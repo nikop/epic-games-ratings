@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16907,
+  "EOS_Progressed": 16910,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 824,
+  "EOS_NewPlayers": 827,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -14524,6 +14524,11 @@
       "Time": "2023-12-20T16:04:40.1892877+00:00",
       "NumProgressed": 16907,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-12-20T17:04:54.9664353+00:00",
+      "NumProgressed": 16910,
+      "NumCompleted": 45
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14560,7 +14565,7 @@
       "Name": "Data Archivist",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "13",
@@ -14584,7 +14589,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     },
     {
       "ID": "16",
@@ -14592,7 +14597,7 @@
       "Name": "Drug Gifter",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "17",
@@ -14632,7 +14637,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "21",
@@ -14656,7 +14661,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "24",
@@ -14672,7 +14677,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "26",
@@ -14680,7 +14685,7 @@
       "Name": "Call it Even",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     },
     {
       "ID": "27",
@@ -14815,13 +14820,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16907,
+      "Progressed": 16910,
       "Completed": 45
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2861,
+      "Progressed": 2864,
       "Completed": 970
     }
   ],
@@ -14829,8 +14834,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-17T22:59:50.8326927+00:00",
-  "LastChanged_Achievements": "2023-12-20T16:04:40.1892874+00:00",
+  "LastChanged_Achievements": "2023-12-20T17:04:54.9664348+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:40.0929133+00:00",
-  "LastUpdate_Ratings": "2023-12-20T16:00:13.1130033+00:00",
-  "LastUpdate_Achievements": "2023-12-20T16:04:40.1893799+00:00"
+  "LastUpdate_Ratings": "2023-12-20T17:00:22.1013455+00:00",
+  "LastUpdate_Achievements": "2023-12-20T17:04:54.9665299+00:00"
 }

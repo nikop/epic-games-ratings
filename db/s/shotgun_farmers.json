@@ -2,10 +2,10 @@
   "ID": "5eb9d01d608e46a7ac42a673a27f7888",
   "Name": "Shotgun Farmers",
   "ProductSlug": "shotgun-farmers-d9f3f0",
-  "Ranking_EOS_Progress": 355,
+  "Ranking_EOS_Progress": 356,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 460,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 461,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -1704,9 +1704,9 @@
       "ID": "ach_kill_with_1_hp",
       "SetID": "cmg602e",
       "Name": "Skin Of Your Teeth",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 60
+      "UsersEstimate": 64
     },
     {
       "ID": "ach_kill_with_horse_kick",
@@ -2167,8 +2167,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-12-20T16:04:52.0314502+00:00",
+  "LastChanged_Achievements": "2023-12-20T17:05:06.0437424+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:04.6713304+00:00",
-  "LastUpdate_Ratings": "2023-12-20T15:59:08.5337075+00:00",
-  "LastUpdate_Achievements": "2023-12-20T16:04:52.0315053+00:00"
+  "LastUpdate_Ratings": "2023-12-20T16:59:18.7999884+00:00",
+  "LastUpdate_Achievements": "2023-12-20T17:05:06.043803+00:00"
 }

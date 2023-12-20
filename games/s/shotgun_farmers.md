@@ -23,8 +23,8 @@
 | Grave Digger | 22.00% | ~67 |
 | Pork Chop Express | 20.00% | ~71 |
 | Professional Survivor | 20.00% | ~61 |
+| Skin Of Your Teeth | 18.00% | ~64 |
 | Carrocketeer | 18.00% | ~64 |
-| Skin Of Your Teeth | 17.00% | ~60 |
 | This Is My Boomstick | 17.00% | ~52 |
 | Getting Started | 16.00% | ~56 |
 | Eggtraordinary | 15.00% | ~53 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 353 (Ranked 355)  
+Progressed: 353 (Ranked 356)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -5,10 +5,10 @@
   "Ranking_Rating": 826,
   "Ranking_Popularity": 569,
   "Ranking_PopularitySum": 569,
-  "Ranking_EOS_Progress": 188,
+  "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6740,
+  "EOS_Progressed": 6746,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7197,6 +7197,11 @@
       "Time": "2023-12-20T16:06:31.4160388+00:00",
       "NumProgressed": 6740,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-20T17:08:22.8672196+00:00",
+      "NumProgressed": 6746,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -7384,7 +7389,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "GoodRiddance",
@@ -7488,7 +7493,7 @@
       "Name": "Life Found a Way",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "MoneyShot",
@@ -7759,21 +7764,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3779,
+      "Progressed": 3785,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6740,
+      "Progressed": 6746,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-11-09T16:59:44.3369528+00:00",
-  "LastChanged_Achievements": "2023-12-20T16:06:31.4160386+00:00",
+  "LastChanged_Achievements": "2023-12-20T17:08:22.867219+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:57:00.6837777+00:00",
-  "LastUpdate_Ratings": "2023-12-20T15:58:52.0701193+00:00",
-  "LastUpdate_Achievements": "2023-12-20T16:06:31.4161305+00:00"
+  "LastUpdate_Ratings": "2023-12-20T16:59:02.4010586+00:00",
+  "LastUpdate_Achievements": "2023-12-20T17:08:22.8673077+00:00"
 }

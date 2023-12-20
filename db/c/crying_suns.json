@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 390,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -673,9 +673,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 472519,
+  "EOS_Progressed": 472522,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 332,
+  "EOS_NewPlayers": 334,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25903,6 +25903,11 @@
       "Time": "2023-12-20T16:10:02.4207076+00:00",
       "NumProgressed": 472519,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-12-20T17:10:12.1722077+00:00",
+      "NumProgressed": 472522,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -25938,7 +25943,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 103954
+      "UsersEstimate": 103955
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -26002,7 +26007,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 311863
+      "UsersEstimate": 311865
     },
     {
       "ID": "achievement_story_landa",
@@ -26050,7 +26055,7 @@
       "Name": "Admiral Okonkwo",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33076
+      "UsersEstimate": 33077
     },
     {
       "ID": "achievement_story_meet_survivalists",
@@ -26058,7 +26063,7 @@
       "Name": "The Survivalists",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33076
+      "UsersEstimate": 33077
     },
     {
       "ID": "achievement_story_meet_tetsuo",
@@ -26098,7 +26103,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160656
+      "UsersEstimate": 160657
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -26154,7 +26159,7 @@
       "Name": "The Tech Specialist",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33076
+      "UsersEstimate": 33077
     },
     {
       "ID": "achievement_unlock_officer_empire_2",
@@ -26338,7 +26343,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207908
+      "UsersEstimate": 207910
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -26346,7 +26351,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 141756
+      "UsersEstimate": 141757
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -26362,7 +26367,7 @@
       "Name": "Plan for the worst",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 56702
+      "UsersEstimate": 56703
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -26370,7 +26375,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 184282
+      "UsersEstimate": 184284
     },
     {
       "ID": "achievement_win_run_hard",
@@ -26426,7 +26431,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 103954
+      "UsersEstimate": 103955
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -26545,21 +26550,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 16453,
+      "Progressed": 16456,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 472519,
+      "Progressed": 472522,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-12-16T01:44:08.2225132+00:00",
-  "LastChanged_Achievements": "2023-12-20T16:10:02.4207074+00:00",
+  "LastChanged_Achievements": "2023-12-20T17:10:12.1722075+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:11.1940108+00:00",
-  "LastUpdate_Ratings": "2023-12-20T15:57:16.5185581+00:00",
-  "LastUpdate_Achievements": "2023-12-20T16:10:02.420897+00:00"
+  "LastUpdate_Ratings": "2023-12-20T16:57:25.3896303+00:00",
+  "LastUpdate_Achievements": "2023-12-20T17:10:12.1723769+00:00"
 }
