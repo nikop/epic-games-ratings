@@ -5,19 +5,19 @@ Rating: 4.19 (Ranked 939)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~1,132 |
-| Battlefields Have Memories | 79.00% | ~1,028 |
-| Enlisted | 71.00% | ~924 |
-| Maybe Engage a Little | 66.00% | ~859 |
-| No More Names | 47.00% | ~611 |
-| Initiate | 33.00% | ~429 |
-| Thrada-Kul | 29.00% | ~377 |
-| Socialite | 22.00% | ~286 |
-| Gravity-Challenged Rocks | 22.00% | ~286 |
-| Soldier | 18.00% | ~234 |
-| All the Major Food Groups | 18.00% | ~234 |
-| Beggars Would Ride | 15.00% | ~195 |
-| Control is an Illusion | 14.00% | ~182 |
+| Unforeseen | 87.00% | ~1,134 |
+| Battlefields Have Memories | 80.00% | ~1,043 |
+| Enlisted | 72.00% | ~939 |
+| Maybe Engage a Little | 66.00% | ~861 |
+| No More Names | 48.00% | ~626 |
+| Initiate | 33.00% | ~430 |
+| Thrada-Kul | 29.00% | ~378 |
+| Socialite | 22.00% | ~287 |
+| Gravity-Challenged Rocks | 22.00% | ~287 |
+| Soldier | 18.00% | ~235 |
+| All the Major Food Groups | 18.00% | ~235 |
+| Beggars Would Ride | 15.00% | ~196 |
+| Control is an Illusion | 14.00% | ~183 |
 | The Means to Save It | 11.00% | ~143 |
 | Resilience to Sin | 10.00% | ~130 |
 | A Familiar Nest | 10.00% | ~130 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 939)
 | Family Business | 0.20% | ~3 |
 | Fowl Play | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,301 (Ranked 257)  
+Progressed: 1,304 (Ranked 257)  
 Completed: 2 (0.15%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,6 +136,7 @@ Completed: 2 (0.15%) (Ranked 287)
 | 2023-12-17 | 1,065 | 2 |
 | 2023-12-18 | 1,195 | 2 |
 | 2023-12-19 | 1,301 | 2 |
+| 2023-12-20 | 1,304 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

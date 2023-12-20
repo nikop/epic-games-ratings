@@ -5,7 +5,7 @@
   "Ranking_Rating": 174,
   "Ranking_Popularity": 229,
   "Ranking_PopularitySum": 307,
-  "Ranking_EOS_Progress": 161,
+  "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 97,
@@ -719,7 +719,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 14622,
+  "EOS_Progressed": 14623,
   "EOS_Completed": 58,
   "EOS_NewPlayers": 514,
   "EOS_NewCompleters": 1,
@@ -12889,6 +12889,11 @@
       "Time": "2023-12-19T23:03:53.4167762+00:00",
       "NumProgressed": 14622,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-20T00:04:16.5262476+00:00",
+      "NumProgressed": 14623,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 35,
@@ -12900,7 +12905,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 13452
+      "UsersEstimate": 13453
     },
     {
       "ID": "ACH_02",
@@ -12908,7 +12913,7 @@
       "Name": "Newcomers",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 11405
+      "UsersEstimate": 11406
     },
     {
       "ID": "ACH_03",
@@ -12916,7 +12921,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 10674
+      "UsersEstimate": 10675
     },
     {
       "ID": "ACH_04",
@@ -12924,7 +12929,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 10089
+      "UsersEstimate": 10090
     },
     {
       "ID": "ACH_05",
@@ -12940,7 +12945,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 9358
+      "UsersEstimate": 9359
     },
     {
       "ID": "ACH_07",
@@ -12956,7 +12961,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 8773
+      "UsersEstimate": 8774
     },
     {
       "ID": "ACH_09",
@@ -12972,7 +12977,7 @@
       "Name": "Bloodline",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 7603
+      "UsersEstimate": 7604
     },
     {
       "ID": "ACH_11",
@@ -12988,7 +12993,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 6726
+      "UsersEstimate": 6727
     },
     {
       "ID": "ACH_13",
@@ -13004,7 +13009,7 @@
       "Name": "Healing our Wounds",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 5410
+      "UsersEstimate": 5411
     },
     {
       "ID": "ACH_15",
@@ -13012,7 +13017,7 @@
       "Name": "Dying Sun",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 4825
+      "UsersEstimate": 4826
     },
     {
       "ID": "ACH_16",
@@ -13068,7 +13073,7 @@
       "Name": "Not a toy anymore",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 1608
+      "UsersEstimate": 1609
     },
     {
       "ID": "ACH_23",
@@ -13108,7 +13113,7 @@
       "Name": "Night guard",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 6287
+      "UsersEstimate": 6288
     },
     {
       "ID": "ACH_28",
@@ -13116,7 +13121,7 @@
       "Name": "Alchemist",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 9943
+      "UsersEstimate": 9944
     },
     {
       "ID": "ACH_29",
@@ -13179,7 +13184,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 14622,
+      "Progressed": 14623,
       "Completed": 58
     }
   ],
@@ -13187,8 +13192,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-12-18T10:59:17.3117753+00:00",
-  "LastChanged_Achievements": "2023-12-19T23:03:53.4167756+00:00",
+  "LastChanged_Achievements": "2023-12-20T00:04:16.5262474+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:19.5371388+00:00",
-  "LastUpdate_Ratings": "2023-12-19T22:58:54.9245782+00:00",
-  "LastUpdate_Achievements": "2023-12-19T23:03:53.416871+00:00"
+  "LastUpdate_Ratings": "2023-12-19T23:59:24.8241946+00:00",
+  "LastUpdate_Achievements": "2023-12-20T00:04:16.5263501+00:00"
 }

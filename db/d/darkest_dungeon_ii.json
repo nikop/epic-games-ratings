@@ -9844,10 +9844,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20800,
       "NumberOfAwardsMax": 7795
+    },
+    {
+      "Time": "2023-12-19T23:59:20.7189904+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20806,
+      "NumberOfAwardsMax": 7795
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20800,
+  "NumberOfAwards": 20806,
   "NumberOfAwardsMax": 7795,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9873,7 +9879,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1471
+      "Count": 1477
     },
     {
       "Text": "This game has Challenging Combat",
@@ -9924,9 +9930,9 @@
       "Count": 1031
     }
   ],
-  "EOS_Progressed": 128605,
+  "EOS_Progressed": 128611,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2136,
+  "EOS_NewPlayers": 2128,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35864,6 +35870,11 @@
       "Time": "2023-12-19T23:08:39.6328623+00:00",
       "NumProgressed": 128605,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-20T00:09:02.4485791+00:00",
+      "NumProgressed": 128611,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36153,9 +36164,9 @@
       "ID": "combat_run_kill_three_lair_bosses",
       "SetID": "64l4lke",
       "Name": "Hat Trick",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 386
+      "UsersEstimate": 514
     },
     {
       "ID": "driving_biome_clear_cave",
@@ -36483,7 +36494,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -36506,21 +36517,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 128605,
+      "Progressed": 128611,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 3474,
+      "Progressed": 3480,
       "Completed": 802
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-19T22:58:51.3420689+00:00",
-  "LastChanged_Achievements": "2023-12-19T23:08:39.6328619+00:00",
+  "LastChanged": "2023-12-19T23:59:20.7189903+00:00",
+  "LastChanged_Achievements": "2023-12-20T00:09:02.4485783+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-19T22:58:51.3420708+00:00",
-  "LastUpdate_Achievements": "2023-12-19T23:08:39.6330178+00:00"
+  "LastUpdate_Ratings": "2023-12-19T23:59:20.7189908+00:00",
+  "LastUpdate_Achievements": "2023-12-20T00:09:02.4487354+00:00"
 }

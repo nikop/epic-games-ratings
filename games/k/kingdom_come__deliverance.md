@@ -1,7 +1,7 @@
 # Kingdom Come: Deliverance
 [Store](https://store.epicgames.com/en-US/p/kingdom-come-deliverance)  
 [View Rawdata](../../db/k/kingdom_come__deliverance.json)  
-Rating: 4.71 (Ranked 198)  
+Rating: 4.71 (Ranked 197)  
 Number of Ratings: 9,133  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -14,7 +14,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Scrooge | 20.00% | ~162,671 |
 | Anorectic | 16.00% | ~130,137 |
 | Firestarter | 16.00% | ~130,137 |
-| Bookworm | 15.00% | ~122,003 |
+| Bookworm | 15.00% | ~122,004 |
 | Insomniac | 13.00% | ~105,736 |
 | Buddy | 12.00% | ~97,603 |
 | Thief | 12.00% | ~97,603 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~813 |
 | Wingman | 0.10% | ~813 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 813,355 (Ranked 18)  
+Progressed: 813,357 (Ranked 18)  
 Completed: 52 (0.01%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,9 +333,10 @@ Completed: 52 (0.01%) (Ranked 360)
 | 2023-12-17 | 813,083 | 52 |
 | 2023-12-18 | 813,218 | 52 |
 | 2023-12-19 | 813,355 | 52 |
+| 2023-12-20 | 813,357 | 52 |
 ## Awards
 Max (Character Customization): 7,681  (Ranked 52)  
-Sum: 28,542 (Ranked 50)  
+Sum: 28,543 (Ranked 50)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -345,7 +346,7 @@ Diff (max vs sum): 2
 | This game has Diverse Characters | 1,756 |
 | This game has Amazing Storytelling | 1,739 |
 | This game is Highly Recommended | 1,712 |
-| This game is Extremely Fun | 1,705 |
+| This game is Extremely Fun | 1,706 |
 | This game has Realistic Visuals | 1,685 |
 | This game has Amazing Characters | 1,684 |
 | This game is Educational | 1,621 |
@@ -680,4 +681,4 @@ Diff (max vs sum): 2
 | 2023-12-16 | 4.71 | - | 7,674 | 28,514 |
 | 2023-12-17 | 4.71 | - | 7,674 | 28,520 |
 | 2023-12-18 | 4.71 | - | 7,678 | 28,529 |
-| 2023-12-19 | 4.71 | - | 7,681 | 28,542 |
+| 2023-12-19 | 4.71 | - | 7,681 | 28,543 |

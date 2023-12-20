@@ -7,7 +7,7 @@ Number of Ratings: 111  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You're free now! | 61.00% | ~2,003 |
-| Keeping it classy | 28.00% | ~919 |
+| Keeping it classy | 28.00% | ~920 |
 | Welcome to the family | 22.00% | ~722 |
 | The finer things in life | 20.00% | ~657 |
 | Backpacker | 14.00% | ~460 |
@@ -16,8 +16,8 @@ Number of Ratings: 111  (23.09.2022)
 | The flip trick crown jewel | 10.00% | ~328 |
 | The hard way | 10.00% | ~328 |
 | Upfront shredder | 10.00% | ~328 |
-| Good vibes | 9.00% | ~295 |
-| Keep the dream alive | 9.00% | ~295 |
+| Good vibes | 9.00% | ~296 |
+| Keep the dream alive | 9.00% | ~296 |
 | Tight lipslides | 8.00% | ~263 |
 | Bottom ply killer | 7.00% | ~230 |
 | Fashionista | 7.00% | ~230 |
@@ -44,7 +44,7 @@ Number of Ratings: 111  (23.09.2022)
 | Hoarder | 4.00% | ~131 |
 | Pew-Pew | 4.00% | ~131 |
 | Prince of Philly | 4.00% | ~131 |
-| Many plys later... | 3.00% | ~98 |
+| Many plys later... | 3.00% | ~99 |
 | Cross lock country | 2.00% | ~66 |
 | That was wheelie fun | 2.00% | ~66 |
 | Dipped! | 1.00% | ~33 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,283 (Ranked 216)  
+Progressed: 3,284 (Ranked 216)  
 Completed: 2 (0.06%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,6 +274,7 @@ Completed: 2 (0.06%) (Ranked 325)
 | 2023-12-17 | 3,239 | 2 |
 | 2023-12-18 | 3,263 | 2 |
 | 2023-12-19 | 3,283 | 2 |
+| 2023-12-20 | 3,284 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 59  (Ranked 421)  
 Sum: 568 (Ranked 321)  

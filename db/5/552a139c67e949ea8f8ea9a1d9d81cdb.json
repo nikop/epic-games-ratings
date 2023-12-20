@@ -2,9 +2,9 @@
   "ID": "552a139c67e949ea8f8ea9a1d9d81cdb",
   "Name": "HOT WHEELS UNLEASHED\u2122 2 - Turbocharged",
   "ProductSlug": "hot-wheels-unleashed-2",
-  "Ranking_EOS_Progress": 249,
+  "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1459,
+  "EOS_Progressed": 1460,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
@@ -3477,6 +3477,11 @@
       "Time": "2023-12-19T23:06:03.7194493+00:00",
       "NumProgressed": 1459,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T00:07:30.1461102+00:00",
+      "NumProgressed": 1460,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -3615,9 +3620,9 @@
       "ID": "ML_ACHIEVEMENT_17",
       "SetID": "5k00jcd",
       "Name": "Solo",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -3856,20 +3861,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1459,
+      "Progressed": 1460,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1127,
+      "Progressed": 1128,
       "Completed": 997
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-19T23:06:03.719449+00:00",
+  "LastChanged_Achievements": "2023-12-20T00:07:30.1461101+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:11.7320397+00:00",
-  "LastUpdate_Ratings": "2023-12-19T22:59:39.5588815+00:00",
-  "LastUpdate_Achievements": "2023-12-19T23:06:03.7194882+00:00"
+  "LastUpdate_Ratings": "2023-12-20T00:00:16.4254059+00:00",
+  "LastUpdate_Achievements": "2023-12-20T00:07:30.1461564+00:00"
 }

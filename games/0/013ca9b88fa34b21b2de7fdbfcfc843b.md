@@ -1,7 +1,7 @@
 # Fae Farm
 [Store](https://store.epicgames.com/en-US/p/fae-farm)  
 [View Rawdata](../../db/0/013ca9b88fa34b21b2de7fdbfcfc843b.json)  
-Rating: 4.63 (Ranked 353)  
+Rating: 4.63 (Ranked 354)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -35,6 +35,7 @@ Rating: 4.63 (Ranked 353)
 | House Proud | 0.20% | ~17 |
 | Polyglot | 0.20% | ~2 |
 | Azorian Hat Dance | 0.20% | ~2 |
+| Going Down | 0.20% | ~2 |
 | Cloverfield Island | 0.10% | ~9 |
 | Got to Catch Them All | 0.10% | ~9 |
 | Angling Authority | 0.10% | ~9 |
@@ -46,10 +47,9 @@ Rating: 4.63 (Ranked 353)
 | A Pal To All | 0.10% | ~1 |
 | Scroll Hunter | 0.10% | ~1 |
 | Splish-Splash | 0.10% | ~1 |
-| Going Down | 0.10% | ~1 |
 | Archi-Pal-igo Aficionado | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,538 (Ranked 179)  
+Progressed: 8,539 (Ranked 179)  
 Completed: 1 (0.01%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,6 +166,7 @@ Completed: 1 (0.01%) (Ranked 360)
 | 2023-12-17 | 8,500 | 1 |
 | 2023-12-18 | 8,518 | 1 |
 | 2023-12-19 | 8,538 | 1 |
+| 2023-12-20 | 8,539 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

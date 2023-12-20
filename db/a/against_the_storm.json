@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 268,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 3757,
+  "Ranking_EOS_NewCompleters": 3758,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3515,9 +3515,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18687,
+  "EOS_Progressed": 18692,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 693,
+  "EOS_NewPlayers": 698,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16370,6 +16370,11 @@
       "Time": "2023-12-19T23:05:26.5924261+00:00",
       "NumProgressed": 18687,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-20T00:06:00.3838863+00:00",
+      "NumProgressed": 18692,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16486,7 +16491,7 @@
       "Name": "Against All Odds",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "WinNearArmory",
@@ -16566,7 +16571,7 @@
       "Name": "Haunted Forest",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "WinNearLevitating",
@@ -16582,7 +16587,7 @@
       "Name": "Flooded Mines",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "WinNearMonastery",
@@ -16782,7 +16787,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "WinNearFrosts",
@@ -16806,7 +16811,7 @@
       "Name": "Overgrown Library",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "WinNearPetrified",
@@ -16814,7 +16819,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "WinNearPresence",
@@ -16822,7 +16827,7 @@
       "Name": "Ominous Presence",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "WinNearStorms",
@@ -16830,7 +16835,7 @@
       "Name": "Gathering Storm",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -16853,15 +16858,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18687,
+      "Progressed": 18692,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-19T21:58:46.6682158+00:00",
-  "LastChanged_Achievements": "2023-12-19T23:05:26.5924258+00:00",
+  "LastChanged_Achievements": "2023-12-20T00:06:00.383886+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
-  "LastUpdate_Ratings": "2023-12-19T22:58:40.8468093+00:00",
-  "LastUpdate_Achievements": "2023-12-19T23:05:26.5925272+00:00"
+  "LastUpdate_Ratings": "2023-12-19T23:59:08.4949453+00:00",
+  "LastUpdate_Achievements": "2023-12-20T00:06:00.3839921+00:00"
 }

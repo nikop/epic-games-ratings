@@ -5,11 +5,11 @@ Rating: 4.19 (Ranked 939)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 14.00% | ~2,539 |
+| Flesh Wound | 14.00% | ~2,540 |
 | Get a Grip | 13.00% | ~2,358 |
 | Paper Jams | 13.00% | ~2,358 |
 | The Outer Way | 13.00% | ~2,358 |
-| Desperate Times | 12.00% | ~2,176 |
+| Desperate Times | 12.00% | ~2,177 |
 | Chew 'Em Up | 10.00% | ~1,814 |
 | Float Like A Butterfly | 10.00% | ~1,814 |
 | Reforged | 10.00% | ~1,814 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 939)
 | Bear Trap | 0.10% | ~6 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,137 (Ranked 149)  
+Progressed: 18,141 (Ranked 149)  
 Completed: 82 (0.45%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,6 +289,7 @@ Completed: 82 (0.45%) (Ranked 222)
 | 2023-12-17 | 17,760 | 82 |
 | 2023-12-18 | 17,946 | 82 |
 | 2023-12-19 | 18,137 | 82 |
+| 2023-12-20 | 18,141 | 82 |
 ## Awards
 Max (Quickly Understood Controls): 89  (Ranked 387)  
 Sum: 526 (Ranked 326)  

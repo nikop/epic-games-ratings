@@ -28,14 +28,14 @@
 | The Cathedral of Light | 48.00% | ~284 |
 | Shame! Shame! Shame! | 47.00% | ~278 |
 | Pure Dynamite! | 46.00% | ~272 |
-| Dungeonlord Gorgu | 45.00% | ~266 |
+| Dungeonlord Gorgu | 46.00% | ~272 |
 | Tanos' Crusade Against Thalya | 45.00% | ~266 |
 | Mana Cannon | 42.00% | ~249 |
 | All’s Well That Ends Evil | 40.00% | ~237 |
 | The Duel | 36.00% | ~213 |
 | Unstoppable Horde | 35.00% | ~207 |
-| Master of the Undead | 34.00% | ~201 |
-| If Looks Could Kill | 33.00% | ~195 |
+| Master of the Undead | 35.00% | ~207 |
+| If Looks Could Kill | 34.00% | ~201 |
 | The Finitude Drill | 31.00% | ~184 |
 | Ghost Pirates? Ghost Heroes! | 30.00% | ~178 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 28.00% | ~166 |

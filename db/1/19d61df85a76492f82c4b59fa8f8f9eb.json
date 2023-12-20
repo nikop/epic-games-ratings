@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 397,
+  "EOS_Progressed": 398,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 9.57,
+  "EOS_Completed_Percentage": 9.55,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -1864,6 +1864,11 @@
       "Time": "2023-12-19T21:09:35.6517891+00:00",
       "NumProgressed": 397,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-20T00:08:42.0438537+00:00",
+      "NumProgressed": 398,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 6,
@@ -1875,7 +1880,7 @@
       "Name": "Printing Press",
       "Percentage": 60,
       "XP": 175,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAQ",
@@ -1883,7 +1888,7 @@
       "Name": "File-cutter",
       "Percentage": 63,
       "XP": 165,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAg",
@@ -1922,14 +1927,14 @@
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 397,
+      "Progressed": 398,
       "Completed": 38
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-12-19T23:08:21.0907726+00:00",
+  "LastChanged_Achievements": "2023-12-20T00:08:42.0438534+00:00",
   "LastUpdate_AppInfo": "2023-12-15T02:21:09.453907+00:00",
-  "LastUpdate_Ratings": "2023-12-19T22:59:43.7610252+00:00",
-  "LastUpdate_Achievements": "2023-12-19T23:08:21.090788+00:00"
+  "LastUpdate_Ratings": "2023-12-20T00:00:21.3287822+00:00",
+  "LastUpdate_Achievements": "2023-12-20T00:08:42.0438663+00:00"
 }

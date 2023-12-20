@@ -6,11 +6,11 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Overgrown Library | 6.00% | ~1,121 |
-| Abandoned Settlement | 5.00% | ~934 |
-| Petrified Necropolis | 5.00% | ~934 |
-| Ominous Presence | 4.00% | ~747 |
-| Gathering Storm | 4.00% | ~747 |
+| Overgrown Library | 6.00% | ~1,122 |
+| Abandoned Settlement | 5.00% | ~935 |
+| Petrified Necropolis | 5.00% | ~935 |
+| Ominous Presence | 4.00% | ~748 |
+| Gathering Storm | 4.00% | ~748 |
 | First Real Expedition | 3.00% | ~561 |
 | Coral Forest | 3.00% | ~561 |
 | The Marshlands | 3.00% | ~561 |
@@ -38,9 +38,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Trade Baron | 1.00% | ~187 |
 | Barren Lands | 0.90% | ~168 |
 | Sparkdew Crystals | 0.90% | ~168 |
-| Against All Odds | 0.80% | ~149 |
-| Haunted Forest | 0.80% | ~149 |
-| Flooded Mines | 0.80% | ~149 |
+| Against All Odds | 0.80% | ~150 |
+| Haunted Forest | 0.80% | ~150 |
+| Flooded Mines | 0.80% | ~150 |
 | Serving Ale | 0.60% | ~112 |
 | Fishmen Ritual Site | 0.60% | ~112 |
 | Victory Through Prosperity | 0.60% | ~112 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,687 (Ranked 147)  
+Progressed: 18,692 (Ranked 147)  
 Completed: 39 (0.21%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,6 +310,7 @@ Completed: 39 (0.21%) (Ranked 268)
 | 2023-12-17 | 18,534 | 40 |
 | 2023-12-18 | 18,615 | 39 |
 | 2023-12-19 | 18,687 | 39 |
+| 2023-12-20 | 18,692 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 228)  
 Sum: 3,273 (Ranked 174)  

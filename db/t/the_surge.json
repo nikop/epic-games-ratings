@@ -376,9 +376,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4989,
+  "EOS_Progressed": 4990,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3761,6 +3761,11 @@
       "Time": "2023-12-19T21:07:49.2065733+00:00",
       "NumProgressed": 4989,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-20T00:06:08.9076048+00:00",
+      "NumProgressed": 4990,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -3820,7 +3825,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4191
+      "UsersEstimate": 4192
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -3828,7 +3833,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4690
+      "UsersEstimate": 4691
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -3842,9 +3847,9 @@
       "ID": "ID_ACHIEV_10",
       "SetID": "98bke8c",
       "Name": "Hey Listen",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1846
+      "UsersEstimate": 1796
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -3892,7 +3897,7 @@
       "Name": "It Lives! It Sniffs! It Conquers!",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ID_ACHIEV_17",
@@ -3948,7 +3953,7 @@
       "Name": "Man of Steel",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ID_ACHIEV_24",
@@ -4028,7 +4033,7 @@
       "Name": "Jack of All Trades",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ID_ACHIEV_35",
@@ -4044,7 +4049,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1147
+      "UsersEstimate": 1148
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -4052,7 +4057,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1646
+      "UsersEstimate": 1647
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -4212,7 +4217,7 @@
       "Name": "3-2-1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ID_ACHIEV_58",
@@ -4307,15 +4312,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4989,
+      "Progressed": 4990,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-11-03T01:46:55.8375725+00:00",
-  "LastChanged_Achievements": "2023-12-19T23:05:34.1874234+00:00",
+  "LastChanged_Achievements": "2023-12-20T00:06:08.9076046+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.7369287+00:00",
-  "LastUpdate_Ratings": "2023-12-19T22:58:34.8393642+00:00",
-  "LastUpdate_Achievements": "2023-12-19T23:05:34.1874946+00:00"
+  "LastUpdate_Ratings": "2023-12-19T23:59:00.5086346+00:00",
+  "LastUpdate_Achievements": "2023-12-20T00:06:08.907662+00:00"
 }

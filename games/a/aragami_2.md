@@ -6,27 +6,27 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~41,283 |
-| First Steps | 80.00% | ~35,512 |
-| Control the Shadows | 67.00% | ~29,741 |
-| Tools of the Trade | 63.00% | ~27,966 |
-| Apprentice | 60.00% | ~26,634 |
-| Secret Seeker | 57.00% | ~25,302 |
-| Forge of Assassins | 55.00% | ~24,415 |
-| Revenant | 52.00% | ~23,083 |
+| Awakening | 93.00% | ~41,285 |
+| First Steps | 80.00% | ~35,514 |
+| Control the Shadows | 67.00% | ~29,743 |
+| Tools of the Trade | 63.00% | ~27,967 |
+| Apprentice | 60.00% | ~26,635 |
+| Secret Seeker | 57.00% | ~25,303 |
+| Forge of Assassins | 55.00% | ~24,416 |
+| Revenant | 52.00% | ~23,084 |
 | I don’t Care! | 45.00% | ~19,976 |
-| Bird of Prey | 37.00% | ~16,424 |
+| Bird of Prey | 37.00% | ~16,425 |
 | Engraved with Power | 32.00% | ~14,205 |
-| Lady | 31.00% | ~13,761 |
-| Fashionable Assassin | 27.00% | ~11,985 |
+| Lady | 31.00% | ~13,762 |
+| Fashionable Assassin | 27.00% | ~11,986 |
 | Apex Predator | 24.00% | ~10,654 |
 | Soul Reaver | 23.00% | ~10,210 |
 | Embers | 22.00% | ~9,766 |
 | Wall Lizard | 20.00% | ~8,878 |
-| Clinging to Life | 18.00% | ~7,990 |
-| Burning | 17.00% | ~7,546 |
-| Look Behind You | 16.00% | ~7,102 |
-| Sleeping on the Job | 16.00% | ~7,102 |
+| Clinging to Life | 18.00% | ~7,991 |
+| Burning | 17.00% | ~7,547 |
+| Look Behind You | 16.00% | ~7,103 |
+| Sleeping on the Job | 16.00% | ~7,103 |
 | Family | 14.00% | ~6,215 |
 | War Engines | 14.00% | ~6,215 |
 | Signature Move | 14.00% | ~6,215 |
@@ -51,8 +51,8 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~888 |
 | Legacy | 2.00% | ~888 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,390 (Ranked 120)  
-Completed: 247 (0.56%) (Ranked 205)  
+Progressed: 44,392 (Ranked 120)  
+Completed: 247 (0.56%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -295,6 +295,7 @@ Completed: 247 (0.56%) (Ranked 205)
 | 2023-12-17 | 44,373 | 247 |
 | 2023-12-18 | 44,378 | 247 |
 | 2023-12-19 | 44,390 | 247 |
+| 2023-12-20 | 44,392 | 247 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

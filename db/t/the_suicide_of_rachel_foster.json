@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 567,
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 343,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1767,
+  "EOS_Progressed": 1768,
   "EOS_Completed": 74,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.19,
   "EosHistory": [
@@ -3918,6 +3918,11 @@
       "Time": "2023-12-19T22:04:11.9509155+00:00",
       "NumProgressed": 1767,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2023-12-20T00:04:28.8598249+00:00",
+      "NumProgressed": 1768,
+      "NumCompleted": 74
     }
   ],
   "TotalAchievements": 11,
@@ -3929,7 +3934,7 @@
       "Name": "Cutepie",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "ACH_BloccatoInGhiacciaia",
@@ -3945,7 +3950,7 @@
       "Name": "Screwdriver",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "ACH_DialogoAspettoFisico",
@@ -3969,7 +3974,7 @@
       "Name": "Alone",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "ACH_FineGioco",
@@ -3985,7 +3990,7 @@
       "Name": "Pack Rat",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "ACH_PrimoContattoIrving",
@@ -3993,15 +3998,15 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1343
+      "UsersEstimate": 1344
     },
     {
       "ID": "ACH_StanzaSegreta",
       "SetID": "7a9m7mj",
       "Name": "Someone was here",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 724
+      "UsersEstimate": 707
     },
     {
       "ID": "ACH_SussurriHotel",
@@ -4016,15 +4021,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1767,
+      "Progressed": 1768,
       "Completed": 74
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-11-07T11:59:02.4644389+00:00",
-  "LastChanged_Achievements": "2023-12-19T23:04:04.3287682+00:00",
+  "LastChanged_Achievements": "2023-12-20T00:04:28.8598246+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:30.7748067+00:00",
-  "LastUpdate_Ratings": "2023-12-19T22:59:18.9357724+00:00",
-  "LastUpdate_Achievements": "2023-12-19T23:04:04.328794+00:00"
+  "LastUpdate_Ratings": "2023-12-19T23:59:52.2415245+00:00",
+  "LastUpdate_Achievements": "2023-12-20T00:04:28.8598491+00:00"
 }

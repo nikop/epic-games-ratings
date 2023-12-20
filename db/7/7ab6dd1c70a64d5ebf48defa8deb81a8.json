@@ -1819,9 +1819,9 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 432
+      "UsersEstimate": 440
     },
     {
       "ID": "ACH_02",
@@ -1907,17 +1907,17 @@
       "ID": "ACH_12",
       "SetID": "efe2lj",
       "Name": "Shardbearer",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_13",
       "SetID": "efe2lj",
       "Name": "Adventurer",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 123
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_14",
@@ -1987,17 +1987,17 @@
       "ID": "ACH_22",
       "SetID": "efe2lj",
       "Name": "Fine Feathers Make Fine Birds",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 18
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_23",
       "SetID": "efe2lj",
       "Name": "Geared Up",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 132
+      "UsersEstimate": 141
     },
     {
       "ID": "ACH_24",
@@ -2019,9 +2019,9 @@
       "ID": "ACH_26",
       "SetID": "efe2lj",
       "Name": "Scholar",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 123
     },
     {
       "ID": "ACH_27",
@@ -2067,9 +2067,9 @@
       "ID": "ACH_33",
       "SetID": "efe2lj",
       "Name": "Miner",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 26
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_34",
@@ -2114,8 +2114,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-19T23:09:24.9346904+00:00",
+  "LastChanged_Achievements": "2023-12-20T00:09:52.5596553+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
-  "LastUpdate_Ratings": "2023-12-19T22:56:56.8889542+00:00",
-  "LastUpdate_Achievements": "2023-12-19T23:09:24.9347186+00:00"
+  "LastUpdate_Ratings": "2023-12-19T23:57:08.3690545+00:00",
+  "LastUpdate_Achievements": "2023-12-20T00:09:52.5596839+00:00"
 }

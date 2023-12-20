@@ -44,9 +44,9 @@ Rating: 4.35 (Ranked 800)
 | Well-prepared | 21.00% | ~97 |
 | The Truth | 21.00% | ~97 |
 | I Like an Audience | 19.00% | ~88 |
+| The Denouement | 18.00% | ~83 |
 | Sunken Secrets | 18.00% | ~83 |
 | What Else Did I Miss? | 18.00% | ~83 |
-| The Denouement | 17.00% | ~79 |
 | Probably the Greatest Detective in the World | 13.00% | ~60 |
 | Take a Break | 11.00% | ~51 |
 | Room with a View | 7.00% | ~32 |

@@ -2,9 +2,9 @@
   "ID": "2755e0338895421ebeb217fe1f742e7b",
   "Name": "Nocturnal",
   "ProductSlug": "nocturnal-ef3fa0",
-  "Ranking_EOS_Progress": 545,
-  "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 421,
+  "Ranking_EOS_Progress": 544,
+  "Ranking_EOS_Completed": 129,
+  "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-06-07T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 40,
+  "EOS_Progressed": 41,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.5,
+  "EOS_Completed_Percentage": 2.44,
   "EosHistory": [
     {
       "Time": "2023-06-12T20:01:31.4959965+00:00",
@@ -234,6 +234,11 @@
       "Time": "2023-12-18T09:09:58.5979702+00:00",
       "NumProgressed": 40,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T00:09:47.7251042+00:00",
+      "NumProgressed": 41,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 11,
@@ -243,7 +248,7 @@
       "ID": "Nocturnal_Achivement_10_Brun",
       "SetID": "329ifed",
       "Name": "Mr. Brightside",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 150,
       "UsersEstimate": 15
     },
@@ -251,7 +256,7 @@
       "ID": "Nocturnal_Achivement_11_FireShrine",
       "SetID": "329ifed",
       "Name": "No Stone Unturned",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 150,
       "UsersEstimate": 1
     },
@@ -261,7 +266,7 @@
       "Name": "Form Blazing Sword",
       "Percentage": 90,
       "XP": 25,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Nocturnal_Achivement_2_Shrine",
@@ -269,7 +274,7 @@
       "Name": "A Light in Dark Places",
       "Percentage": 63,
       "XP": 25,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Nocturnal_Achivement_3_Azita",
@@ -323,23 +328,23 @@
       "ID": "Nocturnal_Achivement_9_Torches",
       "SetID": "329ifed",
       "Name": "The Torchbearer",
-      "Percentage": 57,
+      "Percentage": 59,
       "XP": 150,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     }
   ],
   "AchievementSets": [
     {
       "ID": "329ifed",
       "IsBase": true,
-      "Progressed": 40,
+      "Progressed": 41,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-07-26T23:57:21.2236192+00:00",
   "FirstSeenAchievements": "2023-06-12T15:00:06.5838251+00:00",
-  "LastChanged_Achievements": "2023-12-19T23:09:20.3523915+00:00",
+  "LastChanged_Achievements": "2023-12-20T00:09:47.725104+00:00",
   "LastUpdate_AppInfo": "2023-12-19T04:57:12.2123656+00:00",
-  "LastUpdate_Ratings": "2023-12-19T22:58:53.9265263+00:00",
-  "LastUpdate_Achievements": "2023-12-19T23:09:20.3523988+00:00"
+  "LastUpdate_Ratings": "2023-12-19T23:59:23.6943301+00:00",
+  "LastUpdate_Achievements": "2023-12-20T00:09:47.7251113+00:00"
 }

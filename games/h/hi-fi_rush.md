@@ -8,12 +8,12 @@ Rating: 4.89 (Ranked 10)
 | Feeling the beat! | 43.00% | ~4,120 |
 | Start with a bang! | 42.00% | ~4,024 |
 | You can pet the cat! | 38.00% | ~3,641 |
-| Who put gears in there? | 30.00% | ~2,874 |
+| Who put gears in there? | 30.00% | ~2,875 |
 | Cream of the Crop | 26.00% | ~2,491 |
-| Thanks for the free chip, Peppermint! | 25.00% | ~2,395 |
+| Thanks for the free chip, Peppermint! | 25.00% | ~2,396 |
 | You got this, Peppermint? | 21.00% | ~2,012 |
-| Perfect Parry | 19.00% | ~1,820 |
-| Alright, that felt AWESOME! | 19.00% | ~1,820 |
+| Perfect Parry | 19.00% | ~1,821 |
+| Alright, that felt AWESOME! | 19.00% | ~1,821 |
 | I play my own way! | 17.00% | ~1,629 |
 | This will cost you big time | 15.00% | ~1,437 |
 | Uh, they were broken when I got here | 14.00% | ~1,341 |
@@ -24,8 +24,8 @@ Rating: 4.89 (Ranked 10)
 | The Negotiator | 10.00% | ~958 |
 | You must like calling me in, Chai | 9.00% | ~862 |
 | I look cool. But I can look COOLER. | 9.00% | ~862 |
-| Headliner | 8.00% | ~766 |
-| Out in a puff of smoke | 8.00% | ~766 |
+| Headliner | 8.00% | ~767 |
+| Out in a puff of smoke | 8.00% | ~767 |
 | Time to pay up! | 7.00% | ~671 |
 | Perfecter Parry-er! | 7.00% | ~671 |
 | Who's the boss now? | 6.00% | ~575 |
@@ -77,7 +77,7 @@ Rating: 4.89 (Ranked 10)
 | Voices from within | 0.10% | ~8 |
 | Low budget finish | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,581 (Ranked 174)  
+Progressed: 9,582 (Ranked 174)  
 Completed: 8 (0.08%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,6 +311,7 @@ Completed: 8 (0.08%) (Ranked 315)
 | 2023-12-17 | 8,671 | 8 |
 | 2023-12-18 | 9,200 | 8 |
 | 2023-12-19 | 9,581 | 8 |
+| 2023-12-20 | 9,582 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fried Friendship | 85.00% | ~47,110 |
-| Struck A Pose | 82.00% | ~45,447 |
-| Look At Him Go | 66.00% | ~36,579 |
-| On Rails Experience | 42.00% | ~23,278 |
-| A Daring Devil | 42.00% | ~23,278 |
-| Break the Bank | 32.00% | ~17,735 |
-| It Took Two | 28.00% | ~15,518 |
-| Bug Sized Relaxation | 14.00% | ~7,759 |
-| Plastic Prison Breakers | 14.00% | ~7,759 |
-| Terror Of The Seven Seas | 10.00% | ~5,542 |
-| Realize Your Art | 8.00% | ~4,434 |
-| Force Triangulated | 8.00% | ~4,434 |
-| Meditation Maestro | 8.00% | ~4,434 |
-| Lost And Found | 7.00% | ~3,880 |
-| Something Fishy | 7.00% | ~3,880 |
-| Snackosaurus | 6.00% | ~3,325 |
-| Platforming Prodigy | 6.00% | ~3,325 |
-| Mood Swing | 5.00% | ~2,771 |
+| Fried Friendship | 85.00% | ~47,122 |
+| Struck A Pose | 82.00% | ~45,459 |
+| Look At Him Go | 66.00% | ~36,589 |
+| On Rails Experience | 42.00% | ~23,284 |
+| A Daring Devil | 42.00% | ~23,284 |
+| Break the Bank | 32.00% | ~17,740 |
+| It Took Two | 28.00% | ~15,523 |
+| Bug Sized Relaxation | 14.00% | ~7,761 |
+| Plastic Prison Breakers | 14.00% | ~7,761 |
+| Terror Of The Seven Seas | 10.00% | ~5,544 |
+| Realize Your Art | 8.00% | ~4,435 |
+| Force Triangulated | 8.00% | ~4,435 |
+| Meditation Maestro | 8.00% | ~4,435 |
+| Lost And Found | 7.00% | ~3,881 |
+| Something Fishy | 7.00% | ~3,881 |
+| Snackosaurus | 6.00% | ~3,326 |
+| Platforming Prodigy | 6.00% | ~3,326 |
+| Mood Swing | 5.00% | ~2,772 |
 | Faraway Frequencies | 3.00% | ~1,663 |
-| Minigame Megalomania | 2.00% | ~1,108 |
+| Minigame Megalomania | 2.00% | ~1,109 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,423 (Ranked 115)  
+Progressed: 55,438 (Ranked 115)  
 Completed: 134 (0.24%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,3 +121,4 @@ Completed: 134 (0.24%) (Ranked 260)
 | 2023-12-17 | 48,208 | 131 |
 | 2023-12-18 | 52,144 | 133 |
 | 2023-12-19 | 55,423 | 134 |
+| 2023-12-20 | 55,438 | 134 |

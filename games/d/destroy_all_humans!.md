@@ -1,7 +1,7 @@
 # Destroy All Humans!
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans)  
 [View Rawdata](../../db/d/destroy_all_humans!.json)  
-Rating: 4.63 (Ranked 353)  
+Rating: 4.63 (Ranked 354)  
 Number of Ratings: 85  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,27 +9,27 @@ Number of Ratings: 85  (23.09.2022)
 | Kaijuiced | 68.00% | ~36 |
 | Lie Back and Think of Albion | 64.00% | ~34 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 57.00% | ~30 |
-| Yettisoned | 51.00% | ~27 |
-| I Look Up As I Walk to Takoshima | 45.00% | ~24 |
+| Yettisoned | 53.00% | ~28 |
+| I Look Up As I Walk to Takoshima | 47.00% | ~25 |
 | Shop Til They Drop | 45.00% | ~24 |
-| Perfect Probulator | 43.00% | ~23 |
-| Lobster Blisque | 40.00% | ~21 |
-| Ducks in a Row, Fish in a Barrel | 34.00% | ~18 |
-| Freshly Squeezed | 32.00% | ~17 |
+| Perfect Probulator | 45.00% | ~24 |
+| Lobster Blisque | 43.00% | ~23 |
+| Ducks in a Row, Fish in a Barrel | 36.00% | ~19 |
+| Freshly Squeezed | 34.00% | ~18 |
+| Fly Me to the Moon Base | 32.00% | ~17 |
 | Earthly Pleasures | 32.00% | ~17 |
-| Fly Me to the Moon Base | 30.00% | ~16 |
-| Forbidden Donut | 26.00% | ~14 |
+| Forbidden Donut | 28.00% | ~15 |
+| Pimp My Raid | 26.00% | ~14 |
 | Bodied Sattva | 26.00% | ~14 |
-| Pimp My Raid | 25.00% | ~13 |
-| Upgreatest | 21.00% | ~11 |
+| Upgreatest | 23.00% | ~12 |
 | Trans-Siberian Express | 21.00% | ~11 |
 | Deincarnated | 17.00% | ~9 |
 | Rock of the Bay | 17.00% | ~9 |
+| Furon Fashion | 13.00% | ~7 |
 | Re-Return of the Clone of the Invasion II-2 | 13.00% | ~7 |
-| Furon Fashion | 11.00% | ~6 |
-| Ouch of Body Experience | 9.00% | ~5 |
-| Arkvoodle Doodle | 8.00% | ~4 |
-| If You Know What I Mean | 8.00% | ~4 |
+| Ouch of Body Experience | 11.00% | ~6 |
+| Arkvoodle Doodle | 9.00% | ~5 |
+| If You Know What I Mean | 9.00% | ~5 |
 | Hidden Human Hive Harvest | 8.00% | ~4 |
 | Mash Machine | 8.00% | ~4 |
 | Die Nasty | 6.00% | ~3 |

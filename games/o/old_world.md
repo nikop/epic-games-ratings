@@ -39,6 +39,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just | 0.10% | ~16 |
 | Keystone | 0.10% | ~16 |
 | Learned | 0.10% | ~16 |
+| Lion | 0.10% | ~16 |
 | Magnificent | 0.10% | ~16 |
 | Mason | 0.10% | ~16 |
 | Mighty | 0.10% | ~16 |
@@ -52,6 +53,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Valiant | 0.10% | ~16 |
 | Victorious | 0.10% | ~16 |
 | Warrior | 0.10% | ~16 |
+| Wise | 0.10% | ~16 |
 | Developing Cities | 0.10% | ~16 |
 | Legendary Cities | 0.10% | ~16 |
 | Strong Cities | 0.10% | ~16 |
@@ -96,11 +98,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 1 | 0.10% | ~16 |
 | Learn to Play 2 | 0.10% | ~16 |
 | Learn to Play 3 | 0.10% | ~16 |
+| Learn to Play 4 | 0.10% | ~16 |
 | Learn to Play 5 | 0.10% | ~16 |
 | Macedonian Wars | 0.10% | ~16 |
 | Realistic Mortality | 0.10% | ~16 |
 | Assyria | 0.10% | ~16 |
 | Babylonia | 0.10% | ~16 |
+| Carthage | 0.10% | ~16 |
 | Egypt | 0.10% | ~16 |
 | Greece | 0.10% | ~16 |
 | Hatti | 0.10% | ~16 |
@@ -147,6 +151,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Clergy | 0.10% | ~16 |
 | Deposed Tribe | 0.10% | ~16 |
 | The Great Mage | 0.10% | ~16 |
+| Ramesses II KIA | 0.10% | ~16 |
 | Royal Library | 0.10% | ~16 |
 | Centenarian | 0.00% | ~0 |
 | Alexander the who? | 0.00% | ~0 |
@@ -182,12 +187,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Holy | 0.00% | ~0 |
 | Invincible | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
-| Lion | 0.00% | ~0 |
 | Rebuilder | 0.00% | ~0 |
 | Restorer | 0.00% | ~0 |
 | Subjugator | 0.00% | ~0 |
 | White Death | 0.00% | ~0 |
-| Wise | 0.00% | ~0 |
 | Council of Madness | 0.00% | ~0 |
 | Via Recta Souk in Damascus | 0.00% | ~0 |
 | Oracle in Delphi | 0.00% | ~0 |
@@ -251,11 +254,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn By Playing 2 - Just | 0.00% | ~0 |
 | Learn By Playing 3 - Good | 0.00% | ~0 |
 | Learn By Playing 4 - Strong | 0.00% | ~0 |
-| Learn to Play 4 | 0.00% | ~0 |
 | Medo-Babylonian Conquest | 0.00% | ~0 |
 | Pyramids in Menefer | 0.00% | ~0 |
 | Merchants of the Levant | 0.00% | ~0 |
-| Carthage | 0.00% | ~0 |
 | Persia | 0.00% | ~0 |
 | Rome | 0.00% | ~0 |
 | Pantheon of Gods | 0.00% | ~0 |
@@ -329,7 +330,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Muwatalli II KIA | 0.00% | ~0 |
 | Pharaonic Ramesses II The Great | 0.00% | ~0 |
 | Pharaonic Qadesh Victory | 0.00% | ~0 |
-| Ramesses II KIA | 0.00% | ~0 |
 | Split the Army | 0.00% | ~0 |
 | Lost the Hearts of Kmt | 0.00% | ~0 |
 | The Neter Collapsed | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Al Khazneh in Petra | 0.00% | ~0 |
 | Colosseum in Roma | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,840 (Ranked 157)  
+Progressed: 15,841 (Ranked 157)  
 Completed: 5 (0.03%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -609,6 +609,7 @@ Completed: 5 (0.03%) (Ranked 344)
 | 2023-12-17 | 15,807 | 5 |
 | 2023-12-18 | 15,826 | 5 |
 | 2023-12-19 | 15,840 | 5 |
+| 2023-12-20 | 15,841 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 279)  
 Sum: 1,904 (Ranked 220)  

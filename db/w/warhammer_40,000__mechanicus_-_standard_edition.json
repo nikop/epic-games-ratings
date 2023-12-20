@@ -1026,9 +1026,9 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 229841,
+  "EOS_Progressed": 229844,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 596,
+  "EOS_NewPlayers": 597,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27666,6 +27666,11 @@
       "Time": "2023-12-19T23:09:21.3696415+00:00",
       "NumProgressed": 229841,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-20T00:09:48.7682886+00:00",
+      "NumProgressed": 229844,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -27677,7 +27682,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 45968
+      "UsersEstimate": 45969
     },
     {
       "ID": "ACH_BASE_10",
@@ -27757,7 +27762,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13790
+      "UsersEstimate": 13791
     },
     {
       "ID": "ACH_BASE_20",
@@ -27925,7 +27930,7 @@
       "Name": "Knowledge is power",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 29879
+      "UsersEstimate": 29880
     },
     {
       "ID": "ACH_BASE_8",
@@ -27948,7 +27953,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 229841,
+      "Progressed": 229844,
       "Completed": 5
     }
   ],
@@ -27956,8 +27961,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-12-18T15:00:10.8258154+00:00",
-  "LastChanged_Achievements": "2023-12-19T23:09:21.3696414+00:00",
+  "LastChanged_Achievements": "2023-12-20T00:09:48.7682885+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:11.0870994+00:00",
-  "LastUpdate_Ratings": "2023-12-19T22:57:09.4540422+00:00",
-  "LastUpdate_Achievements": "2023-12-19T23:09:21.369756+00:00"
+  "LastUpdate_Ratings": "2023-12-19T23:57:23.1367182+00:00",
+  "LastUpdate_Achievements": "2023-12-20T00:09:48.7684251+00:00"
 }

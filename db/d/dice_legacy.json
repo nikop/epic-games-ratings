@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 567,
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1230,
+  "EOS_Progressed": 1232,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2424,6 +2424,11 @@
       "Time": "2023-12-19T23:04:58.5896674+00:00",
       "NumProgressed": 1230,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T00:05:28.9914137+00:00",
+      "NumProgressed": 1232,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2619,7 +2624,7 @@
       "Name": "The City",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "GOLDMASTER",
@@ -2659,7 +2664,7 @@
       "Name": "We made it",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "THREE_HAPPY_CLASSES",
@@ -2681,9 +2686,9 @@
       "ID": "TRIPLE_WORKSHOP_PRODUCTION",
       "SetID": "6ohhfoc",
       "Name": "Knowledge is Power",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "UNLOCKALLACHIEVEMENTS",
@@ -2794,7 +2799,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1230,
+      "Progressed": 1232,
       "Completed": 0
     }
   ],
@@ -2802,8 +2807,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-12-18T15:02:48.0768878+00:00",
-  "LastChanged_Achievements": "2023-12-19T23:04:58.589667+00:00",
+  "LastChanged_Achievements": "2023-12-20T00:05:28.9914134+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:49.3421858+00:00",
-  "LastUpdate_Ratings": "2023-12-19T23:02:39.3178688+00:00",
-  "LastUpdate_Achievements": "2023-12-19T23:04:58.5897104+00:00"
+  "LastUpdate_Ratings": "2023-12-20T00:02:54.1461804+00:00",
+  "LastUpdate_Achievements": "2023-12-20T00:05:28.9914541+00:00"
 }

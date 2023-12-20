@@ -24,7 +24,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Diligence as a goal | 1.00% | ~456 |
 | Lady Wing Chun | 0.90% | ~6,627 |
 | I know Kung-Fu | 0.90% | ~6,627 |
-| Project Arena | 0.90% | ~410 |
+| Project Arena | 0.90% | ~411 |
 | Furious Fists | 0.80% | ~5,890 |
 | Qi Gong: Mind | 0.80% | ~5,890 |
 | Take damage to save time | 0.80% | ~5,890 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~46 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 736,295 (Ranked 24)  
+Progressed: 736,312 (Ranked 24)  
 Completed: 12,958 (1.76%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,6 +311,7 @@ Completed: 12,958 (1.76%) (Ranked 140)
 | 2023-12-17 | 733,014 | 12,955 |
 | 2023-12-18 | 734,825 | 12,956 |
 | 2023-12-19 | 736,295 | 12,958 |
+| 2023-12-20 | 736,312 | 12,958 |
 ## Awards
 Max (Great Boss Battles): 6,965  (Ranked 55)  
 Sum: 12,212 (Ranked 84)  

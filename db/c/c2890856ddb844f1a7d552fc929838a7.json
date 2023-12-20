@@ -3,8 +3,8 @@
   "Name": "Blasphemous 2",
   "ProductSlug": "blasphemous-2",
   "Ranking_Rating": 61,
-  "Ranking_Popularity": 537,
-  "Ranking_PopularitySum": 542,
+  "Ranking_Popularity": 538,
+  "Ranking_PopularitySum": 543,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 155,
@@ -3692,9 +3692,9 @@
       "ID": "AC17",
       "SetID": "l4abp0",
       "Name": "Second Pilgrimage",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 234
     },
     {
       "ID": "AC18",
@@ -3876,9 +3876,9 @@
       "ID": "AC40",
       "SetID": "l4abp0",
       "Name": "Welcome Back!",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1139
+      "UsersEstimate": 1153
     },
     {
       "ID": "AC41",
@@ -3933,8 +3933,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-12-19T21:59:42.3397151+00:00",
-  "LastChanged_Achievements": "2023-12-19T23:04:11.670917+00:00",
+  "LastChanged_Achievements": "2023-12-20T00:04:37.1437398+00:00",
   "LastUpdate_AppInfo": "2023-12-13T02:20:44.5606116+00:00",
-  "LastUpdate_Ratings": "2023-12-19T22:59:34.1842893+00:00",
-  "LastUpdate_Achievements": "2023-12-19T23:04:11.6709618+00:00"
+  "LastUpdate_Ratings": "2023-12-20T00:00:10.1310561+00:00",
+  "LastUpdate_Achievements": "2023-12-20T00:04:37.1437759+00:00"
 }

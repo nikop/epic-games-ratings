@@ -2,7 +2,7 @@
   "ID": "ca4058f18b0a4a9e9e2ccc28f7f33000",
   "Name": "Kingdom Come: Deliverance",
   "ProductSlug": "kingdom-come-deliverance",
-  "Ranking_Rating": 198,
+  "Ranking_Rating": 197,
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 18,
@@ -9331,10 +9331,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 28542,
       "NumberOfAwardsMax": 7681
+    },
+    {
+      "Time": "2023-12-19T23:59:13.1089819+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 28543,
+      "NumberOfAwardsMax": 7681
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28542,
+  "NumberOfAwards": 28543,
   "NumberOfAwardsMax": 7681,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9360,7 +9366,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1705
+      "Count": 1706
     },
     {
       "Text": "This game has Diverse Characters",
@@ -9417,9 +9423,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 813355,
+  "EOS_Progressed": 813357,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 1121,
+  "EOS_NewPlayers": 1120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -36897,6 +36903,11 @@
       "Time": "2023-12-19T23:09:09.6341654+00:00",
       "NumProgressed": 813355,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-20T00:09:36.0682864+00:00",
+      "NumProgressed": 813357,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 82,
@@ -36996,7 +37007,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 122003
+      "UsersEstimate": 122004
     },
     {
       "ID": "Buddy",
@@ -37563,15 +37574,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 813355,
+      "Progressed": 813357,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-12-19T19:59:46.450634+00:00",
-  "LastChanged_Achievements": "2023-12-19T23:09:09.6341651+00:00",
+  "LastChanged": "2023-12-19T23:59:13.1089818+00:00",
+  "LastChanged_Achievements": "2023-12-20T00:09:36.0682863+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:26.6961501+00:00",
-  "LastUpdate_Ratings": "2023-12-19T22:58:44.3770083+00:00",
-  "LastUpdate_Achievements": "2023-12-19T23:09:09.6343846+00:00"
+  "LastUpdate_Ratings": "2023-12-19T23:59:13.1089822+00:00",
+  "LastUpdate_Achievements": "2023-12-20T00:09:36.0684575+00:00"
 }

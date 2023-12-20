@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Might be useful… | 39.00% | ~42 |
+| Might be useful… | 39.00% | ~43 |
 | Treasure Hunting | 37.00% | ~40 |
-| Shine! | 31.00% | ~33 |
-| Friend! | 30.00% | ~32 |
-| Uncut Gem | 29.00% | ~31 |
+| Shine! | 30.00% | ~33 |
+| Friend! | 29.00% | ~32 |
+| Uncut Gem | 28.00% | ~31 |
 | Clear as Water | 25.00% | ~27 |
 | Setting Off | 24.00% | ~26 |
 | Card Collector | 23.00% | ~25 |
@@ -18,11 +18,11 @@
 | A Strange Proposition | 9.00% | ~10 |
 | Card Completionist | 8.00% | ~9 |
 | Braving Miasma | 7.00% | ~8 |
-| The Bodyguard | 6.00% | ~6 |
-| The Apprentice | 6.00% | ~6 |
-| The Familiar | 6.00% | ~6 |
-| Oracle Mastery | 6.00% | ~6 |
-| No Stone Unturned | 6.00% | ~6 |
+| The Bodyguard | 6.00% | ~7 |
+| The Apprentice | 6.00% | ~7 |
+| The Familiar | 6.00% | ~7 |
+| Oracle Mastery | 6.00% | ~7 |
+| No Stone Unturned | 6.00% | ~7 |
 | Traveler Mastery | 5.00% | ~5 |
 | Warden Mastery | 5.00% | ~5 |
 | The Plot Thickens | 5.00% | ~5 |
@@ -45,7 +45,7 @@
 | Gladiator | 0.90% | ~1 |
 | True Drafter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 108 (Ranked 455)  
+Progressed: 109 (Ranked 454)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,6 +109,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-14 | 101 | 0 |
 | 2023-12-16 | 104 | 0 |
 | 2023-12-17 | 108 | 0 |
+| 2023-12-20 | 109 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

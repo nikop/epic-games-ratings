@@ -4,7 +4,7 @@
   "ProductSlug": "godot-engine",
   "Ranking_EOS_Progress": 810,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 557,
+  "Ranking_EOS_NewPlayers": 556,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": null,
@@ -32,6 +32,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-17T15:58:03.4395993+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.8491779+00:00",
-  "LastUpdate_Ratings": "2023-12-19T22:58:35.8052952+00:00",
-  "LastUpdate_Achievements": "2023-12-19T23:03:42.144774+00:00"
+  "LastUpdate_Ratings": "2023-12-19T23:59:02.8418448+00:00",
+  "LastUpdate_Achievements": "2023-12-20T00:04:03.880937+00:00"
 }
