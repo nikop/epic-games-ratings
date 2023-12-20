@@ -6,51 +6,51 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~729,284 |
-| The Blues | 85.00% | ~626,153 |
-| Fast | 66.00% | ~486,190 |
-| Healthbar | 55.00% | ~405,158 |
-| Force Cube | 53.00% | ~390,425 |
-| Double Jump | 48.00% | ~353,592 |
-| Regeneration | 47.00% | ~346,226 |
-| Triple Jump | 43.00% | ~316,760 |
-| Climb the hill | 42.00% | ~309,393 |
-| Through the fire pipe | 39.00% | ~287,294 |
-| MacGuffin | 38.00% | ~279,927 |
-| Just once | 37.00% | ~272,561 |
-| Armor | 30.00% | ~220,995 |
-| True holy spirit | 28.00% | ~206,262 |
-| That's how electronics work obviously | 27.00% | ~198,896 |
-| Force Cube Catapult | 25.00% | ~184,163 |
-| Holy Sword | 23.00% | ~169,430 |
-| Telefrag | 23.00% | ~169,430 |
-| Freed from prison | 21.00% | ~154,697 |
-| Stomp | 21.00% | ~154,697 |
+| Out of bed | 99.00% | ~729,288 |
+| The Blues | 85.00% | ~626,157 |
+| Fast | 66.00% | ~486,192 |
+| Healthbar | 55.00% | ~405,160 |
+| Force Cube | 53.00% | ~390,427 |
+| Double Jump | 48.00% | ~353,594 |
+| Regeneration | 47.00% | ~346,228 |
+| Triple Jump | 43.00% | ~316,762 |
+| Climb the hill | 42.00% | ~309,395 |
+| Through the fire pipe | 39.00% | ~287,295 |
+| MacGuffin | 38.00% | ~279,929 |
+| Just once | 37.00% | ~272,562 |
+| Armor | 30.00% | ~220,996 |
+| True holy spirit | 28.00% | ~206,263 |
+| That's how electronics work obviously | 27.00% | ~198,897 |
+| Force Cube Catapult | 25.00% | ~184,164 |
+| Holy Sword | 23.00% | ~169,431 |
+| Telefrag | 23.00% | ~169,431 |
+| Freed from prison | 21.00% | ~154,698 |
+| Stomp | 21.00% | ~154,698 |
 | Double Health | 19.00% | ~139,964 |
-| Buckle | 18.00% | ~132,597 |
-| Green Keycard | 18.00% | ~132,597 |
-| Rattle Hag | 16.00% | ~117,864 |
+| Buckle | 18.00% | ~132,598 |
+| Green Keycard | 18.00% | ~132,598 |
+| Rattle Hag | 16.00% | ~117,865 |
 | All Shells | 15.00% | ~110,498 |
-| Beam | 14.00% | ~103,131 |
-| 9 | 14.00% | ~103,131 |
+| Beam | 14.00% | ~103,132 |
+| 9 | 14.00% | ~103,132 |
 | Health Drink | 13.00% | ~95,765 |
 | Helped a star | 13.00% | ~95,765 |
 | Purple Cube | 13.00% | ~95,765 |
 | Supraball Noob | 13.00% | ~95,765 |
-| Strong | 12.00% | ~88,398 |
+| Strong | 12.00% | ~88,399 |
 | Blue King's lair | 11.00% | ~81,032 |
 | Payback | 11.00% | ~81,032 |
 | Got the coins back | 11.00% | ~81,032 |
 | Got the gun back | 11.00% | ~81,032 |
 | Infiltrated | 11.00% | ~81,032 |
 | Robbed | 11.00% | ~81,032 |
-| Fire Flies | 10.00% | ~73,665 |
-| Cave Flies | 10.00% | ~73,665 |
-| Gold Scam | 10.00% | ~73,665 |
-| Gold Scam Uncovered | 10.00% | ~73,665 |
-| Panic Lights | 10.00% | ~73,665 |
-| Translocator | 10.00% | ~73,665 |
-| Yellow Shot Button | 10.00% | ~73,665 |
+| Fire Flies | 10.00% | ~73,666 |
+| Cave Flies | 10.00% | ~73,666 |
+| Gold Scam | 10.00% | ~73,666 |
+| Gold Scam Uncovered | 10.00% | ~73,666 |
+| Panic Lights | 10.00% | ~73,666 |
+| Translocator | 10.00% | ~73,666 |
+| Yellow Shot Button | 10.00% | ~73,666 |
 | Moon Door | 9.00% | ~66,299 |
 | Momentum | 9.00% | ~66,299 |
 | Through the tiny pipe | 9.00% | ~66,299 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~737 |
 | DLC: Top of the world | 0.10% | ~737 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 736,651 (Ranked 23)  
+Progressed: 736,655 (Ranked 23)  
 Completed: 771 (0.10%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -349,14 +349,14 @@ Completed: 771 (0.10%) (Ranked 301)
 | 2023-12-17 | 736,438 | 770 |
 | 2023-12-18 | 736,539 | 771 |
 | 2023-12-19 | 736,630 | 771 |
-| 2023-12-20 | 736,651 | 771 |
+| 2023-12-20 | 736,655 | 771 |
 ## Awards
-Max (Challenging Puzzles): 7,747  (Ranked 51)  
-Sum: 10,109 (Ranked 92)  
+Max (Challenging Puzzles): 7,748  (Ranked 51)  
+Sum: 10,110 (Ranked 92)  
 Diff (max vs sum): -41  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 7,747 |
+| This game features Challenging Puzzles | 7,748 |
 | This game is Educational | 284 |
 | This game has Amazing Storytelling | 281 |
 | This game has Amazing Characters | 280 |
@@ -576,3 +576,4 @@ Diff (max vs sum): -41
 | 2023-12-14 | 4.61 | - | 7,746 | 10,107 |
 | 2023-12-17 | 4.61 | - | 7,746 | 10,108 |
 | 2023-12-19 | 4.61 | - | 7,747 | 10,109 |
+| 2023-12-20 | 4.61 | - | 7,748 | 10,110 |

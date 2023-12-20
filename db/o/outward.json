@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4031,
+  "EOS_Progressed": 4032,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 294,
+  "EOS_NewPlayers": 295,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -6491,6 +6491,11 @@
       "Time": "2023-12-20T06:06:11.6184033+00:00",
       "NumProgressed": 4031,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-20T07:05:00.484516+00:00",
+      "NumProgressed": 4032,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -6510,7 +6515,7 @@
       "Name": "Ace Detective",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "AncestorsPride_13",
@@ -6542,7 +6547,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1733
+      "UsersEstimate": 1734
     },
     {
       "ID": "CrowdPleaser",
@@ -6590,7 +6595,7 @@
       "Name": "Gift from the Ancestors",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "HoldmyMeadandWatchThis_43",
@@ -6646,7 +6651,7 @@
       "Name": "Magic is a science",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "MasterofAurai_20",
@@ -6726,7 +6731,7 @@
       "Name": "Tapped!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1491
+      "UsersEstimate": 1492
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -6822,7 +6827,7 @@
       "Name": "Venture Outward",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2983
+      "UsersEstimate": 2984
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -6837,15 +6842,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4031,
+      "Progressed": 4032,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-20T06:06:11.6184029+00:00",
+  "LastChanged_Achievements": "2023-12-20T07:05:00.4845156+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:45.1407734+00:00",
-  "LastUpdate_Ratings": "2023-12-20T06:02:57.2604552+00:00",
-  "LastUpdate_Achievements": "2023-12-20T06:06:11.6184626+00:00"
+  "LastUpdate_Ratings": "2023-12-20T07:02:47.1153694+00:00",
+  "LastUpdate_Achievements": "2023-12-20T07:05:00.4845576+00:00"
 }

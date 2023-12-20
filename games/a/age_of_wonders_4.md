@@ -23,6 +23,7 @@ Rating: 4.62 (Ranked 374)
 | Return of the Wizard King | 2.00% | ~118 |
 | Enchanted Archipelago | 2.00% | ~118 |
 | Digging for Treasure | 2.00% | ~118 |
+| Preparation Is Everything | 2.00% | ~118 |
 | My Final Form | 2.00% | ~118 |
 | Fiery Friend | 2.00% | ~118 |
 | Impenetrable Fortress | 2.00% | ~118 |
@@ -36,7 +37,6 @@ Rating: 4.62 (Ranked 374)
 | Arch Mage | 1.00% | ~59 |
 | The Creator | 1.00% | ~59 |
 | Crimson Caldera | 1.00% | ~59 |
-| Preparation Is Everything | 1.00% | ~59 |
 | Blood of the Dragon | 1.00% | ~59 |
 | Prometheus Avenged | 1.00% | ~59 |
 | Seal the Deal | 1.00% | ~59 |

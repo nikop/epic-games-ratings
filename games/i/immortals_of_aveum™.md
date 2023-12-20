@@ -5,20 +5,20 @@ Rating: 4.19 (Ranked 938)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~1,176 |
-| Battlefields Have Memories | 79.00% | ~1,055 |
-| Enlisted | 71.00% | ~949 |
-| Maybe Engage a Little | 65.00% | ~868 |
-| No More Names | 47.00% | ~628 |
-| Initiate | 33.00% | ~441 |
-| Thrada-Kul | 29.00% | ~387 |
+| Unforeseen | 88.00% | ~1,177 |
+| Battlefields Have Memories | 79.00% | ~1,057 |
+| Enlisted | 71.00% | ~950 |
+| Maybe Engage a Little | 66.00% | ~883 |
+| No More Names | 47.00% | ~629 |
+| Initiate | 33.00% | ~442 |
+| Thrada-Kul | 30.00% | ~401 |
 | Gravity-Challenged Rocks | 22.00% | ~294 |
 | Socialite | 21.00% | ~281 |
-| Soldier | 18.00% | ~240 |
-| All the Major Food Groups | 18.00% | ~240 |
-| Beggars Would Ride | 15.00% | ~200 |
+| Soldier | 18.00% | ~241 |
+| All the Major Food Groups | 17.00% | ~227 |
+| Beggars Would Ride | 16.00% | ~214 |
 | Control is an Illusion | 14.00% | ~187 |
-| The Means to Save It | 12.00% | ~160 |
+| The Means to Save It | 12.00% | ~161 |
 | Resilience to Sin | 10.00% | ~134 |
 | A Familiar Nest | 10.00% | ~134 |
 | Periapt Alizarin | 10.00% | ~134 |
@@ -29,8 +29,8 @@ Rating: 4.19 (Ranked 938)
 | Lights Army | 5.00% | ~67 |
 | Periapt Cerulean | 5.00% | ~67 |
 | Good Boy | 5.00% | ~67 |
-| Best Dressed | 4.00% | ~53 |
-| Periapt Viridian | 4.00% | ~53 |
+| Best Dressed | 4.00% | ~54 |
+| Periapt Viridian | 4.00% | ~54 |
 | Kitted Out | 3.00% | ~40 |
 | Armaments Azure | 3.00% | ~40 |
 | Armaments Gules | 3.00% | ~40 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 938)
 | Family Business | 0.20% | ~3 |
 | Fowl Play | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,336 (Ranked 254)  
+Progressed: 1,338 (Ranked 254)  
 Completed: 2 (0.15%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 2 (0.15%) (Ranked 287)
 | 2023-12-17 | 1,065 | 2 |
 | 2023-12-18 | 1,195 | 2 |
 | 2023-12-19 | 1,301 | 2 |
-| 2023-12-20 | 1,336 | 2 |
+| 2023-12-20 | 1,338 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

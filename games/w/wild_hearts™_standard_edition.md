@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Land of the Rising Sun | 100.00% | ~694 |
-| Hidden History | 71.00% | ~493 |
+| Hidden History | 72.00% | ~500 |
 | Commencing of Quests | 62.00% | ~430 |
 | Budding Conjuror | 60.00% | ~416 |
 | Man-Machine Master | 50.00% | ~347 |
@@ -18,7 +18,7 @@
 | Helpful Heart | 41.00% | ~285 |
 | Flawless Crystal | 38.00% | ~264 |
 | Expert Conjuror | 38.00% | ~264 |
-| Bonds of Enmity | 36.00% | ~250 |
+| Bonds of Enmity | 37.00% | ~257 |
 | Distance Devourer | 35.00% | ~243 |
 | Master of the Skies | 33.00% | ~229 |
 | Counter Specialist | 33.00% | ~229 |

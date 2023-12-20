@@ -643,9 +643,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 4061,
+  "EOS_Progressed": 4062,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -8793,6 +8793,11 @@
       "Time": "2023-12-20T06:09:19.1129433+00:00",
       "NumProgressed": 4061,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-20T07:09:02.5299679+00:00",
+      "NumProgressed": 4062,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8804,7 +8809,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -8860,7 +8865,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -8988,7 +8993,7 @@
       "Name": "Rigged to Blow",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -9012,7 +9017,7 @@
       "Name": "Lord of War",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1218
+      "UsersEstimate": 1219
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -9028,7 +9033,7 @@
       "Name": "Resourceful",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1096
+      "UsersEstimate": 1097
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -9036,7 +9041,7 @@
       "Name": "Der Geist",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -9196,7 +9201,7 @@
       "Name": "Target America",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1096
+      "UsersEstimate": 1097
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -9212,7 +9217,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -9371,13 +9376,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4012,
+      "Progressed": 4013,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4061,
+      "Progressed": 4062,
       "Completed": 11
     }
   ],
@@ -9385,8 +9390,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-12T01:46:40.8883813+00:00",
-  "LastChanged_Achievements": "2023-12-20T06:09:19.112943+00:00",
+  "LastChanged_Achievements": "2023-12-20T07:09:02.5299677+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:56:53.9169066+00:00",
-  "LastUpdate_Ratings": "2023-12-20T05:59:30.8896992+00:00",
-  "LastUpdate_Achievements": "2023-12-20T06:09:19.113029+00:00"
+  "LastUpdate_Ratings": "2023-12-20T06:58:49.0919972+00:00",
+  "LastUpdate_Achievements": "2023-12-20T07:09:02.5300495+00:00"
 }

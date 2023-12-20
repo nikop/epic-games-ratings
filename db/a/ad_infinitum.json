@@ -575,9 +575,9 @@
       "ID": "ACH_ARTCRITIC",
       "SetID": "88d7anj",
       "Name": "Art critic",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_AWAITINGORDERS",
@@ -599,9 +599,9 @@
       "ID": "ACH_CLARITY",
       "SetID": "88d7anj",
       "Name": "Clarity",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_CORRUPTION",
@@ -719,9 +719,9 @@
       "ID": "ACH_PATHOFPAIN",
       "SetID": "88d7anj",
       "Name": "Path of Pain",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_PEACE",
@@ -774,8 +774,8 @@
   ],
   "FirstSeen": "2023-09-16T22:59:49.7725195+00:00",
   "FirstSeenAchievements": "2023-07-25T11:06:40.9201069+00:00",
-  "LastChanged_Achievements": "2023-12-20T06:05:35.9468178+00:00",
+  "LastChanged_Achievements": "2023-12-20T07:04:35.3870852+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:55.2807884+00:00",
-  "LastUpdate_Ratings": "2023-12-20T05:56:57.1705973+00:00",
-  "LastUpdate_Achievements": "2023-12-20T06:05:35.9468401+00:00"
+  "LastUpdate_Ratings": "2023-12-20T06:57:06.607454+00:00",
+  "LastUpdate_Achievements": "2023-12-20T07:04:35.3871041+00:00"
 }

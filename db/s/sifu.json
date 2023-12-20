@@ -8361,9 +8361,9 @@
       "Count": 434
     }
   ],
-  "EOS_Progressed": 736554,
+  "EOS_Progressed": 736610,
   "EOS_Completed": 12958,
-  "EOS_NewPlayers": 18559,
+  "EOS_NewPlayers": 18612,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.76,
   "EosHistory": [
@@ -30106,6 +30106,11 @@
       "Time": "2023-12-20T06:09:00.4297381+00:00",
       "NumProgressed": 736554,
       "NumCompleted": 12958
+    },
+    {
+      "Time": "2023-12-20T07:08:49.0817832+00:00",
+      "NumProgressed": 736610,
+      "NumCompleted": 12958
     }
   ],
   "TotalAchievements": 60,
@@ -30117,7 +30122,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22097
+      "UsersEstimate": 22098
     },
     {
       "ID": "02_Vengeance_H1",
@@ -30125,7 +30130,7 @@
       "Name": "The Assault",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14731
+      "UsersEstimate": 14732
     },
     {
       "ID": "03_Vengeance_H2",
@@ -30277,7 +30282,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 4419
+      "UsersEstimate": 4420
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -30293,7 +30298,7 @@
       "Name": "Life is your teacher",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22097
+      "UsersEstimate": 22098
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -30309,7 +30314,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5892
+      "UsersEstimate": 5893
     },
     {
       "ID": "26_ShrineSpirit",
@@ -30381,7 +30386,7 @@
       "Name": "Lightning Hands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14731
+      "UsersEstimate": 14732
     },
     {
       "ID": "35_WideStrike",
@@ -30429,7 +30434,7 @@
       "Name": "Take damage to save time",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5892
+      "UsersEstimate": 5893
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -30469,7 +30474,7 @@
       "Name": "Bloody Sport",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -30596,21 +30601,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 45855,
-      "Completed": 10775
+      "Progressed": 45911,
+      "Completed": 10776
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 736554,
+      "Progressed": 736610,
       "Completed": 12958
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-20T01:32:54.5847871+00:00",
-  "LastChanged_Achievements": "2023-12-20T06:09:00.4297378+00:00",
+  "LastChanged_Achievements": "2023-12-20T07:08:49.0817828+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:50.1499922+00:00",
-  "LastUpdate_Ratings": "2023-12-20T06:03:06.6503931+00:00",
-  "LastUpdate_Achievements": "2023-12-20T06:09:00.4298478+00:00"
+  "LastUpdate_Ratings": "2023-12-20T07:02:53.2180451+00:00",
+  "LastUpdate_Achievements": "2023-12-20T07:08:49.0818953+00:00"
 }

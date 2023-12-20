@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 795,
+  "EOS_Progressed": 796,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -2750,6 +2750,11 @@
       "Time": "2023-12-20T03:04:01.2968686+00:00",
       "NumProgressed": 795,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-20T07:04:09.1513918+00:00",
+      "NumProgressed": 796,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -2761,7 +2766,7 @@
       "Name": "Safe Pair of Hands",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "cool-shirts",
@@ -2809,7 +2814,7 @@
       "Name": "Our Man",
       "Percentage": 85,
       "XP": 20,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "kill-lieutenants",
@@ -2825,7 +2830,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "play-at-night",
@@ -2833,7 +2838,7 @@
       "Name": "Don\u0027t Let Mom Know You\u0027re A Druglord",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "product-profit",
@@ -2881,7 +2886,7 @@
       "Name": "Camellos",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "unlock-residences",
@@ -2897,7 +2902,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "use-submarine",
@@ -2912,15 +2917,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 795,
+      "Progressed": 796,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-12T19:59:33.5091909+00:00",
-  "LastChanged_Achievements": "2023-12-20T06:04:57.9991265+00:00",
+  "LastChanged_Achievements": "2023-12-20T07:04:09.1513915+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.4837395+00:00",
-  "LastUpdate_Ratings": "2023-12-20T06:01:06.9287656+00:00",
-  "LastUpdate_Achievements": "2023-12-20T06:04:57.9991474+00:00"
+  "LastUpdate_Ratings": "2023-12-20T06:59:51.3194646+00:00",
+  "LastUpdate_Achievements": "2023-12-20T07:04:09.1514178+00:00"
 }

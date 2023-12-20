@@ -6,12 +6,12 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,476 |
-| Gun Fu | 8.00% | ~78,317 |
+| V for Vendetta | 12.00% | ~117,477 |
+| Gun Fu | 8.00% | ~78,318 |
 | The Fool | 7.00% | ~68,528 |
-| Right Back At Ya | 6.00% | ~58,738 |
-| Full Body Conversion | 5.00% | ~48,948 |
-| The Lovers | 5.00% | ~48,948 |
+| Right Back At Ya | 6.00% | ~58,739 |
+| Full Body Conversion | 5.00% | ~48,949 |
+| The Lovers | 5.00% | ~48,949 |
 | Stanislavski's Method | 4.00% | ~39,159 |
 | The Hermit | 4.00% | ~39,159 |
 | The Wheel of Fortune | 4.00% | ~39,159 |
@@ -24,14 +24,14 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Warrior | 3.00% | ~29,369 |
 | Legend of The Afterlife | 3.00% | ~29,369 |
 | Relic Ruler | 3.00% | ~3,228 |
-| Bushido and Chill | 2.00% | ~19,579 |
-| To Protect and Serve | 2.00% | ~19,579 |
-| Master Crafter | 2.00% | ~19,579 |
-| I Am The Law | 2.00% | ~19,579 |
-| The Quick and the Dead | 2.00% | ~19,579 |
-| The World | 2.00% | ~19,579 |
-| Two Heads, One Bullet | 2.00% | ~19,579 |
-| Judy vs Night City | 2.00% | ~19,579 |
+| Bushido and Chill | 2.00% | ~19,580 |
+| To Protect and Serve | 2.00% | ~19,580 |
+| Master Crafter | 2.00% | ~19,580 |
+| I Am The Law | 2.00% | ~19,580 |
+| The Quick and the Dead | 2.00% | ~19,580 |
+| The World | 2.00% | ~19,580 |
+| Two Heads, One Bullet | 2.00% | ~19,580 |
+| Judy vs Night City | 2.00% | ~19,580 |
 | The Wandering Fool | 1.00% | ~9,790 |
 | The Sun | 1.00% | ~9,790 |
 | Spin Doctor | 1.00% | ~1,076 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 978,967 (Ranked 16)  
-Completed: 2,944 (0.30%) (Ranked 248)  
+Progressed: 978,976 (Ranked 16)  
+Completed: 2,945 (0.30%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -318,7 +318,7 @@ Completed: 2,944 (0.30%) (Ranked 248)
 | 2023-12-17 | 978,015 | 2,930 |
 | 2023-12-18 | 978,465 | 2,935 |
 | 2023-12-19 | 978,882 | 2,944 |
-| 2023-12-20 | 978,967 | 2,944 |
+| 2023-12-20 | 978,976 | 2,945 |
 ## Awards
 Max (Character Customization): 125,194  (Ranked 8)  
 Sum: 431,631 (Ranked 9)  

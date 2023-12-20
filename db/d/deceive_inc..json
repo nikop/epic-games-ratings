@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19112,
+  "EOS_Progressed": 19113,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13894,6 +13894,11 @@
       "Time": "2023-12-20T02:05:41.070534+00:00",
       "NumProgressed": 19112,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-20T07:05:19.1967773+00:00",
+      "NumProgressed": 19113,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -13977,7 +13982,7 @@
       "Name": "Social of Solace",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "0011",
@@ -14105,7 +14110,7 @@
       "Name": "The Living Portrait",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2293
+      "UsersEstimate": 2294
     },
     {
       "ID": "0027",
@@ -14169,7 +14174,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2293
+      "UsersEstimate": 2294
     },
     {
       "ID": "0035",
@@ -14192,7 +14197,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19112,
+      "Progressed": 19113,
       "Completed": 4
     }
   ],
@@ -14200,8 +14205,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-11-20T16:57:01.0774379+00:00",
-  "LastChanged_Achievements": "2023-12-20T06:06:39.0682396+00:00",
+  "LastChanged_Achievements": "2023-12-20T07:05:19.196777+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:23.0079073+00:00",
-  "LastUpdate_Ratings": "2023-12-20T05:57:37.5977137+00:00",
-  "LastUpdate_Achievements": "2023-12-20T06:06:39.0683058+00:00"
+  "LastUpdate_Ratings": "2023-12-20T06:57:33.7769939+00:00",
+  "LastUpdate_Achievements": "2023-12-20T07:05:19.1968636+00:00"
 }

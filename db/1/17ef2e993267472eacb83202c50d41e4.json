@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 567,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
@@ -113,9 +113,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8895,
+  "EOS_Progressed": 8896,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9053,6 +9053,11 @@
       "Time": "2023-12-20T06:10:42.2488754+00:00",
       "NumProgressed": 8895,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T07:10:02.9513711+00:00",
+      "NumProgressed": 8896,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -9185,7 +9190,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2757
+      "UsersEstimate": 2758
     },
     {
       "ID": "GamesPlayed10",
@@ -9649,14 +9654,14 @@
       "Name": "Upgraded Weaponized Capacitor to Level 3",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     }
   ],
   "AchievementSets": [
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8895,
+      "Progressed": 8896,
       "Completed": 1
     }
   ],
@@ -9664,8 +9669,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-12-18T09:02:43.8513268+00:00",
-  "LastChanged_Achievements": "2023-12-20T06:10:42.2488752+00:00",
+  "LastChanged_Achievements": "2023-12-20T07:10:02.9513708+00:00",
   "LastUpdate_AppInfo": "2023-12-19T17:57:04.3951341+00:00",
-  "LastUpdate_Ratings": "2023-12-20T05:57:58.5220242+00:00",
-  "LastUpdate_Achievements": "2023-12-20T06:10:42.2489573+00:00"
+  "LastUpdate_Ratings": "2023-12-20T06:57:47.774747+00:00",
+  "LastUpdate_Achievements": "2023-12-20T07:10:02.9514518+00:00"
 }

@@ -281,9 +281,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 10526,
+  "EOS_Progressed": 10531,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 2785,
+  "EOS_NewPlayers": 2788,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -7206,6 +7206,11 @@
       "Time": "2023-12-20T06:10:29.9204551+00:00",
       "NumProgressed": 10526,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-12-20T07:09:53.6477054+00:00",
+      "NumProgressed": 10531,
+      "NumCompleted": 19
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -7226,7 +7231,7 @@
       "Name": "Baby Steps",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 3368
+      "UsersEstimate": 3370
     },
     {
       "ID": "BeLikeWater",
@@ -7242,7 +7247,7 @@
       "Name": "Bikemaggedon",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "ChewingTheScenery",
@@ -7258,7 +7263,7 @@
       "Name": "Connection Lost",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1789
+      "UsersEstimate": 1790
     },
     {
       "ID": "Eavesdropper",
@@ -7290,7 +7295,7 @@
       "Name": "First Time?",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4737
+      "UsersEstimate": 4739
     },
     {
       "ID": "FuneralForTheDeath",
@@ -7322,7 +7327,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 1579
+      "UsersEstimate": 1580
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -7330,7 +7335,7 @@
       "Name": "He Just Wanted To Help",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "JackOfAllTrades",
@@ -7362,7 +7367,7 @@
       "Name": "Nasty!",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 2316
+      "UsersEstimate": 2317
     },
     {
       "ID": "NoMoreTotems",
@@ -7410,7 +7415,7 @@
       "Name": "The Old-School Way",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 2000
+      "UsersEstimate": 2001
     },
     {
       "ID": "TheQuarterback",
@@ -7418,7 +7423,7 @@
       "Name": "The Quarterback",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 3579
+      "UsersEstimate": 3581
     },
     {
       "ID": "ThisIsDharma",
@@ -7426,7 +7431,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1263
+      "UsersEstimate": 1264
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -7434,7 +7439,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1684
+      "UsersEstimate": 1685
     },
     {
       "ID": "UnResurrected",
@@ -7450,15 +7455,15 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1579
+      "UsersEstimate": 1580
     },
     {
       "ID": "WhatsWithAllTheReferences",
       "SetID": "acc6ea0",
       "Name": "Digestive Issues",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1053
+      "UsersEstimate": 1158
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -7489,7 +7494,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 10526,
+      "Progressed": 10531,
       "Completed": 19
     }
   ],
@@ -7497,8 +7502,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-19T14:59:30.647279+00:00",
-  "LastChanged_Achievements": "2023-12-20T06:10:29.9204548+00:00",
+  "LastChanged_Achievements": "2023-12-20T07:09:53.6477051+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:14.4379471+00:00",
-  "LastUpdate_Ratings": "2023-12-20T06:00:27.0264475+00:00",
-  "LastUpdate_Achievements": "2023-12-20T06:10:29.9205069+00:00"
+  "LastUpdate_Ratings": "2023-12-20T06:59:26.5000487+00:00",
+  "LastUpdate_Achievements": "2023-12-20T07:09:53.647754+00:00"
 }

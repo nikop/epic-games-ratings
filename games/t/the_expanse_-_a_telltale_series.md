@@ -6,12 +6,12 @@ Rating: 4.53 (Ranked 550)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 14.00% | ~2,364 |
-| Captain Drummer | 10.00% | ~1,688 |
-| The Pit and the Pirates | 9.00% | ~1,519 |
-| Martian Music | 9.00% | ~1,519 |
-| Bosmang | 9.00% | ~1,519 |
-| Celebrations are in Order | 9.00% | ~1,519 |
-| Impossible Objects | 9.00% | ~1,519 |
+| Captain Drummer | 10.00% | ~1,689 |
+| The Pit and the Pirates | 9.00% | ~1,520 |
+| Martian Music | 9.00% | ~1,520 |
+| Bosmang | 9.00% | ~1,520 |
+| Celebrations are in Order | 9.00% | ~1,520 |
+| Impossible Objects | 9.00% | ~1,520 |
 | Spore Taste | 8.00% | ~1,351 |
 | Drone Dodger | 8.00% | ~1,351 |
 | Zen Master | 8.00% | ~227 |
@@ -28,8 +28,8 @@ Rating: 4.53 (Ranked 550)
 | Master Negotiator | 5.00% | ~142 |
 | Doctor Approved | 4.00% | ~675 |
 | Bottoms up! | 4.00% | ~675 |
-| Data Logger | 3.00% | ~506 |
-| Miraculous Maya | 3.00% | ~506 |
+| Data Logger | 3.00% | ~507 |
+| Miraculous Maya | 3.00% | ~507 |
 | No Belter Left Behind | 2.00% | ~338 |
 | Data Master | 2.00% | ~338 |
 | Brother's Reaper | 1.00% | ~169 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 550)
 | Scavenger Star | 0.20% | ~34 |
 | Data Collector | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,883 (Ranked 152)  
+Progressed: 16,886 (Ranked 152)  
 Completed: 45 (0.27%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 45 (0.27%) (Ranked 254)
 | 2023-12-17 | 16,683 | 44 |
 | 2023-12-18 | 16,797 | 44 |
 | 2023-12-19 | 16,865 | 45 |
-| 2023-12-20 | 16,883 | 45 |
+| 2023-12-20 | 16,886 | 45 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

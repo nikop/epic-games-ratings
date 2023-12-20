@@ -1721,9 +1721,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 18162,
+  "EOS_Progressed": 18166,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1632,
+  "EOS_NewPlayers": 1636,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -10396,6 +10396,11 @@
       "Time": "2023-12-20T06:09:38.5298108+00:00",
       "NumProgressed": 18162,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-20T07:09:16.3707664+00:00",
+      "NumProgressed": 18166,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -10511,7 +10516,7 @@
       "Name": "Get a Grip",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2361
+      "UsersEstimate": 2362
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -10527,7 +10532,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -10567,7 +10572,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1816
+      "UsersEstimate": 1817
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -10575,7 +10580,7 @@
       "Name": "Reforged",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1816
+      "UsersEstimate": 1817
     },
     {
       "ID": "PRINT_WEAPON",
@@ -10583,7 +10588,7 @@
       "Name": "Paper Jams",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2361
+      "UsersEstimate": 2362
     },
     {
       "ID": "SHARE_PHOTO",
@@ -10599,7 +10604,7 @@
       "Name": "The Outer Way",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2361
+      "UsersEstimate": 2362
     },
     {
       "ID": "STORY_ESCAPE",
@@ -10615,7 +10620,7 @@
       "Name": "Without A Paddle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "STORY_HANGAR",
@@ -10623,7 +10628,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "STORY_MINETOWN",
@@ -10639,7 +10644,7 @@
       "Name": "Desperate Times",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2179
+      "UsersEstimate": 2180
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -10647,7 +10652,7 @@
       "Name": "Crash Site",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "STORY_TOWER",
@@ -10759,7 +10764,7 @@
       "Name": "Keep Fighting",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -10782,13 +10787,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 18162,
+      "Progressed": 18166,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 6088,
+      "Progressed": 6092,
       "Completed": 29
     }
   ],
@@ -10796,8 +10801,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-20T03:02:59.9663401+00:00",
-  "LastChanged_Achievements": "2023-12-20T06:09:38.5298103+00:00",
+  "LastChanged_Achievements": "2023-12-20T07:09:16.370766+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.4893565+00:00",
-  "LastUpdate_Ratings": "2023-12-20T06:03:23.7872498+00:00",
-  "LastUpdate_Achievements": "2023-12-20T06:09:38.5298943+00:00"
+  "LastUpdate_Ratings": "2023-12-20T07:03:04.4243384+00:00",
+  "LastUpdate_Achievements": "2023-12-20T07:09:16.3708415+00:00"
 }

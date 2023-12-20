@@ -7,32 +7,32 @@
 | Marc Allard | 75.00% | ~38 |
 | Little ideas | 69.00% | ~35 |
 | The Ship | 63.00% | ~32 |
-| Seeking the truth | 53.00% | ~27 |
-| An old friend | 51.00% | ~26 |
-| The Gala | 49.00% | ~25 |
-| A curious gathering | 49.00% | ~25 |
-| Little grey cells | 47.00% | ~24 |
-| Impossible is possible | 47.00% | ~24 |
-| The Missing Magdalene | 47.00% | ~24 |
-| Arthur Hastings | 47.00% | ~24 |
-| Everything matters | 41.00% | ~21 |
-| An expert mediator | 39.00% | ~20 |
-| DI Hardwicke | 39.00% | ~20 |
-| Order and method | 37.00% | ~19 |
-| Betty Allen | 35.00% | ~18 |
-| The Investigation Begins | 35.00% | ~18 |
-| Ms. Camilla B. Culsham | 31.00% | ~16 |
-| Irene Court-Smyth | 31.00% | ~16 |
-| An odd series of events | 29.00% | ~15 |
-| The Apartment | 29.00% | ~15 |
-| Nathaniel Dryden | 27.00% | ~14 |
-| Well-acquainted | 25.00% | ~13 |
+| Seeking the truth | 55.00% | ~28 |
+| An old friend | 53.00% | ~27 |
+| The Gala | 51.00% | ~26 |
+| A curious gathering | 51.00% | ~26 |
+| Little grey cells | 49.00% | ~25 |
+| Impossible is possible | 49.00% | ~25 |
+| The Missing Magdalene | 49.00% | ~25 |
+| Arthur Hastings | 49.00% | ~25 |
+| Everything matters | 43.00% | ~22 |
+| An expert mediator | 41.00% | ~21 |
+| DI Hardwicke | 41.00% | ~21 |
+| Order and method | 39.00% | ~20 |
+| Betty Allen | 37.00% | ~19 |
+| The Investigation Begins | 37.00% | ~19 |
+| Ms. Camilla B. Culsham | 33.00% | ~17 |
+| Irene Court-Smyth | 33.00% | ~17 |
+| An odd series of events | 31.00% | ~16 |
+| The Apartment | 31.00% | ~16 |
+| Nathaniel Dryden | 29.00% | ~15 |
+| Well-acquainted | 27.00% | ~14 |
+| A rude awakening | 27.00% | ~14 |
+| Anastasia Babanin | 27.00% | ~14 |
+| Bartholomew | 27.00% | ~14 |
+| The Scheme | 27.00% | ~14 |
 | Truth from within | 25.00% | ~13 |
-| A rude awakening | 25.00% | ~13 |
-| Anastasia Babanin | 25.00% | ~13 |
 | Zakariya Demir | 25.00% | ~13 |
-| Bartholomew | 25.00% | ~13 |
-| The Scheme | 25.00% | ~13 |
 | A curious phrase | 22.00% | ~11 |
 | Evelyn Lakshmi Warbeck | 22.00% | ~11 |
 | The Suspects | 22.00% | ~11 |

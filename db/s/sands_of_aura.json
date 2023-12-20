@@ -1025,9 +1025,9 @@
       "ID": "WILGRAM_TWINS_DEFEAT",
       "SetID": "cm0d613",
       "Name": "Twin Thorns",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "WILGRAM_TWINS_MASTER",
@@ -1058,8 +1058,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-12-20T06:05:46.689448+00:00",
+  "LastChanged_Achievements": "2023-12-20T07:04:42.8507923+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:44.6330154+00:00",
-  "LastUpdate_Ratings": "2023-12-20T06:02:56.3320003+00:00",
-  "LastUpdate_Achievements": "2023-12-20T06:05:46.6894964+00:00"
+  "LastUpdate_Ratings": "2023-12-20T07:02:46.4874158+00:00",
+  "LastUpdate_Achievements": "2023-12-20T07:04:42.8508269+00:00"
 }

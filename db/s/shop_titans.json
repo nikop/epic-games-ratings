@@ -7663,9 +7663,9 @@
       "Count": 3800
     }
   ],
-  "EOS_Progressed": 146467,
+  "EOS_Progressed": 146469,
   "EOS_Completed": 325,
-  "EOS_NewPlayers": 1569,
+  "EOS_NewPlayers": 1568,
   "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -33168,6 +33168,11 @@
       "Time": "2023-12-20T06:04:02.0257583+00:00",
       "NumProgressed": 146467,
       "NumCompleted": 325
+    },
+    {
+      "Time": "2023-12-20T07:03:30.7561518+00:00",
+      "NumProgressed": 146469,
+      "NumCompleted": 325
     }
   ],
   "TotalAchievements": 112,
@@ -33411,7 +33416,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11717
+      "UsersEstimate": 11718
     },
     {
       "ID": "commonres02",
@@ -33995,7 +34000,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11717
+      "UsersEstimate": 11718
     },
     {
       "ID": "twinenchant01",
@@ -34074,15 +34079,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 146467,
+      "Progressed": 146469,
       "Completed": 325
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-20T03:02:58.4385215+00:00",
-  "LastChanged_Achievements": "2023-12-20T06:04:02.0257578+00:00",
+  "LastChanged_Achievements": "2023-12-20T07:03:30.7561514+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.001195+00:00",
-  "LastUpdate_Ratings": "2023-12-20T06:03:21.798206+00:00",
-  "LastUpdate_Achievements": "2023-12-20T06:04:02.0259623+00:00"
+  "LastUpdate_Ratings": "2023-12-20T07:03:03.0425033+00:00",
+  "LastUpdate_Achievements": "2023-12-20T07:03:30.7563534+00:00"
 }

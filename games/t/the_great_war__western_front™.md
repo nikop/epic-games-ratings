@@ -7,7 +7,7 @@ Rating: 3.97 (Ranked 1,023)
 | ---- | ---------- | ----- |
 | Earth Shattering | 47.00% | ~324 |
 | La Der des Ders | 16.00% | ~110 |
-| Das Ist Endgültig! | 15.00% | ~104 |
+| Das Ist Endgültig! | 16.00% | ~110 |
 | From the Pages of History | 8.00% | ~55 |
 | The Chemists' War | 6.00% | ~41 |
 | War with Friends | 2.00% | ~14 |

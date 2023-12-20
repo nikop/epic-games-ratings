@@ -1,13 +1,13 @@
 # Isonzo
 [Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
-Rating: 4.57 (Ranked 481)  
+Rating: 4.57 (Ranked 482)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tutti Eroi! | 51.00% | ~4,848 |
-| You Shall Not Pass | 51.00% | ~4,848 |
+| Tutti Eroi! | 51.00% | ~4,849 |
+| You Shall Not Pass | 51.00% | ~4,849 |
 | Peak Performance | 46.00% | ~4,373 |
 | Avanti Savoia! | 44.00% | ~4,183 |
 | Mamma Mia! | 35.00% | ~3,327 |
@@ -33,8 +33,8 @@ Number of Ratings: 98  (23.09.2022)
 | Dante's Inferno | 9.00% | ~856 |
 | I Have the High Ground | 9.00% | ~856 |
 | Millenial | 9.00% | ~856 |
-| The Show Must Go On | 8.00% | ~760 |
-| Tosca | 8.00% | ~760 |
+| The Show Must Go On | 8.00% | ~761 |
+| Tosca | 8.00% | ~761 |
 | 12th Bottle of the Isonzo | 6.00% | ~570 |
 | The Enlightment | 6.00% | ~570 |
 | Cercatore d'Oro | 5.00% | ~475 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~38 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,506 (Ranked 176)  
+Progressed: 9,507 (Ranked 176)  
 Completed: 10 (0.11%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 10 (0.11%) (Ranked 298)
 | 2023-12-17 | 9,466 | 10 |
 | 2023-12-18 | 9,486 | 10 |
 | 2023-12-19 | 9,503 | 10 |
-| 2023-12-20 | 9,506 | 10 |
+| 2023-12-20 | 9,507 | 10 |
 ## Awards
 Max (Diverse Characters): 40  (Ranked 467)  
 Sum: 330 (Ranked 363)  

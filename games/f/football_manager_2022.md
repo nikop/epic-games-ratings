@@ -1,18 +1,18 @@
 # Football Manager 2022
 [Store](https://store.epicgames.com/en-US/p/football-manager-2022)  
 [View Rawdata](../../db/f/football_manager_2022.json)  
-Rating: 4.80 (Ranked 91)  
+Rating: 4.80 (Ranked 90)  
 Number of Ratings: 19,160  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~239,001 |
-| He's Signed! | 50.00% | ~239,001 |
-| First Victory | 50.00% | ~239,001 |
-| He's Sold! | 48.00% | ~229,441 |
-| I'm The Boss! | 42.00% | ~200,761 |
-| Hat-trick | 41.00% | ~195,981 |
-| Scoring Streak | 38.00% | ~181,641 |
+| Clean Sheet | 50.00% | ~239,002 |
+| He's Signed! | 50.00% | ~239,002 |
+| First Victory | 50.00% | ~239,002 |
+| He's Sold! | 48.00% | ~229,442 |
+| I'm The Boss! | 42.00% | ~200,762 |
+| Hat-trick | 41.00% | ~195,982 |
+| Scoring Streak | 38.00% | ~181,642 |
 | Unbeatable! | 37.00% | ~176,861 |
 | Thumping | 37.00% | ~176,861 |
 | Superb Dressing Room Atmosphere | 35.00% | ~167,301 |
@@ -30,29 +30,29 @@ Number of Ratings: 19,160  (23.09.2022)
 | Record Sale | 27.00% | ~129,061 |
 | On A Roll | 26.00% | ~124,281 |
 | Unstoppable Force | 26.00% | ~124,281 |
-| Armchair Expert | 25.00% | ~119,500 |
-| Fantastic Five | 24.00% | ~114,720 |
-| Full Faith | 24.00% | ~114,720 |
-| Iron Curtain | 24.00% | ~114,720 |
-| The Boss | 24.00% | ~114,720 |
-| Top Of The Class | 23.00% | ~109,940 |
-| Goal Machine | 23.00% | ~109,940 |
-| Splashing The Cash | 22.00% | ~105,160 |
-| Clean Bill of Health | 22.00% | ~105,160 |
-| What A Goal! | 22.00% | ~105,160 |
-| Cup Glory! | 22.00% | ~105,160 |
-| Irresistible Force | 20.00% | ~95,600 |
-| Excellent Match Cohesion | 20.00% | ~95,600 |
-| Do The Double | 19.00% | ~90,820 |
-| Top Form | 17.00% | ~81,260 |
-| Cash To Burn | 17.00% | ~81,260 |
-| Beating Expectations | 16.00% | ~76,480 |
-| Overachiever! | 16.00% | ~76,480 |
-| Rushed signing | 16.00% | ~76,480 |
-| Window Shopping | 15.00% | ~71,700 |
-| Eyes and Ears | 14.00% | ~66,920 |
-| Comeback King! | 14.00% | ~66,920 |
-| You're Up! | 13.00% | ~62,140 |
+| Armchair Expert | 25.00% | ~119,501 |
+| Fantastic Five | 24.00% | ~114,721 |
+| Full Faith | 24.00% | ~114,721 |
+| Iron Curtain | 24.00% | ~114,721 |
+| The Boss | 24.00% | ~114,721 |
+| Top Of The Class | 23.00% | ~109,941 |
+| Goal Machine | 23.00% | ~109,941 |
+| Splashing The Cash | 22.00% | ~105,161 |
+| Clean Bill of Health | 22.00% | ~105,161 |
+| What A Goal! | 22.00% | ~105,161 |
+| Cup Glory! | 22.00% | ~105,161 |
+| Irresistible Force | 20.00% | ~95,601 |
+| Excellent Match Cohesion | 20.00% | ~95,601 |
+| Do The Double | 19.00% | ~90,821 |
+| Top Form | 17.00% | ~81,261 |
+| Cash To Burn | 17.00% | ~81,261 |
+| Beating Expectations | 16.00% | ~76,481 |
+| Overachiever! | 16.00% | ~76,481 |
+| Rushed signing | 16.00% | ~76,481 |
+| Window Shopping | 15.00% | ~71,701 |
+| Eyes and Ears | 14.00% | ~66,921 |
+| Comeback King! | 14.00% | ~66,921 |
+| You're Up! | 13.00% | ~62,141 |
 | Money, Money, Money | 12.00% | ~57,360 |
 | Invincible! | 11.00% | ~52,580 |
 | Superb Strike | 10.00% | ~47,800 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~478 |
 | Shoestring Budget | 0.10% | ~478 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 478,002 (Ranked 41)  
+Progressed: 478,004 (Ranked 41)  
 Completed: 22 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -349,7 +349,7 @@ Completed: 22 (0.00%) (Ranked 384)
 | 2023-12-17 | 477,869 | 22 |
 | 2023-12-18 | 477,925 | 22 |
 | 2023-12-19 | 477,995 | 22 |
-| 2023-12-20 | 478,002 | 22 |
+| 2023-12-20 | 478,004 | 22 |
 ## Awards
 Max (Relaxing): 6,486  (Ranked 60)  
 Sum: 51,148 (Ranked 30)  

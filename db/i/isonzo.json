@@ -2,7 +2,7 @@
   "ID": "30de69013f3b41b0ba594a8ef3b693ba",
   "Name": "Isonzo",
   "ProductSlug": "isonzo",
-  "Ranking_Rating": 481,
+  "Ranking_Rating": 482,
   "Ranking_Popularity": 467,
   "Ranking_PopularitySum": 363,
   "Ranking_EOS_Progress": 176,
@@ -1015,9 +1015,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 9506,
+  "EOS_Progressed": 9507,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9670,6 +9670,11 @@
       "Time": "2023-12-20T04:09:00.973516+00:00",
       "NumProgressed": 9506,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-20T07:08:58.0510686+00:00",
+      "NumProgressed": 9507,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -9985,7 +9990,7 @@
       "Name": "The Show Must Go On",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "ISONZO_ACH_THUS_WITH_A_KISS",
@@ -10001,7 +10006,7 @@
       "Name": "Tosca",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "ISONZO_ACH_TUTTI_EROI",
@@ -10009,7 +10014,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4848
+      "UsersEstimate": 4849
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -10033,14 +10038,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4848
+      "UsersEstimate": 4849
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9506,
+      "Progressed": 9507,
       "Completed": 10
     }
   ],
@@ -10048,8 +10053,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-19T18:00:04.0017242+00:00",
-  "LastChanged_Achievements": "2023-12-20T06:09:12.8411461+00:00",
+  "LastChanged_Achievements": "2023-12-20T07:08:58.0510683+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:27.7823002+00:00",
-  "LastUpdate_Ratings": "2023-12-20T06:01:16.6751156+00:00",
-  "LastUpdate_Achievements": "2023-12-20T06:09:12.8412132+00:00"
+  "LastUpdate_Ratings": "2023-12-20T06:59:57.7269562+00:00",
+  "LastUpdate_Achievements": "2023-12-20T07:08:58.0511249+00:00"
 }

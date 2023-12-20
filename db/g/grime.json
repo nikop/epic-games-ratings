@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1693,9 +1693,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 163422,
+  "EOS_Progressed": 163423,
   "EOS_Completed": 358,
-  "EOS_NewPlayers": 1101,
+  "EOS_NewPlayers": 1099,
   "EOS_NewCompleters": 58,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -19888,6 +19888,11 @@
       "Time": "2023-12-20T06:06:32.9755746+00:00",
       "NumProgressed": 163422,
       "NumCompleted": 358
+    },
+    {
+      "Time": "2023-12-20T07:05:15.1252186+00:00",
+      "NumProgressed": 163423,
+      "NumCompleted": 358
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -20074,9 +20079,9 @@
       "ID": "DEFEAT_VULTURE",
       "SetID": "ccc0dlh",
       "Name": "Feast",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 490
+      "UsersEstimate": 654
     },
     {
       "ID": "DEFEAT_WATCHER",
@@ -20267,21 +20272,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 163005,
+      "Progressed": 163006,
       "Completed": 1242
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 163422,
+      "Progressed": 163423,
       "Completed": 358
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-19T20:59:46.5497646+00:00",
-  "LastChanged_Achievements": "2023-12-20T06:06:32.9755744+00:00",
+  "LastChanged_Achievements": "2023-12-20T07:05:15.1252183+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:23.4801204+00:00",
-  "LastUpdate_Ratings": "2023-12-20T05:59:44.5509419+00:00",
-  "LastUpdate_Achievements": "2023-12-20T06:06:32.9756743+00:00"
+  "LastUpdate_Ratings": "2023-12-20T06:58:58.2190906+00:00",
+  "LastUpdate_Achievements": "2023-12-20T07:05:15.1253066+00:00"
 }

@@ -12,7 +12,7 @@ Number of Ratings: 892  (23.09.2022)
 | Greeno-B-Gone | 125.00% | ~762 |
 | The Little Wood that Could | 119.00% | ~726 |
 | Your Especially Earned Trajectory | 103.00% | ~628 |
-| On that Grindset | 89.00% | ~543 |
+| On that Grindset | 90.00% | ~549 |
 | One of the Cool Kids | 85.00% | ~518 |
 | No Mountain Wide Enough | 83.00% | ~506 |
 | Pack Mule | 79.00% | ~482 |
@@ -46,7 +46,7 @@ Number of Ratings: 892  (23.09.2022)
 | Call Me Fishmael | 54.00% | ~329 |
 | Got the Flow Back | 53.00% | ~323 |
 | Sepia Toned Memories | 52.00% | ~317 |
-| Time Flies | 49.00% | ~299 |
+| Time Flies | 50.00% | ~305 |
 | Who Ya Gonna Call...? | 47.00% | ~287 |
 | Kind of a Big Deal | 45.00% | ~274 |
 | Jewel of the Eufaula | 45.00% | ~274 |

@@ -32,7 +32,7 @@
 | Friend of Gillyshire | 14.00% | ~9 |
 | Friend of Bastion | 14.00% | ~9 |
 | Philo's Tale | 13.00% | ~8 |
-| Friend of Orgash | 11.00% | ~7 |
+| Friend of Orgash | 13.00% | ~8 |
 | Friend of Silver Drift Hollow | 11.00% | ~7 |
 | Friend of Windholme | 11.00% | ~7 |
 | Magic Academy | 11.00% | ~7 |
@@ -41,11 +41,11 @@
 | Elynn's Tale | 9.00% | ~6 |
 | The Forge of Regan Gor | 9.00% | ~6 |
 | Silver Drift Hollow Mine | 9.00% | ~6 |
+| Mage Teacher | 9.00% | ~6 |
+| A Master of Magic | 9.00% | ~6 |
 | Defeat Hokan | 8.00% | ~5 |
 | Lore's Tale | 8.00% | ~5 |
 | Yngrid's Tale | 8.00% | ~5 |
-| Mage Teacher | 8.00% | ~5 |
-| A Master of Magic | 8.00% | ~5 |
 | A Joke | 8.00% | ~5 |
 | Get to the Airship! | 6.00% | ~4 |
 | Defeat Isgrimm | 6.00% | ~4 |
@@ -61,13 +61,13 @@
 | Master Alchemist | 5.00% | ~3 |
 | A Monopoly of Might | 5.00% | ~3 |
 | Heroes | 5.00% | ~3 |
+| My Friends! | 5.00% | ~3 |
+| Master Necromancer | 5.00% | ~3 |
 | Friend of Uram Gor | 5.00% | ~3 |
 | Defeat Raith | 3.00% | ~2 |
 | Fireforge | 3.00% | ~2 |
 | Master Artificer | 3.00% | ~2 |
 | Breaking the circle | 3.00% | ~2 |
-| My Friends! | 3.00% | ~2 |
-| Master Necromancer | 3.00% | ~2 |
 | Misty Coast Dragonbones | 2.00% | ~1 |
 | Hard Life | 2.00% | ~1 |
 | Impossible Mission | 0.00% | ~0 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64 (Ranked 505)  
+Progressed: 64 (Ranked 506)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |

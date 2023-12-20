@@ -20,7 +20,7 @@ Number of Ratings: 154  (23.09.2022)
 | Knuckles the Echidna | 56.00% | ~364 |
 | Miles "Tails" Prower | 55.00% | ~358 |
 | Boss Rush Attempt | 49.00% | ~318 |
-| Cleared Sonic the Hedgehog | 47.00% | ~306 |
+| Cleared Sonic the Hedgehog | 48.00% | ~312 |
 | Super Sonic | 43.00% | ~280 |
 | Shut Down Metal Sonic | 40.00% | ~260 |
 | Beware Stingers! | 40.00% | ~260 |

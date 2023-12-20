@@ -9856,10 +9856,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20811,
       "NumberOfAwardsMax": 7795
+    },
+    {
+      "Time": "2023-12-20T06:59:09.6547242+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20813,
+      "NumberOfAwardsMax": 7795
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20811,
+  "NumberOfAwards": 20813,
   "NumberOfAwardsMax": 7795,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9933,12 +9939,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 1031
+      "Count": 1033
     }
   ],
-  "EOS_Progressed": 128653,
+  "EOS_Progressed": 128657,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2125,
+  "EOS_NewPlayers": 2124,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35911,6 +35917,11 @@
       "Time": "2023-12-20T06:09:34.0262593+00:00",
       "NumProgressed": 128653,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-20T07:09:13.2571018+00:00",
+      "NumProgressed": 128657,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36530,7 +36541,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -36553,21 +36564,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 128653,
+      "Progressed": 128657,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 3522,
+      "Progressed": 3526,
       "Completed": 802
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-20T01:29:11.2317421+00:00",
-  "LastChanged_Achievements": "2023-12-20T06:09:34.0262578+00:00",
+  "LastChanged": "2023-12-20T06:59:09.654724+00:00",
+  "LastChanged_Achievements": "2023-12-20T07:09:13.2571016+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-20T06:00:01.6842017+00:00",
-  "LastUpdate_Achievements": "2023-12-20T06:09:34.0264515+00:00"
+  "LastUpdate_Ratings": "2023-12-20T06:59:09.6547246+00:00",
+  "LastUpdate_Achievements": "2023-12-20T07:09:13.2572657+00:00"
 }

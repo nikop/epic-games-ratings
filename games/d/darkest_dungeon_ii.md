@@ -34,7 +34,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 2.00% | ~2,573 |
 | FNG | 2.00% | ~2,573 |
 | Nope | 2.00% | ~2,573 |
-| Friends 'Til the End | 2.00% | ~70 |
+| Friends 'Til the End | 2.00% | ~71 |
 | Resurrection | 1.00% | ~1,287 |
 | Unleash Hell | 1.00% | ~1,287 |
 | Funny Guy | 1.00% | ~1,287 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,653 (Ranked 85)  
+Progressed: 128,657 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,10 +320,10 @@ Completed: 3 (0.00%) (Ranked 384)
 | 2023-12-17 | 128,143 | 3 |
 | 2023-12-18 | 128,398 | 3 |
 | 2023-12-19 | 128,605 | 3 |
-| 2023-12-20 | 128,653 | 3 |
+| 2023-12-20 | 128,657 | 3 |
 ## Awards
 Max (Character Customization): 7,795  (Ranked 50)  
-Sum: 20,811 (Ranked 58)  
+Sum: 20,813 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -336,7 +336,7 @@ Diff (max vs sum): -8
 | This game has Amazing Storytelling | 1,394 |
 | This game has Unique Visuals | 1,390 |
 | This game has Quickly Understood Controls | 1,360 |
-| This game has a Creative Community | 1,031 |
+| This game has a Creative Community | 1,033 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
 ## Ratings History
@@ -668,4 +668,4 @@ Diff (max vs sum): -8
 | 2023-12-17 | 4.68 | - | 7,763 | 20,673 |
 | 2023-12-18 | 4.68 | - | 7,784 | 20,761 |
 | 2023-12-19 | 4.68 | - | 7,795 | 20,806 |
-| 2023-12-20 | 4.68 | - | 7,795 | 20,811 |
+| 2023-12-20 | 4.68 | - | 7,795 | 20,813 |
