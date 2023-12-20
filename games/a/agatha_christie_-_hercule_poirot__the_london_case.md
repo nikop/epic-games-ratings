@@ -29,10 +29,10 @@
 | Well-acquainted | 27.00% | ~14 |
 | A rude awakening | 27.00% | ~14 |
 | Anastasia Babanin | 27.00% | ~14 |
+| Zakariya Demir | 27.00% | ~14 |
 | Bartholomew | 27.00% | ~14 |
 | The Scheme | 27.00% | ~14 |
 | Truth from within | 25.00% | ~13 |
-| Zakariya Demir | 25.00% | ~13 |
 | A curious phrase | 22.00% | ~11 |
 | Evelyn Lakshmi Warbeck | 22.00% | ~11 |
 | The Suspects | 22.00% | ~11 |

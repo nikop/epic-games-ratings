@@ -1907,7 +1907,7 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 66861,
+  "EOS_Progressed": 66862,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 669,
   "EOS_NewCompleters": 0,
@@ -28752,6 +28752,11 @@
       "Time": "2023-12-20T07:04:14.9130951+00:00",
       "NumProgressed": 66861,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-20T08:04:10.3272385+00:00",
+      "NumProgressed": 66862,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -28891,7 +28896,7 @@
       "Name": "This We\u0027ll Defend!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 6017
+      "UsersEstimate": 6018
     },
     {
       "ID": "VERDUN_ACH_GOLD100",
@@ -29027,7 +29032,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 26744
+      "UsersEstimate": 26745
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -29051,7 +29056,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 42122
+      "UsersEstimate": 42123
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -29107,7 +29112,7 @@
       "Name": "Manual Labour I",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 16715
+      "UsersEstimate": 16716
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -29139,7 +29144,7 @@
       "Name": "Anker wirf!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 6017
+      "UsersEstimate": 6018
     },
     {
       "ID": "VERDUN_ACH_POILUS",
@@ -29203,7 +29208,7 @@
       "Name": "Providentiea Memor",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 6017
+      "UsersEstimate": 6018
     },
     {
       "ID": "VERDUN_ACH_TIRAILLEURS",
@@ -29219,7 +29224,7 @@
       "Name": "For King and Country",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 6017
+      "UsersEstimate": 6018
     },
     {
       "ID": "VERDUN_ACH_TRIPLEEXPL",
@@ -29234,15 +29239,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 66861,
+      "Progressed": 66862,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-12-19T18:57:45.7577848+00:00",
-  "LastChanged_Achievements": "2023-12-20T07:04:14.9130948+00:00",
+  "LastChanged_Achievements": "2023-12-20T08:04:10.3272381+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:33.1495851+00:00",
-  "LastUpdate_Ratings": "2023-12-20T06:58:07.805931+00:00",
-  "LastUpdate_Achievements": "2023-12-20T07:04:14.9132275+00:00"
+  "LastUpdate_Ratings": "2023-12-20T07:57:55.6310939+00:00",
+  "LastUpdate_Achievements": "2023-12-20T08:04:10.3273735+00:00"
 }

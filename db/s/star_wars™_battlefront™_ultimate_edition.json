@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1927,
+  "EOS_Progressed": 1928,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 239,
+  "EOS_NewPlayers": 240,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5669,6 +5669,11 @@
       "Time": "2023-12-20T06:10:39.9933852+00:00",
       "NumProgressed": 1927,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T08:09:48.0109753+00:00",
+      "NumProgressed": 1928,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -5785,7 +5790,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "achievement_22",
@@ -5897,7 +5902,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "achievement_35",
@@ -5905,7 +5910,7 @@
       "Name": "New Recruit",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1696
+      "UsersEstimate": 1697
     },
     {
       "ID": "achievement_36",
@@ -5919,9 +5924,9 @@
       "ID": "achievement_37",
       "SetID": "271ol84",
       "Name": "Off to a good start",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1234
     },
     {
       "ID": "achievement_38",
@@ -6184,13 +6189,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1927,
+      "Progressed": 1928,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1927,
+      "Progressed": 1928,
       "Completed": 1
     }
   ],
@@ -6198,8 +6203,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-20T07:10:01.2172101+00:00",
+  "LastChanged_Achievements": "2023-12-20T08:09:48.0109749+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.5169818+00:00",
-  "LastUpdate_Ratings": "2023-12-20T06:57:24.8377223+00:00",
-  "LastUpdate_Achievements": "2023-12-20T07:10:01.2172708+00:00"
+  "LastUpdate_Ratings": "2023-12-20T07:57:13.7554954+00:00",
+  "LastUpdate_Achievements": "2023-12-20T08:09:48.0110507+00:00"
 }

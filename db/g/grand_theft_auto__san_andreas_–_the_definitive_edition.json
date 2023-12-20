@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1855,9 +1855,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 15649,
+  "EOS_Progressed": 15650,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 1683,
+  "EOS_NewPlayers": 1684,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -16825,6 +16825,11 @@
       "Time": "2023-12-20T07:09:44.3867135+00:00",
       "NumProgressed": 15649,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-12-20T08:09:31.4996307+00:00",
+      "NumProgressed": 15650,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 35,
@@ -16844,7 +16849,7 @@
       "Name": "With Extra Dip",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "ACH03",
@@ -16884,7 +16889,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2973
+      "UsersEstimate": 2974
     },
     {
       "ID": "ACH08",
@@ -16892,7 +16897,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 7824
+      "UsersEstimate": 7825
     },
     {
       "ID": "ACH09",
@@ -16900,7 +16905,7 @@
       "Name": "Bike or Biker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "ACH10",
@@ -16940,7 +16945,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1721
+      "UsersEstimate": 1722
     },
     {
       "ID": "ACH15",
@@ -16964,7 +16969,7 @@
       "Name": "What the City Needs",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "ACH18",
@@ -17060,7 +17065,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2347
+      "UsersEstimate": 2348
     },
     {
       "ID": "ACH30",
@@ -17115,7 +17120,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 15649,
+      "Progressed": 15650,
       "Completed": 61
     }
   ],
@@ -17123,8 +17128,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-12-20T02:57:34.202725+00:00",
-  "LastChanged_Achievements": "2023-12-20T07:09:44.3867132+00:00",
+  "LastChanged_Achievements": "2023-12-20T08:09:31.4996302+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:24.5920887+00:00",
-  "LastUpdate_Ratings": "2023-12-20T06:57:50.6334542+00:00",
-  "LastUpdate_Achievements": "2023-12-20T07:09:44.386782+00:00"
+  "LastUpdate_Ratings": "2023-12-20T07:57:38.8886109+00:00",
+  "LastUpdate_Achievements": "2023-12-20T08:09:31.4997388+00:00"
 }

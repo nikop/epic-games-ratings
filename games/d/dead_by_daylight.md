@@ -6,25 +6,25 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 4.00% | ~44,264 |
-| Zealous | 3.00% | ~33,198 |
-| Not half bad | 3.00% | ~33,198 |
-| Skillful | 3.00% | ~33,198 |
-| Make Some Noise | 3.00% | ~33,198 |
-| The Grand Sacrifice | 2.00% | ~22,132 |
-| No one left behind | 2.00% | ~22,132 |
-| Medic | 2.00% | ~22,132 |
-| Handyman | 2.00% | ~22,132 |
-| Perfect Escape | 2.00% | ~22,132 |
-| Bloody Millionaire | 2.00% | ~22,132 |
-| Apt Survivor | 2.00% | ~22,132 |
-| Survival Treasures | 2.00% | ~22,132 |
-| I | 2.00% | ~22,132 |
-| Sorted | 2.00% | ~22,132 |
-| Healthy Obsession | 2.00% | ~22,132 |
-| Resurgence | 2.00% | ~22,132 |
-| Preemptive Strike | 2.00% | ~22,132 |
-| Humanitarian | 2.00% | ~22,132 |
+| It wakes | 4.00% | ~44,265 |
+| Zealous | 3.00% | ~33,199 |
+| Not half bad | 3.00% | ~33,199 |
+| Skillful | 3.00% | ~33,199 |
+| Make Some Noise | 3.00% | ~33,199 |
+| The Grand Sacrifice | 2.00% | ~22,133 |
+| No one left behind | 2.00% | ~22,133 |
+| Medic | 2.00% | ~22,133 |
+| Handyman | 2.00% | ~22,133 |
+| Perfect Escape | 2.00% | ~22,133 |
+| Bloody Millionaire | 2.00% | ~22,133 |
+| Apt Survivor | 2.00% | ~22,133 |
+| Survival Treasures | 2.00% | ~22,133 |
+| I | 2.00% | ~22,133 |
+| Sorted | 2.00% | ~22,133 |
+| Healthy Obsession | 2.00% | ~22,133 |
+| Resurgence | 2.00% | ~22,133 |
+| Preemptive Strike | 2.00% | ~22,133 |
+| Humanitarian | 2.00% | ~22,133 |
 | Escape Artist | 1.00% | ~11,066 |
 | Agonizing Escape | 1.00% | ~11,066 |
 | Backdoor Escape | 1.00% | ~11,066 |
@@ -42,12 +42,12 @@ Number of Ratings: 70,340  (23.09.2022)
 | With Scars to Show | 1.00% | ~11,066 |
 | Lifting The Fog | 1.00% | ~11,066 |
 | Second Act | 1.00% | ~11,066 |
-| Blood on your hands | 0.90% | ~9,959 |
-| Operation: Survival | 0.90% | ~9,959 |
-| Every Last Drop | 0.90% | ~9,959 |
-| Raccoon City Recruit | 0.90% | ~9,959 |
-| Flight to Freedom | 0.90% | ~9,959 |
-| Chorus of Chaos | 0.90% | ~9,959 |
+| Blood on your hands | 0.90% | ~9,960 |
+| Operation: Survival | 0.90% | ~9,960 |
+| Every Last Drop | 0.90% | ~9,960 |
+| Raccoon City Recruit | 0.90% | ~9,960 |
+| Flight to Freedom | 0.90% | ~9,960 |
+| Chorus of Chaos | 0.90% | ~9,960 |
 | Gifts for the Fog | 0.80% | ~8,853 |
 | III-50 | 0.80% | ~8,853 |
 | Cherish your Life | 0.80% | ~8,853 |
@@ -65,6 +65,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Cutting Out | 0.70% | ~7,746 |
 | One More Step | 0.70% | ~7,746 |
 | MU/TH/UR Dearest | 0.70% | ~7,746 |
+| A bite for the Entity | 0.60% | ~6,640 |
 | Blood on your face | 0.60% | ~6,640 |
 | Leapfrog | 0.60% | ~6,640 |
 | Cottage Owner | 0.60% | ~6,640 |
@@ -77,7 +78,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | A Fast Death | 0.60% | ~6,640 |
 | Extraterrestrial | 0.60% | ~6,640 |
 | Outta Nowhere | 0.60% | ~6,640 |
-| A bite for the Entity | 0.50% | ~5,533 |
 | Hemophobia | 0.50% | ~5,533 |
 | Serial Killer | 0.50% | ~5,533 |
 | Game Over | 0.50% | ~5,533 |
@@ -88,15 +88,15 @@ Number of Ratings: 70,340  (23.09.2022)
 | End of Days | 0.50% | ~5,533 |
 | Insult and Injury | 0.50% | ~5,533 |
 | Rebuilding The Borgo | 0.50% | ~5,533 |
-| Jump Scares | 0.40% | ~4,426 |
-| Deep Cleansing | 0.40% | ~4,426 |
-| Texas BBQ | 0.40% | ~4,426 |
-| Party Crasher | 0.40% | ~4,426 |
-| Outrage | 0.40% | ~4,426 |
-| I See You | 0.40% | ~4,426 |
-| Triage | 0.40% | ~4,426 |
-| High Speed Pursuit | 0.40% | ~4,426 |
-| Complete the Evolution | 0.40% | ~4,426 |
+| Jump Scares | 0.40% | ~4,427 |
+| Deep Cleansing | 0.40% | ~4,427 |
+| Texas BBQ | 0.40% | ~4,427 |
+| Party Crasher | 0.40% | ~4,427 |
+| Outrage | 0.40% | ~4,427 |
+| I See You | 0.40% | ~4,427 |
+| Triage | 0.40% | ~4,427 |
+| High Speed Pursuit | 0.40% | ~4,427 |
+| Complete the Evolution | 0.40% | ~4,427 |
 | Blood in your mouth | 0.30% | ~3,320 |
 | Looter | 0.30% | ~3,320 |
 | Whiffing to Success | 0.30% | ~3,320 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,107 |
 | Adept Good Guy | 0.10% | ~1,107 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,106,589 (Ranked 13)  
+Progressed: 1,106,630 (Ranked 13)  
 Completed: 63 (0.01%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -483,7 +483,7 @@ Completed: 63 (0.01%) (Ranked 360)
 | 2023-12-17 | 1,102,441 | 63 |
 | 2023-12-18 | 1,104,280 | 63 |
 | 2023-12-19 | 1,106,038 | 63 |
-| 2023-12-20 | 1,106,589 | 63 |
+| 2023-12-20 | 1,106,630 | 63 |
 ## Awards
 Max (Diverse Characters): 38,251  (Ranked 15)  
 Sum: 289,184 (Ranked 12)  

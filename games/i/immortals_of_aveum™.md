@@ -1,28 +1,28 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.19 (Ranked 938)  
+Rating: 4.22 (Ranked 916)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~1,177 |
-| Battlefields Have Memories | 79.00% | ~1,057 |
-| Enlisted | 71.00% | ~950 |
-| Maybe Engage a Little | 66.00% | ~883 |
+| Unforeseen | 88.00% | ~1,178 |
+| Battlefields Have Memories | 79.00% | ~1,058 |
+| Enlisted | 71.00% | ~951 |
+| Maybe Engage a Little | 66.00% | ~884 |
 | No More Names | 47.00% | ~629 |
 | Initiate | 33.00% | ~442 |
-| Thrada-Kul | 30.00% | ~401 |
-| Gravity-Challenged Rocks | 22.00% | ~294 |
-| Socialite | 21.00% | ~281 |
+| Thrada-Kul | 29.00% | ~388 |
+| Socialite | 22.00% | ~295 |
+| Gravity-Challenged Rocks | 22.00% | ~295 |
 | Soldier | 18.00% | ~241 |
-| All the Major Food Groups | 17.00% | ~227 |
+| All the Major Food Groups | 17.00% | ~228 |
 | Beggars Would Ride | 16.00% | ~214 |
 | Control is an Illusion | 14.00% | ~187 |
 | The Means to Save It | 12.00% | ~161 |
 | Resilience to Sin | 10.00% | ~134 |
 | A Familiar Nest | 10.00% | ~134 |
 | Periapt Alizarin | 10.00% | ~134 |
-| Geas Aristeya | 9.00% | ~120 |
+| Geas Aristeya | 9.00% | ~121 |
 | A Perfect Cycle | 8.00% | ~107 |
 | Recruit | 8.00% | ~107 |
 | Armsman | 7.00% | ~94 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 938)
 | Family Business | 0.20% | ~3 |
 | Fowl Play | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,338 (Ranked 254)  
+Progressed: 1,339 (Ranked 254)  
 Completed: 2 (0.15%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 2 (0.15%) (Ranked 287)
 | 2023-12-17 | 1,065 | 2 |
 | 2023-12-18 | 1,195 | 2 |
 | 2023-12-19 | 1,301 | 2 |
-| 2023-12-20 | 1,338 | 2 |
+| 2023-12-20 | 1,339 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -171,3 +171,4 @@ Completed: 2 (0.15%) (Ranked 287)
 | 2023-12-16 | 4.12 | 0 | 0 |
 | 2023-12-17 | 4.21 | 0 | 0 |
 | 2023-12-19 | 4.23 | 0 | 0 |
+| 2023-12-20 | 4.22 | 0 | 0 |

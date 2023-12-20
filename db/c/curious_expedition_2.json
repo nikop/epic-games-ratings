@@ -803,9 +803,9 @@
       "ID": "ach-noRest",
       "SetID": "17ih7ma",
       "Name": "Insomnia",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 179
     },
     {
       "ID": "ach-pacifist-goals",
@@ -948,8 +948,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-12-20T07:10:00.9480377+00:00",
+  "LastChanged_Achievements": "2023-12-20T08:09:47.736622+00:00",
   "LastUpdate_AppInfo": "2023-12-16T13:57:07.0437312+00:00",
-  "LastUpdate_Ratings": "2023-12-20T06:59:20.011654+00:00",
-  "LastUpdate_Achievements": "2023-12-20T07:10:00.9480831+00:00"
+  "LastUpdate_Ratings": "2023-12-20T07:59:06.1837027+00:00",
+  "LastUpdate_Achievements": "2023-12-20T08:09:47.7366633+00:00"
 }

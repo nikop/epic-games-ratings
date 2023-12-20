@@ -9,19 +9,19 @@ Number of Ratings: 743  (23.09.2022)
 | Shoot it, man! Shoot it in the head! | 69.00% | ~30,481 |
 | Say goodbye, creep! | 66.00% | ~29,156 |
 | Blood splattered | 66.00% | ~29,156 |
-| Choo choo! | 63.00% | ~27,830 |
-| Groovy | 62.00% | ~27,388 |
+| Choo choo! | 63.00% | ~27,831 |
+| Groovy | 62.00% | ~27,389 |
 | Cleanup on aisle 4! | 57.00% | ~25,180 |
-| Gold | 51.00% | ~22,529 |
+| Gold | 51.00% | ~22,530 |
 | The boat can leave now...tell the crew | 49.00% | ~21,646 |
-| Give me something to shoot! | 47.00% | ~20,762 |
-| Stand back boy! | 47.00% | ~20,762 |
+| Give me something to shoot! | 47.00% | ~20,763 |
+| Stand back boy! | 47.00% | ~20,763 |
 | Chain reaction | 45.00% | ~19,879 |
 | Weird science | 44.00% | ~19,437 |
 | What did you say, Blain? | 42.00% | ~18,554 |
 | Look mummy! A shark! | 41.00% | ~18,112 |
-| In the dark dark woods... | 39.00% | ~17,228 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,786 |
+| In the dark dark woods... | 39.00% | ~17,229 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,787 |
 | Double tap | 37.00% | ~16,345 |
 | Cranial blowout! | 37.00% | ~16,345 |
 | All of this has happened before… | 36.00% | ~15,903 |
@@ -31,10 +31,10 @@ Number of Ratings: 743  (23.09.2022)
 | You've got red on you | 34.00% | ~15,020 |
 | You're all going to die down here | 32.00% | ~14,136 |
 | He did Nazi that coming | 32.00% | ~14,136 |
-| Kill of the week | 31.00% | ~13,694 |
-| I never liked them anyway | 31.00% | ~13,694 |
+| Kill of the week | 31.00% | ~13,695 |
+| I never liked them anyway | 31.00% | ~13,695 |
 | Is it over? | 28.00% | ~12,369 |
-| Got your back | 27.00% | ~11,927 |
+| Got your back | 27.00% | ~11,928 |
 | Gore soaked | 24.00% | ~10,602 |
 | Shock therapy | 23.00% | ~10,160 |
 | Leave the limbs you've lost | 23.00% | ~10,160 |
@@ -56,11 +56,11 @@ Number of Ratings: 743  (23.09.2022)
 | Gotcha, didn't I? | 7.00% | ~3,092 |
 | A gross gross | 7.00% | ~3,092 |
 | Hail to the king, baby! | 7.00% | ~3,092 |
-| Something wicked this way comes | 6.00% | ~2,650 |
-| Take a little bit of Italy with you | 6.00% | ~2,650 |
-| Staring at Shadows | 6.00% | ~2,650 |
-| I told you we should have gone to the beach | 6.00% | ~2,650 |
-| Hoarder | 6.00% | ~2,650 |
+| Something wicked this way comes | 6.00% | ~2,651 |
+| Take a little bit of Italy with you | 6.00% | ~2,651 |
+| Staring at Shadows | 6.00% | ~2,651 |
+| I told you we should have gone to the beach | 6.00% | ~2,651 |
+| Hoarder | 6.00% | ~2,651 |
 | Kali Ma | 5.00% | ~2,209 |
 | Have you tried turning it off and on again? | 5.00% | ~2,209 |
 | They're coming to get you Barbara | 4.00% | ~1,767 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~442 |
 | None more hard | 0.60% | ~265 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,175 (Ranked 122)  
+Progressed: 44,176 (Ranked 122)  
 Completed: 25 (0.06%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 25 (0.06%) (Ranked 325)
 | 2023-12-17 | 44,165 | 25 |
 | 2023-12-18 | 44,167 | 25 |
 | 2023-12-19 | 44,173 | 25 |
-| 2023-12-20 | 44,175 | 25 |
+| 2023-12-20 | 44,176 | 25 |
 ## Awards
 Max (Great Boss Battles): 858  (Ranked 171)  
 Sum: 2,596 (Ranked 195)  

@@ -45,9 +45,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1039,
+  "EOS_Progressed": 1040,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -2885,6 +2885,11 @@
       "Time": "2023-12-20T04:10:31.4281989+00:00",
       "NumProgressed": 1039,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-20T08:09:35.4157783+00:00",
+      "NumProgressed": 1040,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3048,7 +3053,7 @@
       "Name": "Whiz Kid",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "GrindingTime1",
@@ -3056,7 +3061,7 @@
       "Name": "Rail Rat",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "HexlockGift",
@@ -3096,7 +3101,7 @@
       "Name": "Cartographer",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "NoCritterSump",
@@ -3256,7 +3261,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "TheaterChests1",
@@ -3272,7 +3277,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "WarwickDefeated",
@@ -3304,7 +3309,7 @@
       "Name": "The Brass Boss",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "Zarkon2Defeated",
@@ -3319,7 +3324,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1039,
+      "Progressed": 1040,
       "Completed": 6
     }
   ],
@@ -3327,8 +3332,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-18T08:57:59.1291337+00:00",
-  "LastChanged_Achievements": "2023-12-20T07:09:48.6105325+00:00",
+  "LastChanged_Achievements": "2023-12-20T08:09:35.4157779+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.1550939+00:00",
-  "LastUpdate_Ratings": "2023-12-20T06:58:51.0934819+00:00",
-  "LastUpdate_Achievements": "2023-12-20T07:09:48.6105795+00:00"
+  "LastUpdate_Ratings": "2023-12-20T07:58:37.6942582+00:00",
+  "LastUpdate_Achievements": "2023-12-20T08:09:35.4158249+00:00"
 }

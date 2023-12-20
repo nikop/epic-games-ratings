@@ -8837,18 +8837,24 @@
       "Rating": 4.06,
       "NumberOfAwards": 32965,
       "NumberOfAwardsMax": 5661
+    },
+    {
+      "Time": "2023-12-20T08:00:02.8295965+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32969,
+      "NumberOfAwardsMax": 5665
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32965,
-  "NumberOfAwardsMax": 5661,
+  "NumberOfAwards": 32969,
+  "NumberOfAwardsMax": 5665,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5661
+      "Count": 5665
     },
     {
       "Text": "This game has Diverse Characters",
@@ -8887,10 +8893,10 @@
       "Count": 3579
     }
   ],
-  "EOS_Progressed": 242201,
+  "EOS_Progressed": 242208,
   "EOS_Completed": 2545,
-  "EOS_NewPlayers": 2604,
-  "EOS_NewCompleters": 28,
+  "EOS_NewPlayers": 2607,
+  "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
     {
@@ -36402,6 +36408,11 @@
       "Time": "2023-12-20T07:10:05.2449671+00:00",
       "NumProgressed": 242201,
       "NumCompleted": 2545
+    },
+    {
+      "Time": "2023-12-20T08:09:51.9352536+00:00",
+      "NumProgressed": 242208,
+      "NumCompleted": 2545
     }
   ],
   "TotalAchievements": 546,
@@ -38275,9 +38286,9 @@
       "ID": "objective_completed_4",
       "SetID": "cc37lbc",
       "Name": "Are Ya Chicken?",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 242
+      "UsersEstimate": 484
     },
     {
       "ID": "objective_completed_40",
@@ -40780,21 +40791,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 208475,
+      "Progressed": 208482,
       "Completed": 4047
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 242201,
+      "Progressed": 242208,
       "Completed": 2545
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-12-20T01:30:21.1677234+00:00",
-  "LastChanged_Achievements": "2023-12-20T07:10:05.2449667+00:00",
+  "LastChanged": "2023-12-20T08:00:02.8295963+00:00",
+  "LastChanged_Achievements": "2023-12-20T08:09:51.9352531+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:52.1318001+00:00",
-  "LastUpdate_Ratings": "2023-12-20T07:00:17.6428578+00:00",
-  "LastUpdate_Achievements": "2023-12-20T07:10:05.2474246+00:00"
+  "LastUpdate_Ratings": "2023-12-20T08:00:02.829597+00:00",
+  "LastUpdate_Achievements": "2023-12-20T08:09:51.93753+00:00"
 }

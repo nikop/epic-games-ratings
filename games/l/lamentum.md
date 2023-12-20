@@ -26,7 +26,7 @@ Rating: 4.28 (Ranked 870)
 | Lamentum | 2.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 333 (Ranked 360)  
-Completed: 8 (2.40%) (Ranked 132)  
+Completed: 8 (2.40%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

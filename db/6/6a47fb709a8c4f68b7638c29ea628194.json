@@ -160,9 +160,9 @@
       "ID": "FINISHED_1",
       "SetID": "4nk2039",
       "Name": "Greener",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "FINISHED_10",
@@ -200,17 +200,17 @@
       "ID": "FINISHED_RACE_MOTORBIKE_1",
       "SetID": "4nk2039",
       "Name": "One motorbike race",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ONE_LAP",
       "SetID": "4nk2039",
       "Name": "First lap",
-      "Percentage": 61,
+      "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "PODIUM_1",
@@ -352,9 +352,9 @@
       "ID": "XP_100",
       "SetID": "4nk2039",
       "Name": "Newcomer",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "XP_1000",
@@ -398,8 +398,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-03T16:02:20.9417998+00:00",
-  "LastChanged_Achievements": "2023-12-20T07:08:58.0103938+00:00",
+  "LastChanged_Achievements": "2023-12-20T08:08:46.8479945+00:00",
   "LastUpdate_AppInfo": "2023-12-17T22:57:03.6262025+00:00",
-  "LastUpdate_Ratings": "2023-12-20T06:59:15.1377145+00:00",
-  "LastUpdate_Achievements": "2023-12-20T07:08:58.0104388+00:00"
+  "LastUpdate_Ratings": "2023-12-20T07:59:01.5457054+00:00",
+  "LastUpdate_Achievements": "2023-12-20T08:08:46.848023+00:00"
 }

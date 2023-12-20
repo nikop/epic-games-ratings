@@ -44,9 +44,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "4mjb15",
       "Name": "A Fool to the World",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -220,9 +220,9 @@
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "4mjb15",
       "Name": "Barking up the Wrong Tree",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -251,8 +251,8 @@
   ],
   "FirstSeen": "2023-10-07T12:03:46.8255851+00:00",
   "FirstSeenAchievements": "2023-09-15T05:04:55.0336993+00:00",
-  "LastChanged_Achievements": "2023-12-20T07:09:55.5884107+00:00",
+  "LastChanged_Achievements": "2023-12-20T08:09:42.2319588+00:00",
   "LastUpdate_AppInfo": "2023-12-15T19:57:01.3361531+00:00",
-  "LastUpdate_Ratings": "2023-12-20T06:59:10.450904+00:00",
-  "LastUpdate_Achievements": "2023-12-20T07:09:55.5884245+00:00"
+  "LastUpdate_Ratings": "2023-12-20T07:58:56.9928015+00:00",
+  "LastUpdate_Achievements": "2023-12-20T08:09:42.2319743+00:00"
 }

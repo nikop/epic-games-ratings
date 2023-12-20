@@ -3515,9 +3515,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18709,
+  "EOS_Progressed": 18711,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 701,
+  "EOS_NewPlayers": 702,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16405,6 +16405,11 @@
       "Time": "2023-12-20T07:05:48.496499+00:00",
       "NumProgressed": 18709,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-20T08:05:42.067248+00:00",
+      "NumProgressed": 18711,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16817,7 +16822,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "WinNearFrosts",
@@ -16849,7 +16854,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "WinNearPresence",
@@ -16888,15 +16893,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18709,
+      "Progressed": 18711,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-19T21:58:46.6682158+00:00",
-  "LastChanged_Achievements": "2023-12-20T07:05:48.4964987+00:00",
+  "LastChanged_Achievements": "2023-12-20T08:05:42.0672474+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
-  "LastUpdate_Ratings": "2023-12-20T06:58:59.5990887+00:00",
-  "LastUpdate_Achievements": "2023-12-20T07:05:48.4965796+00:00"
+  "LastUpdate_Ratings": "2023-12-20T07:58:46.5093319+00:00",
+  "LastUpdate_Achievements": "2023-12-20T08:05:42.0673506+00:00"
 }

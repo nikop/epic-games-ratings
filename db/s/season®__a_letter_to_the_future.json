@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1573,
+  "EOS_Progressed": 1574,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 249,
+  "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 4.01,
+  "EOS_Completed_Percentage": 4,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:27.3083538+00:00",
@@ -3324,6 +3324,11 @@
       "Time": "2023-12-20T05:10:04.9938499+00:00",
       "NumProgressed": 1573,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-12-20T08:09:29.1988667+00:00",
+      "NumProgressed": 1574,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 16,
@@ -3391,7 +3396,7 @@
       "Name": "Home Leaver",
       "Percentage": 81,
       "XP": 40,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -3399,7 +3404,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 81,
       "XP": 40,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -3423,7 +3428,7 @@
       "Name": "Outside World Seer",
       "Percentage": 63,
       "XP": 40,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -3431,7 +3436,7 @@
       "Name": "Shrine Arriver",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "ACH_STRANGERENCOUNTERER",
@@ -3462,7 +3467,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1573,
+      "Progressed": 1574,
       "Completed": 63
     }
   ],
@@ -3470,8 +3475,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-12-20T07:09:41.9663879+00:00",
+  "LastChanged_Achievements": "2023-12-20T08:09:29.1988662+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:50.4706145+00:00",
-  "LastUpdate_Ratings": "2023-12-20T07:00:14.5023913+00:00",
-  "LastUpdate_Achievements": "2023-12-20T07:09:41.9664119+00:00"
+  "LastUpdate_Ratings": "2023-12-20T07:59:59.6513951+00:00",
+  "LastUpdate_Achievements": "2023-12-20T08:09:29.1988963+00:00"
 }

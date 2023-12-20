@@ -89,7 +89,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2049,
+  "EOS_Progressed": 2050,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
@@ -7829,6 +7829,11 @@
       "Time": "2023-12-20T01:33:34.1575195+00:00",
       "NumProgressed": 2049,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T08:03:35.0497412+00:00",
+      "NumProgressed": 2050,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7848,7 +7853,7 @@
       "Name": "Exterminator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ach_defeat_players_10",
@@ -7952,7 +7957,7 @@
       "Name": "Corporal",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -7976,7 +7981,7 @@
       "Name": "Captain",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -7992,7 +7997,7 @@
       "Name": "Colonel",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "objective_hero_level_up_7",
@@ -8016,7 +8021,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -8136,14 +8141,14 @@
       "Name": "Control the Skies",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     }
   ],
   "AchievementSets": [
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2049,
+      "Progressed": 2050,
       "Completed": 1
     }
   ],
@@ -8151,8 +8156,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-11T08:59:11.5639448+00:00",
-  "LastChanged_Achievements": "2023-12-20T07:03:39.0393873+00:00",
+  "LastChanged_Achievements": "2023-12-20T08:03:35.0497409+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:15.2562842+00:00",
-  "LastUpdate_Ratings": "2023-12-20T06:58:56.108708+00:00",
-  "LastUpdate_Achievements": "2023-12-20T07:03:39.0394372+00:00"
+  "LastUpdate_Ratings": "2023-12-20T07:58:42.9847267+00:00",
+  "LastUpdate_Achievements": "2023-12-20T08:03:35.0498202+00:00"
 }

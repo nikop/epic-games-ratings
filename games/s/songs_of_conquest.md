@@ -10,7 +10,7 @@ Number of Ratings: 292  (23.09.2022)
 | Double Kill | 33.00% | ~191 |
 | Critical Hit | 19.00% | ~110 |
 | Veteran | 18.00% | ~104 |
-| Dressed For Success | 12.00% | ~69 |
+| Dressed For Success | 12.00% | ~70 |
 | Humiliation | 8.00% | ~46 |
 | Veni, Vidi, Vici | 8.00% | ~46 |
 | Multi Kill | 7.00% | ~41 |
@@ -29,10 +29,10 @@ Number of Ratings: 292  (23.09.2022)
 | Pyrrhic Victory | 2.00% | ~12 |
 | Versatile Wielder | 1.00% | ~6 |
 | Infernal Influence | 1.00% | ~6 |
+| Together For Her | 1.00% | ~6 |
 | From the Ashes | 1.00% | ~6 |
 | Such A Fungi | 1.00% | ~6 |
 | Grand Master | 1.00% | ~6 |
-| Together For Her | 0.90% | ~5 |
 | Get Over Here! | 0.70% | ~4 |
 | Death To Diplomacy | 0.50% | ~3 |
 | Unlimited Power! | 0.50% | ~3 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 579 (Ranked 318)  
+Progressed: 580 (Ranked 318)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-17 | 544 | 0 |
 | 2023-12-18 | 555 | 0 |
 | 2023-12-19 | 575 | 0 |
-| 2023-12-20 | 579 | 0 |
+| 2023-12-20 | 580 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 521)  
 Sum: 194 (Ranked 412)  

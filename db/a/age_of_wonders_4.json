@@ -4,8 +4,8 @@
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 374,
   "Ranking_Popularity": 480,
-  "Ranking_PopularitySum": 461,
-  "Ranking_EOS_Progress": 190,
+  "Ranking_PopularitySum": 450,
+  "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 294,
   "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 158,
@@ -529,10 +529,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 93,
       "NumberOfAwardsMax": 37
+    },
+    {
+      "Time": "2023-12-20T07:59:25.4319148+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 113,
+      "NumberOfAwardsMax": 37
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 93,
+  "NumberOfAwards": 113,
   "NumberOfAwardsMax": 37,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -553,6 +559,12 @@
       "Prefix": "This game is",
       "Type": "Extremely Fun",
       "Count": 22
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 5884,
@@ -9033,9 +9045,9 @@
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "LastChanged": "2023-12-14T06:01:52.3312422+00:00",
-  "LastChanged_Achievements": "2023-12-20T07:04:51.642379+00:00",
+  "LastChanged": "2023-12-20T07:59:25.4319145+00:00",
+  "LastChanged_Achievements": "2023-12-20T08:04:46.3220482+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.6868317+00:00",
-  "LastUpdate_Ratings": "2023-12-20T06:59:39.9533408+00:00",
-  "LastUpdate_Achievements": "2023-12-20T07:04:51.6424462+00:00"
+  "LastUpdate_Ratings": "2023-12-20T07:59:25.431915+00:00",
+  "LastUpdate_Achievements": "2023-12-20T08:04:46.3221315+00:00"
 }

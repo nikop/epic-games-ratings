@@ -257,9 +257,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8135,
+  "EOS_Progressed": 8136,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -9502,6 +9502,11 @@
       "Time": "2023-12-20T04:05:53.3183906+00:00",
       "NumProgressed": 8135,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-20T08:04:55.7262103+00:00",
+      "NumProgressed": 8136,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -9529,7 +9534,7 @@
       "Name": "Audiophile",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -9553,7 +9558,7 @@
       "Name": "Clay Pigeon",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "ENERGY_SAVER",
@@ -9617,7 +9622,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1708
+      "UsersEstimate": 1709
     },
     {
       "ID": "LIBERATOR",
@@ -9657,7 +9662,7 @@
       "Name": "Soul-Canon",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "THE_JOURNEY_ONWARDS",
@@ -9680,7 +9685,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 8135,
+      "Progressed": 8136,
       "Completed": 34
     }
   ],
@@ -9688,8 +9693,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-12-17T08:57:44.8415466+00:00",
-  "LastChanged_Achievements": "2023-12-20T07:05:01.3761531+00:00",
+  "LastChanged_Achievements": "2023-12-20T08:04:55.7262098+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:46.5620941+00:00",
-  "LastUpdate_Ratings": "2023-12-20T06:58:32.0131751+00:00",
-  "LastUpdate_Achievements": "2023-12-20T07:05:01.3762085+00:00"
+  "LastUpdate_Ratings": "2023-12-20T07:58:19.2535132+00:00",
+  "LastUpdate_Achievements": "2023-12-20T08:04:55.7262786+00:00"
 }

@@ -5,10 +5,10 @@ Rating: 4.53 (Ranked 550)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~5,979 |
-| Greasy Palms | 42.00% | ~5,459 |
-| South American Connection | 25.00% | ~3,249 |
-| Life of the Party | 20.00% | ~2,599 |
+| Legal Counsel | 46.00% | ~5,981 |
+| Greasy Palms | 42.00% | ~5,461 |
+| South American Connection | 25.00% | ~3,250 |
+| Life of the Party | 20.00% | ~2,600 |
 | Tommy Two-Wheels | 15.00% | ~1,950 |
 | Big Heat from Little Havana | 14.00% | ~1,820 |
 | Chauffeur | 14.00% | ~1,820 |
@@ -16,19 +16,19 @@ Rating: 4.53 (Ranked 550)
 | Iron-y | 10.00% | ~1,300 |
 | Gun for Hire | 9.00% | ~1,170 |
 | Mischief Managed | 8.00% | ~1,040 |
-| Vice City Mogul | 7.00% | ~910 |
+| Vice City Mogul | 6.00% | ~780 |
 | Catch Me if You Can | 6.00% | ~780 |
 | Bloodstained Hands | 6.00% | ~780 |
 | Not my First Time | 5.00% | ~650 |
 | Grand Theft Auto | 5.00% | ~650 |
 | Pie Guy | 4.00% | ~520 |
-| Running Rampant | 3.00% | ~390 |
 | Point A to Point B | 3.00% | ~390 |
 | High Quality H2O | 3.00% | ~390 |
 | Bull in a China Shop | 3.00% | ~390 |
 | Somebody Call the Wambulance? | 3.00% | ~390 |
 | Just Like the Real Thing | 3.00% | ~390 |
 | Don't Need Roads | 3.00% | ~390 |
+| Running Rampant | 2.00% | ~260 |
 | One is Better Than Two | 2.00% | ~260 |
 | Take the Cannoli | 2.00% | ~260 |
 | Chopper’d Up | 2.00% | ~260 |
@@ -40,7 +40,7 @@ Rating: 4.53 (Ranked 550)
 | Done it All | 0.90% | ~117 |
 | Kingpin | 0.50% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,997 (Ranked 165)  
+Progressed: 13,002 (Ranked 165)  
 Completed: 70 (0.54%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 70 (0.54%) (Ranked 208)
 | 2023-12-17 | 12,602 | 68 |
 | 2023-12-18 | 12,767 | 70 |
 | 2023-12-19 | 12,956 | 70 |
-| 2023-12-20 | 12,997 | 70 |
+| 2023-12-20 | 13,002 | 70 |
 ## Awards
 Max (Great Boss Battles): 130  (Ranked 338)  
 Sum: 130 (Ranked 440)  

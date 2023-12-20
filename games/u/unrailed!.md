@@ -6,23 +6,23 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 18.00% | ~120,892 |
-| Incurious | 18.00% | ~120,892 |
-| Stroller | 16.00% | ~107,460 |
-| Climate Change | 16.00% | ~107,460 |
-| Toy Train | 14.00% | ~94,027 |
-| Advanced Hiker | 13.00% | ~87,311 |
-| Hiker | 12.00% | ~80,595 |
-| Mojave Courier | 6.00% | ~40,297 |
-| Saved by Nausicaä | 6.00% | ~40,297 |
+| Advanced Stroller | 18.00% | ~120,894 |
+| Incurious | 18.00% | ~120,894 |
+| Stroller | 16.00% | ~107,461 |
+| Climate Change | 16.00% | ~107,461 |
+| Toy Train | 14.00% | ~94,029 |
+| Advanced Hiker | 13.00% | ~87,312 |
+| Hiker | 12.00% | ~80,596 |
+| Mojave Courier | 6.00% | ~40,298 |
+| Saved by Nausicaä | 6.00% | ~40,298 |
 | Advanced Voyager | 4.00% | ~26,865 |
 | Expert Stroller | 4.00% | ~26,865 |
 | Orient Express | 4.00% | ~26,865 |
 | Voyager | 3.00% | ~20,149 |
 | Marathon | 3.00% | ~20,149 |
 | Destructionist | 3.00% | ~20,149 |
-| Expert Hiker | 2.00% | ~13,432 |
-| Lost | 2.00% | ~13,432 |
+| Expert Hiker | 2.00% | ~13,433 |
+| Lost | 2.00% | ~13,433 |
 | Rocketman | 0.80% | ~5,373 |
 | Expert Voyager | 0.70% | ~4,701 |
 | Nanuk | 0.70% | ~4,701 |
@@ -30,9 +30,9 @@ Number of Ratings: 21,990  (23.09.2022)
 | Dynamite Fishing | 0.70% | ~4,701 |
 | Terminal Station | 0.60% | ~4,030 |
 | Scrooge | 0.50% | ~3,358 |
-| Wayfarer | 0.40% | ~2,686 |
-| Advanced Wayfarer | 0.40% | ~2,686 |
-| Tough Nut! | 0.40% | ~2,686 |
+| Wayfarer | 0.40% | ~2,687 |
+| Advanced Wayfarer | 0.40% | ~2,687 |
+| Tough Nut! | 0.40% | ~2,687 |
 | Trans-Siberian Railway | 0.30% | ~2,015 |
 | Engineer | 0.30% | ~2,015 |
 | Satan's Minion | 0.30% | ~2,015 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~672 |
 | 20 Miles under the Sea | 0.10% | ~672 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 671,623 (Ranked 29)  
+Progressed: 671,633 (Ranked 29)  
 Completed: 12 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 12 (0.00%) (Ranked 384)
 | 2023-12-17 | 671,091 | 12 |
 | 2023-12-18 | 671,343 | 12 |
 | 2023-12-19 | 671,554 | 12 |
-| 2023-12-20 | 671,623 | 12 |
+| 2023-12-20 | 671,633 | 12 |
 ## Awards
 Max (Great for Beginners): 204  (Ranked 292)  
 Sum: 1,613 (Ranked 232)  

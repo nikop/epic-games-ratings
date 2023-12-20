@@ -99,9 +99,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5561,
+  "EOS_Progressed": 5563,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2754,
+  "EOS_NewPlayers": 2745,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1634,6 +1634,11 @@
       "Time": "2023-12-20T07:09:34.497696+00:00",
       "NumProgressed": 5561,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T08:09:21.9774614+00:00",
+      "NumProgressed": 5563,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -1734,7 +1739,7 @@
       "Name": "Doom Trader",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "14_TheBreezeOfPain",
@@ -1742,7 +1747,7 @@
       "Name": "Fear Not Obliteration",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "15_Pentakill",
@@ -1782,7 +1787,7 @@
       "Name": "Void Wolf",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -1902,7 +1907,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -2086,7 +2091,7 @@
       "Name": "Burning Inheritance",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "58_KneeDeepInChaos",
@@ -2165,7 +2170,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 5561,
+      "Progressed": 5563,
       "Completed": 0
     }
   ],
@@ -2173,8 +2178,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-20T03:02:28.0934064+00:00",
-  "LastChanged_Achievements": "2023-12-20T07:09:34.4976956+00:00",
+  "LastChanged_Achievements": "2023-12-20T08:09:21.977461+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:14.7846288+00:00",
-  "LastUpdate_Ratings": "2023-12-20T06:02:35.9645398+00:00",
-  "LastUpdate_Achievements": "2023-12-20T07:09:34.4977499+00:00"
+  "LastUpdate_Ratings": "2023-12-20T07:56:52.4811058+00:00",
+  "LastUpdate_Achievements": "2023-12-20T08:09:21.9775096+00:00"
 }

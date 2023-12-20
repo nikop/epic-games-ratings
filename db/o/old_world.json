@@ -2166,7 +2166,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15844,
+  "EOS_Progressed": 15845,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
@@ -17986,6 +17986,11 @@
       "Time": "2023-12-20T06:10:07.3081453+00:00",
       "NumProgressed": 15844,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-20T08:09:25.0310913+00:00",
+      "NumProgressed": 15845,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -18203,25 +18208,25 @@
       "ID": "ACHIEVEMENT_CARTHAGE_2_EPIC",
       "SetID": "9201eeb",
       "Name": "Epic Victory (Carthage 2)",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_2_GOLD",
       "SetID": "9201eeb",
       "Name": "Gold Victory (Carthage 2)",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_2_SILVER",
       "SetID": "9201eeb",
       "Name": "Silver Victory (Carthage 2)",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_3",
@@ -19675,9 +19680,9 @@
       "ID": "ACHIEVEMENT_PANTHEON_OF_GODS",
       "SetID": "9201eeb",
       "Name": "Pantheon of Gods",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_PERSEPOLIS_APADANA",
@@ -20707,9 +20712,9 @@
       "ID": "ACHIEVEMENT_NATION_KUSH",
       "SetID": "9201eeb",
       "Name": "Kush",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_KUSH",
@@ -20723,9 +20728,9 @@
       "ID": "ACHIEVEMENT_UNIT_BEJA_ARCHER",
       "SetID": "9201eeb",
       "Name": "Beja Archer",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGO_COTHON",
@@ -20860,21 +20865,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15844,
+      "Progressed": 15845,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15844,
+      "Progressed": 15845,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-19T18:02:53.2051748+00:00",
-  "LastChanged_Achievements": "2023-12-20T07:09:37.4015935+00:00",
+  "LastChanged_Achievements": "2023-12-20T08:09:25.0310905+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:47.4773202+00:00",
-  "LastUpdate_Ratings": "2023-12-20T07:02:50.8032655+00:00",
-  "LastUpdate_Achievements": "2023-12-20T07:09:37.402595+00:00"
+  "LastUpdate_Ratings": "2023-12-20T08:02:46.7857732+00:00",
+  "LastUpdate_Achievements": "2023-12-20T08:09:25.0320424+00:00"
 }

@@ -14,9 +14,9 @@
 | Rage | 29.00% | ~30 |
 | Path of Pain | 23.00% | ~23 |
 | Clarity | 18.00% | ~18 |
+| Mayhem | 18.00% | ~18 |
 | Reflections | 18.00% | ~18 |
 | The shining | 18.00% | ~18 |
-| Mayhem | 17.00% | ~17 |
 | Health | 14.00% | ~14 |
 | Art critic | 11.00% | ~11 |
 | Awaiting orders | 11.00% | ~11 |
@@ -26,7 +26,7 @@
 | An act of courage | 7.00% | ~7 |
 | An act of compassion | 5.00% | ~5 |
 | An act of mercy | 5.00% | ~5 |
-| All knowing | 4.00% | ~4 |
+| All knowing | 5.00% | ~5 |
 | Ad Infinitum | 2.00% | ~2 |
 | Corruption | 2.00% | ~2 |
 | Despair | 1.00% | ~1 |

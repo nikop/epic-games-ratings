@@ -9257,9 +9257,9 @@
       "Count": 1399
     }
   ],
-  "EOS_Progressed": 864555,
+  "EOS_Progressed": 864571,
   "EOS_Completed": 222,
-  "EOS_NewPlayers": 5576,
+  "EOS_NewPlayers": 5574,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -33827,6 +33827,11 @@
       "Time": "2023-12-20T07:08:53.7501743+00:00",
       "NumProgressed": 864555,
       "NumCompleted": 222
+    },
+    {
+      "Time": "2023-12-20T08:08:42.6826722+00:00",
+      "NumProgressed": 864571,
+      "NumCompleted": 222
     }
   ],
   "TotalAchievements": 75,
@@ -33838,7 +33843,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 224784
+      "UsersEstimate": 224788
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -33918,7 +33923,7 @@
       "Name": "Come Fly With Me",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 51873
+      "UsersEstimate": 51874
     },
     {
       "ID": "ACHIEVEMENT_CONDEMNED_TO_REPEAT_IT",
@@ -33934,7 +33939,7 @@
       "Name": "Crafty",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 51873
+      "UsersEstimate": 51874
     },
     {
       "ID": "ACHIEVEMENT_CURIOS_AND_RELICS",
@@ -33974,7 +33979,7 @@
       "Name": "Eureka!",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 6916
+      "UsersEstimate": 6917
     },
     {
       "ID": "ACHIEVEMENT_FOR_THE_REPUBLIC",
@@ -33982,7 +33987,7 @@
       "Name": "For the Republic",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 6916
+      "UsersEstimate": 6917
     },
     {
       "ID": "ACHIEVEMENT_GI_BLUES",
@@ -33990,7 +33995,7 @@
       "Name": "G.I. Blues",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 34582
+      "UsersEstimate": 34583
     },
     {
       "ID": "ACHIEVEMENT_GLOBE_TROTTER",
@@ -34046,7 +34051,7 @@
       "Name": "Jury Rigger",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 34582
+      "UsersEstimate": 34583
     },
     {
       "ID": "ACHIEVEMENT_KNOW_WHEN_TO_FOLD_EM",
@@ -34062,7 +34067,7 @@
       "Name": "Lead Dealer",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 43228
+      "UsersEstimate": 43229
     },
     {
       "ID": "ACHIEVEMENT_LITTLE_WHEEL",
@@ -34134,7 +34139,7 @@
       "Name": "New Kid",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 51873
+      "UsersEstimate": 51874
     },
     {
       "ID": "ACHIEVEMENT_NEW_VEGAS_SAMURAI",
@@ -34158,7 +34163,7 @@
       "Name": "No Tumbler Fumbler",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 43228
+      "UsersEstimate": 43229
     },
     {
       "ID": "ACHIEVEMENT_OLD_TYME_BRAWLER",
@@ -34166,7 +34171,7 @@
       "Name": "Old-Tyme Brawler",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 6916
+      "UsersEstimate": 6917
     },
     {
       "ID": "ACHIEVEMENT_OL_BUDDY_OL_PAL",
@@ -34174,7 +34179,7 @@
       "Name": "Ol\u0027 Buddy Ol\u0027 Pal",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 51873
+      "UsersEstimate": 51874
     },
     {
       "ID": "ACHIEVEMENT_ONE_ARMED_BANDIT",
@@ -34198,7 +34203,7 @@
       "Name": "Outstanding Orator",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 34582
+      "UsersEstimate": 34583
     },
     {
       "ID": "ACHIEVEMENT_O_DAUGHER_OF_BABYLON",
@@ -34246,7 +34251,7 @@
       "Name": "Ring-a-Ding-Ding",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 43228
+      "UsersEstimate": 43229
     },
     {
       "ID": "ACHIEVEMENT_ROCKETS_RED_GLARE",
@@ -34302,7 +34307,7 @@
       "Name": "That Lucky Old Sun",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 34582
+      "UsersEstimate": 34583
     },
     {
       "ID": "ACHIEVEMENT_THEY_WENT_THAT_A_WAY",
@@ -34310,7 +34315,7 @@
       "Name": "They Went That-a-Way",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 51873
+      "UsersEstimate": 51874
     },
     {
       "ID": "ACHIEVEMENT_THE_BOSS",
@@ -34358,7 +34363,7 @@
       "Name": "Up and Comer",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 34582
+      "UsersEstimate": 34583
     },
     {
       "ID": "ACHIEVEMENT_UP_TO_THE_CHALLENGE",
@@ -34382,7 +34387,7 @@
       "Name": "Volare!",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 34582
+      "UsersEstimate": 34583
     },
     {
       "ID": "ACHIEVEMENT_WALKER_OF_THE_MOJAVE",
@@ -34390,7 +34395,7 @@
       "Name": "Walker of the Mojave",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 43228
+      "UsersEstimate": 43229
     },
     {
       "ID": "ACHIEVEMENT_WARHEAD_HUNTER",
@@ -34430,20 +34435,20 @@
       "Name": "You Run Barter Town",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 43228
+      "UsersEstimate": 43229
     }
   ],
   "AchievementSets": [
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 864555,
+      "Progressed": 864571,
       "Completed": 267
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 864555,
+      "Progressed": 864571,
       "Completed": 222
     }
   ],
@@ -34451,8 +34456,8 @@
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
   "LastChanged": "2023-12-20T04:58:16.7725445+00:00",
-  "LastChanged_Achievements": "2023-12-20T07:08:53.7501741+00:00",
+  "LastChanged_Achievements": "2023-12-20T08:08:42.6826719+00:00",
   "LastUpdate_AppInfo": "2023-12-15T09:57:08.5006857+00:00",
-  "LastUpdate_Ratings": "2023-12-20T06:57:58.2703514+00:00",
-  "LastUpdate_Achievements": "2023-12-20T07:08:53.7503459+00:00"
+  "LastUpdate_Ratings": "2023-12-20T07:57:46.1655781+00:00",
+  "LastUpdate_Achievements": "2023-12-20T08:08:42.6828272+00:00"
 }

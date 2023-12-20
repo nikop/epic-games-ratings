@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 894,
+  "EOS_Progressed": 895,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 629,
+  "EOS_NewPlayers": 630,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -1845,6 +1845,11 @@
       "Time": "2023-12-20T07:09:57.5887157+00:00",
       "NumProgressed": 894,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-20T08:09:44.2916798+00:00",
+      "NumProgressed": 895,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1856,7 +1861,7 @@
       "Name": "Break Out",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "ACH_02",
@@ -1878,9 +1883,9 @@
       "ID": "ACH_04",
       "SetID": "efe2lj",
       "Name": "Calm before the Storm",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_05",
@@ -2016,7 +2021,7 @@
       "Name": "Big Bazar",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH_22",
@@ -2102,9 +2107,9 @@
       "ID": "ACH_33",
       "SetID": "efe2lj",
       "Name": "Miner",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 27
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_34",
@@ -2143,14 +2148,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 894,
+      "Progressed": 895,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-20T07:09:57.5887154+00:00",
+  "LastChanged_Achievements": "2023-12-20T08:09:44.2916796+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
-  "LastUpdate_Ratings": "2023-12-20T06:57:16.7797095+00:00",
-  "LastUpdate_Achievements": "2023-12-20T07:09:57.588746+00:00"
+  "LastUpdate_Ratings": "2023-12-20T07:57:06.1449504+00:00",
+  "LastUpdate_Achievements": "2023-12-20T08:09:44.291707+00:00"
 }

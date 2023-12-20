@@ -6,7 +6,7 @@ Rating: 3.57 (Ranked 1,062)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 9.00% | ~176 |
-| Catch and Release | 7.00% | ~136 |
+| Catch and Release | 7.00% | ~137 |
 | Home Is Where the Heart Is | 6.00% | ~117 |
 | ICU | 6.00% | ~117 |
 | Wounded Whispers | 6.00% | ~117 |
@@ -19,9 +19,9 @@ Rating: 3.57 (Ranked 1,062)
 | Welcome to the Neighborhood | 4.00% | ~78 |
 | Throw The First Stone | 4.00% | ~78 |
 | Heart Attack | 4.00% | ~78 |
-| Bad Wiring | 3.00% | ~58 |
-| Grounded | 3.00% | ~58 |
-| Skin of Their Teeth | 3.00% | ~58 |
+| Bad Wiring | 3.00% | ~59 |
+| Grounded | 3.00% | ~59 |
+| Skin of Their Teeth | 3.00% | ~59 |
 | Neighborhood Revitalization | 2.00% | ~39 |
 | Radio Silence | 2.00% | ~39 |
 | I Spit On Your Grave | 2.00% | ~39 |
@@ -72,7 +72,7 @@ Rating: 3.57 (Ranked 1,062)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,950 (Ranked 235)  
+Progressed: 1,952 (Ranked 235)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-17 | 1,914 | 0 |
 | 2023-12-18 | 1,930 | 0 |
 | 2023-12-19 | 1,947 | 0 |
-| 2023-12-20 | 1,950 | 0 |
+| 2023-12-20 | 1,952 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -14,16 +14,16 @@ Number of Ratings: 85  (23.09.2022)
 | Lobster Blisque | 48.00% | ~29 |
 | Shop Til They Drop | 48.00% | ~29 |
 | Perfect Probulator | 45.00% | ~27 |
+| Freshly Squeezed | 38.00% | ~23 |
 | Fly Me to the Moon Base | 37.00% | ~22 |
-| Freshly Squeezed | 35.00% | ~21 |
 | Ducks in a Row, Fish in a Barrel | 35.00% | ~21 |
 | Earthly Pleasures | 33.00% | ~20 |
 | Pimp My Raid | 32.00% | ~19 |
 | Forbidden Donut | 28.00% | ~17 |
+| Upgreatest | 27.00% | ~16 |
 | Bodied Sattva | 25.00% | ~15 |
-| Upgreatest | 23.00% | ~14 |
 | Trans-Siberian Express | 22.00% | ~13 |
-| Rock of the Bay | 18.00% | ~11 |
+| Rock of the Bay | 20.00% | ~12 |
 | Deincarnated | 17.00% | ~10 |
 | Re-Return of the Clone of the Invasion II-2 | 15.00% | ~9 |
 | Furon Fashion | 13.00% | ~8 |

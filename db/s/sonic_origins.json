@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -2964,9 +2964,9 @@
       "ID": "ID_05_SONIC1_DEFEAT_MOTORA",
       "SetID": "7o8nc5m",
       "Name": "Beware Moto Bugs!",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 247
+      "UsersEstimate": 254
     },
     {
       "ID": "ID_06_SONIC1_BREATHING_COUNT",
@@ -3052,9 +3052,9 @@
       "ID": "ID_16_WATCH_AT_MUSEUM",
       "SetID": "7o8nc5m",
       "Name": "Museum Time",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 254
+      "UsersEstimate": 260
     },
     {
       "ID": "ID_17_CLEAR_FIRST_MISSION",
@@ -3132,9 +3132,9 @@
       "ID": "ID_26_MOVIE_MANIA",
       "SetID": "7o8nc5m",
       "Name": "Movie Maniac",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 117
+      "UsersEstimate": 124
     },
     {
       "ID": "ID_27_SOUND_MANIA",
@@ -3220,8 +3220,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-12-13T19:57:46.4026225+00:00",
-  "LastChanged_Achievements": "2023-12-20T07:09:57.158195+00:00",
+  "LastChanged_Achievements": "2023-12-20T08:09:43.8474566+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:34.9486393+00:00",
-  "LastUpdate_Ratings": "2023-12-20T06:57:19.6956211+00:00",
-  "LastUpdate_Achievements": "2023-12-20T07:09:57.1582255+00:00"
+  "LastUpdate_Ratings": "2023-12-20T07:57:08.9595667+00:00",
+  "LastUpdate_Achievements": "2023-12-20T08:09:43.8474869+00:00"
 }

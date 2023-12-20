@@ -22,6 +22,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Silver Victory (Carthage 1) | 0.10% | ~16 |
 | Carthage - Riches and Influence | 0.10% | ~16 |
 | Bronze Victory (Carthage 2) | 0.10% | ~16 |
+| Epic Victory (Carthage 2) | 0.10% | ~16 |
+| Gold Victory (Carthage 2) | 0.10% | ~16 |
+| Silver Victory (Carthage 2) | 0.10% | ~16 |
 | Able | 0.10% | ~16 |
 | Ambitious | 0.10% | ~16 |
 | Ancient | 0.10% | ~16 |
@@ -114,6 +117,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hatti | 0.10% | ~16 |
 | Old World Order | 0.10% | ~16 |
 | One True Faith | 0.10% | ~16 |
+| Pantheon of Gods | 0.10% | ~16 |
 | Play a LAN Game | 0.10% | ~16 |
 | Play a Single Player Game | 0.10% | ~16 |
 | Power to the People | 0.10% | ~16 |
@@ -160,6 +164,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Deposed Tribe | 0.10% | ~16 |
 | The Great Mage | 0.10% | ~16 |
 | Ramesses II KIA | 0.10% | ~16 |
+| Kush | 0.10% | ~16 |
+| Beja Archer | 0.10% | ~16 |
 | Royal Library | 0.10% | ~16 |
 | Centenarian | 0.00% | ~0 |
 | Alexander the who? | 0.00% | ~0 |
@@ -171,9 +177,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Battle of Opis | 0.00% | ~0 |
 | Blade of the Monkey | 0.00% | ~0 |
 | Hagia Sophia in Byzantion | 0.00% | ~0 |
-| Epic Victory (Carthage 2) | 0.00% | ~0 |
-| Gold Victory (Carthage 2) | 0.00% | ~0 |
-| Silver Victory (Carthage 2) | 0.00% | ~0 |
 | Carthage - Rise of Rome | 0.00% | ~0 |
 | Bronze Victory (Carthage 3) | 0.00% | ~0 |
 | Epic Victory (Carthage 3) | 0.00% | ~0 |
@@ -263,7 +266,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Merchants of the Levant | 0.00% | ~0 |
 | Persia | 0.00% | ~0 |
 | Rome | 0.00% | ~0 |
-| Pantheon of Gods | 0.00% | ~0 |
 | Apadana in Parsa | 0.00% | ~0 |
 | Play a 1-v-1 Game | 0.00% | ~0 |
 | Play a Free-For-All Game (>2 Players) | 0.00% | ~0 |
@@ -346,9 +348,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt Campaign | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 | Kushite Pyramids | 0.00% | ~0 |
-| Kush | 0.00% | ~0 |
 | Kushite Paganism | 0.00% | ~0 |
-| Beja Archer | 0.00% | ~0 |
 | Cothon in Carthago | 0.00% | ~0 |
 | Yazilikaya in Hattusa | 0.00% | ~0 |
 | Heliopolis in Heliopolis | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Al Khazneh in Petra | 0.00% | ~0 |
 | Colosseum in Roma | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,844 (Ranked 157)  
+Progressed: 15,845 (Ranked 157)  
 Completed: 5 (0.03%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -609,7 +609,7 @@ Completed: 5 (0.03%) (Ranked 344)
 | 2023-12-17 | 15,807 | 5 |
 | 2023-12-18 | 15,826 | 5 |
 | 2023-12-19 | 15,840 | 5 |
-| 2023-12-20 | 15,844 | 5 |
+| 2023-12-20 | 15,845 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 279)  
 Sum: 1,904 (Ranked 220)  

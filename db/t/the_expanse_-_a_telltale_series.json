@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16886,
+  "EOS_Progressed": 16888,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 805,
+  "EOS_NewPlayers": 807,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -14479,6 +14479,11 @@
       "Time": "2023-12-20T07:04:26.3767167+00:00",
       "NumProgressed": 16886,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-12-20T08:04:21.6506484+00:00",
+      "NumProgressed": 16888,
+      "NumCompleted": 45
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14531,7 +14536,7 @@
       "Name": "Doctor Approved",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "15",
@@ -14563,7 +14568,7 @@
       "Name": "Bottoms up!",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "19",
@@ -14731,7 +14736,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "32",
@@ -14770,13 +14775,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16886,
+      "Progressed": 16888,
       "Completed": 45
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2840,
+      "Progressed": 2842,
       "Completed": 964
     }
   ],
@@ -14784,8 +14789,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-17T22:59:50.8326927+00:00",
-  "LastChanged_Achievements": "2023-12-20T07:04:26.3767164+00:00",
+  "LastChanged_Achievements": "2023-12-20T08:04:21.6506481+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:40.0929133+00:00",
-  "LastUpdate_Ratings": "2023-12-20T06:59:57.3874748+00:00",
-  "LastUpdate_Achievements": "2023-12-20T07:04:26.3767833+00:00"
+  "LastUpdate_Ratings": "2023-12-20T07:59:42.7465222+00:00",
+  "LastUpdate_Achievements": "2023-12-20T08:04:21.6507229+00:00"
 }

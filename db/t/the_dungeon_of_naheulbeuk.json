@@ -1459,18 +1459,24 @@
       "Rating": 4.59,
       "NumberOfAwards": 522,
       "NumberOfAwardsMax": 249
+    },
+    {
+      "Time": "2023-12-20T08:02:37.3622966+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 523,
+      "NumberOfAwardsMax": 250
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 522,
-  "NumberOfAwardsMax": 249,
+  "NumberOfAwards": 523,
+  "NumberOfAwardsMax": 250,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 249
+      "Count": 250
     },
     {
       "Text": "This game is Relaxing",
@@ -1527,9 +1533,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 243643,
+  "EOS_Progressed": 243644,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1112,
+  "EOS_NewPlayers": 1110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22947,6 +22953,11 @@
       "Time": "2023-12-20T07:09:50.3586581+00:00",
       "NumProgressed": 243643,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-20T08:09:37.1132958+00:00",
+      "NumProgressed": 243644,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -23358,7 +23369,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19491
+      "UsersEstimate": 19492
     },
     {
       "ID": "DwarfElf15Support",
@@ -23406,7 +23417,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 87711
+      "UsersEstimate": 87712
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -23661,21 +23672,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 243643,
+      "Progressed": 243644,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 243643,
+      "Progressed": 243644,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-12-19T22:00:31.1868815+00:00",
-  "LastChanged_Achievements": "2023-12-20T07:09:50.3586577+00:00",
+  "LastChanged": "2023-12-20T08:02:37.3622964+00:00",
+  "LastChanged_Achievements": "2023-12-20T08:09:37.1132953+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:08.5726178+00:00",
-  "LastUpdate_Ratings": "2023-12-20T07:02:41.9762004+00:00",
-  "LastUpdate_Achievements": "2023-12-20T07:09:50.3588011+00:00"
+  "LastUpdate_Ratings": "2023-12-20T08:02:37.3622971+00:00",
+  "LastUpdate_Achievements": "2023-12-20T08:09:37.1134394+00:00"
 }

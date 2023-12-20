@@ -4,7 +4,7 @@
   "ProductSlug": "demon-turf-neon-splash-7ed9b5",
   "Ranking_EOS_Progress": 457,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 371,
+  "Ranking_EOS_NewPlayers": 364,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-02T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 104,
+  "EOS_Progressed": 105,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -474,6 +474,11 @@
       "Time": "2023-12-20T04:10:36.2290059+00:00",
       "NumProgressed": 104,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T08:09:39.9519532+00:00",
+      "NumProgressed": 105,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-27T15:03:05.6724324+00:00",
@@ -581,14 +586,14 @@
     {
       "ID": "2i48e34",
       "IsBase": true,
-      "Progressed": 104,
+      "Progressed": 105,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-14T16:03:11.8091132+00:00",
   "FirstSeenAchievements": "2023-09-27T15:03:05.6724323+00:00",
-  "LastChanged_Achievements": "2023-12-20T07:09:53.2624922+00:00",
+  "LastChanged_Achievements": "2023-12-20T08:09:39.9519528+00:00",
   "LastUpdate_AppInfo": "2023-12-13T21:57:02.9496413+00:00",
-  "LastUpdate_Ratings": "2023-12-20T06:58:46.18126+00:00",
-  "LastUpdate_Achievements": "2023-12-20T07:09:53.2625009+00:00"
+  "LastUpdate_Ratings": "2023-12-20T07:58:33.0113101+00:00",
+  "LastUpdate_Achievements": "2023-12-20T08:09:39.9519643+00:00"
 }

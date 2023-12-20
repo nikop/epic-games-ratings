@@ -2,13 +2,13 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 938,
+  "Ranking_Rating": 939,
   "Ranking_Popularity": 387,
   "Ranking_PopularitySum": 326,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1721,9 +1721,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 18166,
+  "EOS_Progressed": 18171,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1636,
+  "EOS_NewPlayers": 1641,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -10401,6 +10401,11 @@
       "Time": "2023-12-20T07:09:16.3707664+00:00",
       "NumProgressed": 18166,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-20T08:09:04.5278185+00:00",
+      "NumProgressed": 18171,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -10428,7 +10433,7 @@
       "Name": "Giving Back",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 908
+      "UsersEstimate": 909
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -10436,7 +10441,7 @@
       "Name": "You Need a Gun",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 908
+      "UsersEstimate": 909
     },
     {
       "ID": "DISARM_ENEMY",
@@ -10444,7 +10449,7 @@
       "Name": "Flesh Wound",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 2543
+      "UsersEstimate": 2544
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -10476,7 +10481,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 908
+      "UsersEstimate": 909
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -10540,7 +10545,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1998
+      "UsersEstimate": 1999
     },
     {
       "ID": "KILL_ROBOT",
@@ -10556,7 +10561,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1453
+      "UsersEstimate": 1454
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -10596,7 +10601,7 @@
       "Name": "Mugshot",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -10612,7 +10617,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1453
+      "UsersEstimate": 1454
     },
     {
       "ID": "STORY_HABITAT",
@@ -10644,7 +10649,7 @@
       "Name": "Desperate Times",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2180
+      "UsersEstimate": 2181
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -10787,13 +10792,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 18166,
+      "Progressed": 18171,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 6092,
+      "Progressed": 6097,
       "Completed": 29
     }
   ],
@@ -10801,8 +10806,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-20T03:02:59.9663401+00:00",
-  "LastChanged_Achievements": "2023-12-20T07:09:16.370766+00:00",
+  "LastChanged_Achievements": "2023-12-20T08:09:04.5278181+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.4893565+00:00",
-  "LastUpdate_Ratings": "2023-12-20T07:03:04.4243384+00:00",
-  "LastUpdate_Achievements": "2023-12-20T07:09:16.3708415+00:00"
+  "LastUpdate_Ratings": "2023-12-20T08:03:00.1043278+00:00",
+  "LastUpdate_Achievements": "2023-12-20T08:09:04.5278907+00:00"
 }

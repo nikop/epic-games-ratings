@@ -455,7 +455,7 @@
   ],
   "EOS_Progressed": 4589,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 839,
+  "EOS_NewPlayers": 838,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -7285,9 +7285,9 @@
       "ID": "ACH_MISSION_03",
       "SetID": "816efe",
       "Name": "Harper\u0027s Hell",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1836
+      "UsersEstimate": 1881
     },
     {
       "ID": "ACH_MISSION_04",
@@ -7446,8 +7446,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-12-19T09:58:53.353291+00:00",
-  "LastChanged_Achievements": "2023-12-20T07:03:32.4566177+00:00",
+  "LastChanged_Achievements": "2023-12-20T08:03:28.7693337+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:23.8354928+00:00",
-  "LastUpdate_Ratings": "2023-12-20T06:59:21.5027964+00:00",
-  "LastUpdate_Achievements": "2023-12-20T07:03:32.4566836+00:00"
+  "LastUpdate_Ratings": "2023-12-20T07:59:07.6317172+00:00",
+  "LastUpdate_Achievements": "2023-12-20T08:03:28.7694102+00:00"
 }

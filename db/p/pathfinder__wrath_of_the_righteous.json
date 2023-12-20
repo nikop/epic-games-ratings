@@ -4637,9 +4637,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12531,
+  "EOS_Progressed": 12532,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 238,
+  "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17432,6 +17432,11 @@
       "Time": "2023-12-20T07:09:58.4648324+00:00",
       "NumProgressed": 12531,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T08:09:45.4748695+00:00",
+      "NumProgressed": 12532,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -17443,7 +17448,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3383
+      "UsersEstimate": 3384
     },
     {
       "ID": "02_BurningCity",
@@ -18370,21 +18375,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11313,
+      "Progressed": 11314,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12531,
+      "Progressed": 12532,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-19T14:57:09.5966829+00:00",
-  "LastChanged_Achievements": "2023-12-20T07:09:58.4648322+00:00",
+  "LastChanged_Achievements": "2023-12-20T08:09:45.4748689+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.7532096+00:00",
-  "LastUpdate_Ratings": "2023-12-20T06:57:25.6260439+00:00",
-  "LastUpdate_Achievements": "2023-12-20T07:09:58.4650221+00:00"
+  "LastUpdate_Ratings": "2023-12-20T07:57:14.6119439+00:00",
+  "LastUpdate_Achievements": "2023-12-20T08:09:45.4750296+00:00"
 }

@@ -222,9 +222,9 @@
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "7on801h",
       "Name": "Ghost",
-      "Percentage": 16,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -558,9 +558,9 @@
       "ID": "NEW_ACHIEVEMENT_2_2",
       "SetID": "7on801h",
       "Name": "Samizdat",
-      "Percentage": 8,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_20",
@@ -875,8 +875,8 @@
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2023-12-20T07:05:52.5142199+00:00",
+  "LastChanged_Achievements": "2023-12-20T08:05:45.9620561+00:00",
   "LastUpdate_AppInfo": "2023-12-13T16:57:09.7184844+00:00",
-  "LastUpdate_Ratings": "2023-12-20T07:00:05.7946967+00:00",
-  "LastUpdate_Achievements": "2023-12-20T07:05:52.5143008+00:00"
+  "LastUpdate_Ratings": "2023-12-20T07:59:50.8643635+00:00",
+  "LastUpdate_Achievements": "2023-12-20T08:05:45.9621161+00:00"
 }

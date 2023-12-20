@@ -2,12 +2,12 @@
   "ID": "33a47f9b76374045b7da20af80c40aa1",
   "Name": "Immortals of Aveum\u2122",
   "ProductSlug": "immortals-of-aveum",
-  "Ranking_Rating": 938,
+  "Ranking_Rating": 916,
   "Ranking_Popularity": 567,
   "Ranking_PopularitySum": 567,
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.19,
+  "Rating": 4.22,
   "RatingHistory": [
     {
       "Time": "2023-08-31T18:56:53.9930762+00:00",
@@ -235,15 +235,21 @@
       "Rating": 4.19,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-20T07:58:57.6107156+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1338,
+  "EOS_Progressed": 1339,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1006,
+  "EOS_NewPlayers": 1007,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2446,6 +2452,11 @@
       "Time": "2023-12-20T07:09:36.1247709+00:00",
       "NumProgressed": 1338,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-20T08:09:23.6868245+00:00",
+      "NumProgressed": 1339,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -2458,7 +2469,7 @@
       "Name": "Unforeseen",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 1177
+      "UsersEstimate": 1178
     },
     {
       "ID": "achievement_10",
@@ -2498,7 +2509,7 @@
       "Name": "Geas Aristeya",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "achievement_15",
@@ -2536,9 +2547,9 @@
       "ID": "achievement_19",
       "SetID": "18al4io",
       "Name": "Socialite",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 281
+      "UsersEstimate": 295
     },
     {
       "ID": "achievement_2",
@@ -2546,7 +2557,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1057
+      "UsersEstimate": 1058
     },
     {
       "ID": "achievement_20",
@@ -2602,7 +2613,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "achievement_36",
@@ -2690,7 +2701,7 @@
       "Name": "Enlisted",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "achievement_49",
@@ -2752,9 +2763,9 @@
       "ID": "achievement_6",
       "SetID": "18al4io",
       "Name": "Thrada-Kul",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 401
+      "UsersEstimate": 388
     },
     {
       "ID": "achievement_60",
@@ -2810,7 +2821,7 @@
       "Name": "Gravity-Challenged Rocks",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "achievement_8",
@@ -2818,7 +2829,7 @@
       "Name": "All the Major Food Groups",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "achievement_9",
@@ -2833,16 +2844,16 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 1338,
+      "Progressed": 1339,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-08-22T19:00:26.7529904+00:00",
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
-  "LastChanged": "2023-12-19T07:58:36.9577157+00:00",
-  "LastChanged_Achievements": "2023-12-20T07:09:36.1247706+00:00",
+  "LastChanged": "2023-12-20T07:58:57.6107154+00:00",
+  "LastChanged_Achievements": "2023-12-20T08:09:23.6868242+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:30.3074422+00:00",
-  "LastUpdate_Ratings": "2023-12-20T06:59:11.0718046+00:00",
-  "LastUpdate_Achievements": "2023-12-20T07:09:36.1248069+00:00"
+  "LastUpdate_Ratings": "2023-12-20T07:58:57.610716+00:00",
+  "LastUpdate_Achievements": "2023-12-20T08:09:23.6868621+00:00"
 }

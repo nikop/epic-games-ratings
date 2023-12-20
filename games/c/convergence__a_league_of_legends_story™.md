@@ -6,10 +6,10 @@ Rating: 4.64 (Ranked 339)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 38.00% | ~395 |
-| Rail Rat | 29.00% | ~301 |
+| Rail Rat | 29.00% | ~302 |
 | The Mysterious Stranger | 28.00% | ~291 |
-| Immaculate Aim | 24.00% | ~249 |
-| The Brass Boss | 24.00% | ~249 |
+| Immaculate Aim | 24.00% | ~250 |
+| The Brass Boss | 24.00% | ~250 |
 | Make Up For Lost Time | 23.00% | ~239 |
 | Time Flies | 23.00% | ~239 |
 | No, Thanks! | 23.00% | ~239 |
@@ -25,13 +25,13 @@ Rating: 4.64 (Ranked 339)
 | Like Clockwork | 20.00% | ~208 |
 | The Betrayer | 20.00% | ~208 |
 | Golem Chaser | 20.00% | ~208 |
-| Check Your Pulse | 19.00% | ~197 |
+| Check Your Pulse | 19.00% | ~198 |
 | The Man Who Shattered Time | 18.00% | ~187 |
 | The Loose Cannon | 18.00% | ~187 |
 | The Family Fortune | 18.00% | ~187 |
 | Street Style | 17.00% | ~177 |
-| Whiz Kid | 14.00% | ~145 |
-| Cartographer | 14.00% | ~145 |
+| Whiz Kid | 14.00% | ~146 |
+| Cartographer | 14.00% | ~146 |
 | Treasure Trove | 13.00% | ~135 |
 | Family Memories | 13.00% | ~135 |
 | Good Neighbor | 13.00% | ~135 |
@@ -59,7 +59,7 @@ Rating: 4.64 (Ranked 339)
 | Raw Talent | 0.70% | ~7 |
 | Going to Live Forever | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,039 (Ranked 274)  
+Progressed: 1,040 (Ranked 274)  
 Completed: 6 (0.58%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 6 (0.58%) (Ranked 200)
 | 2023-12-17 | 1,021 | 6 |
 | 2023-12-18 | 1,030 | 6 |
 | 2023-12-19 | 1,037 | 6 |
-| 2023-12-20 | 1,039 | 6 |
+| 2023-12-20 | 1,040 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
