@@ -269,9 +269,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 333670,
+  "EOS_Progressed": 333671,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2085,
+  "EOS_NewPlayers": 2079,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14374,6 +14374,11 @@
       "Time": "2023-12-20T04:08:32.2101712+00:00",
       "NumProgressed": 333670,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T05:08:22.5373096+00:00",
+      "NumProgressed": 333671,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-03T18:03:11.7010747+00:00",
@@ -14418,7 +14423,7 @@
       "Name": "The Boneyard",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 106774
+      "UsersEstimate": 106775
     },
     {
       "ID": "ACHV_M03_COMPLETE",
@@ -14434,7 +14439,7 @@
       "Name": "Kalash Site",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 50050
+      "UsersEstimate": 50051
     },
     {
       "ID": "ACHV_M05_COMPLETE",
@@ -14442,7 +14447,7 @@
       "Name": "Kalash Wreck",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 40040
+      "UsersEstimate": 40041
     },
     {
       "ID": "ACHV_M06_COMPLETE",
@@ -14769,13 +14774,13 @@
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 333670,
+      "Progressed": 333671,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 333659,
+      "Progressed": 333660,
       "Completed": 1
     }
   ],
@@ -14783,8 +14788,8 @@
   "FirstSeenRating": "2023-08-25T17:58:52.6937375+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
   "LastChanged": "2023-12-18T00:02:47.04489+00:00",
-  "LastChanged_Achievements": "2023-12-20T04:08:32.210171+00:00",
+  "LastChanged_Achievements": "2023-12-20T05:08:22.5373092+00:00",
   "LastUpdate_AppInfo": "2023-12-15T02:21:14.2325481+00:00",
-  "LastUpdate_Ratings": "2023-12-20T04:03:07.5845279+00:00",
-  "LastUpdate_Achievements": "2023-12-20T04:08:32.2102477+00:00"
+  "LastUpdate_Ratings": "2023-12-20T05:02:47.8423447+00:00",
+  "LastUpdate_Achievements": "2023-12-20T05:08:22.5374193+00:00"
 }

@@ -1,7 +1,7 @@
 # Warhammer 40,000: Chaos Gate - Daemonhunters
 [Store](https://store.epicgames.com/en-US/p/warhammer-40000-chaos-gate-daemonhunters)  
 [View Rawdata](../../db/w/warhammer_40,000__chaos_gate_-_daemonhunters.json)  
-Rating: 4.58 (Ranked 456)  
+Rating: 4.58 (Ranked 455)  
 Number of Ratings: 371  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,7 +10,7 @@ Number of Ratings: 371  (23.09.2022)
 | Look Over There! | 10.00% | ~348 |
 | Not So Fast... | 10.00% | ~348 |
 | Watch Where You Step... | 10.00% | ~348 |
-| An Ill Omen | 9.00% | ~313 |
+| An Ill Omen | 9.00% | ~314 |
 | Blood for the Blood God! | 7.00% | ~244 |
 | Purging Spree | 7.00% | ~244 |
 | Bloodless | 6.00% | ~209 |
@@ -19,9 +19,9 @@ Number of Ratings: 371  (23.09.2022)
 | Surgical Excision | 4.00% | ~139 |
 | The Emperor Protects | 4.00% | ~139 |
 | A Foul Creche | 4.00% | ~139 |
-| Nemesis Master | 3.00% | ~104 |
-| Gunmaster | 3.00% | ~104 |
-| Just a Scratch | 3.00% | ~104 |
+| Nemesis Master | 3.00% | ~105 |
+| Gunmaster | 3.00% | ~105 |
+| Just a Scratch | 3.00% | ~105 |
 | Daemonkeeper | 2.00% | ~70 |
 | Hold Your Ground | 2.00% | ~70 |
 | Corruption Cleanser | 2.00% | ~70 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,482 (Ranked 214)  
+Progressed: 3,484 (Ranked 214)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-17 | 3,449 | 0 |
 | 2023-12-18 | 3,464 | 0 |
 | 2023-12-19 | 3,477 | 0 |
-| 2023-12-20 | 3,482 | 0 |
+| 2023-12-20 | 3,484 | 0 |
 ## Awards
 Max (Character Customization): 229  (Ranked 278)  
 Sum: 490 (Ranked 334)  

@@ -13,8 +13,8 @@ Rating: 4.19 (Ranked 938)
 | Chew 'Em Up | 11.00% | ~1,997 |
 | Float Like A Butterfly | 10.00% | ~1,816 |
 | Reforged | 10.00% | ~1,816 |
-| Workplace Hazard | 8.00% | ~1,452 |
-| If the SHU Fits... | 8.00% | ~1,452 |
+| Workplace Hazard | 8.00% | ~1,453 |
+| If the SHU Fits... | 8.00% | ~1,453 |
 | Two Heads Are Better Than One | 7.00% | ~1,271 |
 | Without A Paddle | 7.00% | ~1,271 |
 | In the Pipe, Five by Five | 7.00% | ~1,271 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 938)
 | Bear Trap | 0.10% | ~6 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,155 (Ranked 148)  
+Progressed: 18,157 (Ranked 148)  
 Completed: 82 (0.45%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 82 (0.45%) (Ranked 222)
 | 2023-12-17 | 17,760 | 82 |
 | 2023-12-18 | 17,946 | 82 |
 | 2023-12-19 | 18,137 | 82 |
-| 2023-12-20 | 18,155 | 82 |
+| 2023-12-20 | 18,157 | 82 |
 ## Awards
 Max (Quickly Understood Controls): 89  (Ranked 387)  
 Sum: 529 (Ranked 326)  

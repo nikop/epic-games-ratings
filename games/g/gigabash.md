@@ -1,24 +1,24 @@
 # GigaBash
 [Store](https://store.epicgames.com/en-US/p/gigabash)  
 [View Rawdata](../../db/g/gigabash.json)  
-Rating: 4.56 (Ranked 498)  
+Rating: 4.56 (Ranked 497)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 11.00% | ~10,485 |
-| I've Had Enough! | 9.00% | ~8,578 |
-| Fists, Fury & a lot of Rage | 7.00% | ~6,672 |
-| Seasoned Fighter | 6.00% | ~5,719 |
-| All For One and One For All | 5.00% | ~4,766 |
-| Home Sweet Home? | 4.00% | ~3,813 |
-| A New Age | 3.00% | ~2,859 |
-| Oh Baby, A Triple | 2.00% | ~1,906 |
-| Master of Disguise | 2.00% | ~1,906 |
-| Symbiotic | 2.00% | ~1,906 |
-| Battle Hardened | 1.00% | ~953 |
-| It's Mayhem! | 1.00% | ~953 |
-| Right back at'cha | 1.00% | ~953 |
-| Spectacular Finisher | 1.00% | ~953 |
+| All Grown Up! | 11.00% | ~10,491 |
+| I've Had Enough! | 9.00% | ~8,584 |
+| Fists, Fury & a lot of Rage | 7.00% | ~6,676 |
+| Seasoned Fighter | 6.00% | ~5,722 |
+| All For One and One For All | 5.00% | ~4,769 |
+| Home Sweet Home? | 4.00% | ~3,815 |
+| A New Age | 3.00% | ~2,861 |
+| Oh Baby, A Triple | 2.00% | ~1,908 |
+| Master of Disguise | 2.00% | ~1,908 |
+| Symbiotic | 2.00% | ~1,908 |
+| Battle Hardened | 1.00% | ~954 |
+| It's Mayhem! | 1.00% | ~954 |
+| Right back at'cha | 1.00% | ~954 |
+| Spectacular Finisher | 1.00% | ~954 |
 | Double Punch! | 0.90% | ~858 |
 | Cautious Veteran | 0.80% | ~763 |
 | Martyrdom | 0.80% | ~763 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 498)
 | Keeper of Knowledge | 0.00% | ~0 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 95,314 (Ranked 94)  
+Progressed: 95,375 (Ranked 94)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -56,7 +56,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-17 | 91,589 | 0 |
 | 2023-12-18 | 93,389 | 0 |
 | 2023-12-19 | 95,039 | 0 |
-| 2023-12-20 | 95,314 | 0 |
+| 2023-12-20 | 95,375 | 0 |
 ## Awards
 Max (Great Boss Battles): 32  (Ranked 501)  
 Sum: 32 (Ranked 521)  

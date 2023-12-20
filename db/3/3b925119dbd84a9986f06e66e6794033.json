@@ -1440,9 +1440,9 @@
       "ID": "TIME_JINX",
       "SetID": "9j9h72e",
       "Name": "Timejinx: Timejinx",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 92
+      "UsersEstimate": 96
     },
     {
       "ID": "TIME_ORWELL",
@@ -1456,9 +1456,9 @@
       "ID": "TIME_PERFECT_DATE",
       "SetID": "9j9h72e",
       "Name": "Timejinx: The Perfect Date",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 89
+      "UsersEstimate": 92
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -1511,8 +1511,8 @@
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-20T04:10:19.4129795+00:00",
+  "LastChanged_Achievements": "2023-12-20T05:09:57.1300525+00:00",
   "LastUpdate_AppInfo": "2023-12-16T01:42:15.0489028+00:00",
-  "LastUpdate_Ratings": "2023-12-20T04:03:08.0758886+00:00",
-  "LastUpdate_Achievements": "2023-12-20T04:10:19.4130046+00:00"
+  "LastUpdate_Ratings": "2023-12-20T05:02:48.5851004+00:00",
+  "LastUpdate_Achievements": "2023-12-20T05:09:57.130077+00:00"
 }

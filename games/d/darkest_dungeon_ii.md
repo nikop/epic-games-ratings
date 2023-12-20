@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,644 (Ranked 85)  
+Progressed: 128,647 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 3 (0.00%) (Ranked 384)
 | 2023-12-17 | 128,143 | 3 |
 | 2023-12-18 | 128,398 | 3 |
 | 2023-12-19 | 128,605 | 3 |
-| 2023-12-20 | 128,644 | 3 |
+| 2023-12-20 | 128,647 | 3 |
 ## Awards
 Max (Character Customization): 7,795  (Ranked 50)  
 Sum: 20,811 (Ranked 58)  

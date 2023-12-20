@@ -27,12 +27,12 @@ Number of Ratings: 177  (23.09.2022)
 | Amy: Scavenger Hunt | 0.70% | ~47 |
 | Casanova | 0.70% | ~47 |
 | It Smells Like Roses | 0.70% | ~26 |
+| Now It's a Party! | 0.70% | ~47 |
 | Stephanie | 0.70% | ~47 |
 | The Magic Number | 0.70% | ~47 |
 | Vickie | 0.70% | ~47 |
 | Te Amo Lety | 0.70% | ~47 |
 | Deck the Balls | 0.60% | ~23 |
-| Now It's a Party! | 0.60% | ~40 |
 | Ashley | 0.50% | ~34 |
 | Benedict Brahrnold | 0.50% | ~34 |
 | I'll Be Back | 0.50% | ~34 |

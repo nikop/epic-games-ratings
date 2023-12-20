@@ -6,19 +6,19 @@ Rating: 4.48 (Ranked 640)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Feels Familiar | 75.00% | ~934 |
-| I Broke It | 73.00% | ~909 |
+| I Broke It | 73.00% | ~910 |
 | Better On Ice | 68.00% | ~847 |
-| Notai Notes | 67.00% | ~834 |
+| Notai Notes | 67.00% | ~835 |
 | Blue Dreams | 66.00% | ~822 |
-| He's Famous! | 66.00% | ~822 |
-| Cutie Poro | 65.00% | ~809 |
+| He's Famous! | 65.00% | ~810 |
+| Cutie Poro | 65.00% | ~810 |
 | Krugmazing | 64.00% | ~797 |
-| The Fire Below the Mountain | 61.00% | ~759 |
-| Moneyball | 60.00% | ~747 |
-| No Bites | 55.00% | ~685 |
+| The Fire Below the Mountain | 61.00% | ~760 |
+| Moneyball | 60.00% | ~748 |
 | Iceborn | 55.00% | ~685 |
-| Boom Things | 53.00% | ~660 |
-| Tear of Freedom | 52.00% | ~647 |
+| No Bites | 54.00% | ~673 |
+| Tear of Freedom | 52.00% | ~648 |
+| Boom Things | 52.00% | ~648 |
 | My Darkest Day | 48.00% | ~598 |
 | Rhythm Of Willump | 46.00% | ~573 |
 | The Relentless Storm | 46.00% | ~573 |
@@ -26,21 +26,21 @@ Rating: 4.48 (Ranked 640)
 | 3000 Year Blackout | 44.00% | ~548 |
 | So Close | 42.00% | ~523 |
 | The Finisher | 42.00% | ~523 |
-| You Get Used To It | 41.00% | ~510 |
+| You Get Used To It | 41.00% | ~511 |
 | Family | 39.00% | ~486 |
 | Biggest Snowball Ever | 39.00% | ~486 |
 | Freeze The Ice Witch | 39.00% | ~486 |
 | True Legends | 39.00% | ~486 |
 | Boosted! | 39.00% | ~486 |
 | Deadliest and Biggest Snowball Ever! | 39.00% | ~486 |
-| Bullseye | 36.00% | ~448 |
+| Bullseye | 36.00% | ~449 |
 | It Is Not Over | 35.00% | ~436 |
-| On The Rocks | 34.00% | ~423 |
+| On The Rocks | 34.00% | ~424 |
 | Snowy Poro | 31.00% | ~386 |
 | Never Gets Old | 31.00% | ~386 |
 | Vertical Power | 27.00% | ~336 |
 | One From The Heart | 14.00% | ~174 |
-| Yummy | 10.00% | ~124 |
+| Yummy | 10.00% | ~125 |
 | Snowball Fightn't | 9.00% | ~112 |
 | It Was Him | 7.00% | ~87 |
 | Handy Yeti | 6.00% | ~75 |
@@ -50,7 +50,7 @@ Rating: 4.48 (Ranked 640)
 | We Are Speed | 2.00% | ~25 |
 | Sneaky Notai | 1.00% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,245 (Ranked 261)  
+Progressed: 1,246 (Ranked 261)  
 Completed: 9 (0.72%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 9 (0.72%) (Ranked 193)
 | 2023-12-17 | 1,206 | 8 |
 | 2023-12-18 | 1,230 | 9 |
 | 2023-12-19 | 1,241 | 9 |
-| 2023-12-20 | 1,245 | 9 |
+| 2023-12-20 | 1,246 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

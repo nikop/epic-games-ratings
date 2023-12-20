@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 567,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5706,
+  "EOS_Progressed": 5707,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4838,6 +4838,11 @@
       "Time": "2023-12-19T19:05:54.1503678+00:00",
       "NumProgressed": 5706,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T05:07:56.9829086+00:00",
+      "NumProgressed": 5707,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -4905,7 +4910,7 @@
       "Name": "Level: Charlie\u0027s Circuits",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1255
+      "UsersEstimate": 1256
     },
     {
       "ID": "ach_campaign_progress10",
@@ -5233,7 +5238,7 @@
       "Name": "Peddler",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "ach_frp_many_products2",
@@ -5456,15 +5461,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5706,
+      "Progressed": 5707,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-12-20T04:07:13.601562+00:00",
+  "LastChanged_Achievements": "2023-12-20T05:07:56.9829084+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:04.2667134+00:00",
-  "LastUpdate_Ratings": "2023-12-20T03:57:35.8642041+00:00",
-  "LastUpdate_Achievements": "2023-12-20T04:07:13.6016533+00:00"
+  "LastUpdate_Ratings": "2023-12-20T04:57:29.3777903+00:00",
+  "LastUpdate_Achievements": "2023-12-20T05:07:56.9829831+00:00"
 }

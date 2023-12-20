@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 75.00% | ~148 |
-| Purification Pioneer | 70.00% | ~138 |
-| Mechanical Buddy | 65.00% | ~128 |
-| Dicesmithing Time! | 58.00% | ~114 |
-| Sanctuary Guardian | 53.00% | ~104 |
-| Endless Tricks | 48.00% | ~95 |
-| Wild's Keeper | 44.00% | ~87 |
-| Mind Illuminator | 42.00% | ~83 |
-| Noctuan Champion | 35.00% | ~69 |
-| Stellar Dismantler | 34.00% | ~67 |
-| Anomaly Destroyer | 30.00% | ~59 |
-| Astral Adventurer | 29.00% | ~57 |
-| Star Killer | 27.00% | ~53 |
-| Eridanian Champion | 25.00% | ~49 |
-| Lacertian Champion | 23.00% | ~45 |
-| Loyal Partner | 22.00% | ~43 |
-| Apian Champion | 21.00% | ~41 |
-| Shard Spender | 19.00% | ~37 |
-| Unbeatable | 17.00% | ~33 |
+| Meissa's Savior | 75.00% | ~150 |
+| Purification Pioneer | 71.00% | ~142 |
+| Mechanical Buddy | 65.00% | ~130 |
+| Dicesmithing Time! | 59.00% | ~118 |
+| Sanctuary Guardian | 53.00% | ~106 |
+| Endless Tricks | 48.00% | ~96 |
+| Wild's Keeper | 44.00% | ~88 |
+| Mind Illuminator | 42.00% | ~84 |
+| Noctuan Champion | 35.00% | ~70 |
+| Stellar Dismantler | 34.00% | ~68 |
+| Anomaly Destroyer | 31.00% | ~62 |
+| Astral Adventurer | 30.00% | ~60 |
+| Star Killer | 27.00% | ~54 |
+| Eridanian Champion | 25.00% | ~50 |
+| Loyal Partner | 23.00% | ~46 |
+| Lacertian Champion | 23.00% | ~46 |
+| Apian Champion | 21.00% | ~42 |
+| Shard Spender | 19.00% | ~38 |
+| Unbeatable | 17.00% | ~34 |
 | Behenian Champion | 16.00% | ~32 |
 | Sadistic Plan | 14.00% | ~28 |
 | Astral Seeker | 10.00% | ~20 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 197 (Ranked 401)  
+Progressed: 200 (Ranked 401)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,4 +158,4 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-17 | 175 | 0 |
 | 2023-12-18 | 184 | 0 |
 | 2023-12-19 | 195 | 0 |
-| 2023-12-20 | 197 | 0 |
+| 2023-12-20 | 200 | 0 |

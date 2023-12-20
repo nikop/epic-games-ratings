@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 567,
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 377,
+  "Ranking_EOS_NewPlayers": 370,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 450,
+  "EOS_Progressed": 451,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -528,6 +528,11 @@
       "Time": "2023-12-19T13:10:02.9366701+00:00",
       "NumProgressed": 450,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T05:06:24.3315513+00:00",
+      "NumProgressed": 451,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -595,7 +600,7 @@
       "Name": "Party",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "different-items2",
@@ -603,7 +608,7 @@
       "Name": "Full House",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "fat-human",
@@ -675,7 +680,7 @@
       "Name": "Knowledge is Power",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "finished-quest-secret",
@@ -691,7 +696,7 @@
       "Name": "Holy Vengeance",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "get-all",
@@ -755,7 +760,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "win-first-level",
@@ -763,7 +768,7 @@
       "Name": "Good start!",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "win-koth-fights1",
@@ -803,7 +808,7 @@
       "Name": "Honorary Cultist",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "win-with-mrakus",
@@ -818,7 +823,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 450,
+      "Progressed": 451,
       "Completed": 1
     }
   ],
@@ -826,8 +831,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-12-20T04:06:08.0764577+00:00",
+  "LastChanged_Achievements": "2023-12-20T05:06:24.3315509+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:10.0467066+00:00",
-  "LastUpdate_Ratings": "2023-12-20T03:57:53.2583949+00:00",
-  "LastUpdate_Achievements": "2023-12-20T04:06:08.076482+00:00"
+  "LastUpdate_Ratings": "2023-12-20T04:57:43.6854253+00:00",
+  "LastUpdate_Achievements": "2023-12-20T05:06:24.3315745+00:00"
 }

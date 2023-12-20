@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 563,
+  "EOS_Progressed": 564,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1359,6 +1359,11 @@
       "Time": "2023-12-20T03:09:34.338398+00:00",
       "NumProgressed": 563,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T05:10:27.3141034+00:00",
+      "NumProgressed": 564,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1434,7 +1439,7 @@
       "Name": "Ghost Buster",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "Gladiator",
@@ -1450,7 +1455,7 @@
       "Name": "Goblin Tales",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "Hardboiled",
@@ -1482,7 +1487,7 @@
       "Name": "Iconoclasm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "Inquisitor",
@@ -1490,7 +1495,7 @@
       "Name": "Inquisitor",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "Librarian",
@@ -1570,7 +1575,7 @@
       "Name": "Reincarnation",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "Roughneck",
@@ -1640,9 +1645,9 @@
       "ID": "TheTrio",
       "SetID": "82505mn",
       "Name": "Trio",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 28
     },
     {
       "ID": "TrapMaster",
@@ -1650,7 +1655,7 @@
       "Name": "Trap Master",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "TreasureHunter",
@@ -1689,7 +1694,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 563,
+      "Progressed": 564,
       "Completed": 1
     }
   ],
@@ -1697,8 +1702,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-20T04:10:41.3618577+00:00",
+  "LastChanged_Achievements": "2023-12-20T05:10:27.3141032+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:31.304442+00:00",
-  "LastUpdate_Ratings": "2023-12-20T04:00:28.0483648+00:00",
-  "LastUpdate_Achievements": "2023-12-20T04:10:41.3618827+00:00"
+  "LastUpdate_Ratings": "2023-12-20T05:00:49.9462384+00:00",
+  "LastUpdate_Achievements": "2023-12-20T05:10:27.3141278+00:00"
 }

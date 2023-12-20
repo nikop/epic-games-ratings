@@ -283,9 +283,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1949,
+  "EOS_Progressed": 1950,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2908,6 +2908,11 @@
       "Time": "2023-12-20T02:03:59.198545+00:00",
       "NumProgressed": 1949,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T05:04:07.2103+00:00",
+      "NumProgressed": 1950,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2951,7 +2956,7 @@
       "Name": "Contingency Plans",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Achievement_007",
@@ -2967,7 +2972,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "Achievement_009",
@@ -2975,7 +2980,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "Achievement_010",
@@ -3055,7 +3060,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "Achievement_020",
@@ -3063,7 +3068,7 @@
       "Name": "Sic Transit Umbra",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Achievement_021",
@@ -3079,7 +3084,7 @@
       "Name": "Bell-ringer",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Achievement_023",
@@ -3087,7 +3092,7 @@
       "Name": "Silence Is Golden",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Achievement_024",
@@ -3095,7 +3100,7 @@
       "Name": "Good Morning",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Achievement_025",
@@ -3111,7 +3116,7 @@
       "Name": "Fly Fisher",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "Achievement_027",
@@ -3119,7 +3124,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "Achievement_028",
@@ -3183,7 +3188,7 @@
       "Name": "From the Shadows",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Achievement_036",
@@ -3239,7 +3244,7 @@
       "Name": "Starve the Beast",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Achievement_044",
@@ -3311,7 +3316,7 @@
       "Name": "Harvest\u2019s End",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Achievement_055",
@@ -3383,7 +3388,7 @@
       "Name": "Helping Hand",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Achievement_064",
@@ -3446,7 +3451,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1949,
+      "Progressed": 1950,
       "Completed": 0
     }
   ],
@@ -3454,8 +3459,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-19T11:02:35.1367556+00:00",
-  "LastChanged_Achievements": "2023-12-20T04:04:30.1455946+00:00",
+  "LastChanged_Achievements": "2023-12-20T05:04:07.2102997+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:02.9619993+00:00",
-  "LastUpdate_Ratings": "2023-12-20T04:02:58.0986745+00:00",
-  "LastUpdate_Achievements": "2023-12-20T04:04:30.1456631+00:00"
+  "LastUpdate_Ratings": "2023-12-20T05:02:33.8253333+00:00",
+  "LastUpdate_Achievements": "2023-12-20T05:04:07.2103657+00:00"
 }

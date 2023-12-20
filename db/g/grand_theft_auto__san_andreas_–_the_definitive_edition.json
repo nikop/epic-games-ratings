@@ -2,13 +2,13 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 513,
+  "Ranking_Rating": 512,
   "Ranking_Popularity": 221,
   "Ranking_PopularitySum": 297,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1855,7 +1855,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 15638,
+  "EOS_Progressed": 15640,
   "EOS_Completed": 61,
   "EOS_NewPlayers": 1674,
   "EOS_NewCompleters": 4,
@@ -16810,6 +16810,11 @@
       "Time": "2023-12-20T04:10:27.5037056+00:00",
       "NumProgressed": 15638,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-12-20T05:10:08.4904536+00:00",
+      "NumProgressed": 15640,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 35,
@@ -16821,7 +16826,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 12667
+      "UsersEstimate": 12668
     },
     {
       "ID": "ACH02",
@@ -16869,7 +16874,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2971
+      "UsersEstimate": 2972
     },
     {
       "ID": "ACH08",
@@ -16877,7 +16882,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 7819
+      "UsersEstimate": 7820
     },
     {
       "ID": "ACH09",
@@ -16941,7 +16946,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2658
+      "UsersEstimate": 2659
     },
     {
       "ID": "ACH17",
@@ -16989,7 +16994,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2189
+      "UsersEstimate": 2190
     },
     {
       "ID": "ACH23",
@@ -17100,7 +17105,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 15638,
+      "Progressed": 15640,
       "Completed": 61
     }
   ],
@@ -17108,8 +17113,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-12-20T02:57:34.202725+00:00",
-  "LastChanged_Achievements": "2023-12-20T04:10:27.5037054+00:00",
+  "LastChanged_Achievements": "2023-12-20T05:10:08.4904533+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:24.5920887+00:00",
-  "LastUpdate_Ratings": "2023-12-20T03:58:20.5878128+00:00",
-  "LastUpdate_Achievements": "2023-12-20T04:10:27.5038052+00:00"
+  "LastUpdate_Ratings": "2023-12-20T04:58:05.2607164+00:00",
+  "LastUpdate_Achievements": "2023-12-20T05:10:08.4905354+00:00"
 }

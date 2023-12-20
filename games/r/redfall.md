@@ -5,15 +5,15 @@ Rating: 3.57 (Ranked 1,062)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 9.00% | ~175 |
+| I Like My Stakes Rare! | 9.00% | ~176 |
 | Catch and Release | 7.00% | ~136 |
 | Home Is Where the Heart Is | 6.00% | ~117 |
 | ICU | 6.00% | ~117 |
 | Wounded Whispers | 6.00% | ~117 |
-| Blood Will Have Blood | 5.00% | ~97 |
-| Ne Plus Ultra | 5.00% | ~97 |
-| Fly Fisher | 5.00% | ~97 |
-| Peek-a-boo | 5.00% | ~97 |
+| Blood Will Have Blood | 5.00% | ~98 |
+| Ne Plus Ultra | 5.00% | ~98 |
+| Fly Fisher | 5.00% | ~98 |
+| Peek-a-boo | 5.00% | ~98 |
 | Enter of Your Own Free Will | 4.00% | ~78 |
 | Welcome to the Neighborhood | 4.00% | ~78 |
 | Throw The First Stone | 4.00% | ~78 |
@@ -25,15 +25,15 @@ Rating: 3.57 (Ranked 1,062)
 | Neighborhood Revitalization | 2.00% | ~39 |
 | Radio Silence | 2.00% | ~39 |
 | I Spit On Your Grave | 2.00% | ~39 |
-| Contingency Plans | 1.00% | ~19 |
-| Sic Transit Umbra | 1.00% | ~19 |
-| Bell-ringer | 1.00% | ~19 |
-| Silence Is Golden | 1.00% | ~19 |
-| Good Morning | 1.00% | ~19 |
-| From the Shadows | 1.00% | ~19 |
-| Starve the Beast | 1.00% | ~19 |
-| Harvest’s End | 1.00% | ~19 |
-| Helping Hand | 1.00% | ~19 |
+| Contingency Plans | 1.00% | ~20 |
+| Sic Transit Umbra | 1.00% | ~20 |
+| Bell-ringer | 1.00% | ~20 |
+| Silence Is Golden | 1.00% | ~20 |
+| Good Morning | 1.00% | ~20 |
+| From the Shadows | 1.00% | ~20 |
+| Starve the Beast | 1.00% | ~20 |
+| Harvest’s End | 1.00% | ~20 |
+| Helping Hand | 1.00% | ~20 |
 | You Clean It Up | 0.90% | ~18 |
 | Nice Try | 0.90% | ~18 |
 | Revelations | 0.80% | ~16 |
@@ -72,7 +72,7 @@ Rating: 3.57 (Ranked 1,062)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,949 (Ranked 235)  
+Progressed: 1,950 (Ranked 235)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-17 | 1,914 | 0 |
 | 2023-12-18 | 1,930 | 0 |
 | 2023-12-19 | 1,947 | 0 |
-| 2023-12-20 | 1,949 | 0 |
+| 2023-12-20 | 1,950 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

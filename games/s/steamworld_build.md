@@ -11,10 +11,10 @@
 | Conducted Trade | 65.00% | ~90 |
 | Aristocratic | 62.00% | ~86 |
 | Tutti Frutti | 55.00% | ~76 |
-| Gotta Go Fast | 45.00% | ~62 |
+| Gotta Go Fast | 46.00% | ~63 |
 | Slotting Machine | 39.00% | ~54 |
 | Systematic | 38.00% | ~52 |
-| Mine Sweeper | 34.00% | ~47 |
+| Mine Sweeper | 35.00% | ~48 |
 | Roll Out | 33.00% | ~46 |
 | Dopa-Miner | 25.00% | ~34 |
 | Up, Up And Away! | 25.00% | ~34 |

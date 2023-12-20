@@ -14,12 +14,12 @@ Rating: 4.50 (Ranked 602)
 | Fully Upgraded | 5.00% | ~1,623 |
 | Solo Capture | 5.00% | ~1,623 |
 | Teamwork | 5.00% | ~1,623 |
-| Clutch Capture | 4.00% | ~1,298 |
-| Cultured | 4.00% | ~1,298 |
-| Daily Dose | 4.00% | ~1,298 |
-| There you are! | 4.00% | ~1,298 |
-| Vaporous Expansion | 4.00% | ~1,298 |
-| Whoopsie | 4.00% | ~1,298 |
+| Clutch Capture | 4.00% | ~1,299 |
+| Cultured | 4.00% | ~1,299 |
+| Daily Dose | 4.00% | ~1,299 |
+| There you are! | 4.00% | ~1,299 |
+| Vaporous Expansion | 4.00% | ~1,299 |
+| Whoopsie | 4.00% | ~1,299 |
 | Animated | 3.00% | ~974 |
 | We have the best insurance | 3.00% | ~974 |
 | Ectoplasmic Entity | 3.00% | ~974 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 602)
 | Ultimate Defense | 0.20% | ~65 |
 | Line em' up | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,460 (Ranked 128)  
+Progressed: 32,464 (Ranked 128)  
 Completed: 69 (0.21%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 69 (0.21%) (Ranked 268)
 | 2023-12-17 | 32,383 | 69 |
 | 2023-12-18 | 32,422 | 69 |
 | 2023-12-19 | 32,454 | 69 |
-| 2023-12-20 | 32,460 | 69 |
+| 2023-12-20 | 32,464 | 69 |
 ## Awards
 Max (Great for Beginners): 324  (Ranked 251)  
 Sum: 2,918 (Ranked 181)  

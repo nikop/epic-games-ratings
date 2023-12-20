@@ -1,28 +1,28 @@
 # Aragami 2
 [Store](https://store.epicgames.com/en-US/p/aragami-2)  
 [View Rawdata](../../db/a/aragami_2.json)  
-Rating: 4.54 (Ranked 532)  
+Rating: 4.54 (Ranked 531)  
 Number of Ratings: 88  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~41,285 |
-| First Steps | 80.00% | ~35,514 |
-| Control the Shadows | 67.00% | ~29,743 |
-| Tools of the Trade | 63.00% | ~27,967 |
-| Apprentice | 60.00% | ~26,635 |
-| Secret Seeker | 57.00% | ~25,303 |
-| Forge of Assassins | 55.00% | ~24,416 |
-| Revenant | 52.00% | ~23,084 |
-| I don’t Care! | 45.00% | ~19,976 |
-| Bird of Prey | 37.00% | ~16,425 |
-| Engraved with Power | 32.00% | ~14,205 |
+| Awakening | 93.00% | ~41,286 |
+| First Steps | 80.00% | ~35,515 |
+| Control the Shadows | 67.00% | ~29,744 |
+| Tools of the Trade | 63.00% | ~27,968 |
+| Apprentice | 60.00% | ~26,636 |
+| Secret Seeker | 57.00% | ~25,305 |
+| Forge of Assassins | 55.00% | ~24,417 |
+| Revenant | 52.00% | ~23,085 |
+| I don’t Care! | 45.00% | ~19,977 |
+| Bird of Prey | 37.00% | ~16,426 |
+| Engraved with Power | 32.00% | ~14,206 |
 | Lady | 31.00% | ~13,762 |
 | Fashionable Assassin | 27.00% | ~11,986 |
-| Apex Predator | 24.00% | ~10,654 |
-| Soul Reaver | 23.00% | ~10,210 |
-| Embers | 22.00% | ~9,766 |
-| Wall Lizard | 20.00% | ~8,878 |
+| Apex Predator | 24.00% | ~10,655 |
+| Soul Reaver | 23.00% | ~10,211 |
+| Embers | 22.00% | ~9,767 |
+| Wall Lizard | 20.00% | ~8,879 |
 | Clinging to Life | 18.00% | ~7,991 |
 | Burning | 17.00% | ~7,547 |
 | Look Behind You | 16.00% | ~7,103 |
@@ -36,9 +36,9 @@ Number of Ratings: 88  (23.09.2022)
 | Bonds | 9.00% | ~3,995 |
 | Get Over Here | 9.00% | ~3,995 |
 | The Hidden Village | 9.00% | ~3,995 |
-| Denouement | 8.00% | ~3,551 |
-| A Pleasant Stay | 8.00% | ~3,551 |
-| Pilgrimage | 7.00% | ~3,107 |
+| Denouement | 8.00% | ~3,552 |
+| A Pleasant Stay | 8.00% | ~3,552 |
+| Pilgrimage | 7.00% | ~3,108 |
 | The Lookout | 5.00% | ~2,220 |
 | The Spirit of Vengeance | 5.00% | ~2,220 |
 | Hollow | 5.00% | ~2,220 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~888 |
 | Legacy | 2.00% | ~888 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,392 (Ranked 120)  
+Progressed: 44,394 (Ranked 120)  
 Completed: 247 (0.56%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 247 (0.56%) (Ranked 204)
 | 2023-12-17 | 44,373 | 247 |
 | 2023-12-18 | 44,378 | 247 |
 | 2023-12-19 | 44,390 | 247 |
-| 2023-12-20 | 44,392 | 247 |
+| 2023-12-20 | 44,394 | 247 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

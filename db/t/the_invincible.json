@@ -2193,9 +2193,9 @@
       "ID": "AchvAllMemories",
       "SetID": "1hj060c",
       "Name": "I remember everything!",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 97
+      "UsersEstimate": 105
     },
     {
       "ID": "AchvAssertive",
@@ -2313,9 +2313,9 @@
       "ID": "AchvNecro",
       "SetID": "1hj060c",
       "Name": "The Necroevolution",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 211
+      "UsersEstimate": 219
     },
     {
       "ID": "AchvNest",
@@ -2424,8 +2424,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-20T04:09:24.9459593+00:00",
+  "LastChanged_Achievements": "2023-12-20T05:09:37.1357771+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.232501+00:00",
-  "LastUpdate_Ratings": "2023-12-20T03:59:07.2245985+00:00",
-  "LastUpdate_Achievements": "2023-12-20T04:09:24.9459907+00:00"
+  "LastUpdate_Ratings": "2023-12-20T04:58:49.340723+00:00",
+  "LastUpdate_Achievements": "2023-12-20T05:09:37.1357967+00:00"
 }

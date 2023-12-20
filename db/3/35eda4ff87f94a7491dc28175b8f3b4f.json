@@ -257,9 +257,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16032,
+  "EOS_Progressed": 16038,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 1833,
+  "EOS_NewPlayers": 1835,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -5007,6 +5007,11 @@
       "Time": "2023-12-20T04:07:06.0782701+00:00",
       "NumProgressed": 16032,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-12-20T05:07:46.4204014+00:00",
+      "NumProgressed": 16038,
+      "NumCompleted": 70
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -5027,7 +5032,7 @@
       "Name": "Beam Me Up Scotty",
       "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "LISTEN_TO_ALL_6_VOICEMAILS_1_4",
@@ -5067,7 +5072,7 @@
       "Name": "Rescuer",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1924
+      "UsersEstimate": 1925
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -5075,7 +5080,7 @@
       "Name": "Secrets Out",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "UNLOCK_ALL_4_DOORS_1_3",
@@ -5098,7 +5103,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 16032,
+      "Progressed": 16038,
       "Completed": 70
     }
   ],
@@ -5106,8 +5111,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2023-12-18T03:58:42.6359817+00:00",
-  "LastChanged_Achievements": "2023-12-20T04:07:06.0782697+00:00",
+  "LastChanged_Achievements": "2023-12-20T05:07:46.420399+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:09.5453569+00:00",
-  "LastUpdate_Ratings": "2023-12-20T04:00:03.811068+00:00",
-  "LastUpdate_Achievements": "2023-12-20T04:07:06.0783126+00:00"
+  "LastUpdate_Ratings": "2023-12-20T05:00:11.2133114+00:00",
+  "LastUpdate_Achievements": "2023-12-20T05:07:46.4204372+00:00"
 }

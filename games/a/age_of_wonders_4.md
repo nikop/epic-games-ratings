@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.62 (Ranked 375)  
+Rating: 4.62 (Ranked 374)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,13 +13,13 @@ Rating: 4.62 (Ranked 375)
 | But this one is mine | 5.00% | ~294 |
 | Bone Peddler | 4.00% | ~235 |
 | Magical Synergy | 4.00% | ~235 |
-| Valley of Wonders | 3.00% | ~176 |
-| There Can Only Be One! | 3.00% | ~176 |
-| Full Ascension | 3.00% | ~176 |
-| Stronger Together | 3.00% | ~176 |
-| Seat of Power | 3.00% | ~176 |
-| In a Liege of Your Own | 3.00% | ~176 |
-| Intimidation Tactics | 3.00% | ~176 |
+| Valley of Wonders | 3.00% | ~177 |
+| There Can Only Be One! | 3.00% | ~177 |
+| Full Ascension | 3.00% | ~177 |
+| Stronger Together | 3.00% | ~177 |
+| Seat of Power | 3.00% | ~177 |
+| In a Liege of Your Own | 3.00% | ~177 |
+| Intimidation Tactics | 3.00% | ~177 |
 | Return of the Wizard King | 2.00% | ~118 |
 | Enchanted Archipelago | 2.00% | ~118 |
 | Digging for Treasure | 2.00% | ~118 |
@@ -42,11 +42,11 @@ Rating: 4.62 (Ranked 375)
 | Seal the Deal | 1.00% | ~59 |
 | A Conqueror's Cohort | 1.00% | ~59 |
 | Dawn of the Dread | 1.00% | ~59 |
-| Lord of Chaos | 0.90% | ~53 |
 | Eternal Lord | 0.90% | ~53 |
 | Against the Odds | 0.90% | ~53 |
 | The Eternal Court | 0.90% | ~53 |
 | God Emperor | 0.80% | ~47 |
+| Lord of Chaos | 0.80% | ~47 |
 | I've Got Everything I Need Right Here | 0.70% | ~41 |
 | The Goddess of Nature | 0.70% | ~41 |
 | Manufactured War | 0.70% | ~41 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 375)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,881 (Ranked 190)  
+Progressed: 5,884 (Ranked 190)  
 Completed: 7 (0.12%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,6 +278,7 @@ Completed: 7 (0.12%) (Ranked 294)
 | 2023-12-17 | 5,798 | 7 |
 | 2023-12-18 | 5,842 | 7 |
 | 2023-12-19 | 5,881 | 7 |
+| 2023-12-20 | 5,884 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 480)  
 Sum: 93 (Ranked 461)  

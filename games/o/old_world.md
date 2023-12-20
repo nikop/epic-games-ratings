@@ -139,6 +139,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Dualism | 0.10% | ~16 |
 | Enlightenment | 0.10% | ~16 |
 | Gnosticism | 0.10% | ~16 |
+| Legalism | 0.10% | ~16 |
 | Mythology | 0.10% | ~16 |
 | Redemption | 0.10% | ~16 |
 | Revelation | 0.10% | ~16 |
@@ -274,7 +275,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Papacy | 0.00% | ~0 |
 | Building Wonders | 0.00% | ~0 |
 | Ten Crowns | 0.00% | ~0 |
-| Legalism | 0.00% | ~0 |
 | Word of God | 0.00% | ~0 |
 | Cataphract Archer | 0.00% | ~0 |
 | Three Man Chariot | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Al Khazneh in Petra | 0.00% | ~0 |
 | Colosseum in Roma | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,842 (Ranked 157)  
+Progressed: 15,843 (Ranked 157)  
 Completed: 5 (0.03%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -609,7 +609,7 @@ Completed: 5 (0.03%) (Ranked 344)
 | 2023-12-17 | 15,807 | 5 |
 | 2023-12-18 | 15,826 | 5 |
 | 2023-12-19 | 15,840 | 5 |
-| 2023-12-20 | 15,842 | 5 |
+| 2023-12-20 | 15,843 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 279)  
 Sum: 1,904 (Ranked 220)  

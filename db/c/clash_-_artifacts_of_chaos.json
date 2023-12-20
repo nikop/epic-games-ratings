@@ -2,9 +2,9 @@
   "ID": "a4b249bd941143158a5f428d2b98d2e9",
   "Name": "Clash - Artifacts of Chaos",
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
-  "Ranking_EOS_Progress": 441,
+  "Ranking_EOS_Progress": 440,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 383,
+  "Ranking_EOS_NewPlayers": 378,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 126,
+  "EOS_Progressed": 127,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
@@ -376,6 +376,11 @@
       "Time": "2023-12-20T02:10:02.2446199+00:00",
       "NumProgressed": 126,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T05:10:24.449371+00:00",
+      "NumProgressed": 127,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 21,
@@ -385,9 +390,9 @@
       "ID": "Achievement1",
       "SetID": "jf6ho5",
       "Name": "Freedom",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 35,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "Achievement10",
@@ -395,7 +400,7 @@
       "Name": "The Pride of Moozhaw",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Achievement11",
@@ -435,7 +440,7 @@
       "Name": "Target Practice",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "Achievement16",
@@ -451,7 +456,7 @@
       "Name": "Declawing",
       "Percentage": 65,
       "XP": 35,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "Achievement18",
@@ -467,7 +472,7 @@
       "Name": "Corwid Hill",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Achievement2",
@@ -505,9 +510,9 @@
       "ID": "Achievement4",
       "SetID": "jf6ho5",
       "Name": "Omnia Vincit Amor",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 26
+      "UsersEstimate": 25
     },
     {
       "ID": "Achievement5",
@@ -521,9 +526,9 @@
       "ID": "Achievement6",
       "SetID": "jf6ho5",
       "Name": "Total Eclipse",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "Achievement7",
@@ -554,7 +559,7 @@
     {
       "ID": "jf6ho5",
       "IsBase": true,
-      "Progressed": 126,
+      "Progressed": 127,
       "Completed": 1
     }
   ],
@@ -562,8 +567,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-12-20T04:10:39.1224318+00:00",
+  "LastChanged_Achievements": "2023-12-20T05:10:24.4493707+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:10.316662+00:00",
-  "LastUpdate_Ratings": "2023-12-20T03:58:00.0645802+00:00",
-  "LastUpdate_Achievements": "2023-12-20T04:10:39.122446+00:00"
+  "LastUpdate_Ratings": "2023-12-20T04:57:47.1361787+00:00",
+  "LastUpdate_Achievements": "2023-12-20T05:10:24.4493821+00:00"
 }

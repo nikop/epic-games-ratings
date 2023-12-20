@@ -2639,9 +2639,9 @@
       "ID": "achievement_3",
       "SetID": "2cpn27e",
       "Name": "Bonds of Enmity",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 256
     },
     {
       "ID": "achievement_30",
@@ -2791,9 +2791,9 @@
       "ID": "achievement_47",
       "SetID": "2cpn27e",
       "Name": "Threaded Harmony",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 111
+      "UsersEstimate": 118
     },
     {
       "ID": "achievement_48",
@@ -2853,8 +2853,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-20T04:09:08.0999851+00:00",
+  "LastChanged_Achievements": "2023-12-20T05:09:13.2898274+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:11.6761115+00:00",
-  "LastUpdate_Ratings": "2023-12-20T04:01:02.9639781+00:00",
-  "LastUpdate_Achievements": "2023-12-20T04:09:08.1000374+00:00"
+  "LastUpdate_Ratings": "2023-12-20T05:01:42.4974593+00:00",
+  "LastUpdate_Achievements": "2023-12-20T05:09:13.2898664+00:00"
 }

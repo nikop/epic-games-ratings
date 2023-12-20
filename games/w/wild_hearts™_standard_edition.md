@@ -18,7 +18,7 @@
 | Helpful Heart | 41.00% | ~284 |
 | Flawless Crystal | 38.00% | ~263 |
 | Expert Conjuror | 38.00% | ~263 |
-| Bonds of Enmity | 36.00% | ~249 |
+| Bonds of Enmity | 37.00% | ~256 |
 | Distance Devourer | 35.00% | ~242 |
 | Master of the Skies | 33.00% | ~228 |
 | Counter Specialist | 33.00% | ~228 |
@@ -35,8 +35,8 @@
 | Reincarnation Cycle Stopper | 20.00% | ~138 |
 | Left Arm Leverager | 17.00% | ~118 |
 | Unrivaled in Arms | 17.00% | ~118 |
+| Threaded Harmony | 17.00% | ~118 |
 | Human Believer | 16.00% | ~111 |
-| Threaded Harmony | 16.00% | ~111 |
 | Canyon of Karakuri | 15.00% | ~104 |
 | Style Seeker | 15.00% | ~104 |
 | Quintessence of Form | 15.00% | ~104 |

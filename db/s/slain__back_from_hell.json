@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -250,9 +250,9 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 42349,
+  "EOS_Progressed": 42351,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 403,
+  "EOS_NewPlayers": 405,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -26685,6 +26685,11 @@
       "Time": "2023-12-20T03:06:21.5573003+00:00",
       "NumProgressed": 42349,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-12-20T05:08:07.4985876+00:00",
+      "NumProgressed": 42351,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -26704,7 +26709,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8893
+      "UsersEstimate": 8894
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -26760,7 +26765,7 @@
       "Name": "Enjoy The Silence",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "ACH_11_WOLF_GUARD_CRUSHED",
@@ -26768,7 +26773,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2117
+      "UsersEstimate": 2118
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -26927,7 +26932,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 42349,
+      "Progressed": 42351,
       "Completed": 30
     }
   ],
@@ -26935,8 +26940,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-12-18T19:58:40.3413682+00:00",
-  "LastChanged_Achievements": "2023-12-20T04:07:21.0491539+00:00",
+  "LastChanged_Achievements": "2023-12-20T05:08:07.4985874+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:31.5071316+00:00",
-  "LastUpdate_Ratings": "2023-12-20T04:00:20.0728068+00:00",
-  "LastUpdate_Achievements": "2023-12-20T04:07:21.049257+00:00"
+  "LastUpdate_Ratings": "2023-12-20T05:00:38.2488347+00:00",
+  "LastUpdate_Achievements": "2023-12-20T05:08:07.498751+00:00"
 }

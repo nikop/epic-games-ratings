@@ -22,7 +22,7 @@ Number of Ratings: 281  (23.09.2022)
 | I'm Hooked! | 2.00% | ~145 |
 | Diamond in the Rough | 0.80% | ~58 |
 | I'm the Captain Now | 0.70% | ~51 |
-| Marathon | 0.60% | ~43 |
+| Marathon | 0.70% | ~51 |
 | More than a Tourist | 0.50% | ~36 |
 | Hook, Line and Sinker | 0.50% | ~36 |
 | No Fin left to give | 0.50% | ~36 |

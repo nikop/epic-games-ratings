@@ -2,7 +2,7 @@
   "ID": "d3f97f301cb746d5b6e15424edb28afc",
   "Name": "Gas Station Simulator",
   "ProductSlug": "gas-station-simulator-ee93c7",
-  "Ranking_Rating": 482,
+  "Ranking_Rating": 481,
   "Ranking_Popularity": 567,
   "Ranking_PopularitySum": 567,
   "Ranking_EOS_Progress": 258,
@@ -3474,9 +3474,9 @@
       "ID": "GSS_ACH_01_SHOP_01",
       "SetID": "5fn8ia4",
       "Name": "First Customer!",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1133
     },
     {
       "ID": "GSS_ACH_02_SHOP_02",
@@ -4131,8 +4131,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-18T13:05:51.5719117+00:00",
-  "LastChanged_Achievements": "2023-12-20T04:07:02.2781643+00:00",
+  "LastChanged_Achievements": "2023-12-20T05:07:41.2090179+00:00",
   "LastUpdate_AppInfo": "2023-12-18T18:57:14.4494443+00:00",
-  "LastUpdate_Ratings": "2023-12-20T04:00:25.3505356+00:00",
-  "LastUpdate_Achievements": "2023-12-20T04:07:02.278243+00:00"
+  "LastUpdate_Ratings": "2023-12-20T05:00:45.970388+00:00",
+  "LastUpdate_Achievements": "2023-12-20T05:07:41.2091006+00:00"
 }

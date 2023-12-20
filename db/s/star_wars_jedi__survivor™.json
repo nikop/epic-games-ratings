@@ -6085,18 +6085,24 @@
       "Rating": 4.49,
       "NumberOfAwards": 5690,
       "NumberOfAwardsMax": 3658
+    },
+    {
+      "Time": "2023-12-20T04:57:53.0020441+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 5761,
+      "NumberOfAwardsMax": 3729
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5690,
-  "NumberOfAwardsMax": 3658,
+  "NumberOfAwards": 5761,
+  "NumberOfAwardsMax": 3729,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 3658
+      "Count": 3729
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6153,9 +6159,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 16310,
+  "EOS_Progressed": 16330,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 6641,
+  "EOS_NewPlayers": 6659,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -16093,6 +16099,11 @@
       "Time": "2023-12-20T04:10:21.0157274+00:00",
       "NumProgressed": 16310,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-12-20T05:09:59.4794144+00:00",
+      "NumProgressed": 16330,
+      "NumCompleted": 61
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:45.8400368+00:00",
@@ -16105,7 +16116,7 @@
       "Name": "Rooftop Duel",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 16147
+      "UsersEstimate": 16167
     },
     {
       "ID": "achievement_a10",
@@ -16113,7 +16124,7 @@
       "Name": "Tragedy",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 5708
+      "UsersEstimate": 5716
     },
     {
       "ID": "achievement_a11",
@@ -16121,7 +16132,7 @@
       "Name": "At the Precipice",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 5545
+      "UsersEstimate": 5552
     },
     {
       "ID": "achievement_a12",
@@ -16129,7 +16140,7 @@
       "Name": "Into the Abyss",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 5382
+      "UsersEstimate": 5389
     },
     {
       "ID": "achievement_a13",
@@ -16137,7 +16148,7 @@
       "Name": "A Place You Could Call Home",
       "Percentage": 31,
       "XP": 70,
-      "UsersEstimate": 5056
+      "UsersEstimate": 5062
     },
     {
       "ID": "achievement_a14",
@@ -16145,7 +16156,7 @@
       "Name": "Han Slowlo",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 4241
+      "UsersEstimate": 4246
     },
     {
       "ID": "achievement_a15",
@@ -16153,7 +16164,7 @@
       "Name": "So Uncivilized",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "achievement_a16",
@@ -16161,7 +16172,7 @@
       "Name": "You\u0027ve Got A Friend",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 2610
+      "UsersEstimate": 2613
     },
     {
       "ID": "achievement_a17",
@@ -16169,7 +16180,7 @@
       "Name": "Catch!",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 5056
+      "UsersEstimate": 5062
     },
     {
       "ID": "achievement_a18",
@@ -16177,7 +16188,7 @@
       "Name": "They Never Saw It Coming",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 9786
+      "UsersEstimate": 9798
     },
     {
       "ID": "achievement_a19",
@@ -16185,7 +16196,7 @@
       "Name": "This Is Canon",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 3262
+      "UsersEstimate": 3266
     },
     {
       "ID": "achievement_a2",
@@ -16193,7 +16204,7 @@
       "Name": "For Saw Gerrera",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 15658
+      "UsersEstimate": 15677
     },
     {
       "ID": "achievement_a20",
@@ -16201,7 +16212,7 @@
       "Name": "I\u0027m a Living Legend",
       "Percentage": 4,
       "XP": 70,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "achievement_a21",
@@ -16209,7 +16220,7 @@
       "Name": "Get Down From There",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "achievement_a22",
@@ -16217,7 +16228,7 @@
       "Name": "One With the Force",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "achievement_a23",
@@ -16225,7 +16236,7 @@
       "Name": "Mirror Match",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 9134
+      "UsersEstimate": 9145
     },
     {
       "ID": "achievement_a24",
@@ -16233,7 +16244,7 @@
       "Name": "Pinpoint",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "achievement_a25",
@@ -16241,7 +16252,7 @@
       "Name": "Slam Dunk",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1306
     },
     {
       "ID": "achievement_a26",
@@ -16249,15 +16260,15 @@
       "Name": "Riposte",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 5872
+      "UsersEstimate": 5879
     },
     {
       "ID": "achievement_a27",
       "SetID": "3m4b0pk",
       "Name": "Star Tours",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1143
     },
     {
       "ID": "achievement_a28",
@@ -16265,7 +16276,7 @@
       "Name": "King of the World",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1957
+      "UsersEstimate": 1960
     },
     {
       "ID": "achievement_a29",
@@ -16273,7 +16284,7 @@
       "Name": "There Is No Try",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 4241
+      "UsersEstimate": 4246
     },
     {
       "ID": "achievement_a3",
@@ -16281,7 +16292,7 @@
       "Name": "Grab Some Seat",
       "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 13211
+      "UsersEstimate": 13227
     },
     {
       "ID": "achievement_a30",
@@ -16289,7 +16300,7 @@
       "Name": "Now, This Isn\u0027t Podracing",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 7666
+      "UsersEstimate": 7675
     },
     {
       "ID": "achievement_a31",
@@ -16297,7 +16308,7 @@
       "Name": "Cleaning Up",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 7340
+      "UsersEstimate": 7348
     },
     {
       "ID": "achievement_a32",
@@ -16305,7 +16316,7 @@
       "Name": "They\u0027re Probably Fine",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 4893
+      "UsersEstimate": 4899
     },
     {
       "ID": "achievement_a33",
@@ -16313,7 +16324,7 @@
       "Name": "Skywalker",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 7176
+      "UsersEstimate": 7185
     },
     {
       "ID": "achievement_a34",
@@ -16321,7 +16332,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 2936
+      "UsersEstimate": 2939
     },
     {
       "ID": "achievement_a35",
@@ -16329,7 +16340,7 @@
       "Name": "Max Capacity",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1631
+      "UsersEstimate": 1633
     },
     {
       "ID": "achievement_a36",
@@ -16337,7 +16348,7 @@
       "Name": "Can You Pet the Bogling?",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 12559
+      "UsersEstimate": 12574
     },
     {
       "ID": "achievement_a37",
@@ -16345,7 +16356,7 @@
       "Name": "Caij Match",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1143
     },
     {
       "ID": "achievement_a38",
@@ -16353,7 +16364,7 @@
       "Name": "Who Gives a Puck",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 8970
+      "UsersEstimate": 8982
     },
     {
       "ID": "achievement_a39",
@@ -16369,7 +16380,7 @@
       "Name": "The Past Made Present",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 11091
+      "UsersEstimate": 11104
     },
     {
       "ID": "achievement_a40",
@@ -16377,7 +16388,7 @@
       "Name": "Greezy Money",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 5219
+      "UsersEstimate": 5226
     },
     {
       "ID": "achievement_a41",
@@ -16385,7 +16396,7 @@
       "Name": "Cobra Cal",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "achievement_a42",
@@ -16393,7 +16404,7 @@
       "Name": "A Presence I\u0027ve Not Felt Since...",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1631
+      "UsersEstimate": 1633
     },
     {
       "ID": "achievement_a43",
@@ -16401,7 +16412,7 @@
       "Name": "Hey, Luke At Us",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 6361
+      "UsersEstimate": 6369
     },
     {
       "ID": "achievement_a44",
@@ -16409,7 +16420,7 @@
       "Name": "Road House",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "achievement_a45",
@@ -16417,7 +16428,7 @@
       "Name": "Kitted Out",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 6035
+      "UsersEstimate": 6042
     },
     {
       "ID": "achievement_a46",
@@ -16425,7 +16436,7 @@
       "Name": "Skoova Diving",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "achievement_a47",
@@ -16433,7 +16444,7 @@
       "Name": "Growth Spurt",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "achievement_a48",
@@ -16441,7 +16452,7 @@
       "Name": "Gambler",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1143
     },
     {
       "ID": "achievement_a49",
@@ -16449,7 +16460,7 @@
       "Name": "Intergalactic Geographic",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "achievement_a5",
@@ -16457,7 +16468,7 @@
       "Name": "Survivors, We Adapt",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 9949
+      "UsersEstimate": 9961
     },
     {
       "ID": "achievement_a50",
@@ -16465,7 +16476,7 @@
       "Name": "Reconnaissance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1957
+      "UsersEstimate": 1960
     },
     {
       "ID": "achievement_a51",
@@ -16473,7 +16484,7 @@
       "Name": "Splurgle",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "achievement_a52",
@@ -16481,7 +16492,7 @@
       "Name": "The Jedi Path",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 3751
+      "UsersEstimate": 3756
     },
     {
       "ID": "achievement_a53",
@@ -16489,7 +16500,7 @@
       "Name": "Blood, Sweat, and Tears",
       "Percentage": 2,
       "XP": 70,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "achievement_a6",
@@ -16497,7 +16508,7 @@
       "Name": "Among the Masters",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 9786
+      "UsersEstimate": 9798
     },
     {
       "ID": "achievement_a7",
@@ -16505,7 +16516,7 @@
       "Name": "For the Path",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 7666
+      "UsersEstimate": 7675
     },
     {
       "ID": "achievement_a8",
@@ -16513,7 +16524,7 @@
       "Name": "Out of Bedlam",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 7013
+      "UsersEstimate": 7022
     },
     {
       "ID": "achievement_a9",
@@ -16521,23 +16532,23 @@
       "Name": "Tanalorr Bound",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 6035
+      "UsersEstimate": 6042
     }
   ],
   "AchievementSets": [
     {
       "ID": "3m4b0pk",
       "IsBase": true,
-      "Progressed": 16310,
+      "Progressed": 16330,
       "Completed": 61
     }
   ],
   "FirstSeen": "2023-04-28T17:02:09.2169534+00:00",
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
   "FirstSeenAchievements": "2023-07-31T22:07:03.059823+00:00",
-  "LastChanged": "2023-12-19T16:57:12.9194775+00:00",
-  "LastChanged_Achievements": "2023-12-20T04:10:21.0157271+00:00",
+  "LastChanged": "2023-12-20T04:57:53.0020439+00:00",
+  "LastChanged_Achievements": "2023-12-20T05:09:59.4794141+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:56:59.491928+00:00",
-  "LastUpdate_Ratings": "2023-12-20T03:58:07.2913828+00:00",
-  "LastUpdate_Achievements": "2023-12-20T04:10:21.0158189+00:00"
+  "LastUpdate_Ratings": "2023-12-20T04:57:53.002045+00:00",
+  "LastUpdate_Achievements": "2023-12-20T05:09:59.4795091+00:00"
 }

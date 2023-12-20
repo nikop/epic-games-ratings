@@ -5,11 +5,11 @@ Rating: 4.50 (Ranked 602)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 86.00% | ~387 |
-| Vanquisher of Robots | 77.00% | ~346 |
-| Party | 50.00% | ~225 |
+| Good start! | 86.00% | ~388 |
+| Vanquisher of Robots | 77.00% | ~347 |
+| Party | 50.00% | ~226 |
 | Impossible Cube | 46.00% | ~207 |
-| Knowledge is Power | 45.00% | ~202 |
+| Knowledge is Power | 45.00% | ~203 |
 | Through the Darkness | 44.00% | ~198 |
 | No Mercy | 43.00% | ~194 |
 | The Return of a Rat | 42.00% | ~189 |
@@ -25,8 +25,8 @@ Rating: 4.50 (Ranked 602)
 | Feed a God | 22.00% | ~99 |
 | To the Moon and Back | 20.00% | ~90 |
 | Great Flight | 19.00% | ~86 |
-| Holy Vengeance | 17.00% | ~76 |
-| Honorary Cultist | 13.00% | ~58 |
+| Holy Vengeance | 17.00% | ~77 |
+| Honorary Cultist | 13.00% | ~59 |
 | Brain and Brawn | 12.00% | ~54 |
 | Strength and Sorcery | 10.00% | ~45 |
 | Omae Wa Mou Shindeiru | 8.00% | ~36 |
@@ -37,11 +37,11 @@ Rating: 4.50 (Ranked 602)
 | Shopaholic | 3.00% | ~14 |
 | Zombie Lover | 3.00% | ~14 |
 | Munchkin | 2.00% | ~9 |
-| Full House | 1.00% | ~4 |
+| Full House | 1.00% | ~5 |
 | Vet | 0.90% | ~4 |
 | Real Achiever | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 450 (Ranked 334)  
+Progressed: 451 (Ranked 334)  
 Completed: 1 (0.22%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,6 +112,7 @@ Completed: 1 (0.22%) (Ranked 265)
 | 2023-12-17 | 446 | 1 |
 | 2023-12-18 | 447 | 1 |
 | 2023-12-19 | 450 | 1 |
+| 2023-12-20 | 451 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

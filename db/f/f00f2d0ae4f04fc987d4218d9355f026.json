@@ -158,9 +158,9 @@
       "ID": "BusyLabs",
       "SetID": "aaidab7",
       "Name": "Busy Labs",
-      "Percentage": 24,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "CirculatoryCollapse",
@@ -342,9 +342,9 @@
       "ID": "RichieRich",
       "SetID": "aaidab7",
       "Name": "Richie Rich",
-      "Percentage": 38,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "SilentKiller",
@@ -397,8 +397,8 @@
   ],
   "FirstSeen": "2023-12-14T22:59:18.6956288+00:00",
   "FirstSeenAchievements": "2023-12-12T04:03:25.1214352+00:00",
-  "LastChanged_Achievements": "2023-12-20T04:07:12.7654136+00:00",
+  "LastChanged_Achievements": "2023-12-20T05:07:55.8268136+00:00",
   "LastUpdate_AppInfo": "2023-12-19T04:57:14.3758981+00:00",
-  "LastUpdate_Ratings": "2023-12-20T03:57:31.7338867+00:00",
-  "LastUpdate_Achievements": "2023-12-20T04:07:12.7654336+00:00"
+  "LastUpdate_Ratings": "2023-12-20T04:57:26.3201635+00:00",
+  "LastUpdate_Achievements": "2023-12-20T05:07:55.8268284+00:00"
 }

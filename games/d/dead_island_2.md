@@ -1,38 +1,38 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 532)  
+Rating: 4.54 (Ranked 531)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 5.00% | ~37,643 |
-| Break A Leg | 4.00% | ~30,115 |
-| Hotel California | 4.00% | ~30,115 |
-| Git Gutte! | 3.00% | ~22,586 |
-| Coup de Grâce | 3.00% | ~22,586 |
-| Hazardous Materials | 3.00% | ~22,586 |
-| Friends Like These | 3.00% | ~22,586 |
-| Apex Predator | 3.00% | ~22,586 |
-| Personal Assistant Personally Assisted | 3.00% | ~22,586 |
-| One of Us | 3.00% | ~2,352 |
-| Whatever It Takes | 3.00% | ~2,352 |
-| Pork Chopped | 3.00% | ~2,352 |
-| Dr. Reed, I Presume? | 2.00% | ~15,057 |
-| Anger Management | 2.00% | ~15,057 |
-| Perks of the Job | 2.00% | ~15,057 |
-| Bookworm | 2.00% | ~15,057 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~15,057 |
-| But Doctor, I am Butcho | 2.00% | ~15,057 |
-| Slayer Squad | 2.00% | ~15,057 |
-| Can't Handle the Truth | 2.00% | ~15,057 |
-| Like Riding a Bike | 2.00% | ~15,057 |
-| Zombologist | 2.00% | ~15,057 |
-| Ooh, Shiny! | 2.00% | ~15,057 |
-| A Patton Emerges | 2.00% | ~15,057 |
-| I Am the Resurrection | 2.00% | ~15,057 |
-| Stacking the Deck | 2.00% | ~15,057 |
-| Our True Nature | 2.00% | ~15,057 |
-| This is My Weapon | 2.00% | ~15,057 |
+| Welcome To Hell-A | 5.00% | ~37,647 |
+| Break A Leg | 4.00% | ~30,117 |
+| Hotel California | 4.00% | ~30,117 |
+| Git Gutte! | 3.00% | ~22,588 |
+| Coup de Grâce | 3.00% | ~22,588 |
+| Hazardous Materials | 3.00% | ~22,588 |
+| Friends Like These | 3.00% | ~22,588 |
+| Apex Predator | 3.00% | ~22,588 |
+| Personal Assistant Personally Assisted | 3.00% | ~22,588 |
+| One of Us | 3.00% | ~2,354 |
+| Whatever It Takes | 3.00% | ~2,354 |
+| Pork Chopped | 3.00% | ~2,354 |
+| Dr. Reed, I Presume? | 2.00% | ~15,059 |
+| Anger Management | 2.00% | ~15,059 |
+| Perks of the Job | 2.00% | ~15,059 |
+| Bookworm | 2.00% | ~15,059 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~15,059 |
+| But Doctor, I am Butcho | 2.00% | ~15,059 |
+| Slayer Squad | 2.00% | ~15,059 |
+| Can't Handle the Truth | 2.00% | ~15,059 |
+| Like Riding a Bike | 2.00% | ~15,059 |
+| Zombologist | 2.00% | ~15,059 |
+| Ooh, Shiny! | 2.00% | ~15,059 |
+| A Patton Emerges | 2.00% | ~15,059 |
+| I Am the Resurrection | 2.00% | ~15,059 |
+| Stacking the Deck | 2.00% | ~15,059 |
+| Our True Nature | 2.00% | ~15,059 |
+| This is My Weapon | 2.00% | ~15,059 |
 | Making Your Mark | 1.00% | ~7,529 |
 | Jumbo Keyring | 1.00% | ~7,529 |
 | Humanity Distilled | 1.00% | ~7,529 |
@@ -43,13 +43,13 @@ Rating: 4.54 (Ranked 532)
 | Not Even My Final Form | 0.90% | ~6,776 |
 | Smorgasbord | 0.80% | ~6,023 |
 | Internet Famous | 0.80% | ~6,023 |
-| Make it So | 0.70% | ~5,270 |
-| On Safari | 0.70% | ~5,270 |
-| Variety is the Spice of Death | 0.70% | ~5,270 |
-| LA Influential | 0.50% | ~3,764 |
-| Sole Survivor | 0.50% | ~3,764 |
-| Gore Horse | 0.50% | ~3,764 |
-| Sharpest Tool in the Box | 0.50% | ~3,764 |
+| Make it So | 0.70% | ~5,271 |
+| On Safari | 0.70% | ~5,271 |
+| Variety is the Spice of Death | 0.70% | ~5,271 |
+| LA Influential | 0.50% | ~3,765 |
+| Sole Survivor | 0.50% | ~3,765 |
+| Gore Horse | 0.50% | ~3,765 |
+| Sharpest Tool in the Box | 0.50% | ~3,765 |
 | Top That, Tisha! | 0.40% | ~314 |
 | Survival Skills | 0.30% | ~2,259 |
 | Donk! | 0.20% | ~1,506 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 532)
 | Bucket List | 0.10% | ~753 |
 | Wilhelm | 0.10% | ~78 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 752,867 (Ranked 21)  
+Progressed: 752,937 (Ranked 21)  
 Completed: 2,488 (0.33%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 2,488 (0.33%) (Ranked 243)
 | 2023-12-17 | 748,324 | 2,488 |
 | 2023-12-18 | 750,555 | 2,489 |
 | 2023-12-19 | 752,530 | 2,488 |
-| 2023-12-20 | 752,867 | 2,488 |
+| 2023-12-20 | 752,937 | 2,488 |
 ## Awards
 Max (Great Boss Battles): 8,406  (Ranked 47)  
 Sum: 12,888 (Ranked 80)  

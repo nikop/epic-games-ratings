@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 576,
+  "EOS_Progressed": 578,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2338,6 +2338,11 @@
       "Time": "2023-12-20T01:38:31.5696959+00:00",
       "NumProgressed": 576,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T05:08:37.5724046+00:00",
+      "NumProgressed": 578,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2372,9 +2377,9 @@
       "ID": "ArtifactsEquipped",
       "SetID": "71c0n9i",
       "Name": "Dressed For Success",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 69
     },
     {
       "ID": "AttackCount",
@@ -2454,7 +2459,7 @@
       "Name": "Critical Hit",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "Deepstrike",
@@ -2494,7 +2499,7 @@
       "Name": "Double Kill",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "FlameAttackKillCount",
@@ -2588,9 +2593,9 @@
       "ID": "QuickRetaliationDeath",
       "SetID": "71c0n9i",
       "Name": "Whoops!",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 23
     },
     {
       "ID": "RanaCampaign",
@@ -2678,15 +2683,15 @@
       "Name": "Adept",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "WielderLevel2",
       "SetID": "71c0n9i",
       "Name": "Veteran",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 98
     },
     {
       "ID": "WielderLevel3",
@@ -2708,9 +2713,9 @@
       "ID": "WinBattleBeforeEnemyTurn",
       "SetID": "71c0n9i",
       "Name": "Humiliation",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 46
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -2781,15 +2786,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 576,
+      "Progressed": 578,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-20T04:08:42.9479369+00:00",
+  "LastChanged_Achievements": "2023-12-20T05:08:37.5724043+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:10.4027668+00:00",
-  "LastUpdate_Ratings": "2023-12-20T03:58:17.9647644+00:00",
-  "LastUpdate_Achievements": "2023-12-20T04:08:42.9479734+00:00"
+  "LastUpdate_Ratings": "2023-12-20T04:58:02.1875779+00:00",
+  "LastUpdate_Achievements": "2023-12-20T05:08:37.5724416+00:00"
 }

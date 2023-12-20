@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 887,
+  "EOS_Progressed": 890,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 622,
+  "EOS_NewPlayers": 625,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -1830,6 +1830,11 @@
       "Time": "2023-12-20T04:10:40.4001046+00:00",
       "NumProgressed": 887,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-20T05:10:26.1620263+00:00",
+      "NumProgressed": 890,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1839,9 +1844,9 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 444
+      "UsersEstimate": 436
     },
     {
       "ID": "ACH_02",
@@ -1863,9 +1868,9 @@
       "ID": "ACH_04",
       "SetID": "efe2lj",
       "Name": "Calm before the Storm",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_05",
@@ -1873,7 +1878,7 @@
       "Name": "To Battle",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_06",
@@ -1881,7 +1886,7 @@
       "Name": "Godslayer",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_07",
@@ -1913,7 +1918,7 @@
       "Name": "Trinity",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ACH_11",
@@ -1937,7 +1942,7 @@
       "Name": "Adventurer",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACH_14",
@@ -1945,7 +1950,7 @@
       "Name": "Airborne",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_15",
@@ -1953,7 +1958,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACH_16",
@@ -2033,15 +2038,15 @@
       "Name": "Fashion Victim",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACH_26",
       "SetID": "efe2lj",
       "Name": "Scholar",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 116
     },
     {
       "ID": "ACH_27",
@@ -2081,7 +2086,7 @@
       "Name": "Stone Collection",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ACH_33",
@@ -2128,14 +2133,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 887,
+      "Progressed": 890,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-20T04:10:40.4001045+00:00",
+  "LastChanged_Achievements": "2023-12-20T05:10:26.162026+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
-  "LastUpdate_Ratings": "2023-12-20T03:57:18.5438952+00:00",
-  "LastUpdate_Achievements": "2023-12-20T04:10:40.4001299+00:00"
+  "LastUpdate_Ratings": "2023-12-20T04:57:14.1900605+00:00",
+  "LastUpdate_Achievements": "2023-12-20T05:10:26.1620578+00:00"
 }
