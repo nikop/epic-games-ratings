@@ -431,9 +431,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 331683,
+  "EOS_Progressed": 331696,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3640,
+  "EOS_NewPlayers": 3637,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10271,6 +10271,11 @@
       "Time": "2023-12-20T05:06:21.1298873+00:00",
       "NumProgressed": 331683,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-20T06:06:31.0368791+00:00",
+      "NumProgressed": 331696,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -10283,7 +10288,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 9950
+      "UsersEstimate": 9951
     },
     {
       "ID": "S02_BRDA",
@@ -10299,7 +10304,7 @@
       "Name": "Rumors are true",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 2653
+      "UsersEstimate": 2654
     },
     {
       "ID": "S04_BRDC",
@@ -10419,7 +10424,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13267
+      "UsersEstimate": 13268
     },
     {
       "ID": "S19_CHALLENGES",
@@ -10475,7 +10480,7 @@
       "Name": "Pride is a sin, young Knight",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 2653
+      "UsersEstimate": 2654
     },
     {
       "ID": "S26_CRTA",
@@ -10602,7 +10607,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 331683,
+      "Progressed": 331696,
       "Completed": 5
     }
   ],
@@ -10610,8 +10615,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-17T23:00:34.9131333+00:00",
-  "LastChanged_Achievements": "2023-12-20T05:06:21.1298869+00:00",
+  "LastChanged_Achievements": "2023-12-20T06:06:31.0368787+00:00",
   "LastUpdate_AppInfo": "2023-12-14T20:57:08.8756847+00:00",
-  "LastUpdate_Ratings": "2023-12-20T04:57:00.3587527+00:00",
-  "LastUpdate_Achievements": "2023-12-20T05:06:21.1299741+00:00"
+  "LastUpdate_Ratings": "2023-12-20T05:56:59.0307068+00:00",
+  "LastUpdate_Achievements": "2023-12-20T06:06:31.0369486+00:00"
 }

@@ -1081,9 +1081,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 16662,
+  "EOS_Progressed": 16663,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 909,
+  "EOS_NewPlayers": 908,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -14226,6 +14226,11 @@
       "Time": "2023-12-20T05:09:48.3704042+00:00",
       "NumProgressed": 16662,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-20T06:09:57.703817+00:00",
+      "NumProgressed": 16663,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -14326,7 +14331,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "a_23",
@@ -14485,7 +14490,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 16662,
+      "Progressed": 16663,
       "Completed": 12
     }
   ],
@@ -14493,8 +14498,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-12-20T04:59:26.9581914+00:00",
-  "LastChanged_Achievements": "2023-12-20T05:09:48.370404+00:00",
+  "LastChanged_Achievements": "2023-12-20T06:09:57.7038167+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:03.7853176+00:00",
-  "LastUpdate_Ratings": "2023-12-20T04:59:26.9581918+00:00",
-  "LastUpdate_Achievements": "2023-12-20T05:09:48.3704703+00:00"
+  "LastUpdate_Ratings": "2023-12-20T05:59:23.8750066+00:00",
+  "LastUpdate_Achievements": "2023-12-20T06:09:57.7039111+00:00"
 }

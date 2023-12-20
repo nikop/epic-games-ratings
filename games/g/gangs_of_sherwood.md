@@ -13,25 +13,25 @@
 | Watch your Step! | 51.00% | ~44 |
 | MAX LEVEL | 51.00% | ~44 |
 | Right between the eyes | 39.00% | ~34 |
-| Spring Board | 38.00% | ~33 |
+| Spring Board | 39.00% | ~34 |
 | Starry Night | 37.00% | ~32 |
+| Rebel Unleashed | 36.00% | ~31 |
 | Merry Co-operation | 34.00% | ~30 |
-| Rebel Unleashed | 33.00% | ~29 |
-| Locksley's Tears | 31.00% | ~27 |
-| Finish Him! | 26.00% | ~23 |
-| Assault on the Ram | 24.00% | ~21 |
+| Locksley's Tears | 33.00% | ~29 |
+| Finish Him! | 28.00% | ~24 |
+| Assault on the Ram | 26.00% | ~23 |
 | Ultra Rebel Instinct | 24.00% | ~21 |
+| First Aid | 24.00% | ~21 |
 | Merry Go Round | 23.00% | ~20 |
-| First Aid | 22.00% | ~19 |
 | Savior | 20.00% | ~17 |
 | Hidden Experiment | 17.00% | ~15 |
 | Take Action! | 17.00% | ~15 |
-| Ascending Will | 15.00% | ~13 |
-| Ultra Combo | 13.00% | ~11 |
+| Ascending Will | 16.00% | ~14 |
+| Ultra Combo | 14.00% | ~12 |
 | Into the Lion's Den | 11.00% | ~10 |
 | Haute Couture | 11.00% | ~10 |
+| Sky High Fighter | 9.00% | ~8 |
 | The Gang prevails | 8.00% | ~7 |
-| Sky High Fighter | 8.00% | ~7 |
 | Brilliant Executioner | 7.00% | ~6 |
 | Bold and Bossy | 6.00% | ~5 |
 | Power of Friendship! | 6.00% | ~5 |

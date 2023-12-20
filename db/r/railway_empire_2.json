@@ -7371,9 +7371,9 @@
       "ID": "A46",
       "SetID": "9b7p7eo",
       "Name": "Mystery Tour",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1700
+      "UsersEstimate": 1725
     },
     {
       "ID": "A47",
@@ -7452,8 +7452,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-12-07T22:58:14.7831098+00:00",
-  "LastChanged_Achievements": "2023-12-20T05:03:47.8954519+00:00",
+  "LastChanged_Achievements": "2023-12-20T06:03:54.744262+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:12.4572163+00:00",
-  "LastUpdate_Ratings": "2023-12-20T05:02:41.7556148+00:00",
-  "LastUpdate_Achievements": "2023-12-20T05:03:47.8955381+00:00"
+  "LastUpdate_Ratings": "2023-12-20T06:02:47.6166543+00:00",
+  "LastUpdate_Achievements": "2023-12-20T06:03:54.7443258+00:00"
 }

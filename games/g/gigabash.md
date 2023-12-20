@@ -5,25 +5,25 @@ Rating: 4.56 (Ranked 497)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 11.00% | ~10,491 |
-| I've Had Enough! | 9.00% | ~8,584 |
-| Fists, Fury & a lot of Rage | 7.00% | ~6,676 |
-| Seasoned Fighter | 6.00% | ~5,722 |
-| All For One and One For All | 5.00% | ~4,769 |
-| Home Sweet Home? | 4.00% | ~3,815 |
-| A New Age | 3.00% | ~2,861 |
-| Oh Baby, A Triple | 2.00% | ~1,908 |
-| Master of Disguise | 2.00% | ~1,908 |
-| Symbiotic | 2.00% | ~1,908 |
+| All Grown Up! | 11.00% | ~10,498 |
+| I've Had Enough! | 9.00% | ~8,589 |
+| Fists, Fury & a lot of Rage | 7.00% | ~6,681 |
+| Seasoned Fighter | 6.00% | ~5,726 |
+| All For One and One For All | 5.00% | ~4,772 |
+| Home Sweet Home? | 4.00% | ~3,817 |
+| A New Age | 3.00% | ~2,863 |
+| Oh Baby, A Triple | 2.00% | ~1,909 |
+| Master of Disguise | 2.00% | ~1,909 |
+| Symbiotic | 2.00% | ~1,909 |
 | Battle Hardened | 1.00% | ~954 |
 | It's Mayhem! | 1.00% | ~954 |
 | Right back at'cha | 1.00% | ~954 |
 | Spectacular Finisher | 1.00% | ~954 |
-| Double Punch! | 0.90% | ~858 |
+| Double Punch! | 0.90% | ~859 |
 | Cautious Veteran | 0.80% | ~763 |
 | Martyrdom | 0.80% | ~763 |
-| Katamari | 0.60% | ~572 |
-| Zero-sum Game | 0.60% | ~572 |
+| Katamari | 0.60% | ~573 |
+| Zero-sum Game | 0.60% | ~573 |
 | Ninja Reflex | 0.50% | ~477 |
 | Taste Your Own Medicine | 0.50% | ~477 |
 | Just Getting Warmed Up | 0.30% | ~286 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 497)
 | Keeper of Knowledge | 0.00% | ~0 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 95,375 (Ranked 94)  
+Progressed: 95,436 (Ranked 94)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -56,7 +56,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-17 | 91,589 | 0 |
 | 2023-12-18 | 93,389 | 0 |
 | 2023-12-19 | 95,039 | 0 |
-| 2023-12-20 | 95,375 | 0 |
+| 2023-12-20 | 95,436 | 0 |
 ## Awards
 Max (Great Boss Battles): 32  (Ranked 501)  
 Sum: 32 (Ranked 521)  

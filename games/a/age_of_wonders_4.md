@@ -11,11 +11,11 @@ Rating: 4.62 (Ranked 374)
 | Walls Cannot Stop Us | 6.00% | ~353 |
 | From Friends to Family | 5.00% | ~294 |
 | But this one is mine | 5.00% | ~294 |
+| Full Ascension | 4.00% | ~235 |
 | Bone Peddler | 4.00% | ~235 |
 | Magical Synergy | 4.00% | ~235 |
 | Valley of Wonders | 3.00% | ~177 |
 | There Can Only Be One! | 3.00% | ~177 |
-| Full Ascension | 3.00% | ~177 |
 | Stronger Together | 3.00% | ~177 |
 | Seat of Power | 3.00% | ~177 |
 | In a Liege of Your Own | 3.00% | ~177 |

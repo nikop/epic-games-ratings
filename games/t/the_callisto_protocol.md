@@ -5,12 +5,12 @@ Rating: 4.19 (Ranked 938)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 14.00% | ~2,542 |
-| Get a Grip | 13.00% | ~2,360 |
-| Paper Jams | 13.00% | ~2,360 |
-| The Outer Way | 13.00% | ~2,360 |
+| Flesh Wound | 14.00% | ~2,543 |
+| Get a Grip | 13.00% | ~2,361 |
+| Paper Jams | 13.00% | ~2,361 |
+| The Outer Way | 13.00% | ~2,361 |
 | Desperate Times | 12.00% | ~2,179 |
-| Chew 'Em Up | 11.00% | ~1,997 |
+| Chew 'Em Up | 11.00% | ~1,998 |
 | Float Like A Butterfly | 10.00% | ~1,816 |
 | Reforged | 10.00% | ~1,816 |
 | Workplace Hazard | 8.00% | ~1,453 |
@@ -19,15 +19,15 @@ Rating: 4.19 (Ranked 938)
 | Without A Paddle | 7.00% | ~1,271 |
 | In the Pipe, Five by Five | 7.00% | ~1,271 |
 | Crash Site | 7.00% | ~1,271 |
-| Terminated | 6.00% | ~1,089 |
-| What Lies Beneath | 6.00% | ~1,089 |
-| Full Circle | 6.00% | ~1,089 |
-| Power Up | 6.00% | ~1,089 |
+| Terminated | 6.00% | ~1,090 |
+| What Lies Beneath | 6.00% | ~1,090 |
+| Full Circle | 6.00% | ~1,090 |
+| Power Up | 6.00% | ~1,090 |
 | Keep Fighting | 6.00% | ~365 |
 | Giving Back | 5.00% | ~908 |
 | You Need a Gun | 5.00% | ~908 |
 | I Do Belong Here | 5.00% | ~908 |
-| It's Time | 4.00% | ~243 |
+| It's Time | 4.00% | ~244 |
 | In Striking Distance | 3.00% | ~545 |
 | The Commonality | 3.00% | ~545 |
 | One Last Job | 2.00% | ~122 |
@@ -39,7 +39,7 @@ Rating: 4.19 (Ranked 938)
 | Parole Denied | 0.80% | ~49 |
 | Instigator | 0.70% | ~43 |
 | Information Overload | 0.70% | ~43 |
-| Quick Pick | 0.60% | ~36 |
+| Quick Pick | 0.60% | ~37 |
 | Subject Alpha | 0.40% | ~24 |
 | Don't Let It Mellow | 0.30% | ~18 |
 | The Protocol is About Life | 0.20% | ~36 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 938)
 | Bear Trap | 0.10% | ~6 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,157 (Ranked 148)  
+Progressed: 18,162 (Ranked 148)  
 Completed: 82 (0.45%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 82 (0.45%) (Ranked 222)
 | 2023-12-17 | 17,760 | 82 |
 | 2023-12-18 | 17,946 | 82 |
 | 2023-12-19 | 18,137 | 82 |
-| 2023-12-20 | 18,157 | 82 |
+| 2023-12-20 | 18,162 | 82 |
 ## Awards
 Max (Quickly Understood Controls): 89  (Ranked 387)  
 Sum: 529 (Ranked 326)  

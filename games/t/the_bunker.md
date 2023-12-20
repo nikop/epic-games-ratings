@@ -12,7 +12,7 @@
 | Alarm | 67.00% | ~105 |
 | Air Filtration | 64.00% | ~100 |
 | Broken | 62.00% | ~97 |
-| Radiation | 60.00% | ~94 |
+| Radiation | 61.00% | ~95 |
 | Descent | 59.00% | ~92 |
 | Awakenings | 58.00% | ~90 |
 | Cold Storage | 58.00% | ~90 |

@@ -2,7 +2,7 @@
   "ID": "e33138cc2b964d38a42a812b83b6507e",
   "Name": "City of Gangsters",
   "ProductSlug": "city-of-gangsters-6c2974",
-  "Ranking_Rating": 869,
+  "Ranking_Rating": 870,
   "Ranking_Popularity": 430,
   "Ranking_PopularitySum": 388,
   "Ranking_EOS_Progress": 49,
@@ -934,9 +934,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 357435,
+  "EOS_Progressed": 357438,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1037,
+  "EOS_NewPlayers": 1038,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28699,6 +28699,11 @@
       "Time": "2023-12-20T05:06:23.5617822+00:00",
       "NumProgressed": 357435,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-20T06:06:33.8327235+00:00",
+      "NumProgressed": 357438,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -28726,7 +28731,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 42892
+      "UsersEstimate": 42893
     },
     {
       "ID": "ach004",
@@ -28758,7 +28763,7 @@
       "Name": "Boots in the Ground",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 2859
+      "UsersEstimate": 2860
     },
     {
       "ID": "ach008",
@@ -28766,7 +28771,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 42892
+      "UsersEstimate": 42893
     },
     {
       "ID": "ach009",
@@ -28814,7 +28819,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 53615
+      "UsersEstimate": 53616
     },
     {
       "ID": "ach015",
@@ -28854,7 +28859,7 @@
       "Name": "Considerable Clams",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14297
+      "UsersEstimate": 14298
     },
     {
       "ID": "ach020",
@@ -28918,7 +28923,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 164420
+      "UsersEstimate": 164421
     },
     {
       "ID": "ach028",
@@ -28926,7 +28931,7 @@
       "Name": "Gin Joint",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 14297
+      "UsersEstimate": 14298
     },
     {
       "ID": "ach029",
@@ -28958,7 +28963,7 @@
       "Name": "An Affront to the Enemy",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 14297
+      "UsersEstimate": 14298
     },
     {
       "ID": "ach033",
@@ -28966,7 +28971,7 @@
       "Name": "Getting Fancy",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 2859
+      "UsersEstimate": 2860
     },
     {
       "ID": "ach034",
@@ -29046,7 +29051,7 @@
       "Name": "Street Fighter",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 25020
+      "UsersEstimate": 25021
     },
     {
       "ID": "ach044",
@@ -29054,7 +29059,7 @@
       "Name": "Friends from Back Home",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 14297
+      "UsersEstimate": 14298
     },
     {
       "ID": "ach045",
@@ -29070,7 +29075,7 @@
       "Name": "Friendly Gestures",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 25020
+      "UsersEstimate": 25021
     },
     {
       "ID": "ach047",
@@ -29134,7 +29139,7 @@
       "Name": "Bees Knees Bootlegger",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 14297
+      "UsersEstimate": 14298
     },
     {
       "ID": "ach055",
@@ -29286,7 +29291,7 @@
       "Name": "Half Century Mark",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 14297
+      "UsersEstimate": 14298
     },
     {
       "ID": "ach075",
@@ -29318,7 +29323,7 @@
       "Name": "People Person",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 25020
+      "UsersEstimate": 25021
     },
     {
       "ID": "ach079",
@@ -29349,7 +29354,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 357435,
+      "Progressed": 357438,
       "Completed": 7
     }
   ],
@@ -29357,8 +29362,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-12-19T23:00:03.092515+00:00",
-  "LastChanged_Achievements": "2023-12-20T05:06:23.5617819+00:00",
+  "LastChanged_Achievements": "2023-12-20T06:06:33.8327231+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:53.9882256+00:00",
-  "LastUpdate_Ratings": "2023-12-20T05:02:23.7935754+00:00",
-  "LastUpdate_Achievements": "2023-12-20T05:06:23.5619858+00:00"
+  "LastUpdate_Ratings": "2023-12-20T06:01:49.7886651+00:00",
+  "LastUpdate_Achievements": "2023-12-20T06:06:33.8329512+00:00"
 }

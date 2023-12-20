@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2307,
+  "EOS_Progressed": 2309,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 536,
+  "EOS_NewPlayers": 535,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2219,6 +2219,11 @@
       "Time": "2023-12-20T05:08:32.9463528+00:00",
       "NumProgressed": 2307,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T06:08:43.3850348+00:00",
+      "NumProgressed": 2309,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -2269,9 +2274,9 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "c167foo",
       "Name": "Monster Power",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -2295,7 +2300,7 @@
       "Name": "Terrible Journey",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -2431,7 +2436,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 692
+      "UsersEstimate": 693
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -2606,14 +2611,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 2307,
+      "Progressed": 2309,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-20T05:08:32.9463527+00:00",
+  "LastChanged_Achievements": "2023-12-20T06:08:43.3850345+00:00",
   "LastUpdate_AppInfo": "2023-12-19T11:57:06.3691956+00:00",
-  "LastUpdate_Ratings": "2023-12-20T04:56:57.4057004+00:00",
-  "LastUpdate_Achievements": "2023-12-20T05:08:32.9463874+00:00"
+  "LastUpdate_Ratings": "2023-12-20T05:56:55.9746941+00:00",
+  "LastUpdate_Achievements": "2023-12-20T06:08:43.385068+00:00"
 }

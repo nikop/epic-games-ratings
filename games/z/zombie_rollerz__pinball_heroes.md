@@ -1,7 +1,7 @@
 # Zombie Rollerz: Pinball Heroes
 [Store](https://store.epicgames.com/en-US/p/zombie-rollerz-7aa027)  
 [View Rawdata](../../db/z/zombie_rollerz__pinball_heroes.json)  
-Rating: 4.29 (Ranked 855)  
+Rating: 4.29 (Ranked 856)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -25,9 +25,9 @@ Rating: 4.29 (Ranked 855)
 | The Ninja | 25.00% | ~51 |
 | Inferno Ruins | 24.00% | ~49 |
 | I'm Rich | 22.00% | ~45 |
+| Untouchable | 21.00% | ~43 |
 | 1 is all I need | 21.00% | ~43 |
 | The Slime | 21.00% | ~43 |
-| Untouchable | 20.00% | ~41 |
 | The Giant | 17.00% | ~35 |
 | The Blacksmith | 16.00% | ~33 |
 | The Flower | 16.00% | ~33 |

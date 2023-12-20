@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 890,
+  "EOS_Progressed": 891,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 625,
+  "EOS_NewPlayers": 626,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -1835,6 +1835,11 @@
       "Time": "2023-12-20T05:10:26.1620263+00:00",
       "NumProgressed": 890,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-20T06:10:35.0823262+00:00",
+      "NumProgressed": 891,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1846,7 +1851,7 @@
       "Name": "Break Out",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "ACH_02",
@@ -1854,7 +1859,7 @@
       "Name": "Find Allies",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_03",
@@ -1910,7 +1915,7 @@
       "Name": "The Mentor",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_10",
@@ -1982,7 +1987,7 @@
       "Name": "Shatter Them All",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_19",
@@ -2022,7 +2027,7 @@
       "Name": "Geared Up",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_24",
@@ -2102,7 +2107,7 @@
       "Name": "The Collector",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_35",
@@ -2133,14 +2138,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 890,
+      "Progressed": 891,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-20T05:10:26.162026+00:00",
+  "LastChanged_Achievements": "2023-12-20T06:10:35.082326+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
-  "LastUpdate_Ratings": "2023-12-20T04:57:14.1900605+00:00",
-  "LastUpdate_Achievements": "2023-12-20T05:10:26.1620578+00:00"
+  "LastUpdate_Ratings": "2023-12-20T05:57:12.6688897+00:00",
+  "LastUpdate_Achievements": "2023-12-20T06:10:35.0823514+00:00"
 }

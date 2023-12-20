@@ -7663,9 +7663,9 @@
       "Count": 3800
     }
   ],
-  "EOS_Progressed": 146463,
+  "EOS_Progressed": 146467,
   "EOS_Completed": 325,
-  "EOS_NewPlayers": 1568,
+  "EOS_NewPlayers": 1569,
   "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -33163,6 +33163,11 @@
       "Time": "2023-12-20T05:03:54.7240836+00:00",
       "NumProgressed": 146463,
       "NumCompleted": 325
+    },
+    {
+      "Time": "2023-12-20T06:04:02.0257583+00:00",
+      "NumProgressed": 146467,
+      "NumCompleted": 325
     }
   ],
   "TotalAchievements": 112,
@@ -33340,9 +33345,9 @@
       "ID": "chest01",
       "SetID": "anfd17p",
       "Name": "Sponsored by Argon",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11717
+      "UsersEstimate": 13182
     },
     {
       "ID": "chest02",
@@ -33646,7 +33651,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10252
+      "UsersEstimate": 10253
     },
     {
       "ID": "gold02",
@@ -34069,15 +34074,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 146463,
+      "Progressed": 146467,
       "Completed": 325
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-20T03:02:58.4385215+00:00",
-  "LastChanged_Achievements": "2023-12-20T05:03:54.7240834+00:00",
+  "LastChanged_Achievements": "2023-12-20T06:04:02.0257578+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.001195+00:00",
-  "LastUpdate_Ratings": "2023-12-20T05:03:15.2737461+00:00",
-  "LastUpdate_Achievements": "2023-12-20T05:03:54.7242842+00:00"
+  "LastUpdate_Ratings": "2023-12-20T06:03:21.798206+00:00",
+  "LastUpdate_Achievements": "2023-12-20T06:04:02.0259623+00:00"
 }

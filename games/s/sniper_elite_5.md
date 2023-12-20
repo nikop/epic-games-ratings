@@ -5,22 +5,22 @@ Rating: 4.44 (Ranked 685)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,908 |
-| Confirming Suspicions | 42.00% | ~1,705 |
-| The Kraken Wakes | 37.00% | ~1,502 |
-| It's Starting to Crack | 34.00% | ~1,380 |
+| Meeting Resistance | 47.00% | ~1,909 |
+| Confirming Suspicions | 42.00% | ~1,706 |
+| The Kraken Wakes | 37.00% | ~1,503 |
+| It's Starting to Crack | 34.00% | ~1,381 |
 | Change the Channel | 31.00% | ~1,259 |
 | Lord of War | 30.00% | ~1,218 |
-| Taking it back | 29.00% | ~1,177 |
+| Taking it back | 29.00% | ~1,178 |
 | Resourceful | 27.00% | ~1,096 |
 | Target America | 27.00% | ~1,096 |
 | The Kraken Sleeps | 25.00% | ~1,015 |
-| As Quiet as a Mouse | 24.00% | ~974 |
+| As Quiet as a Mouse | 24.00% | ~975 |
 | Liberté | 23.00% | ~934 |
 | Organ Grinder | 23.00% | ~934 |
 | Sharpshooter | 23.00% | ~934 |
-| Gunslinger | 19.00% | ~771 |
-| Explosive Efficiency | 19.00% | ~771 |
+| Gunslinger | 19.00% | ~772 |
+| Explosive Efficiency | 19.00% | ~772 |
 | Climbing the Ladder | 17.00% | ~690 |
 | Just a Flesh Wound | 17.00% | ~690 |
 | Der Geist | 17.00% | ~690 |
@@ -29,10 +29,10 @@ Rating: 4.44 (Ranked 685)
 | Skirmisher | 15.00% | ~609 |
 | Die Nussknacker Sweet! | 15.00% | ~609 |
 | Brains of the Operation | 15.00% | ~609 |
-| No Stone Unturned | 14.00% | ~568 |
-| Opposing Force | 14.00% | ~568 |
-| Enemy at the Gates | 14.00% | ~568 |
-| Fields of Glory | 14.00% | ~568 |
+| No Stone Unturned | 14.00% | ~569 |
+| Opposing Force | 14.00% | ~569 |
+| Enemy at the Gates | 14.00% | ~569 |
+| Fields of Glory | 14.00% | ~569 |
 | Set Europe Ablaze | 13.00% | ~528 |
 | Precision Is Key | 10.00% | ~406 |
 | My Little Friend | 10.00% | ~406 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 685)
 | Going Overboard | 0.60% | ~24 |
 | Stroll in the Woods | 0.50% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,060 (Ranked 204)  
+Progressed: 4,061 (Ranked 204)  
 Completed: 11 (0.27%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,6 +319,7 @@ Completed: 11 (0.27%) (Ranked 254)
 | 2023-12-17 | 4,049 | 11 |
 | 2023-12-18 | 4,057 | 11 |
 | 2023-12-19 | 4,060 | 11 |
+| 2023-12-20 | 4,061 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 517)  
 Sum: 28 (Ranked 531)  

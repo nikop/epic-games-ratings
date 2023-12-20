@@ -6,20 +6,20 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 8.00% | ~281 |
+| Malpractice Assurance | 8.00% | ~282 |
 | Lost and Found | 5.00% | ~176 |
 | This Belongs in a Museum | 4.00% | ~5,146 |
 | Autodidact | 4.00% | ~5,146 |
 | This guy... again? | 4.00% | ~141 |
 | Bloody Graduation | 4.00% | ~141 |
-| Serenity Now! | 3.00% | ~3,859 |
-| Not Today! | 3.00% | ~3,859 |
-| Creep and Sleep | 3.00% | ~3,859 |
-| Meat and Greet | 3.00% | ~3,859 |
-| Catch and Decease | 3.00% | ~3,859 |
-| Overdue Notice | 3.00% | ~3,859 |
-| Escape from the Black Hole | 3.00% | ~3,859 |
-| Ploughshares to Swords | 3.00% | ~105 |
+| Serenity Now! | 3.00% | ~3,860 |
+| Not Today! | 3.00% | ~3,860 |
+| Creep and Sleep | 3.00% | ~3,860 |
+| Meat and Greet | 3.00% | ~3,860 |
+| Catch and Decease | 3.00% | ~3,860 |
+| Overdue Notice | 3.00% | ~3,860 |
+| Escape from the Black Hole | 3.00% | ~3,860 |
+| Ploughshares to Swords | 3.00% | ~106 |
 | Don't Make Me Turn This Coach Around | 2.00% | ~2,573 |
 | It Rings a Bell | 2.00% | ~2,573 |
 | Dissector | 2.00% | ~2,573 |
@@ -35,25 +35,25 @@ Number of Ratings: 7,767  (23.09.2022)
 | FNG | 2.00% | ~2,573 |
 | Nope | 2.00% | ~2,573 |
 | Friends 'Til the End | 2.00% | ~70 |
-| Resurrection | 1.00% | ~1,286 |
-| Unleash Hell | 1.00% | ~1,286 |
-| Funny Guy | 1.00% | ~1,286 |
-| Long Live the King | 1.00% | ~1,286 |
-| Wyrdly Reconstructed | 1.00% | ~1,286 |
-| Boxcar Kid | 1.00% | ~1,286 |
-| Unfulfilled Desires | 1.00% | ~1,286 |
-| Hope Rekindled | 1.00% | ~1,286 |
-| Predator | 1.00% | ~1,286 |
-| Banishment | 1.00% | ~1,286 |
-| Deprogramming | 1.00% | ~1,286 |
-| Now Stay Dead | 1.00% | ~1,286 |
-| Reverse Banditry | 1.00% | ~1,286 |
-| A Clear Conscience | 1.00% | ~1,286 |
-| When You Want Something Done Right | 1.00% | ~1,286 |
-| Worldly Traveller | 1.00% | ~1,286 |
-| Utopia | 1.00% | ~1,286 |
-| Unshackled | 1.00% | ~1,286 |
-| Road Trip | 1.00% | ~1,286 |
+| Resurrection | 1.00% | ~1,287 |
+| Unleash Hell | 1.00% | ~1,287 |
+| Funny Guy | 1.00% | ~1,287 |
+| Long Live the King | 1.00% | ~1,287 |
+| Wyrdly Reconstructed | 1.00% | ~1,287 |
+| Boxcar Kid | 1.00% | ~1,287 |
+| Unfulfilled Desires | 1.00% | ~1,287 |
+| Hope Rekindled | 1.00% | ~1,287 |
+| Predator | 1.00% | ~1,287 |
+| Banishment | 1.00% | ~1,287 |
+| Deprogramming | 1.00% | ~1,287 |
+| Now Stay Dead | 1.00% | ~1,287 |
+| Reverse Banditry | 1.00% | ~1,287 |
+| A Clear Conscience | 1.00% | ~1,287 |
+| When You Want Something Done Right | 1.00% | ~1,287 |
+| Worldly Traveller | 1.00% | ~1,287 |
+| Utopia | 1.00% | ~1,287 |
+| Unshackled | 1.00% | ~1,287 |
+| Road Trip | 1.00% | ~1,287 |
 | Ichthyophobic | 0.90% | ~1,158 |
 | No More Mouths to Feed | 0.90% | ~1,158 |
 | Hot Air | 0.90% | ~1,158 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,647 (Ranked 85)  
+Progressed: 128,653 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 3 (0.00%) (Ranked 384)
 | 2023-12-17 | 128,143 | 3 |
 | 2023-12-18 | 128,398 | 3 |
 | 2023-12-19 | 128,605 | 3 |
-| 2023-12-20 | 128,647 | 3 |
+| 2023-12-20 | 128,653 | 3 |
 ## Awards
 Max (Character Customization): 7,795  (Ranked 50)  
 Sum: 20,811 (Ranked 58)  

@@ -269,9 +269,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 333671,
+  "EOS_Progressed": 333675,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2079,
+  "EOS_NewPlayers": 2074,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14379,6 +14379,11 @@
       "Time": "2023-12-20T05:08:22.5373096+00:00",
       "NumProgressed": 333671,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T06:08:33.0984901+00:00",
+      "NumProgressed": 333675,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-03T18:03:11.7010747+00:00",
@@ -14415,7 +14420,7 @@
       "Name": "Epsilon Base",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 146815
+      "UsersEstimate": 146817
     },
     {
       "ID": "ACHV_M02_COMPLETE",
@@ -14423,7 +14428,7 @@
       "Name": "The Boneyard",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 106775
+      "UsersEstimate": 106776
     },
     {
       "ID": "ACHV_M03_COMPLETE",
@@ -14431,7 +14436,7 @@
       "Name": "Cape Wrath",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 70071
+      "UsersEstimate": 70072
     },
     {
       "ID": "ACHV_M04_COMPLETE",
@@ -14455,7 +14460,7 @@
       "Name": "Beladin Dune Sea",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 33367
+      "UsersEstimate": 33368
     },
     {
       "ID": "ACHV_M07_COMPLETE",
@@ -14463,7 +14468,7 @@
       "Name": "Gaalsien Base",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 30030
+      "UsersEstimate": 30031
     },
     {
       "ID": "ACHV_M08_COMPLETE",
@@ -14471,7 +14476,7 @@
       "Name": "Tombs of the Ancients",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 30030
+      "UsersEstimate": 30031
     },
     {
       "ID": "ACHV_M09_COMPLETE",
@@ -14767,20 +14772,20 @@
       "Name": "Campaign Tutorial",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 170172
+      "UsersEstimate": 170174
     }
   ],
   "AchievementSets": [
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 333671,
+      "Progressed": 333675,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 333660,
+      "Progressed": 333664,
       "Completed": 1
     }
   ],
@@ -14788,8 +14793,8 @@
   "FirstSeenRating": "2023-08-25T17:58:52.6937375+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
   "LastChanged": "2023-12-18T00:02:47.04489+00:00",
-  "LastChanged_Achievements": "2023-12-20T05:08:22.5373092+00:00",
+  "LastChanged_Achievements": "2023-12-20T06:08:33.0984898+00:00",
   "LastUpdate_AppInfo": "2023-12-15T02:21:14.2325481+00:00",
-  "LastUpdate_Ratings": "2023-12-20T05:02:47.8423447+00:00",
-  "LastUpdate_Achievements": "2023-12-20T05:08:22.5374193+00:00"
+  "LastUpdate_Ratings": "2023-12-20T06:02:53.8717534+00:00",
+  "LastUpdate_Achievements": "2023-12-20T06:08:33.0985627+00:00"
 }

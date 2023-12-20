@@ -35,8 +35,8 @@
 | You can't stop me, bro! | 35.00% | ~47 |
 | You are no match for me, Billy! | 34.00% | ~46 |
 | Catch the bus with me! | 33.00% | ~44 |
+| Karaoke king | 33.00% | ~44 |
 | Meatballs, coming up! | 32.00% | ~43 |
-| Karaoke king | 32.00% | ~43 |
 | I'm going to get a concussion | 31.00% | ~42 |
 | Another one bites the iron | 29.00% | ~39 |
 | Ripe Meat Off The Bone! | 26.00% | ~35 |

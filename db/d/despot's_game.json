@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 567,
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 370,
+  "Ranking_EOS_NewPlayers": 365,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 451,
+  "EOS_Progressed": 452,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -533,6 +533,11 @@
       "Time": "2023-12-20T05:06:24.3315513+00:00",
       "NumProgressed": 451,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T06:06:34.5646602+00:00",
+      "NumProgressed": 452,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -616,7 +621,7 @@
       "Name": "Fat of the Earth",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "finished-quest-cube",
@@ -624,7 +629,7 @@
       "Name": "Impossible Cube",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "finished-quest-flight",
@@ -646,9 +651,9 @@
       "ID": "finished-quest-nurgle",
       "SetID": "799afm0",
       "Name": "Feed a God",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 95
     },
     {
       "ID": "finished-quest-pit",
@@ -656,7 +661,7 @@
       "Name": "Assemble a Meganewbie",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "finished-quest-rat",
@@ -664,7 +669,7 @@
       "Name": "The Return of a Rat",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "finished-quest-reaper",
@@ -678,9 +683,9 @@
       "ID": "finished-quest-sci",
       "SetID": "799afm0",
       "Name": "Knowledge is Power",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 199
     },
     {
       "ID": "finished-quest-secret",
@@ -712,7 +717,7 @@
       "Name": "He\u0027s Seen It All",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "last-hero",
@@ -720,7 +725,7 @@
       "Name": "Last Man Standing",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "save-zombie",
@@ -752,7 +757,7 @@
       "Name": "Great Hero",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "win-first-biom",
@@ -760,7 +765,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "win-first-level",
@@ -768,7 +773,7 @@
       "Name": "Good start!",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "win-koth-fights1",
@@ -800,7 +805,7 @@
       "Name": "Through the Darkness",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "win-with-3-cultists",
@@ -823,7 +828,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 451,
+      "Progressed": 452,
       "Completed": 1
     }
   ],
@@ -831,8 +836,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-12-20T05:06:24.3315509+00:00",
+  "LastChanged_Achievements": "2023-12-20T06:06:34.56466+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:10.0467066+00:00",
-  "LastUpdate_Ratings": "2023-12-20T04:57:43.6854253+00:00",
-  "LastUpdate_Achievements": "2023-12-20T05:06:24.3315745+00:00"
+  "LastUpdate_Ratings": "2023-12-20T05:57:41.5510331+00:00",
+  "LastUpdate_Achievements": "2023-12-20T06:06:34.5646816+00:00"
 }

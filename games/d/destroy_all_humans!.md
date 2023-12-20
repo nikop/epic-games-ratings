@@ -15,8 +15,8 @@ Number of Ratings: 85  (23.09.2022)
 | Shop Til They Drop | 47.00% | ~28 |
 | Perfect Probulator | 46.00% | ~27 |
 | Fly Me to the Moon Base | 36.00% | ~21 |
+| Freshly Squeezed | 36.00% | ~21 |
 | Ducks in a Row, Fish in a Barrel | 36.00% | ~21 |
-| Freshly Squeezed | 34.00% | ~20 |
 | Earthly Pleasures | 32.00% | ~19 |
 | Pimp My Raid | 31.00% | ~18 |
 | Forbidden Donut | 29.00% | ~17 |

@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 811,
+  "EOS_Progressed": 812,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 260,
   "EOS_NewCompleters": 0,
@@ -2175,6 +2175,11 @@
       "Time": "2023-12-20T03:08:57.0589078+00:00",
       "NumProgressed": 811,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T06:09:46.6634519+00:00",
+      "NumProgressed": 812,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -2185,9 +2190,9 @@
       "ID": "AchvActivateProbe",
       "SetID": "1hj060c",
       "Name": "The Teleprobe",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 422
+      "UsersEstimate": 414
     },
     {
       "ID": "AchvAllMemories",
@@ -2195,7 +2200,7 @@
       "Name": "I remember everything!",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "AchvAssertive",
@@ -2219,7 +2224,7 @@
       "Name": "Peacemaker",
       "Percentage": 21,
       "XP": 90,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "AchvBombing",
@@ -2313,9 +2318,9 @@
       "ID": "AchvNecro",
       "SetID": "1hj060c",
       "Name": "The Necroevolution",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 219
+      "UsersEstimate": 211
     },
     {
       "ID": "AchvNest",
@@ -2363,7 +2368,7 @@
       "Name": "The Camp",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "AchvReachCity",
@@ -2371,15 +2376,15 @@
       "Name": "The City",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "AchvReachCondor",
       "SetID": "1hj060c",
       "Name": "The Condor",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 260
+      "UsersEstimate": 268
     },
     {
       "ID": "AchvSurvivors",
@@ -2418,14 +2423,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 811,
+      "Progressed": 812,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-20T05:09:37.1357771+00:00",
+  "LastChanged_Achievements": "2023-12-20T06:09:46.6634513+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.232501+00:00",
-  "LastUpdate_Ratings": "2023-12-20T04:58:49.340723+00:00",
-  "LastUpdate_Achievements": "2023-12-20T05:09:37.1357967+00:00"
+  "LastUpdate_Ratings": "2023-12-20T05:58:46.5766877+00:00",
+  "LastUpdate_Achievements": "2023-12-20T06:09:46.6634773+00:00"
 }

@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2763,
+  "EOS_Progressed": 2764,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 306,
+  "EOS_NewPlayers": 307,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6747,6 +6747,11 @@
       "Time": "2023-12-20T02:05:55.3286065+00:00",
       "NumProgressed": 2763,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T06:06:59.6022027+00:00",
+      "NumProgressed": 2764,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -6767,7 +6772,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1105
+      "UsersEstimate": 1106
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -6935,7 +6940,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -6965,9 +6970,9 @@
       "ID": "ML_ACHIEVEMENT_27",
       "SetID": "c7hf6a4",
       "Name": "Clean Race",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1133
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -7053,9 +7058,9 @@
       "ID": "ML_ACHIEVEMENT_38",
       "SetID": "c7hf6a4",
       "Name": "Eat My Dust",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1271
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -7063,7 +7068,7 @@
       "Name": "Champagne Spray",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -7111,7 +7116,7 @@
       "Name": "Rivals to the End",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -7150,14 +7155,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2763,
+      "Progressed": 2764,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-20T05:06:49.2361514+00:00",
+  "LastChanged_Achievements": "2023-12-20T06:06:59.602202+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:35.5257739+00:00",
-  "LastUpdate_Ratings": "2023-12-20T04:59:14.57043+00:00",
-  "LastUpdate_Achievements": "2023-12-20T05:06:49.2362086+00:00"
+  "LastUpdate_Ratings": "2023-12-20T05:59:11.4367712+00:00",
+  "LastUpdate_Achievements": "2023-12-20T06:06:59.6022541+00:00"
 }

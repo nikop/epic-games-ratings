@@ -4,7 +4,7 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 468,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
@@ -450,9 +450,9 @@
       "ID": "f1",
       "SetID": "b1ggf28",
       "Name": "Agriculture Tycoon",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "f2",
@@ -466,9 +466,9 @@
       "ID": "f3",
       "SetID": "b1ggf28",
       "Name": "Seeds Collector",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "fw1",
@@ -498,9 +498,9 @@
       "ID": "g1",
       "SetID": "b1ggf28",
       "Name": "Skilled Workers",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "g2",
@@ -809,8 +809,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-20T05:07:13.0962012+00:00",
+  "LastChanged_Achievements": "2023-12-20T06:07:23.8683739+00:00",
   "LastUpdate_AppInfo": "2023-12-20T04:56:56.1414311+00:00",
-  "LastUpdate_Ratings": "2023-12-20T05:02:52.0188953+00:00",
-  "LastUpdate_Achievements": "2023-12-20T05:07:13.096232+00:00"
+  "LastUpdate_Ratings": "2023-12-20T06:02:58.0470743+00:00",
+  "LastUpdate_Achievements": "2023-12-20T06:07:23.8684034+00:00"
 }

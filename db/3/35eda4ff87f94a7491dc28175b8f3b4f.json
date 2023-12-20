@@ -257,9 +257,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16038,
+  "EOS_Progressed": 16042,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 1835,
+  "EOS_NewPlayers": 1830,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -5012,6 +5012,11 @@
       "Time": "2023-12-20T05:07:46.4204014+00:00",
       "NumProgressed": 16038,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-12-20T06:07:57.0313117+00:00",
+      "NumProgressed": 16042,
+      "NumCompleted": 70
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -5056,7 +5061,7 @@
       "Name": "Savior",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 1443
+      "UsersEstimate": 1444
     },
     {
       "ID": "SAVE_EVERYONE_PERFECT_1_2",
@@ -5103,7 +5108,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 16038,
+      "Progressed": 16042,
       "Completed": 70
     }
   ],
@@ -5111,8 +5116,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2023-12-18T03:58:42.6359817+00:00",
-  "LastChanged_Achievements": "2023-12-20T05:07:46.420399+00:00",
+  "LastChanged_Achievements": "2023-12-20T06:07:57.0313113+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:09.5453569+00:00",
-  "LastUpdate_Ratings": "2023-12-20T05:00:11.2133114+00:00",
-  "LastUpdate_Achievements": "2023-12-20T05:07:46.4204372+00:00"
+  "LastUpdate_Ratings": "2023-12-20T06:00:07.7593564+00:00",
+  "LastUpdate_Achievements": "2023-12-20T06:07:57.0313419+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "3ccad173be604de5b7df527b244f0308",
   "Name": "Lost Ruins",
   "ProductSlug": "lost-ruins-d6233b",
-  "Ranking_EOS_Progress": 322,
+  "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 564,
+  "EOS_Progressed": 565,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1364,6 +1364,11 @@
       "Time": "2023-12-20T05:10:27.3141034+00:00",
       "NumProgressed": 564,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T06:10:36.354216+00:00",
+      "NumProgressed": 565,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1415,7 +1420,7 @@
       "Name": "Bug Hunter",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "Cryomancer",
@@ -1535,7 +1540,7 @@
       "Name": "Money Swag",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "Necromancer",
@@ -1551,7 +1556,7 @@
       "Name": "Oops",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "OrcMustDie",
@@ -1599,7 +1604,7 @@
       "Name": "Shield Crusher",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "SlingOfDavid",
@@ -1663,7 +1668,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "Troubleshooter",
@@ -1694,7 +1699,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 564,
+      "Progressed": 565,
       "Completed": 1
     }
   ],
@@ -1702,8 +1707,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-20T05:10:27.3141032+00:00",
+  "LastChanged_Achievements": "2023-12-20T06:10:36.3542157+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:31.304442+00:00",
-  "LastUpdate_Ratings": "2023-12-20T05:00:49.9462384+00:00",
-  "LastUpdate_Achievements": "2023-12-20T05:10:27.3141278+00:00"
+  "LastUpdate_Ratings": "2023-12-20T06:00:46.2894085+00:00",
+  "LastUpdate_Achievements": "2023-12-20T06:10:36.3542475+00:00"
 }
