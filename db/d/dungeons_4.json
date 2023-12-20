@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 104,
   "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 597,
+  "EOS_Progressed": 598,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 3.35,
+  "EOS_Completed_Percentage": 3.34,
   "EosHistory": [
     {
       "Time": "2023-11-09T19:14:40.2664678+00:00",
@@ -1684,6 +1684,11 @@
       "Time": "2023-12-20T20:08:19.4915924+00:00",
       "NumProgressed": 597,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-12-20T21:08:44.0922316+00:00",
+      "NumProgressed": 598,
+      "NumCompleted": 20
     }
   ],
   "AchievementsAdded": "2023-11-07T12:05:38.3005436+00:00",
@@ -1696,7 +1701,7 @@
       "Name": "The Last Stand",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "ach_main01begin_die",
@@ -1704,7 +1709,7 @@
       "Name": "Thalya\u00A0\u2013 Simply Immortal",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "ach_main01begin_storm",
@@ -1712,15 +1717,15 @@
       "Name": "Thalya\u0027s Concentrated Fury",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "ach_main02horde_completed",
       "SetID": "4hg22ll",
       "Name": "Hammer Time, Round Two",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 484
+      "UsersEstimate": 478
     },
     {
       "ID": "ach_main02horde_creatures",
@@ -1736,7 +1741,7 @@
       "Name": "Trap Master",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "ach_main03demon_completed",
@@ -1752,7 +1757,7 @@
       "Name": "Master of Magic",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "ach_main03demon_spells",
@@ -1760,7 +1765,7 @@
       "Name": "Magic Accidents",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "ach_main04undead_completed",
@@ -1768,7 +1773,7 @@
       "Name": "The Plains of Strothalm",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "ach_main04undead_minions",
@@ -1776,7 +1781,7 @@
       "Name": "Minions, Minions!",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "ach_main04undead_sacrifice",
@@ -1792,7 +1797,7 @@
       "Name": "Bad Elves Go Everywhere",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "ach_main05evil_thalyalevel",
@@ -1800,15 +1805,15 @@
       "Name": "Experienced Thalya",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "ach_main05evil_unicorn",
       "SetID": "4hg22ll",
       "Name": "Unicorn steaks\u00A0\u2013 fresh off the hoof!",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 364
+      "UsersEstimate": 371
     },
     {
       "ID": "ach_main06transporter_completed",
@@ -1816,7 +1821,7 @@
       "Name": "Heroes\u2019 Gorge",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "ach_main06transporter_towers",
@@ -1832,7 +1837,7 @@
       "Name": "YOU SHALL NOT PASS!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "ach_main07storm_classified",
@@ -1840,15 +1845,15 @@
       "Name": "Hard Work",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "ach_main07storm_completed",
       "SetID": "4hg22ll",
       "Name": "The Ascent",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 346
+      "UsersEstimate": 353
     },
     {
       "ID": "ach_main07storm_dynamite",
@@ -1862,9 +1867,9 @@
       "ID": "ach_main07storm_storm",
       "SetID": "4hg22ll",
       "Name": "It\u0027s Warm and Cozy at Home",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 346
+      "UsersEstimate": 353
     },
     {
       "ID": "ach_main08sacrifice_completed",
@@ -1872,15 +1877,15 @@
       "Name": "The Big Eaty",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "ach_main08sacrifice_gorguattack",
       "SetID": "4hg22ll",
       "Name": "Hungry, Hungry Gorgu!",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 161
     },
     {
       "ID": "ach_main08sacrifice_overfed",
@@ -1896,7 +1901,7 @@
       "Name": "\u201C\u2026 like son\u201D",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ach_main09journey_killheroes",
@@ -1984,7 +1989,7 @@
       "Name": "My Little Torture Chamber",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ach_main13tanos_completed",
@@ -2008,7 +2013,7 @@
       "Name": "Bonus Evilness",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ach_main14run_completed",
@@ -2022,17 +2027,17 @@
       "ID": "ach_main14run_mirroruses",
       "SetID": "4hg22ll",
       "Name": "Mirror, Mirror",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 90
     },
     {
       "ID": "ach_main14run_roomdamage",
       "SetID": "4hg22ll",
       "Name": "Laser Eyes Are So Useless",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 72
     },
     {
       "ID": "ach_main15drill_completed",
@@ -2048,7 +2053,7 @@
       "Name": "Sabotage!",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ach_main15drill_untouchable",
@@ -2072,7 +2077,7 @@
       "Name": "Lavalumps on Ice!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ach_main16ring_spawners",
@@ -2080,7 +2085,7 @@
       "Name": "Rubble and Ashes",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ach_main17stone_completed",
@@ -2088,7 +2093,7 @@
       "Name": "Raiders of the Lost Stone",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ach_main17stone_explosions",
@@ -2096,7 +2101,7 @@
       "Name": "Brimstone Shaken, Not Stirred",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ach_main17stone_transporter",
@@ -2112,7 +2117,7 @@
       "Name": "The Rune Sockets of Finitude (Part 1)",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ach_main18unholy_researches",
@@ -2120,7 +2125,7 @@
       "Name": "To the Max!",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ach_main18unholy_training",
@@ -2128,7 +2133,7 @@
       "Name": "To Infinity And Beyond!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ach_main19war_completed",
@@ -2136,7 +2141,7 @@
       "Name": "The Rune Sockets of Finitude (Part 2)",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ach_main19war_heal",
@@ -2160,7 +2165,7 @@
       "Name": "The Last Stand\u00A0- This Time For Real!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ach_main20end_notristan",
@@ -2183,14 +2188,14 @@
     {
       "ID": "4hg22ll",
       "IsBase": true,
-      "Progressed": 597,
+      "Progressed": 598,
       "Completed": 20
     }
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-20T20:08:19.491592+00:00",
+  "LastChanged_Achievements": "2023-12-20T21:08:44.0922312+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:09.5802782+00:00",
-  "LastUpdate_Ratings": "2023-12-20T20:00:11.9210143+00:00",
-  "LastUpdate_Achievements": "2023-12-20T20:08:19.4916576+00:00"
+  "LastUpdate_Ratings": "2023-12-20T21:00:20.6184918+00:00",
+  "LastUpdate_Achievements": "2023-12-20T21:08:44.0922759+00:00"
 }

@@ -156,9 +156,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 536,
+  "EOS_Progressed": 537,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -1821,6 +1821,11 @@
       "Time": "2023-12-20T19:09:17.907019+00:00",
       "NumProgressed": 536,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-20T21:09:18.5477972+00:00",
+      "NumProgressed": 537,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 31,
@@ -1870,9 +1875,9 @@
       "ID": "ACH_COLLECT_10_HERBS",
       "SetID": "7c4cldc",
       "Name": "Herbalist",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_COLLECT_10_MUSHROOMS",
@@ -1880,7 +1885,7 @@
       "Name": "Mushroom Picker",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "ACH_COLLECT_20_RED_BOOKS",
@@ -1928,7 +1933,7 @@
       "Name": "Cook",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ACH_CUT_100_TREES",
@@ -1944,7 +1949,7 @@
       "Name": "Lumberjack",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_CUT_50_TREES",
@@ -1968,7 +1973,7 @@
       "Name": "My New Home",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "ACH_KILL_100",
@@ -1992,7 +1997,7 @@
       "Name": "Robot Destroyer",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_MAKE_CANNED_FOOD",
@@ -2000,7 +2005,7 @@
       "Name": "Prepper",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ACH_MAKE_FUEL",
@@ -2079,7 +2084,7 @@
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 536,
+      "Progressed": 537,
       "Completed": 3
     }
   ],
@@ -2087,8 +2092,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2023-12-20T20:08:55.3207076+00:00",
+  "LastChanged_Achievements": "2023-12-20T21:09:18.5477964+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.762988+00:00",
-  "LastUpdate_Ratings": "2023-12-20T19:58:47.7402982+00:00",
-  "LastUpdate_Achievements": "2023-12-20T20:08:55.3207276+00:00"
+  "LastUpdate_Ratings": "2023-12-20T20:58:59.6709971+00:00",
+  "LastUpdate_Achievements": "2023-12-20T21:09:18.5478286+00:00"
 }

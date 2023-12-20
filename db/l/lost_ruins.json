@@ -2,10 +2,10 @@
   "ID": "3ccad173be604de5b7df527b244f0308",
   "Name": "Lost Ruins",
   "ProductSlug": "lost-ruins-d6233b",
-  "Ranking_EOS_Progress": 322,
+  "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 570,
+  "EOS_Progressed": 571,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1394,6 +1394,11 @@
       "Time": "2023-12-20T17:10:08.8094211+00:00",
       "NumProgressed": 570,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T21:10:07.9820912+00:00",
+      "NumProgressed": 571,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1437,7 +1442,7 @@
       "Name": "Boss Killer",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "BugHunter",
@@ -1461,7 +1466,7 @@
       "Name": "Explorer",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "GhostBuster",
@@ -1477,7 +1482,7 @@
       "Name": "Gladiator",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "GoblinTales",
@@ -1485,7 +1490,7 @@
       "Name": "Goblin Tales",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "Hardboiled",
@@ -1677,7 +1682,7 @@
       "Name": "Trio",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "TrapMaster",
@@ -1724,7 +1729,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 570,
+      "Progressed": 571,
       "Completed": 1
     }
   ],
@@ -1732,8 +1737,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-20T20:09:47.2161416+00:00",
+  "LastChanged_Achievements": "2023-12-20T21:10:07.9820908+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:31.304442+00:00",
-  "LastUpdate_Ratings": "2023-12-20T20:00:06.8222713+00:00",
-  "LastUpdate_Achievements": "2023-12-20T20:09:47.2161749+00:00"
+  "LastUpdate_Ratings": "2023-12-20T21:00:15.4786192+00:00",
+  "LastUpdate_Achievements": "2023-12-20T21:10:07.9821211+00:00"
 }

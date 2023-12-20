@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 117272,
+  "EOS_Progressed": 117273,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 707,
+  "EOS_NewPlayers": 703,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -21979,6 +21979,11 @@
       "Time": "2023-12-20T20:09:40.0288829+00:00",
       "NumProgressed": 117272,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-12-20T21:10:01.1519566+00:00",
+      "NumProgressed": 117273,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 49,
@@ -21998,7 +22003,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 90299
+      "UsersEstimate": 90300
     },
     {
       "ID": "EAwards_10",
@@ -22070,7 +22075,7 @@
       "Name": "You Survived",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10554
+      "UsersEstimate": 10555
     },
     {
       "ID": "EAwards_19",
@@ -22174,7 +22179,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 23454
+      "UsersEstimate": 23455
     },
     {
       "ID": "EAwards_30",
@@ -22222,7 +22227,7 @@
       "Name": "Nacho Libre",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 10554
+      "UsersEstimate": 10555
     },
     {
       "ID": "EAwards_36",
@@ -22350,7 +22355,7 @@
       "Name": "Severed 2",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10554
+      "UsersEstimate": 10555
     },
     {
       "ID": "EAwards_7",
@@ -22381,7 +22386,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 117272,
+      "Progressed": 117273,
       "Completed": 53
     }
   ],
@@ -22389,8 +22394,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-12-20T20:09:40.0288827+00:00",
+  "LastChanged_Achievements": "2023-12-20T21:10:01.1519562+00:00",
   "LastUpdate_AppInfo": "2023-12-15T07:57:07.3909986+00:00",
-  "LastUpdate_Ratings": "2023-12-20T19:59:22.4532489+00:00",
-  "LastUpdate_Achievements": "2023-12-20T20:09:40.0290072+00:00"
+  "LastUpdate_Ratings": "2023-12-20T20:59:32.5047337+00:00",
+  "LastUpdate_Achievements": "2023-12-20T21:10:01.152063+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -3564,9 +3564,9 @@
       "ID": "GSS_ACH_06_FUEL_01",
       "SetID": "5fn8ia4",
       "Name": "Fueled it good!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1196
     },
     {
       "ID": "GSS_ACH_07_FUEL_02",
@@ -3620,9 +3620,9 @@
       "ID": "GSS_ACH_13_FUEL_SERVE_01",
       "SetID": "5fn8ia4",
       "Name": "So it begins",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1196
+      "UsersEstimate": 1209
     },
     {
       "ID": "GSS_ACH_14_FUEL_SERVE_02",
@@ -3636,9 +3636,9 @@
       "ID": "GSS_ACH_15_FUEL_SERVE_03",
       "SetID": "5fn8ia4",
       "Name": "Skills to Pay the Bills",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 936
+      "UsersEstimate": 949
     },
     {
       "ID": "GSS_ACH_16_ORDER_FUEL",
@@ -3844,9 +3844,9 @@
       "ID": "GSS_ACH_42_CARAVAN_01",
       "SetID": "5fn8ia4",
       "Name": "Help Wanted!",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 884
+      "UsersEstimate": 897
     },
     {
       "ID": "GSS_ACH_43_CARAVAN_02",
@@ -3996,9 +3996,9 @@
       "ID": "GSS_ACH_61_POPULARITY_01",
       "SetID": "5fn8ia4",
       "Name": "On the Map",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 1053
+      "UsersEstimate": 1066
     },
     {
       "ID": "GSS_ACH_62_POPULARITY_02",
@@ -4181,8 +4181,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-18T13:05:51.5719117+00:00",
-  "LastChanged_Achievements": "2023-12-20T20:03:24.5711949+00:00",
+  "LastChanged_Achievements": "2023-12-20T21:03:38.9357934+00:00",
   "LastUpdate_AppInfo": "2023-12-18T18:57:14.4494443+00:00",
-  "LastUpdate_Ratings": "2023-12-20T20:00:04.0460214+00:00",
-  "LastUpdate_Achievements": "2023-12-20T20:03:24.5713502+00:00"
+  "LastUpdate_Ratings": "2023-12-20T21:00:12.5970495+00:00",
+  "LastUpdate_Achievements": "2023-12-20T21:03:38.9358824+00:00"
 }

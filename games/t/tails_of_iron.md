@@ -12,11 +12,15 @@ Rating: 4.57 (Ranked 482)
 | The Bright Fir | 0.40% | ~4 |
 | Become King | 0.30% | ~7 |
 | Complete Guard Faction | 0.30% | ~7 |
+| Ranged Weapon | 0.30% | ~7 |
+| Defeat 25 Frogs | 0.30% | ~7 |
+| Collect Monster Parts | 0.20% | ~5 |
 | Defeat Ratnor Rodentson | 0.20% | ~5 |
-| Defeat 25 Frogs | 0.20% | ~5 |
+| Two Handed Weapon | 0.20% | ~5 |
+| Rescue Redgi's Brothers | 0.20% | ~5 |
+| Shield Maiden Yellow Tongue | 0.20% | ~2 |
 | Collect Gold | 0.10% | ~2 |
 | Collect Iron Ore | 0.10% | ~2 |
-| Collect Monster Parts | 0.10% | ~2 |
 | Return the Statues | 0.10% | ~2 |
 | Complete Redgi's Armory | 0.10% | ~2 |
 | Complete the Chefs Book | 0.10% | ~2 |
@@ -25,18 +29,14 @@ Rating: 4.57 (Ranked 482)
 | Defeat Avor Warden of the Northern Wastes | 0.10% | ~2 |
 | Defeat Rattus Augustail | 0.10% | ~2 |
 | Fix the Travellers Wagon | 0.10% | ~2 |
-| Ranged Weapon | 0.10% | ~2 |
-| Two Handed Weapon | 0.10% | ~2 |
 | Defeat 25 Grubs | 0.10% | ~2 |
 | Defeat 25 Mozis | 0.10% | ~2 |
 | Discover the mystery of the Kings Chambers | 0.10% | ~2 |
 | Kitchen Ready To Cook | 0.10% | ~2 |
 | Smithy Ready to Craft | 0.10% | ~2 |
-| Rescue Redgi's Brothers | 0.10% | ~2 |
 | Defeat Croakhis Khan | 0.10% | ~1 |
 | Defeat the Grub Buster | 0.10% | ~1 |
 | Defeat the Stalker Queen | 0.10% | ~1 |
-| Shield Maiden Yellow Tongue | 0.10% | ~1 |
 | I Remember My First Beer | 0.10% | ~1 |
 | King of Kings | 0.00% | ~0 |
 | Complete Arena Faction | 0.00% | ~0 |

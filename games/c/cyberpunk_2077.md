@@ -6,18 +6,18 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,508 |
-| Gun Fu | 8.00% | ~78,339 |
-| The Fool | 7.00% | ~68,546 |
-| Right Back At Ya | 6.00% | ~58,754 |
+| V for Vendetta | 12.00% | ~117,510 |
+| Gun Fu | 8.00% | ~78,340 |
+| The Fool | 7.00% | ~68,547 |
+| Right Back At Ya | 6.00% | ~58,755 |
 | Full Body Conversion | 5.00% | ~48,962 |
 | The Lovers | 5.00% | ~48,962 |
-| Stanislavski's Method | 4.00% | ~39,169 |
-| The Hermit | 4.00% | ~39,169 |
-| The Wheel of Fortune | 4.00% | ~39,169 |
-| True Soldier | 4.00% | ~39,169 |
-| All the President's Men | 4.00% | ~4,314 |
-| Arachnophobia | 4.00% | ~4,314 |
+| Stanislavski's Method | 4.00% | ~39,170 |
+| The Hermit | 4.00% | ~39,170 |
+| The Wheel of Fortune | 4.00% | ~39,170 |
+| True Soldier | 4.00% | ~39,170 |
+| All the President's Men | 4.00% | ~4,315 |
+| Arachnophobia | 4.00% | ~4,315 |
 | Christmas Tree Attack | 3.00% | ~29,377 |
 | Life of the Road | 3.00% | ~29,377 |
 | The High Priestess | 3.00% | ~29,377 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 979,234 (Ranked 16)  
+Progressed: 979,248 (Ranked 16)  
 Completed: 2,948 (0.30%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,10 +318,10 @@ Completed: 2,948 (0.30%) (Ranked 249)
 | 2023-12-17 | 978,015 | 2,930 |
 | 2023-12-18 | 978,465 | 2,935 |
 | 2023-12-19 | 978,882 | 2,944 |
-| 2023-12-20 | 979,234 | 2,948 |
+| 2023-12-20 | 979,248 | 2,948 |
 ## Awards
 Max (Character Customization): 125,560  (Ranked 8)  
-Sum: 433,190 (Ranked 9)  
+Sum: 433,348 (Ranked 9)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -333,8 +333,8 @@ Diff (max vs sum): -1
 | This game has Amazing Storytelling | 24,750 |
 | This game is Extremely Fun | 24,440 |
 | This game has Amazing Characters | 24,390 |
+| This game is Relaxing | 23,632 |
 | This game has Quickly Understood Controls | 23,478 |
-| This game is Relaxing | 23,474 |
 | This game has a Creative Community | 16,339 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -674,4 +674,4 @@ Diff (max vs sum): -1
 | 2023-12-17 | 4.66 | - | 124,505 | 427,247 |
 | 2023-12-18 | 4.66 | - | 124,846 | 429,269 |
 | 2023-12-19 | 4.66 | - | 125,194 | 431,324 |
-| 2023-12-20 | 4.66 | - | 125,560 | 433,190 |
+| 2023-12-20 | 4.66 | - | 125,560 | 433,348 |

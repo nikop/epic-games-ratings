@@ -8861,10 +8861,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 32975,
       "NumberOfAwardsMax": 5665
+    },
+    {
+      "Time": "2023-12-20T21:02:54.5114422+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32977,
+      "NumberOfAwardsMax": 5665
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32975,
+  "NumberOfAwards": 32977,
   "NumberOfAwardsMax": 5665,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8902,7 +8908,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4269
+      "Count": 4271
     },
     {
       "Text": "This game has Playful Visuals",
@@ -8911,9 +8917,9 @@
       "Count": 3581
     }
   ],
-  "EOS_Progressed": 242365,
+  "EOS_Progressed": 242384,
   "EOS_Completed": 2546,
-  "EOS_NewPlayers": 2608,
+  "EOS_NewPlayers": 2589,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -36491,6 +36497,11 @@
       "Time": "2023-12-20T20:09:53.997919+00:00",
       "NumProgressed": 242365,
       "NumCompleted": 2546
+    },
+    {
+      "Time": "2023-12-20T21:10:14.9572153+00:00",
+      "NumProgressed": 242384,
+      "NumCompleted": 2546
     }
   ],
   "TotalAchievements": 546,
@@ -38174,7 +38185,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "objective_completed_34",
@@ -40790,7 +40801,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1461
     },
     {
       "ID": "objective_completed_1558",
@@ -40844,9 +40855,9 @@
       "ID": "objective_completed_683",
       "SetID": "415jc5c",
       "Name": "Mental Gymnastics",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 626
+      "UsersEstimate": 835
     },
     {
       "ID": "objective_completed_860",
@@ -40869,21 +40880,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 208639,
-      "Completed": 4049
+      "Progressed": 208658,
+      "Completed": 4050
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 242365,
+      "Progressed": 242384,
       "Completed": 2546
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-12-20T16:00:30.0528838+00:00",
-  "LastChanged_Achievements": "2023-12-20T20:09:53.9979186+00:00",
+  "LastChanged": "2023-12-20T21:02:54.511442+00:00",
+  "LastChanged_Achievements": "2023-12-20T21:10:14.9572149+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:52.1318001+00:00",
-  "LastUpdate_Ratings": "2023-12-20T20:02:38.419347+00:00",
-  "LastUpdate_Achievements": "2023-12-20T20:09:54.0003419+00:00"
+  "LastUpdate_Ratings": "2023-12-20T21:02:54.5114425+00:00",
+  "LastUpdate_Achievements": "2023-12-20T21:10:14.9594507+00:00"
 }

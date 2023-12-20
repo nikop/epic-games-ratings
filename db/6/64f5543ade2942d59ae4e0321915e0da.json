@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -985,9 +985,9 @@
       "ID": "AC_FIRST_BLACKJACK",
       "SetID": "16i2akc",
       "Name": "Player",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 55
     },
     {
       "ID": "AC_FLASHBACK_01",
@@ -1112,8 +1112,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-20T20:08:07.8498894+00:00",
+  "LastChanged_Achievements": "2023-12-20T21:08:32.2070077+00:00",
   "LastUpdate_AppInfo": "2023-12-19T20:57:15.8211494+00:00",
-  "LastUpdate_Ratings": "2023-12-20T20:00:15.7984205+00:00",
-  "LastUpdate_Achievements": "2023-12-20T20:08:07.8499139+00:00"
+  "LastUpdate_Ratings": "2023-12-20T21:00:24.2134763+00:00",
+  "LastUpdate_Achievements": "2023-12-20T21:08:32.2070393+00:00"
 }

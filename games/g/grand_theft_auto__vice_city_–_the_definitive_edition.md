@@ -5,18 +5,18 @@ Rating: 4.52 (Ranked 567)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~6,024 |
-| Greasy Palms | 42.00% | ~5,500 |
-| South American Connection | 25.00% | ~3,274 |
-| Life of the Party | 20.00% | ~2,619 |
-| Tommy Two-Wheels | 15.00% | ~1,964 |
-| Big Heat from Little Havana | 14.00% | ~1,833 |
-| Chauffeur | 14.00% | ~1,833 |
-| Salutations My Little Friend | 11.00% | ~1,441 |
-| Iron-y | 10.00% | ~1,310 |
-| Gun for Hire | 9.00% | ~1,179 |
-| Mischief Managed | 8.00% | ~1,048 |
-| Vice City Mogul | 7.00% | ~917 |
+| Legal Counsel | 46.00% | ~6,030 |
+| Greasy Palms | 42.00% | ~5,505 |
+| South American Connection | 25.00% | ~3,277 |
+| Life of the Party | 20.00% | ~2,622 |
+| Tommy Two-Wheels | 15.00% | ~1,966 |
+| Big Heat from Little Havana | 14.00% | ~1,835 |
+| Chauffeur | 14.00% | ~1,835 |
+| Salutations My Little Friend | 11.00% | ~1,442 |
+| Iron-y | 10.00% | ~1,311 |
+| Gun for Hire | 9.00% | ~1,180 |
+| Mischief Managed | 8.00% | ~1,049 |
+| Vice City Mogul | 7.00% | ~918 |
 | Catch Me if You Can | 6.00% | ~786 |
 | Bloodstained Hands | 6.00% | ~786 |
 | Not my First Time | 5.00% | ~655 |
@@ -38,9 +38,9 @@ Rating: 4.52 (Ranked 567)
 | I'm Famous! | 1.00% | ~131 |
 | Daredevil | 1.00% | ~131 |
 | Done it All | 0.90% | ~118 |
-| Kingpin | 0.50% | ~65 |
+| Kingpin | 0.50% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,096 (Ranked 166)  
+Progressed: 13,108 (Ranked 166)  
 Completed: 71 (0.54%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 71 (0.54%) (Ranked 208)
 | 2023-12-17 | 12,602 | 68 |
 | 2023-12-18 | 12,767 | 70 |
 | 2023-12-19 | 12,956 | 70 |
-| 2023-12-20 | 13,096 | 71 |
+| 2023-12-20 | 13,108 | 71 |
 ## Awards
 Max (Great Boss Battles): 131  (Ranked 336)  
 Sum: 131 (Ranked 438)  

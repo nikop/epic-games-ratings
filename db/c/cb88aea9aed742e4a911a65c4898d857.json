@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -113,9 +113,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 5732,
+  "EOS_Progressed": 5741,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2688,
+  "EOS_NewPlayers": 2677,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1713,6 +1713,11 @@
       "Time": "2023-12-20T20:09:23.297926+00:00",
       "NumProgressed": 5732,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T21:09:45.0085174+00:00",
+      "NumProgressed": 5741,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -1725,7 +1730,7 @@
       "Name": "Conspiracy",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 1376
+      "UsersEstimate": 1378
     },
     {
       "ID": "03_TheStolenStar",
@@ -1733,7 +1738,7 @@
       "Name": "Stolen Star",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -1821,7 +1826,7 @@
       "Name": "Fear Not Obliteration",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "15_Pentakill",
@@ -1837,7 +1842,7 @@
       "Name": "The Rise",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "17_TheExemplar",
@@ -1853,7 +1858,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "19_TheVoidWolf",
@@ -1885,15 +1890,15 @@
       "Name": "Perfect Timing",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "23_DynastyRestored",
       "SetID": "37a94m8",
       "Name": "The Dynasty Restored",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 172
+      "UsersEstimate": 230
     },
     {
       "ID": "24_TheHighrise",
@@ -1931,9 +1936,9 @@
       "ID": "28_TheLightOfAstronomicon",
       "SetID": "37a94m8",
       "Name": "Light of the Astronomican",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 459
+      "UsersEstimate": 517
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -1941,7 +1946,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "30_The GreatestExploration",
@@ -1949,7 +1954,7 @@
       "Name": "Greatest Exploration",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "31_DontTouchThis",
@@ -1973,7 +1978,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -2037,7 +2042,7 @@
       "Name": "Jungle Heat",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "42_TheIronJudgement",
@@ -2045,7 +2050,7 @@
       "Name": "Iron Judgement",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -2077,7 +2082,7 @@
       "Name": "A Spark",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 802
+      "UsersEstimate": 804
     },
     {
       "ID": "47_AFlame",
@@ -2244,7 +2249,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 5732,
+      "Progressed": 5741,
       "Completed": 0
     }
   ],
@@ -2252,8 +2257,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-20T11:57:23.1622178+00:00",
-  "LastChanged_Achievements": "2023-12-20T20:09:23.2979257+00:00",
+  "LastChanged_Achievements": "2023-12-20T21:09:45.0085171+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:14.7846288+00:00",
-  "LastUpdate_Ratings": "2023-12-20T19:57:25.301578+00:00",
-  "LastUpdate_Achievements": "2023-12-20T20:09:23.2979866+00:00"
+  "LastUpdate_Ratings": "2023-12-20T20:57:40.0910332+00:00",
+  "LastUpdate_Achievements": "2023-12-20T21:09:45.0085658+00:00"
 }

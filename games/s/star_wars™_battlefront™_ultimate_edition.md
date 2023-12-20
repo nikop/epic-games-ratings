@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 88.00% | ~1,709 |
-| Off to a good start | 64.00% | ~1,243 |
-| Do... or do not. There is no try | 51.00% | ~990 |
-| A good blaster at your side | 28.00% | ~544 |
+| New Recruit | 88.00% | ~1,712 |
+| Off to a good start | 64.00% | ~1,245 |
+| Do... or do not. There is no try | 51.00% | ~992 |
+| A good blaster at your side | 28.00% | ~545 |
 | I suggest a new strategy | 18.00% | ~350 |
-| Scrap collector | 17.00% | ~330 |
-| Great shot, kid! | 17.00% | ~330 |
+| Scrap collector | 17.00% | ~331 |
+| Great shot, kid! | 17.00% | ~331 |
 | All right, I'll give it a try | 16.00% | ~311 |
 | Shoot first | 14.00% | ~272 |
-| The power of the Force | 13.00% | ~252 |
-| Collector | 13.00% | ~252 |
+| The power of the Force | 13.00% | ~253 |
+| Collector | 13.00% | ~253 |
 | Together we can rule the galaxy | 12.00% | ~233 |
 | Tell Jabba that I've got his money | 9.00% | ~175 |
 | Best star-pilot in the galaxy | 9.00% | ~175 |
-| Never tell me the odds! | 8.00% | ~155 |
-| Survivor | 8.00% | ~155 |
+| Never tell me the odds! | 8.00% | ~156 |
+| Survivor | 8.00% | ~156 |
 | What's the cargo? | 7.00% | ~136 |
 | A cunning warrior | 7.00% | ~136 |
 | Judge me by my size, do you? | 6.00% | ~117 |
@@ -51,7 +51,7 @@
 | Alternative solution | 1.00% | ~19 |
 | Onwards! | 1.00% | ~19 |
 | The circle is now complete | 1.00% | ~19 |
-| When surrounded by war... | 0.90% | ~17 |
+| When surrounded by war... | 0.90% | ~18 |
 | A New Hope | 0.80% | ~16 |
 | Walker defender | 0.80% | ~16 |
 | No such thing as luck | 0.70% | ~14 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~4 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,942 (Ranked 237)  
+Progressed: 1,945 (Ranked 237)  
 Completed: 1 (0.05%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 1 (0.05%) (Ranked 332)
 | 2023-12-17 | 1,853 | 1 |
 | 2023-12-18 | 1,882 | 1 |
 | 2023-12-19 | 1,913 | 1 |
-| 2023-12-20 | 1,942 | 1 |
+| 2023-12-20 | 1,945 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

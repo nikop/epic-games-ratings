@@ -17,9 +17,9 @@
 | Snakehead! | 31.00% | ~22 |
 | Unmasked! | 31.00% | ~22 |
 | Mercenary! | 31.00% | ~22 |
-| Beast Knight | 30.00% | ~21 |
-| Fly, you fool! | 30.00% | ~21 |
-| Relic Collector | 27.00% | ~19 |
+| Beast Knight | 29.00% | ~21 |
+| Fly, you fool! | 29.00% | ~21 |
+| Relic Collector | 26.00% | ~19 |
 | God of the Tower! | 25.00% | ~18 |
 | Cartographer | 25.00% | ~18 |
 | Wizard Mastery | 18.00% | ~13 |
@@ -35,8 +35,8 @@
 | No match for me! | 4.00% | ~3 |
 | True Titan | 4.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71 (Ranked 503)  
-Completed: 3 (4.23%) (Ranked 88)  
+Progressed: 72 (Ranked 501)  
+Completed: 3 (4.17%) (Ranked 88)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -60,6 +60,7 @@ Completed: 3 (4.23%) (Ranked 88)
 | 2023-12-09 | 69 | 3 |
 | 2023-12-15 | 70 | 3 |
 | 2023-12-16 | 71 | 3 |
+| 2023-12-20 | 72 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

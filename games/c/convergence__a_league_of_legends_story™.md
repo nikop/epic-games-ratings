@@ -10,37 +10,37 @@ Rating: 4.64 (Ranked 338)
 | The Mysterious Stranger | 28.00% | ~293 |
 | Immaculate Aim | 24.00% | ~251 |
 | The Brass Boss | 24.00% | ~251 |
-| Make Up For Lost Time | 23.00% | ~240 |
-| Time Flies | 23.00% | ~240 |
-| No, Thanks! | 23.00% | ~240 |
-| The Prince in Heels | 23.00% | ~240 |
+| Make Up For Lost Time | 23.00% | ~241 |
+| Time Flies | 23.00% | ~241 |
+| No, Thanks! | 23.00% | ~241 |
+| The Prince in Heels | 23.00% | ~241 |
 | The Steel Shadow | 22.00% | ~230 |
 | The Harder They Fall | 22.00% | ~230 |
 | Breaking Down Barriers | 22.00% | ~230 |
 | Honest Mistake | 22.00% | ~230 |
 | Fast Learner | 22.00% | ~230 |
 | Immaculate Aim | 22.00% | ~230 |
-| The Wicked Twins | 21.00% | ~219 |
+| The Wicked Twins | 21.00% | ~220 |
 | Right On Time | 20.00% | ~209 |
 | Like Clockwork | 20.00% | ~209 |
 | The Betrayer | 20.00% | ~209 |
 | Golem Chaser | 20.00% | ~209 |
 | Check Your Pulse | 19.00% | ~199 |
-| The Man Who Shattered Time | 18.00% | ~188 |
 | The Loose Cannon | 18.00% | ~188 |
 | The Family Fortune | 18.00% | ~188 |
 | Street Style | 17.00% | ~178 |
+| The Man Who Shattered Time | 17.00% | ~178 |
 | Whiz Kid | 14.00% | ~146 |
 | Cartographer | 14.00% | ~146 |
 | Treasure Trove | 13.00% | ~136 |
 | Family Memories | 13.00% | ~136 |
 | Good Neighbor | 13.00% | ~136 |
-| Chaincrawler Explorer | 12.00% | ~125 |
-| Ask Questions Later | 12.00% | ~125 |
+| Chaincrawler Explorer | 12.00% | ~126 |
+| Ask Questions Later | 12.00% | ~126 |
 | Sump Explorer | 11.00% | ~115 |
 | Syron for Hope | 11.00% | ~115 |
-| Factorywood Explorer | 10.00% | ~104 |
-| Theater Explorer | 10.00% | ~104 |
+| Factorywood Explorer | 10.00% | ~105 |
+| Theater Explorer | 10.00% | ~105 |
 | Cultivair Explorer | 9.00% | ~94 |
 | Fairgrounds Explorer | 9.00% | ~94 |
 | Corin Goes Home | 8.00% | ~84 |
@@ -59,7 +59,7 @@ Rating: 4.64 (Ranked 338)
 | Raw Talent | 0.70% | ~7 |
 | Going to Live Forever | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,045 (Ranked 275)  
+Progressed: 1,046 (Ranked 275)  
 Completed: 6 (0.57%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 6 (0.57%) (Ranked 201)
 | 2023-12-17 | 1,021 | 6 |
 | 2023-12-18 | 1,030 | 6 |
 | 2023-12-19 | 1,037 | 6 |
-| 2023-12-20 | 1,045 | 6 |
+| 2023-12-20 | 1,046 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

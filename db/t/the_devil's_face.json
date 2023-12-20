@@ -4,8 +4,8 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 388,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 382,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 592,
+  "EOS_Progressed": 593,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.18,
   "EosHistory": [
@@ -2584,6 +2584,11 @@
       "Time": "2023-12-20T14:04:09.8652125+00:00",
       "NumProgressed": 592,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-20T21:04:14.6833898+00:00",
+      "NumProgressed": 593,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 14,
@@ -2593,9 +2598,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "296pn27",
       "Name": "The gateway to the underworld",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 284
+      "UsersEstimate": 291
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -2603,7 +2608,7 @@
       "Name": "Is it merely a dream?",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2665,9 +2670,9 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "296pn27",
       "Name": "Unholy lands",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 124
+      "UsersEstimate": 130
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -2706,14 +2711,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 592,
+      "Progressed": 593,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-12-20T20:04:02.6042444+00:00",
+  "LastChanged_Achievements": "2023-12-20T21:04:14.6833895+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:57:05.7189556+00:00",
-  "LastUpdate_Ratings": "2023-12-20T19:57:32.0586358+00:00",
-  "LastUpdate_Achievements": "2023-12-20T20:04:02.6042619+00:00"
+  "LastUpdate_Ratings": "2023-12-20T20:57:46.3615588+00:00",
+  "LastUpdate_Achievements": "2023-12-20T21:04:14.6834086+00:00"
 }

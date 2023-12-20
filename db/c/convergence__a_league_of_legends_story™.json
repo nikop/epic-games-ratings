@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -45,7 +45,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1045,
+  "EOS_Progressed": 1046,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
@@ -2910,6 +2910,11 @@
       "Time": "2023-12-20T19:10:00.3780367+00:00",
       "NumProgressed": 1045,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-20T21:09:58.9537102+00:00",
+      "NumProgressed": 1046,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2937,7 +2942,7 @@
       "Name": "Chaincrawler Explorer",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ChestCompletion1",
@@ -3025,7 +3030,7 @@
       "Name": "Factorywood Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "FairgroundsChests1",
@@ -3055,9 +3060,9 @@
       "ID": "FutureEkko3Defeated",
       "SetID": "a9e499d",
       "Name": "The Man Who Shattered Time",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 178
     },
     {
       "ID": "GadgetCompletion1",
@@ -3113,7 +3118,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "MapCompletion1",
@@ -3161,7 +3166,7 @@
       "Name": "Time Flies",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "ParryBoss",
@@ -3177,7 +3182,7 @@
       "Name": "No, Thanks!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "PhaseDiveCounter",
@@ -3193,7 +3198,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "PidgeDefeated",
@@ -3201,7 +3206,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "RewindDamage1",
@@ -3289,7 +3294,7 @@
       "Name": "Theater Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "TimewinderMultiKill1",
@@ -3313,7 +3318,7 @@
       "Name": "Ask Questions Later",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "WatcherSpared",
@@ -3344,7 +3349,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1045,
+      "Progressed": 1046,
       "Completed": 6
     }
   ],
@@ -3352,8 +3357,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-18T08:57:59.1291337+00:00",
-  "LastChanged_Achievements": "2023-12-20T20:09:37.8440509+00:00",
+  "LastChanged_Achievements": "2023-12-20T21:09:58.9537098+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.1550939+00:00",
-  "LastUpdate_Ratings": "2023-12-20T19:59:18.3268297+00:00",
-  "LastUpdate_Achievements": "2023-12-20T20:09:37.8440961+00:00"
+  "LastUpdate_Ratings": "2023-12-20T20:59:28.5292894+00:00",
+  "LastUpdate_Achievements": "2023-12-20T21:09:58.9537563+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -311,9 +311,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3603,
+  "EOS_Progressed": 3605,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6756,6 +6756,11 @@
       "Time": "2023-12-20T19:04:02.092205+00:00",
       "NumProgressed": 3603,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T21:04:05.9035019+00:00",
+      "NumProgressed": 3605,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -6829,9 +6834,9 @@
       "ID": "ACH_BASE_18",
       "SetID": "92iocjf",
       "Name": "Infinite Growth...",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 937
+      "UsersEstimate": 901
     },
     {
       "ID": "ACH_BASE_19",
@@ -6847,7 +6852,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "ACH_BASE_21",
@@ -6855,7 +6860,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "ACH_BASE_22",
@@ -6903,7 +6908,7 @@
       "Name": "A Hunk of Junk",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "ACH_BASE_28",
@@ -6917,9 +6922,9 @@
       "ID": "ACH_BASE_29",
       "SetID": "92iocjf",
       "Name": "A Thousand Strong",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 613
+      "UsersEstimate": 649
     },
     {
       "ID": "ACH_BASE_3",
@@ -6935,7 +6940,7 @@
       "Name": "Exceeding Capacity",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "ACH_BASE_31",
@@ -6959,7 +6964,7 @@
       "Name": "Fully Recycled",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "ACH_BASE_34",
@@ -6975,7 +6980,7 @@
       "Name": "Breaking Protocol",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "ACH_BASE_36",
@@ -7063,7 +7068,7 @@
       "Name": "Permanent Redesigns",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "ACH_BASE_49",
@@ -7071,7 +7076,7 @@
       "Name": "Ain\u0027t Nobody Got Time for That",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "ACH_BASE_5",
@@ -7143,7 +7148,7 @@
       "Name": "The Ship of Theseus",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "ACH_BASE_6",
@@ -7151,7 +7156,7 @@
       "Name": "Hope Seeker",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "ACH_BASE_60",
@@ -7222,13 +7227,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1787,
+      "Progressed": 1789,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3603,
+      "Progressed": 3605,
       "Completed": 0
     }
   ],
@@ -7236,8 +7241,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-10T20:59:24.4447628+00:00",
-  "LastChanged_Achievements": "2023-12-20T20:03:53.3525358+00:00",
+  "LastChanged_Achievements": "2023-12-20T21:04:05.9035016+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.6786359+00:00",
-  "LastUpdate_Ratings": "2023-12-20T20:00:20.5037537+00:00",
-  "LastUpdate_Achievements": "2023-12-20T20:03:53.3525997+00:00"
+  "LastUpdate_Ratings": "2023-12-20T21:00:28.9413266+00:00",
+  "LastUpdate_Achievements": "2023-12-20T21:04:05.9035639+00:00"
 }

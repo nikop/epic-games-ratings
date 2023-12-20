@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You and what Army? | 87.00% | ~3,376 |
+| You and what Army? | 87.00% | ~3,377 |
 | Flanked! | 76.00% | ~2,950 |
 | Economics 101 | 59.00% | ~2,290 |
 | Get Rich Quick | 42.00% | ~1,630 |
@@ -17,7 +17,7 @@
 | Boulder Clash | 13.00% | ~505 |
 | Held Back by the Roots | 12.00% | ~466 |
 | Well Supplied | 11.00% | ~427 |
-| Damage Control | 8.00% | ~310 |
+| Damage Control | 8.00% | ~311 |
 | Sniped | 7.00% | ~272 |
 | Leave Them no Cake | 7.00% | ~272 |
 | Would be a Shame if Someone Would Waste Those Units | 7.00% | ~272 |
@@ -38,7 +38,7 @@
 | Untouchable | 1.00% | ~39 |
 | All Geared Up | 0.90% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,881 (Ranked 207)  
+Progressed: 3,882 (Ranked 207)  
 Completed: 11 (0.28%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 11 (0.28%) (Ranked 252)
 | 2023-12-17 | 3,871 | 11 |
 | 2023-12-18 | 3,877 | 11 |
 | 2023-12-19 | 3,878 | 11 |
-| 2023-12-20 | 3,881 | 11 |
+| 2023-12-20 | 3,882 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

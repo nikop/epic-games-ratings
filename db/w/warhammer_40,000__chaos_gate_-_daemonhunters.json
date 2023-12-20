@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -795,9 +795,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3489,
+  "EOS_Progressed": 3493,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4560,6 +4560,11 @@
       "Time": "2023-12-20T20:06:01.4720858+00:00",
       "NumProgressed": 3489,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T21:06:08.4595888+00:00",
+      "NumProgressed": 3493,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4667,7 +4672,7 @@
       "Name": "Surgical Excision",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -4747,7 +4752,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -4779,7 +4784,7 @@
       "Name": "Friendly Fire",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "Kills_Interactable",
@@ -4907,7 +4912,7 @@
       "Name": "Bloodless",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -5114,21 +5119,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3489,
+      "Progressed": 3493,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3489,
+      "Progressed": 3493,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-16T13:05:46.2808+00:00",
-  "LastChanged_Achievements": "2023-12-20T20:06:01.4720851+00:00",
+  "LastChanged_Achievements": "2023-12-20T21:06:08.4595885+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:54.7152084+00:00",
-  "LastUpdate_Ratings": "2023-12-20T20:03:02.7035642+00:00",
-  "LastUpdate_Achievements": "2023-12-20T20:06:01.4721481+00:00"
+  "LastUpdate_Ratings": "2023-12-20T21:03:17.289896+00:00",
+  "LastUpdate_Achievements": "2023-12-20T21:06:08.4596483+00:00"
 }

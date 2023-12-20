@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 52,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -7663,9 +7663,9 @@
       "Count": 3800
     }
   ],
-  "EOS_Progressed": 146566,
+  "EOS_Progressed": 146569,
   "EOS_Completed": 325,
-  "EOS_NewPlayers": 1547,
+  "EOS_NewPlayers": 1519,
   "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -33238,6 +33238,11 @@
       "Time": "2023-12-20T20:03:54.3423399+00:00",
       "NumProgressed": 146566,
       "NumCompleted": 325
+    },
+    {
+      "Time": "2023-12-20T21:04:06.9359497+00:00",
+      "NumProgressed": 146569,
+      "NumCompleted": 325
     }
   ],
   "TotalAchievements": 112,
@@ -33481,7 +33486,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11725
+      "UsersEstimate": 11726
     },
     {
       "ID": "commonres02",
@@ -34065,7 +34070,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11725
+      "UsersEstimate": 11726
     },
     {
       "ID": "twinenchant01",
@@ -34144,15 +34149,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 146566,
+      "Progressed": 146569,
       "Completed": 325
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-20T03:02:58.4385215+00:00",
-  "LastChanged_Achievements": "2023-12-20T20:03:54.3423397+00:00",
+  "LastChanged_Achievements": "2023-12-20T21:04:06.9359494+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.001195+00:00",
-  "LastUpdate_Ratings": "2023-12-20T20:03:04.864078+00:00",
-  "LastUpdate_Achievements": "2023-12-20T20:03:54.3426568+00:00"
+  "LastUpdate_Ratings": "2023-12-20T21:03:19.3807383+00:00",
+  "LastUpdate_Achievements": "2023-12-20T21:04:06.9361429+00:00"
 }

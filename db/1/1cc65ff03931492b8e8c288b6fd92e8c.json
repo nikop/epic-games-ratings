@@ -4,8 +4,8 @@
   "ProductSlug": "stasis-bone-totem-ca8320",
   "Ranking_EOS_Progress": 692,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 514,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 515,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-06-20T20:00:00+00:00",
     "PcReleaseDate": "2023-06-19T08:00:00+00:00",
@@ -220,8 +220,8 @@
   ],
   "FirstSeen": "2023-06-22T13:57:49.6515967+00:00",
   "FirstSeenAchievements": "2023-06-14T11:02:04.2165239+00:00",
-  "LastChanged_Achievements": "2023-12-20T20:09:42.2557264+00:00",
+  "LastChanged_Achievements": "2023-12-20T21:10:03.2632568+00:00",
   "LastUpdate_AppInfo": "2023-12-16T13:57:06.8548641+00:00",
-  "LastUpdate_Ratings": "2023-12-20T19:59:32.6964095+00:00",
-  "LastUpdate_Achievements": "2023-12-20T20:09:42.2557386+00:00"
+  "LastUpdate_Ratings": "2023-12-20T20:59:42.3557557+00:00",
+  "LastUpdate_Achievements": "2023-12-20T21:10:03.2632652+00:00"
 }

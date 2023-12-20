@@ -24,12 +24,12 @@ Rating: 4.35 (Ranked 801)
 | Jacqueline “Jackie” Conrad | 44.00% | ~204 |
 | The Interrogations | 44.00% | ~204 |
 | Well-acquainted | 42.00% | ~194 |
-| Zakariya Demir | 41.00% | ~190 |
+| Zakariya Demir | 42.00% | ~194 |
 | Well-read | 40.00% | ~185 |
 | Cassandra Van den Bosch | 38.00% | ~176 |
 | The Secret | 38.00% | ~176 |
 | Gedeon Demir | 35.00% | ~162 |
-| Rehana Piette | 34.00% | ~157 |
+| Rehana Piette | 35.00% | ~162 |
 | Instinct is Marvellous | 33.00% | ~153 |
 | Ernesto da Silva | 33.00% | ~153 |
 | Inge Frank | 31.00% | ~144 |

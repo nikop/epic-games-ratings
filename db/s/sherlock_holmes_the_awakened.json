@@ -2,13 +2,13 @@
   "ID": "f9bc208b965c4fb7afd0c842d764fc37",
   "Name": "Sherlock Holmes The Awakened",
   "ProductSlug": "sherlock-holmes-the-awakened",
-  "Ranking_Rating": 532,
+  "Ranking_Rating": 533,
   "Ranking_Popularity": 569,
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 261,
-  "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_Completed": 116,
+  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -148,7 +148,7 @@
   "EOS_Progressed": 1266,
   "EOS_Completed": 36,
   "EOS_NewPlayers": 118,
-  "EOS_NewCompleters": 6,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 2.84,
   "EosHistory": [
     {
@@ -4439,9 +4439,9 @@
       "ID": "MQ02_4",
       "SetID": "bbing49",
       "Name": "Whispers In The Dark",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 646
+      "UsersEstimate": 658
     },
     {
       "ID": "MQ03_1",
@@ -4463,9 +4463,9 @@
       "ID": "MQ03_3",
       "SetID": "bbing49",
       "Name": "History Check",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 582
+      "UsersEstimate": 595
     },
     {
       "ID": "MQ03_4",
@@ -4479,9 +4479,9 @@
       "ID": "MQ03_5",
       "SetID": "bbing49",
       "Name": "A Method To His Madness",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 595
+      "UsersEstimate": 608
     },
     {
       "ID": "MQ04_1",
@@ -4503,9 +4503,9 @@
       "ID": "MQ04_3",
       "SetID": "bbing49",
       "Name": "The New World",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 557
+      "UsersEstimate": 570
     },
     {
       "ID": "MQ05_1",
@@ -4583,9 +4583,9 @@
       "ID": "MQ07_2",
       "SetID": "bbing49",
       "Name": "At Wits\u0027 End",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 494
+      "UsersEstimate": 506
     },
     {
       "ID": "MQ08_1",
@@ -4632,8 +4632,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-19T11:03:29.5971745+00:00",
-  "LastChanged_Achievements": "2023-12-20T20:06:24.7565714+00:00",
+  "LastChanged_Achievements": "2023-12-20T21:06:30.0573778+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:14.2246919+00:00",
-  "LastUpdate_Ratings": "2023-12-20T20:03:02.4518453+00:00",
-  "LastUpdate_Achievements": "2023-12-20T20:06:24.7566127+00:00"
+  "LastUpdate_Ratings": "2023-12-20T21:03:17.0472387+00:00",
+  "LastUpdate_Achievements": "2023-12-20T21:06:30.0574184+00:00"
 }

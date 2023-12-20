@@ -3521,9 +3521,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18762,
+  "EOS_Progressed": 18766,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 725,
+  "EOS_NewPlayers": 729,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16476,6 +16476,11 @@
       "Time": "2023-12-20T20:06:20.949059+00:00",
       "NumProgressed": 18762,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-20T21:06:26.9212262+00:00",
+      "NumProgressed": 18766,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16614,9 +16619,9 @@
       "ID": "WinNearBarren",
       "SetID": "cfbk359",
       "Name": "Barren Lands",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 188
     },
     {
       "ID": "WinNearBattleground",
@@ -16824,7 +16829,7 @@
       "Name": "Taking Action",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "WinWithResolve",
@@ -16928,7 +16933,7 @@
       "Name": "Ominous Presence",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "WinNearStorms",
@@ -16936,7 +16941,7 @@
       "Name": "Gathering Storm",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -16959,15 +16964,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18762,
+      "Progressed": 18766,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-20T12:59:24.808106+00:00",
-  "LastChanged_Achievements": "2023-12-20T20:06:20.9490584+00:00",
+  "LastChanged_Achievements": "2023-12-20T21:06:26.9212259+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
-  "LastUpdate_Ratings": "2023-12-20T19:59:27.1828291+00:00",
-  "LastUpdate_Achievements": "2023-12-20T20:06:20.9491491+00:00"
+  "LastUpdate_Ratings": "2023-12-20T20:59:37.0812046+00:00",
+  "LastUpdate_Achievements": "2023-12-20T21:06:26.9213163+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 296,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
     "PcReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -789,9 +789,9 @@
       "ID": "OX_DEFEATED",
       "SetID": "7im05fi",
       "Name": "Wild Ox",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 154
+      "UsersEstimate": 157
     },
     {
       "ID": "PARPLIN_DEFEATED",
@@ -830,8 +830,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-12-20T20:03:41.9073956+00:00",
+  "LastChanged_Achievements": "2023-12-20T21:03:55.562014+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:47.260114+00:00",
-  "LastUpdate_Ratings": "2023-12-20T19:57:06.6258825+00:00",
-  "LastUpdate_Achievements": "2023-12-20T20:03:41.9074052+00:00"
+  "LastUpdate_Ratings": "2023-12-20T20:57:21.1805666+00:00",
+  "LastUpdate_Achievements": "2023-12-20T21:03:55.5620251+00:00"
 }

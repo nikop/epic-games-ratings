@@ -9,8 +9,8 @@
 | First to the post | 83.00% | ~55 |
 | A kind of Magic | 77.00% | ~51 |
 | Connected | 71.00% | ~47 |
-| Expansion | 67.00% | ~44 |
-| Harvest Time | 61.00% | ~40 |
+| Expansion | 68.00% | ~45 |
+| Harvest Time | 62.00% | ~41 |
 | Mine! | 61.00% | ~40 |
 | Artificer's Apprentice | 53.00% | ~35 |
 | Fly the friendly Sky | 47.00% | ~31 |
@@ -20,9 +20,9 @@
 | Alchemist's Apprentice | 39.00% | ~26 |
 | The Circle | 38.00% | ~25 |
 | Redecorating | 32.00% | ~21 |
+| Bad JuJu | 24.00% | ~16 |
 | Slave to the rhythm | 23.00% | ~15 |
 | Friend of Sevenkeeps | 23.00% | ~15 |
-| Bad JuJu | 23.00% | ~15 |
 | Castle Meldec | 21.00% | ~14 |
 | Sevenkeeps Seat of Kings | 18.00% | ~12 |
 | Friend of Alluvyan | 17.00% | ~11 |

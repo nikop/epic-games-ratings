@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 299,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2053,
+  "EOS_Progressed": 2055,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7849,6 +7849,11 @@
       "Time": "2023-12-20T20:04:02.273325+00:00",
       "NumProgressed": 2053,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T21:04:14.3777949+00:00",
+      "NumProgressed": 2055,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7858,9 +7863,9 @@
       "ID": "ach_defeat_aliens_250",
       "SetID": "bm61c2p",
       "Name": "Know The Enemy",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 75,
-      "UsersEstimate": 123
+      "UsersEstimate": 103
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -7930,9 +7935,9 @@
       "ID": "ach_silver_rewards_50",
       "SetID": "bm61c2p",
       "Name": "Silver Achiever",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 123
+      "UsersEstimate": 103
     },
     {
       "ID": "objective_headquarters_10",
@@ -7980,7 +7985,7 @@
       "Name": "Sergeant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -7988,7 +7993,7 @@
       "Name": "Lieutenant",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -8036,7 +8041,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -8044,7 +8049,7 @@
       "Name": "Covert Operative",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -8052,7 +8057,7 @@
       "Name": "Getting Deployment",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -8084,7 +8089,7 @@
       "Name": "On Target",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -8116,7 +8121,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -8163,7 +8168,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2053,
+      "Progressed": 2055,
       "Completed": 1
     }
   ],
@@ -8171,8 +8176,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-11T08:59:11.5639448+00:00",
-  "LastChanged_Achievements": "2023-12-20T20:04:02.2733247+00:00",
+  "LastChanged_Achievements": "2023-12-20T21:04:14.3777937+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:15.2562842+00:00",
-  "LastUpdate_Ratings": "2023-12-20T19:59:23.5790038+00:00",
-  "LastUpdate_Achievements": "2023-12-20T20:04:02.2733916+00:00"
+  "LastUpdate_Ratings": "2023-12-20T20:59:33.4953035+00:00",
+  "LastUpdate_Achievements": "2023-12-20T21:04:14.3778458+00:00"
 }

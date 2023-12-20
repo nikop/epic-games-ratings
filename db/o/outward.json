@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 392,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4051,
+  "EOS_Progressed": 4053,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 311,
+  "EOS_NewPlayers": 313,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -6541,6 +6541,11 @@
       "Time": "2023-12-20T20:05:28.8049468+00:00",
       "NumProgressed": 4051,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-20T21:05:36.9870238+00:00",
+      "NumProgressed": 4053,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -6592,7 +6597,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1742
+      "UsersEstimate": 1743
     },
     {
       "ID": "CrowdPleaser",
@@ -6624,7 +6629,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "ForAllAurai_8",
@@ -6656,7 +6661,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "HouseofCards_19",
@@ -6744,7 +6749,7 @@
       "Name": "Ready for Winter",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 2552
+      "UsersEstimate": 2553
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -6776,7 +6781,7 @@
       "Name": "Tapped!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1459
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -6872,7 +6877,7 @@
       "Name": "Venture Outward",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2998
+      "UsersEstimate": 2999
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -6887,15 +6892,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4051,
+      "Progressed": 4053,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-20T20:05:28.8049465+00:00",
+  "LastChanged_Achievements": "2023-12-20T21:05:36.9870235+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:45.1407734+00:00",
-  "LastUpdate_Ratings": "2023-12-20T20:02:48.6079789+00:00",
-  "LastUpdate_Achievements": "2023-12-20T20:05:28.8049918+00:00"
+  "LastUpdate_Ratings": "2023-12-20T21:03:04.1534952+00:00",
+  "LastUpdate_Achievements": "2023-12-20T21:05:36.9870799+00:00"
 }

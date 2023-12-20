@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Such a strange dream… | 88.00% | ~383 |
 | Your first fight | 85.00% | ~370 |
+| Good Person Chip | 84.00% | ~365 |
 | First winning | 83.00% | ~361 |
-| Good Person Chip | 83.00% | ~361 |
 | Your first job | 82.00% | ~357 |
 | Fitness professional | 76.00% | ~331 |
 | Old movies enjoyer | 76.00% | ~331 |
@@ -28,18 +28,18 @@
 | Handyman | 56.00% | ~244 |
 | Little hacker | 55.00% | ~239 |
 | Champion – starter pack | 55.00% | ~239 |
+| It's good to be alive | 55.00% | ~239 |
 | Intriguing candies | 55.00% | ~239 |
 | Employee of the year | 55.00% | ~239 |
 | Fight for life | 54.00% | ~235 |
-| It's good to be alive | 54.00% | ~235 |
 | Own four walls | 54.00% | ~235 |
 | Legal courier | 50.00% | ~218 |
 | Extreme neuropower! | 50.00% | ~218 |
 | Escaped from a big trouble | 47.00% | ~204 |
 | Now you are worthy | 44.00% | ~191 |
 | Fight is life | 43.00% | ~187 |
+| Guiding on the right path | 42.00% | ~183 |
 | Mysterious voice | 41.00% | ~178 |
-| Guiding on the right path | 41.00% | ~178 |
 | No blades in the gym | 40.00% | ~174 |
 | Champion – no way back | 38.00% | ~165 |
 | Underground dwellers | 37.00% | ~161 |

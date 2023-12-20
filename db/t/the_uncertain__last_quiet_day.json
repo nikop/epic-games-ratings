@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
     "PcReleaseDate": "2016-09-22T14:42:57+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 599,
+  "EOS_Progressed": 600,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.17,
   "EosHistory": [
@@ -924,6 +924,11 @@
       "Time": "2023-12-19T22:09:48.4040929+00:00",
       "NumProgressed": 599,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-12-20T21:10:02.3307639+00:00",
+      "NumProgressed": 600,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 32,
@@ -959,7 +964,7 @@
       "Name": "Buckle up",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "CONCRETE_PAINTING",
@@ -1023,7 +1028,7 @@
       "Name": "Hands up!",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "HAPPY_HALLOWEEN",
@@ -1055,7 +1060,7 @@
       "Name": "I can do a thing or two",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "LUCKY_DOG",
@@ -1095,7 +1100,7 @@
       "Name": "Now you know",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "PERFECT_HEARING",
@@ -1127,7 +1132,7 @@
       "Name": "Quick charge",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "SHORT_CIRCUIT",
@@ -1135,7 +1140,7 @@
       "Name": "Short circuit",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "SILENT",
@@ -1190,7 +1195,7 @@
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 599,
+      "Progressed": 600,
       "Completed": 19
     }
   ],
@@ -1198,8 +1203,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-12-08T04:01:04.3643054+00:00",
-  "LastChanged_Achievements": "2023-12-20T20:09:41.2884136+00:00",
+  "LastChanged_Achievements": "2023-12-20T21:10:02.3307636+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.7016288+00:00",
-  "LastUpdate_Ratings": "2023-12-20T19:59:37.1331381+00:00",
-  "LastUpdate_Achievements": "2023-12-20T20:09:41.2884312+00:00"
+  "LastUpdate_Ratings": "2023-12-20T20:59:46.6814642+00:00",
+  "LastUpdate_Achievements": "2023-12-20T21:10:02.3307857+00:00"
 }

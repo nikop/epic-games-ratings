@@ -143,9 +143,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15520,
+  "EOS_Progressed": 15522,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 442,
+  "EOS_NewPlayers": 440,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4253,6 +4253,11 @@
       "Time": "2023-12-20T20:09:04.6313153+00:00",
       "NumProgressed": 15520,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-20T21:09:27.2056866+00:00",
+      "NumProgressed": 15522,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -4297,7 +4302,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 11640
+      "UsersEstimate": 11642
     },
     {
       "ID": "ACH_AE_14",
@@ -4313,7 +4318,7 @@
       "Name": "Right Back At You",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3414
+      "UsersEstimate": 3415
     },
     {
       "ID": "ACH_AE_16",
@@ -4375,9 +4380,9 @@
       "ID": "ACH_AE_22",
       "SetID": "ck3465",
       "Name": "The High Road",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 3570
+      "UsersEstimate": 3725
     },
     {
       "ID": "ACH_AE_23",
@@ -4441,7 +4446,7 @@
       "Name": "Pajama Boy",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 2638
+      "UsersEstimate": 2639
     },
     {
       "ID": "ACH_AE_30",
@@ -4505,7 +4510,7 @@
       "Name": "Bad Chemistry",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1862
+      "UsersEstimate": 1863
     },
     {
       "ID": "ACH_AE_6",
@@ -4544,7 +4549,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 15520,
+      "Progressed": 15522,
       "Completed": 14
     }
   ],
@@ -4552,8 +4557,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-13T16:00:23.030195+00:00",
-  "LastChanged_Achievements": "2023-12-20T20:09:04.6313151+00:00",
+  "LastChanged_Achievements": "2023-12-20T21:09:27.2056862+00:00",
   "LastUpdate_AppInfo": "2023-12-19T17:57:04.7850695+00:00",
-  "LastUpdate_Ratings": "2023-12-20T19:59:31.1932187+00:00",
-  "LastUpdate_Achievements": "2023-12-20T20:09:04.63135+00:00"
+  "LastUpdate_Ratings": "2023-12-20T20:59:40.8677062+00:00",
+  "LastUpdate_Achievements": "2023-12-20T21:09:27.2057231+00:00"
 }

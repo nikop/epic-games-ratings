@@ -163,9 +163,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7559,
+  "EOS_Progressed": 7560,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 285,
+  "EOS_NewPlayers": 281,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -7683,6 +7683,11 @@
       "Time": "2023-12-20T20:06:32.6562807+00:00",
       "NumProgressed": 7559,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-12-20T21:06:38.9009757+00:00",
+      "NumProgressed": 7560,
+      "NumCompleted": 45
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -7693,9 +7698,9 @@
       "ID": "achievement_01_01_arcadeFTUX",
       "SetID": "4f1m94d",
       "Name": "First of Many",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 6576
+      "UsersEstimate": 6653
     },
     {
       "ID": "achievement_01_02",
@@ -7711,7 +7716,7 @@
       "Name": "Brand New Ride",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4913
+      "UsersEstimate": 4914
     },
     {
       "ID": "achievement_01_04",
@@ -7735,7 +7740,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4535
+      "UsersEstimate": 4536
     },
     {
       "ID": "achievement_01_07",
@@ -7751,7 +7756,7 @@
       "Name": "Trophy Collector",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 5669
+      "UsersEstimate": 5670
     },
     {
       "ID": "achievement_01_09",
@@ -7767,7 +7772,7 @@
       "Name": "Beat the Clock",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 4157
+      "UsersEstimate": 4158
     },
     {
       "ID": "achievement_02_01",
@@ -7775,7 +7780,7 @@
       "Name": "Roll the Credits!",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "achievement_02_02",
@@ -7935,7 +7940,7 @@
       "Name": "Gotta go Fast",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 3628
+      "UsersEstimate": 3629
     },
     {
       "ID": "achievement_04_03",
@@ -7943,7 +7948,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 4006
+      "UsersEstimate": 4007
     },
     {
       "ID": "achievement_04_04",
@@ -7975,7 +7980,7 @@
       "Name": "Nitro Saver",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 3855
+      "UsersEstimate": 3856
     },
     {
       "ID": "achievement_04_08",
@@ -7983,7 +7988,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 6576
+      "UsersEstimate": 6577
     },
     {
       "ID": "achievement_04_09",
@@ -7991,14 +7996,14 @@
       "Name": "Nitro on a curve? Better not.",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 2721
+      "UsersEstimate": 2722
     }
   ],
   "AchievementSets": [
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 7559,
+      "Progressed": 7560,
       "Completed": 45
     }
   ],
@@ -8006,8 +8011,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-12-20T14:59:57.7914737+00:00",
-  "LastChanged_Achievements": "2023-12-20T20:06:32.6562803+00:00",
+  "LastChanged_Achievements": "2023-12-20T21:06:38.9009753+00:00",
   "LastUpdate_AppInfo": "2023-12-14T22:57:19.0822196+00:00",
-  "LastUpdate_Ratings": "2023-12-20T20:00:05.6857981+00:00",
-  "LastUpdate_Achievements": "2023-12-20T20:06:32.6563485+00:00"
+  "LastUpdate_Ratings": "2023-12-20T21:00:14.1765694+00:00",
+  "LastUpdate_Achievements": "2023-12-20T21:06:38.9010326+00:00"
 }

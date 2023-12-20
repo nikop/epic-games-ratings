@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -222,7 +222,7 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 1062,
+  "EOS_Progressed": 1063,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
@@ -2767,6 +2767,11 @@
       "Time": "2023-12-20T20:05:06.2886822+00:00",
       "NumProgressed": 1062,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T21:05:15.2230097+00:00",
+      "NumProgressed": 1063,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2779,7 +2784,7 @@
       "Name": "Ab Aeterno",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "AbInitio",
@@ -2843,7 +2848,7 @@
       "Name": "Chasing the Light",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "Chicken",
@@ -2851,7 +2856,7 @@
       "Name": "Chicken",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "CircularOasis",
@@ -2875,7 +2880,7 @@
       "Name": "Discovery",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "EasternWetlands",
@@ -2947,7 +2952,7 @@
       "Name": "Into the Machine",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "JustOneLap",
@@ -3065,9 +3070,9 @@
       "ID": "RemnantsOfThePast",
       "SetID": "1n308hc",
       "Name": "Remnants of the Past",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 266
     },
     {
       "ID": "RenaissanceRobot",
@@ -3131,7 +3136,7 @@
       "Name": "Text Adventurer",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "TheAllGifted",
@@ -3163,7 +3168,7 @@
       "Name": "The Hard Way",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "TheSpark",
@@ -3235,22 +3240,22 @@
       "Name": "Wooded Plateau",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "YourBiggestFan",
       "SetID": "1n308hc",
       "Name": "Your Biggest Fan",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 117
     }
   ],
   "AchievementSets": [
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1062,
+      "Progressed": 1063,
       "Completed": 1
     }
   ],
@@ -3258,8 +3263,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-20T20:05:06.2886821+00:00",
+  "LastChanged_Achievements": "2023-12-20T21:05:15.2230094+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-20T19:59:47.9374465+00:00",
-  "LastUpdate_Achievements": "2023-12-20T20:05:06.2887283+00:00"
+  "LastUpdate_Ratings": "2023-12-20T20:59:57.3429761+00:00",
+  "LastUpdate_Achievements": "2023-12-20T21:05:15.2230538+00:00"
 }

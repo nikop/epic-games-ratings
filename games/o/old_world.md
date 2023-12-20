@@ -98,6 +98,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat | 0.10% | ~16 |
 | Hagia Sophia | 0.10% | ~16 |
 | Hanging Gardens | 0.10% | ~16 |
+| Church of the Holy Sepulchre | 0.10% | ~16 |
 | Temple of Solomon | 0.10% | ~16 |
 | Cao'an | 0.10% | ~16 |
 | Adur Burzen-Mihr | 0.10% | ~16 |
@@ -265,7 +266,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Eastern Empire | 0.00% | ~0 |
 | Mausoleum in Halicarnassus | 0.00% | ~0 |
 | Hardcore | 0.00% | ~0 |
-| Church of the Holy Sepulchre | 0.00% | ~0 |
 | Knowledge of the Ancients | 0.00% | ~0 |
 | Learn By Playing 3 - Good | 0.00% | ~0 |
 | Learn By Playing 4 - Strong | 0.00% | ~0 |

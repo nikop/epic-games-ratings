@@ -52,15 +52,16 @@
 | Watcher | 1.00% | ~2 |
 | Loremaster | 1.00% | ~2 |
 | Adept | 1.00% | ~2 |
+| Ever After | 1.00% | ~2 |
 | Moving At Odd Angles | 1.00% | ~2 |
 | Wyrmslayer | 1.00% | ~2 |
 | Glorious leader | 1.00% | ~2 |
 | Voracity Confronted | 1.00% | ~2 |
 | Executor | 0.90% | ~2 |
 | Embellished | 0.90% | ~2 |
-| Ever After | 0.90% | ~2 |
 | Trailblazer | 0.90% | ~2 |
 | Huntsmaster | 0.90% | ~2 |
+| Mercenary | 0.90% | ~2 |
 | Escort | 0.90% | ~2 |
 | Ruiner | 0.90% | ~2 |
 | What Lies Below | 0.90% | ~2 |
@@ -75,7 +76,6 @@
 | Manticore | 0.40% | ~1 |
 | Chromatic Collector | 0.40% | ~1 |
 | Loader | 0.40% | ~1 |
-| Mercenary | 0.40% | ~1 |
 | Despoiler | 0.40% | ~1 |
 | Celebrity | 0.40% | ~1 |
 | Arcanite | 0.40% | ~1 |

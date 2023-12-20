@@ -4,8 +4,8 @@
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 357,
   "Ranking_EOS_Completed": 19,
-  "Ranking_EOS_NewPlayers": 305,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
     "PcReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -1972,9 +1972,9 @@
       "ID": "Screwdriver",
       "SetID": "7jbi7el",
       "Name": "Screwdriver",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 70,
-      "UsersEstimate": 257
+      "UsersEstimate": 260
     },
     {
       "ID": "SecretRoom",
@@ -2003,8 +2003,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-12-20T20:03:51.7887093+00:00",
+  "LastChanged_Achievements": "2023-12-20T21:04:04.6370534+00:00",
   "LastUpdate_AppInfo": "2023-12-20T02:56:48.8578291+00:00",
-  "LastUpdate_Ratings": "2023-12-20T19:58:21.9837677+00:00",
-  "LastUpdate_Achievements": "2023-12-20T20:03:51.7887289+00:00"
+  "LastUpdate_Ratings": "2023-12-20T20:58:34.6822766+00:00",
+  "LastUpdate_Achievements": "2023-12-20T21:04:04.6370788+00:00"
 }
