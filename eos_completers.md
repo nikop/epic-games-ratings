@@ -21,7 +21,7 @@
 | 19 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.64% |
 | 20 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 21 | [Doodle Devil](games/d/doodle_devil.md) | 20.69% |
-| 22 | [The Riflemen](games/t/the_riflemen.md) | 20.12% |
+| 22 | [The Riflemen](games/t/the_riflemen.md) | 20.11% |
 | 23 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 23 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.00% |
 | 25 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.06% |
@@ -54,7 +54,7 @@
 | 52 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 53 | [Ravenlok](games/r/ravenlok.md) | 7.65% |
 | 54 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.30% |
-| 55 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.28% |
+| 55 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.27% |
 | 56 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.25% |
 | 57 | [Scorn](games/s/scorn.md) | 7.02% |
 | 58 | [Anna's Quest](games/a/anna's_quest.md) | 6.98% |
@@ -117,7 +117,7 @@
 | 115 | [Without Escape](games/w/without_escape.md) | 2.86% |
 | 116 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.85% |
 | 117 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.79% |
-| 117 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2.79% |
+| 118 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2.78% |
 | 119 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 120 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.70% |
 | 120 | [Mega City Force](games/m/mega_city_police.md) | 2.70% |
@@ -141,7 +141,7 @@
 | 139 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.85% |
 | 140 | [Sifu](games/s/sifu.md) | 1.76% |
 | 141 | [Frogun](games/f/frogun.md) | 1.75% |
-| 142 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.64% |
+| 142 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.63% |
 | 143 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.62% |
 | 144 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.59% |
 | 145 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.57% |
