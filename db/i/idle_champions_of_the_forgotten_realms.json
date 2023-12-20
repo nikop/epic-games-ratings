@@ -8899,9 +8899,9 @@
       "Count": 3581
     }
   ],
-  "EOS_Progressed": 242231,
+  "EOS_Progressed": 242242,
   "EOS_Completed": 2546,
-  "EOS_NewPlayers": 2621,
+  "EOS_NewPlayers": 2630,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -36434,6 +36434,11 @@
       "Time": "2023-12-20T11:11:15.4904621+00:00",
       "NumProgressed": 242231,
       "NumCompleted": 2546
+    },
+    {
+      "Time": "2023-12-20T12:10:54.4315603+00:00",
+      "NumProgressed": 242242,
+      "NumCompleted": 2546
     }
   ],
   "TotalAchievements": 546,
@@ -38115,9 +38120,9 @@
       "ID": "objective_completed_3",
       "SetID": "cc37lbc",
       "Name": "The Cursed Farmer",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 727
+      "UsersEstimate": 969
     },
     {
       "ID": "objective_completed_34",
@@ -40763,9 +40768,9 @@
       "ID": "objective_completed_598",
       "SetID": "415jc5c",
       "Name": "The Overgrown Grove",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 626
+      "UsersEstimate": 834
     },
     {
       "ID": "objective_completed_673",
@@ -40812,21 +40817,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 208505,
+      "Progressed": 208516,
       "Completed": 4047
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 242231,
+      "Progressed": 242242,
       "Completed": 2546
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-20T10:00:37.0523856+00:00",
-  "LastChanged_Achievements": "2023-12-20T11:11:15.4904617+00:00",
+  "LastChanged_Achievements": "2023-12-20T12:10:54.4315597+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:52.1318001+00:00",
-  "LastUpdate_Ratings": "2023-12-20T11:02:52.6860582+00:00",
-  "LastUpdate_Achievements": "2023-12-20T11:11:15.4929317+00:00"
+  "LastUpdate_Ratings": "2023-12-20T12:02:45.2630446+00:00",
+  "LastUpdate_Achievements": "2023-12-20T12:10:54.4338007+00:00"
 }

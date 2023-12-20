@@ -36,9 +36,9 @@ Rating: 3.57 (Ranked 1,062)
 | Helping Hand | 1.00% | ~20 |
 | You Clean It Up | 0.90% | ~18 |
 | Nice Try | 0.90% | ~18 |
+| Blacklight Down | 0.90% | ~18 |
 | Revelations | 0.80% | ~16 |
 | Check, Please! | 0.80% | ~16 |
-| Blacklight Down | 0.80% | ~16 |
 | Curious Finch | 0.80% | ~16 |
 | Block Party | 0.70% | ~14 |
 | Right This Way | 0.50% | ~10 |

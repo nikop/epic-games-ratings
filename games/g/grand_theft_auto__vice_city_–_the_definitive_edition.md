@@ -5,29 +5,29 @@ Rating: 4.53 (Ranked 550)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~5,987 |
-| Greasy Palms | 42.00% | ~5,466 |
-| South American Connection | 25.00% | ~3,254 |
-| Life of the Party | 20.00% | ~2,603 |
-| Tommy Two-Wheels | 15.00% | ~1,952 |
-| Big Heat from Little Havana | 14.00% | ~1,822 |
-| Chauffeur | 14.00% | ~1,822 |
+| Legal Counsel | 46.00% | ~5,990 |
+| Greasy Palms | 42.00% | ~5,469 |
+| South American Connection | 25.00% | ~3,255 |
+| Life of the Party | 20.00% | ~2,604 |
+| Tommy Two-Wheels | 15.00% | ~1,953 |
+| Big Heat from Little Havana | 14.00% | ~1,823 |
+| Chauffeur | 14.00% | ~1,823 |
 | Salutations My Little Friend | 11.00% | ~1,432 |
 | Iron-y | 10.00% | ~1,302 |
-| Gun for Hire | 9.00% | ~1,171 |
-| Mischief Managed | 8.00% | ~1,041 |
+| Gun for Hire | 9.00% | ~1,172 |
+| Mischief Managed | 8.00% | ~1,042 |
 | Vice City Mogul | 7.00% | ~911 |
 | Catch Me if You Can | 6.00% | ~781 |
 | Bloodstained Hands | 6.00% | ~781 |
 | Not my First Time | 5.00% | ~651 |
 | Grand Theft Auto | 5.00% | ~651 |
 | Pie Guy | 4.00% | ~521 |
-| Point A to Point B | 3.00% | ~390 |
-| High Quality H2O | 3.00% | ~390 |
-| Bull in a China Shop | 3.00% | ~390 |
-| Somebody Call the Wambulance? | 3.00% | ~390 |
-| Just Like the Real Thing | 3.00% | ~390 |
-| Don't Need Roads | 3.00% | ~390 |
+| Point A to Point B | 3.00% | ~391 |
+| High Quality H2O | 3.00% | ~391 |
+| Bull in a China Shop | 3.00% | ~391 |
+| Somebody Call the Wambulance? | 3.00% | ~391 |
+| Just Like the Real Thing | 3.00% | ~391 |
+| Don't Need Roads | 3.00% | ~391 |
 | Running Rampant | 2.00% | ~260 |
 | One is Better Than Two | 2.00% | ~260 |
 | Take the Cannoli | 2.00% | ~260 |
@@ -40,7 +40,7 @@ Rating: 4.53 (Ranked 550)
 | Done it All | 0.90% | ~117 |
 | Kingpin | 0.50% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,015 (Ranked 165)  
+Progressed: 13,021 (Ranked 165)  
 Completed: 70 (0.54%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 70 (0.54%) (Ranked 209)
 | 2023-12-17 | 12,602 | 68 |
 | 2023-12-18 | 12,767 | 70 |
 | 2023-12-19 | 12,956 | 70 |
-| 2023-12-20 | 13,015 | 70 |
+| 2023-12-20 | 13,021 | 70 |
 ## Awards
 Max (Great Boss Battles): 130  (Ranked 338)  
 Sum: 130 (Ranked 440)  

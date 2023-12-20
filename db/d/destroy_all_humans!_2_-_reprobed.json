@@ -3,11 +3,11 @@
   "Name": "Destroy All Humans! 2 - Reprobed",
   "ProductSlug": "destroy-all-humans-2-reprobed",
   "Ranking_Rating": 550,
-  "Ranking_Popularity": 481,
-  "Ranking_PopularitySum": 513,
-  "Ranking_EOS_Progress": 432,
+  "Ranking_Popularity": 482,
+  "Ranking_PopularitySum": 514,
+  "Ranking_EOS_Progress": 430,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 161,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -276,9 +276,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 134,
+  "EOS_Progressed": 135,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -816,6 +816,11 @@
       "Time": "2023-12-20T06:09:02.0064548+00:00",
       "NumProgressed": 134,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T12:09:18.2393617+00:00",
+      "NumProgressed": 135,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -844,7 +849,7 @@
       "Name": "Perfect Probulator",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_BASKETBALL_SLAM",
@@ -900,7 +905,7 @@
       "Name": "Cult Following",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -962,9 +967,9 @@
       "ID": "ACH_ENTER_BAYCITY",
       "SetID": "4n84pon",
       "Name": "Rock of the Bay",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 95
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -994,9 +999,9 @@
       "ID": "ACH_KILL_BONGWATER",
       "SetID": "4n84pon",
       "Name": "Bodied Sattva",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -1028,7 +1033,7 @@
       "Name": "Die Nasty",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_KILL_REINCARNATOR",
@@ -1074,9 +1079,9 @@
       "ID": "ACH_OPEN_FLUFF_MENU",
       "SetID": "4n84pon",
       "Name": "Earthly Pleasures",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -1084,7 +1089,7 @@
       "Name": "Upgreatest",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -1179,7 +1184,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 134,
+      "Progressed": 135,
       "Completed": 0
     }
   ],
@@ -1187,8 +1192,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-20T11:09:36.4488123+00:00",
+  "LastChanged_Achievements": "2023-12-20T12:09:18.2393615+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:43.3974092+00:00",
-  "LastUpdate_Ratings": "2023-12-20T10:58:28.7379235+00:00",
-  "LastUpdate_Achievements": "2023-12-20T11:09:36.4488507+00:00"
+  "LastUpdate_Ratings": "2023-12-20T11:58:37.1230479+00:00",
+  "LastUpdate_Achievements": "2023-12-20T12:09:18.2393913+00:00"
 }

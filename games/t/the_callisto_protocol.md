@@ -5,10 +5,10 @@ Rating: 4.19 (Ranked 939)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 14.00% | ~2,547 |
-| The Outer Way | 14.00% | ~2,547 |
-| Get a Grip | 13.00% | ~2,365 |
-| Paper Jams | 13.00% | ~2,365 |
+| Flesh Wound | 14.00% | ~2,548 |
+| The Outer Way | 14.00% | ~2,548 |
+| Get a Grip | 13.00% | ~2,366 |
+| Paper Jams | 13.00% | ~2,366 |
 | Desperate Times | 12.00% | ~2,184 |
 | Chew 'Em Up | 11.00% | ~2,002 |
 | Float Like A Butterfly | 10.00% | ~1,820 |
@@ -24,13 +24,13 @@ Rating: 4.19 (Ranked 939)
 | What Lies Beneath | 6.00% | ~1,092 |
 | Full Circle | 6.00% | ~1,092 |
 | Power Up | 6.00% | ~1,092 |
-| Keep Fighting | 6.00% | ~367 |
+| Keep Fighting | 6.00% | ~368 |
 | Giving Back | 5.00% | ~910 |
 | I Do Belong Here | 5.00% | ~910 |
 | It's Time | 4.00% | ~245 |
 | In Striking Distance | 3.00% | ~546 |
 | The Commonality | 3.00% | ~546 |
-| One Last Job | 2.00% | ~122 |
+| One Last Job | 2.00% | ~123 |
 | Big Spender | 1.00% | ~61 |
 | This Isn't About Escape | 1.00% | ~61 |
 | Armed to the Teeth | 0.90% | ~55 |
@@ -40,7 +40,7 @@ Rating: 4.19 (Ranked 939)
 | Information Overload | 0.80% | ~49 |
 | Instigator | 0.70% | ~43 |
 | Quick Pick | 0.60% | ~37 |
-| Subject Alpha | 0.40% | ~24 |
+| Subject Alpha | 0.40% | ~25 |
 | Don't Let It Mellow | 0.30% | ~18 |
 | The Protocol is About Life | 0.20% | ~36 |
 | Recidivist | 0.20% | ~12 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 939)
 | Bear Trap | 0.10% | ~6 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,196 (Ranked 148)  
+Progressed: 18,201 (Ranked 148)  
 Completed: 82 (0.45%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,11 +289,11 @@ Completed: 82 (0.45%) (Ranked 223)
 | 2023-12-17 | 17,760 | 82 |
 | 2023-12-18 | 17,946 | 82 |
 | 2023-12-19 | 18,137 | 82 |
-| 2023-12-20 | 18,196 | 82 |
+| 2023-12-20 | 18,201 | 82 |
 ## Awards
-Max (Quickly Understood Controls): 89  (Ranked 387)  
+Max (Quickly Understood Controls): 89  (Ranked 388)  
 Sum: 529 (Ranked 326)  
-Diff (max vs sum): 61  
+Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 89 |

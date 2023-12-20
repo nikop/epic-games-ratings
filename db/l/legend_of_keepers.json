@@ -3,8 +3,8 @@
   "Name": "Legend of Keepers",
   "ProductSlug": "legend-of-keepers",
   "Ranking_Rating": 512,
-  "Ranking_Popularity": 567,
-  "Ranking_PopularitySum": 567,
+  "Ranking_Popularity": 569,
+  "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 810,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 558,
@@ -187,6 +187,6 @@
   "FirstSeen": "2022-07-22T20:26:54.4614277+00:00",
   "LastChanged": "2023-12-17T18:57:57.9774679+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:07.6324165+00:00",
-  "LastUpdate_Ratings": "2023-12-20T11:00:05.1604447+00:00",
-  "LastUpdate_Achievements": "2023-12-20T11:09:39.3629134+00:00"
+  "LastUpdate_Ratings": "2023-12-20T12:00:09.8641685+00:00",
+  "LastUpdate_Achievements": "2023-12-20T12:09:21.0750804+00:00"
 }

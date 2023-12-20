@@ -3,8 +3,8 @@
   "Name": "Tails of Iron",
   "ProductSlug": "tails-of-iron-587abd",
   "Ranking_Rating": 497,
-  "Ranking_Popularity": 567,
-  "Ranking_PopularitySum": 567,
+  "Ranking_Popularity": 569,
+  "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 324,
@@ -4246,9 +4246,9 @@
       "ID": "MeetTheMoles",
       "SetID": "9lj35g4",
       "Name": "Meet the Creatures from the Deep",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "MysteryKingsChamber",
@@ -4294,9 +4294,9 @@
       "ID": "ReturnPowerInMines",
       "SetID": "9lj35g4",
       "Name": "Return Power To The Depths",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "DefeatCroakhisKhan",
@@ -4365,8 +4365,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-12-16T18:59:01.3536966+00:00",
-  "LastChanged_Achievements": "2023-12-20T11:03:55.0228503+00:00",
+  "LastChanged_Achievements": "2023-12-20T12:04:05.6540856+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:33.7739845+00:00",
-  "LastUpdate_Ratings": "2023-12-20T10:57:16.6442846+00:00",
-  "LastUpdate_Achievements": "2023-12-20T11:03:55.022899+00:00"
+  "LastUpdate_Ratings": "2023-12-20T11:57:27.6880037+00:00",
+  "LastUpdate_Achievements": "2023-12-20T12:04:05.6541252+00:00"
 }

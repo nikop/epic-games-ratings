@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 161,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1500,9 +1500,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 25831,
+  "EOS_Progressed": 25853,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 2126,
+  "EOS_NewPlayers": 2148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -11195,6 +11195,11 @@
       "Time": "2023-12-20T11:10:44.5125438+00:00",
       "NumProgressed": 25831,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-20T12:10:24.0000086+00:00",
+      "NumProgressed": 25853,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -11252,9 +11257,9 @@
       "ID": "AllSkills",
       "SetID": "3ojhj46",
       "Name": "Looks Familiar",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 181
+      "UsersEstimate": 155
     },
     {
       "ID": "BossBridgeAdvancedDefeated",
@@ -11270,7 +11275,7 @@
       "Name": "Captain and Crew",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -11286,7 +11291,7 @@
       "Name": "Spells and Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1292
+      "UsersEstimate": 1293
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -11294,7 +11299,7 @@
       "Name": "For Wrath",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "BossCaveDefeated",
@@ -11302,7 +11307,7 @@
       "Name": "Hands and Hammers",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "BossFinalAdvancedDefeated",
@@ -11318,7 +11323,7 @@
       "Name": "King and Kin",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "BossForestAdvancedDefeated",
@@ -11350,7 +11355,7 @@
       "Name": "Progenitor and Prot\u00E9g\u00E9",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "BossStudyAdvancedDefeated",
@@ -11374,7 +11379,7 @@
       "Name": "For Pride",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "BossTowerDefeated",
@@ -11390,7 +11395,7 @@
       "Name": "K.O.",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "EnableHouseRules",
@@ -11398,7 +11403,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "EndTimerFail",
@@ -11462,7 +11467,7 @@
       "Name": "Prequel to the Sequel",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "RogueMode",
@@ -11478,7 +11483,7 @@
       "Name": "Just the Beginning",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "StoryTutorial",
@@ -11486,7 +11491,7 @@
       "Name": "Wasted Betrayal",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "TitleDrop",
@@ -11510,28 +11515,28 @@
       "Name": "Color Coordination",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 25831,
+      "Progressed": 25853,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 4761,
+      "Progressed": 4783,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-07T09:58:25.2813813+00:00",
-  "LastChanged_Achievements": "2023-12-20T11:10:44.5125434+00:00",
+  "LastChanged_Achievements": "2023-12-20T12:10:24.0000082+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:44.2937948+00:00",
-  "LastUpdate_Ratings": "2023-12-20T10:58:32.8738851+00:00",
-  "LastUpdate_Achievements": "2023-12-20T11:10:44.512616+00:00"
+  "LastUpdate_Ratings": "2023-12-20T11:58:41.2067134+00:00",
+  "LastUpdate_Achievements": "2023-12-20T12:10:24.0000785+00:00"
 }

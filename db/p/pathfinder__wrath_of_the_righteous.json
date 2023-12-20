@@ -2,7 +2,7 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 131,
+  "Ranking_Rating": 130,
   "Ranking_Popularity": 124,
   "Ranking_PopularitySum": 123,
   "Ranking_EOS_Progress": 167,
@@ -4563,10 +4563,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7151,
       "NumberOfAwardsMax": 1763
+    },
+    {
+      "Time": "2023-12-20T11:57:54.1211675+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7152,
+      "NumberOfAwardsMax": 1763
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7151,
+  "NumberOfAwards": 7152,
   "NumberOfAwardsMax": 1763,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4616,7 +4622,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 563
+      "Count": 564
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4637,9 +4643,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12536,
+  "EOS_Progressed": 12537,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 243,
+  "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17447,6 +17453,11 @@
       "Time": "2023-12-20T11:11:08.1464028+00:00",
       "NumProgressed": 12536,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T12:10:47.1895305+00:00",
+      "NumProgressed": 12537,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -17466,7 +17477,7 @@
       "Name": "Burning City",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2256
+      "UsersEstimate": 2257
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -17594,7 +17605,7 @@
       "Name": "Mythic Choices",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1880
+      "UsersEstimate": 1881
     },
     {
       "ID": "19_EqualToAroden",
@@ -18385,21 +18396,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11318,
+      "Progressed": 11319,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12536,
+      "Progressed": 12537,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-12-19T14:57:09.5966829+00:00",
-  "LastChanged_Achievements": "2023-12-20T11:11:08.1464025+00:00",
+  "LastChanged": "2023-12-20T11:57:54.1211674+00:00",
+  "LastChanged_Achievements": "2023-12-20T12:10:47.1895303+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.7532096+00:00",
-  "LastUpdate_Ratings": "2023-12-20T10:57:44.2380948+00:00",
-  "LastUpdate_Achievements": "2023-12-20T11:11:08.146576+00:00"
+  "LastUpdate_Ratings": "2023-12-20T11:57:54.1211678+00:00",
+  "LastUpdate_Achievements": "2023-12-20T12:10:47.189686+00:00"
 }

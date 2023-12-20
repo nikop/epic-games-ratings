@@ -2,7 +2,7 @@
   "ID": "e966687f61fa4c40b1e53b45b6e4eb75",
   "Name": "Five Dates",
   "ProductSlug": "five-dates-60ef51",
-  "Ranking_EOS_Progress": 256,
+  "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 161,
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1330,
+  "EOS_Progressed": 1332,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 606,
+  "EOS_NewPlayers": 608,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
@@ -2395,6 +2395,11 @@
       "Time": "2023-12-20T11:10:51.7558214+00:00",
       "NumProgressed": 1330,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-20T12:10:30.8651168+00:00",
+      "NumProgressed": 1332,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 15,
@@ -2406,7 +2411,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1305
     },
     {
       "ID": "booty_call",
@@ -2430,7 +2435,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1279
     },
     {
       "ID": "hold_my_beer",
@@ -2438,7 +2443,7 @@
       "Name": "Hold my Beer",
       "Percentage": 62,
       "XP": 25,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -2454,7 +2459,7 @@
       "Name": "Interrogation",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "light_sleepers",
@@ -2510,7 +2515,7 @@
       "Name": "Sore Loser",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "we_go_again",
@@ -2525,7 +2530,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 1330,
+      "Progressed": 1332,
       "Completed": 11
     }
   ],
@@ -2533,8 +2538,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-12-20T11:10:51.7558211+00:00",
+  "LastChanged_Achievements": "2023-12-20T12:10:30.8651164+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:02.6209919+00:00",
-  "LastUpdate_Ratings": "2023-12-20T10:57:41.5334949+00:00",
-  "LastUpdate_Achievements": "2023-12-20T11:10:51.7558453+00:00"
+  "LastUpdate_Ratings": "2023-12-20T11:57:51.6460454+00:00",
+  "LastUpdate_Achievements": "2023-12-20T12:10:30.8651376+00:00"
 }

@@ -1,25 +1,25 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 261)  
+Rating: 4.68 (Ranked 260)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 8.00% | ~284 |
-| Lost and Found | 5.00% | ~177 |
-| This Belongs in a Museum | 4.00% | ~5,147 |
-| Autodidact | 4.00% | ~5,147 |
+| Malpractice Assurance | 8.00% | ~285 |
+| Lost and Found | 5.00% | ~178 |
+| This Belongs in a Museum | 4.00% | ~5,148 |
+| Autodidact | 4.00% | ~5,148 |
 | This guy... again? | 4.00% | ~142 |
 | Bloody Graduation | 4.00% | ~142 |
-| Serenity Now! | 3.00% | ~3,860 |
-| Not Today! | 3.00% | ~3,860 |
-| Creep and Sleep | 3.00% | ~3,860 |
-| Meat and Greet | 3.00% | ~3,860 |
-| Catch and Decease | 3.00% | ~3,860 |
-| Overdue Notice | 3.00% | ~3,860 |
-| Escape from the Black Hole | 3.00% | ~3,860 |
-| Ploughshares to Swords | 3.00% | ~106 |
+| Serenity Now! | 3.00% | ~3,861 |
+| Not Today! | 3.00% | ~3,861 |
+| Creep and Sleep | 3.00% | ~3,861 |
+| Meat and Greet | 3.00% | ~3,861 |
+| Catch and Decease | 3.00% | ~3,861 |
+| Overdue Notice | 3.00% | ~3,861 |
+| Escape from the Black Hole | 3.00% | ~3,861 |
+| Ploughshares to Swords | 3.00% | ~107 |
 | Don't Make Me Turn This Coach Around | 2.00% | ~2,574 |
 | It Rings a Bell | 2.00% | ~2,574 |
 | Dissector | 2.00% | ~2,574 |
@@ -57,8 +57,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Ichthyophobic | 0.90% | ~1,158 |
 | No More Mouths to Feed | 0.90% | ~1,158 |
 | Hot Air | 0.90% | ~1,158 |
-| This Looks Familiar | 0.80% | ~1,029 |
-| Eyes Up | 0.80% | ~1,029 |
+| This Looks Familiar | 0.80% | ~1,030 |
+| Eyes Up | 0.80% | ~1,030 |
 | Slap on the Wrist | 0.80% | ~28 |
 | For Old Time' Sake | 0.70% | ~25 |
 | Shrine of Reflection | 0.60% | ~772 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,680 (Ranked 85)  
+Progressed: 128,689 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,14 +320,14 @@ Completed: 3 (0.00%) (Ranked 385)
 | 2023-12-17 | 128,143 | 3 |
 | 2023-12-18 | 128,398 | 3 |
 | 2023-12-19 | 128,605 | 3 |
-| 2023-12-20 | 128,680 | 3 |
+| 2023-12-20 | 128,689 | 3 |
 ## Awards
-Max (Character Customization): 7,795  (Ranked 50)  
-Sum: 20,813 (Ranked 58)  
+Max (Character Customization): 7,805  (Ranked 50)  
+Sum: 20,823 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,795 |
+| This game has Inclusive Character Customization | 7,805 |
 | This game has Diverse Characters | 1,736 |
 | This game has Challenging Combat | 1,614 |
 | This game is Highly Recommended | 1,547 |
@@ -668,4 +668,4 @@ Diff (max vs sum): -8
 | 2023-12-17 | 4.68 | - | 7,763 | 20,673 |
 | 2023-12-18 | 4.68 | - | 7,784 | 20,761 |
 | 2023-12-19 | 4.68 | - | 7,795 | 20,806 |
-| 2023-12-20 | 4.68 | - | 7,795 | 20,813 |
+| 2023-12-20 | 4.68 | - | 7,805 | 20,823 |

@@ -2,9 +2,9 @@
   "ID": "f0757a2ab13941d89476cfa09df9a545",
   "Name": "Endling - Extinction is Forever",
   "ProductSlug": "endling-extinction-is-forever",
-  "Ranking_EOS_Progress": 324,
+  "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewPlayers": 398,
   "Ranking_EOS_NewCompleters": 161,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 561,
+  "EOS_Progressed": 562,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -994,6 +994,11 @@
       "Time": "2023-12-18T22:09:41.3958194+00:00",
       "NumProgressed": 561,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-20T12:10:44.8345588+00:00",
+      "NumProgressed": 562,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -1013,7 +1018,7 @@
       "Name": "We Are a Family",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "TROP002",
@@ -1027,17 +1032,17 @@
       "ID": "TROP003",
       "SetID": "9n0dl35",
       "Name": "Two Peas in a Pod",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 62
+      "UsersEstimate": 56
     },
     {
       "ID": "TROP004",
       "SetID": "9n0dl35",
       "Name": "All For One",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 56
     },
     {
       "ID": "TROP005",
@@ -1045,7 +1050,7 @@
       "Name": "A Friend in Need",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "TROP006",
@@ -1053,7 +1058,7 @@
       "Name": "Maternity",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "TROP007",
@@ -1069,7 +1074,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "TROP009",
@@ -1077,7 +1082,7 @@
       "Name": "Surviving",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "TROP010",
@@ -1091,9 +1096,9 @@
       "ID": "TROP011",
       "SetID": "9n0dl35",
       "Name": "Extinction is Forever",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 62
+      "UsersEstimate": 56
     },
     {
       "ID": "TROP012",
@@ -1101,7 +1106,7 @@
       "Name": "Never Give Up",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "TROP013",
@@ -1197,7 +1202,7 @@
       "Name": "You Can Pet The Fox",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "TROP025",
@@ -1213,7 +1218,7 @@
       "Name": "Lullaby",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "TROP027",
@@ -1228,7 +1233,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 561,
+      "Progressed": 562,
       "Completed": 3
     }
   ],
@@ -1236,8 +1241,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-12-20T11:11:05.8534211+00:00",
+  "LastChanged_Achievements": "2023-12-20T12:10:44.8345587+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:57.910858+00:00",
-  "LastUpdate_Ratings": "2023-12-20T10:57:12.1556956+00:00",
-  "LastUpdate_Achievements": "2023-12-20T11:11:05.8534396+00:00"
+  "LastUpdate_Ratings": "2023-12-20T11:57:23.3283392+00:00",
+  "LastUpdate_Achievements": "2023-12-20T12:10:44.8345737+00:00"
 }

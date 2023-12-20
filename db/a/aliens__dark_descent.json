@@ -2,9 +2,9 @@
   "ID": "87b7ded137594cbbbe7b772826ec3289",
   "Name": "Aliens: Dark Descent",
   "ProductSlug": "aliens-dark-descent",
-  "Ranking_Rating": 550,
-  "Ranking_Popularity": 462,
-  "Ranking_PopularitySum": 503,
+  "Ranking_Rating": 568,
+  "Ranking_Popularity": 463,
+  "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 117,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.53,
+  "Rating": 4.52,
   "RatingHistory": [
     {
       "Time": "2023-06-25T13:13:06.191665+00:00",
@@ -439,6 +439,12 @@
       "Rating": 4.53,
       "NumberOfAwards": 43,
       "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2023-12-20T12:00:34.5216419+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 43,
+      "NumberOfAwardsMax": 43
     }
   ],
   "ReviewsDisabled": false,
@@ -453,9 +459,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 4596,
+  "EOS_Progressed": 4597,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 845,
+  "EOS_NewPlayers": 846,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -7083,6 +7089,11 @@
       "Time": "2023-12-20T11:04:24.3910373+00:00",
       "NumProgressed": 4596,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-20T12:04:34.4902795+00:00",
+      "NumProgressed": 4597,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -7126,7 +7137,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2160
+      "UsersEstimate": 2161
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -7134,7 +7145,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2068
+      "UsersEstimate": 2069
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -7190,7 +7201,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 3125
+      "UsersEstimate": 3126
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -7198,7 +7209,7 @@
       "Name": "Regicide",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "ACH_KILL_UNDETECTED",
@@ -7294,15 +7305,15 @@
       "Name": "First Steps Into Madness",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2160
+      "UsersEstimate": 2161
     },
     {
       "ID": "ACH_MISSION_03",
       "SetID": "816efe",
       "Name": "Harper\u0027s Hell",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1838
+      "UsersEstimate": 1885
     },
     {
       "ID": "ACH_MISSION_04",
@@ -7310,7 +7321,7 @@
       "Name": "Making a Stand",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1792
+      "UsersEstimate": 1793
     },
     {
       "ID": "ACH_MISSION_05",
@@ -7390,7 +7401,7 @@
       "Name": "Snatched Out",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 3079
+      "UsersEstimate": 3080
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -7398,7 +7409,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3585
+      "UsersEstimate": 3586
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -7453,16 +7464,16 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 4596,
+      "Progressed": 4597,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-06-20T02:04:43.7723421+00:00",
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
-  "LastChanged": "2023-12-19T09:58:53.353291+00:00",
-  "LastChanged_Achievements": "2023-12-20T11:04:24.3910368+00:00",
+  "LastChanged": "2023-12-20T12:00:34.5216417+00:00",
+  "LastChanged_Achievements": "2023-12-20T12:04:34.4902791+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:23.8354928+00:00",
-  "LastUpdate_Ratings": "2023-12-20T11:00:32.1078413+00:00",
-  "LastUpdate_Achievements": "2023-12-20T11:04:24.3911268+00:00"
+  "LastUpdate_Ratings": "2023-12-20T12:00:34.5216422+00:00",
+  "LastUpdate_Achievements": "2023-12-20T12:04:34.490336+00:00"
 }

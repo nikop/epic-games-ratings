@@ -3,11 +3,11 @@
   "Name": "Wildermyth",
   "ProductSlug": "wildermyth-593344",
   "Ranking_Rating": 112,
-  "Ranking_Popularity": 510,
-  "Ranking_PopularitySum": 526,
+  "Ranking_Popularity": 511,
+  "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -2621,8 +2621,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-11-12T17:00:17.2155611+00:00",
-  "LastChanged_Achievements": "2023-12-20T11:11:10.0627911+00:00",
+  "LastChanged_Achievements": "2023-12-20T12:10:49.0337042+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:42.9077467+00:00",
-  "LastUpdate_Ratings": "2023-12-20T10:58:13.1111359+00:00",
-  "LastUpdate_Achievements": "2023-12-20T11:11:10.0628377+00:00"
+  "LastUpdate_Ratings": "2023-12-20T11:58:21.791876+00:00",
+  "LastUpdate_Achievements": "2023-12-20T12:10:49.0337432+00:00"
 }

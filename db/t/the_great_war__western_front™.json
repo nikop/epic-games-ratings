@@ -3,8 +3,8 @@
   "Name": "The Great War: Western Front\u2122",
   "ProductSlug": "the-great-war-western-front",
   "Ranking_Rating": 1023,
-  "Ranking_Popularity": 567,
-  "Ranking_PopularitySum": 567,
+  "Ranking_Popularity": 569,
+  "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 225,
@@ -91,9 +91,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 695,
+  "EOS_Progressed": 696,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3111,6 +3111,11 @@
       "Time": "2023-12-20T11:06:53.1551698+00:00",
       "NumProgressed": 695,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T12:06:59.632759+00:00",
+      "NumProgressed": 696,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -3176,9 +3181,9 @@
       "ID": "REACH_DECEMBER_1919",
       "SetID": "6kcl14p",
       "Name": "That\u0027s Not What Happened",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 70,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "USE_UNDERMINE",
@@ -3200,9 +3205,9 @@
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
       "SetID": "6kcl14p",
       "Name": "Das Ist Endg\u00FCltig!",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 104
+      "UsersEstimate": 111
     },
     {
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
@@ -3217,7 +3222,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 695,
+      "Progressed": 696,
       "Completed": 0
     }
   ],
@@ -3225,8 +3230,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-12-20T04:02:56.9871394+00:00",
-  "LastChanged_Achievements": "2023-12-20T11:06:53.1551694+00:00",
+  "LastChanged_Achievements": "2023-12-20T12:06:59.6327585+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:01.8922403+00:00",
-  "LastUpdate_Ratings": "2023-12-20T10:57:07.982376+00:00",
-  "LastUpdate_Achievements": "2023-12-20T11:06:53.1552035+00:00"
+  "LastUpdate_Ratings": "2023-12-20T11:57:19.1611743+00:00",
+  "LastUpdate_Achievements": "2023-12-20T12:06:59.6327819+00:00"
 }

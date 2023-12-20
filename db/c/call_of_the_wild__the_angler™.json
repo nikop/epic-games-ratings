@@ -3,7 +3,7 @@
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
   "Ranking_Rating": 931,
-  "Ranking_Popularity": 467,
+  "Ranking_Popularity": 468,
   "Ranking_PopularitySum": 403,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 385,
@@ -997,9 +997,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 7249,
+  "EOS_Progressed": 7252,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 470,
+  "EOS_NewPlayers": 473,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11687,6 +11687,11 @@
       "Time": "2023-12-20T11:08:28.6184387+00:00",
       "NumProgressed": 7249,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T12:07:52.1830666+00:00",
+      "NumProgressed": 7252,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -11714,15 +11719,15 @@
       "Name": "Hey Good Hookin",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "ACHIEVEMENT_004",
       "SetID": "1a05lfd",
       "Name": "Ready to Rod and Roll",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 435
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -11738,7 +11743,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -11746,7 +11751,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -11802,7 +11807,7 @@
       "Name": "Goldfish?",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -11810,7 +11815,7 @@
       "Name": "Going for Gold",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -11834,7 +11839,7 @@
       "Name": "The Beetles",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_019",
@@ -11842,7 +11847,7 @@
       "Name": "Lake Me up Before You Go Go",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_020",
@@ -11898,7 +11903,7 @@
       "Name": "Big Fish Small Pond",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_027",
@@ -11914,7 +11919,7 @@
       "Name": "Golden Ridge Ranger",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_029",
@@ -12017,13 +12022,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7249,
+      "Progressed": 7252,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 6621,
+      "Progressed": 6624,
       "Completed": 113
     }
   ],
@@ -12031,8 +12036,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-19T21:01:18.283185+00:00",
-  "LastChanged_Achievements": "2023-12-20T11:08:28.6184383+00:00",
+  "LastChanged_Achievements": "2023-12-20T12:07:52.1830661+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:41.8809727+00:00",
-  "LastUpdate_Ratings": "2023-12-20T11:01:27.1579704+00:00",
-  "LastUpdate_Achievements": "2023-12-20T11:08:28.6185155+00:00"
+  "LastUpdate_Ratings": "2023-12-20T12:01:31.4765938+00:00",
+  "LastUpdate_Achievements": "2023-12-20T12:07:52.1831687+00:00"
 }

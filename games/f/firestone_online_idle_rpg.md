@@ -5,8 +5,8 @@ Rating: 4.04 (Ranked 1,008)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,313 |
-| World Map | 78.00% | ~2,778 |
+| Victor | 93.00% | ~3,314 |
+| World Map | 78.00% | ~2,779 |
 | Temple of Eternals | 56.00% | ~1,995 |
 | Prestigious | 53.00% | ~1,888 |
 | Fellowship Power | 42.00% | ~1,496 |
@@ -55,12 +55,12 @@ Rating: 4.04 (Ranked 1,008)
 | Lock And Load | 5.00% | ~178 |
 | Missions Dedication | 5.00% | ~178 |
 | Sailor | 5.00% | ~178 |
-| Active Member | 4.00% | ~142 |
-| Arena Challenger | 4.00% | ~142 |
-| Background Story | 4.00% | ~142 |
-| Ebony Jungle Liberator | 4.00% | ~142 |
-| Legendary | 4.00% | ~142 |
-| The Alchemist | 4.00% | ~142 |
+| Active Member | 4.00% | ~143 |
+| Arena Challenger | 4.00% | ~143 |
+| Background Story | 4.00% | ~143 |
+| Ebony Jungle Liberator | 4.00% | ~143 |
+| Legendary | 4.00% | ~143 |
+| The Alchemist | 4.00% | ~143 |
 | Gear Enchanting | 3.00% | ~107 |
 | Mythic Power | 3.00% | ~107 |
 | Cauldron Liberator | 2.00% | ~71 |
@@ -74,14 +74,14 @@ Rating: 4.04 (Ranked 1,008)
 | Titan Power | 1.00% | ~36 |
 | Transmute | 1.00% | ~36 |
 | Tree of Life | 1.00% | ~36 |
+| Silverwood liberator | 0.90% | ~32 |
 | Training makes a Pro player | 0.90% | ~32 |
-| Silverwood liberator | 0.80% | ~28 |
 | Beast War Machines | 0.70% | ~25 |
 | Ultimate War Machines | 0.60% | ~21 |
 | Jewel Enchanting | 0.20% | ~7 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,562 (Ranked 212)  
+Progressed: 3,563 (Ranked 212)  
 Completed: 2 (0.06%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,11 +320,11 @@ Completed: 2 (0.06%) (Ranked 326)
 | 2023-12-17 | 3,503 | 2 |
 | 2023-12-18 | 3,537 | 2 |
 | 2023-12-19 | 3,555 | 2 |
-| 2023-12-20 | 3,562 | 2 |
+| 2023-12-20 | 3,563 | 2 |
 ## Awards
-Max (Great for Beginners): 38  (Ranked 473)  
+Max (Great for Beginners): 38  (Ranked 474)  
 Sum: 145 (Ranked 432)  
-Diff (max vs sum): 41  
+Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 38 |

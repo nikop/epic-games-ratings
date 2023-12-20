@@ -2,9 +2,9 @@
   "ID": "a25444fc25e9498781983b58ceba30c5",
   "Name": "Black Widow: Recharged",
   "ProductSlug": "black-widow-recharged",
-  "Ranking_Rating": 922,
-  "Ranking_Popularity": 567,
-  "Ranking_PopularitySum": 567,
+  "Ranking_Rating": 923,
+  "Ranking_Popularity": 569,
+  "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 131,
@@ -173,7 +173,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23210,
+  "EOS_Progressed": 23211,
   "EOS_Completed": 60,
   "EOS_NewPlayers": 654,
   "EOS_NewCompleters": 0,
@@ -20738,6 +20738,11 @@
       "Time": "2023-12-20T11:05:07.3321202+00:00",
       "NumProgressed": 23210,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-20T12:05:16.762356+00:00",
+      "NumProgressed": 23211,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 14,
@@ -20789,7 +20794,7 @@
       "Name": "Everyone\u0027s Born to Die",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 3249
+      "UsersEstimate": 3250
     },
     {
       "ID": "ACH_HELLO_MY_OLD_FRIEND",
@@ -20797,7 +20802,7 @@
       "Name": "Hello My Old Friend",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1161
     },
     {
       "ID": "ACH_IM_ALIVE",
@@ -20805,7 +20810,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 52,
       "XP": 90,
-      "UsersEstimate": 12069
+      "UsersEstimate": 12070
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -20853,22 +20858,22 @@
       "Name": "Wild West Hero",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 3249
+      "UsersEstimate": 3250
     }
   ],
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 23210,
+      "Progressed": 23211,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-11-02T20:58:32.2795394+00:00",
-  "LastChanged_Achievements": "2023-12-20T11:05:07.3321198+00:00",
+  "LastChanged_Achievements": "2023-12-20T12:05:16.7623551+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:16.5568567+00:00",
-  "LastUpdate_Ratings": "2023-12-20T11:03:05.8027695+00:00",
-  "LastUpdate_Achievements": "2023-12-20T11:05:07.3322972+00:00"
+  "LastUpdate_Ratings": "2023-12-20T12:02:58.1097002+00:00",
+  "LastUpdate_Achievements": "2023-12-20T12:05:16.7624706+00:00"
 }

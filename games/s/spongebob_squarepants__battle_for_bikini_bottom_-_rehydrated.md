@@ -1,7 +1,7 @@
 # SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated
 [Store](https://store.epicgames.com/en-US/p/spongebob-squarepants-battle-for-bikini-bottom-rehydrated)  
 [View Rawdata](../../db/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.json)  
-Rating: 4.66 (Ranked 297)  
+Rating: 4.66 (Ranked 296)  
 Number of Ratings: 76  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -39,17 +39,17 @@ Number of Ratings: 76  (23.09.2022)
 | Surf's Up! | 0.00% | ~0 |
 | Time For Tutorial | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 102 (Ranked 462)  
+Progressed: 103 (Ranked 460)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-12-18 | 34 | 0 |
 | 2023-12-19 | 88 | 0 |
-| 2023-12-20 | 102 | 0 |
+| 2023-12-20 | 103 | 0 |
 ## Awards
-Max (Great Boss Battles): 34  (Ranked 490)  
-Sum: 34 (Ranked 515)  
+Max (Great Boss Battles): 34  (Ranked 491)  
+Sum: 34 (Ranked 516)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |

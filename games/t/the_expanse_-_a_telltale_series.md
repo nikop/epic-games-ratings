@@ -12,8 +12,8 @@ Rating: 4.53 (Ranked 550)
 | Bosmang | 9.00% | ~1,520 |
 | Celebrations are in Order | 9.00% | ~1,520 |
 | Impossible Objects | 9.00% | ~1,520 |
-| Spore Taste | 8.00% | ~1,351 |
-| Drone Dodger | 8.00% | ~1,351 |
+| Spore Taste | 8.00% | ~1,352 |
+| Drone Dodger | 8.00% | ~1,352 |
 | Zen Master | 8.00% | ~228 |
 | Stogie for Fogey | 7.00% | ~1,183 |
 | Call it Even | 7.00% | ~1,183 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 550)
 | Scavenger Star | 0.20% | ~34 |
 | Data Collector | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,893 (Ranked 152)  
+Progressed: 16,894 (Ranked 152)  
 Completed: 45 (0.27%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 45 (0.27%) (Ranked 255)
 | 2023-12-17 | 16,683 | 44 |
 | 2023-12-18 | 16,797 | 44 |
 | 2023-12-19 | 16,865 | 45 |
-| 2023-12-20 | 16,893 | 45 |
+| 2023-12-20 | 16,894 | 45 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

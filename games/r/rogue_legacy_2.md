@@ -6,31 +6,31 @@ Number of Ratings: 1,331  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spells and Swords | 5.00% | ~1,292 |
-| Captain and Crew | 4.00% | ~1,033 |
-| No Harm in Looking | 3.00% | ~775 |
+| Spells and Swords | 5.00% | ~1,293 |
+| Captain and Crew | 4.00% | ~1,034 |
+| No Harm in Looking | 3.00% | ~776 |
 | Harvest and Home | 2.00% | ~517 |
 | Poise and Poisons | 2.00% | ~517 |
 | Suns and Soldiers | 2.00% | ~517 |
-| Hands and Hammers | 1.00% | ~258 |
-| King and Kin | 1.00% | ~258 |
-| Progenitor and Protégé | 1.00% | ~258 |
-| Prequel to the Sequel | 1.00% | ~258 |
+| Hands and Hammers | 1.00% | ~259 |
+| King and Kin | 1.00% | ~259 |
+| Progenitor and Protégé | 1.00% | ~259 |
+| Prequel to the Sequel | 1.00% | ~259 |
 | For Glory | 0.80% | ~207 |
 | Pillow Investments | 0.70% | ~181 |
-| Looks Familiar | 0.70% | ~181 |
 | Truly Blessed | 0.60% | ~155 |
+| Looks Familiar | 0.60% | ~155 |
 | For Justice | 0.50% | ~129 |
 | Good Boy! | 0.50% | ~129 |
 | For Survival | 0.40% | ~103 |
 | For Love | 0.40% | ~103 |
 | Jack of all Trades | 0.40% | ~103 |
-| For Wrath | 0.30% | ~77 |
-| For Pride | 0.30% | ~77 |
-| K.O. | 0.30% | ~77 |
-| Just the Beginning | 0.30% | ~77 |
-| Wasted Betrayal | 0.30% | ~77 |
-| Color Coordination | 0.30% | ~77 |
+| For Wrath | 0.30% | ~78 |
+| For Pride | 0.30% | ~78 |
+| K.O. | 0.30% | ~78 |
+| Just the Beginning | 0.30% | ~78 |
+| Wasted Betrayal | 0.30% | ~78 |
+| Color Coordination | 0.30% | ~78 |
 | Black-shoppe | 0.20% | ~52 |
 | For Greed | 0.20% | ~52 |
 | For Penance | 0.20% | ~52 |
@@ -46,7 +46,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,831 (Ranked 138)  
+Progressed: 25,853 (Ranked 138)  
 Completed: 35 (0.14%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 35 (0.14%) (Ranked 290)
 | 2023-12-17 | 25,193 | 35 |
 | 2023-12-18 | 25,497 | 35 |
 | 2023-12-19 | 25,732 | 35 |
-| 2023-12-20 | 25,831 | 35 |
+| 2023-12-20 | 25,853 | 35 |
 ## Awards
 Max (Extremely Fun): 223  (Ranked 284)  
 Sum: 1,704 (Ranked 225)  

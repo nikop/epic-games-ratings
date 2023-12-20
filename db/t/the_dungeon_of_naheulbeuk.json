@@ -1533,9 +1533,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 243659,
+  "EOS_Progressed": 243668,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1112,
+  "EOS_NewPlayers": 1116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22973,6 +22973,11 @@
       "Time": "2023-12-20T11:10:57.7807683+00:00",
       "NumProgressed": 243659,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-20T12:10:36.9021625+00:00",
+      "NumProgressed": 243668,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -23032,7 +23037,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 17056
+      "UsersEstimate": 17057
     },
     {
       "ID": "Chapter2",
@@ -23432,7 +23437,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 87717
+      "UsersEstimate": 87720
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -23456,7 +23461,7 @@
       "Name": "DM intervention",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9746
+      "UsersEstimate": 9747
     },
     {
       "ID": "EndGameCursed",
@@ -23480,7 +23485,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24366
+      "UsersEstimate": 24367
     },
     {
       "ID": "FollowBraztok",
@@ -23680,28 +23685,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9746
+      "UsersEstimate": 9747
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 243659,
+      "Progressed": 243668,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 243659,
+      "Progressed": 243668,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-12-20T08:02:37.3622964+00:00",
-  "LastChanged_Achievements": "2023-12-20T11:10:57.780768+00:00",
+  "LastChanged_Achievements": "2023-12-20T12:10:36.9021622+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:08.5726178+00:00",
-  "LastUpdate_Ratings": "2023-12-20T11:03:04.1218606+00:00",
-  "LastUpdate_Achievements": "2023-12-20T11:10:57.7809493+00:00"
+  "LastUpdate_Ratings": "2023-12-20T12:02:56.5453567+00:00",
+  "LastUpdate_Achievements": "2023-12-20T12:10:36.9023055+00:00"
 }

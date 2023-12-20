@@ -2,7 +2,7 @@
   "ID": "f9c2aedaff8442b286fbd026948b9f09",
   "Name": "Faeria",
   "ProductSlug": "faeria",
-  "Ranking_Rating": 673,
+  "Ranking_Rating": 685,
   "Ranking_Popularity": 350,
   "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 810,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.45,
+  "Rating": 4.44,
   "NumberOfRatings": 194,
   "RatingHistory": [
     {
@@ -753,6 +753,12 @@
       "Rating": 4.45,
       "NumberOfAwards": 405,
       "NumberOfAwardsMax": 115
+    },
+    {
+      "Time": "2023-12-20T12:02:47.1714662+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 405,
+      "NumberOfAwardsMax": 115
     }
   ],
   "ReviewsDisabled": false,
@@ -826,8 +832,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:47.9455282+00:00",
-  "LastChanged": "2023-12-14T11:58:17.6076082+00:00",
+  "LastChanged": "2023-12-20T12:02:47.171466+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:53.7943738+00:00",
-  "LastUpdate_Ratings": "2023-12-20T11:02:54.5173247+00:00",
-  "LastUpdate_Achievements": "2023-12-20T11:10:41.4221871+00:00"
+  "LastUpdate_Ratings": "2023-12-20T12:02:47.1714665+00:00",
+  "LastUpdate_Achievements": "2023-12-20T12:10:21.1473402+00:00"
 }

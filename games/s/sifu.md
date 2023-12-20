@@ -6,11 +6,11 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 3.00% | ~22,106 |
-| Life is your teacher | 3.00% | ~22,106 |
-| The Assault | 2.00% | ~14,737 |
-| Lightning Hands | 2.00% | ~14,737 |
-| The Hateful Pole Fighter | 1.00% | ~7,369 |
+| The Old Grandmaster | 3.00% | ~22,108 |
+| Life is your teacher | 3.00% | ~22,108 |
+| The Assault | 2.00% | ~14,739 |
+| The Hateful Pole Fighter | 2.00% | ~14,739 |
+| Lightning Hands | 2.00% | ~14,739 |
 | A Lady's Blood in the Snow | 1.00% | ~7,369 |
 | Lady Wing Chun | 1.00% | ~7,369 |
 | Kill Nil | 1.00% | ~7,369 |
@@ -23,27 +23,27 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 1.00% | ~7,369 |
 | Rumble in the Hangar | 1.00% | ~7,369 |
 | Diligence as a goal | 1.00% | ~462 |
-| Furious Fists | 0.90% | ~6,632 |
-| I know Kung-Fu | 0.90% | ~6,632 |
-| Project Arena | 0.90% | ~415 |
-| Qi Gong: Mind | 0.80% | ~5,895 |
-| Take damage to save time | 0.80% | ~5,895 |
-| Scareless | 0.70% | ~5,158 |
-| Kung-Fu Tussle | 0.70% | ~5,158 |
-| Fight the way you practice | 0.70% | ~323 |
-| Dance of the Praying Mantis | 0.60% | ~4,421 |
+| Furious Fists | 0.90% | ~6,633 |
+| I know Kung-Fu | 0.90% | ~6,633 |
+| Project Arena | 0.90% | ~416 |
+| Qi Gong: Mind | 0.80% | ~5,896 |
+| Take damage to save time | 0.80% | ~5,896 |
+| Scareless | 0.70% | ~5,159 |
+| Kung-Fu Tussle | 0.70% | ~5,159 |
+| Fight the way you practice | 0.70% | ~324 |
+| Dance of the Praying Mantis | 0.60% | ~4,422 |
 | Martial Hub | 0.60% | ~277 |
 | Bloody Sport | 0.50% | ~231 |
-| Muk Yan Master | 0.40% | ~2,947 |
-| Tiger on Fire | 0.40% | ~2,947 |
-| Detective Story | 0.40% | ~2,947 |
+| Muk Yan Master | 0.40% | ~2,948 |
+| Tiger on Fire | 0.40% | ~2,948 |
+| Detective Story | 0.40% | ~2,948 |
 | Source of Flying Daggers | 0.30% | ~2,211 |
 | Iron Money | 0.30% | ~2,211 |
 | Legendary Talismans of Wuxing | 0.30% | ~2,211 |
 | Prodigal Child | 0.30% | ~2,211 |
 | The 36th Chamber of Kung-Fu | 0.30% | ~2,211 |
 | Sword Stained With Blood | 0.30% | ~2,211 |
-| The best strikes are the ones we avoid | 0.30% | ~138 |
+| The best strikes are the ones we avoid | 0.30% | ~139 |
 | Drunken Fighter | 0.20% | ~1,474 |
 | Martial Artist | 0.20% | ~1,474 |
 | Knowledge Greed | 0.20% | ~1,474 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~46 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 736,860 (Ranked 23)  
+Progressed: 736,947 (Ranked 23)  
 Completed: 12,958 (1.76%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 12,958 (1.76%) (Ranked 140)
 | 2023-12-17 | 733,014 | 12,955 |
 | 2023-12-18 | 734,825 | 12,956 |
 | 2023-12-19 | 736,295 | 12,958 |
-| 2023-12-20 | 736,860 | 12,958 |
+| 2023-12-20 | 736,947 | 12,958 |
 ## Awards
 Max (Great Boss Battles): 6,965  (Ranked 55)  
 Sum: 12,214 (Ranked 84)  

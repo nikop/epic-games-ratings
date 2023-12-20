@@ -5,20 +5,20 @@ Rating: 4.22 (Ranked 917)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~1,176 |
-| Battlefields Have Memories | 78.00% | ~1,055 |
-| Enlisted | 71.00% | ~960 |
-| Maybe Engage a Little | 65.00% | ~879 |
-| No More Names | 47.00% | ~635 |
-| Initiate | 33.00% | ~446 |
+| Unforeseen | 88.00% | ~1,192 |
+| Battlefields Have Memories | 79.00% | ~1,070 |
+| Enlisted | 71.00% | ~961 |
+| Maybe Engage a Little | 65.00% | ~880 |
+| No More Names | 47.00% | ~636 |
+| Initiate | 33.00% | ~447 |
 | Thrada-Kul | 30.00% | ~406 |
-| Gravity-Challenged Rocks | 22.00% | ~297 |
+| Gravity-Challenged Rocks | 23.00% | ~311 |
 | Socialite | 21.00% | ~284 |
-| Soldier | 18.00% | ~243 |
-| All the Major Food Groups | 17.00% | ~230 |
-| Beggars Would Ride | 16.00% | ~216 |
-| Control is an Illusion | 14.00% | ~189 |
-| The Means to Save It | 11.00% | ~149 |
+| Soldier | 18.00% | ~244 |
+| All the Major Food Groups | 18.00% | ~244 |
+| Beggars Would Ride | 16.00% | ~217 |
+| Control is an Illusion | 14.00% | ~190 |
+| The Means to Save It | 12.00% | ~162 |
 | Resilience to Sin | 10.00% | ~135 |
 | A Familiar Nest | 10.00% | ~135 |
 | Periapt Alizarin | 10.00% | ~135 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 917)
 | Family Business | 0.20% | ~3 |
 | Fowl Play | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,352 (Ranked 254)  
+Progressed: 1,354 (Ranked 254)  
 Completed: 2 (0.15%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 2 (0.15%) (Ranked 288)
 | 2023-12-17 | 1,065 | 2 |
 | 2023-12-18 | 1,195 | 2 |
 | 2023-12-19 | 1,301 | 2 |
-| 2023-12-20 | 1,352 | 2 |
+| 2023-12-20 | 1,354 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

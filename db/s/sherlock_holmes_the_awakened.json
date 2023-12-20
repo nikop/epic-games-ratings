@@ -3,12 +3,12 @@
   "Name": "Sherlock Holmes The Awakened",
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_Rating": 531,
-  "Ranking_Popularity": 567,
-  "Ranking_PopularitySum": 567,
+  "Ranking_Popularity": 569,
+  "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 260,
-  "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_Completed": 116,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -146,10 +146,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 1261,
-  "EOS_Completed": 35,
+  "EOS_Completed": 36,
   "EOS_NewPlayers": 122,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 2.78,
+  "EOS_NewCompleters": 6,
+  "EOS_Completed_Percentage": 2.85,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -4365,6 +4365,11 @@
       "Time": "2023-12-20T10:06:08.3858185+00:00",
       "NumProgressed": 1261,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-20T12:07:39.1862894+00:00",
+      "NumProgressed": 1261,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 28,
@@ -4600,15 +4605,15 @@
       "ID": "bbing49",
       "IsBase": true,
       "Progressed": 1261,
-      "Completed": 35
+      "Completed": 36
     }
   ],
   "FirstSeen": "2023-04-12T21:57:08.1785727+00:00",
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-19T11:03:29.5971745+00:00",
-  "LastChanged_Achievements": "2023-12-20T11:07:34.5768043+00:00",
+  "LastChanged_Achievements": "2023-12-20T12:07:39.1862891+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:14.2246919+00:00",
-  "LastUpdate_Ratings": "2023-12-20T11:03:32.097313+00:00",
-  "LastUpdate_Achievements": "2023-12-20T11:07:34.5768396+00:00"
+  "LastUpdate_Ratings": "2023-12-20T12:03:42.2894877+00:00",
+  "LastUpdate_Achievements": "2023-12-20T12:07:39.1863262+00:00"
 }

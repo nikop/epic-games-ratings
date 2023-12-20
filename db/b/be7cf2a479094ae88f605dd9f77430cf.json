@@ -155,17 +155,17 @@
       "ID": "1",
       "SetID": "5jnn47e",
       "Name": "First Steps of a long journey",
-      "Percentage": 33,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 0
     },
     {
       "ID": "10",
       "SetID": "5jnn47e",
       "Name": "Play with fire",
-      "Percentage": 33,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 0
     },
     {
       "ID": "11",
@@ -178,9 +178,9 @@
     {
       "ID": "12",
       "SetID": "5jnn47e",
-      "Name": "Always follow the nose",
+      "Name": "Don\u2019t stop me now",
       "Percentage": 0,
-      "XP": 100,
+      "XP": 10,
       "UsersEstimate": 0
     },
     {
@@ -194,39 +194,39 @@
     {
       "ID": "14",
       "SetID": "5jnn47e",
+      "Name": "Always follow the nose",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "15",
+      "SetID": "5jnn47e",
+      "Name": "I appoint you my shield-bearers",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "16",
+      "SetID": "5jnn47e",
       "Name": "Have some magic potion - No, Obelix, not you",
       "Percentage": 0,
       "XP": 40,
       "UsersEstimate": 0
     },
     {
-      "ID": "15",
-      "SetID": "5jnn47e",
-      "Name": "Most beautiful",
-      "Percentage": 29,
-      "XP": 100,
-      "UsersEstimate": 7
-    },
-    {
-      "ID": "16",
-      "SetID": "5jnn47e",
-      "Name": "Get your parsley",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
       "ID": "17",
       "SetID": "5jnn47e",
-      "Name": "The best architect in Alexandria",
+      "Name": "Most beautiful",
       "Percentage": 0,
-      "XP": 40,
+      "XP": 100,
       "UsersEstimate": 0
     },
     {
       "ID": "18",
       "SetID": "5jnn47e",
-      "Name": "The fish is not fresh",
+      "Name": "Get your parsley",
       "Percentage": 0,
       "XP": 10,
       "UsersEstimate": 0
@@ -236,7 +236,7 @@
       "SetID": "5jnn47e",
       "Name": "The best architect in Alexandria",
       "Percentage": 0,
-      "XP": 10,
+      "XP": 40,
       "UsersEstimate": 0
     },
     {
@@ -315,17 +315,17 @@
       "ID": "8",
       "SetID": "5jnn47e",
       "Name": "Victory is ours",
-      "Percentage": 29,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 0
     },
     {
       "ID": "9",
       "SetID": "5jnn47e",
       "Name": "Nothing is holding you back",
-      "Percentage": 17,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 0
     },
     {
       "ID": "26",
@@ -378,8 +378,8 @@
   ],
   "FirstSeen": "2023-11-22T17:57:35.5239648+00:00",
   "FirstSeenAchievements": "2023-10-05T17:02:30.1575422+00:00",
-  "LastChanged_Achievements": "2023-12-20T11:06:18.3495246+00:00",
+  "LastChanged_Achievements": "2023-12-20T12:06:25.9614911+00:00",
   "LastUpdate_AppInfo": "2023-12-14T20:57:09.0080385+00:00",
-  "LastUpdate_Ratings": "2023-12-20T10:58:10.5822887+00:00",
-  "LastUpdate_Achievements": "2023-12-20T11:06:18.3495409+00:00"
+  "LastUpdate_Ratings": "2023-12-20T11:58:19.3549348+00:00",
+  "LastUpdate_Achievements": "2023-12-20T12:06:25.9615042+00:00"
 }

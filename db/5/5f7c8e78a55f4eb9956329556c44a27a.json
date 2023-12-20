@@ -822,9 +822,9 @@
       "ID": "TINGWD_ANIMAL",
       "SetID": "c0imaa6",
       "Name": "A friend of the animals... or not.",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 43
     },
     {
       "ID": "TINGWD_BEATEM",
@@ -902,9 +902,9 @@
       "ID": "TINGWD_CHAP_END_04",
       "SetID": "c0imaa6",
       "Name": "The end of the ordeal",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "TINGWD_CHAP_END_05",
@@ -1014,9 +1014,9 @@
       "ID": "TINGWD_PUNCHMAN",
       "SetID": "c0imaa6",
       "Name": "One Punch Man",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "TINGWD_RADAR",
@@ -1093,8 +1093,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-12-20T11:05:47.8060708+00:00",
+  "LastChanged_Achievements": "2023-12-20T12:05:56.089004+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:02.2829018+00:00",
-  "LastUpdate_Ratings": "2023-12-20T10:57:37.2169321+00:00",
-  "LastUpdate_Achievements": "2023-12-20T11:05:47.8060999+00:00"
+  "LastUpdate_Ratings": "2023-12-20T11:57:47.3841842+00:00",
+  "LastUpdate_Achievements": "2023-12-20T12:05:56.0890286+00:00"
 }

@@ -45,7 +45,7 @@
 | Stop Tanos! | 26.00% | ~154 |
 | Sabotage! | 25.00% | ~148 |
 | Brimstone Shaken, Not Stirred | 25.00% | ~148 |
-| Bonus Evilness | 23.00% | ~137 |
+| Bonus Evilness | 24.00% | ~143 |
 | Raiders of the Lost Stone | 23.00% | ~137 |
 | The Rune Sockets of Finitude (Part 1) | 23.00% | ~137 |
 | The Rune Sockets of Finitude (Part 2) | 21.00% | ~125 |
@@ -60,8 +60,8 @@
 | Untouchable | 15.00% | ~89 |
 | Mirror, Mirror | 14.00% | ~83 |
 | Heal Heal Blessing | 14.00% | ~83 |
+| Gorgu is in the Best of Health | 12.00% | ~71 |
 | Hands Off My Stones | 12.00% | ~71 |
-| Gorgu is in the Best of Health | 11.00% | ~65 |
 | Laser Eyes Are So Useless | 11.00% | ~65 |
 | No Mana, No Cry | 10.00% | ~59 |
 | I Don't Need Any Help | 8.00% | ~48 |

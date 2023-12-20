@@ -3,8 +3,8 @@
   "Name": "EARTHLOCK",
   "ProductSlug": "earthlock-e7d979",
   "Ranking_Rating": 979,
-  "Ranking_Popularity": 567,
-  "Ranking_PopularitySum": 567,
+  "Ranking_Popularity": 569,
+  "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 70,
@@ -209,9 +209,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 68491,
+  "EOS_Progressed": 68505,
   "EOS_Completed": 87,
-  "EOS_NewPlayers": 2053,
+  "EOS_NewPlayers": 2056,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -4244,6 +4244,11 @@
       "Time": "2023-12-20T11:04:23.4631903+00:00",
       "NumProgressed": 68491,
       "NumCompleted": 87
+    },
+    {
+      "Time": "2023-12-20T12:04:33.548643+00:00",
+      "NumProgressed": 68505,
+      "NumCompleted": 87
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -4256,7 +4261,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 25342
+      "UsersEstimate": 25347
     },
     {
       "ID": "Achievement_10",
@@ -4280,7 +4285,7 @@
       "Name": "Owl Tide Bestiary",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "Achievement_13",
@@ -4304,7 +4309,7 @@
       "Name": "Lango Plantmaster",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "Achievement_16",
@@ -4336,7 +4341,7 @@
       "Name": "Fearless in Karba",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "Achievement_2",
@@ -4344,7 +4349,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 19177
+      "UsersEstimate": 19181
     },
     {
       "ID": "Achievement_20",
@@ -4352,7 +4357,7 @@
       "Name": "Disciple of the Onurasi",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "Achievement_21",
@@ -4392,7 +4397,7 @@
       "Name": "Konkylian Custodian",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "Achievement_26",
@@ -4408,7 +4413,7 @@
       "Name": "Critter King",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "Achievement_28",
@@ -4424,7 +4429,7 @@
       "Name": "Gold Finger",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "Achievement_3",
@@ -4432,7 +4437,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8219
+      "UsersEstimate": 8221
     },
     {
       "ID": "Achievement_30",
@@ -4440,7 +4445,7 @@
       "Name": "Master Engineer",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "Achievement_31",
@@ -4448,7 +4453,7 @@
       "Name": "Well Traveled",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "Achievement_32",
@@ -4464,7 +4469,7 @@
       "Name": "Family Ties",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "Achievement_34",
@@ -4472,7 +4477,7 @@
       "Name": "Warden",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "Achievement_4",
@@ -4480,7 +4485,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6164
+      "UsersEstimate": 6165
     },
     {
       "ID": "Achievement_5",
@@ -4488,7 +4493,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 4109
+      "UsersEstimate": 4110
     },
     {
       "ID": "Achievement_6",
@@ -4527,7 +4532,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 68491,
+      "Progressed": 68505,
       "Completed": 87
     }
   ],
@@ -4535,8 +4540,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-12-20T05:03:05.1984728+00:00",
-  "LastChanged_Achievements": "2023-12-20T11:04:23.4631899+00:00",
+  "LastChanged_Achievements": "2023-12-20T12:04:33.5486425+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:14.9583048+00:00",
-  "LastUpdate_Ratings": "2023-12-20T11:03:25.7395625+00:00",
-  "LastUpdate_Achievements": "2023-12-20T11:04:23.4632483+00:00"
+  "LastUpdate_Ratings": "2023-12-20T12:03:36.4137652+00:00",
+  "LastUpdate_Achievements": "2023-12-20T12:04:33.5486892+00:00"
 }

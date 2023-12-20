@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 200,
+  "EOS_Progressed": 201,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -829,6 +829,11 @@
       "Time": "2023-12-20T05:04:50.6880661+00:00",
       "NumProgressed": 200,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T12:05:24.4617723+00:00",
+      "NumProgressed": 201,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-22T01:45:20.357802+00:00",
@@ -847,9 +852,9 @@
       "ID": "AnomalyDestroyer",
       "SetID": "1jeo1g7",
       "Name": "Anomaly Destroyer",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 60
     },
     {
       "ID": "AnomalyMaster",
@@ -927,17 +932,17 @@
       "ID": "AstralAdventurer",
       "SetID": "1jeo1g7",
       "Name": "Astral Adventurer",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 58
     },
     {
       "ID": "AstralSeeker",
       "SetID": "1jeo1g7",
       "Name": "Astral Seeker",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "AstralTinkerer",
@@ -975,9 +980,9 @@
       "ID": "Astromancer",
       "SetID": "1jeo1g7",
       "Name": "Astromancer",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "BehenianChampionAchievement",
@@ -1039,17 +1044,17 @@
       "ID": "CriticalTwist",
       "SetID": "1jeo1g7",
       "Name": "Critical Twist",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "DenyingDestiny",
       "SetID": "1jeo1g7",
       "Name": "Denying Destiny",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "DiceSpecialist",
@@ -1065,7 +1070,7 @@
       "Name": "Dicesmithing Time!",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "EndlessTricks",
@@ -1119,25 +1124,25 @@
       "ID": "HeartGate",
       "SetID": "1jeo1g7",
       "Name": "Heart Gate",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "HeavyPurger",
       "SetID": "1jeo1g7",
       "Name": "Heavy Purger",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "IfIHadFailed",
       "SetID": "1jeo1g7",
       "Name": "If I Had Failed...",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "LacertianChampionAchievement",
@@ -1167,9 +1172,9 @@
       "ID": "LoyalPartner",
       "SetID": "1jeo1g7",
       "Name": "Loyal Partner",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 44
     },
     {
       "ID": "MechanicIntegration",
@@ -1185,23 +1190,23 @@
       "Name": "Mechanical Buddy",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "MeissasSavior",
       "SetID": "1jeo1g7",
       "Name": "Meissa\u0027s Savior",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 151
     },
     {
       "ID": "MindIlluminator",
       "SetID": "1jeo1g7",
       "Name": "Mind Illuminator",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 82
     },
     {
       "ID": "NoctuanChampionAchievement",
@@ -1255,9 +1260,9 @@
       "ID": "PurificationAvatar",
       "SetID": "1jeo1g7",
       "Name": "Purification Avatar",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "PurificationPioneer",
@@ -1265,15 +1270,15 @@
       "Name": "Purification Pioneer",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ReflexiveMind",
       "SetID": "1jeo1g7",
       "Name": "Reflexive Mind",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "RoyalChoir",
@@ -1295,9 +1300,9 @@
       "ID": "SanctuaryGuardian",
       "SetID": "1jeo1g7",
       "Name": "Sanctuary Guardian",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 107
     },
     {
       "ID": "Sentinelphobic",
@@ -1311,9 +1316,9 @@
       "ID": "ShardSpender",
       "SetID": "1jeo1g7",
       "Name": "Shard Spender",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 36
     },
     {
       "ID": "SixSidedMastery",
@@ -1335,9 +1340,9 @@
       "ID": "StarKiller",
       "SetID": "1jeo1g7",
       "Name": "Star Killer",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 52
     },
     {
       "ID": "StellarDismantler",
@@ -1351,9 +1356,9 @@
       "ID": "StellarHaste",
       "SetID": "1jeo1g7",
       "Name": "Stellar Haste",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "TheAbyssalTerror",
@@ -1415,9 +1420,9 @@
       "ID": "TheRagingSkies",
       "SetID": "1jeo1g7",
       "Name": "The Raging Skies",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "Theworldgoesround",
@@ -1487,9 +1492,9 @@
       "ID": "ApianHero",
       "SetID": "1jeo1g7",
       "Name": "Apian Hero",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "ApianMastery",
@@ -1511,9 +1516,9 @@
       "ID": "AquarianHero",
       "SetID": "1jeo1g7",
       "Name": "Aquarian Hero",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "AquarianMastery",
@@ -1527,9 +1532,9 @@
       "ID": "BehenianChampion",
       "SetID": "1jeo1g7",
       "Name": "Behenian Champion",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "BehenianHero",
@@ -1551,25 +1556,25 @@
       "ID": "EridanianChampion",
       "SetID": "1jeo1g7",
       "Name": "Eridanian Champion",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 48
     },
     {
       "ID": "EridanianHero",
       "SetID": "1jeo1g7",
       "Name": "Eridanian Hero",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "EridanianMastery",
       "SetID": "1jeo1g7",
       "Name": "Eridanian Mastery",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "LacertianChampion",
@@ -1583,9 +1588,9 @@
       "ID": "LacertianHero",
       "SetID": "1jeo1g7",
       "Name": "Lacertian Hero",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "LacertianMastery",
@@ -1599,9 +1604,9 @@
       "ID": "NoctuanChampion",
       "SetID": "1jeo1g7",
       "Name": "Noctuan Champion",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 68
     },
     {
       "ID": "NoctuanHero",
@@ -1624,14 +1629,14 @@
     {
       "ID": "1jeo1g7",
       "IsBase": true,
-      "Progressed": 200,
+      "Progressed": 201,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-20T11:05:15.2268887+00:00",
+  "LastChanged_Achievements": "2023-12-20T12:05:24.4617719+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:09.6615872+00:00",
-  "LastUpdate_Ratings": "2023-12-20T10:57:48.7296225+00:00",
-  "LastUpdate_Achievements": "2023-12-20T11:05:15.2269831+00:00"
+  "LastUpdate_Ratings": "2023-12-20T11:57:58.5126328+00:00",
+  "LastUpdate_Achievements": "2023-12-20T12:05:24.4618495+00:00"
 }

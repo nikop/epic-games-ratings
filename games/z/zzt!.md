@@ -11,7 +11,7 @@
 | Hero | 5.00% | ~175 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,499 (Ranked 213)  
-Completed: 164 (4.69%) (Ranked 80)  
+Completed: 165 (4.72%) (Ranked 80)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -249,7 +249,7 @@ Completed: 164 (4.69%) (Ranked 80)
 | 2023-12-17 | 3,493 | 163 |
 | 2023-12-18 | 3,496 | 163 |
 | 2023-12-19 | 3,497 | 164 |
-| 2023-12-20 | 3,499 | 164 |
+| 2023-12-20 | 3,499 | 165 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -3,12 +3,12 @@
   "Name": "Riverbond",
   "ProductSlug": "riverbond-782aa4",
   "Ranking_Rating": 645,
-  "Ranking_Popularity": 557,
-  "Ranking_PopularitySum": 559,
+  "Ranking_Popularity": 559,
+  "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -503,9 +503,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 533508,
+  "EOS_Progressed": 533509,
   "EOS_Completed": 510,
-  "EOS_NewPlayers": 462,
+  "EOS_NewPlayers": 463,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -26343,6 +26343,11 @@
       "Time": "2023-12-20T11:07:38.8898909+00:00",
       "NumProgressed": 533508,
       "NumCompleted": 510
+    },
+    {
+      "Time": "2023-12-20T12:07:43.3920567+00:00",
+      "NumProgressed": 533509,
+      "NumCompleted": 510
     }
   ],
   "TotalAchievements": 57,
@@ -26418,7 +26423,7 @@
       "Name": "Moving On Up",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 32010
+      "UsersEstimate": 32011
     },
     {
       "ID": "18",
@@ -26434,7 +26439,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 330775
+      "UsersEstimate": 330776
     },
     {
       "ID": "2",
@@ -26490,7 +26495,7 @@
       "Name": "Owl Knows Best",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 32010
+      "UsersEstimate": 32011
     },
     {
       "ID": "26",
@@ -26498,7 +26503,7 @@
       "Name": "Mind the Moose",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 32010
+      "UsersEstimate": 32011
     },
     {
       "ID": "27",
@@ -26530,7 +26535,7 @@
       "Name": "Oh, Romeo!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 32010
+      "UsersEstimate": 32011
     },
     {
       "ID": "30",
@@ -26594,7 +26599,7 @@
       "Name": "Dressed to Kill",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 32010
+      "UsersEstimate": 32011
     },
     {
       "ID": "38",
@@ -26618,7 +26623,7 @@
       "Name": "Beast Mode",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 32010
+      "UsersEstimate": 32011
     },
     {
       "ID": "40",
@@ -26650,7 +26655,7 @@
       "Name": "Sunny Shores",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 90696
+      "UsersEstimate": 90697
     },
     {
       "ID": "44",
@@ -26682,7 +26687,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 330775
+      "UsersEstimate": 330776
     },
     {
       "ID": "48",
@@ -26809,15 +26814,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 533508,
+      "Progressed": 533509,
       "Completed": 510
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-12-14T14:59:39.4842186+00:00",
-  "LastChanged_Achievements": "2023-12-20T11:07:38.8898906+00:00",
+  "LastChanged_Achievements": "2023-12-20T12:07:43.3920564+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:12.0766655+00:00",
-  "LastUpdate_Ratings": "2023-12-20T10:59:26.9955277+00:00",
-  "LastUpdate_Achievements": "2023-12-20T11:07:38.890053+00:00"
+  "LastUpdate_Ratings": "2023-12-20T11:59:33.0357515+00:00",
+  "LastUpdate_Achievements": "2023-12-20T12:07:43.3922309+00:00"
 }

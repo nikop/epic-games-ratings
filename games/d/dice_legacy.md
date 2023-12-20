@@ -35,6 +35,7 @@ Rating: 4.29 (Ranked 856)
 | Knowledge is Power | 0.60% | ~7 |
 | Six Faces | 0.50% | ~6 |
 | It's spreading | 0.30% | ~4 |
+| The Incarnate | 0.30% | ~4 |
 | Ice and Fire | 0.20% | ~2 |
 | Mad Engineers | 0.20% | ~2 |
 | Aesthetics | 0.20% | ~2 |
@@ -42,7 +43,6 @@ Rating: 4.29 (Ranked 856)
 | The Flail | 0.20% | ~2 |
 | The Corrupted | 0.20% | ~2 |
 | The Foul | 0.20% | ~2 |
-| The Incarnate | 0.20% | ~2 |
 | Break the chains | 0.00% | ~0 |
 | Purist | 0.00% | ~0 |
 | Discover the truth | 0.00% | ~0 |

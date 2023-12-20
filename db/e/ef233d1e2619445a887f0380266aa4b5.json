@@ -3,8 +3,8 @@
   "Name": "My Pet Hooligan",
   "ProductSlug": "my-pet-hooligan-453949",
   "Ranking_Rating": 581,
-  "Ranking_Popularity": 567,
-  "Ranking_PopularitySum": 567,
+  "Ranking_Popularity": 569,
+  "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 810,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 558,
@@ -163,6 +163,6 @@
   "FirstSeenRating": "2023-10-13T04:00:02.8847941+00:00",
   "LastChanged": "2023-12-15T22:59:31.1437015+00:00",
   "LastUpdate_AppInfo": "2023-12-13T14:57:06.9783746+00:00",
-  "LastUpdate_Ratings": "2023-12-20T10:58:53.0545035+00:00",
-  "LastUpdate_Achievements": "2023-12-20T11:05:29.3991917+00:00"
+  "LastUpdate_Ratings": "2023-12-20T11:59:00.3375978+00:00",
+  "LastUpdate_Achievements": "2023-12-20T12:05:38.0182395+00:00"
 }

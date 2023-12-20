@@ -3,7 +3,7 @@
   "Name": "Isonzo",
   "ProductSlug": "isonzo",
   "Ranking_Rating": 482,
-  "Ranking_Popularity": 467,
+  "Ranking_Popularity": 468,
   "Ranking_PopularitySum": 363,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 299,
@@ -1015,9 +1015,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 9511,
+  "EOS_Progressed": 9512,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9685,6 +9685,11 @@
       "Time": "2023-12-20T10:08:46.5500284+00:00",
       "NumProgressed": 9511,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-20T12:09:27.9158333+00:00",
+      "NumProgressed": 9512,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -9704,7 +9709,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 1997
+      "UsersEstimate": 1998
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -9888,7 +9893,7 @@
       "Name": "Peak Performance",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4375
+      "UsersEstimate": 4376
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -10032,7 +10037,7 @@
       "Name": "Uomo Universale",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1236
+      "UsersEstimate": 1237
     },
     {
       "ID": "ISONZO_ACH_VENI_VIDI_VICI",
@@ -10055,7 +10060,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9511,
+      "Progressed": 9512,
       "Completed": 10
     }
   ],
@@ -10063,8 +10068,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-19T18:00:04.0017242+00:00",
-  "LastChanged_Achievements": "2023-12-20T11:09:46.5094057+00:00",
+  "LastChanged_Achievements": "2023-12-20T12:09:27.915833+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:27.7823002+00:00",
-  "LastUpdate_Ratings": "2023-12-20T11:01:23.8506005+00:00",
-  "LastUpdate_Achievements": "2023-12-20T11:09:46.5094788+00:00"
+  "LastUpdate_Ratings": "2023-12-20T12:01:28.2837667+00:00",
+  "LastUpdate_Achievements": "2023-12-20T12:09:27.9159139+00:00"
 }
