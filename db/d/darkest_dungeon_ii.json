@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9942,9 +9942,9 @@
       "Count": 1033
     }
   ],
-  "EOS_Progressed": 128675,
+  "EOS_Progressed": 128680,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2126,
+  "EOS_NewPlayers": 2123,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35937,6 +35937,11 @@
       "Time": "2023-12-20T10:09:01.4497893+00:00",
       "NumProgressed": 128675,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-20T11:10:06.9495147+00:00",
+      "NumProgressed": 128680,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36306,9 +36311,9 @@
       "ID": "hero_story_complete_all",
       "SetID": "64l4lke",
       "Name": "Shrine of Reflection",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 643
+      "UsersEstimate": 772
     },
     {
       "ID": "hero_story_complete_any",
@@ -36579,21 +36584,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 128675,
+      "Progressed": 128680,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 3544,
+      "Progressed": 3549,
       "Completed": 802
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-20T06:59:09.654724+00:00",
-  "LastChanged_Achievements": "2023-12-20T10:09:01.4497891+00:00",
+  "LastChanged_Achievements": "2023-12-20T11:10:06.9495143+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-20T09:59:30.7332772+00:00",
-  "LastUpdate_Achievements": "2023-12-20T10:09:01.4499421+00:00"
+  "LastUpdate_Ratings": "2023-12-20T11:00:13.1320488+00:00",
+  "LastUpdate_Achievements": "2023-12-20T11:10:06.9497043+00:00"
 }

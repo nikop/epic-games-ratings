@@ -5,28 +5,28 @@ Rating: 4.69 (Ranked 232)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~8,741 |
-| On the Top Step | 82.00% | ~7,877 |
-| Setting up for Success | 70.00% | ~6,724 |
-| Team Orders | 69.00% | ~6,628 |
-| Engineer | 48.00% | ~4,611 |
-| Familiar Faces | 43.00% | ~4,131 |
-| Going the Extra Mile | 37.00% | ~3,554 |
-| Sharing the Love | 35.00% | ~3,362 |
-| Hitting a Season | 29.00% | ~2,786 |
-| A Dozen Pieces | 26.00% | ~2,498 |
-| Making History | 26.00% | ~2,498 |
-| Challenge Yourself | 25.00% | ~2,402 |
-| Network Success | 24.00% | ~2,305 |
-| Spring Cleaning | 20.00% | ~1,921 |
-| Writing a new Chapter | 20.00% | ~1,921 |
-| Reduce | 16.00% | ~1,537 |
-| Ups and Downs | 16.00% | ~1,537 |
-| Crucial Combo | 15.00% | ~1,441 |
-| Reuse | 13.00% | ~1,249 |
-| Proving Them Wrong | 13.00% | ~1,249 |
-| Gathering Dust | 12.00% | ~1,153 |
-| One for the Book | 12.00% | ~1,153 |
+| Getting on the Step | 91.00% | ~8,748 |
+| On the Top Step | 82.00% | ~7,883 |
+| Setting up for Success | 70.00% | ~6,729 |
+| Team Orders | 69.00% | ~6,633 |
+| Engineer | 48.00% | ~4,614 |
+| Familiar Faces | 43.00% | ~4,134 |
+| Going the Extra Mile | 37.00% | ~3,557 |
+| Sharing the Love | 35.00% | ~3,365 |
+| Hitting a Season | 29.00% | ~2,788 |
+| A Dozen Pieces | 26.00% | ~2,499 |
+| Making History | 26.00% | ~2,499 |
+| Challenge Yourself | 25.00% | ~2,403 |
+| Network Success | 24.00% | ~2,307 |
+| Spring Cleaning | 20.00% | ~1,923 |
+| Writing a new Chapter | 20.00% | ~1,923 |
+| Reduce | 16.00% | ~1,538 |
+| Ups and Downs | 16.00% | ~1,538 |
+| Crucial Combo | 15.00% | ~1,442 |
+| Reuse | 13.00% | ~1,250 |
+| Proving Them Wrong | 13.00% | ~1,250 |
+| Gathering Dust | 12.00% | ~1,154 |
+| One for the Book | 12.00% | ~1,154 |
 | Oil and Water | 11.00% | ~1,057 |
 | Hitting a Bullseye | 11.00% | ~1,057 |
 | Switcheroo | 11.00% | ~1,057 |
@@ -35,13 +35,13 @@ Rating: 4.69 (Ranked 232)
 | Lightning Round the World | 10.00% | ~961 |
 | Friendly Competition | 10.00% | ~961 |
 | Spinning Around | 10.00% | ~961 |
-| Recycle | 8.00% | ~768 |
-| Undisputed Winner | 7.00% | ~672 |
-| Tinkerer | 7.00% | ~672 |
-| For all Those Back at the Factory | 5.00% | ~480 |
-| Living up to Expectations | 5.00% | ~480 |
-| Smooth Operator | 5.00% | ~480 |
-| Peak Performance | 4.00% | ~384 |
+| Recycle | 8.00% | ~769 |
+| Undisputed Winner | 7.00% | ~673 |
+| Tinkerer | 7.00% | ~673 |
+| For all Those Back at the Factory | 5.00% | ~481 |
+| Living up to Expectations | 5.00% | ~481 |
+| Smooth Operator | 5.00% | ~481 |
+| Peak Performance | 4.00% | ~385 |
 | Seasoned Rookie | 3.00% | ~288 |
 | Hitting a Century | 3.00% | ~288 |
 | Loyal Bond | 3.00% | ~288 |
@@ -55,7 +55,7 @@ Rating: 4.69 (Ranked 232)
 | Shot in the Dark | 0.10% | ~10 |
 | Elite Racer | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,606 (Ranked 175)  
+Progressed: 9,613 (Ranked 175)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,10 +153,10 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-17 | 8,622 | 0 |
 | 2023-12-18 | 9,078 | 0 |
 | 2023-12-19 | 9,473 | 0 |
-| 2023-12-20 | 9,606 | 0 |
+| 2023-12-20 | 9,613 | 0 |
 ## Awards
 Max (Diverse Characters): 44  (Ranked 457)  
-Sum: 275 (Ranked 381)  
+Sum: 276 (Ranked 381)  
 Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
@@ -166,9 +166,9 @@ Diff (max vs sum): 76
 | This game is Highly Recommended | 30 |
 | This game is Extremely Fun | 28 |
 | This game has Challenging Combat | 26 |
+| This game has Quickly Understood Controls | 25 |
 | This game has Amazing Characters | 25 |
 | This game is Great for Quick Sessions | 24 |
-| This game has Quickly Understood Controls | 24 |
 | This game has Amazing Storytelling | 22 |
 | This game has Competitive Players | 21 |
 | This game is Educational | 21 |
@@ -274,4 +274,4 @@ Diff (max vs sum): 76
 | 2023-12-17 | 4.69 | 43 | 245 |
 | 2023-12-18 | 4.69 | 44 | 269 |
 | 2023-12-19 | 4.69 | 44 | 274 |
-| 2023-12-20 | 4.69 | 44 | 275 |
+| 2023-12-20 | 4.69 | 44 | 276 |

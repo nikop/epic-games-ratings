@@ -153,6 +153,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Trade Caravan | 0.10% | ~16 |
 | Cimmerian Archer | 0.10% | ~16 |
 | Legionary | 0.10% | ~16 |
+| Siege Tower | 0.10% | ~16 |
 | Turreted Elephant | 0.10% | ~16 |
 | All Nations | 0.10% | ~16 |
 | Ambition Victory | 0.10% | ~16 |
@@ -282,7 +283,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Three Man Chariot | 0.00% | ~0 |
 | Kushite Cavalry | 0.00% | ~0 |
 | Phalangite | 0.00% | ~0 |
-| Siege Tower | 0.00% | ~0 |
 | Great Ziggurat in Ur | 0.00% | ~0 |
 | Conquest Victory | 0.00% | ~0 |
 | No Characters | 0.00% | ~0 |

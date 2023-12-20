@@ -12,33 +12,33 @@ Number of Ratings: 68  (23.09.2022)
 | A normal day in Gloomhaven | 30.00% | ~8,265 |
 | Spread the plague | 28.00% | ~7,714 |
 | Get over here! | 24.00% | ~6,612 |
-| Just when I thought I was out... | 19.00% | ~5,234 |
-| Mine... All Mine... | 17.00% | ~4,683 |
+| Just when I thought I was out... | 19.00% | ~5,235 |
+| Mine... All Mine... | 17.00% | ~4,684 |
 | Precious! | 16.00% | ~4,408 |
-| Grizzled veteran | 15.00% | ~4,132 |
+| Grizzled veteran | 15.00% | ~4,133 |
 | Anatomy Lesson | 14.00% | ~3,857 |
-| Obstacle race | 13.00% | ~3,581 |
-| Light of my life | 13.00% | ~3,581 |
+| Obstacle race | 13.00% | ~3,582 |
+| Light of my life | 13.00% | ~3,582 |
 | You activated my trap card! | 12.00% | ~3,306 |
-| Who's the Boss? | 11.00% | ~3,030 |
-| Augmented rat | 11.00% | ~3,030 |
+| Who's the Boss? | 11.00% | ~3,031 |
+| Augmented rat | 11.00% | ~3,031 |
 | Doom and gloom | 10.00% | ~2,755 |
-| Dungeon Veteran | 9.00% | ~2,479 |
+| Dungeon Veteran | 9.00% | ~2,480 |
 | Pain is your friend | 8.00% | ~2,204 |
 | Black death | 8.00% | ~2,204 |
 | Play it again, Sam | 8.00% | ~2,204 |
-| Pack leader | 7.00% | ~1,928 |
+| Pack leader | 7.00% | ~1,929 |
 | Quad damage | 6.00% | ~1,653 |
-| Power Up! | 5.00% | ~1,377 |
-| Merchant of doom | 5.00% | ~1,377 |
-| Caught off guard | 5.00% | ~1,377 |
-| Pretty lights! | 5.00% | ~1,377 |
-| Now you see me... | 5.00% | ~1,377 |
+| Power Up! | 5.00% | ~1,378 |
+| Merchant of doom | 5.00% | ~1,378 |
+| Caught off guard | 5.00% | ~1,378 |
+| Pretty lights! | 5.00% | ~1,378 |
+| Now you see me... | 5.00% | ~1,378 |
 | The Pro from Dover | 4.00% | ~1,102 |
-| I hate portals | 3.00% | ~826 |
-| Down the hatch | 3.00% | ~826 |
-| An eye for an eye | 3.00% | ~826 |
-| The Cephalophore | 3.00% | ~826 |
+| I hate portals | 3.00% | ~827 |
+| Down the hatch | 3.00% | ~827 |
+| An eye for an eye | 3.00% | ~827 |
+| The Cephalophore | 3.00% | ~827 |
 | From Gloom, only greed and death emerges | 2.00% | ~551 |
 | The Rat King | 2.00% | ~551 |
 | How to train your Drake | 2.00% | ~551 |
@@ -46,11 +46,11 @@ Number of Ratings: 68  (23.09.2022)
 | The Sniper | 2.00% | ~551 |
 | Grin and bear it | 2.00% | ~551 |
 | An axe to grind | 2.00% | ~551 |
-| Betray this | 1.00% | ~275 |
-| Add a bit of colour | 1.00% | ~275 |
-| Captain hooked | 1.00% | ~275 |
-| Spoiler police! | 1.00% | ~275 |
-| New Blood | 1.00% | ~275 |
+| Betray this | 1.00% | ~276 |
+| Add a bit of colour | 1.00% | ~276 |
+| Captain hooked | 1.00% | ~276 |
+| Spoiler police! | 1.00% | ~276 |
+| New Blood | 1.00% | ~276 |
 | The Pacifist | 0.50% | ~138 |
 | Born Support | 0.50% | ~138 |
 | A tough job | 0.40% | ~110 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~28 |
 | Murder Death Kill | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,549 (Ranked 134)  
+Progressed: 27,551 (Ranked 134)  
 Completed: 1 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 1 (0.00%) (Ranked 385)
 | 2023-12-17 | 27,097 | 1 |
 | 2023-12-18 | 27,282 | 1 |
 | 2023-12-19 | 27,467 | 1 |
-| 2023-12-20 | 27,549 | 1 |
+| 2023-12-20 | 27,551 | 1 |
 ## Awards
 Max (Character Customization): 3,603  (Ranked 92)  
 Sum: 8,421 (Ranked 104)  

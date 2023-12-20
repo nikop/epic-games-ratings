@@ -567,9 +567,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5887,
+  "EOS_Progressed": 5889,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 299,
+  "EOS_NewPlayers": 301,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8552,6 +8552,11 @@
       "Time": "2023-12-20T10:05:08.121551+00:00",
       "NumProgressed": 5887,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-20T11:06:11.5715471+00:00",
+      "NumProgressed": 5889,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -8707,7 +8712,7 @@
       "Name": "Bone Peddler",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "27",
@@ -8755,7 +8760,7 @@
       "Name": "Magical Synergy",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "32",
@@ -9042,13 +9047,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5887,
+      "Progressed": 5889,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5887,
+      "Progressed": 5889,
       "Completed": 7
     }
   ],
@@ -9056,8 +9061,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-20T07:59:25.4319145+00:00",
-  "LastChanged_Achievements": "2023-12-20T10:05:08.1215505+00:00",
+  "LastChanged_Achievements": "2023-12-20T11:06:11.5715468+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.6868317+00:00",
-  "LastUpdate_Ratings": "2023-12-20T09:59:59.9171593+00:00",
-  "LastUpdate_Achievements": "2023-12-20T10:05:08.1216535+00:00"
+  "LastUpdate_Ratings": "2023-12-20T11:00:58.4994845+00:00",
+  "LastUpdate_Achievements": "2023-12-20T11:06:11.571634+00:00"
 }

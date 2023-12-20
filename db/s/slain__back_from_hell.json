@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -250,9 +250,9 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 42357,
+  "EOS_Progressed": 42359,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 407,
+  "EOS_NewPlayers": 408,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -26715,6 +26715,11 @@
       "Time": "2023-12-20T10:06:40.6078131+00:00",
       "NumProgressed": 42357,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-12-20T11:08:58.7494991+00:00",
+      "NumProgressed": 42359,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -26742,7 +26747,7 @@
       "Name": "Start As You Mean To Go On",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ACH_05_DEFEATED_THORN_BEAST",
@@ -26878,7 +26883,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2541
+      "UsersEstimate": 2542
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -26886,7 +26891,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2541
+      "UsersEstimate": 2542
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -26902,7 +26907,7 @@
       "Name": "Hail the Great Horned Metal God!",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ACH_25_TALISMAN_COMPLETE",
@@ -26910,7 +26915,7 @@
       "Name": "That\u0027ll Come In Handy...",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ACH_26_VROLL_NO_DAMAGE",
@@ -26957,7 +26962,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 42357,
+      "Progressed": 42359,
       "Completed": 30
     }
   ],
@@ -26965,8 +26970,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-12-18T19:58:40.3413682+00:00",
-  "LastChanged_Achievements": "2023-12-20T10:06:40.6078126+00:00",
+  "LastChanged_Achievements": "2023-12-20T11:08:58.7494986+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:31.5071316+00:00",
-  "LastUpdate_Ratings": "2023-12-20T09:59:50.0436405+00:00",
-  "LastUpdate_Achievements": "2023-12-20T10:06:40.607942+00:00"
+  "LastUpdate_Ratings": "2023-12-20T11:00:43.7723239+00:00",
+  "LastUpdate_Achievements": "2023-12-20T11:08:58.749653+00:00"
 }

@@ -21,7 +21,7 @@
 | Fierce fight | 17.00% | ~139 |
 | Beyond divisions | 17.00% | ~139 |
 | Flying Objects Operator | 15.00% | ~123 |
-| I remember everything! | 12.00% | ~98 |
+| I remember everything! | 13.00% | ~106 |
 | Another giant | 11.00% | ~90 |
 | Violent solution | 9.00% | ~74 |
 | I leave no man behind | 7.00% | ~57 |

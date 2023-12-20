@@ -6,40 +6,40 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 9.00% | ~13,183 |
+| Sponsored by Argon | 9.00% | ~13,184 |
 | Basic in Bulk | 8.00% | ~11,719 |
 | Titan's First Steps | 8.00% | ~11,719 |
 | Tinkle of Coins | 7.00% | ~10,254 |
 | Disintermediation | 6.00% | ~8,789 |
 | It's Free Real Estate | 6.00% | ~8,789 |
 | Capitalism Ho! | 6.00% | ~8,789 |
-| One Easy Payment | 5.00% | ~7,324 |
-| Some Assembly Required | 5.00% | ~7,324 |
-| Another Satisfied Customer | 5.00% | ~7,324 |
-| Budding Merchant | 5.00% | ~7,324 |
-| Own the Means of Production | 5.00% | ~7,324 |
-| The Daily Grind | 4.00% | ~5,859 |
-| Pretty Penny | 4.00% | ~5,859 |
-| One-Armed Bandit | 4.00% | ~5,859 |
-| Through Repetition, Perfection | 4.00% | ~5,859 |
-| On the Path to Greatness | 3.00% | ~4,394 |
-| Ascended | 3.00% | ~4,394 |
-| Research & Development | 3.00% | ~4,394 |
-| Vanity, Verily | 3.00% | ~4,394 |
-| Bounty Hunters | 3.00% | ~4,394 |
-| Blank Page Syndrome | 3.00% | ~4,394 |
-| Demand for Supplies | 3.00% | ~4,394 |
-| Flooding the Market | 3.00% | ~4,394 |
-| Where it Hurts | 3.00% | ~4,394 |
-| Efficient Floor Space | 3.00% | ~4,394 |
-| Gem Expert | 3.00% | ~4,394 |
-| Gild-Gotten Goods | 3.00% | ~4,394 |
-| Helping Hand | 3.00% | ~4,394 |
-| Accomplished Merchant | 3.00% | ~4,394 |
-| Dungeon Imports | 3.00% | ~4,394 |
-| Natural 20 | 3.00% | ~4,394 |
-| Did we pack lunch? | 3.00% | ~4,394 |
-| Arcane Industries | 3.00% | ~4,394 |
+| One Easy Payment | 5.00% | ~7,325 |
+| Some Assembly Required | 5.00% | ~7,325 |
+| Another Satisfied Customer | 5.00% | ~7,325 |
+| Budding Merchant | 5.00% | ~7,325 |
+| Own the Means of Production | 5.00% | ~7,325 |
+| The Daily Grind | 4.00% | ~5,860 |
+| Pretty Penny | 4.00% | ~5,860 |
+| One-Armed Bandit | 4.00% | ~5,860 |
+| Through Repetition, Perfection | 4.00% | ~5,860 |
+| On the Path to Greatness | 3.00% | ~4,395 |
+| Ascended | 3.00% | ~4,395 |
+| Research & Development | 3.00% | ~4,395 |
+| Vanity, Verily | 3.00% | ~4,395 |
+| Bounty Hunters | 3.00% | ~4,395 |
+| Blank Page Syndrome | 3.00% | ~4,395 |
+| Demand for Supplies | 3.00% | ~4,395 |
+| Flooding the Market | 3.00% | ~4,395 |
+| Where it Hurts | 3.00% | ~4,395 |
+| Efficient Floor Space | 3.00% | ~4,395 |
+| Gem Expert | 3.00% | ~4,395 |
+| Gild-Gotten Goods | 3.00% | ~4,395 |
+| Helping Hand | 3.00% | ~4,395 |
+| Accomplished Merchant | 3.00% | ~4,395 |
+| Dungeon Imports | 3.00% | ~4,395 |
+| Natural 20 | 3.00% | ~4,395 |
+| Did we pack lunch? | 3.00% | ~4,395 |
+| Arcane Industries | 3.00% | ~4,395 |
 | A Notch Above the Rest | 2.00% | ~2,930 |
 | Cream of the Crop | 2.00% | ~2,930 |
 | Top of the World | 2.00% | ~2,930 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~586 |
 | Capitalist Camaraderie | 0.20% | ~293 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 146,483 (Ranked 81)  
+Progressed: 146,491 (Ranked 81)  
 Completed: 325 (0.22%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -363,7 +363,7 @@ Completed: 325 (0.22%) (Ranked 266)
 | 2023-12-17 | 146,136 | 322 |
 | 2023-12-18 | 146,265 | 322 |
 | 2023-12-19 | 146,428 | 325 |
-| 2023-12-20 | 146,483 | 325 |
+| 2023-12-20 | 146,491 | 325 |
 ## Awards
 Max (Great for Beginners): 4,900  (Ranked 75)  
 Sum: 27,768 (Ranked 51)  

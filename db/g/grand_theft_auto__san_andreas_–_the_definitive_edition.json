@@ -1855,9 +1855,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 15668,
+  "EOS_Progressed": 15677,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 1700,
+  "EOS_NewPlayers": 1709,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -16840,6 +16840,11 @@
       "Time": "2023-12-20T10:09:31.7739815+00:00",
       "NumProgressed": 15668,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-12-20T11:10:49.8781635+00:00",
+      "NumProgressed": 15677,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 35,
@@ -16851,7 +16856,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 12691
+      "UsersEstimate": 12698
     },
     {
       "ID": "ACH02",
@@ -16867,7 +16872,7 @@
       "Name": "The End of the Line",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     },
     {
       "ID": "ACH04",
@@ -16883,7 +16888,7 @@
       "Name": "A Legitimate Business",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "ACH06",
@@ -16891,7 +16896,7 @@
       "Name": "I\u2019ll Have Two Number 9s",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "ACH07",
@@ -16899,7 +16904,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2977
+      "UsersEstimate": 2979
     },
     {
       "ID": "ACH08",
@@ -16907,7 +16912,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 7834
+      "UsersEstimate": 7838
     },
     {
       "ID": "ACH09",
@@ -16923,15 +16928,15 @@
       "Name": "Who Needs Directions?",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "ACH11",
       "SetID": "4ck5mbe",
       "Name": "Liberty City State of Mind",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1567
+      "UsersEstimate": 1411
     },
     {
       "ID": "ACH12",
@@ -16939,7 +16944,7 @@
       "Name": "Swiss Army Strife",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "ACH13",
@@ -16947,7 +16952,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 2820
+      "UsersEstimate": 2822
     },
     {
       "ID": "ACH14",
@@ -16955,7 +16960,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1723
+      "UsersEstimate": 1724
     },
     {
       "ID": "ACH15",
@@ -16963,7 +16968,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "ACH16",
@@ -16971,7 +16976,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2664
+      "UsersEstimate": 2665
     },
     {
       "ID": "ACH17",
@@ -16987,7 +16992,7 @@
       "Name": "Saviour",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "ACH19",
@@ -16995,7 +17000,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "ACH20",
@@ -17003,7 +17008,7 @@
       "Name": "Yes I Speak English",
       "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "ACH21",
@@ -17019,7 +17024,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2194
+      "UsersEstimate": 2195
     },
     {
       "ID": "ACH23",
@@ -17027,7 +17032,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 3917
+      "UsersEstimate": 3919
     },
     {
       "ID": "ACH24",
@@ -17051,7 +17056,7 @@
       "Name": "Double or Nothin\u0027",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "ACH27",
@@ -17059,7 +17064,7 @@
       "Name": "Assassin",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "ACH28",
@@ -17067,7 +17072,7 @@
       "Name": "Original Gangster",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     },
     {
       "ID": "ACH29",
@@ -17075,7 +17080,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2350
+      "UsersEstimate": 2352
     },
     {
       "ID": "ACH30",
@@ -17083,7 +17088,7 @@
       "Name": "Public Enemy No. 1",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "ACH31",
@@ -17099,7 +17104,7 @@
       "Name": "Ain\u2019t Nothing But a G Thing",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "ACH33",
@@ -17130,7 +17135,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 15668,
+      "Progressed": 15677,
       "Completed": 61
     }
   ],
@@ -17138,8 +17143,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-12-20T02:57:34.202725+00:00",
-  "LastChanged_Achievements": "2023-12-20T10:09:31.7739811+00:00",
+  "LastChanged_Achievements": "2023-12-20T11:10:49.8781631+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:24.5920887+00:00",
-  "LastUpdate_Ratings": "2023-12-20T09:58:13.3576047+00:00",
-  "LastUpdate_Achievements": "2023-12-20T10:09:31.7740747+00:00"
+  "LastUpdate_Ratings": "2023-12-20T10:58:20.1806749+00:00",
+  "LastUpdate_Achievements": "2023-12-20T11:10:49.8782417+00:00"
 }

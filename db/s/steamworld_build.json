@@ -2,9 +2,9 @@
   "ID": "974d75969ed043489745f61eb0a25baf",
   "Name": "SteamWorld Build",
   "ProductSlug": "steamworld-build-71ee6c",
-  "Ranking_EOS_Progress": 424,
+  "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 161,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -680,9 +680,9 @@
       "ID": "RollOut",
       "SetID": "4bd750m",
       "Name": "Roll Out",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 46
+      "UsersEstimate": 49
     },
     {
       "ID": "RoomToSpare",
@@ -712,9 +712,9 @@
       "ID": "SteamPowered",
       "SetID": "4bd750m",
       "Name": "Steam Powered",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "SteamingRich",
@@ -775,8 +775,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-20T10:04:10.85826+00:00",
+  "LastChanged_Achievements": "2023-12-20T11:04:53.1836049+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.7183942+00:00",
-  "LastUpdate_Ratings": "2023-12-20T10:03:18.3662177+00:00",
-  "LastUpdate_Achievements": "2023-12-20T10:04:10.8582789+00:00"
+  "LastUpdate_Ratings": "2023-12-20T11:03:37.5142045+00:00",
+  "LastUpdate_Achievements": "2023-12-20T11:04:53.1836269+00:00"
 }

@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Land of the Rising Sun | 100.00% | ~699 |
-| Hidden History | 71.00% | ~496 |
-| Commencing of Quests | 62.00% | ~433 |
-| Budding Conjuror | 60.00% | ~419 |
+| Land of the Rising Sun | 100.00% | ~701 |
+| Hidden History | 71.00% | ~498 |
+| Commencing of Quests | 61.00% | ~428 |
+| Budding Conjuror | 60.00% | ~421 |
 | Man-Machine Master | 50.00% | ~350 |
 | Mountain Splitter | 49.00% | ~343 |
 | Subsistence Skills | 48.00% | ~336 |
@@ -15,7 +15,7 @@
 | Memory Rouser | 47.00% | ~329 |
 | Fusion Conjuror | 45.00% | ~315 |
 | Kemono Hunter | 42.00% | ~294 |
-| Helpful Heart | 40.00% | ~280 |
+| Helpful Heart | 41.00% | ~287 |
 | Flawless Crystal | 38.00% | ~266 |
 | Expert Conjuror | 38.00% | ~266 |
 | Bonds of Enmity | 37.00% | ~259 |
@@ -30,15 +30,15 @@
 | Snare Specialist | 25.00% | ~175 |
 | Artful Assister | 25.00% | ~175 |
 | Karakuri Trail | 23.00% | ~161 |
-| Team Hunter | 21.00% | ~147 |
+| Team Hunter | 22.00% | ~154 |
 | Karakuri Isle | 20.00% | ~140 |
 | Reincarnation Cycle Stopper | 20.00% | ~140 |
 | Left Arm Leverager | 17.00% | ~119 |
 | Unrivaled in Arms | 17.00% | ~119 |
 | Threaded Harmony | 17.00% | ~119 |
+| Style Seeker | 16.00% | ~112 |
 | Human Believer | 16.00% | ~112 |
 | Canyon of Karakuri | 15.00% | ~105 |
-| Style Seeker | 15.00% | ~105 |
 | Quintessence of Form | 15.00% | ~105 |
 | Karakuri Minato | 15.00% | ~105 |
 | Jack of All Trades | 13.00% | ~91 |
@@ -53,7 +53,7 @@
 | Big Spender | 6.00% | ~42 |
 | Tsukumo Whisperer | 3.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 699 (Ranked 297)  
+Progressed: 701 (Ranked 297)  
 Completed: 8 (1.14%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,4 +149,4 @@ Completed: 8 (1.14%) (Ranked 163)
 | 2023-12-17 | 613 | 8 |
 | 2023-12-18 | 649 | 8 |
 | 2023-12-19 | 685 | 8 |
-| 2023-12-20 | 699 | 8 |
+| 2023-12-20 | 701 | 8 |

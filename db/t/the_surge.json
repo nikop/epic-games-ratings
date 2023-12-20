@@ -376,9 +376,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4993,
+  "EOS_Progressed": 4994,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3781,6 +3781,11 @@
       "Time": "2023-12-20T07:05:56.2426646+00:00",
       "NumProgressed": 4993,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-20T11:07:39.5650622+00:00",
+      "NumProgressed": 4994,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -3792,7 +3797,7 @@
       "Name": "P.A.X",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1847
+      "UsersEstimate": 1848
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -3840,7 +3845,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4194
+      "UsersEstimate": 4195
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -3848,7 +3853,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4693
+      "UsersEstimate": 4694
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -3864,7 +3869,7 @@
       "Name": "Hey Listen",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1797
+      "UsersEstimate": 1798
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -3928,7 +3933,7 @@
       "Name": "Pusher Man",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "ID_ACHIEV_19",
@@ -4040,7 +4045,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 2746
+      "UsersEstimate": 2747
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -4064,7 +4069,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1148
+      "UsersEstimate": 1149
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -4136,7 +4141,7 @@
       "Name": "OPERATOR",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1797
+      "UsersEstimate": 1798
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -4168,7 +4173,7 @@
       "Name": "Squad Chief Helvig",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "ID_ACHIEV_50",
@@ -4208,7 +4213,7 @@
       "Name": "No More Marching",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "ID_ACHIEV_55",
@@ -4327,15 +4332,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4993,
+      "Progressed": 4994,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-11-03T01:46:55.8375725+00:00",
-  "LastChanged_Achievements": "2023-12-20T10:06:12.1285821+00:00",
+  "LastChanged_Achievements": "2023-12-20T11:07:39.5650617+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.7369287+00:00",
-  "LastUpdate_Ratings": "2023-12-20T09:59:15.0737171+00:00",
-  "LastUpdate_Achievements": "2023-12-20T10:06:12.1286593+00:00"
+  "LastUpdate_Ratings": "2023-12-20T10:59:50.5304438+00:00",
+  "LastUpdate_Achievements": "2023-12-20T11:07:39.5651408+00:00"
 }

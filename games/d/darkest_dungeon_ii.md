@@ -61,10 +61,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | Eyes Up | 0.80% | ~1,029 |
 | Slap on the Wrist | 0.80% | ~28 |
 | For Old Time' Sake | 0.70% | ~25 |
+| Shrine of Reflection | 0.60% | ~772 |
 | Handled | 0.60% | ~772 |
 | Body of Work | 0.60% | ~772 |
 | Et Tu, Riposte? | 0.60% | ~21 |
-| Shrine of Reflection | 0.50% | ~643 |
 | Clearing the Ledger | 0.40% | ~515 |
 | Hat Trick | 0.40% | ~515 |
 | Triage | 0.40% | ~515 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,675 (Ranked 85)  
+Progressed: 128,680 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 3 (0.00%) (Ranked 385)
 | 2023-12-17 | 128,143 | 3 |
 | 2023-12-18 | 128,398 | 3 |
 | 2023-12-19 | 128,605 | 3 |
-| 2023-12-20 | 128,675 | 3 |
+| 2023-12-20 | 128,680 | 3 |
 ## Awards
 Max (Character Customization): 7,795  (Ranked 50)  
 Sum: 20,813 (Ranked 58)  

@@ -5,21 +5,21 @@ Rating: 4.40 (Ranked 747)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~108,060 |
-| 74 miles East of Otaheité | 56.00% | ~75,642 |
-| Interesting... | 42.00% | ~56,732 |
-| The Everhart Expedition | 40.00% | ~54,030 |
-| Seaside Serenade | 31.00% | ~41,873 |
-| Halfway there | 30.00% | ~40,522 |
-| The Vanishing of the Lady Shannon | 30.00% | ~40,522 |
-| A brigantine, a brig and a barque | 28.00% | ~37,821 |
-| 506 East Hampden Avenue | 28.00% | ~37,821 |
-| Weekend at Walakea's | 27.00% | ~36,470 |
-| Quite a Show | 27.00% | ~36,470 |
-| Dark Water Ride | 25.00% | ~33,769 |
-| Sunken | 25.00% | ~33,769 |
-| Deep Cut | 24.00% | ~32,418 |
-| FHALGOF'N' | 23.00% | ~31,067 |
+| A Family Heirloom | 80.00% | ~108,062 |
+| 74 miles East of Otaheité | 56.00% | ~75,644 |
+| Interesting... | 42.00% | ~56,733 |
+| The Everhart Expedition | 40.00% | ~54,031 |
+| Seaside Serenade | 31.00% | ~41,874 |
+| Halfway there | 30.00% | ~40,523 |
+| The Vanishing of the Lady Shannon | 30.00% | ~40,523 |
+| A brigantine, a brig and a barque | 28.00% | ~37,822 |
+| 506 East Hampden Avenue | 28.00% | ~37,822 |
+| Weekend at Walakea's | 27.00% | ~36,471 |
+| Quite a Show | 27.00% | ~36,471 |
+| Dark Water Ride | 25.00% | ~33,770 |
+| Sunken | 25.00% | ~33,770 |
+| Deep Cut | 24.00% | ~32,419 |
+| FHALGOF'N' | 23.00% | ~31,068 |
 | Marsh Cannery | 21.00% | ~28,366 |
 | Greetings from Y'ha-nthlei! | 18.00% | ~24,314 |
 | The only thing I have now | 17.00% | ~22,963 |
@@ -40,7 +40,7 @@ Rating: 4.40 (Ranked 747)
 | Gently down the stream... | 1.00% | ~1,351 |
 | Meta-reference | 1.00% | ~1,351 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,075 (Ranked 83)  
+Progressed: 135,078 (Ranked 83)  
 Completed: 1,199 (0.89%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 1,199 (0.89%) (Ranked 182)
 | 2023-12-17 | 134,729 | 1,195 |
 | 2023-12-18 | 134,876 | 1,198 |
 | 2023-12-19 | 135,021 | 1,199 |
-| 2023-12-20 | 135,075 | 1,199 |
+| 2023-12-20 | 135,078 | 1,199 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

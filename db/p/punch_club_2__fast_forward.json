@@ -1770,9 +1770,9 @@
       "ID": "any_stat_15",
       "SetID": "69co12a",
       "Name": "Workout professional",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 244
     },
     {
       "ID": "any_stat_30",
@@ -2010,9 +2010,9 @@
       "ID": "met_k",
       "SetID": "69co12a",
       "Name": "Depressed visitor",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 325
+      "UsersEstimate": 330
     },
     {
       "ID": "mick_house",
@@ -2026,9 +2026,9 @@
       "ID": "mike_resurect",
       "SetID": "69co12a",
       "Name": "It\u0027s good to be alive",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 235
     },
     {
       "ID": "mysterious_voice",
@@ -2249,8 +2249,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-12-20T10:09:06.6430085+00:00",
+  "LastChanged_Achievements": "2023-12-20T11:10:13.9683311+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:32.3459278+00:00",
-  "LastUpdate_Ratings": "2023-12-20T10:00:41.0689639+00:00",
-  "LastUpdate_Achievements": "2023-12-20T10:09:06.6430667+00:00"
+  "LastUpdate_Ratings": "2023-12-20T11:02:58.5759569+00:00",
+  "LastUpdate_Achievements": "2023-12-20T11:10:13.9683923+00:00"
 }

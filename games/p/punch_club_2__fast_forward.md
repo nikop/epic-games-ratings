@@ -11,8 +11,8 @@
 | Your first job | 82.00% | ~351 |
 | Fitness professional | 77.00% | ~330 |
 | Old movies enjoyer | 77.00% | ~330 |
+| Depressed visitor | 77.00% | ~330 |
 | Neurotrainer – power gainer! | 77.00% | ~330 |
-| Depressed visitor | 76.00% | ~325 |
 | Employee of the week | 75.00% | ~321 |
 | Your own amateur gym | 71.00% | ~304 |
 | Run K, run! | 70.00% | ~300 |
@@ -24,14 +24,14 @@
 | Spirit of the past | 62.00% | ~265 |
 | Employee of the month | 61.00% | ~261 |
 | Law student | 58.00% | ~248 |
-| Workout professional | 56.00% | ~240 |
+| Workout professional | 57.00% | ~244 |
 | Little hacker | 56.00% | ~240 |
 | Handyman | 56.00% | ~240 |
 | Intriguing candies | 56.00% | ~240 |
 | Champion – starter pack | 55.00% | ~235 |
+| It's good to be alive | 55.00% | ~235 |
 | Employee of the year | 55.00% | ~235 |
 | Fight for life | 54.00% | ~231 |
-| It's good to be alive | 54.00% | ~231 |
 | Own four walls | 54.00% | ~231 |
 | Legal courier | 50.00% | ~214 |
 | Extreme neuropower! | 50.00% | ~214 |

@@ -15,13 +15,13 @@
 | Slotting Machine | 39.00% | ~54 |
 | Systematic | 37.00% | ~51 |
 | Mine Sweeper | 35.00% | ~49 |
-| Roll Out | 33.00% | ~46 |
+| Roll Out | 35.00% | ~49 |
 | Dopa-Miner | 26.00% | ~36 |
 | Whoa! | 25.00% | ~35 |
 | Up, Up And Away! | 24.00% | ~33 |
 | Botropolis | 22.00% | ~31 |
 | Steaming Rich | 18.00% | ~25 |
-| Steam Powered | 16.00% | ~22 |
+| Steam Powered | 17.00% | ~24 |
 | Manic Mechanic | 14.00% | ~19 |
 | Room To Spare | 12.00% | ~17 |
 | Click 'Em All | 4.00% | ~6 |
@@ -33,7 +33,7 @@
 | Yup. | 0.70% | ~1 |
 | Nothing But Road | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139 (Ranked 424)  
+Progressed: 139 (Ranked 425)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |

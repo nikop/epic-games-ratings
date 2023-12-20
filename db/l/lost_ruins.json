@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 565,
+  "EOS_Progressed": 566,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1369,6 +1369,11 @@
       "Time": "2023-12-20T06:10:36.354216+00:00",
       "NumProgressed": 565,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T11:11:07.7413159+00:00",
+      "NumProgressed": 566,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1396,7 +1401,7 @@
       "Name": "Artifact Collector",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "Assassin",
@@ -1412,7 +1417,7 @@
       "Name": "Boss Killer",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "BugHunter",
@@ -1508,7 +1513,7 @@
       "Name": "Librarian",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Lumberjack",
@@ -1564,7 +1569,7 @@
       "Name": "Orcs Must Die!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Pyromancer",
@@ -1634,9 +1639,9 @@
       "ID": "TheEnd",
       "SetID": "82505mn",
       "Name": "The End",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 62
     },
     {
       "ID": "TheFallen",
@@ -1676,7 +1681,7 @@
       "Name": "Troubleshooter",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "WeaponMaster",
@@ -1699,7 +1704,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 565,
+      "Progressed": 566,
       "Completed": 1
     }
   ],
@@ -1707,8 +1712,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-20T10:09:45.2253594+00:00",
+  "LastChanged_Achievements": "2023-12-20T11:11:07.7413155+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:31.304442+00:00",
-  "LastUpdate_Ratings": "2023-12-20T09:59:57.6650792+00:00",
-  "LastUpdate_Achievements": "2023-12-20T10:09:45.2253854+00:00"
+  "LastUpdate_Ratings": "2023-12-20T11:00:55.1553588+00:00",
+  "LastUpdate_Achievements": "2023-12-20T11:11:07.7413436+00:00"
 }

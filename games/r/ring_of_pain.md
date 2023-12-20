@@ -46,6 +46,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Expensive Look | 0.50% | ~14 |
 | What Doesn't Kill You | 0.50% | ~14 |
 | Consecutive Curses | 0.40% | ~965 |
+| Shadow Spreads | 0.40% | ~965 |
 | To The Death! | 0.40% | ~965 |
 | Well Prepared | 0.40% | ~965 |
 | Just Chilling | 0.40% | ~965 |
@@ -58,7 +59,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Acid Bath | 0.40% | ~965 |
 | New Perspectives | 0.40% | ~965 |
 | Thank You, Friend | 0.30% | ~724 |
-| Shadow Spreads | 0.30% | ~724 |
 | Max Damage! | 0.30% | ~724 |
 | A Rough Road | 0.30% | ~724 |
 | Berzerker | 0.30% | ~724 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,334 (Ranked 66)  
+Progressed: 241,335 (Ranked 66)  
 Completed: 300 (0.12%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -389,7 +389,7 @@ Completed: 300 (0.12%) (Ranked 295)
 | 2023-12-17 | 241,211 | 299 |
 | 2023-12-18 | 241,266 | 299 |
 | 2023-12-19 | 241,311 | 300 |
-| 2023-12-20 | 241,334 | 300 |
+| 2023-12-20 | 241,335 | 300 |
 ## Awards
 Max (Quickly Understood Controls): 1,511  (Ranked 134)  
 Sum: 11,746 (Ranked 88)  

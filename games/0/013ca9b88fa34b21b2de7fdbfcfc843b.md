@@ -28,6 +28,7 @@ Rating: 4.63 (Ranked 354)
 | Skilled | 0.30% | ~26 |
 | Flaming Hot Completos | 0.20% | ~17 |
 | Fae Farmer | 0.20% | ~17 |
+| Rumble in the Jumble | 0.20% | ~17 |
 | Fanatical Farmer | 0.20% | ~17 |
 | I Now Pronounce You... | 0.20% | ~17 |
 | Chatty Neighbor | 0.20% | ~17 |
@@ -42,7 +43,6 @@ Rating: 4.63 (Ranked 354)
 | Workaholic | 0.10% | ~9 |
 | Giving the People What They Want | 0.10% | ~9 |
 | Scattered Scroll Scrounger | 0.10% | ~9 |
-| Rumble in the Jumble | 0.10% | ~9 |
 | Very Skilled | 0.10% | ~9 |
 | A Pal To All | 0.10% | ~1 |
 | Scroll Hunter | 0.10% | ~1 |

@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 699,
+  "EOS_Progressed": 701,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 313,
+  "EOS_NewPlayers": 315,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.14,
   "EosHistory": [
@@ -2473,6 +2473,11 @@
       "Time": "2023-12-20T10:08:53.8758427+00:00",
       "NumProgressed": 699,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-20T11:09:56.756348+00:00",
+      "NumProgressed": 701,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -2485,7 +2490,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 699
+      "UsersEstimate": 701
     },
     {
       "ID": "achievement_10",
@@ -2683,9 +2688,9 @@
       "ID": "achievement_32",
       "SetID": "2cpn27e",
       "Name": "Style Seeker",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 112
     },
     {
       "ID": "achievement_33",
@@ -2725,7 +2730,7 @@
       "Name": "Hidden History",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 496
+      "UsersEstimate": 498
     },
     {
       "ID": "achievement_38",
@@ -2779,9 +2784,9 @@
       "ID": "achievement_43",
       "SetID": "2cpn27e",
       "Name": "Team Hunter",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 154
     },
     {
       "ID": "achievement_44",
@@ -2795,9 +2800,9 @@
       "ID": "achievement_45",
       "SetID": "2cpn27e",
       "Name": "Helpful Heart",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 287
     },
     {
       "ID": "achievement_46",
@@ -2835,9 +2840,9 @@
       "ID": "achievement_6",
       "SetID": "2cpn27e",
       "Name": "Commencing of Quests",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 433
+      "UsersEstimate": 428
     },
     {
       "ID": "achievement_7",
@@ -2845,7 +2850,7 @@
       "Name": "Budding Conjuror",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 419
+      "UsersEstimate": 421
     },
     {
       "ID": "achievement_8",
@@ -2868,13 +2873,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 699,
+      "Progressed": 701,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-20T10:08:53.8758423+00:00",
+  "LastChanged_Achievements": "2023-12-20T11:09:56.7563475+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:11.6761115+00:00",
-  "LastUpdate_Ratings": "2023-12-20T10:00:31.9720036+00:00",
-  "LastUpdate_Achievements": "2023-12-20T10:08:53.8758928+00:00"
+  "LastUpdate_Ratings": "2023-12-20T11:02:45.0629627+00:00",
+  "LastUpdate_Achievements": "2023-12-20T11:09:56.7564013+00:00"
 }

@@ -8953,9 +8953,9 @@
       "ID": "DISPATCH_JUMBLES",
       "SetID": "9eia0f5",
       "Name": "Rumble in the Jumble",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 17
     },
     {
       "ID": "DISPATCH_THORNS",
@@ -9144,8 +9144,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-19T16:03:30.9665101+00:00",
-  "LastChanged_Achievements": "2023-12-20T10:09:45.9256436+00:00",
+  "LastChanged_Achievements": "2023-12-20T11:11:08.6661734+00:00",
   "LastUpdate_AppInfo": "2023-12-15T11:57:06.5610357+00:00",
-  "LastUpdate_Ratings": "2023-12-20T10:03:18.4820834+00:00",
-  "LastUpdate_Achievements": "2023-12-20T10:09:45.9256976+00:00"
+  "LastUpdate_Ratings": "2023-12-20T11:03:37.6878563+00:00",
+  "LastUpdate_Achievements": "2023-12-20T11:11:08.6662545+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 299,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 161,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -2224,9 +2224,9 @@
       "ID": "CompleteChapter11",
       "SetID": "52ail55",
       "Name": "The Artefact is Mine",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 119
     },
     {
       "ID": "CompleteChapter12",
@@ -2455,8 +2455,8 @@
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-20T10:05:42.6704789+00:00",
+  "LastChanged_Achievements": "2023-12-20T11:06:58.8770694+00:00",
   "LastUpdate_AppInfo": "2023-12-15T09:57:06.988595+00:00",
-  "LastUpdate_Ratings": "2023-12-20T09:57:29.9409228+00:00",
-  "LastUpdate_Achievements": "2023-12-20T10:05:42.6705224+00:00"
+  "LastUpdate_Ratings": "2023-12-20T10:57:16.9402323+00:00",
+  "LastUpdate_Achievements": "2023-12-20T11:06:58.8771031+00:00"
 }

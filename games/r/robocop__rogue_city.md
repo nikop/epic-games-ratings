@@ -1,10 +1,12 @@
 # RoboCop: Rogue City
 [Store](https://store.epicgames.com/en-US/p/robocop-rogue-city)  
 [View Rawdata](../../db/r/robocop__rogue_city.json)  
-Rating: 4.31 (Ranked 839)  
+Rating: 4.31 (Ranked 840)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Strikeout! | 0.10% | ~1 |
+| Zip This Up | 0.10% | ~1 |
 | I'd Buy That For a Dollar! | 0.00% | ~0 |
 | Hard Boiled | 0.00% | ~0 |
 | Uphold the Law | 0.00% | ~0 |
@@ -12,7 +14,6 @@ Rating: 4.31 (Ranked 839)
 | Officer of the month | 0.00% | ~0 |
 | Nukem! | 0.00% | ~0 |
 | Live by the bike... | 0.00% | ~0 |
-| Strikeout! | 0.00% | ~0 |
 | There Can Only Be One | 0.00% | ~0 |
 | All Adds Up | 0.00% | ~0 |
 | Night Has Just Begun | 0.00% | ~0 |
@@ -27,7 +28,6 @@ Rating: 4.31 (Ranked 839)
 | A Real Hero | 0.00% | ~0 |
 | No stone unturned | 0.00% | ~0 |
 | Good eyes, Murphy! | 0.00% | ~0 |
-| Zip This Up | 0.00% | ~0 |
 | Dead-On | 0.00% | ~0 |
 | SuperCop | 0.00% | ~0 |
 | "This Guy Is Really Good" | 0.00% | ~0 |

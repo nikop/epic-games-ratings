@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 88.00% | ~1,698 |
-| Off to a good start | 64.00% | ~1,235 |
-| Do... or do not. There is no try | 51.00% | ~984 |
-| A good blaster at your side | 28.00% | ~540 |
-| I suggest a new strategy | 18.00% | ~347 |
+| New Recruit | 89.00% | ~1,719 |
+| Off to a good start | 64.00% | ~1,236 |
+| Do... or do not. There is no try | 51.00% | ~985 |
+| A good blaster at your side | 28.00% | ~541 |
+| I suggest a new strategy | 18.00% | ~348 |
 | Scrap collector | 17.00% | ~328 |
 | Great shot, kid! | 17.00% | ~328 |
 | All right, I'll give it a try | 16.00% | ~309 |
 | The power of the Force | 13.00% | ~251 |
 | Collector | 13.00% | ~251 |
 | Shoot first | 13.00% | ~251 |
-| Together we can rule the galaxy | 12.00% | ~231 |
+| Together we can rule the galaxy | 12.00% | ~232 |
 | Tell Jabba that I've got his money | 9.00% | ~174 |
 | Best star-pilot in the galaxy | 9.00% | ~174 |
 | Never tell me the odds! | 8.00% | ~154 |
@@ -23,11 +23,11 @@
 | What's the cargo? | 7.00% | ~135 |
 | A cunning warrior | 7.00% | ~135 |
 | Judge me by my size, do you? | 6.00% | ~116 |
-| "Gonk? Gonk!" | 5.00% | ~96 |
-| Distinguished | 5.00% | ~96 |
-| A tremor in the Force | 5.00% | ~96 |
-| Impressive. Most impressive. | 5.00% | ~96 |
-| Support the troops | 5.00% | ~96 |
+| "Gonk? Gonk!" | 5.00% | ~97 |
+| Distinguished | 5.00% | ~97 |
+| A tremor in the Force | 5.00% | ~97 |
+| Impressive. Most impressive. | 5.00% | ~97 |
+| Support the troops | 5.00% | ~97 |
 | Safety ain't the point of a joyride | 4.00% | ~77 |
 | Not bad for a little furball | 4.00% | ~77 |
 | I've been waiting for you | 3.00% | ~58 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~4 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,929 (Ranked 236)  
+Progressed: 1,931 (Ranked 236)  
 Completed: 1 (0.05%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 1 (0.05%) (Ranked 332)
 | 2023-12-17 | 1,853 | 1 |
 | 2023-12-18 | 1,882 | 1 |
 | 2023-12-19 | 1,913 | 1 |
-| 2023-12-20 | 1,929 | 1 |
+| 2023-12-20 | 1,931 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

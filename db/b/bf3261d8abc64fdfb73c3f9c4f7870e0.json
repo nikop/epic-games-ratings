@@ -488,17 +488,17 @@
       "ID": "achievement_not_energetic",
       "SetID": "bngbnfb",
       "Name": "Not energetic",
-      "Percentage": 50,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "achievement_not_risky",
       "SetID": "bngbnfb",
       "Name": "Not a daredevil",
-      "Percentage": 50,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "achievement_rush",
@@ -536,9 +536,9 @@
       "ID": "achievement_the_baptism",
       "SetID": "bngbnfb",
       "Name": "The Baptism of the Triune",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_the_most_difficult_decision",
@@ -631,8 +631,8 @@
   ],
   "FirstSeen": "2023-10-20T21:02:41.8286211+00:00",
   "FirstSeenAchievements": "2023-10-11T10:03:42.0552864+00:00",
-  "LastChanged_Achievements": "2023-12-20T10:08:49.5955748+00:00",
+  "LastChanged_Achievements": "2023-12-20T11:09:50.7143771+00:00",
   "LastUpdate_AppInfo": "2023-12-13T14:57:06.6138532+00:00",
-  "LastUpdate_Ratings": "2023-12-20T09:58:14.3197948+00:00",
-  "LastUpdate_Achievements": "2023-12-20T10:08:49.5956082+00:00"
+  "LastUpdate_Ratings": "2023-12-20T10:58:21.5714539+00:00",
+  "LastUpdate_Achievements": "2023-12-20T11:09:50.7144048+00:00"
 }

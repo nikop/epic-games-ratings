@@ -6,17 +6,17 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,693 |
-| I'll Be Back | 84.00% | ~4,194 |
+| On My Own Two Feet | 94.00% | ~4,694 |
+| I'll Be Back | 84.00% | ~4,195 |
 | Sorry, I Dropped This | 77.00% | ~3,845 |
 | First Day on the Job | 76.00% | ~3,795 |
-| Butcher's Bill | 55.00% | ~2,746 |
-| P.A.X | 37.00% | ~1,847 |
-| Hey Listen | 36.00% | ~1,797 |
-| OPERATOR | 36.00% | ~1,797 |
+| Butcher's Bill | 55.00% | ~2,747 |
+| P.A.X | 37.00% | ~1,848 |
+| Hey Listen | 36.00% | ~1,798 |
+| OPERATOR | 36.00% | ~1,798 |
 | It's Blue Light | 33.00% | ~1,648 |
 | Most Wanted | 26.00% | ~1,298 |
-| Infidel | 23.00% | ~1,148 |
+| Infidel | 23.00% | ~1,149 |
 | GOLIATH | 21.00% | ~1,049 |
 | Firebug | 20.00% | ~999 |
 | Nothing to Lose | 18.00% | ~899 |
@@ -35,9 +35,9 @@ Number of Ratings: 62  (23.09.2022)
 | Raging Drones | 9.00% | ~449 |
 | Overconfident | 9.00% | ~449 |
 | Is This Real Life? | 9.00% | ~449 |
-| Pusher Man | 8.00% | ~399 |
-| Squad Chief Helvig | 8.00% | ~399 |
-| No More Marching | 8.00% | ~399 |
+| Pusher Man | 8.00% | ~400 |
+| Squad Chief Helvig | 8.00% | ~400 |
+| No More Marching | 8.00% | ~400 |
 | Duty-Bound | 7.00% | ~350 |
 | Follow the White Rabbit | 7.00% | ~350 |
 | Liberation | 7.00% | ~350 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~30 |
 | The Surge | 0.40% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,993 (Ranked 199)  
+Progressed: 4,994 (Ranked 199)  
 Completed: 18 (0.36%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 18 (0.36%) (Ranked 237)
 | 2023-12-17 | 4,956 | 18 |
 | 2023-12-18 | 4,973 | 18 |
 | 2023-12-19 | 4,989 | 18 |
-| 2023-12-20 | 4,993 | 18 |
+| 2023-12-20 | 4,994 | 18 |
 ## Awards
 Max (Great Boss Battles): 29  (Ranked 510)  
 Sum: 29 (Ranked 526)  

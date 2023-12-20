@@ -3515,9 +3515,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18715,
+  "EOS_Progressed": 18720,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 705,
+  "EOS_NewPlayers": 710,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16420,6 +16420,11 @@
       "Time": "2023-12-20T10:06:04.6674163+00:00",
       "NumProgressed": 18715,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-20T11:07:29.6841152+00:00",
+      "NumProgressed": 18720,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16520,7 +16525,7 @@
       "Name": "First Real Expedition",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "WinHard",
@@ -16528,7 +16533,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "WinImpossible",
@@ -16696,7 +16701,7 @@
       "Name": "Coral Forest",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "WinOnCursed",
@@ -16712,7 +16717,7 @@
       "Name": "The Marshlands",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "WinOnMoorlands",
@@ -16768,7 +16773,7 @@
       "Name": "Taking Action",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "WinWithResolve",
@@ -16808,7 +16813,7 @@
       "Name": "No Deaths",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "WinWithoutOrders",
@@ -16840,7 +16845,7 @@
       "Name": "Frosts",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "WinNearGreed",
@@ -16848,7 +16853,7 @@
       "Name": "Land of Greed",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "WinNearLibrary",
@@ -16903,15 +16908,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18715,
+      "Progressed": 18720,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-19T21:58:46.6682158+00:00",
-  "LastChanged_Achievements": "2023-12-20T10:06:04.667416+00:00",
+  "LastChanged_Achievements": "2023-12-20T11:07:29.6841148+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
-  "LastUpdate_Ratings": "2023-12-20T09:59:20.6924232+00:00",
-  "LastUpdate_Achievements": "2023-12-20T10:06:04.6675107+00:00"
+  "LastUpdate_Ratings": "2023-12-20T10:59:58.8508556+00:00",
+  "LastUpdate_Achievements": "2023-12-20T11:07:29.6842564+00:00"
 }
