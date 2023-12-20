@@ -21,7 +21,7 @@
 | 19 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.64% |
 | 20 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 21 | [Doodle Devil](games/d/doodle_devil.md) | 20.69% |
-| 22 | [The Riflemen](games/t/the_riflemen.md) | 20.15% |
+| 22 | [The Riflemen](games/t/the_riflemen.md) | 20.14% |
 | 23 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 23 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.00% |
 | 25 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.06% |
@@ -56,10 +56,10 @@
 | 54 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.30% |
 | 55 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.28% |
 | 56 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.25% |
-| 57 | [Anna's Quest](games/a/anna's_quest.md) | 6.98% |
-| 57 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 6.98% |
-| 57 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.98% |
-| 60 | [Scorn](games/s/scorn.md) | 6.95% |
+| 57 | [Scorn](games/s/scorn.md) | 6.99% |
+| 58 | [Anna's Quest](games/a/anna's_quest.md) | 6.98% |
+| 58 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 6.98% |
+| 58 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.98% |
 | 61 | [Sonic Origins](games/s/sonic_origins.md) | 6.93% |
 | 62 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.78% |
 | 63 | [Time Loader](games/t/time_loader.md) | 6.77% |
@@ -188,7 +188,7 @@
 | 184 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.83% |
 | 187 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.82% |
 | 188 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
-| 189 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.80% |
+| 189 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.79% |
 | 190 | [Infindustry](games/i/infindustry.md) | 0.78% |
 | 190 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.78% |
 | 192 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
