@@ -1693,10 +1693,10 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 163383,
+  "EOS_Progressed": 163394,
   "EOS_Completed": 355,
-  "EOS_NewPlayers": 1087,
-  "EOS_NewCompleters": 56,
+  "EOS_NewPlayers": 1088,
+  "EOS_NewCompleters": 55,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
     {
@@ -19858,6 +19858,11 @@
       "Time": "2023-12-20T00:05:23.7692929+00:00",
       "NumProgressed": 163383,
       "NumCompleted": 355
+    },
+    {
+      "Time": "2023-12-20T01:35:12.3254765+00:00",
+      "NumProgressed": 163394,
+      "NumCompleted": 355
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -19940,9 +19945,9 @@
       "ID": "DEFEAT_AMAL1",
       "SetID": "ccc0dlh",
       "Name": "Weeper",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1471
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -20084,9 +20089,9 @@
       "ID": "MISC_ACTIVATESURROGATE",
       "SetID": "ccc0dlh",
       "Name": "Imprint",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1634
+      "UsersEstimate": 3268
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -20237,21 +20242,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 162966,
+      "Progressed": 162977,
       "Completed": 1242
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 163383,
+      "Progressed": 163394,
       "Completed": 355
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-19T20:59:46.5497646+00:00",
-  "LastChanged_Achievements": "2023-12-20T00:05:23.7692928+00:00",
+  "LastChanged_Achievements": "2023-12-20T01:35:12.3254756+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:23.4801204+00:00",
-  "LastUpdate_Ratings": "2023-12-19T23:59:07.0408261+00:00",
-  "LastUpdate_Achievements": "2023-12-20T00:05:23.7693837+00:00"
+  "LastUpdate_Ratings": "2023-12-20T01:28:59.6389479+00:00",
+  "LastUpdate_Achievements": "2023-12-20T01:35:12.3255865+00:00"
 }

@@ -21,7 +21,7 @@ Number of Ratings: 281  (23.09.2022)
 | School's Out for Summer | 2.00% | ~145 |
 | I'm Hooked! | 2.00% | ~145 |
 | Diamond in the Rough | 0.80% | ~58 |
-| I'm the Captain Now | 0.60% | ~43 |
+| I'm the Captain Now | 0.70% | ~51 |
 | Marathon | 0.60% | ~43 |
 | More than a Tourist | 0.50% | ~36 |
 | Hook, Line and Sinker | 0.50% | ~36 |
@@ -294,8 +294,8 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-20 | 7,235 | 0 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 467)  
-Sum: 209 (Ranked 403)  
-Diff (max vs sum): 64  
+Sum: 209 (Ranked 402)  
+Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 40 |

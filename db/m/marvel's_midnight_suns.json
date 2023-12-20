@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 166,
   "Ranking_EOS_Progress": 810,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 556,
+  "Ranking_EOS_NewPlayers": 555,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-12-02T05:00:00+00:00",
@@ -5019,18 +5019,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 3544,
       "NumberOfAwardsMax": 1566
+    },
+    {
+      "Time": "2023-12-20T01:28:43.014193+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 3557,
+      "NumberOfAwardsMax": 1575
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3544,
-  "NumberOfAwardsMax": 1566,
+  "NumberOfAwards": 3557,
+  "NumberOfAwardsMax": 1575,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1566
+      "Count": 1575
     },
     {
       "Text": "This game is Great for Beginners",
@@ -5042,7 +5048,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 231
+      "Count": 233
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5072,7 +5078,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 235
+      "Count": 237
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5105,8 +5111,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-02T09:57:07.4463087+00:00",
   "FirstSeenRating": "2022-12-03T17:57:10.4344427+00:00",
-  "LastChanged": "2023-12-19T20:59:22.7360988+00:00",
+  "LastChanged": "2023-12-20T01:28:43.0141929+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:14.922574+00:00",
-  "LastUpdate_Ratings": "2023-12-19T23:58:47.0307917+00:00",
-  "LastUpdate_Achievements": "2023-12-20T00:03:58.7334452+00:00"
+  "LastUpdate_Ratings": "2023-12-20T01:28:43.0141934+00:00",
+  "LastUpdate_Achievements": "2023-12-20T01:33:54.8814474+00:00"
 }

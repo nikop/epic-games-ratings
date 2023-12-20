@@ -24,7 +24,7 @@
 | Spirit of the past | 62.00% | ~264 |
 | Employee of the month | 61.00% | ~260 |
 | Law student | 58.00% | ~247 |
-| Workout professional | 56.00% | ~239 |
+| Workout professional | 57.00% | ~243 |
 | Little hacker | 56.00% | ~239 |
 | Handyman | 56.00% | ~239 |
 | Intriguing candies | 56.00% | ~239 |

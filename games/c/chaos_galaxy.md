@@ -10,7 +10,7 @@
 | Assassination | 12.00% | ~6 |
 | Princess Crowned | 10.00% | ~5 |
 | Secret War | 8.00% | ~4 |
-| Investment | 6.00% | ~3 |
+| Investment | 8.00% | ~4 |
 | Tech Breakthrough | 6.00% | ~3 |
 | 2nd AI War | 4.00% | ~2 |
 | Punish Eastgalaxy | 4.00% | ~2 |

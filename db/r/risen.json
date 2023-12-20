@@ -711,9 +711,9 @@
       "ID": "id_33",
       "SetID": "bk9jib6",
       "Name": "Ferocious wild boars",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "id_34",
@@ -976,8 +976,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-12-19T04:58:37.4442529+00:00",
-  "LastChanged_Achievements": "2023-12-20T00:09:45.3106486+00:00",
+  "LastChanged_Achievements": "2023-12-20T01:39:43.0922813+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:12.9761539+00:00",
-  "LastUpdate_Ratings": "2023-12-19T23:58:39.9795032+00:00",
-  "LastUpdate_Achievements": "2023-12-20T00:09:45.3106869+00:00"
+  "LastUpdate_Ratings": "2023-12-20T01:28:36.7445205+00:00",
+  "LastUpdate_Achievements": "2023-12-20T01:39:43.0923122+00:00"
 }

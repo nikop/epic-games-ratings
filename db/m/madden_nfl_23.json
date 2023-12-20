@@ -937,7 +937,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4063,
+  "EOS_Progressed": 4064,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
@@ -7367,6 +7367,11 @@
       "Time": "2023-12-20T00:03:48.9639742+00:00",
       "NumProgressed": 4063,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T01:33:46.1854891+00:00",
+      "NumProgressed": 4064,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -7411,7 +7416,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 2153
+      "UsersEstimate": 2154
     },
     {
       "ID": "achievement_14",
@@ -7427,7 +7432,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 2194
+      "UsersEstimate": 2195
     },
     {
       "ID": "achievement_16",
@@ -7546,7 +7551,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4063,
+      "Progressed": 4064,
       "Completed": 0
     }
   ],
@@ -7554,8 +7559,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-12-19T13:02:18.1227826+00:00",
-  "LastChanged_Achievements": "2023-12-20T00:03:48.9639739+00:00",
+  "LastChanged_Achievements": "2023-12-20T01:33:46.1854886+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:51.9510539+00:00",
-  "LastUpdate_Ratings": "2023-12-19T23:57:34.2021949+00:00",
-  "LastUpdate_Achievements": "2023-12-20T00:03:48.9640177+00:00"
+  "LastUpdate_Ratings": "2023-12-20T01:27:40.0458107+00:00",
+  "LastUpdate_Achievements": "2023-12-20T01:33:46.1855259+00:00"
 }

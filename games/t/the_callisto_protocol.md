@@ -5,24 +5,24 @@ Rating: 4.19 (Ranked 939)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 14.00% | ~2,540 |
-| Get a Grip | 13.00% | ~2,358 |
-| Paper Jams | 13.00% | ~2,358 |
-| The Outer Way | 13.00% | ~2,358 |
-| Desperate Times | 12.00% | ~2,177 |
-| Chew 'Em Up | 10.00% | ~1,814 |
-| Float Like A Butterfly | 10.00% | ~1,814 |
-| Reforged | 10.00% | ~1,814 |
-| Workplace Hazard | 8.00% | ~1,451 |
-| If the SHU Fits... | 8.00% | ~1,451 |
+| Flesh Wound | 14.00% | ~2,541 |
+| Get a Grip | 13.00% | ~2,359 |
+| Paper Jams | 13.00% | ~2,359 |
+| The Outer Way | 13.00% | ~2,359 |
+| Desperate Times | 12.00% | ~2,178 |
+| Chew 'Em Up | 11.00% | ~1,996 |
+| Float Like A Butterfly | 10.00% | ~1,815 |
+| Reforged | 10.00% | ~1,815 |
+| Workplace Hazard | 8.00% | ~1,452 |
+| If the SHU Fits... | 8.00% | ~1,452 |
 | Two Heads Are Better Than One | 7.00% | ~1,270 |
 | Without A Paddle | 7.00% | ~1,270 |
 | In the Pipe, Five by Five | 7.00% | ~1,270 |
 | Crash Site | 7.00% | ~1,270 |
-| Terminated | 6.00% | ~1,088 |
-| What Lies Beneath | 6.00% | ~1,088 |
-| Full Circle | 6.00% | ~1,088 |
-| Power Up | 6.00% | ~1,088 |
+| Terminated | 6.00% | ~1,089 |
+| What Lies Beneath | 6.00% | ~1,089 |
+| Full Circle | 6.00% | ~1,089 |
+| Power Up | 6.00% | ~1,089 |
 | Keep Fighting | 6.00% | ~364 |
 | Giving Back | 5.00% | ~907 |
 | You Need a Gun | 5.00% | ~907 |
@@ -30,15 +30,15 @@ Rating: 4.19 (Ranked 939)
 | It's Time | 4.00% | ~243 |
 | In Striking Distance | 3.00% | ~544 |
 | The Commonality | 3.00% | ~544 |
-| One Last Job | 2.00% | ~121 |
+| One Last Job | 2.00% | ~122 |
 | Big Spender | 1.00% | ~61 |
 | This Isn't About Escape | 1.00% | ~61 |
 | Armed to the Teeth | 0.90% | ~55 |
 | Grim Reaper | 0.80% | ~145 |
 | Parole Denied | 0.80% | ~49 |
 | Mugshot | 0.80% | ~145 |
-| Instigator | 0.70% | ~42 |
-| Information Overload | 0.70% | ~42 |
+| Instigator | 0.70% | ~43 |
+| Information Overload | 0.70% | ~43 |
 | Quick Pick | 0.60% | ~36 |
 | Subject Alpha | 0.40% | ~24 |
 | Don't Let It Mellow | 0.30% | ~18 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 939)
 | Bear Trap | 0.10% | ~6 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,141 (Ranked 149)  
+Progressed: 18,149 (Ranked 148)  
 Completed: 82 (0.45%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,15 +289,15 @@ Completed: 82 (0.45%) (Ranked 222)
 | 2023-12-17 | 17,760 | 82 |
 | 2023-12-18 | 17,946 | 82 |
 | 2023-12-19 | 18,137 | 82 |
-| 2023-12-20 | 18,141 | 82 |
+| 2023-12-20 | 18,149 | 82 |
 ## Awards
 Max (Quickly Understood Controls): 89  (Ranked 387)  
-Sum: 526 (Ranked 326)  
+Sum: 527 (Ranked 326)  
 Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 89 |
-| This game has Amazing Storytelling | 88 |
+| This game has Amazing Storytelling | 89 |
 | This game is Highly Recommended | 86 |
 | This game has Amazing Characters | 84 |
 | This game is Extremely Fun | 80 |
@@ -482,3 +482,4 @@ Diff (max vs sum): 61
 | 2023-12-17 | 4.20 | 87 | 516 |
 | 2023-12-18 | 4.19 | 88 | 521 |
 | 2023-12-19 | 4.19 | 89 | 526 |
+| 2023-12-20 | 4.19 | 89 | 527 |

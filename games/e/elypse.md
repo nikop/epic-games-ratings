@@ -20,17 +20,17 @@
 | Sensitive soul | 34.00% | ~37 |
 | Hard Rock | 31.00% | ~34 |
 | Rooftop | 30.00% | ~33 |
-| Homeless | 28.00% | ~31 |
+| Homeless | 29.00% | ~32 |
 | Big badaboom! | 28.00% | ~31 |
+| Nokron tower | 25.00% | ~28 |
 | Bookworm | 25.00% | ~28 |
 | Payback | 25.00% | ~28 |
-| Nokron tower | 24.00% | ~26 |
+| Full power | 24.00% | ~26 |
+| "Ah sh*t... Here we go again!" | 24.00% | ~26 |
 | Magnitude 5 | 24.00% | ~26 |
-| Full power | 23.00% | ~25 |
-| "Ah sh*t... Here we go again!" | 23.00% | ~25 |
-| Compulsive hoarder | 22.00% | ~24 |
-| GG EZ | 16.00% | ~18 |
-| Comeback | 16.00% | ~18 |
+| Compulsive hoarder | 23.00% | ~25 |
+| GG EZ | 17.00% | ~19 |
+| Comeback | 17.00% | ~19 |
 | MayDay! MayDay! | 11.00% | ~12 |
 | Gooooooaaaaal!!! | 8.00% | ~9 |
 | Sadistic | 2.00% | ~2 |

@@ -4,44 +4,44 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 50.00% | ~440 |
-| Trinity | 21.00% | ~185 |
+| Break Out | 50.00% | ~442 |
+| Trinity | 21.00% | ~186 |
 | I Found It | 18.00% | ~159 |
 | A Taste of Wrath | 17.00% | ~150 |
+| The Collector | 17.00% | ~150 |
 | Find Allies | 16.00% | ~141 |
 | Shatter Them All | 16.00% | ~141 |
 | Geared Up | 16.00% | ~141 |
-| The Collector | 16.00% | ~141 |
-| Adventurer | 15.00% | ~132 |
-| Tributes of Caladrias | 14.00% | ~123 |
-| Fashion Victim | 14.00% | ~123 |
-| Scholar | 14.00% | ~123 |
+| Adventurer | 15.00% | ~133 |
+| Tributes of Caladrias | 14.00% | ~124 |
+| Fashion Victim | 14.00% | ~124 |
+| Scholar | 14.00% | ~124 |
 | Stone Collection | 12.00% | ~106 |
 | Powerful Allies | 11.00% | ~97 |
-| Big Bazar | 9.00% | ~79 |
+| Big Bazar | 9.00% | ~80 |
 | Essence Blow | 7.00% | ~62 |
 | Alchemist | 6.00% | ~53 |
 | Calm before the Storm | 5.00% | ~44 |
 | The Mentor | 5.00% | ~44 |
 | Airborne | 4.00% | ~35 |
 | Miner | 4.00% | ~35 |
-| To Battle | 3.00% | ~26 |
-| Godslayer | 3.00% | ~26 |
-| Shatterer | 3.00% | ~26 |
-| Fine Feathers Make Fine Birds | 3.00% | ~26 |
+| To Battle | 3.00% | ~27 |
+| Godslayer | 3.00% | ~27 |
+| Shatterer | 3.00% | ~27 |
+| Fine Feathers Make Fine Birds | 3.00% | ~27 |
 | Clear Sight | 2.00% | ~18 |
+| Slayer | 2.00% | ~18 |
 | A Queen's Tale | 2.00% | ~18 |
-| Slayer | 1.00% | ~9 |
 | Flawless Victory | 1.00% | ~9 |
 | All There Is | 1.00% | ~9 |
 | False God | 1.00% | ~9 |
+| Summiter | 0.80% | ~7 |
 | Shardbearer | 0.70% | ~6 |
-| Summiter | 0.70% | ~6 |
 | Forgemaster | 0.60% | ~5 |
 | All That Gold | 0.60% | ~5 |
 | Feeling Fancy | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 881 (Ranked 281)  
+Progressed: 884 (Ranked 280)  
 Completed: 3 (0.34%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,3 +110,4 @@ Completed: 3 (0.34%) (Ranked 240)
 | 2023-12-17 | 752 | 3 |
 | 2023-12-18 | 818 | 3 |
 | 2023-12-19 | 881 | 3 |
+| 2023-12-20 | 884 | 3 |

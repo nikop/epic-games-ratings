@@ -6,23 +6,23 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 28.00% | ~17,107 |
-| Student | 22.00% | ~13,441 |
-| Knower | 16.00% | ~9,776 |
-| Listener | 15.00% | ~9,165 |
-| Aspen Tree | 14.00% | ~8,554 |
-| Healer | 14.00% | ~8,554 |
-| Soldier | 12.00% | ~7,332 |
-| Cow Level | 11.00% | ~6,721 |
-| Scientist | 11.00% | ~6,721 |
-| Herbalist | 10.00% | ~6,110 |
-| Water | 10.00% | ~6,110 |
-| Old Friend | 9.00% | ~5,499 |
-| New Spirits | 9.00% | ~5,499 |
-| Voipel | 9.00% | ~5,499 |
-| Collector | 9.00% | ~5,499 |
-| Wolf | 9.00% | ~5,499 |
-| Black Mage | 9.00% | ~5,499 |
+| Initiation | 28.00% | ~17,110 |
+| Student | 22.00% | ~13,443 |
+| Knower | 16.00% | ~9,777 |
+| Listener | 15.00% | ~9,166 |
+| Aspen Tree | 14.00% | ~8,555 |
+| Healer | 14.00% | ~8,555 |
+| Soldier | 12.00% | ~7,333 |
+| Cow Level | 11.00% | ~6,722 |
+| Scientist | 11.00% | ~6,722 |
+| Herbalist | 10.00% | ~6,111 |
+| Water | 10.00% | ~6,111 |
+| Old Friend | 9.00% | ~5,500 |
+| New Spirits | 9.00% | ~5,500 |
+| Voipel | 9.00% | ~5,500 |
+| Collector | 9.00% | ~5,500 |
+| Wolf | 9.00% | ~5,500 |
+| Black Mage | 9.00% | ~5,500 |
 | Card Player | 8.00% | ~4,888 |
 | Dead Friend | 8.00% | ~4,888 |
 | Pine Tree | 8.00% | ~4,888 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,222 |
 | Word Master | 0.20% | ~122 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,097 (Ranked 110)  
+Progressed: 61,106 (Ranked 110)  
 Completed: 61 (0.10%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 61 (0.10%) (Ranked 301)
 | 2023-12-17 | 60,686 | 61 |
 | 2023-12-18 | 60,891 | 61 |
 | 2023-12-19 | 61,094 | 61 |
-| 2023-12-20 | 61,097 | 61 |
+| 2023-12-20 | 61,106 | 61 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

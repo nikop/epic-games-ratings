@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 567,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -4828,9 +4828,9 @@
       "ID": "STB_DEFEAT_MAGICSHIFTER",
       "SetID": "3pe2bac",
       "Name": "Big Helmet Bro",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1152
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -4948,9 +4948,9 @@
       "ID": "STB_MISSION2A_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Thornbarrow",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1152
+      "UsersEstimate": 1181
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -5157,8 +5157,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-17T13:59:07.4077367+00:00",
-  "LastChanged_Achievements": "2023-12-20T00:07:38.7385814+00:00",
+  "LastChanged_Achievements": "2023-12-20T01:36:27.3498631+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:24.9335177+00:00",
-  "LastUpdate_Ratings": "2023-12-19T23:59:50.1463293+00:00",
-  "LastUpdate_Achievements": "2023-12-20T00:07:38.7386426+00:00"
+  "LastUpdate_Ratings": "2023-12-20T01:29:37.4505181+00:00",
+  "LastUpdate_Achievements": "2023-12-20T01:36:27.3499215+00:00"
 }

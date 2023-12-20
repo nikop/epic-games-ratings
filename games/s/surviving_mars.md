@@ -1,11 +1,11 @@
 # Surviving Mars
 [Store](https://store.epicgames.com/en-US/p/surviving-mars)  
 [View Rawdata](../../db/s/surviving_mars.json)  
-Rating: 4.61 (Ranked 396)  
+Rating: 4.61 (Ranked 395)  
 Number of Ratings: 3,483  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 523  (Ranked 212)  
-Sum: 3,405 (Ranked 170)  
+Sum: 3,408 (Ranked 170)  
 Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
@@ -14,7 +14,7 @@ Diff (max vs sum): 42
 | This game is Relaxing | 420 |
 | This game is Extremely Fun | 412 |
 | This game is Highly Recommended | 395 |
-| This game is Educational | 369 |
+| This game is Educational | 372 |
 | This game has Amazing Storytelling | 362 |
 | This game has Amazing Characters | 261 |
 | This game has a Creative Community | 237 |
@@ -293,3 +293,4 @@ Diff (max vs sum): 42
 | 2023-12-17 | 4.60 | - | 523 | 3,404 |
 | 2023-12-18 | 4.60 | - | 523 | 3,405 |
 | 2023-12-19 | 4.61 | - | 523 | 3,405 |
+| 2023-12-20 | 4.61 | - | 523 | 3,408 |

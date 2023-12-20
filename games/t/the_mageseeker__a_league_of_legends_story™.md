@@ -12,8 +12,8 @@ Rating: 4.79 (Ranked 100)
 | Dark Forest | 77.00% | ~2,218 |
 | The use of petricite | 74.00% | ~2,131 |
 | You can pet the dog | 61.00% | ~1,757 |
-| Thornbarrow | 40.00% | ~1,152 |
-| Big Helmet Bro | 39.00% | ~1,123 |
+| Thornbarrow | 41.00% | ~1,181 |
+| Big Helmet Bro | 40.00% | ~1,152 |
 | Clarion Cove | 39.00% | ~1,123 |
 | Past trauma | 37.00% | ~1,066 |
 | Ternmoat Headquarters | 37.00% | ~1,066 |

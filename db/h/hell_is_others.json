@@ -1351,7 +1351,7 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 259512,
+  "EOS_Progressed": 259513,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 220,
   "EOS_NewCompleters": 0,
@@ -24591,6 +24591,11 @@
       "Time": "2023-12-20T00:07:28.6229104+00:00",
       "NumProgressed": 259512,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-20T01:36:19.1015529+00:00",
+      "NumProgressed": 259513,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -24610,7 +24615,7 @@
       "Name": "The Ascent",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10380
+      "UsersEstimate": 10381
     },
     {
       "ID": "Act3",
@@ -24666,7 +24671,7 @@
       "Name": "Pacifist",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10380
+      "UsersEstimate": 10381
     },
     {
       "ID": "BreakNWindows",
@@ -24674,7 +24679,7 @@
       "Name": "Vandalism",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10380
+      "UsersEstimate": 10381
     },
     {
       "ID": "BuyHighValueFurniture",
@@ -24970,7 +24975,7 @@
       "Name": "Capitalist I",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10380
+      "UsersEstimate": 10381
     },
     {
       "ID": "Patrimony2",
@@ -25049,7 +25054,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 259512,
+      "Progressed": 259513,
       "Completed": 3
     }
   ],
@@ -25057,8 +25062,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-12-18T11:58:36.2981098+00:00",
-  "LastChanged_Achievements": "2023-12-20T00:07:28.6229102+00:00",
+  "LastChanged_Achievements": "2023-12-20T01:36:19.1015523+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.6293608+00:00",
-  "LastUpdate_Ratings": "2023-12-19T23:59:01.8558486+00:00",
-  "LastUpdate_Achievements": "2023-12-20T00:07:28.6230569+00:00"
+  "LastUpdate_Ratings": "2023-12-20T01:28:55.7293611+00:00",
+  "LastUpdate_Achievements": "2023-12-20T01:36:19.1016649+00:00"
 }

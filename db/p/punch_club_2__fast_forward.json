@@ -4,7 +4,7 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1760,9 +1760,9 @@
       "ID": "any_stat_15",
       "SetID": "69co12a",
       "Name": "Workout professional",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 243
     },
     {
       "ID": "any_stat_30",
@@ -2239,8 +2239,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-12-20T00:09:08.7269936+00:00",
+  "LastChanged_Achievements": "2023-12-20T01:39:10.1149427+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:32.3459278+00:00",
-  "LastUpdate_Ratings": "2023-12-20T00:00:46.9685301+00:00",
-  "LastUpdate_Achievements": "2023-12-20T00:09:08.7270405+00:00"
+  "LastUpdate_Ratings": "2023-12-20T01:30:26.3565361+00:00",
+  "LastUpdate_Achievements": "2023-12-20T01:39:10.1149998+00:00"
 }

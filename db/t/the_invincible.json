@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 809,
+  "EOS_Progressed": 810,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 258,
+  "EOS_NewPlayers": 259,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2165,6 +2165,11 @@
       "Time": "2023-12-20T00:09:12.9491778+00:00",
       "NumProgressed": 809,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T01:39:13.8849642+00:00",
+      "NumProgressed": 810,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -2199,9 +2204,9 @@
       "ID": "AchvBattleScore",
       "SetID": "1hj060c",
       "Name": "Fierce fight",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 138
     },
     {
       "ID": "AchvBombStop",
@@ -2273,7 +2278,7 @@
       "Name": "Krauta is alive",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "AchvLava",
@@ -2305,7 +2310,7 @@
       "Name": "The Necroevolution",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "AchvNest",
@@ -2361,7 +2366,7 @@
       "Name": "The City",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "AchvReachCondor",
@@ -2377,7 +2382,7 @@
       "Name": "Survivors",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -2385,7 +2390,7 @@
       "Name": "Flying Objects Operator",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "AchvTheEnd",
@@ -2408,14 +2413,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 809,
+      "Progressed": 810,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-20T00:09:12.9491775+00:00",
+  "LastChanged_Achievements": "2023-12-20T01:39:13.8849635+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.232501+00:00",
-  "LastUpdate_Ratings": "2023-12-19T23:58:21.6435769+00:00",
-  "LastUpdate_Achievements": "2023-12-20T00:09:12.949197+00:00"
+  "LastUpdate_Ratings": "2023-12-20T01:28:20.5036619+00:00",
+  "LastUpdate_Achievements": "2023-12-20T01:39:13.8850154+00:00"
 }

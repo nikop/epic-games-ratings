@@ -4,7 +4,7 @@
   "ProductSlug": "skymatch-fba0d1",
   "Ranking_EOS_Progress": 810,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 556,
+  "Ranking_EOS_NewPlayers": 555,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-18T02:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-14T22:03:29.6349936+00:00",
-  "LastChanged_Achievements": "2023-12-20T00:04:20.8534002+00:00",
+  "LastChanged_Achievements": "2023-12-20T01:34:15.6029722+00:00",
   "LastUpdate_AppInfo": "2023-12-19T01:44:23.8086307+00:00",
-  "LastUpdate_Ratings": "2023-12-19T23:57:47.1981867+00:00",
-  "LastUpdate_Achievements": "2023-12-20T00:04:20.853402+00:00"
+  "LastUpdate_Ratings": "2023-12-20T01:27:51.1278511+00:00",
+  "LastUpdate_Achievements": "2023-12-20T01:34:15.602975+00:00"
 }

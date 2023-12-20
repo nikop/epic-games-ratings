@@ -1026,9 +1026,9 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 229844,
+  "EOS_Progressed": 229848,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 597,
+  "EOS_NewPlayers": 598,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27671,6 +27671,11 @@
       "Time": "2023-12-20T00:09:48.7682886+00:00",
       "NumProgressed": 229844,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-20T01:39:46.3804584+00:00",
+      "NumProgressed": 229848,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -27682,7 +27687,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 45969
+      "UsersEstimate": 45970
     },
     {
       "ID": "ACH_BASE_10",
@@ -27690,7 +27695,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 59759
+      "UsersEstimate": 59760
     },
     {
       "ID": "ACH_BASE_11",
@@ -27730,7 +27735,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22984
+      "UsersEstimate": 22985
     },
     {
       "ID": "ACH_BASE_17",
@@ -27746,7 +27751,7 @@
       "Name": "Radium Ready",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22984
+      "UsersEstimate": 22985
     },
     {
       "ID": "ACH_BASE_19",
@@ -27953,7 +27958,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 229844,
+      "Progressed": 229848,
       "Completed": 5
     }
   ],
@@ -27961,8 +27966,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-12-18T15:00:10.8258154+00:00",
-  "LastChanged_Achievements": "2023-12-20T00:09:48.7682885+00:00",
+  "LastChanged_Achievements": "2023-12-20T01:39:46.3804582+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:11.0870994+00:00",
-  "LastUpdate_Ratings": "2023-12-19T23:57:23.1367182+00:00",
-  "LastUpdate_Achievements": "2023-12-20T00:09:48.7684251+00:00"
+  "LastUpdate_Ratings": "2023-12-20T01:27:30.4458795+00:00",
+  "LastUpdate_Achievements": "2023-12-20T01:39:46.3806027+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "3ccad173be604de5b7df527b244f0308",
   "Name": "Lost Ruins",
   "ProductSlug": "lost-ruins-d6233b",
-  "Ranking_EOS_Progress": 323,
+  "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 561,
+  "EOS_Progressed": 562,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1349,6 +1349,11 @@
       "Time": "2023-12-19T20:10:49.1015373+00:00",
       "NumProgressed": 561,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T01:39:50.9045002+00:00",
+      "NumProgressed": 562,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1392,7 +1397,7 @@
       "Name": "Boss Killer",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "BugHunter",
@@ -1654,9 +1659,9 @@
       "ID": "Troubleshooter",
       "SetID": "82505mn",
       "Name": "Troubleshooter",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 62
+      "UsersEstimate": 56
     },
     {
       "ID": "WeaponMaster",
@@ -1679,7 +1684,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 561,
+      "Progressed": 562,
       "Completed": 1
     }
   ],
@@ -1687,8 +1692,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-20T00:09:53.4566259+00:00",
+  "LastChanged_Achievements": "2023-12-20T01:39:50.9044996+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:31.304442+00:00",
-  "LastUpdate_Ratings": "2023-12-19T23:59:52.9392006+00:00",
-  "LastUpdate_Achievements": "2023-12-20T00:09:53.4566495+00:00"
+  "LastUpdate_Ratings": "2023-12-20T01:29:39.3607864+00:00",
+  "LastUpdate_Achievements": "2023-12-20T01:39:50.9045327+00:00"
 }

@@ -5,26 +5,26 @@ Rating: 4.69 (Ranked 232)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 32.00% | ~216,793 |
-| 50 HEADSHOTS | 29.00% | ~196,468 |
-| SCIENCE AND INDUSTRY | 28.00% | ~189,694 |
-| FINISHED CHAPTER 1 | 27.00% | ~182,919 |
-| FINISHED CHAPTER 2 | 20.00% | ~135,495 |
-| 200 HEADSHOTS | 18.00% | ~121,946 |
-| FINISHED CHAPTER 3 | 17.00% | ~115,171 |
-| FINISHED CHAPTER 4 | 15.00% | ~101,622 |
-| FINISH CHAPTER 5 | 12.00% | ~81,297 |
-| FINISH CHAPTER 6 | 11.00% | ~74,522 |
-| CATHARTIC ESCAPISM | 11.00% | ~74,522 |
-| 1000 KILLS | 10.00% | ~67,748 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~27,099 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~13,550 |
-| FIRST BLOOD | 2.00% | ~13,550 |
-| OUT OF ORDER | 1.00% | ~6,775 |
-| PACEMAKER | 1.00% | ~6,775 |
-| TIME PARADOX | 1.00% | ~6,775 |
+| 100 KILLS | 32.00% | ~216,771 |
+| 50 HEADSHOTS | 29.00% | ~196,449 |
+| SCIENCE AND INDUSTRY | 28.00% | ~189,675 |
+| FINISHED CHAPTER 1 | 27.00% | ~182,901 |
+| FINISHED CHAPTER 2 | 20.00% | ~135,482 |
+| 200 HEADSHOTS | 18.00% | ~121,934 |
+| FINISHED CHAPTER 3 | 17.00% | ~115,160 |
+| FINISHED CHAPTER 4 | 15.00% | ~101,612 |
+| FINISH CHAPTER 5 | 12.00% | ~81,289 |
+| FINISH CHAPTER 6 | 11.00% | ~74,515 |
+| CATHARTIC ESCAPISM | 11.00% | ~74,515 |
+| 1000 KILLS | 10.00% | ~67,741 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~27,096 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~13,548 |
+| FIRST BLOOD | 2.00% | ~13,548 |
+| OUT OF ORDER | 1.00% | ~6,774 |
+| PACEMAKER | 1.00% | ~6,774 |
+| TIME PARADOX | 1.00% | ~6,774 |
 | FIREFIGHT LEVEL 30 | 0.90% | ~6,097 |
-| PARTYHARD | 0.80% | ~5,420 |
+| PARTYHARD | 0.80% | ~5,419 |
 | NEW GAME PLUS | 0.70% | ~4,742 |
 | FIREFIGHT LEVEL 40 | 0.50% | ~3,387 |
 | CHURCH | 0.40% | ~2,710 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 232)
 | THE GAMBLER | 0.10% | ~677 |
 | WARRIOR IN A GARDEN | 0.10% | ~677 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 677,477 (Ranked 28)  
+Progressed: 677,410 (Ranked 28)  
 Completed: 70 (0.01%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |

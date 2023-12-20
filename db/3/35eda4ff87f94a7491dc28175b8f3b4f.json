@@ -257,9 +257,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16008,
+  "EOS_Progressed": 16018,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 1831,
+  "EOS_NewPlayers": 1832,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -4987,6 +4987,11 @@
       "Time": "2023-12-20T00:06:28.9821566+00:00",
       "NumProgressed": 16008,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-12-20T01:36:11.0736459+00:00",
+      "NumProgressed": 16018,
+      "NumCompleted": 70
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -5031,7 +5036,7 @@
       "Name": "Savior",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 1441
+      "UsersEstimate": 1442
     },
     {
       "ID": "SAVE_EVERYONE_PERFECT_1_2",
@@ -5039,7 +5044,7 @@
       "Name": "Righter of Wrongs",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "SAVE_ONE_PERSON_1_0",
@@ -5047,7 +5052,7 @@
       "Name": "Rescuer",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1921
+      "UsersEstimate": 1922
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -5078,7 +5083,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 16008,
+      "Progressed": 16018,
       "Completed": 70
     }
   ],
@@ -5086,8 +5091,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2023-12-18T03:58:42.6359817+00:00",
-  "LastChanged_Achievements": "2023-12-20T00:06:28.9821564+00:00",
+  "LastChanged_Achievements": "2023-12-20T01:36:11.0736452+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:09.5453569+00:00",
-  "LastUpdate_Ratings": "2023-12-19T23:59:25.3687192+00:00",
-  "LastUpdate_Achievements": "2023-12-20T00:06:28.9821856+00:00"
+  "LastUpdate_Ratings": "2023-12-20T01:29:15.2849604+00:00",
+  "LastUpdate_Achievements": "2023-12-20T01:36:11.0736745+00:00"
 }

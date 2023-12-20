@@ -36,6 +36,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great | 0.10% | ~16 |
 | Intercessor | 0.10% | ~16 |
 | Intrepid | 0.10% | ~16 |
+| Invincible | 0.10% | ~16 |
 | Just | 0.10% | ~16 |
 | Keystone | 0.10% | ~16 |
 | Learned | 0.10% | ~16 |
@@ -185,7 +186,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Capable | 0.00% | ~0 |
 | Destroyer | 0.00% | ~0 |
 | Holy | 0.00% | ~0 |
-| Invincible | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
 | Rebuilder | 0.00% | ~0 |
 | Restorer | 0.00% | ~0 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9850,10 +9850,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20806,
       "NumberOfAwardsMax": 7795
+    },
+    {
+      "Time": "2023-12-20T01:29:11.2317423+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20811,
+      "NumberOfAwardsMax": 7795
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20806,
+  "NumberOfAwards": 20811,
   "NumberOfAwardsMax": 7795,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9903,7 +9909,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1731
+      "Count": 1736
     },
     {
       "Text": "This game is Relaxing",
@@ -9930,9 +9936,9 @@
       "Count": 1031
     }
   ],
-  "EOS_Progressed": 128611,
+  "EOS_Progressed": 128620,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2128,
+  "EOS_NewPlayers": 2123,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35875,6 +35881,11 @@
       "Time": "2023-12-20T00:09:02.4485791+00:00",
       "NumProgressed": 128611,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-20T01:39:04.4501601+00:00",
+      "NumProgressed": 128620,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35894,7 +35905,7 @@
       "Name": "Serenity Now!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3858
+      "UsersEstimate": 3859
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -36014,7 +36025,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5144
+      "UsersEstimate": 5145
     },
     {
       "ID": "combat_kill_cadavers",
@@ -36038,7 +36049,7 @@
       "Name": "Not Today!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3858
+      "UsersEstimate": 3859
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -36046,7 +36057,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3858
+      "UsersEstimate": 3859
     },
     {
       "ID": "combat_kill_fanatics",
@@ -36062,7 +36073,7 @@
       "Name": "Ichthyophobic",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1157
+      "UsersEstimate": 1158
     },
     {
       "ID": "combat_kill_gaunts",
@@ -36078,7 +36089,7 @@
       "Name": "No More Mouths to Feed",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1157
+      "UsersEstimate": 1158
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -36086,7 +36097,7 @@
       "Name": "Meat and Greet",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3858
+      "UsersEstimate": 3859
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -36102,7 +36113,7 @@
       "Name": "Catch and Decease",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3858
+      "UsersEstimate": 3859
     },
     {
       "ID": "combat_kill_librarian",
@@ -36110,7 +36121,7 @@
       "Name": "Overdue Notice",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3858
+      "UsersEstimate": 3859
     },
     {
       "ID": "combat_kill_pillagers",
@@ -36126,7 +36137,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3858
+      "UsersEstimate": 3859
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -36238,7 +36249,7 @@
       "Name": "Autodidact",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5144
+      "UsersEstimate": 5145
     },
     {
       "ID": "hero_story_complete_all",
@@ -36350,7 +36361,7 @@
       "Name": "Hot Air",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 1157
+      "UsersEstimate": 1158
     },
     {
       "ID": "run_victory_act03",
@@ -36422,7 +36433,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "combat_kill_collector",
@@ -36430,7 +36441,7 @@
       "Name": "This guy... again?",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -36460,9 +36471,9 @@
       "ID": "combat_land_riposte_maa_hwy_dul",
       "SetID": "d3bcpc8",
       "Name": "Et Tu, Riposte?",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 21
     },
     {
       "ID": "hero_story_complete_crusader",
@@ -36470,7 +36481,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -36478,7 +36489,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "quest_complete_crusader",
@@ -36517,21 +36528,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 128611,
+      "Progressed": 128620,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 3480,
+      "Progressed": 3489,
       "Completed": 802
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-19T23:59:20.7189903+00:00",
-  "LastChanged_Achievements": "2023-12-20T00:09:02.4485783+00:00",
+  "LastChanged": "2023-12-20T01:29:11.2317421+00:00",
+  "LastChanged_Achievements": "2023-12-20T01:39:04.4501598+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-19T23:59:20.7189908+00:00",
-  "LastUpdate_Achievements": "2023-12-20T00:09:02.4487354+00:00"
+  "LastUpdate_Ratings": "2023-12-20T01:29:11.2317426+00:00",
+  "LastUpdate_Achievements": "2023-12-20T01:39:04.4503331+00:00"
 }

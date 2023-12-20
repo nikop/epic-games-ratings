@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 567,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 312,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1622,
+  "EOS_Progressed": 1623,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4023,6 +4023,11 @@
       "Time": "2023-12-20T00:09:55.435628+00:00",
       "NumProgressed": 1622,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T01:39:53.0144705+00:00",
+      "NumProgressed": 1623,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -4050,7 +4055,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1216
+      "UsersEstimate": 1217
     },
     {
       "ID": "ATTENBOROUGH",
@@ -4202,7 +4207,7 @@
       "Name": "Experienced",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "FIRESTARTER",
@@ -4210,7 +4215,7 @@
       "Name": "Firestarter",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "FIRST_BLOOD",
@@ -4218,7 +4223,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1493
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -4250,7 +4255,7 @@
       "Name": "Giant Killer",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "GOAL",
@@ -4266,7 +4271,7 @@
       "Name": "Gun for Hire",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1135
+      "UsersEstimate": 1136
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -4274,7 +4279,7 @@
       "Name": "Hold The Line",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "IM_THE_LAW",
@@ -4282,7 +4287,7 @@
       "Name": "I am the law!",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1038
+      "UsersEstimate": 1039
     },
     {
       "ID": "INFILTRATOR",
@@ -4322,7 +4327,7 @@
       "Name": "Pushing Daisy",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "QA_HAS_SUFFERED",
@@ -4338,15 +4343,15 @@
       "Name": "Ranidaphobia",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 1249
+      "UsersEstimate": 1250
     },
     {
       "ID": "RECYCLER",
       "SetID": "9a4jnji",
       "Name": "Recycler",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 665
+      "UsersEstimate": 649
     },
     {
       "ID": "RUTHLESS",
@@ -4386,7 +4391,7 @@
       "Name": "Side Order",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "SILENT_BUT_VIOLENT",
@@ -4418,7 +4423,7 @@
       "Name": "The meaning of Kain",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "THE_WATCHERS",
@@ -4441,7 +4446,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1622,
+      "Progressed": 1623,
       "Completed": 0
     }
   ],
@@ -4449,8 +4454,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-12-18T20:02:59.2153729+00:00",
-  "LastChanged_Achievements": "2023-12-20T00:09:55.4356278+00:00",
+  "LastChanged_Achievements": "2023-12-20T01:39:53.01447+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:53.0198818+00:00",
-  "LastUpdate_Ratings": "2023-12-20T00:02:57.6148247+00:00",
-  "LastUpdate_Achievements": "2023-12-20T00:09:55.4357087+00:00"
+  "LastUpdate_Ratings": "2023-12-20T01:32:58.8064271+00:00",
+  "LastUpdate_Achievements": "2023-12-20T01:39:53.0145115+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
-  "Ranking_EOS_Progress": 281,
+  "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -20,10 +20,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 881,
+  "EOS_Progressed": 884,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 616,
-  "EOS_NewCompleters": 1,
+  "EOS_NewPlayers": 619,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
@@ -1810,6 +1810,11 @@
       "Time": "2023-12-19T23:09:24.9346907+00:00",
       "NumProgressed": 881,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-20T01:39:50.2090677+00:00",
+      "NumProgressed": 884,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1821,7 +1826,7 @@
       "Name": "Break Out",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 440
+      "UsersEstimate": 442
     },
     {
       "ID": "ACH_02",
@@ -1853,7 +1858,7 @@
       "Name": "To Battle",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_06",
@@ -1861,7 +1866,7 @@
       "Name": "Godslayer",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_07",
@@ -1893,7 +1898,7 @@
       "Name": "Trinity",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH_11",
@@ -1917,7 +1922,7 @@
       "Name": "Adventurer",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACH_14",
@@ -1933,7 +1938,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_16",
@@ -1949,7 +1954,7 @@
       "Name": "Shatterer",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_18",
@@ -1963,9 +1968,9 @@
       "ID": "ACH_19",
       "SetID": "efe2lj",
       "Name": "Slayer",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 9
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_20",
@@ -1981,7 +1986,7 @@
       "Name": "Big Bazar",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_22",
@@ -1989,7 +1994,7 @@
       "Name": "Fine Feathers Make Fine Birds",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_23",
@@ -2013,7 +2018,7 @@
       "Name": "Fashion Victim",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_26",
@@ -2021,7 +2026,7 @@
       "Name": "Scholar",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_27",
@@ -2075,9 +2080,9 @@
       "ID": "ACH_34",
       "SetID": "efe2lj",
       "Name": "The Collector",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_35",
@@ -2099,23 +2104,23 @@
       "ID": "ACH_38",
       "SetID": "efe2lj",
       "Name": "Summiter",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 881,
+      "Progressed": 884,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-20T00:09:52.5596553+00:00",
+  "LastChanged_Achievements": "2023-12-20T01:39:50.2090672+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
-  "LastUpdate_Ratings": "2023-12-19T23:57:08.3690545+00:00",
-  "LastUpdate_Achievements": "2023-12-20T00:09:52.5596839+00:00"
+  "LastUpdate_Ratings": "2023-12-20T01:27:16.1776769+00:00",
+  "LastUpdate_Achievements": "2023-12-20T01:39:50.2090926+00:00"
 }

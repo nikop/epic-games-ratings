@@ -30,16 +30,16 @@
 | Snare Specialist | 25.00% | ~172 |
 | Artful Assister | 25.00% | ~172 |
 | Karakuri Trail | 23.00% | ~158 |
-| Team Hunter | 21.00% | ~144 |
+| Team Hunter | 22.00% | ~151 |
 | Karakuri Isle | 20.00% | ~138 |
 | Reincarnation Cycle Stopper | 20.00% | ~138 |
 | Left Arm Leverager | 17.00% | ~117 |
 | Human Believer | 17.00% | ~117 |
 | Unrivaled in Arms | 17.00% | ~117 |
 | Threaded Harmony | 17.00% | ~117 |
+| Style Seeker | 16.00% | ~110 |
 | Karakuri Minato | 16.00% | ~110 |
 | Canyon of Karakuri | 15.00% | ~103 |
-| Style Seeker | 15.00% | ~103 |
 | Quintessence of Form | 15.00% | ~103 |
 | Jack of All Trades | 13.00% | ~89 |
 | Karakuri Fortress | 12.00% | ~83 |

@@ -3,11 +3,11 @@
   "Name": "Crying Suns",
   "ProductSlug": "crying-suns",
   "Ranking_Rating": 602,
-  "Ranking_Popularity": 281,
-  "Ranking_PopularitySum": 390,
+  "Ranking_Popularity": 282,
+  "Ranking_PopularitySum": 391,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
@@ -675,7 +675,7 @@
   ],
   "EOS_Progressed": 472498,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 336,
+  "EOS_NewPlayers": 334,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26498,8 +26498,8 @@
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-12-16T01:44:08.2225132+00:00",
-  "LastChanged_Achievements": "2023-12-20T00:09:56.444012+00:00",
+  "LastChanged_Achievements": "2023-12-20T01:39:53.9200951+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:11.1940108+00:00",
-  "LastUpdate_Ratings": "2023-12-20T00:02:32.6316043+00:00",
-  "LastUpdate_Achievements": "2023-12-20T00:09:56.4441593+00:00"
+  "LastUpdate_Ratings": "2023-12-20T01:30:38.7282772+00:00",
+  "LastUpdate_Achievements": "2023-12-20T01:39:53.9202395+00:00"
 }

@@ -6,10 +6,10 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,467 |
-| Gun Fu | 8.00% | ~78,311 |
-| The Fool | 7.00% | ~68,523 |
-| Right Back At Ya | 6.00% | ~58,734 |
+| V for Vendetta | 12.00% | ~117,469 |
+| Gun Fu | 8.00% | ~78,313 |
+| The Fool | 7.00% | ~68,524 |
+| Right Back At Ya | 6.00% | ~58,735 |
 | Full Body Conversion | 5.00% | ~48,945 |
 | The Lovers | 5.00% | ~48,945 |
 | Stanislavski's Method | 4.00% | ~39,156 |
@@ -23,7 +23,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The High Priestess | 3.00% | ~29,367 |
 | True Warrior | 3.00% | ~29,367 |
 | Legend of The Afterlife | 3.00% | ~29,367 |
-| Relic Ruler | 3.00% | ~3,225 |
+| Relic Ruler | 3.00% | ~3,226 |
 | Bushido and Chill | 2.00% | ~19,578 |
 | To Protect and Serve | 2.00% | ~19,578 |
 | Master Crafter | 2.00% | ~19,578 |
@@ -47,8 +47,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | Judgement Day | 0.60% | ~645 |
 | King of Swords | 0.60% | ~645 |
 | The Tower | 0.60% | ~645 |
-| Must Be Rats | 0.50% | ~4,894 |
-| Temperance | 0.50% | ~4,894 |
+| Must Be Rats | 0.50% | ~4,895 |
+| Temperance | 0.50% | ~4,895 |
 | King of Pentacles | 0.50% | ~538 |
 | City Lights | 0.30% | ~2,937 |
 | King of Cups | 0.30% | ~323 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 978,893 (Ranked 16)  
+Progressed: 978,909 (Ranked 16)  
 Completed: 2,944 (0.30%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 2,944 (0.30%) (Ranked 248)
 | 2023-12-17 | 978,015 | 2,930 |
 | 2023-12-18 | 978,465 | 2,935 |
 | 2023-12-19 | 978,882 | 2,944 |
-| 2023-12-20 | 978,893 | 2,944 |
+| 2023-12-20 | 978,909 | 2,944 |
 ## Awards
 Max (Character Customization): 125,194  (Ranked 8)  
 Sum: 431,477 (Ranked 9)  

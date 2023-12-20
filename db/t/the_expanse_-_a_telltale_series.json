@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 567,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -289,7 +289,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16867,
+  "EOS_Progressed": 16868,
   "EOS_Completed": 45,
   "EOS_NewPlayers": 789,
   "EOS_NewCompleters": 3,
@@ -14444,6 +14444,11 @@
       "Time": "2023-12-20T00:04:29.0657699+00:00",
       "NumProgressed": 16867,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-12-20T01:34:22.912282+00:00",
+      "NumProgressed": 16868,
+      "NumCompleted": 45
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14488,7 +14493,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2361
+      "UsersEstimate": 2362
     },
     {
       "ID": "14",
@@ -14704,7 +14709,7 @@
       "Name": "Safe Cracker",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "33",
@@ -14728,20 +14733,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16867,
+      "Progressed": 16868,
       "Completed": 45
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2821,
+      "Progressed": 2822,
       "Completed": 961
     }
   ],
@@ -14749,8 +14754,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-17T22:59:50.8326927+00:00",
-  "LastChanged_Achievements": "2023-12-20T00:04:29.0657698+00:00",
+  "LastChanged_Achievements": "2023-12-20T01:34:22.9122815+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:40.0929133+00:00",
-  "LastUpdate_Ratings": "2023-12-20T00:00:16.019409+00:00",
-  "LastUpdate_Achievements": "2023-12-20T00:04:29.0658473+00:00"
+  "LastUpdate_Ratings": "2023-12-20T01:29:58.8790181+00:00",
+  "LastUpdate_Achievements": "2023-12-20T01:34:22.9123676+00:00"
 }
