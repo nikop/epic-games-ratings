@@ -437,7 +437,7 @@
       "Count": 71
     }
   ],
-  "EOS_Progressed": 332029,
+  "EOS_Progressed": 332048,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 3666,
   "EOS_NewCompleters": 0,
@@ -10362,6 +10362,11 @@
       "Time": "2023-12-20T22:07:26.3060572+00:00",
       "NumProgressed": 332029,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-20T23:05:40.8884819+00:00",
+      "NumProgressed": 332048,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -10388,9 +10393,9 @@
       "ID": "S03_OTWA",
       "SetID": "4j44ol8",
       "Name": "Rumors are true",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 2656
+      "UsersEstimate": 2988
     },
     {
       "ID": "S04_BRDC",
@@ -10510,7 +10515,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13281
+      "UsersEstimate": 13282
     },
     {
       "ID": "S19_CHALLENGES",
@@ -10693,7 +10698,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 332029,
+      "Progressed": 332048,
       "Completed": 5
     }
   ],
@@ -10701,8 +10706,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-20T17:57:35.3329235+00:00",
-  "LastChanged_Achievements": "2023-12-20T22:07:26.3060565+00:00",
+  "LastChanged_Achievements": "2023-12-20T23:05:40.8884816+00:00",
   "LastUpdate_AppInfo": "2023-12-14T20:57:08.8756847+00:00",
-  "LastUpdate_Ratings": "2023-12-20T21:57:53.7688199+00:00",
-  "LastUpdate_Achievements": "2023-12-20T22:07:26.3061141+00:00"
+  "LastUpdate_Ratings": "2023-12-20T22:57:31.1883941+00:00",
+  "LastUpdate_Achievements": "2023-12-20T23:05:40.8885564+00:00"
 }

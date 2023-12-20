@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -500,9 +500,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 96149,
+  "EOS_Progressed": 96150,
   "EOS_Completed": 437,
-  "EOS_NewPlayers": 739,
+  "EOS_NewPlayers": 735,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -27685,6 +27685,11 @@
       "Time": "2023-12-20T22:09:50.9458359+00:00",
       "NumProgressed": 96149,
       "NumCompleted": 437
+    },
+    {
+      "Time": "2023-12-20T23:09:11.1648399+00:00",
+      "NumProgressed": 96150,
+      "NumCompleted": 437
     }
   ],
   "TotalAchievements": 10,
@@ -27696,7 +27701,7 @@
       "Name": "Baby Mozart",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 4807
+      "UsersEstimate": 4808
     },
     {
       "ID": "Drawings01",
@@ -27704,7 +27709,7 @@
       "Name": "House Drawings",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 961
+      "UsersEstimate": 962
     },
     {
       "ID": "Drawings02",
@@ -27712,7 +27717,7 @@
       "Name": "Cave Drawings",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 961
+      "UsersEstimate": 962
     },
     {
       "ID": "Drawings03",
@@ -27775,15 +27780,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 96149,
+      "Progressed": 96150,
       "Completed": 437
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-12-20T03:02:57.8561576+00:00",
-  "LastChanged_Achievements": "2023-12-20T22:09:50.9458353+00:00",
+  "LastChanged_Achievements": "2023-12-20T23:09:11.1648395+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:55.6943357+00:00",
-  "LastUpdate_Ratings": "2023-12-20T22:03:29.2236406+00:00",
-  "LastUpdate_Achievements": "2023-12-20T22:09:50.946037+00:00"
+  "LastUpdate_Ratings": "2023-12-20T23:03:06.1749708+00:00",
+  "LastUpdate_Achievements": "2023-12-20T23:09:11.1649572+00:00"
 }

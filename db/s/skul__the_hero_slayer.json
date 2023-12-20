@@ -1241,9 +1241,9 @@
       "Count": 139
     }
   ],
-  "EOS_Progressed": 11484,
+  "EOS_Progressed": 11485,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 3043,
+  "EOS_NewPlayers": 3044,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -6951,6 +6951,11 @@
       "Time": "2023-12-20T22:09:39.863373+00:00",
       "NumProgressed": 11484,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-20T23:09:03.1754215+00:00",
+      "NumProgressed": 11485,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 24,
@@ -6986,7 +6991,7 @@
       "Name": "Focus!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 6890
+      "UsersEstimate": 6891
     },
     {
       "ID": "DemonCastleRestoration",
@@ -7050,7 +7055,7 @@
       "Name": "The Hero Killer",
       "Percentage": 23,
       "XP": 90,
-      "UsersEstimate": 2641
+      "UsersEstimate": 2642
     },
     {
       "ID": "LeoniasFall",
@@ -7090,7 +7095,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 6890
+      "UsersEstimate": 6891
     },
     {
       "ID": "SavedElderEnt_2",
@@ -7098,7 +7103,7 @@
       "Name": "Quick Movements",
       "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 3445
+      "UsersEstimate": 3446
     },
     {
       "ID": "SkeletonKing",
@@ -7114,7 +7119,7 @@
       "Name": "Inventory Management",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 3445
+      "UsersEstimate": 3446
     },
     {
       "ID": "TheLegendBegins",
@@ -7122,7 +7127,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 10680
+      "UsersEstimate": 10681
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -7146,22 +7151,22 @@
       "Name": "What should I buy?",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9302
+      "UsersEstimate": 9303
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 11484,
+      "Progressed": 11485,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-12-20T15:57:19.1041238+00:00",
-  "LastChanged_Achievements": "2023-12-20T22:09:39.8633724+00:00",
+  "LastChanged_Achievements": "2023-12-20T23:09:03.175421+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:00.8013876+00:00",
-  "LastUpdate_Ratings": "2023-12-20T21:57:46.7828442+00:00",
-  "LastUpdate_Achievements": "2023-12-20T22:09:39.8634267+00:00"
+  "LastUpdate_Ratings": "2023-12-20T22:57:26.8030511+00:00",
+  "LastUpdate_Achievements": "2023-12-20T23:09:03.1754594+00:00"
 }

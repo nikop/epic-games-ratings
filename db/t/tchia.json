@@ -257,9 +257,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8141,
+  "EOS_Progressed": 8142,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -9527,6 +9527,11 @@
       "Time": "2023-12-20T22:07:09.2553656+00:00",
       "NumProgressed": 8141,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-20T23:05:28.9893538+00:00",
+      "NumProgressed": 8142,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -9626,7 +9631,7 @@
       "Name": "Historian",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "ICONOCLAST",
@@ -9634,7 +9639,7 @@
       "Name": "Iconoclast",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "IN_A_PINCH",
@@ -9705,7 +9710,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 8141,
+      "Progressed": 8142,
       "Completed": 34
     }
   ],
@@ -9713,8 +9718,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-12-17T08:57:44.8415466+00:00",
-  "LastChanged_Achievements": "2023-12-20T22:07:09.2553652+00:00",
+  "LastChanged_Achievements": "2023-12-20T23:05:28.9893533+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:46.5620941+00:00",
-  "LastUpdate_Ratings": "2023-12-20T22:00:01.3327824+00:00",
-  "LastUpdate_Achievements": "2023-12-20T22:07:09.2554177+00:00"
+  "LastUpdate_Ratings": "2023-12-20T22:58:55.9535279+00:00",
+  "LastUpdate_Achievements": "2023-12-20T23:05:28.9894144+00:00"
 }

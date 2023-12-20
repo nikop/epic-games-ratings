@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 433,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -943,7 +943,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4074,
+  "EOS_Progressed": 4075,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
@@ -7423,6 +7423,11 @@
       "Time": "2023-12-20T22:05:28.6548308+00:00",
       "NumProgressed": 4074,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T23:04:17.1179413+00:00",
+      "NumProgressed": 4075,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -7467,7 +7472,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 2159
+      "UsersEstimate": 2160
     },
     {
       "ID": "achievement_14",
@@ -7602,7 +7607,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4074,
+      "Progressed": 4075,
       "Completed": 0
     }
   ],
@@ -7610,8 +7615,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-12-20T18:58:01.3561832+00:00",
-  "LastChanged_Achievements": "2023-12-20T22:05:28.6548303+00:00",
+  "LastChanged_Achievements": "2023-12-20T23:04:17.1179405+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:51.9510539+00:00",
-  "LastUpdate_Ratings": "2023-12-20T21:58:41.5420484+00:00",
-  "LastUpdate_Achievements": "2023-12-20T22:05:28.6548926+00:00"
+  "LastUpdate_Ratings": "2023-12-20T22:58:02.9198303+00:00",
+  "LastUpdate_Achievements": "2023-12-20T23:04:17.117989+00:00"
 }

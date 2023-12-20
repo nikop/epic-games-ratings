@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 321)  
+Rating: 4.65 (Ranked 320)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -170,6 +170,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 0.10% | ~16 |
 | Siege Tower | 0.10% | ~16 |
 | Turreted Elephant | 0.10% | ~16 |
+| Great Ziggurat in Ur | 0.10% | ~16 |
 | All Nations | 0.10% | ~16 |
 | Ambition Victory | 0.10% | ~16 |
 | Conquest Victory | 0.10% | ~16 |
@@ -289,7 +290,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Word of God | 0.00% | ~0 |
 | Cataphract Archer | 0.00% | ~0 |
 | Three Man Chariot | 0.00% | ~0 |
-| Great Ziggurat in Ur | 0.00% | ~0 |
 | No Characters | 0.00% | ~0 |
 | One City Challenge | 0.00% | ~0 |
 | Randomized Families | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Al Khazneh in Petra | 0.00% | ~0 |
 | Colosseum in Roma | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,853 (Ranked 158)  
+Progressed: 15,854 (Ranked 158)  
 Completed: 5 (0.03%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -609,7 +609,7 @@ Completed: 5 (0.03%) (Ranked 345)
 | 2023-12-17 | 15,807 | 5 |
 | 2023-12-18 | 15,826 | 5 |
 | 2023-12-19 | 15,840 | 5 |
-| 2023-12-20 | 15,853 | 5 |
+| 2023-12-20 | 15,854 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 279)  
 Sum: 1,904 (Ranked 220)  

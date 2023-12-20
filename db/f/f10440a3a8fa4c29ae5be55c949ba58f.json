@@ -2,9 +2,9 @@
   "ID": "f10440a3a8fa4c29ae5be55c949ba58f",
   "Name": "Tangles",
   "ProductSlug": "tangles-e99298",
-  "Ranking_EOS_Progress": 602,
+  "Ranking_EOS_Progress": 595,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 340,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 20,
+  "EOS_Progressed": 22,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -102,6 +102,11 @@
       "Time": "2023-12-20T22:10:00.2789522+00:00",
       "NumProgressed": 20,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T23:09:17.8440164+00:00",
+      "NumProgressed": 22,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-04T20:08:44.4848254+00:00",
@@ -114,13 +119,13 @@
       "Name": "Final Destination",
       "Percentage": 50,
       "XP": 200,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Document1",
       "SetID": "ao2gjap",
       "Name": "The Seeker in the Shadows",
-      "Percentage": 40,
+      "Percentage": 36,
       "XP": 100,
       "UsersEstimate": 8
     },
@@ -128,7 +133,7 @@
       "ID": "Document2",
       "SetID": "ao2gjap",
       "Name": "Document Discoverer",
-      "Percentage": 20,
+      "Percentage": 18,
       "XP": 100,
       "UsersEstimate": 4
     },
@@ -136,7 +141,7 @@
       "ID": "Document3",
       "SetID": "ao2gjap",
       "Name": "Secrets Revealer",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -144,7 +149,7 @@
       "ID": "Document4",
       "SetID": "ao2gjap",
       "Name": "Truth Seeker",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -152,7 +157,7 @@
       "ID": "Document5",
       "SetID": "ao2gjap",
       "Name": "Master of Secrets",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -168,7 +173,7 @@
       "ID": "Untraceable2",
       "SetID": "ao2gjap",
       "Name": "Untraceable",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 150,
       "UsersEstimate": 3
     }
@@ -177,13 +182,13 @@
     {
       "ID": "ao2gjap",
       "IsBase": true,
-      "Progressed": 20,
+      "Progressed": 22,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2023-12-20T22:10:00.2789515+00:00",
+  "LastChanged_Achievements": "2023-12-20T23:09:17.844016+00:00",
   "LastUpdate_AppInfo": "2023-12-17T19:57:03.2997714+00:00",
-  "LastUpdate_Ratings": "2023-12-20T21:57:19.2772806+00:00",
-  "LastUpdate_Achievements": "2023-12-20T22:10:00.2789648+00:00"
+  "LastUpdate_Ratings": "2023-12-20T22:57:08.4189214+00:00",
+  "LastUpdate_Achievements": "2023-12-20T23:09:17.8440227+00:00"
 }

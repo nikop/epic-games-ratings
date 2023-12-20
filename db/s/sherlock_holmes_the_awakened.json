@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 116,
   "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1266,
+  "EOS_Progressed": 1267,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 2.84,
   "EosHistory": [
@@ -4390,6 +4390,11 @@
       "Time": "2023-12-20T20:06:24.7565717+00:00",
       "NumProgressed": 1266,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-12-20T23:06:20.0618528+00:00",
+      "NumProgressed": 1267,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 28,
@@ -4409,7 +4414,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "MQ02_1",
@@ -4439,9 +4444,9 @@
       "ID": "MQ02_4",
       "SetID": "bbing49",
       "Name": "Whispers In The Dark",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 40,
-      "UsersEstimate": 658
+      "UsersEstimate": 646
     },
     {
       "ID": "MQ03_1",
@@ -4449,7 +4454,7 @@
       "Name": "Fond Memories",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "MQ03_2",
@@ -4473,7 +4478,7 @@
       "Name": "Gaze Into The Abyss",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "MQ03_5",
@@ -4497,7 +4502,7 @@
       "Name": "Let Me Be Frank",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "MQ04_3",
@@ -4513,7 +4518,7 @@
       "Name": "Open Sesame",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "MQ05_2",
@@ -4529,7 +4534,7 @@
       "Name": "Sticky Fingers",
       "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "MQ05_4",
@@ -4553,7 +4558,7 @@
       "Name": "Bookworm",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "MQ06_3",
@@ -4567,9 +4572,9 @@
       "ID": "MQ06_4",
       "SetID": "bbing49",
       "Name": "No Man Is An Island",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 519
+      "UsersEstimate": 507
     },
     {
       "ID": "MQ07_1",
@@ -4585,7 +4590,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "MQ08_1",
@@ -4624,7 +4629,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1266,
+      "Progressed": 1267,
       "Completed": 36
     }
   ],
@@ -4632,8 +4637,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-19T11:03:29.5971745+00:00",
-  "LastChanged_Achievements": "2023-12-20T22:08:21.3197695+00:00",
+  "LastChanged_Achievements": "2023-12-20T23:06:20.0618525+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:14.2246919+00:00",
-  "LastUpdate_Ratings": "2023-12-20T22:03:26.5086402+00:00",
-  "LastUpdate_Achievements": "2023-12-20T22:08:21.319814+00:00"
+  "LastUpdate_Ratings": "2023-12-20T23:03:04.3616587+00:00",
+  "LastUpdate_Achievements": "2023-12-20T23:06:20.0618875+00:00"
 }

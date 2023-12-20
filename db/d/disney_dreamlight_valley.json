@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 107,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -5353,10 +5353,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 8206,
       "NumberOfAwardsMax": 1144
+    },
+    {
+      "Time": "2023-12-20T22:59:53.1401344+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 8207,
+      "NumberOfAwardsMax": 1144
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8206,
+  "NumberOfAwards": 8207,
   "NumberOfAwardsMax": 1144,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5424,12 +5430,12 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 540
+      "Count": 541
     }
   ],
-  "EOS_Progressed": 12890,
+  "EOS_Progressed": 12891,
   "EOS_Completed": 320,
-  "EOS_NewPlayers": 342,
+  "EOS_NewPlayers": 343,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 2.48,
   "EosHistory": [
@@ -22427,6 +22433,11 @@
       "Time": "2023-12-20T22:09:43.4311862+00:00",
       "NumProgressed": 12890,
       "NumCompleted": 320
+    },
+    {
+      "Time": "2023-12-20T23:09:05.7104234+00:00",
+      "NumProgressed": 12891,
+      "NumCompleted": 320
     }
   ],
   "TotalAchievements": 15,
@@ -22454,7 +22465,7 @@
       "Name": "Bestest Friend",
       "Percentage": 46,
       "XP": 75,
-      "UsersEstimate": 5929
+      "UsersEstimate": 5930
     },
     {
       "ID": "Chef_Cook",
@@ -22502,7 +22513,7 @@
       "Name": "Generous",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 3222
+      "UsersEstimate": 3223
     },
     {
       "ID": "Goofys_Investor",
@@ -22510,7 +22521,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 69,
       "XP": 75,
-      "UsersEstimate": 8894
+      "UsersEstimate": 8895
     },
     {
       "ID": "Miner",
@@ -22526,7 +22537,7 @@
       "Name": "Photographer",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 8765
+      "UsersEstimate": 8766
     },
     {
       "ID": "Renovator",
@@ -22550,23 +22561,23 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 61,
       "XP": 100,
-      "UsersEstimate": 7863
+      "UsersEstimate": 7864
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 12890,
+      "Progressed": 12891,
       "Completed": 320
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-12-20T22:01:26.2287559+00:00",
-  "LastChanged_Achievements": "2023-12-20T22:09:43.4311853+00:00",
+  "LastChanged": "2023-12-20T22:59:53.1401343+00:00",
+  "LastChanged_Achievements": "2023-12-20T23:09:05.7104221+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:26.6445497+00:00",
-  "LastUpdate_Ratings": "2023-12-20T22:01:26.2287565+00:00",
-  "LastUpdate_Achievements": "2023-12-20T22:09:43.4312912+00:00"
+  "LastUpdate_Ratings": "2023-12-20T22:59:53.1401351+00:00",
+  "LastUpdate_Achievements": "2023-12-20T23:09:05.7105231+00:00"
 }

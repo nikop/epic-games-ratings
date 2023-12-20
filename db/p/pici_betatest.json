@@ -1,7 +1,7 @@
 {
   "ID": "79af9ae5e85344c0a2385021c1c02c02",
   "Name": "pici BetaTest",
-  "Ranking_EOS_Progress": 812,
+  "Ranking_EOS_Progress": 813,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 558,
   "Ranking_EOS_NewCompleters": 158,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:31:28.8023261+00:00",
-  "LastUpdate_Ratings": "2023-12-20T22:02:48.4090756+00:00",
-  "LastUpdate_Achievements": "2023-12-20T22:04:54.6744794+00:00"
+  "LastUpdate_Ratings": "2023-12-20T23:00:28.9020852+00:00",
+  "LastUpdate_Achievements": "2023-12-20T23:03:52.340179+00:00"
 }

@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mathematic | 85.00% | ~121 |
-| It's Yours, My Friend | 73.00% | ~104 |
-| Digging a Hole | 72.00% | ~102 |
+| Mathematic | 86.00% | ~122 |
+| It's Yours, My Friend | 74.00% | ~105 |
+| Digging a Hole | 73.00% | ~104 |
 | Going Places | 67.00% | ~95 |
 | Conducted Trade | 65.00% | ~92 |
 | Aristocratic | 63.00% | ~89 |
@@ -14,12 +14,12 @@
 | Gotta Go Fast | 45.00% | ~64 |
 | Systematic | 41.00% | ~58 |
 | Slotting Machine | 39.00% | ~55 |
+| Mine Sweeper | 36.00% | ~51 |
 | Roll Out | 36.00% | ~51 |
-| Mine Sweeper | 35.00% | ~50 |
 | Dopa-Miner | 27.00% | ~38 |
-| Up, Up And Away! | 25.00% | ~36 |
-| Whoa! | 25.00% | ~36 |
-| Botropolis | 23.00% | ~33 |
+| Up, Up And Away! | 26.00% | ~37 |
+| Whoa! | 26.00% | ~37 |
+| Botropolis | 24.00% | ~34 |
 | Steaming Rich | 18.00% | ~26 |
 | Steam Powered | 17.00% | ~24 |
 | Manic Mechanic | 15.00% | ~21 |
@@ -33,7 +33,7 @@
 | Yup. | 0.70% | ~1 |
 | Nothing But Road | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142 (Ranked 426)  
+Progressed: 142 (Ranked 427)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |

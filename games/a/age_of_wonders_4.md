@@ -39,13 +39,13 @@ Rating: 4.62 (Ranked 374)
 | Eternal Lord | 1.00% | ~59 |
 | Crimson Caldera | 1.00% | ~59 |
 | Against the Odds | 1.00% | ~59 |
+| The Eternal Court | 1.00% | ~59 |
 | Blood of the Dragon | 1.00% | ~59 |
 | Prometheus Avenged | 1.00% | ~59 |
 | Seal the Deal | 1.00% | ~59 |
 | A Conqueror's Cohort | 1.00% | ~59 |
 | Dawn of the Dread | 1.00% | ~59 |
 | Lord of Chaos | 0.90% | ~53 |
-| The Eternal Court | 0.90% | ~53 |
 | God Emperor | 0.80% | ~47 |
 | The Goddess of Nature | 0.80% | ~47 |
 | I've Got Everything I Need Right Here | 0.70% | ~41 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 374)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,910 (Ranked 192)  
+Progressed: 5,911 (Ranked 192)  
 Completed: 7 (0.12%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 7 (0.12%) (Ranked 295)
 | 2023-12-17 | 5,798 | 7 |
 | 2023-12-18 | 5,842 | 7 |
 | 2023-12-19 | 5,881 | 7 |
-| 2023-12-20 | 5,910 | 7 |
+| 2023-12-20 | 5,911 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 481)  
 Sum: 113 (Ranked 450)  

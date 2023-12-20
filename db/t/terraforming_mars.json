@@ -5,10 +5,10 @@
   "Ranking_Rating": 551,
   "Ranking_Popularity": 211,
   "Ranking_PopularitySum": 173,
-  "Ranking_EOS_Progress": 97,
+  "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -3397,9 +3397,9 @@
       "Count": 261
     }
   ],
-  "EOS_Progressed": 86827,
+  "EOS_Progressed": 86829,
   "EOS_Completed": 176,
-  "EOS_NewPlayers": 839,
+  "EOS_NewPlayers": 836,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -30687,6 +30687,11 @@
       "Time": "2023-12-20T22:04:21.0856977+00:00",
       "NumProgressed": 86827,
       "NumCompleted": 176
+    },
+    {
+      "Time": "2023-12-20T23:03:28.3199642+00:00",
+      "NumProgressed": 86829,
+      "NumCompleted": 176
     }
   ],
   "TotalAchievements": 30,
@@ -30722,7 +30727,7 @@
       "Name": "New Home",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 19970
+      "UsersEstimate": 19971
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -30762,7 +30767,7 @@
       "Name": "Variety Expert",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 7814
+      "UsersEstimate": 7815
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -30770,7 +30775,7 @@
       "Name": "Project Manager",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 16497
+      "UsersEstimate": 16498
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -30778,7 +30783,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 32126
+      "UsersEstimate": 32127
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -30818,7 +30823,7 @@
       "Name": "Curiosity",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 16497
+      "UsersEstimate": 16498
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -30826,7 +30831,7 @@
       "Name": "Beagle 2",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 19970
+      "UsersEstimate": 19971
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -30834,7 +30839,7 @@
       "Name": "Sojourner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 22575
+      "UsersEstimate": 22576
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -30842,7 +30847,7 @@
       "Name": "Collector",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 16497
+      "UsersEstimate": 16498
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -30874,7 +30879,7 @@
       "Name": "Final touch",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 29521
+      "UsersEstimate": 29522
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -30937,15 +30942,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 86827,
+      "Progressed": 86829,
       "Completed": 176
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-12-20T21:59:20.7352321+00:00",
-  "LastChanged_Achievements": "2023-12-20T22:04:21.0856973+00:00",
+  "LastChanged_Achievements": "2023-12-20T23:03:28.3199635+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:25.3489016+00:00",
-  "LastUpdate_Ratings": "2023-12-20T21:59:20.7352327+00:00",
-  "LastUpdate_Achievements": "2023-12-20T22:04:21.085886+00:00"
+  "LastUpdate_Ratings": "2023-12-20T22:58:29.281589+00:00",
+  "LastUpdate_Achievements": "2023-12-20T23:03:28.3200898+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 463,
+  "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -45,9 +45,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 205,
+  "EOS_Progressed": 206,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -825,6 +825,11 @@
       "Time": "2023-12-20T22:05:43.3157852+00:00",
       "NumProgressed": 205,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T23:04:27.8261061+00:00",
+      "NumProgressed": 206,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 73,
@@ -850,9 +855,9 @@
       "ID": "CLG_LEVEL_BALLISTASHOT",
       "SetID": "89cjc9l",
       "Name": "Right in the kisser!",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 117
     },
     {
       "ID": "CLG_LEVEL_BULLSEYE",
@@ -860,7 +865,7 @@
       "Name": "Bullseye!",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "CLG_LEVEL_COMBO",
@@ -876,7 +881,7 @@
       "Name": "Kill-streak",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "CLG_RUN_LEVELUP_1",
@@ -884,7 +889,7 @@
       "Name": "Level Up!",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "CLG_RUN_LEVELUP_2",
@@ -900,7 +905,7 @@
       "Name": "Topped up",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "CLG_SKILL_LEVEL5_2",
@@ -916,7 +921,7 @@
       "Name": "The Penguin",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "CLG_UNLOCK_10003",
@@ -924,7 +929,7 @@
       "Name": "The Idol",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "CLG_UNLOCK_10004",
@@ -964,7 +969,7 @@
       "Name": "The Droid",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "CLG_UNLOCK_10009",
@@ -1020,7 +1025,7 @@
       "Name": "The Bird",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "PRG_BOSS_FLOWER",
@@ -1044,7 +1049,7 @@
       "Name": "The Shaman",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "PRG_BOSS_MAGICIAN",
@@ -1060,7 +1065,7 @@
       "Name": "The Ninja",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "PRG_BOSS_OOZE",
@@ -1092,7 +1097,7 @@
       "Name": "The Thrower",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "PRG_BOSS_TUNNELER",
@@ -1116,7 +1121,7 @@
       "Name": "Duscot Steamcity",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "PRG_CHAPTER_3",
@@ -1348,7 +1353,7 @@
       "Name": "Iron",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "PRG_NORMAL_10005",
@@ -1412,14 +1417,14 @@
       "Name": "Graduation!",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     }
   ],
   "AchievementSets": [
     {
       "ID": "89cjc9l",
       "IsBase": true,
-      "Progressed": 205,
+      "Progressed": 206,
       "Completed": 1
     }
   ],
@@ -1427,8 +1432,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-12-07T15:59:55.7707113+00:00",
-  "LastChanged_Achievements": "2023-12-20T22:05:43.3157845+00:00",
+  "LastChanged_Achievements": "2023-12-20T23:04:27.8261057+00:00",
   "LastUpdate_AppInfo": "2023-12-16T16:56:58.7640888+00:00",
-  "LastUpdate_Ratings": "2023-12-20T22:00:53.7418447+00:00",
-  "LastUpdate_Achievements": "2023-12-20T22:05:43.3158382+00:00"
+  "LastUpdate_Ratings": "2023-12-20T22:59:31.5855465+00:00",
+  "LastUpdate_Achievements": "2023-12-20T23:04:27.8261574+00:00"
 }

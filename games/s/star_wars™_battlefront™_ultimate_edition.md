@@ -15,7 +15,7 @@
 | Shoot first | 14.00% | ~272 |
 | The power of the Force | 13.00% | ~253 |
 | Collector | 13.00% | ~253 |
-| Together we can rule the galaxy | 12.00% | ~233 |
+| Together we can rule the galaxy | 12.00% | ~234 |
 | Tell Jabba that I've got his money | 9.00% | ~175 |
 | Best star-pilot in the galaxy | 9.00% | ~175 |
 | Never tell me the odds! | 8.00% | ~156 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~4 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,945 (Ranked 237)  
+Progressed: 1,946 (Ranked 237)  
 Completed: 1 (0.05%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 1 (0.05%) (Ranked 332)
 | 2023-12-17 | 1,853 | 1 |
 | 2023-12-18 | 1,882 | 1 |
 | 2023-12-19 | 1,913 | 1 |
-| 2023-12-20 | 1,945 | 1 |
+| 2023-12-20 | 1,946 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

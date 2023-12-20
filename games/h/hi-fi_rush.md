@@ -5,21 +5,21 @@ Rating: 4.88 (Ranked 16)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 44.00% | ~4,356 |
-| Start with a bang! | 43.00% | ~4,257 |
-| You can pet the cat! | 39.00% | ~3,861 |
-| Who put gears in there? | 31.00% | ~3,069 |
-| Cream of the Crop | 27.00% | ~2,673 |
-| Thanks for the free chip, Peppermint! | 26.00% | ~2,574 |
-| You got this, Peppermint? | 22.00% | ~2,178 |
-| Perfect Parry | 20.00% | ~1,980 |
-| Alright, that felt AWESOME! | 19.00% | ~1,881 |
-| I play my own way! | 18.00% | ~1,782 |
-| This will cost you big time | 15.00% | ~1,485 |
-| Uh, they were broken when I got here | 15.00% | ~1,485 |
-| Z-shielding's got nothing on us! | 14.00% | ~1,386 |
-| Does that say weakpoint? | 14.00% | ~1,386 |
-| Kissing the sky! | 13.00% | ~1,287 |
+| Feeling the beat! | 44.00% | ~4,358 |
+| Start with a bang! | 43.00% | ~4,259 |
+| You can pet the cat! | 39.00% | ~3,863 |
+| Who put gears in there? | 31.00% | ~3,070 |
+| Cream of the Crop | 27.00% | ~2,674 |
+| Thanks for the free chip, Peppermint! | 26.00% | ~2,575 |
+| You got this, Peppermint? | 22.00% | ~2,179 |
+| Perfect Parry | 20.00% | ~1,981 |
+| Alright, that felt AWESOME! | 19.00% | ~1,882 |
+| I play my own way! | 18.00% | ~1,783 |
+| This will cost you big time | 15.00% | ~1,486 |
+| Uh, they were broken when I got here | 15.00% | ~1,486 |
+| Z-shielding's got nothing on us! | 14.00% | ~1,387 |
+| Does that say weakpoint? | 14.00% | ~1,387 |
+| Kissing the sky! | 13.00% | ~1,288 |
 | Whoa! There's ANOTHER health bar!? | 11.00% | ~1,089 |
 | The Negotiator | 10.00% | ~990 |
 | You must like calling me in, Chai | 9.00% | ~891 |
@@ -30,7 +30,7 @@ Rating: 4.88 (Ranked 16)
 | Time to pay up! | 7.00% | ~693 |
 | Who's the boss now? | 7.00% | ~693 |
 | I have to read these things? | 7.00% | ~693 |
-| NOW we got a kickass hideout! | 6.00% | ~505 |
+| NOW we got a kickass hideout! | 6.00% | ~506 |
 | Well that was a rush! | 5.00% | ~495 |
 | That's a lot of junk metal… | 5.00% | ~495 |
 | There's such a thing as TOO helpful | 5.00% | ~495 |
@@ -77,7 +77,7 @@ Rating: 4.88 (Ranked 16)
 | Voices from within | 0.10% | ~8 |
 | Low budget finish | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,900 (Ranked 174)  
+Progressed: 9,904 (Ranked 174)  
 Completed: 8 (0.08%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 8 (0.08%) (Ranked 316)
 | 2023-12-17 | 8,671 | 8 |
 | 2023-12-18 | 9,200 | 8 |
 | 2023-12-19 | 9,581 | 8 |
-| 2023-12-20 | 9,900 | 8 |
+| 2023-12-20 | 9,904 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -53,8 +53,8 @@
 | The Last Stand - This Time For Real! | 20.00% | ~120 |
 | My Little Torture Chamber | 18.00% | ~108 |
 | Lavalumps on Ice! | 18.00% | ~108 |
+| To the Max! | 18.00% | ~108 |
 | To Infinity And Beyond! | 18.00% | ~108 |
-| To the Max! | 17.00% | ~102 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~96 |
 | Evilification | 16.00% | ~96 |
 | Mirror, Mirror | 15.00% | ~90 |

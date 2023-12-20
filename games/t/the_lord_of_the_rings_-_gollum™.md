@@ -8,7 +8,7 @@
 | Welcome to Mordor! | 54.00% | ~338 |
 | Collectibles Part 1 | 51.00% | ~319 |
 | Wait! Wait! Not yet! | 39.00% | ~244 |
-| Like Flying... | 33.00% | ~206 |
+| Like Flying... | 33.00% | ~207 |
 | The Maggot | 28.00% | ~175 |
 | Memories | 27.00% | ~169 |
 | The Breeder | 24.00% | ~150 |
@@ -17,8 +17,8 @@
 | The Spider | 14.00% | ~88 |
 | Good as Fish | 12.00% | ~75 |
 | Her Eyes | 11.00% | ~69 |
-| Gollum/Sméagol | 10.00% | ~62 |
-| Trigger-Happy | 10.00% | ~62 |
+| Gollum/Sméagol | 10.00% | ~63 |
+| Trigger-Happy | 10.00% | ~63 |
 | The Friend | 9.00% | ~56 |
 | Murderer | 9.00% | ~56 |
 | He's so Annoying | 8.00% | ~50 |
@@ -28,8 +28,8 @@
 | So Tasty! | 4.00% | ~25 |
 | Break a Leg! | 3.00% | ~19 |
 | Sweet Darkness | 3.00% | ~19 |
-| And now we wish... | 2.00% | ~12 |
-| Ss ss ss... | 2.00% | ~12 |
+| And now we wish... | 2.00% | ~13 |
+| Ss ss ss... | 2.00% | ~13 |
 | Collectibles Part 2 | 1.00% | ~6 |
 | Nervous Hands | 0.80% | ~5 |
 | Elf-Friend | 0.60% | ~4 |
@@ -41,7 +41,7 @@
 | How Did You Do That? | 0.20% | ~1 |
 | River Hobbit | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 625 (Ranked 312)  
+Progressed: 626 (Ranked 311)  
 Completed: 1 (0.16%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,4 +167,4 @@ Completed: 1 (0.16%) (Ranked 281)
 | 2023-12-12 | 620 | 1 |
 | 2023-12-15 | 621 | 1 |
 | 2023-12-19 | 623 | 1 |
-| 2023-12-20 | 625 | 1 |
+| 2023-12-20 | 626 | 1 |

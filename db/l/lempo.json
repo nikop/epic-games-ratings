@@ -2,7 +2,7 @@
   "ID": "357881b5bfbe4dbb8804e55e826057cc",
   "Name": "Lempo",
   "ProductSlug": "lempo-a6a67d",
-  "Ranking_EOS_Progress": 742,
+  "Ranking_EOS_Progress": 743,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 558,
   "Ranking_EOS_NewCompleters": 158,
@@ -323,8 +323,8 @@
   ],
   "FirstSeen": "2023-09-10T04:57:31.3604018+00:00",
   "FirstSeenAchievements": "2023-08-09T09:06:40.0586903+00:00",
-  "LastChanged_Achievements": "2023-12-20T22:09:59.0443916+00:00",
+  "LastChanged_Achievements": "2023-12-20T23:09:16.9531435+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.3453972+00:00",
-  "LastUpdate_Ratings": "2023-12-20T22:00:42.1227049+00:00",
-  "LastUpdate_Achievements": "2023-12-20T22:09:59.0444205+00:00"
+  "LastUpdate_Ratings": "2023-12-20T22:59:23.8331533+00:00",
+  "LastUpdate_Achievements": "2023-12-20T23:09:16.9531636+00:00"
 }

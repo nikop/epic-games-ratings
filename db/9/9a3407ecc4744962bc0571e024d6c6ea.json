@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1090,
+  "EOS_Progressed": 1091,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -2989,6 +2989,11 @@
       "Time": "2023-12-20T22:10:41.9167417+00:00",
       "NumProgressed": 1090,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-20T23:09:48.1564542+00:00",
+      "NumProgressed": 1091,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -3001,7 +3006,7 @@
       "Name": "A Better Tomorrow",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "BostonHayDay",
@@ -3009,7 +3014,7 @@
       "Name": "Boston Hay Day",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "BoxingClever",
@@ -3025,7 +3030,7 @@
       "Name": "Cartographer",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "Causality",
@@ -3057,7 +3062,7 @@
       "Name": "Drinking on the Job",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "DustDancing",
@@ -3065,7 +3070,7 @@
       "Name": "Dust Dancing",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "EverythingIsDust",
@@ -3113,7 +3118,7 @@
       "Name": "Relic",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "SkeletonCrew",
@@ -3121,7 +3126,7 @@
       "Name": "Skeleton Crew",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "TerraTourGuide",
@@ -3153,21 +3158,21 @@
       "Name": "Welcome to Fort Solis",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 1090,
+      "Progressed": 1091,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-12-20T22:10:41.9167411+00:00",
+  "LastChanged_Achievements": "2023-12-20T23:09:48.1564538+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:10.5156863+00:00",
-  "LastUpdate_Ratings": "2023-12-20T21:59:21.3486694+00:00",
-  "LastUpdate_Achievements": "2023-12-20T22:10:41.9167641+00:00"
+  "LastUpdate_Ratings": "2023-12-20T22:58:29.6397139+00:00",
+  "LastUpdate_Achievements": "2023-12-20T23:09:48.1564795+00:00"
 }

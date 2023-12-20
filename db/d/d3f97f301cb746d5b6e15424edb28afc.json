@@ -3505,17 +3505,17 @@
       "ID": "ACH_WASHCAR_01",
       "SetID": "5fn8ia4",
       "Name": "Welcome to the Car Wash",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 624
+      "UsersEstimate": 637
     },
     {
       "ID": "ACH_WASHCAR_02",
       "SetID": "5fn8ia4",
       "Name": "Squeaky Clean",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 468
+      "UsersEstimate": 481
     },
     {
       "ID": "ACH_WASHCAR_03",
@@ -3849,9 +3849,9 @@
       "ID": "GSS_ACH_42_CARAVAN_01",
       "SetID": "5fn8ia4",
       "Name": "Help Wanted!",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 885
+      "UsersEstimate": 898
     },
     {
       "ID": "GSS_ACH_43_CARAVAN_02",
@@ -3873,9 +3873,9 @@
       "ID": "GSS_ACH_45_ORDER_PRODUCTS",
       "SetID": "5fn8ia4",
       "Name": "Products Please!",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1080
     },
     {
       "ID": "GSS_ACH_46_ORDER_CARPARTS",
@@ -3889,9 +3889,9 @@
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 2",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1132
     },
     {
       "ID": "GSS_ACH_48_UPGRADE_STATION_02",
@@ -4097,9 +4097,9 @@
       "ID": "GSS_ACH_73_MEETING_THE_UNCLE",
       "SetID": "5fn8ia4",
       "Name": "The Uncle",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1145
     },
     {
       "ID": "GSS_ACH_74_SANDSTORM",
@@ -4186,8 +4186,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-18T13:05:51.5719117+00:00",
-  "LastChanged_Achievements": "2023-12-20T22:04:21.6596098+00:00",
+  "LastChanged_Achievements": "2023-12-20T23:03:28.8155046+00:00",
   "LastUpdate_AppInfo": "2023-12-18T18:57:14.4494443+00:00",
-  "LastUpdate_Ratings": "2023-12-20T22:01:35.9215739+00:00",
-  "LastUpdate_Achievements": "2023-12-20T22:04:21.6597107+00:00"
+  "LastUpdate_Ratings": "2023-12-20T22:59:59.7209941+00:00",
+  "LastUpdate_Achievements": "2023-12-20T23:03:28.8156027+00:00"
 }

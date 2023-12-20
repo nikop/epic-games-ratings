@@ -2,7 +2,7 @@
   "ID": "e41afb4c515743c4a9df79b99f6c476c",
   "Name": "True Hate",
   "ProductSlug": "true-hate-007027",
-  "Ranking_EOS_Progress": 812,
+  "Ranking_EOS_Progress": 813,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 558,
   "Ranking_EOS_NewCompleters": 158,
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:42.8395906+00:00",
   "LastChanged": "2023-03-31T05:58:42.8395907+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:39.5475229+00:00",
-  "LastUpdate_Ratings": "2023-12-20T22:00:05.0361782+00:00",
-  "LastUpdate_Achievements": "2023-12-20T22:04:08.121746+00:00"
+  "LastUpdate_Ratings": "2023-12-20T22:58:58.4694586+00:00",
+  "LastUpdate_Achievements": "2023-12-20T23:03:19.0148489+00:00"
 }

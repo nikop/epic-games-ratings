@@ -2,7 +2,7 @@
   "ID": "32dfe2fe49964b24ab76ea559bfeea40",
   "Name": "Sensorium Galaxy",
   "ProductSlug": "sensorium-galaxy-0f986d",
-  "Ranking_EOS_Progress": 812,
+  "Ranking_EOS_Progress": 813,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 558,
   "Ranking_EOS_NewCompleters": 158,
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-04T22:00:06.985005+00:00",
   "LastUpdate_AppInfo": "2023-12-18T15:57:06.5055507+00:00",
-  "LastUpdate_Ratings": "2023-12-20T21:58:24.3536109+00:00",
-  "LastUpdate_Achievements": "2023-12-20T22:06:46.0260031+00:00"
+  "LastUpdate_Ratings": "2023-12-20T22:57:51.5916894+00:00",
+  "LastUpdate_Achievements": "2023-12-20T23:05:12.3902296+00:00"
 }

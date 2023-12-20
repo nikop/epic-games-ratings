@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19115,
+  "EOS_Progressed": 19116,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13909,6 +13909,11 @@
       "Time": "2023-12-20T16:05:36.1034553+00:00",
       "NumProgressed": 19115,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-20T23:05:47.079199+00:00",
+      "NumProgressed": 19116,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -13920,7 +13925,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5734
+      "UsersEstimate": 5735
     },
     {
       "ID": "0002",
@@ -13984,7 +13989,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4396
+      "UsersEstimate": 4397
     },
     {
       "ID": "0010",
@@ -14008,7 +14013,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3058
+      "UsersEstimate": 3059
     },
     {
       "ID": "0013",
@@ -14024,7 +14029,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3058
+      "UsersEstimate": 3059
     },
     {
       "ID": "0015",
@@ -14104,7 +14109,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4205
+      "UsersEstimate": 4206
     },
     {
       "ID": "0025",
@@ -14136,7 +14141,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4396
+      "UsersEstimate": 4397
     },
     {
       "ID": "0029",
@@ -14207,7 +14212,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19115,
+      "Progressed": 19116,
       "Completed": 4
     }
   ],
@@ -14215,8 +14220,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-11-20T16:57:01.0774379+00:00",
-  "LastChanged_Achievements": "2023-12-20T22:07:34.722239+00:00",
+  "LastChanged_Achievements": "2023-12-20T23:05:47.0791987+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:23.0079073+00:00",
-  "LastUpdate_Ratings": "2023-12-20T21:58:33.555956+00:00",
-  "LastUpdate_Achievements": "2023-12-20T22:07:34.7223071+00:00"
+  "LastUpdate_Ratings": "2023-12-20T22:57:57.3814396+00:00",
+  "LastUpdate_Achievements": "2023-12-20T23:05:47.0792739+00:00"
 }

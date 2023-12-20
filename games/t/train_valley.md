@@ -11,11 +11,11 @@ Number of Ratings: 28  (23.09.2022)
 | Builder | 52.00% | ~297 |
 | Pangs of conscience | 45.00% | ~257 |
 | Living it large! | 45.00% | ~257 |
-| Collector | 43.00% | ~246 |
+| Collector | 44.00% | ~251 |
 | Need to think | 43.00% | ~246 |
 | Completely nuts! | 41.00% | ~234 |
+| Europe | 33.00% | ~188 |
 | Just in time! | 33.00% | ~188 |
-| Europe | 32.00% | ~183 |
 | Madness! | 32.00% | ~183 |
 | It's no coincidence. | 29.00% | ~166 |
 | Philatelist | 26.00% | ~148 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Juggler | 0.40% | ~2 |
 | Maniac vandal | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 571 (Ranked 321)  
+Progressed: 571 (Ranked 322)  
 Completed: 2 (0.35%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |

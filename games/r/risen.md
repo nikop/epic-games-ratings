@@ -24,9 +24,9 @@ Rating: 4.56 (Ranked 498)
 | Archaeologist | 22.00% | ~22 |
 | Ogre friend | 21.00% | ~21 |
 | The fourth triplet | 21.00% | ~21 |
+| Sidelined | 21.00% | ~21 |
 | Wise man | 20.00% | ~20 |
 | Little hero | 20.00% | ~20 |
-| Sidelined | 20.00% | ~20 |
 | Hard worker | 19.00% | ~19 |
 | Fence | 19.00% | ~19 |
 | Ghost hunter | 18.00% | ~18 |

@@ -6,25 +6,26 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 9.00% | ~328 |
-| Lost and Found | 5.00% | ~182 |
+| Malpractice Assurance | 9.00% | ~329 |
+| Lost and Found | 5.00% | ~183 |
 | This Belongs in a Museum | 4.00% | ~5,151 |
 | Autodidact | 4.00% | ~5,151 |
 | This guy... again? | 4.00% | ~146 |
 | Bloody Graduation | 4.00% | ~146 |
-| Serenity Now! | 3.00% | ~3,863 |
-| Not Today! | 3.00% | ~3,863 |
-| Creep and Sleep | 3.00% | ~3,863 |
-| Meat and Greet | 3.00% | ~3,863 |
-| Catch and Decease | 3.00% | ~3,863 |
-| Overdue Notice | 3.00% | ~3,863 |
-| Escape from the Black Hole | 3.00% | ~3,863 |
-| Ploughshares to Swords | 3.00% | ~109 |
+| Serenity Now! | 3.00% | ~3,864 |
+| Not Today! | 3.00% | ~3,864 |
+| Creep and Sleep | 3.00% | ~3,864 |
+| Meat and Greet | 3.00% | ~3,864 |
+| Catch and Decease | 3.00% | ~3,864 |
+| Overdue Notice | 3.00% | ~3,864 |
+| Escape from the Black Hole | 3.00% | ~3,864 |
+| Ploughshares to Swords | 3.00% | ~110 |
 | Don't Make Me Turn This Coach Around | 2.00% | ~2,576 |
 | It Rings a Bell | 2.00% | ~2,576 |
 | Dissector | 2.00% | ~2,576 |
 | Banishment | 2.00% | ~2,576 |
 | Deprogramming | 2.00% | ~2,576 |
+| Now Stay Dead | 2.00% | ~2,576 |
 | It Happens | 2.00% | ~2,576 |
 | Spelunker | 2.00% | ~2,576 |
 | Rush Hour | 2.00% | ~2,576 |
@@ -48,7 +49,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hope Rekindled | 1.00% | ~1,288 |
 | Predator | 1.00% | ~1,288 |
 | Ichthyophobic | 1.00% | ~1,288 |
-| Now Stay Dead | 1.00% | ~1,288 |
 | Reverse Banditry | 1.00% | ~1,288 |
 | A Clear Conscience | 1.00% | ~1,288 |
 | When You Want Something Done Right | 1.00% | ~1,288 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,777 (Ranked 85)  
+Progressed: 128,785 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 3 (0.00%) (Ranked 384)
 | 2023-12-17 | 128,143 | 3 |
 | 2023-12-18 | 128,398 | 3 |
 | 2023-12-19 | 128,605 | 3 |
-| 2023-12-20 | 128,777 | 3 |
+| 2023-12-20 | 128,785 | 3 |
 ## Awards
 Max (Character Customization): 7,805  (Ranked 50)  
 Sum: 20,840 (Ranked 58)  

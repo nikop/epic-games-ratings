@@ -14,8 +14,8 @@ Rating: 4.71 (Ranked 197)
 | Audiophile | 8.00% | ~651 |
 | Clay Pigeon | 7.00% | ~570 |
 | Soul-Canon | 7.00% | ~570 |
-| Historian | 6.00% | ~488 |
-| Iconoclast | 6.00% | ~488 |
+| Historian | 6.00% | ~489 |
+| Iconoclast | 6.00% | ~489 |
 | Happy Camper | 5.00% | ~407 |
 | Liberator | 5.00% | ~407 |
 | Shredder | 5.00% | ~407 |
@@ -27,7 +27,7 @@ Rating: 4.71 (Ranked 197)
 | Ça de Wizz! | 1.00% | ~81 |
 | Thing | 1.00% | ~81 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,141 (Ranked 182)  
+Progressed: 8,142 (Ranked 182)  
 Completed: 34 (0.42%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 34 (0.42%) (Ranked 227)
 | 2023-12-17 | 8,082 | 34 |
 | 2023-12-18 | 8,112 | 34 |
 | 2023-12-19 | 8,131 | 34 |
-| 2023-12-20 | 8,141 | 34 |
+| 2023-12-20 | 8,142 | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

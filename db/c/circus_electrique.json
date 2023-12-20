@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewPlayers": 403,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -77,9 +77,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 484,
+  "EOS_Progressed": 485,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -547,6 +547,11 @@
       "Time": "2023-12-19T22:05:04.3080534+00:00",
       "NumProgressed": 484,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T23:05:46.1389913+00:00",
+      "NumProgressed": 485,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -558,7 +563,7 @@
       "Name": "Grand Opening",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -606,7 +611,7 @@
       "Name": "Circus Electrique Proudly Presents...",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -614,7 +619,7 @@
       "Name": "Built in a Day",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -622,7 +627,7 @@
       "Name": "Path of Learning",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -788,9 +793,9 @@
       "ID": "ACHIEVEMENT_30",
       "SetID": "631ndc2",
       "Name": "King of District 1",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 78
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -878,7 +883,7 @@
       "Name": "Self Defense",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -957,7 +962,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 484,
+      "Progressed": 485,
       "Completed": 1
     }
   ],
@@ -965,8 +970,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-12-20T22:07:33.5267025+00:00",
+  "LastChanged_Achievements": "2023-12-20T23:05:46.1389911+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:19.7923718+00:00",
-  "LastUpdate_Ratings": "2023-12-20T21:58:31.2459496+00:00",
-  "LastUpdate_Achievements": "2023-12-20T22:07:33.5267421+00:00"
+  "LastUpdate_Ratings": "2023-12-20T22:57:56.1347168+00:00",
+  "LastUpdate_Achievements": "2023-12-20T23:05:46.1390318+00:00"
 }

@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1945,
+  "EOS_Progressed": 1946,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 247,
+  "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5719,6 +5719,11 @@
       "Time": "2023-12-20T21:10:11.1836504+00:00",
       "NumProgressed": 1945,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T23:10:07.6887025+00:00",
+      "NumProgressed": 1946,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -5875,7 +5880,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "achievement_27",
@@ -6234,13 +6239,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1945,
+      "Progressed": 1946,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1945,
+      "Progressed": 1946,
       "Completed": 1
     }
   ],
@@ -6248,8 +6253,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-20T22:11:06.9490545+00:00",
+  "LastChanged_Achievements": "2023-12-20T23:10:07.6887023+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.5169818+00:00",
-  "LastUpdate_Ratings": "2023-12-20T21:58:19.4115869+00:00",
-  "LastUpdate_Achievements": "2023-12-20T22:11:06.9491224+00:00"
+  "LastUpdate_Ratings": "2023-12-20T22:57:48.2920298+00:00",
+  "LastUpdate_Achievements": "2023-12-20T23:10:07.6887698+00:00"
 }

@@ -831,9 +831,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2079,
+  "EOS_Progressed": 2080,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5571,6 +5571,11 @@
       "Time": "2023-12-20T21:08:39.593152+00:00",
       "NumProgressed": 2079,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T23:08:27.0343829+00:00",
+      "NumProgressed": 2080,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 61,
@@ -5598,7 +5603,7 @@
       "Name": "Transport master",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1060
+      "UsersEstimate": 1061
     },
     {
       "ID": "achAccumulate1B",
@@ -5630,7 +5635,7 @@
       "Name": "Aircraft entrepreneur",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "achAllClimates",
@@ -5686,7 +5691,7 @@
       "Name": "First train station",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 1289
+      "UsersEstimate": 1290
     },
     {
       "ID": "achCannotGetEnough",
@@ -5702,7 +5707,7 @@
       "Name": "City",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "achCollectAllMedals",
@@ -5716,9 +5721,9 @@
       "ID": "achCompleteCampaignA",
       "SetID": "dgl390n",
       "Name": "Old timer",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 457
+      "UsersEstimate": 437
     },
     {
       "ID": "achCompleteCampaignB",
@@ -5750,7 +5755,7 @@
       "Name": "First line",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 1580
+      "UsersEstimate": 1581
     },
     {
       "ID": "achCrowdInATrain",
@@ -5806,7 +5811,7 @@
       "Name": "First cargo item waiting",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1456
     },
     {
       "ID": "achFirstElectricTrainArrived",
@@ -5830,7 +5835,7 @@
       "Name": "First passenger on board",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1351
+      "UsersEstimate": 1352
     },
     {
       "ID": "achFirstPassengerWaiting",
@@ -5838,7 +5843,7 @@
       "Name": "First passenger waiting",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1351
+      "UsersEstimate": 1352
     },
     {
       "ID": "achFirstShipArrived",
@@ -5878,7 +5883,7 @@
       "Name": "Settled down",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "achHq20",
@@ -5942,7 +5947,7 @@
       "Name": "Exemplary student",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "achMuseumLine",
@@ -5998,7 +6003,7 @@
       "Name": "The ugly smell of success",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "achSmellOfSuccessCargo",
@@ -6014,7 +6019,7 @@
       "Name": "High speed",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 852
+      "UsersEstimate": 853
     },
     {
       "ID": "achTopSpeed300",
@@ -6069,15 +6074,15 @@
     {
       "ID": "dgl390n",
       "IsBase": true,
-      "Progressed": 2079,
+      "Progressed": 2080,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-12-20T20:00:28.6251007+00:00",
-  "LastChanged_Achievements": "2023-12-20T22:08:59.5831765+00:00",
+  "LastChanged_Achievements": "2023-12-20T23:08:27.0343821+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:42.3173295+00:00",
-  "LastUpdate_Ratings": "2023-12-20T22:02:12.3857546+00:00",
-  "LastUpdate_Achievements": "2023-12-20T22:08:59.5832492+00:00"
+  "LastUpdate_Ratings": "2023-12-20T23:00:25.285321+00:00",
+  "LastUpdate_Achievements": "2023-12-20T23:08:27.0344379+00:00"
 }

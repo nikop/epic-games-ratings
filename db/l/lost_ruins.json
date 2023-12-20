@@ -3,7 +3,7 @@
   "Name": "Lost Ruins",
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 321,
-  "Ranking_EOS_Completed": 274,
+  "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 571,
+  "EOS_Progressed": 572,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.18,
+  "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:32.3628433+00:00",
@@ -1399,6 +1399,11 @@
       "Time": "2023-12-20T21:10:07.9820912+00:00",
       "NumProgressed": 571,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T23:10:04.3028018+00:00",
+      "NumProgressed": 572,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1426,7 +1431,7 @@
       "Name": "Artifact Collector",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "Assassin",
@@ -1456,7 +1461,7 @@
       "ID": "Cryomancer",
       "SetID": "82505mn",
       "Name": "Cryomancer",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -1496,7 +1501,7 @@
       "ID": "Hardboiled",
       "SetID": "82505mn",
       "Name": "Hardboiled",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -1530,7 +1535,7 @@
       "Name": "Inquisitor",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "Librarian",
@@ -1729,7 +1734,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 571,
+      "Progressed": 572,
       "Completed": 1
     }
   ],
@@ -1737,8 +1742,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-20T22:11:03.0938445+00:00",
+  "LastChanged_Achievements": "2023-12-20T23:10:04.3028016+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:31.304442+00:00",
-  "LastUpdate_Ratings": "2023-12-20T22:01:40.027481+00:00",
-  "LastUpdate_Achievements": "2023-12-20T22:11:03.0938862+00:00"
+  "LastUpdate_Ratings": "2023-12-20T23:00:02.8382714+00:00",
+  "LastUpdate_Achievements": "2023-12-20T23:10:04.302834+00:00"
 }

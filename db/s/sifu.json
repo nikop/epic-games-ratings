@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 140,
   "Ranking_EOS_NewPlayers": 16,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8373,9 +8373,9 @@
       "Count": 434
     }
   ],
-  "EOS_Progressed": 737577,
+  "EOS_Progressed": 737594,
   "EOS_Completed": 12958,
-  "EOS_NewPlayers": 19477,
+  "EOS_NewPlayers": 19482,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.76,
   "EosHistory": [
@@ -30198,6 +30198,11 @@
       "Time": "2023-12-20T22:09:27.8369996+00:00",
       "NumProgressed": 737577,
       "NumCompleted": 12958
+    },
+    {
+      "Time": "2023-12-20T23:08:54.4904769+00:00",
+      "NumProgressed": 737594,
+      "NumCompleted": 12958
     }
   ],
   "TotalAchievements": 60,
@@ -30209,7 +30214,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22127
+      "UsersEstimate": 22128
     },
     {
       "ID": "02_Vengeance_H1",
@@ -30369,7 +30374,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 4425
+      "UsersEstimate": 4426
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -30385,7 +30390,7 @@
       "Name": "Life is your teacher",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22127
+      "UsersEstimate": 22128
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -30688,21 +30693,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 46878,
+      "Progressed": 46895,
       "Completed": 10777
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 737577,
+      "Progressed": 737594,
       "Completed": 12958
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-20T22:03:16.2977333+00:00",
-  "LastChanged_Achievements": "2023-12-20T22:09:27.836999+00:00",
+  "LastChanged_Achievements": "2023-12-20T23:08:54.4904764+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:50.1499922+00:00",
-  "LastUpdate_Ratings": "2023-12-20T22:03:16.2977347+00:00",
-  "LastUpdate_Achievements": "2023-12-20T22:09:27.8371316+00:00"
+  "LastUpdate_Ratings": "2023-12-20T23:02:57.342091+00:00",
+  "LastUpdate_Achievements": "2023-12-20T23:08:54.4906034+00:00"
 }

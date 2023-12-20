@@ -649,7 +649,7 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 4065,
+  "EOS_Progressed": 4066,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
@@ -8819,6 +8819,11 @@
       "Time": "2023-12-20T22:09:46.464995+00:00",
       "NumProgressed": 4065,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-20T23:09:08.0361507+00:00",
+      "NumProgressed": 4066,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8950,7 +8955,7 @@
       "Name": "Gunslinger",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -8982,7 +8987,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -8990,15 +8995,15 @@
       "Name": "Precision Is Key",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
       "SetID": "bm6el81",
       "Name": "Confirming Suspicions",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1707
+      "UsersEstimate": 1667
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -9022,7 +9027,7 @@
       "Name": "My Little Friend",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -9030,7 +9035,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -9086,7 +9091,7 @@
       "Name": "Close Quarters",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -9094,7 +9099,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -9350,7 +9355,7 @@
       "Name": "If You Go Down To The Woods Today",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "REWARD_DLC03_02_FIGHT_ANOTHER_DAY",
@@ -9358,7 +9363,7 @@
       "Name": "Fight Another Day",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "REWARD_DLC03_03_STROLL_IN_THE_WOODS",
@@ -9374,7 +9379,7 @@
       "Name": "Shipbreaker",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "REWARD_DLC04_02_SINK_OR_SWIM",
@@ -9397,13 +9402,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4016,
+      "Progressed": 4017,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4065,
+      "Progressed": 4066,
       "Completed": 11
     }
   ],
@@ -9411,8 +9416,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-20T09:59:10.4485665+00:00",
-  "LastChanged_Achievements": "2023-12-20T22:09:46.4649945+00:00",
+  "LastChanged_Achievements": "2023-12-20T23:09:08.0361503+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:56:53.9169066+00:00",
-  "LastUpdate_Ratings": "2023-12-20T22:00:27.4125368+00:00",
-  "LastUpdate_Achievements": "2023-12-20T22:09:46.4650858+00:00"
+  "LastUpdate_Ratings": "2023-12-20T22:59:13.5619592+00:00",
+  "LastUpdate_Achievements": "2023-12-20T23:09:08.0362258+00:00"
 }

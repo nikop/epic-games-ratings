@@ -2,7 +2,7 @@
   "ID": "962312b846a343f486a7d630d8e4107c",
   "Name": "Sons of Valhalla",
   "ProductSlug": "sons-of-valhalla-97db6e",
-  "Ranking_EOS_Progress": 812,
+  "Ranking_EOS_Progress": 813,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 558,
   "Ranking_EOS_NewCompleters": 158,
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-30T22:06:40.9368554+00:00",
-  "LastChanged_Achievements": "2023-12-20T22:04:56.7989253+00:00",
+  "LastChanged_Achievements": "2023-12-20T23:03:53.7903292+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:21.9575997+00:00",
-  "LastUpdate_Ratings": "2023-12-20T21:58:56.1377656+00:00",
-  "LastUpdate_Achievements": "2023-12-20T22:04:56.798929+00:00"
+  "LastUpdate_Ratings": "2023-12-20T22:58:12.8238318+00:00",
+  "LastUpdate_Achievements": "2023-12-20T23:03:53.7903312+00:00"
 }

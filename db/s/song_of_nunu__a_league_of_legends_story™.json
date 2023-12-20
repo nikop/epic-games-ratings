@@ -3084,9 +3084,9 @@
       "ID": "EV_ACH03",
       "SetID": "6jeac23",
       "Name": "He\u0027s Famous!",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 813
+      "UsersEstimate": 826
     },
     {
       "ID": "EV_ACH04",
@@ -3429,8 +3429,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-20T19:57:10.1945786+00:00",
-  "LastChanged_Achievements": "2023-12-20T22:11:04.9084003+00:00",
+  "LastChanged_Achievements": "2023-12-20T23:10:05.8194765+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:41.6283728+00:00",
-  "LastUpdate_Ratings": "2023-12-20T21:57:23.4676835+00:00",
-  "LastUpdate_Achievements": "2023-12-20T22:11:04.9084508+00:00"
+  "LastUpdate_Ratings": "2023-12-20T22:57:11.2003458+00:00",
+  "LastUpdate_Achievements": "2023-12-20T23:10:05.8195199+00:00"
 }

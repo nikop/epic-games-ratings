@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_NewPlayers": 357,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 679,
+  "EOS_Progressed": 680,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2355,6 +2355,11 @@
       "Time": "2023-12-20T20:09:49.9883435+00:00",
       "NumProgressed": 679,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T23:10:07.2507234+00:00",
+      "NumProgressed": 680,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2478,7 +2483,7 @@
       "Name": "Prospector",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "ACH_COLL_ALL",
@@ -2590,7 +2595,7 @@
       "Name": "Cowardice",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -2614,7 +2619,7 @@
       "Name": "Heroism",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ACH_FIN_CH05",
@@ -2622,7 +2627,7 @@
       "Name": "Consequences",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACH_FIN_CH06",
@@ -2630,7 +2635,7 @@
       "Name": "Opportunities",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ACH_FIN_CH07",
@@ -2646,7 +2651,7 @@
       "Name": "The Difference",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ACH_FIN_CH09",
@@ -2702,7 +2707,7 @@
       "Name": "Helping Hand",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ACH_HIDE_BODIES",
@@ -2750,7 +2755,7 @@
       "Name": "NO LIFE IS WORTH SAVING...",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ACH_KILL_ENV",
@@ -2772,9 +2777,9 @@
       "ID": "ACH_KILL_OFFICER",
       "SetID": "1j25agn",
       "Name": "Eat Lead!",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 312
+      "UsersEstimate": 306
     },
     {
       "ID": "ACH_KILL_SAUSAGE",
@@ -2837,15 +2842,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 679,
+      "Progressed": 680,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-11-28T01:45:15.549368+00:00",
-  "LastChanged_Achievements": "2023-12-20T22:11:06.3809911+00:00",
+  "LastChanged_Achievements": "2023-12-20T23:10:07.2507232+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:42.5352214+00:00",
-  "LastUpdate_Ratings": "2023-12-20T21:58:29.8968566+00:00",
-  "LastUpdate_Achievements": "2023-12-20T22:11:06.381049+00:00"
+  "LastUpdate_Ratings": "2023-12-20T22:57:55.253663+00:00",
+  "LastUpdate_Achievements": "2023-12-20T23:10:07.2507648+00:00"
 }

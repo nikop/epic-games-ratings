@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 80.00% | ~130 |
+| Something important | 81.00% | ~131 |
 | Wanderer | 60.00% | ~97 |
-| A piece of the story | 57.00% | ~92 |
+| A piece of the story | 58.00% | ~94 |
 | It's covered up for a reason | 46.00% | ~75 |
-| Scraps of love | 43.00% | ~70 |
+| Scraps of love | 44.00% | ~71 |
 | Do what you have to | 42.00% | ~68 |
 | The artist’s impression | 42.00% | ~68 |
-| Sign of weakness | 35.00% | ~57 |
-| Refuse to look | 33.00% | ~53 |
+| Sign of weakness | 36.00% | ~58 |
+| Refuse to look | 34.00% | ~55 |
 | Face your fears | 27.00% | ~44 |
 | Finished it | 27.00% | ~44 |
 | Whispers long forgotten | 14.00% | ~23 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 162 (Ranked 418)  
+Progressed: 162 (Ranked 419)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |

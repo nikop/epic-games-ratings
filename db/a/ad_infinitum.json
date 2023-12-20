@@ -4,7 +4,7 @@
   "ProductSlug": "ad-infinitum",
   "Ranking_EOS_Progress": 460,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewPlayers": 293,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 105,
+  "EOS_Progressed": 106,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -535,6 +535,11 @@
       "Time": "2023-12-20T16:04:49.8558238+00:00",
       "NumProgressed": 105,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T23:05:02.722811+00:00",
+      "NumProgressed": 106,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-26T17:06:03.7591+00:00",
@@ -587,7 +592,7 @@
       "Name": "Art critic",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_AWAITINGORDERS",
@@ -601,7 +606,7 @@
       "ID": "ACH_AWAKEN",
       "SetID": "88d7anj",
       "Name": "Awaken",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
       "UsersEstimate": 47
     },
@@ -609,9 +614,9 @@
       "ID": "ACH_CLARITY",
       "SetID": "88d7anj",
       "Name": "Clarity",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_CORRUPTION",
@@ -625,7 +630,7 @@
       "ID": "ACH_DESPAIR",
       "SetID": "88d7anj",
       "Name": "Despair",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -641,9 +646,9 @@
       "ID": "ACH_HOPE",
       "SetID": "88d7anj",
       "Name": "Hope",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_HUNGER",
@@ -683,7 +688,7 @@
       "Name": "Morgengrauen",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_NOONELEFTBEHIND",
@@ -697,7 +702,7 @@
       "ID": "ACH_NOTALONE",
       "SetID": "88d7anj",
       "Name": "Not alone",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 15,
       "UsersEstimate": 64
     },
@@ -705,7 +710,7 @@
       "ID": "ACH_PAIN",
       "SetID": "88d7anj",
       "Name": "Pain",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -723,15 +728,15 @@
       "Name": "Path of Despair",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ACH_PATHOFPAIN",
       "SetID": "88d7anj",
       "Name": "Path of Pain",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_PEACE",
@@ -745,9 +750,9 @@
       "ID": "ACH_RAGE",
       "SetID": "88d7anj",
       "Name": "Rage",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_REFLECTIONS",
@@ -778,14 +783,14 @@
     {
       "ID": "88d7anj",
       "IsBase": true,
-      "Progressed": 105,
+      "Progressed": 106,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-16T22:59:49.7725195+00:00",
   "FirstSeenAchievements": "2023-07-25T11:06:40.9201069+00:00",
-  "LastChanged_Achievements": "2023-12-20T22:06:32.3328197+00:00",
+  "LastChanged_Achievements": "2023-12-20T23:05:02.7228103+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:55.2807884+00:00",
-  "LastUpdate_Ratings": "2023-12-20T21:57:51.6715569+00:00",
-  "LastUpdate_Achievements": "2023-12-20T22:06:32.3328462+00:00"
+  "LastUpdate_Ratings": "2023-12-20T22:57:29.9961509+00:00",
+  "LastUpdate_Achievements": "2023-12-20T23:05:02.722837+00:00"
 }

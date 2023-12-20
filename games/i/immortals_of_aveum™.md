@@ -5,18 +5,18 @@ Rating: 4.22 (Ranked 917)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~1,236 |
-| Battlefields Have Memories | 79.00% | ~1,123 |
-| Enlisted | 71.00% | ~1,009 |
-| Maybe Engage a Little | 65.00% | ~924 |
-| No More Names | 47.00% | ~668 |
-| Initiate | 32.00% | ~455 |
-| Thrada-Kul | 29.00% | ~412 |
+| Unforeseen | 87.00% | ~1,238 |
+| Battlefields Have Memories | 79.00% | ~1,124 |
+| Enlisted | 72.00% | ~1,025 |
+| Maybe Engage a Little | 66.00% | ~939 |
+| No More Names | 47.00% | ~669 |
+| Initiate | 33.00% | ~470 |
+| Thrada-Kul | 29.00% | ~413 |
+| Gravity-Challenged Rocks | 23.00% | ~327 |
 | Socialite | 22.00% | ~313 |
-| Gravity-Challenged Rocks | 22.00% | ~313 |
 | Soldier | 19.00% | ~270 |
 | All the Major Food Groups | 18.00% | ~256 |
-| Beggars Would Ride | 16.00% | ~227 |
+| Beggars Would Ride | 16.00% | ~228 |
 | Control is an Illusion | 14.00% | ~199 |
 | The Means to Save It | 12.00% | ~171 |
 | Resilience to Sin | 10.00% | ~142 |
@@ -25,7 +25,7 @@ Rating: 4.22 (Ranked 917)
 | Periapt Alizarin | 9.00% | ~128 |
 | A Perfect Cycle | 8.00% | ~114 |
 | Recruit | 8.00% | ~114 |
-| Armsman | 7.00% | ~99 |
+| Armsman | 7.00% | ~100 |
 | Lights Army | 5.00% | ~71 |
 | Periapt Cerulean | 5.00% | ~71 |
 | Good Boy | 5.00% | ~71 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 917)
 | Family Business | 0.20% | ~3 |
 | Fowl Play | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,421 (Ranked 254)  
+Progressed: 1,423 (Ranked 254)  
 Completed: 2 (0.14%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 2 (0.14%) (Ranked 289)
 | 2023-12-17 | 1,065 | 2 |
 | 2023-12-18 | 1,195 | 2 |
 | 2023-12-19 | 1,301 | 2 |
-| 2023-12-20 | 1,421 | 2 |
+| 2023-12-20 | 1,423 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,12 +2,12 @@
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
-  "Ranking_Rating": 1018,
+  "Ranking_Rating": 1019,
   "Ranking_Popularity": 75,
   "Ranking_PopularitySum": 52,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewPlayers": 92,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -7669,9 +7669,9 @@
       "Count": 3800
     }
   ],
-  "EOS_Progressed": 146575,
+  "EOS_Progressed": 146580,
   "EOS_Completed": 325,
-  "EOS_NewPlayers": 1496,
+  "EOS_NewPlayers": 1487,
   "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -33254,6 +33254,11 @@
       "Time": "2023-12-20T22:05:01.4264404+00:00",
       "NumProgressed": 146575,
       "NumCompleted": 325
+    },
+    {
+      "Time": "2023-12-20T23:03:57.3912178+00:00",
+      "NumProgressed": 146580,
+      "NumCompleted": 325
     }
   ],
   "TotalAchievements": 112,
@@ -33529,7 +33534,7 @@
       "Name": "Disintermediation",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8794
+      "UsersEstimate": 8795
     },
     {
       "ID": "craft02",
@@ -33641,7 +33646,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8794
+      "UsersEstimate": 8795
     },
     {
       "ID": "expansion02",
@@ -33737,7 +33742,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10260
+      "UsersEstimate": 10261
     },
     {
       "ID": "gold02",
@@ -34041,7 +34046,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8794
+      "UsersEstimate": 8795
     },
     {
       "ID": "sell02",
@@ -34160,15 +34165,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 146575,
+      "Progressed": 146580,
       "Completed": 325
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-20T22:03:30.2300466+00:00",
-  "LastChanged_Achievements": "2023-12-20T22:05:01.4264402+00:00",
+  "LastChanged_Achievements": "2023-12-20T23:03:57.3912173+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.001195+00:00",
-  "LastUpdate_Ratings": "2023-12-20T22:03:30.2300476+00:00",
-  "LastUpdate_Achievements": "2023-12-20T22:05:01.4267106+00:00"
+  "LastUpdate_Ratings": "2023-12-20T23:03:06.8934202+00:00",
+  "LastUpdate_Achievements": "2023-12-20T23:03:57.391423+00:00"
 }
