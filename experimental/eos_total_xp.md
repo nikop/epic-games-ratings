@@ -108,6 +108,7 @@
 | [Arcade Paradise](../games/a/arcade_paradise.md) | 54 | 1,000 |
 | [Arcadegeddon](../games/a/arcadegeddon.md) | 50 | 1,000 |
 | [Are You Smarter Than A 5th Grader](../games/a/are_you_smarter_than_a_5th_grader.md) | 19 | 1,000 |
+| [Argol - Kronoss' Castle](../games/f/f0bf1f8d40074c41bf35e4fc88aa0ea5.md) | 16 | 1,000 |
 | [Arkanoid - Eternal Battle](../games/a/arkanoid_-_eternal_battle.md) | 23 | 1,000 |
 | [Arms Race 2](../games/d/d3b4722b35674be186318c5f5e14b13e.md) | 17 | 1,000 |
 | [Aron's Adventure: Magic Reborn](../games/9/9b5a9569674e4d08afe18dc20a697e0e.md) | 31 | 1,000 |

@@ -690,6 +690,7 @@
 | [The Case of the Golden Idol](../games/t/the_case_of_the_golden_idol.md) | 17 | 1,440 |
 | [Who Pressed Mute on Uncle Marcus?](../games/w/who_pressed_mute_on_uncle_marcus.md) | 17 | 1,000 |
 | [Alex Kidd in Miracle World DX](../games/a/alex_kidd_in_miracle_world_dx.md) | 16 | 1,000 |
+| [Argol - Kronoss' Castle](../games/f/f0bf1f8d40074c41bf35e4fc88aa0ea5.md) | 16 | 1,000 |
 | [Asteroids: Recharged](../games/a/asteroids__recharged.md) | 16 | 1,000 |
 | [Centipede: Recharged](../games/c/centipede__recharged.md) | 16 | 1,000 |
 | [Cursed Castilla (Maldita Castilla EX)](../games/c/cursed_castilla_(maldita_castilla_ex).md) | 16 | 1,000 |

@@ -16,7 +16,7 @@
 | [Active and Operational](games/a/active_and_operational.md) | 2023-12-31 | - |  | - | - |
 | [Alaskan Road Truckers](games/a/alaskan_truck_simulator.md) | 2023-12-31 | - |  | - | - |
 | [Anito Legends](games/5/5a70a74abf1044db84a816cb0a401566.md) | 2023-12-31 | - |  | - | - |
-| [Argol - Kronoss' Castle](games/f/f0bf1f8d40074c41bf35e4fc88aa0ea5.md) | 2023-12-31 | - |  | - | - |
+| [Argol - Kronoss' Castle](games/f/f0bf1f8d40074c41bf35e4fc88aa0ea5.md) | 2023-12-31 | 16 (1,000 XP) | 0 | - | - |
 | [Assassin: The First List](games/a/assassin_the_first_list.md) | 2023-12-31 | - |  | - | - |
 | [Beach Invasion 1945 - Pacific](games/1/10290198c6dc48d5aa24d45bca39215a.md) | 2023-12-31 | - |  | - | - |
 | [Bogdan's Cross](games/b/bogdan's_cross.md) | 2023-12-31 | - |  | - | - |
