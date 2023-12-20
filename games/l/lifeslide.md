@@ -7,15 +7,15 @@
 | All Starts Here | 96.00% | ~322 |
 | Road to Improvement | 73.00% | ~245 |
 | Wonderful World | 59.00% | ~198 |
-| Second Wind | 57.00% | ~191 |
+| Second Wind | 58.00% | ~194 |
 | Chain of Events | 57.00% | ~191 |
-| Change of Heart | 55.00% | ~184 |
+| Change of Heart | 56.00% | ~188 |
+| Turbulence | 37.00% | ~124 |
 | Endless Possibilities | 37.00% | ~124 |
-| Turbulence | 36.00% | ~121 |
 | Finding The Way | 24.00% | ~80 |
 | Tangibility | 20.00% | ~67 |
+| On The Right Path | 19.00% | ~64 |
 | Around The World | 19.00% | ~64 |
-| On The Right Path | 18.00% | ~60 |
 | Bigger Picture | 16.00% | ~54 |
 | Sunset | 13.00% | ~44 |
 | Spring Air | 12.00% | ~40 |

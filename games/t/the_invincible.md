@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Camp | 65.00% | ~537 |
-| The Teleprobe | 51.00% | ~421 |
+| The Teleprobe | 52.00% | ~430 |
 | The City | 46.00% | ~380 |
 | The field base | 42.00% | ~347 |
 | Survivors | 35.00% | ~289 |
@@ -24,8 +24,8 @@
 | I remember everything! | 13.00% | ~107 |
 | Another giant | 11.00% | ~91 |
 | Violent solution | 9.00% | ~74 |
+| Innate curiosity | 8.00% | ~66 |
 | I leave no man behind | 7.00% | ~58 |
-| Innate curiosity | 7.00% | ~58 |
 | Strong objection | 6.00% | ~50 |
 | Ubiquitous holes | 5.00% | ~41 |
 | The Invincible | 5.00% | ~41 |

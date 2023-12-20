@@ -2,7 +2,7 @@
   "ID": "d250bdf072934b70ab080c6fcee77734",
   "Name": "Iratus: Lord of the Dead",
   "ProductSlug": "iratus-d0e5ba",
-  "Ranking_Rating": 780,
+  "Ranking_Rating": 779,
   "Ranking_Popularity": 111,
   "Ranking_PopularitySum": 153,
   "Ranking_EOS_Progress": 118,
@@ -2425,9 +2425,9 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 47363,
+  "EOS_Progressed": 47364,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 495,
+  "EOS_NewPlayers": 493,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -28935,6 +28935,11 @@
       "Time": "2023-12-20T15:05:03.9166242+00:00",
       "NumProgressed": 47363,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-12-20T16:04:53.4442623+00:00",
+      "NumProgressed": 47364,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 75,
@@ -28954,7 +28959,7 @@
       "Name": "Unholy Bones",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 10893
+      "UsersEstimate": 10894
     },
     {
       "ID": "achievements_11",
@@ -29026,7 +29031,7 @@
       "Name": "Lord of Fire",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 10893
+      "UsersEstimate": 10894
     },
     {
       "ID": "achievements_21",
@@ -29090,7 +29095,7 @@
       "Name": "Mountain King - III",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 7104
+      "UsersEstimate": 7105
     },
     {
       "ID": "achievements_29",
@@ -29130,7 +29135,7 @@
       "Name": "Cannon Fodder - I",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 16103
+      "UsersEstimate": 16104
     },
     {
       "ID": "achievements_33",
@@ -29138,7 +29143,7 @@
       "Name": "Cannon Fodder - II",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 13735
+      "UsersEstimate": 13736
     },
     {
       "ID": "achievements_34",
@@ -29194,7 +29199,7 @@
       "Name": "Path of the Necromancer",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 30786
+      "UsersEstimate": 30787
     },
     {
       "ID": "achievements_40",
@@ -29234,7 +29239,7 @@
       "Name": "Rare Warrior",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 7104
+      "UsersEstimate": 7105
     },
     {
       "ID": "achievements_45",
@@ -29298,7 +29303,7 @@
       "Name": "Prepared Necromancer",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 18945
+      "UsersEstimate": 18946
     },
     {
       "ID": "achievements_52",
@@ -29306,7 +29311,7 @@
       "Name": "Transmutation",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 19892
+      "UsersEstimate": 19893
     },
     {
       "ID": "achievements_53",
@@ -29322,7 +29327,7 @@
       "Name": "Distillation",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 20366
+      "UsersEstimate": 20367
     },
     {
       "ID": "achievements_55",
@@ -29370,7 +29375,7 @@
       "Name": "Soul of Lies",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 16103
+      "UsersEstimate": 16104
     },
     {
       "ID": "achievements_61",
@@ -29386,7 +29391,7 @@
       "Name": "Revealed Secrets - I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 12314
+      "UsersEstimate": 12315
     },
     {
       "ID": "achievements_63",
@@ -29522,7 +29527,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 34575
+      "UsersEstimate": 34576
     },
     {
       "ID": "achievements_8",
@@ -29530,7 +29535,7 @@
       "Name": "Shadow Between Worlds",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 13735
+      "UsersEstimate": 13736
     },
     {
       "ID": "achievements_9",
@@ -29545,15 +29550,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 47363,
+      "Progressed": 47364,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-12-17T08:59:32.780069+00:00",
-  "LastChanged_Achievements": "2023-12-20T15:05:03.9166237+00:00",
+  "LastChanged_Achievements": "2023-12-20T16:04:53.4442621+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:51.7463976+00:00",
-  "LastUpdate_Ratings": "2023-12-20T15:02:44.3602551+00:00",
-  "LastUpdate_Achievements": "2023-12-20T15:05:03.9167833+00:00"
+  "LastUpdate_Ratings": "2023-12-20T16:00:28.4893971+00:00",
+  "LastUpdate_Achievements": "2023-12-20T16:04:53.4444353+00:00"
 }

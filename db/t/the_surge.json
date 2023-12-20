@@ -376,9 +376,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4997,
+  "EOS_Progressed": 4998,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3796,6 +3796,11 @@
       "Time": "2023-12-20T15:06:22.5255826+00:00",
       "NumProgressed": 4997,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-20T16:06:15.312089+00:00",
+      "NumProgressed": 4998,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -3815,7 +3820,7 @@
       "Name": "Firebug",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 999
+      "UsersEstimate": 1000
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -3855,7 +3860,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4197
+      "UsersEstimate": 4198
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -3863,7 +3868,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4697
+      "UsersEstimate": 4698
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -4055,7 +4060,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 2748
+      "UsersEstimate": 2749
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -4079,7 +4084,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1149
+      "UsersEstimate": 1150
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -4095,7 +4100,7 @@
       "Name": "I Choose You",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "ID_ACHIEV_39",
@@ -4127,7 +4132,7 @@
       "Name": "Nothing to Lose",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 899
+      "UsersEstimate": 900
     },
     {
       "ID": "ID_ACHIEV_43",
@@ -4143,7 +4148,7 @@
       "Name": "GOLIATH",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1049
+      "UsersEstimate": 1050
     },
     {
       "ID": "ID_ACHIEV_45",
@@ -4342,15 +4347,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4997,
+      "Progressed": 4998,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-11-03T01:46:55.8375725+00:00",
-  "LastChanged_Achievements": "2023-12-20T15:06:22.5255819+00:00",
+  "LastChanged_Achievements": "2023-12-20T16:06:15.3120887+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.7369287+00:00",
-  "LastUpdate_Ratings": "2023-12-20T14:59:14.5170975+00:00",
-  "LastUpdate_Achievements": "2023-12-20T15:06:22.5256532+00:00"
+  "LastUpdate_Ratings": "2023-12-20T15:59:09.0279347+00:00",
+  "LastUpdate_Achievements": "2023-12-20T16:06:15.3121484+00:00"
 }

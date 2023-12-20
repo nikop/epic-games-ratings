@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1677,10 +1677,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 531,
       "NumberOfAwardsMax": 89
+    },
+    {
+      "Time": "2023-12-20T16:02:59.6881972+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 532,
+      "NumberOfAwardsMax": 89
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 531,
+  "NumberOfAwards": 532,
   "NumberOfAwardsMax": 89,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -1694,7 +1700,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 80
+      "Count": 81
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1727,9 +1733,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 18224,
+  "EOS_Progressed": 18231,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1694,
+  "EOS_NewPlayers": 1701,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -10447,6 +10453,11 @@
       "Time": "2023-12-20T15:09:12.6306466+00:00",
       "NumProgressed": 18224,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-20T16:09:15.5229199+00:00",
+      "NumProgressed": 18231,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -10474,7 +10485,7 @@
       "Name": "Giving Back",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -10482,7 +10493,7 @@
       "Name": "You Need a Gun",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "DISARM_ENEMY",
@@ -10490,7 +10501,7 @@
       "Name": "Flesh Wound",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 2551
+      "UsersEstimate": 2552
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -10522,7 +10533,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -10562,7 +10573,7 @@
       "Name": "Get a Grip",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2369
+      "UsersEstimate": 2370
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -10594,15 +10605,15 @@
       "Name": "Terminated",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Workplace Hazard",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1641
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -10618,7 +10629,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1822
+      "UsersEstimate": 1823
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -10626,7 +10637,7 @@
       "Name": "Reforged",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1822
+      "UsersEstimate": 1823
     },
     {
       "ID": "PRINT_WEAPON",
@@ -10634,7 +10645,7 @@
       "Name": "Paper Jams",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2369
+      "UsersEstimate": 2370
     },
     {
       "ID": "SHARE_PHOTO",
@@ -10650,7 +10661,7 @@
       "Name": "The Outer Way",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2551
+      "UsersEstimate": 2552
     },
     {
       "ID": "STORY_ESCAPE",
@@ -10682,7 +10693,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -10690,7 +10701,7 @@
       "Name": "Desperate Times",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2187
+      "UsersEstimate": 2188
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -10706,7 +10717,7 @@
       "Name": "Full Circle",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "STORY_TUNNELS",
@@ -10714,7 +10725,7 @@
       "Name": "Power Up",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "DISMEMBER_100",
@@ -10728,9 +10739,9 @@
       "ID": "FINISH_RIOT_MODE",
       "SetID": "6j5ggkc",
       "Name": "Instigator",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 49
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -10833,22 +10844,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 18224,
+      "Progressed": 18231,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 6150,
+      "Progressed": 6157,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-12-20T15:03:15.4505725+00:00",
-  "LastChanged_Achievements": "2023-12-20T15:09:12.6306461+00:00",
+  "LastChanged": "2023-12-20T16:02:59.6881969+00:00",
+  "LastChanged_Achievements": "2023-12-20T16:09:15.5229196+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.4893565+00:00",
-  "LastUpdate_Ratings": "2023-12-20T15:03:15.450573+00:00",
-  "LastUpdate_Achievements": "2023-12-20T15:09:12.6307541+00:00"
+  "LastUpdate_Ratings": "2023-12-20T16:02:59.6881976+00:00",
+  "LastUpdate_Achievements": "2023-12-20T16:09:15.5230222+00:00"
 }

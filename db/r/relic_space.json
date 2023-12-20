@@ -4,7 +4,7 @@
   "ProductSlug": "relic-space-110bac",
   "Ranking_EOS_Progress": 810,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 559,
+  "Ranking_EOS_NewPlayers": 558,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.382689+00:00",
-  "LastUpdate_Ratings": "2023-12-20T15:03:15.0652721+00:00",
-  "LastUpdate_Achievements": "2023-12-20T15:08:55.0337664+00:00"
+  "LastUpdate_Ratings": "2023-12-20T16:02:59.2087616+00:00",
+  "LastUpdate_Achievements": "2023-12-20T16:08:57.5175473+00:00"
 }

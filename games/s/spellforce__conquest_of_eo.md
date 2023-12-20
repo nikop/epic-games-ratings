@@ -28,10 +28,10 @@
 | Friend of Alluvyan | 15.00% | ~10 |
 | Friend of Connach | 15.00% | ~10 |
 | Break Free | 15.00% | ~10 |
+| Philo's Tale | 14.00% | ~9 |
 | Stormwatch Faste | 14.00% | ~9 |
 | Friend of Gillyshire | 14.00% | ~9 |
 | Friend of Bastion | 14.00% | ~9 |
-| Philo's Tale | 12.00% | ~8 |
 | Friend of Orgash | 12.00% | ~8 |
 | Friend of Silver Drift Hollow | 11.00% | ~7 |
 | Friend of Windholme | 11.00% | ~7 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65 (Ranked 506)  
+Progressed: 65 (Ranked 507)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |

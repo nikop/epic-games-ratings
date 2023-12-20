@@ -2,9 +2,9 @@
   "ID": "2f85e4b21b8b459fa78a34e59ccac2a2",
   "Name": "KeyWe",
   "ProductSlug": "keywe-c3a70e",
-  "Ranking_EOS_Progress": 488,
+  "Ranking_EOS_Progress": 487,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-04-28T09:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 81,
+  "EOS_Progressed": 82,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -375,6 +375,11 @@
       "Time": "2023-12-19T14:03:43.0539063+00:00",
       "NumProgressed": 81,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T16:04:17.7397806+00:00",
+      "NumProgressed": 82,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:04:51.255408+00:00",
@@ -433,7 +438,7 @@
       "ID": "beatOwnScore",
       "SetID": "cfe0fhi",
       "Name": "Practice Makes Postmasters",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 41
     },
@@ -459,7 +464,7 @@
       "Name": "You\u0027re Hired",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "completeSummer",
@@ -473,7 +478,7 @@
       "ID": "completeTheFirstWeek",
       "SetID": "cfe0fhi",
       "Name": "Learn the Ropes",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 5,
       "UsersEstimate": 61
     },
@@ -481,7 +486,7 @@
       "ID": "findFirstCollectible",
       "SetID": "cfe0fhi",
       "Name": "A Startling Discovery",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
       "UsersEstimate": 33
     },
@@ -546,13 +551,13 @@
     {
       "ID": "cfe0fhi",
       "IsBase": true,
-      "Progressed": 81,
+      "Progressed": 82,
       "Completed": 0
     },
     {
       "ID": "cfj6lld",
       "IsBase": false,
-      "Progressed": 81,
+      "Progressed": 82,
       "Completed": 0
     }
   ],
@@ -560,8 +565,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:23.8514145+00:00",
   "LastChanged": "2023-03-31T05:58:13.8503402+00:00",
-  "LastChanged_Achievements": "2023-12-20T15:04:29.9568762+00:00",
+  "LastChanged_Achievements": "2023-12-20T16:04:17.7397804+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:06.0598499+00:00",
-  "LastUpdate_Ratings": "2023-12-20T14:59:34.3977963+00:00",
-  "LastUpdate_Achievements": "2023-12-20T15:04:29.9568878+00:00"
+  "LastUpdate_Ratings": "2023-12-20T15:59:29.2031858+00:00",
+  "LastUpdate_Achievements": "2023-12-20T16:04:17.7397918+00:00"
 }

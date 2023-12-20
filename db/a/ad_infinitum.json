@@ -2,9 +2,9 @@
   "ID": "9862908ffff747abb145c54ded5164d0",
   "Name": "Ad Infinitum",
   "ProductSlug": "ad-infinitum",
-  "Ranking_EOS_Progress": 461,
+  "Ranking_EOS_Progress": 458,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewPlayers": 293,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 103,
+  "EOS_Progressed": 105,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -530,6 +530,11 @@
       "Time": "2023-12-20T12:05:58.0962959+00:00",
       "NumProgressed": 103,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T16:04:49.8558238+00:00",
+      "NumProgressed": 105,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-26T17:06:03.7591+00:00",
@@ -580,15 +585,15 @@
       "ID": "ACH_ARTCRITIC",
       "SetID": "88d7anj",
       "Name": "Art critic",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_AWAITINGORDERS",
       "SetID": "88d7anj",
       "Name": "Awaiting orders",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 30,
       "UsersEstimate": 12
     },
@@ -596,7 +601,7 @@
       "ID": "ACH_AWAKEN",
       "SetID": "88d7anj",
       "Name": "Awaken",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
       "UsersEstimate": 47
     },
@@ -628,7 +633,7 @@
       "ID": "ACH_HEALTH",
       "SetID": "88d7anj",
       "Name": "Health",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 30,
       "UsersEstimate": 15
     },
@@ -644,7 +649,7 @@
       "ID": "ACH_HUNGER",
       "SetID": "88d7anj",
       "Name": "Hunger",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 30,
       "UsersEstimate": 57
     },
@@ -652,7 +657,7 @@
       "ID": "ACH_JIGSAW",
       "SetID": "88d7anj",
       "Name": "Jigsaw",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 80,
       "UsersEstimate": 12
     },
@@ -676,7 +681,7 @@
       "ID": "ACH_MORGENGRAUEN",
       "SetID": "88d7anj",
       "Name": "Morgengrauen",
-      "Percentage": 83,
+      "Percentage": 81,
       "XP": 15,
       "UsersEstimate": 85
     },
@@ -692,7 +697,7 @@
       "ID": "ACH_NOTALONE",
       "SetID": "88d7anj",
       "Name": "Not alone",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 15,
       "UsersEstimate": 63
     },
@@ -708,7 +713,7 @@
       "ID": "ACH_PATHOFCORRUPTION",
       "SetID": "88d7anj",
       "Name": "Path of Corruption",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
       "UsersEstimate": 36
     },
@@ -716,7 +721,7 @@
       "ID": "ACH_PATHOFDESPAIR",
       "SetID": "88d7anj",
       "Name": "Path of Despair",
-      "Percentage": 85,
+      "Percentage": 84,
       "XP": 15,
       "UsersEstimate": 88
     },
@@ -732,7 +737,7 @@
       "ID": "ACH_PEACE",
       "SetID": "88d7anj",
       "Name": "Peace",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 100,
       "UsersEstimate": 12
     },
@@ -773,14 +778,14 @@
     {
       "ID": "88d7anj",
       "IsBase": true,
-      "Progressed": 103,
+      "Progressed": 105,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-16T22:59:49.7725195+00:00",
   "FirstSeenAchievements": "2023-07-25T11:06:40.9201069+00:00",
-  "LastChanged_Achievements": "2023-12-20T15:05:00.312922+00:00",
+  "LastChanged_Achievements": "2023-12-20T16:04:49.8558237+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:55.2807884+00:00",
-  "LastUpdate_Ratings": "2023-12-20T14:57:26.3084137+00:00",
-  "LastUpdate_Achievements": "2023-12-20T15:05:00.3129439+00:00"
+  "LastUpdate_Ratings": "2023-12-20T15:57:22.1658263+00:00",
+  "LastUpdate_Achievements": "2023-12-20T16:04:49.8558376+00:00"
 }

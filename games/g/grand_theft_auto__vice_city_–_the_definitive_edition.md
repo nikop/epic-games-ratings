@@ -5,17 +5,17 @@ Rating: 4.52 (Ranked 567)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~6,004 |
-| Greasy Palms | 42.00% | ~5,482 |
-| South American Connection | 25.00% | ~3,263 |
-| Life of the Party | 20.00% | ~2,611 |
-| Tommy Two-Wheels | 15.00% | ~1,958 |
-| Big Heat from Little Havana | 14.00% | ~1,827 |
-| Chauffeur | 14.00% | ~1,827 |
+| Legal Counsel | 46.00% | ~6,007 |
+| Greasy Palms | 42.00% | ~5,484 |
+| South American Connection | 25.00% | ~3,264 |
+| Life of the Party | 20.00% | ~2,612 |
+| Tommy Two-Wheels | 15.00% | ~1,959 |
+| Big Heat from Little Havana | 14.00% | ~1,828 |
+| Chauffeur | 14.00% | ~1,828 |
 | Salutations My Little Friend | 11.00% | ~1,436 |
-| Iron-y | 10.00% | ~1,305 |
+| Iron-y | 10.00% | ~1,306 |
 | Gun for Hire | 9.00% | ~1,175 |
-| Mischief Managed | 8.00% | ~1,044 |
+| Mischief Managed | 8.00% | ~1,045 |
 | Vice City Mogul | 7.00% | ~914 |
 | Catch Me if You Can | 6.00% | ~783 |
 | Bloodstained Hands | 6.00% | ~783 |
@@ -37,10 +37,10 @@ Rating: 4.52 (Ranked 567)
 | Keepie-Uppy Okie Dokie | 1.00% | ~131 |
 | I'm Famous! | 1.00% | ~131 |
 | Daredevil | 1.00% | ~131 |
-| Done it All | 0.90% | ~117 |
+| Done it All | 0.90% | ~118 |
 | Kingpin | 0.50% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,053 (Ranked 165)  
+Progressed: 13,058 (Ranked 165)  
 Completed: 71 (0.54%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,14 +284,14 @@ Completed: 71 (0.54%) (Ranked 209)
 | 2023-12-17 | 12,602 | 68 |
 | 2023-12-18 | 12,767 | 70 |
 | 2023-12-19 | 12,956 | 70 |
-| 2023-12-20 | 13,053 | 71 |
+| 2023-12-20 | 13,058 | 71 |
 ## Awards
-Max (Great Boss Battles): 130  (Ranked 338)  
-Sum: 130 (Ranked 440)  
+Max (Great Boss Battles): 131  (Ranked 336)  
+Sum: 131 (Ranked 438)  
 Diff (max vs sum): -102  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 130 |
+| This game has Great Boss Battles | 131 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -445,4 +445,4 @@ Diff (max vs sum): -102
 | 2023-12-15 | 4.53 | 126 | 126 |
 | 2023-12-16 | 4.53 | 127 | 127 |
 | 2023-12-18 | 4.53 | 130 | 130 |
-| 2023-12-20 | 4.52 | 130 | 130 |
+| 2023-12-20 | 4.52 | 131 | 131 |

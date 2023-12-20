@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2018-03-07T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 189,
+  "EOS_Progressed": 190,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -624,6 +624,11 @@
       "Time": "2023-12-20T14:05:24.9567062+00:00",
       "NumProgressed": 189,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T16:05:06.5795474+00:00",
+      "NumProgressed": 190,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -636,7 +641,7 @@
       "Name": "Good Morning",
       "Percentage": 14,
       "XP": 145,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ach2",
@@ -652,7 +657,7 @@
       "Name": "Blue Bean",
       "Percentage": 5,
       "XP": 145,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ach4",
@@ -691,14 +696,14 @@
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 189,
+      "Progressed": 190,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2023-12-20T15:05:16.7690684+00:00",
+  "LastChanged_Achievements": "2023-12-20T16:05:06.5795472+00:00",
   "LastUpdate_AppInfo": "2023-12-13T18:57:12.2683005+00:00",
-  "LastUpdate_Ratings": "2023-12-20T14:59:22.3941024+00:00",
-  "LastUpdate_Achievements": "2023-12-20T15:05:16.7690769+00:00"
+  "LastUpdate_Ratings": "2023-12-20T15:59:16.9919169+00:00",
+  "LastUpdate_Achievements": "2023-12-20T16:05:06.5795553+00:00"
 }

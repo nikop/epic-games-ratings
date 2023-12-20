@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marc Allard | 73.00% | ~38 |
-| Little ideas | 67.00% | ~35 |
-| The Ship | 62.00% | ~32 |
-| Seeking the truth | 54.00% | ~28 |
-| An old friend | 52.00% | ~27 |
-| The Gala | 50.00% | ~26 |
-| A curious gathering | 50.00% | ~26 |
-| Little grey cells | 48.00% | ~25 |
-| Impossible is possible | 48.00% | ~25 |
-| The Missing Magdalene | 48.00% | ~25 |
-| Arthur Hastings | 48.00% | ~25 |
-| Everything matters | 44.00% | ~23 |
+| Marc Allard | 74.00% | ~39 |
+| Little ideas | 68.00% | ~36 |
+| The Ship | 62.00% | ~33 |
+| Seeking the truth | 53.00% | ~28 |
+| An old friend | 51.00% | ~27 |
+| The Gala | 49.00% | ~26 |
+| A curious gathering | 49.00% | ~26 |
+| Little grey cells | 47.00% | ~25 |
+| Impossible is possible | 47.00% | ~25 |
+| The Missing Magdalene | 47.00% | ~25 |
+| Arthur Hastings | 47.00% | ~25 |
+| Everything matters | 43.00% | ~23 |
 | An expert mediator | 42.00% | ~22 |
 | DI Hardwicke | 42.00% | ~22 |
 | Order and method | 38.00% | ~20 |
-| Betty Allen | 37.00% | ~19 |
-| The Investigation Begins | 37.00% | ~19 |
-| Ms. Camilla B. Culsham | 33.00% | ~17 |
-| Irene Court-Smyth | 33.00% | ~17 |
-| An odd series of events | 31.00% | ~16 |
-| The Apartment | 31.00% | ~16 |
-| Nathaniel Dryden | 29.00% | ~15 |
-| Well-acquainted | 27.00% | ~14 |
-| A rude awakening | 27.00% | ~14 |
-| Anastasia Babanin | 27.00% | ~14 |
-| Zakariya Demir | 27.00% | ~14 |
-| Bartholomew | 27.00% | ~14 |
-| The Scheme | 27.00% | ~14 |
+| Betty Allen | 36.00% | ~19 |
+| The Investigation Begins | 36.00% | ~19 |
+| Ms. Camilla B. Culsham | 32.00% | ~17 |
+| Irene Court-Smyth | 32.00% | ~17 |
+| An odd series of events | 30.00% | ~16 |
+| The Apartment | 30.00% | ~16 |
+| Nathaniel Dryden | 28.00% | ~15 |
+| Well-acquainted | 26.00% | ~14 |
+| A rude awakening | 26.00% | ~14 |
+| Anastasia Babanin | 26.00% | ~14 |
+| Zakariya Demir | 26.00% | ~14 |
+| Bartholomew | 26.00% | ~14 |
+| The Scheme | 26.00% | ~14 |
 | Truth from within | 25.00% | ~13 |
 | A curious phrase | 21.00% | ~11 |
 | Evelyn Lakshmi Warbeck | 21.00% | ~11 |
@@ -51,8 +51,8 @@
 | A true performance | 13.00% | ~7 |
 | Perkins | 8.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52 (Ranked 524)  
-Completed: 2 (3.85%) (Ranked 96)  
+Progressed: 53 (Ranked 520)  
+Completed: 2 (3.77%) (Ranked 96)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -96,4 +96,4 @@ Completed: 2 (3.85%) (Ranked 96)
 | 2023-12-17 | 46 | 1 |
 | 2023-12-18 | 47 | 2 |
 | 2023-12-19 | 51 | 2 |
-| 2023-12-20 | 52 | 2 |
+| 2023-12-20 | 53 | 2 |

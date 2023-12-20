@@ -257,9 +257,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8137,
+  "EOS_Progressed": 8139,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -9512,6 +9512,11 @@
       "Time": "2023-12-20T15:05:26.4376657+00:00",
       "NumProgressed": 8137,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-20T16:05:17.1841249+00:00",
+      "NumProgressed": 8139,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -9537,9 +9542,9 @@
       "ID": "AUDIOPHILE",
       "SetID": "3cck1g6",
       "Name": "Audiophile",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 570
+      "UsersEstimate": 651
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -9571,7 +9576,7 @@
       "Name": "Energy Saver",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1383
+      "UsersEstimate": 1384
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -9643,7 +9648,7 @@
       "Name": "Live Wire",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "SHREDDER",
@@ -9690,7 +9695,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 8137,
+      "Progressed": 8139,
       "Completed": 34
     }
   ],
@@ -9698,8 +9703,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-12-17T08:57:44.8415466+00:00",
-  "LastChanged_Achievements": "2023-12-20T15:05:26.4376652+00:00",
+  "LastChanged_Achievements": "2023-12-20T16:05:17.1841245+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:46.5620941+00:00",
-  "LastUpdate_Ratings": "2023-12-20T14:58:52.0809768+00:00",
-  "LastUpdate_Achievements": "2023-12-20T15:05:26.437711+00:00"
+  "LastUpdate_Ratings": "2023-12-20T15:58:47.139336+00:00",
+  "LastUpdate_Achievements": "2023-12-20T16:05:17.1841834+00:00"
 }

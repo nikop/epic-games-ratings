@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -311,9 +311,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3595,
+  "EOS_Progressed": 3597,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6736,6 +6736,11 @@
       "Time": "2023-12-20T15:03:53.0618161+00:00",
       "NumProgressed": 3595,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T16:03:40.3946542+00:00",
+      "NumProgressed": 3597,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -6827,7 +6832,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "ACH_BASE_21",
@@ -6835,7 +6840,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "ACH_BASE_22",
@@ -6883,7 +6888,7 @@
       "Name": "A Hunk of Junk",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "ACH_BASE_28",
@@ -6915,7 +6920,7 @@
       "Name": "Exceeding Capacity",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "ACH_BASE_31",
@@ -6939,7 +6944,7 @@
       "Name": "Fully Recycled",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "ACH_BASE_34",
@@ -6955,7 +6960,7 @@
       "Name": "Breaking Protocol",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "ACH_BASE_36",
@@ -7043,7 +7048,7 @@
       "Name": "Permanent Redesigns",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "ACH_BASE_49",
@@ -7051,7 +7056,7 @@
       "Name": "Ain\u0027t Nobody Got Time for That",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "ACH_BASE_5",
@@ -7123,7 +7128,7 @@
       "Name": "The Ship of Theseus",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "ACH_BASE_6",
@@ -7131,7 +7136,7 @@
       "Name": "Hope Seeker",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "ACH_BASE_60",
@@ -7202,13 +7207,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1779,
+      "Progressed": 1781,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3595,
+      "Progressed": 3597,
       "Completed": 0
     }
   ],
@@ -7216,8 +7221,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-10T20:59:24.4447628+00:00",
-  "LastChanged_Achievements": "2023-12-20T15:03:53.0618157+00:00",
+  "LastChanged_Achievements": "2023-12-20T16:03:40.394654+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.6786359+00:00",
-  "LastUpdate_Ratings": "2023-12-20T15:00:12.3333709+00:00",
-  "LastUpdate_Achievements": "2023-12-20T15:03:53.061901+00:00"
+  "LastUpdate_Ratings": "2023-12-20T16:00:06.8825921+00:00",
+  "LastUpdate_Achievements": "2023-12-20T16:03:40.3947222+00:00"
 }

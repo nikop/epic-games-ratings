@@ -3,7 +3,7 @@
   "Name": "ServiceDelivery",
   "Ranking_EOS_Progress": 810,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 559,
+  "Ranking_EOS_NewPlayers": 558,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:31:08.8286832+00:00",
-  "LastUpdate_Ratings": "2023-12-20T15:03:23.4734823+00:00",
-  "LastUpdate_Achievements": "2023-12-20T15:06:09.3213078+00:00"
+  "LastUpdate_Ratings": "2023-12-20T16:03:07.569621+00:00",
+  "LastUpdate_Achievements": "2023-12-20T16:06:01.5450055+00:00"
 }

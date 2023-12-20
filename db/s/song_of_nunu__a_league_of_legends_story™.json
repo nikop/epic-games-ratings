@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -3076,9 +3076,9 @@
       "ID": "EV_ACH04",
       "SetID": "6jeac23",
       "Name": "No Bites",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 674
+      "UsersEstimate": 686
     },
     {
       "ID": "EV_ACH05",
@@ -3092,9 +3092,9 @@
       "ID": "EV_ACH06",
       "SetID": "6jeac23",
       "Name": "A Tragic Reminder",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 549
+      "UsersEstimate": 562
     },
     {
       "ID": "EV_ACH07",
@@ -3156,9 +3156,9 @@
       "ID": "EV_ACH14",
       "SetID": "6jeac23",
       "Name": "Boom Things",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 649
+      "UsersEstimate": 661
     },
     {
       "ID": "EV_ACH15",
@@ -3413,8 +3413,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-18T18:59:32.6243964+00:00",
-  "LastChanged_Achievements": "2023-12-20T15:09:55.8534014+00:00",
+  "LastChanged_Achievements": "2023-12-20T16:10:00.936279+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:41.6283728+00:00",
-  "LastUpdate_Ratings": "2023-12-20T15:00:20.2902398+00:00",
-  "LastUpdate_Achievements": "2023-12-20T15:09:55.8534464+00:00"
+  "LastUpdate_Ratings": "2023-12-20T16:00:14.7599142+00:00",
+  "LastUpdate_Achievements": "2023-12-20T16:10:00.9363227+00:00"
 }

@@ -1,59 +1,59 @@
 # Dead Space
 [Store](https://store.epicgames.com/en-US/p/dead-space)  
 [View Rawdata](../../db/d/dead_space.json)  
-Rating: 4.65 (Ranked 320)  
+Rating: 4.66 (Ranked 296)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marksman | 95.00% | ~6,807 |
-| Welcome Aboard | 79.00% | ~5,660 |
-| Lab Rat | 61.00% | ~4,371 |
-| All Systems Go | 48.00% | ~3,439 |
-| Brute Force | 47.00% | ~3,368 |
-| Raise the Stakes | 45.00% | ~3,224 |
-| Cannon Fodder | 42.00% | ~3,009 |
-| Autofire | 39.00% | ~2,794 |
-| True Believer | 37.00% | ~2,651 |
-| Story Teller | 36.00% | ~2,579 |
-| Surgeon | 33.00% | ~2,364 |
-| Freeze | 32.00% | ~2,293 |
-| Exterminator | 32.00% | ~2,293 |
-| Greenhouse Effect | 32.00% | ~2,293 |
-| Full Arsenal | 27.00% | ~1,935 |
-| Live with the Hot Ones | 27.00% | ~1,935 |
-| S.O.S. | 26.00% | ~1,863 |
-| Get Off My Ship! | 24.00% | ~1,720 |
-| Strange Transmissions | 24.00% | ~1,720 |
-| Wreckage | 23.00% | ~1,648 |
-| Keeper of the Faith | 21.00% | ~1,505 |
-| A Cut Above | 21.00% | ~1,505 |
-| Betrayed | 20.00% | ~1,433 |
-| Legend Teller | 20.00% | ~1,433 |
-| Mindless Prey | 20.00% | ~1,433 |
-| Exodus | 19.00% | ~1,361 |
-| There's Always Peng! | 19.00% | ~1,361 |
-| Front Toward Enemy | 18.00% | ~1,290 |
-| Whole Again | 15.00% | ~1,075 |
-| Set A Benchmark | 15.00% | ~1,075 |
-| Full Contact | 14.00% | ~1,003 |
-| Final Regeneration | 13.00% | ~931 |
-| Pack Rat | 12.00% | ~860 |
-| Full Clearance | 12.00% | ~860 |
-| Pusher | 11.00% | ~788 |
-| Z-Baller | 11.00% | ~788 |
-| Eviscerator | 9.00% | ~645 |
-| Marked | 9.00% | ~645 |
-| Backbreaker | 8.00% | ~573 |
-| Wishbone | 5.00% | ~358 |
-| Trusted Contractor | 3.00% | ~215 |
-| Built To Order | 2.00% | ~143 |
-| Merchant | 2.00% | ~143 |
+| Marksman | 95.00% | ~6,827 |
+| Welcome Aboard | 79.00% | ~5,677 |
+| Lab Rat | 61.00% | ~4,383 |
+| All Systems Go | 48.00% | ~3,449 |
+| Brute Force | 47.00% | ~3,377 |
+| Raise the Stakes | 45.00% | ~3,234 |
+| Cannon Fodder | 42.00% | ~3,018 |
+| Autofire | 39.00% | ~2,803 |
+| True Believer | 38.00% | ~2,731 |
+| Story Teller | 36.00% | ~2,587 |
+| Surgeon | 33.00% | ~2,371 |
+| Freeze | 32.00% | ~2,300 |
+| Exterminator | 32.00% | ~2,300 |
+| Greenhouse Effect | 32.00% | ~2,300 |
+| Full Arsenal | 27.00% | ~1,940 |
+| Live with the Hot Ones | 27.00% | ~1,940 |
+| S.O.S. | 26.00% | ~1,868 |
+| Get Off My Ship! | 24.00% | ~1,725 |
+| Strange Transmissions | 24.00% | ~1,725 |
+| Wreckage | 23.00% | ~1,653 |
+| Keeper of the Faith | 21.00% | ~1,509 |
+| A Cut Above | 21.00% | ~1,509 |
+| Betrayed | 20.00% | ~1,437 |
+| Legend Teller | 20.00% | ~1,437 |
+| Mindless Prey | 20.00% | ~1,437 |
+| Exodus | 19.00% | ~1,365 |
+| There's Always Peng! | 19.00% | ~1,365 |
+| Front Toward Enemy | 18.00% | ~1,293 |
+| Whole Again | 15.00% | ~1,078 |
+| Set A Benchmark | 15.00% | ~1,078 |
+| Full Contact | 14.00% | ~1,006 |
+| Final Regeneration | 13.00% | ~934 |
+| Pack Rat | 12.00% | ~862 |
+| Full Clearance | 12.00% | ~862 |
+| Pusher | 11.00% | ~790 |
+| Z-Baller | 11.00% | ~790 |
+| Eviscerator | 9.00% | ~647 |
+| Marked | 9.00% | ~647 |
+| Backbreaker | 8.00% | ~575 |
+| Wishbone | 5.00% | ~359 |
+| Trusted Contractor | 3.00% | ~216 |
+| Built To Order | 2.00% | ~144 |
+| Merchant | 2.00% | ~144 |
 | Maxed Out | 1.00% | ~72 |
 | Reunion | 1.00% | ~72 |
-| Untouchable | 0.90% | ~64 |
-| One Gun | 0.90% | ~64 |
+| Untouchable | 0.90% | ~65 |
+| One Gun | 0.90% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,165 (Ranked 187)  
+Progressed: 7,186 (Ranked 187)  
 Completed: 16 (0.22%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 16 (0.22%) (Ranked 265)
 | 2023-12-17 | 5,728 | 15 |
 | 2023-12-18 | 6,343 | 16 |
 | 2023-12-19 | 6,854 | 16 |
-| 2023-12-20 | 7,165 | 16 |
+| 2023-12-20 | 7,186 | 16 |
 ## Awards
 Max (Great Boss Battles): 131  (Ranked 336)  
 Sum: 131 (Ranked 438)  
@@ -281,3 +281,4 @@ Diff (max vs sum): -102
 | 2023-12-17 | 4.65 | 123 | 123 |
 | 2023-12-18 | 4.65 | 127 | 127 |
 | 2023-12-19 | 4.66 | 131 | 131 |
+| 2023-12-20 | 4.66 | 131 | 131 |

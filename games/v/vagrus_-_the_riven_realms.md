@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224 (Ranked 393)  
+Progressed: 225 (Ranked 392)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,6 +195,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-17 | 218 | 0 |
 | 2023-12-18 | 222 | 0 |
 | 2023-12-19 | 224 | 0 |
+| 2023-12-20 | 225 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

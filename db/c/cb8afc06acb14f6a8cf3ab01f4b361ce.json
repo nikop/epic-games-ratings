@@ -431,9 +431,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 331848,
+  "EOS_Progressed": 331873,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3642,
+  "EOS_NewPlayers": 3646,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10321,6 +10321,11 @@
       "Time": "2023-12-20T15:05:38.6872191+00:00",
       "NumProgressed": 331848,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-20T16:05:30.0248656+00:00",
+      "NumProgressed": 331873,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -10333,7 +10338,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 9955
+      "UsersEstimate": 9956
     },
     {
       "ID": "S02_BRDA",
@@ -10341,7 +10346,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 9955
+      "UsersEstimate": 9956
     },
     {
       "ID": "S03_OTWA",
@@ -10469,7 +10474,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13274
+      "UsersEstimate": 13275
     },
     {
       "ID": "S19_CHALLENGES",
@@ -10645,14 +10650,14 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3318
+      "UsersEstimate": 3319
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 331848,
+      "Progressed": 331873,
       "Completed": 5
     }
   ],
@@ -10660,8 +10665,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-17T23:00:34.9131333+00:00",
-  "LastChanged_Achievements": "2023-12-20T15:05:38.6872185+00:00",
+  "LastChanged_Achievements": "2023-12-20T16:05:30.0248655+00:00",
   "LastUpdate_AppInfo": "2023-12-14T20:57:08.8756847+00:00",
-  "LastUpdate_Ratings": "2023-12-20T14:57:27.5280026+00:00",
-  "LastUpdate_Achievements": "2023-12-20T15:05:38.6872911+00:00"
+  "LastUpdate_Ratings": "2023-12-20T15:57:23.3945233+00:00",
+  "LastUpdate_Achievements": "2023-12-20T16:05:30.0249239+00:00"
 }

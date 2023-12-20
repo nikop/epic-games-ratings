@@ -6,26 +6,26 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 74.00% | ~2,991 |
-| Ready for Winter | 63.00% | ~2,546 |
-| Ready for Summer | 50.00% | ~2,021 |
-| Cordon Bleu | 43.00% | ~1,738 |
-| Tapped! | 36.00% | ~1,455 |
-| Eureka | 31.00% | ~1,253 |
-| Scourge Slayer | 25.00% | ~1,010 |
+| Venture Outward | 74.00% | ~2,993 |
+| Ready for Winter | 63.00% | ~2,548 |
+| Ready for Summer | 51.00% | ~2,062 |
+| Cordon Bleu | 43.00% | ~1,739 |
+| Tapped! | 36.00% | ~1,456 |
+| Eureka | 31.00% | ~1,254 |
+| Scourge Slayer | 25.00% | ~1,011 |
 | Science, Troglodyte! | 23.00% | ~930 |
-| Exceptional Skill | 22.00% | ~889 |
-| Home Sweet Home | 22.00% | ~889 |
+| Exceptional Skill | 22.00% | ~890 |
+| Home Sweet Home | 22.00% | ~890 |
 | Encyclopedic! | 19.00% | ~768 |
 | A Fortress Toppled! | 16.00% | ~647 |
 | The Power of Family | 16.00% | ~647 |
-| Apex Predator | 15.00% | ~606 |
+| Apex Predator | 15.00% | ~607 |
 | Strange amalgams | 12.00% | ~485 |
 | The Power of Faith | 12.00% | ~485 |
 | The Power of Freedom | 9.00% | ~364 |
-| Ace Detective | 8.00% | ~323 |
-| Gift from the Ancestors | 8.00% | ~323 |
-| Magic is a science | 8.00% | ~323 |
+| Ace Detective | 8.00% | ~324 |
+| Gift from the Ancestors | 8.00% | ~324 |
+| Magic is a science | 8.00% | ~324 |
 | House of Cards | 7.00% | ~283 |
 | Let ‘em eat magma! | 7.00% | ~283 |
 | The power of ambition | 7.00% | ~283 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~12 |
 | The Absolute Pinnacle. | 0.30% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,042 (Ranked 205)  
+Progressed: 4,044 (Ranked 205)  
 Completed: 5 (0.12%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 5 (0.12%) (Ranked 295)
 | 2023-12-17 | 3,981 | 5 |
 | 2023-12-18 | 4,009 | 5 |
 | 2023-12-19 | 4,030 | 5 |
-| 2023-12-20 | 4,042 | 5 |
+| 2023-12-20 | 4,044 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 486)  
 Sum: 246 (Ranked 391)  

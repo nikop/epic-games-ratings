@@ -9,9 +9,9 @@ Rating: 4.56 (Ranked 497)
 | Throne Room Fit For A King | 0.40% | ~9 |
 | Meet the Creatures from the Deep | 0.30% | ~7 |
 | Return Power To The Depths | 0.30% | ~7 |
+| The Bright Fir | 0.30% | ~3 |
 | Become King | 0.20% | ~5 |
 | Complete Guard Faction | 0.20% | ~5 |
-| The Bright Fir | 0.20% | ~2 |
 | Collect Gold | 0.10% | ~2 |
 | Collect Iron Ore | 0.10% | ~2 |
 | Collect Monster Parts | 0.10% | ~2 |
@@ -19,6 +19,7 @@ Rating: 4.56 (Ranked 497)
 | Complete Redgi's Armory | 0.10% | ~2 |
 | Complete the Chefs Book | 0.10% | ~2 |
 | Complete Elder Faction | 0.10% | ~2 |
+| Complete Ranger Faction | 0.10% | ~2 |
 | Defeat Avor Warden of the Northern Wastes | 0.10% | ~2 |
 | Defeat Ratnor Rodentson | 0.10% | ~2 |
 | Defeat Rattus Augustail | 0.10% | ~2 |
@@ -39,7 +40,6 @@ Rating: 4.56 (Ranked 497)
 | I Remember My First Beer | 0.10% | ~1 |
 | King of Kings | 0.00% | ~0 |
 | Complete Arena Faction | 0.00% | ~0 |
-| Complete Ranger Faction | 0.00% | ~0 |
 | A new Warchief rises | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,260 (Ranked 230)  

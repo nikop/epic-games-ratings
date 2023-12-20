@@ -10,7 +10,7 @@
 | Hammer Time, Round Two | 81.00% | ~481 |
 | The Hellwoods | 77.00% | ~457 |
 | The Plains of Strothalm | 72.00% | ~428 |
-| Experienced Thalya | 71.00% | ~422 |
+| Experienced Thalya | 72.00% | ~428 |
 | Thalya's Concentrated Fury | 69.00% | ~410 |
 | Bad Elves Go Everywhere | 69.00% | ~410 |
 | Heroes’ Gorge | 65.00% | ~386 |
@@ -52,9 +52,9 @@
 | Rubble and Ashes | 20.00% | ~119 |
 | The Last Stand - This Time For Real! | 20.00% | ~119 |
 | My Little Torture Chamber | 18.00% | ~107 |
+| To the Max! | 18.00% | ~107 |
 | To Infinity And Beyond! | 18.00% | ~107 |
 | Lavalumps on Ice! | 17.00% | ~101 |
-| To the Max! | 17.00% | ~101 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~95 |
 | Evilification | 16.00% | ~95 |
 | Untouchable | 15.00% | ~89 |

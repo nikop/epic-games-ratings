@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 120,
   "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -149,9 +149,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1223,
+  "EOS_Progressed": 1224,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.7,
   "EosHistory": [
@@ -4144,6 +4144,11 @@
       "Time": "2023-12-20T12:04:59.6190673+00:00",
       "NumProgressed": 1223,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-12-20T16:04:02.4224197+00:00",
+      "NumProgressed": 1224,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4164,7 +4169,7 @@
       "Name": "A New Journey",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "_03_FinishAct1",
@@ -4172,7 +4177,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -4236,7 +4241,7 @@
       "Name": "Seadog",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "_12_Completion_50",
@@ -4363,7 +4368,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1223,
+      "Progressed": 1224,
       "Completed": 33
     }
   ],
@@ -4371,8 +4376,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-13T23:58:37.390497+00:00",
-  "LastChanged_Achievements": "2023-12-20T15:04:14.3544656+00:00",
+  "LastChanged_Achievements": "2023-12-20T16:04:02.4224195+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:17.2609478+00:00",
-  "LastUpdate_Ratings": "2023-12-20T14:58:00.5287272+00:00",
-  "LastUpdate_Achievements": "2023-12-20T15:04:14.3545007+00:00"
+  "LastUpdate_Ratings": "2023-12-20T15:57:56.4013717+00:00",
+  "LastUpdate_Achievements": "2023-12-20T16:04:02.4224562+00:00"
 }

@@ -4,10 +4,10 @@
   "ProductSlug": "the-hidden-room-pyramid-b0b04a",
   "Ranking_EOS_Progress": 810,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 559,
+  "Ranking_EOS_NewPlayers": 558,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
-    "ReleaseDate": "2024-03-31T00:00:00+00:00",
+    "ReleaseDate": "2024-05-31T00:00:00+00:00",
     "PcReleaseDate": "2024-03-31T00:00:00+00:00",
     "isBlockchainUsed": false,
     "isEpicFirstRun": false,
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-17T22:57:04.1451097+00:00",
-  "LastUpdate_Ratings": "2023-12-20T15:00:23.4778861+00:00",
-  "LastUpdate_Achievements": "2023-12-20T15:04:19.207701+00:00"
+  "LastUpdate_Ratings": "2023-12-20T16:00:17.8389933+00:00",
+  "LastUpdate_Achievements": "2023-12-20T16:04:07.3283046+00:00"
 }

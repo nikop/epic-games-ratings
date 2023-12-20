@@ -19,9 +19,9 @@
 | Hazardous Duty | 17.00% | ~73 |
 | Perky | 15.00% | ~65 |
 | Salvage | 11.00% | ~48 |
+| Shocking | 11.00% | ~48 |
 | Perk King | 10.00% | ~43 |
 | Sixty Seconds | 10.00% | ~43 |
-| Shocking | 10.00% | ~43 |
 | Perfect Timing | 9.00% | ~39 |
 | Killer Elite | 6.00% | ~26 |
 | OP | 5.00% | ~22 |

@@ -8855,10 +8855,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 32974,
       "NumberOfAwardsMax": 5665
+    },
+    {
+      "Time": "2023-12-20T16:00:30.052884+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32975,
+      "NumberOfAwardsMax": 5665
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32974,
+  "NumberOfAwards": 32975,
   "NumberOfAwardsMax": 5665,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8878,7 +8884,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4849
+      "Count": 4850
     },
     {
       "Text": "This game is Relaxing",
@@ -8905,9 +8911,9 @@
       "Count": 3581
     }
   ],
-  "EOS_Progressed": 242280,
+  "EOS_Progressed": 242299,
   "EOS_Completed": 2546,
-  "EOS_NewPlayers": 2648,
+  "EOS_NewPlayers": 2658,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -36460,6 +36466,11 @@
       "Time": "2023-12-20T15:10:00.6247042+00:00",
       "NumProgressed": 242280,
       "NumCompleted": 2546
+    },
+    {
+      "Time": "2023-12-20T16:10:05.7061307+00:00",
+      "NumProgressed": 242299,
+      "NumCompleted": 2546
     }
   ],
   "TotalAchievements": 546,
@@ -40838,21 +40849,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 208554,
+      "Progressed": 208573,
       "Completed": 4048
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 242280,
+      "Progressed": 242299,
       "Completed": 2546
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-12-20T14:02:56.8570349+00:00",
-  "LastChanged_Achievements": "2023-12-20T15:10:00.6247036+00:00",
+  "LastChanged": "2023-12-20T16:00:30.0528838+00:00",
+  "LastChanged_Achievements": "2023-12-20T16:10:05.7061304+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:52.1318001+00:00",
-  "LastUpdate_Ratings": "2023-12-20T15:02:45.8448544+00:00",
-  "LastUpdate_Achievements": "2023-12-20T15:10:00.6272128+00:00"
+  "LastUpdate_Ratings": "2023-12-20T16:00:30.0528845+00:00",
+  "LastUpdate_Achievements": "2023-12-20T16:10:05.70841+00:00"
 }

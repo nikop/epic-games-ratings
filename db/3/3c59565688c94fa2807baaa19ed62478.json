@@ -2,10 +2,10 @@
   "ID": "3c59565688c94fa2807baaa19ed62478",
   "Name": "Thunder Ray",
   "ProductSlug": "thunder-ray-e9a2e3",
-  "Ranking_EOS_Progress": 583,
-  "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 461,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_Progress": 584,
+  "Ranking_EOS_Completed": 92,
+  "Ranking_EOS_NewPlayers": 480,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-09-14T12:00:00+00:00",
     "PcReleaseDate": "2023-09-14T12:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 25,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4,
   "EosHistory": [
@@ -256,8 +256,8 @@
   ],
   "FirstSeen": "2023-10-21T23:58:29.5927099+00:00",
   "FirstSeenAchievements": "2023-09-02T00:00:26.8543865+00:00",
-  "LastChanged_Achievements": "2023-12-20T15:09:38.0186251+00:00",
+  "LastChanged_Achievements": "2023-12-20T16:09:42.0074655+00:00",
   "LastUpdate_AppInfo": "2023-12-16T05:57:11.6883939+00:00",
-  "LastUpdate_Ratings": "2023-12-20T14:59:13.0797525+00:00",
-  "LastUpdate_Achievements": "2023-12-20T15:09:38.0186329+00:00"
+  "LastUpdate_Ratings": "2023-12-20T15:59:07.6356984+00:00",
+  "LastUpdate_Achievements": "2023-12-20T16:09:42.0074719+00:00"
 }

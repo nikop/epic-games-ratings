@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 710,
+  "EOS_Progressed": 711,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 321,
+  "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.13,
   "EosHistory": [
@@ -2498,6 +2498,11 @@
       "Time": "2023-12-20T15:09:02.0173977+00:00",
       "NumProgressed": 710,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-20T16:09:04.7035714+00:00",
+      "NumProgressed": 711,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -2510,7 +2515,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "achievement_10",
@@ -2534,7 +2539,7 @@
       "Name": "Canyon of Karakuri",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "achievement_13",
@@ -2566,7 +2571,7 @@
       "Name": "Distance Devourer",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "achievement_17",
@@ -2574,7 +2579,7 @@
       "Name": "Master of the Skies",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "achievement_18",
@@ -2582,7 +2587,7 @@
       "Name": "Man-Machine Master",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "achievement_19",
@@ -2590,7 +2595,7 @@
       "Name": "Counter Specialist",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "achievement_2",
@@ -2622,7 +2627,7 @@
       "Name": "Kemono Hunter",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "achievement_23",
@@ -2710,7 +2715,7 @@
       "Name": "Style Seeker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "achievement_33",
@@ -2750,7 +2755,7 @@
       "Name": "Hidden History",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "achievement_38",
@@ -2798,7 +2803,7 @@
       "Name": "Quintessence of Form",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "achievement_43",
@@ -2862,7 +2867,7 @@
       "Name": "Commencing of Quests",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "achievement_7",
@@ -2870,7 +2875,7 @@
       "Name": "Budding Conjuror",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "achievement_8",
@@ -2886,20 +2891,20 @@
       "Name": "Karakuri Minato",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     }
   ],
   "AchievementSets": [
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 710,
+      "Progressed": 711,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-20T15:09:02.0173971+00:00",
+  "LastChanged_Achievements": "2023-12-20T16:09:04.7035709+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:11.6761115+00:00",
-  "LastUpdate_Ratings": "2023-12-20T15:00:32.5436608+00:00",
-  "LastUpdate_Achievements": "2023-12-20T15:09:02.0174494+00:00"
+  "LastUpdate_Ratings": "2023-12-20T16:00:28.0328942+00:00",
+  "LastUpdate_Achievements": "2023-12-20T16:09:04.7036089+00:00"
 }

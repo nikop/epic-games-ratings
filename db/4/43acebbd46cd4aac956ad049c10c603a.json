@@ -222,9 +222,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 1058,
+  "EOS_Progressed": 1059,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2752,6 +2752,11 @@
       "Time": "2023-12-20T04:05:30.8393415+00:00",
       "NumProgressed": 1058,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T16:04:53.5580495+00:00",
+      "NumProgressed": 1059,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2876,7 +2881,7 @@
       "Name": "Ecstatic Truth",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Excellent",
@@ -2924,7 +2929,7 @@
       "Name": "High Plain",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "IntoTheMachine",
@@ -2948,7 +2953,7 @@
       "Name": "Lord of the Files",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "LostMarshes",
@@ -3020,7 +3025,7 @@
       "Name": "Overload",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "Persistent",
@@ -3114,9 +3119,9 @@
       "ID": "TextAdventurer",
       "SetID": "1n308hc",
       "Name": "Text Adventurer",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "TheAllGifted",
@@ -3146,9 +3151,9 @@
       "ID": "TheHardWay",
       "SetID": "1n308hc",
       "Name": "The Hard Way",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "TheSpark",
@@ -3164,7 +3169,7 @@
       "Name": "The Thief of Fire",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "TheWordEndures",
@@ -3180,7 +3185,7 @@
       "Name": "Touch Grass",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "TrevorsBiographer",
@@ -3235,7 +3240,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1058,
+      "Progressed": 1059,
       "Completed": 1
     }
   ],
@@ -3243,8 +3248,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-20T15:05:03.9202211+00:00",
+  "LastChanged_Achievements": "2023-12-20T16:04:53.5580493+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-20T14:59:40.2789899+00:00",
-  "LastUpdate_Achievements": "2023-12-20T15:05:03.9202808+00:00"
+  "LastUpdate_Ratings": "2023-12-20T15:59:34.9988452+00:00",
+  "LastUpdate_Achievements": "2023-12-20T16:04:53.5580922+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2020-10-02T04:00:00+00:00",
     "PcReleaseDate": "2020-10-02T04:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 31492,
+  "EOS_Progressed": 31510,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2490,
+  "EOS_NewPlayers": 2499,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10874,6 +10874,11 @@
       "Time": "2023-12-20T15:09:53.8828681+00:00",
       "NumProgressed": 31492,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-20T16:09:58.9925651+00:00",
+      "NumProgressed": 31510,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -10886,7 +10891,7 @@
       "Name": "The Galaxy\u0027s Finest (Story Mode)",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 4724
+      "UsersEstimate": 4726
     },
     {
       "ID": "achievement_10",
@@ -10910,7 +10915,7 @@
       "Name": "Victory for the New Republic",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "achievement_13",
@@ -10926,7 +10931,7 @@
       "Name": "Heavy Hitter",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "achievement_15",
@@ -10934,7 +10939,7 @@
       "Name": "Begin the Ceremony",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 6298
+      "UsersEstimate": 6302
     },
     {
       "ID": "achievement_16",
@@ -10974,7 +10979,7 @@
       "Name": "The Galaxy\u0027s Finest (Pilot)",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1890
+      "UsersEstimate": 1891
     },
     {
       "ID": "achievement_20",
@@ -10990,7 +10995,7 @@
       "Name": "Sound Strategy",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1890
+      "UsersEstimate": 1891
     },
     {
       "ID": "achievement_22",
@@ -11014,7 +11019,7 @@
       "Name": "I Know a Few Maneuvers",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_25",
@@ -11022,7 +11027,7 @@
       "Name": "Trigger Happy",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_26",
@@ -11038,7 +11043,7 @@
       "Name": "Unkillable",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 2204
+      "UsersEstimate": 2206
     },
     {
       "ID": "achievement_28",
@@ -11054,7 +11059,7 @@
       "Name": "Shallow Grave",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_3",
@@ -11070,7 +11075,7 @@
       "Name": "Across the Stars",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "achievement_31",
@@ -11086,7 +11091,7 @@
       "Name": "Denied",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "achievement_33",
@@ -11094,7 +11099,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 5669
+      "UsersEstimate": 5672
     },
     {
       "ID": "achievement_34",
@@ -11102,7 +11107,7 @@
       "Name": "Fully Decorated",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_35",
@@ -11110,7 +11115,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 29917
+      "UsersEstimate": 29934
     },
     {
       "ID": "achievement_36",
@@ -11118,7 +11123,7 @@
       "Name": "Together, Vanguard",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 2204
+      "UsersEstimate": 2206
     },
     {
       "ID": "achievement_37",
@@ -11126,7 +11131,7 @@
       "Name": "Asset Secured",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4094
+      "UsersEstimate": 4096
     },
     {
       "ID": "achievement_38",
@@ -11142,7 +11147,7 @@
       "Name": "Safety in the Storm",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 7243
+      "UsersEstimate": 7247
     },
     {
       "ID": "achievement_4",
@@ -11150,7 +11155,7 @@
       "Name": "The Galaxy\u0027s Finest (Ace)",
       "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_40",
@@ -11174,7 +11179,7 @@
       "Name": "Against the Current",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "achievement_43",
@@ -11198,7 +11203,7 @@
       "Name": "Unstoppable Ace",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "achievement_46",
@@ -11206,7 +11211,7 @@
       "Name": "Ultimate Weapon",
       "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_47",
@@ -11214,7 +11219,7 @@
       "Name": "Stomped",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1575
+      "UsersEstimate": 1576
     },
     {
       "ID": "achievement_5",
@@ -11230,7 +11235,7 @@
       "Name": "A Starfighter of Your Own",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4094
+      "UsersEstimate": 4096
     },
     {
       "ID": "achievement_7",
@@ -11246,7 +11251,7 @@
       "Name": "A Better Idea",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 7243
+      "UsersEstimate": 7247
     },
     {
       "ID": "achievement_9",
@@ -11261,7 +11266,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 31492,
+      "Progressed": 31510,
       "Completed": 3
     }
   ],
@@ -11269,8 +11274,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-12-20T15:09:53.8828678+00:00",
+  "LastChanged_Achievements": "2023-12-20T16:09:58.9925649+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:14.4146452+00:00",
-  "LastUpdate_Ratings": "2023-12-20T15:03:17.7250502+00:00",
-  "LastUpdate_Achievements": "2023-12-20T15:09:53.8829378+00:00"
+  "LastUpdate_Ratings": "2023-12-20T16:03:02.0553362+00:00",
+  "LastUpdate_Achievements": "2023-12-20T16:09:58.9926458+00:00"
 }

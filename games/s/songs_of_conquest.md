@@ -9,7 +9,7 @@ Number of Ratings: 292  (23.09.2022)
 | Adept | 41.00% | ~241 |
 | Double Kill | 33.00% | ~194 |
 | Critical Hit | 19.00% | ~112 |
-| Veteran | 18.00% | ~106 |
+| Veteran | 17.00% | ~100 |
 | Dressed For Success | 12.00% | ~71 |
 | Humiliation | 8.00% | ~47 |
 | Veni, Vidi, Vici | 8.00% | ~47 |
@@ -37,10 +37,10 @@ Number of Ratings: 292  (23.09.2022)
 | Death To Diplomacy | 0.50% | ~3 |
 | Unlimited Power! | 0.50% | ~3 |
 | Fully Charged | 0.50% | ~3 |
+| In The Thick of It | 0.50% | ~3 |
 | Attack Bonanza | 0.30% | ~2 |
 | Coming Through! | 0.30% | ~2 |
 | Barbecue | 0.30% | ~2 |
-| In The Thick of It | 0.30% | ~2 |
 | Killing Spree | 0.30% | ~2 |
 | Oops! | 0.30% | ~2 |
 | The Marsh Expands | 0.30% | ~2 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 588 (Ranked 318)  
+Progressed: 589 (Ranked 318)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-17 | 544 | 0 |
 | 2023-12-18 | 555 | 0 |
 | 2023-12-19 | 575 | 0 |
-| 2023-12-20 | 588 | 0 |
+| 2023-12-20 | 589 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 524)  
 Sum: 194 (Ranked 412)  

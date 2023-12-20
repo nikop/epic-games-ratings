@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2771,
+  "EOS_Progressed": 2772,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 309,
+  "EOS_NewPlayers": 310,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6777,6 +6777,11 @@
       "Time": "2023-12-20T15:05:59.229219+00:00",
       "NumProgressed": 2771,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T16:05:50.7781504+00:00",
+      "NumProgressed": 2772,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -6789,7 +6794,7 @@
       "Name": "First Love",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1219
+      "UsersEstimate": 1220
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -6797,7 +6802,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1108
+      "UsersEstimate": 1109
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -6821,7 +6826,7 @@
       "Name": "Restored and Ready",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -6877,7 +6882,7 @@
       "Name": "Legendary!!!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -6939,9 +6944,9 @@
       "ID": "ML_ACHIEVEMENT_20",
       "SetID": "c7hf6a4",
       "Name": "The Road to Liberty",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 83
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -7093,7 +7098,7 @@
       "Name": "Champagne Spray",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -7180,14 +7185,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2771,
+      "Progressed": 2772,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-20T15:05:59.2292184+00:00",
+  "LastChanged_Achievements": "2023-12-20T16:05:50.7781501+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:35.5257739+00:00",
-  "LastUpdate_Ratings": "2023-12-20T14:58:56.4162691+00:00",
-  "LastUpdate_Achievements": "2023-12-20T15:05:59.2292711+00:00"
+  "LastUpdate_Ratings": "2023-12-20T15:58:51.424858+00:00",
+  "LastUpdate_Achievements": "2023-12-20T16:05:50.7782036+00:00"
 }

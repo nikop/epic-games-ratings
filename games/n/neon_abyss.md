@@ -1,11 +1,11 @@
 # Neon Abyss
 [Store](https://store.epicgames.com/en-US/p/neon-abyss)  
 [View Rawdata](../../db/n/neon_abyss.json)  
-Rating: 4.67 (Ranked 279)  
+Rating: 4.67 (Ranked 280)  
 Number of Ratings: 8,340  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 720  (Ranked 186)  
-Sum: 5,581 (Ranked 136)  
+Sum: 5,583 (Ranked 136)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
@@ -13,7 +13,7 @@ Diff (max vs sum): 50
 | This game has Diverse Characters | 639 |
 | This game has Quickly Understood Controls | 636 |
 | This game is Relaxing | 601 |
-| This game is Highly Recommended | 579 |
+| This game is Highly Recommended | 581 |
 | This game is Extremely Fun | 538 |
 | This game has Amazing Storytelling | 523 |
 | This game has Amazing Characters | 507 |
@@ -270,3 +270,4 @@ Diff (max vs sum): 50
 | 2023-12-17 | 4.68 | - | 720 | 5,580 |
 | 2023-12-18 | 4.68 | - | 720 | 5,581 |
 | 2023-12-19 | 4.67 | - | 720 | 5,581 |
+| 2023-12-20 | 4.67 | - | 720 | 5,583 |

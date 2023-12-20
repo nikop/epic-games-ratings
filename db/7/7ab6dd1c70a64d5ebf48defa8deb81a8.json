@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 909,
+  "EOS_Progressed": 911,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 641,
+  "EOS_NewPlayers": 643,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1875,6 +1875,11 @@
       "Time": "2023-12-20T15:09:53.2365772+00:00",
       "NumProgressed": 909,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-20T16:09:58.2585006+00:00",
+      "NumProgressed": 911,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1886,7 +1891,7 @@
       "Name": "Break Out",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 454
+      "UsersEstimate": 456
     },
     {
       "ID": "ACH_02",
@@ -1910,7 +1915,7 @@
       "Name": "Calm before the Storm",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_05",
@@ -1948,9 +1953,9 @@
       "ID": "ACH_09",
       "SetID": "efe2lj",
       "Name": "The Mentor",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_10",
@@ -1964,7 +1969,7 @@
       "ID": "ACH_11",
       "SetID": "efe2lj",
       "Name": "Forgemaster",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 40,
       "UsersEstimate": 5
     },
@@ -1982,7 +1987,7 @@
       "Name": "Adventurer",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_14",
@@ -1990,7 +1995,7 @@
       "Name": "Airborne",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_15",
@@ -1998,7 +2003,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_16",
@@ -2022,7 +2027,7 @@
       "Name": "Shatter Them All",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_19",
@@ -2062,7 +2067,7 @@
       "Name": "Geared Up",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_24",
@@ -2078,7 +2083,7 @@
       "Name": "Fashion Victim",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_26",
@@ -2086,7 +2091,7 @@
       "Name": "Scholar",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_27",
@@ -2100,15 +2105,15 @@
       "ID": "ACH_28",
       "SetID": "efe2lj",
       "Name": "I Found It",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 164
     },
     {
       "ID": "ACH_29",
       "SetID": "efe2lj",
       "Name": "All That Gold",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 60,
       "UsersEstimate": 5
     },
@@ -2173,14 +2178,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 909,
+      "Progressed": 911,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-20T15:09:53.2365768+00:00",
+  "LastChanged_Achievements": "2023-12-20T16:09:58.2585003+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
-  "LastUpdate_Ratings": "2023-12-20T14:57:36.6021825+00:00",
-  "LastUpdate_Achievements": "2023-12-20T15:09:53.236609+00:00"
+  "LastUpdate_Ratings": "2023-12-20T15:57:32.4328301+00:00",
+  "LastUpdate_Achievements": "2023-12-20T16:09:58.2585326+00:00"
 }

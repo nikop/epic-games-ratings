@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 481,
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -379,9 +379,9 @@
       "Count": 69
     }
   ],
-  "EOS_Progressed": 1738,
+  "EOS_Progressed": 1739,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -2774,6 +2774,11 @@
       "Time": "2023-12-20T14:06:35.8609927+00:00",
       "NumProgressed": 1738,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-20T16:06:21.064297+00:00",
+      "NumProgressed": 1739,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 38,
@@ -2785,7 +2790,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1703
+      "UsersEstimate": 1704
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -2793,7 +2798,7 @@
       "Name": "Great Doctor",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -2825,7 +2830,7 @@
       "Name": "Acrobatic Adventurer",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "ACHIEVEMENTS_07",
@@ -2833,7 +2838,7 @@
       "Name": "K.O.!",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "ACHIEVEMENTS_08",
@@ -2841,7 +2846,7 @@
       "Name": "The First Step",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1529
+      "UsersEstimate": 1530
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -2849,7 +2854,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1060
+      "UsersEstimate": 1061
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -2857,7 +2862,7 @@
       "Name": "Intermediate Chemist",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "ACHIEVEMENTS_11",
@@ -2913,7 +2918,7 @@
       "Name": "Kind-hearted",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "ACHIEVEMENTS_18",
@@ -2977,7 +2982,7 @@
       "Name": "Community Helper",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "ACHIEVEMENTS_26",
@@ -3017,7 +3022,7 @@
       "Name": "Animal Exterminator",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "ACHIEVEMENTS_31",
@@ -3041,7 +3046,7 @@
       "Name": "Catch of the Day",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "ACHIEVEMENTS_34",
@@ -3049,7 +3054,7 @@
       "Name": "Moonbury Traveller",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "ACHIEVEMENTS_35",
@@ -3088,7 +3093,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1738,
+      "Progressed": 1739,
       "Completed": 10
     }
   ],
@@ -3096,8 +3101,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-12-02T14:58:43.9151067+00:00",
-  "LastChanged_Achievements": "2023-12-20T15:06:28.0165702+00:00",
+  "LastChanged_Achievements": "2023-12-20T16:06:21.0642966+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:47.0899932+00:00",
-  "LastUpdate_Ratings": "2023-12-20T14:57:16.0588354+00:00",
-  "LastUpdate_Achievements": "2023-12-20T15:06:28.0166048+00:00"
+  "LastUpdate_Ratings": "2023-12-20T15:57:11.5744246+00:00",
+  "LastUpdate_Achievements": "2023-12-20T16:06:21.0643342+00:00"
 }

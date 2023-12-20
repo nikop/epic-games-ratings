@@ -744,9 +744,9 @@
       "ID": "Houby",
       "SetID": "ag48e8e",
       "Name": "Mushrooms",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "Jing",
@@ -760,9 +760,9 @@
       "ID": "Kamzik",
       "SetID": "ag48e8e",
       "Name": "Chamois",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Kour",
@@ -784,9 +784,9 @@
       "ID": "Kudla",
       "SetID": "ag48e8e",
       "Name": "Knife",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 79
+      "UsersEstimate": 81
     },
     {
       "ID": "Kvitky",
@@ -951,8 +951,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-12-20T15:05:45.2368634+00:00",
+  "LastChanged_Achievements": "2023-12-20T16:05:36.9263267+00:00",
   "LastUpdate_AppInfo": "2023-12-16T05:57:11.9485544+00:00",
-  "LastUpdate_Ratings": "2023-12-20T15:02:57.4334762+00:00",
-  "LastUpdate_Achievements": "2023-12-20T15:05:45.2368874+00:00"
+  "LastUpdate_Ratings": "2023-12-20T16:02:41.0275527+00:00",
+  "LastUpdate_Achievements": "2023-12-20T16:05:36.9263455+00:00"
 }

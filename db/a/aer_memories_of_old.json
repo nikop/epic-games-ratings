@@ -419,7 +419,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 26644,
+  "EOS_Progressed": 26647,
   "EOS_Completed": 495,
   "EOS_NewPlayers": 513,
   "EOS_NewCompleters": 7,
@@ -26664,6 +26664,11 @@
       "Time": "2023-12-20T15:06:48.8208973+00:00",
       "NumProgressed": 26644,
       "NumCompleted": 495
+    },
+    {
+      "Time": "2023-12-20T16:08:22.5270953+00:00",
+      "NumProgressed": 26647,
+      "NumCompleted": 495
     }
   ],
   "TotalAchievements": 20,
@@ -26675,7 +26680,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 4529
+      "UsersEstimate": 4530
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -26691,7 +26696,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3730
+      "UsersEstimate": 3731
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -26715,7 +26720,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2664
+      "UsersEstimate": 2665
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -26731,7 +26736,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3197
+      "UsersEstimate": 3198
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -26739,7 +26744,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3730
+      "UsersEstimate": 3731
     },
     {
       "ID": "FOUND_ERIN",
@@ -26787,7 +26792,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3197
+      "UsersEstimate": 3198
     },
     {
       "ID": "INTRO_FINISHED",
@@ -26795,7 +26800,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 20249
+      "UsersEstimate": 20252
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -26803,7 +26808,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7194
+      "UsersEstimate": 7195
     },
     {
       "ID": "NORTH_FINISHED",
@@ -26834,15 +26839,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 26644,
+      "Progressed": 26647,
       "Completed": 495
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-12-20T15:06:48.8208967+00:00",
+  "LastChanged_Achievements": "2023-12-20T16:08:22.527095+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:01.7195881+00:00",
-  "LastUpdate_Ratings": "2023-12-20T14:57:23.4388215+00:00",
-  "LastUpdate_Achievements": "2023-12-20T15:06:48.8210424+00:00"
+  "LastUpdate_Ratings": "2023-12-20T15:57:19.2290773+00:00",
+  "LastUpdate_Achievements": "2023-12-20T16:08:22.5272021+00:00"
 }

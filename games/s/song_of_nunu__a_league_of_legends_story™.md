@@ -15,14 +15,14 @@ Rating: 4.48 (Ranked 640)
 | Krugmazing | 64.00% | ~799 |
 | Moneyball | 60.00% | ~749 |
 | The Fire Below the Mountain | 60.00% | ~749 |
+| No Bites | 55.00% | ~686 |
 | Iceborn | 55.00% | ~686 |
-| No Bites | 54.00% | ~674 |
+| Boom Things | 53.00% | ~661 |
 | Tear of Freedom | 52.00% | ~649 |
-| Boom Things | 52.00% | ~649 |
 | My Darkest Day | 48.00% | ~599 |
 | Rhythm Of Willump | 46.00% | ~574 |
 | The Relentless Storm | 46.00% | ~574 |
-| A Tragic Reminder | 44.00% | ~549 |
+| A Tragic Reminder | 45.00% | ~562 |
 | 3000 Year Blackout | 44.00% | ~549 |
 | So Close | 42.00% | ~524 |
 | The Finisher | 42.00% | ~524 |

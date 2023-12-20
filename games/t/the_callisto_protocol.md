@@ -5,28 +5,28 @@ Rating: 4.19 (Ranked 939)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 14.00% | ~2,551 |
-| The Outer Way | 14.00% | ~2,551 |
-| Get a Grip | 13.00% | ~2,369 |
-| Paper Jams | 13.00% | ~2,369 |
-| Desperate Times | 12.00% | ~2,187 |
+| Flesh Wound | 14.00% | ~2,552 |
+| The Outer Way | 14.00% | ~2,552 |
+| Get a Grip | 13.00% | ~2,370 |
+| Paper Jams | 13.00% | ~2,370 |
+| Desperate Times | 12.00% | ~2,188 |
 | Chew 'Em Up | 11.00% | ~2,005 |
-| Float Like A Butterfly | 10.00% | ~1,822 |
-| Reforged | 10.00% | ~1,822 |
-| Workplace Hazard | 8.00% | ~1,458 |
+| Float Like A Butterfly | 10.00% | ~1,823 |
+| Reforged | 10.00% | ~1,823 |
+| Workplace Hazard | 9.00% | ~1,641 |
 | If the SHU Fits... | 8.00% | ~1,458 |
 | Two Heads Are Better Than One | 7.00% | ~1,276 |
 | Without A Paddle | 7.00% | ~1,276 |
 | In the Pipe, Five by Five | 7.00% | ~1,276 |
 | Crash Site | 7.00% | ~1,276 |
-| You Need a Gun | 6.00% | ~1,093 |
-| Terminated | 6.00% | ~1,093 |
-| What Lies Beneath | 6.00% | ~1,093 |
-| Full Circle | 6.00% | ~1,093 |
-| Power Up | 6.00% | ~1,093 |
+| You Need a Gun | 6.00% | ~1,094 |
+| Terminated | 6.00% | ~1,094 |
+| What Lies Beneath | 6.00% | ~1,094 |
+| Full Circle | 6.00% | ~1,094 |
+| Power Up | 6.00% | ~1,094 |
 | Keep Fighting | 6.00% | ~369 |
-| Giving Back | 5.00% | ~911 |
-| I Do Belong Here | 5.00% | ~911 |
+| Giving Back | 5.00% | ~912 |
+| I Do Belong Here | 5.00% | ~912 |
 | It's Time | 4.00% | ~246 |
 | In Striking Distance | 3.00% | ~547 |
 | The Commonality | 3.00% | ~547 |
@@ -37,8 +37,8 @@ Rating: 4.19 (Ranked 939)
 | Mugshot | 0.90% | ~164 |
 | Grim Reaper | 0.80% | ~146 |
 | Parole Denied | 0.80% | ~49 |
+| Instigator | 0.80% | ~49 |
 | Information Overload | 0.80% | ~49 |
-| Instigator | 0.70% | ~43 |
 | Quick Pick | 0.60% | ~37 |
 | Subject Alpha | 0.40% | ~25 |
 | Don't Let It Mellow | 0.30% | ~18 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 939)
 | Bear Trap | 0.10% | ~6 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,224 (Ranked 148)  
+Progressed: 18,231 (Ranked 148)  
 Completed: 82 (0.45%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,10 +289,10 @@ Completed: 82 (0.45%) (Ranked 223)
 | 2023-12-17 | 17,760 | 82 |
 | 2023-12-18 | 17,946 | 82 |
 | 2023-12-19 | 18,137 | 82 |
-| 2023-12-20 | 18,224 | 82 |
+| 2023-12-20 | 18,231 | 82 |
 ## Awards
 Max (Quickly Understood Controls): 89  (Ranked 388)  
-Sum: 531 (Ranked 326)  
+Sum: 532 (Ranked 326)  
 Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
@@ -300,7 +300,7 @@ Diff (max vs sum): 62
 | This game has Amazing Storytelling | 89 |
 | This game is Highly Recommended | 88 |
 | This game has Amazing Characters | 86 |
-| This game is Extremely Fun | 80 |
+| This game is Extremely Fun | 81 |
 | This game has Challenging Combat | 65 |
 | This game has a Creative Community | 34 |
 ## Ratings History
@@ -482,4 +482,4 @@ Diff (max vs sum): 62
 | 2023-12-17 | 4.20 | 87 | 516 |
 | 2023-12-18 | 4.19 | 88 | 521 |
 | 2023-12-19 | 4.19 | 89 | 526 |
-| 2023-12-20 | 4.19 | 89 | 531 |
+| 2023-12-20 | 4.19 | 89 | 532 |

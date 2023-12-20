@@ -4,7 +4,7 @@
   "ProductSlug": "international-basketball-manager-23-561576",
   "Ranking_EOS_Progress": 557,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-05-29T07:30:00+00:00",
@@ -236,9 +236,9 @@
       "ID": "ACH_AMERICAN_CAREER",
       "SetID": "1lnhagg",
       "Name": "To the States!",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_ASSISTS_DELIVERY",
@@ -467,8 +467,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2023-12-20T15:03:27.4108688+00:00",
+  "LastChanged_Achievements": "2023-12-20T16:03:12.8860131+00:00",
   "LastUpdate_AppInfo": "2023-12-15T02:21:15.0404929+00:00",
-  "LastUpdate_Ratings": "2023-12-20T15:03:00.9269958+00:00",
-  "LastUpdate_Achievements": "2023-12-20T15:03:27.4108939+00:00"
+  "LastUpdate_Ratings": "2023-12-20T16:02:44.6263519+00:00",
+  "LastUpdate_Achievements": "2023-12-20T16:03:12.8860329+00:00"
 }

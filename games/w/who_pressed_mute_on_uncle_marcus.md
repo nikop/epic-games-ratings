@@ -17,8 +17,8 @@
 | Delusions | 28.00% | ~73 |
 | Brown nosing | 27.00% | ~70 |
 | Cheat | 27.00% | ~70 |
-| Prove it | 26.00% | ~67 |
-| The truth | 26.00% | ~67 |
+| Prove it | 27.00% | ~70 |
+| The truth | 27.00% | ~70 |
 | Making a murderer | 19.00% | ~49 |
 | The whole truth | 16.00% | ~41 |
 ## Popularity (Based on EOS Achievements)

@@ -6,59 +6,59 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 41.00% | ~31,774 |
-| Landlord | 33.00% | ~25,574 |
-| Trained | 27.00% | ~20,924 |
-| Bannerlord | 23.00% | ~17,825 |
-| Horde breaker | 22.00% | ~17,050 |
-| Lawmaker | 22.00% | ~17,050 |
-| The king is pleased | 18.00% | ~13,950 |
-| King Solomon | 16.00% | ~12,400 |
-| Apple of my eye | 15.00% | ~11,625 |
-| I can do it | 15.00% | ~11,625 |
-| This Is Our Land | 14.00% | ~10,850 |
-| Against all odds | 13.00% | ~10,075 |
-| God of the Arena | 12.00% | ~9,300 |
-| Duelist | 11.00% | ~8,525 |
-| Swordbearer | 10.00% | ~7,750 |
-| Dynasty | 9.00% | ~6,975 |
-| I spit on your grave | 9.00% | ~6,975 |
-| What have the Romans ever done for us? | 9.00% | ~6,975 |
-| Butterlord | 8.00% | ~6,200 |
-| Know your enemy | 7.00% | ~5,425 |
-| Mastery | 7.00% | ~5,425 |
-| Crush your enemies | 5.00% | ~3,875 |
-| My way | 5.00% | ~3,875 |
-| Crowdfunded | 4.00% | ~3,100 |
-| Veni vidi vici | 4.00% | ~3,100 |
-| Freedom! | 3.00% | ~2,325 |
-| Real Estate | 3.00% | ~2,325 |
-| Long live the Empire! | 2.00% | ~1,550 |
+| Lawbringer | 41.00% | ~31,792 |
+| Landlord | 33.00% | ~25,589 |
+| Trained | 27.00% | ~20,936 |
+| Bannerlord | 23.00% | ~17,834 |
+| Horde breaker | 22.00% | ~17,059 |
+| Lawmaker | 22.00% | ~17,059 |
+| The king is pleased | 18.00% | ~13,957 |
+| King Solomon | 16.00% | ~12,407 |
+| Apple of my eye | 15.00% | ~11,631 |
+| I can do it | 15.00% | ~11,631 |
+| This Is Our Land | 14.00% | ~10,856 |
+| Against all odds | 13.00% | ~10,080 |
+| God of the Arena | 12.00% | ~9,305 |
+| Duelist | 11.00% | ~8,530 |
+| Swordbearer | 10.00% | ~7,754 |
+| Dynasty | 9.00% | ~6,979 |
+| I spit on your grave | 9.00% | ~6,979 |
+| What have the Romans ever done for us? | 9.00% | ~6,979 |
+| Butterlord | 8.00% | ~6,203 |
+| Know your enemy | 7.00% | ~5,428 |
+| Mastery | 7.00% | ~5,428 |
+| Crush your enemies | 5.00% | ~3,877 |
+| My way | 5.00% | ~3,877 |
+| Crowdfunded | 4.00% | ~3,102 |
+| Veni vidi vici | 4.00% | ~3,102 |
+| Freedom! | 3.00% | ~2,326 |
+| Real Estate | 3.00% | ~2,326 |
+| Long live the Empire! | 2.00% | ~1,551 |
 | Entrepreneur | 1.00% | ~775 |
 | Supreme Emperor | 1.00% | ~775 |
 | Crackshot | 0.80% | ~620 |
 | Undercover | 0.80% | ~620 |
-| Fat Cat | 0.70% | ~542 |
-| Catch | 0.50% | ~387 |
+| Fat Cat | 0.70% | ~543 |
+| Catch | 0.50% | ~388 |
 | Slice 'n dice | 0.40% | ~310 |
-| Mounted Archery | 0.30% | ~232 |
-| Ride it like you stole it | 0.30% | ~232 |
+| Mounted Archery | 0.30% | ~233 |
+| Ride it like you stole it | 0.30% | ~233 |
 | Strike! | 0.20% | ~155 |
-| Best served cold | 0.10% | ~77 |
-| Butcher of Calradia | 0.10% | ~77 |
-| Explorer | 0.10% | ~77 |
-| Great Granny | 0.10% | ~77 |
-| Headhunter | 0.10% | ~77 |
-| Heartbreaker | 0.10% | ~77 |
-| Kingslayer | 0.10% | ~77 |
-| Lance-a-lot | 0.10% | ~77 |
-| Minor Clan | 0.10% | ~77 |
-| Roadkill | 0.10% | ~77 |
-| This is Sparta! | 0.10% | ~77 |
+| Best served cold | 0.10% | ~78 |
+| Butcher of Calradia | 0.10% | ~78 |
+| Explorer | 0.10% | ~78 |
+| Great Granny | 0.10% | ~78 |
+| Headhunter | 0.10% | ~78 |
+| Heartbreaker | 0.10% | ~78 |
+| Kingslayer | 0.10% | ~78 |
+| Lance-a-lot | 0.10% | ~78 |
+| Minor Clan | 0.10% | ~78 |
+| Roadkill | 0.10% | ~78 |
+| This is Sparta! | 0.10% | ~78 |
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,498 (Ranked 102)  
+Progressed: 77,541 (Ranked 102)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,10 +302,10 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-17 | 75,199 | 0 |
 | 2023-12-18 | 76,179 | 0 |
 | 2023-12-19 | 77,033 | 0 |
-| 2023-12-20 | 77,498 | 0 |
+| 2023-12-20 | 77,541 | 0 |
 ## Awards
 Max (Character Customization): 7,631  (Ranked 53)  
-Sum: 15,943 (Ranked 67)  
+Sum: 15,946 (Ranked 67)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -318,7 +318,7 @@ Diff (max vs sum): -14
 | This game has Amazing Characters | 897 |
 | This game is Relaxing | 881 |
 | This game has Quickly Understood Controls | 860 |
-| This game has a Creative Community | 669 |
+| This game has a Creative Community | 672 |
 | This game has Obsessive Gameplay | 376 |
 | This game has Competitive Players | 107 |
 ## Ratings History
@@ -663,4 +663,4 @@ Diff (max vs sum): -14
 | 2023-12-17 | 4.74 | - | 7,605 | 15,888 |
 | 2023-12-18 | 4.74 | - | 7,616 | 15,911 |
 | 2023-12-19 | 4.74 | - | 7,616 | 15,923 |
-| 2023-12-20 | 4.74 | - | 7,631 | 15,943 |
+| 2023-12-20 | 4.74 | - | 7,631 | 15,946 |
