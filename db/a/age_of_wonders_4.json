@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -567,7 +567,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5906,
+  "EOS_Progressed": 5907,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 315,
   "EOS_NewCompleters": 0,
@@ -8597,6 +8597,11 @@
       "Time": "2023-12-20T19:05:28.6253305+00:00",
       "NumProgressed": 5906,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-20T20:05:19.6533068+00:00",
+      "NumProgressed": 5907,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -8710,9 +8715,9 @@
       "ID": "21",
       "SetID": "3aa2279",
       "Name": "Eternal Lord",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 59
     },
     {
       "ID": "22",
@@ -9087,13 +9092,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5906,
+      "Progressed": 5907,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5906,
+      "Progressed": 5907,
       "Completed": 7
     }
   ],
@@ -9101,8 +9106,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-20T07:59:25.4319145+00:00",
-  "LastChanged_Achievements": "2023-12-20T19:05:28.62533+00:00",
+  "LastChanged_Achievements": "2023-12-20T20:05:19.6533065+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.6868317+00:00",
-  "LastUpdate_Ratings": "2023-12-20T19:00:07.768127+00:00",
-  "LastUpdate_Achievements": "2023-12-20T19:05:28.625397+00:00"
+  "LastUpdate_Ratings": "2023-12-20T20:00:09.2398293+00:00",
+  "LastUpdate_Achievements": "2023-12-20T20:05:19.6533957+00:00"
 }

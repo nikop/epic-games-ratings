@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 325,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
     "PcReleaseDate": "2021-01-28T00:00:00+00:00",
@@ -851,9 +851,9 @@
       "ID": "ach-raiseDino",
       "SetID": "17ih7ma",
       "Name": "Good Mama",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 120
     },
     {
       "ID": "ach-redElk",
@@ -948,8 +948,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-12-20T19:10:12.4184892+00:00",
+  "LastChanged_Achievements": "2023-12-20T20:09:49.8752435+00:00",
   "LastUpdate_AppInfo": "2023-12-16T13:57:07.0437312+00:00",
-  "LastUpdate_Ratings": "2023-12-20T18:59:47.491054+00:00",
-  "LastUpdate_Achievements": "2023-12-20T19:10:12.4185332+00:00"
+  "LastUpdate_Ratings": "2023-12-20T19:59:48.3805037+00:00",
+  "LastUpdate_Achievements": "2023-12-20T20:09:49.8752827+00:00"
 }

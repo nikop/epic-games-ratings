@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -376,9 +376,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 5004,
+  "EOS_Progressed": 5005,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3816,6 +3816,11 @@
       "Time": "2023-12-20T19:06:37.4344383+00:00",
       "NumProgressed": 5004,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-20T20:06:27.8088431+00:00",
+      "NumProgressed": 5005,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -3827,7 +3832,7 @@
       "Name": "P.A.X",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1851
+      "UsersEstimate": 1852
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -3851,7 +3856,7 @@
       "Name": "The Black Cerberus",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "ID_ACHIEV_05",
@@ -3875,7 +3880,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4203
+      "UsersEstimate": 4204
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -3883,7 +3888,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4704
+      "UsersEstimate": 4705
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -3891,7 +3896,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3853
+      "UsersEstimate": 3854
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -3899,7 +3904,7 @@
       "Name": "Hey Listen",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1801
+      "UsersEstimate": 1802
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -3907,7 +3912,7 @@
       "Name": "CREO Killed the Video Star",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "ID_ACHIEV_12",
@@ -3923,7 +3928,7 @@
       "Name": "Watchman",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "ID_ACHIEV_14",
@@ -3931,7 +3936,7 @@
       "Name": "Who\u0027s in Charge Here?",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "ID_ACHIEV_15",
@@ -3987,7 +3992,7 @@
       "Name": "Shall Not Pass",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "ID_ACHIEV_22",
@@ -4043,7 +4048,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3803
+      "UsersEstimate": 3804
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -4075,7 +4080,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 2702
+      "UsersEstimate": 2703
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -4107,7 +4112,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1651
+      "UsersEstimate": 1652
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -4171,7 +4176,7 @@
       "Name": "OPERATOR",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1801
+      "UsersEstimate": 1802
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -4362,15 +4367,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5004,
+      "Progressed": 5005,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-11-03T01:46:55.8375725+00:00",
-  "LastChanged_Achievements": "2023-12-20T19:06:37.4344378+00:00",
+  "LastChanged_Achievements": "2023-12-20T20:06:27.8088427+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.7369287+00:00",
-  "LastUpdate_Ratings": "2023-12-20T18:59:20.2972326+00:00",
-  "LastUpdate_Achievements": "2023-12-20T19:06:37.4345028+00:00"
+  "LastUpdate_Ratings": "2023-12-20T19:59:21.166764+00:00",
+  "LastUpdate_Achievements": "2023-12-20T20:06:27.8089043+00:00"
 }

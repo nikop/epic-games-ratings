@@ -7,7 +7,7 @@ Number of Ratings: 177  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Friend in Need... | 6.00% | ~405 |
-| Smooth Operator: Madison | 5.00% | ~337 |
+| Smooth Operator: Madison | 5.00% | ~338 |
 | The Brahdyssey | 3.00% | ~202 |
 | Caught in the Act | 3.00% | ~202 |
 | Katherine | 3.00% | ~202 |
@@ -15,13 +15,13 @@ Number of Ratings: 177  (23.09.2022)
 | Relentless | 3.00% | ~202 |
 | If at First You Don't Succeed... | 3.00% | ~202 |
 | Drunk and Disorderly: Stephanie | 2.00% | ~135 |
-| Amy | 1.00% | ~67 |
-| Drunk and Disorderly: Ashley | 1.00% | ~67 |
-| IRL Let's Player | 1.00% | ~67 |
-| Inspector | 1.00% | ~67 |
-| Newcomer: Vickie | 1.00% | ~67 |
-| Social Butterfly | 1.00% | ~67 |
-| The Muse: Madison | 1.00% | ~67 |
+| Amy | 1.00% | ~68 |
+| Drunk and Disorderly: Ashley | 1.00% | ~68 |
+| IRL Let's Player | 1.00% | ~68 |
+| Inspector | 1.00% | ~68 |
+| Newcomer: Vickie | 1.00% | ~68 |
+| Social Butterfly | 1.00% | ~68 |
+| The Muse: Madison | 1.00% | ~68 |
 | Smooth Operator: Ashley | 0.80% | ~54 |
 | The Crush | 0.80% | ~54 |
 | Amy: Scavenger Hunt | 0.70% | ~47 |
@@ -51,10 +51,10 @@ Number of Ratings: 177  (23.09.2022)
 | The Muse: Derek | 0.30% | ~20 |
 | Derezzed | 0.30% | ~20 |
 | Doja's Dope-Ass Dinolicious Danceapalooza | 0.20% | ~8 |
-| Ronin | 0.20% | ~13 |
-| A Striking Resemblance | 0.20% | ~13 |
-| Howz It Goin Dood | 0.20% | ~13 |
-| Snapped | 0.20% | ~13 |
+| Ronin | 0.20% | ~14 |
+| A Striking Resemblance | 0.20% | ~14 |
+| Howz It Goin Dood | 0.20% | ~14 |
+| Snapped | 0.20% | ~14 |
 | Against All Odds | 0.10% | ~7 |
 | Casabrova | 0.10% | ~7 |
 | Congrats, A Celebrity Hates You | 0.10% | ~4 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~7 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,749 (Ranked 189)  
+Progressed: 6,750 (Ranked 189)  
 Completed: 3 (0.04%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 3 (0.04%) (Ranked 342)
 | 2023-12-17 | 6,705 | 3 |
 | 2023-12-18 | 6,720 | 3 |
 | 2023-12-19 | 6,729 | 3 |
-| 2023-12-20 | 6,749 | 3 |
+| 2023-12-20 | 6,750 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

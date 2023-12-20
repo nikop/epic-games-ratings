@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -47,7 +47,7 @@
   "Tags": [],
   "EOS_Progressed": 1045,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -3175,9 +3175,9 @@
       "ID": "ParryRepeated1",
       "SetID": "a9e499d",
       "Name": "No, Thanks!",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 240
     },
     {
       "ID": "PhaseDiveCounter",
@@ -3352,8 +3352,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-18T08:57:59.1291337+00:00",
-  "LastChanged_Achievements": "2023-12-20T19:10:00.3780362+00:00",
+  "LastChanged_Achievements": "2023-12-20T20:09:37.8440509+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.1550939+00:00",
-  "LastUpdate_Ratings": "2023-12-20T18:59:17.4156335+00:00",
-  "LastUpdate_Achievements": "2023-12-20T19:10:00.3780794+00:00"
+  "LastUpdate_Ratings": "2023-12-20T19:59:18.3268297+00:00",
+  "LastUpdate_Achievements": "2023-12-20T20:09:37.8440961+00:00"
 }

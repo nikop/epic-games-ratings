@@ -4,8 +4,8 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 671,
+  "EOS_Progressed": 672,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.49,
   "EosHistory": [
@@ -2410,6 +2410,11 @@
       "Time": "2023-12-20T19:09:44.5681011+00:00",
       "NumProgressed": 671,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-20T20:09:21.9935674+00:00",
+      "NumProgressed": 672,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -2422,7 +2427,7 @@
       "Name": "The Ultimate Prize",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "achievement_10",
@@ -2430,7 +2435,7 @@
       "Name": "Holey Moley",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "achievement_11",
@@ -2454,7 +2459,7 @@
       "Name": "Competitor\u0027s Spirit",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "achievement_14",
@@ -2478,7 +2483,7 @@
       "Name": "Star Power",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "achievement_17",
@@ -2486,7 +2491,7 @@
       "Name": "Clean Sheet",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "achievement_18",
@@ -2534,7 +2539,7 @@
       "Name": "The Strongest Field in Golf",
       "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "achievement_7",
@@ -2542,7 +2547,7 @@
       "Name": "Makin\u0027 the Cut",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "achievement_8",
@@ -2565,13 +2570,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 671,
+      "Progressed": 672,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-12-20T19:09:44.5681005+00:00",
+  "LastChanged_Achievements": "2023-12-20T20:09:21.9935672+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:04.0623721+00:00",
-  "LastUpdate_Ratings": "2023-12-20T18:59:11.728869+00:00",
-  "LastUpdate_Achievements": "2023-12-20T19:09:44.5681256+00:00"
+  "LastUpdate_Ratings": "2023-12-20T19:59:12.7168801+00:00",
+  "LastUpdate_Achievements": "2023-12-20T20:09:21.9935898+00:00"
 }

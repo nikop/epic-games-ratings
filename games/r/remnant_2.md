@@ -5,26 +5,26 @@ Rating: 4.74 (Ranked 162)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 6.00% | ~15,418 |
-| First of Many | 6.00% | ~15,418 |
-| Not Your Average Trait | 4.00% | ~10,279 |
-| Expanding Horizons | 3.00% | ~7,709 |
-| Gleaming the Cube | 3.00% | ~7,709 |
-| Quest for Survival | 3.00% | ~7,709 |
-| Familiar Face | 3.00% | ~7,709 |
-| Boss'n Up | 3.00% | ~7,709 |
-| Trait Chaser | 3.00% | ~7,709 |
-| Not So Special Now | 2.00% | ~5,139 |
-| Not a Janitor | 2.00% | ~5,139 |
-| Equal Measures | 2.00% | ~5,139 |
-| Blue Goddess | 2.00% | ~5,139 |
-| Duality | 2.00% | ~5,139 |
-| Top Performer | 2.00% | ~5,139 |
-| Shhh...It's a Secret | 2.00% | ~5,139 |
-| Was This Supposed To Happen? | 2.00% | ~5,139 |
-| Almost There | 2.00% | ~5,139 |
-| Make Some Room | 2.00% | ~5,139 |
-| Good, But Could Be Better! | 2.00% | ~5,139 |
+| The Killing Jar | 6.00% | ~15,421 |
+| First of Many | 6.00% | ~15,421 |
+| Expanding Horizons | 4.00% | ~10,281 |
+| Not Your Average Trait | 4.00% | ~10,281 |
+| Gleaming the Cube | 3.00% | ~7,710 |
+| Quest for Survival | 3.00% | ~7,710 |
+| Familiar Face | 3.00% | ~7,710 |
+| Boss'n Up | 3.00% | ~7,710 |
+| Trait Chaser | 3.00% | ~7,710 |
+| Not So Special Now | 2.00% | ~5,140 |
+| Not a Janitor | 2.00% | ~5,140 |
+| Equal Measures | 2.00% | ~5,140 |
+| Blue Goddess | 2.00% | ~5,140 |
+| Duality | 2.00% | ~5,140 |
+| Top Performer | 2.00% | ~5,140 |
+| Shhh...It's a Secret | 2.00% | ~5,140 |
+| Was This Supposed To Happen? | 2.00% | ~5,140 |
+| Almost There | 2.00% | ~5,140 |
+| Make Some Room | 2.00% | ~5,140 |
+| Good, But Could Be Better! | 2.00% | ~5,140 |
 | Am I Seeing This? | 1.00% | ~2,570 |
 | Chaos | 1.00% | ~2,570 |
 | Traitor | 1.00% | ~2,570 |
@@ -39,8 +39,8 @@ Rating: 4.74 (Ranked 162)
 | The Web | 1.00% | ~2,570 |
 | Scrap Collector | 1.00% | ~2,570 |
 | All These Traits� | 1.00% | ~2,570 |
-| Regicide | 1.00% | ~361 |
-| Master of the Dark Arts | 1.00% | ~361 |
+| Regicide | 1.00% | ~362 |
+| Master of the Dark Arts | 1.00% | ~362 |
 | Scrap Hoarder | 0.90% | ~2,313 |
 | The Ultimate Weapon | 0.90% | ~2,313 |
 | Edgelord | 0.80% | ~2,056 |
@@ -57,11 +57,11 @@ Rating: 4.74 (Ranked 162)
 | Cutting Edge | 0.40% | ~1,028 |
 | The Collector | 0.40% | ~1,028 |
 | Proving Grounds | 0.30% | ~771 |
-| Succession | 0.30% | ~108 |
-| You Shall Pass | 0.30% | ~108 |
+| Succession | 0.30% | ~109 |
+| You Shall Pass | 0.30% | ~109 |
 | A Foul Feast | 0.20% | ~72 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 256,964 (Ranked 61)  
+Progressed: 257,015 (Ranked 61)  
 Completed: 610 (0.24%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 610 (0.24%) (Ranked 261)
 | 2023-12-17 | 252,137 | 598 |
 | 2023-12-18 | 254,063 | 603 |
 | 2023-12-19 | 255,737 | 607 |
-| 2023-12-20 | 256,964 | 610 |
+| 2023-12-20 | 257,015 | 610 |
 ## Awards
 Max (Great Boss Battles): 3,262  (Ranked 97)  
 Sum: 7,711 (Ranked 113)  

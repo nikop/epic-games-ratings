@@ -1,7 +1,7 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.56 (Ranked 497)  
+Rating: 4.57 (Ranked 482)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,6 +13,7 @@ Rating: 4.56 (Ranked 497)
 | Become King | 0.30% | ~7 |
 | Complete Guard Faction | 0.30% | ~7 |
 | Defeat Ratnor Rodentson | 0.20% | ~5 |
+| Defeat 25 Frogs | 0.20% | ~5 |
 | Collect Gold | 0.10% | ~2 |
 | Collect Iron Ore | 0.10% | ~2 |
 | Collect Monster Parts | 0.10% | ~2 |
@@ -27,7 +28,6 @@ Rating: 4.56 (Ranked 497)
 | Ranged Weapon | 0.10% | ~2 |
 | Two Handed Weapon | 0.10% | ~2 |
 | Defeat 25 Grubs | 0.10% | ~2 |
-| Defeat 25 Frogs | 0.10% | ~2 |
 | Defeat 25 Mozis | 0.10% | ~2 |
 | Discover the mystery of the Kings Chambers | 0.10% | ~2 |
 | Kitchen Ready To Cook | 0.10% | ~2 |
@@ -293,3 +293,4 @@ Completed: 12 (0.53%) (Ranked 211)
 | 2023-09-01 | 4.54 | 0 | 0 |
 | 2023-10-09 | 4.55 | 0 | 0 |
 | 2023-12-16 | 4.56 | 0 | 0 |
+| 2023-12-20 | 4.57 | 0 | 0 |

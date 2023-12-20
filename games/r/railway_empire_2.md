@@ -7,8 +7,8 @@ Rating: 4.42 (Ranked 720)
 | ---- | ---------- | ----- |
 | Country Bumpkin | 76.00% | ~1,874 |
 | A new Journey | 75.00% | ~1,850 |
-| From X to Y | 74.00% | ~1,825 |
 | Departure | 74.00% | ~1,825 |
+| From X to Y | 73.00% | ~1,800 |
 | Way of Iron | 71.00% | ~1,751 |
 | Mystery Tour | 70.00% | ~1,726 |
 | We brake for nobody | 68.00% | ~1,677 |
@@ -27,17 +27,17 @@ Rating: 4.42 (Ranked 720)
 | Bull and bear | 34.00% | ~838 |
 | Stoker | 33.00% | ~814 |
 | Full Steam ahead | 32.00% | ~789 |
-| All mine | 31.00% | ~764 |
-| Financial Shark | 31.00% | ~764 |
+| All mine | 30.00% | ~740 |
 | Mole | 30.00% | ~740 |
+| Financial Shark | 30.00% | ~740 |
 | Socializer | 30.00% | ~740 |
 | General Manager | 28.00% | ~690 |
 | Country Life | 28.00% | ~690 |
 | Hostile Takeover | 25.00% | ~616 |
 | Seven at one stroke | 24.00% | ~592 |
-| Traffic Junction | 22.00% | ~543 |
 | Breaking Ground | 22.00% | ~543 |
 | Trailblazer | 21.00% | ~518 |
+| Traffic Junction | 21.00% | ~518 |
 | Traffic Jam | 19.00% | ~469 |
 | Networker | 18.00% | ~444 |
 | Resistance is futile | 17.00% | ~419 |

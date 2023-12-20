@@ -5,21 +5,21 @@ Rating: 4.88 (Ranked 16)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 44.00% | ~4,350 |
-| Start with a bang! | 43.00% | ~4,251 |
-| You can pet the cat! | 39.00% | ~3,856 |
-| Who put gears in there? | 31.00% | ~3,065 |
-| Cream of the Crop | 27.00% | ~2,669 |
-| Thanks for the free chip, Peppermint! | 26.00% | ~2,571 |
-| You got this, Peppermint? | 22.00% | ~2,175 |
-| Perfect Parry | 20.00% | ~1,977 |
+| Feeling the beat! | 44.00% | ~4,352 |
+| Start with a bang! | 43.00% | ~4,254 |
+| You can pet the cat! | 39.00% | ~3,858 |
+| Who put gears in there? | 31.00% | ~3,067 |
+| Cream of the Crop | 27.00% | ~2,671 |
+| Thanks for the free chip, Peppermint! | 26.00% | ~2,572 |
+| You got this, Peppermint? | 22.00% | ~2,176 |
+| Perfect Parry | 20.00% | ~1,978 |
 | Alright, that felt AWESOME! | 19.00% | ~1,879 |
-| I play my own way! | 18.00% | ~1,780 |
-| This will cost you big time | 15.00% | ~1,483 |
-| Uh, they were broken when I got here | 15.00% | ~1,483 |
-| Z-shielding's got nothing on us! | 14.00% | ~1,384 |
-| Does that say weakpoint? | 14.00% | ~1,384 |
-| Kissing the sky! | 13.00% | ~1,285 |
+| I play my own way! | 18.00% | ~1,781 |
+| This will cost you big time | 15.00% | ~1,484 |
+| Uh, they were broken when I got here | 15.00% | ~1,484 |
+| Z-shielding's got nothing on us! | 14.00% | ~1,385 |
+| Does that say weakpoint? | 14.00% | ~1,385 |
+| Kissing the sky! | 13.00% | ~1,286 |
 | Whoa! There's ANOTHER health bar!? | 11.00% | ~1,088 |
 | The Negotiator | 10.00% | ~989 |
 | You must like calling me in, Chai | 9.00% | ~890 |
@@ -30,11 +30,11 @@ Rating: 4.88 (Ranked 16)
 | Time to pay up! | 7.00% | ~692 |
 | Who's the boss now? | 7.00% | ~692 |
 | I have to read these things? | 7.00% | ~692 |
-| NOW we got a kickass hideout! | 6.00% | ~504 |
-| Well that was a rush! | 5.00% | ~494 |
-| That's a lot of junk metal… | 5.00% | ~494 |
-| There's such a thing as TOO helpful | 5.00% | ~494 |
-| Beat-hit mania | 4.00% | ~395 |
+| NOW we got a kickass hideout! | 6.00% | ~505 |
+| Well that was a rush! | 5.00% | ~495 |
+| That's a lot of junk metal… | 5.00% | ~495 |
+| There's such a thing as TOO helpful | 5.00% | ~495 |
+| Beat-hit mania | 4.00% | ~396 |
 | Chip-tuned | 3.00% | ~297 |
 | I told you I'd be fine, Peppermint! | 3.00% | ~297 |
 | I hit things with a guitar really well. | 2.00% | ~198 |
@@ -77,7 +77,7 @@ Rating: 4.88 (Ranked 16)
 | Voices from within | 0.10% | ~8 |
 | Low budget finish | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,887 (Ranked 174)  
+Progressed: 9,892 (Ranked 174)  
 Completed: 8 (0.08%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 8 (0.08%) (Ranked 316)
 | 2023-12-17 | 8,671 | 8 |
 | 2023-12-18 | 9,200 | 8 |
 | 2023-12-19 | 9,581 | 8 |
-| 2023-12-20 | 9,887 | 8 |
+| 2023-12-20 | 9,892 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewPlayers": 348,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 243,
+  "EOS_Progressed": 244,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.47,
+  "EOS_Completed_Percentage": 2.46,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:37.2601776+00:00",
@@ -565,6 +565,11 @@
       "Time": "2023-12-19T10:04:24.2953765+00:00",
       "NumProgressed": 243,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-20T20:05:17.2434733+00:00",
+      "NumProgressed": 244,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 17,
@@ -630,9 +635,9 @@
       "ID": "maybe_you_should_give_it_another_go",
       "SetID": "84ad177",
       "Name": "Maybe you should give it another go",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 29
+      "UsersEstimate": 27
     },
     {
       "ID": "mikey_lizard",
@@ -648,23 +653,23 @@
       "Name": "Mission Complete",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "super_seducer",
       "SetID": "84ad177",
       "Name": "Super Seducer",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 124
+      "UsersEstimate": 122
     },
     {
       "ID": "superstar_crossed_lovers",
       "SetID": "84ad177",
       "Name": "Superstar-crossed lovers",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 97
+      "UsersEstimate": 95
     },
     {
       "ID": "thats_my_boy",
@@ -680,7 +685,7 @@
       "Name": "This won\u0027t end well...",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "tried_to_warn_you",
@@ -711,7 +716,7 @@
     {
       "ID": "84ad177",
       "IsBase": true,
-      "Progressed": 243,
+      "Progressed": 244,
       "Completed": 6
     }
   ],
@@ -719,8 +724,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-12-20T19:05:26.2362648+00:00",
+  "LastChanged_Achievements": "2023-12-20T20:05:17.2434729+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:59.0408325+00:00",
-  "LastUpdate_Ratings": "2023-12-20T19:03:18.9828097+00:00",
-  "LastUpdate_Achievements": "2023-12-20T19:05:26.2362793+00:00"
+  "LastUpdate_Ratings": "2023-12-20T20:03:09.7137635+00:00",
+  "LastUpdate_Achievements": "2023-12-20T20:05:17.2434857+00:00"
 }

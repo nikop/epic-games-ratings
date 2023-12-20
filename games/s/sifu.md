@@ -6,11 +6,11 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 3.00% | ~22,125 |
-| Life is your teacher | 3.00% | ~22,125 |
-| The Assault | 2.00% | ~14,750 |
-| The Hateful Pole Fighter | 2.00% | ~14,750 |
-| Lightning Hands | 2.00% | ~14,750 |
+| The Old Grandmaster | 3.00% | ~22,126 |
+| Life is your teacher | 3.00% | ~22,126 |
+| The Assault | 2.00% | ~14,751 |
+| The Hateful Pole Fighter | 2.00% | ~14,751 |
+| Lightning Hands | 2.00% | ~14,751 |
 | A Lady's Blood in the Snow | 1.00% | ~7,375 |
 | Lady Wing Chun | 1.00% | ~7,375 |
 | Kill Nil | 1.00% | ~7,375 |
@@ -26,7 +26,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Furious Fists | 0.90% | ~6,638 |
 | I know Kung-Fu | 0.90% | ~6,638 |
 | Take damage to save time | 0.90% | ~6,638 |
-| Project Arena | 0.90% | ~421 |
+| Project Arena | 0.90% | ~422 |
 | Qi Gong: Mind | 0.80% | ~5,900 |
 | Scareless | 0.70% | ~5,163 |
 | Kung-Fu Tussle | 0.70% | ~5,163 |
@@ -43,7 +43,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Prodigal Child | 0.30% | ~2,213 |
 | The 36th Chamber of Kung-Fu | 0.30% | ~2,213 |
 | Sword Stained With Blood | 0.30% | ~2,213 |
-| The best strikes are the ones we avoid | 0.30% | ~140 |
+| The best strikes are the ones we avoid | 0.30% | ~141 |
 | Drunken Fighter | 0.20% | ~1,475 |
 | Martial Artist | 0.20% | ~1,475 |
 | Knowledge Greed | 0.20% | ~1,475 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~47 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 737,504 (Ranked 23)  
+Progressed: 737,533 (Ranked 23)  
 Completed: 12,958 (1.76%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 12,958 (1.76%) (Ranked 140)
 | 2023-12-17 | 733,014 | 12,955 |
 | 2023-12-18 | 734,825 | 12,956 |
 | 2023-12-19 | 736,295 | 12,958 |
-| 2023-12-20 | 737,504 | 12,958 |
+| 2023-12-20 | 737,533 | 12,958 |
 ## Awards
 Max (Great Boss Battles): 6,973  (Ranked 55)  
 Sum: 12,222 (Ranked 84)  

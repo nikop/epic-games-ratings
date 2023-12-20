@@ -1,7 +1,7 @@
 # Hercule Poirot - The First Cases
 [Store](https://store.epicgames.com/en-US/p/hercule-poirot-the-first-cases-584238)  
 [View Rawdata](../../db/h/hercule_poirot_-_the_first_cases.json)  
-Rating: 4.35 (Ranked 800)  
+Rating: 4.35 (Ranked 801)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -20,14 +20,14 @@ Rating: 4.35 (Ranked 800)
 | Truth from Within | 49.00% | ~227 |
 | The Major | 47.00% | ~218 |
 | Comtesse Margaux de Vos | 46.00% | ~213 |
-| Curious and Beautiful | 44.00% | ~204 |
+| Curious and Beautiful | 45.00% | ~208 |
 | Jacqueline “Jackie” Conrad | 44.00% | ~204 |
 | The Interrogations | 44.00% | ~204 |
 | Well-acquainted | 42.00% | ~194 |
 | Zakariya Demir | 41.00% | ~190 |
 | Well-read | 40.00% | ~185 |
 | Cassandra Van den Bosch | 38.00% | ~176 |
-| The Secret | 37.00% | ~171 |
+| The Secret | 38.00% | ~176 |
 | Gedeon Demir | 35.00% | ~162 |
 | Rehana Piette | 34.00% | ~157 |
 | Instinct is Marvellous | 33.00% | ~153 |
@@ -38,13 +38,13 @@ Rating: 4.35 (Ranked 800)
 | The Family | 28.00% | ~130 |
 | Well-travelled | 27.00% | ~125 |
 | Thinking of Everything | 27.00% | ~125 |
+| Exquisite Artwork | 26.00% | ~120 |
 | Archibald Sterling | 26.00% | ~120 |
 | Viscount Edwin Van den Bosch | 26.00% | ~120 |
-| Exquisite Artwork | 25.00% | ~116 |
 | Well-prepared | 21.00% | ~97 |
 | The Truth | 21.00% | ~97 |
+| Sunken Secrets | 19.00% | ~88 |
 | I Like an Audience | 19.00% | ~88 |
-| Sunken Secrets | 18.00% | ~83 |
 | What Else Did I Miss? | 18.00% | ~83 |
 | The Denouement | 17.00% | ~79 |
 | Probably the Greatest Detective in the World | 13.00% | ~60 |

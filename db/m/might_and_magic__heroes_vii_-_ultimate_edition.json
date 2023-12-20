@@ -4,11 +4,11 @@
   "ProductSlug": "might-and-magic-heroes-7",
   "Ranking_Rating": 673,
   "Ranking_Popularity": 474,
-  "Ranking_PopularitySum": 394,
+  "Ranking_PopularitySum": 392,
   "Ranking_EOS_Progress": 811,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 559,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2020-08-25T15:00:00+00:00",
     "PcReleaseDate": "2015-09-29T08:00:00+00:00",
@@ -934,10 +934,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 245,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2023-12-20T19:57:06.4874934+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 246,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 245,
+  "NumberOfAwards": 246,
   "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -951,7 +957,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1001,8 +1007,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:09.0043612+00:00",
-  "LastChanged": "2023-12-19T18:00:15.1319483+00:00",
+  "LastChanged": "2023-12-20T19:57:06.4874933+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:46.9470421+00:00",
-  "LastUpdate_Ratings": "2023-12-20T18:02:45.7996716+00:00",
-  "LastUpdate_Achievements": "2023-12-20T19:09:06.4925589+00:00"
+  "LastUpdate_Ratings": "2023-12-20T19:57:06.4874938+00:00",
+  "LastUpdate_Achievements": "2023-12-20T20:08:43.8172422+00:00"
 }

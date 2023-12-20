@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2022-05-19T14:00:00+00:00",
@@ -257,9 +257,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16180,
+  "EOS_Progressed": 16191,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 1849,
+  "EOS_NewPlayers": 1846,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -5082,6 +5082,11 @@
       "Time": "2023-12-20T19:08:20.5400599+00:00",
       "NumProgressed": 16180,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2023-12-20T20:06:39.5940365+00:00",
+      "NumProgressed": 16191,
+      "NumCompleted": 71
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -5126,7 +5131,7 @@
       "Name": "Savior",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 1456
+      "UsersEstimate": 1457
     },
     {
       "ID": "SAVE_EVERYONE_PERFECT_1_2",
@@ -5134,7 +5139,7 @@
       "Name": "Righter of Wrongs",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "SAVE_ONE_PERSON_1_0",
@@ -5142,7 +5147,7 @@
       "Name": "Rescuer",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1942
+      "UsersEstimate": 1943
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -5158,7 +5163,7 @@
       "Name": "Locksmith",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "WATCH_ALL_SCENES_1_5",
@@ -5173,7 +5178,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 16180,
+      "Progressed": 16191,
       "Completed": 71
     }
   ],
@@ -5181,8 +5186,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2023-12-18T03:58:42.6359817+00:00",
-  "LastChanged_Achievements": "2023-12-20T19:08:20.5400596+00:00",
+  "LastChanged_Achievements": "2023-12-20T20:06:39.5940361+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:09.5453569+00:00",
-  "LastUpdate_Ratings": "2023-12-20T18:59:40.7165039+00:00",
-  "LastUpdate_Achievements": "2023-12-20T19:08:20.5400876+00:00"
+  "LastUpdate_Ratings": "2023-12-20T19:59:41.5269978+00:00",
+  "LastUpdate_Achievements": "2023-12-20T20:06:39.5940638+00:00"
 }

@@ -6,10 +6,10 @@
 | ---- | ---------- | ----- |
 | In the Black | 59.00% | ~238 |
 | Starting Skyward | 53.00% | ~214 |
-| Grime is Not Good | 47.00% | ~189 |
-| Floor Galore | 41.00% | ~165 |
-| Dinner Dash | 41.00% | ~165 |
-| Campaign Launch | 40.00% | ~161 |
+| Grime is Not Good | 47.00% | ~190 |
+| Floor Galore | 41.00% | ~166 |
+| Dinner Dash | 41.00% | ~166 |
+| Campaign Launch | 40.00% | ~162 |
 | Need a Consult | 37.00% | ~149 |
 | It's Technical | 37.00% | ~149 |
 | Upgrade Unlock | 36.00% | ~145 |
@@ -32,12 +32,12 @@
 | Rehab Expert | 18.00% | ~73 |
 | Tasty Profits | 18.00% | ~73 |
 | Established Fame | 17.00% | ~69 |
-| Under One Roof | 16.00% | ~64 |
-| Cashflow Chief | 16.00% | ~64 |
-| Starred Dining | 15.00% | ~60 |
-| Smooth Operator | 13.00% | ~52 |
-| Boutique Benefits | 13.00% | ~52 |
-| Thrilled Tenants | 13.00% | ~52 |
+| Under One Roof | 16.00% | ~65 |
+| Cashflow Chief | 16.00% | ~65 |
+| Starred Dining | 15.00% | ~61 |
+| Smooth Operator | 13.00% | ~53 |
+| Boutique Benefits | 13.00% | ~53 |
+| Thrilled Tenants | 13.00% | ~53 |
 | Terrifically Trashed | 12.00% | ~48 |
 | Swimming in Surplus | 11.00% | ~44 |
 | Aestheticly Pleased | 10.00% | ~40 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 403 (Ranked 342)  
+Progressed: 404 (Ranked 342)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-17 | 392 | 0 |
 | 2023-12-18 | 398 | 0 |
 | 2023-12-19 | 402 | 0 |
-| 2023-12-20 | 403 | 0 |
+| 2023-12-20 | 404 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

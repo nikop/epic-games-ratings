@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Second Chance | 58.00% | ~130 |
-| Press-ganged | 42.00% | ~94 |
+| Press-ganged | 43.00% | ~97 |
 | The Package | 27.00% | ~61 |
 | Conquered | 20.00% | ~45 |
 | Randomized | 18.00% | ~40 |
+| Scribe | 12.00% | ~27 |
 | Breached | 12.00% | ~27 |
-| Scribe | 11.00% | ~25 |
 | Tactician | 10.00% | ~22 |
 | Conciliator | 9.00% | ~20 |
 | Fight Another Day | 9.00% | ~20 |

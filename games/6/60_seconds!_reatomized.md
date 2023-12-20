@@ -42,10 +42,10 @@ Rating: 4.54 (Ranked 532)
 | Mad Hatter | 7.00% | ~410 |
 | Yes Man | 7.00% | ~410 |
 | Lumbersexual | 6.00% | ~351 |
+| Feline Domination | 5.00% | ~293 |
 | Take that, Brundlefly! | 5.00% | ~293 |
 | Rogue One | 5.00% | ~293 |
 | Danger zone | 4.00% | ~234 |
-| Feline Domination | 4.00% | ~234 |
 | Friend in need | 4.00% | ~234 |
 | Soup Can into Space | 3.00% | ~176 |
 | Enola Gay | 2.00% | ~117 |

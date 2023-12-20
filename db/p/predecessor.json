@@ -2,13 +2,13 @@
   "ID": "85f0435aa88347d185dbcb147716609b",
   "Name": "Predecessor",
   "ProductSlug": "predecessor",
-  "Ranking_Rating": 836,
+  "Ranking_Rating": 841,
   "Ranking_Popularity": 272,
   "Ranking_PopularitySum": 242,
   "Ranking_EOS_Progress": 811,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 559,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-12-01T08:00:00+00:00",
     "PcReleaseDate": null,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.32,
+  "Rating": 4.31,
   "RatingHistory": [
     {
       "Time": "2022-12-02T07:57:13.3206905+00:00",
@@ -4375,10 +4375,16 @@
       "Rating": 4.32,
       "NumberOfAwards": 1404,
       "NumberOfAwardsMax": 251
+    },
+    {
+      "Time": "2023-12-20T20:00:26.8995626+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 1406,
+      "NumberOfAwardsMax": 251
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1404,
+  "NumberOfAwards": 1406,
   "NumberOfAwardsMax": 251,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4422,7 +4428,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 152
+      "Count": 154
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4455,8 +4461,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-01T08:57:03.8695537+00:00",
   "FirstSeenRating": "2022-12-02T07:57:13.3206902+00:00",
-  "LastChanged": "2023-12-20T18:00:55.0403086+00:00",
+  "LastChanged": "2023-12-20T20:00:26.8995624+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:39.9839434+00:00",
-  "LastUpdate_Ratings": "2023-12-20T19:00:25.2915998+00:00",
-  "LastUpdate_Achievements": "2023-12-20T19:05:32.511339+00:00"
+  "LastUpdate_Ratings": "2023-12-20T20:00:26.8995632+00:00",
+  "LastUpdate_Achievements": "2023-12-20T20:05:23.4581452+00:00"
 }

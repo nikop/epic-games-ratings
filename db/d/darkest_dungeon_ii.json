@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9880,10 +9880,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20836,
       "NumberOfAwardsMax": 7805
+    },
+    {
+      "Time": "2023-12-20T19:59:37.5330286+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20840,
+      "NumberOfAwardsMax": 7805
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20836,
+  "NumberOfAwards": 20840,
   "NumberOfAwardsMax": 7805,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9951,7 +9957,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1394
+      "Count": 1398
     },
     {
       "Text": "This game has a Creative Community",
@@ -9960,9 +9966,9 @@
       "Count": 1033
     }
   ],
-  "EOS_Progressed": 128755,
+  "EOS_Progressed": 128765,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2121,
+  "EOS_NewPlayers": 2113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36000,6 +36006,11 @@
       "Time": "2023-12-20T19:09:23.666331+00:00",
       "NumProgressed": 128755,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-20T20:09:00.9575472+00:00",
+      "NumProgressed": 128765,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36139,7 +36150,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5150
+      "UsersEstimate": 5151
     },
     {
       "ID": "combat_kill_cadavers",
@@ -36363,7 +36374,7 @@
       "Name": "Autodidact",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5150
+      "UsersEstimate": 5151
     },
     {
       "ID": "hero_story_complete_all",
@@ -36547,7 +36558,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "combat_kill_collector",
@@ -36571,7 +36582,7 @@
       "Name": "No Mercy",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "combat_land_riposte_dmg_threshold_duelist",
@@ -36611,7 +36622,7 @@
       "Name": "Lost and Found",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -36619,7 +36630,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -36642,21 +36653,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 128755,
+      "Progressed": 128765,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 3624,
+      "Progressed": 3634,
       "Completed": 802
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-20T16:59:35.1528366+00:00",
-  "LastChanged_Achievements": "2023-12-20T19:09:23.6663304+00:00",
+  "LastChanged": "2023-12-20T19:59:37.5330285+00:00",
+  "LastChanged_Achievements": "2023-12-20T20:09:00.9575469+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-20T18:59:36.7211409+00:00",
-  "LastUpdate_Achievements": "2023-12-20T19:09:23.6664888+00:00"
+  "LastUpdate_Ratings": "2023-12-20T19:59:37.5330293+00:00",
+  "LastUpdate_Achievements": "2023-12-20T20:09:00.9577163+00:00"
 }

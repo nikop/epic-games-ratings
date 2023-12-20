@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -795,7 +795,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3488,
+  "EOS_Progressed": 3489,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
@@ -4555,6 +4555,11 @@
       "Time": "2023-12-20T19:06:10.9569435+00:00",
       "NumProgressed": 3488,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T20:06:01.4720858+00:00",
+      "NumProgressed": 3489,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4796,9 +4801,9 @@
       "ID": "Kills_Streak",
       "SetID": "3jha1np",
       "Name": "Purging Spree",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 279
     },
     {
       "ID": "Kills_Vakir",
@@ -5109,21 +5114,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3488,
+      "Progressed": 3489,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3488,
+      "Progressed": 3489,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-16T13:05:46.2808+00:00",
-  "LastChanged_Achievements": "2023-12-20T19:06:10.956943+00:00",
+  "LastChanged_Achievements": "2023-12-20T20:06:01.4720851+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:54.7152084+00:00",
-  "LastUpdate_Ratings": "2023-12-20T19:03:11.9877098+00:00",
-  "LastUpdate_Achievements": "2023-12-20T19:06:10.9570174+00:00"
+  "LastUpdate_Ratings": "2023-12-20T20:03:02.7035642+00:00",
+  "LastUpdate_Achievements": "2023-12-20T20:06:01.4721481+00:00"
 }

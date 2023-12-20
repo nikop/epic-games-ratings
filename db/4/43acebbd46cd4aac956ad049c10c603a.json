@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -222,7 +222,7 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 1061,
+  "EOS_Progressed": 1062,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
@@ -2762,6 +2762,11 @@
       "Time": "2023-12-20T19:05:14.9445414+00:00",
       "NumProgressed": 1061,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T20:05:06.2886822+00:00",
+      "NumProgressed": 1062,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2782,7 +2787,7 @@
       "Name": "Ab Initio",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "AnthropicHills",
@@ -2862,7 +2867,7 @@
       "Name": "Desolate Island",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "Discovery",
@@ -2926,7 +2931,7 @@
       "Name": "Grasslands Ring",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "HighPlain",
@@ -2956,9 +2961,9 @@
       "ID": "LordOfTheFiles",
       "SetID": "1n308hc",
       "Name": "Lord of the Files",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 244
+      "UsersEstimate": 255
     },
     {
       "ID": "LostMarshes",
@@ -2966,7 +2971,7 @@
       "Name": "Lost Marshes",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "MistressOfRiddles",
@@ -3046,7 +3051,7 @@
       "Name": "Prometheus Unbound",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "PuzzleFiend",
@@ -3060,9 +3065,9 @@
       "ID": "RemnantsOfThePast",
       "SetID": "1n308hc",
       "Name": "Remnants of the Past",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 255
     },
     {
       "ID": "RenaissanceRobot",
@@ -3110,7 +3115,7 @@
       "Name": "Southern Coast",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "TeamSpirit",
@@ -3118,7 +3123,7 @@
       "Name": "Team Spirit",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "TextAdventurer",
@@ -3182,7 +3187,7 @@
       "Name": "The Word Endures",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "TouchGrass",
@@ -3245,7 +3250,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1061,
+      "Progressed": 1062,
       "Completed": 1
     }
   ],
@@ -3253,8 +3258,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-20T19:05:14.944541+00:00",
+  "LastChanged_Achievements": "2023-12-20T20:05:06.2886821+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-20T18:59:47.0749695+00:00",
-  "LastUpdate_Achievements": "2023-12-20T19:05:14.9445929+00:00"
+  "LastUpdate_Ratings": "2023-12-20T19:59:47.9374465+00:00",
+  "LastUpdate_Achievements": "2023-12-20T20:05:06.2887283+00:00"
 }

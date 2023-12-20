@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2166,9 +2166,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15849,
+  "EOS_Progressed": 15851,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18006,6 +18006,11 @@
       "Time": "2023-12-20T19:09:50.6998301+00:00",
       "NumProgressed": 15849,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-20T20:09:28.4730087+00:00",
+      "NumProgressed": 15851,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -18279,9 +18284,9 @@
       "ID": "ACHIEVEMENT_CARTHAGE_3_SILVER",
       "SetID": "9201eeb",
       "Name": "Silver Victory (Carthage 3)",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_4",
@@ -19511,9 +19516,9 @@
       "ID": "ACHIEVEMENT_LBP2",
       "SetID": "7l38kb8",
       "Name": "Learn By Playing 2 - Just",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_LBP3",
@@ -20199,9 +20204,9 @@
       "ID": "ACHIEVEMENT_VICTORY_RANDOMIZE_LEADERS",
       "SetID": "9201eeb",
       "Name": "Randomized Leaders",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_ROLE_PLAYING",
@@ -20880,21 +20885,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15849,
+      "Progressed": 15851,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15849,
+      "Progressed": 15851,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-19T18:02:53.2051748+00:00",
-  "LastChanged_Achievements": "2023-12-20T19:09:50.6998297+00:00",
+  "LastChanged_Achievements": "2023-12-20T20:09:28.4730082+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:47.4773202+00:00",
-  "LastUpdate_Ratings": "2023-12-20T19:03:01.9749438+00:00",
-  "LastUpdate_Achievements": "2023-12-20T19:09:50.7008249+00:00"
+  "LastUpdate_Ratings": "2023-12-20T20:02:52.344899+00:00",
+  "LastUpdate_Achievements": "2023-12-20T20:09:28.4740422+00:00"
 }

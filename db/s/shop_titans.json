@@ -7663,10 +7663,10 @@
       "Count": 3800
     }
   ],
-  "EOS_Progressed": 146557,
+  "EOS_Progressed": 146566,
   "EOS_Completed": 325,
-  "EOS_NewPlayers": 1559,
-  "EOS_NewCompleters": 29,
+  "EOS_NewPlayers": 1547,
+  "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
     {
@@ -33233,6 +33233,11 @@
       "Time": "2023-12-20T19:04:02.9181181+00:00",
       "NumProgressed": 146557,
       "NumCompleted": 325
+    },
+    {
+      "Time": "2023-12-20T20:03:54.3423399+00:00",
+      "NumProgressed": 146566,
+      "NumCompleted": 325
     }
   ],
   "TotalAchievements": 112,
@@ -33244,7 +33249,7 @@
       "Name": "The Daily Grind",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5862
+      "UsersEstimate": 5863
     },
     {
       "ID": "advlevel02",
@@ -33380,7 +33385,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5862
+      "UsersEstimate": 5863
     },
     {
       "ID": "boss02",
@@ -33412,7 +33417,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13190
+      "UsersEstimate": 13191
     },
     {
       "ID": "chest02",
@@ -33508,7 +33513,7 @@
       "Name": "Disintermediation",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8793
+      "UsersEstimate": 8794
     },
     {
       "ID": "craft02",
@@ -33620,7 +33625,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8793
+      "UsersEstimate": 8794
     },
     {
       "ID": "expansion02",
@@ -33716,7 +33721,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10259
+      "UsersEstimate": 10260
     },
     {
       "ID": "gold02",
@@ -33724,7 +33729,7 @@
       "Name": "Pretty Penny",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5862
+      "UsersEstimate": 5863
     },
     {
       "ID": "gold03",
@@ -33796,7 +33801,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5862
+      "UsersEstimate": 5863
     },
     {
       "ID": "jackslot02",
@@ -33900,7 +33905,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5862
+      "UsersEstimate": 5863
     },
     {
       "ID": "master02",
@@ -33932,7 +33937,7 @@
       "Name": "The Greatest Grind",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1172
+      "UsersEstimate": 1173
     },
     {
       "ID": "masterpiece",
@@ -34004,7 +34009,7 @@
       "Name": "Marvels from the World Over",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1172
+      "UsersEstimate": 1173
     },
     {
       "ID": "rudo_a",
@@ -34020,7 +34025,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8793
+      "UsersEstimate": 8794
     },
     {
       "ID": "sell02",
@@ -34139,15 +34144,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 146557,
+      "Progressed": 146566,
       "Completed": 325
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-20T03:02:58.4385215+00:00",
-  "LastChanged_Achievements": "2023-12-20T19:04:02.9181179+00:00",
+  "LastChanged_Achievements": "2023-12-20T20:03:54.3423397+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.001195+00:00",
-  "LastUpdate_Ratings": "2023-12-20T19:03:14.1439011+00:00",
-  "LastUpdate_Achievements": "2023-12-20T19:04:02.9183376+00:00"
+  "LastUpdate_Ratings": "2023-12-20T20:03:04.864078+00:00",
+  "LastUpdate_Achievements": "2023-12-20T20:03:54.3426568+00:00"
 }

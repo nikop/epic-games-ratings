@@ -2,10 +2,10 @@
   "ID": "9b89b68d8751414db0991007bdc4766c",
   "Name": "JARS",
   "ProductSlug": "jars-e39063",
-  "Ranking_EOS_Progress": 461,
+  "Ranking_EOS_Progress": 460,
   "Ranking_EOS_Completed": 78,
-  "Ranking_EOS_NewPlayers": 480,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 463,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-10-20T16:00:00+00:00",
     "PcReleaseDate": "2021-10-20T16:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 104,
+  "EOS_Progressed": 105,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.81,
+  "EOS_Completed_Percentage": 4.76,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:38.9338531+00:00",
@@ -389,6 +389,11 @@
       "Time": "2023-12-15T23:04:40.884881+00:00",
       "NumProgressed": 104,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-20T20:08:06.6897337+00:00",
+      "NumProgressed": 105,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 20,
@@ -406,7 +411,7 @@
       "ID": "ACH_100_MINIONS_PLACED",
       "SetID": "3jfhgga",
       "Name": "I have an army!",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 25,
       "UsersEstimate": 63
     },
@@ -422,7 +427,7 @@
       "ID": "ACH_CHAPTER_0_DONE",
       "SetID": "3jfhgga",
       "Name": "The child of the night",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 50,
       "UsersEstimate": 76
     },
@@ -446,9 +451,9 @@
       "ID": "ACH_CHAPTER_3_DONE",
       "SetID": "3jfhgga",
       "Name": "Mirrors",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_CHAPTER_4_DONE",
@@ -470,7 +475,7 @@
       "ID": "ACH_ENCYCLOPEDIA_ENTRY",
       "SetID": "3jfhgga",
       "Name": "Missing data",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 25,
       "UsersEstimate": 87
     },
@@ -478,7 +483,7 @@
       "ID": "ACH_EQUIP_PERK",
       "SetID": "3jfhgga",
       "Name": "It fits. IT FITS!",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 25,
       "UsersEstimate": 76
     },
@@ -486,7 +491,7 @@
       "ID": "ACH_FIND_SECRET",
       "SetID": "3jfhgga",
       "Name": "A horrible thing will happen...",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 25,
       "UsersEstimate": 37
     },
@@ -550,7 +555,7 @@
       "ID": "ACH_STAGE_LOST_FIRST_TIME",
       "SetID": "3jfhgga",
       "Name": "Broken jar",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 25,
       "UsersEstimate": 81
     }
@@ -559,7 +564,7 @@
     {
       "ID": "3jfhgga",
       "IsBase": true,
-      "Progressed": 104,
+      "Progressed": 105,
       "Completed": 5
     }
   ],
@@ -567,8 +572,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.991429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:38.9338539+00:00",
   "LastChanged": "2023-03-31T05:58:01.9914291+00:00",
-  "LastChanged_Achievements": "2023-12-20T19:08:28.0175036+00:00",
+  "LastChanged_Achievements": "2023-12-20T20:08:06.6897334+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:59.9606789+00:00",
-  "LastUpdate_Ratings": "2023-12-20T18:57:33.7695219+00:00",
-  "LastUpdate_Achievements": "2023-12-20T19:08:28.0175147+00:00"
+  "LastUpdate_Ratings": "2023-12-20T19:57:35.2740843+00:00",
+  "LastUpdate_Achievements": "2023-12-20T20:08:06.6897435+00:00"
 }

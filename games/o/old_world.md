@@ -28,6 +28,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Silver Victory (Carthage 2) | 0.10% | ~16 |
 | Carthage - Rise of Rome | 0.10% | ~16 |
 | Bronze Victory (Carthage 3) | 0.10% | ~16 |
+| Silver Victory (Carthage 3) | 0.10% | ~16 |
 | Cleopatra's Love | 0.10% | ~16 |
 | Able | 0.10% | ~16 |
 | Ambitious | 0.10% | ~16 |
@@ -110,6 +111,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pyramids | 0.10% | ~16 |
 | Via Recta Souk | 0.10% | ~16 |
 | Learn By Playing 1 - Able | 0.10% | ~16 |
+| Learn By Playing 2 - Just | 0.10% | ~16 |
 | Learn to Play 1 | 0.10% | ~16 |
 | Learn to Play 2 | 0.10% | ~16 |
 | Learn to Play 3 | 0.10% | ~16 |
@@ -170,6 +172,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 0.10% | ~16 |
 | No Undo | 0.10% | ~16 |
 | Points Victory | 0.10% | ~16 |
+| Randomized Leaders | 0.10% | ~16 |
 | Role-Playing | 0.10% | ~16 |
 | Win a Single Player Game | 0.10% | ~16 |
 | The Clergy | 0.10% | ~16 |
@@ -193,7 +196,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hagia Sophia in Byzantion | 0.00% | ~0 |
 | Epic Victory (Carthage 3) | 0.00% | ~0 |
 | Gold Victory (Carthage 3) | 0.00% | ~0 |
-| Silver Victory (Carthage 3) | 0.00% | ~0 |
 | Carthage - Seizing Destiny | 0.00% | ~0 |
 | Bronze Victory (Carthage 4) | 0.00% | ~0 |
 | Epic Victory (Carthage 4) | 0.00% | ~0 |
@@ -265,7 +267,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hardcore | 0.00% | ~0 |
 | Church of the Holy Sepulchre | 0.00% | ~0 |
 | Knowledge of the Ancients | 0.00% | ~0 |
-| Learn By Playing 2 - Just | 0.00% | ~0 |
 | Learn By Playing 3 - Good | 0.00% | ~0 |
 | Learn By Playing 4 - Strong | 0.00% | ~0 |
 | Medo-Babylonian Conquest | 0.00% | ~0 |
@@ -291,7 +292,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | No Characters | 0.00% | ~0 |
 | One City Challenge | 0.00% | ~0 |
 | Randomized Families | 0.00% | ~0 |
-| Randomized Leaders | 0.00% | ~0 |
 | Time Victory | 0.00% | ~0 |
 | Necropolis in Waset | 0.00% | ~0 |
 | Win a 1-v-1 Game | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Al Khazneh in Petra | 0.00% | ~0 |
 | Colosseum in Roma | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,849 (Ranked 158)  
+Progressed: 15,851 (Ranked 158)  
 Completed: 5 (0.03%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -609,7 +609,7 @@ Completed: 5 (0.03%) (Ranked 345)
 | 2023-12-17 | 15,807 | 5 |
 | 2023-12-18 | 15,826 | 5 |
 | 2023-12-19 | 15,840 | 5 |
-| 2023-12-20 | 15,849 | 5 |
+| 2023-12-20 | 15,851 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 279)  
 Sum: 1,904 (Ranked 220)  

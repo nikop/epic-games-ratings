@@ -6,10 +6,10 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 9.00% | ~326 |
-| Lost and Found | 5.00% | ~181 |
-| This Belongs in a Museum | 4.00% | ~5,150 |
-| Autodidact | 4.00% | ~5,150 |
+| Malpractice Assurance | 9.00% | ~327 |
+| Lost and Found | 5.00% | ~182 |
+| This Belongs in a Museum | 4.00% | ~5,151 |
+| Autodidact | 4.00% | ~5,151 |
 | This guy... again? | 4.00% | ~145 |
 | Bloody Graduation | 4.00% | ~145 |
 | Serenity Now! | 3.00% | ~3,863 |
@@ -36,7 +36,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | FNG | 2.00% | ~2,575 |
 | Nope | 2.00% | ~2,575 |
 | Unshackled | 2.00% | ~2,575 |
-| Friends 'Til the End | 2.00% | ~72 |
+| Friends 'Til the End | 2.00% | ~73 |
 | Resurrection | 1.00% | ~1,288 |
 | Unleash Hell | 1.00% | ~1,288 |
 | Funny Guy | 1.00% | ~1,288 |
@@ -68,7 +68,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Clearing the Ledger | 0.50% | ~644 |
 | Hat Trick | 0.40% | ~515 |
 | Triage | 0.40% | ~515 |
-| No Mercy | 0.40% | ~14 |
+| No Mercy | 0.40% | ~15 |
 | A Life Well Lived | 0.30% | ~386 |
 | The World As It Was | 0.30% | ~386 |
 | Bacon Bits | 0.30% | ~386 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,755 (Ranked 85)  
+Progressed: 128,765 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,10 +320,10 @@ Completed: 3 (0.00%) (Ranked 384)
 | 2023-12-17 | 128,143 | 3 |
 | 2023-12-18 | 128,398 | 3 |
 | 2023-12-19 | 128,605 | 3 |
-| 2023-12-20 | 128,755 | 3 |
+| 2023-12-20 | 128,765 | 3 |
 ## Awards
 Max (Character Customization): 7,805  (Ranked 50)  
-Sum: 20,836 (Ranked 58)  
+Sum: 20,840 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -333,8 +333,8 @@ Diff (max vs sum): -8
 | This game is Highly Recommended | 1,552 |
 | This game is Extremely Fun | 1,477 |
 | This game has Amazing Characters | 1,467 |
+| This game has Amazing Storytelling | 1,398 |
 | This game has Unique Visuals | 1,396 |
-| This game has Amazing Storytelling | 1,394 |
 | This game has Quickly Understood Controls | 1,362 |
 | This game has a Creative Community | 1,033 |
 | This game has Obsessive Gameplay | 585 |
@@ -668,4 +668,4 @@ Diff (max vs sum): -8
 | 2023-12-17 | 4.68 | - | 7,763 | 20,673 |
 | 2023-12-18 | 4.68 | - | 7,784 | 20,761 |
 | 2023-12-19 | 4.68 | - | 7,795 | 20,806 |
-| 2023-12-20 | 4.68 | - | 7,805 | 20,836 |
+| 2023-12-20 | 4.68 | - | 7,805 | 20,840 |

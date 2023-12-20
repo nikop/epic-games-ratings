@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2779,
+  "EOS_Progressed": 2781,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 311,
+  "EOS_NewPlayers": 312,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6797,6 +6797,11 @@
       "Time": "2023-12-20T19:06:13.9313853+00:00",
       "NumProgressed": 2779,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T20:06:03.6606512+00:00",
+      "NumProgressed": 2781,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -6809,7 +6814,7 @@
       "Name": "First Love",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -6825,7 +6830,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -7017,7 +7022,7 @@
       "Name": "Clean Race",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1167
+      "UsersEstimate": 1168
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -7065,7 +7070,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -7097,7 +7102,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -7105,7 +7110,7 @@
       "Name": "Eat My Dust",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -7200,14 +7205,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2779,
+      "Progressed": 2781,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-20T19:06:13.9313851+00:00",
+  "LastChanged_Achievements": "2023-12-20T20:06:03.6606509+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:35.5257739+00:00",
-  "LastUpdate_Ratings": "2023-12-20T18:59:01.5721962+00:00",
-  "LastUpdate_Achievements": "2023-12-20T19:06:13.9314359+00:00"
+  "LastUpdate_Ratings": "2023-12-20T19:59:03.1156913+00:00",
+  "LastUpdate_Achievements": "2023-12-20T20:06:03.6607103+00:00"
 }

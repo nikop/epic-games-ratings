@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 145,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -2356,7 +2356,7 @@
       "Count": 258
     }
   ],
-  "EOS_Progressed": 220499,
+  "EOS_Progressed": 220507,
   "EOS_Completed": 101,
   "EOS_NewPlayers": 1494,
   "EOS_NewCompleters": 0,
@@ -30421,6 +30421,11 @@
       "Time": "2023-12-20T19:05:08.7910624+00:00",
       "NumProgressed": 220499,
       "NumCompleted": 101
+    },
+    {
+      "Time": "2023-12-20T20:05:00.3371794+00:00",
+      "NumProgressed": 220507,
+      "NumCompleted": 101
     }
   ],
   "TotalAchievements": 44,
@@ -30432,7 +30437,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 24255
+      "UsersEstimate": 24256
     },
     {
       "ID": "AtheistOx",
@@ -30448,7 +30453,7 @@
       "Name": "Chicken Dinner",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "Chunin",
@@ -30472,7 +30477,7 @@
       "Name": "Disguised",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 19845
+      "UsersEstimate": 19846
     },
     {
       "ID": "FiveShadows",
@@ -30504,7 +30509,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 26460
+      "UsersEstimate": 26461
     },
     {
       "ID": "HappyLittleAccidents",
@@ -30560,7 +30565,7 @@
       "Name": "Merciful",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1103
     },
     {
       "ID": "Meticulous",
@@ -30576,7 +30581,7 @@
       "Name": "Mimimi",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "MugenUnchained",
@@ -30640,7 +30645,7 @@
       "Name": "Release the Kraken",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "RescueTakuma",
@@ -30648,7 +30653,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 19845
+      "UsersEstimate": 19846
     },
     {
       "ID": "Rollin",
@@ -30656,7 +30661,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 19845
+      "UsersEstimate": 19846
     },
     {
       "ID": "StillRollin",
@@ -30680,7 +30685,7 @@
       "Name": "Stoned Ox",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17640
+      "UsersEstimate": 17641
     },
     {
       "ID": "TanukiTime",
@@ -30688,7 +30693,7 @@
       "Name": "Tanuki Time",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 19845
+      "UsersEstimate": 19846
     },
     {
       "ID": "TheCave",
@@ -30720,7 +30725,7 @@
       "Name": "Thorough",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 24255
+      "UsersEstimate": 24256
     },
     {
       "ID": "TimeParadox",
@@ -30760,7 +30765,7 @@
       "Name": "When Cut Across the Neck",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 1984
+      "UsersEstimate": 1985
     },
     {
       "ID": "WinnerWinner",
@@ -30783,15 +30788,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 220499,
+      "Progressed": 220507,
       "Completed": 101
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-12-20T14:00:40.4217598+00:00",
-  "LastChanged_Achievements": "2023-12-20T19:05:08.7910621+00:00",
+  "LastChanged_Achievements": "2023-12-20T20:05:00.3371791+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:48.0979756+00:00",
-  "LastUpdate_Ratings": "2023-12-20T19:02:44.4377427+00:00",
-  "LastUpdate_Achievements": "2023-12-20T19:05:08.7911866+00:00"
+  "LastUpdate_Ratings": "2023-12-20T20:02:34.5999575+00:00",
+  "LastUpdate_Achievements": "2023-12-20T20:05:00.337315+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 336,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
     "PcReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -213,9 +213,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5206,
+  "EOS_Progressed": 5207,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -1008,6 +1008,11 @@
       "Time": "2023-12-20T17:03:49.6102004+00:00",
       "NumProgressed": 5206,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-12-20T20:03:47.21872+00:00",
+      "NumProgressed": 5207,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 49,
@@ -1019,7 +1024,7 @@
       "Name": "Employee of the Month",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 1926
+      "UsersEstimate": 1927
     },
     {
       "ID": "ACHIEVE_3_OFFSHOOTS_COMPLETE",
@@ -1035,7 +1040,7 @@
       "Name": "I Believe I Can Fly",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1926
+      "UsersEstimate": 1927
     },
     {
       "ID": "ACHIEVE_50_BONES",
@@ -1147,7 +1152,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5102
+      "UsersEstimate": 5103
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -1195,7 +1200,7 @@
       "Name": "Fortunate Soul",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 2603
+      "UsersEstimate": 2604
     },
     {
       "ID": "ACHIEVE_GREED_GRIND_WIN",
@@ -1243,7 +1248,7 @@
       "Name": "Killed 20 Jerks",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 2811
+      "UsersEstimate": 2812
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_200",
@@ -1307,7 +1312,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5102
+      "UsersEstimate": 5103
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1363,7 +1368,7 @@
       "Name": "Death Defied",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 2811
+      "UsersEstimate": 2812
     },
     {
       "ID": "ACHIEVE_PLATINUM",
@@ -1403,22 +1408,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3696
+      "UsersEstimate": 3697
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5206,
+      "Progressed": 5207,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-12-20T19:03:56.0360282+00:00",
+  "LastChanged_Achievements": "2023-12-20T20:03:47.2187194+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:32.3869893+00:00",
-  "LastUpdate_Ratings": "2023-12-20T18:58:28.5312134+00:00",
-  "LastUpdate_Achievements": "2023-12-20T19:03:56.0360679+00:00"
+  "LastUpdate_Ratings": "2023-12-20T19:58:29.7124542+00:00",
+  "LastUpdate_Achievements": "2023-12-20T20:03:47.2187521+00:00"
 }

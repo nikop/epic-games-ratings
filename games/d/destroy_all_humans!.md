@@ -6,41 +6,41 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kaijuiced | 69.00% | ~50 |
-| Lie Back and Think of Albion | 61.00% | ~44 |
+| Kaijuiced | 71.00% | ~51 |
+| Lie Back and Think of Albion | 65.00% | ~47 |
 | Yettisoned | 60.00% | ~43 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 54.00% | ~39 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 57.00% | ~41 |
+| I Look Up As I Walk to Takoshima | 56.00% | ~40 |
 | Shop Til They Drop | 54.00% | ~39 |
-| I Look Up As I Walk to Takoshima | 51.00% | ~37 |
-| Lobster Blisque | 50.00% | ~36 |
-| Perfect Probulator | 46.00% | ~33 |
-| Fly Me to the Moon Base | 40.00% | ~29 |
+| Lobster Blisque | 51.00% | ~37 |
+| Perfect Probulator | 49.00% | ~35 |
+| Fly Me to the Moon Base | 43.00% | ~31 |
 | Earthly Pleasures | 40.00% | ~29 |
+| Pimp My Raid | 39.00% | ~28 |
 | Freshly Squeezed | 38.00% | ~27 |
 | Ducks in a Row, Fish in a Barrel | 38.00% | ~27 |
-| Pimp My Raid | 35.00% | ~25 |
+| Bodied Sattva | 31.00% | ~22 |
 | Forbidden Donut | 29.00% | ~21 |
-| Bodied Sattva | 29.00% | ~21 |
-| Upgreatest | 28.00% | ~20 |
+| Upgreatest | 29.00% | ~21 |
 | Trans-Siberian Express | 25.00% | ~18 |
+| Rock of the Bay | 24.00% | ~17 |
 | Furon Fashion | 22.00% | ~16 |
-| Rock of the Bay | 21.00% | ~15 |
-| Deincarnated | 19.00% | ~14 |
-| Re-Return of the Clone of the Invasion II-2 | 17.00% | ~12 |
+| Deincarnated | 21.00% | ~15 |
+| Re-Return of the Clone of the Invasion II-2 | 18.00% | ~13 |
+| If You Know What I Mean | 14.00% | ~10 |
+| Arkvoodle Doodle | 13.00% | ~9 |
 | Ouch of Body Experience | 13.00% | ~9 |
-| If You Know What I Mean | 13.00% | ~9 |
-| Arkvoodle Doodle | 11.00% | ~8 |
+| Dusted | 11.00% | ~8 |
+| Die Nasty | 10.00% | ~7 |
 | PK Slam Dunk | 8.00% | ~6 |
-| Die Nasty | 8.00% | ~6 |
-| Dusted | 8.00% | ~6 |
 | Hidden Human Hive Harvest | 7.00% | ~5 |
 | Mash Machine | 7.00% | ~5 |
 | Albion Bridge Is for Falling Down | 4.00% | ~3 |
 | Scuttled | 3.00% | ~2 |
 | Path of the Furon | 3.00% | ~2 |
+| Higher Than the Futen Zoku | 3.00% | ~2 |
+| Arty Facts | 3.00% | ~2 |
 | To Russia With Love | 1.00% | ~1 |
-| Higher Than the Futen Zoku | 1.00% | ~1 |
-| Arty Facts | 1.00% | ~1 |
 | Transmitting From Sol-3 | 0.00% | ~0 |
 | Cult Following | 0.00% | ~0 |
 | Steezy Down the Spine | 0.00% | ~0 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 308,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 440,
+  "EOS_Progressed": 441,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1530,6 +1530,11 @@
       "Time": "2023-12-20T15:09:57.135096+00:00",
       "NumProgressed": 440,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T20:09:50.2504408+00:00",
+      "NumProgressed": 441,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -1875,9 +1880,9 @@
       "ID": "GREEN_AREAS_2",
       "SetID": "44dlcg0",
       "Name": "I love parks",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 9
     },
     {
       "ID": "GREEN_AREAS_3",
@@ -1923,9 +1928,9 @@
       "ID": "NIGHT_LIFE_1",
       "SetID": "44dlcg0",
       "Name": "It is nice to share with friends in the city",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 31
     },
     {
       "ID": "NIGHT_LIFE_2",
@@ -2172,7 +2177,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 440,
+      "Progressed": 441,
       "Completed": 0
     }
   ],
@@ -2180,8 +2185,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-12-20T19:10:12.7982723+00:00",
+  "LastChanged_Achievements": "2023-12-20T20:09:50.2504406+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:36.321847+00:00",
-  "LastUpdate_Ratings": "2023-12-20T19:00:16.5476986+00:00",
-  "LastUpdate_Achievements": "2023-12-20T19:10:12.7983355+00:00"
+  "LastUpdate_Ratings": "2023-12-20T20:00:18.0893264+00:00",
+  "LastUpdate_Achievements": "2023-12-20T20:09:50.250525+00:00"
 }

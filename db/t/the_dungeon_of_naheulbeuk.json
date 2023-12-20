@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1471,10 +1471,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 525,
       "NumberOfAwardsMax": 250
+    },
+    {
+      "Time": "2023-12-20T20:02:43.3780943+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 526,
+      "NumberOfAwardsMax": 250
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 525,
+  "NumberOfAwards": 526,
   "NumberOfAwardsMax": 250,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1524,7 +1530,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1539,9 +1545,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 243717,
+  "EOS_Progressed": 243724,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1121,
+  "EOS_NewPlayers": 1122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23019,6 +23025,11 @@
       "Time": "2023-12-20T19:10:02.0195011+00:00",
       "NumProgressed": 243717,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-20T20:09:39.4934473+00:00",
+      "NumProgressed": 243724,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -23078,7 +23089,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 17060
+      "UsersEstimate": 17061
     },
     {
       "ID": "Chapter2",
@@ -23430,7 +23441,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19497
+      "UsersEstimate": 19498
     },
     {
       "ID": "DwarfElf15Support",
@@ -23478,7 +23489,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 87738
+      "UsersEstimate": 87741
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -23638,7 +23649,7 @@
       "Name": "L\u00EBgal Legend",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 2193
+      "UsersEstimate": 2194
     },
     {
       "ID": "QuestPriestess",
@@ -23733,21 +23744,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 243717,
+      "Progressed": 243724,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 243717,
+      "Progressed": 243724,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-12-20T19:02:52.7385562+00:00",
-  "LastChanged_Achievements": "2023-12-20T19:10:02.0195008+00:00",
+  "LastChanged": "2023-12-20T20:02:43.3780941+00:00",
+  "LastChanged_Achievements": "2023-12-20T20:09:39.493447+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:08.5726178+00:00",
-  "LastUpdate_Ratings": "2023-12-20T19:02:52.7385573+00:00",
-  "LastUpdate_Achievements": "2023-12-20T19:10:02.0197+00:00"
+  "LastUpdate_Ratings": "2023-12-20T20:02:43.3780948+00:00",
+  "LastUpdate_Achievements": "2023-12-20T20:09:39.4936466+00:00"
 }

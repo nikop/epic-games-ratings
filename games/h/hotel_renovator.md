@@ -7,7 +7,7 @@ Rating: 4.33 (Ranked 826)
 | ---- | ---------- | ----- |
 | Good start | 76.00% | ~944 |
 | And so it begins | 72.00% | ~894 |
-| No pressure | 69.00% | ~857 |
+| No pressure | 70.00% | ~869 |
 | Memento | 61.00% | ~758 |
 | Let there be light | 58.00% | ~720 |
 | I think you dropped this | 54.00% | ~671 |

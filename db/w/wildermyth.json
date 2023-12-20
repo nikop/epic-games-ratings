@@ -2341,9 +2341,9 @@
       "ID": "achievement_maimedHero",
       "SetID": "95dc8p",
       "Name": "The Cost of Heroism",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 92
     },
     {
       "ID": "achievement_mythwalker",
@@ -2621,8 +2621,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-11-12T17:00:17.2155611+00:00",
-  "LastChanged_Achievements": "2023-12-20T19:10:11.8986567+00:00",
+  "LastChanged_Achievements": "2023-12-20T20:09:49.3030749+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:42.9077467+00:00",
-  "LastUpdate_Ratings": "2023-12-20T18:58:08.0702214+00:00",
-  "LastUpdate_Achievements": "2023-12-20T19:10:11.898701+00:00"
+  "LastUpdate_Ratings": "2023-12-20T19:58:10.3952392+00:00",
+  "LastUpdate_Achievements": "2023-12-20T20:09:49.3031152+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -7093,9 +7093,9 @@
       "ID": "A10",
       "SetID": "9b7p7eo",
       "Name": "From X to Y",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 1825
+      "UsersEstimate": 1800
     },
     {
       "ID": "A11",
@@ -7253,9 +7253,9 @@
       "ID": "A30",
       "SetID": "9b7p7eo",
       "Name": "All mine",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 764
+      "UsersEstimate": 740
     },
     {
       "ID": "A31",
@@ -7293,9 +7293,9 @@
       "ID": "A35",
       "SetID": "9b7p7eo",
       "Name": "Traffic Junction",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 543
+      "UsersEstimate": 518
     },
     {
       "ID": "A36",
@@ -7405,9 +7405,9 @@
       "ID": "A49",
       "SetID": "9b7p7eo",
       "Name": "Financial Shark",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 764
+      "UsersEstimate": 740
     },
     {
       "ID": "A50",
@@ -7462,8 +7462,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-12-07T22:58:14.7831098+00:00",
-  "LastChanged_Achievements": "2023-12-20T19:03:57.2899704+00:00",
+  "LastChanged_Achievements": "2023-12-20T20:03:48.5498403+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:12.4572163+00:00",
-  "LastUpdate_Ratings": "2023-12-20T19:02:51.5402816+00:00",
-  "LastUpdate_Achievements": "2023-12-20T19:03:57.2900641+00:00"
+  "LastUpdate_Ratings": "2023-12-20T20:02:41.9390077+00:00",
+  "LastUpdate_Achievements": "2023-12-20T20:03:48.5498976+00:00"
 }

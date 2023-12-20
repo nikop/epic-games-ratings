@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 3764,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3521,9 +3521,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18757,
+  "EOS_Progressed": 18762,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 727,
+  "EOS_NewPlayers": 725,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16471,6 +16471,11 @@
       "Time": "2023-12-20T19:06:30.6060227+00:00",
       "NumProgressed": 18757,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-20T20:06:20.949059+00:00",
+      "NumProgressed": 18762,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16481,9 +16486,9 @@
       "ID": "AleChain",
       "SetID": "cfbk359",
       "Name": "Serving Ale",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 131
     },
     {
       "ID": "AllFood",
@@ -16907,7 +16912,7 @@
       "Name": "Overgrown Library",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "WinNearPetrified",
@@ -16954,15 +16959,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18757,
+      "Progressed": 18762,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-20T12:59:24.808106+00:00",
-  "LastChanged_Achievements": "2023-12-20T19:06:30.6060222+00:00",
+  "LastChanged_Achievements": "2023-12-20T20:06:20.9490584+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
-  "LastUpdate_Ratings": "2023-12-20T18:59:26.2255669+00:00",
-  "LastUpdate_Achievements": "2023-12-20T19:06:30.6061233+00:00"
+  "LastUpdate_Ratings": "2023-12-20T19:59:27.1828291+00:00",
+  "LastUpdate_Achievements": "2023-12-20T20:06:20.9491491+00:00"
 }

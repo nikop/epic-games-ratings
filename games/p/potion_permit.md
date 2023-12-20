@@ -5,22 +5,22 @@ Rating: 3.83 (Ranked 1,045)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,705 |
-| The First Step | 88.00% | ~1,531 |
+| Welcome to Moonbury | 98.00% | ~1,706 |
+| The First Step | 88.00% | ~1,532 |
 | Moonbury Traveller | 64.00% | ~1,114 |
-| Rookie Chemist | 61.00% | ~1,061 |
-| Great Doctor | 51.00% | ~887 |
+| Rookie Chemist | 61.00% | ~1,062 |
+| Great Doctor | 51.00% | ~888 |
 | Dog Whisperer | 49.00% | ~853 |
 | Friendly | 47.00% | ~818 |
 | The Capitalist | 44.00% | ~766 |
-| K.O.! | 43.00% | ~748 |
+| K.O.! | 43.00% | ~749 |
 | Intermediate Chemist | 40.00% | ~696 |
 | Decorative Mind | 32.00% | ~557 |
 | Lumber Specialist | 32.00% | ~557 |
 | Kind-hearted | 25.00% | ~435 |
 | Catch of the Day | 25.00% | ~435 |
 | Amateur Chef | 23.00% | ~400 |
-| Fishing Guru | 21.00% | ~365 |
+| Fishing Guru | 21.00% | ~366 |
 | Spark of Love | 18.00% | ~313 |
 | Community Helper | 17.00% | ~296 |
 | Expert Chemist | 15.00% | ~261 |
@@ -28,8 +28,8 @@ Rating: 3.83 (Ranked 1,045)
 | Sociable | 13.00% | ~226 |
 | Ablutomaniac | 13.00% | ~226 |
 | Line Cook | 12.00% | ~209 |
-| Good Samaritan | 11.00% | ~191 |
-| Production Sorter | 11.00% | ~191 |
+| Good Samaritan | 11.00% | ~192 |
+| Production Sorter | 11.00% | ~192 |
 | Acrobatic Adventurer | 9.00% | ~157 |
 | Animal Exterminator | 9.00% | ~157 |
 | Adolescent Love | 6.00% | ~104 |
@@ -44,7 +44,7 @@ Rating: 3.83 (Ranked 1,045)
 | Moonbury Navigator | 1.00% | ~17 |
 | Being a donut... | 0.70% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,740 (Ranked 241)  
+Progressed: 1,741 (Ranked 241)  
 Completed: 10 (0.57%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 10 (0.57%) (Ranked 201)
 | 2023-12-17 | 1,718 | 10 |
 | 2023-12-18 | 1,732 | 10 |
 | 2023-12-19 | 1,736 | 10 |
-| 2023-12-20 | 1,740 | 10 |
+| 2023-12-20 | 1,741 | 10 |
 ## Awards
 Max (Character Customization): 69  (Ranked 414)  
 Sum: 69 (Ranked 481)  
