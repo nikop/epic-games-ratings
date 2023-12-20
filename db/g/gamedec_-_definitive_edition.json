@@ -495,9 +495,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 255136,
+  "EOS_Progressed": 255138,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 607,
+  "EOS_NewPlayers": 604,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27815,6 +27815,11 @@
       "Time": "2023-12-20T14:04:23.2876929+00:00",
       "NumProgressed": 255136,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-20T15:04:15.598644+00:00",
+      "NumProgressed": 255138,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -27850,7 +27855,7 @@
       "Name": "BOY!",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 10205
+      "UsersEstimate": 10206
     },
     {
       "ID": "ACH_CATNIPCATNIP",
@@ -27866,7 +27871,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 30616
+      "UsersEstimate": 30617
     },
     {
       "ID": "ACH_ENJOY",
@@ -27970,7 +27975,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 73989
+      "UsersEstimate": 73990
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -27994,7 +27999,7 @@
       "Name": "Ka-ching!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10205
+      "UsersEstimate": 10206
     },
     {
       "ID": "ACH_LETMEOUT",
@@ -28154,7 +28159,7 @@
       "Name": "So you like to read?",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 10205
+      "UsersEstimate": 10206
     },
     {
       "ID": "ACH_TAKEBLUEPILL",
@@ -28241,7 +28246,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 255136,
+      "Progressed": 255138,
       "Completed": 7
     }
   ],
@@ -28249,8 +28254,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-11-30T10:59:11.8312964+00:00",
-  "LastChanged_Achievements": "2023-12-20T14:04:23.2876925+00:00",
+  "LastChanged_Achievements": "2023-12-20T15:04:15.5986434+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:10.8864766+00:00",
-  "LastUpdate_Ratings": "2023-12-20T14:03:12.3998327+00:00",
-  "LastUpdate_Achievements": "2023-12-20T14:04:23.2878168+00:00"
+  "LastUpdate_Ratings": "2023-12-20T15:03:02.2864643+00:00",
+  "LastUpdate_Achievements": "2023-12-20T15:04:15.5987851+00:00"
 }

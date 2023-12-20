@@ -5,25 +5,25 @@ Rating: 4.69 (Ranked 232)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 32.00% | ~216,638 |
-| 50 HEADSHOTS | 30.00% | ~203,098 |
-| SCIENCE AND INDUSTRY | 28.00% | ~189,558 |
-| FINISHED CHAPTER 1 | 27.00% | ~182,788 |
-| FINISHED CHAPTER 2 | 20.00% | ~135,399 |
-| 200 HEADSHOTS | 18.00% | ~121,859 |
-| FINISHED CHAPTER 3 | 17.00% | ~115,089 |
-| FINISHED CHAPTER 4 | 15.00% | ~101,549 |
-| FINISH CHAPTER 5 | 12.00% | ~81,239 |
-| FINISH CHAPTER 6 | 11.00% | ~74,469 |
-| CATHARTIC ESCAPISM | 11.00% | ~74,469 |
-| 1000 KILLS | 10.00% | ~67,699 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~27,080 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~13,540 |
-| FIRST BLOOD | 2.00% | ~13,540 |
-| OUT OF ORDER | 1.00% | ~6,770 |
-| PACEMAKER | 1.00% | ~6,770 |
-| TIME PARADOX | 1.00% | ~6,770 |
-| FIREFIGHT LEVEL 30 | 0.90% | ~6,093 |
+| 100 KILLS | 32.00% | ~216,620 |
+| 50 HEADSHOTS | 30.00% | ~203,081 |
+| SCIENCE AND INDUSTRY | 28.00% | ~189,543 |
+| FINISHED CHAPTER 1 | 27.00% | ~182,773 |
+| FINISHED CHAPTER 2 | 20.00% | ~135,388 |
+| 200 HEADSHOTS | 18.00% | ~121,849 |
+| FINISHED CHAPTER 3 | 17.00% | ~115,079 |
+| FINISHED CHAPTER 4 | 15.00% | ~101,541 |
+| FINISH CHAPTER 5 | 12.00% | ~81,233 |
+| FINISH CHAPTER 6 | 11.00% | ~74,463 |
+| CATHARTIC ESCAPISM | 11.00% | ~74,463 |
+| 1000 KILLS | 10.00% | ~67,694 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~27,078 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~13,539 |
+| FIRST BLOOD | 2.00% | ~13,539 |
+| OUT OF ORDER | 1.00% | ~6,769 |
+| PACEMAKER | 1.00% | ~6,769 |
+| TIME PARADOX | 1.00% | ~6,769 |
+| FIREFIGHT LEVEL 30 | 0.90% | ~6,092 |
 | PARTYHARD | 0.80% | ~5,416 |
 | NEW GAME PLUS | 0.70% | ~4,739 |
 | FIREFIGHT LEVEL 40 | 0.50% | ~3,385 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 232)
 | THE GAMBLER | 0.10% | ~677 |
 | WARRIOR IN A GARDEN | 0.10% | ~677 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 676,994 (Ranked 28)  
+Progressed: 676,938 (Ranked 28)  
 Completed: 70 (0.01%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -12,9 +12,9 @@
 | Kingdom Party Time | 24.00% | ~10 |
 | Festival Fever | 20.00% | ~8 |
 | Entering New Territory | 17.00% | ~7 |
+| Gotta Adopt Them All! | 10.00% | ~4 |
 | Just One More Go | 10.00% | ~4 |
 | Lecturer | 10.00% | ~4 |
-| Gotta Adopt Them All! | 7.00% | ~3 |
 | Landscaper | 7.00% | ~3 |
 | Dream Big | 7.00% | ~3 |
 | Diamonds in the Rough | 5.00% | ~2 |

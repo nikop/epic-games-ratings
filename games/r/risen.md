@@ -25,8 +25,8 @@ Rating: 4.56 (Ranked 497)
 | Ogre friend | 21.00% | ~21 |
 | The fourth triplet | 21.00% | ~21 |
 | Wise man | 20.00% | ~20 |
+| Little hero | 20.00% | ~20 |
 | Sidelined | 20.00% | ~20 |
-| Little hero | 19.00% | ~19 |
 | Hard worker | 19.00% | ~19 |
 | Fence | 19.00% | ~19 |
 | Ghost hunter | 18.00% | ~18 |
@@ -38,7 +38,7 @@ Rating: 4.56 (Ranked 497)
 | Showdown | 13.00% | ~13 |
 | Safecracker | 13.00% | ~13 |
 | Master thief | 13.00% | ~13 |
-| Freedom fighter | 11.00% | ~11 |
+| Freedom fighter | 12.00% | ~12 |
 | King of the handymen | 11.00% | ~11 |
 | Titan Lord | 10.00% | ~10 |
 | Expert | 9.00% | ~9 |

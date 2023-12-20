@@ -5,34 +5,34 @@ Rating: 4.19 (Ranked 939)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 14.00% | ~2,550 |
-| The Outer Way | 14.00% | ~2,550 |
-| Get a Grip | 13.00% | ~2,367 |
-| Paper Jams | 13.00% | ~2,367 |
-| Desperate Times | 12.00% | ~2,185 |
-| Chew 'Em Up | 11.00% | ~2,003 |
-| Float Like A Butterfly | 10.00% | ~1,821 |
-| Reforged | 10.00% | ~1,821 |
-| Workplace Hazard | 8.00% | ~1,457 |
-| If the SHU Fits... | 8.00% | ~1,457 |
-| Two Heads Are Better Than One | 7.00% | ~1,275 |
-| Without A Paddle | 7.00% | ~1,275 |
-| In the Pipe, Five by Five | 7.00% | ~1,275 |
-| Crash Site | 7.00% | ~1,275 |
+| Flesh Wound | 14.00% | ~2,551 |
+| The Outer Way | 14.00% | ~2,551 |
+| Get a Grip | 13.00% | ~2,369 |
+| Paper Jams | 13.00% | ~2,369 |
+| Desperate Times | 12.00% | ~2,187 |
+| Chew 'Em Up | 11.00% | ~2,005 |
+| Float Like A Butterfly | 10.00% | ~1,822 |
+| Reforged | 10.00% | ~1,822 |
+| Workplace Hazard | 8.00% | ~1,458 |
+| If the SHU Fits... | 8.00% | ~1,458 |
+| Two Heads Are Better Than One | 7.00% | ~1,276 |
+| Without A Paddle | 7.00% | ~1,276 |
+| In the Pipe, Five by Five | 7.00% | ~1,276 |
+| Crash Site | 7.00% | ~1,276 |
 | You Need a Gun | 6.00% | ~1,093 |
 | Terminated | 6.00% | ~1,093 |
 | What Lies Beneath | 6.00% | ~1,093 |
 | Full Circle | 6.00% | ~1,093 |
 | Power Up | 6.00% | ~1,093 |
-| Keep Fighting | 6.00% | ~368 |
+| Keep Fighting | 6.00% | ~369 |
 | Giving Back | 5.00% | ~911 |
 | I Do Belong Here | 5.00% | ~911 |
-| It's Time | 4.00% | ~245 |
-| In Striking Distance | 3.00% | ~546 |
-| The Commonality | 3.00% | ~546 |
+| It's Time | 4.00% | ~246 |
+| In Striking Distance | 3.00% | ~547 |
+| The Commonality | 3.00% | ~547 |
 | One Last Job | 2.00% | ~123 |
-| Big Spender | 1.00% | ~61 |
-| This Isn't About Escape | 1.00% | ~61 |
+| Big Spender | 1.00% | ~62 |
+| This Isn't About Escape | 1.00% | ~62 |
 | Armed to the Teeth | 0.90% | ~55 |
 | Mugshot | 0.90% | ~164 |
 | Grim Reaper | 0.80% | ~146 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 939)
 | Bear Trap | 0.10% | ~6 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,211 (Ranked 148)  
+Progressed: 18,224 (Ranked 148)  
 Completed: 82 (0.45%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,16 +289,16 @@ Completed: 82 (0.45%) (Ranked 223)
 | 2023-12-17 | 17,760 | 82 |
 | 2023-12-18 | 17,946 | 82 |
 | 2023-12-19 | 18,137 | 82 |
-| 2023-12-20 | 18,211 | 82 |
+| 2023-12-20 | 18,224 | 82 |
 ## Awards
 Max (Quickly Understood Controls): 89  (Ranked 388)  
-Sum: 529 (Ranked 326)  
+Sum: 531 (Ranked 326)  
 Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 89 |
 | This game has Amazing Storytelling | 89 |
-| This game is Highly Recommended | 86 |
+| This game is Highly Recommended | 88 |
 | This game has Amazing Characters | 86 |
 | This game is Extremely Fun | 80 |
 | This game has Challenging Combat | 65 |
@@ -482,4 +482,4 @@ Diff (max vs sum): 62
 | 2023-12-17 | 4.20 | 87 | 516 |
 | 2023-12-18 | 4.19 | 88 | 521 |
 | 2023-12-19 | 4.19 | 89 | 526 |
-| 2023-12-20 | 4.19 | 89 | 529 |
+| 2023-12-20 | 4.19 | 89 | 531 |

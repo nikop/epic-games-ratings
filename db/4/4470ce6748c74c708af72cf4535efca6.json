@@ -330,9 +330,9 @@
       "ID": "11",
       "SetID": "5e3maia",
       "Name": "Snow White",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "12",
@@ -346,17 +346,17 @@
       "ID": "13",
       "SetID": "5e3maia",
       "Name": "Stalker",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "14",
       "SetID": "5e3maia",
       "Name": "Trafficker",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "15",
@@ -482,9 +482,9 @@
       "ID": "29",
       "SetID": "5e3maia",
       "Name": "Park ranger",
-      "Percentage": 55,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "3",
@@ -826,9 +826,9 @@
       "ID": "7",
       "SetID": "5e3maia",
       "Name": "Shamanslayer",
-      "Percentage": 69,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "70",
@@ -865,8 +865,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-12-20T14:04:19.62778+00:00",
+  "LastChanged_Achievements": "2023-12-20T15:04:11.8086932+00:00",
   "LastUpdate_AppInfo": "2023-12-16T05:57:10.1909599+00:00",
-  "LastUpdate_Ratings": "2023-12-20T13:59:55.5595652+00:00",
-  "LastUpdate_Achievements": "2023-12-20T14:04:19.6278417+00:00"
+  "LastUpdate_Ratings": "2023-12-20T14:59:45.7213889+00:00",
+  "LastUpdate_Achievements": "2023-12-20T15:04:11.8087499+00:00"
 }

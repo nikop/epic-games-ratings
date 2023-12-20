@@ -371,9 +371,9 @@
       "ID": "creepytale3_ach_24",
       "SetID": "7idcjbn",
       "Name": "Boring book!",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "creepytale3_ach_26",
@@ -530,8 +530,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2023-12-20T14:08:26.8458664+00:00",
+  "LastChanged_Achievements": "2023-12-20T15:06:37.7478519+00:00",
   "LastUpdate_AppInfo": "2023-12-20T07:56:51.9801236+00:00",
-  "LastUpdate_Ratings": "2023-12-20T14:03:05.4232291+00:00",
-  "LastUpdate_Achievements": "2023-12-20T14:08:26.8458872+00:00"
+  "LastUpdate_Ratings": "2023-12-20T15:02:54.5842363+00:00",
+  "LastUpdate_Achievements": "2023-12-20T15:06:37.7478739+00:00"
 }

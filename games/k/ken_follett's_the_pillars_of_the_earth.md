@@ -6,12 +6,12 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 40.00% | ~6,881 |
-| Man of politics | 34.00% | ~5,849 |
-| Friends of sorts | 33.00% | ~5,677 |
-| Yet another secret | 33.00% | ~5,677 |
-| Let there be darkness | 31.00% | ~5,333 |
-| End of Book One | 29.00% | ~4,989 |
+| Tattletale | 40.00% | ~6,882 |
+| Man of politics | 34.00% | ~5,850 |
+| Friends of sorts | 33.00% | ~5,678 |
+| Yet another secret | 33.00% | ~5,678 |
+| Let there be darkness | 31.00% | ~5,334 |
+| End of Book One | 29.00% | ~4,990 |
 | Garden of Eden | 24.00% | ~4,129 |
 | Wannabe knight | 23.00% | ~3,957 |
 | Full house | 23.00% | ~3,957 |
@@ -20,20 +20,20 @@ Number of Ratings: 368  (23.09.2022)
 | Negotiation skills | 18.00% | ~3,097 |
 | Workers' union | 18.00% | ~3,097 |
 | End of Book Two | 18.00% | ~3,097 |
-| Everything's in order | 16.00% | ~2,752 |
-| Twist of Fate | 14.00% | ~2,408 |
-| Jack was here! | 14.00% | ~2,408 |
-| Exterminator | 13.00% | ~2,236 |
-| Whodunnit | 12.00% | ~2,064 |
-| Good midwife | 10.00% | ~1,720 |
-| Friar Tuck | 10.00% | ~1,720 |
-| First profit | 10.00% | ~1,720 |
-| Team player | 10.00% | ~1,720 |
-| Skilled merchant | 9.00% | ~1,548 |
-| Brother Marcus | 9.00% | ~1,548 |
-| The oath | 9.00% | ~1,548 |
-| The truth revealed | 9.00% | ~1,548 |
-| The End. | 9.00% | ~1,548 |
+| Everything's in order | 16.00% | ~2,753 |
+| Twist of Fate | 14.00% | ~2,409 |
+| Jack was here! | 14.00% | ~2,409 |
+| Exterminator | 13.00% | ~2,237 |
+| Whodunnit | 12.00% | ~2,065 |
+| Good midwife | 10.00% | ~1,721 |
+| Friar Tuck | 10.00% | ~1,721 |
+| First profit | 10.00% | ~1,721 |
+| Team player | 10.00% | ~1,721 |
+| Skilled merchant | 9.00% | ~1,549 |
+| Brother Marcus | 9.00% | ~1,549 |
+| The oath | 9.00% | ~1,549 |
+| The truth revealed | 9.00% | ~1,549 |
+| The End. | 9.00% | ~1,549 |
 | Nothing but make-believe | 8.00% | ~1,376 |
 | A cry for help | 7.00% | ~1,204 |
 | Silentium est aureum | 7.00% | ~1,204 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~516 |
 | Boy of mystery | 2.00% | ~344 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,203 (Ranked 151)  
+Progressed: 17,206 (Ranked 151)  
 Completed: 119 (0.69%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 119 (0.69%) (Ranked 194)
 | 2023-12-17 | 17,152 | 119 |
 | 2023-12-18 | 17,173 | 119 |
 | 2023-12-19 | 17,192 | 119 |
-| 2023-12-20 | 17,203 | 119 |
+| 2023-12-20 | 17,206 | 119 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 320)  
 Sum: 200 (Ranked 409)  

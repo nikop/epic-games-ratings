@@ -3773,9 +3773,9 @@
       "ID": "AC19",
       "SetID": "l4abp0",
       "Name": "Soledad",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 624
+      "UsersEstimate": 639
     },
     {
       "ID": "AC20",
@@ -3877,9 +3877,9 @@
       "ID": "AC32",
       "SetID": "l4abp0",
       "Name": "Nobody Expects the Spanish Inquisition!",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 431
+      "UsersEstimate": 446
     },
     {
       "ID": "AC33",
@@ -3941,9 +3941,9 @@
       "ID": "AC40",
       "SetID": "l4abp0",
       "Name": "Welcome Back!",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1174
     },
     {
       "ID": "AC41",
@@ -3998,8 +3998,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-12-19T21:59:42.3397151+00:00",
-  "LastChanged_Achievements": "2023-12-20T14:05:06.392377+00:00",
+  "LastChanged_Achievements": "2023-12-20T15:04:59.1113045+00:00",
   "LastUpdate_AppInfo": "2023-12-20T02:56:51.3112263+00:00",
-  "LastUpdate_Ratings": "2023-12-20T14:00:22.7951492+00:00",
-  "LastUpdate_Achievements": "2023-12-20T14:05:06.3924179+00:00"
+  "LastUpdate_Ratings": "2023-12-20T15:00:13.5590646+00:00",
+  "LastUpdate_Achievements": "2023-12-20T15:04:59.1113419+00:00"
 }

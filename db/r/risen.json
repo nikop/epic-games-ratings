@@ -607,17 +607,17 @@
       "ID": "id_16",
       "SetID": "bk9jib6",
       "Name": "Little hero",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "id_17",
       "SetID": "bk9jib6",
       "Name": "Freedom fighter",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "id_18",
@@ -976,8 +976,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-12-19T04:58:37.4442529+00:00",
-  "LastChanged_Achievements": "2023-12-20T14:10:06.4298483+00:00",
+  "LastChanged_Achievements": "2023-12-20T15:09:46.693322+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:12.9761539+00:00",
-  "LastUpdate_Ratings": "2023-12-20T13:59:05.5195961+00:00",
-  "LastUpdate_Achievements": "2023-12-20T14:10:06.4298774+00:00"
+  "LastUpdate_Ratings": "2023-12-20T14:58:55.9343718+00:00",
+  "LastUpdate_Achievements": "2023-12-20T15:09:46.6933579+00:00"
 }

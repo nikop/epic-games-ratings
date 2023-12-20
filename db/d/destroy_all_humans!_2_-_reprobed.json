@@ -5,7 +5,7 @@
   "Ranking_Rating": 551,
   "Ranking_Popularity": 482,
   "Ranking_PopularitySum": 514,
-  "Ranking_EOS_Progress": 429,
+  "Ranking_EOS_Progress": 430,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 160,
@@ -948,9 +948,9 @@
       "ID": "ACH_DISLOCATOR_BOWLING",
       "SetID": "4n84pon",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1197,8 +1197,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-20T14:09:06.0607264+00:00",
+  "LastChanged_Achievements": "2023-12-20T15:08:46.9728916+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:43.3974092+00:00",
-  "LastUpdate_Ratings": "2023-12-20T13:58:26.0496744+00:00",
-  "LastUpdate_Achievements": "2023-12-20T14:09:06.0607596+00:00"
+  "LastUpdate_Ratings": "2023-12-20T14:58:16.8646702+00:00",
+  "LastUpdate_Achievements": "2023-12-20T15:08:46.9729213+00:00"
 }

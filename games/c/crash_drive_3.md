@@ -25,9 +25,9 @@
 | Car-Tapult | 20.00% | ~84 |
 | First Come, First Serve | 20.00% | ~84 |
 | Disoriented | 20.00% | ~84 |
+| Anger Issues | 20.00% | ~84 |
 | Take that Frosty! | 20.00% | ~84 |
 | Beach Party! | 20.00% | ~84 |
-| Anger Issues | 19.00% | ~80 |
 | Your Highness | 19.00% | ~80 |
 | Event Amateur | 18.00% | ~75 |
 | Drift King! | 16.00% | ~67 |

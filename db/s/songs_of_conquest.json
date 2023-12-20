@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 586,
+  "EOS_Progressed": 588,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2373,6 +2373,11 @@
       "Time": "2023-12-20T14:08:57.2914193+00:00",
       "NumProgressed": 586,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T15:08:37.5188381+00:00",
+      "NumProgressed": 588,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2409,7 +2414,7 @@
       "Name": "Dressed For Success",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "AttackCount",
@@ -2489,7 +2494,7 @@
       "Name": "Critical Hit",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "Deepstrike",
@@ -2529,7 +2534,7 @@
       "Name": "Double Kill",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "FlameAttackKillCount",
@@ -2649,7 +2654,7 @@
       "Name": "Don\u0027t Touch My Stuff",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "RepelIntoExplosiveFungi",
@@ -2697,7 +2702,7 @@
       "Name": "Trojan Horse",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "UltraKill",
@@ -2713,7 +2718,7 @@
       "Name": "Adept",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "WielderLevel2",
@@ -2721,7 +2726,7 @@
       "Name": "Veteran",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "WielderLevel3",
@@ -2816,15 +2821,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 586,
+      "Progressed": 588,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-20T14:08:57.2914188+00:00",
+  "LastChanged_Achievements": "2023-12-20T15:08:37.5188376+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:10.4027668+00:00",
-  "LastUpdate_Ratings": "2023-12-20T13:58:18.0174846+00:00",
-  "LastUpdate_Achievements": "2023-12-20T14:08:57.2914848+00:00"
+  "LastUpdate_Ratings": "2023-12-20T14:58:08.5137172+00:00",
+  "LastUpdate_Achievements": "2023-12-20T15:08:37.5188874+00:00"
 }

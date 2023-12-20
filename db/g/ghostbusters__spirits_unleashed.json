@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 182,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -23157,9 +23157,9 @@
       "ID": "Seasoned",
       "SetID": "819popo",
       "Name": "Seasoned",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 649
+      "UsersEstimate": 974
     },
     {
       "ID": "Side_Hustle",
@@ -23310,8 +23310,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-18T23:58:18.6120703+00:00",
-  "LastChanged_Achievements": "2023-12-20T14:05:37.4043332+00:00",
+  "LastChanged_Achievements": "2023-12-20T15:05:29.3471684+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:05.1146147+00:00",
-  "LastUpdate_Ratings": "2023-12-20T13:59:30.1096494+00:00",
-  "LastUpdate_Achievements": "2023-12-20T14:05:37.4044277+00:00"
+  "LastUpdate_Ratings": "2023-12-20T14:59:20.7679405+00:00",
+  "LastUpdate_Achievements": "2023-12-20T15:05:29.347285+00:00"
 }

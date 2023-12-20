@@ -28,13 +28,13 @@ Rating: 4.50 (Ranked 602)
 | Legions | 3.00% | ~974 |
 | Pesky Jerks | 3.00% | ~974 |
 | Right back at ya | 3.00% | ~974 |
+| Seasoned | 3.00% | ~974 |
 | Side Hustle | 3.00% | ~974 |
 | Summoner | 3.00% | ~974 |
 | Back Off | 2.00% | ~649 |
 | Collector | 2.00% | ~649 |
 | Escape Artist | 2.00% | ~649 |
 | Rift Destroyer | 2.00% | ~649 |
-| Seasoned | 2.00% | ~649 |
 | Skilled | 2.00% | ~649 |
 | Stunner | 2.00% | ~649 |
 | Tobin's Prodigy | 2.00% | ~649 |

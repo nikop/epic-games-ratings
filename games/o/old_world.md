@@ -90,6 +90,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus | 0.10% | ~16 |
 | Colossus | 0.10% | ~16 |
 | Great Ziggurat | 0.10% | ~16 |
+| Hagia Sophia | 0.10% | ~16 |
 | Hanging Gardens | 0.10% | ~16 |
 | Temple of Solomon | 0.10% | ~16 |
 | Cao'an | 0.10% | ~16 |
@@ -256,7 +257,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Eastern Empire | 0.00% | ~0 |
 | Mausoleum in Halicarnassus | 0.00% | ~0 |
 | Hardcore | 0.00% | ~0 |
-| Hagia Sophia | 0.00% | ~0 |
 | Church of the Holy Sepulchre | 0.00% | ~0 |
 | Knowledge of the Ancients | 0.00% | ~0 |
 | Learn By Playing 2 - Just | 0.00% | ~0 |

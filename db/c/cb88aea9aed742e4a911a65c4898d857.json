@@ -113,9 +113,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 5629,
+  "EOS_Progressed": 5634,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2729,
+  "EOS_NewPlayers": 2715,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1683,6 +1683,11 @@
       "Time": "2023-12-20T14:09:50.494015+00:00",
       "NumProgressed": 5629,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T15:09:30.8619416+00:00",
+      "NumProgressed": 5634,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -1695,7 +1700,7 @@
       "Name": "Conspiracy",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 1351
+      "UsersEstimate": 1352
     },
     {
       "ID": "03_TheStolenStar",
@@ -1703,7 +1708,7 @@
       "Name": "Stolen Star",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -1807,7 +1812,7 @@
       "Name": "The Rise",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "17_TheExemplar",
@@ -1823,7 +1828,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "19_TheVoidWolf",
@@ -1903,7 +1908,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -1911,7 +1916,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "30_The GreatestExploration",
@@ -1951,7 +1956,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -2005,9 +2010,9 @@
       "ID": "41_TheJungleHeat",
       "SetID": "37a94m8",
       "Name": "Jungle Heat",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 338
+      "UsersEstimate": 394
     },
     {
       "ID": "42_TheIronJudgement",
@@ -2214,7 +2219,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 5629,
+      "Progressed": 5634,
       "Completed": 0
     }
   ],
@@ -2222,8 +2227,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-20T11:57:23.1622178+00:00",
-  "LastChanged_Achievements": "2023-12-20T14:09:50.4940146+00:00",
+  "LastChanged_Achievements": "2023-12-20T15:09:30.861941+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:14.7846288+00:00",
-  "LastUpdate_Ratings": "2023-12-20T13:57:31.4600953+00:00",
-  "LastUpdate_Achievements": "2023-12-20T14:09:50.494075+00:00"
+  "LastUpdate_Ratings": "2023-12-20T14:57:22.6721885+00:00",
+  "LastUpdate_Achievements": "2023-12-20T15:09:30.8619893+00:00"
 }

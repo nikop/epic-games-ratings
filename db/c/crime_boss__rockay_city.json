@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 191,
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -5127,9 +5127,9 @@
       "Count": 516
     }
   ],
-  "EOS_Progressed": 92215,
+  "EOS_Progressed": 92218,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 330,
+  "EOS_NewPlayers": 333,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -28532,6 +28532,11 @@
       "Time": "2023-12-20T14:06:14.478376+00:00",
       "NumProgressed": 92215,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-20T15:06:06.958674+00:00",
+      "NumProgressed": 92218,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -28543,7 +28548,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2766
+      "UsersEstimate": 2767
     },
     {
       "ID": "ACH_0011",
@@ -28695,7 +28700,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2766
+      "UsersEstimate": 2767
     },
     {
       "ID": "ACH_0211",
@@ -28870,13 +28875,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 92215,
+      "Progressed": 92218,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 20562,
+      "Progressed": 20565,
       "Completed": 15589
     }
   ],
@@ -28884,8 +28889,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-12-20T01:27:13.4047922+00:00",
-  "LastChanged_Achievements": "2023-12-20T14:06:14.4783756+00:00",
+  "LastChanged_Achievements": "2023-12-20T15:06:06.9586737+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:15.2774722+00:00",
-  "LastUpdate_Ratings": "2023-12-20T13:57:42.7266545+00:00",
-  "LastUpdate_Achievements": "2023-12-20T14:06:14.4784874+00:00"
+  "LastUpdate_Ratings": "2023-12-20T14:57:33.9497436+00:00",
+  "LastUpdate_Achievements": "2023-12-20T15:06:06.9587868+00:00"
 }

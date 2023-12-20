@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4576,
+  "EOS_Progressed": 4577,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
@@ -11780,6 +11780,11 @@
       "Time": "2023-12-20T14:05:47.9738617+00:00",
       "NumProgressed": 4576,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-20T15:05:39.8635193+00:00",
+      "NumProgressed": 4577,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 16,
@@ -11879,7 +11884,7 @@
       "Name": "Food - unlocked",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 1647
+      "UsersEstimate": 1648
     },
     {
       "ID": "ach_game_opened",
@@ -11887,7 +11892,7 @@
       "Name": "Game opened",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3478
+      "UsersEstimate": 3479
     },
     {
       "ID": "ach_magic_wand",
@@ -11911,14 +11916,14 @@
       "Name": "Aeolus",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 1281
+      "UsersEstimate": 1282
     }
   ],
   "AchievementSets": [
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 4576,
+      "Progressed": 4577,
       "Completed": 38
     }
   ],
@@ -11926,8 +11931,8 @@
   "FirstSeenRating": "2023-12-06T23:00:44.8965761+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
   "LastChanged": "2023-12-06T23:00:44.8965762+00:00",
-  "LastChanged_Achievements": "2023-12-20T14:05:47.9738611+00:00",
+  "LastChanged_Achievements": "2023-12-20T15:05:39.8635188+00:00",
   "LastUpdate_AppInfo": "2023-12-15T21:57:12.1320242+00:00",
-  "LastUpdate_Ratings": "2023-12-20T14:00:20.3072801+00:00",
-  "LastUpdate_Achievements": "2023-12-20T14:05:47.9739255+00:00"
+  "LastUpdate_Ratings": "2023-12-20T15:00:11.0585228+00:00",
+  "LastUpdate_Achievements": "2023-12-20T15:05:39.863589+00:00"
 }

@@ -38,10 +38,10 @@
 | If Looks Could Kill | 34.00% | ~202 |
 | The Finitude Drill | 31.00% | ~184 |
 | Ghost Pirates? Ghost Heroes! | 30.00% | ~178 |
+| Not Even a Tiny Thin Mint Wafer, Thanks! | 28.00% | ~166 |
 | Forbidden Knowledge | 28.00% | ~166 |
-| Not Even a Tiny Thin Mint Wafer, Thanks! | 27.00% | ~160 |
+| Hungry, Hungry Gorgu! | 27.00% | ~160 |
 | Doom Hill | 27.00% | ~160 |
-| Hungry, Hungry Gorgu! | 26.00% | ~154 |
 | Stop Tanos! | 26.00% | ~154 |
 | Sabotage! | 25.00% | ~148 |
 | Brimstone Shaken, Not Stirred | 25.00% | ~148 |

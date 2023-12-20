@@ -6,9 +6,9 @@ Rating: 4.58 (Ranked 455)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 30.00% | ~1,078 |
-| Sputnik 2049 | 27.00% | ~970 |
-| Infinite Growth... | 26.00% | ~934 |
-| Without Breaking Some Eggs... | 25.00% | ~898 |
+| Sputnik 2049 | 27.00% | ~971 |
+| Infinite Growth... | 26.00% | ~935 |
+| Without Breaking Some Eggs... | 25.00% | ~899 |
 | Ready for a New World | 18.00% | ~647 |
 | Space Society | 17.00% | ~611 |
 | A Thousand Strong | 17.00% | ~611 |
@@ -21,7 +21,7 @@ Rating: 4.58 (Ranked 455)
 | Breaking Protocol | 12.00% | ~431 |
 | Hope Seeker | 12.00% | ~431 |
 | A Hunk of Junk | 11.00% | ~395 |
-| Man's Best Friend | 9.00% | ~323 |
+| Man's Best Friend | 9.00% | ~324 |
 | Power Outage | 8.00% | ~288 |
 | Convenient Transport | 8.00% | ~288 |
 | Please Make it Stop! | 8.00% | ~288 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 455)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,594 (Ranked 211)  
+Progressed: 3,595 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-17 | 3,550 | 0 |
 | 2023-12-18 | 3,569 | 0 |
 | 2023-12-19 | 3,586 | 0 |
-| 2023-12-20 | 3,594 | 0 |
+| 2023-12-20 | 3,595 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

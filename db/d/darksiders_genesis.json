@@ -3,11 +3,11 @@
   "Name": "Darksiders Genesis",
   "ProductSlug": "darksiders-genesis",
   "Ranking_Rating": 619,
-  "Ranking_Popularity": 458,
+  "Ranking_Popularity": 455,
   "Ranking_PopularitySum": 502,
-  "Ranking_EOS_Progress": 501,
+  "Ranking_EOS_Progress": 497,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2021-07-16T16:00:00+00:00",
@@ -413,23 +413,29 @@
       "Rating": 4.49,
       "NumberOfAwards": 44,
       "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2023-12-20T14:59:21.8904041+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 45,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 44,
-  "NumberOfAwardsMax": 44,
+  "NumberOfAwards": 45,
+  "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 44
+      "Count": 45
     }
   ],
-  "EOS_Progressed": 70,
+  "EOS_Progressed": 72,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -566,6 +572,11 @@
     {
       "Time": "2023-12-20T13:09:38.4554134+00:00",
       "NumProgressed": 70,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T15:09:29.8077353+00:00",
+      "NumProgressed": 72,
       "NumCompleted": 0
     }
   ],
@@ -818,15 +829,15 @@
     {
       "ID": "329ak73",
       "IsBase": true,
-      "Progressed": 70,
+      "Progressed": 72,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
-  "LastChanged": "2023-12-19T01:45:49.6433234+00:00",
-  "LastChanged_Achievements": "2023-12-20T14:09:49.3591756+00:00",
+  "LastChanged": "2023-12-20T14:59:21.890404+00:00",
+  "LastChanged_Achievements": "2023-12-20T15:09:29.8077348+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:26.1049217+00:00",
-  "LastUpdate_Ratings": "2023-12-20T13:59:31.2435081+00:00",
-  "LastUpdate_Achievements": "2023-12-20T14:09:49.3591936+00:00"
+  "LastUpdate_Ratings": "2023-12-20T14:59:21.8904045+00:00",
+  "LastUpdate_Achievements": "2023-12-20T15:09:29.807753+00:00"
 }

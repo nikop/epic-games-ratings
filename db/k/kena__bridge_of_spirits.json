@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 221,
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1493,9 +1493,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 429731,
+  "EOS_Progressed": 429732,
   "EOS_Completed": 553,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -17483,6 +17483,11 @@
       "Time": "2023-12-20T14:03:35.2707097+00:00",
       "NumProgressed": 429731,
       "NumCompleted": 553
+    },
+    {
+      "Time": "2023-12-20T15:03:27.2006174+00:00",
+      "NumProgressed": 429732,
+      "NumCompleted": 553
     }
   ],
   "TotalAchievements": 41,
@@ -17550,7 +17555,7 @@
       "Name": "A Heavy Hammer",
       "Percentage": 30,
       "XP": 60,
-      "UsersEstimate": 128919
+      "UsersEstimate": 128920
     },
     {
       "ID": "ACH_CHALLENGE_ARROW",
@@ -17582,7 +17587,7 @@
       "Name": "Quick Draw",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 128919
+      "UsersEstimate": 128920
     },
     {
       "ID": "ACH_CHALLENGE_DASH_KILL",
@@ -17662,7 +17667,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 408244
+      "UsersEstimate": 408245
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -17678,7 +17683,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 309406
+      "UsersEstimate": 309407
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -17686,7 +17691,7 @@
       "Name": "The Open Range",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 159000
+      "UsersEstimate": 159001
     },
     {
       "ID": "ACH_LOCATION_FOREST",
@@ -17710,7 +17715,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 343785
+      "UsersEstimate": 343786
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -17726,7 +17731,7 @@
       "Name": "Zen Master",
       "Percentage": 8,
       "XP": 60,
-      "UsersEstimate": 34378
+      "UsersEstimate": 34379
     },
     {
       "ID": "ACH_PHOTO_MODE",
@@ -17742,7 +17747,7 @@
       "Name": "Taro\u0027s Love",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 197676
+      "UsersEstimate": 197677
     },
     {
       "ID": "ACH_RELIC_HAMMER",
@@ -17750,7 +17755,7 @@
       "Name": "Adira\u0027s Fear",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 141811
+      "UsersEstimate": 141812
     },
     {
       "ID": "ACH_RELIC_HARPOON",
@@ -17758,7 +17763,7 @@
       "Name": "Toshi\u0027s Regret",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 116027
+      "UsersEstimate": 116028
     },
     {
       "ID": "ACH_RELIC_INCENSE",
@@ -17774,7 +17779,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 240649
+      "UsersEstimate": 240650
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -17798,7 +17803,7 @@
       "Name": "Toshi\u0027s Love",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 116027
+      "UsersEstimate": 116028
     },
     {
       "ID": "ACH_RELIC_VILLAGE_HEART",
@@ -17821,15 +17826,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 429731,
+      "Progressed": 429732,
       "Completed": 553
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-12-17T01:52:52.0072587+00:00",
-  "LastChanged_Achievements": "2023-12-20T14:03:35.2707087+00:00",
+  "LastChanged_Achievements": "2023-12-20T15:03:27.200617+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:24.1713393+00:00",
-  "LastUpdate_Ratings": "2023-12-20T13:58:38.7910022+00:00",
-  "LastUpdate_Achievements": "2023-12-20T14:03:35.2709266+00:00"
+  "LastUpdate_Ratings": "2023-12-20T14:58:29.5248695+00:00",
+  "LastUpdate_Achievements": "2023-12-20T15:03:27.2007295+00:00"
 }

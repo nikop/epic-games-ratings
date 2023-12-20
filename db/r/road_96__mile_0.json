@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 516,
+  "EOS_Progressed": 517,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1802,6 +1802,11 @@
       "Time": "2023-12-20T12:10:41.1701048+00:00",
       "NumProgressed": 516,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-20T15:09:49.5735971+00:00",
+      "NumProgressed": 517,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -1813,7 +1818,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 51,
       "XP": 60,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "completeact2",
@@ -1877,7 +1882,7 @@
       "Name": "Partners in Crime",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "scoreminrankrh1",
@@ -1932,7 +1937,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 516,
+      "Progressed": 517,
       "Completed": 2
     }
   ],
@@ -1940,8 +1945,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-12-20T14:10:09.4364221+00:00",
+  "LastChanged_Achievements": "2023-12-20T15:09:49.5735968+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:48.6488501+00:00",
-  "LastUpdate_Ratings": "2023-12-20T14:00:41.2782632+00:00",
-  "LastUpdate_Achievements": "2023-12-20T14:10:09.4364398+00:00"
+  "LastUpdate_Ratings": "2023-12-20T15:00:31.8254619+00:00",
+  "LastUpdate_Achievements": "2023-12-20T15:09:49.5736127+00:00"
 }

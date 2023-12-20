@@ -4,7 +4,7 @@
   "ProductSlug": "backrooms-realm-of-shadows-1ca413",
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15292,
+  "EOS_Progressed": 15302,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1114,
+  "EOS_NewPlayers": 1120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9524,6 +9524,11 @@
       "Time": "2023-12-20T14:06:40.0346524+00:00",
       "NumProgressed": 15292,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T15:06:32.4202344+00:00",
+      "NumProgressed": 15302,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -9632,7 +9637,7 @@
       "Name": "Level 0",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3976
+      "UsersEstimate": 3979
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -9640,7 +9645,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1835
+      "UsersEstimate": 1836
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -9648,7 +9653,7 @@
       "Name": "Dreamer!",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1682
+      "UsersEstimate": 1683
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -9727,14 +9732,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 15292,
+      "Progressed": 15302,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-12-20T14:06:40.034652+00:00",
+  "LastChanged_Achievements": "2023-12-20T15:06:32.4202338+00:00",
   "LastUpdate_AppInfo": "2023-12-18T18:57:14.5772532+00:00",
-  "LastUpdate_Ratings": "2023-12-20T14:00:26.496321+00:00",
-  "LastUpdate_Achievements": "2023-12-20T14:06:40.0346964+00:00"
+  "LastUpdate_Ratings": "2023-12-20T15:00:17.3531229+00:00",
+  "LastUpdate_Achievements": "2023-12-20T15:06:32.4202962+00:00"
 }

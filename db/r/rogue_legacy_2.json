@@ -1500,9 +1500,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 25893,
+  "EOS_Progressed": 25906,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 2188,
+  "EOS_NewPlayers": 2201,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -11210,6 +11210,11 @@
       "Time": "2023-12-20T14:09:56.2133937+00:00",
       "NumProgressed": 25893,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-20T15:09:36.4308309+00:00",
+      "NumProgressed": 25906,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -11277,7 +11282,7 @@
       "Name": "For Justice",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "BossBridgeDefeated",
@@ -11469,7 +11474,7 @@
       "Name": "Good Boy!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "PrequelReveal",
@@ -11532,21 +11537,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 25893,
+      "Progressed": 25906,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 4823,
+      "Progressed": 4836,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-07T09:58:25.2813813+00:00",
-  "LastChanged_Achievements": "2023-12-20T14:09:56.2133933+00:00",
+  "LastChanged_Achievements": "2023-12-20T15:09:36.43083+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:44.2937948+00:00",
-  "LastUpdate_Ratings": "2023-12-20T13:58:29.102778+00:00",
-  "LastUpdate_Achievements": "2023-12-20T14:09:56.2134476+00:00"
+  "LastUpdate_Ratings": "2023-12-20T14:58:19.8865598+00:00",
+  "LastUpdate_Achievements": "2023-12-20T15:09:36.4309022+00:00"
 }

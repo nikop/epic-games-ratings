@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1937,
+  "EOS_Progressed": 1938,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 248,
+  "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5694,6 +5694,11 @@
       "Time": "2023-12-20T14:10:16.9213919+00:00",
       "NumProgressed": 1937,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T15:09:57.0585615+00:00",
+      "NumProgressed": 1938,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -5706,7 +5711,7 @@
       "Name": "A New Hope",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_10",
@@ -5842,7 +5847,7 @@
       "Name": "A tremor in the Force",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "achievement_26",
@@ -5850,7 +5855,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "achievement_27",
@@ -5914,7 +5919,7 @@
       "Name": "Safety ain\u0027t the point of a joyride",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "achievement_34",
@@ -5994,7 +5999,7 @@
       "Name": "Not bad for a little furball",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "achievement_43",
@@ -6002,7 +6007,7 @@
       "Name": "Walker defender",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_44",
@@ -6010,7 +6015,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 28,
       "XP": 40,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "achievement_45",
@@ -6209,13 +6214,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1937,
+      "Progressed": 1938,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1937,
+      "Progressed": 1938,
       "Completed": 1
     }
   ],
@@ -6223,8 +6228,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-20T14:10:16.9213915+00:00",
+  "LastChanged_Achievements": "2023-12-20T15:09:57.058561+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.5169818+00:00",
-  "LastUpdate_Ratings": "2023-12-20T13:57:53.5259537+00:00",
-  "LastUpdate_Achievements": "2023-12-20T14:10:16.9214547+00:00"
+  "LastUpdate_Ratings": "2023-12-20T14:57:44.4299128+00:00",
+  "LastUpdate_Achievements": "2023-12-20T15:09:57.0586373+00:00"
 }

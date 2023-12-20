@@ -2,12 +2,12 @@
   "ID": "6ff9efdef6dc45ecb40ed20fcd2c4621",
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
-  "Ranking_Rating": 260,
+  "Ranking_Rating": 259,
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewPlayers": 67,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9868,10 +9868,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20823,
       "NumberOfAwardsMax": 7805
+    },
+    {
+      "Time": "2023-12-20T14:59:30.2019512+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20834,
+      "NumberOfAwardsMax": 7805
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20823,
+  "NumberOfAwards": 20834,
   "NumberOfAwardsMax": 7805,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9891,7 +9897,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1547
+      "Count": 1552
     },
     {
       "Text": "This game is Extremely Fun",
@@ -9933,7 +9939,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 1390
+      "Count": 1396
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -9948,9 +9954,9 @@
       "Count": 1033
     }
   ],
-  "EOS_Progressed": 128707,
+  "EOS_Progressed": 128718,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2132,
+  "EOS_NewPlayers": 2138,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35963,6 +35969,11 @@
       "Time": "2023-12-20T14:09:29.0973863+00:00",
       "NumProgressed": 128707,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-20T15:09:09.7795371+00:00",
+      "NumProgressed": 128718,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -35982,7 +35993,7 @@
       "Name": "Serenity Now!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3861
+      "UsersEstimate": 3862
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -36102,7 +36113,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5148
+      "UsersEstimate": 5149
     },
     {
       "ID": "combat_kill_cadavers",
@@ -36126,7 +36137,7 @@
       "Name": "Not Today!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3861
+      "UsersEstimate": 3862
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -36134,7 +36145,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3861
+      "UsersEstimate": 3862
     },
     {
       "ID": "combat_kill_fanatics",
@@ -36174,7 +36185,7 @@
       "Name": "Meat and Greet",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3861
+      "UsersEstimate": 3862
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -36190,7 +36201,7 @@
       "Name": "Catch and Decease",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3861
+      "UsersEstimate": 3862
     },
     {
       "ID": "combat_kill_librarian",
@@ -36198,7 +36209,7 @@
       "Name": "Overdue Notice",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3861
+      "UsersEstimate": 3862
     },
     {
       "ID": "combat_kill_pillagers",
@@ -36214,7 +36225,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3861
+      "UsersEstimate": 3862
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -36326,7 +36337,7 @@
       "Name": "Autodidact",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5148
+      "UsersEstimate": 5149
     },
     {
       "ID": "hero_story_complete_all",
@@ -36510,7 +36521,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "combat_kill_collector",
@@ -36550,7 +36561,7 @@
       "Name": "Et Tu, Riposte?",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "hero_story_complete_crusader",
@@ -36558,7 +36569,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -36605,21 +36616,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 128707,
+      "Progressed": 128718,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 3576,
+      "Progressed": 3587,
       "Completed": 802
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-20T12:00:17.7863289+00:00",
-  "LastChanged_Achievements": "2023-12-20T14:09:29.097386+00:00",
+  "LastChanged": "2023-12-20T14:59:30.2019511+00:00",
+  "LastChanged_Achievements": "2023-12-20T15:09:09.7795365+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-20T13:59:39.8224107+00:00",
-  "LastUpdate_Achievements": "2023-12-20T14:09:29.097559+00:00"
+  "LastUpdate_Ratings": "2023-12-20T14:59:30.2019517+00:00",
+  "LastUpdate_Achievements": "2023-12-20T15:09:09.7796905+00:00"
 }

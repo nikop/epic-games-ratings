@@ -10,7 +10,7 @@ Number of Ratings: 34  (23.09.2022)
 | I'm Alive | 52.00% | ~12,074 |
 | Danger Ahead | 26.00% | ~6,037 |
 | Look at Me Now | 26.00% | ~6,037 |
-| Don't Bring Me Down | 18.00% | ~4,179 |
+| Don't Bring Me Down | 18.00% | ~4,180 |
 | The Fall | 16.00% | ~3,715 |
 | Everyone's Born to Die | 14.00% | ~3,251 |
 | Wild West Hero | 14.00% | ~3,251 |
@@ -21,7 +21,7 @@ Number of Ratings: 34  (23.09.2022)
 | After All | 0.80% | ~186 |
 | Time of Our Life | 0.30% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,219 (Ranked 143)  
+Progressed: 23,220 (Ranked 143)  
 Completed: 60 (0.26%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,7 +265,7 @@ Completed: 60 (0.26%) (Ranked 259)
 | 2023-12-17 | 23,003 | 60 |
 | 2023-12-18 | 23,093 | 60 |
 | 2023-12-19 | 23,178 | 60 |
-| 2023-12-20 | 23,219 | 60 |
+| 2023-12-20 | 23,220 | 60 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

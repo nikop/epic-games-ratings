@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 116,
   "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -4392,9 +4392,9 @@
       "ID": "MQ01_2",
       "SetID": "bbing49",
       "Name": "To Hell In A Handcart",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 770
+      "UsersEstimate": 782
     },
     {
       "ID": "MQ02_1",
@@ -4424,9 +4424,9 @@
       "ID": "MQ02_4",
       "SetID": "bbing49",
       "Name": "Whispers In The Dark",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 644
+      "UsersEstimate": 656
     },
     {
       "ID": "MQ03_1",
@@ -4617,8 +4617,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-19T11:03:29.5971745+00:00",
-  "LastChanged_Achievements": "2023-12-20T14:06:26.1352405+00:00",
+  "LastChanged_Achievements": "2023-12-20T15:06:18.379496+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:14.2246919+00:00",
-  "LastUpdate_Ratings": "2023-12-20T14:03:21.8011457+00:00",
-  "LastUpdate_Achievements": "2023-12-20T14:06:26.1352734+00:00"
+  "LastUpdate_Ratings": "2023-12-20T15:03:11.8459499+00:00",
+  "LastUpdate_Achievements": "2023-12-20T15:06:18.37953+00:00"
 }

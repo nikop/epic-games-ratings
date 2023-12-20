@@ -8,12 +8,12 @@
 | Air Fighter | 75.00% | ~65 |
 | Oo-De-Lally | 69.00% | ~60 |
 | The Altruist | 67.00% | ~58 |
-| Treasure Hunter | 63.00% | ~55 |
+| Treasure Hunter | 64.00% | ~56 |
+| Watch your Step! | 53.00% | ~46 |
 | Tap Dancing | 52.00% | ~45 |
-| Watch your Step! | 51.00% | ~44 |
 | MAX LEVEL | 51.00% | ~44 |
+| Spring Board | 40.00% | ~35 |
 | Right between the eyes | 39.00% | ~34 |
-| Spring Board | 39.00% | ~34 |
 | Starry Night | 37.00% | ~32 |
 | Rebel Unleashed | 36.00% | ~31 |
 | Merry Co-operation | 34.00% | ~30 |
@@ -58,7 +58,7 @@
 | The Armorer | 0.00% | ~0 |
 | Master of All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87 (Ranked 475)  
+Progressed: 87 (Ranked 476)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
