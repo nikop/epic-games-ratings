@@ -1075,9 +1075,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 16650,
+  "EOS_Progressed": 16652,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 909,
+  "EOS_NewPlayers": 911,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -14200,6 +14200,11 @@
       "Time": "2023-12-20T01:39:21.7398915+00:00",
       "NumProgressed": 16650,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-20T02:09:35.4995878+00:00",
+      "NumProgressed": 16652,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -14260,7 +14265,7 @@
       "Name": "Bye Bye",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 6993
+      "UsersEstimate": 6994
     },
     {
       "ID": "a_19",
@@ -14276,7 +14281,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     },
     {
       "ID": "a_20",
@@ -14316,7 +14321,7 @@
       "Name": "Better than nothing?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     },
     {
       "ID": "a_26",
@@ -14340,7 +14345,7 @@
       "Name": "Pastry Chef",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "a_3",
@@ -14412,7 +14417,7 @@
       "Name": "King of Langhe",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "a_5",
@@ -14428,7 +14433,7 @@
       "Name": "Gem of Monferrato",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "a_7",
@@ -14459,7 +14464,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 16650,
+      "Progressed": 16652,
       "Completed": 12
     }
   ],
@@ -14467,8 +14472,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-27T12:03:17.4706024+00:00",
-  "LastChanged_Achievements": "2023-12-20T01:39:21.739891+00:00",
+  "LastChanged_Achievements": "2023-12-20T02:09:35.4995875+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:03.7853176+00:00",
-  "LastUpdate_Ratings": "2023-12-20T01:28:45.4918104+00:00",
-  "LastUpdate_Achievements": "2023-12-20T01:39:21.7399593+00:00"
+  "LastUpdate_Ratings": "2023-12-20T01:58:52.9216887+00:00",
+  "LastUpdate_Achievements": "2023-12-20T02:09:35.4996907+00:00"
 }

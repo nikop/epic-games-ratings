@@ -6,55 +6,55 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kaijuiced | 70.00% | ~39 |
-| Lie Back and Think of Albion | 61.00% | ~34 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 54.00% | ~30 |
-| Yettisoned | 52.00% | ~29 |
-| I Look Up As I Walk to Takoshima | 46.00% | ~26 |
-| Shop Til They Drop | 45.00% | ~25 |
-| Perfect Probulator | 45.00% | ~25 |
-| Lobster Blisque | 43.00% | ~24 |
-| Freshly Squeezed | 34.00% | ~19 |
-| Ducks in a Row, Fish in a Barrel | 34.00% | ~19 |
-| Fly Me to the Moon Base | 32.00% | ~18 |
-| Earthly Pleasures | 32.00% | ~18 |
-| Forbidden Donut | 27.00% | ~15 |
-| Pimp My Raid | 27.00% | ~15 |
-| Bodied Sattva | 25.00% | ~14 |
-| Upgreatest | 21.00% | ~12 |
-| Trans-Siberian Express | 20.00% | ~11 |
-| Deincarnated | 16.00% | ~9 |
-| Rock of the Bay | 16.00% | ~9 |
-| Furon Fashion | 13.00% | ~7 |
-| Re-Return of the Clone of the Invasion II-2 | 13.00% | ~7 |
+| Kaijuiced | 70.00% | ~40 |
+| Lie Back and Think of Albion | 61.00% | ~35 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 54.00% | ~31 |
+| Yettisoned | 53.00% | ~30 |
+| I Look Up As I Walk to Takoshima | 47.00% | ~27 |
+| Shop Til They Drop | 46.00% | ~26 |
+| Perfect Probulator | 46.00% | ~26 |
+| Lobster Blisque | 44.00% | ~25 |
+| Freshly Squeezed | 35.00% | ~20 |
+| Ducks in a Row, Fish in a Barrel | 35.00% | ~20 |
+| Fly Me to the Moon Base | 33.00% | ~19 |
+| Earthly Pleasures | 33.00% | ~19 |
+| Forbidden Donut | 28.00% | ~16 |
+| Pimp My Raid | 28.00% | ~16 |
+| Bodied Sattva | 26.00% | ~15 |
+| Upgreatest | 23.00% | ~13 |
+| Trans-Siberian Express | 21.00% | ~12 |
+| Deincarnated | 18.00% | ~10 |
+| Rock of the Bay | 18.00% | ~10 |
+| Furon Fashion | 14.00% | ~8 |
+| Re-Return of the Clone of the Invasion II-2 | 14.00% | ~8 |
+| Arkvoodle Doodle | 11.00% | ~6 |
 | Ouch of Body Experience | 11.00% | ~6 |
-| Arkvoodle Doodle | 9.00% | ~5 |
 | If You Know What I Mean | 9.00% | ~5 |
-| Hidden Human Hive Harvest | 7.00% | ~4 |
-| Mash Machine | 7.00% | ~4 |
-| Die Nasty | 5.00% | ~3 |
-| Dusted | 5.00% | ~3 |
-| PK Slam Dunk | 4.00% | ~2 |
+| Hidden Human Hive Harvest | 9.00% | ~5 |
+| Mash Machine | 9.00% | ~5 |
+| Die Nasty | 7.00% | ~4 |
+| Dusted | 7.00% | ~4 |
+| PK Slam Dunk | 5.00% | ~3 |
+| Albion Bridge Is for Falling Down | 4.00% | ~2 |
 | Path of the Furon | 2.00% | ~1 |
-| Albion Bridge Is for Falling Down | 2.00% | ~1 |
+| Higher Than the Futen Zoku | 2.00% | ~1 |
+| Arty Facts | 2.00% | ~1 |
 | Scuttled | 0.00% | ~0 |
 | Transmitting From Sol-3 | 0.00% | ~0 |
 | Cult Following | 0.00% | ~0 |
 | To Russia With Love | 0.00% | ~0 |
 | Steezy Down the Spine | 0.00% | ~0 |
-| Higher Than the Futen Zoku | 0.00% | ~0 |
-| Arty Facts | 0.00% | ~0 |
 | Toilet Break | 0.00% | ~0 |
 | Against All Odds | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56 (Ranked 516)  
+Progressed: 57 (Ranked 516)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-12-18 | 23 | 0 |
 | 2023-12-19 | 53 | 0 |
-| 2023-12-20 | 56 | 0 |
+| 2023-12-20 | 57 | 0 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 490)  
 Sum: 34 (Ranked 515)  

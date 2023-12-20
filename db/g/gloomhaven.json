@@ -2699,9 +2699,9 @@
       "Count": 219
     }
   ],
-  "EOS_Progressed": 27497,
+  "EOS_Progressed": 27498,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1463,
+  "EOS_NewPlayers": 1464,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13674,6 +13674,11 @@
       "Time": "2023-12-20T01:39:06.1582739+00:00",
       "NumProgressed": 27497,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T02:09:20.2233252+00:00",
+      "NumProgressed": 27498,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -13974,7 +13979,7 @@
       "Name": "Get over here!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 6599
+      "UsersEstimate": 6600
     },
     {
       "ID": "Achievement_Trophy38",
@@ -13982,7 +13987,7 @@
       "Name": "Mine... All Mine...",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 4674
+      "UsersEstimate": 4675
     },
     {
       "ID": "Achievement_Trophy39",
@@ -13990,7 +13995,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 5224
+      "UsersEstimate": 5225
     },
     {
       "ID": "Achievement_Trophy40",
@@ -14173,7 +14178,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 27497,
+      "Progressed": 27498,
       "Completed": 1
     }
   ],
@@ -14181,8 +14186,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-12-20T00:00:02.5044598+00:00",
-  "LastChanged_Achievements": "2023-12-20T01:39:06.1582733+00:00",
+  "LastChanged_Achievements": "2023-12-20T02:09:20.2233247+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:35.1754464+00:00",
-  "LastUpdate_Ratings": "2023-12-20T01:29:47.1871147+00:00",
-  "LastUpdate_Achievements": "2023-12-20T01:39:06.1583614+00:00"
+  "LastUpdate_Ratings": "2023-12-20T01:59:53.6159908+00:00",
+  "LastUpdate_Achievements": "2023-12-20T02:09:20.2234117+00:00"
 }

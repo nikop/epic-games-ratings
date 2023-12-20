@@ -1136,9 +1136,9 @@
       "ID": "KR4_ACHIEVEMENT_KING",
       "SetID": "caeik3h",
       "Name": "The True King",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "KR4_ACHIEVEMENT_LINIREA",
@@ -1224,9 +1224,9 @@
       "ID": "KR4_ACHIEVEMENT_ORCSHAMAN",
       "SetID": "caeik3h",
       "Name": "Thunderstruck",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "KR4_ACHIEVEMENT_PEERLESS_DEFENDER",
@@ -1312,9 +1312,9 @@
       "ID": "KR4_ACHIEVEMENT_SPAWN_REINFORCEMENTS",
       "SetID": "caeik3h",
       "Name": "We Are Legion!",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 91
     },
     {
       "ID": "KR4_ACHIEVEMENT_SPIDERS",
@@ -1413,8 +1413,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-20T01:34:34.2459479+00:00",
+  "LastChanged_Achievements": "2023-12-20T02:04:58.109853+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:06.9365218+00:00",
-  "LastUpdate_Ratings": "2023-12-20T01:30:34.7627513+00:00",
-  "LastUpdate_Achievements": "2023-12-20T01:34:34.2460032+00:00"
+  "LastUpdate_Ratings": "2023-12-20T02:02:59.0636019+00:00",
+  "LastUpdate_Achievements": "2023-12-20T02:04:58.1099299+00:00"
 }

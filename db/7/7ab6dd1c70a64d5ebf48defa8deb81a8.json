@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 884,
+  "EOS_Progressed": 885,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 619,
+  "EOS_NewPlayers": 620,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -1815,6 +1815,11 @@
       "Time": "2023-12-20T01:39:50.2090677+00:00",
       "NumProgressed": 884,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-20T02:10:03.561736+00:00",
+      "NumProgressed": 885,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1824,9 +1829,9 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 442
+      "UsersEstimate": 434
     },
     {
       "ID": "ACH_02",
@@ -1834,7 +1839,7 @@
       "Name": "Find Allies",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACH_03",
@@ -1962,7 +1967,7 @@
       "Name": "Shatter Them All",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACH_19",
@@ -2002,7 +2007,7 @@
       "Name": "Geared Up",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACH_24",
@@ -2080,9 +2085,9 @@
       "ID": "ACH_34",
       "SetID": "efe2lj",
       "Name": "The Collector",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 142
     },
     {
       "ID": "ACH_35",
@@ -2113,14 +2118,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 884,
+      "Progressed": 885,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-20T01:39:50.2090672+00:00",
+  "LastChanged_Achievements": "2023-12-20T02:10:03.5617357+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
-  "LastUpdate_Ratings": "2023-12-20T01:27:16.1776769+00:00",
-  "LastUpdate_Achievements": "2023-12-20T01:39:50.2090926+00:00"
+  "LastUpdate_Ratings": "2023-12-20T01:57:25.8822164+00:00",
+  "LastUpdate_Achievements": "2023-12-20T02:10:03.561771+00:00"
 }

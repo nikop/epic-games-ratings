@@ -445,9 +445,9 @@
       "ID": "NEW_ACHIEVEMENT_1_24",
       "SetID": "ae95dh3",
       "Name": "All That Glitters",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_25",
@@ -461,9 +461,9 @@
       "ID": "NEW_ACHIEVEMENT_1_26",
       "SetID": "ae95dh3",
       "Name": "Two Faced",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_27",
@@ -612,8 +612,8 @@
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2023-12-20T01:35:43.896276+00:00",
+  "LastChanged_Achievements": "2023-12-20T02:06:08.7531979+00:00",
   "LastUpdate_AppInfo": "2023-12-13T16:57:09.7184739+00:00",
-  "LastUpdate_Ratings": "2023-12-20T01:30:08.1570741+00:00",
-  "LastUpdate_Achievements": "2023-12-20T01:35:43.8962956+00:00"
+  "LastUpdate_Ratings": "2023-12-20T02:00:13.7650553+00:00",
+  "LastUpdate_Achievements": "2023-12-20T02:06:08.7532228+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -57,9 +57,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1243,
+  "EOS_Progressed": 1244,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -3022,6 +3022,11 @@
       "Time": "2023-12-20T01:39:52.5830225+00:00",
       "NumProgressed": 1243,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-20T02:10:06.1748456+00:00",
+      "NumProgressed": 1244,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-10-23T06:09:19.5228409+00:00",
@@ -3034,7 +3039,7 @@
       "Name": "Blue Dreams",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "EV_ACH02",
@@ -3050,7 +3055,7 @@
       "Name": "He\u0027s Famous!",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "EV_ACH04",
@@ -3066,7 +3071,7 @@
       "Name": "Tear of Freedom",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "EV_ACH06",
@@ -3146,7 +3151,7 @@
       "Name": "Better On Ice",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "EV_ACH16",
@@ -3202,7 +3207,7 @@
       "Name": "Bullseye",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "EV_ACH23",
@@ -3218,7 +3223,7 @@
       "Name": "Never Gets Old",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "EV_ACH25",
@@ -3242,7 +3247,7 @@
       "Name": "I Broke It",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 907
+      "UsersEstimate": 908
     },
     {
       "ID": "EV_ACH28",
@@ -3258,7 +3263,7 @@
       "Name": "Cutie Poro",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "EV_ACH30",
@@ -3274,7 +3279,7 @@
       "Name": "Feels Familiar",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "EV_ACH32",
@@ -3385,7 +3390,7 @@
     {
       "ID": "6jeac23",
       "IsBase": true,
-      "Progressed": 1243,
+      "Progressed": 1244,
       "Completed": 9
     }
   ],
@@ -3393,8 +3398,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-18T18:59:32.6243964+00:00",
-  "LastChanged_Achievements": "2023-12-20T01:39:52.583022+00:00",
+  "LastChanged_Achievements": "2023-12-20T02:10:06.1748452+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:41.6283728+00:00",
-  "LastUpdate_Ratings": "2023-12-20T01:30:00.6534681+00:00",
-  "LastUpdate_Achievements": "2023-12-20T01:39:52.5830649+00:00"
+  "LastUpdate_Ratings": "2023-12-20T02:00:07.1484131+00:00",
+  "LastUpdate_Achievements": "2023-12-20T02:10:06.1748924+00:00"
 }

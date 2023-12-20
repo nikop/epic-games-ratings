@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 157186,
+  "EOS_Progressed": 157187,
   "EOS_Completed": 362,
-  "EOS_NewPlayers": 884,
+  "EOS_NewPlayers": 885,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -22228,6 +22228,11 @@
       "Time": "2023-12-20T01:36:21.9326917+00:00",
       "NumProgressed": 157186,
       "NumCompleted": 362
+    },
+    {
+      "Time": "2023-12-20T02:06:47.5844711+00:00",
+      "NumProgressed": 157187,
+      "NumCompleted": 362
     }
   ],
   "TotalAchievements": 31,
@@ -22247,7 +22252,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 110030
+      "UsersEstimate": 110031
     },
     {
       "ID": "EAwards_10",
@@ -22351,7 +22356,7 @@
       "Name": "Got to catch them all",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 17290
+      "UsersEstimate": 17291
     },
     {
       "ID": "EAwards_22",
@@ -22423,7 +22428,7 @@
       "Name": "X\u0027tabay-Bye",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 29865
+      "UsersEstimate": 29866
     },
     {
       "ID": "EAwards_30",
@@ -22455,7 +22460,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 39296
+      "UsersEstimate": 39297
     },
     {
       "ID": "EAwards_7",
@@ -22486,7 +22491,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 157186,
+      "Progressed": 157187,
       "Completed": 362
     }
   ],
@@ -22494,8 +22499,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-12-16T18:59:03.9912318+00:00",
-  "LastChanged_Achievements": "2023-12-20T01:36:21.9326911+00:00",
+  "LastChanged_Achievements": "2023-12-20T02:06:47.5844707+00:00",
   "LastUpdate_AppInfo": "2023-12-15T07:57:06.2910443+00:00",
-  "LastUpdate_Ratings": "2023-12-20T01:27:10.970451+00:00",
-  "LastUpdate_Achievements": "2023-12-20T01:36:21.9328059+00:00"
+  "LastUpdate_Ratings": "2023-12-20T01:57:20.9284231+00:00",
+  "LastUpdate_Achievements": "2023-12-20T02:06:47.5845956+00:00"
 }

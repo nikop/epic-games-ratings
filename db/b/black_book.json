@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 567,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-08-10T17:00:00+00:00",
     "PcReleaseDate": "2021-08-10T17:00:00+00:00",
@@ -668,9 +668,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 61106,
+  "EOS_Progressed": 61107,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 1487,
+  "EOS_NewPlayers": 1488,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -13843,6 +13843,11 @@
       "Time": "2023-12-20T01:33:42.7679478+00:00",
       "NumProgressed": 61106,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-12-20T02:04:07.7729994+00:00",
+      "NumProgressed": 61107,
+      "NumCompleted": 61
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -13911,7 +13916,7 @@
       "Name": "Card Player",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4888
+      "UsersEstimate": 4889
     },
     {
       "ID": "CHEATER",
@@ -13967,7 +13972,7 @@
       "Name": "Student",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 13443
+      "UsersEstimate": 13444
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -14071,7 +14076,7 @@
       "Name": "Dead Friend",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4888
+      "UsersEstimate": 4889
     },
     {
       "ID": "MERMAID_NOT_FREE",
@@ -14135,7 +14140,7 @@
       "Name": "Pine Tree",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4888
+      "UsersEstimate": 4889
     },
     {
       "ID": "PROSHKA_LOYAL",
@@ -14254,15 +14259,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 61106,
+      "Progressed": 61107,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-12-01T11:58:05.6647761+00:00",
-  "LastChanged_Achievements": "2023-12-20T01:33:42.7679473+00:00",
+  "LastChanged_Achievements": "2023-12-20T02:04:07.7729991+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:15.0116795+00:00",
-  "LastUpdate_Ratings": "2023-12-20T01:28:56.4577776+00:00",
-  "LastUpdate_Achievements": "2023-12-20T01:33:42.7680478+00:00"
+  "LastUpdate_Ratings": "2023-12-20T01:59:03.5175204+00:00",
+  "LastUpdate_Achievements": "2023-12-20T02:04:07.7730789+00:00"
 }

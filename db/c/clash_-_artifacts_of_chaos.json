@@ -4,7 +4,7 @@
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
   "Ranking_EOS_Progress": 441,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewPlayers": 383,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 125,
+  "EOS_Progressed": 126,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.8,
+  "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:21.1984631+00:00",
@@ -371,6 +371,11 @@
       "Time": "2023-12-19T16:10:33.8893351+00:00",
       "NumProgressed": 125,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T02:10:02.2446199+00:00",
+      "NumProgressed": 126,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 21,
@@ -382,23 +387,23 @@
       "Name": "Freedom",
       "Percentage": 25,
       "XP": 35,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Achievement10",
       "SetID": "jf6ho5",
       "Name": "The Pride of Moozhaw",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "Achievement11",
       "SetID": "jf6ho5",
       "Name": "Your Training Continues",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 37
     },
     {
       "ID": "Achievement12",
@@ -422,7 +427,7 @@
       "Name": "Vivid Dreams",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Achievement15",
@@ -444,7 +449,7 @@
       "ID": "Achievement17",
       "SetID": "jf6ho5",
       "Name": "Declawing",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 35,
       "UsersEstimate": 81
     },
@@ -476,7 +481,7 @@
       "ID": "Achievement20",
       "SetID": "jf6ho5",
       "Name": "Amokuali Tower",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
       "UsersEstimate": 32
     },
@@ -518,7 +523,7 @@
       "Name": "Total Eclipse",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Achievement7",
@@ -526,7 +531,7 @@
       "Name": "Broken Reflection",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Achievement8",
@@ -542,14 +547,14 @@
       "Name": "Dreamwalker",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     }
   ],
   "AchievementSets": [
     {
       "ID": "jf6ho5",
       "IsBase": true,
-      "Progressed": 125,
+      "Progressed": 126,
       "Completed": 1
     }
   ],
@@ -557,8 +562,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-12-20T01:39:48.2979442+00:00",
+  "LastChanged_Achievements": "2023-12-20T02:10:02.2446195+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:10.316662+00:00",
-  "LastUpdate_Ratings": "2023-12-20T01:27:39.5530848+00:00",
-  "LastUpdate_Achievements": "2023-12-20T01:39:48.2979577+00:00"
+  "LastUpdate_Ratings": "2023-12-20T01:57:48.27534+00:00",
+  "LastUpdate_Achievements": "2023-12-20T02:10:02.2446317+00:00"
 }

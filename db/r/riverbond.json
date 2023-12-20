@@ -503,9 +503,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 533493,
+  "EOS_Progressed": 533494,
   "EOS_Completed": 510,
-  "EOS_NewPlayers": 465,
+  "EOS_NewPlayers": 466,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -26298,6 +26298,11 @@
       "Time": "2023-12-20T01:35:52.2383304+00:00",
       "NumProgressed": 533493,
       "NumCompleted": 510
+    },
+    {
+      "Time": "2023-12-20T02:06:17.3902998+00:00",
+      "NumProgressed": 533494,
+      "NumCompleted": 510
     }
   ],
   "TotalAchievements": 57,
@@ -26309,7 +26314,7 @@
       "Name": "AAARR!",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 122703
+      "UsersEstimate": 122704
     },
     {
       "ID": "10",
@@ -26325,7 +26330,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 373445
+      "UsersEstimate": 373446
     },
     {
       "ID": "12",
@@ -26333,7 +26338,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 117368
+      "UsersEstimate": 117369
     },
     {
       "ID": "13",
@@ -26405,7 +26410,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 128038
+      "UsersEstimate": 128039
     },
     {
       "ID": "21",
@@ -26533,7 +26538,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 266746
+      "UsersEstimate": 266747
     },
     {
       "ID": "36",
@@ -26613,7 +26618,7 @@
       "Name": "Under the Radar",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 42679
+      "UsersEstimate": 42680
     },
     {
       "ID": "45",
@@ -26693,7 +26698,7 @@
       "Name": "Hello Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 122703
+      "UsersEstimate": 122704
     },
     {
       "ID": "54",
@@ -26764,15 +26769,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 533493,
+      "Progressed": 533494,
       "Completed": 510
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-12-14T14:59:39.4842186+00:00",
-  "LastChanged_Achievements": "2023-12-20T01:35:52.2383299+00:00",
+  "LastChanged_Achievements": "2023-12-20T02:06:17.3902993+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:12.0766655+00:00",
-  "LastUpdate_Ratings": "2023-12-20T01:28:38.4039493+00:00",
-  "LastUpdate_Achievements": "2023-12-20T01:35:52.2384534+00:00"
+  "LastUpdate_Ratings": "2023-12-20T01:58:45.9097054+00:00",
+  "LastUpdate_Achievements": "2023-12-20T02:06:17.3904618+00:00"
 }

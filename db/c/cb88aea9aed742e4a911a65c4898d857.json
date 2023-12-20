@@ -93,9 +93,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5530,
+  "EOS_Progressed": 5531,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2760,
+  "EOS_NewPlayers": 2761,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1598,6 +1598,11 @@
       "Time": "2023-12-20T01:39:26.4782919+00:00",
       "NumProgressed": 5530,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T02:09:40.1418621+00:00",
+      "NumProgressed": 5531,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -1714,7 +1719,7 @@
       "Name": "Pentakill",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "16_TheRise",
@@ -1888,9 +1893,9 @@
       "ID": "37_TheSirenicalDiplomat",
       "SetID": "37a94m8",
       "Name": "Silver-Tongued Diplomat",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 44
     },
     {
       "ID": "38_ThoseWhoAreAboutToDieSaluteYou",
@@ -2129,7 +2134,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 5530,
+      "Progressed": 5531,
       "Completed": 0
     }
   ],
@@ -2137,8 +2142,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-19T01:47:20.7959917+00:00",
-  "LastChanged_Achievements": "2023-12-20T01:39:26.4782913+00:00",
+  "LastChanged_Achievements": "2023-12-20T02:09:40.1418618+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:14.7846288+00:00",
-  "LastUpdate_Ratings": "2023-12-20T01:30:32.6004819+00:00",
-  "LastUpdate_Achievements": "2023-12-20T01:39:26.4783477+00:00"
+  "LastUpdate_Ratings": "2023-12-20T02:02:56.7480498+00:00",
+  "LastUpdate_Achievements": "2023-12-20T02:09:40.1419309+00:00"
 }

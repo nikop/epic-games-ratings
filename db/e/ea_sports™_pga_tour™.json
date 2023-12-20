@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 666,
+  "EOS_Progressed": 667,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.5,
   "EosHistory": [
@@ -2385,6 +2385,11 @@
       "Time": "2023-12-20T01:39:26.1079419+00:00",
       "NumProgressed": 666,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-20T02:09:39.7477785+00:00",
+      "NumProgressed": 667,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -2413,7 +2418,7 @@
       "Name": "Bomb\u0027s Away",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "achievement_12",
@@ -2429,7 +2434,7 @@
       "Name": "Competitor\u0027s Spirit",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "achievement_14",
@@ -2453,7 +2458,7 @@
       "Name": "Star Power",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "achievement_17",
@@ -2475,9 +2480,9 @@
       "ID": "achievement_2",
       "SetID": "7ldgi7j",
       "Name": "A Tradition Unlike Any Other",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 153
+      "UsersEstimate": 147
     },
     {
       "ID": "achievement_3",
@@ -2517,7 +2522,7 @@
       "Name": "Makin\u0027 the Cut",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "achievement_8",
@@ -2525,7 +2530,7 @@
       "Name": "Winner\u0027s Circle",
       "Percentage": 53,
       "XP": 35,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "achievement_9",
@@ -2533,20 +2538,20 @@
       "Name": "Ace in the Hole",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     }
   ],
   "AchievementSets": [
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 666,
+      "Progressed": 667,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-12-20T01:39:26.1079413+00:00",
+  "LastChanged_Achievements": "2023-12-20T02:09:39.7477781+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:04.0623721+00:00",
-  "LastUpdate_Ratings": "2023-12-20T01:28:46.6005668+00:00",
-  "LastUpdate_Achievements": "2023-12-20T01:39:26.1079767+00:00"
+  "LastUpdate_Ratings": "2023-12-20T01:58:53.9669511+00:00",
+  "LastUpdate_Achievements": "2023-12-20T02:09:39.7478059+00:00"
 }

@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5715,
+  "EOS_Progressed": 5717,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 442,
+  "EOS_NewPlayers": 444,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
@@ -5519,6 +5519,11 @@
       "Time": "2023-12-20T01:38:38.9222076+00:00",
       "NumProgressed": 5715,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-20T02:08:53.0109383+00:00",
+      "NumProgressed": 5717,
+      "NumCompleted": 52
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -5531,7 +5536,7 @@
       "Name": "Finish The Hidden Room",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_HIDDENROOM",
@@ -5539,7 +5544,7 @@
       "Name": "Unlock the secret room",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_MASK",
@@ -5571,7 +5576,7 @@
       "Name": "Move the sofa",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 2000
+      "UsersEstimate": 2001
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_TV",
@@ -5579,7 +5584,7 @@
       "Name": "Turn on the TV",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 3258
+      "UsersEstimate": 3259
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -5587,7 +5592,7 @@
       "Name": "Wrong passcode",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 4572
+      "UsersEstimate": 4574
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -5595,7 +5600,7 @@
       "Name": "Finish The Hidden Room in Speedrun",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_HIDDENROOM",
@@ -5603,7 +5608,7 @@
       "Name": "Unlock the secret room in Speedrun",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_MASK",
@@ -5658,14 +5663,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 5715,
+      "Progressed": 5717,
       "Completed": 52
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-12-20T01:38:38.9222072+00:00",
+  "LastChanged_Achievements": "2023-12-20T02:08:53.0109381+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:07.8033204+00:00",
-  "LastUpdate_Ratings": "2023-12-20T01:29:08.6392607+00:00",
-  "LastUpdate_Achievements": "2023-12-20T01:38:38.9222375+00:00"
+  "LastUpdate_Ratings": "2023-12-20T01:59:15.1983137+00:00",
+  "LastUpdate_Achievements": "2023-12-20T02:08:53.0109677+00:00"
 }

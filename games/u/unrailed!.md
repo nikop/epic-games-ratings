@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~672 |
 | 20 Miles under the Sea | 0.10% | ~672 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 671,581 (Ranked 29)  
+Progressed: 671,582 (Ranked 29)  
 Completed: 12 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 12 (0.00%) (Ranked 384)
 | 2023-12-17 | 671,091 | 12 |
 | 2023-12-18 | 671,343 | 12 |
 | 2023-12-19 | 671,554 | 12 |
-| 2023-12-20 | 671,581 | 12 |
+| 2023-12-20 | 671,582 | 12 |
 ## Awards
 Max (Great for Beginners): 204  (Ranked 292)  
 Sum: 1,613 (Ranked 232)  

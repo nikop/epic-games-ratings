@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Land of the Rising Sun | 100.00% | ~688 |
-| Hidden History | 71.00% | ~488 |
+| Land of the Rising Sun | 100.00% | ~689 |
+| Hidden History | 71.00% | ~489 |
 | Commencing of Quests | 62.00% | ~427 |
 | Budding Conjuror | 60.00% | ~413 |
 | Man-Machine Master | 50.00% | ~344 |
-| Mountain Splitter | 49.00% | ~337 |
-| Subsistence Skills | 48.00% | ~330 |
-| Charmed by the Hunt | 48.00% | ~330 |
-| Memory Rouser | 47.00% | ~323 |
-| Fusion Conjuror | 46.00% | ~316 |
+| Mountain Splitter | 49.00% | ~338 |
+| Subsistence Skills | 48.00% | ~331 |
+| Charmed by the Hunt | 48.00% | ~331 |
+| Memory Rouser | 47.00% | ~324 |
+| Fusion Conjuror | 46.00% | ~317 |
 | Kemono Hunter | 42.00% | ~289 |
 | Helpful Heart | 41.00% | ~282 |
-| Flawless Crystal | 39.00% | ~268 |
-| Expert Conjuror | 38.00% | ~261 |
+| Flawless Crystal | 38.00% | ~262 |
+| Expert Conjuror | 38.00% | ~262 |
 | Bonds of Enmity | 36.00% | ~248 |
 | Distance Devourer | 35.00% | ~241 |
 | Master of the Skies | 33.00% | ~227 |
@@ -30,7 +30,7 @@
 | Snare Specialist | 25.00% | ~172 |
 | Artful Assister | 25.00% | ~172 |
 | Karakuri Trail | 23.00% | ~158 |
-| Team Hunter | 22.00% | ~151 |
+| Team Hunter | 21.00% | ~145 |
 | Karakuri Isle | 20.00% | ~138 |
 | Reincarnation Cycle Stopper | 20.00% | ~138 |
 | Left Arm Leverager | 17.00% | ~117 |
@@ -41,7 +41,7 @@
 | Karakuri Minato | 16.00% | ~110 |
 | Canyon of Karakuri | 15.00% | ~103 |
 | Quintessence of Form | 15.00% | ~103 |
-| Jack of All Trades | 13.00% | ~89 |
+| Jack of All Trades | 13.00% | ~90 |
 | Karakuri Fortress | 12.00% | ~83 |
 | Volatile Vocation | 11.00% | ~76 |
 | Haven Hunter | 11.00% | ~76 |
@@ -53,7 +53,7 @@
 | Bewitched by Bathing | 6.00% | ~41 |
 | Tsukumo Whisperer | 3.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 688 (Ranked 300)  
+Progressed: 689 (Ranked 299)  
 Completed: 8 (1.16%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,4 +149,4 @@ Completed: 8 (1.16%) (Ranked 162)
 | 2023-12-17 | 613 | 8 |
 | 2023-12-18 | 649 | 8 |
 | 2023-12-19 | 685 | 8 |
-| 2023-12-20 | 688 | 8 |
+| 2023-12-20 | 689 | 8 |

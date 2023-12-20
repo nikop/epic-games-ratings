@@ -1907,9 +1907,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 66847,
+  "EOS_Progressed": 66848,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 665,
+  "EOS_NewPlayers": 666,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -28722,6 +28722,11 @@
       "Time": "2023-12-20T01:34:11.8116885+00:00",
       "NumProgressed": 66847,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-20T02:04:35.5459506+00:00",
+      "NumProgressed": 66848,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -28853,7 +28858,7 @@
       "Name": "Developers, Developers, Developers",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 16043
+      "UsersEstimate": 16044
     },
     {
       "ID": "VERDUN_ACH_DOUGHBOYS",
@@ -29197,22 +29202,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 24733
+      "UsersEstimate": 24734
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 66847,
+      "Progressed": 66848,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-12-19T18:57:45.7577848+00:00",
-  "LastChanged_Achievements": "2023-12-20T01:34:11.811688+00:00",
+  "LastChanged_Achievements": "2023-12-20T02:04:35.5459504+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:33.1495851+00:00",
-  "LastUpdate_Ratings": "2023-12-20T01:28:08.5098115+00:00",
-  "LastUpdate_Achievements": "2023-12-20T01:34:11.8118263+00:00"
+  "LastUpdate_Ratings": "2023-12-20T01:58:16.9197697+00:00",
+  "LastUpdate_Achievements": "2023-12-20T02:04:35.5461013+00:00"
 }

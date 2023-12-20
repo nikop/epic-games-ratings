@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 567,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19111,
+  "EOS_Progressed": 19112,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13889,6 +13889,11 @@
       "Time": "2023-12-19T21:06:58.4840109+00:00",
       "NumProgressed": 19111,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-20T02:05:41.070534+00:00",
+      "NumProgressed": 19112,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -13900,7 +13905,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5733
+      "UsersEstimate": 5734
     },
     {
       "ID": "0002",
@@ -14084,7 +14089,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4204
+      "UsersEstimate": 4205
     },
     {
       "ID": "0025",
@@ -14124,7 +14129,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2484
+      "UsersEstimate": 2485
     },
     {
       "ID": "0030",
@@ -14187,7 +14192,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19111,
+      "Progressed": 19112,
       "Completed": 4
     }
   ],
@@ -14195,8 +14200,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-11-20T16:57:01.0774379+00:00",
-  "LastChanged_Achievements": "2023-12-20T01:35:16.1940161+00:00",
+  "LastChanged_Achievements": "2023-12-20T02:05:41.0705336+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:23.0079073+00:00",
-  "LastUpdate_Ratings": "2023-12-20T01:27:34.4262294+00:00",
-  "LastUpdate_Achievements": "2023-12-20T01:35:16.1940832+00:00"
+  "LastUpdate_Ratings": "2023-12-20T01:57:43.2483564+00:00",
+  "LastUpdate_Achievements": "2023-12-20T02:05:41.0706212+00:00"
 }

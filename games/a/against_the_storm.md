@@ -38,9 +38,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Trade Baron | 1.00% | ~187 |
 | Barren Lands | 0.90% | ~168 |
 | Sparkdew Crystals | 0.90% | ~168 |
+| Flooded Mines | 0.90% | ~168 |
 | Against All Odds | 0.80% | ~150 |
 | Haunted Forest | 0.80% | ~150 |
-| Flooded Mines | 0.80% | ~150 |
 | Serving Ale | 0.60% | ~112 |
 | Fishmen Ritual Site | 0.60% | ~112 |
 | Victory Through Prosperity | 0.60% | ~112 |

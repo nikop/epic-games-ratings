@@ -16590,9 +16590,9 @@
       "ID": "WinNearMines",
       "SetID": "cfbk359",
       "Name": "Flooded Mines",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 168
     },
     {
       "ID": "WinNearMonastery",
@@ -16870,8 +16870,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-19T21:58:46.6682158+00:00",
-  "LastChanged_Achievements": "2023-12-20T01:35:45.1648419+00:00",
+  "LastChanged_Achievements": "2023-12-20T02:06:10.1661986+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
-  "LastUpdate_Ratings": "2023-12-20T01:29:00.8922337+00:00",
-  "LastUpdate_Achievements": "2023-12-20T01:35:45.1649886+00:00"
+  "LastUpdate_Ratings": "2023-12-20T01:59:07.9019341+00:00",
+  "LastUpdate_Achievements": "2023-12-20T02:06:10.1662878+00:00"
 }

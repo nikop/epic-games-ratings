@@ -5,10 +5,10 @@ Rating: 4.19 (Ranked 939)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~1,143 |
-| Battlefields Have Memories | 79.00% | ~1,038 |
-| Enlisted | 72.00% | ~946 |
-| Maybe Engage a Little | 66.00% | ~867 |
+| Unforeseen | 87.00% | ~1,144 |
+| Battlefields Have Memories | 79.00% | ~1,039 |
+| Enlisted | 72.00% | ~947 |
+| Maybe Engage a Little | 66.00% | ~868 |
 | No More Names | 48.00% | ~631 |
 | Initiate | 33.00% | ~434 |
 | Thrada-Kul | 29.00% | ~381 |
@@ -19,8 +19,8 @@ Rating: 4.19 (Ranked 939)
 | Beggars Would Ride | 16.00% | ~210 |
 | Control is an Illusion | 14.00% | ~184 |
 | The Means to Save It | 11.00% | ~145 |
-| Resilience to Sin | 10.00% | ~131 |
-| A Familiar Nest | 10.00% | ~131 |
+| Resilience to Sin | 10.00% | ~132 |
+| A Familiar Nest | 10.00% | ~132 |
 | Geas Aristeya | 9.00% | ~118 |
 | Periapt Alizarin | 9.00% | ~118 |
 | A Perfect Cycle | 8.00% | ~105 |
@@ -42,8 +42,8 @@ Rating: 4.19 (Ranked 939)
 | Master of Ultramarine | 0.80% | ~11 |
 | Master of Malachite | 0.70% | ~9 |
 | Tip of the Spear | 0.70% | ~9 |
+| Grand Magnus | 0.60% | ~8 |
 | Shroudfane Surveyor | 0.60% | ~8 |
-| Grand Magnus | 0.50% | ~7 |
 | Backtracker | 0.50% | ~7 |
 | Petite Bourgeoisie | 0.40% | ~5 |
 | Witch-Taker | 0.40% | ~5 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 939)
 | Family Business | 0.20% | ~3 |
 | Fowl Play | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,314 (Ranked 256)  
+Progressed: 1,315 (Ranked 256)  
 Completed: 2 (0.15%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 2 (0.15%) (Ranked 287)
 | 2023-12-17 | 1,065 | 2 |
 | 2023-12-18 | 1,195 | 2 |
 | 2023-12-19 | 1,301 | 2 |
-| 2023-12-20 | 1,314 | 2 |
+| 2023-12-20 | 1,315 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

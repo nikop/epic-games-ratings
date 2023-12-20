@@ -111,6 +111,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hatti | 0.10% | ~16 |
 | Old World Order | 0.10% | ~16 |
 | One True Faith | 0.10% | ~16 |
+| Play a LAN Game | 0.10% | ~16 |
 | Play a Single Player Game | 0.10% | ~16 |
 | Christianity | 0.10% | ~16 |
 | Judaism | 0.10% | ~16 |
@@ -264,7 +265,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a 1-v-1 Game | 0.00% | ~0 |
 | Play a Free-For-All Game (>2 Players) | 0.00% | ~0 |
 | Play a Hotseat Game | 0.00% | ~0 |
-| Play a LAN Game | 0.00% | ~0 |
 | Play a MP Teams Game | 0.00% | ~0 |
 | Play a Network Game | 0.00% | ~0 |
 | Play a Play-By-Cloud Game | 0.00% | ~0 |

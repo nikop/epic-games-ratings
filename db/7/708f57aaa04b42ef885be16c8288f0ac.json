@@ -281,9 +281,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 10485,
+  "EOS_Progressed": 10487,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 2746,
+  "EOS_NewPlayers": 2748,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -7181,6 +7181,11 @@
       "Time": "2023-12-20T01:39:45.7028402+00:00",
       "NumProgressed": 10485,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-12-20T02:09:59.5314842+00:00",
+      "NumProgressed": 10487,
+      "NumCompleted": 19
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -7201,7 +7206,7 @@
       "Name": "Baby Steps",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 3355
+      "UsersEstimate": 3356
     },
     {
       "ID": "BeLikeWater",
@@ -7233,7 +7238,7 @@
       "Name": "Connection Lost",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1782
+      "UsersEstimate": 1783
     },
     {
       "ID": "Eavesdropper",
@@ -7263,9 +7268,9 @@
       "ID": "FirstTime",
       "SetID": "acc6ea0",
       "Name": "First Time?",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4613
+      "UsersEstimate": 4719
     },
     {
       "ID": "FuneralForTheDeath",
@@ -7273,7 +7278,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "GarbageMan",
@@ -7385,7 +7390,7 @@
       "Name": "The Old-School Way",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1992
+      "UsersEstimate": 1993
     },
     {
       "ID": "TheQuarterback",
@@ -7393,7 +7398,7 @@
       "Name": "The Quarterback",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 3565
+      "UsersEstimate": 3566
     },
     {
       "ID": "ThisIsDharma",
@@ -7433,7 +7438,7 @@
       "Name": "Digestive Issues",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -7464,7 +7469,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 10485,
+      "Progressed": 10487,
       "Completed": 19
     }
   ],
@@ -7472,8 +7477,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-19T14:59:30.647279+00:00",
-  "LastChanged_Achievements": "2023-12-20T01:39:45.7028397+00:00",
+  "LastChanged_Achievements": "2023-12-20T02:09:59.5314839+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:14.4379471+00:00",
-  "LastUpdate_Ratings": "2023-12-20T01:29:28.1094802+00:00",
-  "LastUpdate_Achievements": "2023-12-20T01:39:45.7028838+00:00"
+  "LastUpdate_Ratings": "2023-12-20T01:59:34.8070508+00:00",
+  "LastUpdate_Achievements": "2023-12-20T02:09:59.5315426+00:00"
 }

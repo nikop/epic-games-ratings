@@ -955,9 +955,9 @@
       "Count": 130
     }
   ],
-  "EOS_Progressed": 12963,
+  "EOS_Progressed": 12965,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 1599,
+  "EOS_NewPlayers": 1601,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -15065,6 +15065,11 @@
       "Time": "2023-12-20T01:39:18.156646+00:00",
       "NumProgressed": 12963,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-12-20T02:09:31.9748385+00:00",
+      "NumProgressed": 12965,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 34,
@@ -15148,7 +15153,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 907
+      "UsersEstimate": 908
     },
     {
       "ID": "ACH11",
@@ -15180,7 +15185,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 5444
+      "UsersEstimate": 5445
     },
     {
       "ID": "ACH15",
@@ -15236,7 +15241,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 5963
+      "UsersEstimate": 5964
     },
     {
       "ID": "ACH22",
@@ -15276,7 +15281,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1944
+      "UsersEstimate": 1945
     },
     {
       "ID": "ACH27",
@@ -15347,7 +15352,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 12963,
+      "Progressed": 12965,
       "Completed": 70
     }
   ],
@@ -15355,8 +15360,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-12-18T11:01:34.6856061+00:00",
-  "LastChanged_Achievements": "2023-12-20T01:39:18.1566455+00:00",
+  "LastChanged_Achievements": "2023-12-20T02:09:31.9748381+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:04.8941276+00:00",
-  "LastUpdate_Ratings": "2023-12-20T01:27:35.9400464+00:00",
-  "LastUpdate_Achievements": "2023-12-20T01:39:18.1567198+00:00"
+  "LastUpdate_Ratings": "2023-12-20T01:57:44.7263999+00:00",
+  "LastUpdate_Achievements": "2023-12-20T02:09:31.9749286+00:00"
 }

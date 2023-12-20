@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -7595,10 +7595,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27765,
       "NumberOfAwardsMax": 4898
+    },
+    {
+      "Time": "2023-12-20T02:03:27.6391029+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27766,
+      "NumberOfAwardsMax": 4898
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27765,
+  "NumberOfAwards": 27766,
   "NumberOfAwardsMax": 4898,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7636,7 +7642,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4062
+      "Count": 4063
     },
     {
       "Text": "This game has Playful Visuals",
@@ -7651,9 +7657,9 @@
       "Count": 3800
     }
   ],
-  "EOS_Progressed": 146440,
+  "EOS_Progressed": 146448,
   "EOS_Completed": 325,
-  "EOS_NewPlayers": 1557,
+  "EOS_NewPlayers": 1565,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -33131,6 +33137,11 @@
       "Time": "2023-12-20T01:33:25.2808582+00:00",
       "NumProgressed": 146440,
       "NumCompleted": 325
+    },
+    {
+      "Time": "2023-12-20T02:03:50.3268267+00:00",
+      "NumProgressed": 146448,
+      "NumCompleted": 325
     }
   ],
   "TotalAchievements": 112,
@@ -33310,7 +33321,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11715
+      "UsersEstimate": 11716
     },
     {
       "ID": "chest02",
@@ -33374,7 +33385,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11715
+      "UsersEstimate": 11716
     },
     {
       "ID": "commonres02",
@@ -33406,7 +33417,7 @@
       "Name": "Disintermediation",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8786
+      "UsersEstimate": 8787
     },
     {
       "ID": "craft02",
@@ -33516,9 +33527,9 @@
       "ID": "expansion01",
       "SetID": "anfd17p",
       "Name": "It\u0027s Free Real Estate",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7322
+      "UsersEstimate": 8787
     },
     {
       "ID": "expansion02",
@@ -33918,7 +33929,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8786
+      "UsersEstimate": 8787
     },
     {
       "ID": "sell02",
@@ -33958,7 +33969,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11715
+      "UsersEstimate": 11716
     },
     {
       "ID": "twinenchant01",
@@ -34037,15 +34048,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 146440,
+      "Progressed": 146448,
       "Completed": 325
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-12-20T01:33:04.2234943+00:00",
-  "LastChanged_Achievements": "2023-12-20T01:33:25.2808577+00:00",
+  "LastChanged": "2023-12-20T02:03:27.6391027+00:00",
+  "LastChanged_Achievements": "2023-12-20T02:03:50.3268261+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.001195+00:00",
-  "LastUpdate_Ratings": "2023-12-20T01:33:04.2234948+00:00",
-  "LastUpdate_Achievements": "2023-12-20T01:33:25.2810775+00:00"
+  "LastUpdate_Ratings": "2023-12-20T02:03:27.6391034+00:00",
+  "LastUpdate_Achievements": "2023-12-20T02:03:50.3270565+00:00"
 }

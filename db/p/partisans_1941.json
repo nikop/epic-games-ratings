@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 567,
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1865,
+  "EOS_Progressed": 1866,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4474,6 +4474,11 @@
       "Time": "2023-12-19T21:10:12.7185385+00:00",
       "NumProgressed": 1865,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-20T02:09:26.9443956+00:00",
+      "NumProgressed": 1866,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -4509,7 +4514,7 @@
       "Name": "The Big Bertha",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "Boy",
@@ -4533,7 +4538,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "Defense_Common",
@@ -4565,7 +4570,7 @@
       "Name": "E1M1",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "Everyone_is_here",
@@ -4677,7 +4682,7 @@
       "Name": "Mosquito bite",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "Scout",
@@ -4724,15 +4729,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1865,
+      "Progressed": 1866,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-12-20T01:39:12.9166223+00:00",
+  "LastChanged_Achievements": "2023-12-20T02:09:26.9443948+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:45.5557319+00:00",
-  "LastUpdate_Ratings": "2023-12-20T01:32:49.5358841+00:00",
-  "LastUpdate_Achievements": "2023-12-20T01:39:12.9166639+00:00"
+  "LastUpdate_Ratings": "2023-12-20T02:03:12.7373289+00:00",
+  "LastUpdate_Achievements": "2023-12-20T02:09:26.9444609+00:00"
 }

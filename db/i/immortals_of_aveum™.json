@@ -241,9 +241,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1314,
+  "EOS_Progressed": 1315,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 982,
+  "EOS_NewPlayers": 983,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2416,6 +2416,11 @@
       "Time": "2023-12-20T01:39:28.6750865+00:00",
       "NumProgressed": 1314,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-20T02:09:42.321634+00:00",
+      "NumProgressed": 1315,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -2428,7 +2433,7 @@
       "Name": "Unforeseen",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1144
     },
     {
       "ID": "achievement_10",
@@ -2452,7 +2457,7 @@
       "Name": "Resilience to Sin",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "achievement_13",
@@ -2460,7 +2465,7 @@
       "Name": "A Familiar Nest",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "achievement_14",
@@ -2498,9 +2503,9 @@
       "ID": "achievement_18",
       "SetID": "18al4io",
       "Name": "Grand Magnus",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 80,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_19",
@@ -2516,7 +2521,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1038
+      "UsersEstimate": 1039
     },
     {
       "ID": "achievement_20",
@@ -2572,7 +2577,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "achievement_36",
@@ -2660,7 +2665,7 @@
       "Name": "Enlisted",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "achievement_49",
@@ -2803,7 +2808,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 1314,
+      "Progressed": 1315,
       "Completed": 2
     }
   ],
@@ -2811,8 +2816,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-12-19T07:58:36.9577157+00:00",
-  "LastChanged_Achievements": "2023-12-20T01:39:28.675086+00:00",
+  "LastChanged_Achievements": "2023-12-20T02:09:42.3216337+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:30.3074422+00:00",
-  "LastUpdate_Ratings": "2023-12-20T01:29:12.7207517+00:00",
-  "LastUpdate_Achievements": "2023-12-20T01:39:28.6751302+00:00"
+  "LastUpdate_Ratings": "2023-12-20T01:59:19.3571546+00:00",
+  "LastUpdate_Achievements": "2023-12-20T02:09:42.3216785+00:00"
 }

@@ -6,8 +6,8 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 8.00% | ~279 |
-| Lost and Found | 5.00% | ~174 |
+| Malpractice Assurance | 8.00% | ~280 |
+| Lost and Found | 5.00% | ~175 |
 | This Belongs in a Museum | 4.00% | ~5,145 |
 | Autodidact | 4.00% | ~5,145 |
 | This guy... again? | 4.00% | ~140 |
@@ -20,19 +20,20 @@ Number of Ratings: 7,767  (23.09.2022)
 | Overdue Notice | 3.00% | ~3,859 |
 | Escape from the Black Hole | 3.00% | ~3,859 |
 | Ploughshares to Swords | 3.00% | ~105 |
-| Don't Make Me Turn This Coach Around | 2.00% | ~2,572 |
-| It Rings a Bell | 2.00% | ~2,572 |
-| Dissector | 2.00% | ~2,572 |
-| It Happens | 2.00% | ~2,572 |
-| Spelunker | 2.00% | ~2,572 |
-| Rush Hour | 2.00% | ~2,572 |
-| Merry Time | 2.00% | ~2,572 |
-| Harvest Festival | 2.00% | ~2,572 |
-| To Grandmother's House | 2.00% | ~2,572 |
-| Whale | 2.00% | ~2,572 |
-| A Place to Lay Your Head | 2.00% | ~2,572 |
-| FNG | 2.00% | ~2,572 |
-| Nope | 2.00% | ~2,572 |
+| Don't Make Me Turn This Coach Around | 2.00% | ~2,573 |
+| It Rings a Bell | 2.00% | ~2,573 |
+| Dissector | 2.00% | ~2,573 |
+| It Happens | 2.00% | ~2,573 |
+| Spelunker | 2.00% | ~2,573 |
+| Rush Hour | 2.00% | ~2,573 |
+| Merry Time | 2.00% | ~2,573 |
+| Harvest Festival | 2.00% | ~2,573 |
+| To Grandmother's House | 2.00% | ~2,573 |
+| Ramble On | 2.00% | ~2,573 |
+| Whale | 2.00% | ~2,573 |
+| A Place to Lay Your Head | 2.00% | ~2,573 |
+| FNG | 2.00% | ~2,573 |
+| Nope | 2.00% | ~2,573 |
 | Friends 'Til the End | 2.00% | ~70 |
 | Resurrection | 1.00% | ~1,286 |
 | Unleash Hell | 1.00% | ~1,286 |
@@ -47,7 +48,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Deprogramming | 1.00% | ~1,286 |
 | Now Stay Dead | 1.00% | ~1,286 |
 | Reverse Banditry | 1.00% | ~1,286 |
-| Ramble On | 1.00% | ~1,286 |
 | A Clear Conscience | 1.00% | ~1,286 |
 | When You Want Something Done Right | 1.00% | ~1,286 |
 | Worldly Traveller | 1.00% | ~1,286 |
@@ -65,9 +65,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | Body of Work | 0.60% | ~772 |
 | Et Tu, Riposte? | 0.60% | ~21 |
 | Shrine of Reflection | 0.50% | ~643 |
-| Clearing the Ledger | 0.40% | ~514 |
-| Hat Trick | 0.40% | ~514 |
-| Triage | 0.40% | ~514 |
+| Clearing the Ledger | 0.40% | ~515 |
+| Hat Trick | 0.40% | ~515 |
+| Triage | 0.40% | ~515 |
 | No Mercy | 0.40% | ~14 |
 | A Life Well Lived | 0.30% | ~386 |
 | The World As It Was | 0.30% | ~386 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,620 (Ranked 85)  
+Progressed: 128,627 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 3 (0.00%) (Ranked 384)
 | 2023-12-17 | 128,143 | 3 |
 | 2023-12-18 | 128,398 | 3 |
 | 2023-12-19 | 128,605 | 3 |
-| 2023-12-20 | 128,620 | 3 |
+| 2023-12-20 | 128,627 | 3 |
 ## Awards
 Max (Character Customization): 7,795  (Ranked 50)  
 Sum: 20,811 (Ranked 58)  

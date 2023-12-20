@@ -5,9 +5,9 @@ Rating: 4.12 (Ranked 979)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 10.00% | ~4,445 |
-| Unlocked Potential | 10.00% | ~4,445 |
-| Tinkerer | 8.00% | ~3,556 |
+| Attachments | 10.00% | ~4,446 |
+| Unlocked Potential | 10.00% | ~4,446 |
+| Tinkerer | 8.00% | ~3,557 |
 | Knock 'Em Dead | 7.00% | ~3,112 |
 | Pilgrimage: Initiate | 7.00% | ~3,112 |
 | Hell of a Run | 7.00% | ~3,112 |
@@ -59,7 +59,7 @@ Rating: 4.12 (Ranked 979)
 | Remembrance | 0.10% | ~44 |
 | Cat Person | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,454 (Ranked 119)  
+Progressed: 44,458 (Ranked 119)  
 Completed: 3 (0.01%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 3 (0.01%) (Ranked 360)
 | 2023-12-17 | 44,267 | 3 |
 | 2023-12-18 | 44,366 | 3 |
 | 2023-12-19 | 44,445 | 3 |
-| 2023-12-20 | 44,454 | 3 |
+| 2023-12-20 | 44,458 | 3 |
 ## Awards
 Max (Character Customization): 32  (Ranked 501)  
 Sum: 32 (Ranked 521)  

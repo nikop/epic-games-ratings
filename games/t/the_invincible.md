@@ -17,8 +17,8 @@
 | Peacemaker | 21.00% | ~170 |
 | Volcanologist | 20.00% | ~162 |
 | On her own | 18.00% | ~146 |
+| Evacuation | 18.00% | ~146 |
 | Fierce fight | 17.00% | ~138 |
-| Evacuation | 17.00% | ~138 |
 | Beyond divisions | 17.00% | ~138 |
 | Flying Objects Operator | 15.00% | ~122 |
 | I remember everything! | 12.00% | ~97 |

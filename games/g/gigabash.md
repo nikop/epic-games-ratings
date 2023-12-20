@@ -5,13 +5,13 @@ Rating: 4.56 (Ranked 498)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 11.00% | ~10,469 |
-| I've Had Enough! | 9.00% | ~8,566 |
-| Fists, Fury & a lot of Rage | 7.00% | ~6,662 |
-| Seasoned Fighter | 6.00% | ~5,710 |
-| All For One and One For All | 5.00% | ~4,759 |
-| Home Sweet Home? | 4.00% | ~3,807 |
-| A New Age | 3.00% | ~2,855 |
+| All Grown Up! | 11.00% | ~10,472 |
+| I've Had Enough! | 9.00% | ~8,568 |
+| Fists, Fury & a lot of Rage | 7.00% | ~6,664 |
+| Seasoned Fighter | 6.00% | ~5,712 |
+| All For One and One For All | 5.00% | ~4,760 |
+| Home Sweet Home? | 4.00% | ~3,808 |
+| A New Age | 3.00% | ~2,856 |
 | Oh Baby, A Triple | 2.00% | ~1,904 |
 | Master of Disguise | 2.00% | ~1,904 |
 | Symbiotic | 2.00% | ~1,904 |
@@ -20,8 +20,8 @@ Rating: 4.56 (Ranked 498)
 | Right back at'cha | 1.00% | ~952 |
 | Spectacular Finisher | 1.00% | ~952 |
 | Double Punch! | 0.90% | ~857 |
-| Cautious Veteran | 0.80% | ~761 |
-| Martyrdom | 0.80% | ~761 |
+| Cautious Veteran | 0.80% | ~762 |
+| Martyrdom | 0.80% | ~762 |
 | Katamari | 0.60% | ~571 |
 | Zero-sum Game | 0.60% | ~571 |
 | Ninja Reflex | 0.50% | ~476 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 498)
 | Keeper of Knowledge | 0.00% | ~0 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 95,175 (Ranked 94)  
+Progressed: 95,198 (Ranked 94)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -56,7 +56,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-17 | 91,589 | 0 |
 | 2023-12-18 | 93,389 | 0 |
 | 2023-12-19 | 95,039 | 0 |
-| 2023-12-20 | 95,175 | 0 |
+| 2023-12-20 | 95,198 | 0 |
 ## Awards
 Max (Great Boss Battles): 32  (Ranked 501)  
 Sum: 32 (Ranked 521)  
