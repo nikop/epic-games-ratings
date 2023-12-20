@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 885,
+  "EOS_Progressed": 886,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 620,
+  "EOS_NewPlayers": 621,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -1820,6 +1820,11 @@
       "Time": "2023-12-20T02:10:03.561736+00:00",
       "NumProgressed": 885,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-20T03:09:33.3509647+00:00",
+      "NumProgressed": 886,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1829,9 +1834,9 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 434
+      "UsersEstimate": 443
     },
     {
       "ID": "ACH_02",
@@ -1887,7 +1892,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_09",
@@ -2077,9 +2082,9 @@
       "ID": "ACH_33",
       "SetID": "efe2lj",
       "Name": "Miner",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 35
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_34",
@@ -2118,14 +2123,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 885,
+      "Progressed": 886,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-20T02:10:03.5617357+00:00",
+  "LastChanged_Achievements": "2023-12-20T03:09:33.3509645+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
-  "LastUpdate_Ratings": "2023-12-20T01:57:25.8822164+00:00",
-  "LastUpdate_Achievements": "2023-12-20T02:10:03.561771+00:00"
+  "LastUpdate_Ratings": "2023-12-20T02:57:01.1888942+00:00",
+  "LastUpdate_Achievements": "2023-12-20T03:09:33.350992+00:00"
 }

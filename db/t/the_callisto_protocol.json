@@ -1665,10 +1665,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 527,
       "NumberOfAwardsMax": 89
+    },
+    {
+      "Time": "2023-12-20T03:02:59.9663402+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 529,
+      "NumberOfAwardsMax": 89
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 527,
+  "NumberOfAwards": 529,
   "NumberOfAwardsMax": 89,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -1694,7 +1700,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 84
+      "Count": 86
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1715,9 +1721,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 18150,
+  "EOS_Progressed": 18154,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1620,
+  "EOS_NewPlayers": 1624,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -10370,6 +10376,11 @@
       "Time": "2023-12-20T02:09:22.0207213+00:00",
       "NumProgressed": 18150,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-20T03:08:51.1196079+00:00",
+      "NumProgressed": 18154,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -10413,7 +10424,7 @@
       "Name": "Flesh Wound",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 2541
+      "UsersEstimate": 2542
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -10493,7 +10504,7 @@
       "Name": "In Striking Distance",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "KILL_2HEAD",
@@ -10509,7 +10520,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1996
+      "UsersEstimate": 1997
     },
     {
       "ID": "KILL_ROBOT",
@@ -10533,7 +10544,7 @@
       "Name": "The Commonality",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -10756,22 +10767,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 18150,
+      "Progressed": 18154,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 6076,
+      "Progressed": 6080,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-12-20T01:33:05.5904977+00:00",
-  "LastChanged_Achievements": "2023-12-20T02:09:22.0207209+00:00",
+  "LastChanged": "2023-12-20T03:02:59.9663401+00:00",
+  "LastChanged_Achievements": "2023-12-20T03:08:51.1196075+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.4893565+00:00",
-  "LastUpdate_Ratings": "2023-12-20T02:03:29.0368096+00:00",
-  "LastUpdate_Achievements": "2023-12-20T02:09:22.0207791+00:00"
+  "LastUpdate_Ratings": "2023-12-20T03:02:59.9663405+00:00",
+  "LastUpdate_Achievements": "2023-12-20T03:08:51.1196898+00:00"
 }

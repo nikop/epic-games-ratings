@@ -2,9 +2,9 @@
   "ID": "c43146b859f04072ab662e89587b692b",
   "Name": "Outbreak Endless Nightmares Restless Dreams",
   "ProductSlug": "outbreak-endless-nightmares-restless-dreams-40507b",
-  "Ranking_EOS_Progress": 586,
-  "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 555,
+  "Ranking_EOS_Progress": 583,
+  "Ranking_EOS_Completed": 92,
+  "Ranking_EOS_NewPlayers": 511,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-30T14:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24,
+  "EOS_Progressed": 25,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.17,
+  "EOS_Completed_Percentage": 4,
   "EosHistory": [
     {
       "Time": "2023-10-18T22:15:21.0608364+00:00",
@@ -74,6 +74,11 @@
       "Time": "2023-12-19T23:08:03.6942535+00:00",
       "NumProgressed": 24,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T03:08:11.5306179+00:00",
+      "NumProgressed": 25,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-18T22:15:21.0608453+00:00",
@@ -100,7 +105,7 @@
       "ID": "MIGHT_BE_MENDED_ACH",
       "SetID": "cnj66m",
       "Name": "Might Be Mended",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -116,7 +121,7 @@
       "ID": "PURGATORY_ACH",
       "SetID": "cnj66m",
       "Name": "Purgatory",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 90,
       "UsersEstimate": 4
     },
@@ -132,9 +137,9 @@
       "ID": "STRANGE_LAND_ACH",
       "SetID": "cnj66m",
       "Name": "Strange Land",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "SUPERIOR_FIREPOWER_ACH",
@@ -173,14 +178,14 @@
     {
       "ID": "cnj66m",
       "IsBase": true,
-      "Progressed": 24,
+      "Progressed": 25,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-21T11:58:37.7848996+00:00",
   "FirstSeenAchievements": "2023-10-18T22:15:21.0608452+00:00",
-  "LastChanged_Achievements": "2023-12-20T02:08:42.3192602+00:00",
+  "LastChanged_Achievements": "2023-12-20T03:08:11.5306176+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:20.210971+00:00",
-  "LastUpdate_Ratings": "2023-12-20T01:59:51.7175282+00:00",
-  "LastUpdate_Achievements": "2023-12-20T02:08:42.3192676+00:00"
+  "LastUpdate_Ratings": "2023-12-20T02:59:25.2624403+00:00",
+  "LastUpdate_Achievements": "2023-12-20T03:08:11.5306244+00:00"
 }

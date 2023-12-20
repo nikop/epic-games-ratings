@@ -2920,9 +2920,9 @@
       "ID": "ACH_STAR_5",
       "SetID": "7k95e4n",
       "Name": "You\u0027re a star",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 80,
-      "UsersEstimate": 247
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_STORY_MODE_FINISHED",
@@ -2961,8 +2961,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-12-17T01:52:20.9654056+00:00",
-  "LastChanged_Achievements": "2023-12-20T02:05:19.7400825+00:00",
+  "LastChanged_Achievements": "2023-12-20T03:04:51.1429082+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:13.8800884+00:00",
-  "LastUpdate_Ratings": "2023-12-20T01:57:35.0991399+00:00",
-  "LastUpdate_Achievements": "2023-12-20T02:05:19.7401118+00:00"
+  "LastUpdate_Ratings": "2023-12-20T02:57:09.8922886+00:00",
+  "LastUpdate_Achievements": "2023-12-20T03:04:51.142941+00:00"
 }

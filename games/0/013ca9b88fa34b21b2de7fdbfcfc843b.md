@@ -10,9 +10,9 @@ Rating: 4.63 (Ranked 354)
 | ... And Spit Back Out | 1.00% | ~85 |
 | Bramble Breaker | 0.90% | ~77 |
 | Calm Sailing | 0.80% | ~68 |
+| Break-Net Speed | 0.80% | ~68 |
 | Open the Gate! | 0.70% | ~60 |
 | Miner 49er | 0.70% | ~60 |
-| Break-Net Speed | 0.70% | ~60 |
 | Humble Collector | 0.60% | ~51 |
 | Mist Walker | 0.60% | ~51 |
 | Lumberjack | 0.50% | ~43 |
@@ -24,13 +24,13 @@ Rating: 4.63 (Ranked 354)
 | Beach Comber | 0.30% | ~26 |
 | Botanical Breakthrough | 0.30% | ~26 |
 | Azorian Anniversary | 0.30% | ~26 |
+| Right Tool For the Job | 0.30% | ~26 |
 | Skilled | 0.30% | ~26 |
 | Flaming Hot Completos | 0.20% | ~17 |
 | Fae Farmer | 0.20% | ~17 |
 | Fanatical Farmer | 0.20% | ~17 |
 | I Now Pronounce You... | 0.20% | ~17 |
 | Chatty Neighbor | 0.20% | ~17 |
-| Right Tool For the Job | 0.20% | ~17 |
 | Captain of Cozy | 0.20% | ~17 |
 | House Proud | 0.20% | ~17 |
 | Polyglot | 0.20% | ~2 |

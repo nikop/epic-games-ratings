@@ -6,10 +6,10 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 8.00% | ~280 |
-| Lost and Found | 5.00% | ~175 |
-| This Belongs in a Museum | 4.00% | ~5,145 |
-| Autodidact | 4.00% | ~5,145 |
+| Malpractice Assurance | 8.00% | ~281 |
+| Lost and Found | 5.00% | ~176 |
+| This Belongs in a Museum | 4.00% | ~5,146 |
+| Autodidact | 4.00% | ~5,146 |
 | This guy... again? | 4.00% | ~140 |
 | Bloody Graduation | 4.00% | ~140 |
 | Serenity Now! | 3.00% | ~3,859 |
@@ -60,7 +60,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | This Looks Familiar | 0.80% | ~1,029 |
 | Eyes Up | 0.80% | ~1,029 |
 | Slap on the Wrist | 0.80% | ~28 |
-| For Old Time' Sake | 0.70% | ~24 |
+| For Old Time' Sake | 0.70% | ~25 |
 | Handled | 0.60% | ~772 |
 | Body of Work | 0.60% | ~772 |
 | Et Tu, Riposte? | 0.60% | ~21 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Life Well Lived | 0.30% | ~386 |
 | The World As It Was | 0.30% | ~386 |
 | Bacon Bits | 0.30% | ~386 |
-| Maître De La Lame | 0.30% | ~10 |
+| Maître De La Lame | 0.30% | ~11 |
 | Tears in the Rain | 0.20% | ~257 |
 | Eidetic | 0.20% | ~257 |
 | Battle Hardened | 0.20% | ~7 |
@@ -84,9 +84,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~129 |
 | Grand Slam | 0.10% | ~129 |
 | Hard Mode | 0.10% | ~129 |
-| These Boots Are Made For Kickin' | 0.10% | ~3 |
+| These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,627 (Ranked 85)  
+Progressed: 128,641 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 3 (0.00%) (Ranked 384)
 | 2023-12-17 | 128,143 | 3 |
 | 2023-12-18 | 128,398 | 3 |
 | 2023-12-19 | 128,605 | 3 |
-| 2023-12-20 | 128,627 | 3 |
+| 2023-12-20 | 128,641 | 3 |
 ## Awards
 Max (Character Customization): 7,795  (Ranked 50)  
 Sum: 20,811 (Ranked 58)  

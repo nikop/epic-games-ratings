@@ -2,9 +2,9 @@
   "ID": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
   "Name": "Deus Ex - Mankind Divided",
   "ProductSlug": "deus-ex-mankind-divided-4c6370",
-  "Ranking_EOS_Progress": 555,
+  "Ranking_EOS_Progress": 552,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36,
+  "EOS_Progressed": 37,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -199,6 +199,11 @@
       "Time": "2023-12-20T00:06:04.7928305+00:00",
       "NumProgressed": 36,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T03:05:44.9840697+00:00",
+      "NumProgressed": 37,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-13T17:03:37.7079864+00:00",
@@ -209,7 +214,7 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "7on801h",
       "Name": "We Are Human Beings",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -217,7 +222,7 @@
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "7on801h",
       "Name": "Ghost",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -225,7 +230,7 @@
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "7on801h",
       "Name": "Singh No Swan Song",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 10,
       "UsersEstimate": 14
     },
@@ -257,7 +262,7 @@
       "ID": "NEW_ACHIEVEMENT_1_15",
       "SetID": "7on801h",
       "Name": "The Golden Rookery",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -265,7 +270,7 @@
       "ID": "NEW_ACHIEVEMENT_1_16",
       "SetID": "7on801h",
       "Name": "Core Driller",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -273,7 +278,7 @@
       "ID": "NEW_ACHIEVEMENT_1_17",
       "SetID": "7on801h",
       "Name": "The Net Is Vast and Infinite",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -281,7 +286,7 @@
       "ID": "NEW_ACHIEVEMENT_1_18",
       "SetID": "7on801h",
       "Name": "So Many Cucumbers",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -297,7 +302,7 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "7on801h",
       "Name": "Pacifist",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -305,7 +310,7 @@
       "ID": "NEW_ACHIEVEMENT_1_20",
       "SetID": "7on801h",
       "Name": "Tablet Collector",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -321,7 +326,7 @@
       "ID": "NEW_ACHIEVEMENT_1_22",
       "SetID": "7on801h",
       "Name": "Humanity \u002B",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -337,7 +342,7 @@
       "ID": "NEW_ACHIEVEMENT_1_24",
       "SetID": "7on801h",
       "Name": "The Jack of All Augments",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -393,7 +398,7 @@
       "ID": "NEW_ACHIEVEMENT_1_30",
       "SetID": "7on801h",
       "Name": "Invisible War",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -417,7 +422,7 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "7on801h",
       "Name": "The Supreme Enlightened",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -425,7 +430,7 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "7on801h",
       "Name": "Spokes in Two Wheels",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -433,7 +438,7 @@
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "7on801h",
       "Name": "He\u0027s [Not] Dead, Jim",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -441,7 +446,7 @@
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "7on801h",
       "Name": "Laputan Machine",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -465,9 +470,9 @@
       "ID": "NEW_ACHIEVEMENT_2_1",
       "SetID": "7on801h",
       "Name": "I Can Only Fight Enemies I Can See",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_10",
@@ -489,7 +494,7 @@
       "ID": "NEW_ACHIEVEMENT_2_12",
       "SetID": "7on801h",
       "Name": "Ballsy",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -521,7 +526,7 @@
       "ID": "NEW_ACHIEVEMENT_2_16",
       "SetID": "7on801h",
       "Name": "Data Detective",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -545,7 +550,7 @@
       "ID": "NEW_ACHIEVEMENT_2_19",
       "SetID": "o6aioj",
       "Name": "Extract the Data\u2026",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -561,7 +566,7 @@
       "ID": "NEW_ACHIEVEMENT_2_20",
       "SetID": "o6aioj",
       "Name": "Expose the Truth!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -569,7 +574,7 @@
       "ID": "NEW_ACHIEVEMENT_2_21",
       "SetID": "o6aioj",
       "Name": "Murder He Wrote",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -585,7 +590,7 @@
       "ID": "NEW_ACHIEVEMENT_2_23",
       "SetID": "o6aioj",
       "Name": "Go Figure",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -593,7 +598,7 @@
       "ID": "NEW_ACHIEVEMENT_2_24",
       "SetID": "o6aioj",
       "Name": "Knock Knock",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -601,7 +606,7 @@
       "ID": "NEW_ACHIEVEMENT_2_25",
       "SetID": "o6aioj",
       "Name": "Too Hot to Handle",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -609,7 +614,7 @@
       "ID": "NEW_ACHIEVEMENT_2_26",
       "SetID": "o6aioj",
       "Name": "Clean Sweep",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -641,7 +646,7 @@
       "ID": "NEW_ACHIEVEMENT_2_3",
       "SetID": "7on801h",
       "Name": "K is for Kazdy",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -681,7 +686,7 @@
       "ID": "NEW_ACHIEVEMENT_2_6",
       "SetID": "7on801h",
       "Name": "The Last Harvest",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -689,7 +694,7 @@
       "ID": "NEW_ACHIEVEMENT_2_7",
       "SetID": "7on801h",
       "Name": "01011000",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -737,7 +742,7 @@
       "ID": "NEW_ACHIEVEMENT_3_11",
       "SetID": "o6aioj",
       "Name": "Don\u0027t Reach, Kid",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -745,7 +750,7 @@
       "ID": "NEW_ACHIEVEMENT_3_12",
       "SetID": "o6aioj",
       "Name": "Smooth Like Soap",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -753,7 +758,7 @@
       "ID": "NEW_ACHIEVEMENT_3_13",
       "SetID": "o6aioj",
       "Name": "Objection!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -761,7 +766,7 @@
       "ID": "NEW_ACHIEVEMENT_3_14",
       "SetID": "o6aioj",
       "Name": "Quid Pro Quo",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -769,7 +774,7 @@
       "ID": "NEW_ACHIEVEMENT_3_15",
       "SetID": "o6aioj",
       "Name": "Dressed for the Occasion",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -777,7 +782,7 @@
       "ID": "NEW_ACHIEVEMENT_3_16",
       "SetID": "o6aioj",
       "Name": "A Just Cause",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -858,20 +863,20 @@
     {
       "ID": "7on801h",
       "IsBase": true,
-      "Progressed": 36,
+      "Progressed": 37,
       "Completed": 0
     },
     {
       "ID": "o6aioj",
       "IsBase": false,
-      "Progressed": 36,
+      "Progressed": 37,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2023-12-20T02:06:14.2022701+00:00",
+  "LastChanged_Achievements": "2023-12-20T03:05:44.9840694+00:00",
   "LastUpdate_AppInfo": "2023-12-13T16:57:09.7184844+00:00",
-  "LastUpdate_Ratings": "2023-12-20T02:00:13.7739026+00:00",
-  "LastUpdate_Achievements": "2023-12-20T02:06:14.2023458+00:00"
+  "LastUpdate_Ratings": "2023-12-20T02:59:47.1527065+00:00",
+  "LastUpdate_Achievements": "2023-12-20T03:05:44.9841306+00:00"
 }

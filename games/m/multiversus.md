@@ -6,17 +6,17 @@ Number of Ratings: 55,748  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Matchmaker | 74.00% | ~800,013 |
-| Bun-Puncher Supreme | 68.00% | ~735,147 |
-| You Mean Business | 68.00% | ~735,147 |
-| You're Getting Pretty Good At This! | 68.00% | ~735,147 |
-| Aerial Specialist | 63.00% | ~681,092 |
-| Proving Yourself | 63.00% | ~681,092 |
-| Stepping Out | 63.00% | ~681,092 |
-| The Throne Is Yours | 63.00% | ~681,092 |
-| Spike Specialist | 54.00% | ~583,793 |
-| Southpaw Specialist | 54.00% | ~583,793 |
-| Rightie Specialist | 54.00% | ~583,793 |
+| Matchmaker | 74.00% | ~800,014 |
+| Bun-Puncher Supreme | 68.00% | ~735,148 |
+| You Mean Business | 68.00% | ~735,148 |
+| You're Getting Pretty Good At This! | 68.00% | ~735,148 |
+| Aerial Specialist | 63.00% | ~681,093 |
+| Proving Yourself | 63.00% | ~681,093 |
+| Stepping Out | 63.00% | ~681,093 |
+| The Throne Is Yours | 63.00% | ~681,093 |
+| Spike Specialist | 54.00% | ~583,794 |
+| Southpaw Specialist | 54.00% | ~583,794 |
+| Rightie Specialist | 54.00% | ~583,794 |
 | Signature Slammer | 43.00% | ~464,873 |
 | Distanced Damage Dealer | 42.00% | ~454,062 |
 | Watch Your Head | 42.00% | ~454,062 |
@@ -35,7 +35,7 @@ Number of Ratings: 55,748  (23.09.2022)
 | Going Down? | 29.00% | ~313,519 |
 | Run It Back | 6.00% | ~64,866 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,081,099 (Ranked 15)  
+Progressed: 1,081,100 (Ranked 15)  
 Completed: 31,692 (2.93%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,6 +107,7 @@ Completed: 31,692 (2.93%) (Ranked 114)
 | 2023-11-23 | 1,081,097 | 31,692 |
 | 2023-11-27 | 1,081,098 | 31,692 |
 | 2023-12-19 | 1,081,099 | 31,692 |
+| 2023-12-20 | 1,081,100 | 31,692 |
 ## Awards
 Max (Great for Beginners): 4,751  (Ranked 79)  
 Sum: 45,750 (Ranked 33)  

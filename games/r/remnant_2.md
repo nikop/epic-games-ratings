@@ -1,29 +1,29 @@
 # Remnant 2
 [Store](https://store.epicgames.com/en-US/p/remnant-2)  
 [View Rawdata](../../db/r/remnant_2.json)  
-Rating: 4.74 (Ranked 162)  
+Rating: 4.75 (Ranked 150)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 6.00% | ~15,351 |
-| First of Many | 5.00% | ~12,793 |
-| Not Your Average Trait | 4.00% | ~10,234 |
-| Expanding Horizons | 3.00% | ~7,676 |
-| Quest for Survival | 3.00% | ~7,676 |
-| Familiar Face | 3.00% | ~7,676 |
-| Boss'n Up | 3.00% | ~7,676 |
-| Gleaming the Cube | 2.00% | ~5,117 |
-| Not So Special Now | 2.00% | ~5,117 |
-| Not a Janitor | 2.00% | ~5,117 |
-| Equal Measures | 2.00% | ~5,117 |
-| Blue Goddess | 2.00% | ~5,117 |
-| Duality | 2.00% | ~5,117 |
-| Top Performer | 2.00% | ~5,117 |
-| Was This Supposed To Happen? | 2.00% | ~5,117 |
-| Almost There | 2.00% | ~5,117 |
-| Make Some Room | 2.00% | ~5,117 |
-| Good, But Could Be Better! | 2.00% | ~5,117 |
-| Trait Chaser | 2.00% | ~5,117 |
+| The Killing Jar | 6.00% | ~15,354 |
+| First of Many | 5.00% | ~12,795 |
+| Not Your Average Trait | 4.00% | ~10,236 |
+| Expanding Horizons | 3.00% | ~7,677 |
+| Quest for Survival | 3.00% | ~7,677 |
+| Familiar Face | 3.00% | ~7,677 |
+| Boss'n Up | 3.00% | ~7,677 |
+| Gleaming the Cube | 2.00% | ~5,118 |
+| Not So Special Now | 2.00% | ~5,118 |
+| Not a Janitor | 2.00% | ~5,118 |
+| Equal Measures | 2.00% | ~5,118 |
+| Blue Goddess | 2.00% | ~5,118 |
+| Duality | 2.00% | ~5,118 |
+| Top Performer | 2.00% | ~5,118 |
+| Was This Supposed To Happen? | 2.00% | ~5,118 |
+| Almost There | 2.00% | ~5,118 |
+| Make Some Room | 2.00% | ~5,118 |
+| Good, But Could Be Better! | 2.00% | ~5,118 |
+| Trait Chaser | 2.00% | ~5,118 |
 | Am I Seeing This? | 1.00% | ~2,559 |
 | Chaos | 1.00% | ~2,559 |
 | Traitor | 1.00% | ~2,559 |
@@ -35,8 +35,8 @@ Rating: 4.74 (Ranked 162)
 | Shhh...It's a Secret | 1.00% | ~2,559 |
 | The Web | 1.00% | ~2,559 |
 | Scrap Collector | 1.00% | ~2,559 |
-| Regicide | 1.00% | ~350 |
-| Master of the Dark Arts | 1.00% | ~350 |
+| Regicide | 1.00% | ~351 |
+| Master of the Dark Arts | 1.00% | ~351 |
 | Bad Moon Rising | 0.90% | ~2,303 |
 | Strapped | 0.90% | ~2,303 |
 | All These Traits� | 0.90% | ~2,303 |
@@ -51,17 +51,17 @@ Rating: 4.74 (Ranked 162)
 | Red Room | 0.60% | ~1,535 |
 | Tall Tales | 0.60% | ~1,535 |
 | Maxed Out! | 0.50% | ~1,279 |
-| Crafty | 0.40% | ~1,023 |
-| Ghost in the Machine | 0.40% | ~1,023 |
-| The Trigger | 0.40% | ~1,023 |
-| The Collector | 0.40% | ~1,023 |
+| Crafty | 0.40% | ~1,024 |
+| Ghost in the Machine | 0.40% | ~1,024 |
+| The Trigger | 0.40% | ~1,024 |
+| The Collector | 0.40% | ~1,024 |
 | Cutting Edge | 0.30% | ~768 |
 | Proving Grounds | 0.30% | ~768 |
 | Succession | 0.30% | ~105 |
 | You Shall Pass | 0.30% | ~105 |
 | A Foul Feast | 0.20% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,852 (Ranked 61)  
+Progressed: 255,893 (Ranked 61)  
 Completed: 607 (0.24%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 607 (0.24%) (Ranked 260)
 | 2023-12-17 | 252,137 | 598 |
 | 2023-12-18 | 254,063 | 603 |
 | 2023-12-19 | 255,737 | 607 |
-| 2023-12-20 | 255,852 | 607 |
+| 2023-12-20 | 255,893 | 607 |
 ## Awards
 Max (Great Boss Battles): 3,117  (Ranked 98)  
 Sum: 7,491 (Ranked 114)  
@@ -386,4 +386,4 @@ Diff (max vs sum): -16
 | 2023-12-17 | 4.75 | 2,917 | 7,182 |
 | 2023-12-18 | 4.75 | 3,014 | 7,323 |
 | 2023-12-19 | 4.75 | 3,117 | 7,485 |
-| 2023-12-20 | 4.74 | 3,117 | 7,491 |
+| 2023-12-20 | 4.75 | 3,117 | 7,491 |

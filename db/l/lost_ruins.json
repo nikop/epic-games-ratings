@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 562,
+  "EOS_Progressed": 563,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1354,6 +1354,11 @@
       "Time": "2023-12-20T01:39:50.9045002+00:00",
       "NumProgressed": 562,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T03:09:34.338398+00:00",
+      "NumProgressed": 563,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1437,7 +1442,7 @@
       "Name": "Gladiator",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "GoblinTales",
@@ -1557,7 +1562,7 @@
       "Name": "Pyromancer",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Reincarnation",
@@ -1629,7 +1634,7 @@
       "Name": "The Fallen",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "TheTrio",
@@ -1684,7 +1689,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 562,
+      "Progressed": 563,
       "Completed": 1
     }
   ],
@@ -1692,8 +1697,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-20T02:10:04.3393771+00:00",
+  "LastChanged_Achievements": "2023-12-20T03:09:34.3383978+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:31.304442+00:00",
-  "LastUpdate_Ratings": "2023-12-20T01:59:45.751388+00:00",
-  "LastUpdate_Achievements": "2023-12-20T02:10:04.3394074+00:00"
+  "LastUpdate_Ratings": "2023-12-20T02:59:19.2905337+00:00",
+  "LastUpdate_Achievements": "2023-12-20T03:09:34.3384307+00:00"
 }

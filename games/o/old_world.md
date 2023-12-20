@@ -19,6 +19,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bronze Victory (Carthage 1) | 0.10% | ~16 |
 | Gold Victory (Carthage 1) | 0.10% | ~16 |
 | Silver Victory (Carthage 1) | 0.10% | ~16 |
+| Carthage - Riches and Influence | 0.10% | ~16 |
+| Bronze Victory (Carthage 2) | 0.10% | ~16 |
 | Able | 0.10% | ~16 |
 | Ambitious | 0.10% | ~16 |
 | Ancient | 0.10% | ~16 |
@@ -166,8 +168,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Blade of the Monkey | 0.00% | ~0 |
 | Hagia Sophia in Byzantion | 0.00% | ~0 |
 | Epic Victory (Carthage 1) | 0.00% | ~0 |
-| Carthage - Riches and Influence | 0.00% | ~0 |
-| Bronze Victory (Carthage 2) | 0.00% | ~0 |
 | Epic Victory (Carthage 2) | 0.00% | ~0 |
 | Gold Victory (Carthage 2) | 0.00% | ~0 |
 | Silver Victory (Carthage 2) | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Al Khazneh in Petra | 0.00% | ~0 |
 | Colosseum in Roma | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,841 (Ranked 157)  
+Progressed: 15,842 (Ranked 157)  
 Completed: 5 (0.03%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -609,7 +609,7 @@ Completed: 5 (0.03%) (Ranked 344)
 | 2023-12-17 | 15,807 | 5 |
 | 2023-12-18 | 15,826 | 5 |
 | 2023-12-19 | 15,840 | 5 |
-| 2023-12-20 | 15,841 | 5 |
+| 2023-12-20 | 15,842 | 5 |
 ## Awards
 Max (Relaxing): 228  (Ranked 279)  
 Sum: 1,904 (Ranked 220)  

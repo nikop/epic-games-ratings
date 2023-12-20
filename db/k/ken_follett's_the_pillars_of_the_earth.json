@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 409,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17195,
+  "EOS_Progressed": 17196,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 191,
+  "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -16530,6 +16530,11 @@
       "Time": "2023-12-20T02:04:36.019012+00:00",
       "NumProgressed": 17195,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-12-20T03:04:07.7818394+00:00",
+      "NumProgressed": 17196,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 41,
@@ -16581,7 +16586,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5674
+      "UsersEstimate": 5675
     },
     {
       "ID": "tpote_achievement_15",
@@ -16629,7 +16634,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5674
+      "UsersEstimate": 5675
     },
     {
       "ID": "tpote_achievement_20",
@@ -16701,7 +16706,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2063
+      "UsersEstimate": 2064
     },
     {
       "ID": "tpote_achievement_29",
@@ -16717,7 +16722,7 @@
       "Name": "Let there be darkness",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5330
+      "UsersEstimate": 5331
     },
     {
       "ID": "tpote_achievement_30",
@@ -16861,22 +16866,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5846
+      "UsersEstimate": 5847
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17195,
+      "Progressed": 17196,
       "Completed": 119
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2023-12-20T02:04:36.0190115+00:00",
+  "LastChanged_Achievements": "2023-12-20T03:04:07.781839+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:13.9933566+00:00",
-  "LastUpdate_Ratings": "2023-12-20T01:58:58.9177323+00:00",
-  "LastUpdate_Achievements": "2023-12-20T02:04:36.0190985+00:00"
+  "LastUpdate_Ratings": "2023-12-20T02:58:32.8651236+00:00",
+  "LastUpdate_Achievements": "2023-12-20T03:04:07.7819542+00:00"
 }

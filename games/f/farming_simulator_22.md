@@ -14,12 +14,12 @@ Number of Ratings: 7,683  (23.09.2022)
 | This is just my weekend vehicle | 56.00% | ~31,809 |
 | It's just the beginning | 56.00% | ~31,809 |
 | Hard work pays off | 51.00% | ~28,969 |
-| It's never too late to farm | 48.00% | ~27,264 |
-| All out of Land | 43.00% | ~24,424 |
-| Field Trip | 42.00% | ~23,856 |
-| I like to switch it up | 38.00% | ~21,584 |
-| Help me to help you | 37.00% | ~21,016 |
-| Ultimutt Pawesomeness | 27.00% | ~15,336 |
+| It's never too late to farm | 48.00% | ~27,265 |
+| All out of Land | 43.00% | ~24,425 |
+| Field Trip | 42.00% | ~23,857 |
+| I like to switch it up | 38.00% | ~21,585 |
+| Help me to help you | 37.00% | ~21,017 |
+| Ultimutt Pawesomeness | 27.00% | ~15,337 |
 | Van Gogh | 24.00% | ~13,632 |
 | You wood not believe it | 21.00% | ~11,928 |
 | Vehicle fleet | 21.00% | ~11,928 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~227 |
 | Raisin the stakes | 0.30% | ~170 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,801 (Ranked 114)  
+Progressed: 56,802 (Ranked 114)  
 Completed: 6 (0.01%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,10 +294,10 @@ Completed: 6 (0.01%) (Ranked 360)
 | 2023-12-17 | 56,448 | 6 |
 | 2023-12-18 | 56,619 | 6 |
 | 2023-12-19 | 56,788 | 6 |
-| 2023-12-20 | 56,801 | 6 |
+| 2023-12-20 | 56,802 | 6 |
 ## Awards
 Max (Great for Beginners): 5,859  (Ranked 66)  
-Sum: 44,393 (Ranked 34)  
+Sum: 44,395 (Ranked 34)  
 Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
@@ -305,7 +305,7 @@ Diff (max vs sum): 32
 | This game has Diverse Characters | 4,752 |
 | This game is Educational | 4,466 |
 | This game is Highly Recommended | 4,430 |
-| This game has Quickly Understood Controls | 4,365 |
+| This game has Quickly Understood Controls | 4,367 |
 | This game is Relaxing | 4,362 |
 | This game is Extremely Fun | 4,290 |
 | This game has Amazing Storytelling | 4,191 |
@@ -653,3 +653,4 @@ Diff (max vs sum): 32
 | 2023-12-17 | 4.68 | - | 5,834 | 44,310 |
 | 2023-12-18 | 4.68 | - | 5,846 | 44,352 |
 | 2023-12-19 | 4.68 | - | 5,859 | 44,393 |
+| 2023-12-20 | 4.68 | - | 5,859 | 44,395 |

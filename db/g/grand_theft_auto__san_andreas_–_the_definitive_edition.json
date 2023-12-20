@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1781,10 +1781,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 718,
       "NumberOfAwardsMax": 463
+    },
+    {
+      "Time": "2023-12-20T02:57:34.2027251+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 720,
+      "NumberOfAwardsMax": 463
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 718,
+  "NumberOfAwards": 720,
   "NumberOfAwardsMax": 463,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1846,12 +1852,12 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 23
+      "Count": 25
     }
   ],
-  "EOS_Progressed": 15620,
+  "EOS_Progressed": 15630,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 1657,
+  "EOS_NewPlayers": 1667,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -16794,6 +16800,11 @@
       "Time": "2023-12-20T02:09:50.1888486+00:00",
       "NumProgressed": 15620,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-12-20T03:09:20.133483+00:00",
+      "NumProgressed": 15630,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 35,
@@ -16805,7 +16816,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 12652
+      "UsersEstimate": 12660
     },
     {
       "ID": "ACH02",
@@ -16813,7 +16824,7 @@
       "Name": "With Extra Dip",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "ACH03",
@@ -16837,7 +16848,7 @@
       "Name": "A Legitimate Business",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ACH06",
@@ -16845,7 +16856,7 @@
       "Name": "I\u2019ll Have Two Number 9s",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ACH07",
@@ -16853,7 +16864,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2968
+      "UsersEstimate": 2970
     },
     {
       "ID": "ACH08",
@@ -16861,7 +16872,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 7810
+      "UsersEstimate": 7815
     },
     {
       "ID": "ACH09",
@@ -16877,7 +16888,7 @@
       "Name": "Who Needs Directions?",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ACH11",
@@ -16885,7 +16896,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1562
+      "UsersEstimate": 1563
     },
     {
       "ID": "ACH12",
@@ -16893,7 +16904,7 @@
       "Name": "Swiss Army Strife",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ACH13",
@@ -16901,7 +16912,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 2812
+      "UsersEstimate": 2813
     },
     {
       "ID": "ACH14",
@@ -16909,7 +16920,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1718
+      "UsersEstimate": 1719
     },
     {
       "ID": "ACH15",
@@ -16917,7 +16928,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "ACH16",
@@ -16925,7 +16936,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2655
+      "UsersEstimate": 2657
     },
     {
       "ID": "ACH17",
@@ -16941,7 +16952,7 @@
       "Name": "Saviour",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 937
+      "UsersEstimate": 938
     },
     {
       "ID": "ACH19",
@@ -16949,7 +16960,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "ACH20",
@@ -16957,7 +16968,7 @@
       "Name": "Yes I Speak English",
       "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ACH21",
@@ -16971,9 +16982,9 @@
       "ID": "ACH22",
       "SetID": "4ck5mbe",
       "Name": "What happens in Las Venturas...",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2343
+      "UsersEstimate": 2188
     },
     {
       "ID": "ACH23",
@@ -16981,7 +16992,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 3905
+      "UsersEstimate": 3908
     },
     {
       "ID": "ACH24",
@@ -17005,7 +17016,7 @@
       "Name": "Double or Nothin\u0027",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ACH27",
@@ -17013,7 +17024,7 @@
       "Name": "Assassin",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ACH28",
@@ -17029,7 +17040,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2343
+      "UsersEstimate": 2344
     },
     {
       "ID": "ACH30",
@@ -17037,7 +17048,7 @@
       "Name": "Public Enemy No. 1",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ACH31",
@@ -17053,7 +17064,7 @@
       "Name": "Ain\u2019t Nothing But a G Thing",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ACH33",
@@ -17077,23 +17088,23 @@
       "Name": "I Ain\u0027t No Buster",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     }
   ],
   "AchievementSets": [
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 15620,
+      "Progressed": 15630,
       "Completed": 61
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-12-19T15:57:44.0390159+00:00",
-  "LastChanged_Achievements": "2023-12-20T02:09:50.1888482+00:00",
+  "LastChanged": "2023-12-20T02:57:34.202725+00:00",
+  "LastChanged_Achievements": "2023-12-20T03:09:20.1334826+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:24.5920887+00:00",
-  "LastUpdate_Ratings": "2023-12-20T01:57:59.9230775+00:00",
-  "LastUpdate_Achievements": "2023-12-20T02:09:50.1889533+00:00"
+  "LastUpdate_Ratings": "2023-12-20T02:57:34.2027254+00:00",
+  "LastUpdate_Achievements": "2023-12-20T03:09:20.1335997+00:00"
 }

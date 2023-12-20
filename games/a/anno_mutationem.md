@@ -6,15 +6,15 @@ Rating: 4.54 (Ranked 532)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tell me your story | 75.00% | ~592 |
-| Don't judge a manhole by its cover | 60.00% | ~473 |
-| I just love stuff! | 42.00% | ~331 |
-| Keep 'em coming! | 42.00% | ~331 |
+| Don't judge a manhole by its cover | 60.00% | ~474 |
+| I just love stuff! | 42.00% | ~332 |
+| Keep 'em coming! | 42.00% | ~332 |
 | The things they print nowadays | 39.00% | ~308 |
 | Big Spender | 38.00% | ~300 |
 | That's gotta hurt | 36.00% | ~284 |
 | I think it's broke | 27.00% | ~213 |
 | The Ann Flores Combo Experience | 26.00% | ~205 |
-| Club Star | 25.00% | ~197 |
+| Club Star | 25.00% | ~198 |
 | Fire in the hole! | 20.00% | ~158 |
 | Omnipotence | 20.00% | ~158 |
 | The Warlord | 20.00% | ~158 |
@@ -33,7 +33,7 @@ Rating: 4.54 (Ranked 532)
 | Clarity of Mind | 6.00% | ~47 |
 | I feel secure, contained & protected | 6.00% | ~47 |
 | Science, it works! | 6.00% | ~47 |
-| The Traveler | 5.00% | ~39 |
+| The Traveler | 5.00% | ~40 |
 | Woman on a (side) mission | 4.00% | ~32 |
 | Ann ULTRA | 3.00% | ~24 |
 | Lady Luck is a cool cat | 3.00% | ~24 |
@@ -42,7 +42,7 @@ Rating: 4.54 (Ranked 532)
 | Love me like I love my posters | 1.00% | ~8 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 789 (Ranked 291)  
+Progressed: 790 (Ranked 291)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,6 +149,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-17 | 786 | 0 |
 | 2023-12-18 | 787 | 0 |
 | 2023-12-19 | 789 | 0 |
+| 2023-12-20 | 790 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

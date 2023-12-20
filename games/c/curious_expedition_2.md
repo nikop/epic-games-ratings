@@ -30,8 +30,8 @@ Number of Ratings: 20  (23.09.2022)
 | For the Club! | 16.00% | ~58 |
 | Shortening of the Way | 16.00% | ~58 |
 | A Gentle Beast | 16.00% | ~58 |
+| Practical Palaeontology | 16.00% | ~58 |
 | Adventurer | 15.00% | ~55 |
-| Practical Palaeontology | 15.00% | ~55 |
 | Dapper | 15.00% | ~55 |
 | The New Director | 13.00% | ~47 |
 | The Director is Dead | 13.00% | ~47 |

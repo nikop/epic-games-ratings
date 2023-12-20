@@ -2,12 +2,12 @@
   "ID": "78683b0edafd4a978a5ab61a7f6b0594",
   "Name": "Tunche",
   "ProductSlug": "tunche",
-  "Ranking_Rating": 672,
+  "Ranking_Rating": 658,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 810,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 555,
+  "Ranking_EOS_NewPlayers": 557,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-11-02T17:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.45,
+  "Rating": 4.46,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:24.469039+00:00",
@@ -337,6 +337,12 @@
       "Rating": 4.45,
       "NumberOfAwards": 28,
       "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2023-12-20T02:57:07.6492627+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 28,
+      "NumberOfAwardsMax": 28
     }
   ],
   "ReviewsDisabled": false,
@@ -363,8 +369,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:10.1699893+00:00",
   "FirstSeenRating": "2023-03-31T05:57:24.4690387+00:00",
-  "LastChanged": "2023-12-04T02:23:38.2058983+00:00",
+  "LastChanged": "2023-12-20T02:57:07.6492625+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:02.2782391+00:00",
-  "LastUpdate_Ratings": "2023-12-20T01:57:32.8590307+00:00",
-  "LastUpdate_Achievements": "2023-12-20T02:09:17.2580504+00:00"
+  "LastUpdate_Ratings": "2023-12-20T02:57:07.6492629+00:00",
+  "LastUpdate_Achievements": "2023-12-20T03:08:46.286108+00:00"
 }

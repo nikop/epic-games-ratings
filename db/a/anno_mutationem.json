@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 567,
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 369,
+  "Ranking_EOS_NewPlayers": 364,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 789,
+  "EOS_Progressed": 790,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1048,6 +1048,11 @@
       "Time": "2023-12-19T15:04:50.9669975+00:00",
       "NumProgressed": 789,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T03:04:38.8660515+00:00",
+      "NumProgressed": 790,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1099,7 +1104,7 @@
       "Name": "Club Star",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "Combine",
@@ -1147,7 +1152,7 @@
       "Name": "I just love stuff!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "I_think_its_broke",
@@ -1171,7 +1176,7 @@
       "Name": "Keep \u0027em coming!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "Lady_Luck",
@@ -1243,7 +1248,7 @@
       "Name": "The Traveler",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "The_Age_of_Mutationem",
@@ -1323,7 +1328,7 @@
       "Name": "Don\u0027t judge a manhole by its cover",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "posters",
@@ -1346,7 +1351,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 789,
+      "Progressed": 790,
       "Completed": 0
     }
   ],
@@ -1354,8 +1359,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-12-09T07:59:55.495838+00:00",
-  "LastChanged_Achievements": "2023-12-20T02:05:07.0015569+00:00",
+  "LastChanged_Achievements": "2023-12-20T03:04:38.8660512+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:41.3639651+00:00",
-  "LastUpdate_Ratings": "2023-12-20T02:03:05.4229614+00:00",
-  "LastUpdate_Achievements": "2023-12-20T02:05:07.0015786+00:00"
+  "LastUpdate_Ratings": "2023-12-20T03:02:35.6518152+00:00",
+  "LastUpdate_Achievements": "2023-12-20T03:04:38.8660718+00:00"
 }

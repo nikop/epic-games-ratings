@@ -3515,9 +3515,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18696,
+  "EOS_Progressed": 18701,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 699,
+  "EOS_NewPlayers": 701,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16380,6 +16380,11 @@
       "Time": "2023-12-20T01:35:45.1648423+00:00",
       "NumProgressed": 18696,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-20T03:05:40.8537529+00:00",
+      "NumProgressed": 18701,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16456,7 +16461,7 @@
       "Name": "Efficient Explorer",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "MetalChain",
@@ -16464,7 +16469,7 @@
       "Name": "Refinery",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "Win5Years",
@@ -16542,9 +16547,9 @@
       "ID": "WinNearDangerous",
       "SetID": "cfbk359",
       "Name": "Dangerous Lands",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 94
     },
     {
       "ID": "WinNearFertile",
@@ -16632,7 +16637,7 @@
       "Name": "Forsaken Gods Temple",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "WinNearTorrent",
@@ -16863,15 +16868,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18696,
+      "Progressed": 18701,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-19T21:58:46.6682158+00:00",
-  "LastChanged_Achievements": "2023-12-20T02:06:10.1661986+00:00",
+  "LastChanged_Achievements": "2023-12-20T03:05:40.8537526+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
-  "LastUpdate_Ratings": "2023-12-20T01:59:07.9019341+00:00",
-  "LastUpdate_Achievements": "2023-12-20T02:06:10.1662878+00:00"
+  "LastUpdate_Ratings": "2023-12-20T02:58:41.7502869+00:00",
+  "LastUpdate_Achievements": "2023-12-20T03:05:40.8538503+00:00"
 }

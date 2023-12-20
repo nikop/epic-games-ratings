@@ -280,9 +280,9 @@ Completed: 5 (0.12%) (Ranked 294)
 | 2023-12-18 | 4,009 | 5 |
 | 2023-12-19 | 4,030 | 5 |
 ## Awards
-Max (Highly Recommended): 35  (Ranked 484)  
+Max (Highly Recommended): 35  (Ranked 485)  
 Sum: 246 (Ranked 392)  
-Diff (max vs sum): 92  
+Diff (max vs sum): 93  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 35 |

@@ -333,9 +333,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 201650,
+  "EOS_Progressed": 201651,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 361,
+  "EOS_NewPlayers": 362,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25943,6 +25943,11 @@
       "Time": "2023-12-20T02:04:18.2296079+00:00",
       "NumProgressed": 201650,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-20T03:03:50.2222079+00:00",
+      "NumProgressed": 201651,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -25970,7 +25975,7 @@
       "Name": "Flawless Victory",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 10082
+      "UsersEstimate": 10083
     },
     {
       "ID": "ACH_GATED_COMMUNITY",
@@ -26002,7 +26007,7 @@
       "Name": "Total Destruction",
       "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 2016
+      "UsersEstimate": 2017
     },
     {
       "ID": "ACH_WIN_100_ONLINE_GAME",
@@ -26018,7 +26023,7 @@
       "Name": "Getting There",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 2016
+      "UsersEstimate": 2017
     },
     {
       "ID": "ACH_WIN_30_MAP_CONTROL",
@@ -26034,7 +26039,7 @@
       "Name": "Baby Steps",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 10082
+      "UsersEstimate": 10083
     },
     {
       "ID": "ACH_WIN_50_ONLINE_GAME",
@@ -26066,7 +26071,7 @@
       "Name": "Untouchable",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 2016
+      "UsersEstimate": 2017
     },
     {
       "ID": "ACH_WIN_FIRST_COOP",
@@ -26074,14 +26079,14 @@
       "Name": "First Co-Op Win",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 10082
+      "UsersEstimate": 10083
     }
   ],
   "AchievementSets": [
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 201650,
+      "Progressed": 201651,
       "Completed": 4
     }
   ],
@@ -26089,8 +26094,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-11-21T16:01:30.5134894+00:00",
-  "LastChanged_Achievements": "2023-12-20T02:04:18.2296075+00:00",
+  "LastChanged_Achievements": "2023-12-20T03:03:50.2222076+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:20.0370256+00:00",
-  "LastUpdate_Ratings": "2023-12-20T01:58:13.0845075+00:00",
-  "LastUpdate_Achievements": "2023-12-20T02:04:18.2297378+00:00"
+  "LastUpdate_Ratings": "2023-12-20T02:57:47.4840441+00:00",
+  "LastUpdate_Achievements": "2023-12-20T03:03:50.2223692+00:00"
 }

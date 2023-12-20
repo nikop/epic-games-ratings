@@ -3565,17 +3565,17 @@
       "ID": "GSS_ACH_13_FUEL_SERVE_01",
       "SetID": "5fn8ia4",
       "Name": "So it begins",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1182
+      "UsersEstimate": 1195
     },
     {
       "ID": "GSS_ACH_14_FUEL_SERVE_02",
       "SetID": "5fn8ia4",
       "Name": "Growing importance",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 1105
+      "UsersEstimate": 1118
     },
     {
       "ID": "GSS_ACH_15_FUEL_SERVE_03",
@@ -3789,9 +3789,9 @@
       "ID": "GSS_ACH_42_CARAVAN_01",
       "SetID": "5fn8ia4",
       "Name": "Help Wanted!",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 874
+      "UsersEstimate": 887
     },
     {
       "ID": "GSS_ACH_43_CARAVAN_02",
@@ -4037,9 +4037,9 @@
       "ID": "GSS_ACH_73_MEETING_THE_UNCLE",
       "SetID": "5fn8ia4",
       "Name": "The Uncle",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1131
     },
     {
       "ID": "GSS_ACH_74_SANDSTORM",
@@ -4126,8 +4126,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-18T13:05:51.5719117+00:00",
-  "LastChanged_Achievements": "2023-12-20T02:06:32.2242115+00:00",
+  "LastChanged_Achievements": "2023-12-20T03:06:02.6521401+00:00",
   "LastUpdate_AppInfo": "2023-12-18T18:57:14.4494443+00:00",
-  "LastUpdate_Ratings": "2023-12-20T01:59:43.1379382+00:00",
-  "LastUpdate_Achievements": "2023-12-20T02:06:32.2242949+00:00"
+  "LastUpdate_Ratings": "2023-12-20T02:59:16.7557753+00:00",
+  "LastUpdate_Achievements": "2023-12-20T03:06:02.6522251+00:00"
 }

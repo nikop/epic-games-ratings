@@ -703,9 +703,9 @@
       "ID": "id_32",
       "SetID": "bk9jib6",
       "Name": "The brave little tailor",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "id_33",
@@ -839,9 +839,9 @@
       "ID": "id_52",
       "SetID": "bk9jib6",
       "Name": "Idiot",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "id_53",
@@ -976,8 +976,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-12-19T04:58:37.4442529+00:00",
-  "LastChanged_Achievements": "2023-12-20T02:09:56.902164+00:00",
+  "LastChanged_Achievements": "2023-12-20T03:09:26.791162+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:12.9761539+00:00",
-  "LastUpdate_Ratings": "2023-12-20T01:58:44.2440381+00:00",
-  "LastUpdate_Achievements": "2023-12-20T02:09:56.9022025+00:00"
+  "LastUpdate_Ratings": "2023-12-20T02:58:18.4859837+00:00",
+  "LastUpdate_Achievements": "2023-12-20T03:09:26.7912032+00:00"
 }

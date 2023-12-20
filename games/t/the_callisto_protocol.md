@@ -5,12 +5,12 @@ Rating: 4.19 (Ranked 939)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 14.00% | ~2,541 |
+| Flesh Wound | 14.00% | ~2,542 |
 | Get a Grip | 13.00% | ~2,360 |
 | Paper Jams | 13.00% | ~2,360 |
 | The Outer Way | 13.00% | ~2,360 |
 | Desperate Times | 12.00% | ~2,178 |
-| Chew 'Em Up | 11.00% | ~1,996 |
+| Chew 'Em Up | 11.00% | ~1,997 |
 | Float Like A Butterfly | 10.00% | ~1,815 |
 | Reforged | 10.00% | ~1,815 |
 | Workplace Hazard | 8.00% | ~1,452 |
@@ -28,8 +28,8 @@ Rating: 4.19 (Ranked 939)
 | You Need a Gun | 5.00% | ~908 |
 | I Do Belong Here | 5.00% | ~908 |
 | It's Time | 4.00% | ~243 |
-| In Striking Distance | 3.00% | ~544 |
-| The Commonality | 3.00% | ~544 |
+| In Striking Distance | 3.00% | ~545 |
+| The Commonality | 3.00% | ~545 |
 | One Last Job | 2.00% | ~122 |
 | Big Spender | 1.00% | ~61 |
 | This Isn't About Escape | 1.00% | ~61 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 939)
 | Bear Trap | 0.10% | ~6 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,150 (Ranked 148)  
+Progressed: 18,154 (Ranked 148)  
 Completed: 82 (0.45%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,17 +289,17 @@ Completed: 82 (0.45%) (Ranked 222)
 | 2023-12-17 | 17,760 | 82 |
 | 2023-12-18 | 17,946 | 82 |
 | 2023-12-19 | 18,137 | 82 |
-| 2023-12-20 | 18,150 | 82 |
+| 2023-12-20 | 18,154 | 82 |
 ## Awards
 Max (Quickly Understood Controls): 89  (Ranked 387)  
-Sum: 527 (Ranked 326)  
+Sum: 529 (Ranked 326)  
 Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 89 |
 | This game has Amazing Storytelling | 89 |
 | This game is Highly Recommended | 86 |
-| This game has Amazing Characters | 84 |
+| This game has Amazing Characters | 86 |
 | This game is Extremely Fun | 80 |
 | This game has Challenging Combat | 65 |
 | This game has a Creative Community | 34 |
@@ -482,4 +482,4 @@ Diff (max vs sum): 61
 | 2023-12-17 | 4.20 | 87 | 516 |
 | 2023-12-18 | 4.19 | 88 | 521 |
 | 2023-12-19 | 4.19 | 89 | 526 |
-| 2023-12-20 | 4.19 | 89 | 527 |
+| 2023-12-20 | 4.19 | 89 | 529 |

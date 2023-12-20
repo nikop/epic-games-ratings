@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 567,
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 793,
+  "EOS_Progressed": 795,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -2745,6 +2745,11 @@
       "Time": "2023-12-19T21:05:22.5737489+00:00",
       "NumProgressed": 793,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-20T03:04:01.2968686+00:00",
+      "NumProgressed": 795,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -2756,7 +2761,7 @@
       "Name": "Safe Pair of Hands",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "cool-shirts",
@@ -2772,7 +2777,7 @@
       "Name": "Architect of Fortunes",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "dont-miss-calls",
@@ -2780,7 +2785,7 @@
       "Name": "Didn\u0027t Miss A Single One",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "female-conqueror",
@@ -2796,7 +2801,7 @@
       "Name": "That was base",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "hire-lieutenant",
@@ -2804,7 +2809,7 @@
       "Name": "Our Man",
       "Percentage": 85,
       "XP": 20,
-      "UsersEstimate": 674
+      "UsersEstimate": 676
     },
     {
       "ID": "kill-lieutenants",
@@ -2812,7 +2817,7 @@
       "Name": "Spreading Fear",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "pack-and-sell",
@@ -2820,7 +2825,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "play-at-night",
@@ -2842,9 +2847,9 @@
       "ID": "rage-quit",
       "SetID": "bed33dd",
       "Name": "Bad Trip",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 365
+      "UsersEstimate": 358
     },
     {
       "ID": "rename-lieutenant",
@@ -2860,7 +2865,7 @@
       "Name": "Bite the Blow",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "sell-variety",
@@ -2868,7 +2873,7 @@
       "Name": "Spread",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "send-smuggling",
@@ -2876,7 +2881,7 @@
       "Name": "Camellos",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "unlock-residences",
@@ -2884,7 +2889,7 @@
       "Name": "Pampered Life",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "upgrade-building",
@@ -2892,7 +2897,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 634
+      "UsersEstimate": 636
     },
     {
       "ID": "use-submarine",
@@ -2907,15 +2912,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 793,
+      "Progressed": 795,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-12T19:59:33.5091909+00:00",
-  "LastChanged_Achievements": "2023-12-20T02:04:29.3325912+00:00",
+  "LastChanged_Achievements": "2023-12-20T03:04:01.2968683+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.4837395+00:00",
-  "LastUpdate_Ratings": "2023-12-20T01:59:59.3200328+00:00",
-  "LastUpdate_Achievements": "2023-12-20T02:04:29.3326214+00:00"
+  "LastUpdate_Ratings": "2023-12-20T02:59:32.7853119+00:00",
+  "LastUpdate_Achievements": "2023-12-20T03:04:01.2968939+00:00"
 }

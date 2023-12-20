@@ -8361,9 +8361,9 @@
       "Count": 434
     }
   ],
-  "EOS_Progressed": 736362,
+  "EOS_Progressed": 736402,
   "EOS_Completed": 12958,
-  "EOS_NewPlayers": 18368,
+  "EOS_NewPlayers": 18408,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.76,
   "EosHistory": [
@@ -30086,6 +30086,11 @@
       "Time": "2023-12-20T02:08:54.9328325+00:00",
       "NumProgressed": 736362,
       "NumCompleted": 12958
+    },
+    {
+      "Time": "2023-12-20T03:08:24.0885558+00:00",
+      "NumProgressed": 736402,
+      "NumCompleted": 12958
     }
   ],
   "TotalAchievements": 60,
@@ -30097,7 +30102,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22091
+      "UsersEstimate": 22092
     },
     {
       "ID": "02_Vengeance_H1",
@@ -30105,7 +30110,7 @@
       "Name": "The Assault",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14727
+      "UsersEstimate": 14728
     },
     {
       "ID": "03_Vengeance_H2",
@@ -30129,15 +30134,15 @@
       "Name": "Lady Wing Chun",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6627
+      "UsersEstimate": 6628
     },
     {
       "ID": "06_Vengeance_H5",
       "SetID": "adcm20g",
       "Name": "Furious Fists",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 75,
-      "UsersEstimate": 5891
+      "UsersEstimate": 6628
     },
     {
       "ID": "07_Wude_H1",
@@ -30145,7 +30150,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 2945
+      "UsersEstimate": 2946
     },
     {
       "ID": "08_Wude_H2",
@@ -30153,7 +30158,7 @@
       "Name": "Tiger on Fire",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 2945
+      "UsersEstimate": 2946
     },
     {
       "ID": "09_Wude_H3",
@@ -30209,7 +30214,7 @@
       "Name": "Detective Story",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2945
+      "UsersEstimate": 2946
     },
     {
       "ID": "16_Detective_H2",
@@ -30273,7 +30278,7 @@
       "Name": "Life is your teacher",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22091
+      "UsersEstimate": 22092
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -30329,7 +30334,7 @@
       "Name": "I know Kung-Fu",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6627
+      "UsersEstimate": 6628
     },
     {
       "ID": "31_ComboHigh",
@@ -30361,7 +30366,7 @@
       "Name": "Lightning Hands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14727
+      "UsersEstimate": 14728
     },
     {
       "ID": "35_WideStrike",
@@ -30449,7 +30454,7 @@
       "Name": "Bloody Sport",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -30576,21 +30581,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 45663,
+      "Progressed": 45703,
       "Completed": 10775
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 736362,
+      "Progressed": 736402,
       "Completed": 12958
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-20T01:32:54.5847871+00:00",
-  "LastChanged_Achievements": "2023-12-20T02:08:54.9328322+00:00",
+  "LastChanged_Achievements": "2023-12-20T03:08:24.0885555+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:50.1499922+00:00",
-  "LastUpdate_Ratings": "2023-12-20T02:03:17.8194167+00:00",
-  "LastUpdate_Achievements": "2023-12-20T02:08:54.9329576+00:00"
+  "LastUpdate_Ratings": "2023-12-20T03:02:48.3026943+00:00",
+  "LastUpdate_Achievements": "2023-12-20T03:08:24.0887283+00:00"
 }

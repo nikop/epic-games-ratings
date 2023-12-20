@@ -2175,9 +2175,9 @@
       "Count": 221
     }
   ],
-  "EOS_Progressed": 21619,
+  "EOS_Progressed": 21620,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11655,6 +11655,11 @@
       "Time": "2023-12-20T00:05:46.3072184+00:00",
       "NumProgressed": 21619,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-20T03:05:28.142037+00:00",
+      "NumProgressed": 21620,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -11666,7 +11671,7 @@
       "Name": "Family man",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2810
+      "UsersEstimate": 2811
     },
     {
       "ID": "CarMechanic",
@@ -11714,7 +11719,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20538
+      "UsersEstimate": 20539
     },
     {
       "ID": "GameOver",
@@ -11754,7 +11759,7 @@
       "Name": "Junior Estate Agent",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2810
+      "UsersEstimate": 2811
     },
     {
       "ID": "KnockKnock",
@@ -11849,15 +11854,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21619,
+      "Progressed": 21620,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-12-19T22:58:10.0648414+00:00",
-  "LastChanged_Achievements": "2023-12-20T02:05:57.3911992+00:00",
+  "LastChanged_Achievements": "2023-12-20T03:05:28.1420353+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:12.9668458+00:00",
-  "LastUpdate_Ratings": "2023-12-20T01:58:38.6419913+00:00",
-  "LastUpdate_Achievements": "2023-12-20T02:05:57.3912652+00:00"
+  "LastUpdate_Ratings": "2023-12-20T02:58:12.7677003+00:00",
+  "LastUpdate_Achievements": "2023-12-20T03:05:28.1421092+00:00"
 }

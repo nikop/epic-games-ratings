@@ -5,9 +5,9 @@
   "Ranking_Rating": 550,
   "Ranking_Popularity": 481,
   "Ranking_PopularitySum": 513,
-  "Ranking_EOS_Progress": 435,
+  "Ranking_EOS_Progress": 434,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -276,9 +276,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 130,
+  "EOS_Progressed": 131,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -801,6 +801,11 @@
       "Time": "2023-12-20T01:38:42.1117744+00:00",
       "NumProgressed": 130,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T03:08:25.390709+00:00",
+      "NumProgressed": 131,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -811,9 +816,9 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -845,7 +850,7 @@
       "Name": "Furon Fashion",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -925,7 +930,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -941,15 +946,15 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
       "SetID": "4n84pon",
       "Name": "Rock of the Bay",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 92
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -957,7 +962,7 @@
       "Name": "Fly Me to the Moon Base",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_ENTER_TAKOSHIMA",
@@ -965,7 +970,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_ENTER_TUNGUSKA",
@@ -981,7 +986,7 @@
       "Name": "Bodied Sattva",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -1059,9 +1064,9 @@
       "ID": "ACH_OPEN_FLUFF_MENU",
       "SetID": "4n84pon",
       "Name": "Earthly Pleasures",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -1147,9 +1152,9 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "4n84pon",
       "Name": "Shop Til They Drop",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1164,7 +1169,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 130,
+      "Progressed": 131,
       "Completed": 0
     }
   ],
@@ -1172,8 +1177,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-20T02:08:56.2773223+00:00",
+  "LastChanged_Achievements": "2023-12-20T03:08:25.3907086+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:43.3974092+00:00",
-  "LastUpdate_Ratings": "2023-12-20T01:58:06.0709877+00:00",
-  "LastUpdate_Achievements": "2023-12-20T02:08:56.2773492+00:00"
+  "LastUpdate_Ratings": "2023-12-20T02:57:40.5158041+00:00",
+  "LastUpdate_Achievements": "2023-12-20T03:08:25.3907339+00:00"
 }

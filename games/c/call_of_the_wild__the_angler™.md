@@ -34,12 +34,12 @@ Number of Ratings: 281  (23.09.2022)
 | Lake Me up Before You Go Go | 0.20% | ~14 |
 | Big Fish Small Pond | 0.20% | ~14 |
 | Golden Ridge Ranger | 0.20% | ~14 |
+| Rod and Troll | 0.20% | ~13 |
 | Three Square Meals | 0.20% | ~13 |
 | Head for Heights | 0.10% | ~7 |
 | Taylor Made | 0.10% | ~7 |
 | Lost and Flounder | 0.10% | ~7 |
 | Buckaroo | 0.10% | ~7 |
-| Rod and Troll | 0.10% | ~7 |
 | Trollsporet Tale Teller | 0.10% | ~7 |
 | Fish upon a Star | 0.10% | ~7 |
 | Cache and Carry | 0.10% | ~7 |

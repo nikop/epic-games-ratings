@@ -2821,17 +2821,17 @@
       "ID": "ChasingTheLight",
       "SetID": "1n308hc",
       "Name": "Chasing the Light",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 127
     },
     {
       "ID": "Chicken",
       "SetID": "1n308hc",
       "Name": "Chicken",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "CircularOasis",
@@ -3141,9 +3141,9 @@
       "ID": "TheHardWay",
       "SetID": "1n308hc",
       "Name": "The Hard Way",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "TheSpark",
@@ -3238,8 +3238,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-20T02:04:59.4119186+00:00",
+  "LastChanged_Achievements": "2023-12-20T03:04:31.6179481+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-20T01:59:28.2763871+00:00",
-  "LastUpdate_Achievements": "2023-12-20T02:04:59.4119824+00:00"
+  "LastUpdate_Ratings": "2023-12-20T02:59:01.9971104+00:00",
+  "LastUpdate_Achievements": "2023-12-20T03:04:31.6180068+00:00"
 }

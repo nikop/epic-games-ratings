@@ -11,20 +11,20 @@ Number of Ratings: 85  (23.09.2022)
 | The Irony of Fate, or Enjoy Your Tunguska! | 54.00% | ~31 |
 | Yettisoned | 53.00% | ~30 |
 | I Look Up As I Walk to Takoshima | 47.00% | ~27 |
+| Lobster Blisque | 46.00% | ~26 |
 | Shop Til They Drop | 46.00% | ~26 |
 | Perfect Probulator | 46.00% | ~26 |
-| Lobster Blisque | 44.00% | ~25 |
+| Ducks in a Row, Fish in a Barrel | 37.00% | ~21 |
 | Freshly Squeezed | 35.00% | ~20 |
-| Ducks in a Row, Fish in a Barrel | 35.00% | ~20 |
 | Fly Me to the Moon Base | 33.00% | ~19 |
 | Earthly Pleasures | 33.00% | ~19 |
 | Forbidden Donut | 28.00% | ~16 |
 | Pimp My Raid | 28.00% | ~16 |
 | Bodied Sattva | 26.00% | ~15 |
 | Upgreatest | 23.00% | ~13 |
-| Trans-Siberian Express | 21.00% | ~12 |
+| Trans-Siberian Express | 23.00% | ~13 |
+| Rock of the Bay | 19.00% | ~11 |
 | Deincarnated | 18.00% | ~10 |
-| Rock of the Bay | 18.00% | ~10 |
 | Furon Fashion | 14.00% | ~8 |
 | Re-Return of the Clone of the Invasion II-2 | 14.00% | ~8 |
 | Arkvoodle Doodle | 11.00% | ~6 |
