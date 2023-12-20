@@ -10,14 +10,14 @@ Rating: 4.63 (Ranked 354)
 | ... And Spit Back Out | 1.00% | ~85 |
 | Bramble Breaker | 0.90% | ~77 |
 | Calm Sailing | 0.80% | ~68 |
+| Open the Gate! | 0.80% | ~68 |
 | Break-Net Speed | 0.80% | ~68 |
-| Open the Gate! | 0.70% | ~60 |
 | Miner 49er | 0.70% | ~60 |
 | Humble Collector | 0.70% | ~60 |
 | Mist Walker | 0.60% | ~51 |
+| Clear the Air | 0.50% | ~43 |
 | Lumberjack | 0.50% | ~43 |
 | Exit Through The Gift Shop | 0.50% | ~6 |
-| Clear the Air | 0.40% | ~34 |
 | Search for the Hairy Grell | 0.40% | ~34 |
 | Higher Tax Bracket | 0.40% | ~34 |
 | Oui, Chef! | 0.40% | ~34 |
@@ -49,7 +49,7 @@ Rating: 4.63 (Ranked 354)
 | Splish-Splash | 0.10% | ~1 |
 | Archi-Pal-igo Aficionado | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,546 (Ranked 179)  
+Progressed: 8,549 (Ranked 179)  
 Completed: 1 (0.01%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 1 (0.01%) (Ranked 361)
 | 2023-12-17 | 8,500 | 1 |
 | 2023-12-18 | 8,518 | 1 |
 | 2023-12-19 | 8,538 | 1 |
-| 2023-12-20 | 8,546 | 1 |
+| 2023-12-20 | 8,549 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

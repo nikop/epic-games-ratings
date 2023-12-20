@@ -49,7 +49,7 @@ Number of Ratings: 20  (23.09.2022)
 | Errand Runner | 8.00% | ~29 |
 | Zookeeper | 7.00% | ~26 |
 | The Workshop | 7.00% | ~26 |
-| Islander Understanding | 5.00% | ~18 |
+| Islander Understanding | 6.00% | ~22 |
 | A Paris Sunset | 5.00% | ~18 |
 | The Director Perseveres | 5.00% | ~18 |
 | The Round Table | 5.00% | ~18 |
@@ -67,8 +67,8 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.80% | ~3 |
 | Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 365 (Ranked 350)  
-Completed: 1 (0.27%) (Ranked 255)  
+Progressed: 365 (Ranked 351)  
+Completed: 1 (0.27%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

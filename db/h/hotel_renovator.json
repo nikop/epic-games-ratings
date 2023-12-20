@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 161,
+  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -227,9 +227,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1238,
+  "EOS_Progressed": 1239,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.45,
   "EosHistory": [
@@ -2737,6 +2737,11 @@
       "Time": "2023-12-20T12:06:28.0416564+00:00",
       "NumProgressed": 1238,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-20T14:05:31.5754643+00:00",
+      "NumProgressed": 1239,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 27,
@@ -2764,7 +2769,7 @@
       "Name": "Soulmate?",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "ACH_DICE_WIN",
@@ -2772,7 +2777,7 @@
       "Name": "Roll with it",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -2780,7 +2785,7 @@
       "Name": "Kaboom",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "ACH_ELEVATOR_FIXED",
@@ -2796,7 +2801,7 @@
       "Name": "Love is in the air",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "ACH_ENGAGEMENT_RING",
@@ -2836,7 +2841,7 @@
       "Name": "Memento",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -2852,7 +2857,7 @@
       "Name": "And so it begins",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -2876,7 +2881,7 @@
       "Name": "Island boy",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ACH_POWER_OUTRAGE_FIXED",
@@ -2884,7 +2889,7 @@
       "Name": "Let there be light",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -2900,7 +2905,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "ACH_STAR_2",
@@ -2916,7 +2921,7 @@
       "Name": "Still more work ahead",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "ACH_STAR_4",
@@ -2948,7 +2953,7 @@
       "Name": "Excellent service",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -2963,7 +2968,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1238,
+      "Progressed": 1239,
       "Completed": 18
     }
   ],
@@ -2971,8 +2976,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-12-17T01:52:20.9654056+00:00",
-  "LastChanged_Achievements": "2023-12-20T13:05:33.0961936+00:00",
+  "LastChanged_Achievements": "2023-12-20T14:05:31.5754639+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:13.8800884+00:00",
-  "LastUpdate_Ratings": "2023-12-20T12:57:52.420263+00:00",
-  "LastUpdate_Achievements": "2023-12-20T13:05:33.0962212+00:00"
+  "LastUpdate_Ratings": "2023-12-20T13:57:54.3215052+00:00",
+  "LastUpdate_Achievements": "2023-12-20T14:05:31.5754844+00:00"
 }

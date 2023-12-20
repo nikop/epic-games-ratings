@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 161,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -235,9 +235,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8546,
+  "EOS_Progressed": 8549,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8780,6 +8780,11 @@
       "Time": "2023-12-20T12:10:47.686859+00:00",
       "NumProgressed": 8546,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T14:10:14.5890448+00:00",
+      "NumProgressed": 8549,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -8814,17 +8819,17 @@
       "ID": "CHAPTER_4_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Open the Gate!",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 68
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Clear the Air",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 43
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -9135,13 +9140,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8546,
+      "Progressed": 8549,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1163,
+      "Progressed": 1166,
       "Completed": 1050
     }
   ],
@@ -9149,8 +9154,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-19T16:03:30.9665101+00:00",
-  "LastChanged_Achievements": "2023-12-20T13:10:03.1785541+00:00",
+  "LastChanged_Achievements": "2023-12-20T14:10:14.5890444+00:00",
   "LastUpdate_AppInfo": "2023-12-15T11:57:06.5610357+00:00",
-  "LastUpdate_Ratings": "2023-12-20T13:03:28.9602071+00:00",
-  "LastUpdate_Achievements": "2023-12-20T13:10:03.178625+00:00"
+  "LastUpdate_Ratings": "2023-12-20T14:03:25.7294173+00:00",
+  "LastUpdate_Achievements": "2023-12-20T14:10:14.5891092+00:00"
 }

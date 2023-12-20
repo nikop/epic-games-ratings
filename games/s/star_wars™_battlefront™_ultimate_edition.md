@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 88.00% | ~1,702 |
-| Off to a good start | 64.00% | ~1,238 |
-| Do... or do not. There is no try | 51.00% | ~986 |
+| New Recruit | 88.00% | ~1,705 |
+| Off to a good start | 64.00% | ~1,240 |
+| Do... or do not. There is no try | 51.00% | ~988 |
 | A good blaster at your side | 28.00% | ~542 |
-| I suggest a new strategy | 18.00% | ~348 |
+| I suggest a new strategy | 18.00% | ~349 |
 | Scrap collector | 17.00% | ~329 |
 | Great shot, kid! | 17.00% | ~329 |
-| All right, I'll give it a try | 16.00% | ~309 |
-| The power of the Force | 13.00% | ~251 |
-| Collector | 13.00% | ~251 |
-| Shoot first | 13.00% | ~251 |
+| All right, I'll give it a try | 16.00% | ~310 |
+| The power of the Force | 13.00% | ~252 |
+| Collector | 13.00% | ~252 |
+| Shoot first | 13.00% | ~252 |
 | Together we can rule the galaxy | 12.00% | ~232 |
 | Tell Jabba that I've got his money | 9.00% | ~174 |
 | Best star-pilot in the galaxy | 9.00% | ~174 |
 | Never tell me the odds! | 8.00% | ~155 |
 | Survivor | 8.00% | ~155 |
-| What's the cargo? | 7.00% | ~135 |
-| A cunning warrior | 7.00% | ~135 |
+| What's the cargo? | 7.00% | ~136 |
+| A cunning warrior | 7.00% | ~136 |
 | Judge me by my size, do you? | 6.00% | ~116 |
 | "Gonk? Gonk!" | 5.00% | ~97 |
 | Distinguished | 5.00% | ~97 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~4 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,934 (Ranked 236)  
+Progressed: 1,937 (Ranked 236)  
 Completed: 1 (0.05%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 1 (0.05%) (Ranked 332)
 | 2023-12-17 | 1,853 | 1 |
 | 2023-12-18 | 1,882 | 1 |
 | 2023-12-19 | 1,913 | 1 |
-| 2023-12-20 | 1,934 | 1 |
+| 2023-12-20 | 1,937 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,11 +4,11 @@
   "ProductSlug": "warhammer-mechanicus-0e4b71",
   "Ranking_Rating": 701,
   "Ranking_Popularity": 260,
-  "Ranking_PopularitySum": 210,
+  "Ranking_PopularitySum": 209,
   "Ranking_EOS_Progress": 70,
-  "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 161,
+  "Ranking_EOS_Completed": 384,
+  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -1026,9 +1026,9 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 229884,
+  "EOS_Progressed": 229885,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 614,
+  "EOS_NewPlayers": 609,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27736,6 +27736,11 @@
       "Time": "2023-12-20T13:09:58.2717456+00:00",
       "NumProgressed": 229884,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-20T14:10:09.6348078+00:00",
+      "NumProgressed": 229885,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -28018,7 +28023,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 229884,
+      "Progressed": 229885,
       "Completed": 5
     }
   ],
@@ -28026,8 +28031,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-12-18T15:00:10.8258154+00:00",
-  "LastChanged_Achievements": "2023-12-20T13:09:58.2717453+00:00",
+  "LastChanged_Achievements": "2023-12-20T14:10:09.6348075+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:11.0870994+00:00",
-  "LastUpdate_Ratings": "2023-12-20T12:57:56.4013185+00:00",
-  "LastUpdate_Achievements": "2023-12-20T13:09:58.2719223+00:00"
+  "LastUpdate_Ratings": "2023-12-20T13:57:58.4131448+00:00",
+  "LastUpdate_Achievements": "2023-12-20T14:10:09.6349415+00:00"
 }

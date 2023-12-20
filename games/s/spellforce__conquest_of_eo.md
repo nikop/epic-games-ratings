@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 86.00% | ~56 |
+| Home Sweet Home | 88.00% | ~57 |
 | Enough rooms to swing a cat | 83.00% | ~54 |
 | First to the post | 83.00% | ~54 |
 | A kind of Magic | 77.00% | ~50 |
@@ -23,7 +23,7 @@
 | Slave to the rhythm | 23.00% | ~15 |
 | Friend of Sevenkeeps | 23.00% | ~15 |
 | Bad JuJu | 23.00% | ~15 |
-| Castle Meldec | 20.00% | ~13 |
+| Castle Meldec | 22.00% | ~14 |
 | Sevenkeeps Seat of Kings | 18.00% | ~12 |
 | Friend of Alluvyan | 15.00% | ~10 |
 | Friend of Connach | 15.00% | ~10 |
@@ -75,8 +75,8 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65 (Ranked 505)  
-Completed: 0 (0.00%) (Ranked 385)  
+Progressed: 65 (Ranked 506)  
+Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

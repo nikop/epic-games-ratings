@@ -7,17 +7,17 @@
 | Escape from Fleed | 53.00% | ~9 |
 | First Contact | 47.00% | ~8 |
 | The Remains of Fleed | 47.00% | ~8 |
+| Life of Pi | 47.00% | ~8 |
 | The Legend | 47.00% | ~8 |
 | Strength in Defeat | 41.00% | ~7 |
-| Life of Pi | 41.00% | ~7 |
 | Technology first! | 41.00% | ~7 |
 | The Keeper of Fleed | 35.00% | ~6 |
+| The Exterminator | 24.00% | ~4 |
+| Earth's Savior | 18.00% | ~3 |
 | Iron Fist | 18.00% | ~3 |
-| The Exterminator | 18.00% | ~3 |
 | The Space Hydra | 18.00% | ~3 |
 | The Vega Turtle | 18.00% | ~3 |
 | A Good Paint Job | 12.00% | ~2 |
-| Earth's Savior | 12.00% | ~2 |
 | The Royal Guard | 12.00% | ~2 |
 | Gold Seeker | 6.00% | ~1 |
 | The Power of Friendship | 6.00% | ~1 |
@@ -36,7 +36,7 @@
 | The Fire Cannons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 17 (Ranked 611)  
-Completed: 0 (0.00%) (Ranked 385)  
+Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -3,9 +3,9 @@
   "Name": "Greak: Memories of Azur",
   "ProductSlug": "greak-memories-of-azur-e05a8d",
   "Ranking_EOS_Progress": 810,
-  "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 558,
-  "Ranking_EOS_NewCompleters": 161,
+  "Ranking_EOS_Completed": 384,
+  "Ranking_EOS_NewPlayers": 559,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-11-09T17:00:00+00:00",
     "PcReleaseDate": "2021-08-17T00:00:00+00:00",
@@ -43,8 +43,8 @@
   ],
   "FirstSeen": "2023-12-14T13:59:53.521737+00:00",
   "FirstSeenAchievements": "2023-11-10T12:02:57.4238455+00:00",
-  "LastChanged_Achievements": "2023-12-20T13:04:31.449593+00:00",
+  "LastChanged_Achievements": "2023-12-20T14:04:31.039627+00:00",
   "LastUpdate_AppInfo": "2023-12-15T14:56:56.1333725+00:00",
-  "LastUpdate_Ratings": "2023-12-20T12:59:29.4278503+00:00",
-  "LastUpdate_Achievements": "2023-12-20T13:04:31.4495956+00:00"
+  "LastUpdate_Ratings": "2023-12-20T13:59:34.4355295+00:00",
+  "LastUpdate_Achievements": "2023-12-20T14:04:31.0396304+00:00"
 }

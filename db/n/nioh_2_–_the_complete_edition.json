@@ -2,13 +2,13 @@
   "ID": "6acf92329bc449068201ee9a3f399a13",
   "Name": "Nioh 2 \u2013 The Complete Edition",
   "ProductSlug": "nioh-2-the-complete-edition",
-  "Ranking_Rating": 90,
+  "Ranking_Rating": 98,
   "Ranking_Popularity": 103,
   "Ranking_PopularitySum": 117,
   "Ranking_EOS_Progress": 810,
-  "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 558,
-  "Ranking_EOS_NewCompleters": 161,
+  "Ranking_EOS_Completed": 384,
+  "Ranking_EOS_NewPlayers": 559,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2021-09-23T14:56:18+00:00",
     "PcReleaseDate": "2021-02-05T00:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.8,
+  "Rating": 4.79,
   "NumberOfRatings": 2526,
   "RatingHistory": [
     {
@@ -4634,10 +4634,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 7367,
       "NumberOfAwardsMax": 2550
+    },
+    {
+      "Time": "2023-12-20T13:59:20.0204392+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 7368,
+      "NumberOfAwardsMax": 2550
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7367,
+  "NumberOfAwards": 7368,
   "NumberOfAwardsMax": 2550,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4669,7 +4675,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 439
+      "Count": 440
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4725,8 +4731,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:13.8820605+00:00",
-  "LastChanged": "2023-12-20T04:59:35.499983+00:00",
+  "LastChanged": "2023-12-20T13:59:20.0204391+00:00",
   "LastUpdate_AppInfo": "2023-12-16T13:57:09.1039684+00:00",
-  "LastUpdate_Ratings": "2023-12-20T12:59:15.3761847+00:00",
-  "LastUpdate_Achievements": "2023-12-20T13:09:25.2806+00:00"
+  "LastUpdate_Ratings": "2023-12-20T13:59:20.0204396+00:00",
+  "LastUpdate_Achievements": "2023-12-20T14:09:35.7161615+00:00"
 }

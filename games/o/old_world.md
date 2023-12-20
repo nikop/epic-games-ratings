@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 321)  
+Rating: 4.65 (Ranked 320)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -103,6 +103,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 0.10% | ~16 |
 | Pyramids | 0.10% | ~16 |
 | Via Recta Souk | 0.10% | ~16 |
+| Learn By Playing 1 - Able | 0.10% | ~16 |
 | Learn to Play 1 | 0.10% | ~16 |
 | Learn to Play 2 | 0.10% | ~16 |
 | Learn to Play 3 | 0.10% | ~16 |
@@ -258,7 +259,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hagia Sophia | 0.00% | ~0 |
 | Church of the Holy Sepulchre | 0.00% | ~0 |
 | Knowledge of the Ancients | 0.00% | ~0 |
-| Learn By Playing 1 - Able | 0.00% | ~0 |
 | Learn By Playing 2 - Just | 0.00% | ~0 |
 | Learn By Playing 3 - Good | 0.00% | ~0 |
 | Learn By Playing 4 - Strong | 0.00% | ~0 |

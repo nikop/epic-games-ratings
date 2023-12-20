@@ -11,18 +11,18 @@
 | Sanctuary Guardian | 54.00% | ~109 |
 | Endless Tricks | 49.00% | ~98 |
 | Wild's Keeper | 45.00% | ~90 |
-| Mind Illuminator | 41.00% | ~82 |
+| Mind Illuminator | 42.00% | ~84 |
+| Noctuan Champion | 36.00% | ~72 |
 | Stellar Dismantler | 34.00% | ~68 |
-| Noctuan Champion | 34.00% | ~68 |
-| Anomaly Destroyer | 30.00% | ~60 |
-| Astral Adventurer | 29.00% | ~58 |
-| Star Killer | 26.00% | ~52 |
+| Anomaly Destroyer | 31.00% | ~62 |
+| Astral Adventurer | 31.00% | ~62 |
+| Star Killer | 27.00% | ~54 |
 | Eridanian Champion | 24.00% | ~48 |
+| Loyal Partner | 23.00% | ~46 |
 | Lacertian Champion | 23.00% | ~46 |
-| Loyal Partner | 22.00% | ~44 |
 | Apian Champion | 21.00% | ~42 |
 | Shard Spender | 18.00% | ~36 |
-| Unbeatable | 17.00% | ~34 |
+| Unbeatable | 18.00% | ~36 |
 | Behenian Champion | 16.00% | ~32 |
 | Sadistic Plan | 14.00% | ~28 |
 | Aquarian Champion | 10.00% | ~20 |
@@ -104,7 +104,7 @@
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 201 (Ranked 401)  
-Completed: 0 (0.00%) (Ranked 385)  
+Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -3,9 +3,9 @@
   "Name": "SteamWorld Build",
   "ProductSlug": "steamworld-build-71ee6c",
   "Ranking_EOS_Progress": 424,
-  "Ranking_EOS_Completed": 385,
+  "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 161,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -733,9 +733,9 @@
       "ID": "Systematic",
       "SetID": "4bd750m",
       "Name": "Systematic",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 55
     },
     {
       "ID": "TuttiFrutti",
@@ -749,9 +749,9 @@
       "ID": "UpUpAndAway",
       "SetID": "4bd750m",
       "Name": "Up, Up And Away!",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "Whoa",
@@ -780,8 +780,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-20T13:04:25.0989858+00:00",
+  "LastChanged_Achievements": "2023-12-20T14:04:24.538389+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.7183942+00:00",
-  "LastUpdate_Ratings": "2023-12-20T13:03:28.8450441+00:00",
-  "LastUpdate_Achievements": "2023-12-20T13:04:25.0990049+00:00"
+  "LastUpdate_Ratings": "2023-12-20T14:03:25.6060469+00:00",
+  "LastUpdate_Achievements": "2023-12-20T14:04:24.5384075+00:00"
 }

@@ -34,7 +34,7 @@
 | The Missing Piece | 6.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 156 (Ranked 418)  
-Completed: 7 (4.49%) (Ranked 84)  
+Completed: 7 (4.49%) (Ranked 83)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

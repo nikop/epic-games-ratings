@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 161,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1682,
+  "EOS_Progressed": 1683,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -2638,6 +2638,11 @@
       "Time": "2023-12-20T03:04:33.6030827+00:00",
       "NumProgressed": 1682,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-20T14:05:13.4287867+00:00",
+      "NumProgressed": 1683,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -2673,7 +2678,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "13",
@@ -2721,7 +2726,7 @@
       "Name": "Like new!",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "19",
@@ -2857,7 +2862,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "7",
@@ -2873,7 +2878,7 @@
       "Name": "Over my dead body",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "9",
@@ -2888,15 +2893,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1682,
+      "Progressed": 1683,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-20T13:05:12.6050132+00:00",
+  "LastChanged_Achievements": "2023-12-20T14:05:13.4287865+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.3116727+00:00",
-  "LastUpdate_Ratings": "2023-12-20T12:59:18.2889867+00:00",
-  "LastUpdate_Achievements": "2023-12-20T13:05:12.6050389+00:00"
+  "LastUpdate_Ratings": "2023-12-20T13:59:23.2689729+00:00",
+  "LastUpdate_Achievements": "2023-12-20T14:05:13.4288089+00:00"
 }

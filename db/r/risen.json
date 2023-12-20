@@ -6,9 +6,9 @@
   "Ranking_Popularity": 569,
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 464,
-  "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 297,
-  "Ranking_EOS_NewCompleters": 161,
+  "Ranking_EOS_Completed": 384,
+  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
     "PcReleaseDate": "2009-10-30T16:00:00+00:00",
@@ -567,9 +567,9 @@
       "ID": "id_10",
       "SetID": "bk9jib6",
       "Name": "The merciful one",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "id_11",
@@ -927,9 +927,9 @@
       "ID": "id_62",
       "SetID": "bk9jib6",
       "Name": "Archer",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "id_63",
@@ -976,8 +976,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-12-19T04:58:37.4442529+00:00",
-  "LastChanged_Achievements": "2023-12-20T13:09:55.2501854+00:00",
+  "LastChanged_Achievements": "2023-12-20T14:10:06.4298483+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:12.9761539+00:00",
-  "LastUpdate_Ratings": "2023-12-20T12:59:01.1681602+00:00",
-  "LastUpdate_Achievements": "2023-12-20T13:09:55.25023+00:00"
+  "LastUpdate_Ratings": "2023-12-20T13:59:05.5195961+00:00",
+  "LastUpdate_Achievements": "2023-12-20T14:10:06.4298774+00:00"
 }

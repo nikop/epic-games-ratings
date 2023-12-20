@@ -18,8 +18,8 @@
 | Run K, run! | 70.00% | ~300 |
 | First defeat | 69.00% | ~295 |
 | Hello, world! | 68.00% | ~291 |
+| Fighting is cool | 67.00% | ~287 |
 | No bullying more | 67.00% | ~287 |
-| Fighting is cool | 66.00% | ~282 |
 | Pal of your father? | 64.00% | ~274 |
 | Spirit of the past | 62.00% | ~265 |
 | Employee of the month | 61.00% | ~261 |
@@ -44,8 +44,8 @@
 | Champion – no way back | 38.00% | ~163 |
 | Underground dwellers | 38.00% | ~163 |
 | Responsible approach | 38.00% | ~163 |
+| Deal with life | 37.00% | ~158 |
 | Mom got better | 36.00% | ~154 |
-| Deal with life | 36.00% | ~154 |
 | GYM professional | 36.00% | ~154 |
 | The die is cast | 36.00% | ~154 |
 | Poisoned fighter | 35.00% | ~150 |

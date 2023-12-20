@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 161,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1455,9 +1455,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6533,
+  "EOS_Progressed": 6535,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 225,
+  "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14825,6 +14825,11 @@
       "Time": "2023-12-20T12:05:19.4353621+00:00",
       "NumProgressed": 6533,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-20T14:04:37.8407666+00:00",
+      "NumProgressed": 6535,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -14860,7 +14865,7 @@
       "Name": "Happy Ending?",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -14940,7 +14945,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -14996,7 +15001,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 4834
+      "UsersEstimate": 4836
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -15090,9 +15095,9 @@
       "ID": "ACH_THOUSANDPOPULATION",
       "SetID": "1p8ab95",
       "Name": "Un-Lonely Island",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 2940
+      "UsersEstimate": 3006
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -15108,7 +15113,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2352
+      "UsersEstimate": 2353
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -15155,15 +15160,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6533,
+      "Progressed": 6535,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-12-17T08:59:24.7574779+00:00",
-  "LastChanged_Achievements": "2023-12-20T13:04:37.5968414+00:00",
+  "LastChanged_Achievements": "2023-12-20T14:04:37.8407662+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:47.7844638+00:00",
-  "LastUpdate_Ratings": "2023-12-20T13:00:32.4864034+00:00",
-  "LastUpdate_Achievements": "2023-12-20T13:04:37.5969327+00:00"
+  "LastUpdate_Ratings": "2023-12-20T14:00:39.7973081+00:00",
+  "LastUpdate_Achievements": "2023-12-20T14:04:37.8408674+00:00"
 }

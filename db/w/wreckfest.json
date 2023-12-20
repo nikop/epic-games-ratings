@@ -5,10 +5,10 @@
   "Ranking_Rating": 878,
   "Ranking_Popularity": 569,
   "Ranking_PopularitySum": 569,
-  "Ranking_EOS_Progress": 434,
-  "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 161,
+  "Ranking_EOS_Progress": 429,
+  "Ranking_EOS_Completed": 384,
+  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 133,
+  "EOS_Progressed": 136,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -549,6 +549,11 @@
       "Time": "2023-12-20T13:08:29.8007725+00:00",
       "NumProgressed": 133,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T14:08:38.7536772+00:00",
+      "NumProgressed": 136,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -615,7 +620,7 @@
       "ID": "CareerFirstWin",
       "SetID": "5hd282c",
       "Name": "Storm Warning",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -623,7 +628,7 @@
       "ID": "CollectVehiclesA",
       "SetID": "5hd282c",
       "Name": "Wheeler Dealer",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -631,7 +636,7 @@
       "ID": "CollectVehiclesB",
       "SetID": "5hd282c",
       "Name": "Junk Collector",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -720,7 +725,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 133,
+      "Progressed": 136,
       "Completed": 0
     }
   ],
@@ -728,8 +733,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-19T23:00:17.2400985+00:00",
-  "LastChanged_Achievements": "2023-12-20T13:08:29.8007721+00:00",
+  "LastChanged_Achievements": "2023-12-20T14:08:38.7536768+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:03.0967517+00:00",
-  "LastUpdate_Ratings": "2023-12-20T13:03:04.5317527+00:00",
-  "LastUpdate_Achievements": "2023-12-20T13:08:29.8007864+00:00"
+  "LastUpdate_Ratings": "2023-12-20T14:03:00.6259419+00:00",
+  "LastUpdate_Achievements": "2023-12-20T14:08:38.7536894+00:00"
 }

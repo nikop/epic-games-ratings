@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 161,
+  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
     "PcReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -191,11 +191,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 753,
+  "EOS_Progressed": 754,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.97,
+  "EOS_Completed_Percentage": 7.96,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:45.6416158+00:00",
@@ -606,6 +606,11 @@
       "Time": "2023-12-20T11:06:39.0525873+00:00",
       "NumProgressed": 753,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-20T14:05:45.3740888+00:00",
+      "NumProgressed": 754,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 50,
@@ -641,15 +646,15 @@
       "Name": "All Bark, No Bite",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "ACHIEVEMENT005",
       "SetID": "dejhjd5",
       "Name": "Magical Mineral Golem",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 407
+      "UsersEstimate": 400
     },
     {
       "ID": "ACHIEVEMENT006",
@@ -801,7 +806,7 @@
       "Name": "Amateur Adventurer",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "ACHIEVEMENT025",
@@ -809,7 +814,7 @@
       "Name": "Hopeful Hunter",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "ACHIEVEMENT026",
@@ -833,7 +838,7 @@
       "Name": "On Outlander Lane",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "ACHIEVEMENT029",
@@ -873,7 +878,7 @@
       "Name": "Rune Scholar",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACHIEVEMENT034",
@@ -889,7 +894,7 @@
       "Name": "First Time Fishing",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "ACHIEVEMENT036",
@@ -927,9 +932,9 @@
       "ID": "ACHIEVEMENT040",
       "SetID": "dejhjd5",
       "Name": "Rune Wall Master",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 248
+      "UsersEstimate": 241
     },
     {
       "ID": "ACHIEVEMENT041",
@@ -1016,15 +1021,15 @@
     {
       "ID": "dejhjd5",
       "IsBase": true,
-      "Progressed": 753,
+      "Progressed": 754,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-12-03T09:59:31.596296+00:00",
-  "LastChanged_Achievements": "2023-12-20T13:05:46.8229379+00:00",
+  "LastChanged_Achievements": "2023-12-20T14:05:45.3740883+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:14.9591133+00:00",
-  "LastUpdate_Ratings": "2023-12-20T12:58:11.1649012+00:00",
-  "LastUpdate_Achievements": "2023-12-20T13:05:46.8229708+00:00"
+  "LastUpdate_Ratings": "2023-12-20T13:58:13.8889229+00:00",
+  "LastUpdate_Achievements": "2023-12-20T14:05:45.3741183+00:00"
 }

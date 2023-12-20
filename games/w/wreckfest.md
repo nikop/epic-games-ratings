@@ -5,9 +5,9 @@ Rating: 4.27 (Ranked 878)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Storm Warning | 0.80% | ~1 |
-| Wheeler Dealer | 0.80% | ~1 |
-| Junk Collector | 0.80% | ~1 |
+| Storm Warning | 0.70% | ~1 |
+| Wheeler Dealer | 0.70% | ~1 |
+| Junk Collector | 0.70% | ~1 |
 | Look Mom, I Can Fly | 0.00% | ~0 |
 | Highballer | 0.00% | ~0 |
 | Regional Juniors Champion | 0.00% | ~0 |
@@ -26,14 +26,14 @@ Rating: 4.27 (Ranked 878)
 | Hating Them Tin Cans | 0.00% | ~0 |
 | Maniac Driver | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133 (Ranked 434)  
-Completed: 0 (0.00%) (Ranked 385)  
+Progressed: 136 (Ranked 429)  
+Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-12-18 | 58 | 0 |
 | 2023-12-19 | 116 | 0 |
-| 2023-12-20 | 133 | 0 |
+| 2023-12-20 | 136 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

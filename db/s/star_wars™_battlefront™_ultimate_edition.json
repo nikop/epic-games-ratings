@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 332,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 161,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1934,
+  "EOS_Progressed": 1937,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 245,
+  "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5689,6 +5689,11 @@
       "Time": "2023-12-20T13:10:05.483772+00:00",
       "NumProgressed": 1934,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T14:10:16.9213919+00:00",
+      "NumProgressed": 1937,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -5733,7 +5738,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "achievement_14",
@@ -5773,7 +5778,7 @@
       "Name": "The power of the Force",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "achievement_19",
@@ -5797,7 +5802,7 @@
       "Name": "Collector",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "achievement_21",
@@ -5901,7 +5906,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "achievement_33",
@@ -5925,7 +5930,7 @@
       "Name": "New Recruit",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1702
+      "UsersEstimate": 1705
     },
     {
       "ID": "achievement_36",
@@ -5941,7 +5946,7 @@
       "Name": "Off to a good start",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1238
+      "UsersEstimate": 1240
     },
     {
       "ID": "achievement_38",
@@ -5965,7 +5970,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "achievement_40",
@@ -5973,7 +5978,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 986
+      "UsersEstimate": 988
     },
     {
       "ID": "achievement_41",
@@ -6053,7 +6058,7 @@
       "Name": "Shoot first",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "achievement_50",
@@ -6181,7 +6186,7 @@
       "Name": "A cunning warrior",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "achievement_8",
@@ -6204,13 +6209,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1934,
+      "Progressed": 1937,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1934,
+      "Progressed": 1937,
       "Completed": 1
     }
   ],
@@ -6218,8 +6223,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-20T13:10:05.4837718+00:00",
+  "LastChanged_Achievements": "2023-12-20T14:10:16.9213915+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.5169818+00:00",
-  "LastUpdate_Ratings": "2023-12-20T12:57:51.6506738+00:00",
-  "LastUpdate_Achievements": "2023-12-20T13:10:05.483842+00:00"
+  "LastUpdate_Ratings": "2023-12-20T13:57:53.5259537+00:00",
+  "LastUpdate_Achievements": "2023-12-20T14:10:16.9214547+00:00"
 }

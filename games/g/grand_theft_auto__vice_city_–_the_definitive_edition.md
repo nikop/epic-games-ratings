@@ -5,23 +5,23 @@ Rating: 4.52 (Ranked 567)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~5,993 |
-| Greasy Palms | 42.00% | ~5,472 |
-| South American Connection | 25.00% | ~3,257 |
-| Life of the Party | 20.00% | ~2,606 |
-| Tommy Two-Wheels | 15.00% | ~1,954 |
-| Big Heat from Little Havana | 14.00% | ~1,824 |
-| Chauffeur | 14.00% | ~1,824 |
-| Salutations My Little Friend | 11.00% | ~1,433 |
-| Iron-y | 10.00% | ~1,303 |
-| Gun for Hire | 9.00% | ~1,173 |
-| Mischief Managed | 8.00% | ~1,042 |
-| Vice City Mogul | 7.00% | ~912 |
-| Catch Me if You Can | 6.00% | ~782 |
-| Bloodstained Hands | 6.00% | ~782 |
-| Not my First Time | 5.00% | ~651 |
-| Grand Theft Auto | 5.00% | ~651 |
-| Pie Guy | 4.00% | ~521 |
+| Legal Counsel | 46.00% | ~5,999 |
+| Greasy Palms | 42.00% | ~5,478 |
+| South American Connection | 25.00% | ~3,260 |
+| Life of the Party | 20.00% | ~2,608 |
+| Tommy Two-Wheels | 15.00% | ~1,956 |
+| Big Heat from Little Havana | 14.00% | ~1,826 |
+| Chauffeur | 14.00% | ~1,826 |
+| Salutations My Little Friend | 11.00% | ~1,435 |
+| Iron-y | 10.00% | ~1,304 |
+| Gun for Hire | 9.00% | ~1,174 |
+| Mischief Managed | 8.00% | ~1,043 |
+| Vice City Mogul | 7.00% | ~913 |
+| Catch Me if You Can | 6.00% | ~783 |
+| Bloodstained Hands | 6.00% | ~783 |
+| Not my First Time | 5.00% | ~652 |
+| Grand Theft Auto | 5.00% | ~652 |
+| Pie Guy | 4.00% | ~522 |
 | Point A to Point B | 3.00% | ~391 |
 | High Quality H2O | 3.00% | ~391 |
 | Bull in a China Shop | 3.00% | ~391 |
@@ -40,7 +40,7 @@ Rating: 4.52 (Ranked 567)
 | Done it All | 0.90% | ~117 |
 | Kingpin | 0.50% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,029 (Ranked 165)  
+Progressed: 13,042 (Ranked 165)  
 Completed: 71 (0.54%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 71 (0.54%) (Ranked 209)
 | 2023-12-17 | 12,602 | 68 |
 | 2023-12-18 | 12,767 | 70 |
 | 2023-12-19 | 12,956 | 70 |
-| 2023-12-20 | 13,029 | 71 |
+| 2023-12-20 | 13,042 | 71 |
 ## Awards
 Max (Great Boss Battles): 130  (Ranked 338)  
 Sum: 130 (Ranked 440)  

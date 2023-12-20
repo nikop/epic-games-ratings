@@ -3,9 +3,9 @@
   "Name": "Slender The Arrival",
   "ProductSlug": "slender-the-arrival-4a801d",
   "Ranking_EOS_Progress": 810,
-  "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 558,
-  "Ranking_EOS_NewCompleters": 161,
+  "Ranking_EOS_Completed": 384,
+  "Ranking_EOS_NewPlayers": 559,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-10-18T04:00:00+00:00",
     "PcReleaseDate": "2023-10-18T04:00:00+00:00",
@@ -43,8 +43,8 @@
   ],
   "FirstSeen": "2023-10-18T13:03:44.1887335+00:00",
   "FirstSeenAchievements": "2023-09-06T19:05:17.900416+00:00",
-  "LastChanged_Achievements": "2023-12-20T13:08:49.1055964+00:00",
+  "LastChanged_Achievements": "2023-12-20T14:08:58.6086664+00:00",
   "LastUpdate_AppInfo": "2023-12-15T14:56:56.2881386+00:00",
-  "LastUpdate_Ratings": "2023-12-20T12:59:20.2650201+00:00",
-  "LastUpdate_Achievements": "2023-12-20T13:08:49.1055992+00:00"
+  "LastUpdate_Ratings": "2023-12-20T13:59:25.1646014+00:00",
+  "LastUpdate_Achievements": "2023-12-20T14:08:58.6086693+00:00"
 }

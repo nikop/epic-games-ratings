@@ -8,10 +8,10 @@ Number of Ratings: 111  (23.09.2022)
 | ---- | ---------- | ----- |
 | You're free now! | 61.00% | ~2,006 |
 | Keeping it classy | 28.00% | ~921 |
-| Welcome to the family | 22.00% | ~723 |
+| Welcome to the family | 22.00% | ~724 |
 | The finer things in life | 20.00% | ~658 |
 | Backpacker | 14.00% | ~460 |
-| Go with the Flow | 13.00% | ~427 |
+| Go with the Flow | 13.00% | ~428 |
 | Plastic Surgeon | 10.00% | ~329 |
 | The flip trick crown jewel | 10.00% | ~329 |
 | The hard way | 10.00% | ~329 |
@@ -27,13 +27,13 @@ Number of Ratings: 111  (23.09.2022)
 | DIY Boss | 6.00% | ~197 |
 | Fulfilled the dream | 6.00% | ~197 |
 | G'Day Mate! | 6.00% | ~197 |
+| Globetrotter | 6.00% | ~197 |
 | Laid back | 6.00% | ~197 |
 | NAHELL! | 6.00% | ~197 |
 | Purple passion | 6.00% | ~197 |
 | Squad goals | 6.00% | ~197 |
 | Sup widdit big dog! | 6.00% | ~197 |
 | Cops called! | 5.00% | ~164 |
-| Globetrotter | 5.00% | ~164 |
 | Lines for days | 5.00% | ~164 |
 | Manny Destroys All | 5.00% | ~164 |
 | Renaissance man | 5.00% | ~164 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,288 (Ranked 216)  
+Progressed: 3,289 (Ranked 216)  
 Completed: 2 (0.06%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 2 (0.06%) (Ranked 326)
 | 2023-12-17 | 3,239 | 2 |
 | 2023-12-18 | 3,263 | 2 |
 | 2023-12-19 | 3,283 | 2 |
-| 2023-12-20 | 3,288 | 2 |
+| 2023-12-20 | 3,289 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 59  (Ranked 422)  
 Sum: 568 (Ranked 323)  

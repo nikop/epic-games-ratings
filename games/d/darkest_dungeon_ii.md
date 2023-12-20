@@ -6,8 +6,8 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 9.00% | ~321 |
-| Lost and Found | 5.00% | ~178 |
+| Malpractice Assurance | 9.00% | ~322 |
+| Lost and Found | 5.00% | ~179 |
 | This Belongs in a Museum | 4.00% | ~5,148 |
 | Autodidact | 4.00% | ~5,148 |
 | This guy... again? | 4.00% | ~143 |
@@ -34,7 +34,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 2.00% | ~2,574 |
 | FNG | 2.00% | ~2,574 |
 | Nope | 2.00% | ~2,574 |
-| Friends 'Til the End | 2.00% | ~71 |
+| Friends 'Til the End | 2.00% | ~72 |
 | Resurrection | 1.00% | ~1,287 |
 | Unleash Hell | 1.00% | ~1,287 |
 | Funny Guy | 1.00% | ~1,287 |
@@ -46,6 +46,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Predator | 1.00% | ~1,287 |
 | Banishment | 1.00% | ~1,287 |
 | Deprogramming | 1.00% | ~1,287 |
+| Ichthyophobic | 1.00% | ~1,287 |
 | Now Stay Dead | 1.00% | ~1,287 |
 | Reverse Banditry | 1.00% | ~1,287 |
 | A Clear Conscience | 1.00% | ~1,287 |
@@ -54,7 +55,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Utopia | 1.00% | ~1,287 |
 | Unshackled | 1.00% | ~1,287 |
 | Road Trip | 1.00% | ~1,287 |
-| Ichthyophobic | 0.90% | ~1,158 |
 | No More Mouths to Feed | 0.90% | ~1,158 |
 | Hot Air | 0.90% | ~1,158 |
 | This Looks Familiar | 0.80% | ~1,030 |
@@ -86,8 +86,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,699 (Ranked 85)  
-Completed: 3 (0.00%) (Ranked 385)  
+Progressed: 128,707 (Ranked 85)  
+Completed: 3 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -320,7 +320,7 @@ Completed: 3 (0.00%) (Ranked 385)
 | 2023-12-17 | 128,143 | 3 |
 | 2023-12-18 | 128,398 | 3 |
 | 2023-12-19 | 128,605 | 3 |
-| 2023-12-20 | 128,699 | 3 |
+| 2023-12-20 | 128,707 | 3 |
 ## Awards
 Max (Character Customization): 7,805  (Ranked 50)  
 Sum: 20,823 (Ranked 58)  

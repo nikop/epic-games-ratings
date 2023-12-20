@@ -3,9 +3,9 @@
   "Name": "UFO ROBOT GRENDIZER - The Feast of the Wolves",
   "ProductSlug": "goldorak-d90cf1",
   "Ranking_EOS_Progress": 611,
-  "Ranking_EOS_Completed": 385,
+  "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 514,
-  "Ranking_EOS_NewCompleters": 161,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-11-14T16:00:00+00:00",
     "PcReleaseDate": "2023-11-14T16:00:00+00:00",
@@ -180,9 +180,9 @@
       "ID": "ACH_FIRSTMEDITATION",
       "SetID": "ch874lb",
       "Name": "Life of Pi",
-      "Percentage": 41,
+      "Percentage": 47,
       "XP": 35,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_FIRSTSKINCHANGE",
@@ -220,9 +220,9 @@
       "ID": "ACH_GREENEARTH",
       "SetID": "ch874lb",
       "Name": "Earth\u0027s Savior",
-      "Percentage": 12,
+      "Percentage": 18,
       "XP": 35,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_IRONFIST",
@@ -236,9 +236,9 @@
       "ID": "ACH_KILLENEMY",
       "SetID": "ch874lb",
       "Name": "The Exterminator",
-      "Percentage": 18,
+      "Percentage": 24,
       "XP": 35,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_LEGENDARYMATERIAL",
@@ -371,8 +371,8 @@
   ],
   "FirstSeen": "2023-11-15T14:59:58.3542509+00:00",
   "FirstSeenAchievements": "2023-10-23T10:08:08.2725119+00:00",
-  "LastChanged_Achievements": "2023-12-20T13:03:46.6426185+00:00",
+  "LastChanged_Achievements": "2023-12-20T14:03:45.5262648+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:03.5029771+00:00",
-  "LastUpdate_Ratings": "2023-12-20T12:59:07.2021928+00:00",
-  "LastUpdate_Achievements": "2023-12-20T13:03:46.642647+00:00"
+  "LastUpdate_Ratings": "2023-12-20T13:59:11.5783803+00:00",
+  "LastUpdate_Achievements": "2023-12-20T14:03:45.5262837+00:00"
 }

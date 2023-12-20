@@ -6,8 +6,8 @@ Rating: 4.56 (Ranked 497)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | End of the Mozis | 0.40% | ~9 |
+| Throne Room Fit For A King | 0.40% | ~9 |
 | Meet the Creatures from the Deep | 0.30% | ~7 |
-| Throne Room Fit For A King | 0.30% | ~7 |
 | Return Power To The Depths | 0.30% | ~7 |
 | Become King | 0.20% | ~5 |
 | Complete Guard Faction | 0.20% | ~5 |

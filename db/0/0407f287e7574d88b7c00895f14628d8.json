@@ -3,9 +3,9 @@
   "Name": "Settlement Survival",
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 465,
-  "Ranking_EOS_Completed": 385,
+  "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 161,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
     "PcReleaseDate": "2022-10-24T16:00:00+00:00",
@@ -460,9 +460,9 @@
       "ID": "f1",
       "SetID": "b1ggf28",
       "Name": "Agriculture Tycoon",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "f2",
@@ -628,9 +628,9 @@
       "ID": "k1",
       "SetID": "b1ggf28",
       "Name": "Advanced Technology",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "k2",
@@ -684,9 +684,9 @@
       "ID": "r2",
       "SetID": "b1ggf28",
       "Name": "A Welcoming Settlement",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "r3",
@@ -819,8 +819,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-20T13:06:25.0672242+00:00",
+  "LastChanged_Achievements": "2023-12-20T14:06:24.3850045+00:00",
   "LastUpdate_AppInfo": "2023-12-20T04:56:56.1414311+00:00",
-  "LastUpdate_Ratings": "2023-12-20T13:03:12.7815141+00:00",
-  "LastUpdate_Achievements": "2023-12-20T13:06:25.0672696+00:00"
+  "LastUpdate_Ratings": "2023-12-20T14:03:09.0925702+00:00",
+  "LastUpdate_Achievements": "2023-12-20T14:06:24.385035+00:00"
 }

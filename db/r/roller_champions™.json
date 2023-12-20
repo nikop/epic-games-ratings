@@ -4,11 +4,11 @@
   "ProductSlug": "roller-champions",
   "Ranking_Rating": 814,
   "Ranking_Popularity": 267,
-  "Ranking_PopularitySum": 204,
+  "Ranking_PopularitySum": 214,
   "Ranking_EOS_Progress": 810,
-  "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 558,
-  "Ranking_EOS_NewCompleters": 161,
+  "Ranking_EOS_Completed": 384,
+  "Ranking_EOS_NewPlayers": 559,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-06-23T13:40:00+00:00",
     "PcReleaseDate": "2022-05-25T14:00:00+00:00",
@@ -3287,10 +3287,16 @@
       "Rating": 4.34,
       "NumberOfAwards": 2320,
       "NumberOfAwardsMax": 267
+    },
+    {
+      "Time": "2023-12-20T14:00:12.2700925+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 2080,
+      "NumberOfAwardsMax": 267
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2320,
+  "NumberOfAwards": 2080,
   "NumberOfAwardsMax": 267,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3372,8 +3378,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:37.6973739+00:00",
-  "LastChanged": "2023-12-19T17:59:45.7380863+00:00",
+  "LastChanged": "2023-12-20T14:00:12.2700923+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:33.1073098+00:00",
-  "LastUpdate_Ratings": "2023-12-20T13:00:06.3202292+00:00",
-  "LastUpdate_Achievements": "2023-12-20T13:04:00.4690367+00:00"
+  "LastUpdate_Ratings": "2023-12-20T14:00:12.2700929+00:00",
+  "LastUpdate_Achievements": "2023-12-20T14:03:59.6017251+00:00"
 }

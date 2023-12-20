@@ -9,29 +9,30 @@ Number of Ratings: 12,664  (23.09.2022)
 | Sponsored by Argon | 9.00% | ~13,186 |
 | Basic in Bulk | 8.00% | ~11,721 |
 | Titan's First Steps | 8.00% | ~11,721 |
-| Tinkle of Coins | 7.00% | ~10,255 |
-| Disintermediation | 6.00% | ~8,790 |
-| It's Free Real Estate | 6.00% | ~8,790 |
-| Capitalism Ho! | 6.00% | ~8,790 |
-| One Easy Payment | 5.00% | ~7,325 |
-| Some Assembly Required | 5.00% | ~7,325 |
-| Another Satisfied Customer | 5.00% | ~7,325 |
-| Budding Merchant | 5.00% | ~7,325 |
-| Own the Means of Production | 5.00% | ~7,325 |
-| The Daily Grind | 4.00% | ~5,860 |
-| Pretty Penny | 4.00% | ~5,860 |
-| One-Armed Bandit | 4.00% | ~5,860 |
-| Through Repetition, Perfection | 4.00% | ~5,860 |
+| Tinkle of Coins | 7.00% | ~10,256 |
+| Disintermediation | 6.00% | ~8,791 |
+| It's Free Real Estate | 6.00% | ~8,791 |
+| Capitalism Ho! | 6.00% | ~8,791 |
+| One Easy Payment | 5.00% | ~7,326 |
+| Some Assembly Required | 5.00% | ~7,326 |
+| Another Satisfied Customer | 5.00% | ~7,326 |
+| Budding Merchant | 5.00% | ~7,326 |
+| Own the Means of Production | 5.00% | ~7,326 |
+| The Daily Grind | 4.00% | ~5,861 |
+| Bounty Hunters | 4.00% | ~5,861 |
+| Pretty Penny | 4.00% | ~5,861 |
+| One-Armed Bandit | 4.00% | ~5,861 |
+| Through Repetition, Perfection | 4.00% | ~5,861 |
 | On the Path to Greatness | 3.00% | ~4,395 |
 | Ascended | 3.00% | ~4,395 |
 | Research & Development | 3.00% | ~4,395 |
 | Vanity, Verily | 3.00% | ~4,395 |
-| Bounty Hunters | 3.00% | ~4,395 |
 | Blank Page Syndrome | 3.00% | ~4,395 |
 | Demand for Supplies | 3.00% | ~4,395 |
 | Flooding the Market | 3.00% | ~4,395 |
 | Where it Hurts | 3.00% | ~4,395 |
 | Efficient Floor Space | 3.00% | ~4,395 |
+| Flawless Fusion | 3.00% | ~4,395 |
 | Gem Expert | 3.00% | ~4,395 |
 | Gild-Gotten Goods | 3.00% | ~4,395 |
 | Helping Hand | 3.00% | ~4,395 |
@@ -69,7 +70,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cranked up to 11 | 2.00% | ~2,930 |
 | Fit for a King | 2.00% | ~2,930 |
 | By Your Powers Combined... | 2.00% | ~2,930 |
-| Flawless Fusion | 2.00% | ~2,930 |
 | A Legend is Born | 2.00% | ~2,930 |
 | Trash to Treasure | 2.00% | ~2,930 |
 | Royal Ransom | 2.00% | ~2,930 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~586 |
 | Capitalist Camaraderie | 0.20% | ~293 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 146,507 (Ranked 81)  
-Completed: 325 (0.22%) (Ranked 266)  
+Progressed: 146,514 (Ranked 81)  
+Completed: 325 (0.22%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -363,11 +363,11 @@ Completed: 325 (0.22%) (Ranked 266)
 | 2023-12-17 | 146,136 | 322 |
 | 2023-12-18 | 146,265 | 322 |
 | 2023-12-19 | 146,428 | 325 |
-| 2023-12-20 | 146,507 | 325 |
+| 2023-12-20 | 146,514 | 325 |
 ## Awards
 Max (Great for Beginners): 4,900  (Ranked 75)  
-Sum: 27,768 (Ranked 51)  
-Diff (max vs sum): 24  
+Sum: 27,768 (Ranked 52)  
+Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,900 |

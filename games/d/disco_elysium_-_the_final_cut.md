@@ -1,27 +1,27 @@
 # Disco Elysium - The Final Cut
 [Store](https://store.epicgames.com/en-US/p/disco-elysium)  
 [View Rawdata](../../db/d/disco_elysium_-_the_final_cut.json)  
-Rating: 4.87 (Ranked 27)  
+Rating: 4.87 (Ranked 28)  
 Number of Ratings: 1,611  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~37,591 |
-| Biggest Communism Builder | 24.00% | ~32,221 |
-| The World's Most Laughable Centrist | 20.00% | ~26,851 |
-| Il Coppo Del'Arte! | 18.00% | ~24,166 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,480 |
-| Hyperstellar Law Official | 16.00% | ~21,480 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~18,795 |
-| Gurdi-Ball Is Lit | 14.00% | ~18,795 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~17,453 |
-| Truly Rabid *Traditionalist* | 11.00% | ~14,768 |
-| Unbelievably Boring **** | 9.00% | ~12,083 |
-| The Figurines Won't Win Her Back | 9.00% | ~12,083 |
-| Enemy Of The Physical Realm | 8.00% | ~10,740 |
-| Hardie's Heroes | 6.00% | ~8,055 |
-| The Lawbringer | 4.00% | ~5,370 |
-| Fairweather t-500 Vitreous Enamel | 4.00% | ~5,370 |
+| Goodest Of The Good Cops | 28.00% | ~37,595 |
+| Biggest Communism Builder | 24.00% | ~32,224 |
+| The World's Most Laughable Centrist | 20.00% | ~26,853 |
+| Il Coppo Del'Arte! | 18.00% | ~24,168 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,483 |
+| Hyperstellar Law Official | 16.00% | ~21,483 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~18,797 |
+| Gurdi-Ball Is Lit | 14.00% | ~18,797 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~17,455 |
+| Truly Rabid *Traditionalist* | 11.00% | ~14,769 |
+| Unbelievably Boring **** | 9.00% | ~12,084 |
+| The Figurines Won't Win Her Back | 9.00% | ~12,084 |
+| Enemy Of The Physical Realm | 8.00% | ~10,741 |
+| Hardie's Heroes | 6.00% | ~8,056 |
+| The Lawbringer | 4.00% | ~5,371 |
+| Fairweather t-500 Vitreous Enamel | 4.00% | ~5,371 |
 | The Opener Of The Eighth Seal | 3.00% | ~4,028 |
 | Bother Kim After Hours | 3.00% | ~4,028 |
 | Baddest Of the Bad Cops | 2.00% | ~2,685 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~134 |
 | What body? | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,253 (Ranked 84)  
+Progressed: 134,267 (Ranked 84)  
 Completed: 28 (0.02%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 28 (0.02%) (Ranked 353)
 | 2023-12-17 | 133,659 | 28 |
 | 2023-12-18 | 133,915 | 28 |
 | 2023-12-19 | 134,139 | 28 |
-| 2023-12-20 | 134,253 | 28 |
+| 2023-12-20 | 134,267 | 28 |
 ## Awards
 Max (Character Customization): 750  (Ranked 184)  
 Sum: 1,144 (Ranked 256)  

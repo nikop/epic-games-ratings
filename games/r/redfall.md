@@ -5,7 +5,7 @@ Rating: 3.57 (Ranked 1,062)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 9.00% | ~176 |
+| I Like My Stakes Rare! | 10.00% | ~196 |
 | Catch and Release | 7.00% | ~137 |
 | Home Is Where the Heart Is | 6.00% | ~117 |
 | ICU | 6.00% | ~117 |
@@ -14,10 +14,10 @@ Rating: 3.57 (Ranked 1,062)
 | Ne Plus Ultra | 5.00% | ~98 |
 | Fly Fisher | 5.00% | ~98 |
 | Peek-a-boo | 5.00% | ~98 |
-| Sucks To Be You | 5.00% | ~98 |
 | Enter of Your Own Free Will | 4.00% | ~78 |
 | Welcome to the Neighborhood | 4.00% | ~78 |
 | Throw The First Stone | 4.00% | ~78 |
+| Sucks To Be You | 4.00% | ~78 |
 | Heart Attack | 4.00% | ~78 |
 | Bad Wiring | 3.00% | ~59 |
 | Grounded | 3.00% | ~59 |
@@ -30,11 +30,11 @@ Rating: 3.57 (Ranked 1,062)
 | Bell-ringer | 1.00% | ~20 |
 | Silence Is Golden | 1.00% | ~20 |
 | Good Morning | 1.00% | ~20 |
+| You Clean It Up | 1.00% | ~20 |
 | From the Shadows | 1.00% | ~20 |
 | Starve the Beast | 1.00% | ~20 |
 | Harvest’s End | 1.00% | ~20 |
 | Helping Hand | 1.00% | ~20 |
-| You Clean It Up | 0.90% | ~18 |
 | Nice Try | 0.90% | ~18 |
 | Blacklight Down | 0.90% | ~18 |
 | Revelations | 0.80% | ~16 |
@@ -72,8 +72,8 @@ Rating: 3.57 (Ranked 1,062)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,955 (Ranked 235)  
-Completed: 0 (0.00%) (Ranked 385)  
+Progressed: 1,957 (Ranked 235)  
+Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -193,7 +193,7 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-17 | 1,914 | 0 |
 | 2023-12-18 | 1,930 | 0 |
 | 2023-12-19 | 1,947 | 0 |
-| 2023-12-20 | 1,955 | 0 |
+| 2023-12-20 | 1,957 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

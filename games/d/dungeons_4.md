@@ -46,8 +46,8 @@
 | Sabotage! | 25.00% | ~148 |
 | Brimstone Shaken, Not Stirred | 25.00% | ~148 |
 | Bonus Evilness | 24.00% | ~143 |
+| The Rune Sockets of Finitude (Part 1) | 24.00% | ~143 |
 | Raiders of the Lost Stone | 23.00% | ~137 |
-| The Rune Sockets of Finitude (Part 1) | 23.00% | ~137 |
 | The Rune Sockets of Finitude (Part 2) | 21.00% | ~125 |
 | Rubble and Ashes | 20.00% | ~119 |
 | The Last Stand - This Time For Real! | 20.00% | ~119 |

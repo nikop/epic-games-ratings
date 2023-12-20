@@ -5,18 +5,18 @@ Rating: 4.04 (Ranked 1,008)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,319 |
-| World Map | 78.00% | ~2,784 |
-| Temple of Eternals | 56.00% | ~1,999 |
-| Prestigious | 53.00% | ~1,892 |
-| Fellowship Power | 42.00% | ~1,499 |
+| Victor | 93.00% | ~3,322 |
+| World Map | 78.00% | ~2,786 |
+| Temple of Eternals | 56.00% | ~2,000 |
+| Prestigious | 53.00% | ~1,893 |
+| Fellowship Power | 42.00% | ~1,500 |
 | Full Party | 24.00% | ~857 |
-| Guild Power | 23.00% | ~821 |
-| Prestigious x10 | 21.00% | ~749 |
-| The game is on | 18.00% | ~642 |
-| Dragon Clicker | 16.00% | ~571 |
-| Exotic Merchant | 16.00% | ~571 |
-| Miner Clicker | 15.00% | ~535 |
+| Guild Power | 23.00% | ~822 |
+| Prestigious x10 | 21.00% | ~750 |
+| The game is on | 18.00% | ~643 |
+| Dragon Clicker | 16.00% | ~572 |
+| Exotic Merchant | 16.00% | ~572 |
+| Miner Clicker | 15.00% | ~536 |
 | Hero inspection | 14.00% | ~500 |
 | Inspection | 14.00% | ~500 |
 | Dragon Master | 13.00% | ~464 |
@@ -47,14 +47,14 @@ Rating: 4.04 (Ranked 1,008)
 | Dragon Slayer | 6.00% | ~214 |
 | The Expeditioner | 6.00% | ~214 |
 | Weekly Quest Completionist | 6.00% | ~214 |
-| Ancient Knowledge | 5.00% | ~178 |
-| Blueprint Upgrades | 5.00% | ~178 |
-| Enchanting skill | 5.00% | ~178 |
-| Engineer Mastery | 5.00% | ~178 |
-| How Do You Turn This On? | 5.00% | ~178 |
-| Lock And Load | 5.00% | ~178 |
-| Missions Dedication | 5.00% | ~178 |
-| Sailor | 5.00% | ~178 |
+| Ancient Knowledge | 5.00% | ~179 |
+| Blueprint Upgrades | 5.00% | ~179 |
+| Enchanting skill | 5.00% | ~179 |
+| Engineer Mastery | 5.00% | ~179 |
+| How Do You Turn This On? | 5.00% | ~179 |
+| Lock And Load | 5.00% | ~179 |
+| Missions Dedication | 5.00% | ~179 |
+| Sailor | 5.00% | ~179 |
 | Active Member | 4.00% | ~143 |
 | Arena Challenger | 4.00% | ~143 |
 | Background Story | 4.00% | ~143 |
@@ -81,7 +81,7 @@ Rating: 4.04 (Ranked 1,008)
 | Jewel Enchanting | 0.20% | ~7 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,569 (Ranked 212)  
+Progressed: 3,572 (Ranked 212)  
 Completed: 2 (0.06%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 2 (0.06%) (Ranked 326)
 | 2023-12-17 | 3,503 | 2 |
 | 2023-12-18 | 3,537 | 2 |
 | 2023-12-19 | 3,555 | 2 |
-| 2023-12-20 | 3,569 | 2 |
+| 2023-12-20 | 3,572 | 2 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 474)  
 Sum: 145 (Ranked 432)  

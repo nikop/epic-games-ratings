@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2018-03-07T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 187,
+  "EOS_Progressed": 189,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -619,6 +619,11 @@
       "Time": "2023-12-20T11:06:11.9577308+00:00",
       "NumProgressed": 187,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T14:05:24.9567062+00:00",
+      "NumProgressed": 189,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -639,7 +644,7 @@
       "Name": "Blabber",
       "Percentage": 48,
       "XP": 145,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ach3",
@@ -677,23 +682,23 @@
       "ID": "ach7",
       "SetID": "796kfpa",
       "Name": "Snail Racing Champion",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 145,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     }
   ],
   "AchievementSets": [
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 187,
+      "Progressed": 189,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2023-12-20T13:05:25.8046348+00:00",
+  "LastChanged_Achievements": "2023-12-20T14:05:24.9567056+00:00",
   "LastUpdate_AppInfo": "2023-12-13T18:57:12.2683005+00:00",
-  "LastUpdate_Ratings": "2023-12-20T12:59:26.7807203+00:00",
-  "LastUpdate_Achievements": "2023-12-20T13:05:25.8046452+00:00"
+  "LastUpdate_Ratings": "2023-12-20T13:59:31.740105+00:00",
+  "LastUpdate_Achievements": "2023-12-20T14:05:24.9567147+00:00"
 }

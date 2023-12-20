@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let the Adventure Begin! | 60.00% | ~24 |
-| Spirit of competition | 38.00% | ~15 |
-| Creature Evolution | 35.00% | ~14 |
-| Prized Possession | 35.00% | ~14 |
-| Think Positive | 25.00% | ~10 |
-| Kingdom Party Time | 25.00% | ~10 |
+| Let the Adventure Begin! | 61.00% | ~25 |
+| Spirit of competition | 37.00% | ~15 |
+| Prized Possession | 37.00% | ~15 |
+| Creature Evolution | 34.00% | ~14 |
+| Think Positive | 24.00% | ~10 |
+| Kingdom Party Time | 24.00% | ~10 |
 | Festival Fever | 20.00% | ~8 |
-| Entering New Territory | 18.00% | ~7 |
+| Entering New Territory | 17.00% | ~7 |
 | Just One More Go | 10.00% | ~4 |
 | Lecturer | 10.00% | ~4 |
-| Gotta Adopt Them All! | 8.00% | ~3 |
-| Landscaper | 8.00% | ~3 |
-| Dream Big | 8.00% | ~3 |
+| Gotta Adopt Them All! | 7.00% | ~3 |
+| Landscaper | 7.00% | ~3 |
+| Dream Big | 7.00% | ~3 |
 | Diamonds in the Rough | 5.00% | ~2 |
 | Neverending Story | 5.00% | ~2 |
 | Kindred Spirits | 5.00% | ~2 |
-| Protected Nature Reserve | 3.00% | ~1 |
-| Paving the Way | 3.00% | ~1 |
-| Fully Booked! | 3.00% | ~1 |
+| Protected Nature Reserve | 2.00% | ~1 |
+| Paving the Way | 2.00% | ~1 |
+| Fully Booked! | 2.00% | ~1 |
 | Kingdom Champions | 0.00% | ~0 |
 | Dream Team | 0.00% | ~0 |
 | S is for Sensational | 0.00% | ~0 |
@@ -30,8 +30,8 @@
 | Job Done! | 0.00% | ~0 |
 | Claim to Fame | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40 (Ranked 547)  
-Completed: 0 (0.00%) (Ranked 385)  
+Progressed: 41 (Ranked 546)  
+Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -70,7 +70,7 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-11-12 | 37 | 0 |
 | 2023-12-13 | 38 | 0 |
 | 2023-12-17 | 39 | 0 |
-| 2023-12-20 | 40 | 0 |
+| 2023-12-20 | 41 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

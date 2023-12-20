@@ -14,7 +14,7 @@
 | Sign of weakness | 35.00% | ~56 |
 | Refuse to look | 34.00% | ~55 |
 | Face your fears | 27.00% | ~43 |
-| Finished it | 26.00% | ~42 |
+| Finished it | 27.00% | ~43 |
 | Whispers long forgotten | 14.00% | ~23 |
 | A Slice of Life | 11.00% | ~18 |
 | Debut | 11.00% | ~18 |
@@ -58,7 +58,7 @@
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 161 (Ranked 417)  
-Completed: 0 (0.00%) (Ranked 385)  
+Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -1,7 +1,7 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.64 (Ranked 339)  
+Rating: 4.64 (Ranked 338)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -26,10 +26,10 @@ Rating: 4.64 (Ranked 339)
 | The Betrayer | 20.00% | ~208 |
 | Golem Chaser | 20.00% | ~208 |
 | Check Your Pulse | 19.00% | ~198 |
+| The Man Who Shattered Time | 18.00% | ~188 |
 | The Loose Cannon | 18.00% | ~188 |
 | The Family Fortune | 18.00% | ~188 |
 | Street Style | 17.00% | ~177 |
-| The Man Who Shattered Time | 17.00% | ~177 |
 | Whiz Kid | 14.00% | ~146 |
 | Cartographer | 14.00% | ~146 |
 | Treasure Trove | 13.00% | ~135 |

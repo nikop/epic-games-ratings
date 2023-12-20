@@ -5,8 +5,8 @@ Rating: 4.12 (Ranked 979)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 10.00% | ~4,450 |
-| Unlocked Potential | 10.00% | ~4,450 |
+| Attachments | 10.00% | ~4,451 |
+| Unlocked Potential | 10.00% | ~4,451 |
 | Tinkerer | 8.00% | ~3,560 |
 | Knock 'Em Dead | 7.00% | ~3,115 |
 | Pilgrimage: Initiate | 7.00% | ~3,115 |
@@ -34,32 +34,32 @@ Rating: 4.12 (Ranked 979)
 | None the Wiser | 1.00% | ~445 |
 | Forspoken | 1.00% | ~445 |
 | Pilgrimage: Novice | 1.00% | ~445 |
-| Wildfire | 0.70% | ~311 |
+| Wildfire | 0.70% | ~312 |
 | Awakening | 0.60% | ~267 |
 | Explorer: Trailblazer | 0.60% | ~267 |
 | Realized Potential | 0.60% | ~267 |
 | Through the Eyes of Another: Seer | 0.40% | ~178 |
-| Archivist | 0.30% | ~133 |
-| Craftsperson | 0.30% | ~133 |
-| Tit for Tat | 0.30% | ~133 |
-| Promises | 0.30% | ~133 |
+| Archivist | 0.30% | ~134 |
+| Craftsperson | 0.30% | ~134 |
+| Tit for Tat | 0.30% | ~134 |
+| Promises | 0.30% | ~134 |
 | Paragon | 0.20% | ~89 |
 | Pilgrimage: Adept | 0.20% | ~89 |
 | Call of the Fount: Beatified | 0.20% | ~89 |
 | I Can Fly! | 0.20% | ~89 |
 | A Roaring Trade | 0.20% | ~89 |
 | Rebirth | 0.20% | ~89 |
-| Abominizer | 0.10% | ~44 |
-| Through the Eyes of Another: Visionary | 0.10% | ~44 |
-| Kit and Caboodle | 0.10% | ~44 |
-| Above and Beyond | 0.10% | ~44 |
-| Happy Snapper | 0.10% | ~44 |
-| Barely There | 0.10% | ~44 |
-| Moves | 0.10% | ~44 |
-| Remembrance | 0.10% | ~44 |
-| Cat Person | 0.10% | ~44 |
+| Abominizer | 0.10% | ~45 |
+| Through the Eyes of Another: Visionary | 0.10% | ~45 |
+| Kit and Caboodle | 0.10% | ~45 |
+| Above and Beyond | 0.10% | ~45 |
+| Happy Snapper | 0.10% | ~45 |
+| Barely There | 0.10% | ~45 |
+| Moves | 0.10% | ~45 |
+| Remembrance | 0.10% | ~45 |
+| Cat Person | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,499 (Ranked 119)  
+Progressed: 44,506 (Ranked 119)  
 Completed: 3 (0.01%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 3 (0.01%) (Ranked 361)
 | 2023-12-17 | 44,267 | 3 |
 | 2023-12-18 | 44,366 | 3 |
 | 2023-12-19 | 44,445 | 3 |
-| 2023-12-20 | 44,499 | 3 |
+| 2023-12-20 | 44,506 | 3 |
 ## Awards
 Max (Character Customization): 32  (Ranked 502)  
 Sum: 32 (Ranked 522)  

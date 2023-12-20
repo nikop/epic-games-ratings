@@ -2,10 +2,10 @@
   "ID": "0acc28c619c44fbab3dd30c7f87e9679",
   "Name": "SpellForce: Conquest of Eo",
   "ProductSlug": "spellforce-conquest-of-eo",
-  "Ranking_EOS_Progress": 505,
-  "Ranking_EOS_Completed": 385,
+  "Ranking_EOS_Progress": 506,
+  "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 322,
-  "Ranking_EOS_NewCompleters": 161,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
     "PcReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -386,9 +386,9 @@
       "ID": "Capture_Own_Tower",
       "SetID": "7b9f97e",
       "Name": "Home Sweet Home",
-      "Percentage": 86,
+      "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Cast_First_Spell",
@@ -578,9 +578,9 @@
       "ID": "Landmark_CastleMeldec",
       "SetID": "7b9f97e",
       "Name": "Castle Meldec",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Landmark_CryptRevenant",
@@ -923,8 +923,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-12-20T13:09:15.1556238+00:00",
+  "LastChanged_Achievements": "2023-12-20T14:09:25.3730295+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:09.2965751+00:00",
-  "LastUpdate_Ratings": "2023-12-20T13:00:04.892041+00:00",
-  "LastUpdate_Achievements": "2023-12-20T13:09:15.155686+00:00"
+  "LastUpdate_Ratings": "2023-12-20T14:00:10.7412344+00:00",
+  "LastUpdate_Achievements": "2023-12-20T14:09:25.373074+00:00"
 }

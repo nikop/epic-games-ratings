@@ -7,14 +7,14 @@ Number of Ratings: 48  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Plenty More to Go | 86.00% | ~648 |
-| All Bark, No Bite | 75.00% | ~565 |
-| Hopeful Hunter | 65.00% | ~489 |
-| Amateur Adventurer | 63.00% | ~474 |
+| All Bark, No Bite | 75.00% | ~566 |
+| Hopeful Hunter | 65.00% | ~490 |
+| Amateur Adventurer | 63.00% | ~475 |
 | The Road to Recovery | 62.00% | ~467 |
 | Partners? | 60.00% | ~452 |
-| Magical Mineral Golem | 54.00% | ~407 |
-| On Outlander Lane | 53.00% | ~399 |
-| First Time Fishing | 50.00% | ~376 |
+| Magical Mineral Golem | 53.00% | ~400 |
+| On Outlander Lane | 53.00% | ~400 |
+| First Time Fishing | 50.00% | ~377 |
 | A Girl About the Town | 49.00% | ~369 |
 | First Time Hunting | 47.00% | ~354 |
 | Rune Wall Wreckage | 47.00% | ~354 |
@@ -28,7 +28,7 @@ Number of Ratings: 48  (23.09.2022)
 | The Great Forest...On Foot! | 35.00% | ~264 |
 | Adept, for an Acting Mayor | 34.00% | ~256 |
 | Money, Money, Money | 34.00% | ~256 |
-| Rune Wall Master | 33.00% | ~248 |
+| Rune Wall Master | 32.00% | ~241 |
 | The Quarry...On Foot! | 30.00% | ~226 |
 | The Runebarrows...On Foot! | 28.00% | ~211 |
 | The Snowpeak...On Foot! | 26.00% | ~196 |
@@ -40,7 +40,7 @@ Number of Ratings: 48  (23.09.2022)
 | This Treasure I've Found | 20.00% | ~151 |
 | New Nevaeh's Number One Customer | 20.00% | ~151 |
 | Arms Master | 18.00% | ~136 |
-| Rune Scholar | 16.00% | ~120 |
+| Rune Scholar | 16.00% | ~121 |
 | No Treasure Left Behind | 13.00% | ~98 |
 | Sommelier | 12.00% | ~90 |
 | One-Hundred Resident Record | 11.00% | ~83 |
@@ -57,8 +57,8 @@ Number of Ratings: 48  (23.09.2022)
 | Full Force - Isha | 8.00% | ~60 |
 | Rising Champion | 7.00% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 753 (Ranked 294)  
-Completed: 60 (7.97%) (Ranked 50)  
+Progressed: 754 (Ranked 294)  
+Completed: 60 (7.96%) (Ranked 50)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -110,7 +110,7 @@ Completed: 60 (7.97%) (Ranked 50)
 | 2023-12-16 | 741 | 60 |
 | 2023-12-17 | 746 | 60 |
 | 2023-12-18 | 752 | 60 |
-| 2023-12-20 | 753 | 60 |
+| 2023-12-20 | 754 | 60 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

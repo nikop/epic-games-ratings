@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Black Hog Down | 55.00% | ~24 |
-| Remembering of the past | 34.00% | ~15 |
-| Ouch, that hurt! | 27.00% | ~12 |
+| Black Hog Down | 57.00% | ~25 |
+| Remembering of the past | 36.00% | ~16 |
+| Ouch, that hurt! | 30.00% | ~13 |
 | Fight like an idiot | 25.00% | ~11 |
 | Slam-KABAM | 20.00% | ~9 |
 | Repair the Mind Validation Machine | 18.00% | ~8 |
@@ -24,7 +24,7 @@
 | Memory Completionist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 44 (Ranked 537)  
-Completed: 0 (0.00%) (Ranked 385)  
+Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

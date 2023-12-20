@@ -2,10 +2,10 @@
   "ID": "0113dd49216f4f2d995ef9a6eebd67f4",
   "Name": "Stray Gods: The Roleplaying Musical",
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
-  "Ranking_EOS_Progress": 428,
-  "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 290,
-  "Ranking_EOS_NewCompleters": 161,
+  "Ranking_EOS_Progress": 426,
+  "Ranking_EOS_Completed": 384,
+  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 138,
+  "EOS_Progressed": 139,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -639,6 +639,11 @@
       "Time": "2023-12-19T20:09:12.5358741+00:00",
       "NumProgressed": 138,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-20T14:09:00.6924444+00:00",
+      "NumProgressed": 139,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -667,7 +672,7 @@
       "Name": "Against All Odds",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "SG_ALLTHEHELPYOUNEED",
@@ -723,7 +728,7 @@
       "Name": "End Of The Road",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -747,7 +752,7 @@
       "Name": "God Of The Sun",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "SG_HEARTBREAKER",
@@ -755,7 +760,7 @@
       "Name": "Heartbreaker",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "SG_LIKEHEROESBEFOREYOU",
@@ -787,7 +792,7 @@
       "Name": "Meant To Be",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "SG_MYTIMETOSHINE",
@@ -801,7 +806,7 @@
       "ID": "SG_NOTALOSTGIRL",
       "SetID": "bj5g0n4",
       "Name": "Not A Lost Girl",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
       "UsersEstimate": 63
     },
@@ -843,7 +848,7 @@
       "Name": "Snake Charmer",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "SG_TALKTOTHEHAND",
@@ -946,14 +951,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 138,
+      "Progressed": 139,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-12-20T13:08:51.1914227+00:00",
+  "LastChanged_Achievements": "2023-12-20T14:09:00.6924439+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:06.0565697+00:00",
-  "LastUpdate_Ratings": "2023-12-20T13:00:11.0540075+00:00",
-  "LastUpdate_Achievements": "2023-12-20T13:08:51.1914499+00:00"
+  "LastUpdate_Ratings": "2023-12-20T14:00:17.0838963+00:00",
+  "LastUpdate_Achievements": "2023-12-20T14:09:00.6924653+00:00"
 }

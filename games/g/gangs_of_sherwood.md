@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Act of Kindness | 86.00% | ~75 |
+| Act of Kindness | 87.00% | ~76 |
 | Air Fighter | 75.00% | ~65 |
 | Oo-De-Lally | 69.00% | ~60 |
 | The Altruist | 67.00% | ~58 |
@@ -59,7 +59,7 @@
 | Master of All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 87 (Ranked 475)  
-Completed: 0 (0.00%) (Ranked 385)  
+Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

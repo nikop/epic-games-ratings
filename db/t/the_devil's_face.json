@@ -4,8 +4,8 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 390,
-  "Ranking_EOS_NewCompleters": 161,
+  "Ranking_EOS_NewPlayers": 383,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 591,
+  "EOS_Progressed": 592,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.18,
   "EosHistory": [
@@ -2579,6 +2579,11 @@
       "Time": "2023-12-20T08:03:35.3683251+00:00",
       "NumProgressed": 591,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-20T14:04:09.8652125+00:00",
+      "NumProgressed": 592,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 14,
@@ -2614,7 +2619,7 @@
       "Name": "The choice",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -2638,7 +2643,7 @@
       "Name": "The path to enlightenment",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -2701,14 +2706,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 591,
+      "Progressed": 592,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-12-20T13:04:10.6273466+00:00",
+  "LastChanged_Achievements": "2023-12-20T14:04:09.8652123+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:57:05.7189556+00:00",
-  "LastUpdate_Ratings": "2023-12-20T12:57:36.4722736+00:00",
-  "LastUpdate_Achievements": "2023-12-20T13:04:10.6273692+00:00"
+  "LastUpdate_Ratings": "2023-12-20T13:57:38.0376811+00:00",
+  "LastUpdate_Achievements": "2023-12-20T14:04:09.8652271+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 161,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -927,9 +927,9 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 94
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -1102,8 +1102,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-20T13:08:27.2913425+00:00",
+  "LastChanged_Achievements": "2023-12-20T14:08:36.1120736+00:00",
   "LastUpdate_AppInfo": "2023-12-19T20:57:15.8211494+00:00",
-  "LastUpdate_Ratings": "2023-12-20T13:00:10.7714885+00:00",
-  "LastUpdate_Achievements": "2023-12-20T13:08:27.2913765+00:00"
+  "LastUpdate_Ratings": "2023-12-20T14:00:16.8094399+00:00",
+  "LastUpdate_Achievements": "2023-12-20T14:08:36.1121087+00:00"
 }

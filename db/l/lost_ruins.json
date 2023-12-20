@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 161,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 567,
+  "EOS_Progressed": 568,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1379,6 +1379,11 @@
       "Time": "2023-12-20T12:10:46.8148212+00:00",
       "NumProgressed": 567,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-20T14:10:13.8350405+00:00",
+      "NumProgressed": 568,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1470,7 +1475,7 @@
       "Name": "Goblin Tales",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "Hardboiled",
@@ -1654,7 +1659,7 @@
       "Name": "The Fallen",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "TheTrio",
@@ -1709,7 +1714,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 567,
+      "Progressed": 568,
       "Completed": 1
     }
   ],
@@ -1717,8 +1722,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-20T13:10:02.4616481+00:00",
+  "LastChanged_Achievements": "2023-12-20T14:10:13.8350397+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:31.304442+00:00",
-  "LastUpdate_Ratings": "2023-12-20T13:00:01.9945718+00:00",
-  "LastUpdate_Achievements": "2023-12-20T13:10:02.4616829+00:00"
+  "LastUpdate_Ratings": "2023-12-20T14:00:07.936637+00:00",
+  "LastUpdate_Achievements": "2023-12-20T14:10:13.8350675+00:00"
 }
