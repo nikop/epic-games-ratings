@@ -47,7 +47,7 @@
 | 44 | [Smelter](games/s/smelter.md) | 9.30% |
 | 46 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.19% |
 | 47 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 8.94% |
-| 48 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.87% |
+| 48 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.84% |
 | 49 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 8.33% |
 | 50 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.96% |
 | 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.73% |
@@ -190,22 +190,22 @@
 | 187 | [Five Dates](games/f/five_dates.md) | 0.81% |
 | 189 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.78% |
 | 189 | [Infindustry](games/i/infindustry.md) | 0.78% |
-| 189 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.78% |
+| 191 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.77% |
 | 192 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
 | 193 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.72% |
 | 194 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.69% |
 | 195 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.64% |
 | 196 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.63% |
-| 197 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.61% |
+| 197 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.62% |
 | 198 | [Haven](games/h/haven.md) | 0.59% |
 | 199 | [Grindstone](games/g/grindstone.md) | 0.58% |
 | 199 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.58% |
 | 201 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.57% |
-| 201 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 0.57% |
 | 201 | [Potion Permit](games/p/potion_permit.md) | 0.57% |
-| 204 | [Aragami 2](games/a/aragami_2.md) | 0.56% |
-| 204 | [Scrapnaut](games/s/scrapnaut.md) | 0.56% |
-| 204 | [The Surge 2](games/t/the_surge_2.md) | 0.56% |
+| 203 | [Aragami 2](games/a/aragami_2.md) | 0.56% |
+| 203 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 0.56% |
+| 203 | [Scrapnaut](games/s/scrapnaut.md) | 0.56% |
+| 203 | [The Surge 2](games/t/the_surge_2.md) | 0.56% |
 | 207 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.55% |
 | 208 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.54% |
 | 208 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 0.54% |
@@ -231,10 +231,10 @@
 | 229 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.40% |
 | 229 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.40% |
 | 231 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.39% |
-| 232 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.38% |
 | 232 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
 | 232 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.38% |
-| 235 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.37% |
+| 234 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.37% |
+| 234 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.37% |
 | 236 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.36% |
 | 236 | [The Surge](games/t/the_surge.md) | 0.36% |
 | 238 | [Eternights](games/e/eternights.md) | 0.35% |

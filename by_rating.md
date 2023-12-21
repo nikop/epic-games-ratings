@@ -90,6 +90,7 @@
 | 85 | [The Messenger](games/t/the_messenger.md) | 4.81 | 346 | 245 |
 | 85 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 569 |
 | 90 | [Aground](games/a/aground.md) | 4.80 | 0 | 569 |
+| 90 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.80 | 509 | 215 |
 | 90 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,486 | 60 |
 | 90 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 4.80 | 81 | 396 |
 | 90 | [Huntdown](games/h/huntdown.md) | 4.80 | 0 | 569 |
@@ -99,16 +100,15 @@
 | 90 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 107 | 360 |
 | 90 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 4.80 | 0 | 569 |
 | 90 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 569 |
-| 100 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.79 | 509 | 215 |
-| 100 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,603 | 129 |
-| 100 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 698 | 190 |
-| 100 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 170 | 313 |
-| 100 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 569 |
-| 100 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 1,227 | 142 |
-| 100 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 833 | 173 |
-| 100 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 412 | 233 |
-| 100 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 128 | 341 |
-| 100 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.79 | 49 | 446 |
+| 101 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,603 | 129 |
+| 101 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 698 | 190 |
+| 101 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 170 | 313 |
+| 101 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 569 |
+| 101 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 1,227 | 142 |
+| 101 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 833 | 173 |
+| 101 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 412 | 233 |
+| 101 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 128 | 341 |
+| 101 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.79 | 49 | 446 |
 | 110 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.78 | 53 | 434 |
 | 110 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.78 | 0 | 569 |
 | 110 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 8,557 | 45 |
@@ -388,7 +388,7 @@
 | 374 | [Operation: Tango](games/o/operation__tango.md) | 4.62 | 0 | 569 |
 | 374 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 569 |
 | 374 | [Partisans 1941](games/p/partisans_1941.md) | 4.62 | 0 | 569 |
-| 374 | [Path of Exile](games/p/path_of_exile.md) | 4.62 | 2,762 | 102 |
+| 374 | [Path of Exile](games/p/path_of_exile.md) | 4.62 | 2,766 | 102 |
 | 374 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.62 | 294 | 257 |
 | 374 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.62 | 61 | 421 |
 | 374 | [Ticket To Ride: Classic Edition](games/t/ticket_to_ride.md) | 4.62 | 76 | 401 |
@@ -560,7 +560,7 @@
 | 551 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 4.53 | 1,921 | 118 |
 | 551 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.53 | 0 | 569 |
 | 551 | [Sable](games/s/sable.md) | 4.53 | 29 | 511 |
-| 551 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.53 | 530 | 211 |
+| 551 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.53 | 532 | 211 |
 | 551 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 4.53 | 0 | 569 |
 | 551 | [The Medium](games/t/the_medium.md) | 4.53 | 0 | 569 |
 | 551 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 569 |
@@ -881,7 +881,7 @@
 | 878 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.27 | 0 | 569 |
 | 878 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.27 | 3,894 | 88 |
 | 878 | [Mortal Shell](games/m/mortal_shell.md) | 4.27 | 20 | 564 |
-| 878 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,820 | 101 |
+| 878 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,822 | 101 |
 | 878 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.27 | 0 | 569 |
 | 878 | [Wreckfest](games/w/wreckfest.md) | 4.27 | 0 | 569 |
 | 885 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.26 | 0 | 569 |
