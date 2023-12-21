@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 46,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 299,
   "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2786,
+  "EOS_Progressed": 2787,
   "EOS_Completed": 256,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 9.19,
   "EosHistory": [
@@ -7906,6 +7906,11 @@
       "Time": "2023-12-21T02:30:03.7917803+00:00",
       "NumProgressed": 2786,
       "NumCompleted": 256
+    },
+    {
+      "Time": "2023-12-21T11:08:55.8416976+00:00",
+      "NumProgressed": 2787,
+      "NumCompleted": 256
     }
   ],
   "TotalAchievements": 12,
@@ -7941,7 +7946,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "Jacques a Dit",
@@ -7981,7 +7986,7 @@
       "Name": "Little Helper",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -7997,7 +8002,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "Nuremberg Laws",
@@ -8012,7 +8017,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2786,
+      "Progressed": 2787,
       "Completed": 256
     }
   ],
@@ -8020,8 +8025,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-12-21T10:08:58.4246751+00:00",
+  "LastChanged_Achievements": "2023-12-21T11:08:55.8416973+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:21.9699753+00:00",
-  "LastUpdate_Ratings": "2023-12-21T10:00:05.2480515+00:00",
-  "LastUpdate_Achievements": "2023-12-21T10:08:58.4247207+00:00"
+  "LastUpdate_Ratings": "2023-12-21T10:59:52.5614091+00:00",
+  "LastUpdate_Achievements": "2023-12-21T11:08:55.8417417+00:00"
 }

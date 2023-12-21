@@ -1545,9 +1545,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 243798,
+  "EOS_Progressed": 243805,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1135,
+  "EOS_NewPlayers": 1139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23095,6 +23095,11 @@
       "Time": "2023-12-21T10:09:48.4017988+00:00",
       "NumProgressed": 243798,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-21T11:09:46.1353558+00:00",
+      "NumProgressed": 243805,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -23554,7 +23559,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 87767
+      "UsersEstimate": 87770
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -23809,21 +23814,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 243798,
+      "Progressed": 243805,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 243798,
+      "Progressed": 243805,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-12-20T20:02:43.3780941+00:00",
-  "LastChanged_Achievements": "2023-12-21T10:09:48.4017985+00:00",
+  "LastChanged_Achievements": "2023-12-21T11:09:46.1353554+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:08.5726178+00:00",
-  "LastUpdate_Ratings": "2023-12-21T09:57:19.7914353+00:00",
-  "LastUpdate_Achievements": "2023-12-21T10:09:48.4019495+00:00"
+  "LastUpdate_Ratings": "2023-12-21T10:57:08.4708127+00:00",
+  "LastUpdate_Achievements": "2023-12-21T11:09:46.1355441+00:00"
 }

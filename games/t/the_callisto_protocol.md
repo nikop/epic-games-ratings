@@ -5,14 +5,14 @@ Rating: 4.20 (Ranked 933)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 14.00% | ~2,569 |
-| Get a Grip | 14.00% | ~2,569 |
-| The Outer Way | 14.00% | ~2,569 |
+| Flesh Wound | 14.00% | ~2,570 |
+| Get a Grip | 14.00% | ~2,570 |
+| The Outer Way | 14.00% | ~2,570 |
 | Paper Jams | 13.00% | ~2,386 |
 | Desperate Times | 13.00% | ~2,386 |
-| Chew 'Em Up | 11.00% | ~2,018 |
-| Float Like A Butterfly | 11.00% | ~2,018 |
-| Reforged | 10.00% | ~1,835 |
+| Chew 'Em Up | 11.00% | ~2,019 |
+| Float Like A Butterfly | 11.00% | ~2,019 |
+| Reforged | 10.00% | ~1,836 |
 | Workplace Hazard | 9.00% | ~1,652 |
 | If the SHU Fits... | 9.00% | ~1,652 |
 | Without A Paddle | 8.00% | ~1,468 |
@@ -28,12 +28,12 @@ Rating: 4.20 (Ranked 933)
 | Giving Back | 5.00% | ~918 |
 | I Do Belong Here | 5.00% | ~918 |
 | It's Time | 4.00% | ~251 |
-| In Striking Distance | 3.00% | ~550 |
-| The Commonality | 3.00% | ~550 |
+| In Striking Distance | 3.00% | ~551 |
+| The Commonality | 3.00% | ~551 |
 | One Last Job | 2.00% | ~126 |
 | Big Spender | 1.00% | ~63 |
 | This Isn't About Escape | 1.00% | ~63 |
-| Armed to the Teeth | 0.90% | ~56 |
+| Armed to the Teeth | 0.90% | ~57 |
 | Mugshot | 0.90% | ~165 |
 | Grim Reaper | 0.80% | ~147 |
 | Parole Denied | 0.80% | ~50 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 933)
 | Bear Trap | 0.10% | ~6 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,350 (Ranked 149)  
+Progressed: 18,355 (Ranked 149)  
 Completed: 82 (0.45%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 82 (0.45%) (Ranked 223)
 | 2023-12-18 | 17,946 | 82 |
 | 2023-12-19 | 18,137 | 82 |
 | 2023-12-20 | 18,301 | 82 |
-| 2023-12-21 | 18,350 | 82 |
+| 2023-12-21 | 18,355 | 82 |
 ## Awards
 Max (Amazing Characters): 91  (Ranked 386)  
 Sum: 538 (Ranked 326)  

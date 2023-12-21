@@ -722,9 +722,9 @@
       "ID": "Achievement4",
       "SetID": "9fa3l5n",
       "Name": "The Tomb of Kih-Oskh",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Achievement5",
@@ -777,8 +777,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2023-12-21T10:03:42.9494265+00:00",
+  "LastChanged_Achievements": "2023-12-21T11:03:40.4049687+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:55.8592774+00:00",
-  "LastUpdate_Ratings": "2023-12-21T09:57:51.3702788+00:00",
-  "LastUpdate_Achievements": "2023-12-21T10:03:42.9494678+00:00"
+  "LastUpdate_Ratings": "2023-12-21T10:57:38.2672081+00:00",
+  "LastUpdate_Achievements": "2023-12-21T11:03:40.4049938+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "a4b249bd941143158a5f428d2b98d2e9",
   "Name": "Clash - Artifacts of Chaos",
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
-  "Ranking_EOS_Progress": 441,
+  "Ranking_EOS_Progress": 439,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 130,
+  "EOS_Progressed": 131,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.77,
+  "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:21.1984631+00:00",
@@ -391,6 +391,11 @@
       "Time": "2023-12-21T10:09:53.4329302+00:00",
       "NumProgressed": 130,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T11:09:51.5869977+00:00",
+      "NumProgressed": 131,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 21,
@@ -410,7 +415,7 @@
       "Name": "The Pride of Moozhaw",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Achievement11",
@@ -418,7 +423,7 @@
       "Name": "Your Training Continues",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Achievement12",
@@ -426,15 +431,15 @@
       "Name": "Your Training Is Complete",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Achievement13",
       "SetID": "jf6ho5",
       "Name": "Armor Collector",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "Achievement14",
@@ -466,7 +471,7 @@
       "Name": "Declawing",
       "Percentage": 65,
       "XP": 35,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "Achievement18",
@@ -488,17 +493,17 @@
       "ID": "Achievement2",
       "SetID": "jf6ho5",
       "Name": "Winner",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 35,
-      "UsersEstimate": 29
+      "UsersEstimate": 28
     },
     {
       "ID": "Achievement20",
       "SetID": "jf6ho5",
       "Name": "Amokuali Tower",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 31
     },
     {
       "ID": "Achievement21",
@@ -569,7 +574,7 @@
     {
       "ID": "jf6ho5",
       "IsBase": true,
-      "Progressed": 130,
+      "Progressed": 131,
       "Completed": 1
     }
   ],
@@ -577,8 +582,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-12-21T10:09:53.4329298+00:00",
+  "LastChanged_Achievements": "2023-12-21T11:09:51.5869974+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:10.316662+00:00",
-  "LastUpdate_Ratings": "2023-12-21T09:58:23.37765+00:00",
-  "LastUpdate_Achievements": "2023-12-21T10:09:53.4329411+00:00"
+  "LastUpdate_Ratings": "2023-12-21T10:58:10.3994241+00:00",
+  "LastUpdate_Achievements": "2023-12-21T11:09:51.5870114+00:00"
 }

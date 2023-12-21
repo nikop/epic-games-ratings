@@ -2,7 +2,7 @@
   "ID": "9df61912ce644d8096412ba0f516759a",
   "Name": "Layers of Fear",
   "ProductSlug": "layers-of-fears-85a02b",
-  "Ranking_EOS_Progress": 418,
+  "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 158,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 165,
+  "EOS_Progressed": 166,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -764,6 +764,11 @@
       "Time": "2023-12-21T09:04:43.4384529+00:00",
       "NumProgressed": 165,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T11:04:19.2892553+00:00",
+      "NumProgressed": 166,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -854,9 +859,9 @@
       "ID": "covered_up_for_a_reason",
       "SetID": "f2im8d",
       "Name": "It\u0027s covered up for a reason",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 76
     },
     {
       "ID": "decrypt_one_myth",
@@ -888,7 +893,7 @@
       "Name": "Do what you have to",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "earn_all_trophies",
@@ -936,7 +941,7 @@
       "Name": "A Slice of Life",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "find_one_poster",
@@ -952,7 +957,7 @@
       "Name": "The artist\u2019s impression",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "finished_it",
@@ -984,7 +989,7 @@
       "Name": "Sound Bite",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "heavy_burden",
@@ -1056,7 +1061,7 @@
       "Name": "Playtime",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "preferred_parent",
@@ -1104,7 +1109,7 @@
       "Name": "Sign of weakness",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "something_important",
@@ -1144,7 +1149,7 @@
       "Name": "The tragedy unfolds",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "tough_conversation",
@@ -1152,7 +1157,7 @@
       "Name": "Tough conversation",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "true_reflection",
@@ -1176,7 +1181,7 @@
       "Name": "Wanderer",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1191,14 +1196,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 165,
+      "Progressed": 166,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-21T10:04:21.1127698+00:00",
+  "LastChanged_Achievements": "2023-12-21T11:04:19.2892546+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:26.5525701+00:00",
-  "LastUpdate_Ratings": "2023-12-21T09:58:51.0660779+00:00",
-  "LastUpdate_Achievements": "2023-12-21T10:04:21.1128034+00:00"
+  "LastUpdate_Ratings": "2023-12-21T10:58:38.9724466+00:00",
+  "LastUpdate_Achievements": "2023-12-21T11:04:19.2892893+00:00"
 }

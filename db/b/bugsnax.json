@@ -3,7 +3,7 @@
   "Name": "Bugsnax",
   "ProductSlug": "bugsnax",
   "Ranking_Rating": 34,
-  "Ranking_Popularity": 459,
+  "Ranking_Popularity": 460,
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 77,
@@ -956,9 +956,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 28869,
+  "EOS_Progressed": 28870,
   "EOS_Completed": 1403,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 4.86,
   "EosHistory": [
@@ -8036,6 +8036,11 @@
       "Time": "2023-12-21T10:09:27.5939371+00:00",
       "NumProgressed": 28869,
       "NumCompleted": 1403
+    },
+    {
+      "Time": "2023-12-21T11:09:25.3300866+00:00",
+      "NumProgressed": 28870,
+      "NumCompleted": 1403
     }
   ],
   "TotalAchievements": 30,
@@ -8047,7 +8052,7 @@
       "Name": "Survivor",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 12991
+      "UsersEstimate": 12992
     },
     {
       "ID": "ACH_ALL_TRANSFORM",
@@ -8063,7 +8068,7 @@
       "Name": "Film Buff",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 10970
+      "UsersEstimate": 10971
     },
     {
       "ID": "ACH_BALL_TRIP",
@@ -8111,7 +8116,7 @@
       "Name": "Got to Catch a Few",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 22229
+      "UsersEstimate": 22230
     },
     {
       "ID": "ACH_CHEESE_SCAN",
@@ -8127,7 +8132,7 @@
       "Name": "Combo Meal",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 10970
+      "UsersEstimate": 10971
     },
     {
       "ID": "ACH_DONATE",
@@ -8143,7 +8148,7 @@
       "Name": "Everybody Gets One",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 28003
+      "UsersEstimate": 28004
     },
     {
       "ID": "ACH_FULL_TRANSFORM",
@@ -8183,7 +8188,7 @@
       "Name": "Talkin\u0027 \u0027Bout Bugsnax",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 17610
+      "UsersEstimate": 17611
     },
     {
       "ID": "ACH_LAUNCH",
@@ -8239,7 +8244,7 @@
       "Name": "Gone Home",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 26848
+      "UsersEstimate": 26849
     },
     {
       "ID": "ACH_STEAL_DIARY",
@@ -8247,7 +8252,7 @@
       "Name": "Perf Dirt",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 16455
+      "UsersEstimate": 16456
     },
     {
       "ID": "ACH_SUNDAE",
@@ -8279,22 +8284,22 @@
       "Name": "Wonderfalls",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 25116
+      "UsersEstimate": 25117
     }
   ],
   "AchievementSets": [
     {
       "ID": "2m0copd",
       "IsBase": true,
-      "Progressed": 28869,
+      "Progressed": 28870,
       "Completed": 1403
     }
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
   "LastChanged": "2023-12-16T21:57:50.1602353+00:00",
-  "LastChanged_Achievements": "2023-12-21T10:09:27.5939366+00:00",
+  "LastChanged_Achievements": "2023-12-21T11:09:25.3300863+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:22.6495226+00:00",
-  "LastUpdate_Ratings": "2023-12-21T10:00:09.5473614+00:00",
-  "LastUpdate_Achievements": "2023-12-21T10:09:27.5939944+00:00"
+  "LastUpdate_Ratings": "2023-12-21T10:59:56.9440469+00:00",
+  "LastUpdate_Achievements": "2023-12-21T11:09:25.3301433+00:00"
 }

@@ -5,36 +5,36 @@ Rating: 4.51 (Ranked 581)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~174,711 |
-| FIRST BLOOD | 40.00% | ~155,298 |
-| KEVIN! | 30.00% | ~116,474 |
-| JACK OF ALL TRADES | 23.00% | ~89,297 |
-| CRIMINAL | 20.00% | ~77,649 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~42,707 |
-| WITHOUT BREAKING A SWEAT | 9.00% | ~34,942 |
-| HONORS STUDENT | 8.00% | ~31,060 |
-| BUTCHER | 6.00% | ~23,295 |
-| INDIVIDUAL APPROACH | 5.00% | ~19,412 |
-| RAMBO | 5.00% | ~19,412 |
-| HELL'S KITCHEN | 4.00% | ~15,530 |
-| CELEBRITY | 3.00% | ~11,647 |
-| MARTYR | 3.00% | ~11,647 |
+| MASTER CHEF | 45.00% | ~174,723 |
+| FIRST BLOOD | 40.00% | ~155,309 |
+| KEVIN! | 30.00% | ~116,482 |
+| JACK OF ALL TRADES | 23.00% | ~89,303 |
+| CRIMINAL | 20.00% | ~77,655 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~42,710 |
+| WITHOUT BREAKING A SWEAT | 9.00% | ~34,945 |
+| HONORS STUDENT | 8.00% | ~31,062 |
+| BUTCHER | 6.00% | ~23,296 |
+| INDIVIDUAL APPROACH | 5.00% | ~19,414 |
+| RAMBO | 5.00% | ~19,414 |
+| HELL'S KITCHEN | 4.00% | ~15,531 |
+| CELEBRITY | 3.00% | ~11,648 |
+| MARTYR | 3.00% | ~11,648 |
 | GRATITUDE | 2.00% | ~7,765 |
 | PATTY-KILLER | 2.00% | ~7,765 |
-| EXPERIMENTALIST | 1.00% | ~3,882 |
-| GOURMET | 1.00% | ~3,882 |
-| LAW-ABIDING CITIZEN | 1.00% | ~3,882 |
-| PRUDENT | 1.00% | ~3,882 |
+| EXPERIMENTALIST | 1.00% | ~3,883 |
+| GOURMET | 1.00% | ~3,883 |
+| LAW-ABIDING CITIZEN | 1.00% | ~3,883 |
+| PRUDENT | 1.00% | ~3,883 |
 | SCATTERBRAIN | 0.80% | ~3,106 |
 | HIGH TECHNOLOGIES | 0.70% | ~2,718 |
 | TASTE UNTASTY | 0.50% | ~1,941 |
-| DEBTOR | 0.20% | ~776 |
-| I'VE SEEN SOME… | 0.20% | ~776 |
+| DEBTOR | 0.20% | ~777 |
+| I'VE SEEN SOME… | 0.20% | ~777 |
 | CORRUPTIONIST | 0.10% | ~388 |
 | MISTER ALL THUMBS | 0.10% | ~388 |
 | TRAVELER | 0.10% | ~388 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 388,246 (Ranked 47)  
+Progressed: 388,273 (Ranked 47)  
 Completed: 53 (0.01%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 53 (0.01%) (Ranked 361)
 | 2023-12-18 | 387,178 | 51 |
 | 2023-12-19 | 387,586 | 52 |
 | 2023-12-20 | 388,049 | 52 |
-| 2023-12-21 | 388,246 | 53 |
+| 2023-12-21 | 388,273 | 53 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

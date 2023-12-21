@@ -5,43 +5,43 @@ Rating: 4.56 (Ranked 498)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 12.00% | ~11,700 |
-| I've Had Enough! | 10.00% | ~9,750 |
-| Fists, Fury & a lot of Rage | 7.00% | ~6,825 |
-| All For One and One For All | 6.00% | ~5,850 |
-| Seasoned Fighter | 6.00% | ~5,850 |
-| Home Sweet Home? | 4.00% | ~3,900 |
-| A New Age | 3.00% | ~2,925 |
-| Oh Baby, A Triple | 2.00% | ~1,950 |
-| Master of Disguise | 2.00% | ~1,950 |
-| Symbiotic | 2.00% | ~1,950 |
-| Battle Hardened | 1.00% | ~975 |
-| Double Punch! | 1.00% | ~975 |
-| It's Mayhem! | 1.00% | ~975 |
-| Right back at'cha | 1.00% | ~975 |
-| Spectacular Finisher | 1.00% | ~975 |
-| Martyrdom | 0.90% | ~877 |
-| Cautious Veteran | 0.80% | ~780 |
-| Zero-sum Game | 0.70% | ~682 |
-| Katamari | 0.60% | ~585 |
-| Ninja Reflex | 0.60% | ~585 |
-| Taste Your Own Medicine | 0.50% | ~487 |
-| Eye of the Titan | 0.30% | ~292 |
-| Just Getting Warmed Up | 0.30% | ~292 |
-| This is GigaBash! | 0.30% | ~292 |
-| Sidetracked... | 0.30% | ~292 |
-| Top of the Food Chain | 0.30% | ~292 |
-| 5 Stages of Grief | 0.10% | ~97 |
-| Bastion of Humanity | 0.10% | ~97 |
-| Keeper of Knowledge | 0.10% | ~97 |
-| Let Them Fight | 0.10% | ~97 |
-| Apex Mode | 0.10% | ~97 |
-| Apocalypse Mode | 0.10% | ~97 |
-| Watchful Sentinel | 0.10% | ~97 |
-| What's Mine is Yours | 0.10% | ~97 |
+| All Grown Up! | 12.00% | ~11,710 |
+| I've Had Enough! | 10.00% | ~9,759 |
+| Fists, Fury & a lot of Rage | 7.00% | ~6,831 |
+| All For One and One For All | 6.00% | ~5,855 |
+| Seasoned Fighter | 6.00% | ~5,855 |
+| Home Sweet Home? | 4.00% | ~3,903 |
+| A New Age | 3.00% | ~2,928 |
+| Oh Baby, A Triple | 2.00% | ~1,952 |
+| Master of Disguise | 2.00% | ~1,952 |
+| Symbiotic | 2.00% | ~1,952 |
+| Battle Hardened | 1.00% | ~976 |
+| Double Punch! | 1.00% | ~976 |
+| It's Mayhem! | 1.00% | ~976 |
+| Right back at'cha | 1.00% | ~976 |
+| Spectacular Finisher | 1.00% | ~976 |
+| Martyrdom | 0.90% | ~878 |
+| Cautious Veteran | 0.80% | ~781 |
+| Zero-sum Game | 0.70% | ~683 |
+| Katamari | 0.60% | ~586 |
+| Ninja Reflex | 0.60% | ~586 |
+| Taste Your Own Medicine | 0.50% | ~488 |
+| Eye of the Titan | 0.30% | ~293 |
+| Just Getting Warmed Up | 0.30% | ~293 |
+| This is GigaBash! | 0.30% | ~293 |
+| Sidetracked... | 0.30% | ~293 |
+| Top of the Food Chain | 0.30% | ~293 |
+| 5 Stages of Grief | 0.10% | ~98 |
+| Bastion of Humanity | 0.10% | ~98 |
+| Keeper of Knowledge | 0.10% | ~98 |
+| Let Them Fight | 0.10% | ~98 |
+| Apex Mode | 0.10% | ~98 |
+| Apocalypse Mode | 0.10% | ~98 |
+| Watchful Sentinel | 0.10% | ~98 |
+| What's Mine is Yours | 0.10% | ~98 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97,497 (Ranked 94)  
+Progressed: 97,586 (Ranked 94)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -57,7 +57,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 93,389 | 0 |
 | 2023-12-19 | 95,039 | 0 |
 | 2023-12-20 | 96,698 | 0 |
-| 2023-12-21 | 97,497 | 0 |
+| 2023-12-21 | 97,586 | 0 |
 ## Awards
 Max (Great Boss Battles): 33  (Ranked 500)  
 Sum: 33 (Ranked 522)  

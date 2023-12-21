@@ -33,8 +33,8 @@ Rating: 4.56 (Ranked 498)
 | Ghost hunter | 17.00% | ~18 |
 | Peacekeeper | 17.00% | ~18 |
 | Master detective | 17.00% | ~18 |
+| Defender | 15.00% | ~15 |
 | Workaholic | 15.00% | ~15 |
-| Defender | 14.00% | ~14 |
 | Showdown | 13.00% | ~13 |
 | Safecracker | 13.00% | ~13 |
 | Master thief | 13.00% | ~13 |

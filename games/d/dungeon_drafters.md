@@ -11,7 +11,7 @@
 | Uncut Gem | 28.00% | ~32 |
 | Clear as Water | 25.00% | ~28 |
 | Setting Off | 24.00% | ~27 |
-| Card Collector | 22.00% | ~25 |
+| Card Collector | 23.00% | ~26 |
 | Riddlesolver | 20.00% | ~23 |
 | Dungeon Mastery | 19.00% | ~21 |
 | The Steed | 9.00% | ~10 |

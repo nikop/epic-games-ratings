@@ -13453,10 +13453,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 61571,
       "NumberOfAwardsMax": 7472
+    },
+    {
+      "Time": "2023-12-21T10:57:42.5124971+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 61602,
+      "NumberOfAwardsMax": 7472
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 61571,
+  "NumberOfAwards": 61602,
   "NumberOfAwardsMax": 7472,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -13470,7 +13476,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 7103
+      "Count": 7118
     },
     {
       "Text": "This game has Diverse Characters",
@@ -13482,7 +13488,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 6998
+      "Count": 7014
     },
     {
       "Text": "This game is Educational",
@@ -13527,9 +13533,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 480235,
+  "EOS_Progressed": 480261,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5890,
+  "EOS_NewPlayers": 5884,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41707,6 +41713,11 @@
       "Time": "2023-12-21T10:05:00.0248483+00:00",
       "NumProgressed": 480235,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T11:04:58.770529+00:00",
+      "NumProgressed": 480261,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -42158,7 +42169,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -42238,7 +42249,7 @@
       "Name": "Cold War",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "achievement_colonial_management",
@@ -42742,7 +42753,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -43718,7 +43729,7 @@
       "Name": "Seriously?!",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -44621,21 +44632,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 480235,
+      "Progressed": 480261,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 480235,
+      "Progressed": 480261,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-12-21T01:43:41.0098462+00:00",
-  "LastChanged_Achievements": "2023-12-21T10:05:00.0248479+00:00",
+  "LastChanged": "2023-12-21T10:57:42.5124968+00:00",
+  "LastChanged_Achievements": "2023-12-21T11:04:58.7705286+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:33.9920534+00:00",
-  "LastUpdate_Ratings": "2023-12-21T09:57:55.9201126+00:00",
-  "LastUpdate_Achievements": "2023-12-21T10:05:00.0258711+00:00"
+  "LastUpdate_Ratings": "2023-12-21T10:57:42.5124977+00:00",
+  "LastUpdate_Achievements": "2023-12-21T11:04:58.7715694+00:00"
 }

@@ -1015,9 +1015,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 9521,
+  "EOS_Progressed": 9522,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9715,6 +9715,11 @@
       "Time": "2023-12-20T23:09:03.292938+00:00",
       "NumProgressed": 9521,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-21T11:08:53.9837025+00:00",
+      "NumProgressed": 9522,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -9734,7 +9739,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 1999
+      "UsersEstimate": 2000
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -9742,7 +9747,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4189
+      "UsersEstimate": 4190
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -9870,7 +9875,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1523
+      "UsersEstimate": 1524
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -9894,7 +9899,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 3332
+      "UsersEstimate": 3333
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -10085,7 +10090,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9521,
+      "Progressed": 9522,
       "Completed": 10
     }
   ],
@@ -10093,8 +10098,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-19T18:00:04.0017242+00:00",
-  "LastChanged_Achievements": "2023-12-21T10:08:56.5038791+00:00",
+  "LastChanged_Achievements": "2023-12-21T11:08:53.9837022+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:27.7823002+00:00",
-  "LastUpdate_Ratings": "2023-12-21T10:02:36.6149872+00:00",
-  "LastUpdate_Achievements": "2023-12-21T10:08:56.5039343+00:00"
+  "LastUpdate_Ratings": "2023-12-21T11:00:21.8980923+00:00",
+  "LastUpdate_Achievements": "2023-12-21T11:08:53.9837825+00:00"
 }

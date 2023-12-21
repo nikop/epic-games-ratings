@@ -3,8 +3,8 @@
   "Name": "The Surge",
   "ProductSlug": "the-surge",
   "Ranking_Rating": 685,
-  "Ranking_Popularity": 511,
-  "Ranking_PopularitySum": 527,
+  "Ranking_Popularity": 512,
+  "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 210,
@@ -382,9 +382,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 5010,
+  "EOS_Progressed": 5011,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3852,6 +3852,11 @@
       "Time": "2023-12-21T10:06:30.0349617+00:00",
       "NumProgressed": 5010,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-21T11:08:08.497717+00:00",
+      "NumProgressed": 5011,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -3911,7 +3916,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4208
+      "UsersEstimate": 4209
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -3919,7 +3924,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4709
+      "UsersEstimate": 4710
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -3983,7 +3988,7 @@
       "Name": "It Lives! It Sniffs! It Conquers!",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ID_ACHIEV_17",
@@ -4039,7 +4044,7 @@
       "Name": "Man of Steel",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ID_ACHIEV_24",
@@ -4111,7 +4116,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 2705
+      "UsersEstimate": 2706
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -4119,7 +4124,7 @@
       "Name": "Jack of All Trades",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ID_ACHIEV_35",
@@ -4135,7 +4140,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1152
+      "UsersEstimate": 1153
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -4143,7 +4148,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1653
+      "UsersEstimate": 1654
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -4303,7 +4308,7 @@
       "Name": "3-2-1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ID_ACHIEV_58",
@@ -4398,15 +4403,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5010,
+      "Progressed": 5011,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-21T05:59:26.6733243+00:00",
-  "LastChanged_Achievements": "2023-12-21T10:06:30.0349613+00:00",
+  "LastChanged_Achievements": "2023-12-21T11:08:08.4977166+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.7369287+00:00",
-  "LastUpdate_Ratings": "2023-12-21T09:59:40.3122758+00:00",
-  "LastUpdate_Achievements": "2023-12-21T10:06:30.0350334+00:00"
+  "LastUpdate_Ratings": "2023-12-21T10:59:27.987216+00:00",
+  "LastUpdate_Achievements": "2023-12-21T11:08:08.4977768+00:00"
 }

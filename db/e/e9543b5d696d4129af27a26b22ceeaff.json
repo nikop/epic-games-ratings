@@ -4,7 +4,7 @@
   "ProductSlug": "international-basketball-manager-23-561576",
   "Ranking_EOS_Progress": 556,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewPlayers": 349,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-29T07:30:00+00:00",
@@ -430,9 +430,9 @@
       "ID": "ACH_WINNER_STREAK",
       "SetID": "1lnhagg",
       "Name": "Keep the Streak Up!",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_WIN_BY_40",
@@ -477,8 +477,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2023-12-21T10:03:41.6703735+00:00",
+  "LastChanged_Achievements": "2023-12-21T11:03:39.1620699+00:00",
   "LastUpdate_AppInfo": "2023-12-15T02:21:15.0404929+00:00",
-  "LastUpdate_Ratings": "2023-12-21T10:02:53.7626028+00:00",
-  "LastUpdate_Achievements": "2023-12-21T10:03:41.6703949+00:00"
+  "LastUpdate_Ratings": "2023-12-21T11:02:48.6699041+00:00",
+  "LastUpdate_Achievements": "2023-12-21T11:03:39.1620966+00:00"
 }

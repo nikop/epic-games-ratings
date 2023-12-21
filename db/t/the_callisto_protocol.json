@@ -1751,9 +1751,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 18350,
+  "EOS_Progressed": 18355,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1711,
+  "EOS_NewPlayers": 1713,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -10556,6 +10556,11 @@
       "Time": "2023-12-21T10:09:14.819132+00:00",
       "NumProgressed": 18350,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-21T11:09:12.4260763+00:00",
+      "NumProgressed": 18355,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -10575,7 +10580,7 @@
       "Name": "Armed to the Teeth",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "BACKSTAB_BLIND",
@@ -10599,7 +10604,7 @@
       "Name": "Flesh Wound",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 2569
+      "UsersEstimate": 2570
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -10671,7 +10676,7 @@
       "Name": "Get a Grip",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2569
+      "UsersEstimate": 2570
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -10679,7 +10684,7 @@
       "Name": "In Striking Distance",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "KILL_2HEAD",
@@ -10695,7 +10700,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 2018
+      "UsersEstimate": 2019
     },
     {
       "ID": "KILL_ROBOT",
@@ -10719,7 +10724,7 @@
       "Name": "The Commonality",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -10727,7 +10732,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2018
+      "UsersEstimate": 2019
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -10735,7 +10740,7 @@
       "Name": "Reforged",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1835
+      "UsersEstimate": 1836
     },
     {
       "ID": "PRINT_WEAPON",
@@ -10759,7 +10764,7 @@
       "Name": "The Outer Way",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2569
+      "UsersEstimate": 2570
     },
     {
       "ID": "STORY_ESCAPE",
@@ -10942,13 +10947,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 18350,
+      "Progressed": 18355,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 6276,
+      "Progressed": 6281,
       "Completed": 29
     }
   ],
@@ -10956,8 +10961,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-21T08:03:28.7466749+00:00",
-  "LastChanged_Achievements": "2023-12-21T10:09:14.8191315+00:00",
+  "LastChanged_Achievements": "2023-12-21T11:09:12.4260759+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.4893565+00:00",
-  "LastUpdate_Ratings": "2023-12-21T10:03:08.6254704+00:00",
-  "LastUpdate_Achievements": "2023-12-21T10:09:14.8191991+00:00"
+  "LastUpdate_Ratings": "2023-12-21T11:03:03.8268568+00:00",
+  "LastUpdate_Achievements": "2023-12-21T11:09:12.4261467+00:00"
 }

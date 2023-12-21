@@ -6,10 +6,10 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~25,328 |
-| Exploitative | 4.00% | ~20,262 |
-| Point Shooting | 4.00% | ~20,262 |
-| Wet Feet | 4.00% | ~20,262 |
+| Wallbanger | 5.00% | ~25,329 |
+| Exploitative | 4.00% | ~20,263 |
+| Point Shooting | 4.00% | ~20,263 |
+| Wet Feet | 4.00% | ~20,263 |
 | High Speed Low Drag | 3.00% | ~15,197 |
 | Lucky | 3.00% | ~15,197 |
 | Stylin' | 3.00% | ~15,197 |
@@ -27,8 +27,8 @@ Number of Ratings: 1,316  (23.09.2022)
 | Efficient | 0.90% | ~4,559 |
 | Mount & Gun | 0.90% | ~4,559 |
 | Personal | 0.90% | ~4,559 |
-| Grounded | 0.80% | ~4,052 |
-| Play to Win | 0.80% | ~4,052 |
+| Grounded | 0.80% | ~4,053 |
+| Play to Win | 0.80% | ~4,053 |
 | Special Delivery | 0.70% | ~3,546 |
 | Firefight Victory | 0.60% | ~3,039 |
 | #1 | 0.60% | ~3,039 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~507 |
 | Road Hazard | 0.10% | ~507 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 506,560 (Ranked 37)  
+Progressed: 506,574 (Ranked 37)  
 Completed: 2 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,10 +287,10 @@ Completed: 2 (0.00%) (Ranked 384)
 | 2023-12-18 | 504,753 | 2 |
 | 2023-12-19 | 505,482 | 2 |
 | 2023-12-20 | 506,215 | 2 |
-| 2023-12-21 | 506,560 | 2 |
+| 2023-12-21 | 506,574 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 407  (Ranked 235)  
-Sum: 3,261 (Ranked 176)  
+Sum: 3,262 (Ranked 176)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
@@ -302,7 +302,7 @@ Diff (max vs sum): 59
 | This game has Realistic Visuals | 349 |
 | This game has Amazing Characters | 344 |
 | This game has Amazing Storytelling | 336 |
-| This game has a Competitive Community | 308 |
+| This game has a Competitive Community | 309 |
 | This game has Obsessive Gameplay | 156 |
 | This game has Diverse Characters | 103 |
 ## Ratings History
@@ -622,3 +622,4 @@ Diff (max vs sum): 59
 | 2023-12-18 | 4.61 | - | 407 | 3,249 |
 | 2023-12-19 | 4.61 | - | 407 | 3,257 |
 | 2023-12-20 | 4.61 | - | 407 | 3,261 |
+| 2023-12-21 | 4.61 | - | 407 | 3,262 |

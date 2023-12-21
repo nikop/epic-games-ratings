@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6770,
+  "EOS_Progressed": 6771,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7272,6 +7272,11 @@
       "Time": "2023-12-21T10:08:17.6574182+00:00",
       "NumProgressed": 6770,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-21T11:08:15.0141159+00:00",
+      "NumProgressed": 6771,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -7651,7 +7656,7 @@
       "Name": "Smooth Operator: Madison",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "SmellBlood",
@@ -7834,21 +7839,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3809,
+      "Progressed": 3810,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6770,
+      "Progressed": 6771,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-11-09T16:59:44.3369528+00:00",
-  "LastChanged_Achievements": "2023-12-21T10:08:17.6574178+00:00",
+  "LastChanged_Achievements": "2023-12-21T11:08:15.0141152+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:57:00.6837777+00:00",
-  "LastUpdate_Ratings": "2023-12-21T09:59:22.6306163+00:00",
-  "LastUpdate_Achievements": "2023-12-21T10:08:17.6574909+00:00"
+  "LastUpdate_Ratings": "2023-12-21T10:59:10.6356977+00:00",
+  "LastUpdate_Achievements": "2023-12-21T11:08:15.0141898+00:00"
 }

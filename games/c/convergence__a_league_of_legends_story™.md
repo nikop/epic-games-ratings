@@ -5,9 +5,9 @@ Rating: 4.64 (Ranked 338)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 38.00% | ~400 |
-| The Mysterious Stranger | 29.00% | ~305 |
-| Rail Rat | 29.00% | ~305 |
+| Time Heals All Wounds | 38.00% | ~401 |
+| The Mysterious Stranger | 29.00% | ~306 |
+| Rail Rat | 29.00% | ~306 |
 | Immaculate Aim | 24.00% | ~253 |
 | The Brass Boss | 24.00% | ~253 |
 | Make Up For Lost Time | 23.00% | ~242 |
@@ -30,7 +30,7 @@ Rating: 4.64 (Ranked 338)
 | The Family Fortune | 18.00% | ~190 |
 | Street Style | 17.00% | ~179 |
 | The Man Who Shattered Time | 17.00% | ~179 |
-| Whiz Kid | 14.00% | ~147 |
+| Whiz Kid | 14.00% | ~148 |
 | Treasure Trove | 13.00% | ~137 |
 | Family Memories | 13.00% | ~137 |
 | Cartographer | 13.00% | ~137 |
@@ -44,8 +44,8 @@ Rating: 4.64 (Ranked 338)
 | Cultivair Explorer | 9.00% | ~95 |
 | Fairgrounds Explorer | 9.00% | ~95 |
 | Corin Goes Home | 8.00% | ~84 |
-| Sartorialist | 8.00% | ~84 |
 | Entresol Explorer | 8.00% | ~84 |
+| Sartorialist | 7.00% | ~74 |
 | Clovemary for Remembering | 6.00% | ~63 |
 | Hexlock for Protection | 6.00% | ~63 |
 | Golem Hunter | 6.00% | ~63 |
@@ -59,7 +59,7 @@ Rating: 4.64 (Ranked 338)
 | Raw Talent | 0.70% | ~7 |
 | Going to Live Forever | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,053 (Ranked 275)  
+Progressed: 1,054 (Ranked 275)  
 Completed: 6 (0.57%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 6 (0.57%) (Ranked 201)
 | 2023-12-18 | 1,030 | 6 |
 | 2023-12-19 | 1,037 | 6 |
 | 2023-12-20 | 1,046 | 6 |
-| 2023-12-21 | 1,053 | 6 |
+| 2023-12-21 | 1,054 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

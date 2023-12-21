@@ -14,7 +14,7 @@ Number of Ratings: 85  (23.09.2022)
 | Shop Til They Drop | 56.00% | ~44 |
 | Lobster Blisque | 54.00% | ~42 |
 | Perfect Probulator | 53.00% | ~41 |
-| Fly Me to the Moon Base | 46.00% | ~36 |
+| Fly Me to the Moon Base | 47.00% | ~37 |
 | Pimp My Raid | 42.00% | ~33 |
 | Earthly Pleasures | 41.00% | ~32 |
 | Freshly Squeezed | 40.00% | ~31 |
@@ -27,15 +27,15 @@ Number of Ratings: 85  (23.09.2022)
 | Trans-Siberian Express | 23.00% | ~18 |
 | Deincarnated | 22.00% | ~17 |
 | Re-Return of the Clone of the Invasion II-2 | 17.00% | ~13 |
+| Arkvoodle Doodle | 14.00% | ~11 |
 | Ouch of Body Experience | 14.00% | ~11 |
 | Dusted | 14.00% | ~11 |
-| Arkvoodle Doodle | 13.00% | ~10 |
 | If You Know What I Mean | 13.00% | ~10 |
 | Die Nasty | 10.00% | ~8 |
 | PK Slam Dunk | 8.00% | ~6 |
 | Hidden Human Hive Harvest | 6.00% | ~5 |
 | Mash Machine | 6.00% | ~5 |
-| Scuttled | 4.00% | ~3 |
+| Scuttled | 5.00% | ~4 |
 | Albion Bridge Is for Falling Down | 4.00% | ~3 |
 | Higher Than the Futen Zoku | 4.00% | ~3 |
 | Arty Facts | 4.00% | ~3 |

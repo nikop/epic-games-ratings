@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16978,
+  "EOS_Progressed": 16980,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 819,
+  "EOS_NewPlayers": 816,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -14615,6 +14615,11 @@
       "Time": "2023-12-21T10:05:04.5973499+00:00",
       "NumProgressed": 16978,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-12-21T11:05:03.1493288+00:00",
+      "NumProgressed": 16980,
+      "NumCompleted": 46
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14675,7 +14680,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "16",
@@ -14771,7 +14776,7 @@
       "Name": "Call it Even",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "27",
@@ -14906,13 +14911,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16978,
+      "Progressed": 16980,
       "Completed": 46
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2932,
+      "Progressed": 2934,
       "Completed": 976
     }
   ],
@@ -14920,8 +14925,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-21T04:02:39.716899+00:00",
-  "LastChanged_Achievements": "2023-12-21T10:05:04.5973493+00:00",
+  "LastChanged_Achievements": "2023-12-21T11:05:03.1493282+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:40.0929133+00:00",
-  "LastUpdate_Ratings": "2023-12-21T10:02:36.1066799+00:00",
-  "LastUpdate_Achievements": "2023-12-21T10:05:04.5974698+00:00"
+  "LastUpdate_Ratings": "2023-12-21T11:00:21.3587477+00:00",
+  "LastUpdate_Achievements": "2023-12-21T11:05:03.1494181+00:00"
 }

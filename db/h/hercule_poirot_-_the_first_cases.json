@@ -2,12 +2,12 @@
   "ID": "711c559363934d6eb17c6ff3f0539b2b",
   "Name": "Hercule Poirot - The First Cases",
   "ProductSlug": "hercule-poirot-the-first-cases-584238",
-  "Ranking_Rating": 802,
+  "Ranking_Rating": 803,
   "Ranking_Popularity": 569,
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewPlayers": 364,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
@@ -1086,8 +1086,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-07-07T15:57:52.1284059+00:00",
-  "LastChanged_Achievements": "2023-12-21T10:03:49.2174848+00:00",
+  "LastChanged_Achievements": "2023-12-21T11:03:46.7736952+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:51.2766096+00:00",
-  "LastUpdate_Ratings": "2023-12-21T10:02:58.9091525+00:00",
-  "LastUpdate_Achievements": "2023-12-21T10:03:49.2175229+00:00"
+  "LastUpdate_Ratings": "2023-12-21T11:02:53.7625369+00:00",
+  "LastUpdate_Achievements": "2023-12-21T11:03:46.7737301+00:00"
 }

@@ -313,7 +313,7 @@
   "Tags": [],
   "EOS_Progressed": 3612,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6798,9 +6798,9 @@
       "ID": "ACH_BASE_10",
       "SetID": "92iocjf",
       "Name": "Man\u0027s Best Friend",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 289
+      "UsersEstimate": 325
     },
     {
       "ID": "ACH_BASE_11",
@@ -7261,8 +7261,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-10T20:59:24.4447628+00:00",
-  "LastChanged_Achievements": "2023-12-21T10:04:07.193776+00:00",
+  "LastChanged_Achievements": "2023-12-21T11:04:05.2679672+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.6786359+00:00",
-  "LastUpdate_Ratings": "2023-12-21T09:02:46.366759+00:00",
-  "LastUpdate_Achievements": "2023-12-21T10:04:07.1938426+00:00"
+  "LastUpdate_Ratings": "2023-12-21T10:56:55.4275913+00:00",
+  "LastUpdate_Achievements": "2023-12-21T11:04:05.2680257+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "underworld-island-56030f",
   "Ranking_EOS_Progress": 813,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 559,
+  "Ranking_EOS_NewPlayers": 560,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-14T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-14T23:09:32.737034+00:00",
-  "LastChanged_Achievements": "2023-12-21T10:09:24.3569347+00:00",
+  "LastChanged_Achievements": "2023-12-21T11:09:21.9054977+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.6251837+00:00",
-  "LastUpdate_Ratings": "2023-12-21T09:59:57.3733338+00:00",
-  "LastUpdate_Achievements": "2023-12-21T10:09:24.3569385+00:00"
+  "LastUpdate_Ratings": "2023-12-21T10:59:44.2527814+00:00",
+  "LastUpdate_Achievements": "2023-12-21T11:09:21.9055008+00:00"
 }

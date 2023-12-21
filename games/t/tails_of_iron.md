@@ -16,6 +16,7 @@ Rating: 4.57 (Ranked 482)
 | Defeat 25 Frogs | 0.30% | ~7 |
 | Defeat Croakhis Khan | 0.30% | ~3 |
 | Collect Monster Parts | 0.20% | ~5 |
+| Complete the Chefs Book | 0.20% | ~5 |
 | Defeat Ratnor Rodentson | 0.20% | ~5 |
 | Two Handed Weapon | 0.20% | ~5 |
 | Defeat 25 Grubs | 0.20% | ~5 |
@@ -26,7 +27,6 @@ Rating: 4.57 (Ranked 482)
 | Collect Iron Ore | 0.10% | ~2 |
 | Return the Statues | 0.10% | ~2 |
 | Complete Redgi's Armory | 0.10% | ~2 |
-| Complete the Chefs Book | 0.10% | ~2 |
 | Complete Elder Faction | 0.10% | ~2 |
 | Complete Ranger Faction | 0.10% | ~2 |
 | Defeat Avor Warden of the Northern Wastes | 0.10% | ~2 |

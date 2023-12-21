@@ -4,7 +4,7 @@
   "ProductSlug": "electron-zaraftor-751dfc",
   "Ranking_EOS_Progress": 813,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 559,
+  "Ranking_EOS_NewPlayers": 560,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-10T12:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-13T11:04:18.4577692+00:00",
-  "LastChanged_Achievements": "2023-12-21T10:05:09.3978198+00:00",
+  "LastChanged_Achievements": "2023-12-21T11:05:07.8449021+00:00",
   "LastUpdate_AppInfo": "2023-12-15T14:56:56.2843838+00:00",
-  "LastUpdate_Ratings": "2023-12-21T09:59:59.893836+00:00",
-  "LastUpdate_Achievements": "2023-12-21T10:05:09.3978229+00:00"
+  "LastUpdate_Ratings": "2023-12-21T10:59:47.0742287+00:00",
+  "LastUpdate_Achievements": "2023-12-21T11:05:07.8449064+00:00"
 }

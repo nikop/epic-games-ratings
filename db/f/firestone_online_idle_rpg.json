@@ -637,7 +637,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3600,
+  "EOS_Progressed": 3601,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 0,
@@ -10372,6 +10372,11 @@
       "Time": "2023-12-21T09:08:22.5533972+00:00",
       "NumProgressed": 3600,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-21T11:08:15.4905582+00:00",
+      "NumProgressed": 3601,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -10389,9 +10394,9 @@
       "ID": "ancientknowledge",
       "SetID": "3nl4bcg",
       "Name": "Ancient Knowledge",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 144
     },
     {
       "ID": "angelpower",
@@ -10421,9 +10426,9 @@
       "ID": "beastwarmachines",
       "SetID": "3nl4bcg",
       "Name": "Beast War Machines",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 25
     },
     {
       "ID": "blueprintupgrades",
@@ -10461,9 +10466,9 @@
       "ID": "crystalmining",
       "SetID": "3nl4bcg",
       "Name": "Crystal Mining",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 216
+      "UsersEstimate": 180
     },
     {
       "ID": "dailyquestcompletionist",
@@ -10775,7 +10780,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1908
+      "UsersEstimate": 1909
     },
     {
       "ID": "prestigiousx10",
@@ -10839,7 +10844,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2016
+      "UsersEstimate": 2017
     },
     {
       "ID": "thealchemist",
@@ -10943,7 +10948,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3348
+      "UsersEstimate": 3349
     },
     {
       "ID": "warmachinesarmy",
@@ -10975,14 +10980,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2808
+      "UsersEstimate": 2809
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3600,
+      "Progressed": 3601,
       "Completed": 2
     }
   ],
@@ -10990,8 +10995,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-17T09:00:20.6514627+00:00",
-  "LastChanged_Achievements": "2023-12-21T10:08:18.0858737+00:00",
+  "LastChanged_Achievements": "2023-12-21T11:08:15.4905579+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:13.7887636+00:00",
-  "LastUpdate_Ratings": "2023-12-21T09:57:58.3416968+00:00",
-  "LastUpdate_Achievements": "2023-12-21T10:08:18.0859696+00:00"
+  "LastUpdate_Ratings": "2023-12-21T10:57:45.2889872+00:00",
+  "LastUpdate_Achievements": "2023-12-21T11:08:15.4906621+00:00"
 }

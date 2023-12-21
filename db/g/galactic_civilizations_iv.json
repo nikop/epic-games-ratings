@@ -4,10 +4,10 @@
   "ProductSlug": "galactic-civilizations-iv",
   "Ranking_Rating": 953,
   "Ranking_Popularity": 373,
-  "Ranking_PopularitySum": 304,
+  "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -987,9 +987,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 7441,
+  "EOS_Progressed": 7442,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9282,6 +9282,11 @@
       "Time": "2023-12-21T02:30:48.4947543+00:00",
       "NumProgressed": 7441,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T11:09:40.8994359+00:00",
+      "NumProgressed": 7442,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -9333,7 +9338,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4539
+      "UsersEstimate": 4540
     },
     {
       "ID": "Control_All_Relics",
@@ -9381,7 +9386,7 @@
       "Name": "Gain an Ally",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "First_Nebula_Anomaly",
@@ -9429,7 +9434,7 @@
       "Name": "Worker Specialization",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 5655
+      "UsersEstimate": 5656
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -9749,7 +9754,7 @@
       "Name": "Win as Terrans",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "Win_As_Torian",
@@ -9805,7 +9810,7 @@
       "Name": "Win with a Custom Faction",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "Win_Diplomacy",
@@ -9868,15 +9873,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7441,
+      "Progressed": 7442,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-12-19T20:02:58.7273791+00:00",
-  "LastChanged_Achievements": "2023-12-21T10:09:43.0384814+00:00",
+  "LastChanged_Achievements": "2023-12-21T11:09:40.8994356+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:41.5804615+00:00",
-  "LastUpdate_Ratings": "2023-12-21T09:57:19.0405699+00:00",
-  "LastUpdate_Achievements": "2023-12-21T10:09:43.0385826+00:00"
+  "LastUpdate_Ratings": "2023-12-21T10:57:07.7317638+00:00",
+  "LastUpdate_Achievements": "2023-12-21T11:09:40.8995139+00:00"
 }

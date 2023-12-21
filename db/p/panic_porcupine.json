@@ -4,7 +4,7 @@
   "ProductSlug": "panic-porcupine-aa131e",
   "Ranking_EOS_Progress": 683,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 559,
+  "Ranking_EOS_NewPlayers": 560,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-04-20T14:00:00+00:00",
@@ -166,8 +166,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:51:28.7644634+00:00",
-  "LastChanged_Achievements": "2023-12-21T10:05:50.0409696+00:00",
+  "LastChanged_Achievements": "2023-12-21T11:05:48.643854+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:31.3605784+00:00",
-  "LastUpdate_Ratings": "2023-12-21T10:00:17.635062+00:00",
-  "LastUpdate_Achievements": "2023-12-21T10:05:50.0409783+00:00"
+  "LastUpdate_Ratings": "2023-12-21T11:00:04.1057364+00:00",
+  "LastUpdate_Achievements": "2023-12-21T11:05:48.6438614+00:00"
 }

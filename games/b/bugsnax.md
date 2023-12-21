@@ -6,25 +6,25 @@ Number of Ratings: 425  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Everybody Gets One | 97.00% | ~28,003 |
-| Gone Home | 93.00% | ~26,848 |
-| Wonderfalls | 87.00% | ~25,116 |
-| Got to Catch a Few | 77.00% | ~22,229 |
+| Everybody Gets One | 97.00% | ~28,004 |
+| Gone Home | 93.00% | ~26,849 |
+| Wonderfalls | 87.00% | ~25,117 |
+| Got to Catch a Few | 77.00% | ~22,230 |
 | Double Trapper | 75.00% | ~21,652 |
 | I'm Stuffed | 69.00% | ~19,920 |
 | Got to Catch a Lot | 66.00% | ~19,054 |
-| Talkin' 'Bout Bugsnax | 61.00% | ~17,610 |
+| Talkin' 'Bout Bugsnax | 61.00% | ~17,611 |
 | In the Arms of the Gramble | 59.00% | ~17,033 |
 | Know Thy Neighbor | 59.00% | ~17,033 |
-| Perf Dirt | 57.00% | ~16,455 |
+| Perf Dirt | 57.00% | ~16,456 |
 | Launch Party | 56.00% | ~16,167 |
 | Vacation's End | 53.00% | ~15,301 |
 | Bossy Bugs | 46.00% | ~13,280 |
-| Survivor | 45.00% | ~12,991 |
+| Survivor | 45.00% | ~12,992 |
 | That Reminds Me of a Puzzle | 43.00% | ~12,414 |
 | Sidetracked | 40.00% | ~11,548 |
-| Film Buff | 38.00% | ~10,970 |
-| Combo Meal | 38.00% | ~10,970 |
+| Film Buff | 38.00% | ~10,971 |
+| Combo Meal | 38.00% | ~10,971 |
 | Midnight Snak | 36.00% | ~10,393 |
 | Candid Cryptid | 35.00% | ~10,104 |
 | Got to Catch Them All | 32.00% | ~9,238 |
@@ -37,7 +37,7 @@ Number of Ratings: 425  (23.09.2022)
 | Live Laugh Hut | 9.00% | ~2,598 |
 | Dapper Capper | 7.00% | ~2,021 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,869 (Ranked 134)  
+Progressed: 28,870 (Ranked 134)  
 Completed: 1,403 (4.86%) (Ranked 77)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,11 +281,11 @@ Completed: 1,403 (4.86%) (Ranked 77)
 | 2023-12-18 | 28,842 | 1,402 |
 | 2023-12-19 | 28,853 | 1,402 |
 | 2023-12-20 | 28,862 | 1,402 |
-| 2023-12-21 | 28,869 | 1,403 |
+| 2023-12-21 | 28,870 | 1,403 |
 ## Awards
-Max (Amazing Storytelling): 44  (Ranked 459)  
+Max (Amazing Storytelling): 44  (Ranked 460)  
 Sum: 371 (Ranked 354)  
-Diff (max vs sum): 105  
+Diff (max vs sum): 106  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 44 |

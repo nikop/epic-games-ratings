@@ -31,12 +31,12 @@ Number of Ratings: 45  (23.09.2022)
 | Everfading | 0.70% | ~11 |
 | No Time for Clawmonsters | 0.70% | ~11 |
 | Plague Doctor | 0.60% | ~9 |
+| In Soil, In Smoke | 0.60% | ~9 |
 | Some Say I'm Too Flashy | 0.60% | ~9 |
 | Astrology | 0.60% | ~9 |
 | Storied Past | 0.50% | ~8 |
 | Empty the Caves | 0.50% | ~8 |
 | Bonebreakers | 0.50% | ~8 |
-| In Soil, In Smoke | 0.50% | ~8 |
 | All My Birds, Safely Home | 0.50% | ~8 |
 | Tempest | 0.50% | ~8 |
 | Wingknight's Prowess | 0.40% | ~6 |
@@ -254,8 +254,8 @@ Completed: 7 (0.46%) (Ranked 221)
 | 2023-12-19 | 1,536 | 7 |
 | 2023-12-21 | 1,537 | 7 |
 ## Awards
-Max (Character Customization): 29  (Ranked 511)  
-Sum: 29 (Ranked 527)  
+Max (Character Customization): 29  (Ranked 512)  
+Sum: 29 (Ranked 528)  
 Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |

@@ -12,9 +12,9 @@
 | Watch your Step! | 53.00% | ~46 |
 | Tap Dancing | 52.00% | ~45 |
 | MAX LEVEL | 51.00% | ~44 |
+| Right between the eyes | 40.00% | ~35 |
 | Spring Board | 40.00% | ~35 |
-| Right between the eyes | 39.00% | ~34 |
-| Starry Night | 37.00% | ~32 |
+| Starry Night | 38.00% | ~33 |
 | Rebel Unleashed | 36.00% | ~31 |
 | Merry Co-operation | 34.00% | ~30 |
 | Locksley's Tears | 33.00% | ~29 |
@@ -22,7 +22,7 @@
 | Assault on the Ram | 26.00% | ~23 |
 | Ultra Rebel Instinct | 24.00% | ~21 |
 | First Aid | 24.00% | ~21 |
-| Merry Go Round | 23.00% | ~20 |
+| Merry Go Round | 24.00% | ~21 |
 | Savior | 20.00% | ~17 |
 | Hidden Experiment | 17.00% | ~15 |
 | Take Action! | 17.00% | ~15 |

@@ -4,7 +4,7 @@
   "ProductSlug": "ash-of-gods-the-way-58bd36",
   "Ranking_EOS_Progress": 547,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 431,
+  "Ranking_EOS_NewPlayers": 430,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-04-27T11:00:00+00:00",
@@ -562,9 +562,9 @@
       "ID": "story2",
       "SetID": "c64if4d",
       "Name": "Suicide squad",
-      "Percentage": 52,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "story20",
@@ -651,8 +651,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2023-12-21T10:09:11.1756+00:00",
+  "LastChanged_Achievements": "2023-12-21T11:09:08.7094045+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:39.1112603+00:00",
-  "LastUpdate_Ratings": "2023-12-21T09:58:21.713875+00:00",
-  "LastUpdate_Achievements": "2023-12-21T10:09:11.1756323+00:00"
+  "LastUpdate_Ratings": "2023-12-21T10:58:08.6895468+00:00",
+  "LastUpdate_Achievements": "2023-12-21T11:09:08.7094593+00:00"
 }

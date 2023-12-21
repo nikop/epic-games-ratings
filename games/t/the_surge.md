@@ -6,17 +6,17 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,709 |
-| I'll Be Back | 84.00% | ~4,208 |
+| On My Own Two Feet | 94.00% | ~4,710 |
+| I'll Be Back | 84.00% | ~4,209 |
 | Sorry, I Dropped This | 77.00% | ~3,858 |
 | First Day on the Job | 76.00% | ~3,808 |
-| Butcher's Bill | 54.00% | ~2,705 |
+| Butcher's Bill | 54.00% | ~2,706 |
 | P.A.X | 37.00% | ~1,854 |
 | Hey Listen | 36.00% | ~1,804 |
 | OPERATOR | 36.00% | ~1,804 |
-| It's Blue Light | 33.00% | ~1,653 |
+| It's Blue Light | 33.00% | ~1,654 |
 | Most Wanted | 26.00% | ~1,303 |
-| Infidel | 23.00% | ~1,152 |
+| Infidel | 23.00% | ~1,153 |
 | GOLIATH | 21.00% | ~1,052 |
 | Firebug | 20.00% | ~1,002 |
 | Nothing to Lose | 18.00% | ~902 |
@@ -44,10 +44,10 @@ Number of Ratings: 62  (23.09.2022)
 | Risk Assessment | 7.00% | ~351 |
 | Sunglasses at Night | 6.00% | ~301 |
 | Carbon Cat | 6.00% | ~301 |
-| It Lives! It Sniffs! It Conquers! | 5.00% | ~250 |
-| Man of Steel | 5.00% | ~250 |
-| Jack of All Trades | 5.00% | ~250 |
-| 3-2-1 | 5.00% | ~250 |
+| It Lives! It Sniffs! It Conquers! | 5.00% | ~251 |
+| Man of Steel | 5.00% | ~251 |
+| Jack of All Trades | 5.00% | ~251 |
+| 3-2-1 | 5.00% | ~251 |
 | For the Good of Mankind | 4.00% | ~200 |
 | Rusty Rat | 4.00% | ~200 |
 | Desecration | 4.00% | ~200 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~30 |
 | The Surge | 0.40% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,010 (Ranked 200)  
+Progressed: 5,011 (Ranked 200)  
 Completed: 18 (0.36%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,10 +276,10 @@ Completed: 18 (0.36%) (Ranked 236)
 | 2023-12-18 | 4,973 | 18 |
 | 2023-12-19 | 4,989 | 18 |
 | 2023-12-20 | 5,007 | 18 |
-| 2023-12-21 | 5,010 | 18 |
+| 2023-12-21 | 5,011 | 18 |
 ## Awards
-Max (Great Boss Battles): 29  (Ranked 511)  
-Sum: 29 (Ranked 527)  
+Max (Great Boss Battles): 29  (Ranked 512)  
+Sum: 29 (Ranked 528)  
 Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |

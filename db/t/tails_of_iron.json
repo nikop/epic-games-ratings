@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewPlayers": 327,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -4152,9 +4152,9 @@
       "ID": "CompleteChefsBook",
       "SetID": "9lj35g4",
       "Name": "Complete the Chefs Book",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "CompleteElderFaction",
@@ -4391,8 +4391,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-12-20T19:57:28.9419379+00:00",
-  "LastChanged_Achievements": "2023-12-21T10:03:46.9071155+00:00",
+  "LastChanged_Achievements": "2023-12-21T11:03:44.5325725+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:33.7739845+00:00",
-  "LastUpdate_Ratings": "2023-12-21T09:57:50.3786753+00:00",
-  "LastUpdate_Achievements": "2023-12-21T10:03:46.9071594+00:00"
+  "LastUpdate_Ratings": "2023-12-21T10:57:37.2709903+00:00",
+  "LastUpdate_Achievements": "2023-12-21T11:03:44.5326054+00:00"
 }

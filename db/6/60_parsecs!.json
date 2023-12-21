@@ -4,7 +4,7 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewPlayers": 430,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 786,
+  "EOS_Progressed": 787,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1051,6 +1051,11 @@
       "Time": "2023-12-20T06:05:53.8407966+00:00",
       "NumProgressed": 786,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T11:05:24.3859623+00:00",
+      "NumProgressed": 787,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -1070,7 +1075,7 @@
       "Name": "Across The Stars",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "Achievement_AirlockExit",
@@ -1086,7 +1091,7 @@
       "Name": "All Seats Taken",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "Achievement_AxelInSpace",
@@ -1126,7 +1131,7 @@
       "Name": "Crafty",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "Achievement_DontPanic",
@@ -1134,7 +1139,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "Achievement_DustToDust",
@@ -1206,7 +1211,7 @@
       "Name": "Friendzone",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "Achievement_GiantLeap",
@@ -1294,7 +1299,7 @@
       "Name": "Mutiny in making",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "Achievement_Muttnik",
@@ -1358,7 +1363,7 @@
       "Name": "Space Engineer",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "Achievement_SpaceExplorer",
@@ -1398,7 +1403,7 @@
       "Name": "Tinkerer",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "Achievement_Traitor",
@@ -1413,7 +1418,7 @@
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 786,
+      "Progressed": 787,
       "Completed": 1
     }
   ],
@@ -1421,8 +1426,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-12-21T10:05:26.0620671+00:00",
+  "LastChanged_Achievements": "2023-12-21T11:05:24.385962+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:56:54.6938704+00:00",
-  "LastUpdate_Ratings": "2023-12-21T10:00:29.0001536+00:00",
-  "LastUpdate_Achievements": "2023-12-21T10:05:26.0621109+00:00"
+  "LastUpdate_Ratings": "2023-12-21T11:00:15.4699635+00:00",
+  "LastUpdate_Achievements": "2023-12-21T11:05:24.385994+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1369,
+  "EOS_Progressed": 1370,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 644,
+  "EOS_NewPlayers": 645,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
@@ -2475,6 +2475,11 @@
       "Time": "2023-12-21T08:10:19.2946808+00:00",
       "NumProgressed": 1369,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-21T11:09:41.8717398+00:00",
+      "NumProgressed": 1370,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 15,
@@ -2486,7 +2491,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1343
     },
     {
       "ID": "booty_call",
@@ -2510,7 +2515,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "hold_my_beer",
@@ -2605,7 +2610,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 1369,
+      "Progressed": 1370,
       "Completed": 11
     }
   ],
@@ -2613,8 +2618,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-12-21T10:09:44.1071922+00:00",
+  "LastChanged_Achievements": "2023-12-21T11:09:41.8717395+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:02.6209919+00:00",
-  "LastUpdate_Ratings": "2023-12-21T09:58:07.9922847+00:00",
-  "LastUpdate_Achievements": "2023-12-21T10:09:44.1072099+00:00"
+  "LastUpdate_Ratings": "2023-12-21T10:57:55.0179175+00:00",
+  "LastUpdate_Achievements": "2023-12-21T11:09:41.8717589+00:00"
 }

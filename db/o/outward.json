@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4071,
+  "EOS_Progressed": 4072,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 322,
+  "EOS_NewPlayers": 320,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -6601,6 +6601,11 @@
       "Time": "2023-12-21T10:05:39.4894868+00:00",
       "NumProgressed": 4071,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-21T11:05:37.7164832+00:00",
+      "NumProgressed": 4072,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -6612,7 +6617,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "AceDetective_9",
@@ -6668,7 +6673,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "Eureka_23",
@@ -6812,7 +6817,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 936
+      "UsersEstimate": 937
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -6876,7 +6881,7 @@
       "Name": "The Power of Family",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -6916,7 +6921,7 @@
       "Name": "Through fire and flame.",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "VanquisherOfNightmares_52",
@@ -6947,15 +6952,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4071,
+      "Progressed": 4072,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-21T10:05:39.4894864+00:00",
+  "LastChanged_Achievements": "2023-12-21T11:05:37.7164829+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:45.1407734+00:00",
-  "LastUpdate_Ratings": "2023-12-21T10:02:51.1258329+00:00",
-  "LastUpdate_Achievements": "2023-12-21T10:05:39.48953+00:00"
+  "LastUpdate_Ratings": "2023-12-21T11:02:45.9793926+00:00",
+  "LastUpdate_Achievements": "2023-12-21T11:05:37.7165289+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 123,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4655,9 +4655,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12557,
+  "EOS_Progressed": 12559,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 248,
+  "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17525,6 +17525,11 @@
       "Time": "2023-12-21T09:10:09.028217+00:00",
       "NumProgressed": 12557,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T11:09:55.5205848+00:00",
+      "NumProgressed": 12559,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -17536,7 +17541,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3390
+      "UsersEstimate": 3391
     },
     {
       "ID": "02_BurningCity",
@@ -17544,7 +17549,7 @@
       "Name": "Burning City",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2260
+      "UsersEstimate": 2261
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -17744,7 +17749,7 @@
       "Name": "Great Upstart",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "29_StrategicVictory",
@@ -17888,7 +17893,7 @@
       "Name": "All Paths Open",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -18463,21 +18468,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11339,
+      "Progressed": 11341,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12557,
+      "Progressed": 12559,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-21T06:58:30.1552597+00:00",
-  "LastChanged_Achievements": "2023-12-21T10:09:57.2671156+00:00",
+  "LastChanged_Achievements": "2023-12-21T11:09:55.5205845+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.7532096+00:00",
-  "LastUpdate_Ratings": "2023-12-21T09:58:09.9754688+00:00",
-  "LastUpdate_Achievements": "2023-12-21T10:09:57.2672753+00:00"
+  "LastUpdate_Ratings": "2023-12-21T10:57:57.0353932+00:00",
+  "LastUpdate_Achievements": "2023-12-21T11:09:55.5207486+00:00"
 }

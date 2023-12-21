@@ -5,7 +5,7 @@
   "Ranking_Rating": 297,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 516,
-  "Ranking_EOS_Progress": 433,
+  "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 158,
@@ -311,9 +311,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 140,
+  "EOS_Progressed": 142,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -611,6 +611,11 @@
       "Time": "2023-12-21T09:05:56.6611785+00:00",
       "NumProgressed": 140,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T11:05:27.8566852+00:00",
+      "NumProgressed": 142,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -878,15 +883,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 140,
+      "Progressed": 142,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-17T16:58:22.2973338+00:00",
-  "LastChanged_Achievements": "2023-12-21T10:05:29.5361222+00:00",
+  "LastChanged_Achievements": "2023-12-21T11:05:27.856685+00:00",
   "LastUpdate_AppInfo": "2023-12-16T13:57:06.8451361+00:00",
-  "LastUpdate_Ratings": "2023-12-21T09:59:51.093704+00:00",
-  "LastUpdate_Achievements": "2023-12-21T10:05:29.5361427+00:00"
+  "LastUpdate_Ratings": "2023-12-21T10:59:38.133355+00:00",
+  "LastUpdate_Achievements": "2023-12-21T11:05:27.8567011+00:00"
 }

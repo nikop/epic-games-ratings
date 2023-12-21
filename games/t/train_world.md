@@ -4,56 +4,56 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trainee | 29.00% | ~5 |
-| City Link | 29.00% | ~5 |
-| Line Up | 24.00% | ~4 |
-| Steam Power | 24.00% | ~4 |
-| Task Apprentice | 24.00% | ~4 |
-| Billionaire Club | 12.00% | ~2 |
-| Full House | 12.00% | ~2 |
-| Speed Demon | 12.00% | ~2 |
-| Regional Express | 12.00% | ~2 |
-| Industrial Giant | 12.00% | ~2 |
-| Urban Network | 12.00% | ~2 |
-| Supply Chain | 12.00% | ~2 |
-| Heavy Load | 12.00% | ~2 |
-| Line Master | 12.00% | ~2 |
-| Industrial Revolution | 12.00% | ~2 |
-| Double Trouble | 12.00% | ~2 |
-| World Explorer | 6.00% | ~1 |
-| Diesel Dream | 6.00% | ~1 |
-| Electric Avenue | 6.00% | ~1 |
-| Modern Times | 6.00% | ~1 |
-| Money Train | 6.00% | ~1 |
-| Future Vision | 6.00% | ~1 |
-| Bridge Over Troubled Water | 6.00% | ~1 |
-| Time Traveler | 6.00% | ~1 |
-| Cargo King | 6.00% | ~1 |
-| People Mover | 6.00% | ~1 |
-| Train Spotter | 6.00% | ~1 |
-| Mega Train | 6.00% | ~1 |
-| Crowd Pleaser | 6.00% | ~1 |
-| Capital Connection | 0.00% | ~0 |
+| Capital Connection | 6.00% | ~1 |
+| Billionaire Club | 6.00% | ~1 |
+| Steam Power | 6.00% | ~1 |
+| World Explorer | 0.00% | ~0 |
 | Mass Upgrade | 0.00% | ~0 |
+| Trainee | 0.00% | ~0 |
+| Diesel Dream | 0.00% | ~0 |
+| Electric Avenue | 0.00% | ~0 |
 | Super Long Train | 0.00% | ~0 |
+| Connection Up | 0.00% | ~0 |
 | Cross Country | 0.00% | ~0 |
 | Busy Station | 0.00% | ~0 |
 | Five Alive | 0.00% | ~0 |
 | Old School | 0.00% | ~0 |
+| Modern Times | 0.00% | ~0 |
 | Future Proof | 0.00% | ~0 |
 | Ultra Long Train | 0.00% | ~0 |
+| Money Train | 0.00% | ~0 |
+| Full House | 0.00% | ~0 |
 | Train Tycoon | 0.00% | ~0 |
+| Speed Demon | 0.00% | ~0 |
 | Big Spender | 0.00% | ~0 |
 | Steam Punk | 0.00% | ~0 |
-| One Line Wonder | 0.00% | ~0 |
+| Future Vision | 0.00% | ~0 |
+| Bridge Over Troubled Water | 0.00% | ~0 |
+| One Route Wonder | 0.00% | ~0 |
 | Tunnel Vision | 0.00% | ~0 |
 | Machine Maker | 0.00% | ~0 |
+| Time Traveler | 0.00% | ~0 |
+| Cargo King | 0.00% | ~0 |
+| People Mover | 0.00% | ~0 |
 | Mixed Bag | 0.00% | ~0 |
 | Green Energy | 0.00% | ~0 |
-| Task Master | 0.00% | ~0 |
+| Regional Express | 0.00% | ~0 |
+| Industrial Giant | 0.00% | ~0 |
+| Contract Apprentice | 0.00% | ~0 |
+| Urban Network | 0.00% | ~0 |
+| Supply Chain | 0.00% | ~0 |
+| Contract Master | 0.00% | ~0 |
+| Train Spotter | 0.00% | ~0 |
+| Mega Train | 0.00% | ~0 |
+| Heavy Load | 0.00% | ~0 |
+| Crowd Pleaser | 0.00% | ~0 |
 | Bullet Train | 0.00% | ~0 |
 | Money Matters | 0.00% | ~0 |
 | Long Train | 0.00% | ~0 |
+| Connections master | 0.00% | ~0 |
+| City Link | 0.00% | ~0 |
+| Industrial Revolution | 0.00% | ~0 |
+| Double Trouble | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 17 (Ranked 614)  
 Completed: 0 (0.00%) (Ranked 384)  
