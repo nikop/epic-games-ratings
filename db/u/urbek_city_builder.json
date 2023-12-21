@@ -1688,9 +1688,9 @@
       "ID": "CULTURE_1",
       "SetID": "44dlcg0",
       "Name": "I like books",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 26
     },
     {
       "ID": "CULTURE_2",
@@ -1848,9 +1848,9 @@
       "ID": "FISHING",
       "SetID": "44dlcg0",
       "Name": "King of fish",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 9
     },
     {
       "ID": "GRANJA_1",
@@ -1928,15 +1928,15 @@
       "ID": "NIGHT_LIFE_1",
       "SetID": "44dlcg0",
       "Name": "It is nice to share with friends in the city",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 35
     },
     {
       "ID": "NIGHT_LIFE_2",
       "SetID": "44dlcg0",
       "Name": "What would we do if we can\u0027t go out with friends?",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -2185,8 +2185,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-12-20T23:10:07.5220478+00:00",
+  "LastChanged_Achievements": "2023-12-21T00:11:03.7302684+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:36.321847+00:00",
-  "LastUpdate_Ratings": "2023-12-20T23:00:14.6470639+00:00",
-  "LastUpdate_Achievements": "2023-12-20T23:10:07.5221098+00:00"
+  "LastUpdate_Ratings": "2023-12-21T00:01:52.6239137+00:00",
+  "LastUpdate_Achievements": "2023-12-21T00:11:03.7303423+00:00"
 }

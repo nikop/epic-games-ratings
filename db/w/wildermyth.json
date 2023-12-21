@@ -2245,9 +2245,9 @@
       "ID": "achievement_friendsBlock20Times",
       "SetID": "95dc8p",
       "Name": "The Power of Friendship",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "achievement_fullTransformation",
@@ -2621,8 +2621,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-11-12T17:00:17.2155611+00:00",
-  "LastChanged_Achievements": "2023-12-20T23:10:06.5330189+00:00",
+  "LastChanged_Achievements": "2023-12-21T00:11:02.4991099+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:42.9077467+00:00",
-  "LastUpdate_Ratings": "2023-12-20T22:58:09.9019106+00:00",
-  "LastUpdate_Achievements": "2023-12-20T23:10:06.5330686+00:00"
+  "LastUpdate_Ratings": "2023-12-20T23:58:43.3652568+00:00",
+  "LastUpdate_Achievements": "2023-12-21T00:11:02.4991481+00:00"
 }

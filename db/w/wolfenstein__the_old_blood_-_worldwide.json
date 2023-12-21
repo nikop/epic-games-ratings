@@ -2,12 +2,12 @@
   "ID": "511ba0dc05dd4a3caa39708bcc806cb8",
   "Name": "Wolfenstein: The Old Blood - Worldwide",
   "ProductSlug": "wolfenstein-the-old-blood",
-  "Ranking_Rating": 441,
+  "Ranking_Rating": 443,
   "Ranking_Popularity": 390,
   "Ranking_PopularitySum": 465,
   "Ranking_EOS_Progress": 813,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewPlayers": 559,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-12-15T16:00:00+00:00",
@@ -471,6 +471,6 @@
   "FirstSeen": "2022-07-22T20:31:51.0594067+00:00",
   "LastChanged": "2023-12-01T13:09:26.3332375+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:51.8842449+00:00",
-  "LastUpdate_Ratings": "2023-12-20T22:57:05.0336533+00:00",
-  "LastUpdate_Achievements": "2023-12-20T23:09:49.2391089+00:00"
+  "LastUpdate_Ratings": "2023-12-20T23:57:06.2296954+00:00",
+  "LastUpdate_Achievements": "2023-12-21T00:10:39.5536196+00:00"
 }

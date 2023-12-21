@@ -7,40 +7,40 @@ Number of Ratings: 20  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Adventure Begins | 64.00% | ~234 |
-| Cartographer | 57.00% | ~208 |
-| A Strange Artefact | 53.00% | ~193 |
+| Cartographer | 57.00% | ~209 |
+| A Strange Artefact | 52.00% | ~190 |
 | Insomnia | 49.00% | ~179 |
 | Lost & Found & Lost Again | 43.00% | ~157 |
-| From Whence we Came | 42.00% | ~153 |
+| From Whence we Came | 42.00% | ~154 |
 | Fire and Flood | 41.00% | ~150 |
 | Spooky! | 37.00% | ~135 |
-| Shennong Herbalist | 35.00% | ~128 |
+| Shennong Herbalist | 34.00% | ~124 |
 | Treasure Hunt | 34.00% | ~124 |
-| Good Mama | 33.00% | ~120 |
+| Good Mama | 33.00% | ~121 |
 | O Captain My Captain | 31.00% | ~113 |
 | Plunderer | 29.00% | ~106 |
 | Taxonomist | 27.00% | ~99 |
-| Traveller | 25.00% | ~91 |
-| Uncertain Loyalties | 25.00% | ~91 |
+| Traveller | 25.00% | ~92 |
+| Uncertain Loyalties | 25.00% | ~92 |
 | Nahua Seeker | 24.00% | ~88 |
 | Roll to Save | 23.00% | ~84 |
 | Veteran Explorer | 21.00% | ~77 |
-| Red Flag Pirate | 19.00% | ~69 |
+| Red Flag Pirate | 19.00% | ~70 |
 | Iron Man | 17.00% | ~62 |
-| For the Club! | 16.00% | ~58 |
-| Shortening of the Way | 16.00% | ~58 |
-| A Gentle Beast | 16.00% | ~58 |
-| Practical Palaeontology | 16.00% | ~58 |
+| For the Club! | 16.00% | ~59 |
+| Shortening of the Way | 16.00% | ~59 |
+| A Gentle Beast | 16.00% | ~59 |
+| Practical Palaeontology | 16.00% | ~59 |
 | Adventurer | 15.00% | ~55 |
 | Dapper | 15.00% | ~55 |
-| The New Director | 13.00% | ~47 |
-| The Director is Dead | 13.00% | ~47 |
-| And Here Is Your Statue | 13.00% | ~47 |
-| Discovery | 13.00% | ~47 |
-| Plays Well With Others | 13.00% | ~47 |
+| The New Director | 13.00% | ~48 |
+| The Director is Dead | 13.00% | ~48 |
+| And Here Is Your Statue | 13.00% | ~48 |
+| Discovery | 13.00% | ~48 |
+| Plays Well With Others | 13.00% | ~48 |
 | Very Classy | 12.00% | ~44 |
 | Under the Table | 11.00% | ~40 |
-| It's Complicated | 10.00% | ~36 |
+| It's Complicated | 10.00% | ~37 |
 | Cold Blood, Warm Heart | 9.00% | ~33 |
 | SCHMETTERLING | 8.00% | ~29 |
 | No Laughing Matter | 8.00% | ~29 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.80% | ~3 |
 | Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 365 (Ranked 353)  
+Progressed: 366 (Ranked 353)  
 Completed: 1 (0.27%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,6 +126,7 @@ Completed: 1 (0.27%) (Ranked 254)
 | 2023-12-18 | 362 | 1 |
 | 2023-12-19 | 364 | 1 |
 | 2023-12-20 | 365 | 1 |
+| 2023-12-21 | 366 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

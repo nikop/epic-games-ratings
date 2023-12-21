@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 836,
+  "EOS_Progressed": 837,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 275,
   "EOS_NewCompleters": 0,
@@ -2245,6 +2245,11 @@
       "Time": "2023-12-20T22:10:13.0580434+00:00",
       "NumProgressed": 836,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T00:10:09.0645688+00:00",
+      "NumProgressed": 837,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -2273,7 +2278,7 @@
       "Name": "On her own",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "AchvBattleScore",
@@ -2337,7 +2342,7 @@
       "Name": "Evacuation",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "AchvInvShip",
@@ -2353,7 +2358,7 @@
       "Name": "Krauta is alive",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "AchvLava",
@@ -2367,9 +2372,9 @@
       "ID": "AchvLeaveNoManBehind",
       "SetID": "1hj060c",
       "Name": "I leave no man behind",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 59
+      "UsersEstimate": 67
     },
     {
       "ID": "AchvLeavesNoManBehind2",
@@ -2415,9 +2420,9 @@
       "ID": "AchvPutAsleep",
       "SetID": "1hj060c",
       "Name": "Strong objection",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 42
     },
     {
       "ID": "AchvReachBase",
@@ -2425,7 +2430,7 @@
       "Name": "The field base",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "AchvReachCamp",
@@ -2433,7 +2438,7 @@
       "Name": "The Camp",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "AchvReachCity",
@@ -2465,7 +2470,7 @@
       "Name": "Flying Objects Operator",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "AchvTheEnd",
@@ -2488,14 +2493,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 836,
+      "Progressed": 837,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-20T23:09:27.0809778+00:00",
+  "LastChanged_Achievements": "2023-12-21T00:10:09.0645683+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.232501+00:00",
-  "LastUpdate_Ratings": "2023-12-20T22:58:43.9574532+00:00",
-  "LastUpdate_Achievements": "2023-12-20T23:09:27.0810302+00:00"
+  "LastUpdate_Ratings": "2023-12-20T23:59:35.5963548+00:00",
+  "LastUpdate_Achievements": "2023-12-21T00:10:09.0646237+00:00"
 }

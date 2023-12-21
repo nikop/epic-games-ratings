@@ -15,7 +15,7 @@ Number of Ratings: 285  (23.09.2022)
 | First Strike | 20.00% | ~1,137 |
 | Spending Spree | 19.00% | ~1,080 |
 | Horder Better Faster Stronger | 17.00% | ~966 |
-| Ten Steps from the Grave | 15.00% | ~852 |
+| Ten Steps from the Grave | 15.00% | ~853 |
 | Everything Must Go! | 14.00% | ~796 |
 | Next Time on MythForce... | 14.00% | ~796 |
 | Cold-Blooded Critters | 10.00% | ~568 |
@@ -25,12 +25,12 @@ Number of Ratings: 285  (23.09.2022)
 | On this Episode! | 6.00% | ~341 |
 | Deadication | 4.00% | ~227 |
 | Season Finale | 4.00% | ~227 |
-| We've Got a Kaiju on the Field | 3.00% | ~170 |
+| We've Got a Kaiju on the Field | 3.00% | ~171 |
 | The Fourth Gate | 2.00% | ~114 |
 | Vexed Her | 0.50% | ~28 |
 | Deadalus and Loving It | 0.20% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,683 (Ranked 197)  
+Progressed: 5,684 (Ranked 197)  
 Completed: 4 (0.07%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,6 +189,7 @@ Completed: 4 (0.07%) (Ranked 319)
 | 2023-12-18 | 5,636 | 4 |
 | 2023-12-19 | 5,665 | 4 |
 | 2023-12-20 | 5,683 | 4 |
+| 2023-12-21 | 5,684 | 4 |
 ## Awards
 Max (Great for Beginners): 36  (Ranked 482)  
 Sum: 294 (Ranked 371)  

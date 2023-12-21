@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 81.00% | ~131 |
-| Wanderer | 60.00% | ~97 |
-| A piece of the story | 58.00% | ~94 |
+| Something important | 80.00% | ~130 |
+| Wanderer | 60.00% | ~98 |
+| A piece of the story | 58.00% | ~95 |
 | It's covered up for a reason | 46.00% | ~75 |
-| Scraps of love | 44.00% | ~71 |
+| Scraps of love | 44.00% | ~72 |
 | Do what you have to | 42.00% | ~68 |
 | The artist’s impression | 42.00% | ~68 |
-| Sign of weakness | 36.00% | ~58 |
+| Sign of weakness | 36.00% | ~59 |
 | Refuse to look | 34.00% | ~55 |
-| Face your fears | 27.00% | ~44 |
+| Face your fears | 28.00% | ~46 |
 | Finished it | 27.00% | ~44 |
 | Whispers long forgotten | 14.00% | ~23 |
 | Debut | 11.00% | ~18 |
@@ -32,9 +32,9 @@
 | Casting Finished | 6.00% | ~10 |
 | Heavy Burden | 6.00% | ~10 |
 | Fisherman | 6.00% | ~10 |
-| We Are Not Alone | 4.00% | ~6 |
-| The Perfect Storm | 4.00% | ~6 |
-| Instinct of self-preservation | 4.00% | ~6 |
+| We Are Not Alone | 4.00% | ~7 |
+| The Perfect Storm | 4.00% | ~7 |
+| Instinct of self-preservation | 4.00% | ~7 |
 | Something to think about | 2.00% | ~3 |
 | I remember It Like Was Yesterday | 2.00% | ~3 |
 | Body of Work | 2.00% | ~3 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 162 (Ranked 419)  
+Progressed: 163 (Ranked 419)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,3 +116,4 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 152 | 0 |
 | 2023-12-19 | 159 | 0 |
 | 2023-12-20 | 162 | 0 |
+| 2023-12-21 | 163 | 0 |

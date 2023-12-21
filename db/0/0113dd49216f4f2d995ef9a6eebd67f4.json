@@ -2,9 +2,9 @@
   "ID": "0113dd49216f4f2d995ef9a6eebd67f4",
   "Name": "Stray Gods: The Roleplaying Musical",
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
-  "Ranking_EOS_Progress": 426,
+  "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 143,
+  "EOS_Progressed": 145,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -654,6 +654,11 @@
       "Time": "2023-12-20T23:08:50.3223732+00:00",
       "NumProgressed": 143,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T00:09:17.2306518+00:00",
+      "NumProgressed": 145,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -664,9 +669,9 @@
       "ID": "SG_ABDICATION",
       "SetID": "bj5g0n4",
       "Name": "Abdication",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "SG_ACROSSTHESTYX",
@@ -674,7 +679,7 @@
       "Name": "Across The Styx",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "SG_AGAINSTALLODDS",
@@ -682,7 +687,7 @@
       "Name": "Against All Odds",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "SG_ALLTHEHELPYOUNEED",
@@ -706,7 +711,7 @@
       "Name": "Brand New Chorus",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "SG_BRAVEONTIME",
@@ -722,7 +727,7 @@
       "Name": "Charismatic",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "SG_CUNNING",
@@ -736,7 +741,7 @@
       "ID": "SG_ENDOFTHEROAD",
       "SetID": "bj5g0n4",
       "Name": "End Of The Road",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 15,
       "UsersEstimate": 109
     },
@@ -776,17 +781,17 @@
       "ID": "SG_LIKEHEROESBEFOREYOU",
       "SetID": "bj5g0n4",
       "Name": "Like Heroes Before You",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 20
     },
     {
       "ID": "SG_LOSTINASONG",
       "SetID": "bj5g0n4",
       "Name": "Lost In A Song",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "SG_MAESTRO",
@@ -810,7 +815,7 @@
       "Name": "My Time To Shine",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "SG_NOTALOSTGIRL",
@@ -818,7 +823,7 @@
       "Name": "Not A Lost Girl",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "SG_NOTTAKINGANYCHANCES",
@@ -834,7 +839,7 @@
       "Name": "Queen Without A Throne",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "SG_SAYINGGOODBYE",
@@ -858,7 +863,7 @@
       "Name": "Snake Charmer",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "SG_TALKTOTHEHAND",
@@ -898,7 +903,7 @@
       "Name": "The High Road",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "SG_THEKINGOFHELL",
@@ -961,14 +966,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 143,
+      "Progressed": 145,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-12-20T23:08:50.3223725+00:00",
+  "LastChanged_Achievements": "2023-12-21T00:09:17.2306515+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:06.0565697+00:00",
-  "LastUpdate_Ratings": "2023-12-20T23:00:12.6547514+00:00",
-  "LastUpdate_Achievements": "2023-12-20T23:08:50.3223994+00:00"
+  "LastUpdate_Ratings": "2023-12-21T00:01:49.5449303+00:00",
+  "LastUpdate_Achievements": "2023-12-21T00:09:17.2306733+00:00"
 }

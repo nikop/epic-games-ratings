@@ -4,47 +4,47 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 93.00% | ~37 |
-| Suicide squad | 55.00% | ~22 |
-| First blood | 35.00% | ~14 |
-| Train hard, fight easy | 33.00% | ~13 |
-| Under cover | 33.00% | ~13 |
-| All for one! | 28.00% | ~11 |
-| Royal blessing | 28.00% | ~11 |
-| A hidden snake | 28.00% | ~11 |
-| Blood and sand | 28.00% | ~11 |
-| Vene, vidi, vici | 23.00% | ~9 |
+| First success | 90.00% | ~37 |
+| Suicide squad | 54.00% | ~22 |
+| First blood | 34.00% | ~14 |
+| Train hard, fight easy | 32.00% | ~13 |
+| Under cover | 32.00% | ~13 |
+| All for one! | 27.00% | ~11 |
+| Royal blessing | 27.00% | ~11 |
+| A hidden snake | 27.00% | ~11 |
+| Blood and sand | 27.00% | ~11 |
+| Vene, vidi, vici | 22.00% | ~9 |
 | Crimson rivers | 20.00% | ~8 |
 | Power of Inquisition | 20.00% | ~8 |
 | Surpass the teacher | 20.00% | ~8 |
 | Help of the Gell | 20.00% | ~8 |
 | She-Wolf | 20.00% | ~8 |
-| Berkanan Borgia | 18.00% | ~7 |
-| Trial by cold | 18.00% | ~7 |
+| Berkanan Borgia | 17.00% | ~7 |
+| Trial by cold | 17.00% | ~7 |
 | The champion of the arena | 15.00% | ~6 |
-| Stronger than Gellian steel | 13.00% | ~5 |
-| Rage | 13.00% | ~5 |
-| Protect the Healer! | 13.00% | ~5 |
+| Stronger than Gellian steel | 12.00% | ~5 |
+| Rage | 12.00% | ~5 |
+| Protect the Healer! | 12.00% | ~5 |
 | For the greater good | 10.00% | ~4 |
 | Collector | 10.00% | ~4 |
 | Overplay the rogue | 10.00% | ~4 |
 | Punish the Punisher | 10.00% | ~4 |
 | The End | 10.00% | ~4 |
-| The best apprentice | 8.00% | ~3 |
-| First among Frisians | 8.00% | ~3 |
-| Defeat the bear | 8.00% | ~3 |
-| By own strength | 8.00% | ~3 |
-| All's fair in love and war | 8.00% | ~3 |
-| Nothing is settled | 8.00% | ~3 |
+| The best apprentice | 7.00% | ~3 |
+| First among Frisians | 7.00% | ~3 |
+| Defeat the bear | 7.00% | ~3 |
+| By own strength | 7.00% | ~3 |
+| All's fair in love and war | 7.00% | ~3 |
+| Nothing is settled | 7.00% | ~3 |
 | The power of persuasion | 5.00% | ~2 |
 | Deadly strike | 5.00% | ~2 |
 | A solo player | 5.00% | ~2 |
 | Cunning plan | 5.00% | ~2 |
-| Supplier | 3.00% | ~1 |
-| Do it yourself | 3.00% | ~1 |
-| By someone else's hands | 3.00% | ~1 |
-| There can be only one | 3.00% | ~1 |
-| Happily ever after | 3.00% | ~1 |
+| Supplier | 2.00% | ~1 |
+| Do it yourself | 2.00% | ~1 |
+| By someone else's hands | 2.00% | ~1 |
+| There can be only one | 2.00% | ~1 |
+| Happily ever after | 2.00% | ~1 |
 | Berserk | 0.00% | ~0 |
 | Master of the Way | 0.00% | ~0 |
 | Never laid a finger | 0.00% | ~0 |
@@ -54,7 +54,7 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40 (Ranked 549)  
+Progressed: 41 (Ranked 547)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,6 +81,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-11-28 | 36 | 0 |
 | 2023-12-15 | 37 | 0 |
 | 2023-12-17 | 40 | 0 |
+| 2023-12-21 | 41 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -64,6 +64,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ready | 0.10% | ~16 |
 | Settler | 0.10% | ~16 |
 | Strong | 0.10% | ~16 |
+| Subjugator | 0.10% | ~16 |
 | Valiant | 0.10% | ~16 |
 | Victorious | 0.10% | ~16 |
 | Warrior | 0.10% | ~16 |
@@ -189,6 +190,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Won the Hearts of Kmt | 0.10% | ~16 |
 | Partly Balanced Ma'at | 0.10% | ~16 |
 | Kush | 0.10% | ~16 |
+| Kushite Paganism | 0.10% | ~16 |
 | Beja Archer | 0.10% | ~16 |
 | Royal Library | 0.10% | ~16 |
 | Centenarian | 0.00% | ~0 |
@@ -213,7 +215,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Liberator | 0.00% | ~0 |
 | Rebuilder | 0.00% | ~0 |
 | Restorer | 0.00% | ~0 |
-| Subjugator | 0.00% | ~0 |
 | White Death | 0.00% | ~0 |
 | Council of Madness | 0.00% | ~0 |
 | Via Recta Souk in Damascus | 0.00% | ~0 |
@@ -348,7 +349,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt Campaign | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 | Kushite Pyramids | 0.00% | ~0 |
-| Kushite Paganism | 0.00% | ~0 |
 | Cothon in Carthago | 0.00% | ~0 |
 | Yazilikaya in Hattusa | 0.00% | ~0 |
 | Heliopolis in Heliopolis | 0.00% | ~0 |

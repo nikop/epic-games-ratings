@@ -6,32 +6,32 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 72.00% | ~99 |
+| Rock of the Bay | 72.00% | ~100 |
 | Mash Machine | 65.00% | ~90 |
-| Ducks in a Row, Fish in a Barrel | 43.00% | ~59 |
-| Furon Fashion | 38.00% | ~52 |
-| Shop Til They Drop | 30.00% | ~41 |
-| Earthly Pleasures | 28.00% | ~39 |
-| Bodied Sattva | 25.00% | ~34 |
-| Cult Following | 22.00% | ~30 |
+| Ducks in a Row, Fish in a Barrel | 44.00% | ~61 |
+| Furon Fashion | 38.00% | ~53 |
+| Shop Til They Drop | 31.00% | ~43 |
+| Earthly Pleasures | 27.00% | ~38 |
+| Bodied Sattva | 25.00% | ~35 |
+| Cult Following | 22.00% | ~31 |
 | Lie Back and Think of Albion | 19.00% | ~26 |
 | Upgreatest | 19.00% | ~26 |
-| I Look Up As I Walk to Takoshima | 17.00% | ~23 |
-| Pimp My Raid | 17.00% | ~23 |
+| I Look Up As I Walk to Takoshima | 17.00% | ~24 |
+| Pimp My Raid | 17.00% | ~24 |
 | Perfect Probulator | 12.00% | ~17 |
 | Freshly Squeezed | 12.00% | ~17 |
 | Die Nasty | 12.00% | ~17 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 9.00% | ~12 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 9.00% | ~13 |
 | Transmitting From Sol-3 | 8.00% | ~11 |
 | Dusted | 8.00% | ~11 |
-| Kaijuiced | 7.00% | ~10 |
+| Kaijuiced | 6.00% | ~8 |
 | Fly Me to the Moon Base | 5.00% | ~7 |
 | Scuttled | 4.00% | ~6 |
 | Lobster Blisque | 2.00% | ~3 |
 | Yettisoned | 2.00% | ~3 |
+| Re-Return of the Clone of the Invasion II-2 | 2.00% | ~3 |
 | Arkvoodle Doodle | 2.00% | ~3 |
 | Deincarnated | 1.00% | ~1 |
-| Re-Return of the Clone of the Invasion II-2 | 1.00% | ~1 |
 | Ultimate Smoothie | 0.70% | ~1 |
 | Arty Facts | 0.70% | ~1 |
 | Forbidden Donut | 0.70% | ~1 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.00% | ~0 |
 | Trans-Siberian Express | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138 (Ranked 432)  
+Progressed: 139 (Ranked 432)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,6 +76,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 121 | 0 |
 | 2023-12-19 | 129 | 0 |
 | 2023-12-20 | 138 | 0 |
+| 2023-12-21 | 139 | 0 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 482)  
 Sum: 36 (Ranked 514)  

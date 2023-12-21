@@ -26,10 +26,10 @@ Rating: 4.64 (Ranked 338)
 | The Betrayer | 20.00% | ~209 |
 | Golem Chaser | 20.00% | ~209 |
 | Check Your Pulse | 19.00% | ~199 |
+| The Man Who Shattered Time | 18.00% | ~188 |
 | The Loose Cannon | 18.00% | ~188 |
 | The Family Fortune | 18.00% | ~188 |
 | Street Style | 17.00% | ~178 |
-| The Man Who Shattered Time | 17.00% | ~178 |
 | Whiz Kid | 14.00% | ~146 |
 | Cartographer | 14.00% | ~146 |
 | Treasure Trove | 13.00% | ~136 |

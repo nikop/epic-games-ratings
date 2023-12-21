@@ -49,9 +49,9 @@ Number of Ratings: 45  (23.09.2022)
 | Fight Like a Bird | 0.30% | ~5 |
 | Into Mulch | 0.30% | ~5 |
 | I'm Not Smiling | 0.30% | ~5 |
+| The Power of Friendship | 0.20% | ~3 |
 | Overwhelming Monstrosity | 0.10% | ~2 |
 | A Lowly Crust of Beef | 0.10% | ~2 |
-| The Power of Friendship | 0.10% | ~2 |
 | Back into the Sea | 0.10% | ~2 |
 | A Hunger, Sated | 0.10% | ~2 |
 | War-Ender | 0.10% | ~2 |

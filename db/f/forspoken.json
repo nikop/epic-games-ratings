@@ -517,9 +517,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 44556,
+  "EOS_Progressed": 44562,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 931,
+  "EOS_NewPlayers": 936,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15847,6 +15847,11 @@
       "Time": "2023-12-20T23:08:52.6902595+00:00",
       "NumProgressed": 44556,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-21T00:09:20.5565844+00:00",
+      "NumProgressed": 44562,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -16010,7 +16015,7 @@
       "Name": "Tinkerer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3564
+      "UsersEstimate": 3565
     },
     {
       "ID": "CUFF_ATTACK",
@@ -16050,7 +16055,7 @@
       "Name": "Leapfrogger",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2673
+      "UsersEstimate": 2674
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -16210,7 +16215,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2673
+      "UsersEstimate": 2674
     },
     {
       "ID": "STAYING_AIR",
@@ -16281,22 +16286,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 44556,
+      "Progressed": 44562,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 9393,
-      "Completed": 9393
+      "Progressed": 9399,
+      "Completed": 9399
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-20T22:02:03.9377568+00:00",
-  "LastChanged_Achievements": "2023-12-20T23:08:52.6902592+00:00",
+  "LastChanged_Achievements": "2023-12-21T00:09:20.5565841+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:26.7354097+00:00",
-  "LastUpdate_Ratings": "2023-12-20T23:00:19.6865102+00:00",
-  "LastUpdate_Achievements": "2023-12-20T23:08:52.6903682+00:00"
+  "LastUpdate_Ratings": "2023-12-21T00:02:39.5278512+00:00",
+  "LastUpdate_Achievements": "2023-12-21T00:09:20.5566773+00:00"
 }

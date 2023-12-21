@@ -943,7 +943,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4075,
+  "EOS_Progressed": 4076,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
@@ -7428,6 +7428,11 @@
       "Time": "2023-12-20T23:04:17.1179413+00:00",
       "NumProgressed": 4075,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T00:05:17.0863422+00:00",
+      "NumProgressed": 4076,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -7448,7 +7453,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 2241
+      "UsersEstimate": 2242
     },
     {
       "ID": "achievement_11",
@@ -7480,7 +7485,7 @@
       "Name": "Dealmaker",
       "Percentage": 39,
       "XP": 60,
-      "UsersEstimate": 1589
+      "UsersEstimate": 1590
     },
     {
       "ID": "achievement_15",
@@ -7488,7 +7493,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 2200
+      "UsersEstimate": 2201
     },
     {
       "ID": "achievement_16",
@@ -7584,7 +7589,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 1263
+      "UsersEstimate": 1264
     },
     {
       "ID": "achievement_8",
@@ -7607,7 +7612,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4075,
+      "Progressed": 4076,
       "Completed": 0
     }
   ],
@@ -7615,8 +7620,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-12-20T18:58:01.3561832+00:00",
-  "LastChanged_Achievements": "2023-12-20T23:04:17.1179405+00:00",
+  "LastChanged_Achievements": "2023-12-21T00:05:17.0863418+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:51.9510539+00:00",
-  "LastUpdate_Ratings": "2023-12-20T22:58:02.9198303+00:00",
-  "LastUpdate_Achievements": "2023-12-20T23:04:17.117989+00:00"
+  "LastUpdate_Ratings": "2023-12-20T23:58:33.5281534+00:00",
+  "LastUpdate_Achievements": "2023-12-21T00:05:17.0863897+00:00"
 }

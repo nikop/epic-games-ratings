@@ -62,6 +62,7 @@
 | Aquarian Mastery | 2.00% | ~4 |
 | Lacertian Mastery | 2.00% | ~4 |
 | Noctuan Mastery | 2.00% | ~4 |
+| Anomaly Master | 1.00% | ~2 |
 | Astral Tinkerer | 1.00% | ~2 |
 | Astrea's Saviors | 1.00% | ~2 |
 | Astrium Specialist | 1.00% | ~2 |
@@ -69,14 +70,13 @@
 | Reflexive Mind | 1.00% | ~2 |
 | Royal Choir | 1.00% | ~2 |
 | This is Fine | 1.00% | ~2 |
+| Unepic Hero | 1.00% | ~2 |
 | Eridanian Mastery | 1.00% | ~2 |
-| Anomaly Master | 0.50% | ~1 |
 | Arch-Oracle | 0.50% | ~1 |
 | Dice Specialist | 0.50% | ~1 |
 | Gotta tinker'em all! | 0.50% | ~1 |
 | Six-Sided Mastery | 0.50% | ~1 |
 | The world goes round... | 0.50% | ~1 |
-| Unepic Hero | 0.50% | ~1 |
 | Virtuous Warrior | 0.50% | ~1 |
 | Apian Mastery | 0.50% | ~1 |
 | Apian Champion | 0.00% | ~0 |

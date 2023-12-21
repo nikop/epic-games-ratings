@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -213,9 +213,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5207,
+  "EOS_Progressed": 5208,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -1013,6 +1013,11 @@
       "Time": "2023-12-20T20:03:47.21872+00:00",
       "NumProgressed": 5207,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-12-21T00:04:38.607742+00:00",
+      "NumProgressed": 5208,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 49,
@@ -1048,7 +1053,7 @@
       "Name": "Bone Collector",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1822
+      "UsersEstimate": 1823
     },
     {
       "ID": "ACHIEVE_50_CROWNS",
@@ -1096,7 +1101,7 @@
       "Name": "Fe-Festival",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1822
+      "UsersEstimate": 1823
     },
     {
       "ID": "ACHIEVE_50_MAGMA",
@@ -1128,7 +1133,7 @@
       "Name": "Timber!",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 3176
+      "UsersEstimate": 3177
     },
     {
       "ID": "ACHIEVE_ATE_FOOD_3",
@@ -1152,7 +1157,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5103
+      "UsersEstimate": 5104
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -1160,7 +1165,7 @@
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 3280
+      "UsersEstimate": 3281
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -1168,7 +1173,7 @@
       "Name": "Top of the Food Chain",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1666
+      "UsersEstimate": 1667
     },
     {
       "ID": "ACHIEVE_DODGE",
@@ -1208,7 +1213,7 @@
       "Name": "Don\u0027t Get Too Greedy",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "ACHIEVE_JERK_ATTACK_JERK",
@@ -1232,7 +1237,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4061
+      "UsersEstimate": 4062
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -1240,7 +1245,7 @@
       "Name": "If It Bleeds, You Can Kill It",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_20",
@@ -1264,7 +1269,7 @@
       "Name": "Royal Flush",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3228
+      "UsersEstimate": 3229
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_50",
@@ -1272,7 +1277,7 @@
       "Name": "Royal Flush, Again",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "ACHIEVE_LVL_120_COMPLETE",
@@ -1296,7 +1301,7 @@
       "Name": "Survive the Bombsequences",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3072
+      "UsersEstimate": 3073
     },
     {
       "ID": "ACHIEVE_LVL_180_COMPLETE",
@@ -1312,7 +1317,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5103
+      "UsersEstimate": 5104
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1320,7 +1325,7 @@
       "Name": "Humerus Achievement",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1666
+      "UsersEstimate": 1667
     },
     {
       "ID": "ACHIEVE_LVL_60_COMPLETE",
@@ -1400,7 +1405,7 @@
       "Name": "Pardon my Slob",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1718
+      "UsersEstimate": 1719
     },
     {
       "ID": "ACHIEVE_WOKE_UP_INN",
@@ -1408,22 +1413,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3697
+      "UsersEstimate": 3698
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5207,
+      "Progressed": 5208,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-12-20T23:03:50.6541415+00:00",
+  "LastChanged_Achievements": "2023-12-21T00:04:38.6077417+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:32.3869893+00:00",
-  "LastUpdate_Ratings": "2023-12-20T22:58:29.0324906+00:00",
-  "LastUpdate_Achievements": "2023-12-20T23:03:50.6541753+00:00"
+  "LastUpdate_Ratings": "2023-12-20T23:59:12.164964+00:00",
+  "LastUpdate_Achievements": "2023-12-21T00:04:38.6077852+00:00"
 }

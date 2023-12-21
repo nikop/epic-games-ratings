@@ -1580,9 +1580,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 134371,
+  "EOS_Progressed": 134374,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 2406,
+  "EOS_NewPlayers": 2408,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -25505,6 +25505,11 @@
       "Time": "2023-12-20T23:06:04.6290362+00:00",
       "NumProgressed": 134371,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-21T00:07:55.110209+00:00",
+      "NumProgressed": 134374,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -25564,7 +25569,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 12093
+      "UsersEstimate": 12094
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -25572,7 +25577,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 32249
+      "UsersEstimate": 32250
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -25596,7 +25601,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 37624
+      "UsersEstimate": 37625
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -25620,7 +25625,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 21499
+      "UsersEstimate": 21500
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -25628,7 +25633,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 26874
+      "UsersEstimate": 26875
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -25644,7 +25649,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 17468
+      "UsersEstimate": 17469
     },
     {
       "ID": "ACH_COP_STAR",
@@ -25652,7 +25657,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 21499
+      "UsersEstimate": 21500
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -25676,7 +25681,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 12093
+      "UsersEstimate": 12094
     },
     {
       "ID": "ACH_GLUTEN",
@@ -25835,15 +25840,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 134371,
+      "Progressed": 134374,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-12-20T18:59:31.4218961+00:00",
-  "LastChanged_Achievements": "2023-12-20T23:06:04.6290359+00:00",
+  "LastChanged_Achievements": "2023-12-21T00:07:55.1102088+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:27.1763316+00:00",
-  "LastUpdate_Ratings": "2023-12-20T22:59:29.3897272+00:00",
-  "LastUpdate_Achievements": "2023-12-20T23:06:04.6291554+00:00"
+  "LastUpdate_Ratings": "2023-12-21T00:00:44.971894+00:00",
+  "LastUpdate_Achievements": "2023-12-21T00:07:55.1103114+00:00"
 }

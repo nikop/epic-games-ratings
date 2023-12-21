@@ -1033,7 +1033,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 544543,
+  "EOS_Progressed": 544545,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 1535,
   "EOS_NewCompleters": 0,
@@ -28858,6 +28858,11 @@
       "Time": "2023-12-20T23:09:06.2352106+00:00",
       "NumProgressed": 544543,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-21T00:09:39.8123572+00:00",
+      "NumProgressed": 544545,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -28965,7 +28970,7 @@
       "Name": "Cold Caller",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 217817
+      "UsersEstimate": 217818
     },
     {
       "ID": "DeadlyAssassin",
@@ -29021,7 +29026,7 @@
       "Name": "Handy",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 228708
+      "UsersEstimate": 228709
     },
     {
       "ID": "HoldingYourOwn",
@@ -29069,7 +29074,7 @@
       "Name": "Never Give Up",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 43563
+      "UsersEstimate": 43564
     },
     {
       "ID": "OnTheButton",
@@ -29117,7 +29122,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 413853
+      "UsersEstimate": 413854
     },
     {
       "ID": "ProPlayer",
@@ -29141,7 +29146,7 @@
       "Name": "Rank Amateur",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 119799
+      "UsersEstimate": 119800
     },
     {
       "ID": "RegularPunter",
@@ -29189,7 +29194,7 @@
       "Name": "The Bigger They Are",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 43563
+      "UsersEstimate": 43564
     },
     {
       "ID": "ThreeWay",
@@ -29197,7 +29202,7 @@
       "Name": "Three Way",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 103463
+      "UsersEstimate": 103464
     },
     {
       "ID": "TopDog",
@@ -29213,7 +29218,7 @@
       "Name": "Total Knock Out",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 43563
+      "UsersEstimate": 43564
     },
     {
       "ID": "WHIP",
@@ -29228,7 +29233,7 @@
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 544543,
+      "Progressed": 544545,
       "Completed": 2
     }
   ],
@@ -29236,8 +29241,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-12-16T21:58:35.1980129+00:00",
-  "LastChanged_Achievements": "2023-12-20T23:09:06.2352101+00:00",
+  "LastChanged_Achievements": "2023-12-21T00:09:39.8123568+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:44.9850602+00:00",
-  "LastUpdate_Ratings": "2023-12-20T23:00:28.7766786+00:00",
-  "LastUpdate_Achievements": "2023-12-20T23:09:06.2354494+00:00"
+  "LastUpdate_Ratings": "2023-12-21T00:02:53.6341633+00:00",
+  "LastUpdate_Achievements": "2023-12-21T00:09:39.8124856+00:00"
 }

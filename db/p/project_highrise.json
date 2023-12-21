@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 404,
+  "EOS_Progressed": 405,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1200,6 +1200,11 @@
       "Time": "2023-12-20T20:08:07.580431+00:00",
       "NumProgressed": 404,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T00:08:46.6645494+00:00",
+      "NumProgressed": 405,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1241,9 +1246,9 @@
       "ID": "ach_area",
       "SetID": "b8gh1fi",
       "Name": "Floor Galore",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 162
     },
     {
       "ID": "ach_area_1",
@@ -1347,7 +1352,7 @@
       "Name": "Need a Consult",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ach_consultant_1",
@@ -1355,7 +1360,7 @@
       "Name": "Upgrade Unlock",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ach_consultants_a",
@@ -1419,7 +1424,7 @@
       "Name": "Proper Walls",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ach_drones",
@@ -1515,7 +1520,7 @@
       "Name": "Starting Skyward",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ach_floors_1",
@@ -1555,7 +1560,7 @@
       "Name": "Delegate Maintenance",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ach_grime_2",
@@ -1611,7 +1616,7 @@
       "Name": "It\u0027s Technical",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ach_office_2",
@@ -1675,7 +1680,7 @@
       "Name": "In the Black",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ach_profit_1",
@@ -1683,7 +1688,7 @@
       "Name": "Swimming in Surplus",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ach_profit_2",
@@ -1843,7 +1848,7 @@
       "Name": "Terrifically Trashed",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ach_tutorial",
@@ -1907,14 +1912,14 @@
       "Name": "Destination Destiny",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 404,
+      "Progressed": 405,
       "Completed": 0
     }
   ],
@@ -1922,8 +1927,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-12-20T23:06:40.135809+00:00",
+  "LastChanged_Achievements": "2023-12-21T00:08:46.6645488+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:18.491222+00:00",
-  "LastUpdate_Ratings": "2023-12-20T22:59:11.8622929+00:00",
-  "LastUpdate_Achievements": "2023-12-20T23:06:40.1358808+00:00"
+  "LastUpdate_Ratings": "2023-12-21T00:00:18.2783801+00:00",
+  "LastUpdate_Achievements": "2023-12-21T00:08:46.6646221+00:00"
 }

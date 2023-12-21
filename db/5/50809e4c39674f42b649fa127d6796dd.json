@@ -2,7 +2,7 @@
   "ID": "50809e4c39674f42b649fa127d6796dd",
   "Name": "Sonic Frontiers",
   "ProductSlug": "sonic-frontiers",
-  "Ranking_EOS_Progress": 332,
+  "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 103,
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 477,
+  "EOS_Progressed": 478,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -1292,6 +1292,11 @@
       "Time": "2023-12-20T20:03:18.9167672+00:00",
       "NumProgressed": 477,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-21T00:03:59.6517159+00:00",
+      "NumProgressed": 478,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1376,7 +1381,7 @@
       "Name": "Big Encounter",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "FIRST_KODAMA_ELDER_TALK",
@@ -1390,9 +1395,9 @@
       "ID": "FIRST_KODAMA_HERMIT_TALK",
       "SetID": "apihg0e",
       "Name": "Hermit Koco Encounter",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 177
     },
     {
       "ID": "FIRST_METEOR_SHOWER",
@@ -1408,7 +1413,7 @@
       "Name": "Unknown Threat",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1422,9 +1427,9 @@
       "ID": "FIRST_S_RANK",
       "SetID": "apihg0e",
       "Name": "Superior Ranking",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 186
+      "UsersEstimate": 182
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -1623,14 +1628,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 477,
+      "Progressed": 478,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-20T23:03:23.2431206+00:00",
+  "LastChanged_Achievements": "2023-12-21T00:03:59.6517152+00:00",
   "LastUpdate_AppInfo": "2023-12-19T19:57:15.6866052+00:00",
-  "LastUpdate_Ratings": "2023-12-20T23:03:02.3386569+00:00",
-  "LastUpdate_Achievements": "2023-12-20T23:03:23.2431668+00:00"
+  "LastUpdate_Ratings": "2023-12-21T00:03:27.2622366+00:00",
+  "LastUpdate_Achievements": "2023-12-21T00:03:59.6517759+00:00"
 }

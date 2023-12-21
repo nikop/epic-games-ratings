@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
@@ -717,9 +717,9 @@
       "ID": "ACH_010",
       "SetID": "72imik0",
       "Name": "The Denouement",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 79
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH_011",
@@ -821,9 +821,9 @@
       "ID": "ACH_022",
       "SetID": "72imik0",
       "Name": "Room with a View",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 32
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_023",
@@ -861,9 +861,9 @@
       "ID": "ACH_027",
       "SetID": "72imik0",
       "Name": "Well-prepared",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 97
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_028",
@@ -1086,8 +1086,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-07-07T15:57:52.1284059+00:00",
-  "LastChanged_Achievements": "2023-12-20T23:03:37.6318775+00:00",
+  "LastChanged_Achievements": "2023-12-21T00:04:20.3390316+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:51.2766096+00:00",
-  "LastUpdate_Ratings": "2023-12-20T23:02:58.5961023+00:00",
-  "LastUpdate_Achievements": "2023-12-20T23:03:37.63191+00:00"
+  "LastUpdate_Ratings": "2023-12-21T00:03:21.6695371+00:00",
+  "LastUpdate_Achievements": "2023-12-21T00:04:20.3390738+00:00"
 }

@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 256,
+  "EOS_Progressed": 257,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.34,
+  "EOS_Completed_Percentage": 2.33,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:18.1728843+00:00",
@@ -546,6 +546,11 @@
       "Time": "2023-12-20T04:05:39.223759+00:00",
       "NumProgressed": 256,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-21T00:06:41.4808548+00:00",
+      "NumProgressed": 257,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 15,
@@ -563,9 +568,9 @@
       "ID": "02",
       "SetID": "6glb5g1",
       "Name": "Crazy Jungle.",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 85
     },
     {
       "ID": "03",
@@ -605,7 +610,7 @@
       "Name": "Swimming on a dino\u0027s back.",
       "Percentage": 8,
       "XP": 60,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "08",
@@ -613,7 +618,7 @@
       "Name": "Aggressive rocks.",
       "Percentage": 15,
       "XP": 80,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "09",
@@ -669,14 +674,14 @@
       "Name": "The entrails of the beast.",
       "Percentage": 8,
       "XP": 140,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     }
   ],
   "AchievementSets": [
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 256,
+      "Progressed": 257,
       "Completed": 6
     }
   ],
@@ -684,8 +689,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-12-20T23:05:14.6222173+00:00",
+  "LastChanged_Achievements": "2023-12-21T00:06:41.4808544+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:07.9011591+00:00",
-  "LastUpdate_Ratings": "2023-12-20T22:57:59.4756937+00:00",
-  "LastUpdate_Achievements": "2023-12-20T23:05:14.6222267+00:00"
+  "LastUpdate_Ratings": "2023-12-20T23:58:28.4956909+00:00",
+  "LastUpdate_Achievements": "2023-12-21T00:06:41.4808665+00:00"
 }

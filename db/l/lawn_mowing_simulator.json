@@ -2224,9 +2224,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 689692,
+  "EOS_Progressed": 689701,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 1831,
+  "EOS_NewPlayers": 1833,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30299,6 +30299,11 @@
       "Time": "2023-12-20T23:10:05.275867+00:00",
       "NumProgressed": 689692,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-12-21T00:11:00.919465+00:00",
+      "NumProgressed": 689701,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 54,
@@ -30310,7 +30315,7 @@
       "Name": "The dream begins",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 544857
+      "UsersEstimate": 544864
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -30398,7 +30403,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 248289
+      "UsersEstimate": 248292
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -30550,7 +30555,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 213805
+      "UsersEstimate": 213807
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -30614,7 +30619,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 103454
+      "UsersEstimate": 103455
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -30670,7 +30675,7 @@
       "Name": "Credible",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 48278
+      "UsersEstimate": 48279
     },
     {
       "ID": "RP_DISTINGUISHED",
@@ -30710,7 +30715,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 124145
+      "UsersEstimate": 124146
     },
     {
       "ID": "RP_TRUSTED",
@@ -30726,7 +30731,7 @@
       "Name": "Blade Runner",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 62072
+      "UsersEstimate": 62073
     },
     {
       "ID": "UPGRADE_COMPANY_HQ",
@@ -30741,15 +30746,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 689692,
+      "Progressed": 689701,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-12-15T23:57:11.8160512+00:00",
-  "LastChanged_Achievements": "2023-12-20T23:10:05.2758667+00:00",
+  "LastChanged_Achievements": "2023-12-21T00:11:00.9194647+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:21.409328+00:00",
-  "LastUpdate_Ratings": "2023-12-20T22:59:40.8917691+00:00",
-  "LastUpdate_Achievements": "2023-12-20T23:10:05.2760459+00:00"
+  "LastUpdate_Ratings": "2023-12-21T00:01:02.881947+00:00",
+  "LastUpdate_Achievements": "2023-12-21T00:11:00.9195928+00:00"
 }

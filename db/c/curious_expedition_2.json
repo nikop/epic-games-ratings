@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 321,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -70,9 +70,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 365,
+  "EOS_Progressed": 366,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -450,6 +450,11 @@
       "Time": "2023-12-20T07:10:00.9480379+00:00",
       "NumProgressed": 365,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T00:11:03.1559167+00:00",
+      "NumProgressed": 366,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -501,7 +506,7 @@
       "Name": "The New Director",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ach-ascension-complete-years",
@@ -517,7 +522,7 @@
       "Name": "The Director is Dead",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ach-ascension-inspector-return",
@@ -549,7 +554,7 @@
       "Name": "And Here Is Your Statue",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ach-campaign-finish-easy",
@@ -557,7 +562,7 @@
       "Name": "Traveller",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ach-campaign-finish-hard",
@@ -595,9 +600,9 @@
       "ID": "ach-campaign-story1",
       "SetID": "17ih7ma",
       "Name": "A Strange Artefact",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 190
     },
     {
       "ID": "ach-campaign-story2",
@@ -637,7 +642,7 @@
       "Name": "Cartographer",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ach-discover-locations-high",
@@ -645,7 +650,7 @@
       "Name": "Discovery",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ach-drinkingContest",
@@ -669,7 +674,7 @@
       "Name": "Red Flag Pirate",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ach-find-treasure-high",
@@ -701,7 +706,7 @@
       "Name": "It\u0027s Complicated",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ach-joinClubChallenge",
@@ -709,7 +714,7 @@
       "Name": "For the Club!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ach-keepHighStanding",
@@ -717,7 +722,7 @@
       "Name": "Plays Well With Others",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ach-kill-animal-groups",
@@ -741,15 +746,15 @@
       "Name": "Shortening of the Way",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ach-learn-traits",
       "SetID": "17ih7ma",
       "Name": "Shennong Herbalist",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 124
     },
     {
       "ID": "ach-maxClubLevel-american",
@@ -829,7 +834,7 @@
       "Name": "Uncertain Loyalties",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ach-portal-return",
@@ -837,7 +842,7 @@
       "Name": "From Whence we Came",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ach-promotion",
@@ -853,7 +858,7 @@
       "Name": "Good Mama",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ach-redElk",
@@ -861,7 +866,7 @@
       "Name": "A Gentle Beast",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ach-rideDinosaur",
@@ -869,7 +874,7 @@
       "Name": "Practical Palaeontology",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ach-rob-shrines",
@@ -940,7 +945,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 365,
+      "Progressed": 366,
       "Completed": 1
     }
   ],
@@ -948,8 +953,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-12-20T23:10:07.163147+00:00",
+  "LastChanged_Achievements": "2023-12-21T00:11:03.1559164+00:00",
   "LastUpdate_AppInfo": "2023-12-16T13:57:07.0437312+00:00",
-  "LastUpdate_Ratings": "2023-12-20T22:59:45.0084045+00:00",
-  "LastUpdate_Achievements": "2023-12-20T23:10:07.1631941+00:00"
+  "LastUpdate_Ratings": "2023-12-21T00:01:09.0434731+00:00",
+  "LastUpdate_Achievements": "2023-12-21T00:11:03.155964+00:00"
 }

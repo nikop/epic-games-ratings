@@ -1,29 +1,29 @@
 # Kingdom Come: Deliverance
 [Store](https://store.epicgames.com/en-US/p/kingdom-come-deliverance)  
 [View Rawdata](../../db/k/kingdom_come__deliverance.json)  
-Rating: 4.71 (Ranked 197)  
+Rating: 4.71 (Ranked 198)  
 Number of Ratings: 9,133  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~260,321 |
-| Cavalier | 25.00% | ~203,376 |
-| Fatso | 23.00% | ~187,106 |
-| Awakening | 21.00% | ~170,836 |
-| Ranger | 20.00% | ~162,701 |
-| Scrooge | 20.00% | ~162,701 |
+| Blacksmith's Son | 32.00% | ~260,323 |
+| Cavalier | 25.00% | ~203,377 |
+| Fatso | 23.00% | ~187,107 |
+| Awakening | 21.00% | ~170,837 |
+| Ranger | 20.00% | ~162,702 |
+| Scrooge | 20.00% | ~162,702 |
 | Anorectic | 16.00% | ~130,161 |
 | Firestarter | 16.00% | ~130,161 |
 | Bookworm | 15.00% | ~122,026 |
 | Insomniac | 13.00% | ~105,756 |
-| Buddy | 12.00% | ~97,620 |
-| Thief | 12.00% | ~97,620 |
-| Sinner | 11.00% | ~89,485 |
-| Traveller | 11.00% | ~89,485 |
-| Convict | 10.00% | ~81,350 |
-| Haggler | 9.00% | ~73,215 |
-| McLovin | 7.00% | ~56,945 |
-| Runt | 7.00% | ~56,945 |
+| Buddy | 12.00% | ~97,621 |
+| Thief | 12.00% | ~97,621 |
+| Sinner | 11.00% | ~89,486 |
+| Traveller | 11.00% | ~89,486 |
+| Convict | 10.00% | ~81,351 |
+| Haggler | 9.00% | ~73,216 |
+| McLovin | 7.00% | ~56,946 |
+| Runt | 7.00% | ~56,946 |
 | Casanova | 6.00% | ~48,810 |
 | Bad Trip | 5.00% | ~40,675 |
 | Monk | 5.00% | ~40,675 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~814 |
 | Wingman | 0.10% | ~814 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 813,504 (Ranked 18)  
+Progressed: 813,508 (Ranked 18)  
 Completed: 52 (0.01%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,6 +334,7 @@ Completed: 52 (0.01%) (Ranked 361)
 | 2023-12-18 | 813,218 | 52 |
 | 2023-12-19 | 813,355 | 52 |
 | 2023-12-20 | 813,504 | 52 |
+| 2023-12-21 | 813,508 | 52 |
 ## Awards
 Max (Character Customization): 7,689  (Ranked 52)  
 Sum: 28,560 (Ranked 50)  

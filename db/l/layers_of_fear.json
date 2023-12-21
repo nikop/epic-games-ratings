@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 162,
+  "EOS_Progressed": 163,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -749,6 +749,11 @@
       "Time": "2023-12-20T16:03:54.6123488+00:00",
       "NumProgressed": 162,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T00:05:06.224978+00:00",
+      "NumProgressed": 163,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -817,7 +822,7 @@
       "Name": "We Are Not Alone",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "collect_most_of_posters",
@@ -887,9 +892,9 @@
       "ID": "face_your_fears",
       "SetID": "f2im8d",
       "Name": "Face your fears",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "find_most_of_family_mementos",
@@ -913,7 +918,7 @@
       "Name": "Scraps of love",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "find_one_photo",
@@ -1025,7 +1030,7 @@
       "Name": "The Perfect Storm",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "piece_of_story",
@@ -1033,7 +1038,7 @@
       "Name": "A piece of the story",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "playtime",
@@ -1081,7 +1086,7 @@
       "Name": "Instinct of self-preservation",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "sign_of_weakness",
@@ -1089,15 +1094,15 @@
       "Name": "Sign of weakness",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "something_important",
       "SetID": "f2im8d",
       "Name": "Something important",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 130
     },
     {
       "ID": "spy_one_item",
@@ -1161,7 +1166,7 @@
       "Name": "Wanderer",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1176,14 +1181,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 162,
+      "Progressed": 163,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-20T23:04:09.9945405+00:00",
+  "LastChanged_Achievements": "2023-12-21T00:05:06.2249777+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:26.5525701+00:00",
-  "LastUpdate_Ratings": "2023-12-20T22:58:30.5631058+00:00",
-  "LastUpdate_Achievements": "2023-12-20T23:04:09.9945786+00:00"
+  "LastUpdate_Ratings": "2023-12-20T23:59:14.515028+00:00",
+  "LastUpdate_Achievements": "2023-12-21T00:05:06.2250093+00:00"
 }

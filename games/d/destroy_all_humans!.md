@@ -6,23 +6,23 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kaijuiced | 69.00% | ~52 |
-| Lie Back and Think of Albion | 64.00% | ~48 |
-| Yettisoned | 57.00% | ~43 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 57.00% | ~43 |
-| I Look Up As I Walk to Takoshima | 55.00% | ~41 |
-| Shop Til They Drop | 55.00% | ~41 |
-| Lobster Blisque | 51.00% | ~38 |
-| Perfect Probulator | 49.00% | ~37 |
-| Fly Me to the Moon Base | 43.00% | ~32 |
+| Kaijuiced | 71.00% | ~53 |
+| Lie Back and Think of Albion | 65.00% | ~49 |
+| Yettisoned | 59.00% | ~44 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 59.00% | ~44 |
+| I Look Up As I Walk to Takoshima | 56.00% | ~42 |
+| Shop Til They Drop | 56.00% | ~42 |
+| Lobster Blisque | 52.00% | ~39 |
+| Perfect Probulator | 51.00% | ~38 |
+| Fly Me to the Moon Base | 44.00% | ~33 |
 | Earthly Pleasures | 40.00% | ~30 |
+| Pimp My Raid | 40.00% | ~30 |
 | Freshly Squeezed | 39.00% | ~29 |
-| Pimp My Raid | 39.00% | ~29 |
-| Ducks in a Row, Fish in a Barrel | 37.00% | ~28 |
-| Upgreatest | 31.00% | ~23 |
-| Bodied Sattva | 29.00% | ~22 |
+| Ducks in a Row, Fish in a Barrel | 39.00% | ~29 |
+| Upgreatest | 32.00% | ~24 |
+| Bodied Sattva | 31.00% | ~23 |
 | Forbidden Donut | 28.00% | ~21 |
-| Rock of the Bay | 24.00% | ~18 |
+| Rock of the Bay | 25.00% | ~19 |
 | Trans-Siberian Express | 24.00% | ~18 |
 | Furon Fashion | 21.00% | ~16 |
 | Deincarnated | 20.00% | ~15 |

@@ -2168,7 +2168,7 @@
   ],
   "EOS_Progressed": 15854,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18670,9 +18670,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
       "SetID": "9201eeb",
       "Name": "Subjugator",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_VALIANT",
@@ -20750,9 +20750,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_KUSH",
       "SetID": "9201eeb",
       "Name": "Kushite Paganism",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_UNIT_BEJA_ARCHER",
@@ -20908,8 +20908,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-19T18:02:53.2051748+00:00",
-  "LastChanged_Achievements": "2023-12-20T23:09:46.3067807+00:00",
+  "LastChanged_Achievements": "2023-12-21T00:10:35.8969589+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:47.4773202+00:00",
-  "LastUpdate_Ratings": "2023-12-20T23:02:54.5645877+00:00",
-  "LastUpdate_Achievements": "2023-12-20T23:09:46.3077921+00:00"
+  "LastUpdate_Ratings": "2023-12-21T00:03:15.5325414+00:00",
+  "LastUpdate_Achievements": "2023-12-21T00:10:35.8978885+00:00"
 }

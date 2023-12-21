@@ -2,12 +2,12 @@
   "ID": "b4e95103463b491ab34b29e616404325",
   "Name": "The Alto Collection",
   "ProductSlug": "the-alto-collection",
-  "Ranking_Rating": 197,
+  "Ranking_Rating": 198,
   "Ranking_Popularity": 446,
   "Ranking_PopularitySum": 352,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -916,9 +916,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 51064,
+  "EOS_Progressed": 51066,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1065,
+  "EOS_NewPlayers": 1061,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -28666,6 +28666,11 @@
       "Time": "2023-12-20T23:04:05.5837217+00:00",
       "NumProgressed": 51064,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-21T00:04:59.9188229+00:00",
+      "NumProgressed": 51066,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -28717,7 +28722,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 13787
+      "UsersEstimate": 13788
     },
     {
       "ID": "goals180",
@@ -28733,7 +28738,7 @@
       "Name": "Amateur",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5106
+      "UsersEstimate": 5107
     },
     {
       "ID": "goals75",
@@ -28949,7 +28954,7 @@
       "Name": "Enter Paz",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3574
+      "UsersEstimate": 3575
     },
     {
       "ID": "vandal",
@@ -28988,15 +28993,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 51064,
+      "Progressed": 51066,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-12-16T06:59:13.2454805+00:00",
-  "LastChanged_Achievements": "2023-12-20T23:04:05.5837212+00:00",
+  "LastChanged_Achievements": "2023-12-21T00:04:59.9188225+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:56.7269376+00:00",
-  "LastUpdate_Ratings": "2023-12-20T22:57:28.8065226+00:00",
-  "LastUpdate_Achievements": "2023-12-20T23:04:05.5838877+00:00"
+  "LastUpdate_Ratings": "2023-12-20T23:57:41.8556838+00:00",
+  "LastUpdate_Achievements": "2023-12-21T00:04:59.9189682+00:00"
 }

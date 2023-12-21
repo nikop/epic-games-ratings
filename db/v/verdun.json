@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
@@ -1907,9 +1907,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 66920,
+  "EOS_Progressed": 66923,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 675,
+  "EOS_NewPlayers": 676,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -28827,6 +28827,11 @@
       "Time": "2023-12-20T23:04:41.9202146+00:00",
       "NumProgressed": 66920,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-21T00:05:53.5658991+00:00",
+      "NumProgressed": 66923,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -28838,7 +28843,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 36806
+      "UsersEstimate": 36808
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -28958,7 +28963,7 @@
       "Name": "Developers, Developers, Developers",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 16061
+      "UsersEstimate": 16062
     },
     {
       "ID": "VERDUN_ACH_DOUGHBOYS",
@@ -29070,7 +29075,7 @@
       "Name": "Headhunter I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17399
+      "UsersEstimate": 17400
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -29094,7 +29099,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 21414
+      "UsersEstimate": 21415
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -29102,7 +29107,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 26768
+      "UsersEstimate": 26769
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -29126,7 +29131,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 42160
+      "UsersEstimate": 42161
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -29134,7 +29139,7 @@
       "Name": "Gott Mit Uns",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8030
+      "UsersEstimate": 8031
     },
     {
       "ID": "VERDUN_ACH_LEVEL100",
@@ -29174,7 +29179,7 @@
       "Name": "Semper Fidelis!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4684
+      "UsersEstimate": 4685
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS1",
@@ -29182,7 +29187,7 @@
       "Name": "Manual Labour I",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 16730
+      "UsersEstimate": 16731
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -29206,7 +29211,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 52198
+      "UsersEstimate": 52200
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -29222,7 +29227,7 @@
       "Name": "Honneur et Patrie",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4684
+      "UsersEstimate": 4685
     },
     {
       "ID": "VERDUN_ACH_SAMEFRIEND1",
@@ -29302,22 +29307,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 24760
+      "UsersEstimate": 24762
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 66920,
+      "Progressed": 66923,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-12-19T18:57:45.7577848+00:00",
-  "LastChanged_Achievements": "2023-12-20T23:04:41.9202143+00:00",
+  "LastChanged_Achievements": "2023-12-21T00:05:53.5658978+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:33.1495851+00:00",
-  "LastUpdate_Ratings": "2023-12-20T22:58:32.1403676+00:00",
-  "LastUpdate_Achievements": "2023-12-20T23:04:41.9203885+00:00"
+  "LastUpdate_Ratings": "2023-12-20T23:59:16.9642685+00:00",
+  "LastUpdate_Achievements": "2023-12-21T00:05:53.5660368+00:00"
 }

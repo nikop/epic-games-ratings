@@ -6,23 +6,23 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,513 |
-| Gun Fu | 8.00% | ~78,342 |
+| V for Vendetta | 12.00% | ~117,515 |
+| Gun Fu | 8.00% | ~78,343 |
 | The Fool | 7.00% | ~68,550 |
 | Right Back At Ya | 6.00% | ~58,757 |
 | Full Body Conversion | 5.00% | ~48,964 |
 | The Lovers | 5.00% | ~48,964 |
-| Stanislavski's Method | 4.00% | ~39,171 |
-| The Hermit | 4.00% | ~39,171 |
-| The Wheel of Fortune | 4.00% | ~39,171 |
-| True Soldier | 4.00% | ~39,171 |
+| Stanislavski's Method | 4.00% | ~39,172 |
+| The Hermit | 4.00% | ~39,172 |
+| The Wheel of Fortune | 4.00% | ~39,172 |
+| True Soldier | 4.00% | ~39,172 |
 | All the President's Men | 4.00% | ~4,316 |
 | Arachnophobia | 4.00% | ~4,316 |
-| Christmas Tree Attack | 3.00% | ~29,378 |
-| Life of the Road | 3.00% | ~29,378 |
-| The High Priestess | 3.00% | ~29,378 |
-| True Warrior | 3.00% | ~29,378 |
-| Legend of The Afterlife | 3.00% | ~29,378 |
+| Christmas Tree Attack | 3.00% | ~29,379 |
+| Life of the Road | 3.00% | ~29,379 |
+| The High Priestess | 3.00% | ~29,379 |
+| True Warrior | 3.00% | ~29,379 |
+| Legend of The Afterlife | 3.00% | ~29,379 |
 | Relic Ruler | 3.00% | ~3,237 |
 | Bushido and Chill | 2.00% | ~19,586 |
 | To Protect and Serve | 2.00% | ~19,586 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 979,279 (Ranked 16)  
+Progressed: 979,289 (Ranked 16)  
 Completed: 2,948 (0.30%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,9 +319,10 @@ Completed: 2,948 (0.30%) (Ranked 249)
 | 2023-12-18 | 978,465 | 2,935 |
 | 2023-12-19 | 978,882 | 2,944 |
 | 2023-12-20 | 979,279 | 2,948 |
+| 2023-12-21 | 979,289 | 2,948 |
 ## Awards
 Max (Character Customization): 125,560  (Ranked 8)  
-Sum: 433,348 (Ranked 9)  
+Sum: 433,497 (Ranked 9)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -331,7 +332,7 @@ Diff (max vs sum): -1
 | This game has Diverse Characters | 26,313 |
 | This game is Highly Recommended | 25,193 |
 | This game has Amazing Storytelling | 24,750 |
-| This game is Extremely Fun | 24,440 |
+| This game is Extremely Fun | 24,589 |
 | This game has Amazing Characters | 24,390 |
 | This game is Relaxing | 23,632 |
 | This game has Quickly Understood Controls | 23,478 |
@@ -675,3 +676,4 @@ Diff (max vs sum): -1
 | 2023-12-18 | 4.66 | - | 124,846 | 429,269 |
 | 2023-12-19 | 4.66 | - | 125,194 | 431,324 |
 | 2023-12-20 | 4.66 | - | 125,560 | 433,348 |
+| 2023-12-21 | 4.66 | - | 125,560 | 433,497 |

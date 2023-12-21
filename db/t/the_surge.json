@@ -4088,9 +4088,9 @@
       "ID": "ID_ACHIEV_32",
       "SetID": "98bke8c",
       "Name": "Butcher\u0027s Bill",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 2704
+      "UsersEstimate": 2754
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -4384,8 +4384,8 @@
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-11-03T01:46:55.8375725+00:00",
-  "LastChanged_Achievements": "2023-12-20T23:06:23.2082741+00:00",
+  "LastChanged_Achievements": "2023-12-21T00:08:22.5546418+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.7369287+00:00",
-  "LastUpdate_Ratings": "2023-12-20T22:59:18.7738405+00:00",
-  "LastUpdate_Achievements": "2023-12-20T23:06:23.2083327+00:00"
+  "LastUpdate_Ratings": "2023-12-21T00:00:28.2644004+00:00",
+  "LastUpdate_Achievements": "2023-12-21T00:08:22.554702+00:00"
 }

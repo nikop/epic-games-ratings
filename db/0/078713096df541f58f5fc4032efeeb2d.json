@@ -4,7 +4,7 @@
   "ProductSlug": "creepy-tale-3-ingrid-penance-1daff4",
   "Ranking_EOS_Progress": 528,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -280,17 +280,17 @@
       "ID": "creepytale3_ach_11",
       "SetID": "7idcjbn",
       "Name": "Dexterity",
-      "Percentage": 73,
+      "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "creepytale3_ach_12",
       "SetID": "7idcjbn",
       "Name": "Exchange of pleasantries",
-      "Percentage": 39,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "creepytale3_ach_14",
@@ -535,8 +535,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2023-12-20T23:06:33.5088505+00:00",
+  "LastChanged_Achievements": "2023-12-21T00:08:37.2918844+00:00",
   "LastUpdate_AppInfo": "2023-12-20T07:56:51.9801236+00:00",
-  "LastUpdate_Ratings": "2023-12-20T23:02:47.7365518+00:00",
-  "LastUpdate_Achievements": "2023-12-20T23:06:33.5088694+00:00"
+  "LastUpdate_Ratings": "2023-12-21T00:03:05.2023591+00:00",
+  "LastUpdate_Achievements": "2023-12-21T00:08:37.2919001+00:00"
 }

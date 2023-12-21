@@ -275,9 +275,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17274,
+  "EOS_Progressed": 17275,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7445,6 +7445,11 @@
       "Time": "2023-12-20T18:05:12.9926272+00:00",
       "NumProgressed": 17274,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T00:06:04.0450636+00:00",
+      "NumProgressed": 17275,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 26,
@@ -7456,7 +7461,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 16410
+      "UsersEstimate": 16411
     },
     {
       "ID": "ACH001",
@@ -7488,7 +7493,7 @@
       "Name": "Pimp My Glide",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 8464
+      "UsersEstimate": 8465
     },
     {
       "ID": "ACH0013",
@@ -7504,7 +7509,7 @@
       "Name": "Sharing Is Caring",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1727
+      "UsersEstimate": 1728
     },
     {
       "ID": "ACH0015",
@@ -7552,7 +7557,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 12437
+      "UsersEstimate": 12438
     },
     {
       "ID": "ACH0020",
@@ -7568,7 +7573,7 @@
       "Name": "A True Dandy",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "ACH0022",
@@ -7616,7 +7621,7 @@
       "Name": "No Half Measures",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 15028
+      "UsersEstimate": 15029
     },
     {
       "ID": "ACH005",
@@ -7663,7 +7668,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 17274,
+      "Progressed": 17275,
       "Completed": 1
     }
   ],
@@ -7671,8 +7676,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-12-17T00:00:58.734993+00:00",
-  "LastChanged_Achievements": "2023-12-20T23:04:48.4887365+00:00",
+  "LastChanged_Achievements": "2023-12-21T00:06:04.0450632+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:32.8773696+00:00",
-  "LastUpdate_Ratings": "2023-12-20T22:58:39.9859472+00:00",
-  "LastUpdate_Achievements": "2023-12-20T23:04:48.4887756+00:00"
+  "LastUpdate_Ratings": "2023-12-20T23:59:29.3705425+00:00",
+  "LastUpdate_Achievements": "2023-12-21T00:06:04.0451209+00:00"
 }

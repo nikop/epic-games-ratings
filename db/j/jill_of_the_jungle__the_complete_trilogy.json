@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2094,
+  "EOS_Progressed": 2095,
   "EOS_Completed": 162,
   "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 7.74,
+  "EOS_Completed_Percentage": 7.73,
   "EosHistory": [
     {
       "Time": "2023-04-26T15:59:54.0238725+00:00",
@@ -7697,6 +7697,11 @@
       "Time": "2023-12-20T22:04:47.3300993+00:00",
       "NumProgressed": 2094,
       "NumCompleted": 162
+    },
+    {
+      "Time": "2023-12-21T00:04:33.6095452+00:00",
+      "NumProgressed": 2095,
+      "NumCompleted": 162
     }
   ],
   "TotalAchievements": 5,
@@ -7708,7 +7713,7 @@
       "Name": "Welcome to the Jungle",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 2094
+      "UsersEstimate": 2095
     },
     {
       "ID": "2",
@@ -7724,7 +7729,7 @@
       "Name": "Jill the Brave",
       "Percentage": 10,
       "XP": 200,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "4",
@@ -7732,7 +7737,7 @@
       "Name": "Jill the Courageous",
       "Percentage": 9,
       "XP": 200,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "5",
@@ -7747,7 +7752,7 @@
     {
       "ID": "dg4cch5",
       "IsBase": true,
-      "Progressed": 2094,
+      "Progressed": 2095,
       "Completed": 162
     }
   ],
@@ -7755,8 +7760,8 @@
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2023-12-20T23:03:47.0781216+00:00",
+  "LastChanged_Achievements": "2023-12-21T00:04:33.6095448+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:35.6447637+00:00",
-  "LastUpdate_Ratings": "2023-12-20T22:57:51.3445839+00:00",
-  "LastUpdate_Achievements": "2023-12-20T23:03:47.0781594+00:00"
+  "LastUpdate_Ratings": "2023-12-20T23:58:16.1978621+00:00",
+  "LastUpdate_Achievements": "2023-12-21T00:04:33.6095964+00:00"
 }

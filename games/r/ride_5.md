@@ -5,25 +5,25 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eat My Dust | 46.00% | ~1,282 |
-| First Love | 44.00% | ~1,226 |
+| First Love | 44.00% | ~1,227 |
 | Clean Race | 42.00% | ~1,171 |
 | Hear That Roar! | 40.00% | ~1,115 |
-| Rivals to the End | 29.00% | ~808 |
-| Bitter Rivalry | 28.00% | ~780 |
+| Rivals to the End | 29.00% | ~809 |
+| Bitter Rivalry | 28.00% | ~781 |
 | Champagne Spray | 26.00% | ~725 |
 | We're Going to Need a Bigger Garage | 25.00% | ~697 |
-| I Want One Too! | 20.00% | ~557 |
-| Quick Pit Stop | 20.00% | ~557 |
-| Restored and Ready | 19.00% | ~530 |
+| Restored and Ready | 20.00% | ~558 |
+| I Want One Too! | 20.00% | ~558 |
+| Quick Pit Stop | 20.00% | ~558 |
 | Legendary!!! | 19.00% | ~530 |
 | Go-Faster Stripes | 17.00% | ~474 |
 | I'm Here Too! | 15.00% | ~418 |
-| We've Just Begun | 12.00% | ~334 |
+| We've Just Begun | 12.00% | ~335 |
 | Is It the Right Size? | 9.00% | ~251 |
 | Stamina Star | 8.00% | ~223 |
 | Evangelist | 6.00% | ~167 |
 | Make It Your Own! | 5.00% | ~139 |
-| Cherry Blossom and Temples | 4.00% | ~111 |
+| Cherry Blossom and Temples | 4.00% | ~112 |
 | Spoilt for Choice | 3.00% | ~84 |
 | La Dolce Vita | 3.00% | ~84 |
 | The Road to Liberty | 3.00% | ~84 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,787 (Ranked 220)  
+Progressed: 2,788 (Ranked 220)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,3 +165,4 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 2,720 | 0 |
 | 2023-12-19 | 2,759 | 0 |
 | 2023-12-20 | 2,787 | 0 |
+| 2023-12-21 | 2,788 | 0 |

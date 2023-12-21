@@ -5,31 +5,31 @@ Rating: 4.88 (Ranked 16)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 44.00% | ~4,358 |
-| Start with a bang! | 43.00% | ~4,259 |
-| You can pet the cat! | 39.00% | ~3,863 |
-| Who put gears in there? | 31.00% | ~3,070 |
-| Cream of the Crop | 27.00% | ~2,674 |
-| Thanks for the free chip, Peppermint! | 26.00% | ~2,575 |
-| You got this, Peppermint? | 22.00% | ~2,179 |
-| Perfect Parry | 20.00% | ~1,981 |
-| Alright, that felt AWESOME! | 19.00% | ~1,882 |
+| Feeling the beat! | 44.00% | ~4,360 |
+| Start with a bang! | 43.00% | ~4,260 |
+| You can pet the cat! | 39.00% | ~3,864 |
+| Who put gears in there? | 31.00% | ~3,071 |
+| Cream of the Crop | 27.00% | ~2,675 |
+| Thanks for the free chip, Peppermint! | 26.00% | ~2,576 |
+| You got this, Peppermint? | 22.00% | ~2,180 |
+| Perfect Parry | 20.00% | ~1,982 |
+| Alright, that felt AWESOME! | 19.00% | ~1,883 |
 | I play my own way! | 18.00% | ~1,783 |
 | This will cost you big time | 15.00% | ~1,486 |
 | Uh, they were broken when I got here | 15.00% | ~1,486 |
 | Z-shielding's got nothing on us! | 14.00% | ~1,387 |
 | Does that say weakpoint? | 14.00% | ~1,387 |
 | Kissing the sky! | 13.00% | ~1,288 |
-| Whoa! There's ANOTHER health bar!? | 11.00% | ~1,089 |
-| The Negotiator | 10.00% | ~990 |
-| You must like calling me in, Chai | 9.00% | ~891 |
-| I look cool. But I can look COOLER. | 9.00% | ~891 |
-| Headliner | 8.00% | ~792 |
-| Out in a puff of smoke | 8.00% | ~792 |
-| Perfecter Parry-er! | 8.00% | ~792 |
-| Time to pay up! | 7.00% | ~693 |
-| Who's the boss now? | 7.00% | ~693 |
-| I have to read these things? | 7.00% | ~693 |
+| Whoa! There's ANOTHER health bar!? | 11.00% | ~1,090 |
+| The Negotiator | 10.00% | ~991 |
+| You must like calling me in, Chai | 9.00% | ~892 |
+| I look cool. But I can look COOLER. | 9.00% | ~892 |
+| Headliner | 8.00% | ~793 |
+| Out in a puff of smoke | 8.00% | ~793 |
+| Perfecter Parry-er! | 8.00% | ~793 |
+| Time to pay up! | 7.00% | ~694 |
+| Who's the boss now? | 7.00% | ~694 |
+| I have to read these things? | 7.00% | ~694 |
 | NOW we got a kickass hideout! | 6.00% | ~506 |
 | Well that was a rush! | 5.00% | ~495 |
 | That's a lot of junk metal… | 5.00% | ~495 |
@@ -77,7 +77,7 @@ Rating: 4.88 (Ranked 16)
 | Voices from within | 0.10% | ~8 |
 | Low budget finish | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,904 (Ranked 174)  
+Progressed: 9,908 (Ranked 174)  
 Completed: 8 (0.08%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,6 +312,7 @@ Completed: 8 (0.08%) (Ranked 316)
 | 2023-12-18 | 9,200 | 8 |
 | 2023-12-19 | 9,581 | 8 |
 | 2023-12-20 | 9,904 | 8 |
+| 2023-12-21 | 9,908 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
