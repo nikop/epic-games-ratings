@@ -4,8 +4,8 @@
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 578,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2209,9 +2209,9 @@
       "ID": "ACHIEVEMENT_1_ShelterEscape",
       "SetID": "9bke6f1",
       "Name": "Shelter Escape",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 439
+      "UsersEstimate": 445
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -2289,9 +2289,9 @@
       "ID": "ACHIEVEMENT_5_FirstWall",
       "SetID": "9bke6f1",
       "Name": "First wall",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 272
+      "UsersEstimate": 277
     },
     {
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
@@ -2336,8 +2336,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-12-21T07:09:30.0604636+00:00",
+  "LastChanged_Achievements": "2023-12-21T08:09:07.853554+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:14.9985646+00:00",
-  "LastUpdate_Ratings": "2023-12-21T06:59:41.8999242+00:00",
-  "LastUpdate_Achievements": "2023-12-21T07:09:30.0604963+00:00"
+  "LastUpdate_Ratings": "2023-12-21T08:00:22.3280208+00:00",
+  "LastUpdate_Achievements": "2023-12-21T08:09:07.8535738+00:00"
 }

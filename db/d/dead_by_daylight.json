@@ -14096,9 +14096,9 @@
       "Count": 28302
     }
   ],
-  "EOS_Progressed": 1108382,
+  "EOS_Progressed": 1108420,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 14921,
+  "EOS_NewPlayers": 14872,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -42306,6 +42306,11 @@
       "Time": "2023-12-21T07:10:38.4511626+00:00",
       "NumProgressed": 1108382,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-12-21T08:10:42.3649832+00:00",
+      "NumProgressed": 1108420,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 232,
@@ -42325,7 +42330,7 @@
       "Name": "A bite for the Entity",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 6650
+      "UsersEstimate": 6651
     },
     {
       "ID": "ACH_003",
@@ -42341,7 +42346,7 @@
       "Name": "Blood on your hands",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 9975
+      "UsersEstimate": 9976
     },
     {
       "ID": "ACH_005",
@@ -42349,7 +42354,7 @@
       "Name": "Blood on your face",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 6650
+      "UsersEstimate": 6651
     },
     {
       "ID": "ACH_006",
@@ -42485,7 +42490,7 @@
       "Name": "Zealous",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 33251
+      "UsersEstimate": 33253
     },
     {
       "ID": "ACH_023",
@@ -42493,7 +42498,7 @@
       "Name": "It wakes",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 44335
+      "UsersEstimate": 44337
     },
     {
       "ID": "ACH_024",
@@ -42501,7 +42506,7 @@
       "Name": "Not half bad",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 33251
+      "UsersEstimate": 33253
     },
     {
       "ID": "ACH_025",
@@ -42621,7 +42626,7 @@
       "Name": "Skillful",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 33251
+      "UsersEstimate": 33253
     },
     {
       "ID": "ACH_040",
@@ -42789,7 +42794,7 @@
       "Name": "Leapfrog",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6650
+      "UsersEstimate": 6651
     },
     {
       "ID": "ACH_061",
@@ -42877,7 +42882,7 @@
       "Name": "Cottage Owner",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6650
+      "UsersEstimate": 6651
     },
     {
       "ID": "ACH_072",
@@ -42957,7 +42962,7 @@
       "Name": "Escaping the Nightmare",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6650
+      "UsersEstimate": 6651
     },
     {
       "ID": "ACH_082",
@@ -43069,7 +43074,7 @@
       "Name": "Campbell\u0027s Chapel Legacy",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6650
+      "UsersEstimate": 6651
     },
     {
       "ID": "ACH_096",
@@ -43381,7 +43386,7 @@
       "Name": "Grim Pilgrimage",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6650
+      "UsersEstimate": 6651
     },
     {
       "ID": "ACH_138",
@@ -43669,7 +43674,7 @@
       "Name": "Raccoon City Recruit",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 9975
+      "UsersEstimate": 9976
     },
     {
       "ID": "ACH_174",
@@ -43773,7 +43778,7 @@
       "Name": "Flight to Freedom",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 9975
+      "UsersEstimate": 9976
     },
     {
       "ID": "ACH_187",
@@ -43861,7 +43866,7 @@
       "Name": "Outrun the Overlap",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 6650
+      "UsersEstimate": 6651
     },
     {
       "ID": "ACH_198",
@@ -43989,7 +43994,7 @@
       "Name": "Chorus of Chaos",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 9975
+      "UsersEstimate": 9976
     },
     {
       "ID": "ACH_214",
@@ -44053,7 +44058,7 @@
       "Name": "Extraterrestrial",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 6650
+      "UsersEstimate": 6651
     },
     {
       "ID": "ACH_222",
@@ -44085,7 +44090,7 @@
       "Name": "Make Some Noise",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 33251
+      "UsersEstimate": 33253
     },
     {
       "ID": "ACH_226",
@@ -44157,7 +44162,7 @@
       "Name": "Outta Nowhere",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 6650
+      "UsersEstimate": 6651
     },
     {
       "ID": "ACH_235",
@@ -44172,21 +44177,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 1108382,
+      "Progressed": 1108420,
       "Completed": 75
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 1108382,
+      "Progressed": 1108420,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-12-21T05:59:21.186154+00:00",
-  "LastChanged_Achievements": "2023-12-21T07:10:38.4511622+00:00",
+  "LastChanged_Achievements": "2023-12-21T08:10:42.3649828+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:18.8873949+00:00",
-  "LastUpdate_Ratings": "2023-12-21T06:59:53.2164156+00:00",
-  "LastUpdate_Achievements": "2023-12-21T07:10:38.451666+00:00"
+  "LastUpdate_Ratings": "2023-12-21T08:00:39.5911786+00:00",
+  "LastUpdate_Achievements": "2023-12-21T08:10:42.3655116+00:00"
 }

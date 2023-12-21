@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 325,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -459,9 +459,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 4670,
+  "EOS_Progressed": 4671,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 868,
+  "EOS_NewPlayers": 865,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -7184,6 +7184,11 @@
       "Time": "2023-12-21T07:04:55.2658836+00:00",
       "NumProgressed": 4670,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-21T08:04:52.3969573+00:00",
+      "NumProgressed": 4671,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -7243,7 +7248,7 @@
       "Name": "Omelette Du Fromage",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1354
+      "UsersEstimate": 1355
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -7275,7 +7280,7 @@
       "Name": "This Went Smoothly",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "ACH_FINISH_NIGHTMARE",
@@ -7307,7 +7312,7 @@
       "Name": "Call Me Snake",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 2615
+      "UsersEstimate": 2616
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -7315,7 +7320,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 2802
+      "UsersEstimate": 2803
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -7345,9 +7350,9 @@
       "ID": "ACH_MAX_GUNNER",
       "SetID": "816efe",
       "Name": "El Riesgo Siempre Vive",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 981
+      "UsersEstimate": 1028
     },
     {
       "ID": "ACH_MAX_MEDIC",
@@ -7387,7 +7392,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 2568
+      "UsersEstimate": 2569
     },
     {
       "ID": "ACH_MISSION_02",
@@ -7411,7 +7416,7 @@
       "Name": "Making a Stand",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1821
+      "UsersEstimate": 1822
     },
     {
       "ID": "ACH_MISSION_05",
@@ -7419,7 +7424,7 @@
       "Name": "Where It All Begun",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 1634
+      "UsersEstimate": 1635
     },
     {
       "ID": "ACH_MISSION_06",
@@ -7427,7 +7432,7 @@
       "Name": "Living Nightmare",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1354
+      "UsersEstimate": 1355
     },
     {
       "ID": "ACH_MISSION_07",
@@ -7491,7 +7496,7 @@
       "Name": "Snatched Out",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 3129
+      "UsersEstimate": 3130
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -7507,7 +7512,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2475
+      "UsersEstimate": 2476
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -7515,7 +7520,7 @@
       "Name": "People Person",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 2335
+      "UsersEstimate": 2336
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -7554,7 +7559,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 4670,
+      "Progressed": 4671,
       "Completed": 3
     }
   ],
@@ -7562,8 +7567,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-12-20T12:00:34.5216417+00:00",
-  "LastChanged_Achievements": "2023-12-21T07:04:55.2658831+00:00",
+  "LastChanged_Achievements": "2023-12-21T08:04:52.3969565+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:23.8354928+00:00",
-  "LastUpdate_Ratings": "2023-12-21T07:00:26.6084425+00:00",
-  "LastUpdate_Achievements": "2023-12-21T07:04:55.2659486+00:00"
+  "LastUpdate_Ratings": "2023-12-21T08:01:29.4349852+00:00",
+  "LastUpdate_Achievements": "2023-12-21T08:04:52.3970059+00:00"
 }

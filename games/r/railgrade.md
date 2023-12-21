@@ -5,22 +5,22 @@ Rating: 4.55 (Ranked 512)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 106.00% | ~19,226 |
-| Before the Downfall | 100.00% | ~18,138 |
-| Money like Water | 98.00% | ~17,775 |
-| Minimalist | 97.00% | ~17,594 |
-| Builder | 89.00% | ~16,143 |
-| Eraser | 75.00% | ~13,604 |
-| Pocket of Trains | 70.00% | ~12,697 |
+| Trevithick's Legacy | 106.00% | ~19,225 |
+| Before the Downfall | 100.00% | ~18,137 |
+| Money like Water | 98.00% | ~17,774 |
+| Minimalist | 97.00% | ~17,593 |
+| Builder | 89.00% | ~16,142 |
+| Eraser | 75.00% | ~13,603 |
+| Pocket of Trains | 70.00% | ~12,696 |
 | Inspector | 64.00% | ~11,608 |
-| Going the Distance | 58.00% | ~10,520 |
+| Going the Distance | 58.00% | ~10,519 |
 | Oil Baron | 45.00% | ~8,162 |
 | Loads-a-Money | 45.00% | ~8,162 |
 | Helper of the People | 42.00% | ~7,618 |
 | Simplification | 37.00% | ~6,711 |
-| Box of Trains | 36.00% | ~6,530 |
+| Box of Trains | 36.00% | ~6,529 |
 | Let There be Light | 35.00% | ~6,348 |
-| Hot Water | 33.00% | ~5,986 |
+| Hot Water | 33.00% | ~5,985 |
 | Indecisive | 32.00% | ~5,804 |
 | The scenic route | 30.00% | ~5,441 |
 | Industrialist | 27.00% | ~4,897 |
@@ -33,7 +33,7 @@ Rating: 4.55 (Ranked 512)
 | Multiverse | 8.00% | ~1,451 |
 | The poor groundwater levels | 8.00% | ~1,451 |
 | Metropolis | 8.00% | ~1,451 |
-| High Flier | 4.00% | ~726 |
+| High Flier | 4.00% | ~725 |
 | To infinity, and beyond! | 3.00% | ~544 |
 | Space industrialization | 2.00% | ~363 |
 | Deertastic | 1.00% | ~181 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 512)
 | Overdeer | 0.60% | ~109 |
 | Cloud Services | 0.30% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,138 (Ranked 150)  
+Progressed: 18,137 (Ranked 150)  
 Completed: 27 (0.15%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,6 +285,7 @@ Completed: 27 (0.15%) (Ranked 288)
 | 2023-12-18 | 18,158 | 27 |
 | 2023-12-19 | 18,150 | 27 |
 | 2023-12-20 | 18,144 | 27 |
+| 2023-12-21 | 18,137 | 27 |
 ## Awards
 Max (Quickly Understood Controls): 93  (Ranked 383)  
 Sum: 680 (Ranked 309)  

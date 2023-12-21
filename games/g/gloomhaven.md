@@ -7,28 +7,28 @@ Number of Ratings: 68  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I'm not dead yet | 40.00% | ~11,090 |
-| Overkill | 34.00% | ~9,426 |
+| Overkill | 34.00% | ~9,427 |
 | Vaccine Incoming | 32.00% | ~8,872 |
-| A normal day in Gloomhaven | 30.00% | ~8,317 |
+| A normal day in Gloomhaven | 30.00% | ~8,318 |
 | Spread the plague | 28.00% | ~7,763 |
 | Get over here! | 24.00% | ~6,654 |
 | Just when I thought I was out... | 19.00% | ~5,268 |
 | Mine... All Mine... | 17.00% | ~4,713 |
 | Precious! | 16.00% | ~4,436 |
 | Grizzled veteran | 15.00% | ~4,159 |
-| Anatomy Lesson | 14.00% | ~3,881 |
+| Anatomy Lesson | 14.00% | ~3,882 |
 | Obstacle race | 13.00% | ~3,604 |
 | Light of my life | 13.00% | ~3,604 |
 | You activated my trap card! | 12.00% | ~3,327 |
 | Who's the Boss? | 11.00% | ~3,050 |
 | Augmented rat | 11.00% | ~3,050 |
-| Doom and gloom | 10.00% | ~2,772 |
+| Doom and gloom | 10.00% | ~2,773 |
 | Dungeon Veteran | 9.00% | ~2,495 |
 | Pain is your friend | 8.00% | ~2,218 |
 | Black death | 8.00% | ~2,218 |
 | Play it again, Sam | 8.00% | ~2,218 |
 | Pack leader | 7.00% | ~1,941 |
-| Quad damage | 6.00% | ~1,663 |
+| Quad damage | 6.00% | ~1,664 |
 | Power Up! | 5.00% | ~1,386 |
 | Merchant of doom | 5.00% | ~1,386 |
 | Caught off guard | 5.00% | ~1,386 |
@@ -39,13 +39,13 @@ Number of Ratings: 68  (23.09.2022)
 | Down the hatch | 3.00% | ~832 |
 | An eye for an eye | 3.00% | ~832 |
 | The Cephalophore | 3.00% | ~832 |
-| From Gloom, only greed and death emerges | 2.00% | ~554 |
-| The Rat King | 2.00% | ~554 |
-| How to train your Drake | 2.00% | ~554 |
-| Master Assassin | 2.00% | ~554 |
-| The Sniper | 2.00% | ~554 |
-| Grin and bear it | 2.00% | ~554 |
-| An axe to grind | 2.00% | ~554 |
+| From Gloom, only greed and death emerges | 2.00% | ~555 |
+| The Rat King | 2.00% | ~555 |
+| How to train your Drake | 2.00% | ~555 |
+| Master Assassin | 2.00% | ~555 |
+| The Sniper | 2.00% | ~555 |
+| Grin and bear it | 2.00% | ~555 |
+| An axe to grind | 2.00% | ~555 |
 | Betray this | 1.00% | ~277 |
 | Add a bit of colour | 1.00% | ~277 |
 | Captain hooked | 1.00% | ~277 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~28 |
 | Murder Death Kill | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,724 (Ranked 135)  
+Progressed: 27,726 (Ranked 135)  
 Completed: 1 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 1 (0.00%) (Ranked 384)
 | 2023-12-18 | 27,282 | 1 |
 | 2023-12-19 | 27,467 | 1 |
 | 2023-12-20 | 27,662 | 1 |
-| 2023-12-21 | 27,724 | 1 |
+| 2023-12-21 | 27,726 | 1 |
 ## Awards
 Max (Character Customization): 3,603  (Ranked 92)  
 Sum: 8,422 (Ranked 104)  

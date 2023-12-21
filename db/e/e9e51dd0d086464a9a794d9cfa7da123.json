@@ -2,10 +2,10 @@
   "ID": "e9e51dd0d086464a9a794d9cfa7da123",
   "Name": "Desktop Girlfriend NEO",
   "ProductSlug": "desktop-girlfriend-neo-136f5a",
-  "Ranking_EOS_Progress": 500,
+  "Ranking_EOS_Progress": 499,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 412,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-25T04:00:00+00:00",
     "PcReleaseDate": "2023-10-25T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 73,
+  "EOS_Progressed": 74,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -379,6 +379,11 @@
       "Time": "2023-12-17T23:10:49.9341703+00:00",
       "NumProgressed": 73,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T08:10:39.5850571+00:00",
+      "NumProgressed": 74,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-16T10:08:21.0101681+00:00",
@@ -405,7 +410,7 @@
       "ID": "CLC",
       "SetID": "2621k8c",
       "Name": "Cat-like constitution",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 7
     },
@@ -469,7 +474,7 @@
       "ID": "Doubt",
       "SetID": "2621k8c",
       "Name": "Doubt",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 7
     },
@@ -573,7 +578,7 @@
       "ID": "HAB",
       "SetID": "2621k8c",
       "Name": "Healthy and beautiful",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
       "UsersEstimate": 18
     },
@@ -781,7 +786,7 @@
       "ID": "Merged",
       "SetID": "2621k8c",
       "Name": "Merged",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 10,
       "UsersEstimate": 32
     },
@@ -797,7 +802,7 @@
       "ID": "Numb",
       "SetID": "2621k8c",
       "Name": "Numb",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -901,7 +906,7 @@
       "ID": "Richer",
       "SetID": "2621k8c",
       "Name": "Richer",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
       "UsersEstimate": 18
     },
@@ -949,7 +954,7 @@
       "ID": "SelflessLove",
       "SetID": "2621k8c",
       "Name": "Selfless Love",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 7
     },
@@ -1045,7 +1050,7 @@
       "ID": "TMBM",
       "SetID": "2621k8c",
       "Name": "The most beautiful memory",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 5,
       "UsersEstimate": 24
     },
@@ -1134,14 +1139,14 @@
     {
       "ID": "2621k8c",
       "IsBase": true,
-      "Progressed": 73,
+      "Progressed": 74,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T16:57:18.9896255+00:00",
   "FirstSeenAchievements": "2023-09-14T09:02:21.8735151+00:00",
-  "LastChanged_Achievements": "2023-12-21T07:10:36.2216019+00:00",
+  "LastChanged_Achievements": "2023-12-21T08:10:39.5850566+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.0306936+00:00",
-  "LastUpdate_Ratings": "2023-12-21T06:57:41.7126573+00:00",
-  "LastUpdate_Achievements": "2023-12-21T07:10:36.2216774+00:00"
+  "LastUpdate_Ratings": "2023-12-21T07:57:22.1674537+00:00",
+  "LastUpdate_Achievements": "2023-12-21T08:10:39.5851522+00:00"
 }

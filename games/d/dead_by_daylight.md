@@ -6,11 +6,11 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 4.00% | ~44,335 |
-| Zealous | 3.00% | ~33,251 |
-| Not half bad | 3.00% | ~33,251 |
-| Skillful | 3.00% | ~33,251 |
-| Make Some Noise | 3.00% | ~33,251 |
+| It wakes | 4.00% | ~44,337 |
+| Zealous | 3.00% | ~33,253 |
+| Not half bad | 3.00% | ~33,253 |
+| Skillful | 3.00% | ~33,253 |
+| Make Some Noise | 3.00% | ~33,253 |
 | The Grand Sacrifice | 2.00% | ~22,168 |
 | Agonizing Escape | 2.00% | ~22,168 |
 | Backdoor Escape | 2.00% | ~22,168 |
@@ -44,10 +44,10 @@ Number of Ratings: 70,340  (23.09.2022)
 | With Scars to Show | 1.00% | ~11,084 |
 | Lifting The Fog | 1.00% | ~11,084 |
 | Second Act | 1.00% | ~11,084 |
-| Blood on your hands | 0.90% | ~9,975 |
-| Raccoon City Recruit | 0.90% | ~9,975 |
-| Flight to Freedom | 0.90% | ~9,975 |
-| Chorus of Chaos | 0.90% | ~9,975 |
+| Blood on your hands | 0.90% | ~9,976 |
+| Raccoon City Recruit | 0.90% | ~9,976 |
+| Flight to Freedom | 0.90% | ~9,976 |
+| Chorus of Chaos | 0.90% | ~9,976 |
 | Made it out alive! | 0.80% | ~8,867 |
 | Gifts for the Fog | 0.80% | ~8,867 |
 | III-50 | 0.80% | ~8,867 |
@@ -68,16 +68,16 @@ Number of Ratings: 70,340  (23.09.2022)
 | A Fast Death | 0.70% | ~7,759 |
 | One More Step | 0.70% | ~7,759 |
 | MU/TH/UR Dearest | 0.70% | ~7,759 |
-| A bite for the Entity | 0.60% | ~6,650 |
-| Blood on your face | 0.60% | ~6,650 |
-| Leapfrog | 0.60% | ~6,650 |
-| Cottage Owner | 0.60% | ~6,650 |
-| Escaping the Nightmare | 0.60% | ~6,650 |
-| Campbell's Chapel Legacy | 0.60% | ~6,650 |
-| Grim Pilgrimage | 0.60% | ~6,650 |
-| Outrun the Overlap | 0.60% | ~6,650 |
-| Extraterrestrial | 0.60% | ~6,650 |
-| Outta Nowhere | 0.60% | ~6,650 |
+| A bite for the Entity | 0.60% | ~6,651 |
+| Blood on your face | 0.60% | ~6,651 |
+| Leapfrog | 0.60% | ~6,651 |
+| Cottage Owner | 0.60% | ~6,651 |
+| Escaping the Nightmare | 0.60% | ~6,651 |
+| Campbell's Chapel Legacy | 0.60% | ~6,651 |
+| Grim Pilgrimage | 0.60% | ~6,651 |
+| Outrun the Overlap | 0.60% | ~6,651 |
+| Extraterrestrial | 0.60% | ~6,651 |
+| Outta Nowhere | 0.60% | ~6,651 |
 | Hemophobia | 0.50% | ~5,542 |
 | Serial Killer | 0.50% | ~5,542 |
 | Game Over | 0.50% | ~5,542 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,108 |
 | Adept Good Guy | 0.10% | ~1,108 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,108,382 (Ranked 13)  
+Progressed: 1,108,420 (Ranked 13)  
 Completed: 63 (0.01%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -484,7 +484,7 @@ Completed: 63 (0.01%) (Ranked 361)
 | 2023-12-18 | 1,104,280 | 63 |
 | 2023-12-19 | 1,106,038 | 63 |
 | 2023-12-20 | 1,107,875 | 63 |
-| 2023-12-21 | 1,108,382 | 63 |
+| 2023-12-21 | 1,108,420 | 63 |
 ## Awards
 Max (Diverse Characters): 38,307  (Ranked 15)  
 Sum: 289,567 (Ranked 12)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 167,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -2725,9 +2725,9 @@
       "ID": "achievement_27",
       "SetID": "2cpn27e",
       "Name": "Mighty Marmelizer",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 205
     },
     {
       "ID": "achievement_28",
@@ -2963,8 +2963,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-21T07:09:41.3662034+00:00",
+  "LastChanged_Achievements": "2023-12-21T08:09:23.3674026+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:11.6761115+00:00",
-  "LastUpdate_Ratings": "2023-12-21T06:57:45.6964604+00:00",
-  "LastUpdate_Achievements": "2023-12-21T07:09:41.3662705+00:00"
+  "LastUpdate_Ratings": "2023-12-21T07:57:27.9613384+00:00",
+  "LastUpdate_Achievements": "2023-12-21T08:09:23.3674389+00:00"
 }

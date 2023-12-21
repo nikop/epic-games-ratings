@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 325,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -637,9 +637,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3593,
+  "EOS_Progressed": 3594,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -10362,6 +10362,11 @@
       "Time": "2023-12-21T07:08:55.3398082+00:00",
       "NumProgressed": 3593,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-21T08:08:20.1143037+00:00",
+      "NumProgressed": 3594,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -10573,7 +10578,7 @@
       "Name": "Frostfire Liberator",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "fullparty",
@@ -10605,7 +10610,7 @@
       "Name": "Guild Power",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "herewegoagain",
@@ -10725,7 +10730,7 @@
       "Name": "Moving Up The Ladder",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "mysteriousrock",
@@ -10765,7 +10770,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1904
+      "UsersEstimate": 1905
     },
     {
       "ID": "prestigiousx10",
@@ -10781,7 +10786,7 @@
       "Name": "Relic Of The Past",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "sailor",
@@ -10805,7 +10810,7 @@
       "Name": "Scroll Master",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "silverwoodliberator",
@@ -10829,7 +10834,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2012
+      "UsersEstimate": 2013
     },
     {
       "ID": "thealchemist",
@@ -10933,7 +10938,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3341
+      "UsersEstimate": 3342
     },
     {
       "ID": "warmachinesarmy",
@@ -10972,7 +10977,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3593,
+      "Progressed": 3594,
       "Completed": 2
     }
   ],
@@ -10980,8 +10985,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-17T09:00:20.6514627+00:00",
-  "LastChanged_Achievements": "2023-12-21T07:08:55.3398078+00:00",
+  "LastChanged_Achievements": "2023-12-21T08:08:20.1143033+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:13.7887636+00:00",
-  "LastUpdate_Ratings": "2023-12-21T06:58:18.7291592+00:00",
-  "LastUpdate_Achievements": "2023-12-21T07:08:55.339905+00:00"
+  "LastUpdate_Ratings": "2023-12-21T07:58:17.5442622+00:00",
+  "LastUpdate_Achievements": "2023-12-21T08:08:20.1143911+00:00"
 }

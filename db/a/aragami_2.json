@@ -251,9 +251,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44412,
+  "EOS_Progressed": 44413,
   "EOS_Completed": 247,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -19331,6 +19331,11 @@
       "Time": "2023-12-21T04:08:16.3595609+00:00",
       "NumProgressed": 44412,
       "NumCompleted": 247
+    },
+    {
+      "Time": "2023-12-21T08:07:14.2858157+00:00",
+      "NumProgressed": 44413,
+      "NumCompleted": 247
     }
   ],
   "TotalAchievements": 44,
@@ -19382,7 +19387,7 @@
       "Name": "Ruse",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5329
+      "UsersEstimate": 5330
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -19430,7 +19435,7 @@
       "Name": "Left Behind",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1776
+      "UsersEstimate": 1777
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -19438,7 +19443,7 @@
       "Name": "Secrets of the Earth",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1776
+      "UsersEstimate": 1777
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -19454,7 +19459,7 @@
       "Name": "Heart of Fire",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1776
+      "UsersEstimate": 1777
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -19534,7 +19539,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 16432
+      "UsersEstimate": 16433
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -19550,7 +19555,7 @@
       "Name": "Wall Lizard",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 8882
+      "UsersEstimate": 8883
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -19590,7 +19595,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11991
+      "UsersEstimate": 11992
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -19606,7 +19611,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 26647
+      "UsersEstimate": 26648
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -19614,7 +19619,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 29756
+      "UsersEstimate": 29757
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -19646,7 +19651,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19985
+      "UsersEstimate": 19986
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -19678,7 +19683,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 41303
+      "UsersEstimate": 41304
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -19686,14 +19691,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 23094
+      "UsersEstimate": 23095
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 44412,
+      "Progressed": 44413,
       "Completed": 247
     }
   ],
@@ -19701,8 +19706,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-17T19:02:52.186594+00:00",
-  "LastChanged_Achievements": "2023-12-21T07:06:37.8375798+00:00",
+  "LastChanged_Achievements": "2023-12-21T08:07:14.2858148+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:54.9639492+00:00",
-  "LastUpdate_Ratings": "2023-12-21T07:03:54.2316301+00:00",
-  "LastUpdate_Achievements": "2023-12-21T07:06:37.8376837+00:00"
+  "LastUpdate_Ratings": "2023-12-21T08:03:23.6863796+00:00",
+  "LastUpdate_Achievements": "2023-12-21T08:07:14.2859509+00:00"
 }

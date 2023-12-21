@@ -4,7 +4,7 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 478,
+  "EOS_Progressed": 479,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -1297,6 +1297,11 @@
       "Time": "2023-12-21T00:03:59.6517159+00:00",
       "NumProgressed": 478,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-21T08:04:04.2508468+00:00",
+      "NumProgressed": 479,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1363,9 +1368,9 @@
       "ID": "FIRST_ACCEL_COMBO",
       "SetID": "apihg0e",
       "Name": "Combo Convert",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 163
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -1413,7 +1418,7 @@
       "Name": "Unknown Threat",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1421,7 +1426,7 @@
       "Name": "Speed Demon",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "FIRST_S_RANK",
@@ -1437,7 +1442,7 @@
       "Name": "Ticket to Tranquility",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "GET_FISH_ALL",
@@ -1467,9 +1472,9 @@
       "ID": "MAIN_CLEAR_ISLAND2",
       "SetID": "apihg0e",
       "Name": "Ancient Defiance",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 53
     },
     {
       "ID": "MAIN_CLEAR_ISLAND3",
@@ -1477,7 +1482,7 @@
       "Name": "Futile Resistance",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "MAIN_CLEAR_ISLAND4",
@@ -1501,7 +1506,7 @@
       "Name": "The Journey Begins",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1565,7 +1570,7 @@
       "Name": "Unrivaled Aptitude",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "SPEED_STATUS_REACH_NUM",
@@ -1628,14 +1633,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 478,
+      "Progressed": 479,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-21T07:04:20.7447824+00:00",
+  "LastChanged_Achievements": "2023-12-21T08:04:04.2508463+00:00",
   "LastUpdate_AppInfo": "2023-12-19T19:57:15.6866052+00:00",
-  "LastUpdate_Ratings": "2023-12-21T07:03:51.9044226+00:00",
-  "LastUpdate_Achievements": "2023-12-21T07:04:20.7448132+00:00"
+  "LastUpdate_Ratings": "2023-12-21T08:03:20.2786623+00:00",
+  "LastUpdate_Achievements": "2023-12-21T08:04:04.2508879+00:00"
 }

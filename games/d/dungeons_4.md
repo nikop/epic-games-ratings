@@ -48,7 +48,7 @@
 | Bonus Evilness | 24.00% | ~144 |
 | The Rune Sockets of Finitude (Part 1) | 24.00% | ~144 |
 | Raiders of the Lost Stone | 23.00% | ~138 |
-| The Rune Sockets of Finitude (Part 2) | 21.00% | ~126 |
+| The Rune Sockets of Finitude (Part 2) | 22.00% | ~132 |
 | Rubble and Ashes | 20.00% | ~120 |
 | The Last Stand - This Time For Real! | 20.00% | ~120 |
 | My Little Torture Chamber | 18.00% | ~108 |

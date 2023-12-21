@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 353,
   "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1580,9 +1580,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 134419,
+  "EOS_Progressed": 134424,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 2395,
+  "EOS_NewPlayers": 2400,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -25540,6 +25540,11 @@
       "Time": "2023-12-21T07:07:01.044645+00:00",
       "NumProgressed": 134419,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-21T08:07:46.9352098+00:00",
+      "NumProgressed": 134424,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -25583,7 +25588,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 24195
+      "UsersEstimate": 24196
     },
     {
       "ID": "ACH_COP_BAD",
@@ -25607,7 +25612,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 32261
+      "UsersEstimate": 32262
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -25631,7 +25636,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 37637
+      "UsersEstimate": 37639
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -25655,7 +25660,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 21507
+      "UsersEstimate": 21508
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -25663,7 +25668,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 26884
+      "UsersEstimate": 26885
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -25679,7 +25684,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 17474
+      "UsersEstimate": 17475
     },
     {
       "ID": "ACH_COP_STAR",
@@ -25687,7 +25692,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 21507
+      "UsersEstimate": 21508
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -25695,7 +25700,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 14786
+      "UsersEstimate": 14787
     },
     {
       "ID": "ACH_CUNO",
@@ -25870,15 +25875,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 134419,
+      "Progressed": 134424,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-12-20T18:59:31.4218961+00:00",
-  "LastChanged_Achievements": "2023-12-21T07:07:01.0446444+00:00",
+  "LastChanged_Achievements": "2023-12-21T08:07:46.9352093+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:27.1763316+00:00",
-  "LastUpdate_Ratings": "2023-12-21T07:00:09.3929743+00:00",
-  "LastUpdate_Achievements": "2023-12-21T07:07:01.0447867+00:00"
+  "LastUpdate_Ratings": "2023-12-21T08:01:03.8728137+00:00",
+  "LastUpdate_Achievements": "2023-12-21T08:07:46.9353275+00:00"
 }

@@ -26,15 +26,15 @@
 | Law student | 58.00% | ~253 |
 | Workout professional | 56.00% | ~244 |
 | Handyman | 56.00% | ~244 |
+| Fight for life | 55.00% | ~240 |
 | Little hacker | 55.00% | ~240 |
 | Champion – starter pack | 55.00% | ~240 |
 | It's good to be alive | 55.00% | ~240 |
 | Intriguing candies | 55.00% | ~240 |
 | Employee of the year | 55.00% | ~240 |
-| Fight for life | 54.00% | ~235 |
 | Own four walls | 54.00% | ~235 |
+| Extreme neuropower! | 51.00% | ~222 |
 | Legal courier | 50.00% | ~218 |
-| Extreme neuropower! | 50.00% | ~218 |
 | Escaped from a big trouble | 47.00% | ~205 |
 | Now you are worthy | 44.00% | ~192 |
 | Fight is life | 43.00% | ~187 |

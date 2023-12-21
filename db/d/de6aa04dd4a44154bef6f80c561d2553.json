@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 571,
   "Ranking_EOS_Completed": 99,
   "Ranking_EOS_NewPlayers": 465,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-09-06T02:00:00+00:00",
     "PcReleaseDate": "2020-10-28T16:00:00+00:00",
@@ -208,17 +208,17 @@
       "ID": "BuyLowSellHigh",
       "SetID": "c8fdd59",
       "Name": "Buy Low Sell High",
-      "Percentage": 43,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Catcha",
       "SetID": "c8fdd59",
       "Name": "Catcha",
-      "Percentage": 46,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Chapter01_TheDesperado",
@@ -240,9 +240,9 @@
       "ID": "Chapter03_DangerousDeal",
       "SetID": "c8fdd59",
       "Name": "Dangerous Deal",
-      "Percentage": 64,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Chapter04_AJourneyBegins",
@@ -384,9 +384,9 @@
       "ID": "FirstBuildingInElysium",
       "SetID": "c8fdd59",
       "Name": "Something in the Scroll",
-      "Percentage": 57,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "GoodCompany",
@@ -400,9 +400,9 @@
       "ID": "HitTheBoardRunning",
       "SetID": "c8fdd59",
       "Name": "Hit the Board Running",
-      "Percentage": 46,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Marker",
@@ -424,9 +424,9 @@
       "ID": "PowerUp",
       "SetID": "c8fdd59",
       "Name": "Power Up",
-      "Percentage": 25,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Prologue_PeaceDisturbed",
@@ -456,9 +456,9 @@
       "ID": "ScrollToWin",
       "SetID": "c8fdd59",
       "Name": "Scroll to Win",
-      "Percentage": 39,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "SecretBase",
@@ -543,8 +543,8 @@
   ],
   "FirstSeen": "2023-09-08T10:00:07.3821883+00:00",
   "FirstSeenAchievements": "2023-08-28T07:03:21.9021387+00:00",
-  "LastChanged_Achievements": "2023-12-21T07:10:33.0755833+00:00",
+  "LastChanged_Achievements": "2023-12-21T08:10:35.7050557+00:00",
   "LastUpdate_AppInfo": "2023-12-18T15:57:06.3706988+00:00",
-  "LastUpdate_Ratings": "2023-12-21T06:58:00.0781256+00:00",
-  "LastUpdate_Achievements": "2023-12-21T07:10:33.0756078+00:00"
+  "LastUpdate_Ratings": "2023-12-21T07:57:49.249482+00:00",
+  "LastUpdate_Achievements": "2023-12-21T08:10:35.7050871+00:00"
 }

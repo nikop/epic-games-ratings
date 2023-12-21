@@ -43,10 +43,10 @@
 | Silver Drift Hollow Mine | 9.00% | ~6 |
 | Mage Teacher | 9.00% | ~6 |
 | A Master of Magic | 9.00% | ~6 |
+| A Joke | 9.00% | ~6 |
 | Defeat Hokan | 7.00% | ~5 |
 | Lore's Tale | 7.00% | ~5 |
 | Yngrid's Tale | 7.00% | ~5 |
-| A Joke | 7.00% | ~5 |
 | Get to the Airship! | 6.00% | ~4 |
 | Defeat Isgrimm | 6.00% | ~4 |
 | Defeat Undergast | 6.00% | ~4 |

@@ -4,7 +4,7 @@
   "ProductSlug": "botanicula-50043d",
   "Ranking_EOS_Progress": 476,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
@@ -470,9 +470,9 @@
       "ID": "Ach-02-dzin",
       "SetID": "2pjo9pi",
       "Name": "Dzin",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Ach-02-hopik",
@@ -526,9 +526,9 @@
       "ID": "Ach-02-zlo",
       "SetID": "2pjo9pi",
       "Name": "Zlo A",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Ach-03-jepice",
@@ -542,9 +542,9 @@
       "ID": "Ach-03-pidalka",
       "SetID": "2pjo9pi",
       "Name": "Pidalka",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Ach-03-skakavec",
@@ -566,9 +566,9 @@
       "ID": "Ach-03-zaba",
       "SetID": "2pjo9pi",
       "Name": "Zaba",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Ach-03-zrout",
@@ -790,9 +790,9 @@
       "ID": "Ach-level-2",
       "SetID": "2pjo9pi",
       "Name": "Level 2",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Ach-level-3",
@@ -845,8 +845,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2023-12-21T07:09:22.2260536+00:00",
+  "LastChanged_Achievements": "2023-12-21T08:08:56.920052+00:00",
   "LastUpdate_AppInfo": "2023-12-20T19:57:04.4834278+00:00",
-  "LastUpdate_Ratings": "2023-12-21T06:58:12.4161077+00:00",
-  "LastUpdate_Achievements": "2023-12-21T07:09:22.2260872+00:00"
+  "LastUpdate_Ratings": "2023-12-21T07:58:08.2421601+00:00",
+  "LastUpdate_Achievements": "2023-12-21T08:08:56.9200866+00:00"
 }

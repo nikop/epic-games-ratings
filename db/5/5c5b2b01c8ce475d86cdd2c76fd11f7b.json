@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 549,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 289,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
     "PcReleaseDate": "2016-08-23T05:00:00+00:00",
@@ -666,9 +666,9 @@
       "ID": "NEW_ACHIEVEMENT_2_3",
       "SetID": "7on801h",
       "Name": "K is for Kazdy",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_30",
@@ -895,8 +895,8 @@
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2023-12-21T07:04:08.9889725+00:00",
+  "LastChanged_Achievements": "2023-12-21T08:03:47.6672687+00:00",
   "LastUpdate_AppInfo": "2023-12-20T16:57:12.9726855+00:00",
-  "LastUpdate_Ratings": "2023-12-21T06:57:51.1025929+00:00",
-  "LastUpdate_Achievements": "2023-12-21T07:04:08.9890539+00:00"
+  "LastUpdate_Ratings": "2023-12-21T07:57:35.8539005+00:00",
+  "LastUpdate_Achievements": "2023-12-21T08:03:47.6673353+00:00"
 }
