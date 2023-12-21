@@ -56,7 +56,7 @@
 | 54 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.40% |
 | 55 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.35% |
 | 56 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.25% |
-| 57 | [Scorn](games/s/scorn.md) | 6.98% |
+| 57 | [Scorn](games/s/scorn.md) | 7.02% |
 | 58 | [Anna's Quest](games/a/anna's_quest.md) | 6.90% |
 | 58 | [Sonic Origins](games/s/sonic_origins.md) | 6.90% |
 | 60 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 6.82% |
@@ -74,7 +74,7 @@
 | 71 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 5.88% |
 | 71 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 5.88% |
 | 74 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
-| 75 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.36% |
+| 75 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.35% |
 | 76 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.00% |
 | 77 | [Bugsnax](games/b/bugsnax.md) | 4.86% |
 | 78 | [JARS](games/j/jars.md) | 4.76% |
@@ -97,9 +97,9 @@
 | 95 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.90% |
 | 96 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 3.77% |
 | 97 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 3.70% |
-| 97 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 3.70% |
-| 99 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.62% |
-| 100 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.57% |
+| 98 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.62% |
+| 99 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.57% |
+| 99 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 3.57% |
 | 101 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.49% |
 | 102 | [Time on Frog Island](games/t/time_on_frog_island.md) | 3.45% |
 | 103 | [Doodle God](games/d/doodle_god.md) | 3.41% |
@@ -146,8 +146,8 @@
 | 144 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.58% |
 | 145 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.57% |
 | 146 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.53% |
-| 147 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.48% |
-| 148 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.47% |
+| 147 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.47% |
+| 147 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.47% |
 | 149 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.45% |
 | 150 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.44% |
 | 151 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.42% |
@@ -164,17 +164,17 @@
 | 161 | [Lemon Cake](games/l/lemon_cake.md) | 1.14% |
 | 161 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.14% |
 | 164 | [Late Shift](games/l/late_shift.md) | 1.13% |
-| 165 | [Botanicula](games/5/5c7501617f3449c5a6eed7590392f9fa.md) | 1.12% |
+| 165 | [Botanicula](games/5/5c7501617f3449c5a6eed7590392f9fa.md) | 1.11% |
 | 166 | [Adios](games/a/adios.md) | 1.10% |
-| 167 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.09% |
 | 167 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.09% |
 | 167 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 1.09% |
+| 169 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.08% |
 | 170 | [Ten Dates](games/t/ten_dates.md) | 1.07% |
 | 171 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.05% |
 | 172 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.03% |
 | 173 | [Sable](games/s/sable.md) | 1.02% |
 | 174 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.01% |
-| 175 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.00% |
+| 175 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 0.99% |
 | 176 | [Colossal Cave](games/c/colossal_cave.md) | 0.97% |
 | 177 | [Trifox](games/t/trifox.md) | 0.96% |
 | 178 | [A Musical Story](games/a/a_musical_story.md) | 0.91% |
