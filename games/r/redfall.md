@@ -5,14 +5,14 @@ Rating: 3.56 (Ranked 1,064)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 10.00% | ~197 |
+| I Like My Stakes Rare! | 10.00% | ~198 |
 | Home Is Where the Heart Is | 7.00% | ~138 |
 | Wounded Whispers | 7.00% | ~138 |
 | Catch and Release | 7.00% | ~138 |
 | Blood Will Have Blood | 6.00% | ~118 |
 | Ne Plus Ultra | 6.00% | ~118 |
+| Fly Fisher | 6.00% | ~118 |
 | ICU | 6.00% | ~118 |
-| Fly Fisher | 5.00% | ~99 |
 | Peek-a-boo | 5.00% | ~99 |
 | Sucks To Be You | 5.00% | ~99 |
 | Enter of Your Own Free Will | 4.00% | ~79 |
@@ -22,11 +22,11 @@ Rating: 3.56 (Ranked 1,064)
 | Bad Wiring | 3.00% | ~59 |
 | Grounded | 3.00% | ~59 |
 | Skin of Their Teeth | 3.00% | ~59 |
-| Neighborhood Revitalization | 2.00% | ~39 |
-| Radio Silence | 2.00% | ~39 |
-| Starve the Beast | 2.00% | ~39 |
-| Helping Hand | 2.00% | ~39 |
-| I Spit On Your Grave | 2.00% | ~39 |
+| Neighborhood Revitalization | 2.00% | ~40 |
+| Radio Silence | 2.00% | ~40 |
+| Starve the Beast | 2.00% | ~40 |
+| Helping Hand | 2.00% | ~40 |
+| I Spit On Your Grave | 2.00% | ~40 |
 | Contingency Plans | 1.00% | ~20 |
 | Sic Transit Umbra | 1.00% | ~20 |
 | Bell-ringer | 1.00% | ~20 |
@@ -72,7 +72,7 @@ Rating: 3.56 (Ranked 1,064)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,974 (Ranked 236)  
+Progressed: 1,975 (Ranked 236)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 1,930 | 0 |
 | 2023-12-19 | 1,947 | 0 |
 | 2023-12-20 | 1,963 | 0 |
-| 2023-12-21 | 1,974 | 0 |
+| 2023-12-21 | 1,975 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

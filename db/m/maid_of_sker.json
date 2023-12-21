@@ -2,9 +2,9 @@
   "ID": "89a30c2a3fdb4281b5df57350e797ca9",
   "Name": "Maid of Sker",
   "ProductSlug": "maid-of-sker-2ae24e",
-  "Ranking_EOS_Progress": 390,
+  "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -639,9 +639,9 @@
       "ID": "choking_hazzard",
       "SetID": "3j2phem",
       "Name": "Choking Hazard",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 105
+      "UsersEstimate": 107
     },
     {
       "ID": "dodgy_geezer",
@@ -848,8 +848,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-12-21T19:07:44.5385934+00:00",
+  "LastChanged_Achievements": "2023-12-21T20:08:39.9846329+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:12.385492+00:00",
-  "LastUpdate_Ratings": "2023-12-21T18:59:45.0127278+00:00",
-  "LastUpdate_Achievements": "2023-12-21T19:07:44.5386123+00:00"
+  "LastUpdate_Ratings": "2023-12-21T20:00:01.2638533+00:00",
+  "LastUpdate_Achievements": "2023-12-21T20:08:39.984654+00:00"
 }

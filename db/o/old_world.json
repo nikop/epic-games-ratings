@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2174,7 +2174,7 @@
   ],
   "EOS_Progressed": 15861,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20725,9 +20725,9 @@
       "ID": "ACHIEVEMENT_EGYPT6_MINOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "History Repeats",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_EGYPT6_PHARAOH_MAJOR_VICTORY",
@@ -20749,9 +20749,9 @@
       "ID": "ACHIEVEMENT_EGYPT_CAMPAIGN_COMPLETED",
       "SetID": "9201eeb",
       "Name": "Egypt Campaign",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_EGYPT_EXODUS_VICTORY",
@@ -20939,8 +20939,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-21T01:48:44.1957278+00:00",
-  "LastChanged_Achievements": "2023-12-21T19:09:37.6457854+00:00",
+  "LastChanged_Achievements": "2023-12-21T20:10:21.8324841+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:47.4773202+00:00",
-  "LastUpdate_Ratings": "2023-12-21T19:02:52.8050356+00:00",
-  "LastUpdate_Achievements": "2023-12-21T19:09:37.6467086+00:00"
+  "LastUpdate_Ratings": "2023-12-21T20:03:07.5095823+00:00",
+  "LastUpdate_Achievements": "2023-12-21T20:10:21.8335316+00:00"
 }

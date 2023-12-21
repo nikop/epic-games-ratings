@@ -9,9 +9,9 @@
 | First winning | 83.00% | ~364 |
 | Good Person Chip | 83.00% | ~364 |
 | Your first job | 82.00% | ~360 |
+| Old movies enjoyer | 77.00% | ~338 |
 | Depressed visitor | 77.00% | ~338 |
 | Fitness professional | 76.00% | ~334 |
-| Old movies enjoyer | 76.00% | ~334 |
 | Neurotrainer – power gainer! | 76.00% | ~334 |
 | Employee of the week | 75.00% | ~329 |
 | Your own amateur gym | 70.00% | ~307 |
@@ -40,12 +40,12 @@
 | Fight is life | 43.00% | ~189 |
 | Mysterious voice | 42.00% | ~184 |
 | Guiding on the right path | 42.00% | ~184 |
-| No blades in the gym | 40.00% | ~176 |
+| No blades in the gym | 41.00% | ~180 |
 | Champion – no way back | 39.00% | ~171 |
 | Underground dwellers | 38.00% | ~167 |
 | Responsible approach | 38.00% | ~167 |
+| Deal with life | 37.00% | ~162 |
 | Mom got better | 36.00% | ~158 |
-| Deal with life | 36.00% | ~158 |
 | GYM professional | 36.00% | ~158 |
 | The die is cast | 36.00% | ~158 |
 | Poisoned fighter | 35.00% | ~154 |

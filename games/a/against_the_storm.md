@@ -8,36 +8,36 @@ Number of Ratings: 1,845  (23.09.2022)
 | ---- | ---------- | ----- |
 | Abandoned Settlement | 6.00% | ~1,131 |
 | Overgrown Library | 6.00% | ~1,131 |
-| Petrified Necropolis | 5.00% | ~942 |
+| Petrified Necropolis | 5.00% | ~943 |
 | First Real Expedition | 4.00% | ~754 |
 | Taking Action | 4.00% | ~754 |
 | No Deaths | 4.00% | ~754 |
 | Frosts | 4.00% | ~754 |
 | Ominous Presence | 4.00% | ~754 |
 | Gathering Storm | 4.00% | ~754 |
-| Overcoming Difficulty | 3.00% | ~565 |
-| Coral Forest | 3.00% | ~565 |
-| The Marshlands | 3.00% | ~565 |
-| The Scarlet Orchard | 3.00% | ~565 |
-| Land of Greed | 3.00% | ~565 |
+| Overcoming Difficulty | 3.00% | ~566 |
+| Coral Forest | 3.00% | ~566 |
+| The Marshlands | 3.00% | ~566 |
+| The Scarlet Orchard | 3.00% | ~566 |
+| Land of Greed | 3.00% | ~566 |
 | Homesick | 2.00% | ~377 |
 | Fertile Meadows | 2.00% | ~377 |
 | Monastery of the Holy Flame | 2.00% | ~377 |
 | Royal Outpost | 2.00% | ~377 |
 | Watchtower | 2.00% | ~377 |
 | Untamed Wilds | 2.00% | ~377 |
-| Ruined Armory | 1.00% | ~188 |
-| Bandit Camp | 1.00% | ~188 |
-| Barren Lands | 1.00% | ~188 |
-| Ancient Battleground | 1.00% | ~188 |
-| Sparkdew Crystals | 1.00% | ~188 |
-| Levitating Monument | 1.00% | ~188 |
-| Lost Colonies | 1.00% | ~188 |
-| Statue of the Forefathers | 1.00% | ~188 |
-| Corrosive Torrent | 1.00% | ~188 |
-| Cursed Lands | 1.00% | ~188 |
-| A Real Challenge | 1.00% | ~188 |
-| Trade Baron | 1.00% | ~188 |
+| Ruined Armory | 1.00% | ~189 |
+| Bandit Camp | 1.00% | ~189 |
+| Barren Lands | 1.00% | ~189 |
+| Ancient Battleground | 1.00% | ~189 |
+| Sparkdew Crystals | 1.00% | ~189 |
+| Levitating Monument | 1.00% | ~189 |
+| Lost Colonies | 1.00% | ~189 |
+| Statue of the Forefathers | 1.00% | ~189 |
+| Corrosive Torrent | 1.00% | ~189 |
+| Cursed Lands | 1.00% | ~189 |
+| A Real Challenge | 1.00% | ~189 |
+| Trade Baron | 1.00% | ~189 |
 | Haunted Forest | 0.90% | ~170 |
 | Flooded Mines | 0.90% | ~170 |
 | Against All Odds | 0.80% | ~151 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,847 (Ranked 148)  
+Progressed: 18,852 (Ranked 148)  
 Completed: 39 (0.21%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 39 (0.21%) (Ranked 268)
 | 2023-12-18 | 18,615 | 39 |
 | 2023-12-19 | 18,687 | 39 |
 | 2023-12-20 | 18,771 | 39 |
-| 2023-12-21 | 18,847 | 39 |
+| 2023-12-21 | 18,852 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 228)  
 Sum: 3,277 (Ranked 175)  

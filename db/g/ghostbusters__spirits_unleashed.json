@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 182,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3795,9 +3795,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32498,
+  "EOS_Progressed": 32501,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 251,
+  "EOS_NewPlayers": 252,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -22980,6 +22980,11 @@
       "Time": "2023-12-21T19:06:16.0244317+00:00",
       "NumProgressed": 32498,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-21T20:06:31.3016779+00:00",
+      "NumProgressed": 32501,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -23143,7 +23148,7 @@
       "Name": "Ghost Expert",
       "Percentage": 0.3,
       "XP": 75,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "Icing_Cake",
@@ -23175,7 +23180,7 @@
       "Name": "Line em\u0027 up",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Little_Help",
@@ -23191,7 +23196,7 @@
       "Name": "Master Collector",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "Mycophile",
@@ -23398,7 +23403,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32498,
+      "Progressed": 32501,
       "Completed": 69
     }
   ],
@@ -23406,8 +23411,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-20T22:59:24.9447429+00:00",
-  "LastChanged_Achievements": "2023-12-21T19:06:16.0244313+00:00",
+  "LastChanged_Achievements": "2023-12-21T20:06:31.3016774+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:05.1146147+00:00",
-  "LastUpdate_Ratings": "2023-12-21T19:00:08.3233362+00:00",
-  "LastUpdate_Achievements": "2023-12-21T19:06:16.024538+00:00"
+  "LastUpdate_Ratings": "2023-12-21T20:00:25.0308187+00:00",
+  "LastUpdate_Achievements": "2023-12-21T20:06:31.3018269+00:00"
 }

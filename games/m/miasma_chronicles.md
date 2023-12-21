@@ -5,26 +5,26 @@ Rating: 4.37 (Ranked 782)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,499 |
-| Ranidaphobia | 77.00% | ~1,254 |
-| Aspiring Editor | 74.00% | ~1,205 |
-| Gun for Hire | 69.00% | ~1,124 |
+| First Blood | 92.00% | ~1,500 |
+| Ranidaphobia | 77.00% | ~1,255 |
+| Aspiring Editor | 74.00% | ~1,206 |
+| Gun for Hire | 69.00% | ~1,125 |
 | I am the law! | 64.00% | ~1,043 |
-| Lumberjack | 53.00% | ~863 |
-| Croaked | 49.00% | ~798 |
-| Limp Richard | 49.00% | ~798 |
+| Lumberjack | 53.00% | ~864 |
+| Croaked | 49.00% | ~799 |
+| Limp Richard | 49.00% | ~799 |
 | Editor Adept | 48.00% | ~782 |
 | Exorcist | 48.00% | ~782 |
 | From Darkness to Light | 48.00% | ~782 |
-| Giant Killer | 46.00% | ~749 |
+| Giant Killer | 46.00% | ~750 |
 | Sensei | 44.00% | ~717 |
-| Firestarter | 42.00% | ~684 |
-| The meaning of Kain | 42.00% | ~684 |
+| Firestarter | 42.00% | ~685 |
+| The meaning of Kain | 42.00% | ~685 |
 | Technophobe | 41.00% | ~668 |
 | Recycler | 40.00% | ~652 |
-| Are you not entertained? | 36.00% | ~586 |
-| Ganglord | 36.00% | ~586 |
-| Jarhead | 36.00% | ~586 |
+| Are you not entertained? | 36.00% | ~587 |
+| Ganglord | 36.00% | ~587 |
+| Jarhead | 36.00% | ~587 |
 | Infiltrator | 35.00% | ~570 |
 | Experienced | 33.00% | ~538 |
 | Hold The Line | 33.00% | ~538 |
@@ -33,8 +33,8 @@ Rating: 4.37 (Ranked 782)
 | Savior | 28.00% | ~456 |
 | Silent but Violent | 27.00% | ~440 |
 | There Can Be Only One! | 27.00% | ~440 |
-| Chain Killer | 22.00% | ~358 |
-| The Watchers | 22.00% | ~358 |
+| Chain Killer | 22.00% | ~359 |
+| The Watchers | 22.00% | ~359 |
 | Commando | 17.00% | ~277 |
 | Dr Jones | 17.00% | ~277 |
 | Chaos Theory | 16.00% | ~261 |
@@ -57,7 +57,7 @@ Rating: 4.37 (Ranked 782)
 | Goaaaaal! | 0.90% | ~15 |
 | QA Has Suffered! (Redux) | 0.80% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,629 (Ranked 246)  
+Progressed: 1,630 (Ranked 246)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 1,617 | 0 |
 | 2023-12-19 | 1,621 | 0 |
 | 2023-12-20 | 1,626 | 0 |
-| 2023-12-21 | 1,629 | 0 |
+| 2023-12-21 | 1,630 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

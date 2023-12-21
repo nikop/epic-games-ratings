@@ -6,27 +6,27 @@ Number of Ratings: 28  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 78.00% | ~445 |
-| Close call! | 72.00% | ~411 |
-| Builder | 53.00% | ~303 |
-| Pangs of conscience | 45.00% | ~257 |
-| Living it large! | 45.00% | ~257 |
-| Collector | 44.00% | ~251 |
+| Getting started | 78.00% | ~447 |
+| Close call! | 72.00% | ~413 |
+| Builder | 52.00% | ~298 |
+| Pangs of conscience | 45.00% | ~258 |
+| Living it large! | 45.00% | ~258 |
+| Collector | 44.00% | ~252 |
 | Need to think | 43.00% | ~246 |
-| Completely nuts! | 41.00% | ~234 |
-| Europe | 33.00% | ~188 |
-| Just in time! | 33.00% | ~188 |
-| Madness! | 32.00% | ~183 |
+| Completely nuts! | 41.00% | ~235 |
+| Europe | 33.00% | ~189 |
+| Just in time! | 33.00% | ~189 |
+| Madness! | 31.00% | ~178 |
 | It's no coincidence. | 29.00% | ~166 |
-| Philatelist | 26.00% | ~148 |
-| Let's roll! | 26.00% | ~148 |
+| Philatelist | 26.00% | ~149 |
+| Let's roll! | 26.00% | ~149 |
 | Ouroboros | 25.00% | ~143 |
-| Non Stop! | 24.00% | ~137 |
+| Non Stop! | 24.00% | ~138 |
 | Foreman | 21.00% | ~120 |
-| Russia | 20.00% | ~114 |
-| America | 19.00% | ~108 |
+| Russia | 20.00% | ~115 |
+| America | 19.00% | ~109 |
 | Missed it! | 18.00% | ~103 |
-| Sabotage | 16.00% | ~91 |
+| Sabotage | 16.00% | ~92 |
 | Achtung! | 12.00% | ~69 |
 | Japan | 11.00% | ~63 |
 | Woodcutter | 11.00% | ~63 |
@@ -41,12 +41,12 @@ Number of Ratings: 28  (23.09.2022)
 | Lucky vandal | 2.00% | ~11 |
 | Salesman | 0.70% | ~4 |
 | BBQ | 0.50% | ~3 |
-| Vandal | 0.40% | ~2 |
-| Mega-railroad | 0.40% | ~2 |
-| Juggler | 0.40% | ~2 |
-| Maniac vandal | 0.40% | ~2 |
+| Vandal | 0.30% | ~2 |
+| Mega-railroad | 0.30% | ~2 |
+| Juggler | 0.30% | ~2 |
+| Maniac vandal | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 571 (Ranked 323)  
+Progressed: 573 (Ranked 323)  
 Completed: 2 (0.35%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,6 +176,7 @@ Completed: 2 (0.35%) (Ranked 237)
 | 2023-12-18 | 564 | 2 |
 | 2023-12-19 | 567 | 2 |
 | 2023-12-20 | 571 | 2 |
+| 2023-12-21 | 573 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

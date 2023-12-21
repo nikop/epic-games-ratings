@@ -6,42 +6,42 @@ Number of Ratings: 13,393  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~126,465 |
-| Comeback | 82.00% | ~116,519 |
-| Information is Key | 80.00% | ~113,677 |
-| Unlucky | 70.00% | ~99,467 |
-| Anarchist | 68.00% | ~96,625 |
-| Wallhack | 65.00% | ~92,362 |
-| Steady Supply | 60.00% | ~85,258 |
-| Lucky Shot | 53.00% | ~75,311 |
-| Ring Ring! | 52.00% | ~73,890 |
-| Forward Observer | 51.00% | ~72,469 |
-| Bossing Around | 45.00% | ~63,943 |
-| Frostbite | 45.00% | ~63,943 |
-| Night Owl | 44.00% | ~62,522 |
-| Strength in Numbers | 44.00% | ~62,522 |
-| Fog of War | 41.00% | ~58,259 |
-| Rasputin | 39.00% | ~55,417 |
-| Stronghold Denied | 39.00% | ~55,417 |
-| Anyone Else? | 38.00% | ~53,996 |
-| Hydra | 36.00% | ~51,155 |
-| This Belongs to Us Now | 36.00% | ~51,155 |
-| Stronghold | 35.00% | ~49,734 |
-| Leeroy | 33.00% | ~46,892 |
-| Lost Batallion | 33.00% | ~46,892 |
-| This is MY Machine Gun! | 32.00% | ~45,471 |
-| Together As One | 31.00% | ~44,050 |
-| Gavrilo Princip | 27.00% | ~38,366 |
-| Lead Harvest | 25.00% | ~35,524 |
-| Skynet Confirmed | 23.00% | ~32,682 |
-| Kesselschlacht | 22.00% | ~31,261 |
-| Democracy Works! | 20.00% | ~28,419 |
-| Switch, Please! | 19.00% | ~26,998 |
-| At Least This Way I Can Win... | 18.00% | ~25,577 |
-| Tourist | 18.00% | ~25,577 |
-| I've Seen It All | 17.00% | ~24,156 |
-| Oops! | 17.00% | ~24,156 |
-| Developers, Developers, Developers, Developers! | 16.00% | ~22,735 |
+| Immovable Object | 89.00% | ~126,472 |
+| Comeback | 82.00% | ~116,524 |
+| Information is Key | 80.00% | ~113,682 |
+| Unlucky | 70.00% | ~99,472 |
+| Anarchist | 68.00% | ~96,630 |
+| Wallhack | 65.00% | ~92,367 |
+| Steady Supply | 60.00% | ~85,262 |
+| Lucky Shot | 53.00% | ~75,315 |
+| Ring Ring! | 52.00% | ~73,894 |
+| Forward Observer | 51.00% | ~72,473 |
+| Bossing Around | 45.00% | ~63,946 |
+| Frostbite | 45.00% | ~63,946 |
+| Night Owl | 44.00% | ~62,525 |
+| Strength in Numbers | 44.00% | ~62,525 |
+| Fog of War | 41.00% | ~58,262 |
+| Rasputin | 39.00% | ~55,420 |
+| Stronghold Denied | 39.00% | ~55,420 |
+| Anyone Else? | 38.00% | ~53,999 |
+| Hydra | 36.00% | ~51,157 |
+| This Belongs to Us Now | 36.00% | ~51,157 |
+| Stronghold | 35.00% | ~49,736 |
+| Leeroy | 33.00% | ~46,894 |
+| Lost Batallion | 33.00% | ~46,894 |
+| This is MY Machine Gun! | 32.00% | ~45,473 |
+| Together As One | 31.00% | ~44,052 |
+| Gavrilo Princip | 27.00% | ~38,368 |
+| Lead Harvest | 25.00% | ~35,526 |
+| Skynet Confirmed | 23.00% | ~32,684 |
+| Kesselschlacht | 22.00% | ~31,263 |
+| Democracy Works! | 20.00% | ~28,421 |
+| Switch, Please! | 19.00% | ~27,000 |
+| At Least This Way I Can Win... | 18.00% | ~25,579 |
+| Tourist | 18.00% | ~25,579 |
+| I've Seen It All | 17.00% | ~24,158 |
+| Oops! | 17.00% | ~24,158 |
+| Developers, Developers, Developers, Developers! | 16.00% | ~22,736 |
 | Butcher | 12.00% | ~17,052 |
 | Before the Leaves Fall | 10.00% | ~14,210 |
 | Close Call | 10.00% | ~14,210 |
@@ -74,7 +74,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Seeing is Believing | 0.90% | ~1,279 |
 | Road to Berlin | 0.60% | ~853 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,096 (Ranked 83)  
+Progressed: 142,103 (Ranked 83)  
 Completed: 34 (0.02%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,10 +319,10 @@ Completed: 34 (0.02%) (Ranked 353)
 | 2023-12-18 | 141,794 | 34 |
 | 2023-12-19 | 141,902 | 34 |
 | 2023-12-20 | 142,005 | 34 |
-| 2023-12-21 | 142,096 | 34 |
+| 2023-12-21 | 142,103 | 34 |
 ## Awards
 Max (Competitive Players): 335  (Ranked 248)  
-Sum: 3,292 (Ranked 174)  
+Sum: 3,293 (Ranked 174)  
 Diff (max vs sum): 74  
 | Award | Count |
 | ----- | ----- |
@@ -332,8 +332,8 @@ Diff (max vs sum): 74
 | This game is Extremely Fun | 317 |
 | This game has Quickly Understood Controls | 317 |
 | This game is Relaxing | 315 |
+| This game is Highly Recommended | 285 |
 | This game has Amazing Characters | 284 |
-| This game is Highly Recommended | 284 |
 | This game has Realistic Visuals | 270 |
 | This game has a Competitive Community | 266 |
 | This game has Amazing Storytelling | 258 |
@@ -534,3 +534,4 @@ Diff (max vs sum): 74
 | 2023-12-16 | 4.39 | - | 335 | 3,289 |
 | 2023-12-18 | 4.39 | - | 335 | 3,291 |
 | 2023-12-19 | 4.39 | - | 335 | 3,292 |
+| 2023-12-21 | 4.39 | - | 335 | 3,293 |

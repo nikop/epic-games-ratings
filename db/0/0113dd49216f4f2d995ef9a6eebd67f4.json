@@ -687,9 +687,9 @@
       "ID": "SG_ACROSSTHESTYX",
       "SetID": "bj5g0n4",
       "Name": "Across The Styx",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "SG_AGAINSTALLODDS",
@@ -871,9 +871,9 @@
       "ID": "SG_SNAKECHARMER",
       "SetID": "bj5g0n4",
       "Name": "Snake Charmer",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "SG_TALKTOTHEHAND",
@@ -982,8 +982,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-12-21T19:08:29.5342635+00:00",
+  "LastChanged_Achievements": "2023-12-21T20:09:15.0561293+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:52.970167+00:00",
-  "LastUpdate_Ratings": "2023-12-21T18:57:11.8511292+00:00",
-  "LastUpdate_Achievements": "2023-12-21T19:08:29.5342891+00:00"
+  "LastUpdate_Ratings": "2023-12-21T19:57:27.1399467+00:00",
+  "LastUpdate_Achievements": "2023-12-21T20:09:15.056153+00:00"
 }

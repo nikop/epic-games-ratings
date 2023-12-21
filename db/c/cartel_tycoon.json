@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -2907,9 +2907,9 @@
       "ID": "rage-quit",
       "SetID": "bed33dd",
       "Name": "Bad Trip",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 373
     },
     {
       "ID": "rename-lieutenant",
@@ -2979,8 +2979,8 @@
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-12T19:59:33.5091909+00:00",
-  "LastChanged_Achievements": "2023-12-21T19:05:12.985445+00:00",
+  "LastChanged_Achievements": "2023-12-21T20:05:27.8013532+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.4837395+00:00",
-  "LastUpdate_Ratings": "2023-12-21T18:57:09.072723+00:00",
-  "LastUpdate_Achievements": "2023-12-21T19:05:12.9854677+00:00"
+  "LastUpdate_Ratings": "2023-12-21T19:57:24.1871369+00:00",
+  "LastUpdate_Achievements": "2023-12-21T20:05:27.8013768+00:00"
 }

@@ -1,32 +1,32 @@
 # Horizon Chase Turbo
 [Store](https://store.epicgames.com/en-US/p/horizon-chase-turbo)  
 [View Rawdata](../../db/h/horizon_chase_turbo.json)  
-Rating: 4.54 (Ranked 533)  
+Rating: 4.55 (Ranked 510)  
 Number of Ratings: 1,343  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~981,495 |
-| I Need a Bigger Garage | 63.00% | ~687,046 |
-| Pump my Ride | 47.00% | ~512,558 |
-| Ghostbuster | 34.00% | ~370,787 |
-| Call Roadside Assistance | 18.00% | ~196,299 |
-| That Was Close | 18.00% | ~196,299 |
-| Quickie | 11.00% | ~119,960 |
-| California Dreamer | 7.00% | ~76,338 |
-| Can't Touch This | 5.00% | ~54,528 |
-| Carménère Taster | 4.00% | ~43,622 |
-| Comeback | 4.00% | ~43,622 |
-| Driver from Ipanema | 3.00% | ~32,716 |
-| Supersonic | 3.00% | ~32,716 |
-| Marathonist | 3.00% | ~32,716 |
-| Living Legend | 3.00% | ~32,716 |
-| God of Roads | 2.00% | ~21,811 |
-| Pathfinder | 2.00% | ~21,811 |
-| Go-Kart Champion | 2.00% | ~21,811 |
-| Round the Globe | 2.00% | ~21,811 |
-| Completionist | 2.00% | ~21,811 |
-| Harder, Better, Faster, Stronger | 2.00% | ~21,811 |
+| The First of Many | 90.00% | ~981,520 |
+| I Need a Bigger Garage | 63.00% | ~687,064 |
+| Pump my Ride | 47.00% | ~512,572 |
+| Ghostbuster | 34.00% | ~370,797 |
+| Call Roadside Assistance | 18.00% | ~196,304 |
+| That Was Close | 18.00% | ~196,304 |
+| Quickie | 11.00% | ~119,964 |
+| California Dreamer | 7.00% | ~76,340 |
+| Can't Touch This | 5.00% | ~54,529 |
+| Carménère Taster | 4.00% | ~43,623 |
+| Comeback | 4.00% | ~43,623 |
+| Driver from Ipanema | 3.00% | ~32,717 |
+| Supersonic | 3.00% | ~32,717 |
+| Marathonist | 3.00% | ~32,717 |
+| Living Legend | 3.00% | ~32,717 |
+| God of Roads | 2.00% | ~21,812 |
+| Pathfinder | 2.00% | ~21,812 |
+| Go-Kart Champion | 2.00% | ~21,812 |
+| Round the Globe | 2.00% | ~21,812 |
+| Completionist | 2.00% | ~21,812 |
+| Harder, Better, Faster, Stronger | 2.00% | ~21,812 |
 | Crocodile Hunter | 1.00% | ~10,906 |
 | The Iceman | 1.00% | ~10,906 |
 | Bollywood Star | 1.00% | ~10,906 |
@@ -35,7 +35,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Brave and Bold | 1.00% | ~10,906 |
 | Old Master | 0.90% | ~9,815 |
 | Otaku | 0.90% | ~9,815 |
-| Volcano Surfer | 0.80% | ~8,724 |
+| Volcano Surfer | 0.80% | ~8,725 |
 | Survivor | 0.60% | ~6,543 |
 | King of the World | 0.60% | ~6,543 |
 | Getting Famous | 0.50% | ~5,453 |
@@ -44,8 +44,8 @@ Number of Ratings: 1,343  (23.09.2022)
 | Look Mom, No Hands! | 0.20% | ~2,181 |
 | Transporter | 0.10% | ~1,091 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,090,550 (Ranked 14)  
-Completed: 514 (0.05%) (Ranked 332)  
+Progressed: 1,090,578 (Ranked 14)  
+Completed: 515 (0.05%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -289,10 +289,10 @@ Completed: 514 (0.05%) (Ranked 332)
 | 2023-12-18 | 1,089,170 | 510 |
 | 2023-12-19 | 1,089,602 | 510 |
 | 2023-12-20 | 1,090,114 | 511 |
-| 2023-12-21 | 1,090,550 | 514 |
+| 2023-12-21 | 1,090,578 | 515 |
 ## Awards
 Max (Great for Beginners): 178  (Ranked 306)  
-Sum: 1,595 (Ranked 235)  
+Sum: 1,597 (Ranked 235)  
 Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
@@ -300,12 +300,12 @@ Diff (max vs sum): 71
 | This game has Diverse Characters | 152 |
 | This game is Great for Quick Sessions | 150 |
 | This game has Quickly Understood Controls | 147 |
-| This game is Relaxing | 143 |
+| This game is Relaxing | 144 |
 | This game is Highly Recommended | 139 |
 | This game has Competitive Players | 128 |
 | This game has Playful Visuals | 128 |
 | This game is Extremely Fun | 126 |
-| This game has Amazing Storytelling | 110 |
+| This game has Amazing Storytelling | 111 |
 | This game has Amazing Characters | 101 |
 | This game has a Competitive Community | 93 |
 ## Ratings History
@@ -584,4 +584,4 @@ Diff (max vs sum): 71
 | 2023-12-18 | 4.54 | - | 178 | 1,588 |
 | 2023-12-19 | 4.54 | - | 178 | 1,591 |
 | 2023-12-20 | 4.54 | - | 178 | 1,593 |
-| 2023-12-21 | 4.54 | - | 178 | 1,595 |
+| 2023-12-21 | 4.55 | - | 178 | 1,597 |

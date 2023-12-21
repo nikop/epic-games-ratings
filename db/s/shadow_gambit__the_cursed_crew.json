@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -155,9 +155,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1239,
+  "EOS_Progressed": 1240,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.66,
   "EosHistory": [
@@ -4205,6 +4205,11 @@
       "Time": "2023-12-21T19:04:51.7601643+00:00",
       "NumProgressed": 1239,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-12-21T20:05:06.1906484+00:00",
+      "NumProgressed": 1240,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4225,7 +4230,7 @@
       "Name": "A New Journey",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "_03_FinishAct1",
@@ -4233,7 +4238,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -4273,7 +4278,7 @@
       "Name": "Swabbie",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "_09_Completion_20",
@@ -4337,7 +4342,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -4424,7 +4429,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1239,
+      "Progressed": 1240,
       "Completed": 33
     }
   ],
@@ -4432,8 +4437,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-21T17:58:16.3881577+00:00",
-  "LastChanged_Achievements": "2023-12-21T19:04:51.7601641+00:00",
+  "LastChanged_Achievements": "2023-12-21T20:05:06.1906482+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:17.2609478+00:00",
-  "LastUpdate_Ratings": "2023-12-21T18:58:36.3555593+00:00",
-  "LastUpdate_Achievements": "2023-12-21T19:04:51.7601959+00:00"
+  "LastUpdate_Ratings": "2023-12-21T19:58:52.663559+00:00",
+  "LastUpdate_Achievements": "2023-12-21T20:05:06.1906817+00:00"
 }

@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 612,
+  "EOS_Progressed": 613,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 7.52,
+  "EOS_Completed_Percentage": 7.5,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:01:22.5999936+00:00",
@@ -2459,6 +2459,11 @@
       "Time": "2023-12-21T17:04:44.7000128+00:00",
       "NumProgressed": 612,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-12-21T20:04:54.9869987+00:00",
+      "NumProgressed": 613,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 45,
@@ -2492,17 +2497,17 @@
       "ID": "BearBroom",
       "SetID": "db30heh",
       "Name": "Dusted",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 98
+      "UsersEstimate": 92
     },
     {
       "ID": "BearPistol",
       "SetID": "db30heh",
       "Name": "Ouch!",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 337
+      "UsersEstimate": 331
     },
     {
       "ID": "BearPoppiesBroth",
@@ -2510,7 +2515,7 @@
       "Name": "Sleeping Potion",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "BearRum",
@@ -2518,7 +2523,7 @@
       "Name": "Ready for Bed",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "BearSword",
@@ -2534,7 +2539,7 @@
       "Name": "Alms",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "BeggarWomanFishGrilled",
@@ -2566,7 +2571,7 @@
       "Name": "Target Hit",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "DevilPriest",
@@ -2590,7 +2595,7 @@
       "Name": "Drunkard",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "DwarDevil",
@@ -2598,7 +2603,7 @@
       "Name": "Funny Devil",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "DwarfBeggarWoman",
@@ -2606,7 +2611,7 @@
       "Name": "Funny Granny",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "DwarfHobo",
@@ -2622,7 +2627,7 @@
       "Name": "Happy Reunion",
       "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "HastrmanAcorn",
@@ -2630,7 +2635,7 @@
       "Name": "Do Not Disturb",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "HastrmanAmanita",
@@ -2646,7 +2651,7 @@
       "Name": "Regular Diet",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "HastrmanRum",
@@ -2662,7 +2667,7 @@
       "Name": "Flower",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "KingDiamond",
@@ -2678,7 +2683,7 @@
       "Name": "Your Soul Is Mine",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "PriestBroom",
@@ -2702,7 +2707,7 @@
       "Name": "Zonked",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "PriestRogue",
@@ -2710,7 +2715,7 @@
       "Name": "Direct Hit",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "PriestRum",
@@ -2718,7 +2723,7 @@
       "Name": "Rummy",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "Priestess",
@@ -2734,7 +2739,7 @@
       "Name": "New Order",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "RogueChest",
@@ -2750,7 +2755,7 @@
       "Name": "Debt Free",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "RogueKing",
@@ -2766,7 +2771,7 @@
       "Name": "The King is Naked",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "RogueRum",
@@ -2829,14 +2834,14 @@
     {
       "ID": "db30heh",
       "IsBase": true,
-      "Progressed": 612,
+      "Progressed": 613,
       "Completed": 46
     }
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-12-21T19:04:40.0881097+00:00",
+  "LastChanged_Achievements": "2023-12-21T20:04:54.9869983+00:00",
   "LastUpdate_AppInfo": "2023-12-20T02:56:49.0129985+00:00",
-  "LastUpdate_Ratings": "2023-12-21T18:59:03.8073007+00:00",
-  "LastUpdate_Achievements": "2023-12-21T19:04:40.0881664+00:00"
+  "LastUpdate_Ratings": "2023-12-21T19:59:19.8569422+00:00",
+  "LastUpdate_Achievements": "2023-12-21T20:04:54.9870327+00:00"
 }

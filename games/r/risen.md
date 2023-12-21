@@ -1,7 +1,7 @@
 # Risen
 [Store](https://store.epicgames.com/en-US/p/risen-e8e55e)  
 [View Rawdata](../../db/r/risen.json)  
-Rating: 4.56 (Ranked 498)  
+Rating: 4.56 (Ranked 497)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -18,16 +18,16 @@ Rating: 4.56 (Ranked 498)
 | Ladies' man | 36.00% | ~37 |
 | Ferocious wild boars | 29.00% | ~30 |
 | Idiot | 27.00% | ~28 |
-| Beast slayer | 23.00% | ~24 |
+| Beast slayer | 24.00% | ~25 |
 | Family man | 21.00% | ~22 |
 | Death of a legend | 21.00% | ~22 |
 | Archaeologist | 21.00% | ~22 |
+| Ogre friend | 21.00% | ~22 |
 | Wise man | 20.00% | ~21 |
-| Ogre friend | 20.00% | ~21 |
+| Hard worker | 20.00% | ~21 |
 | The fourth triplet | 20.00% | ~21 |
 | Sidelined | 20.00% | ~21 |
 | Little hero | 19.00% | ~20 |
-| Hard worker | 19.00% | ~20 |
 | Fence | 18.00% | ~19 |
 | Pandora's box | 17.00% | ~18 |
 | Ghost hunter | 17.00% | ~18 |

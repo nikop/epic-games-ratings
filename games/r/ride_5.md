@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 47.00% | ~1,322 |
-| First Love | 44.00% | ~1,237 |
-| Clean Race | 42.00% | ~1,181 |
-| Hear That Roar! | 40.00% | ~1,125 |
-| Rivals to the End | 29.00% | ~815 |
-| Bitter Rivalry | 28.00% | ~787 |
-| Champagne Spray | 26.00% | ~731 |
-| We're Going to Need a Bigger Garage | 25.00% | ~703 |
-| I Want One Too! | 20.00% | ~562 |
-| Quick Pit Stop | 20.00% | ~562 |
-| Restored and Ready | 19.00% | ~534 |
-| Legendary!!! | 19.00% | ~534 |
-| Go-Faster Stripes | 17.00% | ~478 |
-| I'm Here Too! | 15.00% | ~422 |
-| We've Just Begun | 12.00% | ~337 |
-| Is It the Right Size? | 9.00% | ~253 |
+| Eat My Dust | 47.00% | ~1,324 |
+| First Love | 44.00% | ~1,239 |
+| Clean Race | 42.00% | ~1,183 |
+| Hear That Roar! | 40.00% | ~1,127 |
+| Rivals to the End | 29.00% | ~817 |
+| Bitter Rivalry | 28.00% | ~789 |
+| Champagne Spray | 26.00% | ~732 |
+| We're Going to Need a Bigger Garage | 25.00% | ~704 |
+| I Want One Too! | 20.00% | ~563 |
+| Quick Pit Stop | 20.00% | ~563 |
+| Restored and Ready | 19.00% | ~535 |
+| Legendary!!! | 19.00% | ~535 |
+| Go-Faster Stripes | 17.00% | ~479 |
+| I'm Here Too! | 15.00% | ~423 |
+| We've Just Begun | 12.00% | ~338 |
+| Is It the Right Size? | 9.00% | ~254 |
 | Stamina Star | 8.00% | ~225 |
 | Evangelist | 6.00% | ~169 |
 | Make It Your Own! | 5.00% | ~141 |
-| Cherry Blossom and Temples | 4.00% | ~112 |
-| The Road to Liberty | 4.00% | ~112 |
-| Spoilt for Choice | 3.00% | ~84 |
-| La Dolce Vita | 3.00% | ~84 |
-| Romantic Races | 3.00% | ~84 |
-| I Make the Rules! | 3.00% | ~84 |
-| Rounding Off | 3.00% | ~84 |
-| My Work Here Is Done | 3.00% | ~84 |
+| Cherry Blossom and Temples | 4.00% | ~113 |
+| The Road to Liberty | 4.00% | ~113 |
+| Spoilt for Choice | 3.00% | ~85 |
+| La Dolce Vita | 3.00% | ~85 |
+| Romantic Races | 3.00% | ~85 |
+| I Make the Rules! | 3.00% | ~85 |
+| Rounding Off | 3.00% | ~85 |
+| My Work Here Is Done | 3.00% | ~85 |
 | Iconic! | 2.00% | ~56 |
 | I'll Be the Best! | 2.00% | ~56 |
 | Back in Blighty | 2.00% | ~56 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,812 (Ranked 220)  
+Progressed: 2,817 (Ranked 220)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,4 +165,4 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 2,720 | 0 |
 | 2023-12-19 | 2,759 | 0 |
 | 2023-12-20 | 2,787 | 0 |
-| 2023-12-21 | 2,812 | 0 |
+| 2023-12-21 | 2,817 | 0 |

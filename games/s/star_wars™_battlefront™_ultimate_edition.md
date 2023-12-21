@@ -15,7 +15,7 @@
 | Shoot first | 14.00% | ~276 |
 | The power of the Force | 13.00% | ~256 |
 | Collector | 13.00% | ~256 |
-| Together we can rule the galaxy | 12.00% | ~236 |
+| Together we can rule the galaxy | 12.00% | ~237 |
 | Tell Jabba that I've got his money | 9.00% | ~177 |
 | Best star-pilot in the galaxy | 9.00% | ~177 |
 | Never tell me the odds! | 8.00% | ~158 |
@@ -23,10 +23,10 @@
 | What's the cargo? | 7.00% | ~138 |
 | A cunning warrior | 7.00% | ~138 |
 | Judge me by my size, do you? | 6.00% | ~118 |
-| "Gonk? Gonk!" | 5.00% | ~98 |
-| Distinguished | 5.00% | ~98 |
-| Impressive. Most impressive. | 5.00% | ~98 |
-| Support the troops | 5.00% | ~98 |
+| "Gonk? Gonk!" | 5.00% | ~99 |
+| Distinguished | 5.00% | ~99 |
+| Impressive. Most impressive. | 5.00% | ~99 |
+| Support the troops | 5.00% | ~99 |
 | A tremor in the Force | 4.00% | ~79 |
 | Safety ain't the point of a joyride | 4.00% | ~79 |
 | Not bad for a little furball | 4.00% | ~79 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~4 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,970 (Ranked 237)  
+Progressed: 1,971 (Ranked 237)  
 Completed: 1 (0.05%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 1 (0.05%) (Ranked 332)
 | 2023-12-18 | 1,882 | 1 |
 | 2023-12-19 | 1,913 | 1 |
 | 2023-12-20 | 1,946 | 1 |
-| 2023-12-21 | 1,970 | 1 |
+| 2023-12-21 | 1,971 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -12,7 +12,7 @@ Number of Ratings: 371  (23.09.2022)
 | Watch Where You Step... | 10.00% | ~351 |
 | An Ill Omen | 10.00% | ~351 |
 | Purging Spree | 8.00% | ~281 |
-| Blood for the Blood God! | 7.00% | ~245 |
+| Blood for the Blood God! | 7.00% | ~246 |
 | Bloodless | 6.00% | ~210 |
 | Surgical Excision | 5.00% | ~175 |
 | Friendly Fire | 5.00% | ~175 |
@@ -46,8 +46,8 @@ Number of Ratings: 371  (23.09.2022)
 | Harvest No More | 0.70% | ~25 |
 | Strike Force | 0.60% | ~21 |
 | True Mastery | 0.60% | ~21 |
+| Exercise in Restraint | 0.50% | ~18 |
 | Suffer Not the Mutant | 0.50% | ~18 |
-| Exercise in Restraint | 0.40% | ~14 |
 | Reign of Confusion | 0.40% | ~14 |
 | Blood and Iron | 0.30% | ~11 |
 | Clean Slate | 0.30% | ~11 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,507 (Ranked 214)  
+Progressed: 3,508 (Ranked 214)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 3,464 | 0 |
 | 2023-12-19 | 3,477 | 0 |
 | 2023-12-20 | 3,493 | 0 |
-| 2023-12-21 | 3,507 | 0 |
+| 2023-12-21 | 3,508 | 0 |
 ## Awards
 Max (Character Customization): 229  (Ranked 279)  
 Sum: 490 (Ranked 333)  

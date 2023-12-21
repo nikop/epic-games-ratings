@@ -4,7 +4,7 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 349,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 225,
+  "EOS_Progressed": 226,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -886,6 +886,11 @@
       "Time": "2023-12-20T16:04:54.1722751+00:00",
       "NumProgressed": 225,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T20:06:03.5558341+00:00",
+      "NumProgressed": 226,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -953,7 +958,7 @@
       "Name": "Conciliator",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Vanilla_AutoSavesOnly",
@@ -985,7 +990,7 @@
       "Name": "Supercargo",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Vanilla_Carpenters",
@@ -1041,7 +1046,7 @@
       "Name": "Tactician",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Vanilla_CombatStrenghtTier2",
@@ -1081,7 +1086,7 @@
       "Name": "Talent Nurtured",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Vanilla_CompanionsProwessTier2",
@@ -1289,7 +1294,7 @@
       "Name": "Business As Usual",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Vanilla_GearCollection",
@@ -1313,7 +1318,7 @@
       "Name": "Legacy of a Mercenary",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Vanilla_HouseDarius",
@@ -1441,15 +1446,15 @@
       "Name": "Delayed",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Vanilla_PressGanged",
       "SetID": "27kik8p",
       "Name": "Press-ganged",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 95
     },
     {
       "ID": "Vanilla_Ratharnak",
@@ -1465,7 +1470,7 @@
       "Name": "A Real Battle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Vanilla_Renkailon",
@@ -1473,7 +1478,7 @@
       "Name": "The Darkness Within",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Vanilla_Renown",
@@ -1513,7 +1518,7 @@
       "Name": "A Second Chance",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "Vanilla_SecretsBelow",
@@ -1633,7 +1638,7 @@
       "Name": "Merchant Lord",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Vanilla_TroubleAtFortLarius",
@@ -1688,7 +1693,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 225,
+      "Progressed": 226,
       "Completed": 0
     }
   ],
@@ -1696,8 +1701,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-12-21T19:05:48.3647306+00:00",
+  "LastChanged_Achievements": "2023-12-21T20:06:03.5558336+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:13.1376509+00:00",
-  "LastUpdate_Ratings": "2023-12-21T18:59:48.9925333+00:00",
-  "LastUpdate_Achievements": "2023-12-21T19:05:48.3648135+00:00"
+  "LastUpdate_Ratings": "2023-12-21T20:00:05.3826469+00:00",
+  "LastUpdate_Achievements": "2023-12-21T20:06:03.5559234+00:00"
 }

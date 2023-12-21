@@ -6,15 +6,15 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Best Buddy | 11.00% | ~5 |
+| Best Buddy | 13.00% | ~6 |
 | Entrepreneur | 9.00% | ~4 |
+| Role Model | 6.00% | ~3 |
 | Peddler | 4.00% | ~2 |
 | Long-Haul Flyer | 4.00% | ~2 |
+| Globetrotter | 4.00% | ~2 |
 | Free as a Bird | 4.00% | ~2 |
-| Role Model | 4.00% | ~2 |
 | Creator | 4.00% | ~2 |
 | Civilian | 4.00% | ~2 |
-| Globetrotter | 2.00% | ~1 |
 | Military Leader | 2.00% | ~1 |
 | Hotshot | 2.00% | ~1 |
 | Unbreakable | 2.00% | ~1 |

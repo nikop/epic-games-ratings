@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 123,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4655,9 +4655,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12576,
+  "EOS_Progressed": 12578,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 252,
+  "EOS_NewPlayers": 254,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17570,6 +17570,11 @@
       "Time": "2023-12-21T19:09:54.0857762+00:00",
       "NumProgressed": 12576,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T20:10:38.6128492+00:00",
+      "NumProgressed": 12578,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -17717,7 +17722,7 @@
       "Name": "Mythic Choices",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1886
+      "UsersEstimate": 1887
     },
     {
       "ID": "19_EqualToAroden",
@@ -17949,15 +17954,15 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2389
+      "UsersEstimate": 2390
     },
     {
       "ID": "49_Flame",
       "SetID": "989of5o",
       "Name": "A Flame",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 629
+      "UsersEstimate": 503
     },
     {
       "ID": "50_HeyIKnowYou",
@@ -18508,21 +18513,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11358,
+      "Progressed": 11360,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12576,
+      "Progressed": 12578,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-21T06:58:30.1552597+00:00",
-  "LastChanged_Achievements": "2023-12-21T19:09:54.085776+00:00",
+  "LastChanged_Achievements": "2023-12-21T20:10:38.612849+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.7532096+00:00",
-  "LastUpdate_Ratings": "2023-12-21T18:58:18.8955669+00:00",
-  "LastUpdate_Achievements": "2023-12-21T19:09:54.0859351+00:00"
+  "LastUpdate_Ratings": "2023-12-21T19:58:34.7363905+00:00",
+  "LastUpdate_Achievements": "2023-12-21T20:10:38.6130088+00:00"
 }

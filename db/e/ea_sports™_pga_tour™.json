@@ -4,7 +4,7 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -2573,9 +2573,9 @@
       "ID": "achievement_8",
       "SetID": "7ldgi7j",
       "Name": "Winner\u0027s Circle",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 35,
-      "UsersEstimate": 353
+      "UsersEstimate": 359
     },
     {
       "ID": "achievement_9",
@@ -2595,8 +2595,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-12-21T19:09:24.8386266+00:00",
+  "LastChanged_Achievements": "2023-12-21T20:10:08.6942723+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:04.0623721+00:00",
-  "LastUpdate_Ratings": "2023-12-21T18:59:51.9699281+00:00",
-  "LastUpdate_Achievements": "2023-12-21T19:09:24.8386476+00:00"
+  "LastUpdate_Ratings": "2023-12-21T20:00:08.4889426+00:00",
+  "LastUpdate_Achievements": "2023-12-21T20:10:08.6942998+00:00"
 }

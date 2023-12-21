@@ -4,7 +4,7 @@
   "ProductSlug": "the-isle-tide-hotel-adf588",
   "Ranking_EOS_Progress": 480,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 378,
+  "Ranking_EOS_NewPlayers": 379,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
@@ -517,9 +517,9 @@
       "ID": "if_the_suit_fits",
       "SetID": "7i36ba9",
       "Name": "If The Suit Fits",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "join_the_legal_team",
@@ -533,9 +533,9 @@
       "ID": "josh_the_saviour",
       "SetID": "7i36ba9",
       "Name": "Josh the Saviour",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "knock_knockout",
@@ -613,9 +613,9 @@
       "ID": "the_four_doors",
       "SetID": "7i36ba9",
       "Name": "The Four Doors",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 95,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "the_martyr",
@@ -684,8 +684,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-12-21T19:09:37.2349607+00:00",
+  "LastChanged_Achievements": "2023-12-21T20:10:21.1893359+00:00",
   "LastUpdate_AppInfo": "2023-12-16T05:57:10.0587868+00:00",
-  "LastUpdate_Ratings": "2023-12-21T19:00:28.4546352+00:00",
-  "LastUpdate_Achievements": "2023-12-21T19:09:37.2349781+00:00"
+  "LastUpdate_Ratings": "2023-12-21T20:00:45.5915873+00:00",
+  "LastUpdate_Achievements": "2023-12-21T20:10:21.1893584+00:00"
 }

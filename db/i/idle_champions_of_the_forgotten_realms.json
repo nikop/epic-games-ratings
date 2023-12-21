@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewPlayers": 62,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8891,10 +8891,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 32986,
       "NumberOfAwardsMax": 5669
+    },
+    {
+      "Time": "2023-12-21T20:02:54.8663743+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32993,
+      "NumberOfAwardsMax": 5669
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32986,
+  "NumberOfAwards": 32993,
   "NumberOfAwardsMax": 5669,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8908,7 +8914,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5618
+      "Count": 5625
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -8941,9 +8947,9 @@
       "Count": 3583
     }
   ],
-  "EOS_Progressed": 242805,
+  "EOS_Progressed": 242852,
   "EOS_Completed": 2552,
-  "EOS_NewPlayers": 2497,
+  "EOS_NewPlayers": 2517,
   "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -36631,6 +36637,11 @@
       "Time": "2023-12-21T19:09:59.4529103+00:00",
       "NumProgressed": 242805,
       "NumCompleted": 2552
+    },
+    {
+      "Time": "2023-12-21T20:10:43.7609021+00:00",
+      "NumProgressed": 242852,
+      "NumCompleted": 2552
     }
   ],
   "TotalAchievements": 546,
@@ -36640,9 +36651,9 @@
       "ID": "objective_completed_1",
       "SetID": "cc37lbc",
       "Name": "A Brief Tour of the Realms",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2185
+      "UsersEstimate": 2429
     },
     {
       "ID": "objective_completed_10",
@@ -39786,7 +39797,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "objective_completed_70",
@@ -40946,7 +40957,7 @@
       "Name": "Fast Food",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "objective_completed_1563",
@@ -40962,7 +40973,7 @@
       "Name": "The Overgrown Grove",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "objective_completed_673",
@@ -40986,7 +40997,7 @@
       "Name": "Mental Gymnastics",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "objective_completed_860",
@@ -41009,21 +41020,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 209079,
+      "Progressed": 209126,
       "Completed": 4053
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 242805,
+      "Progressed": 242852,
       "Completed": 2552
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-12-21T15:02:56.4502439+00:00",
-  "LastChanged_Achievements": "2023-12-21T19:09:59.4529101+00:00",
+  "LastChanged": "2023-12-21T20:02:54.8663741+00:00",
+  "LastChanged_Achievements": "2023-12-21T20:10:43.7609017+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:52.1318001+00:00",
-  "LastUpdate_Ratings": "2023-12-21T19:02:40.176548+00:00",
-  "LastUpdate_Achievements": "2023-12-21T19:09:59.4550936+00:00"
+  "LastUpdate_Ratings": "2023-12-21T20:02:54.8663748+00:00",
+  "LastUpdate_Achievements": "2023-12-21T20:10:43.763352+00:00"
 }

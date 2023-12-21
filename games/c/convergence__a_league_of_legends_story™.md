@@ -5,21 +5,21 @@ Rating: 4.64 (Ranked 338)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 38.00% | ~401 |
-| The Mysterious Stranger | 29.00% | ~306 |
-| Rail Rat | 29.00% | ~306 |
-| Immaculate Aim | 24.00% | ~253 |
-| The Brass Boss | 24.00% | ~253 |
+| Time Heals All Wounds | 38.00% | ~402 |
+| The Mysterious Stranger | 29.00% | ~307 |
+| Rail Rat | 29.00% | ~307 |
+| Immaculate Aim | 24.00% | ~254 |
+| The Brass Boss | 24.00% | ~254 |
 | Make Up For Lost Time | 23.00% | ~243 |
 | Time Flies | 23.00% | ~243 |
 | No, Thanks! | 23.00% | ~243 |
 | The Prince in Heels | 23.00% | ~243 |
 | Honest Mistake | 23.00% | ~243 |
 | Immaculate Aim | 23.00% | ~243 |
-| The Steel Shadow | 22.00% | ~232 |
-| The Harder They Fall | 22.00% | ~232 |
-| Breaking Down Barriers | 22.00% | ~232 |
-| Fast Learner | 22.00% | ~232 |
+| The Steel Shadow | 22.00% | ~233 |
+| The Harder They Fall | 22.00% | ~233 |
+| Breaking Down Barriers | 22.00% | ~233 |
+| Fast Learner | 22.00% | ~233 |
 | The Wicked Twins | 21.00% | ~222 |
 | Right On Time | 20.00% | ~211 |
 | Like Clockwork | 20.00% | ~211 |
@@ -43,8 +43,8 @@ Rating: 4.64 (Ranked 338)
 | Theater Explorer | 10.00% | ~106 |
 | Cultivair Explorer | 9.00% | ~95 |
 | Fairgrounds Explorer | 9.00% | ~95 |
-| Corin Goes Home | 8.00% | ~84 |
-| Entresol Explorer | 8.00% | ~84 |
+| Corin Goes Home | 8.00% | ~85 |
+| Entresol Explorer | 8.00% | ~85 |
 | Sartorialist | 7.00% | ~74 |
 | Clovemary for Remembering | 6.00% | ~63 |
 | Hexlock for Protection | 6.00% | ~63 |
@@ -59,7 +59,7 @@ Rating: 4.64 (Ranked 338)
 | Raw Talent | 0.70% | ~7 |
 | Going to Live Forever | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,056 (Ranked 275)  
+Progressed: 1,057 (Ranked 275)  
 Completed: 6 (0.57%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 6 (0.57%) (Ranked 201)
 | 2023-12-18 | 1,030 | 6 |
 | 2023-12-19 | 1,037 | 6 |
 | 2023-12-20 | 1,046 | 6 |
-| 2023-12-21 | 1,056 | 6 |
+| 2023-12-21 | 1,057 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

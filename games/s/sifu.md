@@ -6,14 +6,14 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 3.00% | ~22,164 |
-| Life is your teacher | 3.00% | ~22,164 |
-| Lightning Hands | 3.00% | ~22,164 |
-| The Assault | 2.00% | ~14,776 |
-| The Hateful Pole Fighter | 2.00% | ~14,776 |
-| State of constant learning | 2.00% | ~14,776 |
-| Qi Gong: Essence | 2.00% | ~14,776 |
-| Old Child | 2.00% | ~14,776 |
+| The Old Grandmaster | 3.00% | ~22,165 |
+| Life is your teacher | 3.00% | ~22,165 |
+| Lightning Hands | 3.00% | ~22,165 |
+| The Assault | 2.00% | ~14,777 |
+| The Hateful Pole Fighter | 2.00% | ~14,777 |
+| State of constant learning | 2.00% | ~14,777 |
+| Qi Gong: Essence | 2.00% | ~14,777 |
+| Old Child | 2.00% | ~14,777 |
 | A Lady's Blood in the Snow | 1.00% | ~7,388 |
 | Lady Wing Chun | 1.00% | ~7,388 |
 | Kill Nil | 1.00% | ~7,388 |
@@ -24,10 +24,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 1.00% | ~7,388 |
 | Rumble in the Hangar | 1.00% | ~7,388 |
 | Diligence as a goal | 1.00% | ~481 |
-| Furious Fists | 0.90% | ~6,649 |
-| Take damage to save time | 0.90% | ~6,649 |
+| Furious Fists | 0.90% | ~6,650 |
+| Take damage to save time | 0.90% | ~6,650 |
 | Project Arena | 0.90% | ~433 |
-| Qi Gong: Mind | 0.80% | ~5,910 |
+| Qi Gong: Mind | 0.80% | ~5,911 |
 | Scareless | 0.70% | ~5,172 |
 | Dance of the Praying Mantis | 0.70% | ~5,172 |
 | Kung-Fu Tussle | 0.70% | ~5,172 |
@@ -39,10 +39,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Source of Flying Daggers | 0.40% | ~2,955 |
 | Detective Story | 0.40% | ~2,955 |
 | Sword Stained With Blood | 0.40% | ~2,955 |
-| Iron Money | 0.30% | ~2,216 |
-| Legendary Talismans of Wuxing | 0.30% | ~2,216 |
-| Prodigal Child | 0.30% | ~2,216 |
-| The 36th Chamber of Kung-Fu | 0.30% | ~2,216 |
+| Iron Money | 0.30% | ~2,217 |
+| Legendary Talismans of Wuxing | 0.30% | ~2,217 |
+| Prodigal Child | 0.30% | ~2,217 |
+| The 36th Chamber of Kung-Fu | 0.30% | ~2,217 |
 | The best strikes are the ones we avoid | 0.30% | ~144 |
 | Drunken Fighter | 0.20% | ~1,478 |
 | Martial Artist | 0.20% | ~1,478 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~48 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 738,806 (Ranked 23)  
+Progressed: 738,837 (Ranked 23)  
 Completed: 12,958 (1.75%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 12,958 (1.75%) (Ranked 140)
 | 2023-12-18 | 734,825 | 12,956 |
 | 2023-12-19 | 736,295 | 12,958 |
 | 2023-12-20 | 737,594 | 12,958 |
-| 2023-12-21 | 738,806 | 12,958 |
+| 2023-12-21 | 738,837 | 12,958 |
 ## Awards
 Max (Great Boss Battles): 6,978  (Ranked 55)  
 Sum: 11,797 (Ranked 87)  

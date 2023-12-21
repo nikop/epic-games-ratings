@@ -10,9 +10,9 @@ Number of Ratings: 116  (23.09.2022)
 | First of many… | 75.00% | ~18 |
 | Helping Hand | 71.00% | ~17 |
 | Increased Vigor | 67.00% | ~16 |
-| Fight Fire with Fire | 63.00% | ~15 |
+| Fight Fire with Fire | 67.00% | ~16 |
+| Increased Capacity | 63.00% | ~15 |
 | Unshakable Fortitude | 58.00% | ~14 |
-| Increased Capacity | 58.00% | ~14 |
 | Perfect Storm | 54.00% | ~13 |
 | Devil's in the Details | 54.00% | ~13 |
 | All That Glitters | 54.00% | ~13 |
@@ -20,23 +20,23 @@ Number of Ratings: 116  (23.09.2022)
 | Five's a Crowd | 54.00% | ~13 |
 | 25 to Life | 54.00% | ~13 |
 | Soul Harvester | 50.00% | ~12 |
+| Salvation | 50.00% | ~12 |
 | Just the start | 50.00% | ~12 |
 | One Of the Chosen | 46.00% | ~11 |
-| Salvation | 46.00% | ~11 |
 | Enhance! | 46.00% | ~11 |
 | Delusions of Grandeur | 46.00% | ~11 |
 | I Wanna Rock | 42.00% | ~10 |
 | Love Tap | 42.00% | ~10 |
 | For Whom the Bell Tolls | 42.00% | ~10 |
 | Maximum Vigor | 38.00% | ~9 |
+| Freeze Frame | 38.00% | ~9 |
+| Eat Your Heart Out | 38.00% | ~9 |
+| Crowd Source | 38.00% | ~9 |
 | Unyielding Strength | 33.00% | ~8 |
-| Freeze Frame | 33.00% | ~8 |
-| Eat Your Heart Out | 33.00% | ~8 |
-| Crowd Source | 33.00% | ~8 |
 | Big Spender | 33.00% | ~8 |
 | Maximum Capacity | 29.00% | ~7 |
 | Cleanup Crew | 29.00% | ~7 |
-| Can you restore the Balance? | 25.00% | ~6 |
+| Can you restore the Balance? | 29.00% | ~7 |
 | Demon Meddler | 25.00% | ~6 |
 | Protector of Humanity | 17.00% | ~4 |
 | Everybody Wants to Rule the World | 17.00% | ~4 |

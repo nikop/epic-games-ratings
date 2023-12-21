@@ -1,7 +1,7 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.57 (Ranked 482)  
+Rating: 4.55 (Ranked 510)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,14 +11,14 @@ Rating: 4.57 (Ranked 482)
 | Complete Guard Faction | 0.40% | ~9 |
 | Meet the Creatures from the Deep | 0.40% | ~9 |
 | Return Power To The Depths | 0.40% | ~9 |
+| Defeat Croakhis Khan | 0.40% | ~4 |
+| Shield Maiden Yellow Tongue | 0.40% | ~4 |
+| I Remember My First Beer | 0.40% | ~4 |
 | Become King | 0.30% | ~7 |
 | Complete the Chefs Book | 0.30% | ~7 |
 | Defeat Ratnor Rodentson | 0.30% | ~7 |
 | Ranged Weapon | 0.30% | ~7 |
 | Defeat 25 Frogs | 0.30% | ~7 |
-| Defeat Croakhis Khan | 0.30% | ~3 |
-| Shield Maiden Yellow Tongue | 0.30% | ~3 |
-| I Remember My First Beer | 0.30% | ~3 |
 | Collect Gold | 0.20% | ~5 |
 | Collect Iron Ore | 0.20% | ~5 |
 | Collect Monster Parts | 0.20% | ~5 |
@@ -42,7 +42,7 @@ Rating: 4.57 (Ranked 482)
 | Defeat the Stalker Queen | 0.10% | ~1 |
 | A new Warchief rises | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,264 (Ranked 231)  
+Progressed: 2,266 (Ranked 231)  
 Completed: 12 (0.53%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,7 +242,7 @@ Completed: 12 (0.53%) (Ranked 210)
 | 2023-12-18 | 2,256 | 12 |
 | 2023-12-19 | 2,258 | 12 |
 | 2023-12-20 | 2,263 | 12 |
-| 2023-12-21 | 2,264 | 12 |
+| 2023-12-21 | 2,266 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -295,3 +295,4 @@ Completed: 12 (0.53%) (Ranked 210)
 | 2023-10-09 | 4.55 | 0 | 0 |
 | 2023-12-16 | 4.56 | 0 | 0 |
 | 2023-12-20 | 4.57 | 0 | 0 |
+| 2023-12-21 | 4.55 | 0 | 0 |

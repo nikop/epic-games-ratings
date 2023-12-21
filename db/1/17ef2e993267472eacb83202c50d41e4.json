@@ -113,9 +113,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8922,
+  "EOS_Progressed": 8923,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9148,6 +9148,11 @@
       "Time": "2023-12-21T19:09:57.3700062+00:00",
       "NumProgressed": 8922,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T20:10:41.7492422+00:00",
+      "NumProgressed": 8923,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -9198,9 +9203,9 @@
       "ID": "CEUpgraded1",
       "SetID": "12d07c7",
       "Name": "Upgraded Cybernetic Enhancement to Level 3",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 446
+      "UsersEstimate": 535
     },
     {
       "ID": "CreditsEarned50000",
@@ -9304,7 +9309,7 @@
       "Name": "Won a Match",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1784
+      "UsersEstimate": 1785
     },
     {
       "ID": "GamesWon10",
@@ -9751,7 +9756,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8922,
+      "Progressed": 8923,
       "Completed": 1
     }
   ],
@@ -9759,8 +9764,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-12-18T09:02:43.8513268+00:00",
-  "LastChanged_Achievements": "2023-12-21T19:09:57.3700059+00:00",
+  "LastChanged_Achievements": "2023-12-21T20:10:41.7492417+00:00",
   "LastUpdate_AppInfo": "2023-12-19T17:57:04.3951341+00:00",
-  "LastUpdate_Ratings": "2023-12-21T18:58:44.783226+00:00",
-  "LastUpdate_Achievements": "2023-12-21T19:09:57.3700865+00:00"
+  "LastUpdate_Ratings": "2023-12-21T19:59:00.8616897+00:00",
+  "LastUpdate_Achievements": "2023-12-21T20:10:41.7493271+00:00"
 }

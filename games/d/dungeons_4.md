@@ -6,13 +6,13 @@
 | ---- | ---------- | ----- |
 | The Last Stand | 88.00% | ~531 |
 | Thalya – Simply Immortal | 88.00% | ~531 |
-| For the Horde! | 82.00% | ~494 |
+| For the Horde! | 83.00% | ~500 |
 | Hammer Time, Round Two | 81.00% | ~488 |
 | The Hellwoods | 77.00% | ~464 |
 | The Plains of Strothalm | 71.00% | ~428 |
 | Experienced Thalya | 71.00% | ~428 |
 | Thalya's Concentrated Fury | 69.00% | ~416 |
-| Bad Elves Go Everywhere | 68.00% | ~410 |
+| Bad Elves Go Everywhere | 69.00% | ~416 |
 | Heroes’ Gorge | 64.00% | ~386 |
 | Master of Magic | 63.00% | ~380 |
 | Unicorn steaks – fresh off the hoof! | 62.00% | ~374 |
@@ -28,8 +28,8 @@
 | The Cathedral of Light | 48.00% | ~289 |
 | Shame! Shame! Shame! | 47.00% | ~283 |
 | Pure Dynamite! | 46.00% | ~277 |
+| Tanos' Crusade Against Thalya | 46.00% | ~277 |
 | Dungeonlord Gorgu | 45.00% | ~271 |
-| Tanos' Crusade Against Thalya | 45.00% | ~271 |
 | Mana Cannon | 42.00% | ~253 |
 | All’s Well That Ends Evil | 40.00% | ~241 |
 | The Duel | 36.00% | ~217 |

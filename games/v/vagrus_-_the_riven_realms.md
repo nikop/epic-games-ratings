@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 58.00% | ~130 |
-| Press-ganged | 43.00% | ~97 |
+| A Second Chance | 58.00% | ~131 |
+| Press-ganged | 42.00% | ~95 |
 | The Package | 27.00% | ~61 |
 | Conquered | 20.00% | ~45 |
 | Randomized | 19.00% | ~43 |
 | Scribe | 12.00% | ~27 |
 | Breached | 12.00% | ~27 |
-| Conciliator | 10.00% | ~22 |
-| Tactician | 10.00% | ~22 |
+| Conciliator | 10.00% | ~23 |
+| Tactician | 10.00% | ~23 |
 | Fight Another Day | 9.00% | ~20 |
 | Acquaintance | 8.00% | ~18 |
 | Taskmaster | 8.00% | ~18 |
@@ -40,14 +40,14 @@
 | Xevarian Gambit | 3.00% | ~7 |
 | Life... Finds a Way | 3.00% | ~7 |
 | Insectoid Propagator | 3.00% | ~7 |
-| Supercargo | 2.00% | ~4 |
-| Talent Nurtured | 2.00% | ~4 |
-| Business As Usual | 2.00% | ~4 |
-| Legacy of a Mercenary | 2.00% | ~4 |
-| Delayed | 2.00% | ~4 |
-| A Real Battle | 2.00% | ~4 |
-| The Darkness Within | 2.00% | ~4 |
-| Merchant Lord | 2.00% | ~4 |
+| Supercargo | 2.00% | ~5 |
+| Talent Nurtured | 2.00% | ~5 |
+| Business As Usual | 2.00% | ~5 |
+| Legacy of a Mercenary | 2.00% | ~5 |
+| Delayed | 2.00% | ~5 |
+| A Real Battle | 2.00% | ~5 |
+| The Darkness Within | 2.00% | ~5 |
+| Merchant Lord | 2.00% | ~5 |
 | Making Contact | 1.00% | ~2 |
 | Watcher | 1.00% | ~2 |
 | Loremaster | 1.00% | ~2 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225 (Ranked 394)  
+Progressed: 226 (Ranked 394)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,6 +196,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 222 | 0 |
 | 2023-12-19 | 224 | 0 |
 | 2023-12-20 | 225 | 0 |
+| 2023-12-21 | 226 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

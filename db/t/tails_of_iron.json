@@ -2,12 +2,12 @@
   "ID": "fb76c816bb054fc8be57dc49f1600843",
   "Name": "Tails of Iron",
   "ProductSlug": "tails-of-iron-587abd",
-  "Ranking_Rating": 482,
+  "Ranking_Rating": 510,
   "Ranking_Popularity": 571,
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.57,
+  "Rating": 4.55,
   "RatingHistory": [
     {
       "Time": "2022-09-24T13:07:58.3730391+00:00",
@@ -248,15 +248,21 @@
       "Rating": 4.57,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-21T19:58:12.3582089+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2264,
+  "EOS_Progressed": 2266,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -4084,6 +4090,11 @@
       "Time": "2023-12-21T14:03:59.0338194+00:00",
       "NumProgressed": 2264,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-21T20:04:18.3668244+00:00",
+      "NumProgressed": 2266,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 36,
@@ -4333,9 +4344,9 @@
       "ID": "DefeatCroakhisKhan",
       "SetID": "cbf1i0c",
       "Name": "Defeat Croakhis Khan",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "DefeatGrubBuster",
@@ -4357,17 +4368,17 @@
       "ID": "DefeatYellowTongue",
       "SetID": "cbf1i0c",
       "Name": "Shield Maiden Yellow Tongue",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "FirstBeer",
       "SetID": "cbf1i0c",
       "Name": "I Remember My First Beer",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "TravelToBrightFirForest",
@@ -4382,22 +4393,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2264,
+      "Progressed": 2266,
       "Completed": 12
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 905,
+      "Progressed": 907,
       "Completed": 898
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
-  "LastChanged": "2023-12-20T19:57:28.9419379+00:00",
-  "LastChanged_Achievements": "2023-12-21T19:04:02.4102807+00:00",
+  "LastChanged": "2023-12-21T19:58:12.3582087+00:00",
+  "LastChanged_Achievements": "2023-12-21T20:04:18.3668239+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:33.7739845+00:00",
-  "LastUpdate_Ratings": "2023-12-21T18:57:55.7931258+00:00",
-  "LastUpdate_Achievements": "2023-12-21T19:04:02.4103124+00:00"
+  "LastUpdate_Ratings": "2023-12-21T19:58:12.3582094+00:00",
+  "LastUpdate_Achievements": "2023-12-21T20:04:18.3668725+00:00"
 }

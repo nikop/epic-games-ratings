@@ -9,7 +9,7 @@ Number of Ratings: 53  (23.09.2022)
 | Cabin boy | 80.00% | ~886 |
 | My little farm | 64.00% | ~709 |
 | Every beginning is difficult | 63.00% | ~698 |
-| Gofer | 56.00% | ~620 |
+| Gofer | 57.00% | ~632 |
 | 3, 2, 1, mine | 55.00% | ~609 |
 | O Captain! My Captain! | 55.00% | ~609 |
 | Seafarer | 51.00% | ~565 |
@@ -50,9 +50,9 @@ Number of Ratings: 53  (23.09.2022)
 | Gold fever | 2.00% | ~22 |
 | Fill it up, please! | 2.00% | ~22 |
 | Administrator | 1.00% | ~11 |
+| Parlay? | 1.00% | ~11 |
 | Capitalist | 0.90% | ~10 |
 | Raiders of the Lost Ark | 0.90% | ~10 |
-| Parlay? | 0.90% | ~10 |
 | Fleet Admiral | 0.80% | ~9 |
 | Traffic chaos | 0.70% | ~8 |
 | Davy Jones' locker | 0.40% | ~4 |

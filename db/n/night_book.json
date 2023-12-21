@@ -4,7 +4,7 @@
   "ProductSlug": "night-book-77f2c7",
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 321,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 277,
+  "EOS_Progressed": 278,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.53,
+  "EOS_Completed_Percentage": 2.52,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:54.2644177+00:00",
@@ -551,6 +551,11 @@
       "Time": "2023-12-21T18:03:52.3439625+00:00",
       "NumProgressed": 277,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-21T20:04:27.7045613+00:00",
+      "NumProgressed": 278,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 17,
@@ -602,7 +607,7 @@
       "Name": "Impress Theron",
       "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "marriage_is_off",
@@ -618,7 +623,7 @@
       "Name": "No One Is Safe",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "off_his_meds",
@@ -634,7 +639,7 @@
       "Name": "On Your Bike",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "pearce",
@@ -648,9 +653,9 @@
       "ID": "personal_life",
       "SetID": "a3kkelb",
       "Name": "Personal Life",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 131
     },
     {
       "ID": "save_dad",
@@ -690,14 +695,14 @@
       "Name": "Will This Help?",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3kkelb",
       "IsBase": true,
-      "Progressed": 277,
+      "Progressed": 278,
       "Completed": 7
     }
   ],
@@ -705,8 +710,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-12-21T19:04:13.2707824+00:00",
+  "LastChanged_Achievements": "2023-12-21T20:04:27.704561+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:56:54.4004321+00:00",
-  "LastUpdate_Ratings": "2023-12-21T19:00:35.7519358+00:00",
-  "LastUpdate_Achievements": "2023-12-21T19:04:13.2707983+00:00"
+  "LastUpdate_Ratings": "2023-12-21T20:00:52.8215422+00:00",
+  "LastUpdate_Achievements": "2023-12-21T20:04:27.7045717+00:00"
 }

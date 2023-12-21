@@ -523,9 +523,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 44651,
+  "EOS_Progressed": 44657,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 899,
+  "EOS_NewPlayers": 897,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15943,6 +15943,11 @@
       "Time": "2023-12-21T19:03:33.5286626+00:00",
       "NumProgressed": 44651,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-21T20:03:49.4003969+00:00",
+      "NumProgressed": 44657,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -16106,7 +16111,7 @@
       "Name": "Tinkerer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3572
+      "UsersEstimate": 3573
     },
     {
       "ID": "CUFF_ATTACK",
@@ -16290,7 +16295,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4465
+      "UsersEstimate": 4466
     },
     {
       "ID": "SPRING_ALL",
@@ -16377,22 +16382,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 44651,
+      "Progressed": 44657,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 9488,
-      "Completed": 9488
+      "Progressed": 9494,
+      "Completed": 9494
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-21T10:56:56.3222551+00:00",
-  "LastChanged_Achievements": "2023-12-21T19:03:33.5286624+00:00",
+  "LastChanged_Achievements": "2023-12-21T20:03:49.4003965+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:26.7354097+00:00",
-  "LastUpdate_Ratings": "2023-12-21T18:57:09.785817+00:00",
-  "LastUpdate_Achievements": "2023-12-21T19:03:33.5287718+00:00"
+  "LastUpdate_Ratings": "2023-12-21T19:57:24.9109925+00:00",
+  "LastUpdate_Achievements": "2023-12-21T20:03:49.4005836+00:00"
 }

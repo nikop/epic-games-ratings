@@ -27,9 +27,9 @@ Rating: 4.35 (Ranked 803)
 | Zakariya Demir | 42.00% | ~195 |
 | Well-read | 40.00% | ~186 |
 | Cassandra Van den Bosch | 38.00% | ~177 |
-| The Secret | 37.00% | ~172 |
+| The Secret | 38.00% | ~177 |
 | Gedeon Demir | 35.00% | ~163 |
-| Rehana Piette | 34.00% | ~158 |
+| Rehana Piette | 35.00% | ~163 |
 | Instinct is Marvellous | 33.00% | ~153 |
 | Ernesto da Silva | 33.00% | ~153 |
 | Inge Frank | 31.00% | ~144 |

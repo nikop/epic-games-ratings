@@ -2,9 +2,9 @@
   "ID": "b6dd761bd5894441b3e3776b7bfe5bb4",
   "Name": "9Lives Arena",
   "ProductSlug": "9lives-arena-fb6229",
-  "Ranking_EOS_Progress": 572,
+  "Ranking_EOS_Progress": 569,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-12-27T15:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 28,
+  "EOS_Progressed": 29,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -97,6 +97,11 @@
       "Time": "2023-12-21T19:06:26.9319706+00:00",
       "NumProgressed": 28,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T20:06:42.4896571+00:00",
+      "NumProgressed": 29,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-20T23:05:42.1114138+00:00",
@@ -107,7 +112,7 @@
       "ID": "FishingSmallBronze",
       "SetID": "13dm16l",
       "Name": "Bronze Angler Trophy",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -148,13 +153,13 @@
     {
       "ID": "13dm16l",
       "IsBase": true,
-      "Progressed": 28,
+      "Progressed": 29,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-12-07T00:03:10.2913253+00:00",
-  "LastChanged_Achievements": "2023-12-21T19:06:26.9319703+00:00",
+  "LastChanged_Achievements": "2023-12-21T20:06:42.4896566+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:13.4381+00:00",
-  "LastUpdate_Ratings": "2023-12-21T18:59:49.3655327+00:00",
-  "LastUpdate_Achievements": "2023-12-21T19:06:26.9319756+00:00"
+  "LastUpdate_Ratings": "2023-12-21T20:00:05.7917638+00:00",
+  "LastUpdate_Achievements": "2023-12-21T20:06:42.4896645+00:00"
 }

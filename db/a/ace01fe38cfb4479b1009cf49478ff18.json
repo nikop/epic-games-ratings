@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 400,
+  "EOS_Progressed": 402,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 0,
@@ -1469,6 +1469,11 @@
       "Time": "2023-12-21T19:03:59.8788197+00:00",
       "NumProgressed": 400,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T20:04:15.7508787+00:00",
+      "NumProgressed": 402,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -1519,9 +1524,9 @@
       "ID": "ach_complete_difficulty_hard",
       "SetID": "d499apg",
       "Name": "Emperor\u2019s Mercy",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 175,
-      "UsersEstimate": 8
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_complete_difficulty_medium",
@@ -1551,7 +1556,7 @@
       "ID": "ach_find_all_secrets_c1",
       "SetID": "d499apg",
       "Name": "Find all Secrets - Chapter 1",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 95,
       "UsersEstimate": 3
     },
@@ -1576,14 +1581,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 400,
+      "Progressed": 402,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-12-21T19:03:59.8788195+00:00",
+  "LastChanged_Achievements": "2023-12-21T20:04:15.7508782+00:00",
   "LastUpdate_AppInfo": "2023-12-15T14:56:55.6680838+00:00",
-  "LastUpdate_Ratings": "2023-12-21T18:57:47.3864593+00:00",
-  "LastUpdate_Achievements": "2023-12-21T19:03:59.8788341+00:00"
+  "LastUpdate_Ratings": "2023-12-21T19:58:03.6024123+00:00",
+  "LastUpdate_Achievements": "2023-12-21T20:04:15.7508942+00:00"
 }

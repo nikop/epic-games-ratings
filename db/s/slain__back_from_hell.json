@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -250,9 +250,9 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 42462,
+  "EOS_Progressed": 42465,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 433,
+  "EOS_NewPlayers": 431,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -26860,6 +26860,11 @@
       "Time": "2023-12-21T19:07:56.9020644+00:00",
       "NumProgressed": 42462,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-12-21T20:08:51.7464181+00:00",
+      "NumProgressed": 42465,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -26871,7 +26876,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 6369
+      "UsersEstimate": 6370
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -26879,7 +26884,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8917
+      "UsersEstimate": 8918
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -26989,17 +26994,17 @@
       "ID": "ACH_17_DEFEATED_ICE_BEAST",
       "SetID": "443p4o4",
       "Name": "Ice To See You",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 170
+      "UsersEstimate": 212
     },
     {
       "ID": "ACH_18_DEFEATED_IMP",
       "SetID": "443p4o4",
       "Name": "Smack My Imp Up",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 170
+      "UsersEstimate": 212
     },
     {
       "ID": "ACH_19_DEFEATED_HOGRE",
@@ -27015,7 +27020,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1698
+      "UsersEstimate": 1699
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -27102,7 +27107,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 42462,
+      "Progressed": 42465,
       "Completed": 30
     }
   ],
@@ -27110,8 +27115,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-12-18T19:58:40.3413682+00:00",
-  "LastChanged_Achievements": "2023-12-21T19:07:56.9020641+00:00",
+  "LastChanged_Achievements": "2023-12-21T20:08:51.7464176+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:31.5071316+00:00",
-  "LastUpdate_Ratings": "2023-12-21T18:00:06.0877721+00:00",
-  "LastUpdate_Achievements": "2023-12-21T19:07:56.9021714+00:00"
+  "LastUpdate_Ratings": "2023-12-21T19:57:11.9391101+00:00",
+  "LastUpdate_Achievements": "2023-12-21T20:08:51.7465618+00:00"
 }

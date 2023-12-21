@@ -200,6 +200,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lost the Hearts of Kmt | 0.10% | ~16 |
 | Won the Hearts of Kmt | 0.10% | ~16 |
 | Partly Balanced Ma'at | 0.10% | ~16 |
+| History Repeats | 0.10% | ~16 |
+| Egypt Campaign | 0.10% | ~16 |
 | Kushite Pyramids | 0.10% | ~16 |
 | Kush | 0.10% | ~16 |
 | Kushite Paganism | 0.10% | ~16 |
@@ -347,10 +349,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kmt's Sunset | 0.00% | ~0 |
 | Worst.Ending.Possible. | 0.00% | ~0 |
 | Re-writing History | 0.00% | ~0 |
-| History Repeats | 0.00% | ~0 |
 | The Greatest Pharaoh! | 0.00% | ~0 |
 | Pharaonic History Repeats | 0.00% | ~0 |
-| Egypt Campaign | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 | Cothon in Carthago | 0.00% | ~0 |
 | Yazilikaya in Hattusa | 0.00% | ~0 |

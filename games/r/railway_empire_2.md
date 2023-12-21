@@ -49,9 +49,9 @@ Rating: 4.42 (Ranked 720)
 | Locusts | 14.00% | ~347 |
 | A new Hope | 11.00% | ~273 |
 | Tycoon | 11.00% | ~273 |
+| Call of Duty | 10.00% | ~248 |
 | Unstoppable | 9.00% | ~223 |
 | Track to the Future | 9.00% | ~223 |
-| Call of Duty | 9.00% | ~223 |
 | Conductor | 7.00% | ~173 |
 | Engineer | 4.00% | ~99 |
 | Let off some steam | 4.00% | ~99 |

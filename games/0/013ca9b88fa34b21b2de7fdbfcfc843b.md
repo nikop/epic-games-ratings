@@ -27,6 +27,7 @@ Rating: 4.63 (Ranked 353)
 | Beach Comber | 0.30% | ~26 |
 | Botanical Breakthrough | 0.30% | ~26 |
 | Right Tool For the Job | 0.30% | ~26 |
+| Azorian Hat Dance | 0.30% | ~4 |
 | Fae Farmer | 0.20% | ~17 |
 | Got to Catch Them All | 0.20% | ~17 |
 | Rumble in the Jumble | 0.20% | ~17 |
@@ -36,7 +37,6 @@ Rating: 4.63 (Ranked 353)
 | Captain of Cozy | 0.20% | ~17 |
 | House Proud | 0.20% | ~17 |
 | Polyglot | 0.20% | ~2 |
-| Azorian Hat Dance | 0.20% | ~2 |
 | Going Down | 0.20% | ~2 |
 | Cloverfield Island | 0.10% | ~9 |
 | Angling Authority | 0.10% | ~9 |

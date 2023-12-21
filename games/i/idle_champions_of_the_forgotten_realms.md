@@ -6,14 +6,14 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 0.90% | ~2,185 |
+| A Brief Tour of the Realms | 1.00% | ~2,429 |
 | Welcome to Sigil | 0.70% | ~1,464 |
-| Fast Food | 0.60% | ~1,254 |
+| Fast Food | 0.60% | ~1,255 |
 | Beast Intentions | 0.40% | ~971 |
 | The Cursed Farmer | 0.40% | ~971 |
-| The Overgrown Grove | 0.40% | ~836 |
-| Mental Gymnastics | 0.40% | ~836 |
-| The Mad Wizard | 0.30% | ~728 |
+| The Overgrown Grove | 0.40% | ~837 |
+| Mental Gymnastics | 0.40% | ~837 |
+| The Mad Wizard | 0.30% | ~729 |
 | Misaligned in Sigil | 0.30% | ~627 |
 | Chaos Theory | 0.30% | ~627 |
 | When Tentacles Attack | 0.30% | ~627 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~209 |
 | The Brains of an Illithid's Desire | 0.10% | ~209 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,805 (Ranked 66)  
+Progressed: 242,852 (Ranked 66)  
 Completed: 2,552 (1.05%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -798,15 +798,15 @@ Completed: 2,552 (1.05%) (Ranked 170)
 | 2023-12-18 | 241,838 | 2,541 |
 | 2023-12-19 | 242,122 | 2,544 |
 | 2023-12-20 | 242,412 | 2,546 |
-| 2023-12-21 | 242,805 | 2,552 |
+| 2023-12-21 | 242,852 | 2,552 |
 ## Awards
 Max (Great for Beginners): 5,669  (Ranked 71)  
-Sum: 32,986 (Ranked 41)  
+Sum: 32,993 (Ranked 41)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,669 |
-| This game has Diverse Characters | 5,618 |
+| This game has Diverse Characters | 5,625 |
 | This game has Quickly Understood Controls | 4,850 |
 | This game is Relaxing | 4,736 |
 | This game has Amazing Characters | 4,271 |
@@ -1144,4 +1144,4 @@ Diff (max vs sum): 30
 | 2023-12-18 | 4.06 | - | 5,658 | 32,951 |
 | 2023-12-19 | 4.06 | - | 5,661 | 32,964 |
 | 2023-12-20 | 4.06 | - | 5,665 | 32,977 |
-| 2023-12-21 | 4.06 | - | 5,669 | 32,986 |
+| 2023-12-21 | 4.06 | - | 5,669 | 32,993 |
