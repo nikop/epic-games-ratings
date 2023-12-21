@@ -19,7 +19,7 @@
 | Big metal ruler | 38.00% | ~86 |
 | Doll | 36.00% | ~82 |
 | Mysterious paintings | 33.00% | ~75 |
-| Cat | 31.00% | ~70 |
+| Cat | 32.00% | ~73 |
 | Depths of the well | 26.00% | ~59 |
 | Children | 22.00% | ~50 |
 | Huge Snail | 15.00% | ~34 |

@@ -5,11 +5,11 @@ Rating: 4.57 (Ranked 483)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| End of the Mozis | 0.50% | ~11 |
+| Throne Room Fit For A King | 0.50% | ~11 |
 | The Bright Fir | 0.50% | ~5 |
 | Complete Guard Faction | 0.40% | ~9 |
-| End of the Mozis | 0.40% | ~9 |
 | Meet the Creatures from the Deep | 0.40% | ~9 |
-| Throne Room Fit For A King | 0.40% | ~9 |
 | Return Power To The Depths | 0.40% | ~9 |
 | Become King | 0.30% | ~7 |
 | Complete the Chefs Book | 0.30% | ~7 |
@@ -18,6 +18,7 @@ Rating: 4.57 (Ranked 483)
 | Defeat 25 Frogs | 0.30% | ~7 |
 | Defeat Croakhis Khan | 0.30% | ~3 |
 | Shield Maiden Yellow Tongue | 0.30% | ~3 |
+| I Remember My First Beer | 0.30% | ~3 |
 | Collect Gold | 0.20% | ~5 |
 | Collect Iron Ore | 0.20% | ~5 |
 | Collect Monster Parts | 0.20% | ~5 |
@@ -30,7 +31,6 @@ Rating: 4.57 (Ranked 483)
 | Kitchen Ready To Cook | 0.20% | ~5 |
 | Smithy Ready to Craft | 0.20% | ~5 |
 | Rescue Redgi's Brothers | 0.20% | ~5 |
-| I Remember My First Beer | 0.20% | ~2 |
 | Complete Redgi's Armory | 0.10% | ~2 |
 | Complete Arena Faction | 0.10% | ~2 |
 | Complete Ranger Faction | 0.10% | ~2 |

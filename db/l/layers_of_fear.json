@@ -4,7 +4,7 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 169,
+  "EOS_Progressed": 170,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -779,6 +779,11 @@
       "Time": "2023-12-21T13:08:42.3354553+00:00",
       "NumProgressed": 169,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T17:04:48.1799832+00:00",
+      "NumProgressed": 170,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -869,9 +874,9 @@
       "ID": "covered_up_for_a_reason",
       "SetID": "f2im8d",
       "Name": "It\u0027s covered up for a reason",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 82
     },
     {
       "ID": "decrypt_one_myth",
@@ -901,9 +906,9 @@
       "ID": "do_what_you_have_to",
       "SetID": "f2im8d",
       "Name": "Do what you have to",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "earn_all_trophies",
@@ -919,7 +924,7 @@
       "Name": "Face your fears",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "find_most_of_family_mementos",
@@ -943,7 +948,7 @@
       "Name": "Scraps of love",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "find_one_photo",
@@ -1127,7 +1132,7 @@
       "Name": "Something important",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "spy_one_item",
@@ -1191,7 +1196,7 @@
       "Name": "Wanderer",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1206,14 +1211,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 169,
+      "Progressed": 170,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-21T16:05:52.6951682+00:00",
+  "LastChanged_Achievements": "2023-12-21T17:04:48.1799828+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:26.5525701+00:00",
-  "LastUpdate_Ratings": "2023-12-21T16:00:00.4862207+00:00",
-  "LastUpdate_Achievements": "2023-12-21T16:05:52.6952388+00:00"
+  "LastUpdate_Ratings": "2023-12-21T16:59:11.9526598+00:00",
+  "LastUpdate_Achievements": "2023-12-21T17:04:48.1800223+00:00"
 }

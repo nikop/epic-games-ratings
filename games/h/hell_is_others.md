@@ -1,12 +1,12 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.39 (Ranked 760)  
+Rating: 4.39 (Ranked 761)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Survivor | 31.00% | ~80,471 |
-| Predator I | 23.00% | ~59,704 |
+| Predator I | 23.00% | ~59,705 |
 | Fixer I | 10.00% | ~25,958 |
 | A week in Century City | 10.00% | ~25,958 |
 | The Wait | 7.00% | ~18,171 |
@@ -18,10 +18,10 @@ Rating: 4.39 (Ranked 760)
 | Pacifist | 4.00% | ~10,383 |
 | Vandalism | 4.00% | ~10,383 |
 | Capitalist I | 4.00% | ~10,383 |
-| Fixer II | 3.00% | ~7,787 |
-| It took a while | 3.00% | ~7,787 |
-| Adrenaline | 3.00% | ~7,787 |
-| Predator II | 3.00% | ~7,787 |
+| Fixer II | 3.00% | ~7,788 |
+| It took a while | 3.00% | ~7,788 |
+| Adrenaline | 3.00% | ~7,788 |
+| Predator II | 3.00% | ~7,788 |
 | By a hair | 2.00% | ~5,192 |
 | Samurai | 2.00% | ~5,192 |
 | I Left You a Present | 2.00% | ~5,192 |
@@ -37,8 +37,8 @@ Rating: 4.39 (Ranked 760)
 | Run the Economy | 1.00% | ~2,596 |
 | Committed Relationship | 0.80% | ~2,077 |
 | Number 1 | 0.80% | ~2,077 |
-| A major purchase | 0.60% | ~1,557 |
-| Interior designer | 0.60% | ~1,557 |
+| A major purchase | 0.60% | ~1,558 |
+| Interior designer | 0.60% | ~1,558 |
 | The Gamble | 0.50% | ~1,298 |
 | The Descent | 0.50% | ~1,298 |
 | Expert Hunter | 0.40% | ~1,038 |
@@ -62,7 +62,7 @@ Rating: 4.39 (Ranked 760)
 | Capitalist III | 0.10% | ~260 |
 | Hell Is You | 0.10% | ~260 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 259,583 (Ranked 59)  
+Progressed: 259,585 (Ranked 59)  
 Completed: 3 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,7 +307,7 @@ Completed: 3 (0.00%) (Ranked 384)
 | 2023-12-18 | 259,478 | 3 |
 | 2023-12-19 | 259,511 | 3 |
 | 2023-12-20 | 259,562 | 3 |
-| 2023-12-21 | 259,583 | 3 |
+| 2023-12-21 | 259,585 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 53  (Ranked 434)  
 Sum: 366 (Ranked 357)  

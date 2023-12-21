@@ -4,8 +4,8 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 442,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 431,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 844,
+  "EOS_Progressed": 845,
   "EOS_Completed": 141,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 16.71,
+  "EOS_Completed_Percentage": 16.69,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -3616,6 +3616,11 @@
       "Time": "2023-12-20T20:03:57.2841613+00:00",
       "NumProgressed": 844,
       "NumCompleted": 141
+    },
+    {
+      "Time": "2023-12-21T17:04:36.2305851+00:00",
+      "NumProgressed": 845,
+      "NumCompleted": 141
     }
   ],
   "TotalAchievements": 22,
@@ -3625,9 +3630,9 @@
       "ID": "LEVEL_001",
       "SetID": "3khpmem",
       "Name": "Welcome!",
-      "Percentage": 97,
+      "Percentage": 96,
       "XP": 35,
-      "UsersEstimate": 819
+      "UsersEstimate": 811
     },
     {
       "ID": "LEVEL_002",
@@ -3635,7 +3640,7 @@
       "Name": "A tiny town",
       "Percentage": 87,
       "XP": 35,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "LEVEL_003",
@@ -3643,7 +3648,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 67,
       "XP": 35,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "LEVEL_004",
@@ -3667,7 +3672,7 @@
       "Name": "Found an oasis",
       "Percentage": 44,
       "XP": 35,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "LEVEL_007",
@@ -3691,7 +3696,7 @@
       "Name": "Who loves trains?",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "LEVEL_010",
@@ -3699,7 +3704,7 @@
       "Name": "Easy and steady climb",
       "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "LEVEL_011",
@@ -3707,7 +3712,7 @@
       "Name": "At the heart of the city",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "LEVEL_012",
@@ -3747,7 +3752,7 @@
       "Name": "The beach is right there",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "LEVEL_017",
@@ -3755,7 +3760,7 @@
       "Name": "Commuting",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "LEVEL_018",
@@ -3779,7 +3784,7 @@
       "Name": "City of dreams",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "LEVEL_021",
@@ -3787,7 +3792,7 @@
       "Name": "Happy Christmas night!",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "LEVEL_022",
@@ -3795,14 +3800,14 @@
       "Name": "Night walk along the beach",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     }
   ],
   "AchievementSets": [
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 844,
+      "Progressed": 845,
       "Completed": 141
     }
   ],
@@ -3810,8 +3815,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-12-21T16:05:37.787796+00:00",
+  "LastChanged_Achievements": "2023-12-21T17:04:36.2305847+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:26.2463184+00:00",
-  "LastUpdate_Ratings": "2023-12-21T16:02:17.1816423+00:00",
-  "LastUpdate_Achievements": "2023-12-21T16:05:37.7878218+00:00"
+  "LastUpdate_Ratings": "2023-12-21T17:00:48.529175+00:00",
+  "LastUpdate_Achievements": "2023-12-21T17:04:36.2306163+00:00"
 }

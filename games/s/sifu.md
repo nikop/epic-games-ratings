@@ -6,14 +6,14 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 3.00% | ~22,161 |
-| Life is your teacher | 3.00% | ~22,161 |
-| Lightning Hands | 3.00% | ~22,161 |
-| The Assault | 2.00% | ~14,774 |
-| The Hateful Pole Fighter | 2.00% | ~14,774 |
-| State of constant learning | 2.00% | ~14,774 |
-| Qi Gong: Essence | 2.00% | ~14,774 |
-| Old Child | 2.00% | ~14,774 |
+| The Old Grandmaster | 3.00% | ~22,162 |
+| Life is your teacher | 3.00% | ~22,162 |
+| Lightning Hands | 3.00% | ~22,162 |
+| The Assault | 2.00% | ~14,775 |
+| The Hateful Pole Fighter | 2.00% | ~14,775 |
+| State of constant learning | 2.00% | ~14,775 |
+| Qi Gong: Essence | 2.00% | ~14,775 |
+| Old Child | 2.00% | ~14,775 |
 | A Lady's Blood in the Snow | 1.00% | ~7,387 |
 | Lady Wing Chun | 1.00% | ~7,387 |
 | Kill Nil | 1.00% | ~7,387 |
@@ -24,8 +24,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 1.00% | ~7,387 |
 | Rumble in the Hangar | 1.00% | ~7,387 |
 | Diligence as a goal | 1.00% | ~480 |
-| Furious Fists | 0.90% | ~6,648 |
-| Take damage to save time | 0.90% | ~6,648 |
+| Furious Fists | 0.90% | ~6,649 |
+| Take damage to save time | 0.90% | ~6,649 |
 | Project Arena | 0.90% | ~432 |
 | Qi Gong: Mind | 0.80% | ~5,910 |
 | Scareless | 0.70% | ~5,171 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~48 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 738,692 (Ranked 23)  
+Progressed: 738,737 (Ranked 23)  
 Completed: 12,958 (1.75%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,20 +312,20 @@ Completed: 12,958 (1.75%) (Ranked 140)
 | 2023-12-18 | 734,825 | 12,956 |
 | 2023-12-19 | 736,295 | 12,958 |
 | 2023-12-20 | 737,594 | 12,958 |
-| 2023-12-21 | 738,692 | 12,958 |
+| 2023-12-21 | 738,737 | 12,958 |
 ## Awards
 Max (Great Boss Battles): 6,973  (Ranked 55)  
-Sum: 11,789 (Ranked 87)  
+Sum: 11,792 (Ranked 87)  
 Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,973 |
 | This game has Diverse Characters | 679 |
-| This game has Challenging Combat | 623 |
+| This game has Challenging Combat | 625 |
 | This game has Amazing Storytelling | 605 |
 | This game has Amazing Characters | 594 |
 | This game is Highly Recommended | 588 |
-| This game has Quickly Understood Controls | 584 |
+| This game has Quickly Understood Controls | 585 |
 | This game is Extremely Fun | 575 |
 | This game has Unique Visuals | 568 |
 | This game has a Creative Community | 434 |
@@ -671,4 +671,4 @@ Diff (max vs sum): -32
 | 2023-12-18 | 4.82 | - | 6,957 | 12,197 |
 | 2023-12-19 | 4.82 | - | 6,965 | 12,212 |
 | 2023-12-20 | 4.82 | - | 6,973 | 12,223 |
-| 2023-12-21 | 4.82 | - | 6,973 | 11,789 |
+| 2023-12-21 | 4.82 | - | 6,973 | 11,792 |

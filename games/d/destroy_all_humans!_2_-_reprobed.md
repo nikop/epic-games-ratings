@@ -10,13 +10,13 @@ Number of Ratings: 90  (23.09.2022)
 | Mash Machine | 67.00% | ~96 |
 | Ducks in a Row, Fish in a Barrel | 45.00% | ~65 |
 | Furon Fashion | 40.00% | ~58 |
-| Shop Til They Drop | 34.00% | ~49 |
+| Shop Til They Drop | 35.00% | ~50 |
 | Earthly Pleasures | 28.00% | ~40 |
 | Bodied Sattva | 27.00% | ~39 |
 | Cult Following | 24.00% | ~35 |
+| Upgreatest | 20.00% | ~29 |
 | Lie Back and Think of Albion | 19.00% | ~27 |
-| Upgreatest | 19.00% | ~27 |
-| I Look Up As I Walk to Takoshima | 18.00% | ~26 |
+| I Look Up As I Walk to Takoshima | 19.00% | ~27 |
 | Pimp My Raid | 18.00% | ~26 |
 | Perfect Probulator | 13.00% | ~19 |
 | Freshly Squeezed | 13.00% | ~19 |
@@ -27,9 +27,9 @@ Number of Ratings: 90  (23.09.2022)
 | Fly Me to the Moon Base | 6.00% | ~9 |
 | Kaijuiced | 6.00% | ~9 |
 | Scuttled | 5.00% | ~7 |
+| Lobster Blisque | 3.00% | ~4 |
 | Yettisoned | 3.00% | ~4 |
 | Ultimate Smoothie | 2.00% | ~3 |
-| Lobster Blisque | 2.00% | ~3 |
 | Deincarnated | 2.00% | ~3 |
 | Re-Return of the Clone of the Invasion II-2 | 2.00% | ~3 |
 | Arkvoodle Doodle | 2.00% | ~3 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.00% | ~0 |
 | Trans-Siberian Express | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 144 (Ranked 429)  
+Progressed: 144 (Ranked 430)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |

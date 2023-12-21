@@ -11,18 +11,18 @@ Rating: 4.85 (Ranked 42)
 | The Preacher's fate | 35.00% | ~526 |
 | A new dawn | 29.00% | ~436 |
 | Scholar | 25.00% | ~376 |
-| A good beginning | 24.00% | ~360 |
-| True G3M4R | 24.00% | ~360 |
-| The darkness | 24.00% | ~360 |
-| Half the way | 21.00% | ~315 |
-| One last step | 21.00% | ~315 |
-| I did it | 20.00% | ~300 |
-| Peace walker | 20.00% | ~300 |
-| Cable guy | 20.00% | ~300 |
-| In this together | 19.00% | ~285 |
-| Rascal | 19.00% | ~285 |
-| Champollion | 19.00% | ~285 |
-| Open door | 17.00% | ~255 |
+| True G3M4R | 24.00% | ~361 |
+| The darkness | 24.00% | ~361 |
+| A good beginning | 23.00% | ~346 |
+| Half the way | 21.00% | ~316 |
+| One last step | 21.00% | ~316 |
+| I did it | 20.00% | ~301 |
+| Peace walker | 20.00% | ~301 |
+| Cable guy | 20.00% | ~301 |
+| In this together | 19.00% | ~286 |
+| Rascal | 19.00% | ~286 |
+| Champollion | 19.00% | ~286 |
+| Open door | 17.00% | ~256 |
 | Feels like springtime | 16.00% | ~240 |
 | Alchemists Express | 16.00% | ~240 |
 | Free at last | 14.00% | ~210 |
@@ -31,8 +31,8 @@ Rating: 4.85 (Ranked 42)
 | For its own good | 11.00% | ~165 |
 | Fashion victim | 6.00% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,502 (Ranked 251)  
-Completed: 80 (5.33%) (Ranked 75)  
+Progressed: 1,503 (Ranked 251)  
+Completed: 80 (5.32%) (Ranked 75)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -183,7 +183,7 @@ Completed: 80 (5.33%) (Ranked 75)
 | 2023-12-18 | 1,357 | 72 |
 | 2023-12-19 | 1,407 | 75 |
 | 2023-12-20 | 1,463 | 78 |
-| 2023-12-21 | 1,502 | 80 |
+| 2023-12-21 | 1,503 | 80 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

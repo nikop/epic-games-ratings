@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 2808,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 306,
+  "EOS_NewPlayers": 298,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6882,9 +6882,9 @@
       "ID": "ML_ACHIEVEMENT_01",
       "SetID": "c7hf6a4",
       "Name": "First Love",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1207
+      "UsersEstimate": 1236
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -7034,9 +7034,9 @@
       "ID": "ML_ACHIEVEMENT_20",
       "SetID": "c7hf6a4",
       "Name": "The Road to Liberty",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 112
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -7281,8 +7281,8 @@
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-21T16:08:31.040984+00:00",
+  "LastChanged_Achievements": "2023-12-21T17:08:01.7823142+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:35.5257739+00:00",
-  "LastUpdate_Ratings": "2023-12-21T16:00:56.0468087+00:00",
-  "LastUpdate_Achievements": "2023-12-21T16:08:31.0410375+00:00"
+  "LastUpdate_Ratings": "2023-12-21T16:59:47.8382312+00:00",
+  "LastUpdate_Achievements": "2023-12-21T17:08:01.7823897+00:00"
 }

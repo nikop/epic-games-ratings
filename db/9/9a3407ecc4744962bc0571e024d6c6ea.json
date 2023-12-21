@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 1099,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -3141,9 +3141,9 @@
       "ID": "Relic",
       "SetID": "3ai6ml8",
       "Name": "Relic",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 868
+      "UsersEstimate": 879
     },
     {
       "ID": "SkeletonCrew",
@@ -3196,8 +3196,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-12-21T16:10:58.4168905+00:00",
+  "LastChanged_Achievements": "2023-12-21T17:09:57.3405122+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:10.5156863+00:00",
-  "LastUpdate_Ratings": "2023-12-21T15:59:59.5420075+00:00",
-  "LastUpdate_Achievements": "2023-12-21T16:10:58.4169226+00:00"
+  "LastUpdate_Ratings": "2023-12-21T16:59:11.2090364+00:00",
+  "LastUpdate_Achievements": "2023-12-21T17:09:57.3405381+00:00"
 }

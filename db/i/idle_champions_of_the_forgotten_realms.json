@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 1002,
+  "Ranking_Rating": 1003,
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 65,
@@ -8941,9 +8941,9 @@
       "Count": 3583
     }
   ],
-  "EOS_Progressed": 242652,
+  "EOS_Progressed": 242698,
   "EOS_Completed": 2552,
-  "EOS_NewPlayers": 2438,
+  "EOS_NewPlayers": 2451,
   "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -36616,6 +36616,11 @@
       "Time": "2023-12-21T16:11:28.3090618+00:00",
       "NumProgressed": 242652,
       "NumCompleted": 2552
+    },
+    {
+      "Time": "2023-12-21T17:10:21.5706891+00:00",
+      "NumProgressed": 242698,
+      "NumCompleted": 2552
     }
   ],
   "TotalAchievements": 546,
@@ -36993,9 +36998,9 @@
       "ID": "objective_completed_11",
       "SetID": "cc37lbc",
       "Name": "Beast Intentions",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 728
+      "UsersEstimate": 971
     },
     {
       "ID": "objective_completed_110",
@@ -40915,7 +40920,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1462
+      "UsersEstimate": 1463
     },
     {
       "ID": "objective_completed_1558",
@@ -40994,21 +40999,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 208926,
+      "Progressed": 208972,
       "Completed": 4053
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 242652,
+      "Progressed": 242698,
       "Completed": 2552
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-21T15:02:56.4502439+00:00",
-  "LastChanged_Achievements": "2023-12-21T16:11:28.3090614+00:00",
+  "LastChanged_Achievements": "2023-12-21T17:10:21.5706889+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:52.1318001+00:00",
-  "LastUpdate_Ratings": "2023-12-21T16:03:19.8818775+00:00",
-  "LastUpdate_Achievements": "2023-12-21T16:11:28.311363+00:00"
+  "LastUpdate_Ratings": "2023-12-21T17:02:50.6799241+00:00",
+  "LastUpdate_Achievements": "2023-12-21T17:10:21.5729183+00:00"
 }

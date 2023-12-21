@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -256,7 +256,7 @@
   "Tags": [],
   "EOS_Progressed": 2264,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -4205,9 +4205,9 @@
       "ID": "DefeatMoziQueen",
       "SetID": "9lj35g4",
       "Name": "End of the Mozis",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "DefeatRatnorRodentson",
@@ -4309,9 +4309,9 @@
       "ID": "RepairThroneRoom",
       "SetID": "9lj35g4",
       "Name": "Throne Room Fit For A King",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "RescueBrothers",
@@ -4365,9 +4365,9 @@
       "ID": "FirstBeer",
       "SetID": "cbf1i0c",
       "Name": "I Remember My First Beer",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "TravelToBrightFirForest",
@@ -4396,8 +4396,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-12-20T19:57:28.9419379+00:00",
-  "LastChanged_Achievements": "2023-12-21T16:05:02.3034538+00:00",
+  "LastChanged_Achievements": "2023-12-21T17:04:08.738822+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:33.7739845+00:00",
-  "LastUpdate_Ratings": "2023-12-21T15:58:28.520903+00:00",
-  "LastUpdate_Achievements": "2023-12-21T16:05:02.3034937+00:00"
+  "LastUpdate_Ratings": "2023-12-21T16:58:03.1507953+00:00",
+  "LastUpdate_Achievements": "2023-12-21T17:04:08.7388585+00:00"
 }

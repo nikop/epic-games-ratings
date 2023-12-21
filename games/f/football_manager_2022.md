@@ -6,68 +6,68 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~239,035 |
-| He's Signed! | 50.00% | ~239,035 |
-| First Victory | 50.00% | ~239,035 |
-| He's Sold! | 48.00% | ~229,474 |
-| I'm The Boss! | 42.00% | ~200,789 |
-| Hat-trick | 41.00% | ~196,009 |
-| Scoring Streak | 38.00% | ~181,667 |
-| Unbeatable! | 37.00% | ~176,886 |
-| Thumping | 37.00% | ~176,886 |
-| Superb Dressing Room Atmosphere | 35.00% | ~167,324 |
-| Total Support | 32.00% | ~152,982 |
-| Record Signing | 32.00% | ~152,982 |
-| He's a Natural | 31.00% | ~148,202 |
-| Millionaire's Club | 31.00% | ~148,202 |
-| Team Performance | 30.00% | ~143,421 |
-| Parked The Bus | 29.00% | ~138,640 |
-| Shrewd Spender | 29.00% | ~138,640 |
-| Star Man | 29.00% | ~138,640 |
-| Attack! | 28.00% | ~133,860 |
-| You're On Fire | 27.00% | ~129,079 |
-| Tremendous Trio | 27.00% | ~129,079 |
-| Record Sale | 27.00% | ~129,079 |
-| On A Roll | 26.00% | ~124,298 |
-| Unstoppable Force | 26.00% | ~124,298 |
-| Armchair Expert | 25.00% | ~119,518 |
-| Fantastic Five | 24.00% | ~114,737 |
-| Full Faith | 24.00% | ~114,737 |
-| Iron Curtain | 24.00% | ~114,737 |
-| The Boss | 24.00% | ~114,737 |
-| Top Of The Class | 23.00% | ~109,956 |
-| Goal Machine | 23.00% | ~109,956 |
-| Splashing The Cash | 22.00% | ~105,175 |
-| Clean Bill of Health | 22.00% | ~105,175 |
-| What A Goal! | 22.00% | ~105,175 |
-| Cup Glory! | 22.00% | ~105,175 |
-| Irresistible Force | 20.00% | ~95,614 |
-| Excellent Match Cohesion | 20.00% | ~95,614 |
-| Do The Double | 19.00% | ~90,833 |
-| Top Form | 17.00% | ~81,272 |
-| Cash To Burn | 17.00% | ~81,272 |
-| Beating Expectations | 16.00% | ~76,491 |
-| Overachiever! | 16.00% | ~76,491 |
-| Rushed signing | 16.00% | ~76,491 |
-| Window Shopping | 15.00% | ~71,710 |
-| Eyes and Ears | 14.00% | ~66,930 |
-| Comeback King! | 14.00% | ~66,930 |
-| You're Up! | 13.00% | ~62,149 |
-| Money, Money, Money | 12.00% | ~57,368 |
+| Clean Sheet | 50.00% | ~239,038 |
+| He's Signed! | 50.00% | ~239,038 |
+| First Victory | 50.00% | ~239,038 |
+| He's Sold! | 48.00% | ~229,477 |
+| I'm The Boss! | 42.00% | ~200,792 |
+| Hat-trick | 41.00% | ~196,012 |
+| Scoring Streak | 38.00% | ~181,669 |
+| Unbeatable! | 37.00% | ~176,888 |
+| Thumping | 37.00% | ~176,888 |
+| Superb Dressing Room Atmosphere | 35.00% | ~167,327 |
+| Total Support | 32.00% | ~152,985 |
+| Record Signing | 32.00% | ~152,985 |
+| He's a Natural | 31.00% | ~148,204 |
+| Millionaire's Club | 31.00% | ~148,204 |
+| Team Performance | 30.00% | ~143,423 |
+| Parked The Bus | 29.00% | ~138,642 |
+| Shrewd Spender | 29.00% | ~138,642 |
+| Star Man | 29.00% | ~138,642 |
+| Attack! | 28.00% | ~133,862 |
+| You're On Fire | 27.00% | ~129,081 |
+| Tremendous Trio | 27.00% | ~129,081 |
+| Record Sale | 27.00% | ~129,081 |
+| On A Roll | 26.00% | ~124,300 |
+| Unstoppable Force | 26.00% | ~124,300 |
+| Armchair Expert | 25.00% | ~119,519 |
+| Fantastic Five | 24.00% | ~114,738 |
+| Full Faith | 24.00% | ~114,738 |
+| Iron Curtain | 24.00% | ~114,738 |
+| The Boss | 24.00% | ~114,738 |
+| Top Of The Class | 23.00% | ~109,958 |
+| Goal Machine | 23.00% | ~109,958 |
+| Splashing The Cash | 22.00% | ~105,177 |
+| Clean Bill of Health | 22.00% | ~105,177 |
+| What A Goal! | 22.00% | ~105,177 |
+| Cup Glory! | 22.00% | ~105,177 |
+| Irresistible Force | 20.00% | ~95,615 |
+| Excellent Match Cohesion | 20.00% | ~95,615 |
+| Do The Double | 19.00% | ~90,835 |
+| Top Form | 17.00% | ~81,273 |
+| Cash To Burn | 17.00% | ~81,273 |
+| Beating Expectations | 16.00% | ~76,492 |
+| Overachiever! | 16.00% | ~76,492 |
+| Rushed signing | 16.00% | ~76,492 |
+| Window Shopping | 15.00% | ~71,712 |
+| Eyes and Ears | 14.00% | ~66,931 |
+| Comeback King! | 14.00% | ~66,931 |
+| You're Up! | 13.00% | ~62,150 |
+| Money, Money, Money | 12.00% | ~57,369 |
 | Invincible! | 11.00% | ~52,588 |
-| Superb Strike | 10.00% | ~47,807 |
-| International Superstar | 10.00% | ~47,807 |
-| Best In The World | 10.00% | ~47,807 |
-| Best In Europe | 9.00% | ~43,026 |
-| National Service | 9.00% | ~43,026 |
-| Headhunted | 9.00% | ~43,026 |
-| Domination | 9.00% | ~43,026 |
+| Superb Strike | 10.00% | ~47,808 |
+| International Superstar | 10.00% | ~47,808 |
+| Best In The World | 10.00% | ~47,808 |
+| Best In Europe | 9.00% | ~43,027 |
+| National Service | 9.00% | ~43,027 |
+| Headhunted | 9.00% | ~43,027 |
+| Domination | 9.00% | ~43,027 |
 | Best In The Business | 8.00% | ~38,246 |
-| Legend | 6.00% | ~28,684 |
-| Win the Club World Cup | 6.00% | ~28,684 |
-| Parked The Tank | 6.00% | ~28,684 |
-| World Renowned | 6.00% | ~28,684 |
-| Head-to-Head | 6.00% | ~28,684 |
+| Legend | 6.00% | ~28,685 |
+| Win the Club World Cup | 6.00% | ~28,685 |
+| Parked The Tank | 6.00% | ~28,685 |
+| World Renowned | 6.00% | ~28,685 |
+| Head-to-Head | 6.00% | ~28,685 |
 | Going Places | 5.00% | ~23,904 |
 | We Trust You | 5.00% | ~23,904 |
 | Trophy Hoarder | 4.00% | ~19,123 |
@@ -75,20 +75,20 @@ Number of Ratings: 19,160  (23.09.2022)
 | Golden Boot | 3.00% | ~14,342 |
 | Freedom Of The Country | 3.00% | ~14,342 |
 | On Top Of The World | 3.00% | ~14,342 |
-| Icon | 2.00% | ~9,561 |
-| Part Of The Furniture | 2.00% | ~9,561 |
-| Childhood Dream | 2.00% | ~9,561 |
-| Invitational | 2.00% | ~9,561 |
-| Mr Delegator | 2.00% | ~9,561 |
-| Scout's Honour | 2.00% | ~9,561 |
+| Icon | 2.00% | ~9,562 |
+| Part Of The Furniture | 2.00% | ~9,562 |
+| Childhood Dream | 2.00% | ~9,562 |
+| Invitational | 2.00% | ~9,562 |
+| Mr Delegator | 2.00% | ~9,562 |
+| Scout's Honour | 2.00% | ~9,562 |
 | There Is Always Plan B | 1.00% | ~4,781 |
 | Living the Dream | 1.00% | ~4,781 |
 | The Greatest | 1.00% | ~4,781 |
 | Beat your Mates | 1.00% | ~4,781 |
 | The Rich Get Richer | 0.80% | ~3,825 |
-| Perfect Host | 0.70% | ~3,346 |
-| One more draft | 0.70% | ~3,346 |
-| Set Piece Specialist | 0.70% | ~3,346 |
+| Perfect Host | 0.70% | ~3,347 |
+| One more draft | 0.70% | ~3,347 |
+| Set Piece Specialist | 0.70% | ~3,347 |
 | Online Streak | 0.60% | ~2,868 |
 | Draft Rivalry | 0.50% | ~2,390 |
 | Outstanding Defence | 0.40% | ~1,912 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~478 |
 | Shoestring Budget | 0.10% | ~478 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 478,070 (Ranked 41)  
+Progressed: 478,077 (Ranked 41)  
 Completed: 22 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -350,7 +350,7 @@ Completed: 22 (0.00%) (Ranked 384)
 | 2023-12-18 | 477,925 | 22 |
 | 2023-12-19 | 477,995 | 22 |
 | 2023-12-20 | 478,042 | 22 |
-| 2023-12-21 | 478,070 | 22 |
+| 2023-12-21 | 478,077 | 22 |
 ## Awards
 Max (Relaxing): 6,486  (Ranked 60)  
 Sum: 51,158 (Ranked 30)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 146,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
@@ -2356,9 +2356,9 @@
       "Count": 258
     }
   ],
-  "EOS_Progressed": 220660,
+  "EOS_Progressed": 220670,
   "EOS_Completed": 101,
-  "EOS_NewPlayers": 1472,
+  "EOS_NewPlayers": 1471,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -30521,6 +30521,11 @@
       "Time": "2023-12-21T16:07:05.4713567+00:00",
       "NumProgressed": 220660,
       "NumCompleted": 101
+    },
+    {
+      "Time": "2023-12-21T17:05:44.9337772+00:00",
+      "NumProgressed": 220670,
+      "NumCompleted": 101
     }
   ],
   "TotalAchievements": 44,
@@ -30532,7 +30537,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 24273
+      "UsersEstimate": 24274
     },
     {
       "ID": "AtheistOx",
@@ -30572,7 +30577,7 @@
       "Name": "Disguised",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 19859
+      "UsersEstimate": 19860
     },
     {
       "ID": "FiveShadows",
@@ -30596,7 +30601,7 @@
       "Name": "Gear up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8826
+      "UsersEstimate": 8827
     },
     {
       "ID": "Genin",
@@ -30604,7 +30609,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 26479
+      "UsersEstimate": 26480
     },
     {
       "ID": "HappyLittleAccidents",
@@ -30612,7 +30617,7 @@
       "Name": "Happy little accidents",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 11033
+      "UsersEstimate": 11034
     },
     {
       "ID": "HappyPlanning",
@@ -30620,7 +30625,7 @@
       "Name": "Happy Planning",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 15446
+      "UsersEstimate": 15447
     },
     {
       "ID": "HighFiveTheMoon",
@@ -30636,7 +30641,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 15446
+      "UsersEstimate": 15447
     },
     {
       "ID": "ItsRainingMen",
@@ -30652,7 +30657,7 @@
       "Name": "Jonin",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 15446
+      "UsersEstimate": 15447
     },
     {
       "ID": "Mercyful",
@@ -30700,7 +30705,7 @@
       "Name": "Noboru",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 8826
+      "UsersEstimate": 8827
     },
     {
       "ID": "Okkoto",
@@ -30708,7 +30713,7 @@
       "Name": "Okkoto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 11033
+      "UsersEstimate": 11034
     },
     {
       "ID": "OldMan",
@@ -30732,7 +30737,7 @@
       "Name": "Prisoners",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 11033
+      "UsersEstimate": 11034
     },
     {
       "ID": "ReleaseTheKraken",
@@ -30748,7 +30753,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 19859
+      "UsersEstimate": 19860
     },
     {
       "ID": "Rollin",
@@ -30756,7 +30761,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 19859
+      "UsersEstimate": 19860
     },
     {
       "ID": "StillRollin",
@@ -30764,7 +30769,7 @@
       "Name": "Still Rollin\u0027",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8826
+      "UsersEstimate": 8827
     },
     {
       "ID": "Stoned",
@@ -30780,7 +30785,7 @@
       "Name": "Stoned Ox",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17653
+      "UsersEstimate": 17654
     },
     {
       "ID": "TanukiTime",
@@ -30788,7 +30793,7 @@
       "Name": "Tanuki Time",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 19859
+      "UsersEstimate": 19860
     },
     {
       "ID": "TheCave",
@@ -30820,7 +30825,7 @@
       "Name": "Thorough",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 24273
+      "UsersEstimate": 24274
     },
     {
       "ID": "TimeParadox",
@@ -30844,7 +30849,7 @@
       "Name": "Too Early",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 11033
+      "UsersEstimate": 11034
     },
     {
       "ID": "Warzone",
@@ -30876,22 +30881,22 @@
       "Name": "Yabu",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 15446
+      "UsersEstimate": 15447
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 220660,
+      "Progressed": 220670,
       "Completed": 101
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-12-20T14:00:40.4217598+00:00",
-  "LastChanged_Achievements": "2023-12-21T16:07:05.4713559+00:00",
+  "LastChanged_Achievements": "2023-12-21T17:05:44.9337769+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:48.0979756+00:00",
-  "LastUpdate_Ratings": "2023-12-21T16:03:16.6612983+00:00",
-  "LastUpdate_Achievements": "2023-12-21T16:07:05.4715614+00:00"
+  "LastUpdate_Ratings": "2023-12-21T17:02:48.6013565+00:00",
+  "LastUpdate_Achievements": "2023-12-21T17:05:44.9339374+00:00"
 }

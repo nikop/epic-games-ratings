@@ -2,7 +2,7 @@
   "ID": "66e9c042d8cd42b7956f5e195e0442de",
   "Name": "Rayman Origins",
   "ProductSlug": "rayman-origins",
-  "Ranking_Rating": 25,
+  "Ranking_Rating": 26,
   "Ranking_Popularity": 474,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 813,
@@ -394,6 +394,6 @@
   "FirstSeen": "2022-07-22T20:25:19.1614924+00:00",
   "LastChanged": "2023-12-12T01:45:49.5835454+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:32.2222191+00:00",
-  "LastUpdate_Ratings": "2023-12-21T15:59:08.8809254+00:00",
-  "LastUpdate_Achievements": "2023-12-21T16:04:48.8656408+00:00"
+  "LastUpdate_Ratings": "2023-12-21T16:58:33.6643784+00:00",
+  "LastUpdate_Achievements": "2023-12-21T17:03:58.2030119+00:00"
 }

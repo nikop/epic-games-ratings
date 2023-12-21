@@ -6,35 +6,35 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 69.00% | ~30,486 |
+| Shoot it, man! Shoot it in the head! | 69.00% | ~30,487 |
 | Say goodbye, creep! | 66.00% | ~29,161 |
 | Blood splattered | 66.00% | ~29,161 |
-| Choo choo! | 63.00% | ~27,835 |
-| Groovy | 62.00% | ~27,393 |
-| Cleanup on aisle 4! | 57.00% | ~25,184 |
-| Gold | 51.00% | ~22,533 |
+| Choo choo! | 63.00% | ~27,836 |
+| Groovy | 62.00% | ~27,394 |
+| Cleanup on aisle 4! | 57.00% | ~25,185 |
+| Gold | 51.00% | ~22,534 |
 | The boat can leave now...tell the crew | 49.00% | ~21,650 |
 | Give me something to shoot! | 47.00% | ~20,766 |
 | Stand back boy! | 47.00% | ~20,766 |
-| Chain reaction | 45.00% | ~19,882 |
+| Chain reaction | 45.00% | ~19,883 |
 | Weird science | 44.00% | ~19,441 |
 | What did you say, Blain? | 42.00% | ~18,557 |
 | Look mummy! A shark! | 41.00% | ~18,115 |
-| In the dark dark woods... | 39.00% | ~17,231 |
+| In the dark dark woods... | 39.00% | ~17,232 |
 | Come and get it! It's a running buffet! | 38.00% | ~16,790 |
 | Double tap | 37.00% | ~16,348 |
 | Cranial blowout! | 37.00% | ~16,348 |
 | All of this has happened before… | 36.00% | ~15,906 |
 | Zombie killin' machine | 36.00% | ~15,906 |
 | Every bullet counts | 36.00% | ~15,906 |
-| All roads lead to Rome | 34.00% | ~15,022 |
-| You've got red on you | 34.00% | ~15,022 |
+| All roads lead to Rome | 34.00% | ~15,023 |
+| You've got red on you | 34.00% | ~15,023 |
 | You're all going to die down here | 32.00% | ~14,139 |
 | He did Nazi that coming | 32.00% | ~14,139 |
 | Kill of the week | 31.00% | ~13,697 |
 | I never liked them anyway | 31.00% | ~13,697 |
-| Is it over? | 28.00% | ~12,371 |
-| Got your back | 27.00% | ~11,929 |
+| Is it over? | 28.00% | ~12,372 |
+| Got your back | 27.00% | ~11,930 |
 | Gore soaked | 24.00% | ~10,604 |
 | Shock therapy | 23.00% | ~10,162 |
 | Leave the limbs you've lost | 23.00% | ~10,162 |
@@ -42,11 +42,11 @@ Number of Ratings: 743  (23.09.2022)
 | Take them down screaming | 18.00% | ~7,953 |
 | Bad Blood | 17.00% | ~7,511 |
 | Weapons expert | 17.00% | ~7,511 |
-| The bigger they are... | 15.00% | ~6,627 |
+| The bigger they are... | 15.00% | ~6,628 |
 | I'm going deeper underground | 14.00% | ~6,186 |
 | Well equipped | 13.00% | ~5,744 |
 | Into the deep | 12.00% | ~5,302 |
-| Damnedbusters | 9.00% | ~3,976 |
+| Damnedbusters | 9.00% | ~3,977 |
 | Plane sailing | 8.00% | ~3,535 |
 | I can do anything I want. I got guns | 8.00% | ~3,535 |
 | Send me an angel | 8.00% | ~3,535 |
@@ -66,14 +66,14 @@ Number of Ratings: 743  (23.09.2022)
 | They're coming to get you Barbara | 4.00% | ~1,767 |
 | Total protonic reversal | 4.00% | ~1,767 |
 | A friend in need | 4.00% | ~1,767 |
-| People don't change. We go round in circles | 3.00% | ~1,325 |
-| The blighters got through a second time. | 3.00% | ~1,325 |
-| I'm a survivor! | 3.00% | ~1,325 |
+| People don't change. We go round in circles | 3.00% | ~1,326 |
+| The blighters got through a second time. | 3.00% | ~1,326 |
+| I'm a survivor! | 3.00% | ~1,326 |
 | That's a lot of them, and only 4 of us | 2.00% | ~884 |
 | Just me and my trusty sidearm | 1.00% | ~442 |
 | None more hard | 0.60% | ~265 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,183 (Ranked 124)  
+Progressed: 44,184 (Ranked 124)  
 Completed: 25 (0.06%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 25 (0.06%) (Ranked 325)
 | 2023-12-18 | 44,167 | 25 |
 | 2023-12-19 | 44,173 | 25 |
 | 2023-12-20 | 44,179 | 25 |
-| 2023-12-21 | 44,183 | 25 |
+| 2023-12-21 | 44,184 | 25 |
 ## Awards
 Max (Great Boss Battles): 858  (Ranked 171)  
 Sum: 2,597 (Ranked 195)  

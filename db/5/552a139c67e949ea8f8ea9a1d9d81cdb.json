@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1511,
+  "EOS_Progressed": 1512,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3617,6 +3617,11 @@
       "Time": "2023-12-21T16:05:05.6483695+00:00",
       "NumProgressed": 1511,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T17:04:11.2547096+00:00",
+      "NumProgressed": 1512,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -3635,17 +3640,17 @@
       "ID": "ML_ACHIEVEMENT_02",
       "SetID": "5k00jcd",
       "Name": "Acrobat",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 60
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
       "SetID": "5k00jcd",
       "Name": "Out of control",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 60
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -3996,20 +4001,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1511,
+      "Progressed": 1512,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1179,
+      "Progressed": 1180,
       "Completed": 997
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-21T16:05:05.6483691+00:00",
+  "LastChanged_Achievements": "2023-12-21T17:04:11.2547092+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:08.51229+00:00",
-  "LastUpdate_Ratings": "2023-12-21T15:57:20.7391599+00:00",
-  "LastUpdate_Achievements": "2023-12-21T16:05:05.6484237+00:00"
+  "LastUpdate_Ratings": "2023-12-21T16:57:09.9081853+00:00",
+  "LastUpdate_Achievements": "2023-12-21T17:04:11.2547696+00:00"
 }

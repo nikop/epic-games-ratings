@@ -2,12 +2,12 @@
   "ID": "45a3134e24b3470dbd9ea94d17b3507b",
   "Name": "Townsmen - A Kingdom Rebuilt",
   "ProductSlug": "townsmen-a-kingdom-rebuilt-07c09d",
-  "Ranking_Rating": 886,
+  "Ranking_Rating": 887,
   "Ranking_Popularity": 571,
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4394,
+  "EOS_Progressed": 4395,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1782,6 +1782,11 @@
       "Time": "2023-12-20T22:11:09.8014066+00:00",
       "NumProgressed": 4394,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-21T17:10:20.8817815+00:00",
+      "NumProgressed": 4395,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 101,
@@ -1857,7 +1862,7 @@
       "Name": "I like to build stuff... I",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "ACHIEVEMENT_BUILDINGS2",
@@ -2079,9 +2084,9 @@
       "ID": "ACHIEVEMENT_PRESTIGE3",
       "SetID": "9eacipp",
       "Name": "An honorable Governor III",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 88
     },
     {
       "ID": "ACHIEVEMENT_QUESTS1",
@@ -2481,7 +2486,7 @@
       "Name": "A time consuming game I",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "ACHIEVEMENT_TIME2",
@@ -2600,15 +2605,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4394,
+      "Progressed": 4395,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-12-04T22:59:34.0965429+00:00",
-  "LastChanged_Achievements": "2023-12-21T16:11:27.1255772+00:00",
+  "LastChanged_Achievements": "2023-12-21T17:10:20.8817811+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:01.0701157+00:00",
-  "LastUpdate_Ratings": "2023-12-21T15:58:52.3905807+00:00",
-  "LastUpdate_Achievements": "2023-12-21T16:11:27.1256814+00:00"
+  "LastUpdate_Ratings": "2023-12-21T16:58:21.154322+00:00",
+  "LastUpdate_Achievements": "2023-12-21T17:10:20.8818698+00:00"
 }

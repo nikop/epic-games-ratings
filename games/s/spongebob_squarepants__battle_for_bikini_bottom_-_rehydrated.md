@@ -10,6 +10,14 @@ Number of Ratings: 76  (23.09.2022)
 | Time For Tutorial | 1.00% | ~2 |
 | Are you ready now? | 0.60% | ~1 |
 | Uptown and Downtown | 0.60% | ~1 |
+| Jellyfishing | 0.60% | ~1 |
+| Jellyfish Jam | 0.60% | ~1 |
+| Keep it Rolling | 0.60% | ~1 |
+| Shrimp Catcher | 0.60% | ~1 |
+| Toxic Terror | 0.60% | ~1 |
+| Spatula Seeker | 0.60% | ~1 |
+| Sponge Smasher | 0.60% | ~1 |
+| Squirrel Smasher | 0.60% | ~1 |
 | Robot encyclopedia | 0.00% | ~0 |
 | The Small Does Not Rule | 0.00% | ~0 |
 | 100% SpongeBob | 0.00% | ~0 |
@@ -17,12 +25,7 @@ Number of Ratings: 76  (23.09.2022)
 | Ship Shape | 0.00% | ~0 |
 | Hello, Bikini Bottom | 0.00% | ~0 |
 | Shanghaied | 0.00% | ~0 |
-| Jellyfishing | 0.00% | ~0 |
-| Jellyfish Jam | 0.00% | ~0 |
 | Kelp Forest of Fear | 0.00% | ~0 |
-| Keep it Rolling | 0.00% | ~0 |
-| Shrimp Catcher | 0.00% | ~0 |
-| Toxic Terror | 0.00% | ~0 |
 | SpongeBob vs SpongeBob! | 0.00% | ~0 |
 | Hit Rock Bottom | 0.00% | ~0 |
 | Sleepy Time | 0.00% | ~0 |
@@ -33,13 +36,10 @@ Number of Ratings: 76  (23.09.2022)
 | Ultra Spatula Seeker | 0.00% | ~0 |
 | Mega Spatula Seeker | 0.00% | ~0 |
 | Sock Getter | 0.00% | ~0 |
-| Spatula Seeker | 0.00% | ~0 |
-| Sponge Smasher | 0.00% | ~0 |
-| Squirrel Smasher | 0.00% | ~0 |
 | Star Smasher | 0.00% | ~0 |
 | Surf's Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 159 (Ranked 420)  
+Progressed: 160 (Ranked 420)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -47,7 +47,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 34 | 0 |
 | 2023-12-19 | 88 | 0 |
 | 2023-12-20 | 127 | 0 |
-| 2023-12-21 | 159 | 0 |
+| 2023-12-21 | 160 | 0 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 492)  
 Sum: 34 (Ranked 516)  

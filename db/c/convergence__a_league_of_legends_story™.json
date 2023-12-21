@@ -47,7 +47,7 @@
   "Tags": [],
   "EOS_Progressed": 1055,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -3245,9 +3245,9 @@
       "ID": "RewindParry",
       "SetID": "a9e499d",
       "Name": "Honest Mistake",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 232
+      "UsersEstimate": 243
     },
     {
       "ID": "ScrambotCompletion1",
@@ -3382,8 +3382,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-18T08:57:59.1291337+00:00",
-  "LastChanged_Achievements": "2023-12-21T16:11:08.9481237+00:00",
+  "LastChanged_Achievements": "2023-12-21T17:10:05.7005148+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.1550939+00:00",
-  "LastUpdate_Ratings": "2023-12-21T16:01:19.8895342+00:00",
-  "LastUpdate_Achievements": "2023-12-21T16:11:08.9481743+00:00"
+  "LastUpdate_Ratings": "2023-12-21T17:00:06.4171486+00:00",
+  "LastUpdate_Achievements": "2023-12-21T17:10:05.7005687+00:00"
 }

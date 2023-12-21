@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 522,
   "Ranking_EOS_Completed": 97,
   "Ranking_EOS_NewPlayers": 383,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-08-29T08:00:00+00:00",
     "PcReleaseDate": "2023-08-29T08:00:00+00:00",
@@ -357,9 +357,9 @@
       "ID": "ACH_015",
       "SetID": "7b646ck",
       "Name": "Everything matters",
-      "Percentage": 45,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_016",
@@ -381,9 +381,9 @@
       "ID": "ACH_018",
       "SetID": "7b646ck",
       "Name": "Order and method",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_019",
@@ -421,9 +421,9 @@
       "ID": "ACH_022",
       "SetID": "7b646ck",
       "Name": "An expert mediator",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_023",
@@ -525,9 +525,9 @@
       "ID": "ACH_034",
       "SetID": "7b646ck",
       "Name": "DI Hardwicke",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_035",
@@ -684,8 +684,8 @@
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2023-12-21T16:10:31.8602624+00:00",
+  "LastChanged_Achievements": "2023-12-21T17:09:37.4200783+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:34.2586624+00:00",
-  "LastUpdate_Ratings": "2023-12-21T16:00:01.5331562+00:00",
-  "LastUpdate_Achievements": "2023-12-21T16:10:31.8603301+00:00"
+  "LastUpdate_Ratings": "2023-12-21T16:59:12.6342475+00:00",
+  "LastUpdate_Achievements": "2023-12-21T17:09:37.4201395+00:00"
 }

@@ -1746,9 +1746,9 @@
       "ID": "ach_main02horde_creatures",
       "SetID": "4hg22ll",
       "Name": "For the Horde!",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 493
+      "UsersEstimate": 499
     },
     {
       "ID": "ach_main02horde_traps",
@@ -2034,9 +2034,9 @@
       "ID": "ach_main14run_completed",
       "SetID": "4hg22ll",
       "Name": "If Looks Could Kill",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 204
     },
     {
       "ID": "ach_main14run_mirroruses",
@@ -2082,9 +2082,9 @@
       "ID": "ach_main16ring_completed",
       "SetID": "4hg22ll",
       "Name": "Doom Hill",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 168
     },
     {
       "ID": "ach_main16ring_lavalings",
@@ -2106,17 +2106,17 @@
       "ID": "ach_main17stone_completed",
       "SetID": "4hg22ll",
       "Name": "Raiders of the Lost Stone",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 144
     },
     {
       "ID": "ach_main17stone_explosions",
       "SetID": "4hg22ll",
       "Name": "Brimstone Shaken, Not Stirred",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 156
     },
     {
       "ID": "ach_main17stone_transporter",
@@ -2209,8 +2209,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-21T16:09:22.2949861+00:00",
+  "LastChanged_Achievements": "2023-12-21T17:08:43.0747791+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:09.5802782+00:00",
-  "LastUpdate_Ratings": "2023-12-21T16:03:04.5827484+00:00",
-  "LastUpdate_Achievements": "2023-12-21T16:09:22.2950306+00:00"
+  "LastUpdate_Ratings": "2023-12-21T17:02:40.1981264+00:00",
+  "LastUpdate_Achievements": "2023-12-21T17:08:43.0748264+00:00"
 }

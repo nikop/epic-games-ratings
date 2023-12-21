@@ -6,13 +6,13 @@ Rating: 4.58 (Ranked 456)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 30.00% | ~1,085 |
-| Sputnik 2049 | 27.00% | ~976 |
+| Sputnik 2049 | 27.00% | ~977 |
 | Infinite Growth... | 26.00% | ~940 |
 | Without Breaking Some Eggs... | 25.00% | ~904 |
 | A Thousand Strong | 18.00% | ~651 |
 | Ready for a New World | 18.00% | ~651 |
 | Space Society | 17.00% | ~615 |
-| Permanent Redesigns | 15.00% | ~542 |
+| Permanent Redesigns | 15.00% | ~543 |
 | Fully Recycled | 14.00% | ~506 |
 | Ain't Nobody Got Time for That | 14.00% | ~506 |
 | The Ship of Theseus | 14.00% | ~506 |
@@ -21,7 +21,7 @@ Rating: 4.58 (Ranked 456)
 | Breaking Protocol | 12.00% | ~434 |
 | Hope Seeker | 12.00% | ~434 |
 | A Hunk of Junk | 11.00% | ~398 |
-| Man's Best Friend | 9.00% | ~325 |
+| Man's Best Friend | 9.00% | ~326 |
 | Power Outage | 8.00% | ~289 |
 | Convenient Transport | 8.00% | ~289 |
 | Please Make it Stop! | 8.00% | ~289 |
@@ -39,10 +39,10 @@ Rating: 4.58 (Ranked 456)
 | Sustainable Energy | 4.00% | ~145 |
 | In Dolos We Trust | 4.00% | ~145 |
 | Pedal to the Metal | 4.00% | ~145 |
-| Praise the Hull! | 3.00% | ~108 |
-| Delivery! | 3.00% | ~108 |
-| Help of the Forgotten Member | 3.00% | ~108 |
-| Pulsar Disciple | 3.00% | ~108 |
+| Praise the Hull! | 3.00% | ~109 |
+| Delivery! | 3.00% | ~109 |
+| Help of the Forgotten Member | 3.00% | ~109 |
+| Pulsar Disciple | 3.00% | ~109 |
 | Mutual Loyalty | 2.00% | ~72 |
 | Tiqqun Contender | 2.00% | ~72 |
 | Catastrophe Avoided | 2.00% | ~72 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 456)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,616 (Ranked 211)  
+Progressed: 3,617 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 3,569 | 0 |
 | 2023-12-19 | 3,586 | 0 |
 | 2023-12-20 | 3,605 | 0 |
-| 2023-12-21 | 3,616 | 0 |
+| 2023-12-21 | 3,617 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,7 +6,7 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,393 |
+| Devoured by Darkness | 27.00% | ~3,394 |
 | A Spark | 19.00% | ~2,388 |
 | Burning City | 18.00% | ~2,262 |
 | Defender's Heart | 16.00% | ~2,011 |
@@ -35,10 +35,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | Heroic Victory | 3.00% | ~377 |
 | Capitulation Is Now Moot | 3.00% | ~377 |
 | Core of the Riddle | 3.00% | ~377 |
-| Hanged Man's Notes | 3.00% | ~340 |
-| Sarkoris Will Be Green | 3.00% | ~340 |
-| The Lady of the Forest | 3.00% | ~340 |
-| Beware Still Water | 3.00% | ~340 |
+| Hanged Man's Notes | 3.00% | ~341 |
+| Sarkoris Will Be Green | 3.00% | ~341 |
+| The Lady of the Forest | 3.00% | ~341 |
+| Beware Still Water | 3.00% | ~341 |
 | Path of the Demon | 2.00% | ~251 |
 | Path of the Aeon | 2.00% | ~251 |
 | Your First Big Enemy | 2.00% | ~251 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,568 (Ranked 168)  
+Progressed: 12,569 (Ranked 168)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -368,7 +368,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 12,490 | 0 |
 | 2023-12-19 | 12,526 | 0 |
 | 2023-12-20 | 12,550 | 0 |
-| 2023-12-21 | 12,568 | 0 |
+| 2023-12-21 | 12,569 | 0 |
 ## Awards
 Max (Character Customization): 1,763  (Ranked 124)  
 Sum: 7,155 (Ranked 123)  

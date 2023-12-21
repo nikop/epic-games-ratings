@@ -463,17 +463,17 @@
       "ID": "ACH_16_APPLES",
       "SetID": "9dl0ei6",
       "Name": "Apple Gatherer",
-      "Percentage": 61,
+      "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_17_PICNIC",
       "SetID": "9dl0ei6",
       "Name": "Picnic",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_18_MIA",
@@ -535,9 +535,9 @@
       "ID": "ACH_25_BEACH",
       "SetID": "9dl0ei6",
       "Name": "Surfer",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_26_SIDEQUEST",
@@ -566,8 +566,8 @@
   ],
   "FirstSeen": "2023-07-12T17:57:50.452035+00:00",
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
-  "LastChanged_Achievements": "2023-12-21T16:11:16.1179423+00:00",
+  "LastChanged_Achievements": "2023-12-21T17:10:11.3991115+00:00",
   "LastUpdate_AppInfo": "2023-12-18T02:20:37.8746121+00:00",
-  "LastUpdate_Ratings": "2023-12-21T16:01:04.1630487+00:00",
-  "LastUpdate_Achievements": "2023-12-21T16:11:16.1179582+00:00"
+  "LastUpdate_Ratings": "2023-12-21T16:59:53.5655621+00:00",
+  "LastUpdate_Achievements": "2023-12-21T17:10:11.3991276+00:00"
 }

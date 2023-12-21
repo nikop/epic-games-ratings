@@ -1,7 +1,7 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.95 (Ranked 1,029)  
+Rating: 3.95 (Ranked 1,030)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,029)
 | Full House | 0.10% | ~92 |
 | Geek Out | 0.10% | ~92 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,269 (Ranked 96)  
+Progressed: 92,271 (Ranked 96)  
 Completed: 58 (0.06%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,10 +292,10 @@ Completed: 58 (0.06%) (Ranked 325)
 | 2023-12-18 | 92,143 | 58 |
 | 2023-12-19 | 92,195 | 58 |
 | 2023-12-20 | 92,233 | 58 |
-| 2023-12-21 | 92,269 | 58 |
+| 2023-12-21 | 92,271 | 58 |
 ## Awards
 Max (Diverse Characters): 570  (Ranked 207)  
-Sum: 2,696 (Ranked 190)  
+Sum: 2,698 (Ranked 190)  
 Diff (max vs sum): 17  
 | Award | Count |
 | ----- | ----- |
@@ -303,7 +303,7 @@ Diff (max vs sum): 17
 | This game is Highly Recommended | 551 |
 | This game has Quickly Understood Controls | 534 |
 | This game has Amazing Characters | 523 |
-| This game is Extremely Fun | 518 |
+| This game is Extremely Fun | 520 |
 | This game has Challenging Combat | 514 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
@@ -573,4 +573,4 @@ Diff (max vs sum): 17
 | 2023-12-18 | 3.95 | 567 | 2,684 |
 | 2023-12-19 | 3.95 | 569 | 2,687 |
 | 2023-12-20 | 3.95 | 569 | 2,690 |
-| 2023-12-21 | 3.95 | 570 | 2,696 |
+| 2023-12-21 | 3.95 | 570 | 2,698 |

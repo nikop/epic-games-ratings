@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eat My Dust | 47.00% | ~1,320 |
-| First Love | 43.00% | ~1,207 |
+| First Love | 44.00% | ~1,236 |
 | Clean Race | 42.00% | ~1,179 |
 | Hear That Roar! | 40.00% | ~1,123 |
 | Rivals to the End | 29.00% | ~814 |
@@ -24,9 +24,9 @@
 | Evangelist | 6.00% | ~168 |
 | Make It Your Own! | 5.00% | ~140 |
 | Cherry Blossom and Temples | 4.00% | ~112 |
+| The Road to Liberty | 4.00% | ~112 |
 | Spoilt for Choice | 3.00% | ~84 |
 | La Dolce Vita | 3.00% | ~84 |
-| The Road to Liberty | 3.00% | ~84 |
 | Romantic Races | 3.00% | ~84 |
 | I Make the Rules! | 3.00% | ~84 |
 | Rounding Off | 3.00% | ~84 |

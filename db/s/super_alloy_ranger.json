@@ -2,9 +2,9 @@
   "ID": "6bd7d2e32a724e119b9e4a2254aeec33",
   "Name": "Super Alloy Ranger",
   "ProductSlug": "super-alloy-ranger-4252cc",
-  "Ranking_EOS_Progress": 438,
+  "Ranking_EOS_Progress": 439,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 369,
+  "Ranking_EOS_NewPlayers": 363,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 133,
+  "EOS_Progressed": 134,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -651,6 +651,11 @@
       "Time": "2023-12-21T16:07:06.2942287+00:00",
       "NumProgressed": 133,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T17:05:45.8145469+00:00",
+      "NumProgressed": 134,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -668,9 +673,9 @@
       "ID": "Achi_02",
       "SetID": "51a97k7",
       "Name": "The Deep Frozen Conqueror",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "Achi_03",
@@ -684,9 +689,9 @@
       "ID": "Achi_04",
       "SetID": "51a97k7",
       "Name": "The Infinite Train Conqueror",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "Achi_05",
@@ -700,9 +705,9 @@
       "ID": "Achi_06",
       "SetID": "51a97k7",
       "Name": "The Paradox Coordinate Conqueror",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "Achi_07",
@@ -716,9 +721,9 @@
       "ID": "Achi_08",
       "SetID": "51a97k7",
       "Name": "The Inactivated Frozen Conqueror",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "Achi_09",
@@ -772,9 +777,9 @@
       "ID": "Achi_15",
       "SetID": "51a97k7",
       "Name": "Alloy Rangers, Assemble!",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "Achi_16",
@@ -812,7 +817,7 @@
       "ID": "Achi_20",
       "SetID": "51a97k7",
       "Name": "Freshen Up",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
       "UsersEstimate": 70
     },
@@ -820,9 +825,9 @@
       "ID": "Achi_21",
       "SetID": "51a97k7",
       "Name": "Pumped Up",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "Achi_22",
@@ -830,15 +835,15 @@
       "Name": "Iceberg Theory",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "Achi_23",
       "SetID": "51a97k7",
       "Name": "The Hidden Secret",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "Achi_24",
@@ -860,15 +865,15 @@
       "ID": "Achi_26",
       "SetID": "51a97k7",
       "Name": "Easy Peasy",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "Achi_27",
       "SetID": "51a97k7",
       "Name": "GG EZ",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 20,
       "UsersEstimate": 70
     },
@@ -878,7 +883,7 @@
       "Name": "Ka-Ching!",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "Achi_29",
@@ -900,7 +905,7 @@
       "ID": "Achi_31",
       "SetID": "51a97k7",
       "Name": "Flawless",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -908,9 +913,9 @@
       "ID": "Achi_32",
       "SetID": "51a97k7",
       "Name": "Keep it Up, rookie!",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "Achi_33",
@@ -924,9 +929,9 @@
       "ID": "Achi_34",
       "SetID": "51a97k7",
       "Name": "Hydrophobia",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 51
+      "UsersEstimate": 50
     },
     {
       "ID": "Achi_35",
@@ -948,9 +953,9 @@
       "ID": "Achi_37",
       "SetID": "51a97k7",
       "Name": "Get to the Point",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 34
     },
     {
       "ID": "Achi_38",
@@ -980,7 +985,7 @@
       "ID": "Achi_41",
       "SetID": "51a97k7",
       "Name": "Peace Out",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -988,7 +993,7 @@
       "ID": "Achi_42",
       "SetID": "51a97k7",
       "Name": "Mischief Time",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -996,7 +1001,7 @@
       "ID": "Achi_43",
       "SetID": "51a97k7",
       "Name": "Art is an Explosion",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -1012,15 +1017,15 @@
       "ID": "Achi_45",
       "SetID": "51a97k7",
       "Name": "Clean Sweep",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "Achi_46",
       "SetID": "51a97k7",
       "Name": "Bullets Fear Me",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -1052,7 +1057,7 @@
       "ID": "Achi_50",
       "SetID": "51a97k7",
       "Name": "Super Alloy Ranger!",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 35,
       "UsersEstimate": 1
     }
@@ -1061,7 +1066,7 @@
     {
       "ID": "51a97k7",
       "IsBase": true,
-      "Progressed": 133,
+      "Progressed": 134,
       "Completed": 1
     }
   ],
@@ -1069,8 +1074,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-12-21T16:07:06.2942282+00:00",
+  "LastChanged_Achievements": "2023-12-21T17:05:45.8145466+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:25.2099775+00:00",
-  "LastUpdate_Ratings": "2023-12-21T15:58:47.755762+00:00",
-  "LastUpdate_Achievements": "2023-12-21T16:07:06.2942645+00:00"
+  "LastUpdate_Ratings": "2023-12-21T16:58:17.2965983+00:00",
+  "LastUpdate_Achievements": "2023-12-21T17:05:45.8145785+00:00"
 }

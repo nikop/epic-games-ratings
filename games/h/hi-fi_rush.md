@@ -1,42 +1,42 @@
 # Hi-Fi RUSH
 [Store](https://store.epicgames.com/en-US/p/hi-fi-rush)  
 [View Rawdata](../../db/h/hi-fi_rush.json)  
-Rating: 4.88 (Ranked 16)  
+Rating: 4.89 (Ranked 10)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 45.00% | ~4,592 |
-| Start with a bang! | 44.00% | ~4,490 |
-| You can pet the cat! | 40.00% | ~4,082 |
-| Who put gears in there? | 32.00% | ~3,265 |
-| Cream of the Crop | 27.00% | ~2,755 |
-| Thanks for the free chip, Peppermint! | 27.00% | ~2,755 |
-| You got this, Peppermint? | 22.00% | ~2,245 |
-| Perfect Parry | 20.00% | ~2,041 |
-| Alright, that felt AWESOME! | 20.00% | ~2,041 |
-| I play my own way! | 18.00% | ~1,837 |
-| This will cost you big time | 16.00% | ~1,633 |
-| Uh, they were broken when I got here | 16.00% | ~1,633 |
-| Z-shielding's got nothing on us! | 14.00% | ~1,429 |
-| Kissing the sky! | 14.00% | ~1,429 |
-| Does that say weakpoint? | 14.00% | ~1,429 |
-| Whoa! There's ANOTHER health bar!? | 12.00% | ~1,224 |
-| The Negotiator | 11.00% | ~1,122 |
-| I look cool. But I can look COOLER. | 10.00% | ~1,020 |
-| You must like calling me in, Chai | 9.00% | ~918 |
-| Out in a puff of smoke | 9.00% | ~918 |
-| Headliner | 8.00% | ~816 |
-| Perfecter Parry-er! | 8.00% | ~816 |
-| Time to pay up! | 7.00% | ~714 |
-| Who's the boss now? | 7.00% | ~714 |
-| I have to read these things? | 7.00% | ~714 |
+| Feeling the beat! | 45.00% | ~4,599 |
+| Start with a bang! | 44.00% | ~4,496 |
+| You can pet the cat! | 40.00% | ~4,088 |
+| Who put gears in there? | 32.00% | ~3,270 |
+| Cream of the Crop | 27.00% | ~2,759 |
+| Thanks for the free chip, Peppermint! | 27.00% | ~2,759 |
+| You got this, Peppermint? | 22.00% | ~2,248 |
+| Perfect Parry | 21.00% | ~2,146 |
+| Alright, that felt AWESOME! | 20.00% | ~2,044 |
+| I play my own way! | 18.00% | ~1,839 |
+| This will cost you big time | 16.00% | ~1,635 |
+| Uh, they were broken when I got here | 16.00% | ~1,635 |
+| Z-shielding's got nothing on us! | 14.00% | ~1,431 |
+| Kissing the sky! | 14.00% | ~1,431 |
+| Does that say weakpoint? | 14.00% | ~1,431 |
+| Whoa! There's ANOTHER health bar!? | 12.00% | ~1,226 |
+| The Negotiator | 11.00% | ~1,124 |
+| I look cool. But I can look COOLER. | 10.00% | ~1,022 |
+| You must like calling me in, Chai | 9.00% | ~920 |
+| Out in a puff of smoke | 9.00% | ~920 |
+| Headliner | 8.00% | ~818 |
+| Perfecter Parry-er! | 8.00% | ~818 |
+| Time to pay up! | 7.00% | ~715 |
+| Who's the boss now? | 7.00% | ~715 |
+| I have to read these things? | 7.00% | ~715 |
 | NOW we got a kickass hideout! | 6.00% | ~524 |
-| Well that was a rush! | 5.00% | ~510 |
-| That's a lot of junk metal… | 5.00% | ~510 |
-| There's such a thing as TOO helpful | 5.00% | ~510 |
-| Beat-hit mania | 4.00% | ~408 |
-| I told you I'd be fine, Peppermint! | 4.00% | ~408 |
-| Chip-tuned | 3.00% | ~306 |
+| Well that was a rush! | 5.00% | ~511 |
+| That's a lot of junk metal… | 5.00% | ~511 |
+| There's such a thing as TOO helpful | 5.00% | ~511 |
+| Beat-hit mania | 4.00% | ~409 |
+| I told you I'd be fine, Peppermint! | 4.00% | ~409 |
+| Chip-tuned | 3.00% | ~307 |
 | We're Jammin' | 2.00% | ~204 |
 | I hit things with a guitar really well. | 2.00% | ~204 |
 | Wanna hear my playlist? | 2.00% | ~204 |
@@ -48,7 +48,7 @@ Rating: 4.88 (Ranked 16)
 | I'm not done with you yet | 1.00% | ~102 |
 | First we parry, then we counter | 1.00% | ~102 |
 | Call me Turbo Chai | 1.00% | ~87 |
-| Easy Listening | 0.70% | ~71 |
+| Easy Listening | 0.70% | ~72 |
 | New bad guys? No problem! | 0.60% | ~52 |
 | OK, well THEY came after ME! | 0.50% | ~51 |
 | Problem solved... wait, what? | 0.30% | ~31 |
@@ -77,7 +77,7 @@ Rating: 4.88 (Ranked 16)
 | Voices from within | 0.10% | ~9 |
 | Low budget finish | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,204 (Ranked 172)  
+Progressed: 10,219 (Ranked 172)  
 Completed: 8 (0.08%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 8 (0.08%) (Ranked 316)
 | 2023-12-18 | 9,200 | 8 |
 | 2023-12-19 | 9,581 | 8 |
 | 2023-12-20 | 9,904 | 8 |
-| 2023-12-21 | 10,204 | 8 |
+| 2023-12-21 | 10,219 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -342,3 +342,4 @@ Completed: 8 (0.08%) (Ranked 316)
 | 2023-12-17 | 4.90 | 0 | 0 |
 | 2023-12-18 | 4.89 | 0 | 0 |
 | 2023-12-20 | 4.88 | 0 | 0 |
+| 2023-12-21 | 4.89 | 0 | 0 |

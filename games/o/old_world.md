@@ -94,6 +94,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Furious Family | 0.10% | ~16 |
 | The Eternal Treaty | 0.10% | ~16 |
 | Five Routs | 0.10% | ~16 |
+| Run, Pheidippides, Run! | 0.10% | ~16 |
+| Nenikekamen | 0.10% | ~16 |
 | Hittite Iron | 0.10% | ~16 |
 | Acropolis | 0.10% | ~16 |
 | Apadana | 0.10% | ~16 |
@@ -190,6 +192,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Clergy | 0.10% | ~16 |
 | Deposed Tribe | 0.10% | ~16 |
 | The Great Mage | 0.10% | ~16 |
+| Poetic Leader | 0.10% | ~16 |
 | Ramesses II KIA | 0.10% | ~16 |
 | Lost the Hearts of Kmt | 0.10% | ~16 |
 | Won the Hearts of Kmt | 0.10% | ~16 |
@@ -236,8 +239,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Game of the Week | 0.00% | ~0 |
 | That Also Works | 0.00% | ~0 |
 | Defend Where? | 0.00% | ~0 |
-| Run, Pheidippides, Run! | 0.00% | ~0 |
-| Nenikekamen | 0.00% | ~0 |
 | Get the Hellas Out | 0.00% | ~0 |
 | Not a Chance | 0.00% | ~0 |
 | The Turning Point | 0.00% | ~0 |
@@ -310,7 +311,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Five Cults | 0.00% | ~0 |
 | The Mythical Beast | 0.00% | ~0 |
 | Pilgrimage | 0.00% | ~0 |
-| Poetic Leader | 0.00% | ~0 |
 | Patriarch St Paul | 0.00% | ~0 |
 | Hypatia the Teacher | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,858 (Ranked 159)  
+Progressed: 15,860 (Ranked 159)  
 Completed: 5 (0.03%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -610,7 +610,7 @@ Completed: 5 (0.03%) (Ranked 345)
 | 2023-12-18 | 15,826 | 5 |
 | 2023-12-19 | 15,840 | 5 |
 | 2023-12-20 | 15,854 | 5 |
-| 2023-12-21 | 15,858 | 5 |
+| 2023-12-21 | 15,860 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 279)  
 Sum: 1,905 (Ranked 220)  

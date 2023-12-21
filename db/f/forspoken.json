@@ -2,7 +2,7 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 983,
+  "Ranking_Rating": 984,
   "Ranking_Popularity": 500,
   "Ranking_PopularitySum": 522,
   "Ranking_EOS_Progress": 120,
@@ -523,9 +523,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 44630,
+  "EOS_Progressed": 44636,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 907,
+  "EOS_NewPlayers": 904,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15928,6 +15928,11 @@
       "Time": "2023-12-21T16:04:26.2691912+00:00",
       "NumProgressed": 44630,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-21T17:03:40.1706234+00:00",
+      "NumProgressed": 44636,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -15987,7 +15992,7 @@
       "Name": "Attachments",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4909
+      "UsersEstimate": 4910
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -16091,7 +16096,7 @@
       "Name": "Tinkerer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3570
+      "UsersEstimate": 3571
     },
     {
       "ID": "CUFF_ATTACK",
@@ -16179,7 +16184,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3124
+      "UsersEstimate": 3125
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -16227,7 +16232,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3124
+      "UsersEstimate": 3125
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -16251,7 +16256,7 @@
       "Name": "Hell of a Run",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3124
+      "UsersEstimate": 3125
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -16275,7 +16280,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4463
+      "UsersEstimate": 4464
     },
     {
       "ID": "SPRING_ALL",
@@ -16362,22 +16367,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 44630,
+      "Progressed": 44636,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 9467,
-      "Completed": 9467
+      "Progressed": 9473,
+      "Completed": 9473
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-21T10:56:56.3222551+00:00",
-  "LastChanged_Achievements": "2023-12-21T16:04:26.2691907+00:00",
+  "LastChanged_Achievements": "2023-12-21T17:03:40.1706229+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:26.7354097+00:00",
-  "LastUpdate_Ratings": "2023-12-21T15:57:27.5614772+00:00",
-  "LastUpdate_Achievements": "2023-12-21T16:04:26.2692832+00:00"
+  "LastUpdate_Ratings": "2023-12-21T16:57:15.7758979+00:00",
+  "LastUpdate_Achievements": "2023-12-21T17:03:40.1707426+00:00"
 }

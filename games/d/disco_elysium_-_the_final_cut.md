@@ -1,29 +1,29 @@
 # Disco Elysium - The Final Cut
 [Store](https://store.epicgames.com/en-US/p/disco-elysium)  
 [View Rawdata](../../db/d/disco_elysium_-_the_final_cut.json)  
-Rating: 4.87 (Ranked 25)  
+Rating: 4.87 (Ranked 26)  
 Number of Ratings: 1,611  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~37,664 |
-| Biggest Communism Builder | 24.00% | ~32,283 |
-| The World's Most Laughable Centrist | 20.00% | ~26,903 |
-| Il Coppo Del'Arte! | 18.00% | ~24,213 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,522 |
-| Hyperstellar Law Official | 16.00% | ~21,522 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~18,832 |
-| Gurdi-Ball Is Lit | 14.00% | ~18,832 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~17,487 |
+| Goodest Of The Good Cops | 28.00% | ~37,666 |
+| Biggest Communism Builder | 24.00% | ~32,285 |
+| The World's Most Laughable Centrist | 20.00% | ~26,904 |
+| Il Coppo Del'Arte! | 18.00% | ~24,214 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,523 |
+| Hyperstellar Law Official | 16.00% | ~21,523 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~18,833 |
+| Gurdi-Ball Is Lit | 14.00% | ~18,833 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~17,488 |
 | Truly Rabid *Traditionalist* | 11.00% | ~14,797 |
-| Unbelievably Boring **** | 9.00% | ~12,106 |
-| The Figurines Won't Win Her Back | 9.00% | ~12,106 |
-| Enemy Of The Physical Realm | 8.00% | ~10,761 |
+| Unbelievably Boring **** | 9.00% | ~12,107 |
+| The Figurines Won't Win Her Back | 9.00% | ~12,107 |
+| Enemy Of The Physical Realm | 8.00% | ~10,762 |
 | Hardie's Heroes | 6.00% | ~8,071 |
 | The Lawbringer | 4.00% | ~5,381 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,381 |
-| The Opener Of The Eighth Seal | 3.00% | ~4,035 |
-| Bother Kim After Hours | 3.00% | ~4,035 |
+| The Opener Of The Eighth Seal | 3.00% | ~4,036 |
+| Bother Kim After Hours | 3.00% | ~4,036 |
 | Baddest Of the Bad Cops | 2.00% | ~2,690 |
 | Expert Advanced Remote Viewer | 2.00% | ~2,690 |
 | Recruit Detective Kuuno de Ruyter | 2.00% | ~2,690 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~135 |
 | What body? | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,514 (Ranked 85)  
+Progressed: 134,520 (Ranked 85)  
 Completed: 28 (0.02%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 28 (0.02%) (Ranked 353)
 | 2023-12-18 | 133,915 | 28 |
 | 2023-12-19 | 134,139 | 28 |
 | 2023-12-20 | 134,371 | 28 |
-| 2023-12-21 | 134,514 | 28 |
+| 2023-12-21 | 134,520 | 28 |
 ## Awards
 Max (Character Customization): 751  (Ranked 184)  
 Sum: 1,145 (Ranked 256)  

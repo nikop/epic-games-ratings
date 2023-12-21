@@ -10,9 +10,9 @@
 | The Art of Conversation | 2.00% | ~8 |
 | Flying Tackle | 2.00% | ~8 |
 | Folklore | 1.00% | ~4 |
+| Wise and Floofy | 1.00% | ~4 |
 | Selfish Shellfish | 1.00% | ~4 |
 | Ocean Wings | 0.80% | ~3 |
-| Wise and Floofy | 0.80% | ~3 |
 | They Can Change | 0.50% | ~2 |
 | The Heart of Moonglow | 0.50% | ~2 |
 | Aquatic Expansion | 0.50% | ~2 |

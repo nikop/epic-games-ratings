@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 126,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -5433,9 +5433,9 @@
       "Count": 541
     }
   ],
-  "EOS_Progressed": 12923,
+  "EOS_Progressed": 12924,
   "EOS_Completed": 321,
-  "EOS_NewPlayers": 346,
+  "EOS_NewPlayers": 344,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 2.48,
   "EosHistory": [
@@ -22508,6 +22508,11 @@
       "Time": "2023-12-21T16:09:57.6135907+00:00",
       "NumProgressed": 12923,
       "NumCompleted": 321
+    },
+    {
+      "Time": "2023-12-21T17:09:11.3852538+00:00",
+      "NumProgressed": 12924,
+      "NumCompleted": 321
     }
   ],
   "TotalAchievements": 15,
@@ -22543,7 +22548,7 @@
       "Name": "Chef Cook",
       "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 2455
+      "UsersEstimate": 2456
     },
     {
       "ID": "Chit_Chatter",
@@ -22591,7 +22596,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 69,
       "XP": 75,
-      "UsersEstimate": 8917
+      "UsersEstimate": 8918
     },
     {
       "ID": "Miner",
@@ -22631,14 +22636,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 61,
       "XP": 100,
-      "UsersEstimate": 7883
+      "UsersEstimate": 7884
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 12923,
+      "Progressed": 12924,
       "Completed": 321
     }
   ],
@@ -22646,8 +22651,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-12-20T22:59:53.1401343+00:00",
-  "LastChanged_Achievements": "2023-12-21T16:09:57.6135903+00:00",
+  "LastChanged_Achievements": "2023-12-21T17:09:11.3852535+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:26.6445497+00:00",
-  "LastUpdate_Ratings": "2023-12-21T16:02:19.2113471+00:00",
-  "LastUpdate_Achievements": "2023-12-21T16:09:57.6137064+00:00"
+  "LastUpdate_Ratings": "2023-12-21T17:00:49.8830308+00:00",
+  "LastUpdate_Achievements": "2023-12-21T17:09:11.385339+00:00"
 }

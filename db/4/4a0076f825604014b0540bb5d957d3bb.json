@@ -481,9 +481,9 @@
       "ID": "CgkInO_K3eIdEAIQBA",
       "SetID": "6bj96in",
       "Name": "TRAINING DAY",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "CgkInO_K3eIdEAIQBQ",
@@ -672,8 +672,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-12-21T16:10:59.6886931+00:00",
+  "LastChanged_Achievements": "2023-12-21T17:09:58.3326703+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:05.2138263+00:00",
-  "LastUpdate_Ratings": "2023-12-21T15:58:52.0169844+00:00",
-  "LastUpdate_Achievements": "2023-12-21T16:10:59.6887111+00:00"
+  "LastUpdate_Ratings": "2023-12-21T16:58:20.9979973+00:00",
+  "LastUpdate_Achievements": "2023-12-21T17:09:58.3326851+00:00"
 }

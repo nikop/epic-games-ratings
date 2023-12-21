@@ -8,7 +8,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | ---- | ---------- | ----- |
 | Abandoned Settlement | 6.00% | ~1,130 |
 | Overgrown Library | 6.00% | ~1,130 |
-| Petrified Necropolis | 5.00% | ~941 |
+| Petrified Necropolis | 5.00% | ~942 |
 | Taking Action | 4.00% | ~753 |
 | No Deaths | 4.00% | ~753 |
 | Frosts | 4.00% | ~753 |
@@ -37,9 +37,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Cursed Lands | 1.00% | ~188 |
 | A Real Challenge | 1.00% | ~188 |
 | Trade Baron | 1.00% | ~188 |
-| Sparkdew Crystals | 0.90% | ~169 |
-| Haunted Forest | 0.90% | ~169 |
-| Flooded Mines | 0.90% | ~169 |
+| Sparkdew Crystals | 0.90% | ~170 |
+| Haunted Forest | 0.90% | ~170 |
+| Flooded Mines | 0.90% | ~170 |
 | Against All Odds | 0.80% | ~151 |
 | Serving Ale | 0.70% | ~132 |
 | Defying the Crown | 0.70% | ~132 |
@@ -52,8 +52,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Forsaken Gods Temple | 0.50% | ~94 |
 | Forbidden Lands | 0.40% | ~75 |
 | Fox Utopia | 0.40% | ~75 |
-| Feeding The People | 0.30% | ~56 |
-| Like a Machine | 0.30% | ~56 |
+| Feeding The People | 0.30% | ~57 |
+| Like a Machine | 0.30% | ~57 |
 | Prestigious Expedition | 0.20% | ~38 |
 | Blood Flower Farmer | 0.20% | ~38 |
 | Paradise | 0.10% | ~19 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,828 (Ranked 148)  
+Progressed: 18,837 (Ranked 148)  
 Completed: 39 (0.21%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 39 (0.21%) (Ranked 268)
 | 2023-12-18 | 18,615 | 39 |
 | 2023-12-19 | 18,687 | 39 |
 | 2023-12-20 | 18,771 | 39 |
-| 2023-12-21 | 18,828 | 39 |
+| 2023-12-21 | 18,837 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 228)  
 Sum: 3,276 (Ranked 175)  

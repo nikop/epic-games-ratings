@@ -2,7 +2,7 @@
   "ID": "a3dd9f3da8ec49c7b25dec42cce2ec46",
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
-  "Ranking_Rating": 1065,
+  "Ranking_Rating": 1066,
   "Ranking_Popularity": 571,
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 100,
@@ -123,9 +123,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 81192,
+  "EOS_Progressed": 81197,
   "EOS_Completed": 890,
-  "EOS_NewPlayers": 618,
+  "EOS_NewPlayers": 619,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.1,
   "EosHistory": [
@@ -27438,6 +27438,11 @@
       "Time": "2023-12-21T16:08:46.8637833+00:00",
       "NumProgressed": 81192,
       "NumCompleted": 890
+    },
+    {
+      "Time": "2023-12-21T17:08:14.2977899+00:00",
+      "NumProgressed": 81197,
+      "NumCompleted": 890
     }
   ],
   "TotalAchievements": 25,
@@ -27465,7 +27470,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 19,
       "XP": 150,
-      "UsersEstimate": 15426
+      "UsersEstimate": 15427
     },
     {
       "ID": "Audiophile",
@@ -27481,7 +27486,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 17862
+      "UsersEstimate": 17863
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -27521,7 +27526,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 16238
+      "UsersEstimate": 16239
     },
     {
       "ID": "Hearty",
@@ -27537,7 +27542,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 7307
+      "UsersEstimate": 7308
     },
     {
       "ID": "Magnetic Miracles",
@@ -27553,7 +27558,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 17050
+      "UsersEstimate": 17051
     },
     {
       "ID": "Meaty",
@@ -27569,7 +27574,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 15426
+      "UsersEstimate": 15427
     },
     {
       "ID": "Nice Try",
@@ -27577,7 +27582,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 12991
+      "UsersEstimate": 12992
     },
     {
       "ID": "Nothing Left to Say",
@@ -27585,7 +27590,7 @@
       "Name": "Nothing Left to Say",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 5683
+      "UsersEstimate": 5684
     },
     {
       "ID": "Piano Man",
@@ -27593,7 +27598,7 @@
       "Name": "Piano Man",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 8931
+      "UsersEstimate": 8932
     },
     {
       "ID": "Right On Target",
@@ -27601,7 +27606,7 @@
       "Name": "Right On Target",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 11367
+      "UsersEstimate": 11368
     },
     {
       "ID": "Sniper",
@@ -27609,7 +27614,7 @@
       "Name": "Sniper",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 5683
+      "UsersEstimate": 5684
     },
     {
       "ID": "Spicy",
@@ -27641,14 +27646,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6495
+      "UsersEstimate": 6496
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 81192,
+      "Progressed": 81197,
       "Completed": 890
     }
   ],
@@ -27656,8 +27661,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-11-28T02:22:55.8136009+00:00",
-  "LastChanged_Achievements": "2023-12-21T16:08:46.8637829+00:00",
+  "LastChanged_Achievements": "2023-12-21T17:08:14.2977896+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:36.6719063+00:00",
-  "LastUpdate_Ratings": "2023-12-21T15:57:38.7960558+00:00",
-  "LastUpdate_Achievements": "2023-12-21T16:08:46.8639368+00:00"
+  "LastUpdate_Ratings": "2023-12-21T16:57:24.7457779+00:00",
+  "LastUpdate_Achievements": "2023-12-21T17:08:14.2979262+00:00"
 }

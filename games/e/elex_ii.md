@@ -1,21 +1,21 @@
 # ELEX II
 [Store](https://store.epicgames.com/en-US/p/elex-ii)  
 [View Rawdata](../../db/e/elex_ii.json)  
-Rating: 4.30 (Ranked 853)  
+Rating: 4.30 (Ranked 854)  
 Number of Ratings: 124  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Best Buddy | 7.00% | ~3 |
-| Entrepreneur | 5.00% | ~2 |
+| Best Buddy | 9.00% | ~4 |
+| Entrepreneur | 7.00% | ~3 |
 | Peddler | 5.00% | ~2 |
 | Free as a Bird | 5.00% | ~2 |
 | Role Model | 5.00% | ~2 |
+| Creator | 5.00% | ~2 |
 | Long-Haul Flyer | 2.00% | ~1 |
 | Military Leader | 2.00% | ~1 |
 | Hotshot | 2.00% | ~1 |
 | Unbreakable | 2.00% | ~1 |
-| Creator | 2.00% | ~1 |
 | Festival-goer | 2.00% | ~1 |
 | Civilian | 2.00% | ~1 |
 | Pass A38 | 2.00% | ~1 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Eternal Oblivion | 0.00% | ~0 |
 | Lover | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43 (Ranked 543)  
+Progressed: 44 (Ranked 541)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,7 +65,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 18 | 0 |
 | 2023-12-19 | 32 | 0 |
 | 2023-12-20 | 40 | 0 |
-| 2023-12-21 | 43 | 0 |
+| 2023-12-21 | 44 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

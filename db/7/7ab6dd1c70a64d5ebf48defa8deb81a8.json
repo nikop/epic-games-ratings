@@ -4,7 +4,7 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 976,
+  "EOS_Progressed": 977,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 637,
+  "EOS_NewPlayers": 634,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1985,6 +1985,11 @@
       "Time": "2023-12-21T15:10:54.926846+00:00",
       "NumProgressed": 976,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-21T17:10:13.997622+00:00",
+      "NumProgressed": 977,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2068,7 +2073,7 @@
       "Name": "Trinity",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "ACH_11",
@@ -2108,7 +2113,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ACH_16",
@@ -2196,7 +2201,7 @@
       "Name": "Scholar",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ACH_27",
@@ -2283,14 +2288,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 976,
+      "Progressed": 977,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-21T16:11:19.4391738+00:00",
+  "LastChanged_Achievements": "2023-12-21T17:10:13.9976218+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
-  "LastUpdate_Ratings": "2023-12-21T15:58:44.6996288+00:00",
-  "LastUpdate_Achievements": "2023-12-21T16:11:19.4392067+00:00"
+  "LastUpdate_Ratings": "2023-12-21T16:58:15.0200969+00:00",
+  "LastUpdate_Achievements": "2023-12-21T17:10:13.9976462+00:00"
 }

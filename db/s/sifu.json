@@ -8299,10 +8299,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 11789,
       "NumberOfAwardsMax": 6973
+    },
+    {
+      "Time": "2023-12-21T17:03:06.456653+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 11792,
+      "NumberOfAwardsMax": 6973
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11789,
+  "NumberOfAwards": 11792,
   "NumberOfAwardsMax": 6973,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8322,7 +8328,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 584
+      "Count": 585
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -8352,7 +8358,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 623
+      "Count": 625
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -8379,9 +8385,9 @@
       "Count": 434
     }
   ],
-  "EOS_Progressed": 738692,
+  "EOS_Progressed": 738737,
   "EOS_Completed": 12958,
-  "EOS_NewPlayers": 16622,
+  "EOS_NewPlayers": 16526,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.75,
   "EosHistory": [
@@ -30289,6 +30295,11 @@
       "Time": "2023-12-21T16:09:42.6993381+00:00",
       "NumProgressed": 738692,
       "NumCompleted": 12958
+    },
+    {
+      "Time": "2023-12-21T17:08:59.2675909+00:00",
+      "NumProgressed": 738737,
+      "NumCompleted": 12958
     }
   ],
   "TotalAchievements": 60,
@@ -30300,7 +30311,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22161
+      "UsersEstimate": 22162
     },
     {
       "ID": "02_Vengeance_H1",
@@ -30308,7 +30319,7 @@
       "Name": "The Assault",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14774
+      "UsersEstimate": 14775
     },
     {
       "ID": "03_Vengeance_H2",
@@ -30316,7 +30327,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14774
+      "UsersEstimate": 14775
     },
     {
       "ID": "04_Vengeance_H3",
@@ -30340,7 +30351,7 @@
       "Name": "Furious Fists",
       "Percentage": 0.9,
       "XP": 75,
-      "UsersEstimate": 6648
+      "UsersEstimate": 6649
     },
     {
       "ID": "07_Wude_H1",
@@ -30476,7 +30487,7 @@
       "Name": "Life is your teacher",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22161
+      "UsersEstimate": 22162
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -30484,7 +30495,7 @@
       "Name": "State of constant learning",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14774
+      "UsersEstimate": 14775
     },
     {
       "ID": "25_ShrineMind",
@@ -30508,7 +30519,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14774
+      "UsersEstimate": 14775
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -30548,7 +30559,7 @@
       "Name": "Old Child",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14774
+      "UsersEstimate": 14775
     },
     {
       "ID": "33_BladeOneShot",
@@ -30564,7 +30575,7 @@
       "Name": "Lightning Hands",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22161
+      "UsersEstimate": 22162
     },
     {
       "ID": "35_WideStrike",
@@ -30612,7 +30623,7 @@
       "Name": "Take damage to save time",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6648
+      "UsersEstimate": 6649
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -30779,21 +30790,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 47993,
+      "Progressed": 48038,
       "Completed": 10779
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 738692,
+      "Progressed": 738737,
       "Completed": 12958
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-12-21T03:02:45.4552135+00:00",
-  "LastChanged_Achievements": "2023-12-21T16:09:42.6993376+00:00",
+  "LastChanged": "2023-12-21T17:03:06.4566528+00:00",
+  "LastChanged_Achievements": "2023-12-21T17:08:59.2675905+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:50.1499922+00:00",
-  "LastUpdate_Ratings": "2023-12-21T16:03:41.1230117+00:00",
-  "LastUpdate_Achievements": "2023-12-21T16:09:42.699452+00:00"
+  "LastUpdate_Ratings": "2023-12-21T17:03:06.4566535+00:00",
+  "LastUpdate_Achievements": "2023-12-21T17:08:59.2677199+00:00"
 }

@@ -9385,10 +9385,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 28565,
       "NumberOfAwardsMax": 7692
+    },
+    {
+      "Time": "2023-12-21T17:00:20.5033728+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 28567,
+      "NumberOfAwardsMax": 7692
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28565,
+  "NumberOfAwards": 28567,
   "NumberOfAwardsMax": 7692,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9402,7 +9408,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 5624
+      "Count": 5626
     },
     {
       "Text": "This game is Highly Recommended",
@@ -9471,9 +9477,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 813593,
+  "EOS_Progressed": 813595,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 1138,
+  "EOS_NewPlayers": 1130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -37151,6 +37157,11 @@
       "Time": "2023-12-21T16:11:00.5429309+00:00",
       "NumProgressed": 813593,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-21T17:09:58.8959896+00:00",
+      "NumProgressed": 813595,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 82,
@@ -37274,7 +37285,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 203398
+      "UsersEstimate": 203399
     },
     {
       "ID": "Chivalrous",
@@ -37322,7 +37333,7 @@
       "Name": "Convict",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 81359
+      "UsersEstimate": 81360
     },
     {
       "ID": "DavidHorak",
@@ -37362,7 +37373,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 187126
+      "UsersEstimate": 187127
     },
     {
       "ID": "Fighter",
@@ -37442,7 +37453,7 @@
       "Name": "Haggler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 73223
+      "UsersEstimate": 73224
     },
     {
       "ID": "HardcoreHenry",
@@ -37817,15 +37828,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 813593,
+      "Progressed": 813595,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-12-21T16:01:39.2632707+00:00",
-  "LastChanged_Achievements": "2023-12-21T16:11:00.5429304+00:00",
+  "LastChanged": "2023-12-21T17:00:20.5033726+00:00",
+  "LastChanged_Achievements": "2023-12-21T17:09:58.8959893+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:26.6961501+00:00",
-  "LastUpdate_Ratings": "2023-12-21T16:01:39.2632715+00:00",
-  "LastUpdate_Achievements": "2023-12-21T16:11:00.5431321+00:00"
+  "LastUpdate_Ratings": "2023-12-21T17:00:20.5033733+00:00",
+  "LastUpdate_Achievements": "2023-12-21T17:09:58.8962277+00:00"
 }

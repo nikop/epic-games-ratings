@@ -2,7 +2,7 @@
   "ID": "cb8afc06acb14f6a8cf3ab01f4b361ce",
   "Name": "Soulstice",
   "ProductSlug": "soulstice",
-  "Ranking_Rating": 925,
+  "Ranking_Rating": 926,
   "Ranking_Popularity": 409,
   "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 52,
@@ -437,9 +437,9 @@
       "Count": 71
     }
   ],
-  "EOS_Progressed": 332419,
+  "EOS_Progressed": 332448,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3679,
+  "EOS_NewPlayers": 3684,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10447,6 +10447,11 @@
       "Time": "2023-12-21T16:08:02.7002184+00:00",
       "NumProgressed": 332419,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-21T17:06:30.307479+00:00",
+      "NumProgressed": 332448,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -10595,7 +10600,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13297
+      "UsersEstimate": 13298
     },
     {
       "ID": "S19_CHALLENGES",
@@ -10651,7 +10656,7 @@
       "Name": "Pride is a sin, young Knight",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 2659
+      "UsersEstimate": 2660
     },
     {
       "ID": "S26_CRTA",
@@ -10778,7 +10783,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 332419,
+      "Progressed": 332448,
       "Completed": 5
     }
   ],
@@ -10786,8 +10791,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-20T17:57:35.3329235+00:00",
-  "LastChanged_Achievements": "2023-12-21T16:08:02.700218+00:00",
+  "LastChanged_Achievements": "2023-12-21T17:06:30.3074787+00:00",
   "LastUpdate_AppInfo": "2023-12-14T20:57:08.8756847+00:00",
-  "LastUpdate_Ratings": "2023-12-21T15:58:30.7963607+00:00",
-  "LastUpdate_Achievements": "2023-12-21T16:08:02.700301+00:00"
+  "LastUpdate_Ratings": "2023-12-21T16:58:04.755993+00:00",
+  "LastUpdate_Achievements": "2023-12-21T17:06:30.3075517+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "43acebbd46cd4aac956ad049c10c603a",
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
-  "Ranking_Rating": 16,
+  "Ranking_Rating": 17,
   "Ranking_Popularity": 571,
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -224,7 +224,7 @@
   ],
   "EOS_Progressed": 1069,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2964,9 +2964,9 @@
       "ID": "GrasslandsRing",
       "SetID": "1n308hc",
       "Name": "Grasslands Ring",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 107
     },
     {
       "ID": "HighPlain",
@@ -3076,9 +3076,9 @@
       "ID": "Persistent",
       "SetID": "1n308hc",
       "Name": "Persistent",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 139
+      "UsersEstimate": 150
     },
     {
       "ID": "PrometheusUnbound",
@@ -3156,9 +3156,9 @@
       "ID": "TeamSpirit",
       "SetID": "1n308hc",
       "Name": "Team Spirit",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 192
     },
     {
       "ID": "TextAdventurer",
@@ -3293,8 +3293,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-21T16:07:12.9261373+00:00",
+  "LastChanged_Achievements": "2023-12-21T17:05:50.7512818+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-21T16:02:06.0877809+00:00",
-  "LastUpdate_Achievements": "2023-12-21T16:07:12.9262005+00:00"
+  "LastUpdate_Ratings": "2023-12-21T17:00:40.1254543+00:00",
+  "LastUpdate_Achievements": "2023-12-21T17:05:50.751341+00:00"
 }

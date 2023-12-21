@@ -3,9 +3,9 @@
   "Name": "The Legend of Tianding",
   "ProductSlug": "the-legend-of-tianding",
   "Ranking_EOS_Progress": 538,
-  "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 415,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_Completed": 62,
+  "Ranking_EOS_NewPlayers": 414,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-11-02T01:00:00+00:00",
     "PcReleaseDate": "2021-11-02T01:00:00+00:00",
@@ -293,9 +293,9 @@
       "ID": "BeatBossKawa",
       "SetID": "123m9l1",
       "Name": "Phantom Kunoichi",
-      "Percentage": 44,
+      "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "BeatBossNaka",
@@ -357,9 +357,9 @@
       "ID": "ExpressTrainExplorer",
       "SetID": "123m9l1",
       "Name": "Tour Guide",
-      "Percentage": 24,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "FanOfYang",
@@ -405,9 +405,9 @@
       "ID": "MightySword",
       "SetID": "123m9l1",
       "Name": "Demon Slayer",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "MilitaryFactoryExplorer",
@@ -461,9 +461,9 @@
       "ID": "TeachGushanALesson",
       "SetID": "123m9l1",
       "Name": "Talk to the Fist",
-      "Percentage": 13,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ThreatenLiHong",
@@ -502,8 +502,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2023-12-21T16:05:14.1553383+00:00",
+  "LastChanged_Achievements": "2023-12-21T17:04:17.800572+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:41.0518809+00:00",
-  "LastUpdate_Ratings": "2023-12-21T16:00:42.1026665+00:00",
-  "LastUpdate_Achievements": "2023-12-21T16:05:14.1553548+00:00"
+  "LastUpdate_Ratings": "2023-12-21T16:59:37.6223396+00:00",
+  "LastUpdate_Achievements": "2023-12-21T17:04:17.8005869+00:00"
 }

@@ -299,9 +299,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2477,
+  "EOS_Progressed": 2478,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7044,6 +7044,11 @@
       "Time": "2023-12-21T15:05:04.1130922+00:00",
       "NumProgressed": 2477,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T17:04:28.4744488+00:00",
+      "NumProgressed": 2478,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -7055,7 +7060,7 @@
       "Name": "Apprentice",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1040
+      "UsersEstimate": 1041
     },
     {
       "ID": "A01",
@@ -7063,7 +7068,7 @@
       "Name": "Stoker",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "A02",
@@ -7095,7 +7100,7 @@
       "Name": "A new Hope",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "A06",
@@ -7135,7 +7140,7 @@
       "Name": "From X to Y",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 1808
+      "UsersEstimate": 1809
     },
     {
       "ID": "A11",
@@ -7151,7 +7156,7 @@
       "Name": "Departure",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1833
+      "UsersEstimate": 1834
     },
     {
       "ID": "A13",
@@ -7159,7 +7164,7 @@
       "Name": "Seven at one stroke",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "A14",
@@ -7207,7 +7212,7 @@
       "Name": "Tycoon",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "A20",
@@ -7279,7 +7284,7 @@
       "Name": "We brake for nobody",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1684
+      "UsersEstimate": 1685
     },
     {
       "ID": "A29",
@@ -7303,7 +7308,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "A32",
@@ -7327,15 +7332,15 @@
       "Name": "Producer",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1263
+      "UsersEstimate": 1264
     },
     {
       "ID": "A35",
       "SetID": "9b7p7eo",
       "Name": "Traffic Junction",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 520
+      "UsersEstimate": 545
     },
     {
       "ID": "A36",
@@ -7375,7 +7380,7 @@
       "Name": "Mind the Gap",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1610
+      "UsersEstimate": 1611
     },
     {
       "ID": "A41",
@@ -7383,7 +7388,7 @@
       "Name": "Right through the middle",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "A42",
@@ -7391,7 +7396,7 @@
       "Name": "Bridge Builder",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1040
+      "UsersEstimate": 1041
     },
     {
       "ID": "A43",
@@ -7423,7 +7428,7 @@
       "Name": "Mystery Tour",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1709
+      "UsersEstimate": 1710
     },
     {
       "ID": "A47",
@@ -7439,15 +7444,15 @@
       "Name": "Bull and bear",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "A49",
       "SetID": "9b7p7eo",
       "Name": "Financial Shark",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 743
+      "UsersEstimate": 768
     },
     {
       "ID": "A50",
@@ -7494,7 +7499,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 2477,
+      "Progressed": 2478,
       "Completed": 0
     }
   ],
@@ -7502,8 +7507,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-12-07T22:58:14.7831098+00:00",
-  "LastChanged_Achievements": "2023-12-21T16:05:27.5599206+00:00",
+  "LastChanged_Achievements": "2023-12-21T17:04:28.4744484+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:12.4572163+00:00",
-  "LastUpdate_Ratings": "2023-12-21T16:03:22.3271085+00:00",
-  "LastUpdate_Achievements": "2023-12-21T16:05:27.5599855+00:00"
+  "LastUpdate_Ratings": "2023-12-21T17:02:52.4910768+00:00",
+  "LastUpdate_Achievements": "2023-12-21T17:04:28.4745263+00:00"
 }

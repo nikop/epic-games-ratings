@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | The Last Stand | 88.00% | ~529 |
 | Thalya – Simply Immortal | 88.00% | ~529 |
-| For the Horde! | 82.00% | ~493 |
+| For the Horde! | 83.00% | ~499 |
 | Hammer Time, Round Two | 81.00% | ~487 |
 | The Hellwoods | 77.00% | ~463 |
 | The Plains of Strothalm | 71.00% | ~427 |
@@ -35,19 +35,19 @@
 | The Duel | 36.00% | ~216 |
 | Unstoppable Horde | 35.00% | ~210 |
 | Master of the Undead | 35.00% | ~210 |
-| If Looks Could Kill | 33.00% | ~198 |
+| If Looks Could Kill | 34.00% | ~204 |
 | The Finitude Drill | 31.00% | ~186 |
 | Ghost Pirates? Ghost Heroes! | 30.00% | ~180 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 28.00% | ~168 |
 | Forbidden Knowledge | 28.00% | ~168 |
+| Doom Hill | 28.00% | ~168 |
 | Hungry, Hungry Gorgu! | 27.00% | ~162 |
-| Doom Hill | 27.00% | ~162 |
 | Stop Tanos! | 26.00% | ~156 |
+| Brimstone Shaken, Not Stirred | 26.00% | ~156 |
 | Sabotage! | 25.00% | ~150 |
-| Brimstone Shaken, Not Stirred | 25.00% | ~150 |
 | Bonus Evilness | 24.00% | ~144 |
+| Raiders of the Lost Stone | 24.00% | ~144 |
 | The Rune Sockets of Finitude (Part 1) | 24.00% | ~144 |
-| Raiders of the Lost Stone | 23.00% | ~138 |
 | The Rune Sockets of Finitude (Part 2) | 22.00% | ~132 |
 | The Last Stand - This Time For Real! | 21.00% | ~126 |
 | Rubble and Ashes | 20.00% | ~120 |

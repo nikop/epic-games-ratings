@@ -1,7 +1,7 @@
 # Townsmen - A Kingdom Rebuilt
 [Store](https://store.epicgames.com/en-US/p/townsmen-a-kingdom-rebuilt-07c09d)  
 [View Rawdata](../../db/t/townsmen_-_a_kingdom_rebuilt.json)  
-Rating: 4.26 (Ranked 886)  
+Rating: 4.26 (Ranked 887)  
 Number of Ratings: 37  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,8 +10,8 @@ Number of Ratings: 37  (23.09.2022)
 | Tax-man I | 13.00% | ~571 |
 | A new beginning | 13.00% | ~571 |
 | Friends from the past | 11.00% | ~483 |
-| I like to build stuff... I | 10.00% | ~439 |
-| A time consuming game I | 9.00% | ~395 |
+| I like to build stuff... I | 10.00% | ~440 |
+| A time consuming game I | 9.00% | ~396 |
 | Builder I | 8.00% | ~352 |
 | An honorable Governor I | 8.00% | ~352 |
 | Full-time job I | 8.00% | ~352 |
@@ -58,6 +58,7 @@ Number of Ratings: 37  (23.09.2022)
 | Lord of War | 2.00% | ~88 |
 | Plague strikes! | 2.00% | ~88 |
 | Builder IV | 2.00% | ~88 |
+| An honorable Governor III | 2.00% | ~88 |
 | Completionist II | 2.00% | ~88 |
 | Completionist III | 2.00% | ~88 |
 | Genius | 2.00% | ~88 |
@@ -66,7 +67,6 @@ Number of Ratings: 37  (23.09.2022)
 | Tax-man V | 2.00% | ~88 |
 | Tools of the trade III | 2.00% | ~88 |
 | When there's fire... | 1.00% | ~44 |
-| An honorable Governor III | 1.00% | ~44 |
 | Reunification | 1.00% | ~44 |
 | Treat her well… | 1.00% | ~44 |
 | I've been everywhere II | 1.00% | ~44 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,394 (Ranked 203)  
+Progressed: 4,395 (Ranked 203)  
 Completed: 4 (0.09%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,6 +248,7 @@ Completed: 4 (0.09%) (Ranked 309)
 | 2023-12-18 | 4,388 | 4 |
 | 2023-12-19 | 4,390 | 4 |
 | 2023-12-20 | 4,394 | 4 |
+| 2023-12-21 | 4,395 | 4 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

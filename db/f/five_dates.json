@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1383,
+  "EOS_Progressed": 1388,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 653,
+  "EOS_NewPlayers": 657,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.8,
+  "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:09.144074+00:00",
@@ -2505,6 +2505,11 @@
       "Time": "2023-12-21T16:11:04.0032828+00:00",
       "NumProgressed": 1383,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-21T17:10:01.6820205+00:00",
+      "NumProgressed": 1388,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 15,
@@ -2516,7 +2521,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 1355
+      "UsersEstimate": 1360
     },
     {
       "ID": "booty_call",
@@ -2524,7 +2529,7 @@
       "Name": "Booty Call",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "crash_and_burn",
@@ -2540,7 +2545,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 1328
+      "UsersEstimate": 1332
     },
     {
       "ID": "hold_my_beer",
@@ -2548,7 +2553,7 @@
       "Name": "Hold my Beer",
       "Percentage": 62,
       "XP": 25,
-      "UsersEstimate": 857
+      "UsersEstimate": 861
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -2556,7 +2561,7 @@
       "Name": "In Contempt of Duvet",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "interrogation",
@@ -2564,7 +2569,7 @@
       "Name": "Interrogation",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "light_sleepers",
@@ -2572,7 +2577,7 @@
       "Name": "Light Sleepers",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "not_alone",
@@ -2580,7 +2585,7 @@
       "Name": "Not Alone",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "nueva_beginnings",
@@ -2588,7 +2593,7 @@
       "Name": "Nueva Beginnings",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 401
+      "UsersEstimate": 403
     },
     {
       "ID": "only_thyme_will_tell",
@@ -2596,7 +2601,7 @@
       "Name": "Only Thyme Will Tell",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "planting_the_seed",
@@ -2604,15 +2609,15 @@
       "Name": "Planting the Seed",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "smooth_criminal",
       "SetID": "c4ipj3h",
       "Name": "Smooth Criminal",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 97
+      "UsersEstimate": 83
     },
     {
       "ID": "sore_loser",
@@ -2628,14 +2633,14 @@
       "Name": "We Go Again",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     }
   ],
   "AchievementSets": [
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 1383,
+      "Progressed": 1388,
       "Completed": 11
     }
   ],
@@ -2643,8 +2648,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-12-21T16:11:04.0032824+00:00",
+  "LastChanged_Achievements": "2023-12-21T17:10:01.6820201+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:02.6209919+00:00",
-  "LastUpdate_Ratings": "2023-12-21T15:58:55.1615598+00:00",
-  "LastUpdate_Achievements": "2023-12-21T16:11:04.0033152+00:00"
+  "LastUpdate_Ratings": "2023-12-21T16:58:23.2802267+00:00",
+  "LastUpdate_Achievements": "2023-12-21T17:10:01.6820456+00:00"
 }

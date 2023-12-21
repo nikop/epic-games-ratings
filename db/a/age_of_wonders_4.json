@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 450,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -567,9 +567,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5927,
+  "EOS_Progressed": 5929,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 301,
+  "EOS_NewPlayers": 302,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8667,6 +8667,11 @@
       "Time": "2023-12-21T16:07:32.2180569+00:00",
       "NumProgressed": 5927,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-21T17:06:06.3425544+00:00",
+      "NumProgressed": 5929,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -8702,7 +8707,7 @@
       "Name": "I\u0027ve Got Everything I Need Right Here",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "13",
@@ -8926,7 +8931,7 @@
       "Name": "Manufactured War",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "39",
@@ -8982,7 +8987,7 @@
       "Name": "Pruning for Progress",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "5",
@@ -8998,7 +9003,7 @@
       "Name": "One for All, All for One",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "7",
@@ -9046,7 +9051,7 @@
       "Name": "Duality",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "48",
@@ -9157,13 +9162,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5927,
+      "Progressed": 5929,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5927,
+      "Progressed": 5929,
       "Completed": 7
     }
   ],
@@ -9171,8 +9176,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-20T07:59:25.4319145+00:00",
-  "LastChanged_Achievements": "2023-12-21T16:07:32.2180565+00:00",
+  "LastChanged_Achievements": "2023-12-21T17:06:06.3425541+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.6868317+00:00",
-  "LastUpdate_Ratings": "2023-12-21T15:57:35.2823682+00:00",
-  "LastUpdate_Achievements": "2023-12-21T16:07:32.2181283+00:00"
+  "LastUpdate_Ratings": "2023-12-21T16:57:22.1517954+00:00",
+  "LastUpdate_Achievements": "2023-12-21T17:06:06.3426322+00:00"
 }

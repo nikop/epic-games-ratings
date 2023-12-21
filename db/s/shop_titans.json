@@ -2,7 +2,7 @@
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
-  "Ranking_Rating": 1019,
+  "Ranking_Rating": 1020,
   "Ranking_Popularity": 75,
   "Ranking_PopularitySum": 52,
   "Ranking_EOS_Progress": 82,
@@ -7675,9 +7675,9 @@
       "Count": 3801
     }
   ],
-  "EOS_Progressed": 146697,
+  "EOS_Progressed": 146706,
   "EOS_Completed": 328,
-  "EOS_NewPlayers": 1357,
+  "EOS_NewPlayers": 1338,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -33345,6 +33345,11 @@
       "Time": "2023-12-21T16:05:35.2101228+00:00",
       "NumProgressed": 146697,
       "NumCompleted": 328
+    },
+    {
+      "Time": "2023-12-21T17:04:34.260524+00:00",
+      "NumProgressed": 146706,
+      "NumCompleted": 328
     }
   ],
   "TotalAchievements": 112,
@@ -33524,7 +33529,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13203
+      "UsersEstimate": 13204
     },
     {
       "ID": "chest02",
@@ -33652,7 +33657,7 @@
       "Name": "Oligarch Monarch",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "damage01",
@@ -33964,7 +33969,7 @@
       "Name": "Merchant Extraordinaire",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "lilu_a",
@@ -34172,7 +34177,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13203
+      "UsersEstimate": 13204
     },
     {
       "ID": "twinenchant01",
@@ -34251,15 +34256,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 146697,
+      "Progressed": 146706,
       "Completed": 328
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-21T11:03:02.6966348+00:00",
-  "LastChanged_Achievements": "2023-12-21T16:05:35.2101223+00:00",
+  "LastChanged_Achievements": "2023-12-21T17:04:34.2605237+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.001195+00:00",
-  "LastUpdate_Ratings": "2023-12-21T16:03:55.5580716+00:00",
-  "LastUpdate_Achievements": "2023-12-21T16:05:35.2103236+00:00"
+  "LastUpdate_Ratings": "2023-12-21T17:03:16.998651+00:00",
+  "LastUpdate_Achievements": "2023-12-21T17:04:34.2607409+00:00"
 }

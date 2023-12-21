@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 528,
+  "EOS_Progressed": 529,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
@@ -1847,6 +1847,11 @@
       "Time": "2023-12-21T15:10:50.1494754+00:00",
       "NumProgressed": 528,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-21T17:10:10.121359+00:00",
+      "NumProgressed": 529,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -1864,9 +1869,9 @@
       "ID": "completeact2",
       "SetID": "40n95i5",
       "Name": "Conspiracy Theorist",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 80,
-      "UsersEstimate": 216
+      "UsersEstimate": 222
     },
     {
       "ID": "completeact3",
@@ -1874,7 +1879,7 @@
       "Name": "On the Road",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "findalltapes",
@@ -1938,7 +1943,7 @@
       "Name": "This is Not Heavy Metal!",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "scoreminrankrp2",
@@ -1977,7 +1982,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 528,
+      "Progressed": 529,
       "Completed": 2
     }
   ],
@@ -1985,8 +1990,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-12-21T16:11:14.5377578+00:00",
+  "LastChanged_Achievements": "2023-12-21T17:10:10.1213586+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:48.6488501+00:00",
-  "LastUpdate_Ratings": "2023-12-21T16:03:18.4979583+00:00",
-  "LastUpdate_Achievements": "2023-12-21T16:11:14.5377832+00:00"
+  "LastUpdate_Ratings": "2023-12-21T17:02:49.9377444+00:00",
+  "LastUpdate_Achievements": "2023-12-21T17:10:10.1213815+00:00"
 }
