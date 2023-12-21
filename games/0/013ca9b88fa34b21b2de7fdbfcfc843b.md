@@ -21,12 +21,12 @@ Rating: 4.63 (Ranked 354)
 | Exit Through The Gift Shop | 0.50% | ~6 |
 | Search for the Hairy Grell | 0.40% | ~34 |
 | Higher Tax Bracket | 0.40% | ~34 |
+| Skilled | 0.40% | ~34 |
 | Flaming Hot Completos | 0.30% | ~26 |
 | Beach Comber | 0.30% | ~26 |
 | Botanical Breakthrough | 0.30% | ~26 |
 | Azorian Anniversary | 0.30% | ~26 |
 | Right Tool For the Job | 0.30% | ~26 |
-| Skilled | 0.30% | ~26 |
 | Fae Farmer | 0.20% | ~17 |
 | Rumble in the Jumble | 0.20% | ~17 |
 | Fanatical Farmer | 0.20% | ~17 |

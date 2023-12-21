@@ -3,11 +3,11 @@
   "Name": "New Tales from the Borderlands",
   "ProductSlug": "new-tales-from-the-borderlands",
   "Ranking_Rating": 990,
-  "Ranking_Popularity": 569,
-  "Ranking_PopularitySum": 569,
+  "Ranking_Popularity": 570,
+  "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -177,9 +177,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3735,
+  "EOS_Progressed": 3736,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1952,6 +1952,11 @@
       "Time": "2023-12-21T02:27:07.7042019+00:00",
       "NumProgressed": 3735,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T13:10:24.6953481+00:00",
+      "NumProgressed": 3736,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1963,7 +1968,7 @@
       "Name": "You\u0027re Not Naked",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "BUY_EVERY_COSMETIC_ITEM",
@@ -2003,7 +2008,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 1419
+      "UsersEstimate": 1420
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -2027,7 +2032,7 @@
       "Name": "Our Lucky Winner",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "FINISH_EPISODE_4",
@@ -2059,7 +2064,7 @@
       "Name": "Tale in the Toilet",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "GET_MONEY_SINK_OR_SWIM",
@@ -2091,7 +2096,7 @@
       "Name": "You Poor Now!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "NAILED_PERFECT_SEXY_DANCE",
@@ -2147,7 +2152,7 @@
       "Name": "Don\u0027t Get Cocky",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1009
     },
     {
       "ID": "WIN_VAULTLANDER_BATTLE_CLAPTRAP",
@@ -2170,7 +2175,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3735,
+      "Progressed": 3736,
       "Completed": 0
     }
   ],
@@ -2178,8 +2183,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2023-12-21T12:07:31.1240992+00:00",
+  "LastChanged_Achievements": "2023-12-21T13:10:24.6953477+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:35.6151583+00:00",
-  "LastUpdate_Ratings": "2023-12-21T12:02:46.6582284+00:00",
-  "LastUpdate_Achievements": "2023-12-21T12:07:31.1241261+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:04:48.7551341+00:00",
+  "LastUpdate_Achievements": "2023-12-21T13:10:24.6953715+00:00"
 }

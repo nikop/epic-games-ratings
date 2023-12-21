@@ -1,27 +1,27 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.22 (Ranked 920)  
+Rating: 4.24 (Ranked 901)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~1,275 |
-| Battlefields Have Memories | 80.00% | ~1,172 |
-| Enlisted | 72.00% | ~1,055 |
-| Maybe Engage a Little | 66.00% | ~967 |
-| No More Names | 47.00% | ~689 |
-| Initiate | 33.00% | ~483 |
-| Thrada-Kul | 29.00% | ~425 |
-| Socialite | 22.00% | ~322 |
-| Gravity-Challenged Rocks | 22.00% | ~322 |
-| Soldier | 19.00% | ~278 |
+| Unforeseen | 87.00% | ~1,277 |
+| Battlefields Have Memories | 80.00% | ~1,174 |
+| Enlisted | 72.00% | ~1,057 |
+| Maybe Engage a Little | 66.00% | ~969 |
+| No More Names | 47.00% | ~690 |
+| Initiate | 33.00% | ~484 |
+| Thrada-Kul | 29.00% | ~426 |
+| Socialite | 22.00% | ~323 |
+| Gravity-Challenged Rocks | 22.00% | ~323 |
+| Soldier | 19.00% | ~279 |
 | All the Major Food Groups | 18.00% | ~264 |
-| Beggars Would Ride | 16.00% | ~234 |
-| Control is an Illusion | 14.00% | ~205 |
+| Beggars Would Ride | 16.00% | ~235 |
+| Control is an Illusion | 15.00% | ~220 |
 | The Means to Save It | 12.00% | ~176 |
-| Resilience to Sin | 10.00% | ~146 |
-| A Familiar Nest | 10.00% | ~146 |
-| Periapt Alizarin | 10.00% | ~146 |
+| Resilience to Sin | 10.00% | ~147 |
+| A Familiar Nest | 10.00% | ~147 |
+| Periapt Alizarin | 10.00% | ~147 |
 | Geas Aristeya | 9.00% | ~132 |
 | A Perfect Cycle | 8.00% | ~117 |
 | Recruit | 8.00% | ~117 |
@@ -39,7 +39,7 @@ Rating: 4.22 (Ranked 920)
 | Armaments Vert | 2.00% | ~29 |
 | Veteran | 1.00% | ~15 |
 | Master of Carmine | 1.00% | ~15 |
-| Master of Ultramarine | 0.80% | ~12 |
+| Master of Ultramarine | 0.70% | ~10 |
 | Master of Malachite | 0.70% | ~10 |
 | Grand Magnus | 0.60% | ~9 |
 | Tip of the Spear | 0.60% | ~9 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 920)
 | Family Business | 0.20% | ~3 |
 | Fowl Play | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,465 (Ranked 252)  
+Progressed: 1,468 (Ranked 252)  
 Completed: 2 (0.14%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 2 (0.14%) (Ranked 289)
 | 2023-12-18 | 1,195 | 2 |
 | 2023-12-19 | 1,301 | 2 |
 | 2023-12-20 | 1,423 | 2 |
-| 2023-12-21 | 1,465 | 2 |
+| 2023-12-21 | 1,468 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -173,3 +173,4 @@ Completed: 2 (0.14%) (Ranked 289)
 | 2023-12-17 | 4.21 | 0 | 0 |
 | 2023-12-19 | 4.23 | 0 | 0 |
 | 2023-12-20 | 4.22 | 0 | 0 |
+| 2023-12-21 | 4.24 | 0 | 0 |

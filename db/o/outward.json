@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 393,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4075,
+  "EOS_Progressed": 4076,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 320,
+  "EOS_NewPlayers": 317,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -6611,6 +6611,11 @@
       "Time": "2023-12-21T12:07:01.7087103+00:00",
       "NumProgressed": 4075,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-21T13:10:02.3695849+00:00",
+      "NumProgressed": 4076,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -6686,7 +6691,7 @@
       "Name": "Eureka",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1263
+      "UsersEstimate": 1264
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -6694,7 +6699,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 896
+      "UsersEstimate": 897
     },
     {
       "ID": "ForAllAurai_8",
@@ -6718,7 +6723,7 @@
       "Name": "Hold my Mead and Watch This",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "HomeSweetHome_25",
@@ -6726,7 +6731,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 896
+      "UsersEstimate": 897
     },
     {
       "ID": "HouseofCards_19",
@@ -6814,7 +6819,7 @@
       "Name": "Ready for Winter",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 2567
+      "UsersEstimate": 2568
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -6902,7 +6907,7 @@
       "Name": "The stuff of legends.",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "TheyllTellStoriesAboutThis_35",
@@ -6957,15 +6962,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4075,
+      "Progressed": 4076,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-21T12:07:01.7087099+00:00",
+  "LastChanged_Achievements": "2023-12-21T13:10:02.3695844+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:45.1407734+00:00",
-  "LastUpdate_Ratings": "2023-12-21T12:03:10.9983699+00:00",
-  "LastUpdate_Achievements": "2023-12-21T12:07:01.7087652+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:07:05.6702929+00:00",
+  "LastUpdate_Achievements": "2023-12-21T13:10:02.36964+00:00"
 }

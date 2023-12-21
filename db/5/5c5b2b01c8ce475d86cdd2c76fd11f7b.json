@@ -2,7 +2,7 @@
   "ID": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
   "Name": "Deus Ex - Mankind Divided",
   "ProductSlug": "deus-ex-mankind-divided-4c6370",
-  "Ranking_EOS_Progress": 550,
+  "Ranking_EOS_Progress": 547,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 158,
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 41,
+  "EOS_Progressed": 42,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
@@ -224,6 +224,11 @@
       "Time": "2023-12-21T04:05:30.6111317+00:00",
       "NumProgressed": 41,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T13:07:42.477814+00:00",
+      "NumProgressed": 42,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-13T17:03:37.7079864+00:00",
@@ -242,7 +247,7 @@
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "7on801h",
       "Name": "Ghost",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -250,7 +255,7 @@
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "7on801h",
       "Name": "Singh No Swan Song",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 14
     },
@@ -354,7 +359,7 @@
       "ID": "NEW_ACHIEVEMENT_1_23",
       "SetID": "7on801h",
       "Name": "And Embrace What You\u0027ve Become",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -426,9 +431,9 @@
       "ID": "NEW_ACHIEVEMENT_1_31",
       "SetID": "7on801h",
       "Name": "Ground Mail Was a Better Option",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -522,7 +527,7 @@
       "ID": "NEW_ACHIEVEMENT_2_13",
       "SetID": "7on801h",
       "Name": "Adept of the Metaverse",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -883,20 +888,20 @@
     {
       "ID": "7on801h",
       "IsBase": true,
-      "Progressed": 41,
+      "Progressed": 42,
       "Completed": 0
     },
     {
       "ID": "o6aioj",
       "IsBase": false,
-      "Progressed": 41,
+      "Progressed": 42,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2023-12-21T12:03:59.9193785+00:00",
+  "LastChanged_Achievements": "2023-12-21T13:07:42.4778136+00:00",
   "LastUpdate_AppInfo": "2023-12-20T16:57:12.9726855+00:00",
-  "LastUpdate_Ratings": "2023-12-21T11:57:43.9976369+00:00",
-  "LastUpdate_Achievements": "2023-12-21T12:03:59.9194447+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:01:46.4290457+00:00",
+  "LastUpdate_Achievements": "2023-12-21T13:07:42.47789+00:00"
 }

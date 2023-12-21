@@ -4,7 +4,7 @@
   "ProductSlug": "the-hidden-room-1a63ec",
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-10-31T14:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5796,
+  "EOS_Progressed": 5797,
   "EOS_Completed": 53,
   "EOS_NewPlayers": 450,
   "EOS_NewCompleters": 1,
@@ -5669,6 +5669,11 @@
       "Time": "2023-12-21T12:09:23.1304336+00:00",
       "NumProgressed": 5796,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-12-21T13:12:46.3656821+00:00",
+      "NumProgressed": 5797,
+      "NumCompleted": 53
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -5719,9 +5724,9 @@
       "ID": "ACHIEVEMENT_MAINGAME_SOFA",
       "SetID": "4d50jip",
       "Name": "Move the sofa",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 1971
+      "UsersEstimate": 2029
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_TV",
@@ -5737,7 +5742,7 @@
       "Name": "Wrong passcode",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 4637
+      "UsersEstimate": 4638
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -5808,14 +5813,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 5796,
+      "Progressed": 5797,
       "Completed": 53
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-12-21T12:09:23.1304328+00:00",
+  "LastChanged_Achievements": "2023-12-21T13:12:46.3656816+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:07.8033204+00:00",
-  "LastUpdate_Ratings": "2023-12-21T12:01:06.5184185+00:00",
-  "LastUpdate_Achievements": "2023-12-21T12:09:23.1304668+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:04:12.9217107+00:00",
+  "LastUpdate_Achievements": "2023-12-21T13:12:46.3657185+00:00"
 }

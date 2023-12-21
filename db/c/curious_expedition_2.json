@@ -2,12 +2,12 @@
   "ID": "2ba34162e36a4caf860fd00f934c8af1",
   "Name": "Curious Expedition 2",
   "ProductSlug": "curious-expedition-2-8cb901",
-  "Ranking_Rating": 175,
-  "Ranking_Popularity": 569,
-  "Ranking_PopularitySum": 569,
+  "Ranking_Rating": 174,
+  "Ranking_Popularity": 570,
+  "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -837,9 +837,9 @@
       "ID": "ach-paleMask-party",
       "SetID": "17ih7ma",
       "Name": "Uncertain Loyalties",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 96
     },
     {
       "ID": "ach-portal-return",
@@ -958,8 +958,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-12-21T12:10:59.4300398+00:00",
+  "LastChanged_Achievements": "2023-12-21T13:14:01.5024755+00:00",
   "LastUpdate_AppInfo": "2023-12-16T13:57:07.0437312+00:00",
-  "LastUpdate_Ratings": "2023-12-21T12:01:25.256049+00:00",
-  "LastUpdate_Achievements": "2023-12-21T12:10:59.4300752+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:04:26.6967582+00:00",
+  "LastUpdate_Achievements": "2023-12-21T13:14:01.5025196+00:00"
 }

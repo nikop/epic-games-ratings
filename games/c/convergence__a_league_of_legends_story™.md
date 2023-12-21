@@ -10,17 +10,17 @@ Rating: 4.64 (Ranked 338)
 | Rail Rat | 29.00% | ~306 |
 | Immaculate Aim | 24.00% | ~253 |
 | The Brass Boss | 24.00% | ~253 |
-| Make Up For Lost Time | 23.00% | ~242 |
-| Time Flies | 23.00% | ~242 |
-| No, Thanks! | 23.00% | ~242 |
-| The Prince in Heels | 23.00% | ~242 |
+| Make Up For Lost Time | 23.00% | ~243 |
+| Time Flies | 23.00% | ~243 |
+| No, Thanks! | 23.00% | ~243 |
+| The Prince in Heels | 23.00% | ~243 |
+| Immaculate Aim | 23.00% | ~243 |
 | The Steel Shadow | 22.00% | ~232 |
 | The Harder They Fall | 22.00% | ~232 |
 | Breaking Down Barriers | 22.00% | ~232 |
 | Honest Mistake | 22.00% | ~232 |
 | Fast Learner | 22.00% | ~232 |
-| Immaculate Aim | 22.00% | ~232 |
-| The Wicked Twins | 21.00% | ~221 |
+| The Wicked Twins | 21.00% | ~222 |
 | Right On Time | 20.00% | ~211 |
 | Like Clockwork | 20.00% | ~211 |
 | The Betrayer | 20.00% | ~211 |
@@ -35,12 +35,12 @@ Rating: 4.64 (Ranked 338)
 | Treasure Trove | 13.00% | ~137 |
 | Family Memories | 13.00% | ~137 |
 | Cartographer | 13.00% | ~137 |
-| Chaincrawler Explorer | 12.00% | ~126 |
-| Ask Questions Later | 12.00% | ~126 |
+| Chaincrawler Explorer | 12.00% | ~127 |
+| Ask Questions Later | 12.00% | ~127 |
 | Sump Explorer | 11.00% | ~116 |
 | Syron for Hope | 11.00% | ~116 |
-| Factorywood Explorer | 10.00% | ~105 |
-| Theater Explorer | 10.00% | ~105 |
+| Factorywood Explorer | 10.00% | ~106 |
+| Theater Explorer | 10.00% | ~106 |
 | Cultivair Explorer | 9.00% | ~95 |
 | Fairgrounds Explorer | 9.00% | ~95 |
 | Corin Goes Home | 8.00% | ~84 |
@@ -59,7 +59,7 @@ Rating: 4.64 (Ranked 338)
 | Raw Talent | 0.70% | ~7 |
 | Going to Live Forever | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,054 (Ranked 275)  
+Progressed: 1,055 (Ranked 275)  
 Completed: 6 (0.57%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 6 (0.57%) (Ranked 201)
 | 2023-12-18 | 1,030 | 6 |
 | 2023-12-19 | 1,037 | 6 |
 | 2023-12-20 | 1,046 | 6 |
-| 2023-12-21 | 1,054 | 6 |
+| 2023-12-21 | 1,055 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

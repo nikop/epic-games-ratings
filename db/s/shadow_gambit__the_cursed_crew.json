@@ -3,11 +3,11 @@
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
   "Ranking_Rating": 85,
-  "Ranking_Popularity": 569,
-  "Ranking_PopularitySum": 569,
+  "Ranking_Popularity": 570,
+  "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -149,11 +149,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1232,
+  "EOS_Progressed": 1235,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.68,
+  "EOS_Completed_Percentage": 2.67,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -4179,6 +4179,11 @@
       "Time": "2023-12-21T08:05:18.2748566+00:00",
       "NumProgressed": 1232,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-12-21T13:08:49.7588436+00:00",
+      "NumProgressed": 1235,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4191,7 +4196,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -4199,7 +4204,7 @@
       "Name": "A New Journey",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 825
+      "UsersEstimate": 827
     },
     {
       "ID": "_03_FinishAct1",
@@ -4207,7 +4212,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -4215,7 +4220,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "_05_FinishAct2",
@@ -4231,7 +4236,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "_07_FinishAct3",
@@ -4247,15 +4252,15 @@
       "Name": "Swabbie",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "_09_Completion_20",
       "SetID": "8a1io5d",
       "Name": "Powder Monkey",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 321
     },
     {
       "ID": "_10_Completion_30",
@@ -4263,7 +4268,7 @@
       "Name": "Buccaneer",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "_11_Completion_40",
@@ -4319,7 +4324,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -4335,7 +4340,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -4343,7 +4348,7 @@
       "Name": "Fishy Fish",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -4351,7 +4356,7 @@
       "Name": "Tobacco Travesty",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -4398,7 +4403,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1232,
+      "Progressed": 1235,
       "Completed": 33
     }
   ],
@@ -4406,8 +4411,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-13T23:58:37.390497+00:00",
-  "LastChanged_Achievements": "2023-12-21T12:05:27.0270768+00:00",
+  "LastChanged_Achievements": "2023-12-21T13:08:49.7588433+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:17.2609478+00:00",
-  "LastUpdate_Ratings": "2023-12-21T11:59:02.170304+00:00",
-  "LastUpdate_Achievements": "2023-12-21T12:05:27.0271087+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:02:43.2959638+00:00",
+  "LastUpdate_Achievements": "2023-12-21T13:08:49.758875+00:00"
 }

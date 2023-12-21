@@ -673,9 +673,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 472565,
+  "EOS_Progressed": 472569,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 336,
+  "EOS_NewPlayers": 338,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25983,6 +25983,11 @@
       "Time": "2023-12-21T11:09:57.5009341+00:00",
       "NumProgressed": 472565,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-12-21T13:14:02.0587804+00:00",
+      "NumProgressed": 472569,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -26010,7 +26015,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113416
+      "UsersEstimate": 113417
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -26018,7 +26023,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 103964
+      "UsersEstimate": 103965
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -26034,7 +26039,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 47256
+      "UsersEstimate": 47257
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -26042,7 +26047,7 @@
       "Name": "Chapter IV: Through the Looking Glass",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 37805
+      "UsersEstimate": 37806
     },
     {
       "ID": "achievement_story_complete_chapter_5",
@@ -26082,7 +26087,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 311893
+      "UsersEstimate": 311896
     },
     {
       "ID": "achievement_story_landa",
@@ -26106,7 +26111,7 @@
       "Name": "Through the mirror",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37805
+      "UsersEstimate": 37806
     },
     {
       "ID": "achievement_story_meet_mother",
@@ -26114,7 +26119,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 118141
+      "UsersEstimate": 118142
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -26146,7 +26151,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51982
+      "UsersEstimate": 51983
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -26154,7 +26159,7 @@
       "Name": "General Vivar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37805
+      "UsersEstimate": 37806
     },
     {
       "ID": "achievement_story_meet_zenon",
@@ -26170,7 +26175,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94513
+      "UsersEstimate": 94514
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -26178,7 +26183,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160672
+      "UsersEstimate": 160673
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -26186,7 +26191,7 @@
       "Name": "Back to Ganyma",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37805
+      "UsersEstimate": 37806
     },
     {
       "ID": "achievement_story_spare_oberon",
@@ -26418,7 +26423,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207929
+      "UsersEstimate": 207930
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -26426,7 +26431,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 141770
+      "UsersEstimate": 141771
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -26450,7 +26455,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 184300
+      "UsersEstimate": 184302
     },
     {
       "ID": "achievement_win_run_hard",
@@ -26498,7 +26503,7 @@
       "Name": "Kaos Rule",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37805
+      "UsersEstimate": 37806
     },
     {
       "ID": "achievement_win_run_with_starter",
@@ -26506,7 +26511,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 103964
+      "UsersEstimate": 103965
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -26514,7 +26519,7 @@
       "Name": "The Blade",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_unlock_officer_phalanx_2",
@@ -26522,7 +26527,7 @@
       "Name": "The Ghost",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_unlock_officer_pragmah_1",
@@ -26562,7 +26567,7 @@
       "Name": "Savior",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_win_all_chapers_with_all_bs_dlc_included_hard",
@@ -26570,7 +26575,7 @@
       "Name": "The God of War",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_win_all_chapers_with_phalanx_easy_normal",
@@ -26578,7 +26583,7 @@
       "Name": "Horus Mastery",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_win_all_chapers_with_phalanx_hard",
@@ -26586,7 +26591,7 @@
       "Name": "Horus Supremacy",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_win_all_chapers_with_pragmah_easy_normal",
@@ -26594,7 +26599,7 @@
       "Name": "Kronos Mastery",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_win_all_chapers_with_pragmah_hard",
@@ -26602,7 +26607,7 @@
       "Name": "Kronos Supremacy",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_win_run_with_phalanx",
@@ -26610,7 +26615,7 @@
       "Name": "Horus Rule",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_win_run_with_pragmah",
@@ -26618,28 +26623,28 @@
       "Name": "Kronos Rule",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     }
   ],
   "AchievementSets": [
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 16499,
+      "Progressed": 16503,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 472565,
+      "Progressed": 472569,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-12-16T01:44:08.2225132+00:00",
-  "LastChanged_Achievements": "2023-12-21T12:11:00.307812+00:00",
+  "LastChanged_Achievements": "2023-12-21T13:14:02.05878+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:11.1940108+00:00",
-  "LastUpdate_Ratings": "2023-12-21T11:58:05.8981019+00:00",
-  "LastUpdate_Achievements": "2023-12-21T12:11:00.3079829+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:02:01.8268327+00:00",
+  "LastUpdate_Achievements": "2023-12-21T13:14:02.0589273+00:00"
 }

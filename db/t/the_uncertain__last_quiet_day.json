@@ -3,11 +3,11 @@
   "Name": "The Uncertain: Last Quiet Day",
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_Rating": 1059,
-  "Ranking_Popularity": 569,
-  "Ranking_PopularitySum": 569,
+  "Ranking_Popularity": 570,
+  "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 388,
+  "Ranking_EOS_NewPlayers": 380,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 601,
+  "EOS_Progressed": 602,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.16,
   "EosHistory": [
@@ -934,6 +934,11 @@
       "Time": "2023-12-21T06:09:56.066052+00:00",
       "NumProgressed": 601,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-12-21T13:13:52.5208792+00:00",
+      "NumProgressed": 602,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 32,
@@ -985,7 +990,7 @@
       "Name": "Curious",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "EVERYBODY_LIES",
@@ -993,7 +998,7 @@
       "Name": "Everybody lies",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "EVERY_LITTLE_HELPS",
@@ -1200,7 +1205,7 @@
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 601,
+      "Progressed": 602,
       "Completed": 19
     }
   ],
@@ -1208,8 +1213,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-12-08T04:01:04.3643054+00:00",
-  "LastChanged_Achievements": "2023-12-21T12:10:48.6893363+00:00",
+  "LastChanged_Achievements": "2023-12-21T13:13:52.5208786+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.7016288+00:00",
-  "LastUpdate_Ratings": "2023-12-21T12:01:09.961121+00:00",
-  "LastUpdate_Achievements": "2023-12-21T12:10:48.6893575+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:04:15.3101058+00:00",
+  "LastUpdate_Achievements": "2023-12-21T13:13:52.5209024+00:00"
 }

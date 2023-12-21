@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1162,
+  "EOS_Progressed": 1163,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3054,6 +3054,11 @@
       "Time": "2023-12-20T23:10:08.8572098+00:00",
       "NumProgressed": 1162,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T13:14:02.7059848+00:00",
+      "NumProgressed": 1163,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3073,7 +3078,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -3137,7 +3142,7 @@
       "Name": "Capraphobia",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -3185,7 +3190,7 @@
       "Name": "Burnt Smell",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -3297,7 +3302,7 @@
       "Name": "End of Rest",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "FREEM_ACHIEVEMENT_1",
@@ -3321,7 +3326,7 @@
       "Name": "Free Like Birds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "FREE_ACHIEVEMENT_3",
@@ -3345,7 +3350,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -3369,7 +3374,7 @@
       "Name": "Call The Winchester",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "KILLR_ACHIEVEMENT_5",
@@ -3449,7 +3454,7 @@
       "Name": "10 Hugs from Grandma",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "MEAT_ACHIEVEMENT_1",
@@ -3465,7 +3470,7 @@
       "Name": "To Get Stronger",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "MEAT_ACHIEVEMENT_3",
@@ -3513,7 +3518,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -3521,7 +3526,7 @@
       "Name": "Haunted Prison",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_3",
@@ -3592,14 +3597,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1162,
+      "Progressed": 1163,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-12-21T12:11:01.0088778+00:00",
+  "LastChanged_Achievements": "2023-12-21T13:14:02.7059844+00:00",
   "LastUpdate_AppInfo": "2023-12-15T02:21:08.9329051+00:00",
-  "LastUpdate_Ratings": "2023-12-21T11:57:17.6805369+00:00",
-  "LastUpdate_Achievements": "2023-12-21T12:11:01.0089514+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:01:27.5316676+00:00",
+  "LastUpdate_Achievements": "2023-12-21T13:14:02.70604+00:00"
 }

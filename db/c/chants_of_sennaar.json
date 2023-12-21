@@ -3,8 +3,8 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_Rating": 16,
-  "Ranking_Popularity": 569,
-  "Ranking_PopularitySum": 569,
+  "Ranking_Popularity": 570,
+  "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 75,
   "Ranking_EOS_NewPlayers": 145,
@@ -43,9 +43,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1487,
+  "EOS_Progressed": 1489,
   "EOS_Completed": 79,
-  "EOS_NewPlayers": 470,
+  "EOS_NewPlayers": 468,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 5.31,
   "EosHistory": [
@@ -4728,6 +4728,11 @@
       "Time": "2023-12-21T12:08:54.0656304+00:00",
       "NumProgressed": 1487,
       "NumCompleted": 79
+    },
+    {
+      "Time": "2023-12-21T13:12:24.0592673+00:00",
+      "NumProgressed": 1489,
+      "NumCompleted": 79
     }
   ],
   "TotalAchievements": 25,
@@ -4739,7 +4744,7 @@
       "Name": "I did it",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "END_GOOD",
@@ -4763,7 +4768,7 @@
       "Name": "Cable guy",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "META_FIRST_LINK",
@@ -4777,9 +4782,9 @@
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 297
+      "UsersEstimate": 313
     },
     {
       "ID": "META_RESULT_1-2",
@@ -4801,9 +4806,9 @@
       "ID": "META_RESULT_1-4",
       "SetID": "2gma9an",
       "Name": "Feels like springtime",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 253
     },
     {
       "ID": "META_RESULT_2-3",
@@ -4827,7 +4832,7 @@
       "Name": "A Link to the Past",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -4859,7 +4864,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -4883,7 +4888,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -4899,7 +4904,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "PROGRESS_N2",
@@ -4907,7 +4912,7 @@
       "Name": "The great escape",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "PROGRESS_N3",
@@ -4915,7 +4920,7 @@
       "Name": "A new dawn",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "PROGRESS_N4",
@@ -4931,14 +4936,14 @@
       "Name": "One last step",
       "Percentage": 21,
       "XP": 80,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1487,
+      "Progressed": 1489,
       "Completed": 79
     }
   ],
@@ -4946,8 +4951,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-19T13:57:35.0364217+00:00",
-  "LastChanged_Achievements": "2023-12-21T12:08:54.06563+00:00",
+  "LastChanged_Achievements": "2023-12-21T13:12:24.0592668+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:30.8935759+00:00",
-  "LastUpdate_Ratings": "2023-12-21T11:59:32.7535473+00:00",
-  "LastUpdate_Achievements": "2023-12-21T12:08:54.0656625+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:03:04.9291255+00:00",
+  "LastUpdate_Achievements": "2023-12-21T13:12:24.0593165+00:00"
 }

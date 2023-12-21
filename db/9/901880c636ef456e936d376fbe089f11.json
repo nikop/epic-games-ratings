@@ -4,7 +4,7 @@
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
   "Ranking_EOS_Progress": 451,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewPlayers": 413,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 119,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.84,
   "EosHistory": [
@@ -628,9 +628,9 @@
       "ID": "ACH_10_DRINK_CHALLENGEMODE",
       "SetID": "8h8m55b",
       "Name": "Barista Trainee",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_25_DRINK_CHALLENGEMODE",
@@ -764,9 +764,9 @@
       "ID": "ACH_FINISH_ONCE",
       "SetID": "8h8m55b",
       "Name": "One Way to Find Out",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_FIRSTLOVE",
@@ -780,9 +780,9 @@
       "ID": "ACH_FIVE_STARS",
       "SetID": "8h8m55b",
       "Name": "\u201CFive Stars!\u201D",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_GHOSTED",
@@ -852,9 +852,9 @@
       "ID": "ACH_LOCAL_FAVORITE",
       "SetID": "8h8m55b",
       "Name": "Local Favorite",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_MASTER_PURLOINER",
@@ -900,9 +900,9 @@
       "ID": "ACH_REMEMBRANCE",
       "SetID": "8h8m55b",
       "Name": "Remembrance",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_SAVED100",
@@ -1059,8 +1059,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-12-21T12:08:37.1722356+00:00",
+  "LastChanged_Achievements": "2023-12-21T13:10:51.4681349+00:00",
   "LastUpdate_AppInfo": "2023-12-19T20:57:14.7732322+00:00",
-  "LastUpdate_Ratings": "2023-12-21T12:01:20.0731358+00:00",
-  "LastUpdate_Achievements": "2023-12-21T12:08:37.1722682+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:04:22.6756759+00:00",
+  "LastUpdate_Achievements": "2023-12-21T13:10:51.4681739+00:00"
 }

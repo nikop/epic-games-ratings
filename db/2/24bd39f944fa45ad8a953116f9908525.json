@@ -2,9 +2,9 @@
   "ID": "24bd39f944fa45ad8a953116f9908525",
   "Name": "HAAK",
   "ProductSlug": "haak-1401cb",
-  "Ranking_EOS_Progress": 507,
+  "Ranking_EOS_Progress": 508,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 431,
+  "Ranking_EOS_NewPlayers": 433,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-06-30T02:00:00+00:00",
@@ -564,9 +564,9 @@
       "ID": "ach_28_scarvenger30",
       "SetID": "16n29hg",
       "Name": "Supreme Scavenger",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_29_scarvenger50",
@@ -724,9 +724,9 @@
       "ID": "ach_48_moneySmell",
       "SetID": "16n29hg",
       "Name": "Greed is Good",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_49_kindHaak",
@@ -817,8 +817,8 @@
   ],
   "FirstSeen": "2023-06-30T05:57:16.6793848+00:00",
   "FirstSeenAchievements": "2023-06-20T07:03:35.8699826+00:00",
-  "LastChanged_Achievements": "2023-12-21T12:09:41.2931299+00:00",
+  "LastChanged_Achievements": "2023-12-21T13:13:00.4810976+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:12.1596411+00:00",
-  "LastUpdate_Ratings": "2023-12-21T12:01:00.2363596+00:00",
-  "LastUpdate_Achievements": "2023-12-21T12:09:41.2931855+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:04:08.3943013+00:00",
+  "LastUpdate_Achievements": "2023-12-21T13:13:00.4811415+00:00"
 }

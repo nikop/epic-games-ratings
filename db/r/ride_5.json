@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2798,
+  "EOS_Progressed": 2800,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 312,
+  "EOS_NewPlayers": 310,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6852,6 +6852,11 @@
       "Time": "2023-12-21T11:06:10.8947396+00:00",
       "NumProgressed": 2798,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T13:10:35.0863916+00:00",
+      "NumProgressed": 2800,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -6864,7 +6869,7 @@
       "Name": "First Love",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -6872,7 +6877,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1120
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -7072,7 +7077,7 @@
       "Name": "Clean Race",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1175
+      "UsersEstimate": 1176
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -7152,7 +7157,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -7160,7 +7165,7 @@
       "Name": "Eat My Dust",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1316
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -7168,7 +7173,7 @@
       "Name": "Champagne Spray",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -7216,7 +7221,7 @@
       "Name": "Rivals to the End",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -7255,14 +7260,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2798,
+      "Progressed": 2800,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-21T12:08:15.4774308+00:00",
+  "LastChanged_Achievements": "2023-12-21T13:10:35.0863911+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:35.5257739+00:00",
-  "LastUpdate_Ratings": "2023-12-21T12:00:21.8621612+00:00",
-  "LastUpdate_Achievements": "2023-12-21T12:08:15.4774934+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:03:40.7103849+00:00",
+  "LastUpdate_Achievements": "2023-12-21T13:10:35.0864449+00:00"
 }

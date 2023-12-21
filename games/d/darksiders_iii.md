@@ -6,43 +6,50 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unshakable Fortitude | 75.00% | ~3 |
-| One Of the Chosen | 75.00% | ~3 |
-| Increased Vigor | 75.00% | ~3 |
-| Perfect Storm | 75.00% | ~3 |
-| Devil's in the Details | 75.00% | ~3 |
-| Green with Envy | 75.00% | ~3 |
-| Throne Potato | 75.00% | ~3 |
-| Helping Hand | 75.00% | ~3 |
-| Five's a Crowd | 75.00% | ~3 |
-| Just the start | 75.00% | ~3 |
-| Increased Capacity | 50.00% | ~2 |
-| Fight Fire with Fire | 50.00% | ~2 |
-| I Wanna Rock | 50.00% | ~2 |
-| Salvation | 50.00% | ~2 |
-| Enhance! | 50.00% | ~2 |
-| All That Glitters | 50.00% | ~2 |
-| Delusions of Grandeur | 50.00% | ~2 |
-| Crowd Source | 50.00% | ~2 |
-| For Whom the Bell Tolls | 50.00% | ~2 |
-| First of many… | 50.00% | ~2 |
-| 25 to Life | 50.00% | ~2 |
-| Big Spender | 50.00% | ~2 |
-| Maximum Vigor | 25.00% | ~1 |
-| Can you restore the Balance? | 25.00% | ~1 |
-| Love Tap | 25.00% | ~1 |
-| Keep it 100! | 25.00% | ~1 |
-| Take it to the Limit | 25.00% | ~1 |
+| Green with Envy | 86.00% | ~6 |
+| Unshakable Fortitude | 71.00% | ~5 |
+| One Of the Chosen | 71.00% | ~5 |
+| Increased Capacity | 71.00% | ~5 |
+| Increased Vigor | 71.00% | ~5 |
+| Perfect Storm | 71.00% | ~5 |
+| Devil's in the Details | 71.00% | ~5 |
+| Throne Potato | 71.00% | ~5 |
+| Helping Hand | 71.00% | ~5 |
+| Five's a Crowd | 71.00% | ~5 |
+| First of many… | 71.00% | ~5 |
+| 25 to Life | 71.00% | ~5 |
+| Just the start | 71.00% | ~5 |
+| Fight Fire with Fire | 57.00% | ~4 |
+| Enhance! | 57.00% | ~4 |
+| All That Glitters | 57.00% | ~4 |
+| Delusions of Grandeur | 57.00% | ~4 |
+| Crowd Source | 57.00% | ~4 |
+| For Whom the Bell Tolls | 57.00% | ~4 |
+| Big Spender | 57.00% | ~4 |
+| Unyielding Strength | 43.00% | ~3 |
+| Maximum Vigor | 43.00% | ~3 |
+| I Wanna Rock | 43.00% | ~3 |
+| Salvation | 43.00% | ~3 |
+| Freeze Frame | 29.00% | ~2 |
+| Soul Harvester | 29.00% | ~2 |
+| Cleanup Crew | 29.00% | ~2 |
+| Can you restore the Balance? | 29.00% | ~2 |
+| Love Tap | 29.00% | ~2 |
+| Eat Your Heart Out | 29.00% | ~2 |
+| Maximum Capacity | 14.00% | ~1 |
+| Protector of Humanity | 14.00% | ~1 |
+| Path of the Horseman | 14.00% | ~1 |
+| Demon Meddler | 14.00% | ~1 |
+| Everybody Wants to Rule the World | 14.00% | ~1 |
+| Egomaniac | 14.00% | ~1 |
+| Seeing Red | 14.00% | ~1 |
+| Keep it 100! | 14.00% | ~1 |
+| Take it to the Limit | 14.00% | ~1 |
 | Unbreakable Will | 0.00% | ~0 |
-| Unyielding Strength | 0.00% | ~0 |
 | Purity of Power | 0.00% | ~0 |
 | Holy Keeper | 0.00% | ~0 |
 | Demon Keeper | 0.00% | ~0 |
-| Maximum Capacity | 0.00% | ~0 |
-| Freeze Frame | 0.00% | ~0 |
-| Soul Harvester | 0.00% | ~0 |
 | Soul Reaper | 0.00% | ~0 |
-| Cleanup Crew | 0.00% | ~0 |
 | A Parting Gift | 0.00% | ~0 |
 | Balance in all things | 0.00% | ~0 |
 | Quite Proper | 0.00% | ~0 |
@@ -51,33 +58,26 @@ Number of Ratings: 116  (23.09.2022)
 | "Impressive!" | 0.00% | ~0 |
 | "Incredible!" | 0.00% | ~0 |
 | "Amazing!" | 0.00% | ~0 |
-| Protector of Humanity | 0.00% | ~0 |
 | Death Incarnate | 0.00% | ~0 |
 | Proceed on your way to Armageddon | 0.00% | ~0 |
-| Path of the Horseman | 0.00% | ~0 |
 | Keeper of Colossal Automata | 0.00% | ~0 |
 | Keeper of the Bonfire | 0.00% | ~0 |
 | Keeper of the Vale | 0.00% | ~0 |
 | Keeper of the Tempo | 0.00% | ~0 |
 | Keeper of the Sky | 0.00% | ~0 |
-| Demon Meddler | 0.00% | ~0 |
 | Beast Mode | 0.00% | ~0 |
-| Everybody Wants to Rule the World | 0.00% | ~0 |
-| Eat Your Heart Out | 0.00% | ~0 |
-| Egomaniac | 0.00% | ~0 |
-| Seeing Red | 0.00% | ~0 |
 | Community Outreach | 0.00% | ~0 |
 | Humanitarian | 0.00% | ~0 |
 | BFA | 0.00% | ~0 |
 | Made of Sterner Stuff | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4 (Ranked 683)  
+Progressed: 7 (Ranked 655)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-12-13 | 1 | 0 |
-| 2023-12-21 | 4 | 0 |
+| 2023-12-21 | 7 | 0 |
 ## Awards
 Max (Great Boss Battles): 92  (Ranked 384)  
 Sum: 92 (Ranked 463)  

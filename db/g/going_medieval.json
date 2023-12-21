@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 261,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1619,9 +1619,9 @@
       "Count": 75
     }
   ],
-  "EOS_Progressed": 7401,
+  "EOS_Progressed": 7402,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -15089,6 +15089,11 @@
       "Time": "2023-12-21T12:09:07.0929816+00:00",
       "NumProgressed": 7401,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-21T13:12:33.815823+00:00",
+      "NumProgressed": 7402,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -15100,7 +15105,7 @@
       "Name": "Get A Room",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5625
+      "UsersEstimate": 5626
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -15140,7 +15145,7 @@
       "Name": "Having A Field Day",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5625
+      "UsersEstimate": 5626
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -15212,7 +15217,7 @@
       "Name": "Retribution",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3182
+      "UsersEstimate": 3183
     },
     {
       "ID": "PRODUCE_AT_CAMPFIRE",
@@ -15228,7 +15233,7 @@
       "Name": "Feast or Famine",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 2738
+      "UsersEstimate": 2739
     },
     {
       "ID": "STORE_NUTRITION_20000",
@@ -15236,7 +15241,7 @@
       "Name": "Fit For A King",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 1998
+      "UsersEstimate": 1999
     },
     {
       "ID": "STORE_NUTRITION_5000",
@@ -15244,7 +15249,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 3330
+      "UsersEstimate": 3331
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -15252,7 +15257,7 @@
       "Name": "Winter Is Coming",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 2146
+      "UsersEstimate": 2147
     },
     {
       "ID": "SURVIVE_FIRST_DAY",
@@ -15268,7 +15273,7 @@
       "Name": "...And Don\u2019t Come Back!",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 3182
+      "UsersEstimate": 3183
     },
     {
       "ID": "SURVIVE_FIRST_SUMMER",
@@ -15276,7 +15281,7 @@
       "Name": "Heating Up",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2368
+      "UsersEstimate": 2369
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
@@ -15316,7 +15321,7 @@
       "Name": "Adept Researcher",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 3330
+      "UsersEstimate": 3331
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -15324,7 +15329,7 @@
       "Name": "Luminary Researcher",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 2294
+      "UsersEstimate": 2295
     },
     {
       "ID": "UNLOCK_RESEARCH_3",
@@ -15347,15 +15352,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 7401,
+      "Progressed": 7402,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-12-19T21:01:32.6284048+00:00",
-  "LastChanged_Achievements": "2023-12-21T12:09:07.0929811+00:00",
+  "LastChanged_Achievements": "2023-12-21T13:12:33.8158226+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:47.8691665+00:00",
-  "LastUpdate_Ratings": "2023-12-21T12:02:57.8343149+00:00",
-  "LastUpdate_Achievements": "2023-12-21T12:09:07.093063+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:06:56.4474669+00:00",
+  "LastUpdate_Achievements": "2023-12-21T13:12:33.8158998+00:00"
 }

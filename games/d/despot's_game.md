@@ -22,7 +22,7 @@ Rating: 4.50 (Ranked 603)
 | Assemble a Meganewbie | 26.00% | ~118 |
 | Catch Jonathan_tostar | 26.00% | ~118 |
 | Frugal | 22.00% | ~100 |
-| Feed a God | 21.00% | ~95 |
+| Feed a God | 22.00% | ~100 |
 | To the Moon and Back | 20.00% | ~91 |
 | Great Flight | 19.00% | ~86 |
 | Holy Vengeance | 17.00% | ~77 |

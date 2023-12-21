@@ -1432,18 +1432,24 @@
       "Rating": 4.85,
       "NumberOfAwards": 1704,
       "NumberOfAwardsMax": 223
+    },
+    {
+      "Time": "2023-12-21T13:03:02.8051896+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 1705,
+      "NumberOfAwardsMax": 224
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1704,
-  "NumberOfAwardsMax": 223,
+  "NumberOfAwards": 1705,
+  "NumberOfAwardsMax": 224,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 223
+      "Count": 224
     },
     {
       "Text": "This game is Relaxing",
@@ -1500,9 +1506,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 26038,
+  "EOS_Progressed": 26052,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 2090,
+  "EOS_NewPlayers": 2068,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -11310,6 +11316,11 @@
       "Time": "2023-12-21T12:10:33.4377146+00:00",
       "NumProgressed": 26038,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-21T13:13:40.6481065+00:00",
+      "NumProgressed": 26052,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -11401,7 +11412,7 @@
       "Name": "Spells and Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1302
+      "UsersEstimate": 1303
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -11417,7 +11428,7 @@
       "Name": "Hands and Hammers",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "BossFinalAdvancedDefeated",
@@ -11433,7 +11444,7 @@
       "Name": "King and Kin",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "BossForestAdvancedDefeated",
@@ -11465,7 +11476,7 @@
       "Name": "Progenitor and Prot\u00E9g\u00E9",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "BossStudyAdvancedDefeated",
@@ -11513,7 +11524,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "EndTimerFail",
@@ -11577,7 +11588,7 @@
       "Name": "Prequel to the Sequel",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "RogueMode",
@@ -11632,21 +11643,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 26038,
+      "Progressed": 26052,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 4968,
+      "Progressed": 4982,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
-  "LastChanged": "2023-12-07T09:58:25.2813813+00:00",
-  "LastChanged_Achievements": "2023-12-21T12:10:33.4377144+00:00",
+  "LastChanged": "2023-12-21T13:03:02.8051894+00:00",
+  "LastChanged_Achievements": "2023-12-21T13:13:40.648106+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:44.2937948+00:00",
-  "LastUpdate_Ratings": "2023-12-21T11:59:29.6523664+00:00",
-  "LastUpdate_Achievements": "2023-12-21T12:10:33.4377727+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:03:02.8051899+00:00",
+  "LastUpdate_Achievements": "2023-12-21T13:13:40.6481748+00:00"
 }

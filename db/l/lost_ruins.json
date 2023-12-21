@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 576,
+  "EOS_Progressed": 579,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
@@ -1419,6 +1419,11 @@
       "Time": "2023-12-21T12:10:56.2629688+00:00",
       "NumProgressed": 576,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T13:13:58.5527782+00:00",
+      "NumProgressed": 579,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1444,9 +1449,9 @@
       "ID": "ArtifactsCollector",
       "SetID": "82505mn",
       "Name": "Artifact Collector",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 109
+      "UsersEstimate": 104
     },
     {
       "ID": "Assassin",
@@ -1470,7 +1475,7 @@
       "Name": "Bug Hunter",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "Cryomancer",
@@ -1494,7 +1499,7 @@
       "Name": "Ghost Buster",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "Gladiator",
@@ -1510,7 +1515,7 @@
       "Name": "Goblin Tales",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "Hardboiled",
@@ -1542,7 +1547,7 @@
       "Name": "Iconoclasm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "Inquisitor",
@@ -1550,15 +1555,15 @@
       "Name": "Inquisitor",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "Librarian",
       "SetID": "82505mn",
       "Name": "Librarian",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 75
+      "UsersEstimate": 69
     },
     {
       "ID": "Lumberjack",
@@ -1566,7 +1571,7 @@
       "Name": "Lumberjack",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Marksman",
@@ -1588,9 +1593,9 @@
       "ID": "MoneySwag",
       "SetID": "82505mn",
       "Name": "Money Swag",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 46
     },
     {
       "ID": "Necromancer",
@@ -1606,15 +1611,15 @@
       "Name": "Oops",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "OrcMustDie",
       "SetID": "82505mn",
       "Name": "Orcs Must Die!",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 69
     },
     {
       "ID": "Pyromancer",
@@ -1630,7 +1635,7 @@
       "Name": "Reincarnation",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "Roughneck",
@@ -1654,7 +1659,7 @@
       "Name": "Shield Crusher",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "SlingOfDavid",
@@ -1684,9 +1689,9 @@
       "ID": "TheEnd",
       "SetID": "82505mn",
       "Name": "The End",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 63
+      "UsersEstimate": 69
     },
     {
       "ID": "TheFallen",
@@ -1694,7 +1699,7 @@
       "Name": "The Fallen",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "TheTrio",
@@ -1718,7 +1723,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Troubleshooter",
@@ -1749,7 +1754,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 576,
+      "Progressed": 579,
       "Completed": 1
     }
   ],
@@ -1757,8 +1762,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-21T12:10:56.2629685+00:00",
+  "LastChanged_Achievements": "2023-12-21T13:13:58.5527777+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:31.304442+00:00",
-  "LastUpdate_Ratings": "2023-12-21T12:02:39.9087022+00:00",
-  "LastUpdate_Achievements": "2023-12-21T12:10:56.2630009+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:04:44.2879618+00:00",
+  "LastUpdate_Achievements": "2023-12-21T13:13:58.5528052+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Miasma Chronicles",
   "ProductSlug": "miasma-chronicles",
   "Ranking_Rating": 781,
-  "Ranking_Popularity": 569,
-  "Ranking_PopularitySum": 569,
+  "Ranking_Popularity": 570,
+  "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 316,
@@ -4078,9 +4078,9 @@
       "ID": "ASPIRING_EDITOR",
       "SetID": "9a4jnji",
       "Name": "Aspiring Editor",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1221
     },
     {
       "ID": "ATTENBOROUGH",
@@ -4294,9 +4294,9 @@
       "ID": "GUN_FOR_HIRE",
       "SetID": "9a4jnji",
       "Name": "Gun for Hire",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1140
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -4479,8 +4479,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-12-18T20:02:59.2153729+00:00",
-  "LastChanged_Achievements": "2023-12-21T12:10:58.4932754+00:00",
+  "LastChanged_Achievements": "2023-12-21T13:14:00.3972576+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:53.0198818+00:00",
-  "LastUpdate_Ratings": "2023-12-21T12:03:25.6383745+00:00",
-  "LastUpdate_Achievements": "2023-12-21T12:10:58.4933186+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:07:16.5494124+00:00",
+  "LastUpdate_Achievements": "2023-12-21T13:14:00.3973009+00:00"
 }

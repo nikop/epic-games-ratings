@@ -42,18 +42,18 @@ Number of Ratings: 371  (23.09.2022)
 | Death Comes For All | 0.90% | ~32 |
 | Patron of Deimos | 0.80% | ~28 |
 | Engine Kill | 0.80% | ~28 |
-| Hands-On Research | 0.70% | ~24 |
-| Harvest No More | 0.70% | ~24 |
+| Hands-On Research | 0.70% | ~25 |
+| Harvest No More | 0.70% | ~25 |
 | Strike Force | 0.60% | ~21 |
 | True Mastery | 0.60% | ~21 |
 | Suffer Not the Mutant | 0.50% | ~18 |
 | Exercise in Restraint | 0.40% | ~14 |
 | Reign of Confusion | 0.40% | ~14 |
-| Blood and Iron | 0.30% | ~10 |
-| Clean Slate | 0.30% | ~10 |
-| Warp Flickers | 0.30% | ~10 |
-| Abomination | 0.30% | ~10 |
-| Killing Rampage | 0.30% | ~10 |
+| Blood and Iron | 0.30% | ~11 |
+| Clean Slate | 0.30% | ~11 |
+| Warp Flickers | 0.30% | ~11 |
+| Abomination | 0.30% | ~11 |
+| Killing Rampage | 0.30% | ~11 |
 | The Flesh is Weak | 0.20% | ~7 |
 | Unstable Immaterium | 0.20% | ~7 |
 | Phalanx | 0.20% | ~7 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,500 (Ranked 215)  
+Progressed: 3,503 (Ranked 214)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 3,464 | 0 |
 | 2023-12-19 | 3,477 | 0 |
 | 2023-12-20 | 3,493 | 0 |
-| 2023-12-21 | 3,500 | 0 |
+| 2023-12-21 | 3,503 | 0 |
 ## Awards
 Max (Character Customization): 229  (Ranked 279)  
 Sum: 490 (Ranked 333)  

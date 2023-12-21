@@ -4,7 +4,7 @@
   "ProductSlug": "lemon-cake-c683d8",
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 431,
+  "Ranking_EOS_NewPlayers": 424,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-09-29T23:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 175,
+  "EOS_Progressed": 176,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.14,
   "EosHistory": [
@@ -345,6 +345,11 @@
       "Time": "2023-12-19T22:08:31.4511215+00:00",
       "NumProgressed": 175,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-21T13:12:37.3612228+00:00",
+      "NumProgressed": 176,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 17,
@@ -356,7 +361,7 @@
       "Name": "Proving Your Skills",
       "Percentage": 93,
       "XP": 25,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "LC-02",
@@ -364,7 +369,7 @@
       "Name": "Bakery Startup",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "LC-03",
@@ -372,7 +377,7 @@
       "Name": "Bakery Business",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "LC-04",
@@ -380,7 +385,7 @@
       "Name": "Bakery Empire",
       "Percentage": 6,
       "XP": 75,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "LC-05",
@@ -468,7 +473,7 @@
       "Name": "A Loving Home",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "LC-16",
@@ -482,16 +487,16 @@
       "ID": "LC-17",
       "SetID": "ap2ljl4",
       "Name": "Perfect Server",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     }
   ],
   "AchievementSets": [
     {
       "ID": "ap2ljl4",
       "IsBase": true,
-      "Progressed": 175,
+      "Progressed": 176,
       "Completed": 2
     }
   ],
@@ -499,8 +504,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.6780256+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.6062065+00:00",
   "LastChanged": "2023-03-31T05:58:18.6780257+00:00",
-  "LastChanged_Achievements": "2023-12-21T12:09:11.4779672+00:00",
+  "LastChanged_Achievements": "2023-12-21T13:12:37.3612223+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:38.5761808+00:00",
-  "LastUpdate_Ratings": "2023-12-21T12:00:12.5530106+00:00",
-  "LastUpdate_Achievements": "2023-12-21T12:09:11.4779775+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:03:33.8777022+00:00",
+  "LastUpdate_Achievements": "2023-12-21T13:12:37.3612345+00:00"
 }

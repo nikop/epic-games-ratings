@@ -2,13 +2,13 @@
   "ID": "93eeeab14a3d45b8bf5586a900137733",
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
-  "Ranking_Rating": 69,
+  "Ranking_Rating": 70,
   "Ranking_Popularity": 228,
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 268,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 3766,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3527,10 +3527,10 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18805,
+  "EOS_Progressed": 18809,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 716,
-  "EOS_NewCompleters": -1,
+  "EOS_NewPlayers": 715,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
     {
@@ -16547,6 +16547,11 @@
       "Time": "2023-12-21T12:08:33.9343744+00:00",
       "NumProgressed": 18805,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-21T13:10:49.0248608+00:00",
+      "NumProgressed": 18809,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16959,7 +16964,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1128
+      "UsersEstimate": 1129
     },
     {
       "ID": "WinNearFrosts",
@@ -16983,7 +16988,7 @@
       "Name": "Overgrown Library",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1128
+      "UsersEstimate": 1129
     },
     {
       "ID": "WinNearPetrified",
@@ -17030,15 +17035,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18805,
+      "Progressed": 18809,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-21T09:59:46.5641873+00:00",
-  "LastChanged_Achievements": "2023-12-21T12:08:33.9343737+00:00",
+  "LastChanged_Achievements": "2023-12-21T13:10:49.0248603+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
-  "LastUpdate_Ratings": "2023-12-21T12:00:56.1294035+00:00",
-  "LastUpdate_Achievements": "2023-12-21T12:08:33.9344629+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:04:05.4701443+00:00",
+  "LastUpdate_Achievements": "2023-12-21T13:10:49.0249922+00:00"
 }

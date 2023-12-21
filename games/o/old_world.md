@@ -196,7 +196,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kush | 0.10% | ~16 |
 | Kushite Paganism | 0.10% | ~16 |
 | Beja Archer | 0.10% | ~16 |
+| Colosseum | 0.10% | ~16 |
 | Royal Library | 0.10% | ~16 |
+| Colosseum in Roma | 0.10% | ~16 |
 | Centenarian | 0.00% | ~0 |
 | Alexander the who? | 0.00% | ~0 |
 | Alliance Victory | 0.00% | ~0 |
@@ -353,7 +355,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Yazilikaya in Hattusa | 0.00% | ~0 |
 | Heliopolis in Heliopolis | 0.00% | ~0 |
 | Al Khazneh | 0.00% | ~0 |
-| Colosseum | 0.00% | ~0 |
 | Cothon | 0.00% | ~0 |
 | Heliopolis | 0.00% | ~0 |
 | Jebel Barkal | 0.00% | ~0 |
@@ -363,7 +364,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
-| Colosseum in Roma | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15,858 (Ranked 159)  
 Completed: 5 (0.03%) (Ranked 345)  

@@ -9,22 +9,22 @@
 | Mother | 79.00% | ~125 |
 | Failure | 77.00% | ~122 |
 | Replace Fuse | 68.00% | ~107 |
-| Alarm | 66.00% | ~104 |
+| Alarm | 67.00% | ~106 |
 | Air Filtration | 63.00% | ~100 |
 | Broken | 61.00% | ~96 |
-| Radiation | 60.00% | ~95 |
-| Descent | 58.00% | ~92 |
+| Radiation | 61.00% | ~96 |
+| Descent | 59.00% | ~93 |
 | Awakenings | 58.00% | ~92 |
 | Cold Storage | 58.00% | ~92 |
 | Sam | 57.00% | ~90 |
+| Soldier | 52.00% | ~82 |
 | Leave | 51.00% | ~81 |
+| Churchill | 51.00% | ~81 |
 | Commissioner | 51.00% | ~81 |
-| Soldier | 51.00% | ~81 |
-| Churchill | 50.00% | ~79 |
-| Engineer | 49.00% | ~77 |
+| Engineer | 50.00% | ~79 |
 | Doctor | 47.00% | ~74 |
 | Press Play | 37.00% | ~58 |
-| General | 28.00% | ~44 |
+| General | 29.00% | ~46 |
 | Bookworm | 27.00% | ~43 |
 | Floppy Disk Finder | 16.00% | ~25 |
 | Stay | 13.00% | ~21 |

@@ -3,11 +3,11 @@
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
   "Ranking_Rating": 16,
-  "Ranking_Popularity": 569,
-  "Ranking_PopularitySum": 569,
+  "Ranking_Popularity": 570,
+  "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -224,7 +224,7 @@
   ],
   "EOS_Progressed": 1067,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3146,9 +3146,9 @@
       "ID": "TeamSpirit",
       "SetID": "1n308hc",
       "Name": "Team Spirit",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 192
     },
     {
       "ID": "TextAdventurer",
@@ -3283,8 +3283,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-21T12:06:31.9756099+00:00",
+  "LastChanged_Achievements": "2023-12-21T13:09:39.2786269+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-21T12:01:24.4863813+00:00",
-  "LastUpdate_Achievements": "2023-12-21T12:06:31.9756568+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:04:26.2136767+00:00",
+  "LastUpdate_Achievements": "2023-12-21T13:09:39.2786743+00:00"
 }

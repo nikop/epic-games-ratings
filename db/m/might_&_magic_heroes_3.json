@@ -2,12 +2,12 @@
   "ID": "4912067a5f4f4346b312aa226b2787ac",
   "Name": "Might \u0026 Magic Heroes 3",
   "ProductSlug": "might-and-magic-heroes-3",
-  "Ranking_Rating": 69,
+  "Ranking_Rating": 70,
   "Ranking_Popularity": 274,
   "Ranking_PopularitySum": 274,
   "Ranking_EOS_Progress": 813,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 561,
+  "Ranking_EOS_NewPlayers": 560,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -2813,6 +2813,6 @@
   "FirstSeen": "2022-07-22T20:27:33.8101196+00:00",
   "LastChanged": "2023-12-19T20:57:34.158418+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:02.9387737+00:00",
-  "LastUpdate_Ratings": "2023-12-21T11:58:44.122985+00:00",
-  "LastUpdate_Achievements": "2023-12-21T12:09:48.3291139+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:02:30.0188988+00:00",
+  "LastUpdate_Achievements": "2023-12-21T13:13:06.1522341+00:00"
 }

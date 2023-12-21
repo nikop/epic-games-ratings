@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 494,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -658,9 +658,9 @@
       "ID": "ACH_CHALLENGE_ANY",
       "SetID": "cefn62b",
       "Name": "Furon Fashion",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_CHALLENGE_ARMAGEDDONTHREESTAR",
@@ -882,8 +882,8 @@
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2023-11-09T01:43:19.9714919+00:00",
-  "LastChanged_Achievements": "2023-12-21T12:06:25.2913241+00:00",
+  "LastChanged_Achievements": "2023-12-21T13:09:34.1335676+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:30.3369877+00:00",
-  "LastUpdate_Ratings": "2023-12-21T11:59:22.0327982+00:00",
-  "LastUpdate_Achievements": "2023-12-21T12:06:25.2913464+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:02:57.3246937+00:00",
+  "LastUpdate_Achievements": "2023-12-21T13:09:34.1335951+00:00"
 }

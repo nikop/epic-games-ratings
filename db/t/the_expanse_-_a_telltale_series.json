@@ -3,12 +3,12 @@
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_Rating": 533,
-  "Ranking_Popularity": 569,
-  "Ranking_PopularitySum": 569,
+  "Ranking_Popularity": 570,
+  "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16982,
+  "EOS_Progressed": 16984,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 814,
+  "EOS_NewPlayers": 808,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -14625,6 +14625,11 @@
       "Time": "2023-12-21T12:06:16.0221233+00:00",
       "NumProgressed": 16982,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-12-21T13:09:26.8844129+00:00",
+      "NumProgressed": 16984,
+      "NumCompleted": 46
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14653,7 +14658,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1528
+      "UsersEstimate": 1529
     },
     {
       "ID": "12",
@@ -14669,7 +14674,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2377
+      "UsersEstimate": 2378
     },
     {
       "ID": "14",
@@ -14717,7 +14722,7 @@
       "Name": "Martian Music",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1528
+      "UsersEstimate": 1529
     },
     {
       "ID": "2",
@@ -14725,7 +14730,7 @@
       "Name": "Data Logger",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "20",
@@ -14741,7 +14746,7 @@
       "Name": "Drone Dodger",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1528
+      "UsersEstimate": 1529
     },
     {
       "ID": "22",
@@ -14765,7 +14770,7 @@
       "Name": "Miraculous Maya",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "25",
@@ -14789,7 +14794,7 @@
       "Name": "Bosmang",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 1528
+      "UsersEstimate": 1529
     },
     {
       "ID": "28",
@@ -14845,7 +14850,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1528
+      "UsersEstimate": 1529
     },
     {
       "ID": "7",
@@ -14869,7 +14874,7 @@
       "Name": "Impossible Objects",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1528
+      "UsersEstimate": 1529
     },
     {
       "ID": "31",
@@ -14916,13 +14921,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16982,
+      "Progressed": 16984,
       "Completed": 46
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2936,
+      "Progressed": 2938,
       "Completed": 976
     }
   ],
@@ -14930,8 +14935,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-21T04:02:39.716899+00:00",
-  "LastChanged_Achievements": "2023-12-21T12:06:16.0221228+00:00",
+  "LastChanged_Achievements": "2023-12-21T13:09:26.8844125+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:40.0929133+00:00",
-  "LastUpdate_Ratings": "2023-12-21T12:02:51.9296155+00:00",
-  "LastUpdate_Achievements": "2023-12-21T12:06:16.0222038+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:04:52.6788396+00:00",
+  "LastUpdate_Achievements": "2023-12-21T13:09:26.884497+00:00"
 }

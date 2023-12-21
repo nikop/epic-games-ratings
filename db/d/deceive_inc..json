@@ -3,8 +3,8 @@
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
   "Ranking_Rating": 456,
-  "Ranking_Popularity": 569,
-  "Ranking_PopularitySum": 569,
+  "Ranking_Popularity": 570,
+  "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 353,
   "Ranking_EOS_NewPlayers": 242,
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19125,
+  "EOS_Progressed": 19126,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13949,6 +13949,11 @@
       "Time": "2023-12-21T11:05:57.40523+00:00",
       "NumProgressed": 19125,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-21T13:10:21.8010215+00:00",
+      "NumProgressed": 19126,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -13992,7 +13997,7 @@
       "Name": "Branch Manager",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "0006",
@@ -14016,7 +14021,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3442
+      "UsersEstimate": 3443
     },
     {
       "ID": "0009",
@@ -14056,7 +14061,7 @@
       "Name": "Keycards Royale",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1912
+      "UsersEstimate": 1913
     },
     {
       "ID": "0014",
@@ -14088,7 +14093,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3442
+      "UsersEstimate": 3443
     },
     {
       "ID": "0018",
@@ -14112,7 +14117,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 10,
       "XP": 115,
-      "UsersEstimate": 1912
+      "UsersEstimate": 1913
     },
     {
       "ID": "0021",
@@ -14120,7 +14125,7 @@
       "Name": "Call Me Maybe",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "0022",
@@ -14128,7 +14133,7 @@
       "Name": "PHD in VIP",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "0023",
@@ -14152,7 +14157,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3442
+      "UsersEstimate": 3443
     },
     {
       "ID": "0026",
@@ -14192,7 +14197,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3442
+      "UsersEstimate": 3443
     },
     {
       "ID": "0031",
@@ -14247,7 +14252,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19125,
+      "Progressed": 19126,
       "Completed": 4
     }
   ],
@@ -14255,8 +14260,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-11-20T16:57:01.0774379+00:00",
-  "LastChanged_Achievements": "2023-12-21T12:07:27.2389044+00:00",
+  "LastChanged_Achievements": "2023-12-21T13:10:21.8010212+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:23.0079073+00:00",
-  "LastUpdate_Ratings": "2023-12-21T11:58:52.4733402+00:00",
-  "LastUpdate_Achievements": "2023-12-21T12:07:27.2389981+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:02:35.9944239+00:00",
+  "LastUpdate_Achievements": "2023-12-21T13:10:21.8010884+00:00"
 }

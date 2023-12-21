@@ -1381,10 +1381,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 741,
       "NumberOfAwardsMax": 104
+    },
+    {
+      "Time": "2023-12-21T13:01:45.8070968+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 742,
+      "NumberOfAwardsMax": 104
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 741,
+  "NumberOfAwards": 742,
   "NumberOfAwardsMax": 104,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1416,7 +1422,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 94
+      "Count": 95
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1455,9 +1461,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6554,
+  "EOS_Progressed": 6555,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14890,6 +14896,11 @@
       "Time": "2023-12-21T11:04:42.0498004+00:00",
       "NumProgressed": 6554,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-21T13:09:05.5208718+00:00",
+      "NumProgressed": 6555,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -14925,7 +14936,7 @@
       "Name": "Happy Ending?",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -15021,7 +15032,7 @@
       "Name": "Number 18",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1507
+      "UsersEstimate": 1508
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -15061,7 +15072,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 4850
+      "UsersEstimate": 4851
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -15157,7 +15168,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2949
+      "UsersEstimate": 2950
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -15173,7 +15184,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2359
+      "UsersEstimate": 2360
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -15220,15 +15231,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6554,
+      "Progressed": 6555,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
-  "LastChanged": "2023-12-17T08:59:24.7574779+00:00",
-  "LastChanged_Achievements": "2023-12-21T12:05:47.9196169+00:00",
+  "LastChanged": "2023-12-21T13:01:45.8070966+00:00",
+  "LastChanged_Achievements": "2023-12-21T13:09:05.5208713+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:47.7844638+00:00",
-  "LastUpdate_Ratings": "2023-12-21T11:57:43.1110281+00:00",
-  "LastUpdate_Achievements": "2023-12-21T12:05:47.9197033+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:01:45.8070971+00:00",
+  "LastUpdate_Achievements": "2023-12-21T13:09:05.5209543+00:00"
 }

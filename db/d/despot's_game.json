@@ -3,8 +3,8 @@
   "Name": "Despot\u0027s Game",
   "ProductSlug": "despots-game-f61a0a",
   "Ranking_Rating": 603,
-  "Ranking_Popularity": 569,
-  "Ranking_PopularitySum": 569,
+  "Ranking_Popularity": 570,
+  "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 376,
@@ -656,9 +656,9 @@
       "ID": "finished-quest-nurgle",
       "SetID": "799afm0",
       "Name": "Feed a God",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 100
     },
     {
       "ID": "finished-quest-pit",
@@ -841,8 +841,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-12-21T12:07:22.8408627+00:00",
+  "LastChanged_Achievements": "2023-12-21T13:10:18.5004225+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:10.0467066+00:00",
-  "LastUpdate_Ratings": "2023-12-21T11:58:56.013555+00:00",
-  "LastUpdate_Achievements": "2023-12-21T12:07:22.8408811+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:02:38.6632087+00:00",
+  "LastUpdate_Achievements": "2023-12-21T13:10:18.5004467+00:00"
 }

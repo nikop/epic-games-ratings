@@ -6,24 +6,24 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,534 |
-| Gun Fu | 8.00% | ~78,356 |
-| The Fool | 7.00% | ~68,561 |
-| Right Back At Ya | 6.00% | ~58,767 |
-| Full Body Conversion | 5.00% | ~48,972 |
-| The Lovers | 5.00% | ~48,972 |
-| Stanislavski's Method | 4.00% | ~39,178 |
-| The Hermit | 4.00% | ~39,178 |
-| The Wheel of Fortune | 4.00% | ~39,178 |
-| True Soldier | 4.00% | ~39,178 |
-| All the President's Men | 4.00% | ~4,323 |
-| Arachnophobia | 4.00% | ~4,323 |
-| Christmas Tree Attack | 3.00% | ~29,383 |
-| Life of the Road | 3.00% | ~29,383 |
-| The High Priestess | 3.00% | ~29,383 |
-| True Warrior | 3.00% | ~29,383 |
-| Legend of The Afterlife | 3.00% | ~29,383 |
-| Relic Ruler | 3.00% | ~3,242 |
+| V for Vendetta | 12.00% | ~117,537 |
+| Gun Fu | 8.00% | ~78,358 |
+| The Fool | 7.00% | ~68,563 |
+| Right Back At Ya | 6.00% | ~58,768 |
+| Full Body Conversion | 5.00% | ~48,974 |
+| The Lovers | 5.00% | ~48,974 |
+| Stanislavski's Method | 4.00% | ~39,179 |
+| The Hermit | 4.00% | ~39,179 |
+| The Wheel of Fortune | 4.00% | ~39,179 |
+| True Soldier | 4.00% | ~39,179 |
+| All the President's Men | 4.00% | ~4,324 |
+| Arachnophobia | 4.00% | ~4,324 |
+| Christmas Tree Attack | 3.00% | ~29,384 |
+| Life of the Road | 3.00% | ~29,384 |
+| The High Priestess | 3.00% | ~29,384 |
+| True Warrior | 3.00% | ~29,384 |
+| Legend of The Afterlife | 3.00% | ~29,384 |
+| Relic Ruler | 3.00% | ~3,243 |
 | Bushido and Chill | 2.00% | ~19,589 |
 | To Protect and Serve | 2.00% | ~19,589 |
 | Master Crafter | 2.00% | ~19,589 |
@@ -32,8 +32,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | The World | 2.00% | ~19,589 |
 | Two Heads, One Bullet | 2.00% | ~19,589 |
 | Judy vs Night City | 2.00% | ~19,589 |
-| The Wandering Fool | 1.00% | ~9,794 |
-| The Sun | 1.00% | ~9,794 |
+| The Wandering Fool | 1.00% | ~9,795 |
+| The Sun | 1.00% | ~9,795 |
 | Spin Doctor | 1.00% | ~1,081 |
 | King of Wands | 1.00% | ~1,081 |
 | Dirty Deeds | 1.00% | ~1,081 |
@@ -43,10 +43,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Star | 0.80% | ~7,836 |
 | Breathtaking | 0.70% | ~6,856 |
 | Autojock | 0.60% | ~5,877 |
-| The APB is Not Enough | 0.60% | ~648 |
-| Judgement Day | 0.60% | ~648 |
-| King of Swords | 0.60% | ~648 |
-| The Tower | 0.60% | ~648 |
+| The APB is Not Enough | 0.60% | ~649 |
+| Judgement Day | 0.60% | ~649 |
+| King of Swords | 0.60% | ~649 |
+| The Tower | 0.60% | ~649 |
 | Must Be Rats | 0.50% | ~4,897 |
 | Temperance | 0.50% | ~4,897 |
 | King of Pentacles | 0.50% | ~540 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 979,449 (Ranked 16)  
+Progressed: 979,471 (Ranked 16)  
 Completed: 2,948 (0.30%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,10 +319,10 @@ Completed: 2,948 (0.30%) (Ranked 249)
 | 2023-12-18 | 978,465 | 2,935 |
 | 2023-12-19 | 978,882 | 2,944 |
 | 2023-12-20 | 979,279 | 2,948 |
-| 2023-12-21 | 979,449 | 2,948 |
+| 2023-12-21 | 979,471 | 2,948 |
 ## Awards
 Max (Character Customization): 125,560  (Ranked 8)  
-Sum: 434,166 (Ranked 9)  
+Sum: 434,312 (Ranked 9)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -335,7 +335,7 @@ Diff (max vs sum): -1
 | This game is Extremely Fun | 24,589 |
 | This game has Amazing Characters | 24,390 |
 | This game is Relaxing | 23,632 |
-| This game has Quickly Understood Controls | 23,478 |
+| This game has Quickly Understood Controls | 23,624 |
 | This game has a Creative Community | 16,339 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -676,4 +676,4 @@ Diff (max vs sum): -1
 | 2023-12-18 | 4.66 | - | 124,846 | 429,269 |
 | 2023-12-19 | 4.66 | - | 125,194 | 431,324 |
 | 2023-12-20 | 4.66 | - | 125,560 | 433,348 |
-| 2023-12-21 | 4.66 | - | 125,560 | 434,166 |
+| 2023-12-21 | 4.66 | - | 125,560 | 434,312 |

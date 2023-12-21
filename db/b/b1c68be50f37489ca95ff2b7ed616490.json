@@ -2,9 +2,9 @@
   "ID": "b1c68be50f37489ca95ff2b7ed616490",
   "Name": "Agatha Christie - Murder on the Orient Express",
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
-  "Ranking_EOS_Progress": 429,
+  "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 143,
+  "EOS_Progressed": 144,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -644,6 +644,11 @@
       "Time": "2023-12-21T12:06:37.0148722+00:00",
       "NumProgressed": 143,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T13:09:43.1919424+00:00",
+      "NumProgressed": 144,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -654,7 +659,7 @@
       "ID": "1",
       "SetID": "6bgoh8g",
       "Name": "A mystery? No! A trifle for Poirot!",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 20,
       "UsersEstimate": 84
     },
@@ -694,9 +699,9 @@
       "ID": "14",
       "SetID": "6bgoh8g",
       "Name": "End of the line, everyone disembark",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "15",
@@ -800,7 +805,7 @@
       "Name": "The only useful pigeon is a stool pigeon",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "27",
@@ -832,7 +837,7 @@
       "Name": "The power of observation",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "6",
@@ -840,7 +845,7 @@
       "Name": "A true detective",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "7",
@@ -856,7 +861,7 @@
       "Name": "You\u0027re probably wondering how I got here...",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "9",
@@ -871,14 +876,14 @@
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 143,
+      "Progressed": 144,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-12-21T12:06:37.0148714+00:00",
+  "LastChanged_Achievements": "2023-12-21T13:09:43.191942+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:09.2427792+00:00",
-  "LastUpdate_Ratings": "2023-12-21T12:03:26.5808106+00:00",
-  "LastUpdate_Achievements": "2023-12-21T12:06:37.0148903+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:07:17.1763861+00:00",
+  "LastUpdate_Achievements": "2023-12-21T13:09:43.1919581+00:00"
 }

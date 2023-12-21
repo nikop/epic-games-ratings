@@ -10,11 +10,11 @@
 | Fence-Sitter | 15.00% | ~5 |
 | Green Thumb | 12.00% | ~4 |
 | Crystal Hunter | 9.00% | ~3 |
+| Bye-Bye, Butcher | 6.00% | ~2 |
 | Equivalent Exchange | 6.00% | ~2 |
+| Setting Off | 6.00% | ~2 |
 | Danger | 6.00% | ~2 |
 | Column Crusher | 3.00% | ~1 |
-| Bye-Bye, Butcher | 3.00% | ~1 |
-| Setting Off | 3.00% | ~1 |
 | A Twist of Fate | 3.00% | ~1 |
 | Strength | 3.00% | ~1 |
 | Eviction | 3.00% | ~1 |

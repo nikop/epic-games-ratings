@@ -6,18 +6,18 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~26,473 |
-| A thief's beginning | 11.00% | ~24,267 |
-| Thorough | 11.00% | ~24,267 |
-| Disguised | 9.00% | ~19,855 |
-| Rescue Takuma | 9.00% | ~19,855 |
-| Rollin' | 9.00% | ~19,855 |
-| Tanuki Time | 9.00% | ~19,855 |
-| Stoned Ox | 8.00% | ~17,649 |
-| Happy Planning | 7.00% | ~15,443 |
-| Ice Ice Yuki | 7.00% | ~15,443 |
-| Jonin | 7.00% | ~15,443 |
-| Yabu | 7.00% | ~15,443 |
+| Genin | 12.00% | ~26,475 |
+| A thief's beginning | 11.00% | ~24,269 |
+| Thorough | 11.00% | ~24,269 |
+| Disguised | 9.00% | ~19,856 |
+| Rescue Takuma | 9.00% | ~19,856 |
+| Rollin' | 9.00% | ~19,856 |
+| Tanuki Time | 9.00% | ~19,856 |
+| Stoned Ox | 8.00% | ~17,650 |
+| Happy Planning | 7.00% | ~15,444 |
+| Ice Ice Yuki | 7.00% | ~15,444 |
+| Jonin | 7.00% | ~15,444 |
+| Yabu | 7.00% | ~15,444 |
 | Chunin | 6.00% | ~13,237 |
 | Flying Rocks | 6.00% | ~13,237 |
 | Mugen Unchained | 6.00% | ~13,237 |
@@ -26,12 +26,12 @@ Number of Ratings: 495  (23.09.2022)
 | Okkoto | 5.00% | ~11,031 |
 | Prisoners | 5.00% | ~11,031 |
 | Too Early | 5.00% | ~11,031 |
-| Gear up | 4.00% | ~8,824 |
-| Noboru | 4.00% | ~8,824 |
-| Still Rollin' | 4.00% | ~8,824 |
-| It's raining men | 3.00% | ~6,618 |
-| Stoned | 3.00% | ~6,618 |
-| The Old Way | 3.00% | ~6,618 |
+| Gear up | 4.00% | ~8,825 |
+| Noboru | 4.00% | ~8,825 |
+| Still Rollin' | 4.00% | ~8,825 |
+| It's raining men | 3.00% | ~6,619 |
+| Stoned | 3.00% | ~6,619 |
+| The Old Way | 3.00% | ~6,619 |
 | Atheist Ox | 2.00% | ~4,412 |
 | No Gimmicks | 2.00% | ~4,412 |
 | Old Man | 2.00% | ~4,412 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~221 |
 | Release the Kraken | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,612 (Ranked 73)  
+Progressed: 220,624 (Ranked 73)  
 Completed: 101 (0.05%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,11 +296,11 @@ Completed: 101 (0.05%) (Ranked 332)
 | 2023-12-18 | 220,163 | 101 |
 | 2023-12-19 | 220,342 | 101 |
 | 2023-12-20 | 220,524 | 101 |
-| 2023-12-21 | 220,612 | 101 |
+| 2023-12-21 | 220,624 | 101 |
 ## Awards
 Max (Great for Beginners): 588  (Ranked 202)  
-Sum: 4,921 (Ranked 145)  
-Diff (max vs sum): 57  
+Sum: 4,921 (Ranked 146)  
+Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 588 |

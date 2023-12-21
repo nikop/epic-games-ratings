@@ -25,7 +25,7 @@
 | Muggy Misha | 3.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 378 (Ranked 349)  
-Completed: 4 (1.06%) (Ranked 170)  
+Completed: 4 (1.06%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

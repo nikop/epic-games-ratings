@@ -1,48 +1,48 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.52 (Ranked 567)  
+Rating: 4.52 (Ranked 566)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 78.00% | ~3,653 |
-| Keep 'Em Coming | 68.00% | ~3,184 |
-| Snatched Out | 67.00% | ~3,138 |
-| Cleaning Lethe, One Nest At A Time | 60.00% | ~2,810 |
-| Call Me Snake | 57.00% | ~2,669 |
-| Something Lurks Under The Hills | 55.00% | ~2,576 |
-| This Was No Papercut | 53.00% | ~2,482 |
-| The Shrink Hates Me | 51.00% | ~2,388 |
-| People Person | 50.00% | ~2,342 |
-| Use The Bumper, That's What It's For | 47.00% | ~2,201 |
-| First Steps Into Madness | 47.00% | ~2,201 |
-| Colonial Barrels | 45.00% | ~2,107 |
-| Harper's Hell | 40.00% | ~1,873 |
-| Making a Stand | 39.00% | ~1,826 |
-| Damn Dude, You Gotta Lose Some Weight! | 37.00% | ~1,733 |
-| Where It All Begun | 35.00% | ~1,639 |
-| Recouped Investment | 34.00% | ~1,592 |
-| The More The Merrier | 30.00% | ~1,405 |
-| Omelette Du Fromage | 29.00% | ~1,358 |
-| Living Nightmare | 29.00% | ~1,358 |
-| The Darwin Era Was Here | 26.00% | ~1,218 |
-| Deep Into Insanity | 25.00% | ~1,171 |
-| The Passenger | 25.00% | ~1,171 |
-| Come on, You Wanna Live Forever? | 24.00% | ~1,124 |
-| The Spire | 23.00% | ~1,077 |
-| El Riesgo Siempre Vive | 21.00% | ~983 |
+| This Is Hayes, Pioneer Station, Signing Off | 78.00% | ~3,656 |
+| Keep 'Em Coming | 68.00% | ~3,187 |
+| Snatched Out | 67.00% | ~3,140 |
+| Cleaning Lethe, One Nest At A Time | 60.00% | ~2,812 |
+| Call Me Snake | 56.00% | ~2,625 |
+| Something Lurks Under The Hills | 55.00% | ~2,578 |
+| This Was No Papercut | 53.00% | ~2,484 |
+| The Shrink Hates Me | 51.00% | ~2,390 |
+| People Person | 50.00% | ~2,344 |
+| Use The Bumper, That's What It's For | 47.00% | ~2,203 |
+| First Steps Into Madness | 47.00% | ~2,203 |
+| Colonial Barrels | 45.00% | ~2,109 |
+| Harper's Hell | 40.00% | ~1,875 |
+| Making a Stand | 39.00% | ~1,828 |
+| Damn Dude, You Gotta Lose Some Weight! | 37.00% | ~1,734 |
+| Where It All Begun | 35.00% | ~1,640 |
+| Recouped Investment | 34.00% | ~1,594 |
+| The More The Merrier | 30.00% | ~1,406 |
+| Omelette Du Fromage | 29.00% | ~1,359 |
+| Living Nightmare | 29.00% | ~1,359 |
+| The Darwin Era Was Here | 26.00% | ~1,219 |
+| Deep Into Insanity | 25.00% | ~1,172 |
+| The Passenger | 25.00% | ~1,172 |
+| Come on, You Wanna Live Forever? | 24.00% | ~1,125 |
+| The Spire | 23.00% | ~1,078 |
+| El Riesgo Siempre Vive | 21.00% | ~984 |
 | Stuff Of Nightmares | 20.00% | ~937 |
 | Excavating The Truth | 20.00% | ~937 |
-| Frontliner | 19.00% | ~890 |
-| Abysmal Horrors | 19.00% | ~890 |
-| One For Every Occasion | 18.00% | ~843 |
-| The Cable Guy | 18.00% | ~843 |
-| Bandage Lover | 17.00% | ~796 |
+| Frontliner | 19.00% | ~891 |
+| Abysmal Horrors | 19.00% | ~891 |
+| One For Every Occasion | 18.00% | ~844 |
+| The Cable Guy | 18.00% | ~844 |
+| Bandage Lover | 17.00% | ~797 |
 | Regicide | 14.00% | ~656 |
 | This Went Smoothly | 12.00% | ~562 |
-| Flawless Victory | 11.00% | ~515 |
-| Heavy Steps | 11.00% | ~515 |
-| Perfect Enhancements | 9.00% | ~421 |
+| Flawless Victory | 11.00% | ~516 |
+| Heavy Steps | 11.00% | ~516 |
+| Perfect Enhancements | 9.00% | ~422 |
 | Hardened In The Heat Of Battle | 7.00% | ~328 |
 | The True Experience | 6.00% | ~281 |
 | Archivist | 2.00% | ~94 |
@@ -51,7 +51,7 @@ Rating: 4.52 (Ranked 567)
 | Chalk It Up To Experience | 0.70% | ~33 |
 | This Ain't No Picnic | 0.60% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,683 (Ranked 201)  
+Progressed: 4,687 (Ranked 201)  
 Completed: 3 (0.06%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 3 (0.06%) (Ranked 325)
 | 2023-12-18 | 4,477 | 3 |
 | 2023-12-19 | 4,563 | 3 |
 | 2023-12-20 | 4,650 | 3 |
-| 2023-12-21 | 4,683 | 3 |
+| 2023-12-21 | 4,687 | 3 |
 ## Awards
 Max (Great Boss Battles): 43  (Ranked 463)  
 Sum: 43 (Ranked 504)  

@@ -63,11 +63,11 @@ Rating: 4.04 (Ranked 1,009)
 | The Alchemist | 4.00% | ~144 |
 | Gear Enchanting | 3.00% | ~108 |
 | Mythic Power | 3.00% | ~108 |
+| What lies behind the bush | 3.00% | ~108 |
 | Cauldron Liberator | 2.00% | ~72 |
 | Enchanting skill x5 | 2.00% | ~72 |
 | Guardian Master | 2.00% | ~72 |
 | Pokerface | 2.00% | ~72 |
-| What lies behind the bush | 2.00% | ~72 |
 | Conqueror | 1.00% | ~36 |
 | Enhanced War Machines | 1.00% | ~36 |
 | Titan Power | 1.00% | ~36 |

@@ -15,6 +15,7 @@ Rating: 4.57 (Ranked 482)
 | Ranged Weapon | 0.30% | ~7 |
 | Defeat 25 Frogs | 0.30% | ~7 |
 | Defeat Croakhis Khan | 0.30% | ~3 |
+| Shield Maiden Yellow Tongue | 0.30% | ~3 |
 | Collect Gold | 0.20% | ~5 |
 | Collect Iron Ore | 0.20% | ~5 |
 | Collect Monster Parts | 0.20% | ~5 |
@@ -25,7 +26,6 @@ Rating: 4.57 (Ranked 482)
 | Defeat 25 Mozis | 0.20% | ~5 |
 | Smithy Ready to Craft | 0.20% | ~5 |
 | Rescue Redgi's Brothers | 0.20% | ~5 |
-| Shield Maiden Yellow Tongue | 0.20% | ~2 |
 | I Remember My First Beer | 0.20% | ~2 |
 | Return the Statues | 0.10% | ~2 |
 | Complete Redgi's Armory | 0.10% | ~2 |

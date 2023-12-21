@@ -23,7 +23,7 @@ Number of Ratings: 85  (23.09.2022)
 | Bodied Sattva | 32.00% | ~25 |
 | Forbidden Donut | 29.00% | ~23 |
 | Rock of the Bay | 24.00% | ~19 |
-| Furon Fashion | 23.00% | ~18 |
+| Furon Fashion | 24.00% | ~19 |
 | Trans-Siberian Express | 23.00% | ~18 |
 | Deincarnated | 22.00% | ~17 |
 | Re-Return of the Clone of the Invasion II-2 | 17.00% | ~13 |

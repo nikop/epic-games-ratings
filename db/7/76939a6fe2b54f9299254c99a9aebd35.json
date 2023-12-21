@@ -4,7 +4,7 @@
   "ProductSlug": "the-smurfs-2-the-prisonner-of-the-green-stone-ba4653",
   "Ranking_EOS_Progress": 714,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 561,
+  "Ranking_EOS_NewPlayers": 560,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-02T09:00:00+00:00",
@@ -129,25 +129,25 @@
       "ID": "CHALLENGE_CHOPTOU",
       "SetID": "1oh5c4a",
       "Name": "Catch them all!",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CHALLENGE_COLTOU",
       "SetID": "1oh5c4a",
       "Name": "Come back to Earth",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CHALLENGE_POUSSTOU",
       "SetID": "1oh5c4a",
       "Name": "Talk to the hand",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CHAP_FOREST_FINISH",
@@ -233,33 +233,33 @@
       "ID": "ULTIMATE_BRAINY",
       "SetID": "1oh5c4a",
       "Name": "The Apprentice Smurf",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ULTIMATE_DIMWITTY",
       "SetID": "1oh5c4a",
       "Name": "Carrot cake",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ULTIMATE_HANDY",
       "SetID": "1oh5c4a",
       "Name": "Ex Machina",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ULTIMATE_STORM",
       "SetID": "1oh5c4a",
       "Name": "Eye of the Lynx",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "UPGRADE_BRAINY_CRYSTAL",
@@ -273,9 +273,9 @@
       "ID": "UPGRADE_CHOPTOU_CRYSTAL",
       "SetID": "1oh5c4a",
       "Name": "Catch as catch can!",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "UPGRADE_COLTOU_CRYSTAL",
@@ -352,8 +352,8 @@
   ],
   "FirstSeen": "2023-11-04T17:03:44.9852977+00:00",
   "FirstSeenAchievements": "2023-10-12T16:06:09.4130672+00:00",
-  "LastChanged_Achievements": "2023-12-21T12:09:37.7367417+00:00",
+  "LastChanged_Achievements": "2023-12-21T13:12:57.8297672+00:00",
   "LastUpdate_AppInfo": "2023-12-21T08:57:14.0596743+00:00",
-  "LastUpdate_Ratings": "2023-12-21T11:57:15.87927+00:00",
-  "LastUpdate_Achievements": "2023-12-21T12:09:37.736761+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:01:26.1757489+00:00",
+  "LastUpdate_Achievements": "2023-12-21T13:12:57.8297892+00:00"
 }

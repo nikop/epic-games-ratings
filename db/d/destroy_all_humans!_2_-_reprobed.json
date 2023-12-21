@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -1007,9 +1007,9 @@
       "ID": "ACH_ENTER_BAYCITY",
       "SetID": "4n84pon",
       "Name": "Rock of the Bay",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1039,9 +1039,9 @@
       "ID": "ACH_KILL_BONGWATER",
       "SetID": "4n84pon",
       "Name": "Bodied Sattva",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -1232,8 +1232,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-21T12:09:27.6335217+00:00",
+  "LastChanged_Achievements": "2023-12-21T13:12:49.9360377+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:43.3974092+00:00",
-  "LastUpdate_Ratings": "2023-12-21T11:59:25.4102792+00:00",
-  "LastUpdate_Achievements": "2023-12-21T12:09:27.6335576+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:02:59.7158879+00:00",
+  "LastUpdate_Achievements": "2023-12-21T13:12:49.9360719+00:00"
 }

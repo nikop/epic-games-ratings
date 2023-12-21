@@ -9,7 +9,7 @@
 | The City | 47.00% | ~397 |
 | The field base | 42.00% | ~354 |
 | Survivors | 35.00% | ~295 |
-| The Alliance | 33.00% | ~279 |
+| The Alliance | 34.00% | ~287 |
 | The Condor | 32.00% | ~270 |
 | The End | 32.00% | ~270 |
 | The Necroevolution | 27.00% | ~228 |

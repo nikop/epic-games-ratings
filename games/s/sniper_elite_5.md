@@ -5,30 +5,30 @@ Rating: 4.45 (Ranked 673)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,913 |
-| Confirming Suspicions | 41.00% | ~1,669 |
-| The Kraken Wakes | 37.00% | ~1,506 |
-| It's Starting to Crack | 34.00% | ~1,384 |
-| Change the Channel | 31.00% | ~1,262 |
-| Lord of War | 30.00% | ~1,221 |
-| Taking it back | 29.00% | ~1,180 |
-| Resourceful | 27.00% | ~1,099 |
-| Target America | 27.00% | ~1,099 |
+| Meeting Resistance | 47.00% | ~1,914 |
+| Confirming Suspicions | 41.00% | ~1,670 |
+| The Kraken Wakes | 37.00% | ~1,507 |
+| It's Starting to Crack | 34.00% | ~1,385 |
+| Change the Channel | 31.00% | ~1,263 |
+| Lord of War | 30.00% | ~1,222 |
+| Taking it back | 29.00% | ~1,181 |
+| Resourceful | 27.00% | ~1,100 |
+| Target America | 27.00% | ~1,100 |
 | The Kraken Sleeps | 25.00% | ~1,018 |
-| As Quiet as a Mouse | 24.00% | ~977 |
-| Liberté | 23.00% | ~936 |
-| Organ Grinder | 23.00% | ~936 |
-| Sharpshooter | 23.00% | ~936 |
-| Gunslinger | 19.00% | ~773 |
-| Explosive Efficiency | 19.00% | ~773 |
+| As Quiet as a Mouse | 24.00% | ~978 |
+| Liberté | 23.00% | ~937 |
+| Organ Grinder | 23.00% | ~937 |
+| Sharpshooter | 23.00% | ~937 |
+| Gunslinger | 19.00% | ~774 |
+| Explosive Efficiency | 19.00% | ~774 |
 | Climbing the Ladder | 17.00% | ~692 |
 | Just a Flesh Wound | 17.00% | ~692 |
 | Der Geist | 17.00% | ~692 |
-| Close Quarters | 16.00% | ~651 |
-| Snake in the Grass | 16.00% | ~651 |
-| Skirmisher | 15.00% | ~610 |
-| Die Nussknacker Sweet! | 15.00% | ~610 |
-| Brains of the Operation | 15.00% | ~610 |
+| Close Quarters | 16.00% | ~652 |
+| Snake in the Grass | 16.00% | ~652 |
+| Skirmisher | 15.00% | ~611 |
+| Die Nussknacker Sweet! | 15.00% | ~611 |
+| Brains of the Operation | 15.00% | ~611 |
 | No Stone Unturned | 14.00% | ~570 |
 | Opposing Force | 14.00% | ~570 |
 | Enemy at the Gates | 14.00% | ~570 |
@@ -36,8 +36,8 @@ Rating: 4.45 (Ranked 673)
 | Set Europe Ablaze | 13.00% | ~529 |
 | Precision Is Key | 10.00% | ~407 |
 | My Little Friend | 10.00% | ~407 |
-| Rigged to Blow | 9.00% | ~366 |
-| Herr Today, Gone Tomorrow | 7.00% | ~281 |
+| Rigged to Blow | 9.00% | ~367 |
+| Herr Today, Gone Tomorrow | 7.00% | ~282 |
 | The Long Game | 6.00% | ~244 |
 | Operation Foxley | 6.00% | ~241 |
 | Strategist | 5.00% | ~204 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 673)
 | Going Overboard | 0.60% | ~24 |
 | Stroll in the Woods | 0.50% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,070 (Ranked 206)  
+Progressed: 4,073 (Ranked 206)  
 Completed: 11 (0.27%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 11 (0.27%) (Ranked 254)
 | 2023-12-18 | 4,057 | 11 |
 | 2023-12-19 | 4,060 | 11 |
 | 2023-12-20 | 4,066 | 11 |
-| 2023-12-21 | 4,070 | 11 |
+| 2023-12-21 | 4,073 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 519)  
 Sum: 28 (Ranked 533)  

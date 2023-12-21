@@ -6,6 +6,8 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Peddler | 2.00% | ~1 |
+| Civilian | 2.00% | ~1 |
 | Pack Rat | 0.00% | ~0 |
 | Banker | 0.00% | ~0 |
 | Entrepreneur | 0.00% | ~0 |
@@ -14,7 +16,6 @@ Number of Ratings: 124  (23.09.2022)
 | Treasure Hunter | 0.00% | ~0 |
 | Storyteller | 0.00% | ~0 |
 | Beam Me Up | 0.00% | ~0 |
-| Peddler | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 | Socializer | 0.00% | ~0 |
 | Long-Haul Flyer | 0.00% | ~0 |
@@ -41,7 +42,6 @@ Number of Ratings: 124  (23.09.2022)
 | Perfectionist | 0.00% | ~0 |
 | Commander | 0.00% | ~0 |
 | Festival-goer | 0.00% | ~0 |
-| Civilian | 0.00% | ~0 |
 | Best Buddy | 0.00% | ~0 |
 | Legendary | 0.00% | ~0 |
 | Family Reunion | 0.00% | ~0 |

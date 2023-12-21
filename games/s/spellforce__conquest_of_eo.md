@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 88.00% | ~59 |
-| Enough rooms to swing a cat | 84.00% | ~56 |
-| First to the post | 84.00% | ~56 |
-| A kind of Magic | 78.00% | ~52 |
-| Connected | 72.00% | ~48 |
-| Expansion | 69.00% | ~46 |
-| Harvest Time | 61.00% | ~41 |
-| Mine! | 61.00% | ~41 |
-| Artificer's Apprentice | 52.00% | ~35 |
-| Fly the friendly Sky | 48.00% | ~32 |
+| Home Sweet Home | 88.00% | ~60 |
+| Enough rooms to swing a cat | 84.00% | ~57 |
+| First to the post | 84.00% | ~57 |
+| A kind of Magic | 78.00% | ~53 |
+| Connected | 71.00% | ~48 |
+| Expansion | 68.00% | ~46 |
+| Harvest Time | 60.00% | ~41 |
+| Mine! | 60.00% | ~41 |
+| Artificer's Apprentice | 51.00% | ~35 |
+| Fly the friendly Sky | 47.00% | ~32 |
 | Get out of here! | 46.00% | ~31 |
-| Necromancer's Apprentice | 43.00% | ~29 |
-| Friend of Lyraine | 42.00% | ~28 |
-| The Circle | 39.00% | ~26 |
-| Alchemist's Apprentice | 39.00% | ~26 |
-| Redecorating | 33.00% | ~22 |
+| Necromancer's Apprentice | 44.00% | ~30 |
+| Friend of Lyraine | 41.00% | ~28 |
+| The Circle | 38.00% | ~26 |
+| Alchemist's Apprentice | 38.00% | ~26 |
+| Redecorating | 32.00% | ~22 |
 | Bad JuJu | 25.00% | ~17 |
 | Slave to the rhythm | 22.00% | ~15 |
 | Friend of Sevenkeeps | 22.00% | ~15 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67 (Ranked 507)  
+Progressed: 68 (Ranked 507)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 63 | 0 |
 | 2023-12-19 | 64 | 0 |
 | 2023-12-20 | 66 | 0 |
-| 2023-12-21 | 67 | 0 |
+| 2023-12-21 | 68 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

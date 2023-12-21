@@ -1699,10 +1699,10 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 163619,
-  "EOS_Completed": 369,
-  "EOS_NewPlayers": 1141,
-  "EOS_NewCompleters": 51,
+  "EOS_Progressed": 163628,
+  "EOS_Completed": 370,
+  "EOS_NewPlayers": 1146,
+  "EOS_NewCompleters": 52,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
@@ -20039,6 +20039,11 @@
       "Time": "2023-12-21T12:07:20.924783+00:00",
       "NumProgressed": 163619,
       "NumCompleted": 369
+    },
+    {
+      "Time": "2023-12-21T13:10:17.0629946+00:00",
+      "NumProgressed": 163628,
+      "NumCompleted": 370
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -20115,7 +20120,7 @@
       "Name": "Taste",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3272
+      "UsersEstimate": 3273
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -20153,9 +20158,9 @@
       "ID": "DEFEAT_FLOWERHEART",
       "SetID": "72k7oh",
       "Name": "Scion",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 490
+      "UsersEstimate": 653
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -20227,7 +20232,7 @@
       "Name": "Feast",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "DEFEAT_WATCHER",
@@ -20267,7 +20272,7 @@
       "Name": "Imprint",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3272
+      "UsersEstimate": 3273
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -20307,7 +20312,7 @@
       "Name": "Yank",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -20315,7 +20320,7 @@
       "Name": "Sharpened Vessel",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -20418,21 +20423,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 163202,
+      "Progressed": 163211,
       "Completed": 1243
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 163619,
-      "Completed": 369
+      "Progressed": 163628,
+      "Completed": 370
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-20T15:59:13.4462939+00:00",
-  "LastChanged_Achievements": "2023-12-21T12:07:20.9247825+00:00",
+  "LastChanged_Achievements": "2023-12-21T13:10:17.0629942+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:23.4801204+00:00",
-  "LastUpdate_Ratings": "2023-12-21T12:00:54.051538+00:00",
-  "LastUpdate_Achievements": "2023-12-21T12:07:20.9248997+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:04:03.9913599+00:00",
+  "LastUpdate_Achievements": "2023-12-21T13:10:17.0630856+00:00"
 }

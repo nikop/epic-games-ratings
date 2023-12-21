@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewPlayers": 389,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -23,9 +23,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 630,
+  "EOS_Progressed": 631,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1748,6 +1748,11 @@
       "Time": "2023-12-21T04:08:29.8245237+00:00",
       "NumProgressed": 630,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T13:10:28.0364583+00:00",
+      "NumProgressed": 631,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1783,7 +1788,7 @@
       "Name": "The Wraith",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "Chapter10",
@@ -1823,7 +1828,7 @@
       "Name": "The Traitor",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "Chapter6",
@@ -1863,7 +1868,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "Collectibles2",
@@ -2046,14 +2051,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 630,
+      "Progressed": 631,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-12-21T12:07:35.5688478+00:00",
+  "LastChanged_Achievements": "2023-12-21T13:10:28.0364578+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:23.8581095+00:00",
-  "LastUpdate_Ratings": "2023-12-21T12:01:26.5206421+00:00",
-  "LastUpdate_Achievements": "2023-12-21T12:07:35.5688733+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:04:27.7110715+00:00",
+  "LastUpdate_Achievements": "2023-12-21T13:10:28.0364886+00:00"
 }

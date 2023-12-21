@@ -7,7 +7,7 @@
   "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
-    "ReleaseDate": "2023-12-31T00:00:00+00:00",
+    "ReleaseDate": "2023-12-21T00:00:00+00:00",
     "PcReleaseDate": "2023-12-21T14:30:00+00:00",
     "isBlockchainUsed": false,
     "isEpicFirstRun": false,
@@ -132,33 +132,33 @@
       "ID": "CompleteGame",
       "SetID": "ao2gjap",
       "Name": "Final Destination",
-      "Percentage": 64,
+      "Percentage": 68,
       "XP": 200,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Document1",
       "SetID": "ao2gjap",
       "Name": "The Seeker in the Shadows",
-      "Percentage": 36,
+      "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Document2",
       "SetID": "ao2gjap",
       "Name": "Document Discoverer",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Document3",
       "SetID": "ao2gjap",
       "Name": "Secrets Revealer",
-      "Percentage": 7,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Document4",
@@ -202,8 +202,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2023-12-21T12:09:56.292675+00:00",
+  "LastChanged_Achievements": "2023-12-21T13:13:12.1364413+00:00",
   "LastUpdate_AppInfo": "2023-12-17T19:57:03.2997714+00:00",
-  "LastUpdate_Ratings": "2023-12-21T11:57:42.6746222+00:00",
-  "LastUpdate_Achievements": "2023-12-21T12:09:56.2926883+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:01:45.5215079+00:00",
+  "LastUpdate_Achievements": "2023-12-21T13:13:12.1364521+00:00"
 }

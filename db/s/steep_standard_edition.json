@@ -3,11 +3,11 @@
   "Name": "Steep Standard Edition",
   "ProductSlug": "steep",
   "Ranking_Rating": 217,
-  "Ranking_Popularity": 569,
-  "Ranking_PopularitySum": 569,
+  "Ranking_Popularity": 570,
+  "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 813,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 561,
+  "Ranking_EOS_NewPlayers": 560,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2016-12-02T08:00:00+00:00",
@@ -538,6 +538,6 @@
   "FirstSeen": "2022-07-22T20:22:40.9407934+00:00",
   "LastChanged": "2023-12-05T20:57:34.5799034+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:13.3903686+00:00",
-  "LastUpdate_Ratings": "2023-12-21T11:59:22.5549057+00:00",
-  "LastUpdate_Achievements": "2023-12-21T12:10:18.0829558+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:02:57.6939322+00:00",
+  "LastUpdate_Achievements": "2023-12-21T13:13:29.1368362+00:00"
 }

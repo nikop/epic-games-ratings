@@ -5,26 +5,26 @@ Rating: 4.20 (Ranked 933)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 14.00% | ~2,571 |
-| Get a Grip | 14.00% | ~2,571 |
-| The Outer Way | 14.00% | ~2,571 |
-| Paper Jams | 13.00% | ~2,387 |
-| Desperate Times | 13.00% | ~2,387 |
+| Flesh Wound | 14.00% | ~2,572 |
+| Get a Grip | 14.00% | ~2,572 |
+| The Outer Way | 14.00% | ~2,572 |
+| Paper Jams | 13.00% | ~2,388 |
+| Desperate Times | 13.00% | ~2,388 |
 | Chew 'Em Up | 11.00% | ~2,020 |
 | Float Like A Butterfly | 11.00% | ~2,020 |
-| Reforged | 10.00% | ~1,836 |
+| Reforged | 10.00% | ~1,837 |
 | Workplace Hazard | 9.00% | ~1,653 |
 | If the SHU Fits... | 9.00% | ~1,653 |
 | Without A Paddle | 8.00% | ~1,469 |
-| Two Heads Are Better Than One | 7.00% | ~1,285 |
-| In the Pipe, Five by Five | 7.00% | ~1,285 |
-| Crash Site | 7.00% | ~1,285 |
+| Two Heads Are Better Than One | 7.00% | ~1,286 |
+| In the Pipe, Five by Five | 7.00% | ~1,286 |
+| Crash Site | 7.00% | ~1,286 |
 | You Need a Gun | 6.00% | ~1,102 |
 | Terminated | 6.00% | ~1,102 |
 | What Lies Beneath | 6.00% | ~1,102 |
 | Full Circle | 6.00% | ~1,102 |
 | Power Up | 6.00% | ~1,102 |
-| Keep Fighting | 6.00% | ~377 |
+| Keep Fighting | 6.00% | ~378 |
 | Giving Back | 5.00% | ~918 |
 | I Do Belong Here | 5.00% | ~918 |
 | It's Time | 4.00% | ~252 |
@@ -53,8 +53,8 @@ Rating: 4.20 (Ranked 933)
 | Bear Trap | 0.10% | ~6 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,362 (Ranked 149)  
-Completed: 82 (0.45%) (Ranked 223)  
+Progressed: 18,368 (Ranked 149)  
+Completed: 82 (0.45%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -290,10 +290,10 @@ Completed: 82 (0.45%) (Ranked 223)
 | 2023-12-18 | 17,946 | 82 |
 | 2023-12-19 | 18,137 | 82 |
 | 2023-12-20 | 18,301 | 82 |
-| 2023-12-21 | 18,362 | 82 |
+| 2023-12-21 | 18,368 | 82 |
 ## Awards
 Max (Amazing Characters): 91  (Ranked 386)  
-Sum: 538 (Ranked 326)  
+Sum: 539 (Ranked 326)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
@@ -303,7 +303,7 @@ Diff (max vs sum): 60
 | This game is Highly Recommended | 88 |
 | This game is Extremely Fun | 81 |
 | This game has Challenging Combat | 66 |
-| This game has a Creative Community | 34 |
+| This game has a Creative Community | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -484,4 +484,4 @@ Diff (max vs sum): 60
 | 2023-12-18 | 4.19 | 88 | 521 |
 | 2023-12-19 | 4.19 | 89 | 526 |
 | 2023-12-20 | 4.19 | 89 | 533 |
-| 2023-12-21 | 4.20 | 91 | 538 |
+| 2023-12-21 | 4.20 | 91 | 539 |

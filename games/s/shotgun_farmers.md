@@ -9,7 +9,7 @@
 | Triple Kill | 62.00% | ~219 |
 | Aspairagus | 60.00% | ~182 |
 | No Asperascope | 58.00% | ~205 |
-| Survivor | 57.00% | ~173 |
+| Survivor | 58.00% | ~176 |
 | Cornivore | 55.00% | ~194 |
 | I Believe I Can Fly | 49.00% | ~173 |
 | No Diggity | 44.00% | ~133 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 353 (Ranked 358)  
+Progressed: 353 (Ranked 359)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
