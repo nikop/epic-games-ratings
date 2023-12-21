@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 412,
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,7 +438,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 604,
+  "EOS_Progressed": 605,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
@@ -2438,6 +2438,11 @@
       "Time": "2023-12-21T06:08:47.5117629+00:00",
       "NumProgressed": 604,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T07:09:18.2829365+00:00",
+      "NumProgressed": 605,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2474,7 +2479,7 @@
       "Name": "Dressed For Success",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "AttackCount",
@@ -2594,7 +2599,7 @@
       "Name": "Double Kill",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "FlameAttackKillCount",
@@ -2881,15 +2886,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 604,
+      "Progressed": 605,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-21T06:08:47.5117628+00:00",
+  "LastChanged_Achievements": "2023-12-21T07:09:18.2829361+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:10.4027668+00:00",
-  "LastUpdate_Ratings": "2023-12-21T05:58:20.8530008+00:00",
-  "LastUpdate_Achievements": "2023-12-21T06:08:47.5118031+00:00"
+  "LastUpdate_Ratings": "2023-12-21T06:58:53.3895228+00:00",
+  "LastUpdate_Achievements": "2023-12-21T07:09:18.2829833+00:00"
 }

@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 135214,
+  "EOS_Progressed": 135215,
   "EOS_Completed": 1202,
-  "EOS_NewPlayers": 1118,
+  "EOS_NewPlayers": 1116,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.89,
   "EosHistory": [
@@ -28258,6 +28258,11 @@
       "Time": "2023-12-21T06:05:18.150387+00:00",
       "NumProgressed": 135214,
       "NumCompleted": 1202
+    },
+    {
+      "Time": "2023-12-21T07:06:00.0250576+00:00",
+      "NumProgressed": 135215,
+      "NumCompleted": 1202
     }
   ],
   "TotalAchievements": 34,
@@ -28277,7 +28282,7 @@
       "Name": "The only thing I have now",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 22986
+      "UsersEstimate": 22987
     },
     {
       "ID": "ACH_GAME_JOURNAL1",
@@ -28325,7 +28330,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 108171
+      "UsersEstimate": 108172
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -28397,7 +28402,7 @@
       "Name": "Seaside Serenade",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 41916
+      "UsersEstimate": 41917
     },
     {
       "ID": "ACH_L03_PIANO",
@@ -28461,7 +28466,7 @@
       "Name": "The Norahnomicon",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 13521
+      "UsersEstimate": 13522
     },
     {
       "ID": "ACH_L05_NAACAL",
@@ -28517,7 +28522,7 @@
       "Name": "Deep Cut",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 32451
+      "UsersEstimate": 32452
     },
     {
       "ID": "ACH_L06_TEMPLE_END",
@@ -28540,7 +28545,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 135214,
+      "Progressed": 135215,
       "Completed": 1202
     }
   ],
@@ -28548,8 +28553,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-11-24T21:59:26.7035134+00:00",
-  "LastChanged_Achievements": "2023-12-21T06:05:18.1503867+00:00",
+  "LastChanged_Achievements": "2023-12-21T07:06:00.0250572+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:18.9849827+00:00",
-  "LastUpdate_Ratings": "2023-12-21T05:58:29.2834603+00:00",
-  "LastUpdate_Achievements": "2023-12-21T06:05:18.1505661+00:00"
+  "LastUpdate_Ratings": "2023-12-21T06:59:01.6260708+00:00",
+  "LastUpdate_Achievements": "2023-12-21T07:06:00.0252366+00:00"
 }

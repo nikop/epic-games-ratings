@@ -9,8 +9,8 @@ Rating: 4.56 (Ranked 498)
 | Map reader | 71.00% | ~73 |
 | Adventurer | 66.00% | ~68 |
 | Philanthropist | 65.00% | ~67 |
+| The brave little tailor | 50.00% | ~52 |
 | Archer | 50.00% | ~52 |
-| The brave little tailor | 49.00% | ~50 |
 | Field hand | 42.00% | ~43 |
 | Samaritan | 40.00% | ~41 |
 | Well-to-do | 39.00% | ~40 |
@@ -22,10 +22,10 @@ Rating: 4.56 (Ranked 498)
 | Family man | 21.00% | ~22 |
 | Death of a legend | 21.00% | ~22 |
 | Archaeologist | 21.00% | ~22 |
+| Wise man | 20.00% | ~21 |
 | Ogre friend | 20.00% | ~21 |
 | The fourth triplet | 20.00% | ~21 |
 | Sidelined | 20.00% | ~21 |
-| Wise man | 19.00% | ~20 |
 | Little hero | 19.00% | ~20 |
 | Hard worker | 18.00% | ~19 |
 | Fence | 18.00% | ~19 |

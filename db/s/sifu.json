@@ -8379,9 +8379,9 @@
       "Count": 434
     }
   ],
-  "EOS_Progressed": 737865,
+  "EOS_Progressed": 737913,
   "EOS_Completed": 12958,
-  "EOS_NewPlayers": 19077,
+  "EOS_NewPlayers": 18906,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.76,
   "EosHistory": [
@@ -30239,6 +30239,11 @@
       "Time": "2023-12-21T06:08:54.0891114+00:00",
       "NumProgressed": 737865,
       "NumCompleted": 12958
+    },
+    {
+      "Time": "2023-12-21T07:09:25.0672597+00:00",
+      "NumProgressed": 737913,
+      "NumCompleted": 12958
     }
   ],
   "TotalAchievements": 60,
@@ -30250,7 +30255,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22136
+      "UsersEstimate": 22137
     },
     {
       "ID": "02_Vengeance_H1",
@@ -30258,7 +30263,7 @@
       "Name": "The Assault",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14757
+      "UsersEstimate": 14758
     },
     {
       "ID": "03_Vengeance_H2",
@@ -30266,7 +30271,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14757
+      "UsersEstimate": 14758
     },
     {
       "ID": "04_Vengeance_H3",
@@ -30298,7 +30303,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 2951
+      "UsersEstimate": 2952
     },
     {
       "ID": "08_Wude_H2",
@@ -30306,7 +30311,7 @@
       "Name": "Tiger on Fire",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 2951
+      "UsersEstimate": 2952
     },
     {
       "ID": "09_Wude_H3",
@@ -30314,7 +30319,7 @@
       "Name": "Source of Flying Daggers",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 2951
+      "UsersEstimate": 2952
     },
     {
       "ID": "10_Wude_H4",
@@ -30362,7 +30367,7 @@
       "Name": "Detective Story",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2951
+      "UsersEstimate": 2952
     },
     {
       "ID": "16_Detective_H2",
@@ -30426,15 +30431,15 @@
       "Name": "Life is your teacher",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22136
+      "UsersEstimate": 22137
     },
     {
       "ID": "24_PermaSkill_Trophy",
       "SetID": "adcm20g",
       "Name": "State of constant learning",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7379
+      "UsersEstimate": 14758
     },
     {
       "ID": "25_ShrineMind",
@@ -30472,9 +30477,9 @@
       "ID": "29_FocusAttack_Trophy",
       "SetID": "adcm20g",
       "Name": "Master of the Phoenix Eye Fist",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 738
+      "UsersEstimate": 1476
     },
     {
       "ID": "30_ComboMid",
@@ -30498,7 +30503,7 @@
       "Name": "Old Child",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14757
+      "UsersEstimate": 14758
     },
     {
       "ID": "33_BladeOneShot",
@@ -30514,7 +30519,7 @@
       "Name": "Lightning Hands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14757
+      "UsersEstimate": 14758
     },
     {
       "ID": "35_WideStrike",
@@ -30586,7 +30591,7 @@
       "Name": "Project Arena",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -30634,7 +30639,7 @@
       "Name": "The best strikes are the ones we avoid",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "50_Arena_GoldTimePerf",
@@ -30729,21 +30734,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 47166,
+      "Progressed": 47214,
       "Completed": 10778
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 737865,
+      "Progressed": 737913,
       "Completed": 12958
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-21T03:02:45.4552135+00:00",
-  "LastChanged_Achievements": "2023-12-21T06:08:54.0891111+00:00",
+  "LastChanged_Achievements": "2023-12-21T07:09:25.0672592+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:50.1499922+00:00",
-  "LastUpdate_Ratings": "2023-12-21T06:03:06.4341192+00:00",
-  "LastUpdate_Achievements": "2023-12-21T06:08:54.089286+00:00"
+  "LastUpdate_Ratings": "2023-12-21T07:03:46.7795466+00:00",
+  "LastUpdate_Achievements": "2023-12-21T07:09:25.0673895+00:00"
 }

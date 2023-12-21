@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2021-07-02T15:00:00+00:00",
     "PcReleaseDate": "2018-03-09T19:16:06+00:00",
@@ -3295,9 +3295,9 @@
       "Count": 197
     }
   ],
-  "EOS_Progressed": 736775,
+  "EOS_Progressed": 736777,
   "EOS_Completed": 772,
-  "EOS_NewPlayers": 830,
+  "EOS_NewPlayers": 829,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -30875,6 +30875,11 @@
       "Time": "2023-12-21T06:10:00.3896805+00:00",
       "NumProgressed": 736775,
       "NumCompleted": 772
+    },
+    {
+      "Time": "2023-12-21T07:10:30.8464316+00:00",
+      "NumProgressed": 736777,
+      "NumCompleted": 772
     }
   ],
   "TotalAchievements": 98,
@@ -30910,7 +30915,7 @@
       "Name": "All Shells",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 110516
+      "UsersEstimate": 110517
     },
     {
       "ID": "Armor",
@@ -30918,7 +30923,7 @@
       "Name": "Armor",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 221032
+      "UsersEstimate": 221033
     },
     {
       "ID": "BallShooter",
@@ -31078,7 +31083,7 @@
       "Name": "Well deserved",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 44206
+      "UsersEstimate": 44207
     },
     {
       "ID": "DiscoveringtheGlobe",
@@ -31094,7 +31099,7 @@
       "Name": "Double Health",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 139987
+      "UsersEstimate": 139988
     },
     {
       "ID": "Doublejump",
@@ -31102,7 +31107,7 @@
       "Name": "Double Jump",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 353652
+      "UsersEstimate": 353653
     },
     {
       "ID": "FireFlies",
@@ -31118,7 +31123,7 @@
       "Name": "Through the fire pipe",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 287342
+      "UsersEstimate": 287343
     },
     {
       "ID": "FliesBeam",
@@ -31134,7 +31139,7 @@
       "Name": "Force Cube",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 390491
+      "UsersEstimate": 390492
     },
     {
       "ID": "Force_Cube_Catapult",
@@ -31246,7 +31251,7 @@
       "Name": "Healthbar",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 405226
+      "UsersEstimate": 405227
     },
     {
       "ID": "Healthregen",
@@ -31254,7 +31259,7 @@
       "Name": "Regeneration",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 346284
+      "UsersEstimate": 346285
     },
     {
       "ID": "HelpedAStar",
@@ -31278,7 +31283,7 @@
       "Name": "Holy Sword",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 169458
+      "UsersEstimate": 169459
     },
     {
       "ID": "Horticultural",
@@ -31334,7 +31339,7 @@
       "Name": "MacGuffin",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 279974
+      "UsersEstimate": 279975
     },
     {
       "ID": "Magic",
@@ -31398,7 +31403,7 @@
       "Name": "Out of bed",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 729407
+      "UsersEstimate": 729409
     },
     {
       "ID": "PanicLights",
@@ -31470,7 +31475,7 @@
       "Name": "That\u0027s how electronics work obviously",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 198929
+      "UsersEstimate": 198930
     },
     {
       "ID": "RedstonePickaxe",
@@ -31518,7 +31523,7 @@
       "Name": "Fast",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 486272
+      "UsersEstimate": 486273
     },
     {
       "ID": "Strong",
@@ -31550,7 +31555,7 @@
       "Name": "Telefrag",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 169458
+      "UsersEstimate": 169459
     },
     {
       "ID": "The_Blues",
@@ -31558,7 +31563,7 @@
       "Name": "The Blues",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 626259
+      "UsersEstimate": 626260
     },
     {
       "ID": "ThroughPipe",
@@ -31598,7 +31603,7 @@
       "Name": "Triple Jump",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 316813
+      "UsersEstimate": 316814
     },
     {
       "ID": "True_Holy_Spirit",
@@ -31606,7 +31611,7 @@
       "Name": "True holy spirit",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 206297
+      "UsersEstimate": 206298
     },
     {
       "ID": "Waldoh",
@@ -31669,15 +31674,15 @@
     {
       "ID": "3m49pn8",
       "IsBase": true,
-      "Progressed": 736775,
+      "Progressed": 736777,
       "Completed": 772
     }
   ],
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1459144+00:00",
   "LastChanged": "2023-12-20T07:02:53.8408173+00:00",
-  "LastChanged_Achievements": "2023-12-21T06:10:00.3896803+00:00",
+  "LastChanged_Achievements": "2023-12-21T07:10:30.8464312+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:50.2923936+00:00",
-  "LastUpdate_Ratings": "2023-12-21T05:57:28.4717472+00:00",
-  "LastUpdate_Achievements": "2023-12-21T06:10:00.3898838+00:00"
+  "LastUpdate_Ratings": "2023-12-21T06:58:01.2227093+00:00",
+  "LastUpdate_Achievements": "2023-12-21T07:10:30.8466713+00:00"
 }

@@ -19,8 +19,8 @@ Number of Ratings: 85  (23.09.2022)
 | Pimp My Raid | 41.00% | ~32 |
 | Ducks in a Row, Fish in a Barrel | 40.00% | ~31 |
 | Freshly Squeezed | 38.00% | ~30 |
+| Upgreatest | 32.00% | ~25 |
 | Bodied Sattva | 32.00% | ~25 |
-| Upgreatest | 31.00% | ~24 |
 | Forbidden Donut | 29.00% | ~23 |
 | Rock of the Bay | 24.00% | ~19 |
 | Furon Fashion | 23.00% | ~18 |

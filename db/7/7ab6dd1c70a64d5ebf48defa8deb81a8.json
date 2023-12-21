@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 950,
+  "EOS_Progressed": 952,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 651,
+  "EOS_NewPlayers": 649,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -1940,6 +1940,11 @@
       "Time": "2023-12-21T06:10:01.4825066+00:00",
       "NumProgressed": 950,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-21T07:10:31.9360439+00:00",
+      "NumProgressed": 952,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1951,7 +1956,7 @@
       "Name": "Break Out",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "ACH_02",
@@ -1999,7 +2004,7 @@
       "Name": "Clear Sight",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_08",
@@ -2063,15 +2068,15 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_16",
       "SetID": "efe2lj",
       "Name": "Essence Blow",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_17",
@@ -2079,7 +2084,7 @@
       "Name": "Shatterer",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_18",
@@ -2119,15 +2124,15 @@
       "Name": "Fine Feathers Make Fine Birds",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_23",
       "SetID": "efe2lj",
       "Name": "Geared Up",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 162
+      "UsersEstimate": 152
     },
     {
       "ID": "ACH_24",
@@ -2151,7 +2156,7 @@
       "Name": "Scholar",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_27",
@@ -2183,7 +2188,7 @@
       "Name": "Alchemist",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACH_31",
@@ -2238,14 +2243,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 950,
+      "Progressed": 952,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-21T06:10:01.4825064+00:00",
+  "LastChanged_Achievements": "2023-12-21T07:10:31.9360436+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
-  "LastUpdate_Ratings": "2023-12-21T05:57:48.4970741+00:00",
-  "LastUpdate_Achievements": "2023-12-21T06:10:01.4825348+00:00"
+  "LastUpdate_Ratings": "2023-12-21T06:58:21.4798557+00:00",
+  "LastUpdate_Achievements": "2023-12-21T07:10:31.9360705+00:00"
 }

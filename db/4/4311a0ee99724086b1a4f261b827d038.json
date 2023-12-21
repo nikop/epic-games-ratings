@@ -767,9 +767,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 238677,
+  "EOS_Progressed": 238682,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1174,
+  "EOS_NewPlayers": 1173,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18217,6 +18217,11 @@
       "Time": "2023-12-21T06:09:58.1110824+00:00",
       "NumProgressed": 238677,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T07:10:28.5868555+00:00",
+      "NumProgressed": 238682,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -18285,7 +18290,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 50122
+      "UsersEstimate": 50123
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -18421,7 +18426,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 16707
+      "UsersEstimate": 16708
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -18485,7 +18490,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 59669
+      "UsersEstimate": 59670
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -18500,7 +18505,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 238677,
+      "Progressed": 238682,
       "Completed": 0
     }
   ],
@@ -18508,8 +18513,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-12-20T01:28:33.075443+00:00",
-  "LastChanged_Achievements": "2023-12-21T06:09:58.1110823+00:00",
+  "LastChanged_Achievements": "2023-12-21T07:10:28.586855+00:00",
   "LastUpdate_AppInfo": "2023-12-15T04:56:59.9211133+00:00",
-  "LastUpdate_Ratings": "2023-12-21T05:59:05.2339101+00:00",
-  "LastUpdate_Achievements": "2023-12-21T06:09:58.1111837+00:00"
+  "LastUpdate_Ratings": "2023-12-21T06:59:37.195507+00:00",
+  "LastUpdate_Achievements": "2023-12-21T07:10:28.5869842+00:00"
 }

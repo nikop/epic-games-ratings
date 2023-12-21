@@ -16,7 +16,7 @@
 | Heroes’ Gorge | 65.00% | ~389 |
 | Master of Magic | 63.00% | ~377 |
 | Unicorn steaks – fresh off the hoof! | 62.00% | ~371 |
-| Magic Accidents | 59.00% | ~353 |
+| Magic Accidents | 60.00% | ~359 |
 | The Ascent | 59.00% | ~353 |
 | It's Warm and Cozy at Home | 59.00% | ~353 |
 | Trap Master | 55.00% | ~329 |

@@ -119,9 +119,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 5828,
+  "EOS_Progressed": 5832,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2645,
+  "EOS_NewPlayers": 2638,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1764,6 +1764,11 @@
       "Time": "2023-12-21T06:09:39.1151702+00:00",
       "NumProgressed": 5828,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T07:10:10.1278205+00:00",
+      "NumProgressed": 5832,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -1776,7 +1781,7 @@
       "Name": "Conspiracy",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "03_TheStolenStar",
@@ -1784,7 +1789,7 @@
       "Name": "Stolen Star",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -1888,7 +1893,7 @@
       "Name": "The Rise",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "17_TheExemplar",
@@ -1904,7 +1909,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "19_TheVoidWolf",
@@ -1912,7 +1917,7 @@
       "Name": "Void Wolf",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -1992,7 +1997,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "30_The GreatestExploration",
@@ -2024,7 +2029,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -2032,7 +2037,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -2295,7 +2300,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 5828,
+      "Progressed": 5832,
       "Completed": 0
     }
   ],
@@ -2303,8 +2308,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-20T22:57:26.2950246+00:00",
-  "LastChanged_Achievements": "2023-12-21T06:09:39.11517+00:00",
+  "LastChanged_Achievements": "2023-12-21T07:10:10.1278201+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:04.5293385+00:00",
-  "LastUpdate_Ratings": "2023-12-21T05:57:34.7748648+00:00",
-  "LastUpdate_Achievements": "2023-12-21T06:09:39.115235+00:00"
+  "LastUpdate_Ratings": "2023-12-21T06:58:07.6609501+00:00",
+  "LastUpdate_Achievements": "2023-12-21T07:10:10.1278711+00:00"
 }

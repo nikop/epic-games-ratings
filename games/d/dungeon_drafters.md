@@ -9,9 +9,9 @@
 | Shine! | 31.00% | ~34 |
 | Friend! | 29.00% | ~32 |
 | Uncut Gem | 28.00% | ~31 |
-| Clear as Water | 25.00% | ~28 |
-| Setting Off | 24.00% | ~26 |
-| Card Collector | 23.00% | ~25 |
+| Clear as Water | 24.00% | ~27 |
+| Setting Off | 23.00% | ~26 |
+| Card Collector | 23.00% | ~26 |
 | Riddlesolver | 21.00% | ~23 |
 | Dungeon Mastery | 19.00% | ~21 |
 | The Steed | 9.00% | ~10 |
@@ -45,7 +45,7 @@
 | Gladiator | 0.90% | ~1 |
 | True Drafter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 110 (Ranked 456)  
+Progressed: 111 (Ranked 456)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-16 | 104 | 0 |
 | 2023-12-17 | 108 | 0 |
 | 2023-12-20 | 109 | 0 |
-| 2023-12-21 | 110 | 0 |
+| 2023-12-21 | 111 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,7 +5,7 @@ Rating: 4.28 (Ranked 870)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~164,493 |
+| Corner Clout | 46.00% | ~164,494 |
 | Copacetic Coordination | 16.00% | ~57,215 |
 | Fronting the Money | 15.00% | ~53,639 |
 | The Dawn of Automation | 14.00% | ~50,063 |
@@ -16,10 +16,10 @@ Rating: 4.28 (Ranked 870)
 | Room in the Back | 12.00% | ~42,911 |
 | Beating the Heat | 11.00% | ~39,335 |
 | Booze Baron | 11.00% | ~39,335 |
-| Friends on the Force | 10.00% | ~35,759 |
-| Neighborhood Watch | 10.00% | ~35,759 |
-| Core Corps | 8.00% | ~28,607 |
-| Sizeable Stash | 8.00% | ~28,607 |
+| Friends on the Force | 10.00% | ~35,760 |
+| Neighborhood Watch | 10.00% | ~35,760 |
+| Core Corps | 8.00% | ~28,608 |
+| Sizeable Stash | 8.00% | ~28,608 |
 | Street Fighter | 7.00% | ~25,032 |
 | Friendly Gestures | 7.00% | ~25,032 |
 | People Person | 7.00% | ~25,032 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 870)
 | High Pillow | 0.10% | ~358 |
 | Station Master | 0.10% | ~358 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 357,593 (Ranked 49)  
+Progressed: 357,595 (Ranked 49)  
 Completed: 7 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,7 +331,7 @@ Completed: 7 (0.00%) (Ranked 384)
 | 2023-12-18 | 357,291 | 7 |
 | 2023-12-19 | 357,404 | 7 |
 | 2023-12-20 | 357,556 | 7 |
-| 2023-12-21 | 357,593 | 7 |
+| 2023-12-21 | 357,595 | 7 |
 ## Awards
 Max (Great for Beginners): 55  (Ranked 431)  
 Sum: 257 (Ranked 389)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1745,9 +1745,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 18330,
+  "EOS_Progressed": 18335,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1719,
+  "EOS_NewPlayers": 1721,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -10530,6 +10530,11 @@
       "Time": "2023-12-21T06:09:20.7772783+00:00",
       "NumProgressed": 18330,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-21T07:09:51.905342+00:00",
+      "NumProgressed": 18335,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -10557,7 +10562,7 @@
       "Name": "Giving Back",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -10573,7 +10578,7 @@
       "Name": "Flesh Wound",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 2566
+      "UsersEstimate": 2567
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -10605,7 +10610,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -10645,7 +10650,7 @@
       "Name": "Get a Grip",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2566
+      "UsersEstimate": 2567
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -10669,7 +10674,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 2016
+      "UsersEstimate": 2017
     },
     {
       "ID": "KILL_ROBOT",
@@ -10701,7 +10706,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2016
+      "UsersEstimate": 2017
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -10709,7 +10714,7 @@
       "Name": "Reforged",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1833
+      "UsersEstimate": 1834
     },
     {
       "ID": "PRINT_WEAPON",
@@ -10717,7 +10722,7 @@
       "Name": "Paper Jams",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2383
+      "UsersEstimate": 2384
     },
     {
       "ID": "SHARE_PHOTO",
@@ -10733,7 +10738,7 @@
       "Name": "The Outer Way",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2566
+      "UsersEstimate": 2567
     },
     {
       "ID": "STORY_ESCAPE",
@@ -10749,7 +10754,7 @@
       "Name": "Without A Paddle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1466
+      "UsersEstimate": 1467
     },
     {
       "ID": "STORY_HANGAR",
@@ -10773,7 +10778,7 @@
       "Name": "Desperate Times",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2383
+      "UsersEstimate": 2384
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -10893,7 +10898,7 @@
       "Name": "Keep Fighting",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -10916,13 +10921,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 18330,
+      "Progressed": 18335,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 6256,
+      "Progressed": 6261,
       "Completed": 29
     }
   ],
@@ -10930,8 +10935,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-21T04:04:45.0236948+00:00",
-  "LastChanged_Achievements": "2023-12-21T06:09:20.777278+00:00",
+  "LastChanged_Achievements": "2023-12-21T07:09:51.9053415+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.4893565+00:00",
-  "LastUpdate_Ratings": "2023-12-21T06:03:17.0253513+00:00",
-  "LastUpdate_Achievements": "2023-12-21T06:09:20.7773584+00:00"
+  "LastUpdate_Ratings": "2023-12-21T07:03:57.4444433+00:00",
+  "LastUpdate_Achievements": "2023-12-21T07:09:51.9054301+00:00"
 }

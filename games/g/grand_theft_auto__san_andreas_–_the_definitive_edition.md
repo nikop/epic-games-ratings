@@ -5,20 +5,20 @@ Rating: 4.55 (Ranked 512)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~12,843 |
-| Pay 'n' Spray | 50.00% | ~7,928 |
-| All Dressed Up for San Fierro | 25.00% | ~3,964 |
-| The American Dream | 19.00% | ~3,013 |
-| School's Out | 18.00% | ~2,854 |
+| Getting Started | 81.00% | ~12,847 |
+| Pay 'n' Spray | 50.00% | ~7,930 |
+| All Dressed Up for San Fierro | 25.00% | ~3,965 |
+| The American Dream | 19.00% | ~3,014 |
+| School's Out | 18.00% | ~2,855 |
 | Smooth Moves | 17.00% | ~2,696 |
-| Today Was a Good Day | 15.00% | ~2,378 |
-| What happens in Las Venturas... | 14.00% | ~2,220 |
-| Horror of the Santa Maria | 11.00% | ~1,744 |
+| Today Was a Good Day | 15.00% | ~2,379 |
+| What happens in Las Venturas... | 14.00% | ~2,221 |
+| Horror of the Santa Maria | 11.00% | ~1,745 |
 | Liberty City State of Mind | 9.00% | ~1,427 |
-| The End of the Line | 8.00% | ~1,268 |
-| Original Gangster | 8.00% | ~1,268 |
+| The End of the Line | 8.00% | ~1,269 |
+| Original Gangster | 8.00% | ~1,269 |
 | With Extra Dip | 7.00% | ~1,110 |
-| Saviour | 6.00% | ~951 |
+| Saviour | 6.00% | ~952 |
 | They Can’t Stop All of Us | 5.00% | ~793 |
 | Rescue a Kitten Too? | 5.00% | ~793 |
 | What are the Odds | 4.00% | ~634 |
@@ -37,11 +37,11 @@ Rating: 4.55 (Ranked 512)
 | Lucky Spinner | 1.00% | ~159 |
 | Not a Player | 1.00% | ~159 |
 | Chick Magnet | 1.00% | ~159 |
-| Remastered | 0.70% | ~111 |
+| Remastered | 0.80% | ~127 |
 | ...Here we go again | 0.50% | ~79 |
 | I Ain't No Buster | 0.40% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,856 (Ranked 159)  
+Progressed: 15,861 (Ranked 158)  
 Completed: 62 (0.39%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 62 (0.39%) (Ranked 231)
 | 2023-12-18 | 15,403 | 59 |
 | 2023-12-19 | 15,594 | 60 |
 | 2023-12-20 | 15,810 | 62 |
-| 2023-12-21 | 15,856 | 62 |
+| 2023-12-21 | 15,861 | 62 |
 ## Awards
 Max (Great Boss Battles): 467  (Ranked 221)  
 Sum: 727 (Ranked 297)  

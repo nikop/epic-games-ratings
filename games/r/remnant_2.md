@@ -5,15 +5,16 @@ Rating: 4.74 (Ranked 162)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 6.00% | ~15,449 |
-| First of Many | 6.00% | ~15,449 |
-| Expanding Horizons | 4.00% | ~10,299 |
-| Not Your Average Trait | 4.00% | ~10,299 |
-| Gleaming the Cube | 3.00% | ~7,724 |
-| Quest for Survival | 3.00% | ~7,724 |
-| Familiar Face | 3.00% | ~7,724 |
-| Boss'n Up | 3.00% | ~7,724 |
-| Trait Chaser | 3.00% | ~7,724 |
+| The Killing Jar | 6.00% | ~15,451 |
+| First of Many | 6.00% | ~15,451 |
+| Expanding Horizons | 4.00% | ~10,301 |
+| Not Your Average Trait | 4.00% | ~10,301 |
+| Gleaming the Cube | 3.00% | ~7,726 |
+| Quest for Survival | 3.00% | ~7,726 |
+| Familiar Face | 3.00% | ~7,726 |
+| Boss'n Up | 3.00% | ~7,726 |
+| Trait Chaser | 3.00% | ~7,726 |
+| Dark Designs | 2.00% | ~5,150 |
 | Not So Special Now | 2.00% | ~5,150 |
 | Not a Janitor | 2.00% | ~5,150 |
 | Equal Measures | 2.00% | ~5,150 |
@@ -31,7 +32,6 @@ Rating: 4.74 (Ranked 162)
 | Forever is a Long Time Coming | 1.00% | ~2,575 |
 | Power Surge | 1.00% | ~2,575 |
 | The God Gambit | 1.00% | ~2,575 |
-| Dark Designs | 1.00% | ~2,575 |
 | Madman's Paradise | 1.00% | ~2,575 |
 | The Agenda | 1.00% | ~2,575 |
 | Bad Moon Rising | 1.00% | ~2,575 |
@@ -39,29 +39,29 @@ Rating: 4.74 (Ranked 162)
 | The Web | 1.00% | ~2,575 |
 | Scrap Collector | 1.00% | ~2,575 |
 | All These Traits� | 1.00% | ~2,575 |
-| Regicide | 1.00% | ~366 |
-| Master of the Dark Arts | 1.00% | ~366 |
-| Edgelord | 0.90% | ~2,317 |
-| Scrap Hoarder | 0.90% | ~2,317 |
-| Carnage in C-Minor | 0.90% | ~2,317 |
-| The Ultimate Weapon | 0.90% | ~2,317 |
+| Regicide | 1.00% | ~367 |
+| Master of the Dark Arts | 1.00% | ~367 |
+| Edgelord | 0.90% | ~2,318 |
+| Scrap Hoarder | 0.90% | ~2,318 |
+| Carnage in C-Minor | 0.90% | ~2,318 |
+| The Ultimate Weapon | 0.90% | ~2,318 |
 | Tall Tales | 0.80% | ~2,060 |
 | No One Should Have All That Power | 0.80% | ~2,060 |
 | Transmutate | 0.80% | ~2,060 |
-| Red Room | 0.70% | ~1,802 |
+| Red Room | 0.70% | ~1,803 |
 | Only Human | 0.60% | ~1,545 |
-| Crafty | 0.50% | ~1,287 |
-| Maxed Out! | 0.50% | ~1,287 |
+| Crafty | 0.50% | ~1,288 |
+| Maxed Out! | 0.50% | ~1,288 |
 | Ghost in the Machine | 0.40% | ~1,030 |
 | The Trigger | 0.40% | ~1,030 |
 | Cutting Edge | 0.40% | ~1,030 |
 | The Collector | 0.40% | ~1,030 |
-| Proving Grounds | 0.30% | ~772 |
+| Proving Grounds | 0.30% | ~773 |
 | Succession | 0.30% | ~110 |
 | You Shall Pass | 0.30% | ~110 |
 | A Foul Feast | 0.20% | ~73 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 257,483 (Ranked 61)  
+Progressed: 257,520 (Ranked 61)  
 Completed: 612 (0.24%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,20 +219,20 @@ Completed: 612 (0.24%) (Ranked 261)
 | 2023-12-18 | 254,063 | 603 |
 | 2023-12-19 | 255,737 | 607 |
 | 2023-12-20 | 257,155 | 610 |
-| 2023-12-21 | 257,483 | 612 |
+| 2023-12-21 | 257,520 | 612 |
 ## Awards
 Max (Great Boss Battles): 3,262  (Ranked 97)  
-Sum: 7,718 (Ranked 113)  
+Sum: 7,737 (Ranked 113)  
 Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 3,262 |
-| This game has Diverse Characters | 504 |
+| This game has Diverse Characters | 511 |
 | This game is Highly Recommended | 478 |
 | This game has Challenging Combat | 471 |
+| This game is Extremely Fun | 468 |
 | This game has Quickly Understood Controls | 462 |
 | This game is Relaxing | 460 |
-| This game is Extremely Fun | 456 |
 | This game has Amazing Storytelling | 455 |
 | This game has Amazing Characters | 441 |
 | This game has Unique Visuals | 395 |
@@ -388,4 +388,4 @@ Diff (max vs sum): -16
 | 2023-12-18 | 4.75 | 3,014 | 7,323 |
 | 2023-12-19 | 4.75 | 3,117 | 7,485 |
 | 2023-12-20 | 4.75 | 3,262 | 7,711 |
-| 2023-12-21 | 4.74 | 3,262 | 7,718 |
+| 2023-12-21 | 4.74 | 3,262 | 7,737 |

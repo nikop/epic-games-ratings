@@ -6,18 +6,18 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 3.00% | ~22,136 |
-| Life is your teacher | 3.00% | ~22,136 |
-| The Assault | 2.00% | ~14,757 |
-| The Hateful Pole Fighter | 2.00% | ~14,757 |
-| Old Child | 2.00% | ~14,757 |
-| Lightning Hands | 2.00% | ~14,757 |
+| The Old Grandmaster | 3.00% | ~22,137 |
+| Life is your teacher | 3.00% | ~22,137 |
+| The Assault | 2.00% | ~14,758 |
+| The Hateful Pole Fighter | 2.00% | ~14,758 |
+| State of constant learning | 2.00% | ~14,758 |
+| Old Child | 2.00% | ~14,758 |
+| Lightning Hands | 2.00% | ~14,758 |
 | A Lady's Blood in the Snow | 1.00% | ~7,379 |
 | Lady Wing Chun | 1.00% | ~7,379 |
 | Kill Nil | 1.00% | ~7,379 |
 | Stuntmaster | 1.00% | ~7,379 |
 | Street Fighting | 1.00% | ~7,379 |
-| State of constant learning | 1.00% | ~7,379 |
 | Qi Gong: Breath | 1.00% | ~7,379 |
 | Qi Gong: Essence | 1.00% | ~7,379 |
 | Path of the Prospect | 1.00% | ~7,379 |
@@ -26,7 +26,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Furious Fists | 0.90% | ~6,641 |
 | I know Kung-Fu | 0.90% | ~6,641 |
 | Take damage to save time | 0.90% | ~6,641 |
-| Project Arena | 0.90% | ~424 |
+| Project Arena | 0.90% | ~425 |
 | Qi Gong: Mind | 0.80% | ~5,903 |
 | Scareless | 0.70% | ~5,165 |
 | Kung-Fu Tussle | 0.70% | ~5,165 |
@@ -34,19 +34,20 @@ Number of Ratings: 9,492  (23.09.2022)
 | Dance of the Praying Mantis | 0.60% | ~4,427 |
 | Martial Hub | 0.60% | ~283 |
 | Bloody Sport | 0.50% | ~236 |
-| Muk Yan Master | 0.40% | ~2,951 |
-| Tiger on Fire | 0.40% | ~2,951 |
-| Source of Flying Daggers | 0.40% | ~2,951 |
-| Detective Story | 0.40% | ~2,951 |
+| Muk Yan Master | 0.40% | ~2,952 |
+| Tiger on Fire | 0.40% | ~2,952 |
+| Source of Flying Daggers | 0.40% | ~2,952 |
+| Detective Story | 0.40% | ~2,952 |
 | Iron Money | 0.30% | ~2,214 |
 | Legendary Talismans of Wuxing | 0.30% | ~2,214 |
 | Prodigal Child | 0.30% | ~2,214 |
 | The 36th Chamber of Kung-Fu | 0.30% | ~2,214 |
 | Sword Stained With Blood | 0.30% | ~2,214 |
-| The best strikes are the ones we avoid | 0.30% | ~141 |
+| The best strikes are the ones we avoid | 0.30% | ~142 |
 | Drunken Fighter | 0.20% | ~1,476 |
 | Martial Artist | 0.20% | ~1,476 |
 | Knowledge Greed | 0.20% | ~1,476 |
+| Master of the Phoenix Eye Fist | 0.20% | ~1,476 |
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,476 |
 | The Pit Protector | 0.20% | ~1,476 |
 | Be like water my friend | 0.20% | ~1,476 |
@@ -56,7 +57,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Skill and an even stronger will | 0.20% | ~94 |
 | Beatmaker | 0.20% | ~94 |
 | Healing Memory | 0.10% | ~738 |
-| Master of the Phoenix Eye Fist | 0.10% | ~738 |
 | Warriors from the Mountain | 0.10% | ~738 |
 | Secure, Protect, Leave | 0.10% | ~47 |
 | Crouching Tiger | 0.10% | ~47 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~47 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 737,865 (Ranked 23)  
+Progressed: 737,913 (Ranked 23)  
 Completed: 12,958 (1.76%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 12,958 (1.76%) (Ranked 140)
 | 2023-12-18 | 734,825 | 12,956 |
 | 2023-12-19 | 736,295 | 12,958 |
 | 2023-12-20 | 737,594 | 12,958 |
-| 2023-12-21 | 737,865 | 12,958 |
+| 2023-12-21 | 737,913 | 12,958 |
 ## Awards
 Max (Great Boss Battles): 6,973  (Ranked 55)  
 Sum: 11,789 (Ranked 87)  

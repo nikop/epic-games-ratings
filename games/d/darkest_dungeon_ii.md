@@ -1,15 +1,15 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 259)  
+Rating: 4.68 (Ranked 258)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 9.00% | ~333 |
-| Lost and Found | 5.00% | ~185 |
-| This Belongs in a Museum | 4.00% | ~5,153 |
-| Autodidact | 4.00% | ~5,153 |
+| Malpractice Assurance | 9.00% | ~334 |
+| Lost and Found | 5.00% | ~186 |
+| This Belongs in a Museum | 4.00% | ~5,154 |
+| Autodidact | 4.00% | ~5,154 |
 | This guy... again? | 4.00% | ~148 |
 | Bloody Graduation | 4.00% | ~148 |
 | Serenity Now! | 3.00% | ~3,865 |
@@ -56,8 +56,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | When You Want Something Done Right | 1.00% | ~1,288 |
 | Worldly Traveller | 1.00% | ~1,288 |
 | Utopia | 1.00% | ~1,288 |
+| Hot Air | 1.00% | ~1,288 |
 | This Looks Familiar | 0.90% | ~1,160 |
-| Hot Air | 0.90% | ~1,160 |
 | Eyes Up | 0.90% | ~1,160 |
 | Slap on the Wrist | 0.80% | ~30 |
 | For Old Time' Sake | 0.80% | ~30 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,836 (Ranked 86)  
+Progressed: 128,841 (Ranked 86)  
 Completed: 3 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 3 (0.00%) (Ranked 384)
 | 2023-12-18 | 128,398 | 3 |
 | 2023-12-19 | 128,605 | 3 |
 | 2023-12-20 | 128,785 | 3 |
-| 2023-12-21 | 128,836 | 3 |
+| 2023-12-21 | 128,841 | 3 |
 ## Awards
 Max (Character Customization): 7,805  (Ranked 50)  
 Sum: 20,865 (Ranked 58)  

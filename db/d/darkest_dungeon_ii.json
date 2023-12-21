@@ -2,7 +2,7 @@
   "ID": "6ff9efdef6dc45ecb40ed20fcd2c4621",
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
-  "Ranking_Rating": 259,
+  "Ranking_Rating": 258,
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 86,
@@ -9978,9 +9978,9 @@
       "Count": 1033
     }
   ],
-  "EOS_Progressed": 128836,
+  "EOS_Progressed": 128841,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2043,
+  "EOS_NewPlayers": 2033,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36068,6 +36068,11 @@
       "Time": "2023-12-21T06:09:18.3594514+00:00",
       "NumProgressed": 128836,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-21T07:09:49.4571278+00:00",
+      "NumProgressed": 128841,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36207,7 +36212,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5153
+      "UsersEstimate": 5154
     },
     {
       "ID": "combat_kill_cadavers",
@@ -36431,7 +36436,7 @@
       "Name": "Autodidact",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5153
+      "UsersEstimate": 5154
     },
     {
       "ID": "hero_story_complete_all",
@@ -36541,9 +36546,9 @@
       "ID": "run_victory_act02",
       "SetID": "64l4lke",
       "Name": "Hot Air",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1288
     },
     {
       "ID": "run_victory_act03",
@@ -36615,7 +36620,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "combat_kill_collector",
@@ -36679,7 +36684,7 @@
       "Name": "Lost and Found",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -36710,21 +36715,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 128836,
+      "Progressed": 128841,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 3705,
+      "Progressed": 3710,
       "Completed": 803
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-21T05:59:42.2275876+00:00",
-  "LastChanged_Achievements": "2023-12-21T06:09:18.3594513+00:00",
+  "LastChanged_Achievements": "2023-12-21T07:09:49.4571274+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-21T05:59:42.2275882+00:00",
-  "LastUpdate_Achievements": "2023-12-21T06:09:18.3596372+00:00"
+  "LastUpdate_Ratings": "2023-12-21T07:00:14.6555388+00:00",
+  "LastUpdate_Achievements": "2023-12-21T07:09:49.4572974+00:00"
 }

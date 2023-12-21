@@ -4575,10 +4575,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7153,
       "NumberOfAwardsMax": 1763
+    },
+    {
+      "Time": "2023-12-21T06:58:30.1552599+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7155,
+      "NumberOfAwardsMax": 1763
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7153,
+  "NumberOfAwards": 7155,
   "NumberOfAwardsMax": 1763,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4604,7 +4610,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 646
+      "Count": 648
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4649,9 +4655,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12554,
+  "EOS_Progressed": 12555,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 251,
+  "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17509,6 +17515,11 @@
       "Time": "2023-12-21T06:10:03.1158781+00:00",
       "NumProgressed": 12554,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T07:10:33.6111788+00:00",
+      "NumProgressed": 12555,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -17720,7 +17731,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1506
+      "UsersEstimate": 1507
     },
     {
       "ID": "28_GreatUpstart",
@@ -18447,21 +18458,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11336,
+      "Progressed": 11337,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12554,
+      "Progressed": 12555,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-12-20T12:57:52.3940671+00:00",
-  "LastChanged_Achievements": "2023-12-21T06:10:03.115878+00:00",
+  "LastChanged": "2023-12-21T06:58:30.1552597+00:00",
+  "LastChanged_Achievements": "2023-12-21T07:10:33.6111782+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.7532096+00:00",
-  "LastUpdate_Ratings": "2023-12-21T05:57:57.4399126+00:00",
-  "LastUpdate_Achievements": "2023-12-21T06:10:03.1160543+00:00"
+  "LastUpdate_Ratings": "2023-12-21T06:58:30.1552604+00:00",
+  "LastUpdate_Achievements": "2023-12-21T07:10:33.611334+00:00"
 }

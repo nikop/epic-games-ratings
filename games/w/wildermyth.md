@@ -38,10 +38,10 @@ Number of Ratings: 45  (23.09.2022)
 | Bonebreakers | 0.50% | ~8 |
 | In Soil, In Smoke | 0.50% | ~8 |
 | All My Birds, Safely Home | 0.50% | ~8 |
+| Tempest | 0.50% | ~8 |
 | Wingknight's Prowess | 0.40% | ~6 |
 | Bears are Scary | 0.40% | ~6 |
 | Grillmaster | 0.40% | ~6 |
-| Tempest | 0.40% | ~6 |
 | Lochias's Hunger | 0.40% | ~6 |
 | We Emerge Changed | 0.30% | ~5 |
 | Worldwalker | 0.30% | ~5 |

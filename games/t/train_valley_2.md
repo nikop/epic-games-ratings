@@ -6,24 +6,24 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~310,363 |
-| Full garage | 61.00% | ~259,345 |
-| To the eyeballs! | 51.00% | ~216,829 |
-| Individual delivery | 47.00% | ~199,823 |
-| Non-Stop | 45.00% | ~191,320 |
-| Juggler | 36.00% | ~153,056 |
-| Forgot something | 35.00% | ~148,804 |
-| Close call! | 30.00% | ~127,546 |
-| Get out my way | 28.00% | ~119,043 |
-| Common cause | 26.00% | ~110,540 |
-| Critical care | 26.00% | ~110,540 |
-| Mega-railroad | 23.00% | ~97,786 |
-| Upgrade complete | 23.00% | ~97,786 |
-| Just in time! | 18.00% | ~76,528 |
-| Builder | 17.00% | ~72,276 |
-| Long Haul | 17.00% | ~72,164 |
+| Dealmaker | 73.00% | ~310,366 |
+| Full garage | 61.00% | ~259,347 |
+| To the eyeballs! | 51.00% | ~216,831 |
+| Individual delivery | 47.00% | ~199,825 |
+| Non-Stop | 45.00% | ~191,322 |
+| Juggler | 36.00% | ~153,057 |
+| Forgot something | 35.00% | ~148,806 |
+| Close call! | 30.00% | ~127,548 |
+| Get out my way | 28.00% | ~119,045 |
+| Common cause | 26.00% | ~110,541 |
+| Critical care | 26.00% | ~110,541 |
+| Mega-railroad | 23.00% | ~97,787 |
+| Upgrade complete | 23.00% | ~97,787 |
+| Just in time! | 18.00% | ~76,529 |
+| Builder | 17.00% | ~72,277 |
+| Long Haul | 17.00% | ~72,165 |
 | Steam Age | 16.00% | ~68,025 |
-| Multilevel road | 15.00% | ~63,773 |
+| Multilevel road | 15.00% | ~63,774 |
 | Bridgemania | 14.00% | ~59,522 |
 | Need to think | 14.00% | ~59,522 |
 | The Tortoise | 12.00% | ~51,019 |
@@ -33,10 +33,10 @@ Number of Ratings: 87  (23.09.2022)
 | Relocation | 10.00% | ~42,516 |
 | Industrial Age | 9.00% | ~38,264 |
 | Just One More Valley | 9.00% | ~38,205 |
-| Prick of conscience | 8.00% | ~34,012 |
+| Prick of conscience | 8.00% | ~34,013 |
 | Missed it! | 7.00% | ~29,761 |
-| At the last moment! | 6.00% | ~25,509 |
-| Overseer | 6.00% | ~25,509 |
+| At the last moment! | 6.00% | ~25,510 |
+| Overseer | 6.00% | ~25,510 |
 | Highlander | 5.00% | ~21,258 |
 | Jewelry accuracy | 5.00% | ~21,258 |
 | Stargazer | 5.00% | ~21,258 |
@@ -67,11 +67,11 @@ Number of Ratings: 87  (23.09.2022)
 | Voyager | 0.60% | ~2,551 |
 | Railroad tycoon | 0.50% | ~2,126 |
 | It's no coincidence | 0.40% | ~1,701 |
-| Miner | 0.30% | ~1,273 |
-| Pink Ruby | 0.30% | ~1,273 |
-| Star Sapphire | 0.30% | ~1,273 |
+| Miner | 0.30% | ~1,274 |
+| Pink Ruby | 0.30% | ~1,274 |
+| Star Sapphire | 0.30% | ~1,274 |
 | The Hare with an espresso | 0.30% | ~1,275 |
-| Trapiche Emerald | 0.30% | ~1,273 |
+| Trapiche Emerald | 0.30% | ~1,274 |
 | Alchemist | 0.20% | ~850 |
 | Tourism Age | 0.20% | ~850 |
 | Urbanization Age | 0.20% | ~850 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~424 |
 | World Zapper | 0.10% | ~424 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 425,155 (Ranked 45)  
+Progressed: 425,159 (Ranked 45)  
 Completed: 23 (0.01%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 23 (0.01%) (Ranked 361)
 | 2023-12-18 | 424,654 | 23 |
 | 2023-12-19 | 424,858 | 23 |
 | 2023-12-20 | 425,102 | 23 |
-| 2023-12-21 | 425,155 | 23 |
+| 2023-12-21 | 425,159 | 23 |
 ## Awards
 Max (Challenging Puzzles): 975  (Ranked 160)  
 Sum: 1,999 (Ranked 216)  
