@@ -23,7 +23,7 @@
 | 21 | [Doodle Devil](games/d/doodle_devil.md) | 21.59% |
 | 22 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 22 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.00% |
-| 24 | [The Riflemen](games/t/the_riflemen.md) | 19.88% |
+| 24 | [The Riflemen](games/t/the_riflemen.md) | 19.87% |
 | 25 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.06% |
 | 26 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 27 | [Island Cities](games/i/island_cities.md) | 16.71% |
@@ -65,16 +65,16 @@
 | 63 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.72% |
 | 64 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 6.67% |
 | 64 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.67% |
-| 66 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.36% |
-| 67 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 6.34% |
-| 68 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 69 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
-| 70 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.18% |
+| 66 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.46% |
+| 67 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.36% |
+| 68 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 6.34% |
+| 69 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
+| 70 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
 | 71 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.88% |
 | 71 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 5.88% |
 | 73 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 73 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 5.56% |
-| 75 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.33% |
+| 75 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.32% |
 | 76 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.00% |
 | 77 | [Bugsnax](games/b/bugsnax.md) | 4.86% |
 | 78 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.74% |
@@ -128,8 +128,8 @@
 | 126 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.49% |
 | 127 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.48% |
 | 128 | [Bloodshore](games/b/bloodshore.md) | 2.46% |
-| 129 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.42% |
-| 130 | [Lamentum](games/l/lamentum.md) | 2.40% |
+| 129 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.40% |
+| 129 | [Lamentum](games/l/lamentum.md) | 2.40% |
 | 131 | [Destiny 2](games/d/destiny_2.md) | 2.39% |
 | 132 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.33% |
 | 132 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 2.33% |
@@ -177,10 +177,10 @@
 | 175 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 0.99% |
 | 176 | [Colossal Cave](games/c/colossal_cave.md) | 0.97% |
 | 177 | [Trifox](games/t/trifox.md) | 0.96% |
-| 178 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.92% |
-| 179 | [A Musical Story](games/a/a_musical_story.md) | 0.91% |
-| 179 | [Hades](games/h/hades.md) | 0.91% |
-| 179 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.91% |
+| 178 | [A Musical Story](games/a/a_musical_story.md) | 0.91% |
+| 178 | [Hades](games/h/hades.md) | 0.91% |
+| 178 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.91% |
+| 181 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.90% |
 | 182 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.89% |
 | 183 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 0.84% |
 | 184 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.83% |
@@ -189,9 +189,9 @@
 | 187 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
 | 188 | [Five Dates](games/f/five_dates.md) | 0.80% |
 | 189 | [Infindustry](games/i/infindustry.md) | 0.78% |
-| 190 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.77% |
-| 191 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
-| 191 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.76% |
+| 190 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
+| 190 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.76% |
+| 190 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.76% |
 | 193 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.72% |
 | 194 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.69% |
 | 195 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.64% |
@@ -260,13 +260,13 @@
 | 258 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.26% |
 | 258 | [Filament](games/f/filament.md) | 0.26% |
 | 258 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.26% |
+| 261 | [It Takes Two](games/i/it_takes_two.md) | 0.24% |
 | 261 | [Remnant 2](games/r/remnant_2.md) | 0.24% |
-| 262 | [Aegis Descent](games/a/aegis_descent.md) | 0.23% |
-| 262 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.23% |
-| 262 | [It Takes Two](games/i/it_takes_two.md) | 0.23% |
-| 265 | [Despot's Game](games/d/despot's_game.md) | 0.22% |
-| 265 | [GRIME](games/g/grime.md) | 0.22% |
-| 265 | [Shop Titans](games/s/shop_titans.md) | 0.22% |
+| 263 | [Aegis Descent](games/a/aegis_descent.md) | 0.23% |
+| 263 | [GRIME](games/g/grime.md) | 0.23% |
+| 263 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.23% |
+| 266 | [Despot's Game](games/d/despot's_game.md) | 0.22% |
+| 266 | [Shop Titans](games/s/shop_titans.md) | 0.22% |
 | 268 | [Against the Storm](games/a/against_the_storm.md) | 0.21% |
 | 268 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
 | 268 | [Dead Space](games/d/dead_space.md) | 0.21% |
