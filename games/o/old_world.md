@@ -6,7 +6,9 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Architect | 0.20% | ~32 |
 | Explorer | 0.20% | ~32 |
+| Intrepid | 0.20% | ~32 |
 | Mason | 0.20% | ~32 |
 | Settler | 0.20% | ~32 |
 | Play a Single Player Game | 0.20% | ~32 |
@@ -42,7 +44,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able | 0.10% | ~16 |
 | Ambitious | 0.10% | ~16 |
 | Ancient | 0.10% | ~16 |
-| Architect | 0.10% | ~16 |
 | Beloved | 0.10% | ~16 |
 | Drillmaster | 0.10% | ~16 |
 | Brilliant | 0.10% | ~16 |
@@ -56,7 +57,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great | 0.10% | ~16 |
 | Holy | 0.10% | ~16 |
 | Intercessor | 0.10% | ~16 |
-| Intrepid | 0.10% | ~16 |
 | Invincible | 0.10% | ~16 |
 | Just | 0.10% | ~16 |
 | Keystone | 0.10% | ~16 |
@@ -81,7 +81,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able Difficulty | 0.10% | ~16 |
 | Glorious Difficulty | 0.10% | ~16 |
 | Good Difficulty | 0.10% | ~16 |
+| Great Difficulty | 0.10% | ~16 |
 | Just Difficulty | 0.10% | ~16 |
+| Magnificent Difficulty | 0.10% | ~16 |
 | Noble Difficulty | 0.10% | ~16 |
 | Strong Difficulty | 0.10% | ~16 |
 | Event Level High | 0.10% | ~16 |
@@ -141,7 +143,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old World Order | 0.10% | ~16 |
 | One True Faith | 0.10% | ~16 |
 | Pantheon of Gods | 0.10% | ~16 |
+| Play a 1-v-1 Game | 0.10% | ~16 |
 | Play a LAN Game | 0.10% | ~16 |
+| Play a Play-By-Cloud Game | 0.10% | ~16 |
 | Power to the People | 0.10% | ~16 |
 | Christianity | 0.10% | ~16 |
 | Judaism | 0.10% | ~16 |
@@ -234,8 +238,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Council of Madness | 0.00% | ~0 |
 | Via Recta Souk in Damascus | 0.00% | ~0 |
 | Oracle in Delphi | 0.00% | ~0 |
-| Great Difficulty | 0.00% | ~0 |
-| Magnificent Difficulty | 0.00% | ~0 |
 | Elephant in Elephantine | 0.00% | ~0 |
 | Ethnic Diversity | 0.00% | ~0 |
 | Et tu Brutus? | 0.00% | ~0 |
@@ -291,12 +293,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Merchants of the Levant | 0.00% | ~0 |
 | Persia | 0.00% | ~0 |
 | Apadana in Parsa | 0.00% | ~0 |
-| Play a 1-v-1 Game | 0.00% | ~0 |
 | Play a Free-For-All Game (>2 Players) | 0.00% | ~0 |
 | Play a Hotseat Game | 0.00% | ~0 |
 | Play a MP Teams Game | 0.00% | ~0 |
 | Play a Network Game | 0.00% | ~0 |
-| Play a Play-By-Cloud Game | 0.00% | ~0 |
 | Punic Wars | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
 | Roman Papacy | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,863 (Ranked 159)  
+Progressed: 15,865 (Ranked 159)  
 Completed: 5 (0.03%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -610,7 +610,7 @@ Completed: 5 (0.03%) (Ranked 345)
 | 2023-12-18 | 15,826 | 5 |
 | 2023-12-19 | 15,840 | 5 |
 | 2023-12-20 | 15,854 | 5 |
-| 2023-12-21 | 15,863 | 5 |
+| 2023-12-21 | 15,865 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 279)  
 Sum: 1,905 (Ranked 220)  

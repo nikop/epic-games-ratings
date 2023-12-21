@@ -30,22 +30,22 @@
 | Ancient Wisdom | 39.00% | ~451 |
 | Frog Facts! | 39.00% | ~451 |
 | All That Glistens | 39.00% | ~451 |
+| It's Pointy! | 38.00% | ~440 |
 | Spellbound | 37.00% | ~428 |
 | Extinct Again! | 37.00% | ~428 |
 | All Skilled Up! | 37.00% | ~428 |
-| It's Pointy! | 37.00% | ~428 |
 | Bird of Prey | 36.00% | ~417 |
 | Stardust | 36.00% | ~417 |
 | Heartbreaker | 36.00% | ~417 |
 | Kidnapped! | 36.00% | ~417 |
 | Pull the Plug | 35.00% | ~405 |
 | Soul Slayer | 35.00% | ~405 |
+| The Downfall | 35.00% | ~405 |
 | All Heart | 35.00% | ~405 |
 | Trick Question! | 35.00% | ~405 |
 | Final Showdown | 35.00% | ~405 |
-| The Downfall | 34.00% | ~393 |
-| Spot of Tea? | 34.00% | ~393 |
-| Going Home | 34.00% | ~393 |
+| Spot of Tea? | 35.00% | ~405 |
+| Going Home | 35.00% | ~405 |
 | Extraordinary! | 33.00% | ~382 |
 | Mirror, Mirror | 32.00% | ~370 |
 | Flower Power | 28.00% | ~324 |

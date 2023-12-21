@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,7 +182,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 252375,
+  "EOS_Progressed": 252376,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 236,
   "EOS_NewCompleters": 0,
@@ -21862,6 +21862,11 @@
       "Time": "2023-12-21T22:10:38.2467556+00:00",
       "NumProgressed": 252375,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-21T23:10:23.3265913+00:00",
+      "NumProgressed": 252376,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -21921,7 +21926,7 @@
       "Name": "Butt Butt",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15142
+      "UsersEstimate": 15143
     },
     {
       "ID": "canYouDigIt",
@@ -22105,7 +22110,7 @@
       "Name": "Muddy Waters",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 35332
+      "UsersEstimate": 35333
     },
     {
       "ID": "myFirstRunbow",
@@ -22177,7 +22182,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55522
+      "UsersEstimate": 55523
     },
     {
       "ID": "thunderstruck",
@@ -22240,7 +22245,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 252375,
+      "Progressed": 252376,
       "Completed": 6
     }
   ],
@@ -22248,8 +22253,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-12-21T22:10:38.2467551+00:00",
+  "LastChanged_Achievements": "2023-12-21T23:10:23.326591+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.4778344+00:00",
-  "LastUpdate_Ratings": "2023-12-21T22:01:02.7198934+00:00",
-  "LastUpdate_Achievements": "2023-12-21T22:10:38.2468696+00:00"
+  "LastUpdate_Ratings": "2023-12-21T23:01:05.232243+00:00",
+  "LastUpdate_Achievements": "2023-12-21T23:10:23.3267352+00:00"
 }

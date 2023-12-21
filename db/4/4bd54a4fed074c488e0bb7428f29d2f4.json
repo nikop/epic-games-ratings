@@ -2,10 +2,10 @@
   "ID": "4bd54a4fed074c488e0bb7428f29d2f4",
   "Name": "1428: Shadows over Silesia",
   "ProductSlug": "1428-shadows-over-silesia-266e5f",
-  "Ranking_EOS_Progress": 538,
+  "Ranking_EOS_Progress": 539,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 520,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 522,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2022-10-04T11:00:00+00:00",
@@ -727,8 +727,8 @@
   ],
   "FirstSeen": "2023-12-02T04:57:46.0113451+00:00",
   "FirstSeenAchievements": "2023-10-30T14:03:47.4515139+00:00",
-  "LastChanged_Achievements": "2023-12-21T22:06:24.9265306+00:00",
+  "LastChanged_Achievements": "2023-12-21T23:06:30.5765831+00:00",
   "LastUpdate_AppInfo": "2023-12-18T17:57:03.2546074+00:00",
-  "LastUpdate_Ratings": "2023-12-21T22:00:43.2401697+00:00",
-  "LastUpdate_Achievements": "2023-12-21T22:06:24.9265798+00:00"
+  "LastUpdate_Ratings": "2023-12-21T23:00:45.4089433+00:00",
+  "LastUpdate_Achievements": "2023-12-21T23:06:30.5766261+00:00"
 }

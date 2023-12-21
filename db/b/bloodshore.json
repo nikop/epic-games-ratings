@@ -4,8 +4,8 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 353,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
     "PcReleaseDate": "2021-11-03T17:00:00+00:00",
@@ -677,9 +677,9 @@
       "ID": "superstar_crossed_lovers",
       "SetID": "84ad177",
       "Name": "Superstar-crossed lovers",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 96
+      "UsersEstimate": 98
     },
     {
       "ID": "thats_my_boy",
@@ -734,8 +734,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-12-21T22:07:02.0107861+00:00",
+  "LastChanged_Achievements": "2023-12-21T23:07:07.3743354+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:59.0408325+00:00",
-  "LastUpdate_Ratings": "2023-12-21T22:03:39.3778748+00:00",
-  "LastUpdate_Achievements": "2023-12-21T22:07:02.0107988+00:00"
+  "LastUpdate_Ratings": "2023-12-21T23:03:40.3980371+00:00",
+  "LastUpdate_Achievements": "2023-12-21T23:07:07.3743459+00:00"
 }

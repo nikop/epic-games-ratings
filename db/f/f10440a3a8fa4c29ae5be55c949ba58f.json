@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 561,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 297,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-12-21T00:00:00+00:00",
     "PcReleaseDate": "2023-12-21T14:30:00+00:00",
@@ -152,17 +152,17 @@
       "ID": "CompleteGame",
       "SetID": "ao2gjap",
       "Name": "Final Destination",
-      "Percentage": 59,
+      "Percentage": 65,
       "XP": 200,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "Document1",
       "SetID": "ao2gjap",
       "Name": "The Seeker in the Shadows",
-      "Percentage": 35,
+      "Percentage": 38,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Document2",
@@ -222,8 +222,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2023-12-21T22:09:53.9495037+00:00",
+  "LastChanged_Achievements": "2023-12-21T23:09:39.3360577+00:00",
   "LastUpdate_AppInfo": "2023-12-17T19:57:03.2997714+00:00",
-  "LastUpdate_Ratings": "2023-12-21T21:57:55.2422737+00:00",
-  "LastUpdate_Achievements": "2023-12-21T22:09:53.9495159+00:00"
+  "LastUpdate_Ratings": "2023-12-21T22:57:56.3953816+00:00",
+  "LastUpdate_Achievements": "2023-12-21T23:09:39.3360645+00:00"
 }

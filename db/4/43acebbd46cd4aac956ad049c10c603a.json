@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -3197,9 +3197,9 @@
       "ID": "TheAllGifted",
       "SetID": "1n308hc",
       "Name": "The All-Gifted",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 151
+      "UsersEstimate": 161
     },
     {
       "ID": "TheEdgeOfForever",
@@ -3318,8 +3318,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-21T22:06:47.8469498+00:00",
+  "LastChanged_Achievements": "2023-12-21T23:06:53.3516893+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-21T22:01:39.9042782+00:00",
-  "LastUpdate_Achievements": "2023-12-21T22:06:47.8469987+00:00"
+  "LastUpdate_Ratings": "2023-12-21T23:01:42.4582323+00:00",
+  "LastUpdate_Achievements": "2023-12-21T23:06:53.3517364+00:00"
 }

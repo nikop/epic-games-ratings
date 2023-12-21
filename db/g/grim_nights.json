@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 514,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 563,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-04-24T23:00:00+00:00",
     "PcReleaseDate": "2018-10-11T22:00:00+00:00",
@@ -345,9 +345,9 @@
       "ID": "ach_boss1",
       "SetID": "c2c0fb6",
       "Name": "Slay it!",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 150,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ach_boss2",
@@ -409,9 +409,9 @@
       "ID": "ach_day5",
       "SetID": "c2c0fb6",
       "Name": "So far so good...",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ach_level2",
@@ -425,9 +425,9 @@
       "ID": "ach_level3",
       "SetID": "c2c0fb6",
       "Name": "Top notch!",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 70,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ach_lose",
@@ -474,8 +474,8 @@
   "FirstSeenRating": "2023-04-28T10:59:29.2849969+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:04.6857767+00:00",
   "LastChanged": "2023-04-28T10:59:29.284997+00:00",
-  "LastChanged_Achievements": "2023-12-21T22:05:52.5289469+00:00",
+  "LastChanged_Achievements": "2023-12-21T23:05:58.0981306+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:47.7726694+00:00",
-  "LastUpdate_Ratings": "2023-12-21T22:03:07.325645+00:00",
-  "LastUpdate_Achievements": "2023-12-21T22:05:52.5289582+00:00"
+  "LastUpdate_Ratings": "2023-12-21T23:03:08.6652793+00:00",
+  "LastUpdate_Achievements": "2023-12-21T23:05:58.0981388+00:00"
 }

@@ -45,8 +45,8 @@ Rating: 4.62 (Ranked 373)
 | Seal the Deal | 1.00% | ~59 |
 | A Conqueror's Cohort | 1.00% | ~59 |
 | Dawn of the Dread | 1.00% | ~59 |
-| God Emperor | 0.90% | ~53 |
-| Lord of Chaos | 0.90% | ~53 |
+| God Emperor | 0.90% | ~54 |
+| Lord of Chaos | 0.90% | ~54 |
 | The Goddess of Nature | 0.80% | ~48 |
 | Grexolis | 0.80% | ~48 |
 | I've Got Everything I Need Right Here | 0.70% | ~42 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 373)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,943 (Ranked 193)  
+Progressed: 5,945 (Ranked 193)  
 Completed: 7 (0.12%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 7 (0.12%) (Ranked 295)
 | 2023-12-18 | 5,842 | 7 |
 | 2023-12-19 | 5,881 | 7 |
 | 2023-12-20 | 5,911 | 7 |
-| 2023-12-21 | 5,943 | 7 |
+| 2023-12-21 | 5,945 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 481)  
 Sum: 113 (Ranked 450)  

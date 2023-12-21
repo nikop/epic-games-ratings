@@ -4,8 +4,8 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 614,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 7.49,
   "EosHistory": [
@@ -2702,9 +2702,9 @@
       "ID": "PriestPistol",
       "SetID": "db30heh",
       "Name": "Unexpected Hit",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 117
+      "UsersEstimate": 123
     },
     {
       "ID": "PriestPoppiesBroth",
@@ -2845,8 +2845,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-12-21T22:05:28.7005121+00:00",
+  "LastChanged_Achievements": "2023-12-21T23:05:33.7606005+00:00",
   "LastUpdate_AppInfo": "2023-12-20T02:56:49.0129985+00:00",
-  "LastUpdate_Ratings": "2023-12-21T21:59:49.7142662+00:00",
-  "LastUpdate_Achievements": "2023-12-21T22:05:28.700555+00:00"
+  "LastUpdate_Ratings": "2023-12-21T22:59:51.9135949+00:00",
+  "LastUpdate_Achievements": "2023-12-21T23:05:33.7606448+00:00"
 }

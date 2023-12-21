@@ -4,47 +4,47 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 80.00% | ~138 |
-| A piece of the story | 58.00% | ~100 |
-| Wanderer | 57.00% | ~99 |
-| It's covered up for a reason | 47.00% | ~81 |
-| Scraps of love | 44.00% | ~76 |
-| The artist’s impression | 43.00% | ~74 |
-| Do what you have to | 42.00% | ~73 |
-| Sign of weakness | 37.00% | ~64 |
-| Refuse to look | 33.00% | ~57 |
+| Something important | 81.00% | ~142 |
+| A piece of the story | 57.00% | ~100 |
+| Wanderer | 57.00% | ~100 |
+| It's covered up for a reason | 46.00% | ~80 |
+| Scraps of love | 43.00% | ~75 |
+| Do what you have to | 42.00% | ~74 |
+| The artist’s impression | 42.00% | ~74 |
+| Sign of weakness | 37.00% | ~65 |
+| Refuse to look | 33.00% | ~58 |
 | Face your fears | 27.00% | ~47 |
-| Finished it | 27.00% | ~47 |
-| Whispers long forgotten | 13.00% | ~22 |
-| A Slice of Life | 10.00% | ~17 |
-| Debut | 10.00% | ~17 |
-| Playtime | 10.00% | ~17 |
-| The art of movement | 10.00% | ~17 |
-| Tough conversation | 10.00% | ~17 |
-| Sound Bite | 9.00% | ~16 |
+| Finished it | 26.00% | ~46 |
+| Whispers long forgotten | 14.00% | ~25 |
+| A Slice of Life | 10.00% | ~18 |
+| Debut | 10.00% | ~18 |
+| Sound Bite | 10.00% | ~18 |
+| Playtime | 10.00% | ~18 |
+| The art of movement | 10.00% | ~18 |
+| Tough conversation | 10.00% | ~18 |
 | The tragedy unfolds | 9.00% | ~16 |
 | A new way | 8.00% | ~14 |
 | Another perspective | 8.00% | ~14 |
 | First steps | 8.00% | ~14 |
 | Lights! Camera! Action! | 8.00% | ~14 |
-| True Reflection | 8.00% | ~14 |
 | Breaking free | 7.00% | ~12 |
+| True Reflection | 7.00% | ~12 |
 | Casting Finished | 6.00% | ~10 |
 | Heavy Burden | 6.00% | ~10 |
+| Instinct of self-preservation | 5.00% | ~9 |
 | Fisherman | 5.00% | ~9 |
 | We Are Not Alone | 4.00% | ~7 |
-| Instinct of self-preservation | 4.00% | ~7 |
 | The Perfect Storm | 3.00% | ~5 |
-| Something to think about | 2.00% | ~3 |
-| I remember It Like Was Yesterday | 2.00% | ~3 |
-| Body of Work | 2.00% | ~3 |
-| Dark correspondence | 2.00% | ~3 |
-| It was worth a try | 2.00% | ~3 |
-| Immortalized in my heart | 2.00% | ~3 |
-| Full Scoop | 2.00% | ~3 |
-| Preferred Parent | 2.00% | ~3 |
-| Se7en Seas | 2.00% | ~3 |
-| A Mosaic of Misery | 2.00% | ~3 |
+| Something to think about | 2.00% | ~4 |
+| I remember It Like Was Yesterday | 2.00% | ~4 |
+| Body of Work | 2.00% | ~4 |
+| Dark correspondence | 2.00% | ~4 |
+| It was worth a try | 2.00% | ~4 |
+| Immortalized in my heart | 2.00% | ~4 |
+| Full Scoop | 2.00% | ~4 |
+| Preferred Parent | 2.00% | ~4 |
+| Se7en Seas | 2.00% | ~4 |
+| A Mosaic of Misery | 2.00% | ~4 |
 | The Big Picture | 1.00% | ~2 |
 | In One Take | 1.00% | ~2 |
 | Rocket Science | 1.00% | ~2 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 173 (Ranked 415)  
+Progressed: 175 (Ranked 414)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,4 +116,4 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 152 | 0 |
 | 2023-12-19 | 159 | 0 |
 | 2023-12-20 | 162 | 0 |
-| 2023-12-21 | 173 | 0 |
+| 2023-12-21 | 175 | 0 |

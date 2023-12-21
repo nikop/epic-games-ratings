@@ -5,12 +5,13 @@ Rating: 4.71 (Ranked 197)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Audiophile | 0.10% | ~8 |
 | Energy Saver | 0.10% | ~8 |
 | In a Pinch | 0.10% | ~8 |
+| Snip Snip | 0.10% | ~8 |
 | The Journey Onwards | 0.10% | ~8 |
 | Ahem Ahem | 0.00% | ~0 |
 | Arrr! | 0.00% | ~0 |
-| Audiophile | 0.00% | ~0 |
 | Body and Soul | 0.00% | ~0 |
 | Ça de Wizz! | 0.00% | ~0 |
 | Clay Pigeon | 0.00% | ~0 |
@@ -23,11 +24,10 @@ Rating: 4.71 (Ranked 197)
 | Liberator | 0.00% | ~0 |
 | Live Wire | 0.00% | ~0 |
 | Shredder | 0.00% | ~0 |
-| Snip Snip | 0.00% | ~0 |
 | Soul-Canon | 0.00% | ~0 |
 | Thing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,173 (Ranked 182)  
+Progressed: 8,174 (Ranked 182)  
 Completed: 34 (0.42%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 34 (0.42%) (Ranked 227)
 | 2023-12-18 | 8,112 | 34 |
 | 2023-12-19 | 8,131 | 34 |
 | 2023-12-20 | 8,142 | 34 |
-| 2023-12-21 | 8,173 | 34 |
+| 2023-12-21 | 8,174 | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

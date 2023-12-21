@@ -10,10 +10,10 @@ Rating: 4.63 (Ranked 353)
 | ... And Spit Back Out | 1.00% | ~86 |
 | Bramble Breaker | 1.00% | ~86 |
 | Calm Sailing | 0.90% | ~77 |
+| Open the Gate! | 0.90% | ~77 |
 | Miner 49er | 0.90% | ~77 |
 | Break-Net Speed | 0.90% | ~77 |
-| Open the Gate! | 0.80% | ~69 |
-| Humble Collector | 0.70% | ~60 |
+| Humble Collector | 0.80% | ~69 |
 | Mist Walker | 0.70% | ~60 |
 | Lumberjack | 0.60% | ~51 |
 | Exit Through The Gift Shop | 0.60% | ~7 |

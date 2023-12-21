@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -4384,7 +4384,7 @@
       "ID": "TravelToBrightFirForest",
       "SetID": "cbf1i0c",
       "Name": "The Bright Fir",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
       "UsersEstimate": 5
     }
@@ -4407,8 +4407,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-12-21T19:58:12.3582087+00:00",
-  "LastChanged_Achievements": "2023-12-21T22:04:45.4891802+00:00",
+  "LastChanged_Achievements": "2023-12-21T23:04:47.3554644+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:33.7739845+00:00",
-  "LastUpdate_Ratings": "2023-12-21T21:58:25.5768906+00:00",
-  "LastUpdate_Achievements": "2023-12-21T22:04:45.4892176+00:00"
+  "LastUpdate_Ratings": "2023-12-21T22:58:26.9522724+00:00",
+  "LastUpdate_Achievements": "2023-12-21T23:04:47.3554967+00:00"
 }

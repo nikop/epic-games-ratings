@@ -4,8 +4,8 @@
   "ProductSlug": "the-invincible",
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 853,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 249,
+  "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2329,9 +2329,9 @@
       "ID": "AchvBattleScore",
       "SetID": "1hj060c",
       "Name": "Fierce fight",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 154
     },
     {
       "ID": "AchvBombStop",
@@ -2393,9 +2393,9 @@
       "ID": "AchvInvShip",
       "SetID": "1hj060c",
       "Name": "Another giant",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 94
+      "UsersEstimate": 102
     },
     {
       "ID": "AchvKrautaAlive",
@@ -2497,9 +2497,9 @@
       "ID": "AchvReachCondor",
       "SetID": "1hj060c",
       "Name": "The Condor",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 281
+      "UsersEstimate": 290
     },
     {
       "ID": "AchvSurvivors",
@@ -2521,9 +2521,9 @@
       "ID": "AchvTheEnd",
       "SetID": "1hj060c",
       "Name": "The End",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 55,
-      "UsersEstimate": 273
+      "UsersEstimate": 281
     },
     {
       "ID": "AchvUnity",
@@ -2544,8 +2544,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-21T22:10:06.9762104+00:00",
+  "LastChanged_Achievements": "2023-12-21T23:09:52.3010149+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.232501+00:00",
-  "LastUpdate_Ratings": "2023-12-21T22:00:12.7777831+00:00",
-  "LastUpdate_Achievements": "2023-12-21T22:10:06.9762537+00:00"
+  "LastUpdate_Ratings": "2023-12-21T23:00:14.2938351+00:00",
+  "LastUpdate_Achievements": "2023-12-21T23:09:52.3010405+00:00"
 }

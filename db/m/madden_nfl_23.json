@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -949,9 +949,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4089,
+  "EOS_Progressed": 4090,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7479,6 +7479,11 @@
       "Time": "2023-12-21T21:04:45.5061997+00:00",
       "NumProgressed": 4089,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T23:05:46.8600599+00:00",
+      "NumProgressed": 4090,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -7499,7 +7504,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 2249
+      "UsersEstimate": 2250
     },
     {
       "ID": "achievement_11",
@@ -7523,7 +7528,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 2167
+      "UsersEstimate": 2168
     },
     {
       "ID": "achievement_14",
@@ -7539,7 +7544,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 2208
+      "UsersEstimate": 2209
     },
     {
       "ID": "achievement_16",
@@ -7547,7 +7552,7 @@
       "Name": "ROTY",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1309
     },
     {
       "ID": "achievement_17",
@@ -7658,7 +7663,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4089,
+      "Progressed": 4090,
       "Completed": 0
     }
   ],
@@ -7666,8 +7671,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-12-21T01:44:12.9445895+00:00",
-  "LastChanged_Achievements": "2023-12-21T22:05:41.4009241+00:00",
+  "LastChanged_Achievements": "2023-12-21T23:05:46.8600596+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:51.9510539+00:00",
-  "LastUpdate_Ratings": "2023-12-21T21:59:13.782139+00:00",
-  "LastUpdate_Achievements": "2023-12-21T22:05:41.4009649+00:00"
+  "LastUpdate_Ratings": "2023-12-21T22:59:15.9376387+00:00",
+  "LastUpdate_Achievements": "2023-12-21T23:05:46.8600949+00:00"
 }

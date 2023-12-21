@@ -6,14 +6,14 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,397 |
-| A Spark | 19.00% | ~2,390 |
+| Devoured by Darkness | 27.00% | ~3,398 |
+| A Spark | 19.00% | ~2,391 |
 | Burning City | 18.00% | ~2,265 |
 | Defender's Heart | 16.00% | ~2,013 |
-| Mythic Choices | 15.00% | ~1,887 |
-| Banner over the Citadel | 14.00% | ~1,761 |
+| Mythic Choices | 15.00% | ~1,888 |
+| Banner over the Citadel | 14.00% | ~1,762 |
 | Queen's Gratitude | 12.00% | ~1,510 |
-| Fifth Crusade | 9.00% | ~1,132 |
+| Fifth Crusade | 9.00% | ~1,133 |
 | Embrace of the Abyss | 7.00% | ~881 |
 | Path of the Angel | 7.00% | ~881 |
 | Demonic and Divine | 7.00% | ~881 |
@@ -30,11 +30,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | Mythic Reinforcements | 4.00% | ~503 |
 | A Flame | 4.00% | ~503 |
 | Hey, I Know You! | 4.00% | ~503 |
-| Path of the Trickster | 3.00% | ~377 |
-| Path of the Lich | 3.00% | ~377 |
-| Heroic Victory | 3.00% | ~377 |
-| Capitulation Is Now Moot | 3.00% | ~377 |
-| Core of the Riddle | 3.00% | ~377 |
+| Path of the Trickster | 3.00% | ~378 |
+| Path of the Lich | 3.00% | ~378 |
+| Heroic Victory | 3.00% | ~378 |
+| Capitulation Is Now Moot | 3.00% | ~378 |
+| Core of the Riddle | 3.00% | ~378 |
 | Hanged Man's Notes | 3.00% | ~341 |
 | Sarkoris Will Be Green | 3.00% | ~341 |
 | The Lady of the Forest | 3.00% | ~341 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,581 (Ranked 168)  
+Progressed: 12,584 (Ranked 168)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -368,7 +368,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 12,490 | 0 |
 | 2023-12-19 | 12,526 | 0 |
 | 2023-12-20 | 12,550 | 0 |
-| 2023-12-21 | 12,581 | 0 |
+| 2023-12-21 | 12,584 | 0 |
 ## Awards
 Max (Character Customization): 1,763  (Ranked 124)  
 Sum: 7,156 (Ranked 123)  

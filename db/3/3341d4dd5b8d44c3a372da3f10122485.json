@@ -2,10 +2,10 @@
   "ID": "3341d4dd5b8d44c3a372da3f10122485",
   "Name": "Samorost 2",
   "ProductSlug": "samorost-2-1b9bb1",
-  "Ranking_EOS_Progress": 409,
+  "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 7,
-  "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2005-12-08T12:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 182,
+  "EOS_Progressed": 183,
   "EOS_Completed": 81,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 44.51,
+  "EOS_Completed_Percentage": 44.26,
   "EosHistory": [
     {
       "Time": "2023-06-30T19:02:26.4579198+00:00",
@@ -1239,6 +1239,11 @@
       "Time": "2023-12-21T20:09:22.3139799+00:00",
       "NumProgressed": 182,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-12-21T23:09:13.1474373+00:00",
+      "NumProgressed": 183,
+      "NumCompleted": 81
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.1574321+00:00",
@@ -1251,7 +1256,7 @@
       "Name": "Budoir",
       "Percentage": 67,
       "XP": 80,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "Intro",
@@ -1259,23 +1264,23 @@
       "Name": "Intro",
       "Percentage": 97,
       "XP": 75,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "Kanalizace",
       "SetID": "823jm6g",
       "Name": "Sewers",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 75,
-      "UsersEstimate": 144
+      "UsersEstimate": 143
     },
     {
       "ID": "Kompotarna",
       "SetID": "823jm6g",
       "Name": "Pantry",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 80,
-      "UsersEstimate": 146
+      "UsersEstimate": 145
     },
     {
       "ID": "Konec",
@@ -1313,17 +1318,17 @@
       "ID": "Planina",
       "SetID": "823jm6g",
       "Name": "Plain",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 80,
-      "UsersEstimate": 115
+      "UsersEstimate": 113
     },
     {
       "ID": "Poklop",
       "SetID": "823jm6g",
       "Name": "Hatch",
-      "Percentage": 86,
+      "Percentage": 85,
       "XP": 75,
-      "UsersEstimate": 157
+      "UsersEstimate": 156
     },
     {
       "ID": "Snekoun",
@@ -1331,7 +1336,7 @@
       "Name": "Snailman",
       "Percentage": 85,
       "XP": 80,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "Sopouch",
@@ -1345,23 +1350,23 @@
       "ID": "Tuleni",
       "SetID": "823jm6g",
       "Name": "Seal Peaks",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 75,
-      "UsersEstimate": 96
+      "UsersEstimate": 95
     }
   ],
   "AchievementSets": [
     {
       "ID": "823jm6g",
       "IsBase": true,
-      "Progressed": 182,
+      "Progressed": 183,
       "Completed": 81
     }
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-12-21T22:09:27.8181606+00:00",
+  "LastChanged_Achievements": "2023-12-21T23:09:13.1474368+00:00",
   "LastUpdate_AppInfo": "2023-12-16T05:57:11.9761332+00:00",
-  "LastUpdate_Ratings": "2023-12-21T22:01:04.864251+00:00",
-  "LastUpdate_Achievements": "2023-12-21T22:09:27.818176+00:00"
+  "LastUpdate_Ratings": "2023-12-21T23:01:07.1969528+00:00",
+  "LastUpdate_Achievements": "2023-12-21T23:09:13.1474515+00:00"
 }

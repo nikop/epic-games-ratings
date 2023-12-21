@@ -2,13 +2,13 @@
   "ID": "lavender",
   "Name": "Beyond Two Souls",
   "ProductSlug": "beyond-two-souls",
-  "Ranking_Rating": 280,
+  "Ranking_Rating": 259,
   "Ranking_Popularity": 410,
   "Ranking_PopularitySum": 478,
   "Ranking_EOS_Progress": 813,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 563,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2019-07-22T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.67,
+  "Rating": 4.68,
   "NumberOfRatings": 348,
   "RatingHistory": [
     {
@@ -499,6 +499,12 @@
       "Rating": 4.67,
       "NumberOfAwards": 71,
       "NumberOfAwardsMax": 71
+    },
+    {
+      "Time": "2023-12-21T22:57:43.0191649+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 71,
+      "NumberOfAwardsMax": 71
     }
   ],
   "ReviewsDisabled": false,
@@ -524,8 +530,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:51.5955427+00:00",
-  "LastChanged": "2023-12-18T23:00:13.8942519+00:00",
+  "LastChanged": "2023-12-21T22:57:43.0191647+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:38.3297251+00:00",
-  "LastUpdate_Ratings": "2023-12-21T21:57:42.0096764+00:00",
-  "LastUpdate_Achievements": "2023-12-21T22:10:06.7160819+00:00"
+  "LastUpdate_Ratings": "2023-12-21T22:57:43.0191652+00:00",
+  "LastUpdate_Achievements": "2023-12-21T23:09:52.0293322+00:00"
 }

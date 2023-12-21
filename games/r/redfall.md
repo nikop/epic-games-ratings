@@ -41,6 +41,7 @@ Rating: 3.56 (Ranked 1,064)
 | Revelations | 0.80% | ~16 |
 | Block Party | 0.80% | ~16 |
 | Curious Finch | 0.80% | ~16 |
+| Bloody Initiate | 0.50% | ~10 |
 | Right This Way | 0.50% | ~10 |
 | Dexterity Save | 0.50% | ~10 |
 | Neighborhood Watch | 0.40% | ~8 |
@@ -48,7 +49,6 @@ Rating: 3.56 (Ranked 1,064)
 | Sisterhood | 0.40% | ~8 |
 | What Lies Below | 0.40% | ~8 |
 | Empty Nest Syndrome | 0.40% | ~8 |
-| Bloody Initiate | 0.40% | ~8 |
 | Good Samaritan | 0.40% | ~8 |
 | Friendgineering | 0.30% | ~6 |
 | So Anyway I Started Blasting | 0.30% | ~6 |
@@ -72,7 +72,7 @@ Rating: 3.56 (Ranked 1,064)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,977 (Ranked 236)  
+Progressed: 1,977 (Ranked 237)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |

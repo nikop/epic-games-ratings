@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2172,9 +2172,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15863,
+  "EOS_Progressed": 15865,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18057,6 +18057,11 @@
       "Time": "2023-12-21T22:10:39.0068968+00:00",
       "NumProgressed": 15863,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-21T23:10:24.247248+00:00",
+      "NumProgressed": 15865,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -18418,9 +18423,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_ARCHITECT",
       "SetID": "9201eeb",
       "Name": "Architect",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AVENGER",
@@ -18554,9 +18559,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_INTREPID",
       "SetID": "9201eeb",
       "Name": "Intrepid",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
@@ -18826,9 +18831,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_GREAT",
       "SetID": "7l38kb8",
       "Name": "Great Difficulty",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_JUST",
@@ -18842,9 +18847,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_MAGNIFICENT",
       "SetID": "7l38kb8",
       "Name": "Magnificent Difficulty",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_NOBLE",
@@ -19762,9 +19767,9 @@
       "ID": "ACHIEVEMENT_PLAY_1V1",
       "SetID": "9201eeb",
       "Name": "Play a 1-v-1 Game",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_PLAY_FFA",
@@ -19810,9 +19815,9 @@
       "ID": "ACHIEVEMENT_PLAY_PLAYBYCLOUD",
       "SetID": "9201eeb",
       "Name": "Play a Play-By-Cloud Game",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_PLAY_SINGLEPLAYER",
@@ -20931,21 +20936,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15863,
+      "Progressed": 15865,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15863,
+      "Progressed": 15865,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-21T01:48:44.1957278+00:00",
-  "LastChanged_Achievements": "2023-12-21T22:10:39.0068962+00:00",
+  "LastChanged_Achievements": "2023-12-21T23:10:24.2472477+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:47.4773202+00:00",
-  "LastUpdate_Ratings": "2023-12-21T22:03:15.8280306+00:00",
-  "LastUpdate_Achievements": "2023-12-21T22:10:39.0078783+00:00"
+  "LastUpdate_Ratings": "2023-12-21T23:03:16.8486347+00:00",
+  "LastUpdate_Achievements": "2023-12-21T23:10:24.2482602+00:00"
 }

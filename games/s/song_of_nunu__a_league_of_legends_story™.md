@@ -9,7 +9,7 @@ Rating: 4.50 (Ranked 603)
 | I Broke It | 73.00% | ~928 |
 | Better On Ice | 68.00% | ~864 |
 | Notai Notes | 67.00% | ~852 |
-| Blue Dreams | 65.00% | ~826 |
+| Blue Dreams | 66.00% | ~839 |
 | He's Famous! | 65.00% | ~826 |
 | Cutie Poro | 65.00% | ~826 |
 | Krugmazing | 64.00% | ~813 |

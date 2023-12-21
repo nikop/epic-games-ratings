@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -403,9 +403,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1449,
+  "EOS_Progressed": 1452,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3543,6 +3543,11 @@
       "Time": "2023-12-21T18:09:40.8304065+00:00",
       "NumProgressed": 1449,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T23:10:32.840889+00:00",
+      "NumProgressed": 1452,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -3602,7 +3607,7 @@
       "Name": "Double agent",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "EARLY_ACCESS_1",
@@ -3610,7 +3615,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1435
+      "UsersEstimate": 1437
     },
     {
       "ID": "EXPERT_1",
@@ -3626,7 +3631,7 @@
       "Name": "Explorer",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "GHOSTBUSTER",
@@ -3682,7 +3687,7 @@
       "Name": "Love Guru",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "NEANDERTHAL_1",
@@ -3706,7 +3711,7 @@
       "Name": "One HIT wonder",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -3714,7 +3719,7 @@
       "Name": "One shot, one kill",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "PACIFIST",
@@ -3730,7 +3735,7 @@
       "Name": "Paranoia",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "PRIVATE_EYE",
@@ -3746,7 +3751,7 @@
       "Name": "Protection racket",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "RELICTS",
@@ -3786,7 +3791,7 @@
       "Name": "Secret room",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "SHOG",
@@ -3794,7 +3799,7 @@
       "Name": "Cosmic Horror",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "SUPERHUMAN_1",
@@ -3826,7 +3831,7 @@
       "Name": "Wanderer",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "WISHMASTER_1",
@@ -3834,22 +3839,22 @@
       "Name": "Wishmaster",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     }
   ],
   "AchievementSets": [
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1449,
+      "Progressed": 1452,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-11-03T17:57:55.7845483+00:00",
-  "LastChanged_Achievements": "2023-12-21T22:10:48.1913958+00:00",
+  "LastChanged_Achievements": "2023-12-21T23:10:32.8408888+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:19.4071615+00:00",
-  "LastUpdate_Ratings": "2023-12-21T21:59:15.2890946+00:00",
-  "LastUpdate_Achievements": "2023-12-21T22:10:48.1914276+00:00"
+  "LastUpdate_Ratings": "2023-12-21T22:59:17.2218814+00:00",
+  "LastUpdate_Achievements": "2023-12-21T23:10:32.8409206+00:00"
 }

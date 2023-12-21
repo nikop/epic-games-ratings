@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
     "PcReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 402,
+  "EOS_Progressed": 403,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1389,6 +1389,11 @@
       "Time": "2023-12-21T21:09:45.4436743+00:00",
       "NumProgressed": 402,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T23:10:12.187744+00:00",
+      "NumProgressed": 403,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -1439,9 +1444,9 @@
       "ID": "HYPNO_OUTLIER_ID",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Self Aware",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 32
     },
     {
       "ID": "HYPNO_OUTLIER_ONLY_ID",
@@ -1513,7 +1518,7 @@
       "Name": "Timejinx: The Perfect Date",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -1521,7 +1526,7 @@
       "Name": "Timejinx: The Perfect Guest",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "TKO2_BEACH_LIFE",
@@ -1560,14 +1565,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 402,
+      "Progressed": 403,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-21T22:10:27.0010434+00:00",
+  "LastChanged_Achievements": "2023-12-21T23:10:12.1877435+00:00",
   "LastUpdate_AppInfo": "2023-12-16T01:42:15.0489028+00:00",
-  "LastUpdate_Ratings": "2023-12-21T22:03:07.158583+00:00",
-  "LastUpdate_Achievements": "2023-12-21T22:10:27.0010596+00:00"
+  "LastUpdate_Ratings": "2023-12-21T23:03:08.4976531+00:00",
+  "LastUpdate_Achievements": "2023-12-21T23:10:12.1877648+00:00"
 }

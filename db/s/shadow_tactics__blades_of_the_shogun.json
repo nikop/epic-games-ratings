@@ -2,13 +2,13 @@
   "ID": "2f215955790d456b80c291bc2feaf7f7",
   "Name": "Shadow Tactics: Blades of the Shogun",
   "ProductSlug": "shadow-tactics",
-  "Ranking_Rating": 280,
+  "Ranking_Rating": 281,
   "Ranking_Popularity": 202,
   "Ranking_PopularitySum": 146,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 332,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -2356,9 +2356,9 @@
       "Count": 258
     }
   ],
-  "EOS_Progressed": 220710,
+  "EOS_Progressed": 220716,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 1473,
+  "EOS_NewPlayers": 1472,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -30551,6 +30551,11 @@
       "Time": "2023-12-21T22:06:40.4166125+00:00",
       "NumProgressed": 220710,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-12-21T23:06:45.9485043+00:00",
+      "NumProgressed": 220716,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 44,
@@ -30562,7 +30567,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 24278
+      "UsersEstimate": 24279
     },
     {
       "ID": "AtheistOx",
@@ -30626,7 +30631,7 @@
       "Name": "Gear up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8828
+      "UsersEstimate": 8829
     },
     {
       "ID": "Genin",
@@ -30634,7 +30639,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 26485
+      "UsersEstimate": 26486
     },
     {
       "ID": "HappyLittleAccidents",
@@ -30730,7 +30735,7 @@
       "Name": "Noboru",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 8828
+      "UsersEstimate": 8829
     },
     {
       "ID": "Okkoto",
@@ -30794,7 +30799,7 @@
       "Name": "Still Rollin\u0027",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8828
+      "UsersEstimate": 8829
     },
     {
       "ID": "Stoned",
@@ -30850,7 +30855,7 @@
       "Name": "Thorough",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 24278
+      "UsersEstimate": 24279
     },
     {
       "ID": "TimeParadox",
@@ -30913,15 +30918,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 220710,
+      "Progressed": 220716,
       "Completed": 102
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-12-20T14:00:40.4217598+00:00",
-  "LastChanged_Achievements": "2023-12-21T22:06:40.4166121+00:00",
+  "LastChanged_Achievements": "2023-12-21T23:06:45.9485041+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:48.0979756+00:00",
-  "LastUpdate_Ratings": "2023-12-21T22:02:56.7640278+00:00",
-  "LastUpdate_Achievements": "2023-12-21T22:06:40.4167507+00:00"
+  "LastUpdate_Ratings": "2023-12-21T23:02:57.9825771+00:00",
+  "LastUpdate_Achievements": "2023-12-21T23:06:45.9486239+00:00"
 }

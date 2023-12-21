@@ -7,36 +7,36 @@ Number of Ratings: 116  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Green with Envy | 85.00% | ~29 |
-| First of many… | 74.00% | ~25 |
-| Helping Hand | 71.00% | ~24 |
-| Increased Vigor | 65.00% | ~22 |
-| Fight Fire with Fire | 65.00% | ~22 |
+| Helping Hand | 79.00% | ~27 |
+| First of many… | 79.00% | ~27 |
+| Increased Vigor | 74.00% | ~25 |
+| Fight Fire with Fire | 71.00% | ~24 |
 | Increased Capacity | 62.00% | ~21 |
+| Just the start | 56.00% | ~19 |
 | Unshakable Fortitude | 53.00% | ~18 |
 | Perfect Storm | 53.00% | ~18 |
 | Devil's in the Details | 53.00% | ~18 |
 | All That Glitters | 53.00% | ~18 |
 | 25 to Life | 53.00% | ~18 |
-| Just the start | 53.00% | ~18 |
 | One Of the Chosen | 50.00% | ~17 |
+| Enhance! | 50.00% | ~17 |
 | Five's a Crowd | 50.00% | ~17 |
 | Soul Harvester | 47.00% | ~16 |
-| Enhance! | 47.00% | ~16 |
 | Salvation | 44.00% | ~15 |
 | Throne Potato | 44.00% | ~15 |
 | Delusions of Grandeur | 41.00% | ~14 |
 | For Whom the Bell Tolls | 41.00% | ~14 |
 | I Wanna Rock | 38.00% | ~13 |
+| Freeze Frame | 38.00% | ~13 |
 | Love Tap | 38.00% | ~13 |
 | Maximum Vigor | 35.00% | ~12 |
-| Freeze Frame | 35.00% | ~12 |
+| Eat Your Heart Out | 35.00% | ~12 |
 | Unyielding Strength | 32.00% | ~11 |
-| Eat Your Heart Out | 32.00% | ~11 |
 | Crowd Source | 32.00% | ~11 |
 | Cleanup Crew | 29.00% | ~10 |
+| Can you restore the Balance? | 29.00% | ~10 |
+| Big Spender | 29.00% | ~10 |
 | Maximum Capacity | 26.00% | ~9 |
-| Can you restore the Balance? | 26.00% | ~9 |
-| Big Spender | 26.00% | ~9 |
 | Demon Meddler | 24.00% | ~8 |
 | A Parting Gift | 15.00% | ~5 |
 | Protector of Humanity | 15.00% | ~5 |

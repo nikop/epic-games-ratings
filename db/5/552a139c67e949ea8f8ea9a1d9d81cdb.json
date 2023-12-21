@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1528,
+  "EOS_Progressed": 1530,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
@@ -3647,6 +3647,11 @@
       "Time": "2023-12-21T22:04:48.6487998+00:00",
       "NumProgressed": 1528,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T23:04:50.6481322+00:00",
+      "NumProgressed": 1530,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -3729,9 +3734,9 @@
       "ID": "ML_ACHIEVEMENT_10",
       "SetID": "5k00jcd",
       "Name": "Drift champ",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -3745,9 +3750,9 @@
       "ID": "ML_ACHIEVEMENT_12",
       "SetID": "5k00jcd",
       "Name": "Immortal",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -3833,9 +3838,9 @@
       "ID": "ML_ACHIEVEMENT_23",
       "SetID": "5k00jcd",
       "Name": "The Scorpion",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 31
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -3985,9 +3990,9 @@
       "ID": "ML_ACHIEVEMENT_42",
       "SetID": "5k00jcd",
       "Name": "Magic trick",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ML_ACHIEVEMENT_43",
@@ -4026,20 +4031,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1528,
+      "Progressed": 1530,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1196,
+      "Progressed": 1198,
       "Completed": 997
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-21T22:04:48.6487994+00:00",
+  "LastChanged_Achievements": "2023-12-21T23:04:50.6481318+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:08.51229+00:00",
-  "LastUpdate_Ratings": "2023-12-21T21:57:21.5727567+00:00",
-  "LastUpdate_Achievements": "2023-12-21T22:04:48.6488402+00:00"
+  "LastUpdate_Ratings": "2023-12-21T22:57:22.1329626+00:00",
+  "LastUpdate_Achievements": "2023-12-21T23:04:50.6481843+00:00"
 }

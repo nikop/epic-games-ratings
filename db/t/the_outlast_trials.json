@@ -2,13 +2,13 @@
   "ID": "6504cc61472e498796e0b4963a201438",
   "Name": "The Outlast Trials",
   "ProductSlug": "the-outlast-trials",
-  "Ranking_Rating": 280,
+  "Ranking_Rating": 297,
   "Ranking_Popularity": 274,
   "Ranking_PopularitySum": 245,
   "Ranking_EOS_Progress": 813,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 563,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-18T17:00:00+00:00",
     "PcReleaseDate": "2023-05-18T17:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.67,
+  "Rating": 4.66,
   "RatingHistory": [
     {
       "Time": "2023-05-20T18:00:30.4536489+00:00",
@@ -3745,10 +3745,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 1341,
       "NumberOfAwardsMax": 243
+    },
+    {
+      "Time": "2023-12-21T22:59:23.2427183+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 1346,
+      "NumberOfAwardsMax": 243
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1341,
+  "NumberOfAwards": 1346,
   "NumberOfAwardsMax": 243,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3768,7 +3774,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 180
+      "Count": 185
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3825,8 +3831,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-18T20:02:29.2906541+00:00",
   "FirstSeenRating": "2023-05-20T18:00:30.4536484+00:00",
-  "LastChanged": "2023-12-21T20:58:38.5814366+00:00",
+  "LastChanged": "2023-12-21T22:59:23.2427181+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:56:58.1229135+00:00",
-  "LastUpdate_Ratings": "2023-12-21T21:59:21.1780617+00:00",
-  "LastUpdate_Achievements": "2023-12-21T22:06:11.7561853+00:00"
+  "LastUpdate_Ratings": "2023-12-21T22:59:23.2427186+00:00",
+  "LastUpdate_Achievements": "2023-12-21T23:06:17.1600448+00:00"
 }

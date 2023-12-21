@@ -9,10 +9,10 @@
 | First winning | 83.00% | ~367 |
 | Good Person Chip | 83.00% | ~367 |
 | Your first job | 82.00% | ~362 |
+| Fitness professional | 76.00% | ~336 |
 | Old movies enjoyer | 76.00% | ~336 |
 | Depressed visitor | 76.00% | ~336 |
 | Neurotrainer – power gainer! | 76.00% | ~336 |
-| Fitness professional | 75.00% | ~332 |
 | Employee of the week | 75.00% | ~332 |
 | Your own amateur gym | 70.00% | ~309 |
 | First defeat | 69.00% | ~305 |
@@ -49,7 +49,7 @@
 | GYM professional | 36.00% | ~159 |
 | The die is cast | 36.00% | ~159 |
 | Poisoned fighter | 35.00% | ~155 |
-| Get out of my apartment! | 34.00% | ~150 |
+| Get out of my apartment! | 35.00% | ~155 |
 | Seashell hunter | 33.00% | ~146 |
 | Gang wrangler | 32.00% | ~141 |
 | Undercover robot | 32.00% | ~141 |

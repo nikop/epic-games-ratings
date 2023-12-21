@@ -4,41 +4,41 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 58.00% | ~239 |
-| Starting Skyward | 53.00% | ~218 |
+| In the Black | 58.00% | ~240 |
+| Starting Skyward | 53.00% | ~219 |
 | Grime is Not Good | 46.00% | ~190 |
-| Dinner Dash | 41.00% | ~169 |
 | Floor Galore | 40.00% | ~165 |
-| Campaign Launch | 40.00% | ~165 |
-| Need a Consult | 37.00% | ~152 |
-| It's Technical | 37.00% | ~152 |
-| Upgrade Unlock | 36.00% | ~148 |
-| Delegate Maintenance | 33.00% | ~136 |
+| Dinner Dash | 40.00% | ~165 |
+| Campaign Launch | 39.00% | ~161 |
+| Need a Consult | 37.00% | ~153 |
+| It's Technical | 37.00% | ~153 |
+| Upgrade Unlock | 36.00% | ~149 |
+| Delegate Maintenance | 32.00% | ~132 |
 | Proper Walls | 31.00% | ~128 |
 | Destination Destiny | 31.00% | ~128 |
 | Happy Tenants | 26.00% | ~107 |
 | Potent Potables | 25.00% | ~103 |
 | Smooth Service | 25.00% | ~103 |
 | Your Prestige is Rising | 24.00% | ~99 |
-| Retail Revenue | 24.00% | ~99 |
 | Don't Feel a Loan | 23.00% | ~95 |
+| Retail Revenue | 23.00% | ~95 |
 | People Mover | 21.00% | ~87 |
-| Artfully Done | 20.00% | ~82 |
-| Emporium Empire | 20.00% | ~82 |
-| Leveled Up Shops | 20.00% | ~82 |
+| Artfully Done | 20.00% | ~83 |
+| Emporium Empire | 20.00% | ~83 |
+| Leveled Up Shops | 20.00% | ~83 |
 | Lux Living | 19.00% | ~78 |
 | We Don't Need No Education | 19.00% | ~78 |
 | Get Electrified | 19.00% | ~78 |
 | Rehab Expert | 18.00% | ~74 |
 | Tasty Profits | 18.00% | ~74 |
 | Established Fame | 17.00% | ~70 |
-| Under One Roof | 16.00% | ~66 |
+| Under One Roof | 15.00% | ~62 |
 | Starred Dining | 15.00% | ~62 |
 | Cashflow Chief | 15.00% | ~62 |
 | Smooth Operator | 13.00% | ~54 |
 | Thrilled Tenants | 13.00% | ~54 |
-| Boutique Benefits | 12.00% | ~49 |
-| Terrifically Trashed | 12.00% | ~49 |
+| Boutique Benefits | 12.00% | ~50 |
+| Terrifically Trashed | 12.00% | ~50 |
 | Aestheticly Pleased | 10.00% | ~41 |
 | 28 Days Later | 10.00% | ~41 |
 | Swimming in Surplus | 10.00% | ~41 |
@@ -62,8 +62,8 @@
 | I'm Busy Ruling | 5.00% | ~21 |
 | Sky High Stature | 5.00% | ~21 |
 | Tuned In | 5.00% | ~21 |
-| Office Bigwigs | 4.00% | ~16 |
-| Sandbagger | 4.00% | ~16 |
+| Office Bigwigs | 4.00% | ~17 |
+| Sandbagger | 4.00% | ~17 |
 | Decorator's Touch | 3.00% | ~12 |
 | Apartment Awareness | 3.00% | ~12 |
 | Luxury Boutiques | 3.00% | ~12 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 412 (Ranked 343)  
+Progressed: 413 (Ranked 343)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 398 | 0 |
 | 2023-12-19 | 402 | 0 |
 | 2023-12-20 | 404 | 0 |
-| 2023-12-21 | 412 | 0 |
+| 2023-12-21 | 413 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17247,
+  "EOS_Progressed": 17248,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -16670,6 +16670,11 @@
       "Time": "2023-12-21T21:05:09.8959127+00:00",
       "NumProgressed": 17247,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-12-21T23:06:19.376935+00:00",
+      "NumProgressed": 17248,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 41,
@@ -16761,7 +16766,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3104
+      "UsersEstimate": 3105
     },
     {
       "ID": "tpote_achievement_2",
@@ -16793,7 +16798,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3449
+      "UsersEstimate": 3450
     },
     {
       "ID": "tpote_achievement_23",
@@ -16833,7 +16838,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3104
+      "UsersEstimate": 3105
     },
     {
       "ID": "tpote_achievement_28",
@@ -16873,7 +16878,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 3104
+      "UsersEstimate": 3105
     },
     {
       "ID": "tpote_achievement_32",
@@ -16969,7 +16974,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 4139
+      "UsersEstimate": 4140
     },
     {
       "ID": "tpote_achievement_6",
@@ -17008,15 +17013,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17247,
+      "Progressed": 17248,
       "Completed": 119
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2023-12-21T22:06:13.9231867+00:00",
+  "LastChanged_Achievements": "2023-12-21T23:06:19.3769346+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:13.9933566+00:00",
-  "LastUpdate_Ratings": "2023-12-21T22:00:57.4173525+00:00",
-  "LastUpdate_Achievements": "2023-12-21T22:06:13.9232875+00:00"
+  "LastUpdate_Ratings": "2023-12-21T23:00:59.924745+00:00",
+  "LastUpdate_Achievements": "2023-12-21T23:06:19.3770365+00:00"
 }

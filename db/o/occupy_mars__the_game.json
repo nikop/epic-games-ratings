@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 353,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1803,
+  "EOS_Progressed": 1804,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4665,6 +4665,11 @@
       "Time": "2023-12-21T21:09:19.2750895+00:00",
       "NumProgressed": 1803,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T23:09:37.0093232+00:00",
+      "NumProgressed": 1804,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4932,7 +4937,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -5059,7 +5064,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1803,
+      "Progressed": 1804,
       "Completed": 0
     }
   ],
@@ -5067,8 +5072,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-12-19T01:49:45.9320817+00:00",
-  "LastChanged_Achievements": "2023-12-21T22:09:51.6143019+00:00",
+  "LastChanged_Achievements": "2023-12-21T23:09:37.0093228+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:56:59.196607+00:00",
-  "LastUpdate_Ratings": "2023-12-21T21:59:04.2221594+00:00",
-  "LastUpdate_Achievements": "2023-12-21T22:09:51.6143854+00:00"
+  "LastUpdate_Ratings": "2023-12-21T22:59:06.3530523+00:00",
+  "LastUpdate_Achievements": "2023-12-21T23:09:37.0093771+00:00"
 }

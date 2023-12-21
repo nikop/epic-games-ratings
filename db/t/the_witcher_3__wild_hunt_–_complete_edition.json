@@ -3,12 +3,12 @@
   "Name": "The Witcher 3: Wild Hunt \u2013 Complete Edition",
   "ProductSlug": "the-witcher-3-wild-hunt",
   "Ranking_Rating": 10,
-  "Ranking_Popularity": 21,
+  "Ranking_Popularity": 20,
   "Ranking_PopularitySum": 25,
   "Ranking_EOS_Progress": 813,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 563,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-05-14T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -15194,18 +15194,24 @@
       "Rating": 4.89,
       "NumberOfAwards": 57622,
       "NumberOfAwardsMax": 21828
+    },
+    {
+      "Time": "2023-12-21T23:00:49.985171+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 57695,
+      "NumberOfAwardsMax": 21890
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 57622,
-  "NumberOfAwardsMax": 21828,
+  "NumberOfAwards": 57695,
+  "NumberOfAwardsMax": 21890,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 21828
+      "Count": 21890
     },
     {
       "Text": "This game is Great for Beginners",
@@ -15223,7 +15229,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3844
+      "Count": 3855
     },
     {
       "Text": "This game is Extremely Fun",
@@ -15285,8 +15291,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:37.9019948+00:00",
-  "LastChanged": "2023-12-21T20:59:39.8712001+00:00",
+  "LastChanged": "2023-12-21T23:00:49.9851708+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:15.4076716+00:00",
-  "LastUpdate_Ratings": "2023-12-21T22:00:47.8015958+00:00",
-  "LastUpdate_Achievements": "2023-12-21T22:05:49.8403748+00:00"
+  "LastUpdate_Ratings": "2023-12-21T23:00:49.9851714+00:00",
+  "LastUpdate_Achievements": "2023-12-21T23:05:55.2926493+00:00"
 }

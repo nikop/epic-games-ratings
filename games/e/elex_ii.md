@@ -16,17 +16,18 @@ Number of Ratings: 124  (23.09.2022)
 | Globetrotter | 4.00% | ~2 |
 | Free as a Bird | 4.00% | ~2 |
 | Civilian | 4.00% | ~2 |
+| Irissa's Fate | 4.00% | ~2 |
+| Storyteller | 2.00% | ~1 |
 | Hotshot | 2.00% | ~1 |
 | Unbreakable | 2.00% | ~1 |
 | Festival-goer | 2.00% | ~1 |
-| Irissa's Fate | 2.00% | ~1 |
 | Pass A38 | 2.00% | ~1 |
+| Eternal Oblivion | 2.00% | ~1 |
 | Pack Rat | 0.00% | ~0 |
 | Banker | 0.00% | ~0 |
 | Drinker | 0.00% | ~0 |
 | Key Master | 0.00% | ~0 |
 | Treasure Hunter | 0.00% | ~0 |
-| Storyteller | 0.00% | ~0 |
 | Beam Me Up | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 | Socializer | 0.00% | ~0 |
@@ -54,10 +55,9 @@ Number of Ratings: 124  (23.09.2022)
 | Ruthless | 0.00% | ~0 |
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
-| Eternal Oblivion | 0.00% | ~0 |
 | Lover | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48 (Ranked 531)  
+Progressed: 48 (Ranked 532)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |

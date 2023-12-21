@@ -2,13 +2,13 @@
   "ID": "4c461792757541e99c4a16c00834c956",
   "Name": "Returnal\u2122",
   "ProductSlug": "returnal",
-  "Ranking_Rating": 423,
+  "Ranking_Rating": 394,
   "Ranking_Popularity": 363,
   "Ranking_PopularitySum": 457,
   "Ranking_EOS_Progress": 813,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 563,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-02-15T16:00:00+00:00",
     "PcReleaseDate": "2023-02-15T16:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.6,
+  "Rating": 4.61,
   "RatingHistory": [
     {
       "Time": "2023-02-22T19:57:26.9994274+00:00",
@@ -699,6 +699,12 @@
       "Rating": 4.6,
       "NumberOfAwards": 106,
       "NumberOfAwardsMax": 106
+    },
+    {
+      "Time": "2023-12-21T23:00:21.3836746+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 106,
+      "NumberOfAwardsMax": 106
     }
   ],
   "ReviewsDisabled": false,
@@ -725,8 +731,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-15T19:57:17.063924+00:00",
   "FirstSeenRating": "2023-02-22T19:57:26.9994266+00:00",
-  "LastChanged": "2023-12-20T17:59:05.6459977+00:00",
+  "LastChanged": "2023-12-21T23:00:21.3836744+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.9365923+00:00",
-  "LastUpdate_Ratings": "2023-12-21T22:00:19.4419589+00:00",
-  "LastUpdate_Achievements": "2023-12-21T22:07:00.0329146+00:00"
+  "LastUpdate_Ratings": "2023-12-21T23:00:21.3836749+00:00",
+  "LastUpdate_Achievements": "2023-12-21T23:07:05.2500786+00:00"
 }

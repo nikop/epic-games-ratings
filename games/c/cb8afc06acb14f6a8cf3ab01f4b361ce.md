@@ -5,12 +5,12 @@ Rating: 4.21 (Ranked 926)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 4.00% | ~13,304 |
-| May the Torchbearer light our way | 3.00% | ~9,978 |
-| A powerful aura was here | 3.00% | ~9,978 |
+| May the Torchbearer light our way | 4.00% | ~13,305 |
+| The touch of Chaos | 4.00% | ~13,305 |
+| A powerful aura was here | 3.00% | ~9,979 |
 | Let's raise the stakes!! | 1.00% | ~3,326 |
-| Rumors are true | 0.90% | ~2,993 |
-| Your wounds… They are healing so fast! | 0.90% | ~2,993 |
+| Rumors are true | 0.90% | ~2,994 |
+| Your wounds… They are healing so fast! | 0.90% | ~2,994 |
 | Pride is a sin, young Knight | 0.80% | ~2,661 |
 | We'll be careful | 0.70% | ~2,328 |
 | Back to your senses | 0.60% | ~1,996 |
@@ -19,11 +19,11 @@ Rating: 4.21 (Ranked 926)
 | We need to talk | 0.50% | ~1,663 |
 | I feel drawn to it | 0.50% | ~1,663 |
 | They won't last long | 0.50% | ~1,663 |
-| Here to stay | 0.40% | ~1,330 |
-| Counting on you | 0.40% | ~1,330 |
-| This is the end | 0.40% | ~1,330 |
-| We can choose to fight | 0.40% | ~1,330 |
-| I took a risk | 0.40% | ~1,330 |
+| Here to stay | 0.40% | ~1,331 |
+| Counting on you | 0.40% | ~1,331 |
+| This is the end | 0.40% | ~1,331 |
+| We can choose to fight | 0.40% | ~1,331 |
+| I took a risk | 0.40% | ~1,331 |
 | Their fate is sealed | 0.30% | ~998 |
 | Not even from this world | 0.20% | ~665 |
 | Chaos be damned! | 0.20% | ~665 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 926)
 | Something... unnatural | 0.10% | ~333 |
 | We strike as one | 0.10% | ~333 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 332,607 (Ranked 52)  
+Progressed: 332,632 (Ranked 52)  
 Completed: 5 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 5 (0.00%) (Ranked 384)
 | 2023-12-18 | 331,132 | 5 |
 | 2023-12-19 | 331,577 | 5 |
 | 2023-12-20 | 332,048 | 5 |
-| 2023-12-21 | 332,607 | 5 |
+| 2023-12-21 | 332,632 | 5 |
 ## Awards
 Max (Great Boss Battles): 71  (Ranked 410)  
 Sum: 71 (Ranked 478)  

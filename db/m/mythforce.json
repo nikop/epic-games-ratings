@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -842,9 +842,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5707,
+  "EOS_Progressed": 5709,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 202,
+  "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -11542,6 +11542,11 @@
       "Time": "2023-12-21T22:05:40.7197778+00:00",
       "NumProgressed": 5707,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-21T23:05:46.2145551+00:00",
+      "NumProgressed": 5709,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -11610,15 +11615,15 @@
       "Name": "First Strike",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 1141
+      "UsersEstimate": 1142
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
       "SetID": "9b9n573",
       "Name": "Flawless Victory",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 399
+      "UsersEstimate": 343
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -11634,7 +11639,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
@@ -11650,7 +11655,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -11682,7 +11687,7 @@
       "Name": "On this Episode!",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "MF_Ach_PerkShardPunchCard",
@@ -11706,7 +11711,7 @@
       "Name": "Spending Spree",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -11737,15 +11742,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5707,
+      "Progressed": 5709,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-17T11:57:49.7030504+00:00",
-  "LastChanged_Achievements": "2023-12-21T22:05:40.7197775+00:00",
+  "LastChanged_Achievements": "2023-12-21T23:05:46.2145547+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:20.367807+00:00",
-  "LastUpdate_Ratings": "2023-12-21T22:00:59.9671556+00:00",
-  "LastUpdate_Achievements": "2023-12-21T22:05:40.7198271+00:00"
+  "LastUpdate_Ratings": "2023-12-21T23:01:02.5167783+00:00",
+  "LastUpdate_Achievements": "2023-12-21T23:05:46.2146261+00:00"
 }

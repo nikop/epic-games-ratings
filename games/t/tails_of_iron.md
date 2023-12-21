@@ -5,9 +5,9 @@ Rating: 4.55 (Ranked 510)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| The Bright Fir | 0.60% | ~5 |
 | End of the Mozis | 0.50% | ~11 |
 | Throne Room Fit For A King | 0.50% | ~11 |
-| The Bright Fir | 0.50% | ~5 |
 | Become King | 0.40% | ~9 |
 | Complete Guard Faction | 0.40% | ~9 |
 | Meet the Creatures from the Deep | 0.40% | ~9 |

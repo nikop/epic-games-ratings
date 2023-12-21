@@ -7,7 +7,7 @@
 | Um, ok... | 52.00% | ~128 |
 | Super Seducer | 51.00% | ~125 |
 | Congratulations, you are a sadist | 48.00% | ~118 |
-| Superstar-crossed lovers | 39.00% | ~96 |
+| Superstar-crossed lovers | 40.00% | ~98 |
 | A leader, you are not | 34.00% | ~84 |
 | Comedy Killer | 32.00% | ~79 |
 | Good job, nerd | 32.00% | ~79 |

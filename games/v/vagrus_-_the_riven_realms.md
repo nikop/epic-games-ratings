@@ -21,12 +21,12 @@
 | Acquaintance | 7.00% | ~16 |
 | Tail-wind | 7.00% | ~16 |
 | Strategist | 5.00% | ~11 |
+| Deputized | 5.00% | ~11 |
 | Courier | 5.00% | ~11 |
 | Pilgrimage's End | 5.00% | ~11 |
 | Merchant | 5.00% | ~11 |
 | Quartermaster | 4.00% | ~9 |
 | Potential Unlocked | 4.00% | ~9 |
-| Deputized | 4.00% | ~9 |
 | The Voice of Hereafter | 4.00% | ~9 |
 | Despised | 4.00% | ~9 |
 | Been There | 4.00% | ~9 |

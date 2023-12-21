@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 306,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
     "PcReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10372,
+  "EOS_Progressed": 10374,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2127,6 +2127,11 @@
       "Time": "2023-12-21T21:04:03.2081312+00:00",
       "NumProgressed": 10372,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-21T23:04:47.0956964+00:00",
+      "NumProgressed": 10374,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 43,
@@ -2242,7 +2247,7 @@
       "Name": "grocery-getter",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 4149
+      "UsersEstimate": 4150
     },
     {
       "ID": "ACH_COMPLETE_GROUP3",
@@ -2250,7 +2255,7 @@
       "Name": "rwd only",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2800
+      "UsersEstimate": 2801
     },
     {
       "ID": "ACH_COMPLETE_GROUP4",
@@ -2258,7 +2263,7 @@
       "Name": "turbo",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 2074
+      "UsersEstimate": 2075
     },
     {
       "ID": "ACH_COMPLETE_GROUPA",
@@ -2298,7 +2303,7 @@
       "Name": "keep it tidy",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 8090
+      "UsersEstimate": 8092
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -2330,7 +2335,7 @@
       "Name": "where is the stage?",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     },
     {
       "ID": "ACH_FUJIN_ODO",
@@ -2346,7 +2351,7 @@
       "Name": "brail",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 5912
+      "UsersEstimate": 5913
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -2362,7 +2367,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9957
+      "UsersEstimate": 9959
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -2378,7 +2383,7 @@
       "Name": "medium attack",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 6223
+      "UsersEstimate": 6224
     },
     {
       "ID": "ACH_NIGHT",
@@ -2426,7 +2431,7 @@
       "Name": "good drivers have dead flies on the side windows",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 4564
+      "UsersEstimate": 4565
     },
     {
       "ID": "ACH_SNOW",
@@ -2450,7 +2455,7 @@
       "Name": "food tour: pretzel",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2074
+      "UsersEstimate": 2075
     },
     {
       "ID": "ACH_TOUR_ITALY",
@@ -2458,7 +2463,7 @@
       "Name": "food tour: pasta",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2800
+      "UsersEstimate": 2801
     },
     {
       "ID": "ACH_WEEKLY",
@@ -2474,22 +2479,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7468
+      "UsersEstimate": 7469
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10372,
+      "Progressed": 10374,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-12-21T22:04:45.0914145+00:00",
+  "LastChanged_Achievements": "2023-12-21T23:04:47.0956959+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:05.192967+00:00",
-  "LastUpdate_Ratings": "2023-12-21T22:01:47.013281+00:00",
-  "LastUpdate_Achievements": "2023-12-21T22:04:45.0914555+00:00"
+  "LastUpdate_Ratings": "2023-12-21T23:02:39.7636995+00:00",
+  "LastUpdate_Achievements": "2023-12-21T23:04:47.0957485+00:00"
 }

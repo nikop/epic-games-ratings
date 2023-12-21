@@ -6,10 +6,10 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 61.00% | ~2,017 |
+| You're free now! | 61.00% | ~2,018 |
 | Keeping it classy | 28.00% | ~926 |
 | Welcome to the family | 22.00% | ~728 |
-| The finer things in life | 19.00% | ~628 |
+| The finer things in life | 19.00% | ~629 |
 | Backpacker | 14.00% | ~463 |
 | Go with the Flow | 13.00% | ~430 |
 | Plastic Surgeon | 10.00% | ~331 |
@@ -19,10 +19,10 @@ Number of Ratings: 111  (23.09.2022)
 | Good vibes | 9.00% | ~298 |
 | Keep the dream alive | 9.00% | ~298 |
 | Tight lipslides | 8.00% | ~265 |
-| Bottom ply killer | 7.00% | ~231 |
-| Fashionista | 7.00% | ~231 |
-| Finally he zips it | 7.00% | ~231 |
-| That pinch! | 7.00% | ~231 |
+| Bottom ply killer | 7.00% | ~232 |
+| Fashionista | 7.00% | ~232 |
+| Finally he zips it | 7.00% | ~232 |
+| That pinch! | 7.00% | ~232 |
 | Commence the Hijinx! | 6.00% | ~198 |
 | DIY Boss | 6.00% | ~198 |
 | Fulfilled the dream | 6.00% | ~198 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,307 (Ranked 217)  
+Progressed: 3,308 (Ranked 217)  
 Completed: 2 (0.06%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 2 (0.06%) (Ranked 325)
 | 2023-12-18 | 3,263 | 2 |
 | 2023-12-19 | 3,283 | 2 |
 | 2023-12-20 | 3,294 | 2 |
-| 2023-12-21 | 3,307 | 2 |
+| 2023-12-21 | 3,308 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 60  (Ranked 422)  
 Sum: 569 (Ranked 323)  

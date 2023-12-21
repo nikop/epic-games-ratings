@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -3514,9 +3514,9 @@
       "ID": "ACH_CAR_WASH_01",
       "SetID": "5fn8ia4",
       "Name": "Restored the Car Wash",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 649
+      "UsersEstimate": 662
     },
     {
       "ID": "ACH_CAR_WASH_02",
@@ -3642,9 +3642,9 @@
       "ID": "GSS_ACH_07_FUEL_02",
       "SetID": "5fn8ia4",
       "Name": "Fueled it better!",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 1179
+      "UsersEstimate": 1192
     },
     {
       "ID": "GSS_ACH_08_FUEL_03",
@@ -4170,9 +4170,9 @@
       "ID": "GSS_ACH_74_SANDSTORM",
       "SetID": "5fn8ia4",
       "Name": "Sandstorm!",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 676
+      "UsersEstimate": 689
     },
     {
       "ID": "GSS_ACH_75_RACE_02_COMPLETE",
@@ -4251,8 +4251,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-18T13:05:51.5719117+00:00",
-  "LastChanged_Achievements": "2023-12-21T22:04:36.9539476+00:00",
+  "LastChanged_Achievements": "2023-12-21T23:04:39.0331779+00:00",
   "LastUpdate_AppInfo": "2023-12-18T18:57:14.4494443+00:00",
-  "LastUpdate_Ratings": "2023-12-21T22:02:46.1429238+00:00",
-  "LastUpdate_Achievements": "2023-12-21T22:04:36.95406+00:00"
+  "LastUpdate_Ratings": "2023-12-21T23:02:48.3567332+00:00",
+  "LastUpdate_Achievements": "2023-12-21T23:04:39.0332849+00:00"
 }

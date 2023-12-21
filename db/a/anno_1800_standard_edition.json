@@ -3,12 +3,12 @@
   "Name": "Anno 1800 Standard Edition",
   "ProductSlug": "anno-1800",
   "Ranking_Rating": 69,
-  "Ranking_Popularity": 113,
+  "Ranking_Popularity": 114,
   "Ranking_PopularitySum": 70,
   "Ranking_EOS_Progress": 813,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 563,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2019-05-30T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -11691,10 +11691,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 15305,
       "NumberOfAwardsMax": 1979
+    },
+    {
+      "Time": "2023-12-21T22:58:17.3905018+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 15309,
+      "NumberOfAwardsMax": 1979
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15305,
+  "NumberOfAwards": 15309,
   "NumberOfAwardsMax": 1979,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -11750,7 +11756,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1721
+      "Count": 1725
     },
     {
       "Text": "This game has Amazing Characters",
@@ -11776,8 +11782,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
-  "LastChanged": "2023-12-21T21:58:15.7828902+00:00",
+  "LastChanged": "2023-12-21T22:58:17.3905017+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:32.3603661+00:00",
-  "LastUpdate_Ratings": "2023-12-21T21:58:15.7828908+00:00",
-  "LastUpdate_Achievements": "2023-12-21T22:07:34.2590707+00:00"
+  "LastUpdate_Ratings": "2023-12-21T22:58:17.3905023+00:00",
+  "LastUpdate_Achievements": "2023-12-21T23:07:39.7859426+00:00"
 }

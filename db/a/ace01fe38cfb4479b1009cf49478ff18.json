@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 402,
+  "EOS_Progressed": 403,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -1474,6 +1474,11 @@
       "Time": "2023-12-21T20:04:15.7508787+00:00",
       "NumProgressed": 402,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T23:04:44.2260793+00:00",
+      "NumProgressed": 403,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -1486,7 +1491,7 @@
       "Name": "Chapter I - Complete",
       "Percentage": 18,
       "XP": 45,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ach_chapter_complete_2",
@@ -1550,7 +1555,7 @@
       "Name": "Defeat a Lord of Change",
       "Percentage": 22,
       "XP": 45,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -1581,14 +1586,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 402,
+      "Progressed": 403,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-12-21T22:04:42.0538846+00:00",
+  "LastChanged_Achievements": "2023-12-21T23:04:44.226079+00:00",
   "LastUpdate_AppInfo": "2023-12-15T14:56:55.6680838+00:00",
-  "LastUpdate_Ratings": "2023-12-21T21:58:15.0207623+00:00",
-  "LastUpdate_Achievements": "2023-12-21T22:04:42.0539006+00:00"
+  "LastUpdate_Ratings": "2023-12-21T22:58:16.6340624+00:00",
+  "LastUpdate_Achievements": "2023-12-21T23:04:44.2260925+00:00"
 }

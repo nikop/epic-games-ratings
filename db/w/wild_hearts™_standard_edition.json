@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 750,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 309,
+  "EOS_NewPlayers": 308,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.07,
   "EosHistory": [
@@ -2700,9 +2700,9 @@
       "ID": "achievement_18",
       "SetID": "2cpn27e",
       "Name": "Man-Machine Master",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 368
+      "UsersEstimate": 375
     },
     {
       "ID": "achievement_19",
@@ -3018,8 +3018,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-21T22:09:46.4603502+00:00",
+  "LastChanged_Achievements": "2023-12-21T23:09:32.0860073+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:11.6761115+00:00",
-  "LastUpdate_Ratings": "2023-12-21T21:57:48.9090758+00:00",
-  "LastUpdate_Achievements": "2023-12-21T22:09:46.4603976+00:00"
+  "LastUpdate_Ratings": "2023-12-21T22:57:50.1286501+00:00",
+  "LastUpdate_Achievements": "2023-12-21T23:09:32.0860531+00:00"
 }

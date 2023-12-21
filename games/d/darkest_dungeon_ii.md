@@ -6,13 +6,13 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 9.00% | ~345 |
-| Lost and Found | 6.00% | ~230 |
+| Malpractice Assurance | 9.00% | ~346 |
+| Lost and Found | 6.00% | ~231 |
 | This Belongs in a Museum | 4.00% | ~5,159 |
 | Autodidact | 4.00% | ~5,159 |
-| This guy... again? | 4.00% | ~153 |
-| Ploughshares to Swords | 4.00% | ~153 |
-| Bloody Graduation | 4.00% | ~153 |
+| This guy... again? | 4.00% | ~154 |
+| Ploughshares to Swords | 4.00% | ~154 |
+| Bloody Graduation | 4.00% | ~154 |
 | Serenity Now! | 3.00% | ~3,869 |
 | Not Today! | 3.00% | ~3,869 |
 | Creep and Sleep | 3.00% | ~3,869 |
@@ -24,27 +24,27 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 3.00% | ~3,869 |
 | FNG | 3.00% | ~3,869 |
 | Friends 'Til the End | 3.00% | ~115 |
-| Don't Make Me Turn This Coach Around | 2.00% | ~2,579 |
-| It Rings a Bell | 2.00% | ~2,579 |
-| Unleash Hell | 2.00% | ~2,579 |
-| Funny Guy | 2.00% | ~2,579 |
-| Long Live the King | 2.00% | ~2,579 |
-| Unfulfilled Desires | 2.00% | ~2,579 |
-| Dissector | 2.00% | ~2,579 |
-| Banishment | 2.00% | ~2,579 |
-| Deprogramming | 2.00% | ~2,579 |
-| Now Stay Dead | 2.00% | ~2,579 |
-| It Happens | 2.00% | ~2,579 |
-| Spelunker | 2.00% | ~2,579 |
-| Merry Time | 2.00% | ~2,579 |
-| Harvest Festival | 2.00% | ~2,579 |
-| Ramble On | 2.00% | ~2,579 |
-| Whale | 2.00% | ~2,579 |
-| A Place to Lay Your Head | 2.00% | ~2,579 |
-| Nope | 2.00% | ~2,579 |
-| Unshackled | 2.00% | ~2,579 |
-| Road Trip | 2.00% | ~2,579 |
-| Resurrection | 1.00% | ~1,290 |
+| Don't Make Me Turn This Coach Around | 2.00% | ~2,580 |
+| It Rings a Bell | 2.00% | ~2,580 |
+| Resurrection | 2.00% | ~2,580 |
+| Unleash Hell | 2.00% | ~2,580 |
+| Funny Guy | 2.00% | ~2,580 |
+| Long Live the King | 2.00% | ~2,580 |
+| Unfulfilled Desires | 2.00% | ~2,580 |
+| Dissector | 2.00% | ~2,580 |
+| Banishment | 2.00% | ~2,580 |
+| Deprogramming | 2.00% | ~2,580 |
+| Now Stay Dead | 2.00% | ~2,580 |
+| It Happens | 2.00% | ~2,580 |
+| Spelunker | 2.00% | ~2,580 |
+| Merry Time | 2.00% | ~2,580 |
+| Harvest Festival | 2.00% | ~2,580 |
+| Ramble On | 2.00% | ~2,580 |
+| Whale | 2.00% | ~2,580 |
+| A Place to Lay Your Head | 2.00% | ~2,580 |
+| Nope | 2.00% | ~2,580 |
+| Unshackled | 2.00% | ~2,580 |
+| Road Trip | 2.00% | ~2,580 |
 | Wyrdly Reconstructed | 1.00% | ~1,290 |
 | Boxcar Kid | 1.00% | ~1,290 |
 | Hope Rekindled | 1.00% | ~1,290 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,968 (Ranked 86)  
+Progressed: 128,979 (Ranked 86)  
 Completed: 3 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 3 (0.00%) (Ranked 384)
 | 2023-12-18 | 128,398 | 3 |
 | 2023-12-19 | 128,605 | 3 |
 | 2023-12-20 | 128,785 | 3 |
-| 2023-12-21 | 128,968 | 3 |
+| 2023-12-21 | 128,979 | 3 |
 ## Awards
 Max (Character Customization): 7,823  (Ranked 50)  
 Sum: 20,903 (Ranked 58)  

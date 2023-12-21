@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 52.00% | ~517 |
-| Trinity | 23.00% | ~229 |
-| Find Allies | 18.00% | ~179 |
-| A Taste of Wrath | 18.00% | ~179 |
-| I Found It | 18.00% | ~179 |
-| The Collector | 18.00% | ~179 |
-| Adventurer | 16.00% | ~159 |
-| Shatter Them All | 16.00% | ~159 |
-| Geared Up | 16.00% | ~159 |
-| Tributes of Caladrias | 15.00% | ~149 |
-| Scholar | 15.00% | ~149 |
-| Fashion Victim | 14.00% | ~139 |
-| Stone Collection | 14.00% | ~139 |
-| Powerful Allies | 13.00% | ~129 |
-| Big Bazar | 10.00% | ~99 |
+| Break Out | 52.00% | ~519 |
+| Trinity | 23.00% | ~230 |
+| Find Allies | 18.00% | ~180 |
+| A Taste of Wrath | 18.00% | ~180 |
+| I Found It | 18.00% | ~180 |
+| The Collector | 18.00% | ~180 |
+| Adventurer | 16.00% | ~160 |
+| Shatter Them All | 16.00% | ~160 |
+| Geared Up | 16.00% | ~160 |
+| Tributes of Caladrias | 15.00% | ~150 |
+| Scholar | 15.00% | ~150 |
+| Fashion Victim | 14.00% | ~140 |
+| Stone Collection | 14.00% | ~140 |
+| Powerful Allies | 13.00% | ~130 |
+| Big Bazar | 10.00% | ~100 |
 | Essence Blow | 8.00% | ~80 |
 | Alchemist | 7.00% | ~70 |
+| The Mentor | 6.00% | ~60 |
 | Calm before the Storm | 5.00% | ~50 |
-| The Mentor | 5.00% | ~50 |
 | Airborne | 5.00% | ~50 |
 | Miner | 5.00% | ~50 |
 | To Battle | 4.00% | ~40 |
@@ -41,7 +41,7 @@
 | All That Gold | 0.60% | ~6 |
 | Feeling Fancy | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 994 (Ranked 279)  
+Progressed: 998 (Ranked 279)  
 Completed: 3 (0.30%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,4 +111,4 @@ Completed: 3 (0.30%) (Ranked 249)
 | 2023-12-18 | 818 | 3 |
 | 2023-12-19 | 881 | 3 |
 | 2023-12-20 | 928 | 3 |
-| 2023-12-21 | 994 | 3 |
+| 2023-12-21 | 998 | 3 |
