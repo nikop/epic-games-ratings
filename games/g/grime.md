@@ -6,8 +6,8 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 2.00% | ~3,273 |
-| Imprint | 2.00% | ~3,273 |
+| Taste | 2.00% | ~3,274 |
+| Imprint | 2.00% | ~3,274 |
 | The Hunt | 1.00% | ~1,637 |
 | Ravenous | 1.00% | ~1,637 |
 | Weeper | 0.90% | ~1,473 |
@@ -15,31 +15,31 @@ Number of Ratings: 46  (23.09.2022)
 | Harmless | 0.50% | ~818 |
 | Silenced Whispers | 0.50% | ~818 |
 | Scion | 0.40% | ~653 |
+| Jawcrab | 0.40% | ~655 |
 | Feast | 0.40% | ~655 |
 | Yank | 0.40% | ~655 |
 | Sharpened Vessel | 0.40% | ~655 |
 | Shapely | 0.30% | ~491 |
 | Glare | 0.30% | ~490 |
-| Jawcrab | 0.30% | ~491 |
 | Jawstag | 0.30% | ~491 |
 | Watcher | 0.30% | ~491 |
 | Predator | 0.30% | ~491 |
 | Assimilation | 0.20% | ~327 |
 | Hunt Down | 0.20% | ~327 |
 | Artisan | 0.20% | ~327 |
-| Host | 0.20% | ~326 |
+| Host | 0.20% | ~327 |
+| Hush | 0.20% | ~327 |
 | Celebration | 0.20% | ~327 |
 | Inevitable | 0.20% | ~327 |
 | All-Seeing | 0.20% | ~327 |
 | Breathsmith | 0.20% | ~327 |
-| Dream | 0.20% | ~326 |
+| Dream | 0.20% | ~327 |
 | Spiral Heart | 0.10% | ~161 |
 | Bloodhunter | 0.10% | ~164 |
 | Skinmaker | 0.10% | ~164 |
 | Instruments | 0.10% | ~164 |
 | Zygote | 0.10% | ~163 |
 | Breath | 0.10% | ~164 |
-| Hush | 0.10% | ~164 |
 | Kinship | 0.10% | ~164 |
 | Weakness | 0.10% | ~164 |
 | Unwrap the Gift | 0.10% | ~164 |
@@ -53,8 +53,8 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~163 |
 | Intensify | 0.10% | ~163 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 163,665 (Ranked 80)  
-Completed: 372 (0.23%) (Ranked 262)  
+Progressed: 163,677 (Ranked 80)  
+Completed: 376 (0.23%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -275,7 +275,7 @@ Completed: 372 (0.23%) (Ranked 262)
 | 2023-12-18 | 163,241 | 348 |
 | 2023-12-19 | 163,376 | 355 |
 | 2023-12-20 | 163,552 | 366 |
-| 2023-12-21 | 163,665 | 372 |
+| 2023-12-21 | 163,677 | 376 |
 ## Awards
 Max (Unique Visuals): 58  (Ranked 424)  
 Sum: 414 (Ranked 343)  

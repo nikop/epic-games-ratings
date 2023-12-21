@@ -9,12 +9,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | Abandoned Settlement | 6.00% | ~1,130 |
 | Overgrown Library | 6.00% | ~1,130 |
 | Petrified Necropolis | 5.00% | ~942 |
-| Taking Action | 4.00% | ~753 |
-| No Deaths | 4.00% | ~753 |
-| Frosts | 4.00% | ~753 |
-| Ominous Presence | 4.00% | ~753 |
-| Gathering Storm | 4.00% | ~753 |
-| First Real Expedition | 3.00% | ~565 |
+| First Real Expedition | 4.00% | ~754 |
+| Taking Action | 4.00% | ~754 |
+| No Deaths | 4.00% | ~754 |
+| Frosts | 4.00% | ~754 |
+| Ominous Presence | 4.00% | ~754 |
+| Gathering Storm | 4.00% | ~754 |
 | Overcoming Difficulty | 3.00% | ~565 |
 | Coral Forest | 3.00% | ~565 |
 | The Marshlands | 3.00% | ~565 |
@@ -30,6 +30,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Bandit Camp | 1.00% | ~188 |
 | Barren Lands | 1.00% | ~188 |
 | Ancient Battleground | 1.00% | ~188 |
+| Sparkdew Crystals | 1.00% | ~188 |
 | Levitating Monument | 1.00% | ~188 |
 | Lost Colonies | 1.00% | ~188 |
 | Statue of the Forefathers | 1.00% | ~188 |
@@ -37,7 +38,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Cursed Lands | 1.00% | ~188 |
 | A Real Challenge | 1.00% | ~188 |
 | Trade Baron | 1.00% | ~188 |
-| Sparkdew Crystals | 0.90% | ~170 |
 | Haunted Forest | 0.90% | ~170 |
 | Flooded Mines | 0.90% | ~170 |
 | Against All Odds | 0.80% | ~151 |
@@ -45,11 +45,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Defying the Crown | 0.70% | ~132 |
 | Into the Forest | 0.70% | ~132 |
 | Fishmen Ritual Site | 0.60% | ~113 |
+| Forsaken Gods Temple | 0.60% | ~113 |
 | Victory Through Prosperity | 0.60% | ~113 |
 | Efficient Explorer | 0.50% | ~94 |
 | Refinery | 0.50% | ~94 |
 | Dangerous Lands | 0.50% | ~94 |
-| Forsaken Gods Temple | 0.50% | ~94 |
 | Forbidden Lands | 0.40% | ~75 |
 | Fox Utopia | 0.40% | ~75 |
 | Feeding The People | 0.30% | ~57 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,837 (Ranked 148)  
+Progressed: 18,838 (Ranked 148)  
 Completed: 39 (0.21%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,10 +311,10 @@ Completed: 39 (0.21%) (Ranked 268)
 | 2023-12-18 | 18,615 | 39 |
 | 2023-12-19 | 18,687 | 39 |
 | 2023-12-20 | 18,771 | 39 |
-| 2023-12-21 | 18,837 | 39 |
+| 2023-12-21 | 18,838 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 228)  
-Sum: 3,276 (Ranked 175)  
+Sum: 3,277 (Ranked 175)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
@@ -322,7 +322,7 @@ Diff (max vs sum): 53
 | This game is Relaxing | 439 |
 | This game is Great for Beginners | 431 |
 | This game is Extremely Fun | 411 |
-| This game is Highly Recommended | 394 |
+| This game is Highly Recommended | 395 |
 | This game has Unique Visuals | 332 |
 | This game has Amazing Storytelling | 322 |
 | This game has Amazing Characters | 289 |
@@ -591,4 +591,4 @@ Diff (max vs sum): 53
 | 2023-12-18 | 4.82 | - | 442 | 3,268 |
 | 2023-12-19 | 4.82 | - | 442 | 3,273 |
 | 2023-12-20 | 4.82 | - | 442 | 3,274 |
-| 2023-12-21 | 4.82 | - | 442 | 3,276 |
+| 2023-12-21 | 4.82 | - | 442 | 3,277 |

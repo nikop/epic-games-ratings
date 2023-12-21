@@ -1291,9 +1291,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 3302,
+  "EOS_Progressed": 3303,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6636,6 +6636,11 @@
       "Time": "2023-12-21T14:03:25.3850443+00:00",
       "NumProgressed": 3302,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-21T18:03:13.2560422+00:00",
+      "NumProgressed": 3303,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -6949,9 +6954,9 @@
       "ID": "ACH_THE-FINER-THINGS-IN-LIFE",
       "SetID": "72olkc5",
       "Name": "The finer things in life",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 660
+      "UsersEstimate": 628
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -7015,7 +7020,7 @@
       "Name": "Welcome to the family",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -7023,22 +7028,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 2014
+      "UsersEstimate": 2015
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3302,
+      "Progressed": 3303,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-12-21T13:59:00.5650265+00:00",
-  "LastChanged_Achievements": "2023-12-21T17:03:34.8517859+00:00",
+  "LastChanged_Achievements": "2023-12-21T18:03:13.2560418+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:11.20318+00:00",
-  "LastUpdate_Ratings": "2023-12-21T16:59:12.5165407+00:00",
-  "LastUpdate_Achievements": "2023-12-21T17:03:34.8518431+00:00"
+  "LastUpdate_Ratings": "2023-12-21T17:58:42.2495525+00:00",
+  "LastUpdate_Achievements": "2023-12-21T18:03:13.2561063+00:00"
 }

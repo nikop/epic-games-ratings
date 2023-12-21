@@ -1,30 +1,30 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.58 (Ranked 456)  
+Rating: 4.57 (Ranked 482)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 30.00% | ~1,085 |
+| Wakey Wakey | 30.00% | ~1,086 |
 | Sputnik 2049 | 27.00% | ~977 |
-| Infinite Growth... | 26.00% | ~940 |
-| Without Breaking Some Eggs... | 25.00% | ~904 |
+| Infinite Growth... | 26.00% | ~941 |
+| Without Breaking Some Eggs... | 25.00% | ~905 |
 | A Thousand Strong | 18.00% | ~651 |
 | Ready for a New World | 18.00% | ~651 |
 | Space Society | 17.00% | ~615 |
 | Permanent Redesigns | 15.00% | ~543 |
-| Fully Recycled | 14.00% | ~506 |
-| Ain't Nobody Got Time for That | 14.00% | ~506 |
-| The Ship of Theseus | 14.00% | ~506 |
+| Fully Recycled | 14.00% | ~507 |
+| Ain't Nobody Got Time for That | 14.00% | ~507 |
+| The Ship of Theseus | 14.00% | ~507 |
 | Guy de Borderlands | 13.00% | ~470 |
 | Exceeding Capacity | 12.00% | ~434 |
 | Breaking Protocol | 12.00% | ~434 |
 | Hope Seeker | 12.00% | ~434 |
 | A Hunk of Junk | 11.00% | ~398 |
 | Man's Best Friend | 9.00% | ~326 |
-| Power Outage | 8.00% | ~289 |
-| Convenient Transport | 8.00% | ~289 |
-| Please Make it Stop! | 8.00% | ~289 |
+| Power Outage | 8.00% | ~290 |
+| Convenient Transport | 8.00% | ~290 |
+| Please Make it Stop! | 8.00% | ~290 |
 | Sightseeing | 7.00% | ~253 |
 | Necessary Enhancement | 7.00% | ~253 |
 | Access Granted | 6.00% | ~217 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 456)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,617 (Ranked 211)  
+Progressed: 3,619 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 3,569 | 0 |
 | 2023-12-19 | 3,586 | 0 |
 | 2023-12-20 | 3,605 | 0 |
-| 2023-12-21 | 3,617 | 0 |
+| 2023-12-21 | 3,619 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -356,3 +356,4 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-11-29 | 4.58 | 0 | 0 |
 | 2023-12-06 | 4.57 | 0 | 0 |
 | 2023-12-10 | 4.58 | 0 | 0 |
+| 2023-12-21 | 4.57 | 0 | 0 |

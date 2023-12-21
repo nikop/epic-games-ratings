@@ -4,7 +4,7 @@
   "ProductSlug": "airport-ceo-442ecc",
   "Ranking_EOS_Progress": 519,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 431,
+  "Ranking_EOS_NewPlayers": 435,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-09-01T10:00:00+00:00",
@@ -330,9 +330,9 @@
       "ID": "AvianVeterinarian",
       "SetID": "d11cl5p",
       "Name": "Avian veterinarian",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "BehemothOfTheSkies",
@@ -434,9 +434,9 @@
       "ID": "NoviceCEO",
       "SetID": "d11cl5p",
       "Name": "Novice CEO",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "OrACEO",
@@ -466,9 +466,9 @@
       "ID": "RegionalAirport",
       "SetID": "d11cl5p",
       "Name": "Regional airport",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Scan750MBags",
@@ -498,9 +498,9 @@
       "ID": "SmallAirfield",
       "SetID": "d11cl5p",
       "Name": "Small airfield",
-      "Percentage": 60,
+      "Percentage": 62,
       "XP": 25,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "TakeMeToYourHeaven",
@@ -593,8 +593,8 @@
   ],
   "FirstSeen": "2023-09-02T13:02:28.4911547+00:00",
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2023-12-21T17:05:28.7736357+00:00",
+  "LastChanged_Achievements": "2023-12-21T18:04:56.8724729+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:11.3523836+00:00",
-  "LastUpdate_Ratings": "2023-12-21T16:59:48.3867745+00:00",
-  "LastUpdate_Achievements": "2023-12-21T17:05:28.7736581+00:00"
+  "LastUpdate_Ratings": "2023-12-21T17:59:13.036365+00:00",
+  "LastUpdate_Achievements": "2023-12-21T18:04:56.872495+00:00"
 }

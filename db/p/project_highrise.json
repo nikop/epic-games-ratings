@@ -2,9 +2,9 @@
   "ID": "d354bf1a92ac4546aa20c74c8e7f70e1",
   "Name": "Project Highrise",
   "ProductSlug": "project-highrise-a567e8",
-  "Ranking_EOS_Progress": 343,
+  "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 408,
+  "EOS_Progressed": 409,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
@@ -1220,6 +1220,11 @@
       "Time": "2023-12-21T17:03:30.4773202+00:00",
       "NumProgressed": 408,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T18:03:09.26205+00:00",
+      "NumProgressed": 409,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1263,7 +1268,7 @@
       "Name": "Floor Galore",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ach_area_1",
@@ -1319,7 +1324,7 @@
       "Name": "Campaign Launch",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ach_campaigns_1",
@@ -1439,7 +1444,7 @@
       "Name": "Proper Walls",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ach_drones",
@@ -1535,7 +1540,7 @@
       "Name": "Starting Skyward",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "ach_floors_1",
@@ -1543,7 +1548,7 @@
       "Name": "Careful Constructor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ach_floors_2",
@@ -1583,7 +1588,7 @@
       "Name": "Rehab Expert",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ach_happy",
@@ -1597,9 +1602,9 @@
       "ID": "ach_loan",
       "SetID": "b8gh1fi",
       "Name": "Don\u0027t Feel a Loan",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 90
     },
     {
       "ID": "ach_mod_1",
@@ -1639,7 +1644,7 @@
       "Name": "Meet Me at HQ",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ach_plaza",
@@ -1679,7 +1684,7 @@
       "Name": "Established Fame",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ach_prestige_3",
@@ -1693,9 +1698,9 @@
       "ID": "ach_profit_0",
       "SetID": "b8gh1fi",
       "Name": "In the Black",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 241
+      "UsersEstimate": 237
     },
     {
       "ID": "ach_profit_1",
@@ -1711,7 +1716,7 @@
       "Name": "Profound Proceeds",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ach_recycling_1",
@@ -1719,7 +1724,7 @@
       "Name": "Maximum Reuse",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ach_renters",
@@ -1743,7 +1748,7 @@
       "Name": "Tasty Profits",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ach_restaurants_3",
@@ -1751,7 +1756,7 @@
       "Name": "Dinner Dash",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ach_restaurants_4",
@@ -1773,9 +1778,9 @@
       "ID": "ach_retail_1",
       "SetID": "b8gh1fi",
       "Name": "Retail Revenue",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 94
     },
     {
       "ID": "ach_retail_2",
@@ -1797,9 +1802,9 @@
       "ID": "ach_retail_4",
       "SetID": "b8gh1fi",
       "Name": "Boutique Benefits",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 49
     },
     {
       "ID": "ach_revs_1",
@@ -1887,7 +1892,7 @@
       "Name": "It\u0027s a Gas",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ach_util_phone",
@@ -1917,9 +1922,9 @@
       "ID": "ach_veryhappy",
       "SetID": "b8gh1fi",
       "Name": "Thrilled Tenants",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 49
     },
     {
       "ID": "ach_visitors_1",
@@ -1927,14 +1932,14 @@
       "Name": "Destination Destiny",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 408,
+      "Progressed": 409,
       "Completed": 0
     }
   ],
@@ -1942,8 +1947,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-12-21T17:03:30.4773199+00:00",
+  "LastChanged_Achievements": "2023-12-21T18:03:09.2620496+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:18.491222+00:00",
-  "LastUpdate_Ratings": "2023-12-21T17:00:02.3255487+00:00",
-  "LastUpdate_Achievements": "2023-12-21T17:03:30.4774226+00:00"
+  "LastUpdate_Ratings": "2023-12-21T17:59:23.9295045+00:00",
+  "LastUpdate_Achievements": "2023-12-21T18:03:09.2621563+00:00"
 }

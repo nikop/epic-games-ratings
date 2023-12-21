@@ -2,12 +2,12 @@
   "ID": "b3d490d845c040ee82fd02f400ab0efc",
   "Name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
   "ProductSlug": "spongebob-squarepants-battle-for-bikini-bottom-rehydrated",
-  "Ranking_Rating": 297,
+  "Ranking_Rating": 298,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
@@ -311,9 +311,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 160,
+  "EOS_Progressed": 162,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -646,6 +646,11 @@
       "Time": "2023-12-21T17:06:05.1506383+00:00",
       "NumProgressed": 160,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T18:05:30.4664601+00:00",
+      "NumProgressed": 162,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -656,9 +661,9 @@
       "ID": "ACH_ALL_ROBOTS",
       "SetID": "biiejkc",
       "Name": "Robot encyclopedia",
-      "Percentage": 0,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_ARE_YOU_READY_NOW",
@@ -712,9 +717,9 @@
       "ID": "ACH_FIND_BB_SPATULAS",
       "SetID": "biiejkc",
       "Name": "Hello, Bikini Bottom",
-      "Percentage": 0,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FLYING_DUTCHMAN_BOSS",
@@ -913,15 +918,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 160,
+      "Progressed": 162,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-17T16:58:22.2973338+00:00",
-  "LastChanged_Achievements": "2023-12-21T17:06:05.1506381+00:00",
+  "LastChanged_Achievements": "2023-12-21T18:05:30.4664597+00:00",
   "LastUpdate_AppInfo": "2023-12-16T13:57:06.8451361+00:00",
-  "LastUpdate_Ratings": "2023-12-21T17:00:21.2285849+00:00",
-  "LastUpdate_Achievements": "2023-12-21T17:06:05.1506564+00:00"
+  "LastUpdate_Ratings": "2023-12-21T17:59:40.1875498+00:00",
+  "LastUpdate_Achievements": "2023-12-21T18:05:30.4664784+00:00"
 }

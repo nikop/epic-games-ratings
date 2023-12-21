@@ -4,10 +4,10 @@
   "ProductSlug": "might-and-magic-heroes-3",
   "Ranking_Rating": 70,
   "Ranking_Popularity": 275,
-  "Ranking_PopularitySum": 274,
+  "Ranking_PopularitySum": 273,
   "Ranking_EOS_Progress": 813,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 561,
+  "Ranking_EOS_NewPlayers": 562,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -2720,18 +2720,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 910,
       "NumberOfAwardsMax": 241
+    },
+    {
+      "Time": "2023-12-21T17:58:03.2855419+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 915,
+      "NumberOfAwardsMax": 242
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 910,
-  "NumberOfAwardsMax": 241,
+  "NumberOfAwards": 915,
+  "NumberOfAwardsMax": 242,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 241
+      "Count": 242
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2761,7 +2767,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 69
+      "Count": 72
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2791,7 +2797,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 57
+      "Count": 58
     },
     {
       "Text": "This game has a Creative Community",
@@ -2811,8 +2817,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:33.8101196+00:00",
-  "LastChanged": "2023-12-19T20:57:34.158418+00:00",
+  "LastChanged": "2023-12-21T17:58:03.2855417+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:02.9387737+00:00",
-  "LastUpdate_Ratings": "2023-12-21T16:58:28.6146833+00:00",
-  "LastUpdate_Achievements": "2023-12-21T17:09:17.710637+00:00"
+  "LastUpdate_Ratings": "2023-12-21T17:58:03.2855421+00:00",
+  "LastUpdate_Achievements": "2023-12-21T18:08:53.3274752+00:00"
 }

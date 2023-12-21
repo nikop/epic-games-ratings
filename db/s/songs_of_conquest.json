@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 412,
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 613,
+  "EOS_Progressed": 617,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2463,6 +2463,11 @@
       "Time": "2023-12-21T17:08:51.4193237+00:00",
       "NumProgressed": 613,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T18:08:08.379149+00:00",
+      "NumProgressed": 617,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2483,7 +2488,7 @@
       "Name": "The Song of Stoutheart",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ArleonCampaignFinaleOnHard",
@@ -2579,7 +2584,7 @@
       "Name": "Critical Hit",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "Deepstrike",
@@ -2619,7 +2624,7 @@
       "Name": "Double Kill",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 204
     },
     {
       "ID": "FlameAttackKillCount",
@@ -2681,9 +2686,9 @@
       "ID": "MultiKill",
       "SetID": "71c0n9i",
       "Name": "Multi Kill",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 43
     },
     {
       "ID": "MultiplayerWins",
@@ -2761,7 +2766,7 @@
       "ID": "SwapIntoPoisonCloud",
       "SetID": "71c0n9i",
       "Name": "Get Over Here!",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -2803,7 +2808,7 @@
       "Name": "Adept",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 247
     },
     {
       "ID": "WielderLevel2",
@@ -2811,7 +2816,7 @@
       "Name": "Veteran",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "WielderLevel3",
@@ -2851,7 +2856,7 @@
       "Name": "Expert Essence Employment",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "WinSiegeAsAttacker",
@@ -2867,7 +2872,7 @@
       "Name": "Venisti, Vidisti, Perdidisti",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "WinsWithFactionArleon",
@@ -2906,15 +2911,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 613,
+      "Progressed": 617,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-21T17:08:51.4193234+00:00",
+  "LastChanged_Achievements": "2023-12-21T18:08:08.3791486+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:10.4027668+00:00",
-  "LastUpdate_Ratings": "2023-12-21T16:58:52.3734362+00:00",
-  "LastUpdate_Achievements": "2023-12-21T17:08:51.4193714+00:00"
+  "LastUpdate_Ratings": "2023-12-21T17:58:24.7442404+00:00",
+  "LastUpdate_Achievements": "2023-12-21T18:08:08.37919+00:00"
 }

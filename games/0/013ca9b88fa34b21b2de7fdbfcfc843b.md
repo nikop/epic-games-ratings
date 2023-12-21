@@ -21,13 +21,14 @@ Rating: 4.63 (Ranked 353)
 | Oui, Chef! | 0.50% | ~43 |
 | Exit Through The Gift Shop | 0.50% | ~6 |
 | Higher Tax Bracket | 0.40% | ~34 |
+| Azorian Anniversary | 0.40% | ~34 |
 | Skilled | 0.40% | ~34 |
 | Flaming Hot Completos | 0.30% | ~26 |
 | Beach Comber | 0.30% | ~26 |
 | Botanical Breakthrough | 0.30% | ~26 |
-| Azorian Anniversary | 0.30% | ~26 |
 | Right Tool For the Job | 0.30% | ~26 |
 | Fae Farmer | 0.20% | ~17 |
+| Got to Catch Them All | 0.20% | ~17 |
 | Rumble in the Jumble | 0.20% | ~17 |
 | Fanatical Farmer | 0.20% | ~17 |
 | I Now Pronounce You... | 0.20% | ~17 |
@@ -38,7 +39,6 @@ Rating: 4.63 (Ranked 353)
 | Azorian Hat Dance | 0.20% | ~2 |
 | Going Down | 0.20% | ~2 |
 | Cloverfield Island | 0.10% | ~9 |
-| Got to Catch Them All | 0.10% | ~9 |
 | Angling Authority | 0.10% | ~9 |
 | Workaholic | 0.10% | ~9 |
 | Giving the People What They Want | 0.10% | ~9 |
@@ -49,7 +49,7 @@ Rating: 4.63 (Ranked 353)
 | Splish-Splash | 0.10% | ~1 |
 | Archi-Pal-igo Aficionado | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,573 (Ranked 180)  
+Progressed: 8,576 (Ranked 180)  
 Completed: 1 (0.01%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 1 (0.01%) (Ranked 361)
 | 2023-12-18 | 8,518 | 1 |
 | 2023-12-19 | 8,538 | 1 |
 | 2023-12-20 | 8,558 | 1 |
-| 2023-12-21 | 8,573 | 1 |
+| 2023-12-21 | 8,576 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

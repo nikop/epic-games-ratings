@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17000,
+  "EOS_Progressed": 17003,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 795,
+  "EOS_NewPlayers": 789,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -14650,6 +14650,11 @@
       "Time": "2023-12-21T17:05:37.3020761+00:00",
       "NumProgressed": 17000,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-12-21T18:05:04.818828+00:00",
+      "NumProgressed": 17003,
+      "NumCompleted": 46
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14918,7 +14923,7 @@
       "Name": "Zen Master",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "34",
@@ -14941,13 +14946,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17000,
+      "Progressed": 17003,
       "Completed": 46
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2954,
+      "Progressed": 2957,
       "Completed": 976
     }
   ],
@@ -14955,8 +14960,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-21T04:02:39.716899+00:00",
-  "LastChanged_Achievements": "2023-12-21T17:05:37.3020758+00:00",
+  "LastChanged_Achievements": "2023-12-21T18:05:04.8188275+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:40.0929133+00:00",
-  "LastUpdate_Ratings": "2023-12-21T17:02:46.0842735+00:00",
-  "LastUpdate_Achievements": "2023-12-21T17:05:37.302165+00:00"
+  "LastUpdate_Ratings": "2023-12-21T18:02:27.6965549+00:00",
+  "LastUpdate_Achievements": "2023-12-21T18:05:04.818935+00:00"
 }

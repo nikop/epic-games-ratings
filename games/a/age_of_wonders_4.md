@@ -9,9 +9,9 @@ Rating: 4.62 (Ranked 373)
 | Realm Estate | 6.00% | ~356 |
 | A Wonderful Discovery | 6.00% | ~356 |
 | Walls Cannot Stop Us | 6.00% | ~356 |
-| Bone Peddler | 5.00% | ~296 |
-| From Friends to Family | 5.00% | ~296 |
-| But this one is mine | 5.00% | ~296 |
+| Bone Peddler | 5.00% | ~297 |
+| From Friends to Family | 5.00% | ~297 |
+| But this one is mine | 5.00% | ~297 |
 | There Can Only Be One! | 4.00% | ~237 |
 | Full Ascension | 4.00% | ~237 |
 | Magical Synergy | 4.00% | ~237 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 373)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,929 (Ranked 193)  
+Progressed: 5,931 (Ranked 193)  
 Completed: 7 (0.12%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 7 (0.12%) (Ranked 295)
 | 2023-12-18 | 5,842 | 7 |
 | 2023-12-19 | 5,881 | 7 |
 | 2023-12-20 | 5,911 | 7 |
-| 2023-12-21 | 5,929 | 7 |
+| 2023-12-21 | 5,931 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 481)  
 Sum: 113 (Ranked 450)  

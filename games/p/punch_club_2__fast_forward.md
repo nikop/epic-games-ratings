@@ -9,11 +9,11 @@
 | First winning | 83.00% | ~364 |
 | Good Person Chip | 83.00% | ~364 |
 | Your first job | 82.00% | ~360 |
+| Depressed visitor | 77.00% | ~338 |
 | Old movies enjoyer | 76.00% | ~334 |
-| Depressed visitor | 76.00% | ~334 |
 | Neurotrainer – power gainer! | 76.00% | ~334 |
 | Fitness professional | 75.00% | ~329 |
-| Employee of the week | 74.00% | ~325 |
+| Employee of the week | 75.00% | ~329 |
 | Your own amateur gym | 70.00% | ~307 |
 | First defeat | 69.00% | ~303 |
 | Run K, run! | 69.00% | ~303 |
@@ -41,17 +41,17 @@
 | Mysterious voice | 42.00% | ~184 |
 | Guiding on the right path | 42.00% | ~184 |
 | No blades in the gym | 40.00% | ~176 |
-| Champion – no way back | 38.00% | ~167 |
+| Champion – no way back | 39.00% | ~171 |
+| Underground dwellers | 38.00% | ~167 |
 | Responsible approach | 38.00% | ~167 |
-| Underground dwellers | 37.00% | ~162 |
 | Mom got better | 36.00% | ~158 |
 | Deal with life | 36.00% | ~158 |
 | GYM professional | 36.00% | ~158 |
 | The die is cast | 36.00% | ~158 |
 | Poisoned fighter | 34.00% | ~149 |
 | Get out of my apartment! | 34.00% | ~149 |
+| Seashell hunter | 33.00% | ~145 |
 | Gang wrangler | 32.00% | ~140 |
-| Seashell hunter | 32.00% | ~140 |
 | Undercover robot | 32.00% | ~140 |
 | Problems of cyborgs | 31.00% | ~136 |
 | Not little hacker | 31.00% | ~136 |

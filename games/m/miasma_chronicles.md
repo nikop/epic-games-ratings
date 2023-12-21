@@ -1,7 +1,7 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.37 (Ranked 783)  
+Rating: 4.37 (Ranked 782)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -31,8 +31,8 @@ Rating: 4.37 (Ranked 783)
 | Hold The Line | 32.00% | ~521 |
 | Endgame | 28.00% | ~456 |
 | Savior | 28.00% | ~456 |
+| Silent but Violent | 27.00% | ~440 |
 | There Can Be Only One! | 27.00% | ~440 |
-| Silent but Violent | 26.00% | ~424 |
 | Chain Killer | 22.00% | ~358 |
 | The Watchers | 22.00% | ~358 |
 | Commando | 17.00% | ~277 |

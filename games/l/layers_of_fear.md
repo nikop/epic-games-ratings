@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 81.00% | ~138 |
-| A piece of the story | 59.00% | ~100 |
-| Wanderer | 58.00% | ~99 |
-| It's covered up for a reason | 48.00% | ~82 |
-| Scraps of love | 44.00% | ~75 |
-| The artist’s impression | 43.00% | ~73 |
-| Do what you have to | 42.00% | ~71 |
-| Sign of weakness | 36.00% | ~61 |
-| Refuse to look | 33.00% | ~56 |
-| Face your fears | 28.00% | ~48 |
+| Something important | 81.00% | ~139 |
+| A piece of the story | 58.00% | ~100 |
+| Wanderer | 58.00% | ~100 |
+| It's covered up for a reason | 47.00% | ~81 |
+| Scraps of love | 44.00% | ~76 |
+| The artist’s impression | 43.00% | ~74 |
+| Do what you have to | 42.00% | ~72 |
+| Sign of weakness | 37.00% | ~64 |
+| Refuse to look | 33.00% | ~57 |
+| Face your fears | 27.00% | ~46 |
 | Finished it | 27.00% | ~46 |
-| Whispers long forgotten | 14.00% | ~24 |
-| Debut | 11.00% | ~19 |
-| The art of movement | 11.00% | ~19 |
+| Whispers long forgotten | 13.00% | ~22 |
 | A Slice of Life | 10.00% | ~17 |
+| Debut | 10.00% | ~17 |
 | Playtime | 10.00% | ~17 |
+| The art of movement | 10.00% | ~17 |
 | Tough conversation | 10.00% | ~17 |
 | Sound Bite | 9.00% | ~15 |
 | The tragedy unfolds | 9.00% | ~15 |
@@ -31,10 +31,10 @@
 | Breaking free | 7.00% | ~12 |
 | Casting Finished | 6.00% | ~10 |
 | Heavy Burden | 6.00% | ~10 |
-| Fisherman | 5.00% | ~8 |
+| Fisherman | 5.00% | ~9 |
 | We Are Not Alone | 4.00% | ~7 |
-| The Perfect Storm | 4.00% | ~7 |
 | Instinct of self-preservation | 4.00% | ~7 |
+| The Perfect Storm | 3.00% | ~5 |
 | Something to think about | 2.00% | ~3 |
 | I remember It Like Was Yesterday | 2.00% | ~3 |
 | Body of Work | 2.00% | ~3 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 170 (Ranked 417)  
+Progressed: 172 (Ranked 415)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,4 +116,4 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 152 | 0 |
 | 2023-12-19 | 159 | 0 |
 | 2023-12-20 | 162 | 0 |
-| 2023-12-21 | 170 | 0 |
+| 2023-12-21 | 172 | 0 |

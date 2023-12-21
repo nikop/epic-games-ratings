@@ -4,7 +4,7 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 463,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
@@ -624,9 +624,9 @@
       "ID": "jz1",
       "SetID": "b1ggf28",
       "Name": "Builder",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "jz2",
@@ -648,9 +648,9 @@
       "ID": "k1",
       "SetID": "b1ggf28",
       "Name": "Advanced Technology",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "k2",
@@ -839,8 +839,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-21T17:03:38.1355343+00:00",
+  "LastChanged_Achievements": "2023-12-21T18:03:16.435408+00:00",
   "LastUpdate_AppInfo": "2023-12-20T04:56:56.1414311+00:00",
-  "LastUpdate_Ratings": "2023-12-21T17:02:59.4966619+00:00",
-  "LastUpdate_Achievements": "2023-12-21T17:03:38.1355779+00:00"
+  "LastUpdate_Ratings": "2023-12-21T18:02:39.6051038+00:00",
+  "LastUpdate_Achievements": "2023-12-21T18:03:16.4354586+00:00"
 }

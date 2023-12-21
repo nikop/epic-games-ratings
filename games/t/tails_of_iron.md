@@ -1,7 +1,7 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.57 (Ranked 483)  
+Rating: 4.57 (Ranked 482)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -32,6 +32,7 @@ Rating: 4.57 (Ranked 483)
 | Smithy Ready to Craft | 0.20% | ~5 |
 | Rescue Redgi's Brothers | 0.20% | ~5 |
 | Complete Redgi's Armory | 0.10% | ~2 |
+| King of Kings | 0.10% | ~2 |
 | Complete Arena Faction | 0.10% | ~2 |
 | Complete Ranger Faction | 0.10% | ~2 |
 | Defeat Avor Warden of the Northern Wastes | 0.10% | ~2 |
@@ -39,7 +40,6 @@ Rating: 4.57 (Ranked 483)
 | Discover the mystery of the Kings Chambers | 0.10% | ~2 |
 | Defeat the Grub Buster | 0.10% | ~1 |
 | Defeat the Stalker Queen | 0.10% | ~1 |
-| King of Kings | 0.00% | ~0 |
 | A new Warchief rises | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,264 (Ranked 231)  

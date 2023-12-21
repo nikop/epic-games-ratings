@@ -16,12 +16,12 @@
 | Captain Mustache | 38.00% | ~17 |
 | Demon Slayer | 31.00% | ~14 |
 | Urban Explorer | 31.00% | ~14 |
+| Steal Her Away | 31.00% | ~14 |
 | Sewer Rat | 31.00% | ~14 |
-| Steal Her Away | 29.00% | ~13 |
-| Fight Fire With Fire | 29.00% | ~13 |
+| Fight Fire With Fire | 31.00% | ~14 |
+| Not Today | 29.00% | ~13 |
 | Big Eater | 27.00% | ~12 |
 | Tour Guide | 27.00% | ~12 |
-| Not Today | 27.00% | ~12 |
 | The Real O.G. | 24.00% | ~11 |
 | Coward | 24.00% | ~11 |
 | Tomb Raider | 24.00% | ~11 |

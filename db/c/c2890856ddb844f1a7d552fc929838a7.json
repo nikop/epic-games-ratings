@@ -201,9 +201,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1530,
+  "EOS_Progressed": 1531,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 405,
+  "EOS_NewPlayers": 404,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3711,6 +3711,11 @@
       "Time": "2023-12-21T17:05:45.8842507+00:00",
       "NumProgressed": 1530,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T18:05:13.2179646+00:00",
+      "NumProgressed": 1531,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -3731,7 +3736,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 1377
+      "UsersEstimate": 1378
     },
     {
       "ID": "AC02",
@@ -3755,7 +3760,7 @@
       "Name": "Blood and Iron",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "AC05",
@@ -3763,7 +3768,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "AC06",
@@ -3771,7 +3776,7 @@
       "Name": "The Last Ascension",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "AC07",
@@ -3779,7 +3784,7 @@
       "Name": "The Sea dies on the Shore",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "AC08",
@@ -3819,7 +3824,7 @@
       "Name": "Canvas of Light and Time",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "AC13",
@@ -3835,7 +3840,7 @@
       "Name": "Acta, Non Verba",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "AC15",
@@ -3915,7 +3920,7 @@
       "Name": "The Work of a Master",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "AC25",
@@ -4019,7 +4024,7 @@
       "Name": "Storm of Death",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "AC38",
@@ -4027,7 +4032,7 @@
       "Name": "Edge of Orison",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "AC39",
@@ -4041,9 +4046,9 @@
       "ID": "AC40",
       "SetID": "l4abp0",
       "Name": "Welcome Back!",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1193
+      "UsersEstimate": 1209
     },
     {
       "ID": "AC41",
@@ -4090,7 +4095,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 1530,
+      "Progressed": 1531,
       "Completed": 0
     }
   ],
@@ -4098,8 +4103,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-12-19T21:59:42.3397151+00:00",
-  "LastChanged_Achievements": "2023-12-21T17:05:45.8842506+00:00",
+  "LastChanged_Achievements": "2023-12-21T18:05:13.2179643+00:00",
   "LastUpdate_AppInfo": "2023-12-20T02:56:51.3112263+00:00",
-  "LastUpdate_Ratings": "2023-12-21T16:57:27.4598809+00:00",
-  "LastUpdate_Achievements": "2023-12-21T17:05:45.8842985+00:00"
+  "LastUpdate_Ratings": "2023-12-21T17:57:08.1947576+00:00",
+  "LastUpdate_Achievements": "2023-12-21T18:05:13.2180057+00:00"
 }

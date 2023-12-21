@@ -56,7 +56,7 @@ Rating: 4.56 (Ranked 498)
 | Master of the classes | 1.00% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 103 (Ranked 465)  
+Progressed: 103 (Ranked 466)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |

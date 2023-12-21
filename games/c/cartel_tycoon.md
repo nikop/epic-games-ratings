@@ -1,7 +1,7 @@
 # Cartel Tycoon
 [Store](https://store.epicgames.com/en-US/p/cartel-tycoon)  
 [View Rawdata](../../db/c/cartel_tycoon.json)  
-Rating: 4.37 (Ranked 783)  
+Rating: 4.37 (Ranked 782)  
 Number of Ratings: 101  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -26,7 +26,7 @@ Number of Ratings: 101  (23.09.2022)
 | Iron Lady | 0.70% | ~6 |
 | Sense Of Style | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 809 (Ranked 289)  
+Progressed: 809 (Ranked 290)  
 Completed: 3 (0.37%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -29,6 +29,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Silver Victory (Carthage 2) | 0.10% | ~16 |
 | Carthage - Rise of Rome | 0.10% | ~16 |
 | Bronze Victory (Carthage 3) | 0.10% | ~16 |
+| Epic Victory (Carthage 3) | 0.10% | ~16 |
 | Gold Victory (Carthage 3) | 0.10% | ~16 |
 | Silver Victory (Carthage 3) | 0.10% | ~16 |
 | Cleopatra's Love | 0.10% | ~16 |
@@ -171,6 +172,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Word of God | 0.10% | ~16 |
 | Trade Caravan | 0.10% | ~16 |
 | Cimmerian Archer | 0.10% | ~16 |
+| Three Man Chariot | 0.10% | ~16 |
 | Kushite Cavalry | 0.10% | ~16 |
 | Legionary | 0.10% | ~16 |
 | Phalangite | 0.10% | ~16 |
@@ -192,6 +194,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Clergy | 0.10% | ~16 |
 | Deposed Tribe | 0.10% | ~16 |
 | The Great Mage | 0.10% | ~16 |
+| Pilgrimage | 0.10% | ~16 |
 | Poetic Leader | 0.10% | ~16 |
 | Ramesses II KIA | 0.10% | ~16 |
 | Lost the Hearts of Kmt | 0.10% | ~16 |
@@ -214,7 +217,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Battle of Opis | 0.00% | ~0 |
 | Blade of the Monkey | 0.00% | ~0 |
 | Hagia Sophia in Byzantion | 0.00% | ~0 |
-| Epic Victory (Carthage 3) | 0.00% | ~0 |
 | Carthage - Seizing Destiny | 0.00% | ~0 |
 | Bronze Victory (Carthage 4) | 0.00% | ~0 |
 | Epic Victory (Carthage 4) | 0.00% | ~0 |
@@ -297,7 +299,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Roman Papacy | 0.00% | ~0 |
 | Cataphract Archer | 0.00% | ~0 |
-| Three Man Chariot | 0.00% | ~0 |
 | No Characters | 0.00% | ~0 |
 | One City Challenge | 0.00% | ~0 |
 | Time Victory | 0.00% | ~0 |
@@ -310,7 +311,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | Five Cults | 0.00% | ~0 |
 | The Mythical Beast | 0.00% | ~0 |
-| Pilgrimage | 0.00% | ~0 |
 | Patriarch St Paul | 0.00% | ~0 |
 | Hypatia the Teacher | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |

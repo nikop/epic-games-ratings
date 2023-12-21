@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 195,
+  "EOS_Progressed": 198,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -674,6 +674,11 @@
       "Time": "2023-12-21T17:08:33.824954+00:00",
       "NumProgressed": 195,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T18:07:52.0983006+00:00",
+      "NumProgressed": 198,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -692,41 +697,41 @@
       "ID": "CareerAllChallenges",
       "SetID": "5hd282c",
       "Name": "Highballer",
-      "Percentage": 0,
+      "Percentage": 0.5,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CareerChamp1",
       "SetID": "5hd282c",
       "Name": "Regional Juniors Champion",
-      "Percentage": 0.5,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 4
     },
     {
       "ID": "CareerChamp2",
       "SetID": "5hd282c",
       "Name": "National Amateurs Champion",
-      "Percentage": 0,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CareerChamp3",
       "SetID": "5hd282c",
       "Name": "Challengers Champion",
-      "Percentage": 0,
+      "Percentage": 0.5,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CareerChamp4",
       "SetID": "5hd282c",
       "Name": "Pro Internationals Champion",
-      "Percentage": 0,
+      "Percentage": 0.5,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CareerComplete",
@@ -740,25 +745,25 @@
       "ID": "CareerFirstWin",
       "SetID": "5hd282c",
       "Name": "Storm Warning",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 8
     },
     {
       "ID": "CollectVehiclesA",
       "SetID": "5hd282c",
       "Name": "Wheeler Dealer",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 6
     },
     {
       "ID": "CollectVehiclesB",
       "SetID": "5hd282c",
       "Name": "Junk Collector",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "CreditsEarnedA",
@@ -796,17 +801,17 @@
       "ID": "PlayerRankA",
       "SetID": "5hd282c",
       "Name": "Dirty Roller",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "PlayerRankB",
       "SetID": "5hd282c",
       "Name": "Trashing Around",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "PlayerRankC",
@@ -845,7 +850,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 195,
+      "Progressed": 198,
       "Completed": 0
     }
   ],
@@ -853,8 +858,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-19T23:00:17.2400985+00:00",
-  "LastChanged_Achievements": "2023-12-21T17:08:33.8249537+00:00",
+  "LastChanged_Achievements": "2023-12-21T18:07:52.0983002+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:03.0967517+00:00",
-  "LastUpdate_Ratings": "2023-12-21T16:57:44.2642145+00:00",
-  "LastUpdate_Achievements": "2023-12-21T17:08:33.8249653+00:00"
+  "LastUpdate_Ratings": "2023-12-21T17:57:22.9170782+00:00",
+  "LastUpdate_Achievements": "2023-12-21T18:07:52.098314+00:00"
 }

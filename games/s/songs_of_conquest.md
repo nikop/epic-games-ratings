@@ -6,23 +6,23 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 40.00% | ~245 |
-| Double Kill | 33.00% | ~202 |
-| Critical Hit | 19.00% | ~116 |
-| Veteran | 18.00% | ~110 |
+| Adept | 40.00% | ~247 |
+| Double Kill | 33.00% | ~204 |
+| Critical Hit | 19.00% | ~117 |
+| Veteran | 18.00% | ~111 |
 | Dressed For Success | 12.00% | ~74 |
-| Multi Kill | 8.00% | ~49 |
 | Humiliation | 8.00% | ~49 |
 | Veni, Vidi, Vici | 8.00% | ~49 |
+| Multi Kill | 7.00% | ~43 |
 | Sorcerous Spree | 7.00% | ~43 |
 | Landlord Extraordinaire | 6.00% | ~37 |
 | Master | 6.00% | ~37 |
 | Whoops! | 5.00% | ~31 |
 | Don't Touch My Stuff | 4.00% | ~25 |
 | Trojan Horse | 4.00% | ~25 |
-| The Song of Stoutheart | 3.00% | ~18 |
-| Expert Essence Employment | 3.00% | ~18 |
-| Venisti, Vidisti, Perdidisti | 3.00% | ~18 |
+| The Song of Stoutheart | 3.00% | ~19 |
+| Expert Essence Employment | 3.00% | ~19 |
+| Venisti, Vidisti, Perdidisti | 3.00% | ~19 |
 | This Spot's Taken | 2.00% | ~12 |
 | Deepstrike | 2.00% | ~12 |
 | Ultra Kill | 2.00% | ~12 |
@@ -33,7 +33,7 @@ Number of Ratings: 292  (23.09.2022)
 | From the Ashes | 1.00% | ~6 |
 | Such A Fungi | 1.00% | ~6 |
 | Grand Master | 1.00% | ~6 |
-| Get Over Here! | 0.70% | ~4 |
+| Get Over Here! | 0.60% | ~4 |
 | Death To Diplomacy | 0.50% | ~3 |
 | Unlimited Power! | 0.50% | ~3 |
 | Fully Charged | 0.50% | ~3 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 613 (Ranked 314)  
+Progressed: 617 (Ranked 314)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 555 | 0 |
 | 2023-12-19 | 575 | 0 |
 | 2023-12-20 | 600 | 0 |
-| 2023-12-21 | 613 | 0 |
+| 2023-12-21 | 617 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 525)  
 Sum: 194 (Ranked 412)  

@@ -2,9 +2,9 @@
   "ID": "b1c68be50f37489ca95ff2b7ed616490",
   "Name": "Agatha Christie - Murder on the Orient Express",
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
-  "Ranking_EOS_Progress": 430,
+  "Ranking_EOS_Progress": 429,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 144,
+  "EOS_Progressed": 145,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -649,6 +649,11 @@
       "Time": "2023-12-21T13:09:43.1919424+00:00",
       "NumProgressed": 144,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T18:05:21.9020361+00:00",
+      "NumProgressed": 145,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -661,7 +666,7 @@
       "Name": "A mystery? No! A trifle for Poirot!",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "10",
@@ -675,9 +680,9 @@
       "ID": "11",
       "SetID": "6bgoh8g",
       "Name": "Final questions",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "12",
@@ -723,9 +728,9 @@
       "ID": "17",
       "SetID": "6bgoh8g",
       "Name": "Master Chess",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "18",
@@ -749,7 +754,7 @@
       "Name": "I do not like your face, Mr Ratchett",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "20",
@@ -787,9 +792,9 @@
       "ID": "24",
       "SetID": "6bgoh8g",
       "Name": "Just like a police lineup",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "25",
@@ -813,7 +818,7 @@
       "Name": "Dessert Connoisseur!",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "3",
@@ -876,14 +881,14 @@
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 144,
+      "Progressed": 145,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-12-21T17:05:55.2813367+00:00",
+  "LastChanged_Achievements": "2023-12-21T18:05:21.9020358+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:09.2427792+00:00",
-  "LastUpdate_Ratings": "2023-12-21T17:03:11.601994+00:00",
-  "LastUpdate_Achievements": "2023-12-21T17:05:55.2813547+00:00"
+  "LastUpdate_Ratings": "2023-12-21T18:02:50.0224893+00:00",
+  "LastUpdate_Achievements": "2023-12-21T18:05:21.9020554+00:00"
 }

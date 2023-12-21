@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1973,
+  "EOS_Progressed": 1974,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2994,6 +2994,11 @@
       "Time": "2023-12-21T17:04:44.2119403+00:00",
       "NumProgressed": 1973,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T18:04:16.5243736+00:00",
+      "NumProgressed": 1974,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3259,9 +3264,9 @@
       "ID": "Achievement_034",
       "SetID": "6b34g18",
       "Name": "Catch and Release",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 138
     },
     {
       "ID": "Achievement_035",
@@ -3532,7 +3537,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1973,
+      "Progressed": 1974,
       "Completed": 0
     }
   ],
@@ -3540,8 +3545,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-21T11:57:57.6911859+00:00",
-  "LastChanged_Achievements": "2023-12-21T17:04:44.2119399+00:00",
+  "LastChanged_Achievements": "2023-12-21T18:04:16.5243731+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:02.9619993+00:00",
-  "LastUpdate_Ratings": "2023-12-21T16:57:51.0120365+00:00",
-  "LastUpdate_Achievements": "2023-12-21T17:04:44.212003+00:00"
+  "LastUpdate_Ratings": "2023-12-21T17:57:28.7283436+00:00",
+  "LastUpdate_Achievements": "2023-12-21T18:04:16.5244329+00:00"
 }

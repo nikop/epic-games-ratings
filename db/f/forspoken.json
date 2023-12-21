@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 522,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -523,9 +523,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 44636,
+  "EOS_Progressed": 44642,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 904,
+  "EOS_NewPlayers": 900,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15933,6 +15933,11 @@
       "Time": "2023-12-21T17:03:40.1706234+00:00",
       "NumProgressed": 44636,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-21T18:03:18.2917708+00:00",
+      "NumProgressed": 44642,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -15976,7 +15981,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1785
+      "UsersEstimate": 1786
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -15992,7 +15997,7 @@
       "Name": "Attachments",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4910
+      "UsersEstimate": 4911
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -16000,7 +16005,7 @@
       "Name": "Stuck",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1785
+      "UsersEstimate": 1786
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -16136,7 +16141,7 @@
       "Name": "Leapfrogger",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2678
+      "UsersEstimate": 2679
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -16296,7 +16301,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2678
+      "UsersEstimate": 2679
     },
     {
       "ID": "STAYING_AIR",
@@ -16367,22 +16372,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 44636,
+      "Progressed": 44642,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 9473,
-      "Completed": 9473
+      "Progressed": 9479,
+      "Completed": 9479
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-21T10:56:56.3222551+00:00",
-  "LastChanged_Achievements": "2023-12-21T17:03:40.1706229+00:00",
+  "LastChanged_Achievements": "2023-12-21T18:03:18.2917705+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:26.7354097+00:00",
-  "LastUpdate_Ratings": "2023-12-21T16:57:15.7758979+00:00",
-  "LastUpdate_Achievements": "2023-12-21T17:03:40.1707426+00:00"
+  "LastUpdate_Ratings": "2023-12-21T17:56:58.5195126+00:00",
+  "LastUpdate_Achievements": "2023-12-21T18:03:18.2919757+00:00"
 }

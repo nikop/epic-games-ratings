@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 431,
+  "Ranking_EOS_NewPlayers": 423,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 845,
+  "EOS_Progressed": 846,
   "EOS_Completed": 141,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 16.69,
+  "EOS_Completed_Percentage": 16.67,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -3621,6 +3621,11 @@
       "Time": "2023-12-21T17:04:36.2305851+00:00",
       "NumProgressed": 845,
       "NumCompleted": 141
+    },
+    {
+      "Time": "2023-12-21T18:04:09.4094238+00:00",
+      "NumProgressed": 846,
+      "NumCompleted": 141
     }
   ],
   "TotalAchievements": 22,
@@ -3632,7 +3637,7 @@
       "Name": "Welcome!",
       "Percentage": 96,
       "XP": 35,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "LEVEL_002",
@@ -3640,7 +3645,7 @@
       "Name": "A tiny town",
       "Percentage": 87,
       "XP": 35,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     },
     {
       "ID": "LEVEL_003",
@@ -3648,15 +3653,15 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 67,
       "XP": 35,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "LEVEL_004",
       "SetID": "3khpmem",
       "Name": "Great view from the beach and from the hill",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 35,
-      "UsersEstimate": 490
+      "UsersEstimate": 482
     },
     {
       "ID": "LEVEL_005",
@@ -3664,7 +3669,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "LEVEL_006",
@@ -3728,7 +3733,7 @@
       "Name": "Elevated ring",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "LEVEL_014",
@@ -3736,7 +3741,7 @@
       "Name": "Not lonely anymore",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "LEVEL_015",
@@ -3744,7 +3749,7 @@
       "Name": "Monumental tribute",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "LEVEL_016",
@@ -3774,9 +3779,9 @@
       "ID": "LEVEL_019",
       "SetID": "3khpmem",
       "Name": "Aiming for a living and human city",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 152
+      "UsersEstimate": 144
     },
     {
       "ID": "LEVEL_020",
@@ -3807,7 +3812,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 845,
+      "Progressed": 846,
       "Completed": 141
     }
   ],
@@ -3815,8 +3820,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-12-21T17:04:36.2305847+00:00",
+  "LastChanged_Achievements": "2023-12-21T18:04:09.4094234+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:26.2463184+00:00",
-  "LastUpdate_Ratings": "2023-12-21T17:00:48.529175+00:00",
-  "LastUpdate_Achievements": "2023-12-21T17:04:36.2306163+00:00"
+  "LastUpdate_Ratings": "2023-12-21T18:00:03.3665826+00:00",
+  "LastUpdate_Achievements": "2023-12-21T18:04:09.4094591+00:00"
 }

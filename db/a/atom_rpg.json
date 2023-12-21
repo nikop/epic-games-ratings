@@ -403,9 +403,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1448,
+  "EOS_Progressed": 1449,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3538,6 +3538,11 @@
       "Time": "2023-12-21T17:10:08.4454417+00:00",
       "NumProgressed": 1448,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T18:09:40.8304065+00:00",
+      "NumProgressed": 1449,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -3605,7 +3610,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1434
+      "UsersEstimate": 1435
     },
     {
       "ID": "EXPERT_1",
@@ -3821,7 +3826,7 @@
       "Name": "Wanderer",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "WISHMASTER_1",
@@ -3836,15 +3841,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1448,
+      "Progressed": 1449,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-11-03T17:57:55.7845483+00:00",
-  "LastChanged_Achievements": "2023-12-21T17:10:08.4454415+00:00",
+  "LastChanged_Achievements": "2023-12-21T18:09:40.830406+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:19.4071615+00:00",
-  "LastUpdate_Ratings": "2023-12-21T16:58:42.4304546+00:00",
-  "LastUpdate_Achievements": "2023-12-21T17:10:08.4454795+00:00"
+  "LastUpdate_Ratings": "2023-12-21T17:58:15.4568844+00:00",
+  "LastUpdate_Achievements": "2023-12-21T18:09:40.8304487+00:00"
 }

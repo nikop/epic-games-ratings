@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 9.00% | ~341 |
+| Malpractice Assurance | 9.00% | ~342 |
 | Lost and Found | 6.00% | ~228 |
 | This Belongs in a Museum | 4.00% | ~5,157 |
 | Autodidact | 4.00% | ~5,157 |
@@ -23,26 +23,26 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 3.00% | ~3,868 |
 | Ploughshares to Swords | 3.00% | ~114 |
 | Friends 'Til the End | 3.00% | ~114 |
-| Don't Make Me Turn This Coach Around | 2.00% | ~2,578 |
-| It Rings a Bell | 2.00% | ~2,578 |
-| Unleash Hell | 2.00% | ~2,578 |
-| Long Live the King | 2.00% | ~2,578 |
-| Unfulfilled Desires | 2.00% | ~2,578 |
-| Dissector | 2.00% | ~2,578 |
-| Banishment | 2.00% | ~2,578 |
-| Deprogramming | 2.00% | ~2,578 |
-| Now Stay Dead | 2.00% | ~2,578 |
-| It Happens | 2.00% | ~2,578 |
-| Spelunker | 2.00% | ~2,578 |
-| Merry Time | 2.00% | ~2,578 |
-| Harvest Festival | 2.00% | ~2,578 |
-| Ramble On | 2.00% | ~2,578 |
-| Whale | 2.00% | ~2,578 |
-| A Place to Lay Your Head | 2.00% | ~2,578 |
-| FNG | 2.00% | ~2,578 |
-| Nope | 2.00% | ~2,578 |
-| Unshackled | 2.00% | ~2,578 |
-| Road Trip | 2.00% | ~2,578 |
+| Don't Make Me Turn This Coach Around | 2.00% | ~2,579 |
+| It Rings a Bell | 2.00% | ~2,579 |
+| Unleash Hell | 2.00% | ~2,579 |
+| Long Live the King | 2.00% | ~2,579 |
+| Unfulfilled Desires | 2.00% | ~2,579 |
+| Dissector | 2.00% | ~2,579 |
+| Banishment | 2.00% | ~2,579 |
+| Deprogramming | 2.00% | ~2,579 |
+| Now Stay Dead | 2.00% | ~2,579 |
+| It Happens | 2.00% | ~2,579 |
+| Spelunker | 2.00% | ~2,579 |
+| Merry Time | 2.00% | ~2,579 |
+| Harvest Festival | 2.00% | ~2,579 |
+| Ramble On | 2.00% | ~2,579 |
+| Whale | 2.00% | ~2,579 |
+| A Place to Lay Your Head | 2.00% | ~2,579 |
+| FNG | 2.00% | ~2,579 |
+| Nope | 2.00% | ~2,579 |
+| Unshackled | 2.00% | ~2,579 |
+| Road Trip | 2.00% | ~2,579 |
 | Resurrection | 1.00% | ~1,289 |
 | Funny Guy | 1.00% | ~1,289 |
 | Wyrdly Reconstructed | 1.00% | ~1,289 |
@@ -59,9 +59,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hot Air | 1.00% | ~1,289 |
 | This Looks Familiar | 0.90% | ~1,160 |
 | Eyes Up | 0.90% | ~1,160 |
-| Slap on the Wrist | 0.80% | ~30 |
+| Slap on the Wrist | 0.90% | ~34 |
 | For Old Time' Sake | 0.80% | ~30 |
-| Handled | 0.70% | ~902 |
+| Handled | 0.70% | ~903 |
 | Shrine of Reflection | 0.60% | ~774 |
 | Body of Work | 0.60% | ~774 |
 | Et Tu, Riposte? | 0.60% | ~23 |
@@ -74,9 +74,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | Bacon Bits | 0.30% | ~387 |
 | Eidetic | 0.30% | ~387 |
 | Maître De La Lame | 0.30% | ~11 |
+| On This Long Road, We Found Redemption | 0.30% | ~11 |
 | Tears in the Rain | 0.20% | ~258 |
 | Battle Hardened | 0.20% | ~8 |
-| On This Long Road, We Found Redemption | 0.20% | ~8 |
 | Loop Year | 0.10% | ~129 |
 | Circle of Life | 0.10% | ~129 |
 | No Gravestone Left Unturned | 0.10% | ~129 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,923 (Ranked 86)  
+Progressed: 128,934 (Ranked 86)  
 Completed: 3 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,14 +321,14 @@ Completed: 3 (0.00%) (Ranked 384)
 | 2023-12-18 | 128,398 | 3 |
 | 2023-12-19 | 128,605 | 3 |
 | 2023-12-20 | 128,785 | 3 |
-| 2023-12-21 | 128,923 | 3 |
+| 2023-12-21 | 128,934 | 3 |
 ## Awards
-Max (Character Customization): 7,805  (Ranked 50)  
-Sum: 20,875 (Ranked 58)  
+Max (Character Customization): 7,823  (Ranked 50)  
+Sum: 20,898 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,805 |
+| This game has Inclusive Character Customization | 7,823 |
 | This game has Diverse Characters | 1,747 |
 | This game has Challenging Combat | 1,614 |
 | This game is Highly Recommended | 1,557 |
@@ -336,7 +336,7 @@ Diff (max vs sum): -8
 | This game has Amazing Characters | 1,477 |
 | This game has Unique Visuals | 1,401 |
 | This game has Amazing Storytelling | 1,398 |
-| This game has Quickly Understood Controls | 1,362 |
+| This game has Quickly Understood Controls | 1,367 |
 | This game has a Creative Community | 1,033 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
@@ -670,4 +670,4 @@ Diff (max vs sum): -8
 | 2023-12-18 | 4.68 | - | 7,784 | 20,761 |
 | 2023-12-19 | 4.68 | - | 7,795 | 20,806 |
 | 2023-12-20 | 4.68 | - | 7,805 | 20,840 |
-| 2023-12-21 | 4.68 | - | 7,805 | 20,875 |
+| 2023-12-21 | 4.68 | - | 7,823 | 20,898 |

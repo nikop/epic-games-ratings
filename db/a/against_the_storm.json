@@ -3465,10 +3465,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3276,
       "NumberOfAwardsMax": 442
+    },
+    {
+      "Time": "2023-12-21T17:59:36.1497488+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3277,
+      "NumberOfAwardsMax": 442
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3276,
+  "NumberOfAwards": 3277,
   "NumberOfAwardsMax": 442,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3488,7 +3494,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 394
+      "Count": 395
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3533,9 +3539,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18837,
+  "EOS_Progressed": 18838,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 715,
+  "EOS_NewPlayers": 709,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16578,6 +16584,11 @@
       "Time": "2023-12-21T17:08:17.0120093+00:00",
       "NumProgressed": 18837,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-21T18:07:36.1992717+00:00",
+      "NumProgressed": 18838,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16676,9 +16687,9 @@
       "ID": "WinFirstGame",
       "SetID": "cfbk359",
       "Name": "First Real Expedition",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 565
+      "UsersEstimate": 754
     },
     {
       "ID": "WinHard",
@@ -16732,9 +16743,9 @@
       "ID": "WinNearCrystals",
       "SetID": "cfbk359",
       "Name": "Sparkdew Crystals",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 170
+      "UsersEstimate": 188
     },
     {
       "ID": "WinNearDangerous",
@@ -16828,9 +16839,9 @@
       "ID": "WinNearTemple",
       "SetID": "cfbk359",
       "Name": "Forsaken Gods Temple",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 113
     },
     {
       "ID": "WinNearTorrent",
@@ -16926,7 +16937,7 @@
       "Name": "Taking Action",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "WinWithResolve",
@@ -16966,7 +16977,7 @@
       "Name": "No Deaths",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "WinWithoutOrders",
@@ -16998,7 +17009,7 @@
       "Name": "Frosts",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "WinNearGreed",
@@ -17030,7 +17041,7 @@
       "Name": "Ominous Presence",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "WinNearStorms",
@@ -17038,7 +17049,7 @@
       "Name": "Gathering Storm",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -17061,15 +17072,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18837,
+      "Progressed": 18838,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-12-21T16:01:33.9954083+00:00",
-  "LastChanged_Achievements": "2023-12-21T17:08:17.0120091+00:00",
+  "LastChanged": "2023-12-21T17:59:36.1497483+00:00",
+  "LastChanged_Achievements": "2023-12-21T18:07:36.1992712+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
-  "LastUpdate_Ratings": "2023-12-21T17:00:16.3200149+00:00",
-  "LastUpdate_Achievements": "2023-12-21T17:08:17.0121275+00:00"
+  "LastUpdate_Ratings": "2023-12-21T17:59:36.1497492+00:00",
+  "LastUpdate_Achievements": "2023-12-21T18:07:36.199421+00:00"
 }

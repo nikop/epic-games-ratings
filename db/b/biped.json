@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8421,
+  "EOS_Progressed": 8425,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 866,
   "EOS_NewCompleters": 0,
@@ -14559,6 +14559,11 @@
       "Time": "2023-12-21T17:04:12.7047641+00:00",
       "NumProgressed": 8421,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T18:03:48.0295635+00:00",
+      "NumProgressed": 8425,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -14570,7 +14575,7 @@
       "Name": "First Step",
       "Percentage": 34,
       "XP": 45,
-      "UsersEstimate": 2863
+      "UsersEstimate": 2864
     },
     {
       "ID": "10",
@@ -14626,7 +14631,7 @@
       "Name": "Dense Forest",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 2274
+      "UsersEstimate": 2275
     },
     {
       "ID": "3",
@@ -14634,7 +14639,7 @@
       "Name": "Cactus Vally",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1684
+      "UsersEstimate": 1685
     },
     {
       "ID": "4",
@@ -14642,7 +14647,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "5",
@@ -14650,7 +14655,7 @@
       "Name": "Snowy Peak",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "6",
@@ -14658,7 +14663,7 @@
       "Name": "High Treetops",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "7",
@@ -14682,14 +14687,14 @@
       "Name": "Speed\u00A0walkers",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     }
   ],
   "AchievementSets": [
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 8421,
+      "Progressed": 8425,
       "Completed": 0
     }
   ],
@@ -14697,8 +14702,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-12-21T17:04:12.7047637+00:00",
+  "LastChanged_Achievements": "2023-12-21T18:03:48.0295631+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:47.9764383+00:00",
-  "LastUpdate_Ratings": "2023-12-21T16:59:53.0740545+00:00",
-  "LastUpdate_Achievements": "2023-12-21T17:04:12.704858+00:00"
+  "LastUpdate_Ratings": "2023-12-21T17:59:17.0426764+00:00",
+  "LastUpdate_Achievements": "2023-12-21T18:03:48.0296605+00:00"
 }
