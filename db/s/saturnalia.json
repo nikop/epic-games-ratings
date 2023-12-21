@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -273,9 +273,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69514,
+  "EOS_Progressed": 69518,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 248,
+  "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18143,6 +18143,11 @@
       "Time": "2023-12-21T03:03:20.0205736+00:00",
       "NumProgressed": 69514,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-21T04:05:48.988168+00:00",
+      "NumProgressed": 69518,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 20,
@@ -18162,7 +18167,7 @@
       "Name": "Bonfire Lit",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 2085
+      "UsersEstimate": 2086
     },
     {
       "ID": "ACH_CHURCHCANDLES",
@@ -18306,14 +18311,14 @@
       "Name": "Survival Expert",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 2085
+      "UsersEstimate": 2086
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 69514,
+      "Progressed": 69518,
       "Completed": 18
     }
   ],
@@ -18321,8 +18326,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-11-04T14:58:39.1316469+00:00",
-  "LastChanged_Achievements": "2023-12-21T03:03:20.0205733+00:00",
+  "LastChanged_Achievements": "2023-12-21T04:05:48.9881676+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:13.0571911+00:00",
-  "LastUpdate_Ratings": "2023-12-21T02:58:35.2466998+00:00",
-  "LastUpdate_Achievements": "2023-12-21T03:03:20.0207329+00:00"
+  "LastUpdate_Ratings": "2023-12-21T03:58:56.4797364+00:00",
+  "LastUpdate_Achievements": "2023-12-21T04:05:48.9882685+00:00"
 }

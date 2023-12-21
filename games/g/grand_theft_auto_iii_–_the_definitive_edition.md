@@ -1,30 +1,30 @@
 # Grand Theft Auto III – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-iii-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto_iii_–_the_definitive_edition.json)  
-Rating: 4.18 (Ranked 945)  
+Rating: 4.18 (Ranked 946)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~8,318 |
-| Disposing of the Evidence | 38.00% | ~3,808 |
-| Without a Scratch | 34.00% | ~3,407 |
-| Wreckless Driving | 28.00% | ~2,806 |
+| First Day on the Job | 83.00% | ~8,322 |
+| Disposing of the Evidence | 38.00% | ~3,810 |
+| Without a Scratch | 34.00% | ~3,409 |
+| Wreckless Driving | 28.00% | ~2,807 |
 | A Marked Man | 25.00% | ~2,506 |
-| Street Sweeper | 18.00% | ~1,804 |
+| Street Sweeper | 18.00% | ~1,805 |
 | Liberty City Minute | 17.00% | ~1,704 |
 | Offshore Delivery | 13.00% | ~1,303 |
 | Dirty Money | 12.00% | ~1,203 |
-| By a Mile | 10.00% | ~1,002 |
-| Not So Fast | 10.00% | ~1,002 |
-| Right-hand Man | 10.00% | ~1,002 |
+| By a Mile | 10.00% | ~1,003 |
+| Not So Fast | 10.00% | ~1,003 |
+| Right-hand Man | 10.00% | ~1,003 |
 | A Gift from the King | 7.00% | ~702 |
 | Full Artillery | 4.00% | ~401 |
 | Mob Boss | 3.00% | ~301 |
-| Escape Artist | 2.00% | ~200 |
-| Where To? | 2.00% | ~200 |
-| Splish Splash | 2.00% | ~200 |
-| Playing Doctor | 2.00% | ~200 |
-| Liberty City Secrets | 2.00% | ~200 |
+| Escape Artist | 2.00% | ~201 |
+| Where To? | 2.00% | ~201 |
+| Splish Splash | 2.00% | ~201 |
+| Playing Doctor | 2.00% | ~201 |
+| Liberty City Secrets | 2.00% | ~201 |
 | Planned Ahead | 1.00% | ~100 |
 | Got This Figured Out | 1.00% | ~100 |
 | Wheels Up | 1.00% | ~100 |
@@ -35,7 +35,7 @@ Rating: 4.18 (Ranked 945)
 | Is That All You've Got? | 0.90% | ~90 |
 | King of Liberty City | 0.60% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,022 (Ranked 173)  
+Progressed: 10,026 (Ranked 173)  
 Completed: 63 (0.63%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 63 (0.63%) (Ranked 196)
 | 2023-12-18 | 9,752 | 61 |
 | 2023-12-19 | 9,880 | 62 |
 | 2023-12-20 | 9,997 | 63 |
-| 2023-12-21 | 10,022 | 63 |
+| 2023-12-21 | 10,026 | 63 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

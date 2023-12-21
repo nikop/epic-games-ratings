@@ -2,7 +2,7 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 939,
+  "Ranking_Rating": 932,
   "Ranking_Popularity": 388,
   "Ranking_PopularitySum": 326,
   "Ranking_EOS_Progress": 149,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.19,
+  "Rating": 4.2,
   "RatingHistory": [
     {
       "Time": "2022-12-03T10:57:24.5094082+00:00",
@@ -1689,6 +1689,12 @@
       "Rating": 4.19,
       "NumberOfAwards": 533,
       "NumberOfAwardsMax": 89
+    },
+    {
+      "Time": "2023-12-21T04:04:45.0236949+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 533,
+      "NumberOfAwardsMax": 89
     }
   ],
   "ReviewsDisabled": false,
@@ -1739,7 +1745,7 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 18319,
+  "EOS_Progressed": 18325,
   "EOS_Completed": 82,
   "EOS_NewPlayers": 1728,
   "EOS_NewCompleters": 1,
@@ -10514,6 +10520,11 @@
       "Time": "2023-12-21T02:30:20.1582589+00:00",
       "NumProgressed": 18319,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-21T04:11:05.653204+00:00",
+      "NumProgressed": 18325,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -10549,7 +10560,7 @@
       "Name": "You Need a Gun",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 1099
+      "UsersEstimate": 1100
     },
     {
       "ID": "DISARM_ENEMY",
@@ -10557,7 +10568,7 @@
       "Name": "Flesh Wound",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 2565
+      "UsersEstimate": 2566
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -10605,7 +10616,7 @@
       "Name": "Recidivist",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "FINISH_GAME_HARDCORE_PLUS",
@@ -10629,7 +10640,7 @@
       "Name": "Get a Grip",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2565
+      "UsersEstimate": 2566
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -10645,7 +10656,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1283
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -10653,7 +10664,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 2015
+      "UsersEstimate": 2016
     },
     {
       "ID": "KILL_ROBOT",
@@ -10661,7 +10672,7 @@
       "Name": "Terminated",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1099
+      "UsersEstimate": 1100
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -10685,7 +10696,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2015
+      "UsersEstimate": 2016
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -10701,7 +10712,7 @@
       "Name": "Paper Jams",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2381
+      "UsersEstimate": 2382
     },
     {
       "ID": "SHARE_PHOTO",
@@ -10717,7 +10728,7 @@
       "Name": "The Outer Way",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2565
+      "UsersEstimate": 2566
     },
     {
       "ID": "STORY_ESCAPE",
@@ -10733,7 +10744,7 @@
       "Name": "Without A Paddle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1283
     },
     {
       "ID": "STORY_HANGAR",
@@ -10741,7 +10752,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1283
     },
     {
       "ID": "STORY_MINETOWN",
@@ -10749,7 +10760,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1099
+      "UsersEstimate": 1100
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -10757,7 +10768,7 @@
       "Name": "Desperate Times",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2381
+      "UsersEstimate": 2382
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -10765,7 +10776,7 @@
       "Name": "Crash Site",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1283
     },
     {
       "ID": "STORY_TOWER",
@@ -10773,7 +10784,7 @@
       "Name": "Full Circle",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1099
+      "UsersEstimate": 1100
     },
     {
       "ID": "STORY_TUNNELS",
@@ -10781,7 +10792,7 @@
       "Name": "Power Up",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1099
+      "UsersEstimate": 1100
     },
     {
       "ID": "DISMEMBER_100",
@@ -10821,7 +10832,7 @@
       "Name": "Hoard Mode",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "RIOT_10_POWERUPS",
@@ -10837,7 +10848,7 @@
       "Name": "Big Spender",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "DESTROY_FACTORY_CRATES",
@@ -10861,7 +10872,7 @@
       "Name": "This Isn\u0027t About Escape",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "FINISH_DLC4",
@@ -10893,29 +10904,29 @@
       "Name": "Quick Pick",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     }
   ],
   "AchievementSets": [
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 18319,
+      "Progressed": 18325,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 6245,
+      "Progressed": 6251,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-12-20T19:03:15.3941819+00:00",
-  "LastChanged_Achievements": "2023-12-21T03:08:51.8155431+00:00",
+  "LastChanged": "2023-12-21T04:04:45.0236948+00:00",
+  "LastChanged_Achievements": "2023-12-21T04:11:05.6532036+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.4893565+00:00",
-  "LastUpdate_Ratings": "2023-12-21T03:02:56.0307279+00:00",
-  "LastUpdate_Achievements": "2023-12-21T03:08:51.815611+00:00"
+  "LastUpdate_Ratings": "2023-12-21T04:04:45.0236952+00:00",
+  "LastUpdate_Achievements": "2023-12-21T04:11:05.6532898+00:00"
 }

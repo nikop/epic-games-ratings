@@ -16940,9 +16940,9 @@
       "Count": 16339
     }
   ],
-  "EOS_Progressed": 979322,
+  "EOS_Progressed": 979329,
   "EOS_Completed": 2948,
-  "EOS_NewPlayers": 3751,
+  "EOS_NewPlayers": 3739,
   "EOS_NewCompleters": 48,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -44840,6 +44840,11 @@
       "Time": "2023-12-21T03:05:51.5457356+00:00",
       "NumProgressed": 979322,
       "NumCompleted": 2948
+    },
+    {
+      "Time": "2023-12-21T04:08:37.0476924+00:00",
+      "NumProgressed": 979329,
+      "NumCompleted": 2948
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -44868,7 +44873,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19586
+      "UsersEstimate": 19587
     },
     {
       "ID": "Cyberjunkie",
@@ -44884,7 +44889,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 58759
+      "UsersEstimate": 58760
     },
     {
       "ID": "FollowingTheRiver",
@@ -44892,7 +44897,7 @@
       "Name": "To Protect and Serve",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19586
+      "UsersEstimate": 19587
     },
     {
       "ID": "Fortuneteller",
@@ -44940,7 +44945,7 @@
       "Name": "Master Crafter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19586
+      "UsersEstimate": 19587
     },
     {
       "ID": "IAmMaxTac",
@@ -44948,7 +44953,7 @@
       "Name": "I Am The Law",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 19586
+      "UsersEstimate": 19587
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -44980,7 +44985,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19586
+      "UsersEstimate": 19587
     },
     {
       "ID": "MustBeTheRats",
@@ -45124,7 +45129,7 @@
       "Name": "The World",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 19586
+      "UsersEstimate": 19587
     },
     {
       "ID": "ThisIsPacifica",
@@ -45164,7 +45169,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19586
+      "UsersEstimate": 19587
     },
     {
       "ID": "UnderPressure",
@@ -45172,7 +45177,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19586
+      "UsersEstimate": 19587
     },
     {
       "ID": "VForVendetta",
@@ -45252,7 +45257,7 @@
       "Name": "Spin Doctor",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 1079
+      "UsersEstimate": 1080
     },
     {
       "ID": "Kingofcups",
@@ -45292,7 +45297,7 @@
       "Name": "Relic Ruler",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 3238
+      "UsersEstimate": 3239
     },
     {
       "ID": "UltimateSurvivor",
@@ -45356,7 +45361,7 @@
       "Name": "King of Wands",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 1079
+      "UsersEstimate": 1080
     },
     {
       "ID": "TheTower",
@@ -45372,7 +45377,7 @@
       "Name": "Dirty Deeds",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1079
+      "UsersEstimate": 1080
     },
     {
       "ID": "EasyComeEasyGo",
@@ -45380,28 +45385,28 @@
       "Name": "Easy Come, Easy Go",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1079
+      "UsersEstimate": 1080
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 979322,
+      "Progressed": 979329,
       "Completed": 2948
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 107945,
+      "Progressed": 107952,
       "Completed": 10426
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-12-21T02:24:13.8674591+00:00",
-  "LastChanged_Achievements": "2023-12-21T03:05:51.5457352+00:00",
+  "LastChanged_Achievements": "2023-12-21T04:08:37.0476921+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:11.4044836+00:00",
-  "LastUpdate_Ratings": "2023-12-21T03:02:49.239874+00:00",
-  "LastUpdate_Achievements": "2023-12-21T03:05:51.5459109+00:00"
+  "LastUpdate_Ratings": "2023-12-21T04:04:14.606969+00:00",
+  "LastUpdate_Achievements": "2023-12-21T04:08:37.047844+00:00"
 }

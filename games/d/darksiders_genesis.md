@@ -37,7 +37,7 @@ Number of Ratings: 67  (23.09.2022)
 | Why'd It Have to Be Snakes? | 0.00% | ~0 |
 | Wicked Killington | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82 (Ranked 490)  
+Progressed: 84 (Ranked 488)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -45,7 +45,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 39 | 0 |
 | 2023-12-19 | 62 | 0 |
 | 2023-12-20 | 77 | 0 |
-| 2023-12-21 | 82 | 0 |
+| 2023-12-21 | 84 | 0 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 455)  
 Sum: 45 (Ranked 502)  

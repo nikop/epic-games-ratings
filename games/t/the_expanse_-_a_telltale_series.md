@@ -1,7 +1,7 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.53 (Ranked 551)  
+Rating: 4.54 (Ranked 533)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -19,8 +19,8 @@ Rating: 4.53 (Ranked 551)
 | Call it Even | 7.00% | ~1,187 |
 | Safe Cracker | 7.00% | ~204 |
 | Madame Undersecretary | 7.00% | ~204 |
-| Drug Gifter | 6.00% | ~1,017 |
-| Heal Thy Medic | 6.00% | ~1,017 |
+| Drug Gifter | 6.00% | ~1,018 |
+| Heal Thy Medic | 6.00% | ~1,018 |
 | Keep Arjun in Check | 6.00% | ~175 |
 | Data Archivist | 5.00% | ~848 |
 | Thorston Mayer | 5.00% | ~848 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 551)
 | Scavenger Star | 0.20% | ~34 |
 | Data Collector | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,958 (Ranked 154)  
+Progressed: 16,959 (Ranked 154)  
 Completed: 46 (0.27%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 46 (0.27%) (Ranked 254)
 | 2023-12-18 | 16,797 | 44 |
 | 2023-12-19 | 16,865 | 45 |
 | 2023-12-20 | 16,946 | 46 |
-| 2023-12-21 | 16,958 | 46 |
+| 2023-12-21 | 16,959 | 46 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -240,3 +240,4 @@ Completed: 46 (0.27%) (Ranked 254)
 | 2023-12-11 | 4.53 | 0 | 0 |
 | 2023-12-16 | 4.54 | 0 | 0 |
 | 2023-12-17 | 4.53 | 0 | 0 |
+| 2023-12-21 | 4.54 | 0 | 0 |

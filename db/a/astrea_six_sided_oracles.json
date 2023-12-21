@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 201,
+  "EOS_Progressed": 202,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -834,6 +834,11 @@
       "Time": "2023-12-20T12:05:24.4617723+00:00",
       "NumProgressed": 201,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T04:07:04.9995719+00:00",
+      "NumProgressed": 202,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-22T01:45:20.357802+00:00",
@@ -854,7 +859,7 @@
       "Name": "Anomaly Destroyer",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "AnomalyMaster",
@@ -934,7 +939,7 @@
       "Name": "Astral Adventurer",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "AstralSeeker",
@@ -1076,9 +1081,9 @@
       "ID": "EndlessTricks",
       "SetID": "1jeo1g7",
       "Name": "Endless Tricks",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 101
     },
     {
       "ID": "EridanianChampionAchievement",
@@ -1198,7 +1203,7 @@
       "Name": "Meissa\u0027s Savior",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "MindIlluminator",
@@ -1206,7 +1211,7 @@
       "Name": "Mind Illuminator",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "NoctuanChampionAchievement",
@@ -1342,7 +1347,7 @@
       "Name": "Star Killer",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "StellarDismantler",
@@ -1350,7 +1355,7 @@
       "Name": "Stellar Dismantler",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "StellarHaste",
@@ -1478,7 +1483,7 @@
       "Name": "Wild\u0027s Keeper",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ApianChampion",
@@ -1606,7 +1611,7 @@
       "Name": "Noctuan Champion",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "NoctuanHero",
@@ -1629,14 +1634,14 @@
     {
       "ID": "1jeo1g7",
       "IsBase": true,
-      "Progressed": 201,
+      "Progressed": 202,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-21T03:04:27.97509+00:00",
+  "LastChanged_Achievements": "2023-12-21T04:07:04.9995714+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:09.6615872+00:00",
-  "LastUpdate_Ratings": "2023-12-21T02:57:55.9496421+00:00",
-  "LastUpdate_Achievements": "2023-12-21T03:04:27.9751681+00:00"
+  "LastUpdate_Ratings": "2023-12-21T03:58:11.8757468+00:00",
+  "LastUpdate_Achievements": "2023-12-21T04:07:04.9996814+00:00"
 }

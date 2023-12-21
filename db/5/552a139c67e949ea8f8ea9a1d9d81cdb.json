@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1496,
+  "EOS_Progressed": 1498,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3572,6 +3572,11 @@
       "Time": "2023-12-21T03:03:29.8972296+00:00",
       "NumProgressed": 1496,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T04:06:00.0623833+00:00",
+      "NumProgressed": 1498,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -3630,9 +3635,9 @@
       "ID": "ML_ACHIEVEMENT_07",
       "SetID": "5k00jcd",
       "Name": "Globetrotter",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 75
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -3846,25 +3851,25 @@
       "ID": "ML_ACHIEVEMENT_34",
       "SetID": "5k00jcd",
       "Name": "Beyond the limit",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 60
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
       "SetID": "5k00jcd",
       "Name": "Extra gear",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 45
     },
     {
       "ID": "ML_ACHIEVEMENT_36",
       "SetID": "5k00jcd",
       "Name": "Perfectionist",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 45
     },
     {
       "ID": "ML_ACHIEVEMENT_37",
@@ -3951,20 +3956,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1496,
+      "Progressed": 1498,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1164,
+      "Progressed": 1166,
       "Completed": 997
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-21T03:03:29.8972291+00:00",
-  "LastUpdate_AppInfo": "2023-12-14T02:57:11.7320397+00:00",
-  "LastUpdate_Ratings": "2023-12-21T03:02:24.9939813+00:00",
-  "LastUpdate_Achievements": "2023-12-21T03:03:29.8972887+00:00"
+  "LastChanged_Achievements": "2023-12-21T04:06:00.0623829+00:00",
+  "LastUpdate_AppInfo": "2023-12-21T03:57:08.51229+00:00",
+  "LastUpdate_Ratings": "2023-12-21T04:02:40.0741411+00:00",
+  "LastUpdate_Achievements": "2023-12-21T04:06:00.0624591+00:00"
 }

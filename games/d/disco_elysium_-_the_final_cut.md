@@ -6,20 +6,20 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~37,629 |
-| Biggest Communism Builder | 24.00% | ~32,253 |
-| The World's Most Laughable Centrist | 20.00% | ~26,878 |
-| Il Coppo Del'Arte! | 18.00% | ~24,190 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,502 |
-| Hyperstellar Law Official | 16.00% | ~21,502 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~18,814 |
-| Gurdi-Ball Is Lit | 14.00% | ~18,814 |
+| Goodest Of The Good Cops | 28.00% | ~37,630 |
+| Biggest Communism Builder | 24.00% | ~32,254 |
+| The World's Most Laughable Centrist | 20.00% | ~26,879 |
+| Il Coppo Del'Arte! | 18.00% | ~24,191 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,503 |
+| Hyperstellar Law Official | 16.00% | ~21,503 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~18,815 |
+| Gurdi-Ball Is Lit | 14.00% | ~18,815 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~17,471 |
 | Truly Rabid *Traditionalist* | 11.00% | ~14,783 |
 | Unbelievably Boring **** | 9.00% | ~12,095 |
 | The Figurines Won't Win Her Back | 9.00% | ~12,095 |
 | Enemy Of The Physical Realm | 8.00% | ~10,751 |
-| Hardie's Heroes | 6.00% | ~8,063 |
+| Hardie's Heroes | 6.00% | ~8,064 |
 | The Lawbringer | 4.00% | ~5,376 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,376 |
 | The Opener Of The Eighth Seal | 3.00% | ~4,032 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~134 |
 | What body? | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,389 (Ranked 84)  
+Progressed: 134,393 (Ranked 85)  
 Completed: 28 (0.02%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 28 (0.02%) (Ranked 353)
 | 2023-12-18 | 133,915 | 28 |
 | 2023-12-19 | 134,139 | 28 |
 | 2023-12-20 | 134,371 | 28 |
-| 2023-12-21 | 134,389 | 28 |
+| 2023-12-21 | 134,393 | 28 |
 ## Awards
 Max (Character Customization): 751  (Ranked 184)  
 Sum: 1,145 (Ranked 256)  

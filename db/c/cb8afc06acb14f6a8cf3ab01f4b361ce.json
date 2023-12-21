@@ -2,7 +2,7 @@
   "ID": "cb8afc06acb14f6a8cf3ab01f4b361ce",
   "Name": "Soulstice",
   "ProductSlug": "soulstice",
-  "Ranking_Rating": 923,
+  "Ranking_Rating": 924,
   "Ranking_Popularity": 409,
   "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 52,
@@ -437,9 +437,9 @@
       "Count": 71
     }
   ],
-  "EOS_Progressed": 332142,
+  "EOS_Progressed": 332161,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3690,
+  "EOS_NewPlayers": 3685,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10387,6 +10387,11 @@
       "Time": "2023-12-21T03:05:32.3216779+00:00",
       "NumProgressed": 332142,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-21T04:08:16.0967032+00:00",
+      "NumProgressed": 332161,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -10399,7 +10404,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 9964
+      "UsersEstimate": 9965
     },
     {
       "ID": "S02_BRDA",
@@ -10407,7 +10412,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 9964
+      "UsersEstimate": 9965
     },
     {
       "ID": "S03_OTWA",
@@ -10711,14 +10716,14 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3321
+      "UsersEstimate": 3322
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 332142,
+      "Progressed": 332161,
       "Completed": 5
     }
   ],
@@ -10726,8 +10731,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-20T17:57:35.3329235+00:00",
-  "LastChanged_Achievements": "2023-12-21T03:05:32.3216776+00:00",
+  "LastChanged_Achievements": "2023-12-21T04:08:16.0967028+00:00",
   "LastUpdate_AppInfo": "2023-12-14T20:57:08.8756847+00:00",
-  "LastUpdate_Ratings": "2023-12-21T02:57:34.9786149+00:00",
-  "LastUpdate_Achievements": "2023-12-21T03:05:32.3217349+00:00"
+  "LastUpdate_Ratings": "2023-12-21T03:57:48.0749077+00:00",
+  "LastUpdate_Achievements": "2023-12-21T04:08:16.096784+00:00"
 }

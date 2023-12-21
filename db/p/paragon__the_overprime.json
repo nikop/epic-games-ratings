@@ -2,12 +2,12 @@
   "ID": "7bb9b09415a544f78fadf6390b2e3a80",
   "Name": "Paragon: The Overprime",
   "ProductSlug": "paragon-the-overprime-0bca60",
-  "Ranking_Rating": 899,
+  "Ranking_Rating": 900,
   "Ranking_Popularity": 167,
   "Ranking_PopularitySum": 130,
   "Ranking_EOS_Progress": 813,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 559,
+  "Ranking_EOS_NewPlayers": 558,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-12-09T02:00:00+00:00",
@@ -7979,6 +7979,6 @@
   "FirstSeenRating": "2022-11-10T14:19:52.8915141+00:00",
   "LastChanged": "2023-12-20T21:00:40.3443729+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:44.6704648+00:00",
-  "LastUpdate_Ratings": "2023-12-21T03:02:29.469973+00:00",
-  "LastUpdate_Achievements": "2023-12-21T03:08:50.0923299+00:00"
+  "LastUpdate_Ratings": "2023-12-21T04:02:59.1696164+00:00",
+  "LastUpdate_Achievements": "2023-12-21T04:11:03.8099036+00:00"
 }

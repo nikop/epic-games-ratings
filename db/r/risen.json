@@ -710,9 +710,9 @@
       "ID": "id_30",
       "SetID": "bk9jib6",
       "Name": "Beginner",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "id_32",
@@ -991,8 +991,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-12-19T04:58:37.4442529+00:00",
-  "LastChanged_Achievements": "2023-12-21T03:09:25.9492125+00:00",
+  "LastChanged_Achievements": "2023-12-21T04:11:43.8692617+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:12.9761539+00:00",
-  "LastUpdate_Ratings": "2023-12-21T02:59:04.0227207+00:00",
-  "LastUpdate_Achievements": "2023-12-21T03:09:25.9492439+00:00"
+  "LastUpdate_Ratings": "2023-12-21T03:59:28.1894863+00:00",
+  "LastUpdate_Achievements": "2023-12-21T04:11:43.8693059+00:00"
 }

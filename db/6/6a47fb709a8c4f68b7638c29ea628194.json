@@ -260,9 +260,9 @@
       "ID": "FINISHED_10",
       "SetID": "4nk2039",
       "Name": "New star",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "FINISHED_100",
@@ -292,9 +292,9 @@
       "ID": "FINISHED_RACE_MOTORBIKE_1",
       "SetID": "4nk2039",
       "Name": "One motorbike race",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 49
     },
     {
       "ID": "ONE_LAP",
@@ -316,9 +316,9 @@
       "ID": "PODIUM_10",
       "SetID": "4nk2039",
       "Name": "Upcoming force",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 45,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "PODIUM_3",
@@ -364,9 +364,9 @@
       "ID": "RESEARCHED_5",
       "SetID": "4nk2039",
       "Name": "Generation 5",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "RESEARCHED_6",
@@ -412,9 +412,9 @@
       "ID": "WIN_10",
       "SetID": "4nk2039",
       "Name": "Championship contender",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "WIN_100",
@@ -452,9 +452,9 @@
       "ID": "XP_1000",
       "SetID": "4nk2039",
       "Name": "Rookie",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 26
     },
     {
       "ID": "XP_10000",
@@ -491,8 +491,8 @@
   ],
   "FirstSeen": "2023-12-20T20:59:52.9883268+00:00",
   "FirstSeenAchievements": "2023-09-03T16:02:20.9417998+00:00",
-  "LastChanged_Achievements": "2023-12-21T03:08:32.1998122+00:00",
+  "LastChanged_Achievements": "2023-12-21T04:10:44.8011217+00:00",
   "LastUpdate_AppInfo": "2023-12-17T22:57:03.6262025+00:00",
-  "LastUpdate_Ratings": "2023-12-21T02:59:44.5563153+00:00",
-  "LastUpdate_Achievements": "2023-12-21T03:08:32.199833+00:00"
+  "LastUpdate_Ratings": "2023-12-21T04:00:14.8186041+00:00",
+  "LastUpdate_Achievements": "2023-12-21T04:10:44.8011425+00:00"
 }

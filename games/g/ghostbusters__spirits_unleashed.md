@@ -34,6 +34,7 @@ Rating: 4.50 (Ranked 603)
 | Back Off | 2.00% | ~650 |
 | Collector | 2.00% | ~650 |
 | Escape Artist | 2.00% | ~650 |
+| Reckless | 2.00% | ~650 |
 | Rift Destroyer | 2.00% | ~650 |
 | Skilled | 2.00% | ~650 |
 | Stunner | 2.00% | ~650 |
@@ -42,7 +43,6 @@ Rating: 4.50 (Ranked 603)
 | Diabolical | 1.00% | ~325 |
 | Fragile Panes | 1.00% | ~325 |
 | Liability | 1.00% | ~325 |
-| Reckless | 1.00% | ~325 |
 | Rivalry | 1.00% | ~325 |
 | Surprise! | 1.00% | ~325 |
 | Terrifying | 1.00% | ~325 |

@@ -6,22 +6,22 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 9.00% | ~331 |
-| Lost and Found | 5.00% | ~184 |
-| This Belongs in a Museum | 4.00% | ~5,152 |
-| Autodidact | 4.00% | ~5,152 |
-| This guy... again? | 4.00% | ~147 |
-| Bloody Graduation | 4.00% | ~147 |
-| Serenity Now! | 3.00% | ~3,864 |
-| Not Today! | 3.00% | ~3,864 |
-| Creep and Sleep | 3.00% | ~3,864 |
-| Meat and Greet | 3.00% | ~3,864 |
-| Catch and Decease | 3.00% | ~3,864 |
-| Overdue Notice | 3.00% | ~3,864 |
-| Escape from the Black Hole | 3.00% | ~3,864 |
-| To Grandmother's House | 3.00% | ~3,864 |
-| Ploughshares to Swords | 3.00% | ~110 |
-| Friends 'Til the End | 3.00% | ~110 |
+| Malpractice Assurance | 9.00% | ~332 |
+| Lost and Found | 5.00% | ~185 |
+| This Belongs in a Museum | 4.00% | ~5,153 |
+| Autodidact | 4.00% | ~5,153 |
+| This guy... again? | 4.00% | ~148 |
+| Bloody Graduation | 4.00% | ~148 |
+| Serenity Now! | 3.00% | ~3,865 |
+| Not Today! | 3.00% | ~3,865 |
+| Creep and Sleep | 3.00% | ~3,865 |
+| Meat and Greet | 3.00% | ~3,865 |
+| Catch and Decease | 3.00% | ~3,865 |
+| Overdue Notice | 3.00% | ~3,865 |
+| Escape from the Black Hole | 3.00% | ~3,865 |
+| To Grandmother's House | 3.00% | ~3,865 |
+| Ploughshares to Swords | 3.00% | ~111 |
+| Friends 'Til the End | 3.00% | ~111 |
 | Don't Make Me Turn This Coach Around | 2.00% | ~2,576 |
 | It Rings a Bell | 2.00% | ~2,576 |
 | Unfulfilled Desires | 2.00% | ~2,576 |
@@ -59,8 +59,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | This Looks Familiar | 0.90% | ~1,159 |
 | Hot Air | 0.90% | ~1,159 |
 | Eyes Up | 0.90% | ~1,159 |
-| Slap on the Wrist | 0.80% | ~29 |
-| For Old Time' Sake | 0.80% | ~29 |
+| Slap on the Wrist | 0.80% | ~30 |
+| For Old Time' Sake | 0.80% | ~30 |
 | Handled | 0.70% | ~902 |
 | Shrine of Reflection | 0.60% | ~773 |
 | Body of Work | 0.60% | ~773 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,811 (Ranked 86)  
+Progressed: 128,822 (Ranked 86)  
 Completed: 3 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,19 +321,19 @@ Completed: 3 (0.00%) (Ranked 384)
 | 2023-12-18 | 128,398 | 3 |
 | 2023-12-19 | 128,605 | 3 |
 | 2023-12-20 | 128,785 | 3 |
-| 2023-12-21 | 128,811 | 3 |
+| 2023-12-21 | 128,822 | 3 |
 ## Awards
 Max (Character Customization): 7,805  (Ranked 50)  
-Sum: 20,840 (Ranked 58)  
+Sum: 20,861 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,805 |
-| This game has Diverse Characters | 1,736 |
+| This game has Diverse Characters | 1,747 |
 | This game has Challenging Combat | 1,614 |
 | This game is Highly Recommended | 1,552 |
 | This game is Extremely Fun | 1,477 |
-| This game has Amazing Characters | 1,467 |
+| This game has Amazing Characters | 1,477 |
 | This game has Amazing Storytelling | 1,398 |
 | This game has Unique Visuals | 1,396 |
 | This game has Quickly Understood Controls | 1,362 |
@@ -670,3 +670,4 @@ Diff (max vs sum): -8
 | 2023-12-18 | 4.68 | - | 7,784 | 20,761 |
 | 2023-12-19 | 4.68 | - | 7,795 | 20,806 |
 | 2023-12-20 | 4.68 | - | 7,805 | 20,840 |
+| 2023-12-21 | 4.68 | - | 7,805 | 20,861 |

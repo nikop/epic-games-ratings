@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 81.00% | ~132 |
+| Something important | 80.00% | ~131 |
 | Wanderer | 60.00% | ~98 |
 | A piece of the story | 58.00% | ~95 |
-| It's covered up for a reason | 47.00% | ~77 |
+| It's covered up for a reason | 46.00% | ~75 |
 | Scraps of love | 44.00% | ~72 |
-| The artist’s impression | 43.00% | ~70 |
-| Do what you have to | 42.00% | ~68 |
+| The artist’s impression | 43.00% | ~71 |
+| Do what you have to | 42.00% | ~69 |
 | Sign of weakness | 36.00% | ~59 |
-| Refuse to look | 34.00% | ~55 |
+| Refuse to look | 34.00% | ~56 |
 | Face your fears | 28.00% | ~46 |
 | Finished it | 27.00% | ~44 |
 | Whispers long forgotten | 14.00% | ~23 |
@@ -21,17 +21,17 @@
 | A Slice of Life | 10.00% | ~16 |
 | Sound Bite | 10.00% | ~16 |
 | Playtime | 10.00% | ~16 |
+| The tragedy unfolds | 10.00% | ~16 |
 | Tough conversation | 10.00% | ~16 |
+| A new way | 9.00% | ~15 |
 | Another perspective | 9.00% | ~15 |
 | First steps | 9.00% | ~15 |
 | Lights! Camera! Action! | 9.00% | ~15 |
-| The tragedy unfolds | 9.00% | ~15 |
-| A new way | 8.00% | ~13 |
 | True Reflection | 8.00% | ~13 |
 | Breaking free | 7.00% | ~11 |
 | Casting Finished | 6.00% | ~10 |
 | Heavy Burden | 6.00% | ~10 |
-| Fisherman | 6.00% | ~10 |
+| Fisherman | 5.00% | ~8 |
 | We Are Not Alone | 4.00% | ~7 |
 | The Perfect Storm | 4.00% | ~7 |
 | Instinct of self-preservation | 4.00% | ~7 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 163 (Ranked 419)  
+Progressed: 164 (Ranked 418)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,4 +116,4 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 152 | 0 |
 | 2023-12-19 | 159 | 0 |
 | 2023-12-20 | 162 | 0 |
-| 2023-12-21 | 163 | 0 |
+| 2023-12-21 | 164 | 0 |

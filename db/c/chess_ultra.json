@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-03-23T15:00:00+00:00",
@@ -461,9 +461,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 223021,
+  "EOS_Progressed": 223022,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1151,
+  "EOS_NewPlayers": 1145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28401,6 +28401,11 @@
       "Time": "2023-12-21T03:04:48.2744649+00:00",
       "NumProgressed": 223021,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-21T04:07:28.2795997+00:00",
+      "NumProgressed": 223022,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -28468,7 +28473,7 @@
       "Name": "Checkmate",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 66906
+      "UsersEstimate": 66907
     },
     {
       "ID": "ChessChampion",
@@ -28484,7 +28489,7 @@
       "Name": "Chop Wood",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 158345
+      "UsersEstimate": 158346
     },
     {
       "ID": "DoubleCheck",
@@ -28492,7 +28497,7 @@
       "Name": "Double Check",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 15611
+      "UsersEstimate": 15612
     },
     {
       "ID": "DoubledPawn",
@@ -28500,7 +28505,7 @@
       "Name": "Doubled Pawn",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 127122
+      "UsersEstimate": 127123
     },
     {
       "ID": "Elo",
@@ -28652,7 +28657,7 @@
       "Name": "Spanish Bishop",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 46834
+      "UsersEstimate": 46835
     },
     {
       "ID": "Stalemate",
@@ -28715,7 +28720,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 223021,
+      "Progressed": 223022,
       "Completed": 2
     }
   ],
@@ -28723,8 +28728,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2023-12-20T22:02:58.1203687+00:00",
-  "LastChanged_Achievements": "2023-12-21T03:04:48.2744644+00:00",
+  "LastChanged_Achievements": "2023-12-21T04:07:28.2795993+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:56:57.4118976+00:00",
-  "LastUpdate_Ratings": "2023-12-21T02:57:04.6380984+00:00",
-  "LastUpdate_Achievements": "2023-12-21T03:04:48.2746191+00:00"
+  "LastUpdate_Ratings": "2023-12-21T03:57:13.6847977+00:00",
+  "LastUpdate_Achievements": "2023-12-21T04:07:28.2797575+00:00"
 }

@@ -5,24 +5,24 @@ Rating: 4.55 (Ranked 512)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 94.00% | ~5,507 |
-| I will survive! | 93.00% | ~5,449 |
-| All thumbs | 92.00% | ~5,390 |
-| Home, sweet home | 91.00% | ~5,332 |
-| Survivalist | 90.00% | ~5,273 |
-| One way ticket | 85.00% | ~4,980 |
-| Last man standing | 80.00% | ~4,687 |
-| Family guy | 77.00% | ~4,511 |
-| Out of the Bag | 76.00% | ~4,453 |
-| The Dark Side | 71.00% | ~4,160 |
-| Duck and cover! | 66.00% | ~3,867 |
-| Souper! | 65.00% | ~3,808 |
-| Pacifist | 60.00% | ~3,515 |
+| Prepper | 94.00% | ~5,508 |
+| I will survive! | 93.00% | ~5,450 |
+| All thumbs | 92.00% | ~5,391 |
+| Home, sweet home | 91.00% | ~5,333 |
+| Survivalist | 90.00% | ~5,274 |
+| One way ticket | 85.00% | ~4,981 |
+| Last man standing | 80.00% | ~4,688 |
+| Family guy | 77.00% | ~4,512 |
+| Out of the Bag | 76.00% | ~4,454 |
+| The Dark Side | 71.00% | ~4,161 |
+| Duck and cover! | 66.00% | ~3,868 |
+| Souper! | 65.00% | ~3,809 |
+| Pacifist | 60.00% | ~3,516 |
 | 2-1-6 | 59.00% | ~3,457 |
 | A gift | 54.00% | ~3,164 |
 | Girl Power | 49.00% | ~2,871 |
 | What goes around... | 44.00% | ~2,578 |
-| Be Prepared | 38.00% | ~2,226 |
+| Be Prepared | 38.00% | ~2,227 |
 | Unbreakable | 37.00% | ~2,168 |
 | Gotta get 'em all | 34.00% | ~1,992 |
 | This is the end | 34.00% | ~1,992 |
@@ -32,8 +32,8 @@ Rating: 4.55 (Ranked 512)
 | Rescue time! | 19.00% | ~1,113 |
 | New order | 18.00% | ~1,055 |
 | New species | 17.00% | ~996 |
-| A New Hope | 16.00% | ~937 |
-| Enigma | 16.00% | ~937 |
+| A New Hope | 16.00% | ~938 |
+| Enigma | 16.00% | ~938 |
 | Challenger | 13.00% | ~762 |
 | Men in Black | 13.00% | ~762 |
 | No stone unturned | 12.00% | ~703 |
@@ -66,7 +66,7 @@ Rating: 4.55 (Ranked 512)
 | Tora! Tora! Tora! | 0.20% | ~12 |
 | Dead Hand | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,859 (Ranked 193)  
+Progressed: 5,860 (Ranked 193)  
 Completed: 1 (0.02%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,6 +311,7 @@ Completed: 1 (0.02%) (Ranked 353)
 | 2023-12-18 | 5,833 | 1 |
 | 2023-12-19 | 5,846 | 1 |
 | 2023-12-20 | 5,859 | 1 |
+| 2023-12-21 | 5,860 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

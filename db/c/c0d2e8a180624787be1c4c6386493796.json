@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 177,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -902,9 +902,9 @@
       "ID": "KR4_ACHIEVEMENT_DARKKNIGHTS",
       "SetID": "caeik3h",
       "Name": "Feast On This!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "KR4_ACHIEVEMENT_DARK_SIDE",
@@ -1443,8 +1443,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-21T03:04:56.4005161+00:00",
+  "LastChanged_Achievements": "2023-12-21T04:07:37.3061304+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:06.9365218+00:00",
-  "LastUpdate_Ratings": "2023-12-21T02:57:22.3776367+00:00",
-  "LastUpdate_Achievements": "2023-12-21T03:04:56.4005746+00:00"
+  "LastUpdate_Ratings": "2023-12-21T03:57:33.980257+00:00",
+  "LastUpdate_Achievements": "2023-12-21T04:07:37.3061965+00:00"
 }

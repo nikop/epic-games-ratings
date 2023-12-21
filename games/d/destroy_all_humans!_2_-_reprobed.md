@@ -1,23 +1,23 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.53 (Ranked 551)  
+Rating: 4.53 (Ranked 552)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rock of the Bay | 72.00% | ~102 |
-| Mash Machine | 66.00% | ~93 |
-| Ducks in a Row, Fish in a Barrel | 44.00% | ~62 |
-| Furon Fashion | 38.00% | ~54 |
-| Shop Til They Drop | 31.00% | ~44 |
+| Mash Machine | 67.00% | ~94 |
+| Ducks in a Row, Fish in a Barrel | 45.00% | ~63 |
+| Furon Fashion | 39.00% | ~55 |
+| Shop Til They Drop | 33.00% | ~47 |
 | Earthly Pleasures | 28.00% | ~39 |
 | Bodied Sattva | 26.00% | ~37 |
-| Cult Following | 22.00% | ~31 |
+| Cult Following | 23.00% | ~32 |
 | Lie Back and Think of Albion | 19.00% | ~27 |
-| Upgreatest | 18.00% | ~25 |
+| Upgreatest | 19.00% | ~27 |
+| I Look Up As I Walk to Takoshima | 18.00% | ~25 |
 | Pimp My Raid | 18.00% | ~25 |
-| I Look Up As I Walk to Takoshima | 17.00% | ~24 |
 | Perfect Probulator | 13.00% | ~18 |
 | Freshly Squeezed | 13.00% | ~18 |
 | Die Nasty | 13.00% | ~18 |
@@ -27,7 +27,7 @@ Number of Ratings: 90  (23.09.2022)
 | Fly Me to the Moon Base | 6.00% | ~8 |
 | Kaijuiced | 6.00% | ~8 |
 | Scuttled | 4.00% | ~6 |
-| Yettisoned | 3.00% | ~4 |
+| Yettisoned | 4.00% | ~6 |
 | Lobster Blisque | 2.00% | ~3 |
 | Re-Return of the Clone of the Invasion II-2 | 2.00% | ~3 |
 | Arkvoodle Doodle | 2.00% | ~3 |

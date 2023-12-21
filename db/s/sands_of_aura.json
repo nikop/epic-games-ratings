@@ -4,7 +4,7 @@
   "ProductSlug": "sands-of-aura",
   "Ranking_EOS_Progress": 455,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 410,
+  "Ranking_EOS_NewPlayers": 413,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -1063,8 +1063,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-12-21T03:05:00.3993787+00:00",
+  "LastChanged_Achievements": "2023-12-21T04:07:41.4522181+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:44.6330154+00:00",
-  "LastUpdate_Ratings": "2023-12-21T03:02:38.4787842+00:00",
-  "LastUpdate_Achievements": "2023-12-21T03:05:00.3994248+00:00"
+  "LastUpdate_Ratings": "2023-12-21T04:03:26.945291+00:00",
+  "LastUpdate_Achievements": "2023-12-21T04:07:41.4522617+00:00"
 }

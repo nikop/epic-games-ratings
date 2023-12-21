@@ -1,7 +1,7 @@
 # A Game Of Thrones: The Board Game Digital Edition
 [Store](https://store.epicgames.com/en-US/p/a-game-of-thrones-5858a3)  
 [View Rawdata](../../db/a/a_game_of_thrones__the_board_game_digital_edition.json)  
-Rating: 4.20 (Ranked 931)  
+Rating: 4.20 (Ranked 932)  
 Number of Ratings: 2,500  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,7 +11,7 @@ Number of Ratings: 2,500  (23.09.2022)
 | The Kingsroad | 18.00% | ~5,561 |
 | Well Stocked | 13.00% | ~4,016 |
 | Royal Fleet | 13.00% | ~4,016 |
-| The Kraken’s Grasp | 9.00% | ~2,780 |
+| The Kraken’s Grasp | 9.00% | ~2,781 |
 | Daggers in the Dark | 8.00% | ~2,472 |
 | Alliance | 8.00% | ~2,472 |
 | Winter is Coming | 7.00% | ~2,163 |
@@ -29,7 +29,7 @@ Number of Ratings: 2,500  (23.09.2022)
 | King in the North | 2.00% | ~618 |
 | War of the Five Kings | 1.00% | ~309 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,894 (Ranked 133)  
+Progressed: 30,895 (Ranked 133)  
 Completed: 84 (0.27%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,10 +274,10 @@ Completed: 84 (0.27%) (Ranked 254)
 | 2023-12-18 | 30,733 | 84 |
 | 2023-12-19 | 30,807 | 84 |
 | 2023-12-20 | 30,884 | 84 |
-| 2023-12-21 | 30,894 | 84 |
+| 2023-12-21 | 30,895 | 84 |
 ## Awards
 Max (Quickly Understood Controls): 127  (Ranked 344)  
-Sum: 802 (Ranked 284)  
+Sum: 803 (Ranked 284)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
@@ -285,7 +285,7 @@ Diff (max vs sum): 60
 | This game is Extremely Fun | 112 |
 | This game is Highly Recommended | 112 |
 | This game has Competitive Players | 100 |
-| This game is Relaxing | 97 |
+| This game is Relaxing | 98 |
 | This game has Amazing Storytelling | 92 |
 | This game has Amazing Characters | 87 |
 | This game has a Competitive Community | 75 |
@@ -387,3 +387,4 @@ Diff (max vs sum): 60
 | 2023-12-03 | 4.21 | - | 127 | 801 |
 | 2023-12-14 | 4.21 | - | 127 | 802 |
 | 2023-12-16 | 4.20 | - | 127 | 802 |
+| 2023-12-21 | 4.20 | - | 127 | 803 |

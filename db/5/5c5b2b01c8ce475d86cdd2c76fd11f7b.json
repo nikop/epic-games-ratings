@@ -2,9 +2,9 @@
   "ID": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
   "Name": "Deus Ex - Mankind Divided",
   "ProductSlug": "deus-ex-mankind-divided-4c6370",
-  "Ranking_EOS_Progress": 551,
+  "Ranking_EOS_Progress": 548,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewPlayers": 288,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 40,
+  "EOS_Progressed": 41,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -219,6 +219,11 @@
       "Time": "2023-12-21T02:27:39.195292+00:00",
       "NumProgressed": 40,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T04:05:30.6111317+00:00",
+      "NumProgressed": 41,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-13T17:03:37.7079864+00:00",
@@ -229,7 +234,7 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "7on801h",
       "Name": "We Are Human Beings",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -245,7 +250,7 @@
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "7on801h",
       "Name": "Singh No Swan Song",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
       "UsersEstimate": 14
     },
@@ -253,7 +258,7 @@
       "ID": "NEW_ACHIEVEMENT_1_12",
       "SetID": "7on801h",
       "Name": "Between Technology and the Divine",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -269,7 +274,7 @@
       "ID": "NEW_ACHIEVEMENT_1_14",
       "SetID": "7on801h",
       "Name": "God Killer",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -285,7 +290,7 @@
       "ID": "NEW_ACHIEVEMENT_1_16",
       "SetID": "7on801h",
       "Name": "Core Driller",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -341,7 +346,7 @@
       "ID": "NEW_ACHIEVEMENT_1_22",
       "SetID": "7on801h",
       "Name": "Humanity \u002B",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -405,7 +410,7 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "7on801h",
       "Name": "Foxiest of the Hounds",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -421,7 +426,7 @@
       "ID": "NEW_ACHIEVEMENT_1_31",
       "SetID": "7on801h",
       "Name": "Ground Mail Was a Better Option",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -429,7 +434,7 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "7on801h",
       "Name": "I Never Asked For This",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -437,7 +442,7 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "7on801h",
       "Name": "The Supreme Enlightened",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -445,7 +450,7 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "7on801h",
       "Name": "Spokes in Two Wheels",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -453,7 +458,7 @@
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "7on801h",
       "Name": "He\u0027s [Not] Dead, Jim",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -461,7 +466,7 @@
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "7on801h",
       "Name": "Laputan Machine",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -469,7 +474,7 @@
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "7on801h",
       "Name": "A Heated Combination",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -485,7 +490,7 @@
       "ID": "NEW_ACHIEVEMENT_2_1",
       "SetID": "7on801h",
       "Name": "I Can Only Fight Enemies I Can See",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -493,7 +498,7 @@
       "ID": "NEW_ACHIEVEMENT_2_10",
       "SetID": "7on801h",
       "Name": "Handle with Care",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -501,7 +506,7 @@
       "ID": "NEW_ACHIEVEMENT_2_11",
       "SetID": "7on801h",
       "Name": "Neon Nights",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -517,7 +522,7 @@
       "ID": "NEW_ACHIEVEMENT_2_13",
       "SetID": "7on801h",
       "Name": "Adept of the Metaverse",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -533,7 +538,7 @@
       "ID": "NEW_ACHIEVEMENT_2_15",
       "SetID": "7on801h",
       "Name": "Data Disciple",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -549,7 +554,7 @@
       "ID": "NEW_ACHIEVEMENT_2_17",
       "SetID": "7on801h",
       "Name": "Data Expert",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -557,7 +562,7 @@
       "ID": "NEW_ACHIEVEMENT_2_18",
       "SetID": "7on801h",
       "Name": "Data Master",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -597,7 +602,7 @@
       "ID": "NEW_ACHIEVEMENT_2_22",
       "SetID": "o6aioj",
       "Name": "Help Desk",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -637,7 +642,7 @@
       "ID": "NEW_ACHIEVEMENT_2_27",
       "SetID": "7on801h",
       "Name": "Hourglass",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -645,7 +650,7 @@
       "ID": "NEW_ACHIEVEMENT_2_28",
       "SetID": "7on801h",
       "Name": "Ashes to Ashes",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -653,7 +658,7 @@
       "ID": "NEW_ACHIEVEMENT_2_29",
       "SetID": "7on801h",
       "Name": "Excess Baggage Fees",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -669,7 +674,7 @@
       "ID": "NEW_ACHIEVEMENT_2_30",
       "SetID": "7on801h",
       "Name": "Data Emperor",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -677,7 +682,7 @@
       "ID": "NEW_ACHIEVEMENT_2_31",
       "SetID": "7on801h",
       "Name": "The 40-Yard Digital Dash",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -685,7 +690,7 @@
       "ID": "NEW_ACHIEVEMENT_2_4",
       "SetID": "7on801h",
       "Name": "The Harvester",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -717,7 +722,7 @@
       "ID": "NEW_ACHIEVEMENT_2_8",
       "SetID": "7on801h",
       "Name": "Cult of Personality",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -725,7 +730,7 @@
       "ID": "NEW_ACHIEVEMENT_2_9",
       "SetID": "7on801h",
       "Name": "All in the Family",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -733,7 +738,7 @@
       "ID": "NEW_ACHIEVEMENT_3_0",
       "SetID": "7on801h",
       "Name": "Camera, Action, Red-Handed",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -741,7 +746,7 @@
       "ID": "NEW_ACHIEVEMENT_3_1",
       "SetID": "7on801h",
       "Name": "A Heist of Olympic Proportions",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -749,7 +754,7 @@
       "ID": "NEW_ACHIEVEMENT_3_10",
       "SetID": "o6aioj",
       "Name": "Code of Conduct",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -805,7 +810,7 @@
       "ID": "NEW_ACHIEVEMENT_3_17",
       "SetID": "o6aioj",
       "Name": "Umlauts or no Umlauts",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -821,7 +826,7 @@
       "ID": "NEW_ACHIEVEMENT_3_3",
       "SetID": "7on801h",
       "Name": "Fire Sale",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -829,7 +834,7 @@
       "ID": "NEW_ACHIEVEMENT_3_4",
       "SetID": "7on801h",
       "Name": "Burning Neodymium",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -837,7 +842,7 @@
       "ID": "NEW_ACHIEVEMENT_3_5",
       "SetID": "7on801h",
       "Name": "Not The Rippers You Are Looking For",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -845,7 +850,7 @@
       "ID": "NEW_ACHIEVEMENT_3_6",
       "SetID": "7on801h",
       "Name": "Now I\u0027m Feeling A Little Motivated",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -853,7 +858,7 @@
       "ID": "NEW_ACHIEVEMENT_3_7",
       "SetID": "7on801h",
       "Name": "You\u0027re Not Worthy As My Opponent",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -861,7 +866,7 @@
       "ID": "NEW_ACHIEVEMENT_3_8",
       "SetID": "o6aioj",
       "Name": "A Criminal Past",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -869,7 +874,7 @@
       "ID": "NEW_ACHIEVEMENT_3_9",
       "SetID": "o6aioj",
       "Name": "Winners Don\u0027t Use Drugs (or Biocells)",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
       "UsersEstimate": 1
     }
@@ -878,20 +883,20 @@
     {
       "ID": "7on801h",
       "IsBase": true,
-      "Progressed": 40,
+      "Progressed": 41,
       "Completed": 0
     },
     {
       "ID": "o6aioj",
       "IsBase": false,
-      "Progressed": 40,
+      "Progressed": 41,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2023-12-21T02:27:39.1952915+00:00",
+  "LastChanged_Achievements": "2023-12-21T04:05:30.6111303+00:00",
   "LastUpdate_AppInfo": "2023-12-20T16:57:12.9726855+00:00",
-  "LastUpdate_Ratings": "2023-12-21T02:57:13.3530899+00:00",
-  "LastUpdate_Achievements": "2023-12-21T02:27:39.1953542+00:00"
+  "LastUpdate_Ratings": "2023-12-21T03:57:23.9078949+00:00",
+  "LastUpdate_Achievements": "2023-12-21T04:05:30.6130395+00:00"
 }

@@ -1,29 +1,29 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.19 (Ranked 939)  
+Rating: 4.20 (Ranked 932)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 14.00% | ~2,565 |
-| Get a Grip | 14.00% | ~2,565 |
-| The Outer Way | 14.00% | ~2,565 |
-| Paper Jams | 13.00% | ~2,381 |
-| Desperate Times | 13.00% | ~2,381 |
-| Chew 'Em Up | 11.00% | ~2,015 |
-| Float Like A Butterfly | 11.00% | ~2,015 |
+| Flesh Wound | 14.00% | ~2,566 |
+| Get a Grip | 14.00% | ~2,566 |
+| The Outer Way | 14.00% | ~2,566 |
+| Paper Jams | 13.00% | ~2,382 |
+| Desperate Times | 13.00% | ~2,382 |
+| Chew 'Em Up | 11.00% | ~2,016 |
+| Float Like A Butterfly | 11.00% | ~2,016 |
 | Reforged | 10.00% | ~1,832 |
 | Workplace Hazard | 9.00% | ~1,649 |
 | If the SHU Fits... | 9.00% | ~1,649 |
-| Two Heads Are Better Than One | 7.00% | ~1,282 |
-| Without A Paddle | 7.00% | ~1,282 |
-| In the Pipe, Five by Five | 7.00% | ~1,282 |
-| Crash Site | 7.00% | ~1,282 |
-| You Need a Gun | 6.00% | ~1,099 |
-| Terminated | 6.00% | ~1,099 |
-| What Lies Beneath | 6.00% | ~1,099 |
-| Full Circle | 6.00% | ~1,099 |
-| Power Up | 6.00% | ~1,099 |
+| Two Heads Are Better Than One | 7.00% | ~1,283 |
+| Without A Paddle | 7.00% | ~1,283 |
+| In the Pipe, Five by Five | 7.00% | ~1,283 |
+| Crash Site | 7.00% | ~1,283 |
+| You Need a Gun | 6.00% | ~1,100 |
+| Terminated | 6.00% | ~1,100 |
+| What Lies Beneath | 6.00% | ~1,100 |
+| Full Circle | 6.00% | ~1,100 |
+| Power Up | 6.00% | ~1,100 |
 | Keep Fighting | 6.00% | ~375 |
 | Giving Back | 5.00% | ~916 |
 | I Do Belong Here | 5.00% | ~916 |
@@ -31,20 +31,20 @@ Rating: 4.19 (Ranked 939)
 | In Striking Distance | 3.00% | ~550 |
 | The Commonality | 3.00% | ~550 |
 | One Last Job | 2.00% | ~125 |
-| Big Spender | 1.00% | ~62 |
-| This Isn't About Escape | 1.00% | ~62 |
+| Big Spender | 1.00% | ~63 |
+| This Isn't About Escape | 1.00% | ~63 |
 | Armed to the Teeth | 0.90% | ~56 |
 | Mugshot | 0.90% | ~165 |
 | Grim Reaper | 0.80% | ~147 |
 | Parole Denied | 0.80% | ~50 |
 | Instigator | 0.80% | ~50 |
 | Information Overload | 0.80% | ~50 |
-| Quick Pick | 0.60% | ~37 |
+| Quick Pick | 0.60% | ~38 |
 | Subject Alpha | 0.40% | ~25 |
 | Don't Let It Mellow | 0.30% | ~19 |
 | The Protocol is About Life | 0.20% | ~37 |
-| Recidivist | 0.20% | ~12 |
-| Hoard Mode | 0.20% | ~12 |
+| Recidivist | 0.20% | ~13 |
+| Hoard Mode | 0.20% | ~13 |
 | It's over, Jacob! | 0.10% | ~18 |
 | Glutton for Punishment | 0.10% | ~6 |
 | You Belong Here | 0.10% | ~6 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 939)
 | Bear Trap | 0.10% | ~6 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,319 (Ranked 149)  
+Progressed: 18,325 (Ranked 149)  
 Completed: 82 (0.45%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 82 (0.45%) (Ranked 223)
 | 2023-12-18 | 17,946 | 82 |
 | 2023-12-19 | 18,137 | 82 |
 | 2023-12-20 | 18,301 | 82 |
-| 2023-12-21 | 18,319 | 82 |
+| 2023-12-21 | 18,325 | 82 |
 ## Awards
 Max (Quickly Understood Controls): 89  (Ranked 388)  
 Sum: 533 (Ranked 326)  
@@ -484,3 +484,4 @@ Diff (max vs sum): 62
 | 2023-12-18 | 4.19 | 88 | 521 |
 | 2023-12-19 | 4.19 | 89 | 526 |
 | 2023-12-20 | 4.19 | 89 | 533 |
+| 2023-12-21 | 4.20 | 89 | 533 |

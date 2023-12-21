@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 357,
   "Ranking_EOS_Completed": 19,
   "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
     "PcReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -1905,9 +1905,9 @@
       "ID": "Compiling",
       "SetID": "7jbi7el",
       "Name": "Job completed!",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 169
+      "UsersEstimate": 172
     },
     {
       "ID": "FallDeath",
@@ -1953,9 +1953,9 @@
       "ID": "GasDeath",
       "SetID": "7jbi7el",
       "Name": "Contract Termination",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 151
+      "UsersEstimate": 155
     },
     {
       "ID": "GasFound",
@@ -2008,8 +2008,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-12-21T03:03:46.3019136+00:00",
+  "LastChanged_Achievements": "2023-12-21T04:06:18.4054039+00:00",
   "LastUpdate_AppInfo": "2023-12-20T02:56:48.8578291+00:00",
-  "LastUpdate_Ratings": "2023-12-21T02:58:24.5317845+00:00",
-  "LastUpdate_Achievements": "2023-12-21T03:03:46.301932+00:00"
+  "LastUpdate_Ratings": "2023-12-21T03:58:44.2451663+00:00",
+  "LastUpdate_Achievements": "2023-12-21T04:06:18.4054219+00:00"
 }

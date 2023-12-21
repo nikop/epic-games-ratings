@@ -251,9 +251,9 @@
       "ID": "Chapter05_Breakout",
       "SetID": "c8fdd59",
       "Name": "Breakout",
-      "Percentage": 44,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Chapter06_NewExperience",
@@ -538,8 +538,8 @@
   ],
   "FirstSeen": "2023-09-08T10:00:07.3821883+00:00",
   "FirstSeenAchievements": "2023-08-28T07:03:21.9021387+00:00",
-  "LastChanged_Achievements": "2023-12-21T03:09:33.711194+00:00",
+  "LastChanged_Achievements": "2023-12-21T04:11:51.850774+00:00",
   "LastUpdate_AppInfo": "2023-12-18T15:57:06.3706988+00:00",
-  "LastUpdate_Ratings": "2023-12-21T02:57:22.6198451+00:00",
-  "LastUpdate_Achievements": "2023-12-21T03:09:33.7112207+00:00"
+  "LastUpdate_Ratings": "2023-12-21T03:57:34.1510054+00:00",
+  "LastUpdate_Achievements": "2023-12-21T04:11:51.8508332+00:00"
 }

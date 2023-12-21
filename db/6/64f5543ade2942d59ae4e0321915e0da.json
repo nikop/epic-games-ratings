@@ -3,7 +3,7 @@
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 406,
-  "Ranking_EOS_Completed": 208,
+  "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 186,
+  "EOS_Progressed": 187,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.54,
+  "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
     {
       "Time": "2023-10-17T15:03:17.566478+00:00",
@@ -769,6 +769,11 @@
       "Time": "2023-12-21T02:29:27.0041995+00:00",
       "NumProgressed": 186,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T04:09:17.5280945+00:00",
+      "NumProgressed": 187,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -853,15 +858,15 @@
       "Name": "Hunger",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "AC_BOSS_01",
       "SetID": "16i2akc",
       "Name": "Misery",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 54
     },
     {
       "ID": "AC_BOSS_02",
@@ -875,9 +880,9 @@
       "ID": "AC_BOSS_03",
       "SetID": "16i2akc",
       "Name": "Sacrilege",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "AC_BOSS_04",
@@ -925,7 +930,7 @@
       "Name": "Corpse",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "AC_DEATH_2",
@@ -947,9 +952,9 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 97
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -971,9 +976,9 @@
       "ID": "AC_DISTANCE_1",
       "SetID": "16i2akc",
       "Name": "Excursion",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 150
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -989,15 +994,15 @@
       "Name": "Voyage",
       "Percentage": 33,
       "XP": 45,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
       "SetID": "16i2akc",
       "Name": "Player",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 54
     },
     {
       "ID": "AC_FLASHBACK_01",
@@ -1005,7 +1010,7 @@
       "Name": "Creation",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "AC_FLASHBACK_02",
@@ -1037,7 +1042,7 @@
       "Name": "Winner",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "AC_MUSIC_CONCERT",
@@ -1053,7 +1058,7 @@
       "Name": "Gun",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "AC_RECIPES_DONE_1",
@@ -1116,14 +1121,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 186,
+      "Progressed": 187,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-21T03:07:58.6508242+00:00",
+  "LastChanged_Achievements": "2023-12-21T04:09:17.5280937+00:00",
   "LastUpdate_AppInfo": "2023-12-19T20:57:15.8211494+00:00",
-  "LastUpdate_Ratings": "2023-12-21T03:00:16.1258835+00:00",
-  "LastUpdate_Achievements": "2023-12-21T03:07:58.6508469+00:00"
+  "LastUpdate_Ratings": "2023-12-21T04:00:50.5724922+00:00",
+  "LastUpdate_Achievements": "2023-12-21T04:09:17.528125+00:00"
 }

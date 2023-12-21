@@ -8,7 +8,7 @@
 | Conspiracy Theorist | 42.00% | ~219 |
 | On the Road | 41.00% | ~214 |
 | Souvenirs | 28.00% | ~146 |
-| Welcome to the Garage | 18.00% | ~94 |
+| Welcome to the Garage | 19.00% | ~99 |
 | Truthseeker | 16.00% | ~83 |
 | This is Not Heavy Metal! | 16.00% | ~83 |
 | Freedom | 8.00% | ~42 |

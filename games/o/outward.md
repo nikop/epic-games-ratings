@@ -6,29 +6,29 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 74.00% | ~3,007 |
-| Ready for Winter | 63.00% | ~2,560 |
+| Venture Outward | 74.00% | ~3,008 |
+| Ready for Winter | 63.00% | ~2,561 |
 | Ready for Summer | 50.00% | ~2,032 |
-| Cordon Bleu | 43.00% | ~1,747 |
+| Cordon Bleu | 43.00% | ~1,748 |
 | Tapped! | 36.00% | ~1,463 |
 | Eureka | 31.00% | ~1,260 |
 | Scourge Slayer | 25.00% | ~1,016 |
-| Science, Troglodyte! | 23.00% | ~934 |
+| Science, Troglodyte! | 23.00% | ~935 |
 | Exceptional Skill | 22.00% | ~894 |
 | Home Sweet Home | 22.00% | ~894 |
 | Encyclopedic! | 19.00% | ~772 |
 | A Fortress Toppled! | 16.00% | ~650 |
 | The Power of Family | 16.00% | ~650 |
-| Apex Predator | 15.00% | ~609 |
+| Apex Predator | 15.00% | ~610 |
 | Strange amalgams | 12.00% | ~488 |
 | The Power of Faith | 12.00% | ~488 |
 | The Power of Freedom | 9.00% | ~366 |
 | Ace Detective | 8.00% | ~325 |
 | Gift from the Ancestors | 8.00% | ~325 |
 | Magic is a science | 8.00% | ~325 |
-| House of Cards | 7.00% | ~284 |
-| Let ‘em eat magma! | 7.00% | ~284 |
-| The power of ambition | 7.00% | ~284 |
+| House of Cards | 7.00% | ~285 |
+| Let ‘em eat magma! | 7.00% | ~285 |
+| The power of ambition | 7.00% | ~285 |
 | Hold my Mead and Watch This | 6.00% | ~244 |
 | The stuff of legends. | 6.00% | ~244 |
 | Blood and justice | 5.00% | ~203 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~12 |
 | The Absolute Pinnacle. | 0.30% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,063 (Ranked 206)  
+Progressed: 4,065 (Ranked 206)  
 Completed: 5 (0.12%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 5 (0.12%) (Ranked 295)
 | 2023-12-18 | 4,009 | 5 |
 | 2023-12-19 | 4,030 | 5 |
 | 2023-12-20 | 4,056 | 5 |
-| 2023-12-21 | 4,063 | 5 |
+| 2023-12-21 | 4,065 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 487)  
 Sum: 246 (Ranked 393)  
