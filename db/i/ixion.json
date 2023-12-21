@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -311,9 +311,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3612,
+  "EOS_Progressed": 3613,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6781,6 +6781,11 @@
       "Time": "2023-12-21T10:04:07.1937767+00:00",
       "NumProgressed": 3612,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T14:04:22.2487158+00:00",
+      "NumProgressed": 3613,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -6888,7 +6893,7 @@
       "Name": "Sustainable Energy",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_BASE_23",
@@ -6904,7 +6909,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "ACH_BASE_25",
@@ -6936,7 +6941,7 @@
       "Name": "In Dolos We Trust",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_BASE_29",
@@ -6960,7 +6965,7 @@
       "Name": "Exceeding Capacity",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "ACH_BASE_31",
@@ -7000,7 +7005,7 @@
       "Name": "Breaking Protocol",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "ACH_BASE_36",
@@ -7152,7 +7157,7 @@
       "Name": "Pedal to the Metal",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_BASE_58",
@@ -7176,7 +7181,7 @@
       "Name": "Hope Seeker",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "ACH_BASE_60",
@@ -7247,13 +7252,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1796,
+      "Progressed": 1797,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3612,
+      "Progressed": 3613,
       "Completed": 0
     }
   ],
@@ -7261,8 +7266,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-10T20:59:24.4447628+00:00",
-  "LastChanged_Achievements": "2023-12-21T13:08:28.1178426+00:00",
+  "LastChanged_Achievements": "2023-12-21T14:04:22.2487155+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.6786359+00:00",
-  "LastUpdate_Ratings": "2023-12-21T13:01:24.964543+00:00",
-  "LastUpdate_Achievements": "2023-12-21T13:08:28.1179036+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:57:03.432657+00:00",
+  "LastUpdate_Achievements": "2023-12-21T14:04:22.2487753+00:00"
 }

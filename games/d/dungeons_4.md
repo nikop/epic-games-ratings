@@ -4,45 +4,45 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 88.00% | ~526 |
-| Thalya – Simply Immortal | 88.00% | ~526 |
-| For the Horde! | 82.00% | ~490 |
-| Hammer Time, Round Two | 81.00% | ~484 |
-| The Hellwoods | 77.00% | ~460 |
+| The Last Stand | 88.00% | ~527 |
+| Thalya – Simply Immortal | 88.00% | ~527 |
+| For the Horde! | 82.00% | ~491 |
+| Hammer Time, Round Two | 81.00% | ~485 |
+| The Hellwoods | 77.00% | ~461 |
 | The Plains of Strothalm | 72.00% | ~431 |
 | Experienced Thalya | 71.00% | ~425 |
 | Thalya's Concentrated Fury | 69.00% | ~413 |
 | Bad Elves Go Everywhere | 69.00% | ~413 |
-| Heroes’ Gorge | 65.00% | ~389 |
+| Heroes’ Gorge | 64.00% | ~383 |
 | Master of Magic | 63.00% | ~377 |
 | Unicorn steaks – fresh off the hoof! | 62.00% | ~371 |
 | Magic Accidents | 60.00% | ~359 |
 | The Ascent | 59.00% | ~353 |
 | It's Warm and Cozy at Home | 59.00% | ~353 |
 | Trap Master | 55.00% | ~329 |
-| Minions, Minions! | 55.00% | ~329 |
-| Hard Work | 54.00% | ~323 |
+| Minions, Minions! | 54.00% | ~323 |
 | The Big Eaty | 54.00% | ~323 |
+| Hard Work | 53.00% | ~317 |
 | “… like son” | 51.00% | ~305 |
-| YOU SHALL NOT PASS! | 50.00% | ~299 |
-| The Cathedral of Light | 48.00% | ~287 |
-| Shame! Shame! Shame! | 47.00% | ~281 |
-| Pure Dynamite! | 46.00% | ~275 |
-| Dungeonlord Gorgu | 46.00% | ~275 |
-| Tanos' Crusade Against Thalya | 45.00% | ~269 |
-| Mana Cannon | 42.00% | ~251 |
-| All’s Well That Ends Evil | 40.00% | ~239 |
-| The Duel | 36.00% | ~215 |
-| Unstoppable Horde | 35.00% | ~209 |
-| Master of the Undead | 35.00% | ~209 |
-| If Looks Could Kill | 34.00% | ~203 |
-| The Finitude Drill | 31.00% | ~185 |
-| Ghost Pirates? Ghost Heroes! | 30.00% | ~179 |
-| Not Even a Tiny Thin Mint Wafer, Thanks! | 28.00% | ~167 |
-| Forbidden Knowledge | 28.00% | ~167 |
-| Hungry, Hungry Gorgu! | 27.00% | ~161 |
-| Doom Hill | 27.00% | ~161 |
-| Stop Tanos! | 26.00% | ~155 |
+| YOU SHALL NOT PASS! | 50.00% | ~300 |
+| The Cathedral of Light | 48.00% | ~288 |
+| Shame! Shame! Shame! | 47.00% | ~282 |
+| Pure Dynamite! | 46.00% | ~276 |
+| Dungeonlord Gorgu | 46.00% | ~276 |
+| Tanos' Crusade Against Thalya | 45.00% | ~270 |
+| Mana Cannon | 42.00% | ~252 |
+| All’s Well That Ends Evil | 40.00% | ~240 |
+| The Duel | 36.00% | ~216 |
+| Unstoppable Horde | 35.00% | ~210 |
+| Master of the Undead | 35.00% | ~210 |
+| If Looks Could Kill | 34.00% | ~204 |
+| The Finitude Drill | 31.00% | ~186 |
+| Ghost Pirates? Ghost Heroes! | 30.00% | ~180 |
+| Not Even a Tiny Thin Mint Wafer, Thanks! | 28.00% | ~168 |
+| Forbidden Knowledge | 28.00% | ~168 |
+| Hungry, Hungry Gorgu! | 27.00% | ~162 |
+| Doom Hill | 27.00% | ~162 |
+| Stop Tanos! | 26.00% | ~156 |
 | Sabotage! | 25.00% | ~150 |
 | Brimstone Shaken, Not Stirred | 25.00% | ~150 |
 | Bonus Evilness | 24.00% | ~144 |
@@ -66,7 +66,7 @@
 | No Mana, No Cry | 10.00% | ~60 |
 | I Don't Need Any Help | 9.00% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 598 (Ranked 317)  
+Progressed: 599 (Ranked 317)  
 Completed: 20 (3.34%) (Ranked 104)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,3 +112,4 @@ Completed: 20 (3.34%) (Ranked 104)
 | 2023-12-18 | 589 | 19 |
 | 2023-12-19 | 592 | 19 |
 | 2023-12-20 | 598 | 20 |
+| 2023-12-21 | 599 | 20 |

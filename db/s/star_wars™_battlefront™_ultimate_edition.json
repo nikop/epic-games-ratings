@@ -4,8 +4,8 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1959,
+  "EOS_Progressed": 1961,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 248,
+  "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5764,6 +5764,11 @@
       "Time": "2023-12-21T12:11:00.0431854+00:00",
       "NumProgressed": 1959,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T14:09:56.803864+00:00",
+      "NumProgressed": 1961,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -5830,9 +5835,9 @@
       "ID": "achievement_16",
       "SetID": "271ol84",
       "Name": "I\u0027ve been waiting for you",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 39
     },
     {
       "ID": "achievement_17",
@@ -5976,7 +5981,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "achievement_33",
@@ -6000,7 +6005,7 @@
       "Name": "New Recruit",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1724
+      "UsersEstimate": 1726
     },
     {
       "ID": "achievement_36",
@@ -6016,7 +6021,7 @@
       "Name": "Off to a good start",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "achievement_38",
@@ -6048,7 +6053,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 999
+      "UsersEstimate": 1000
     },
     {
       "ID": "achievement_41",
@@ -6128,7 +6133,7 @@
       "Name": "Shoot first",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "achievement_50",
@@ -6279,13 +6284,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1959,
+      "Progressed": 1961,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1959,
+      "Progressed": 1961,
       "Completed": 1
     }
   ],
@@ -6293,8 +6298,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-21T13:14:01.8613837+00:00",
+  "LastChanged_Achievements": "2023-12-21T14:09:56.8038637+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.5169818+00:00",
-  "LastUpdate_Ratings": "2023-12-21T13:02:26.5422366+00:00",
-  "LastUpdate_Achievements": "2023-12-21T13:14:01.8614465+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:58:11.8238595+00:00",
+  "LastUpdate_Achievements": "2023-12-21T14:09:56.8039248+00:00"
 }

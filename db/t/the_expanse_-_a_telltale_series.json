@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16984,
+  "EOS_Progressed": 16988,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 808,
+  "EOS_NewPlayers": 809,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -14630,6 +14630,11 @@
       "Time": "2023-12-21T13:09:26.8844129+00:00",
       "NumProgressed": 16984,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-12-21T14:05:27.1095754+00:00",
+      "NumProgressed": 16988,
+      "NumCompleted": 46
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14682,7 +14687,7 @@
       "Name": "Doctor Approved",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "15",
@@ -14714,7 +14719,7 @@
       "Name": "Bottoms up!",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "19",
@@ -14818,7 +14823,7 @@
       "Name": "Captain Drummer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1698
+      "UsersEstimate": 1699
     },
     {
       "ID": "30",
@@ -14882,7 +14887,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "32",
@@ -14921,13 +14926,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16984,
+      "Progressed": 16988,
       "Completed": 46
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2938,
+      "Progressed": 2942,
       "Completed": 976
     }
   ],
@@ -14935,8 +14940,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-21T04:02:39.716899+00:00",
-  "LastChanged_Achievements": "2023-12-21T13:09:26.8844125+00:00",
+  "LastChanged_Achievements": "2023-12-21T14:05:27.109575+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:40.0929133+00:00",
-  "LastUpdate_Ratings": "2023-12-21T13:04:52.6788396+00:00",
-  "LastUpdate_Achievements": "2023-12-21T13:09:26.884497+00:00"
+  "LastUpdate_Ratings": "2023-12-21T14:02:36.3527767+00:00",
+  "LastUpdate_Achievements": "2023-12-21T14:05:27.1096585+00:00"
 }

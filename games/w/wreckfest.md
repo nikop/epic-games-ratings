@@ -1,7 +1,7 @@
 # Wreckfest
 [Store](https://store.epicgames.com/en-US/p/wreckfest)  
 [View Rawdata](../../db/w/wreckfest.json)  
-Rating: 4.27 (Ranked 878)  
+Rating: 4.27 (Ranked 877)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -26,7 +26,7 @@ Rating: 4.27 (Ranked 878)
 | Hating Them Tin Cans | 0.00% | ~0 |
 | Maniac Driver | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 186 (Ranked 407)  
+Progressed: 189 (Ranked 407)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -34,7 +34,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 58 | 0 |
 | 2023-12-19 | 116 | 0 |
 | 2023-12-20 | 166 | 0 |
-| 2023-12-21 | 186 | 0 |
+| 2023-12-21 | 189 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

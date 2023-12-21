@@ -10,8 +10,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Welcome to Sigil | 0.70% | ~1,462 |
 | Fast Food | 0.50% | ~1,044 |
 | The Cursed Farmer | 0.40% | ~970 |
-| The Overgrown Grove | 0.40% | ~835 |
-| Mental Gymnastics | 0.40% | ~835 |
+| The Overgrown Grove | 0.40% | ~836 |
+| Mental Gymnastics | 0.40% | ~836 |
 | Beast Intentions | 0.30% | ~728 |
 | The Mad Wizard | 0.30% | ~728 |
 | Misaligned in Sigil | 0.30% | ~627 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~209 |
 | The Brains of an Illithid's Desire | 0.10% | ~209 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,586 (Ranked 65)  
+Progressed: 242,605 (Ranked 65)  
 Completed: 2,552 (1.05%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -798,11 +798,11 @@ Completed: 2,552 (1.05%) (Ranked 170)
 | 2023-12-18 | 241,838 | 2,541 |
 | 2023-12-19 | 242,122 | 2,544 |
 | 2023-12-20 | 242,412 | 2,546 |
-| 2023-12-21 | 242,586 | 2,552 |
+| 2023-12-21 | 242,605 | 2,552 |
 ## Awards
-Max (Great for Beginners): 5,669  (Ranked 70)  
+Max (Great for Beginners): 5,669  (Ranked 71)  
 Sum: 32,984 (Ranked 41)  
-Diff (max vs sum): 29  
+Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,669 |

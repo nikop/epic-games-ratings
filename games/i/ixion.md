@@ -6,7 +6,7 @@ Rating: 4.58 (Ranked 456)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 30.00% | ~1,084 |
-| Sputnik 2049 | 27.00% | ~975 |
+| Sputnik 2049 | 27.00% | ~976 |
 | Infinite Growth... | 26.00% | ~939 |
 | Without Breaking Some Eggs... | 25.00% | ~903 |
 | A Thousand Strong | 18.00% | ~650 |
@@ -17,9 +17,9 @@ Rating: 4.58 (Ranked 456)
 | Ain't Nobody Got Time for That | 14.00% | ~506 |
 | The Ship of Theseus | 14.00% | ~506 |
 | Guy de Borderlands | 13.00% | ~470 |
-| Exceeding Capacity | 12.00% | ~433 |
-| Breaking Protocol | 12.00% | ~433 |
-| Hope Seeker | 12.00% | ~433 |
+| Exceeding Capacity | 12.00% | ~434 |
+| Breaking Protocol | 12.00% | ~434 |
+| Hope Seeker | 12.00% | ~434 |
 | A Hunk of Junk | 11.00% | ~397 |
 | Man's Best Friend | 9.00% | ~325 |
 | Power Outage | 8.00% | ~289 |
@@ -36,9 +36,9 @@ Rating: 4.58 (Ranked 456)
 | BRAWL! | 5.00% | ~181 |
 | Drill-dozer | 5.00% | ~181 |
 | What the Ruins Teach Us | 5.00% | ~181 |
-| Sustainable Energy | 4.00% | ~144 |
-| In Dolos We Trust | 4.00% | ~144 |
-| Pedal to the Metal | 4.00% | ~144 |
+| Sustainable Energy | 4.00% | ~145 |
+| In Dolos We Trust | 4.00% | ~145 |
+| Pedal to the Metal | 4.00% | ~145 |
 | Praise the Hull! | 3.00% | ~108 |
 | Delivery! | 3.00% | ~108 |
 | Help of the Forgotten Member | 3.00% | ~108 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 456)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,612 (Ranked 211)  
+Progressed: 3,613 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 3,569 | 0 |
 | 2023-12-19 | 3,586 | 0 |
 | 2023-12-20 | 3,605 | 0 |
-| 2023-12-21 | 3,612 | 0 |
+| 2023-12-21 | 3,613 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

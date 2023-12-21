@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 260,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 579,
+  "EOS_Progressed": 580,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1424,6 +1424,11 @@
       "Time": "2023-12-21T13:13:58.5527782+00:00",
       "NumProgressed": 579,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T14:09:53.5408023+00:00",
+      "NumProgressed": 580,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1467,7 +1472,7 @@
       "Name": "Boss Killer",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "BugHunter",
@@ -1507,7 +1512,7 @@
       "Name": "Gladiator",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "GoblinTales",
@@ -1545,9 +1550,9 @@
       "ID": "Iconoclasm",
       "SetID": "82505mn",
       "Name": "Iconoclasm",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 81
     },
     {
       "ID": "Inquisitor",
@@ -1555,7 +1560,7 @@
       "Name": "Inquisitor",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "Librarian",
@@ -1563,7 +1568,7 @@
       "Name": "Librarian",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Lumberjack",
@@ -1619,7 +1624,7 @@
       "Name": "Orcs Must Die!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Pyromancer",
@@ -1691,7 +1696,7 @@
       "Name": "The End",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "TheFallen",
@@ -1754,7 +1759,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 579,
+      "Progressed": 580,
       "Completed": 1
     }
   ],
@@ -1762,8 +1767,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-21T13:13:58.5527777+00:00",
+  "LastChanged_Achievements": "2023-12-21T14:09:53.5408019+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:31.304442+00:00",
-  "LastUpdate_Ratings": "2023-12-21T13:04:44.2879618+00:00",
-  "LastUpdate_Achievements": "2023-12-21T13:13:58.5528052+00:00"
+  "LastUpdate_Ratings": "2023-12-21T14:00:47.0793618+00:00",
+  "LastUpdate_Achievements": "2023-12-21T14:09:53.540876+00:00"
 }

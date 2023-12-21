@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Suffer is to Learn | 6.00% | ~229 |
-| Initiate's Resolve | 6.00% | ~229 |
+| To Suffer is to Learn | 6.00% | ~230 |
+| Initiate's Resolve | 6.00% | ~230 |
 | Missilis | 5.00% | ~191 |
 | Modest Earnings | 5.00% | ~191 |
 | Armaments of the Pantheon | 5.00% | ~191 |
@@ -31,19 +31,19 @@
 | Ophiolatreia | 3.00% | ~115 |
 | Halls of Marble | 3.00% | ~115 |
 | Serpentine | 3.00% | ~115 |
-| Wayward Son of Hephaestus | 2.00% | ~76 |
-| Lament of the Constellations | 2.00% | ~76 |
-| Forged in Fire | 2.00% | ~76 |
-| Rock and a Hard Place | 2.00% | ~76 |
-| The Midas Touch | 2.00% | ~76 |
-| Hapax Legomenon | 2.00% | ~76 |
-| Veneration of Hephaestus | 2.00% | ~76 |
-| Vandili | 2.00% | ~76 |
-| No Scylla in Sight | 2.00% | ~76 |
-| Cloaca Maxima | 2.00% | ~76 |
-| Baby Crabs They Ain't | 2.00% | ~76 |
-| Mors Omnibus | 2.00% | ~76 |
-| Blot Out the Sky | 2.00% | ~76 |
+| Wayward Son of Hephaestus | 2.00% | ~77 |
+| Lament of the Constellations | 2.00% | ~77 |
+| Forged in Fire | 2.00% | ~77 |
+| Rock and a Hard Place | 2.00% | ~77 |
+| The Midas Touch | 2.00% | ~77 |
+| Hapax Legomenon | 2.00% | ~77 |
+| Veneration of Hephaestus | 2.00% | ~77 |
+| Vandili | 2.00% | ~77 |
+| No Scylla in Sight | 2.00% | ~77 |
+| Cloaca Maxima | 2.00% | ~77 |
+| Baby Crabs They Ain't | 2.00% | ~77 |
+| Mors Omnibus | 2.00% | ~77 |
+| Blot Out the Sky | 2.00% | ~77 |
 | The Nameless One | 1.00% | ~38 |
 | Rule of Thirds | 1.00% | ~38 |
 | Pyr Demon | 1.00% | ~38 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,824 (Ranked 208)  
+Progressed: 3,826 (Ranked 208)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 3,803 | 0 |
 | 2023-12-19 | 3,815 | 0 |
 | 2023-12-20 | 3,821 | 0 |
-| 2023-12-21 | 3,824 | 0 |
+| 2023-12-21 | 3,826 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

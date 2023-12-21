@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -523,7 +523,7 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 44608,
+  "EOS_Progressed": 44617,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 908,
   "EOS_NewCompleters": 0,
@@ -15913,6 +15913,11 @@
       "Time": "2023-12-21T13:07:41.7704502+00:00",
       "NumProgressed": 44608,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-21T14:03:30.7762708+00:00",
+      "NumProgressed": 44617,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -15940,7 +15945,7 @@
       "Name": "Outdoorsperson",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "CHALLENGE_ALL",
@@ -15956,7 +15961,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1784
+      "UsersEstimate": 1785
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -15972,7 +15977,7 @@
       "Name": "Attachments",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4907
+      "UsersEstimate": 4908
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -15980,7 +15985,7 @@
       "Name": "Stuck",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1784
+      "UsersEstimate": 1785
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -15988,7 +15993,7 @@
       "Name": "The Interloper",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -16084,7 +16089,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2230
+      "UsersEstimate": 2231
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -16100,7 +16105,7 @@
       "Name": "Hop, Step, Jump",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "JUSTCOUNTER",
@@ -16116,7 +16121,7 @@
       "Name": "Leapfrogger",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2676
+      "UsersEstimate": 2677
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -16140,7 +16145,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2230
+      "UsersEstimate": 2231
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -16180,7 +16185,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2230
+      "UsersEstimate": 2231
     },
     {
       "ID": "MAGIC_IVY",
@@ -16228,7 +16233,7 @@
       "Name": "Endless Runner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "PARKOUR_TIME",
@@ -16250,9 +16255,9 @@
       "ID": "SKILLTREE_ALL",
       "SetID": "6d0g7k8",
       "Name": "Realized Potential",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 312
+      "UsersEstimate": 268
     },
     {
       "ID": "SKILLTREE_FIRST",
@@ -16260,7 +16265,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4461
+      "UsersEstimate": 4462
     },
     {
       "ID": "SPRING_ALL",
@@ -16276,7 +16281,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2676
+      "UsersEstimate": 2677
     },
     {
       "ID": "STAYING_AIR",
@@ -16347,22 +16352,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 44608,
+      "Progressed": 44617,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 9445,
-      "Completed": 9445
+      "Progressed": 9454,
+      "Completed": 9454
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-21T10:56:56.3222551+00:00",
-  "LastChanged_Achievements": "2023-12-21T13:07:41.7704496+00:00",
+  "LastChanged_Achievements": "2023-12-21T14:03:30.7762703+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:26.7354097+00:00",
-  "LastUpdate_Ratings": "2023-12-21T13:01:25.7960504+00:00",
-  "LastUpdate_Achievements": "2023-12-21T13:07:41.7706007+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:57:04.4115812+00:00",
+  "LastUpdate_Achievements": "2023-12-21T14:03:30.7763788+00:00"
 }

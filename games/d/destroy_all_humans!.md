@@ -1,14 +1,14 @@
 # Destroy All Humans!
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans)  
 [View Rawdata](../../db/d/destroy_all_humans!.json)  
-Rating: 4.63 (Ranked 354)  
+Rating: 4.63 (Ranked 353)  
 Number of Ratings: 85  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Kaijuiced | 71.00% | ~55 |
 | Lie Back and Think of Albion | 65.00% | ~51 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 59.00% | ~46 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 60.00% | ~47 |
 | Yettisoned | 58.00% | ~45 |
 | I Look Up As I Walk to Takoshima | 58.00% | ~45 |
 | Shop Til They Drop | 56.00% | ~44 |
@@ -19,14 +19,14 @@ Number of Ratings: 85  (23.09.2022)
 | Freshly Squeezed | 41.00% | ~32 |
 | Earthly Pleasures | 41.00% | ~32 |
 | Ducks in a Row, Fish in a Barrel | 40.00% | ~31 |
-| Upgreatest | 32.00% | ~25 |
+| Upgreatest | 33.00% | ~26 |
 | Bodied Sattva | 32.00% | ~25 |
 | Forbidden Donut | 29.00% | ~23 |
 | Rock of the Bay | 24.00% | ~19 |
 | Furon Fashion | 24.00% | ~19 |
-| Trans-Siberian Express | 23.00% | ~18 |
-| Deincarnated | 22.00% | ~17 |
-| Re-Return of the Clone of the Invasion II-2 | 17.00% | ~13 |
+| Trans-Siberian Express | 24.00% | ~19 |
+| Deincarnated | 23.00% | ~18 |
+| Re-Return of the Clone of the Invasion II-2 | 18.00% | ~14 |
 | Arkvoodle Doodle | 14.00% | ~11 |
 | Ouch of Body Experience | 14.00% | ~11 |
 | Dusted | 14.00% | ~11 |

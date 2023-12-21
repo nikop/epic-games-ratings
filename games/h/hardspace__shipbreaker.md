@@ -6,11 +6,11 @@ Number of Ratings: 36  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breathe In… Breathe Out… | 73.00% | ~730 |
-| It’s Heating up! | 69.00% | ~690 |
-| Let’s patch things up | 65.00% | ~650 |
-| I can fix it! | 63.00% | ~630 |
-| Post No Bills | 55.00% | ~550 |
+| Breathe In… Breathe Out… | 73.00% | ~731 |
+| It’s Heating up! | 69.00% | ~691 |
+| Let’s patch things up | 65.00% | ~651 |
+| I can fix it! | 63.00% | ~631 |
+| Post No Bills | 54.00% | ~541 |
 | Truly Shocking! | 48.00% | ~480 |
 | Critical Thinker | 36.00% | ~360 |
 | Always Finding Your Mark | 30.00% | ~300 |
@@ -25,16 +25,16 @@ Number of Ratings: 36  (23.09.2022)
 | Breaking the Ice | 18.00% | ~180 |
 | Solidarity Forever | 12.00% | ~120 |
 | A Tucked Tale | 10.00% | ~100 |
-| The best thing money can buy | 10.00% | ~100 |
+| The best thing money can buy | 9.00% | ~90 |
 | Act III Complete | 6.00% | ~60 |
-| Fire and Brimstone | 6.00% | ~60 |
 | See you Space Cowboy | 6.00% | ~60 |
+| Fire and Brimstone | 5.00% | ~50 |
 | Ghost in the Ship | 2.00% | ~20 |
 | Disagree and Commit | 0.10% | ~1 |
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,000 (Ranked 278)  
+Progressed: 1,001 (Ranked 278)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-17 | 989 | 0 |
 | 2023-12-18 | 994 | 0 |
 | 2023-12-19 | 998 | 0 |
-| 2023-12-21 | 1,000 | 0 |
+| 2023-12-21 | 1,001 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

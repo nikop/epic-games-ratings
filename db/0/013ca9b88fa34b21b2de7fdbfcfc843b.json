@@ -2,13 +2,13 @@
   "ID": "013ca9b88fa34b21b2de7fdbfcfc843b",
   "Name": "Fae Farm",
   "ProductSlug": "fae-farm",
-  "Ranking_Rating": 354,
+  "Ranking_Rating": 353,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -235,9 +235,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8562,
+  "EOS_Progressed": 8564,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8825,6 +8825,11 @@
       "Time": "2023-12-21T11:09:54.8952511+00:00",
       "NumProgressed": 8562,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T14:09:54.0416361+00:00",
+      "NumProgressed": 8564,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -8853,7 +8858,7 @@
       "Name": "Calm Sailing",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -8861,7 +8866,7 @@
       "Name": "Open the Gate!",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -8875,9 +8880,9 @@
       "ID": "CHAPTER_6_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Search for the Hairy Grell",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 43
     },
     {
       "ID": "CHAPTER_7_COMPLETE",
@@ -8923,9 +8928,9 @@
       "ID": "COLLECT_LOGS",
       "SetID": "9eia0f5",
       "Name": "Lumberjack",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 51
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -8933,7 +8938,7 @@
       "Name": "Miner 49er",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -8941,7 +8946,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -9180,13 +9185,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8562,
+      "Progressed": 8564,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1179,
+      "Progressed": 1181,
       "Completed": 1050
     }
   ],
@@ -9194,8 +9199,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-19T16:03:30.9665101+00:00",
-  "LastChanged_Achievements": "2023-12-21T13:13:59.207586+00:00",
+  "LastChanged_Achievements": "2023-12-21T14:09:54.0416358+00:00",
   "LastUpdate_AppInfo": "2023-12-15T11:57:06.5610357+00:00",
-  "LastUpdate_Ratings": "2023-12-21T13:07:23.6803976+00:00",
-  "LastUpdate_Achievements": "2023-12-21T13:13:59.2076411+00:00"
+  "LastUpdate_Ratings": "2023-12-21T14:03:09.9373424+00:00",
+  "LastUpdate_Achievements": "2023-12-21T14:09:54.0416999+00:00"
 }

@@ -25,10 +25,10 @@
 | Banking city | 0.70% | ~3 |
 | City crisis | 0.70% | ~3 |
 | I am very happy! | 0.70% | ~3 |
-| Food provider master | 0.50% | ~2 |
-| Oh, life is too awesome! Thank you! | 0.50% | ~2 |
-| ¡Muy feliz! | 0.50% | ~2 |
-| Oh, I love parks, listening to birds! | 0.50% | ~2 |
+| Food provider master | 0.40% | ~2 |
+| Oh, life is too awesome! Thank you! | 0.40% | ~2 |
+| ¡Muy feliz! | 0.40% | ~2 |
+| Oh, I love parks, listening to birds! | 0.40% | ~2 |
 | Anarchist Utopia | 0.20% | ~1 |
 | Anarchist paradise | 0.20% | ~1 |
 | Banking empire | 0.20% | ~1 |
@@ -84,7 +84,7 @@
 | Rainforest master | 0.00% | ~0 |
 | Welfare state | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 444 (Ranked 336)  
+Progressed: 445 (Ranked 336)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 431 | 0 |
 | 2023-12-19 | 437 | 0 |
 | 2023-12-20 | 441 | 0 |
-| 2023-12-21 | 444 | 0 |
+| 2023-12-21 | 445 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

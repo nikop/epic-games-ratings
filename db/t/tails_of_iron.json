@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 325,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -254,9 +254,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2263,
+  "EOS_Progressed": 2264,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -4079,6 +4079,11 @@
       "Time": "2023-12-20T19:03:39.640966+00:00",
       "NumProgressed": 2263,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-21T14:03:59.0338194+00:00",
+      "NumProgressed": 2264,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 36,
@@ -4168,9 +4173,9 @@
       "ID": "CompleteGuardFaction",
       "SetID": "9lj35g4",
       "Name": "Complete Guard Faction",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "CompleteHunterFaction",
@@ -4208,9 +4213,9 @@
       "ID": "DefeatRatnorRodentson",
       "SetID": "9lj35g4",
       "Name": "Defeat Ratnor Rodentson",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "DefeatRattusAugustus",
@@ -4288,9 +4293,9 @@
       "ID": "RepairChef",
       "SetID": "9lj35g4",
       "Name": "Kitchen Ready To Cook",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "RepairSmith",
@@ -4377,13 +4382,13 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2263,
+      "Progressed": 2264,
       "Completed": 12
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 904,
+      "Progressed": 905,
       "Completed": 897
     }
   ],
@@ -4391,8 +4396,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-12-20T19:57:28.9419379+00:00",
-  "LastChanged_Achievements": "2023-12-21T13:08:07.7156785+00:00",
+  "LastChanged_Achievements": "2023-12-21T14:03:59.0338186+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:33.7739845+00:00",
-  "LastUpdate_Ratings": "2023-12-21T13:02:07.0122559+00:00",
-  "LastUpdate_Achievements": "2023-12-21T13:08:07.7157208+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:57:50.784099+00:00",
+  "LastUpdate_Achievements": "2023-12-21T14:03:59.0338591+00:00"
 }

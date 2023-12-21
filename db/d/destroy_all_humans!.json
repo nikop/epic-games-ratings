@@ -2,13 +2,13 @@
   "ID": "c12a5687fb024192999b2d22c555d4c6",
   "Name": "Destroy All Humans!",
   "ProductSlug": "destroy-all-humans",
-  "Ranking_Rating": 354,
+  "Ranking_Rating": 353,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 494,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -578,9 +578,9 @@
       "ID": "ACH_ABILITY_ECM",
       "SetID": "cefn62b",
       "Name": "Deincarnated",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_ABILITY_PKBURNINGINTOHUMAN",
@@ -722,9 +722,9 @@
       "ID": "ACH_COLLECT_PROBE",
       "SetID": "cefn62b",
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_COMBAT_EVADEBAZOOKA",
@@ -770,9 +770,9 @@
       "ID": "ACH_INVADE_AREA42",
       "SetID": "cefn62b",
       "Name": "Re-Return of the Clone of the Invasion II-2",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_INVADE_CAPITOL",
@@ -794,9 +794,9 @@
       "ID": "ACH_INVADE_SANTAMODESTA",
       "SetID": "cefn62b",
       "Name": "Upgreatest",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_INVADE_TURNIPSEED",
@@ -866,9 +866,9 @@
       "ID": "ACH_UPGRADE_TOPTIER",
       "SetID": "cefn62b",
       "Name": "Trans-Siberian Express",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     }
   ],
   "AchievementSets": [
@@ -882,8 +882,8 @@
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2023-11-09T01:43:19.9714919+00:00",
-  "LastChanged_Achievements": "2023-12-21T13:09:34.1335676+00:00",
+  "LastChanged_Achievements": "2023-12-21T14:05:34.8479232+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:30.3369877+00:00",
-  "LastUpdate_Ratings": "2023-12-21T13:02:57.3246937+00:00",
-  "LastUpdate_Achievements": "2023-12-21T13:09:34.1335951+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:58:46.606023+00:00",
+  "LastUpdate_Achievements": "2023-12-21T14:05:34.8479479+00:00"
 }

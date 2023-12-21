@@ -8,12 +8,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | ---- | ---------- | ----- |
 | Abandoned Settlement | 6.00% | ~1,129 |
 | Overgrown Library | 6.00% | ~1,129 |
-| Petrified Necropolis | 5.00% | ~940 |
-| Taking Action | 4.00% | ~752 |
-| No Deaths | 4.00% | ~752 |
-| Frosts | 4.00% | ~752 |
-| Ominous Presence | 4.00% | ~752 |
-| Gathering Storm | 4.00% | ~752 |
+| Petrified Necropolis | 5.00% | ~941 |
+| Taking Action | 4.00% | ~753 |
+| No Deaths | 4.00% | ~753 |
+| Frosts | 4.00% | ~753 |
+| Ominous Presence | 4.00% | ~753 |
+| Gathering Storm | 4.00% | ~753 |
 | First Real Expedition | 3.00% | ~564 |
 | Overcoming Difficulty | 3.00% | ~564 |
 | Coral Forest | 3.00% | ~564 |
@@ -40,7 +40,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Sparkdew Crystals | 0.90% | ~169 |
 | Haunted Forest | 0.90% | ~169 |
 | Flooded Mines | 0.90% | ~169 |
-| Against All Odds | 0.80% | ~150 |
+| Against All Odds | 0.80% | ~151 |
 | Serving Ale | 0.70% | ~132 |
 | Defying the Crown | 0.70% | ~132 |
 | Into the Forest | 0.70% | ~132 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,809 (Ranked 148)  
+Progressed: 18,816 (Ranked 148)  
 Completed: 39 (0.21%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 39 (0.21%) (Ranked 268)
 | 2023-12-18 | 18,615 | 39 |
 | 2023-12-19 | 18,687 | 39 |
 | 2023-12-20 | 18,771 | 39 |
-| 2023-12-21 | 18,809 | 39 |
+| 2023-12-21 | 18,816 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 228)  
 Sum: 3,275 (Ranked 175)  

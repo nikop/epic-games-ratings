@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17232,
+  "EOS_Progressed": 17233,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 205,
+  "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -16630,6 +16630,11 @@
       "Time": "2023-12-21T12:05:59.3449817+00:00",
       "NumProgressed": 17232,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-12-21T14:05:13.4520025+00:00",
+      "NumProgressed": 17233,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 41,
@@ -16657,7 +16662,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3963
+      "UsersEstimate": 3964
     },
     {
       "ID": "tpote_achievement_12",
@@ -16697,7 +16702,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2412
+      "UsersEstimate": 2413
     },
     {
       "ID": "tpote_achievement_17",
@@ -16745,7 +16750,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 4997
+      "UsersEstimate": 4998
     },
     {
       "ID": "tpote_achievement_22",
@@ -16753,7 +16758,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3446
+      "UsersEstimate": 3447
     },
     {
       "ID": "tpote_achievement_23",
@@ -16841,7 +16846,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2412
+      "UsersEstimate": 2413
     },
     {
       "ID": "tpote_achievement_33",
@@ -16937,7 +16942,7 @@
       "Name": "Full house",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3963
+      "UsersEstimate": 3964
     },
     {
       "ID": "tpote_achievement_7",
@@ -16968,15 +16973,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17232,
+      "Progressed": 17233,
       "Completed": 119
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2023-12-21T13:09:14.3046301+00:00",
+  "LastChanged_Achievements": "2023-12-21T14:05:13.4520022+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:13.9933566+00:00",
-  "LastUpdate_Ratings": "2023-12-21T13:03:56.2847088+00:00",
-  "LastUpdate_Achievements": "2023-12-21T13:09:14.3047246+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:59:53.3727182+00:00",
+  "LastUpdate_Achievements": "2023-12-21T14:05:13.452098+00:00"
 }

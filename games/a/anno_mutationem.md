@@ -15,7 +15,7 @@ Rating: 4.54 (Ranked 533)
 | I think it's broke | 27.00% | ~214 |
 | The Ann Flores Combo Experience | 26.00% | ~206 |
 | Club Star | 25.00% | ~198 |
-| Fire in the hole! | 20.00% | ~158 |
+| Fire in the hole! | 21.00% | ~166 |
 | Omnipotence | 20.00% | ~158 |
 | The Warlord | 20.00% | ~158 |
 | You are the One | 19.00% | ~150 |

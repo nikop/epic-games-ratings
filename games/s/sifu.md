@@ -6,43 +6,43 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 3.00% | ~22,151 |
-| Life is your teacher | 3.00% | ~22,151 |
-| The Assault | 2.00% | ~14,768 |
-| The Hateful Pole Fighter | 2.00% | ~14,768 |
-| State of constant learning | 2.00% | ~14,768 |
-| Old Child | 2.00% | ~14,768 |
-| Lightning Hands | 2.00% | ~14,768 |
-| A Lady's Blood in the Snow | 1.00% | ~7,384 |
-| Lady Wing Chun | 1.00% | ~7,384 |
-| Kill Nil | 1.00% | ~7,384 |
-| Stuntmaster | 1.00% | ~7,384 |
-| Street Fighting | 1.00% | ~7,384 |
-| Qi Gong: Breath | 1.00% | ~7,384 |
-| Qi Gong: Essence | 1.00% | ~7,384 |
-| I know Kung-Fu | 1.00% | ~7,384 |
-| Path of the Prospect | 1.00% | ~7,384 |
-| Rumble in the Hangar | 1.00% | ~7,384 |
-| Diligence as a goal | 1.00% | ~477 |
-| Furious Fists | 0.90% | ~6,645 |
-| Take damage to save time | 0.90% | ~6,645 |
-| Project Arena | 0.90% | ~429 |
-| Qi Gong: Mind | 0.80% | ~5,907 |
+| The Old Grandmaster | 3.00% | ~22,155 |
+| Life is your teacher | 3.00% | ~22,155 |
+| The Assault | 2.00% | ~14,770 |
+| The Hateful Pole Fighter | 2.00% | ~14,770 |
+| State of constant learning | 2.00% | ~14,770 |
+| Old Child | 2.00% | ~14,770 |
+| Lightning Hands | 2.00% | ~14,770 |
+| A Lady's Blood in the Snow | 1.00% | ~7,385 |
+| Lady Wing Chun | 1.00% | ~7,385 |
+| Kill Nil | 1.00% | ~7,385 |
+| Stuntmaster | 1.00% | ~7,385 |
+| Street Fighting | 1.00% | ~7,385 |
+| Qi Gong: Breath | 1.00% | ~7,385 |
+| Qi Gong: Essence | 1.00% | ~7,385 |
+| I know Kung-Fu | 1.00% | ~7,385 |
+| Path of the Prospect | 1.00% | ~7,385 |
+| Rumble in the Hangar | 1.00% | ~7,385 |
+| Diligence as a goal | 1.00% | ~478 |
+| Furious Fists | 0.90% | ~6,646 |
+| Take damage to save time | 0.90% | ~6,646 |
+| Project Arena | 0.90% | ~430 |
+| Qi Gong: Mind | 0.80% | ~5,908 |
 | Scareless | 0.70% | ~5,169 |
+| Dance of the Praying Mantis | 0.70% | ~5,169 |
 | Kung-Fu Tussle | 0.70% | ~5,169 |
-| Fight the way you practice | 0.70% | ~334 |
-| Dance of the Praying Mantis | 0.60% | ~4,430 |
-| Martial Hub | 0.60% | ~286 |
-| Bloody Sport | 0.50% | ~238 |
+| Fight the way you practice | 0.70% | ~335 |
+| Martial Hub | 0.60% | ~287 |
+| Bloody Sport | 0.50% | ~239 |
 | Muk Yan Master | 0.40% | ~2,954 |
 | Tiger on Fire | 0.40% | ~2,954 |
 | Source of Flying Daggers | 0.40% | ~2,954 |
 | Detective Story | 0.40% | ~2,954 |
+| Sword Stained With Blood | 0.40% | ~2,954 |
 | Iron Money | 0.30% | ~2,215 |
 | Legendary Talismans of Wuxing | 0.30% | ~2,215 |
 | Prodigal Child | 0.30% | ~2,215 |
 | The 36th Chamber of Kung-Fu | 0.30% | ~2,215 |
-| Sword Stained With Blood | 0.30% | ~2,215 |
 | The best strikes are the ones we avoid | 0.30% | ~143 |
 | Drunken Fighter | 0.20% | ~1,477 |
 | Martial Artist | 0.20% | ~1,477 |
@@ -52,10 +52,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Pit Protector | 0.20% | ~1,477 |
 | Be like water my friend | 0.20% | ~1,477 |
 | Come Snap With Me | 0.20% | ~1,477 |
-| Deadly Venom | 0.20% | ~95 |
-| A Touch of Acumen | 0.20% | ~95 |
-| Skill and an even stronger will | 0.20% | ~95 |
-| Beatmaker | 0.20% | ~95 |
+| Deadly Venom | 0.20% | ~96 |
+| A Touch of Acumen | 0.20% | ~96 |
+| Skill and an even stronger will | 0.20% | ~96 |
+| Beatmaker | 0.20% | ~96 |
 | Healing Memory | 0.10% | ~738 |
 | Warriors from the Mountain | 0.10% | ~738 |
 | Secure, Protect, Leave | 0.10% | ~48 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~48 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 738,375 (Ranked 23)  
+Progressed: 738,489 (Ranked 23)  
 Completed: 12,958 (1.75%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 12,958 (1.75%) (Ranked 140)
 | 2023-12-18 | 734,825 | 12,956 |
 | 2023-12-19 | 736,295 | 12,958 |
 | 2023-12-20 | 737,594 | 12,958 |
-| 2023-12-21 | 738,375 | 12,958 |
+| 2023-12-21 | 738,489 | 12,958 |
 ## Awards
 Max (Great Boss Battles): 6,973  (Ranked 55)  
 Sum: 11,789 (Ranked 87)  

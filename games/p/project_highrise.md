@@ -5,23 +5,23 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | In the Black | 59.00% | ~240 |
-| Starting Skyward | 53.00% | ~215 |
+| Starting Skyward | 53.00% | ~216 |
 | Grime is Not Good | 47.00% | ~191 |
-| Floor Galore | 41.00% | ~166 |
-| Dinner Dash | 41.00% | ~166 |
-| Campaign Launch | 40.00% | ~162 |
-| Need a Consult | 37.00% | ~150 |
-| It's Technical | 37.00% | ~150 |
-| Upgrade Unlock | 36.00% | ~146 |
+| Floor Galore | 41.00% | ~167 |
+| Dinner Dash | 41.00% | ~167 |
+| Campaign Launch | 40.00% | ~163 |
+| Need a Consult | 37.00% | ~151 |
+| It's Technical | 37.00% | ~151 |
+| Upgrade Unlock | 36.00% | ~147 |
 | Delegate Maintenance | 33.00% | ~134 |
-| Proper Walls | 32.00% | ~130 |
+| Proper Walls | 31.00% | ~126 |
 | Destination Destiny | 31.00% | ~126 |
 | Happy Tenants | 26.00% | ~106 |
 | Potent Potables | 25.00% | ~102 |
 | Smooth Service | 25.00% | ~102 |
-| Your Prestige is Rising | 24.00% | ~97 |
-| Retail Revenue | 24.00% | ~97 |
-| Don't Feel a Loan | 23.00% | ~93 |
+| Your Prestige is Rising | 24.00% | ~98 |
+| Retail Revenue | 24.00% | ~98 |
+| Don't Feel a Loan | 23.00% | ~94 |
 | People Mover | 21.00% | ~85 |
 | Artfully Done | 20.00% | ~81 |
 | Emporium Empire | 20.00% | ~81 |
@@ -33,8 +33,8 @@
 | Tasty Profits | 18.00% | ~73 |
 | Established Fame | 17.00% | ~69 |
 | Under One Roof | 16.00% | ~65 |
-| Cashflow Chief | 16.00% | ~65 |
 | Starred Dining | 15.00% | ~61 |
+| Cashflow Chief | 15.00% | ~61 |
 | Smooth Operator | 13.00% | ~53 |
 | Boutique Benefits | 13.00% | ~53 |
 | Thrilled Tenants | 13.00% | ~53 |
@@ -45,8 +45,8 @@
 | Plaza Plan | 9.00% | ~37 |
 | Master of Puppets | 9.00% | ~37 |
 | Refined Palates | 9.00% | ~37 |
-| First 100 Days | 8.00% | ~32 |
-| Phoning It In | 8.00% | ~32 |
+| First 100 Days | 8.00% | ~33 |
+| Phoning It In | 8.00% | ~33 |
 | Water Features | 7.00% | ~28 |
 | Revenue Royalty | 7.00% | ~28 |
 | Golden Opportunity | 7.00% | ~28 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 406 (Ranked 343)  
+Progressed: 407 (Ranked 343)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 398 | 0 |
 | 2023-12-19 | 402 | 0 |
 | 2023-12-20 | 404 | 0 |
-| 2023-12-21 | 406 | 0 |
+| 2023-12-21 | 407 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

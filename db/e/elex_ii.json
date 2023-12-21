@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 547,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
     "PcReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -803,9 +803,9 @@
       "ID": "30FUEL",
       "SetID": "a1angca",
       "Name": "Long-Haul Flyer",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "30POTIONS",
@@ -867,9 +867,9 @@
       "ID": "ALLJETPACK",
       "SetID": "a1angca",
       "Name": "Free as a Bird",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ALLPERSONALITY",
@@ -1003,9 +1003,9 @@
       "ID": "FINDCRONY",
       "SetID": "a1angca",
       "Name": "Best Buddy",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FINDMAP",
@@ -1123,8 +1123,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-11-15T13:09:21.2815291+00:00",
-  "LastChanged_Achievements": "2023-12-21T13:08:42.1920429+00:00",
+  "LastChanged_Achievements": "2023-12-21T14:04:37.9046403+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:52.2543669+00:00",
-  "LastUpdate_Ratings": "2023-12-21T13:01:42.650994+00:00",
-  "LastUpdate_Achievements": "2023-12-21T13:08:42.192073+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:57:23.5011543+00:00",
+  "LastUpdate_Achievements": "2023-12-21T14:04:37.9046699+00:00"
 }

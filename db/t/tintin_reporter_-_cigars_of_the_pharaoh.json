@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 468,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 380,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
     "PcReleaseDate": "2023-11-07T09:00:00+00:00",
@@ -730,9 +730,9 @@
       "ID": "Achievement5",
       "SetID": "9fa3l5n",
       "Name": "The Weighing of the Soul",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Achievement6",
@@ -777,8 +777,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2023-12-21T13:08:03.4085476+00:00",
+  "LastChanged_Achievements": "2023-12-21T14:03:54.4987884+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:55.8592774+00:00",
-  "LastUpdate_Ratings": "2023-12-21T13:02:08.1020678+00:00",
-  "LastUpdate_Achievements": "2023-12-21T13:08:03.4085751+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:57:52.0287234+00:00",
+  "LastUpdate_Achievements": "2023-12-21T14:03:54.4988102+00:00"
 }

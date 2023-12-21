@@ -5,8 +5,8 @@ Rating: 4.29 (Ranked 858)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| We made it | 41.00% | ~508 |
-| The City | 11.00% | ~136 |
+| We made it | 41.00% | ~509 |
+| The City | 11.00% | ~137 |
 | Manipulating Fate | 10.00% | ~124 |
 | Full house | 7.00% | ~87 |
 | Burn and Pillage | 7.00% | ~87 |
@@ -35,12 +35,12 @@ Rating: 4.29 (Ranked 858)
 | Knowledge is Power | 0.60% | ~7 |
 | Six Faces | 0.50% | ~6 |
 | It's spreading | 0.30% | ~4 |
+| The Flail | 0.30% | ~4 |
 | The Incarnate | 0.30% | ~4 |
 | Ice and Fire | 0.20% | ~2 |
 | Mad Engineers | 0.20% | ~2 |
 | Aesthetics | 0.20% | ~2 |
 | The experiment | 0.20% | ~2 |
-| The Flail | 0.20% | ~2 |
 | The Corrupted | 0.20% | ~2 |
 | The Foul | 0.20% | ~2 |
 | Break the chains | 0.00% | ~0 |
@@ -51,7 +51,7 @@ Rating: 4.29 (Ranked 858)
 | Fate is against us | 0.00% | ~0 |
 | Despite everything | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,240 (Ranked 264)  
+Progressed: 1,241 (Ranked 264)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 1,227 | 0 |
 | 2023-12-19 | 1,230 | 0 |
 | 2023-12-20 | 1,238 | 0 |
-| 2023-12-21 | 1,240 | 0 |
+| 2023-12-21 | 1,241 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

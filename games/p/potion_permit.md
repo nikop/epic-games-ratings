@@ -5,29 +5,29 @@ Rating: 3.83 (Ranked 1,046)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,710 |
-| The First Step | 88.00% | ~1,536 |
-| Moonbury Traveller | 63.00% | ~1,099 |
-| Rookie Chemist | 61.00% | ~1,064 |
-| Great Doctor | 51.00% | ~890 |
-| Dog Whisperer | 49.00% | ~855 |
-| Friendly | 47.00% | ~820 |
-| The Capitalist | 44.00% | ~768 |
-| K.O.! | 43.00% | ~750 |
-| Intermediate Chemist | 40.00% | ~698 |
-| Decorative Mind | 32.00% | ~558 |
-| Lumber Specialist | 32.00% | ~558 |
-| Kind-hearted | 25.00% | ~436 |
-| Catch of the Day | 25.00% | ~436 |
+| Welcome to Moonbury | 98.00% | ~1,712 |
+| The First Step | 88.00% | ~1,537 |
+| Moonbury Traveller | 63.00% | ~1,101 |
+| Rookie Chemist | 61.00% | ~1,066 |
+| Great Doctor | 51.00% | ~891 |
+| Dog Whisperer | 49.00% | ~856 |
+| Friendly | 47.00% | ~821 |
+| The Capitalist | 44.00% | ~769 |
+| K.O.! | 43.00% | ~751 |
+| Intermediate Chemist | 40.00% | ~699 |
+| Decorative Mind | 32.00% | ~559 |
+| Lumber Specialist | 32.00% | ~559 |
+| Kind-hearted | 25.00% | ~437 |
+| Catch of the Day | 25.00% | ~437 |
 | Amateur Chef | 22.00% | ~384 |
-| Fishing Guru | 21.00% | ~366 |
+| Fishing Guru | 21.00% | ~367 |
 | Spark of Love | 18.00% | ~314 |
 | Community Helper | 17.00% | ~297 |
-| Expert Chemist | 14.00% | ~244 |
-| Stone Specialist | 14.00% | ~244 |
+| Expert Chemist | 15.00% | ~262 |
+| Stone Specialist | 14.00% | ~245 |
 | Sociable | 13.00% | ~227 |
 | Ablutomaniac | 13.00% | ~227 |
-| Line Cook | 12.00% | ~209 |
+| Line Cook | 12.00% | ~210 |
 | Good Samaritan | 11.00% | ~192 |
 | Production Sorter | 11.00% | ~192 |
 | Acrobatic Adventurer | 9.00% | ~157 |
@@ -44,7 +44,7 @@ Rating: 3.83 (Ranked 1,046)
 | Moonbury Navigator | 1.00% | ~17 |
 | Being a donut... | 0.70% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,745 (Ranked 241)  
+Progressed: 1,747 (Ranked 241)  
 Completed: 10 (0.57%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 10 (0.57%) (Ranked 201)
 | 2023-12-18 | 1,732 | 10 |
 | 2023-12-19 | 1,736 | 10 |
 | 2023-12-20 | 1,743 | 10 |
-| 2023-12-21 | 1,745 | 10 |
+| 2023-12-21 | 1,747 | 10 |
 ## Awards
 Max (Character Customization): 69  (Ranked 414)  
 Sum: 69 (Ranked 481)  

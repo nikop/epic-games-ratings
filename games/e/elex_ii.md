@@ -7,7 +7,10 @@ Number of Ratings: 124  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Peddler | 2.00% | ~1 |
+| Long-Haul Flyer | 2.00% | ~1 |
+| Free as a Bird | 2.00% | ~1 |
 | Civilian | 2.00% | ~1 |
+| Best Buddy | 2.00% | ~1 |
 | Pack Rat | 0.00% | ~0 |
 | Banker | 0.00% | ~0 |
 | Entrepreneur | 0.00% | ~0 |
@@ -18,7 +21,6 @@ Number of Ratings: 124  (23.09.2022)
 | Beam Me Up | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 | Socializer | 0.00% | ~0 |
-| Long-Haul Flyer | 0.00% | ~0 |
 | Alchemist | 0.00% | ~0 |
 | Computer Scientist | 0.00% | ~0 |
 | Globetrotter | 0.00% | ~0 |
@@ -26,7 +28,6 @@ Number of Ratings: 124  (23.09.2022)
 | Military Leader | 0.00% | ~0 |
 | Hotshot | 0.00% | ~0 |
 | Self-Sufficient | 0.00% | ~0 |
-| Free as a Bird | 0.00% | ~0 |
 | Idealist | 0.00% | ~0 |
 | Unbreakable | 0.00% | ~0 |
 | Role Model | 0.00% | ~0 |
@@ -42,7 +43,6 @@ Number of Ratings: 124  (23.09.2022)
 | Perfectionist | 0.00% | ~0 |
 | Commander | 0.00% | ~0 |
 | Festival-goer | 0.00% | ~0 |
-| Best Buddy | 0.00% | ~0 |
 | Legendary | 0.00% | ~0 |
 | Family Reunion | 0.00% | ~0 |
 | Irissa's Fate | 0.00% | ~0 |

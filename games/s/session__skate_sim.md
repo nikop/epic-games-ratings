@@ -7,7 +7,7 @@ Number of Ratings: 111  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You're free now! | 61.00% | ~2,014 |
-| Keeping it classy | 28.00% | ~924 |
+| Keeping it classy | 28.00% | ~925 |
 | Welcome to the family | 22.00% | ~726 |
 | The finer things in life | 20.00% | ~660 |
 | Backpacker | 14.00% | ~462 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,301 (Ranked 217)  
+Progressed: 3,302 (Ranked 217)  
 Completed: 2 (0.06%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,15 +275,15 @@ Completed: 2 (0.06%) (Ranked 325)
 | 2023-12-18 | 3,263 | 2 |
 | 2023-12-19 | 3,283 | 2 |
 | 2023-12-20 | 3,294 | 2 |
-| 2023-12-21 | 3,301 | 2 |
+| 2023-12-21 | 3,302 | 2 |
 ## Awards
-Max (Great for Quick Sessions): 59  (Ranked 422)  
-Sum: 568 (Ranked 323)  
+Max (Great for Quick Sessions): 60  (Ranked 422)  
+Sum: 569 (Ranked 323)  
 Diff (max vs sum): 99  
 | Award | Count |
 | ----- | ----- |
+| This game is Great for Quick Sessions | 60 |
 | This game is Highly Recommended | 59 |
-| This game is Great for Quick Sessions | 59 |
 | This game has Diverse Characters | 54 |
 | This game has Realistic Visuals | 50 |
 | This game has a Creative Community | 49 |
@@ -483,3 +483,4 @@ Diff (max vs sum): 99
 | 2023-12-16 | 4.69 | - | 59 | 566 |
 | 2023-12-17 | 4.69 | - | 59 | 567 |
 | 2023-12-19 | 4.69 | - | 59 | 568 |
+| 2023-12-21 | 4.69 | - | 60 | 569 |

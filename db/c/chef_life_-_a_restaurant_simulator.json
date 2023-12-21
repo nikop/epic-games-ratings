@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 826,
+  "EOS_Progressed": 827,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3582,6 +3582,11 @@
       "Time": "2023-12-21T12:10:12.5856989+00:00",
       "NumProgressed": 826,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T14:09:17.1280622+00:00",
+      "NumProgressed": 827,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -3649,7 +3654,7 @@
       "Name": "So Clean You Can Eat Off the Floor",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "Clothes10",
@@ -3769,7 +3774,7 @@
       "Name": "The Big Day",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "Packing20",
@@ -3793,7 +3798,7 @@
       "Name": "Home Cook",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "RecipeDifferent30",
@@ -3912,7 +3917,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 826,
+      "Progressed": 827,
       "Completed": 0
     }
   ],
@@ -3920,8 +3925,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-12-21T13:13:24.9624029+00:00",
+  "LastChanged_Achievements": "2023-12-21T14:09:17.1280616+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:31.9021331+00:00",
-  "LastUpdate_Ratings": "2023-12-21T13:03:16.8703704+00:00",
-  "LastUpdate_Achievements": "2023-12-21T13:13:24.9624488+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:59:08.8083091+00:00",
+  "LastUpdate_Achievements": "2023-12-21T14:09:17.1281034+00:00"
 }

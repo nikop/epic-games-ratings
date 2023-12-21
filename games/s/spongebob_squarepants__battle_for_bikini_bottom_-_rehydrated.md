@@ -7,6 +7,8 @@ Number of Ratings: 76  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Are you ready now? | 0.70% | ~1 |
+| Sweet Victory | 0.70% | ~1 |
+| Time For Tutorial | 0.70% | ~1 |
 | Robot encyclopedia | 0.00% | ~0 |
 | The Small Does Not Rule | 0.00% | ~0 |
 | 100% SpongeBob | 0.00% | ~0 |
@@ -21,7 +23,6 @@ Number of Ratings: 76  (23.09.2022)
 | Keep it Rolling | 0.00% | ~0 |
 | Shrimp Catcher | 0.00% | ~0 |
 | Toxic Terror | 0.00% | ~0 |
-| Sweet Victory | 0.00% | ~0 |
 | SpongeBob vs SpongeBob! | 0.00% | ~0 |
 | Hit Rock Bottom | 0.00% | ~0 |
 | Sleepy Time | 0.00% | ~0 |
@@ -37,9 +38,8 @@ Number of Ratings: 76  (23.09.2022)
 | Squirrel Smasher | 0.00% | ~0 |
 | Star Smasher | 0.00% | ~0 |
 | Surf's Up! | 0.00% | ~0 |
-| Time For Tutorial | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 149 (Ranked 424)  
+Progressed: 151 (Ranked 423)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -47,7 +47,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 34 | 0 |
 | 2023-12-19 | 88 | 0 |
 | 2023-12-20 | 127 | 0 |
-| 2023-12-21 | 149 | 0 |
+| 2023-12-21 | 151 | 0 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 492)  
 Sum: 34 (Ranked 516)  

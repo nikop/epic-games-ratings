@@ -5,28 +5,28 @@ Rating: 4.20 (Ranked 933)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 14.00% | ~2,572 |
-| Get a Grip | 14.00% | ~2,572 |
-| The Outer Way | 14.00% | ~2,572 |
-| Paper Jams | 13.00% | ~2,388 |
-| Desperate Times | 13.00% | ~2,388 |
-| Chew 'Em Up | 11.00% | ~2,020 |
-| Float Like A Butterfly | 11.00% | ~2,020 |
-| Reforged | 10.00% | ~1,837 |
-| Workplace Hazard | 9.00% | ~1,653 |
-| If the SHU Fits... | 9.00% | ~1,653 |
-| Without A Paddle | 8.00% | ~1,469 |
-| Two Heads Are Better Than One | 7.00% | ~1,286 |
-| In the Pipe, Five by Five | 7.00% | ~1,286 |
-| Crash Site | 7.00% | ~1,286 |
-| You Need a Gun | 6.00% | ~1,102 |
-| Terminated | 6.00% | ~1,102 |
-| What Lies Beneath | 6.00% | ~1,102 |
-| Full Circle | 6.00% | ~1,102 |
-| Power Up | 6.00% | ~1,102 |
+| Flesh Wound | 14.00% | ~2,573 |
+| Get a Grip | 14.00% | ~2,573 |
+| The Outer Way | 14.00% | ~2,573 |
+| Paper Jams | 13.00% | ~2,389 |
+| Desperate Times | 13.00% | ~2,389 |
+| Chew 'Em Up | 11.00% | ~2,022 |
+| Float Like A Butterfly | 11.00% | ~2,022 |
+| Reforged | 10.00% | ~1,838 |
+| Workplace Hazard | 9.00% | ~1,654 |
+| If the SHU Fits... | 9.00% | ~1,654 |
+| Without A Paddle | 8.00% | ~1,470 |
+| Two Heads Are Better Than One | 7.00% | ~1,287 |
+| In the Pipe, Five by Five | 7.00% | ~1,287 |
+| Crash Site | 7.00% | ~1,287 |
+| You Need a Gun | 6.00% | ~1,103 |
+| Terminated | 6.00% | ~1,103 |
+| What Lies Beneath | 6.00% | ~1,103 |
+| Full Circle | 6.00% | ~1,103 |
+| Power Up | 6.00% | ~1,103 |
 | Keep Fighting | 6.00% | ~378 |
-| Giving Back | 5.00% | ~918 |
-| I Do Belong Here | 5.00% | ~918 |
+| Giving Back | 5.00% | ~919 |
+| I Do Belong Here | 5.00% | ~919 |
 | It's Time | 4.00% | ~252 |
 | In Striking Distance | 3.00% | ~551 |
 | The Commonality | 3.00% | ~551 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 933)
 | Bear Trap | 0.10% | ~6 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,368 (Ranked 149)  
+Progressed: 18,380 (Ranked 149)  
 Completed: 82 (0.45%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 82 (0.45%) (Ranked 224)
 | 2023-12-18 | 17,946 | 82 |
 | 2023-12-19 | 18,137 | 82 |
 | 2023-12-20 | 18,301 | 82 |
-| 2023-12-21 | 18,368 | 82 |
+| 2023-12-21 | 18,380 | 82 |
 ## Awards
 Max (Amazing Characters): 91  (Ranked 386)  
 Sum: 539 (Ranked 326)  

@@ -4,8 +4,8 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 55,
-  "Ranking_EOS_NewPlayers": 368,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -4245,9 +4245,9 @@
       "ID": "LEVEL_005",
       "SetID": "212bg48",
       "Name": "Small village",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 737
+      "UsersEstimate": 754
     },
     {
       "ID": "LEVEL_006",
@@ -4460,8 +4460,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-12-21T13:13:54.6172889+00:00",
+  "LastChanged_Achievements": "2023-12-21T14:09:49.3512721+00:00",
   "LastUpdate_AppInfo": "2023-12-19T04:57:12.5235617+00:00",
-  "LastUpdate_Ratings": "2023-12-21T13:04:37.2673672+00:00",
-  "LastUpdate_Achievements": "2023-12-21T13:13:54.6173262+00:00"
+  "LastUpdate_Ratings": "2023-12-21T14:00:38.9308452+00:00",
+  "LastUpdate_Achievements": "2023-12-21T14:09:49.3513018+00:00"
 }

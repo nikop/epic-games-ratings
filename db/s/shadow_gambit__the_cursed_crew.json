@@ -5,10 +5,10 @@
   "Ranking_Rating": 85,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
-  "Ranking_EOS_Progress": 266,
+  "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 121,
   "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -149,9 +149,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1235,
+  "EOS_Progressed": 1236,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.67,
   "EosHistory": [
@@ -4184,6 +4184,11 @@
       "Time": "2023-12-21T13:08:49.7588436+00:00",
       "NumProgressed": 1235,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-12-21T14:04:45.9352728+00:00",
+      "NumProgressed": 1236,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4204,7 +4209,7 @@
       "Name": "A New Journey",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "_03_FinishAct1",
@@ -4212,7 +4217,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -4228,7 +4233,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -4316,7 +4321,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -4332,7 +4337,7 @@
       "Name": "Fully Decked",
       "Percentage": 7,
       "XP": 125,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "_19_CrewTale_BSP",
@@ -4403,7 +4408,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1235,
+      "Progressed": 1236,
       "Completed": 33
     }
   ],
@@ -4411,8 +4416,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-13T23:58:37.390497+00:00",
-  "LastChanged_Achievements": "2023-12-21T13:08:49.7588433+00:00",
+  "LastChanged_Achievements": "2023-12-21T14:04:45.9352723+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:17.2609478+00:00",
-  "LastUpdate_Ratings": "2023-12-21T13:02:43.2959638+00:00",
-  "LastUpdate_Achievements": "2023-12-21T13:08:49.758875+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:58:30.8106553+00:00",
+  "LastUpdate_Achievements": "2023-12-21T14:04:45.9353+00:00"
 }

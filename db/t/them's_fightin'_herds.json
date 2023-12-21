@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -325,7 +325,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 233916,
+  "EOS_Progressed": 233918,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 366,
   "EOS_NewCompleters": 1,
@@ -25150,6 +25150,11 @@
       "Time": "2023-12-21T13:13:11.2045224+00:00",
       "NumProgressed": 233916,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-21T14:09:02.6455595+00:00",
+      "NumProgressed": 233918,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 28,
@@ -25305,7 +25310,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 79531
+      "UsersEstimate": 79532
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -25329,7 +25334,7 @@
       "Name": "Tenderhoof",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 7017
+      "UsersEstimate": 7018
     },
     {
       "ID": "STOMP_PAPRIKA_INTO_ORBIT",
@@ -25384,7 +25389,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 233916,
+      "Progressed": 233918,
       "Completed": 6
     }
   ],
@@ -25392,8 +25397,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-12-17T08:58:28.3947518+00:00",
-  "LastChanged_Achievements": "2023-12-21T13:13:11.2045221+00:00",
+  "LastChanged_Achievements": "2023-12-21T14:09:02.6455592+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:20.0893293+00:00",
-  "LastUpdate_Ratings": "2023-12-21T13:04:20.2555297+00:00",
-  "LastUpdate_Achievements": "2023-12-21T13:13:11.2046253+00:00"
+  "LastUpdate_Ratings": "2023-12-21T14:00:20.6355508+00:00",
+  "LastUpdate_Achievements": "2023-12-21T14:09:02.6457266+00:00"
 }

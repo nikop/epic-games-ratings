@@ -6,7 +6,7 @@ Rating: 4.54 (Ranked 533)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 14.00% | ~2,378 |
-| Captain Drummer | 10.00% | ~1,698 |
+| Captain Drummer | 10.00% | ~1,699 |
 | The Pit and the Pirates | 9.00% | ~1,529 |
 | Martian Music | 9.00% | ~1,529 |
 | Drone Dodger | 9.00% | ~1,529 |
@@ -21,13 +21,13 @@ Rating: 4.54 (Ranked 533)
 | Madame Undersecretary | 7.00% | ~206 |
 | Drug Gifter | 6.00% | ~1,019 |
 | Heal Thy Medic | 6.00% | ~1,019 |
-| Keep Arjun in Check | 6.00% | ~176 |
+| Keep Arjun in Check | 6.00% | ~177 |
 | Data Archivist | 5.00% | ~849 |
 | Thorston Mayer | 5.00% | ~849 |
 | Khan's Revenge | 5.00% | ~849 |
 | Master Negotiator | 5.00% | ~147 |
-| Doctor Approved | 4.00% | ~679 |
-| Bottoms up! | 4.00% | ~679 |
+| Doctor Approved | 4.00% | ~680 |
+| Bottoms up! | 4.00% | ~680 |
 | Data Logger | 3.00% | ~510 |
 | Miraculous Maya | 3.00% | ~510 |
 | No Belter Left Behind | 2.00% | ~340 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 533)
 | Scavenger Star | 0.20% | ~34 |
 | Data Collector | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,984 (Ranked 154)  
+Progressed: 16,988 (Ranked 154)  
 Completed: 46 (0.27%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 46 (0.27%) (Ranked 254)
 | 2023-12-18 | 16,797 | 44 |
 | 2023-12-19 | 16,865 | 45 |
 | 2023-12-20 | 16,946 | 46 |
-| 2023-12-21 | 16,984 | 46 |
+| 2023-12-21 | 16,988 | 46 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,20 +5,20 @@ Rating: 4.16 (Ranked 957)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~8,347 |
-| Disposing of the Evidence | 38.00% | ~3,822 |
-| Without a Scratch | 34.00% | ~3,419 |
-| Wreckless Driving | 28.00% | ~2,816 |
-| A Marked Man | 25.00% | ~2,514 |
-| Street Sweeper | 18.00% | ~1,810 |
-| Liberty City Minute | 17.00% | ~1,710 |
-| Offshore Delivery | 13.00% | ~1,307 |
-| Dirty Money | 12.00% | ~1,207 |
-| By a Mile | 10.00% | ~1,006 |
-| Not So Fast | 10.00% | ~1,006 |
-| Right-hand Man | 10.00% | ~1,006 |
-| A Gift from the King | 7.00% | ~704 |
-| Full Artillery | 4.00% | ~402 |
+| First Day on the Job | 83.00% | ~8,356 |
+| Disposing of the Evidence | 38.00% | ~3,825 |
+| Without a Scratch | 34.00% | ~3,423 |
+| Wreckless Driving | 28.00% | ~2,819 |
+| A Marked Man | 25.00% | ~2,517 |
+| Street Sweeper | 18.00% | ~1,812 |
+| Liberty City Minute | 17.00% | ~1,711 |
+| Offshore Delivery | 13.00% | ~1,309 |
+| Dirty Money | 12.00% | ~1,208 |
+| By a Mile | 10.00% | ~1,007 |
+| Not So Fast | 10.00% | ~1,007 |
+| Right-hand Man | 10.00% | ~1,007 |
+| A Gift from the King | 7.00% | ~705 |
+| Full Artillery | 4.00% | ~403 |
 | Mob Boss | 3.00% | ~302 |
 | Escape Artist | 2.00% | ~201 |
 | Where To? | 2.00% | ~201 |
@@ -35,8 +35,8 @@ Rating: 4.16 (Ranked 957)
 | Is That All You've Got? | 0.90% | ~91 |
 | King of Liberty City | 0.60% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,057 (Ranked 173)  
-Completed: 63 (0.63%) (Ranked 196)  
+Progressed: 10,067 (Ranked 173)  
+Completed: 64 (0.64%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -280,7 +280,7 @@ Completed: 63 (0.63%) (Ranked 196)
 | 2023-12-18 | 9,752 | 61 |
 | 2023-12-19 | 9,880 | 62 |
 | 2023-12-20 | 9,997 | 63 |
-| 2023-12-21 | 10,057 | 63 |
+| 2023-12-21 | 10,067 | 64 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

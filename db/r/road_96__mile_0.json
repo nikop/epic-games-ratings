@@ -4,8 +4,8 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 260,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 523,
+  "EOS_Progressed": 526,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1837,6 +1837,11 @@
       "Time": "2023-12-21T13:13:54.0590778+00:00",
       "NumProgressed": 523,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-21T14:09:48.9313763+00:00",
+      "NumProgressed": 526,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -1848,7 +1853,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 50,
       "XP": 60,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "completeact2",
@@ -1856,7 +1861,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 42,
       "XP": 80,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "completeact3",
@@ -1864,7 +1869,7 @@
       "Name": "On the Road",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 214
+      "UsersEstimate": 216
     },
     {
       "ID": "findalltapes",
@@ -1888,7 +1893,7 @@
       "Name": "Truthseeker",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "scoreminrankrb2",
@@ -1920,7 +1925,7 @@
       "Name": "Souvenirs",
       "Percentage": 28,
       "XP": 40,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "scoreminrankrp1",
@@ -1936,23 +1941,23 @@
       "Name": "Attack on Tyran",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "scoreminrankrp3",
       "SetID": "40n95i5",
       "Name": "The Eye of the Storm",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 32
     },
     {
       "ID": "scoreminrankrv1",
       "SetID": "40n95i5",
       "Name": "Welcome to the Garage",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 99
+      "UsersEstimate": 95
     },
     {
       "ID": "scoreminrankrv2",
@@ -1967,7 +1972,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 523,
+      "Progressed": 526,
       "Completed": 2
     }
   ],
@@ -1975,8 +1980,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-12-21T13:13:54.0590775+00:00",
+  "LastChanged_Achievements": "2023-12-21T14:09:48.931376+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:48.6488501+00:00",
-  "LastUpdate_Ratings": "2023-12-21T13:06:57.6202615+00:00",
-  "LastUpdate_Achievements": "2023-12-21T13:13:54.0591025+00:00"
+  "LastUpdate_Ratings": "2023-12-21T14:02:40.3674353+00:00",
+  "LastUpdate_Achievements": "2023-12-21T14:09:48.9313924+00:00"
 }

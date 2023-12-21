@@ -4,8 +4,8 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 739,
+  "EOS_Progressed": 740,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 318,
+  "EOS_NewPlayers": 316,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.08,
   "EosHistory": [
@@ -2578,6 +2578,11 @@
       "Time": "2023-12-21T13:13:05.8397137+00:00",
       "NumProgressed": 739,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-21T14:08:56.8838922+00:00",
+      "NumProgressed": 740,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -2590,7 +2595,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "achievement_10",
@@ -2606,7 +2611,7 @@
       "Name": "Karakuri Isle",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "achievement_12",
@@ -2614,7 +2619,7 @@
       "Name": "Canyon of Karakuri",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "achievement_13",
@@ -2638,7 +2643,7 @@
       "Name": "Memory Rouser",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "achievement_16",
@@ -2654,7 +2659,7 @@
       "Name": "Master of the Skies",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "achievement_18",
@@ -2782,7 +2787,7 @@
       "Name": "Snare Specialist",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "achievement_32",
@@ -2854,7 +2859,7 @@
       "Name": "Axer of Auspice",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "achievement_40",
@@ -2894,7 +2899,7 @@
       "Name": "Artful Assister",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "achievement_45",
@@ -2910,7 +2915,7 @@
       "Name": "Charmed by the Hunt",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "achievement_47",
@@ -2942,7 +2947,7 @@
       "Name": "Commencing of Quests",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "achievement_7",
@@ -2973,13 +2978,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 739,
+      "Progressed": 740,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-21T13:13:05.8397133+00:00",
+  "LastChanged_Achievements": "2023-12-21T14:08:56.883892+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:11.6761115+00:00",
-  "LastUpdate_Ratings": "2023-12-21T13:01:41.1053316+00:00",
-  "LastUpdate_Achievements": "2023-12-21T13:13:05.8397604+00:00"
+  "LastUpdate_Ratings": "2023-12-21T13:57:21.411486+00:00",
+  "LastUpdate_Achievements": "2023-12-21T14:08:56.8839577+00:00"
 }
