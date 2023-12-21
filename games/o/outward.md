@@ -6,13 +6,13 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 74.00% | ~3,013 |
-| Ready for Winter | 63.00% | ~2,565 |
-| Ready for Summer | 50.00% | ~2,036 |
-| Cordon Bleu | 43.00% | ~1,751 |
-| Tapped! | 36.00% | ~1,466 |
-| Eureka | 31.00% | ~1,262 |
-| Scourge Slayer | 25.00% | ~1,018 |
+| Venture Outward | 74.00% | ~3,016 |
+| Ready for Winter | 63.00% | ~2,567 |
+| Ready for Summer | 50.00% | ~2,038 |
+| Cordon Bleu | 42.00% | ~1,712 |
+| Tapped! | 36.00% | ~1,467 |
+| Eureka | 31.00% | ~1,263 |
+| Scourge Slayer | 25.00% | ~1,019 |
 | Science, Troglodyte! | 23.00% | ~937 |
 | Exceptional Skill | 22.00% | ~896 |
 | Home Sweet Home | 22.00% | ~896 |
@@ -22,7 +22,7 @@ Number of Ratings: 266  (23.09.2022)
 | Apex Predator | 15.00% | ~611 |
 | Strange amalgams | 12.00% | ~489 |
 | The Power of Faith | 12.00% | ~489 |
-| The Power of Freedom | 9.00% | ~366 |
+| The Power of Freedom | 9.00% | ~367 |
 | Ace Detective | 8.00% | ~326 |
 | Gift from the Ancestors | 8.00% | ~326 |
 | Magic is a science | 8.00% | ~326 |
@@ -37,10 +37,10 @@ Number of Ratings: 266  (23.09.2022)
 | Memory of a legend | 4.00% | ~163 |
 | Light of Levant | 3.00% | ~122 |
 | This was a mistake... | 3.00% | ~122 |
-| Crowd Pleaser. | 2.00% | ~81 |
-| Perfect Defense | 2.00% | ~81 |
-| Power! To! The People! | 2.00% | ~81 |
-| Your actions define you | 2.00% | ~81 |
+| Crowd Pleaser. | 2.00% | ~82 |
+| Perfect Defense | 2.00% | ~82 |
+| Power! To! The People! | 2.00% | ~82 |
+| Your actions define you | 2.00% | ~82 |
 | The blood is life | 1.00% | ~41 |
 | They'll Tell Stories About This | 1.00% | ~41 |
 | Vanquisher of nightmares | 1.00% | ~41 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~12 |
 | The Absolute Pinnacle. | 0.30% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,072 (Ranked 205)  
+Progressed: 4,075 (Ranked 205)  
 Completed: 5 (0.12%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 5 (0.12%) (Ranked 295)
 | 2023-12-18 | 4,009 | 5 |
 | 2023-12-19 | 4,030 | 5 |
 | 2023-12-20 | 4,056 | 5 |
-| 2023-12-21 | 4,072 | 5 |
+| 2023-12-21 | 4,075 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 487)  
 Sum: 246 (Ranked 393)  

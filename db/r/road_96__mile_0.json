@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 521,
+  "EOS_Progressed": 522,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1827,6 +1827,11 @@
       "Time": "2023-12-21T02:30:57.4991879+00:00",
       "NumProgressed": 521,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-21T12:10:50.6953392+00:00",
+      "NumProgressed": 522,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -1838,7 +1843,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 50,
       "XP": 60,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "completeact2",
@@ -1878,7 +1883,7 @@
       "Name": "Truthseeker",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "scoreminrankrb2",
@@ -1918,7 +1923,7 @@
       "Name": "This is Not Heavy Metal!",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "scoreminrankrp2",
@@ -1934,7 +1939,7 @@
       "Name": "The Eye of the Storm",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "scoreminrankrv1",
@@ -1957,7 +1962,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 521,
+      "Progressed": 522,
       "Completed": 2
     }
   ],
@@ -1965,8 +1970,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-12-21T11:09:49.5353463+00:00",
+  "LastChanged_Achievements": "2023-12-21T12:10:50.695339+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:48.6488501+00:00",
-  "LastUpdate_Ratings": "2023-12-21T11:02:38.093495+00:00",
-  "LastUpdate_Achievements": "2023-12-21T11:09:49.5353675+00:00"
+  "LastUpdate_Ratings": "2023-12-21T12:02:59.5971217+00:00",
+  "LastUpdate_Achievements": "2023-12-21T12:10:50.695357+00:00"
 }

@@ -17,7 +17,7 @@
 | Unhelpful | 13.00% | ~36 |
 | The Marriage Is Off | 12.00% | ~33 |
 | Pearce | 12.00% | ~33 |
-| Use Your Connections | 11.00% | ~30 |
+| Use Your Connections | 12.00% | ~33 |
 | Horrific | 7.00% | ~19 |
 | Hopeful | 6.00% | ~17 |
 | Shady Truth | 6.00% | ~17 |

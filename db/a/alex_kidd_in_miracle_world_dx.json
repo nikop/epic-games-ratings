@@ -2,9 +2,9 @@
   "ID": "de876d33cd8742ab90988913097c4ade",
   "Name": "Alex Kidd in Miracle World DX",
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
-  "Ranking_EOS_Progress": 352,
+  "Ranking_EOS_Progress": 351,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 369,
+  "EOS_Progressed": 371,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.08,
   "EosHistory": [
@@ -699,6 +699,11 @@
       "Time": "2023-12-21T07:04:43.0589026+00:00",
       "NumProgressed": 369,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-21T12:04:45.5808174+00:00",
+      "NumProgressed": 371,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -750,7 +755,7 @@
       "Name": "Prisoner",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "GOOSEKA_DEFEATED",
@@ -758,7 +763,7 @@
       "Name": "First Commander",
       "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "GRIZZLY_DEFEATED",
@@ -766,7 +771,7 @@
       "Name": "Assailants",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "JANKEN_DEFEATED",
@@ -806,7 +811,7 @@
       "Name": "Wild Ox",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "PARPLIN_DEFEATED",
@@ -814,7 +819,7 @@
       "Name": "Third Commander",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "PET_DOG",
@@ -830,14 +835,14 @@
       "Name": "Magic Ball",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     }
   ],
   "AchievementSets": [
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 369,
+      "Progressed": 371,
       "Completed": 4
     }
   ],
@@ -845,8 +850,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-12-21T11:03:54.7391424+00:00",
+  "LastChanged_Achievements": "2023-12-21T12:04:45.5808163+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:47.260114+00:00",
-  "LastUpdate_Ratings": "2023-12-21T10:57:15.5614983+00:00",
-  "LastUpdate_Achievements": "2023-12-21T11:03:54.7391538+00:00"
+  "LastUpdate_Ratings": "2023-12-21T11:57:41.9246789+00:00",
+  "LastUpdate_Achievements": "2023-12-21T12:04:45.5808276+00:00"
 }

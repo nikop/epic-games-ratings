@@ -5,27 +5,27 @@ Rating: 4.69 (Ranked 231)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 32.00% | ~216,302 |
-| 50 HEADSHOTS | 30.00% | ~202,783 |
-| SCIENCE AND INDUSTRY | 28.00% | ~189,264 |
-| FINISHED CHAPTER 1 | 27.00% | ~182,505 |
-| FINISHED CHAPTER 2 | 20.00% | ~135,189 |
-| 200 HEADSHOTS | 18.00% | ~121,670 |
-| FINISHED CHAPTER 3 | 17.00% | ~114,910 |
-| FINISHED CHAPTER 4 | 15.00% | ~101,392 |
-| FINISH CHAPTER 5 | 12.00% | ~81,113 |
-| FINISH CHAPTER 6 | 11.00% | ~74,354 |
-| CATHARTIC ESCAPISM | 11.00% | ~74,354 |
-| 1000 KILLS | 10.00% | ~67,594 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~27,038 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~13,519 |
-| FIRST BLOOD | 2.00% | ~13,519 |
+| 100 KILLS | 32.00% | ~216,293 |
+| 50 HEADSHOTS | 30.00% | ~202,775 |
+| SCIENCE AND INDUSTRY | 28.00% | ~189,256 |
+| FINISHED CHAPTER 1 | 27.00% | ~182,497 |
+| FINISHED CHAPTER 2 | 20.00% | ~135,183 |
+| 200 HEADSHOTS | 18.00% | ~121,665 |
+| FINISHED CHAPTER 3 | 17.00% | ~114,906 |
+| FINISHED CHAPTER 4 | 15.00% | ~101,387 |
+| FINISH CHAPTER 5 | 12.00% | ~81,110 |
+| FINISH CHAPTER 6 | 11.00% | ~74,351 |
+| CATHARTIC ESCAPISM | 11.00% | ~74,351 |
+| 1000 KILLS | 10.00% | ~67,592 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~27,037 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~13,518 |
+| FIRST BLOOD | 2.00% | ~13,518 |
 | OUT OF ORDER | 1.00% | ~6,759 |
 | PACEMAKER | 1.00% | ~6,759 |
 | TIME PARADOX | 1.00% | ~6,759 |
 | FIREFIGHT LEVEL 30 | 0.90% | ~6,083 |
-| PARTYHARD | 0.80% | ~5,408 |
-| NEW GAME PLUS | 0.70% | ~4,732 |
+| PARTYHARD | 0.80% | ~5,407 |
+| NEW GAME PLUS | 0.70% | ~4,731 |
 | FIREFIGHT LEVEL 40 | 0.50% | ~3,380 |
 | CHURCH | 0.40% | ~2,704 |
 | FIREFIGHT LEVEL 50 | 0.30% | ~2,028 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 231)
 | THE GAMBLER | 0.10% | ~676 |
 | WARRIOR IN A GARDEN | 0.10% | ~676 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 675,944 (Ranked 28)  
+Progressed: 675,916 (Ranked 28)  
 Completed: 69 (0.01%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |

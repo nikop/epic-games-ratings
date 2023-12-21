@@ -19,7 +19,7 @@ Number of Ratings: 20  (23.09.2022)
 | Good Mama | 33.00% | ~121 |
 | O Captain My Captain | 32.00% | ~118 |
 | Plunderer | 29.00% | ~107 |
-| Taxonomist | 27.00% | ~99 |
+| Taxonomist | 28.00% | ~103 |
 | Traveller | 25.00% | ~92 |
 | Uncertain Loyalties | 25.00% | ~92 |
 | Nahua Seeker | 24.00% | ~88 |
@@ -38,7 +38,7 @@ Number of Ratings: 20  (23.09.2022)
 | The Director is Dead | 13.00% | ~48 |
 | And Here Is Your Statue | 13.00% | ~48 |
 | Discovery | 13.00% | ~48 |
-| Very Classy | 12.00% | ~44 |
+| Very Classy | 13.00% | ~48 |
 | Under the Table | 11.00% | ~40 |
 | It's Complicated | 11.00% | ~40 |
 | Cold Blood, Warm Heart | 10.00% | ~37 |

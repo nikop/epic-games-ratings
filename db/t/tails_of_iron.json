@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -4096,17 +4096,17 @@
       "ID": "Collect20Gold",
       "SetID": "9lj35g4",
       "Name": "Collect Gold",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "Collect20Iron",
       "SetID": "9lj35g4",
       "Name": "Collect Iron Ore",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "Collect50MonsterParts",
@@ -4264,9 +4264,9 @@
       "ID": "Kill25Mozi",
       "SetID": "9lj35g4",
       "Name": "Defeat 25 Mozis",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "MeetTheMoles",
@@ -4296,9 +4296,9 @@
       "ID": "RepairSmith",
       "SetID": "9lj35g4",
       "Name": "Smithy Ready to Craft",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "RepairThroneRoom",
@@ -4368,9 +4368,9 @@
       "ID": "TravelToBrightFirForest",
       "SetID": "cbf1i0c",
       "Name": "The Bright Fir",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
@@ -4391,8 +4391,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-12-20T19:57:28.9419379+00:00",
-  "LastChanged_Achievements": "2023-12-21T11:03:44.5325725+00:00",
+  "LastChanged_Achievements": "2023-12-21T12:04:32.1255326+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:33.7739845+00:00",
-  "LastUpdate_Ratings": "2023-12-21T10:57:37.2709903+00:00",
-  "LastUpdate_Achievements": "2023-12-21T11:03:44.5326054+00:00"
+  "LastUpdate_Ratings": "2023-12-21T11:58:13.1980766+00:00",
+  "LastUpdate_Achievements": "2023-12-21T12:04:32.1255645+00:00"
 }

@@ -16866,10 +16866,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 434034,
       "NumberOfAwardsMax": 125560
+    },
+    {
+      "Time": "2023-12-21T12:03:25.4612251+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 434166,
+      "NumberOfAwardsMax": 125560
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 434034,
+  "NumberOfAwards": 434166,
   "NumberOfAwardsMax": 125560,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -16901,7 +16907,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 24750
+      "Count": 24882
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -16946,9 +16952,9 @@
       "Count": 16339
     }
   ],
-  "EOS_Progressed": 979428,
+  "EOS_Progressed": 979449,
   "EOS_Completed": 2948,
-  "EOS_NewPlayers": 3671,
+  "EOS_NewPlayers": 3666,
   "EOS_NewCompleters": 45,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -44881,6 +44887,11 @@
       "Time": "2023-12-21T11:06:10.2240592+00:00",
       "NumProgressed": 979428,
       "NumCompleted": 2948
+    },
+    {
+      "Time": "2023-12-21T12:08:14.5746028+00:00",
+      "NumProgressed": 979449,
+      "NumCompleted": 2948
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -44917,7 +44928,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 48971
+      "UsersEstimate": 48972
     },
     {
       "ID": "Denied",
@@ -44925,7 +44936,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 58766
+      "UsersEstimate": 58767
     },
     {
       "ID": "FollowingTheRiver",
@@ -44965,7 +44976,7 @@
       "Name": "Gun Fu",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 78354
+      "UsersEstimate": 78356
     },
     {
       "ID": "Gunslinger",
@@ -45069,7 +45080,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 39177
+      "UsersEstimate": 39178
     },
     {
       "ID": "Specialist",
@@ -45109,7 +45120,7 @@
       "Name": "The Fool",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 68560
+      "UsersEstimate": 68561
     },
     {
       "ID": "TheHermit",
@@ -45117,7 +45128,7 @@
       "Name": "The Hermit",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 39177
+      "UsersEstimate": 39178
     },
     {
       "ID": "TheHightPriestess",
@@ -45133,7 +45144,7 @@
       "Name": "The Lovers",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 48971
+      "UsersEstimate": 48972
     },
     {
       "ID": "TheStar",
@@ -45141,7 +45152,7 @@
       "Name": "The Star",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 7835
+      "UsersEstimate": 7836
     },
     {
       "ID": "TheSun",
@@ -45157,7 +45168,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 39177
+      "UsersEstimate": 39178
     },
     {
       "ID": "TheWorld",
@@ -45189,7 +45200,7 @@
       "Name": "True Soldier",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 39177
+      "UsersEstimate": 39178
     },
     {
       "ID": "TrueWarrior",
@@ -45221,7 +45232,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 117531
+      "UsersEstimate": 117534
     },
     {
       "ID": "YipMan",
@@ -45349,7 +45360,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 4322
+      "UsersEstimate": 4323
     },
     {
       "ID": "HydraIsDead",
@@ -45365,7 +45376,7 @@
       "Name": "Arachnophobia",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 4322
+      "UsersEstimate": 4323
     },
     {
       "ID": "KingOfTheCups",
@@ -45428,21 +45439,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 979428,
+      "Progressed": 979449,
       "Completed": 2948
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 108051,
+      "Progressed": 108072,
       "Completed": 10426
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-12-21T11:02:56.9647332+00:00",
-  "LastChanged_Achievements": "2023-12-21T11:06:10.2240588+00:00",
+  "LastChanged": "2023-12-21T12:03:25.4612249+00:00",
+  "LastChanged_Achievements": "2023-12-21T12:08:14.5746024+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:11.4044836+00:00",
-  "LastUpdate_Ratings": "2023-12-21T11:02:56.9647339+00:00",
-  "LastUpdate_Achievements": "2023-12-21T11:06:10.2242086+00:00"
+  "LastUpdate_Ratings": "2023-12-21T12:03:25.4612255+00:00",
+  "LastUpdate_Achievements": "2023-12-21T12:08:14.5747503+00:00"
 }

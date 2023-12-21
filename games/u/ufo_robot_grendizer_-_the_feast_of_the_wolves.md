@@ -18,11 +18,12 @@
 | The Space Hydra | 18.00% | ~3 |
 | The Vega Turtle | 18.00% | ~3 |
 | A Good Paint Job | 12.00% | ~2 |
+| The Collector | 12.00% | ~2 |
 | The Royal Guard | 12.00% | ~2 |
 | Gold Seeker | 6.00% | ~1 |
 | The Power of Friendship | 6.00% | ~1 |
 | The Planner | 6.00% | ~1 |
-| The Collector | 6.00% | ~1 |
+| The Broken Guard | 6.00% | ~1 |
 | Saucer Beast Unchained | 6.00% | ~1 |
 | The Battle Axe | 6.00% | ~1 |
 | The Flying Octopus | 6.00% | ~1 |
@@ -31,7 +32,6 @@
 | Vengeance of the Wolf | 6.00% | ~1 |
 | A Land of Peace | 0.00% | ~0 |
 | You can't fool me! | 0.00% | ~0 |
-| The Broken Guard | 0.00% | ~0 |
 | The Completionist | 0.00% | ~0 |
 | The Fire Cannons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

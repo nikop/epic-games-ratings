@@ -4,7 +4,7 @@
   "ProductSlug": "return-to-abyss-226301",
   "Ranking_EOS_Progress": 450,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 430,
+  "Ranking_EOS_NewPlayers": 424,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 120,
+  "EOS_Progressed": 121,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -534,6 +534,11 @@
       "Time": "2023-12-19T05:06:41.8447545+00:00",
       "NumProgressed": 120,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T12:04:00.625534+00:00",
+      "NumProgressed": 121,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -543,9 +548,9 @@
       "ID": "Epic_ArcGenerator_1",
       "SetID": "ba1m2fc",
       "Name": "10,000-Volt Electric Field",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 83
     },
     {
       "ID": "Epic_AsteroidBase_1",
@@ -559,7 +564,7 @@
       "ID": "Epic_Brand_25",
       "SetID": "ba1m2fc",
       "Name": "Pilgrim",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 20,
       "UsersEstimate": 38
     },
@@ -647,9 +652,9 @@
       "ID": "Epic_Firefly_1",
       "SetID": "ba1m2fc",
       "Name": "Stars\u0027 Shimmer",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 77
     },
     {
       "ID": "Epic_Formula_12",
@@ -671,7 +676,7 @@
       "ID": "Epic_GoldenCity_1",
       "SetID": "ba1m2fc",
       "Name": "Dystopia",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 10,
       "UsersEstimate": 56
     },
@@ -687,9 +692,9 @@
       "ID": "Epic_HaveRest_120",
       "SetID": "ba1m2fc",
       "Name": "Take a Break",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "Epic_HeartlessBow_1",
@@ -703,7 +708,7 @@
       "ID": "Epic_HolyLight_1",
       "SetID": "ba1m2fc",
       "Name": "Exorcism",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 10,
       "UsersEstimate": 92
     },
@@ -721,7 +726,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "Epic_InnerWorld_1",
@@ -743,9 +748,9 @@
       "ID": "Epic_KillElite_500",
       "SetID": "ba1m2fc",
       "Name": "Mousetrap",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 15
     },
     {
       "ID": "Epic_Kill_1000000",
@@ -807,9 +812,9 @@
       "ID": "Epic_Purgatory_1",
       "SetID": "ba1m2fc",
       "Name": "Paradise Lost",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 87
     },
     {
       "ID": "Epic_Revenge_1",
@@ -849,7 +854,7 @@
       "Name": "Deadly Twin Cracks",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "Epic_SmallBell_1",
@@ -865,7 +870,7 @@
       "Name": "God of Wealth",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "Epic_SwampPet_1",
@@ -879,7 +884,7 @@
       "ID": "Epic_Swamp_1",
       "SetID": "ba1m2fc",
       "Name": "Fallen Eden",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
       "UsersEstimate": 38
     },
@@ -897,7 +902,7 @@
       "Name": "Winds of Destruction",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "Epic_Treasure_1000",
@@ -913,7 +918,7 @@
       "Name": "Spark Starts Prairie Fire",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "Epic_WinTimes_500",
@@ -928,14 +933,14 @@
     {
       "ID": "ba1m2fc",
       "IsBase": true,
-      "Progressed": 120,
+      "Progressed": 121,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-12-21T11:03:20.6500554+00:00",
+  "LastChanged_Achievements": "2023-12-21T12:04:00.6255335+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:10.2907152+00:00",
-  "LastUpdate_Ratings": "2023-12-21T10:59:59.0437989+00:00",
-  "LastUpdate_Achievements": "2023-12-21T11:03:20.6500978+00:00"
+  "LastUpdate_Ratings": "2023-12-21T12:01:30.8476239+00:00",
+  "LastUpdate_Achievements": "2023-12-21T12:04:00.6255661+00:00"
 }

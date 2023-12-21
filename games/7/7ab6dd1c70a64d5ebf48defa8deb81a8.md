@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 52.00% | ~501 |
-| Trinity | 23.00% | ~221 |
-| Find Allies | 18.00% | ~173 |
-| A Taste of Wrath | 18.00% | ~173 |
-| I Found It | 18.00% | ~173 |
-| The Collector | 18.00% | ~173 |
-| Adventurer | 16.00% | ~154 |
-| Shatter Them All | 16.00% | ~154 |
-| Geared Up | 16.00% | ~154 |
-| Tributes of Caladrias | 15.00% | ~144 |
-| Scholar | 15.00% | ~144 |
+| Break Out | 52.00% | ~502 |
+| Trinity | 23.00% | ~222 |
+| Find Allies | 18.00% | ~174 |
+| A Taste of Wrath | 18.00% | ~174 |
+| I Found It | 18.00% | ~174 |
+| The Collector | 17.00% | ~164 |
+| Adventurer | 16.00% | ~155 |
+| Shatter Them All | 16.00% | ~155 |
+| Geared Up | 16.00% | ~155 |
+| Tributes of Caladrias | 15.00% | ~145 |
+| Scholar | 15.00% | ~145 |
 | Fashion Victim | 14.00% | ~135 |
 | Stone Collection | 14.00% | ~135 |
 | Powerful Allies | 12.00% | ~116 |
-| Big Bazar | 9.00% | ~87 |
+| Big Bazar | 10.00% | ~97 |
 | Essence Blow | 8.00% | ~77 |
-| Alchemist | 7.00% | ~67 |
+| Alchemist | 7.00% | ~68 |
 | Calm before the Storm | 5.00% | ~48 |
 | The Mentor | 5.00% | ~48 |
 | Airborne | 5.00% | ~48 |
@@ -35,13 +35,13 @@
 | All There Is | 1.00% | ~10 |
 | False God | 1.00% | ~10 |
 | A Queen's Tale | 1.00% | ~10 |
-| Shardbearer | 0.70% | ~7 |
+| Shardbearer | 0.80% | ~8 |
+| Forgemaster | 0.70% | ~7 |
 | Summiter | 0.70% | ~7 |
-| Forgemaster | 0.60% | ~6 |
 | All That Gold | 0.60% | ~6 |
 | Feeling Fancy | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 963 (Ranked 279)  
+Progressed: 966 (Ranked 279)  
 Completed: 3 (0.31%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,4 +111,4 @@ Completed: 3 (0.31%) (Ranked 246)
 | 2023-12-18 | 818 | 3 |
 | 2023-12-19 | 881 | 3 |
 | 2023-12-20 | 928 | 3 |
-| 2023-12-21 | 963 | 3 |
+| 2023-12-21 | 966 | 3 |

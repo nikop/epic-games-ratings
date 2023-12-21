@@ -1,7 +1,7 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.57 (Ranked 1,063)  
+Rating: 3.56 (Ranked 1,063)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,9 +9,9 @@ Rating: 3.57 (Ranked 1,063)
 | Home Is Where the Heart Is | 7.00% | ~138 |
 | Catch and Release | 7.00% | ~138 |
 | Blood Will Have Blood | 6.00% | ~118 |
+| Ne Plus Ultra | 6.00% | ~118 |
 | ICU | 6.00% | ~118 |
 | Wounded Whispers | 6.00% | ~118 |
-| Ne Plus Ultra | 5.00% | ~98 |
 | Fly Fisher | 5.00% | ~98 |
 | Peek-a-boo | 5.00% | ~98 |
 | Sucks To Be You | 5.00% | ~98 |
@@ -237,3 +237,4 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-17 | 3.51 | 0 | 0 |
 | 2023-12-18 | 3.56 | 0 | 0 |
 | 2023-12-19 | 3.57 | 0 | 0 |
+| 2023-12-21 | 3.56 | 0 | 0 |

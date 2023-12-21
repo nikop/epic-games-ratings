@@ -1770,9 +1770,9 @@
       "ID": "FAITH_1",
       "SetID": "44dlcg0",
       "Name": "The spiritual world...",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 40
     },
     {
       "ID": "FAITH_2",
@@ -1826,9 +1826,9 @@
       "ID": "FELIZ_1",
       "SetID": "44dlcg0",
       "Name": "I like my life",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 27
     },
     {
       "ID": "FELIZ_2",
@@ -1882,9 +1882,9 @@
       "ID": "GREEN_AREAS_1",
       "SetID": "44dlcg0",
       "Name": "I like parks",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 62
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -2170,9 +2170,9 @@
       "ID": "WELFARE_1",
       "SetID": "44dlcg0",
       "Name": "Soviet town",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 27
     },
     {
       "ID": "WELFARE_2",
@@ -2195,8 +2195,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-12-21T11:09:56.9731342+00:00",
+  "LastChanged_Achievements": "2023-12-21T12:10:59.6656943+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:36.321847+00:00",
-  "LastUpdate_Ratings": "2023-12-21T10:57:03.6338502+00:00",
-  "LastUpdate_Achievements": "2023-12-21T11:09:56.9731971+00:00"
+  "LastUpdate_Ratings": "2023-12-21T11:57:25.555237+00:00",
+  "LastUpdate_Achievements": "2023-12-21T12:10:59.6657551+00:00"
 }

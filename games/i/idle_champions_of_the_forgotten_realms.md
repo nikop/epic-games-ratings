@@ -14,12 +14,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mental Gymnastics | 0.40% | ~835 |
 | Beast Intentions | 0.30% | ~728 |
 | The Mad Wizard | 0.30% | ~728 |
-| Misaligned in Sigil | 0.30% | ~626 |
-| Chaos Theory | 0.30% | ~626 |
-| When Tentacles Attack | 0.30% | ~626 |
-| Flames of Avernus | 0.30% | ~626 |
-| Don't Lose Your Head | 0.30% | ~626 |
-| Mind Spike | 0.30% | ~626 |
+| Misaligned in Sigil | 0.30% | ~627 |
+| Chaos Theory | 0.30% | ~627 |
+| When Tentacles Attack | 0.30% | ~627 |
+| Flames of Avernus | 0.30% | ~627 |
+| Don't Lose Your Head | 0.30% | ~627 |
+| Mind Spike | 0.30% | ~627 |
 | Were-verpowered | 0.20% | ~485 |
 | The Ring of Regeneration | 0.20% | ~485 |
 | Are Ya Chicken? | 0.20% | ~485 |
@@ -553,8 +553,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~209 |
 | The Brains of an Illithid's Desire | 0.10% | ~209 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,556 (Ranked 65)  
-Completed: 2,551 (1.05%) (Ranked 171)  
+Progressed: 242,569 (Ranked 65)  
+Completed: 2,552 (1.05%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -798,7 +798,7 @@ Completed: 2,551 (1.05%) (Ranked 171)
 | 2023-12-18 | 241,838 | 2,541 |
 | 2023-12-19 | 242,122 | 2,544 |
 | 2023-12-20 | 242,412 | 2,546 |
-| 2023-12-21 | 242,556 | 2,551 |
+| 2023-12-21 | 242,569 | 2,552 |
 ## Awards
 Max (Great for Beginners): 5,669  (Ranked 70)  
 Sum: 32,984 (Ranked 41)  

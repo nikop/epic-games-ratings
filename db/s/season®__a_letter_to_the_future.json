@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1599,
+  "EOS_Progressed": 1600,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 259,
+  "EOS_NewPlayers": 256,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 4,
   "EosHistory": [
@@ -3404,6 +3404,11 @@
       "Time": "2023-12-21T10:09:39.5010977+00:00",
       "NumProgressed": 1599,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-12-21T12:10:34.926407+00:00",
+      "NumProgressed": 1600,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 16,
@@ -3471,7 +3476,7 @@
       "Name": "Home Leaver",
       "Percentage": 81,
       "XP": 40,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1296
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -3479,7 +3484,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 81,
       "XP": 40,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1296
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -3503,7 +3508,7 @@
       "Name": "Outside World Seer",
       "Percentage": 63,
       "XP": 40,
-      "UsersEstimate": 1007
+      "UsersEstimate": 1008
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -3542,7 +3547,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1599,
+      "Progressed": 1600,
       "Completed": 64
     }
   ],
@@ -3550,8 +3555,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-12-21T11:09:37.2965613+00:00",
+  "LastChanged_Achievements": "2023-12-21T12:10:34.9264065+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:50.4706145+00:00",
-  "LastUpdate_Ratings": "2023-12-21T10:57:24.4265126+00:00",
-  "LastUpdate_Achievements": "2023-12-21T11:09:37.2965842+00:00"
+  "LastUpdate_Ratings": "2023-12-21T11:57:54.9594395+00:00",
+  "LastUpdate_Achievements": "2023-12-21T12:10:34.9264322+00:00"
 }

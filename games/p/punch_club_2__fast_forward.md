@@ -9,14 +9,14 @@
 | Good Person Chip | 84.00% | ~367 |
 | First winning | 83.00% | ~363 |
 | Your first job | 82.00% | ~358 |
+| Depressed visitor | 77.00% | ~336 |
 | Fitness professional | 76.00% | ~332 |
 | Old movies enjoyer | 76.00% | ~332 |
-| Depressed visitor | 76.00% | ~332 |
 | Neurotrainer – power gainer! | 76.00% | ~332 |
 | Employee of the week | 75.00% | ~328 |
 | Your own amateur gym | 70.00% | ~306 |
+| Run K, run! | 70.00% | ~306 |
 | First defeat | 69.00% | ~302 |
-| Run K, run! | 69.00% | ~302 |
 | No bullying more | 67.00% | ~293 |
 | Hello, world! | 67.00% | ~293 |
 | Fighting is cool | 66.00% | ~288 |
@@ -26,15 +26,15 @@
 | Law student | 58.00% | ~253 |
 | Workout professional | 56.00% | ~245 |
 | Handyman | 56.00% | ~245 |
+| Fight for life | 55.00% | ~240 |
 | Little hacker | 55.00% | ~240 |
 | Champion – starter pack | 55.00% | ~240 |
 | It's good to be alive | 55.00% | ~240 |
 | Intriguing candies | 55.00% | ~240 |
 | Employee of the year | 55.00% | ~240 |
-| Fight for life | 54.00% | ~236 |
 | Own four walls | 54.00% | ~236 |
+| Legal courier | 51.00% | ~223 |
 | Extreme neuropower! | 51.00% | ~223 |
-| Legal courier | 50.00% | ~218 |
 | Escaped from a big trouble | 47.00% | ~205 |
 | Now you are worthy | 44.00% | ~192 |
 | Fight is life | 43.00% | ~188 |

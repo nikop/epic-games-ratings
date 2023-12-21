@@ -6,19 +6,19 @@ Rating: 4.26 (Ranked 886)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rigged And Ready | 79.00% | ~1,834 |
-| Don't I Know You...? | 76.00% | ~1,764 |
+| Don't I Know You...? | 76.00% | ~1,765 |
 | Jailbreak | 65.00% | ~1,509 |
 | HEADSHOT! | 38.00% | ~882 |
 | Suited and Booted | 38.00% | ~882 |
-| Sleeping With The Fishes | 35.00% | ~812 |
-| Overheated | 30.00% | ~696 |
-| High Performance | 30.00% | ~696 |
+| Sleeping With The Fishes | 35.00% | ~813 |
+| Overheated | 30.00% | ~697 |
+| High Performance | 30.00% | ~697 |
 | Powered Up | 28.00% | ~650 |
 | Studied The Blade | 25.00% | ~580 |
 | Home Invasion | 23.00% | ~534 |
 | Luminary | 22.00% | ~511 |
 | It's a Trap | 22.00% | ~511 |
-| True Survivor | 21.00% | ~487 |
+| True Survivor | 21.00% | ~488 |
 | Offensive Defense | 20.00% | ~464 |
 | Shocking | 20.00% | ~464 |
 | Court Martial | 19.00% | ~441 |
@@ -41,7 +41,7 @@ Rating: 4.26 (Ranked 886)
 | A Little Banged Up | 8.00% | ~186 |
 | Following In Their Footsteps | 8.00% | ~186 |
 | Defense in Depth | 8.00% | ~186 |
-| Reverse Engineering | 7.00% | ~162 |
+| Reverse Engineering | 7.00% | ~163 |
 | Reborn | 6.00% | ~139 |
 | Remote Surgery | 6.00% | ~139 |
 | Turbo Booster | 6.00% | ~139 |
@@ -63,7 +63,7 @@ Rating: 4.26 (Ranked 886)
 | Three Birds With One Stone | 1.00% | ~23 |
 | The Easy Way Out | 1.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,321 (Ranked 229)  
+Progressed: 2,322 (Ranked 229)  
 Completed: 13 (0.56%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 13 (0.56%) (Ranked 203)
 | 2023-12-18 | 2,293 | 13 |
 | 2023-12-19 | 2,300 | 13 |
 | 2023-12-20 | 2,314 | 13 |
-| 2023-12-21 | 2,321 | 13 |
+| 2023-12-21 | 2,322 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 81.00% | ~134 |
-| Wanderer | 59.00% | ~98 |
-| A piece of the story | 58.00% | ~96 |
-| It's covered up for a reason | 46.00% | ~76 |
-| Scraps of love | 44.00% | ~73 |
-| Do what you have to | 42.00% | ~70 |
-| The artist’s impression | 42.00% | ~70 |
-| Sign of weakness | 36.00% | ~60 |
-| Refuse to look | 34.00% | ~56 |
-| Face your fears | 28.00% | ~46 |
+| Something important | 80.00% | ~134 |
+| A piece of the story | 58.00% | ~97 |
+| Wanderer | 58.00% | ~97 |
+| It's covered up for a reason | 46.00% | ~77 |
+| Scraps of love | 43.00% | ~72 |
+| The artist’s impression | 42.00% | ~71 |
+| Do what you have to | 41.00% | ~69 |
+| Sign of weakness | 35.00% | ~59 |
+| Refuse to look | 33.00% | ~55 |
+| Face your fears | 27.00% | ~45 |
 | Finished it | 27.00% | ~45 |
-| Whispers long forgotten | 14.00% | ~23 |
+| Whispers long forgotten | 14.00% | ~24 |
 | Debut | 11.00% | ~18 |
 | The art of movement | 11.00% | ~18 |
 | A Slice of Life | 10.00% | ~17 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 166 (Ranked 417)  
+Progressed: 168 (Ranked 417)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,4 +116,4 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 152 | 0 |
 | 2023-12-19 | 159 | 0 |
 | 2023-12-20 | 162 | 0 |
-| 2023-12-21 | 166 | 0 |
+| 2023-12-21 | 168 | 0 |

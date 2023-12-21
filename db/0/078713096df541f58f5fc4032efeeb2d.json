@@ -512,9 +512,9 @@
       "ID": "creepytale3_ach_8",
       "SetID": "7idcjbn",
       "Name": "Save mission",
-      "Percentage": 41,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "creepytale3_ach_9",
@@ -535,8 +535,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2023-12-21T11:08:14.7654964+00:00",
+  "LastChanged_Achievements": "2023-12-21T12:08:45.8310274+00:00",
   "LastUpdate_AppInfo": "2023-12-20T07:56:51.9801236+00:00",
-  "LastUpdate_Ratings": "2023-12-21T11:02:42.7045589+00:00",
-  "LastUpdate_Achievements": "2023-12-21T11:08:14.7655181+00:00"
+  "LastUpdate_Ratings": "2023-12-21T12:03:06.267796+00:00",
+  "LastUpdate_Achievements": "2023-12-21T12:08:45.8310435+00:00"
 }

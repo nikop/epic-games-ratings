@@ -6,18 +6,18 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,531 |
-| Gun Fu | 8.00% | ~78,354 |
-| The Fool | 7.00% | ~68,560 |
-| Right Back At Ya | 6.00% | ~58,766 |
-| Full Body Conversion | 5.00% | ~48,971 |
-| The Lovers | 5.00% | ~48,971 |
-| Stanislavski's Method | 4.00% | ~39,177 |
-| The Hermit | 4.00% | ~39,177 |
-| The Wheel of Fortune | 4.00% | ~39,177 |
-| True Soldier | 4.00% | ~39,177 |
-| All the President's Men | 4.00% | ~4,322 |
-| Arachnophobia | 4.00% | ~4,322 |
+| V for Vendetta | 12.00% | ~117,534 |
+| Gun Fu | 8.00% | ~78,356 |
+| The Fool | 7.00% | ~68,561 |
+| Right Back At Ya | 6.00% | ~58,767 |
+| Full Body Conversion | 5.00% | ~48,972 |
+| The Lovers | 5.00% | ~48,972 |
+| Stanislavski's Method | 4.00% | ~39,178 |
+| The Hermit | 4.00% | ~39,178 |
+| The Wheel of Fortune | 4.00% | ~39,178 |
+| True Soldier | 4.00% | ~39,178 |
+| All the President's Men | 4.00% | ~4,323 |
+| Arachnophobia | 4.00% | ~4,323 |
 | Christmas Tree Attack | 3.00% | ~29,383 |
 | Life of the Road | 3.00% | ~29,383 |
 | The High Priestess | 3.00% | ~29,383 |
@@ -40,7 +40,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Easy Come, Easy Go | 1.00% | ~1,081 |
 | To Bad Decisions! | 0.90% | ~8,815 |
 | Ten out of Ten | 0.90% | ~8,815 |
-| The Star | 0.80% | ~7,835 |
+| The Star | 0.80% | ~7,836 |
 | Breathtaking | 0.70% | ~6,856 |
 | Autojock | 0.60% | ~5,877 |
 | The APB is Not Enough | 0.60% | ~648 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 979,428 (Ranked 16)  
+Progressed: 979,449 (Ranked 16)  
 Completed: 2,948 (0.30%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,10 +319,10 @@ Completed: 2,948 (0.30%) (Ranked 249)
 | 2023-12-18 | 978,465 | 2,935 |
 | 2023-12-19 | 978,882 | 2,944 |
 | 2023-12-20 | 979,279 | 2,948 |
-| 2023-12-21 | 979,428 | 2,948 |
+| 2023-12-21 | 979,449 | 2,948 |
 ## Awards
 Max (Character Customization): 125,560  (Ranked 8)  
-Sum: 434,034 (Ranked 9)  
+Sum: 434,166 (Ranked 9)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -331,7 +331,7 @@ Diff (max vs sum): -1
 | This game is Great for Beginners | 26,977 |
 | This game has Diverse Characters | 26,477 |
 | This game is Highly Recommended | 25,193 |
-| This game has Amazing Storytelling | 24,750 |
+| This game has Amazing Storytelling | 24,882 |
 | This game is Extremely Fun | 24,589 |
 | This game has Amazing Characters | 24,390 |
 | This game is Relaxing | 23,632 |
@@ -676,4 +676,4 @@ Diff (max vs sum): -1
 | 2023-12-18 | 4.66 | - | 124,846 | 429,269 |
 | 2023-12-19 | 4.66 | - | 125,194 | 431,324 |
 | 2023-12-20 | 4.66 | - | 125,560 | 433,348 |
-| 2023-12-21 | 4.66 | - | 125,560 | 434,034 |
+| 2023-12-21 | 4.66 | - | 125,560 | 434,166 |

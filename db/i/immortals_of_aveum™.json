@@ -247,9 +247,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1463,
+  "EOS_Progressed": 1465,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1042,
+  "EOS_NewPlayers": 1033,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2587,6 +2587,11 @@
       "Time": "2023-12-21T11:09:32.3819536+00:00",
       "NumProgressed": 1463,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-21T12:10:28.4976293+00:00",
+      "NumProgressed": 1465,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -2599,7 +2604,7 @@
       "Name": "Unforeseen",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1275
     },
     {
       "ID": "achievement_10",
@@ -2661,9 +2666,9 @@
       "ID": "achievement_17",
       "SetID": "18al4io",
       "Name": "Lights Army",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 73
+      "UsersEstimate": 88
     },
     {
       "ID": "achievement_18",
@@ -2677,9 +2682,9 @@
       "ID": "achievement_19",
       "SetID": "18al4io",
       "Name": "Socialite",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 322
     },
     {
       "ID": "achievement_2",
@@ -2687,7 +2692,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1170
+      "UsersEstimate": 1172
     },
     {
       "ID": "achievement_20",
@@ -2743,7 +2748,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "achievement_36",
@@ -2751,7 +2756,7 @@
       "Name": "Armsman",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "achievement_37",
@@ -2775,7 +2780,7 @@
       "Name": "No More Names",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "achievement_41",
@@ -2831,7 +2836,7 @@
       "Name": "Enlisted",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 1053
+      "UsersEstimate": 1055
     },
     {
       "ID": "achievement_49",
@@ -2895,7 +2900,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "achievement_60",
@@ -2959,7 +2964,7 @@
       "Name": "All the Major Food Groups",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "achievement_9",
@@ -2974,7 +2979,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 1463,
+      "Progressed": 1465,
       "Completed": 2
     }
   ],
@@ -2982,8 +2987,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-12-20T07:58:57.6107154+00:00",
-  "LastChanged_Achievements": "2023-12-21T11:09:32.3819532+00:00",
+  "LastChanged_Achievements": "2023-12-21T12:10:28.4976287+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:30.3074422+00:00",
-  "LastUpdate_Ratings": "2023-12-21T10:59:45.5635556+00:00",
-  "LastUpdate_Achievements": "2023-12-21T11:09:32.3819908+00:00"
+  "LastUpdate_Ratings": "2023-12-21T12:01:12.5500471+00:00",
+  "LastUpdate_Achievements": "2023-12-21T12:10:28.4976729+00:00"
 }

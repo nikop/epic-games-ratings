@@ -4,10 +4,10 @@
   "ProductSlug": "might-and-magic-chess-royale",
   "Ranking_Rating": 620,
   "Ranking_Popularity": 369,
-  "Ranking_PopularitySum": 282,
+  "Ranking_PopularitySum": 283,
   "Ranking_EOS_Progress": 813,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 560,
+  "Ranking_EOS_NewPlayers": 561,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": null,
@@ -977,6 +977,6 @@
   "FirstSeen": "2022-07-22T20:27:16.1959446+00:00",
   "LastChanged": "2023-12-14T21:59:58.0592101+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:23.4555302+00:00",
-  "LastUpdate_Ratings": "2023-12-21T10:58:04.3518708+00:00",
-  "LastUpdate_Achievements": "2023-12-21T11:08:18.8665575+00:00"
+  "LastUpdate_Ratings": "2023-12-21T11:58:50.9638611+00:00",
+  "LastUpdate_Achievements": "2023-12-21T12:08:51.2864408+00:00"
 }

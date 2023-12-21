@@ -4,10 +4,10 @@
   "ProductSlug": "total-war-warhammer-3",
   "Ranking_Rating": 198,
   "Ranking_Popularity": 110,
-  "Ranking_PopularitySum": 109,
+  "Ranking_PopularitySum": 108,
   "Ranking_EOS_Progress": 813,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 560,
+  "Ranking_EOS_NewPlayers": 561,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-02-17T06:00:00+00:00",
@@ -9278,10 +9278,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 8152,
       "NumberOfAwardsMax": 2182
+    },
+    {
+      "Time": "2023-12-21T12:02:42.4975993+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 8157,
+      "NumberOfAwardsMax": 2182
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8152,
+  "NumberOfAwards": 8157,
   "NumberOfAwardsMax": 2182,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -9349,13 +9355,13 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 443
+      "Count": 445
     },
     {
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 549
+      "Count": 552
     },
     {
       "Text": "This game has Challenging Combat",
@@ -9375,8 +9381,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:31.8340221+00:00",
-  "LastChanged": "2023-12-21T11:00:14.7091603+00:00",
+  "LastChanged": "2023-12-21T12:02:42.4975991+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:33.8697885+00:00",
-  "LastUpdate_Ratings": "2023-12-21T11:00:14.7091609+00:00",
-  "LastUpdate_Achievements": "2023-12-21T11:04:30.2335874+00:00"
+  "LastUpdate_Ratings": "2023-12-21T12:02:42.4975998+00:00",
+  "LastUpdate_Achievements": "2023-12-21T12:05:32.0884874+00:00"
 }

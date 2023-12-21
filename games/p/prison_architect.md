@@ -6,24 +6,24 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~51,436 |
-| Get Busy Living | 16.00% | ~32,919 |
-| Samuel Norton | 9.00% | ~18,517 |
-| Spare The Rod | 5.00% | ~10,287 |
-| Don't Put Me In The Dark | 3.00% | ~6,172 |
-| Wait and Hope | 3.00% | ~6,172 |
-| I May Have Found A Way Out Of Here | 3.00% | ~6,172 |
+| Stone Walls | 25.00% | ~51,442 |
+| Get Busy Living | 16.00% | ~32,923 |
+| Samuel Norton | 9.00% | ~18,519 |
+| Spare The Rod | 5.00% | ~10,288 |
+| Don't Put Me In The Dark | 3.00% | ~6,173 |
+| Wait and Hope | 3.00% | ~6,173 |
+| I May Have Found A Way Out Of Here | 3.00% | ~6,173 |
 | Throw The Book At Them | 2.00% | ~4,115 |
 | Iron Bars | 2.00% | ~4,115 |
-| D.B. Cooper | 1.00% | ~2,057 |
-| Reformation | 0.60% | ~1,234 |
+| D.B. Cooper | 1.00% | ~2,058 |
+| Reformation | 0.60% | ~1,235 |
 | Crowd Control | 0.50% | ~1,029 |
 | Freedom | 0.40% | ~823 |
 | Confined | 0.30% | ~617 |
 | It's Not What You Know... | 0.10% | ~206 |
 | ... It's What You Can Prove | 0.10% | ~206 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 205,742 (Ranked 75)  
+Progressed: 205,766 (Ranked 75)  
 Completed: 11 (0.01%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,10 +268,10 @@ Completed: 11 (0.01%) (Ranked 361)
 | 2023-12-18 | 204,823 | 11 |
 | 2023-12-19 | 205,206 | 11 |
 | 2023-12-20 | 205,600 | 11 |
-| 2023-12-21 | 205,742 | 11 |
+| 2023-12-21 | 205,766 | 11 |
 ## Awards
 Max (Great for Beginners): 607  (Ranked 200)  
-Sum: 4,654 (Ranked 149)  
+Sum: 4,655 (Ranked 149)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
@@ -279,7 +279,7 @@ Diff (max vs sum): 51
 | This game is Extremely Fun | 591 |
 | This game is Highly Recommended | 554 |
 | This game has Quickly Understood Controls | 549 |
-| This game is Relaxing | 539 |
+| This game is Relaxing | 540 |
 | This game has Diverse Characters | 509 |
 | This game has Amazing Storytelling | 499 |
 | This game is Educational | 459 |
@@ -621,3 +621,4 @@ Diff (max vs sum): 51
 | 2023-12-18 | 4.61 | - | 606 | 4,640 |
 | 2023-12-19 | 4.61 | - | 607 | 4,641 |
 | 2023-12-20 | 4.61 | - | 607 | 4,654 |
+| 2023-12-21 | 4.61 | - | 607 | 4,655 |

@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16980,
+  "EOS_Progressed": 16982,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 816,
+  "EOS_NewPlayers": 814,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -14620,6 +14620,11 @@
       "Time": "2023-12-21T11:05:03.1493288+00:00",
       "NumProgressed": 16980,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-12-21T12:06:16.0221233+00:00",
+      "NumProgressed": 16982,
+      "NumCompleted": 46
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14696,7 +14701,7 @@
       "Name": "Spore Taste",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "18",
@@ -14880,7 +14885,7 @@
       "Name": "Safe Cracker",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "33",
@@ -14904,20 +14909,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16980,
+      "Progressed": 16982,
       "Completed": 46
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2934,
+      "Progressed": 2936,
       "Completed": 976
     }
   ],
@@ -14925,8 +14930,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-21T04:02:39.716899+00:00",
-  "LastChanged_Achievements": "2023-12-21T11:05:03.1493282+00:00",
+  "LastChanged_Achievements": "2023-12-21T12:06:16.0221228+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:40.0929133+00:00",
-  "LastUpdate_Ratings": "2023-12-21T11:00:21.3587477+00:00",
-  "LastUpdate_Achievements": "2023-12-21T11:05:03.1494181+00:00"
+  "LastUpdate_Ratings": "2023-12-21T12:02:51.9296155+00:00",
+  "LastUpdate_Achievements": "2023-12-21T12:06:16.0222038+00:00"
 }

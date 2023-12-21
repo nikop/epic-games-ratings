@@ -31,10 +31,10 @@ Rating: 4.64 (Ranked 338)
 | Street Style | 17.00% | ~179 |
 | The Man Who Shattered Time | 17.00% | ~179 |
 | Whiz Kid | 14.00% | ~148 |
+| Good Neighbor | 14.00% | ~148 |
 | Treasure Trove | 13.00% | ~137 |
 | Family Memories | 13.00% | ~137 |
 | Cartographer | 13.00% | ~137 |
-| Good Neighbor | 13.00% | ~137 |
 | Chaincrawler Explorer | 12.00% | ~126 |
 | Ask Questions Later | 12.00% | ~126 |
 | Sump Explorer | 11.00% | ~116 |

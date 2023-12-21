@@ -12,12 +12,12 @@
 | Watch your Step! | 53.00% | ~46 |
 | Tap Dancing | 52.00% | ~45 |
 | MAX LEVEL | 51.00% | ~44 |
+| Spring Board | 41.00% | ~36 |
 | Right between the eyes | 40.00% | ~35 |
-| Spring Board | 40.00% | ~35 |
 | Starry Night | 38.00% | ~33 |
 | Rebel Unleashed | 36.00% | ~31 |
 | Merry Co-operation | 34.00% | ~30 |
-| Locksley's Tears | 33.00% | ~29 |
+| Locksley's Tears | 34.00% | ~30 |
 | Finish Him! | 28.00% | ~24 |
 | Assault on the Ram | 26.00% | ~23 |
 | Ultra Rebel Instinct | 24.00% | ~21 |
@@ -58,7 +58,7 @@
 | The Armorer | 0.00% | ~0 |
 | Master of All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87 (Ranked 483)  
+Progressed: 87 (Ranked 484)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |

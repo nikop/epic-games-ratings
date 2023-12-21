@@ -28,10 +28,10 @@ Number of Ratings: 45  (23.09.2022)
 | Legends Never Die | 0.80% | ~12 |
 | Chain Reaction | 0.80% | ~12 |
 | Another Tale to Tell | 0.80% | ~12 |
+| In Soil, In Smoke | 0.70% | ~11 |
 | Everfading | 0.70% | ~11 |
 | No Time for Clawmonsters | 0.70% | ~11 |
 | Plague Doctor | 0.60% | ~9 |
-| In Soil, In Smoke | 0.60% | ~9 |
 | Some Say I'm Too Flashy | 0.60% | ~9 |
 | Astrology | 0.60% | ~9 |
 | Storied Past | 0.50% | ~8 |
@@ -39,12 +39,12 @@ Number of Ratings: 45  (23.09.2022)
 | Bonebreakers | 0.50% | ~8 |
 | All My Birds, Safely Home | 0.50% | ~8 |
 | Tempest | 0.50% | ~8 |
+| Worldwalker | 0.40% | ~6 |
 | Wingknight's Prowess | 0.40% | ~6 |
 | Bears are Scary | 0.40% | ~6 |
 | Grillmaster | 0.40% | ~6 |
 | Lochias's Hunger | 0.40% | ~6 |
 | We Emerge Changed | 0.30% | ~5 |
-| Worldwalker | 0.30% | ~5 |
 | No More Nightmares | 0.30% | ~5 |
 | Fight Like a Bird | 0.30% | ~5 |
 | Into Mulch | 0.30% | ~5 |

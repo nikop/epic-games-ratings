@@ -6,15 +6,15 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~260,340 |
+| Blacksmith's Son | 32.00% | ~260,341 |
 | Cavalier | 25.00% | ~203,391 |
-| Fatso | 23.00% | ~187,119 |
-| Awakening | 21.00% | ~170,848 |
+| Fatso | 23.00% | ~187,120 |
+| Awakening | 21.00% | ~170,849 |
 | Ranger | 20.00% | ~162,713 |
 | Scrooge | 20.00% | ~162,713 |
 | Anorectic | 16.00% | ~130,170 |
 | Firestarter | 16.00% | ~130,170 |
-| Bookworm | 15.00% | ~122,034 |
+| Bookworm | 15.00% | ~122,035 |
 | Insomniac | 13.00% | ~105,763 |
 | Buddy | 12.00% | ~97,628 |
 | Thief | 12.00% | ~97,628 |
@@ -22,8 +22,8 @@ Number of Ratings: 9,133  (23.09.2022)
 | Traveller | 11.00% | ~89,492 |
 | Convict | 10.00% | ~81,356 |
 | Haggler | 9.00% | ~73,221 |
-| McLovin | 7.00% | ~56,949 |
-| Runt | 7.00% | ~56,949 |
+| McLovin | 7.00% | ~56,950 |
+| Runt | 7.00% | ~56,950 |
 | Casanova | 6.00% | ~48,814 |
 | Bad Trip | 5.00% | ~40,678 |
 | Monk | 5.00% | ~40,678 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~814 |
 | Wingman | 0.10% | ~814 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 813,563 (Ranked 18)  
+Progressed: 813,565 (Ranked 18)  
 Completed: 52 (0.01%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,10 +334,10 @@ Completed: 52 (0.01%) (Ranked 361)
 | 2023-12-18 | 813,218 | 52 |
 | 2023-12-19 | 813,355 | 52 |
 | 2023-12-20 | 813,504 | 52 |
-| 2023-12-21 | 813,563 | 52 |
+| 2023-12-21 | 813,565 | 52 |
 ## Awards
 Max (Character Customization): 7,689  (Ranked 52)  
-Sum: 28,561 (Ranked 50)  
+Sum: 28,562 (Ranked 50)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -345,7 +345,7 @@ Diff (max vs sum): 2
 | This game has Great Boss Battles | 5,624 |
 | This game has Challenging Combat | 1,790 |
 | This game has Diverse Characters | 1,757 |
-| This game has Amazing Storytelling | 1,739 |
+| This game has Amazing Storytelling | 1,740 |
 | This game is Highly Recommended | 1,713 |
 | This game is Extremely Fun | 1,706 |
 | This game has Realistic Visuals | 1,686 |
@@ -684,4 +684,4 @@ Diff (max vs sum): 2
 | 2023-12-18 | 4.71 | - | 7,678 | 28,529 |
 | 2023-12-19 | 4.71 | - | 7,681 | 28,543 |
 | 2023-12-20 | 4.71 | - | 7,689 | 28,560 |
-| 2023-12-21 | 4.71 | - | 7,689 | 28,561 |
+| 2023-12-21 | 4.71 | - | 7,689 | 28,562 |

@@ -5,16 +5,16 @@ Rating: 4.45 (Ranked 673)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,912 |
-| Confirming Suspicions | 41.00% | ~1,668 |
+| Meeting Resistance | 47.00% | ~1,913 |
+| Confirming Suspicions | 41.00% | ~1,669 |
 | The Kraken Wakes | 37.00% | ~1,506 |
-| It's Starting to Crack | 34.00% | ~1,383 |
-| Change the Channel | 31.00% | ~1,261 |
+| It's Starting to Crack | 34.00% | ~1,384 |
+| Change the Channel | 31.00% | ~1,262 |
 | Lord of War | 30.00% | ~1,221 |
 | Taking it back | 29.00% | ~1,180 |
 | Resourceful | 27.00% | ~1,099 |
 | Target America | 27.00% | ~1,099 |
-| The Kraken Sleeps | 25.00% | ~1,017 |
+| The Kraken Sleeps | 25.00% | ~1,018 |
 | As Quiet as a Mouse | 24.00% | ~977 |
 | Liberté | 23.00% | ~936 |
 | Organ Grinder | 23.00% | ~936 |
@@ -40,11 +40,11 @@ Rating: 4.45 (Ranked 673)
 | Herr Today, Gone Tomorrow | 7.00% | ~281 |
 | The Long Game | 6.00% | ~244 |
 | Operation Foxley | 6.00% | ~241 |
-| Strategist | 5.00% | ~203 |
-| Tinkerer | 5.00% | ~203 |
-| It'll Buff Right Out | 5.00% | ~203 |
-| Road Rage | 5.00% | ~203 |
-| Don't hold your breath | 5.00% | ~203 |
+| Strategist | 5.00% | ~204 |
+| Tinkerer | 5.00% | ~204 |
+| It'll Buff Right Out | 5.00% | ~204 |
+| Road Rage | 5.00% | ~204 |
+| Don't hold your breath | 5.00% | ~204 |
 | Last Resort | 5.00% | ~201 |
 | Siegebreaker | 5.00% | ~201 |
 | Ghost of Falaise | 5.00% | ~201 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 673)
 | Going Overboard | 0.60% | ~24 |
 | Stroll in the Woods | 0.50% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,069 (Ranked 206)  
+Progressed: 4,070 (Ranked 206)  
 Completed: 11 (0.27%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 11 (0.27%) (Ranked 254)
 | 2023-12-18 | 4,057 | 11 |
 | 2023-12-19 | 4,060 | 11 |
 | 2023-12-20 | 4,066 | 11 |
-| 2023-12-21 | 4,069 | 11 |
+| 2023-12-21 | 4,070 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 519)  
 Sum: 28 (Ranked 533)  

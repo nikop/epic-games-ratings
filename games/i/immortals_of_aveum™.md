@@ -5,17 +5,17 @@ Rating: 4.22 (Ranked 920)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~1,273 |
-| Battlefields Have Memories | 80.00% | ~1,170 |
-| Enlisted | 72.00% | ~1,053 |
-| Maybe Engage a Little | 66.00% | ~966 |
-| No More Names | 47.00% | ~688 |
+| Unforeseen | 87.00% | ~1,275 |
+| Battlefields Have Memories | 80.00% | ~1,172 |
+| Enlisted | 72.00% | ~1,055 |
+| Maybe Engage a Little | 66.00% | ~967 |
+| No More Names | 47.00% | ~689 |
 | Initiate | 33.00% | ~483 |
-| Thrada-Kul | 29.00% | ~424 |
+| Thrada-Kul | 29.00% | ~425 |
+| Socialite | 22.00% | ~322 |
 | Gravity-Challenged Rocks | 22.00% | ~322 |
-| Socialite | 21.00% | ~307 |
 | Soldier | 19.00% | ~278 |
-| All the Major Food Groups | 18.00% | ~263 |
+| All the Major Food Groups | 18.00% | ~264 |
 | Beggars Would Ride | 16.00% | ~234 |
 | Control is an Illusion | 14.00% | ~205 |
 | The Means to Save It | 12.00% | ~176 |
@@ -25,8 +25,8 @@ Rating: 4.22 (Ranked 920)
 | Geas Aristeya | 9.00% | ~132 |
 | A Perfect Cycle | 8.00% | ~117 |
 | Recruit | 8.00% | ~117 |
-| Armsman | 7.00% | ~102 |
-| Lights Army | 5.00% | ~73 |
+| Armsman | 7.00% | ~103 |
+| Lights Army | 6.00% | ~88 |
 | Periapt Cerulean | 5.00% | ~73 |
 | Good Boy | 5.00% | ~73 |
 | Best Dressed | 4.00% | ~59 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 920)
 | Family Business | 0.20% | ~3 |
 | Fowl Play | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,463 (Ranked 252)  
+Progressed: 1,465 (Ranked 252)  
 Completed: 2 (0.14%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 2 (0.14%) (Ranked 289)
 | 2023-12-18 | 1,195 | 2 |
 | 2023-12-19 | 1,301 | 2 |
 | 2023-12-20 | 1,423 | 2 |
-| 2023-12-21 | 1,463 | 2 |
+| 2023-12-21 | 1,465 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

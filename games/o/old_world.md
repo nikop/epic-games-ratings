@@ -6,6 +6,7 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Settler | 0.20% | ~32 |
 | Alexander the Great | 0.10% | ~16 |
 | Lighthouse in Alexandria | 0.10% | ~16 |
 | Musaeum in Alexandria | 0.10% | ~16 |
@@ -62,7 +63,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Peacemaker | 0.10% | ~16 |
 | Pioneer | 0.10% | ~16 |
 | Ready | 0.10% | ~16 |
-| Settler | 0.10% | ~16 |
 | Strong | 0.10% | ~16 |
 | Subjugator | 0.10% | ~16 |
 | Valiant | 0.10% | ~16 |
@@ -92,6 +92,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 0.10% | ~16 |
 | Furious Family | 0.10% | ~16 |
 | The Eternal Treaty | 0.10% | ~16 |
+| Five Routs | 0.10% | ~16 |
 | Hittite Iron | 0.10% | ~16 |
 | Acropolis | 0.10% | ~16 |
 | Apadana | 0.10% | ~16 |
@@ -228,7 +229,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ethnic Diversity | 0.00% | ~0 |
 | Et tu Brutus? | 0.00% | ~0 |
 | Battle of the Fertile Crescent | 0.00% | ~0 |
-| Five Routs | 0.00% | ~0 |
 | Game of the Week | 0.00% | ~0 |
 | That Also Works | 0.00% | ~0 |
 | Defend Where? | 0.00% | ~0 |

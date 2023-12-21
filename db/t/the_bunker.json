@@ -4,7 +4,7 @@
   "ProductSlug": "the-bunker-03b712",
   "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 423,
+  "Ranking_EOS_NewPlayers": 414,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 157,
+  "EOS_Progressed": 158,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.46,
+  "EOS_Completed_Percentage": 4.43,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:47.0734478+00:00",
@@ -395,6 +395,11 @@
       "Time": "2023-12-20T19:06:09.264186+00:00",
       "NumProgressed": 157,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-21T12:07:40.2450304+00:00",
+      "NumProgressed": 158,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 28,
@@ -406,7 +411,7 @@
       "Name": "Bookworm",
       "Percentage": 27,
       "XP": 45,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ALL_CASSETTES",
@@ -444,9 +449,9 @@
       "ID": "CHAPTER_02_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Last Goodbye",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 25,
-      "UsersEstimate": 141
+      "UsersEstimate": 144
     },
     {
       "ID": "CHAPTER_03_COMPLETE",
@@ -460,9 +465,9 @@
       "ID": "CHAPTER_04_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Failure",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 119
+      "UsersEstimate": 122
     },
     {
       "ID": "CHAPTER_05_COMPLETE",
@@ -476,15 +481,15 @@
       "ID": "CHAPTER_06_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Alarm",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 105
+      "UsersEstimate": 104
     },
     {
       "ID": "CHAPTER_07_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Air Filtration",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 25,
       "UsersEstimate": 100
     },
@@ -492,25 +497,25 @@
       "ID": "CHAPTER_08_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Broken",
-      "Percentage": 62,
-      "XP": 25,
-      "UsersEstimate": 97
-    },
-    {
-      "ID": "CHAPTER_09_COMPLETE",
-      "SetID": "bho0i1h",
-      "Name": "Radiation",
       "Percentage": 61,
       "XP": 25,
       "UsersEstimate": 96
     },
     {
+      "ID": "CHAPTER_09_COMPLETE",
+      "SetID": "bho0i1h",
+      "Name": "Radiation",
+      "Percentage": 60,
+      "XP": 25,
+      "UsersEstimate": 95
+    },
+    {
       "ID": "CHAPTER_10_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Descent",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 93
+      "UsersEstimate": 92
     },
     {
       "ID": "CHAPTER_11_COMPLETE",
@@ -518,7 +523,7 @@
       "Name": "Awakenings",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "CHAPTER_12_COMPLETE",
@@ -526,7 +531,7 @@
       "Name": "Cold Storage",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "LEAVE",
@@ -534,7 +539,7 @@
       "Name": "Leave",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "MISSING_PIECE",
@@ -550,39 +555,39 @@
       "Name": "Churchill",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "PEG_COMMISSIONER",
       "SetID": "bho0i1h",
       "Name": "Commissioner",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 81
     },
     {
       "ID": "PEG_DOCTOR",
       "SetID": "bho0i1h",
       "Name": "Doctor",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 74
     },
     {
       "ID": "PEG_ENGINEER",
       "SetID": "bho0i1h",
       "Name": "Engineer",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 77
     },
     {
       "ID": "PEG_GENERAL",
       "SetID": "bho0i1h",
       "Name": "General",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 44
     },
     {
       "ID": "PEG_MOTHER",
@@ -590,7 +595,7 @@
       "Name": "Mother",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "PEG_NURSE",
@@ -606,15 +611,15 @@
       "Name": "Sam",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "PEG_SOLDIER",
       "SetID": "bho0i1h",
       "Name": "Soldier",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 81
     },
     {
       "ID": "STAY",
@@ -622,14 +627,14 @@
       "Name": "Stay",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     }
   ],
   "AchievementSets": [
     {
       "ID": "bho0i1h",
       "IsBase": true,
-      "Progressed": 157,
+      "Progressed": 158,
       "Completed": 7
     }
   ],
@@ -637,8 +642,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.332275+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:47.0734489+00:00",
   "LastChanged": "2023-03-31T05:58:47.3322751+00:00",
-  "LastChanged_Achievements": "2023-12-21T11:06:06.8437838+00:00",
+  "LastChanged_Achievements": "2023-12-21T12:07:40.2450299+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:55.4022304+00:00",
-  "LastUpdate_Ratings": "2023-12-21T10:57:30.232686+00:00",
-  "LastUpdate_Achievements": "2023-12-21T11:06:06.8438012+00:00"
+  "LastUpdate_Ratings": "2023-12-21T11:58:03.5126441+00:00",
+  "LastUpdate_Achievements": "2023-12-21T12:07:40.2450476+00:00"
 }

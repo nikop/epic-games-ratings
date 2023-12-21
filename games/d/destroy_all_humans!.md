@@ -16,8 +16,8 @@ Number of Ratings: 85  (23.09.2022)
 | Perfect Probulator | 53.00% | ~41 |
 | Fly Me to the Moon Base | 47.00% | ~37 |
 | Pimp My Raid | 42.00% | ~33 |
+| Freshly Squeezed | 41.00% | ~32 |
 | Earthly Pleasures | 41.00% | ~32 |
-| Freshly Squeezed | 40.00% | ~31 |
 | Ducks in a Row, Fish in a Barrel | 40.00% | ~31 |
 | Upgreatest | 32.00% | ~25 |
 | Bodied Sattva | 32.00% | ~25 |

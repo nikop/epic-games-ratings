@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 3.57,
+  "Rating": 3.56,
   "RatingHistory": [
     {
       "Time": "2023-05-02T02:57:49.0820146+00:00",
@@ -275,6 +275,12 @@
     {
       "Time": "2023-12-19T11:02:35.1367558+00:00",
       "Rating": 3.57,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-21T11:57:57.6911861+00:00",
+      "Rating": 3.56,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -3043,9 +3049,9 @@
       "ID": "Achievement_009",
       "SetID": "6b34g18",
       "Name": "Ne Plus Ultra",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 118
     },
     {
       "ID": "Achievement_010",
@@ -3523,9 +3529,9 @@
   "FirstSeen": "2023-05-02T02:57:49.0820129+00:00",
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
-  "LastChanged": "2023-12-19T11:02:35.1367556+00:00",
-  "LastChanged_Achievements": "2023-12-21T11:04:15.482636+00:00",
+  "LastChanged": "2023-12-21T11:57:57.6911859+00:00",
+  "LastChanged_Achievements": "2023-12-21T12:05:12.9081224+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:02.9619993+00:00",
-  "LastUpdate_Ratings": "2023-12-21T10:57:26.3374382+00:00",
-  "LastUpdate_Achievements": "2023-12-21T11:04:15.4827091+00:00"
+  "LastUpdate_Ratings": "2023-12-21T11:57:57.6911866+00:00",
+  "LastUpdate_Achievements": "2023-12-21T12:05:12.9081773+00:00"
 }

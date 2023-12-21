@@ -222,9 +222,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 1066,
+  "EOS_Progressed": 1067,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2787,6 +2787,11 @@
       "Time": "2023-12-21T02:26:23.0778422+00:00",
       "NumProgressed": 1066,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T12:06:31.9756103+00:00",
+      "NumProgressed": 1067,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2981,9 +2986,9 @@
       "ID": "LordOfTheFiles",
       "SetID": "1n308hc",
       "Name": "Lord of the Files",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 245
+      "UsersEstimate": 256
     },
     {
       "ID": "LostMarshes",
@@ -3087,7 +3092,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "RenaissanceRobot",
@@ -3205,9 +3210,9 @@
       "ID": "TheWordEndures",
       "SetID": "1n308hc",
       "Name": "The Word Endures",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 288
+      "UsersEstimate": 299
     },
     {
       "ID": "TouchGrass",
@@ -3270,7 +3275,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1066,
+      "Progressed": 1067,
       "Completed": 1
     }
   ],
@@ -3278,8 +3283,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-21T11:05:15.3285851+00:00",
+  "LastChanged_Achievements": "2023-12-21T12:06:31.9756099+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-21T10:59:54.5292732+00:00",
-  "LastUpdate_Achievements": "2023-12-21T11:05:15.3286297+00:00"
+  "LastUpdate_Ratings": "2023-12-21T12:01:24.4863813+00:00",
+  "LastUpdate_Achievements": "2023-12-21T12:06:31.9756568+00:00"
 }

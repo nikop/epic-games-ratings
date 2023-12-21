@@ -507,9 +507,9 @@
       "ID": "fw2",
       "SetID": "b1ggf28",
       "Name": "Administrator",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "fw3",
@@ -555,9 +555,9 @@
       "ID": "j2",
       "SetID": "b1ggf28",
       "Name": "Well-Read",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "j3",
@@ -571,9 +571,9 @@
       "ID": "jg1",
       "SetID": "b1ggf28",
       "Name": "Infrastructure",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "jg2",
@@ -667,9 +667,9 @@
       "ID": "m1",
       "SetID": "b1ggf28",
       "Name": "Animal Imports",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "m2",
@@ -834,8 +834,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-21T11:03:17.2794854+00:00",
+  "LastChanged_Achievements": "2023-12-21T12:03:56.2260832+00:00",
   "LastUpdate_AppInfo": "2023-12-20T04:56:56.1414311+00:00",
-  "LastUpdate_Ratings": "2023-12-21T11:02:46.3782104+00:00",
-  "LastUpdate_Achievements": "2023-12-21T11:03:17.2795338+00:00"
+  "LastUpdate_Ratings": "2023-12-21T12:03:11.5153441+00:00",
+  "LastUpdate_Achievements": "2023-12-21T12:03:56.2261235+00:00"
 }
