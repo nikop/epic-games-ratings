@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -311,7 +311,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3611,
+  "EOS_Progressed": 3612,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
@@ -6776,6 +6776,11 @@
       "Time": "2023-12-21T08:04:49.6037749+00:00",
       "NumProgressed": 3611,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T10:04:07.1937767+00:00",
+      "NumProgressed": 3612,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -6793,9 +6798,9 @@
       "ID": "ACH_BASE_10",
       "SetID": "92iocjf",
       "Name": "Man\u0027s Best Friend",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 325
+      "UsersEstimate": 289
     },
     {
       "ID": "ACH_BASE_11",
@@ -6867,7 +6872,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "ACH_BASE_21",
@@ -6875,7 +6880,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1084
     },
     {
       "ID": "ACH_BASE_22",
@@ -7242,13 +7247,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1795,
+      "Progressed": 1796,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3611,
+      "Progressed": 3612,
       "Completed": 0
     }
   ],
@@ -7256,8 +7261,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-10T20:59:24.4447628+00:00",
-  "LastChanged_Achievements": "2023-12-21T09:04:28.4884339+00:00",
+  "LastChanged_Achievements": "2023-12-21T10:04:07.193776+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.6786359+00:00",
   "LastUpdate_Ratings": "2023-12-21T09:02:46.366759+00:00",
-  "LastUpdate_Achievements": "2023-12-21T09:04:28.4885154+00:00"
+  "LastUpdate_Achievements": "2023-12-21T10:04:07.1938426+00:00"
 }

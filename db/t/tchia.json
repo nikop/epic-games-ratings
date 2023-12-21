@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -257,7 +257,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8154,
+  "EOS_Progressed": 8156,
   "EOS_Completed": 34,
   "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
@@ -9567,6 +9567,11 @@
       "Time": "2023-12-21T09:06:07.7825366+00:00",
       "NumProgressed": 8154,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-21T10:05:39.9979844+00:00",
+      "NumProgressed": 8156,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -9578,7 +9583,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "ARRR",
@@ -9626,7 +9631,7 @@
       "Name": "Energy Saver",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -9682,7 +9687,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1712
+      "UsersEstimate": 1713
     },
     {
       "ID": "LIBERATOR",
@@ -9745,7 +9750,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 8154,
+      "Progressed": 8156,
       "Completed": 34
     }
   ],
@@ -9753,8 +9758,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-12-17T08:57:44.8415466+00:00",
-  "LastChanged_Achievements": "2023-12-21T09:06:07.7825364+00:00",
+  "LastChanged_Achievements": "2023-12-21T10:05:39.997984+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:46.5620941+00:00",
-  "LastUpdate_Ratings": "2023-12-21T08:59:33.2486733+00:00",
-  "LastUpdate_Achievements": "2023-12-21T09:06:07.782583+00:00"
+  "LastUpdate_Ratings": "2023-12-21T09:59:17.366596+00:00",
+  "LastUpdate_Achievements": "2023-12-21T10:05:39.9980377+00:00"
 }

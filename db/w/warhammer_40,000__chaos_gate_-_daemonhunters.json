@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -795,9 +795,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3498,
+  "EOS_Progressed": 3500,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4580,6 +4580,11 @@
       "Time": "2023-12-21T06:06:13.6468131+00:00",
       "NumProgressed": 3498,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T10:06:10.4840105+00:00",
+      "NumProgressed": 3500,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4591,7 +4596,7 @@
       "Name": "Arsenal of Destruction",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "AugmeticKnight",
@@ -4623,7 +4628,7 @@
       "Name": "Crisis Management",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "CampaignVictory_GrandMaster",
@@ -4631,7 +4636,7 @@
       "Name": "Grand Master",
       "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "CampaignVictory_Legendary",
@@ -4639,7 +4644,7 @@
       "Name": "Legend of Titan",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "CampaignVictory_NoFlowering",
@@ -4663,7 +4668,7 @@
       "Name": "Dominus",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "DroneArmy",
@@ -4671,7 +4676,7 @@
       "Name": "Drone Army",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ExperiencedKnight",
@@ -4703,7 +4708,7 @@
       "Name": "Fleetmaster",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ForTheMachineGod",
@@ -4711,7 +4716,7 @@
       "Name": "For the Machine God",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "FrequentWarpSurges",
@@ -4807,7 +4812,7 @@
       "Name": "Opportunist",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Kills_Knockback",
@@ -4879,7 +4884,7 @@
       "Name": "Master of the Forge",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "MissionVictory_Apothecaries",
@@ -4887,7 +4892,7 @@
       "Name": "Field Apothecarion",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "MissionVictory_Duo",
@@ -4895,7 +4900,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "MissionVictory_Interceptors",
@@ -4943,7 +4948,7 @@
       "Name": "Firing Squad",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "MissionVictory_WoundedKnights",
@@ -4967,7 +4972,7 @@
       "Name": "Not a Mote of Corruption",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "OnlyInDeath",
@@ -5023,7 +5028,7 @@
       "Name": "Death Comes For All",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "SacristaCompleted",
@@ -5111,7 +5116,7 @@
       "Name": "Suffer Not the Mutant",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "MissionVictory_BoardingAction",
@@ -5134,21 +5139,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3498,
+      "Progressed": 3500,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3498,
+      "Progressed": 3500,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-16T13:05:46.2808+00:00",
-  "LastChanged_Achievements": "2023-12-21T09:06:40.804801+00:00",
+  "LastChanged_Achievements": "2023-12-21T10:06:10.4840101+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:54.7152084+00:00",
-  "LastUpdate_Ratings": "2023-12-21T09:03:21.5164083+00:00",
-  "LastUpdate_Achievements": "2023-12-21T09:06:40.8048593+00:00"
+  "LastUpdate_Ratings": "2023-12-21T10:03:04.9893956+00:00",
+  "LastUpdate_Achievements": "2023-12-21T10:06:10.4840706+00:00"
 }

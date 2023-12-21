@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 167,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 733,
+  "EOS_Progressed": 734,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 327,
+  "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.09,
   "EosHistory": [
@@ -2563,6 +2563,11 @@
       "Time": "2023-12-21T07:09:41.3662038+00:00",
       "NumProgressed": 733,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-21T10:09:04.3344832+00:00",
+      "NumProgressed": 734,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -2575,7 +2580,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "achievement_10",
@@ -2647,7 +2652,7 @@
       "Name": "Man-Machine Master",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "achievement_19",
@@ -2703,15 +2708,15 @@
       "Name": "Single Minded",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "achievement_25",
       "SetID": "2cpn27e",
       "Name": "Volatile Vocation",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 81
+      "UsersEstimate": 73
     },
     {
       "ID": "achievement_26",
@@ -2727,7 +2732,7 @@
       "Name": "Mighty Marmelizer",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "achievement_28",
@@ -2743,7 +2748,7 @@
       "Name": "Fair Means or Foul",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "achievement_3",
@@ -2751,7 +2756,7 @@
       "Name": "Bonds of Enmity",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "achievement_30",
@@ -2767,7 +2772,7 @@
       "Name": "Snare Specialist",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "achievement_32",
@@ -2879,7 +2884,7 @@
       "Name": "Artful Assister",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "achievement_45",
@@ -2901,9 +2906,9 @@
       "ID": "achievement_47",
       "SetID": "2cpn27e",
       "Name": "Threaded Harmony",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 125
+      "UsersEstimate": 117
     },
     {
       "ID": "achievement_48",
@@ -2927,7 +2932,7 @@
       "Name": "Commencing of Quests",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_7",
@@ -2935,7 +2940,7 @@
       "Name": "Budding Conjuror",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "achievement_8",
@@ -2958,13 +2963,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 733,
+      "Progressed": 734,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-21T09:09:12.2241856+00:00",
+  "LastChanged_Achievements": "2023-12-21T10:09:04.3344826+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:11.6761115+00:00",
-  "LastUpdate_Ratings": "2023-12-21T08:57:28.6318134+00:00",
-  "LastUpdate_Achievements": "2023-12-21T09:09:12.2242247+00:00"
+  "LastUpdate_Ratings": "2023-12-21T09:57:22.8121647+00:00",
+  "LastUpdate_Achievements": "2023-12-21T10:09:04.3345412+00:00"
 }

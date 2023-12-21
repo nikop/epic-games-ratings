@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 549,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 289,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
     "PcReleaseDate": "2016-08-23T05:00:00+00:00",
@@ -578,9 +578,9 @@
       "ID": "NEW_ACHIEVEMENT_2_2",
       "SetID": "7on801h",
       "Name": "Samizdat",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_20",
@@ -895,8 +895,8 @@
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2023-12-21T09:03:40.276775+00:00",
+  "LastChanged_Achievements": "2023-12-21T10:03:22.9206841+00:00",
   "LastUpdate_AppInfo": "2023-12-20T16:57:12.9726855+00:00",
-  "LastUpdate_Ratings": "2023-12-21T08:57:34.4385717+00:00",
-  "LastUpdate_Achievements": "2023-12-21T09:03:40.2768664+00:00"
+  "LastUpdate_Ratings": "2023-12-21T09:57:28.2560038+00:00",
+  "LastUpdate_Achievements": "2023-12-21T10:03:22.9207597+00:00"
 }

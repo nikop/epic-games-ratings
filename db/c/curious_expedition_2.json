@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 317,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
     "PcReleaseDate": "2021-01-28T00:00:00+00:00",
@@ -509,9 +509,9 @@
       "ID": "ach-ascension-complete-year",
       "SetID": "17ih7ma",
       "Name": "The New Director",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 52
     },
     {
       "ID": "ach-ascension-complete-years",
@@ -958,8 +958,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-12-21T09:10:10.37041+00:00",
+  "LastChanged_Achievements": "2023-12-21T10:09:58.4484369+00:00",
   "LastUpdate_AppInfo": "2023-12-16T13:57:07.0437312+00:00",
-  "LastUpdate_Ratings": "2023-12-21T09:00:28.1214775+00:00",
-  "LastUpdate_Achievements": "2023-12-21T09:10:10.3704459+00:00"
+  "LastUpdate_Ratings": "2023-12-21T10:00:07.725801+00:00",
+  "LastUpdate_Achievements": "2023-12-21T10:09:58.4484744+00:00"
 }

@@ -2456,9 +2456,9 @@
       "ID": "BasiliskBroom",
       "SetID": "db30heh",
       "Name": "Sweeping Prop",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 146
+      "UsersEstimate": 152
     },
     {
       "ID": "BasiliskFishingRod",
@@ -2552,9 +2552,9 @@
       "ID": "DevilPriest",
       "SetID": "db30heh",
       "Name": "Deal with the Devil",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 432
+      "UsersEstimate": 438
     },
     {
       "ID": "DevilRope",
@@ -2815,8 +2815,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-12-21T09:04:40.0973874+00:00",
+  "LastChanged_Achievements": "2023-12-21T10:04:17.9783869+00:00",
   "LastUpdate_AppInfo": "2023-12-20T02:56:49.0129985+00:00",
-  "LastUpdate_Ratings": "2023-12-21T08:59:02.1190633+00:00",
-  "LastUpdate_Achievements": "2023-12-21T09:04:40.0974264+00:00"
+  "LastUpdate_Ratings": "2023-12-21T09:58:49.0899181+00:00",
+  "LastUpdate_Achievements": "2023-12-21T10:04:17.9784275+00:00"
 }

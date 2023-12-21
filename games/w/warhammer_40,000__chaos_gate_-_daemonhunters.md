@@ -37,16 +37,16 @@ Number of Ratings: 371  (23.09.2022)
 | Long Distance Call | 1.00% | ~35 |
 | Tactical Flexibility | 1.00% | ~35 |
 | Tactical Sabotage | 1.00% | ~35 |
-| Fleetmaster | 0.90% | ~31 |
-| For the Machine God | 0.90% | ~31 |
-| Death Comes For All | 0.90% | ~31 |
+| Fleetmaster | 0.90% | ~32 |
+| For the Machine God | 0.90% | ~32 |
+| Death Comes For All | 0.90% | ~32 |
 | Patron of Deimos | 0.80% | ~28 |
 | Engine Kill | 0.80% | ~28 |
 | Hands-On Research | 0.70% | ~24 |
 | Harvest No More | 0.70% | ~24 |
 | Strike Force | 0.60% | ~21 |
 | True Mastery | 0.60% | ~21 |
-| Suffer Not the Mutant | 0.50% | ~17 |
+| Suffer Not the Mutant | 0.50% | ~18 |
 | Exercise in Restraint | 0.40% | ~14 |
 | Reign of Confusion | 0.40% | ~14 |
 | Blood and Iron | 0.30% | ~10 |
@@ -60,22 +60,22 @@ Number of Ratings: 371  (23.09.2022)
 | Strategic Command | 0.20% | ~7 |
 | Deadshot | 0.20% | ~7 |
 | Terminal Meltdown | 0.20% | ~7 |
-| Arsenal of Destruction | 0.10% | ~3 |
-| Crisis Management | 0.10% | ~3 |
-| Grand Master | 0.10% | ~3 |
-| Legend of Titan | 0.10% | ~3 |
-| Dominus | 0.10% | ~3 |
-| Drone Army | 0.10% | ~3 |
-| Opportunist | 0.10% | ~3 |
-| Master of the Forge | 0.10% | ~3 |
-| Field Apothecarion | 0.10% | ~3 |
-| Brothers in Arms | 0.10% | ~3 |
-| Firing Squad | 0.10% | ~3 |
-| Not a Mote of Corruption | 0.10% | ~3 |
+| Arsenal of Destruction | 0.10% | ~4 |
+| Crisis Management | 0.10% | ~4 |
+| Grand Master | 0.10% | ~4 |
+| Legend of Titan | 0.10% | ~4 |
+| Dominus | 0.10% | ~4 |
+| Drone Army | 0.10% | ~4 |
+| Opportunist | 0.10% | ~4 |
+| Master of the Forge | 0.10% | ~4 |
+| Field Apothecarion | 0.10% | ~4 |
+| Brothers in Arms | 0.10% | ~4 |
+| Firing Squad | 0.10% | ~4 |
+| Not a Mote of Corruption | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,498 (Ranked 215)  
+Progressed: 3,500 (Ranked 215)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 3,464 | 0 |
 | 2023-12-19 | 3,477 | 0 |
 | 2023-12-20 | 3,493 | 0 |
-| 2023-12-21 | 3,498 | 0 |
+| 2023-12-21 | 3,500 | 0 |
 ## Awards
 Max (Character Customization): 229  (Ranked 279)  
 Sum: 490 (Ranked 333)  

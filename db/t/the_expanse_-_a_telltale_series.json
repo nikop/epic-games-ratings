@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16973,
+  "EOS_Progressed": 16978,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 816,
+  "EOS_NewPlayers": 819,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -14610,6 +14610,11 @@
       "Time": "2023-12-21T09:05:30.5332457+00:00",
       "NumProgressed": 16973,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-12-21T10:05:04.5973499+00:00",
+      "NumProgressed": 16978,
+      "NumCompleted": 46
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14654,7 +14659,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2376
+      "UsersEstimate": 2377
     },
     {
       "ID": "14",
@@ -14678,7 +14683,7 @@
       "Name": "Drug Gifter",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "17",
@@ -14742,7 +14747,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "24",
@@ -14798,7 +14803,7 @@
       "Name": "Captain Drummer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1697
+      "UsersEstimate": 1698
     },
     {
       "ID": "30",
@@ -14806,7 +14811,7 @@
       "Name": "No Belter Left Behind",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "4",
@@ -14822,7 +14827,7 @@
       "Name": "Data Master",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "6",
@@ -14878,7 +14883,7 @@
       "Name": "Zen Master",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "34",
@@ -14886,7 +14891,7 @@
       "Name": "Master Negotiator",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "35",
@@ -14901,13 +14906,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16973,
+      "Progressed": 16978,
       "Completed": 46
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2927,
+      "Progressed": 2932,
       "Completed": 976
     }
   ],
@@ -14915,8 +14920,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-21T04:02:39.716899+00:00",
-  "LastChanged_Achievements": "2023-12-21T09:05:30.5332453+00:00",
+  "LastChanged_Achievements": "2023-12-21T10:05:04.5973493+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:40.0929133+00:00",
-  "LastUpdate_Ratings": "2023-12-21T09:02:50.0542967+00:00",
-  "LastUpdate_Achievements": "2023-12-21T09:05:30.533335+00:00"
+  "LastUpdate_Ratings": "2023-12-21T10:02:36.1066799+00:00",
+  "LastUpdate_Achievements": "2023-12-21T10:05:04.5974698+00:00"
 }

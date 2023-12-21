@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -1608,9 +1608,9 @@
       "ID": "SUB_CLEAR_ISLAND3",
       "SetID": "apihg0e",
       "Name": "Chaos Island Expert",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 10
     },
     {
       "ID": "SUB_CLEAR_ISLAND4",
@@ -1639,8 +1639,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-21T09:03:53.3539862+00:00",
+  "LastChanged_Achievements": "2023-12-21T10:03:34.7479495+00:00",
   "LastUpdate_AppInfo": "2023-12-19T19:57:15.6866052+00:00",
-  "LastUpdate_Ratings": "2023-12-21T09:03:19.1002638+00:00",
-  "LastUpdate_Achievements": "2023-12-21T09:03:53.3540223+00:00"
+  "LastUpdate_Ratings": "2023-12-21T10:03:02.7156902+00:00",
+  "LastUpdate_Achievements": "2023-12-21T10:03:34.7480092+00:00"
 }

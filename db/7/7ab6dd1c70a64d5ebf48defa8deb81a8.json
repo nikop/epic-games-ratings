@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 956,
+  "EOS_Progressed": 958,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 650,
   "EOS_NewCompleters": 0,
@@ -1955,6 +1955,11 @@
       "Time": "2023-12-21T09:10:07.0685977+00:00",
       "NumProgressed": 956,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-21T10:09:55.2891689+00:00",
+      "NumProgressed": 958,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -1966,7 +1971,7 @@
       "Name": "Break Out",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "ACH_02",
@@ -2036,9 +2041,9 @@
       "ID": "ACH_10",
       "SetID": "efe2lj",
       "Name": "Trinity",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 210
+      "UsersEstimate": 220
     },
     {
       "ID": "ACH_11",
@@ -2078,7 +2083,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ACH_16",
@@ -2086,7 +2091,7 @@
       "Name": "Essence Blow",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_17",
@@ -2166,7 +2171,7 @@
       "Name": "Scholar",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ACH_27",
@@ -2220,9 +2225,9 @@
       "ID": "ACH_34",
       "SetID": "efe2lj",
       "Name": "The Collector",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 163
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_35",
@@ -2253,14 +2258,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 956,
+      "Progressed": 958,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-21T09:10:07.0685975+00:00",
+  "LastChanged_Achievements": "2023-12-21T10:09:55.2891685+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
-  "LastUpdate_Ratings": "2023-12-21T08:58:08.6956718+00:00",
-  "LastUpdate_Achievements": "2023-12-21T09:10:07.0686233+00:00"
+  "LastUpdate_Ratings": "2023-12-21T09:58:01.0842514+00:00",
+  "LastUpdate_Achievements": "2023-12-21T10:09:55.2891947+00:00"
 }

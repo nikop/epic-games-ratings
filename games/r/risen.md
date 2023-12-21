@@ -5,9 +5,9 @@ Rating: 4.56 (Ranked 498)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 91.00% | ~94 |
+| Beginner | 92.00% | ~95 |
 | Map reader | 71.00% | ~73 |
-| Adventurer | 66.00% | ~68 |
+| Adventurer | 67.00% | ~69 |
 | Philanthropist | 65.00% | ~67 |
 | The brave little tailor | 50.00% | ~52 |
 | Archer | 50.00% | ~52 |
@@ -27,14 +27,14 @@ Rating: 4.56 (Ranked 498)
 | The fourth triplet | 20.00% | ~21 |
 | Sidelined | 20.00% | ~21 |
 | Little hero | 19.00% | ~20 |
-| Hard worker | 18.00% | ~19 |
+| Hard worker | 19.00% | ~20 |
 | Fence | 18.00% | ~19 |
 | Pandora's box | 17.00% | ~18 |
 | Ghost hunter | 17.00% | ~18 |
 | Peacekeeper | 17.00% | ~18 |
 | Master detective | 17.00% | ~18 |
+| Workaholic | 15.00% | ~15 |
 | Defender | 14.00% | ~14 |
-| Workaholic | 14.00% | ~14 |
 | Showdown | 13.00% | ~13 |
 | Safecracker | 13.00% | ~13 |
 | Master thief | 13.00% | ~13 |
@@ -53,7 +53,7 @@ Rating: 4.56 (Ranked 498)
 | Mage | 2.00% | ~2 |
 | Sharpshooter | 2.00% | ~2 |
 | Gladiator | 1.00% | ~1 |
-| Master of the classes | 0.00% | ~0 |
+| Master of the classes | 1.00% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 103 (Ranked 465)  

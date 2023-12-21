@@ -3,9 +3,9 @@
   "Name": "Clash - Artifacts of Chaos",
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
   "Ranking_EOS_Progress": 441,
-  "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 367,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 190,
+  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
     "PcReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 129,
+  "EOS_Progressed": 130,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.78,
+  "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:21.1984631+00:00",
@@ -386,6 +386,11 @@
       "Time": "2023-12-20T21:10:05.6953398+00:00",
       "NumProgressed": 129,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T10:09:53.4329302+00:00",
+      "NumProgressed": 130,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 21,
@@ -411,9 +416,9 @@
       "ID": "Achievement11",
       "SetID": "jf6ho5",
       "Name": "Your Training Continues",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 36
     },
     {
       "ID": "Achievement12",
@@ -429,7 +434,7 @@
       "Name": "Armor Collector",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Achievement14",
@@ -443,7 +448,7 @@
       "ID": "Achievement15",
       "SetID": "jf6ho5",
       "Name": "Target Practice",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
       "UsersEstimate": 55
     },
@@ -469,7 +474,7 @@
       "Name": "Over the Moon",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "Achievement19",
@@ -477,7 +482,7 @@
       "Name": "Corwid Hill",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Achievement2",
@@ -485,7 +490,7 @@
       "Name": "Winner",
       "Percentage": 22,
       "XP": 35,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Achievement20",
@@ -501,7 +506,7 @@
       "Name": "Stilt House",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Achievement3",
@@ -509,7 +514,7 @@
       "Name": "Enemies of Fate",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "Achievement4",
@@ -564,7 +569,7 @@
     {
       "ID": "jf6ho5",
       "IsBase": true,
-      "Progressed": 129,
+      "Progressed": 130,
       "Completed": 1
     }
   ],
@@ -572,8 +577,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-12-21T09:10:05.1414657+00:00",
+  "LastChanged_Achievements": "2023-12-21T10:09:53.4329298+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:10.316662+00:00",
-  "LastUpdate_Ratings": "2023-12-21T08:58:33.5732196+00:00",
-  "LastUpdate_Achievements": "2023-12-21T09:10:05.1414773+00:00"
+  "LastUpdate_Ratings": "2023-12-21T09:58:23.37765+00:00",
+  "LastUpdate_Achievements": "2023-12-21T10:09:53.4329411+00:00"
 }

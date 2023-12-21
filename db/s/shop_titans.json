@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -7669,10 +7669,10 @@
       "Count": 3800
     }
   ],
-  "EOS_Progressed": 146638,
+  "EOS_Progressed": 146643,
   "EOS_Completed": 326,
-  "EOS_NewPlayers": 1414,
-  "EOS_NewCompleters": 25,
+  "EOS_NewPlayers": 1411,
+  "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
     {
@@ -33304,6 +33304,11 @@
       "Time": "2023-12-21T09:04:30.4168017+00:00",
       "NumProgressed": 146638,
       "NumCompleted": 326
+    },
+    {
+      "Time": "2023-12-21T10:04:09.0160792+00:00",
+      "NumProgressed": 146643,
+      "NumCompleted": 326
     }
   ],
   "TotalAchievements": 112,
@@ -33467,7 +33472,7 @@
       "Name": "Bane of Legends",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1026
+      "UsersEstimate": 1027
     },
     {
       "ID": "champions01",
@@ -33483,7 +33488,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13197
+      "UsersEstimate": 13198
     },
     {
       "ID": "chest02",
@@ -33579,7 +33584,7 @@
       "Name": "Disintermediation",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8798
+      "UsersEstimate": 8799
     },
     {
       "ID": "craft02",
@@ -33691,7 +33696,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8798
+      "UsersEstimate": 8799
     },
     {
       "ID": "expansion02",
@@ -33963,7 +33968,7 @@
       "Name": "Anything not Nailed Down",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1026
+      "UsersEstimate": 1027
     },
     {
       "ID": "master01",
@@ -34091,7 +34096,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8798
+      "UsersEstimate": 8799
     },
     {
       "ID": "sell02",
@@ -34210,15 +34215,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 146638,
+      "Progressed": 146643,
       "Completed": 326
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-20T22:03:30.2300466+00:00",
-  "LastChanged_Achievements": "2023-12-21T09:04:30.4168014+00:00",
+  "LastChanged_Achievements": "2023-12-21T10:04:09.0160787+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.001195+00:00",
-  "LastUpdate_Ratings": "2023-12-21T09:03:24.0567578+00:00",
-  "LastUpdate_Achievements": "2023-12-21T09:04:30.4170809+00:00"
+  "LastUpdate_Ratings": "2023-12-21T10:03:07.4722495+00:00",
+  "LastUpdate_Achievements": "2023-12-21T10:04:09.0163176+00:00"
 }

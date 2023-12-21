@@ -3453,10 +3453,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3274,
       "NumberOfAwardsMax": 442
+    },
+    {
+      "Time": "2023-12-21T09:59:46.5641875+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3275,
+      "NumberOfAwardsMax": 442
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3274,
+  "NumberOfAwards": 3275,
   "NumberOfAwardsMax": 442,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3470,7 +3476,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 438
+      "Count": 439
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3521,9 +3527,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18796,
+  "EOS_Progressed": 18799,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 717,
+  "EOS_NewPlayers": 719,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16526,6 +16532,11 @@
       "Time": "2023-12-21T08:08:02.6475095+00:00",
       "NumProgressed": 18796,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-21T10:06:27.1774926+00:00",
+      "NumProgressed": 18799,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16824,9 +16835,9 @@
       "ID": "WinOnMoorlands",
       "SetID": "cfbk359",
       "Name": "The Scarlet Orchard",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 564
     },
     {
       "ID": "WinPrestige10",
@@ -17009,15 +17020,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18796,
+      "Progressed": 18799,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-12-20T12:59:24.808106+00:00",
-  "LastChanged_Achievements": "2023-12-21T09:06:59.4130638+00:00",
+  "LastChanged": "2023-12-21T09:59:46.5641873+00:00",
+  "LastChanged_Achievements": "2023-12-21T10:06:27.177492+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
-  "LastUpdate_Ratings": "2023-12-21T09:00:04.8419137+00:00",
-  "LastUpdate_Achievements": "2023-12-21T09:06:59.4131807+00:00"
+  "LastUpdate_Ratings": "2023-12-21T09:59:46.5641878+00:00",
+  "LastUpdate_Achievements": "2023-12-21T10:06:27.1775801+00:00"
 }

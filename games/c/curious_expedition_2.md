@@ -33,8 +33,8 @@ Number of Ratings: 20  (23.09.2022)
 | Practical Palaeontology | 16.00% | ~59 |
 | Adventurer | 15.00% | ~55 |
 | Dapper | 15.00% | ~55 |
+| The New Director | 14.00% | ~52 |
 | Plays Well With Others | 14.00% | ~52 |
-| The New Director | 13.00% | ~48 |
 | The Director is Dead | 13.00% | ~48 |
 | And Here Is Your Statue | 13.00% | ~48 |
 | Discovery | 13.00% | ~48 |

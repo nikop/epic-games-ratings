@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -45,9 +45,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1052,
+  "EOS_Progressed": 1053,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -2925,6 +2925,11 @@
       "Time": "2023-12-21T09:09:58.4566006+00:00",
       "NumProgressed": 1052,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-21T10:09:47.354416+00:00",
+      "NumProgressed": 1053,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2944,7 +2949,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -2968,7 +2973,7 @@
       "Name": "Right On Time",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ClockworkCompletion1",
@@ -2984,7 +2989,7 @@
       "Name": "Like Clockwork",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ClovemaryGift",
@@ -3054,9 +3059,9 @@
       "ID": "FutureEkko1Defeated",
       "SetID": "a9e499d",
       "Name": "The Mysterious Stranger",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 295
+      "UsersEstimate": 305
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -3064,7 +3069,7 @@
       "Name": "The Betrayer",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -3120,7 +3125,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "LacunaCompleted",
@@ -3166,9 +3171,9 @@
       "ID": "NoRewindCamille",
       "SetID": "a9e499d",
       "Name": "A Lesson in Precision",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 60,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "ParallelConvergenceMultiHit1",
@@ -3184,7 +3189,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "ParryRepeated1",
@@ -3200,7 +3205,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -3232,7 +3237,7 @@
       "Name": "Honest Mistake",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "ScrambotCompletion1",
@@ -3248,7 +3253,7 @@
       "Name": "Golem Chaser",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "SkillCompletion1",
@@ -3264,7 +3269,7 @@
       "Name": "Fast Learner",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "SpeedRun",
@@ -3312,7 +3317,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "WarwickDefeated",
@@ -3320,7 +3325,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "WatcherFought",
@@ -3344,7 +3349,7 @@
       "Name": "The Brass Boss",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "Zarkon2Defeated",
@@ -3352,14 +3357,14 @@
       "Name": "The Family Fortune",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1052,
+      "Progressed": 1053,
       "Completed": 6
     }
   ],
@@ -3367,8 +3372,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-18T08:57:59.1291337+00:00",
-  "LastChanged_Achievements": "2023-12-21T09:09:58.4566003+00:00",
+  "LastChanged_Achievements": "2023-12-21T10:09:47.3544155+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.1550939+00:00",
-  "LastUpdate_Ratings": "2023-12-21T08:59:55.1410367+00:00",
-  "LastUpdate_Achievements": "2023-12-21T09:09:58.4566542+00:00"
+  "LastUpdate_Ratings": "2023-12-21T09:59:37.5664826+00:00",
+  "LastUpdate_Achievements": "2023-12-21T10:09:47.3544582+00:00"
 }

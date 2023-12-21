@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
     "PcReleaseDate": "2018-11-06T17:00:00+00:00",
@@ -639,9 +639,9 @@
       "ID": "a_woman_scorned",
       "SetID": "2db2j74",
       "Name": "A Woman Scorned",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 80
     },
     {
       "ID": "book_em_danny",
@@ -767,9 +767,9 @@
       "ID": "strong_silent_type",
       "SetID": "2db2j74",
       "Name": "Strong Silent Type",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 252
     },
     {
       "ID": "the_big_sleep",
@@ -816,8 +816,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-12-21T09:08:42.8427135+00:00",
+  "LastChanged_Achievements": "2023-12-21T10:08:36.9388443+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:54.0210156+00:00",
-  "LastUpdate_Ratings": "2023-12-21T09:03:20.3702603+00:00",
-  "LastUpdate_Achievements": "2023-12-21T09:08:42.8427258+00:00"
+  "LastUpdate_Ratings": "2023-12-21T10:03:03.8515127+00:00",
+  "LastUpdate_Achievements": "2023-12-21T10:08:36.9388595+00:00"
 }

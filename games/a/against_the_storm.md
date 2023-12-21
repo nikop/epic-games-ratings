@@ -18,13 +18,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Overcoming Difficulty | 3.00% | ~564 |
 | Coral Forest | 3.00% | ~564 |
 | The Marshlands | 3.00% | ~564 |
+| The Scarlet Orchard | 3.00% | ~564 |
 | Land of Greed | 3.00% | ~564 |
 | Homesick | 2.00% | ~376 |
 | Fertile Meadows | 2.00% | ~376 |
 | Monastery of the Holy Flame | 2.00% | ~376 |
 | Royal Outpost | 2.00% | ~376 |
 | Watchtower | 2.00% | ~376 |
-| The Scarlet Orchard | 2.00% | ~376 |
 | Untamed Wilds | 2.00% | ~376 |
 | Ruined Armory | 1.00% | ~188 |
 | Bandit Camp | 1.00% | ~188 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,796 (Ranked 148)  
+Progressed: 18,799 (Ranked 148)  
 Completed: 39 (0.21%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,15 +311,15 @@ Completed: 39 (0.21%) (Ranked 268)
 | 2023-12-18 | 18,615 | 39 |
 | 2023-12-19 | 18,687 | 39 |
 | 2023-12-20 | 18,771 | 39 |
-| 2023-12-21 | 18,796 | 39 |
+| 2023-12-21 | 18,799 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 228)  
-Sum: 3,274 (Ranked 175)  
+Sum: 3,275 (Ranked 175)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 442 |
-| This game is Relaxing | 438 |
+| This game is Relaxing | 439 |
 | This game is Great for Beginners | 430 |
 | This game is Extremely Fun | 411 |
 | This game is Highly Recommended | 394 |
@@ -591,3 +591,4 @@ Diff (max vs sum): 53
 | 2023-12-18 | 4.82 | - | 442 | 3,268 |
 | 2023-12-19 | 4.82 | - | 442 | 3,273 |
 | 2023-12-20 | 4.82 | - | 442 | 3,274 |
+| 2023-12-21 | 4.82 | - | 442 | 3,275 |

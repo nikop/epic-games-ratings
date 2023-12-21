@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Strong Silent Type | 91.00% | ~252 |
 | Play It Again Sam | 90.00% | ~249 |
-| Strong Silent Type | 90.00% | ~249 |
 | Play Me By The Hour | 69.00% | ~191 |
 | Patient Listener | 47.00% | ~130 |
 | Video Saved The Radio Star | 40.00% | ~111 |
 | Hashtag Winning | 38.00% | ~105 |
-| A Woman Scorned | 28.00% | ~78 |
+| A Woman Scorned | 29.00% | ~80 |
 | Look Mum I'm A Detective | 22.00% | ~61 |
 | Chameleon | 20.00% | ~55 |
 | Highlander | 17.00% | ~47 |

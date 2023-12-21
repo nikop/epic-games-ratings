@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Conscience | 37.00% | ~106 |
+| Clean Conscience | 38.00% | ~109 |
 | So it goes | 35.00% | ~100 |
-| A New Broom Sweeps Clean | 19.00% | ~54 |
+| A New Broom Sweeps Clean | 19.00% | ~55 |
 | Off to a Good Start | 16.00% | ~46 |
 | Small-time Finder | 16.00% | ~46 |
 | Business as usual | 13.00% | ~37 |
@@ -19,9 +19,9 @@
 | All the Stories | 3.00% | ~9 |
 | Something Rotten | 3.00% | ~9 |
 | Witness Protection | 3.00% | ~9 |
-| Blood Capade | 1.00% | ~3 |
-| The Crush And Smash The Dino Four | 1.00% | ~1 |
-| … Women Inherit The Earth | 1.00% | ~1 |
+| Blood Capade | 2.00% | ~6 |
+| The Crush And Smash The Dino Four | 1.00% | ~2 |
+| … Women Inherit The Earth | 1.00% | ~2 |
 | Bee Squat | 1.00% | ~3 |
 | Crazy SOB, You Did It | 0.70% | ~1 |
 | The Germophobes | 0.70% | ~2 |
@@ -29,8 +29,8 @@
 | Cha Cha Real Smooth | 0.30% | ~0 |
 | That’s One Big Pile | 0.30% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 286 (Ranked 377)  
-Completed: 6 (2.10%) (Ranked 134)  
+Progressed: 287 (Ranked 377)  
+Completed: 6 (2.09%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -109,7 +109,7 @@ Completed: 6 (2.10%) (Ranked 134)
 | 2023-12-17 | 281 | 6 |
 | 2023-12-18 | 282 | 6 |
 | 2023-12-20 | 285 | 6 |
-| 2023-12-21 | 286 | 6 |
+| 2023-12-21 | 287 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

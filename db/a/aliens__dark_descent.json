@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 325,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -459,9 +459,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 4674,
+  "EOS_Progressed": 4675,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 864,
+  "EOS_NewPlayers": 861,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -7194,6 +7194,11 @@
       "Time": "2023-12-21T09:04:30.6487637+00:00",
       "NumProgressed": 4674,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-21T10:04:09.2359563+00:00",
+      "NumProgressed": 4675,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -7205,7 +7210,7 @@
       "Name": "Archivist",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_ALL_MARINES_ALIVE",
@@ -7221,7 +7226,7 @@
       "Name": "One For Every Occasion",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "ACH_ALL_XENO_TECHS",
@@ -7245,7 +7250,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2103
+      "UsersEstimate": 2104
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -7253,7 +7258,7 @@
       "Name": "Omelette Du Fromage",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1355
+      "UsersEstimate": 1356
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -7269,7 +7274,7 @@
       "Name": "Fair And Square",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_FINISH_IRONMAN",
@@ -7301,7 +7306,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 3178
+      "UsersEstimate": 3179
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -7309,7 +7314,7 @@
       "Name": "Regicide",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "ACH_KILL_UNDETECTED",
@@ -7317,7 +7322,7 @@
       "Name": "Call Me Snake",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 2617
+      "UsersEstimate": 2618
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -7325,7 +7330,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 2804
+      "UsersEstimate": 2805
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -7389,7 +7394,7 @@
       "Name": "The Cable Guy",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "ACH_MISSION_01",
@@ -7437,7 +7442,7 @@
       "Name": "Living Nightmare",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1355
+      "UsersEstimate": 1356
     },
     {
       "ID": "ACH_MISSION_07",
@@ -7445,7 +7450,7 @@
       "Name": "The Darwin Era Was Here",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1216
     },
     {
       "ID": "ACH_MISSION_08",
@@ -7453,7 +7458,7 @@
       "Name": "Deep Into Insanity",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1169
     },
     {
       "ID": "ACH_MISSION_09",
@@ -7461,7 +7466,7 @@
       "Name": "The Passenger",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1169
     },
     {
       "ID": "ACH_MISSION_10",
@@ -7517,7 +7522,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2477
+      "UsersEstimate": 2478
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -7525,7 +7530,7 @@
       "Name": "People Person",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 2337
+      "UsersEstimate": 2338
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -7533,7 +7538,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1729
+      "UsersEstimate": 1730
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -7541,7 +7546,7 @@
       "Name": "Recouped Investment",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 1589
+      "UsersEstimate": 1590
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -7564,7 +7569,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 4674,
+      "Progressed": 4675,
       "Completed": 3
     }
   ],
@@ -7572,8 +7577,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-12-20T12:00:34.5216417+00:00",
-  "LastChanged_Achievements": "2023-12-21T09:04:30.6487635+00:00",
+  "LastChanged_Achievements": "2023-12-21T10:04:09.2359558+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:23.8354928+00:00",
-  "LastUpdate_Ratings": "2023-12-21T09:00:29.7027131+00:00",
-  "LastUpdate_Achievements": "2023-12-21T09:04:30.6488226+00:00"
+  "LastUpdate_Ratings": "2023-12-21T10:00:09.1493924+00:00",
+  "LastUpdate_Achievements": "2023-12-21T10:04:09.2360048+00:00"
 }

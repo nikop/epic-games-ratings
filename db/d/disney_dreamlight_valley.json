@@ -5433,7 +5433,7 @@
       "Count": 541
     }
   ],
-  "EOS_Progressed": 12910,
+  "EOS_Progressed": 12911,
   "EOS_Completed": 321,
   "EOS_NewPlayers": 351,
   "EOS_NewCompleters": 8,
@@ -22473,6 +22473,11 @@
       "Time": "2023-12-21T09:09:05.6765252+00:00",
       "NumProgressed": 12910,
       "NumCompleted": 321
+    },
+    {
+      "Time": "2023-12-21T10:08:58.5076389+00:00",
+      "NumProgressed": 12911,
+      "NumCompleted": 321
     }
   ],
   "TotalAchievements": 15,
@@ -22524,7 +22529,7 @@
       "Name": "Constructor",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 6584
+      "UsersEstimate": 6585
     },
     {
       "ID": "Duty_Bound",
@@ -22556,7 +22561,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 69,
       "XP": 75,
-      "UsersEstimate": 8908
+      "UsersEstimate": 8909
     },
     {
       "ID": "Miner",
@@ -22580,7 +22585,7 @@
       "Name": "Renovator",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 6584
+      "UsersEstimate": 6585
     },
     {
       "ID": "Thorn_Cleaner",
@@ -22596,14 +22601,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 61,
       "XP": 100,
-      "UsersEstimate": 7875
+      "UsersEstimate": 7876
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 12910,
+      "Progressed": 12911,
       "Completed": 321
     }
   ],
@@ -22611,8 +22616,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-12-20T22:59:53.1401343+00:00",
-  "LastChanged_Achievements": "2023-12-21T09:09:05.6765249+00:00",
+  "LastChanged_Achievements": "2023-12-21T10:08:58.5076381+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:26.6445497+00:00",
-  "LastUpdate_Ratings": "2023-12-21T09:00:37.0919343+00:00",
-  "LastUpdate_Achievements": "2023-12-21T09:09:05.6766106+00:00"
+  "LastUpdate_Ratings": "2023-12-21T10:00:16.8303668+00:00",
+  "LastUpdate_Achievements": "2023-12-21T10:08:58.5077204+00:00"
 }

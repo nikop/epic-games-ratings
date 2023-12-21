@@ -6,35 +6,35 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~260,335 |
-| Cavalier | 25.00% | ~203,387 |
-| Fatso | 23.00% | ~187,116 |
-| Awakening | 21.00% | ~170,845 |
-| Ranger | 20.00% | ~162,709 |
-| Scrooge | 20.00% | ~162,709 |
-| Anorectic | 16.00% | ~130,168 |
-| Firestarter | 16.00% | ~130,168 |
-| Bookworm | 15.00% | ~122,032 |
-| Insomniac | 13.00% | ~105,761 |
-| Buddy | 12.00% | ~97,626 |
-| Thief | 12.00% | ~97,626 |
-| Sinner | 11.00% | ~89,490 |
-| Traveller | 11.00% | ~89,490 |
-| Convict | 10.00% | ~81,355 |
-| Haggler | 9.00% | ~73,219 |
-| McLovin | 7.00% | ~56,948 |
-| Runt | 7.00% | ~56,948 |
+| Blacksmith's Son | 32.00% | ~260,338 |
+| Cavalier | 25.00% | ~203,389 |
+| Fatso | 23.00% | ~187,118 |
+| Awakening | 21.00% | ~170,847 |
+| Ranger | 20.00% | ~162,711 |
+| Scrooge | 20.00% | ~162,711 |
+| Anorectic | 16.00% | ~130,169 |
+| Firestarter | 16.00% | ~130,169 |
+| Bookworm | 15.00% | ~122,033 |
+| Insomniac | 13.00% | ~105,762 |
+| Buddy | 12.00% | ~97,627 |
+| Thief | 12.00% | ~97,627 |
+| Sinner | 11.00% | ~89,491 |
+| Traveller | 11.00% | ~89,491 |
+| Convict | 10.00% | ~81,356 |
+| Haggler | 9.00% | ~73,220 |
+| McLovin | 7.00% | ~56,949 |
+| Runt | 7.00% | ~56,949 |
 | Casanova | 6.00% | ~48,813 |
-| Bad Trip | 5.00% | ~40,677 |
-| Monk | 5.00% | ~40,677 |
-| Serial Killer | 5.00% | ~40,677 |
+| Bad Trip | 5.00% | ~40,678 |
+| Monk | 5.00% | ~40,678 |
+| Serial Killer | 5.00% | ~40,678 |
 | Bastard | 4.00% | ~32,542 |
 | Hunter | 4.00% | ~32,542 |
 | Plague Doctor | 4.00% | ~32,542 |
-| Bard | 3.00% | ~24,406 |
-| Conqueror | 3.00% | ~24,406 |
-| Ginger in a Pickle | 3.00% | ~24,406 |
-| Kingdom did not come | 3.00% | ~24,406 |
+| Bard | 3.00% | ~24,407 |
+| Conqueror | 3.00% | ~24,407 |
+| Ginger in a Pickle | 3.00% | ~24,407 |
+| Kingdom did not come | 3.00% | ~24,407 |
 | Completionist | 2.00% | ~16,271 |
 | Death by splinter | 2.00% | ~16,271 |
 | King Charming | 2.00% | ~16,271 |
@@ -44,13 +44,13 @@ Number of Ratings: 9,133  (23.09.2022)
 | Robber Baron | 2.00% | ~16,271 |
 | Talmberger | 2.00% | ~16,271 |
 | The End | 2.00% | ~16,271 |
-| Woman's Lot | 1.00% | ~8,135 |
-| Chivalrous Soul | 1.00% | ~8,135 |
-| Spoilsport | 1.00% | ~8,135 |
-| Freud | 1.00% | ~8,135 |
-| Gambler | 1.00% | ~8,135 |
-| Master Huntsman | 1.00% | ~8,135 |
-| Stealth Killer | 1.00% | ~8,135 |
+| Woman's Lot | 1.00% | ~8,136 |
+| Chivalrous Soul | 1.00% | ~8,136 |
+| Spoilsport | 1.00% | ~8,136 |
+| Freud | 1.00% | ~8,136 |
+| Gambler | 1.00% | ~8,136 |
+| Master Huntsman | 1.00% | ~8,136 |
+| Stealth Killer | 1.00% | ~8,136 |
 | Bailiff | 0.90% | ~7,322 |
 | Tracker | 0.90% | ~7,322 |
 | David Horak | 0.80% | ~6,508 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~814 |
 | Wingman | 0.10% | ~814 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 813,547 (Ranked 18)  
+Progressed: 813,556 (Ranked 18)  
 Completed: 52 (0.01%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,10 +334,10 @@ Completed: 52 (0.01%) (Ranked 361)
 | 2023-12-18 | 813,218 | 52 |
 | 2023-12-19 | 813,355 | 52 |
 | 2023-12-20 | 813,504 | 52 |
-| 2023-12-21 | 813,547 | 52 |
+| 2023-12-21 | 813,556 | 52 |
 ## Awards
 Max (Character Customization): 7,689  (Ranked 52)  
-Sum: 28,560 (Ranked 50)  
+Sum: 28,561 (Ranked 50)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -349,7 +349,7 @@ Diff (max vs sum): 2
 | This game is Highly Recommended | 1,713 |
 | This game is Extremely Fun | 1,706 |
 | This game has Realistic Visuals | 1,686 |
-| This game has Amazing Characters | 1,684 |
+| This game has Amazing Characters | 1,685 |
 | This game is Educational | 1,622 |
 | This game is Relaxing | 1,550 |
 | This game has Obsessive Gameplay | 1,048 |
@@ -684,3 +684,4 @@ Diff (max vs sum): 2
 | 2023-12-18 | 4.71 | - | 7,678 | 28,529 |
 | 2023-12-19 | 4.71 | - | 7,681 | 28,543 |
 | 2023-12-20 | 4.71 | - | 7,689 | 28,560 |
+| 2023-12-21 | 4.71 | - | 7,689 | 28,561 |

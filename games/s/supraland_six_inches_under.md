@@ -6,61 +6,61 @@ Number of Ratings: 209  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good Morning | 99.00% | ~2,353 |
-| Hit Rock Bottom | 97.00% | ~2,306 |
-| Rocket Launched | 97.00% | ~2,306 |
-| Speed | 97.00% | ~2,306 |
-| High Jump | 96.00% | ~2,282 |
-| Knee bending | 96.00% | ~2,282 |
-| Pickaxe | 94.00% | ~2,234 |
-| Force Beam | 93.00% | ~2,211 |
-| Entered Cage Town | 93.00% | ~2,211 |
-| Stone Pickaxe | 93.00% | ~2,211 |
-| Revenge | 93.00% | ~2,211 |
-| Cage Town | 93.00% | ~2,211 |
-| Surprise | 93.00% | ~2,211 |
-| Magnet | 90.00% | ~2,139 |
+| Good Morning | 99.00% | ~2,354 |
+| Hit Rock Bottom | 97.00% | ~2,307 |
+| Rocket Launched | 97.00% | ~2,307 |
+| Speed | 97.00% | ~2,307 |
+| High Jump | 96.00% | ~2,283 |
+| Knee bending | 96.00% | ~2,283 |
+| Pickaxe | 94.00% | ~2,235 |
+| Force Beam | 93.00% | ~2,212 |
+| Entered Cage Town | 93.00% | ~2,212 |
+| Stone Pickaxe | 93.00% | ~2,212 |
+| Revenge | 93.00% | ~2,212 |
+| Cage Town | 93.00% | ~2,212 |
+| Surprise | 93.00% | ~2,212 |
+| Magnet | 90.00% | ~2,140 |
 | Industrial Area | 89.00% | ~2,116 |
-| Magnet Repel | 88.00% | ~2,092 |
-| You feel middle classy | 87.00% | ~2,068 |
-| Boomeraxe | 87.00% | ~2,068 |
-| Iron Pickaxe | 87.00% | ~2,068 |
-| Banking District | 86.00% | ~2,044 |
-| Mission Unlikely | 86.00% | ~2,044 |
-| Arrested | 85.00% | ~2,020 |
-| Zappy Gun | 85.00% | ~2,020 |
-| Got your own one now | 85.00% | ~2,020 |
-| Don't draw dicks pls | 85.00% | ~2,020 |
-| Ripped | 84.00% | ~1,997 |
-| Beat the big arena | 83.00% | ~1,973 |
-| Force Cube | 82.00% | ~1,949 |
-| Got Battery | 81.00% | ~1,925 |
-| Guard Distracted | 81.00% | ~1,925 |
+| Magnet Repel | 88.00% | ~2,093 |
+| You feel middle classy | 87.00% | ~2,069 |
+| Boomeraxe | 87.00% | ~2,069 |
+| Iron Pickaxe | 87.00% | ~2,069 |
+| Banking District | 86.00% | ~2,045 |
+| Mission Unlikely | 86.00% | ~2,045 |
+| Arrested | 85.00% | ~2,021 |
+| Zappy Gun | 85.00% | ~2,021 |
+| Got your own one now | 85.00% | ~2,021 |
+| Don't draw dicks pls | 85.00% | ~2,021 |
+| Ripped | 84.00% | ~1,998 |
+| Beat the big arena | 83.00% | ~1,974 |
+| Force Cube | 82.00% | ~1,950 |
+| Got Battery | 81.00% | ~1,926 |
+| Guard Distracted | 81.00% | ~1,926 |
 | Translocator | 80.00% | ~1,902 |
-| Inner Peace | 78.00% | ~1,854 |
-| Diamond Pickaxe | 77.00% | ~1,830 |
-| Trickle Down Economy | 77.00% | ~1,830 |
+| Inner Peace | 78.00% | ~1,855 |
+| Diamond Pickaxe | 77.00% | ~1,831 |
+| Trickle Down Economy | 77.00% | ~1,831 |
 | Killed them all | 76.00% | ~1,807 |
 | Win | 76.00% | ~1,807 |
-| Greenhouse | 72.00% | ~1,711 |
-| Played with fire | 70.00% | ~1,664 |
-| You feel very sorry | 70.00% | ~1,664 |
-| No Match for you | 65.00% | ~1,545 |
+| Greenhouse | 72.00% | ~1,712 |
+| Played with fire | 70.00% | ~1,665 |
+| You feel very sorry | 70.00% | ~1,665 |
+| No Match for you | 65.00% | ~1,546 |
 | Bouncy | 62.00% | ~1,474 |
-| Plumbster | 61.00% | ~1,450 |
-| Faster | 60.00% | ~1,426 |
+| Plumbster | 61.00% | ~1,451 |
+| Faster | 60.00% | ~1,427 |
 | Much Magic | 58.00% | ~1,379 |
-| Chest Detector | 56.00% | ~1,331 |
+| Chest Detector | 56.00% | ~1,332 |
 | Flames | 53.00% | ~1,260 |
-| Momentum | 46.00% | ~1,093 |
-| You're unsure if you broke the game or not | 43.00% | ~1,022 |
+| Momentum | 46.00% | ~1,094 |
+| You're unsure if you broke the game or not | 43.00% | ~1,023 |
 | But wait... ...There's more... | 40.00% | ~951 |
 | So much force | 35.00% | ~832 |
-| You feel fully engaged | 24.00% | ~570 |
-| Too hot | 20.00% | ~475 |
+| You feel fully engaged | 24.00% | ~571 |
+| Too hot | 20.00% | ~476 |
 | All the chests | 14.00% | ~333 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,377 (Ranked 228)  
+Progressed: 2,378 (Ranked 228)  
 Completed: 291 (12.24%) (Ranked 36)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,6 +274,7 @@ Completed: 291 (12.24%) (Ranked 36)
 | 2023-12-18 | 2,374 | 291 |
 | 2023-12-19 | 2,375 | 291 |
 | 2023-12-20 | 2,377 | 291 |
+| 2023-12-21 | 2,378 | 291 |
 ## Awards
 Max (Challenging Puzzles): 109  (Ranked 359)  
 Sum: 109 (Ranked 455)  

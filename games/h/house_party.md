@@ -27,12 +27,12 @@ Number of Ratings: 177  (23.09.2022)
 | Amy: Scavenger Hunt | 0.70% | ~47 |
 | Casanova | 0.70% | ~47 |
 | It Smells Like Roses | 0.70% | ~27 |
-| Now It's a Party! | 0.70% | ~47 |
 | Stephanie | 0.70% | ~47 |
 | The Magic Number | 0.70% | ~47 |
 | Vickie | 0.70% | ~47 |
 | Te Amo Lety | 0.70% | ~47 |
 | Deck the Balls | 0.60% | ~23 |
+| Now It's a Party! | 0.60% | ~41 |
 | Ashley | 0.50% | ~34 |
 | Benedict Brahrnold | 0.50% | ~34 |
 | I'll Be Back | 0.50% | ~34 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~7 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,769 (Ranked 189)  
+Progressed: 6,770 (Ranked 189)  
 Completed: 3 (0.04%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 3 (0.04%) (Ranked 342)
 | 2023-12-18 | 6,720 | 3 |
 | 2023-12-19 | 6,729 | 3 |
 | 2023-12-20 | 6,755 | 3 |
-| 2023-12-21 | 6,769 | 3 |
+| 2023-12-21 | 6,770 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

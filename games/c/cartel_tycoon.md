@@ -6,19 +6,19 @@ Number of Ratings: 101  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Our Man | 85.00% | ~682 |
-| Take-Off | 80.00% | ~642 |
-| Hokey-Pokey | 70.00% | ~561 |
-| Camellos | 56.00% | ~449 |
-| Bad Trip | 45.00% | ~361 |
-| Didn't Miss A Single One | 44.00% | ~353 |
-| Spread | 43.00% | ~345 |
-| That was base | 41.00% | ~329 |
+| Our Man | 84.00% | ~675 |
+| Take-Off | 80.00% | ~643 |
+| Hokey-Pokey | 70.00% | ~563 |
+| Camellos | 55.00% | ~442 |
+| Bad Trip | 45.00% | ~362 |
+| Didn't Miss A Single One | 44.00% | ~354 |
+| Spread | 43.00% | ~346 |
+| That was base | 41.00% | ~330 |
 | Safe Pair of Hands | 36.00% | ~289 |
 | Don't Let Mom Know You're A Druglord | 30.00% | ~241 |
-| Architect of Fortunes | 25.00% | ~200 |
-| Bite the Blow | 23.00% | ~184 |
-| Pampered Life | 23.00% | ~184 |
+| Architect of Fortunes | 25.00% | ~201 |
+| Bite the Blow | 23.00% | ~185 |
+| Pampered Life | 23.00% | ~185 |
 | Spreading Fear | 9.00% | ~72 |
 | Follow the Money | 7.00% | ~56 |
 | I'm Going To Call You Kitty | 7.00% | ~56 |
@@ -26,7 +26,7 @@ Number of Ratings: 101  (23.09.2022)
 | Iron Lady | 0.70% | ~6 |
 | Sense Of Style | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 802 (Ranked 290)  
+Progressed: 804 (Ranked 290)  
 Completed: 3 (0.37%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 3 (0.37%) (Ranked 234)
 | 2023-12-18 | 779 | 3 |
 | 2023-12-19 | 793 | 3 |
 | 2023-12-20 | 800 | 3 |
-| 2023-12-21 | 802 | 3 |
+| 2023-12-21 | 804 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

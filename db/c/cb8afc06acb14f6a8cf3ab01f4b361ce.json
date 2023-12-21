@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 51,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 48,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -437,9 +437,9 @@
       "Count": 71
     }
   ],
-  "EOS_Progressed": 332246,
+  "EOS_Progressed": 332266,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3681,
+  "EOS_NewPlayers": 3689,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10412,6 +10412,11 @@
       "Time": "2023-12-21T09:06:20.8901947+00:00",
       "NumProgressed": 332246,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-21T10:05:52.1444061+00:00",
+      "NumProgressed": 332266,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -10424,7 +10429,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 9967
+      "UsersEstimate": 9968
     },
     {
       "ID": "S02_BRDA",
@@ -10432,7 +10437,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 9967
+      "UsersEstimate": 9968
     },
     {
       "ID": "S03_OTWA",
@@ -10456,7 +10461,7 @@
       "Name": "Back to your senses",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 1993
+      "UsersEstimate": 1994
     },
     {
       "ID": "S06_LWTC",
@@ -10560,7 +10565,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13290
+      "UsersEstimate": 13291
     },
     {
       "ID": "S19_CHALLENGES",
@@ -10640,7 +10645,7 @@
       "Name": "Not even from this world",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "S29_RECOVER",
@@ -10656,7 +10661,7 @@
       "Name": "Bring it on!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1993
+      "UsersEstimate": 1994
     },
     {
       "ID": "S31_CHNG_DIAMOND",
@@ -10720,7 +10725,7 @@
       "Name": "Chaos be damned!",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "S39_END_RAPTURE",
@@ -10736,14 +10741,14 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3322
+      "UsersEstimate": 3323
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 332246,
+      "Progressed": 332266,
       "Completed": 5
     }
   ],
@@ -10751,8 +10756,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-20T17:57:35.3329235+00:00",
-  "LastChanged_Achievements": "2023-12-21T09:06:20.8901944+00:00",
+  "LastChanged_Achievements": "2023-12-21T10:05:52.1444057+00:00",
   "LastUpdate_AppInfo": "2023-12-14T20:57:08.8756847+00:00",
-  "LastUpdate_Ratings": "2023-12-21T08:57:58.6997499+00:00",
-  "LastUpdate_Achievements": "2023-12-21T09:06:20.890269+00:00"
+  "LastUpdate_Ratings": "2023-12-21T09:57:51.7852399+00:00",
+  "LastUpdate_Achievements": "2023-12-21T10:05:52.1444766+00:00"
 }

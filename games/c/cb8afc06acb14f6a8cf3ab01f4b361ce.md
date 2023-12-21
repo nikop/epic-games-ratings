@@ -5,16 +5,16 @@ Rating: 4.21 (Ranked 925)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 4.00% | ~13,290 |
-| May the Torchbearer light our way | 3.00% | ~9,967 |
-| A powerful aura was here | 3.00% | ~9,967 |
-| Let's raise the stakes!! | 1.00% | ~3,322 |
+| The touch of Chaos | 4.00% | ~13,291 |
+| May the Torchbearer light our way | 3.00% | ~9,968 |
+| A powerful aura was here | 3.00% | ~9,968 |
+| Let's raise the stakes!! | 1.00% | ~3,323 |
 | Rumors are true | 0.90% | ~2,990 |
 | Your wounds… They are healing so fast! | 0.90% | ~2,990 |
 | Pride is a sin, young Knight | 0.80% | ~2,658 |
 | We'll be careful | 0.70% | ~2,326 |
-| Back to your senses | 0.60% | ~1,993 |
-| Bring it on! | 0.60% | ~1,993 |
+| Back to your senses | 0.60% | ~1,994 |
+| Bring it on! | 0.60% | ~1,994 |
 | They tricked me | 0.50% | ~1,661 |
 | We need to talk | 0.50% | ~1,661 |
 | I feel drawn to it | 0.50% | ~1,661 |
@@ -25,8 +25,8 @@ Rating: 4.21 (Ranked 925)
 | We can choose to fight | 0.40% | ~1,329 |
 | I took a risk | 0.40% | ~1,329 |
 | Their fate is sealed | 0.30% | ~997 |
-| Not even from this world | 0.20% | ~664 |
-| Chaos be damned! | 0.20% | ~664 |
+| Not even from this world | 0.20% | ~665 |
+| Chaos be damned! | 0.20% | ~665 |
 | No damsels in distress | 0.10% | ~332 |
 | The immortal is bound to reborn | 0.10% | ~332 |
 | A legend among Chimeras | 0.10% | ~332 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 925)
 | Something... unnatural | 0.10% | ~332 |
 | We strike as one | 0.10% | ~332 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 332,246 (Ranked 52)  
+Progressed: 332,266 (Ranked 52)  
 Completed: 5 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 5 (0.00%) (Ranked 384)
 | 2023-12-18 | 331,132 | 5 |
 | 2023-12-19 | 331,577 | 5 |
 | 2023-12-20 | 332,048 | 5 |
-| 2023-12-21 | 332,246 | 5 |
+| 2023-12-21 | 332,266 | 5 |
 ## Awards
 Max (Great Boss Battles): 71  (Ranked 409)  
 Sum: 71 (Ranked 477)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -3539,9 +3539,9 @@
       "ID": "GSS_ACH_01_SHOP_01",
       "SetID": "5fn8ia4",
       "Name": "First Customer!",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1148
     },
     {
       "ID": "GSS_ACH_02_SHOP_02",
@@ -3579,9 +3579,9 @@
       "ID": "GSS_ACH_06_FUEL_01",
       "SetID": "5fn8ia4",
       "Name": "Fueled it good!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1200
     },
     {
       "ID": "GSS_ACH_07_FUEL_02",
@@ -3883,9 +3883,9 @@
       "ID": "GSS_ACH_45_ORDER_PRODUCTS",
       "SetID": "5fn8ia4",
       "Name": "Products Please!",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1082
     },
     {
       "ID": "GSS_ACH_46_ORDER_CARPARTS",
@@ -3899,9 +3899,9 @@
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 2",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1134
     },
     {
       "ID": "GSS_ACH_48_UPGRADE_STATION_02",
@@ -4107,9 +4107,9 @@
       "ID": "GSS_ACH_73_MEETING_THE_UNCLE",
       "SetID": "5fn8ia4",
       "Name": "The Uncle",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1148
     },
     {
       "ID": "GSS_ACH_74_SANDSTORM",
@@ -4196,8 +4196,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-18T13:05:51.5719117+00:00",
-  "LastChanged_Achievements": "2023-12-21T09:03:59.4856395+00:00",
+  "LastChanged_Achievements": "2023-12-21T10:03:40.2603181+00:00",
   "LastUpdate_AppInfo": "2023-12-18T18:57:14.4494443+00:00",
-  "LastUpdate_Ratings": "2023-12-21T09:00:44.2401552+00:00",
-  "LastUpdate_Achievements": "2023-12-21T09:03:59.4857326+00:00"
+  "LastUpdate_Ratings": "2023-12-21T10:00:23.760159+00:00",
+  "LastUpdate_Achievements": "2023-12-21T10:03:40.2604188+00:00"
 }

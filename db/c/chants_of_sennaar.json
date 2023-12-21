@@ -43,11 +43,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1479,
+  "EOS_Progressed": 1481,
   "EOS_Completed": 79,
-  "EOS_NewPlayers": 474,
+  "EOS_NewPlayers": 473,
   "EOS_NewCompleters": 23,
-  "EOS_Completed_Percentage": 5.34,
+  "EOS_Completed_Percentage": 5.33,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -4713,6 +4713,11 @@
       "Time": "2023-12-21T09:08:28.4555959+00:00",
       "NumProgressed": 1479,
       "NumCompleted": 79
+    },
+    {
+      "Time": "2023-12-21T10:08:23.5023554+00:00",
+      "NumProgressed": 1481,
+      "NumCompleted": 79
     }
   ],
   "TotalAchievements": 25,
@@ -4756,7 +4761,7 @@
       "Name": "A good beginning",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "META_HALF_LINK",
@@ -4772,7 +4777,7 @@
       "Name": "Open door",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "META_RESULT_1-3",
@@ -4812,7 +4817,7 @@
       "Name": "A Link to the Past",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -4868,7 +4873,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -4884,7 +4889,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "PROGRESS_N2",
@@ -4892,7 +4897,7 @@
       "Name": "The great escape",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "PROGRESS_N3",
@@ -4923,7 +4928,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1479,
+      "Progressed": 1481,
       "Completed": 79
     }
   ],
@@ -4931,8 +4936,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-19T13:57:35.0364217+00:00",
-  "LastChanged_Achievements": "2023-12-21T09:08:28.4555955+00:00",
+  "LastChanged_Achievements": "2023-12-21T10:08:23.502355+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:30.8935759+00:00",
-  "LastUpdate_Ratings": "2023-12-21T08:58:59.8141968+00:00",
-  "LastUpdate_Achievements": "2023-12-21T09:08:28.4556316+00:00"
+  "LastUpdate_Ratings": "2023-12-21T09:58:46.9281541+00:00",
+  "LastUpdate_Achievements": "2023-12-21T10:08:23.5023893+00:00"
 }
