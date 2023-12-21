@@ -48,6 +48,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious | 0.10% | ~16 |
 | Good | 0.10% | ~16 |
 | Great | 0.10% | ~16 |
+| Holy | 0.10% | ~16 |
 | Intercessor | 0.10% | ~16 |
 | Intrepid | 0.10% | ~16 |
 | Invincible | 0.10% | ~16 |
@@ -180,6 +181,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 0.10% | ~16 |
 | No Undo | 0.10% | ~16 |
 | Points Victory | 0.10% | ~16 |
+| Randomized Families | 0.10% | ~16 |
 | Randomized Leaders | 0.10% | ~16 |
 | Role-Playing | 0.10% | ~16 |
 | Necropolis in Waset | 0.10% | ~16 |
@@ -218,7 +220,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage Campaign | 0.00% | ~0 |
 | Avenger | 0.00% | ~0 |
 | Destroyer | 0.00% | ~0 |
-| Holy | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
 | Rebuilder | 0.00% | ~0 |
 | Restorer | 0.00% | ~0 |
@@ -298,7 +299,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Three Man Chariot | 0.00% | ~0 |
 | No Characters | 0.00% | ~0 |
 | One City Challenge | 0.00% | ~0 |
-| Randomized Families | 0.00% | ~0 |
 | Time Victory | 0.00% | ~0 |
 | Win a 1-v-1 Game | 0.00% | ~0 |
 | Win a Free-For-All Game (>2 Players) | 0.00% | ~0 |

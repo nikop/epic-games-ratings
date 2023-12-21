@@ -5,13 +5,13 @@ Rating: 4.78 (Ranked 110)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,769 |
+| For Demacia | 96.00% | ~2,798 |
 | No more cages! | 91.00% | ~2,653 |
 | Everfrost | 78.00% | ~2,274 |
 | Pentakill | 77.00% | ~2,245 |
 | Dark Forest | 77.00% | ~2,245 |
 | The use of petricite | 74.00% | ~2,157 |
-| You can pet the dog | 60.00% | ~1,749 |
+| You can pet the dog | 61.00% | ~1,778 |
 | Thornbarrow | 41.00% | ~1,195 |
 | Big Helmet Bro | 39.00% | ~1,137 |
 | Clarion Cove | 39.00% | ~1,137 |
@@ -32,8 +32,8 @@ Rating: 4.78 (Ranked 110)
 | Full equipped | 23.00% | ~670 |
 | Glyndemere | 22.00% | ~641 |
 | Iffighain Headquarters | 22.00% | ~641 |
+| Whispers in the Woods II | 19.00% | ~554 |
 | Quickmoore Headquarters | 19.00% | ~554 |
-| Whispers in the Woods II | 18.00% | ~525 |
 | No more holding back | 18.00% | ~525 |
 | Terbisia | 18.00% | ~525 |
 | Whispers in the Woods III | 17.00% | ~496 |

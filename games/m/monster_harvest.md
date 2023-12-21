@@ -9,7 +9,7 @@
 | Red Slime Time | 66.00% | ~205 |
 | To the Rec Center! | 48.00% | ~149 |
 | Green Sheen | 45.00% | ~140 |
-| Blue Goo | 30.00% | ~93 |
+| Blue Goo | 31.00% | ~96 |
 | Let's Get Fishy! | 21.00% | ~65 |
 | Furniture in the Forest! | 20.00% | ~62 |
 | Save the Slimes! | 12.00% | ~37 |

@@ -5,12 +5,12 @@ Rating: 4.04 (Ranked 1,008)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,353 |
-| World Map | 78.00% | ~2,812 |
+| Victor | 93.00% | ~3,354 |
+| World Map | 78.00% | ~2,813 |
 | Temple of Eternals | 56.00% | ~2,019 |
 | Prestigious | 53.00% | ~1,911 |
-| Fellowship Power | 42.00% | ~1,514 |
-| Full Party | 25.00% | ~901 |
+| Fellowship Power | 42.00% | ~1,515 |
+| Full Party | 25.00% | ~902 |
 | Guild Power | 23.00% | ~829 |
 | Prestigious x10 | 21.00% | ~757 |
 | The game is on | 18.00% | ~649 |
@@ -27,13 +27,13 @@ Rating: 4.04 (Ranked 1,008)
 | Natural Talent | 11.00% | ~397 |
 | Superior | 11.00% | ~397 |
 | The Unstoppable | 11.00% | ~397 |
-| Scientist | 10.00% | ~360 |
-| Challenger | 9.00% | ~324 |
-| Daily Quest Completionist | 9.00% | ~324 |
-| Doing My Part | 9.00% | ~324 |
-| Hunter | 9.00% | ~324 |
-| Mastery | 9.00% | ~324 |
-| The power of Awakening | 9.00% | ~324 |
+| Scientist | 10.00% | ~361 |
+| Challenger | 9.00% | ~325 |
+| Daily Quest Completionist | 9.00% | ~325 |
+| Doing My Part | 9.00% | ~325 |
+| Hunter | 9.00% | ~325 |
+| Mastery | 9.00% | ~325 |
+| The power of Awakening | 9.00% | ~325 |
 | Frostfire Liberator | 8.00% | ~288 |
 | Moving Up The Ladder | 8.00% | ~288 |
 | Relic Of The Past | 8.00% | ~288 |
@@ -81,7 +81,7 @@ Rating: 4.04 (Ranked 1,008)
 | Jewel Enchanting | 0.20% | ~7 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,605 (Ranked 213)  
+Progressed: 3,606 (Ranked 213)  
 Completed: 2 (0.06%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 2 (0.06%) (Ranked 325)
 | 2023-12-18 | 3,537 | 2 |
 | 2023-12-19 | 3,555 | 2 |
 | 2023-12-20 | 3,585 | 2 |
-| 2023-12-21 | 3,605 | 2 |
+| 2023-12-21 | 3,606 | 2 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 474)  
 Sum: 145 (Ranked 432)  

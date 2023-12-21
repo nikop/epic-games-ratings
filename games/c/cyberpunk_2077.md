@@ -6,38 +6,38 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,542 |
-| Gun Fu | 8.00% | ~78,361 |
-| The Fool | 7.00% | ~68,566 |
-| Right Back At Ya | 6.00% | ~58,771 |
-| Full Body Conversion | 5.00% | ~48,976 |
-| The Lovers | 5.00% | ~48,976 |
-| Stanislavski's Method | 4.00% | ~39,181 |
-| The Hermit | 4.00% | ~39,181 |
-| The Wheel of Fortune | 4.00% | ~39,181 |
-| True Soldier | 4.00% | ~39,181 |
-| All the President's Men | 4.00% | ~4,326 |
-| Arachnophobia | 4.00% | ~4,326 |
+| V for Vendetta | 12.00% | ~117,545 |
+| Gun Fu | 8.00% | ~78,364 |
+| The Fool | 7.00% | ~68,568 |
+| Right Back At Ya | 6.00% | ~58,773 |
+| Full Body Conversion | 5.00% | ~48,977 |
+| The Lovers | 5.00% | ~48,977 |
+| Stanislavski's Method | 4.00% | ~39,182 |
+| The Hermit | 4.00% | ~39,182 |
+| The Wheel of Fortune | 4.00% | ~39,182 |
+| True Soldier | 4.00% | ~39,182 |
+| All the President's Men | 4.00% | ~4,327 |
+| Arachnophobia | 4.00% | ~4,327 |
 | Christmas Tree Attack | 3.00% | ~29,386 |
 | The Quick and the Dead | 3.00% | ~29,386 |
 | Life of the Road | 3.00% | ~29,386 |
 | The High Priestess | 3.00% | ~29,386 |
 | True Warrior | 3.00% | ~29,386 |
 | Legend of The Afterlife | 3.00% | ~29,386 |
-| Relic Ruler | 3.00% | ~3,244 |
-| Bushido and Chill | 2.00% | ~19,590 |
-| To Protect and Serve | 2.00% | ~19,590 |
-| Master Crafter | 2.00% | ~19,590 |
-| I Am The Law | 2.00% | ~19,590 |
-| The World | 2.00% | ~19,590 |
-| Two Heads, One Bullet | 2.00% | ~19,590 |
-| Judy vs Night City | 2.00% | ~19,590 |
+| Relic Ruler | 3.00% | ~3,245 |
+| Bushido and Chill | 2.00% | ~19,591 |
+| To Protect and Serve | 2.00% | ~19,591 |
+| Master Crafter | 2.00% | ~19,591 |
+| I Am The Law | 2.00% | ~19,591 |
+| The World | 2.00% | ~19,591 |
+| Two Heads, One Bullet | 2.00% | ~19,591 |
+| Judy vs Night City | 2.00% | ~19,591 |
 | The Wandering Fool | 1.00% | ~9,795 |
 | The Sun | 1.00% | ~9,795 |
-| Spin Doctor | 1.00% | ~1,081 |
-| King of Wands | 1.00% | ~1,081 |
-| Dirty Deeds | 1.00% | ~1,081 |
-| Easy Come, Easy Go | 1.00% | ~1,081 |
+| Spin Doctor | 1.00% | ~1,082 |
+| King of Wands | 1.00% | ~1,082 |
+| Dirty Deeds | 1.00% | ~1,082 |
+| Easy Come, Easy Go | 1.00% | ~1,082 |
 | To Bad Decisions! | 0.90% | ~8,816 |
 | Ten out of Ten | 0.90% | ~8,816 |
 | The Star | 0.80% | ~7,836 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Temperance | 0.50% | ~4,898 |
 | King of Pentacles | 0.50% | ~541 |
 | City Lights | 0.30% | ~2,939 |
-| King of Cups | 0.30% | ~324 |
+| King of Cups | 0.30% | ~325 |
 | Gunslinger | 0.20% | ~1,959 |
 | Mean Streets | 0.20% | ~1,959 |
 | Little Tokyo | 0.20% | ~1,959 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 979,518 (Ranked 16)  
-Completed: 2,949 (0.30%) (Ranked 249)  
+Progressed: 979,544 (Ranked 16)  
+Completed: 2,950 (0.30%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -319,10 +319,10 @@ Completed: 2,949 (0.30%) (Ranked 249)
 | 2023-12-18 | 978,465 | 2,935 |
 | 2023-12-19 | 978,882 | 2,944 |
 | 2023-12-20 | 979,279 | 2,948 |
-| 2023-12-21 | 979,518 | 2,949 |
+| 2023-12-21 | 979,544 | 2,950 |
 ## Awards
 Max (Character Customization): 125,560  (Ranked 8)  
-Sum: 434,454 (Ranked 9)  
+Sum: 434,558 (Ranked 9)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -336,7 +336,7 @@ Diff (max vs sum): -1
 | This game has Amazing Characters | 24,390 |
 | This game is Relaxing | 23,632 |
 | This game has Quickly Understood Controls | 23,624 |
-| This game has a Creative Community | 16,339 |
+| This game has a Creative Community | 16,443 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -676,4 +676,4 @@ Diff (max vs sum): -1
 | 2023-12-18 | 4.66 | - | 124,846 | 429,269 |
 | 2023-12-19 | 4.66 | - | 125,194 | 431,324 |
 | 2023-12-20 | 4.66 | - | 125,560 | 433,348 |
-| 2023-12-21 | 4.66 | - | 125,560 | 434,454 |
+| 2023-12-21 | 4.66 | - | 125,560 | 434,558 |

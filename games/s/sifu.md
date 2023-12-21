@@ -6,39 +6,39 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 3.00% | ~22,158 |
-| Life is your teacher | 3.00% | ~22,158 |
-| Lightning Hands | 3.00% | ~22,158 |
-| The Assault | 2.00% | ~14,772 |
-| The Hateful Pole Fighter | 2.00% | ~14,772 |
-| State of constant learning | 2.00% | ~14,772 |
-| Old Child | 2.00% | ~14,772 |
-| A Lady's Blood in the Snow | 1.00% | ~7,386 |
-| Lady Wing Chun | 1.00% | ~7,386 |
-| Kill Nil | 1.00% | ~7,386 |
-| Stuntmaster | 1.00% | ~7,386 |
-| Street Fighting | 1.00% | ~7,386 |
-| Qi Gong: Breath | 1.00% | ~7,386 |
-| Qi Gong: Essence | 1.00% | ~7,386 |
-| I know Kung-Fu | 1.00% | ~7,386 |
-| Path of the Prospect | 1.00% | ~7,386 |
-| Rumble in the Hangar | 1.00% | ~7,386 |
-| Diligence as a goal | 1.00% | ~479 |
-| Furious Fists | 0.90% | ~6,647 |
-| Take damage to save time | 0.90% | ~6,647 |
-| Project Arena | 0.90% | ~431 |
-| Qi Gong: Mind | 0.80% | ~5,909 |
-| Scareless | 0.70% | ~5,170 |
-| Dance of the Praying Mantis | 0.70% | ~5,170 |
-| Kung-Fu Tussle | 0.70% | ~5,170 |
-| Fight the way you practice | 0.70% | ~335 |
-| Martial Hub | 0.60% | ~287 |
+| The Old Grandmaster | 3.00% | ~22,161 |
+| Life is your teacher | 3.00% | ~22,161 |
+| Lightning Hands | 3.00% | ~22,161 |
+| The Assault | 2.00% | ~14,774 |
+| The Hateful Pole Fighter | 2.00% | ~14,774 |
+| State of constant learning | 2.00% | ~14,774 |
+| Qi Gong: Essence | 2.00% | ~14,774 |
+| Old Child | 2.00% | ~14,774 |
+| A Lady's Blood in the Snow | 1.00% | ~7,387 |
+| Lady Wing Chun | 1.00% | ~7,387 |
+| Kill Nil | 1.00% | ~7,387 |
+| Stuntmaster | 1.00% | ~7,387 |
+| Street Fighting | 1.00% | ~7,387 |
+| Qi Gong: Breath | 1.00% | ~7,387 |
+| I know Kung-Fu | 1.00% | ~7,387 |
+| Path of the Prospect | 1.00% | ~7,387 |
+| Rumble in the Hangar | 1.00% | ~7,387 |
+| Diligence as a goal | 1.00% | ~480 |
+| Furious Fists | 0.90% | ~6,648 |
+| Take damage to save time | 0.90% | ~6,648 |
+| Project Arena | 0.90% | ~432 |
+| Qi Gong: Mind | 0.80% | ~5,910 |
+| Scareless | 0.70% | ~5,171 |
+| Dance of the Praying Mantis | 0.70% | ~5,171 |
+| Kung-Fu Tussle | 0.70% | ~5,171 |
+| Fight the way you practice | 0.70% | ~336 |
+| Martial Hub | 0.60% | ~288 |
 | Bloody Sport | 0.50% | ~240 |
-| Muk Yan Master | 0.40% | ~2,954 |
-| Tiger on Fire | 0.40% | ~2,954 |
-| Source of Flying Daggers | 0.40% | ~2,954 |
-| Detective Story | 0.40% | ~2,954 |
-| Sword Stained With Blood | 0.40% | ~2,954 |
+| Muk Yan Master | 0.40% | ~2,955 |
+| Tiger on Fire | 0.40% | ~2,955 |
+| Source of Flying Daggers | 0.40% | ~2,955 |
+| Detective Story | 0.40% | ~2,955 |
+| Sword Stained With Blood | 0.40% | ~2,955 |
 | Iron Money | 0.30% | ~2,216 |
 | Legendary Talismans of Wuxing | 0.30% | ~2,216 |
 | Prodigal Child | 0.30% | ~2,216 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~48 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 738,605 (Ranked 23)  
+Progressed: 738,692 (Ranked 23)  
 Completed: 12,958 (1.75%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 12,958 (1.75%) (Ranked 140)
 | 2023-12-18 | 734,825 | 12,956 |
 | 2023-12-19 | 736,295 | 12,958 |
 | 2023-12-20 | 737,594 | 12,958 |
-| 2023-12-21 | 738,605 | 12,958 |
+| 2023-12-21 | 738,692 | 12,958 |
 ## Awards
 Max (Great Boss Battles): 6,973  (Ranked 55)  
 Sum: 11,789 (Ranked 87)  

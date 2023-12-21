@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 572,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 350,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-12-12T05:00:00+00:00",
     "PcReleaseDate": "2018-03-08T05:00:00+00:00",
@@ -201,9 +201,9 @@
       "ID": "CirculatoryCollapse",
       "SetID": "aaidab7",
       "Name": "Circulatory Collapse",
-      "Percentage": 39,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "CloseCall",
@@ -385,9 +385,9 @@
       "ID": "SilentKiller",
       "SetID": "aaidab7",
       "Name": "Silent Killer",
-      "Percentage": 46,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "SkeletalCollapse",
@@ -417,9 +417,9 @@
       "ID": "WalkInThePark",
       "SetID": "aaidab7",
       "Name": "Walk In The Park",
-      "Percentage": 50,
+      "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     }
   ],
   "AchievementSets": [
@@ -432,8 +432,8 @@
   ],
   "FirstSeen": "2023-12-14T22:59:18.6956288+00:00",
   "FirstSeenAchievements": "2023-12-12T04:03:25.1214352+00:00",
-  "LastChanged_Achievements": "2023-12-21T15:04:30.856537+00:00",
+  "LastChanged_Achievements": "2023-12-21T16:04:53.3561029+00:00",
   "LastUpdate_AppInfo": "2023-12-19T04:57:14.3758981+00:00",
-  "LastUpdate_Ratings": "2023-12-21T14:58:35.9146397+00:00",
-  "LastUpdate_Achievements": "2023-12-21T15:04:30.856558+00:00"
+  "LastUpdate_Ratings": "2023-12-21T15:58:57.2525514+00:00",
+  "LastUpdate_Achievements": "2023-12-21T16:04:53.3561274+00:00"
 }

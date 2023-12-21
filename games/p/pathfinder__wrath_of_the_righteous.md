@@ -11,7 +11,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Burning City | 18.00% | ~2,262 |
 | Defender's Heart | 16.00% | ~2,011 |
 | Mythic Choices | 15.00% | ~1,885 |
-| Banner over the Citadel | 14.00% | ~1,759 |
+| Banner over the Citadel | 14.00% | ~1,760 |
 | Queen's Gratitude | 12.00% | ~1,508 |
 | Fifth Crusade | 9.00% | ~1,131 |
 | Embrace of the Abyss | 7.00% | ~880 |
@@ -50,8 +50,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Strategic Victory | 1.00% | ~126 |
 | Abyssal Conspiracy | 1.00% | ~126 |
 | Truly Profane Gift | 1.00% | ~126 |
-| This Wall Won't Fall | 1.00% | ~113 |
-| Not the Last Sarkorian | 1.00% | ~113 |
+| This Wall Won't Fall | 1.00% | ~114 |
+| Not the Last Sarkorian | 1.00% | ~114 |
 | End of Eternal Guard | 0.90% | ~113 |
 | Masterful Charge | 0.70% | ~88 |
 | Playful Mood | 0.70% | ~88 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,566 (Ranked 168)  
+Progressed: 12,568 (Ranked 168)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -368,7 +368,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 12,490 | 0 |
 | 2023-12-19 | 12,526 | 0 |
 | 2023-12-20 | 12,550 | 0 |
-| 2023-12-21 | 12,566 | 0 |
+| 2023-12-21 | 12,568 | 0 |
 ## Awards
 Max (Character Customization): 1,763  (Ranked 124)  
 Sum: 7,155 (Ranked 123)  

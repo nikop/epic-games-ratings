@@ -6,24 +6,24 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~51,458 |
-| Get Busy Living | 16.00% | ~32,933 |
-| Samuel Norton | 9.00% | ~18,525 |
-| Spare The Rod | 5.00% | ~10,292 |
-| Don't Put Me In The Dark | 3.00% | ~6,175 |
-| Wait and Hope | 3.00% | ~6,175 |
-| I May Have Found A Way Out Of Here | 3.00% | ~6,175 |
+| Stone Walls | 25.00% | ~51,464 |
+| Get Busy Living | 16.00% | ~32,937 |
+| Samuel Norton | 9.00% | ~18,527 |
+| Spare The Rod | 5.00% | ~10,293 |
+| Don't Put Me In The Dark | 3.00% | ~6,176 |
+| Wait and Hope | 3.00% | ~6,176 |
+| I May Have Found A Way Out Of Here | 3.00% | ~6,176 |
 | Throw The Book At Them | 2.00% | ~4,117 |
 | Iron Bars | 2.00% | ~4,117 |
-| D.B. Cooper | 1.00% | ~2,058 |
+| D.B. Cooper | 1.00% | ~2,059 |
 | Reformation | 0.60% | ~1,235 |
 | Crowd Control | 0.50% | ~1,029 |
 | Freedom | 0.40% | ~823 |
-| Confined | 0.30% | ~617 |
+| Confined | 0.30% | ~618 |
 | It's Not What You Know... | 0.10% | ~206 |
 | ... It's What You Can Prove | 0.10% | ~206 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 205,830 (Ranked 76)  
+Progressed: 205,858 (Ranked 76)  
 Completed: 11 (0.01%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,10 +268,10 @@ Completed: 11 (0.01%) (Ranked 361)
 | 2023-12-18 | 204,823 | 11 |
 | 2023-12-19 | 205,206 | 11 |
 | 2023-12-20 | 205,600 | 11 |
-| 2023-12-21 | 205,830 | 11 |
+| 2023-12-21 | 205,858 | 11 |
 ## Awards
 Max (Great for Beginners): 607  (Ranked 200)  
-Sum: 4,656 (Ranked 149)  
+Sum: 4,658 (Ranked 149)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
@@ -283,7 +283,7 @@ Diff (max vs sum): 51
 | This game has Diverse Characters | 509 |
 | This game has Amazing Storytelling | 500 |
 | This game is Educational | 459 |
-| This game has Amazing Characters | 448 |
+| This game has Amazing Characters | 450 |
 | This game has a Creative Community | 358 |
 | This game has Obsessive Gameplay | 234 |
 ## Ratings History
@@ -621,4 +621,4 @@ Diff (max vs sum): 51
 | 2023-12-18 | 4.61 | - | 606 | 4,640 |
 | 2023-12-19 | 4.61 | - | 607 | 4,641 |
 | 2023-12-20 | 4.61 | - | 607 | 4,654 |
-| 2023-12-21 | 4.61 | - | 607 | 4,656 |
+| 2023-12-21 | 4.61 | - | 607 | 4,658 |

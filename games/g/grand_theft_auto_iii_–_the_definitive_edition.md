@@ -5,21 +5,21 @@ Rating: 4.16 (Ranked 957)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~8,365 |
-| Disposing of the Evidence | 38.00% | ~3,830 |
-| Without a Scratch | 34.00% | ~3,427 |
-| Wreckless Driving | 28.00% | ~2,822 |
-| A Marked Man | 25.00% | ~2,520 |
-| Street Sweeper | 18.00% | ~1,814 |
-| Liberty City Minute | 17.00% | ~1,713 |
-| Offshore Delivery | 13.00% | ~1,310 |
-| Dirty Money | 12.00% | ~1,209 |
-| By a Mile | 10.00% | ~1,008 |
-| Not So Fast | 10.00% | ~1,008 |
-| Right-hand Man | 10.00% | ~1,008 |
-| A Gift from the King | 7.00% | ~705 |
+| First Day on the Job | 83.00% | ~8,371 |
+| Disposing of the Evidence | 38.00% | ~3,833 |
+| Without a Scratch | 34.00% | ~3,429 |
+| Wreckless Driving | 28.00% | ~2,824 |
+| A Marked Man | 25.00% | ~2,522 |
+| Street Sweeper | 18.00% | ~1,815 |
+| Liberty City Minute | 17.00% | ~1,715 |
+| Offshore Delivery | 13.00% | ~1,311 |
+| Dirty Money | 12.00% | ~1,210 |
+| By a Mile | 10.00% | ~1,009 |
+| Not So Fast | 10.00% | ~1,009 |
+| Right-hand Man | 10.00% | ~1,009 |
+| A Gift from the King | 7.00% | ~706 |
 | Full Artillery | 4.00% | ~403 |
-| Mob Boss | 3.00% | ~302 |
+| Mob Boss | 3.00% | ~303 |
 | Escape Artist | 2.00% | ~202 |
 | Where To? | 2.00% | ~202 |
 | Splish Splash | 2.00% | ~202 |
@@ -33,10 +33,10 @@ Rating: 4.16 (Ranked 957)
 | Going Rogue | 1.00% | ~101 |
 | Furious First Responder | 1.00% | ~101 |
 | Is That All You've Got? | 0.90% | ~91 |
-| King of Liberty City | 0.60% | ~60 |
+| King of Liberty City | 0.60% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,078 (Ranked 173)  
-Completed: 64 (0.64%) (Ranked 195)  
+Progressed: 10,086 (Ranked 173)  
+Completed: 64 (0.63%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -280,7 +280,7 @@ Completed: 64 (0.64%) (Ranked 195)
 | 2023-12-18 | 9,752 | 61 |
 | 2023-12-19 | 9,880 | 62 |
 | 2023-12-20 | 9,997 | 63 |
-| 2023-12-21 | 10,078 | 64 |
+| 2023-12-21 | 10,086 | 64 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

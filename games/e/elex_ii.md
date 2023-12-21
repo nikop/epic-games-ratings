@@ -7,13 +7,18 @@ Number of Ratings: 124  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Best Buddy | 7.00% | ~3 |
+| Entrepreneur | 5.00% | ~2 |
 | Peddler | 5.00% | ~2 |
-| Entrepreneur | 2.00% | ~1 |
+| Free as a Bird | 5.00% | ~2 |
+| Role Model | 5.00% | ~2 |
 | Long-Haul Flyer | 2.00% | ~1 |
-| Free as a Bird | 2.00% | ~1 |
-| Role Model | 2.00% | ~1 |
+| Military Leader | 2.00% | ~1 |
+| Hotshot | 2.00% | ~1 |
+| Unbreakable | 2.00% | ~1 |
 | Creator | 2.00% | ~1 |
+| Festival-goer | 2.00% | ~1 |
 | Civilian | 2.00% | ~1 |
+| Pass A38 | 2.00% | ~1 |
 | Pack Rat | 0.00% | ~0 |
 | Banker | 0.00% | ~0 |
 | Drinker | 0.00% | ~0 |
@@ -27,11 +32,8 @@ Number of Ratings: 124  (23.09.2022)
 | Computer Scientist | 0.00% | ~0 |
 | Globetrotter | 0.00% | ~0 |
 | Treasurer | 0.00% | ~0 |
-| Military Leader | 0.00% | ~0 |
-| Hotshot | 0.00% | ~0 |
 | Self-Sufficient | 0.00% | ~0 |
 | Idealist | 0.00% | ~0 |
-| Unbreakable | 0.00% | ~0 |
 | Toy Time | 0.00% | ~0 |
 | Defector | 0.00% | ~0 |
 | Alb | 0.00% | ~0 |
@@ -42,12 +44,10 @@ Number of Ratings: 124  (23.09.2022)
 | Destroyer | 0.00% | ~0 |
 | Perfectionist | 0.00% | ~0 |
 | Commander | 0.00% | ~0 |
-| Festival-goer | 0.00% | ~0 |
 | Legendary | 0.00% | ~0 |
 | Family Reunion | 0.00% | ~0 |
 | Irissa's Fate | 0.00% | ~0 |
 | Detective | 0.00% | ~0 |
-| Pass A38 | 0.00% | ~0 |
 | Warrior | 0.00% | ~0 |
 | Hunter | 0.00% | ~0 |
 | Defender | 0.00% | ~0 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Eternal Oblivion | 0.00% | ~0 |
 | Lover | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42 (Ranked 548)  
+Progressed: 43 (Ranked 543)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,7 +65,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 18 | 0 |
 | 2023-12-19 | 32 | 0 |
 | 2023-12-20 | 40 | 0 |
-| 2023-12-21 | 42 | 0 |
+| 2023-12-21 | 43 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

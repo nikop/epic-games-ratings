@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 715,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 521,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-12-17T23:00:00+00:00",
     "PcReleaseDate": "2017-03-16T00:00:00+00:00",
@@ -63,17 +63,17 @@
       "ID": "vr3_arch_first_customization_piece",
       "SetID": "3dg153n",
       "Name": "Investments",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "vr3_arch_first_money",
       "SetID": "3dg153n",
       "Name": "Enterpriser",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "vr3_arch_first_texturation",
@@ -133,8 +133,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-11T19:03:46.1606302+00:00",
-  "LastChanged_Achievements": "2023-12-21T15:08:42.027734+00:00",
+  "LastChanged_Achievements": "2023-12-21T16:09:05.6691052+00:00",
   "LastUpdate_AppInfo": "2023-12-18T18:57:14.9702433+00:00",
-  "LastUpdate_Ratings": "2023-12-21T14:59:05.1730889+00:00",
-  "LastUpdate_Achievements": "2023-12-21T15:08:42.0277398+00:00"
+  "LastUpdate_Ratings": "2023-12-21T15:59:26.8872186+00:00",
+  "LastUpdate_Achievements": "2023-12-21T16:09:05.6691127+00:00"
 }

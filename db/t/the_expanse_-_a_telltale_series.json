@@ -2,9 +2,9 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 533,
-  "Ranking_Popularity": 570,
-  "Ranking_PopularitySum": 570,
+  "Ranking_Rating": 534,
+  "Ranking_Popularity": 571,
+  "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 121,
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16992,
+  "EOS_Progressed": 16994,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 809,
+  "EOS_NewPlayers": 800,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -14640,6 +14640,11 @@
       "Time": "2023-12-21T15:06:31.8948213+00:00",
       "NumProgressed": 16992,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-12-21T16:06:55.1519144+00:00",
+      "NumProgressed": 16994,
+      "NumCompleted": 46
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14700,7 +14705,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1189
+      "UsersEstimate": 1190
     },
     {
       "ID": "16",
@@ -14716,7 +14721,7 @@
       "Name": "Spore Taste",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1359
+      "UsersEstimate": 1360
     },
     {
       "ID": "18",
@@ -14796,7 +14801,7 @@
       "Name": "Call it Even",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1189
+      "UsersEstimate": 1190
     },
     {
       "ID": "27",
@@ -14931,13 +14936,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16992,
+      "Progressed": 16994,
       "Completed": 46
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2946,
+      "Progressed": 2948,
       "Completed": 976
     }
   ],
@@ -14945,8 +14950,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-21T04:02:39.716899+00:00",
-  "LastChanged_Achievements": "2023-12-21T15:06:31.8948209+00:00",
+  "LastChanged_Achievements": "2023-12-21T16:06:55.1519139+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:40.0929133+00:00",
-  "LastUpdate_Ratings": "2023-12-21T15:02:49.6792238+00:00",
-  "LastUpdate_Achievements": "2023-12-21T15:06:31.8949224+00:00"
+  "LastUpdate_Ratings": "2023-12-21T16:03:13.1728425+00:00",
+  "LastUpdate_Achievements": "2023-12-21T16:06:55.1520095+00:00"
 }

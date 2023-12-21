@@ -12,16 +12,16 @@
 | Aristocratic | 63.00% | ~91 |
 | Tutti Frutti | 57.00% | ~82 |
 | Gotta Go Fast | 45.00% | ~65 |
-| Slotting Machine | 41.00% | ~59 |
-| Systematic | 41.00% | ~59 |
+| Slotting Machine | 42.00% | ~60 |
+| Systematic | 42.00% | ~60 |
 | Roll Out | 37.00% | ~53 |
 | Mine Sweeper | 36.00% | ~52 |
 | Dopa-Miner | 28.00% | ~40 |
 | Up, Up And Away! | 26.00% | ~37 |
 | Whoa! | 26.00% | ~37 |
 | Botropolis | 24.00% | ~35 |
+| Steam Powered | 18.00% | ~26 |
 | Steaming Rich | 18.00% | ~26 |
-| Steam Powered | 17.00% | ~24 |
 | Manic Mechanic | 15.00% | ~22 |
 | Room To Spare | 13.00% | ~19 |
 | Real Purdy | 4.00% | ~6 |
@@ -33,7 +33,7 @@
 | Yup. | 0.70% | ~1 |
 | Nothing But Road | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 144 (Ranked 428)  
+Progressed: 144 (Ranked 429)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |

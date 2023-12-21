@@ -48,12 +48,12 @@ Rating: 4.62 (Ranked 373)
 | Lord of Chaos | 0.90% | ~53 |
 | God Emperor | 0.80% | ~47 |
 | The Goddess of Nature | 0.80% | ~47 |
+| Grexolis | 0.80% | ~47 |
 | I've Got Everything I Need Right Here | 0.70% | ~41 |
 | Manufactured War | 0.70% | ~41 |
 | Pruning for Progress | 0.70% | ~41 |
-| Grexolis | 0.70% | ~41 |
 | One for All, All for One | 0.70% | ~41 |
-| Duality | 0.60% | ~36 |
+| Duality | 0.70% | ~41 |
 | Betrayal Most Foul | 0.40% | ~24 |
 | Snap Out of It! | 0.30% | ~18 |
 | The Magic That Empowers Me! | 0.30% | ~18 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 373)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,926 (Ranked 192)  
+Progressed: 5,927 (Ranked 193)  
 Completed: 7 (0.12%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 7 (0.12%) (Ranked 295)
 | 2023-12-18 | 5,842 | 7 |
 | 2023-12-19 | 5,881 | 7 |
 | 2023-12-20 | 5,911 | 7 |
-| 2023-12-21 | 5,926 | 7 |
+| 2023-12-21 | 5,927 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 481)  
 Sum: 113 (Ranked 450)  

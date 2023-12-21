@@ -6,8 +6,8 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 9.00% | ~339 |
-| Lost and Found | 6.00% | ~226 |
+| Malpractice Assurance | 9.00% | ~340 |
+| Lost and Found | 6.00% | ~227 |
 | This Belongs in a Museum | 4.00% | ~5,156 |
 | Autodidact | 4.00% | ~5,156 |
 | This guy... again? | 4.00% | ~151 |
@@ -65,7 +65,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Shrine of Reflection | 0.60% | ~773 |
 | Body of Work | 0.60% | ~773 |
 | Et Tu, Riposte? | 0.60% | ~23 |
-| Clearing the Ledger | 0.50% | ~644 |
+| Clearing the Ledger | 0.50% | ~645 |
 | Hat Trick | 0.40% | ~516 |
 | Triage | 0.40% | ~516 |
 | No Mercy | 0.40% | ~15 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,896 (Ranked 86)  
+Progressed: 128,910 (Ranked 86)  
 Completed: 3 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 3 (0.00%) (Ranked 384)
 | 2023-12-18 | 128,398 | 3 |
 | 2023-12-19 | 128,605 | 3 |
 | 2023-12-20 | 128,785 | 3 |
-| 2023-12-21 | 128,896 | 3 |
+| 2023-12-21 | 128,910 | 3 |
 ## Awards
 Max (Character Customization): 7,805  (Ranked 50)  
 Sum: 20,875 (Ranked 58)  

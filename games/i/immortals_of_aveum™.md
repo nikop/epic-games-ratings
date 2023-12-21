@@ -5,18 +5,18 @@ Rating: 4.24 (Ranked 901)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~1,285 |
-| Battlefields Have Memories | 80.00% | ~1,182 |
-| Enlisted | 72.00% | ~1,063 |
-| Maybe Engage a Little | 66.00% | ~975 |
-| No More Names | 47.00% | ~694 |
-| Initiate | 33.00% | ~487 |
-| Thrada-Kul | 29.00% | ~428 |
+| Unforeseen | 87.00% | ~1,287 |
+| Battlefields Have Memories | 80.00% | ~1,183 |
+| Enlisted | 72.00% | ~1,065 |
+| Maybe Engage a Little | 66.00% | ~976 |
+| No More Names | 47.00% | ~695 |
+| Initiate | 33.00% | ~488 |
+| Thrada-Kul | 29.00% | ~429 |
 | Socialite | 22.00% | ~325 |
 | Gravity-Challenged Rocks | 22.00% | ~325 |
 | Soldier | 19.00% | ~281 |
 | All the Major Food Groups | 18.00% | ~266 |
-| Beggars Would Ride | 16.00% | ~236 |
+| Beggars Would Ride | 16.00% | ~237 |
 | Control is an Illusion | 14.00% | ~207 |
 | The Means to Save It | 12.00% | ~177 |
 | Resilience to Sin | 10.00% | ~148 |
@@ -41,10 +41,10 @@ Rating: 4.24 (Ranked 901)
 | Master of Carmine | 1.00% | ~15 |
 | Master of Ultramarine | 0.70% | ~10 |
 | Master of Malachite | 0.70% | ~10 |
+| Tip of the Spear | 0.70% | ~10 |
 | Grand Magnus | 0.60% | ~9 |
-| Tip of the Spear | 0.60% | ~9 |
+| Shroudfane Surveyor | 0.60% | ~9 |
 | Backtracker | 0.60% | ~9 |
-| Shroudfane Surveyor | 0.50% | ~7 |
 | Diplomat | 0.30% | ~4 |
 | Petite Bourgeoisie | 0.30% | ~4 |
 | Witch-Taker | 0.30% | ~4 |
@@ -53,7 +53,7 @@ Rating: 4.24 (Ranked 901)
 | Family Business | 0.20% | ~3 |
 | Fowl Play | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,477 (Ranked 252)  
+Progressed: 1,479 (Ranked 252)  
 Completed: 2 (0.14%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 2 (0.14%) (Ranked 289)
 | 2023-12-18 | 1,195 | 2 |
 | 2023-12-19 | 1,301 | 2 |
 | 2023-12-20 | 1,423 | 2 |
-| 2023-12-21 | 1,477 | 2 |
+| 2023-12-21 | 1,479 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

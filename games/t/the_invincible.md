@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 64.00% | ~541 |
+| The Camp | 65.00% | ~550 |
 | The Teleprobe | 52.00% | ~440 |
 | The City | 47.00% | ~398 |
 | The field base | 42.00% | ~355 |

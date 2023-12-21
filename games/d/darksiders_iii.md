@@ -6,47 +6,48 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 92.00% | ~11 |
-| First of many… | 83.00% | ~10 |
-| Increased Vigor | 75.00% | ~9 |
-| Helping Hand | 75.00% | ~9 |
-| Increased Capacity | 67.00% | ~8 |
-| Fight Fire with Fire | 67.00% | ~8 |
-| 25 to Life | 67.00% | ~8 |
-| Unshakable Fortitude | 58.00% | ~7 |
-| One Of the Chosen | 58.00% | ~7 |
-| Enhance! | 58.00% | ~7 |
-| Devil's in the Details | 58.00% | ~7 |
-| Throne Potato | 58.00% | ~7 |
-| Five's a Crowd | 58.00% | ~7 |
-| Just the start | 58.00% | ~7 |
-| Maximum Vigor | 50.00% | ~6 |
-| Perfect Storm | 50.00% | ~6 |
-| Salvation | 50.00% | ~6 |
-| All That Glitters | 50.00% | ~6 |
-| Soul Harvester | 42.00% | ~5 |
-| Delusions of Grandeur | 42.00% | ~5 |
-| Crowd Source | 42.00% | ~5 |
-| For Whom the Bell Tolls | 42.00% | ~5 |
-| Big Spender | 42.00% | ~5 |
-| Unyielding Strength | 33.00% | ~4 |
-| I Wanna Rock | 33.00% | ~4 |
-| Love Tap | 33.00% | ~4 |
-| Freeze Frame | 25.00% | ~3 |
-| Cleanup Crew | 25.00% | ~3 |
-| Can you restore the Balance? | 25.00% | ~3 |
-| Eat Your Heart Out | 25.00% | ~3 |
-| Protector of Humanity | 17.00% | ~2 |
-| Demon Meddler | 17.00% | ~2 |
-| Everybody Wants to Rule the World | 17.00% | ~2 |
-| Egomaniac | 17.00% | ~2 |
-| Seeing Red | 17.00% | ~2 |
-| Maximum Capacity | 8.00% | ~1 |
-| Soul Reaper | 8.00% | ~1 |
-| A Parting Gift | 8.00% | ~1 |
-| Path of the Horseman | 8.00% | ~1 |
-| Keep it 100! | 8.00% | ~1 |
-| Take it to the Limit | 8.00% | ~1 |
+| Green with Envy | 93.00% | ~13 |
+| First of many… | 86.00% | ~12 |
+| Helping Hand | 79.00% | ~11 |
+| Increased Vigor | 71.00% | ~10 |
+| Increased Capacity | 64.00% | ~9 |
+| Fight Fire with Fire | 64.00% | ~9 |
+| 25 to Life | 64.00% | ~9 |
+| Unshakable Fortitude | 57.00% | ~8 |
+| Perfect Storm | 57.00% | ~8 |
+| Devil's in the Details | 57.00% | ~8 |
+| Throne Potato | 57.00% | ~8 |
+| Five's a Crowd | 57.00% | ~8 |
+| Just the start | 57.00% | ~8 |
+| One Of the Chosen | 50.00% | ~7 |
+| Salvation | 50.00% | ~7 |
+| Enhance! | 50.00% | ~7 |
+| All That Glitters | 50.00% | ~7 |
+| Maximum Vigor | 43.00% | ~6 |
+| Delusions of Grandeur | 43.00% | ~6 |
+| For Whom the Bell Tolls | 43.00% | ~6 |
+| I Wanna Rock | 36.00% | ~5 |
+| Soul Harvester | 36.00% | ~5 |
+| Love Tap | 36.00% | ~5 |
+| Crowd Source | 36.00% | ~5 |
+| Big Spender | 36.00% | ~5 |
+| Unyielding Strength | 29.00% | ~4 |
+| Freeze Frame | 21.00% | ~3 |
+| Cleanup Crew | 21.00% | ~3 |
+| Can you restore the Balance? | 21.00% | ~3 |
+| Eat Your Heart Out | 21.00% | ~3 |
+| Protector of Humanity | 14.00% | ~2 |
+| Demon Meddler | 14.00% | ~2 |
+| Everybody Wants to Rule the World | 14.00% | ~2 |
+| Egomaniac | 14.00% | ~2 |
+| Seeing Red | 14.00% | ~2 |
+| Maximum Capacity | 7.00% | ~1 |
+| Soul Reaper | 7.00% | ~1 |
+| A Parting Gift | 7.00% | ~1 |
+| Path of the Horseman | 7.00% | ~1 |
+| Keep it 100! | 7.00% | ~1 |
+| Community Outreach | 7.00% | ~1 |
+| Take it to the Limit | 7.00% | ~1 |
 | Unbreakable Will | 0.00% | ~0 |
 | Purity of Power | 0.00% | ~0 |
 | Holy Keeper | 0.00% | ~0 |
@@ -66,18 +67,17 @@ Number of Ratings: 116  (23.09.2022)
 | Keeper of the Tempo | 0.00% | ~0 |
 | Keeper of the Sky | 0.00% | ~0 |
 | Beast Mode | 0.00% | ~0 |
-| Community Outreach | 0.00% | ~0 |
 | Humanitarian | 0.00% | ~0 |
 | BFA | 0.00% | ~0 |
 | Made of Sterner Stuff | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12 (Ranked 632)  
+Progressed: 14 (Ranked 626)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-12-13 | 1 | 0 |
-| 2023-12-21 | 12 | 0 |
+| 2023-12-21 | 14 | 0 |
 ## Awards
 Max (Great Boss Battles): 92  (Ranked 384)  
 Sum: 92 (Ranked 463)  

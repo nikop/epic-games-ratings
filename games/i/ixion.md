@@ -5,13 +5,13 @@ Rating: 4.58 (Ranked 456)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 30.00% | ~1,084 |
+| Wakey Wakey | 30.00% | ~1,085 |
 | Sputnik 2049 | 27.00% | ~976 |
 | Infinite Growth... | 26.00% | ~940 |
 | Without Breaking Some Eggs... | 25.00% | ~904 |
 | A Thousand Strong | 18.00% | ~651 |
 | Ready for a New World | 18.00% | ~651 |
-| Space Society | 17.00% | ~614 |
+| Space Society | 17.00% | ~615 |
 | Permanent Redesigns | 15.00% | ~542 |
 | Fully Recycled | 14.00% | ~506 |
 | Ain't Nobody Got Time for That | 14.00% | ~506 |
@@ -27,9 +27,9 @@ Rating: 4.58 (Ranked 456)
 | Please Make it Stop! | 8.00% | ~289 |
 | Sightseeing | 7.00% | ~253 |
 | Necessary Enhancement | 7.00% | ~253 |
-| From the Past | 7.00% | ~253 |
 | Access Granted | 6.00% | ~217 |
 | All in Good Health | 6.00% | ~217 |
+| From the Past | 6.00% | ~217 |
 | Oats | 5.00% | ~181 |
 | What They Hide From Us | 5.00% | ~181 |
 | ...  in a finite world | 5.00% | ~181 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 456)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,614 (Ranked 211)  
+Progressed: 3,616 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 3,569 | 0 |
 | 2023-12-19 | 3,586 | 0 |
 | 2023-12-20 | 3,605 | 0 |
-| 2023-12-21 | 3,614 | 0 |
+| 2023-12-21 | 3,616 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

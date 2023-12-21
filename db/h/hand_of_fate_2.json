@@ -943,9 +943,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 666065,
+  "EOS_Progressed": 666068,
   "EOS_Completed": 174,
-  "EOS_NewPlayers": 265,
+  "EOS_NewPlayers": 266,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -24113,6 +24113,11 @@
       "Time": "2023-12-21T15:09:39.5085915+00:00",
       "NumProgressed": 666065,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2023-12-21T16:10:02.6951104+00:00",
+      "NumProgressed": 666068,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 48,
@@ -24124,7 +24129,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 479567
+      "UsersEstimate": 479569
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -24132,7 +24137,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 386318
+      "UsersEstimate": 386319
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -24140,7 +24145,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 153195
+      "UsersEstimate": 153196
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -24188,7 +24193,7 @@
       "Name": "Gambler",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66606
+      "UsersEstimate": 66607
     },
     {
       "ID": "Achievement_10_Long_Shot",
@@ -24220,7 +24225,7 @@
       "Name": "Dice Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66606
+      "UsersEstimate": 66607
     },
     {
       "ID": "Achievement_14_Magician",
@@ -24260,7 +24265,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 153195
+      "UsersEstimate": 153196
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -24268,7 +24273,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 93249
+      "UsersEstimate": 93250
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -24276,7 +24281,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 113231
+      "UsersEstimate": 113232
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -24388,7 +24393,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 166516
+      "UsersEstimate": 166517
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -24507,15 +24512,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 666065,
+      "Progressed": 666068,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-11-24T17:58:48.2867936+00:00",
-  "LastChanged_Achievements": "2023-12-21T15:09:39.5085911+00:00",
+  "LastChanged_Achievements": "2023-12-21T16:10:02.6951099+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:46.8226063+00:00",
-  "LastUpdate_Ratings": "2023-12-21T15:00:34.2031061+00:00",
-  "LastUpdate_Achievements": "2023-12-21T15:09:39.5088064+00:00"
+  "LastUpdate_Ratings": "2023-12-21T16:01:05.6528469+00:00",
+  "LastUpdate_Achievements": "2023-12-21T16:10:02.6952248+00:00"
 }

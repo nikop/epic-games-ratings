@@ -58,9 +58,9 @@ Number of Ratings: 45  (23.09.2022)
 | Solid as the Hills | 0.10% | ~2 |
 | We Call That Mortificient! | 0.10% | ~2 |
 | Symbiosis | 0.10% | ~2 |
+| Thwack! | 0.10% | ~2 |
 | Drauvenslayers | 0.00% | ~0 |
 | Peacemaker | 0.00% | ~0 |
-| Thwack! | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,537 (Ranked 248)  

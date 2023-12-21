@@ -7,12 +7,12 @@ Number of Ratings: 101  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Our Man | 85.00% | ~688 |
-| Take-Off | 80.00% | ~647 |
+| Take-Off | 81.00% | ~655 |
 | Hokey-Pokey | 70.00% | ~566 |
 | Camellos | 55.00% | ~445 |
 | Bad Trip | 45.00% | ~364 |
 | Didn't Miss A Single One | 44.00% | ~356 |
-| Spread | 42.00% | ~340 |
+| Spread | 43.00% | ~348 |
 | That was base | 41.00% | ~332 |
 | Safe Pair of Hands | 36.00% | ~291 |
 | Don't Let Mom Know You're A Druglord | 30.00% | ~243 |

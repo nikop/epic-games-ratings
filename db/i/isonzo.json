@@ -2,13 +2,13 @@
   "ID": "30de69013f3b41b0ba594a8ef3b693ba",
   "Name": "Isonzo",
   "ProductSlug": "isonzo",
-  "Ranking_Rating": 482,
+  "Ranking_Rating": 483,
   "Ranking_Popularity": 469,
   "Ranking_PopularitySum": 363,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1017,7 +1017,7 @@
   ],
   "EOS_Progressed": 9526,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10108,8 +10108,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-19T18:00:04.0017242+00:00",
-  "LastChanged_Achievements": "2023-12-21T15:09:31.715117+00:00",
+  "LastChanged_Achievements": "2023-12-21T16:09:54.7016501+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:27.7823002+00:00",
-  "LastUpdate_Ratings": "2023-12-21T14:56:59.4344813+00:00",
-  "LastUpdate_Achievements": "2023-12-21T15:09:31.7151972+00:00"
+  "LastUpdate_Ratings": "2023-12-21T15:57:20.9290908+00:00",
+  "LastUpdate_Achievements": "2023-12-21T16:09:54.701714+00:00"
 }

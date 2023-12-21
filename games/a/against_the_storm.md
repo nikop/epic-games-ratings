@@ -6,8 +6,8 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Abandoned Settlement | 6.00% | ~1,129 |
-| Overgrown Library | 6.00% | ~1,129 |
+| Abandoned Settlement | 6.00% | ~1,130 |
+| Overgrown Library | 6.00% | ~1,130 |
 | Petrified Necropolis | 5.00% | ~941 |
 | Taking Action | 4.00% | ~753 |
 | No Deaths | 4.00% | ~753 |
@@ -20,12 +20,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Marshlands | 3.00% | ~565 |
 | The Scarlet Orchard | 3.00% | ~565 |
 | Land of Greed | 3.00% | ~565 |
-| Homesick | 2.00% | ~376 |
-| Fertile Meadows | 2.00% | ~376 |
-| Monastery of the Holy Flame | 2.00% | ~376 |
-| Royal Outpost | 2.00% | ~376 |
-| Watchtower | 2.00% | ~376 |
-| Untamed Wilds | 2.00% | ~376 |
+| Homesick | 2.00% | ~377 |
+| Fertile Meadows | 2.00% | ~377 |
+| Monastery of the Holy Flame | 2.00% | ~377 |
+| Royal Outpost | 2.00% | ~377 |
+| Watchtower | 2.00% | ~377 |
+| Untamed Wilds | 2.00% | ~377 |
 | Ruined Armory | 1.00% | ~188 |
 | Bandit Camp | 1.00% | ~188 |
 | Barren Lands | 1.00% | ~188 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,820 (Ranked 148)  
+Progressed: 18,828 (Ranked 148)  
 Completed: 39 (0.21%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,16 +311,16 @@ Completed: 39 (0.21%) (Ranked 268)
 | 2023-12-18 | 18,615 | 39 |
 | 2023-12-19 | 18,687 | 39 |
 | 2023-12-20 | 18,771 | 39 |
-| 2023-12-21 | 18,820 | 39 |
+| 2023-12-21 | 18,828 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 228)  
-Sum: 3,275 (Ranked 175)  
+Sum: 3,276 (Ranked 175)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 442 |
 | This game is Relaxing | 439 |
-| This game is Great for Beginners | 430 |
+| This game is Great for Beginners | 431 |
 | This game is Extremely Fun | 411 |
 | This game is Highly Recommended | 394 |
 | This game has Unique Visuals | 332 |
@@ -591,4 +591,4 @@ Diff (max vs sum): 53
 | 2023-12-18 | 4.82 | - | 442 | 3,268 |
 | 2023-12-19 | 4.82 | - | 442 | 3,273 |
 | 2023-12-20 | 4.82 | - | 442 | 3,274 |
-| 2023-12-21 | 4.82 | - | 442 | 3,275 |
+| 2023-12-21 | 4.82 | - | 442 | 3,276 |

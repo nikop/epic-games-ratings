@@ -1,7 +1,7 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.54 (Ranked 533)  
+Rating: 4.54 (Ranked 534)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,10 +13,10 @@ Rating: 4.54 (Ranked 533)
 | Bosmang | 9.00% | ~1,529 |
 | Celebrations are in Order | 9.00% | ~1,529 |
 | Impossible Objects | 9.00% | ~1,529 |
-| Spore Taste | 8.00% | ~1,359 |
+| Spore Taste | 8.00% | ~1,360 |
 | Zen Master | 8.00% | ~236 |
-| Stogie for Fogey | 7.00% | ~1,189 |
-| Call it Even | 7.00% | ~1,189 |
+| Stogie for Fogey | 7.00% | ~1,190 |
+| Call it Even | 7.00% | ~1,190 |
 | Safe Cracker | 7.00% | ~206 |
 | Madame Undersecretary | 7.00% | ~206 |
 | Drug Gifter | 6.00% | ~1,020 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 533)
 | Scavenger Star | 0.20% | ~34 |
 | Data Collector | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,992 (Ranked 154)  
+Progressed: 16,994 (Ranked 154)  
 Completed: 46 (0.27%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 46 (0.27%) (Ranked 254)
 | 2023-12-18 | 16,797 | 44 |
 | 2023-12-19 | 16,865 | 45 |
 | 2023-12-20 | 16,946 | 46 |
-| 2023-12-21 | 16,992 | 46 |
+| 2023-12-21 | 16,994 | 46 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

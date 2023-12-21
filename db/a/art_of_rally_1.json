@@ -3,12 +3,12 @@
   "Name": "Art of Rally",
   "ProductSlug": "art-of-rally",
   "Ranking_Rating": 33,
-  "Ranking_Popularity": 570,
-  "Ranking_PopularitySum": 570,
+  "Ranking_Popularity": 571,
+  "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 306,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
     "PcReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -197,7 +197,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10370,
+  "EOS_Progressed": 10371,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
@@ -2117,6 +2117,11 @@
       "Time": "2023-12-21T13:08:07.4908005+00:00",
       "NumProgressed": 10370,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-21T16:05:01.9864025+00:00",
+      "NumProgressed": 10371,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 43,
@@ -2136,7 +2141,7 @@
       "Name": "to finish first, first you must finish",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2281
+      "UsersEstimate": 2282
     },
     {
       "ID": "ACH_ABSOLUTE_DRIFT",
@@ -2152,7 +2157,7 @@
       "Name": "autopilot",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 2281
+      "UsersEstimate": 2282
     },
     {
       "ID": "ACH_ALL_BONUSES",
@@ -2296,7 +2301,7 @@
       "Name": "group b",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "ACH_DAILY",
@@ -2352,7 +2357,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9955
+      "UsersEstimate": 9956
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -2368,7 +2373,7 @@
       "Name": "medium attack",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 6222
+      "UsersEstimate": 6223
     },
     {
       "ID": "ACH_NIGHT",
@@ -2400,7 +2405,7 @@
       "Name": "you can\u0027t treat a car like a human being. a car requires love",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2281
+      "UsersEstimate": 2282
     },
     {
       "ID": "ACH_SIMULATOR",
@@ -2464,22 +2469,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7466
+      "UsersEstimate": 7467
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10370,
+      "Progressed": 10371,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-12-21T15:04:39.4567746+00:00",
+  "LastChanged_Achievements": "2023-12-21T16:05:01.9864022+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:05.192967+00:00",
-  "LastUpdate_Ratings": "2023-12-21T15:01:40.3690957+00:00",
-  "LastUpdate_Achievements": "2023-12-21T15:04:39.4568154+00:00"
+  "LastUpdate_Ratings": "2023-12-21T16:02:13.8960461+00:00",
+  "LastUpdate_Achievements": "2023-12-21T16:05:01.9864771+00:00"
 }

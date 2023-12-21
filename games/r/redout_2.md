@@ -12,8 +12,8 @@ Rating: 4.52 (Ranked 566)
 | A Cheese Grater to the Face | 20.00% | ~237 |
 | Put it on a shelf | 18.00% | ~213 |
 | It's like an haircut | 17.00% | ~201 |
-| Ride in the rising sun | 16.00% | ~189 |
-| Suit up | 16.00% | ~189 |
+| Ride in the rising sun | 16.00% | ~190 |
+| Suit up | 16.00% | ~190 |
 | Walked like an Egyptian | 15.00% | ~178 |
 | Running at the speed of sound | 14.00% | ~166 |
 | Rookie No-No More | 13.00% | ~154 |
@@ -58,7 +58,7 @@ Rating: 4.52 (Ranked 566)
 | I, need, more, shelves! | 0.50% | ~6 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,184 (Ranked 267)  
+Progressed: 1,185 (Ranked 267)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,6 +195,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-16 | 1,182 | 0 |
 | 2023-12-17 | 1,183 | 0 |
 | 2023-12-19 | 1,184 | 0 |
+| 2023-12-21 | 1,185 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

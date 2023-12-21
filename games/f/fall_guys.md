@@ -6,43 +6,43 @@ Number of Ratings: 1,046,587  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One small trip | 15.00% | ~5,564,846 |
-| Snowflake | 14.00% | ~5,193,856 |
-| Fall Throttle | 13.00% | ~4,822,866 |
-| Big Bully | 11.00% | ~4,080,887 |
-| Face First | 10.00% | ~3,709,897 |
-| Style Points | 10.00% | ~3,709,897 |
-| One to Watch | 9.00% | ~3,338,908 |
-| Troublemaker | 9.00% | ~3,338,908 |
-| Flawless Victory | 8.00% | ~2,967,918 |
-| Fall Bae | 8.00% | ~2,967,918 |
-| Ahead of the Pack | 8.00% | ~2,967,918 |
-| Stumble Chums | 8.00% | ~2,967,918 |
-| Victory! | 7.00% | ~2,596,928 |
-| Bargain Bucket | 5.00% | ~1,854,949 |
-| Household Name | 4.00% | ~1,483,959 |
-| One giant leap | 4.00% | ~1,483,959 |
-| Catwalk Model | 3.00% | ~1,112,969 |
-| Down to the Wire | 3.00% | ~1,112,969 |
-| Head Turner | 3.00% | ~1,112,969 |
-| Quite Dashing | 3.00% | ~1,112,969 |
-| Squad Goals | 3.00% | ~1,112,969 |
-| Big Air | 2.00% | ~741,979 |
-| Star of the Show | 2.00% | ~741,979 |
-| Shopping Spree | 2.00% | ~741,979 |
-| Top Tier | 2.00% | ~741,979 |
-| Low Baller | 1.00% | ~370,990 |
-| Mad Trendy | 1.00% | ~370,990 |
-| Veteran Status | 1.00% | ~370,990 |
-| Show Off | 1.00% | ~370,990 |
-| Golden Guy | 0.80% | ~296,792 |
-| Track Star | 0.70% | ~259,693 |
-| Big Tease | 0.50% | ~185,495 |
-| Fall Guy Fashionista | 0.40% | ~148,396 |
-| Infallible | 0.30% | ~111,297 |
+| One small trip | 15.00% | ~5,565,040 |
+| Snowflake | 14.00% | ~5,194,037 |
+| Fall Throttle | 13.00% | ~4,823,035 |
+| Big Bully | 11.00% | ~4,081,029 |
+| Face First | 10.00% | ~3,710,027 |
+| Style Points | 10.00% | ~3,710,027 |
+| One to Watch | 9.00% | ~3,339,024 |
+| Troublemaker | 9.00% | ~3,339,024 |
+| Flawless Victory | 8.00% | ~2,968,021 |
+| Fall Bae | 8.00% | ~2,968,021 |
+| Ahead of the Pack | 8.00% | ~2,968,021 |
+| Stumble Chums | 8.00% | ~2,968,021 |
+| Victory! | 7.00% | ~2,597,019 |
+| Bargain Bucket | 5.00% | ~1,855,013 |
+| Household Name | 4.00% | ~1,484,011 |
+| One giant leap | 4.00% | ~1,484,011 |
+| Catwalk Model | 3.00% | ~1,113,008 |
+| Down to the Wire | 3.00% | ~1,113,008 |
+| Head Turner | 3.00% | ~1,113,008 |
+| Quite Dashing | 3.00% | ~1,113,008 |
+| Squad Goals | 3.00% | ~1,113,008 |
+| Big Air | 2.00% | ~742,005 |
+| Star of the Show | 2.00% | ~742,005 |
+| Shopping Spree | 2.00% | ~742,005 |
+| Top Tier | 2.00% | ~742,005 |
+| Low Baller | 1.00% | ~371,003 |
+| Mad Trendy | 1.00% | ~371,003 |
+| Veteran Status | 1.00% | ~371,003 |
+| Show Off | 1.00% | ~371,003 |
+| Golden Guy | 0.80% | ~296,802 |
+| Track Star | 0.70% | ~259,702 |
+| Big Tease | 0.50% | ~185,501 |
+| Fall Guy Fashionista | 0.40% | ~148,401 |
+| Infallible | 0.30% | ~111,301 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37,098,973 (Ranked 1)  
-Completed: 48,408 (0.13%) (Ranked 290)  
+Progressed: 37,100,267 (Ranked 1)  
+Completed: 48,411 (0.13%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -286,10 +286,10 @@ Completed: 48,408 (0.13%) (Ranked 290)
 | 2023-12-18 | 37,056,285 | 48,255 |
 | 2023-12-19 | 37,075,223 | 48,305 |
 | 2023-12-20 | 37,089,901 | 48,370 |
-| 2023-12-21 | 37,098,973 | 48,408 |
+| 2023-12-21 | 37,100,267 | 48,411 |
 ## Awards
 Max (Great for Beginners): 153,518  (Ranked 7)  
-Sum: 1,395,694 (Ranked 5)  
+Sum: 1,395,768 (Ranked 5)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -298,7 +298,7 @@ Diff (max vs sum): 2
 | This game is Great for Quick Sessions | 135,515 |
 | This game has Competitive Players | 134,934 |
 | This game has Quickly Understood Controls | 134,641 |
-| This game has Diverse Characters | 131,429 |
+| This game has Diverse Characters | 131,503 |
 | This game is Extremely Fun | 123,330 |
 | This game is Highly Recommended | 117,449 |
 | This game has Amazing Characters | 114,052 |
@@ -637,4 +637,4 @@ Diff (max vs sum): 2
 | 2023-12-18 | 4.51 | - | 153,344 | 1,394,768 |
 | 2023-12-19 | 4.51 | - | 153,381 | 1,395,056 |
 | 2023-12-20 | 4.51 | - | 153,430 | 1,395,415 |
-| 2023-12-21 | 4.51 | - | 153,518 | 1,395,694 |
+| 2023-12-21 | 4.51 | - | 153,518 | 1,395,768 |

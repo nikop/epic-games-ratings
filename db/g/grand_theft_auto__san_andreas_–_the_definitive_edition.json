@@ -4,11 +4,11 @@
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 512,
   "Ranking_Popularity": 221,
-  "Ranking_PopularitySum": 297,
+  "Ranking_PopularitySum": 296,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1811,10 +1811,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 727,
       "NumberOfAwardsMax": 467
+    },
+    {
+      "Time": "2023-12-21T15:59:37.2770321+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 728,
+      "NumberOfAwardsMax": 467
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 727,
+  "NumberOfAwards": 728,
   "NumberOfAwardsMax": 467,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1840,7 +1846,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1879,9 +1885,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 15908,
+  "EOS_Progressed": 15920,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 1748,
+  "EOS_NewPlayers": 1746,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -17004,6 +17010,11 @@
       "Time": "2023-12-21T15:10:37.9670186+00:00",
       "NumProgressed": 15908,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-12-21T16:11:02.1581277+00:00",
+      "NumProgressed": 15920,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 35,
@@ -17015,7 +17026,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 12885
+      "UsersEstimate": 12895
     },
     {
       "ID": "ACH02",
@@ -17031,7 +17042,7 @@
       "Name": "The End of the Line",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1274
     },
     {
       "ID": "ACH04",
@@ -17063,7 +17074,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3023
+      "UsersEstimate": 3025
     },
     {
       "ID": "ACH08",
@@ -17071,7 +17082,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 7954
+      "UsersEstimate": 7960
     },
     {
       "ID": "ACH09",
@@ -17079,7 +17090,7 @@
       "Name": "Bike or Biker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "ACH10",
@@ -17095,7 +17106,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1432
+      "UsersEstimate": 1433
     },
     {
       "ID": "ACH12",
@@ -17111,7 +17122,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 2863
+      "UsersEstimate": 2866
     },
     {
       "ID": "ACH14",
@@ -17119,7 +17130,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1750
+      "UsersEstimate": 1751
     },
     {
       "ID": "ACH15",
@@ -17127,7 +17138,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "ACH16",
@@ -17135,7 +17146,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2704
+      "UsersEstimate": 2706
     },
     {
       "ID": "ACH17",
@@ -17143,7 +17154,7 @@
       "Name": "What the City Needs",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "ACH18",
@@ -17151,7 +17162,7 @@
       "Name": "Saviour",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 954
+      "UsersEstimate": 955
     },
     {
       "ID": "ACH19",
@@ -17159,7 +17170,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "ACH20",
@@ -17183,7 +17194,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2227
+      "UsersEstimate": 2229
     },
     {
       "ID": "ACH23",
@@ -17191,7 +17202,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 3977
+      "UsersEstimate": 3980
     },
     {
       "ID": "ACH24",
@@ -17207,7 +17218,7 @@
       "Name": "What are the Odds",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "ACH26",
@@ -17231,7 +17242,7 @@
       "Name": "Original Gangster",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1274
     },
     {
       "ID": "ACH29",
@@ -17239,7 +17250,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2386
+      "UsersEstimate": 2388
     },
     {
       "ID": "ACH30",
@@ -17294,16 +17305,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 15908,
+      "Progressed": 15920,
       "Completed": 62
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-12-20T23:58:50.97065+00:00",
-  "LastChanged_Achievements": "2023-12-21T15:10:37.9670184+00:00",
+  "LastChanged": "2023-12-21T15:59:37.2770319+00:00",
+  "LastChanged_Achievements": "2023-12-21T16:11:02.1581271+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:24.5920887+00:00",
-  "LastUpdate_Ratings": "2023-12-21T14:59:15.6924311+00:00",
-  "LastUpdate_Achievements": "2023-12-21T15:10:37.9671043+00:00"
+  "LastUpdate_Ratings": "2023-12-21T15:59:37.2770325+00:00",
+  "LastUpdate_Achievements": "2023-12-21T16:11:02.1582305+00:00"
 }

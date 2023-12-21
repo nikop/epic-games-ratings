@@ -2,13 +2,13 @@
   "ID": "e8882546f28e4832af823c646aed232e",
   "Name": "Offworld Trading Company",
   "ProductSlug": "offworld-trading-company",
-  "Ranking_Rating": 853,
+  "Ranking_Rating": 857,
   "Ranking_Popularity": 454,
-  "Ranking_PopularitySum": 375,
+  "Ranking_PopularitySum": 373,
   "Ranking_EOS_Progress": 813,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 561,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-02-27T15:00:00+00:00",
     "PcReleaseDate": "2020-02-27T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.3,
+  "Rating": 4.29,
   "NumberOfRatings": 432,
   "RatingHistory": [
     {
@@ -751,10 +751,16 @@
       "Rating": 4.3,
       "NumberOfAwards": 289,
       "NumberOfAwardsMax": 46
+    },
+    {
+      "Time": "2023-12-21T15:57:40.5387871+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 290,
+      "NumberOfAwardsMax": 46
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 289,
+  "NumberOfAwards": 290,
   "NumberOfAwardsMax": 46,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -762,7 +768,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 44
+      "Count": 45
     },
     {
       "Text": "This game is Highly Recommended",
@@ -830,8 +836,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:30.0277807+00:00",
-  "LastChanged": "2023-12-13T08:01:28.9239572+00:00",
+  "LastChanged": "2023-12-21T15:57:40.5387868+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:39.9137743+00:00",
-  "LastUpdate_Ratings": "2023-12-21T14:57:18.5413378+00:00",
-  "LastUpdate_Achievements": "2023-12-21T15:05:23.5895983+00:00"
+  "LastUpdate_Ratings": "2023-12-21T15:57:40.5387878+00:00",
+  "LastUpdate_Achievements": "2023-12-21T16:05:46.7001823+00:00"
 }

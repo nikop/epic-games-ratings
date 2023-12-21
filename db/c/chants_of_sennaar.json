@@ -3,8 +3,8 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_Rating": 42,
-  "Ranking_Popularity": 570,
-  "Ranking_PopularitySum": 570,
+  "Ranking_Popularity": 571,
+  "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 75,
   "Ranking_EOS_NewPlayers": 145,
@@ -49,11 +49,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1499,
+  "EOS_Progressed": 1502,
   "EOS_Completed": 80,
-  "EOS_NewPlayers": 469,
+  "EOS_NewPlayers": 467,
   "EOS_NewCompleters": 24,
-  "EOS_Completed_Percentage": 5.34,
+  "EOS_Completed_Percentage": 5.33,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -4749,6 +4749,11 @@
       "Time": "2023-12-21T15:08:44.897125+00:00",
       "NumProgressed": 1499,
       "NumCompleted": 80
+    },
+    {
+      "Time": "2023-12-21T16:09:08.38642+00:00",
+      "NumProgressed": 1502,
+      "NumCompleted": 80
     }
   ],
   "TotalAchievements": 25,
@@ -4774,9 +4779,9 @@
       "ID": "META_ALL_LINK",
       "SetID": "2gma9an",
       "Name": "Peace walker",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 285
+      "UsersEstimate": 300
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -4790,9 +4795,9 @@
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 345
+      "UsersEstimate": 360
     },
     {
       "ID": "META_HALF_LINK",
@@ -4880,7 +4885,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -4904,7 +4909,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -4912,7 +4917,7 @@
       "Name": "Scholar",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "PROGRESS_N1",
@@ -4920,7 +4925,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "PROGRESS_N2",
@@ -4928,7 +4933,7 @@
       "Name": "The great escape",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "PROGRESS_N3",
@@ -4936,7 +4941,7 @@
       "Name": "A new dawn",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "PROGRESS_N4",
@@ -4959,7 +4964,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1499,
+      "Progressed": 1502,
       "Completed": 80
     }
   ],
@@ -4967,8 +4972,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-21T13:58:55.1051952+00:00",
-  "LastChanged_Achievements": "2023-12-21T15:08:44.8971246+00:00",
+  "LastChanged_Achievements": "2023-12-21T16:09:08.3864195+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:30.8935759+00:00",
-  "LastUpdate_Ratings": "2023-12-21T14:59:32.470928+00:00",
-  "LastUpdate_Achievements": "2023-12-21T15:08:44.8971688+00:00"
+  "LastUpdate_Ratings": "2023-12-21T15:59:54.0672546+00:00",
+  "LastUpdate_Achievements": "2023-12-21T16:09:08.3864531+00:00"
 }

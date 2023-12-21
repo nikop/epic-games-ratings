@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 268,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3459,10 +3459,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3275,
       "NumberOfAwardsMax": 442
+    },
+    {
+      "Time": "2023-12-21T16:01:33.9954085+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3276,
+      "NumberOfAwardsMax": 442
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3275,
+  "NumberOfAwards": 3276,
   "NumberOfAwardsMax": 442,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3500,7 +3506,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 430
+      "Count": 431
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3527,9 +3533,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18820,
+  "EOS_Progressed": 18828,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 714,
+  "EOS_NewPlayers": 715,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16562,6 +16568,11 @@
       "Time": "2023-12-21T15:08:25.9756482+00:00",
       "NumProgressed": 18820,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-21T16:08:49.8024096+00:00",
+      "NumProgressed": 18828,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16654,7 +16665,7 @@
       "Name": "Homesick",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "WinFirstGame",
@@ -16734,7 +16745,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "WinNearFishmen",
@@ -16782,7 +16793,7 @@
       "Name": "Monastery of the Holy Flame",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "WinNearOutpost",
@@ -16790,7 +16801,7 @@
       "Name": "Royal Outpost",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "WinNearRuins",
@@ -16830,7 +16841,7 @@
       "Name": "Watchtower",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "WinOnCoral",
@@ -16974,7 +16985,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "WinNearFrosts",
@@ -16998,7 +17009,7 @@
       "Name": "Overgrown Library",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "WinNearPetrified",
@@ -17030,7 +17041,7 @@
       "Name": "Untamed Wilds",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "WinWithFoxes",
@@ -17045,15 +17056,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18820,
+      "Progressed": 18828,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-12-21T09:59:46.5641873+00:00",
-  "LastChanged_Achievements": "2023-12-21T15:08:25.9756479+00:00",
+  "LastChanged": "2023-12-21T16:01:33.9954083+00:00",
+  "LastChanged_Achievements": "2023-12-21T16:08:49.8024088+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
-  "LastUpdate_Ratings": "2023-12-21T15:01:01.5626361+00:00",
-  "LastUpdate_Achievements": "2023-12-21T15:08:25.9757315+00:00"
+  "LastUpdate_Ratings": "2023-12-21T16:01:33.995409+00:00",
+  "LastUpdate_Achievements": "2023-12-21T16:08:49.8025148+00:00"
 }

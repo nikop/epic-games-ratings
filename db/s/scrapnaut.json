@@ -2,12 +2,12 @@
   "ID": "c1edd23d035a4df0bbc419f2d0fbb40d",
   "Name": "Scrapnaut",
   "ProductSlug": "scrapnaut",
-  "Ranking_Rating": 858,
-  "Ranking_Popularity": 570,
-  "Ranking_PopularitySum": 570,
+  "Ranking_Rating": 857,
+  "Ranking_Popularity": 571,
+  "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -1975,9 +1975,9 @@
       "ID": "ACH_CUT_50_TREES",
       "SetID": "7c4cldc",
       "Name": "Forest Lord",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 35,
-      "UsersEstimate": 54
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH_FIND_10_TREASURES",
@@ -2112,8 +2112,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2023-12-21T15:09:46.144252+00:00",
+  "LastChanged_Achievements": "2023-12-21T16:10:09.0587188+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.762988+00:00",
-  "LastUpdate_Ratings": "2023-12-21T15:00:03.740193+00:00",
-  "LastUpdate_Achievements": "2023-12-21T15:09:46.144288+00:00"
+  "LastUpdate_Ratings": "2023-12-21T16:00:31.2197129+00:00",
+  "LastUpdate_Achievements": "2023-12-21T16:10:09.0587458+00:00"
 }

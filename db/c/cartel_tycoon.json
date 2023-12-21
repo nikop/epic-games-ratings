@@ -3,11 +3,11 @@
   "Name": "Cartel Tycoon",
   "ProductSlug": "cartel-tycoon",
   "Ranking_Rating": 781,
-  "Ranking_Popularity": 570,
-  "Ranking_PopularitySum": 570,
+  "Ranking_Popularity": 571,
+  "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -2926,9 +2926,9 @@
       "ID": "sell-variety",
       "SetID": "bed33dd",
       "Name": "Spread",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 340
+      "UsersEstimate": 348
     },
     {
       "ID": "send-smuggling",
@@ -2950,9 +2950,9 @@
       "ID": "upgrade-building",
       "SetID": "bed33dd",
       "Name": "Take-Off",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 647
+      "UsersEstimate": 655
     },
     {
       "ID": "use-submarine",
@@ -2974,8 +2974,8 @@
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-12T19:59:33.5091909+00:00",
-  "LastChanged_Achievements": "2023-12-21T15:06:06.5378461+00:00",
+  "LastChanged_Achievements": "2023-12-21T16:06:29.7354945+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.4837395+00:00",
-  "LastUpdate_Ratings": "2023-12-21T14:57:05.1243432+00:00",
-  "LastUpdate_Achievements": "2023-12-21T15:06:06.537866+00:00"
+  "LastUpdate_Ratings": "2023-12-21T15:57:26.6573693+00:00",
+  "LastUpdate_Achievements": "2023-12-21T16:06:29.7355211+00:00"
 }

@@ -11,20 +11,20 @@
 | Phantom Kunoichi | 44.00% | ~20 |
 | Divine Retribution | 40.00% | ~18 |
 | Final Showdown | 38.00% | ~17 |
+| Dispel Rumors | 38.00% | ~17 |
 | The End of an Outlaw | 38.00% | ~17 |
 | Captain Mustache | 38.00% | ~17 |
-| Dispel Rumors | 36.00% | ~16 |
 | Urban Explorer | 31.00% | ~14 |
 | Sewer Rat | 31.00% | ~14 |
 | Demon Slayer | 29.00% | ~13 |
 | Steal Her Away | 29.00% | ~13 |
 | Fight Fire With Fire | 29.00% | ~13 |
+| Big Eater | 27.00% | ~12 |
 | Not Today | 27.00% | ~12 |
-| Big Eater | 24.00% | ~11 |
 | Tour Guide | 24.00% | ~11 |
 | The Real O.G. | 24.00% | ~11 |
-| Coward | 22.00% | ~10 |
-| Tomb Raider | 22.00% | ~10 |
+| Coward | 24.00% | ~11 |
+| Tomb Raider | 24.00% | ~11 |
 | The Hero of the People | 16.00% | ~7 |
 | Talk to the Fist | 13.00% | ~6 |
 | Collector | 9.00% | ~4 |
@@ -32,7 +32,7 @@
 | The Legend | 7.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 45 (Ranked 538)  
-Completed: 3 (6.67%) (Ranked 64)  
+Completed: 3 (6.67%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

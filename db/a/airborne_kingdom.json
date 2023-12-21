@@ -3,12 +3,12 @@
   "Name": "Airborne Kingdom",
   "ProductSlug": "airborne-kingdom",
   "Ranking_Rating": 319,
-  "Ranking_Popularity": 570,
-  "Ranking_PopularitySum": 570,
-  "Ranking_EOS_Progress": 183,
+  "Ranking_Popularity": 571,
+  "Ranking_PopularitySum": 571,
+  "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 291,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -328,7 +328,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7644,
+  "EOS_Progressed": 7645,
   "EOS_Completed": 58,
   "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
@@ -6378,6 +6378,11 @@
       "Time": "2023-12-21T12:08:57.723031+00:00",
       "NumProgressed": 7644,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-21T16:09:12.049364+00:00",
+      "NumProgressed": 7645,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 27,
@@ -6397,7 +6402,7 @@
       "Name": "Daylight Found",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1987
+      "UsersEstimate": 1988
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -6421,7 +6426,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 4051
+      "UsersEstimate": 4052
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -6485,7 +6490,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2140
+      "UsersEstimate": 2141
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -6597,22 +6602,22 @@
       "Name": "Worthy of the Title",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1452
+      "UsersEstimate": 1453
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7644,
+      "Progressed": 7645,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-12-21T15:08:48.2097205+00:00",
+  "LastChanged_Achievements": "2023-12-21T16:09:12.0493635+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:12.2358899+00:00",
-  "LastUpdate_Ratings": "2023-12-21T15:03:37.6541399+00:00",
-  "LastUpdate_Achievements": "2023-12-21T15:08:48.2097683+00:00"
+  "LastUpdate_Ratings": "2023-12-21T16:04:01.1981483+00:00",
+  "LastUpdate_Achievements": "2023-12-21T16:09:12.0494058+00:00"
 }

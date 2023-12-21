@@ -3,12 +3,12 @@
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
   "Ranking_Rating": 16,
-  "Ranking_Popularity": 570,
-  "Ranking_PopularitySum": 570,
+  "Ranking_Popularity": 571,
+  "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -222,9 +222,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 1068,
+  "EOS_Progressed": 1069,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2797,6 +2797,11 @@
       "Time": "2023-12-21T15:06:49.0655957+00:00",
       "NumProgressed": 1068,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T16:07:12.9261378+00:00",
+      "NumProgressed": 1069,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2889,7 +2894,7 @@
       "Name": "Circular Oasis",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "DesolateIsland",
@@ -2929,7 +2934,7 @@
       "Name": "Excellent",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "FloodedValley",
@@ -2991,9 +2996,9 @@
       "ID": "LordOfTheFiles",
       "SetID": "1n308hc",
       "Name": "Lord of the Files",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 256
+      "UsersEstimate": 246
     },
     {
       "ID": "LostMarshes",
@@ -3057,7 +3062,7 @@
       "Name": "Not What It Seems",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "Overload",
@@ -3065,7 +3070,7 @@
       "Name": "Overload",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "Persistent",
@@ -3113,7 +3118,7 @@
       "Name": "Scientia Vincere Tenebras",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "Signatory",
@@ -3151,9 +3156,9 @@
       "ID": "TeamSpirit",
       "SetID": "1n308hc",
       "Name": "Team Spirit",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 182
     },
     {
       "ID": "TextAdventurer",
@@ -3241,7 +3246,7 @@
       "Name": "Verdant Canyon",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "Wanderers",
@@ -3257,7 +3262,7 @@
       "Name": "Western Delta",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "WoodedPlateau",
@@ -3273,14 +3278,14 @@
       "Name": "Your Biggest Fan",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     }
   ],
   "AchievementSets": [
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1068,
+      "Progressed": 1069,
       "Completed": 1
     }
   ],
@@ -3288,8 +3293,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-21T15:06:49.0655953+00:00",
-  "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-21T15:01:32.8037355+00:00",
-  "LastUpdate_Achievements": "2023-12-21T15:06:49.0656451+00:00"
+  "LastChanged_Achievements": "2023-12-21T16:07:12.9261373+00:00",
+  "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
+  "LastUpdate_Ratings": "2023-12-21T16:02:06.0877809+00:00",
+  "LastUpdate_Achievements": "2023-12-21T16:07:12.9262005+00:00"
 }

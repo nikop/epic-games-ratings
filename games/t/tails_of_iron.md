@@ -1,7 +1,7 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.57 (Ranked 482)  
+Rating: 4.57 (Ranked 483)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,6 +12,7 @@ Rating: 4.57 (Ranked 482)
 | Throne Room Fit For A King | 0.40% | ~9 |
 | Return Power To The Depths | 0.40% | ~9 |
 | Become King | 0.30% | ~7 |
+| Complete the Chefs Book | 0.30% | ~7 |
 | Defeat Ratnor Rodentson | 0.30% | ~7 |
 | Ranged Weapon | 0.30% | ~7 |
 | Defeat 25 Frogs | 0.30% | ~7 |
@@ -21,7 +22,6 @@ Rating: 4.57 (Ranked 482)
 | Collect Iron Ore | 0.20% | ~5 |
 | Collect Monster Parts | 0.20% | ~5 |
 | Return the Statues | 0.20% | ~5 |
-| Complete the Chefs Book | 0.20% | ~5 |
 | Complete Elder Faction | 0.20% | ~5 |
 | Defeat Rattus Augustail | 0.20% | ~5 |
 | Two Handed Weapon | 0.20% | ~5 |

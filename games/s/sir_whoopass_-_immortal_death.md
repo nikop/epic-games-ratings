@@ -34,14 +34,14 @@
 | You can't stop me, bro! | 36.00% | ~49 |
 | Pasta Bolognese | 36.00% | ~49 |
 | You are no match for me, Billy! | 35.00% | ~47 |
+| Meatballs, coming up! | 33.00% | ~45 |
 | Catch the bus with me! | 33.00% | ~45 |
 | Karaoke king | 33.00% | ~45 |
-| Meatballs, coming up! | 32.00% | ~43 |
 | I'm going to get a concussion | 31.00% | ~42 |
 | Another one bites the iron | 30.00% | ~40 |
 | Ripe Meat Off The Bone! | 27.00% | ~36 |
+| Kleptomaniac | 27.00% | ~36 |
 | Hovering around | 26.00% | ~35 |
-| Kleptomaniac | 26.00% | ~35 |
 | You're not so Big anymore, Boi! | 25.00% | ~34 |
 | A Megapint...? | 25.00% | ~34 |
 | Your daily dose of Vitamin C. | 25.00% | ~34 |
@@ -51,8 +51,8 @@
 | Just wing it! | 18.00% | ~24 |
 | Deal with it | 18.00% | ~24 |
 | Yeehaw!!! | 15.00% | ~20 |
+| Ancient Ruins of Dirty Feet | 14.00% | ~19 |
 | You're looking mozzare-hella good! | 13.00% | ~18 |
-| Ancient Ruins of Dirty Feet | 13.00% | ~18 |
 | Timber! | 11.00% | ~15 |
 | Free Of Chains | 11.00% | ~15 |
 | Spoiler alert! | 10.00% | ~14 |
