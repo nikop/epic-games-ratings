@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 749,
+  "EOS_Progressed": 750,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 312,
+  "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.07,
   "EosHistory": [
@@ -2613,6 +2613,11 @@
       "Time": "2023-12-21T21:09:15.5618827+00:00",
       "NumProgressed": 749,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-21T22:09:46.460351+00:00",
+      "NumProgressed": 750,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -2625,7 +2630,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "achievement_10",
@@ -2665,7 +2670,7 @@
       "Name": "Fusion Conjuror",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "achievement_15",
@@ -2695,9 +2700,9 @@
       "ID": "achievement_18",
       "SetID": "2cpn27e",
       "Name": "Man-Machine Master",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 374
+      "UsersEstimate": 368
     },
     {
       "ID": "achievement_19",
@@ -2705,7 +2710,7 @@
       "Name": "Counter Specialist",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "achievement_2",
@@ -2727,9 +2732,9 @@
       "ID": "achievement_21",
       "SetID": "2cpn27e",
       "Name": "Left Arm Leverager",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 128
     },
     {
       "ID": "achievement_22",
@@ -2753,7 +2758,7 @@
       "Name": "Single Minded",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "achievement_25",
@@ -2769,7 +2774,7 @@
       "Name": "Vanquisher of the Volatile",
       "Percentage": 7,
       "XP": 80,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "achievement_27",
@@ -2815,9 +2820,9 @@
       "ID": "achievement_31",
       "SetID": "2cpn27e",
       "Name": "Snare Specialist",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 188
     },
     {
       "ID": "achievement_32",
@@ -2857,15 +2862,15 @@
       "Name": "Bewitched by Bathing",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "achievement_37",
       "SetID": "2cpn27e",
       "Name": "Hidden History",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 539
+      "UsersEstimate": 532
     },
     {
       "ID": "achievement_38",
@@ -2873,7 +2878,7 @@
       "Name": "Superlative View",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "achievement_39",
@@ -2897,7 +2902,7 @@
       "Name": "Jack of All Trades",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "achievement_41",
@@ -2921,7 +2926,7 @@
       "Name": "Team Hunter",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "achievement_44",
@@ -2977,7 +2982,7 @@
       "Name": "Commencing of Quests",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "achievement_7",
@@ -2985,7 +2990,7 @@
       "Name": "Budding Conjuror",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_8",
@@ -3008,13 +3013,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 749,
+      "Progressed": 750,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-21T21:09:15.5618824+00:00",
+  "LastChanged_Achievements": "2023-12-21T22:09:46.4603502+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:11.6761115+00:00",
-  "LastUpdate_Ratings": "2023-12-21T20:57:32.1932914+00:00",
-  "LastUpdate_Achievements": "2023-12-21T21:09:15.5619233+00:00"
+  "LastUpdate_Ratings": "2023-12-21T21:57:48.9090758+00:00",
+  "LastUpdate_Achievements": "2023-12-21T22:09:46.4603976+00:00"
 }

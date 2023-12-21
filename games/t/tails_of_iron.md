@@ -31,6 +31,7 @@ Rating: 4.55 (Ranked 510)
 | Kitchen Ready To Cook | 0.20% | ~5 |
 | Smithy Ready to Craft | 0.20% | ~5 |
 | Rescue Redgi's Brothers | 0.20% | ~5 |
+| Defeat the Grub Buster | 0.20% | ~2 |
 | Complete Redgi's Armory | 0.10% | ~2 |
 | King of Kings | 0.10% | ~2 |
 | Complete Arena Faction | 0.10% | ~2 |
@@ -38,12 +39,11 @@ Rating: 4.55 (Ranked 510)
 | Defeat Avor Warden of the Northern Wastes | 0.10% | ~2 |
 | Fix the Travellers Wagon | 0.10% | ~2 |
 | Discover the mystery of the Kings Chambers | 0.10% | ~2 |
-| Defeat the Grub Buster | 0.10% | ~1 |
 | Defeat the Stalker Queen | 0.10% | ~1 |
 | A new Warchief rises | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,266 (Ranked 231)  
-Completed: 12 (0.53%) (Ranked 209)  
+Completed: 12 (0.53%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -15,7 +15,7 @@
 | Creating New Trends | 26.00% | ~26 |
 | Best Gala Ever | 24.00% | ~24 |
 | Welcome to the The Stylin' Soiree | 24.00% | ~24 |
-| Scooter Race | 23.00% | ~23 |
+| Scooter Race | 24.00% | ~24 |
 | Barcelona Hidden Style | 22.00% | ~22 |
 | Seoul Hidden Style | 15.00% | ~15 |
 | Hoverboard Race | 6.00% | ~6 |

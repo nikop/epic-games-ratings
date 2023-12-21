@@ -7,7 +7,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Explorer | 0.20% | ~32 |
+| Mason | 0.20% | ~32 |
 | Settler | 0.20% | ~32 |
+| Play a Single Player Game | 0.20% | ~32 |
 | Alexander the Great | 0.10% | ~16 |
 | Lighthouse in Alexandria | 0.10% | ~16 |
 | Musaeum in Alexandria | 0.10% | ~16 |
@@ -61,7 +63,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learned | 0.10% | ~16 |
 | Lion | 0.10% | ~16 |
 | Magnificent | 0.10% | ~16 |
-| Mason | 0.10% | ~16 |
 | Mighty | 0.10% | ~16 |
 | Noble | 0.10% | ~16 |
 | Old | 0.10% | ~16 |
@@ -141,7 +142,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | One True Faith | 0.10% | ~16 |
 | Pantheon of Gods | 0.10% | ~16 |
 | Play a LAN Game | 0.10% | ~16 |
-| Play a Single Player Game | 0.10% | ~16 |
 | Power to the People | 0.10% | ~16 |
 | Christianity | 0.10% | ~16 |
 | Judaism | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,861 (Ranked 159)  
+Progressed: 15,863 (Ranked 159)  
 Completed: 5 (0.03%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -610,7 +610,7 @@ Completed: 5 (0.03%) (Ranked 345)
 | 2023-12-18 | 15,826 | 5 |
 | 2023-12-19 | 15,840 | 5 |
 | 2023-12-20 | 15,854 | 5 |
-| 2023-12-21 | 15,861 | 5 |
+| 2023-12-21 | 15,863 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 279)  
 Sum: 1,905 (Ranked 220)  

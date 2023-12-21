@@ -2,13 +2,13 @@
   "ID": "b7b42e2078524ab386a8b2a9856ef557",
   "Name": "Sifu",
   "ProductSlug": "sifu",
-  "Ranking_Rating": 70,
+  "Ranking_Rating": 69,
   "Ranking_Popularity": 55,
   "Ranking_PopularitySum": 87,
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 140,
   "Ranking_EOS_NewPlayers": 17,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8391,9 +8391,9 @@
       "Count": 434
     }
   ],
-  "EOS_Progressed": 738869,
+  "EOS_Progressed": 738891,
   "EOS_Completed": 12958,
-  "EOS_NewPlayers": 16485,
+  "EOS_NewPlayers": 16483,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.75,
   "EosHistory": [
@@ -30326,6 +30326,11 @@
       "Time": "2023-12-21T21:08:59.3597198+00:00",
       "NumProgressed": 738869,
       "NumCompleted": 12958
+    },
+    {
+      "Time": "2023-12-21T22:09:24.4632789+00:00",
+      "NumProgressed": 738891,
+      "NumCompleted": 12958
     }
   ],
   "TotalAchievements": 60,
@@ -30337,7 +30342,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22166
+      "UsersEstimate": 22167
     },
     {
       "ID": "02_Vengeance_H1",
@@ -30345,7 +30350,7 @@
       "Name": "The Assault",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14777
+      "UsersEstimate": 14778
     },
     {
       "ID": "03_Vengeance_H2",
@@ -30353,7 +30358,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14777
+      "UsersEstimate": 14778
     },
     {
       "ID": "04_Vengeance_H3",
@@ -30385,7 +30390,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 2955
+      "UsersEstimate": 2956
     },
     {
       "ID": "08_Wude_H2",
@@ -30393,7 +30398,7 @@
       "Name": "Tiger on Fire",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 2955
+      "UsersEstimate": 2956
     },
     {
       "ID": "09_Wude_H3",
@@ -30401,7 +30406,7 @@
       "Name": "Source of Flying Daggers",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 2955
+      "UsersEstimate": 2956
     },
     {
       "ID": "10_Wude_H4",
@@ -30449,7 +30454,7 @@
       "Name": "Detective Story",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2955
+      "UsersEstimate": 2956
     },
     {
       "ID": "16_Detective_H2",
@@ -30513,7 +30518,7 @@
       "Name": "Life is your teacher",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22166
+      "UsersEstimate": 22167
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -30521,7 +30526,7 @@
       "Name": "State of constant learning",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14777
+      "UsersEstimate": 14778
     },
     {
       "ID": "25_ShrineMind",
@@ -30545,7 +30550,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14777
+      "UsersEstimate": 14778
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -30585,7 +30590,7 @@
       "Name": "Old Child",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14777
+      "UsersEstimate": 14778
     },
     {
       "ID": "33_BladeOneShot",
@@ -30593,7 +30598,7 @@
       "Name": "Sword Stained With Blood",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2955
+      "UsersEstimate": 2956
     },
     {
       "ID": "34_TimedTakedown",
@@ -30601,7 +30606,7 @@
       "Name": "Lightning Hands",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22166
+      "UsersEstimate": 22167
     },
     {
       "ID": "35_WideStrike",
@@ -30816,21 +30821,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 48170,
+      "Progressed": 48192,
       "Completed": 10779
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 738869,
+      "Progressed": 738891,
       "Completed": 12958
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-21T19:02:55.9700945+00:00",
-  "LastChanged_Achievements": "2023-12-21T21:08:59.3597194+00:00",
+  "LastChanged_Achievements": "2023-12-21T22:09:24.4632785+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:50.1499922+00:00",
-  "LastUpdate_Ratings": "2023-12-21T21:03:01.6871453+00:00",
-  "LastUpdate_Achievements": "2023-12-21T21:08:59.3598392+00:00"
+  "LastUpdate_Ratings": "2023-12-21T22:03:19.9709589+00:00",
+  "LastUpdate_Achievements": "2023-12-21T22:09:24.4634257+00:00"
 }

@@ -32,11 +32,11 @@ Number of Ratings: 85  (23.09.2022)
 | Ouch of Body Experience | 13.00% | ~11 |
 | If You Know What I Mean | 13.00% | ~11 |
 | Die Nasty | 11.00% | ~9 |
+| Hidden Human Hive Harvest | 9.00% | ~8 |
 | Mash Machine | 9.00% | ~8 |
-| Hidden Human Hive Harvest | 8.00% | ~7 |
 | PK Slam Dunk | 7.00% | ~6 |
 | Scuttled | 6.00% | ~5 |
-| Albion Bridge Is for Falling Down | 5.00% | ~4 |
+| Albion Bridge Is for Falling Down | 6.00% | ~5 |
 | Higher Than the Futen Zoku | 5.00% | ~4 |
 | Path of the Furon | 4.00% | ~3 |
 | Arty Facts | 4.00% | ~3 |

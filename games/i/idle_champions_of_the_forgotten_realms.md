@@ -14,16 +14,17 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Overgrown Grove | 0.40% | ~837 |
 | Mental Gymnastics | 0.40% | ~837 |
 | The Mad Wizard | 0.30% | ~729 |
-| Misaligned in Sigil | 0.30% | ~627 |
-| Chaos Theory | 0.30% | ~627 |
-| When Tentacles Attack | 0.30% | ~627 |
-| Flames of Avernus | 0.30% | ~627 |
-| Don't Lose Your Head | 0.30% | ~627 |
-| Mind Spike | 0.30% | ~627 |
+| Misaligned in Sigil | 0.30% | ~628 |
+| Chaos Theory | 0.30% | ~628 |
+| When Tentacles Attack | 0.30% | ~628 |
+| Flames of Avernus | 0.30% | ~628 |
+| Don't Lose Your Head | 0.30% | ~628 |
+| Mind Spike | 0.30% | ~628 |
 | Were-verpowered | 0.20% | ~486 |
 | The Ring of Regeneration | 0.20% | ~486 |
 | Seeking Allies | 0.20% | ~486 |
 | Are Ya Chicken? | 0.20% | ~486 |
+| Mad Cow Disease | 0.20% | ~486 |
 | Friendly Imps | 0.20% | ~486 |
 | Arcane Suppression | 0.20% | ~418 |
 | Welcome to the Vrocks | 0.20% | ~418 |
@@ -287,7 +288,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Abyssal Situation | 0.10% | ~243 |
 | Dino Nightmare | 0.10% | ~243 |
 | A Familiar Friend | 0.10% | ~209 |
-| Mad Cow Disease | 0.10% | ~243 |
 | Exploring Port Nyanzaru | 0.10% | ~243 |
 | A Tale of Two Cities | 0.10% | ~243 |
 | A Tale of Two Fiends | 0.10% | ~243 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~209 |
 | The Brains of an Illithid's Desire | 0.10% | ~209 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,890 (Ranked 66)  
+Progressed: 242,925 (Ranked 66)  
 Completed: 2,553 (1.05%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -798,7 +798,7 @@ Completed: 2,553 (1.05%) (Ranked 170)
 | 2023-12-18 | 241,838 | 2,541 |
 | 2023-12-19 | 242,122 | 2,544 |
 | 2023-12-20 | 242,412 | 2,546 |
-| 2023-12-21 | 242,890 | 2,553 |
+| 2023-12-21 | 242,925 | 2,553 |
 ## Awards
 Max (Great for Beginners): 5,669  (Ranked 71)  
 Sum: 32,993 (Ranked 41)  

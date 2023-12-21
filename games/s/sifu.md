@@ -1,19 +1,19 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 70)  
+Rating: 4.82 (Ranked 69)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 3.00% | ~22,166 |
-| Life is your teacher | 3.00% | ~22,166 |
-| Lightning Hands | 3.00% | ~22,166 |
-| The Assault | 2.00% | ~14,777 |
-| The Hateful Pole Fighter | 2.00% | ~14,777 |
-| State of constant learning | 2.00% | ~14,777 |
-| Qi Gong: Essence | 2.00% | ~14,777 |
-| Old Child | 2.00% | ~14,777 |
+| The Old Grandmaster | 3.00% | ~22,167 |
+| Life is your teacher | 3.00% | ~22,167 |
+| Lightning Hands | 3.00% | ~22,167 |
+| The Assault | 2.00% | ~14,778 |
+| The Hateful Pole Fighter | 2.00% | ~14,778 |
+| State of constant learning | 2.00% | ~14,778 |
+| Qi Gong: Essence | 2.00% | ~14,778 |
+| Old Child | 2.00% | ~14,778 |
 | A Lady's Blood in the Snow | 1.00% | ~7,389 |
 | Lady Wing Chun | 1.00% | ~7,389 |
 | Kill Nil | 1.00% | ~7,389 |
@@ -34,11 +34,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Fight the way you practice | 0.70% | ~337 |
 | Martial Hub | 0.60% | ~289 |
 | Bloody Sport | 0.50% | ~241 |
-| Muk Yan Master | 0.40% | ~2,955 |
-| Tiger on Fire | 0.40% | ~2,955 |
-| Source of Flying Daggers | 0.40% | ~2,955 |
-| Detective Story | 0.40% | ~2,955 |
-| Sword Stained With Blood | 0.40% | ~2,955 |
+| Muk Yan Master | 0.40% | ~2,956 |
+| Tiger on Fire | 0.40% | ~2,956 |
+| Source of Flying Daggers | 0.40% | ~2,956 |
+| Detective Story | 0.40% | ~2,956 |
+| Sword Stained With Blood | 0.40% | ~2,956 |
 | Iron Money | 0.30% | ~2,217 |
 | Legendary Talismans of Wuxing | 0.30% | ~2,217 |
 | Prodigal Child | 0.30% | ~2,217 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~48 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 738,869 (Ranked 23)  
+Progressed: 738,891 (Ranked 23)  
 Completed: 12,958 (1.75%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 12,958 (1.75%) (Ranked 140)
 | 2023-12-18 | 734,825 | 12,956 |
 | 2023-12-19 | 736,295 | 12,958 |
 | 2023-12-20 | 737,594 | 12,958 |
-| 2023-12-21 | 738,869 | 12,958 |
+| 2023-12-21 | 738,891 | 12,958 |
 ## Awards
 Max (Great Boss Battles): 6,978  (Ranked 55)  
 Sum: 11,797 (Ranked 87)  

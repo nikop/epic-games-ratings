@@ -50,8 +50,8 @@ Rating: 4.78 (Ranked 110)
 | The Great City of Demacia | 13.00% | ~380 |
 | Truth is a dark mirror | 13.00% | ~380 |
 | Call it 'redistribution of magic | 13.00% | ~380 |
+| Do you trust me? | 12.00% | ~351 |
 | Back to sleep, then... | 12.00% | ~351 |
-| Do you trust me? | 11.00% | ~321 |
 | Chains master | 11.00% | ~321 |
 | The great mage rebellion starts now | 11.00% | ~321 |
 | You can pet the... horse | 11.00% | ~321 |

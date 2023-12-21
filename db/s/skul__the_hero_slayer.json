@@ -1247,9 +1247,9 @@
       "Count": 139
     }
   ],
-  "EOS_Progressed": 11691,
+  "EOS_Progressed": 11693,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 2817,
+  "EOS_NewPlayers": 2814,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -7067,6 +7067,11 @@
       "Time": "2023-12-21T21:09:07.050217+00:00",
       "NumProgressed": 11691,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-21T22:09:34.7143608+00:00",
+      "NumProgressed": 11693,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 24,
@@ -7078,7 +7083,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2338
+      "UsersEstimate": 2339
     },
     {
       "ID": "Chatterbox",
@@ -7092,9 +7097,9 @@
       "ID": "ColdBlood",
       "SetID": "97dk767",
       "Name": "Cold-Blooded",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 82
+      "UsersEstimate": 70
     },
     {
       "ID": "Concentration",
@@ -7102,7 +7107,7 @@
       "Name": "Focus!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 7015
+      "UsersEstimate": 7016
     },
     {
       "ID": "DemonCastleRestoration",
@@ -7174,7 +7179,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 3273
+      "UsersEstimate": 3274
     },
     {
       "ID": "LeoniasFall_2",
@@ -7182,7 +7187,7 @@
       "Name": "The Levitator",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "Manners",
@@ -7198,7 +7203,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2104
+      "UsersEstimate": 2105
     },
     {
       "ID": "SavedElderEnt",
@@ -7206,7 +7211,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 7015
+      "UsersEstimate": 7016
     },
     {
       "ID": "SavedElderEnt_2",
@@ -7214,7 +7219,7 @@
       "Name": "Quick Movements",
       "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 3507
+      "UsersEstimate": 3508
     },
     {
       "ID": "SkeletonKing",
@@ -7230,7 +7235,7 @@
       "Name": "Inventory Management",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 3507
+      "UsersEstimate": 3508
     },
     {
       "ID": "TheLegendBegins",
@@ -7238,7 +7243,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 10873
+      "UsersEstimate": 10874
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -7246,7 +7251,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 5378
+      "UsersEstimate": 5379
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -7262,22 +7267,22 @@
       "Name": "What should I buy?",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9470
+      "UsersEstimate": 9471
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 11691,
+      "Progressed": 11693,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-12-21T14:58:03.0782289+00:00",
-  "LastChanged_Achievements": "2023-12-21T21:09:07.0502166+00:00",
+  "LastChanged_Achievements": "2023-12-21T22:09:34.7143604+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:00.8013876+00:00",
-  "LastUpdate_Ratings": "2023-12-21T20:57:56.3686123+00:00",
-  "LastUpdate_Achievements": "2023-12-21T21:09:07.0502481+00:00"
+  "LastUpdate_Ratings": "2023-12-21T21:58:22.411629+00:00",
+  "LastUpdate_Achievements": "2023-12-21T22:09:34.714407+00:00"
 }

@@ -1757,9 +1757,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 18451,
+  "EOS_Progressed": 18456,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1665,
+  "EOS_NewPlayers": 1649,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -10617,6 +10617,11 @@
       "Time": "2023-12-21T21:09:26.1832741+00:00",
       "NumProgressed": 18451,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-21T22:10:01.030252+00:00",
+      "NumProgressed": 18456,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -10732,7 +10737,7 @@
       "Name": "Get a Grip",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2583
+      "UsersEstimate": 2584
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -10796,7 +10801,7 @@
       "Name": "Reforged",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1845
+      "UsersEstimate": 1846
     },
     {
       "ID": "PRINT_WEAPON",
@@ -10804,7 +10809,7 @@
       "Name": "Paper Jams",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2583
+      "UsersEstimate": 2584
     },
     {
       "ID": "SHARE_PHOTO",
@@ -10820,7 +10825,7 @@
       "Name": "The Outer Way",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2583
+      "UsersEstimate": 2584
     },
     {
       "ID": "STORY_ESCAPE",
@@ -10882,9 +10887,9 @@
       "ID": "STORY_TUNNELS",
       "SetID": "4hj6d86",
       "Name": "Power Up",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1292
     },
     {
       "ID": "DISMEMBER_100",
@@ -11003,13 +11008,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 18451,
+      "Progressed": 18456,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 6377,
+      "Progressed": 6382,
       "Completed": 29
     }
   ],
@@ -11017,8 +11022,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-21T13:07:23.42136+00:00",
-  "LastChanged_Achievements": "2023-12-21T21:09:26.1832737+00:00",
+  "LastChanged_Achievements": "2023-12-21T22:10:01.0302513+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.4893565+00:00",
-  "LastUpdate_Ratings": "2023-12-21T21:03:12.3963726+00:00",
-  "LastUpdate_Achievements": "2023-12-21T21:09:26.1833563+00:00"
+  "LastUpdate_Ratings": "2023-12-21T22:03:35.0277307+00:00",
+  "LastUpdate_Achievements": "2023-12-21T22:10:01.0303271+00:00"
 }

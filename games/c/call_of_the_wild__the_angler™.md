@@ -26,7 +26,7 @@ Number of Ratings: 281  (23.09.2022)
 | More than a Tourist | 0.50% | ~37 |
 | Hook, Line and Sinker | 0.50% | ~37 |
 | No Fin left to give | 0.50% | ~37 |
-| Gonna Need a Bigger Boat | 0.40% | ~29 |
+| Gonna Need a Bigger Boat | 0.50% | ~37 |
 | Aguas Claras Conquistador | 0.40% | ~27 |
 | Live by the Rod, Diez by the Rod! | 0.30% | ~20 |
 | All Good Kings Must Come to an End | 0.30% | ~20 |

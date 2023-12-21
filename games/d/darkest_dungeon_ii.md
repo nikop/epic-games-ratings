@@ -8,8 +8,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 9.00% | ~345 |
 | Lost and Found | 6.00% | ~230 |
-| This Belongs in a Museum | 4.00% | ~5,158 |
-| Autodidact | 4.00% | ~5,158 |
+| This Belongs in a Museum | 4.00% | ~5,159 |
+| Autodidact | 4.00% | ~5,159 |
 | This guy... again? | 4.00% | ~153 |
 | Ploughshares to Swords | 4.00% | ~153 |
 | Bloody Graduation | 4.00% | ~153 |
@@ -59,7 +59,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hot Air | 1.00% | ~1,290 |
 | This Looks Familiar | 0.90% | ~1,161 |
 | Eyes Up | 0.90% | ~1,161 |
-| Slap on the Wrist | 0.90% | ~34 |
+| Slap on the Wrist | 0.90% | ~35 |
 | For Old Time' Sake | 0.80% | ~31 |
 | Handled | 0.70% | ~903 |
 | Shrine of Reflection | 0.60% | ~774 |
@@ -73,8 +73,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | The World As It Was | 0.30% | ~387 |
 | Bacon Bits | 0.30% | ~387 |
 | Eidetic | 0.30% | ~387 |
-| Maître De La Lame | 0.30% | ~11 |
-| On This Long Road, We Found Redemption | 0.30% | ~11 |
+| Maître De La Lame | 0.30% | ~12 |
+| On This Long Road, We Found Redemption | 0.30% | ~12 |
 | Tears in the Rain | 0.20% | ~258 |
 | Battle Hardened | 0.20% | ~8 |
 | Loop Year | 0.10% | ~129 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,959 (Ranked 86)  
+Progressed: 128,968 (Ranked 86)  
 Completed: 3 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 3 (0.00%) (Ranked 384)
 | 2023-12-18 | 128,398 | 3 |
 | 2023-12-19 | 128,605 | 3 |
 | 2023-12-20 | 128,785 | 3 |
-| 2023-12-21 | 128,959 | 3 |
+| 2023-12-21 | 128,968 | 3 |
 ## Awards
 Max (Character Customization): 7,823  (Ranked 50)  
 Sum: 20,903 (Ranked 58)  

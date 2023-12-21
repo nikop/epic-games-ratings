@@ -2,7 +2,7 @@
   "ID": "974d75969ed043489745f61eb0a25baf",
   "Name": "SteamWorld Build",
   "ProductSlug": "steamworld-build-71ee6c",
-  "Ranking_EOS_Progress": 431,
+  "Ranking_EOS_Progress": 429,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 159,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 146,
+  "EOS_Progressed": 147,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -569,6 +569,11 @@
       "Time": "2023-12-21T21:04:47.7124525+00:00",
       "NumProgressed": 146,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T22:05:44.396832+00:00",
+      "NumProgressed": 147,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T14:06:40.4198033+00:00",
@@ -589,7 +594,7 @@
       "Name": "Aristocratic",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "Botropolis",
@@ -603,15 +608,15 @@
       "ID": "ClickEmAll",
       "SetID": "4bd750m",
       "Name": "Click \u0027Em All",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ConductedTrade",
       "SetID": "4bd750m",
       "Name": "Conducted Trade",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 15,
       "UsersEstimate": 96
     },
@@ -629,7 +634,7 @@
       "Name": "Dopa-Miner",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "GoingPlaces",
@@ -643,9 +648,9 @@
       "ID": "GottaGoFast",
       "SetID": "4bd750m",
       "Name": "Gotta Go Fast",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 90,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "ImALumberbot",
@@ -677,7 +682,7 @@
       "Name": "Manic Mechanic",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Mathematic",
@@ -723,9 +728,9 @@
       "ID": "RoomToSpare",
       "SetID": "4bd750m",
       "Name": "Room To Spare",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "SlottingMachine",
@@ -763,17 +768,17 @@
       "ID": "Systematic",
       "SetID": "4bd750m",
       "Name": "Systematic",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 62
     },
     {
       "ID": "TuttiFrutti",
       "SetID": "4bd750m",
       "Name": "Tutti Frutti",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 82
     },
     {
       "ID": "UpUpAndAway",
@@ -781,7 +786,7 @@
       "Name": "Up, Up And Away!",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "Whoa",
@@ -789,7 +794,7 @@
       "Name": "Whoa!",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "Yup",
@@ -804,14 +809,14 @@
     {
       "ID": "4bd750m",
       "IsBase": true,
-      "Progressed": 146,
+      "Progressed": 147,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-21T21:04:47.7124522+00:00",
+  "LastChanged_Achievements": "2023-12-21T22:05:44.3968317+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.7183942+00:00",
-  "LastUpdate_Ratings": "2023-12-21T21:03:12.5251998+00:00",
-  "LastUpdate_Achievements": "2023-12-21T21:04:47.712471+00:00"
+  "LastUpdate_Ratings": "2023-12-21T22:03:35.1997756+00:00",
+  "LastUpdate_Achievements": "2023-12-21T22:05:44.3968517+00:00"
 }

@@ -463,9 +463,9 @@
       "ID": "ACH_16_APPLES",
       "SetID": "9dl0ei6",
       "Name": "Apple Gatherer",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_17_PICNIC",
@@ -479,9 +479,9 @@
       "ID": "ACH_18_MIA",
       "SetID": "9dl0ei6",
       "Name": "Maverick",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_19_PYJAMA",
@@ -566,8 +566,8 @@
   ],
   "FirstSeen": "2023-07-12T17:57:50.452035+00:00",
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
-  "LastChanged_Achievements": "2023-12-21T21:10:04.3884658+00:00",
+  "LastChanged_Achievements": "2023-12-21T22:10:51.6837853+00:00",
   "LastUpdate_AppInfo": "2023-12-18T02:20:37.8746121+00:00",
-  "LastUpdate_Ratings": "2023-12-21T20:59:36.2136563+00:00",
-  "LastUpdate_Achievements": "2023-12-21T21:10:04.3884845+00:00"
+  "LastUpdate_Ratings": "2023-12-21T22:00:43.484145+00:00",
+  "LastUpdate_Achievements": "2023-12-21T22:10:51.6837985+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "wizards-wand-of-epicosity",
   "Ranking_EOS_Progress": 813,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2020-08-04T05:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:31.3092513+00:00",
   "LastChanged": "2023-03-31T05:57:31.3092514+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:09.6222004+00:00",
-  "LastUpdate_Ratings": "2023-12-21T20:58:30.6729026+00:00",
-  "LastUpdate_Achievements": "2023-12-21T21:04:52.0628438+00:00"
+  "LastUpdate_Ratings": "2023-12-21T21:59:09.5774333+00:00",
+  "LastUpdate_Achievements": "2023-12-21T22:05:49.4513175+00:00"
 }

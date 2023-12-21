@@ -14,12 +14,12 @@ Number of Ratings: 28  (23.09.2022)
 | Collector | 44.00% | ~252 |
 | Need to think | 43.00% | ~246 |
 | Completely nuts! | 41.00% | ~235 |
+| Just in time! | 34.00% | ~195 |
 | Europe | 33.00% | ~189 |
-| Just in time! | 33.00% | ~189 |
 | Madness! | 31.00% | ~178 |
 | It's no coincidence. | 29.00% | ~166 |
-| Philatelist | 26.00% | ~149 |
-| Let's roll! | 26.00% | ~149 |
+| Philatelist | 27.00% | ~155 |
+| Let's roll! | 27.00% | ~155 |
 | Ouroboros | 25.00% | ~143 |
 | Non Stop! | 24.00% | ~138 |
 | Foreman | 21.00% | ~120 |

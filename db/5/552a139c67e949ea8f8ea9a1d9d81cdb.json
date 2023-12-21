@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1525,
+  "EOS_Progressed": 1528,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3642,6 +3642,11 @@
       "Time": "2023-12-21T21:04:05.7914824+00:00",
       "NumProgressed": 1525,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T22:04:48.6487998+00:00",
+      "NumProgressed": 1528,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -3654,7 +3659,7 @@
       "Name": "Rookie",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -3734,7 +3739,7 @@
       "Name": "It\u0027s me you have to beat",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ML_ACHIEVEMENT_12",
@@ -4021,20 +4026,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1525,
+      "Progressed": 1528,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1193,
+      "Progressed": 1196,
       "Completed": 997
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-21T21:04:05.7914818+00:00",
+  "LastChanged_Achievements": "2023-12-21T22:04:48.6487994+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:08.51229+00:00",
-  "LastUpdate_Ratings": "2023-12-21T20:57:12.2351258+00:00",
-  "LastUpdate_Achievements": "2023-12-21T21:04:05.7915261+00:00"
+  "LastUpdate_Ratings": "2023-12-21T21:57:21.5727567+00:00",
+  "LastUpdate_Achievements": "2023-12-21T22:04:48.6488402+00:00"
 }

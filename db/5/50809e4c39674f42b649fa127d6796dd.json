@@ -1357,9 +1357,9 @@
       "ID": "DEFENCE_LEVEL_REACH_NUM",
       "SetID": "apihg0e",
       "Name": "Hardened Hedgehog",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 24
     },
     {
       "ID": "ENEMY_DEFEATED_ALL",
@@ -1644,8 +1644,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-21T21:03:51.0265162+00:00",
+  "LastChanged_Achievements": "2023-12-21T22:04:28.6941834+00:00",
   "LastUpdate_AppInfo": "2023-12-19T19:57:15.6866052+00:00",
-  "LastUpdate_Ratings": "2023-12-21T21:03:06.8270923+00:00",
-  "LastUpdate_Achievements": "2023-12-21T21:03:51.0265536+00:00"
+  "LastUpdate_Ratings": "2023-12-21T22:03:26.8096655+00:00",
+  "LastUpdate_Achievements": "2023-12-21T22:04:28.6942196+00:00"
 }

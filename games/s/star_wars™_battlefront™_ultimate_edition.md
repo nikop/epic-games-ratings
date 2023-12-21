@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 88.00% | ~1,737 |
-| Off to a good start | 64.00% | ~1,263 |
-| Do... or do not. There is no try | 51.00% | ~1,007 |
+| New Recruit | 88.00% | ~1,739 |
+| Off to a good start | 64.00% | ~1,265 |
+| Do... or do not. There is no try | 51.00% | ~1,008 |
 | A good blaster at your side | 28.00% | ~553 |
-| I suggest a new strategy | 18.00% | ~355 |
+| I suggest a new strategy | 18.00% | ~356 |
 | Scrap collector | 17.00% | ~336 |
 | Great shot, kid! | 17.00% | ~336 |
 | All right, I'll give it a try | 16.00% | ~316 |
-| Shoot first | 14.00% | ~276 |
+| Shoot first | 14.00% | ~277 |
 | The power of the Force | 13.00% | ~257 |
 | Collector | 13.00% | ~257 |
 | Together we can rule the galaxy | 12.00% | ~237 |
@@ -22,7 +22,7 @@
 | Survivor | 8.00% | ~158 |
 | What's the cargo? | 7.00% | ~138 |
 | A cunning warrior | 7.00% | ~138 |
-| Judge me by my size, do you? | 6.00% | ~118 |
+| Judge me by my size, do you? | 6.00% | ~119 |
 | "Gonk? Gonk!" | 5.00% | ~99 |
 | Distinguished | 5.00% | ~99 |
 | Impressive. Most impressive. | 5.00% | ~99 |
@@ -34,15 +34,15 @@
 | On the ball | 3.00% | ~59 |
 | Patience you must have | 3.00% | ~59 |
 | Don't underestimate the Force | 3.00% | ~59 |
-| The Force is strong with this one | 2.00% | ~39 |
-| I've been waiting for you | 2.00% | ~39 |
-| When 900 years old you reach... | 2.00% | ~39 |
-| Determined | 2.00% | ~39 |
-| Precision shot | 2.00% | ~39 |
-| City in the Clouds | 2.00% | ~39 |
-| That's no moon | 2.00% | ~39 |
-| What will you become? | 2.00% | ~39 |
-| Disturbed tranquility | 2.00% | ~39 |
+| The Force is strong with this one | 2.00% | ~40 |
+| I've been waiting for you | 2.00% | ~40 |
+| When 900 years old you reach... | 2.00% | ~40 |
+| Determined | 2.00% | ~40 |
+| Precision shot | 2.00% | ~40 |
+| City in the Clouds | 2.00% | ~40 |
+| That's no moon | 2.00% | ~40 |
+| What will you become? | 2.00% | ~40 |
+| Disturbed tranquility | 2.00% | ~40 |
 | Hold the line! | 1.00% | ~20 |
 | Playing the objective | 1.00% | ~20 |
 | Ackbar's Elite | 1.00% | ~20 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~4 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,974 (Ranked 237)  
+Progressed: 1,976 (Ranked 237)  
 Completed: 1 (0.05%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 1 (0.05%) (Ranked 332)
 | 2023-12-18 | 1,882 | 1 |
 | 2023-12-19 | 1,913 | 1 |
 | 2023-12-20 | 1,946 | 1 |
-| 2023-12-21 | 1,974 | 1 |
+| 2023-12-21 | 1,976 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

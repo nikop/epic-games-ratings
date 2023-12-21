@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 680,
+  "EOS_Progressed": 681,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.47,
   "EosHistory": [
@@ -2440,6 +2440,11 @@
       "Time": "2023-12-21T21:09:42.522257+00:00",
       "NumProgressed": 680,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-21T22:10:22.9173629+00:00",
+      "NumProgressed": 681,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -2476,7 +2481,7 @@
       "Name": "From Way Downtown",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "achievement_13",
@@ -2492,7 +2497,7 @@
       "Name": "Golfer Versus Golfer",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "achievement_15",
@@ -2508,7 +2513,7 @@
       "Name": "Star Power",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "achievement_17",
@@ -2588,20 +2593,20 @@
       "Name": "Ace in the Hole",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     }
   ],
   "AchievementSets": [
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 680,
+      "Progressed": 681,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-12-21T21:09:42.5222565+00:00",
+  "LastChanged_Achievements": "2023-12-21T22:10:22.9173624+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:04.0623721+00:00",
-  "LastUpdate_Ratings": "2023-12-21T20:59:41.3741819+00:00",
-  "LastUpdate_Achievements": "2023-12-21T21:09:42.522279+00:00"
+  "LastUpdate_Ratings": "2023-12-21T22:00:49.9864606+00:00",
+  "LastUpdate_Achievements": "2023-12-21T22:10:22.9173814+00:00"
 }

@@ -8947,10 +8947,10 @@
       "Count": 3583
     }
   ],
-  "EOS_Progressed": 242890,
+  "EOS_Progressed": 242925,
   "EOS_Completed": 2553,
-  "EOS_NewPlayers": 2531,
-  "EOS_NewCompleters": 28,
+  "EOS_NewPlayers": 2538,
+  "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
     {
@@ -36647,6 +36647,11 @@
       "Time": "2023-12-21T21:10:14.4823716+00:00",
       "NumProgressed": 242890,
       "NumCompleted": 2553
+    },
+    {
+      "Time": "2023-12-21T22:11:03.6230838+00:00",
+      "NumProgressed": 242925,
+      "NumCompleted": 2553
     }
   ],
   "TotalAchievements": 546,
@@ -38792,9 +38797,9 @@
       "ID": "objective_completed_5",
       "SetID": "cc37lbc",
       "Name": "Mad Cow Disease",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 243
+      "UsersEstimate": 486
     },
     {
       "ID": "objective_completed_54",
@@ -40954,7 +40959,7 @@
       "Name": "Misaligned in Sigil",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "objective_completed_1562",
@@ -40970,7 +40975,7 @@
       "Name": "Chaos Theory",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "objective_completed_598",
@@ -40986,7 +40991,7 @@
       "Name": "When Tentacles Attack",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "objective_completed_678",
@@ -40994,7 +40999,7 @@
       "Name": "Flames of Avernus",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "objective_completed_683",
@@ -41010,7 +41015,7 @@
       "Name": "Don\u0027t Lose Your Head",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "objective_completed_865",
@@ -41018,28 +41023,28 @@
       "Name": "Mind Spike",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 209164,
+      "Progressed": 209199,
       "Completed": 4053
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 242890,
+      "Progressed": 242925,
       "Completed": 2553
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-21T20:02:54.8663741+00:00",
-  "LastChanged_Achievements": "2023-12-21T21:10:14.4823709+00:00",
+  "LastChanged_Achievements": "2023-12-21T22:11:03.6230834+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:52.1318001+00:00",
-  "LastUpdate_Ratings": "2023-12-21T21:02:48.0389278+00:00",
-  "LastUpdate_Achievements": "2023-12-21T21:10:14.4846216+00:00"
+  "LastUpdate_Ratings": "2023-12-21T22:02:59.3746171+00:00",
+  "LastUpdate_Achievements": "2023-12-21T22:11:03.6254583+00:00"
 }

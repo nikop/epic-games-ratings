@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewPlayers": 298,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -1574,9 +1574,9 @@
       "ID": "03_philatelist",
       "SetID": "chb1m60",
       "Name": "Philatelist",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 155
     },
     {
       "ID": "04_tycoon",
@@ -1646,9 +1646,9 @@
       "ID": "12_roll",
       "SetID": "chb1m60",
       "Name": "Let\u0027s roll!",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 155
     },
     {
       "ID": "13_bunkrupt",
@@ -1702,9 +1702,9 @@
       "ID": "19_justintime",
       "SetID": "chb1m60",
       "Name": "Just in time!",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 189
+      "UsersEstimate": 195
     },
     {
       "ID": "20_sabotage",
@@ -1878,8 +1878,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-12-18T07:02:31.8741871+00:00",
-  "LastChanged_Achievements": "2023-12-21T21:06:17.8329806+00:00",
+  "LastChanged_Achievements": "2023-12-21T22:07:44.1707657+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:44.2539038+00:00",
-  "LastUpdate_Ratings": "2023-12-21T20:58:42.5668881+00:00",
-  "LastUpdate_Achievements": "2023-12-21T21:06:17.8330105+00:00"
+  "LastUpdate_Ratings": "2023-12-21T21:59:26.8161523+00:00",
+  "LastUpdate_Achievements": "2023-12-21T22:07:44.1707905+00:00"
 }

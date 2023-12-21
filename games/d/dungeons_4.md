@@ -9,7 +9,7 @@
 | For the Horde! | 83.00% | ~500 |
 | Hammer Time, Round Two | 81.00% | ~488 |
 | The Hellwoods | 77.00% | ~464 |
-| The Plains of Strothalm | 71.00% | ~428 |
+| The Plains of Strothalm | 72.00% | ~434 |
 | Experienced Thalya | 71.00% | ~428 |
 | Thalya's Concentrated Fury | 69.00% | ~416 |
 | Bad Elves Go Everywhere | 69.00% | ~416 |

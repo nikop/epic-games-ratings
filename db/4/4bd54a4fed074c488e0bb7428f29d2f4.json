@@ -376,9 +376,9 @@
       "ID": "SOS_FIRST_BLOOD",
       "SetID": "6ci4lm2",
       "Name": "First blood",
-      "Percentage": 63,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "SOS_FISH",
@@ -727,8 +727,8 @@
   ],
   "FirstSeen": "2023-12-02T04:57:46.0113451+00:00",
   "FirstSeenAchievements": "2023-10-30T14:03:47.4515139+00:00",
-  "LastChanged_Achievements": "2023-12-21T21:05:18.2527149+00:00",
+  "LastChanged_Achievements": "2023-12-21T22:06:24.9265306+00:00",
   "LastUpdate_AppInfo": "2023-12-18T17:57:03.2546074+00:00",
-  "LastUpdate_Ratings": "2023-12-21T20:59:36.0631526+00:00",
-  "LastUpdate_Achievements": "2023-12-21T21:05:18.2527627+00:00"
+  "LastUpdate_Ratings": "2023-12-21T22:00:43.2401697+00:00",
+  "LastUpdate_Achievements": "2023-12-21T22:06:24.9265798+00:00"
 }

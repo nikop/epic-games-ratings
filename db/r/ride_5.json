@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2819,
+  "EOS_Progressed": 2821,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 301,
   "EOS_NewCompleters": 0,
@@ -6892,6 +6892,11 @@
       "Time": "2023-12-21T21:06:29.376382+00:00",
       "NumProgressed": 2819,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T22:07:59.8698148+00:00",
+      "NumProgressed": 2821,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -6904,7 +6909,7 @@
       "Name": "First Love",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1240
+      "UsersEstimate": 1241
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -6920,7 +6925,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -7112,7 +7117,7 @@
       "Name": "Clean Race",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1184
+      "UsersEstimate": 1185
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -7160,7 +7165,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -7192,7 +7197,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -7200,7 +7205,7 @@
       "Name": "Eat My Dust",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1325
+      "UsersEstimate": 1326
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -7295,14 +7300,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2819,
+      "Progressed": 2821,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-21T21:06:29.3763815+00:00",
+  "LastChanged_Achievements": "2023-12-21T22:07:59.8698136+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:35.5257739+00:00",
-  "LastUpdate_Ratings": "2023-12-21T20:59:31.356505+00:00",
-  "LastUpdate_Achievements": "2023-12-21T21:06:29.3764508+00:00"
+  "LastUpdate_Ratings": "2023-12-21T22:00:36.7626569+00:00",
+  "LastUpdate_Achievements": "2023-12-21T22:07:59.8698948+00:00"
 }

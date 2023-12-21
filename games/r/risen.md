@@ -5,15 +5,15 @@ Rating: 4.56 (Ranked 497)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 92.00% | ~95 |
-| Map reader | 71.00% | ~73 |
-| Adventurer | 67.00% | ~69 |
-| Philanthropist | 65.00% | ~67 |
-| The brave little tailor | 50.00% | ~52 |
-| Archer | 50.00% | ~52 |
-| Field hand | 42.00% | ~43 |
-| Samaritan | 40.00% | ~41 |
-| Well-to-do | 39.00% | ~40 |
+| Beginner | 91.00% | ~95 |
+| Map reader | 70.00% | ~73 |
+| Adventurer | 66.00% | ~69 |
+| Philanthropist | 64.00% | ~67 |
+| The brave little tailor | 49.00% | ~51 |
+| Archer | 49.00% | ~51 |
+| Field hand | 41.00% | ~43 |
+| Samaritan | 39.00% | ~41 |
+| Well-to-do | 38.00% | ~40 |
 | The merciful one | 37.00% | ~38 |
 | Ladies' man | 36.00% | ~37 |
 | Ferocious wild boars | 29.00% | ~30 |
@@ -29,15 +29,15 @@ Rating: 4.56 (Ranked 497)
 | Sidelined | 20.00% | ~21 |
 | Little hero | 19.00% | ~20 |
 | Fence | 18.00% | ~19 |
-| Pandora's box | 17.00% | ~18 |
 | Ghost hunter | 17.00% | ~18 |
-| Peacekeeper | 17.00% | ~18 |
 | Master detective | 17.00% | ~18 |
-| Defender | 15.00% | ~15 |
-| Workaholic | 15.00% | ~15 |
-| Showdown | 13.00% | ~13 |
-| Safecracker | 13.00% | ~13 |
-| Master thief | 13.00% | ~13 |
+| Pandora's box | 16.00% | ~17 |
+| Peacekeeper | 16.00% | ~17 |
+| Defender | 14.00% | ~15 |
+| Workaholic | 14.00% | ~15 |
+| Showdown | 13.00% | ~14 |
+| Safecracker | 13.00% | ~14 |
+| Master thief | 13.00% | ~14 |
 | Freedom fighter | 12.00% | ~12 |
 | King of the handymen | 11.00% | ~11 |
 | Titan Lord | 10.00% | ~10 |
@@ -56,7 +56,7 @@ Rating: 4.56 (Ranked 497)
 | Master of the classes | 1.00% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 103 (Ranked 466)  
+Progressed: 104 (Ranked 465)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 96 | 0 |
 | 2023-12-19 | 100 | 0 |
 | 2023-12-20 | 101 | 0 |
-| 2023-12-21 | 103 | 0 |
+| 2023-12-21 | 104 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

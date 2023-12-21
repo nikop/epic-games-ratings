@@ -6,45 +6,45 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~310,508 |
-| Full garage | 61.00% | ~259,466 |
-| To the eyeballs! | 51.00% | ~216,931 |
-| Individual delivery | 47.00% | ~199,916 |
-| Non-Stop | 45.00% | ~191,409 |
-| Juggler | 36.00% | ~153,127 |
-| Forgot something | 35.00% | ~148,874 |
-| Close call! | 30.00% | ~127,606 |
-| Get out my way | 28.00% | ~119,099 |
-| Common cause | 26.00% | ~110,592 |
-| Critical care | 26.00% | ~110,592 |
-| Mega-railroad | 23.00% | ~97,831 |
-| Upgrade complete | 23.00% | ~97,831 |
-| Just in time! | 18.00% | ~76,564 |
-| Builder | 17.00% | ~72,310 |
-| Long Haul | 17.00% | ~72,198 |
-| Steam Age | 16.00% | ~68,057 |
-| Multilevel road | 15.00% | ~63,803 |
-| Bridgemania | 14.00% | ~59,550 |
-| Need to think | 14.00% | ~59,550 |
-| The Tortoise | 12.00% | ~51,042 |
-| Beginner | 11.00% | ~46,789 |
-| Without a lunch break | 11.00% | ~46,789 |
-| One way | 10.00% | ~42,535 |
-| Relocation | 10.00% | ~42,535 |
-| Industrial Age | 9.00% | ~38,282 |
-| Just One More Valley | 9.00% | ~38,223 |
-| Prick of conscience | 8.00% | ~34,028 |
-| Missed it! | 7.00% | ~29,775 |
-| At the last moment! | 6.00% | ~25,521 |
-| Overseer | 6.00% | ~25,521 |
+| Dealmaker | 73.00% | ~310,518 |
+| Full garage | 61.00% | ~259,474 |
+| To the eyeballs! | 51.00% | ~216,937 |
+| Individual delivery | 47.00% | ~199,922 |
+| Non-Stop | 45.00% | ~191,415 |
+| Juggler | 36.00% | ~153,132 |
+| Forgot something | 35.00% | ~148,878 |
+| Close call! | 30.00% | ~127,610 |
+| Get out my way | 28.00% | ~119,103 |
+| Common cause | 26.00% | ~110,595 |
+| Critical care | 26.00% | ~110,595 |
+| Mega-railroad | 23.00% | ~97,834 |
+| Upgrade complete | 23.00% | ~97,834 |
+| Just in time! | 18.00% | ~76,566 |
+| Builder | 17.00% | ~72,312 |
+| Long Haul | 17.00% | ~72,200 |
+| Steam Age | 16.00% | ~68,059 |
+| Multilevel road | 15.00% | ~63,805 |
+| Bridgemania | 14.00% | ~59,551 |
+| Need to think | 14.00% | ~59,551 |
+| The Tortoise | 12.00% | ~51,044 |
+| Beginner | 11.00% | ~46,790 |
+| Without a lunch break | 11.00% | ~46,790 |
+| One way | 10.00% | ~42,537 |
+| Relocation | 10.00% | ~42,537 |
+| Industrial Age | 9.00% | ~38,283 |
+| Just One More Valley | 9.00% | ~38,224 |
+| Prick of conscience | 8.00% | ~34,029 |
+| Missed it! | 7.00% | ~29,776 |
+| At the last moment! | 6.00% | ~25,522 |
+| Overseer | 6.00% | ~25,522 |
 | Highlander | 5.00% | ~21,268 |
 | Jewelry accuracy | 5.00% | ~21,268 |
 | Stargazer | 5.00% | ~21,268 |
-| Bridge builder | 4.00% | ~17,014 |
-| Electrical Age | 4.00% | ~17,014 |
-| Engineer | 4.00% | ~17,014 |
-| Large construction | 4.00% | ~17,014 |
-| Squander | 4.00% | ~17,014 |
+| Bridge builder | 4.00% | ~17,015 |
+| Electrical Age | 4.00% | ~17,015 |
+| Engineer | 4.00% | ~17,015 |
+| Large construction | 4.00% | ~17,015 |
+| Squander | 4.00% | ~17,015 |
 | Globalisation Age | 3.00% | ~12,761 |
 | Living it large | 3.00% | ~12,761 |
 | Sabotage | 3.00% | ~12,761 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~425 |
 | World Zapper | 0.10% | ~425 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 425,354 (Ranked 45)  
+Progressed: 425,367 (Ranked 45)  
 Completed: 23 (0.01%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,10 +303,10 @@ Completed: 23 (0.01%) (Ranked 361)
 | 2023-12-18 | 424,654 | 23 |
 | 2023-12-19 | 424,858 | 23 |
 | 2023-12-20 | 425,102 | 23 |
-| 2023-12-21 | 425,354 | 23 |
+| 2023-12-21 | 425,367 | 23 |
 ## Awards
 Max (Challenging Puzzles): 976  (Ranked 160)  
-Sum: 2,006 (Ranked 216)  
+Sum: 2,007 (Ranked 216)  
 Diff (max vs sum): -56  
 | Award | Count |
 | ----- | ----- |
@@ -320,7 +320,7 @@ Diff (max vs sum): -56
 | This game has Challenging Combat | 87 |
 | This game has Amazing Storytelling | 75 |
 | This game has a Creative Community | 71 |
-| This game has Amazing Characters | 57 |
+| This game has Amazing Characters | 58 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -535,4 +535,4 @@ Diff (max vs sum): -56
 | 2023-12-18 | 4.44 | - | 971 | 1,988 |
 | 2023-12-19 | 4.44 | - | 975 | 1,996 |
 | 2023-12-20 | 4.44 | - | 975 | 1,998 |
-| 2023-12-21 | 4.44 | - | 976 | 2,006 |
+| 2023-12-21 | 4.44 | - | 976 | 2,007 |

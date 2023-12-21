@@ -10,7 +10,7 @@ Number of Ratings: 429  (23.09.2022)
 | Worker Specialization | 76.00% | ~5,657 |
 | First Contact | 72.00% | ~5,359 |
 | Win a Battle | 65.00% | ~4,838 |
-| Anomaly Researcher | 60.00% | ~4,466 |
+| Anomaly Researcher | 61.00% | ~4,540 |
 | Unleash My Power | 60.00% | ~4,466 |
 | Own 30 Planets | 33.00% | ~2,456 |
 | Xenocide | 31.00% | ~2,307 |

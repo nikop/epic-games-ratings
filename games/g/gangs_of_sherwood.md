@@ -21,7 +21,7 @@
 | Finish Him! | 27.00% | ~24 |
 | Assault on the Ram | 26.00% | ~23 |
 | Ultra Rebel Instinct | 25.00% | ~22 |
-| First Aid | 24.00% | ~21 |
+| First Aid | 25.00% | ~22 |
 | Merry Go Round | 24.00% | ~21 |
 | Savior | 19.00% | ~17 |
 | Hidden Experiment | 18.00% | ~16 |

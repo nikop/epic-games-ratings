@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -222,9 +222,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 1074,
+  "EOS_Progressed": 1075,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2822,6 +2822,11 @@
       "Time": "2023-12-21T21:05:35.5609629+00:00",
       "NumProgressed": 1074,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T22:06:47.8469503+00:00",
+      "NumProgressed": 1075,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2874,7 +2879,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "BreakTheLoop",
@@ -2890,7 +2895,7 @@
       "Name": "Bridge Builder",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ChasingTheLight",
@@ -2984,9 +2989,9 @@
       "ID": "GrasslandsRing",
       "SetID": "1n308hc",
       "Name": "Grasslands Ring",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 108
     },
     {
       "ID": "HighPlain",
@@ -3010,7 +3015,7 @@
       "Name": "Just One Lap",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "LordOfTheFiles",
@@ -3026,7 +3031,7 @@
       "Name": "Lost Marshes",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "MistressOfRiddles",
@@ -3098,7 +3103,7 @@
       "Name": "Persistent",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "PrometheusUnbound",
@@ -3122,7 +3127,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "RenaissanceRobot",
@@ -3146,7 +3151,7 @@
       "Name": "Signatory",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "SingleRod",
@@ -3178,7 +3183,7 @@
       "Name": "Team Spirit",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "TextAdventurer",
@@ -3194,7 +3199,7 @@
       "Name": "The All-Gifted",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "TheEdgeOfForever",
@@ -3305,7 +3310,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1074,
+      "Progressed": 1075,
       "Completed": 1
     }
   ],
@@ -3313,8 +3318,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-21T21:05:35.5609626+00:00",
+  "LastChanged_Achievements": "2023-12-21T22:06:47.8469498+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-21T21:00:16.0527898+00:00",
-  "LastUpdate_Achievements": "2023-12-21T21:05:35.5610082+00:00"
+  "LastUpdate_Ratings": "2023-12-21T22:01:39.9042782+00:00",
+  "LastUpdate_Achievements": "2023-12-21T22:06:47.8469987+00:00"
 }

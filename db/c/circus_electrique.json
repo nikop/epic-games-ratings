@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 386,
+  "Ranking_EOS_NewPlayers": 379,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -77,9 +77,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 488,
+  "EOS_Progressed": 489,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -567,6 +567,11 @@
       "Time": "2023-12-21T19:06:32.6455371+00:00",
       "NumProgressed": 488,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T22:07:43.5603807+00:00",
+      "NumProgressed": 489,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -680,9 +685,9 @@
       "ID": "ACHIEVEMENT_14",
       "SetID": "631ndc2",
       "Name": "More Brain Than Brawn",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 147
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -706,7 +711,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -818,7 +823,7 @@
       "Name": "King of District 2",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -898,7 +903,7 @@
       "Name": "Self Defense",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -977,7 +982,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 488,
+      "Progressed": 489,
       "Completed": 1
     }
   ],
@@ -985,8 +990,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-12-21T21:06:17.3641837+00:00",
+  "LastChanged_Achievements": "2023-12-21T22:07:43.5603805+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:19.7923718+00:00",
-  "LastUpdate_Ratings": "2023-12-21T20:58:26.3003523+00:00",
-  "LastUpdate_Achievements": "2023-12-21T21:06:17.3642119+00:00"
+  "LastUpdate_Ratings": "2023-12-21T21:59:03.9695022+00:00",
+  "LastUpdate_Achievements": "2023-12-21T22:07:43.5604103+00:00"
 }

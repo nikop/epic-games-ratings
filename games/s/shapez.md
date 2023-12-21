@@ -4,13 +4,14 @@
 Rating: 4.71 (Ranked 197)  
 ## Awards
 Max (Great for Beginners): 21  (Ranked 561)  
-Sum: 41 (Ranked 506)  
-Diff (max vs sum): 55  
+Sum: 61 (Ranked 485)  
+Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 215 |
 | This game is Great for Beginners | 21 |
 | This game is Relaxing | 20 |
+| This game has Quickly Understood Controls | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -78,3 +79,4 @@ Diff (max vs sum): 55
 | 2023-07-21 | 4.71 | 215 | 215 |
 | 2023-12-10 | 4.71 | 20 | 40 |
 | 2023-12-19 | 4.71 | 21 | 41 |
+| 2023-12-21 | 4.71 | 21 | 61 |

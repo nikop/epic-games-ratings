@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 55,
-  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1716,
+  "EOS_Progressed": 1717,
   "EOS_Completed": 126,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 7.34,
   "EosHistory": [
@@ -4214,6 +4214,11 @@
       "Time": "2023-12-21T18:09:43.1355783+00:00",
       "NumProgressed": 1716,
       "NumCompleted": 126
+    },
+    {
+      "Time": "2023-12-21T22:10:50.8846745+00:00",
+      "NumProgressed": 1717,
+      "NumCompleted": 126
     }
   ],
   "TotalAchievements": 30,
@@ -4225,7 +4230,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 1647
+      "UsersEstimate": 1648
     },
     {
       "ID": "LEVEL_002",
@@ -4249,7 +4254,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 909
+      "UsersEstimate": 910
     },
     {
       "ID": "LEVEL_005",
@@ -4273,7 +4278,7 @@
       "Name": "Animals in the farm",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "LEVEL_008",
@@ -4289,7 +4294,7 @@
       "Name": "Going zig zag",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "LEVEL_010",
@@ -4345,7 +4350,7 @@
       "Name": "Where\u0027s the toilet, sir?",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "LEVEL_017",
@@ -4393,7 +4398,7 @@
       "Name": "Who likes bridges?",
       "Percentage": 9,
       "XP": 55,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "LEVEL_023",
@@ -4401,7 +4406,7 @@
       "Name": "Flowing from high ground",
       "Percentage": 9,
       "XP": 55,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "LEVEL_024",
@@ -4464,14 +4469,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1716,
+      "Progressed": 1717,
       "Completed": 126
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-12-21T21:10:03.6112047+00:00",
+  "LastChanged_Achievements": "2023-12-21T22:10:50.884674+00:00",
   "LastUpdate_AppInfo": "2023-12-19T04:57:12.5235617+00:00",
-  "LastUpdate_Ratings": "2023-12-21T20:57:05.9537085+00:00",
-  "LastUpdate_Achievements": "2023-12-21T21:10:03.6112413+00:00"
+  "LastUpdate_Ratings": "2023-12-21T21:57:12.7036783+00:00",
+  "LastUpdate_Achievements": "2023-12-21T22:10:50.8847129+00:00"
 }

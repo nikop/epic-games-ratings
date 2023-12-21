@@ -601,9 +601,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10125,
+  "EOS_Progressed": 10127,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 1081,
+  "EOS_NewPlayers": 1070,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -13036,6 +13036,11 @@
       "Time": "2023-12-21T21:04:06.2781851+00:00",
       "NumProgressed": 10125,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-12-21T22:04:49.2565923+00:00",
+      "NumProgressed": 10127,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 29,
@@ -13047,7 +13052,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 8404
+      "UsersEstimate": 8405
     },
     {
       "ID": "ACH02",
@@ -13063,7 +13068,7 @@
       "Name": "Escape Artist",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH04",
@@ -13087,7 +13092,7 @@
       "Name": "Street Sweeper",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1822
+      "UsersEstimate": 1823
     },
     {
       "ID": "ACH07",
@@ -13111,7 +13116,7 @@
       "Name": "By a Mile",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     },
     {
       "ID": "ACH10",
@@ -13119,7 +13124,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2835
+      "UsersEstimate": 2836
     },
     {
       "ID": "ACH11",
@@ -13143,7 +13148,7 @@
       "Name": "Where To?",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH14",
@@ -13151,7 +13156,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1721
+      "UsersEstimate": 1722
     },
     {
       "ID": "ACH15",
@@ -13167,7 +13172,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2531
+      "UsersEstimate": 2532
     },
     {
       "ID": "ACH17",
@@ -13175,7 +13180,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "ACH18",
@@ -13183,7 +13188,7 @@
       "Name": "Not So Fast",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     },
     {
       "ID": "ACH19",
@@ -13207,7 +13212,7 @@
       "Name": "Splish Splash",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH22",
@@ -13215,7 +13220,7 @@
       "Name": "Playing Doctor",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH23",
@@ -13239,7 +13244,7 @@
       "Name": "Right-hand Man",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     },
     {
       "ID": "ACH26",
@@ -13255,7 +13260,7 @@
       "Name": "Liberty City Secrets",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH28",
@@ -13278,7 +13283,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 10125,
+      "Progressed": 10127,
       "Completed": 64
     }
   ],
@@ -13286,8 +13291,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-12-21T13:03:11.4589759+00:00",
-  "LastChanged_Achievements": "2023-12-21T21:04:06.2781847+00:00",
+  "LastChanged_Achievements": "2023-12-21T22:04:49.2565916+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:35.1384791+00:00",
-  "LastUpdate_Ratings": "2023-12-21T20:59:02.795222+00:00",
-  "LastUpdate_Achievements": "2023-12-21T21:04:06.278258+00:00"
+  "LastUpdate_Ratings": "2023-12-21T21:59:55.9927621+00:00",
+  "LastUpdate_Achievements": "2023-12-21T22:04:49.2566502+00:00"
 }

@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 834,
+  "EOS_Progressed": 835,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3612,6 +3612,11 @@
       "Time": "2023-12-21T20:09:59.0303665+00:00",
       "NumProgressed": 834,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T22:10:11.1423572+00:00",
+      "NumProgressed": 835,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -3679,7 +3684,7 @@
       "Name": "So Clean You Can Eat Off the Floor",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "Clothes10",
@@ -3799,7 +3804,7 @@
       "Name": "The Big Day",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "Packing20",
@@ -3823,7 +3828,7 @@
       "Name": "Home Cook",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "RecipeDifferent30",
@@ -3847,7 +3852,7 @@
       "Name": "S is for Scrumptious",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ServiceMaxClient",
@@ -3942,7 +3947,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 834,
+      "Progressed": 835,
       "Completed": 0
     }
   ],
@@ -3950,8 +3955,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-12-21T21:09:33.8740669+00:00",
+  "LastChanged_Achievements": "2023-12-21T22:10:11.1423567+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:31.9021331+00:00",
-  "LastUpdate_Ratings": "2023-12-21T20:59:07.8203068+00:00",
-  "LastUpdate_Achievements": "2023-12-21T21:09:33.8741127+00:00"
+  "LastUpdate_Ratings": "2023-12-21T22:00:03.5471202+00:00",
+  "LastUpdate_Achievements": "2023-12-21T22:10:11.1423979+00:00"
 }

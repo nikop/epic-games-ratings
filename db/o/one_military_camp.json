@@ -4,7 +4,7 @@
   "ProductSlug": "one-military-camp-8db1f6",
   "Ranking_EOS_Progress": 397,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 426,
+  "Ranking_EOS_NewPlayers": 415,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 219,
+  "EOS_Progressed": 220,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -974,6 +974,11 @@
       "Time": "2023-12-21T19:03:46.579647+00:00",
       "NumProgressed": 219,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T22:04:26.409313+00:00",
+      "NumProgressed": 220,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-17T17:03:41.4004468+00:00",
@@ -1096,9 +1101,9 @@
       "ID": "ACHIEVEMENT_ID_21",
       "SetID": "c504de6",
       "Name": "There\u0027s something in those trees",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_ID_22",
@@ -1176,9 +1181,9 @@
       "ID": "ACHIEVEMENT_ID_30",
       "SetID": "c504de6",
       "Name": "Indebted",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_ID_31",
@@ -1192,9 +1197,9 @@
       "ID": "ACHIEVEMENT_ID_32",
       "SetID": "c504de6",
       "Name": "Capitalism",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_ID_33",
@@ -1258,15 +1263,15 @@
       "Name": "First Step",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_ID_40",
       "SetID": "c504de6",
       "Name": "Great Producer",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_ID_41",
@@ -1337,14 +1342,14 @@
     {
       "ID": "c504de6",
       "IsBase": true,
-      "Progressed": 219,
+      "Progressed": 220,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-12-21T21:03:49.324536+00:00",
+  "LastChanged_Achievements": "2023-12-21T22:04:26.4093125+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:16.9564061+00:00",
-  "LastUpdate_Ratings": "2023-12-21T20:58:35.6406632+00:00",
-  "LastUpdate_Achievements": "2023-12-21T21:03:49.324577+00:00"
+  "LastUpdate_Ratings": "2023-12-21T21:59:17.0074274+00:00",
+  "LastUpdate_Achievements": "2023-12-21T22:04:26.4093722+00:00"
 }

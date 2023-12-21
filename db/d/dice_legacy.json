@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1243,
+  "EOS_Progressed": 1244,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2479,6 +2479,11 @@
       "Time": "2023-12-21T19:06:35.0018759+00:00",
       "NumProgressed": 1243,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T22:07:46.4349402+00:00",
+      "NumProgressed": 1244,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2849,7 +2854,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1243,
+      "Progressed": 1244,
       "Completed": 0
     }
   ],
@@ -2857,8 +2862,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-12-18T15:02:48.0768878+00:00",
-  "LastChanged_Achievements": "2023-12-21T21:06:19.6017809+00:00",
+  "LastChanged_Achievements": "2023-12-21T22:07:46.4349395+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:49.3421858+00:00",
-  "LastUpdate_Ratings": "2023-12-21T21:03:02.3317987+00:00",
-  "LastUpdate_Achievements": "2023-12-21T21:06:19.601815+00:00"
+  "LastUpdate_Ratings": "2023-12-21T22:03:20.8474853+00:00",
+  "LastUpdate_Achievements": "2023-12-21T22:07:46.4349755+00:00"
 }
