@@ -197,6 +197,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Paganism | 0.10% | ~16 |
 | Beja Archer | 0.10% | ~16 |
 | Colosseum | 0.10% | ~16 |
+| Jerwan Aqueduct | 0.10% | ~16 |
 | Royal Library | 0.10% | ~16 |
 | Colosseum in Roma | 0.10% | ~16 |
 | Centenarian | 0.00% | ~0 |
@@ -358,7 +359,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cothon | 0.00% | ~0 |
 | Heliopolis | 0.00% | ~0 |
 | Jebel Barkal | 0.00% | ~0 |
-| Jerwan Aqueduct | 0.00% | ~0 |
 | Yazilikaya | 0.00% | ~0 |
 | Jerwan Aqueduct in Jerwan | 0.00% | ~0 |
 | Jebel Barkal in Napata | 0.00% | ~0 |

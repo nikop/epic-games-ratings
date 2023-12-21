@@ -1,17 +1,17 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 258)  
+Rating: 4.68 (Ranked 259)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 9.00% | ~338 |
-| Lost and Found | 5.00% | ~188 |
-| This Belongs in a Museum | 4.00% | ~5,155 |
-| Autodidact | 4.00% | ~5,155 |
-| This guy... again? | 4.00% | ~150 |
-| Bloody Graduation | 4.00% | ~150 |
+| Malpractice Assurance | 9.00% | ~339 |
+| Lost and Found | 6.00% | ~226 |
+| This Belongs in a Museum | 4.00% | ~5,156 |
+| Autodidact | 4.00% | ~5,156 |
+| This guy... again? | 4.00% | ~151 |
+| Bloody Graduation | 4.00% | ~151 |
 | Serenity Now! | 3.00% | ~3,867 |
 | Not Today! | 3.00% | ~3,867 |
 | Creep and Sleep | 3.00% | ~3,867 |
@@ -19,12 +19,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | Catch and Decease | 3.00% | ~3,867 |
 | Overdue Notice | 3.00% | ~3,867 |
 | Escape from the Black Hole | 3.00% | ~3,867 |
+| Rush Hour | 3.00% | ~3,867 |
 | To Grandmother's House | 3.00% | ~3,867 |
 | Ploughshares to Swords | 3.00% | ~113 |
 | Friends 'Til the End | 3.00% | ~113 |
 | Don't Make Me Turn This Coach Around | 2.00% | ~2,578 |
 | It Rings a Bell | 2.00% | ~2,578 |
 | Unleash Hell | 2.00% | ~2,578 |
+| Long Live the King | 2.00% | ~2,578 |
 | Unfulfilled Desires | 2.00% | ~2,578 |
 | Dissector | 2.00% | ~2,578 |
 | Banishment | 2.00% | ~2,578 |
@@ -32,7 +34,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Now Stay Dead | 2.00% | ~2,578 |
 | It Happens | 2.00% | ~2,578 |
 | Spelunker | 2.00% | ~2,578 |
-| Rush Hour | 2.00% | ~2,578 |
 | Merry Time | 2.00% | ~2,578 |
 | Harvest Festival | 2.00% | ~2,578 |
 | Ramble On | 2.00% | ~2,578 |
@@ -44,7 +45,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Road Trip | 2.00% | ~2,578 |
 | Resurrection | 1.00% | ~1,289 |
 | Funny Guy | 1.00% | ~1,289 |
-| Long Live the King | 1.00% | ~1,289 |
 | Wyrdly Reconstructed | 1.00% | ~1,289 |
 | Boxcar Kid | 1.00% | ~1,289 |
 | Hope Rekindled | 1.00% | ~1,289 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,886 (Ranked 86)  
+Progressed: 128,896 (Ranked 86)  
 Completed: 3 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,21 +321,21 @@ Completed: 3 (0.00%) (Ranked 384)
 | 2023-12-18 | 128,398 | 3 |
 | 2023-12-19 | 128,605 | 3 |
 | 2023-12-20 | 128,785 | 3 |
-| 2023-12-21 | 128,886 | 3 |
+| 2023-12-21 | 128,896 | 3 |
 ## Awards
 Max (Character Customization): 7,805  (Ranked 50)  
-Sum: 20,865 (Ranked 58)  
+Sum: 20,875 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,805 |
 | This game has Diverse Characters | 1,747 |
 | This game has Challenging Combat | 1,614 |
-| This game is Highly Recommended | 1,552 |
+| This game is Highly Recommended | 1,557 |
 | This game is Extremely Fun | 1,481 |
 | This game has Amazing Characters | 1,477 |
+| This game has Unique Visuals | 1,401 |
 | This game has Amazing Storytelling | 1,398 |
-| This game has Unique Visuals | 1,396 |
 | This game has Quickly Understood Controls | 1,362 |
 | This game has a Creative Community | 1,033 |
 | This game has Obsessive Gameplay | 585 |
@@ -670,4 +670,4 @@ Diff (max vs sum): -8
 | 2023-12-18 | 4.68 | - | 7,784 | 20,761 |
 | 2023-12-19 | 4.68 | - | 7,795 | 20,806 |
 | 2023-12-20 | 4.68 | - | 7,805 | 20,840 |
-| 2023-12-21 | 4.68 | - | 7,805 | 20,865 |
+| 2023-12-21 | 4.68 | - | 7,805 | 20,875 |

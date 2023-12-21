@@ -29,7 +29,7 @@ Rating: 4.29 (Ranked 858)
 | The Mad | 1.00% | ~12 |
 | Like the dream | 1.00% | ~12 |
 | Metropolis | 0.90% | ~11 |
-| Charismatic Leader | 0.70% | ~9 |
+| Charismatic Leader | 0.80% | ~10 |
 | The Great Winter | 0.60% | ~7 |
 | Red Tape | 0.60% | ~7 |
 | Knowledge is Power | 0.60% | ~7 |

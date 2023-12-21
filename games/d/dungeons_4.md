@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 88.00% | ~527 |
-| Thalya – Simply Immortal | 88.00% | ~527 |
-| For the Horde! | 82.00% | ~491 |
-| Hammer Time, Round Two | 81.00% | ~485 |
-| The Hellwoods | 77.00% | ~461 |
-| The Plains of Strothalm | 72.00% | ~431 |
-| Experienced Thalya | 71.00% | ~425 |
-| Thalya's Concentrated Fury | 69.00% | ~413 |
-| Bad Elves Go Everywhere | 69.00% | ~413 |
-| Heroes’ Gorge | 64.00% | ~383 |
-| Master of Magic | 63.00% | ~377 |
-| Unicorn steaks – fresh off the hoof! | 62.00% | ~371 |
-| Magic Accidents | 60.00% | ~359 |
-| The Ascent | 59.00% | ~353 |
-| It's Warm and Cozy at Home | 59.00% | ~353 |
-| Trap Master | 55.00% | ~329 |
-| Minions, Minions! | 54.00% | ~323 |
-| The Big Eaty | 54.00% | ~323 |
-| Hard Work | 53.00% | ~317 |
-| “… like son” | 51.00% | ~305 |
+| The Last Stand | 88.00% | ~528 |
+| Thalya – Simply Immortal | 88.00% | ~528 |
+| For the Horde! | 82.00% | ~492 |
+| Hammer Time, Round Two | 81.00% | ~486 |
+| The Hellwoods | 77.00% | ~462 |
+| The Plains of Strothalm | 72.00% | ~432 |
+| Experienced Thalya | 72.00% | ~432 |
+| Thalya's Concentrated Fury | 69.00% | ~414 |
+| Bad Elves Go Everywhere | 69.00% | ~414 |
+| Heroes’ Gorge | 64.00% | ~384 |
+| Master of Magic | 63.00% | ~378 |
+| Unicorn steaks – fresh off the hoof! | 62.00% | ~372 |
+| Magic Accidents | 60.00% | ~360 |
+| The Ascent | 59.00% | ~354 |
+| It's Warm and Cozy at Home | 59.00% | ~354 |
+| Trap Master | 55.00% | ~330 |
+| Minions, Minions! | 54.00% | ~324 |
+| The Big Eaty | 54.00% | ~324 |
+| Hard Work | 53.00% | ~318 |
+| “… like son” | 51.00% | ~306 |
 | YOU SHALL NOT PASS! | 50.00% | ~300 |
 | The Cathedral of Light | 48.00% | ~288 |
 | Shame! Shame! Shame! | 47.00% | ~282 |
 | Pure Dynamite! | 46.00% | ~276 |
 | Dungeonlord Gorgu | 46.00% | ~276 |
-| Tanos' Crusade Against Thalya | 45.00% | ~270 |
+| Tanos' Crusade Against Thalya | 46.00% | ~276 |
 | Mana Cannon | 42.00% | ~252 |
 | All’s Well That Ends Evil | 40.00% | ~240 |
 | The Duel | 36.00% | ~216 |
@@ -66,8 +66,8 @@
 | No Mana, No Cry | 10.00% | ~60 |
 | I Don't Need Any Help | 9.00% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 599 (Ranked 317)  
-Completed: 20 (3.34%) (Ranked 104)  
+Progressed: 600 (Ranked 317)  
+Completed: 20 (3.33%) (Ranked 104)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -112,4 +112,4 @@ Completed: 20 (3.34%) (Ranked 104)
 | 2023-12-18 | 589 | 19 |
 | 2023-12-19 | 592 | 19 |
 | 2023-12-20 | 598 | 20 |
-| 2023-12-21 | 599 | 20 |
+| 2023-12-21 | 600 | 20 |

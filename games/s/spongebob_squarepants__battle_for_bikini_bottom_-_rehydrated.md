@@ -6,14 +6,14 @@ Number of Ratings: 76  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Are you ready now? | 0.70% | ~1 |
-| Sweet Victory | 0.70% | ~1 |
-| Time For Tutorial | 0.70% | ~1 |
+| Sweet Victory | 1.00% | ~2 |
+| Time For Tutorial | 1.00% | ~2 |
+| Are you ready now? | 0.60% | ~1 |
+| Uptown and Downtown | 0.60% | ~1 |
 | Robot encyclopedia | 0.00% | ~0 |
 | The Small Does Not Rule | 0.00% | ~0 |
 | 100% SpongeBob | 0.00% | ~0 |
 | Life's as extreme as you wanna make it! | 0.00% | ~0 |
-| Uptown and Downtown | 0.00% | ~0 |
 | Ship Shape | 0.00% | ~0 |
 | Hello, Bikini Bottom | 0.00% | ~0 |
 | Shanghaied | 0.00% | ~0 |
@@ -39,7 +39,7 @@ Number of Ratings: 76  (23.09.2022)
 | Star Smasher | 0.00% | ~0 |
 | Surf's Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 151 (Ranked 423)  
+Progressed: 157 (Ranked 421)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -47,7 +47,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 34 | 0 |
 | 2023-12-19 | 88 | 0 |
 | 2023-12-20 | 127 | 0 |
-| 2023-12-21 | 151 | 0 |
+| 2023-12-21 | 157 | 0 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 492)  
 Sum: 34 (Ranked 516)  

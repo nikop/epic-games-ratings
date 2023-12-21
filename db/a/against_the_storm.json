@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3527,9 +3527,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18816,
+  "EOS_Progressed": 18820,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 717,
+  "EOS_NewPlayers": 714,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16557,6 +16557,11 @@
       "Time": "2023-12-21T14:06:56.5651698+00:00",
       "NumProgressed": 18816,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-21T15:08:25.9756482+00:00",
+      "NumProgressed": 18820,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16657,7 +16662,7 @@
       "Name": "First Real Expedition",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "WinHard",
@@ -16665,7 +16670,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "WinImpossible",
@@ -16833,7 +16838,7 @@
       "Name": "Coral Forest",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "WinOnCursed",
@@ -16849,7 +16854,7 @@
       "Name": "The Marshlands",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "WinOnMoorlands",
@@ -16857,7 +16862,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "WinPrestige10",
@@ -16985,7 +16990,7 @@
       "Name": "Land of Greed",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "WinNearLibrary",
@@ -17040,15 +17045,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18816,
+      "Progressed": 18820,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-21T09:59:46.5641873+00:00",
-  "LastChanged_Achievements": "2023-12-21T14:06:56.5651695+00:00",
+  "LastChanged_Achievements": "2023-12-21T15:08:25.9756479+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
-  "LastUpdate_Ratings": "2023-12-21T14:00:04.1125272+00:00",
-  "LastUpdate_Achievements": "2023-12-21T14:06:56.5652536+00:00"
+  "LastUpdate_Ratings": "2023-12-21T15:01:01.5626361+00:00",
+  "LastUpdate_Achievements": "2023-12-21T15:08:25.9757315+00:00"
 }

@@ -14,9 +14,9 @@
 | Ghost Buster | 15.00% | ~87 |
 | Reincarnation | 15.00% | ~87 |
 | Iconoclasm | 14.00% | ~81 |
+| Orcs Must Die! | 13.00% | ~75 |
 | Gladiator | 12.00% | ~70 |
 | Librarian | 12.00% | ~70 |
-| Orcs Must Die! | 12.00% | ~70 |
 | The End | 12.00% | ~70 |
 | Lumberjack | 11.00% | ~64 |
 | Troubleshooter | 10.00% | ~58 |

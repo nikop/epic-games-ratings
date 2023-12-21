@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2400,
+  "EOS_Progressed": 2403,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 543,
+  "EOS_NewPlayers": 545,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2364,6 +2364,11 @@
       "Time": "2023-12-21T14:08:27.5326825+00:00",
       "NumProgressed": 2400,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T15:09:04.955859+00:00",
+      "NumProgressed": 2403,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -2374,9 +2379,9 @@
       "ID": "ACHIEVEMENT_01",
       "SetID": "c167foo",
       "Name": "Rite of Passage",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -2400,7 +2405,7 @@
       "Name": "Highest Among the Highest",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -2486,9 +2491,9 @@
       "ID": "ACHIEVEMENT_22",
       "SetID": "c167foo",
       "Name": "High Level Mastery",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -2560,7 +2565,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -2576,7 +2581,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -2751,14 +2756,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 2400,
+      "Progressed": 2403,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-21T14:08:27.5326821+00:00",
+  "LastChanged_Achievements": "2023-12-21T15:09:04.9558586+00:00",
   "LastUpdate_AppInfo": "2023-12-19T11:57:06.3691956+00:00",
-  "LastUpdate_Ratings": "2023-12-21T13:57:50.0471855+00:00",
-  "LastUpdate_Achievements": "2023-12-21T14:08:27.5327249+00:00"
+  "LastUpdate_Ratings": "2023-12-21T14:58:06.1267986+00:00",
+  "LastUpdate_Achievements": "2023-12-21T15:09:04.9558984+00:00"
 }

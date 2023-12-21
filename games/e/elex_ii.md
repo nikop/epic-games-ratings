@@ -6,14 +6,16 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peddler | 2.00% | ~1 |
+| Best Buddy | 7.00% | ~3 |
+| Peddler | 5.00% | ~2 |
+| Entrepreneur | 2.00% | ~1 |
 | Long-Haul Flyer | 2.00% | ~1 |
 | Free as a Bird | 2.00% | ~1 |
+| Role Model | 2.00% | ~1 |
+| Creator | 2.00% | ~1 |
 | Civilian | 2.00% | ~1 |
-| Best Buddy | 2.00% | ~1 |
 | Pack Rat | 0.00% | ~0 |
 | Banker | 0.00% | ~0 |
-| Entrepreneur | 0.00% | ~0 |
 | Drinker | 0.00% | ~0 |
 | Key Master | 0.00% | ~0 |
 | Treasure Hunter | 0.00% | ~0 |
@@ -30,7 +32,6 @@ Number of Ratings: 124  (23.09.2022)
 | Self-Sufficient | 0.00% | ~0 |
 | Idealist | 0.00% | ~0 |
 | Unbreakable | 0.00% | ~0 |
-| Role Model | 0.00% | ~0 |
 | Toy Time | 0.00% | ~0 |
 | Defector | 0.00% | ~0 |
 | Alb | 0.00% | ~0 |
@@ -38,7 +39,6 @@ Number of Ratings: 124  (23.09.2022)
 | Cleric | 0.00% | ~0 |
 | Morkon | 0.00% | ~0 |
 | Outlaw | 0.00% | ~0 |
-| Creator | 0.00% | ~0 |
 | Destroyer | 0.00% | ~0 |
 | Perfectionist | 0.00% | ~0 |
 | Commander | 0.00% | ~0 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Eternal Oblivion | 0.00% | ~0 |
 | Lover | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42 (Ranked 547)  
+Progressed: 42 (Ranked 548)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |

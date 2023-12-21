@@ -4,7 +4,7 @@
   "ProductSlug": "hanoi-puzzles-solid-match-6a9e0c",
   "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 34,
-  "Ranking_EOS_NewPlayers": 491,
+  "Ranking_EOS_NewPlayers": 490,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-11-11T18:00:00+00:00",
@@ -502,17 +502,17 @@
       "ID": "07_ACHIEVEMENT_Half_Master",
       "SetID": "6opd2eg",
       "Name": "Master Half of the game",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 125,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "08_ACHIEVEMENT_Game_Complete",
       "SetID": "6opd2eg",
       "Name": "Finish the game",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 150,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "09_ACHIEVEMENT_Complete_Master",
@@ -549,8 +549,8 @@
   ],
   "FirstSeen": "2023-11-12T03:57:01.5427202+00:00",
   "FirstSeenAchievements": "2023-11-02T13:13:39.3134683+00:00",
-  "LastChanged_Achievements": "2023-12-21T14:09:46.6238211+00:00",
+  "LastChanged_Achievements": "2023-12-21T15:10:47.3110919+00:00",
   "LastUpdate_AppInfo": "2023-12-19T08:57:01.8422494+00:00",
-  "LastUpdate_Ratings": "2023-12-21T13:58:57.9664524+00:00",
-  "LastUpdate_Achievements": "2023-12-21T14:09:46.6238312+00:00"
+  "LastUpdate_Ratings": "2023-12-21T14:59:36.3874001+00:00",
+  "LastUpdate_Achievements": "2023-12-21T15:10:47.3111026+00:00"
 }

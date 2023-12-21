@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 90.00% | ~38 |
-| Suicide squad | 55.00% | ~23 |
+| First success | 88.00% | ~38 |
+| Suicide squad | 53.00% | ~23 |
 | First blood | 33.00% | ~14 |
-| Train hard, fight easy | 31.00% | ~13 |
-| Under cover | 31.00% | ~13 |
+| Train hard, fight easy | 30.00% | ~13 |
+| Under cover | 30.00% | ~13 |
 | All for one! | 26.00% | ~11 |
 | Royal blessing | 26.00% | ~11 |
 | A hidden snake | 26.00% | ~11 |
@@ -19,17 +19,17 @@
 | Surpass the teacher | 19.00% | ~8 |
 | Help of the Gell | 19.00% | ~8 |
 | She-Wolf | 19.00% | ~8 |
-| Berkanan Borgia | 17.00% | ~7 |
-| Trial by cold | 17.00% | ~7 |
+| Berkanan Borgia | 16.00% | ~7 |
+| Trial by cold | 16.00% | ~7 |
 | The champion of the arena | 14.00% | ~6 |
 | Stronger than Gellian steel | 12.00% | ~5 |
 | Rage | 12.00% | ~5 |
 | Protect the Healer! | 12.00% | ~5 |
-| For the greater good | 10.00% | ~4 |
-| Collector | 10.00% | ~4 |
-| Overplay the rogue | 10.00% | ~4 |
-| Punish the Punisher | 10.00% | ~4 |
-| The End | 10.00% | ~4 |
+| For the greater good | 9.00% | ~4 |
+| Collector | 9.00% | ~4 |
+| Overplay the rogue | 9.00% | ~4 |
+| Punish the Punisher | 9.00% | ~4 |
+| The End | 9.00% | ~4 |
 | The best apprentice | 7.00% | ~3 |
 | First among Frisians | 7.00% | ~3 |
 | Defeat the bear | 7.00% | ~3 |
@@ -54,7 +54,7 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42 (Ranked 547)  
+Progressed: 43 (Ranked 543)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-11-28 | 36 | 0 |
 | 2023-12-15 | 37 | 0 |
 | 2023-12-17 | 40 | 0 |
-| 2023-12-21 | 42 | 0 |
+| 2023-12-21 | 43 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

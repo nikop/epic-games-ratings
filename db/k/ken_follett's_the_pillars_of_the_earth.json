@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 409,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -570,7 +570,7 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17233,
+  "EOS_Progressed": 17235,
   "EOS_Completed": 119,
   "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 0,
@@ -16635,6 +16635,11 @@
       "Time": "2023-12-21T14:05:13.4520025+00:00",
       "NumProgressed": 17233,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-12-21T15:06:13.9542874+00:00",
+      "NumProgressed": 17235,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 41,
@@ -16646,7 +16651,7 @@
       "Name": "Good midwife",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1723
+      "UsersEstimate": 1724
     },
     {
       "ID": "tpote_achievement_10",
@@ -16686,7 +16691,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5687
+      "UsersEstimate": 5688
     },
     {
       "ID": "tpote_achievement_15",
@@ -16710,7 +16715,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2757
+      "UsersEstimate": 2758
     },
     {
       "ID": "tpote_achievement_18",
@@ -16718,7 +16723,7 @@
       "Name": "Friar Tuck",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 1723
+      "UsersEstimate": 1724
     },
     {
       "ID": "tpote_achievement_19",
@@ -16734,7 +16739,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5687
+      "UsersEstimate": 5688
     },
     {
       "ID": "tpote_achievement_20",
@@ -16774,7 +16779,7 @@
       "Name": "First profit",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1723
+      "UsersEstimate": 1724
     },
     {
       "ID": "tpote_achievement_25",
@@ -16790,7 +16795,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2240
+      "UsersEstimate": 2241
     },
     {
       "ID": "tpote_achievement_27",
@@ -16822,7 +16827,7 @@
       "Name": "Let there be darkness",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5342
+      "UsersEstimate": 5343
     },
     {
       "ID": "tpote_achievement_30",
@@ -16830,7 +16835,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1723
+      "UsersEstimate": 1724
     },
     {
       "ID": "tpote_achievement_31",
@@ -16910,7 +16915,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6893
+      "UsersEstimate": 6894
     },
     {
       "ID": "tpote_achievement_40",
@@ -16966,22 +16971,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5859
+      "UsersEstimate": 5860
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17233,
+      "Progressed": 17235,
       "Completed": 119
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2023-12-21T14:05:13.4520022+00:00",
+  "LastChanged_Achievements": "2023-12-21T15:06:13.9542872+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:13.9933566+00:00",
-  "LastUpdate_Ratings": "2023-12-21T13:59:53.3727182+00:00",
-  "LastUpdate_Achievements": "2023-12-21T14:05:13.452098+00:00"
+  "LastUpdate_Ratings": "2023-12-21T15:00:47.7014109+00:00",
+  "LastUpdate_Achievements": "2023-12-21T15:06:13.9543935+00:00"
 }

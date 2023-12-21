@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -235,9 +235,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8564,
+  "EOS_Progressed": 8568,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8830,6 +8830,11 @@
       "Time": "2023-12-21T14:09:54.0416361+00:00",
       "NumProgressed": 8564,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T15:10:56.5433379+00:00",
+      "NumProgressed": 8568,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -8944,9 +8949,9 @@
       "ID": "COLLECT_MULTIPLE_CRITTERS",
       "SetID": "9eia0f5",
       "Name": "Break-Net Speed",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 77
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -9072,9 +9077,9 @@
       "ID": "SPEND_FIRSTYEAR",
       "SetID": "9eia0f5",
       "Name": "Azorian Anniversary",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 34
     },
     {
       "ID": "UPGRADE_ALLSKILLSMAX",
@@ -9185,13 +9190,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8564,
+      "Progressed": 8568,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1181,
+      "Progressed": 1185,
       "Completed": 1050
     }
   ],
@@ -9199,8 +9204,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-19T16:03:30.9665101+00:00",
-  "LastChanged_Achievements": "2023-12-21T14:09:54.0416358+00:00",
+  "LastChanged_Achievements": "2023-12-21T15:10:56.5433375+00:00",
   "LastUpdate_AppInfo": "2023-12-15T11:57:06.5610357+00:00",
-  "LastUpdate_Ratings": "2023-12-21T14:03:09.9373424+00:00",
-  "LastUpdate_Achievements": "2023-12-21T14:09:54.0416999+00:00"
+  "LastUpdate_Ratings": "2023-12-21T15:03:34.099245+00:00",
+  "LastUpdate_Achievements": "2023-12-21T15:10:56.5434492+00:00"
 }

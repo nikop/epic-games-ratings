@@ -5,22 +5,22 @@ Rating: 4.81 (Ranked 85)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 67.00% | ~828 |
-| The Adventure Begins | 49.00% | ~606 |
-| Swabbie | 37.00% | ~457 |
-| With Great Power… | 36.00% | ~445 |
-| This Belongs in a Museum | 33.00% | ~408 |
+| A New Journey | 67.00% | ~829 |
+| The Adventure Begins | 49.00% | ~607 |
+| Swabbie | 37.00% | ~458 |
+| With Great Power… | 36.00% | ~446 |
+| This Belongs in a Museum | 33.00% | ~409 |
 | The Gambit Has Begun | 30.00% | ~371 |
-| Somewhere Deep in the Lost Caribbean | 26.00% | ~321 |
-| Mirror Mirror on the Wall | 26.00% | ~321 |
-| Powder Monkey | 26.00% | ~321 |
+| Somewhere Deep in the Lost Caribbean | 26.00% | ~322 |
+| Mirror Mirror on the Wall | 26.00% | ~322 |
+| Powder Monkey | 26.00% | ~322 |
 | Pirates Assemble! | 24.00% | ~297 |
-| Buccaneer | 20.00% | ~247 |
-| Fishy Fish | 20.00% | ~247 |
-| All Good Things | 18.00% | ~222 |
+| Buccaneer | 20.00% | ~248 |
+| Fishy Fish | 20.00% | ~248 |
+| All Good Things | 18.00% | ~223 |
 | Persistent Parasite | 16.00% | ~198 |
-| Seadog | 15.00% | ~185 |
-| Jaded Judge | 12.00% | ~148 |
+| Seadog | 15.00% | ~186 |
+| Jaded Judge | 12.00% | ~149 |
 | Rustic Recipe | 11.00% | ~136 |
 | Tobacco Travesty | 10.00% | ~124 |
 | Privateer | 9.00% | ~111 |
@@ -28,11 +28,11 @@ Rating: 4.81 (Ranked 85)
 | Lyrical Longing | 9.00% | ~111 |
 | Fully Decked | 7.00% | ~87 |
 | Corsair | 6.00% | ~74 |
-| Freebooter | 4.00% | ~49 |
+| Freebooter | 4.00% | ~50 |
 | Marauder | 3.00% | ~37 |
 | Welcome Back Jester | 3.00% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,236 (Ranked 265)  
+Progressed: 1,238 (Ranked 265)  
 Completed: 33 (2.67%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 33 (2.67%) (Ranked 121)
 | 2023-12-18 | 1,208 | 32 |
 | 2023-12-19 | 1,218 | 32 |
 | 2023-12-20 | 1,228 | 33 |
-| 2023-12-21 | 1,236 | 33 |
+| 2023-12-21 | 1,238 | 33 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

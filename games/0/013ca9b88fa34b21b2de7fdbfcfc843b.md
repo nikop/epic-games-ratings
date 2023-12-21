@@ -9,10 +9,10 @@ Rating: 4.63 (Ranked 353)
 | A Thorny Situation | 1.00% | ~86 |
 | ... And Spit Back Out | 1.00% | ~86 |
 | Bramble Breaker | 1.00% | ~86 |
+| Break-Net Speed | 0.90% | ~77 |
 | Calm Sailing | 0.80% | ~69 |
 | Open the Gate! | 0.80% | ~69 |
 | Miner 49er | 0.80% | ~69 |
-| Break-Net Speed | 0.80% | ~69 |
 | Humble Collector | 0.70% | ~60 |
 | Mist Walker | 0.70% | ~60 |
 | Lumberjack | 0.60% | ~51 |
@@ -21,11 +21,11 @@ Rating: 4.63 (Ranked 353)
 | Oui, Chef! | 0.50% | ~43 |
 | Exit Through The Gift Shop | 0.50% | ~6 |
 | Higher Tax Bracket | 0.40% | ~34 |
+| Azorian Anniversary | 0.40% | ~34 |
 | Skilled | 0.40% | ~34 |
 | Flaming Hot Completos | 0.30% | ~26 |
 | Beach Comber | 0.30% | ~26 |
 | Botanical Breakthrough | 0.30% | ~26 |
-| Azorian Anniversary | 0.30% | ~26 |
 | Right Tool For the Job | 0.30% | ~26 |
 | Fae Farmer | 0.20% | ~17 |
 | Rumble in the Jumble | 0.20% | ~17 |
@@ -49,7 +49,7 @@ Rating: 4.63 (Ranked 353)
 | Splish-Splash | 0.10% | ~1 |
 | Archi-Pal-igo Aficionado | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,564 (Ranked 180)  
+Progressed: 8,568 (Ranked 180)  
 Completed: 1 (0.01%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 1 (0.01%) (Ranked 361)
 | 2023-12-18 | 8,518 | 1 |
 | 2023-12-19 | 8,538 | 1 |
 | 2023-12-20 | 8,558 | 1 |
-| 2023-12-21 | 8,564 | 1 |
+| 2023-12-21 | 8,568 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

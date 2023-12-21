@@ -1480,9 +1480,9 @@
       "ID": "MAIN_CLEAR_ISLAND3",
       "SetID": "apihg0e",
       "Name": "Futile Resistance",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 38
     },
     {
       "ID": "MAIN_CLEAR_ISLAND4",
@@ -1639,8 +1639,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-21T14:03:45.04876+00:00",
+  "LastChanged_Achievements": "2023-12-21T15:04:21.5065285+00:00",
   "LastUpdate_AppInfo": "2023-12-19T19:57:15.6866052+00:00",
-  "LastUpdate_Ratings": "2023-12-21T14:03:03.337822+00:00",
-  "LastUpdate_Achievements": "2023-12-21T14:03:45.0488102+00:00"
+  "LastUpdate_Ratings": "2023-12-21T15:03:24.8397042+00:00",
+  "LastUpdate_Achievements": "2023-12-21T15:04:21.5065856+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.45 (Ranked 673)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,914 |
+| Meeting Resistance | 47.00% | ~1,915 |
 | Confirming Suspicions | 41.00% | ~1,670 |
 | The Kraken Wakes | 37.00% | ~1,507 |
 | It's Starting to Crack | 34.00% | ~1,385 |
@@ -21,9 +21,9 @@ Rating: 4.45 (Ranked 673)
 | Sharpshooter | 23.00% | ~937 |
 | Gunslinger | 19.00% | ~774 |
 | Explosive Efficiency | 19.00% | ~774 |
-| Climbing the Ladder | 17.00% | ~692 |
-| Just a Flesh Wound | 17.00% | ~692 |
-| Der Geist | 17.00% | ~692 |
+| Climbing the Ladder | 17.00% | ~693 |
+| Just a Flesh Wound | 17.00% | ~693 |
+| Der Geist | 17.00% | ~693 |
 | Close Quarters | 16.00% | ~652 |
 | Snake in the Grass | 16.00% | ~652 |
 | Skirmisher | 15.00% | ~611 |
@@ -33,13 +33,13 @@ Rating: 4.45 (Ranked 673)
 | Opposing Force | 14.00% | ~570 |
 | Enemy at the Gates | 14.00% | ~570 |
 | Fields of Glory | 14.00% | ~570 |
-| Set Europe Ablaze | 13.00% | ~529 |
+| Set Europe Ablaze | 13.00% | ~530 |
 | Precision Is Key | 10.00% | ~407 |
 | My Little Friend | 10.00% | ~407 |
 | Rigged to Blow | 9.00% | ~367 |
 | Herr Today, Gone Tomorrow | 7.00% | ~282 |
 | The Long Game | 6.00% | ~244 |
-| Operation Foxley | 6.00% | ~241 |
+| Operation Foxley | 6.00% | ~242 |
 | Strategist | 5.00% | ~204 |
 | Tinkerer | 5.00% | ~204 |
 | It'll Buff Right Out | 5.00% | ~204 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 673)
 | Going Overboard | 0.60% | ~24 |
 | Stroll in the Woods | 0.50% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,073 (Ranked 206)  
+Progressed: 4,074 (Ranked 206)  
 Completed: 11 (0.27%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 11 (0.27%) (Ranked 254)
 | 2023-12-18 | 4,057 | 11 |
 | 2023-12-19 | 4,060 | 11 |
 | 2023-12-20 | 4,066 | 11 |
-| 2023-12-21 | 4,073 | 11 |
+| 2023-12-21 | 4,074 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 519)  
 Sum: 28 (Ranked 533)  

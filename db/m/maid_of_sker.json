@@ -4,7 +4,7 @@
   "ProductSlug": "maid-of-sker-2ae24e",
   "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewPlayers": 370,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 239,
+  "EOS_Progressed": 240,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
@@ -575,6 +575,11 @@
       "Time": "2023-12-21T12:08:37.8969455+00:00",
       "NumProgressed": 239,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T15:08:30.4138217+00:00",
+      "NumProgressed": 240,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -624,9 +629,9 @@
       "ID": "choking_hazzard",
       "SetID": "3j2phem",
       "Name": "Choking Hazard",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 105
+      "UsersEstimate": 103
     },
     {
       "ID": "dodgy_geezer",
@@ -642,7 +647,7 @@
       "Name": "Don\u0027t Breathe",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "easy_listening",
@@ -825,7 +830,7 @@
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 239,
+      "Progressed": 240,
       "Completed": 0
     }
   ],
@@ -833,8 +838,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-12-21T14:07:00.0250081+00:00",
+  "LastChanged_Achievements": "2023-12-21T15:08:30.4138213+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:12.385492+00:00",
-  "LastUpdate_Ratings": "2023-12-21T13:59:40.0791767+00:00",
-  "LastUpdate_Achievements": "2023-12-21T14:07:00.0250293+00:00"
+  "LastUpdate_Ratings": "2023-12-21T15:00:30.5661159+00:00",
+  "LastUpdate_Achievements": "2023-12-21T15:08:30.4138421+00:00"
 }

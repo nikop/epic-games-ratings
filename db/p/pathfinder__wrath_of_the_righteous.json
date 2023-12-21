@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 123,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4655,9 +4655,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12565,
+  "EOS_Progressed": 12566,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 247,
+  "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17545,6 +17545,11 @@
       "Time": "2023-12-21T14:09:54.8957905+00:00",
       "NumProgressed": 12565,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T15:10:57.526282+00:00",
+      "NumProgressed": 12566,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -17804,7 +17809,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2010
+      "UsersEstimate": 2011
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -17924,7 +17929,7 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2387
+      "UsersEstimate": 2388
     },
     {
       "ID": "49_Flame",
@@ -18483,21 +18488,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11347,
+      "Progressed": 11348,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12565,
+      "Progressed": 12566,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-21T06:58:30.1552597+00:00",
-  "LastChanged_Achievements": "2023-12-21T14:09:54.8957903+00:00",
+  "LastChanged_Achievements": "2023-12-21T15:10:57.5262817+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.7532096+00:00",
-  "LastUpdate_Ratings": "2023-12-21T13:58:12.8536566+00:00",
-  "LastUpdate_Achievements": "2023-12-21T14:09:54.8959418+00:00"
+  "LastUpdate_Ratings": "2023-12-21T14:58:36.8890218+00:00",
+  "LastUpdate_Achievements": "2023-12-21T15:10:57.526442+00:00"
 }

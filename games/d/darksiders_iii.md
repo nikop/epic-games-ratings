@@ -1,50 +1,50 @@
 # Darksiders III
 [Store](https://store.epicgames.com/en-US/p/darksiders3)  
 [View Rawdata](../../db/d/darksiders_iii.json)  
-Rating: 4.49 (Ranked 620)  
+Rating: 4.49 (Ranked 619)  
 Number of Ratings: 116  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Green with Envy | 92.00% | ~11 |
-| First of many… | 75.00% | ~9 |
+| First of many… | 83.00% | ~10 |
+| Increased Vigor | 75.00% | ~9 |
+| Helping Hand | 75.00% | ~9 |
+| Increased Capacity | 67.00% | ~8 |
+| Fight Fire with Fire | 67.00% | ~8 |
+| 25 to Life | 67.00% | ~8 |
+| Unshakable Fortitude | 58.00% | ~7 |
 | One Of the Chosen | 58.00% | ~7 |
-| Increased Capacity | 58.00% | ~7 |
-| Increased Vigor | 58.00% | ~7 |
+| Enhance! | 58.00% | ~7 |
 | Devil's in the Details | 58.00% | ~7 |
 | Throne Potato | 58.00% | ~7 |
-| Helping Hand | 58.00% | ~7 |
 | Five's a Crowd | 58.00% | ~7 |
-| 25 to Life | 58.00% | ~7 |
 | Just the start | 58.00% | ~7 |
-| Unshakable Fortitude | 50.00% | ~6 |
-| Fight Fire with Fire | 50.00% | ~6 |
+| Maximum Vigor | 50.00% | ~6 |
 | Perfect Storm | 50.00% | ~6 |
-| Enhance! | 50.00% | ~6 |
+| Salvation | 50.00% | ~6 |
 | All That Glitters | 50.00% | ~6 |
 | Soul Harvester | 42.00% | ~5 |
-| Salvation | 42.00% | ~5 |
 | Delusions of Grandeur | 42.00% | ~5 |
 | Crowd Source | 42.00% | ~5 |
 | For Whom the Bell Tolls | 42.00% | ~5 |
 | Big Spender | 42.00% | ~5 |
 | Unyielding Strength | 33.00% | ~4 |
-| Maximum Vigor | 33.00% | ~4 |
 | I Wanna Rock | 33.00% | ~4 |
 | Love Tap | 33.00% | ~4 |
 | Freeze Frame | 25.00% | ~3 |
 | Cleanup Crew | 25.00% | ~3 |
 | Can you restore the Balance? | 25.00% | ~3 |
 | Eat Your Heart Out | 25.00% | ~3 |
+| Protector of Humanity | 17.00% | ~2 |
 | Demon Meddler | 17.00% | ~2 |
+| Everybody Wants to Rule the World | 17.00% | ~2 |
 | Egomaniac | 17.00% | ~2 |
 | Seeing Red | 17.00% | ~2 |
 | Maximum Capacity | 8.00% | ~1 |
 | Soul Reaper | 8.00% | ~1 |
 | A Parting Gift | 8.00% | ~1 |
-| Protector of Humanity | 8.00% | ~1 |
 | Path of the Horseman | 8.00% | ~1 |
-| Everybody Wants to Rule the World | 8.00% | ~1 |
 | Keep it 100! | 8.00% | ~1 |
 | Take it to the Limit | 8.00% | ~1 |
 | Unbreakable Will | 0.00% | ~0 |

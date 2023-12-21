@@ -382,9 +382,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 5014,
+  "EOS_Progressed": 5015,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3872,6 +3872,11 @@
       "Time": "2023-12-21T14:06:59.7716201+00:00",
       "NumProgressed": 5014,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-21T15:08:30.1147522+00:00",
+      "NumProgressed": 5015,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -3883,7 +3888,7 @@
       "Name": "P.A.X",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1855
+      "UsersEstimate": 1856
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -3931,7 +3936,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4212
+      "UsersEstimate": 4213
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -3939,7 +3944,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4713
+      "UsersEstimate": 4714
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -3947,7 +3952,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3861
+      "UsersEstimate": 3862
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -4051,7 +4056,7 @@
       "Name": "Right Tool for the Job",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "ID_ACHIEV_23",
@@ -4171,7 +4176,7 @@
       "Name": "I Choose You",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 852
+      "UsersEstimate": 853
     },
     {
       "ID": "ID_ACHIEV_39",
@@ -4361,9 +4366,9 @@
       "ID": "ID_ACHIEV_62",
       "SetID": "98bke8c",
       "Name": "Suited and Booted",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 40
     },
     {
       "ID": "ID_ACHIEV_63",
@@ -4418,15 +4423,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5014,
+      "Progressed": 5015,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-21T05:59:26.6733243+00:00",
-  "LastChanged_Achievements": "2023-12-21T14:06:59.7716198+00:00",
+  "LastChanged_Achievements": "2023-12-21T15:08:30.1147518+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.7369287+00:00",
-  "LastUpdate_Ratings": "2023-12-21T13:59:57.4597435+00:00",
-  "LastUpdate_Achievements": "2023-12-21T14:06:59.7716791+00:00"
+  "LastUpdate_Ratings": "2023-12-21T15:00:52.7035769+00:00",
+  "LastUpdate_Achievements": "2023-12-21T15:08:30.1148138+00:00"
 }

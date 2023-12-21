@@ -4,10 +4,10 @@
   "ProductSlug": "assassins-creed-unity",
   "Ranking_Rating": 373,
   "Ranking_Popularity": 164,
-  "Ranking_PopularitySum": 253,
+  "Ranking_PopularitySum": 251,
   "Ranking_EOS_Progress": 813,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 560,
+  "Ranking_EOS_NewPlayers": 561,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2014-11-11T16:00:00+00:00",
@@ -2284,10 +2284,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 1203,
       "NumberOfAwardsMax": 915
+    },
+    {
+      "Time": "2023-12-21T14:59:06.5214119+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 1223,
+      "NumberOfAwardsMax": 915
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1203,
+  "NumberOfAwards": 1223,
   "NumberOfAwardsMax": 915,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2368,6 +2374,12 @@
       "Prefix": "This game has",
       "Type": "Diverse Characters",
       "Count": 36
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Prefix": "This game has a",
+      "Type": "Creative Community",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -2381,8 +2393,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:14.6538569+00:00",
-  "LastChanged": "2023-12-18T10:01:27.4777719+00:00",
+  "LastChanged": "2023-12-21T14:59:06.5214117+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:14.754555+00:00",
-  "LastUpdate_Ratings": "2023-12-21T13:58:35.4210114+00:00",
-  "LastUpdate_Achievements": "2023-12-21T14:06:42.4587531+00:00"
+  "LastUpdate_Ratings": "2023-12-21T14:59:06.5214122+00:00",
+  "LastUpdate_Achievements": "2023-12-21T15:08:08.1047567+00:00"
 }

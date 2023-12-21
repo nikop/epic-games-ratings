@@ -2,7 +2,7 @@
   "ID": "a17cc66c3a3c4d75875febf281c73fd2",
   "Name": "BLACKTAIL",
   "ProductSlug": "blacktail",
-  "Ranking_Rating": 258,
+  "Ranking_Rating": 259,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 289,
@@ -2735,8 +2735,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2023-12-21T14:09:51.5513134+00:00",
+  "LastChanged_Achievements": "2023-12-21T15:10:53.383916+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:13.6567295+00:00",
-  "LastUpdate_Ratings": "2023-12-21T13:57:58.985159+00:00",
-  "LastUpdate_Achievements": "2023-12-21T14:09:51.5513587+00:00"
+  "LastUpdate_Ratings": "2023-12-21T14:58:18.1029623+00:00",
+  "LastUpdate_Achievements": "2023-12-21T15:10:53.3839468+00:00"
 }

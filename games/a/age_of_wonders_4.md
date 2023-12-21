@@ -6,34 +6,34 @@ Rating: 4.62 (Ranked 373)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 7.00% | ~415 |
-| Realm Estate | 6.00% | ~355 |
-| A Wonderful Discovery | 6.00% | ~355 |
-| Walls Cannot Stop Us | 6.00% | ~355 |
+| Realm Estate | 6.00% | ~356 |
+| A Wonderful Discovery | 6.00% | ~356 |
+| Walls Cannot Stop Us | 6.00% | ~356 |
 | Bone Peddler | 5.00% | ~296 |
 | From Friends to Family | 5.00% | ~296 |
 | But this one is mine | 5.00% | ~296 |
+| There Can Only Be One! | 4.00% | ~237 |
 | Full Ascension | 4.00% | ~237 |
 | Magical Synergy | 4.00% | ~237 |
 | Seat of Power | 4.00% | ~237 |
 | Valley of Wonders | 3.00% | ~178 |
-| There Can Only Be One! | 3.00% | ~178 |
 | Stronger Together | 3.00% | ~178 |
 | In a Liege of Your Own | 3.00% | ~178 |
 | Intimidation Tactics | 3.00% | ~178 |
-| Return of the Wizard King | 2.00% | ~118 |
-| Enchanted Archipelago | 2.00% | ~118 |
-| Digging for Treasure | 2.00% | ~118 |
-| Preparation Is Everything | 2.00% | ~118 |
-| My Final Form | 2.00% | ~118 |
-| Fiery Friend | 2.00% | ~118 |
-| Impenetrable Fortress | 2.00% | ~118 |
-| Here be Dragons | 2.00% | ~118 |
-| Tipping the Scales | 2.00% | ~118 |
-| Mighty Hoard | 2.00% | ~118 |
-| Freed Lands of Manuhari | 2.00% | ~118 |
-| Sehiran Oasis | 2.00% | ~118 |
-| Chaos Surge | 2.00% | ~118 |
-| Spoils of War | 2.00% | ~118 |
+| Return of the Wizard King | 2.00% | ~119 |
+| Enchanted Archipelago | 2.00% | ~119 |
+| Digging for Treasure | 2.00% | ~119 |
+| Preparation Is Everything | 2.00% | ~119 |
+| My Final Form | 2.00% | ~119 |
+| Fiery Friend | 2.00% | ~119 |
+| Impenetrable Fortress | 2.00% | ~119 |
+| Here be Dragons | 2.00% | ~119 |
+| Tipping the Scales | 2.00% | ~119 |
+| Mighty Hoard | 2.00% | ~119 |
+| Freed Lands of Manuhari | 2.00% | ~119 |
+| Sehiran Oasis | 2.00% | ~119 |
+| Chaos Surge | 2.00% | ~119 |
+| Spoils of War | 2.00% | ~119 |
 | Arch Mage | 1.00% | ~59 |
 | The Creator | 1.00% | ~59 |
 | Eternal Lord | 1.00% | ~59 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 373)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,922 (Ranked 192)  
+Progressed: 5,926 (Ranked 192)  
 Completed: 7 (0.12%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 7 (0.12%) (Ranked 295)
 | 2023-12-18 | 5,842 | 7 |
 | 2023-12-19 | 5,881 | 7 |
 | 2023-12-20 | 5,911 | 7 |
-| 2023-12-21 | 5,922 | 7 |
+| 2023-12-21 | 5,926 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 481)  
 Sum: 113 (Ranked 450)  

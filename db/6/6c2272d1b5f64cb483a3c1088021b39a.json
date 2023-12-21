@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1279,
+  "EOS_Progressed": 1280,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4544,6 +4544,11 @@
       "Time": "2023-12-21T06:10:04.5776969+00:00",
       "NumProgressed": 1279,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T15:10:58.4911571+00:00",
+      "NumProgressed": 1280,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4675,7 +4680,7 @@
       "Name": "Conqueror 1",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "conqueror_2",
@@ -4849,9 +4854,9 @@
       "ID": "invincible_2",
       "SetID": "53c1p3k",
       "Name": "Invincible 2",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "invincible_3",
@@ -4977,9 +4982,9 @@
       "ID": "sophisticated_alchemist_3",
       "SetID": "53c1p3k",
       "Name": "Sophisticated Alchemist 3",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "soul_shards_1",
@@ -5082,14 +5087,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1279,
+      "Progressed": 1280,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-12-21T14:09:55.8394935+00:00",
+  "LastChanged_Achievements": "2023-12-21T15:10:58.4911565+00:00",
   "LastUpdate_AppInfo": "2023-12-19T17:57:04.237449+00:00",
-  "LastUpdate_Ratings": "2023-12-21T13:58:19.8428701+00:00",
-  "LastUpdate_Achievements": "2023-12-21T14:09:55.8395486+00:00"
+  "LastUpdate_Ratings": "2023-12-21T14:58:45.6758107+00:00",
+  "LastUpdate_Achievements": "2023-12-21T15:10:58.4912262+00:00"
 }

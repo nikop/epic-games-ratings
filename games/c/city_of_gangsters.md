@@ -5,21 +5,21 @@ Rating: 4.28 (Ranked 870)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~164,515 |
-| Copacetic Coordination | 16.00% | ~57,223 |
-| Fronting the Money | 15.00% | ~53,646 |
-| The Dawn of Automation | 14.00% | ~50,070 |
-| Extraordinary Logistics | 14.00% | ~50,070 |
-| Dirty Money | 13.00% | ~46,493 |
-| Family First | 13.00% | ~46,493 |
-| Cleaning House | 12.00% | ~42,917 |
-| Room in the Back | 12.00% | ~42,917 |
+| Corner Clout | 46.00% | ~164,518 |
+| Copacetic Coordination | 16.00% | ~57,224 |
+| Fronting the Money | 15.00% | ~53,647 |
+| The Dawn of Automation | 14.00% | ~50,071 |
+| Extraordinary Logistics | 14.00% | ~50,071 |
+| Dirty Money | 13.00% | ~46,494 |
+| Family First | 13.00% | ~46,494 |
+| Cleaning House | 12.00% | ~42,918 |
+| Room in the Back | 12.00% | ~42,918 |
 | Beating the Heat | 11.00% | ~39,341 |
 | Booze Baron | 11.00% | ~39,341 |
-| Friends on the Force | 10.00% | ~35,764 |
-| Neighborhood Watch | 10.00% | ~35,764 |
-| Core Corps | 8.00% | ~28,611 |
-| Sizeable Stash | 8.00% | ~28,611 |
+| Friends on the Force | 10.00% | ~35,765 |
+| Neighborhood Watch | 10.00% | ~35,765 |
+| Core Corps | 8.00% | ~28,612 |
+| Sizeable Stash | 8.00% | ~28,612 |
 | Street Fighter | 7.00% | ~25,035 |
 | Friendly Gestures | 7.00% | ~25,035 |
 | People Person | 7.00% | ~25,035 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 870)
 | High Pillow | 0.10% | ~358 |
 | Station Master | 0.10% | ~358 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 357,642 (Ranked 49)  
+Progressed: 357,648 (Ranked 49)  
 Completed: 7 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,15 +331,15 @@ Completed: 7 (0.00%) (Ranked 384)
 | 2023-12-18 | 357,291 | 7 |
 | 2023-12-19 | 357,404 | 7 |
 | 2023-12-20 | 357,556 | 7 |
-| 2023-12-21 | 357,642 | 7 |
+| 2023-12-21 | 357,648 | 7 |
 ## Awards
 Max (Great for Beginners): 55  (Ranked 431)  
-Sum: 257 (Ranked 389)  
+Sum: 258 (Ranked 389)  
 Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 55 |
-| This game is Highly Recommended | 38 |
+| This game is Highly Recommended | 39 |
 | This game is Relaxing | 34 |
 | This game is Extremely Fun | 32 |
 | This game has Diverse Characters | 30 |
@@ -469,3 +469,4 @@ Diff (max vs sum): 42
 | 2023-12-15 | 4.29 | 52 | 252 |
 | 2023-12-17 | 4.29 | 55 | 255 |
 | 2023-12-19 | 4.29 | 55 | 257 |
+| 2023-12-21 | 4.28 | 55 | 258 |

@@ -2,7 +2,7 @@
   "ID": "75d74aeb36024d95b8a30bad40dc19c3",
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
-  "Ranking_Rating": 933,
+  "Ranking_Rating": 934,
   "Ranking_Popularity": 466,
   "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 188,
@@ -1003,7 +1003,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 7312,
+  "EOS_Progressed": 7317,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 453,
   "EOS_NewCompleters": 0,
@@ -11803,6 +11803,11 @@
       "Time": "2023-12-21T14:03:45.333157+00:00",
       "NumProgressed": 7312,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T15:04:21.7904891+00:00",
+      "NumProgressed": 7317,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -11814,7 +11819,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 804
+      "UsersEstimate": 805
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -11830,7 +11835,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -11846,15 +11851,15 @@
       "Name": "Fish Out of Water",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ACHIEVEMENT_006",
       "SetID": "1a05lfd",
       "Name": "I\u0027m on a Boat!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 512
+      "UsersEstimate": 585
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -11862,7 +11867,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -11878,7 +11883,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -11918,7 +11923,7 @@
       "Name": "Goldfish?",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -11926,7 +11931,7 @@
       "Name": "Going for Gold",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -11982,7 +11987,7 @@
       "Name": "Diamond in the Rough",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACHIEVEMENT_023",
@@ -12133,13 +12138,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7312,
+      "Progressed": 7317,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 6684,
+      "Progressed": 6689,
       "Completed": 113
     }
   ],
@@ -12147,8 +12152,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-21T00:02:47.1837703+00:00",
-  "LastChanged_Achievements": "2023-12-21T14:03:45.3331567+00:00",
+  "LastChanged_Achievements": "2023-12-21T15:04:21.7904887+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:41.8809727+00:00",
-  "LastUpdate_Ratings": "2023-12-21T13:56:59.7336991+00:00",
-  "LastUpdate_Achievements": "2023-12-21T14:03:45.3332195+00:00"
+  "LastUpdate_Ratings": "2023-12-21T14:56:59.809149+00:00",
+  "LastUpdate_Achievements": "2023-12-21T15:04:21.7905767+00:00"
 }

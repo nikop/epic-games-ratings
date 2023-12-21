@@ -1,21 +1,21 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.20 (Ranked 933)  
+Rating: 4.20 (Ranked 934)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 14.00% | ~2,573 |
-| Get a Grip | 14.00% | ~2,573 |
-| The Outer Way | 14.00% | ~2,573 |
-| Paper Jams | 13.00% | ~2,389 |
-| Desperate Times | 13.00% | ~2,389 |
-| Chew 'Em Up | 11.00% | ~2,022 |
-| Float Like A Butterfly | 11.00% | ~2,022 |
-| Reforged | 10.00% | ~1,838 |
-| Workplace Hazard | 9.00% | ~1,654 |
-| If the SHU Fits... | 9.00% | ~1,654 |
-| Without A Paddle | 8.00% | ~1,470 |
+| Flesh Wound | 15.00% | ~2,758 |
+| Get a Grip | 14.00% | ~2,575 |
+| The Outer Way | 14.00% | ~2,575 |
+| Paper Jams | 13.00% | ~2,391 |
+| Desperate Times | 13.00% | ~2,391 |
+| Chew 'Em Up | 11.00% | ~2,023 |
+| Float Like A Butterfly | 11.00% | ~2,023 |
+| Reforged | 10.00% | ~1,839 |
+| Workplace Hazard | 9.00% | ~1,655 |
+| If the SHU Fits... | 9.00% | ~1,655 |
+| Without A Paddle | 8.00% | ~1,471 |
 | Two Heads Are Better Than One | 7.00% | ~1,287 |
 | In the Pipe, Five by Five | 7.00% | ~1,287 |
 | Crash Site | 7.00% | ~1,287 |
@@ -24,21 +24,21 @@ Rating: 4.20 (Ranked 933)
 | What Lies Beneath | 6.00% | ~1,103 |
 | Full Circle | 6.00% | ~1,103 |
 | Power Up | 6.00% | ~1,103 |
-| Keep Fighting | 6.00% | ~378 |
-| Giving Back | 5.00% | ~919 |
-| I Do Belong Here | 5.00% | ~919 |
-| It's Time | 4.00% | ~252 |
-| In Striking Distance | 3.00% | ~551 |
-| The Commonality | 3.00% | ~551 |
+| Keep Fighting | 6.00% | ~379 |
+| Giving Back | 5.00% | ~920 |
+| I Do Belong Here | 5.00% | ~920 |
+| It's Time | 4.00% | ~253 |
+| In Striking Distance | 3.00% | ~552 |
+| The Commonality | 3.00% | ~552 |
 | One Last Job | 2.00% | ~126 |
 | Big Spender | 1.00% | ~63 |
 | This Isn't About Escape | 1.00% | ~63 |
 | Armed to the Teeth | 0.90% | ~57 |
-| Mugshot | 0.90% | ~165 |
+| Mugshot | 0.90% | ~166 |
 | Grim Reaper | 0.80% | ~147 |
-| Parole Denied | 0.80% | ~50 |
-| Instigator | 0.80% | ~50 |
-| Information Overload | 0.80% | ~50 |
+| Parole Denied | 0.80% | ~51 |
+| Instigator | 0.80% | ~51 |
+| Information Overload | 0.80% | ~51 |
 | Quick Pick | 0.60% | ~38 |
 | Subject Alpha | 0.40% | ~25 |
 | Don't Let It Mellow | 0.30% | ~19 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 933)
 | Bear Trap | 0.10% | ~6 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,380 (Ranked 149)  
+Progressed: 18,390 (Ranked 149)  
 Completed: 82 (0.45%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 82 (0.45%) (Ranked 224)
 | 2023-12-18 | 17,946 | 82 |
 | 2023-12-19 | 18,137 | 82 |
 | 2023-12-20 | 18,301 | 82 |
-| 2023-12-21 | 18,380 | 82 |
+| 2023-12-21 | 18,390 | 82 |
 ## Awards
 Max (Amazing Characters): 91  (Ranked 386)  
 Sum: 539 (Ranked 326)  

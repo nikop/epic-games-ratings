@@ -23,6 +23,7 @@ Number of Ratings: 46  (23.09.2022)
 | Jawcrab | 0.30% | ~491 |
 | Jawstag | 0.30% | ~491 |
 | Watcher | 0.30% | ~491 |
+| Predator | 0.30% | ~491 |
 | Assimilation | 0.20% | ~327 |
 | Hunt Down | 0.20% | ~327 |
 | Artisan | 0.20% | ~327 |
@@ -30,7 +31,6 @@ Number of Ratings: 46  (23.09.2022)
 | Celebration | 0.20% | ~327 |
 | Inevitable | 0.20% | ~327 |
 | All-Seeing | 0.20% | ~327 |
-| Predator | 0.20% | ~327 |
 | Breathsmith | 0.20% | ~327 |
 | Dream | 0.20% | ~326 |
 | Spiral Heart | 0.10% | ~161 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~163 |
 | Intensify | 0.10% | ~163 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 163,635 (Ranked 80)  
+Progressed: 163,647 (Ranked 80)  
 Completed: 370 (0.23%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 370 (0.23%) (Ranked 262)
 | 2023-12-18 | 163,241 | 348 |
 | 2023-12-19 | 163,376 | 355 |
 | 2023-12-20 | 163,552 | 366 |
-| 2023-12-21 | 163,635 | 370 |
+| 2023-12-21 | 163,647 | 370 |
 ## Awards
 Max (Unique Visuals): 58  (Ranked 424)  
 Sum: 413 (Ranked 344)  

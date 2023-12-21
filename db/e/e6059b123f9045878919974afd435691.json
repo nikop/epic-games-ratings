@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1163,
+  "EOS_Progressed": 1165,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3059,6 +3059,11 @@
       "Time": "2023-12-21T13:14:02.7059848+00:00",
       "NumProgressed": 1163,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T15:11:00.713184+00:00",
+      "NumProgressed": 1165,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3070,7 +3075,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 802
+      "UsersEstimate": 804
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -3086,7 +3091,7 @@
       "Name": "FULLCLIP",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
@@ -3108,9 +3113,9 @@
       "ID": "ATK_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Beware of the Goat",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 500
+      "UsersEstimate": 489
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -3142,7 +3147,7 @@
       "Name": "Capraphobia",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -3270,7 +3275,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -3318,7 +3323,7 @@
       "Name": "I\u0027ll Save You!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "FREE_ACHIEVEMENT_2",
@@ -3350,7 +3355,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -3358,7 +3363,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -3366,7 +3371,7 @@
       "Name": "Decakill!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -3382,7 +3387,7 @@
       "Name": "Do This In Silence",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_1",
@@ -3390,7 +3395,7 @@
       "Name": "And There We Go",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -3430,7 +3435,7 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -3446,7 +3451,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -3462,7 +3467,7 @@
       "Name": "Night Snack",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -3478,7 +3483,7 @@
       "Name": "Ancestral Banquet",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "NOTEM_ACHIEVEMENT_1",
@@ -3486,7 +3491,7 @@
       "Name": "Reading and More Reading",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "NOTE_ACHIEVEMENT_1",
@@ -3502,7 +3507,7 @@
       "Name": "The Last of Us",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -3597,14 +3602,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1163,
+      "Progressed": 1165,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-12-21T14:09:57.7847414+00:00",
+  "LastChanged_Achievements": "2023-12-21T15:11:00.7131838+00:00",
   "LastUpdate_AppInfo": "2023-12-15T02:21:08.9329051+00:00",
-  "LastUpdate_Ratings": "2023-12-21T13:57:06.2792476+00:00",
-  "LastUpdate_Achievements": "2023-12-21T14:09:57.7848063+00:00"
+  "LastUpdate_Ratings": "2023-12-21T14:57:08.3934976+00:00",
+  "LastUpdate_Achievements": "2023-12-21T15:11:00.7132428+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "Road Defense: Outsiders",
   "ProductSlug": "road-defense-outsiders-22e4ba",
   "Ranking_EOS_Progress": 398,
-  "Ranking_EOS_Completed": 86,
+  "Ranking_EOS_Completed": 87,
   "Ranking_EOS_NewPlayers": 363,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 211,
+  "EOS_Progressed": 212,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.27,
+  "EOS_Completed_Percentage": 4.25,
   "EosHistory": [
     {
       "Time": "2023-09-18T15:04:59.5567381+00:00",
@@ -949,6 +949,11 @@
       "Time": "2023-12-20T09:03:40.3967329+00:00",
       "NumProgressed": 211,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-21T15:04:50.6602524+00:00",
+      "NumProgressed": 212,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-09-18T15:04:59.5567411+00:00",
@@ -969,7 +974,7 @@
       "Name": "Laser Beam",
       "Percentage": 59,
       "XP": 60,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "DEFEATED_10000_ENEMIES",
@@ -985,7 +990,7 @@
       "Name": "Assassin",
       "Percentage": 58,
       "XP": 60,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "DEFEATED_100_ENEMIES",
@@ -993,7 +998,7 @@
       "Name": "Murderer",
       "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "DEFEATED_10_ENEMIES",
@@ -1001,7 +1006,7 @@
       "Name": "Killer",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "DEFEATED_20000_ENEMIES",
@@ -1017,15 +1022,15 @@
       "Name": "Peaceful is safe!",
       "Percentage": 64,
       "XP": 60,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "14g34pl",
       "Name": "Badlands is safe!",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 60,
-      "UsersEstimate": 74
+      "UsersEstimate": 72
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -1033,7 +1038,7 @@
       "Name": "Fairfort is safe!",
       "Percentage": 21,
       "XP": 60,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -1055,9 +1060,9 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "14g34pl",
       "Name": "Forest is safe!",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 60,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -1073,7 +1078,7 @@
       "Name": "Powerful",
       "Percentage": 46,
       "XP": 60,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "REACH_LEVEL_15",
@@ -1081,7 +1086,7 @@
       "Name": "Robust",
       "Percentage": 30,
       "XP": 110,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "REACH_LEVEL_5",
@@ -1089,21 +1094,21 @@
       "Name": "Strong",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     }
   ],
   "AchievementSets": [
     {
       "ID": "14g34pl",
       "IsBase": true,
-      "Progressed": 211,
+      "Progressed": 212,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-12-21T14:04:07.5596354+00:00",
+  "LastChanged_Achievements": "2023-12-21T15:04:50.660252+00:00",
   "LastUpdate_AppInfo": "2023-12-19T22:56:53.2873593+00:00",
-  "LastUpdate_Ratings": "2023-12-21T13:59:17.952969+00:00",
-  "LastUpdate_Achievements": "2023-12-21T14:04:07.5596489+00:00"
+  "LastUpdate_Ratings": "2023-12-21T15:00:01.4296634+00:00",
+  "LastUpdate_Achievements": "2023-12-21T15:04:50.6602674+00:00"
 }

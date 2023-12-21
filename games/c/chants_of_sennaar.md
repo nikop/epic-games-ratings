@@ -5,34 +5,34 @@ Rating: 4.85 (Ranked 42)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 49.00% | ~733 |
-| Welcome to the Tower | 44.00% | ~658 |
-| The great escape | 36.00% | ~538 |
-| The Preacher's fate | 35.00% | ~523 |
-| A new dawn | 29.00% | ~434 |
-| Scholar | 25.00% | ~374 |
-| True G3M4R | 24.00% | ~359 |
-| The darkness | 24.00% | ~359 |
-| A good beginning | 23.00% | ~344 |
-| Half the way | 21.00% | ~314 |
-| One last step | 21.00% | ~314 |
-| I did it | 20.00% | ~299 |
-| Cable guy | 20.00% | ~299 |
-| In this together | 19.00% | ~284 |
-| Peace walker | 19.00% | ~284 |
-| Rascal | 19.00% | ~284 |
-| Champollion | 19.00% | ~284 |
-| Open door | 17.00% | ~254 |
-| Feels like springtime | 16.00% | ~239 |
-| Alchemists Express | 16.00% | ~239 |
-| Free at last | 14.00% | ~209 |
-| A Link to the Past | 13.00% | ~194 |
-| A great audience | 11.00% | ~164 |
-| For its own good | 11.00% | ~164 |
+| That's the spirit | 49.00% | ~735 |
+| Welcome to the Tower | 44.00% | ~660 |
+| The great escape | 37.00% | ~555 |
+| The Preacher's fate | 35.00% | ~525 |
+| A new dawn | 29.00% | ~435 |
+| Scholar | 25.00% | ~375 |
+| True G3M4R | 24.00% | ~360 |
+| The darkness | 24.00% | ~360 |
+| A good beginning | 23.00% | ~345 |
+| Half the way | 21.00% | ~315 |
+| One last step | 21.00% | ~315 |
+| I did it | 20.00% | ~300 |
+| Cable guy | 20.00% | ~300 |
+| In this together | 19.00% | ~285 |
+| Peace walker | 19.00% | ~285 |
+| Rascal | 19.00% | ~285 |
+| Champollion | 19.00% | ~285 |
+| Open door | 17.00% | ~255 |
+| Feels like springtime | 16.00% | ~240 |
+| Alchemists Express | 16.00% | ~240 |
+| Free at last | 14.00% | ~210 |
+| A Link to the Past | 13.00% | ~195 |
+| A great audience | 11.00% | ~165 |
+| For its own good | 11.00% | ~165 |
 | Fashion victim | 6.00% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,495 (Ranked 251)  
-Completed: 79 (5.28%) (Ranked 75)  
+Progressed: 1,499 (Ranked 251)  
+Completed: 80 (5.34%) (Ranked 75)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -183,7 +183,7 @@ Completed: 79 (5.28%) (Ranked 75)
 | 2023-12-18 | 1,357 | 72 |
 | 2023-12-19 | 1,407 | 75 |
 | 2023-12-20 | 1,463 | 78 |
-| 2023-12-21 | 1,495 | 79 |
+| 2023-12-21 | 1,499 | 80 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

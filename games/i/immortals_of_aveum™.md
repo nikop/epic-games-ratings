@@ -5,28 +5,28 @@ Rating: 4.24 (Ranked 901)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~1,280 |
-| Battlefields Have Memories | 80.00% | ~1,177 |
-| Enlisted | 72.00% | ~1,059 |
-| Maybe Engage a Little | 66.00% | ~971 |
-| No More Names | 47.00% | ~691 |
-| Initiate | 33.00% | ~485 |
-| Thrada-Kul | 29.00% | ~427 |
-| Socialite | 22.00% | ~324 |
-| Gravity-Challenged Rocks | 22.00% | ~324 |
-| Soldier | 19.00% | ~279 |
-| All the Major Food Groups | 18.00% | ~265 |
-| Beggars Would Ride | 16.00% | ~235 |
-| Control is an Illusion | 14.00% | ~206 |
+| Unforeseen | 87.00% | ~1,285 |
+| Battlefields Have Memories | 80.00% | ~1,182 |
+| Enlisted | 72.00% | ~1,063 |
+| Maybe Engage a Little | 66.00% | ~975 |
+| No More Names | 47.00% | ~694 |
+| Initiate | 33.00% | ~487 |
+| Thrada-Kul | 29.00% | ~428 |
+| Socialite | 22.00% | ~325 |
+| Gravity-Challenged Rocks | 22.00% | ~325 |
+| Soldier | 19.00% | ~281 |
+| All the Major Food Groups | 18.00% | ~266 |
+| Beggars Would Ride | 16.00% | ~236 |
+| Control is an Illusion | 14.00% | ~207 |
 | The Means to Save It | 12.00% | ~177 |
-| Resilience to Sin | 10.00% | ~147 |
-| A Familiar Nest | 10.00% | ~147 |
-| Periapt Alizarin | 10.00% | ~147 |
-| Geas Aristeya | 9.00% | ~132 |
+| Resilience to Sin | 10.00% | ~148 |
+| A Familiar Nest | 10.00% | ~148 |
+| Periapt Alizarin | 10.00% | ~148 |
+| Geas Aristeya | 9.00% | ~133 |
 | A Perfect Cycle | 8.00% | ~118 |
 | Recruit | 8.00% | ~118 |
 | Armsman | 8.00% | ~118 |
-| Lights Army | 6.00% | ~88 |
+| Lights Army | 6.00% | ~89 |
 | Periapt Cerulean | 5.00% | ~74 |
 | Good Boy | 5.00% | ~74 |
 | Best Dressed | 4.00% | ~59 |
@@ -35,8 +35,8 @@ Rating: 4.24 (Ranked 901)
 | Kitted Out | 3.00% | ~44 |
 | Armaments Azure | 3.00% | ~44 |
 | Armaments Gules | 3.00% | ~44 |
-| Scholar | 2.00% | ~29 |
-| Armaments Vert | 2.00% | ~29 |
+| Scholar | 2.00% | ~30 |
+| Armaments Vert | 2.00% | ~30 |
 | Veteran | 1.00% | ~15 |
 | Master of Carmine | 1.00% | ~15 |
 | Master of Ultramarine | 0.70% | ~10 |
@@ -53,7 +53,7 @@ Rating: 4.24 (Ranked 901)
 | Family Business | 0.20% | ~3 |
 | Fowl Play | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,471 (Ranked 252)  
+Progressed: 1,477 (Ranked 252)  
 Completed: 2 (0.14%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 2 (0.14%) (Ranked 289)
 | 2023-12-18 | 1,195 | 2 |
 | 2023-12-19 | 1,301 | 2 |
 | 2023-12-20 | 1,423 | 2 |
-| 2023-12-21 | 1,471 | 2 |
+| 2023-12-21 | 1,477 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

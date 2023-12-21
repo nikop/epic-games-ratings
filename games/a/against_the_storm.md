@@ -14,12 +14,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | Frosts | 4.00% | ~753 |
 | Ominous Presence | 4.00% | ~753 |
 | Gathering Storm | 4.00% | ~753 |
-| First Real Expedition | 3.00% | ~564 |
-| Overcoming Difficulty | 3.00% | ~564 |
-| Coral Forest | 3.00% | ~564 |
-| The Marshlands | 3.00% | ~564 |
-| The Scarlet Orchard | 3.00% | ~564 |
-| Land of Greed | 3.00% | ~564 |
+| First Real Expedition | 3.00% | ~565 |
+| Overcoming Difficulty | 3.00% | ~565 |
+| Coral Forest | 3.00% | ~565 |
+| The Marshlands | 3.00% | ~565 |
+| The Scarlet Orchard | 3.00% | ~565 |
+| Land of Greed | 3.00% | ~565 |
 | Homesick | 2.00% | ~376 |
 | Fertile Meadows | 2.00% | ~376 |
 | Monastery of the Holy Flame | 2.00% | ~376 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,816 (Ranked 148)  
+Progressed: 18,820 (Ranked 148)  
 Completed: 39 (0.21%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 39 (0.21%) (Ranked 268)
 | 2023-12-18 | 18,615 | 39 |
 | 2023-12-19 | 18,687 | 39 |
 | 2023-12-20 | 18,771 | 39 |
-| 2023-12-21 | 18,816 | 39 |
+| 2023-12-21 | 18,820 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 228)  
 Sum: 3,275 (Ranked 175)  

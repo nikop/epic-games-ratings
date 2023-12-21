@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -295,7 +295,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16988,
+  "EOS_Progressed": 16992,
   "EOS_Completed": 46,
   "EOS_NewPlayers": 809,
   "EOS_NewCompleters": 3,
@@ -14635,6 +14635,11 @@
       "Time": "2023-12-21T14:05:27.1095754+00:00",
       "NumProgressed": 16988,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-12-21T15:06:31.8948213+00:00",
+      "NumProgressed": 16992,
+      "NumCompleted": 46
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14671,7 +14676,7 @@
       "Name": "Data Archivist",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "13",
@@ -14679,7 +14684,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2378
+      "UsersEstimate": 2379
     },
     {
       "ID": "14",
@@ -14703,7 +14708,7 @@
       "Name": "Drug Gifter",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1020
     },
     {
       "ID": "17",
@@ -14743,7 +14748,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "21",
@@ -14767,7 +14772,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1020
     },
     {
       "ID": "24",
@@ -14783,7 +14788,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "26",
@@ -14903,7 +14908,7 @@
       "Name": "Zen Master",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "34",
@@ -14926,13 +14931,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16988,
+      "Progressed": 16992,
       "Completed": 46
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2942,
+      "Progressed": 2946,
       "Completed": 976
     }
   ],
@@ -14940,8 +14945,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-21T04:02:39.716899+00:00",
-  "LastChanged_Achievements": "2023-12-21T14:05:27.109575+00:00",
+  "LastChanged_Achievements": "2023-12-21T15:06:31.8948209+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:40.0929133+00:00",
-  "LastUpdate_Ratings": "2023-12-21T14:02:36.3527767+00:00",
-  "LastUpdate_Achievements": "2023-12-21T14:05:27.1096585+00:00"
+  "LastUpdate_Ratings": "2023-12-21T15:02:49.6792238+00:00",
+  "LastUpdate_Achievements": "2023-12-21T15:06:31.8949224+00:00"
 }

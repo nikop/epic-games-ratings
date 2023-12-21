@@ -6,7 +6,7 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 0.40% | ~1,921 |
+| Until death do us apart | 0.40% | ~1,922 |
 | That's a Grand Army | 0.30% | ~1,441 |
 | That is mine! | 0.30% | ~1,441 |
 | Victorious! | 0.30% | ~1,441 |
@@ -246,6 +246,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Switzerlake | 0.10% | ~480 |
 | Take that, von Habsburgs! | 0.10% | ~480 |
 | Tear Down This Wall | 0.10% | ~480 |
+| Terra Mariana | 0.10% | ~480 |
 | That's a Silk Road | 0.10% | ~480 |
 | That's No Mon | 0.10% | ~480 |
 | The Bohemians | 0.10% | ~480 |
@@ -353,7 +354,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Stern des Südens | 0.00% | ~0 |
 | Sworn Fealty | 0.00% | ~0 |
 | Tatarstan | 0.00% | ~0 |
-| Terra Mariana | 0.00% | ~0 |
 | The Burgundian Conquest | 0.00% | ~0 |
 | The Freest Man in the World | 0.00% | ~0 |
 | The Third Way | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 480,360 (Ranked 40)  
+Progressed: 480,403 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -615,10 +615,10 @@ Completed: 1 (0.00%) (Ranked 384)
 | 2023-12-18 | 478,822 | 1 |
 | 2023-12-19 | 479,445 | 1 |
 | 2023-12-20 | 480,075 | 1 |
-| 2023-12-21 | 480,360 | 1 |
+| 2023-12-21 | 480,403 | 1 |
 ## Awards
 Max (Educational): 7,483  (Ranked 54)  
-Sum: 61,622 (Ranked 24)  
+Sum: 61,651 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -628,9 +628,9 @@ Diff (max vs sum): 30
 | This game has Challenging Combat | 7,118 |
 | This game is Extremely Fun | 7,014 |
 | This game is Relaxing | 6,863 |
-| This game has Competitive Players | 6,690 |
+| This game has Competitive Players | 6,702 |
 | This game has Amazing Storytelling | 6,237 |
-| This game has Amazing Characters | 5,766 |
+| This game has Amazing Characters | 5,783 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -973,4 +973,4 @@ Diff (max vs sum): 30
 | 2023-12-18 | 4.69 | - | 7,441 | 61,382 |
 | 2023-12-19 | 4.69 | - | 7,449 | 61,450 |
 | 2023-12-20 | 4.69 | - | 7,472 | 61,559 |
-| 2023-12-21 | 4.69 | - | 7,483 | 61,622 |
+| 2023-12-21 | 4.69 | - | 7,483 | 61,651 |

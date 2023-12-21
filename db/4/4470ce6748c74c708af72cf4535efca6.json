@@ -4,7 +4,7 @@
   "ProductSlug": "warstone-td-8fe138",
   "Ranking_EOS_Progress": 509,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 560,
+  "Ranking_EOS_NewPlayers": 561,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -362,17 +362,17 @@
       "ID": "15",
       "SetID": "5e3maia",
       "Name": "Bibliophile",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "16",
       "SetID": "5e3maia",
       "Name": "Matchmaker",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "17",
@@ -865,8 +865,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-12-21T14:04:44.3239282+00:00",
+  "LastChanged_Achievements": "2023-12-21T15:05:37.501913+00:00",
   "LastUpdate_AppInfo": "2023-12-16T05:57:10.1909599+00:00",
-  "LastUpdate_Ratings": "2023-12-21T14:00:33.0158047+00:00",
-  "LastUpdate_Achievements": "2023-12-21T14:04:44.3239742+00:00"
+  "LastUpdate_Ratings": "2023-12-21T15:01:40.7871785+00:00",
+  "LastUpdate_Achievements": "2023-12-21T15:05:37.5019782+00:00"
 }

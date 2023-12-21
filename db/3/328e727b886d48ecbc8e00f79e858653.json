@@ -4,7 +4,7 @@
   "ProductSlug": "exovoid-4c900f",
   "Ranking_EOS_Progress": 813,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 560,
+  "Ranking_EOS_NewPlayers": 561,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-14T18:57:22.175054+00:00",
-  "LastUpdate_Ratings": "2023-12-21T13:57:08.4623618+00:00",
-  "LastUpdate_Achievements": "2023-12-21T14:06:26.837485+00:00"
+  "LastUpdate_Ratings": "2023-12-21T14:57:11.2420859+00:00",
+  "LastUpdate_Achievements": "2023-12-21T15:07:48.1295063+00:00"
 }

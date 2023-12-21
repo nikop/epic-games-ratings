@@ -2,7 +2,7 @@
   "ID": "6ff9efdef6dc45ecb40ed20fcd2c4621",
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
-  "Ranking_Rating": 258,
+  "Ranking_Rating": 259,
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 86,
@@ -9898,10 +9898,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20865,
       "NumberOfAwardsMax": 7805
+    },
+    {
+      "Time": "2023-12-21T15:01:17.14593+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20875,
+      "NumberOfAwardsMax": 7805
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20865,
+  "NumberOfAwards": 20875,
   "NumberOfAwardsMax": 7805,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9921,7 +9927,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1552
+      "Count": 1557
     },
     {
       "Text": "This game is Extremely Fun",
@@ -9963,7 +9969,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 1396
+      "Count": 1401
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -9978,9 +9984,9 @@
       "Count": 1033
     }
   ],
-  "EOS_Progressed": 128886,
+  "EOS_Progressed": 128896,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1944,
+  "EOS_NewPlayers": 1929,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36108,6 +36114,11 @@
       "Time": "2023-12-21T14:09:05.6683303+00:00",
       "NumProgressed": 128886,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-21T15:09:54.6866315+00:00",
+      "NumProgressed": 128896,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36173,9 +36184,9 @@
       "ID": "altar_of_hope_unlock_hero_leper",
       "SetID": "64l4lke",
       "Name": "Long Live the King",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1289
+      "UsersEstimate": 2578
     },
     {
       "ID": "altar_of_hope_unlock_hero_occultist",
@@ -36247,7 +36258,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5155
+      "UsersEstimate": 5156
     },
     {
       "ID": "combat_kill_cadavers",
@@ -36413,9 +36424,9 @@
       "ID": "driving_biome_clear_city",
       "SetID": "64l4lke",
       "Name": "Rush Hour",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2578
+      "UsersEstimate": 3867
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -36471,7 +36482,7 @@
       "Name": "Autodidact",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5155
+      "UsersEstimate": 5156
     },
     {
       "ID": "hero_story_complete_all",
@@ -36655,7 +36666,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "combat_kill_collector",
@@ -36663,7 +36674,7 @@
       "Name": "This guy... again?",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -36711,15 +36722,15 @@
       "Name": "Bloody Graduation",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "quest_complete_crusader",
       "SetID": "d3bcpc8",
       "Name": "Lost and Found",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 226
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -36750,21 +36761,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 128886,
+      "Progressed": 128896,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 3755,
+      "Progressed": 3765,
       "Completed": 804
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-21T05:59:42.2275876+00:00",
-  "LastChanged_Achievements": "2023-12-21T14:09:05.66833+00:00",
+  "LastChanged": "2023-12-21T15:01:17.1459299+00:00",
+  "LastChanged_Achievements": "2023-12-21T15:09:54.6866311+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-21T14:00:15.6422013+00:00",
-  "LastUpdate_Achievements": "2023-12-21T14:09:05.6684946+00:00"
+  "LastUpdate_Ratings": "2023-12-21T15:01:17.1459304+00:00",
+  "LastUpdate_Achievements": "2023-12-21T15:09:54.6868022+00:00"
 }

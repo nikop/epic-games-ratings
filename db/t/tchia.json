@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -257,9 +257,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8158,
+  "EOS_Progressed": 8161,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -9577,6 +9577,11 @@
       "Time": "2023-12-21T14:06:06.0118459+00:00",
       "NumProgressed": 8158,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-21T15:07:21.7137602+00:00",
+      "NumProgressed": 8161,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -9612,7 +9617,7 @@
       "Name": "Body and Soul",
       "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -9660,7 +9665,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -9676,7 +9681,7 @@
       "Name": "Historian",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "ICONOCLAST",
@@ -9684,7 +9689,7 @@
       "Name": "Iconoclast",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "IN_A_PINCH",
@@ -9692,7 +9697,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1713
+      "UsersEstimate": 1714
     },
     {
       "ID": "LIBERATOR",
@@ -9740,7 +9745,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1143
     },
     {
       "ID": "THING",
@@ -9755,7 +9760,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 8158,
+      "Progressed": 8161,
       "Completed": 34
     }
   ],
@@ -9763,8 +9768,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-12-17T08:57:44.8415466+00:00",
-  "LastChanged_Achievements": "2023-12-21T14:06:06.0118456+00:00",
+  "LastChanged_Achievements": "2023-12-21T15:07:21.7137598+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:46.5620941+00:00",
-  "LastUpdate_Ratings": "2023-12-21T13:59:31.0662273+00:00",
-  "LastUpdate_Achievements": "2023-12-21T14:06:06.0118987+00:00"
+  "LastUpdate_Ratings": "2023-12-21T15:00:18.49309+00:00",
+  "LastUpdate_Achievements": "2023-12-21T15:07:21.7138275+00:00"
 }

@@ -6,9 +6,9 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 0.90% | ~2,183 |
+| A Brief Tour of the Realms | 0.90% | ~2,184 |
 | Welcome to Sigil | 0.70% | ~1,462 |
-| Fast Food | 0.50% | ~1,044 |
+| Fast Food | 0.60% | ~1,253 |
 | The Cursed Farmer | 0.40% | ~970 |
 | The Overgrown Grove | 0.40% | ~836 |
 | Mental Gymnastics | 0.40% | ~836 |
@@ -22,7 +22,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mind Spike | 0.30% | ~627 |
 | Were-verpowered | 0.20% | ~485 |
 | The Ring of Regeneration | 0.20% | ~485 |
+| Seeking Allies | 0.20% | ~485 |
 | Are Ya Chicken? | 0.20% | ~485 |
+| Friendly Imps | 0.20% | ~485 |
 | Arcane Suppression | 0.20% | ~418 |
 | Welcome to the Vrocks | 0.20% | ~418 |
 | Maddening | 0.10% | ~243 |
@@ -244,7 +246,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spirit of the Trickster Gods | 0.10% | ~209 |
 | Flies on the Wall | 0.10% | ~243 |
 | The Killer Mists | 0.10% | ~243 |
-| Seeking Allies | 0.10% | ~243 |
 | Class Vacation | 0.10% | ~243 |
 | A Nod from Strahd | 0.10% | ~209 |
 | Backtracking Through Barovia | 0.10% | ~243 |
@@ -420,7 +421,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Easily Distracted | 0.10% | ~243 |
 | Rude Welcome | 0.10% | ~243 |
 | Underdeep Cartography | 0.10% | ~243 |
-| Friendly Imps | 0.10% | ~243 |
 | Overdue Rendezvous | 0.10% | ~243 |
 | Moose Tracks | 0.10% | ~209 |
 | An Awakened Axe | 0.10% | ~209 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~209 |
 | The Brains of an Illithid's Desire | 0.10% | ~209 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,605 (Ranked 65)  
+Progressed: 242,624 (Ranked 65)  
 Completed: 2,552 (1.05%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -798,10 +798,10 @@ Completed: 2,552 (1.05%) (Ranked 170)
 | 2023-12-18 | 241,838 | 2,541 |
 | 2023-12-19 | 242,122 | 2,544 |
 | 2023-12-20 | 242,412 | 2,546 |
-| 2023-12-21 | 242,605 | 2,552 |
+| 2023-12-21 | 242,624 | 2,552 |
 ## Awards
 Max (Great for Beginners): 5,669  (Ranked 71)  
-Sum: 32,984 (Ranked 41)  
+Sum: 32,986 (Ranked 41)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -811,7 +811,7 @@ Diff (max vs sum): 30
 | This game is Relaxing | 4,736 |
 | This game has Amazing Characters | 4,271 |
 | This game is Highly Recommended | 4,259 |
-| This game has Playful Visuals | 3,581 |
+| This game has Playful Visuals | 3,583 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -1144,4 +1144,4 @@ Diff (max vs sum): 30
 | 2023-12-18 | 4.06 | - | 5,658 | 32,951 |
 | 2023-12-19 | 4.06 | - | 5,661 | 32,964 |
 | 2023-12-20 | 4.06 | - | 5,665 | 32,977 |
-| 2023-12-21 | 4.06 | - | 5,669 | 32,984 |
+| 2023-12-21 | 4.06 | - | 5,669 | 32,986 |

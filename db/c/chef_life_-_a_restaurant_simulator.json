@@ -4,7 +4,7 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 827,
+  "EOS_Progressed": 829,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3587,6 +3587,11 @@
       "Time": "2023-12-21T14:09:17.1280622+00:00",
       "NumProgressed": 827,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T15:10:09.4972959+00:00",
+      "NumProgressed": 829,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -3774,7 +3779,7 @@
       "Name": "The Big Day",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "Packing20",
@@ -3822,7 +3827,7 @@
       "Name": "S is for Scrumptious",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ServiceMaxClient",
@@ -3917,7 +3922,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 827,
+      "Progressed": 829,
       "Completed": 0
     }
   ],
@@ -3925,8 +3930,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-12-21T14:09:17.1280616+00:00",
+  "LastChanged_Achievements": "2023-12-21T15:10:09.4972954+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:31.9021331+00:00",
-  "LastUpdate_Ratings": "2023-12-21T13:59:08.8083091+00:00",
-  "LastUpdate_Achievements": "2023-12-21T14:09:17.1281034+00:00"
+  "LastUpdate_Ratings": "2023-12-21T14:59:50.0248681+00:00",
+  "LastUpdate_Achievements": "2023-12-21T15:10:09.4973457+00:00"
 }

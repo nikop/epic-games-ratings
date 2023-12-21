@@ -8885,10 +8885,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 32984,
       "NumberOfAwardsMax": 5669
+    },
+    {
+      "Time": "2023-12-21T15:02:56.4502441+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32986,
+      "NumberOfAwardsMax": 5669
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32984,
+  "NumberOfAwards": 32986,
   "NumberOfAwardsMax": 5669,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8932,12 +8938,12 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3581
+      "Count": 3583
     }
   ],
-  "EOS_Progressed": 242605,
+  "EOS_Progressed": 242624,
   "EOS_Completed": 2552,
-  "EOS_NewPlayers": 2458,
+  "EOS_NewPlayers": 2442,
   "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -36600,6 +36606,11 @@
       "Time": "2023-12-21T14:10:00.4423986+00:00",
       "NumProgressed": 242605,
       "NumCompleted": 2552
+    },
+    {
+      "Time": "2023-12-21T15:11:03.6100414+00:00",
+      "NumProgressed": 242624,
+      "NumCompleted": 2552
     }
   ],
   "TotalAchievements": 546,
@@ -36611,7 +36622,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2183
+      "UsersEstimate": 2184
     },
     {
       "ID": "objective_completed_10",
@@ -38401,9 +38412,9 @@
       "ID": "objective_completed_39",
       "SetID": "cc37lbc",
       "Name": "Seeking Allies",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 243
+      "UsersEstimate": 485
     },
     {
       "ID": "objective_completed_390",
@@ -39825,9 +39836,9 @@
       "ID": "objective_completed_8",
       "SetID": "cc37lbc",
       "Name": "Friendly Imps",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 243
+      "UsersEstimate": 485
     },
     {
       "ID": "objective_completed_80",
@@ -40913,9 +40924,9 @@
       "ID": "objective_completed_1562",
       "SetID": "415jc5c",
       "Name": "Fast Food",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1044
+      "UsersEstimate": 1253
     },
     {
       "ID": "objective_completed_1563",
@@ -40978,21 +40989,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 208879,
+      "Progressed": 208898,
       "Completed": 4053
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 242605,
+      "Progressed": 242624,
       "Completed": 2552
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-12-21T11:02:38.7731331+00:00",
-  "LastChanged_Achievements": "2023-12-21T14:10:00.4423983+00:00",
+  "LastChanged": "2023-12-21T15:02:56.4502439+00:00",
+  "LastChanged_Achievements": "2023-12-21T15:11:03.6100411+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:52.1318001+00:00",
-  "LastUpdate_Ratings": "2023-12-21T14:02:41.1125624+00:00",
-  "LastUpdate_Achievements": "2023-12-21T14:10:00.4446384+00:00"
+  "LastUpdate_Ratings": "2023-12-21T15:02:56.4502445+00:00",
+  "LastUpdate_Achievements": "2023-12-21T15:11:03.6123208+00:00"
 }

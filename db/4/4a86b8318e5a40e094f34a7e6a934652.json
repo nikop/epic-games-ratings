@@ -4,7 +4,7 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -1579,9 +1579,9 @@
       "ID": "REPAIR_BRIDGE",
       "SetID": "aniflfk",
       "Name": "Bridge Builder",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 143
+      "UsersEstimate": 147
     },
     {
       "ID": "SLEEP_50_HOURS",
@@ -1611,9 +1611,9 @@
       "ID": "UPGRADE_SMART_TOWER",
       "SetID": "aniflfk",
       "Name": "Strong Signal",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 160
+      "UsersEstimate": 163
     }
   ],
   "AchievementSets": [
@@ -1626,8 +1626,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-21T14:06:01.9646047+00:00",
+  "LastChanged_Achievements": "2023-12-21T15:07:16.5416508+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:11.7079702+00:00",
-  "LastUpdate_Ratings": "2023-12-21T13:59:45.7153855+00:00",
-  "LastUpdate_Achievements": "2023-12-21T14:06:01.9646204+00:00"
+  "LastUpdate_Ratings": "2023-12-21T15:00:37.8598571+00:00",
+  "LastUpdate_Achievements": "2023-12-21T15:07:16.541673+00:00"
 }

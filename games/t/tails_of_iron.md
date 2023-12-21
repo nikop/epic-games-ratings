@@ -20,7 +20,10 @@ Rating: 4.57 (Ranked 482)
 | Collect Gold | 0.20% | ~5 |
 | Collect Iron Ore | 0.20% | ~5 |
 | Collect Monster Parts | 0.20% | ~5 |
+| Return the Statues | 0.20% | ~5 |
 | Complete the Chefs Book | 0.20% | ~5 |
+| Complete Elder Faction | 0.20% | ~5 |
+| Defeat Rattus Augustail | 0.20% | ~5 |
 | Two Handed Weapon | 0.20% | ~5 |
 | Defeat 25 Grubs | 0.20% | ~5 |
 | Defeat 25 Mozis | 0.20% | ~5 |
@@ -28,18 +31,15 @@ Rating: 4.57 (Ranked 482)
 | Smithy Ready to Craft | 0.20% | ~5 |
 | Rescue Redgi's Brothers | 0.20% | ~5 |
 | I Remember My First Beer | 0.20% | ~2 |
-| Return the Statues | 0.10% | ~2 |
 | Complete Redgi's Armory | 0.10% | ~2 |
-| Complete Elder Faction | 0.10% | ~2 |
+| Complete Arena Faction | 0.10% | ~2 |
 | Complete Ranger Faction | 0.10% | ~2 |
 | Defeat Avor Warden of the Northern Wastes | 0.10% | ~2 |
-| Defeat Rattus Augustail | 0.10% | ~2 |
 | Fix the Travellers Wagon | 0.10% | ~2 |
 | Discover the mystery of the Kings Chambers | 0.10% | ~2 |
 | Defeat the Grub Buster | 0.10% | ~1 |
 | Defeat the Stalker Queen | 0.10% | ~1 |
 | King of Kings | 0.00% | ~0 |
-| Complete Arena Faction | 0.00% | ~0 |
 | A new Warchief rises | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,264 (Ranked 231)  

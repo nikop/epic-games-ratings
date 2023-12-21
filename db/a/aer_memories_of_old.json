@@ -419,9 +419,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 26714,
+  "EOS_Progressed": 26718,
   "EOS_Completed": 496,
-  "EOS_NewPlayers": 521,
+  "EOS_NewPlayers": 518,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.86,
   "EosHistory": [
@@ -26774,6 +26774,11 @@
       "Time": "2023-12-21T14:08:13.4673581+00:00",
       "NumProgressed": 26714,
       "NumCompleted": 496
+    },
+    {
+      "Time": "2023-12-21T15:08:46.5161735+00:00",
+      "NumProgressed": 26718,
+      "NumCompleted": 496
     }
   ],
   "TotalAchievements": 20,
@@ -26785,7 +26790,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 4541
+      "UsersEstimate": 4542
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -26801,7 +26806,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3740
+      "UsersEstimate": 3741
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -26809,7 +26814,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2404
+      "UsersEstimate": 2405
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -26825,7 +26830,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2671
+      "UsersEstimate": 2672
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -26849,7 +26854,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3740
+      "UsersEstimate": 3741
     },
     {
       "ID": "FOUND_ERIN",
@@ -26905,7 +26910,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 20303
+      "UsersEstimate": 20306
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -26913,7 +26918,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7213
+      "UsersEstimate": 7214
     },
     {
       "ID": "NORTH_FINISHED",
@@ -26944,15 +26949,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 26714,
+      "Progressed": 26718,
       "Completed": 496
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-12-21T14:08:13.4673578+00:00",
+  "LastChanged_Achievements": "2023-12-21T15:08:46.516173+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:01.7195881+00:00",
-  "LastUpdate_Ratings": "2023-12-21T13:57:47.5425139+00:00",
-  "LastUpdate_Achievements": "2023-12-21T14:08:13.4674616+00:00"
+  "LastUpdate_Ratings": "2023-12-21T14:58:03.0054987+00:00",
+  "LastUpdate_Achievements": "2023-12-21T15:08:46.5163576+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 933,
+  "Ranking_Rating": 934,
   "Ranking_Popularity": 386,
   "Ranking_PopularitySum": 326,
   "Ranking_EOS_Progress": 149,
@@ -1757,9 +1757,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 18380,
+  "EOS_Progressed": 18390,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1707,
+  "EOS_NewPlayers": 1691,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -10582,6 +10582,11 @@
       "Time": "2023-12-21T14:09:08.6817724+00:00",
       "NumProgressed": 18380,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-21T15:09:58.5728743+00:00",
+      "NumProgressed": 18390,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -10609,7 +10614,7 @@
       "Name": "Giving Back",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -10623,9 +10628,9 @@
       "ID": "DISARM_ENEMY",
       "SetID": "4hj6d86",
       "Name": "Flesh Wound",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2573
+      "UsersEstimate": 2758
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -10657,7 +10662,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -10689,7 +10694,7 @@
       "Name": "Parole Denied",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "GRP_25_ENEMIES",
@@ -10697,7 +10702,7 @@
       "Name": "Get a Grip",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2573
+      "UsersEstimate": 2575
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -10705,7 +10710,7 @@
       "Name": "In Striking Distance",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "KILL_2HEAD",
@@ -10721,7 +10726,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 2022
+      "UsersEstimate": 2023
     },
     {
       "ID": "KILL_ROBOT",
@@ -10737,7 +10742,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1655
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -10745,7 +10750,7 @@
       "Name": "The Commonality",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -10753,7 +10758,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2022
+      "UsersEstimate": 2023
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -10761,7 +10766,7 @@
       "Name": "Reforged",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1838
+      "UsersEstimate": 1839
     },
     {
       "ID": "PRINT_WEAPON",
@@ -10769,7 +10774,7 @@
       "Name": "Paper Jams",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2389
+      "UsersEstimate": 2391
     },
     {
       "ID": "SHARE_PHOTO",
@@ -10777,7 +10782,7 @@
       "Name": "Mugshot",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -10785,7 +10790,7 @@
       "Name": "The Outer Way",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2573
+      "UsersEstimate": 2575
     },
     {
       "ID": "STORY_ESCAPE",
@@ -10793,7 +10798,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1655
     },
     {
       "ID": "STORY_HABITAT",
@@ -10801,7 +10806,7 @@
       "Name": "Without A Paddle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1470
+      "UsersEstimate": 1471
     },
     {
       "ID": "STORY_HANGAR",
@@ -10825,7 +10830,7 @@
       "Name": "Desperate Times",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2389
+      "UsersEstimate": 2391
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -10865,7 +10870,7 @@
       "Name": "Instigator",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -10921,7 +10926,7 @@
       "Name": "Information Overload",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "FIND_ESCAPE_POD",
@@ -10945,7 +10950,7 @@
       "Name": "Keep Fighting",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -10953,7 +10958,7 @@
       "Name": "It\u0027s Time",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "LOCK_UNDER_7SEC",
@@ -10968,13 +10973,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 18380,
+      "Progressed": 18390,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 6306,
+      "Progressed": 6316,
       "Completed": 29
     }
   ],
@@ -10982,8 +10987,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-21T13:07:23.42136+00:00",
-  "LastChanged_Achievements": "2023-12-21T14:09:08.6817721+00:00",
+  "LastChanged_Achievements": "2023-12-21T15:09:58.5728738+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.4893565+00:00",
-  "LastUpdate_Ratings": "2023-12-21T14:03:09.6496493+00:00",
-  "LastUpdate_Achievements": "2023-12-21T14:09:08.6818383+00:00"
+  "LastUpdate_Ratings": "2023-12-21T15:03:33.7056612+00:00",
+  "LastUpdate_Achievements": "2023-12-21T15:09:58.572935+00:00"
 }
