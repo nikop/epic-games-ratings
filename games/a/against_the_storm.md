@@ -7,20 +7,21 @@ Number of Ratings: 1,845  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Overgrown Library | 6.00% | ~1,127 |
-| Abandoned Settlement | 5.00% | ~939 |
-| Petrified Necropolis | 5.00% | ~939 |
-| Taking Action | 4.00% | ~751 |
-| Frosts | 4.00% | ~751 |
-| Ominous Presence | 4.00% | ~751 |
-| Gathering Storm | 4.00% | ~751 |
+| Abandoned Settlement | 5.00% | ~940 |
+| Petrified Necropolis | 5.00% | ~940 |
+| Taking Action | 4.00% | ~752 |
+| No Deaths | 4.00% | ~752 |
+| Frosts | 4.00% | ~752 |
+| Ominous Presence | 4.00% | ~752 |
+| Gathering Storm | 4.00% | ~752 |
 | First Real Expedition | 3.00% | ~564 |
 | Overcoming Difficulty | 3.00% | ~564 |
 | Coral Forest | 3.00% | ~564 |
 | The Marshlands | 3.00% | ~564 |
-| No Deaths | 3.00% | ~564 |
 | Land of Greed | 3.00% | ~564 |
 | Homesick | 2.00% | ~376 |
 | Fertile Meadows | 2.00% | ~376 |
+| Monastery of the Holy Flame | 2.00% | ~376 |
 | Royal Outpost | 2.00% | ~376 |
 | Watchtower | 2.00% | ~376 |
 | The Scarlet Orchard | 2.00% | ~376 |
@@ -30,7 +31,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Barren Lands | 1.00% | ~188 |
 | Ancient Battleground | 1.00% | ~188 |
 | Levitating Monument | 1.00% | ~188 |
-| Monastery of the Holy Flame | 1.00% | ~188 |
 | Lost Colonies | 1.00% | ~188 |
 | Statue of the Forefathers | 1.00% | ~188 |
 | Corrosive Torrent | 1.00% | ~188 |
@@ -43,9 +43,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Against All Odds | 0.80% | ~150 |
 | Serving Ale | 0.70% | ~132 |
 | Defying the Crown | 0.70% | ~132 |
+| Into the Forest | 0.70% | ~132 |
 | Fishmen Ritual Site | 0.60% | ~113 |
 | Victory Through Prosperity | 0.60% | ~113 |
-| Into the Forest | 0.60% | ~113 |
 | Efficient Explorer | 0.50% | ~94 |
 | Refinery | 0.50% | ~94 |
 | Dangerous Lands | 0.50% | ~94 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,787 (Ranked 148)  
+Progressed: 18,790 (Ranked 148)  
 Completed: 39 (0.21%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 39 (0.21%) (Ranked 269)
 | 2023-12-18 | 18,615 | 39 |
 | 2023-12-19 | 18,687 | 39 |
 | 2023-12-20 | 18,771 | 39 |
-| 2023-12-21 | 18,787 | 39 |
+| 2023-12-21 | 18,790 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 228)  
 Sum: 3,274 (Ranked 175)  

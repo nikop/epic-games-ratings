@@ -3718,7 +3718,7 @@
       "Count": 747
     }
   ],
-  "EOS_Progressed": 241373,
+  "EOS_Progressed": 241379,
   "EOS_Completed": 300,
   "EOS_NewPlayers": 376,
   "EOS_NewCompleters": 2,
@@ -28943,6 +28943,11 @@
       "Time": "2023-12-21T04:11:57.0930072+00:00",
       "NumProgressed": 241373,
       "NumCompleted": 300
+    },
+    {
+      "Time": "2023-12-21T06:10:08.3659633+00:00",
+      "NumProgressed": 241379,
+      "NumCompleted": 300
     }
   ],
   "TotalAchievements": 138,
@@ -29018,7 +29023,7 @@
       "Name": "Shadow Spreads",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "DARKENDINGMEDIUM",
@@ -29114,7 +29119,7 @@
       "Name": "To The Death!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "DIEHARD",
@@ -29162,7 +29167,7 @@
       "Name": "Well Prepared",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "ENDINGCHOICE",
@@ -29210,7 +29215,7 @@
       "Name": "Just Chilling",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "FREEZE20TIMES",
@@ -29330,7 +29335,7 @@
       "Name": "Save Our Souls",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "HUGESOULSPILL",
@@ -29410,7 +29415,7 @@
       "Name": "Don\u0027t Ignore Me!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "KILLBOSSHARD",
@@ -29426,7 +29431,7 @@
       "Name": "All Consuming",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "KILLEDSELFWITHITEMS",
@@ -29466,7 +29471,7 @@
       "Name": "Stop Hitting Yourself",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "KILLSAMSPAREOTHERS",
@@ -29506,7 +29511,7 @@
       "Name": "Illuminate, Eliminate",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "LIGHTENDINGHARD",
@@ -29618,7 +29623,7 @@
       "Name": "Doing Time",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "POISON300",
@@ -29626,15 +29631,15 @@
       "Name": "Spreading Plague",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "POISON30TIMES",
       "SetID": "5l8oe0h",
       "Name": "Toxic",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1207
+      "UsersEstimate": 1448
     },
     {
       "ID": "POISONEDTWICEIN1TURN",
@@ -29642,7 +29647,7 @@
       "Name": "Acid Bath",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "POISONSELF20",
@@ -29682,7 +29687,7 @@
       "Name": "New Perspectives",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "SNAKESTEALTH",
@@ -30057,13 +30062,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241373,
+      "Progressed": 241379,
       "Completed": 300
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 2853,
+      "Progressed": 2859,
       "Completed": 410
     }
   ],
@@ -30071,8 +30076,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-20T17:59:46.0251837+00:00",
-  "LastChanged_Achievements": "2023-12-21T04:11:57.0930066+00:00",
+  "LastChanged_Achievements": "2023-12-21T06:10:08.3659632+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:23.1397919+00:00",
-  "LastUpdate_Ratings": "2023-12-21T03:59:54.3668442+00:00",
-  "LastUpdate_Achievements": "2023-12-21T04:11:57.0933334+00:00"
+  "LastUpdate_Ratings": "2023-12-21T05:59:31.031896+00:00",
+  "LastUpdate_Achievements": "2023-12-21T06:10:08.3662193+00:00"
 }

@@ -14,12 +14,12 @@ Rating: 4.62 (Ranked 374)
 | Full Ascension | 4.00% | ~237 |
 | Bone Peddler | 4.00% | ~237 |
 | Magical Synergy | 4.00% | ~237 |
-| Valley of Wonders | 3.00% | ~177 |
-| There Can Only Be One! | 3.00% | ~177 |
-| Stronger Together | 3.00% | ~177 |
-| Seat of Power | 3.00% | ~177 |
-| In a Liege of Your Own | 3.00% | ~177 |
-| Intimidation Tactics | 3.00% | ~177 |
+| Seat of Power | 4.00% | ~237 |
+| Valley of Wonders | 3.00% | ~178 |
+| There Can Only Be One! | 3.00% | ~178 |
+| Stronger Together | 3.00% | ~178 |
+| In a Liege of Your Own | 3.00% | ~178 |
+| Intimidation Tactics | 3.00% | ~178 |
 | Return of the Wizard King | 2.00% | ~118 |
 | Enchanted Archipelago | 2.00% | ~118 |
 | Digging for Treasure | 2.00% | ~118 |
@@ -53,7 +53,7 @@ Rating: 4.62 (Ranked 374)
 | Pruning for Progress | 0.70% | ~41 |
 | Grexolis | 0.70% | ~41 |
 | One for All, All for One | 0.70% | ~41 |
-| Duality | 0.60% | ~35 |
+| Duality | 0.60% | ~36 |
 | Betrayal Most Foul | 0.40% | ~24 |
 | Snap Out of It! | 0.30% | ~18 |
 | The Magic That Empowers Me! | 0.30% | ~18 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 374)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,915 (Ranked 192)  
+Progressed: 5,917 (Ranked 192)  
 Completed: 7 (0.12%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 7 (0.12%) (Ranked 295)
 | 2023-12-18 | 5,842 | 7 |
 | 2023-12-19 | 5,881 | 7 |
 | 2023-12-20 | 5,911 | 7 |
-| 2023-12-21 | 5,915 | 7 |
+| 2023-12-21 | 5,917 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 481)  
 Sum: 113 (Ranked 450)  

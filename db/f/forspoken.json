@@ -517,9 +517,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 44574,
+  "EOS_Progressed": 44584,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 937,
+  "EOS_NewPlayers": 931,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15867,6 +15867,11 @@
       "Time": "2023-12-21T03:08:22.4122411+00:00",
       "NumProgressed": 44574,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-21T06:03:26.0320165+00:00",
+      "NumProgressed": 44584,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -15894,7 +15899,7 @@
       "Name": "Outdoorsperson",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1337
+      "UsersEstimate": 1338
     },
     {
       "ID": "CHALLENGE_ALL",
@@ -15926,7 +15931,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4457
+      "UsersEstimate": 4458
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -15942,7 +15947,7 @@
       "Name": "The Interloper",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1337
+      "UsersEstimate": 1338
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -15950,7 +15955,7 @@
       "Name": "What Must Be Done",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "CHAPTER_05_CLEAR",
@@ -15958,7 +15963,7 @@
       "Name": "Might and Main",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "CHAPTER_06_CLEAR",
@@ -15966,7 +15971,7 @@
       "Name": "Damned If You Do...",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "CHAPTER_07_CLEAR",
@@ -16014,7 +16019,7 @@
       "Name": "Awakening",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "CRAFT_ALL",
@@ -16030,7 +16035,7 @@
       "Name": "Tinkerer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3566
+      "UsersEstimate": 3567
     },
     {
       "ID": "CUFF_ATTACK",
@@ -16054,7 +16059,7 @@
       "Name": "Hop, Step, Jump",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1337
+      "UsersEstimate": 1338
     },
     {
       "ID": "JUSTCOUNTER",
@@ -16070,7 +16075,7 @@
       "Name": "Leapfrogger",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2674
+      "UsersEstimate": 2675
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -16078,7 +16083,7 @@
       "Name": "Explorer: Pathfinder",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "LOCATION_HUNDRED",
@@ -16086,7 +16091,7 @@
       "Name": "Explorer: Trailblazer",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "LOCATION_TEN",
@@ -16118,7 +16123,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3120
+      "UsersEstimate": 3121
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -16126,7 +16131,7 @@
       "Name": "Shocker",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "MAGIC_FLOWER",
@@ -16150,7 +16155,7 @@
       "Name": "From Every Angle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "MONUMENT_ALL",
@@ -16166,7 +16171,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3120
+      "UsersEstimate": 3121
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -16182,7 +16187,7 @@
       "Name": "Endless Runner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1337
+      "UsersEstimate": 1338
     },
     {
       "ID": "PARKOUR_TIME",
@@ -16190,7 +16195,7 @@
       "Name": "Hell of a Run",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3120
+      "UsersEstimate": 3121
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -16206,7 +16211,7 @@
       "Name": "Realized Potential",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "SKILLTREE_FIRST",
@@ -16214,7 +16219,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4457
+      "UsersEstimate": 4458
     },
     {
       "ID": "SPRING_ALL",
@@ -16230,7 +16235,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2674
+      "UsersEstimate": 2675
     },
     {
       "ID": "STAYING_AIR",
@@ -16301,22 +16306,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 44574,
+      "Progressed": 44584,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 9411,
-      "Completed": 9411
+      "Progressed": 9421,
+      "Completed": 9421
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-20T22:02:03.9377568+00:00",
-  "LastChanged_Achievements": "2023-12-21T03:08:22.4122408+00:00",
+  "LastChanged_Achievements": "2023-12-21T06:03:26.0320163+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:26.7354097+00:00",
-  "LastUpdate_Ratings": "2023-12-21T04:02:36.8538609+00:00",
-  "LastUpdate_Achievements": "2023-12-21T03:08:22.4123271+00:00"
+  "LastUpdate_Ratings": "2023-12-21T06:02:42.9501886+00:00",
+  "LastUpdate_Achievements": "2023-12-21T06:03:26.0321478+00:00"
 }

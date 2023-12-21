@@ -5,9 +5,9 @@
   "Ranking_Rating": 645,
   "Ranking_Popularity": 437,
   "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 253,
+  "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -403,9 +403,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1443,
+  "EOS_Progressed": 1444,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3513,6 +3513,11 @@
       "Time": "2023-12-21T01:55:47.0529077+00:00",
       "NumProgressed": 1443,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T06:09:56.3865913+00:00",
+      "NumProgressed": 1444,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -3524,7 +3529,7 @@
       "Name": "Bustin\u0027 nuts",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "CAREER_CRIMINAL",
@@ -3572,7 +3577,7 @@
       "Name": "Double agent",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "EARLY_ACCESS_1",
@@ -3580,7 +3585,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1429
+      "UsersEstimate": 1430
     },
     {
       "ID": "EXPERT_1",
@@ -3700,7 +3705,7 @@
       "Name": "Paranoia",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "PRIVATE_EYE",
@@ -3708,7 +3713,7 @@
       "Name": "Not-so-private Eye",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "PROTECTION_RACKET",
@@ -3772,7 +3777,7 @@
       "Name": "Superhuman",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "TRAVELER_1",
@@ -3780,7 +3785,7 @@
       "Name": "Traveler",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "VVE",
@@ -3811,15 +3816,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1443,
+      "Progressed": 1444,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-11-03T17:57:55.7845483+00:00",
-  "LastChanged_Achievements": "2023-12-21T04:11:44.9145302+00:00",
+  "LastChanged_Achievements": "2023-12-21T06:09:56.3865911+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:19.4071615+00:00",
-  "LastUpdate_Ratings": "2023-12-21T03:58:25.0588284+00:00",
-  "LastUpdate_Achievements": "2023-12-21T04:11:44.9145717+00:00"
+  "LastUpdate_Ratings": "2023-12-21T05:58:12.2958109+00:00",
+  "LastUpdate_Achievements": "2023-12-21T06:09:56.3866221+00:00"
 }

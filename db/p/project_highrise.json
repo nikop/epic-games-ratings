@@ -2,9 +2,9 @@
   "ID": "d354bf1a92ac4546aa20c74c8e7f70e1",
   "Name": "Project Highrise",
   "ProductSlug": "project-highrise-a567e8",
-  "Ranking_EOS_Progress": 343,
+  "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 405,
+  "EOS_Progressed": 406,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1205,6 +1205,11 @@
       "Time": "2023-12-21T00:08:46.6645494+00:00",
       "NumProgressed": 405,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T06:08:30.0792114+00:00",
+      "NumProgressed": 406,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1368,7 +1373,7 @@
       "Name": "Aestheticly Pleased",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ach_consultants_b",
@@ -1552,7 +1557,7 @@
       "Name": "Grime is Not Good",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ach_grime_1",
@@ -1576,7 +1581,7 @@
       "Name": "Happy Tenants",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ach_loan",
@@ -1608,7 +1613,7 @@
       "Name": "28 Days Later",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ach_office_1",
@@ -1632,7 +1637,7 @@
       "Name": "Plaza Plan",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ach_pop_1",
@@ -1648,7 +1653,7 @@
       "Name": "Master of Puppets",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ach_prestige_1",
@@ -1680,7 +1685,7 @@
       "Name": "In the Black",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ach_profit_1",
@@ -1720,7 +1725,7 @@
       "Name": "Refined Palates",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ach_restaurants_2",
@@ -1744,7 +1749,7 @@
       "Name": "Potent Potables",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ach_restaurants_5",
@@ -1840,7 +1845,7 @@
       "Name": "Smooth Service",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ach_trash_1",
@@ -1919,7 +1924,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 405,
+      "Progressed": 406,
       "Completed": 0
     }
   ],
@@ -1927,8 +1932,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-12-21T04:09:17.5720564+00:00",
+  "LastChanged_Achievements": "2023-12-21T06:08:30.0792112+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:18.491222+00:00",
-  "LastUpdate_Ratings": "2023-12-21T03:59:41.8368032+00:00",
-  "LastUpdate_Achievements": "2023-12-21T04:09:17.5721495+00:00"
+  "LastUpdate_Ratings": "2023-12-21T05:59:20.304068+00:00",
+  "LastUpdate_Achievements": "2023-12-21T06:08:30.0792843+00:00"
 }

@@ -1,19 +1,19 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.04 (Ranked 1,008)  
+Rating: 4.04 (Ranked 1,009)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,340 |
-| World Map | 78.00% | ~2,801 |
-| Temple of Eternals | 56.00% | ~2,011 |
-| Prestigious | 53.00% | ~1,903 |
-| Fellowship Power | 42.00% | ~1,508 |
+| Victor | 93.00% | ~3,341 |
+| World Map | 78.00% | ~2,802 |
+| Temple of Eternals | 56.00% | ~2,012 |
+| Prestigious | 53.00% | ~1,904 |
+| Fellowship Power | 42.00% | ~1,509 |
 | Full Party | 24.00% | ~862 |
 | Guild Power | 23.00% | ~826 |
 | Prestigious x10 | 21.00% | ~754 |
-| The game is on | 18.00% | ~646 |
+| The game is on | 18.00% | ~647 |
 | Exotic Merchant | 16.00% | ~575 |
 | Dragon Clicker | 15.00% | ~539 |
 | Miner Clicker | 15.00% | ~539 |
@@ -32,9 +32,9 @@ Rating: 4.04 (Ranked 1,008)
 | Daily Quest Completionist | 9.00% | ~323 |
 | Doing My Part | 9.00% | ~323 |
 | Hunter | 9.00% | ~323 |
+| Mastery | 9.00% | ~323 |
 | The power of Awakening | 9.00% | ~323 |
 | Frostfire Liberator | 8.00% | ~287 |
-| Mastery | 8.00% | ~287 |
 | Moving Up The Ladder | 8.00% | ~287 |
 | Relic Of The Past | 8.00% | ~287 |
 | Scroll Master | 8.00% | ~287 |
@@ -43,10 +43,10 @@ Rating: 4.04 (Ranked 1,008)
 | Master Enchanter | 7.00% | ~251 |
 | The father of Dragons | 7.00% | ~251 |
 | Trader | 7.00% | ~251 |
-| Crystal Mining | 6.00% | ~215 |
-| Dragon Slayer | 6.00% | ~215 |
-| The Expeditioner | 6.00% | ~215 |
-| Weekly Quest Completionist | 6.00% | ~215 |
+| Crystal Mining | 6.00% | ~216 |
+| Dragon Slayer | 6.00% | ~216 |
+| The Expeditioner | 6.00% | ~216 |
+| Weekly Quest Completionist | 6.00% | ~216 |
 | Ancient Knowledge | 5.00% | ~180 |
 | Blueprint Upgrades | 5.00% | ~180 |
 | Enchanting skill | 5.00% | ~180 |
@@ -81,7 +81,7 @@ Rating: 4.04 (Ranked 1,008)
 | Jewel Enchanting | 0.20% | ~7 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,591 (Ranked 213)  
+Progressed: 3,592 (Ranked 213)  
 Completed: 2 (0.06%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 2 (0.06%) (Ranked 325)
 | 2023-12-18 | 3,537 | 2 |
 | 2023-12-19 | 3,555 | 2 |
 | 2023-12-20 | 3,585 | 2 |
-| 2023-12-21 | 3,591 | 2 |
+| 2023-12-21 | 3,592 | 2 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 474)  
 Sum: 145 (Ranked 432)  

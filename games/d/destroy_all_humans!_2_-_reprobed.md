@@ -6,32 +6,32 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 72.00% | ~102 |
-| Mash Machine | 67.00% | ~94 |
-| Ducks in a Row, Fish in a Barrel | 45.00% | ~63 |
+| Rock of the Bay | 73.00% | ~104 |
+| Mash Machine | 67.00% | ~95 |
+| Ducks in a Row, Fish in a Barrel | 45.00% | ~64 |
 | Furon Fashion | 39.00% | ~55 |
 | Shop Til They Drop | 33.00% | ~47 |
-| Earthly Pleasures | 28.00% | ~39 |
-| Bodied Sattva | 26.00% | ~37 |
-| Cult Following | 23.00% | ~32 |
+| Earthly Pleasures | 28.00% | ~40 |
+| Bodied Sattva | 27.00% | ~38 |
+| Cult Following | 24.00% | ~34 |
 | Lie Back and Think of Albion | 19.00% | ~27 |
 | Upgreatest | 19.00% | ~27 |
-| I Look Up As I Walk to Takoshima | 18.00% | ~25 |
-| Pimp My Raid | 18.00% | ~25 |
+| I Look Up As I Walk to Takoshima | 18.00% | ~26 |
+| Pimp My Raid | 18.00% | ~26 |
 | Perfect Probulator | 13.00% | ~18 |
 | Freshly Squeezed | 13.00% | ~18 |
 | Die Nasty | 13.00% | ~18 |
-| Transmitting From Sol-3 | 9.00% | ~13 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 9.00% | ~13 |
+| Transmitting From Sol-3 | 8.00% | ~11 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 8.00% | ~11 |
 | Dusted | 8.00% | ~11 |
-| Fly Me to the Moon Base | 6.00% | ~8 |
-| Kaijuiced | 6.00% | ~8 |
-| Scuttled | 4.00% | ~6 |
+| Fly Me to the Moon Base | 6.00% | ~9 |
+| Kaijuiced | 6.00% | ~9 |
+| Scuttled | 5.00% | ~7 |
 | Yettisoned | 4.00% | ~6 |
+| Ultimate Smoothie | 2.00% | ~3 |
 | Lobster Blisque | 2.00% | ~3 |
 | Re-Return of the Clone of the Invasion II-2 | 2.00% | ~3 |
 | Arkvoodle Doodle | 2.00% | ~3 |
-| Ultimate Smoothie | 1.00% | ~1 |
 | Deincarnated | 1.00% | ~1 |
 | Arty Facts | 0.70% | ~1 |
 | Forbidden Donut | 0.70% | ~1 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.00% | ~0 |
 | Trans-Siberian Express | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141 (Ranked 430)  
+Progressed: 142 (Ranked 427)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 121 | 0 |
 | 2023-12-19 | 129 | 0 |
 | 2023-12-20 | 138 | 0 |
-| 2023-12-21 | 141 | 0 |
+| 2023-12-21 | 142 | 0 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 482)  
 Sum: 36 (Ranked 514)  

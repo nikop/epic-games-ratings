@@ -3,8 +3,8 @@
   "Name": "Frontier Hunter: Erza\u0027s Wheel of Fortune",
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
   "Ranking_EOS_Progress": 309,
-  "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_Completed": 282,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 643,
+  "EOS_Progressed": 644,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -2142,6 +2142,11 @@
       "Time": "2023-12-21T01:54:54.1079003+00:00",
       "NumProgressed": 643,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T06:09:08.4875698+00:00",
+      "NumProgressed": 644,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -2153,7 +2158,7 @@
       "Name": "Travel Streamer",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -2241,7 +2246,7 @@
       "Name": "Training Simulation",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -2279,9 +2284,9 @@
       "ID": "ACHIEVEMENT_24",
       "SetID": "7pimpda",
       "Name": "Arms Mechanic",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 315
+      "UsersEstimate": 309
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -2321,7 +2326,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -2512,7 +2517,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 643,
+      "Progressed": 644,
       "Completed": 1
     }
   ],
@@ -2520,8 +2525,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-21T04:10:52.1273024+00:00",
+  "LastChanged_Achievements": "2023-12-21T06:09:08.4875696+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:00.9363361+00:00",
-  "LastUpdate_Ratings": "2023-12-21T03:57:43.0356874+00:00",
-  "LastUpdate_Achievements": "2023-12-21T04:10:52.1273557+00:00"
+  "LastUpdate_Ratings": "2023-12-21T05:57:35.1502693+00:00",
+  "LastUpdate_Achievements": "2023-12-21T06:09:08.4876062+00:00"
 }

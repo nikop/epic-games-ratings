@@ -4,7 +4,7 @@
   "ProductSlug": "pinball-m-755276",
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2369,
+  "EOS_Progressed": 2375,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 533,
+  "EOS_NewPlayers": 536,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2319,6 +2319,11 @@
       "Time": "2023-12-21T03:08:13.3004739+00:00",
       "NumProgressed": 2369,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T06:08:44.0406022+00:00",
+      "NumProgressed": 2375,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -2353,9 +2358,9 @@
       "ID": "ACHIEVEMENT_09",
       "SetID": "c167foo",
       "Name": "Highest Among the Highest",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 569
+      "UsersEstimate": 594
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -2403,7 +2408,7 @@
       "Name": "Dark Prizes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -2435,7 +2440,7 @@
       "Name": "Worthy Badge",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -2499,7 +2504,7 @@
       "Name": "Competitor",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -2515,7 +2520,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 616
+      "UsersEstimate": 618
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -2531,7 +2536,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 734
+      "UsersEstimate": 736
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -2699,21 +2704,21 @@
       "Name": "Hundred below",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     }
   ],
   "AchievementSets": [
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 2369,
+      "Progressed": 2375,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-21T04:09:33.6757159+00:00",
+  "LastChanged_Achievements": "2023-12-21T06:08:44.040602+00:00",
   "LastUpdate_AppInfo": "2023-12-19T11:57:06.3691956+00:00",
-  "LastUpdate_Ratings": "2023-12-21T03:57:45.6379902+00:00",
-  "LastUpdate_Achievements": "2023-12-21T04:09:33.6757687+00:00"
+  "LastUpdate_Ratings": "2023-12-21T05:57:37.3995609+00:00",
+  "LastUpdate_Achievements": "2023-12-21T06:08:44.0406398+00:00"
 }

@@ -1,23 +1,23 @@
 # Tortuga - A Pirate's Tale
 [Store](https://store.epicgames.com/en-US/p/tortuga-a-pirates-tale-e02635)  
 [View Rawdata](../../db/t/tortuga_-_a_pirate's_tale.json)  
-Rating: 3.79 (Ranked 1,055)  
+Rating: 3.79 (Ranked 1,056)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~16,412 |
-| No Half Measures | 87.00% | ~15,030 |
-| Personal Matter | 86.00% | ~14,857 |
-| But You Have Heard of Me | 72.00% | ~12,439 |
-| Double the Barrels, double the Fun | 54.00% | ~9,329 |
-| Pimp My Glide | 49.00% | ~8,465 |
-| ... And Where Do the Stories Come From? | 40.00% | ~6,910 |
+| Eeligally Ambitious | 95.00% | ~16,414 |
+| No Half Measures | 87.00% | ~15,032 |
+| Personal Matter | 86.00% | ~14,859 |
+| But You Have Heard of Me | 72.00% | ~12,440 |
+| Double the Barrels, double the Fun | 54.00% | ~9,330 |
+| Pimp My Glide | 49.00% | ~8,466 |
+| ... And Where Do the Stories Come From? | 40.00% | ~6,911 |
 | House Party! | 35.00% | ~6,047 |
-| Make It Rain | 23.00% | ~3,973 |
+| Make It Rain | 23.00% | ~3,974 |
 | Curse of the Seven Seas | 22.00% | ~3,801 |
 | Head First | 16.00% | ~2,764 |
 | To the World's End | 12.00% | ~2,073 |
-| Table for Six | 11.00% | ~1,900 |
+| Table for Six | 11.00% | ~1,901 |
 | Sharing Is Caring | 10.00% | ~1,728 |
 | I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,382 |
 | Morally Flexible | 6.00% | ~1,037 |
@@ -25,14 +25,14 @@ Rating: 3.79 (Ranked 1,055)
 | After All, Why Shouldn't I Keep It? | 3.00% | ~518 |
 | A True Dandy | 2.00% | ~346 |
 | A New Legend Awaits | 1.00% | ~173 |
-| Pirate King | 0.90% | ~155 |
+| Pirate King | 0.90% | ~156 |
 | Oooh, We're Half Way There | 0.80% | ~138 |
 | O Captain! My Captain! | 0.20% | ~35 |
 | Devilishly Talented | 0.10% | ~17 |
 | Heavy Tunaing | 0.10% | ~17 |
 | Pufferfish | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,276 (Ranked 151)  
+Progressed: 17,278 (Ranked 151)  
 Completed: 1 (0.01%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 1 (0.01%) (Ranked 361)
 | 2023-12-18 | 17,251 | 1 |
 | 2023-12-19 | 17,267 | 1 |
 | 2023-12-20 | 17,274 | 1 |
-| 2023-12-21 | 17,276 | 1 |
+| 2023-12-21 | 17,278 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

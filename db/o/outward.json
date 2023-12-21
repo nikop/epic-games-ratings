@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4065,
+  "EOS_Progressed": 4067,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 320,
+  "EOS_NewPlayers": 319,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -6576,6 +6576,11 @@
       "Time": "2023-12-21T04:08:01.6054283+00:00",
       "NumProgressed": 4065,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-21T06:05:42.1948659+00:00",
+      "NumProgressed": 4067,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -6587,7 +6592,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "AceDetective_9",
@@ -6627,7 +6632,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1748
+      "UsersEstimate": 1749
     },
     {
       "ID": "CrowdPleaser",
@@ -6643,7 +6648,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "Eureka_23",
@@ -6651,7 +6656,7 @@
       "Name": "Eureka",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -6659,7 +6664,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "ForAllAurai_8",
@@ -6691,7 +6696,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "HouseofCards_19",
@@ -6771,7 +6776,7 @@
       "Name": "Ready for Summer",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 2032
+      "UsersEstimate": 2034
     },
     {
       "ID": "ReadyforWinter_42",
@@ -6779,7 +6784,7 @@
       "Name": "Ready for Winter",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 2561
+      "UsersEstimate": 2562
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -6795,7 +6800,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1017
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -6811,7 +6816,7 @@
       "Name": "Tapped!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1463
+      "UsersEstimate": 1464
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -6851,7 +6856,7 @@
       "Name": "The Power of Family",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -6907,7 +6912,7 @@
       "Name": "Venture Outward",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 3008
+      "UsersEstimate": 3010
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -6922,15 +6927,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4065,
+      "Progressed": 4067,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-21T04:08:01.6054278+00:00",
+  "LastChanged_Achievements": "2023-12-21T06:05:42.1948657+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:45.1407734+00:00",
-  "LastUpdate_Ratings": "2023-12-21T04:03:28.5867797+00:00",
-  "LastUpdate_Achievements": "2023-12-21T04:08:01.6054953+00:00"
+  "LastUpdate_Ratings": "2023-12-21T06:02:59.9391588+00:00",
+  "LastUpdate_Achievements": "2023-12-21T06:05:42.1949133+00:00"
 }

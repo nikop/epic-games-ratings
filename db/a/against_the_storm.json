@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 3765,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3521,9 +3521,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18787,
+  "EOS_Progressed": 18790,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 720,
+  "EOS_NewPlayers": 721,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16511,6 +16511,11 @@
       "Time": "2023-12-21T03:06:08.6711058+00:00",
       "NumProgressed": 18787,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-21T06:06:31.6206203+00:00",
+      "NumProgressed": 18790,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16729,9 +16734,9 @@
       "ID": "WinNearMonastery",
       "SetID": "cfbk359",
       "Name": "Monastery of the Holy Flame",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 376
     },
     {
       "ID": "WinNearOutpost",
@@ -16859,7 +16864,7 @@
       "Name": "Taking Action",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "WinWithResolve",
@@ -16897,9 +16902,9 @@
       "ID": "WinWithoutDeath",
       "SetID": "cfbk359",
       "Name": "No Deaths",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 564
+      "UsersEstimate": 752
     },
     {
       "ID": "WinWithoutOrders",
@@ -16913,9 +16918,9 @@
       "ID": "Year1Dangerous",
       "SetID": "cfbk359",
       "Name": "Into the Forest",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 113
+      "UsersEstimate": 132
     },
     {
       "ID": "WinNearAbandoned",
@@ -16923,7 +16928,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "WinNearFrosts",
@@ -16931,7 +16936,7 @@
       "Name": "Frosts",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "WinNearGreed",
@@ -16955,7 +16960,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "WinNearPresence",
@@ -16963,7 +16968,7 @@
       "Name": "Ominous Presence",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "WinNearStorms",
@@ -16971,7 +16976,7 @@
       "Name": "Gathering Storm",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -16994,15 +16999,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18787,
+      "Progressed": 18790,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-20T12:59:24.808106+00:00",
-  "LastChanged_Achievements": "2023-12-21T04:08:56.1036516+00:00",
+  "LastChanged_Achievements": "2023-12-21T06:06:31.62062+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
-  "LastUpdate_Ratings": "2023-12-21T03:59:56.289538+00:00",
-  "LastUpdate_Achievements": "2023-12-21T04:08:56.1037487+00:00"
+  "LastUpdate_Ratings": "2023-12-21T05:59:32.2663076+00:00",
+  "LastUpdate_Achievements": "2023-12-21T06:06:31.6207139+00:00"
 }

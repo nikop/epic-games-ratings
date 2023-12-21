@@ -4,7 +4,7 @@
   "ProductSlug": "bratz-flaunt-your-fashion-95d529",
   "Ranking_EOS_Progress": 468,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 375,
+  "Ranking_EOS_NewPlayers": 383,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-01-24T09:30:00+00:00",
@@ -33,7 +33,7 @@
   "Tags": [],
   "EOS_Progressed": 99,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -393,9 +393,9 @@
       "ID": "10",
       "SetID": "41h3j82",
       "Name": "Born to Win",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 70,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "11",
@@ -481,9 +481,9 @@
       "ID": "3",
       "SetID": "41h3j82",
       "Name": "Welcome to Seoul",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 70,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "4",
@@ -546,8 +546,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2023-12-21T04:06:34.5182247+00:00",
+  "LastChanged_Achievements": "2023-12-21T06:04:24.7953642+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:21.6585239+00:00",
-  "LastUpdate_Ratings": "2023-12-21T03:58:34.5056209+00:00",
-  "LastUpdate_Achievements": "2023-12-21T04:06:34.5182356+00:00"
+  "LastUpdate_Ratings": "2023-12-21T05:58:20.4060018+00:00",
+  "LastUpdate_Achievements": "2023-12-21T06:04:24.7953735+00:00"
 }

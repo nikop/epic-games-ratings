@@ -2,13 +2,13 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 932,
+  "Ranking_Rating": 933,
   "Ranking_Popularity": 388,
   "Ranking_PopularitySum": 326,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1745,9 +1745,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 18325,
+  "EOS_Progressed": 18330,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1728,
+  "EOS_NewPlayers": 1719,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -10525,6 +10525,11 @@
       "Time": "2023-12-21T04:11:05.653204+00:00",
       "NumProgressed": 18325,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-21T06:09:20.7772783+00:00",
+      "NumProgressed": 18330,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -10680,7 +10685,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1649
+      "UsersEstimate": 1650
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -10704,7 +10709,7 @@
       "Name": "Reforged",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1832
+      "UsersEstimate": 1833
     },
     {
       "ID": "PRINT_WEAPON",
@@ -10712,7 +10717,7 @@
       "Name": "Paper Jams",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2382
+      "UsersEstimate": 2383
     },
     {
       "ID": "SHARE_PHOTO",
@@ -10736,15 +10741,15 @@
       "Name": "If the SHU Fits...",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1649
+      "UsersEstimate": 1650
     },
     {
       "ID": "STORY_HABITAT",
       "SetID": "4hj6d86",
       "Name": "Without A Paddle",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1283
+      "UsersEstimate": 1466
     },
     {
       "ID": "STORY_HANGAR",
@@ -10768,7 +10773,7 @@
       "Name": "Desperate Times",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2382
+      "UsersEstimate": 2383
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -10911,13 +10916,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 18325,
+      "Progressed": 18330,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 6251,
+      "Progressed": 6256,
       "Completed": 29
     }
   ],
@@ -10925,8 +10930,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-21T04:04:45.0236948+00:00",
-  "LastChanged_Achievements": "2023-12-21T04:11:05.6532036+00:00",
+  "LastChanged_Achievements": "2023-12-21T06:09:20.777278+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.4893565+00:00",
-  "LastUpdate_Ratings": "2023-12-21T04:04:45.0236952+00:00",
-  "LastUpdate_Achievements": "2023-12-21T04:11:05.6532898+00:00"
+  "LastUpdate_Ratings": "2023-12-21T06:03:17.0253513+00:00",
+  "LastUpdate_Achievements": "2023-12-21T06:09:20.7773584+00:00"
 }

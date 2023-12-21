@@ -1,7 +1,7 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.57 (Ranked 1,062)  
+Rating: 3.57 (Ranked 1,063)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -39,8 +39,8 @@ Rating: 3.57 (Ranked 1,062)
 | Nice Try | 0.90% | ~18 |
 | Blacklight Down | 0.90% | ~18 |
 | Revelations | 0.80% | ~16 |
+| Block Party | 0.80% | ~16 |
 | Curious Finch | 0.80% | ~16 |
-| Block Party | 0.70% | ~14 |
 | Right This Way | 0.50% | ~10 |
 | Dexterity Save | 0.50% | ~10 |
 | Neighborhood Watch | 0.40% | ~8 |
@@ -72,7 +72,7 @@ Rating: 3.57 (Ranked 1,062)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,967 (Ranked 236)  
+Progressed: 1,970 (Ranked 236)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 1,930 | 0 |
 | 2023-12-19 | 1,947 | 0 |
 | 2023-12-20 | 1,963 | 0 |
-| 2023-12-21 | 1,967 | 0 |
+| 2023-12-21 | 1,970 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

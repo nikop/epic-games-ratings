@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 9.00% | ~332 |
+| Malpractice Assurance | 9.00% | ~333 |
 | Lost and Found | 5.00% | ~185 |
 | This Belongs in a Museum | 4.00% | ~5,153 |
 | Autodidact | 4.00% | ~5,153 |
@@ -22,25 +22,25 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 3.00% | ~3,865 |
 | Ploughshares to Swords | 3.00% | ~111 |
 | Friends 'Til the End | 3.00% | ~111 |
-| Don't Make Me Turn This Coach Around | 2.00% | ~2,576 |
-| It Rings a Bell | 2.00% | ~2,576 |
-| Unfulfilled Desires | 2.00% | ~2,576 |
-| Dissector | 2.00% | ~2,576 |
-| Banishment | 2.00% | ~2,576 |
-| Deprogramming | 2.00% | ~2,576 |
-| Now Stay Dead | 2.00% | ~2,576 |
-| It Happens | 2.00% | ~2,576 |
-| Spelunker | 2.00% | ~2,576 |
-| Rush Hour | 2.00% | ~2,576 |
-| Merry Time | 2.00% | ~2,576 |
-| Harvest Festival | 2.00% | ~2,576 |
-| Ramble On | 2.00% | ~2,576 |
-| Whale | 2.00% | ~2,576 |
-| A Place to Lay Your Head | 2.00% | ~2,576 |
-| FNG | 2.00% | ~2,576 |
-| Nope | 2.00% | ~2,576 |
-| Unshackled | 2.00% | ~2,576 |
-| Road Trip | 2.00% | ~2,576 |
+| Don't Make Me Turn This Coach Around | 2.00% | ~2,577 |
+| It Rings a Bell | 2.00% | ~2,577 |
+| Unfulfilled Desires | 2.00% | ~2,577 |
+| Dissector | 2.00% | ~2,577 |
+| Banishment | 2.00% | ~2,577 |
+| Deprogramming | 2.00% | ~2,577 |
+| Now Stay Dead | 2.00% | ~2,577 |
+| It Happens | 2.00% | ~2,577 |
+| Spelunker | 2.00% | ~2,577 |
+| Rush Hour | 2.00% | ~2,577 |
+| Merry Time | 2.00% | ~2,577 |
+| Harvest Festival | 2.00% | ~2,577 |
+| Ramble On | 2.00% | ~2,577 |
+| Whale | 2.00% | ~2,577 |
+| A Place to Lay Your Head | 2.00% | ~2,577 |
+| FNG | 2.00% | ~2,577 |
+| Nope | 2.00% | ~2,577 |
+| Unshackled | 2.00% | ~2,577 |
+| Road Trip | 2.00% | ~2,577 |
 | Resurrection | 1.00% | ~1,288 |
 | Unleash Hell | 1.00% | ~1,288 |
 | Funny Guy | 1.00% | ~1,288 |
@@ -56,9 +56,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | When You Want Something Done Right | 1.00% | ~1,288 |
 | Worldly Traveller | 1.00% | ~1,288 |
 | Utopia | 1.00% | ~1,288 |
-| This Looks Familiar | 0.90% | ~1,159 |
-| Hot Air | 0.90% | ~1,159 |
-| Eyes Up | 0.90% | ~1,159 |
+| This Looks Familiar | 0.90% | ~1,160 |
+| Hot Air | 0.90% | ~1,160 |
+| Eyes Up | 0.90% | ~1,160 |
 | Slap on the Wrist | 0.80% | ~30 |
 | For Old Time' Sake | 0.80% | ~30 |
 | Handled | 0.70% | ~902 |
@@ -69,10 +69,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hat Trick | 0.40% | ~515 |
 | Triage | 0.40% | ~515 |
 | No Mercy | 0.40% | ~15 |
-| A Life Well Lived | 0.30% | ~386 |
-| The World As It Was | 0.30% | ~386 |
-| Bacon Bits | 0.30% | ~386 |
-| Eidetic | 0.30% | ~386 |
+| A Life Well Lived | 0.30% | ~387 |
+| The World As It Was | 0.30% | ~387 |
+| Bacon Bits | 0.30% | ~387 |
+| Eidetic | 0.30% | ~387 |
 | Maître De La Lame | 0.30% | ~11 |
 | Tears in the Rain | 0.20% | ~258 |
 | Battle Hardened | 0.20% | ~7 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,822 (Ranked 86)  
+Progressed: 128,836 (Ranked 86)  
 Completed: 3 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,10 +321,10 @@ Completed: 3 (0.00%) (Ranked 384)
 | 2023-12-18 | 128,398 | 3 |
 | 2023-12-19 | 128,605 | 3 |
 | 2023-12-20 | 128,785 | 3 |
-| 2023-12-21 | 128,822 | 3 |
+| 2023-12-21 | 128,836 | 3 |
 ## Awards
 Max (Character Customization): 7,805  (Ranked 50)  
-Sum: 20,861 (Ranked 58)  
+Sum: 20,865 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -332,7 +332,7 @@ Diff (max vs sum): -8
 | This game has Diverse Characters | 1,747 |
 | This game has Challenging Combat | 1,614 |
 | This game is Highly Recommended | 1,552 |
-| This game is Extremely Fun | 1,477 |
+| This game is Extremely Fun | 1,481 |
 | This game has Amazing Characters | 1,477 |
 | This game has Amazing Storytelling | 1,398 |
 | This game has Unique Visuals | 1,396 |
@@ -670,4 +670,4 @@ Diff (max vs sum): -8
 | 2023-12-18 | 4.68 | - | 7,784 | 20,761 |
 | 2023-12-19 | 4.68 | - | 7,795 | 20,806 |
 | 2023-12-20 | 4.68 | - | 7,805 | 20,840 |
-| 2023-12-21 | 4.68 | - | 7,805 | 20,861 |
+| 2023-12-21 | 4.68 | - | 7,805 | 20,865 |

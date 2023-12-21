@@ -10,7 +10,7 @@
 | Dicesmithing Time! | 60.00% | ~121 |
 | Sanctuary Guardian | 54.00% | ~109 |
 | Endless Tricks | 50.00% | ~101 |
-| Wild's Keeper | 45.00% | ~91 |
+| Wild's Keeper | 46.00% | ~93 |
 | Mind Illuminator | 43.00% | ~87 |
 | Noctuan Champion | 36.00% | ~73 |
 | Stellar Dismantler | 35.00% | ~71 |
@@ -23,7 +23,7 @@
 | Apian Champion | 21.00% | ~42 |
 | Shard Spender | 18.00% | ~36 |
 | Unbeatable | 18.00% | ~36 |
-| Behenian Champion | 16.00% | ~32 |
+| Behenian Champion | 17.00% | ~34 |
 | Sadistic Plan | 14.00% | ~28 |
 | Aquarian Champion | 10.00% | ~20 |
 | Astral Seeker | 9.00% | ~18 |

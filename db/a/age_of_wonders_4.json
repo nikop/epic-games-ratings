@@ -567,7 +567,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5915,
+  "EOS_Progressed": 5917,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 0,
@@ -8632,6 +8632,11 @@
       "Time": "2023-12-21T04:07:51.8819548+00:00",
       "NumProgressed": 5915,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-21T06:05:33.6088425+00:00",
+      "NumProgressed": 5917,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -8643,7 +8648,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "10",
@@ -8659,7 +8664,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "12",
@@ -8811,7 +8816,7 @@
       "Name": "Stronger Together",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "3",
@@ -8849,9 +8854,9 @@
       "ID": "33",
       "SetID": "3aa2279",
       "Name": "Seat of Power",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 177
+      "UsersEstimate": 237
     },
     {
       "ID": "34",
@@ -8859,7 +8864,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "35",
@@ -8915,7 +8920,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "41",
@@ -9011,7 +9016,7 @@
       "Name": "Duality",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "48",
@@ -9122,13 +9127,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5915,
+      "Progressed": 5917,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5915,
+      "Progressed": 5917,
       "Completed": 7
     }
   ],
@@ -9136,8 +9141,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-20T07:59:25.4319145+00:00",
-  "LastChanged_Achievements": "2023-12-21T04:07:51.881954+00:00",
+  "LastChanged_Achievements": "2023-12-21T06:05:33.6088423+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.6868317+00:00",
   "LastUpdate_Ratings": "2023-12-21T04:00:43.2834362+00:00",
-  "LastUpdate_Achievements": "2023-12-21T04:07:51.8820275+00:00"
+  "LastUpdate_Achievements": "2023-12-21T06:05:33.6089356+00:00"
 }

@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 202,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1481,9 +1481,9 @@
       "ID": "WildsKeeper",
       "SetID": "1jeo1g7",
       "Name": "Wild\u0027s Keeper",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 93
     },
     {
       "ID": "ApianChampion",
@@ -1537,9 +1537,9 @@
       "ID": "BehenianChampion",
       "SetID": "1jeo1g7",
       "Name": "Behenian Champion",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "BehenianHero",
@@ -1640,8 +1640,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-21T04:07:04.9995714+00:00",
+  "LastChanged_Achievements": "2023-12-21T06:04:51.5635967+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:09.6615872+00:00",
-  "LastUpdate_Ratings": "2023-12-21T03:58:11.8757468+00:00",
-  "LastUpdate_Achievements": "2023-12-21T04:07:04.9996814+00:00"
+  "LastUpdate_Ratings": "2023-12-21T05:58:00.5774937+00:00",
+  "LastUpdate_Achievements": "2023-12-21T06:04:51.5636756+00:00"
 }

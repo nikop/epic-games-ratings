@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 338,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 353,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
@@ -832,7 +832,7 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 10047,
+  "EOS_Progressed": 10048,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
@@ -13087,6 +13087,11 @@
       "Time": "2023-12-21T03:07:58.296507+00:00",
       "NumProgressed": 10047,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-21T06:08:29.6773111+00:00",
+      "NumProgressed": 10048,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 50,
@@ -13098,7 +13103,7 @@
       "Name": "Adventure Time",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 7535
+      "UsersEstimate": 7536
     },
     {
       "ID": "ACH_BOOTY_BASHING",
@@ -13106,7 +13111,7 @@
       "Name": "Booty Bashing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 3717
+      "UsersEstimate": 3718
     },
     {
       "ID": "ACH_BOSS_OF_BOSSES",
@@ -13122,7 +13127,7 @@
       "Name": "Clips and Crits",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1808
+      "UsersEstimate": 1809
     },
     {
       "ID": "ACH_COUP_DETAT",
@@ -13130,7 +13135,7 @@
       "Name": "Coup d\u0027Etat",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 5626
+      "UsersEstimate": 5627
     },
     {
       "ID": "ACH_EVENT_HORIZON",
@@ -13202,7 +13207,7 @@
       "Name": "Gunplay And Cosplay",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 5224
+      "UsersEstimate": 5225
     },
     {
       "ID": "ACH_HACKS_IN_STACKS",
@@ -13242,7 +13247,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 8741
+      "UsersEstimate": 8742
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -13298,7 +13303,7 @@
       "Name": "Photogenic",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 8339
+      "UsersEstimate": 8340
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -13306,7 +13311,7 @@
       "Name": "Playing With Power",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 7334
+      "UsersEstimate": 7335
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -13314,7 +13319,7 @@
       "Name": "Plug It In",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 7937
+      "UsersEstimate": 7938
     },
     {
       "ID": "ACH_POPPIN_NOGGINS",
@@ -13490,22 +13495,22 @@
       "Name": "You\u0027re Fired",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 5425
+      "UsersEstimate": 5426
     }
   ],
   "AchievementSets": [
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 10047,
+      "Progressed": 10048,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-12-06T04:01:07.9880717+00:00",
-  "LastChanged_Achievements": "2023-12-21T04:09:17.1490392+00:00",
+  "LastChanged_Achievements": "2023-12-21T06:08:29.6773109+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:43.1227205+00:00",
-  "LastUpdate_Ratings": "2023-12-21T04:02:43.3997829+00:00",
-  "LastUpdate_Achievements": "2023-12-21T04:09:17.1491311+00:00"
+  "LastUpdate_Ratings": "2023-12-21T06:02:47.729667+00:00",
+  "LastUpdate_Achievements": "2023-12-21T06:08:29.6773927+00:00"
 }

@@ -4,10 +4,10 @@
   "ProductSlug": "far-cry-5",
   "Ranking_Rating": 374,
   "Ranking_Popularity": 126,
-  "Ranking_PopularitySum": 189,
+  "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 813,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewPlayers": 557,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2018-03-27T10:00:00+00:00",
@@ -4339,10 +4339,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 2705,
       "NumberOfAwardsMax": 1712
+    },
+    {
+      "Time": "2023-12-21T06:02:37.7628967+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 2707,
+      "NumberOfAwardsMax": 1712
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2705,
+  "NumberOfAwards": 2707,
   "NumberOfAwardsMax": 1712,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4374,7 +4380,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 111
+      "Count": 113
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4430,8 +4436,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:47.7430658+00:00",
-  "LastChanged": "2023-12-20T23:00:10.5840267+00:00",
+  "LastChanged": "2023-12-21T06:02:37.7628965+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:34.6719117+00:00",
-  "LastUpdate_Ratings": "2023-12-21T04:00:48.7620611+00:00",
-  "LastUpdate_Achievements": "2023-12-21T04:06:29.6773444+00:00"
+  "LastUpdate_Ratings": "2023-12-21T06:02:37.7628971+00:00",
+  "LastUpdate_Achievements": "2023-12-21T06:04:20.4366182+00:00"
 }

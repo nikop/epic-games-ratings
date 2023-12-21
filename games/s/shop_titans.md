@@ -1,46 +1,46 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 1,019)  
+Rating: 3.99 (Ranked 1,020)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 9.00% | ~13,195 |
-| Basic in Bulk | 8.00% | ~11,729 |
-| Titan's First Steps | 8.00% | ~11,729 |
+| Sponsored by Argon | 9.00% | ~13,196 |
+| Basic in Bulk | 8.00% | ~11,730 |
+| Titan's First Steps | 8.00% | ~11,730 |
 | Tinkle of Coins | 7.00% | ~10,263 |
 | Disintermediation | 6.00% | ~8,797 |
 | It's Free Real Estate | 6.00% | ~8,797 |
 | Capitalism Ho! | 6.00% | ~8,797 |
-| One Easy Payment | 5.00% | ~7,330 |
-| Some Assembly Required | 5.00% | ~7,330 |
-| Another Satisfied Customer | 5.00% | ~7,330 |
-| Budding Merchant | 5.00% | ~7,330 |
-| Own the Means of Production | 5.00% | ~7,330 |
-| The Daily Grind | 4.00% | ~5,864 |
-| Bounty Hunters | 4.00% | ~5,864 |
-| Pretty Penny | 4.00% | ~5,864 |
-| One-Armed Bandit | 4.00% | ~5,864 |
-| Through Repetition, Perfection | 4.00% | ~5,864 |
-| On the Path to Greatness | 3.00% | ~4,398 |
-| Ascended | 3.00% | ~4,398 |
-| Research & Development | 3.00% | ~4,398 |
-| Vanity, Verily | 3.00% | ~4,398 |
-| Blank Page Syndrome | 3.00% | ~4,398 |
-| Demand for Supplies | 3.00% | ~4,398 |
-| Flooding the Market | 3.00% | ~4,398 |
-| Where it Hurts | 3.00% | ~4,398 |
-| Efficient Floor Space | 3.00% | ~4,398 |
-| Flawless Fusion | 3.00% | ~4,398 |
-| Gem Expert | 3.00% | ~4,398 |
-| Gild-Gotten Goods | 3.00% | ~4,398 |
-| Helping Hand | 3.00% | ~4,398 |
-| Accomplished Merchant | 3.00% | ~4,398 |
-| Dungeon Imports | 3.00% | ~4,398 |
-| Natural 20 | 3.00% | ~4,398 |
-| Did we pack lunch? | 3.00% | ~4,398 |
-| Arcane Industries | 3.00% | ~4,398 |
+| One Easy Payment | 5.00% | ~7,331 |
+| Some Assembly Required | 5.00% | ~7,331 |
+| Another Satisfied Customer | 5.00% | ~7,331 |
+| Budding Merchant | 5.00% | ~7,331 |
+| Own the Means of Production | 5.00% | ~7,331 |
+| The Daily Grind | 4.00% | ~5,865 |
+| Bounty Hunters | 4.00% | ~5,865 |
+| Where it Hurts | 4.00% | ~5,865 |
+| Pretty Penny | 4.00% | ~5,865 |
+| One-Armed Bandit | 4.00% | ~5,865 |
+| Through Repetition, Perfection | 4.00% | ~5,865 |
+| On the Path to Greatness | 3.00% | ~4,399 |
+| Ascended | 3.00% | ~4,399 |
+| Research & Development | 3.00% | ~4,399 |
+| Vanity, Verily | 3.00% | ~4,399 |
+| Blank Page Syndrome | 3.00% | ~4,399 |
+| Demand for Supplies | 3.00% | ~4,399 |
+| Flooding the Market | 3.00% | ~4,399 |
+| Efficient Floor Space | 3.00% | ~4,399 |
+| Flawless Fusion | 3.00% | ~4,399 |
+| Gem Expert | 3.00% | ~4,399 |
+| Gild-Gotten Goods | 3.00% | ~4,399 |
+| Helping Hand | 3.00% | ~4,399 |
+| Accomplished Merchant | 3.00% | ~4,399 |
+| Dungeon Imports | 3.00% | ~4,399 |
+| Natural 20 | 3.00% | ~4,399 |
+| Did we pack lunch? | 3.00% | ~4,399 |
+| Arcane Industries | 3.00% | ~4,399 |
 | A Notch Above the Rest | 2.00% | ~2,932 |
 | Cream of the Crop | 2.00% | ~2,932 |
 | Top of the World | 2.00% | ~2,932 |
@@ -105,7 +105,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Jackpot! | 1.00% | ~1,466 |
 | Eternal Crusade | 1.00% | ~1,466 |
 | Economy of Scarce | 1.00% | ~1,466 |
-| All or Nothing! | 0.90% | ~1,319 |
+| All or Nothing! | 0.90% | ~1,320 |
 | The Greatest Grind | 0.80% | ~1,173 |
 | Marvels from the World Over | 0.80% | ~1,173 |
 | Bane of Legends | 0.70% | ~1,026 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~586 |
 | Capitalist Camaraderie | 0.20% | ~293 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 146,609 (Ranked 81)  
+Progressed: 146,620 (Ranked 82)  
 Completed: 326 (0.22%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -364,7 +364,7 @@ Completed: 326 (0.22%) (Ranked 265)
 | 2023-12-18 | 146,265 | 322 |
 | 2023-12-19 | 146,428 | 325 |
 | 2023-12-20 | 146,580 | 325 |
-| 2023-12-21 | 146,609 | 326 |
+| 2023-12-21 | 146,620 | 326 |
 ## Awards
 Max (Great for Beginners): 4,900  (Ranked 75)  
 Sum: 27,769 (Ranked 52)  

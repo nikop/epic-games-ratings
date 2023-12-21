@@ -2,9 +2,9 @@
   "ID": "72a2d3937aaf45b082fc20ad5b6703ae",
   "Name": "The Making of Karateka",
   "ProductSlug": "the-making-of-karateka-7d9a6c",
-  "Ranking_EOS_Progress": 570,
+  "Ranking_EOS_Progress": 568,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewPlayers": 431,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-29T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 28,
+  "EOS_Progressed": 29,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -169,6 +169,11 @@
       "Time": "2023-12-18T00:04:35.7689929+00:00",
       "NumProgressed": 28,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T06:06:10.9631366+00:00",
+      "NumProgressed": 29,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-17T00:04:53.817175+00:00",
@@ -187,7 +192,7 @@
       "ID": "deathbouncer",
       "SetID": "l4g2eh",
       "Name": "Deathbouncer",
-      "Percentage": 57,
+      "Percentage": 55,
       "XP": 20,
       "UsersEstimate": 16
     },
@@ -195,7 +200,7 @@
       "ID": "down_ship",
       "SetID": "l4g2eh",
       "Name": "Down With The Ship",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 20,
       "UsersEstimate": 8
     },
@@ -251,7 +256,7 @@
       "ID": "minimalist",
       "SetID": "l4g2eh",
       "Name": "Minimalist",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 70,
       "UsersEstimate": 3
     },
@@ -275,7 +280,7 @@
       "ID": "one_down",
       "SetID": "l4g2eh",
       "Name": "One Down",
-      "Percentage": 50,
+      "Percentage": 48,
       "XP": 20,
       "UsersEstimate": 14
     },
@@ -291,7 +296,7 @@
       "ID": "ran_trouble",
       "SetID": "l4g2eh",
       "Name": "Ran Into Trouble",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -299,7 +304,7 @@
       "ID": "show_respect",
       "SetID": "l4g2eh",
       "Name": "Show Some Respect!",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 70,
       "UsersEstimate": 3
     },
@@ -315,7 +320,7 @@
       "ID": "sudden_death",
       "SetID": "l4g2eh",
       "Name": "Sudden Death",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -332,14 +337,14 @@
     {
       "ID": "l4g2eh",
       "IsBase": true,
-      "Progressed": 28,
+      "Progressed": 29,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-01T23:59:35.8953756+00:00",
   "FirstSeenAchievements": "2023-08-04T19:02:29.8301885+00:00",
-  "LastChanged_Achievements": "2023-12-21T04:08:33.2014341+00:00",
+  "LastChanged_Achievements": "2023-12-21T06:06:10.9631363+00:00",
   "LastUpdate_AppInfo": "2023-12-16T05:57:10.4656139+00:00",
-  "LastUpdate_Ratings": "2023-12-21T04:00:42.4008579+00:00",
-  "LastUpdate_Achievements": "2023-12-21T04:08:33.2014459+00:00"
+  "LastUpdate_Ratings": "2023-12-21T06:00:12.5742939+00:00",
+  "LastUpdate_Achievements": "2023-12-21T06:06:10.9631478+00:00"
 }

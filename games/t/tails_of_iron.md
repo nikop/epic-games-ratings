@@ -21,6 +21,7 @@ Rating: 4.57 (Ranked 482)
 | Rescue Redgi's Brothers | 0.20% | ~5 |
 | Defeat Croakhis Khan | 0.20% | ~2 |
 | Shield Maiden Yellow Tongue | 0.20% | ~2 |
+| I Remember My First Beer | 0.20% | ~2 |
 | Collect Gold | 0.10% | ~2 |
 | Collect Iron Ore | 0.10% | ~2 |
 | Return the Statues | 0.10% | ~2 |
@@ -37,7 +38,6 @@ Rating: 4.57 (Ranked 482)
 | Smithy Ready to Craft | 0.10% | ~2 |
 | Defeat the Grub Buster | 0.10% | ~1 |
 | Defeat the Stalker Queen | 0.10% | ~1 |
-| I Remember My First Beer | 0.10% | ~1 |
 | King of Kings | 0.00% | ~0 |
 | Complete Arena Faction | 0.00% | ~0 |
 | A new Warchief rises | 0.00% | ~0 |

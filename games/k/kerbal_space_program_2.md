@@ -1,11 +1,11 @@
 # Kerbal Space Program 2
 [Store](https://store.epicgames.com/en-US/p/kerbal-space-program-2)  
 [View Rawdata](../../db/k/kerbal_space_program_2.json)  
-Rating: 4.15 (Ranked 966)  
+Rating: 4.15 (Ranked 967)  
 ## Awards
-Max (Educational): 30  (Ranked 508)  
+Max (Educational): 30  (Ranked 509)  
 Sum: 205 (Ranked 406)  
-Diff (max vs sum): 102  
+Diff (max vs sum): 103  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 30 |

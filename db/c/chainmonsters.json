@@ -2,12 +2,12 @@
   "ID": "f38ace8ec02445d7a0262a886b90bd40",
   "Name": "Chainmonsters",
   "ProductSlug": "chainmonsters-blockchain-nft-857392",
-  "Ranking_Rating": 1061,
+  "Ranking_Rating": 1062,
   "Ranking_Popularity": 569,
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 813,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewPlayers": 557,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-03-08T20:30:00+00:00",
@@ -67,6 +67,6 @@
   "FirstSeenRating": "2023-03-31T05:57:40.1233993+00:00",
   "LastChanged": "2023-06-28T07:59:44.2314756+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:35.927913+00:00",
-  "LastUpdate_Ratings": "2023-12-21T03:58:45.5453677+00:00",
-  "LastUpdate_Achievements": "2023-12-21T04:06:02.0210685+00:00"
+  "LastUpdate_Ratings": "2023-12-21T05:58:30.3112803+00:00",
+  "LastUpdate_Achievements": "2023-12-21T06:03:55.3310019+00:00"
 }

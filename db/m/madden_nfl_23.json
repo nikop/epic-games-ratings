@@ -2,7 +2,7 @@
   "ID": "5f4daf40211246acaddd707f7b4e8f56",
   "Name": "Madden NFL 23",
   "ProductSlug": "madden-nfl-23",
-  "Ranking_Rating": 857,
+  "Ranking_Rating": 858,
   "Ranking_Popularity": 463,
   "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 204,
@@ -7571,9 +7571,9 @@
       "ID": "achievement_3",
       "SetID": "c8fif6p",
       "Name": "Throwin\u2019 Dots",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 693
+      "UsersEstimate": 734
     },
     {
       "ID": "achievement_4",
@@ -7636,8 +7636,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-12-21T01:44:12.9445895+00:00",
-  "LastChanged_Achievements": "2023-12-21T04:06:43.027624+00:00",
+  "LastChanged_Achievements": "2023-12-21T06:04:31.9964208+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:51.9510539+00:00",
-  "LastUpdate_Ratings": "2023-12-21T03:58:23.9224481+00:00",
-  "LastUpdate_Achievements": "2023-12-21T04:06:43.0276662+00:00"
+  "LastUpdate_Ratings": "2023-12-21T05:58:11.2494867+00:00",
+  "LastUpdate_Achievements": "2023-12-21T06:04:31.9964684+00:00"
 }

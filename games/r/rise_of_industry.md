@@ -1,23 +1,23 @@
 # Rise of Industry
 [Store](https://store.epicgames.com/en-US/p/rise-of-industry-0af838)  
 [View Rawdata](../../db/r/rise_of_industry.json)  
-Rating: 4.24 (Ranked 900)  
+Rating: 4.24 (Ranked 901)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 48.00% | ~365,203 |
-| Well educated | 37.00% | ~281,511 |
-| City Planner | 19.00% | ~144,560 |
-| Deforester | 17.00% | ~129,343 |
-| Big Hauling | 16.00% | ~121,734 |
-| Apprentice Manufacturer | 13.00% | ~98,909 |
-| Exporter | 13.00% | ~98,909 |
-| I would drive 500 tiles... | 12.00% | ~91,301 |
-| Landscaper | 12.00% | ~91,301 |
-| Railwayman | 8.00% | ~60,867 |
-| Penniless | 6.00% | ~45,650 |
-| Massive Gains | 6.00% | ~45,650 |
-| Salesman | 3.00% | ~22,825 |
+| Entrepreneur | 48.00% | ~365,212 |
+| Well educated | 37.00% | ~281,517 |
+| City Planner | 19.00% | ~144,563 |
+| Deforester | 17.00% | ~129,346 |
+| Big Hauling | 16.00% | ~121,737 |
+| Apprentice Manufacturer | 13.00% | ~98,912 |
+| Exporter | 13.00% | ~98,912 |
+| I would drive 500 tiles... | 12.00% | ~91,303 |
+| Landscaper | 12.00% | ~91,303 |
+| Railwayman | 8.00% | ~60,869 |
+| Penniless | 6.00% | ~45,651 |
+| Massive Gains | 6.00% | ~45,651 |
+| Salesman | 3.00% | ~22,826 |
 | Engineer | 2.00% | ~15,217 |
 | High Flyer | 2.00% | ~15,217 |
 | Captain | 0.80% | ~6,087 |
@@ -33,7 +33,7 @@ Rating: 4.24 (Ranked 900)
 | Master Builder | 0.10% | ~761 |
 | Hard working | 0.10% | ~761 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 760,840 (Ranked 20)  
+Progressed: 760,858 (Ranked 20)  
 Completed: 4 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 4 (0.00%) (Ranked 384)
 | 2023-12-18 | 760,331 | 4 |
 | 2023-12-19 | 760,548 | 4 |
 | 2023-12-20 | 760,795 | 4 |
-| 2023-12-21 | 760,840 | 4 |
+| 2023-12-21 | 760,858 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

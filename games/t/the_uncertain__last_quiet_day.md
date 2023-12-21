@@ -1,30 +1,30 @@
 # The Uncertain: Last Quiet Day
 [Store](https://store.epicgames.com/en-US/p/the-uncertain-last-quiet-day)  
 [View Rawdata](../../db/t/the_uncertain__last_quiet_day.json)  
-Rating: 3.75 (Ranked 1,058)  
+Rating: 3.75 (Ranked 1,059)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I can do a thing or two | 60.00% | ~360 |
-| Buckle up | 59.00% | ~354 |
-| Quick charge | 59.00% | ~354 |
-| Hands up! | 53.00% | ~318 |
-| Now you know | 53.00% | ~318 |
-| Short circuit | 53.00% | ~318 |
+| I can do a thing or two | 60.00% | ~361 |
+| Buckle up | 59.00% | ~355 |
+| Quick charge | 59.00% | ~355 |
+| Hands up! | 53.00% | ~319 |
+| Now you know | 53.00% | ~319 |
+| Short circuit | 53.00% | ~319 |
 | Curious | 43.00% | ~258 |
 | Everybody lies | 36.00% | ~216 |
 | Trick or Treat? | 24.00% | ~144 |
 | There is another way | 23.00% | ~138 |
 | Sysadmin | 22.00% | ~132 |
 | Every little helps | 21.00% | ~126 |
-| Annoying | 20.00% | ~120 |
-| Hacker | 20.00% | ~120 |
 | The Walking Robot Among Us | 20.00% | ~120 |
+| Annoying | 19.00% | ~114 |
+| Hacker | 19.00% | ~114 |
 | He is just a child | 19.00% | ~114 |
 | Uncertain | 18.00% | ~108 |
-| Ace | 17.00% | ~102 |
 | Goody | 17.00% | ~102 |
 | Please oh pleeease! | 17.00% | ~102 |
+| Ace | 16.00% | ~96 |
 | Concrete painting | 16.00% | ~96 |
 | Found it! | 16.00% | ~96 |
 | Hipster | 16.00% | ~96 |
@@ -38,8 +38,8 @@ Rating: 3.75 (Ranked 1,058)
 | Accurate | 5.00% | ~30 |
 | Silent | 4.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 600 (Ranked 316)  
-Completed: 19 (3.17%) (Ranked 109)  
+Progressed: 601 (Ranked 316)  
+Completed: 19 (3.16%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -171,6 +171,7 @@ Completed: 19 (3.17%) (Ranked 109)
 | 2023-12-18 | 596 | 19 |
 | 2023-12-19 | 599 | 19 |
 | 2023-12-20 | 600 | 19 |
+| 2023-12-21 | 601 | 19 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

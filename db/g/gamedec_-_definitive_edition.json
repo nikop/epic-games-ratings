@@ -2,12 +2,12 @@
   "ID": "b8abdf9f9bc64ed6b4128a71fd47607f",
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
-  "Ranking_Rating": 857,
+  "Ranking_Rating": 858,
   "Ranking_Popularity": 384,
   "Ranking_PopularitySum": 463,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
@@ -495,9 +495,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 255192,
+  "EOS_Progressed": 255198,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 612,
+  "EOS_NewPlayers": 616,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27885,6 +27885,11 @@
       "Time": "2023-12-21T04:06:44.8269986+00:00",
       "NumProgressed": 255192,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-21T06:04:33.6212762+00:00",
+      "NumProgressed": 255198,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -27896,7 +27901,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 68902
+      "UsersEstimate": 68903
     },
     {
       "ID": "ACH_AON",
@@ -27936,7 +27941,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 30623
+      "UsersEstimate": 30624
     },
     {
       "ID": "ACH_ENJOY",
@@ -27960,7 +27965,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 33175
+      "UsersEstimate": 33176
     },
     {
       "ID": "ACH_HATTRICK",
@@ -27976,7 +27981,7 @@
       "Name": "Elementary!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 22967
+      "UsersEstimate": 22968
     },
     {
       "ID": "ACH_HIDEANDSEEK",
@@ -28040,7 +28045,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 74006
+      "UsersEstimate": 74007
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -28112,7 +28117,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 63798
+      "UsersEstimate": 63800
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -28168,7 +28173,7 @@
       "Name": "It\u0027s honest work",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 17863
+      "UsersEstimate": 17864
     },
     {
       "ID": "ACH_MEMESMART",
@@ -28200,7 +28205,7 @@
       "Name": "Griever",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 20415
+      "UsersEstimate": 20416
     },
     {
       "ID": "ACH_PUMPKINJACK",
@@ -28208,7 +28213,7 @@
       "Name": "Pumpkin Jack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 20415
+      "UsersEstimate": 20416
     },
     {
       "ID": "ACH_SCRATCH",
@@ -28216,7 +28221,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 63798
+      "UsersEstimate": 63800
     },
     {
       "ID": "ACH_SOREAD",
@@ -28288,7 +28293,7 @@
       "Name": "Wake up!",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 20415
+      "UsersEstimate": 20416
     },
     {
       "ID": "ACH_WELLDESERVED",
@@ -28311,7 +28316,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 255192,
+      "Progressed": 255198,
       "Completed": 7
     }
   ],
@@ -28319,8 +28324,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-11-30T10:59:11.8312964+00:00",
-  "LastChanged_Achievements": "2023-12-21T04:06:44.8269982+00:00",
+  "LastChanged_Achievements": "2023-12-21T06:04:33.6212759+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:10.8864766+00:00",
-  "LastUpdate_Ratings": "2023-12-21T04:03:43.1921439+00:00",
-  "LastUpdate_Achievements": "2023-12-21T04:06:44.8271651+00:00"
+  "LastUpdate_Ratings": "2023-12-21T06:03:03.9072979+00:00",
+  "LastUpdate_Achievements": "2023-12-21T06:04:33.6214556+00:00"
 }

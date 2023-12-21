@@ -1,22 +1,22 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.20 (Ranked 932)  
+Rating: 4.20 (Ranked 933)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Flesh Wound | 14.00% | ~2,566 |
 | Get a Grip | 14.00% | ~2,566 |
 | The Outer Way | 14.00% | ~2,566 |
-| Paper Jams | 13.00% | ~2,382 |
-| Desperate Times | 13.00% | ~2,382 |
+| Paper Jams | 13.00% | ~2,383 |
+| Desperate Times | 13.00% | ~2,383 |
 | Chew 'Em Up | 11.00% | ~2,016 |
 | Float Like A Butterfly | 11.00% | ~2,016 |
-| Reforged | 10.00% | ~1,832 |
-| Workplace Hazard | 9.00% | ~1,649 |
-| If the SHU Fits... | 9.00% | ~1,649 |
+| Reforged | 10.00% | ~1,833 |
+| Workplace Hazard | 9.00% | ~1,650 |
+| If the SHU Fits... | 9.00% | ~1,650 |
+| Without A Paddle | 8.00% | ~1,466 |
 | Two Heads Are Better Than One | 7.00% | ~1,283 |
-| Without A Paddle | 7.00% | ~1,283 |
 | In the Pipe, Five by Five | 7.00% | ~1,283 |
 | Crash Site | 7.00% | ~1,283 |
 | You Need a Gun | 6.00% | ~1,100 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 932)
 | Bear Trap | 0.10% | ~6 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,325 (Ranked 149)  
+Progressed: 18,330 (Ranked 149)  
 Completed: 82 (0.45%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 82 (0.45%) (Ranked 223)
 | 2023-12-18 | 17,946 | 82 |
 | 2023-12-19 | 18,137 | 82 |
 | 2023-12-20 | 18,301 | 82 |
-| 2023-12-21 | 18,325 | 82 |
+| 2023-12-21 | 18,330 | 82 |
 ## Awards
 Max (Quickly Understood Controls): 89  (Ranked 388)  
 Sum: 533 (Ranked 326)  

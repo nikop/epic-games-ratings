@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17224,
+  "EOS_Progressed": 17225,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -16600,6 +16600,11 @@
       "Time": "2023-12-21T03:04:32.409377+00:00",
       "NumProgressed": 17224,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-12-21T06:04:56.1071579+00:00",
+      "NumProgressed": 17225,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 41,
@@ -16619,7 +16624,7 @@
       "Name": "Rebel without a cause",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "tpote_achievement_11",
@@ -16667,7 +16672,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2411
+      "UsersEstimate": 2412
     },
     {
       "ID": "tpote_achievement_17",
@@ -16787,7 +16792,7 @@
       "Name": "Let there be darkness",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5339
+      "UsersEstimate": 5340
     },
     {
       "ID": "tpote_achievement_30",
@@ -16811,7 +16816,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2411
+      "UsersEstimate": 2412
     },
     {
       "ID": "tpote_achievement_33",
@@ -16938,15 +16943,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17224,
+      "Progressed": 17225,
       "Completed": 119
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2023-12-21T04:07:09.999621+00:00",
+  "LastChanged_Achievements": "2023-12-21T06:04:56.1071577+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:13.9933566+00:00",
-  "LastUpdate_Ratings": "2023-12-21T03:59:45.6941975+00:00",
-  "LastUpdate_Achievements": "2023-12-21T04:07:09.9997164+00:00"
+  "LastUpdate_Ratings": "2023-12-21T05:59:23.554665+00:00",
+  "LastUpdate_Achievements": "2023-12-21T06:04:56.1072339+00:00"
 }

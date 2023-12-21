@@ -4649,7 +4649,7 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12553,
+  "EOS_Progressed": 12554,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 251,
   "EOS_NewCompleters": 0,
@@ -17504,6 +17504,11 @@
       "Time": "2023-12-21T03:09:34.2645861+00:00",
       "NumProgressed": 12553,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T06:10:03.1158781+00:00",
+      "NumProgressed": 12554,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -17515,7 +17520,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3389
+      "UsersEstimate": 3390
     },
     {
       "ID": "02_BurningCity",
@@ -17531,7 +17536,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1758
     },
     {
       "ID": "04_FithCrusade",
@@ -17763,7 +17768,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2008
+      "UsersEstimate": 2009
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -18442,21 +18447,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11335,
+      "Progressed": 11336,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12553,
+      "Progressed": 12554,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-20T12:57:52.3940671+00:00",
-  "LastChanged_Achievements": "2023-12-21T04:11:52.4353289+00:00",
+  "LastChanged_Achievements": "2023-12-21T06:10:03.115878+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.7532096+00:00",
-  "LastUpdate_Ratings": "2023-12-21T03:58:08.320547+00:00",
-  "LastUpdate_Achievements": "2023-12-21T04:11:52.4355409+00:00"
+  "LastUpdate_Ratings": "2023-12-21T05:57:57.4399126+00:00",
+  "LastUpdate_Achievements": "2023-12-21T06:10:03.1160543+00:00"
 }

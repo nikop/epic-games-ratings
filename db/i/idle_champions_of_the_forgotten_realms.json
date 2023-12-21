@@ -2,13 +2,13 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 1001,
+  "Ranking_Rating": 1002,
   "Ranking_Popularity": 70,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 171,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8929,10 +8929,10 @@
       "Count": 3581
     }
   ],
-  "EOS_Progressed": 242474,
+  "EOS_Progressed": 242497,
   "EOS_Completed": 2548,
-  "EOS_NewPlayers": 2541,
-  "EOS_NewCompleters": 28,
+  "EOS_NewPlayers": 2529,
+  "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
     {
@@ -36549,6 +36549,11 @@
       "Time": "2023-12-21T04:11:58.4042017+00:00",
       "NumProgressed": 242474,
       "NumCompleted": 2548
+    },
+    {
+      "Time": "2023-12-21T06:10:09.5090531+00:00",
+      "NumProgressed": 242497,
+      "NumCompleted": 2548
     }
   ],
   "TotalAchievements": 546,
@@ -40832,7 +40837,7 @@
       "Name": "Arcane Suppression",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "objective_completed_1352",
@@ -40840,7 +40845,7 @@
       "Name": "Welcome to the Vrocks",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "objective_completed_1557",
@@ -40927,21 +40932,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 208748,
+      "Progressed": 208771,
       "Completed": 4052
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 242474,
+      "Progressed": 242497,
       "Completed": 2548
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-21T04:03:08.2604662+00:00",
-  "LastChanged_Achievements": "2023-12-21T04:11:58.4042013+00:00",
+  "LastChanged_Achievements": "2023-12-21T06:10:09.5090529+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:52.1318001+00:00",
-  "LastUpdate_Ratings": "2023-12-21T04:03:08.2604667+00:00",
-  "LastUpdate_Achievements": "2023-12-21T04:11:58.4064647+00:00"
+  "LastUpdate_Ratings": "2023-12-21T06:02:52.8516353+00:00",
+  "LastUpdate_Achievements": "2023-12-21T06:10:09.5114228+00:00"
 }

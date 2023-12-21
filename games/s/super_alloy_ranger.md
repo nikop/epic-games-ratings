@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iceberg Theory | 78.00% | ~101 |
-| Gear Up | 67.00% | ~87 |
-| A Grand Show | 67.00% | ~87 |
+| Iceberg Theory | 78.00% | ~102 |
+| Gear Up | 66.00% | ~86 |
+| A Grand Show | 66.00% | ~86 |
 | Freshen Up | 53.00% | ~69 |
 | GG EZ | 53.00% | ~69 |
-| Hydrophobia | 38.00% | ~49 |
-| Ka-Ching! | 32.00% | ~42 |
-| Stop Right There | 28.00% | ~36 |
+| Hydrophobia | 38.00% | ~50 |
+| Ka-Ching! | 31.00% | ~41 |
+| Stop Right There | 27.00% | ~35 |
 | Get to the Point | 26.00% | ~34 |
 | Phew! | 16.00% | ~21 |
 | Mr. Want It All | 15.00% | ~20 |
@@ -22,15 +22,15 @@
 | Grand Escape | 9.00% | ~12 |
 | The Fortress Conqueror | 8.00% | ~10 |
 | Keep it Up, rookie! | 8.00% | ~10 |
-| The Deep Frozen Conqueror | 5.00% | ~6 |
-| The Infinite Train Conqueror | 5.00% | ~6 |
-| The Paradox Coordinate Conqueror | 5.00% | ~6 |
-| The Inactivated Frozen Conqueror | 5.00% | ~6 |
-| The Hypergravitational Abyss Conqueror | 5.00% | ~6 |
-| he Ultra Fortress Conqueror | 5.00% | ~6 |
-| Antaeus | 5.00% | ~6 |
-| Hell of a Fight | 5.00% | ~6 |
-| Decapitation Strike | 5.00% | ~6 |
+| The Deep Frozen Conqueror | 5.00% | ~7 |
+| The Infinite Train Conqueror | 5.00% | ~7 |
+| The Paradox Coordinate Conqueror | 5.00% | ~7 |
+| The Inactivated Frozen Conqueror | 5.00% | ~7 |
+| The Hypergravitational Abyss Conqueror | 5.00% | ~7 |
+| he Ultra Fortress Conqueror | 5.00% | ~7 |
+| Antaeus | 5.00% | ~7 |
+| Hell of a Fight | 5.00% | ~7 |
+| Decapitation Strike | 5.00% | ~7 |
 | The Sunken City Conqueror | 4.00% | ~5 |
 | The Zero Dimensional Capital Conqueror | 4.00% | ~5 |
 | Death Bringer Conqueror | 4.00% | ~5 |
@@ -55,8 +55,8 @@
 | Bullets Fear Me | 0.80% | ~1 |
 | Super Alloy Ranger! | 0.80% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130 (Ranked 440)  
-Completed: 1 (0.77%) (Ranked 191)  
+Progressed: 131 (Ranked 439)  
+Completed: 1 (0.76%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -128,7 +128,7 @@ Completed: 1 (0.77%) (Ranked 191)
 | 2023-12-15 | 126 | 1 |
 | 2023-12-16 | 127 | 1 |
 | 2023-12-17 | 129 | 1 |
-| 2023-12-21 | 130 | 1 |
+| 2023-12-21 | 131 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -30,6 +30,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Spine Breaker | 0.60% | ~1,448 |
 | C-C-Combo | 0.60% | ~1,448 |
 | Deflection | 0.60% | ~1,448 |
+| Toxic | 0.60% | ~1,448 |
 | Sneaky | 0.60% | ~1,448 |
 | Consecutive Curses | 0.50% | ~1,207 |
 | Dig Your Own Grave | 0.50% | ~1,207 |
@@ -40,25 +41,24 @@ Number of Ratings: 15,086  (23.09.2022)
 | Destroy Your Fears | 0.50% | ~1,207 |
 | Shootout | 0.50% | ~1,207 |
 | Stone Touch | 0.50% | ~1,207 |
-| Toxic | 0.50% | ~1,207 |
 | Shadow Walker | 0.50% | ~1,207 |
 | Flesh Wound | 0.50% | ~1,207 |
 | Shapeshifting | 0.50% | ~1,207 |
 | Expensive Look | 0.50% | ~14 |
 | What Doesn't Kill You | 0.50% | ~14 |
-| Shadow Spreads | 0.40% | ~965 |
-| To The Death! | 0.40% | ~965 |
-| Well Prepared | 0.40% | ~965 |
-| Just Chilling | 0.40% | ~965 |
-| Save Our Souls | 0.40% | ~965 |
-| Don't Ignore Me! | 0.40% | ~965 |
-| All Consuming | 0.40% | ~965 |
-| Stop Hitting Yourself | 0.40% | ~965 |
-| Illuminate, Eliminate | 0.40% | ~965 |
-| Doing Time | 0.40% | ~965 |
-| Spreading Plague | 0.40% | ~965 |
-| Acid Bath | 0.40% | ~965 |
-| New Perspectives | 0.40% | ~965 |
+| Shadow Spreads | 0.40% | ~966 |
+| To The Death! | 0.40% | ~966 |
+| Well Prepared | 0.40% | ~966 |
+| Just Chilling | 0.40% | ~966 |
+| Save Our Souls | 0.40% | ~966 |
+| Don't Ignore Me! | 0.40% | ~966 |
+| All Consuming | 0.40% | ~966 |
+| Stop Hitting Yourself | 0.40% | ~966 |
+| Illuminate, Eliminate | 0.40% | ~966 |
+| Doing Time | 0.40% | ~966 |
+| Spreading Plague | 0.40% | ~966 |
+| Acid Bath | 0.40% | ~966 |
+| New Perspectives | 0.40% | ~966 |
 | Thank You, Friend | 0.30% | ~724 |
 | Max Damage! | 0.30% | ~724 |
 | A Rough Road | 0.30% | ~724 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,373 (Ranked 66)  
+Progressed: 241,379 (Ranked 66)  
 Completed: 300 (0.12%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -390,7 +390,7 @@ Completed: 300 (0.12%) (Ranked 295)
 | 2023-12-18 | 241,266 | 299 |
 | 2023-12-19 | 241,311 | 300 |
 | 2023-12-20 | 241,359 | 300 |
-| 2023-12-21 | 241,373 | 300 |
+| 2023-12-21 | 241,379 | 300 |
 ## Awards
 Max (Quickly Understood Controls): 1,511  (Ranked 134)  
 Sum: 11,749 (Ranked 88)  

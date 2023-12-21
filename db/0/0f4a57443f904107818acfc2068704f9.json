@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 919,
+  "EOS_Progressed": 920,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2157,6 +2157,11 @@
       "Time": "2023-12-21T00:07:40.0706881+00:00",
       "NumProgressed": 919,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T06:06:08.8815423+00:00",
+      "NumProgressed": 920,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -2177,7 +2182,7 @@
       "Name": "Territorial",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "Capture100VictoryPoints",
@@ -2225,7 +2230,7 @@
       "Name": "Pathfinder",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "CompleteChapter10",
@@ -2241,7 +2246,7 @@
       "Name": "The Artefact is Mine",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "CompleteChapter12",
@@ -2329,7 +2334,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "CompleteChapter5",
@@ -2417,7 +2422,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "Win100OnlineMatched",
@@ -2464,14 +2469,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 919,
+      "Progressed": 920,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-21T04:08:30.7039302+00:00",
+  "LastChanged_Achievements": "2023-12-21T06:06:08.8815422+00:00",
   "LastUpdate_AppInfo": "2023-12-15T09:57:06.988595+00:00",
-  "LastUpdate_Ratings": "2023-12-21T03:57:46.6531712+00:00",
-  "LastUpdate_Achievements": "2023-12-21T04:08:30.7039581+00:00"
+  "LastUpdate_Ratings": "2023-12-21T05:57:38.2915262+00:00",
+  "LastUpdate_Achievements": "2023-12-21T06:06:08.8815697+00:00"
 }

@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 1,001)  
+Rating: 4.06 (Ranked 1,002)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -22,8 +22,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mind Spike | 0.30% | ~626 |
 | The Ring of Regeneration | 0.20% | ~485 |
 | Are Ya Chicken? | 0.20% | ~485 |
-| Arcane Suppression | 0.20% | ~417 |
-| Welcome to the Vrocks | 0.20% | ~417 |
+| Arcane Suppression | 0.20% | ~418 |
+| Welcome to the Vrocks | 0.20% | ~418 |
 | Maddening | 0.10% | ~242 |
 | Pros and CONs | 0.10% | ~242 |
 | Upholding the Law | 0.10% | ~242 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~209 |
 | The Brains of an Illithid's Desire | 0.10% | ~209 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,474 (Ranked 65)  
+Progressed: 242,497 (Ranked 65)  
 Completed: 2,548 (1.05%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -798,7 +798,7 @@ Completed: 2,548 (1.05%) (Ranked 171)
 | 2023-12-18 | 241,838 | 2,541 |
 | 2023-12-19 | 242,122 | 2,544 |
 | 2023-12-20 | 242,412 | 2,546 |
-| 2023-12-21 | 242,474 | 2,548 |
+| 2023-12-21 | 242,497 | 2,548 |
 ## Awards
 Max (Great for Beginners): 5,665  (Ranked 70)  
 Sum: 32,980 (Ranked 41)  

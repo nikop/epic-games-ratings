@@ -2,12 +2,12 @@
   "ID": "144f9e231e2846d1a4381d9bb678f69d",
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
   "ProductSlug": "warhammer-mechanicus-0e4b71",
-  "Ranking_Rating": 701,
+  "Ranking_Rating": 703,
   "Ranking_Popularity": 260,
   "Ranking_PopularitySum": 209,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -1026,9 +1026,9 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 229944,
+  "EOS_Progressed": 229947,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 617,
+  "EOS_NewPlayers": 614,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27811,6 +27811,11 @@
       "Time": "2023-12-21T04:11:46.9660566+00:00",
       "NumProgressed": 229944,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-21T06:09:58.09176+00:00",
+      "NumProgressed": 229947,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -27830,7 +27835,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 59785
+      "UsersEstimate": 59786
     },
     {
       "ID": "ACH_BASE_11",
@@ -27870,7 +27875,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22994
+      "UsersEstimate": 22995
     },
     {
       "ID": "ACH_BASE_17",
@@ -27886,7 +27891,7 @@
       "Name": "Radium Ready",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22994
+      "UsersEstimate": 22995
     },
     {
       "ID": "ACH_BASE_19",
@@ -28093,7 +28098,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 229944,
+      "Progressed": 229947,
       "Completed": 5
     }
   ],
@@ -28101,8 +28106,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-12-18T15:00:10.8258154+00:00",
-  "LastChanged_Achievements": "2023-12-21T04:11:46.9660562+00:00",
+  "LastChanged_Achievements": "2023-12-21T06:09:58.0917598+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:11.0870994+00:00",
-  "LastUpdate_Ratings": "2023-12-21T03:58:13.0761656+00:00",
-  "LastUpdate_Achievements": "2023-12-21T04:11:46.9662621+00:00"
+  "LastUpdate_Ratings": "2023-12-21T05:58:01.6298532+00:00",
+  "LastUpdate_Achievements": "2023-12-21T06:09:58.0919103+00:00"
 }

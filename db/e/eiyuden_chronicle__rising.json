@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -191,11 +191,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 754,
+  "EOS_Progressed": 755,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.96,
+  "EOS_Completed_Percentage": 7.95,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:45.6416158+00:00",
@@ -611,6 +611,11 @@
       "Time": "2023-12-20T14:05:45.3740888+00:00",
       "NumProgressed": 754,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-21T06:05:54.0919291+00:00",
+      "NumProgressed": 755,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 50,
@@ -622,7 +627,7 @@
       "Name": "Plenty More to Go",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "ACHIEVEMENT002",
@@ -630,7 +635,7 @@
       "Name": "Partners?",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "ACHIEVEMENT003",
@@ -638,7 +643,7 @@
       "Name": "...And Your Tax Money",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ACHIEVEMENT004",
@@ -686,7 +691,7 @@
       "Name": "The Road to Recovery",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "ACHIEVEMENT010",
@@ -702,7 +707,7 @@
       "Name": "A Girl About the Town",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "ACHIEVEMENT012",
@@ -710,7 +715,7 @@
       "Name": "The Go-To Girl",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "ACHIEVEMENT013",
@@ -726,7 +731,7 @@
       "Name": "A Local Hero",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ACHIEVEMENT015",
@@ -750,7 +755,7 @@
       "Name": "Adept, for an Acting Mayor",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ACHIEVEMENT018",
@@ -798,7 +803,7 @@
       "Name": "Armor Master",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ACHIEVEMENT024",
@@ -806,7 +811,7 @@
       "Name": "Amateur Adventurer",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "ACHIEVEMENT025",
@@ -814,7 +819,7 @@
       "Name": "Hopeful Hunter",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "ACHIEVEMENT026",
@@ -828,17 +833,17 @@
       "ID": "ACHIEVEMENT027",
       "SetID": "dejhjd5",
       "Name": "Natural Born Monster-Killer",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 271
+      "UsersEstimate": 264
     },
     {
       "ID": "ACHIEVEMENT028",
       "SetID": "dejhjd5",
       "Name": "On Outlander Lane",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 400
+      "UsersEstimate": 393
     },
     {
       "ID": "ACHIEVEMENT029",
@@ -854,7 +859,7 @@
       "Name": "Gourmand",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ACHIEVEMENT031",
@@ -870,7 +875,7 @@
       "Name": "Sommelier",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ACHIEVEMENT033",
@@ -886,7 +891,7 @@
       "Name": "Money, Money, Money",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ACHIEVEMENT035",
@@ -894,7 +899,7 @@
       "Name": "First Time Fishing",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "ACHIEVEMENT036",
@@ -902,7 +907,7 @@
       "Name": "First Time Hunting",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "ACHIEVEMENT037",
@@ -910,7 +915,7 @@
       "Name": "Rune Wall Wreckage",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "ACHIEVEMENT038",
@@ -926,7 +931,7 @@
       "Name": "Meat Master",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACHIEVEMENT040",
@@ -934,7 +939,7 @@
       "Name": "Rune Wall Master",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ACHIEVEMENT041",
@@ -990,7 +995,7 @@
       "Name": "Champion of the Quarry",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ACHIEVEMENT048",
@@ -1006,7 +1011,7 @@
       "Name": "Champion of the Lava Ruins",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ACHIEVEMENT050",
@@ -1021,15 +1026,15 @@
     {
       "ID": "dejhjd5",
       "IsBase": true,
-      "Progressed": 754,
+      "Progressed": 755,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-12-03T09:59:31.596296+00:00",
-  "LastChanged_Achievements": "2023-12-21T04:08:14.9391113+00:00",
+  "LastChanged_Achievements": "2023-12-21T06:05:54.0919287+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:14.9591133+00:00",
-  "LastUpdate_Ratings": "2023-12-21T03:58:30.3235749+00:00",
-  "LastUpdate_Achievements": "2023-12-21T04:08:14.9391448+00:00"
+  "LastUpdate_Ratings": "2023-12-21T05:58:16.817523+00:00",
+  "LastUpdate_Achievements": "2023-12-21T06:05:54.0919625+00:00"
 }

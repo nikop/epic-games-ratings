@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~598 |
-| Training Simulation | 79.00% | ~508 |
-| Kuku Bird Hunter | 66.00% | ~424 |
+| Travel Streamer | 93.00% | ~599 |
+| Training Simulation | 79.00% | ~509 |
+| Kuku Bird Hunter | 66.00% | ~425 |
 | Storm Traveller | 60.00% | ~386 |
 | Wolf King Killer | 55.00% | ~354 |
 | Fashion Connoisseur | 53.00% | ~341 |
-| Arms Mechanic | 49.00% | ~315 |
+| Arms Mechanic | 48.00% | ~309 |
 | Flower Thief | 44.00% | ~283 |
 | Apostle of Flame | 39.00% | ~251 |
 | Beginner Cook | 37.00% | ~238 |
@@ -50,8 +50,8 @@
 | Giantess Challenge | 1.00% | ~6 |
 | Warden Challenge | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 643 (Ranked 309)  
-Completed: 1 (0.16%) (Ranked 281)  
+Progressed: 644 (Ranked 309)  
+Completed: 1 (0.16%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -157,7 +157,7 @@ Completed: 1 (0.16%) (Ranked 281)
 | 2023-12-18 | 632 | 1 |
 | 2023-12-19 | 636 | 1 |
 | 2023-12-20 | 642 | 1 |
-| 2023-12-21 | 643 | 1 |
+| 2023-12-21 | 644 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

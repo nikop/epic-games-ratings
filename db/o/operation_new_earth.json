@@ -2,7 +2,7 @@
   "ID": "fa9a00f7f82846b4b820e6152b69aa55",
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
-  "Ranking_Rating": 1066,
+  "Ranking_Rating": 1067,
   "Ranking_Popularity": 569,
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 234,
@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2056,
+  "EOS_Progressed": 2057,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7859,6 +7859,11 @@
       "Time": "2023-12-21T00:04:58.6606177+00:00",
       "NumProgressed": 2056,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T06:04:19.9389368+00:00",
+      "NumProgressed": 2057,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7886,7 +7891,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ach_defeat_players_100",
@@ -7934,7 +7939,7 @@
       "Name": "Silver Competitor",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -7982,7 +7987,7 @@
       "Name": "Corporal",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -8118,7 +8123,7 @@
       "Name": "Factory Expansion",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -8173,7 +8178,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2056,
+      "Progressed": 2057,
       "Completed": 1
     }
   ],
@@ -8181,8 +8186,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-11T08:59:11.5639448+00:00",
-  "LastChanged_Achievements": "2023-12-21T04:06:29.0886561+00:00",
+  "LastChanged_Achievements": "2023-12-21T06:04:19.9389367+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:15.2562842+00:00",
-  "LastUpdate_Ratings": "2023-12-21T03:59:51.9526824+00:00",
-  "LastUpdate_Achievements": "2023-12-21T04:06:29.088721+00:00"
+  "LastUpdate_Ratings": "2023-12-21T05:59:28.8636096+00:00",
+  "LastUpdate_Achievements": "2023-12-21T06:04:19.9389863+00:00"
 }

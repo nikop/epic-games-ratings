@@ -2,12 +2,12 @@
   "ID": "bd46d4ce259349e5bd8b3ded20274737",
   "Name": "Chivalry 2",
   "ProductSlug": "chivalry-2",
-  "Ranking_Rating": 422,
+  "Ranking_Rating": 423,
   "Ranking_Popularity": 74,
   "Ranking_PopularitySum": 43,
   "Ranking_EOS_Progress": 813,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewPlayers": 557,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-06-08T15:00:00+00:00",
@@ -10581,6 +10581,6 @@
   "FirstSeen": "2022-07-22T20:20:08.5003131+00:00",
   "LastChanged": "2023-12-21T01:43:07.4253916+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:44.3719424+00:00",
-  "LastUpdate_Ratings": "2023-12-21T03:57:19.7105091+00:00",
-  "LastUpdate_Achievements": "2023-12-21T04:07:20.9570686+00:00"
+  "LastUpdate_Ratings": "2023-12-21T05:57:14.9668854+00:00",
+  "LastUpdate_Achievements": "2023-12-21T06:05:05.6064346+00:00"
 }

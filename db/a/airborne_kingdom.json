@@ -2,11 +2,11 @@
   "ID": "e1809e1742cb498080d8849b11a99c5a",
   "Name": "Airborne Kingdom",
   "ProductSlug": "airborne-kingdom",
-  "Ranking_Rating": 320,
+  "Ranking_Rating": 319,
   "Ranking_Popularity": 569,
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 183,
-  "Ranking_EOS_Completed": 192,
+  "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 292,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7641,
+  "EOS_Progressed": 7642,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -6368,6 +6368,11 @@
       "Time": "2023-12-21T03:08:01.8483807+00:00",
       "NumProgressed": 7641,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-21T06:08:32.7979762+00:00",
+      "NumProgressed": 7642,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 27,
@@ -6419,7 +6424,7 @@
       "Name": "Harp Tuned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1758
     },
     {
       "ID": "AK_HOPES_HOISTED",
@@ -6451,7 +6456,7 @@
       "Name": "Knowledge Seeker",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "AK_KNOWLEDGE_SHARED",
@@ -6475,7 +6480,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2139
+      "UsersEstimate": 2140
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -6499,7 +6504,7 @@
       "Name": "Pyre Ignited",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1758
     },
     {
       "ID": "AK_RELIC_FINDER",
@@ -6531,7 +6536,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4279
+      "UsersEstimate": 4280
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -6555,7 +6560,7 @@
       "Name": "Travelers Returned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1758
     },
     {
       "ID": "AK_TRUE_CHALLENGE",
@@ -6579,7 +6584,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 3056
+      "UsersEstimate": 3057
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -6594,15 +6599,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7641,
+      "Progressed": 7642,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-12-21T04:09:20.81161+00:00",
+  "LastChanged_Achievements": "2023-12-21T06:08:32.797976+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:12.2358899+00:00",
-  "LastUpdate_Ratings": "2023-12-21T04:04:53.3854555+00:00",
-  "LastUpdate_Achievements": "2023-12-21T04:09:20.8116652+00:00"
+  "LastUpdate_Ratings": "2023-12-21T06:03:19.5224188+00:00",
+  "LastUpdate_Achievements": "2023-12-21T06:08:32.7980139+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "5c82c05d2978489090d30c05e17e6e12",
   "Name": "EARTHLOCK",
   "ProductSlug": "earthlock-e7d979",
-  "Ranking_Rating": 980,
+  "Ranking_Rating": 983,
   "Ranking_Popularity": 569,
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-11-16T16:00:00+00:00",
     "PcReleaseDate": "2018-03-08T17:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.12,
+  "Rating": 4.11,
   "RatingHistory": [
     {
       "Time": "2023-11-20T03:59:04.4319756+00:00",
@@ -203,15 +203,21 @@
       "Rating": 4.12,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-21T06:03:08.9773291+00:00",
+      "Rating": 4.11,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 68721,
+  "EOS_Progressed": 68743,
   "EOS_Completed": 89,
-  "EOS_NewPlayers": 2058,
+  "EOS_NewPlayers": 2062,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -4329,6 +4335,11 @@
       "Time": "2023-12-21T04:06:20.6457175+00:00",
       "NumProgressed": 68721,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2023-12-21T06:04:12.2021686+00:00",
+      "NumProgressed": 68743,
+      "NumCompleted": 89
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -4341,7 +4352,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 25427
+      "UsersEstimate": 25435
     },
     {
       "ID": "Achievement_10",
@@ -4373,7 +4384,7 @@
       "Name": "Supreme Scavenger",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2749
+      "UsersEstimate": 2750
     },
     {
       "ID": "Achievement_14",
@@ -4381,7 +4392,7 @@
       "Name": "Gardener of Lango",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1374
+      "UsersEstimate": 1375
     },
     {
       "ID": "Achievement_15",
@@ -4429,7 +4440,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 19242
+      "UsersEstimate": 19248
     },
     {
       "ID": "Achievement_20",
@@ -4453,7 +4464,7 @@
       "Name": "Spiritualist of the Sands",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1374
+      "UsersEstimate": 1375
     },
     {
       "ID": "Achievement_23",
@@ -4469,7 +4480,7 @@
       "Name": "Custodian of Scrollroads",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2749
+      "UsersEstimate": 2750
     },
     {
       "ID": "Achievement_25",
@@ -4517,7 +4528,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8247
+      "UsersEstimate": 8249
     },
     {
       "ID": "Achievement_30",
@@ -4549,7 +4560,7 @@
       "Name": "Family Ties",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "Achievement_34",
@@ -4565,7 +4576,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6185
+      "UsersEstimate": 6187
     },
     {
       "ID": "Achievement_5",
@@ -4573,7 +4584,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 4123
+      "UsersEstimate": 4125
     },
     {
       "ID": "Achievement_6",
@@ -4581,7 +4592,7 @@
       "Name": "The Red-Haired Enigma",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2749
+      "UsersEstimate": 2750
     },
     {
       "ID": "Achievement_7",
@@ -4612,16 +4623,16 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 68721,
+      "Progressed": 68743,
       "Completed": 89
     }
   ],
   "FirstSeen": "2023-11-16T18:57:39.5657505+00:00",
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
-  "LastChanged": "2023-12-20T05:03:05.1984728+00:00",
-  "LastChanged_Achievements": "2023-12-21T04:06:20.645717+00:00",
+  "LastChanged": "2023-12-21T06:03:08.9773291+00:00",
+  "LastChanged_Achievements": "2023-12-21T06:04:12.2021684+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:14.9583048+00:00",
-  "LastUpdate_Ratings": "2023-12-21T04:04:05.7089556+00:00",
-  "LastUpdate_Achievements": "2023-12-21T04:06:20.645757+00:00"
+  "LastUpdate_Ratings": "2023-12-21T06:03:08.9773295+00:00",
+  "LastUpdate_Achievements": "2023-12-21T06:04:12.2022122+00:00"
 }

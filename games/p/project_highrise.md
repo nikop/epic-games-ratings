@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 59.00% | ~239 |
+| In the Black | 59.00% | ~240 |
 | Starting Skyward | 53.00% | ~215 |
-| Grime is Not Good | 47.00% | ~190 |
+| Grime is Not Good | 47.00% | ~191 |
 | Floor Galore | 41.00% | ~166 |
 | Dinner Dash | 41.00% | ~166 |
 | Campaign Launch | 40.00% | ~162 |
@@ -16,9 +16,9 @@
 | Delegate Maintenance | 33.00% | ~134 |
 | Proper Walls | 32.00% | ~130 |
 | Destination Destiny | 31.00% | ~126 |
-| Happy Tenants | 26.00% | ~105 |
-| Potent Potables | 25.00% | ~101 |
-| Smooth Service | 25.00% | ~101 |
+| Happy Tenants | 26.00% | ~106 |
+| Potent Potables | 25.00% | ~102 |
+| Smooth Service | 25.00% | ~102 |
 | Your Prestige is Rising | 24.00% | ~97 |
 | Retail Revenue | 24.00% | ~97 |
 | Don't Feel a Loan | 23.00% | ~93 |
@@ -40,11 +40,11 @@
 | Thrilled Tenants | 13.00% | ~53 |
 | Terrifically Trashed | 12.00% | ~49 |
 | Swimming in Surplus | 11.00% | ~45 |
-| Aestheticly Pleased | 10.00% | ~40 |
-| 28 Days Later | 10.00% | ~40 |
-| Plaza Plan | 9.00% | ~36 |
-| Master of Puppets | 9.00% | ~36 |
-| Refined Palates | 9.00% | ~36 |
+| Aestheticly Pleased | 10.00% | ~41 |
+| 28 Days Later | 10.00% | ~41 |
+| Plaza Plan | 9.00% | ~37 |
+| Master of Puppets | 9.00% | ~37 |
+| Refined Palates | 9.00% | ~37 |
 | First 100 Days | 8.00% | ~32 |
 | Phoning It In | 8.00% | ~32 |
 | Water Features | 7.00% | ~28 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 405 (Ranked 343)  
+Progressed: 406 (Ranked 342)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 398 | 0 |
 | 2023-12-19 | 402 | 0 |
 | 2023-12-20 | 404 | 0 |
-| 2023-12-21 | 405 | 0 |
+| 2023-12-21 | 406 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1358,
+  "EOS_Progressed": 1359,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
@@ -2735,6 +2735,11 @@
       "Time": "2023-12-21T02:25:13.3581555+00:00",
       "NumProgressed": 1358,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T06:04:13.1882655+00:00",
+      "NumProgressed": 1359,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -2819,7 +2824,7 @@
       "Name": "What\u0027s Behind Every Door?",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR",
@@ -2827,7 +2832,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 937
+      "UsersEstimate": 938
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -2843,7 +2848,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -2986,14 +2991,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1358,
+      "Progressed": 1359,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-12-21T04:06:21.7703113+00:00",
+  "LastChanged_Achievements": "2023-12-21T06:04:13.1882652+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.7212713+00:00",
-  "LastUpdate_Ratings": "2023-12-21T03:59:49.5845513+00:00",
-  "LastUpdate_Achievements": "2023-12-21T04:06:21.7703444+00:00"
+  "LastUpdate_Ratings": "2023-12-21T05:59:26.8772747+00:00",
+  "LastUpdate_Achievements": "2023-12-21T06:04:13.1883181+00:00"
 }
