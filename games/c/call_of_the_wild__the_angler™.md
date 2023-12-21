@@ -6,12 +6,12 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 11.00% | ~806 |
+| Fish Just Got Reel | 11.00% | ~807 |
 | Can you smell what the Rod is Hooking | 9.00% | ~660 |
 | Hey Good Hookin | 9.00% | ~660 |
 | More Fish in the Sea | 9.00% | ~660 |
-| I'm on a Boat! | 8.00% | ~586 |
-| Scaling up | 8.00% | ~586 |
+| I'm on a Boat! | 8.00% | ~587 |
+| Scaling up | 8.00% | ~587 |
 | Ready to Rod and Roll | 6.00% | ~440 |
 | Fish Out of Water | 4.00% | ~293 |
 | Things that go Splash in the Night | 4.00% | ~293 |
@@ -26,7 +26,7 @@ Number of Ratings: 281  (23.09.2022)
 | More than a Tourist | 0.50% | ~37 |
 | Hook, Line and Sinker | 0.50% | ~37 |
 | No Fin left to give | 0.50% | ~37 |
-| Gonna Need a Bigger Boat | 0.50% | ~37 |
+| Gonna Need a Bigger Boat | 0.40% | ~29 |
 | Aguas Claras Conquistador | 0.40% | ~27 |
 | Live by the Rod, Diez by the Rod! | 0.30% | ~20 |
 | All Good Kings Must Come to an End | 0.30% | ~20 |
@@ -34,12 +34,12 @@ Number of Ratings: 281  (23.09.2022)
 | Lake Me up Before You Go Go | 0.20% | ~15 |
 | Big Fish Small Pond | 0.20% | ~15 |
 | Golden Ridge Ranger | 0.20% | ~15 |
-| Rod and Troll | 0.20% | ~13 |
 | Three Square Meals | 0.20% | ~13 |
 | Head for Heights | 0.10% | ~7 |
 | Taylor Made | 0.10% | ~7 |
 | Lost and Flounder | 0.10% | ~7 |
 | Buckaroo | 0.10% | ~7 |
+| Rod and Troll | 0.10% | ~7 |
 | Trollsporet Tale Teller | 0.10% | ~7 |
 | Fish upon a Star | 0.10% | ~7 |
 | Cache and Carry | 0.10% | ~7 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,331 (Ranked 188)  
+Progressed: 7,334 (Ranked 188)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 7,202 | 0 |
 | 2023-12-19 | 7,233 | 0 |
 | 2023-12-20 | 7,288 | 0 |
-| 2023-12-21 | 7,331 | 0 |
+| 2023-12-21 | 7,334 | 0 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 466)  
 Sum: 210 (Ranked 405)  

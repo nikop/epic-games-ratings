@@ -2,10 +2,10 @@
   "ID": "89a30c2a3fdb4281b5df57350e797ca9",
   "Name": "Maid of Sker",
   "ProductSlug": "maid-of-sker-2ae24e",
-  "Ranking_EOS_Progress": 391,
+  "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 357,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 242,
+  "EOS_Progressed": 244,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -585,6 +585,11 @@
       "Time": "2023-12-21T18:07:39.6225378+00:00",
       "NumProgressed": 242,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T19:07:44.538594+00:00",
+      "NumProgressed": 244,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -596,7 +601,7 @@
       "Name": "Animal Lover",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "axe_of_kindness",
@@ -626,9 +631,9 @@
       "ID": "chief_butler",
       "SetID": "3j2phem",
       "Name": "Chief Butler",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "choking_hazzard",
@@ -636,7 +641,7 @@
       "Name": "Choking Hazard",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "dodgy_geezer",
@@ -652,7 +657,7 @@
       "Name": "Don\u0027t Breathe",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "easy_listening",
@@ -764,7 +769,7 @@
       "Name": "Perfect Harmony!",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "phonic_boom",
@@ -780,7 +785,7 @@
       "Name": "Rapturous Applause!",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "scholar",
@@ -835,7 +840,7 @@
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 242,
+      "Progressed": 244,
       "Completed": 0
     }
   ],
@@ -843,8 +848,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-12-21T18:07:39.6225373+00:00",
+  "LastChanged_Achievements": "2023-12-21T19:07:44.5385934+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:12.385492+00:00",
-  "LastUpdate_Ratings": "2023-12-21T17:59:15.9562873+00:00",
-  "LastUpdate_Achievements": "2023-12-21T18:07:39.6225585+00:00"
+  "LastUpdate_Ratings": "2023-12-21T18:59:45.0127278+00:00",
+  "LastUpdate_Achievements": "2023-12-21T19:07:44.5386123+00:00"
 }

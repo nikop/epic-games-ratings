@@ -4,8 +4,8 @@
   "ProductSlug": "the-isle-tide-hotel-adf588",
   "Ranking_EOS_Progress": 480,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 377,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 378,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
     "PcReleaseDate": "2023-09-12T09:00:00+00:00",
@@ -477,9 +477,9 @@
       "ID": "christ_the_saviour",
       "SetID": "7i36ba9",
       "Name": "Christ the Saviour",
-      "Percentage": 74,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "cold_feet",
@@ -541,9 +541,9 @@
       "ID": "knock_knockout",
       "SetID": "7i36ba9",
       "Name": "Knock, Knockout",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "lessons_never_learnt",
@@ -557,9 +557,9 @@
       "ID": "passive_fist",
       "SetID": "7i36ba9",
       "Name": "Passive Fist",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "poor_gracie_ray",
@@ -645,9 +645,9 @@
       "ID": "the_price_is_right",
       "SetID": "7i36ba9",
       "Name": "The Price is Right",
-      "Percentage": 67,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 62
     },
     {
       "ID": "the_swell_celebration",
@@ -661,9 +661,9 @@
       "ID": "time_waster",
       "SetID": "7i36ba9",
       "Name": "Time Waster",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "who_is_d",
@@ -684,8 +684,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-12-21T18:09:33.0861216+00:00",
+  "LastChanged_Achievements": "2023-12-21T19:09:37.2349607+00:00",
   "LastUpdate_AppInfo": "2023-12-16T05:57:10.0587868+00:00",
-  "LastUpdate_Ratings": "2023-12-21T17:59:53.228755+00:00",
-  "LastUpdate_Achievements": "2023-12-21T18:09:33.0861371+00:00"
+  "LastUpdate_Ratings": "2023-12-21T19:00:28.4546352+00:00",
+  "LastUpdate_Achievements": "2023-12-21T19:09:37.2349781+00:00"
 }

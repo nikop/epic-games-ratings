@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 332,
   "Ranking_EOS_NewPlayers": 292,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -89,7 +89,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2058,
+  "EOS_Progressed": 2059,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
@@ -7869,6 +7869,11 @@
       "Time": "2023-12-21T17:04:41.7474395+00:00",
       "NumProgressed": 2058,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T19:04:37.081814+00:00",
+      "NumProgressed": 2059,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7880,7 +7885,7 @@
       "Name": "Know The Enemy",
       "Percentage": 6,
       "XP": 75,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -7968,7 +7973,7 @@
       "Name": "Moving On Up",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "objective_headquarters_20",
@@ -8048,7 +8053,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -8136,7 +8141,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -8183,7 +8188,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2058,
+      "Progressed": 2059,
       "Completed": 1
     }
   ],
@@ -8191,8 +8196,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-11T08:59:11.5639448+00:00",
-  "LastChanged_Achievements": "2023-12-21T18:04:14.2006355+00:00",
+  "LastChanged_Achievements": "2023-12-21T19:04:37.0818137+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:15.2562842+00:00",
-  "LastUpdate_Ratings": "2023-12-21T17:59:33.0329495+00:00",
-  "LastUpdate_Achievements": "2023-12-21T18:04:14.2006921+00:00"
+  "LastUpdate_Ratings": "2023-12-21T19:00:04.4346598+00:00",
+  "LastUpdate_Achievements": "2023-12-21T19:04:37.0818721+00:00"
 }

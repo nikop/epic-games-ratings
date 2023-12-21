@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 363,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -941,10 +941,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 330,
       "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2023-12-21T18:57:04.550119+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 331,
+      "NumberOfAwardsMax": 40
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 330,
+  "NumberOfAwards": 331,
   "NumberOfAwardsMax": 40,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1012,12 +1018,12 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 23
+      "Count": 24
     }
   ],
-  "EOS_Progressed": 9533,
+  "EOS_Progressed": 9534,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -9740,6 +9746,11 @@
       "Time": "2023-12-21T18:08:45.3531198+00:00",
       "NumProgressed": 9533,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-21T19:08:43.1145287+00:00",
+      "NumProgressed": 9534,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -9943,7 +9954,7 @@
       "Name": "Peak Performance",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4385
+      "UsersEstimate": 4386
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -10077,9 +10088,9 @@
       "ID": "ISONZO_ACH_TUTTI_EROI",
       "SetID": "akchbl3",
       "Name": "Tutti Eroi!",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4766
+      "UsersEstimate": 4862
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -10110,16 +10121,16 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9533,
+      "Progressed": 9534,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-09-13T17:01:45.3760457+00:00",
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
-  "LastChanged": "2023-12-19T18:00:04.0017242+00:00",
-  "LastChanged_Achievements": "2023-12-21T18:08:45.3531195+00:00",
+  "LastChanged": "2023-12-21T18:57:04.5501188+00:00",
+  "LastChanged_Achievements": "2023-12-21T19:08:43.1145285+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:27.7823002+00:00",
-  "LastUpdate_Ratings": "2023-12-21T17:56:54.1277509+00:00",
-  "LastUpdate_Achievements": "2023-12-21T18:08:45.3531998+00:00"
+  "LastUpdate_Ratings": "2023-12-21T18:57:04.5501193+00:00",
+  "LastUpdate_Achievements": "2023-12-21T19:08:43.114588+00:00"
 }

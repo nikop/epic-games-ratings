@@ -2,10 +2,10 @@
   "ID": "c609e63aa7f44e55835f51df979ee6b8",
   "Name": "Batora: Lost Haven",
   "ProductSlug": "batora-lost-haven-1773c3",
-  "Ranking_EOS_Progress": 623,
+  "Ranking_EOS_Progress": 619,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 423,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 415,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-09-12T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15,
+  "EOS_Progressed": 16,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -99,6 +99,11 @@
       "Time": "2023-12-21T18:09:44.5404981+00:00",
       "NumProgressed": 15,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T19:09:49.6536145+00:00",
+      "NumProgressed": 16,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-12T17:03:09.6040716+00:00",
@@ -109,7 +114,7 @@
       "ID": "ACH_ARMONIA",
       "SetID": "715gm5d",
       "Name": "Armonia",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -141,7 +146,7 @@
       "ID": "ACH_DANCING_IN_THE_RAIN",
       "SetID": "715gm5d",
       "Name": "Dancing in the Rain (of Bullets)",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -149,7 +154,7 @@
       "ID": "ACH_DONT_CALL_HER_BABY",
       "SetID": "715gm5d",
       "Name": "Don\u0027t Call her Baby",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -157,7 +162,7 @@
       "ID": "ACH_ECLIPSE_OF_THE_HEART",
       "SetID": "715gm5d",
       "Name": "Eclipse of the Heart",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -165,7 +170,7 @@
       "ID": "ACH_FEET_ON_THE_GROUND",
       "SetID": "715gm5d",
       "Name": "Feet on the Ground",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -173,7 +178,7 @@
       "ID": "ACH_FLAMING_WISDOM",
       "SetID": "715gm5d",
       "Name": "Flaming Wisdom",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -181,7 +186,7 @@
       "ID": "ACH_FROZEN_TEARDROP",
       "SetID": "715gm5d",
       "Name": "Frozen Teardrop",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -197,7 +202,7 @@
       "ID": "ACH_HEAD_IN_THE_CLOUDS",
       "SetID": "715gm5d",
       "Name": "Head in the Clouds",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -205,7 +210,7 @@
       "ID": "ACH_HERO_OF_LIGHT",
       "SetID": "715gm5d",
       "Name": "Hero of Light",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -237,7 +242,7 @@
       "ID": "ACH_KEEPER_OF_BALANCE",
       "SetID": "715gm5d",
       "Name": "Keeper of Balance",
-      "Percentage": 53,
+      "Percentage": 50,
       "XP": 15,
       "UsersEstimate": 8
     },
@@ -245,7 +250,7 @@
       "ID": "ACH_LADY_OF_THE_NIGHT",
       "SetID": "715gm5d",
       "Name": "Lady of the Night",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -261,7 +266,7 @@
       "ID": "ACH_MUTUAL_RESPECT",
       "SetID": "715gm5d",
       "Name": "Mutual Respect",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -269,7 +274,7 @@
       "ID": "ACH_NO_LEFT_BEHIND",
       "SetID": "715gm5d",
       "Name": "No left behind",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -293,7 +298,7 @@
       "ID": "ACH_STORMING_MEMORIES",
       "SetID": "715gm5d",
       "Name": "Storming Memories",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -301,7 +306,7 @@
       "ID": "ACH_TICKETS_FOR_3",
       "SetID": "715gm5d",
       "Name": "Tickets for 3",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -317,7 +322,7 @@
       "ID": "ACH_TYRANT_DETHRONER",
       "SetID": "715gm5d",
       "Name": "Tyrant Dethroner",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -325,7 +330,7 @@
       "ID": "ACH_UNEXPECTED_MINDFULLNESS",
       "SetID": "715gm5d",
       "Name": "Unexpected Mindfullness",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -333,7 +338,7 @@
       "ID": "ACH_UNUSUAL_ENCOUNTER",
       "SetID": "715gm5d",
       "Name": "Unusual Encounter",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -350,14 +355,14 @@
     {
       "ID": "715gm5d",
       "IsBase": true,
-      "Progressed": 15,
+      "Progressed": 16,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-26T15:57:45.8918317+00:00",
   "FirstSeenAchievements": "2023-09-12T17:03:09.6040714+00:00",
-  "LastChanged_Achievements": "2023-12-21T18:09:44.5404978+00:00",
+  "LastChanged_Achievements": "2023-12-21T19:09:49.6536142+00:00",
   "LastUpdate_AppInfo": "2023-12-19T22:56:53.9976382+00:00",
-  "LastUpdate_Ratings": "2023-12-21T17:57:43.3476916+00:00",
-  "LastUpdate_Achievements": "2023-12-21T18:09:44.5405148+00:00"
+  "LastUpdate_Ratings": "2023-12-21T18:57:59.1719629+00:00",
+  "LastUpdate_Achievements": "2023-12-21T19:09:49.6536292+00:00"
 }

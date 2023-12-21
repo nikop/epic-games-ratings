@@ -8305,18 +8305,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 11792,
       "NumberOfAwardsMax": 6973
+    },
+    {
+      "Time": "2023-12-21T19:02:55.9700947+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 11797,
+      "NumberOfAwardsMax": 6978
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11792,
-  "NumberOfAwardsMax": 6973,
+  "NumberOfAwards": 11797,
+  "NumberOfAwardsMax": 6978,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6973
+      "Count": 6978
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8385,9 +8391,9 @@
       "Count": 434
     }
   ],
-  "EOS_Progressed": 738776,
+  "EOS_Progressed": 738806,
   "EOS_Completed": 12958,
-  "EOS_NewPlayers": 16497,
+  "EOS_NewPlayers": 16482,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.75,
   "EosHistory": [
@@ -30305,6 +30311,11 @@
       "Time": "2023-12-21T18:08:15.3865961+00:00",
       "NumProgressed": 738776,
       "NumCompleted": 12958
+    },
+    {
+      "Time": "2023-12-21T19:08:33.8096058+00:00",
+      "NumProgressed": 738806,
+      "NumCompleted": 12958
     }
   ],
   "TotalAchievements": 60,
@@ -30316,7 +30327,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22163
+      "UsersEstimate": 22164
     },
     {
       "ID": "02_Vengeance_H1",
@@ -30404,7 +30415,7 @@
       "Name": "Scareless",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5171
+      "UsersEstimate": 5172
     },
     {
       "ID": "13_LowAge",
@@ -30476,7 +30487,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 5171
+      "UsersEstimate": 5172
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -30492,7 +30503,7 @@
       "Name": "Life is your teacher",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22163
+      "UsersEstimate": 22164
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -30580,7 +30591,7 @@
       "Name": "Lightning Hands",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22163
+      "UsersEstimate": 22164
     },
     {
       "ID": "35_WideStrike",
@@ -30588,7 +30599,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5171
+      "UsersEstimate": 5172
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -30668,7 +30679,7 @@
       "Name": "Bloody Sport",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -30676,7 +30687,7 @@
       "Name": "Martial Hub",
       "Percentage": 0.6,
       "XP": 80,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "47_Arena_GoldManhunt",
@@ -30795,21 +30806,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 48077,
+      "Progressed": 48107,
       "Completed": 10779
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 738776,
+      "Progressed": 738806,
       "Completed": 12958
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-12-21T17:03:06.4566528+00:00",
-  "LastChanged_Achievements": "2023-12-21T18:08:15.3865954+00:00",
+  "LastChanged": "2023-12-21T19:02:55.9700945+00:00",
+  "LastChanged_Achievements": "2023-12-21T19:08:33.8096056+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:50.1499922+00:00",
-  "LastUpdate_Ratings": "2023-12-21T18:02:45.5331697+00:00",
-  "LastUpdate_Achievements": "2023-12-21T18:08:15.3867853+00:00"
+  "LastUpdate_Ratings": "2023-12-21T19:02:55.9700951+00:00",
+  "LastUpdate_Achievements": "2023-12-21T19:08:33.8097227+00:00"
 }

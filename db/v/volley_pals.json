@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 12,
   "Ranking_EOS_NewPlayers": 562,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-19T01:00:00+00:00",
     "PcReleaseDate": "2023-05-19T01:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 128,
-  "EOS_Completed": 40,
+  "EOS_Completed": 41,
   "EOS_NewPlayers": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 31.25,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 32.03,
   "EosHistory": [
     {
       "Time": "2023-05-19T19:23:39.9762126+00:00",
@@ -714,6 +714,11 @@
       "Time": "2023-12-13T01:54:09.787637+00:00",
       "NumProgressed": 128,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-12-21T19:06:35.6738311+00:00",
+      "NumProgressed": 128,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 10,
@@ -795,9 +800,9 @@
       "ID": "LEVEL_9",
       "SetID": "1fnbp5h",
       "Name": "Custom Court",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 42
+      "UsersEstimate": 44
     }
   ],
   "AchievementSets": [
@@ -805,13 +810,13 @@
       "ID": "1fnbp5h",
       "IsBase": true,
       "Progressed": 128,
-      "Completed": 40
+      "Completed": 41
     }
   ],
   "FirstSeen": "2023-09-02T02:13:34.6238392+00:00",
   "FirstSeenAchievements": "2023-05-02T15:59:43.451096+00:00",
-  "LastChanged_Achievements": "2023-12-21T18:06:01.974593+00:00",
+  "LastChanged_Achievements": "2023-12-21T19:06:35.6738306+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:09.0150298+00:00",
-  "LastUpdate_Ratings": "2023-12-21T17:56:52.2101183+00:00",
-  "LastUpdate_Achievements": "2023-12-21T18:06:01.9746065+00:00"
+  "LastUpdate_Ratings": "2023-12-21T18:57:02.5047286+00:00",
+  "LastUpdate_Achievements": "2023-12-21T19:06:35.6738404+00:00"
 }

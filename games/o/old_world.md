@@ -1,11 +1,12 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 319)  
+Rating: 4.65 (Ranked 318)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Explorer | 0.20% | ~32 |
 | Settler | 0.20% | ~32 |
 | Alexander the Great | 0.10% | ~16 |
 | Lighthouse in Alexandria | 0.10% | ~16 |
@@ -44,7 +45,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conqueror | 0.10% | ~16 |
 | Devout | 0.10% | ~16 |
 | Enlightened | 0.10% | ~16 |
-| Explorer | 0.10% | ~16 |
 | Fountainhead | 0.10% | ~16 |
 | Glorious | 0.10% | ~16 |
 | Good | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,860 (Ranked 159)  
+Progressed: 15,861 (Ranked 159)  
 Completed: 5 (0.03%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -610,7 +610,7 @@ Completed: 5 (0.03%) (Ranked 345)
 | 2023-12-18 | 15,826 | 5 |
 | 2023-12-19 | 15,840 | 5 |
 | 2023-12-20 | 15,854 | 5 |
-| 2023-12-21 | 15,860 | 5 |
+| 2023-12-21 | 15,861 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 279)  
 Sum: 1,905 (Ranked 220)  

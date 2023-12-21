@@ -4,11 +4,11 @@
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 1030,
   "Ranking_Popularity": 207,
-  "Ranking_PopularitySum": 190,
+  "Ranking_PopularitySum": 191,
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 325,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -5157,9 +5157,9 @@
       "Count": 520
     }
   ],
-  "EOS_Progressed": 92277,
+  "EOS_Progressed": 92279,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 374,
+  "EOS_NewPlayers": 376,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -28692,6 +28692,11 @@
       "Time": "2023-12-21T18:06:19.512242+00:00",
       "NumProgressed": 92277,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-21T19:07:34.5710697+00:00",
+      "NumProgressed": 92279,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -28735,7 +28740,7 @@
       "Name": "Track Star",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "ACH_0015",
@@ -28999,7 +29004,7 @@
       "Name": "All that Glitters",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_1020",
@@ -29030,13 +29035,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 92277,
+      "Progressed": 92279,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 20624,
+      "Progressed": 20626,
       "Completed": 15589
     }
   ],
@@ -29044,8 +29049,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-12-21T16:58:12.3421359+00:00",
-  "LastChanged_Achievements": "2023-12-21T18:06:19.5122414+00:00",
+  "LastChanged_Achievements": "2023-12-21T19:07:34.5710693+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:15.2774722+00:00",
-  "LastUpdate_Ratings": "2023-12-21T17:57:49.1928241+00:00",
-  "LastUpdate_Achievements": "2023-12-21T18:06:19.5123942+00:00"
+  "LastUpdate_Ratings": "2023-12-21T18:58:05.5747753+00:00",
+  "LastUpdate_Achievements": "2023-12-21T19:07:34.5711798+00:00"
 }

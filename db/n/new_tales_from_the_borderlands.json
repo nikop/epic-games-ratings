@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -1976,9 +1976,9 @@
       "ID": "BUY_COSMETIC_ITEM",
       "SetID": "kakdpn",
       "Name": "You\u0027re Not Naked",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1122
     },
     {
       "ID": "BUY_EVERY_COSMETIC_ITEM",
@@ -2193,8 +2193,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2023-12-21T18:06:03.1965556+00:00",
+  "LastChanged_Achievements": "2023-12-21T19:06:37.0561344+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:35.6151583+00:00",
-  "LastUpdate_Ratings": "2023-12-21T18:02:25.0760533+00:00",
-  "LastUpdate_Achievements": "2023-12-21T18:06:03.1965828+00:00"
+  "LastUpdate_Ratings": "2023-12-21T19:02:31.6877026+00:00",
+  "LastUpdate_Achievements": "2023-12-21T19:06:37.0561564+00:00"
 }

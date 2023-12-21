@@ -6,8 +6,8 @@ Number of Ratings: 67  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Soul Cache | 2.00% | ~2 |
-| Mint I | 1.00% | ~1 |
+| Soul Cache | 3.00% | ~3 |
+| Mint I | 2.00% | ~2 |
 | A Bullet for All Seasons | 0.00% | ~0 |
 | Are You Not Entertained? | 0.00% | ~0 |
 | Astarte | 0.00% | ~0 |
@@ -37,7 +37,7 @@ Number of Ratings: 67  (23.09.2022)
 | Why'd It Have to Be Snakes? | 0.00% | ~0 |
 | Wicked Killington | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 105 (Ranked 463)  
+Progressed: 107 (Ranked 461)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -45,11 +45,11 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 39 | 0 |
 | 2023-12-19 | 62 | 0 |
 | 2023-12-20 | 77 | 0 |
-| 2023-12-21 | 105 | 0 |
+| 2023-12-21 | 107 | 0 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 456)  
-Sum: 45 (Ranked 502)  
-Diff (max vs sum): -46  
+Sum: 45 (Ranked 501)  
+Diff (max vs sum): -45  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 45 |

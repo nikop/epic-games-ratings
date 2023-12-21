@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 353,
   "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -188,7 +188,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5713,
+  "EOS_Progressed": 5714,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
@@ -4873,6 +4873,11 @@
       "Time": "2023-12-21T14:08:10.3752054+00:00",
       "NumProgressed": 5713,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T19:07:54.2355256+00:00",
+      "NumProgressed": 5714,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -4996,7 +5001,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2799
+      "UsersEstimate": 2800
     },
     {
       "ID": "ach_campaign_progress6",
@@ -5036,7 +5041,7 @@
       "Name": "Returning Home: Quick Learner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1485
+      "UsersEstimate": 1486
     },
     {
       "ID": "ach_campaign_special10",
@@ -5491,15 +5496,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5713,
+      "Progressed": 5714,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-12-21T18:07:48.460993+00:00",
+  "LastChanged_Achievements": "2023-12-21T19:07:54.2355251+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:04.2667134+00:00",
-  "LastUpdate_Ratings": "2023-12-21T17:58:01.961219+00:00",
-  "LastUpdate_Achievements": "2023-12-21T18:07:48.4610713+00:00"
+  "LastUpdate_Ratings": "2023-12-21T18:58:20.5639012+00:00",
+  "LastUpdate_Achievements": "2023-12-21T19:07:54.2356077+00:00"
 }

@@ -5,6 +5,7 @@ Rating: 4.71 (Ranked 198)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| The Journey Onwards | 0.10% | ~8 |
 | Ahem Ahem | 0.00% | ~0 |
 | Arrr! | 0.00% | ~0 |
 | Audiophile | 0.00% | ~0 |
@@ -24,10 +25,9 @@ Rating: 4.71 (Ranked 198)
 | Shredder | 0.00% | ~0 |
 | Snip Snip | 0.00% | ~0 |
 | Soul-Canon | 0.00% | ~0 |
-| The Journey Onwards | 0.00% | ~0 |
 | Thing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,164 (Ranked 182)  
+Progressed: 8,166 (Ranked 182)  
 Completed: 34 (0.42%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 34 (0.42%) (Ranked 227)
 | 2023-12-18 | 8,112 | 34 |
 | 2023-12-19 | 8,131 | 34 |
 | 2023-12-20 | 8,142 | 34 |
-| 2023-12-21 | 8,164 | 34 |
+| 2023-12-21 | 8,166 | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

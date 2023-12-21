@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -784,7 +784,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 42638,
+  "EOS_Progressed": 42640,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 450,
   "EOS_NewCompleters": 0,
@@ -25769,6 +25769,11 @@
       "Time": "2023-12-21T18:03:53.0474832+00:00",
       "NumProgressed": 42638,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-21T19:04:14.1085411+00:00",
+      "NumProgressed": 42640,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -25796,7 +25801,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7248
+      "UsersEstimate": 7249
     },
     {
       "ID": "ach_antiquarian10",
@@ -25988,7 +25993,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5969
+      "UsersEstimate": 5970
     },
     {
       "ID": "ach_legacysalvager",
@@ -26211,15 +26216,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 42638,
+      "Progressed": 42640,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-12-19T20:59:18.2117104+00:00",
-  "LastChanged_Achievements": "2023-12-21T18:03:53.0474828+00:00",
+  "LastChanged_Achievements": "2023-12-21T19:04:14.1085406+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:14.0795156+00:00",
-  "LastUpdate_Ratings": "2023-12-21T17:59:14.9968292+00:00",
-  "LastUpdate_Achievements": "2023-12-21T18:03:53.0476352+00:00"
+  "LastUpdate_Ratings": "2023-12-21T18:59:43.7351873+00:00",
+  "LastUpdate_Achievements": "2023-12-21T19:04:14.1088757+00:00"
 }

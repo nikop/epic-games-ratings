@@ -10,9 +10,9 @@
 | Good Person Chip | 83.00% | ~364 |
 | Your first job | 82.00% | ~360 |
 | Depressed visitor | 77.00% | ~338 |
+| Fitness professional | 76.00% | ~334 |
 | Old movies enjoyer | 76.00% | ~334 |
 | Neurotrainer – power gainer! | 76.00% | ~334 |
-| Fitness professional | 75.00% | ~329 |
 | Employee of the week | 75.00% | ~329 |
 | Your own amateur gym | 70.00% | ~307 |
 | First defeat | 69.00% | ~303 |
@@ -23,7 +23,7 @@
 | Pal of your father? | 64.00% | ~281 |
 | Spirit of the past | 62.00% | ~272 |
 | Employee of the month | 61.00% | ~268 |
-| Law student | 58.00% | ~255 |
+| Law student | 59.00% | ~259 |
 | Workout professional | 56.00% | ~246 |
 | Handyman | 56.00% | ~246 |
 | Champion – starter pack | 56.00% | ~246 |
@@ -48,7 +48,7 @@
 | Deal with life | 36.00% | ~158 |
 | GYM professional | 36.00% | ~158 |
 | The die is cast | 36.00% | ~158 |
-| Poisoned fighter | 34.00% | ~149 |
+| Poisoned fighter | 35.00% | ~154 |
 | Get out of my apartment! | 34.00% | ~149 |
 | Seashell hunter | 33.00% | ~145 |
 | Gang wrangler | 32.00% | ~140 |

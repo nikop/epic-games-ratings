@@ -6,8 +6,8 @@ Number of Ratings: 76  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Time For Tutorial | 2.00% | ~3 |
 | Sweet Victory | 1.00% | ~2 |
-| Time For Tutorial | 1.00% | ~2 |
 | Robot encyclopedia | 0.60% | ~1 |
 | Are you ready now? | 0.60% | ~1 |
 | Uptown and Downtown | 0.60% | ~1 |
@@ -39,7 +39,7 @@ Number of Ratings: 76  (23.09.2022)
 | Star Smasher | 0.00% | ~0 |
 | Surf's Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 162 (Ranked 420)  
+Progressed: 164 (Ranked 419)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -47,10 +47,10 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 34 | 0 |
 | 2023-12-19 | 88 | 0 |
 | 2023-12-20 | 127 | 0 |
-| 2023-12-21 | 162 | 0 |
+| 2023-12-21 | 164 | 0 |
 ## Awards
-Max (Great Boss Battles): 34  (Ranked 492)  
-Sum: 34 (Ranked 516)  
+Max (Great Boss Battles): 34  (Ranked 491)  
+Sum: 34 (Ranked 515)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |

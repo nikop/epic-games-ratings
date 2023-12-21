@@ -6,9 +6,9 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 3.00% | ~22,163 |
-| Life is your teacher | 3.00% | ~22,163 |
-| Lightning Hands | 3.00% | ~22,163 |
+| The Old Grandmaster | 3.00% | ~22,164 |
+| Life is your teacher | 3.00% | ~22,164 |
+| Lightning Hands | 3.00% | ~22,164 |
 | The Assault | 2.00% | ~14,776 |
 | The Hateful Pole Fighter | 2.00% | ~14,776 |
 | State of constant learning | 2.00% | ~14,776 |
@@ -28,12 +28,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | Take damage to save time | 0.90% | ~6,649 |
 | Project Arena | 0.90% | ~433 |
 | Qi Gong: Mind | 0.80% | ~5,910 |
-| Scareless | 0.70% | ~5,171 |
-| Dance of the Praying Mantis | 0.70% | ~5,171 |
-| Kung-Fu Tussle | 0.70% | ~5,171 |
+| Scareless | 0.70% | ~5,172 |
+| Dance of the Praying Mantis | 0.70% | ~5,172 |
+| Kung-Fu Tussle | 0.70% | ~5,172 |
 | Fight the way you practice | 0.70% | ~337 |
-| Martial Hub | 0.60% | ~288 |
-| Bloody Sport | 0.50% | ~240 |
+| Martial Hub | 0.60% | ~289 |
+| Bloody Sport | 0.50% | ~241 |
 | Muk Yan Master | 0.40% | ~2,955 |
 | Tiger on Fire | 0.40% | ~2,955 |
 | Source of Flying Daggers | 0.40% | ~2,955 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~48 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 738,776 (Ranked 23)  
+Progressed: 738,806 (Ranked 23)  
 Completed: 12,958 (1.75%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,14 +312,14 @@ Completed: 12,958 (1.75%) (Ranked 140)
 | 2023-12-18 | 734,825 | 12,956 |
 | 2023-12-19 | 736,295 | 12,958 |
 | 2023-12-20 | 737,594 | 12,958 |
-| 2023-12-21 | 738,776 | 12,958 |
+| 2023-12-21 | 738,806 | 12,958 |
 ## Awards
-Max (Great Boss Battles): 6,973  (Ranked 55)  
-Sum: 11,792 (Ranked 87)  
+Max (Great Boss Battles): 6,978  (Ranked 55)  
+Sum: 11,797 (Ranked 87)  
 Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,973 |
+| This game has Great Boss Battles | 6,978 |
 | This game has Diverse Characters | 679 |
 | This game has Challenging Combat | 625 |
 | This game has Amazing Storytelling | 605 |
@@ -671,4 +671,4 @@ Diff (max vs sum): -32
 | 2023-12-18 | 4.82 | - | 6,957 | 12,197 |
 | 2023-12-19 | 4.82 | - | 6,965 | 12,212 |
 | 2023-12-20 | 4.82 | - | 6,973 | 12,223 |
-| 2023-12-21 | 4.82 | - | 6,973 | 11,792 |
+| 2023-12-21 | 4.82 | - | 6,978 | 11,797 |

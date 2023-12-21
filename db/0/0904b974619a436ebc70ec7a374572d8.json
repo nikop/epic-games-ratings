@@ -2,10 +2,10 @@
   "ID": "0904b974619a436ebc70ec7a374572d8",
   "Name": "Picklock",
   "ProductSlug": "picklock-33eab8",
-  "Ranking_EOS_Progress": 533,
+  "Ranking_EOS_Progress": 531,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 377,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 374,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2020-05-07T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 47,
+  "EOS_Progressed": 48,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -254,6 +254,11 @@
       "Time": "2023-12-21T18:09:38.1380104+00:00",
       "NumProgressed": 47,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T19:09:42.9294555+00:00",
+      "NumProgressed": 48,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-23T15:08:04.2785789+00:00",
@@ -280,47 +285,47 @@
       "ID": "ach_picklock11",
       "SetID": "753ghg2",
       "Name": "Neighbor\u0027s house",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ach_picklock12",
       "SetID": "753ghg2",
       "Name": "Sewing factory",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 45,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ach_picklock13",
       "SetID": "753ghg2",
       "Name": "Butcher shop",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ach_picklock14",
       "SetID": "753ghg2",
       "Name": "Cinema",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ach_picklock15",
       "SetID": "753ghg2",
       "Name": "Shop dairy",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ach_picklock16",
       "SetID": "753ghg2",
       "Name": "Loft",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 40,
       "UsersEstimate": 15
     },
@@ -376,7 +381,7 @@
       "ID": "ach_picklock22",
       "SetID": "753ghg2",
       "Name": "Night Club",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 40,
       "UsersEstimate": 5
     },
@@ -384,7 +389,7 @@
       "ID": "ach_picklock23",
       "SetID": "753ghg2",
       "Name": "Tuning Center",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 45,
       "UsersEstimate": 4
     },
@@ -408,7 +413,7 @@
       "ID": "ach_picklock4",
       "SetID": "753ghg2",
       "Name": "Fix it",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 40,
       "UsersEstimate": 16
     },
@@ -424,7 +429,7 @@
       "ID": "ach_picklock6",
       "SetID": "753ghg2",
       "Name": "Great bike, bro",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 45,
       "UsersEstimate": 5
     },
@@ -432,9 +437,9 @@
       "ID": "ach_picklock7",
       "SetID": "753ghg2",
       "Name": "Good movie",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ach_picklock8",
@@ -448,7 +453,7 @@
       "ID": "ach_picklock9",
       "SetID": "753ghg2",
       "Name": "I, the millionaire!",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 100,
       "UsersEstimate": 5
     }
@@ -457,14 +462,14 @@
     {
       "ID": "753ghg2",
       "IsBase": true,
-      "Progressed": 47,
+      "Progressed": 48,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-03T03:57:37.1640095+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6923906+00:00",
-  "LastChanged_Achievements": "2023-12-21T18:09:38.13801+00:00",
+  "LastChanged_Achievements": "2023-12-21T19:09:42.9294552+00:00",
   "LastUpdate_AppInfo": "2023-12-20T08:57:19.6216308+00:00",
-  "LastUpdate_Ratings": "2023-12-21T17:57:29.4727223+00:00",
-  "LastUpdate_Achievements": "2023-12-21T18:09:38.1380277+00:00"
+  "LastUpdate_Ratings": "2023-12-21T18:57:44.2651383+00:00",
+  "LastUpdate_Achievements": "2023-12-21T19:09:42.9294651+00:00"
 }

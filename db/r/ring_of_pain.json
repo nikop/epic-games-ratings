@@ -3644,10 +3644,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 11749,
       "NumberOfAwardsMax": 1511
+    },
+    {
+      "Time": "2023-12-21T19:00:06.3063997+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 11751,
+      "NumberOfAwardsMax": 1511
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11749,
+  "NumberOfAwards": 11751,
   "NumberOfAwardsMax": 1511,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3655,7 +3661,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1419
+      "Count": 1421
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3718,9 +3724,9 @@
       "Count": 747
     }
   ],
-  "EOS_Progressed": 241414,
+  "EOS_Progressed": 241419,
   "EOS_Completed": 300,
-  "EOS_NewPlayers": 388,
+  "EOS_NewPlayers": 389,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -29003,6 +29009,11 @@
       "Time": "2023-12-21T18:09:52.6678974+00:00",
       "NumProgressed": 241414,
       "NumCompleted": 300
+    },
+    {
+      "Time": "2023-12-21T19:09:57.9636348+00:00",
+      "NumProgressed": 241419,
+      "NumCompleted": 300
     }
   ],
   "TotalAchievements": 138,
@@ -29030,7 +29041,7 @@
       "Name": "Ambitious Intent",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "BOSSPIT",
@@ -29054,7 +29065,7 @@
       "Name": "Nothing To Lose",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "CURSEDPOTIONS",
@@ -29110,7 +29121,7 @@
       "Name": "Delving Deeper",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "DEPTH12HARD",
@@ -29166,7 +29177,7 @@
       "Name": "R.I.P",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "DIEBOSS",
@@ -29278,7 +29289,7 @@
       "Name": "Cold Hearted",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "FULLINVENTORY",
@@ -29446,7 +29457,7 @@
       "Name": "The Bestiary",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "KILLABOMINATIONHIGHDEF",
@@ -29510,7 +29521,7 @@
       "Name": "Heartless",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "KILLPARANOIA",
@@ -29518,7 +29529,7 @@
       "Name": "What\u0027s Yours Is Mine",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "KILLREFLECT10",
@@ -29542,7 +29553,7 @@
       "Name": "Spine Breaker",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "KILLSPITTER",
@@ -29614,7 +29625,7 @@
       "Name": "C-C-Combo",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "NOEPIC",
@@ -29646,7 +29657,7 @@
       "Name": "Deflection",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "PASSIVEDEPTH6",
@@ -29694,7 +29705,7 @@
       "Name": "Toxic",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "POISONEDTWICEIN1TURN",
@@ -29782,7 +29793,7 @@
       "Name": "Sneaky",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "STEALTH100",
@@ -30117,22 +30128,22 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241414,
+      "Progressed": 241419,
       "Completed": 300
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 2894,
+      "Progressed": 2899,
       "Completed": 410
     }
   ],
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
-  "LastChanged": "2023-12-20T17:59:46.0251837+00:00",
-  "LastChanged_Achievements": "2023-12-21T18:09:52.667897+00:00",
+  "LastChanged": "2023-12-21T19:00:06.3063995+00:00",
+  "LastChanged_Achievements": "2023-12-21T19:09:57.9636345+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:23.1397919+00:00",
-  "LastUpdate_Ratings": "2023-12-21T17:59:34.6641263+00:00",
-  "LastUpdate_Achievements": "2023-12-21T18:09:52.6681645+00:00"
+  "LastUpdate_Ratings": "2023-12-21T19:00:06.3064+00:00",
+  "LastUpdate_Achievements": "2023-12-21T19:09:57.9638753+00:00"
 }

@@ -1,23 +1,23 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.24 (Ranked 902)  
+Rating: 4.23 (Ranked 913)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~1,295 |
-| Battlefields Have Memories | 79.00% | ~1,176 |
-| Enlisted | 72.00% | ~1,072 |
-| Maybe Engage a Little | 66.00% | ~983 |
-| No More Names | 47.00% | ~700 |
-| Initiate | 33.00% | ~491 |
-| Thrada-Kul | 29.00% | ~432 |
+| Unforeseen | 87.00% | ~1,298 |
+| Battlefields Have Memories | 80.00% | ~1,194 |
+| Enlisted | 72.00% | ~1,074 |
+| Maybe Engage a Little | 66.00% | ~985 |
+| No More Names | 47.00% | ~701 |
+| Initiate | 33.00% | ~492 |
+| Thrada-Kul | 29.00% | ~433 |
 | Socialite | 22.00% | ~328 |
 | Gravity-Challenged Rocks | 22.00% | ~328 |
 | Soldier | 19.00% | ~283 |
 | All the Major Food Groups | 19.00% | ~283 |
-| Beggars Would Ride | 17.00% | ~253 |
-| Control is an Illusion | 15.00% | ~223 |
+| Beggars Would Ride | 17.00% | ~254 |
+| Control is an Illusion | 15.00% | ~224 |
 | The Means to Save It | 12.00% | ~179 |
 | Resilience to Sin | 11.00% | ~164 |
 | A Familiar Nest | 10.00% | ~149 |
@@ -26,9 +26,9 @@ Rating: 4.24 (Ranked 902)
 | A Perfect Cycle | 8.00% | ~119 |
 | Recruit | 8.00% | ~119 |
 | Armsman | 8.00% | ~119 |
-| Lights Army | 6.00% | ~89 |
-| Periapt Cerulean | 5.00% | ~74 |
-| Good Boy | 5.00% | ~74 |
+| Lights Army | 6.00% | ~90 |
+| Periapt Cerulean | 5.00% | ~75 |
+| Good Boy | 5.00% | ~75 |
 | Best Dressed | 4.00% | ~60 |
 | Periapt Viridian | 4.00% | ~60 |
 | Shroudfane Explorer | 4.00% | ~60 |
@@ -39,10 +39,10 @@ Rating: 4.24 (Ranked 902)
 | Armaments Vert | 2.00% | ~30 |
 | Veteran | 1.00% | ~15 |
 | Master of Carmine | 1.00% | ~15 |
+| Grand Magnus | 0.70% | ~10 |
 | Master of Ultramarine | 0.70% | ~10 |
 | Master of Malachite | 0.70% | ~10 |
 | Tip of the Spear | 0.70% | ~10 |
-| Grand Magnus | 0.60% | ~9 |
 | Shroudfane Surveyor | 0.60% | ~9 |
 | Backtracker | 0.60% | ~9 |
 | Treasure Hunter | 0.40% | ~6 |
@@ -53,7 +53,7 @@ Rating: 4.24 (Ranked 902)
 | Family Business | 0.20% | ~3 |
 | Fowl Play | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,489 (Ranked 252)  
+Progressed: 1,492 (Ranked 252)  
 Completed: 2 (0.13%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 2 (0.13%) (Ranked 289)
 | 2023-12-18 | 1,195 | 2 |
 | 2023-12-19 | 1,301 | 2 |
 | 2023-12-20 | 1,423 | 2 |
-| 2023-12-21 | 1,489 | 2 |
+| 2023-12-21 | 1,492 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,65 +1,65 @@
 # STAR WARS Jedi: Survivor™
 [Store](https://store.epicgames.com/en-US/p/star-wars-jedi-survivor)  
 [View Rawdata](../../db/s/star_wars_jedi__survivor™.json)  
-Rating: 4.49 (Ranked 619)  
+Rating: 4.49 (Ranked 620)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~17,435 |
-| For Saw Gerrera | 96.00% | ~16,907 |
-| Grab Some Seat | 81.00% | ~14,265 |
-| Can You Pet the Bogling? | 77.00% | ~13,560 |
-| The Past Made Present | 68.00% | ~11,975 |
-| Survivors, We Adapt | 61.00% | ~10,743 |
-| They Never Saw It Coming | 60.00% | ~10,567 |
-| Among the Masters | 59.00% | ~10,390 |
-| Mirror Match | 56.00% | ~9,862 |
-| Who Gives a Puck | 54.00% | ~9,510 |
-| For the Path | 47.00% | ~8,277 |
-| Now, This Isn't Podracing | 46.00% | ~8,101 |
-| Cleaning Up | 45.00% | ~7,925 |
-| Skywalker | 44.00% | ~7,749 |
-| Out of Bedlam | 42.00% | ~7,397 |
-| Hey, Luke At Us | 38.00% | ~6,692 |
-| Kitted Out | 36.00% | ~6,340 |
-| Tanalorr Bound | 36.00% | ~6,340 |
-| Riposte | 35.00% | ~6,164 |
-| Tragedy | 34.00% | ~5,988 |
-| At the Precipice | 33.00% | ~5,812 |
-| Into the Abyss | 32.00% | ~5,636 |
-| Greezy Money | 32.00% | ~5,636 |
-| A Place You Could Call Home | 30.00% | ~5,283 |
-| Catch! | 30.00% | ~5,283 |
-| They're Probably Fine | 30.00% | ~5,283 |
-| Han Slowlo | 26.00% | ~4,579 |
-| There Is No Try | 25.00% | ~4,403 |
-| The Jedi Path | 22.00% | ~3,874 |
-| This Is Canon | 19.00% | ~3,346 |
-| It's a Trap | 17.00% | ~2,994 |
-| You've Got A Friend | 15.00% | ~2,642 |
-| King of the World | 12.00% | ~2,113 |
-| Reconnaissance | 12.00% | ~2,113 |
-| A Presence I've Not Felt Since... | 10.00% | ~1,761 |
-| Max Capacity | 9.00% | ~1,585 |
-| Slam Dunk | 8.00% | ~1,409 |
-| Star Tours | 7.00% | ~1,233 |
-| Gambler | 7.00% | ~1,233 |
-| Caij Match | 6.00% | ~1,057 |
-| Growth Spurt | 6.00% | ~1,057 |
-| Perk of the Job | 5.00% | ~881 |
-| I'm a Living Legend | 4.00% | ~704 |
-| Road House | 4.00% | ~704 |
-| Skoova Diving | 4.00% | ~704 |
-| Get Down From There | 3.00% | ~528 |
-| Intergalactic Geographic | 3.00% | ~528 |
-| So Uncivilized | 2.00% | ~352 |
-| One With the Force | 2.00% | ~352 |
-| Cobra Cal | 2.00% | ~352 |
-| Splurgle | 2.00% | ~352 |
-| Blood, Sweat, and Tears | 2.00% | ~352 |
-| Pinpoint | 1.00% | ~176 |
+| Rooftop Duel | 99.00% | ~17,486 |
+| For Saw Gerrera | 96.00% | ~16,956 |
+| Grab Some Seat | 81.00% | ~14,307 |
+| Can You Pet the Bogling? | 77.00% | ~13,601 |
+| The Past Made Present | 68.00% | ~12,011 |
+| Survivors, We Adapt | 61.00% | ~10,774 |
+| They Never Saw It Coming | 60.00% | ~10,598 |
+| Among the Masters | 59.00% | ~10,421 |
+| Mirror Match | 56.00% | ~9,891 |
+| Who Gives a Puck | 54.00% | ~9,538 |
+| For the Path | 47.00% | ~8,302 |
+| Now, This Isn't Podracing | 46.00% | ~8,125 |
+| Cleaning Up | 45.00% | ~7,948 |
+| Skywalker | 44.00% | ~7,772 |
+| Out of Bedlam | 42.00% | ~7,418 |
+| Hey, Luke At Us | 38.00% | ~6,712 |
+| Kitted Out | 36.00% | ~6,359 |
+| Tanalorr Bound | 36.00% | ~6,359 |
+| Riposte | 35.00% | ~6,182 |
+| Tragedy | 34.00% | ~6,005 |
+| At the Precipice | 33.00% | ~5,829 |
+| Into the Abyss | 32.00% | ~5,652 |
+| Greezy Money | 32.00% | ~5,652 |
+| A Place You Could Call Home | 30.00% | ~5,299 |
+| Catch! | 30.00% | ~5,299 |
+| They're Probably Fine | 30.00% | ~5,299 |
+| Han Slowlo | 26.00% | ~4,592 |
+| There Is No Try | 25.00% | ~4,416 |
+| The Jedi Path | 22.00% | ~3,886 |
+| This Is Canon | 19.00% | ~3,356 |
+| It's a Trap | 17.00% | ~3,003 |
+| You've Got A Friend | 15.00% | ~2,649 |
+| King of the World | 12.00% | ~2,120 |
+| Reconnaissance | 12.00% | ~2,120 |
+| A Presence I've Not Felt Since... | 10.00% | ~1,766 |
+| Max Capacity | 9.00% | ~1,590 |
+| Slam Dunk | 8.00% | ~1,413 |
+| Star Tours | 7.00% | ~1,236 |
+| Gambler | 7.00% | ~1,236 |
+| Caij Match | 6.00% | ~1,060 |
+| Growth Spurt | 6.00% | ~1,060 |
+| Perk of the Job | 5.00% | ~883 |
+| I'm a Living Legend | 4.00% | ~707 |
+| Road House | 4.00% | ~707 |
+| Skoova Diving | 4.00% | ~707 |
+| Get Down From There | 3.00% | ~530 |
+| Intergalactic Geographic | 3.00% | ~530 |
+| So Uncivilized | 2.00% | ~353 |
+| One With the Force | 2.00% | ~353 |
+| Cobra Cal | 2.00% | ~353 |
+| Splurgle | 2.00% | ~353 |
+| Blood, Sweat, and Tears | 2.00% | ~353 |
+| Pinpoint | 1.00% | ~177 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,611 (Ranked 151)  
+Progressed: 17,663 (Ranked 151)  
 Completed: 61 (0.35%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 61 (0.35%) (Ranked 237)
 | 2023-12-18 | 15,301 | 61 |
 | 2023-12-19 | 16,151 | 61 |
 | 2023-12-20 | 16,989 | 61 |
-| 2023-12-21 | 17,611 | 61 |
+| 2023-12-21 | 17,663 | 61 |
 ## Awards
 Max (Great Boss Battles): 3,814  (Ranked 90)  
 Sum: 5,921 (Ranked 133)  

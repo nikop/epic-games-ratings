@@ -6,23 +6,23 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 69.00% | ~8,922 |
-| Photographer | 68.00% | ~8,793 |
-| Valley's Helper | 61.00% | ~7,888 |
-| Constructor | 51.00% | ~6,595 |
-| Renovator | 51.00% | ~6,595 |
-| Bestest Friend | 46.00% | ~5,948 |
-| Banker | 39.00% | ~5,043 |
+| Goofy's Investor | 69.00% | ~8,924 |
+| Photographer | 68.00% | ~8,794 |
+| Valley's Helper | 61.00% | ~7,889 |
+| Constructor | 51.00% | ~6,596 |
+| Renovator | 51.00% | ~6,596 |
+| Bestest Friend | 46.00% | ~5,949 |
+| Banker | 39.00% | ~5,044 |
 | Gardener | 31.00% | ~4,009 |
 | Generous | 25.00% | ~3,233 |
 | Chef Cook | 19.00% | ~2,457 |
-| Miner | 11.00% | ~1,422 |
-| Duty Bound | 8.00% | ~1,034 |
+| Miner | 11.00% | ~1,423 |
+| Duty Bound | 8.00% | ~1,035 |
 | Angler | 6.00% | ~776 |
 | Thorn Cleaner | 6.00% | ~776 |
 | Chit Chatter | 3.00% | ~388 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,931 (Ranked 167)  
+Progressed: 12,933 (Ranked 167)  
 Completed: 321 (2.48%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,14 +218,14 @@ Completed: 321 (2.48%) (Ranked 126)
 | 2023-12-18 | 12,807 | 317 |
 | 2023-12-19 | 12,853 | 318 |
 | 2023-12-20 | 12,891 | 320 |
-| 2023-12-21 | 12,931 | 321 |
+| 2023-12-21 | 12,933 | 321 |
 ## Awards
-Max (Great for Beginners): 1,144  (Ranked 144)  
-Sum: 8,213 (Ranked 107)  
+Max (Great for Beginners): 1,147  (Ranked 144)  
+Sum: 8,216 (Ranked 107)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 1,144 |
+| This game is Great for Beginners | 1,147 |
 | This game has Diverse Characters | 955 |
 | This game is Highly Recommended | 854 |
 | This game has Amazing Characters | 836 |
@@ -520,4 +520,4 @@ Diff (max vs sum): 37
 | 2023-12-18 | 4.76 | - | 1,137 | 8,189 |
 | 2023-12-19 | 4.76 | - | 1,141 | 8,195 |
 | 2023-12-20 | 4.76 | - | 1,144 | 8,207 |
-| 2023-12-21 | 4.76 | - | 1,144 | 8,213 |
+| 2023-12-21 | 4.76 | - | 1,147 | 8,216 |

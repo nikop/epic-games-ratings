@@ -20,19 +20,19 @@ Number of Ratings: 15,086  (23.09.2022)
 | A Donation | 0.70% | ~1,690 |
 | Explorer | 0.70% | ~1,690 |
 | An Offering | 0.70% | ~1,690 |
-| Ambitious Intent | 0.60% | ~1,448 |
-| Nothing To Lose | 0.60% | ~1,448 |
-| Delving Deeper | 0.60% | ~1,448 |
-| R.I.P | 0.60% | ~1,448 |
-| Cold Hearted | 0.60% | ~1,448 |
-| The Bestiary | 0.60% | ~1,448 |
-| Heartless | 0.60% | ~1,448 |
-| What's Yours Is Mine | 0.60% | ~1,448 |
-| Spine Breaker | 0.60% | ~1,448 |
-| C-C-Combo | 0.60% | ~1,448 |
-| Deflection | 0.60% | ~1,448 |
-| Toxic | 0.60% | ~1,448 |
-| Sneaky | 0.60% | ~1,448 |
+| Ambitious Intent | 0.60% | ~1,449 |
+| Nothing To Lose | 0.60% | ~1,449 |
+| Delving Deeper | 0.60% | ~1,449 |
+| R.I.P | 0.60% | ~1,449 |
+| Cold Hearted | 0.60% | ~1,449 |
+| The Bestiary | 0.60% | ~1,449 |
+| Heartless | 0.60% | ~1,449 |
+| What's Yours Is Mine | 0.60% | ~1,449 |
+| Spine Breaker | 0.60% | ~1,449 |
+| C-C-Combo | 0.60% | ~1,449 |
+| Deflection | 0.60% | ~1,449 |
+| Toxic | 0.60% | ~1,449 |
+| Sneaky | 0.60% | ~1,449 |
 | Consecutive Curses | 0.50% | ~1,207 |
 | Dig Your Own Grave | 0.50% | ~1,207 |
 | Who To Trust? | 0.50% | ~1,207 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,414 (Ranked 67)  
+Progressed: 241,419 (Ranked 67)  
 Completed: 300 (0.12%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -390,10 +390,10 @@ Completed: 300 (0.12%) (Ranked 295)
 | 2023-12-18 | 241,266 | 299 |
 | 2023-12-19 | 241,311 | 300 |
 | 2023-12-20 | 241,359 | 300 |
-| 2023-12-21 | 241,414 | 300 |
+| 2023-12-21 | 241,419 | 300 |
 ## Awards
 Max (Quickly Understood Controls): 1,511  (Ranked 134)  
-Sum: 11,749 (Ranked 88)  
+Sum: 11,751 (Ranked 88)  
 Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
@@ -401,7 +401,7 @@ Diff (max vs sum): 46
 | This game has Quickly Understood Controls | 1,511 |
 | This game has Challenging Combat | 1,445 |
 | This game is Relaxing | 1,444 |
-| This game is Extremely Fun | 1,419 |
+| This game is Extremely Fun | 1,421 |
 | This game is Highly Recommended | 1,390 |
 | This game has Amazing Storytelling | 1,329 |
 | This game has Amazing Characters | 1,232 |
@@ -648,3 +648,4 @@ Diff (max vs sum): 46
 | 2023-12-18 | 4.58 | - | 1,511 | 11,745 |
 | 2023-12-19 | 4.58 | - | 1,511 | 11,746 |
 | 2023-12-20 | 4.58 | - | 1,511 | 11,749 |
+| 2023-12-21 | 4.58 | - | 1,511 | 11,751 |

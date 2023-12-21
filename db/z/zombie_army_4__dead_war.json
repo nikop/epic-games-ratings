@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 195,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 325,
-  "Ranking_EOS_NewPlayers": 272,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2562,9 +2562,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 44185,
+  "EOS_Progressed": 44186,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -10097,6 +10097,11 @@
       "Time": "2023-12-21T18:03:17.8939873+00:00",
       "NumProgressed": 44185,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-12-21T19:03:33.1600967+00:00",
+      "NumProgressed": 44186,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -10148,7 +10153,7 @@
       "Name": "Bad Blood",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 7511
+      "UsersEstimate": 7512
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_NIGHTMARE",
@@ -10212,7 +10217,7 @@
       "Name": "In the dark dark woods...",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 17232
+      "UsersEstimate": 17233
     },
     {
       "ID": "SE_COMPLETE_GRAVEYARD_SHIFT",
@@ -10228,7 +10233,7 @@
       "Name": "You\u0027re all going to die down here",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 14139
+      "UsersEstimate": 14140
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_CAGED_FEAR",
@@ -10324,7 +10329,7 @@
       "Name": "Weird science",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 19441
+      "UsersEstimate": 19442
     },
     {
       "ID": "SE_COMPLETE_ST_PETERS",
@@ -10332,7 +10337,7 @@
       "Name": "He did Nazi that coming",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 14139
+      "UsersEstimate": 14140
     },
     {
       "ID": "SE_COMPLETE_TERMINAL_ERROR",
@@ -10372,7 +10377,7 @@
       "Name": "Kill of the week",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13697
+      "UsersEstimate": 13698
     },
     {
       "ID": "SE_ELECTROCUTE_X_ZOMBIES_WITH_ONE_SPECIAL_MELEE",
@@ -10396,7 +10401,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 16348
+      "UsersEstimate": 16349
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -10412,7 +10417,7 @@
       "Name": "Gold",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 22534
+      "UsersEstimate": 22535
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -10420,7 +10425,7 @@
       "Name": "Come and get it! It\u0027s a running buffet!",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 16790
+      "UsersEstimate": 16791
     },
     {
       "ID": "SE_GET_X_HEADSHOT_STREAK",
@@ -10428,7 +10433,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 16348
+      "UsersEstimate": 16349
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -10452,7 +10457,7 @@
       "Name": "I never liked them anyway",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 13697
+      "UsersEstimate": 13698
     },
     {
       "ID": "SE_KILL_SNIPER_MID_AIR",
@@ -10468,7 +10473,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 25185
+      "UsersEstimate": 25186
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -10500,7 +10505,7 @@
       "Name": "Chain reaction",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19883
+      "UsersEstimate": 19884
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -10508,7 +10513,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29162
+      "UsersEstimate": 29163
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -10524,7 +10529,7 @@
       "Name": "Weapons expert",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7511
+      "UsersEstimate": 7512
     },
     {
       "ID": "SE_OPEN_EVERY_HIDDEN_CRATE_IN_HORDE",
@@ -10564,7 +10569,7 @@
       "Name": "Blood splattered",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29162
+      "UsersEstimate": 29163
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -10572,7 +10577,7 @@
       "Name": "Gore soaked",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 10604
+      "UsersEstimate": 10605
     },
     {
       "ID": "SE_REACH_WAVE_X",
@@ -10635,15 +10640,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 44185,
+      "Progressed": 44186,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-12-20T21:00:36.0644934+00:00",
-  "LastChanged_Achievements": "2023-12-21T18:03:17.893987+00:00",
+  "LastChanged_Achievements": "2023-12-21T19:03:33.1600965+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:42.1560557+00:00",
-  "LastUpdate_Ratings": "2023-12-21T17:56:54.5139474+00:00",
-  "LastUpdate_Achievements": "2023-12-21T18:03:17.8940769+00:00"
+  "LastUpdate_Ratings": "2023-12-21T18:57:04.9748764+00:00",
+  "LastUpdate_Achievements": "2023-12-21T19:03:33.1601687+00:00"
 }

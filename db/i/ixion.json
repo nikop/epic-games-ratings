@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -317,7 +317,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3619,
+  "EOS_Progressed": 3620,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
@@ -6812,6 +6812,11 @@
       "Time": "2023-12-21T18:04:05.5075593+00:00",
       "NumProgressed": 3619,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T19:04:27.4239453+00:00",
+      "NumProgressed": 3620,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -6903,7 +6908,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "ACH_BASE_21",
@@ -6975,7 +6980,7 @@
       "Name": "A Thousand Strong",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "ACH_BASE_3",
@@ -7023,7 +7028,7 @@
       "Name": "Ready for a New World",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "ACH_BASE_35",
@@ -7278,13 +7283,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1803,
+      "Progressed": 1804,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3619,
+      "Progressed": 3620,
       "Completed": 0
     }
   ],
@@ -7292,8 +7297,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-21T17:56:57.5768777+00:00",
-  "LastChanged_Achievements": "2023-12-21T18:04:05.5075589+00:00",
+  "LastChanged_Achievements": "2023-12-21T19:04:27.4239451+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.6786359+00:00",
-  "LastUpdate_Ratings": "2023-12-21T17:56:57.5768782+00:00",
-  "LastUpdate_Achievements": "2023-12-21T18:04:05.5076291+00:00"
+  "LastUpdate_Ratings": "2023-12-21T18:57:08.6538809+00:00",
+  "LastUpdate_Achievements": "2023-12-21T19:04:27.424003+00:00"
 }

@@ -13,10 +13,10 @@
 | Mecha Wars | 41.00% | ~52 |
 | Sewer | 40.00% | ~51 |
 | Arcade | 39.00% | ~50 |
-| Custom Court | 33.00% | ~42 |
+| Custom Court | 34.00% | ~44 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 128 (Ranked 444)  
-Completed: 40 (31.25%) (Ranked 12)  
+Completed: 41 (32.03%) (Ranked 12)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -82,3 +82,4 @@ Completed: 40 (31.25%) (Ranked 12)
 | 2023-12-11 | 127 | 39 |
 | 2023-12-12 | 128 | 39 |
 | 2023-12-13 | 128 | 40 |
+| 2023-12-21 | 128 | 41 |

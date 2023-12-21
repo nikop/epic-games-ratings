@@ -1,46 +1,46 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.52 (Ranked 566)  
+Rating: 4.53 (Ranked 551)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~6,089 |
-| Greasy Palms | 42.00% | ~5,560 |
-| South American Connection | 26.00% | ~3,442 |
-| Life of the Party | 20.00% | ~2,647 |
-| Tommy Two-Wheels | 15.00% | ~1,986 |
-| Big Heat from Little Havana | 14.00% | ~1,853 |
-| Chauffeur | 14.00% | ~1,853 |
-| Salutations My Little Friend | 11.00% | ~1,456 |
-| Iron-y | 10.00% | ~1,324 |
-| Gun for Hire | 9.00% | ~1,191 |
-| Mischief Managed | 8.00% | ~1,059 |
-| Vice City Mogul | 6.00% | ~794 |
-| Catch Me if You Can | 6.00% | ~794 |
-| Bloodstained Hands | 6.00% | ~794 |
-| Not my First Time | 5.00% | ~662 |
-| Grand Theft Auto | 5.00% | ~662 |
-| Pie Guy | 4.00% | ~529 |
-| Point A to Point B | 3.00% | ~397 |
-| High Quality H2O | 3.00% | ~397 |
-| Bull in a China Shop | 3.00% | ~397 |
-| Somebody Call the Wambulance? | 3.00% | ~397 |
-| Just Like the Real Thing | 3.00% | ~397 |
-| Don't Need Roads | 3.00% | ~397 |
+| Legal Counsel | 46.00% | ~6,096 |
+| Greasy Palms | 42.00% | ~5,566 |
+| South American Connection | 26.00% | ~3,446 |
+| Life of the Party | 20.00% | ~2,650 |
+| Tommy Two-Wheels | 15.00% | ~1,988 |
+| Big Heat from Little Havana | 14.00% | ~1,855 |
+| Chauffeur | 14.00% | ~1,855 |
+| Salutations My Little Friend | 11.00% | ~1,458 |
+| Iron-y | 10.00% | ~1,325 |
+| Gun for Hire | 9.00% | ~1,193 |
+| Mischief Managed | 8.00% | ~1,060 |
+| Vice City Mogul | 6.00% | ~795 |
+| Catch Me if You Can | 6.00% | ~795 |
+| Bloodstained Hands | 6.00% | ~795 |
+| Not my First Time | 5.00% | ~663 |
+| Grand Theft Auto | 5.00% | ~663 |
+| Pie Guy | 4.00% | ~530 |
+| Point A to Point B | 3.00% | ~398 |
+| High Quality H2O | 3.00% | ~398 |
+| Bull in a China Shop | 3.00% | ~398 |
+| Somebody Call the Wambulance? | 3.00% | ~398 |
+| Just Like the Real Thing | 3.00% | ~398 |
+| Don't Need Roads | 3.00% | ~398 |
 | Running Rampant | 2.00% | ~265 |
 | One is Better Than Two | 2.00% | ~265 |
 | Take the Cannoli | 2.00% | ~265 |
 | Chopper’d Up | 2.00% | ~265 |
 | City Sleuth | 2.00% | ~265 |
-| Born in the 80’s | 1.00% | ~132 |
-| Keepie-Uppy Okie Dokie | 1.00% | ~132 |
-| I'm Famous! | 1.00% | ~132 |
-| Daredevil | 1.00% | ~132 |
+| Born in the 80’s | 1.00% | ~133 |
+| Keepie-Uppy Okie Dokie | 1.00% | ~133 |
+| I'm Famous! | 1.00% | ~133 |
+| Daredevil | 1.00% | ~133 |
 | Done it All | 0.90% | ~119 |
 | Kingpin | 0.50% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,237 (Ranked 166)  
+Progressed: 13,252 (Ranked 166)  
 Completed: 71 (0.54%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,14 +285,14 @@ Completed: 71 (0.54%) (Ranked 208)
 | 2023-12-18 | 12,767 | 70 |
 | 2023-12-19 | 12,956 | 70 |
 | 2023-12-20 | 13,130 | 71 |
-| 2023-12-21 | 13,237 | 71 |
+| 2023-12-21 | 13,252 | 71 |
 ## Awards
-Max (Great Boss Battles): 131  (Ranked 337)  
-Sum: 131 (Ranked 439)  
+Max (Great Boss Battles): 133  (Ranked 336)  
+Sum: 133 (Ranked 438)  
 Diff (max vs sum): -102  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 131 |
+| This game has Great Boss Battles | 133 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -447,3 +447,4 @@ Diff (max vs sum): -102
 | 2023-12-16 | 4.53 | 127 | 127 |
 | 2023-12-18 | 4.53 | 130 | 130 |
 | 2023-12-20 | 4.52 | 131 | 131 |
+| 2023-12-21 | 4.53 | 133 | 133 |

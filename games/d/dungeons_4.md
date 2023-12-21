@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 88.00% | ~530 |
-| Thalya – Simply Immortal | 88.00% | ~530 |
+| The Last Stand | 88.00% | ~531 |
+| Thalya – Simply Immortal | 88.00% | ~531 |
 | For the Horde! | 82.00% | ~494 |
 | Hammer Time, Round Two | 81.00% | ~488 |
 | The Hellwoods | 77.00% | ~464 |
-| The Plains of Strothalm | 71.00% | ~427 |
-| Experienced Thalya | 71.00% | ~427 |
-| Thalya's Concentrated Fury | 69.00% | ~415 |
-| Bad Elves Go Everywhere | 69.00% | ~415 |
-| Heroes’ Gorge | 64.00% | ~385 |
-| Master of Magic | 63.00% | ~379 |
-| Unicorn steaks – fresh off the hoof! | 62.00% | ~373 |
-| Magic Accidents | 59.00% | ~355 |
-| The Ascent | 58.00% | ~349 |
-| It's Warm and Cozy at Home | 58.00% | ~349 |
-| Trap Master | 55.00% | ~331 |
-| Minions, Minions! | 54.00% | ~325 |
-| Hard Work | 53.00% | ~319 |
-| The Big Eaty | 53.00% | ~319 |
-| “… like son” | 51.00% | ~307 |
-| YOU SHALL NOT PASS! | 50.00% | ~301 |
+| The Plains of Strothalm | 71.00% | ~428 |
+| Experienced Thalya | 71.00% | ~428 |
+| Thalya's Concentrated Fury | 69.00% | ~416 |
+| Bad Elves Go Everywhere | 68.00% | ~410 |
+| Heroes’ Gorge | 64.00% | ~386 |
+| Master of Magic | 63.00% | ~380 |
+| Unicorn steaks – fresh off the hoof! | 62.00% | ~374 |
+| Magic Accidents | 59.00% | ~356 |
+| The Ascent | 58.00% | ~350 |
+| It's Warm and Cozy at Home | 58.00% | ~350 |
+| Trap Master | 55.00% | ~332 |
+| Minions, Minions! | 54.00% | ~326 |
+| Hard Work | 53.00% | ~320 |
+| The Big Eaty | 53.00% | ~320 |
+| “… like son” | 51.00% | ~308 |
+| YOU SHALL NOT PASS! | 50.00% | ~302 |
 | The Cathedral of Light | 48.00% | ~289 |
 | Shame! Shame! Shame! | 47.00% | ~283 |
 | Pure Dynamite! | 46.00% | ~277 |
@@ -44,17 +44,17 @@
 | Hungry, Hungry Gorgu! | 27.00% | ~163 |
 | Stop Tanos! | 26.00% | ~157 |
 | Brimstone Shaken, Not Stirred | 26.00% | ~157 |
-| Sabotage! | 25.00% | ~150 |
-| Bonus Evilness | 24.00% | ~144 |
-| Raiders of the Lost Stone | 24.00% | ~144 |
-| The Rune Sockets of Finitude (Part 1) | 24.00% | ~144 |
-| The Rune Sockets of Finitude (Part 2) | 22.00% | ~132 |
-| The Last Stand - This Time For Real! | 21.00% | ~126 |
-| Rubble and Ashes | 20.00% | ~120 |
-| My Little Torture Chamber | 18.00% | ~108 |
-| Lavalumps on Ice! | 18.00% | ~108 |
-| To Infinity And Beyond! | 18.00% | ~108 |
-| To the Max! | 17.00% | ~102 |
+| Sabotage! | 25.00% | ~151 |
+| Bonus Evilness | 24.00% | ~145 |
+| Raiders of the Lost Stone | 24.00% | ~145 |
+| The Rune Sockets of Finitude (Part 1) | 24.00% | ~145 |
+| The Rune Sockets of Finitude (Part 2) | 22.00% | ~133 |
+| The Last Stand - This Time For Real! | 21.00% | ~127 |
+| Rubble and Ashes | 20.00% | ~121 |
+| My Little Torture Chamber | 18.00% | ~109 |
+| Lavalumps on Ice! | 18.00% | ~109 |
+| To Infinity And Beyond! | 18.00% | ~109 |
+| To the Max! | 17.00% | ~103 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~96 |
 | Evilification | 16.00% | ~96 |
 | Mirror, Mirror | 15.00% | ~90 |
@@ -66,7 +66,7 @@
 | No Mana, No Cry | 10.00% | ~60 |
 | I Don't Need Any Help | 9.00% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 602 (Ranked 316)  
+Progressed: 603 (Ranked 316)  
 Completed: 20 (3.32%) (Ranked 104)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,4 +112,4 @@ Completed: 20 (3.32%) (Ranked 104)
 | 2023-12-18 | 589 | 19 |
 | 2023-12-19 | 592 | 19 |
 | 2023-12-20 | 598 | 20 |
-| 2023-12-21 | 602 | 20 |
+| 2023-12-21 | 603 | 20 |

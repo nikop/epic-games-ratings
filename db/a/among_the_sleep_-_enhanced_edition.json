@@ -500,7 +500,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 96225,
+  "EOS_Progressed": 96232,
   "EOS_Completed": 438,
   "EOS_NewPlayers": 751,
   "EOS_NewCompleters": 4,
@@ -27770,6 +27770,11 @@
       "Time": "2023-12-21T18:08:52.4254199+00:00",
       "NumProgressed": 96225,
       "NumCompleted": 438
+    },
+    {
+      "Time": "2023-12-21T19:08:50.8512631+00:00",
+      "NumProgressed": 96232,
+      "NumCompleted": 438
     }
   ],
   "TotalAchievements": 10,
@@ -27781,7 +27786,7 @@
       "Name": "Baby Mozart",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 4811
+      "UsersEstimate": 4812
     },
     {
       "ID": "Drawings01",
@@ -27837,7 +27842,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 9622
+      "UsersEstimate": 9623
     },
     {
       "ID": "Level00BowlingStrike",
@@ -27845,7 +27850,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 33679
+      "UsersEstimate": 33681
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -27853,22 +27858,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 10585
+      "UsersEstimate": 10586
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 96225,
+      "Progressed": 96232,
       "Completed": 438
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-12-20T03:02:57.8561576+00:00",
-  "LastChanged_Achievements": "2023-12-21T18:08:52.4254194+00:00",
+  "LastChanged_Achievements": "2023-12-21T19:08:50.8512628+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:55.6943357+00:00",
-  "LastUpdate_Ratings": "2023-12-21T18:02:53.9984819+00:00",
-  "LastUpdate_Achievements": "2023-12-21T18:08:52.4255903+00:00"
+  "LastUpdate_Ratings": "2023-12-21T19:03:05.829778+00:00",
+  "LastUpdate_Achievements": "2023-12-21T19:08:50.851398+00:00"
 }

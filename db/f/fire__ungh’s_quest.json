@@ -4,8 +4,8 @@
   "ProductSlug": "fire-44c606",
   "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 72,
-  "Ranking_EOS_NewPlayers": 520,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 521,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
     "PcReleaseDate": "2015-04-09T16:00:00+00:00",
@@ -791,17 +791,17 @@
       "ID": "10_Coins",
       "SetID": "6od1ndi",
       "Name": "Blunga 10",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 35,
-      "UsersEstimate": 125
+      "UsersEstimate": 128
     },
     {
       "ID": "15_Coins",
       "SetID": "6od1ndi",
       "Name": "Blunga 15",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 90
+      "UsersEstimate": 93
     },
     {
       "ID": "20_Coins",
@@ -855,9 +855,9 @@
       "ID": "Eliminated_3_Mask_Men_in_009",
       "SetID": "6od1ndi",
       "Name": "Danka, Lagga, Wonwon",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 35,
-      "UsersEstimate": 130
+      "UsersEstimate": 133
     },
     {
       "ID": "Hit_Leatherbat_with_Coke_Bottle_in_010",
@@ -903,9 +903,9 @@
       "ID": "Level_completed_004_009",
       "SetID": "6od1ndi",
       "Name": "Onk Boga IV",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 35,
-      "UsersEstimate": 130
+      "UsersEstimate": 133
     },
     {
       "ID": "Level_completed_005_003",
@@ -919,9 +919,9 @@
       "ID": "Level_completed_006_004",
       "SetID": "6od1ndi",
       "Name": "Onk Boga VI",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 35,
-      "UsersEstimate": 107
+      "UsersEstimate": 110
     },
     {
       "ID": "Level_completed_007_006",
@@ -959,9 +959,9 @@
       "ID": "Monkey_IQ_test_passed_in_004",
       "SetID": "6od1ndi",
       "Name": "IQ62",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 35,
-      "UsersEstimate": 107
+      "UsersEstimate": 110
     },
     {
       "ID": "Rainman_was_shocked_by_lightning_in_001",
@@ -1000,8 +1000,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-12-21T18:09:15.5582752+00:00",
+  "LastChanged_Achievements": "2023-12-21T19:09:18.5166939+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:51.2815846+00:00",
-  "LastUpdate_Ratings": "2023-12-21T18:02:46.3715568+00:00",
-  "LastUpdate_Achievements": "2023-12-21T18:09:15.5582927+00:00"
+  "LastUpdate_Ratings": "2023-12-21T19:02:56.9650213+00:00",
+  "LastUpdate_Achievements": "2023-12-21T19:09:18.5167089+00:00"
 }

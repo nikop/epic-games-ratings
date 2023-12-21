@@ -9,9 +9,9 @@
 | Oo-De-Lally | 69.00% | ~61 |
 | The Altruist | 67.00% | ~59 |
 | Treasure Hunter | 65.00% | ~57 |
+| Tap Dancing | 52.00% | ~46 |
 | Watch your Step! | 52.00% | ~46 |
-| Tap Dancing | 51.00% | ~45 |
-| MAX LEVEL | 50.00% | ~44 |
+| MAX LEVEL | 51.00% | ~45 |
 | Spring Board | 42.00% | ~37 |
 | Right between the eyes | 41.00% | ~36 |
 | Starry Night | 39.00% | ~34 |
@@ -24,10 +24,10 @@
 | First Aid | 24.00% | ~21 |
 | Merry Go Round | 24.00% | ~21 |
 | Savior | 19.00% | ~17 |
+| Take Action! | 18.00% | ~16 |
 | Hidden Experiment | 17.00% | ~15 |
-| Take Action! | 17.00% | ~15 |
 | Ascending Will | 16.00% | ~14 |
-| Ultra Combo | 14.00% | ~12 |
+| Ultra Combo | 15.00% | ~13 |
 | Into the Lion's Den | 11.00% | ~10 |
 | Haute Couture | 11.00% | ~10 |
 | Sky High Fighter | 9.00% | ~8 |

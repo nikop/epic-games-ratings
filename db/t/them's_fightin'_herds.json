@@ -3,12 +3,12 @@
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "ProductSlug": "thems-fightin-herds",
   "Ranking_Rating": 423,
-  "Ranking_Popularity": 525,
-  "Ranking_PopularitySum": 500,
+  "Ranking_Popularity": 524,
+  "Ranking_PopularitySum": 499,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -325,9 +325,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 233938,
+  "EOS_Progressed": 233941,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 376,
+  "EOS_NewPlayers": 379,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25175,6 +25175,11 @@
       "Time": "2023-12-21T18:08:58.6503487+00:00",
       "NumProgressed": 233938,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-21T19:08:57.7968289+00:00",
+      "NumProgressed": 233941,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 28,
@@ -25250,7 +25255,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 84218
+      "UsersEstimate": 84219
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -25330,7 +25335,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 79539
+      "UsersEstimate": 79540
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -25346,7 +25351,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 51466
+      "UsersEstimate": 51467
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -25394,7 +25399,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 39769
+      "UsersEstimate": 39770
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -25409,7 +25414,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 233938,
+      "Progressed": 233941,
       "Completed": 6
     }
   ],
@@ -25417,8 +25422,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-12-17T08:58:28.3947518+00:00",
-  "LastChanged_Achievements": "2023-12-21T18:08:58.6503481+00:00",
+  "LastChanged_Achievements": "2023-12-21T19:08:57.7968286+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:20.0893293+00:00",
-  "LastUpdate_Ratings": "2023-12-21T17:59:50.5250259+00:00",
-  "LastUpdate_Achievements": "2023-12-21T18:08:58.650504+00:00"
+  "LastUpdate_Ratings": "2023-12-21T19:00:25.0790699+00:00",
+  "LastUpdate_Achievements": "2023-12-21T19:08:57.7969326+00:00"
 }

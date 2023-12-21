@@ -6,9 +6,9 @@
   "Ranking_Popularity": 571,
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 330,
-  "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 393,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 271,
+  "Ranking_EOS_NewPlayers": 384,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -77,11 +77,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 487,
+  "EOS_Progressed": 488,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.21,
+  "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:34.1721869+00:00",
@@ -562,6 +562,11 @@
       "Time": "2023-12-21T18:05:59.3684839+00:00",
       "NumProgressed": 487,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T19:06:32.6455371+00:00",
+      "NumProgressed": 488,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -573,7 +578,7 @@
       "Name": "Grand Opening",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -621,7 +626,7 @@
       "Name": "Circus Electrique Proudly Presents...",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -629,7 +634,7 @@
       "Name": "Built in a Day",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -637,7 +642,7 @@
       "Name": "Path of Learning",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -645,7 +650,7 @@
       "Name": "Time Travel!",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -781,7 +786,7 @@
       "Name": "City Savior",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -972,7 +977,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 487,
+      "Progressed": 488,
       "Completed": 1
     }
   ],
@@ -980,8 +985,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-12-21T18:05:59.3684835+00:00",
+  "LastChanged_Achievements": "2023-12-21T19:06:32.6455368+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:19.7923718+00:00",
-  "LastUpdate_Ratings": "2023-12-21T17:58:07.8001885+00:00",
-  "LastUpdate_Achievements": "2023-12-21T18:05:59.3685252+00:00"
+  "LastUpdate_Ratings": "2023-12-21T18:58:26.8882923+00:00",
+  "LastUpdate_Achievements": "2023-12-21T19:06:32.6455727+00:00"
 }

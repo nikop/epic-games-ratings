@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 52.00% | ~509 |
-| Trinity | 23.00% | ~225 |
-| Find Allies | 18.00% | ~176 |
-| A Taste of Wrath | 18.00% | ~176 |
-| I Found It | 18.00% | ~176 |
-| The Collector | 18.00% | ~176 |
+| Break Out | 52.00% | ~512 |
+| Trinity | 23.00% | ~226 |
+| Find Allies | 18.00% | ~177 |
+| A Taste of Wrath | 18.00% | ~177 |
+| I Found It | 18.00% | ~177 |
+| The Collector | 18.00% | ~177 |
 | Adventurer | 16.00% | ~157 |
 | Shatter Them All | 16.00% | ~157 |
 | Geared Up | 16.00% | ~157 |
-| Tributes of Caladrias | 15.00% | ~147 |
-| Scholar | 15.00% | ~147 |
-| Fashion Victim | 14.00% | ~137 |
-| Stone Collection | 14.00% | ~137 |
-| Powerful Allies | 12.00% | ~117 |
+| Tributes of Caladrias | 15.00% | ~148 |
+| Scholar | 15.00% | ~148 |
+| Fashion Victim | 14.00% | ~138 |
+| Stone Collection | 14.00% | ~138 |
+| Powerful Allies | 12.00% | ~118 |
 | Big Bazar | 10.00% | ~98 |
-| Essence Blow | 8.00% | ~78 |
+| Essence Blow | 8.00% | ~79 |
 | Alchemist | 7.00% | ~69 |
 | Calm before the Storm | 5.00% | ~49 |
 | The Mentor | 5.00% | ~49 |
@@ -27,9 +27,9 @@
 | Miner | 5.00% | ~49 |
 | To Battle | 4.00% | ~39 |
 | Godslayer | 4.00% | ~39 |
-| Clear Sight | 3.00% | ~29 |
-| Shatterer | 3.00% | ~29 |
-| Fine Feathers Make Fine Birds | 3.00% | ~29 |
+| Clear Sight | 3.00% | ~30 |
+| Shatterer | 3.00% | ~30 |
+| Fine Feathers Make Fine Birds | 3.00% | ~30 |
 | Slayer | 2.00% | ~20 |
 | Flawless Victory | 1.00% | ~10 |
 | All There Is | 1.00% | ~10 |
@@ -41,8 +41,8 @@
 | All That Gold | 0.60% | ~6 |
 | Feeling Fancy | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 979 (Ranked 279)  
-Completed: 3 (0.31%) (Ranked 246)  
+Progressed: 984 (Ranked 279)  
+Completed: 3 (0.30%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -111,4 +111,4 @@ Completed: 3 (0.31%) (Ranked 246)
 | 2023-12-18 | 818 | 3 |
 | 2023-12-19 | 881 | 3 |
 | 2023-12-20 | 928 | 3 |
-| 2023-12-21 | 979 | 3 |
+| 2023-12-21 | 984 | 3 |

@@ -5,10 +5,10 @@
   "Ranking_Rating": 854,
   "Ranking_Popularity": 571,
   "Ranking_PopularitySum": 571,
-  "Ranking_EOS_Progress": 538,
+  "Ranking_EOS_Progress": 534,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 279,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
     "PcReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -565,9 +565,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 45,
+  "EOS_Progressed": 47,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -720,6 +720,11 @@
       "Time": "2023-12-21T18:04:19.8401184+00:00",
       "NumProgressed": 45,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T19:04:43.8834264+00:00",
+      "NumProgressed": 47,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -842,9 +847,9 @@
       "ID": "35TELEPORTS",
       "SetID": "a1angca",
       "Name": "Globetrotter",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "50000ELEXIT",
@@ -1131,15 +1136,15 @@
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 45,
+      "Progressed": 47,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-11-15T13:09:21.2815291+00:00",
-  "LastChanged_Achievements": "2023-12-21T18:04:19.8401181+00:00",
+  "LastChanged_Achievements": "2023-12-21T19:04:43.8834261+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:52.2543669+00:00",
-  "LastUpdate_Ratings": "2023-12-21T17:57:15.2247307+00:00",
-  "LastUpdate_Achievements": "2023-12-21T18:04:19.840149+00:00"
+  "LastUpdate_Ratings": "2023-12-21T18:57:28.6809728+00:00",
+  "LastUpdate_Achievements": "2023-12-21T19:04:43.88346+00:00"
 }

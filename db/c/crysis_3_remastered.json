@@ -2,13 +2,13 @@
   "ID": "f541519f3d21457ba7dcf5b57f1014b2",
   "Name": "Crysis 3 Remastered",
   "ProductSlug": "crysis-3-remastered",
-  "Ranking_Rating": 319,
+  "Ranking_Rating": 318,
   "Ranking_Popularity": 309,
   "Ranking_PopularitySum": 421,
   "Ranking_EOS_Progress": 813,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 562,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-10-15T07:00:00+00:00",
     "PcReleaseDate": "2021-10-15T07:00:00+00:00",
@@ -622,6 +622,6 @@
   "FirstSeen": "2022-07-22T20:32:55.830928+00:00",
   "LastChanged": "2023-12-17T15:57:27.5771867+00:00",
   "LastUpdate_AppInfo": "2023-12-16T13:57:09.0748753+00:00",
-  "LastUpdate_Ratings": "2023-12-21T17:59:26.1401876+00:00",
-  "LastUpdate_Achievements": "2023-12-21T18:06:10.9263795+00:00"
+  "LastUpdate_Ratings": "2023-12-21T18:59:56.5125801+00:00",
+  "LastUpdate_Achievements": "2023-12-21T19:06:45.2312792+00:00"
 }

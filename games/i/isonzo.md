@@ -6,9 +6,9 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Tutti Eroi! | 51.00% | ~4,862 |
 | You Shall Not Pass | 51.00% | ~4,862 |
-| Tutti Eroi! | 50.00% | ~4,766 |
-| Peak Performance | 46.00% | ~4,385 |
+| Peak Performance | 46.00% | ~4,386 |
 | Avanti Savoia! | 44.00% | ~4,195 |
 | Mamma Mia! | 35.00% | ~3,337 |
 | Conrad von Hotzensocks | 32.00% | ~3,051 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~38 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,533 (Ranked 177)  
+Progressed: 9,534 (Ranked 177)  
 Completed: 10 (0.10%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,10 +291,10 @@ Completed: 10 (0.10%) (Ranked 301)
 | 2023-12-18 | 9,486 | 10 |
 | 2023-12-19 | 9,503 | 10 |
 | 2023-12-20 | 9,521 | 10 |
-| 2023-12-21 | 9,533 | 10 |
+| 2023-12-21 | 9,534 | 10 |
 ## Awards
 Max (Diverse Characters): 40  (Ranked 469)  
-Sum: 330 (Ranked 363)  
+Sum: 331 (Ranked 363)  
 Diff (max vs sum): 106  
 | Award | Count |
 | ----- | ----- |
@@ -307,7 +307,7 @@ Diff (max vs sum): 106
 | This game is Educational | 32 |
 | This game has Quickly Understood Controls | 31 |
 | This game has Competitive Players | 27 |
-| This game has Amazing Storytelling | 23 |
+| This game has Amazing Storytelling | 24 |
 | This game has a Kind Community | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -448,3 +448,4 @@ Diff (max vs sum): 106
 | 2023-12-12 | 4.57 | - | 39 | 327 |
 | 2023-12-18 | 4.57 | - | 40 | 328 |
 | 2023-12-19 | 4.57 | - | 40 | 330 |
+| 2023-12-21 | 4.57 | - | 40 | 331 |

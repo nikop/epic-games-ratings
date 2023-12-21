@@ -4,8 +4,8 @@
   "ProductSlug": "airport-ceo-442ecc",
   "Ranking_EOS_Progress": 519,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 435,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 426,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-09-01T10:00:00+00:00",
     "PcReleaseDate": "2021-03-04T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 55,
+  "EOS_Progressed": 56,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -304,6 +304,11 @@
       "Time": "2023-12-20T23:04:46.5435574+00:00",
       "NumProgressed": 55,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T19:05:24.3242295+00:00",
+      "NumProgressed": 56,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-30T08:04:15.025911+00:00",
@@ -330,7 +335,7 @@
       "ID": "AvianVeterinarian",
       "SetID": "d11cl5p",
       "Name": "Avian veterinarian",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
       "UsersEstimate": 13
     },
@@ -498,7 +503,7 @@
       "ID": "SmallAirfield",
       "SetID": "d11cl5p",
       "Name": "Small airfield",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 25,
       "UsersEstimate": 34
     },
@@ -514,7 +519,7 @@
       "ID": "TakingOff",
       "SetID": "d11cl5p",
       "Name": "Taking off",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 10,
       "UsersEstimate": 42
     },
@@ -587,14 +592,14 @@
     {
       "ID": "d11cl5p",
       "IsBase": true,
-      "Progressed": 55,
+      "Progressed": 56,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-02T13:02:28.4911547+00:00",
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2023-12-21T18:04:56.8724729+00:00",
+  "LastChanged_Achievements": "2023-12-21T19:05:24.3242291+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:11.3523836+00:00",
-  "LastUpdate_Ratings": "2023-12-21T17:59:13.036365+00:00",
-  "LastUpdate_Achievements": "2023-12-21T18:04:56.872495+00:00"
+  "LastUpdate_Ratings": "2023-12-21T18:59:41.4932343+00:00",
+  "LastUpdate_Achievements": "2023-12-21T19:05:24.3242505+00:00"
 }

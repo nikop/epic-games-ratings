@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -153,7 +153,7 @@
   "Tags": [],
   "EOS_Progressed": 2917,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 197,
+  "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -4904,9 +4904,9 @@
       "ID": "STB_DEFEAT_GAREN_I",
       "SetID": "3pe2bac",
       "Name": "For Demacia",
-      "Percentage": 95,
+      "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2771
+      "UsersEstimate": 2800
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -4920,9 +4920,9 @@
       "ID": "STB_DEFEAT_ICE_SALAMANDER_I",
       "SetID": "3pe2bac",
       "Name": "Everfrost",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2246
+      "UsersEstimate": 2275
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -4944,9 +4944,9 @@
       "ID": "STB_DEFEAT_MAGICSHIFTER",
       "SetID": "3pe2bac",
       "Name": "Big Helmet Bro",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1167
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -5273,8 +5273,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-20T21:00:13.330526+00:00",
-  "LastChanged_Achievements": "2023-12-21T18:03:24.6285665+00:00",
+  "LastChanged_Achievements": "2023-12-21T19:03:40.0976353+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:24.9335177+00:00",
-  "LastUpdate_Ratings": "2023-12-21T18:00:09.5193995+00:00",
-  "LastUpdate_Achievements": "2023-12-21T18:03:24.6286229+00:00"
+  "LastUpdate_Ratings": "2023-12-21T19:02:27.075025+00:00",
+  "LastUpdate_Achievements": "2023-12-21T19:03:40.0977015+00:00"
 }

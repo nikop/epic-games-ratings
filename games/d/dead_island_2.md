@@ -1,46 +1,46 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 534)  
+Rating: 4.54 (Ranked 533)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 5.00% | ~37,798 |
-| Break A Leg | 4.00% | ~30,239 |
-| Coup de Grâce | 4.00% | ~30,239 |
-| Hazardous Materials | 4.00% | ~30,239 |
-| Hotel California | 4.00% | ~30,239 |
-| Dr. Reed, I Presume? | 3.00% | ~22,679 |
-| Git Gutte! | 3.00% | ~22,679 |
-| Bookworm | 3.00% | ~22,679 |
-| Friends Like These | 3.00% | ~22,679 |
-| Apex Predator | 3.00% | ~22,679 |
-| Personal Assistant Personally Assisted | 3.00% | ~22,679 |
-| One of Us | 3.00% | ~2,445 |
-| Whatever It Takes | 3.00% | ~2,445 |
-| Pork Chopped | 3.00% | ~2,445 |
-| Making Your Mark | 2.00% | ~15,119 |
-| Anger Management | 2.00% | ~15,119 |
-| Perks of the Job | 2.00% | ~15,119 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~15,119 |
-| But Doctor, I am Butcho | 2.00% | ~15,119 |
-| Slayer Squad | 2.00% | ~15,119 |
-| Can't Handle the Truth | 2.00% | ~15,119 |
-| Like Riding a Bike | 2.00% | ~15,119 |
-| Zombologist | 2.00% | ~15,119 |
-| Ooh, Shiny! | 2.00% | ~15,119 |
-| A Patton Emerges | 2.00% | ~15,119 |
-| I Am the Resurrection | 2.00% | ~15,119 |
-| Stacking the Deck | 2.00% | ~15,119 |
-| Our True Nature | 2.00% | ~15,119 |
-| This is My Weapon | 2.00% | ~15,119 |
-| Not Even My Final Form | 1.00% | ~7,560 |
-| Jumbo Keyring | 1.00% | ~7,560 |
-| Humanity Distilled | 1.00% | ~7,560 |
-| Down with the Sickness | 1.00% | ~7,560 |
-| Max Headroom | 1.00% | ~7,560 |
-| Go, Bobcats! | 1.00% | ~7,560 |
-| Rising Star | 1.00% | ~7,560 |
+| Hotel California | 5.00% | ~37,803 |
+| Welcome To Hell-A | 5.00% | ~37,803 |
+| Break A Leg | 4.00% | ~30,242 |
+| Coup de Grâce | 4.00% | ~30,242 |
+| Hazardous Materials | 4.00% | ~30,242 |
+| Dr. Reed, I Presume? | 3.00% | ~22,682 |
+| Git Gutte! | 3.00% | ~22,682 |
+| Bookworm | 3.00% | ~22,682 |
+| Friends Like These | 3.00% | ~22,682 |
+| Apex Predator | 3.00% | ~22,682 |
+| Personal Assistant Personally Assisted | 3.00% | ~22,682 |
+| One of Us | 3.00% | ~2,448 |
+| Whatever It Takes | 3.00% | ~2,448 |
+| Pork Chopped | 3.00% | ~2,448 |
+| Making Your Mark | 2.00% | ~15,121 |
+| Anger Management | 2.00% | ~15,121 |
+| Perks of the Job | 2.00% | ~15,121 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~15,121 |
+| But Doctor, I am Butcho | 2.00% | ~15,121 |
+| Slayer Squad | 2.00% | ~15,121 |
+| Can't Handle the Truth | 2.00% | ~15,121 |
+| Like Riding a Bike | 2.00% | ~15,121 |
+| Zombologist | 2.00% | ~15,121 |
+| Ooh, Shiny! | 2.00% | ~15,121 |
+| A Patton Emerges | 2.00% | ~15,121 |
+| I Am the Resurrection | 2.00% | ~15,121 |
+| Stacking the Deck | 2.00% | ~15,121 |
+| Our True Nature | 2.00% | ~15,121 |
+| This is My Weapon | 2.00% | ~15,121 |
+| Not Even My Final Form | 1.00% | ~7,561 |
+| Jumbo Keyring | 1.00% | ~7,561 |
+| Humanity Distilled | 1.00% | ~7,561 |
+| Down with the Sickness | 1.00% | ~7,561 |
+| Max Headroom | 1.00% | ~7,561 |
+| Go, Bobcats! | 1.00% | ~7,561 |
+| Rising Star | 1.00% | ~7,561 |
 | Smorgasbord | 0.80% | ~6,048 |
 | Internet Famous | 0.80% | ~6,048 |
 | Make it So | 0.70% | ~5,292 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 534)
 | Bucket List | 0.10% | ~756 |
 | Wilhelm | 0.10% | ~82 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 755,963 (Ranked 21)  
+Progressed: 756,053 (Ranked 21)  
 Completed: 2,493 (0.33%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 2,493 (0.33%) (Ranked 244)
 | 2023-12-18 | 750,555 | 2,489 |
 | 2023-12-19 | 752,530 | 2,488 |
 | 2023-12-20 | 754,472 | 2,488 |
-| 2023-12-21 | 755,963 | 2,493 |
+| 2023-12-21 | 756,053 | 2,493 |
 ## Awards
 Max (Great Boss Battles): 8,467  (Ranked 46)  
 Sum: 13,002 (Ranked 80)  

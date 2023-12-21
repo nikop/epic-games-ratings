@@ -5,15 +5,15 @@ Rating: 4.78 (Ranked 110)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,771 |
+| For Demacia | 96.00% | ~2,800 |
 | No more cages! | 91.00% | ~2,654 |
-| Everfrost | 77.00% | ~2,246 |
+| Everfrost | 78.00% | ~2,275 |
 | Pentakill | 77.00% | ~2,246 |
 | Dark Forest | 77.00% | ~2,246 |
 | The use of petricite | 74.00% | ~2,159 |
 | You can pet the dog | 61.00% | ~1,779 |
 | Thornbarrow | 41.00% | ~1,196 |
-| Big Helmet Bro | 39.00% | ~1,138 |
+| Big Helmet Bro | 40.00% | ~1,167 |
 | Clarion Cove | 39.00% | ~1,138 |
 | Elemental master | 37.00% | ~1,079 |
 | Past trauma | 37.00% | ~1,079 |

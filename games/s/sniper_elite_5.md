@@ -6,7 +6,7 @@ Rating: 4.45 (Ranked 673)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 47.00% | ~1,916 |
-| Confirming Suspicions | 41.00% | ~1,671 |
+| Confirming Suspicions | 41.00% | ~1,672 |
 | The Kraken Wakes | 37.00% | ~1,508 |
 | It's Starting to Crack | 34.00% | ~1,386 |
 | Change the Channel | 31.00% | ~1,264 |
@@ -16,19 +16,19 @@ Rating: 4.45 (Ranked 673)
 | Target America | 27.00% | ~1,101 |
 | The Kraken Sleeps | 25.00% | ~1,019 |
 | As Quiet as a Mouse | 24.00% | ~978 |
-| Liberté | 23.00% | ~937 |
-| Organ Grinder | 23.00% | ~937 |
-| Sharpshooter | 23.00% | ~937 |
-| Gunslinger | 19.00% | ~774 |
-| Explosive Efficiency | 19.00% | ~774 |
+| Liberté | 23.00% | ~938 |
+| Organ Grinder | 23.00% | ~938 |
+| Sharpshooter | 23.00% | ~938 |
+| Gunslinger | 19.00% | ~775 |
+| Explosive Efficiency | 19.00% | ~775 |
 | Climbing the Ladder | 17.00% | ~693 |
 | Just a Flesh Wound | 17.00% | ~693 |
 | Der Geist | 17.00% | ~693 |
 | Close Quarters | 16.00% | ~652 |
 | Snake in the Grass | 16.00% | ~652 |
-| Skirmisher | 15.00% | ~611 |
-| Die Nussknacker Sweet! | 15.00% | ~611 |
-| Brains of the Operation | 15.00% | ~611 |
+| Skirmisher | 15.00% | ~612 |
+| Die Nussknacker Sweet! | 15.00% | ~612 |
+| Brains of the Operation | 15.00% | ~612 |
 | No Stone Unturned | 14.00% | ~571 |
 | Opposing Force | 14.00% | ~571 |
 | Enemy at the Gates | 14.00% | ~571 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 673)
 | Going Overboard | 0.60% | ~24 |
 | Stroll in the Woods | 0.50% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,076 (Ranked 206)  
+Progressed: 4,077 (Ranked 206)  
 Completed: 11 (0.27%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,10 +320,10 @@ Completed: 11 (0.27%) (Ranked 254)
 | 2023-12-18 | 4,057 | 11 |
 | 2023-12-19 | 4,060 | 11 |
 | 2023-12-20 | 4,066 | 11 |
-| 2023-12-21 | 4,076 | 11 |
+| 2023-12-21 | 4,077 | 11 |
 ## Awards
-Max (Great for Beginners): 28  (Ranked 519)  
-Sum: 28 (Ranked 533)  
+Max (Great for Beginners): 28  (Ranked 518)  
+Sum: 28 (Ranked 532)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |

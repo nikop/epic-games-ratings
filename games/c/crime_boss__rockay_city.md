@@ -20,7 +20,7 @@ Rating: 3.95 (Ranked 1,030)
 | Hidden Sonata | 1.00% | ~923 |
 | True Player | 1.00% | ~923 |
 | Rockay Rex | 1.00% | ~923 |
-| Track Star | 0.90% | ~830 |
+| Track Star | 0.90% | ~831 |
 | Headhunter | 0.80% | ~738 |
 | I Like Trains | 0.70% | ~646 |
 | Freebooter | 0.70% | ~646 |
@@ -31,7 +31,7 @@ Rating: 3.95 (Ranked 1,030)
 | Foo Finder | 0.50% | ~461 |
 | Olympus Ascended | 0.50% | ~461 |
 | Ding Dong | 0.50% | ~461 |
-| All that Glitters | 0.40% | ~82 |
+| All that Glitters | 0.40% | ~83 |
 | Rockay Raider | 0.30% | ~277 |
 | Groundhog Days | 0.30% | ~277 |
 | Cracked the Jack | 0.30% | ~277 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,030)
 | Full House | 0.10% | ~92 |
 | Geek Out | 0.10% | ~92 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,277 (Ranked 96)  
+Progressed: 92,279 (Ranked 96)  
 Completed: 58 (0.06%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,11 +292,11 @@ Completed: 58 (0.06%) (Ranked 325)
 | 2023-12-18 | 92,143 | 58 |
 | 2023-12-19 | 92,195 | 58 |
 | 2023-12-20 | 92,233 | 58 |
-| 2023-12-21 | 92,277 | 58 |
+| 2023-12-21 | 92,279 | 58 |
 ## Awards
 Max (Diverse Characters): 570  (Ranked 207)  
-Sum: 2,698 (Ranked 190)  
-Diff (max vs sum): 17  
+Sum: 2,698 (Ranked 191)  
+Diff (max vs sum): 16  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 570 |

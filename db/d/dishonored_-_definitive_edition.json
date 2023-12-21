@@ -2,13 +2,13 @@
   "ID": "766e1b59c32c447093add5efbc1a4858",
   "Name": "Dishonored - Definitive Edition",
   "ProductSlug": "dishonored-definitive-edition",
-  "Ranking_Rating": 150,
+  "Ranking_Rating": 149,
   "Ranking_Popularity": 166,
   "Ranking_PopularitySum": 249,
   "Ranking_EOS_Progress": 813,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 562,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-09-09T15:00:00+00:00",
     "PcReleaseDate": "2015-08-25T09:00:00+00:00",
@@ -2434,10 +2434,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 1258,
       "NumberOfAwardsMax": 871
+    },
+    {
+      "Time": "2023-12-21T18:58:44.1480896+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 1259,
+      "NumberOfAwardsMax": 871
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1258,
+  "NumberOfAwards": 1259,
   "NumberOfAwardsMax": 871,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2499,7 +2505,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 39
+      "Count": 40
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2525,8 +2531,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:28.893212+00:00",
-  "LastChanged": "2023-12-21T03:58:33.0391326+00:00",
+  "LastChanged": "2023-12-21T18:58:44.1480894+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:11.9810896+00:00",
-  "LastUpdate_Ratings": "2023-12-21T17:58:22.9063965+00:00",
-  "LastUpdate_Achievements": "2023-12-21T18:06:12.7624494+00:00"
+  "LastUpdate_Ratings": "2023-12-21T18:58:44.1480899+00:00",
+  "LastUpdate_Achievements": "2023-12-21T19:06:47.2021358+00:00"
 }
