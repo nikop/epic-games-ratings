@@ -22,9 +22,9 @@ Rating: 3.23 (Ranked 1,066)
 | Factory Expansion | 8.00% | ~164 |
 | Exterminator | 7.00% | ~144 |
 | Captain | 7.00% | ~144 |
+| Know The Enemy | 6.00% | ~123 |
 | Moving On Up | 6.00% | ~123 |
 | Brothers in Arms | 6.00% | ~123 |
-| Know The Enemy | 5.00% | ~103 |
 | Player Betrayer | 5.00% | ~103 |
 | Silver Achiever | 5.00% | ~103 |
 | Major | 5.00% | ~103 |

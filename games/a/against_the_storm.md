@@ -38,9 +38,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | A Real Challenge | 1.00% | ~188 |
 | Trade Baron | 1.00% | ~188 |
 | Sparkdew Crystals | 0.90% | ~169 |
+| Haunted Forest | 0.90% | ~169 |
 | Flooded Mines | 0.90% | ~169 |
 | Against All Odds | 0.80% | ~150 |
-| Haunted Forest | 0.80% | ~150 |
 | Serving Ale | 0.70% | ~131 |
 | Defying the Crown | 0.70% | ~131 |
 | Fishmen Ritual Site | 0.60% | ~113 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,782 (Ranked 148)  
+Progressed: 18,783 (Ranked 148)  
 Completed: 39 (0.21%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 39 (0.21%) (Ranked 269)
 | 2023-12-18 | 18,615 | 39 |
 | 2023-12-19 | 18,687 | 39 |
 | 2023-12-20 | 18,771 | 39 |
-| 2023-12-21 | 18,782 | 39 |
+| 2023-12-21 | 18,783 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 228)  
 Sum: 3,274 (Ranked 175)  

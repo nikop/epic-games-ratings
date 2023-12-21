@@ -13,7 +13,7 @@ Rating: 4.53 (Ranked 551)
 | Bosmang | 9.00% | ~1,526 |
 | Celebrations are in Order | 9.00% | ~1,526 |
 | Impossible Objects | 9.00% | ~1,526 |
-| Spore Taste | 8.00% | ~1,356 |
+| Spore Taste | 8.00% | ~1,357 |
 | Zen Master | 8.00% | ~233 |
 | Stogie for Fogey | 7.00% | ~1,187 |
 | Call it Even | 7.00% | ~1,187 |
@@ -25,7 +25,7 @@ Rating: 4.53 (Ranked 551)
 | Data Archivist | 5.00% | ~848 |
 | Thorston Mayer | 5.00% | ~848 |
 | Khan's Revenge | 5.00% | ~848 |
-| Master Negotiator | 5.00% | ~145 |
+| Master Negotiator | 5.00% | ~146 |
 | Doctor Approved | 4.00% | ~678 |
 | Bottoms up! | 4.00% | ~678 |
 | Data Logger | 3.00% | ~509 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 551)
 | Scavenger Star | 0.20% | ~34 |
 | Data Collector | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,955 (Ranked 154)  
+Progressed: 16,957 (Ranked 154)  
 Completed: 46 (0.27%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 46 (0.27%) (Ranked 254)
 | 2023-12-18 | 16,797 | 44 |
 | 2023-12-19 | 16,865 | 45 |
 | 2023-12-20 | 16,946 | 46 |
-| 2023-12-21 | 16,955 | 46 |
+| 2023-12-21 | 16,957 | 46 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

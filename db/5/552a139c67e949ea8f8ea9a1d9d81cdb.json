@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1491,
+  "EOS_Progressed": 1492,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3562,6 +3562,11 @@
       "Time": "2023-12-21T01:49:34.7595373+00:00",
       "NumProgressed": 1491,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T02:24:53.7559292+00:00",
+      "NumProgressed": 1492,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -3718,7 +3723,7 @@
       "Name": "Well begun\u2026",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -3910,7 +3915,7 @@
       "Name": "Mission complete",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ML_ACHIEVEMENT_44",
@@ -3941,20 +3946,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1491,
+      "Progressed": 1492,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1159,
+      "Progressed": 1160,
       "Completed": 997
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-21T01:49:34.7595368+00:00",
+  "LastChanged_Achievements": "2023-12-21T02:24:53.7559289+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:11.7320397+00:00",
-  "LastUpdate_Ratings": "2023-12-21T01:46:52.3856042+00:00",
-  "LastUpdate_Achievements": "2023-12-21T01:49:34.7595954+00:00"
+  "LastUpdate_Ratings": "2023-12-21T02:23:48.8966072+00:00",
+  "LastUpdate_Achievements": "2023-12-21T02:24:53.7559743+00:00"
 }

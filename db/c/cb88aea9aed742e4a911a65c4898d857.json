@@ -119,9 +119,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 5791,
+  "EOS_Progressed": 5797,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2648,
+  "EOS_NewPlayers": 2640,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1744,6 +1744,11 @@
       "Time": "2023-12-21T01:55:28.6098544+00:00",
       "NumProgressed": 5791,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T02:30:38.8386671+00:00",
+      "NumProgressed": 5797,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -1756,7 +1761,7 @@
       "Name": "Conspiracy",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "03_TheStolenStar",
@@ -1764,7 +1769,7 @@
       "Name": "Stolen Star",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -1860,7 +1865,7 @@
       "Name": "Pentakill",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "16_TheRise",
@@ -1868,7 +1873,7 @@
       "Name": "The Rise",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "17_TheExemplar",
@@ -1884,7 +1889,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "19_TheVoidWolf",
@@ -1916,7 +1921,7 @@
       "Name": "Perfect Timing",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "23_DynastyRestored",
@@ -1964,7 +1969,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -1972,7 +1977,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "30_The GreatestExploration",
@@ -1980,7 +1985,7 @@
       "Name": "Greatest Exploration",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "31_DontTouchThis",
@@ -2004,7 +2009,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -2034,9 +2039,9 @@
       "ID": "37_TheSirenicalDiplomat",
       "SetID": "37a94m8",
       "Name": "Silver-Tongued Diplomat",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 58
     },
     {
       "ID": "38_ThoseWhoAreAboutToDieSaluteYou",
@@ -2068,7 +2073,7 @@
       "Name": "Jungle Heat",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "42_TheIronJudgement",
@@ -2108,7 +2113,7 @@
       "Name": "A Spark",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "47_AFlame",
@@ -2275,7 +2280,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 5791,
+      "Progressed": 5797,
       "Completed": 0
     }
   ],
@@ -2283,8 +2288,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-20T22:57:26.2950246+00:00",
-  "LastChanged_Achievements": "2023-12-21T01:55:28.6098539+00:00",
+  "LastChanged_Achievements": "2023-12-21T02:30:38.8386669+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:14.7846288+00:00",
-  "LastUpdate_Ratings": "2023-12-21T01:43:30.9220628+00:00",
-  "LastUpdate_Achievements": "2023-12-21T01:55:28.6099088+00:00"
+  "LastUpdate_Ratings": "2023-12-21T02:18:51.0549504+00:00",
+  "LastUpdate_Achievements": "2023-12-21T02:30:38.8387117+00:00"
 }

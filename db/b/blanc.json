@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3625,
+  "EOS_Progressed": 3626,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -5736,6 +5736,11 @@
       "Time": "2023-12-20T21:05:10.1036113+00:00",
       "NumProgressed": 3625,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-21T02:26:17.5155599+00:00",
+      "NumProgressed": 3626,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -5755,7 +5760,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "FALLEN_TREE",
@@ -5763,7 +5768,7 @@
       "Name": "Sheltered by the fallen tree",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "HELPING_LITTLE_ONES",
@@ -5803,7 +5808,7 @@
       "Name": "Snow-covered ruins",
       "Percentage": 0.4,
       "XP": 90,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "STARTING_DUO",
@@ -5850,7 +5855,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3625,
+      "Progressed": 3626,
       "Completed": 6
     }
   ],
@@ -5858,8 +5863,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-21T01:51:06.0228968+00:00",
+  "LastChanged_Achievements": "2023-12-21T02:26:17.5155597+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:23.2126403+00:00",
-  "LastUpdate_Ratings": "2023-12-21T01:46:09.0646181+00:00",
-  "LastUpdate_Achievements": "2023-12-21T01:51:06.0229423+00:00"
+  "LastUpdate_Ratings": "2023-12-21T02:21:10.6514827+00:00",
+  "LastUpdate_Achievements": "2023-12-21T02:26:17.5155947+00:00"
 }

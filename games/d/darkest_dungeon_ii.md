@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 9.00% | ~330 |
+| Malpractice Assurance | 9.00% | ~331 |
 | Lost and Found | 5.00% | ~184 |
 | This Belongs in a Museum | 4.00% | ~5,152 |
 | Autodidact | 4.00% | ~5,152 |
@@ -21,6 +21,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Escape from the Black Hole | 3.00% | ~3,864 |
 | To Grandmother's House | 3.00% | ~3,864 |
 | Ploughshares to Swords | 3.00% | ~110 |
+| Friends 'Til the End | 3.00% | ~110 |
 | Don't Make Me Turn This Coach Around | 2.00% | ~2,576 |
 | It Rings a Bell | 2.00% | ~2,576 |
 | Unfulfilled Desires | 2.00% | ~2,576 |
@@ -40,7 +41,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Nope | 2.00% | ~2,576 |
 | Unshackled | 2.00% | ~2,576 |
 | Road Trip | 2.00% | ~2,576 |
-| Friends 'Til the End | 2.00% | ~73 |
 | Resurrection | 1.00% | ~1,288 |
 | Unleash Hell | 1.00% | ~1,288 |
 | Funny Guy | 1.00% | ~1,288 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,803 (Ranked 85)  
+Progressed: 128,810 (Ranked 85)  
 Completed: 3 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 3 (0.00%) (Ranked 384)
 | 2023-12-18 | 128,398 | 3 |
 | 2023-12-19 | 128,605 | 3 |
 | 2023-12-20 | 128,785 | 3 |
-| 2023-12-21 | 128,803 | 3 |
+| 2023-12-21 | 128,810 | 3 |
 ## Awards
 Max (Character Customization): 7,805  (Ranked 50)  
 Sum: 20,840 (Ranked 58)  

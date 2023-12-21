@@ -8373,9 +8373,9 @@
       "Count": 434
     }
   ],
-  "EOS_Progressed": 737657,
+  "EOS_Progressed": 737688,
   "EOS_Completed": 12958,
-  "EOS_NewPlayers": 19493,
+  "EOS_NewPlayers": 19494,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.76,
   "EosHistory": [
@@ -30213,6 +30213,11 @@
       "Time": "2023-12-21T01:54:37.7369968+00:00",
       "NumProgressed": 737657,
       "NumCompleted": 12958
+    },
+    {
+      "Time": "2023-12-21T02:29:52.9201366+00:00",
+      "NumProgressed": 737688,
+      "NumCompleted": 12958
     }
   ],
   "TotalAchievements": 60,
@@ -30224,7 +30229,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22130
+      "UsersEstimate": 22131
     },
     {
       "ID": "02_Vengeance_H1",
@@ -30232,7 +30237,7 @@
       "Name": "The Assault",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14753
+      "UsersEstimate": 14754
     },
     {
       "ID": "03_Vengeance_H2",
@@ -30240,7 +30245,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14753
+      "UsersEstimate": 14754
     },
     {
       "ID": "04_Vengeance_H3",
@@ -30400,7 +30405,7 @@
       "Name": "Life is your teacher",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22130
+      "UsersEstimate": 22131
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -30416,7 +30421,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5901
+      "UsersEstimate": 5902
     },
     {
       "ID": "26_ShrineSpirit",
@@ -30472,7 +30477,7 @@
       "Name": "Old Child",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14753
+      "UsersEstimate": 14754
     },
     {
       "ID": "33_BladeOneShot",
@@ -30488,7 +30493,7 @@
       "Name": "Lightning Hands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14753
+      "UsersEstimate": 14754
     },
     {
       "ID": "35_WideStrike",
@@ -30703,21 +30708,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 46958,
+      "Progressed": 46989,
       "Completed": 10777
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 737657,
+      "Progressed": 737688,
       "Completed": 12958
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-20T22:03:16.2977333+00:00",
-  "LastChanged_Achievements": "2023-12-21T01:54:37.7369962+00:00",
+  "LastChanged_Achievements": "2023-12-21T02:29:52.9201364+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:50.1499922+00:00",
-  "LastUpdate_Ratings": "2023-12-21T01:48:47.2986779+00:00",
-  "LastUpdate_Achievements": "2023-12-21T01:54:37.7371649+00:00"
+  "LastUpdate_Ratings": "2023-12-21T02:24:09.8975533+00:00",
+  "LastUpdate_Achievements": "2023-12-21T02:29:52.9202537+00:00"
 }

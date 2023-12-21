@@ -190,6 +190,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lost the Hearts of Kmt | 0.10% | ~16 |
 | Won the Hearts of Kmt | 0.10% | ~16 |
 | Partly Balanced Ma'at | 0.10% | ~16 |
+| Kushite Pyramids | 0.10% | ~16 |
 | Kush | 0.10% | ~16 |
 | Kushite Paganism | 0.10% | ~16 |
 | Beja Archer | 0.10% | ~16 |
@@ -348,7 +349,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pharaonic History Repeats | 0.00% | ~0 |
 | Egypt Campaign | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
-| Kushite Pyramids | 0.00% | ~0 |
 | Cothon in Carthago | 0.00% | ~0 |
 | Yazilikaya in Hattusa | 0.00% | ~0 |
 | Heliopolis in Heliopolis | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Al Khazneh in Petra | 0.00% | ~0 |
 | Colosseum in Roma | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,854 (Ranked 158)  
+Progressed: 15,855 (Ranked 158)  
 Completed: 5 (0.03%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -610,6 +610,7 @@ Completed: 5 (0.03%) (Ranked 345)
 | 2023-12-18 | 15,826 | 5 |
 | 2023-12-19 | 15,840 | 5 |
 | 2023-12-20 | 15,854 | 5 |
+| 2023-12-21 | 15,855 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 278)  
 Sum: 1,905 (Ranked 220)  

@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 373,
+  "EOS_Progressed": 374,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.07,
   "EosHistory": [
@@ -906,6 +906,11 @@
       "Time": "2023-12-21T01:55:18.0248482+00:00",
       "NumProgressed": 373,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-21T02:30:29.5832055+00:00",
+      "NumProgressed": 374,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 19,
@@ -981,7 +986,7 @@
       "Name": "The activist",
       "Percentage": 21,
       "XP": 90,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "success_bash",
@@ -1029,7 +1034,7 @@
       "Name": "The intellectual",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "success_lucas",
@@ -1068,7 +1073,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 373,
+      "Progressed": 374,
       "Completed": 4
     }
   ],
@@ -1076,8 +1081,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-12-21T01:55:18.0248479+00:00",
+  "LastChanged_Achievements": "2023-12-21T02:30:29.5832054+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:10.0190099+00:00",
-  "LastUpdate_Ratings": "2023-12-21T01:46:42.6735319+00:00",
-  "LastUpdate_Achievements": "2023-12-21T01:55:18.0248639+00:00"
+  "LastUpdate_Ratings": "2023-12-21T02:21:40.3418311+00:00",
+  "LastUpdate_Achievements": "2023-12-21T02:30:29.5832204+00:00"
 }

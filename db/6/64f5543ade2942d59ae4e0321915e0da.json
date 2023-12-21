@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 185,
+  "EOS_Progressed": 186,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -764,6 +764,11 @@
       "Time": "2023-12-21T01:54:08.5883779+00:00",
       "NumProgressed": 185,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T02:29:27.0041995+00:00",
+      "NumProgressed": 186,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -784,7 +789,7 @@
       "Name": "Empire",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "AC_ALL_MONEYSACKS",
@@ -832,7 +837,7 @@
       "Name": "Gambler",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "AC_BLACKJACK_GAMES_2",
@@ -864,7 +869,7 @@
       "Name": "Downfall",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "AC_BOSS_03",
@@ -944,7 +949,7 @@
       "Name": "Killer",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -952,15 +957,15 @@
       "Name": "Psycopath",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "AC_DEATH_ENEMIES_3",
       "SetID": "16i2akc",
       "Name": "Genocide",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 39
+      "UsersEstimate": 37
     },
     {
       "ID": "AC_DISTANCE_1",
@@ -968,7 +973,7 @@
       "Name": "Excursion",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -976,7 +981,7 @@
       "Name": "Journey",
       "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -1080,7 +1085,7 @@
       "Name": "Loss",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -1111,14 +1116,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 185,
+      "Progressed": 186,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-21T01:54:08.5883775+00:00",
+  "LastChanged_Achievements": "2023-12-21T02:29:27.0041994+00:00",
   "LastUpdate_AppInfo": "2023-12-19T20:57:15.8211494+00:00",
-  "LastUpdate_Ratings": "2023-12-21T01:46:39.9517647+00:00",
-  "LastUpdate_Achievements": "2023-12-21T01:54:08.5884152+00:00"
+  "LastUpdate_Ratings": "2023-12-21T02:21:37.9258324+00:00",
+  "LastUpdate_Achievements": "2023-12-21T02:29:27.0042241+00:00"
 }

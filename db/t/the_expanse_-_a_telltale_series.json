@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16955,
+  "EOS_Progressed": 16957,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 821,
+  "EOS_NewPlayers": 822,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -14569,6 +14569,11 @@
       "Time": "2023-12-21T01:50:58.3011762+00:00",
       "NumProgressed": 16955,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-12-21T02:26:10.795891+00:00",
+      "NumProgressed": 16957,
+      "NumCompleted": 46
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14645,7 +14650,7 @@
       "Name": "Spore Taste",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1356
+      "UsersEstimate": 1357
     },
     {
       "ID": "18",
@@ -14845,7 +14850,7 @@
       "Name": "Master Negotiator",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "35",
@@ -14860,13 +14865,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 16955,
+      "Progressed": 16957,
       "Completed": 46
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2909,
+      "Progressed": 2911,
       "Completed": 975
     }
   ],
@@ -14874,8 +14879,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-17T22:59:50.8326927+00:00",
-  "LastChanged_Achievements": "2023-12-21T01:50:58.3011758+00:00",
+  "LastChanged_Achievements": "2023-12-21T02:26:10.7958908+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:40.0929133+00:00",
-  "LastUpdate_Ratings": "2023-12-21T01:46:52.0842948+00:00",
-  "LastUpdate_Achievements": "2023-12-21T01:50:58.301267+00:00"
+  "LastUpdate_Ratings": "2023-12-21T02:23:48.5777276+00:00",
+  "LastUpdate_Achievements": "2023-12-21T02:26:10.7959574+00:00"
 }

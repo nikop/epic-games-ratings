@@ -6,27 +6,27 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 87.00% | ~8,739 |
-| Photogenic | 83.00% | ~8,337 |
-| Surge Gauntlet Jockey | 80.00% | ~8,036 |
+| Let's Get This Party Started | 87.00% | ~8,740 |
+| Photogenic | 83.00% | ~8,338 |
+| Surge Gauntlet Jockey | 80.00% | ~8,037 |
 | Plug It In | 79.00% | ~7,936 |
 | Adventure Time | 75.00% | ~7,534 |
-| Playing With Power | 73.00% | ~7,333 |
-| Coup d'Etat | 56.00% | ~5,625 |
-| You're Fired | 54.00% | ~5,424 |
+| Playing With Power | 73.00% | ~7,334 |
+| Coup d'Etat | 56.00% | ~5,626 |
+| You're Fired | 54.00% | ~5,425 |
 | Get Furious | 53.00% | ~5,324 |
 | Hacks In Stacks | 53.00% | ~5,324 |
-| Gunplay And Cosplay | 52.00% | ~5,223 |
+| Gunplay And Cosplay | 52.00% | ~5,224 |
 | Meching Enemies | 46.00% | ~4,621 |
 | Ticket Toddler | 42.00% | ~4,219 |
 | Booty Bashing | 37.00% | ~3,717 |
-| Field Medic | 36.00% | ~3,616 |
-| Here Comes a New Challenger | 36.00% | ~3,616 |
-| Rapid Response | 32.00% | ~3,214 |
+| Field Medic | 36.00% | ~3,617 |
+| Here Comes a New Challenger | 36.00% | ~3,617 |
+| Rapid Response | 32.00% | ~3,215 |
 | Surge Ahead | 29.00% | ~2,913 |
 | The Full Monty | 29.00% | ~2,913 |
 | Guardian Angel | 26.00% | ~2,612 |
-| Poppin Noggins | 23.00% | ~2,310 |
+| Poppin Noggins | 23.00% | ~2,311 |
 | Clips and Crits | 18.00% | ~1,808 |
 | Grey Goo | 16.00% | ~1,607 |
 | Boss of Bosses | 14.00% | ~1,406 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~40 |
 | Pyrotechnical | 0.20% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,045 (Ranked 172)  
+Progressed: 10,046 (Ranked 172)  
 Completed: 2 (0.02%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,6 +302,7 @@ Completed: 2 (0.02%) (Ranked 353)
 | 2023-12-18 | 10,007 | 2 |
 | 2023-12-19 | 10,028 | 2 |
 | 2023-12-20 | 10,045 | 2 |
+| 2023-12-21 | 10,046 | 2 |
 ## Awards
 Max (Great for Beginners): 65  (Ranked 417)  
 Sum: 465 (Ranked 338)  

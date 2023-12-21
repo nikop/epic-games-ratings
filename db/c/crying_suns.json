@@ -673,9 +673,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 472551,
+  "EOS_Progressed": 472552,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 332,
+  "EOS_NewPlayers": 333,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25943,6 +25943,11 @@
       "Time": "2023-12-21T01:55:57.0348492+00:00",
       "NumProgressed": 472551,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-12-21T02:31:04.9440203+00:00",
+      "NumProgressed": 472552,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -26138,7 +26143,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160667
+      "UsersEstimate": 160668
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -26378,7 +26383,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207922
+      "UsersEstimate": 207923
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -26386,7 +26391,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 141765
+      "UsersEstimate": 141766
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -26585,21 +26590,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 16485,
+      "Progressed": 16486,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 472551,
+      "Progressed": 472552,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-12-16T01:44:08.2225132+00:00",
-  "LastChanged_Achievements": "2023-12-21T01:55:57.0348488+00:00",
+  "LastChanged_Achievements": "2023-12-21T02:31:04.94402+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:11.1940108+00:00",
-  "LastUpdate_Ratings": "2023-12-21T01:43:28.8771647+00:00",
-  "LastUpdate_Achievements": "2023-12-21T01:55:57.0350777+00:00"
+  "LastUpdate_Ratings": "2023-12-21T02:18:49.1248724+00:00",
+  "LastUpdate_Achievements": "2023-12-21T02:31:04.9442628+00:00"
 }

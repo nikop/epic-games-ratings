@@ -337,7 +337,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 237481,
+  "EOS_Progressed": 237482,
   "EOS_Completed": 49,
   "EOS_NewPlayers": 345,
   "EOS_NewCompleters": 0,
@@ -25932,6 +25932,11 @@
       "Time": "2023-12-21T01:49:57.5831706+00:00",
       "NumProgressed": 237481,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-21T02:25:14.3776917+00:00",
+      "NumProgressed": 237482,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -25967,7 +25972,7 @@
       "Name": "CENTAUR",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 18998
+      "UsersEstimate": 18999
     },
     {
       "ID": "CHALLENGER",
@@ -26007,7 +26012,7 @@
       "Name": "FASTER THAN EVER",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 18998
+      "UsersEstimate": 18999
     },
     {
       "ID": "FLAWLESS",
@@ -26207,22 +26212,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 97367
+      "UsersEstimate": 97368
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 237481,
+      "Progressed": 237482,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-12-21T01:49:57.5831703+00:00",
+  "LastChanged_Achievements": "2023-12-21T02:25:14.3776915+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:19.1296374+00:00",
-  "LastUpdate_Ratings": "2023-12-21T01:45:32.9873683+00:00",
-  "LastUpdate_Achievements": "2023-12-21T01:49:57.5833056+00:00"
+  "LastUpdate_Ratings": "2023-12-21T02:20:39.370238+00:00",
+  "LastUpdate_Achievements": "2023-12-21T02:25:14.3778258+00:00"
 }

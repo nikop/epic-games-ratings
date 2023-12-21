@@ -6,11 +6,11 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 4.00% | ~44,324 |
-| Zealous | 3.00% | ~33,243 |
-| Not half bad | 3.00% | ~33,243 |
-| Skillful | 3.00% | ~33,243 |
-| Make Some Noise | 3.00% | ~33,243 |
+| It wakes | 4.00% | ~44,325 |
+| Zealous | 3.00% | ~33,244 |
+| Not half bad | 3.00% | ~33,244 |
+| Skillful | 3.00% | ~33,244 |
+| Make Some Noise | 3.00% | ~33,244 |
 | The Grand Sacrifice | 2.00% | ~22,162 |
 | Agonizing Escape | 2.00% | ~22,162 |
 | Backdoor Escape | 2.00% | ~22,162 |
@@ -78,17 +78,17 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outrun the Overlap | 0.60% | ~6,649 |
 | Extraterrestrial | 0.60% | ~6,649 |
 | Outta Nowhere | 0.60% | ~6,649 |
-| Hemophobia | 0.50% | ~5,540 |
-| Serial Killer | 0.50% | ~5,540 |
-| Game Over | 0.50% | ~5,540 |
-| Devoted Gatekeeping | 0.50% | ~5,540 |
-| Shrine Apparatus | 0.50% | ~5,540 |
-| Broken Bodies | 0.50% | ~5,540 |
-| Selfless Survival | 0.50% | ~5,540 |
-| End of Days | 0.50% | ~5,540 |
-| Insult and Injury | 0.50% | ~5,540 |
-| High Speed Pursuit | 0.50% | ~5,540 |
-| Rebuilding The Borgo | 0.50% | ~5,540 |
+| Hemophobia | 0.50% | ~5,541 |
+| Serial Killer | 0.50% | ~5,541 |
+| Game Over | 0.50% | ~5,541 |
+| Devoted Gatekeeping | 0.50% | ~5,541 |
+| Shrine Apparatus | 0.50% | ~5,541 |
+| Broken Bodies | 0.50% | ~5,541 |
+| Selfless Survival | 0.50% | ~5,541 |
+| End of Days | 0.50% | ~5,541 |
+| Insult and Injury | 0.50% | ~5,541 |
+| High Speed Pursuit | 0.50% | ~5,541 |
+| Rebuilding The Borgo | 0.50% | ~5,541 |
 | Jump Scares | 0.40% | ~4,432 |
 | Deep Cleansing | 0.40% | ~4,432 |
 | Texas BBQ | 0.40% | ~4,432 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,108 |
 | Adept Good Guy | 0.10% | ~1,108 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,108,088 (Ranked 13)  
+Progressed: 1,108,124 (Ranked 13)  
 Completed: 63 (0.01%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -484,7 +484,7 @@ Completed: 63 (0.01%) (Ranked 361)
 | 2023-12-18 | 1,104,280 | 63 |
 | 2023-12-19 | 1,106,038 | 63 |
 | 2023-12-20 | 1,107,875 | 63 |
-| 2023-12-21 | 1,108,088 | 63 |
+| 2023-12-21 | 1,108,124 | 63 |
 ## Awards
 Max (Diverse Characters): 38,251  (Ranked 15)  
 Sum: 289,511 (Ranked 12)  

@@ -1739,9 +1739,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 18317,
+  "EOS_Progressed": 18319,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1730,
+  "EOS_NewPlayers": 1729,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -10509,6 +10509,11 @@
       "Time": "2023-12-21T01:55:07.5920084+00:00",
       "NumProgressed": 18317,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-21T02:30:20.1582589+00:00",
+      "NumProgressed": 18319,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -10552,7 +10557,7 @@
       "Name": "Flesh Wound",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 2564
+      "UsersEstimate": 2565
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -10624,7 +10629,7 @@
       "Name": "Get a Grip",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2564
+      "UsersEstimate": 2565
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -10712,7 +10717,7 @@
       "Name": "The Outer Way",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2564
+      "UsersEstimate": 2565
     },
     {
       "ID": "STORY_ESCAPE",
@@ -10895,13 +10900,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 18317,
+      "Progressed": 18319,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 6243,
+      "Progressed": 6245,
       "Completed": 29
     }
   ],
@@ -10909,8 +10914,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-20T19:03:15.3941819+00:00",
-  "LastChanged_Achievements": "2023-12-21T01:55:07.5920079+00:00",
+  "LastChanged_Achievements": "2023-12-21T02:30:20.1582587+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.4893565+00:00",
-  "LastUpdate_Ratings": "2023-12-21T01:48:59.4236438+00:00",
-  "LastUpdate_Achievements": "2023-12-21T01:55:07.5921155+00:00"
+  "LastUpdate_Ratings": "2023-12-21T02:24:20.7994048+00:00",
+  "LastUpdate_Achievements": "2023-12-21T02:30:20.1583229+00:00"
 }

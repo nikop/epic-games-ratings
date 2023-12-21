@@ -615,9 +615,9 @@
       "ID": "GoingPlaces",
       "SetID": "4bd750m",
       "Name": "Going Places",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 97
     },
     {
       "ID": "GottaGoFast",
@@ -790,8 +790,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-21T01:50:20.957501+00:00",
+  "LastChanged_Achievements": "2023-12-21T02:25:35.8261964+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.7183942+00:00",
-  "LastUpdate_Ratings": "2023-12-21T01:48:59.6045929+00:00",
-  "LastUpdate_Achievements": "2023-12-21T01:50:20.9575232+00:00"
+  "LastUpdate_Ratings": "2023-12-21T02:24:20.9899976+00:00",
+  "LastUpdate_Achievements": "2023-12-21T02:25:35.8262148+00:00"
 }

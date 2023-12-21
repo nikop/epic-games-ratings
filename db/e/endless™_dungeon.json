@@ -4,7 +4,7 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1357,
+  "EOS_Progressed": 1358,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2730,6 +2730,11 @@
       "Time": "2023-12-20T20:03:54.9606205+00:00",
       "NumProgressed": 1357,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T02:25:13.3581555+00:00",
+      "NumProgressed": 1358,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -2774,7 +2779,7 @@
       "Name": "Blobmeister",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
@@ -2782,7 +2787,7 @@
       "Name": "Unblurred Lines",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACHIEVEMENT_BOT_BOSS",
@@ -2798,7 +2803,7 @@
       "Name": "Pest Control",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -2822,7 +2827,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 936
+      "UsersEstimate": 937
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -2830,7 +2835,7 @@
       "Name": "Exhaustive Explorer",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
@@ -2854,7 +2859,7 @@
       "Name": "How Low Can We Go?",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
@@ -2942,7 +2947,7 @@
       "Name": "Effective Efficiency",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACHIEVEMENT_SCORE_WIN2WIN",
@@ -2958,7 +2963,7 @@
       "Name": "All Your Secrets Are Belong to Us",
       "Percentage": 0.7,
       "XP": 90,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_TIME_LIMIT1WIN",
@@ -2981,14 +2986,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1357,
+      "Progressed": 1358,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-12-21T01:49:56.429223+00:00",
+  "LastChanged_Achievements": "2023-12-21T02:25:13.3581552+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.7212713+00:00",
-  "LastUpdate_Ratings": "2023-12-21T01:45:39.7117905+00:00",
-  "LastUpdate_Achievements": "2023-12-21T01:49:56.4292583+00:00"
+  "LastUpdate_Ratings": "2023-12-21T02:20:45.0441301+00:00",
+  "LastUpdate_Achievements": "2023-12-21T02:25:13.35818+00:00"
 }

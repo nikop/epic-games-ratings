@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -222,9 +222,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 1065,
+  "EOS_Progressed": 1066,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2782,6 +2782,11 @@
       "Time": "2023-12-21T01:51:12.1125403+00:00",
       "NumProgressed": 1065,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T02:26:23.0778422+00:00",
+      "NumProgressed": 1066,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2802,7 +2807,7 @@
       "Name": "Ab Initio",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "AnthropicHills",
@@ -2970,7 +2975,7 @@
       "Name": "Just One Lap",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "LordOfTheFiles",
@@ -3010,7 +3015,7 @@
       "Name": "Museum Explorer",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "MuseumVisitor",
@@ -3018,7 +3023,7 @@
       "Name": "Museum Visitor",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "NewBeginning",
@@ -3058,7 +3063,7 @@
       "Name": "Persistent",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "PrometheusUnbound",
@@ -3074,7 +3079,7 @@
       "Name": "Puzzle Fiend",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "RemnantsOfThePast",
@@ -3210,7 +3215,7 @@
       "Name": "Touch Grass",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "TrevorsBiographer",
@@ -3232,9 +3237,9 @@
       "ID": "Wanderers",
       "SetID": "1n308hc",
       "Name": "Wanderers",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 181
     },
     {
       "ID": "WesternDelta",
@@ -3265,7 +3270,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1065,
+      "Progressed": 1066,
       "Completed": 1
     }
   ],
@@ -3273,8 +3278,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-21T01:51:12.1125398+00:00",
+  "LastChanged_Achievements": "2023-12-21T02:26:23.0778419+00:00",
   "LastUpdate_AppInfo": "2023-12-14T14:57:13.9213909+00:00",
-  "LastUpdate_Ratings": "2023-12-21T01:46:09.3394224+00:00",
-  "LastUpdate_Achievements": "2023-12-21T01:51:12.1125887+00:00"
+  "LastUpdate_Ratings": "2023-12-21T02:21:10.8910561+00:00",
+  "LastUpdate_Achievements": "2023-12-21T02:26:23.0778849+00:00"
 }

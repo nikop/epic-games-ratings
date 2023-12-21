@@ -9966,9 +9966,9 @@
       "Count": 1033
     }
   ],
-  "EOS_Progressed": 128803,
+  "EOS_Progressed": 128810,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2074,
+  "EOS_NewPlayers": 2076,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36036,6 +36036,11 @@
       "Time": "2023-12-21T01:55:04.857141+00:00",
       "NumProgressed": 128803,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-21T02:30:17.3907107+00:00",
+      "NumProgressed": 128810,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36583,7 +36588,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "combat_kill_collector",
@@ -36653,9 +36658,9 @@
       "ID": "relationships_positive_hwy_cru",
       "SetID": "d3bcpc8",
       "Name": "Friends \u0027Til the End",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 110
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -36678,21 +36683,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 128803,
+      "Progressed": 128810,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 3672,
+      "Progressed": 3679,
       "Completed": 803
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-20T19:59:37.5330285+00:00",
-  "LastChanged_Achievements": "2023-12-21T01:55:04.8571406+00:00",
+  "LastChanged_Achievements": "2023-12-21T02:30:17.3907106+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-21T01:45:57.7876025+00:00",
-  "LastUpdate_Achievements": "2023-12-21T01:55:04.8573625+00:00"
+  "LastUpdate_Ratings": "2023-12-21T02:21:00.7562321+00:00",
+  "LastUpdate_Achievements": "2023-12-21T02:30:17.3908855+00:00"
 }
