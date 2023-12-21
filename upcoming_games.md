@@ -365,6 +365,7 @@
 | [Kenshi](games/e/ef2ca9fad90049ffa89aad61bd203b61.md) | 2099-01-01 | - |  | - | - |
 | [KIBORG](games/d/d53159b0a47c43d08a92968a6fd9cd78.md) | 2099-01-01 | - |  | - | - |
 | [Kingdom Karnage](games/6/69df793223b24b2aafcc36babbfb8f67.md) | 2099-01-01 | - |  | - | - |
+| [Kingsgrave](games/b/b4bab670a8e64cf08f56e56d6fd3af7e.md) | 2099-01-01 | - |  | - | - |
 | [Knowledge Party](games/f/f079b0c7395a487fb6151891e6d6faa8.md) | 2099-01-01 | - |  | - | - |
 | [KOKODI](games/2/2d89fb7420d8473fa28de88efc7d2f99.md) | 2099-01-01 | - |  | - | - |
 | [Kubikon 3D](games/1/19e7f1f3eb5e4afb8015acf2fdc583ce.md) | 2099-01-01 | - |  | - | - |
