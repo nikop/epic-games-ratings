@@ -1,14 +1,14 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.57 (Ranked 482)  
+Rating: 4.57 (Ranked 483)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 30.00% | ~1,086 |
+| Wakey Wakey | 30.00% | ~1,087 |
 | Sputnik 2049 | 27.00% | ~978 |
-| Infinite Growth... | 26.00% | ~941 |
-| Without Breaking Some Eggs... | 25.00% | ~905 |
+| Infinite Growth... | 26.00% | ~942 |
+| Without Breaking Some Eggs... | 25.00% | ~906 |
 | A Thousand Strong | 18.00% | ~652 |
 | Ready for a New World | 18.00% | ~652 |
 | Space Society | 17.00% | ~616 |
@@ -20,16 +20,16 @@ Rating: 4.57 (Ranked 482)
 | Exceeding Capacity | 12.00% | ~435 |
 | Breaking Protocol | 12.00% | ~435 |
 | Hope Seeker | 12.00% | ~435 |
-| A Hunk of Junk | 11.00% | ~398 |
+| A Hunk of Junk | 11.00% | ~399 |
 | Man's Best Friend | 9.00% | ~326 |
 | Power Outage | 8.00% | ~290 |
 | Convenient Transport | 8.00% | ~290 |
 | Please Make it Stop! | 8.00% | ~290 |
-| Sightseeing | 7.00% | ~253 |
-| Necessary Enhancement | 7.00% | ~253 |
+| Sightseeing | 7.00% | ~254 |
+| Necessary Enhancement | 7.00% | ~254 |
+| From the Past | 7.00% | ~254 |
 | Access Granted | 6.00% | ~217 |
 | All in Good Health | 6.00% | ~217 |
-| From the Past | 6.00% | ~217 |
 | Oats | 5.00% | ~181 |
 | What They Hide From Us | 5.00% | ~181 |
 | ...  in a finite world | 5.00% | ~181 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 482)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,621 (Ranked 212)  
+Progressed: 3,623 (Ranked 212)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 3,569 | 0 |
 | 2023-12-19 | 3,586 | 0 |
 | 2023-12-20 | 3,605 | 0 |
-| 2023-12-21 | 3,621 | 0 |
+| 2023-12-21 | 3,623 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

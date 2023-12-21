@@ -938,9 +938,9 @@
       "ID": "Persistence",
       "SetID": "7g1kpc8",
       "Name": "Persistence",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ReturnShell",
@@ -985,8 +985,8 @@
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-12-21T20:04:35.9477831+00:00",
+  "LastChanged_Achievements": "2023-12-21T21:04:18.84896+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.1609711+00:00",
-  "LastUpdate_Ratings": "2023-12-21T20:00:33.1676112+00:00",
-  "LastUpdate_Achievements": "2023-12-21T20:04:35.9477996+00:00"
+  "LastUpdate_Ratings": "2023-12-21T21:00:02.6611969+00:00",
+  "LastUpdate_Achievements": "2023-12-21T21:04:18.8489736+00:00"
 }

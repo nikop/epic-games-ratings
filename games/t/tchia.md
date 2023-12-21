@@ -1,10 +1,11 @@
 # Tchia
 [Store](https://store.epicgames.com/en-US/p/tchia)  
 [View Rawdata](../../db/t/tchia.json)  
-Rating: 4.71 (Ranked 198)  
+Rating: 4.71 (Ranked 197)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Energy Saver | 0.10% | ~8 |
 | The Journey Onwards | 0.10% | ~8 |
 | Ahem Ahem | 0.00% | ~0 |
 | Arrr! | 0.00% | ~0 |
@@ -12,7 +13,6 @@ Rating: 4.71 (Ranked 198)
 | Body and Soul | 0.00% | ~0 |
 | Ça de Wizz! | 0.00% | ~0 |
 | Clay Pigeon | 0.00% | ~0 |
-| Energy Saver | 0.00% | ~0 |
 | Fashion Faux-Pas | 0.00% | ~0 |
 | Fashion Victim | 0.00% | ~0 |
 | Globe Trotter | 0.00% | ~0 |
@@ -27,7 +27,7 @@ Rating: 4.71 (Ranked 198)
 | Soul-Canon | 0.00% | ~0 |
 | Thing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,168 (Ranked 182)  
+Progressed: 8,171 (Ranked 182)  
 Completed: 34 (0.42%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 34 (0.42%) (Ranked 227)
 | 2023-12-18 | 8,112 | 34 |
 | 2023-12-19 | 8,131 | 34 |
 | 2023-12-20 | 8,142 | 34 |
-| 2023-12-21 | 8,168 | 34 |
+| 2023-12-21 | 8,171 | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

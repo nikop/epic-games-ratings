@@ -16,13 +16,13 @@
 | Heroes’ Gorge | 64.00% | ~386 |
 | Master of Magic | 63.00% | ~380 |
 | Unicorn steaks – fresh off the hoof! | 62.00% | ~374 |
-| Magic Accidents | 59.00% | ~356 |
+| Magic Accidents | 60.00% | ~362 |
 | The Ascent | 58.00% | ~350 |
 | It's Warm and Cozy at Home | 58.00% | ~350 |
 | Trap Master | 55.00% | ~332 |
 | Minions, Minions! | 54.00% | ~326 |
+| The Big Eaty | 54.00% | ~326 |
 | Hard Work | 53.00% | ~320 |
-| The Big Eaty | 53.00% | ~320 |
 | “… like son” | 51.00% | ~308 |
 | YOU SHALL NOT PASS! | 50.00% | ~302 |
 | The Cathedral of Light | 48.00% | ~289 |

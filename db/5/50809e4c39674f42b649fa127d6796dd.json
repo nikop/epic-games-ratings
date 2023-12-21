@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -1429,9 +1429,9 @@
       "ID": "FIRST_POWER_BOOST",
       "SetID": "apihg0e",
       "Name": "Speed Demon",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 221
     },
     {
       "ID": "FIRST_S_RANK",
@@ -1477,9 +1477,9 @@
       "ID": "MAIN_CLEAR_ISLAND2",
       "SetID": "apihg0e",
       "Name": "Ancient Defiance",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 58
     },
     {
       "ID": "MAIN_CLEAR_ISLAND3",
@@ -1644,8 +1644,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-21T20:04:03.9537174+00:00",
+  "LastChanged_Achievements": "2023-12-21T21:03:51.0265162+00:00",
   "LastUpdate_AppInfo": "2023-12-19T19:57:15.6866052+00:00",
-  "LastUpdate_Ratings": "2023-12-21T20:03:16.4994349+00:00",
-  "LastUpdate_Achievements": "2023-12-21T20:04:03.9537564+00:00"
+  "LastUpdate_Ratings": "2023-12-21T21:03:06.8270923+00:00",
+  "LastUpdate_Achievements": "2023-12-21T21:03:51.0265536+00:00"
 }

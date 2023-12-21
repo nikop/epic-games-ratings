@@ -28,7 +28,7 @@ Number of Ratings: 98  (23.09.2022)
 | Do a Barrel Roll! | 2.00% | ~37 |
 | Unbreakable Wall | 2.00% | ~37 |
 | Experienced Strategist | 1.00% | ~19 |
-| How?! | 0.90% | ~17 |
+| How?! | 1.00% | ~19 |
 | Tough as Nails | 0.40% | ~7 |
 | Commandos | 0.30% | ~6 |
 | We Weren't There | 0.20% | ~4 |

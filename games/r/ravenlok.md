@@ -18,22 +18,22 @@
 | Surprise! | 46.00% | ~532 |
 | An Actor! | 46.00% | ~532 |
 | Curtain Call | 45.00% | ~521 |
-| Piece of Cake | 42.00% | ~486 |
+| Piece of Cake | 43.00% | ~498 |
 | Gooey Delight! | 42.00% | ~486 |
 | Glimmer of Hope | 42.00% | ~486 |
 | The Guardian | 41.00% | ~474 |
 | Teacups for Toppy | 41.00% | ~474 |
 | Nightmare Fuel | 40.00% | ~463 |
 | Take Heart | 40.00% | ~463 |
+| Stronger! | 40.00% | ~463 |
 | Well Rested | 40.00% | ~463 |
 | Ancient Wisdom | 39.00% | ~451 |
 | Frog Facts! | 39.00% | ~451 |
 | All That Glistens | 39.00% | ~451 |
-| Stronger! | 39.00% | ~451 |
 | Spellbound | 37.00% | ~428 |
+| Extinct Again! | 37.00% | ~428 |
 | All Skilled Up! | 37.00% | ~428 |
 | It's Pointy! | 37.00% | ~428 |
-| Extinct Again! | 36.00% | ~417 |
 | Bird of Prey | 36.00% | ~417 |
 | Stardust | 36.00% | ~417 |
 | Heartbreaker | 36.00% | ~417 |

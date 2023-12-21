@@ -1,19 +1,19 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.53 (Ranked 551)  
+Rating: 4.53 (Ranked 550)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rock of the Bay | 73.00% | ~107 |
 | Mash Machine | 67.00% | ~98 |
-| Ducks in a Row, Fish in a Barrel | 45.00% | ~66 |
-| Furon Fashion | 40.00% | ~58 |
+| Ducks in a Row, Fish in a Barrel | 46.00% | ~68 |
+| Furon Fashion | 40.00% | ~59 |
 | Shop Til They Drop | 35.00% | ~51 |
-| Bodied Sattva | 27.00% | ~39 |
-| Earthly Pleasures | 27.00% | ~39 |
-| Cult Following | 24.00% | ~35 |
+| Bodied Sattva | 29.00% | ~43 |
+| Earthly Pleasures | 28.00% | ~41 |
+| Cult Following | 25.00% | ~37 |
 | Upgreatest | 20.00% | ~29 |
 | Lie Back and Think of Albion | 19.00% | ~28 |
 | I Look Up As I Walk to Takoshima | 18.00% | ~26 |
@@ -29,18 +29,18 @@ Number of Ratings: 90  (23.09.2022)
 | Scuttled | 5.00% | ~7 |
 | Lobster Blisque | 3.00% | ~4 |
 | Yettisoned | 3.00% | ~4 |
+| Re-Return of the Clone of the Invasion II-2 | 3.00% | ~4 |
 | Ultimate Smoothie | 2.00% | ~3 |
 | Deincarnated | 2.00% | ~3 |
-| Re-Return of the Clone of the Invasion II-2 | 2.00% | ~3 |
 | Arkvoodle Doodle | 2.00% | ~3 |
 | Arty Facts | 0.70% | ~1 |
+| Against All Odds | 0.70% | ~1 |
 | Forbidden Donut | 0.70% | ~1 |
 | Hidden Human Hive Harvest | 0.70% | ~1 |
 | The Optional Mandate | 0.70% | ~1 |
 | PK Slam Dunk | 0.00% | ~0 |
 | Gotta Catch All the Pop Art | 0.00% | ~0 |
 | This Is Earth Radio | 0.00% | ~0 |
-| Against All Odds | 0.00% | ~0 |
 | Toilet Break | 0.00% | ~0 |
 | Albion Bridge Is for Falling Down | 0.00% | ~0 |
 | Ouch of Body Experience | 0.00% | ~0 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.00% | ~0 |
 | Trans-Siberian Express | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 146 (Ranked 429)  
+Progressed: 147 (Ranked 429)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 121 | 0 |
 | 2023-12-19 | 129 | 0 |
 | 2023-12-20 | 138 | 0 |
-| 2023-12-21 | 146 | 0 |
+| 2023-12-21 | 147 | 0 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 482)  
 Sum: 36 (Ranked 513)  

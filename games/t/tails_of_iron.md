@@ -8,13 +8,13 @@ Rating: 4.55 (Ranked 510)
 | End of the Mozis | 0.50% | ~11 |
 | Throne Room Fit For A King | 0.50% | ~11 |
 | The Bright Fir | 0.50% | ~5 |
+| Become King | 0.40% | ~9 |
 | Complete Guard Faction | 0.40% | ~9 |
 | Meet the Creatures from the Deep | 0.40% | ~9 |
 | Return Power To The Depths | 0.40% | ~9 |
 | Defeat Croakhis Khan | 0.40% | ~4 |
 | Shield Maiden Yellow Tongue | 0.40% | ~4 |
 | I Remember My First Beer | 0.40% | ~4 |
-| Become King | 0.30% | ~7 |
 | Complete the Chefs Book | 0.30% | ~7 |
 | Defeat Ratnor Rodentson | 0.30% | ~7 |
 | Ranged Weapon | 0.30% | ~7 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 510)
 | A new Warchief rises | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,266 (Ranked 231)  
-Completed: 12 (0.53%) (Ranked 210)  
+Completed: 12 (0.53%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

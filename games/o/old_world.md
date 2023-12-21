@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 318)  
+Rating: 4.65 (Ranked 317)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -33,6 +33,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Epic Victory (Carthage 3) | 0.10% | ~16 |
 | Gold Victory (Carthage 3) | 0.10% | ~16 |
 | Silver Victory (Carthage 3) | 0.10% | ~16 |
+| Carthage - Seizing Destiny | 0.10% | ~16 |
+| Bronze Victory (Carthage 4) | 0.10% | ~16 |
+| Carthage Campaign | 0.10% | ~16 |
 | Cleopatra's Love | 0.10% | ~16 |
 | Able | 0.10% | ~16 |
 | Ambitious | 0.10% | ~16 |
@@ -219,12 +222,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Battle of Opis | 0.00% | ~0 |
 | Blade of the Monkey | 0.00% | ~0 |
 | Hagia Sophia in Byzantion | 0.00% | ~0 |
-| Carthage - Seizing Destiny | 0.00% | ~0 |
-| Bronze Victory (Carthage 4) | 0.00% | ~0 |
 | Epic Victory (Carthage 4) | 0.00% | ~0 |
 | Gold Victory (Carthage 4) | 0.00% | ~0 |
 | Silver Victory (Carthage 4) | 0.00% | ~0 |
-| Carthage Campaign | 0.00% | ~0 |
 | Avenger | 0.00% | ~0 |
 | Destroyer | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |

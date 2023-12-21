@@ -5,24 +5,24 @@ Rating: 4.15 (Ranked 968)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 38.00% | ~27,321 |
-| As Far Away As Possible | 19.00% | ~13,660 |
-| A Most Unstable Organism | 13.00% | ~9,347 |
-| No Time to Follow Protocol | 10.00% | ~7,190 |
-| Float Like a Butterfly... | 8.00% | ~5,752 |
-| Nano Connoisseur | 6.00% | ~4,314 |
-| In Two Places At Once | 6.00% | ~4,314 |
-| More Power to You | 6.00% | ~4,314 |
-| Pulling Your Weight | 3.00% | ~2,157 |
-| Reaping Rivals | 3.00% | ~2,157 |
-| fifteenth Time's the Charm | 1.00% | ~719 |
-| Gone Rogue | 0.60% | ~431 |
+| Your Lucky Day | 38.00% | ~27,343 |
+| As Far Away As Possible | 19.00% | ~13,671 |
+| A Most Unstable Organism | 13.00% | ~9,354 |
+| No Time to Follow Protocol | 10.00% | ~7,196 |
+| Float Like a Butterfly... | 8.00% | ~5,756 |
+| Nano Connoisseur | 6.00% | ~4,317 |
+| In Two Places At Once | 6.00% | ~4,317 |
+| More Power to You | 6.00% | ~4,317 |
+| Pulling Your Weight | 3.00% | ~2,159 |
+| Reaping Rivals | 3.00% | ~2,159 |
+| fifteenth Time's the Charm | 1.00% | ~720 |
+| Gone Rogue | 0.60% | ~432 |
 | Memory Keeper | 0.40% | ~288 |
 | Completely Customizable | 0.40% | ~288 |
 | Runs for Your Money | 0.30% | ~216 |
 | Past Master | 0.30% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71,897 (Ranked 105)  
+Progressed: 71,955 (Ranked 105)  
 Completed: 59 (0.08%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,10 +138,10 @@ Completed: 59 (0.08%) (Ranked 316)
 | 2023-12-18 | 71,065 | 59 |
 | 2023-12-19 | 71,333 | 59 |
 | 2023-12-20 | 71,566 | 59 |
-| 2023-12-21 | 71,897 | 59 |
+| 2023-12-21 | 71,955 | 59 |
 ## Awards
 Max (Great for Beginners): 113  (Ranked 352)  
-Sum: 483 (Ranked 334)  
+Sum: 484 (Ranked 334)  
 Diff (max vs sum): 18  
 | Award | Count |
 | ----- | ----- |
@@ -152,7 +152,7 @@ Diff (max vs sum): 18
 | This game has a Competitive Community | 54 |
 | This game is Extremely Fun | 53 |
 | This game has Amazing Storytelling | 46 |
-| This game has Quickly Understood Controls | 42 |
+| This game has Quickly Understood Controls | 43 |
 | This game is Relaxing | 40 |
 | This game has Unique Visuals | 20 |
 ## Ratings History
@@ -252,4 +252,4 @@ Diff (max vs sum): 18
 | 2023-12-18 | 4.16 | 110 | 434 |
 | 2023-12-19 | 4.15 | 110 | 477 |
 | 2023-12-20 | 4.15 | 113 | 482 |
-| 2023-12-21 | 4.15 | 113 | 483 |
+| 2023-12-21 | 4.15 | 113 | 484 |

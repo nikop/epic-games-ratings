@@ -20,11 +20,11 @@ Rating: 4.63 (Ranked 353)
 | Clear the Air | 0.50% | ~43 |
 | Search for the Hairy Grell | 0.50% | ~43 |
 | Oui, Chef! | 0.50% | ~43 |
+| Beach Comber | 0.40% | ~34 |
 | Higher Tax Bracket | 0.40% | ~34 |
 | Azorian Anniversary | 0.40% | ~34 |
 | Skilled | 0.40% | ~34 |
 | Flaming Hot Completos | 0.30% | ~26 |
-| Beach Comber | 0.30% | ~26 |
 | Botanical Breakthrough | 0.30% | ~26 |
 | Right Tool For the Job | 0.30% | ~26 |
 | Azorian Hat Dance | 0.30% | ~4 |
@@ -49,7 +49,7 @@ Rating: 4.63 (Ranked 353)
 | Splish-Splash | 0.10% | ~1 |
 | Archi-Pal-igo Aficionado | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,576 (Ranked 180)  
+Progressed: 8,577 (Ranked 180)  
 Completed: 1 (0.01%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 1 (0.01%) (Ranked 361)
 | 2023-12-18 | 8,518 | 1 |
 | 2023-12-19 | 8,538 | 1 |
 | 2023-12-20 | 8,558 | 1 |
-| 2023-12-21 | 8,576 | 1 |
+| 2023-12-21 | 8,577 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "snowmen-5987b9",
   "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 426,
+  "Ranking_EOS_NewPlayers": 415,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-12-05T12:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 314,
+  "EOS_Progressed": 315,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -1454,6 +1454,11 @@
       "Time": "2023-12-21T18:09:27.8760003+00:00",
       "NumProgressed": 314,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T21:09:48.428984+00:00",
+      "NumProgressed": 315,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-17T19:06:21.6274083+00:00",
@@ -1490,7 +1495,7 @@
       "Name": "Lost forever",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_ENDING_GOOD_HOME",
@@ -1520,9 +1525,9 @@
       "ID": "ACHIEVEMENT_MAIN_GOLD_BUTTON",
       "SetID": "5lffoo5",
       "Name": "Golden Button",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_MAIN_GOLD_CARROT",
@@ -1609,14 +1614,14 @@
     {
       "ID": "5lffoo5",
       "IsBase": true,
-      "Progressed": 314,
+      "Progressed": 315,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-08T01:45:34.789391+00:00",
   "FirstSeenAchievements": "2023-09-17T19:06:21.6274083+00:00",
-  "LastChanged_Achievements": "2023-12-21T20:10:15.7467627+00:00",
+  "LastChanged_Achievements": "2023-12-21T21:09:48.4289836+00:00",
   "LastUpdate_AppInfo": "2023-12-18T02:20:38.3473429+00:00",
   "LastUpdate_Ratings": "2023-12-21T20:02:49.2731133+00:00",
-  "LastUpdate_Achievements": "2023-12-21T20:10:15.7467835+00:00"
+  "LastUpdate_Achievements": "2023-12-21T21:09:48.4290014+00:00"
 }

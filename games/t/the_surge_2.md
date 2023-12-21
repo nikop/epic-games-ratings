@@ -5,12 +5,12 @@ Rating: 4.26 (Ranked 887)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 79.00% | ~1,838 |
+| Rigged And Ready | 79.00% | ~1,839 |
 | Don't I Know You...? | 76.00% | ~1,769 |
 | Jailbreak | 65.00% | ~1,513 |
-| HEADSHOT! | 38.00% | ~884 |
-| Suited and Booted | 38.00% | ~884 |
-| Sleeping With The Fishes | 35.00% | ~814 |
+| HEADSHOT! | 38.00% | ~885 |
+| Suited and Booted | 38.00% | ~885 |
+| Sleeping With The Fishes | 35.00% | ~815 |
 | Overheated | 30.00% | ~698 |
 | High Performance | 30.00% | ~698 |
 | Powered Up | 28.00% | ~652 |
@@ -19,8 +19,8 @@ Rating: 4.26 (Ranked 887)
 | Luminary | 22.00% | ~512 |
 | It's a Trap | 22.00% | ~512 |
 | True Survivor | 21.00% | ~489 |
-| Offensive Defense | 20.00% | ~465 |
-| Shocking | 20.00% | ~465 |
+| Offensive Defense | 20.00% | ~466 |
+| Shocking | 20.00% | ~466 |
 | Court Martial | 19.00% | ~442 |
 | Clean Cut | 19.00% | ~442 |
 | Unforeseeable Consequences | 19.00% | ~442 |
@@ -37,7 +37,7 @@ Rating: 4.26 (Ranked 887)
 | Sorry, Didn't See You There | 12.00% | ~279 |
 | Stimulating The Local Economy | 10.00% | ~233 |
 | Triplets | 10.00% | ~233 |
-| Denying Prophecy | 9.00% | ~209 |
+| Denying Prophecy | 9.00% | ~210 |
 | A Little Banged Up | 8.00% | ~186 |
 | Following In Their Footsteps | 8.00% | ~186 |
 | Defense in Depth | 8.00% | ~186 |
@@ -45,11 +45,11 @@ Rating: 4.26 (Ranked 887)
 | Reborn | 6.00% | ~140 |
 | Remote Surgery | 6.00% | ~140 |
 | Turbo Booster | 6.00% | ~140 |
-| Juiced Up | 6.00% | ~140 |
 | Squid Pro Quo | 6.00% | ~140 |
 | Hello Darkness My Old Friend | 5.00% | ~116 |
 | Counter-Sniper | 5.00% | ~116 |
 | Shrimp Cocktail | 5.00% | ~116 |
+| Juiced Up | 5.00% | ~116 |
 | Geronimo! | 4.00% | ~93 |
 | Homewrecker | 4.00% | ~93 |
 | Plank of Wood | 4.00% | ~93 |
@@ -63,7 +63,7 @@ Rating: 4.26 (Ranked 887)
 | Three Birds With One Stone | 1.00% | ~23 |
 | The Easy Way Out | 1.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,327 (Ranked 229)  
+Progressed: 2,328 (Ranked 229)  
 Completed: 13 (0.56%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 13 (0.56%) (Ranked 203)
 | 2023-12-18 | 2,293 | 13 |
 | 2023-12-19 | 2,300 | 13 |
 | 2023-12-20 | 2,314 | 13 |
-| 2023-12-21 | 2,327 | 13 |
+| 2023-12-21 | 2,328 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 987,
+  "EOS_Progressed": 989,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 629,
+  "EOS_NewPlayers": 624,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -2005,6 +2005,11 @@
       "Time": "2023-12-21T20:10:35.898041+00:00",
       "NumProgressed": 987,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-21T21:10:06.7277532+00:00",
+      "NumProgressed": 989,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2016,7 +2021,7 @@
       "Name": "Break Out",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "ACH_02",
@@ -2032,7 +2037,7 @@
       "Name": "Powerful Allies",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACH_04",
@@ -2048,7 +2053,7 @@
       "Name": "To Battle",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_06",
@@ -2056,7 +2061,7 @@
       "Name": "Godslayer",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_07",
@@ -2303,14 +2308,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 987,
+      "Progressed": 989,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-21T20:10:35.8980404+00:00",
+  "LastChanged_Achievements": "2023-12-21T21:10:06.7277531+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
-  "LastUpdate_Ratings": "2023-12-21T19:58:24.533228+00:00",
-  "LastUpdate_Achievements": "2023-12-21T20:10:35.8980659+00:00"
+  "LastUpdate_Ratings": "2023-12-21T20:58:09.6857117+00:00",
+  "LastUpdate_Achievements": "2023-12-21T21:10:06.7277927+00:00"
 }

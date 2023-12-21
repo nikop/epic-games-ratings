@@ -2,7 +2,7 @@
   "ID": "59b1a57188fb429db7bf5afea8e70d88",
   "Name": "Dinobreak",
   "ProductSlug": "dinobreak-307b09",
-  "Ranking_EOS_Progress": 579,
+  "Ranking_EOS_Progress": 580,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 468,
   "Ranking_EOS_NewCompleters": 159,
@@ -371,8 +371,8 @@
   ],
   "FirstSeen": "2023-10-10T23:57:30.9159633+00:00",
   "FirstSeenAchievements": "2023-08-30T15:02:12.9396866+00:00",
-  "LastChanged_Achievements": "2023-12-21T20:05:11.9550104+00:00",
+  "LastChanged_Achievements": "2023-12-21T21:04:51.5018534+00:00",
   "LastUpdate_AppInfo": "2023-12-21T02:18:24.4177593+00:00",
-  "LastUpdate_Ratings": "2023-12-21T20:03:10.4383148+00:00",
-  "LastUpdate_Achievements": "2023-12-21T20:05:11.9550279+00:00"
+  "LastUpdate_Ratings": "2023-12-21T21:03:01.566567+00:00",
+  "LastUpdate_Achievements": "2023-12-21T21:04:51.5018668+00:00"
 }

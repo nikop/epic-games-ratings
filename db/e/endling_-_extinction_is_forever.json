@@ -3,7 +3,7 @@
   "Name": "Endling - Extinction is Forever",
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 325,
-  "Ranking_EOS_Completed": 210,
+  "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 393,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
@@ -1127,9 +1127,9 @@
       "ID": "TROP013",
       "SetID": "9n0dl35",
       "Name": "Never Let Down",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 130
+      "UsersEstimate": 136
     },
     {
       "ID": "TROP014",
@@ -1256,8 +1256,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-12-21T20:10:34.8798295+00:00",
+  "LastChanged_Achievements": "2023-12-21T21:10:05.8975755+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:57.910858+00:00",
-  "LastUpdate_Ratings": "2023-12-21T19:58:08.3599742+00:00",
-  "LastUpdate_Achievements": "2023-12-21T20:10:34.8798518+00:00"
+  "LastUpdate_Ratings": "2023-12-21T20:57:55.3604802+00:00",
+  "LastUpdate_Achievements": "2023-12-21T21:10:05.8975967+00:00"
 }

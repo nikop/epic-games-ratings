@@ -8,11 +8,11 @@ Rating: 4.50 (Ranked 603)
 | Stylish | 10.00% | ~3,250 |
 | Meticulously Efficient | 8.00% | ~2,600 |
 | Advancement | 7.00% | ~2,275 |
+| Solo Capture | 6.00% | ~1,950 |
 | Swift Rift Removers | 6.00% | ~1,950 |
 | I collect Spores, Molds, and Fungi | 5.00% | ~1,625 |
 | Discovery | 5.00% | ~1,625 |
 | Fully Upgraded | 5.00% | ~1,625 |
-| Solo Capture | 5.00% | ~1,625 |
 | Teamwork | 5.00% | ~1,625 |
 | Clutch Capture | 4.00% | ~1,300 |
 | Cultured | 4.00% | ~1,300 |

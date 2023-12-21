@@ -1,31 +1,31 @@
 # Godlike Burger
 [Store](https://store.epicgames.com/en-US/p/godlike-burger-4150a0)  
 [View Rawdata](../../db/g/godlike_burger.json)  
-Rating: 4.51 (Ranked 581)  
+Rating: 4.51 (Ranked 582)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~174,852 |
-| FIRST BLOOD | 40.00% | ~155,424 |
-| KEVIN! | 30.00% | ~116,568 |
-| JACK OF ALL TRADES | 23.00% | ~89,369 |
-| CRIMINAL | 20.00% | ~77,712 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~42,741 |
-| WITHOUT BREAKING A SWEAT | 9.00% | ~34,970 |
-| HONORS STUDENT | 8.00% | ~31,085 |
-| BUTCHER | 6.00% | ~23,314 |
-| INDIVIDUAL APPROACH | 5.00% | ~19,428 |
-| RAMBO | 5.00% | ~19,428 |
-| HELL'S KITCHEN | 4.00% | ~15,542 |
-| CELEBRITY | 3.00% | ~11,657 |
-| MARTYR | 3.00% | ~11,657 |
-| GRATITUDE | 2.00% | ~7,771 |
-| PATTY-KILLER | 2.00% | ~7,771 |
+| MASTER CHEF | 45.00% | ~174,866 |
+| FIRST BLOOD | 40.00% | ~155,436 |
+| KEVIN! | 30.00% | ~116,577 |
+| JACK OF ALL TRADES | 23.00% | ~89,376 |
+| CRIMINAL | 20.00% | ~77,718 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~42,745 |
+| WITHOUT BREAKING A SWEAT | 9.00% | ~34,973 |
+| HONORS STUDENT | 8.00% | ~31,087 |
+| BUTCHER | 6.00% | ~23,315 |
+| INDIVIDUAL APPROACH | 5.00% | ~19,430 |
+| RAMBO | 5.00% | ~19,430 |
+| HELL'S KITCHEN | 4.00% | ~15,544 |
+| CELEBRITY | 3.00% | ~11,658 |
+| MARTYR | 3.00% | ~11,658 |
+| GRATITUDE | 2.00% | ~7,772 |
+| PATTY-KILLER | 2.00% | ~7,772 |
 | EXPERIMENTALIST | 1.00% | ~3,886 |
 | GOURMET | 1.00% | ~3,886 |
 | LAW-ABIDING CITIZEN | 1.00% | ~3,886 |
 | PRUDENT | 1.00% | ~3,886 |
-| SCATTERBRAIN | 0.80% | ~3,108 |
+| SCATTERBRAIN | 0.80% | ~3,109 |
 | HIGH TECHNOLOGIES | 0.70% | ~2,720 |
 | TASTE UNTASTY | 0.50% | ~1,943 |
 | DEBTOR | 0.20% | ~777 |
@@ -34,7 +34,7 @@ Rating: 4.51 (Ranked 581)
 | MISTER ALL THUMBS | 0.10% | ~389 |
 | TRAVELER | 0.10% | ~389 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 388,559 (Ranked 47)  
+Progressed: 388,591 (Ranked 47)  
 Completed: 53 (0.01%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 53 (0.01%) (Ranked 361)
 | 2023-12-18 | 387,178 | 51 |
 | 2023-12-19 | 387,586 | 52 |
 | 2023-12-20 | 388,049 | 52 |
-| 2023-12-21 | 388,559 | 53 |
+| 2023-12-21 | 388,591 | 53 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

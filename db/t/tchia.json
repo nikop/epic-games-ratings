@@ -2,12 +2,12 @@
   "ID": "2e09c1d223094f3798f63873548c9454",
   "Name": "Tchia",
   "ProductSlug": "tchia",
-  "Ranking_Rating": 198,
+  "Ranking_Rating": 197,
   "Ranking_Popularity": 571,
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -257,9 +257,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8168,
+  "EOS_Progressed": 8171,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 191,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -9602,6 +9602,11 @@
       "Time": "2023-12-21T20:06:27.3621971+00:00",
       "NumProgressed": 8168,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-21T21:05:58.9212755+00:00",
+      "NumProgressed": 8171,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -9659,9 +9664,9 @@
       "ID": "ENERGY_SAVER",
       "SetID": "3cck1g6",
       "Name": "Energy Saver",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 8
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -9780,7 +9785,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 8168,
+      "Progressed": 8171,
       "Completed": 34
     }
   ],
@@ -9788,8 +9793,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-12-17T08:57:44.8415466+00:00",
-  "LastChanged_Achievements": "2023-12-21T20:06:27.3621966+00:00",
+  "LastChanged_Achievements": "2023-12-21T21:05:58.921275+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:46.5620941+00:00",
-  "LastUpdate_Ratings": "2023-12-21T19:59:52.0843335+00:00",
-  "LastUpdate_Achievements": "2023-12-21T20:06:27.3622652+00:00"
+  "LastUpdate_Ratings": "2023-12-21T20:59:26.9718693+00:00",
+  "LastUpdate_Achievements": "2023-12-21T21:05:58.9213408+00:00"
 }

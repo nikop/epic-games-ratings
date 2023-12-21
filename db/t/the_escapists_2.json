@@ -4,10 +4,10 @@
   "ProductSlug": "the-escapists-2",
   "Ranking_Rating": 456,
   "Ranking_Popularity": 426,
-  "Ranking_PopularitySum": 331,
+  "Ranking_PopularitySum": 330,
   "Ranking_EOS_Progress": 813,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 562,
+  "Ranking_EOS_NewPlayers": 564,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2020-07-09T15:00:00+00:00",
@@ -1268,10 +1268,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 505,
       "NumberOfAwardsMax": 56
+    },
+    {
+      "Time": "2023-12-21T20:58:14.7549086+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 506,
+      "NumberOfAwardsMax": 56
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 505,
+  "NumberOfAwards": 506,
   "NumberOfAwardsMax": 56,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1303,7 +1309,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 44
+      "Count": 45
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1353,8 +1359,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:06.6335859+00:00",
-  "LastChanged": "2023-12-19T12:01:49.8585763+00:00",
+  "LastChanged": "2023-12-21T20:58:14.7549084+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:59.2181601+00:00",
-  "LastUpdate_Ratings": "2023-12-21T19:58:30.2544038+00:00",
-  "LastUpdate_Achievements": "2023-12-21T20:05:34.4987613+00:00"
+  "LastUpdate_Ratings": "2023-12-21T20:58:14.7549089+00:00",
+  "LastUpdate_Achievements": "2023-12-21T21:05:10.8487852+00:00"
 }

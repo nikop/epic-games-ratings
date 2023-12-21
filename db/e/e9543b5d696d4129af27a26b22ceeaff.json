@@ -4,7 +4,7 @@
   "ProductSlug": "international-basketball-manager-23-561576",
   "Ranking_EOS_Progress": 555,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-05-29T07:30:00+00:00",
@@ -304,9 +304,9 @@
       "ID": "ACH_FIRST_WIN",
       "SetID": "1lnhagg",
       "Name": "The First of Many to Come",
-      "Percentage": 69,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_FIVE_STARS_MANAGER",
@@ -448,9 +448,9 @@
       "ID": "ACH_WIN_BY_40",
       "SetID": "1lnhagg",
       "Name": "Overpowered",
-      "Percentage": 44,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_WIN_EUROLEAGUE",
@@ -487,8 +487,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2023-12-21T20:04:11.9642153+00:00",
+  "LastChanged_Achievements": "2023-12-21T21:03:57.6487214+00:00",
   "LastUpdate_AppInfo": "2023-12-15T02:21:15.0404929+00:00",
-  "LastUpdate_Ratings": "2023-12-21T20:03:06.0869979+00:00",
-  "LastUpdate_Achievements": "2023-12-21T20:04:11.9642372+00:00"
+  "LastUpdate_Ratings": "2023-12-21T21:02:57.8282708+00:00",
+  "LastUpdate_Achievements": "2023-12-21T21:03:57.648738+00:00"
 }

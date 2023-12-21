@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 332,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -2356,9 +2356,9 @@
       "Count": 258
     }
   ],
-  "EOS_Progressed": 220695,
+  "EOS_Progressed": 220703,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 1473,
+  "EOS_NewPlayers": 1472,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -30541,6 +30541,11 @@
       "Time": "2023-12-21T20:05:55.5337511+00:00",
       "NumProgressed": 220695,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-12-21T21:05:30.0760177+00:00",
+      "NumProgressed": 220703,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 44,
@@ -30552,7 +30557,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 24276
+      "UsersEstimate": 24277
     },
     {
       "ID": "AtheistOx",
@@ -30624,7 +30629,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 26483
+      "UsersEstimate": 26484
     },
     {
       "ID": "HappyLittleAccidents",
@@ -30680,7 +30685,7 @@
       "Name": "Merciful",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1103
+      "UsersEstimate": 1104
     },
     {
       "ID": "Meticulous",
@@ -30840,7 +30845,7 @@
       "Name": "Thorough",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 24276
+      "UsersEstimate": 24277
     },
     {
       "ID": "TimeParadox",
@@ -30903,15 +30908,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 220695,
+      "Progressed": 220703,
       "Completed": 102
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-12-20T14:00:40.4217598+00:00",
-  "LastChanged_Achievements": "2023-12-21T20:05:55.5337507+00:00",
+  "LastChanged_Achievements": "2023-12-21T21:05:30.0760175+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:48.0979756+00:00",
-  "LastUpdate_Ratings": "2023-12-21T20:02:52.8102062+00:00",
-  "LastUpdate_Achievements": "2023-12-21T20:05:55.5339132+00:00"
+  "LastUpdate_Ratings": "2023-12-21T21:02:46.1960364+00:00",
+  "LastUpdate_Achievements": "2023-12-21T21:05:30.076167+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
   "Ranking_EOS_Progress": 386,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 326,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 257,
+  "EOS_Progressed": 258,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
@@ -551,6 +551,11 @@
       "Time": "2023-12-21T00:06:41.4808548+00:00",
       "NumProgressed": 257,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-21T21:05:43.4172359+00:00",
+      "NumProgressed": 258,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 15,
@@ -562,7 +567,7 @@
       "Name": "The T-Rex plain.",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "02",
@@ -681,7 +686,7 @@
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 257,
+      "Progressed": 258,
       "Completed": 6
     }
   ],
@@ -689,8 +694,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-12-21T20:06:10.3500758+00:00",
+  "LastChanged_Achievements": "2023-12-21T21:05:43.4172354+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:07.9011591+00:00",
-  "LastUpdate_Ratings": "2023-12-21T19:58:47.118171+00:00",
-  "LastUpdate_Achievements": "2023-12-21T20:06:10.3500902+00:00"
+  "LastUpdate_Ratings": "2023-12-21T20:58:30.4216718+00:00",
+  "LastUpdate_Achievements": "2023-12-21T21:05:43.4172482+00:00"
 }

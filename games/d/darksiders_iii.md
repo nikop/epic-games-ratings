@@ -6,78 +6,78 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 79.00% | ~19 |
-| First of many… | 75.00% | ~18 |
-| Helping Hand | 71.00% | ~17 |
-| Increased Vigor | 67.00% | ~16 |
-| Fight Fire with Fire | 67.00% | ~16 |
-| Increased Capacity | 63.00% | ~15 |
-| Unshakable Fortitude | 58.00% | ~14 |
-| Perfect Storm | 54.00% | ~13 |
-| Devil's in the Details | 54.00% | ~13 |
-| All That Glitters | 54.00% | ~13 |
-| Throne Potato | 54.00% | ~13 |
-| Five's a Crowd | 54.00% | ~13 |
-| 25 to Life | 54.00% | ~13 |
-| Soul Harvester | 50.00% | ~12 |
-| Salvation | 50.00% | ~12 |
-| Just the start | 50.00% | ~12 |
-| One Of the Chosen | 46.00% | ~11 |
-| Enhance! | 46.00% | ~11 |
-| Delusions of Grandeur | 46.00% | ~11 |
-| I Wanna Rock | 42.00% | ~10 |
-| Love Tap | 42.00% | ~10 |
-| For Whom the Bell Tolls | 42.00% | ~10 |
-| Maximum Vigor | 38.00% | ~9 |
-| Freeze Frame | 38.00% | ~9 |
-| Eat Your Heart Out | 38.00% | ~9 |
-| Crowd Source | 38.00% | ~9 |
-| Unyielding Strength | 33.00% | ~8 |
-| Big Spender | 33.00% | ~8 |
-| Maximum Capacity | 29.00% | ~7 |
-| Cleanup Crew | 29.00% | ~7 |
-| Can you restore the Balance? | 29.00% | ~7 |
-| Demon Meddler | 25.00% | ~6 |
-| Protector of Humanity | 17.00% | ~4 |
-| Everybody Wants to Rule the World | 17.00% | ~4 |
-| Egomaniac | 17.00% | ~4 |
-| Seeing Red | 17.00% | ~4 |
-| A Parting Gift | 13.00% | ~3 |
-| Community Outreach | 13.00% | ~3 |
-| Unbreakable Will | 8.00% | ~2 |
-| Path of the Horseman | 8.00% | ~2 |
-| Keep it 100! | 8.00% | ~2 |
-| Made of Sterner Stuff | 8.00% | ~2 |
-| Take it to the Limit | 8.00% | ~2 |
-| Holy Keeper | 4.00% | ~1 |
-| Demon Keeper | 4.00% | ~1 |
-| Soul Reaper | 4.00% | ~1 |
-| My Evil Twin | 4.00% | ~1 |
-| "Impressive!" | 4.00% | ~1 |
-| "Incredible!" | 4.00% | ~1 |
-| Proceed on your way to Armageddon | 4.00% | ~1 |
-| Keeper of the Bonfire | 4.00% | ~1 |
-| Keeper of the Vale | 4.00% | ~1 |
-| Keeper of the Sky | 4.00% | ~1 |
-| Humanitarian | 4.00% | ~1 |
-| Purity of Power | 0.00% | ~0 |
-| Balance in all things | 0.00% | ~0 |
+| Green with Envy | 80.00% | ~24 |
+| First of many… | 77.00% | ~23 |
+| Helping Hand | 73.00% | ~22 |
+| Increased Vigor | 70.00% | ~21 |
+| Fight Fire with Fire | 70.00% | ~21 |
+| Increased Capacity | 67.00% | ~20 |
+| Perfect Storm | 60.00% | ~18 |
+| All That Glitters | 60.00% | ~18 |
+| Unshakable Fortitude | 57.00% | ~17 |
+| 25 to Life | 57.00% | ~17 |
+| One Of the Chosen | 53.00% | ~16 |
+| Devil's in the Details | 53.00% | ~16 |
+| Five's a Crowd | 53.00% | ~16 |
+| Just the start | 53.00% | ~16 |
+| Soul Harvester | 50.00% | ~15 |
+| Enhance! | 50.00% | ~15 |
+| Throne Potato | 50.00% | ~15 |
+| Salvation | 47.00% | ~14 |
+| Delusions of Grandeur | 47.00% | ~14 |
+| For Whom the Bell Tolls | 47.00% | ~14 |
+| I Wanna Rock | 43.00% | ~13 |
+| Love Tap | 43.00% | ~13 |
+| Freeze Frame | 40.00% | ~12 |
+| Unyielding Strength | 37.00% | ~11 |
+| Maximum Vigor | 37.00% | ~11 |
+| Eat Your Heart Out | 37.00% | ~11 |
+| Crowd Source | 37.00% | ~11 |
+| Maximum Capacity | 30.00% | ~9 |
+| Cleanup Crew | 30.00% | ~9 |
+| Can you restore the Balance? | 30.00% | ~9 |
+| Big Spender | 30.00% | ~9 |
+| Demon Meddler | 27.00% | ~8 |
+| A Parting Gift | 17.00% | ~5 |
+| Protector of Humanity | 17.00% | ~5 |
+| Everybody Wants to Rule the World | 17.00% | ~5 |
+| Egomaniac | 17.00% | ~5 |
+| Seeing Red | 17.00% | ~5 |
+| Community Outreach | 17.00% | ~5 |
+| Unbreakable Will | 13.00% | ~4 |
+| Take it to the Limit | 13.00% | ~4 |
+| Holy Keeper | 10.00% | ~3 |
+| Demon Keeper | 10.00% | ~3 |
+| Soul Reaper | 10.00% | ~3 |
+| Path of the Horseman | 10.00% | ~3 |
+| Humanitarian | 10.00% | ~3 |
+| Made of Sterner Stuff | 10.00% | ~3 |
+| Purity of Power | 7.00% | ~2 |
+| My Evil Twin | 7.00% | ~2 |
+| Proceed on your way to Armageddon | 7.00% | ~2 |
+| Keeper of the Bonfire | 7.00% | ~2 |
+| Keeper of the Vale | 7.00% | ~2 |
+| Keeper of the Sky | 7.00% | ~2 |
+| Keep it 100! | 7.00% | ~2 |
+| Balance in all things | 3.00% | ~1 |
+| "Impressive!" | 3.00% | ~1 |
+| "Incredible!" | 3.00% | ~1 |
+| Keeper of Colossal Automata | 3.00% | ~1 |
+| Keeper of the Tempo | 3.00% | ~1 |
+| BFA | 3.00% | ~1 |
 | Quite Proper | 0.00% | ~0 |
 | "Apocalyptic!" | 0.00% | ~0 |
 | "Amazing!" | 0.00% | ~0 |
 | Death Incarnate | 0.00% | ~0 |
-| Keeper of Colossal Automata | 0.00% | ~0 |
-| Keeper of the Tempo | 0.00% | ~0 |
 | Beast Mode | 0.00% | ~0 |
-| BFA | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24 (Ranked 593)  
+Progressed: 30 (Ranked 569)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-12-13 | 1 | 0 |
-| 2023-12-21 | 24 | 0 |
+| 2023-12-21 | 30 | 0 |
 ## Awards
 Max (Great Boss Battles): 92  (Ranked 384)  
 Sum: 92 (Ranked 463)  

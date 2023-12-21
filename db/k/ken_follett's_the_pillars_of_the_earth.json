@@ -2,7 +2,7 @@
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
-  "Ranking_Rating": 581,
+  "Ranking_Rating": 582,
   "Ranking_Popularity": 320,
   "Ranking_PopularitySum": 409,
   "Ranking_EOS_Progress": 153,
@@ -570,7 +570,7 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17246,
+  "EOS_Progressed": 17247,
   "EOS_Completed": 119,
   "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 0,
@@ -16665,6 +16665,11 @@
       "Time": "2023-12-21T20:05:33.4033357+00:00",
       "NumProgressed": 17246,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-12-21T21:05:09.8959127+00:00",
+      "NumProgressed": 17247,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 41,
@@ -16716,7 +16721,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5691
+      "UsersEstimate": 5692
     },
     {
       "ID": "tpote_achievement_15",
@@ -16732,7 +16737,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2414
+      "UsersEstimate": 2415
     },
     {
       "ID": "tpote_achievement_17",
@@ -16740,7 +16745,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2759
+      "UsersEstimate": 2760
     },
     {
       "ID": "tpote_achievement_18",
@@ -16764,7 +16769,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5691
+      "UsersEstimate": 5692
     },
     {
       "ID": "tpote_achievement_20",
@@ -16780,7 +16785,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 5001
+      "UsersEstimate": 5002
     },
     {
       "ID": "tpote_achievement_22",
@@ -16852,7 +16857,7 @@
       "Name": "Let there be darkness",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5346
+      "UsersEstimate": 5347
     },
     {
       "ID": "tpote_achievement_30",
@@ -16876,7 +16881,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2414
+      "UsersEstimate": 2415
     },
     {
       "ID": "tpote_achievement_33",
@@ -16940,7 +16945,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6898
+      "UsersEstimate": 6899
     },
     {
       "ID": "tpote_achievement_40",
@@ -17003,15 +17008,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17246,
+      "Progressed": 17247,
       "Completed": 119
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2023-12-21T20:05:33.403335+00:00",
+  "LastChanged_Achievements": "2023-12-21T21:05:09.8959124+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:13.9933566+00:00",
-  "LastUpdate_Ratings": "2023-12-21T20:00:14.349869+00:00",
-  "LastUpdate_Achievements": "2023-12-21T20:05:33.4034192+00:00"
+  "LastUpdate_Ratings": "2023-12-21T20:59:46.4396473+00:00",
+  "LastUpdate_Achievements": "2023-12-21T21:05:09.895988+00:00"
 }

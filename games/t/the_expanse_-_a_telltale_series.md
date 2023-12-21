@@ -1,19 +1,19 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.54 (Ranked 534)  
+Rating: 4.54 (Ranked 533)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 14.00% | ~2,382 |
+| Oyedang, Kopengs | 14.00% | ~2,383 |
 | Captain Drummer | 10.00% | ~1,702 |
-| The Pit and the Pirates | 9.00% | ~1,531 |
-| Martian Music | 9.00% | ~1,531 |
-| Drone Dodger | 9.00% | ~1,531 |
-| Bosmang | 9.00% | ~1,531 |
-| Celebrations are in Order | 9.00% | ~1,531 |
-| Impossible Objects | 9.00% | ~1,531 |
-| Spore Taste | 8.00% | ~1,361 |
+| Celebrations are in Order | 10.00% | ~1,702 |
+| The Pit and the Pirates | 9.00% | ~1,532 |
+| Martian Music | 9.00% | ~1,532 |
+| Drone Dodger | 9.00% | ~1,532 |
+| Bosmang | 9.00% | ~1,532 |
+| Impossible Objects | 9.00% | ~1,532 |
+| Spore Taste | 8.00% | ~1,362 |
 | Zen Master | 8.00% | ~238 |
 | Stogie for Fogey | 7.00% | ~1,191 |
 | Call it Even | 7.00% | ~1,191 |
@@ -25,11 +25,11 @@ Rating: 4.54 (Ranked 534)
 | Data Archivist | 5.00% | ~851 |
 | Thorston Mayer | 5.00% | ~851 |
 | Khan's Revenge | 5.00% | ~851 |
-| Master Negotiator | 5.00% | ~148 |
+| Master Negotiator | 5.00% | ~149 |
 | Doctor Approved | 4.00% | ~681 |
 | Bottoms up! | 4.00% | ~681 |
-| Data Logger | 3.00% | ~510 |
-| Miraculous Maya | 3.00% | ~510 |
+| Data Logger | 3.00% | ~511 |
+| Miraculous Maya | 3.00% | ~511 |
 | No Belter Left Behind | 2.00% | ~340 |
 | Data Master | 2.00% | ~340 |
 | Brother's Reaper | 1.00% | ~170 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 534)
 | Scavenger Star | 0.20% | ~34 |
 | Data Collector | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,015 (Ranked 154)  
+Progressed: 17,020 (Ranked 154)  
 Completed: 46 (0.27%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 46 (0.27%) (Ranked 254)
 | 2023-12-18 | 16,797 | 44 |
 | 2023-12-19 | 16,865 | 45 |
 | 2023-12-20 | 16,946 | 46 |
-| 2023-12-21 | 17,015 | 46 |
+| 2023-12-21 | 17,020 | 46 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

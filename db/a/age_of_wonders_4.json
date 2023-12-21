@@ -567,9 +567,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5936,
+  "EOS_Progressed": 5939,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 299,
+  "EOS_NewPlayers": 298,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8687,6 +8687,11 @@
       "Time": "2023-12-21T20:06:16.9925685+00:00",
       "NumProgressed": 5936,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-21T21:05:49.4810203+00:00",
+      "NumProgressed": 5939,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -8714,7 +8719,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "12",
@@ -8738,7 +8743,7 @@
       "Name": "Full Ascension",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "15",
@@ -8794,7 +8799,7 @@
       "Name": "The Goddess of Nature",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "21",
@@ -8890,7 +8895,7 @@
       "Name": "Magical Synergy",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "32",
@@ -8906,7 +8911,7 @@
       "Name": "Seat of Power",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "34",
@@ -9010,7 +9015,7 @@
       "Name": "Grexolis",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "6",
@@ -9177,13 +9182,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5936,
+      "Progressed": 5939,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5936,
+      "Progressed": 5939,
       "Completed": 7
     }
   ],
@@ -9191,8 +9196,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-20T07:59:25.4319145+00:00",
-  "LastChanged_Achievements": "2023-12-21T20:06:16.9925681+00:00",
+  "LastChanged_Achievements": "2023-12-21T21:05:49.4810199+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.6868317+00:00",
-  "LastUpdate_Ratings": "2023-12-21T19:57:30.8737756+00:00",
-  "LastUpdate_Achievements": "2023-12-21T20:06:16.9926567+00:00"
+  "LastUpdate_Ratings": "2023-12-21T20:57:22.0973283+00:00",
+  "LastUpdate_Achievements": "2023-12-21T21:05:49.4810914+00:00"
 }

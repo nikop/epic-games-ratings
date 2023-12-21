@@ -6,23 +6,23 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 9.00% | ~344 |
-| Lost and Found | 6.00% | ~229 |
+| Malpractice Assurance | 9.00% | ~345 |
+| Lost and Found | 6.00% | ~230 |
 | This Belongs in a Museum | 4.00% | ~5,158 |
 | Autodidact | 4.00% | ~5,158 |
 | This guy... again? | 4.00% | ~153 |
+| Ploughshares to Swords | 4.00% | ~153 |
 | Bloody Graduation | 4.00% | ~153 |
-| Serenity Now! | 3.00% | ~3,868 |
-| Not Today! | 3.00% | ~3,868 |
-| Creep and Sleep | 3.00% | ~3,868 |
-| Meat and Greet | 3.00% | ~3,868 |
-| Catch and Decease | 3.00% | ~3,868 |
-| Overdue Notice | 3.00% | ~3,868 |
-| Escape from the Black Hole | 3.00% | ~3,868 |
-| Rush Hour | 3.00% | ~3,868 |
-| To Grandmother's House | 3.00% | ~3,868 |
-| FNG | 3.00% | ~3,868 |
-| Ploughshares to Swords | 3.00% | ~115 |
+| Serenity Now! | 3.00% | ~3,869 |
+| Not Today! | 3.00% | ~3,869 |
+| Creep and Sleep | 3.00% | ~3,869 |
+| Meat and Greet | 3.00% | ~3,869 |
+| Catch and Decease | 3.00% | ~3,869 |
+| Overdue Notice | 3.00% | ~3,869 |
+| Escape from the Black Hole | 3.00% | ~3,869 |
+| Rush Hour | 3.00% | ~3,869 |
+| To Grandmother's House | 3.00% | ~3,869 |
+| FNG | 3.00% | ~3,869 |
 | Friends 'Til the End | 3.00% | ~115 |
 | Don't Make Me Turn This Coach Around | 2.00% | ~2,579 |
 | It Rings a Bell | 2.00% | ~2,579 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,950 (Ranked 86)  
+Progressed: 128,959 (Ranked 86)  
 Completed: 3 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,16 +321,16 @@ Completed: 3 (0.00%) (Ranked 384)
 | 2023-12-18 | 128,398 | 3 |
 | 2023-12-19 | 128,605 | 3 |
 | 2023-12-20 | 128,785 | 3 |
-| 2023-12-21 | 128,950 | 3 |
+| 2023-12-21 | 128,959 | 3 |
 ## Awards
 Max (Character Customization): 7,823  (Ranked 50)  
-Sum: 20,898 (Ranked 58)  
+Sum: 20,903 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,823 |
 | This game has Diverse Characters | 1,747 |
-| This game has Challenging Combat | 1,614 |
+| This game has Challenging Combat | 1,619 |
 | This game is Highly Recommended | 1,557 |
 | This game is Extremely Fun | 1,481 |
 | This game has Amazing Characters | 1,477 |
@@ -670,4 +670,4 @@ Diff (max vs sum): -8
 | 2023-12-18 | 4.68 | - | 7,784 | 20,761 |
 | 2023-12-19 | 4.68 | - | 7,795 | 20,806 |
 | 2023-12-20 | 4.68 | - | 7,805 | 20,840 |
-| 2023-12-21 | 4.68 | - | 7,823 | 20,898 |
+| 2023-12-21 | 4.68 | - | 7,823 | 20,903 |

@@ -2,10 +2,10 @@
   "ID": "092bbf0d7e2449c08271cae2fb791cf2",
   "Name": "CHUCHEL",
   "ProductSlug": "chuchel-203808",
-  "Ranking_EOS_Progress": 399,
+  "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2018-03-07T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 211,
+  "EOS_Progressed": 212,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -709,6 +709,11 @@
       "Time": "2023-12-21T20:06:15.874377+00:00",
       "NumProgressed": 211,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T21:05:48.4921329+00:00",
+      "NumProgressed": 212,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -719,17 +724,17 @@
       "ID": "ach1",
       "SetID": "796kfpa",
       "Name": "Good Morning",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 145,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "ach2",
       "SetID": "796kfpa",
       "Name": "Blabber",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 145,
-      "UsersEstimate": 103
+      "UsersEstimate": 106
     },
     {
       "ID": "ach3",
@@ -776,14 +781,14 @@
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 211,
+      "Progressed": 212,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2023-12-21T20:06:15.8743766+00:00",
+  "LastChanged_Achievements": "2023-12-21T21:05:48.4921324+00:00",
   "LastUpdate_AppInfo": "2023-12-20T19:57:05.4963637+00:00",
-  "LastUpdate_Ratings": "2023-12-21T20:00:27.2012946+00:00",
-  "LastUpdate_Achievements": "2023-12-21T20:06:15.8743863+00:00"
+  "LastUpdate_Ratings": "2023-12-21T20:59:57.6079522+00:00",
+  "LastUpdate_Achievements": "2023-12-21T21:05:48.4921445+00:00"
 }

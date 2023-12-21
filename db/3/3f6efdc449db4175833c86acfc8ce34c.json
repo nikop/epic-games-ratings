@@ -4,7 +4,7 @@
   "ProductSlug": "aya-and-naya-b7791e",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 83,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-08-17T20:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1456,
+  "EOS_Progressed": 1457,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 4.4,
+  "EOS_Completed_Percentage": 4.39,
   "EosHistory": [
     {
       "Time": "2023-08-08T23:02:04.1783243+00:00",
@@ -3934,6 +3934,11 @@
       "Time": "2023-12-21T15:10:46.3507534+00:00",
       "NumProgressed": 1456,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-12-21T21:10:00.3029091+00:00",
+      "NumProgressed": 1457,
+      "NumCompleted": 64
     }
   ],
   "AchievementsAdded": "2023-08-08T22:02:18.1743145+00:00",
@@ -3946,7 +3951,7 @@
       "Name": "Played!",
       "Percentage": 83,
       "XP": 200,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1209
     },
     {
       "ID": "Mission2",
@@ -3954,7 +3959,7 @@
       "Name": "Mission 1 clear",
       "Percentage": 40,
       "XP": 200,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "Mission3",
@@ -3985,14 +3990,14 @@
     {
       "ID": "6igjng7",
       "IsBase": true,
-      "Progressed": 1456,
+      "Progressed": 1457,
       "Completed": 64
     }
   ],
   "FirstSeen": "2023-08-19T18:58:05.6794692+00:00",
   "FirstSeenAchievements": "2023-08-08T21:02:12.6548497+00:00",
-  "LastChanged_Achievements": "2023-12-21T20:10:28.852583+00:00",
+  "LastChanged_Achievements": "2023-12-21T21:10:00.3029088+00:00",
   "LastUpdate_AppInfo": "2023-12-18T18:57:14.3302221+00:00",
-  "LastUpdate_Ratings": "2023-12-21T20:00:48.4669872+00:00",
-  "LastUpdate_Achievements": "2023-12-21T20:10:28.852609+00:00"
+  "LastUpdate_Ratings": "2023-12-21T21:00:15.9204214+00:00",
+  "LastUpdate_Achievements": "2023-12-21T21:10:00.3029335+00:00"
 }

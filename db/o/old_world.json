@@ -2,12 +2,12 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 318,
+  "Ranking_Rating": 317,
   "Ranking_Popularity": 279,
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -18333,17 +18333,17 @@
       "ID": "ACHIEVEMENT_CARTHAGE_4",
       "SetID": "9201eeb",
       "Name": "Carthage - Seizing Destiny",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_4_BRONZE",
       "SetID": "9201eeb",
       "Name": "Bronze Victory (Carthage 4)",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_4_EPIC",
@@ -18373,9 +18373,9 @@
       "ID": "ACHIEVEMENT_CARTHAGE_CAMPAIGN",
       "SetID": "9201eeb",
       "Name": "Carthage Campaign",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_CLEOPATRAS_LOVE",
@@ -20939,8 +20939,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-21T01:48:44.1957278+00:00",
-  "LastChanged_Achievements": "2023-12-21T20:10:21.8324841+00:00",
+  "LastChanged_Achievements": "2023-12-21T21:09:54.5489149+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:47.4773202+00:00",
-  "LastUpdate_Ratings": "2023-12-21T20:03:07.5095823+00:00",
-  "LastUpdate_Achievements": "2023-12-21T20:10:21.8335316+00:00"
+  "LastUpdate_Ratings": "2023-12-21T21:02:59.0539364+00:00",
+  "LastUpdate_Achievements": "2023-12-21T21:09:54.549871+00:00"
 }

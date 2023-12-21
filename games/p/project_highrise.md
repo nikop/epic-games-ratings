@@ -7,9 +7,9 @@
 | In the Black | 58.00% | ~239 |
 | Starting Skyward | 53.00% | ~218 |
 | Grime is Not Good | 46.00% | ~190 |
+| Dinner Dash | 41.00% | ~169 |
 | Floor Galore | 40.00% | ~165 |
-| Dinner Dash | 40.00% | ~165 |
-| Campaign Launch | 39.00% | ~161 |
+| Campaign Launch | 40.00% | ~165 |
 | Need a Consult | 37.00% | ~152 |
 | It's Technical | 37.00% | ~152 |
 | Upgrade Unlock | 36.00% | ~148 |
@@ -21,7 +21,7 @@
 | Smooth Service | 25.00% | ~103 |
 | Your Prestige is Rising | 24.00% | ~99 |
 | Retail Revenue | 24.00% | ~99 |
-| Don't Feel a Loan | 22.00% | ~91 |
+| Don't Feel a Loan | 23.00% | ~95 |
 | People Mover | 21.00% | ~87 |
 | Artfully Done | 20.00% | ~82 |
 | Emporium Empire | 20.00% | ~82 |
@@ -36,9 +36,9 @@
 | Starred Dining | 15.00% | ~62 |
 | Cashflow Chief | 15.00% | ~62 |
 | Smooth Operator | 13.00% | ~54 |
+| Thrilled Tenants | 13.00% | ~54 |
 | Boutique Benefits | 12.00% | ~49 |
 | Terrifically Trashed | 12.00% | ~49 |
-| Thrilled Tenants | 12.00% | ~49 |
 | Aestheticly Pleased | 10.00% | ~41 |
 | 28 Days Later | 10.00% | ~41 |
 | Swimming in Surplus | 10.00% | ~41 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 412 (Ranked 342)  
+Progressed: 412 (Ranked 343)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -1,17 +1,17 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.51 (Ranked 581)  
+Rating: 4.51 (Ranked 582)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 40.00% | ~6,898 |
+| Tattletale | 40.00% | ~6,899 |
 | Man of politics | 34.00% | ~5,864 |
-| Friends of sorts | 33.00% | ~5,691 |
-| Yet another secret | 33.00% | ~5,691 |
-| Let there be darkness | 31.00% | ~5,346 |
-| End of Book One | 29.00% | ~5,001 |
+| Friends of sorts | 33.00% | ~5,692 |
+| Yet another secret | 33.00% | ~5,692 |
+| Let there be darkness | 31.00% | ~5,347 |
+| End of Book One | 29.00% | ~5,002 |
 | Garden of Eden | 24.00% | ~4,139 |
 | Wannabe knight | 23.00% | ~3,967 |
 | Full house | 23.00% | ~3,967 |
@@ -20,9 +20,9 @@ Number of Ratings: 368  (23.09.2022)
 | Negotiation skills | 18.00% | ~3,104 |
 | Workers' union | 18.00% | ~3,104 |
 | End of Book Two | 18.00% | ~3,104 |
-| Everything's in order | 16.00% | ~2,759 |
-| Twist of Fate | 14.00% | ~2,414 |
-| Jack was here! | 14.00% | ~2,414 |
+| Everything's in order | 16.00% | ~2,760 |
+| Twist of Fate | 14.00% | ~2,415 |
+| Jack was here! | 14.00% | ~2,415 |
 | Exterminator | 13.00% | ~2,242 |
 | Whodunnit | 12.00% | ~2,070 |
 | Good midwife | 10.00% | ~1,725 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~517 |
 | Boy of mystery | 2.00% | ~345 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,246 (Ranked 153)  
+Progressed: 17,247 (Ranked 153)  
 Completed: 119 (0.69%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 119 (0.69%) (Ranked 194)
 | 2023-12-18 | 17,173 | 119 |
 | 2023-12-19 | 17,192 | 119 |
 | 2023-12-20 | 17,220 | 119 |
-| 2023-12-21 | 17,246 | 119 |
+| 2023-12-21 | 17,247 | 119 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 320)  
 Sum: 200 (Ranked 409)  

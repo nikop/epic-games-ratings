@@ -288,7 +288,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2327,
+  "EOS_Progressed": 2328,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
@@ -3698,6 +3698,11 @@
       "Time": "2023-12-21T19:06:28.2172697+00:00",
       "NumProgressed": 2327,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-21T21:06:13.5003778+00:00",
+      "NumProgressed": 2328,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3789,7 +3794,7 @@
       "Name": "Denying Prophecy",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACHV_12",
@@ -3877,7 +3882,7 @@
       "Name": "Offensive Defense",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "ACHV_23",
@@ -3885,7 +3890,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "ACHV_24",
@@ -3909,7 +3914,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1838
+      "UsersEstimate": 1839
     },
     {
       "ID": "ACHV_27",
@@ -3973,7 +3978,7 @@
       "Name": "Shocking",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "ACHV_35",
@@ -3981,7 +3986,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "ACHV_36",
@@ -4029,7 +4034,7 @@
       "Name": "Suited and Booted",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "ACHV_42",
@@ -4115,9 +4120,9 @@
       "ID": "ACHV_52",
       "SetID": "8p5mlmc",
       "Name": "Juiced Up",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 116
     },
     {
       "ID": "ACHV_53",
@@ -4164,7 +4169,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2327,
+      "Progressed": 2328,
       "Completed": 13
     }
   ],
@@ -4172,8 +4177,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-17T06:57:54.8643494+00:00",
-  "LastChanged_Achievements": "2023-12-21T20:06:43.6255451+00:00",
+  "LastChanged_Achievements": "2023-12-21T21:06:13.5003773+00:00",
   "LastUpdate_AppInfo": "2023-12-16T16:57:00.284762+00:00",
-  "LastUpdate_Ratings": "2023-12-21T20:00:43.8353041+00:00",
-  "LastUpdate_Achievements": "2023-12-21T20:06:43.6256055+00:00"
+  "LastUpdate_Ratings": "2023-12-21T21:00:12.0471393+00:00",
+  "LastUpdate_Achievements": "2023-12-21T21:06:13.5004478+00:00"
 }

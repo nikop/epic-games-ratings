@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escape artist | 75.00% | ~66 |
+| Escape artist | 76.00% | ~67 |
 | Ooh, it's shiny! | 48.00% | ~42 |
 | Book Worm | 47.00% | ~41 |
 | Fussy eater | 36.00% | ~32 |

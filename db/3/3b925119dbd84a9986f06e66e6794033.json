@@ -2,9 +2,9 @@
   "ID": "3b925119dbd84a9986f06e66e6794033",
   "Name": "The Jackbox Party Pack 10",
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
-  "Ranking_EOS_Progress": 346,
+  "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 400,
+  "EOS_Progressed": 402,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1384,6 +1384,11 @@
       "Time": "2023-12-21T20:10:11.9923862+00:00",
       "NumProgressed": 400,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T21:09:45.4436743+00:00",
+      "NumProgressed": 402,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -1418,9 +1423,9 @@
       "ID": "DODO_RE_MI_SURVIVED_TUTORIAL",
       "SetID": "9j9h72e",
       "Name": "Dodo Re Mi: Beginner\u2019s Pluck",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 8
     },
     {
       "ID": "HYPNO_CORRECT_GROUP",
@@ -1434,17 +1439,17 @@
       "ID": "HYPNO_OUTLIER_ID",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Self Aware",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 28
     },
     {
       "ID": "HYPNO_OUTLIER_ONLY_ID",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Galaxy Brain",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 4
     },
     {
       "ID": "HYPNO_UNANIMOUS_OUTLIER",
@@ -1474,9 +1479,9 @@
       "ID": "RISKYTEXT_PLAY_ALL_CATEGORIES",
       "SetID": "9j9h72e",
       "Name": "FixyText: Chatterbox",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 4
     },
     {
       "ID": "RISKYTEXT_VOTE_FOR_EDITED_WORD",
@@ -1490,15 +1495,15 @@
       "ID": "TIME_JINX",
       "SetID": "9j9h72e",
       "Name": "Timejinx: Timejinx",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 100
+      "UsersEstimate": 105
     },
     {
       "ID": "TIME_ORWELL",
       "SetID": "9j9h72e",
       "Name": "Timejinx: Did You Even Read the Book?!",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -1506,9 +1511,9 @@
       "ID": "TIME_PERFECT_DATE",
       "SetID": "9j9h72e",
       "Name": "Timejinx: The Perfect Date",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 100
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -1530,9 +1535,9 @@
       "ID": "TKO2_DOMINO",
       "SetID": "9j9h72e",
       "Name": "Tee K.O. 2: Domino",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 16
     },
     {
       "ID": "TKO2_DRAGONS_FAVORITE",
@@ -1555,14 +1560,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 400,
+      "Progressed": 402,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-21T20:10:11.9923858+00:00",
+  "LastChanged_Achievements": "2023-12-21T21:09:45.443674+00:00",
   "LastUpdate_AppInfo": "2023-12-16T01:42:15.0489028+00:00",
-  "LastUpdate_Ratings": "2023-12-21T20:03:00.9701032+00:00",
-  "LastUpdate_Achievements": "2023-12-21T20:10:11.9924012+00:00"
+  "LastUpdate_Ratings": "2023-12-21T21:02:53.1172623+00:00",
+  "LastUpdate_Achievements": "2023-12-21T21:09:45.4436887+00:00"
 }

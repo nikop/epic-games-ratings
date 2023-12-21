@@ -493,9 +493,9 @@
       "ID": "cultipedia",
       "SetID": "7i36ba9",
       "Name": "Cultipedia",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "drowned_sorrows",
@@ -525,9 +525,9 @@
       "ID": "join_the_legal_team",
       "SetID": "7i36ba9",
       "Name": "Join the Legal Team",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "josh_the_saviour",
@@ -684,8 +684,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-12-21T20:10:21.1893359+00:00",
+  "LastChanged_Achievements": "2023-12-21T21:09:53.6385842+00:00",
   "LastUpdate_AppInfo": "2023-12-16T05:57:10.0587868+00:00",
-  "LastUpdate_Ratings": "2023-12-21T20:00:45.5915873+00:00",
-  "LastUpdate_Achievements": "2023-12-21T20:10:21.1893584+00:00"
+  "LastUpdate_Ratings": "2023-12-21T21:00:13.5713268+00:00",
+  "LastUpdate_Achievements": "2023-12-21T21:09:53.6386022+00:00"
 }

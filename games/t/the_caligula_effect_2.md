@@ -9,7 +9,7 @@ Number of Ratings: 32  (23.09.2022)
 | Welcome to Redo | 98.00% | ~240 |
 | Daily Life Begins Anew | 82.00% | ~201 |
 | Our World Now | 82.00% | ~201 |
-| Never Saw It Coming | 66.00% | ~162 |
+| Never Saw It Coming | 67.00% | ~164 |
 | Coup de Grace | 58.00% | ~142 |
 | Go-Home Club Activities START! | 49.00% | ~120 |
 | Philanthropist | 39.00% | ~96 |
@@ -56,7 +56,7 @@ Number of Ratings: 32  (23.09.2022)
 | Topical Conversationalist | 1.00% | ~2 |
 | The Caligula Effect 2 | 0.80% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245 (Ranked 389)  
+Progressed: 245 (Ranked 390)  
 Completed: 2 (0.82%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
