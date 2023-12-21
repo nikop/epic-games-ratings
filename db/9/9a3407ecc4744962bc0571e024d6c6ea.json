@@ -4,7 +4,7 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1093,
+  "EOS_Progressed": 1094,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -2999,6 +2999,11 @@
       "Time": "2023-12-21T01:55:36.6625056+00:00",
       "NumProgressed": 1093,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-21T09:09:50.5511594+00:00",
+      "NumProgressed": 1094,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -3027,7 +3032,7 @@
       "Name": "Boxing Clever",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "Cartographer",
@@ -3091,7 +3096,7 @@
       "Name": "Lights Out",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "MiCasaSuCasa",
@@ -3107,7 +3112,7 @@
       "Name": "Once more into the Breach",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "Outpatient",
@@ -3123,7 +3128,7 @@
       "Name": "Relic",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "SkeletonCrew",
@@ -3147,7 +3152,7 @@
       "Name": "The Safety of Disbelief",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "TragedyDocumented",
@@ -3163,21 +3168,21 @@
       "Name": "Welcome to Fort Solis",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 1093,
+      "Progressed": 1094,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-12-21T08:10:13.6959472+00:00",
+  "LastChanged_Achievements": "2023-12-21T09:09:50.5511591+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:10.5156863+00:00",
-  "LastUpdate_Ratings": "2023-12-21T07:59:34.5449057+00:00",
-  "LastUpdate_Achievements": "2023-12-21T08:10:13.6959857+00:00"
+  "LastUpdate_Ratings": "2023-12-21T08:59:03.5746142+00:00",
+  "LastUpdate_Achievements": "2023-12-21T09:09:50.5511852+00:00"
 }

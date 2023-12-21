@@ -3,9 +3,9 @@
   "Name": "Doodle God",
   "ProductSlug": "doodle-god-f6a7b6",
   "Ranking_EOS_Progress": 384,
-  "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 465,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_Completed": 96,
+  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-03-10T17:00:00+00:00",
     "PcReleaseDate": "2022-03-10T17:00:00+00:00",
@@ -30,10 +30,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 264,
-  "EOS_Completed": 9,
+  "EOS_Completed": 10,
   "EOS_NewPlayers": 3,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.41,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 3.79,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:26.6583072+00:00",
@@ -399,6 +399,11 @@
       "Time": "2023-12-19T15:05:23.5974123+00:00",
       "NumProgressed": 264,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-21T09:06:23.0371219+00:00",
+      "NumProgressed": 264,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 22,
@@ -496,9 +501,9 @@
       "ID": "605842",
       "SetID": "4lpaifm",
       "Name": "God of Patience",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 150,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "605852",
@@ -586,15 +591,15 @@
       "ID": "4lpaifm",
       "IsBase": true,
       "Progressed": 264,
-      "Completed": 9
+      "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:31:33.9017854+00:00",
   "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "LastChanged_Achievements": "2023-12-21T08:07:16.3879596+00:00",
+  "LastChanged_Achievements": "2023-12-21T09:06:23.0371214+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:18.7378499+00:00",
-  "LastUpdate_Ratings": "2023-12-21T08:01:14.5079066+00:00",
-  "LastUpdate_Achievements": "2023-12-21T08:07:16.3879785+00:00"
+  "LastUpdate_Ratings": "2023-12-21T09:00:18.3082957+00:00",
+  "LastUpdate_Achievements": "2023-12-21T09:06:23.0371366+00:00"
 }

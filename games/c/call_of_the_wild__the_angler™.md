@@ -23,10 +23,10 @@ Number of Ratings: 281  (23.09.2022)
 | Diamond in the Rough | 0.80% | ~58 |
 | I'm the Captain Now | 0.70% | ~51 |
 | Marathon | 0.70% | ~51 |
-| More than a Tourist | 0.50% | ~36 |
-| Hook, Line and Sinker | 0.50% | ~36 |
-| No Fin left to give | 0.50% | ~36 |
-| Gonna Need a Bigger Boat | 0.50% | ~36 |
+| More than a Tourist | 0.50% | ~37 |
+| Hook, Line and Sinker | 0.50% | ~37 |
+| No Fin left to give | 0.50% | ~37 |
+| Gonna Need a Bigger Boat | 0.50% | ~37 |
 | Aguas Claras Conquistador | 0.40% | ~27 |
 | Live by the Rod, Diez by the Rod! | 0.30% | ~20 |
 | All Good Kings Must Come to an End | 0.30% | ~20 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,300 (Ranked 188)  
+Progressed: 7,302 (Ranked 188)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 7,202 | 0 |
 | 2023-12-19 | 7,233 | 0 |
 | 2023-12-20 | 7,288 | 0 |
-| 2023-12-21 | 7,300 | 0 |
+| 2023-12-21 | 7,302 | 0 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 466)  
 Sum: 210 (Ranked 404)  

@@ -6,11 +6,11 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~87,764 |
+| Sowwy! | 36.00% | ~87,766 |
 | Alt+F4 | 10.00% | ~24,379 |
-| Where's that freaking Dwarf? | 8.00% | ~19,503 |
-| Déjà vu | 7.00% | ~17,065 |
-| Sock! SOCK! | 6.00% | ~14,627 |
+| Where's that freaking Dwarf? | 8.00% | ~19,504 |
+| Déjà vu | 7.00% | ~17,066 |
+| Sock! SOCK! | 6.00% | ~14,628 |
 | A beer, two curses, three companions | 5.00% | ~12,190 |
 | GG EZ | 5.00% | ~12,190 |
 | Speedrun | 5.00% | ~12,190 |
@@ -54,8 +54,8 @@ Number of Ratings: 118  (23.09.2022)
 | It's been a hard day's night | 0.50% | ~1,219 |
 | Friendly fire | 0.40% | ~975 |
 | I'd rather... Just... Sing! | 0.40% | ~975 |
+| Inception | 0.40% | ~975 |
 | The number of the counting shalt be 7 | 0.30% | ~731 |
-| Inception | 0.30% | ~731 |
 | Cursed die | 0.20% | ~488 |
 | The Blood Countess | 0.20% | ~488 |
 | He’s alive! Aliiiive! | 0.20% | ~488 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~244 |
 | Dwarf Candy | 0.10% | ~244 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,790 (Ranked 64)  
+Progressed: 243,794 (Ranked 64)  
 Completed: 7 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 7 (0.00%) (Ranked 384)
 | 2023-12-18 | 243,479 | 7 |
 | 2023-12-19 | 243,614 | 7 |
 | 2023-12-20 | 243,748 | 7 |
-| 2023-12-21 | 243,790 | 7 |
+| 2023-12-21 | 243,794 | 7 |
 ## Awards
 Max (Character Customization): 250  (Ranked 273)  
 Sum: 526 (Ranked 327)  

@@ -225,9 +225,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 97386,
+  "EOS_Progressed": 97433,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21024,
+  "EOS_NewPlayers": 20859,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1585,6 +1585,11 @@
       "Time": "2023-12-21T08:08:41.1980366+00:00",
       "NumProgressed": 97386,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T09:08:39.0982945+00:00",
+      "NumProgressed": 97433,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-10T01:55:31.023863+00:00",
@@ -1597,7 +1602,7 @@
       "Name": "Oh Baby, A Triple",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1948
+      "UsersEstimate": 1949
     },
     {
       "ID": "ACH_5_STAGES_OF_GRIEF",
@@ -1661,7 +1666,7 @@
       "Name": "Fists, Fury \u0026 a lot of Rage",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 6817
+      "UsersEstimate": 6820
     },
     {
       "ID": "ACH_GROWNUP",
@@ -1669,7 +1674,7 @@
       "Name": "All Grown Up!",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 11686
+      "UsersEstimate": 11692
     },
     {
       "ID": "ACH_JUST_GETTING_WARMED_UP",
@@ -1685,7 +1690,7 @@
       "Name": "Katamari",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "ACH_KONGKRETE",
@@ -1693,7 +1698,7 @@
       "Name": "I\u0027ve Had Enough!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 9739
+      "UsersEstimate": 9743
     },
     {
       "ID": "ACH_LET_THEM_FIGHT",
@@ -1709,7 +1714,7 @@
       "Name": "Martyrdom",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "ACH_MASTER_OF_DISGUISE",
@@ -1717,7 +1722,7 @@
       "Name": "Master of Disguise",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1948
+      "UsersEstimate": 1949
     },
     {
       "ID": "ACH_MAYHEM",
@@ -1733,7 +1738,7 @@
       "Name": "Ninja Reflex",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "ACH_ONLINE",
@@ -1749,7 +1754,7 @@
       "Name": "All For One and One For All",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 5843
+      "UsersEstimate": 5846
     },
     {
       "ID": "ACH_RIGHT_BACK_AT_CHA",
@@ -1765,7 +1770,7 @@
       "Name": "Seasoned Fighter",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 5843
+      "UsersEstimate": 5846
     },
     {
       "ID": "ACH_SIGNATURE_LOOK",
@@ -1805,7 +1810,7 @@
       "Name": "Symbiotic",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1948
+      "UsersEstimate": 1949
     },
     {
       "ID": "ACH_TASTE_YOUR_OWN_MEDICINE",
@@ -1821,7 +1826,7 @@
       "Name": "A New Age",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2922
+      "UsersEstimate": 2923
     },
     {
       "ID": "ACH_TOP_OF_THE_FOOD_CHAIN",
@@ -1861,7 +1866,7 @@
       "Name": "Home Sweet Home?",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 3895
+      "UsersEstimate": 3897
     },
     {
       "ID": "ACH_ZERO_SUM_GAME",
@@ -1876,7 +1881,7 @@
     {
       "ID": "3k5ibhn",
       "IsBase": true,
-      "Progressed": 97386,
+      "Progressed": 97433,
       "Completed": 0
     }
   ],
@@ -1884,8 +1889,8 @@
   "FirstSeenRating": "2022-10-02T07:32:08.4274129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:17.2611178+00:00",
   "LastChanged": "2023-12-20T17:02:55.4796469+00:00",
-  "LastChanged_Achievements": "2023-12-21T08:08:41.1980363+00:00",
+  "LastChanged_Achievements": "2023-12-21T09:08:39.0982943+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:44.2379723+00:00",
-  "LastUpdate_Ratings": "2023-12-21T08:03:01.1696656+00:00",
-  "LastUpdate_Achievements": "2023-12-21T08:08:41.1980648+00:00"
+  "LastUpdate_Ratings": "2023-12-21T09:03:04.8405507+00:00",
+  "LastUpdate_Achievements": "2023-12-21T09:08:39.0983153+00:00"
 }

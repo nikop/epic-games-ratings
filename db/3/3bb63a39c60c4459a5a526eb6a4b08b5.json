@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -3967,9 +3967,9 @@
       "ID": "BigPlane",
       "SetID": "1e89b4i",
       "Name": "Expensive Plane",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 265
     },
     {
       "ID": "BudgetFlight",
@@ -4286,8 +4286,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-12-21T08:10:34.5505111+00:00",
+  "LastChanged_Achievements": "2023-12-21T09:10:07.2900622+00:00",
   "LastUpdate_AppInfo": "2023-12-19T19:57:14.5538478+00:00",
-  "LastUpdate_Ratings": "2023-12-21T07:58:46.562773+00:00",
-  "LastUpdate_Achievements": "2023-12-21T08:10:34.5505544+00:00"
+  "LastUpdate_Ratings": "2023-12-21T08:58:27.8819059+00:00",
+  "LastUpdate_Achievements": "2023-12-21T09:10:07.2900971+00:00"
 }

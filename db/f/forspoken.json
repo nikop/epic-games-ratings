@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -517,9 +517,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 44588,
+  "EOS_Progressed": 44592,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 924,
+  "EOS_NewPlayers": 921,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15882,6 +15882,11 @@
       "Time": "2023-12-21T08:03:47.0865931+00:00",
       "NumProgressed": 44588,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-21T09:03:39.8034156+00:00",
+      "NumProgressed": 44592,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -16053,7 +16058,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2229
+      "UsersEstimate": 2230
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -16085,7 +16090,7 @@
       "Name": "Leapfrogger",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2675
+      "UsersEstimate": 2676
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -16109,7 +16114,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2229
+      "UsersEstimate": 2230
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -16149,7 +16154,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2229
+      "UsersEstimate": 2230
     },
     {
       "ID": "MAGIC_IVY",
@@ -16219,9 +16224,9 @@
       "ID": "SKILLTREE_ALL",
       "SetID": "6d0g7k8",
       "Name": "Realized Potential",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 312
     },
     {
       "ID": "SKILLTREE_FIRST",
@@ -16245,7 +16250,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2675
+      "UsersEstimate": 2676
     },
     {
       "ID": "STAYING_AIR",
@@ -16316,22 +16321,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 44588,
+      "Progressed": 44592,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 9425,
-      "Completed": 9425
+      "Progressed": 9429,
+      "Completed": 9429
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-20T22:02:03.9377568+00:00",
-  "LastChanged_Achievements": "2023-12-21T08:03:47.0865926+00:00",
+  "LastChanged_Achievements": "2023-12-21T09:03:39.8034154+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:26.7354097+00:00",
-  "LastUpdate_Ratings": "2023-12-21T08:02:37.303231+00:00",
-  "LastUpdate_Achievements": "2023-12-21T08:03:47.0867043+00:00"
+  "LastUpdate_Ratings": "2023-12-21T09:02:47.3711458+00:00",
+  "LastUpdate_Achievements": "2023-12-21T09:03:39.8035285+00:00"
 }

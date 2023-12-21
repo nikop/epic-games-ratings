@@ -151,9 +151,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2907,
+  "EOS_Progressed": 2908,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -4801,6 +4801,11 @@
       "Time": "2023-12-21T06:03:31.047457+00:00",
       "NumProgressed": 2907,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-12-21T09:03:45.6088483+00:00",
+      "NumProgressed": 2908,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 53,
@@ -4836,7 +4841,7 @@
       "Name": "Whispers in the Woods II",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "STB_COLISSEUM_THIRD",
@@ -4876,7 +4881,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2791
+      "UsersEstimate": 2792
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -4892,7 +4897,7 @@
       "Name": "Everfrost",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2267
+      "UsersEstimate": 2268
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -4988,7 +4993,7 @@
       "Name": "Pentakill",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2238
+      "UsersEstimate": 2239
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -4996,7 +5001,7 @@
       "Name": "No more cages!",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 2645
+      "UsersEstimate": 2646
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -5028,7 +5033,7 @@
       "Name": "Dark Forest",
       "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 2238
+      "UsersEstimate": 2239
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -5116,7 +5121,7 @@
       "Name": "You can pet the dog",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 1773
+      "UsersEstimate": 1774
     },
     {
       "ID": "STB_PET_HORSE",
@@ -5156,7 +5161,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -5172,7 +5177,7 @@
       "Name": "Quickmoore Headquarters",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_V",
@@ -5188,7 +5193,7 @@
       "Name": "The use of petricite",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2151
+      "UsersEstimate": 2152
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -5228,14 +5233,14 @@
       "Name": "Petricite Burst",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2907,
+      "Progressed": 2908,
       "Completed": 16
     }
   ],
@@ -5243,8 +5248,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-20T21:00:13.330526+00:00",
-  "LastChanged_Achievements": "2023-12-21T08:03:54.2600411+00:00",
+  "LastChanged_Achievements": "2023-12-21T09:03:45.608848+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:24.9335177+00:00",
-  "LastUpdate_Ratings": "2023-12-21T08:01:51.2092784+00:00",
-  "LastUpdate_Achievements": "2023-12-21T08:03:54.2600926+00:00"
+  "LastUpdate_Ratings": "2023-12-21T09:00:45.1934197+00:00",
+  "LastUpdate_Achievements": "2023-12-21T09:03:45.6089627+00:00"
 }

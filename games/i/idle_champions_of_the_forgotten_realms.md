@@ -20,6 +20,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flames of Avernus | 0.30% | ~626 |
 | Don't Lose Your Head | 0.30% | ~626 |
 | Mind Spike | 0.30% | ~626 |
+| Were-verpowered | 0.20% | ~485 |
 | The Ring of Regeneration | 0.20% | ~485 |
 | Are Ya Chicken? | 0.20% | ~485 |
 | Arcane Suppression | 0.20% | ~418 |
@@ -130,7 +131,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Kas the Bloody Handed | 0.10% | ~209 |
 | Get Back In The Castle | 0.10% | ~209 |
 | Kas the Destroyer | 0.10% | ~209 |
-| Were-verpowered | 0.10% | ~243 |
 | Checkmate | 0.10% | ~209 |
 | Pin and Skewer | 0.10% | ~209 |
 | Vecna Out! | 0.10% | ~209 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~209 |
 | The Brains of an Illithid's Desire | 0.10% | ~209 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,519 (Ranked 65)  
+Progressed: 242,529 (Ranked 65)  
 Completed: 2,548 (1.05%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -798,7 +798,7 @@ Completed: 2,548 (1.05%) (Ranked 171)
 | 2023-12-18 | 241,838 | 2,541 |
 | 2023-12-19 | 242,122 | 2,544 |
 | 2023-12-20 | 242,412 | 2,546 |
-| 2023-12-21 | 242,519 | 2,548 |
+| 2023-12-21 | 242,529 | 2,548 |
 ## Awards
 Max (Great for Beginners): 5,665  (Ranked 70)  
 Sum: 32,980 (Ranked 41)  

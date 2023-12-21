@@ -58,18 +58,18 @@
 | Absolute Champion! | 31.00% | ~135 |
 | Your own way | 31.00% | ~135 |
 | The lonesome road | 30.00% | ~131 |
+| Keep nature safe | 30.00% | ~131 |
+| Family comes first | 30.00% | ~131 |
 | Careerist | 30.00% | ~131 |
 | The heart of the Resistance | 30.00% | ~131 |
 | Trap disarmed | 29.00% | ~126 |
 | Another world | 29.00% | ~126 |
-| Keep nature safe | 29.00% | ~126 |
-| Family comes first | 29.00% | ~126 |
 | Key memories | 29.00% | ~126 |
 | Anyone can resist | 29.00% | ~126 |
 | The last bell ring | 28.00% | ~122 |
+| Better cooking at home | 27.00% | ~118 |
 | The only right decision | 27.00% | ~118 |
 | Silver’s past | 26.00% | ~113 |
-| Better cooking at home | 26.00% | ~113 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 436 (Ranked 339)  
 Completed: 9 (2.06%) (Ranked 135)  

@@ -63,6 +63,7 @@ Number of Ratings: 371  (23.09.2022)
 | Arsenal of Destruction | 0.10% | ~3 |
 | Crisis Management | 0.10% | ~3 |
 | Grand Master | 0.10% | ~3 |
+| Legend of Titan | 0.10% | ~3 |
 | Dominus | 0.10% | ~3 |
 | Drone Army | 0.10% | ~3 |
 | Opportunist | 0.10% | ~3 |
@@ -71,7 +72,6 @@ Number of Ratings: 371  (23.09.2022)
 | Brothers in Arms | 0.10% | ~3 |
 | Firing Squad | 0.10% | ~3 |
 | Not a Mote of Corruption | 0.10% | ~3 |
-| Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

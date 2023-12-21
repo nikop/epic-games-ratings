@@ -673,7 +673,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 472559,
+  "EOS_Progressed": 472560,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 336,
   "EOS_NewCompleters": 0,
@@ -25968,6 +25968,11 @@
       "Time": "2023-12-21T07:10:35.6927887+00:00",
       "NumProgressed": 472559,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-12-21T09:10:10.9789776+00:00",
+      "NumProgressed": 472560,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -26067,7 +26072,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 311889
+      "UsersEstimate": 311890
     },
     {
       "ID": "achievement_story_landa",
@@ -26131,7 +26136,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51981
+      "UsersEstimate": 51982
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -26610,21 +26615,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 16493,
+      "Progressed": 16494,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 472559,
+      "Progressed": 472560,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-12-16T01:44:08.2225132+00:00",
-  "LastChanged_Achievements": "2023-12-21T08:10:39.2109442+00:00",
+  "LastChanged_Achievements": "2023-12-21T09:10:10.9789774+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:11.1940108+00:00",
-  "LastUpdate_Ratings": "2023-12-21T07:57:58.0203953+00:00",
-  "LastUpdate_Achievements": "2023-12-21T08:10:39.2110915+00:00"
+  "LastUpdate_Ratings": "2023-12-21T08:57:51.2792788+00:00",
+  "LastUpdate_Achievements": "2023-12-21T09:10:10.9791195+00:00"
 }

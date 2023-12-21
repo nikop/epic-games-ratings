@@ -119,9 +119,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 5839,
+  "EOS_Progressed": 5845,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2637,
+  "EOS_NewPlayers": 2631,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1774,6 +1774,11 @@
       "Time": "2023-12-21T08:10:04.5296801+00:00",
       "NumProgressed": 5839,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T09:09:43.2716307+00:00",
+      "NumProgressed": 5845,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -1786,7 +1791,7 @@
       "Name": "Conspiracy",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1461
     },
     {
       "ID": "03_TheStolenStar",
@@ -1880,9 +1885,9 @@
       "ID": "14_TheBreezeOfPain",
       "SetID": "37a94m8",
       "Name": "Fear Not Obliteration",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 234
+      "UsersEstimate": 292
     },
     {
       "ID": "15_Pentakill",
@@ -1890,7 +1895,7 @@
       "Name": "Pentakill",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "16_TheRise",
@@ -2002,7 +2007,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "30_The GreatestExploration",
@@ -2034,7 +2039,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -2138,7 +2143,7 @@
       "Name": "A Spark",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "47_AFlame",
@@ -2305,7 +2310,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 5839,
+      "Progressed": 5845,
       "Completed": 0
     }
   ],
@@ -2313,8 +2318,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-20T22:57:26.2950246+00:00",
-  "LastChanged_Achievements": "2023-12-21T08:10:04.5296793+00:00",
+  "LastChanged_Achievements": "2023-12-21T09:09:43.2716305+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:04.5293385+00:00",
-  "LastUpdate_Ratings": "2023-12-21T07:58:00.7104655+00:00",
-  "LastUpdate_Achievements": "2023-12-21T08:10:04.5297461+00:00"
+  "LastUpdate_Ratings": "2023-12-21T08:57:53.2559034+00:00",
+  "LastUpdate_Achievements": "2023-12-21T09:09:43.2716764+00:00"
 }

@@ -5,9 +5,9 @@ Rating: 4.64 (Ranked 338)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 38.00% | ~399 |
-| Rail Rat | 29.00% | ~304 |
-| The Mysterious Stranger | 28.00% | ~294 |
+| Time Heals All Wounds | 38.00% | ~400 |
+| Rail Rat | 29.00% | ~305 |
+| The Mysterious Stranger | 28.00% | ~295 |
 | Immaculate Aim | 24.00% | ~252 |
 | The Brass Boss | 24.00% | ~252 |
 | Make Up For Lost Time | 23.00% | ~242 |
@@ -20,46 +20,46 @@ Rating: 4.64 (Ranked 338)
 | Honest Mistake | 22.00% | ~231 |
 | Fast Learner | 22.00% | ~231 |
 | Immaculate Aim | 22.00% | ~231 |
-| The Wicked Twins | 21.00% | ~220 |
+| The Wicked Twins | 21.00% | ~221 |
 | Right On Time | 20.00% | ~210 |
 | Like Clockwork | 20.00% | ~210 |
 | The Betrayer | 20.00% | ~210 |
 | Golem Chaser | 20.00% | ~210 |
 | Check Your Pulse | 19.00% | ~200 |
-| The Man Who Shattered Time | 18.00% | ~189 |
 | The Loose Cannon | 18.00% | ~189 |
 | The Family Fortune | 18.00% | ~189 |
-| Street Style | 17.00% | ~178 |
+| Street Style | 17.00% | ~179 |
+| The Man Who Shattered Time | 17.00% | ~179 |
 | Whiz Kid | 14.00% | ~147 |
-| Cartographer | 14.00% | ~147 |
-| Good Neighbor | 14.00% | ~147 |
-| Treasure Trove | 13.00% | ~136 |
-| Family Memories | 13.00% | ~136 |
+| Treasure Trove | 13.00% | ~137 |
+| Family Memories | 13.00% | ~137 |
+| Cartographer | 13.00% | ~137 |
+| Good Neighbor | 13.00% | ~137 |
 | Chaincrawler Explorer | 12.00% | ~126 |
 | Ask Questions Later | 12.00% | ~126 |
 | Sump Explorer | 11.00% | ~116 |
 | Syron for Hope | 11.00% | ~116 |
 | Factorywood Explorer | 10.00% | ~105 |
 | Theater Explorer | 10.00% | ~105 |
-| Cultivair Explorer | 9.00% | ~94 |
-| Fairgrounds Explorer | 9.00% | ~94 |
+| Cultivair Explorer | 9.00% | ~95 |
+| Fairgrounds Explorer | 9.00% | ~95 |
 | Corin Goes Home | 8.00% | ~84 |
 | Sartorialist | 8.00% | ~84 |
 | Entresol Explorer | 8.00% | ~84 |
 | Clovemary for Remembering | 6.00% | ~63 |
 | Hexlock for Protection | 6.00% | ~63 |
 | Golem Hunter | 6.00% | ~63 |
-| Rungs Was Right | 5.00% | ~52 |
+| Rungs Was Right | 5.00% | ~53 |
 | Wunderkind | 2.00% | ~21 |
 | Fitting In | 2.00% | ~21 |
-| Thinking Two Steps Ahead | 1.00% | ~10 |
-| A Lesson in Precision | 1.00% | ~10 |
-| No Time to Waste | 1.00% | ~10 |
+| Thinking Two Steps Ahead | 1.00% | ~11 |
+| A Lesson in Precision | 1.00% | ~11 |
+| No Time to Waste | 1.00% | ~11 |
 | Wildlife Protection | 0.80% | ~8 |
 | Raw Talent | 0.70% | ~7 |
 | Going to Live Forever | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,050 (Ranked 275)  
+Progressed: 1,052 (Ranked 275)  
 Completed: 6 (0.57%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 6 (0.57%) (Ranked 201)
 | 2023-12-18 | 1,030 | 6 |
 | 2023-12-19 | 1,037 | 6 |
 | 2023-12-20 | 1,046 | 6 |
-| 2023-12-21 | 1,050 | 6 |
+| 2023-12-21 | 1,052 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

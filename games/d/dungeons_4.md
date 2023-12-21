@@ -20,7 +20,7 @@
 | The Ascent | 59.00% | ~353 |
 | It's Warm and Cozy at Home | 59.00% | ~353 |
 | Trap Master | 55.00% | ~329 |
-| Minions, Minions! | 54.00% | ~323 |
+| Minions, Minions! | 55.00% | ~329 |
 | Hard Work | 54.00% | ~323 |
 | The Big Eaty | 54.00% | ~323 |
 | “… like son” | 51.00% | ~305 |
@@ -49,8 +49,8 @@
 | The Rune Sockets of Finitude (Part 1) | 24.00% | ~144 |
 | Raiders of the Lost Stone | 23.00% | ~138 |
 | The Rune Sockets of Finitude (Part 2) | 22.00% | ~132 |
+| The Last Stand - This Time For Real! | 21.00% | ~126 |
 | Rubble and Ashes | 20.00% | ~120 |
-| The Last Stand - This Time For Real! | 20.00% | ~120 |
 | My Little Torture Chamber | 18.00% | ~108 |
 | Lavalumps on Ice! | 18.00% | ~108 |
 | To the Max! | 18.00% | ~108 |
@@ -64,7 +64,7 @@
 | Laser Eyes Are So Useless | 12.00% | ~72 |
 | Hands Off My Stones | 12.00% | ~72 |
 | No Mana, No Cry | 10.00% | ~60 |
-| I Don't Need Any Help | 8.00% | ~48 |
+| I Don't Need Any Help | 9.00% | ~54 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 598 (Ranked 317)  
 Completed: 20 (3.34%) (Ranked 104)  

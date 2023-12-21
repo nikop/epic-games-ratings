@@ -4,7 +4,7 @@
   "ProductSlug": "dungeon-drafters-82c40a",
   "Ranking_EOS_Progress": 456,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewPlayers": 362,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -576,9 +576,9 @@
       "ID": "InnkeeperQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Treasure Hunting",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "InnkeeperQuestlineLast",
@@ -648,9 +648,9 @@
       "ID": "MasterRaiderQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Friend!",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "MasterRaiderQuestlineLast",
@@ -672,9 +672,9 @@
       "ID": "MasterTravelerQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Setting Off",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "MasterTravelerQuestlineLast",
@@ -696,9 +696,9 @@
       "ID": "MasterWardenQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Uncut Gem",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "MasterWardenQuestlineLast",
@@ -889,8 +889,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-12-21T08:05:45.2956069+00:00",
+  "LastChanged_Achievements": "2023-12-21T09:05:12.3739289+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:57:00.4120511+00:00",
-  "LastUpdate_Ratings": "2023-12-21T08:00:07.8764637+00:00",
-  "LastUpdate_Achievements": "2023-12-21T08:05:45.2956346+00:00"
+  "LastUpdate_Ratings": "2023-12-21T08:59:28.2335952+00:00",
+  "LastUpdate_Achievements": "2023-12-21T09:05:12.373951+00:00"
 }

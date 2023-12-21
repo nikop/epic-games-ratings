@@ -2,10 +2,10 @@
   "ID": "341b8002fa094d72905999eb8aa900b1",
   "Name": "Doodle Devil",
   "ProductSlug": "doodle-devil-8e65af",
-  "Ranking_EOS_Progress": 482,
+  "Ranking_EOS_Progress": 478,
   "Ranking_EOS_Completed": 21,
-  "Ranking_EOS_NewPlayers": 558,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 518,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-07-01T17:00:00+00:00",
     "PcReleaseDate": "2017-05-25T00:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 87,
+  "EOS_Progressed": 88,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 20.69,
+  "EOS_Completed_Percentage": 20.45,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:19.0754835+00:00",
@@ -135,6 +135,11 @@
       "Time": "2023-12-16T16:05:31.7126978+00:00",
       "NumProgressed": 87,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-21T09:04:33.3233125+00:00",
+      "NumProgressed": 88,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 9,
@@ -152,7 +157,7 @@
       "ID": "701322",
       "SetID": "3n3mm3c",
       "Name": "Master of Warfare",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 150,
       "UsersEstimate": 32
     },
@@ -160,7 +165,7 @@
       "ID": "701332",
       "SetID": "3n3mm3c",
       "Name": "Lucky Strike",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 50,
       "UsersEstimate": 52
     },
@@ -168,7 +173,7 @@
       "ID": "701382",
       "SetID": "3n3mm3c",
       "Name": "Paradise lost",
-      "Percentage": 97,
+      "Percentage": 95,
       "XP": 50,
       "UsersEstimate": 84
     },
@@ -176,7 +181,7 @@
       "ID": "701392",
       "SetID": "3n3mm3c",
       "Name": "Dark Kingdom Come",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 100,
       "UsersEstimate": 66
     },
@@ -217,7 +222,7 @@
     {
       "ID": "3n3mm3c",
       "IsBase": true,
-      "Progressed": 87,
+      "Progressed": 88,
       "Completed": 18
     }
   ],
@@ -225,8 +230,8 @@
   "FirstSeenRating": "2023-03-31T05:57:51.0518288+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:19.0754842+00:00",
   "LastChanged": "2023-03-31T05:57:51.0518289+00:00",
-  "LastChanged_Achievements": "2023-12-21T08:04:55.9469047+00:00",
+  "LastChanged_Achievements": "2023-12-21T09:04:33.323312+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:53.0157404+00:00",
-  "LastUpdate_Ratings": "2023-12-21T07:58:21.1756071+00:00",
-  "LastUpdate_Achievements": "2023-12-21T08:04:55.9469119+00:00"
+  "LastUpdate_Ratings": "2023-12-21T08:58:08.3355915+00:00",
+  "LastUpdate_Achievements": "2023-12-21T09:04:33.3233193+00:00"
 }

@@ -8,11 +8,11 @@
 | It's Yours, My Friend | 74.00% | ~105 |
 | Digging a Hole | 73.00% | ~104 |
 | Going Places | 68.00% | ~97 |
-| Conducted Trade | 66.00% | ~94 |
+| Conducted Trade | 67.00% | ~95 |
 | Aristocratic | 63.00% | ~89 |
 | Tutti Frutti | 57.00% | ~81 |
-| Gotta Go Fast | 45.00% | ~64 |
-| Systematic | 41.00% | ~58 |
+| Gotta Go Fast | 46.00% | ~65 |
+| Systematic | 42.00% | ~60 |
 | Slotting Machine | 40.00% | ~57 |
 | Roll Out | 37.00% | ~53 |
 | Mine Sweeper | 36.00% | ~51 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 171,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8929,10 +8929,10 @@
       "Count": 3581
     }
   ],
-  "EOS_Progressed": 242519,
+  "EOS_Progressed": 242529,
   "EOS_Completed": 2548,
-  "EOS_NewPlayers": 2510,
-  "EOS_NewCompleters": 26,
+  "EOS_NewPlayers": 2499,
+  "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
     {
@@ -36564,6 +36564,11 @@
       "Time": "2023-12-21T08:10:42.7361012+00:00",
       "NumProgressed": 242519,
       "NumCompleted": 2548
+    },
+    {
+      "Time": "2023-12-21T09:10:14.451449+00:00",
+      "NumProgressed": 242529,
+      "NumCompleted": 2548
     }
   ],
   "TotalAchievements": 546,
@@ -37437,9 +37442,9 @@
       "ID": "objective_completed_12",
       "SetID": "cc37lbc",
       "Name": "Were-verpowered",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 243
+      "UsersEstimate": 485
     },
     {
       "ID": "objective_completed_1203",
@@ -40942,21 +40947,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 208793,
+      "Progressed": 208803,
       "Completed": 4052
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 242519,
+      "Progressed": 242529,
       "Completed": 2548
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-21T04:03:08.2604662+00:00",
-  "LastChanged_Achievements": "2023-12-21T08:10:42.7361008+00:00",
+  "LastChanged_Achievements": "2023-12-21T09:10:14.4514487+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:52.1318001+00:00",
-  "LastUpdate_Ratings": "2023-12-21T08:02:52.1314875+00:00",
-  "LastUpdate_Achievements": "2023-12-21T08:10:42.7384075+00:00"
+  "LastUpdate_Ratings": "2023-12-21T09:02:58.4201593+00:00",
+  "LastUpdate_Achievements": "2023-12-21T09:10:14.4536753+00:00"
 }

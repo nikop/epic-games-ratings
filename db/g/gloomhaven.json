@@ -2705,9 +2705,9 @@
       "Count": 219
     }
   ],
-  "EOS_Progressed": 27726,
+  "EOS_Progressed": 27728,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1519,
+  "EOS_NewPlayers": 1516,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13830,6 +13830,11 @@
       "Time": "2023-12-21T08:09:36.173961+00:00",
       "NumProgressed": 27726,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T09:09:21.815048+00:00",
+      "NumProgressed": 27728,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -13850,7 +13855,7 @@
       "Name": "Dungeon Veteran",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2495
+      "UsersEstimate": 2496
     },
     {
       "ID": "Achievement_Trophy03",
@@ -14026,7 +14031,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 11090
+      "UsersEstimate": 11091
     },
     {
       "ID": "Achievement_Trophy25",
@@ -14042,7 +14047,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 9427
+      "UsersEstimate": 9428
     },
     {
       "ID": "Achievement_Trophy27",
@@ -14058,7 +14063,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 8872
+      "UsersEstimate": 8873
     },
     {
       "ID": "Achievement_Trophy29",
@@ -14074,7 +14079,7 @@
       "Name": "Spread the plague",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 7763
+      "UsersEstimate": 7764
     },
     {
       "ID": "Achievement_Trophy31",
@@ -14130,7 +14135,7 @@
       "Name": "Get over here!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 6654
+      "UsersEstimate": 6655
     },
     {
       "ID": "Achievement_Trophy38",
@@ -14138,7 +14143,7 @@
       "Name": "Mine... All Mine...",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 4713
+      "UsersEstimate": 4714
     },
     {
       "ID": "Achievement_Trophy39",
@@ -14162,7 +14167,7 @@
       "Name": "Obstacle race",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3604
+      "UsersEstimate": 3605
     },
     {
       "ID": "Achievement_Trophy42",
@@ -14178,7 +14183,7 @@
       "Name": "Light of my life",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3604
+      "UsersEstimate": 3605
     },
     {
       "ID": "Achievement_Trophy44",
@@ -14329,7 +14334,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 27726,
+      "Progressed": 27728,
       "Completed": 1
     }
   ],
@@ -14337,8 +14342,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-12-20T20:00:15.1412483+00:00",
-  "LastChanged_Achievements": "2023-12-21T08:09:36.1739604+00:00",
+  "LastChanged_Achievements": "2023-12-21T09:09:21.8150476+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:35.1754464+00:00",
   "LastUpdate_Ratings": "2023-12-21T08:02:01.0292227+00:00",
-  "LastUpdate_Achievements": "2023-12-21T08:09:36.1740517+00:00"
+  "LastUpdate_Achievements": "2023-12-21T09:09:21.8151518+00:00"
 }

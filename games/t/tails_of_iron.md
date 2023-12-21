@@ -14,12 +14,12 @@ Rating: 4.57 (Ranked 482)
 | Complete Guard Faction | 0.30% | ~7 |
 | Ranged Weapon | 0.30% | ~7 |
 | Defeat 25 Frogs | 0.30% | ~7 |
+| Defeat Croakhis Khan | 0.30% | ~3 |
 | Collect Monster Parts | 0.20% | ~5 |
 | Defeat Ratnor Rodentson | 0.20% | ~5 |
 | Two Handed Weapon | 0.20% | ~5 |
 | Defeat 25 Grubs | 0.20% | ~5 |
 | Rescue Redgi's Brothers | 0.20% | ~5 |
-| Defeat Croakhis Khan | 0.20% | ~2 |
 | Shield Maiden Yellow Tongue | 0.20% | ~2 |
 | I Remember My First Beer | 0.20% | ~2 |
 | Collect Gold | 0.10% | ~2 |

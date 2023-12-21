@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-03-25T23:00:00+00:00",
@@ -315,9 +315,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9765,
+  "EOS_Progressed": 9766,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -955,6 +955,11 @@
       "Time": "2023-12-20T16:03:10.0948741+00:00",
       "NumProgressed": 9765,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T09:03:58.7050622+00:00",
+      "NumProgressed": 9766,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 86,
@@ -980,9 +985,9 @@
       "ID": "ACH_AGENT",
       "SetID": "13614nd",
       "Name": "Agent",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_AGENT_EXPERT",
@@ -1004,9 +1009,9 @@
       "ID": "ACH_AND_SO_IT_BEGINS",
       "SetID": "13614nd",
       "Name": "And So It Begins",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_ANOTHER_ONE",
@@ -1020,9 +1025,9 @@
       "ID": "ACH_A_REAL_LANDLORD",
       "SetID": "13614nd",
       "Name": "A Real Landlord",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_BABYSITTER",
@@ -1316,9 +1321,9 @@
       "ID": "ACH_LANDLORDS_DREAM",
       "SetID": "13614nd",
       "Name": "Landlord\u2019s Dream",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_LOADED",
@@ -1476,9 +1481,9 @@
       "ID": "ACH_RENOVATOR_MASTER",
       "SetID": "13614nd",
       "Name": "Master Renovator",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_RENTAL_BONANZA",
@@ -1556,9 +1561,9 @@
       "ID": "ACH_THE_AFTERSHOCK",
       "SetID": "13614nd",
       "Name": "The Aftershock",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_THE_GREAT_TENANTSINI",
@@ -1653,21 +1658,21 @@
     {
       "ID": "13614nd",
       "IsBase": true,
-      "Progressed": 9765,
+      "Progressed": 9766,
       "Completed": 0
     },
     {
       "ID": "1ejmoln",
       "IsBase": false,
-      "Progressed": 262,
+      "Progressed": 263,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:28:48.0535215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.1531533+00:00",
   "LastChanged": "2023-07-15T20:59:23.7762639+00:00",
-  "LastChanged_Achievements": "2023-12-21T08:04:10.8589373+00:00",
+  "LastChanged_Achievements": "2023-12-21T09:03:58.7050621+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:23.8002853+00:00",
-  "LastUpdate_Ratings": "2023-12-21T07:59:11.6264022+00:00",
-  "LastUpdate_Achievements": "2023-12-21T08:04:10.8590131+00:00"
+  "LastUpdate_Ratings": "2023-12-21T08:58:46.6019996+00:00",
+  "LastUpdate_Achievements": "2023-12-21T09:03:58.7051493+00:00"
 }

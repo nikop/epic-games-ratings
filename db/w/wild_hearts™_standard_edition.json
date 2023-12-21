@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 733,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 328,
+  "EOS_NewPlayers": 327,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.09,
   "EosHistory": [
@@ -2581,9 +2581,9 @@
       "ID": "achievement_10",
       "SetID": "2cpn27e",
       "Name": "Karakuri Trail",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 161
+      "UsersEstimate": 169
     },
     {
       "ID": "achievement_11",
@@ -2597,9 +2597,9 @@
       "ID": "achievement_12",
       "SetID": "2cpn27e",
       "Name": "Canyon of Karakuri",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 110
     },
     {
       "ID": "achievement_13",
@@ -2901,9 +2901,9 @@
       "ID": "achievement_47",
       "SetID": "2cpn27e",
       "Name": "Threaded Harmony",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 117
+      "UsersEstimate": 125
     },
     {
       "ID": "achievement_48",
@@ -2963,8 +2963,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-21T08:09:23.3674026+00:00",
+  "LastChanged_Achievements": "2023-12-21T09:09:12.2241856+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:11.6761115+00:00",
-  "LastUpdate_Ratings": "2023-12-21T07:57:27.9613384+00:00",
-  "LastUpdate_Achievements": "2023-12-21T08:09:23.3674389+00:00"
+  "LastUpdate_Ratings": "2023-12-21T08:57:28.6318134+00:00",
+  "LastUpdate_Achievements": "2023-12-21T09:09:12.2242247+00:00"
 }

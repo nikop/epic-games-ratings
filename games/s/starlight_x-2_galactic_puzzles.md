@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Use 10 hints | 6.00% | ~5 |
-| Complete 25 levels | 4.00% | ~3 |
+| Complete 25 levels | 5.00% | ~4 |
 | Use 20 hints | 4.00% | ~3 |
 | Fast 6x6 | 3.00% | ~2 |
 | Complete 50 levels | 3.00% | ~2 |

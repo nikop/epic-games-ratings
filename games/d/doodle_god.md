@@ -25,10 +25,10 @@
 | Greatest inventor | 8.00% | ~21 |
 | Master of Alchemy | 6.00% | ~16 |
 | Master of the Worlds | 6.00% | ~16 |
-| God of Patience | 3.00% | ~8 |
+| God of Patience | 4.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 264 (Ranked 384)  
-Completed: 9 (3.41%) (Ranked 103)  
+Completed: 10 (3.79%) (Ranked 96)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -94,6 +94,7 @@ Completed: 9 (3.41%) (Ranked 103)
 | 2023-12-15 | 262 | 8 |
 | 2023-12-16 | 263 | 9 |
 | 2023-12-19 | 264 | 9 |
+| 2023-12-21 | 264 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

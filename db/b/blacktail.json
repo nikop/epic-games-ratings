@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 808,
+  "EOS_Progressed": 809,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2456,6 +2456,11 @@
       "Time": "2023-12-20T20:09:45.1162295+00:00",
       "NumProgressed": 808,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T09:10:05.5921541+00:00",
+      "NumProgressed": 809,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -2587,7 +2592,7 @@
       "Name": "Liar Liar",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "LittleHelper",
@@ -2595,7 +2600,7 @@
       "Name": "A friend in need...",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "LostAndFound",
@@ -2722,7 +2727,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 808,
+      "Progressed": 809,
       "Completed": 1
     }
   ],
@@ -2730,8 +2735,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2023-12-21T08:10:32.5313781+00:00",
+  "LastChanged_Achievements": "2023-12-21T09:10:05.5921539+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:13.6567295+00:00",
-  "LastUpdate_Ratings": "2023-12-21T07:58:16.7915815+00:00",
-  "LastUpdate_Achievements": "2023-12-21T08:10:32.5314021+00:00"
+  "LastUpdate_Ratings": "2023-12-21T08:58:05.0977155+00:00",
+  "LastUpdate_Achievements": "2023-12-21T09:10:05.5921773+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 123,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4655,7 +4655,7 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12555,
+  "EOS_Progressed": 12557,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 0,
@@ -17520,6 +17520,11 @@
       "Time": "2023-12-21T07:10:33.6111788+00:00",
       "NumProgressed": 12555,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T09:10:09.028217+00:00",
+      "NumProgressed": 12557,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -17667,7 +17672,7 @@
       "Name": "Mythic Choices",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1883
+      "UsersEstimate": 1884
     },
     {
       "ID": "19_EqualToAroden",
@@ -17899,7 +17904,7 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2385
+      "UsersEstimate": 2386
     },
     {
       "ID": "49_Flame",
@@ -18458,21 +18463,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11337,
+      "Progressed": 11339,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12555,
+      "Progressed": 12557,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-21T06:58:30.1552597+00:00",
-  "LastChanged_Achievements": "2023-12-21T08:10:36.6998435+00:00",
+  "LastChanged_Achievements": "2023-12-21T09:10:09.0282168+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.7532096+00:00",
-  "LastUpdate_Ratings": "2023-12-21T07:58:34.6933438+00:00",
-  "LastUpdate_Achievements": "2023-12-21T08:10:36.7000064+00:00"
+  "LastUpdate_Ratings": "2023-12-21T08:58:18.7242243+00:00",
+  "LastUpdate_Achievements": "2023-12-21T09:10:09.0283813+00:00"
 }

@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 164,
+  "EOS_Progressed": 165,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
@@ -759,6 +759,11 @@
       "Time": "2023-12-21T04:06:35.0528696+00:00",
       "NumProgressed": 164,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T09:04:43.4384529+00:00",
+      "NumProgressed": 165,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -769,17 +774,17 @@
       "ID": "a_new_way",
       "SetID": "f2im8d",
       "Name": "A new way",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "another_perspective",
       "SetID": "f2im8d",
       "Name": "Another perspective",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "assemble_puzzles",
@@ -795,7 +800,7 @@
       "Name": "Breaking free",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "casting_finished",
@@ -849,9 +854,9 @@
       "ID": "covered_up_for_a_reason",
       "SetID": "f2im8d",
       "Name": "It\u0027s covered up for a reason",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 78
     },
     {
       "ID": "decrypt_one_myth",
@@ -923,7 +928,7 @@
       "Name": "Scraps of love",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "find_one_photo",
@@ -945,9 +950,9 @@
       "ID": "find_one_rat_sketch",
       "SetID": "f2im8d",
       "Name": "The artist\u2019s impression",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 69
     },
     {
       "ID": "finished_it",
@@ -955,15 +960,15 @@
       "Name": "Finished it",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "first_step",
       "SetID": "f2im8d",
       "Name": "First steps",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "hear_most_of_interviews",
@@ -1017,9 +1022,9 @@
       "ID": "lights_camera_action",
       "SetID": "f2im8d",
       "Name": "Lights! Camera! Action!",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "once_upon_a_time",
@@ -1043,7 +1048,7 @@
       "Name": "A piece of the story",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "playtime",
@@ -1105,9 +1110,9 @@
       "ID": "something_important",
       "SetID": "f2im8d",
       "Name": "Something important",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 134
     },
     {
       "ID": "spy_one_item",
@@ -1169,9 +1174,9 @@
       "ID": "wanderer",
       "SetID": "f2im8d",
       "Name": "Wanderer",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 97
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1186,14 +1191,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 164,
+      "Progressed": 165,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-21T08:05:08.6657172+00:00",
+  "LastChanged_Achievements": "2023-12-21T09:04:43.4384525+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:26.5525701+00:00",
-  "LastUpdate_Ratings": "2023-12-21T07:59:35.5558863+00:00",
-  "LastUpdate_Achievements": "2023-12-21T08:05:08.6657597+00:00"
+  "LastUpdate_Ratings": "2023-12-21T08:59:04.3960494+00:00",
+  "LastUpdate_Achievements": "2023-12-21T09:04:43.4384938+00:00"
 }

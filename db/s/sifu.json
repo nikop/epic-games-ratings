@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 87,
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 16,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewPlayers": 17,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8379,9 +8379,9 @@
       "Count": 434
     }
   ],
-  "EOS_Progressed": 737972,
+  "EOS_Progressed": 738037,
   "EOS_Completed": 12958,
-  "EOS_NewPlayers": 18675,
+  "EOS_NewPlayers": 18440,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.76,
   "EosHistory": [
@@ -30249,6 +30249,11 @@
       "Time": "2023-12-21T08:09:00.8305936+00:00",
       "NumProgressed": 737972,
       "NumCompleted": 12958
+    },
+    {
+      "Time": "2023-12-21T09:08:54.3797408+00:00",
+      "NumProgressed": 738037,
+      "NumCompleted": 12958
     }
   ],
   "TotalAchievements": 60,
@@ -30260,7 +30265,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22139
+      "UsersEstimate": 22141
     },
     {
       "ID": "02_Vengeance_H1",
@@ -30268,7 +30273,7 @@
       "Name": "The Assault",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14759
+      "UsersEstimate": 14761
     },
     {
       "ID": "03_Vengeance_H2",
@@ -30276,7 +30281,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14759
+      "UsersEstimate": 14761
     },
     {
       "ID": "04_Vengeance_H3",
@@ -30436,7 +30441,7 @@
       "Name": "Life is your teacher",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22139
+      "UsersEstimate": 22141
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -30444,7 +30449,7 @@
       "Name": "State of constant learning",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14759
+      "UsersEstimate": 14761
     },
     {
       "ID": "25_ShrineMind",
@@ -30508,7 +30513,7 @@
       "Name": "Old Child",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14759
+      "UsersEstimate": 14761
     },
     {
       "ID": "33_BladeOneShot",
@@ -30524,7 +30529,7 @@
       "Name": "Lightning Hands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14759
+      "UsersEstimate": 14761
     },
     {
       "ID": "35_WideStrike",
@@ -30596,7 +30601,7 @@
       "Name": "Project Arena",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -30612,7 +30617,7 @@
       "Name": "Bloody Sport",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -30739,21 +30744,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 47273,
-      "Completed": 10778
+      "Progressed": 47338,
+      "Completed": 10779
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 737972,
+      "Progressed": 738037,
       "Completed": 12958
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-21T03:02:45.4552135+00:00",
-  "LastChanged_Achievements": "2023-12-21T08:09:00.8305931+00:00",
+  "LastChanged_Achievements": "2023-12-21T09:08:54.3797405+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:50.1499922+00:00",
-  "LastUpdate_Ratings": "2023-12-21T08:03:12.9870046+00:00",
-  "LastUpdate_Achievements": "2023-12-21T08:09:00.8307088+00:00"
+  "LastUpdate_Ratings": "2023-12-21T09:03:13.5761202+00:00",
+  "LastUpdate_Achievements": "2023-12-21T09:08:54.3799233+00:00"
 }

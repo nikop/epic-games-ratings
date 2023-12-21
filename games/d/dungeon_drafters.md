@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Might be useful… | 39.00% | ~44 |
-| Treasure Hunting | 36.00% | ~41 |
+| Treasure Hunting | 37.00% | ~42 |
 | Shine! | 30.00% | ~34 |
-| Friend! | 28.00% | ~32 |
-| Uncut Gem | 27.00% | ~31 |
+| Friend! | 29.00% | ~33 |
+| Uncut Gem | 28.00% | ~32 |
 | Clear as Water | 25.00% | ~28 |
-| Setting Off | 23.00% | ~26 |
+| Setting Off | 24.00% | ~27 |
 | Card Collector | 22.00% | ~25 |
 | Riddlesolver | 20.00% | ~23 |
 | Dungeon Mastery | 19.00% | ~21 |

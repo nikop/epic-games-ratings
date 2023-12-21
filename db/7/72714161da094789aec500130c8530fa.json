@@ -4,8 +4,8 @@
   "ProductSlug": "space-war-infinity-024a8f",
   "Ranking_EOS_Progress": 468,
   "Ranking_EOS_Completed": 33,
-  "Ranking_EOS_NewPlayers": 446,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-08-15T15:00:00+00:00",
     "PcReleaseDate": "2019-05-28T13:00:00+00:00",
@@ -648,9 +648,9 @@
       "ID": "_forcefield",
       "SetID": "2d5739o",
       "Name": "Forcefield",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "_grenade",
@@ -784,9 +784,9 @@
       "ID": "_resistence",
       "SetID": "2d5739o",
       "Name": "Resistence",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "_riflegun",
@@ -880,9 +880,9 @@
       "ID": "_x2score",
       "SetID": "2d5739o",
       "Name": "2X Score",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     }
   ],
   "AchievementSets": [
@@ -895,8 +895,8 @@
   ],
   "FirstSeen": "2023-08-19T02:04:22.1564483+00:00",
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2023-12-21T08:08:45.641615+00:00",
+  "LastChanged_Achievements": "2023-12-21T09:08:42.6153482+00:00",
   "LastUpdate_AppInfo": "2023-12-21T02:18:24.1001157+00:00",
-  "LastUpdate_Ratings": "2023-12-21T08:01:39.3294412+00:00",
-  "LastUpdate_Achievements": "2023-12-21T08:08:45.6416382+00:00"
+  "LastUpdate_Ratings": "2023-12-21T09:00:36.5988248+00:00",
+  "LastUpdate_Achievements": "2023-12-21T09:08:42.6153756+00:00"
 }

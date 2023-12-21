@@ -2,7 +2,7 @@
   "ID": "6098a8c7375c43458a22163a637c0c2f",
   "Name": "Spirit of the North",
   "ProductSlug": "spirit-of-the-north-f58a66",
-  "Ranking_Rating": 793,
+  "Ranking_Rating": 794,
   "Ranking_Popularity": 524,
   "Ranking_PopularitySum": 449,
   "Ranking_EOS_Progress": 104,
@@ -341,7 +341,7 @@
   ],
   "EOS_Progressed": 77381,
   "EOS_Completed": 416,
-  "EOS_NewPlayers": 660,
+  "EOS_NewPlayers": 658,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -27524,8 +27524,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2023-12-21T08:09:57.6750159+00:00",
+  "LastChanged_Achievements": "2023-12-21T09:09:38.3436072+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:46.1287529+00:00",
-  "LastUpdate_Ratings": "2023-12-21T08:03:06.8233238+00:00",
-  "LastUpdate_Achievements": "2023-12-21T08:09:57.6751627+00:00"
+  "LastUpdate_Ratings": "2023-12-21T09:03:09.0329107+00:00",
+  "LastUpdate_Achievements": "2023-12-21T09:09:38.3437281+00:00"
 }

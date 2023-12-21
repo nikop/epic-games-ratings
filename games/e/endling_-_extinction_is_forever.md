@@ -22,10 +22,10 @@
 | Family Reunion | 14.00% | ~79 |
 | Beyond Words | 14.00% | ~79 |
 | Never Run Around | 13.00% | ~73 |
+| Two Peas in a Pod | 11.00% | ~62 |
+| All For One | 11.00% | ~62 |
+| Extinction is Forever | 11.00% | ~62 |
 | Three Little Foxes | 10.00% | ~56 |
-| Two Peas in a Pod | 10.00% | ~56 |
-| All For One | 10.00% | ~56 |
-| Extinction is Forever | 10.00% | ~56 |
 | We Are a Family | 9.00% | ~51 |
 | Mother Love | 4.00% | ~23 |
 | For a Better Tomorrow | 3.00% | ~17 |

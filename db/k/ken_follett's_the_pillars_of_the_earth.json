@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 409,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17229,
+  "EOS_Progressed": 17230,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 204,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -16615,6 +16615,11 @@
       "Time": "2023-12-21T08:05:51.7089073+00:00",
       "NumProgressed": 17229,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-12-21T09:05:17.2720754+00:00",
+      "NumProgressed": 17230,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 41,
@@ -16650,7 +16655,7 @@
       "Name": "Staring contest champion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "tpote_achievement_13",
@@ -16658,7 +16663,7 @@
       "Name": "Lone wolf",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "tpote_achievement_14",
@@ -16730,7 +16735,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 4996
+      "UsersEstimate": 4997
     },
     {
       "ID": "tpote_achievement_22",
@@ -16786,7 +16791,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2067
+      "UsersEstimate": 2068
     },
     {
       "ID": "tpote_achievement_29",
@@ -16866,7 +16871,7 @@
       "Name": "Vox Populi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "tpote_achievement_38",
@@ -16953,15 +16958,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17229,
+      "Progressed": 17230,
       "Completed": 119
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2023-12-21T08:05:51.7089067+00:00",
+  "LastChanged_Achievements": "2023-12-21T09:05:17.272075+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:13.9933566+00:00",
-  "LastUpdate_Ratings": "2023-12-21T08:00:43.2274233+00:00",
-  "LastUpdate_Achievements": "2023-12-21T08:05:51.7090141+00:00"
+  "LastUpdate_Ratings": "2023-12-21T08:59:54.609691+00:00",
+  "LastUpdate_Achievements": "2023-12-21T09:05:17.2721532+00:00"
 }

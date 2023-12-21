@@ -6,29 +6,31 @@ Number of Ratings: 82  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| And So It Begins | 0.30% | ~29 |
+| And So It Begins | 0.40% | ~39 |
+| Agent | 0.30% | ~29 |
+| A Real Landlord | 0.30% | ~29 |
 | Gotta Start Somewhere | 0.30% | ~29 |
 | Loaded | 0.30% | ~29 |
 | Lured In | 0.30% | ~29 |
 | Renovator | 0.30% | ~29 |
+| Master Renovator | 0.30% | ~29 |
 | Still Kind Of Poor | 0.30% | ~29 |
 | Treasure Hunter | 0.30% | ~29 |
 | Well Off | 0.30% | ~29 |
-| Agent | 0.20% | ~20 |
 | Master Agent | 0.20% | ~20 |
-| A Real Landlord | 0.20% | ~20 |
 | Babysitter | 0.20% | ~20 |
 | Cleaning Service | 0.20% | ~20 |
 | Filthy Rich | 0.20% | ~20 |
 | Home, Sweet Home | 0.20% | ~20 |
 | Kill It With Gas | 0.20% | ~20 |
+| Landlord’s Dream | 0.20% | ~20 |
 | Millionaire | 0.20% | ~20 |
 | Mr Clean | 0.20% | ~20 |
 | Rat Race | 0.20% | ~20 |
 | Expert Renovator | 0.20% | ~20 |
-| Master Renovator | 0.20% | ~20 |
 | Run, Forrest, Run! | 0.20% | ~20 |
 | TGIF | 0.20% | ~20 |
+| The Aftershock | 0.20% | ~20 |
 | Expert Agent | 0.10% | ~10 |
 | Another One | 0.10% | ~10 |
 | Expert Babysitter | 0.10% | ~10 |
@@ -43,7 +45,6 @@ Number of Ratings: 82  (23.09.2022)
 | I’m On A Boat | 0.10% | ~10 |
 | I’ve Had Enough | 0.10% | ~10 |
 | Kitchen Hell | 0.10% | ~10 |
-| Landlord’s Dream | 0.10% | ~10 |
 | Matchmaker | 0.10% | ~10 |
 | Passive Income | 0.10% | ~10 |
 | Petty Bickering | 0.10% | ~10 |
@@ -51,7 +52,6 @@ Number of Ratings: 82  (23.09.2022)
 | Realtor | 0.10% | ~10 |
 | Master Realtor | 0.10% | ~10 |
 | Senpai | 0.10% | ~10 |
-| The Aftershock | 0.10% | ~10 |
 | The More The Merrier | 0.10% | ~10 |
 | The Suburban Dream | 0.10% | ~10 |
 | Well, Scratch That | 0.10% | ~10 |
@@ -93,7 +93,7 @@ Number of Ratings: 82  (23.09.2022)
 | White House | 0.00% | ~0 |
 | Wondersville Magnate | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,765 (Ranked 176)  
+Progressed: 9,766 (Ranked 176)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,6 +188,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 9,762 | 0 |
 | 2023-12-19 | 9,763 | 0 |
 | 2023-12-20 | 9,765 | 0 |
+| 2023-12-21 | 9,766 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

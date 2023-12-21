@@ -242,9 +242,9 @@
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "7on801h",
       "Name": "Ghost",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -706,9 +706,9 @@
       "ID": "NEW_ACHIEVEMENT_2_6",
       "SetID": "7on801h",
       "Name": "The Last Harvest",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_7",
@@ -895,8 +895,8 @@
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2023-12-21T08:03:47.6672687+00:00",
+  "LastChanged_Achievements": "2023-12-21T09:03:40.276775+00:00",
   "LastUpdate_AppInfo": "2023-12-20T16:57:12.9726855+00:00",
-  "LastUpdate_Ratings": "2023-12-21T07:57:35.8539005+00:00",
-  "LastUpdate_Achievements": "2023-12-21T08:03:47.6673353+00:00"
+  "LastUpdate_Ratings": "2023-12-21T08:57:34.4385717+00:00",
+  "LastUpdate_Achievements": "2023-12-21T09:03:40.2768664+00:00"
 }

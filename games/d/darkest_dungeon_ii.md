@@ -6,22 +6,22 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 9.00% | ~334 |
+| Malpractice Assurance | 9.00% | ~335 |
 | Lost and Found | 5.00% | ~186 |
 | This Belongs in a Museum | 4.00% | ~5,154 |
 | Autodidact | 4.00% | ~5,154 |
 | This guy... again? | 4.00% | ~149 |
 | Bloody Graduation | 4.00% | ~149 |
-| Serenity Now! | 3.00% | ~3,865 |
-| Not Today! | 3.00% | ~3,865 |
-| Creep and Sleep | 3.00% | ~3,865 |
-| Meat and Greet | 3.00% | ~3,865 |
-| Catch and Decease | 3.00% | ~3,865 |
-| Overdue Notice | 3.00% | ~3,865 |
-| Escape from the Black Hole | 3.00% | ~3,865 |
-| To Grandmother's House | 3.00% | ~3,865 |
-| Ploughshares to Swords | 3.00% | ~111 |
-| Friends 'Til the End | 3.00% | ~111 |
+| Serenity Now! | 3.00% | ~3,866 |
+| Not Today! | 3.00% | ~3,866 |
+| Creep and Sleep | 3.00% | ~3,866 |
+| Meat and Greet | 3.00% | ~3,866 |
+| Catch and Decease | 3.00% | ~3,866 |
+| Overdue Notice | 3.00% | ~3,866 |
+| Escape from the Black Hole | 3.00% | ~3,866 |
+| To Grandmother's House | 3.00% | ~3,866 |
+| Ploughshares to Swords | 3.00% | ~112 |
+| Friends 'Til the End | 3.00% | ~112 |
 | Don't Make Me Turn This Coach Around | 2.00% | ~2,577 |
 | It Rings a Bell | 2.00% | ~2,577 |
 | Unfulfilled Desires | 2.00% | ~2,577 |
@@ -41,22 +41,22 @@ Number of Ratings: 7,767  (23.09.2022)
 | Nope | 2.00% | ~2,577 |
 | Unshackled | 2.00% | ~2,577 |
 | Road Trip | 2.00% | ~2,577 |
-| Resurrection | 1.00% | ~1,288 |
-| Unleash Hell | 1.00% | ~1,288 |
-| Funny Guy | 1.00% | ~1,288 |
-| Long Live the King | 1.00% | ~1,288 |
-| Wyrdly Reconstructed | 1.00% | ~1,288 |
-| Boxcar Kid | 1.00% | ~1,288 |
-| Hope Rekindled | 1.00% | ~1,288 |
-| Predator | 1.00% | ~1,288 |
-| Ichthyophobic | 1.00% | ~1,288 |
-| No More Mouths to Feed | 1.00% | ~1,288 |
-| Reverse Banditry | 1.00% | ~1,288 |
-| A Clear Conscience | 1.00% | ~1,288 |
-| When You Want Something Done Right | 1.00% | ~1,288 |
-| Worldly Traveller | 1.00% | ~1,288 |
-| Utopia | 1.00% | ~1,288 |
-| Hot Air | 1.00% | ~1,288 |
+| Resurrection | 1.00% | ~1,289 |
+| Unleash Hell | 1.00% | ~1,289 |
+| Funny Guy | 1.00% | ~1,289 |
+| Long Live the King | 1.00% | ~1,289 |
+| Wyrdly Reconstructed | 1.00% | ~1,289 |
+| Boxcar Kid | 1.00% | ~1,289 |
+| Hope Rekindled | 1.00% | ~1,289 |
+| Predator | 1.00% | ~1,289 |
+| Ichthyophobic | 1.00% | ~1,289 |
+| No More Mouths to Feed | 1.00% | ~1,289 |
+| Reverse Banditry | 1.00% | ~1,289 |
+| A Clear Conscience | 1.00% | ~1,289 |
+| When You Want Something Done Right | 1.00% | ~1,289 |
+| Worldly Traveller | 1.00% | ~1,289 |
+| Utopia | 1.00% | ~1,289 |
+| Hot Air | 1.00% | ~1,289 |
 | This Looks Familiar | 0.90% | ~1,160 |
 | Eyes Up | 0.90% | ~1,160 |
 | Slap on the Wrist | 0.80% | ~30 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,845 (Ranked 86)  
+Progressed: 128,853 (Ranked 86)  
 Completed: 3 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 3 (0.00%) (Ranked 384)
 | 2023-12-18 | 128,398 | 3 |
 | 2023-12-19 | 128,605 | 3 |
 | 2023-12-20 | 128,785 | 3 |
-| 2023-12-21 | 128,845 | 3 |
+| 2023-12-21 | 128,853 | 3 |
 ## Awards
 Max (Character Customization): 7,805  (Ranked 50)  
 Sum: 20,865 (Ranked 58)  

@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 442,
+  "EOS_Progressed": 443,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1540,6 +1540,11 @@
       "Time": "2023-12-21T06:10:04.8130598+00:00",
       "NumProgressed": 442,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T09:10:10.4100132+00:00",
+      "NumProgressed": 443,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -1879,7 +1884,7 @@
       "Name": "I like parks",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -2182,7 +2187,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 442,
+      "Progressed": 443,
       "Completed": 0
     }
   ],
@@ -2190,8 +2195,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-12-21T08:10:38.5451996+00:00",
+  "LastChanged_Achievements": "2023-12-21T09:10:10.410013+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:36.321847+00:00",
-  "LastUpdate_Ratings": "2023-12-21T07:57:16.4385413+00:00",
-  "LastUpdate_Achievements": "2023-12-21T08:10:38.5452785+00:00"
+  "LastUpdate_Ratings": "2023-12-21T08:57:20.0218394+00:00",
+  "LastUpdate_Achievements": "2023-12-21T09:10:10.4100722+00:00"
 }

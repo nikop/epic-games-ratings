@@ -10,13 +10,13 @@ Number of Ratings: 85  (23.09.2022)
 | Lie Back and Think of Albion | 65.00% | ~51 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 59.00% | ~46 |
 | Yettisoned | 58.00% | ~45 |
-| I Look Up As I Walk to Takoshima | 56.00% | ~44 |
+| I Look Up As I Walk to Takoshima | 58.00% | ~45 |
 | Shop Til They Drop | 56.00% | ~44 |
-| Lobster Blisque | 53.00% | ~41 |
-| Perfect Probulator | 51.00% | ~40 |
-| Fly Me to the Moon Base | 45.00% | ~35 |
+| Lobster Blisque | 54.00% | ~42 |
+| Perfect Probulator | 53.00% | ~41 |
+| Fly Me to the Moon Base | 46.00% | ~36 |
+| Pimp My Raid | 42.00% | ~33 |
 | Earthly Pleasures | 41.00% | ~32 |
-| Pimp My Raid | 41.00% | ~32 |
 | Freshly Squeezed | 40.00% | ~31 |
 | Ducks in a Row, Fish in a Barrel | 40.00% | ~31 |
 | Upgreatest | 32.00% | ~25 |
@@ -28,9 +28,9 @@ Number of Ratings: 85  (23.09.2022)
 | Deincarnated | 22.00% | ~17 |
 | Re-Return of the Clone of the Invasion II-2 | 17.00% | ~13 |
 | Ouch of Body Experience | 14.00% | ~11 |
+| Dusted | 14.00% | ~11 |
+| Arkvoodle Doodle | 13.00% | ~10 |
 | If You Know What I Mean | 13.00% | ~10 |
-| Dusted | 13.00% | ~10 |
-| Arkvoodle Doodle | 12.00% | ~9 |
 | Die Nasty | 10.00% | ~8 |
 | PK Slam Dunk | 8.00% | ~6 |
 | Hidden Human Hive Harvest | 6.00% | ~5 |

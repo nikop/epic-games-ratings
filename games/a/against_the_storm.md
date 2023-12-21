@@ -67,7 +67,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 18,796 (Ranked 148)  
-Completed: 39 (0.21%) (Ranked 269)  
+Completed: 39 (0.21%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
