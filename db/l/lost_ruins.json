@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 574,
+  "EOS_Progressed": 575,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1409,6 +1409,11 @@
       "Time": "2023-12-21T00:10:59.9448329+00:00",
       "NumProgressed": 574,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T01:55:53.5551806+00:00",
+      "NumProgressed": 575,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1436,7 +1441,7 @@
       "Name": "Artifact Collector",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "Assassin",
@@ -1500,7 +1505,7 @@
       "Name": "Goblin Tales",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "Hardboiled",
@@ -1524,7 +1529,7 @@
       "Name": "Hoarder",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Iconoclasm",
@@ -1532,7 +1537,7 @@
       "Name": "Iconoclasm",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "Inquisitor",
@@ -1540,7 +1545,7 @@
       "Name": "Inquisitor",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "Librarian",
@@ -1564,7 +1569,7 @@
       "Name": "Marksman",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "MeatLover",
@@ -1572,7 +1577,7 @@
       "Name": "Meat Lover",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "MoneySwag",
@@ -1652,7 +1657,7 @@
       "Name": "Sling of David",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "SpellMaster",
@@ -1700,7 +1705,7 @@
       "Name": "Trap Master",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "TreasureHunter",
@@ -1716,7 +1721,7 @@
       "Name": "Troubleshooter",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "WeaponMaster",
@@ -1739,7 +1744,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 574,
+      "Progressed": 575,
       "Completed": 1
     }
   ],
@@ -1747,8 +1752,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-21T00:10:59.9448328+00:00",
+  "LastChanged_Achievements": "2023-12-21T01:55:53.5551798+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:31.304442+00:00",
-  "LastUpdate_Ratings": "2023-12-21T00:01:35.3642452+00:00",
-  "LastUpdate_Achievements": "2023-12-21T00:10:59.9448623+00:00"
+  "LastUpdate_Ratings": "2023-12-21T01:46:29.4524706+00:00",
+  "LastUpdate_Achievements": "2023-12-21T01:55:53.5552107+00:00"
 }

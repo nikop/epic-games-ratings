@@ -4,7 +4,7 @@
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 285,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 145,
+  "EOS_Progressed": 146,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -659,6 +659,11 @@
       "Time": "2023-12-21T00:09:17.2306518+00:00",
       "NumProgressed": 145,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T01:54:32.9761507+00:00",
+      "NumProgressed": 146,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -671,7 +676,7 @@
       "Name": "Abdication",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "SG_ACROSSTHESTYX",
@@ -701,9 +706,9 @@
       "ID": "SG_ARROWOFEROSUNDONE",
       "SetID": "bj5g0n4",
       "Name": "Arrow Of Eros Undone",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "SG_BRANDNEWCHORUS",
@@ -743,7 +748,7 @@
       "Name": "End Of The Road",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -791,7 +796,7 @@
       "Name": "Lost In A Song",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "SG_MAESTRO",
@@ -807,7 +812,7 @@
       "Name": "Meant To Be",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "SG_MYTIMETOSHINE",
@@ -823,15 +828,15 @@
       "Name": "Not A Lost Girl",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "SG_NOTTAKINGANYCHANCES",
       "SetID": "bj5g0n4",
       "Name": "Not Taking Any Chances",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "SG_QUEENWITHOUTATHRONE",
@@ -847,7 +852,7 @@
       "Name": "Saying Goodbye",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "SG_SHARETHISDANCE",
@@ -966,14 +971,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 145,
+      "Progressed": 146,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-12-21T00:09:17.2306515+00:00",
+  "LastChanged_Achievements": "2023-12-21T01:54:32.9761504+00:00",
   "LastUpdate_AppInfo": "2023-12-14T17:57:06.0565697+00:00",
-  "LastUpdate_Ratings": "2023-12-21T00:01:49.5449303+00:00",
-  "LastUpdate_Achievements": "2023-12-21T00:09:17.2306733+00:00"
+  "LastUpdate_Ratings": "2023-12-21T01:46:40.2378752+00:00",
+  "LastUpdate_Achievements": "2023-12-21T01:54:32.9761777+00:00"
 }

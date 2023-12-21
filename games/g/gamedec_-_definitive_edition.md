@@ -1,18 +1,18 @@
 # Gamedec - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/gamedec)  
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
-Rating: 4.29 (Ranked 856)  
+Rating: 4.29 (Ranked 857)  
 Number of Ratings: 33  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~74,003 |
-| Powergamer | 27.00% | ~68,899 |
+| I will finish what you started | 29.00% | ~74,004 |
+| Powergamer | 27.00% | ~68,900 |
 | Write that down | 25.00% | ~63,796 |
 | Barely scratched the surface | 25.00% | ~63,796 |
 | Guns, lots of guns | 13.00% | ~33,174 |
 | Collector | 12.00% | ~30,622 |
-| Elementary! | 9.00% | ~22,966 |
+| Elementary! | 9.00% | ~22,967 |
 | Griever | 8.00% | ~20,415 |
 | Pumpkin Jack | 8.00% | ~20,415 |
 | Wake up! | 8.00% | ~20,415 |
@@ -24,9 +24,9 @@ Number of Ratings: 33  (23.09.2022)
 | BOY! | 4.00% | ~10,207 |
 | Ka-ching! | 4.00% | ~10,207 |
 | So you like to read? | 4.00% | ~10,207 |
-| Hoarder | 3.00% | ~7,655 |
-| I like to sniff around | 3.00% | ~7,655 |
-| Mind reader | 3.00% | ~7,655 |
+| Hoarder | 3.00% | ~7,656 |
+| I like to sniff around | 3.00% | ~7,656 |
+| Mind reader | 3.00% | ~7,656 |
 | Catnip | 2.00% | ~5,104 |
 | Gentleman's classic | 2.00% | ~5,104 |
 | Is that a rift? | 2.00% | ~5,104 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~510 |
 | Memory 5 | 0.10% | ~255 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,182 (Ranked 62)  
+Progressed: 255,186 (Ranked 62)  
 Completed: 7 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 7 (0.00%) (Ranked 384)
 | 2023-12-18 | 255,032 | 7 |
 | 2023-12-19 | 255,106 | 7 |
 | 2023-12-20 | 255,178 | 7 |
-| 2023-12-21 | 255,182 | 7 |
+| 2023-12-21 | 255,186 | 7 |
 ## Awards
 Max (Character Customization): 92  (Ranked 384)  
 Sum: 92 (Ranked 463)  

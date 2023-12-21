@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 91,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1589,
+  "EOS_Progressed": 1590,
   "EOS_Completed": 64,
   "EOS_NewPlayers": 262,
   "EOS_NewCompleters": 4,
@@ -3374,6 +3374,11 @@
       "Time": "2023-12-20T18:10:12.0794744+00:00",
       "NumProgressed": 1589,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-12-21T01:55:36.070918+00:00",
+      "NumProgressed": 1590,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 16,
@@ -3441,7 +3446,7 @@
       "Name": "Home Leaver",
       "Percentage": 81,
       "XP": 40,
-      "UsersEstimate": 1287
+      "UsersEstimate": 1288
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -3449,7 +3454,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 81,
       "XP": 40,
-      "UsersEstimate": 1287
+      "UsersEstimate": 1288
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -3473,7 +3478,7 @@
       "Name": "Outside World Seer",
       "Percentage": 63,
       "XP": 40,
-      "UsersEstimate": 1001
+      "UsersEstimate": 1002
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -3505,14 +3510,14 @@
       "Name": "Tour de Tieng",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1589,
+      "Progressed": 1590,
       "Completed": 64
     }
   ],
@@ -3520,8 +3525,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-12-21T00:10:37.4323273+00:00",
+  "LastChanged_Achievements": "2023-12-21T01:55:36.0709175+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:50.4706145+00:00",
-  "LastUpdate_Ratings": "2023-12-20T23:57:24.0201338+00:00",
-  "LastUpdate_Achievements": "2023-12-21T00:10:37.4323532+00:00"
+  "LastUpdate_Ratings": "2023-12-21T01:43:20.1572854+00:00",
+  "LastUpdate_Achievements": "2023-12-21T01:55:36.0709425+00:00"
 }

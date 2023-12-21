@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 697,
+  "EOS_Progressed": 698,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 1,
@@ -2390,6 +2390,11 @@
       "Time": "2023-12-21T00:09:03.2356707+00:00",
       "NumProgressed": 697,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-21T01:54:21.7276163+00:00",
+      "NumProgressed": 698,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -2410,7 +2415,7 @@
       "Name": "Establish Communications",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "ACH_eou2",
@@ -2426,7 +2431,7 @@
       "Name": "Destroy Security Grid",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ACH_eou4",
@@ -2434,15 +2439,15 @@
       "Name": "Navigate the Mines",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "ACH_eou5",
       "SetID": "51of0eo",
       "Name": "Shut Down Processing Plant",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 153
+      "UsersEstimate": 147
     },
     {
       "ID": "ACH_eou6",
@@ -2450,7 +2455,7 @@
       "Name": "Destroy Strogg Main Reactor",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ACH_eou7",
@@ -2458,15 +2463,15 @@
       "Name": "Destroy the Big Gun",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "ACH_eou8",
       "SetID": "51of0eo",
       "Name": "Destroy Black Hole Generator",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 125
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_mg2",
@@ -2505,14 +2510,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 697,
+      "Progressed": 698,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-21T00:09:03.2356703+00:00",
+  "LastChanged_Achievements": "2023-12-21T01:54:21.7276159+00:00",
   "LastUpdate_AppInfo": "2023-12-15T04:56:57.6157011+00:00",
-  "LastUpdate_Ratings": "2023-12-21T00:01:24.4665662+00:00",
-  "LastUpdate_Achievements": "2023-12-21T00:09:03.2356902+00:00"
+  "LastUpdate_Ratings": "2023-12-21T01:46:21.3633968+00:00",
+  "LastUpdate_Achievements": "2023-12-21T01:54:21.72764+00:00"
 }

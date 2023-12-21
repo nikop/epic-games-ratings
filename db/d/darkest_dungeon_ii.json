@@ -9966,9 +9966,9 @@
       "Count": 1033
     }
   ],
-  "EOS_Progressed": 128788,
+  "EOS_Progressed": 128803,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2088,
+  "EOS_NewPlayers": 2074,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36031,6 +36031,11 @@
       "Time": "2023-12-21T00:09:57.9883331+00:00",
       "NumProgressed": 128788,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-21T01:55:04.857141+00:00",
+      "NumProgressed": 128803,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36120,9 +36125,9 @@
       "ID": "altar_of_hope_unlock_hero_vestal",
       "SetID": "64l4lke",
       "Name": "Unfulfilled Desires",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1288
+      "UsersEstimate": 2576
     },
     {
       "ID": "altar_of_hope_upgrade_total_full",
@@ -36136,9 +36141,9 @@
       "ID": "altar_of_hope_upgrade_total_half",
       "SetID": "64l4lke",
       "Name": "This Looks Familiar",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1159
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -36232,9 +36237,9 @@
       "ID": "combat_kill_gentry",
       "SetID": "64l4lke",
       "Name": "No More Mouths to Feed",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1288
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -36360,9 +36365,9 @@
       "ID": "driving_biome_clear_forest",
       "SetID": "64l4lke",
       "Name": "To Grandmother\u0027s House",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2576
+      "UsersEstimate": 3864
     },
     {
       "ID": "driving_distance_easy",
@@ -36552,9 +36557,9 @@
       "ID": "stagecoach_upgrade_equip_all",
       "SetID": "64l4lke",
       "Name": "Road Trip",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1288
+      "UsersEstimate": 2576
     },
     {
       "ID": "altar_of_hope_memory_equip_all_crusader",
@@ -36578,7 +36583,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "combat_kill_collector",
@@ -36586,7 +36591,7 @@
       "Name": "This guy... again?",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -36634,7 +36639,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "quest_complete_crusader",
@@ -36642,7 +36647,7 @@
       "Name": "Lost and Found",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -36673,21 +36678,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 128788,
+      "Progressed": 128803,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 3657,
+      "Progressed": 3672,
       "Completed": 803
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-20T19:59:37.5330285+00:00",
-  "LastChanged_Achievements": "2023-12-21T00:09:57.9883329+00:00",
+  "LastChanged_Achievements": "2023-12-21T01:55:04.8571406+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-21T00:00:53.3060737+00:00",
-  "LastUpdate_Achievements": "2023-12-21T00:09:57.9884893+00:00"
+  "LastUpdate_Ratings": "2023-12-21T01:45:57.7876025+00:00",
+  "LastUpdate_Achievements": "2023-12-21T01:55:04.8573625+00:00"
 }

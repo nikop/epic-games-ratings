@@ -3,7 +3,7 @@
   "Name": "Road 96: Mile 0",
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 327,
-  "Ranking_EOS_Completed": 231,
+  "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 519,
+  "EOS_Progressed": 520,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.39,
+  "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:35.153611+00:00",
@@ -1817,6 +1817,11 @@
       "Time": "2023-12-20T19:10:05.3532199+00:00",
       "NumProgressed": 519,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-21T01:55:48.8832329+00:00",
+      "NumProgressed": 520,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -1898,9 +1903,9 @@
       "ID": "scoreminrankrh1",
       "SetID": "40n95i5",
       "Name": "Souvenirs",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 40,
-      "UsersEstimate": 151
+      "UsersEstimate": 146
     },
     {
       "ID": "scoreminrankrp1",
@@ -1932,7 +1937,7 @@
       "Name": "Welcome to the Garage",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "scoreminrankrv2",
@@ -1947,7 +1952,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 519,
+      "Progressed": 520,
       "Completed": 2
     }
   ],
@@ -1955,8 +1960,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-12-21T00:10:53.9740305+00:00",
+  "LastChanged_Achievements": "2023-12-21T01:55:48.8832322+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:48.6488501+00:00",
-  "LastUpdate_Ratings": "2023-12-21T00:02:55.998214+00:00",
-  "LastUpdate_Achievements": "2023-12-21T00:10:53.9740503+00:00"
+  "LastUpdate_Ratings": "2023-12-21T01:46:59.6379642+00:00",
+  "LastUpdate_Achievements": "2023-12-21T01:55:48.8832515+00:00"
 }

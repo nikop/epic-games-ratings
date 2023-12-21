@@ -4,7 +4,7 @@
   "ProductSlug": "serial-cleaners",
   "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 374,
+  "Ranking_EOS_NewPlayers": 366,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 285,
+  "EOS_Progressed": 286,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.11,
+  "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:28.6580163+00:00",
@@ -684,6 +684,11 @@
       "Time": "2023-12-20T22:05:18.9596994+00:00",
       "NumProgressed": 285,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-21T01:50:09.8115636+00:00",
+      "NumProgressed": 286,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 24,
@@ -693,9 +698,9 @@
       "ID": "ALL_MAIN_MISSIONS",
       "SetID": "2lk004m",
       "Name": "All the Stories",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "ALL_MEMORIES",
@@ -741,17 +746,17 @@
       "ID": "CHAPTER4_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Something Rotten",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "CHAPTER5_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Witness Protection",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "COLLECT_20_EVIDENCE",
@@ -789,25 +794,25 @@
       "ID": "DLC01_ACHIEVEMENT02",
       "SetID": "5jieak",
       "Name": "Do-you-think-he-saurus",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "DLC01_ACHIEVEMENT03",
       "SetID": "5jieak",
       "Name": "Cha Cha Real Smooth",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "DLC01_ACHIEVEMENT04",
       "SetID": "5jieak",
       "Name": "That\u2019s One Big Pile",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "DLC01_ACHIEVEMENT05",
@@ -855,7 +860,7 @@
       "Name": "Mr. Hygeni",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "PSYCHO_DISMEMBER",
@@ -871,7 +876,7 @@
       "Name": "Clean Conscience",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "VIPER_HACKING",
@@ -886,13 +891,13 @@
     {
       "ID": "5jieak",
       "IsBase": false,
-      "Progressed": 148,
+      "Progressed": 149,
       "Completed": 16
     },
     {
       "ID": "2lk004m",
       "IsBase": true,
-      "Progressed": 285,
+      "Progressed": 286,
       "Completed": 6
     }
   ],
@@ -900,8 +905,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-12-21T00:05:06.3231208+00:00",
+  "LastChanged_Achievements": "2023-12-21T01:50:09.8115632+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:54.371463+00:00",
-  "LastUpdate_Ratings": "2023-12-20T23:57:24.5778844+00:00",
-  "LastUpdate_Achievements": "2023-12-21T00:05:06.3231377+00:00"
+  "LastUpdate_Ratings": "2023-12-21T01:43:20.4727568+00:00",
+  "LastUpdate_Achievements": "2023-12-21T01:50:09.8115809+00:00"
 }

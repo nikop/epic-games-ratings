@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17220,
+  "EOS_Progressed": 17223,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 200,
+  "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -16590,6 +16590,11 @@
       "Time": "2023-12-20T23:04:41.6941449+00:00",
       "NumProgressed": 17220,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-12-21T01:50:44.8442658+00:00",
+      "NumProgressed": 17223,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 41,
@@ -16641,7 +16646,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5683
+      "UsersEstimate": 5684
     },
     {
       "ID": "tpote_achievement_15",
@@ -16665,7 +16670,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2755
+      "UsersEstimate": 2756
     },
     {
       "ID": "tpote_achievement_18",
@@ -16689,7 +16694,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5683
+      "UsersEstimate": 5684
     },
     {
       "ID": "tpote_achievement_20",
@@ -16705,7 +16710,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 4994
+      "UsersEstimate": 4995
     },
     {
       "ID": "tpote_achievement_22",
@@ -16713,7 +16718,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3444
+      "UsersEstimate": 3445
     },
     {
       "ID": "tpote_achievement_23",
@@ -16761,7 +16766,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2066
+      "UsersEstimate": 2067
     },
     {
       "ID": "tpote_achievement_29",
@@ -16777,7 +16782,7 @@
       "Name": "Let there be darkness",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5338
+      "UsersEstimate": 5339
     },
     {
       "ID": "tpote_achievement_30",
@@ -16817,7 +16822,7 @@
       "Name": "A cry for help",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "tpote_achievement_35",
@@ -16865,7 +16870,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6888
+      "UsersEstimate": 6889
     },
     {
       "ID": "tpote_achievement_40",
@@ -16889,7 +16894,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 4133
+      "UsersEstimate": 4134
     },
     {
       "ID": "tpote_achievement_6",
@@ -16905,7 +16910,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "tpote_achievement_8",
@@ -16913,7 +16918,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3616
+      "UsersEstimate": 3617
     },
     {
       "ID": "tpote_achievement_9",
@@ -16921,22 +16926,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5855
+      "UsersEstimate": 5856
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17220,
+      "Progressed": 17223,
       "Completed": 119
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2023-12-21T00:05:53.1398289+00:00",
+  "LastChanged_Achievements": "2023-12-21T01:50:44.8442654+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:13.9933566+00:00",
-  "LastUpdate_Ratings": "2023-12-21T00:00:23.4618968+00:00",
-  "LastUpdate_Achievements": "2023-12-21T00:05:53.1399645+00:00"
+  "LastUpdate_Ratings": "2023-12-21T01:45:35.7509556+00:00",
+  "LastUpdate_Achievements": "2023-12-21T01:50:44.8443672+00:00"
 }

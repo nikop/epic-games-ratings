@@ -2181,9 +2181,9 @@
       "Count": 221
     }
   ],
-  "EOS_Progressed": 21636,
+  "EOS_Progressed": 21638,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11716,6 +11716,11 @@
       "Time": "2023-12-20T23:06:03.5452616+00:00",
       "NumProgressed": 21636,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-21T01:52:17.3356173+00:00",
+      "NumProgressed": 21638,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -11775,7 +11780,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20554
+      "UsersEstimate": 20556
     },
     {
       "ID": "GameOver",
@@ -11839,7 +11844,7 @@
       "Name": "Just Enough",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4327
+      "UsersEstimate": 4328
     },
     {
       "ID": "Negotiator",
@@ -11863,7 +11868,7 @@
       "Name": "Alpha Male",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4327
+      "UsersEstimate": 4328
     },
     {
       "ID": "SeniorEstateAgent",
@@ -11887,7 +11892,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6707
+      "UsersEstimate": 6708
     },
     {
       "ID": "VeronicaLiptson",
@@ -11910,15 +11915,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21636,
+      "Progressed": 21638,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-12-20T12:58:55.6191708+00:00",
-  "LastChanged_Achievements": "2023-12-21T00:07:53.5817605+00:00",
+  "LastChanged_Achievements": "2023-12-21T01:52:17.3356169+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:12.9668458+00:00",
-  "LastUpdate_Ratings": "2023-12-20T23:59:51.3064371+00:00",
-  "LastUpdate_Achievements": "2023-12-21T00:07:53.5818156+00:00"
+  "LastUpdate_Ratings": "2023-12-21T01:45:11.614564+00:00",
+  "LastUpdate_Achievements": "2023-12-21T01:52:17.3356757+00:00"
 }

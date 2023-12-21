@@ -2,9 +2,9 @@
   "ID": "0acc28c619c44fbab3dd30c7f87e9679",
   "Name": "SpellForce: Conquest of Eo",
   "ProductSlug": "spellforce-conquest-of-eo",
-  "Ranking_EOS_Progress": 508,
+  "Ranking_EOS_Progress": 507,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 321,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 66,
+  "EOS_Progressed": 67,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -349,6 +349,11 @@
       "Time": "2023-12-20T19:09:19.5261781+00:00",
       "NumProgressed": 66,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T01:55:00.4193371+00:00",
+      "NumProgressed": 67,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-25T16:04:46.0994968+00:00",
@@ -367,7 +372,7 @@
       "ID": "Build_First_Lodge",
       "SetID": "7b9f97e",
       "Name": "Expansion",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 15,
       "UsersEstimate": 45
     },
@@ -375,17 +380,17 @@
       "ID": "Build_First_Room",
       "SetID": "7b9f97e",
       "Name": "Enough rooms to swing a cat",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Build_First_Room_Extension",
       "SetID": "7b9f97e",
       "Name": "Redecorating",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Capture_Own_Tower",
@@ -393,21 +398,21 @@
       "Name": "Home Sweet Home",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "Cast_First_Spell",
       "SetID": "7b9f97e",
       "Name": "A kind of Magic",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "Circle_Page",
       "SetID": "7b9f97e",
       "Name": "The Circle",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
       "UsersEstimate": 25
     },
@@ -415,7 +420,7 @@
       "ID": "Craft_First_Glyph",
       "SetID": "7b9f97e",
       "Name": "Artificer\u0027s Apprentice",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
       "UsersEstimate": 35
     },
@@ -431,9 +436,9 @@
       "ID": "Craft_First_Undead",
       "SetID": "7b9f97e",
       "Name": "Necromancer\u0027s Apprentice",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Defeat_Gor",
@@ -447,7 +452,7 @@
       "ID": "Defeat_Hokan",
       "SetID": "7b9f97e",
       "Name": "Defeat Hokan",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -455,7 +460,7 @@
       "ID": "Defeat_Ianna",
       "SetID": "7b9f97e",
       "Name": "Defeat Ianna",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -479,7 +484,7 @@
       "ID": "Defeat_Rohen",
       "SetID": "7b9f97e",
       "Name": "Defeat Rohen",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -503,7 +508,7 @@
       "ID": "Defeat_Yria",
       "SetID": "7b9f97e",
       "Name": "Defeat Yria",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -511,7 +516,7 @@
       "ID": "Enslave_Unit_Post_Battle",
       "SetID": "7b9f97e",
       "Name": "Slave to the rhythm",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
       "UsersEstimate": 15
     },
@@ -519,23 +524,23 @@
       "ID": "First_LevelUp",
       "SetID": "7b9f97e",
       "Name": "First to the post",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "First_Node_Meld",
       "SetID": "7b9f97e",
       "Name": "Connected",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Harvest_First_Plant",
       "SetID": "7b9f97e",
       "Name": "Harvest Time",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 15,
       "UsersEstimate": 41
     },
@@ -551,7 +556,7 @@
       "ID": "HeroStory_Lore",
       "SetID": "7b9f97e",
       "Name": "Lore\u0027s Tale",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 35,
       "UsersEstimate": 5
     },
@@ -567,7 +572,7 @@
       "ID": "HeroStory_Philo",
       "SetID": "7b9f97e",
       "Name": "Philo\u0027s Tale",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 35,
       "UsersEstimate": 9
     },
@@ -575,7 +580,7 @@
       "ID": "HeroStory_Yngrid",
       "SetID": "7b9f97e",
       "Name": "Yngrid\u0027s Tale",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 35,
       "UsersEstimate": 5
     },
@@ -599,7 +604,7 @@
       "ID": "Landmark_MistyCoastBones",
       "SetID": "7b9f97e",
       "Name": "Misty Coast Dragonbones",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -623,7 +628,7 @@
       "ID": "Landmark_StormwatchFaste",
       "SetID": "7b9f97e",
       "Name": "Stormwatch Faste",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
       "UsersEstimate": 9
     },
@@ -655,7 +660,7 @@
       "ID": "MainCampaign_Alchemist",
       "SetID": "7b9f97e",
       "Name": "Master Alchemist",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -679,7 +684,7 @@
       "ID": "MainCampaign_CirclePage_AllfireNodes",
       "SetID": "7b9f97e",
       "Name": "A Monopoly of Might",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -695,7 +700,7 @@
       "ID": "MainCampaign_CirclePage_Heroes",
       "SetID": "7b9f97e",
       "Name": "Heroes",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -711,7 +716,7 @@
       "ID": "MainCampaign_CirclePage_Reputation",
       "SetID": "7b9f97e",
       "Name": "My Friends!",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -719,7 +724,7 @@
       "ID": "MainCampaign_Hard",
       "SetID": "7b9f97e",
       "Name": "Hard Life",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -735,7 +740,7 @@
       "ID": "MainCampaign_Necromancer",
       "SetID": "7b9f97e",
       "Name": "Master Necromancer",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -751,7 +756,7 @@
       "ID": "Max_Reputation_Alluvyan",
       "SetID": "7b9f97e",
       "Name": "Friend of Alluvyan",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
       "UsersEstimate": 11
     },
@@ -767,7 +772,7 @@
       "ID": "Max_Reputation_Gillyshire",
       "SetID": "7b9f97e",
       "Name": "Friend of Gillyshire",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 9
     },
@@ -791,7 +796,7 @@
       "ID": "Max_Reputation_Sevenkeeps",
       "SetID": "7b9f97e",
       "Name": "Friend of Sevenkeeps",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
       "UsersEstimate": 15
     },
@@ -799,7 +804,7 @@
       "ID": "Max_Reputation_SilverDriftHollow",
       "SetID": "7b9f97e",
       "Name": "Friend of Silver Drift Hollow",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 7
     },
@@ -815,7 +820,7 @@
       "ID": "Max_Reputation_UramGor",
       "SetID": "7b9f97e",
       "Name": "Friend of Uram Gor",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -823,7 +828,7 @@
       "ID": "Max_Reputation_Westguard",
       "SetID": "7b9f97e",
       "Name": "Friend of Bastion",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 9
     },
@@ -831,7 +836,7 @@
       "ID": "Max_Reputation_Windholme",
       "SetID": "7b9f97e",
       "Name": "Friend of Windholme",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 7
     },
@@ -839,7 +844,7 @@
       "ID": "Max_Tower_And_Apprentices",
       "SetID": "7b9f97e",
       "Name": "Magic Academy",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 7
     },
@@ -847,7 +852,7 @@
       "ID": "Mine_First_Ore",
       "SetID": "7b9f97e",
       "Name": "Mine!",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 15,
       "UsersEstimate": 41
     },
@@ -887,15 +892,15 @@
       "ID": "Remove_Raider_From_Tower",
       "SetID": "7b9f97e",
       "Name": "Get out of here!",
-      "Percentage": 44,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "Start_Of_A_Joke",
       "SetID": "7b9f97e",
       "Name": "A Joke",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -911,16 +916,16 @@
       "ID": "Zombify_Unit_Post_Battle",
       "SetID": "7b9f97e",
       "Name": "Bad JuJu",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     }
   ],
   "AchievementSets": [
     {
       "ID": "7b9f97e",
       "IsBase": true,
-      "Progressed": 66,
+      "Progressed": 67,
       "Completed": 0
     }
   ],
@@ -928,8 +933,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-12-21T00:09:52.180035+00:00",
+  "LastChanged_Achievements": "2023-12-21T01:55:00.4193365+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:09.2965751+00:00",
-  "LastUpdate_Ratings": "2023-12-21T00:01:40.0118098+00:00",
-  "LastUpdate_Achievements": "2023-12-21T00:09:52.1800959+00:00"
+  "LastUpdate_Ratings": "2023-12-21T01:46:32.9511252+00:00",
+  "LastUpdate_Achievements": "2023-12-21T01:55:00.4193915+00:00"
 }

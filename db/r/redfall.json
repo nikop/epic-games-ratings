@@ -283,9 +283,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1965,
+  "EOS_Progressed": 1966,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 181,
+  "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2963,6 +2963,11 @@
       "Time": "2023-12-21T00:05:00.5469119+00:00",
       "NumProgressed": 1965,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T01:50:05.5985899+00:00",
+      "NumProgressed": 1966,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3110,7 +3115,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "Achievement_020",
@@ -3436,9 +3441,9 @@
       "ID": "Achievement_063",
       "SetID": "6b34g18",
       "Name": "Helping Hand",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 20
+      "UsersEstimate": 39
     },
     {
       "ID": "Achievement_064",
@@ -3501,7 +3506,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1965,
+      "Progressed": 1966,
       "Completed": 0
     }
   ],
@@ -3509,8 +3514,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-19T11:02:35.1367556+00:00",
-  "LastChanged_Achievements": "2023-12-21T00:05:00.5469115+00:00",
+  "LastChanged_Achievements": "2023-12-21T01:50:05.5985895+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:02.9619993+00:00",
-  "LastUpdate_Ratings": "2023-12-20T23:57:27.0838304+00:00",
-  "LastUpdate_Achievements": "2023-12-21T00:05:00.5469795+00:00"
+  "LastUpdate_Ratings": "2023-12-21T01:43:22.3569349+00:00",
+  "LastUpdate_Achievements": "2023-12-21T01:50:05.5986648+00:00"
 }

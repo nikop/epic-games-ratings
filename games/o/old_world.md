@@ -164,6 +164,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Redemption | 0.10% | ~16 |
 | Revelation | 0.10% | ~16 |
 | Veneration | 0.10% | ~16 |
+| Word of God | 0.10% | ~16 |
 | Trade Caravan | 0.10% | ~16 |
 | Cimmerian Archer | 0.10% | ~16 |
 | Kushite Cavalry | 0.10% | ~16 |
@@ -288,7 +289,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Punic Wars | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
 | Roman Papacy | 0.00% | ~0 |
-| Word of God | 0.00% | ~0 |
 | Cataphract Archer | 0.00% | ~0 |
 | Three Man Chariot | 0.00% | ~0 |
 | No Characters | 0.00% | ~0 |
@@ -611,12 +611,12 @@ Completed: 5 (0.03%) (Ranked 345)
 | 2023-12-19 | 15,840 | 5 |
 | 2023-12-20 | 15,854 | 5 |
 ## Awards
-Max (Relaxing): 228  (Ranked 279)  
-Sum: 1,904 (Ranked 220)  
-Diff (max vs sum): 59  
+Max (Relaxing): 229  (Ranked 278)  
+Sum: 1,905 (Ranked 220)  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 228 |
+| This game is Relaxing | 229 |
 | This game has Diverse Characters | 222 |
 | This game is Highly Recommended | 221 |
 | This game is Extremely Fun | 220 |
@@ -811,3 +811,4 @@ Diff (max vs sum): 59
 | 2023-12-15 | 4.65 | - | 228 | 1,901 |
 | 2023-12-18 | 4.65 | - | 228 | 1,902 |
 | 2023-12-19 | 4.65 | - | 228 | 1,904 |
+| 2023-12-21 | 4.65 | - | 229 | 1,905 |

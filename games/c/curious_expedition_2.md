@@ -6,47 +6,47 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 64.00% | ~234 |
-| Cartographer | 57.00% | ~209 |
-| A Strange Artefact | 52.00% | ~190 |
-| Insomnia | 49.00% | ~179 |
-| Lost & Found & Lost Again | 43.00% | ~157 |
-| From Whence we Came | 42.00% | ~154 |
-| Fire and Flood | 41.00% | ~150 |
-| Spooky! | 37.00% | ~135 |
-| Shennong Herbalist | 34.00% | ~124 |
-| Treasure Hunt | 34.00% | ~124 |
+| The Adventure Begins | 64.00% | ~236 |
+| Cartographer | 57.00% | ~210 |
+| A Strange Artefact | 52.00% | ~191 |
+| Insomnia | 49.00% | ~180 |
+| Lost & Found & Lost Again | 43.00% | ~158 |
+| From Whence we Came | 42.00% | ~155 |
+| Fire and Flood | 41.00% | ~151 |
+| Spooky! | 37.00% | ~136 |
+| Shennong Herbalist | 35.00% | ~129 |
+| Treasure Hunt | 35.00% | ~129 |
 | Good Mama | 33.00% | ~121 |
-| O Captain My Captain | 31.00% | ~113 |
-| Plunderer | 29.00% | ~106 |
+| O Captain My Captain | 32.00% | ~118 |
+| Plunderer | 29.00% | ~107 |
 | Taxonomist | 27.00% | ~99 |
 | Traveller | 25.00% | ~92 |
 | Uncertain Loyalties | 25.00% | ~92 |
 | Nahua Seeker | 24.00% | ~88 |
-| Roll to Save | 23.00% | ~84 |
+| Roll to Save | 23.00% | ~85 |
 | Veteran Explorer | 21.00% | ~77 |
-| Red Flag Pirate | 19.00% | ~70 |
-| Iron Man | 17.00% | ~62 |
+| Red Flag Pirate | 20.00% | ~74 |
+| Iron Man | 17.00% | ~63 |
 | For the Club! | 16.00% | ~59 |
 | Shortening of the Way | 16.00% | ~59 |
 | A Gentle Beast | 16.00% | ~59 |
 | Practical Palaeontology | 16.00% | ~59 |
 | Adventurer | 15.00% | ~55 |
 | Dapper | 15.00% | ~55 |
+| Plays Well With Others | 14.00% | ~52 |
 | The New Director | 13.00% | ~48 |
 | The Director is Dead | 13.00% | ~48 |
 | And Here Is Your Statue | 13.00% | ~48 |
 | Discovery | 13.00% | ~48 |
-| Plays Well With Others | 13.00% | ~48 |
 | Very Classy | 12.00% | ~44 |
 | Under the Table | 11.00% | ~40 |
-| It's Complicated | 10.00% | ~37 |
-| Cold Blood, Warm Heart | 9.00% | ~33 |
+| It's Complicated | 11.00% | ~40 |
+| Cold Blood, Warm Heart | 10.00% | ~37 |
+| Errand Runner | 9.00% | ~33 |
 | SCHMETTERLING | 8.00% | ~29 |
 | No Laughing Matter | 8.00% | ~29 |
 | The Great Library | 8.00% | ~29 |
 | Level Up | 8.00% | ~29 |
-| Errand Runner | 8.00% | ~29 |
 | Zookeeper | 7.00% | ~26 |
 | The Workshop | 7.00% | ~26 |
 | Islander Understanding | 6.00% | ~22 |
@@ -54,11 +54,11 @@ Number of Ratings: 20  (23.09.2022)
 | The Director Perseveres | 5.00% | ~18 |
 | The Round Table | 5.00% | ~18 |
 | X Marks the Spot | 4.00% | ~15 |
+| Risk/Reward | 4.00% | ~15 |
 | Frugal | 4.00% | ~15 |
+| I Set Forth Again... and Again... and Again... | 4.00% | ~15 |
 | A Familiar Figure | 3.00% | ~11 |
 | A Perfect Map | 3.00% | ~11 |
-| Risk/Reward | 3.00% | ~11 |
-| I Set Forth Again... and Again... and Again... | 3.00% | ~11 |
 | Lunatic | 2.00% | ~7 |
 | Look Ma, No Equipment! | 2.00% | ~7 |
 | Abominable Hunger | 0.80% | ~3 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.80% | ~3 |
 | Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 366 (Ranked 353)  
+Progressed: 368 (Ranked 352)  
 Completed: 1 (0.27%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 1 (0.27%) (Ranked 254)
 | 2023-12-18 | 362 | 1 |
 | 2023-12-19 | 364 | 1 |
 | 2023-12-20 | 365 | 1 |
-| 2023-12-21 | 366 | 1 |
+| 2023-12-21 | 368 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

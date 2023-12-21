@@ -2,7 +2,7 @@
   "ID": "6acf92329bc449068201ee9a3f399a13",
   "Name": "Nioh 2 \u2013 The Complete Edition",
   "ProductSlug": "nioh-2-the-complete-edition",
-  "Ranking_Rating": 99,
+  "Ranking_Rating": 90,
   "Ranking_Popularity": 103,
   "Ranking_PopularitySum": 117,
   "Ranking_EOS_Progress": 813,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.79,
+  "Rating": 4.8,
   "NumberOfRatings": 2526,
   "RatingHistory": [
     {
@@ -4640,6 +4640,12 @@
       "Rating": 4.79,
       "NumberOfAwards": 7368,
       "NumberOfAwardsMax": 2550
+    },
+    {
+      "Time": "2023-12-21T01:45:35.1820391+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 7368,
+      "NumberOfAwardsMax": 2550
     }
   ],
   "ReviewsDisabled": false,
@@ -4731,8 +4737,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:13.8820605+00:00",
-  "LastChanged": "2023-12-20T13:59:20.0204391+00:00",
+  "LastChanged": "2023-12-21T01:45:35.1820389+00:00",
   "LastUpdate_AppInfo": "2023-12-16T13:57:09.1039684+00:00",
-  "LastUpdate_Ratings": "2023-12-21T00:00:22.6948129+00:00",
-  "LastUpdate_Achievements": "2023-12-21T00:10:06.495254+00:00"
+  "LastUpdate_Ratings": "2023-12-21T01:45:35.1820396+00:00",
+  "LastUpdate_Achievements": "2023-12-21T01:55:11.5993626+00:00"
 }

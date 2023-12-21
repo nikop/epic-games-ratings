@@ -5,7 +5,7 @@ Rating: 3.57 (Ranked 1,062)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 10.00% | ~196 |
+| I Like My Stakes Rare! | 10.00% | ~197 |
 | Home Is Where the Heart Is | 7.00% | ~138 |
 | Catch and Release | 7.00% | ~138 |
 | ICU | 6.00% | ~118 |
@@ -25,6 +25,7 @@ Rating: 3.57 (Ranked 1,062)
 | Neighborhood Revitalization | 2.00% | ~39 |
 | Radio Silence | 2.00% | ~39 |
 | Starve the Beast | 2.00% | ~39 |
+| Helping Hand | 2.00% | ~39 |
 | I Spit On Your Grave | 2.00% | ~39 |
 | Contingency Plans | 1.00% | ~20 |
 | Sic Transit Umbra | 1.00% | ~20 |
@@ -34,7 +35,6 @@ Rating: 3.57 (Ranked 1,062)
 | You Clean It Up | 1.00% | ~20 |
 | From the Shadows | 1.00% | ~20 |
 | Harvest’s End | 1.00% | ~20 |
-| Helping Hand | 1.00% | ~20 |
 | Check, Please! | 0.90% | ~18 |
 | Nice Try | 0.90% | ~18 |
 | Blacklight Down | 0.90% | ~18 |
@@ -72,7 +72,7 @@ Rating: 3.57 (Ranked 1,062)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,965 (Ranked 236)  
+Progressed: 1,966 (Ranked 236)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 1,930 | 0 |
 | 2023-12-19 | 1,947 | 0 |
 | 2023-12-20 | 1,963 | 0 |
-| 2023-12-21 | 1,965 | 0 |
+| 2023-12-21 | 1,966 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

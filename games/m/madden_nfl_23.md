@@ -1,18 +1,18 @@
 # Madden NFL 23
 [Store](https://store.epicgames.com/en-US/p/madden-nfl-23)  
 [View Rawdata](../../db/m/madden_nfl_23.json)  
-Rating: 4.29 (Ranked 856)  
+Rating: 4.29 (Ranked 857)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bragging Rights | 55.00% | ~2,242 |
-| MVP | 54.00% | ~2,201 |
-| Big Spender | 53.00% | ~2,160 |
-| Stud Finder | 40.00% | ~1,630 |
+| Bragging Rights | 55.00% | ~2,243 |
+| MVP | 54.00% | ~2,202 |
+| Big Spender | 53.00% | ~2,161 |
+| Stud Finder | 40.00% | ~1,631 |
 | Dealmaker | 39.00% | ~1,590 |
-| ROTY | 32.00% | ~1,304 |
+| ROTY | 32.00% | ~1,305 |
 | Roster Reshuffle | 31.00% | ~1,264 |
-| Future of the Franchise | 19.00% | ~774 |
+| Future of the Franchise | 19.00% | ~775 |
 | Throwin’ Dots | 17.00% | ~693 |
 | Already in Progress | 17.00% | ~693 |
 | Change of Scenery | 17.00% | ~693 |
@@ -27,7 +27,7 @@ Rating: 4.29 (Ranked 856)
 | Lockdown Leader | 0.40% | ~16 |
 | The Fortress | 0.30% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,076 (Ranked 204)  
+Progressed: 4,078 (Ranked 204)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,17 +124,17 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 4,038 | 0 |
 | 2023-12-19 | 4,062 | 0 |
 | 2023-12-20 | 4,075 | 0 |
-| 2023-12-21 | 4,076 | 0 |
+| 2023-12-21 | 4,078 | 0 |
 ## Awards
 Max (Diverse Characters): 43  (Ranked 463)  
-Sum: 144 (Ranked 433)  
-Diff (max vs sum): 30  
+Sum: 145 (Ranked 432)  
+Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 43 |
 | This game has a Competitive Community | 32 |
 | This game is Highly Recommended | 26 |
-| This game is Extremely Fun | 23 |
+| This game is Extremely Fun | 24 |
 | This game has Amazing Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -283,3 +283,4 @@ Diff (max vs sum): 30
 | 2023-12-17 | 4.29 | 42 | 142 |
 | 2023-12-19 | 4.29 | 43 | 143 |
 | 2023-12-20 | 4.29 | 43 | 144 |
+| 2023-12-21 | 4.29 | 43 | 145 |

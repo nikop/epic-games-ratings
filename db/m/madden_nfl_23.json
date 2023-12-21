@@ -2,12 +2,12 @@
   "ID": "5f4daf40211246acaddd707f7b4e8f56",
   "Name": "Madden NFL 23",
   "ProductSlug": "madden-nfl-23",
-  "Ranking_Rating": 856,
+  "Ranking_Rating": 857,
   "Ranking_Popularity": 463,
-  "Ranking_PopularitySum": 433,
+  "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -905,10 +905,16 @@
       "Rating": 4.29,
       "NumberOfAwards": 144,
       "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2023-12-21T01:44:12.9445897+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 145,
+      "NumberOfAwardsMax": 43
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 144,
+  "NumberOfAwards": 145,
   "NumberOfAwardsMax": 43,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -934,7 +940,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game has Amazing Characters",
@@ -943,7 +949,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4076,
+  "EOS_Progressed": 4078,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
@@ -7433,6 +7439,11 @@
       "Time": "2023-12-21T00:05:17.0863422+00:00",
       "NumProgressed": 4076,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T01:50:17.8331003+00:00",
+      "NumProgressed": 4078,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -7453,7 +7464,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 2242
+      "UsersEstimate": 2243
     },
     {
       "ID": "achievement_11",
@@ -7461,7 +7472,7 @@
       "Name": "Future of the Franchise",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "achievement_12",
@@ -7469,7 +7480,7 @@
       "Name": "Stud Finder",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 1630
+      "UsersEstimate": 1631
     },
     {
       "ID": "achievement_13",
@@ -7477,7 +7488,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 2160
+      "UsersEstimate": 2161
     },
     {
       "ID": "achievement_14",
@@ -7493,7 +7504,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 2201
+      "UsersEstimate": 2202
     },
     {
       "ID": "achievement_16",
@@ -7501,7 +7512,7 @@
       "Name": "ROTY",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1304
+      "UsersEstimate": 1305
     },
     {
       "ID": "achievement_17",
@@ -7612,16 +7623,16 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4076,
+      "Progressed": 4078,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-10-21T06:01:19.8599973+00:00",
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
-  "LastChanged": "2023-12-20T18:58:01.3561832+00:00",
-  "LastChanged_Achievements": "2023-12-21T00:05:17.0863418+00:00",
+  "LastChanged": "2023-12-21T01:44:12.9445895+00:00",
+  "LastChanged_Achievements": "2023-12-21T01:50:17.8330998+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:51.9510539+00:00",
-  "LastUpdate_Ratings": "2023-12-20T23:58:33.5281534+00:00",
-  "LastUpdate_Achievements": "2023-12-21T00:05:17.0863897+00:00"
+  "LastUpdate_Ratings": "2023-12-21T01:44:12.94459+00:00",
+  "LastUpdate_Achievements": "2023-12-21T01:50:17.8331532+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "Old World",
   "ProductSlug": "old-world",
   "Ranking_Rating": 320,
-  "Ranking_Popularity": 279,
+  "Ranking_Popularity": 278,
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 345,
@@ -2086,11 +2086,17 @@
       "Rating": 4.65,
       "NumberOfAwards": 1904,
       "NumberOfAwardsMax": 228
+    },
+    {
+      "Time": "2023-12-21T01:48:44.195728+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1905,
+      "NumberOfAwardsMax": 229
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1904,
-  "NumberOfAwardsMax": 228,
+  "NumberOfAwards": 1905,
+  "NumberOfAwardsMax": 229,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
@@ -2139,7 +2145,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 228
+      "Count": 229
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -20054,9 +20060,9 @@
       "ID": "ACHIEVEMENT_THE_WORD_OF_GOD",
       "SetID": "9201eeb",
       "Name": "Word of God",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_TRADE_CARAVAN",
@@ -20907,9 +20913,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2023-12-19T18:02:53.2051748+00:00",
-  "LastChanged_Achievements": "2023-12-21T00:10:35.8969589+00:00",
+  "LastChanged": "2023-12-21T01:48:44.1957278+00:00",
+  "LastChanged_Achievements": "2023-12-21T01:55:35.1615862+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:47.4773202+00:00",
-  "LastUpdate_Ratings": "2023-12-21T00:03:15.5325414+00:00",
-  "LastUpdate_Achievements": "2023-12-21T00:10:35.8978885+00:00"
+  "LastUpdate_Ratings": "2023-12-21T01:48:44.1957285+00:00",
+  "LastUpdate_Achievements": "2023-12-21T01:55:35.1627889+00:00"
 }

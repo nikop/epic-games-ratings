@@ -1,7 +1,7 @@
 # House Party
 [Store](https://store.epicgames.com/en-US/p/house-party-ae8b27)  
 [View Rawdata](../../db/h/house_party.json)  
-Rating: 4.33 (Ranked 826)  
+Rating: 4.33 (Ranked 827)  
 Number of Ratings: 177  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~7 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,756 (Ranked 189)  
+Progressed: 6,757 (Ranked 189)  
 Completed: 3 (0.04%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 3 (0.04%) (Ranked 342)
 | 2023-12-18 | 6,720 | 3 |
 | 2023-12-19 | 6,729 | 3 |
 | 2023-12-20 | 6,755 | 3 |
-| 2023-12-21 | 6,756 | 3 |
+| 2023-12-21 | 6,757 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

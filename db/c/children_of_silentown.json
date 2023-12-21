@@ -4,7 +4,7 @@
   "ProductSlug": "children-of-silentown-52cc21",
   "Ranking_EOS_Progress": 393,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 484,
+  "Ranking_EOS_NewPlayers": 466,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-01-11T16:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 226,
+  "EOS_Progressed": 227,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -451,6 +451,11 @@
       "Time": "2023-12-20T17:03:35.712414+00:00",
       "NumProgressed": 226,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T01:49:33.8882157+00:00",
+      "NumProgressed": 227,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -478,15 +483,15 @@
       "Name": "Glass shards",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "DogHair",
       "SetID": "9kk0gal",
       "Name": "Coal\u0027s fur",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 131
+      "UsersEstimate": 129
     },
     {
       "ID": "Doll",
@@ -494,23 +499,23 @@
       "Name": "Doll",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "Ending1",
       "SetID": "9kk0gal",
       "Name": "Children",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 60,
-      "UsersEstimate": 52
+      "UsersEstimate": 50
     },
     {
       "ID": "Ending2",
       "SetID": "9kk0gal",
       "Name": "Back Home",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "Ending3",
@@ -532,9 +537,9 @@
       "ID": "Footprint",
       "SetID": "9kk0gal",
       "Name": "Mysterious footprints",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 106
+      "UsersEstimate": 109
     },
     {
       "ID": "Friend",
@@ -564,9 +569,9 @@
       "ID": "Genesis",
       "SetID": "9kk0gal",
       "Name": "Mysterious paintings",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 77
+      "UsersEstimate": 75
     },
     {
       "ID": "HugeSnail",
@@ -598,7 +603,7 @@
       "Name": "Puppy",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "SchoolRuler",
@@ -630,7 +635,7 @@
       "Name": "Broken toy",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "Trinket",
@@ -638,23 +643,23 @@
       "Name": "Lucky charm",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "Trumpet",
       "SetID": "9kk0gal",
       "Name": "Trumpet",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 199
+      "UsersEstimate": 202
     },
     {
       "ID": "Well",
       "SetID": "9kk0gal",
       "Name": "Depths of the well",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 59
     },
     {
       "ID": "Windmill",
@@ -662,14 +667,14 @@
       "Name": "Windmill",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     }
   ],
   "AchievementSets": [
     {
       "ID": "9kk0gal",
       "IsBase": true,
-      "Progressed": 226,
+      "Progressed": 227,
       "Completed": 0
     }
   ],
@@ -677,8 +682,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-12-21T00:04:19.6305952+00:00",
+  "LastChanged_Achievements": "2023-12-21T01:49:33.8882153+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:26.6651499+00:00",
-  "LastUpdate_Ratings": "2023-12-21T00:01:21.6028379+00:00",
-  "LastUpdate_Achievements": "2023-12-21T00:04:19.6306177+00:00"
+  "LastUpdate_Ratings": "2023-12-21T01:46:19.2056134+00:00",
+  "LastUpdate_Achievements": "2023-12-21T01:49:33.8882377+00:00"
 }

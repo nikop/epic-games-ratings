@@ -10,9 +10,9 @@ Number of Ratings: 90  (23.09.2022)
 | Mash Machine | 65.00% | ~90 |
 | Ducks in a Row, Fish in a Barrel | 44.00% | ~61 |
 | Furon Fashion | 38.00% | ~53 |
-| Shop Til They Drop | 31.00% | ~43 |
+| Shop Til They Drop | 32.00% | ~44 |
 | Earthly Pleasures | 27.00% | ~38 |
-| Bodied Sattva | 25.00% | ~35 |
+| Bodied Sattva | 26.00% | ~36 |
 | Cult Following | 22.00% | ~31 |
 | Lie Back and Think of Albion | 19.00% | ~26 |
 | Upgreatest | 19.00% | ~26 |
@@ -21,18 +21,18 @@ Number of Ratings: 90  (23.09.2022)
 | Perfect Probulator | 12.00% | ~17 |
 | Freshly Squeezed | 12.00% | ~17 |
 | Die Nasty | 12.00% | ~17 |
+| Transmitting From Sol-3 | 9.00% | ~13 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 9.00% | ~13 |
-| Transmitting From Sol-3 | 8.00% | ~11 |
 | Dusted | 8.00% | ~11 |
+| Fly Me to the Moon Base | 6.00% | ~8 |
 | Kaijuiced | 6.00% | ~8 |
-| Fly Me to the Moon Base | 5.00% | ~7 |
 | Scuttled | 4.00% | ~6 |
+| Yettisoned | 3.00% | ~4 |
 | Lobster Blisque | 2.00% | ~3 |
-| Yettisoned | 2.00% | ~3 |
 | Re-Return of the Clone of the Invasion II-2 | 2.00% | ~3 |
 | Arkvoodle Doodle | 2.00% | ~3 |
+| Ultimate Smoothie | 1.00% | ~1 |
 | Deincarnated | 1.00% | ~1 |
-| Ultimate Smoothie | 0.70% | ~1 |
 | Arty Facts | 0.70% | ~1 |
 | Forbidden Donut | 0.70% | ~1 |
 | Hidden Human Hive Harvest | 0.70% | ~1 |

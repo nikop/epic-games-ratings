@@ -4,7 +4,7 @@
   "ProductSlug": "deus-ex-mankind-divided-4c6370",
   "Ranking_EOS_Progress": 554,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 39,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -224,9 +224,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "7on801h",
       "Name": "We Are Human Beings",
-      "Percentage": 5,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -432,33 +432,33 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "7on801h",
       "Name": "The Supreme Enlightened",
-      "Percentage": 5,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "7on801h",
       "Name": "Spokes in Two Wheels",
-      "Percentage": 5,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "7on801h",
       "Name": "He\u0027s [Not] Dead, Jim",
-      "Percentage": 5,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "7on801h",
       "Name": "Laputan Machine",
-      "Percentage": 5,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -496,9 +496,9 @@
       "ID": "NEW_ACHIEVEMENT_2_11",
       "SetID": "7on801h",
       "Name": "Neon Nights",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_12",
@@ -885,8 +885,8 @@
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2023-12-21T00:08:20.134248+00:00",
+  "LastChanged_Achievements": "2023-12-21T01:52:37.3169117+00:00",
   "LastUpdate_AppInfo": "2023-12-20T16:57:12.9726855+00:00",
-  "LastUpdate_Ratings": "2023-12-20T23:57:12.7041195+00:00",
-  "LastUpdate_Achievements": "2023-12-21T00:08:20.1343089+00:00"
+  "LastUpdate_Ratings": "2023-12-21T01:43:11.3617412+00:00",
+  "LastUpdate_Achievements": "2023-12-21T01:52:37.3169922+00:00"
 }

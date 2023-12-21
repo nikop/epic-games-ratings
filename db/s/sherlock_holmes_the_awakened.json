@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -147,7 +147,7 @@
   "Tags": [],
   "EOS_Progressed": 1267,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 2.84,
   "EosHistory": [
@@ -4540,9 +4540,9 @@
       "ID": "MQ05_4",
       "SetID": "bbing49",
       "Name": "Knives Out",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 532
+      "UsersEstimate": 545
     },
     {
       "ID": "MQ06_1",
@@ -4637,8 +4637,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-19T11:03:29.5971745+00:00",
-  "LastChanged_Achievements": "2023-12-21T00:08:17.8999603+00:00",
+  "LastChanged_Achievements": "2023-12-21T01:52:35.4885059+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:14.2246919+00:00",
-  "LastUpdate_Ratings": "2023-12-21T00:03:30.0762629+00:00",
-  "LastUpdate_Achievements": "2023-12-21T00:08:17.8999877+00:00"
+  "LastUpdate_Ratings": "2023-12-21T01:48:55.1861408+00:00",
+  "LastUpdate_Achievements": "2023-12-21T01:52:35.4885435+00:00"
 }

@@ -4,38 +4,38 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 88.00% | ~58 |
-| Enough rooms to swing a cat | 83.00% | ~55 |
-| First to the post | 83.00% | ~55 |
-| A kind of Magic | 77.00% | ~51 |
-| Connected | 71.00% | ~47 |
-| Expansion | 68.00% | ~45 |
-| Harvest Time | 62.00% | ~41 |
-| Mine! | 62.00% | ~41 |
-| Artificer's Apprentice | 53.00% | ~35 |
+| Home Sweet Home | 88.00% | ~59 |
+| Enough rooms to swing a cat | 84.00% | ~56 |
+| First to the post | 84.00% | ~56 |
+| A kind of Magic | 78.00% | ~52 |
+| Connected | 72.00% | ~48 |
+| Expansion | 67.00% | ~45 |
+| Harvest Time | 61.00% | ~41 |
+| Mine! | 61.00% | ~41 |
+| Artificer's Apprentice | 52.00% | ~35 |
 | Fly the friendly Sky | 48.00% | ~32 |
-| Get out of here! | 44.00% | ~29 |
-| Necromancer's Apprentice | 42.00% | ~28 |
+| Get out of here! | 46.00% | ~31 |
+| Necromancer's Apprentice | 43.00% | ~29 |
 | Friend of Lyraine | 42.00% | ~28 |
 | Alchemist's Apprentice | 39.00% | ~26 |
-| The Circle | 38.00% | ~25 |
-| Redecorating | 32.00% | ~21 |
-| Bad JuJu | 24.00% | ~16 |
-| Slave to the rhythm | 23.00% | ~15 |
-| Friend of Sevenkeeps | 23.00% | ~15 |
+| The Circle | 37.00% | ~25 |
+| Redecorating | 33.00% | ~22 |
+| Bad JuJu | 25.00% | ~17 |
+| Slave to the rhythm | 22.00% | ~15 |
+| Friend of Sevenkeeps | 22.00% | ~15 |
 | Castle Meldec | 21.00% | ~14 |
 | Sevenkeeps Seat of Kings | 18.00% | ~12 |
-| Friend of Alluvyan | 17.00% | ~11 |
+| Friend of Alluvyan | 16.00% | ~11 |
 | Friend of Connach | 15.00% | ~10 |
 | Break Free | 15.00% | ~10 |
-| Philo's Tale | 14.00% | ~9 |
-| Stormwatch Faste | 14.00% | ~9 |
-| Friend of Gillyshire | 14.00% | ~9 |
-| Friend of Bastion | 14.00% | ~9 |
+| Philo's Tale | 13.00% | ~9 |
+| Stormwatch Faste | 13.00% | ~9 |
+| Friend of Gillyshire | 13.00% | ~9 |
+| Friend of Bastion | 13.00% | ~9 |
 | Friend of Orgash | 12.00% | ~8 |
-| Friend of Silver Drift Hollow | 11.00% | ~7 |
-| Friend of Windholme | 11.00% | ~7 |
-| Magic Academy | 11.00% | ~7 |
+| Friend of Silver Drift Hollow | 10.00% | ~7 |
+| Friend of Windholme | 10.00% | ~7 |
+| Magic Academy | 10.00% | ~7 |
 | Defeat Gor | 9.00% | ~6 |
 | Defeat Uram | 9.00% | ~6 |
 | Elynn's Tale | 9.00% | ~6 |
@@ -43,10 +43,10 @@
 | Silver Drift Hollow Mine | 9.00% | ~6 |
 | Mage Teacher | 9.00% | ~6 |
 | A Master of Magic | 9.00% | ~6 |
-| Defeat Hokan | 8.00% | ~5 |
-| Lore's Tale | 8.00% | ~5 |
-| Yngrid's Tale | 8.00% | ~5 |
-| A Joke | 8.00% | ~5 |
+| Defeat Hokan | 7.00% | ~5 |
+| Lore's Tale | 7.00% | ~5 |
+| Yngrid's Tale | 7.00% | ~5 |
+| A Joke | 7.00% | ~5 |
 | Get to the Airship! | 6.00% | ~4 |
 | Defeat Isgrimm | 6.00% | ~4 |
 | Defeat Undergast | 6.00% | ~4 |
@@ -55,27 +55,27 @@
 | Tuscari Sea Portal | 6.00% | ~4 |
 | Balanced | 6.00% | ~4 |
 | Friend of Grey Dusk Vale | 6.00% | ~4 |
-| Defeat Ianna | 5.00% | ~3 |
-| Defeat Rohen | 5.00% | ~3 |
-| Defeat Yria | 5.00% | ~3 |
-| Master Alchemist | 5.00% | ~3 |
-| A Monopoly of Might | 5.00% | ~3 |
-| Heroes | 5.00% | ~3 |
-| My Friends! | 5.00% | ~3 |
-| Master Necromancer | 5.00% | ~3 |
-| Friend of Uram Gor | 5.00% | ~3 |
+| Defeat Ianna | 4.00% | ~3 |
+| Defeat Rohen | 4.00% | ~3 |
+| Defeat Yria | 4.00% | ~3 |
+| Master Alchemist | 4.00% | ~3 |
+| A Monopoly of Might | 4.00% | ~3 |
+| Heroes | 4.00% | ~3 |
+| My Friends! | 4.00% | ~3 |
+| Master Necromancer | 4.00% | ~3 |
+| Friend of Uram Gor | 4.00% | ~3 |
 | Defeat Raith | 3.00% | ~2 |
 | Fireforge | 3.00% | ~2 |
 | Master Artificer | 3.00% | ~2 |
 | Breaking the circle | 3.00% | ~2 |
-| Misty Coast Dragonbones | 2.00% | ~1 |
-| Hard Life | 2.00% | ~1 |
+| Misty Coast Dragonbones | 1.00% | ~1 |
+| Hard Life | 1.00% | ~1 |
 | Impossible Mission | 0.00% | ~0 |
 | Potion Master | 0.00% | ~0 |
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66 (Ranked 508)  
+Progressed: 67 (Ranked 507)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,6 +114,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 63 | 0 |
 | 2023-12-19 | 64 | 0 |
 | 2023-12-20 | 66 | 0 |
+| 2023-12-21 | 67 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

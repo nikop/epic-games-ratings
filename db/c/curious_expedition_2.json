@@ -5,9 +5,9 @@
   "Ranking_Rating": 175,
   "Ranking_Popularity": 569,
   "Ranking_PopularitySum": 569,
-  "Ranking_EOS_Progress": 353,
+  "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 321,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -70,9 +70,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 366,
+  "EOS_Progressed": 368,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -455,6 +455,11 @@
       "Time": "2023-12-21T00:11:03.1559167+00:00",
       "NumProgressed": 366,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T01:55:56.3143814+00:00",
+      "NumProgressed": 368,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -586,7 +591,7 @@
       "Name": "Iron Man",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ach-campaign-pacifist",
@@ -602,7 +607,7 @@
       "Name": "A Strange Artefact",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ach-campaign-story2",
@@ -610,15 +615,15 @@
       "Name": "Lost \u0026 Found \u0026 Lost Again",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ach-campaign-story3",
       "SetID": "17ih7ma",
       "Name": "O Captain My Captain",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 118
     },
     {
       "ID": "ach-cartography-complete",
@@ -634,7 +639,7 @@
       "Name": "Roll to Save",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ach-discover-locations",
@@ -642,7 +647,7 @@
       "Name": "Cartographer",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ach-discover-locations-high",
@@ -666,15 +671,15 @@
       "Name": "Fire and Flood",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ach-find-treasure",
       "SetID": "17ih7ma",
       "Name": "Red Flag Pirate",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 74
     },
     {
       "ID": "ach-find-treasure-high",
@@ -690,23 +695,23 @@
       "Name": "The Adventure Begins",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 236
     },
     {
       "ID": "ach-hardExpeditions",
       "SetID": "17ih7ma",
       "Name": "Risk/Reward",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 15
     },
     {
       "ID": "ach-interspeciesLove",
       "SetID": "17ih7ma",
       "Name": "It\u0027s Complicated",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 40
     },
     {
       "ID": "ach-joinClubChallenge",
@@ -720,9 +725,9 @@
       "ID": "ach-keepHighStanding",
       "SetID": "17ih7ma",
       "Name": "Plays Well With Others",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 52
     },
     {
       "ID": "ach-kill-animal-groups",
@@ -752,9 +757,9 @@
       "ID": "ach-learn-traits",
       "SetID": "17ih7ma",
       "Name": "Shennong Herbalist",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 129
     },
     {
       "ID": "ach-maxClubLevel-american",
@@ -794,7 +799,7 @@
       "Name": "Spooky!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ach-noEquipment",
@@ -810,7 +815,7 @@
       "Name": "Insomnia",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "ach-pacifist-goals",
@@ -842,7 +847,7 @@
       "Name": "From Whence we Came",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ach-promotion",
@@ -882,15 +887,15 @@
       "Name": "Plunderer",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ach-salamanderPrince",
       "SetID": "17ih7ma",
       "Name": "Cold Blood, Warm Heart",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 37
     },
     {
       "ID": "ach-spendNoMoney",
@@ -904,17 +909,17 @@
       "ID": "ach-totalFame",
       "SetID": "17ih7ma",
       "Name": "I Set Forth Again... and Again... and Again...",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 15
     },
     {
       "ID": "ach-treasureFameInExpedition",
       "SetID": "17ih7ma",
       "Name": "Treasure Hunt",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 129
     },
     {
       "ID": "ach-unlockAllLeaders",
@@ -928,9 +933,9 @@
       "ID": "ach-villageQuests",
       "SetID": "17ih7ma",
       "Name": "Errand Runner",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 33
     },
     {
       "ID": "ach-wearHat",
@@ -945,7 +950,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 366,
+      "Progressed": 368,
       "Completed": 1
     }
   ],
@@ -953,8 +958,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-12-21T00:11:03.1559164+00:00",
+  "LastChanged_Achievements": "2023-12-21T01:55:56.3143807+00:00",
   "LastUpdate_AppInfo": "2023-12-16T13:57:07.0437312+00:00",
-  "LastUpdate_Ratings": "2023-12-21T00:01:09.0434731+00:00",
-  "LastUpdate_Achievements": "2023-12-21T00:11:03.155964+00:00"
+  "LastUpdate_Ratings": "2023-12-21T01:46:09.8830812+00:00",
+  "LastUpdate_Achievements": "2023-12-21T01:55:56.3144289+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "tangles-e99298",
   "Ranking_EOS_Progress": 580,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -122,9 +122,9 @@
       "ID": "CompleteGame",
       "SetID": "ao2gjap",
       "Name": "Final Destination",
-      "Percentage": 58,
+      "Percentage": 62,
       "XP": 200,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Document1",
@@ -192,8 +192,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2023-12-21T00:09:56.223174+00:00",
+  "LastChanged_Achievements": "2023-12-21T01:55:03.3992182+00:00",
   "LastUpdate_AppInfo": "2023-12-17T19:57:03.2997714+00:00",
-  "LastUpdate_Ratings": "2023-12-20T23:57:11.2751653+00:00",
-  "LastUpdate_Achievements": "2023-12-21T00:09:56.2231822+00:00"
+  "LastUpdate_Ratings": "2023-12-21T01:43:10.3332455+00:00",
+  "LastUpdate_Achievements": "2023-12-21T01:55:03.3992262+00:00"
 }

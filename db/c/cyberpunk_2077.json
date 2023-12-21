@@ -2,7 +2,7 @@
   "ID": "77f2b98e2cef40c8a7437518bf420e47",
   "Name": "Cyberpunk 2077",
   "ProductSlug": "cyberpunk-2077",
-  "Ranking_Rating": 296,
+  "Ranking_Rating": 297,
   "Ranking_Popularity": 8,
   "Ranking_PopularitySum": 9,
   "Ranking_EOS_Progress": 16,
@@ -16934,9 +16934,9 @@
       "Count": 16339
     }
   ],
-  "EOS_Progressed": 979289,
+  "EOS_Progressed": 979305,
   "EOS_Completed": 2948,
-  "EOS_NewPlayers": 3760,
+  "EOS_NewPlayers": 3753,
   "EOS_NewCompleters": 48,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -44819,6 +44819,11 @@
       "Time": "2023-12-21T00:07:48.1858481+00:00",
       "NumProgressed": 979289,
       "NumCompleted": 2948
+    },
+    {
+      "Time": "2023-12-21T01:52:13.0215209+00:00",
+      "NumProgressed": 979305,
+      "NumCompleted": 2948
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -44855,7 +44860,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 48964
+      "UsersEstimate": 48965
     },
     {
       "ID": "Denied",
@@ -44863,7 +44868,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 58757
+      "UsersEstimate": 58758
     },
     {
       "ID": "FollowingTheRiver",
@@ -44903,7 +44908,7 @@
       "Name": "Gun Fu",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 78343
+      "UsersEstimate": 78344
     },
     {
       "ID": "Gunslinger",
@@ -44967,7 +44972,7 @@
       "Name": "Must Be Rats",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4896
+      "UsersEstimate": 4897
     },
     {
       "ID": "NeverFadeAway",
@@ -45023,7 +45028,7 @@
       "Name": "Temperance",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4896
+      "UsersEstimate": 4897
     },
     {
       "ID": "ThatIsSoHardForTheKnees",
@@ -45047,7 +45052,7 @@
       "Name": "The Fool",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 68550
+      "UsersEstimate": 68551
     },
     {
       "ID": "TheHermit",
@@ -45071,7 +45076,7 @@
       "Name": "The Lovers",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 48964
+      "UsersEstimate": 48965
     },
     {
       "ID": "TheStar",
@@ -45159,7 +45164,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 117515
+      "UsersEstimate": 117517
     },
     {
       "ID": "YipMan",
@@ -45207,7 +45212,7 @@
       "Name": "The APB is Not Enough",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "Easycomeeasygo",
@@ -45271,7 +45276,7 @@
       "Name": "Relic Ruler",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 3237
+      "UsersEstimate": 3238
     },
     {
       "ID": "UltimateSurvivor",
@@ -45287,7 +45292,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 4316
+      "UsersEstimate": 4317
     },
     {
       "ID": "HydraIsDead",
@@ -45295,7 +45300,7 @@
       "Name": "Judgement Day",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "IHateSpider",
@@ -45303,7 +45308,7 @@
       "Name": "Arachnophobia",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 4316
+      "UsersEstimate": 4317
     },
     {
       "ID": "KingOfTheCups",
@@ -45327,7 +45332,7 @@
       "Name": "King of Swords",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "KingOfTheWands",
@@ -45343,7 +45348,7 @@
       "Name": "The Tower",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "DirtyWork",
@@ -45366,21 +45371,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 979289,
+      "Progressed": 979305,
       "Completed": 2948
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 107912,
+      "Progressed": 107928,
       "Completed": 10426
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-12-21T00:03:25.3878891+00:00",
-  "LastChanged_Achievements": "2023-12-21T00:07:48.1858475+00:00",
+  "LastChanged_Achievements": "2023-12-21T01:52:13.0215206+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:11.4044836+00:00",
-  "LastUpdate_Ratings": "2023-12-21T00:03:25.3878899+00:00",
-  "LastUpdate_Achievements": "2023-12-21T00:07:48.1859956+00:00"
+  "LastUpdate_Ratings": "2023-12-21T01:48:51.5626706+00:00",
+  "LastUpdate_Achievements": "2023-12-21T01:52:13.0217002+00:00"
 }

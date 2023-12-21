@@ -2,13 +2,13 @@
   "ID": "4ec958d5e4b6429aadbc116cee0b6ea0",
   "Name": "Dead Space",
   "ProductSlug": "dead-space",
-  "Ranking_Rating": 296,
-  "Ranking_Popularity": 336,
-  "Ranking_PopularitySum": 438,
+  "Ranking_Rating": 280,
+  "Ranking_Popularity": 332,
+  "Ranking_PopularitySum": 437,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 39,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.66,
+  "Rating": 4.67,
   "RatingHistory": [
     {
       "Time": "2023-01-31T17:57:54.7682729+00:00",
@@ -765,18 +765,24 @@
       "Rating": 4.66,
       "NumberOfAwards": 131,
       "NumberOfAwardsMax": 131
+    },
+    {
+      "Time": "2023-12-21T01:43:48.8899485+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 137,
+      "NumberOfAwardsMax": 137
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 131,
-  "NumberOfAwardsMax": 131,
+  "NumberOfAwards": 137,
+  "NumberOfAwardsMax": 137,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 131
+      "Count": 137
     }
   ],
   "EOS_Progressed": 7300,
@@ -8403,9 +8409,9 @@
   "FirstSeen": "2023-01-27T17:57:20.5533157+00:00",
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
-  "LastChanged": "2023-12-20T15:57:34.1071724+00:00",
+  "LastChanged": "2023-12-21T01:43:48.8899483+00:00",
   "LastChanged_Achievements": "2023-12-21T00:08:39.6967678+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:17.3942462+00:00",
-  "LastUpdate_Ratings": "2023-12-20T23:58:01.8320177+00:00",
+  "LastUpdate_Ratings": "2023-12-21T01:43:48.8899489+00:00",
   "LastUpdate_Achievements": "2023-12-21T00:08:39.6968434+00:00"
 }

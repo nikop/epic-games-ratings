@@ -1017,7 +1017,7 @@
   ],
   "EOS_Progressed": 9521,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -10052,9 +10052,9 @@
       "ID": "ISONZO_ACH_TUTTI_EROI",
       "SetID": "akchbl3",
       "Name": "Tutti Eroi!",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4760
+      "UsersEstimate": 4856
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -10093,8 +10093,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-19T18:00:04.0017242+00:00",
-  "LastChanged_Achievements": "2023-12-21T00:09:35.499054+00:00",
+  "LastChanged_Achievements": "2023-12-21T01:54:47.2869529+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:27.7823002+00:00",
-  "LastUpdate_Ratings": "2023-12-21T00:02:46.5561036+00:00",
-  "LastUpdate_Achievements": "2023-12-21T00:09:35.4991078+00:00"
+  "LastUpdate_Ratings": "2023-12-21T01:46:52.5341191+00:00",
+  "LastUpdate_Achievements": "2023-12-21T01:54:47.2870434+00:00"
 }

@@ -1,43 +1,43 @@
 # Love Is All Around
 [Store](https://store.epicgames.com/en-US/p/love-is-all-around-3a8046)  
 [View Rawdata](../../db/b/b7cca975adbf41e4a41f3ece9e61e08a.json)  
-Rating: 4.75 (Ranked 150)  
+Rating: 4.75 (Ranked 149)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 88.00% | ~12,744 |
-| I Challenge You To Save More Money! | 82.00% | ~11,875 |
-| I Love How Tough You Are | 66.00% | ~9,558 |
-| Wanna Come To My Place For Dinner? | 59.00% | ~8,544 |
-| What I Want Is You | 54.00% | ~7,820 |
-| To Be Or Not To Be | 51.00% | ~7,386 |
-| Are You Alright? | 47.00% | ~6,807 |
-| Love Actually | 42.00% | ~6,082 |
-| Drama King | 37.00% | ~5,358 |
-| Go Clean up In Your Own Way | 34.00% | ~4,924 |
-| You're Really Something Else | 33.00% | ~4,779 |
-| Drama CP: Reel to Real | 32.00% | ~4,634 |
-| Happy Family | 31.00% | ~4,489 |
-| FIRST LOVE | 31.00% | ~4,489 |
-| Worthless Speech | 31.00% | ~4,489 |
-| ONE PUNCH | 30.00% | ~4,345 |
-| Absolutely Elegant | 29.00% | ~4,200 |
-| Still Single | 28.00% | ~4,055 |
-| Go Get Some Fries On The Pier | 26.00% | ~3,765 |
-| Days Of Innocence | 26.00% | ~3,765 |
-| David | 26.00% | ~3,765 |
-| All I Have Is Money | 22.00% | ~3,186 |
-| Lover In Dark Alley | 22.00% | ~3,186 |
-| A Slap In The Face! | 22.00% | ~3,186 |
-| That's So You | 22.00% | ~3,186 |
-| SALUTE | 22.00% | ~3,186 |
-| Let Me Be Your Toy Boy | 21.00% | ~3,041 |
-| Off We Sail Tonight | 16.00% | ~2,317 |
-| Love You Three Thousand | 14.00% | ~2,027 |
-| Can You Do This Or Not? | 14.00% | ~2,027 |
-| Doesn't Matter I'll Handle It | 12.00% | ~1,738 |
-| The Flash | 11.00% | ~1,593 |
-| New Yoga Pose Unlocked | 10.00% | ~1,448 |
+| Last Night...Did We... | 88.00% | ~12,752 |
+| I Challenge You To Save More Money! | 81.00% | ~11,738 |
+| I Love How Tough You Are | 66.00% | ~9,564 |
+| Wanna Come To My Place For Dinner? | 59.00% | ~8,550 |
+| What I Want Is You | 54.00% | ~7,825 |
+| To Be Or Not To Be | 51.00% | ~7,390 |
+| Are You Alright? | 47.00% | ~6,811 |
+| Love Actually | 42.00% | ~6,086 |
+| Drama King | 37.00% | ~5,362 |
+| Go Clean up In Your Own Way | 34.00% | ~4,927 |
+| You're Really Something Else | 33.00% | ~4,782 |
+| Drama CP: Reel to Real | 32.00% | ~4,637 |
+| Happy Family | 31.00% | ~4,492 |
+| FIRST LOVE | 31.00% | ~4,492 |
+| Worthless Speech | 31.00% | ~4,492 |
+| ONE PUNCH | 30.00% | ~4,347 |
+| Absolutely Elegant | 29.00% | ~4,202 |
+| Still Single | 28.00% | ~4,057 |
+| Days Of Innocence | 26.00% | ~3,768 |
+| David | 26.00% | ~3,768 |
+| Go Get Some Fries On The Pier | 25.00% | ~3,623 |
+| All I Have Is Money | 22.00% | ~3,188 |
+| Lover In Dark Alley | 22.00% | ~3,188 |
+| A Slap In The Face! | 22.00% | ~3,188 |
+| That's So You | 22.00% | ~3,188 |
+| SALUTE | 22.00% | ~3,188 |
+| Let Me Be Your Toy Boy | 21.00% | ~3,043 |
+| Off We Sail Tonight | 16.00% | ~2,319 |
+| Love You Three Thousand | 14.00% | ~2,029 |
+| Can You Do This Or Not? | 14.00% | ~2,029 |
+| Doesn't Matter I'll Handle It | 12.00% | ~1,739 |
+| The Flash | 11.00% | ~1,594 |
+| New Yoga Pose Unlocked | 10.00% | ~1,449 |
 | My Dear Love! | 8.00% | ~1,159 |
 | Counting Sheep? | 8.00% | ~1,159 |
 | This Ain't Right In Many Ways... | 8.00% | ~1,159 |
@@ -48,7 +48,7 @@ Rating: 4.75 (Ranked 150)
 | Tall; Grande; Venti | 2.00% | ~290 |
 | Limerence | 2.00% | ~290 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,482 (Ranked 165)  
+Progressed: 14,491 (Ranked 165)  
 Completed: 236 (1.63%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 236 (1.63%) (Ranked 142)
 | 2023-12-18 | 13,914 | 232 |
 | 2023-12-19 | 14,207 | 233 |
 | 2023-12-20 | 14,479 | 236 |
-| 2023-12-21 | 14,482 | 236 |
+| 2023-12-21 | 14,491 | 236 |
 ## Awards
 Max (Impact the Story): 28  (Ranked 519)  
 Sum: 28 (Ranked 533)  

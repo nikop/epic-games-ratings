@@ -4,7 +4,7 @@
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 642,
+  "EOS_Progressed": 643,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -2137,6 +2137,11 @@
       "Time": "2023-12-20T19:09:13.9323033+00:00",
       "NumProgressed": 642,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T01:54:54.1079003+00:00",
+      "NumProgressed": 643,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -2148,7 +2153,7 @@
       "Name": "Travel Streamer",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -2164,7 +2169,7 @@
       "Name": "Guardian",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -2172,7 +2177,7 @@
       "Name": "Nosebleeder",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -2194,9 +2199,9 @@
       "ID": "ACHIEVEMENT_15",
       "SetID": "7pimpda",
       "Name": "Furious Scorpion Killer",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 109
+      "UsersEstimate": 103
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -2236,7 +2241,7 @@
       "Name": "Training Simulation",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -2282,9 +2287,9 @@
       "ID": "ACHIEVEMENT_25",
       "SetID": "7pimpda",
       "Name": "Beginner Artificer",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 244
+      "UsersEstimate": 238
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -2300,7 +2305,7 @@
       "Name": "Fashion Connoisseur",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -2404,7 +2409,7 @@
       "Name": "Storm Traveller",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -2468,7 +2473,7 @@
       "Name": "Wolf King Killer",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -2476,7 +2481,7 @@
       "Name": "Flower Thief",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -2484,7 +2489,7 @@
       "Name": "Apostle of Flame",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -2492,7 +2497,7 @@
       "Name": "Seal Breaker",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -2507,7 +2512,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 642,
+      "Progressed": 643,
       "Completed": 1
     }
   ],
@@ -2515,8 +2520,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-21T00:09:44.208535+00:00",
+  "LastChanged_Achievements": "2023-12-21T01:54:54.1078999+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:00.9363361+00:00",
-  "LastUpdate_Ratings": "2023-12-20T23:57:38.7893864+00:00",
-  "LastUpdate_Achievements": "2023-12-21T00:09:44.2085748+00:00"
+  "LastUpdate_Ratings": "2023-12-21T01:43:31.4731591+00:00",
+  "LastUpdate_Achievements": "2023-12-21T01:54:54.1079592+00:00"
 }

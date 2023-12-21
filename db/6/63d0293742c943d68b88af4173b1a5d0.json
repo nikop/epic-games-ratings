@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 478,
+  "EOS_Progressed": 479,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1499,6 +1499,11 @@
       "Time": "2023-12-20T23:06:10.5301565+00:00",
       "NumProgressed": 478,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T01:52:25.1083182+00:00",
+      "NumProgressed": 479,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -1551,7 +1556,7 @@
       "Name": "Baby\u0027s On Fire",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "9",
@@ -1567,7 +1572,7 @@
       "Name": "Turn a Rat into a Snack",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "REMAKE_002",
@@ -1581,9 +1586,9 @@
       "ID": "REMAKE_004",
       "SetID": "5pi96jj",
       "Name": "I\u0027m Your Daddy",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 287
+      "UsersEstimate": 283
     },
     {
       "ID": "Remake_005",
@@ -1734,14 +1739,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 478,
+      "Progressed": 479,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-21T00:08:03.9555443+00:00",
+  "LastChanged_Achievements": "2023-12-21T01:52:25.1083178+00:00",
   "LastUpdate_AppInfo": "2023-12-19T01:44:23.8086343+00:00",
-  "LastUpdate_Ratings": "2023-12-20T23:59:32.6215968+00:00",
-  "LastUpdate_Achievements": "2023-12-21T00:08:03.9555673+00:00"
+  "LastUpdate_Ratings": "2023-12-21T01:44:57.6218879+00:00",
+  "LastUpdate_Achievements": "2023-12-21T01:52:25.1083443+00:00"
 }

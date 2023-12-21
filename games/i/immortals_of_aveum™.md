@@ -5,30 +5,30 @@ Rating: 4.22 (Ranked 917)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~1,241 |
-| Battlefields Have Memories | 79.00% | ~1,127 |
-| Enlisted | 72.00% | ~1,027 |
-| Maybe Engage a Little | 66.00% | ~942 |
-| No More Names | 47.00% | ~671 |
-| Initiate | 33.00% | ~471 |
-| Thrada-Kul | 29.00% | ~414 |
-| Gravity-Challenged Rocks | 23.00% | ~328 |
-| Socialite | 22.00% | ~314 |
-| Soldier | 19.00% | ~271 |
-| All the Major Food Groups | 18.00% | ~257 |
-| Beggars Would Ride | 16.00% | ~228 |
+| Unforeseen | 87.00% | ~1,245 |
+| Battlefields Have Memories | 79.00% | ~1,130 |
+| Enlisted | 72.00% | ~1,030 |
+| Maybe Engage a Little | 66.00% | ~944 |
+| No More Names | 47.00% | ~673 |
+| Initiate | 33.00% | ~472 |
+| Thrada-Kul | 29.00% | ~415 |
+| Gravity-Challenged Rocks | 23.00% | ~329 |
+| Socialite | 22.00% | ~315 |
+| Soldier | 19.00% | ~272 |
+| All the Major Food Groups | 18.00% | ~258 |
+| Beggars Would Ride | 16.00% | ~229 |
 | Control is an Illusion | 14.00% | ~200 |
-| The Means to Save It | 12.00% | ~171 |
+| The Means to Save It | 12.00% | ~172 |
 | Resilience to Sin | 10.00% | ~143 |
 | A Familiar Nest | 10.00% | ~143 |
-| Geas Aristeya | 9.00% | ~128 |
-| Periapt Alizarin | 9.00% | ~128 |
+| Periapt Alizarin | 10.00% | ~143 |
+| Geas Aristeya | 9.00% | ~129 |
 | A Perfect Cycle | 8.00% | ~114 |
 | Recruit | 8.00% | ~114 |
 | Armsman | 7.00% | ~100 |
-| Lights Army | 5.00% | ~71 |
-| Periapt Cerulean | 5.00% | ~71 |
-| Good Boy | 5.00% | ~71 |
+| Lights Army | 5.00% | ~72 |
+| Periapt Cerulean | 5.00% | ~72 |
+| Good Boy | 5.00% | ~72 |
 | Best Dressed | 4.00% | ~57 |
 | Periapt Viridian | 4.00% | ~57 |
 | Kitted Out | 3.00% | ~43 |
@@ -45,15 +45,15 @@ Rating: 4.22 (Ranked 917)
 | Shroudfane Surveyor | 0.60% | ~9 |
 | Tip of the Spear | 0.60% | ~9 |
 | Backtracker | 0.60% | ~9 |
-| Diplomat | 0.40% | ~6 |
-| Petite Bourgeoisie | 0.40% | ~6 |
-| Witch-Taker | 0.40% | ~6 |
-| Treasure Hunter | 0.40% | ~6 |
+| Diplomat | 0.30% | ~4 |
+| Petite Bourgeoisie | 0.30% | ~4 |
+| Witch-Taker | 0.30% | ~4 |
 | Out of Time | 0.30% | ~4 |
+| Treasure Hunter | 0.30% | ~4 |
 | Family Business | 0.20% | ~3 |
 | Fowl Play | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,427 (Ranked 254)  
+Progressed: 1,431 (Ranked 254)  
 Completed: 2 (0.14%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 2 (0.14%) (Ranked 289)
 | 2023-12-18 | 1,195 | 2 |
 | 2023-12-19 | 1,301 | 2 |
 | 2023-12-20 | 1,423 | 2 |
-| 2023-12-21 | 1,427 | 2 |
+| 2023-12-21 | 1,431 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

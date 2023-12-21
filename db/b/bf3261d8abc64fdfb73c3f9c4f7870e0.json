@@ -2,9 +2,9 @@
   "ID": "bf3261d8abc64fdfb73c3f9c4f7870e0",
   "Name": "Ash of Gods: Redemption",
   "ProductSlug": "ash-of-gods-redemption-e0b97d",
-  "Ranking_EOS_Progress": 539,
+  "Ranking_EOS_Progress": 536,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 298,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-11T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44,
+  "EOS_Progressed": 45,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -224,6 +224,11 @@
       "Time": "2023-12-20T23:09:06.5806739+00:00",
       "NumProgressed": 44,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T01:54:51.0129461+00:00",
+      "NumProgressed": 45,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-11T10:03:42.0552866+00:00",
@@ -234,7 +239,7 @@
       "ID": "achievement_altruism",
       "SetID": "bngbnfb",
       "Name": "Altruist",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -290,7 +295,7 @@
       "ID": "achievement_berserk",
       "SetID": "bngbnfb",
       "Name": "Berserker",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -330,7 +335,7 @@
       "ID": "achievement_egoist",
       "SetID": "bngbnfb",
       "Name": "Egomaniac",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -442,7 +447,7 @@
       "ID": "achievement_last_word",
       "SetID": "bngbnfb",
       "Name": "The last word",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 15,
       "UsersEstimate": 17
     },
@@ -498,7 +503,7 @@
       "ID": "achievement_not_energetic",
       "SetID": "bngbnfb",
       "Name": "Not energetic",
-      "Percentage": 55,
+      "Percentage": 53,
       "XP": 15,
       "UsersEstimate": 24
     },
@@ -506,7 +511,7 @@
       "ID": "achievement_not_risky",
       "SetID": "bngbnfb",
       "Name": "Not a daredevil",
-      "Percentage": 55,
+      "Percentage": 53,
       "XP": 15,
       "UsersEstimate": 24
     },
@@ -635,14 +640,14 @@
     {
       "ID": "bngbnfb",
       "IsBase": true,
-      "Progressed": 44,
+      "Progressed": 45,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-20T21:02:41.8286211+00:00",
   "FirstSeenAchievements": "2023-10-11T10:03:42.0552864+00:00",
-  "LastChanged_Achievements": "2023-12-21T00:09:40.2726883+00:00",
+  "LastChanged_Achievements": "2023-12-21T01:54:51.0129458+00:00",
   "LastUpdate_AppInfo": "2023-12-20T14:57:10.8138963+00:00",
-  "LastUpdate_Ratings": "2023-12-20T23:58:52.2352469+00:00",
-  "LastUpdate_Achievements": "2023-12-21T00:09:40.2727158+00:00"
+  "LastUpdate_Ratings": "2023-12-21T01:44:27.2185871+00:00",
+  "LastUpdate_Achievements": "2023-12-21T01:54:51.0129791+00:00"
 }

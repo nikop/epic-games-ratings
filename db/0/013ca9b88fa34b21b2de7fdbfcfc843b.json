@@ -235,9 +235,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8558,
+  "EOS_Progressed": 8560,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8810,6 +8810,11 @@
       "Time": "2023-12-20T23:10:04.9631191+00:00",
       "NumProgressed": 8558,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T01:55:54.2807021+00:00",
+      "NumProgressed": 8560,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -8916,9 +8921,9 @@
       "ID": "COLLECT_MINERALS",
       "SetID": "9eia0f5",
       "Name": "Miner 49er",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 68
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -9165,13 +9170,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8558,
+      "Progressed": 8560,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1175,
+      "Progressed": 1177,
       "Completed": 1050
     }
   ],
@@ -9179,8 +9184,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-19T16:03:30.9665101+00:00",
-  "LastChanged_Achievements": "2023-12-21T00:11:00.6137638+00:00",
+  "LastChanged_Achievements": "2023-12-21T01:55:54.2807016+00:00",
   "LastUpdate_AppInfo": "2023-12-15T11:57:06.5610357+00:00",
-  "LastUpdate_Ratings": "2023-12-21T00:03:36.1702213+00:00",
-  "LastUpdate_Achievements": "2023-12-21T00:11:00.6138281+00:00"
+  "LastUpdate_Ratings": "2023-12-21T01:48:59.7554485+00:00",
+  "LastUpdate_Achievements": "2023-12-21T01:55:54.2807713+00:00"
 }

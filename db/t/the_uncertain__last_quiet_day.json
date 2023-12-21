@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewPlayers": 392,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -946,9 +946,9 @@
       "ID": "ANNOYING",
       "SetID": "2iigf77",
       "Name": "Annoying",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 114
+      "UsersEstimate": 120
     },
     {
       "ID": "BLADE_RUNNER",
@@ -1018,9 +1018,9 @@
       "ID": "HACKER",
       "SetID": "2iigf77",
       "Name": "Hacker",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 114
+      "UsersEstimate": 120
     },
     {
       "ID": "HANDS_UP",
@@ -1203,8 +1203,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-12-08T04:01:04.3643054+00:00",
-  "LastChanged_Achievements": "2023-12-21T00:10:51.9131068+00:00",
+  "LastChanged_Achievements": "2023-12-21T01:55:47.3304254+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.7016288+00:00",
-  "LastUpdate_Ratings": "2023-12-21T00:00:52.740242+00:00",
-  "LastUpdate_Achievements": "2023-12-21T00:10:51.9131277+00:00"
+  "LastUpdate_Ratings": "2023-12-21T01:45:57.3412445+00:00",
+  "LastUpdate_Achievements": "2023-12-21T01:55:47.330452+00:00"
 }

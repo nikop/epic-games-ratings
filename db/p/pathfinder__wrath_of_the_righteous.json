@@ -4649,9 +4649,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12550,
+  "EOS_Progressed": 12552,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 250,
+  "EOS_NewPlayers": 251,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17494,6 +17494,11 @@
       "Time": "2023-12-20T21:10:08.908693+00:00",
       "NumProgressed": 12550,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T01:55:54.6086556+00:00",
+      "NumProgressed": 12552,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -17505,7 +17510,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3388
+      "UsersEstimate": 3389
     },
     {
       "ID": "02_BurningCity",
@@ -17593,7 +17598,7 @@
       "Name": "Path of the Trickster",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "13_PathOfLich",
@@ -17601,7 +17606,7 @@
       "Name": "Path of the Lich",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "14_PathOfSwarm",
@@ -17641,7 +17646,7 @@
       "Name": "Mythic Choices",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1882
+      "UsersEstimate": 1883
     },
     {
       "ID": "19_EqualToAroden",
@@ -17729,7 +17734,7 @@
       "Name": "Heroic Victory",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "31_DivideAndRule",
@@ -17761,7 +17766,7 @@
       "Name": "Capitulation Is Now Moot",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "35_AbyssalConspiracy",
@@ -17777,7 +17782,7 @@
       "Name": "Core of the Riddle",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "37_FirstBigEnemy",
@@ -17873,7 +17878,7 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2384
+      "UsersEstimate": 2385
     },
     {
       "ID": "49_Flame",
@@ -18432,21 +18437,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11332,
+      "Progressed": 11334,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12550,
+      "Progressed": 12552,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-20T12:57:52.3940671+00:00",
-  "LastChanged_Achievements": "2023-12-21T00:11:01.1644801+00:00",
+  "LastChanged_Achievements": "2023-12-21T01:55:54.6086552+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.7532096+00:00",
-  "LastUpdate_Ratings": "2023-12-20T23:58:12.4553226+00:00",
-  "LastUpdate_Achievements": "2023-12-21T00:11:01.1646358+00:00"
+  "LastUpdate_Ratings": "2023-12-21T01:43:56.9232784+00:00",
+  "LastUpdate_Achievements": "2023-12-21T01:55:54.608813+00:00"
 }

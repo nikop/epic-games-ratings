@@ -2,10 +2,10 @@
   "ID": "aa192fc2c63f4db5b9faf193acc807e1",
   "Name": "Creepy Tale",
   "ProductSlug": "creepy-tale-058ebd",
-  "Ranking_EOS_Progress": 428,
-  "Ranking_EOS_Completed": 66,
+  "Ranking_EOS_Progress": 427,
+  "Ranking_EOS_Completed": 67,
   "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2021-02-21T17:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 141,
+  "EOS_Progressed": 142,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 6.38,
+  "EOS_Completed_Percentage": 6.34,
   "EosHistory": [
     {
       "Time": "2023-10-22T10:08:20.3379882+00:00",
@@ -644,6 +644,11 @@
       "Time": "2023-12-20T21:10:02.4840358+00:00",
       "NumProgressed": 141,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-21T01:55:47.5151193+00:00",
+      "NumProgressed": 142,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-10-22T10:08:20.3379913+00:00",
@@ -656,23 +661,23 @@
       "Name": "Follow to the brother",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "creepytaleach10",
       "SetID": "bnif31p",
       "Name": "Intuition",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 75,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "creepytaleach11",
       "SetID": "bnif31p",
       "Name": "Alchemist",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 75,
-      "UsersEstimate": 78
+      "UsersEstimate": 80
     },
     {
       "ID": "creepytaleach12",
@@ -696,23 +701,23 @@
       "Name": "Naivety",
       "Percentage": 35,
       "XP": 75,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "creepytaleach3",
       "SetID": "bnif31p",
       "Name": "Happy end",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 75,
-      "UsersEstimate": 56
+      "UsersEstimate": 55
     },
     {
       "ID": "creepytaleach4",
       "SetID": "bnif31p",
       "Name": "Dominance",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 80,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "creepytaleach5",
@@ -720,7 +725,7 @@
       "Name": "Incorrigible researcher",
       "Percentage": 35,
       "XP": 75,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "creepytaleach6",
@@ -734,39 +739,39 @@
       "ID": "creepytaleach7",
       "SetID": "bnif31p",
       "Name": "Crazy chef",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 80,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "creepytaleach8",
       "SetID": "bnif31p",
       "Name": "Fake tune",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 75,
-      "UsersEstimate": 63
+      "UsersEstimate": 65
     },
     {
       "ID": "creepytaleach9",
       "SetID": "bnif31p",
       "Name": "Idler",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 75,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     }
   ],
   "AchievementSets": [
     {
       "ID": "bnif31p",
       "IsBase": true,
-      "Progressed": 141,
+      "Progressed": 142,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2023-12-21T00:10:52.1565523+00:00",
+  "LastChanged_Achievements": "2023-12-21T01:55:47.515119+00:00",
   "LastUpdate_AppInfo": "2023-12-20T07:56:51.7348534+00:00",
-  "LastUpdate_Ratings": "2023-12-21T00:02:38.7789176+00:00",
-  "LastUpdate_Achievements": "2023-12-21T00:10:52.1565636+00:00"
+  "LastUpdate_Ratings": "2023-12-21T01:46:46.6225293+00:00",
+  "LastUpdate_Achievements": "2023-12-21T01:55:47.5151319+00:00"
 }

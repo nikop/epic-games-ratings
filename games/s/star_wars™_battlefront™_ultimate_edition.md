@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 88.00% | ~1,713 |
-| Off to a good start | 64.00% | ~1,246 |
-| Do... or do not. There is no try | 51.00% | ~993 |
-| A good blaster at your side | 28.00% | ~545 |
-| I suggest a new strategy | 18.00% | ~350 |
-| Scrap collector | 17.00% | ~331 |
-| Great shot, kid! | 17.00% | ~331 |
+| New Recruit | 88.00% | ~1,716 |
+| Off to a good start | 64.00% | ~1,248 |
+| Do... or do not. There is no try | 51.00% | ~994 |
+| A good blaster at your side | 28.00% | ~546 |
+| I suggest a new strategy | 18.00% | ~351 |
+| Scrap collector | 17.00% | ~332 |
+| Great shot, kid! | 17.00% | ~332 |
 | All right, I'll give it a try | 16.00% | ~312 |
 | Shoot first | 14.00% | ~273 |
-| The power of the Force | 13.00% | ~253 |
-| Collector | 13.00% | ~253 |
+| The power of the Force | 13.00% | ~254 |
+| Collector | 13.00% | ~254 |
 | Together we can rule the galaxy | 12.00% | ~234 |
-| Tell Jabba that I've got his money | 9.00% | ~175 |
-| Best star-pilot in the galaxy | 9.00% | ~175 |
+| Tell Jabba that I've got his money | 9.00% | ~176 |
+| Best star-pilot in the galaxy | 9.00% | ~176 |
 | Never tell me the odds! | 8.00% | ~156 |
 | Survivor | 8.00% | ~156 |
 | What's the cargo? | 7.00% | ~136 |
 | A cunning warrior | 7.00% | ~136 |
 | Judge me by my size, do you? | 6.00% | ~117 |
-| "Gonk? Gonk!" | 5.00% | ~97 |
-| Distinguished | 5.00% | ~97 |
-| Impressive. Most impressive. | 5.00% | ~97 |
-| Support the troops | 5.00% | ~97 |
+| "Gonk? Gonk!" | 5.00% | ~98 |
+| Distinguished | 5.00% | ~98 |
+| Impressive. Most impressive. | 5.00% | ~98 |
+| Support the troops | 5.00% | ~98 |
 | A tremor in the Force | 4.00% | ~78 |
 | Safety ain't the point of a joyride | 4.00% | ~78 |
 | Not bad for a little furball | 4.00% | ~78 |
@@ -43,14 +43,14 @@
 | That's no moon | 2.00% | ~39 |
 | What will you become? | 2.00% | ~39 |
 | Disturbed tranquility | 2.00% | ~39 |
-| Hold the line! | 1.00% | ~19 |
-| Playing the objective | 1.00% | ~19 |
-| Ackbar's Elite | 1.00% | ~19 |
-| This is a new day, a new beginning | 1.00% | ~19 |
-| You have your moments | 1.00% | ~19 |
-| Alternative solution | 1.00% | ~19 |
-| Onwards! | 1.00% | ~19 |
-| The circle is now complete | 1.00% | ~19 |
+| Hold the line! | 1.00% | ~20 |
+| Playing the objective | 1.00% | ~20 |
+| Ackbar's Elite | 1.00% | ~20 |
+| This is a new day, a new beginning | 1.00% | ~20 |
+| You have your moments | 1.00% | ~20 |
+| Alternative solution | 1.00% | ~20 |
+| Onwards! | 1.00% | ~20 |
+| The circle is now complete | 1.00% | ~20 |
 | When surrounded by war... | 0.90% | ~18 |
 | A New Hope | 0.80% | ~16 |
 | Walker defender | 0.80% | ~16 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~4 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,947 (Ranked 237)  
+Progressed: 1,950 (Ranked 237)  
 Completed: 1 (0.05%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 1 (0.05%) (Ranked 332)
 | 2023-12-18 | 1,882 | 1 |
 | 2023-12-19 | 1,913 | 1 |
 | 2023-12-20 | 1,946 | 1 |
-| 2023-12-21 | 1,947 | 1 |
+| 2023-12-21 | 1,950 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

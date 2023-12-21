@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 821,
+  "EOS_Progressed": 822,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
@@ -3562,6 +3562,11 @@
       "Time": "2023-12-20T23:09:29.6572831+00:00",
       "NumProgressed": 821,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T01:55:16.4413656+00:00",
+      "NumProgressed": 822,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -3747,9 +3752,9 @@
       "ID": "OpenRestaurant",
       "SetID": "d1bm05f",
       "Name": "The Big Day",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 517
+      "UsersEstimate": 526
     },
     {
       "ID": "Packing20",
@@ -3773,7 +3778,7 @@
       "Name": "Home Cook",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "RecipeDifferent30",
@@ -3797,7 +3802,7 @@
       "Name": "S is for Scrumptious",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ServiceMaxClient",
@@ -3892,7 +3897,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 821,
+      "Progressed": 822,
       "Completed": 0
     }
   ],
@@ -3900,8 +3905,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-12-21T00:10:12.5900993+00:00",
+  "LastChanged_Achievements": "2023-12-21T01:55:16.4413652+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:31.9021331+00:00",
-  "LastUpdate_Ratings": "2023-12-20T23:59:25.159854+00:00",
-  "LastUpdate_Achievements": "2023-12-21T00:10:12.59015+00:00"
+  "LastUpdate_Ratings": "2023-12-21T01:44:52.2354309+00:00",
+  "LastUpdate_Achievements": "2023-12-21T01:55:16.441415+00:00"
 }

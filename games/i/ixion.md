@@ -1,7 +1,7 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.58 (Ranked 455)  
+Rating: 4.58 (Ranked 456)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,9 +9,9 @@ Rating: 4.58 (Ranked 455)
 | Sputnik 2049 | 27.00% | ~974 |
 | Without Breaking Some Eggs... | 25.00% | ~902 |
 | Infinite Growth... | 25.00% | ~902 |
+| A Thousand Strong | 18.00% | ~649 |
 | Ready for a New World | 18.00% | ~649 |
 | Space Society | 17.00% | ~613 |
-| A Thousand Strong | 17.00% | ~613 |
 | Permanent Redesigns | 15.00% | ~541 |
 | Fully Recycled | 14.00% | ~505 |
 | Ain't Nobody Got Time for That | 14.00% | ~505 |

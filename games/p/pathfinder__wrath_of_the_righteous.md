@@ -6,11 +6,11 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,388 |
-| A Spark | 19.00% | ~2,384 |
+| Devoured by Darkness | 27.00% | ~3,389 |
+| A Spark | 19.00% | ~2,385 |
 | Burning City | 18.00% | ~2,259 |
 | Defender's Heart | 16.00% | ~2,008 |
-| Mythic Choices | 15.00% | ~1,882 |
+| Mythic Choices | 15.00% | ~1,883 |
 | Banner over the Citadel | 14.00% | ~1,757 |
 | Queen's Gratitude | 12.00% | ~1,506 |
 | Fifth Crusade | 9.00% | ~1,130 |
@@ -30,11 +30,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | Divide and Rule | 4.00% | ~502 |
 | Mythic Reinforcements | 4.00% | ~502 |
 | Hey, I Know You! | 4.00% | ~502 |
-| Path of the Trickster | 3.00% | ~376 |
-| Path of the Lich | 3.00% | ~376 |
-| Heroic Victory | 3.00% | ~376 |
-| Capitulation Is Now Moot | 3.00% | ~376 |
-| Core of the Riddle | 3.00% | ~376 |
+| Path of the Trickster | 3.00% | ~377 |
+| Path of the Lich | 3.00% | ~377 |
+| Heroic Victory | 3.00% | ~377 |
+| Capitulation Is Now Moot | 3.00% | ~377 |
+| Core of the Riddle | 3.00% | ~377 |
 | Hanged Man's Notes | 3.00% | ~340 |
 | Sarkoris Will Be Green | 3.00% | ~340 |
 | The Lady of the Forest | 3.00% | ~340 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,550 (Ranked 168)  
+Progressed: 12,552 (Ranked 168)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -368,6 +368,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 12,490 | 0 |
 | 2023-12-19 | 12,526 | 0 |
 | 2023-12-20 | 12,550 | 0 |
+| 2023-12-21 | 12,552 | 0 |
 ## Awards
 Max (Character Customization): 1,763  (Ranked 124)  
 Sum: 7,153 (Ranked 123)  

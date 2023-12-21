@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 432,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -278,7 +278,7 @@
   ],
   "EOS_Progressed": 139,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -859,7 +859,7 @@
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
       "SetID": "4n84pon",
       "Name": "Ultimate Smoothie",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -931,9 +931,9 @@
       "ID": "ACH_COMPLETE_OJ01",
       "SetID": "4n84pon",
       "Name": "Transmitting From Sol-3",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_COP_THROUGH_DONUT",
@@ -995,9 +995,9 @@
       "ID": "ACH_ENTER_SOLARIS",
       "SetID": "4n84pon",
       "Name": "Fly Me to the Moon Base",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_ENTER_TAKOSHIMA",
@@ -1019,9 +1019,9 @@
       "ID": "ACH_KILL_BONGWATER",
       "SetID": "4n84pon",
       "Name": "Bodied Sattva",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -1083,9 +1083,9 @@
       "ID": "ACH_KILL_YETI",
       "SetID": "4n84pon",
       "Name": "Yettisoned",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_OBJECTIVES_COMPLETEDALLOPTIONAL",
@@ -1187,9 +1187,9 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "4n84pon",
       "Name": "Shop Til They Drop",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1212,8 +1212,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-21T00:09:24.6360183+00:00",
+  "LastChanged_Achievements": "2023-12-21T01:54:38.989764+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:43.3974092+00:00",
-  "LastUpdate_Ratings": "2023-12-20T23:59:00.0518454+00:00",
-  "LastUpdate_Achievements": "2023-12-21T00:09:24.6360448+00:00"
+  "LastUpdate_Ratings": "2023-12-21T01:44:33.0761191+00:00",
+  "LastUpdate_Achievements": "2023-12-21T01:54:38.9898038+00:00"
 }
