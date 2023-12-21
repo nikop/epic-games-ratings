@@ -10,15 +10,15 @@ Number of Ratings: 1,845  (23.09.2022)
 | Abandoned Settlement | 5.00% | ~939 |
 | Petrified Necropolis | 5.00% | ~939 |
 | Taking Action | 4.00% | ~751 |
+| Frosts | 4.00% | ~751 |
 | Ominous Presence | 4.00% | ~751 |
 | Gathering Storm | 4.00% | ~751 |
-| First Real Expedition | 3.00% | ~563 |
-| Overcoming Difficulty | 3.00% | ~563 |
-| Coral Forest | 3.00% | ~563 |
-| The Marshlands | 3.00% | ~563 |
-| No Deaths | 3.00% | ~563 |
-| Frosts | 3.00% | ~563 |
-| Land of Greed | 3.00% | ~563 |
+| First Real Expedition | 3.00% | ~564 |
+| Overcoming Difficulty | 3.00% | ~564 |
+| Coral Forest | 3.00% | ~564 |
+| The Marshlands | 3.00% | ~564 |
+| No Deaths | 3.00% | ~564 |
+| Land of Greed | 3.00% | ~564 |
 | Homesick | 2.00% | ~376 |
 | Fertile Meadows | 2.00% | ~376 |
 | Royal Outpost | 2.00% | ~376 |
@@ -41,8 +41,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Haunted Forest | 0.90% | ~169 |
 | Flooded Mines | 0.90% | ~169 |
 | Against All Odds | 0.80% | ~150 |
-| Serving Ale | 0.70% | ~131 |
-| Defying the Crown | 0.70% | ~131 |
+| Serving Ale | 0.70% | ~132 |
+| Defying the Crown | 0.70% | ~132 |
 | Fishmen Ritual Site | 0.60% | ~113 |
 | Victory Through Prosperity | 0.60% | ~113 |
 | Into the Forest | 0.60% | ~113 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,783 (Ranked 148)  
+Progressed: 18,787 (Ranked 148)  
 Completed: 39 (0.21%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 39 (0.21%) (Ranked 269)
 | 2023-12-18 | 18,615 | 39 |
 | 2023-12-19 | 18,687 | 39 |
 | 2023-12-20 | 18,771 | 39 |
-| 2023-12-21 | 18,783 | 39 |
+| 2023-12-21 | 18,787 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 228)  
 Sum: 3,274 (Ranked 175)  

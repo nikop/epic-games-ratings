@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1950,
+  "EOS_Progressed": 1951,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 250,
+  "EOS_NewPlayers": 251,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5734,6 +5734,11 @@
       "Time": "2023-12-21T01:55:56.8770194+00:00",
       "NumProgressed": 1950,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T03:09:36.3685998+00:00",
+      "NumProgressed": 1951,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -5778,7 +5783,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "achievement_14",
@@ -5802,7 +5807,7 @@
       "Name": "I\u0027ve been waiting for you",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "achievement_17",
@@ -5898,7 +5903,7 @@
       "Name": "Your journey has only started",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "achievement_28",
@@ -5914,7 +5919,7 @@
       "Name": "On the ball",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "achievement_3",
@@ -5970,7 +5975,7 @@
       "Name": "New Recruit",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1716
+      "UsersEstimate": 1717
     },
     {
       "ID": "achievement_36",
@@ -5986,7 +5991,7 @@
       "Name": "Off to a good start",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "achievement_38",
@@ -6018,7 +6023,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "achievement_41",
@@ -6066,7 +6071,7 @@
       "Name": "Patience you must have",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "achievement_47",
@@ -6226,7 +6231,7 @@
       "Name": "A cunning warrior",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "achievement_8",
@@ -6234,7 +6239,7 @@
       "Name": "Don\u0027t underestimate the Force",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "achievement_9",
@@ -6249,13 +6254,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1950,
+      "Progressed": 1951,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1950,
+      "Progressed": 1951,
       "Completed": 1
     }
   ],
@@ -6263,8 +6268,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-21T02:31:04.9045297+00:00",
+  "LastChanged_Achievements": "2023-12-21T03:09:36.3685995+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.5169818+00:00",
-  "LastUpdate_Ratings": "2023-12-21T02:19:13.5364432+00:00",
-  "LastUpdate_Achievements": "2023-12-21T02:31:04.904596+00:00"
+  "LastUpdate_Ratings": "2023-12-21T02:57:52.1541021+00:00",
+  "LastUpdate_Achievements": "2023-12-21T03:09:36.3686827+00:00"
 }

@@ -58,6 +58,7 @@ Number of Ratings: 371  (23.09.2022)
 | Unstable Immaterium | 0.20% | ~7 |
 | Phalanx | 0.20% | ~7 |
 | Strategic Command | 0.20% | ~7 |
+| Deadshot | 0.20% | ~7 |
 | Terminal Meltdown | 0.20% | ~7 |
 | Arsenal of Destruction | 0.10% | ~3 |
 | Crisis Management | 0.10% | ~3 |
@@ -70,7 +71,6 @@ Number of Ratings: 371  (23.09.2022)
 | Brothers in Arms | 0.10% | ~3 |
 | Firing Squad | 0.10% | ~3 |
 | Not a Mote of Corruption | 0.10% | ~3 |
-| Deadshot | 0.10% | ~3 |
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
@@ -292,8 +292,8 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-21 | 3,496 | 0 |
 ## Awards
 Max (Character Customization): 229  (Ranked 278)  
-Sum: 490 (Ranked 334)  
-Diff (max vs sum): -56  
+Sum: 490 (Ranked 333)  
+Diff (max vs sum): -55  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 229 |

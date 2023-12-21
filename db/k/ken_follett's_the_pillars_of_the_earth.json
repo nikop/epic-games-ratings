@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17223,
+  "EOS_Progressed": 17224,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -16595,6 +16595,11 @@
       "Time": "2023-12-21T01:50:44.8442658+00:00",
       "NumProgressed": 17223,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-12-21T03:04:32.409377+00:00",
+      "NumProgressed": 17224,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 41,
@@ -16622,7 +16627,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3961
+      "UsersEstimate": 3962
     },
     {
       "ID": "tpote_achievement_12",
@@ -16870,7 +16875,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6889
+      "UsersEstimate": 6890
     },
     {
       "ID": "tpote_achievement_40",
@@ -16902,7 +16907,7 @@
       "Name": "Full house",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3961
+      "UsersEstimate": 3962
     },
     {
       "ID": "tpote_achievement_7",
@@ -16933,15 +16938,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17223,
+      "Progressed": 17224,
       "Completed": 119
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2023-12-21T02:25:57.9826922+00:00",
+  "LastChanged_Achievements": "2023-12-21T03:04:32.4093766+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:13.9933566+00:00",
-  "LastUpdate_Ratings": "2023-12-21T02:20:41.7536979+00:00",
-  "LastUpdate_Achievements": "2023-12-21T02:25:57.9827719+00:00"
+  "LastUpdate_Ratings": "2023-12-21T02:59:19.5325006+00:00",
+  "LastUpdate_Achievements": "2023-12-21T03:04:32.4094535+00:00"
 }

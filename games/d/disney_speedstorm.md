@@ -5,15 +5,15 @@ Rating: 4.40 (Ranked 747)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 12.00% | ~41,863 |
-| IT MAKES BOOM! | 8.00% | ~27,909 |
-| EXTRA BOOST | 6.00% | ~20,932 |
-| PROTECTED | 5.00% | ~17,443 |
-| HERE ARE SOME BARE NECESSITIES | 4.00% | ~13,954 |
-| PRO | 4.00% | ~13,954 |
-| AGGRESSIVE RACER | 3.00% | ~10,466 |
-| IT'S A LONG WAY TO THE TOP | 2.00% | ~6,977 |
-| A TIGER'S FEAR | 2.00% | ~6,977 |
+| ROOKIE | 12.00% | ~41,870 |
+| IT MAKES BOOM! | 8.00% | ~27,913 |
+| EXTRA BOOST | 6.00% | ~20,935 |
+| PROTECTED | 5.00% | ~17,446 |
+| HERE ARE SOME BARE NECESSITIES | 4.00% | ~13,957 |
+| PRO | 4.00% | ~13,957 |
+| AGGRESSIVE RACER | 3.00% | ~10,467 |
+| IT'S A LONG WAY TO THE TOP | 2.00% | ~6,978 |
+| A TIGER'S FEAR | 2.00% | ~6,978 |
 | TRAINING HARD | 1.00% | ~3,489 |
 | RELEASE THE KRAKEN | 1.00% | ~3,489 |
 | BE OUR GUEST | 1.00% | ~3,489 |
@@ -27,11 +27,11 @@ Rating: 4.40 (Ranked 747)
 | EXPERIENCED CREW | 0.80% | ~2,791 |
 | ACE BRAWLER | 0.80% | ~2,791 |
 | FRAMED! | 0.60% | ~2,093 |
-| PERFECTLY POISED | 0.50% | ~1,744 |
-| ACE TRICKSTER | 0.50% | ~1,744 |
+| PERFECTLY POISED | 0.50% | ~1,745 |
+| ACE TRICKSTER | 0.50% | ~1,745 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 348,861 (Ranked 50)  
-Completed: 1,001 (0.29%) (Ranked 252)  
+Progressed: 348,916 (Ranked 50)  
+Completed: 1,002 (0.29%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -271,10 +271,10 @@ Completed: 1,001 (0.29%) (Ranked 252)
 | 2023-12-18 | 345,440 | 949 |
 | 2023-12-19 | 346,758 | 975 |
 | 2023-12-20 | 348,507 | 995 |
-| 2023-12-21 | 348,861 | 1,001 |
+| 2023-12-21 | 348,916 | 1,002 |
 ## Awards
 Max (Great for Beginners): 147  (Ranked 323)  
-Sum: 947 (Ranked 272)  
+Sum: 948 (Ranked 272)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
@@ -289,7 +289,7 @@ Diff (max vs sum): 51
 | This game has Competitive Players | 60 |
 | This game has Quickly Understood Controls | 54 |
 | This game is Relaxing | 52 |
-| This game has Amazing Storytelling | 50 |
+| This game has Amazing Storytelling | 51 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -374,4 +374,4 @@ Diff (max vs sum): 51
 | 2023-12-18 | 4.40 | 142 | 926 |
 | 2023-12-19 | 4.40 | 142 | 930 |
 | 2023-12-20 | 4.40 | 147 | 946 |
-| 2023-12-21 | 4.40 | 147 | 947 |
+| 2023-12-21 | 4.40 | 147 | 948 |

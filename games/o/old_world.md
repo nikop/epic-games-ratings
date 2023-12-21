@@ -181,6 +181,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Points Victory | 0.10% | ~16 |
 | Randomized Leaders | 0.10% | ~16 |
 | Role-Playing | 0.10% | ~16 |
+| Necropolis in Waset | 0.10% | ~16 |
 | Win a Hotseat Game | 0.10% | ~16 |
 | Win a Single Player Game | 0.10% | ~16 |
 | The Clergy | 0.10% | ~16 |
@@ -296,7 +297,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | One City Challenge | 0.00% | ~0 |
 | Randomized Families | 0.00% | ~0 |
 | Time Victory | 0.00% | ~0 |
-| Necropolis in Waset | 0.00% | ~0 |
 | Win a 1-v-1 Game | 0.00% | ~0 |
 | Win a Free-For-All Game (>2 Players) | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |

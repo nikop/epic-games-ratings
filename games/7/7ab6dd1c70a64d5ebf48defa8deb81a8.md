@@ -14,9 +14,9 @@
 | Shatter Them All | 16.00% | ~150 |
 | Geared Up | 16.00% | ~150 |
 | Scholar | 15.00% | ~141 |
-| Tributes of Caladrias | 14.00% | ~131 |
-| Fashion Victim | 14.00% | ~131 |
-| Stone Collection | 14.00% | ~131 |
+| Tributes of Caladrias | 14.00% | ~132 |
+| Fashion Victim | 14.00% | ~132 |
+| Stone Collection | 14.00% | ~132 |
 | Powerful Allies | 12.00% | ~113 |
 | Big Bazar | 9.00% | ~85 |
 | Essence Blow | 8.00% | ~75 |
@@ -41,7 +41,7 @@
 | All That Gold | 0.60% | ~6 |
 | Feeling Fancy | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 939 (Ranked 280)  
+Progressed: 940 (Ranked 280)  
 Completed: 3 (0.32%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,4 +111,4 @@ Completed: 3 (0.32%) (Ranked 245)
 | 2023-12-18 | 818 | 3 |
 | 2023-12-19 | 881 | 3 |
 | 2023-12-20 | 928 | 3 |
-| 2023-12-21 | 939 | 3 |
+| 2023-12-21 | 940 | 3 |

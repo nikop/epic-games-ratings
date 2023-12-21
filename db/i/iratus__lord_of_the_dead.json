@@ -2431,9 +2431,9 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 47412,
+  "EOS_Progressed": 47413,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 513,
+  "EOS_NewPlayers": 512,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -28996,6 +28996,11 @@
       "Time": "2023-12-21T02:26:23.3300007+00:00",
       "NumProgressed": 47412,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-12-21T03:04:56.996449+00:00",
+      "NumProgressed": 47413,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 75,
@@ -29007,7 +29012,7 @@
       "Name": "That Was Easy!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 9482
+      "UsersEstimate": 9483
     },
     {
       "ID": "achievements_10",
@@ -29063,7 +29068,7 @@
       "Name": "Mad Genius",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 16594
+      "UsersEstimate": 16595
     },
     {
       "ID": "achievements_19",
@@ -29071,7 +29076,7 @@
       "Name": "Bane of Monsters",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 13275
+      "UsersEstimate": 13276
     },
     {
       "ID": "achievements_2",
@@ -29111,7 +29116,7 @@
       "Name": "Chainbreaker - I",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 28447
+      "UsersEstimate": 28448
     },
     {
       "ID": "achievements_24",
@@ -29127,7 +29132,7 @@
       "Name": "Chainbreaker - III",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 13275
+      "UsersEstimate": 13276
     },
     {
       "ID": "achievements_26",
@@ -29199,7 +29204,7 @@
       "Name": "Cannon Fodder - II",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 13749
+      "UsersEstimate": 13750
     },
     {
       "ID": "achievements_34",
@@ -29263,7 +29268,7 @@
       "Name": "Silent Waters",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 9482
+      "UsersEstimate": 9483
     },
     {
       "ID": "achievements_41",
@@ -29303,7 +29308,7 @@
       "Name": "Legendary Warrior",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 5689
+      "UsersEstimate": 5690
     },
     {
       "ID": "achievements_46",
@@ -29311,7 +29316,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 40300
+      "UsersEstimate": 40301
     },
     {
       "ID": "achievements_47",
@@ -29351,7 +29356,7 @@
       "Name": "Master of Destruction",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1896
+      "UsersEstimate": 1897
     },
     {
       "ID": "achievements_51",
@@ -29383,7 +29388,7 @@
       "Name": "Distillation",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 20387
+      "UsersEstimate": 20388
     },
     {
       "ID": "achievements_55",
@@ -29439,7 +29444,7 @@
       "Name": "Head of Order",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 9482
+      "UsersEstimate": 9483
     },
     {
       "ID": "achievements_62",
@@ -29591,7 +29596,7 @@
       "Name": "Shadow Between Worlds",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 13749
+      "UsersEstimate": 13750
     },
     {
       "ID": "achievements_9",
@@ -29606,15 +29611,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 47412,
+      "Progressed": 47413,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-12-20T21:57:13.6373089+00:00",
-  "LastChanged_Achievements": "2023-12-21T02:26:23.3300005+00:00",
+  "LastChanged_Achievements": "2023-12-21T03:04:56.9964483+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:51.7463976+00:00",
-  "LastUpdate_Ratings": "2023-12-21T02:18:29.3521622+00:00",
-  "LastUpdate_Achievements": "2023-12-21T02:26:23.3301652+00:00"
+  "LastUpdate_Ratings": "2023-12-21T02:57:08.6698962+00:00",
+  "LastUpdate_Achievements": "2023-12-21T03:04:56.9966031+00:00"
 }

@@ -6,20 +6,20 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 73.00% | ~41,579 |
-| I read Shakespeare and stuff | 61.00% | ~34,744 |
-| Just a sprinkle | 60.00% | ~34,174 |
-| I'm stumped | 58.00% | ~33,035 |
-| Plant get enough | 58.00% | ~33,035 |
-| This is just my weekend vehicle | 56.00% | ~31,896 |
-| It's just the beginning | 56.00% | ~31,896 |
-| Hard work pays off | 51.00% | ~29,048 |
-| It's never too late to farm | 48.00% | ~27,339 |
+| Own use | 73.00% | ~41,580 |
+| I read Shakespeare and stuff | 61.00% | ~34,745 |
+| Just a sprinkle | 60.00% | ~34,175 |
+| I'm stumped | 58.00% | ~33,036 |
+| Plant get enough | 58.00% | ~33,036 |
+| This is just my weekend vehicle | 56.00% | ~31,897 |
+| It's just the beginning | 56.00% | ~31,897 |
+| Hard work pays off | 51.00% | ~29,049 |
+| It's never too late to farm | 48.00% | ~27,340 |
 | All out of Land | 43.00% | ~24,492 |
-| Field Trip | 41.00% | ~23,352 |
+| Field Trip | 41.00% | ~23,353 |
 | I like to switch it up | 38.00% | ~21,644 |
-| Help me to help you | 37.00% | ~21,074 |
-| Ultimutt Pawesomeness | 27.00% | ~15,378 |
+| Help me to help you | 37.00% | ~21,075 |
+| Ultimutt Pawesomeness | 27.00% | ~15,379 |
 | Van Gogh | 24.00% | ~13,670 |
 | You wood not believe it | 21.00% | ~11,961 |
 | Vehicle fleet | 21.00% | ~11,961 |
@@ -35,7 +35,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | Highly cultivated | 10.00% | ~5,696 |
 | Giddy-up! | 9.00% | ~5,126 |
 | Cowherd | 7.00% | ~3,987 |
-| Fluffyness | 6.00% | ~3,417 |
+| Fluffyness | 6.00% | ~3,418 |
 | Road Trip | 5.00% | ~2,848 |
 | Helper A does not stop … ever | 5.00% | ~2,848 |
 | Bringing in the Honey | 5.00% | ~2,848 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~228 |
 | Raisin the stakes | 0.30% | ~171 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,957 (Ranked 116)  
+Progressed: 56,959 (Ranked 116)  
 Completed: 6 (0.01%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 6 (0.01%) (Ranked 361)
 | 2023-12-18 | 56,619 | 6 |
 | 2023-12-19 | 56,788 | 6 |
 | 2023-12-20 | 56,940 | 6 |
-| 2023-12-21 | 56,957 | 6 |
+| 2023-12-21 | 56,959 | 6 |
 ## Awards
 Max (Great for Beginners): 5,859  (Ranked 66)  
 Sum: 44,422 (Ranked 34)  

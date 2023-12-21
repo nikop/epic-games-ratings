@@ -5,11 +5,11 @@ Rating: 4.56 (Ranked 498)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 91.00% | ~93 |
-| Map reader | 72.00% | ~73 |
-| Philanthropist | 66.00% | ~67 |
-| Adventurer | 66.00% | ~67 |
-| Archer | 50.00% | ~51 |
+| Beginner | 90.00% | ~93 |
+| Map reader | 71.00% | ~73 |
+| Philanthropist | 65.00% | ~67 |
+| Adventurer | 65.00% | ~67 |
+| Archer | 50.00% | ~52 |
 | The brave little tailor | 49.00% | ~50 |
 | Field hand | 42.00% | ~43 |
 | Samaritan | 40.00% | ~41 |
@@ -18,21 +18,21 @@ Rating: 4.56 (Ranked 498)
 | Ladies' man | 36.00% | ~37 |
 | Ferocious wild boars | 29.00% | ~30 |
 | Idiot | 27.00% | ~28 |
-| Beast slayer | 24.00% | ~24 |
-| Family man | 22.00% | ~22 |
-| Death of a legend | 22.00% | ~22 |
-| Archaeologist | 22.00% | ~22 |
-| Ogre friend | 21.00% | ~21 |
-| The fourth triplet | 21.00% | ~21 |
-| Sidelined | 21.00% | ~21 |
-| Wise man | 20.00% | ~20 |
-| Little hero | 20.00% | ~20 |
-| Hard worker | 19.00% | ~19 |
-| Fence | 19.00% | ~19 |
-| Ghost hunter | 18.00% | ~18 |
-| Pandora's box | 17.00% | ~17 |
-| Peacekeeper | 17.00% | ~17 |
-| Master detective | 17.00% | ~17 |
+| Beast slayer | 23.00% | ~24 |
+| Family man | 21.00% | ~22 |
+| Death of a legend | 21.00% | ~22 |
+| Archaeologist | 21.00% | ~22 |
+| Ogre friend | 20.00% | ~21 |
+| The fourth triplet | 20.00% | ~21 |
+| Sidelined | 20.00% | ~21 |
+| Wise man | 19.00% | ~20 |
+| Little hero | 19.00% | ~20 |
+| Hard worker | 18.00% | ~19 |
+| Fence | 18.00% | ~19 |
+| Pandora's box | 17.00% | ~18 |
+| Ghost hunter | 17.00% | ~18 |
+| Peacekeeper | 17.00% | ~18 |
+| Master detective | 17.00% | ~18 |
 | Defender | 14.00% | ~14 |
 | Workaholic | 14.00% | ~14 |
 | Showdown | 13.00% | ~13 |
@@ -56,7 +56,7 @@ Rating: 4.56 (Ranked 498)
 | Master of the classes | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 102 (Ranked 467)  
+Progressed: 103 (Ranked 464)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 96 | 0 |
 | 2023-12-19 | 100 | 0 |
 | 2023-12-20 | 101 | 0 |
-| 2023-12-21 | 102 | 0 |
+| 2023-12-21 | 103 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

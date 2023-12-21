@@ -4757,7 +4757,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 78879,
+  "EOS_Progressed": 78882,
   "EOS_Completed": 126,
   "EOS_NewPlayers": 908,
   "EOS_NewCompleters": 1,
@@ -26837,6 +26837,11 @@
       "Time": "2023-12-21T02:24:30.3761436+00:00",
       "NumProgressed": 78879,
       "NumCompleted": 126
+    },
+    {
+      "Time": "2023-12-21T03:03:06.855115+00:00",
+      "NumProgressed": 78882,
+      "NumCompleted": 126
     }
   ],
   "TotalAchievements": 61,
@@ -26896,7 +26901,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17353
+      "UsersEstimate": 17354
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -26928,7 +26933,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9465
+      "UsersEstimate": 9466
     },
     {
       "ID": "APPLY_STATUS",
@@ -26960,7 +26965,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 14198
+      "UsersEstimate": 14199
     },
     {
       "ID": "CLAYFACE_3",
@@ -27008,7 +27013,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 10254
+      "UsersEstimate": 10255
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -27024,7 +27029,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9465
+      "UsersEstimate": 9466
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -27056,7 +27061,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 10254
+      "UsersEstimate": 10255
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -27072,7 +27077,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 22086
+      "UsersEstimate": 22087
     },
     {
       "ID": "FREEZE_1_5",
@@ -27088,7 +27093,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14987
+      "UsersEstimate": 14988
     },
     {
       "ID": "FREEZE_3",
@@ -27152,7 +27157,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26819
+      "UsersEstimate": 26820
     },
     {
       "ID": "HARLEY_2",
@@ -27192,7 +27197,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 39440
+      "UsersEstimate": 39441
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -27224,7 +27229,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 21297
+      "UsersEstimate": 21298
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -27240,7 +27245,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 26030
+      "UsersEstimate": 26031
     },
     {
       "ID": "MYSTERY_02",
@@ -27248,7 +27253,7 @@
       "Name": "Whispered Words",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 18931
+      "UsersEstimate": 18932
     },
     {
       "ID": "MYSTERY_03",
@@ -27256,7 +27261,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17353
+      "UsersEstimate": 17354
     },
     {
       "ID": "MYSTERY_04",
@@ -27272,7 +27277,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 13409
+      "UsersEstimate": 13410
     },
     {
       "ID": "MYSTERY_06",
@@ -27296,7 +27301,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9465
+      "UsersEstimate": 9466
     },
     {
       "ID": "SECRET_CACHE",
@@ -27335,13 +27340,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 78879,
+      "Progressed": 78882,
       "Completed": 126
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 49159,
+      "Progressed": 49162,
       "Completed": 2675
     }
   ],
@@ -27349,8 +27354,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-12-21T00:00:14.2579932+00:00",
-  "LastChanged_Achievements": "2023-12-21T02:24:30.3761433+00:00",
+  "LastChanged_Achievements": "2023-12-21T03:03:06.8551146+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:16.1599271+00:00",
-  "LastUpdate_Ratings": "2023-12-21T02:20:35.6277026+00:00",
-  "LastUpdate_Achievements": "2023-12-21T02:24:30.3763971+00:00"
+  "LastUpdate_Ratings": "2023-12-21T02:59:13.4511674+00:00",
+  "LastUpdate_Achievements": "2023-12-21T03:03:06.8552569+00:00"
 }

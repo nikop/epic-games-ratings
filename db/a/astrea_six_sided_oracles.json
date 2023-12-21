@@ -1348,9 +1348,9 @@
       "ID": "StellarDismantler",
       "SetID": "1jeo1g7",
       "Name": "Stellar Dismantler",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 70
     },
     {
       "ID": "StellarHaste",
@@ -1556,9 +1556,9 @@
       "ID": "EridanianChampion",
       "SetID": "1jeo1g7",
       "Name": "Eridanian Champion",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "EridanianHero",
@@ -1635,8 +1635,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-21T02:25:53.2785163+00:00",
+  "LastChanged_Achievements": "2023-12-21T03:04:27.97509+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:09.6615872+00:00",
-  "LastUpdate_Ratings": "2023-12-21T02:19:17.4647073+00:00",
-  "LastUpdate_Achievements": "2023-12-21T02:25:53.2786151+00:00"
+  "LastUpdate_Ratings": "2023-12-21T02:57:55.9496421+00:00",
+  "LastUpdate_Achievements": "2023-12-21T03:04:27.9751681+00:00"
 }

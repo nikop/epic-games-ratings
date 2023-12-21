@@ -11,19 +11,19 @@ Rating: 4.76 (Ranked 130)
 | First Victory | 55.00% | ~201,528 |
 | Clean Sheet | 54.00% | ~197,864 |
 | #DoneDeal | 54.00% | ~197,864 |
-| Off the Books | 52.00% | ~190,535 |
-| Super-Sub | 52.00% | ~190,535 |
-| Hat-trick | 46.00% | ~168,550 |
-| Planned Signing | 44.00% | ~161,222 |
+| Off the Books | 52.00% | ~190,536 |
+| Super-Sub | 52.00% | ~190,536 |
+| Hat-trick | 46.00% | ~168,551 |
+| Planned Signing | 44.00% | ~161,223 |
 | "I Would Love It If We Beat Them" | 43.00% | ~157,558 |
 | Scoring Streak | 40.00% | ~146,566 |
 | Wheeler Dealer | 40.00% | ~146,566 |
-| Thumping | 39.00% | ~142,901 |
-| People Pleaser | 39.00% | ~142,901 |
-| Unbeatable! | 38.00% | ~139,237 |
+| Thumping | 39.00% | ~142,902 |
+| People Pleaser | 39.00% | ~142,902 |
+| Unbeatable! | 38.00% | ~139,238 |
 | One Of Our Own | 36.00% | ~131,909 |
-| They're a Natural | 32.00% | ~117,252 |
-| Record Signing | 32.00% | ~117,252 |
+| They're a Natural | 32.00% | ~117,253 |
+| Record Signing | 32.00% | ~117,253 |
 | Team Performance | 30.00% | ~109,924 |
 | Star Player | 29.00% | ~106,260 |
 | The Only Stat That Matters | 29.00% | ~106,260 |
@@ -37,7 +37,7 @@ Rating: 4.76 (Ranked 130)
 | Tremendous Trio | 25.00% | ~91,604 |
 | Unstoppable Force | 25.00% | ~91,604 |
 | Record Sale | 25.00% | ~91,604 |
-| Shots For Days | 24.00% | ~87,939 |
+| Shots For Days | 24.00% | ~87,940 |
 | On a Roll | 23.00% | ~84,275 |
 | Drilling Down | 23.00% | ~84,275 |
 | Flavour Of The Month | 23.00% | ~84,275 |
@@ -54,7 +54,7 @@ Rating: 4.76 (Ranked 130)
 | Window Shopping | 14.00% | ~51,298 |
 | A Game of Two Halves | 13.00% | ~47,634 |
 | You're Up! | 12.00% | ~43,970 |
-| Money, Money, Money | 10.00% | ~36,641 |
+| Money, Money, Money | 10.00% | ~36,642 |
 | Clean Sheet Network | 8.00% | ~29,313 |
 | First Goal Network | 8.00% | ~29,313 |
 | First Win Network | 8.00% | ~29,313 |
@@ -106,7 +106,7 @@ Rating: 4.76 (Ranked 130)
 | 200 Club | 0.10% | ~366 |
 | Draft Value | 0.10% | ~366 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 366,414 (Ranked 48)  
+Progressed: 366,415 (Ranked 48)  
 Completed: 29 (0.01%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -351,7 +351,7 @@ Completed: 29 (0.01%) (Ranked 361)
 | 2023-12-18 | 365,999 | 28 |
 | 2023-12-19 | 366,184 | 29 |
 | 2023-12-20 | 366,396 | 29 |
-| 2023-12-21 | 366,414 | 29 |
+| 2023-12-21 | 366,415 | 29 |
 ## Awards
 Max (Diverse Characters): 1,294  (Ranked 139)  
 Sum: 8,938 (Ranked 98)  

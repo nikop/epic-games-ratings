@@ -2,7 +2,7 @@
   "ID": "b1c68be50f37489ca95ff2b7ed616490",
   "Name": "Agatha Christie - Murder on the Orient Express",
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
-  "Ranking_EOS_Progress": 431,
+  "Ranking_EOS_Progress": 430,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 158,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 140,
+  "EOS_Progressed": 141,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -629,6 +629,11 @@
       "Time": "2023-12-20T21:05:18.8204899+00:00",
       "NumProgressed": 140,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T03:05:00.0847735+00:00",
+      "NumProgressed": 141,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -727,9 +732,9 @@
       "ID": "2",
       "SetID": "6bgoh8g",
       "Name": "I do not like your face, Mr Ratchett",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "20",
@@ -793,15 +798,15 @@
       "Name": "Dessert Connoisseur!",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "3",
       "SetID": "6bgoh8g",
       "Name": "It was not in the book",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "4",
@@ -809,7 +814,7 @@
       "Name": "A simple mistake leads to grave consequences",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "5",
@@ -856,14 +861,14 @@
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 140,
+      "Progressed": 141,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-12-21T02:26:26.7223534+00:00",
+  "LastChanged_Achievements": "2023-12-21T03:05:00.0847729+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:22.4243212+00:00",
-  "LastUpdate_Ratings": "2023-12-21T02:24:14.6250312+00:00",
-  "LastUpdate_Achievements": "2023-12-21T02:26:26.7223722+00:00"
+  "LastUpdate_Ratings": "2023-12-21T03:02:50.0892764+00:00",
+  "LastUpdate_Achievements": "2023-12-21T03:05:00.0847929+00:00"
 }

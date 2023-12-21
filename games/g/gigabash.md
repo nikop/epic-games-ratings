@@ -5,23 +5,23 @@ Rating: 4.56 (Ranked 498)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 12.00% | ~11,631 |
-| I've Had Enough! | 10.00% | ~9,693 |
-| Fists, Fury & a lot of Rage | 7.00% | ~6,785 |
-| Seasoned Fighter | 6.00% | ~5,816 |
-| All For One and One For All | 5.00% | ~4,846 |
-| Home Sweet Home? | 4.00% | ~3,877 |
-| A New Age | 3.00% | ~2,908 |
-| Oh Baby, A Triple | 2.00% | ~1,939 |
-| Master of Disguise | 2.00% | ~1,939 |
-| Symbiotic | 2.00% | ~1,939 |
-| Battle Hardened | 1.00% | ~969 |
-| Double Punch! | 1.00% | ~969 |
-| It's Mayhem! | 1.00% | ~969 |
-| Right back at'cha | 1.00% | ~969 |
-| Spectacular Finisher | 1.00% | ~969 |
-| Martyrdom | 0.90% | ~872 |
-| Cautious Veteran | 0.80% | ~775 |
+| All Grown Up! | 12.00% | ~11,638 |
+| I've Had Enough! | 10.00% | ~9,698 |
+| Fists, Fury & a lot of Rage | 7.00% | ~6,789 |
+| Seasoned Fighter | 6.00% | ~5,819 |
+| All For One and One For All | 5.00% | ~4,849 |
+| Home Sweet Home? | 4.00% | ~3,879 |
+| A New Age | 3.00% | ~2,910 |
+| Oh Baby, A Triple | 2.00% | ~1,940 |
+| Master of Disguise | 2.00% | ~1,940 |
+| Symbiotic | 2.00% | ~1,940 |
+| Battle Hardened | 1.00% | ~970 |
+| Double Punch! | 1.00% | ~970 |
+| It's Mayhem! | 1.00% | ~970 |
+| Right back at'cha | 1.00% | ~970 |
+| Spectacular Finisher | 1.00% | ~970 |
+| Martyrdom | 0.90% | ~873 |
+| Cautious Veteran | 0.80% | ~776 |
 | Zero-sum Game | 0.70% | ~679 |
 | Katamari | 0.60% | ~582 |
 | Ninja Reflex | 0.60% | ~582 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 498)
 | What's Mine is Yours | 0.10% | ~97 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 96,929 (Ranked 94)  
+Progressed: 96,985 (Ranked 94)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -57,7 +57,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 93,389 | 0 |
 | 2023-12-19 | 95,039 | 0 |
 | 2023-12-20 | 96,698 | 0 |
-| 2023-12-21 | 96,929 | 0 |
+| 2023-12-21 | 96,985 | 0 |
 ## Awards
 Max (Great Boss Battles): 33  (Ranked 500)  
 Sum: 33 (Ranked 522)  

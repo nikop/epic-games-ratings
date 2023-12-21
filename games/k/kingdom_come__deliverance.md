@@ -6,24 +6,24 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~260,327 |
-| Cavalier | 25.00% | ~203,380 |
-| Fatso | 23.00% | ~187,110 |
-| Awakening | 21.00% | ~170,839 |
-| Ranger | 20.00% | ~162,704 |
-| Scrooge | 20.00% | ~162,704 |
-| Anorectic | 16.00% | ~130,163 |
-| Firestarter | 16.00% | ~130,163 |
-| Bookworm | 15.00% | ~122,028 |
+| Blacksmith's Son | 32.00% | ~260,328 |
+| Cavalier | 25.00% | ~203,381 |
+| Fatso | 23.00% | ~187,111 |
+| Awakening | 21.00% | ~170,840 |
+| Ranger | 20.00% | ~162,705 |
+| Scrooge | 20.00% | ~162,705 |
+| Anorectic | 16.00% | ~130,164 |
+| Firestarter | 16.00% | ~130,164 |
+| Bookworm | 15.00% | ~122,029 |
 | Insomniac | 13.00% | ~105,758 |
 | Buddy | 12.00% | ~97,623 |
 | Thief | 12.00% | ~97,623 |
-| Sinner | 11.00% | ~89,487 |
-| Traveller | 11.00% | ~89,487 |
+| Sinner | 11.00% | ~89,488 |
+| Traveller | 11.00% | ~89,488 |
 | Convict | 10.00% | ~81,352 |
 | Haggler | 9.00% | ~73,217 |
-| McLovin | 7.00% | ~56,946 |
-| Runt | 7.00% | ~56,946 |
+| McLovin | 7.00% | ~56,947 |
+| Runt | 7.00% | ~56,947 |
 | Casanova | 6.00% | ~48,811 |
 | Bad Trip | 5.00% | ~40,676 |
 | Monk | 5.00% | ~40,676 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~814 |
 | Wingman | 0.10% | ~814 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 813,521 (Ranked 18)  
+Progressed: 813,524 (Ranked 18)  
 Completed: 52 (0.01%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,7 +334,7 @@ Completed: 52 (0.01%) (Ranked 361)
 | 2023-12-18 | 813,218 | 52 |
 | 2023-12-19 | 813,355 | 52 |
 | 2023-12-20 | 813,504 | 52 |
-| 2023-12-21 | 813,521 | 52 |
+| 2023-12-21 | 813,524 | 52 |
 ## Awards
 Max (Character Customization): 7,689  (Ranked 52)  
 Sum: 28,560 (Ranked 50)  

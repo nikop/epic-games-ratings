@@ -2,9 +2,9 @@
   "ID": "3d7d73d0611849969f568da28ae10530",
   "Name": "TT Isle of Man: Ride on the Edge 3",
   "ProductSlug": "tt-isle-of-man-ride-on-the-edge-3",
-  "Ranking_EOS_Progress": 403,
+  "Ranking_EOS_Progress": 402,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewPlayers": 293,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 200,
+  "EOS_Progressed": 201,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -970,6 +970,11 @@
       "Time": "2023-12-20T16:04:52.6970511+00:00",
       "NumProgressed": 200,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-21T03:04:55.8972975+00:00",
+      "NumProgressed": 201,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -995,49 +1000,49 @@
       "ID": "ACHIEVEMENT_03",
       "SetID": "gagif7",
       "Name": "To Each Their Own",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHIEVEMENT_04",
       "SetID": "gagif7",
       "Name": "Like Phileas Fogg",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 38
     },
     {
       "ID": "ACHIEVEMENT_05",
       "SetID": "gagif7",
       "Name": "POI Hunter",
-      "Percentage": 3,
-      "XP": 5,
-      "UsersEstimate": 6
-    },
-    {
-      "ID": "ACHIEVEMENT_06",
-      "SetID": "gagif7",
-      "Name": "The Joy of Discovery",
       "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 4
     },
     {
+      "ID": "ACHIEVEMENT_06",
+      "SetID": "gagif7",
+      "Name": "The Joy of Discovery",
+      "Percentage": 1,
+      "XP": 5,
+      "UsersEstimate": 2
+    },
+    {
       "ID": "ACHIEVEMENT_07",
       "SetID": "gagif7",
       "Name": "Seven-League Boots",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_08",
       "SetID": "gagif7",
       "Name": "Gotta Go Fast!",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -1051,9 +1056,9 @@
       "ID": "ACHIEVEMENT_10",
       "SetID": "gagif7",
       "Name": "Nerd",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -1075,17 +1080,17 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "gagif7",
       "Name": "The Immortal One",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_14",
       "SetID": "gagif7",
       "Name": "Shopping List",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -1123,9 +1128,9 @@
       "ID": "ACHIEVEMENT_19",
       "SetID": "gagif7",
       "Name": "Serial Winner",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 20
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -1139,9 +1144,9 @@
       "ID": "ACHIEVEMENT_21",
       "SetID": "gagif7",
       "Name": "First Things First",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -1179,9 +1184,9 @@
       "ID": "ACHIEVEMENT_26",
       "SetID": "gagif7",
       "Name": "Supersport Superfan",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -1211,9 +1216,9 @@
       "ID": "ACHIEVEMENT_30",
       "SetID": "gagif7",
       "Name": "Onwards and Upwards",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -1227,17 +1232,17 @@
       "ID": "ACHIEVEMENT_32",
       "SetID": "gagif7",
       "Name": "Upgradeaholic",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_33",
       "SetID": "gagif7",
       "Name": "Start Your Engines",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -1245,7 +1250,7 @@
       "Name": "You\u0027re Going Down!",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -1292,14 +1297,14 @@
     {
       "ID": "gagif7",
       "IsBase": true,
-      "Progressed": 200,
+      "Progressed": 201,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-12-21T02:26:22.2601223+00:00",
+  "LastChanged_Achievements": "2023-12-21T03:04:55.897297+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:23.9007171+00:00",
-  "LastUpdate_Ratings": "2023-12-21T02:21:14.2475469+00:00",
-  "LastUpdate_Achievements": "2023-12-21T02:26:22.2601503+00:00"
+  "LastUpdate_Ratings": "2023-12-21T02:59:52.1545856+00:00",
+  "LastUpdate_Achievements": "2023-12-21T03:04:55.8973222+00:00"
 }

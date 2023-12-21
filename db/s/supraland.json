@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2021-07-02T15:00:00+00:00",
     "PcReleaseDate": "2018-03-09T19:16:06+00:00",
@@ -3295,9 +3295,9 @@
       "Count": 197
     }
   ],
-  "EOS_Progressed": 736762,
+  "EOS_Progressed": 736763,
   "EOS_Completed": 772,
-  "EOS_NewPlayers": 833,
+  "EOS_NewPlayers": 831,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -30860,6 +30860,11 @@
       "Time": "2023-12-21T02:30:59.6585257+00:00",
       "NumProgressed": 736762,
       "NumCompleted": 772
+    },
+    {
+      "Time": "2023-12-21T03:09:31.1991109+00:00",
+      "NumProgressed": 736763,
+      "NumCompleted": 772
     }
   ],
   "TotalAchievements": 98,
@@ -31103,7 +31108,7 @@
       "Name": "Through the fire pipe",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 287337
+      "UsersEstimate": 287338
     },
     {
       "ID": "FliesBeam",
@@ -31127,7 +31132,7 @@
       "Name": "Force Cube Catapult",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 184190
+      "UsersEstimate": 184191
     },
     {
       "ID": "Freed_from_Prison",
@@ -31231,7 +31236,7 @@
       "Name": "Healthbar",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 405219
+      "UsersEstimate": 405220
     },
     {
       "ID": "Healthregen",
@@ -31239,7 +31244,7 @@
       "Name": "Regeneration",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 346278
+      "UsersEstimate": 346279
     },
     {
       "ID": "HelpedAStar",
@@ -31383,7 +31388,7 @@
       "Name": "Out of bed",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 729394
+      "UsersEstimate": 729395
     },
     {
       "ID": "PanicLights",
@@ -31503,7 +31508,7 @@
       "Name": "Fast",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 486263
+      "UsersEstimate": 486264
     },
     {
       "ID": "Strong",
@@ -31511,7 +31516,7 @@
       "Name": "Strong",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 88411
+      "UsersEstimate": 88412
     },
     {
       "ID": "SuperSword",
@@ -31519,7 +31524,7 @@
       "Name": "Super Sword",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 29470
+      "UsersEstimate": 29471
     },
     {
       "ID": "SupraNoob",
@@ -31543,7 +31548,7 @@
       "Name": "The Blues",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 626248
+      "UsersEstimate": 626249
     },
     {
       "ID": "ThroughPipe",
@@ -31591,7 +31596,7 @@
       "Name": "True holy spirit",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 206293
+      "UsersEstimate": 206294
     },
     {
       "ID": "Waldoh",
@@ -31654,15 +31659,15 @@
     {
       "ID": "3m49pn8",
       "IsBase": true,
-      "Progressed": 736762,
+      "Progressed": 736763,
       "Completed": 772
     }
   ],
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1459144+00:00",
   "LastChanged": "2023-12-20T07:02:53.8408173+00:00",
-  "LastChanged_Achievements": "2023-12-21T02:30:59.6585255+00:00",
+  "LastChanged_Achievements": "2023-12-21T03:09:31.1991107+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:50.2923936+00:00",
-  "LastUpdate_Ratings": "2023-12-21T02:18:44.4269273+00:00",
-  "LastUpdate_Achievements": "2023-12-21T02:30:59.658712+00:00"
+  "LastUpdate_Ratings": "2023-12-21T02:57:23.7433303+00:00",
+  "LastUpdate_Achievements": "2023-12-21T03:09:31.1992964+00:00"
 }

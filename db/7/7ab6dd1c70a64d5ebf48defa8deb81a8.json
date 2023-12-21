@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 939,
+  "EOS_Progressed": 940,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 649,
+  "EOS_NewPlayers": 648,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -1925,6 +1925,11 @@
       "Time": "2023-12-21T02:31:00.9771923+00:00",
       "NumProgressed": 939,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-21T03:09:32.5139016+00:00",
+      "NumProgressed": 940,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2048,7 +2053,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_16",
@@ -2128,7 +2133,7 @@
       "Name": "Fashion Victim",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_26",
@@ -2176,7 +2181,7 @@
       "Name": "Stone Collection",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_33",
@@ -2223,14 +2228,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 939,
+      "Progressed": 940,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-21T02:31:00.9771921+00:00",
+  "LastChanged_Achievements": "2023-12-21T03:09:32.5139013+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
-  "LastUpdate_Ratings": "2023-12-21T02:19:05.1273344+00:00",
-  "LastUpdate_Achievements": "2023-12-21T02:31:00.977216+00:00"
+  "LastUpdate_Ratings": "2023-12-21T02:57:44.0751291+00:00",
+  "LastUpdate_Achievements": "2023-12-21T03:09:32.5139252+00:00"
 }

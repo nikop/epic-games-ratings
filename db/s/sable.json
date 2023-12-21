@@ -563,9 +563,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 105475,
+  "EOS_Progressed": 105476,
   "EOS_Completed": 1074,
-  "EOS_NewPlayers": 1509,
+  "EOS_NewPlayers": 1503,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -28613,6 +28613,11 @@
       "Time": "2023-12-21T02:30:59.9997369+00:00",
       "NumProgressed": 105475,
       "NumCompleted": 1074
+    },
+    {
+      "Time": "2023-12-21T03:09:31.4076675+00:00",
+      "NumProgressed": 105476,
+      "NumCompleted": 1074
     }
   ],
   "TotalAchievements": 56,
@@ -28680,7 +28685,7 @@
       "Name": "The Climber Mask",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 6328
+      "UsersEstimate": 6329
     },
     {
       "ID": "ach_008_entertainer_mask",
@@ -28712,7 +28717,7 @@
       "Name": "The Merchant Mask",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 6328
+      "UsersEstimate": 6329
     },
     {
       "ID": "ach_012_cartographers_mask",
@@ -28744,7 +28749,7 @@
       "Name": "Honorary Chum",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 6328
+      "UsersEstimate": 6329
     },
     {
       "ID": "ach_016_door_dunboyne",
@@ -28992,7 +28997,7 @@
       "Name": "Bikes Don\u0027t Fly",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 6328
+      "UsersEstimate": 6329
     },
     {
       "ID": "ach_047_drive_long_distance",
@@ -29024,7 +29029,7 @@
       "Name": "Wrapping Up",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 23204
+      "UsersEstimate": 23205
     },
     {
       "ID": "ach_051_collect_clothing_items_2",
@@ -29071,15 +29076,15 @@
     {
       "ID": "585ckk9",
       "IsBase": true,
-      "Progressed": 105475,
+      "Progressed": 105476,
       "Completed": 1074
     }
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
   "LastChanged": "2023-12-20T21:57:30.3779412+00:00",
-  "LastChanged_Achievements": "2023-12-21T02:30:59.9997367+00:00",
+  "LastChanged_Achievements": "2023-12-21T03:09:31.4076672+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:49.6228631+00:00",
-  "LastUpdate_Ratings": "2023-12-21T02:18:40.6508087+00:00",
-  "LastUpdate_Achievements": "2023-12-21T02:30:59.9999184+00:00"
+  "LastUpdate_Ratings": "2023-12-21T02:57:19.8037243+00:00",
+  "LastUpdate_Achievements": "2023-12-21T03:09:31.4078041+00:00"
 }

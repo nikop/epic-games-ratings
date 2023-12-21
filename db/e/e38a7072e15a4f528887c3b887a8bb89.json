@@ -2,9 +2,9 @@
   "ID": "e38a7072e15a4f528887c3b887a8bb89",
   "Name": "Outbreak The New Nightmare Revisited",
   "ProductSlug": "outbreak-the-new-nightmare-revisited-90517a",
-  "Ranking_EOS_Progress": 596,
+  "Ranking_EOS_Progress": 593,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 519,
+  "Ranking_EOS_NewPlayers": 485,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-08T15:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 22,
+  "EOS_Progressed": 23,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -132,6 +132,11 @@
       "Time": "2023-12-16T02:24:19.7903556+00:00",
       "NumProgressed": 22,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-21T03:03:55.0909831+00:00",
+      "NumProgressed": 23,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T22:15:20.387506+00:00",
@@ -158,7 +163,7 @@
       "ID": "EVERY_SHOT_COUNTS_ACH",
       "SetID": "c01b5ga",
       "Name": "Every Shot Counts!",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 35,
       "UsersEstimate": 4
     },
@@ -174,7 +179,7 @@
       "ID": "HORRIBLE_END_ACH",
       "SetID": "c01b5ga",
       "Name": "Horrible End",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -190,7 +195,7 @@
       "ID": "NO_FEAR_ACH",
       "SetID": "c01b5ga",
       "Name": "No Fear",
-      "Percentage": 59,
+      "Percentage": 57,
       "XP": 15,
       "UsersEstimate": 13
     },
@@ -206,7 +211,7 @@
       "ID": "SWEET_LIFE_ACH",
       "SetID": "c01b5ga",
       "Name": "Sweet Life",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -214,7 +219,7 @@
       "ID": "TACTICAL_MEASURES_ACH",
       "SetID": "c01b5ga",
       "Name": "Tactical Measures",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -239,13 +244,13 @@
     {
       "ID": "c01b5ga",
       "IsBase": true,
-      "Progressed": 22,
+      "Progressed": 23,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-18T22:15:20.3875058+00:00",
-  "LastChanged_Achievements": "2023-12-21T02:25:19.3429959+00:00",
+  "LastChanged_Achievements": "2023-12-21T03:03:55.0909825+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:20.8233551+00:00",
-  "LastUpdate_Ratings": "2023-12-21T02:20:31.8380789+00:00",
-  "LastUpdate_Achievements": "2023-12-21T02:25:19.3430037+00:00"
+  "LastUpdate_Ratings": "2023-12-21T02:59:09.2773147+00:00",
+  "LastUpdate_Achievements": "2023-12-21T03:03:55.0909907+00:00"
 }

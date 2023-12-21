@@ -5,26 +5,26 @@ Rating: 4.74 (Ranked 162)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 6.00% | ~15,438 |
-| First of Many | 6.00% | ~15,438 |
-| Expanding Horizons | 4.00% | ~10,292 |
-| Not Your Average Trait | 4.00% | ~10,292 |
-| Gleaming the Cube | 3.00% | ~7,719 |
-| Quest for Survival | 3.00% | ~7,719 |
-| Familiar Face | 3.00% | ~7,719 |
-| Boss'n Up | 3.00% | ~7,719 |
-| Trait Chaser | 3.00% | ~7,719 |
-| Not So Special Now | 2.00% | ~5,146 |
-| Not a Janitor | 2.00% | ~5,146 |
-| Equal Measures | 2.00% | ~5,146 |
-| Blue Goddess | 2.00% | ~5,146 |
-| Duality | 2.00% | ~5,146 |
-| Top Performer | 2.00% | ~5,146 |
-| Shhh...It's a Secret | 2.00% | ~5,146 |
-| Was This Supposed To Happen? | 2.00% | ~5,146 |
-| Almost There | 2.00% | ~5,146 |
-| Make Some Room | 2.00% | ~5,146 |
-| Good, But Could Be Better! | 2.00% | ~5,146 |
+| The Killing Jar | 6.00% | ~15,440 |
+| First of Many | 6.00% | ~15,440 |
+| Expanding Horizons | 4.00% | ~10,294 |
+| Not Your Average Trait | 4.00% | ~10,294 |
+| Gleaming the Cube | 3.00% | ~7,720 |
+| Quest for Survival | 3.00% | ~7,720 |
+| Familiar Face | 3.00% | ~7,720 |
+| Boss'n Up | 3.00% | ~7,720 |
+| Trait Chaser | 3.00% | ~7,720 |
+| Not So Special Now | 2.00% | ~5,147 |
+| Not a Janitor | 2.00% | ~5,147 |
+| Equal Measures | 2.00% | ~5,147 |
+| Blue Goddess | 2.00% | ~5,147 |
+| Duality | 2.00% | ~5,147 |
+| Top Performer | 2.00% | ~5,147 |
+| Shhh...It's a Secret | 2.00% | ~5,147 |
+| Was This Supposed To Happen? | 2.00% | ~5,147 |
+| Almost There | 2.00% | ~5,147 |
+| Make Some Room | 2.00% | ~5,147 |
+| Good, But Could Be Better! | 2.00% | ~5,147 |
 | Am I Seeing This? | 1.00% | ~2,573 |
 | Chaos | 1.00% | ~2,573 |
 | Traitor | 1.00% | ~2,573 |
@@ -43,11 +43,11 @@ Rating: 4.74 (Ranked 162)
 | Master of the Dark Arts | 1.00% | ~365 |
 | Scrap Hoarder | 0.90% | ~2,316 |
 | The Ultimate Weapon | 0.90% | ~2,316 |
-| Tall Tales | 0.80% | ~2,058 |
-| Edgelord | 0.80% | ~2,058 |
-| Carnage in C-Minor | 0.80% | ~2,058 |
-| No One Should Have All That Power | 0.80% | ~2,058 |
-| Transmutate | 0.80% | ~2,058 |
+| Tall Tales | 0.80% | ~2,059 |
+| Edgelord | 0.80% | ~2,059 |
+| Carnage in C-Minor | 0.80% | ~2,059 |
+| No One Should Have All That Power | 0.80% | ~2,059 |
+| Transmutate | 0.80% | ~2,059 |
 | Red Room | 0.70% | ~1,801 |
 | Only Human | 0.60% | ~1,544 |
 | Crafty | 0.50% | ~1,287 |
@@ -57,11 +57,11 @@ Rating: 4.74 (Ranked 162)
 | Cutting Edge | 0.40% | ~1,029 |
 | The Collector | 0.40% | ~1,029 |
 | Proving Grounds | 0.30% | ~772 |
-| Succession | 0.30% | ~109 |
-| You Shall Pass | 0.30% | ~109 |
+| Succession | 0.30% | ~110 |
+| You Shall Pass | 0.30% | ~110 |
 | A Foul Feast | 0.20% | ~73 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 257,302 (Ranked 61)  
+Progressed: 257,340 (Ranked 61)  
 Completed: 610 (0.24%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,10 +219,10 @@ Completed: 610 (0.24%) (Ranked 261)
 | 2023-12-18 | 254,063 | 603 |
 | 2023-12-19 | 255,737 | 607 |
 | 2023-12-20 | 257,155 | 610 |
-| 2023-12-21 | 257,302 | 610 |
+| 2023-12-21 | 257,340 | 610 |
 ## Awards
 Max (Great Boss Battles): 3,262  (Ranked 97)  
-Sum: 7,711 (Ranked 113)  
+Sum: 7,718 (Ranked 113)  
 Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
@@ -230,9 +230,9 @@ Diff (max vs sum): -16
 | This game has Diverse Characters | 504 |
 | This game is Highly Recommended | 478 |
 | This game has Challenging Combat | 471 |
+| This game has Quickly Understood Controls | 462 |
 | This game is Relaxing | 460 |
 | This game is Extremely Fun | 456 |
-| This game has Quickly Understood Controls | 455 |
 | This game has Amazing Storytelling | 455 |
 | This game has Amazing Characters | 441 |
 | This game has Unique Visuals | 395 |
@@ -388,3 +388,4 @@ Diff (max vs sum): -16
 | 2023-12-18 | 4.75 | 3,014 | 7,323 |
 | 2023-12-19 | 4.75 | 3,117 | 7,485 |
 | 2023-12-20 | 4.75 | 3,262 | 7,711 |
+| 2023-12-21 | 4.74 | 3,262 | 7,718 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -967,9 +967,9 @@
       "Count": 131
     }
   ],
-  "EOS_Progressed": 13149,
+  "EOS_Progressed": 13150,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 1684,
+  "EOS_NewPlayers": 1679,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -15202,6 +15202,11 @@
       "Time": "2023-12-21T02:30:30.5789414+00:00",
       "NumProgressed": 13149,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2023-12-21T03:09:01.954296+00:00",
+      "NumProgressed": 13150,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 34,
@@ -15213,7 +15218,7 @@
       "Name": "Born in the 80\u2019s",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH02",
@@ -15237,7 +15242,7 @@
       "Name": "Not my First Time",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "ACH05",
@@ -15333,7 +15338,7 @@
       "Name": "Keepie-Uppy Okie Dokie",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH17",
@@ -15341,7 +15346,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     },
     {
       "ID": "ACH18",
@@ -15349,7 +15354,7 @@
       "Name": "I\u0027m Famous!",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH19",
@@ -15365,7 +15370,7 @@
       "Name": "Daredevil",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH21",
@@ -15389,7 +15394,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 3287
+      "UsersEstimate": 3288
     },
     {
       "ID": "ACH24",
@@ -15421,7 +15426,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "ACH28",
@@ -15484,7 +15489,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 13149,
+      "Progressed": 13150,
       "Completed": 71
     }
   ],
@@ -15492,8 +15497,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-12-20T15:57:50.4358864+00:00",
-  "LastChanged_Achievements": "2023-12-21T02:30:30.5789412+00:00",
+  "LastChanged_Achievements": "2023-12-21T03:09:01.9542956+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:04.8941276+00:00",
-  "LastUpdate_Ratings": "2023-12-21T02:19:24.2244114+00:00",
-  "LastUpdate_Achievements": "2023-12-21T02:30:30.5790346+00:00"
+  "LastUpdate_Ratings": "2023-12-21T02:58:02.7051654+00:00",
+  "LastUpdate_Achievements": "2023-12-21T03:09:01.9543866+00:00"
 }

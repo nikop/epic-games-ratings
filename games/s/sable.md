@@ -12,7 +12,7 @@ Number of Ratings: 43  (23.09.2022)
 | Under The Hood | 25.00% | ~26,369 |
 | Got Your Nose | 24.00% | ~25,314 |
 | The Gift of Gab | 24.00% | ~25,314 |
-| Wrapping Up | 22.00% | ~23,204 |
+| Wrapping Up | 22.00% | ~23,205 |
 | More Than A Box Of Sand | 18.00% | ~18,986 |
 | The Dunboyne | 17.00% | ~17,931 |
 | Badge Hobbyist | 17.00% | ~17,931 |
@@ -50,10 +50,10 @@ Number of Ratings: 43  (23.09.2022)
 | The Guard Mask | 7.00% | ~7,383 |
 | Smoked Out | 7.00% | ~7,383 |
 | A Hard Place | 7.00% | ~7,383 |
-| The Climber Mask | 6.00% | ~6,328 |
-| The Merchant Mask | 6.00% | ~6,328 |
-| Honorary Chum | 6.00% | ~6,328 |
-| Bikes Don't Fly | 6.00% | ~6,328 |
+| The Climber Mask | 6.00% | ~6,329 |
+| The Merchant Mask | 6.00% | ~6,329 |
+| Honorary Chum | 6.00% | ~6,329 |
+| Bikes Don't Fly | 6.00% | ~6,329 |
 | The Gliding | 5.00% | ~5,274 |
 | The Entertainer Mask | 5.00% | ~5,274 |
 | The Quick and the Curious | 4.00% | ~4,219 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~3,164 |
 | Vivacious Vivarium | 2.00% | ~2,110 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 105,475 (Ranked 91)  
+Progressed: 105,476 (Ranked 91)  
 Completed: 1,074 (1.02%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 1,074 (1.02%) (Ranked 173)
 | 2023-12-18 | 105,077 | 1,070 |
 | 2023-12-19 | 105,258 | 1,072 |
 | 2023-12-20 | 105,451 | 1,074 |
-| 2023-12-21 | 105,475 | 1,074 |
+| 2023-12-21 | 105,476 | 1,074 |
 ## Awards
 Max (Extremely Fun): 29  (Ranked 511)  
 Sum: 121 (Ranked 446)  

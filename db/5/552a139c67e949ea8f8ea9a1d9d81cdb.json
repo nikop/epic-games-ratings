@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1492,
+  "EOS_Progressed": 1496,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3567,6 +3567,11 @@
       "Time": "2023-12-21T02:24:53.7559292+00:00",
       "NumProgressed": 1492,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-21T03:03:29.8972296+00:00",
+      "NumProgressed": 1496,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -3579,7 +3584,7 @@
       "Name": "Rookie",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -3609,9 +3614,9 @@
       "ID": "ML_ACHIEVEMENT_05",
       "SetID": "5k00jcd",
       "Name": "Like lightning!",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -3713,9 +3718,9 @@
       "ID": "ML_ACHIEVEMENT_18",
       "SetID": "5k00jcd",
       "Name": "International license",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ML_ACHIEVEMENT_19",
@@ -3913,9 +3918,9 @@
       "ID": "ML_ACHIEVEMENT_43",
       "SetID": "5k00jcd",
       "Name": "Mission complete",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 105
     },
     {
       "ID": "ML_ACHIEVEMENT_44",
@@ -3946,20 +3951,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1492,
+      "Progressed": 1496,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1160,
+      "Progressed": 1164,
       "Completed": 997
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-21T02:24:53.7559289+00:00",
+  "LastChanged_Achievements": "2023-12-21T03:03:29.8972291+00:00",
   "LastUpdate_AppInfo": "2023-12-14T02:57:11.7320397+00:00",
-  "LastUpdate_Ratings": "2023-12-21T02:23:48.8966072+00:00",
-  "LastUpdate_Achievements": "2023-12-21T02:24:53.7559743+00:00"
+  "LastUpdate_Ratings": "2023-12-21T03:02:24.9939813+00:00",
+  "LastUpdate_Achievements": "2023-12-21T03:03:29.8972887+00:00"
 }

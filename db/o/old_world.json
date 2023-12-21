@@ -2174,7 +2174,7 @@
   ],
   "EOS_Progressed": 15855,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20249,9 +20249,9 @@
       "ID": "ACHIEVEMENT_WASET_NECROPOLIS",
       "SetID": "9201eeb",
       "Name": "Necropolis in Waset",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_WIN_1V1",
@@ -20919,8 +20919,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-21T01:48:44.1957278+00:00",
-  "LastChanged_Achievements": "2023-12-21T02:30:45.0516517+00:00",
+  "LastChanged_Achievements": "2023-12-21T03:09:16.5467464+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:47.4773202+00:00",
-  "LastUpdate_Ratings": "2023-12-21T02:24:06.8988977+00:00",
-  "LastUpdate_Achievements": "2023-12-21T02:30:45.0526048+00:00"
+  "LastUpdate_Ratings": "2023-12-21T03:02:42.8225293+00:00",
+  "LastUpdate_Achievements": "2023-12-21T03:09:16.5477152+00:00"
 }

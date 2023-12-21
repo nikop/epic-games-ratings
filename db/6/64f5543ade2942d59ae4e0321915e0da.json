@@ -947,9 +947,9 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 99
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -971,9 +971,9 @@
       "ID": "AC_DISTANCE_1",
       "SetID": "16i2akc",
       "Name": "Excursion",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 151
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -1122,8 +1122,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-21T02:29:27.0041994+00:00",
+  "LastChanged_Achievements": "2023-12-21T03:07:58.6508242+00:00",
   "LastUpdate_AppInfo": "2023-12-19T20:57:15.8211494+00:00",
-  "LastUpdate_Ratings": "2023-12-21T02:21:37.9258324+00:00",
-  "LastUpdate_Achievements": "2023-12-21T02:29:27.0042241+00:00"
+  "LastUpdate_Ratings": "2023-12-21T03:00:16.1258835+00:00",
+  "LastUpdate_Achievements": "2023-12-21T03:07:58.6508469+00:00"
 }

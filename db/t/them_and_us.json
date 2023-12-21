@@ -1741,9 +1741,9 @@
       "ID": "ETUA_TheCurseIsReal",
       "SetID": "65jc0ap",
       "Name": "The Curse Is Real",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 37
     },
     {
       "ID": "ETUA_TheForgottenTower",
@@ -1789,9 +1789,9 @@
       "ID": "ETUA_WhatAMansion",
       "SetID": "65jc0ap",
       "Name": "What A Mansion",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "ETUA_WhatHaveIDone",
@@ -1814,8 +1814,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-12-21T02:24:41.118032+00:00",
+  "LastChanged_Achievements": "2023-12-21T03:03:17.1777776+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:15.4863673+00:00",
-  "LastUpdate_Ratings": "2023-12-21T02:20:31.0197756+00:00",
-  "LastUpdate_Achievements": "2023-12-21T02:24:41.118068+00:00"
+  "LastUpdate_Ratings": "2023-12-21T02:59:08.4894075+00:00",
+  "LastUpdate_Achievements": "2023-12-21T03:03:17.1778156+00:00"
 }
