@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Seven Doors | 58.00% | ~14 |
-| Kill the Dead Man | 50.00% | ~12 |
-| Diogenes Syndrome | 46.00% | ~11 |
-| Egyptologist | 46.00% | ~11 |
-| No Fear of the Dark | 42.00% | ~10 |
-| The Last Skull | 42.00% | ~10 |
-| They’re Watching | 38.00% | ~9 |
-| Art Connoisseur | 38.00% | ~9 |
-| A Cautious Man Is Worth Two of His Kind | 33.00% | ~8 |
-| Survivor | 33.00% | ~8 |
-| Master of Riddles | 33.00% | ~8 |
-| The Witch’s Haunt | 29.00% | ~7 |
-| A Cabin Boy with Potential | 29.00% | ~7 |
-| Trapped in Time | 25.00% | ~6 |
-| Thanksgiving Day | 17.00% | ~4 |
-| Don’t Touch the Rum! | 17.00% | ~4 |
-| Oh... You didn't think to bring it? | 17.00% | ~4 |
+| Welcome to Seven Doors | 56.00% | ~14 |
+| Kill the Dead Man | 48.00% | ~12 |
+| Diogenes Syndrome | 44.00% | ~11 |
+| Egyptologist | 44.00% | ~11 |
+| No Fear of the Dark | 40.00% | ~10 |
+| The Last Skull | 40.00% | ~10 |
+| They’re Watching | 36.00% | ~9 |
+| Art Connoisseur | 36.00% | ~9 |
+| A Cautious Man Is Worth Two of His Kind | 32.00% | ~8 |
+| Survivor | 32.00% | ~8 |
+| Master of Riddles | 32.00% | ~8 |
+| The Witch’s Haunt | 28.00% | ~7 |
+| A Cabin Boy with Potential | 28.00% | ~7 |
+| Trapped in Time | 24.00% | ~6 |
+| Thanksgiving Day | 16.00% | ~4 |
+| Don’t Touch the Rum! | 16.00% | ~4 |
+| Oh... You didn't think to bring it? | 16.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24 (Ranked 594)  
-Completed: 4 (16.67%) (Ranked 27)  
+Progressed: 25 (Ranked 589)  
+Completed: 4 (16.00%) (Ranked 30)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -48,6 +48,7 @@ Completed: 4 (16.67%) (Ranked 27)
 | 2023-12-14 | 23 | 3 |
 | 2023-12-18 | 23 | 4 |
 | 2023-12-19 | 24 | 4 |
+| 2023-12-22 | 25 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

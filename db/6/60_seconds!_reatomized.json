@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 353,
   "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2019-07-25T08:00:00+00:00",
@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5881,
+  "EOS_Progressed": 5882,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -8131,6 +8131,11 @@
       "Time": "2023-12-22T21:07:37.9095995+00:00",
       "NumProgressed": 5881,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-22T22:08:05.1325208+00:00",
+      "NumProgressed": 5882,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -8270,7 +8275,7 @@
       "Name": "One way ticket",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 4999
+      "UsersEstimate": 5000
     },
     {
       "ID": "ACH_DEEDEE",
@@ -8358,7 +8363,7 @@
       "Name": "Family guy",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 4528
+      "UsersEstimate": 4529
     },
     {
       "ID": "ACH_FIRE_POLICE",
@@ -8390,7 +8395,7 @@
       "Name": "Rescue time!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1117
+      "UsersEstimate": 1118
     },
     {
       "ID": "ACH_HARD",
@@ -8438,7 +8443,7 @@
       "Name": "Home, sweet home",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 5352
+      "UsersEstimate": 5353
     },
     {
       "ID": "ACH_MADHATTER",
@@ -8486,7 +8491,7 @@
       "Name": "Duck and cover!",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 3881
+      "UsersEstimate": 3882
     },
     {
       "ID": "ACH_PANZER",
@@ -8508,9 +8513,9 @@
       "ID": "ACH_PRESENT",
       "SetID": "5nj1ea3",
       "Name": "A gift",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 3176
+      "UsersEstimate": 3235
     },
     {
       "ID": "ACH_PRO_GAMER",
@@ -8558,7 +8563,7 @@
       "Name": "I will survive!",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 5469
+      "UsersEstimate": 5470
     },
     {
       "ID": "ACH_SURVIVE_111_DAYS",
@@ -8574,7 +8579,7 @@
       "Name": "Survivalist",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 5293
+      "UsersEstimate": 5294
     },
     {
       "ID": "ACH_SURVIVE_40_DAYS",
@@ -8582,7 +8587,7 @@
       "Name": "Last man standing",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 4705
+      "UsersEstimate": 4706
     },
     {
       "ID": "ACH_SURVIVE_5_DAYS",
@@ -8590,7 +8595,7 @@
       "Name": "Prepper",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 5528
+      "UsersEstimate": 5529
     },
     {
       "ID": "ACH_TOILET_BUSTER",
@@ -8621,7 +8626,7 @@
     {
       "ID": "5nj1ea3",
       "IsBase": true,
-      "Progressed": 5881,
+      "Progressed": 5882,
       "Completed": 1
     }
   ],
@@ -8629,8 +8634,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-12-21T20:59:22.4145876+00:00",
-  "LastChanged_Achievements": "2023-12-22T21:07:37.9095991+00:00",
+  "LastChanged_Achievements": "2023-12-22T22:08:05.1325203+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:40.8323499+00:00",
-  "LastUpdate_Ratings": "2023-12-22T21:01:03.8021581+00:00",
-  "LastUpdate_Achievements": "2023-12-22T21:07:37.9096656+00:00"
+  "LastUpdate_Ratings": "2023-12-22T22:01:15.6702305+00:00",
+  "LastUpdate_Achievements": "2023-12-22T22:08:05.1326274+00:00"
 }

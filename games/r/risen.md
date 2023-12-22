@@ -6,19 +6,19 @@ Rating: 4.57 (Ranked 484)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Beginner | 92.00% | ~98 |
-| Map reader | 71.00% | ~75 |
-| Adventurer | 67.00% | ~71 |
-| Philanthropist | 65.00% | ~69 |
+| Map reader | 70.00% | ~75 |
+| Adventurer | 66.00% | ~71 |
+| Philanthropist | 64.00% | ~68 |
+| Archer | 49.00% | ~52 |
 | The brave little tailor | 48.00% | ~51 |
-| Archer | 48.00% | ~51 |
-| Field hand | 42.00% | ~45 |
-| Samaritan | 39.00% | ~41 |
-| Well-to-do | 39.00% | ~41 |
-| The merciful one | 36.00% | ~38 |
+| Field hand | 41.00% | ~44 |
+| Samaritan | 38.00% | ~41 |
+| Well-to-do | 38.00% | ~41 |
+| The merciful one | 36.00% | ~39 |
 | Ladies' man | 35.00% | ~37 |
 | Ferocious wild boars | 28.00% | ~30 |
 | Idiot | 26.00% | ~28 |
-| Beast slayer | 24.00% | ~25 |
+| Beast slayer | 23.00% | ~25 |
 | Wise man | 21.00% | ~22 |
 | Family man | 21.00% | ~22 |
 | Death of a legend | 21.00% | ~22 |
@@ -42,7 +42,7 @@ Rating: 4.57 (Ranked 484)
 | King of the handymen | 10.00% | ~11 |
 | Titan Lord | 9.00% | ~10 |
 | Terror of the hens | 9.00% | ~10 |
-| Expert | 8.00% | ~8 |
+| Expert | 8.00% | ~9 |
 | The traveler | 7.00% | ~7 |
 | Moneybags | 7.00% | ~7 |
 | Rune master | 5.00% | ~5 |
@@ -56,7 +56,7 @@ Rating: 4.57 (Ranked 484)
 | Master of the classes | 0.90% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 106 (Ranked 466)  
+Progressed: 107 (Ranked 465)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-19 | 100 | 0 |
 | 2023-12-20 | 101 | 0 |
 | 2023-12-21 | 104 | 0 |
-| 2023-12-22 | 106 | 0 |
+| 2023-12-22 | 107 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

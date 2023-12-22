@@ -10,10 +10,10 @@
 | You Get An Upgrade, You Get An Upgrade! | 19.00% | ~39 |
 | Onwards and Upwards | 15.00% | ~31 |
 | Serial Winner | 10.00% | ~21 |
+| Start Your Engines | 9.00% | ~19 |
 | Lone Wolf | 9.00% | ~19 |
 | Highly Qualified | 8.00% | ~17 |
 | No Room for Improvement | 8.00% | ~17 |
-| Start Your Engines | 8.00% | ~17 |
 | Playing God | 6.00% | ~12 |
 | Nerd | 5.00% | ~10 |
 | First and Foremost | 5.00% | ~10 |

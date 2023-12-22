@@ -8,7 +8,7 @@ Number of Ratings: 892  (23.09.2022)
 | ---- | ---------- | ----- |
 | Adept Assembler | 214.00% | ~1,393 |
 | Iron Chef | 154.00% | ~1,003 |
-| Super Spelunker | 135.00% | ~879 |
+| Super Spelunker | 136.00% | ~885 |
 | Greeno-B-Gone | 120.00% | ~781 |
 | The Little Wood that Could | 118.00% | ~768 |
 | Your Especially Earned Trajectory | 100.00% | ~651 |
@@ -124,9 +124,9 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-21 | 641 | 0 |
 | 2023-12-22 | 651 | 0 |
 ## Awards
-Max (Character Customization): 610  (Ranked 199)  
+Max (Character Customization): 610  (Ranked 200)  
 Sum: 1,450 (Ranked 240)  
-Diff (max vs sum): -41  
+Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 610 |

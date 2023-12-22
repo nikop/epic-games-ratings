@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 339,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -4967,9 +4967,9 @@
       "ID": "NEW_ACHIEVEMENT_OCCUPY_MARS",
       "SetID": "l546gc",
       "Name": "Occupy Mars!",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 542
+      "UsersEstimate": 560
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -5088,8 +5088,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-12-22T01:43:37.6229896+00:00",
-  "LastChanged_Achievements": "2023-12-22T21:08:49.5423016+00:00",
+  "LastChanged_Achievements": "2023-12-22T22:09:23.0936351+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:56:59.196607+00:00",
-  "LastUpdate_Ratings": "2023-12-22T20:59:42.2908484+00:00",
-  "LastUpdate_Achievements": "2023-12-22T21:08:49.542372+00:00"
+  "LastUpdate_Ratings": "2023-12-22T21:59:50.7437044+00:00",
+  "LastUpdate_Achievements": "2023-12-22T22:09:23.093702+00:00"
 }

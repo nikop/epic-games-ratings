@@ -14,8 +14,8 @@ Rating: 3.56 (Ranked 1,065)
 | Ne Plus Ultra | 6.00% | ~119 |
 | Fly Fisher | 6.00% | ~119 |
 | Peek-a-boo | 6.00% | ~119 |
-| Throw The First Stone | 5.00% | ~99 |
-| Sucks To Be You | 5.00% | ~99 |
+| Throw The First Stone | 5.00% | ~100 |
+| Sucks To Be You | 5.00% | ~100 |
 | Enter of Your Own Free Will | 4.00% | ~80 |
 | Welcome to the Neighborhood | 4.00% | ~80 |
 | Grounded | 4.00% | ~80 |
@@ -24,6 +24,7 @@ Rating: 3.56 (Ranked 1,065)
 | Bad Wiring | 3.00% | ~60 |
 | Neighborhood Revitalization | 2.00% | ~40 |
 | Radio Silence | 2.00% | ~40 |
+| From the Shadows | 2.00% | ~40 |
 | Starve the Beast | 2.00% | ~40 |
 | Helping Hand | 2.00% | ~40 |
 | I Spit On Your Grave | 2.00% | ~40 |
@@ -34,7 +35,6 @@ Rating: 3.56 (Ranked 1,065)
 | Silence Is Golden | 1.00% | ~20 |
 | Good Morning | 1.00% | ~20 |
 | You Clean It Up | 1.00% | ~20 |
-| From the Shadows | 1.00% | ~20 |
 | Harvest’s End | 1.00% | ~20 |
 | Blacklight Down | 1.00% | ~20 |
 | Block Party | 0.90% | ~18 |
@@ -42,13 +42,13 @@ Rating: 3.56 (Ranked 1,065)
 | Nice Try | 0.90% | ~18 |
 | Curious Finch | 0.90% | ~18 |
 | Right This Way | 0.60% | ~12 |
+| What Lies Below | 0.50% | ~10 |
 | Empty Nest Syndrome | 0.50% | ~10 |
 | Bloody Initiate | 0.50% | ~10 |
 | Dexterity Save | 0.50% | ~10 |
 | Neighborhood Watch | 0.40% | ~8 |
 | Blood Brother | 0.40% | ~8 |
 | Sisterhood | 0.40% | ~8 |
-| What Lies Below | 0.40% | ~8 |
 | Good Samaritan | 0.40% | ~8 |
 | Monster Hunters Club | 0.30% | ~6 |
 | Friendgineering | 0.30% | ~6 |
@@ -72,7 +72,7 @@ Rating: 3.56 (Ranked 1,065)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,989 (Ranked 237)  
+Progressed: 1,991 (Ranked 237)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-19 | 1,947 | 0 |
 | 2023-12-20 | 1,963 | 0 |
 | 2023-12-21 | 1,977 | 0 |
-| 2023-12-22 | 1,989 | 0 |
+| 2023-12-22 | 1,991 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

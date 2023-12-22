@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 58.00% | ~241 |
-| Starting Skyward | 52.00% | ~216 |
-| Grime is Not Good | 46.00% | ~191 |
-| Floor Galore | 40.00% | ~166 |
-| Dinner Dash | 40.00% | ~166 |
-| Campaign Launch | 39.00% | ~162 |
+| In the Black | 58.00% | ~242 |
+| Starting Skyward | 52.00% | ~217 |
+| Grime is Not Good | 46.00% | ~192 |
+| Floor Galore | 40.00% | ~167 |
+| Dinner Dash | 40.00% | ~167 |
+| Campaign Launch | 39.00% | ~163 |
 | Need a Consult | 37.00% | ~154 |
-| It's Technical | 37.00% | ~154 |
 | Upgrade Unlock | 36.00% | ~150 |
+| It's Technical | 36.00% | ~150 |
 | Delegate Maintenance | 32.00% | ~133 |
 | Proper Walls | 31.00% | ~129 |
 | Destination Destiny | 31.00% | ~129 |
@@ -32,18 +32,18 @@
 | Rehab Expert | 18.00% | ~75 |
 | Tasty Profits | 18.00% | ~75 |
 | Established Fame | 17.00% | ~71 |
-| Under One Roof | 15.00% | ~62 |
-| Starred Dining | 15.00% | ~62 |
-| Cashflow Chief | 15.00% | ~62 |
+| Under One Roof | 15.00% | ~63 |
+| Starred Dining | 15.00% | ~63 |
+| Cashflow Chief | 15.00% | ~63 |
 | Smooth Operator | 13.00% | ~54 |
 | Thrilled Tenants | 13.00% | ~54 |
 | Boutique Benefits | 12.00% | ~50 |
 | Terrifically Trashed | 12.00% | ~50 |
+| 28 Days Later | 11.00% | ~46 |
 | Aestheticly Pleased | 10.00% | ~42 |
-| 28 Days Later | 10.00% | ~42 |
 | Swimming in Surplus | 10.00% | ~42 |
-| Master of Puppets | 9.00% | ~37 |
-| Refined Palates | 9.00% | ~37 |
+| Master of Puppets | 9.00% | ~38 |
+| Refined Palates | 9.00% | ~38 |
 | First 100 Days | 8.00% | ~33 |
 | Plaza Plan | 8.00% | ~33 |
 | Phoning It In | 8.00% | ~33 |
@@ -64,11 +64,11 @@
 | Tuned In | 5.00% | ~21 |
 | Office Bigwigs | 4.00% | ~17 |
 | Sandbagger | 4.00% | ~17 |
-| Decorator's Touch | 3.00% | ~12 |
-| Apartment Awareness | 3.00% | ~12 |
-| Luxury Boutiques | 3.00% | ~12 |
-| Three of a Kind | 3.00% | ~12 |
-| Four of a Kind | 3.00% | ~12 |
+| Decorator's Touch | 3.00% | ~13 |
+| Apartment Awareness | 3.00% | ~13 |
+| Luxury Boutiques | 3.00% | ~13 |
+| Three of a Kind | 3.00% | ~13 |
+| Four of a Kind | 3.00% | ~13 |
 | Loft Life | 2.00% | ~8 |
 | Glut of Gastronomy | 2.00% | ~8 |
 | Plebs Are Needed | 2.00% | ~8 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 416 (Ranked 345)  
+Progressed: 417 (Ranked 345)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-19 | 402 | 0 |
 | 2023-12-20 | 404 | 0 |
 | 2023-12-21 | 413 | 0 |
-| 2023-12-22 | 416 | 0 |
+| 2023-12-22 | 417 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1989,
+  "EOS_Progressed": 1991,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3049,6 +3049,11 @@
       "Time": "2023-12-22T19:05:45.333581+00:00",
       "NumProgressed": 1989,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T22:05:38.9795389+00:00",
+      "NumProgressed": 1991,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3276,7 +3281,7 @@
       "Name": "Throw The First Stone",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "Achievement_030",
@@ -3292,7 +3297,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "Achievement_032",
@@ -3322,9 +3327,9 @@
       "ID": "Achievement_035",
       "SetID": "6b34g18",
       "Name": "From the Shadows",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 40
     },
     {
       "ID": "Achievement_036",
@@ -3346,9 +3351,9 @@
       "ID": "Achievement_038",
       "SetID": "6b34g18",
       "Name": "What Lies Below",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "Achievement_039",
@@ -3587,7 +3592,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1989,
+      "Progressed": 1991,
       "Completed": 0
     }
   ],
@@ -3595,8 +3600,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-21T11:57:57.6911859+00:00",
-  "LastChanged_Achievements": "2023-12-22T21:05:10.8302348+00:00",
+  "LastChanged_Achievements": "2023-12-22T22:05:38.9795386+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:02.9619993+00:00",
-  "LastUpdate_Ratings": "2023-12-22T20:58:49.1254992+00:00",
-  "LastUpdate_Achievements": "2023-12-22T21:05:10.8303073+00:00"
+  "LastUpdate_Ratings": "2023-12-22T21:58:51.7396314+00:00",
+  "LastUpdate_Achievements": "2023-12-22T22:05:38.9796065+00:00"
 }

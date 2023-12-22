@@ -1,11 +1,11 @@
 # Slime Rancher
 [Store](https://store.epicgames.com/en-US/p/slime-rancher)  
 [View Rawdata](../../db/s/slime_rancher.json)  
-Rating: 4.82 (Ranked 69)  
+Rating: 4.82 (Ranked 71)  
 Number of Ratings: 5,898  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 437  (Ranked 230)  
-Sum: 3,336 (Ranked 172)  
+Sum: 3,337 (Ranked 172)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -15,7 +15,7 @@ Diff (max vs sum): 58
 | This game has Easy Combat | 372 |
 | This game is Extremely Fun | 368 |
 | This game is Relaxing | 360 |
-| This game has Diverse Characters | 343 |
+| This game has Diverse Characters | 344 |
 | This game is Highly Recommended | 341 |
 | This game has Amazing Characters | 328 |
 | This game has Obsessive Gameplay | 243 |
@@ -273,3 +273,4 @@ Diff (max vs sum): 58
 | 2023-12-17 | 4.82 | - | 436 | 3,330 |
 | 2023-12-19 | 4.82 | - | 437 | 3,333 |
 | 2023-12-20 | 4.82 | - | 437 | 3,336 |
+| 2023-12-22 | 4.82 | - | 437 | 3,337 |

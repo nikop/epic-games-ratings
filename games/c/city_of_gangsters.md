@@ -5,30 +5,30 @@ Rating: 4.29 (Ranked 857)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~164,630 |
-| Copacetic Coordination | 16.00% | ~57,263 |
-| Fronting the Money | 15.00% | ~53,684 |
-| The Dawn of Automation | 14.00% | ~50,105 |
-| Extraordinary Logistics | 14.00% | ~50,105 |
-| Dirty Money | 13.00% | ~46,526 |
-| Family First | 13.00% | ~46,526 |
-| Cleaning House | 12.00% | ~42,947 |
-| Room in the Back | 12.00% | ~42,947 |
-| Beating the Heat | 11.00% | ~39,368 |
-| Booze Baron | 11.00% | ~39,368 |
-| Friends on the Force | 10.00% | ~35,789 |
-| Neighborhood Watch | 10.00% | ~35,789 |
-| Core Corps | 8.00% | ~28,631 |
-| Sizeable Stash | 8.00% | ~28,631 |
-| Street Fighter | 7.00% | ~25,052 |
-| Friendly Gestures | 7.00% | ~25,052 |
-| People Person | 7.00% | ~25,052 |
-| Liquor Lord | 6.00% | ~21,473 |
-| Safety in Numbers | 6.00% | ~21,473 |
-| Moving Experiences | 6.00% | ~21,473 |
-| Wise Head | 6.00% | ~21,473 |
-| Show ‘em the Sugar | 6.00% | ~21,473 |
-| Killing Them Softly | 6.00% | ~21,473 |
+| Corner Clout | 46.00% | ~164,633 |
+| Copacetic Coordination | 16.00% | ~57,264 |
+| Fronting the Money | 15.00% | ~53,685 |
+| The Dawn of Automation | 14.00% | ~50,106 |
+| Extraordinary Logistics | 14.00% | ~50,106 |
+| Dirty Money | 13.00% | ~46,527 |
+| Family First | 13.00% | ~46,527 |
+| Cleaning House | 12.00% | ~42,948 |
+| Room in the Back | 12.00% | ~42,948 |
+| Beating the Heat | 11.00% | ~39,369 |
+| Booze Baron | 11.00% | ~39,369 |
+| Friends on the Force | 10.00% | ~35,790 |
+| Neighborhood Watch | 10.00% | ~35,790 |
+| Core Corps | 8.00% | ~28,632 |
+| Sizeable Stash | 8.00% | ~28,632 |
+| Street Fighter | 7.00% | ~25,053 |
+| Friendly Gestures | 7.00% | ~25,053 |
+| People Person | 7.00% | ~25,053 |
+| Liquor Lord | 6.00% | ~21,474 |
+| Safety in Numbers | 6.00% | ~21,474 |
+| Moving Experiences | 6.00% | ~21,474 |
+| Wise Head | 6.00% | ~21,474 |
+| Show ‘em the Sugar | 6.00% | ~21,474 |
+| Killing Them Softly | 6.00% | ~21,474 |
 | Street Knowledge | 5.00% | ~17,895 |
 | Oh Captain | 5.00% | ~17,895 |
 | Branching Out | 5.00% | ~17,895 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 857)
 | High Pillow | 0.10% | ~358 |
 | Station Master | 0.10% | ~358 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 357,891 (Ranked 49)  
+Progressed: 357,897 (Ranked 49)  
 Completed: 7 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,7 +332,7 @@ Completed: 7 (0.00%) (Ranked 385)
 | 2023-12-19 | 357,404 | 7 |
 | 2023-12-20 | 357,556 | 7 |
 | 2023-12-21 | 357,733 | 7 |
-| 2023-12-22 | 357,891 | 7 |
+| 2023-12-22 | 357,897 | 7 |
 ## Awards
 Max (Great for Beginners): 55  (Ranked 430)  
 Sum: 258 (Ranked 390)  

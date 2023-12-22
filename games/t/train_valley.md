@@ -7,38 +7,38 @@ Number of Ratings: 28  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Getting started | 78.00% | ~448 |
-| Close call! | 72.00% | ~413 |
-| Builder | 52.00% | ~298 |
-| Pangs of conscience | 45.00% | ~258 |
-| Living it large! | 45.00% | ~258 |
+| Close call! | 72.00% | ~414 |
+| Builder | 52.00% | ~299 |
+| Pangs of conscience | 45.00% | ~259 |
+| Living it large! | 45.00% | ~259 |
 | Collector | 44.00% | ~253 |
-| Need to think | 43.00% | ~247 |
-| Completely nuts! | 41.00% | ~235 |
-| Just in time! | 34.00% | ~195 |
-| Europe | 33.00% | ~189 |
+| Need to think | 42.00% | ~242 |
+| Completely nuts! | 41.00% | ~236 |
+| Just in time! | 34.00% | ~196 |
+| Europe | 33.00% | ~190 |
 | Madness! | 31.00% | ~178 |
-| It's no coincidence. | 29.00% | ~166 |
-| Philatelist | 26.00% | ~149 |
-| Let's roll! | 26.00% | ~149 |
+| It's no coincidence. | 29.00% | ~167 |
+| Philatelist | 26.00% | ~150 |
+| Let's roll! | 26.00% | ~150 |
 | Ouroboros | 25.00% | ~144 |
 | Non Stop! | 24.00% | ~138 |
 | Foreman | 21.00% | ~121 |
 | Russia | 20.00% | ~115 |
 | America | 19.00% | ~109 |
-| Missed it! | 18.00% | ~103 |
+| Missed it! | 18.00% | ~104 |
 | Sabotage | 16.00% | ~92 |
 | Achtung! | 12.00% | ~69 |
 | Japan | 11.00% | ~63 |
 | Woodcutter | 11.00% | ~63 |
-| Tycoon | 10.00% | ~57 |
-| Engineer | 10.00% | ~57 |
+| Tycoon | 10.00% | ~58 |
+| Engineer | 10.00% | ~58 |
 | Germany | 6.00% | ~34 |
 | Supercrash! | 5.00% | ~29 |
 | Chuck Norris | 5.00% | ~29 |
 | Сhancellor | 4.00% | ~23 |
 | Peacemaker | 4.00% | ~23 |
 | Forgotten | 3.00% | ~17 |
-| Lucky vandal | 2.00% | ~11 |
+| Lucky vandal | 2.00% | ~12 |
 | Salesman | 0.70% | ~4 |
 | BBQ | 0.50% | ~3 |
 | Vandal | 0.30% | ~2 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Juggler | 0.30% | ~2 |
 | Maniac vandal | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 574 (Ranked 323)  
+Progressed: 575 (Ranked 323)  
 Completed: 2 (0.35%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 2 (0.35%) (Ranked 237)
 | 2023-12-19 | 567 | 2 |
 | 2023-12-20 | 571 | 2 |
 | 2023-12-21 | 573 | 2 |
-| 2023-12-22 | 574 | 2 |
+| 2023-12-22 | 575 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

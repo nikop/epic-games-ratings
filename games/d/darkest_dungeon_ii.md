@@ -6,26 +6,26 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 9.00% | ~364 |
+| Malpractice Assurance | 9.00% | ~365 |
 | Lost and Found | 6.00% | ~243 |
-| This guy... again? | 5.00% | ~202 |
-| This Belongs in a Museum | 4.00% | ~5,167 |
-| Overdue Notice | 4.00% | ~5,167 |
-| Autodidact | 4.00% | ~5,167 |
+| This guy... again? | 5.00% | ~203 |
+| This Belongs in a Museum | 4.00% | ~5,168 |
+| Overdue Notice | 4.00% | ~5,168 |
+| Autodidact | 4.00% | ~5,168 |
 | Ploughshares to Swords | 4.00% | ~162 |
 | Bloody Graduation | 4.00% | ~162 |
-| Don't Make Me Turn This Coach Around | 3.00% | ~3,875 |
-| Serenity Now! | 3.00% | ~3,875 |
-| It Rings a Bell | 3.00% | ~3,875 |
-| Not Today! | 3.00% | ~3,875 |
-| Creep and Sleep | 3.00% | ~3,875 |
-| Meat and Greet | 3.00% | ~3,875 |
-| Catch and Decease | 3.00% | ~3,875 |
-| Escape from the Black Hole | 3.00% | ~3,875 |
-| Rush Hour | 3.00% | ~3,875 |
-| To Grandmother's House | 3.00% | ~3,875 |
-| FNG | 3.00% | ~3,875 |
-| Friends 'Til the End | 3.00% | ~121 |
+| Don't Make Me Turn This Coach Around | 3.00% | ~3,876 |
+| Serenity Now! | 3.00% | ~3,876 |
+| It Rings a Bell | 3.00% | ~3,876 |
+| Not Today! | 3.00% | ~3,876 |
+| Creep and Sleep | 3.00% | ~3,876 |
+| Meat and Greet | 3.00% | ~3,876 |
+| Catch and Decease | 3.00% | ~3,876 |
+| Escape from the Black Hole | 3.00% | ~3,876 |
+| Rush Hour | 3.00% | ~3,876 |
+| To Grandmother's House | 3.00% | ~3,876 |
+| FNG | 3.00% | ~3,876 |
+| Friends 'Til the End | 3.00% | ~122 |
 | Resurrection | 2.00% | ~2,584 |
 | Unleash Hell | 2.00% | ~2,584 |
 | Funny Guy | 2.00% | ~2,584 |
@@ -59,8 +59,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Utopia | 1.00% | ~1,292 |
 | Hot Air | 1.00% | ~1,292 |
 | Eyes Up | 1.00% | ~1,292 |
-| Slap on the Wrist | 0.90% | ~36 |
-| Handled | 0.80% | ~1,033 |
+| Slap on the Wrist | 0.90% | ~37 |
+| Handled | 0.80% | ~1,034 |
 | For Old Time' Sake | 0.80% | ~32 |
 | Shrine of Reflection | 0.70% | ~904 |
 | Body of Work | 0.70% | ~904 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,179 (Ranked 86)  
+Progressed: 129,189 (Ranked 86)  
 Completed: 3 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,17 +322,17 @@ Completed: 3 (0.00%) (Ranked 385)
 | 2023-12-19 | 128,605 | 3 |
 | 2023-12-20 | 128,785 | 3 |
 | 2023-12-21 | 128,979 | 3 |
-| 2023-12-22 | 129,179 | 3 |
+| 2023-12-22 | 129,189 | 3 |
 ## Awards
 Max (Character Customization): 7,834  (Ranked 50)  
-Sum: 20,950 (Ranked 58)  
+Sum: 20,954 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,834 |
 | This game has Diverse Characters | 1,754 |
 | This game has Challenging Combat | 1,625 |
-| This game is Highly Recommended | 1,557 |
+| This game is Highly Recommended | 1,561 |
 | This game is Extremely Fun | 1,481 |
 | This game has Amazing Characters | 1,481 |
 | This game has Unique Visuals | 1,406 |
@@ -672,4 +672,4 @@ Diff (max vs sum): -8
 | 2023-12-19 | 4.68 | - | 7,795 | 20,806 |
 | 2023-12-20 | 4.68 | - | 7,805 | 20,840 |
 | 2023-12-21 | 4.68 | - | 7,823 | 20,903 |
-| 2023-12-22 | 4.68 | - | 7,834 | 20,950 |
+| 2023-12-22 | 4.68 | - | 7,834 | 20,954 |

@@ -2,7 +2,7 @@
   "ID": "b7b42e2078524ab386a8b2a9856ef557",
   "Name": "Sifu",
   "ProductSlug": "sifu",
-  "Ranking_Rating": 69,
+  "Ranking_Rating": 71,
   "Ranking_Popularity": 55,
   "Ranking_PopularitySum": 87,
   "Ranking_EOS_Progress": 23,
@@ -8421,9 +8421,9 @@
       "Count": 434
     }
   ],
-  "EOS_Progressed": 740260,
+  "EOS_Progressed": 740291,
   "EOS_Completed": 12959,
-  "EOS_NewPlayers": 13763,
+  "EOS_NewPlayers": 13752,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.75,
   "EosHistory": [
@@ -30476,6 +30476,11 @@
       "Time": "2023-12-22T21:08:24.2402894+00:00",
       "NumProgressed": 740260,
       "NumCompleted": 12959
+    },
+    {
+      "Time": "2023-12-22T22:08:55.3496939+00:00",
+      "NumProgressed": 740291,
+      "NumCompleted": 12959
     }
   ],
   "TotalAchievements": 60,
@@ -30487,7 +30492,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22208
+      "UsersEstimate": 22209
     },
     {
       "ID": "02_Vengeance_H1",
@@ -30495,7 +30500,7 @@
       "Name": "The Assault",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22208
+      "UsersEstimate": 22209
     },
     {
       "ID": "03_Vengeance_H2",
@@ -30503,7 +30508,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14805
+      "UsersEstimate": 14806
     },
     {
       "ID": "04_Vengeance_H3",
@@ -30655,7 +30660,7 @@
       "Name": "Street Fighting",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14805
+      "UsersEstimate": 14806
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -30663,7 +30668,7 @@
       "Name": "Life is your teacher",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22208
+      "UsersEstimate": 22209
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -30671,7 +30676,7 @@
       "Name": "State of constant learning",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14805
+      "UsersEstimate": 14806
     },
     {
       "ID": "25_ShrineMind",
@@ -30679,7 +30684,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6662
+      "UsersEstimate": 6663
     },
     {
       "ID": "26_ShrineSpirit",
@@ -30695,7 +30700,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14805
+      "UsersEstimate": 14806
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -30735,7 +30740,7 @@
       "Name": "Old Child",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14805
+      "UsersEstimate": 14806
     },
     {
       "ID": "33_BladeOneShot",
@@ -30751,7 +30756,7 @@
       "Name": "Lightning Hands",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22208
+      "UsersEstimate": 22209
     },
     {
       "ID": "35_WideStrike",
@@ -30799,7 +30804,7 @@
       "Name": "Take damage to save time",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6662
+      "UsersEstimate": 6663
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -30847,7 +30852,7 @@
       "Name": "Martial Hub",
       "Percentage": 0.6,
       "XP": 80,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "47_Arena_GoldManhunt",
@@ -30966,21 +30971,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 49561,
+      "Progressed": 49592,
       "Completed": 10779
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 740260,
+      "Progressed": 740291,
       "Completed": 12959
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-22T21:02:32.1762865+00:00",
-  "LastChanged_Achievements": "2023-12-22T21:08:24.240289+00:00",
+  "LastChanged_Achievements": "2023-12-22T22:08:55.3496934+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:50.1499922+00:00",
-  "LastUpdate_Ratings": "2023-12-22T21:02:32.1762871+00:00",
-  "LastUpdate_Achievements": "2023-12-22T21:08:24.2404371+00:00"
+  "LastUpdate_Ratings": "2023-12-22T22:02:51.1942386+00:00",
+  "LastUpdate_Achievements": "2023-12-22T22:08:55.3498668+00:00"
 }

@@ -1,12 +1,12 @@
 # Shadow Gambit: The Cursed Crew
 [Store](https://store.epicgames.com/en-US/p/shadow-gambit-the-cursed-crew-0bca60)  
 [View Rawdata](../../db/s/shadow_gambit__the_cursed_crew.json)  
-Rating: 4.82 (Ranked 69)  
+Rating: 4.83 (Ranked 61)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 67.00% | ~839 |
-| The Adventure Begins | 49.00% | ~613 |
+| A New Journey | 67.00% | ~840 |
+| The Adventure Begins | 49.00% | ~614 |
 | Swabbie | 36.00% | ~451 |
 | With Great Power… | 36.00% | ~451 |
 | This Belongs in a Museum | 33.00% | ~413 |
@@ -14,13 +14,13 @@ Rating: 4.82 (Ranked 69)
 | Somewhere Deep in the Lost Caribbean | 26.00% | ~326 |
 | Mirror Mirror on the Wall | 26.00% | ~326 |
 | Powder Monkey | 26.00% | ~326 |
-| Pirates Assemble! | 24.00% | ~300 |
-| Buccaneer | 20.00% | ~250 |
-| Fishy Fish | 20.00% | ~250 |
+| Pirates Assemble! | 24.00% | ~301 |
+| Buccaneer | 20.00% | ~251 |
+| Fishy Fish | 20.00% | ~251 |
 | All Good Things | 17.00% | ~213 |
 | Persistent Parasite | 16.00% | ~200 |
 | Seadog | 15.00% | ~188 |
-| Jaded Judge | 12.00% | ~150 |
+| Jaded Judge | 11.00% | ~138 |
 | Rustic Recipe | 11.00% | ~138 |
 | Tobacco Travesty | 10.00% | ~125 |
 | Privateer | 9.00% | ~113 |
@@ -32,8 +32,8 @@ Rating: 4.82 (Ranked 69)
 | Marauder | 3.00% | ~38 |
 | Welcome Back Jester | 3.00% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,252 (Ranked 264)  
-Completed: 34 (2.72%) (Ranked 119)  
+Progressed: 1,253 (Ranked 264)  
+Completed: 34 (2.71%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -166,7 +166,7 @@ Completed: 34 (2.72%) (Ranked 119)
 | 2023-12-19 | 1,218 | 32 |
 | 2023-12-20 | 1,228 | 33 |
 | 2023-12-21 | 1,242 | 33 |
-| 2023-12-22 | 1,252 | 34 |
+| 2023-12-22 | 1,253 | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -191,3 +191,4 @@ Completed: 34 (2.72%) (Ranked 119)
 | 2023-12-09 | 4.80 | 0 | 0 |
 | 2023-12-13 | 4.81 | 0 | 0 |
 | 2023-12-21 | 4.82 | 0 | 0 |
+| 2023-12-22 | 4.83 | 0 | 0 |

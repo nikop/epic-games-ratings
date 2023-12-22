@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -2323,9 +2323,9 @@
       "ID": "ACHIEVEMENT_27",
       "SetID": "7pimpda",
       "Name": "Fashion Connoisseur",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 336
+      "UsersEstimate": 343
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -2540,8 +2540,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-22T21:08:42.9688254+00:00",
+  "LastChanged_Achievements": "2023-12-22T22:09:15.8211788+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:00.9363361+00:00",
-  "LastUpdate_Ratings": "2023-12-22T20:59:01.4144789+00:00",
-  "LastUpdate_Achievements": "2023-12-22T21:08:42.96888+00:00"
+  "LastUpdate_Ratings": "2023-12-22T21:59:04.7147205+00:00",
+  "LastUpdate_Achievements": "2023-12-22T22:09:15.8212677+00:00"
 }

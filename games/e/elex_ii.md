@@ -6,27 +6,28 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Best Buddy | 17.00% | ~11 |
+| Best Buddy | 18.00% | ~12 |
 | Role Model | 15.00% | ~10 |
-| Entrepreneur | 14.00% | ~9 |
+| Entrepreneur | 13.00% | ~9 |
+| Creator | 7.00% | ~5 |
+| Civilian | 7.00% | ~5 |
 | Military Leader | 6.00% | ~4 |
-| Creator | 6.00% | ~4 |
-| Civilian | 6.00% | ~4 |
-| Peddler | 5.00% | ~3 |
-| Commander | 5.00% | ~3 |
-| Long-Haul Flyer | 3.00% | ~2 |
+| Peddler | 4.00% | ~3 |
+| Long-Haul Flyer | 4.00% | ~3 |
+| Commander | 4.00% | ~3 |
 | Globetrotter | 3.00% | ~2 |
 | Hotshot | 3.00% | ~2 |
 | Free as a Bird | 3.00% | ~2 |
 | Berserker | 3.00% | ~2 |
+| Family Reunion | 3.00% | ~2 |
 | Irissa's Fate | 3.00% | ~2 |
 | Pass A38 | 3.00% | ~2 |
-| Storyteller | 2.00% | ~1 |
-| Unbreakable | 2.00% | ~1 |
-| Alb | 2.00% | ~1 |
-| Festival-goer | 2.00% | ~1 |
-| Family Reunion | 2.00% | ~1 |
-| Eternal Oblivion | 2.00% | ~1 |
+| Storyteller | 1.00% | ~1 |
+| Unbreakable | 1.00% | ~1 |
+| Alb | 1.00% | ~1 |
+| Festival-goer | 1.00% | ~1 |
+| Detective | 1.00% | ~1 |
+| Eternal Oblivion | 1.00% | ~1 |
 | Pack Rat | 0.00% | ~0 |
 | Banker | 0.00% | ~0 |
 | Drinker | 0.00% | ~0 |
@@ -48,7 +49,6 @@ Number of Ratings: 124  (23.09.2022)
 | Destroyer | 0.00% | ~0 |
 | Perfectionist | 0.00% | ~0 |
 | Legendary | 0.00% | ~0 |
-| Detective | 0.00% | ~0 |
 | Warrior | 0.00% | ~0 |
 | Hunter | 0.00% | ~0 |
 | Defender | 0.00% | ~0 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Fire in the Hole | 0.00% | ~0 |
 | Lover | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66 (Ranked 512)  
+Progressed: 67 (Ranked 511)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,7 +66,7 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-19 | 32 | 0 |
 | 2023-12-20 | 40 | 0 |
 | 2023-12-21 | 48 | 0 |
-| 2023-12-22 | 66 | 0 |
+| 2023-12-22 | 67 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -2,10 +2,10 @@
   "ID": "5d2e14c5f6ac427b8a8466508cf81f6d",
   "Name": "Urbek City Builder",
   "ProductSlug": "urbek-city-builder-17cf7d",
-  "Ranking_EOS_Progress": 336,
+  "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 448,
+  "EOS_Progressed": 449,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1570,6 +1570,11 @@
       "Time": "2023-12-21T23:10:43.3561697+00:00",
       "NumProgressed": 448,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T22:10:31.5638174+00:00",
+      "NumProgressed": 449,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -2212,7 +2217,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 448,
+      "Progressed": 449,
       "Completed": 0
     }
   ],
@@ -2220,8 +2225,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-12-22T21:09:53.917379+00:00",
+  "LastChanged_Achievements": "2023-12-22T22:10:31.563817+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:36.321847+00:00",
-  "LastUpdate_Ratings": "2023-12-22T20:58:16.2565361+00:00",
-  "LastUpdate_Achievements": "2023-12-22T21:09:53.9174389+00:00"
+  "LastUpdate_Ratings": "2023-12-22T21:58:17.2515001+00:00",
+  "LastUpdate_Achievements": "2023-12-22T22:10:31.5638851+00:00"
 }

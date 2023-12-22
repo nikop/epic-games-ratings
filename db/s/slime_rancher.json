@@ -2,13 +2,13 @@
   "ID": "corydalis",
   "Name": "Slime Rancher",
   "ProductSlug": "slime-rancher",
-  "Ranking_Rating": 69,
+  "Ranking_Rating": 71,
   "Ranking_Popularity": 230,
   "Ranking_PopularitySum": 172,
   "Ranking_EOS_Progress": 814,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 564,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 565,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2017-08-01T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -3965,10 +3965,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3336,
       "NumberOfAwardsMax": 437
+    },
+    {
+      "Time": "2023-12-22T22:00:31.4933288+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3337,
+      "NumberOfAwardsMax": 437
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3336,
+  "NumberOfAwards": 3337,
   "NumberOfAwardsMax": 437,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4030,7 +4036,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 343
+      "Count": 344
     },
     {
       "Text": "This game has a Kind Community",
@@ -4056,8 +4062,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:59.345324+00:00",
-  "LastChanged": "2023-12-20T17:58:35.5764676+00:00",
+  "LastChanged": "2023-12-22T22:00:31.4933286+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:36.0722113+00:00",
-  "LastUpdate_Ratings": "2023-12-22T21:00:21.5863662+00:00",
-  "LastUpdate_Achievements": "2023-12-22T21:08:20.7079963+00:00"
+  "LastUpdate_Ratings": "2023-12-22T22:00:31.4933293+00:00",
+  "LastUpdate_Achievements": "2023-12-22T22:08:51.3840784+00:00"
 }

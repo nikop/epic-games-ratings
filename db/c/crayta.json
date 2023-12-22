@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 329,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -332,9 +332,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 109912,
+  "EOS_Progressed": 109913,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3652,6 +3652,11 @@
       "Time": "2023-12-22T21:07:45.4129517+00:00",
       "NumProgressed": 109912,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-22T22:08:13.1869851+00:00",
+      "NumProgressed": 109913,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -3735,7 +3740,7 @@
       "Name": "Building Block - Bronze",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4396
+      "UsersEstimate": 4397
     },
     {
       "ID": "19",
@@ -3799,7 +3804,7 @@
       "Name": "Variety Player - Silver",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 4396
+      "UsersEstimate": 4397
     },
     {
       "ID": "26",
@@ -3934,15 +3939,15 @@
     {
       "ID": "4i9cj6f",
       "IsBase": true,
-      "Progressed": 109912,
+      "Progressed": 109913,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00",
   "LastChanged": "2023-01-05T14:57:39.5556866+00:00",
-  "LastChanged_Achievements": "2023-12-22T21:07:45.4129515+00:00",
+  "LastChanged_Achievements": "2023-12-22T22:08:13.1869846+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:17.171157+00:00",
-  "LastUpdate_Ratings": "2023-12-22T20:57:14.9183098+00:00",
-  "LastUpdate_Achievements": "2023-12-22T21:07:45.4129845+00:00"
+  "LastUpdate_Ratings": "2023-12-22T21:57:14.671153+00:00",
+  "LastUpdate_Achievements": "2023-12-22T22:08:13.1870187+00:00"
 }

@@ -6,19 +6,19 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,603 |
-| Gun Fu | 8.00% | ~78,402 |
-| The Fool | 7.00% | ~68,602 |
-| Right Back At Ya | 6.00% | ~58,802 |
-| Full Body Conversion | 5.00% | ~49,001 |
-| The Lovers | 5.00% | ~49,001 |
-| Christmas Tree Attack | 4.00% | ~39,201 |
-| Stanislavski's Method | 4.00% | ~39,201 |
-| The Hermit | 4.00% | ~39,201 |
-| The Wheel of Fortune | 4.00% | ~39,201 |
-| True Soldier | 4.00% | ~39,201 |
-| All the President's Men | 4.00% | ~4,346 |
-| Arachnophobia | 4.00% | ~4,346 |
+| V for Vendetta | 12.00% | ~117,606 |
+| Gun Fu | 8.00% | ~78,404 |
+| The Fool | 7.00% | ~68,603 |
+| Right Back At Ya | 6.00% | ~58,803 |
+| Full Body Conversion | 5.00% | ~49,002 |
+| The Lovers | 5.00% | ~49,002 |
+| Christmas Tree Attack | 4.00% | ~39,202 |
+| Stanislavski's Method | 4.00% | ~39,202 |
+| The Hermit | 4.00% | ~39,202 |
+| The Wheel of Fortune | 4.00% | ~39,202 |
+| True Soldier | 4.00% | ~39,202 |
+| All the President's Men | 4.00% | ~4,347 |
+| Arachnophobia | 4.00% | ~4,347 |
 | The Quick and the Dead | 3.00% | ~29,401 |
 | Life of the Road | 3.00% | ~29,401 |
 | The High Priestess | 3.00% | ~29,401 |
@@ -35,9 +35,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | Spin Doctor | 2.00% | ~2,173 |
 | The Wandering Fool | 1.00% | ~9,800 |
 | The Sun | 1.00% | ~9,800 |
-| King of Wands | 1.00% | ~1,086 |
-| Dirty Deeds | 1.00% | ~1,086 |
-| Easy Come, Easy Go | 1.00% | ~1,086 |
+| King of Wands | 1.00% | ~1,087 |
+| Dirty Deeds | 1.00% | ~1,087 |
+| Easy Come, Easy Go | 1.00% | ~1,087 |
 | To Bad Decisions! | 0.90% | ~8,820 |
 | Ten out of Ten | 0.90% | ~8,820 |
 | Breathtaking | 0.80% | ~7,840 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 980,027 (Ranked 16)  
+Progressed: 980,047 (Ranked 16)  
 Completed: 2,955 (0.30%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 2,955 (0.30%) (Ranked 249)
 | 2023-12-19 | 978,882 | 2,944 |
 | 2023-12-20 | 979,279 | 2,948 |
 | 2023-12-21 | 979,668 | 2,950 |
-| 2023-12-22 | 980,027 | 2,955 |
+| 2023-12-22 | 980,047 | 2,955 |
 ## Awards
 Max (Character Customization): 126,294  (Ranked 8)  
 Sum: 437,314 (Ranked 9)  

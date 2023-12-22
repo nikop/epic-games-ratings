@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 416,
+  "EOS_Progressed": 417,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
@@ -1255,6 +1255,11 @@
       "Time": "2023-12-22T14:03:38.3545125+00:00",
       "NumProgressed": 416,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T22:04:06.6872079+00:00",
+      "NumProgressed": 417,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1298,7 +1303,7 @@
       "Name": "Floor Galore",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ach_area_1",
@@ -1306,7 +1311,7 @@
       "Name": "Under One Roof",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ach_art",
@@ -1346,7 +1351,7 @@
       "Name": "Decorator\u0027s Touch",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ach_buzz",
@@ -1354,7 +1359,7 @@
       "Name": "Campaign Launch",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "ach_campaigns_1",
@@ -1362,7 +1367,7 @@
       "Name": "Apartment Awareness",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ach_campaigns_2",
@@ -1466,7 +1471,7 @@
       "Name": "Luxury Boutiques",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ach_deco",
@@ -1538,7 +1543,7 @@
       "Name": "Three of a Kind",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ach_ep1_reviews_2",
@@ -1546,7 +1551,7 @@
       "Name": "Four of a Kind",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ach_ep1_revs_1",
@@ -1570,7 +1575,7 @@
       "Name": "Starting Skyward",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "ach_floors_1",
@@ -1602,7 +1607,7 @@
       "Name": "Grime is Not Good",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ach_grime_1",
@@ -1656,17 +1661,17 @@
       "ID": "ach_nomoveout",
       "SetID": "b8gh1fi",
       "Name": "28 Days Later",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 46
     },
     {
       "ID": "ach_office_1",
       "SetID": "b8gh1fi",
       "Name": "It\u0027s Technical",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 150
     },
     {
       "ID": "ach_office_2",
@@ -1698,7 +1703,7 @@
       "Name": "Master of Puppets",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ach_prestige_1",
@@ -1730,7 +1735,7 @@
       "Name": "In the Black",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ach_profit_1",
@@ -1770,7 +1775,7 @@
       "Name": "Refined Palates",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ach_restaurants_2",
@@ -1786,7 +1791,7 @@
       "Name": "Dinner Dash",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ach_restaurants_4",
@@ -1802,7 +1807,7 @@
       "Name": "Starred Dining",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ach_retail_1",
@@ -1842,7 +1847,7 @@
       "Name": "Cashflow Chief",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ach_revs_2",
@@ -1969,7 +1974,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 416,
+      "Progressed": 417,
       "Completed": 0
     }
   ],
@@ -1977,8 +1982,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-12-22T21:03:43.2266143+00:00",
+  "LastChanged_Achievements": "2023-12-22T22:04:06.6872075+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:18.491222+00:00",
-  "LastUpdate_Ratings": "2023-12-22T21:01:32.6346519+00:00",
-  "LastUpdate_Achievements": "2023-12-22T21:03:43.2266888+00:00"
+  "LastUpdate_Ratings": "2023-12-22T22:01:47.4602847+00:00",
+  "LastUpdate_Achievements": "2023-12-22T22:04:06.6872966+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 182,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3813,7 +3813,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32542,
+  "EOS_Progressed": 32546,
   "EOS_Completed": 69,
   "EOS_NewPlayers": 257,
   "EOS_NewCompleters": 0,
@@ -23108,6 +23108,11 @@
       "Time": "2023-12-22T21:07:13.7148365+00:00",
       "NumProgressed": 32542,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-22T22:07:39.4368304+00:00",
+      "NumProgressed": 32546,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -23231,7 +23236,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 2603
+      "UsersEstimate": 2604
     },
     {
       "ID": "Escape_Artist",
@@ -23423,7 +23428,7 @@
       "Name": "Stylish",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3254
+      "UsersEstimate": 3255
     },
     {
       "ID": "Summoner",
@@ -23526,7 +23531,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32542,
+      "Progressed": 32546,
       "Completed": 69
     }
   ],
@@ -23534,8 +23539,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-22T17:00:21.547341+00:00",
-  "LastChanged_Achievements": "2023-12-22T21:07:13.7148363+00:00",
+  "LastChanged_Achievements": "2023-12-22T22:07:39.43683+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:05.1146147+00:00",
-  "LastUpdate_Ratings": "2023-12-22T21:01:50.4414925+00:00",
-  "LastUpdate_Achievements": "2023-12-22T21:07:13.71495+00:00"
+  "LastUpdate_Ratings": "2023-12-22T22:02:06.580829+00:00",
+  "LastUpdate_Achievements": "2023-12-22T22:07:39.4369901+00:00"
 }

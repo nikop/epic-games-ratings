@@ -4,7 +4,7 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -1495,9 +1495,9 @@
       "ID": "MAIN_CLEAR_ISLAND3",
       "SetID": "apihg0e",
       "Name": "Futile Resistance",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 39
     },
     {
       "ID": "MAIN_CLEAR_ISLAND4",
@@ -1527,9 +1527,9 @@
       "ID": "MINIBOSS_DEFEATED_ALL",
       "SetID": "apihg0e",
       "Name": "Threats Identified",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 14
     },
     {
       "ID": "PORTAL_REPAIRED_ISLANAD1",
@@ -1654,8 +1654,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-22T21:04:11.5502176+00:00",
+  "LastChanged_Achievements": "2023-12-22T22:04:35.8966331+00:00",
   "LastUpdate_AppInfo": "2023-12-19T19:57:15.6866052+00:00",
-  "LastUpdate_Ratings": "2023-12-22T21:02:40.0047822+00:00",
-  "LastUpdate_Achievements": "2023-12-22T21:04:11.5502464+00:00"
+  "LastUpdate_Ratings": "2023-12-22T22:02:59.0364712+00:00",
+  "LastUpdate_Achievements": "2023-12-22T22:04:35.8966664+00:00"
 }

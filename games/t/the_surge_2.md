@@ -1,13 +1,13 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.26 (Ranked 887)  
+Rating: 4.26 (Ranked 888)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 79.00% | ~1,848 |
+| Rigged And Ready | 79.00% | ~1,849 |
 | Don't I Know You...? | 76.00% | ~1,778 |
-| Jailbreak | 65.00% | ~1,520 |
+| Jailbreak | 65.00% | ~1,521 |
 | HEADSHOT! | 38.00% | ~889 |
 | Suited and Booted | 38.00% | ~889 |
 | Sleeping With The Fishes | 35.00% | ~819 |
@@ -21,13 +21,13 @@ Rating: 4.26 (Ranked 887)
 | True Survivor | 21.00% | ~491 |
 | Offensive Defense | 20.00% | ~468 |
 | Shocking | 20.00% | ~468 |
-| Court Martial | 19.00% | ~444 |
-| Clean Cut | 19.00% | ~444 |
-| Unforeseeable Consequences | 19.00% | ~444 |
+| Court Martial | 19.00% | ~445 |
+| Clean Cut | 19.00% | ~445 |
+| Unforeseeable Consequences | 19.00% | ~445 |
 | Dead Again | 18.00% | ~421 |
 | Full Arsenal | 17.00% | ~398 |
 | Can't Trust Banks | 15.00% | ~351 |
-| Mommy Dearest | 14.00% | ~327 |
+| Mommy Dearest | 14.00% | ~328 |
 | Bad Dog | 13.00% | ~304 |
 | Where It All Began | 13.00% | ~304 |
 | Risk Tolerant | 13.00% | ~304 |
@@ -63,7 +63,7 @@ Rating: 4.26 (Ranked 887)
 | Three Birds With One Stone | 1.00% | ~23 |
 | The Easy Way Out | 1.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,339 (Ranked 229)  
+Progressed: 2,340 (Ranked 229)  
 Completed: 13 (0.56%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 13 (0.56%) (Ranked 203)
 | 2023-12-19 | 2,300 | 13 |
 | 2023-12-20 | 2,314 | 13 |
 | 2023-12-21 | 2,329 | 13 |
-| 2023-12-22 | 2,339 | 13 |
+| 2023-12-22 | 2,340 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

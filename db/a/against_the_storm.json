@@ -2,13 +2,13 @@
   "ID": "93eeeab14a3d45b8bf5586a900137733",
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
-  "Ranking_Rating": 69,
+  "Ranking_Rating": 71,
   "Ranking_Popularity": 228,
   "Ranking_PopularitySum": 175,
-  "Ranking_EOS_Progress": 149,
+  "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3551,9 +3551,9 @@
       "Count": 334
     }
   ],
-  "EOS_Progressed": 18933,
+  "EOS_Progressed": 18939,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 668,
+  "EOS_NewPlayers": 669,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16736,6 +16736,11 @@
       "Time": "2023-12-22T21:07:44.6795143+00:00",
       "NumProgressed": 18933,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-22T22:08:12.3444005+00:00",
+      "NumProgressed": 18939,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16836,7 +16841,7 @@
       "Name": "First Real Expedition",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "WinHard",
@@ -17084,7 +17089,7 @@
       "Name": "Taking Action",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "WinWithResolve",
@@ -17124,7 +17129,7 @@
       "Name": "No Deaths",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "WinWithoutOrders",
@@ -17132,7 +17137,7 @@
       "Name": "Defying the Crown",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "Year1Dangerous",
@@ -17156,7 +17161,7 @@
       "Name": "Frosts",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "WinNearGreed",
@@ -17164,7 +17169,7 @@
       "Name": "Land of Greed",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "WinNearLibrary",
@@ -17188,7 +17193,7 @@
       "Name": "Ominous Presence",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "WinNearStorms",
@@ -17196,7 +17201,7 @@
       "Name": "Gathering Storm",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -17219,15 +17224,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18933,
+      "Progressed": 18939,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-22T20:00:07.3424907+00:00",
-  "LastChanged_Achievements": "2023-12-22T21:07:44.679514+00:00",
+  "LastChanged_Achievements": "2023-12-22T22:08:12.3444001+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
-  "LastUpdate_Ratings": "2023-12-22T21:01:49.9556293+00:00",
-  "LastUpdate_Achievements": "2023-12-22T21:07:44.6795957+00:00"
+  "LastUpdate_Ratings": "2023-12-22T22:02:06.1517211+00:00",
+  "LastUpdate_Achievements": "2023-12-22T22:08:12.3444975+00:00"
 }

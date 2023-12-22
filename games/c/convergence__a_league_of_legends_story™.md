@@ -5,42 +5,42 @@ Rating: 4.64 (Ranked 338)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 39.00% | ~415 |
+| Time Heals All Wounds | 39.00% | ~416 |
 | Rail Rat | 30.00% | ~320 |
 | The Mysterious Stranger | 29.00% | ~309 |
-| Immaculate Aim | 25.00% | ~266 |
+| Immaculate Aim | 25.00% | ~267 |
 | Make Up For Lost Time | 24.00% | ~256 |
+| The Prince in Heels | 24.00% | ~256 |
 | The Brass Boss | 24.00% | ~256 |
 | Time Flies | 23.00% | ~245 |
 | No, Thanks! | 23.00% | ~245 |
-| The Prince in Heels | 23.00% | ~245 |
 | Honest Mistake | 23.00% | ~245 |
-| Fast Learner | 23.00% | ~245 |
 | Immaculate Aim | 23.00% | ~245 |
-| The Steel Shadow | 22.00% | ~234 |
-| The Harder They Fall | 22.00% | ~234 |
-| Breaking Down Barriers | 22.00% | ~234 |
-| The Wicked Twins | 22.00% | ~234 |
+| The Steel Shadow | 22.00% | ~235 |
+| The Harder They Fall | 22.00% | ~235 |
+| Breaking Down Barriers | 22.00% | ~235 |
+| The Wicked Twins | 22.00% | ~235 |
+| Fast Learner | 22.00% | ~235 |
+| Golem Chaser | 21.00% | ~224 |
 | Right On Time | 20.00% | ~213 |
 | Like Clockwork | 20.00% | ~213 |
 | The Betrayer | 20.00% | ~213 |
-| Golem Chaser | 20.00% | ~213 |
-| The Loose Cannon | 19.00% | ~202 |
-| Check Your Pulse | 19.00% | ~202 |
+| The Loose Cannon | 19.00% | ~203 |
+| Check Your Pulse | 19.00% | ~203 |
 | The Man Who Shattered Time | 18.00% | ~192 |
 | The Family Fortune | 18.00% | ~192 |
 | Street Style | 17.00% | ~181 |
 | Whiz Kid | 15.00% | ~160 |
 | Cartographer | 14.00% | ~149 |
 | Good Neighbor | 14.00% | ~149 |
-| Treasure Trove | 13.00% | ~138 |
-| Family Memories | 13.00% | ~138 |
+| Treasure Trove | 13.00% | ~139 |
+| Family Memories | 13.00% | ~139 |
 | Chaincrawler Explorer | 12.00% | ~128 |
 | Ask Questions Later | 12.00% | ~128 |
 | Sump Explorer | 11.00% | ~117 |
 | Syron for Hope | 11.00% | ~117 |
-| Factorywood Explorer | 10.00% | ~106 |
-| Theater Explorer | 10.00% | ~106 |
+| Factorywood Explorer | 10.00% | ~107 |
+| Theater Explorer | 10.00% | ~107 |
 | Cultivair Explorer | 9.00% | ~96 |
 | Fairgrounds Explorer | 9.00% | ~96 |
 | Corin Goes Home | 8.00% | ~85 |
@@ -55,11 +55,11 @@ Rating: 4.64 (Ranked 338)
 | Thinking Two Steps Ahead | 1.00% | ~11 |
 | No Time to Waste | 1.00% | ~11 |
 | A Lesson in Precision | 0.90% | ~10 |
-| Wildlife Protection | 0.80% | ~9 |
+| Wildlife Protection | 0.70% | ~7 |
 | Raw Talent | 0.70% | ~7 |
 | Going to Live Forever | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,065 (Ranked 275)  
+Progressed: 1,067 (Ranked 275)  
 Completed: 6 (0.56%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 6 (0.56%) (Ranked 203)
 | 2023-12-19 | 1,037 | 6 |
 | 2023-12-20 | 1,046 | 6 |
 | 2023-12-21 | 1,057 | 6 |
-| 2023-12-22 | 1,065 | 6 |
+| 2023-12-22 | 1,067 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

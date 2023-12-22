@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -323,9 +323,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3642,
+  "EOS_Progressed": 3644,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6898,6 +6898,11 @@
       "Time": "2023-12-22T20:04:33.1092855+00:00",
       "NumProgressed": 3642,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T22:05:22.4094614+00:00",
+      "NumProgressed": 3644,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -6909,7 +6914,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "ACH_BASE_10",
@@ -6989,7 +6994,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "ACH_BASE_21",
@@ -7021,7 +7026,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "ACH_BASE_25",
@@ -7085,7 +7090,7 @@
       "Name": "Power Outage",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "ACH_BASE_32",
@@ -7237,7 +7242,7 @@
       "Name": "Convenient Transport",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "ACH_BASE_52",
@@ -7261,7 +7266,7 @@
       "Name": "Please Make it Stop!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "ACH_BASE_57",
@@ -7364,13 +7369,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1826,
+      "Progressed": 1828,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3642,
+      "Progressed": 3644,
       "Completed": 0
     }
   ],
@@ -7378,8 +7383,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-22T13:57:44.9340377+00:00",
-  "LastChanged_Achievements": "2023-12-22T21:04:55.3693122+00:00",
+  "LastChanged_Achievements": "2023-12-22T22:05:22.4094609+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.6786359+00:00",
-  "LastUpdate_Ratings": "2023-12-22T20:58:04.1376232+00:00",
-  "LastUpdate_Achievements": "2023-12-22T21:04:55.3693986+00:00"
+  "LastUpdate_Ratings": "2023-12-22T21:58:05.4617938+00:00",
+  "LastUpdate_Achievements": "2023-12-22T22:05:22.4095219+00:00"
 }

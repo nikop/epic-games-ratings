@@ -38,7 +38,7 @@ Rating: 4.55 (Ranked 510)
 | Power of Simplicity | 0.20% | ~3 |
 | Terrorist | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,319 (Ranked 259)  
+Progressed: 1,320 (Ranked 259)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-19 | 1,309 | 0 |
 | 2023-12-20 | 1,310 | 0 |
 | 2023-12-21 | 1,312 | 0 |
-| 2023-12-22 | 1,319 | 0 |
+| 2023-12-22 | 1,320 | 0 |
 ## Awards
 Max (Character Customization): 26  (Ranked 533)  
 Sum: 26 (Ranked 541)  

@@ -11,7 +11,7 @@ Number of Ratings: 154  (23.09.2022)
 | Welcome to Sonic 3 & Knuckles | 71.00% | ~467 |
 | Welcome to Sonic CD | 70.00% | ~461 |
 | Welcome to Sonic the Hedgehog 2 | 69.00% | ~454 |
-| Ring Collector | 66.00% | ~434 |
+| Ring Collector | 67.00% | ~441 |
 | Time Traveler | 65.00% | ~428 |
 | Everyone's Hero | 62.00% | ~408 |
 | Easy Peasy with Shields | 58.00% | ~382 |
@@ -20,7 +20,7 @@ Number of Ratings: 154  (23.09.2022)
 | Knuckles the Echidna | 56.00% | ~368 |
 | Miles "Tails" Prower | 55.00% | ~362 |
 | Boss Rush Attempt | 49.00% | ~322 |
-| Cleared Sonic the Hedgehog | 47.00% | ~309 |
+| Cleared Sonic the Hedgehog | 48.00% | ~316 |
 | Super Sonic | 42.00% | ~276 |
 | Shut Down Metal Sonic | 40.00% | ~263 |
 | Beware Stingers! | 40.00% | ~263 |

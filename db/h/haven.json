@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1723,
+  "EOS_Progressed": 1725,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -2768,6 +2768,11 @@
       "Time": "2023-12-22T21:06:41.4561195+00:00",
       "NumProgressed": 1723,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-22T22:07:05.543285+00:00",
+      "NumProgressed": 1725,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -2779,7 +2784,7 @@
       "Name": "Lovebirds",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "10",
@@ -2803,7 +2808,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "13",
@@ -2843,7 +2848,7 @@
       "Name": "Balding bloot!",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 1275
+      "UsersEstimate": 1276
     },
     {
       "ID": "18",
@@ -2851,7 +2856,7 @@
       "Name": "Like new!",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "19",
@@ -2939,7 +2944,7 @@
       "Name": "Hug therapy",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "30",
@@ -2987,7 +2992,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "7",
@@ -3018,15 +3023,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1723,
+      "Progressed": 1725,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-22T21:06:41.456119+00:00",
+  "LastChanged_Achievements": "2023-12-22T22:07:05.5432848+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.3116727+00:00",
-  "LastUpdate_Ratings": "2023-12-22T21:01:40.2882505+00:00",
-  "LastUpdate_Achievements": "2023-12-22T21:06:41.4561518+00:00"
+  "LastUpdate_Ratings": "2023-12-22T22:01:55.9851991+00:00",
+  "LastUpdate_Achievements": "2023-12-22T22:07:05.5433077+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -567,9 +567,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5998,
+  "EOS_Progressed": 6000,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 305,
+  "EOS_NewPlayers": 300,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8812,6 +8812,11 @@
       "Time": "2023-12-22T21:06:56.8943717+00:00",
       "NumProgressed": 5998,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-22T22:07:21.5738703+00:00",
+      "NumProgressed": 6000,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -8885,9 +8890,9 @@
       "ID": "17",
       "SetID": "3aa2279",
       "Name": "Lord of Chaos",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 54
     },
     {
       "ID": "18",
@@ -9302,13 +9307,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5998,
+      "Progressed": 6000,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5998,
+      "Progressed": 6000,
       "Completed": 7
     }
   ],
@@ -9316,8 +9321,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-20T07:59:25.4319145+00:00",
-  "LastChanged_Achievements": "2023-12-22T21:06:56.8943713+00:00",
+  "LastChanged_Achievements": "2023-12-22T22:07:21.5738701+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.6868317+00:00",
-  "LastUpdate_Ratings": "2023-12-22T20:58:12.7830209+00:00",
-  "LastUpdate_Achievements": "2023-12-22T21:06:56.8944521+00:00"
+  "LastUpdate_Ratings": "2023-12-22T21:58:14.1510914+00:00",
+  "LastUpdate_Achievements": "2023-12-22T22:07:21.5739642+00:00"
 }

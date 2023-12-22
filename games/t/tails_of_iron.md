@@ -6,15 +6,15 @@ Rating: 4.55 (Ranked 510)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Bright Fir | 0.60% | ~5 |
+| Complete Guard Faction | 0.50% | ~11 |
 | End of the Mozis | 0.50% | ~11 |
 | Meet the Creatures from the Deep | 0.50% | ~11 |
 | Throne Room Fit For A King | 0.50% | ~11 |
 | Return Power To The Depths | 0.50% | ~11 |
+| Shield Maiden Yellow Tongue | 0.50% | ~5 |
 | Become King | 0.40% | ~9 |
-| Complete Guard Faction | 0.40% | ~9 |
 | Defeat 25 Frogs | 0.40% | ~9 |
 | Defeat Croakhis Khan | 0.40% | ~4 |
-| Shield Maiden Yellow Tongue | 0.40% | ~4 |
 | I Remember My First Beer | 0.40% | ~4 |
 | Collect Gold | 0.30% | ~7 |
 | Collect Iron Ore | 0.30% | ~7 |
@@ -42,7 +42,7 @@ Rating: 4.55 (Ranked 510)
 | Complete Arena Faction | 0.10% | ~2 |
 | A new Warchief rises | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,267 (Ranked 231)  
+Progressed: 2,268 (Ranked 231)  
 Completed: 12 (0.53%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 12 (0.53%) (Ranked 210)
 | 2023-12-19 | 2,258 | 12 |
 | 2023-12-20 | 2,263 | 12 |
 | 2023-12-21 | 2,266 | 12 |
-| 2023-12-22 | 2,267 | 12 |
+| 2023-12-22 | 2,268 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

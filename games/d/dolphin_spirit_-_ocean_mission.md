@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Maupiroa | 46.00% | ~11 |
-| Recycling newbie | 38.00% | ~9 |
-| New recruit | 21.00% | ~5 |
-| Interesting | 17.00% | ~4 |
-| Amateur photographer | 13.00% | ~3 |
-| Power of the dolphin | 13.00% | ~3 |
+| Welcome to Maupiroa | 44.00% | ~11 |
+| Recycling newbie | 36.00% | ~9 |
+| New recruit | 20.00% | ~5 |
+| Interesting | 16.00% | ~4 |
+| Amateur photographer | 12.00% | ~3 |
+| Power of the dolphin | 12.00% | ~3 |
 | Rescuer | 8.00% | ~2 |
 | Heroic member | 8.00% | ~2 |
 | In search of knowledge | 8.00% | ~2 |
@@ -37,7 +37,7 @@
 | Picture of the creek | 0.00% | ~0 |
 | Well of science | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24 (Ranked 594)  
+Progressed: 25 (Ranked 589)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -57,4 +57,4 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-13 | 21 | 0 |
 | 2023-12-15 | 22 | 0 |
 | 2023-12-16 | 23 | 0 |
-| 2023-12-22 | 24 | 0 |
+| 2023-12-22 | 25 | 0 |

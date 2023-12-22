@@ -1,7 +1,7 @@
 # Against the Storm
 [Store](https://store.epicgames.com/en-US/p/against-the-storm)  
 [View Rawdata](../../db/a/against_the_storm.json)  
-Rating: 4.82 (Ranked 69)  
+Rating: 4.82 (Ranked 71)  
 Number of Ratings: 1,845  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,13 +9,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Abandoned Settlement | 6.00% | ~1,136 |
 | Overgrown Library | 6.00% | ~1,136 |
 | Petrified Necropolis | 5.00% | ~947 |
-| First Real Expedition | 4.00% | ~757 |
-| Taking Action | 4.00% | ~757 |
-| No Deaths | 4.00% | ~757 |
-| Frosts | 4.00% | ~757 |
-| Land of Greed | 4.00% | ~757 |
-| Ominous Presence | 4.00% | ~757 |
-| Gathering Storm | 4.00% | ~757 |
+| First Real Expedition | 4.00% | ~758 |
+| Taking Action | 4.00% | ~758 |
+| No Deaths | 4.00% | ~758 |
+| Frosts | 4.00% | ~758 |
+| Land of Greed | 4.00% | ~758 |
+| Ominous Presence | 4.00% | ~758 |
+| Gathering Storm | 4.00% | ~758 |
 | Overcoming Difficulty | 3.00% | ~568 |
 | Coral Forest | 3.00% | ~568 |
 | The Marshlands | 3.00% | ~568 |
@@ -41,7 +41,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Trade Baron | 1.00% | ~189 |
 | Against All Odds | 0.90% | ~170 |
 | Haunted Forest | 0.90% | ~170 |
-| Defying the Crown | 0.80% | ~151 |
+| Defying the Crown | 0.80% | ~152 |
 | Serving Ale | 0.70% | ~133 |
 | Fishmen Ritual Site | 0.70% | ~133 |
 | Victory Through Prosperity | 0.70% | ~133 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,933 (Ranked 149)  
+Progressed: 18,939 (Ranked 150)  
 Completed: 39 (0.21%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 39 (0.21%) (Ranked 269)
 | 2023-12-19 | 18,687 | 39 |
 | 2023-12-20 | 18,771 | 39 |
 | 2023-12-21 | 18,861 | 39 |
-| 2023-12-22 | 18,933 | 39 |
+| 2023-12-22 | 18,939 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 228)  
 Sum: 3,282 (Ranked 175)  

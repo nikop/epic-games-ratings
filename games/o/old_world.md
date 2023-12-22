@@ -211,6 +211,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 0.10% | ~16 |
 | No Characters | 0.10% | ~16 |
 | No Undo | 0.10% | ~16 |
+| One City Challenge | 0.10% | ~16 |
 | Points Victory | 0.10% | ~16 |
 | Randomized Families | 0.10% | ~16 |
 | Randomized Leaders | 0.10% | ~16 |
@@ -225,6 +226,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Poetic Leader | 0.10% | ~16 |
 | Patriarch St Paul | 0.10% | ~16 |
 | Rmt n Kmt Buhen | 0.10% | ~16 |
+| Only Kem | 0.10% | ~16 |
 | Greater Kmt Unified | 0.10% | ~16 |
 | Kmt Unified | 0.10% | ~16 |
 | Ramesses II KIA | 0.10% | ~16 |
@@ -310,7 +312,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a MP Teams Game | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
 | Roman Papacy | 0.00% | ~0 |
-| One City Challenge | 0.00% | ~0 |
 | Time Victory | 0.00% | ~0 |
 | Win a 1-v-1 Game | 0.00% | ~0 |
 | Win a Free-For-All Game (>2 Players) | 0.00% | ~0 |
@@ -323,7 +324,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | Hypatia the Teacher | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
-| Only Kem | 0.00% | ~0 |
 | Sepat Wase Forever | 0.00% | ~0 |
 | Pharaonic Greater Kmt Unified | 0.00% | ~0 |
 | Pharaonic Kmt Unified | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,881 (Ranked 161)  
+Progressed: 15,883 (Ranked 161)  
 Completed: 5 (0.03%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -611,7 +611,7 @@ Completed: 5 (0.03%) (Ranked 345)
 | 2023-12-19 | 15,840 | 5 |
 | 2023-12-20 | 15,854 | 5 |
 | 2023-12-21 | 15,865 | 5 |
-| 2023-12-22 | 15,881 | 5 |
+| 2023-12-22 | 15,883 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 279)  
 Sum: 1,907 (Ranked 220)  

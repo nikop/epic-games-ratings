@@ -6,37 +6,37 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 80.00% | ~66 |
-| First of many… | 72.00% | ~60 |
-| Helping Hand | 71.00% | ~59 |
-| Increased Vigor | 63.00% | ~52 |
-| Fight Fire with Fire | 63.00% | ~52 |
-| Increased Capacity | 60.00% | ~50 |
-| Just the start | 57.00% | ~47 |
-| Perfect Storm | 52.00% | ~43 |
-| All That Glitters | 52.00% | ~43 |
+| Green with Envy | 79.00% | ~66 |
+| First of many… | 71.00% | ~60 |
+| Helping Hand | 70.00% | ~59 |
+| Increased Vigor | 63.00% | ~53 |
+| Fight Fire with Fire | 63.00% | ~53 |
+| Increased Capacity | 61.00% | ~51 |
+| Just the start | 56.00% | ~47 |
+| Perfect Storm | 51.00% | ~43 |
+| All That Glitters | 51.00% | ~43 |
 | One Of the Chosen | 48.00% | ~40 |
 | Enhance! | 48.00% | ~40 |
 | Throne Potato | 42.00% | ~35 |
-| 25 to Life | 41.00% | ~34 |
-| Unshakable Fortitude | 39.00% | ~32 |
-| Five's a Crowd | 39.00% | ~32 |
-| Devil's in the Details | 37.00% | ~31 |
-| Soul Harvester | 36.00% | ~30 |
-| Salvation | 36.00% | ~30 |
+| 25 to Life | 40.00% | ~34 |
+| Five's a Crowd | 39.00% | ~33 |
+| Unshakable Fortitude | 38.00% | ~32 |
+| Devil's in the Details | 38.00% | ~32 |
+| Soul Harvester | 37.00% | ~31 |
+| Salvation | 37.00% | ~31 |
 | Delusions of Grandeur | 35.00% | ~29 |
-| I Wanna Rock | 34.00% | ~28 |
+| I Wanna Rock | 33.00% | ~28 |
 | Love Tap | 31.00% | ~26 |
 | For Whom the Bell Tolls | 31.00% | ~26 |
 | Maximum Vigor | 30.00% | ~25 |
 | Freeze Frame | 29.00% | ~24 |
 | Can you restore the Balance? | 29.00% | ~24 |
-| Eat Your Heart Out | 28.00% | ~23 |
-| Cleanup Crew | 27.00% | ~22 |
+| Eat Your Heart Out | 27.00% | ~23 |
+| Cleanup Crew | 26.00% | ~22 |
 | Crowd Source | 25.00% | ~21 |
 | Unyielding Strength | 24.00% | ~20 |
+| Maximum Capacity | 23.00% | ~19 |
 | Big Spender | 23.00% | ~19 |
-| Maximum Capacity | 22.00% | ~18 |
 | Demon Meddler | 18.00% | ~15 |
 | Egomaniac | 18.00% | ~15 |
 | Seeing Red | 18.00% | ~15 |
@@ -71,14 +71,14 @@ Number of Ratings: 116  (23.09.2022)
 | "Apocalyptic!" | 0.00% | ~0 |
 | Beast Mode | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83 (Ranked 493)  
+Progressed: 84 (Ranked 491)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-12-13 | 1 | 0 |
 | 2023-12-21 | 34 | 0 |
-| 2023-12-22 | 83 | 0 |
+| 2023-12-22 | 84 | 0 |
 ## Awards
 Max (Great Boss Battles): 93  (Ranked 383)  
 Sum: 93 (Ranked 462)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 662,
+  "EOS_Progressed": 665,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2578,6 +2578,11 @@
       "Time": "2023-12-22T21:08:15.0760736+00:00",
       "NumProgressed": 662,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T22:08:45.2680298+00:00",
+      "NumProgressed": 665,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2614,7 +2619,7 @@
       "Name": "Dressed For Success",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "AttackCount",
@@ -2694,7 +2699,7 @@
       "Name": "Critical Hit",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "Deepstrike",
@@ -2734,7 +2739,7 @@
       "Name": "Double Kill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "FlameAttackKillCount",
@@ -2798,7 +2803,7 @@
       "Name": "Multi Kill",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "MultiplayerWins",
@@ -2854,7 +2859,7 @@
       "Name": "Don\u0027t Touch My Stuff",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "RepelIntoExplosiveFungi",
@@ -2870,7 +2875,7 @@
       "Name": "Sorcerous Spree",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -2902,7 +2907,7 @@
       "Name": "Trojan Horse",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "UltraKill",
@@ -2918,7 +2923,7 @@
       "Name": "Adept",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "WielderLevel2",
@@ -2926,7 +2931,7 @@
       "Name": "Veteran",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "WielderLevel3",
@@ -3021,15 +3026,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 662,
+      "Progressed": 665,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-22T21:08:15.0760733+00:00",
+  "LastChanged_Achievements": "2023-12-22T22:08:45.2680293+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:10.4027668+00:00",
-  "LastUpdate_Ratings": "2023-12-22T21:00:07.6432861+00:00",
-  "LastUpdate_Achievements": "2023-12-22T21:08:15.0761125+00:00"
+  "LastUpdate_Ratings": "2023-12-22T22:00:17.1689838+00:00",
+  "LastUpdate_Achievements": "2023-12-22T22:08:45.2680725+00:00"
 }

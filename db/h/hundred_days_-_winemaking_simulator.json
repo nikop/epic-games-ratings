@@ -2,7 +2,7 @@
   "ID": "4d8b727a49144090b103f6b6ba471e71",
   "Name": "Hundred Days - Winemaking Simulator",
   "ProductSlug": "hundred-days-winemaking-simulator",
-  "Ranking_Rating": 806,
+  "Ranking_Rating": 805,
   "Ranking_Popularity": 290,
   "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 156,
@@ -1081,9 +1081,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 17050,
+  "EOS_Progressed": 17058,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 982,
+  "EOS_NewPlayers": 985,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -14541,6 +14541,11 @@
       "Time": "2023-12-22T21:09:15.8447896+00:00",
       "NumProgressed": 17050,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-22T22:09:50.9324919+00:00",
+      "NumProgressed": 17058,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -14553,7 +14558,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1705
+      "UsersEstimate": 1706
     },
     {
       "ID": "a_10",
@@ -14601,7 +14606,7 @@
       "Name": "Bye Bye",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 7161
+      "UsersEstimate": 7164
     },
     {
       "ID": "a_19",
@@ -14609,7 +14614,7 @@
       "Name": "Bonjour!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1364
+      "UsersEstimate": 1365
     },
     {
       "ID": "a_2",
@@ -14617,7 +14622,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 852
+      "UsersEstimate": 853
     },
     {
       "ID": "a_20",
@@ -14649,7 +14654,7 @@
       "Name": "Quack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1364
+      "UsersEstimate": 1365
     },
     {
       "ID": "a_25",
@@ -14657,7 +14662,7 @@
       "Name": "Better than nothing?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 852
+      "UsersEstimate": 853
     },
     {
       "ID": "a_26",
@@ -14681,7 +14686,7 @@
       "Name": "Pastry Chef",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "a_3",
@@ -14753,7 +14758,7 @@
       "Name": "King of Langhe",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "a_5",
@@ -14769,7 +14774,7 @@
       "Name": "Gem of Monferrato",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "a_7",
@@ -14800,7 +14805,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 17050,
+      "Progressed": 17058,
       "Completed": 13
     }
   ],
@@ -14808,8 +14813,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-12-20T04:59:26.9581914+00:00",
-  "LastChanged_Achievements": "2023-12-22T21:09:15.8447894+00:00",
+  "LastChanged_Achievements": "2023-12-22T22:09:50.9324914+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:03.7853176+00:00",
-  "LastUpdate_Ratings": "2023-12-22T21:01:28.7479525+00:00",
-  "LastUpdate_Achievements": "2023-12-22T21:09:15.8448896+00:00"
+  "LastUpdate_Ratings": "2023-12-22T22:01:42.9711136+00:00",
+  "LastUpdate_Achievements": "2023-12-22T22:09:50.9325742+00:00"
 }

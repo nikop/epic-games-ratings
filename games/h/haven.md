@@ -6,17 +6,17 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Balding bloot! | 74.00% | ~1,275 |
-| Lovebirds | 46.00% | ~793 |
-| Life’s short, ride long | 41.00% | ~706 |
-| Hug therapy | 40.00% | ~689 |
+| Balding bloot! | 74.00% | ~1,276 |
+| Lovebirds | 46.00% | ~794 |
+| Life’s short, ride long | 41.00% | ~707 |
+| Hug therapy | 40.00% | ~690 |
 | Over my dead body | 37.00% | ~638 |
-| Shake the rust off their feet | 19.00% | ~327 |
+| Shake the rust off their feet | 19.00% | ~328 |
 | My little pony | 18.00% | ~310 |
 | Strike! | 17.00% | ~293 |
 | A love supreme | 17.00% | ~293 |
 | In my shoes | 16.00% | ~276 |
-| Like new! | 14.00% | ~241 |
+| Like new! | 14.00% | ~242 |
 | Heartstrings | 13.00% | ~224 |
 | Head in the clouds | 13.00% | ~224 |
 | Don't look back | 12.00% | ~207 |
@@ -37,7 +37,7 @@ Number of Ratings: 38  (23.09.2022)
 | Thar she blows | 2.00% | ~34 |
 | À la carte | 2.00% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,723 (Ranked 242)  
+Progressed: 1,725 (Ranked 242)  
 Completed: 10 (0.58%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 10 (0.58%) (Ranked 199)
 | 2023-12-19 | 1,679 | 10 |
 | 2023-12-20 | 1,693 | 10 |
 | 2023-12-21 | 1,707 | 10 |
-| 2023-12-22 | 1,723 | 10 |
+| 2023-12-22 | 1,725 | 10 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

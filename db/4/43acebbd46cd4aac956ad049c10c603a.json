@@ -224,7 +224,7 @@
   ],
   "EOS_Progressed": 1089,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2975,9 +2975,9 @@
       "ID": "DesolateIsland",
       "SetID": "1n308hc",
       "Name": "Desolate Island",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 109
     },
     {
       "ID": "Discovery",
@@ -3368,8 +3368,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-22T21:06:38.7427059+00:00",
+  "LastChanged_Achievements": "2023-12-22T22:07:02.6374864+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-22T21:02:04.557531+00:00",
-  "LastUpdate_Achievements": "2023-12-22T21:06:38.7427612+00:00"
+  "LastUpdate_Ratings": "2023-12-22T22:02:22.2025025+00:00",
+  "LastUpdate_Achievements": "2023-12-22T22:07:02.637534+00:00"
 }

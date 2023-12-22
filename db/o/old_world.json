@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2184,9 +2184,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15881,
+  "EOS_Progressed": 15883,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18134,6 +18134,11 @@
       "Time": "2023-12-22T20:09:25.0588507+00:00",
       "NumProgressed": 15881,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-22T22:10:19.1814885+00:00",
+      "NumProgressed": 15883,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20303,9 +20308,9 @@
       "ID": "ACHIEVEMENT_VICTORY_ONE_CITY_CHALLENGE",
       "SetID": "7l38kb8",
       "Name": "One City Challenge",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_POINTS",
@@ -20519,9 +20524,9 @@
       "ID": "ACHIEVEMENT_EGYPT1_DEFEAT",
       "SetID": "9201eeb",
       "Name": "Only Kem",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_EGYPT1_MAJOR_DEFEAT",
@@ -21008,21 +21013,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15881,
+      "Progressed": 15883,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15881,
+      "Progressed": 15883,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-22T01:47:48.5403593+00:00",
-  "LastChanged_Achievements": "2023-12-22T21:09:42.3483738+00:00",
+  "LastChanged_Achievements": "2023-12-22T22:10:19.181488+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:47.4773202+00:00",
-  "LastUpdate_Ratings": "2023-12-22T21:02:28.3659766+00:00",
-  "LastUpdate_Achievements": "2023-12-22T21:09:42.3493121+00:00"
+  "LastUpdate_Ratings": "2023-12-22T22:02:46.9942266+00:00",
+  "LastUpdate_Achievements": "2023-12-22T22:10:19.1824622+00:00"
 }

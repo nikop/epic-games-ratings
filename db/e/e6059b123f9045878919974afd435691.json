@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1176,
+  "EOS_Progressed": 1177,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3099,6 +3099,11 @@
       "Time": "2023-12-22T20:09:36.703129+00:00",
       "NumProgressed": 1176,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T22:10:33.6410211+00:00",
+      "NumProgressed": 1177,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3110,7 +3115,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -3148,9 +3153,9 @@
       "ID": "ATK_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Beware of the Goat",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 494
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -3182,7 +3187,7 @@
       "Name": "Capraphobia",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -3308,9 +3313,9 @@
       "ID": "DUCHESS_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Greetings from Royalty",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 412
+      "UsersEstimate": 424
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -3382,7 +3387,7 @@
       "Name": "Pest Control or Taxonomist?",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "KILLR_ACHIEVEMENT_1",
@@ -3462,7 +3467,7 @@
       "Name": "Leecher Hunting Season",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "LEECHER_ACHIEVEMENT_1",
@@ -3637,14 +3642,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1176,
+      "Progressed": 1177,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-12-22T21:09:56.0637449+00:00",
+  "LastChanged_Achievements": "2023-12-22T22:10:33.6410205+00:00",
   "LastUpdate_AppInfo": "2023-12-22T02:57:06.6747577+00:00",
-  "LastUpdate_Ratings": "2023-12-22T20:58:07.5716078+00:00",
-  "LastUpdate_Achievements": "2023-12-22T21:09:56.0638115+00:00"
+  "LastUpdate_Ratings": "2023-12-22T21:58:09.1076804+00:00",
+  "LastUpdate_Achievements": "2023-12-22T22:10:33.6410853+00:00"
 }

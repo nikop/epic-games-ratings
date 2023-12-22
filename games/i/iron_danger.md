@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Shard | 81.00% | ~272 |
-| Found the Healer | 34.00% | ~114 |
+| First Shard | 82.00% | ~276 |
+| Found the Healer | 35.00% | ~118 |
 | Second Shard | 9.00% | ~30 |
 | Champion of Kalevala | 7.00% | ~24 |
 | Death is Merely a Setback | 7.00% | ~24 |
