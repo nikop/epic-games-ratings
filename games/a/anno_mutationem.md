@@ -13,14 +13,14 @@ Rating: 4.54 (Ranked 533)
 | Big Spender | 39.00% | ~308 |
 | That's gotta hurt | 37.00% | ~293 |
 | I think it's broke | 27.00% | ~214 |
-| The Ann Flores Combo Experience | 26.00% | ~206 |
+| The Ann Flores Combo Experience | 27.00% | ~214 |
 | Club Star | 25.00% | ~198 |
 | Fire in the hole! | 21.00% | ~166 |
 | Omnipotence | 20.00% | ~158 |
 | The Warlord | 20.00% | ~158 |
 | You are the One | 19.00% | ~150 |
 | Deadly Kombationem | 18.00% | ~142 |
-| The truth is out there | 16.00% | ~127 |
+| The truth is out there | 17.00% | ~134 |
 | Annakin Skyscroller | 13.00% | ~103 |
 | In the smacker...I think | 10.00% | ~79 |
 | Arm Wrestlin' | 9.00% | ~71 |

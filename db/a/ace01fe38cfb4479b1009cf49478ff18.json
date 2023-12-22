@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 411,
+  "EOS_Progressed": 412,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -1504,6 +1504,11 @@
       "Time": "2023-12-22T05:03:44.2255501+00:00",
       "NumProgressed": 411,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-22T06:04:05.3088277+00:00",
+      "NumProgressed": 412,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -1522,9 +1527,9 @@
       "ID": "ach_chapter_complete_2",
       "SetID": "d499apg",
       "Name": "Chapter II - Complete",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 45,
-      "UsersEstimate": 37
+      "UsersEstimate": 33
     },
     {
       "ID": "ach_chapter_complete_3",
@@ -1580,7 +1585,7 @@
       "Name": "Defeat a Lord of Change",
       "Percentage": 22,
       "XP": 45,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -1611,14 +1616,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 411,
+      "Progressed": 412,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-12-22T05:03:44.2255498+00:00",
+  "LastChanged_Achievements": "2023-12-22T06:04:05.3088272+00:00",
   "LastUpdate_AppInfo": "2023-12-15T14:56:55.6680838+00:00",
-  "LastUpdate_Ratings": "2023-12-22T04:57:50.8906906+00:00",
-  "LastUpdate_Achievements": "2023-12-22T05:03:44.2255654+00:00"
+  "LastUpdate_Ratings": "2023-12-22T05:57:56.756491+00:00",
+  "LastUpdate_Achievements": "2023-12-22T06:04:05.3088431+00:00"
 }

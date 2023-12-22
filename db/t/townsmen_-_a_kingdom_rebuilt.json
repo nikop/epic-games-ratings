@@ -6,9 +6,9 @@
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 203,
-  "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_Completed": 310,
+  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
     "PcReleaseDate": "2019-02-26T00:00:00+00:00",
@@ -244,7 +244,7 @@
   "Tags": [],
   "EOS_Progressed": 4396,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2081,9 +2081,9 @@
       "ID": "ACHIEVEMENT_PRESTIGE2",
       "SetID": "9eacipp",
       "Name": "An honorable Governor II",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 220
     },
     {
       "ID": "ACHIEVEMENT_PRESTIGE3",
@@ -2617,8 +2617,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-12-04T22:59:34.0965429+00:00",
-  "LastChanged_Achievements": "2023-12-22T05:09:41.0782888+00:00",
+  "LastChanged_Achievements": "2023-12-22T06:10:05.324376+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:01.0701157+00:00",
-  "LastUpdate_Ratings": "2023-12-22T04:58:13.7920583+00:00",
-  "LastUpdate_Achievements": "2023-12-22T05:09:41.0783781+00:00"
+  "LastUpdate_Ratings": "2023-12-22T05:58:19.2406252+00:00",
+  "LastUpdate_Achievements": "2023-12-22T06:10:05.3244861+00:00"
 }

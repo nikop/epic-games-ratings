@@ -6,29 +6,29 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 3.00% | ~22,174 |
-| Life is your teacher | 3.00% | ~22,174 |
-| Lightning Hands | 3.00% | ~22,174 |
-| The Assault | 2.00% | ~14,783 |
-| The Hateful Pole Fighter | 2.00% | ~14,783 |
-| State of constant learning | 2.00% | ~14,783 |
-| Qi Gong: Essence | 2.00% | ~14,783 |
-| Old Child | 2.00% | ~14,783 |
-| A Lady's Blood in the Snow | 1.00% | ~7,391 |
-| Lady Wing Chun | 1.00% | ~7,391 |
-| Kill Nil | 1.00% | ~7,391 |
-| Stuntmaster | 1.00% | ~7,391 |
-| Street Fighting | 1.00% | ~7,391 |
-| Qi Gong: Breath | 1.00% | ~7,391 |
-| I know Kung-Fu | 1.00% | ~7,391 |
-| Path of the Prospect | 1.00% | ~7,391 |
-| Rumble in the Hangar | 1.00% | ~7,391 |
-| Diligence as a goal | 1.00% | ~484 |
-| Furious Fists | 0.90% | ~6,652 |
-| Qi Gong: Mind | 0.90% | ~6,652 |
-| Take damage to save time | 0.90% | ~6,652 |
+| The Old Grandmaster | 3.00% | ~22,176 |
+| Life is your teacher | 3.00% | ~22,176 |
+| Lightning Hands | 3.00% | ~22,176 |
+| The Assault | 2.00% | ~14,784 |
+| The Hateful Pole Fighter | 2.00% | ~14,784 |
+| State of constant learning | 2.00% | ~14,784 |
+| Qi Gong: Essence | 2.00% | ~14,784 |
+| Old Child | 2.00% | ~14,784 |
+| A Lady's Blood in the Snow | 1.00% | ~7,392 |
+| Lady Wing Chun | 1.00% | ~7,392 |
+| Kill Nil | 1.00% | ~7,392 |
+| Stuntmaster | 1.00% | ~7,392 |
+| Street Fighting | 1.00% | ~7,392 |
+| Qi Gong: Breath | 1.00% | ~7,392 |
+| I know Kung-Fu | 1.00% | ~7,392 |
+| Path of the Prospect | 1.00% | ~7,392 |
+| Rumble in the Hangar | 1.00% | ~7,392 |
+| Diligence as a goal | 1.00% | ~485 |
+| Furious Fists | 0.90% | ~6,653 |
+| Qi Gong: Mind | 0.90% | ~6,653 |
+| Take damage to save time | 0.90% | ~6,653 |
 | Project Arena | 0.90% | ~436 |
-| Kung-Fu Tussle | 0.80% | ~5,913 |
+| Kung-Fu Tussle | 0.80% | ~5,914 |
 | Scareless | 0.70% | ~5,174 |
 | Dance of the Praying Mantis | 0.70% | ~5,174 |
 | Fight the way you practice | 0.70% | ~339 |
@@ -39,10 +39,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Source of Flying Daggers | 0.40% | ~2,957 |
 | Detective Story | 0.40% | ~2,957 |
 | Sword Stained With Blood | 0.40% | ~2,957 |
-| Iron Money | 0.30% | ~2,217 |
-| Legendary Talismans of Wuxing | 0.30% | ~2,217 |
-| Prodigal Child | 0.30% | ~2,217 |
-| The 36th Chamber of Kung-Fu | 0.30% | ~2,217 |
+| Iron Money | 0.30% | ~2,218 |
+| Legendary Talismans of Wuxing | 0.30% | ~2,218 |
+| Prodigal Child | 0.30% | ~2,218 |
+| The 36th Chamber of Kung-Fu | 0.30% | ~2,218 |
 | The best strikes are the ones we avoid | 0.30% | ~145 |
 | Drunken Fighter | 0.20% | ~1,478 |
 | Martial Artist | 0.20% | ~1,478 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~48 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 739,136 (Ranked 23)  
+Progressed: 739,190 (Ranked 23)  
 Completed: 12,959 (1.75%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,10 +313,10 @@ Completed: 12,959 (1.75%) (Ranked 140)
 | 2023-12-19 | 736,295 | 12,958 |
 | 2023-12-20 | 737,594 | 12,958 |
 | 2023-12-21 | 738,913 | 12,958 |
-| 2023-12-22 | 739,136 | 12,959 |
+| 2023-12-22 | 739,190 | 12,959 |
 ## Awards
 Max (Great Boss Battles): 6,978  (Ranked 55)  
-Sum: 11,800 (Ranked 87)  
+Sum: 11,802 (Ranked 87)  
 Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
@@ -325,7 +325,7 @@ Diff (max vs sum): -32
 | This game has Challenging Combat | 625 |
 | This game has Amazing Storytelling | 605 |
 | This game has Amazing Characters | 595 |
-| This game is Highly Recommended | 588 |
+| This game is Highly Recommended | 590 |
 | This game has Quickly Understood Controls | 585 |
 | This game is Extremely Fun | 577 |
 | This game has Unique Visuals | 568 |
@@ -673,4 +673,4 @@ Diff (max vs sum): -32
 | 2023-12-19 | 4.82 | - | 6,965 | 12,212 |
 | 2023-12-20 | 4.82 | - | 6,973 | 12,223 |
 | 2023-12-21 | 4.82 | - | 6,978 | 11,797 |
-| 2023-12-22 | 4.82 | - | 6,978 | 11,800 |
+| 2023-12-22 | 4.82 | - | 6,978 | 11,802 |

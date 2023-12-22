@@ -5,23 +5,23 @@ Rating: 4.23 (Ranked 914)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~1,334 |
-| Battlefields Have Memories | 80.00% | ~1,226 |
-| Enlisted | 72.00% | ~1,104 |
-| Maybe Engage a Little | 67.00% | ~1,027 |
-| No More Names | 48.00% | ~736 |
-| Initiate | 33.00% | ~506 |
-| Thrada-Kul | 29.00% | ~445 |
-| Gravity-Challenged Rocks | 23.00% | ~353 |
-| Socialite | 22.00% | ~337 |
-| Soldier | 19.00% | ~291 |
-| All the Major Food Groups | 19.00% | ~291 |
+| Unforeseen | 87.00% | ~1,337 |
+| Battlefields Have Memories | 80.00% | ~1,230 |
+| Enlisted | 72.00% | ~1,107 |
+| Maybe Engage a Little | 67.00% | ~1,030 |
+| No More Names | 48.00% | ~738 |
+| Initiate | 33.00% | ~507 |
+| Thrada-Kul | 29.00% | ~446 |
+| Gravity-Challenged Rocks | 23.00% | ~354 |
+| Socialite | 22.00% | ~338 |
+| Soldier | 19.00% | ~292 |
+| All the Major Food Groups | 19.00% | ~292 |
 | Beggars Would Ride | 17.00% | ~261 |
-| Control is an Illusion | 16.00% | ~245 |
-| The Means to Save It | 13.00% | ~199 |
+| Control is an Illusion | 16.00% | ~246 |
+| The Means to Save It | 12.00% | ~184 |
 | Resilience to Sin | 11.00% | ~169 |
-| A Familiar Nest | 10.00% | ~153 |
-| Periapt Alizarin | 10.00% | ~153 |
+| A Familiar Nest | 10.00% | ~154 |
+| Periapt Alizarin | 10.00% | ~154 |
 | Geas Aristeya | 9.00% | ~138 |
 | A Perfect Cycle | 8.00% | ~123 |
 | Recruit | 8.00% | ~123 |
@@ -53,8 +53,8 @@ Rating: 4.23 (Ranked 914)
 | Family Business | 0.20% | ~3 |
 | Fowl Play | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,533 (Ranked 251)  
-Completed: 2 (0.13%) (Ranked 289)  
+Progressed: 1,537 (Ranked 250)  
+Completed: 2 (0.13%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -138,7 +138,7 @@ Completed: 2 (0.13%) (Ranked 289)
 | 2023-12-19 | 1,301 | 2 |
 | 2023-12-20 | 1,423 | 2 |
 | 2023-12-21 | 1,514 | 2 |
-| 2023-12-22 | 1,533 | 2 |
+| 2023-12-22 | 1,537 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

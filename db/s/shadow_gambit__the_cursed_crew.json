@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 121,
   "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -155,9 +155,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1243,
+  "EOS_Progressed": 1244,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.65,
   "EosHistory": [
@@ -4220,6 +4220,11 @@
       "Time": "2023-12-22T01:49:47.7935014+00:00",
       "NumProgressed": 1243,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-12-22T06:04:47.7943221+00:00",
+      "NumProgressed": 1244,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4248,7 +4253,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -4256,7 +4261,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "_05_FinishAct2",
@@ -4286,9 +4291,9 @@
       "ID": "_08_Completion_10",
       "SetID": "8a1io5d",
       "Name": "Swabbie",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 460
+      "UsersEstimate": 448
     },
     {
       "ID": "_09_Completion_20",
@@ -4312,7 +4317,7 @@
       "Name": "Seadog",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "_12_Completion_50",
@@ -4352,7 +4357,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -4360,7 +4365,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -4414,9 +4419,9 @@
       "ID": "_24_CrewTale_SNP",
       "SetID": "8a1io5d",
       "Name": "Jaded Judge",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 137
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -4439,7 +4444,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1243,
+      "Progressed": 1244,
       "Completed": 33
     }
   ],
@@ -4447,8 +4452,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-21T17:58:16.3881577+00:00",
-  "LastChanged_Achievements": "2023-12-22T05:04:27.3884547+00:00",
+  "LastChanged_Achievements": "2023-12-22T06:04:47.7943218+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:17.2609478+00:00",
-  "LastUpdate_Ratings": "2023-12-22T04:58:32.349927+00:00",
-  "LastUpdate_Achievements": "2023-12-22T05:04:27.3885011+00:00"
+  "LastUpdate_Ratings": "2023-12-22T05:58:37.9368773+00:00",
+  "LastUpdate_Achievements": "2023-12-22T06:04:47.7943547+00:00"
 }

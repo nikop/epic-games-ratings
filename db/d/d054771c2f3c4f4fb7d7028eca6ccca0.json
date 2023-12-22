@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
     "PcReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2462,
+  "EOS_Progressed": 2463,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 540,
+  "EOS_NewPlayers": 541,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2434,6 +2434,11 @@
       "Time": "2023-12-22T04:08:47.8717728+00:00",
       "NumProgressed": 2462,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T06:08:44.0501581+00:00",
+      "NumProgressed": 2463,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -2454,7 +2459,7 @@
       "Name": "Done for Today",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -2630,7 +2635,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -2821,14 +2826,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 2462,
+      "Progressed": 2463,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-22T05:08:18.6544231+00:00",
+  "LastChanged_Achievements": "2023-12-22T06:08:44.0501577+00:00",
   "LastUpdate_AppInfo": "2023-12-19T11:57:06.3691956+00:00",
-  "LastUpdate_Ratings": "2023-12-22T04:57:57.5652512+00:00",
-  "LastUpdate_Achievements": "2023-12-22T05:08:18.654463+00:00"
+  "LastUpdate_Ratings": "2023-12-22T05:58:03.1438881+00:00",
+  "LastUpdate_Achievements": "2023-12-22T06:08:44.0502172+00:00"
 }

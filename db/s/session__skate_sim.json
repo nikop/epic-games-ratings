@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 325,
   "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2022-09-22T12:00:00+00:00",
@@ -1293,7 +1293,7 @@
   ],
   "EOS_Progressed": 3312,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6971,9 +6971,9 @@
       "ID": "ACH_THATS-HOW-ITS-DONE",
       "SetID": "72olkc5",
       "Name": "That\u0027s how it\u0027s done!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_THE-FINER-THINGS-IN-LIFE",
@@ -7067,8 +7067,8 @@
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-12-21T13:59:00.5650265+00:00",
-  "LastChanged_Achievements": "2023-12-22T05:03:17.4096692+00:00",
+  "LastChanged_Achievements": "2023-12-22T06:03:38.9659817+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:11.20318+00:00",
-  "LastUpdate_Ratings": "2023-12-22T04:58:59.0147111+00:00",
-  "LastUpdate_Achievements": "2023-12-22T05:03:17.4097236+00:00"
+  "LastUpdate_Ratings": "2023-12-22T05:59:03.5423104+00:00",
+  "LastUpdate_Achievements": "2023-12-22T06:03:38.9660314+00:00"
 }

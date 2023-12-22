@@ -5,16 +5,16 @@ Rating: 4.73 (Ranked 175)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 6.00% | ~15,533 |
-| First of Many | 6.00% | ~15,533 |
-| Not Your Average Trait | 5.00% | ~12,944 |
-| Expanding Horizons | 4.00% | ~10,355 |
-| Quest for Survival | 4.00% | ~10,355 |
-| Gleaming the Cube | 3.00% | ~7,766 |
-| Not a Janitor | 3.00% | ~7,766 |
-| Familiar Face | 3.00% | ~7,766 |
-| Boss'n Up | 3.00% | ~7,766 |
-| Trait Chaser | 3.00% | ~7,766 |
+| The Killing Jar | 6.00% | ~15,535 |
+| First of Many | 6.00% | ~15,535 |
+| Not Your Average Trait | 5.00% | ~12,946 |
+| Expanding Horizons | 4.00% | ~10,357 |
+| Quest for Survival | 4.00% | ~10,357 |
+| Gleaming the Cube | 3.00% | ~7,767 |
+| Not a Janitor | 3.00% | ~7,767 |
+| Familiar Face | 3.00% | ~7,767 |
+| Boss'n Up | 3.00% | ~7,767 |
+| Trait Chaser | 3.00% | ~7,767 |
 | Chaos | 2.00% | ~5,178 |
 | Power Surge | 2.00% | ~5,178 |
 | The God Gambit | 2.00% | ~5,178 |
@@ -43,25 +43,25 @@ Rating: 4.73 (Ranked 175)
 | All These Traits� | 1.00% | ~2,589 |
 | Carnage in C-Minor | 1.00% | ~2,589 |
 | The Ultimate Weapon | 1.00% | ~2,589 |
-| Regicide | 1.00% | ~380 |
-| Master of the Dark Arts | 1.00% | ~380 |
+| Regicide | 1.00% | ~381 |
+| Master of the Dark Arts | 1.00% | ~381 |
 | Tall Tales | 0.90% | ~2,330 |
 | No One Should Have All That Power | 0.90% | ~2,330 |
 | Transmutate | 0.90% | ~2,330 |
 | Red Room | 0.80% | ~2,071 |
 | Only Human | 0.70% | ~1,812 |
 | Maxed Out! | 0.60% | ~1,553 |
-| Crafty | 0.50% | ~1,294 |
-| Ghost in the Machine | 0.50% | ~1,294 |
-| The Trigger | 0.50% | ~1,294 |
-| The Collector | 0.50% | ~1,294 |
+| Crafty | 0.50% | ~1,295 |
+| Ghost in the Machine | 0.50% | ~1,295 |
+| The Trigger | 0.50% | ~1,295 |
+| The Collector | 0.50% | ~1,295 |
 | Cutting Edge | 0.40% | ~1,036 |
 | Proving Grounds | 0.40% | ~1,036 |
 | Succession | 0.30% | ~114 |
 | You Shall Pass | 0.30% | ~114 |
 | A Foul Feast | 0.20% | ~76 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 258,876 (Ranked 61)  
+Progressed: 258,913 (Ranked 61)  
 Completed: 614 (0.24%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 614 (0.24%) (Ranked 260)
 | 2023-12-19 | 255,737 | 607 |
 | 2023-12-20 | 257,155 | 610 |
 | 2023-12-21 | 258,570 | 614 |
-| 2023-12-22 | 258,876 | 614 |
+| 2023-12-22 | 258,913 | 614 |
 ## Awards
 Max (Great Boss Battles): 3,397  (Ranked 96)  
 Sum: 7,938 (Ranked 112)  

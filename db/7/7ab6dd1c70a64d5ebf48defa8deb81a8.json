@@ -3,9 +3,9 @@
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 278,
-  "Ranking_EOS_Completed": 249,
+  "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1016,
+  "EOS_Progressed": 1017,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 609,
+  "EOS_NewPlayers": 608,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.3,
+  "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
     {
       "Time": "2023-06-23T15:02:22.2302993+00:00",
@@ -2040,6 +2040,11 @@
       "Time": "2023-12-22T04:10:04.3772739+00:00",
       "NumProgressed": 1016,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-22T06:09:59.3631624+00:00",
+      "NumProgressed": 1017,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2051,7 +2056,7 @@
       "Name": "Break Out",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "ACH_02",
@@ -2099,7 +2104,7 @@
       "Name": "Clear Sight",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_08",
@@ -2163,7 +2168,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH_16",
@@ -2171,7 +2176,7 @@
       "Name": "Essence Blow",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH_17",
@@ -2179,7 +2184,7 @@
       "Name": "Shatterer",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_18",
@@ -2219,7 +2224,7 @@
       "Name": "Fine Feathers Make Fine Birds",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_23",
@@ -2338,14 +2343,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1016,
+      "Progressed": 1017,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-22T05:09:34.8829126+00:00",
+  "LastChanged_Achievements": "2023-12-22T06:09:59.3631621+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
-  "LastUpdate_Ratings": "2023-12-22T04:58:08.5357759+00:00",
-  "LastUpdate_Achievements": "2023-12-22T05:09:34.8829436+00:00"
+  "LastUpdate_Ratings": "2023-12-22T05:58:14.0339224+00:00",
+  "LastUpdate_Achievements": "2023-12-22T06:09:59.363197+00:00"
 }

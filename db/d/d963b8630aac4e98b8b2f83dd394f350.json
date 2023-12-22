@@ -4,8 +4,8 @@
   "ProductSlug": "back-then-2072ca",
   "Ranking_EOS_Progress": 814,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 562,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 560,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-12-08T17:00:00+00:00",
     "PcReleaseDate": "2023-12-08T17:00:00+00:00",
@@ -43,8 +43,8 @@
   ],
   "FirstSeen": "2023-12-15T22:57:54.5744248+00:00",
   "FirstSeenAchievements": "2023-12-07T16:03:14.2260568+00:00",
-  "LastChanged_Achievements": "2023-12-22T05:05:21.6582485+00:00",
+  "LastChanged_Achievements": "2023-12-22T06:05:40.7226311+00:00",
   "LastUpdate_AppInfo": "2023-12-21T17:56:49.8055215+00:00",
-  "LastUpdate_Ratings": "2023-12-22T04:57:25.7002618+00:00",
-  "LastUpdate_Achievements": "2023-12-22T05:05:21.6582501+00:00"
+  "LastUpdate_Ratings": "2023-12-22T05:57:31.7502693+00:00",
+  "LastUpdate_Achievements": "2023-12-22T06:05:40.7226358+00:00"
 }

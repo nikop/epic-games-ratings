@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -2517,9 +2517,9 @@
       "ID": "AchvReachCondor",
       "SetID": "1hj060c",
       "Name": "The Condor",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 292
     },
     {
       "ID": "AchvSurvivors",
@@ -2564,8 +2564,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-22T05:08:59.9984786+00:00",
+  "LastChanged_Achievements": "2023-12-22T06:09:25.0734327+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.232501+00:00",
-  "LastUpdate_Ratings": "2023-12-22T04:59:12.002771+00:00",
-  "LastUpdate_Achievements": "2023-12-22T05:08:59.9985004+00:00"
+  "LastUpdate_Ratings": "2023-12-22T05:59:16.6058842+00:00",
+  "LastUpdate_Achievements": "2023-12-22T06:09:25.0734602+00:00"
 }

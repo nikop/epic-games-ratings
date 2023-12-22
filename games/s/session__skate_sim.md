@@ -49,10 +49,10 @@ Number of Ratings: 111  (23.09.2022)
 | That was wheelie fun | 2.00% | ~66 |
 | Dipped! | 1.00% | ~33 |
 | Skatepark hero | 1.00% | ~33 |
+| That's how it's done! | 0.20% | ~7 |
 | Bing Bong! | 0.10% | ~3 |
 | Golden! | 0.10% | ~3 |
 | Loves You Back | 0.10% | ~3 |
-| That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,312 (Ranked 217)  

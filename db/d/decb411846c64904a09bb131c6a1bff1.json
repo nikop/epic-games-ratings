@@ -4,8 +4,8 @@
   "ProductSlug": "angelic-b11609",
   "Ranking_EOS_Progress": 814,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 562,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 560,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-15T14:56:55.8291545+00:00",
-  "LastUpdate_Ratings": "2023-12-22T04:59:05.5349468+00:00",
-  "LastUpdate_Achievements": "2023-12-22T05:04:17.1335688+00:00"
+  "LastUpdate_Ratings": "2023-12-22T05:59:09.8043606+00:00",
+  "LastUpdate_Achievements": "2023-12-22T06:04:37.300446+00:00"
 }

@@ -46,6 +46,7 @@ Rating: 4.05 (Ranked 1,006)
 | Dragon Slayer | 6.00% | ~219 |
 | The Expeditioner | 6.00% | ~219 |
 | Weekly Quest Completionist | 6.00% | ~219 |
+| Ancient Knowledge | 5.00% | ~182 |
 | Blueprint Upgrades | 5.00% | ~182 |
 | Crystal Mining | 5.00% | ~182 |
 | Enchanting skill | 5.00% | ~182 |
@@ -55,7 +56,6 @@ Rating: 4.05 (Ranked 1,006)
 | Missions Dedication | 5.00% | ~182 |
 | Sailor | 5.00% | ~182 |
 | Active Member | 4.00% | ~146 |
-| Ancient Knowledge | 4.00% | ~146 |
 | Arena Challenger | 4.00% | ~146 |
 | Background Story | 4.00% | ~146 |
 | Ebony Jungle Liberator | 4.00% | ~146 |
@@ -74,8 +74,8 @@ Rating: 4.05 (Ranked 1,006)
 | Titan Power | 1.00% | ~36 |
 | Transmute | 1.00% | ~36 |
 | Tree of Life | 1.00% | ~36 |
+| Training makes a Pro player | 0.90% | ~33 |
 | Silverwood liberator | 0.80% | ~29 |
-| Training makes a Pro player | 0.80% | ~29 |
 | Beast War Machines | 0.70% | ~26 |
 | Ultimate War Machines | 0.50% | ~18 |
 | Jewel Enchanting | 0.20% | ~7 |

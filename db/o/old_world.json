@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -18397,9 +18397,9 @@
       "ID": "ACHIEVEMENT_CARTHAGE_4_SILVER",
       "SetID": "9201eeb",
       "Name": "Silver Victory (Carthage 4)",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_CAMPAIGN",
@@ -20971,8 +20971,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-22T01:47:48.5403593+00:00",
-  "LastChanged_Achievements": "2023-12-22T05:09:24.2049722+00:00",
+  "LastChanged_Achievements": "2023-12-22T06:09:49.3322634+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:47.4773202+00:00",
-  "LastUpdate_Ratings": "2023-12-22T05:02:36.8757558+00:00",
-  "LastUpdate_Achievements": "2023-12-22T05:09:24.2059368+00:00"
+  "LastUpdate_Ratings": "2023-12-22T06:02:57.7780446+00:00",
+  "LastUpdate_Achievements": "2023-12-22T06:09:49.3332446+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "subnautica",
   "Ranking_Rating": 42,
   "Ranking_Popularity": 177,
-  "Ranking_PopularitySum": 132,
+  "Ranking_PopularitySum": 133,
   "Ranking_EOS_Progress": 814,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 562,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 560,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2018-01-23T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -6334,6 +6334,6 @@
   "FirstSeen": "2022-07-22T20:29:19.8641148+00:00",
   "LastChanged": "2023-12-22T04:58:13.4105092+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:59.2888186+00:00",
-  "LastUpdate_Ratings": "2023-12-22T04:58:13.4105096+00:00",
-  "LastUpdate_Achievements": "2023-12-22T05:04:39.1976014+00:00"
+  "LastUpdate_Ratings": "2023-12-22T05:58:18.8672836+00:00",
+  "LastUpdate_Achievements": "2023-12-22T06:04:59.4303304+00:00"
 }

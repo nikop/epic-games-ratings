@@ -1,7 +1,7 @@
 # Risen
 [Store](https://store.epicgames.com/en-US/p/risen-e8e55e)  
 [View Rawdata](../../db/r/risen.json)  
-Rating: 4.56 (Ranked 497)  
+Rating: 4.57 (Ranked 482)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -45,12 +45,12 @@ Rating: 4.56 (Ranked 497)
 | Expert | 9.00% | ~9 |
 | The traveler | 7.00% | ~7 |
 | Moneybags | 6.00% | ~6 |
-| Rune master | 4.00% | ~4 |
+| Rune master | 5.00% | ~5 |
 | Fervent swimmer | 4.00% | ~4 |
 | Jester | 4.00% | ~4 |
 | King Midas | 4.00% | ~4 |
 | Big game hunter | 3.00% | ~3 |
-| Mage | 2.00% | ~2 |
+| Mage | 3.00% | ~3 |
 | Sharpshooter | 2.00% | ~2 |
 | Gladiator | 1.00% | ~1 |
 | Master of the classes | 1.00% | ~1 |
@@ -121,3 +121,4 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-07 | 4.58 | 0 | 0 |
 | 2023-12-15 | 4.60 | 0 | 0 |
 | 2023-12-19 | 4.56 | 0 | 0 |
+| 2023-12-22 | 4.57 | 0 | 0 |

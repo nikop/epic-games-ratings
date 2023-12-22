@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -645,7 +645,7 @@
   ],
   "EOS_Progressed": 3649,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 233,
+  "EOS_NewPlayers": 232,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10475,9 +10475,9 @@
       "ID": "ancientknowledge",
       "SetID": "3nl4bcg",
       "Name": "Ancient Knowledge",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 182
     },
     {
       "ID": "angelpower",
@@ -10995,9 +10995,9 @@
       "ID": "trainingmakesaproplayer",
       "SetID": "3nl4bcg",
       "Name": "Training makes a Pro player",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 33
     },
     {
       "ID": "transmute",
@@ -11076,8 +11076,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-22T01:43:18.0686278+00:00",
-  "LastChanged_Achievements": "2023-12-22T05:06:22.2038638+00:00",
+  "LastChanged_Achievements": "2023-12-22T06:08:29.557553+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:13.7887636+00:00",
-  "LastUpdate_Ratings": "2023-12-22T04:58:06.0225936+00:00",
-  "LastUpdate_Achievements": "2023-12-22T05:06:22.203977+00:00"
+  "LastUpdate_Ratings": "2023-12-22T05:58:11.5740015+00:00",
+  "LastUpdate_Achievements": "2023-12-22T06:08:29.5576392+00:00"
 }

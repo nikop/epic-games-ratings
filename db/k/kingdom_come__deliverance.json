@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -9483,9 +9483,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 813668,
+  "EOS_Progressed": 813670,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 1135,
+  "EOS_NewPlayers": 1131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -37228,6 +37228,11 @@
       "Time": "2023-12-22T05:09:21.8698604+00:00",
       "NumProgressed": 813668,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-22T06:09:46.7332362+00:00",
+      "NumProgressed": 813670,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 82,
@@ -37271,7 +37276,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 170870
+      "UsersEstimate": 170871
     },
     {
       "ID": "BadGirl",
@@ -37287,7 +37292,7 @@
       "Name": "Bad Trip",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40683
+      "UsersEstimate": 40684
     },
     {
       "ID": "Bailiff",
@@ -37351,7 +37356,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 203417
+      "UsersEstimate": 203418
     },
     {
       "ID": "Chivalrous",
@@ -37663,7 +37668,7 @@
       "Name": "Monk",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40683
+      "UsersEstimate": 40684
     },
     {
       "ID": "NotSoChristianBurial",
@@ -37767,7 +37772,7 @@
       "Name": "Serial Killer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40683
+      "UsersEstimate": 40684
     },
     {
       "ID": "Sinner",
@@ -37775,7 +37780,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 89503
+      "UsersEstimate": 89504
     },
     {
       "ID": "Sniper",
@@ -37847,7 +37852,7 @@
       "Name": "Traveller",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 89503
+      "UsersEstimate": 89504
     },
     {
       "ID": "TrialAndError",
@@ -37894,15 +37899,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 813668,
+      "Progressed": 813670,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-12-21T20:59:59.376875+00:00",
-  "LastChanged_Achievements": "2023-12-22T05:09:21.8698601+00:00",
+  "LastChanged_Achievements": "2023-12-22T06:09:46.7332359+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:26.6961501+00:00",
-  "LastUpdate_Ratings": "2023-12-22T04:59:56.3946259+00:00",
-  "LastUpdate_Achievements": "2023-12-22T05:09:21.8700175+00:00"
+  "LastUpdate_Ratings": "2023-12-22T06:00:00.4975934+00:00",
+  "LastUpdate_Achievements": "2023-12-22T06:09:46.7333919+00:00"
 }

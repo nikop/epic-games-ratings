@@ -6,9 +6,9 @@
   "Ranking_Popularity": 480,
   "Ranking_PopularitySum": 449,
   "Ranking_EOS_Progress": 193,
-  "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_Completed": 296,
+  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -567,9 +567,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5955,
+  "EOS_Progressed": 5956,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 303,
+  "EOS_NewPlayers": 302,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8732,6 +8732,11 @@
       "Time": "2023-12-22T05:05:28.9092924+00:00",
       "NumProgressed": 5955,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-22T06:05:48.0026663+00:00",
+      "NumProgressed": 5956,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -8805,9 +8810,9 @@
       "ID": "17",
       "SetID": "3aa2279",
       "Name": "Lord of Chaos",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 60
     },
     {
       "ID": "18",
@@ -9222,13 +9227,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5955,
+      "Progressed": 5956,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5955,
+      "Progressed": 5956,
       "Completed": 7
     }
   ],
@@ -9236,8 +9241,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-20T07:59:25.4319145+00:00",
-  "LastChanged_Achievements": "2023-12-22T05:05:28.9092921+00:00",
+  "LastChanged_Achievements": "2023-12-22T06:05:48.0026657+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.6868317+00:00",
-  "LastUpdate_Ratings": "2023-12-22T04:57:22.9546315+00:00",
-  "LastUpdate_Achievements": "2023-12-22T05:05:28.9093598+00:00"
+  "LastUpdate_Ratings": "2023-12-22T05:57:29.3995211+00:00",
+  "LastUpdate_Achievements": "2023-12-22T06:05:48.0027471+00:00"
 }

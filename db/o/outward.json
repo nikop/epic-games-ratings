@@ -6,9 +6,9 @@
   "Ranking_Popularity": 485,
   "Ranking_PopularitySum": 393,
   "Ranking_EOS_Progress": 204,
-  "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_Completed": 296,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -541,7 +541,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4105,
+  "EOS_Progressed": 4106,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 305,
   "EOS_NewCompleters": 1,
@@ -6671,6 +6671,11 @@
       "Time": "2023-12-22T05:05:37.4454595+00:00",
       "NumProgressed": 4105,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-22T06:05:56.2318315+00:00",
+      "NumProgressed": 4106,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -6722,7 +6727,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1724
+      "UsersEstimate": 1725
     },
     {
       "ID": "CrowdPleaser",
@@ -6866,7 +6871,7 @@
       "Name": "Ready for Summer",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 2052
+      "UsersEstimate": 2053
     },
     {
       "ID": "ReadyforWinter_42",
@@ -6874,7 +6879,7 @@
       "Name": "Ready for Winter",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 2586
+      "UsersEstimate": 2587
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -6954,7 +6959,7 @@
       "Name": "The Power of Freedom",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "TheStuffOfLegends",
@@ -6968,9 +6973,9 @@
       "ID": "TheyllTellStoriesAboutThis_35",
       "SetID": "c4hee28",
       "Name": "They\u0027ll Tell Stories About This",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 90,
-      "UsersEstimate": 41
+      "UsersEstimate": 37
     },
     {
       "ID": "ThisWasAMistake",
@@ -7017,15 +7022,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4105,
+      "Progressed": 4106,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-22T05:05:37.4454594+00:00",
+  "LastChanged_Achievements": "2023-12-22T06:05:56.2318312+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:45.1407734+00:00",
-  "LastUpdate_Ratings": "2023-12-22T05:02:32.9752323+00:00",
-  "LastUpdate_Achievements": "2023-12-22T05:05:37.4455039+00:00"
+  "LastUpdate_Ratings": "2023-12-22T06:02:54.1153883+00:00",
+  "LastUpdate_Achievements": "2023-12-22T06:05:56.2318874+00:00"
 }

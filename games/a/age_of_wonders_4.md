@@ -34,6 +34,7 @@ Rating: 4.62 (Ranked 374)
 | Sehiran Oasis | 2.00% | ~119 |
 | Chaos Surge | 2.00% | ~119 |
 | Spoils of War | 2.00% | ~119 |
+| Lord of Chaos | 1.00% | ~60 |
 | Arch Mage | 1.00% | ~60 |
 | The Creator | 1.00% | ~60 |
 | Eternal Lord | 1.00% | ~60 |
@@ -46,7 +47,6 @@ Rating: 4.62 (Ranked 374)
 | A Conqueror's Cohort | 1.00% | ~60 |
 | Dawn of the Dread | 1.00% | ~60 |
 | God Emperor | 0.90% | ~54 |
-| Lord of Chaos | 0.90% | ~54 |
 | The Goddess of Nature | 0.80% | ~48 |
 | Grexolis | 0.80% | ~48 |
 | I've Got Everything I Need Right Here | 0.70% | ~42 |
@@ -66,8 +66,8 @@ Rating: 4.62 (Ranked 374)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,955 (Ranked 193)  
-Completed: 7 (0.12%) (Ranked 295)  
+Progressed: 5,956 (Ranked 193)  
+Completed: 7 (0.12%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -280,7 +280,7 @@ Completed: 7 (0.12%) (Ranked 295)
 | 2023-12-19 | 5,881 | 7 |
 | 2023-12-20 | 5,911 | 7 |
 | 2023-12-21 | 5,945 | 7 |
-| 2023-12-22 | 5,955 | 7 |
+| 2023-12-22 | 5,956 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 480)  
 Sum: 113 (Ranked 449)  

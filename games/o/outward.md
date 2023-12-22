@@ -7,9 +7,9 @@ Number of Ratings: 266  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Venture Outward | 74.00% | ~3,038 |
-| Ready for Winter | 63.00% | ~2,586 |
-| Ready for Summer | 50.00% | ~2,052 |
-| Cordon Bleu | 42.00% | ~1,724 |
+| Ready for Winter | 63.00% | ~2,587 |
+| Ready for Summer | 50.00% | ~2,053 |
+| Cordon Bleu | 42.00% | ~1,725 |
 | Tapped! | 36.00% | ~1,478 |
 | Eureka | 31.00% | ~1,273 |
 | Scourge Slayer | 25.00% | ~1,026 |
@@ -22,7 +22,7 @@ Number of Ratings: 266  (23.09.2022)
 | Apex Predator | 15.00% | ~616 |
 | Strange amalgams | 12.00% | ~493 |
 | The Power of Faith | 12.00% | ~493 |
-| The Power of Freedom | 9.00% | ~369 |
+| The Power of Freedom | 9.00% | ~370 |
 | Ace Detective | 8.00% | ~328 |
 | Gift from the Ancestors | 8.00% | ~328 |
 | Magic is a science | 8.00% | ~328 |
@@ -42,15 +42,15 @@ Number of Ratings: 266  (23.09.2022)
 | Power! To! The People! | 2.00% | ~82 |
 | Your actions define you | 2.00% | ~82 |
 | The blood is life | 1.00% | ~41 |
-| They'll Tell Stories About This | 1.00% | ~41 |
 | Vanquisher of nightmares | 1.00% | ~41 |
+| They'll Tell Stories About This | 0.90% | ~37 |
 | Through fire and flame. | 0.70% | ~29 |
 | Legacy of a master hunter | 0.40% | ~16 |
 | Master of Aurai | 0.30% | ~12 |
 | The Absolute Pinnacle. | 0.30% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,105 (Ranked 204)  
-Completed: 5 (0.12%) (Ranked 295)  
+Progressed: 4,106 (Ranked 204)  
+Completed: 5 (0.12%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -281,7 +281,7 @@ Completed: 5 (0.12%) (Ranked 295)
 | 2023-12-19 | 4,030 | 5 |
 | 2023-12-20 | 4,056 | 5 |
 | 2023-12-21 | 4,088 | 5 |
-| 2023-12-22 | 4,105 | 5 |
+| 2023-12-22 | 4,106 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 485)  
 Sum: 246 (Ranked 393)  

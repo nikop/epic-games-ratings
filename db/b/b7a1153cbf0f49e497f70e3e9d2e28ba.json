@@ -4,8 +4,8 @@
   "ProductSlug": "arcatronz-2bb3f2",
   "Ranking_EOS_Progress": 814,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 562,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 560,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-07-01T16:00:00+00:00",
     "PcReleaseDate": "2023-07-01T16:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-08T04:57:10.0894158+00:00",
   "LastUpdate_AppInfo": "2023-12-19T19:57:14.8923078+00:00",
-  "LastUpdate_Ratings": "2023-12-22T04:58:35.9364358+00:00",
-  "LastUpdate_Achievements": "2023-12-22T05:06:02.8930463+00:00"
+  "LastUpdate_Ratings": "2023-12-22T05:58:41.5363639+00:00",
+  "LastUpdate_Achievements": "2023-12-22T06:06:20.7692024+00:00"
 }

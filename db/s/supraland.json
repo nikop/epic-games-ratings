@@ -6,9 +6,9 @@
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 92,
   "Ranking_EOS_Progress": 24,
-  "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_Completed": 302,
+  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2021-07-02T15:00:00+00:00",
     "PcReleaseDate": "2018-03-09T19:16:06+00:00",
@@ -3295,9 +3295,9 @@
       "Count": 197
     }
   ],
-  "EOS_Progressed": 736889,
+  "EOS_Progressed": 736890,
   "EOS_Completed": 772,
-  "EOS_NewPlayers": 845,
+  "EOS_NewPlayers": 843,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -30990,6 +30990,11 @@
       "Time": "2023-12-22T05:09:34.3327068+00:00",
       "NumProgressed": 736889,
       "NumCompleted": 772
+    },
+    {
+      "Time": "2023-12-22T06:09:58.9338829+00:00",
+      "NumProgressed": 736890,
+      "NumCompleted": 772
     }
   ],
   "TotalAchievements": 98,
@@ -31025,7 +31030,7 @@
       "Name": "All Shells",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 110533
+      "UsersEstimate": 110534
     },
     {
       "ID": "Armor",
@@ -31057,7 +31062,7 @@
       "Name": "Beam",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 103164
+      "UsersEstimate": 103165
     },
     {
       "ID": "BeatTheBigOne",
@@ -31249,7 +31254,7 @@
       "Name": "Force Cube",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 390551
+      "UsersEstimate": 390552
     },
     {
       "ID": "Force_Cube_Catapult",
@@ -31361,7 +31366,7 @@
       "Name": "Healthbar",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 405289
+      "UsersEstimate": 405290
     },
     {
       "ID": "Healthregen",
@@ -31385,7 +31390,7 @@
       "Name": "Climb the hill",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 309493
+      "UsersEstimate": 309494
     },
     {
       "ID": "Holy_Sword",
@@ -31393,7 +31398,7 @@
       "Name": "Holy Sword",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 169484
+      "UsersEstimate": 169485
     },
     {
       "ID": "Horticultural",
@@ -31489,7 +31494,7 @@
       "Name": "9",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 103164
+      "UsersEstimate": 103165
     },
     {
       "ID": "NonNPC",
@@ -31513,7 +31518,7 @@
       "Name": "Out of bed",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 729520
+      "UsersEstimate": 729521
     },
     {
       "ID": "PanicLights",
@@ -31665,7 +31670,7 @@
       "Name": "Telefrag",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 169484
+      "UsersEstimate": 169485
     },
     {
       "ID": "The_Blues",
@@ -31713,7 +31718,7 @@
       "Name": "Triple Jump",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 316862
+      "UsersEstimate": 316863
     },
     {
       "ID": "True_Holy_Spirit",
@@ -31784,15 +31789,15 @@
     {
       "ID": "3m49pn8",
       "IsBase": true,
-      "Progressed": 736889,
+      "Progressed": 736890,
       "Completed": 772
     }
   ],
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1459144+00:00",
   "LastChanged": "2023-12-20T07:02:53.8408173+00:00",
-  "LastChanged_Achievements": "2023-12-22T05:09:34.3327066+00:00",
+  "LastChanged_Achievements": "2023-12-22T06:09:58.9338825+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:50.2923936+00:00",
-  "LastUpdate_Ratings": "2023-12-22T04:57:48.3393324+00:00",
-  "LastUpdate_Achievements": "2023-12-22T05:09:34.3328926+00:00"
+  "LastUpdate_Ratings": "2023-12-22T05:57:53.8430627+00:00",
+  "LastUpdate_Achievements": "2023-12-22T06:09:58.9340609+00:00"
 }

@@ -68,6 +68,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Brick by Brick | 0.10% | ~481 |
 | Bright Spark | 0.10% | ~481 |
 | The Buddhists Strike Back | 0.10% | ~481 |
+| Bunte Kuh | 0.10% | ~481 |
 | Carthago Delenda Est | 0.10% | ~481 |
 | Center of Attention | 0.10% | ~481 |
 | Cherrypicking | 0.10% | ~481 |
@@ -311,7 +312,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Animal Kingdom | 0.00% | ~0 |
 | Around the World in 80 Years | 0.00% | ~0 |
 | Barbarossa | 0.00% | ~0 |
-| Bunte Kuh | 0.00% | ~0 |
 | Crossing the Finnish Line | 0.00% | ~0 |
 | Dovmont's Own | 0.00% | ~0 |
 | Eat your Greens | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 480,891 (Ranked 40)  
+Progressed: 480,899 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -616,7 +616,7 @@ Completed: 1 (0.00%) (Ranked 384)
 | 2023-12-19 | 479,445 | 1 |
 | 2023-12-20 | 480,075 | 1 |
 | 2023-12-21 | 480,795 | 1 |
-| 2023-12-22 | 480,891 | 1 |
+| 2023-12-22 | 480,899 | 1 |
 ## Awards
 Max (Educational): 7,483  (Ranked 54)  
 Sum: 61,700 (Ranked 24)  

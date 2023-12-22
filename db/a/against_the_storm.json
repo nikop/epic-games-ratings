@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 268,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3539,7 +3539,7 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18887,
+  "EOS_Progressed": 18888,
   "EOS_Completed": 39,
   "EOS_NewPlayers": 708,
   "EOS_NewCompleters": 0,
@@ -16644,6 +16644,11 @@
       "Time": "2023-12-22T05:06:14.0598518+00:00",
       "NumProgressed": 18887,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-22T06:08:21.509197+00:00",
+      "NumProgressed": 18888,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16744,7 +16749,7 @@
       "Name": "First Real Expedition",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "WinHard",
@@ -16992,7 +16997,7 @@
       "Name": "Taking Action",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "WinWithResolve",
@@ -17032,7 +17037,7 @@
       "Name": "No Deaths",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "WinWithoutOrders",
@@ -17064,7 +17069,7 @@
       "Name": "Frosts",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "WinNearGreed",
@@ -17096,7 +17101,7 @@
       "Name": "Ominous Presence",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "WinNearStorms",
@@ -17104,7 +17109,7 @@
       "Name": "Gathering Storm",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -17127,15 +17132,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18887,
+      "Progressed": 18888,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-21T17:59:36.1497483+00:00",
-  "LastChanged_Achievements": "2023-12-22T05:06:14.0598516+00:00",
+  "LastChanged_Achievements": "2023-12-22T06:08:21.5091964+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
-  "LastUpdate_Ratings": "2023-12-22T04:59:52.8029506+00:00",
-  "LastUpdate_Achievements": "2023-12-22T05:06:14.0599365+00:00"
+  "LastUpdate_Ratings": "2023-12-22T05:59:57.0530094+00:00",
+  "LastUpdate_Achievements": "2023-12-22T06:08:21.5092809+00:00"
 }

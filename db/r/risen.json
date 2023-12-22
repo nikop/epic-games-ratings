@@ -2,13 +2,13 @@
   "ID": "fee7e9420cd849c3a8e7d09b2622f9b3",
   "Name": "Risen",
   "ProductSlug": "risen-e8e55e",
-  "Ranking_Rating": 497,
+  "Ranking_Rating": 482,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 465,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 303,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
     "PcReleaseDate": "2009-10-30T16:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.56,
+  "Rating": 4.57,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:38.3860804+00:00",
@@ -69,6 +69,12 @@
     {
       "Time": "2023-12-19T04:58:37.4442531+00:00",
       "Rating": 4.56,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-22T05:59:33.532156+00:00",
+      "Rating": 4.57,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -667,9 +673,9 @@
       "ID": "id_20",
       "SetID": "bk9jib6",
       "Name": "Rune master",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "id_22",
@@ -803,9 +809,9 @@
       "ID": "id_46",
       "SetID": "bk9jib6",
       "Name": "Mage",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "id_47",
@@ -995,9 +1001,9 @@
   "FirstSeen": "2023-02-17T13:13:36.4148926+00:00",
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
-  "LastChanged": "2023-12-19T04:58:37.4442529+00:00",
-  "LastChanged_Achievements": "2023-12-22T05:09:29.0903923+00:00",
+  "LastChanged": "2023-12-22T05:59:33.5321558+00:00",
+  "LastChanged_Achievements": "2023-12-22T06:09:53.784934+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:12.9761539+00:00",
-  "LastUpdate_Ratings": "2023-12-22T04:59:28.744863+00:00",
-  "LastUpdate_Achievements": "2023-12-22T05:09:29.0904214+00:00"
+  "LastUpdate_Ratings": "2023-12-22T05:59:33.532157+00:00",
+  "LastUpdate_Achievements": "2023-12-22T06:09:53.7849633+00:00"
 }

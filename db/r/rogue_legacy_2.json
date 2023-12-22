@@ -6,9 +6,9 @@
   "Ranking_Popularity": 284,
   "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 138,
-  "Ranking_EOS_Completed": 289,
+  "Ranking_EOS_Completed": 290,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1506,9 +1506,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 26145,
+  "EOS_Progressed": 26156,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 1971,
+  "EOS_NewPlayers": 1963,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -11401,6 +11401,11 @@
       "Time": "2023-12-22T05:09:18.300314+00:00",
       "NumProgressed": 26145,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-22T06:09:43.2601319+00:00",
+      "NumProgressed": 26156,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -11492,7 +11497,7 @@
       "Name": "Spells and Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -11508,7 +11513,7 @@
       "Name": "Hands and Hammers",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "BossFinalAdvancedDefeated",
@@ -11524,7 +11529,7 @@
       "Name": "King and Kin",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "BossForestAdvancedDefeated",
@@ -11540,7 +11545,7 @@
       "Name": "Harvest and Home",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -11556,7 +11561,7 @@
       "Name": "Progenitor and Prot\u00E9g\u00E9",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "BossStudyAdvancedDefeated",
@@ -11604,7 +11609,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "EndTimerFail",
@@ -11668,7 +11673,7 @@
       "Name": "Prequel to the Sequel",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "RogueMode",
@@ -11723,21 +11728,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 26145,
+      "Progressed": 26156,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 5075,
+      "Progressed": 5086,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-21T13:03:02.8051894+00:00",
-  "LastChanged_Achievements": "2023-12-22T05:09:18.3003138+00:00",
+  "LastChanged_Achievements": "2023-12-22T06:09:43.2601315+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:44.2937948+00:00",
-  "LastUpdate_Ratings": "2023-12-22T04:58:51.8964393+00:00",
-  "LastUpdate_Achievements": "2023-12-22T05:09:18.30037+00:00"
+  "LastUpdate_Ratings": "2023-12-22T05:58:56.967692+00:00",
+  "LastUpdate_Achievements": "2023-12-22T06:09:43.260203+00:00"
 }

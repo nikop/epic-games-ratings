@@ -6,18 +6,18 @@ Number of Ratings: 13,393  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~126,501 |
+| Immovable Object | 89.00% | ~126,502 |
 | Comeback | 82.00% | ~116,552 |
-| Information is Key | 80.00% | ~113,709 |
-| Unlucky | 70.00% | ~99,495 |
-| Anarchist | 68.00% | ~96,652 |
-| Wallhack | 65.00% | ~92,388 |
+| Information is Key | 80.00% | ~113,710 |
+| Unlucky | 70.00% | ~99,496 |
+| Anarchist | 68.00% | ~96,653 |
+| Wallhack | 65.00% | ~92,389 |
 | Steady Supply | 60.00% | ~85,282 |
-| Lucky Shot | 53.00% | ~75,332 |
+| Lucky Shot | 53.00% | ~75,333 |
 | Ring Ring! | 52.00% | ~73,911 |
-| Forward Observer | 51.00% | ~72,489 |
-| Bossing Around | 45.00% | ~63,961 |
-| Frostbite | 45.00% | ~63,961 |
+| Forward Observer | 51.00% | ~72,490 |
+| Bossing Around | 45.00% | ~63,962 |
+| Frostbite | 45.00% | ~63,962 |
 | Night Owl | 44.00% | ~62,540 |
 | Strength in Numbers | 44.00% | ~62,540 |
 | Fog of War | 41.00% | ~58,276 |
@@ -33,12 +33,12 @@ Number of Ratings: 13,393  (23.09.2022)
 | Together As One | 31.00% | ~44,062 |
 | Gavrilo Princip | 27.00% | ~38,377 |
 | Lead Harvest | 25.00% | ~35,534 |
-| Skynet Confirmed | 23.00% | ~32,691 |
+| Skynet Confirmed | 23.00% | ~32,692 |
 | Kesselschlacht | 22.00% | ~31,270 |
 | Democracy Works! | 20.00% | ~28,427 |
 | Switch, Please! | 19.00% | ~27,006 |
-| At Least This Way I Can Win... | 18.00% | ~25,584 |
-| Tourist | 18.00% | ~25,584 |
+| At Least This Way I Can Win... | 18.00% | ~25,585 |
+| Tourist | 18.00% | ~25,585 |
 | I've Seen It All | 17.00% | ~24,163 |
 | Oops! | 17.00% | ~24,163 |
 | Developers, Developers, Developers, Developers! | 16.00% | ~22,742 |
@@ -74,7 +74,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Seeing is Believing | 0.90% | ~1,279 |
 | Road to Berlin | 0.60% | ~853 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,136 (Ranked 83)  
+Progressed: 142,137 (Ranked 83)  
 Completed: 34 (0.02%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 34 (0.02%) (Ranked 353)
 | 2023-12-19 | 141,902 | 34 |
 | 2023-12-20 | 142,005 | 34 |
 | 2023-12-21 | 142,119 | 34 |
-| 2023-12-22 | 142,136 | 34 |
+| 2023-12-22 | 142,137 | 34 |
 ## Awards
 Max (Competitive Players): 335  (Ranked 248)  
 Sum: 3,294 (Ranked 174)  

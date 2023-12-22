@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 436,
   "Ranking_EOS_Completed": 66,
   "Ranking_EOS_NewPlayers": 312,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2016-03-24T11:00:00+00:00",
@@ -814,9 +814,9 @@
       "ID": "Kudla",
       "SetID": "ag48e8e",
       "Name": "Knife",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "Kvitky",
@@ -981,8 +981,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-12-22T05:05:57.2989041+00:00",
+  "LastChanged_Achievements": "2023-12-22T06:06:15.2795295+00:00",
   "LastUpdate_AppInfo": "2023-12-16T05:57:11.9485544+00:00",
-  "LastUpdate_Ratings": "2023-12-22T05:02:32.1219926+00:00",
-  "LastUpdate_Achievements": "2023-12-22T05:05:57.2989265+00:00"
+  "LastUpdate_Ratings": "2023-12-22T06:02:53.1004135+00:00",
+  "LastUpdate_Achievements": "2023-12-22T06:06:15.2795517+00:00"
 }

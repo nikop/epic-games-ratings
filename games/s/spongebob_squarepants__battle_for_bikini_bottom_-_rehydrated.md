@@ -8,14 +8,15 @@ Number of Ratings: 76  (23.09.2022)
 | ---- | ---------- | ----- |
 | Jellyfishing | 2.00% | ~4 |
 | Jellyfish Jam | 2.00% | ~4 |
+| Keep it Rolling | 2.00% | ~4 |
+| Shrimp Catcher | 2.00% | ~4 |
+| Toxic Terror | 2.00% | ~4 |
 | Sweet Victory | 2.00% | ~4 |
+| Spatula Seeker | 2.00% | ~4 |
 | Sponge Smasher | 2.00% | ~4 |
 | Time For Tutorial | 2.00% | ~4 |
 | Hello, Bikini Bottom | 1.00% | ~2 |
-| Keep it Rolling | 1.00% | ~2 |
-| Shrimp Catcher | 1.00% | ~2 |
-| Toxic Terror | 1.00% | ~2 |
-| Spatula Seeker | 1.00% | ~2 |
+| Sock Getter | 1.00% | ~2 |
 | Squirrel Smasher | 1.00% | ~2 |
 | Robot encyclopedia | 0.60% | ~1 |
 | Are you ready now? | 0.60% | ~1 |
@@ -23,7 +24,6 @@ Number of Ratings: 76  (23.09.2022)
 | Uptown and Downtown | 0.60% | ~1 |
 | Hit Rock Bottom | 0.60% | ~1 |
 | Super Spatula Seeker | 0.60% | ~1 |
-| Sock Getter | 0.60% | ~1 |
 | Surf's Up! | 0.60% | ~1 |
 | The Small Does Not Rule | 0.00% | ~0 |
 | 100% SpongeBob | 0.00% | ~0 |

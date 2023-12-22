@@ -41,6 +41,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Silver Victory (Carthage 3) | 0.10% | ~16 |
 | Carthage - Seizing Destiny | 0.10% | ~16 |
 | Bronze Victory (Carthage 4) | 0.10% | ~16 |
+| Silver Victory (Carthage 4) | 0.10% | ~16 |
 | Carthage Campaign | 0.10% | ~16 |
 | Cleopatra's Love | 0.10% | ~16 |
 | Able | 0.10% | ~16 |
@@ -228,7 +229,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hagia Sophia in Byzantion | 0.00% | ~0 |
 | Epic Victory (Carthage 4) | 0.00% | ~0 |
 | Gold Victory (Carthage 4) | 0.00% | ~0 |
-| Silver Victory (Carthage 4) | 0.00% | ~0 |
 | Avenger | 0.00% | ~0 |
 | Destroyer | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |

@@ -5907,9 +5907,9 @@
       "Count": 471
     }
   ],
-  "EOS_Progressed": 258876,
+  "EOS_Progressed": 258913,
   "EOS_Completed": 614,
-  "EOS_NewPlayers": 16109,
+  "EOS_NewPlayers": 16065,
   "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -24202,6 +24202,11 @@
       "Time": "2023-12-22T05:09:05.0455226+00:00",
       "NumProgressed": 258876,
       "NumCompleted": 614
+    },
+    {
+      "Time": "2023-12-22T06:09:29.9557821+00:00",
+      "NumProgressed": 258913,
+      "NumCompleted": 614
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -24214,7 +24219,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 10355
+      "UsersEstimate": 10357
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -24222,7 +24227,7 @@
       "Name": "Crafty",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "Defeat_Abberations_A",
@@ -24238,7 +24243,7 @@
       "Name": "Ghost in the Machine",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "Defeat_Boss_No_Damage",
@@ -24262,7 +24267,7 @@
       "Name": "Gleaming the Cube",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7766
+      "UsersEstimate": 7767
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -24294,7 +24299,7 @@
       "Name": "The Killing Jar",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15533
+      "UsersEstimate": 15535
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -24334,7 +24339,7 @@
       "Name": "Quest for Survival",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 10355
+      "UsersEstimate": 10357
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -24358,7 +24363,7 @@
       "Name": "Not a Janitor",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7766
+      "UsersEstimate": 7767
     },
     {
       "ID": "Meet_Flautist",
@@ -24366,7 +24371,7 @@
       "Name": "Familiar Face",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7766
+      "UsersEstimate": 7767
     },
     {
       "ID": "Meet_Meidra",
@@ -24398,7 +24403,7 @@
       "Name": "First of Many",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15533
+      "UsersEstimate": 15535
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -24446,7 +24451,7 @@
       "Name": "Boss\u0027n Up",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7766
+      "UsersEstimate": 7767
     },
     {
       "ID": "Obtain_Guns_A",
@@ -24462,7 +24467,7 @@
       "Name": "The Trigger",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "Obtain_Melee_Weapons_A",
@@ -24494,7 +24499,7 @@
       "Name": "The Collector",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "Obtain_Scrap_A",
@@ -24518,7 +24523,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12944
+      "UsersEstimate": 12946
     },
     {
       "ID": "Obtain_Traits_B",
@@ -24590,7 +24595,7 @@
       "Name": "Trait Chaser",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7766
+      "UsersEstimate": 7767
     },
     {
       "ID": "Upgrade_Traits_B",
@@ -24614,7 +24619,7 @@
       "Name": "Regicide",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -24630,7 +24635,7 @@
       "Name": "Master of the Dark Arts",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "DLC1_Obtain_Scribe_Reward",
@@ -24653,13 +24658,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 258876,
+      "Progressed": 258913,
       "Completed": 614
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 38041,
+      "Progressed": 38078,
       "Completed": 310
     }
   ],
@@ -24667,8 +24672,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-12-22T05:02:58.5182136+00:00",
-  "LastChanged_Achievements": "2023-12-22T05:09:05.0455224+00:00",
+  "LastChanged_Achievements": "2023-12-22T06:09:29.9557813+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:50:01.3962237+00:00",
-  "LastUpdate_Ratings": "2023-12-22T05:02:58.5182142+00:00",
-  "LastUpdate_Achievements": "2023-12-22T05:09:05.0456239+00:00"
+  "LastUpdate_Ratings": "2023-12-22T06:03:17.6391919+00:00",
+  "LastUpdate_Achievements": "2023-12-22T06:09:29.9558985+00:00"
 }

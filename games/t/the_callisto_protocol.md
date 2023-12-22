@@ -5,35 +5,35 @@ Rating: 4.20 (Ranked 935)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 15.00% | ~2,778 |
-| The Outer Way | 15.00% | ~2,778 |
-| Get a Grip | 14.00% | ~2,593 |
-| Paper Jams | 14.00% | ~2,593 |
-| Desperate Times | 13.00% | ~2,407 |
-| Chew 'Em Up | 11.00% | ~2,037 |
-| Float Like A Butterfly | 11.00% | ~2,037 |
-| Reforged | 10.00% | ~1,852 |
+| Flesh Wound | 15.00% | ~2,779 |
+| The Outer Way | 15.00% | ~2,779 |
+| Get a Grip | 14.00% | ~2,594 |
+| Paper Jams | 14.00% | ~2,594 |
+| Desperate Times | 13.00% | ~2,409 |
+| Chew 'Em Up | 11.00% | ~2,038 |
+| Float Like A Butterfly | 11.00% | ~2,038 |
+| Reforged | 10.00% | ~1,853 |
 | Workplace Hazard | 9.00% | ~1,667 |
 | If the SHU Fits... | 9.00% | ~1,667 |
 | Without A Paddle | 8.00% | ~1,482 |
-| Two Heads Are Better Than One | 7.00% | ~1,296 |
-| In the Pipe, Five by Five | 7.00% | ~1,296 |
-| Crash Site | 7.00% | ~1,296 |
-| Power Up | 7.00% | ~1,296 |
-| You Need a Gun | 6.00% | ~1,111 |
-| Terminated | 6.00% | ~1,111 |
-| What Lies Beneath | 6.00% | ~1,111 |
-| Full Circle | 6.00% | ~1,111 |
+| Two Heads Are Better Than One | 7.00% | ~1,297 |
+| In the Pipe, Five by Five | 7.00% | ~1,297 |
+| Crash Site | 7.00% | ~1,297 |
+| Power Up | 7.00% | ~1,297 |
+| You Need a Gun | 6.00% | ~1,112 |
+| Terminated | 6.00% | ~1,112 |
+| What Lies Beneath | 6.00% | ~1,112 |
+| Full Circle | 6.00% | ~1,112 |
 | Keep Fighting | 6.00% | ~387 |
 | Giving Back | 5.00% | ~926 |
 | I Do Belong Here | 5.00% | ~926 |
-| It's Time | 4.00% | ~258 |
+| It's Time | 5.00% | ~323 |
 | In Striking Distance | 3.00% | ~556 |
 | The Commonality | 3.00% | ~556 |
 | One Last Job | 2.00% | ~129 |
 | Mugshot | 1.00% | ~185 |
-| Big Spender | 1.00% | ~64 |
-| This Isn't About Escape | 1.00% | ~64 |
+| Big Spender | 1.00% | ~65 |
+| This Isn't About Escape | 1.00% | ~65 |
 | Armed to the Teeth | 0.90% | ~58 |
 | Grim Reaper | 0.80% | ~148 |
 | Parole Denied | 0.80% | ~52 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 935)
 | Bear Trap | 0.10% | ~6 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,519 (Ranked 149)  
+Progressed: 18,527 (Ranked 149)  
 Completed: 82 (0.44%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,16 +291,16 @@ Completed: 82 (0.44%) (Ranked 224)
 | 2023-12-19 | 18,137 | 82 |
 | 2023-12-20 | 18,301 | 82 |
 | 2023-12-21 | 18,465 | 82 |
-| 2023-12-22 | 18,519 | 82 |
+| 2023-12-22 | 18,527 | 82 |
 ## Awards
-Max (Amazing Characters): 91  (Ranked 385)  
-Sum: 540 (Ranked 326)  
+Max (Quickly Understood Controls): 91  (Ranked 385)  
+Sum: 542 (Ranked 326)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
+| This game has Quickly Understood Controls | 91 |
 | This game has Amazing Characters | 91 |
 | This game has Amazing Storytelling | 90 |
-| This game has Quickly Understood Controls | 89 |
 | This game is Highly Recommended | 88 |
 | This game is Extremely Fun | 81 |
 | This game has Challenging Combat | 66 |
@@ -486,4 +486,4 @@ Diff (max vs sum): 59
 | 2023-12-19 | 4.19 | 89 | 526 |
 | 2023-12-20 | 4.19 | 89 | 533 |
 | 2023-12-21 | 4.20 | 91 | 539 |
-| 2023-12-22 | 4.20 | 91 | 540 |
+| 2023-12-22 | 4.20 | 91 | 542 |
