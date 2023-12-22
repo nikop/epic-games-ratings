@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 3768,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 3769,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1138,
+  "EOS_Progressed": 1139,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": -8,
+  "EOS_NewPlayers": -7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1891,6 +1891,11 @@
       "Time": "2023-12-21T19:04:27.824778+00:00",
       "NumProgressed": 1138,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-22T00:04:34.9308205+00:00",
+      "NumProgressed": 1139,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -1934,7 +1939,7 @@
       "Name": "The First Step",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "06",
@@ -1942,7 +1947,7 @@
       "Name": "First Blood",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "07",
@@ -1958,7 +1963,7 @@
       "Name": "Monster Slayer",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "09",
@@ -1974,7 +1979,7 @@
       "Name": "Huntmaster",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "11",
@@ -2030,7 +2035,7 @@
       "Name": "Ready to Learn",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "18",
@@ -2038,7 +2043,7 @@
       "Name": "Earning Trust",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "19",
@@ -2046,7 +2051,7 @@
       "Name": "Broken Oath",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "20",
@@ -2085,7 +2090,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1138,
+      "Progressed": 1139,
       "Completed": 1
     }
   ],
@@ -2093,8 +2098,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-12-04T18:59:06.5793648+00:00",
-  "LastChanged_Achievements": "2023-12-21T23:05:17.934006+00:00",
+  "LastChanged_Achievements": "2023-12-22T00:04:34.9308202+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:06.8516374+00:00",
-  "LastUpdate_Ratings": "2023-12-21T23:02:43.4785059+00:00",
-  "LastUpdate_Achievements": "2023-12-21T23:05:17.9340307+00:00"
+  "LastUpdate_Ratings": "2023-12-22T00:00:51.7385423+00:00",
+  "LastUpdate_Achievements": "2023-12-22T00:04:34.9308394+00:00"
 }

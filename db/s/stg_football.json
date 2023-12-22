@@ -4,11 +4,11 @@
   "ProductSlug": "superteam-football-6ce66c",
   "Ranking_Rating": 721,
   "Ranking_Popularity": 443,
-  "Ranking_PopularitySum": 347,
+  "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 813,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 563,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-10-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-26T16:00:00+00:00",
@@ -766,10 +766,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 401,
       "NumberOfAwardsMax": 51
+    },
+    {
+      "Time": "2023-12-22T00:03:10.690439+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 403,
+      "NumberOfAwardsMax": 51
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 401,
+  "NumberOfAwards": 403,
   "NumberOfAwardsMax": 51,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -801,7 +807,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game is Extremely Fun",
@@ -813,7 +819,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game has Competitive Players",
@@ -858,8 +864,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-25T20:04:22.7982366+00:00",
   "FirstSeenRating": "2022-10-28T23:02:10.4160395+00:00",
-  "LastChanged": "2023-12-15T05:03:23.0684446+00:00",
+  "LastChanged": "2023-12-22T00:03:10.6904389+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:16.4549916+00:00",
-  "LastUpdate_Ratings": "2023-12-21T23:03:33.5139606+00:00",
-  "LastUpdate_Achievements": "2023-12-21T23:04:32.9527584+00:00"
+  "LastUpdate_Ratings": "2023-12-22T00:03:10.6904393+00:00",
+  "LastUpdate_Achievements": "2023-12-22T00:03:58.9504012+00:00"
 }

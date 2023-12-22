@@ -3,12 +3,12 @@
   "Name": "Skul: The Hero Slayer",
   "ProductSlug": "skul-the-hero-slayer",
   "Ranking_Rating": 175,
-  "Ranking_Popularity": 328,
+  "Ranking_Popularity": 327,
   "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -1173,11 +1173,17 @@
       "Rating": 4.73,
       "NumberOfAwards": 958,
       "NumberOfAwardsMax": 139
+    },
+    {
+      "Time": "2023-12-21T23:58:05.4565595+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 960,
+      "NumberOfAwardsMax": 141
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 958,
-  "NumberOfAwardsMax": 139,
+  "NumberOfAwards": 960,
+  "NumberOfAwardsMax": 141,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -1244,12 +1250,12 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 139
+      "Count": 141
     }
   ],
   "EOS_Progressed": 11694,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 2813,
+  "EOS_NewPlayers": 2809,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -7285,9 +7291,9 @@
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
-  "LastChanged": "2023-12-21T14:58:03.0782289+00:00",
-  "LastChanged_Achievements": "2023-12-21T23:09:20.1016009+00:00",
+  "LastChanged": "2023-12-21T23:58:05.4565593+00:00",
+  "LastChanged_Achievements": "2023-12-22T00:08:46.7589086+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:00.8013876+00:00",
-  "LastUpdate_Ratings": "2023-12-21T22:58:23.7802794+00:00",
-  "LastUpdate_Achievements": "2023-12-21T23:09:20.1016341+00:00"
+  "LastUpdate_Ratings": "2023-12-21T23:58:05.4565598+00:00",
+  "LastUpdate_Achievements": "2023-12-22T00:08:46.758965+00:00"
 }

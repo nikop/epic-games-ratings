@@ -2,10 +2,10 @@
   "ID": "8bf17fa0bd774f72bb06bd095830af2a",
   "Name": "The Dragoness Command Of The Flame",
   "ProductSlug": "the-dragoness-command-of-the-flame-b3b544",
-  "Ranking_EOS_Progress": 559,
+  "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 491,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 490,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-09T23:00:00+00:00",
     "PcReleaseDate": "2022-09-01T15:00:00+00:00",
@@ -217,9 +217,9 @@
       "ID": "SteamAchievement_KillDesertMonsters",
       "SetID": "b8gj0ip",
       "Name": "Crushing the rebelion: Watan",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SteamAchievement_KillFireMonsters",
@@ -433,9 +433,9 @@
       "ID": "SteamAchievment_CompleteQuest12",
       "SetID": "b8gj0ip",
       "Name": "Untouched Pyramid",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SteamAchievment_CompleteQuest13",
@@ -497,9 +497,9 @@
       "ID": "SteamAchievment_MergeAnyArtifactOnMaxLevel",
       "SetID": "b8gj0ip",
       "Name": "Merging Specialist",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
@@ -512,8 +512,8 @@
   ],
   "FirstSeen": "2023-08-10T10:57:59.2838137+00:00",
   "FirstSeenAchievements": "2023-05-30T14:00:09.5243374+00:00",
-  "LastChanged_Achievements": "2023-12-21T23:06:27.8315169+00:00",
+  "LastChanged_Achievements": "2023-12-22T00:05:33.0196612+00:00",
   "LastUpdate_AppInfo": "2023-12-20T02:56:49.7391975+00:00",
-  "LastUpdate_Ratings": "2023-12-21T23:00:27.4138804+00:00",
-  "LastUpdate_Achievements": "2023-12-21T23:06:27.8315484+00:00"
+  "LastUpdate_Ratings": "2023-12-21T23:59:42.3294818+00:00",
+  "LastUpdate_Achievements": "2023-12-22T00:05:33.0196804+00:00"
 }

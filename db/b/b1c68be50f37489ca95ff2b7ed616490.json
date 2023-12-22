@@ -2,10 +2,10 @@
   "ID": "b1c68be50f37489ca95ff2b7ed616490",
   "Name": "Agatha Christie - Murder on the Orient Express",
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
-  "Ranking_EOS_Progress": 427,
+  "Ranking_EOS_Progress": 426,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
     "PcReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 149,
+  "EOS_Progressed": 150,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -664,6 +664,11 @@
       "Time": "2023-12-21T21:05:39.5160426+00:00",
       "NumProgressed": 149,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T00:05:59.2130822+00:00",
+      "NumProgressed": 150,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -684,7 +689,7 @@
       "Name": "Masquerade",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "11",
@@ -692,7 +697,7 @@
       "Name": "Final questions",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "12",
@@ -740,7 +745,7 @@
       "Name": "Master Chess",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "18",
@@ -788,7 +793,7 @@
       "Name": "I know kung fu",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "23",
@@ -804,7 +809,7 @@
       "Name": "Just like a police lineup",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "25",
@@ -836,7 +841,7 @@
       "Name": "It was not in the book",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "4",
@@ -882,23 +887,23 @@
       "ID": "9",
       "SetID": "6bgoh8g",
       "Name": "Encore!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     }
   ],
   "AchievementSets": [
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 149,
+      "Progressed": 150,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-12-21T23:06:58.6535251+00:00",
+  "LastChanged_Achievements": "2023-12-22T00:05:59.2130812+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:09.2427792+00:00",
-  "LastUpdate_Ratings": "2023-12-21T23:03:27.5481701+00:00",
-  "LastUpdate_Achievements": "2023-12-21T23:06:58.6535425+00:00"
+  "LastUpdate_Ratings": "2023-12-22T00:03:05.9098268+00:00",
+  "LastUpdate_Achievements": "2023-12-22T00:05:59.2130953+00:00"
 }

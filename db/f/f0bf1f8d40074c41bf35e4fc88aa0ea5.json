@@ -4,8 +4,8 @@
   "ProductSlug": "argol-kronoss-castle-84d829",
   "Ranking_EOS_Progress": 695,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 491,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 490,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2022-12-24T23:30:00+00:00",
@@ -172,9 +172,9 @@
       "ID": "VAMPYRE_QUEEN",
       "SetID": "d0gblle",
       "Name": "Vampire hunter",
-      "Percentage": 100,
+      "Percentage": 133,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
@@ -186,8 +186,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-19T21:04:20.7899526+00:00",
-  "LastChanged_Achievements": "2023-12-21T23:05:07.213249+00:00",
+  "LastChanged_Achievements": "2023-12-22T00:04:25.4115973+00:00",
   "LastUpdate_AppInfo": "2023-12-19T20:57:12.3792891+00:00",
-  "LastUpdate_Ratings": "2023-12-21T22:58:43.0385906+00:00",
-  "LastUpdate_Achievements": "2023-12-21T23:05:07.2132577+00:00"
+  "LastUpdate_Ratings": "2023-12-21T23:58:20.1523827+00:00",
+  "LastUpdate_Achievements": "2023-12-22T00:04:25.411607+00:00"
 }

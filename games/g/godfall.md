@@ -1,18 +1,18 @@
 # Godfall Ultimate Edition
 [Store](https://store.epicgames.com/en-US/p/godfall)  
 [View Rawdata](../../db/g/godfall.json)  
-Rating: 4.07 (Ranked 998)  
+Rating: 4.07 (Ranked 999)  
 Number of Ratings: 818  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 574  (Ranked 206)  
-Sum: 915 (Ranked 273)  
+Sum: 916 (Ranked 273)  
 Diff (max vs sum): -67  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 574 |
 | This game has Challenging Combat | 53 |
+| This game has Diverse Characters | 52 |
 | This game is Highly Recommended | 51 |
-| This game has Diverse Characters | 51 |
 | This game has Amazing Characters | 50 |
 | This game is Relaxing | 47 |
 | This game has Quickly Understood Controls | 45 |
@@ -195,3 +195,4 @@ Diff (max vs sum): -67
 | 2023-12-15 | 4.07 | - | 570 | 908 |
 | 2023-12-16 | 4.07 | - | 570 | 911 |
 | 2023-12-18 | 4.07 | - | 574 | 915 |
+| 2023-12-21 | 4.07 | - | 574 | 916 |

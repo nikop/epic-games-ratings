@@ -9,12 +9,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | Abandoned Settlement | 6.00% | ~1,132 |
 | Overgrown Library | 6.00% | ~1,132 |
 | Petrified Necropolis | 5.00% | ~943 |
-| First Real Expedition | 4.00% | ~754 |
-| Taking Action | 4.00% | ~754 |
-| No Deaths | 4.00% | ~754 |
-| Frosts | 4.00% | ~754 |
-| Ominous Presence | 4.00% | ~754 |
-| Gathering Storm | 4.00% | ~754 |
+| First Real Expedition | 4.00% | ~755 |
+| Taking Action | 4.00% | ~755 |
+| No Deaths | 4.00% | ~755 |
+| Frosts | 4.00% | ~755 |
+| Ominous Presence | 4.00% | ~755 |
+| Gathering Storm | 4.00% | ~755 |
 | Overcoming Difficulty | 3.00% | ~566 |
 | Coral Forest | 3.00% | ~566 |
 | The Marshlands | 3.00% | ~566 |
@@ -42,11 +42,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Haunted Forest | 0.90% | ~170 |
 | Against All Odds | 0.80% | ~151 |
 | Serving Ale | 0.70% | ~132 |
+| Victory Through Prosperity | 0.70% | ~132 |
 | Defying the Crown | 0.70% | ~132 |
 | Into the Forest | 0.70% | ~132 |
 | Fishmen Ritual Site | 0.60% | ~113 |
 | Forsaken Gods Temple | 0.60% | ~113 |
-| Victory Through Prosperity | 0.60% | ~113 |
 | Efficient Explorer | 0.50% | ~94 |
 | Refinery | 0.50% | ~94 |
 | Dangerous Lands | 0.50% | ~94 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,861 (Ranked 148)  
+Progressed: 18,868 (Ranked 148)  
 Completed: 39 (0.21%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,6 +312,7 @@ Completed: 39 (0.21%) (Ranked 268)
 | 2023-12-19 | 18,687 | 39 |
 | 2023-12-20 | 18,771 | 39 |
 | 2023-12-21 | 18,861 | 39 |
+| 2023-12-22 | 18,868 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 228)  
 Sum: 3,277 (Ranked 175)  

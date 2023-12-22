@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 444,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 438,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1185,
+  "EOS_Progressed": 1186,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1200,6 +1200,11 @@
       "Time": "2023-12-21T16:04:22.5771252+00:00",
       "NumProgressed": 1185,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T00:03:40.1689846+00:00",
+      "NumProgressed": 1186,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -1337,9 +1342,9 @@
       "ID": "CAREERACADEMY",
       "SetID": "3dh70f3",
       "Name": "Rookie No More",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 332
+      "UsersEstimate": 320
     },
     {
       "ID": "CAREERADVANCED",
@@ -1441,9 +1446,9 @@
       "ID": "FINISHSOUND",
       "SetID": "3dh70f3",
       "Name": "Running at the speed of sound",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 154
     },
     {
       "ID": "FLYLONG",
@@ -1531,7 +1536,7 @@
       "Name": "It\u0027s like an haircut",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ONEPLATINUM",
@@ -1626,7 +1631,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1185,
+      "Progressed": 1186,
       "Completed": 0
     }
   ],
@@ -1634,8 +1639,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-12-19T23:02:44.1554509+00:00",
-  "LastChanged_Achievements": "2023-12-21T23:04:10.0654697+00:00",
+  "LastChanged_Achievements": "2023-12-22T00:03:40.1689841+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:54.1837394+00:00",
-  "LastUpdate_Ratings": "2023-12-21T23:03:29.0048557+00:00",
-  "LastUpdate_Achievements": "2023-12-21T23:04:10.065521+00:00"
+  "LastUpdate_Ratings": "2023-12-22T00:03:07.0217468+00:00",
+  "LastUpdate_Achievements": "2023-12-22T00:03:40.1690795+00:00"
 }

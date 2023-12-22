@@ -4,11 +4,11 @@
   "ProductSlug": "poker-club-6e18ee",
   "Ranking_Rating": 1048,
   "Ranking_Popularity": 418,
-  "Ranking_PopularitySum": 413,
+  "Ranking_PopularitySum": 412,
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-04-27T15:00:00+00:00",
     "PcReleaseDate": "2020-11-20T00:00:00+00:00",
@@ -1001,10 +1001,16 @@
       "Rating": 3.83,
       "NumberOfAwards": 193,
       "NumberOfAwardsMax": 63
+    },
+    {
+      "Time": "2023-12-22T00:02:42.4529583+00:00",
+      "Rating": 3.83,
+      "NumberOfAwards": 194,
+      "NumberOfAwardsMax": 63
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 193,
+  "NumberOfAwards": 194,
   "NumberOfAwardsMax": 63,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1024,7 +1030,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game has a Competitive Community",
@@ -1039,9 +1045,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 544776,
+  "EOS_Progressed": 544781,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1543,
+  "EOS_NewPlayers": 1542,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28979,6 +28985,11 @@
       "Time": "2023-12-21T23:09:24.2071435+00:00",
       "NumProgressed": 544776,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-22T00:08:50.3572903+00:00",
+      "NumProgressed": 544781,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -28990,7 +29001,7 @@
       "Name": "A Bit On The Side",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 147090
+      "UsersEstimate": 147091
     },
     {
       "ID": "Backdoor",
@@ -28998,7 +29009,7 @@
       "Name": "Backdoor",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 136194
+      "UsersEstimate": 136195
     },
     {
       "ID": "BeforeYouWreckYourself",
@@ -29086,7 +29097,7 @@
       "Name": "Cold Caller",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 217910
+      "UsersEstimate": 217912
     },
     {
       "ID": "DeadlyAssassin",
@@ -29094,7 +29105,7 @@
       "Name": "Deadly Assassin",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 87164
+      "UsersEstimate": 87165
     },
     {
       "ID": "DogEatDog",
@@ -29102,7 +29113,7 @@
       "Name": "Dog Eat Dog",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 38134
+      "UsersEstimate": 38135
     },
     {
       "ID": "DressToImpress",
@@ -29142,7 +29153,7 @@
       "Name": "Handy",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 228806
+      "UsersEstimate": 228808
     },
     {
       "ID": "HoldingYourOwn",
@@ -29238,7 +29249,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 414030
+      "UsersEstimate": 414034
     },
     {
       "ID": "ProPlayer",
@@ -29254,7 +29265,7 @@
       "Name": "Quack Quack",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 38134
+      "UsersEstimate": 38135
     },
     {
       "ID": "RankAmateur",
@@ -29262,7 +29273,7 @@
       "Name": "Rank Amateur",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 119851
+      "UsersEstimate": 119852
     },
     {
       "ID": "RegularPunter",
@@ -29302,7 +29313,7 @@
       "Name": "Showoff",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 70821
+      "UsersEstimate": 70822
     },
     {
       "ID": "TheBiggerTheyAre",
@@ -29318,7 +29329,7 @@
       "Name": "Three Way",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 103507
+      "UsersEstimate": 103508
     },
     {
       "ID": "TopDog",
@@ -29342,23 +29353,23 @@
       "Name": "W.H.I.P.",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 65373
+      "UsersEstimate": 65374
     }
   ],
   "AchievementSets": [
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 544776,
+      "Progressed": 544781,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-04-27T17:00:42.1303107+00:00",
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
-  "LastChanged": "2023-12-21T15:02:52.6999751+00:00",
-  "LastChanged_Achievements": "2023-12-21T23:09:24.2071431+00:00",
+  "LastChanged": "2023-12-22T00:02:42.4529581+00:00",
+  "LastChanged_Achievements": "2023-12-22T00:08:50.3572899+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:44.9850602+00:00",
-  "LastUpdate_Ratings": "2023-12-21T23:02:57.4403823+00:00",
-  "LastUpdate_Achievements": "2023-12-21T23:09:24.2073229+00:00"
+  "LastUpdate_Ratings": "2023-12-22T00:02:42.4529585+00:00",
+  "LastUpdate_Achievements": "2023-12-22T00:08:50.3574244+00:00"
 }

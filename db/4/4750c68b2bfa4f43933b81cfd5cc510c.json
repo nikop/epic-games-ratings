@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 5,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-29T00:00:00+00:00",
     "PcReleaseDate": "2023-09-29T00:00:00+00:00",
@@ -2847,9 +2847,9 @@
       "Count": 597
     }
   ],
-  "EOS_Progressed": 198505,
+  "EOS_Progressed": 198994,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 114274,
+  "EOS_NewPlayers": 113993,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13487,6 +13487,11 @@
       "Time": "2023-12-21T23:07:56.9395138+00:00",
       "NumProgressed": 198505,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T00:06:47.3610208+00:00",
+      "NumProgressed": 198994,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:32.177699+00:00",
@@ -13499,7 +13504,7 @@
       "Name": "Volta\u0027s best",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 1588
+      "UsersEstimate": 1592
     },
     {
       "ID": "achievement_10",
@@ -13507,7 +13512,7 @@
       "Name": "Surgical Aim",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 3970
+      "UsersEstimate": 3980
     },
     {
       "ID": "achievement_11",
@@ -13515,7 +13520,7 @@
       "Name": "Bullseye",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 13895
+      "UsersEstimate": 13930
     },
     {
       "ID": "achievement_12",
@@ -13523,7 +13528,7 @@
       "Name": "PlayStyles\u002B",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 91312
+      "UsersEstimate": 91537
     },
     {
       "ID": "achievement_13",
@@ -13531,7 +13536,7 @@
       "Name": "Squad Building Completionist",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 55581
+      "UsersEstimate": 55718
     },
     {
       "ID": "achievement_14",
@@ -13539,7 +13544,7 @@
       "Name": "The Alchemist",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 47641
+      "UsersEstimate": 47759
     },
     {
       "ID": "achievement_15",
@@ -13547,7 +13552,7 @@
       "Name": "Trust me, I\u0027m a Manager",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 57566
+      "UsersEstimate": 57708
     },
     {
       "ID": "achievement_16",
@@ -13555,7 +13560,7 @@
       "Name": "Defensive Masterclass",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 33746
+      "UsersEstimate": 33829
     },
     {
       "ID": "achievement_17",
@@ -13563,7 +13568,7 @@
       "Name": "One Moment Please!",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 63522
+      "UsersEstimate": 63678
     },
     {
       "ID": "achievement_18",
@@ -13571,7 +13576,7 @@
       "Name": "Welcome to the Big Leagues!",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 65507
+      "UsersEstimate": 65668
     },
     {
       "ID": "achievement_19",
@@ -13579,7 +13584,7 @@
       "Name": "Seasoned Veteran",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 9925
+      "UsersEstimate": 9950
     },
     {
       "ID": "achievement_2",
@@ -13587,7 +13592,7 @@
       "Name": "Teamwork works",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7940
+      "UsersEstimate": 7960
     },
     {
       "ID": "achievement_20",
@@ -13595,7 +13600,7 @@
       "Name": "Record Breaker",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 17865
+      "UsersEstimate": 17909
     },
     {
       "ID": "achievement_21",
@@ -13603,7 +13608,7 @@
       "Name": "We\u0027re in the Game!",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 119103
+      "UsersEstimate": 119396
     },
     {
       "ID": "achievement_22",
@@ -13611,7 +13616,7 @@
       "Name": "Level Up!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 39701
+      "UsersEstimate": 39799
     },
     {
       "ID": "achievement_23",
@@ -13619,7 +13624,7 @@
       "Name": "Graduation Day",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 35731
+      "UsersEstimate": 35819
     },
     {
       "ID": "achievement_24",
@@ -13627,7 +13632,7 @@
       "Name": "End of the Line",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 11910
+      "UsersEstimate": 11940
     },
     {
       "ID": "achievement_25",
@@ -13643,7 +13648,7 @@
       "Name": "We\u0027re Going Up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7940
+      "UsersEstimate": 7960
     },
     {
       "ID": "achievement_27",
@@ -13651,7 +13656,7 @@
       "Name": "Top of the Pyramid",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "achievement_28",
@@ -13659,7 +13664,7 @@
       "Name": "First of Many",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 11910
+      "UsersEstimate": 11940
     },
     {
       "ID": "achievement_29",
@@ -13667,7 +13672,7 @@
       "Name": "Walk the Walk",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 15880
+      "UsersEstimate": 15920
     },
     {
       "ID": "achievement_3",
@@ -13683,7 +13688,7 @@
       "Name": "Make the Grade",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 17865
+      "UsersEstimate": 17909
     },
     {
       "ID": "achievement_31",
@@ -13691,7 +13696,7 @@
       "Name": "Dazzling Personality",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 71462
+      "UsersEstimate": 71638
     },
     {
       "ID": "achievement_32",
@@ -13699,7 +13704,7 @@
       "Name": "Precious Advice",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1985
+      "UsersEstimate": 1990
     },
     {
       "ID": "achievement_33",
@@ -13707,7 +13712,7 @@
       "Name": "Winning in Style",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 794
+      "UsersEstimate": 796
     },
     {
       "ID": "achievement_34",
@@ -13715,7 +13720,7 @@
       "Name": "Fashion Icon",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7940
+      "UsersEstimate": 7960
     },
     {
       "ID": "achievement_35",
@@ -13723,7 +13728,7 @@
       "Name": "Golden Generation",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 21836
+      "UsersEstimate": 21889
     },
     {
       "ID": "achievement_36",
@@ -13731,7 +13736,7 @@
       "Name": "An ace up your sleeve",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 13895
+      "UsersEstimate": 13930
     },
     {
       "ID": "achievement_37",
@@ -13739,7 +13744,7 @@
       "Name": "Do Your Homework",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7940
+      "UsersEstimate": 7960
     },
     {
       "ID": "achievement_38",
@@ -13747,7 +13752,7 @@
       "Name": "European Legend",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 25806
+      "UsersEstimate": 25869
     },
     {
       "ID": "achievement_39",
@@ -13755,7 +13760,7 @@
       "Name": "Best of Five",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 9925
+      "UsersEstimate": 9950
     },
     {
       "ID": "achievement_4",
@@ -13763,7 +13768,7 @@
       "Name": "Shop till you drop",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3970
+      "UsersEstimate": 3980
     },
     {
       "ID": "achievement_40",
@@ -13771,7 +13776,7 @@
       "Name": "Football is Everything",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 794
+      "UsersEstimate": 796
     },
     {
       "ID": "achievement_5",
@@ -13779,7 +13784,7 @@
       "Name": "On the way up",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 7940
+      "UsersEstimate": 7960
     },
     {
       "ID": "achievement_6",
@@ -13787,7 +13792,7 @@
       "Name": "Dead-ball specialist",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 65507
+      "UsersEstimate": 65668
     },
     {
       "ID": "achievement_7",
@@ -13795,7 +13800,7 @@
       "Name": "Intuition and Execution",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 35731
+      "UsersEstimate": 35819
     },
     {
       "ID": "achievement_8",
@@ -13803,7 +13808,7 @@
       "Name": "Power Shot",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 99252
+      "UsersEstimate": 99497
     },
     {
       "ID": "achievement_9",
@@ -13811,14 +13816,14 @@
       "Name": "Bring it on",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 25806
+      "UsersEstimate": 25869
     }
   ],
   "AchievementSets": [
     {
       "ID": "3o4m6ni",
       "IsBase": true,
-      "Progressed": 198505,
+      "Progressed": 198994,
       "Completed": 0
     }
   ],
@@ -13826,8 +13831,8 @@
   "FirstSeenRating": "2023-09-29T21:57:05.663964+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
   "LastChanged": "2023-12-21T22:57:07.7766201+00:00",
-  "LastChanged_Achievements": "2023-12-21T23:07:56.9395133+00:00",
+  "LastChanged_Achievements": "2023-12-22T00:06:47.3610205+00:00",
   "LastUpdate_AppInfo": "2023-12-15T07:57:05.6549649+00:00",
-  "LastUpdate_Ratings": "2023-12-21T22:57:07.7766207+00:00",
-  "LastUpdate_Achievements": "2023-12-21T23:07:56.9395831+00:00"
+  "LastUpdate_Ratings": "2023-12-21T23:57:05.0924223+00:00",
+  "LastUpdate_Achievements": "2023-12-22T00:06:47.3610941+00:00"
 }

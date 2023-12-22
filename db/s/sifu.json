@@ -8311,10 +8311,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 11797,
       "NumberOfAwardsMax": 6978
+    },
+    {
+      "Time": "2023-12-22T00:03:00.6884677+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 11798,
+      "NumberOfAwardsMax": 6978
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11797,
+  "NumberOfAwards": 11798,
   "NumberOfAwardsMax": 6978,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8346,7 +8352,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 594
+      "Count": 595
     },
     {
       "Text": "This game has Diverse Characters",
@@ -8391,9 +8397,9 @@
       "Count": 434
     }
   ],
-  "EOS_Progressed": 738913,
+  "EOS_Progressed": 738938,
   "EOS_Completed": 12958,
-  "EOS_NewPlayers": 16480,
+  "EOS_NewPlayers": 16470,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.75,
   "EosHistory": [
@@ -30336,6 +30342,11 @@
       "Time": "2023-12-21T23:09:09.8538803+00:00",
       "NumProgressed": 738913,
       "NumCompleted": 12958
+    },
+    {
+      "Time": "2023-12-22T00:08:37.3703214+00:00",
+      "NumProgressed": 738938,
+      "NumCompleted": 12958
     }
   ],
   "TotalAchievements": 60,
@@ -30347,7 +30358,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22167
+      "UsersEstimate": 22168
     },
     {
       "ID": "02_Vengeance_H1",
@@ -30355,7 +30366,7 @@
       "Name": "The Assault",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14778
+      "UsersEstimate": 14779
     },
     {
       "ID": "03_Vengeance_H2",
@@ -30363,7 +30374,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14778
+      "UsersEstimate": 14779
     },
     {
       "ID": "04_Vengeance_H3",
@@ -30435,7 +30446,7 @@
       "Name": "Scareless",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5172
+      "UsersEstimate": 5173
     },
     {
       "ID": "13_LowAge",
@@ -30507,7 +30518,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 5172
+      "UsersEstimate": 5173
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -30523,7 +30534,7 @@
       "Name": "Life is your teacher",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22167
+      "UsersEstimate": 22168
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -30531,7 +30542,7 @@
       "Name": "State of constant learning",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14778
+      "UsersEstimate": 14779
     },
     {
       "ID": "25_ShrineMind",
@@ -30539,7 +30550,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5911
+      "UsersEstimate": 5912
     },
     {
       "ID": "26_ShrineSpirit",
@@ -30555,7 +30566,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14778
+      "UsersEstimate": 14779
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -30595,7 +30606,7 @@
       "Name": "Old Child",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14778
+      "UsersEstimate": 14779
     },
     {
       "ID": "33_BladeOneShot",
@@ -30611,7 +30622,7 @@
       "Name": "Lightning Hands",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22167
+      "UsersEstimate": 22168
     },
     {
       "ID": "35_WideStrike",
@@ -30619,7 +30630,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5172
+      "UsersEstimate": 5173
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -30811,7 +30822,7 @@
       "Name": "Fight the way you practice",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "60_Arena_Randomizer",
@@ -30826,21 +30837,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 48214,
+      "Progressed": 48239,
       "Completed": 10779
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 738913,
+      "Progressed": 738938,
       "Completed": 12958
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-12-21T19:02:55.9700945+00:00",
-  "LastChanged_Achievements": "2023-12-21T23:09:09.8538799+00:00",
+  "LastChanged": "2023-12-22T00:03:00.6884675+00:00",
+  "LastChanged_Achievements": "2023-12-22T00:08:37.370321+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:50.1499922+00:00",
-  "LastUpdate_Ratings": "2023-12-21T23:03:21.0156661+00:00",
-  "LastUpdate_Achievements": "2023-12-21T23:09:09.8540251+00:00"
+  "LastUpdate_Ratings": "2023-12-22T00:03:00.6884681+00:00",
+  "LastUpdate_Achievements": "2023-12-22T00:08:37.3704362+00:00"
 }

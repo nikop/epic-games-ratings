@@ -4,11 +4,11 @@
   "ProductSlug": "hand-of-fate-2",
   "Ranking_Rating": 510,
   "Ranking_Popularity": 482,
-  "Ranking_PopularitySum": 413,
+  "Ranking_PopularitySum": 414,
   "Ranking_EOS_Progress": 30,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -943,7 +943,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 666086,
+  "EOS_Progressed": 666087,
   "EOS_Completed": 174,
   "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 1,
@@ -24143,6 +24143,11 @@
       "Time": "2023-12-21T22:09:42.7104248+00:00",
       "NumProgressed": 666086,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2023-12-22T00:08:53.523893+00:00",
+      "NumProgressed": 666087,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 48,
@@ -24154,7 +24159,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 479582
+      "UsersEstimate": 479583
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -24537,15 +24542,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 666086,
+      "Progressed": 666087,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-11-24T17:58:48.2867936+00:00",
-  "LastChanged_Achievements": "2023-12-21T23:09:28.1960187+00:00",
+  "LastChanged_Achievements": "2023-12-22T00:08:53.5238927+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:46.8226063+00:00",
-  "LastUpdate_Ratings": "2023-12-21T23:00:47.0263531+00:00",
-  "LastUpdate_Achievements": "2023-12-21T23:09:28.1961548+00:00"
+  "LastUpdate_Ratings": "2023-12-21T23:59:57.6516303+00:00",
+  "LastUpdate_Achievements": "2023-12-22T00:08:53.5240039+00:00"
 }

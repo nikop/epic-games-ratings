@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -570,7 +570,7 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17248,
+  "EOS_Progressed": 17249,
   "EOS_Completed": 119,
   "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 0,
@@ -16675,6 +16675,11 @@
       "Time": "2023-12-21T23:06:19.376935+00:00",
       "NumProgressed": 17248,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-12-22T00:05:25.7164983+00:00",
+      "NumProgressed": 17249,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 41,
@@ -16950,7 +16955,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6899
+      "UsersEstimate": 6900
     },
     {
       "ID": "tpote_achievement_40",
@@ -17006,22 +17011,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5864
+      "UsersEstimate": 5865
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17248,
+      "Progressed": 17249,
       "Completed": 119
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2023-12-21T23:06:19.3769346+00:00",
+  "LastChanged_Achievements": "2023-12-22T00:05:25.7164979+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:13.9933566+00:00",
-  "LastUpdate_Ratings": "2023-12-21T23:00:59.924745+00:00",
-  "LastUpdate_Achievements": "2023-12-21T23:06:19.3770365+00:00"
+  "LastUpdate_Ratings": "2023-12-22T00:00:08.3050057+00:00",
+  "LastUpdate_Achievements": "2023-12-22T00:05:25.7165946+00:00"
 }

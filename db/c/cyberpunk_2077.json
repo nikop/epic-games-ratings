@@ -16908,10 +16908,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 435336,
       "NumberOfAwardsMax": 125917
+    },
+    {
+      "Time": "2023-12-22T00:03:05.084346+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 435455,
+      "NumberOfAwardsMax": 125917
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 435336,
+  "NumberOfAwards": 435455,
   "NumberOfAwardsMax": 125917,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -16979,7 +16985,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 24589
+      "Count": 24708
     },
     {
       "Text": "This game has a Creative Community",
@@ -16988,10 +16994,10 @@
       "Count": 16443
     }
   ],
-  "EOS_Progressed": 979668,
-  "EOS_Completed": 2950,
-  "EOS_NewPlayers": 3611,
-  "EOS_NewCompleters": 43,
+  "EOS_Progressed": 979680,
+  "EOS_Completed": 2951,
+  "EOS_NewPlayers": 3610,
+  "EOS_NewCompleters": 44,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -44983,6 +44989,11 @@
       "Time": "2023-12-21T23:08:04.2924011+00:00",
       "NumProgressed": 979668,
       "NumCompleted": 2950
+    },
+    {
+      "Time": "2023-12-22T00:06:53.3394224+00:00",
+      "NumProgressed": 979680,
+      "NumCompleted": 2951
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -45011,7 +45022,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19593
+      "UsersEstimate": 19594
     },
     {
       "ID": "Cyberjunkie",
@@ -45019,7 +45030,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 48983
+      "UsersEstimate": 48984
     },
     {
       "ID": "Denied",
@@ -45027,7 +45038,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 58780
+      "UsersEstimate": 58781
     },
     {
       "ID": "FollowingTheRiver",
@@ -45035,7 +45046,7 @@
       "Name": "To Protect and Serve",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19593
+      "UsersEstimate": 19594
     },
     {
       "ID": "Fortuneteller",
@@ -45067,7 +45078,7 @@
       "Name": "Gun Fu",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 78373
+      "UsersEstimate": 78374
     },
     {
       "ID": "Gunslinger",
@@ -45083,7 +45094,7 @@
       "Name": "Master Crafter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19593
+      "UsersEstimate": 19594
     },
     {
       "ID": "IAmMaxTac",
@@ -45091,7 +45102,7 @@
       "Name": "I Am The Law",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 19593
+      "UsersEstimate": 19594
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -45211,7 +45222,7 @@
       "Name": "The Fool",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 68577
+      "UsersEstimate": 68578
     },
     {
       "ID": "TheHermit",
@@ -45235,7 +45246,7 @@
       "Name": "The Lovers",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 48983
+      "UsersEstimate": 48984
     },
     {
       "ID": "TheStar",
@@ -45267,7 +45278,7 @@
       "Name": "The World",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 19593
+      "UsersEstimate": 19594
     },
     {
       "ID": "ThisIsPacifica",
@@ -45307,7 +45318,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19593
+      "UsersEstimate": 19594
     },
     {
       "ID": "UnderPressure",
@@ -45315,7 +45326,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19593
+      "UsersEstimate": 19594
     },
     {
       "ID": "VForVendetta",
@@ -45323,7 +45334,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 117560
+      "UsersEstimate": 117562
     },
     {
       "ID": "YipMan",
@@ -45483,7 +45494,7 @@
       "Name": "King of Pentacles",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "KingOfTheSwords",
@@ -45530,21 +45541,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 979668,
-      "Completed": 2950
+      "Progressed": 979680,
+      "Completed": 2951
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 108291,
+      "Progressed": 108303,
       "Completed": 10431
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-12-21T21:03:05.8070283+00:00",
-  "LastChanged_Achievements": "2023-12-21T23:08:04.2924009+00:00",
+  "LastChanged": "2023-12-22T00:03:05.0843458+00:00",
+  "LastChanged_Achievements": "2023-12-22T00:06:53.3394221+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:11.4044836+00:00",
-  "LastUpdate_Ratings": "2023-12-21T23:03:26.6311327+00:00",
-  "LastUpdate_Achievements": "2023-12-21T23:08:04.292564+00:00"
+  "LastUpdate_Ratings": "2023-12-22T00:03:05.0843463+00:00",
+  "LastUpdate_Achievements": "2023-12-22T00:06:53.3395589+00:00"
 }

@@ -1884,9 +1884,9 @@
       "ID": "ACH_COLLECT_100_ELECTROSCRAP",
       "SetID": "7c4cldc",
       "Name": "Electro-Scrap Master",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 125
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_COLLECT_100_SCRAP",
@@ -2117,8 +2117,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2023-12-21T23:09:34.6608733+00:00",
+  "LastChanged_Achievements": "2023-12-22T00:08:58.8954263+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.762988+00:00",
-  "LastUpdate_Ratings": "2023-12-21T23:00:18.0640106+00:00",
-  "LastUpdate_Achievements": "2023-12-21T23:09:34.6609026+00:00"
+  "LastUpdate_Ratings": "2023-12-21T23:59:35.2578909+00:00",
+  "LastUpdate_Achievements": "2023-12-22T00:08:58.8954505+00:00"
 }

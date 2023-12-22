@@ -5,22 +5,22 @@ Rating: 4.75 (Ranked 149)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 88.00% | ~12,963 |
-| I Challenge You To Save More Money! | 81.00% | ~11,932 |
-| I Love How Tough You Are | 66.00% | ~9,722 |
-| Wanna Come To My Place For Dinner? | 59.00% | ~8,691 |
+| Last Night...Did We... | 88.00% | ~12,964 |
+| I Challenge You To Save More Money! | 81.00% | ~11,933 |
+| I Love How Tough You Are | 66.00% | ~9,723 |
+| Wanna Come To My Place For Dinner? | 59.00% | ~8,692 |
 | What I Want Is You | 54.00% | ~7,955 |
 | To Be Or Not To Be | 51.00% | ~7,513 |
 | Are You Alright? | 47.00% | ~6,924 |
 | Love Actually | 42.00% | ~6,187 |
-| Drama King | 37.00% | ~5,450 |
-| Go Clean up In Your Own Way | 34.00% | ~5,009 |
-| You're Really Something Else | 33.00% | ~4,861 |
+| Drama King | 37.00% | ~5,451 |
+| Go Clean up In Your Own Way | 33.00% | ~4,862 |
+| You're Really Something Else | 33.00% | ~4,862 |
 | Drama CP: Reel to Real | 32.00% | ~4,714 |
 | FIRST LOVE | 31.00% | ~4,567 |
 | Worthless Speech | 31.00% | ~4,567 |
-| Happy Family | 30.00% | ~4,419 |
-| ONE PUNCH | 30.00% | ~4,419 |
+| Happy Family | 30.00% | ~4,420 |
+| ONE PUNCH | 30.00% | ~4,420 |
 | Absolutely Elegant | 29.00% | ~4,272 |
 | Still Single | 28.00% | ~4,125 |
 | Days Of Innocence | 26.00% | ~3,830 |
@@ -36,11 +36,11 @@ Rating: 4.75 (Ranked 149)
 | Love You Three Thousand | 14.00% | ~2,062 |
 | Can You Do This Or Not? | 14.00% | ~2,062 |
 | Doesn't Matter I'll Handle It | 12.00% | ~1,768 |
-| The Flash | 11.00% | ~1,620 |
+| The Flash | 11.00% | ~1,621 |
 | New Yoga Pose Unlocked | 10.00% | ~1,473 |
-| My Dear Love! | 8.00% | ~1,178 |
-| Counting Sheep? | 8.00% | ~1,178 |
-| This Ain't Right In Many Ways... | 8.00% | ~1,178 |
+| My Dear Love! | 8.00% | ~1,179 |
+| Counting Sheep? | 8.00% | ~1,179 |
+| This Ain't Right In Many Ways... | 8.00% | ~1,179 |
 | Life Is A Rollercoaster | 7.00% | ~1,031 |
 | Boys Need To Protect Themselves | 7.00% | ~1,031 |
 | Stubborn Noob | 7.00% | ~1,031 |
@@ -48,7 +48,7 @@ Rating: 4.75 (Ranked 149)
 | Tall; Grande; Venti | 2.00% | ~295 |
 | Limerence | 2.00% | ~295 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,731 (Ranked 164)  
+Progressed: 14,732 (Ranked 164)  
 Completed: 238 (1.62%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,6 +124,7 @@ Completed: 238 (1.62%) (Ranked 142)
 | 2023-12-19 | 14,207 | 233 |
 | 2023-12-20 | 14,479 | 236 |
 | 2023-12-21 | 14,731 | 238 |
+| 2023-12-22 | 14,732 | 238 |
 ## Awards
 Max (Impact the Story): 28  (Ranked 518)  
 Sum: 28 (Ranked 532)  

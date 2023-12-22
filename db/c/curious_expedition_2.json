@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 321,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
     "PcReleaseDate": "2021-01-28T00:00:00+00:00",
@@ -70,9 +70,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 370,
+  "EOS_Progressed": 371,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -465,6 +465,11 @@
       "Time": "2023-12-21T14:09:56.2542879+00:00",
       "NumProgressed": 370,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-22T00:09:56.8556419+00:00",
+      "NumProgressed": 371,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -508,15 +513,15 @@
       "Name": "A Paris Sunset",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ach-ascension-complete-year",
       "SetID": "17ih7ma",
       "Name": "The New Director",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 48
     },
     {
       "ID": "ach-ascension-complete-years",
@@ -524,7 +529,7 @@
       "Name": "The Director Perseveres",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ach-ascension-die",
@@ -572,7 +577,7 @@
       "Name": "Traveller",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ach-campaign-finish-hard",
@@ -612,7 +617,7 @@
       "Name": "A Strange Artefact",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ach-campaign-story2",
@@ -620,7 +625,7 @@
       "Name": "Lost \u0026 Found \u0026 Lost Again",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ach-campaign-story3",
@@ -738,9 +743,9 @@
       "ID": "ach-kill-animal-groups",
       "SetID": "17ih7ma",
       "Name": "Taxonomist",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 100
     },
     {
       "ID": "ach-kill-hyenas",
@@ -780,7 +785,7 @@
       "Name": "The Round Table",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ach-maxClubLevel-chinese",
@@ -796,7 +801,7 @@
       "Name": "Veteran Explorer",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ach-meetGhost",
@@ -820,7 +825,7 @@
       "Name": "Insomnia",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ach-pacifist-goals",
@@ -852,7 +857,7 @@
       "Name": "From Whence we Came",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ach-promotion",
@@ -892,7 +897,7 @@
       "Name": "Plunderer",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ach-salamanderPrince",
@@ -932,7 +937,7 @@
       "Name": "Very Classy",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ach-villageQuests",
@@ -955,7 +960,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 370,
+      "Progressed": 371,
       "Completed": 1
     }
   ],
@@ -963,8 +968,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-12-21T23:10:43.5272275+00:00",
+  "LastChanged_Achievements": "2023-12-22T00:09:56.8556416+00:00",
   "LastUpdate_AppInfo": "2023-12-16T13:57:07.0437312+00:00",
-  "LastUpdate_Ratings": "2023-12-21T22:01:40.6000778+00:00",
-  "LastUpdate_Achievements": "2023-12-21T23:10:43.5272671+00:00"
+  "LastUpdate_Ratings": "2023-12-21T23:57:04.0308485+00:00",
+  "LastUpdate_Achievements": "2023-12-22T00:09:56.8556807+00:00"
 }

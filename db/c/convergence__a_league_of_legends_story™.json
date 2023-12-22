@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -3263,9 +3263,9 @@
       "ID": "ScrambotCompletion1",
       "SetID": "a9e499d",
       "Name": "Golem Hunter",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 63
+      "UsersEstimate": 74
     },
     {
       "ID": "ScrambotProgress1",
@@ -3392,8 +3392,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-18T08:57:59.1291337+00:00",
-  "LastChanged_Achievements": "2023-12-21T23:10:29.9876431+00:00",
+  "LastChanged_Achievements": "2023-12-22T00:09:45.2165297+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.1550939+00:00",
-  "LastUpdate_Ratings": "2023-12-21T23:01:00.6540222+00:00",
-  "LastUpdate_Achievements": "2023-12-21T23:10:29.9876968+00:00"
+  "LastUpdate_Ratings": "2023-12-22T00:00:08.7740243+00:00",
+  "LastUpdate_Achievements": "2023-12-22T00:09:45.2165711+00:00"
 }

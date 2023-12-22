@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -251,9 +251,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44423,
+  "EOS_Progressed": 44424,
   "EOS_Completed": 247,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -19361,6 +19361,11 @@
       "Time": "2023-12-21T21:06:12.3250001+00:00",
       "NumProgressed": 44423,
       "NumCompleted": 247
+    },
+    {
+      "Time": "2023-12-22T00:06:35.4306745+00:00",
+      "NumProgressed": 44424,
+      "NumCompleted": 247
     }
   ],
   "TotalAchievements": 44,
@@ -19372,7 +19377,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25321
+      "UsersEstimate": 25322
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -19492,7 +19497,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 35538
+      "UsersEstimate": 35539
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -19548,7 +19553,7 @@
       "Name": "Soul Reaver",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 10217
+      "UsersEstimate": 10218
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -19604,7 +19609,7 @@
       "Name": "Engraved with Power",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 14215
+      "UsersEstimate": 14216
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -19612,7 +19617,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 27986
+      "UsersEstimate": 27987
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -19644,7 +19649,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 29763
+      "UsersEstimate": 29764
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -19676,7 +19681,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19990
+      "UsersEstimate": 19991
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -19708,7 +19713,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 41313
+      "UsersEstimate": 41314
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -19723,7 +19728,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 44423,
+      "Progressed": 44424,
       "Completed": 247
     }
   ],
@@ -19731,8 +19736,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-17T19:02:52.186594+00:00",
-  "LastChanged_Achievements": "2023-12-21T23:07:42.5556707+00:00",
+  "LastChanged_Achievements": "2023-12-22T00:06:35.4306742+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:54.9639492+00:00",
-  "LastUpdate_Ratings": "2023-12-21T23:03:31.3736039+00:00",
-  "LastUpdate_Achievements": "2023-12-21T23:07:42.5557839+00:00"
+  "LastUpdate_Ratings": "2023-12-22T00:03:08.8323714+00:00",
+  "LastUpdate_Achievements": "2023-12-22T00:06:35.4307808+00:00"
 }

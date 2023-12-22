@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58357,
+  "EOS_Progressed": 58358,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14486,6 +14486,11 @@
       "Time": "2023-12-21T22:05:22.8558754+00:00",
       "NumProgressed": 58357,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-22T00:04:42.7056595+00:00",
+      "NumProgressed": 58358,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -14785,7 +14790,7 @@
       "Name": "Cleaning Out Santa\u0027s Sack",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "SecretLevel",
@@ -14817,7 +14822,7 @@
       "Name": "Teamwork Rules",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "TheWorstPossibleLuck",
@@ -14888,7 +14893,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58357,
+      "Progressed": 58358,
       "Completed": 6
     }
   ],
@@ -14896,8 +14901,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-12-21T23:05:27.8308708+00:00",
+  "LastChanged_Achievements": "2023-12-22T00:04:42.7056591+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:49.0606835+00:00",
-  "LastUpdate_Ratings": "2023-12-21T23:03:00.2982145+00:00",
-  "LastUpdate_Achievements": "2023-12-21T23:05:27.8309501+00:00"
+  "LastUpdate_Ratings": "2023-12-22T00:02:44.6953663+00:00",
+  "LastUpdate_Achievements": "2023-12-22T00:04:42.7057366+00:00"
 }

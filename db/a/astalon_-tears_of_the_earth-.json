@@ -3,9 +3,9 @@
   "Name": "Astalon -Tears of the Earth-",
   "ProductSlug": "astalon-tears-of-the-earth-1b2279",
   "Ranking_EOS_Progress": 501,
-  "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 491,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 89,
+  "Ranking_EOS_NewPlayers": 469,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-04-01T00:00:00+00:00",
     "PcReleaseDate": "2022-04-01T00:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 72,
+  "EOS_Progressed": 73,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.17,
+  "EOS_Completed_Percentage": 4.11,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:01.3708206+00:00",
@@ -144,6 +144,11 @@
       "Time": "2023-12-20T21:05:11.0760495+00:00",
       "NumProgressed": 72,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-22T00:05:49.6718297+00:00",
+      "NumProgressed": 73,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 30,
@@ -161,7 +166,7 @@
       "ID": "Beat_Game",
       "SetID": "4f0g260",
       "Name": "Vanquisher!",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 30,
       "UsersEstimate": 22
     },
@@ -225,7 +230,7 @@
       "ID": "Buy_All_Kyuli_Character_Deals",
       "SetID": "4f0g260",
       "Name": "Rogue Mastery",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
       "UsersEstimate": 12
     },
@@ -241,7 +246,7 @@
       "ID": "Collect_10000_Orbs",
       "SetID": "4f0g260",
       "Name": "Orb Gatherer",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
       "UsersEstimate": 25
     },
@@ -249,7 +254,7 @@
       "ID": "Collect_50000_Orbs",
       "SetID": "4f0g260",
       "Name": "Orb Collector",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
       "UsersEstimate": 22
     },
@@ -265,7 +270,7 @@
       "ID": "Complete_Bestiary_20",
       "SetID": "4f0g260",
       "Name": "Beast Quest",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
       "UsersEstimate": 25
     },
@@ -289,7 +294,7 @@
       "ID": "Defeat_1000_Enemies",
       "SetID": "4f0g260",
       "Name": "Monster Hunt",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
       "UsersEstimate": 25
     },
@@ -305,7 +310,7 @@
       "ID": "Defeat_Gemini",
       "SetID": "4f0g260",
       "Name": "Twin slayer!",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
       "UsersEstimate": 22
     },
@@ -313,7 +318,7 @@
       "ID": "Defeat_Medusa",
       "SetID": "4f0g260",
       "Name": "Snakehead!",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
       "UsersEstimate": 22
     },
@@ -321,7 +326,7 @@
       "ID": "Defeat_Solaria",
       "SetID": "4f0g260",
       "Name": "Unmasked!",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
       "UsersEstimate": 22
     },
@@ -329,7 +334,7 @@
       "ID": "Defeat_Tauros",
       "SetID": "4f0g260",
       "Name": "Horn prize!",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 15,
       "UsersEstimate": 35
     },
@@ -337,7 +342,7 @@
       "ID": "Defeat_Volantis",
       "SetID": "4f0g260",
       "Name": "Space worm!",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
       "UsersEstimate": 25
     },
@@ -345,9 +350,9 @@
       "ID": "Find_Secret_Ending1",
       "SetID": "4f0g260",
       "Name": "Fly, you fool!",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Get_100_Item_Completion",
@@ -377,7 +382,7 @@
       "ID": "Unlock_Bram",
       "SetID": "4f0g260",
       "Name": "Mercenary!",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
       "UsersEstimate": 22
     },
@@ -394,7 +399,7 @@
     {
       "ID": "4f0g260",
       "IsBase": true,
-      "Progressed": 72,
+      "Progressed": 73,
       "Completed": 3
     }
   ],
@@ -402,8 +407,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00",
   "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
-  "LastChanged_Achievements": "2023-12-21T23:06:47.4139028+00:00",
+  "LastChanged_Achievements": "2023-12-22T00:05:49.6718294+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:25.0046132+00:00",
-  "LastUpdate_Ratings": "2023-12-21T23:02:38.9483557+00:00",
-  "LastUpdate_Achievements": "2023-12-21T23:06:47.413938+00:00"
+  "LastUpdate_Ratings": "2023-12-22T00:00:48.2285355+00:00",
+  "LastUpdate_Achievements": "2023-12-22T00:05:49.6718475+00:00"
 }

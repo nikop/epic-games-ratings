@@ -8,23 +8,23 @@ Number of Ratings: 20  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Adventure Begins | 64.00% | ~237 |
 | Cartographer | 57.00% | ~211 |
-| A Strange Artefact | 52.00% | ~192 |
-| Insomnia | 49.00% | ~181 |
-| Lost & Found & Lost Again | 43.00% | ~159 |
-| From Whence we Came | 42.00% | ~155 |
+| A Strange Artefact | 52.00% | ~193 |
+| Insomnia | 49.00% | ~182 |
+| Lost & Found & Lost Again | 43.00% | ~160 |
+| From Whence we Came | 42.00% | ~156 |
 | Fire and Flood | 41.00% | ~152 |
 | Spooky! | 37.00% | ~137 |
 | Shennong Herbalist | 34.00% | ~126 |
 | Treasure Hunt | 34.00% | ~126 |
 | Good Mama | 33.00% | ~122 |
 | O Captain My Captain | 31.00% | ~115 |
-| Plunderer | 29.00% | ~107 |
-| Taxonomist | 28.00% | ~104 |
+| Plunderer | 29.00% | ~108 |
+| Taxonomist | 27.00% | ~100 |
 | Uncertain Loyalties | 26.00% | ~96 |
-| Traveller | 25.00% | ~92 |
+| Traveller | 25.00% | ~93 |
 | Nahua Seeker | 24.00% | ~89 |
 | Roll to Save | 23.00% | ~85 |
-| Veteran Explorer | 22.00% | ~81 |
+| Veteran Explorer | 22.00% | ~82 |
 | Red Flag Pirate | 19.00% | ~70 |
 | Iron Man | 17.00% | ~63 |
 | A Gentle Beast | 17.00% | ~63 |
@@ -33,12 +33,12 @@ Number of Ratings: 20  (23.09.2022)
 | Practical Palaeontology | 16.00% | ~59 |
 | Adventurer | 15.00% | ~56 |
 | Dapper | 15.00% | ~56 |
-| The New Director | 14.00% | ~52 |
 | Plays Well With Others | 14.00% | ~52 |
+| The New Director | 13.00% | ~48 |
 | The Director is Dead | 13.00% | ~48 |
 | And Here Is Your Statue | 13.00% | ~48 |
 | Discovery | 13.00% | ~48 |
-| Very Classy | 12.00% | ~44 |
+| Very Classy | 12.00% | ~45 |
 | Under the Table | 11.00% | ~41 |
 | It's Complicated | 11.00% | ~41 |
 | Cold Blood, Warm Heart | 9.00% | ~33 |
@@ -50,9 +50,9 @@ Number of Ratings: 20  (23.09.2022)
 | Zookeeper | 7.00% | ~26 |
 | The Workshop | 7.00% | ~26 |
 | Islander Understanding | 6.00% | ~22 |
-| A Paris Sunset | 5.00% | ~18 |
-| The Director Perseveres | 5.00% | ~18 |
-| The Round Table | 5.00% | ~18 |
+| A Paris Sunset | 5.00% | ~19 |
+| The Director Perseveres | 5.00% | ~19 |
+| The Round Table | 5.00% | ~19 |
 | X Marks the Spot | 4.00% | ~15 |
 | Risk/Reward | 4.00% | ~15 |
 | Frugal | 4.00% | ~15 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.80% | ~3 |
 | Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 370 (Ranked 354)  
+Progressed: 371 (Ranked 354)  
 Completed: 1 (0.27%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,6 +127,7 @@ Completed: 1 (0.27%) (Ranked 254)
 | 2023-12-19 | 364 | 1 |
 | 2023-12-20 | 365 | 1 |
 | 2023-12-21 | 370 | 1 |
+| 2023-12-22 | 371 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -5,34 +5,34 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Something important | 81.00% | ~142 |
-| A piece of the story | 57.00% | ~100 |
+| A piece of the story | 58.00% | ~102 |
 | Wanderer | 57.00% | ~100 |
-| It's covered up for a reason | 46.00% | ~80 |
-| Scraps of love | 43.00% | ~75 |
+| It's covered up for a reason | 47.00% | ~82 |
+| Scraps of love | 44.00% | ~77 |
+| The artist’s impression | 43.00% | ~75 |
 | Do what you have to | 42.00% | ~74 |
-| The artist’s impression | 42.00% | ~74 |
 | Sign of weakness | 37.00% | ~65 |
 | Refuse to look | 33.00% | ~58 |
 | Face your fears | 27.00% | ~47 |
-| Finished it | 26.00% | ~46 |
+| Finished it | 27.00% | ~47 |
 | Whispers long forgotten | 14.00% | ~25 |
+| Debut | 11.00% | ~19 |
+| The art of movement | 11.00% | ~19 |
 | A Slice of Life | 10.00% | ~18 |
-| Debut | 10.00% | ~18 |
 | Sound Bite | 10.00% | ~18 |
 | Playtime | 10.00% | ~18 |
-| The art of movement | 10.00% | ~18 |
 | Tough conversation | 10.00% | ~18 |
+| Another perspective | 9.00% | ~16 |
+| Lights! Camera! Action! | 9.00% | ~16 |
 | The tragedy unfolds | 9.00% | ~16 |
 | A new way | 8.00% | ~14 |
-| Another perspective | 8.00% | ~14 |
 | First steps | 8.00% | ~14 |
-| Lights! Camera! Action! | 8.00% | ~14 |
 | Breaking free | 7.00% | ~12 |
 | True Reflection | 7.00% | ~12 |
 | Casting Finished | 6.00% | ~10 |
 | Heavy Burden | 6.00% | ~10 |
+| Fisherman | 6.00% | ~10 |
 | Instinct of self-preservation | 5.00% | ~9 |
-| Fisherman | 5.00% | ~9 |
 | We Are Not Alone | 4.00% | ~7 |
 | The Perfect Storm | 3.00% | ~5 |
 | Something to think about | 2.00% | ~4 |

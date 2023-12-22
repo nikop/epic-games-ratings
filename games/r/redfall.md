@@ -19,9 +19,9 @@ Rating: 3.56 (Ranked 1,064)
 | Enter of Your Own Free Will | 4.00% | ~79 |
 | Welcome to the Neighborhood | 4.00% | ~79 |
 | Heart Attack | 4.00% | ~79 |
+| Skin of Their Teeth | 4.00% | ~79 |
 | Bad Wiring | 3.00% | ~59 |
 | Grounded | 3.00% | ~59 |
-| Skin of Their Teeth | 3.00% | ~59 |
 | Neighborhood Revitalization | 2.00% | ~40 |
 | Radio Silence | 2.00% | ~40 |
 | Starve the Beast | 2.00% | ~40 |
@@ -35,10 +35,10 @@ Rating: 3.56 (Ranked 1,064)
 | You Clean It Up | 1.00% | ~20 |
 | From the Shadows | 1.00% | ~20 |
 | Harvest’s End | 1.00% | ~20 |
+| Revelations | 0.90% | ~18 |
 | Check, Please! | 0.90% | ~18 |
 | Nice Try | 0.90% | ~18 |
 | Blacklight Down | 0.90% | ~18 |
-| Revelations | 0.80% | ~16 |
 | Block Party | 0.80% | ~16 |
 | Curious Finch | 0.80% | ~16 |
 | Bloody Initiate | 0.50% | ~10 |

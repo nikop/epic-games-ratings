@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -1026,7 +1026,7 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 230014,
+  "EOS_Progressed": 230016,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 627,
   "EOS_NewCompleters": 0,
@@ -27901,6 +27901,11 @@
       "Time": "2023-12-21T23:10:35.2642392+00:00",
       "NumProgressed": 230014,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-22T00:09:49.4983438+00:00",
+      "NumProgressed": 230016,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -27960,7 +27965,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23001
+      "UsersEstimate": 23002
     },
     {
       "ID": "ACH_BASE_17",
@@ -27976,7 +27981,7 @@
       "Name": "Radium Ready",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23001
+      "UsersEstimate": 23002
     },
     {
       "ID": "ACH_BASE_19",
@@ -28183,7 +28188,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 230014,
+      "Progressed": 230016,
       "Completed": 5
     }
   ],
@@ -28191,8 +28196,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-12-18T15:00:10.8258154+00:00",
-  "LastChanged_Achievements": "2023-12-21T23:10:35.2642389+00:00",
+  "LastChanged_Achievements": "2023-12-22T00:09:49.4983435+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:11.0870994+00:00",
-  "LastUpdate_Ratings": "2023-12-21T22:59:01.6866786+00:00",
-  "LastUpdate_Achievements": "2023-12-21T23:10:35.2644102+00:00"
+  "LastUpdate_Ratings": "2023-12-21T23:58:34.6261163+00:00",
+  "LastUpdate_Achievements": "2023-12-22T00:09:49.4984629+00:00"
 }

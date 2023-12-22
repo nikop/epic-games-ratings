@@ -2,9 +2,9 @@
   "ID": "2c3af4f6ffce46e78bac85bcbe7bc11f",
   "Name": "Recollection",
   "ProductSlug": "recollection-71f3a4",
-  "Ranking_EOS_Progress": 452,
+  "Ranking_EOS_Progress": 451,
   "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 438,
+  "Ranking_EOS_NewPlayers": 424,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 119,
+  "EOS_Progressed": 120,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 6.72,
+  "EOS_Completed_Percentage": 6.67,
   "EosHistory": [
     {
       "Time": "2023-06-14T15:00:16.7509072+00:00",
@@ -649,6 +649,11 @@
       "Time": "2023-12-20T16:05:54.8593423+00:00",
       "NumProgressed": 119,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-22T00:03:23.4255501+00:00",
+      "NumProgressed": 120,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 26,
@@ -692,7 +697,7 @@
       "Name": "Something gentle...",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Butterfly_Fragile",
@@ -764,7 +769,7 @@
       "Name": "Somewhere to belong...",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Home_Fragile",
@@ -812,7 +817,7 @@
       "Name": "Something natural...",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Star",
@@ -852,7 +857,7 @@
       "Name": "Something reflective...",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Water_Fragile",
@@ -867,14 +872,14 @@
     {
       "ID": "6j29jep",
       "IsBase": true,
-      "Progressed": 119,
+      "Progressed": 120,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-09-01T05:01:10.2908706+00:00",
   "FirstSeenAchievements": "2023-05-31T12:00:38.8856808+00:00",
-  "LastChanged_Achievements": "2023-12-21T23:03:49.5837801+00:00",
+  "LastChanged_Achievements": "2023-12-22T00:03:23.4255498+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:03.5328641+00:00",
-  "LastUpdate_Ratings": "2023-12-21T22:57:43.370647+00:00",
-  "LastUpdate_Achievements": "2023-12-21T23:03:49.5838194+00:00"
+  "LastUpdate_Ratings": "2023-12-21T23:57:33.1953841+00:00",
+  "LastUpdate_Achievements": "2023-12-22T00:03:23.4255929+00:00"
 }

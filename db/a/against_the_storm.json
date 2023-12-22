@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 268,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3539,9 +3539,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18861,
+  "EOS_Progressed": 18868,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 708,
+  "EOS_NewPlayers": 711,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16614,6 +16614,11 @@
       "Time": "2023-12-21T23:08:18.5946826+00:00",
       "NumProgressed": 18861,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-22T00:07:05.3601841+00:00",
+      "NumProgressed": 18868,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16714,7 +16719,7 @@
       "Name": "First Real Expedition",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "WinHard",
@@ -16962,15 +16967,15 @@
       "Name": "Taking Action",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "WinWithResolve",
       "SetID": "cfbk359",
       "Name": "Victory Through Prosperity",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 113
+      "UsersEstimate": 132
     },
     {
       "ID": "WinWithRuins",
@@ -17002,7 +17007,7 @@
       "Name": "No Deaths",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "WinWithoutOrders",
@@ -17034,7 +17039,7 @@
       "Name": "Frosts",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "WinNearGreed",
@@ -17066,7 +17071,7 @@
       "Name": "Ominous Presence",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "WinNearStorms",
@@ -17074,7 +17079,7 @@
       "Name": "Gathering Storm",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -17097,15 +17102,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18861,
+      "Progressed": 18868,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-21T17:59:36.1497483+00:00",
-  "LastChanged_Achievements": "2023-12-21T23:08:18.5946822+00:00",
+  "LastChanged_Achievements": "2023-12-22T00:07:05.3601837+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
-  "LastUpdate_Ratings": "2023-12-21T23:01:13.2460342+00:00",
-  "LastUpdate_Achievements": "2023-12-21T23:08:18.5947751+00:00"
+  "LastUpdate_Ratings": "2023-12-22T00:00:18.5719586+00:00",
+  "LastUpdate_Achievements": "2023-12-22T00:07:05.3602884+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "b6b2ef0cc19a4adaaa1cf6c7ed000dfa",
   "Name": "Godfall Ultimate Edition",
   "ProductSlug": "godfall",
-  "Ranking_Rating": 998,
+  "Ranking_Rating": 999,
   "Ranking_Popularity": 206,
   "Ranking_PopularitySum": 273,
   "Ranking_EOS_Progress": 813,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 563,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-04-07T16:00:00+00:00",
     "PcReleaseDate": "2022-04-07T16:00:00+00:00",
@@ -1414,10 +1414,16 @@
       "Rating": 4.07,
       "NumberOfAwards": 915,
       "NumberOfAwardsMax": 574
+    },
+    {
+      "Time": "2023-12-21T23:57:35.2538138+00:00",
+      "Rating": 4.07,
+      "NumberOfAwards": 916,
+      "NumberOfAwardsMax": 574
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 915,
+  "NumberOfAwards": 916,
   "NumberOfAwardsMax": 574,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1443,7 +1449,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 51
+      "Count": 52
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1493,8 +1499,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:29.0337311+00:00",
-  "LastChanged": "2023-12-18T13:07:58.0496229+00:00",
+  "LastChanged": "2023-12-21T23:57:35.2538137+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:12.6175801+00:00",
-  "LastUpdate_Ratings": "2023-12-21T22:57:45.7225834+00:00",
-  "LastUpdate_Achievements": "2023-12-21T23:05:55.696867+00:00"
+  "LastUpdate_Ratings": "2023-12-21T23:57:35.2538141+00:00",
+  "LastUpdate_Achievements": "2023-12-22T00:05:06.2254022+00:00"
 }

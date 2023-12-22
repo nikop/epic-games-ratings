@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 853,
+  "EOS_Progressed": 854,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 248,
+  "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2295,6 +2295,11 @@
       "Time": "2023-12-21T22:10:06.9762107+00:00",
       "NumProgressed": 853,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T00:09:13.9708811+00:00",
+      "NumProgressed": 854,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -2337,9 +2342,9 @@
       "ID": "AchvBombStop",
       "SetID": "1hj060c",
       "Name": "Peacemaker",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 90,
-      "UsersEstimate": 179
+      "UsersEstimate": 188
     },
     {
       "ID": "AchvBombing",
@@ -2435,15 +2440,15 @@
       "Name": "The Necroevolution",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "AchvNest",
       "SetID": "1hj060c",
       "Name": "Innate curiosity",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 60
+      "UsersEstimate": 68
     },
     {
       "ID": "AchvNoHoles",
@@ -2473,9 +2478,9 @@
       "ID": "AchvReachBase",
       "SetID": "1hj060c",
       "Name": "The field base",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 358
+      "UsersEstimate": 367
     },
     {
       "ID": "AchvReachCamp",
@@ -2483,7 +2488,7 @@
       "Name": "The Camp",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "AchvReachCity",
@@ -2523,7 +2528,7 @@
       "Name": "The End",
       "Percentage": 33,
       "XP": 55,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "AchvUnity",
@@ -2538,14 +2543,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 853,
+      "Progressed": 854,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-21T23:09:52.3010149+00:00",
+  "LastChanged_Achievements": "2023-12-22T00:09:13.9708809+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.232501+00:00",
-  "LastUpdate_Ratings": "2023-12-21T23:00:14.2938351+00:00",
-  "LastUpdate_Achievements": "2023-12-21T23:09:52.3010405+00:00"
+  "LastUpdate_Ratings": "2023-12-21T23:59:31.9938672+00:00",
+  "LastUpdate_Achievements": "2023-12-22T00:09:13.9709015+00:00"
 }

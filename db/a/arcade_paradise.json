@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 342,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
     "PcReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -93,9 +93,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 720,
+  "EOS_Progressed": 721,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -798,6 +798,11 @@
       "Time": "2023-12-20T07:04:33.0836825+00:00",
       "NumProgressed": 720,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T00:05:48.9603024+00:00",
+      "NumProgressed": 721,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 54,
@@ -857,7 +862,7 @@
       "Name": "Fetch Quest Complete",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "AhoyTrophy",
@@ -881,7 +886,7 @@
       "Name": "Goal",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "AllUpgrdTrophy",
@@ -953,7 +958,7 @@
       "Name": "Pushing a pull door",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "Ext4Trophy",
@@ -1177,7 +1182,7 @@
       "Name": "Swish",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "TerrorTrophy",
@@ -1240,7 +1245,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 720,
+      "Progressed": 721,
       "Completed": 0
     }
   ],
@@ -1248,8 +1253,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-10-15T06:02:18.0550602+00:00",
-  "LastChanged_Achievements": "2023-12-21T23:06:46.5830311+00:00",
+  "LastChanged_Achievements": "2023-12-22T00:05:48.9603017+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:28.3598294+00:00",
   "LastUpdate_Ratings": "2023-12-21T23:02:46.4110168+00:00",
-  "LastUpdate_Achievements": "2023-12-21T23:06:46.5830635+00:00"
+  "LastUpdate_Achievements": "2023-12-22T00:05:48.9603387+00:00"
 }

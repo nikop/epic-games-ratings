@@ -4,8 +4,8 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 402,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 206,
+  "EOS_Progressed": 207,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
@@ -859,6 +859,11 @@
       "Time": "2023-12-21T22:06:09.1505544+00:00",
       "NumProgressed": 206,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T00:05:21.9715711+00:00",
+      "NumProgressed": 207,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-22T01:45:20.357802+00:00",
@@ -1101,9 +1106,9 @@
       "ID": "EndlessTricks",
       "SetID": "1jeo1g7",
       "Name": "Endless Tricks",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 101
     },
     {
       "ID": "EridanianChampionAchievement",
@@ -1199,7 +1204,7 @@
       "Name": "Loyal Partner",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "MechanicIntegration",
@@ -1215,7 +1220,7 @@
       "Name": "Mechanical Buddy",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "MeissasSavior",
@@ -1295,7 +1300,7 @@
       "Name": "Purification Pioneer",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ReflexiveMind",
@@ -1317,9 +1322,9 @@
       "ID": "SadisticPlan",
       "SetID": "1jeo1g7",
       "Name": "Sadistic Plan",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 29
     },
     {
       "ID": "SanctuaryGuardian",
@@ -1327,7 +1332,7 @@
       "Name": "Sanctuary Guardian",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "Sentinelphobic",
@@ -1415,7 +1420,7 @@
       "Name": "The Corruption Goddess",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "TheDarkMoon",
@@ -1439,7 +1444,7 @@
       "Name": "The Goddes Avatar",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "TheRagingSkies",
@@ -1501,9 +1506,9 @@
       "ID": "WildsKeeper",
       "SetID": "1jeo1g7",
       "Name": "Wild\u0027s Keeper",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 93
     },
     {
       "ID": "ApianChampion",
@@ -1607,7 +1612,7 @@
       "Name": "Lacertian Champion",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "LacertianHero",
@@ -1631,7 +1636,7 @@
       "Name": "Noctuan Champion",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "NoctuanHero",
@@ -1654,14 +1659,14 @@
     {
       "ID": "1jeo1g7",
       "IsBase": true,
-      "Progressed": 206,
+      "Progressed": 207,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-21T23:06:14.6639033+00:00",
+  "LastChanged_Achievements": "2023-12-22T00:05:21.9715707+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:09.6615872+00:00",
-  "LastUpdate_Ratings": "2023-12-21T22:59:00.7552767+00:00",
-  "LastUpdate_Achievements": "2023-12-21T23:06:14.6639787+00:00"
+  "LastUpdate_Ratings": "2023-12-21T23:58:33.8749035+00:00",
+  "LastUpdate_Achievements": "2023-12-22T00:05:21.9716475+00:00"
 }

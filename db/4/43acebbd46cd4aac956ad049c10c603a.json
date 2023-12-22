@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -222,7 +222,7 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 1075,
+  "EOS_Progressed": 1076,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
@@ -2827,6 +2827,11 @@
       "Time": "2023-12-21T22:06:47.8469503+00:00",
       "NumProgressed": 1075,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-22T00:05:54.6574578+00:00",
+      "NumProgressed": 1076,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2847,7 +2852,7 @@
       "Name": "Ab Initio",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "AnthropicHills",
@@ -2999,7 +3004,7 @@
       "Name": "High Plain",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "IntoTheMachine",
@@ -3141,9 +3146,9 @@
       "ID": "ScientiaVincereTenebras",
       "SetID": "1n308hc",
       "Name": "Scientia Vincere Tenebras",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 86
+      "UsersEstimate": 97
     },
     {
       "ID": "Signatory",
@@ -3197,9 +3202,9 @@
       "ID": "TheAllGifted",
       "SetID": "1n308hc",
       "Name": "The All-Gifted",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 161
+      "UsersEstimate": 151
     },
     {
       "ID": "TheEdgeOfForever",
@@ -3310,7 +3315,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1075,
+      "Progressed": 1076,
       "Completed": 1
     }
   ],
@@ -3318,8 +3323,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-21T23:06:53.3516893+00:00",
+  "LastChanged_Achievements": "2023-12-22T00:05:54.6574575+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-21T23:01:42.4582323+00:00",
-  "LastUpdate_Achievements": "2023-12-21T23:06:53.3517364+00:00"
+  "LastUpdate_Ratings": "2023-12-22T00:00:43.7593366+00:00",
+  "LastUpdate_Achievements": "2023-12-22T00:05:54.6575038+00:00"
 }

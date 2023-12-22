@@ -5,26 +5,26 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meissa's Savior | 76.00% | ~157 |
-| Purification Pioneer | 72.00% | ~148 |
-| Mechanical Buddy | 67.00% | ~138 |
+| Purification Pioneer | 72.00% | ~149 |
+| Mechanical Buddy | 67.00% | ~139 |
 | Dicesmithing Time! | 60.00% | ~124 |
-| Sanctuary Guardian | 54.00% | ~111 |
-| Endless Tricks | 50.00% | ~103 |
-| Wild's Keeper | 46.00% | ~95 |
+| Sanctuary Guardian | 54.00% | ~112 |
+| Endless Tricks | 49.00% | ~101 |
+| Wild's Keeper | 45.00% | ~93 |
 | Mind Illuminator | 43.00% | ~89 |
-| Noctuan Champion | 36.00% | ~74 |
+| Noctuan Champion | 36.00% | ~75 |
 | Stellar Dismantler | 35.00% | ~72 |
 | Anomaly Destroyer | 32.00% | ~66 |
 | Astral Adventurer | 31.00% | ~64 |
 | Star Killer | 28.00% | ~58 |
 | Eridanian Champion | 25.00% | ~52 |
-| Loyal Partner | 23.00% | ~47 |
-| Lacertian Champion | 23.00% | ~47 |
+| Loyal Partner | 23.00% | ~48 |
+| Lacertian Champion | 23.00% | ~48 |
 | Apian Champion | 21.00% | ~43 |
 | Shard Spender | 18.00% | ~37 |
 | Unbeatable | 18.00% | ~37 |
 | Behenian Champion | 17.00% | ~35 |
-| Sadistic Plan | 15.00% | ~31 |
+| Sadistic Plan | 14.00% | ~29 |
 | Astral Seeker | 10.00% | ~21 |
 | Heavy Purger | 10.00% | ~21 |
 | Stellar Haste | 10.00% | ~21 |
@@ -32,8 +32,8 @@
 | Favored by the Cosmos | 9.00% | ~19 |
 | Heart Gate | 9.00% | ~19 |
 | Wave Bender | 9.00% | ~19 |
-| The Corruption Goddess | 8.00% | ~16 |
-| The Goddes Avatar | 8.00% | ~16 |
+| The Corruption Goddess | 8.00% | ~17 |
+| The Goddes Avatar | 8.00% | ~17 |
 | Anomaly Control | 6.00% | ~12 |
 | Artificer | 6.00% | ~12 |
 | Can't touch this | 6.00% | ~12 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206 (Ranked 402)  
+Progressed: 207 (Ranked 402)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,3 +160,4 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-19 | 195 | 0 |
 | 2023-12-20 | 201 | 0 |
 | 2023-12-21 | 206 | 0 |
+| 2023-12-22 | 207 | 0 |

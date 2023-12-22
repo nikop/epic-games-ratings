@@ -6,8 +6,8 @@ Rating: 4.54 (Ranked 533)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 14.00% | ~2,385 |
-| Captain Drummer | 10.00% | ~1,703 |
-| Celebrations are in Order | 10.00% | ~1,703 |
+| Captain Drummer | 10.00% | ~1,704 |
+| Celebrations are in Order | 10.00% | ~1,704 |
 | The Pit and the Pirates | 9.00% | ~1,533 |
 | Martian Music | 9.00% | ~1,533 |
 | Drone Dodger | 9.00% | ~1,533 |
@@ -15,8 +15,8 @@ Rating: 4.54 (Ranked 533)
 | Impossible Objects | 9.00% | ~1,533 |
 | Spore Taste | 8.00% | ~1,363 |
 | Zen Master | 8.00% | ~239 |
-| Stogie for Fogey | 7.00% | ~1,192 |
-| Call it Even | 7.00% | ~1,192 |
+| Stogie for Fogey | 7.00% | ~1,193 |
+| Call it Even | 7.00% | ~1,193 |
 | Safe Cracker | 7.00% | ~209 |
 | Madame Undersecretary | 7.00% | ~209 |
 | Drug Gifter | 6.00% | ~1,022 |
@@ -25,7 +25,7 @@ Rating: 4.54 (Ranked 533)
 | Data Archivist | 5.00% | ~852 |
 | Thorston Mayer | 5.00% | ~852 |
 | Khan's Revenge | 5.00% | ~852 |
-| Master Negotiator | 5.00% | ~149 |
+| Master Negotiator | 5.00% | ~150 |
 | Doctor Approved | 4.00% | ~681 |
 | Bottoms up! | 4.00% | ~681 |
 | Data Logger | 3.00% | ~511 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 533)
 | Scavenger Star | 0.20% | ~34 |
 | Data Collector | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,033 (Ranked 154)  
+Progressed: 17,036 (Ranked 154)  
 Completed: 46 (0.27%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,6 +194,7 @@ Completed: 46 (0.27%) (Ranked 254)
 | 2023-12-19 | 16,865 | 45 |
 | 2023-12-20 | 16,946 | 46 |
 | 2023-12-21 | 17,033 | 46 |
+| 2023-12-22 | 17,036 | 46 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

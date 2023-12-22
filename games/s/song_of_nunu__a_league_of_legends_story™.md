@@ -5,28 +5,28 @@ Rating: 4.50 (Ranked 603)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 75.00% | ~953 |
-| I Broke It | 73.00% | ~928 |
-| Better On Ice | 68.00% | ~864 |
+| Feels Familiar | 75.00% | ~954 |
+| I Broke It | 73.00% | ~929 |
+| Better On Ice | 68.00% | ~865 |
 | Notai Notes | 67.00% | ~852 |
-| Blue Dreams | 66.00% | ~839 |
-| He's Famous! | 65.00% | ~826 |
-| Cutie Poro | 65.00% | ~826 |
-| Krugmazing | 64.00% | ~813 |
+| Blue Dreams | 66.00% | ~840 |
+| He's Famous! | 65.00% | ~827 |
+| Cutie Poro | 65.00% | ~827 |
+| Krugmazing | 64.00% | ~814 |
 | Moneyball | 60.00% | ~763 |
 | The Fire Below the Mountain | 60.00% | ~763 |
-| Iceborn | 55.00% | ~699 |
-| No Bites | 54.00% | ~686 |
+| Iceborn | 55.00% | ~700 |
+| No Bites | 54.00% | ~687 |
 | Tear of Freedom | 52.00% | ~661 |
 | Boom Things | 52.00% | ~661 |
-| My Darkest Day | 48.00% | ~610 |
+| My Darkest Day | 48.00% | ~611 |
 | Rhythm Of Willump | 46.00% | ~585 |
 | The Relentless Storm | 46.00% | ~585 |
-| A Tragic Reminder | 44.00% | ~559 |
-| 3000 Year Blackout | 44.00% | ~559 |
+| A Tragic Reminder | 44.00% | ~560 |
+| 3000 Year Blackout | 44.00% | ~560 |
 | The Finisher | 42.00% | ~534 |
-| So Close | 41.00% | ~521 |
-| You Get Used To It | 41.00% | ~521 |
+| So Close | 41.00% | ~522 |
+| You Get Used To It | 41.00% | ~522 |
 | Family | 39.00% | ~496 |
 | Biggest Snowball Ever | 39.00% | ~496 |
 | Freeze The Ice Witch | 39.00% | ~496 |
@@ -50,7 +50,7 @@ Rating: 4.50 (Ranked 603)
 | We Are Speed | 2.00% | ~25 |
 | Sneaky Notai | 1.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,271 (Ranked 262)  
+Progressed: 1,272 (Ranked 262)  
 Completed: 9 (0.71%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,6 +113,7 @@ Completed: 9 (0.71%) (Ranked 193)
 | 2023-12-19 | 1,241 | 9 |
 | 2023-12-20 | 1,251 | 9 |
 | 2023-12-21 | 1,271 | 9 |
+| 2023-12-22 | 1,272 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

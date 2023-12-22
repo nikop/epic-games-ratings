@@ -5,14 +5,14 @@ Rating: 4.89 (Ranked 10)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 45.00% | ~4,612 |
-| Start with a bang! | 44.00% | ~4,509 |
-| You can pet the cat! | 40.00% | ~4,099 |
-| Who put gears in there? | 32.00% | ~3,279 |
-| Cream of the Crop | 28.00% | ~2,869 |
-| Thanks for the free chip, Peppermint! | 27.00% | ~2,767 |
+| Feeling the beat! | 45.00% | ~4,613 |
+| Start with a bang! | 44.00% | ~4,511 |
+| You can pet the cat! | 40.00% | ~4,101 |
+| Who put gears in there? | 32.00% | ~3,281 |
+| Cream of the Crop | 28.00% | ~2,871 |
+| Thanks for the free chip, Peppermint! | 27.00% | ~2,768 |
 | You got this, Peppermint? | 22.00% | ~2,255 |
-| Perfect Parry | 21.00% | ~2,152 |
+| Perfect Parry | 21.00% | ~2,153 |
 | Alright, that felt AWESOME! | 20.00% | ~2,050 |
 | I play my own way! | 18.00% | ~1,845 |
 | This will cost you big time | 16.00% | ~1,640 |
@@ -21,32 +21,32 @@ Rating: 4.89 (Ranked 10)
 | Kissing the sky! | 14.00% | ~1,435 |
 | Does that say weakpoint? | 14.00% | ~1,435 |
 | Whoa! There's ANOTHER health bar!? | 12.00% | ~1,230 |
-| The Negotiator | 11.00% | ~1,127 |
+| The Negotiator | 11.00% | ~1,128 |
 | You must like calling me in, Chai | 10.00% | ~1,025 |
 | I look cool. But I can look COOLER. | 10.00% | ~1,025 |
-| Out in a puff of smoke | 9.00% | ~922 |
+| Out in a puff of smoke | 9.00% | ~923 |
 | Headliner | 8.00% | ~820 |
 | Time to pay up! | 8.00% | ~820 |
 | Perfecter Parry-er! | 8.00% | ~820 |
-| Who's the boss now? | 7.00% | ~717 |
-| I have to read these things? | 7.00% | ~717 |
+| Who's the boss now? | 7.00% | ~718 |
+| I have to read these things? | 7.00% | ~718 |
 | NOW we got a kickass hideout! | 6.00% | ~526 |
-| Well that was a rush! | 5.00% | ~512 |
-| That's a lot of junk metal… | 5.00% | ~512 |
-| There's such a thing as TOO helpful | 5.00% | ~512 |
+| Well that was a rush! | 5.00% | ~513 |
+| That's a lot of junk metal… | 5.00% | ~513 |
+| There's such a thing as TOO helpful | 5.00% | ~513 |
 | Beat-hit mania | 4.00% | ~410 |
 | I told you I'd be fine, Peppermint! | 4.00% | ~410 |
-| Chip-tuned | 3.00% | ~307 |
+| Chip-tuned | 3.00% | ~308 |
 | We're Jammin' | 2.00% | ~205 |
 | I hit things with a guitar really well. | 2.00% | ~205 |
 | Wanna hear my playlist? | 2.00% | ~205 |
 | You ever parry a volcano? | 2.00% | ~205 |
 | Check out my moves! | 2.00% | ~205 |
-| I think I deserve some praise, here! | 1.00% | ~102 |
-| I think I found your calling, Macaron | 1.00% | ~102 |
-| This is a breeze! | 1.00% | ~102 |
-| I'm not done with you yet | 1.00% | ~102 |
-| First we parry, then we counter | 1.00% | ~102 |
+| I think I deserve some praise, here! | 1.00% | ~103 |
+| I think I found your calling, Macaron | 1.00% | ~103 |
+| This is a breeze! | 1.00% | ~103 |
+| I'm not done with you yet | 1.00% | ~103 |
+| First we parry, then we counter | 1.00% | ~103 |
 | Call me Turbo Chai | 1.00% | ~88 |
 | Easy Listening | 0.70% | ~72 |
 | New bad guys? No problem! | 0.60% | ~53 |
@@ -55,10 +55,10 @@ Rating: 4.89 (Ranked 10)
 | Now this is how you fight like a team! | 0.30% | ~31 |
 | I am a good person who likes to help | 0.30% | ~31 |
 | Choose your own adventure | 0.30% | ~26 |
-| And the crowd goes wild! | 0.20% | ~20 |
-| I can't see this ever being a problem again | 0.20% | ~20 |
-| Fully Powered Up! | 0.20% | ~20 |
-| With our powers combined…and to the rhythm… | 0.20% | ~20 |
+| And the crowd goes wild! | 0.20% | ~21 |
+| I can't see this ever being a problem again | 0.20% | ~21 |
+| Fully Powered Up! | 0.20% | ~21 |
+| With our powers combined…and to the rhythm… | 0.20% | ~21 |
 | It'll do, CNMN | 0.20% | ~18 |
 | Didn't skip a beat! | 0.10% | ~10 |
 | I think that's enough health for now | 0.10% | ~10 |
@@ -77,7 +77,7 @@ Rating: 4.89 (Ranked 10)
 | Voices from within | 0.10% | ~9 |
 | Low budget finish | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,248 (Ranked 173)  
+Progressed: 10,252 (Ranked 173)  
 Completed: 8 (0.08%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,6 +313,7 @@ Completed: 8 (0.08%) (Ranked 316)
 | 2023-12-19 | 9,581 | 8 |
 | 2023-12-20 | 9,904 | 8 |
 | 2023-12-21 | 10,248 | 8 |
+| 2023-12-22 | 10,252 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

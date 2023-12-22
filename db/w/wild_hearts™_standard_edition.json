@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 750,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 308,
+  "EOS_NewPlayers": 307,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.07,
   "EosHistory": [
@@ -2684,9 +2684,9 @@
       "ID": "achievement_16",
       "SetID": "2cpn27e",
       "Name": "Distance Devourer",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 270
     },
     {
       "ID": "achievement_17",
@@ -3018,8 +3018,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-21T23:09:32.0860073+00:00",
+  "LastChanged_Achievements": "2023-12-22T00:08:56.8150242+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:11.6761115+00:00",
-  "LastUpdate_Ratings": "2023-12-21T22:57:50.1286501+00:00",
-  "LastUpdate_Achievements": "2023-12-21T23:09:32.0860531+00:00"
+  "LastUpdate_Ratings": "2023-12-21T23:57:38.8456383+00:00",
+  "LastUpdate_Achievements": "2023-12-22T00:08:56.8150645+00:00"
 }

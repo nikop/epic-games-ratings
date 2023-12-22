@@ -287,9 +287,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 10906,
+  "EOS_Progressed": 10908,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 2459,
+  "EOS_NewPlayers": 2446,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -7412,6 +7412,11 @@
       "Time": "2023-12-21T23:10:34.2950516+00:00",
       "NumProgressed": 10906,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-12-22T00:09:48.8206406+00:00",
+      "NumProgressed": 10908,
+      "NumCompleted": 19
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -7432,7 +7437,7 @@
       "Name": "Baby Steps",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 3599
+      "UsersEstimate": 3600
     },
     {
       "ID": "BeLikeWater",
@@ -7496,7 +7501,7 @@
       "Name": "First Time?",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 5017
+      "UsersEstimate": 5018
     },
     {
       "ID": "FuneralForTheDeath",
@@ -7568,7 +7573,7 @@
       "Name": "Nasty!",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 2508
+      "UsersEstimate": 2509
     },
     {
       "ID": "NoMoreTotems",
@@ -7616,7 +7621,7 @@
       "Name": "The Old-School Way",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2181
+      "UsersEstimate": 2182
     },
     {
       "ID": "TheQuarterback",
@@ -7624,7 +7629,7 @@
       "Name": "The Quarterback",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 3817
+      "UsersEstimate": 3818
     },
     {
       "ID": "ThisIsDharma",
@@ -7680,7 +7685,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "k01101110",
@@ -7688,14 +7693,14 @@
       "Name": "01101110 01101001 01100011 01100101",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     }
   ],
   "AchievementSets": [
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 10906,
+      "Progressed": 10908,
       "Completed": 19
     }
   ],
@@ -7703,8 +7708,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-20T14:59:47.3947105+00:00",
-  "LastChanged_Achievements": "2023-12-21T23:10:34.2950513+00:00",
+  "LastChanged_Achievements": "2023-12-22T00:09:48.8206402+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.4547373+00:00",
-  "LastUpdate_Ratings": "2023-12-21T23:02:42.7457304+00:00",
-  "LastUpdate_Achievements": "2023-12-21T23:10:34.2951136+00:00"
+  "LastUpdate_Ratings": "2023-12-22T00:00:51.0278014+00:00",
+  "LastUpdate_Achievements": "2023-12-22T00:09:48.8206841+00:00"
 }

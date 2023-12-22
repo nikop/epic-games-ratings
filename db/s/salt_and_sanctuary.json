@@ -2892,9 +2892,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 541536,
+  "EOS_Progressed": 541537,
   "EOS_Completed": 1653,
-  "EOS_NewPlayers": 768,
+  "EOS_NewPlayers": 765,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -30027,6 +30027,11 @@
       "Time": "2023-12-21T23:03:51.9335414+00:00",
       "NumProgressed": 541536,
       "NumCompleted": 1653
+    },
+    {
+      "Time": "2023-12-22T00:03:25.4141652+00:00",
+      "NumProgressed": 541537,
+      "NumCompleted": 1653
     }
   ],
   "TotalAchievements": 37,
@@ -30094,7 +30099,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 449475
+      "UsersEstimate": 449476
     },
     {
       "ID": "HONED",
@@ -30150,7 +30155,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 216614
+      "UsersEstimate": 216615
     },
     {
       "ID": "THE_CASTLE",
@@ -30198,7 +30203,7 @@
       "Name": "The Forest",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 81230
+      "UsersEstimate": 81231
     },
     {
       "ID": "THE_IMPOSTER",
@@ -30294,7 +30299,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 346583
+      "UsersEstimate": 346584
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -30333,15 +30338,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 541536,
+      "Progressed": 541537,
       "Completed": 1653
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-12-21T13:57:12.806778+00:00",
-  "LastChanged_Achievements": "2023-12-21T23:03:51.9335411+00:00",
+  "LastChanged_Achievements": "2023-12-22T00:03:25.4141649+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:36.3607432+00:00",
-  "LastUpdate_Ratings": "2023-12-21T22:57:39.1483271+00:00",
-  "LastUpdate_Achievements": "2023-12-21T23:03:51.9337123+00:00"
+  "LastUpdate_Ratings": "2023-12-21T23:57:29.9578884+00:00",
+  "LastUpdate_Achievements": "2023-12-22T00:03:25.4143398+00:00"
 }

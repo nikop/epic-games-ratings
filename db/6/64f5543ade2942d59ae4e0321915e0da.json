@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 197,
+  "EOS_Progressed": 198,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
@@ -814,6 +814,11 @@
       "Time": "2023-12-21T21:03:27.0561426+00:00",
       "NumProgressed": 197,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-22T00:03:31.864789+00:00",
+      "NumProgressed": 198,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -880,9 +885,9 @@
       "ID": "AC_BLACKJACK_GAMES_1",
       "SetID": "16i2akc",
       "Name": "Gambler",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "AC_BLACKJACK_GAMES_2",
@@ -898,7 +903,7 @@
       "Name": "Hunger",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "AC_BOSS_01",
@@ -914,7 +919,7 @@
       "Name": "Downfall",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "AC_BOSS_03",
@@ -968,9 +973,9 @@
       "ID": "AC_DEATH_1",
       "SetID": "16i2akc",
       "Name": "Corpse",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 79
     },
     {
       "ID": "AC_DEATH_2",
@@ -994,7 +999,7 @@
       "Name": "Killer",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -1010,7 +1015,7 @@
       "Name": "Genocide",
       "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "AC_DISTANCE_1",
@@ -1050,7 +1055,7 @@
       "Name": "Creation",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "AC_FLASHBACK_02",
@@ -1161,14 +1166,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 197,
+      "Progressed": 198,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-21T23:04:00.0835469+00:00",
+  "LastChanged_Achievements": "2023-12-22T00:03:31.8647886+00:00",
   "LastUpdate_AppInfo": "2023-12-19T20:57:15.8211494+00:00",
-  "LastUpdate_Ratings": "2023-12-21T22:57:31.0587649+00:00",
-  "LastUpdate_Achievements": "2023-12-21T23:04:00.0836075+00:00"
+  "LastUpdate_Ratings": "2023-12-21T23:57:23.8250572+00:00",
+  "LastUpdate_Achievements": "2023-12-22T00:03:31.8648285+00:00"
 }

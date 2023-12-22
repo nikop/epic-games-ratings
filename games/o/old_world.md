@@ -22,6 +22,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate in Babylon | 0.10% | ~16 |
 | Barbarian Horde | 0.10% | ~16 |
 | Before the Mongol Horde | 0.10% | ~16 |
+| Blade of the Monkey | 0.10% | ~16 |
 | Carthage - Ox Hide | 0.10% | ~16 |
 | Bronze Victory (Carthage 1) | 0.10% | ~16 |
 | Epic Victory (Carthage 1) | 0.10% | ~16 |
@@ -224,7 +225,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Great Raging Horde | 0.00% | ~0 |
 | United Against The Horde | 0.00% | ~0 |
 | Battle of Opis | 0.00% | ~0 |
-| Blade of the Monkey | 0.00% | ~0 |
 | Hagia Sophia in Byzantion | 0.00% | ~0 |
 | Epic Victory (Carthage 4) | 0.00% | ~0 |
 | Gold Victory (Carthage 4) | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,865 (Ranked 159)  
+Progressed: 15,866 (Ranked 159)  
 Completed: 5 (0.03%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -611,9 +611,10 @@ Completed: 5 (0.03%) (Ranked 345)
 | 2023-12-19 | 15,840 | 5 |
 | 2023-12-20 | 15,854 | 5 |
 | 2023-12-21 | 15,865 | 5 |
+| 2023-12-22 | 15,866 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 279)  
-Sum: 1,905 (Ranked 220)  
+Sum: 1,906 (Ranked 220)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
@@ -622,7 +623,7 @@ Diff (max vs sum): 59
 | This game is Highly Recommended | 221 |
 | This game is Extremely Fun | 220 |
 | This game is Educational | 214 |
-| This game has Challenging Combat | 207 |
+| This game has Challenging Combat | 208 |
 | This game has Amazing Characters | 199 |
 | This game has Quickly Understood Controls | 197 |
 | This game has Amazing Storytelling | 196 |
@@ -813,3 +814,4 @@ Diff (max vs sum): 59
 | 2023-12-18 | 4.65 | - | 228 | 1,902 |
 | 2023-12-19 | 4.65 | - | 228 | 1,904 |
 | 2023-12-21 | 4.65 | - | 229 | 1,905 |
+| 2023-12-22 | 4.65 | - | 229 | 1,906 |
