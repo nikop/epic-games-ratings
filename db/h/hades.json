@@ -5912,10 +5912,16 @@
       "Rating": 4.92,
       "NumberOfAwards": 8438,
       "NumberOfAwardsMax": 3456
+    },
+    {
+      "Time": "2023-12-22T03:58:34.0719435+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 8439,
+      "NumberOfAwardsMax": 3456
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8438,
+  "NumberOfAwards": 8439,
   "NumberOfAwardsMax": 3456,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5977,7 +5983,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 257
+      "Count": 258
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6010,9 +6016,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 720157,
+  "EOS_Progressed": 720158,
   "EOS_Completed": 6555,
-  "EOS_NewPlayers": 1480,
+  "EOS_NewPlayers": 1477,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
@@ -32815,6 +32821,11 @@
       "Time": "2023-12-22T03:10:13.2400659+00:00",
       "NumProgressed": 720157,
       "NumCompleted": 6555
+    },
+    {
+      "Time": "2023-12-22T04:10:01.4317959+00:00",
+      "NumProgressed": 720158,
+      "NumCompleted": 6555
     }
   ],
   "TotalAchievements": 49,
@@ -32850,7 +32861,7 @@
       "Name": "The Useless Trinket",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 93620
+      "UsersEstimate": 93621
     },
     {
       "ID": "AchBuffedButterfly",
@@ -32890,7 +32901,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 568924
+      "UsersEstimate": 568925
     },
     {
       "ID": "AchClearElysium",
@@ -32898,7 +32909,7 @@
       "Name": "Escaped Elysium",
       "Percentage": 65,
       "XP": 25,
-      "UsersEstimate": 468102
+      "UsersEstimate": 468103
     },
     {
       "ID": "AchClearElysiumEM",
@@ -32906,7 +32917,7 @@
       "Name": "Champion of Elysium",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 93620
+      "UsersEstimate": 93621
     },
     {
       "ID": "AchClearHeatGate",
@@ -32930,7 +32941,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 88,
       "XP": 25,
-      "UsersEstimate": 633738
+      "UsersEstimate": 633739
     },
     {
       "ID": "AchCrushedThanatos",
@@ -32994,7 +33005,7 @@
       "Name": "Friends in High Places",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 482505
+      "UsersEstimate": 482506
     },
     {
       "ID": "AchGreaterCallSpurned",
@@ -33026,7 +33037,7 @@
       "Name": "Home Makeover",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 194442
+      "UsersEstimate": 194443
     },
     {
       "ID": "AchManyQuests",
@@ -33034,7 +33045,7 @@
       "Name": "Had to Happen",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 180039
+      "UsersEstimate": 180040
     },
     {
       "ID": "AchMaxedAnyAspect",
@@ -33050,7 +33061,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 446497
+      "UsersEstimate": 446498
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -33138,7 +33149,7 @@
       "Name": "The Family Secret",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 180039
+      "UsersEstimate": 180040
     },
     {
       "ID": "AchReachedEpilogue",
@@ -33186,7 +33197,7 @@
       "Name": "Arms Collector",
       "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 504110
+      "UsersEstimate": 504111
     },
     {
       "ID": "AchWeaponClears",
@@ -33217,15 +33228,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 720157,
+      "Progressed": 720158,
       "Completed": 6555
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
-  "LastChanged": "2023-12-22T02:19:57.8713235+00:00",
-  "LastChanged_Achievements": "2023-12-22T03:10:13.2400656+00:00",
+  "LastChanged": "2023-12-22T03:58:34.0719433+00:00",
+  "LastChanged_Achievements": "2023-12-22T04:10:01.4317957+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:18.0129422+00:00",
-  "LastUpdate_Ratings": "2023-12-22T02:59:03.2259942+00:00",
-  "LastUpdate_Achievements": "2023-12-22T03:10:13.2401837+00:00"
+  "LastUpdate_Ratings": "2023-12-22T03:58:34.0719441+00:00",
+  "LastUpdate_Achievements": "2023-12-22T04:10:01.4319543+00:00"
 }

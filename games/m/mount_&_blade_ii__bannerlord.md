@@ -6,59 +6,59 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 41.00% | ~32,184 |
-| Landlord | 33.00% | ~25,904 |
-| Trained | 27.00% | ~21,194 |
-| Bannerlord | 23.00% | ~18,055 |
-| Horde breaker | 22.00% | ~17,270 |
-| Lawmaker | 22.00% | ~17,270 |
-| The king is pleased | 18.00% | ~14,130 |
-| King Solomon | 16.00% | ~12,560 |
-| Apple of my eye | 15.00% | ~11,775 |
-| I can do it | 15.00% | ~11,775 |
-| This Is Our Land | 14.00% | ~10,990 |
-| Against all odds | 13.00% | ~10,205 |
-| God of the Arena | 12.00% | ~9,420 |
-| Duelist | 11.00% | ~8,635 |
-| Swordbearer | 10.00% | ~7,850 |
-| Dynasty | 9.00% | ~7,065 |
-| I spit on your grave | 9.00% | ~7,065 |
-| What have the Romans ever done for us? | 9.00% | ~7,065 |
-| Butterlord | 8.00% | ~6,280 |
-| Know your enemy | 7.00% | ~5,495 |
-| Mastery | 7.00% | ~5,495 |
-| Crush your enemies | 5.00% | ~3,925 |
-| My way | 5.00% | ~3,925 |
-| Crowdfunded | 4.00% | ~3,140 |
-| Veni vidi vici | 4.00% | ~3,140 |
-| Freedom! | 3.00% | ~2,355 |
-| Real Estate | 3.00% | ~2,355 |
+| Lawbringer | 41.00% | ~32,194 |
+| Landlord | 33.00% | ~25,912 |
+| Trained | 27.00% | ~21,201 |
+| Bannerlord | 23.00% | ~18,060 |
+| Horde breaker | 22.00% | ~17,275 |
+| Lawmaker | 22.00% | ~17,275 |
+| The king is pleased | 18.00% | ~14,134 |
+| King Solomon | 16.00% | ~12,563 |
+| Apple of my eye | 15.00% | ~11,778 |
+| I can do it | 15.00% | ~11,778 |
+| This Is Our Land | 14.00% | ~10,993 |
+| Against all odds | 13.00% | ~10,208 |
+| God of the Arena | 12.00% | ~9,423 |
+| Duelist | 11.00% | ~8,637 |
+| Swordbearer | 10.00% | ~7,852 |
+| Dynasty | 9.00% | ~7,067 |
+| I spit on your grave | 9.00% | ~7,067 |
+| What have the Romans ever done for us? | 9.00% | ~7,067 |
+| Butterlord | 8.00% | ~6,282 |
+| Know your enemy | 7.00% | ~5,496 |
+| Mastery | 7.00% | ~5,496 |
+| Crush your enemies | 5.00% | ~3,926 |
+| My way | 5.00% | ~3,926 |
+| Crowdfunded | 4.00% | ~3,141 |
+| Veni vidi vici | 4.00% | ~3,141 |
+| Freedom! | 3.00% | ~2,356 |
+| Real Estate | 3.00% | ~2,356 |
 | Long live the Empire! | 2.00% | ~1,570 |
 | Entrepreneur | 1.00% | ~785 |
 | Supreme Emperor | 1.00% | ~785 |
 | Crackshot | 0.80% | ~628 |
 | Undercover | 0.80% | ~628 |
-| Fat Cat | 0.70% | ~549 |
-| Catch | 0.50% | ~392 |
+| Fat Cat | 0.70% | ~550 |
+| Catch | 0.50% | ~393 |
 | Slice 'n dice | 0.40% | ~314 |
-| Mounted Archery | 0.30% | ~235 |
-| Ride it like you stole it | 0.30% | ~235 |
+| Mounted Archery | 0.30% | ~236 |
+| Ride it like you stole it | 0.30% | ~236 |
 | Strike! | 0.20% | ~157 |
-| Best served cold | 0.10% | ~78 |
-| Butcher of Calradia | 0.10% | ~78 |
-| Explorer | 0.10% | ~78 |
-| Great Granny | 0.10% | ~78 |
-| Headhunter | 0.10% | ~78 |
-| Heartbreaker | 0.10% | ~78 |
-| Kingslayer | 0.10% | ~78 |
-| Lance-a-lot | 0.10% | ~78 |
-| Minor Clan | 0.10% | ~78 |
-| Roadkill | 0.10% | ~78 |
-| This is Sparta! | 0.10% | ~78 |
+| Best served cold | 0.10% | ~79 |
+| Butcher of Calradia | 0.10% | ~79 |
+| Explorer | 0.10% | ~79 |
+| Great Granny | 0.10% | ~79 |
+| Headhunter | 0.10% | ~79 |
+| Heartbreaker | 0.10% | ~79 |
+| Kingslayer | 0.10% | ~79 |
+| Lance-a-lot | 0.10% | ~79 |
+| Minor Clan | 0.10% | ~79 |
+| Roadkill | 0.10% | ~79 |
+| This is Sparta! | 0.10% | ~79 |
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78,498 (Ranked 103)  
+Progressed: 78,521 (Ranked 103)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,14 +304,14 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-19 | 77,033 | 0 |
 | 2023-12-20 | 77,761 | 0 |
 | 2023-12-21 | 78,443 | 0 |
-| 2023-12-22 | 78,498 | 0 |
+| 2023-12-22 | 78,521 | 0 |
 ## Awards
-Max (Character Customization): 7,643  (Ranked 53)  
-Sum: 15,978 (Ranked 67)  
+Max (Character Customization): 7,663  (Ranked 53)  
+Sum: 15,998 (Ranked 67)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,643 |
+| This game has Inclusive Character Customization | 7,663 |
 | This game is Great for Beginners | 1,143 |
 | This game has Diverse Characters | 1,072 |
 | This game is Highly Recommended | 982 |
@@ -667,4 +667,4 @@ Diff (max vs sum): -14
 | 2023-12-19 | 4.74 | - | 7,616 | 15,923 |
 | 2023-12-20 | 4.74 | - | 7,631 | 15,947 |
 | 2023-12-21 | 4.74 | - | 7,643 | 15,975 |
-| 2023-12-22 | 4.74 | - | 7,643 | 15,978 |
+| 2023-12-22 | 4.74 | - | 7,663 | 15,998 |

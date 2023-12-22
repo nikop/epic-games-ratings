@@ -23,15 +23,15 @@
 | Minions, Minions! | 54.00% | ~328 |
 | Hard Work | 53.00% | ~322 |
 | The Big Eaty | 53.00% | ~322 |
+| “… like son” | 51.00% | ~310 |
 | YOU SHALL NOT PASS! | 50.00% | ~304 |
-| “… like son” | 50.00% | ~304 |
 | The Cathedral of Light | 48.00% | ~291 |
 | Shame! Shame! Shame! | 47.00% | ~285 |
 | Pure Dynamite! | 45.00% | ~273 |
 | Dungeonlord Gorgu | 45.00% | ~273 |
 | Tanos' Crusade Against Thalya | 45.00% | ~273 |
-| Mana Cannon | 41.00% | ~249 |
-| All’s Well That Ends Evil | 40.00% | ~243 |
+| Mana Cannon | 42.00% | ~255 |
+| All’s Well That Ends Evil | 41.00% | ~249 |
 | The Duel | 36.00% | ~219 |
 | Unstoppable Horde | 35.00% | ~212 |
 | Master of the Undead | 35.00% | ~212 |

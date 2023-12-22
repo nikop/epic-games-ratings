@@ -6,8 +6,8 @@
   "Ranking_Popularity": 436,
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 254,
-  "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_Completed": 320,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -403,9 +403,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1452,
+  "EOS_Progressed": 1453,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3548,6 +3548,11 @@
       "Time": "2023-12-21T23:10:32.840889+00:00",
       "NumProgressed": 1452,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-22T04:09:59.2206229+00:00",
+      "NumProgressed": 1453,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -3615,7 +3620,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1437
+      "UsersEstimate": 1438
     },
     {
       "ID": "EXPERT_1",
@@ -3647,7 +3652,7 @@
       "Name": "Grave Robber",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "HEAD_BURST_1",
@@ -3655,7 +3660,7 @@
       "Name": "Head Burst",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "INDY_1",
@@ -3711,7 +3716,7 @@
       "Name": "One HIT wonder",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -3815,7 +3820,7 @@
       "Name": "Traveler",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "VVE",
@@ -3846,15 +3851,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1452,
+      "Progressed": 1453,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-11-03T17:57:55.7845483+00:00",
-  "LastChanged_Achievements": "2023-12-22T03:10:10.8009972+00:00",
+  "LastChanged_Achievements": "2023-12-22T04:09:59.2206227+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:19.4071615+00:00",
-  "LastUpdate_Ratings": "2023-12-22T02:58:56.1894497+00:00",
-  "LastUpdate_Achievements": "2023-12-22T03:10:10.8010251+00:00"
+  "LastUpdate_Ratings": "2023-12-22T03:58:27.6263108+00:00",
+  "LastUpdate_Achievements": "2023-12-22T04:09:59.2206492+00:00"
 }

@@ -22,26 +22,26 @@ Number of Ratings: 85  (23.09.2022)
 | Upgreatest | 30.00% | ~27 |
 | Bodied Sattva | 30.00% | ~27 |
 | Forbidden Donut | 29.00% | ~26 |
+| Furon Fashion | 25.00% | ~22 |
 | Trans-Siberian Express | 25.00% | ~22 |
 | Deincarnated | 24.00% | ~21 |
 | Rock of the Bay | 24.00% | ~21 |
-| Furon Fashion | 24.00% | ~21 |
 | Re-Return of the Clone of the Invasion II-2 | 20.00% | ~18 |
 | Arkvoodle Doodle | 16.00% | ~14 |
-| If You Know What I Mean | 13.00% | ~12 |
+| If You Know What I Mean | 15.00% | ~13 |
+| Ouch of Body Experience | 13.00% | ~12 |
 | Dusted | 13.00% | ~12 |
-| Ouch of Body Experience | 12.00% | ~11 |
 | Die Nasty | 11.00% | ~10 |
 | Mash Machine | 10.00% | ~9 |
+| PK Slam Dunk | 9.00% | ~8 |
 | Hidden Human Hive Harvest | 9.00% | ~8 |
-| PK Slam Dunk | 8.00% | ~7 |
 | Albion Bridge Is for Falling Down | 7.00% | ~6 |
+| Higher Than the Futen Zoku | 7.00% | ~6 |
 | Scuttled | 6.00% | ~5 |
-| Higher Than the Futen Zoku | 6.00% | ~5 |
+| Arty Facts | 4.00% | ~4 |
 | Path of the Furon | 3.00% | ~3 |
-| Arty Facts | 3.00% | ~3 |
+| Cult Following | 2.00% | ~2 |
 | To Russia With Love | 2.00% | ~2 |
-| Cult Following | 1.00% | ~1 |
 | Transmitting From Sol-3 | 0.00% | ~0 |
 | Steezy Down the Spine | 0.00% | ~0 |
 | Toilet Break | 0.00% | ~0 |

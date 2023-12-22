@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 53.00% | ~117 |
-| The 4 Pillars | 49.00% | ~108 |
-| Capitalism | 20.00% | ~44 |
-| Green Energy | 11.00% | ~24 |
+| First Step | 52.00% | ~116 |
+| The 4 Pillars | 49.00% | ~109 |
+| Capitalism | 20.00% | ~45 |
+| Green Energy | 11.00% | ~25 |
 | There's something in those trees | 10.00% | ~22 |
-| Desert Power | 10.00% | ~22 |
 | Indebted | 10.00% | ~22 |
 | Great Producer | 10.00% | ~22 |
+| Desert Power | 9.00% | ~20 |
 | Desert Rat | 9.00% | ~20 |
 | Health Care | 8.00% | ~18 |
-| Perfect Soldier | 7.00% | ~15 |
-| Good payer | 7.00% | ~15 |
-| Pathfinder | 7.00% | ~15 |
-| Ammo Tycoon | 7.00% | ~15 |
+| Perfect Soldier | 7.00% | ~16 |
+| Good payer | 7.00% | ~16 |
+| Pathfinder | 7.00% | ~16 |
+| Ammo Tycoon | 7.00% | ~16 |
 | Healing | 6.00% | ~13 |
 | Food Tycoon | 6.00% | ~13 |
 | Fuel Tycoon | 6.00% | ~13 |
@@ -26,7 +26,7 @@
 | Overpopulation | 5.00% | ~11 |
 | Property Bro | 5.00% | ~11 |
 | Self-sufficient | 5.00% | ~11 |
-| Medicine Tycoon | 5.00% | ~11 |
+| Medicine Tycoon | 4.00% | ~9 |
 | Tear Down the Wall! | 3.00% | ~7 |
 | Supersoldier | 3.00% | ~7 |
 | Human Resources | 3.00% | ~7 |
@@ -40,8 +40,8 @@
 | Reconquest | 1.00% | ~2 |
 | Researcher | 1.00% | ~2 |
 | Counter-espionage | 0.90% | ~2 |
-| Conveyor Belt Madness | 0.50% | ~1 |
-| Against Adversity | 0.50% | ~1 |
+| Conveyor Belt Madness | 0.40% | ~1 |
+| Against Adversity | 0.40% | ~1 |
 | Attack of the Drones | 0.00% | ~0 |
 | Self-management | 0.00% | ~0 |
 | War Veteran | 0.00% | ~0 |
@@ -49,7 +49,7 @@
 | Sandbox Expert | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221 (Ranked 397)  
+Progressed: 223 (Ranked 396)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,3 +130,4 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-15 | 214 | 0 |
 | 2023-12-16 | 217 | 0 |
 | 2023-12-21 | 221 | 0 |
+| 2023-12-22 | 223 | 0 |

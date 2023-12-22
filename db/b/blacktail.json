@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 321,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 810,
+  "EOS_Progressed": 811,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2466,6 +2466,11 @@
       "Time": "2023-12-21T18:09:44.9804916+00:00",
       "NumProgressed": 810,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-22T04:10:02.8631738+00:00",
+      "NumProgressed": 811,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -2509,7 +2514,7 @@
       "Name": "Devil\u0027s in the details",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "Devoted",
@@ -2549,7 +2554,7 @@
       "Name": "Fishing fanatic",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Goal",
@@ -2573,7 +2578,7 @@
       "Name": "The word around is...",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "HeadOnHerShoulders",
@@ -2621,7 +2626,7 @@
       "Name": "The cycle acknowledged",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "NoMoreWards",
@@ -2677,7 +2682,7 @@
       "Name": "Baba Yaga",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ToadCharming",
@@ -2693,7 +2698,7 @@
       "Name": "Tooth fairy",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "Toxic",
@@ -2732,7 +2737,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 810,
+      "Progressed": 811,
       "Completed": 1
     }
   ],
@@ -2740,8 +2745,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2023-12-22T03:10:14.7747861+00:00",
+  "LastChanged_Achievements": "2023-12-22T04:10:02.8631736+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:13.6567295+00:00",
-  "LastUpdate_Ratings": "2023-12-22T02:58:25.1107145+00:00",
-  "LastUpdate_Achievements": "2023-12-22T03:10:14.7748153+00:00"
+  "LastUpdate_Ratings": "2023-12-22T03:58:00.6399424+00:00",
+  "LastUpdate_Achievements": "2023-12-22T04:10:02.8632029+00:00"
 }

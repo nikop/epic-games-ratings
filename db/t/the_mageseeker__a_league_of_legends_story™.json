@@ -151,9 +151,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2929,
+  "EOS_Progressed": 2930,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 191,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -4856,6 +4856,11 @@
       "Time": "2023-12-22T03:03:55.9793588+00:00",
       "NumProgressed": 2929,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-12-22T04:03:44.7494634+00:00",
+      "NumProgressed": 2930,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 53,
@@ -4931,7 +4936,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2783
+      "UsersEstimate": 2784
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -4947,7 +4952,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2255
+      "UsersEstimate": 2256
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -4971,7 +4976,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1143
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -5019,7 +5024,7 @@
       "Name": "Do you trust me?",
       "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "STB_FIND_ALL_SILVERWINGS",
@@ -5043,7 +5048,7 @@
       "Name": "Pentakill",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2255
+      "UsersEstimate": 2256
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -5051,7 +5056,7 @@
       "Name": "No more cages!",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 2665
+      "UsersEstimate": 2666
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -5083,7 +5088,7 @@
       "Name": "Dark Forest",
       "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 2255
+      "UsersEstimate": 2256
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -5099,7 +5104,7 @@
       "Name": "Clarion Cove",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1143
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -5123,7 +5128,7 @@
       "Name": "Glyndemere",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "STB_MISSION5B_COMPLETED",
@@ -5171,7 +5176,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1758
     },
     {
       "ID": "STB_PET_HORSE",
@@ -5195,7 +5200,7 @@
       "Name": "Back to sleep, then...",
       "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_I",
@@ -5219,7 +5224,7 @@
       "Name": "Iffighain Headquarters",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_IV",
@@ -5243,7 +5248,7 @@
       "Name": "The use of petricite",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2167
+      "UsersEstimate": 2168
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -5290,7 +5295,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2929,
+      "Progressed": 2930,
       "Completed": 16
     }
   ],
@@ -5298,8 +5303,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-20T21:00:13.330526+00:00",
-  "LastChanged_Achievements": "2023-12-22T03:03:55.9793585+00:00",
+  "LastChanged_Achievements": "2023-12-22T04:03:44.7494631+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:24.9335177+00:00",
-  "LastUpdate_Ratings": "2023-12-22T03:01:01.8397851+00:00",
-  "LastUpdate_Achievements": "2023-12-22T03:03:55.979444+00:00"
+  "LastUpdate_Ratings": "2023-12-22T04:02:38.9302838+00:00",
+  "LastUpdate_Achievements": "2023-12-22T04:03:44.7495233+00:00"
 }

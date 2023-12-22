@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 581,
+  "EOS_Progressed": 582,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
@@ -1434,6 +1434,11 @@
       "Time": "2023-12-21T16:11:20.3000983+00:00",
       "NumProgressed": 581,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-22T04:10:05.2603266+00:00",
+      "NumProgressed": 582,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1461,7 +1466,7 @@
       "Name": "Artifact Collector",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "Assassin",
@@ -1485,7 +1490,7 @@
       "Name": "Bug Hunter",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "Cryomancer",
@@ -1525,7 +1530,7 @@
       "Name": "Goblin Tales",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "Hardboiled",
@@ -1605,7 +1610,7 @@
       "Name": "Money Swag",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Necromancer",
@@ -1764,7 +1769,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 581,
+      "Progressed": 582,
       "Completed": 1
     }
   ],
@@ -1772,8 +1777,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-22T03:10:17.297509+00:00",
+  "LastChanged_Achievements": "2023-12-22T04:10:05.2603264+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:31.304442+00:00",
-  "LastUpdate_Ratings": "2023-12-22T03:01:02.2715496+00:00",
-  "LastUpdate_Achievements": "2023-12-22T03:10:17.2975516+00:00"
+  "LastUpdate_Ratings": "2023-12-22T04:02:39.3936807+00:00",
+  "LastUpdate_Achievements": "2023-12-22T04:10:05.2603581+00:00"
 }

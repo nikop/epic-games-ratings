@@ -182,7 +182,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 252379,
+  "EOS_Progressed": 252380,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 0,
@@ -21877,6 +21877,11 @@
       "Time": "2023-12-22T02:30:59.2734123+00:00",
       "NumProgressed": 252379,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-22T04:09:51.8402279+00:00",
+      "NumProgressed": 252380,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -21944,7 +21949,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 42904
+      "UsersEstimate": 42905
     },
     {
       "ID": "cantBeKeptDown",
@@ -22192,7 +22197,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55523
+      "UsersEstimate": 55524
     },
     {
       "ID": "thunderstruck",
@@ -22255,7 +22260,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 252379,
+      "Progressed": 252380,
       "Completed": 6
     }
   ],
@@ -22263,8 +22268,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-12-22T03:10:02.8142192+00:00",
+  "LastChanged_Achievements": "2023-12-22T04:09:51.8402277+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.4778344+00:00",
-  "LastUpdate_Ratings": "2023-12-22T03:00:21.6481893+00:00",
-  "LastUpdate_Achievements": "2023-12-22T03:10:02.8143324+00:00"
+  "LastUpdate_Ratings": "2023-12-22T03:59:44.1397334+00:00",
+  "LastUpdate_Achievements": "2023-12-22T04:09:51.8403315+00:00"
 }

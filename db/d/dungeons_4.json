@@ -4,7 +4,7 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -1867,9 +1867,9 @@
       "ID": "ach_main06transporter_towers",
       "SetID": "4hg22ll",
       "Name": "Mana Cannon",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 249
+      "UsersEstimate": 255
     },
     {
       "ID": "ach_main06transporter_transport",
@@ -1939,9 +1939,9 @@
       "ID": "ach_main09journey_completed",
       "SetID": "4hg22ll",
       "Name": "\u201C\u2026 like son\u201D",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 304
+      "UsersEstimate": 310
     },
     {
       "ID": "ach_main09journey_killheroes",
@@ -2011,9 +2011,9 @@
       "ID": "ach_main12race_completed",
       "SetID": "4hg22ll",
       "Name": "All\u2019s Well That Ends Evil",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 243
+      "UsersEstimate": 249
     },
     {
       "ID": "ach_main12race_tanosevilness",
@@ -2234,8 +2234,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-22T03:08:47.5837963+00:00",
+  "LastChanged_Achievements": "2023-12-22T04:08:44.0589928+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:09.5802782+00:00",
-  "LastUpdate_Ratings": "2023-12-22T02:23:18.485461+00:00",
-  "LastUpdate_Achievements": "2023-12-22T03:08:47.5838385+00:00"
+  "LastUpdate_Ratings": "2023-12-22T03:56:52.4230439+00:00",
+  "LastUpdate_Achievements": "2023-12-22T04:08:44.0590482+00:00"
 }

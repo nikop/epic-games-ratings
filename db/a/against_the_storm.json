@@ -3539,9 +3539,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18880,
+  "EOS_Progressed": 18883,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 709,
+  "EOS_NewPlayers": 708,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16634,6 +16634,11 @@
       "Time": "2023-12-22T03:08:23.8034469+00:00",
       "NumProgressed": 18880,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-22T04:08:23.366753+00:00",
+      "NumProgressed": 18883,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16748,9 +16753,9 @@
       "ID": "WinImpossible",
       "SetID": "cfbk359",
       "Name": "Against All Odds",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 151
+      "UsersEstimate": 170
     },
     {
       "ID": "WinNearArmory",
@@ -17117,15 +17122,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18880,
+      "Progressed": 18883,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-21T17:59:36.1497483+00:00",
-  "LastChanged_Achievements": "2023-12-22T03:08:23.8034463+00:00",
+  "LastChanged_Achievements": "2023-12-22T04:08:23.3667529+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
-  "LastUpdate_Ratings": "2023-12-22T03:00:27.7946916+00:00",
-  "LastUpdate_Achievements": "2023-12-22T03:08:23.8035545+00:00"
+  "LastUpdate_Ratings": "2023-12-22T03:59:49.5657862+00:00",
+  "LastUpdate_Achievements": "2023-12-22T04:08:23.3668356+00:00"
 }

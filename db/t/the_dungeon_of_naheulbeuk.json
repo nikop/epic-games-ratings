@@ -1545,9 +1545,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 243928,
+  "EOS_Progressed": 243934,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1147,
+  "EOS_NewPlayers": 1148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23180,6 +23180,11 @@
       "Time": "2023-12-22T03:10:09.1898742+00:00",
       "NumProgressed": 243928,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-22T04:09:57.7563562+00:00",
+      "NumProgressed": 243934,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -23207,7 +23212,7 @@
       "Name": "Holistic Adventuring Party",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 1707
+      "UsersEstimate": 1708
     },
     {
       "ID": "BarbarianEpic",
@@ -23247,7 +23252,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12196
+      "UsersEstimate": 12197
     },
     {
       "ID": "Chapter3",
@@ -23639,7 +23644,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 87814
+      "UsersEstimate": 87816
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -23655,7 +23660,7 @@
       "Name": "GG EZ",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12196
+      "UsersEstimate": 12197
     },
     {
       "ID": "EndCombatOneHp",
@@ -23703,7 +23708,7 @@
       "Name": "An old poacher makes the best gamekeeper",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1707
+      "UsersEstimate": 1708
     },
     {
       "ID": "InsultLoose",
@@ -23839,7 +23844,7 @@
       "Name": "Speedrun",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12196
+      "UsersEstimate": 12197
     },
     {
       "ID": "SupportCount4",
@@ -23894,21 +23899,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 243928,
+      "Progressed": 243934,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 243928,
+      "Progressed": 243934,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-12-20T20:02:43.3780941+00:00",
-  "LastChanged_Achievements": "2023-12-22T03:10:09.1898737+00:00",
+  "LastChanged_Achievements": "2023-12-22T04:09:57.756356+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:08.5726178+00:00",
-  "LastUpdate_Ratings": "2023-12-22T02:57:44.1827268+00:00",
-  "LastUpdate_Achievements": "2023-12-22T03:10:09.1900523+00:00"
+  "LastUpdate_Ratings": "2023-12-22T03:57:23.9869531+00:00",
+  "LastUpdate_Achievements": "2023-12-22T04:09:57.7564978+00:00"
 }

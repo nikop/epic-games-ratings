@@ -437,9 +437,9 @@
       "Count": 71
     }
   ],
-  "EOS_Progressed": 332740,
+  "EOS_Progressed": 332757,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3768,
+  "EOS_NewPlayers": 3767,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10502,6 +10502,11 @@
       "Time": "2023-12-22T03:06:34.8847996+00:00",
       "NumProgressed": 332740,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-22T04:06:08.081561+00:00",
+      "NumProgressed": 332757,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -10522,7 +10527,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 9982
+      "UsersEstimate": 9983
     },
     {
       "ID": "S03_OTWA",
@@ -10546,7 +10551,7 @@
       "Name": "Back to your senses",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 1996
+      "UsersEstimate": 1997
     },
     {
       "ID": "S06_LWTC",
@@ -10730,7 +10735,7 @@
       "Name": "Not even from this world",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "S29_RECOVER",
@@ -10746,7 +10751,7 @@
       "Name": "Bring it on!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1996
+      "UsersEstimate": 1997
     },
     {
       "ID": "S31_CHNG_DIAMOND",
@@ -10810,7 +10815,7 @@
       "Name": "Chaos be damned!",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "S39_END_RAPTURE",
@@ -10826,14 +10831,14 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3327
+      "UsersEstimate": 3328
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 332740,
+      "Progressed": 332757,
       "Completed": 5
     }
   ],
@@ -10841,8 +10846,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-20T17:57:35.3329235+00:00",
-  "LastChanged_Achievements": "2023-12-22T03:06:34.8847992+00:00",
+  "LastChanged_Achievements": "2023-12-22T04:06:08.0815609+00:00",
   "LastUpdate_AppInfo": "2023-12-21T21:57:06.8306267+00:00",
-  "LastUpdate_Ratings": "2023-12-22T02:58:18.9120426+00:00",
-  "LastUpdate_Achievements": "2023-12-22T03:06:34.8848552+00:00"
+  "LastUpdate_Ratings": "2023-12-22T03:57:54.8833339+00:00",
+  "LastUpdate_Achievements": "2023-12-22T04:06:08.0816199+00:00"
 }

@@ -5,35 +5,35 @@ Rating: 4.54 (Ranked 533)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 5.00% | ~37,839 |
-| Welcome To Hell-A | 5.00% | ~37,839 |
-| Break A Leg | 4.00% | ~30,271 |
-| Coup de Grâce | 4.00% | ~30,271 |
-| Hazardous Materials | 4.00% | ~30,271 |
-| Dr. Reed, I Presume? | 3.00% | ~22,703 |
-| Git Gutte! | 3.00% | ~22,703 |
-| Bookworm | 3.00% | ~22,703 |
-| Friends Like These | 3.00% | ~22,703 |
-| Apex Predator | 3.00% | ~22,703 |
-| Stacking the Deck | 3.00% | ~22,703 |
-| Personal Assistant Personally Assisted | 3.00% | ~22,703 |
-| One of Us | 3.00% | ~2,470 |
-| Whatever It Takes | 3.00% | ~2,470 |
-| Pork Chopped | 3.00% | ~2,470 |
-| Making Your Mark | 2.00% | ~15,136 |
-| Anger Management | 2.00% | ~15,136 |
-| Perks of the Job | 2.00% | ~15,136 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~15,136 |
-| But Doctor, I am Butcho | 2.00% | ~15,136 |
-| Slayer Squad | 2.00% | ~15,136 |
-| Can't Handle the Truth | 2.00% | ~15,136 |
-| Like Riding a Bike | 2.00% | ~15,136 |
-| Zombologist | 2.00% | ~15,136 |
-| Ooh, Shiny! | 2.00% | ~15,136 |
-| A Patton Emerges | 2.00% | ~15,136 |
-| I Am the Resurrection | 2.00% | ~15,136 |
-| Our True Nature | 2.00% | ~15,136 |
-| This is My Weapon | 2.00% | ~15,136 |
+| Hotel California | 5.00% | ~37,842 |
+| Welcome To Hell-A | 5.00% | ~37,842 |
+| Break A Leg | 4.00% | ~30,274 |
+| Coup de Grâce | 4.00% | ~30,274 |
+| Hazardous Materials | 4.00% | ~30,274 |
+| Dr. Reed, I Presume? | 3.00% | ~22,705 |
+| Git Gutte! | 3.00% | ~22,705 |
+| Bookworm | 3.00% | ~22,705 |
+| Friends Like These | 3.00% | ~22,705 |
+| Apex Predator | 3.00% | ~22,705 |
+| Stacking the Deck | 3.00% | ~22,705 |
+| Personal Assistant Personally Assisted | 3.00% | ~22,705 |
+| One of Us | 3.00% | ~2,471 |
+| Whatever It Takes | 3.00% | ~2,471 |
+| Pork Chopped | 3.00% | ~2,471 |
+| Making Your Mark | 2.00% | ~15,137 |
+| Anger Management | 2.00% | ~15,137 |
+| Perks of the Job | 2.00% | ~15,137 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~15,137 |
+| But Doctor, I am Butcho | 2.00% | ~15,137 |
+| Slayer Squad | 2.00% | ~15,137 |
+| Can't Handle the Truth | 2.00% | ~15,137 |
+| Like Riding a Bike | 2.00% | ~15,137 |
+| Zombologist | 2.00% | ~15,137 |
+| Ooh, Shiny! | 2.00% | ~15,137 |
+| A Patton Emerges | 2.00% | ~15,137 |
+| I Am the Resurrection | 2.00% | ~15,137 |
+| Our True Nature | 2.00% | ~15,137 |
+| This is My Weapon | 2.00% | ~15,137 |
 | Not Even My Final Form | 1.00% | ~7,568 |
 | Jumbo Keyring | 1.00% | ~7,568 |
 | Humanity Distilled | 1.00% | ~7,568 |
@@ -41,23 +41,23 @@ Rating: 4.54 (Ranked 533)
 | Max Headroom | 1.00% | ~7,568 |
 | Go, Bobcats! | 1.00% | ~7,568 |
 | Rising Star | 1.00% | ~7,568 |
-| Smorgasbord | 0.80% | ~6,054 |
-| Internet Famous | 0.80% | ~6,054 |
-| Variety is the Spice of Death | 0.80% | ~6,054 |
-| Make it So | 0.70% | ~5,297 |
-| On Safari | 0.70% | ~5,297 |
+| Smorgasbord | 0.80% | ~6,055 |
+| Internet Famous | 0.80% | ~6,055 |
+| Variety is the Spice of Death | 0.80% | ~6,055 |
+| Make it So | 0.70% | ~5,298 |
+| On Safari | 0.70% | ~5,298 |
 | LA Influential | 0.60% | ~4,541 |
 | Sole Survivor | 0.50% | ~3,784 |
 | Gore Horse | 0.50% | ~3,784 |
 | Sharpest Tool in the Box | 0.50% | ~3,784 |
-| Top That, Tisha! | 0.40% | ~329 |
-| Survival Skills | 0.30% | ~2,270 |
+| Top That, Tisha! | 0.40% | ~330 |
+| Survival Skills | 0.30% | ~2,271 |
 | Donk! | 0.20% | ~1,514 |
 | Lawn and Order | 0.20% | ~165 |
 | Bucket List | 0.10% | ~757 |
 | Wilhelm | 0.10% | ~82 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 756,783 (Ranked 21)  
+Progressed: 756,840 (Ranked 21)  
 Completed: 2,495 (0.33%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 2,495 (0.33%) (Ranked 244)
 | 2023-12-19 | 752,530 | 2,488 |
 | 2023-12-20 | 754,472 | 2,488 |
 | 2023-12-21 | 756,474 | 2,494 |
-| 2023-12-22 | 756,783 | 2,495 |
+| 2023-12-22 | 756,840 | 2,495 |
 ## Awards
 Max (Great Boss Battles): 8,535  (Ranked 46)  
 Sum: 13,081 (Ranked 80)  

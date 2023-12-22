@@ -5,16 +5,16 @@ Rating: 4.78 (Ranked 110)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,783 |
-| No more cages! | 91.00% | ~2,665 |
-| Everfrost | 77.00% | ~2,255 |
-| Pentakill | 77.00% | ~2,255 |
-| Dark Forest | 77.00% | ~2,255 |
-| The use of petricite | 74.00% | ~2,167 |
-| You can pet the dog | 60.00% | ~1,757 |
+| For Demacia | 95.00% | ~2,784 |
+| No more cages! | 91.00% | ~2,666 |
+| Everfrost | 77.00% | ~2,256 |
+| Pentakill | 77.00% | ~2,256 |
+| Dark Forest | 77.00% | ~2,256 |
+| The use of petricite | 74.00% | ~2,168 |
+| You can pet the dog | 60.00% | ~1,758 |
 | Thornbarrow | 41.00% | ~1,201 |
-| Big Helmet Bro | 39.00% | ~1,142 |
-| Clarion Cove | 39.00% | ~1,142 |
+| Big Helmet Bro | 39.00% | ~1,143 |
+| Clarion Cove | 39.00% | ~1,143 |
 | Elemental master | 37.00% | ~1,084 |
 | Past trauma | 37.00% | ~1,084 |
 | Ternmoat Headquarters | 37.00% | ~1,084 |
@@ -30,8 +30,8 @@ Rating: 4.78 (Ranked 110)
 | Little light | 23.00% | ~674 |
 | Capelworth | 23.00% | ~674 |
 | Full equipped | 23.00% | ~674 |
-| Glyndemere | 22.00% | ~644 |
-| Iffighain Headquarters | 22.00% | ~644 |
+| Glyndemere | 22.00% | ~645 |
+| Iffighain Headquarters | 22.00% | ~645 |
 | Whispers in the Woods II | 19.00% | ~557 |
 | No more holding back | 18.00% | ~527 |
 | Terbisia | 18.00% | ~527 |
@@ -50,8 +50,8 @@ Rating: 4.78 (Ranked 110)
 | The Great City of Demacia | 13.00% | ~381 |
 | Truth is a dark mirror | 13.00% | ~381 |
 | Call it 'redistribution of magic | 13.00% | ~381 |
-| Do you trust me? | 12.00% | ~351 |
-| Back to sleep, then... | 12.00% | ~351 |
+| Do you trust me? | 12.00% | ~352 |
+| Back to sleep, then... | 12.00% | ~352 |
 | Chains master | 11.00% | ~322 |
 | The great mage rebellion starts now | 11.00% | ~322 |
 | You can pet the... horse | 11.00% | ~322 |
@@ -59,7 +59,7 @@ Rating: 4.78 (Ranked 110)
 | Silverwing nest | 2.00% | ~59 |
 | The Unshackled | 1.00% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,929 (Ranked 219)  
+Progressed: 2,930 (Ranked 219)  
 Completed: 16 (0.55%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 16 (0.55%) (Ranked 205)
 | 2023-12-19 | 2,879 | 16 |
 | 2023-12-20 | 2,898 | 16 |
 | 2023-12-21 | 2,923 | 16 |
-| 2023-12-22 | 2,929 | 16 |
+| 2023-12-22 | 2,930 | 16 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

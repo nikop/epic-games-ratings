@@ -7,12 +7,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 9.00% | ~350 |
-| Lost and Found | 6.00% | ~233 |
+| Lost and Found | 6.00% | ~234 |
 | This Belongs in a Museum | 4.00% | ~5,161 |
 | Autodidact | 4.00% | ~5,161 |
-| This guy... again? | 4.00% | ~155 |
-| Ploughshares to Swords | 4.00% | ~155 |
-| Bloody Graduation | 4.00% | ~155 |
+| This guy... again? | 4.00% | ~156 |
+| Ploughshares to Swords | 4.00% | ~156 |
+| Bloody Graduation | 4.00% | ~156 |
 | Don't Make Me Turn This Coach Around | 3.00% | ~3,871 |
 | Serenity Now! | 3.00% | ~3,871 |
 | Not Today! | 3.00% | ~3,871 |
@@ -57,8 +57,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Worldly Traveller | 1.00% | ~1,290 |
 | Utopia | 1.00% | ~1,290 |
 | Hot Air | 1.00% | ~1,290 |
+| Eyes Up | 1.00% | ~1,290 |
 | This Looks Familiar | 0.90% | ~1,161 |
-| Eyes Up | 0.90% | ~1,161 |
 | Slap on the Wrist | 0.90% | ~35 |
 | For Old Time' Sake | 0.80% | ~31 |
 | Handled | 0.70% | ~903 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,017 (Ranked 86)  
+Progressed: 129,025 (Ranked 86)  
 Completed: 3 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,10 +322,10 @@ Completed: 3 (0.00%) (Ranked 384)
 | 2023-12-19 | 128,605 | 3 |
 | 2023-12-20 | 128,785 | 3 |
 | 2023-12-21 | 128,979 | 3 |
-| 2023-12-22 | 129,017 | 3 |
+| 2023-12-22 | 129,025 | 3 |
 ## Awards
 Max (Character Customization): 7,823  (Ranked 50)  
-Sum: 20,906 (Ranked 58)  
+Sum: 20,910 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -334,7 +334,7 @@ Diff (max vs sum): -8
 | This game has Challenging Combat | 1,619 |
 | This game is Highly Recommended | 1,557 |
 | This game is Extremely Fun | 1,481 |
-| This game has Amazing Characters | 1,477 |
+| This game has Amazing Characters | 1,481 |
 | This game has Unique Visuals | 1,401 |
 | This game has Amazing Storytelling | 1,398 |
 | This game has Quickly Understood Controls | 1,367 |
@@ -672,4 +672,4 @@ Diff (max vs sum): -8
 | 2023-12-19 | 4.68 | - | 7,795 | 20,806 |
 | 2023-12-20 | 4.68 | - | 7,805 | 20,840 |
 | 2023-12-21 | 4.68 | - | 7,823 | 20,903 |
-| 2023-12-22 | 4.68 | - | 7,823 | 20,906 |
+| 2023-12-22 | 4.68 | - | 7,823 | 20,910 |

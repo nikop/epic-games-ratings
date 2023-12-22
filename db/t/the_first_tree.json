@@ -2,7 +2,7 @@
   "ID": "489c2ca47aaa4190b694184b979d3b23",
   "Name": "The First Tree",
   "ProductSlug": "the-first-tree",
-  "Ranking_Rating": 1013,
+  "Ranking_Rating": 1014,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 127,
@@ -271,9 +271,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 39304,
+  "EOS_Progressed": 39306,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 307,
+  "EOS_NewPlayers": 306,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -21636,6 +21636,11 @@
       "Time": "2023-12-22T03:05:01.5315681+00:00",
       "NumProgressed": 39304,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-12-22T04:04:43.7002106+00:00",
+      "NumProgressed": 39306,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 14,
@@ -21663,7 +21668,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 10219
+      "UsersEstimate": 10220
     },
     {
       "ID": "allItems",
@@ -21695,7 +21700,7 @@
       "Name": "Joseph",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 3537
+      "UsersEstimate": 3538
     },
     {
       "ID": "completionist",
@@ -21735,7 +21740,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 30264
+      "UsersEstimate": 30266
     },
     {
       "ID": "roots",
@@ -21758,15 +21763,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 39304,
+      "Progressed": 39306,
       "Completed": 121
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-12-09T15:00:19.5920578+00:00",
-  "LastChanged_Achievements": "2023-12-22T03:05:01.5315676+00:00",
+  "LastChanged_Achievements": "2023-12-22T04:04:43.7002095+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:34.0215734+00:00",
-  "LastUpdate_Ratings": "2023-12-22T02:59:53.6996304+00:00",
-  "LastUpdate_Achievements": "2023-12-22T03:05:01.5316776+00:00"
+  "LastUpdate_Ratings": "2023-12-22T03:59:19.1573173+00:00",
+  "LastUpdate_Achievements": "2023-12-22T04:04:43.7003217+00:00"
 }

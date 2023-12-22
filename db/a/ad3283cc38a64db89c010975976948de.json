@@ -293,9 +293,9 @@
       "ID": "LEVEL_060_003",
       "SetID": "5g7b0mb",
       "Name": "Sidewalk - 60 pieces",
-      "Percentage": 54,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "LEVEL_060_004",
@@ -524,8 +524,8 @@
   ],
   "FirstSeen": "2023-10-25T11:59:09.0555301+00:00",
   "FirstSeenAchievements": "2023-09-22T13:08:37.9195504+00:00",
-  "LastChanged_Achievements": "2023-12-22T03:08:38.0469405+00:00",
+  "LastChanged_Achievements": "2023-12-22T04:08:35.7761403+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:08.6017273+00:00",
-  "LastUpdate_Ratings": "2023-12-22T02:57:28.1192252+00:00",
-  "LastUpdate_Achievements": "2023-12-22T03:08:38.0469609+00:00"
+  "LastUpdate_Ratings": "2023-12-22T03:57:09.8858951+00:00",
+  "LastUpdate_Achievements": "2023-12-22T04:08:35.7761596+00:00"
 }

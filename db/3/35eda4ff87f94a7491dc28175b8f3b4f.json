@@ -257,9 +257,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16500,
+  "EOS_Progressed": 16505,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 1771,
+  "EOS_NewPlayers": 1767,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -5237,6 +5237,11 @@
       "Time": "2023-12-22T03:08:30.559246+00:00",
       "NumProgressed": 16500,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-12-22T04:08:28.7715938+00:00",
+      "NumProgressed": 16505,
+      "NumCompleted": 73
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -5249,7 +5254,7 @@
       "Name": "Avid Reader",
       "Percentage": 0.7,
       "XP": 90,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "BEAM_ME_UP_SCOTTY_1_7",
@@ -5265,7 +5270,7 @@
       "Name": "Good Listener",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "MORBIDLY_CURIOUS_1_8",
@@ -5297,7 +5302,7 @@
       "Name": "Rescuer",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1980
+      "UsersEstimate": 1981
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -5328,7 +5333,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 16500,
+      "Progressed": 16505,
       "Completed": 73
     }
   ],
@@ -5336,8 +5341,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2023-12-18T03:58:42.6359817+00:00",
-  "LastChanged_Achievements": "2023-12-22T03:08:30.5592454+00:00",
+  "LastChanged_Achievements": "2023-12-22T04:08:28.7715935+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:56.7597495+00:00",
-  "LastUpdate_Ratings": "2023-12-22T03:00:43.6859674+00:00",
-  "LastUpdate_Achievements": "2023-12-22T03:08:30.5592772+00:00"
+  "LastUpdate_Ratings": "2023-12-22T04:00:03.4885744+00:00",
+  "LastUpdate_Achievements": "2023-12-22T04:08:28.7716222+00:00"
 }

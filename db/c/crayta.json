@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewPlayers": 336,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": null,
@@ -332,9 +332,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 109907,
+  "EOS_Progressed": 109908,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3627,6 +3627,11 @@
       "Time": "2023-12-22T01:52:53.7281715+00:00",
       "NumProgressed": 109907,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-22T04:08:24.7257861+00:00",
+      "NumProgressed": 109908,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -3886,7 +3891,7 @@
       "Name": "Express Yourself - Bronze",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 7693
+      "UsersEstimate": 7694
     },
     {
       "ID": "7",
@@ -3909,15 +3914,15 @@
     {
       "ID": "4i9cj6f",
       "IsBase": true,
-      "Progressed": 109907,
+      "Progressed": 109908,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00",
   "LastChanged": "2023-01-05T14:57:39.5556866+00:00",
-  "LastChanged_Achievements": "2023-12-22T03:08:25.2704859+00:00",
+  "LastChanged_Achievements": "2023-12-22T04:08:24.7257859+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:17.171157+00:00",
-  "LastUpdate_Ratings": "2023-12-22T03:00:36.1735767+00:00",
-  "LastUpdate_Achievements": "2023-12-22T03:08:25.2705229+00:00"
+  "LastUpdate_Ratings": "2023-12-22T03:59:56.8279174+00:00",
+  "LastUpdate_Achievements": "2023-12-22T04:08:24.7258209+00:00"
 }

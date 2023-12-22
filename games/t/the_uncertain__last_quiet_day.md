@@ -5,25 +5,25 @@ Rating: 3.75 (Ranked 1,061)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I can do a thing or two | 60.00% | ~361 |
-| Buckle up | 59.00% | ~355 |
-| Quick charge | 59.00% | ~355 |
-| Hands up! | 53.00% | ~319 |
-| Now you know | 53.00% | ~319 |
-| Short circuit | 53.00% | ~319 |
+| I can do a thing or two | 60.00% | ~362 |
+| Buckle up | 59.00% | ~356 |
+| Quick charge | 59.00% | ~356 |
+| Hands up! | 53.00% | ~320 |
+| Now you know | 53.00% | ~320 |
+| Short circuit | 53.00% | ~320 |
 | Curious | 43.00% | ~259 |
 | Everybody lies | 36.00% | ~217 |
-| Trick or Treat? | 24.00% | ~144 |
-| There is another way | 23.00% | ~138 |
-| Sysadmin | 22.00% | ~132 |
-| Every little helps | 21.00% | ~126 |
-| The Walking Robot Among Us | 20.00% | ~120 |
-| Annoying | 19.00% | ~114 |
-| Hacker | 19.00% | ~114 |
-| He is just a child | 19.00% | ~114 |
-| Uncertain | 18.00% | ~108 |
-| Goody | 17.00% | ~102 |
-| Please oh pleeease! | 17.00% | ~102 |
+| Trick or Treat? | 24.00% | ~145 |
+| There is another way | 23.00% | ~139 |
+| Sysadmin | 22.00% | ~133 |
+| Every little helps | 21.00% | ~127 |
+| The Walking Robot Among Us | 20.00% | ~121 |
+| Annoying | 19.00% | ~115 |
+| Hacker | 19.00% | ~115 |
+| He is just a child | 19.00% | ~115 |
+| Uncertain | 18.00% | ~109 |
+| Goody | 17.00% | ~103 |
+| Please oh pleeease! | 17.00% | ~103 |
 | Ace | 16.00% | ~96 |
 | Concrete painting | 16.00% | ~96 |
 | Found it! | 16.00% | ~96 |
@@ -38,8 +38,8 @@ Rating: 3.75 (Ranked 1,061)
 | Accurate | 5.00% | ~30 |
 | Silent | 4.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 602 (Ranked 317)  
-Completed: 19 (3.16%) (Ranked 109)  
+Progressed: 603 (Ranked 317)  
+Completed: 19 (3.15%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -172,6 +172,7 @@ Completed: 19 (3.16%) (Ranked 109)
 | 2023-12-19 | 599 | 19 |
 | 2023-12-20 | 600 | 19 |
 | 2023-12-21 | 602 | 19 |
+| 2023-12-22 | 603 | 19 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

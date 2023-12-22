@@ -1,15 +1,15 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 1,020)  
+Rating: 3.99 (Ranked 1,021)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 9.00% | ~13,215 |
-| Titan's First Steps | 9.00% | ~13,215 |
-| Basic in Bulk | 8.00% | ~11,746 |
-| Tinkle of Coins | 8.00% | ~11,746 |
+| Sponsored by Argon | 9.00% | ~13,216 |
+| Titan's First Steps | 9.00% | ~13,216 |
+| Basic in Bulk | 8.00% | ~11,747 |
+| Tinkle of Coins | 8.00% | ~11,747 |
 | Disintermediation | 6.00% | ~8,810 |
 | It's Free Real Estate | 6.00% | ~8,810 |
 | Capitalism Ho! | 6.00% | ~8,810 |
@@ -18,12 +18,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Another Satisfied Customer | 5.00% | ~7,342 |
 | Budding Merchant | 5.00% | ~7,342 |
 | Own the Means of Production | 5.00% | ~7,342 |
-| The Daily Grind | 4.00% | ~5,873 |
-| Bounty Hunters | 4.00% | ~5,873 |
-| Where it Hurts | 4.00% | ~5,873 |
-| Pretty Penny | 4.00% | ~5,873 |
-| One-Armed Bandit | 4.00% | ~5,873 |
-| Through Repetition, Perfection | 4.00% | ~5,873 |
+| The Daily Grind | 4.00% | ~5,874 |
+| Bounty Hunters | 4.00% | ~5,874 |
+| Where it Hurts | 4.00% | ~5,874 |
+| Pretty Penny | 4.00% | ~5,874 |
+| One-Armed Bandit | 4.00% | ~5,874 |
+| Through Repetition, Perfection | 4.00% | ~5,874 |
 | On the Path to Greatness | 3.00% | ~4,405 |
 | Ascended | 3.00% | ~4,405 |
 | Research & Development | 3.00% | ~4,405 |
@@ -105,7 +105,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Jackpot! | 1.00% | ~1,468 |
 | Eternal Crusade | 1.00% | ~1,468 |
 | Economy of Scarce | 1.00% | ~1,468 |
-| All or Nothing! | 0.90% | ~1,321 |
+| All or Nothing! | 0.90% | ~1,322 |
 | The Greatest Grind | 0.80% | ~1,175 |
 | Marvels from the World Over | 0.80% | ~1,175 |
 | Bane of Legends | 0.70% | ~1,028 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~587 |
 | Capitalist Camaraderie | 0.20% | ~294 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 146,831 (Ranked 82)  
+Progressed: 146,840 (Ranked 82)  
 Completed: 329 (0.22%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -365,7 +365,7 @@ Completed: 329 (0.22%) (Ranked 266)
 | 2023-12-19 | 146,428 | 325 |
 | 2023-12-20 | 146,580 | 325 |
 | 2023-12-21 | 146,796 | 328 |
-| 2023-12-22 | 146,831 | 329 |
+| 2023-12-22 | 146,840 | 329 |
 ## Awards
 Max (Great for Beginners): 4,900  (Ranked 75)  
 Sum: 27,772 (Ranked 52)  

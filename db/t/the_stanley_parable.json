@@ -2,12 +2,12 @@
   "ID": "4c00c7506c4b4fa695f749bd6bb07ff6",
   "Name": "The Stanley Parable",
   "ProductSlug": "the-stanley-parable",
-  "Ranking_Rating": 188,
+  "Ranking_Rating": 187,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 814,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewPlayers": 562,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -376,6 +376,6 @@
   "FirstSeen": "2022-07-22T20:19:56.8335668+00:00",
   "LastChanged": "2023-11-04T22:03:25.203537+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:50:00.5839089+00:00",
-  "LastUpdate_Ratings": "2023-12-22T03:03:22.9080495+00:00",
-  "LastUpdate_Achievements": "2023-12-22T03:04:04.6927997+00:00"
+  "LastUpdate_Ratings": "2023-12-22T04:03:14.1227193+00:00",
+  "LastUpdate_Achievements": "2023-12-22T04:03:52.0686127+00:00"
 }

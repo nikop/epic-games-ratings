@@ -36,7 +36,7 @@
 | Extreme neuropower! | 51.00% | ~225 |
 | Legal courier | 50.00% | ~221 |
 | Escaped from a big trouble | 47.00% | ~208 |
-| Now you are worthy | 44.00% | ~194 |
+| Now you are worthy | 45.00% | ~199 |
 | Fight is life | 43.00% | ~190 |
 | Mysterious voice | 42.00% | ~186 |
 | Guiding on the right path | 42.00% | ~186 |

@@ -6,32 +6,32 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 3.00% | ~22,171 |
-| Life is your teacher | 3.00% | ~22,171 |
-| Lightning Hands | 3.00% | ~22,171 |
+| The Old Grandmaster | 3.00% | ~22,172 |
+| Life is your teacher | 3.00% | ~22,172 |
+| Lightning Hands | 3.00% | ~22,172 |
 | The Assault | 2.00% | ~14,781 |
 | The Hateful Pole Fighter | 2.00% | ~14,781 |
 | State of constant learning | 2.00% | ~14,781 |
 | Qi Gong: Essence | 2.00% | ~14,781 |
 | Old Child | 2.00% | ~14,781 |
-| A Lady's Blood in the Snow | 1.00% | ~7,390 |
-| Lady Wing Chun | 1.00% | ~7,390 |
-| Kill Nil | 1.00% | ~7,390 |
-| Stuntmaster | 1.00% | ~7,390 |
-| Street Fighting | 1.00% | ~7,390 |
-| Qi Gong: Breath | 1.00% | ~7,390 |
-| I know Kung-Fu | 1.00% | ~7,390 |
-| Path of the Prospect | 1.00% | ~7,390 |
-| Rumble in the Hangar | 1.00% | ~7,390 |
-| Diligence as a goal | 1.00% | ~483 |
-| Furious Fists | 0.90% | ~6,651 |
-| Qi Gong: Mind | 0.90% | ~6,651 |
-| Take damage to save time | 0.90% | ~6,651 |
+| A Lady's Blood in the Snow | 1.00% | ~7,391 |
+| Lady Wing Chun | 1.00% | ~7,391 |
+| Kill Nil | 1.00% | ~7,391 |
+| Stuntmaster | 1.00% | ~7,391 |
+| Street Fighting | 1.00% | ~7,391 |
+| Qi Gong: Breath | 1.00% | ~7,391 |
+| I know Kung-Fu | 1.00% | ~7,391 |
+| Path of the Prospect | 1.00% | ~7,391 |
+| Rumble in the Hangar | 1.00% | ~7,391 |
+| Diligence as a goal | 1.00% | ~484 |
+| Furious Fists | 0.90% | ~6,652 |
+| Qi Gong: Mind | 0.90% | ~6,652 |
+| Take damage to save time | 0.90% | ~6,652 |
 | Project Arena | 0.90% | ~435 |
-| Scareless | 0.70% | ~5,173 |
-| Dance of the Praying Mantis | 0.70% | ~5,173 |
-| Kung-Fu Tussle | 0.70% | ~5,173 |
-| Fight the way you practice | 0.70% | ~338 |
+| Scareless | 0.70% | ~5,174 |
+| Dance of the Praying Mantis | 0.70% | ~5,174 |
+| Kung-Fu Tussle | 0.70% | ~5,174 |
+| Fight the way you practice | 0.70% | ~339 |
 | Martial Hub | 0.60% | ~290 |
 | Bloody Sport | 0.50% | ~242 |
 | Muk Yan Master | 0.40% | ~2,956 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~48 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 739,026 (Ranked 23)  
+Progressed: 739,073 (Ranked 23)  
 Completed: 12,959 (1.75%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 12,959 (1.75%) (Ranked 140)
 | 2023-12-19 | 736,295 | 12,958 |
 | 2023-12-20 | 737,594 | 12,958 |
 | 2023-12-21 | 738,913 | 12,958 |
-| 2023-12-22 | 739,026 | 12,959 |
+| 2023-12-22 | 739,073 | 12,959 |
 ## Awards
 Max (Great Boss Battles): 6,978  (Ranked 55)  
 Sum: 11,800 (Ranked 87)  

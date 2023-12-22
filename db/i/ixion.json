@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -319,7 +319,7 @@
   "Tags": [],
   "EOS_Progressed": 3626,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6859,9 +6859,9 @@
       "ID": "ACH_BASE_10",
       "SetID": "92iocjf",
       "Name": "Man\u0027s Best Friend",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 326
     },
     {
       "ID": "ACH_BASE_11",
@@ -7322,8 +7322,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-21T17:56:57.5768777+00:00",
-  "LastChanged_Achievements": "2023-12-22T03:04:38.9437715+00:00",
+  "LastChanged_Achievements": "2023-12-22T04:04:23.1854716+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.6786359+00:00",
-  "LastUpdate_Ratings": "2023-12-22T02:57:29.6267606+00:00",
-  "LastUpdate_Achievements": "2023-12-22T03:04:38.9438444+00:00"
+  "LastUpdate_Ratings": "2023-12-22T03:57:11.2022218+00:00",
+  "LastUpdate_Achievements": "2023-12-22T04:04:23.1855313+00:00"
 }

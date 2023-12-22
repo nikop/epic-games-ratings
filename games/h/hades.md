@@ -6,12 +6,12 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 88.00% | ~633,738 |
-| Escaped Asphodel | 79.00% | ~568,924 |
-| Arms Collector | 70.00% | ~504,110 |
-| Friends in High Places | 67.00% | ~482,505 |
-| Escaped Elysium | 65.00% | ~468,102 |
-| Chthonic Colleagues | 62.00% | ~446,497 |
+| Escaped Tartarus | 88.00% | ~633,739 |
+| Escaped Asphodel | 79.00% | ~568,925 |
+| Arms Collector | 70.00% | ~504,111 |
+| Friends in High Places | 67.00% | ~482,506 |
+| Escaped Elysium | 65.00% | ~468,103 |
+| Chthonic Colleagues | 62.00% | ~446,498 |
 | Is There No Escape? | 52.00% | ~374,482 |
 | Death Dealer | 45.00% | ~324,071 |
 | Skelly Slayer | 42.00% | ~302,466 |
@@ -24,9 +24,9 @@ Number of Ratings: 6,336  (23.09.2022)
 | Three-Headed Boy | 31.00% | ~223,249 |
 | River Denizens | 28.00% | ~201,644 |
 | Grown Close | 28.00% | ~201,644 |
-| Home Makeover | 27.00% | ~194,442 |
-| Had to Happen | 25.00% | ~180,039 |
-| The Family Secret | 25.00% | ~180,039 |
+| Home Makeover | 27.00% | ~194,443 |
+| Had to Happen | 25.00% | ~180,040 |
+| The Family Secret | 25.00% | ~180,040 |
 | Tools of the Architect | 23.00% | ~165,636 |
 | Master of Arms | 23.00% | ~165,636 |
 | To Charon's Credit | 22.00% | ~158,435 |
@@ -37,8 +37,8 @@ Number of Ratings: 6,336  (23.09.2022)
 | Well Versed | 17.00% | ~122,427 |
 | War-God's Bloodlust | 15.00% | ~108,024 |
 | Musician and Muse | 14.00% | ~100,822 |
-| The Useless Trinket | 13.00% | ~93,620 |
-| Champion of Elysium | 13.00% | ~93,620 |
+| The Useless Trinket | 13.00% | ~93,621 |
+| Champion of Elysium | 13.00% | ~93,621 |
 | Slashed Benefits | 12.00% | ~86,419 |
 | Haste of Hermes | 11.00% | ~79,217 |
 | Bad Call | 10.00% | ~72,016 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~28,806 |
 | Friends Forever | 4.00% | ~28,806 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 720,157 (Ranked 26)  
+Progressed: 720,158 (Ranked 26)  
 Completed: 6,555 (0.91%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,10 +302,10 @@ Completed: 6,555 (0.91%) (Ranked 179)
 | 2023-12-19 | 719,823 | 6,549 |
 | 2023-12-20 | 719,974 | 6,552 |
 | 2023-12-21 | 720,134 | 6,554 |
-| 2023-12-22 | 720,157 | 6,555 |
+| 2023-12-22 | 720,158 | 6,555 |
 ## Awards
 Max (Character Customization): 3,456  (Ranked 93)  
-Sum: 8,438 (Ranked 103)  
+Sum: 8,439 (Ranked 103)  
 Diff (max vs sum): -10  
 | Award | Count |
 | ----- | ----- |
@@ -316,7 +316,7 @@ Diff (max vs sum): -10
 | This game is Extremely Fun | 267 |
 | This game has Amazing Storytelling | 266 |
 | This game has Amazing Characters | 263 |
-| This game has Diverse Characters | 257 |
+| This game has Diverse Characters | 258 |
 | This game has Quickly Understood Controls | 251 |
 | This game is Relaxing | 247 |
 | This game has Unique Visuals | 240 |
@@ -639,4 +639,4 @@ Diff (max vs sum): -10
 | 2023-12-19 | 4.92 | - | 3,450 | 8,424 |
 | 2023-12-20 | 4.92 | - | 3,456 | 8,433 |
 | 2023-12-21 | 4.92 | - | 3,456 | 8,436 |
-| 2023-12-22 | 4.92 | - | 3,456 | 8,438 |
+| 2023-12-22 | 4.92 | - | 3,456 | 8,439 |

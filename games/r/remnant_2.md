@@ -5,31 +5,31 @@ Rating: 4.74 (Ranked 162)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 6.00% | ~15,526 |
-| First of Many | 6.00% | ~15,526 |
-| Not Your Average Trait | 5.00% | ~12,938 |
-| Expanding Horizons | 4.00% | ~10,351 |
-| Quest for Survival | 4.00% | ~10,351 |
-| Gleaming the Cube | 3.00% | ~7,763 |
-| Not a Janitor | 3.00% | ~7,763 |
-| Familiar Face | 3.00% | ~7,763 |
-| Boss'n Up | 3.00% | ~7,763 |
-| Trait Chaser | 3.00% | ~7,763 |
-| Chaos | 2.00% | ~5,175 |
-| Power Surge | 2.00% | ~5,175 |
-| The God Gambit | 2.00% | ~5,175 |
-| Dark Designs | 2.00% | ~5,175 |
-| Not So Special Now | 2.00% | ~5,175 |
-| Equal Measures | 2.00% | ~5,175 |
-| Blue Goddess | 2.00% | ~5,175 |
-| Duality | 2.00% | ~5,175 |
-| Top Performer | 2.00% | ~5,175 |
-| Shhh...It's a Secret | 2.00% | ~5,175 |
-| Was This Supposed To Happen? | 2.00% | ~5,175 |
-| The Web | 2.00% | ~5,175 |
-| Almost There | 2.00% | ~5,175 |
-| Make Some Room | 2.00% | ~5,175 |
-| Good, But Could Be Better! | 2.00% | ~5,175 |
+| The Killing Jar | 6.00% | ~15,530 |
+| First of Many | 6.00% | ~15,530 |
+| Not Your Average Trait | 5.00% | ~12,942 |
+| Expanding Horizons | 4.00% | ~10,353 |
+| Quest for Survival | 4.00% | ~10,353 |
+| Gleaming the Cube | 3.00% | ~7,765 |
+| Not a Janitor | 3.00% | ~7,765 |
+| Familiar Face | 3.00% | ~7,765 |
+| Boss'n Up | 3.00% | ~7,765 |
+| Trait Chaser | 3.00% | ~7,765 |
+| Chaos | 2.00% | ~5,177 |
+| Power Surge | 2.00% | ~5,177 |
+| The God Gambit | 2.00% | ~5,177 |
+| Dark Designs | 2.00% | ~5,177 |
+| Not So Special Now | 2.00% | ~5,177 |
+| Equal Measures | 2.00% | ~5,177 |
+| Blue Goddess | 2.00% | ~5,177 |
+| Duality | 2.00% | ~5,177 |
+| Top Performer | 2.00% | ~5,177 |
+| Shhh...It's a Secret | 2.00% | ~5,177 |
+| Was This Supposed To Happen? | 2.00% | ~5,177 |
+| The Web | 2.00% | ~5,177 |
+| Almost There | 2.00% | ~5,177 |
+| Make Some Room | 2.00% | ~5,177 |
+| Good, But Could Be Better! | 2.00% | ~5,177 |
 | Am I Seeing This? | 1.00% | ~2,588 |
 | Traitor | 1.00% | ~2,588 |
 | Forever is a Long Time Coming | 1.00% | ~2,588 |
@@ -43,13 +43,13 @@ Rating: 4.74 (Ranked 162)
 | All These Traits� | 1.00% | ~2,588 |
 | Carnage in C-Minor | 1.00% | ~2,588 |
 | The Ultimate Weapon | 1.00% | ~2,588 |
-| Regicide | 1.00% | ~379 |
-| Master of the Dark Arts | 1.00% | ~379 |
+| Regicide | 1.00% | ~380 |
+| Master of the Dark Arts | 1.00% | ~380 |
 | Tall Tales | 0.90% | ~2,329 |
 | No One Should Have All That Power | 0.90% | ~2,329 |
 | Transmutate | 0.90% | ~2,329 |
-| Red Room | 0.80% | ~2,070 |
-| Only Human | 0.70% | ~1,811 |
+| Red Room | 0.80% | ~2,071 |
+| Only Human | 0.70% | ~1,812 |
 | Maxed Out! | 0.60% | ~1,553 |
 | Crafty | 0.50% | ~1,294 |
 | Ghost in the Machine | 0.50% | ~1,294 |
@@ -61,8 +61,8 @@ Rating: 4.74 (Ranked 162)
 | You Shall Pass | 0.30% | ~114 |
 | A Foul Feast | 0.20% | ~76 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 258,767 (Ranked 62)  
-Completed: 614 (0.24%) (Ranked 261)  
+Progressed: 258,830 (Ranked 61)  
+Completed: 614 (0.24%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -220,7 +220,7 @@ Completed: 614 (0.24%) (Ranked 261)
 | 2023-12-19 | 255,737 | 607 |
 | 2023-12-20 | 257,155 | 610 |
 | 2023-12-21 | 258,570 | 614 |
-| 2023-12-22 | 258,767 | 614 |
+| 2023-12-22 | 258,830 | 614 |
 ## Awards
 Max (Great Boss Battles): 3,397  (Ranked 96)  
 Sum: 7,938 (Ranked 112)  

@@ -9922,10 +9922,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20906,
       "NumberOfAwardsMax": 7823
+    },
+    {
+      "Time": "2023-12-22T04:00:00.1015406+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20910,
+      "NumberOfAwardsMax": 7823
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20906,
+  "NumberOfAwards": 20910,
   "NumberOfAwardsMax": 7823,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9969,7 +9975,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1477
+      "Count": 1481
     },
     {
       "Text": "This game has Diverse Characters",
@@ -10002,9 +10008,9 @@
       "Count": 1036
     }
   ],
-  "EOS_Progressed": 129017,
+  "EOS_Progressed": 129025,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1872,
+  "EOS_NewPlayers": 1868,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36197,6 +36203,11 @@
       "Time": "2023-12-22T03:09:30.0662112+00:00",
       "NumProgressed": 129017,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-22T04:09:22.5393427+00:00",
+      "NumProgressed": 129025,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36678,9 +36689,9 @@
       "ID": "run_victory_act03",
       "SetID": "64l4lke",
       "Name": "Eyes Up",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1290
     },
     {
       "ID": "run_victory_act04",
@@ -36752,7 +36763,7 @@
       "Name": "This guy... again?",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -36792,7 +36803,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -36800,7 +36811,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "quest_complete_crusader",
@@ -36808,7 +36819,7 @@
       "Name": "Lost and Found",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -36839,21 +36850,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 129017,
+      "Progressed": 129025,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 3886,
+      "Progressed": 3894,
       "Completed": 806
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-22T01:45:18.7804753+00:00",
-  "LastChanged_Achievements": "2023-12-22T03:09:30.0662108+00:00",
+  "LastChanged": "2023-12-22T04:00:00.1015404+00:00",
+  "LastChanged_Achievements": "2023-12-22T04:09:22.5393425+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-22T03:00:39.916731+00:00",
-  "LastUpdate_Achievements": "2023-12-22T03:09:30.0663865+00:00"
+  "LastUpdate_Ratings": "2023-12-22T04:00:00.1015411+00:00",
+  "LastUpdate_Achievements": "2023-12-22T04:09:22.539487+00:00"
 }
