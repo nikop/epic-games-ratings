@@ -1,39 +1,39 @@
 # Song of Nunu: A League of Legends Story
 [Store](https://store.epicgames.com/en-US/p/song-of-nunu-a-league-of-legends-story)  
 [View Rawdata](../../db/s/song_of_nunu__a_league_of_legends_story™.json)  
-Rating: 4.50 (Ranked 603)  
+Rating: 4.50 (Ranked 602)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 75.00% | ~957 |
-| I Broke It | 73.00% | ~931 |
+| Feels Familiar | 74.00% | ~945 |
+| I Broke It | 73.00% | ~932 |
 | Better On Ice | 68.00% | ~868 |
-| Notai Notes | 67.00% | ~855 |
-| Blue Dreams | 66.00% | ~842 |
-| He's Famous! | 65.00% | ~829 |
+| Notai Notes | 67.00% | ~856 |
+| Blue Dreams | 66.00% | ~843 |
+| He's Famous! | 65.00% | ~830 |
 | Krugmazing | 64.00% | ~817 |
 | Cutie Poro | 64.00% | ~817 |
 | Moneyball | 60.00% | ~766 |
 | The Fire Below the Mountain | 60.00% | ~766 |
 | Iceborn | 55.00% | ~702 |
-| No Bites | 54.00% | ~689 |
+| No Bites | 54.00% | ~690 |
 | Tear of Freedom | 52.00% | ~664 |
 | Boom Things | 52.00% | ~664 |
-| My Darkest Day | 48.00% | ~612 |
+| My Darkest Day | 48.00% | ~613 |
 | Rhythm Of Willump | 46.00% | ~587 |
 | The Relentless Storm | 46.00% | ~587 |
-| A Tragic Reminder | 44.00% | ~561 |
-| 3000 Year Blackout | 44.00% | ~561 |
+| A Tragic Reminder | 44.00% | ~562 |
+| 3000 Year Blackout | 44.00% | ~562 |
 | The Finisher | 42.00% | ~536 |
-| So Close | 41.00% | ~523 |
-| You Get Used To It | 41.00% | ~523 |
+| So Close | 41.00% | ~524 |
+| You Get Used To It | 41.00% | ~524 |
 | Family | 39.00% | ~498 |
 | Biggest Snowball Ever | 39.00% | ~498 |
 | Freeze The Ice Witch | 39.00% | ~498 |
 | True Legends | 39.00% | ~498 |
 | Boosted! | 39.00% | ~498 |
 | Deadliest and Biggest Snowball Ever! | 39.00% | ~498 |
-| Bullseye | 36.00% | ~459 |
+| Bullseye | 36.00% | ~460 |
 | It Is Not Over | 35.00% | ~447 |
 | On The Rocks | 34.00% | ~434 |
 | Snowy Poro | 31.00% | ~396 |
@@ -50,8 +50,8 @@ Rating: 4.50 (Ranked 603)
 | We Are Speed | 2.00% | ~26 |
 | Sneaky Notai | 1.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,276 (Ranked 262)  
-Completed: 9 (0.71%) (Ranked 193)  
+Progressed: 1,277 (Ranked 262)  
+Completed: 9 (0.70%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -113,7 +113,7 @@ Completed: 9 (0.71%) (Ranked 193)
 | 2023-12-19 | 1,241 | 9 |
 | 2023-12-20 | 1,251 | 9 |
 | 2023-12-21 | 1,271 | 9 |
-| 2023-12-22 | 1,276 | 9 |
+| 2023-12-22 | 1,277 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

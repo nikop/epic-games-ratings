@@ -89,7 +89,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2062,
+  "EOS_Progressed": 2063,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
@@ -7884,6 +7884,11 @@
       "Time": "2023-12-22T01:49:34.9044477+00:00",
       "NumProgressed": 2062,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-22T05:04:15.0807288+00:00",
+      "NumProgressed": 2063,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7927,7 +7932,7 @@
       "Name": "Gold Achiever",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ach_gold_rewards_25",
@@ -7999,7 +8004,7 @@
       "Name": "Facility Online",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -8015,7 +8020,7 @@
       "Name": "Sergeant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -8079,7 +8084,7 @@
       "Name": "Covert Operative",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -8111,7 +8116,7 @@
       "Name": "Resourceful",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "objective_key_objectives_completed_2",
@@ -8183,7 +8188,7 @@
       "Name": "Jet Troops",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "objective_upgrade_dropships_2",
@@ -8198,7 +8203,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2062,
+      "Progressed": 2063,
       "Completed": 1
     }
   ],
@@ -8206,8 +8211,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-11T08:59:11.5639448+00:00",
-  "LastChanged_Achievements": "2023-12-22T04:04:31.8452837+00:00",
+  "LastChanged_Achievements": "2023-12-22T05:04:15.0807284+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:15.2562842+00:00",
-  "LastUpdate_Ratings": "2023-12-22T03:59:46.5164326+00:00",
-  "LastUpdate_Achievements": "2023-12-22T04:04:31.8453285+00:00"
+  "LastUpdate_Ratings": "2023-12-22T04:59:49.6167108+00:00",
+  "LastUpdate_Achievements": "2023-12-22T05:04:15.0807756+00:00"
 }

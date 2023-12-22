@@ -4,7 +4,7 @@
   "ProductSlug": "international-basketball-manager-23-561576",
   "Ranking_EOS_Progress": 556,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 342,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-05-29T07:30:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 39,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -487,8 +487,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2023-12-22T04:03:57.8397301+00:00",
+  "LastChanged_Achievements": "2023-12-22T05:03:40.9488061+00:00",
   "LastUpdate_AppInfo": "2023-12-22T02:57:08.6689285+00:00",
-  "LastUpdate_Ratings": "2023-12-22T04:02:53.9131363+00:00",
-  "LastUpdate_Achievements": "2023-12-22T04:03:57.8397503+00:00"
+  "LastUpdate_Ratings": "2023-12-22T05:02:35.3351648+00:00",
+  "LastUpdate_Achievements": "2023-12-22T05:03:40.9488342+00:00"
 }

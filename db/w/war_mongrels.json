@@ -5,9 +5,9 @@
   "Ranking_Rating": 783,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
-  "Ranking_EOS_Progress": 303,
+  "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 692,
+  "EOS_Progressed": 693,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2410,6 +2410,11 @@
       "Time": "2023-12-22T01:54:40.4636484+00:00",
       "NumProgressed": 692,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T05:09:38.2174876+00:00",
+      "NumProgressed": 693,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2549,7 +2554,7 @@
       "Name": "Collectibles of Chapter I",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "ACH_COLL_CH02",
@@ -2637,7 +2642,7 @@
       "Name": "Collectibles of Chapter XII",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_FIN_CH01",
@@ -2645,7 +2650,7 @@
       "Name": "Cowardice",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -2653,7 +2658,7 @@
       "Name": "The Breaking Point",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ACH_FIN_CH03",
@@ -2669,7 +2674,7 @@
       "Name": "Heroism",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_FIN_CH05",
@@ -2677,7 +2682,7 @@
       "Name": "Consequences",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "ACH_FIN_CH06",
@@ -2725,7 +2730,7 @@
       "Name": "Sorrow",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_FIN_CH12",
@@ -2749,7 +2754,7 @@
       "Name": "Piece of Cake",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_HEAL",
@@ -2765,7 +2770,7 @@
       "Name": "Missing in Action",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "ACH_JOACHIM_FATE1",
@@ -2803,9 +2808,9 @@
       "ID": "ACH_KILL_ENEMY",
       "SetID": "1j25agn",
       "Name": "NO LIFE IS WORTH SAVING...",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 325
+      "UsersEstimate": 319
     },
     {
       "ID": "ACH_KILL_ENV",
@@ -2829,7 +2834,7 @@
       "Name": "Eat Lead!",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "ACH_KILL_SAUSAGE",
@@ -2853,7 +2858,7 @@
       "Name": "King of Knives",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ACH_NEST1",
@@ -2892,15 +2897,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 692,
+      "Progressed": 693,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-11-28T01:45:15.549368+00:00",
-  "LastChanged_Achievements": "2023-12-22T04:10:07.8969396+00:00",
+  "LastChanged_Achievements": "2023-12-22T05:09:38.2174873+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:42.5352214+00:00",
-  "LastUpdate_Ratings": "2023-12-22T03:58:19.4402649+00:00",
-  "LastUpdate_Achievements": "2023-12-22T04:10:07.8969807+00:00"
+  "LastUpdate_Ratings": "2023-12-22T04:58:23.5382559+00:00",
+  "LastUpdate_Achievements": "2023-12-22T05:09:38.2175439+00:00"
 }

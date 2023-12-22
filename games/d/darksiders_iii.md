@@ -6,50 +6,50 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 86.00% | ~42 |
-| Helping Hand | 80.00% | ~39 |
-| First of many… | 80.00% | ~39 |
-| Increased Vigor | 76.00% | ~37 |
-| Fight Fire with Fire | 73.00% | ~36 |
-| Increased Capacity | 65.00% | ~32 |
-| Just the start | 61.00% | ~30 |
-| One Of the Chosen | 53.00% | ~26 |
-| Perfect Storm | 53.00% | ~26 |
-| Enhance! | 53.00% | ~26 |
-| All That Glitters | 53.00% | ~26 |
-| Unshakable Fortitude | 49.00% | ~24 |
-| 25 to Life | 49.00% | ~24 |
-| Devil's in the Details | 45.00% | ~22 |
-| Throne Potato | 45.00% | ~22 |
-| Five's a Crowd | 45.00% | ~22 |
-| Soul Harvester | 43.00% | ~21 |
-| Salvation | 39.00% | ~19 |
-| Delusions of Grandeur | 39.00% | ~19 |
-| I Wanna Rock | 37.00% | ~18 |
-| Love Tap | 35.00% | ~17 |
-| For Whom the Bell Tolls | 35.00% | ~17 |
-| Freeze Frame | 33.00% | ~16 |
-| Maximum Vigor | 31.00% | ~15 |
-| Eat Your Heart Out | 31.00% | ~15 |
-| Can you restore the Balance? | 29.00% | ~14 |
-| Crowd Source | 29.00% | ~14 |
-| Cleanup Crew | 27.00% | ~13 |
+| Green with Envy | 84.00% | ~42 |
+| Helping Hand | 78.00% | ~39 |
+| First of many… | 78.00% | ~39 |
+| Increased Vigor | 74.00% | ~37 |
+| Fight Fire with Fire | 72.00% | ~36 |
+| Increased Capacity | 64.00% | ~32 |
+| Just the start | 60.00% | ~30 |
+| One Of the Chosen | 52.00% | ~26 |
+| Perfect Storm | 52.00% | ~26 |
+| Enhance! | 52.00% | ~26 |
+| All That Glitters | 52.00% | ~26 |
+| Unshakable Fortitude | 48.00% | ~24 |
+| 25 to Life | 48.00% | ~24 |
+| Throne Potato | 46.00% | ~23 |
+| Five's a Crowd | 46.00% | ~23 |
+| Devil's in the Details | 44.00% | ~22 |
+| Soul Harvester | 42.00% | ~21 |
+| Delusions of Grandeur | 40.00% | ~20 |
+| I Wanna Rock | 38.00% | ~19 |
+| Salvation | 38.00% | ~19 |
+| Love Tap | 36.00% | ~18 |
+| For Whom the Bell Tolls | 36.00% | ~18 |
+| Maximum Vigor | 32.00% | ~16 |
+| Freeze Frame | 32.00% | ~16 |
+| Eat Your Heart Out | 30.00% | ~15 |
+| Can you restore the Balance? | 28.00% | ~14 |
+| Crowd Source | 28.00% | ~14 |
+| Cleanup Crew | 26.00% | ~13 |
 | Unyielding Strength | 24.00% | ~12 |
 | Big Spender | 24.00% | ~12 |
 | Maximum Capacity | 22.00% | ~11 |
+| Protector of Humanity | 18.00% | ~9 |
 | Demon Meddler | 18.00% | ~9 |
-| Egomaniac | 16.00% | ~8 |
-| Seeing Red | 16.00% | ~8 |
-| Protector of Humanity | 14.00% | ~7 |
-| Everybody Wants to Rule the World | 14.00% | ~7 |
+| Everybody Wants to Rule the World | 18.00% | ~9 |
+| Egomaniac | 18.00% | ~9 |
+| Seeing Red | 18.00% | ~9 |
 | Unbreakable Will | 12.00% | ~6 |
+| Path of the Horseman | 12.00% | ~6 |
 | Take it to the Limit | 12.00% | ~6 |
 | Holy Keeper | 10.00% | ~5 |
 | Soul Reaper | 10.00% | ~5 |
 | A Parting Gift | 10.00% | ~5 |
 | Community Outreach | 10.00% | ~5 |
 | Demon Keeper | 8.00% | ~4 |
-| Path of the Horseman | 8.00% | ~4 |
 | Keep it 100! | 6.00% | ~3 |
 | Humanitarian | 6.00% | ~3 |
 | Made of Sterner Stuff | 6.00% | ~3 |
@@ -62,23 +62,23 @@ Number of Ratings: 116  (23.09.2022)
 | Balance in all things | 2.00% | ~1 |
 | "Impressive!" | 2.00% | ~1 |
 | "Incredible!" | 2.00% | ~1 |
+| Death Incarnate | 2.00% | ~1 |
 | Keeper of Colossal Automata | 2.00% | ~1 |
 | Keeper of the Tempo | 2.00% | ~1 |
 | BFA | 2.00% | ~1 |
 | Quite Proper | 0.00% | ~0 |
 | "Apocalyptic!" | 0.00% | ~0 |
 | "Amazing!" | 0.00% | ~0 |
-| Death Incarnate | 0.00% | ~0 |
 | Beast Mode | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49 (Ranked 529)  
+Progressed: 50 (Ranked 529)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-12-13 | 1 | 0 |
 | 2023-12-21 | 34 | 0 |
-| 2023-12-22 | 49 | 0 |
+| 2023-12-22 | 50 | 0 |
 ## Awards
 Max (Great Boss Battles): 92  (Ranked 383)  
 Sum: 92 (Ranked 462)  

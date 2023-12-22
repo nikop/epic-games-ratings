@@ -6,12 +6,12 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 61.00% | ~2,018 |
+| You're free now! | 61.00% | ~2,020 |
 | Keeping it classy | 28.00% | ~927 |
-| Welcome to the family | 22.00% | ~728 |
+| Welcome to the family | 22.00% | ~729 |
 | The finer things in life | 19.00% | ~629 |
-| Backpacker | 14.00% | ~463 |
-| Go with the Flow | 13.00% | ~430 |
+| Backpacker | 14.00% | ~464 |
+| Go with the Flow | 13.00% | ~431 |
 | Plastic Surgeon | 10.00% | ~331 |
 | The flip trick crown jewel | 10.00% | ~331 |
 | The hard way | 10.00% | ~331 |
@@ -23,7 +23,6 @@ Number of Ratings: 111  (23.09.2022)
 | Fashionista | 7.00% | ~232 |
 | Finally he zips it | 7.00% | ~232 |
 | That pinch! | 7.00% | ~232 |
-| Commence the Hijinx! | 6.00% | ~199 |
 | DIY Boss | 6.00% | ~199 |
 | Fulfilled the dream | 6.00% | ~199 |
 | G'Day Mate! | 6.00% | ~199 |
@@ -32,14 +31,15 @@ Number of Ratings: 111  (23.09.2022)
 | Purple passion | 6.00% | ~199 |
 | Squad goals | 6.00% | ~199 |
 | Sup widdit big dog! | 6.00% | ~199 |
-| Cops called! | 5.00% | ~165 |
-| Globetrotter | 5.00% | ~165 |
-| Lines for days | 5.00% | ~165 |
-| Manny Destroys All | 5.00% | ~165 |
-| Renaissance man | 5.00% | ~165 |
-| Tank commander | 5.00% | ~165 |
-| Trick shot marksman | 5.00% | ~165 |
-| We get it, you're good | 5.00% | ~165 |
+| Commence the Hijinx! | 5.00% | ~166 |
+| Cops called! | 5.00% | ~166 |
+| Globetrotter | 5.00% | ~166 |
+| Lines for days | 5.00% | ~166 |
+| Manny Destroys All | 5.00% | ~166 |
+| Renaissance man | 5.00% | ~166 |
+| Tank commander | 5.00% | ~166 |
+| Trick shot marksman | 5.00% | ~166 |
+| We get it, you're good | 5.00% | ~166 |
 | G.O.A.T. status | 4.00% | ~132 |
 | Hoarder | 4.00% | ~132 |
 | Pew-Pew | 4.00% | ~132 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,309 (Ranked 217)  
+Progressed: 3,312 (Ranked 217)  
 Completed: 2 (0.06%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 2 (0.06%) (Ranked 325)
 | 2023-12-19 | 3,283 | 2 |
 | 2023-12-20 | 3,294 | 2 |
 | 2023-12-21 | 3,308 | 2 |
-| 2023-12-22 | 3,309 | 2 |
+| 2023-12-22 | 3,312 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 60  (Ranked 421)  
 Sum: 569 (Ranked 323)  

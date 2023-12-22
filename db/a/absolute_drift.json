@@ -481,9 +481,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1557684,
+  "EOS_Progressed": 1557690,
   "EOS_Completed": 757,
-  "EOS_NewPlayers": 1490,
+  "EOS_NewPlayers": 1492,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -28601,6 +28601,11 @@
       "Time": "2023-12-22T04:06:04.1281777+00:00",
       "NumProgressed": 1557684,
       "NumCompleted": 757
+    },
+    {
+      "Time": "2023-12-22T05:05:46.3133652+00:00",
+      "NumProgressed": 1557690,
+      "NumCompleted": 757
     }
   ],
   "TotalAchievements": 20,
@@ -28652,7 +28657,7 @@
       "Name": "Drift Line Master",
       "Percentage": 0.8,
       "XP": 90,
-      "UsersEstimate": 12461
+      "UsersEstimate": 12462
     },
     {
       "ID": "ACH_GOOD_SKILLS",
@@ -28676,7 +28681,7 @@
       "Name": "Insane Skills",
       "Percentage": 0.8,
       "XP": 95,
-      "UsersEstimate": 12461
+      "UsersEstimate": 12462
     },
     {
       "ID": "ACH_JELLY_FILLED_DONUTS",
@@ -28708,7 +28713,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 155768
+      "UsersEstimate": 155769
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -28771,15 +28776,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1557684,
+      "Progressed": 1557690,
       "Completed": 757
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-12-17T11:57:05.6881594+00:00",
-  "LastChanged_Achievements": "2023-12-22T04:06:04.1281774+00:00",
+  "LastChanged_Achievements": "2023-12-22T05:05:46.3133649+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.8814559+00:00",
-  "LastUpdate_Ratings": "2023-12-22T03:59:11.4307065+00:00",
-  "LastUpdate_Achievements": "2023-12-22T04:06:04.1283193+00:00"
+  "LastUpdate_Ratings": "2023-12-22T04:59:15.3868127+00:00",
+  "LastUpdate_Achievements": "2023-12-22T05:05:46.3135038+00:00"
 }

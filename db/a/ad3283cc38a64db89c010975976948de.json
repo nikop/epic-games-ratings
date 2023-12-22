@@ -4,7 +4,7 @@
   "ProductSlug": "buddy-and-friends-in-halloween-192190",
   "Ranking_EOS_Progress": 540,
   "Ranking_EOS_Completed": 64,
-  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewPlayers": 366,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-10-24T15:00:00+00:00",
@@ -301,9 +301,9 @@
       "ID": "LEVEL_060_004",
       "SetID": "5g7b0mb",
       "Name": "Alley - 60 pieces",
-      "Percentage": 46,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "LEVEL_060_005",
@@ -325,9 +325,9 @@
       "ID": "LEVEL_135_001",
       "SetID": "5g7b0mb",
       "Name": "Mirror - 135 pieces",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "LEVEL_135_002",
@@ -524,8 +524,8 @@
   ],
   "FirstSeen": "2023-10-25T11:59:09.0555301+00:00",
   "FirstSeenAchievements": "2023-09-22T13:08:37.9195504+00:00",
-  "LastChanged_Achievements": "2023-12-22T04:08:35.7761403+00:00",
+  "LastChanged_Achievements": "2023-12-22T05:06:26.6464483+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:08.6017273+00:00",
-  "LastUpdate_Ratings": "2023-12-22T03:57:09.8858951+00:00",
-  "LastUpdate_Achievements": "2023-12-22T04:08:35.7761596+00:00"
+  "LastUpdate_Ratings": "2023-12-22T04:57:15.5123454+00:00",
+  "LastUpdate_Achievements": "2023-12-22T05:06:26.6464639+00:00"
 }

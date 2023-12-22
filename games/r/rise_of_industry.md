@@ -1,20 +1,20 @@
 # Rise of Industry
 [Store](https://store.epicgames.com/en-US/p/rise-of-industry-0af838)  
 [View Rawdata](../../db/r/rise_of_industry.json)  
-Rating: 4.24 (Ranked 902)  
+Rating: 4.24 (Ranked 903)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 48.00% | ~365,359 |
-| Well educated | 37.00% | ~281,631 |
-| City Planner | 19.00% | ~144,621 |
-| Deforester | 17.00% | ~129,398 |
-| Big Hauling | 16.00% | ~121,786 |
-| Apprentice Manufacturer | 13.00% | ~98,951 |
-| Exporter | 13.00% | ~98,951 |
-| I would drive 500 tiles... | 12.00% | ~91,340 |
-| Landscaper | 12.00% | ~91,340 |
-| Railwayman | 8.00% | ~60,893 |
+| Entrepreneur | 48.00% | ~365,363 |
+| Well educated | 37.00% | ~281,634 |
+| City Planner | 19.00% | ~144,623 |
+| Deforester | 17.00% | ~129,399 |
+| Big Hauling | 16.00% | ~121,788 |
+| Apprentice Manufacturer | 13.00% | ~98,952 |
+| Exporter | 13.00% | ~98,952 |
+| I would drive 500 tiles... | 12.00% | ~91,341 |
+| Landscaper | 12.00% | ~91,341 |
+| Railwayman | 8.00% | ~60,894 |
 | Penniless | 6.00% | ~45,670 |
 | Massive Gains | 6.00% | ~45,670 |
 | Salesman | 3.00% | ~22,835 |
@@ -23,8 +23,8 @@ Rating: 4.24 (Ranked 902)
 | Captain | 0.80% | ~6,089 |
 | Billionaire | 0.70% | ~5,328 |
 | Vroom Vroom | 0.40% | ~3,045 |
-| Excavator | 0.30% | ~2,283 |
-| Loan Ranger | 0.30% | ~2,283 |
+| Excavator | 0.30% | ~2,284 |
+| Loan Ranger | 0.30% | ~2,284 |
 | [2130] Nature Lover | 0.10% | ~761 |
 | [2130] No Quarter Given | 0.10% | ~761 |
 | [2130] Dumpster Diving | 0.10% | ~761 |
@@ -33,7 +33,7 @@ Rating: 4.24 (Ranked 902)
 | Master Builder | 0.10% | ~761 |
 | Hard working | 0.10% | ~761 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 761,165 (Ranked 20)  
+Progressed: 761,172 (Ranked 20)  
 Completed: 4 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 4 (0.00%) (Ranked 384)
 | 2023-12-19 | 760,548 | 4 |
 | 2023-12-20 | 760,795 | 4 |
 | 2023-12-21 | 761,125 | 4 |
-| 2023-12-22 | 761,165 | 4 |
+| 2023-12-22 | 761,172 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

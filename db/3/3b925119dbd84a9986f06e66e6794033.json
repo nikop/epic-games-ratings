@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 408,
+  "EOS_Progressed": 410,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1409,6 +1409,11 @@
       "Time": "2023-12-22T04:09:43.7332933+00:00",
       "NumProgressed": 408,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T05:09:14.3911145+00:00",
+      "NumProgressed": 410,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -1443,9 +1448,9 @@
       "ID": "DODO_RE_MI_SURVIVED_TUTORIAL",
       "SetID": "9j9h72e",
       "Name": "Dodo Re Mi: Beginner\u2019s Pluck",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 12
     },
     {
       "ID": "HYPNO_CORRECT_GROUP",
@@ -1485,7 +1490,7 @@
       "Name": "FixyText: Pump It Up",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "RISKYTEXT_ONE_WORD_GETS_VOTES_FROM_ALL_VOTING_PLAYERS",
@@ -1580,14 +1585,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 408,
+      "Progressed": 410,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-22T04:09:43.7332931+00:00",
+  "LastChanged_Achievements": "2023-12-22T05:09:14.3911143+00:00",
   "LastUpdate_AppInfo": "2023-12-16T01:42:15.0489028+00:00",
-  "LastUpdate_Ratings": "2023-12-22T04:02:49.4451118+00:00",
-  "LastUpdate_Achievements": "2023-12-22T04:09:43.7333094+00:00"
+  "LastUpdate_Ratings": "2023-12-22T05:02:30.8779119+00:00",
+  "LastUpdate_Achievements": "2023-12-22T05:09:14.3911277+00:00"
 }

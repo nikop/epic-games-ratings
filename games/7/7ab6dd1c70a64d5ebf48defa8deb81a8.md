@@ -13,13 +13,13 @@
 | Adventurer | 16.00% | ~163 |
 | Shatter Them All | 16.00% | ~163 |
 | Geared Up | 16.00% | ~163 |
+| Scholar | 16.00% | ~163 |
 | Tributes of Caladrias | 15.00% | ~152 |
-| Scholar | 15.00% | ~152 |
 | Fashion Victim | 14.00% | ~142 |
 | Stone Collection | 14.00% | ~142 |
 | Powerful Allies | 13.00% | ~132 |
 | Big Bazar | 10.00% | ~102 |
-| Essence Blow | 8.00% | ~81 |
+| Essence Blow | 9.00% | ~91 |
 | Alchemist | 8.00% | ~81 |
 | The Mentor | 6.00% | ~61 |
 | Calm before the Storm | 5.00% | ~51 |

@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~87,816 |
-| Alt+F4 | 10.00% | ~24,393 |
-| Where's that freaking Dwarf? | 9.00% | ~21,954 |
-| Déjà vu | 7.00% | ~17,075 |
+| Sowwy! | 36.00% | ~87,818 |
+| Alt+F4 | 10.00% | ~24,394 |
+| Where's that freaking Dwarf? | 9.00% | ~21,955 |
+| Déjà vu | 7.00% | ~17,076 |
 | Sock! SOCK! | 6.00% | ~14,636 |
 | A beer, two curses, three companions | 5.00% | ~12,197 |
 | GG EZ | 5.00% | ~12,197 |
 | Speedrun | 5.00% | ~12,197 |
-| DM intervention | 4.00% | ~9,757 |
-| Fireproof Wizardess | 4.00% | ~9,757 |
+| DM intervention | 4.00% | ~9,758 |
+| Fireproof Wizardess | 4.00% | ~9,758 |
 | Livin' in a dwarven paradise | 3.00% | ~7,318 |
 | Way of the Wimp | 3.00% | ~7,318 |
 | The plot thickens... At the tavern | 3.00% | ~7,318 |
@@ -46,7 +46,7 @@ Number of Ratings: 118  (23.09.2022)
 | Lust and Debauchery | 1.00% | ~2,439 |
 | Material Girl | 1.00% | ~2,439 |
 | Lëgal Legend | 0.90% | ~2,195 |
-| We come in peace | 0.80% | ~1,951 |
+| We come in peace | 0.80% | ~1,952 |
 | Holistic Adventuring Party | 0.70% | ~1,708 |
 | An old poacher makes the best gamekeeper | 0.70% | ~1,708 |
 | Law and Order | 0.60% | ~1,464 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~244 |
 | Dwarf Candy | 0.10% | ~244 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,934 (Ranked 65)  
+Progressed: 243,939 (Ranked 65)  
 Completed: 7 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 7 (0.00%) (Ranked 384)
 | 2023-12-19 | 243,614 | 7 |
 | 2023-12-20 | 243,748 | 7 |
 | 2023-12-21 | 243,905 | 7 |
-| 2023-12-22 | 243,934 | 7 |
+| 2023-12-22 | 243,939 | 7 |
 ## Awards
 Max (Character Customization): 250  (Ranked 273)  
 Sum: 526 (Ranked 327)  

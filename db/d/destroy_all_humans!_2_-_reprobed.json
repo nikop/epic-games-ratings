@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 429,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -923,9 +923,9 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "4n84pon",
       "Name": "Furon Fashion",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -1059,9 +1059,9 @@
       "ID": "ACH_KILL_BONGWATER",
       "SetID": "4n84pon",
       "Name": "Bodied Sattva",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -1227,9 +1227,9 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "4n84pon",
       "Name": "Shop Til They Drop",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1252,8 +1252,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-22T04:08:59.2956661+00:00",
+  "LastChanged_Achievements": "2023-12-22T05:08:30.1016253+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:43.3974092+00:00",
-  "LastUpdate_Ratings": "2023-12-22T03:58:45.0835337+00:00",
-  "LastUpdate_Achievements": "2023-12-22T04:08:59.2957023+00:00"
+  "LastUpdate_Ratings": "2023-12-22T04:58:49.0099656+00:00",
+  "LastUpdate_Achievements": "2023-12-22T05:08:30.1016544+00:00"
 }

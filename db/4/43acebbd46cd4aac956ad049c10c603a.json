@@ -3057,9 +3057,9 @@
       "ID": "MistressOfRiddles",
       "SetID": "1n308hc",
       "Name": "Mistress of Riddles",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 162
+      "UsersEstimate": 173
     },
     {
       "ID": "Mnemosyne",
@@ -3338,8 +3338,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-22T04:05:33.1714674+00:00",
+  "LastChanged_Achievements": "2023-12-22T05:05:15.6937172+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-22T04:00:09.1708934+00:00",
-  "LastUpdate_Achievements": "2023-12-22T04:05:33.1715121+00:00"
+  "LastUpdate_Ratings": "2023-12-22T05:00:12.5859565+00:00",
+  "LastUpdate_Achievements": "2023-12-22T05:05:15.6937736+00:00"
 }

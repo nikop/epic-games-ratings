@@ -5,9 +5,9 @@
   "Ranking_Rating": 855,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
-  "Ranking_EOS_Progress": 527,
+  "Ranking_EOS_Progress": 525,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -565,9 +565,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 52,
+  "EOS_Progressed": 53,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -740,6 +740,11 @@
       "Time": "2023-12-22T01:49:41.0459036+00:00",
       "NumProgressed": 52,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T05:04:20.915092+00:00",
+      "NumProgressed": 53,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -766,7 +771,7 @@
       "ID": "1000ELEXIT",
       "SetID": "a1angca",
       "Name": "Entrepreneur",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -926,7 +931,7 @@
       "ID": "ALLXP",
       "SetID": "a1angca",
       "Name": "Role Model",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -1151,15 +1156,15 @@
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 52,
+      "Progressed": 53,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-11-15T13:09:21.2815291+00:00",
-  "LastChanged_Achievements": "2023-12-22T04:04:37.7896661+00:00",
+  "LastChanged_Achievements": "2023-12-22T05:04:20.9150916+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:52.2543669+00:00",
-  "LastUpdate_Ratings": "2023-12-22T03:57:28.5303719+00:00",
-  "LastUpdate_Achievements": "2023-12-22T04:04:37.7896947+00:00"
+  "LastUpdate_Ratings": "2023-12-22T04:57:34.2564332+00:00",
+  "LastUpdate_Achievements": "2023-12-22T05:04:20.9151302+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 1016,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 612,
+  "EOS_NewPlayers": 609,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -2169,9 +2169,9 @@
       "ID": "ACH_16",
       "SetID": "efe2lj",
       "Name": "Essence Blow",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 91
     },
     {
       "ID": "ACH_17",
@@ -2249,9 +2249,9 @@
       "ID": "ACH_26",
       "SetID": "efe2lj",
       "Name": "Scholar",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 152
+      "UsersEstimate": 163
     },
     {
       "ID": "ACH_27",
@@ -2344,8 +2344,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-22T04:10:04.3772737+00:00",
+  "LastChanged_Achievements": "2023-12-22T05:09:34.8829126+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
-  "LastUpdate_Ratings": "2023-12-22T03:58:03.9119017+00:00",
-  "LastUpdate_Achievements": "2023-12-22T04:10:04.3773021+00:00"
+  "LastUpdate_Ratings": "2023-12-22T04:58:08.5357759+00:00",
+  "LastUpdate_Achievements": "2023-12-22T05:09:34.8829436+00:00"
 }

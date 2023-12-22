@@ -2,9 +2,9 @@
   "ID": "1f48927b60c5460dbca66555584a80cf",
   "Name": "FUR Squadron",
   "ProductSlug": "fur-squadron-0042b8",
-  "Ranking_EOS_Progress": 499,
+  "Ranking_EOS_Progress": 498,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 518,
+  "Ranking_EOS_NewPlayers": 486,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-05-04T13:30:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75,
+  "EOS_Progressed": 76,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -394,6 +394,11 @@
       "Time": "2023-12-21T16:05:16.7176157+00:00",
       "NumProgressed": 75,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T05:03:56.019008+00:00",
+      "NumProgressed": 76,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -451,7 +456,7 @@
       "ID": "COMPLETED_BLAZE_1",
       "SetID": "d91enl3",
       "Name": "All systems go",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 20,
       "UsersEstimate": 63
     },
@@ -459,7 +464,7 @@
       "ID": "COMPLETED_BLAZE_2",
       "SetID": "d91enl3",
       "Name": "Do a barrel roll!",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 20,
       "UsersEstimate": 48
     },
@@ -491,7 +496,7 @@
       "ID": "COMPLETED_BLAZE_6",
       "SetID": "d91enl3",
       "Name": "My Emperor... I\u0027ve failed you!",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 25,
       "UsersEstimate": 17
     },
@@ -555,7 +560,7 @@
       "ID": "MASTERED_2",
       "SetID": "d91enl3",
       "Name": "Priceless company",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 60,
       "UsersEstimate": 11
     },
@@ -596,14 +601,14 @@
     {
       "ID": "d91enl3",
       "IsBase": true,
-      "Progressed": 75,
+      "Progressed": 76,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-13T19:57:08.7340139+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:54.8735108+00:00",
-  "LastChanged_Achievements": "2023-12-22T04:04:12.9593956+00:00",
+  "LastChanged_Achievements": "2023-12-22T05:03:56.0190077+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:44.3070763+00:00",
   "LastUpdate_Ratings": "2023-12-22T04:02:41.042437+00:00",
-  "LastUpdate_Achievements": "2023-12-22T04:04:12.9594118+00:00"
+  "LastUpdate_Achievements": "2023-12-22T05:03:56.0190211+00:00"
 }

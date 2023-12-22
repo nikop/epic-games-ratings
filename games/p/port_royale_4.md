@@ -6,19 +6,19 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 80.00% | ~888 |
-| My little farm | 64.00% | ~710 |
-| Every beginning is difficult | 63.00% | ~699 |
+| Cabin boy | 80.00% | ~889 |
+| My little farm | 64.00% | ~711 |
+| Every beginning is difficult | 62.00% | ~689 |
 | Gofer | 56.00% | ~622 |
-| 3, 2, 1, mine | 55.00% | ~610 |
-| O Captain! My Captain! | 55.00% | ~610 |
-| Seafarer | 51.00% | ~566 |
-| Greed for gold | 43.00% | ~477 |
-| Intangible | 42.00% | ~466 |
-| I'm out of here for a while | 42.00% | ~466 |
+| 3, 2, 1, mine | 55.00% | ~611 |
+| O Captain! My Captain! | 55.00% | ~611 |
+| Seafarer | 51.00% | ~567 |
+| Greed for gold | 43.00% | ~478 |
+| Intangible | 42.00% | ~467 |
+| I'm out of here for a while | 42.00% | ~467 |
 | In a mint condition | 38.00% | ~422 |
 | Licence to Kill | 37.00% | ~411 |
-| Pirates! | 34.00% | ~377 |
+| Pirates! | 34.00% | ~378 |
 | Collectionitis | 29.00% | ~322 |
 | Megalomania | 29.00% | ~322 |
 | Christening | 27.00% | ~300 |
@@ -27,7 +27,7 @@ Number of Ratings: 53  (23.09.2022)
 | Walk the plank | 21.00% | ~233 |
 | Pearly gates | 18.00% | ~200 |
 | My precious! | 18.00% | ~200 |
-| Conquistador | 14.00% | ~155 |
+| Conquistador | 14.00% | ~156 |
 | Panic buying | 11.00% | ~122 |
 | Your vessel, my vessel | 10.00% | ~111 |
 | Just a scratch | 9.00% | ~100 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Traffic chaos | 0.70% | ~8 |
 | Davy Jones' locker | 0.40% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,110 (Ranked 271)  
+Progressed: 1,111 (Ranked 271)  
 Completed: 1 (0.09%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 1 (0.09%) (Ranked 309)
 | 2023-12-19 | 1,101 | 1 |
 | 2023-12-20 | 1,105 | 1 |
 | 2023-12-21 | 1,108 | 1 |
-| 2023-12-22 | 1,110 | 1 |
+| 2023-12-22 | 1,111 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

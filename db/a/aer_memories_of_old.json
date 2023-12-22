@@ -2,7 +2,7 @@
   "ID": "f3720f53cccb4a20841a392a8ea0457f",
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
-  "Ranking_Rating": 673,
+  "Ranking_Rating": 672,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 137,
@@ -419,9 +419,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 26768,
+  "EOS_Progressed": 26772,
   "EOS_Completed": 497,
-  "EOS_NewPlayers": 530,
+  "EOS_NewPlayers": 534,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.86,
   "EosHistory": [
@@ -26839,6 +26839,11 @@
       "Time": "2023-12-22T03:08:38.3764368+00:00",
       "NumProgressed": 26768,
       "NumCompleted": 497
+    },
+    {
+      "Time": "2023-12-22T05:06:26.950869+00:00",
+      "NumProgressed": 26772,
+      "NumCompleted": 497
     }
   ],
   "TotalAchievements": 20,
@@ -26858,7 +26863,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "EAST_FINISHED",
@@ -26882,7 +26887,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2944
+      "UsersEstimate": 2945
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -26906,7 +26911,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3212
+      "UsersEstimate": 3213
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -26962,7 +26967,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3212
+      "UsersEstimate": 3213
     },
     {
       "ID": "INTRO_FINISHED",
@@ -26970,7 +26975,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 20344
+      "UsersEstimate": 20347
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -26978,7 +26983,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7227
+      "UsersEstimate": 7228
     },
     {
       "ID": "NORTH_FINISHED",
@@ -27002,22 +27007,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4818
+      "UsersEstimate": 4819
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 26768,
+      "Progressed": 26772,
       "Completed": 497
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-12-22T04:08:36.0955293+00:00",
+  "LastChanged_Achievements": "2023-12-22T05:06:26.9508687+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:01.7195881+00:00",
-  "LastUpdate_Ratings": "2023-12-22T03:57:50.2626151+00:00",
-  "LastUpdate_Achievements": "2023-12-22T04:08:36.0956365+00:00"
+  "LastUpdate_Ratings": "2023-12-22T04:57:55.4838276+00:00",
+  "LastUpdate_Achievements": "2023-12-22T05:06:26.9510038+00:00"
 }

@@ -10,6 +10,7 @@ Number of Ratings: 67  (23.09.2022)
 | Soul Cache | 3.00% | ~4 |
 | Close the Rift | 0.90% | ~1 |
 | Mammon | 0.90% | ~1 |
+| The Dead Court | 0.90% | ~1 |
 | Why'd It Have to Be Snakes? | 0.90% | ~1 |
 | A Bullet for All Seasons | 0.00% | ~0 |
 | Are You Not Entertained? | 0.00% | ~0 |
@@ -31,7 +32,6 @@ Number of Ratings: 67  (23.09.2022)
 | Moloch | 0.00% | ~0 |
 | Ready to Blow | 0.00% | ~0 |
 | Respect For Animals | 0.00% | ~0 |
-| The Dead Court | 0.00% | ~0 |
 | Garden of Forking Paths | 0.00% | ~0 |
 | The Promised End | 0.00% | ~0 |
 | Walking Armory | 0.00% | ~0 |

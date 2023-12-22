@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1245,
+  "EOS_Progressed": 1246,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2489,6 +2489,11 @@
       "Time": "2023-12-22T01:51:21.5134034+00:00",
       "NumProgressed": 1245,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T05:05:57.6966783+00:00",
+      "NumProgressed": 1246,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2620,7 +2625,7 @@
       "Name": "Manipulating Fate",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "DIE_MAX_POWER",
@@ -2722,9 +2727,9 @@
       "ID": "SURVIVE_FIRST_WINTER",
       "SetID": "6ohhfoc",
       "Name": "We made it",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 523
+      "UsersEstimate": 511
     },
     {
       "ID": "THREE_HAPPY_CLASSES",
@@ -2859,7 +2864,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1245,
+      "Progressed": 1246,
       "Completed": 0
     }
   ],
@@ -2867,8 +2872,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-12-18T15:02:48.0768878+00:00",
-  "LastChanged_Achievements": "2023-12-22T04:06:15.745325+00:00",
+  "LastChanged_Achievements": "2023-12-22T05:05:57.696678+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:49.3421858+00:00",
-  "LastUpdate_Ratings": "2023-12-22T04:02:58.6116087+00:00",
-  "LastUpdate_Achievements": "2023-12-22T04:06:15.7453965+00:00"
+  "LastUpdate_Ratings": "2023-12-22T05:02:40.2323653+00:00",
+  "LastUpdate_Achievements": "2023-12-22T05:05:57.6967104+00:00"
 }

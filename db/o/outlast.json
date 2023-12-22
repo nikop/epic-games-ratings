@@ -2,7 +2,7 @@
   "ID": "78f42129096d4233bccc527733debfbd",
   "Name": "Outlast",
   "ProductSlug": "outlast",
-  "Ranking_Rating": 110,
+  "Ranking_Rating": 118,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 814,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.78,
+  "Rating": 4.77,
   "RatingHistory": [
     {
       "Time": "2022-10-20T15:31:49.6878413+00:00",
@@ -249,6 +249,12 @@
       "Rating": 4.78,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-22T04:59:38.7190742+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -267,8 +273,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-05T05:31:44.4184122+00:00",
   "FirstSeenRating": "2022-10-20T15:31:49.6878408+00:00",
-  "LastChanged": "2023-12-20T06:58:45.9202866+00:00",
+  "LastChanged": "2023-12-22T04:59:38.719074+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:00.7447848+00:00",
-  "LastUpdate_Ratings": "2023-12-22T03:59:34.956908+00:00",
-  "LastUpdate_Achievements": "2023-12-22T04:04:09.3219672+00:00"
+  "LastUpdate_Ratings": "2023-12-22T04:59:38.7190744+00:00",
+  "LastUpdate_Achievements": "2023-12-22T05:03:52.3763191+00:00"
 }

@@ -596,9 +596,9 @@
       "ID": "InnkeeperQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Treasure Hunting",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "InnkeeperQuestlineLast",
@@ -644,9 +644,9 @@
       "ID": "MasterOracleQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Riddlesolver",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "MasterOracleQuestlineLast",
@@ -909,8 +909,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-12-22T04:05:04.1203282+00:00",
+  "LastChanged_Achievements": "2023-12-22T05:04:47.0150719+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:57:00.4120511+00:00",
-  "LastUpdate_Ratings": "2023-12-22T03:59:16.2076986+00:00",
-  "LastUpdate_Achievements": "2023-12-22T04:05:04.1203554+00:00"
+  "LastUpdate_Ratings": "2023-12-22T04:59:20.1309104+00:00",
+  "LastUpdate_Achievements": "2023-12-22T05:04:47.0150943+00:00"
 }

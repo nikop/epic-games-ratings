@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 88.00% | ~1,745 |
-| Off to a good start | 64.00% | ~1,269 |
-| Do... or do not. There is no try | 51.00% | ~1,011 |
-| A good blaster at your side | 28.00% | ~555 |
+| New Recruit | 88.00% | ~1,747 |
+| Off to a good start | 64.00% | ~1,270 |
+| Do... or do not. There is no try | 51.00% | ~1,012 |
+| A good blaster at your side | 28.00% | ~556 |
 | I suggest a new strategy | 18.00% | ~357 |
 | Scrap collector | 17.00% | ~337 |
 | Great shot, kid! | 17.00% | ~337 |
-| All right, I'll give it a try | 16.00% | ~317 |
+| All right, I'll give it a try | 16.00% | ~318 |
 | The power of the Force | 13.00% | ~258 |
 | Collector | 13.00% | ~258 |
 | Shoot first | 13.00% | ~258 |
 | Together we can rule the galaxy | 12.00% | ~238 |
-| Tell Jabba that I've got his money | 9.00% | ~178 |
+| Tell Jabba that I've got his money | 9.00% | ~179 |
 | Never tell me the odds! | 8.00% | ~159 |
 | Best star-pilot in the galaxy | 8.00% | ~159 |
 | Survivor | 8.00% | ~159 |
@@ -30,10 +30,10 @@
 | A tremor in the Force | 4.00% | ~79 |
 | Safety ain't the point of a joyride | 4.00% | ~79 |
 | Not bad for a little furball | 4.00% | ~79 |
-| Your journey has only started | 3.00% | ~59 |
-| On the ball | 3.00% | ~59 |
-| Patience you must have | 3.00% | ~59 |
-| Don't underestimate the Force | 3.00% | ~59 |
+| Your journey has only started | 3.00% | ~60 |
+| On the ball | 3.00% | ~60 |
+| Patience you must have | 3.00% | ~60 |
+| Don't underestimate the Force | 3.00% | ~60 |
 | The Force is strong with this one | 2.00% | ~40 |
 | I've been waiting for you | 2.00% | ~40 |
 | When 900 years old you reach... | 2.00% | ~40 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~4 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,983 (Ranked 236)  
+Progressed: 1,985 (Ranked 236)  
 Completed: 1 (0.05%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 1 (0.05%) (Ranked 331)
 | 2023-12-19 | 1,913 | 1 |
 | 2023-12-20 | 1,946 | 1 |
 | 2023-12-21 | 1,979 | 1 |
-| 2023-12-22 | 1,983 | 1 |
+| 2023-12-22 | 1,985 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

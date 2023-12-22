@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -251,9 +251,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44429,
+  "EOS_Progressed": 44430,
   "EOS_Completed": 247,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -19371,6 +19371,11 @@
       "Time": "2023-12-22T04:06:08.5180969+00:00",
       "NumProgressed": 44429,
       "NumCompleted": 247
+    },
+    {
+      "Time": "2023-12-22T05:05:50.6506828+00:00",
+      "NumProgressed": 44430,
+      "NumCompleted": 247
     }
   ],
   "TotalAchievements": 44,
@@ -19398,7 +19403,7 @@
       "Name": "Embers",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 9774
+      "UsersEstimate": 9775
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -19422,7 +19427,7 @@
       "Name": "Ruse",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5331
+      "UsersEstimate": 5332
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -19462,7 +19467,7 @@
       "Name": "The Lookout",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2221
+      "UsersEstimate": 2222
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -19502,7 +19507,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 35543
+      "UsersEstimate": 35544
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -19606,7 +19611,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 24436
+      "UsersEstimate": 24437
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -19614,7 +19619,7 @@
       "Name": "Engraved with Power",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 14217
+      "UsersEstimate": 14218
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -19622,7 +19627,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 27990
+      "UsersEstimate": 27991
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -19646,7 +19651,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 26657
+      "UsersEstimate": 26658
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -19654,7 +19659,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 29767
+      "UsersEstimate": 29768
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -19662,7 +19667,7 @@
       "Name": "The Spirit of Vengeance",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 2221
+      "UsersEstimate": 2222
     },
     {
       "ID": "ACHIEVEMENT_43",
@@ -19686,7 +19691,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19993
+      "UsersEstimate": 19994
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -19694,7 +19699,7 @@
       "Name": "Hollow",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2221
+      "UsersEstimate": 2222
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -19718,7 +19723,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 41319
+      "UsersEstimate": 41320
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -19726,14 +19731,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 23103
+      "UsersEstimate": 23104
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 44429,
+      "Progressed": 44430,
       "Completed": 247
     }
   ],
@@ -19741,8 +19746,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-17T19:02:52.186594+00:00",
-  "LastChanged_Achievements": "2023-12-22T04:06:08.5180967+00:00",
+  "LastChanged_Achievements": "2023-12-22T05:05:50.6506825+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:54.9639492+00:00",
-  "LastUpdate_Ratings": "2023-12-22T04:03:05.9081042+00:00",
-  "LastUpdate_Achievements": "2023-12-22T04:06:08.5181949+00:00"
+  "LastUpdate_Ratings": "2023-12-22T05:02:47.3307697+00:00",
+  "LastUpdate_Achievements": "2023-12-22T05:05:50.6507852+00:00"
 }

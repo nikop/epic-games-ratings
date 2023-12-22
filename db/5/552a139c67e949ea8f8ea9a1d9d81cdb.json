@@ -3717,9 +3717,9 @@
       "ID": "ML_ACHIEVEMENT_06",
       "SetID": "5k00jcd",
       "Name": "Now try online",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ML_ACHIEVEMENT_07",
@@ -3765,9 +3765,9 @@
       "ID": "ML_ACHIEVEMENT_12",
       "SetID": "5k00jcd",
       "Name": "Immortal",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -3813,9 +3813,9 @@
       "ID": "ML_ACHIEVEMENT_18",
       "SetID": "5k00jcd",
       "Name": "International license",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ML_ACHIEVEMENT_19",
@@ -3925,9 +3925,9 @@
       "ID": "ML_ACHIEVEMENT_32",
       "SetID": "5k00jcd",
       "Name": "Spendthrift",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ML_ACHIEVEMENT_33",
@@ -4013,9 +4013,9 @@
       "ID": "ML_ACHIEVEMENT_43",
       "SetID": "5k00jcd",
       "Name": "Mission complete",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 123
     },
     {
       "ID": "ML_ACHIEVEMENT_44",
@@ -4058,8 +4058,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-22T04:04:06.0068007+00:00",
+  "LastChanged_Achievements": "2023-12-22T05:03:49.1215501+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:08.51229+00:00",
-  "LastUpdate_Ratings": "2023-12-22T03:57:07.569496+00:00",
-  "LastUpdate_Achievements": "2023-12-22T04:04:06.0068378+00:00"
+  "LastUpdate_Ratings": "2023-12-22T04:57:13.1524587+00:00",
+  "LastUpdate_Achievements": "2023-12-22T05:03:49.1215891+00:00"
 }

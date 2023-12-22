@@ -1,20 +1,20 @@
 # Crying Suns
 [Store](https://store.epicgames.com/en-US/p/crying-suns)  
 [View Rawdata](../../db/c/crying_suns.json)  
-Rating: 4.50 (Ranked 603)  
+Rating: 4.50 (Ranked 602)  
 Number of Ratings: 1,003  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~311,923 |
+| The Shutdown | 66.00% | ~311,924 |
 | Jeef Skeejj | 44.00% | ~207,949 |
-| Careful planning | 39.00% | ~184,318 |
+| Careful planning | 39.00% | ~184,319 |
 | Second Coming | 34.00% | ~160,688 |
-| Jeef Skagg | 30.00% | ~141,783 |
+| Jeef Skagg | 30.00% | ~141,784 |
 | Mother | 25.00% | ~118,153 |
 | In space, no one can hear you scream | 24.00% | ~113,427 |
-| Chapter I: Echoes | 22.00% | ~103,974 |
-| Excelsior Rule | 22.00% | ~103,974 |
+| Chapter I: Echoes | 22.00% | ~103,975 |
+| Excelsior Rule | 22.00% | ~103,975 |
 | Things persisted in not being what they seemed | 20.00% | ~94,522 |
 | Knightmare Frames | 15.00% | ~70,892 |
 | May His passing cleanse the world | 15.00% | ~70,892 |
@@ -56,7 +56,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Emperor of Misery | 1.00% | ~4,726 |
 | A Frozen Lady | 1.00% | ~4,726 |
 | Void Rule | 1.00% | ~4,726 |
-| Excelsior Mastery | 0.90% | ~4,253 |
+| Excelsior Mastery | 0.90% | ~4,254 |
 | Hand of the Emperor | 0.60% | ~99 |
 | The greatest admiral of all time | 0.50% | ~2,363 |
 | Soldiers of Fortune | 0.40% | ~66 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~17 |
 | Kronos Rule | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 472,611 (Ranked 43)  
+Progressed: 472,612 (Ranked 43)  
 Completed: 20 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,7 +332,7 @@ Completed: 20 (0.00%) (Ranked 384)
 | 2023-12-19 | 472,497 | 20 |
 | 2023-12-20 | 472,547 | 20 |
 | 2023-12-21 | 472,597 | 20 |
-| 2023-12-22 | 472,611 | 20 |
+| 2023-12-22 | 472,612 | 20 |
 ## Awards
 Max (Character Customization): 226  (Ranked 282)  
 Sum: 250 (Ranked 392)  

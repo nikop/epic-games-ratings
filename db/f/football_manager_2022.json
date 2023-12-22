@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": null,
@@ -8814,10 +8814,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 51159,
       "NumberOfAwardsMax": 6486
+    },
+    {
+      "Time": "2023-12-22T04:58:08.1653244+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 51160,
+      "NumberOfAwardsMax": 6486
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 51159,
+  "NumberOfAwards": 51160,
   "NumberOfAwardsMax": 6486,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -8873,7 +8879,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5607
+      "Count": 5608
     },
     {
       "Text": "This game has Amazing Characters",
@@ -8888,9 +8894,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 478115,
+  "EOS_Progressed": 478116,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 437,
+  "EOS_NewPlayers": 435,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33703,6 +33709,11 @@
       "Time": "2023-12-22T03:03:44.8529097+00:00",
       "NumProgressed": 478115,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-12-22T05:03:18.3656919+00:00",
+      "NumProgressed": 478116,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -33810,7 +33821,7 @@
       "Name": "Parked The Bus",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 138653
+      "UsersEstimate": 138654
     },
     {
       "ID": "achievement_5_manager_of_the_year_awards",
@@ -33826,7 +33837,7 @@
       "Name": "Team Performance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 143434
+      "UsersEstimate": 143435
     },
     {
       "ID": "achievement_5_players_in_team_of_the_year",
@@ -33858,7 +33869,7 @@
       "Name": "Beating Expectations",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 76498
+      "UsersEstimate": 76499
     },
     {
       "ID": "achievement_big_win",
@@ -33874,7 +33885,7 @@
       "Name": "Splashing The Cash",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 105185
+      "UsersEstimate": 105186
     },
     {
       "ID": "achievement_childhood_dream",
@@ -33890,7 +33901,7 @@
       "Name": "Clean Bill of Health",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 105185
+      "UsersEstimate": 105186
     },
     {
       "ID": "achievement_clean_sheet",
@@ -33946,7 +33957,7 @@
       "Name": "I\u0027m The Boss!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 200808
+      "UsersEstimate": 200809
     },
     {
       "ID": "achievement_full_board_confidence",
@@ -33986,7 +33997,7 @@
       "Name": "What A Goal!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 105185
+      "UsersEstimate": 105186
     },
     {
       "ID": "achievement_goal_of_the_season",
@@ -34026,7 +34037,7 @@
       "Name": "Shrewd Spender",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 138653
+      "UsersEstimate": 138654
     },
     {
       "ID": "achievement_hattrick",
@@ -34034,7 +34045,7 @@
       "Name": "Hat-trick",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 196027
+      "UsersEstimate": 196028
     },
     {
       "ID": "achievement_head_to_head",
@@ -34090,7 +34101,7 @@
       "Name": "Top Of The Class",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 109966
+      "UsersEstimate": 109967
     },
     {
       "ID": "achievement_manager_of_the_year",
@@ -34130,7 +34141,7 @@
       "Name": "Overachiever!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 76498
+      "UsersEstimate": 76499
     },
     {
       "ID": "achievement_perfect_dressing_room_atmosphere",
@@ -34138,7 +34149,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 167340
+      "UsersEstimate": 167341
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -34186,7 +34197,7 @@
       "Name": "Star Man",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 138653
+      "UsersEstimate": 138654
     },
     {
       "ID": "achievement_player_in_world_cup_best_xi",
@@ -34226,7 +34237,7 @@
       "Name": "Rushed signing",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 76498
+      "UsersEstimate": 76499
     },
     {
       "ID": "achievement_score_a_goal_in_10_consecutive_matches",
@@ -34258,7 +34269,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 229495
+      "UsersEstimate": 229496
     },
     {
       "ID": "achievement_signed_a_player",
@@ -34274,7 +34285,7 @@
       "Name": "Goal Machine",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 109966
+      "UsersEstimate": 109967
     },
     {
       "ID": "achievement_unbeaten_host_in_fantasy_draft",
@@ -34354,7 +34365,7 @@
       "Name": "Cup Glory!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 105185
+      "UsersEstimate": 105186
     },
     {
       "ID": "achievement_won_international_championship",
@@ -34497,15 +34508,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 478115,
+      "Progressed": 478116,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
-  "LastChanged": "2023-12-21T23:58:19.4883684+00:00",
-  "LastChanged_Achievements": "2023-12-22T04:03:35.0844633+00:00",
+  "LastChanged": "2023-12-22T04:58:08.1653242+00:00",
+  "LastChanged_Achievements": "2023-12-22T05:03:18.3656916+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:52.4135376+00:00",
-  "LastUpdate_Ratings": "2023-12-22T03:58:03.400469+00:00",
-  "LastUpdate_Achievements": "2023-12-22T04:03:35.084643+00:00"
+  "LastUpdate_Ratings": "2023-12-22T04:58:08.1653247+00:00",
+  "LastUpdate_Achievements": "2023-12-22T05:03:18.3658593+00:00"
 }

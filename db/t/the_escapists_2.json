@@ -4,7 +4,7 @@
   "ProductSlug": "the-escapists-2",
   "Ranking_Rating": 456,
   "Ranking_Popularity": 426,
-  "Ranking_PopularitySum": 330,
+  "Ranking_PopularitySum": 331,
   "Ranking_EOS_Progress": 814,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 562,
@@ -1361,6 +1361,6 @@
   "FirstSeen": "2022-07-22T20:22:06.6335859+00:00",
   "LastChanged": "2023-12-21T20:58:14.7549084+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:59.2181601+00:00",
-  "LastUpdate_Ratings": "2023-12-22T03:58:08.8716679+00:00",
-  "LastUpdate_Achievements": "2023-12-22T04:05:08.3030141+00:00"
+  "LastUpdate_Ratings": "2023-12-22T04:58:13.4250907+00:00",
+  "LastUpdate_Achievements": "2023-12-22T05:04:51.0733529+00:00"
 }

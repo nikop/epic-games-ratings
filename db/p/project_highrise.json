@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 413,
+  "EOS_Progressed": 414,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1240,6 +1240,11 @@
       "Time": "2023-12-21T23:04:01.3437456+00:00",
       "NumProgressed": 413,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T05:03:13.9131369+00:00",
+      "NumProgressed": 414,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1267,7 +1272,7 @@
       "Name": "Lux Living",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ach_apartments_2",
@@ -1283,7 +1288,7 @@
       "Name": "Floor Galore",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ach_area_1",
@@ -1603,7 +1608,7 @@
       "Name": "Rehab Expert",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ach_happy",
@@ -1611,15 +1616,15 @@
       "Name": "Happy Tenants",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ach_loan",
       "SetID": "b8gh1fi",
       "Name": "Don\u0027t Feel a Loan",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 91
     },
     {
       "ID": "ach_mod_1",
@@ -1763,7 +1768,7 @@
       "Name": "Tasty Profits",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ach_restaurants_3",
@@ -1771,7 +1776,7 @@
       "Name": "Dinner Dash",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ach_restaurants_4",
@@ -1779,7 +1784,7 @@
       "Name": "Potent Potables",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ach_restaurants_5",
@@ -1875,7 +1880,7 @@
       "Name": "Smooth Service",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ach_trash_1",
@@ -1891,7 +1896,7 @@
       "Name": "We Don\u0027t Need No Education",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ach_util_cable",
@@ -1923,7 +1928,7 @@
       "Name": "Get Electrified",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ach_util_water",
@@ -1954,7 +1959,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 413,
+      "Progressed": 414,
       "Completed": 0
     }
   ],
@@ -1962,8 +1967,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-12-22T04:03:30.5596286+00:00",
+  "LastChanged_Achievements": "2023-12-22T05:03:13.9131367+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:18.491222+00:00",
-  "LastUpdate_Ratings": "2023-12-22T03:59:36.5220313+00:00",
-  "LastUpdate_Achievements": "2023-12-22T04:03:30.5597327+00:00"
+  "LastUpdate_Ratings": "2023-12-22T04:59:40.3252378+00:00",
+  "LastUpdate_Achievements": "2023-12-22T05:03:13.9132171+00:00"
 }

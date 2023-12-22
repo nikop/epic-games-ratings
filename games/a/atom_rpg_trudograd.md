@@ -5,15 +5,15 @@ Rating: 4.55 (Ranked 510)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fresh Prince of Trudograd | 87.00% | ~1,141 |
+| Fresh Prince of Trudograd | 87.00% | ~1,142 |
 | Household | 7.00% | ~92 |
 | An Old Friend | 6.00% | ~79 |
 | Lot 49 | 5.00% | ~66 |
 | Viva La Revolution | 5.00% | ~66 |
 | Walking Fortress | 5.00% | ~66 |
-| Atomic Soda | 4.00% | ~52 |
-| Mysterious Knife | 4.00% | ~52 |
-| Shadow over Trudograd | 4.00% | ~52 |
+| Atomic Soda | 4.00% | ~53 |
+| Mysterious Knife | 4.00% | ~53 |
+| Shadow over Trudograd | 4.00% | ~53 |
 | Freelance Police | 3.00% | ~39 |
 | The Great and Powerful | 3.00% | ~39 |
 | Albino Bloodsucker | 2.00% | ~26 |
@@ -22,7 +22,7 @@ Rating: 4.55 (Ranked 510)
 | Death of the Author | 1.00% | ~13 |
 | Memoirs of a Nibbler | 0.90% | ~12 |
 | Rising Star | 0.90% | ~12 |
-| KGB Bunker | 0.80% | ~10 |
+| KGB Bunker | 0.80% | ~11 |
 | Sixth Sense | 0.70% | ~9 |
 | Baby Eater | 0.60% | ~8 |
 | Admiral | 0.40% | ~5 |
@@ -38,7 +38,7 @@ Rating: 4.55 (Ranked 510)
 | Power of Simplicity | 0.20% | ~3 |
 | Terrorist | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,312 (Ranked 259)  
+Progressed: 1,313 (Ranked 259)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,6 +204,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-19 | 1,309 | 0 |
 | 2023-12-20 | 1,310 | 0 |
 | 2023-12-21 | 1,312 | 0 |
+| 2023-12-22 | 1,313 | 0 |
 ## Awards
 Max (Character Customization): 26  (Ranked 532)  
 Sum: 26 (Ranked 540)  

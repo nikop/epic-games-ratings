@@ -477,7 +477,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3510,
+  "EOS_Progressed": 3511,
   "EOS_Completed": 139,
   "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 1,
@@ -5792,6 +5792,11 @@
       "Time": "2023-12-22T00:03:25.1240276+00:00",
       "NumProgressed": 3510,
       "NumCompleted": 139
+    },
+    {
+      "Time": "2023-12-22T05:03:06.771151+00:00",
+      "NumProgressed": 3511,
+      "NumCompleted": 139
     }
   ],
   "TotalAchievements": 14,
@@ -5817,9 +5822,9 @@
       "ID": "ACH_CAT_LOVER",
       "SetID": "4kfb9pd",
       "Name": "Cat Person",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 878
+      "UsersEstimate": 843
     },
     {
       "ID": "ACH_CLIMBER",
@@ -5843,7 +5848,7 @@
       "Name": "Easy As Pie",
       "Percentage": 34,
       "XP": 55,
-      "UsersEstimate": 1193
+      "UsersEstimate": 1194
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -5851,7 +5856,7 @@
       "Name": "Family Lost",
       "Percentage": 32,
       "XP": 80,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1124
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -5867,7 +5872,7 @@
       "Name": "Imprisonment",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
@@ -5875,7 +5880,7 @@
       "Name": "Mad Scientist",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "ACH_REUNION",
@@ -5883,7 +5888,7 @@
       "Name": "Reunion",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "ACH_SHOVEL_NIGHT",
@@ -5907,14 +5912,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 78,
       "XP": 35,
-      "UsersEstimate": 2738
+      "UsersEstimate": 2739
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3510,
+      "Progressed": 3511,
       "Completed": 139
     }
   ],
@@ -5922,8 +5927,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-12-16T18:57:24.1820131+00:00",
-  "LastChanged_Achievements": "2023-12-22T04:03:23.3644704+00:00",
+  "LastChanged_Achievements": "2023-12-22T05:03:06.7711506+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:20.5679965+00:00",
-  "LastUpdate_Ratings": "2023-12-22T03:59:41.5945992+00:00",
-  "LastUpdate_Achievements": "2023-12-22T04:03:23.3645133+00:00"
+  "LastUpdate_Ratings": "2023-12-22T04:59:44.8201522+00:00",
+  "LastUpdate_Achievements": "2023-12-22T05:03:06.7711904+00:00"
 }

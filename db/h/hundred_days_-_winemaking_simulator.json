@@ -2,7 +2,7 @@
   "ID": "4d8b727a49144090b103f6b6ba471e71",
   "Name": "Hundred Days - Winemaking Simulator",
   "ProductSlug": "hundred-days-winemaking-simulator",
-  "Ranking_Rating": 803,
+  "Ranking_Rating": 804,
   "Ranking_Popularity": 290,
   "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 155,
@@ -1081,9 +1081,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 16928,
+  "EOS_Progressed": 16930,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 960,
+  "EOS_NewPlayers": 959,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -14456,6 +14456,11 @@
       "Time": "2023-12-22T04:09:37.6702173+00:00",
       "NumProgressed": 16928,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-22T05:09:08.36052+00:00",
+      "NumProgressed": 16930,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -14516,7 +14521,7 @@
       "Name": "Bye Bye",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 7110
+      "UsersEstimate": 7111
     },
     {
       "ID": "a_19",
@@ -14676,7 +14681,7 @@
       "Name": "Treasure of Roero",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "a_6",
@@ -14715,7 +14720,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 16928,
+      "Progressed": 16930,
       "Completed": 13
     }
   ],
@@ -14723,8 +14728,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-12-20T04:59:26.9581914+00:00",
-  "LastChanged_Achievements": "2023-12-22T04:09:37.6702171+00:00",
+  "LastChanged_Achievements": "2023-12-22T05:09:08.3605197+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:03.7853176+00:00",
-  "LastUpdate_Ratings": "2023-12-22T03:59:33.7588202+00:00",
-  "LastUpdate_Achievements": "2023-12-22T04:09:37.670301+00:00"
+  "LastUpdate_Ratings": "2023-12-22T04:59:37.4856185+00:00",
+  "LastUpdate_Achievements": "2023-12-22T05:09:08.3606048+00:00"
 }

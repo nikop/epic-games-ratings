@@ -30,9 +30,9 @@
 | Fight for life | 55.00% | ~243 |
 | Little hacker | 55.00% | ~243 |
 | It's good to be alive | 55.00% | ~243 |
+| Own four walls | 55.00% | ~243 |
 | Intriguing candies | 55.00% | ~243 |
 | Employee of the year | 55.00% | ~243 |
-| Own four walls | 54.00% | ~239 |
 | Extreme neuropower! | 51.00% | ~225 |
 | Legal courier | 50.00% | ~221 |
 | Escaped from a big trouble | 47.00% | ~208 |

@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 152,
+  "EOS_Progressed": 153,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -684,6 +684,11 @@
       "Time": "2023-12-22T01:53:24.9237966+00:00",
       "NumProgressed": 152,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T05:08:25.3244006+00:00",
+      "NumProgressed": 153,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -694,9 +699,9 @@
       "ID": "SG_ABDICATION",
       "SetID": "bj5g0n4",
       "Name": "Abdication",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "SG_ACROSSTHESTYX",
@@ -704,7 +709,7 @@
       "Name": "Across The Styx",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "SG_AGAINSTALLODDS",
@@ -768,7 +773,7 @@
       "Name": "End Of The Road",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -790,9 +795,9 @@
       "ID": "SG_GODOFTHESUN",
       "SetID": "bj5g0n4",
       "Name": "God Of The Sun",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "SG_HEARTBREAKER",
@@ -814,9 +819,9 @@
       "ID": "SG_LOSTINASONG",
       "SetID": "bj5g0n4",
       "Name": "Lost In A Song",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "SG_MAESTRO",
@@ -832,7 +837,7 @@
       "Name": "Meant To Be",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "SG_MYTIMETOSHINE",
@@ -848,7 +853,7 @@
       "Name": "Not A Lost Girl",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "SG_NOTTAKINGANYCHANCES",
@@ -991,14 +996,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 152,
+      "Progressed": 153,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-12-22T04:08:54.4776598+00:00",
+  "LastChanged_Achievements": "2023-12-22T05:08:25.3244002+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:52.970167+00:00",
-  "LastUpdate_Ratings": "2023-12-22T03:57:14.0898455+00:00",
-  "LastUpdate_Achievements": "2023-12-22T04:08:54.4776911+00:00"
+  "LastUpdate_Ratings": "2023-12-22T04:57:19.6971408+00:00",
+  "LastUpdate_Achievements": "2023-12-22T05:08:25.3244285+00:00"
 }

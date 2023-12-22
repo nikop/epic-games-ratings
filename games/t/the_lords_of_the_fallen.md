@@ -1,7 +1,7 @@
 # Lords of the Fallen
 [Store](https://store.epicgames.com/en-US/p/lords-of-the-fallen)  
 [View Rawdata](../../db/t/the_lords_of_the_fallen.json)  
-Rating: 4.24 (Ranked 902)  
+Rating: 4.25 (Ranked 898)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -69,7 +69,7 @@ Rating: 4.24 (Ranked 902)
 | A Rest Among the Dead | 0.10% | ~7 |
 | A Trace of Venom | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,566 (Ranked 191)  
+Progressed: 6,578 (Ranked 190)  
 Completed: 2 (0.03%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,10 +134,10 @@ Completed: 2 (0.03%) (Ranked 345)
 | 2023-12-19 | 5,770 | 2 |
 | 2023-12-20 | 6,125 | 2 |
 | 2023-12-21 | 6,478 | 2 |
-| 2023-12-22 | 6,566 | 2 |
+| 2023-12-22 | 6,578 | 2 |
 ## Awards
 Max (Character Customization): 237  (Ranked 277)  
-Sum: 612 (Ranked 315)  
+Sum: 613 (Ranked 315)  
 Diff (max vs sum): -38  
 | Award | Count |
 | ----- | ----- |
@@ -148,7 +148,7 @@ Diff (max vs sum): -38
 | This game has Challenging Combat | 28 |
 | This game is Highly Recommended | 26 |
 | This game has Diverse Characters | 24 |
-| This game is Extremely Fun | 23 |
+| This game is Extremely Fun | 24 |
 | This game has Amazing Characters | 21 |
 | This game is Relaxing | 20 |
 ## Ratings History
@@ -218,4 +218,4 @@ Diff (max vs sum): -38
 | 2023-12-19 | 4.21 | 223 | 563 |
 | 2023-12-20 | 4.22 | 228 | 594 |
 | 2023-12-21 | 4.23 | 237 | 610 |
-| 2023-12-22 | 4.24 | 237 | 612 |
+| 2023-12-22 | 4.25 | 237 | 613 |
