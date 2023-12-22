@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 54,
   "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 622,
+  "EOS_Progressed": 623,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 7.4,
+  "EOS_Completed_Percentage": 7.38,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:01:22.5999936+00:00",
@@ -2504,6 +2504,11 @@
       "Time": "2023-12-22T22:05:38.7559969+00:00",
       "NumProgressed": 622,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-12-22T23:02:44.8297677+00:00",
+      "NumProgressed": 623,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 45,
@@ -2515,7 +2520,7 @@
       "Name": "Wild Run",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "BasiliskBroom",
@@ -2537,9 +2542,9 @@
       "ID": "BearBroom",
       "SetID": "db30heh",
       "Name": "Dusted",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 93
+      "UsersEstimate": 100
     },
     {
       "ID": "BearPistol",
@@ -2547,15 +2552,15 @@
       "Name": "Ouch!",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "BearPoppiesBroth",
       "SetID": "db30heh",
       "Name": "Sleeping Potion",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 168
+      "UsersEstimate": 174
     },
     {
       "ID": "BearRum",
@@ -2563,7 +2568,7 @@
       "Name": "Ready for Bed",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "BearSword",
@@ -2595,7 +2600,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "BroomAmanita",
@@ -2619,7 +2624,7 @@
       "Name": "Deal with the Devil",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "DevilRope",
@@ -2651,7 +2656,7 @@
       "Name": "Funny Granny",
       "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "DwarfHobo",
@@ -2659,7 +2664,7 @@
       "Name": "Funny Hobo",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "FerrymanBird",
@@ -2667,15 +2672,15 @@
       "Name": "Happy Reunion",
       "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "HastrmanAcorn",
       "SetID": "db30heh",
       "Name": "Do Not Disturb",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 311
+      "UsersEstimate": 318
     },
     {
       "ID": "HastrmanAmanita",
@@ -2739,7 +2744,7 @@
       "Name": "Unexpected Hit",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "PriestPoppiesBroth",
@@ -2763,15 +2768,15 @@
       "Name": "Rummy",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "Priestess",
       "SetID": "db30heh",
       "Name": "Blessed",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 342
+      "UsersEstimate": 349
     },
     {
       "ID": "PrincessThrone",
@@ -2779,15 +2784,15 @@
       "Name": "New Order",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "RogueChest",
       "SetID": "db30heh",
       "Name": "Treasure Chest",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 355
+      "UsersEstimate": 361
     },
     {
       "ID": "RogueEat",
@@ -2795,7 +2800,7 @@
       "Name": "Debt Free",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "RogueKing",
@@ -2811,15 +2816,15 @@
       "Name": "The King is Naked",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "RogueRum",
       "SetID": "db30heh",
       "Name": "In Good Spirits",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 498
+      "UsersEstimate": 505
     },
     {
       "ID": "SleepingBasiliskAmanita",
@@ -2833,9 +2838,9 @@
       "ID": "SleepingBasiliskPistol",
       "SetID": "db30heh",
       "Name": "Knockout",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 106
     },
     {
       "ID": "SleepingBasiliskPoppiesBroth",
@@ -2851,7 +2856,7 @@
       "Name": "Precious Barter",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "SwordMoneyBag",
@@ -2874,14 +2879,14 @@
     {
       "ID": "db30heh",
       "IsBase": true,
-      "Progressed": 622,
+      "Progressed": 623,
       "Completed": 46
     }
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-12-22T22:05:38.7559966+00:00",
+  "LastChanged_Achievements": "2023-12-22T23:02:44.8297672+00:00",
   "LastUpdate_AppInfo": "2023-12-20T02:56:49.0129985+00:00",
-  "LastUpdate_Ratings": "2023-12-22T22:00:39.3684906+00:00",
-  "LastUpdate_Achievements": "2023-12-22T22:05:38.7560344+00:00"
+  "LastUpdate_Ratings": "2023-12-22T22:59:26.6681697+00:00",
+  "LastUpdate_Achievements": "2023-12-22T23:02:44.8298086+00:00"
 }

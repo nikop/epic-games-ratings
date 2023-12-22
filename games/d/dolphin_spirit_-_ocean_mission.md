@@ -4,20 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Maupiroa | 44.00% | ~11 |
-| Recycling newbie | 36.00% | ~9 |
-| New recruit | 20.00% | ~5 |
-| Interesting | 16.00% | ~4 |
-| Amateur photographer | 12.00% | ~3 |
+| Welcome to Maupiroa | 48.00% | ~12 |
+| Recycling newbie | 40.00% | ~10 |
+| New recruit | 24.00% | ~6 |
+| Interesting | 20.00% | ~5 |
+| Amateur photographer | 16.00% | ~4 |
+| Power of the turtle | 12.00% | ~3 |
 | Power of the dolphin | 12.00% | ~3 |
 | Rescuer | 8.00% | ~2 |
 | Heroic member | 8.00% | ~2 |
 | In search of knowledge | 8.00% | ~2 |
-| Power of the turtle | 8.00% | ~2 |
 | Power of the ray | 8.00% | ~2 |
 | Pro Photographer | 4.00% | ~1 |
 | Animal reporter | 4.00% | ~1 |
 | Recycling expert | 4.00% | ~1 |
+| Let's get started | 4.00% | ~1 |
 | Island gardian angel | 4.00% | ~1 |
 | Legend of the association | 4.00% | ~1 |
 | Picture of the bay | 4.00% | ~1 |
@@ -32,7 +33,6 @@
 | Atoll cleanup | 0.00% | ~0 |
 | Reef cleanup | 0.00% | ~0 |
 | Island cleanup | 0.00% | ~0 |
-| Let's get started | 0.00% | ~0 |
 | Island protector | 0.00% | ~0 |
 | Picture of the creek | 0.00% | ~0 |
 | Well of science | 0.00% | ~0 |

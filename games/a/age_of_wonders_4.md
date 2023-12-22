@@ -50,9 +50,9 @@ Rating: 4.62 (Ranked 374)
 | I've Got Everything I Need Right Here | 0.80% | ~48 |
 | The Goddess of Nature | 0.80% | ~48 |
 | Grexolis | 0.80% | ~48 |
-| One for All, All for One | 0.80% | ~48 |
 | Manufactured War | 0.70% | ~42 |
 | Pruning for Progress | 0.70% | ~42 |
+| One for All, All for One | 0.70% | ~42 |
 | Duality | 0.70% | ~42 |
 | Betrayal Most Foul | 0.50% | ~30 |
 | Snap Out of It! | 0.30% | ~18 |
@@ -66,8 +66,8 @@ Rating: 4.62 (Ranked 374)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,000 (Ranked 193)  
-Completed: 7 (0.12%) (Ranked 297)  
+Progressed: 6,001 (Ranked 193)  
+Completed: 7 (0.12%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -280,7 +280,7 @@ Completed: 7 (0.12%) (Ranked 297)
 | 2023-12-19 | 5,881 | 7 |
 | 2023-12-20 | 5,911 | 7 |
 | 2023-12-21 | 5,945 | 7 |
-| 2023-12-22 | 6,000 | 7 |
+| 2023-12-22 | 6,001 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 482)  
 Sum: 113 (Ranked 449)  

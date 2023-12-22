@@ -437,9 +437,9 @@
       "Count": 71
     }
   ],
-  "EOS_Progressed": 333203,
+  "EOS_Progressed": 333231,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3834,
+  "EOS_NewPlayers": 3844,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10597,6 +10597,11 @@
       "Time": "2023-12-22T22:07:50.9854165+00:00",
       "NumProgressed": 333203,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-22T23:04:15.4130687+00:00",
+      "NumProgressed": 333231,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -10609,7 +10614,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13328
+      "UsersEstimate": 13329
     },
     {
       "ID": "S02_BRDA",
@@ -10617,7 +10622,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 9996
+      "UsersEstimate": 9997
     },
     {
       "ID": "S03_OTWA",
@@ -10633,7 +10638,7 @@
       "Name": "We\u0027ll be careful",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 2332
+      "UsersEstimate": 2333
     },
     {
       "ID": "S05_SWRA",
@@ -10745,7 +10750,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13328
+      "UsersEstimate": 13329
     },
     {
       "ID": "S19_CHALLENGES",
@@ -10928,7 +10933,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 333203,
+      "Progressed": 333231,
       "Completed": 5
     }
   ],
@@ -10936,8 +10941,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-20T17:57:35.3329235+00:00",
-  "LastChanged_Achievements": "2023-12-22T22:07:50.9854161+00:00",
+  "LastChanged_Achievements": "2023-12-22T23:04:15.4130684+00:00",
   "LastUpdate_AppInfo": "2023-12-21T21:57:06.8306267+00:00",
-  "LastUpdate_Ratings": "2023-12-22T21:59:11.623508+00:00",
-  "LastUpdate_Achievements": "2023-12-22T22:07:50.9854892+00:00"
+  "LastUpdate_Ratings": "2023-12-22T22:58:29.4364987+00:00",
+  "LastUpdate_Achievements": "2023-12-22T23:04:15.413124+00:00"
 }

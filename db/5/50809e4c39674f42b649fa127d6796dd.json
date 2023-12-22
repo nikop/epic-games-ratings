@@ -2,9 +2,9 @@
   "ID": "50809e4c39674f42b649fa127d6796dd",
   "Name": "Sonic Frontiers",
   "ProductSlug": "sonic-frontiers",
-  "Ranking_EOS_Progress": 332,
+  "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 321,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 482,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -1375,9 +1375,9 @@
       "ID": "ENEMY_DEFEATED_ALL",
       "SetID": "apihg0e",
       "Name": "Easy Prey",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 29
     },
     {
       "ID": "FIRST_ACCEL_COMBO",
@@ -1631,9 +1631,9 @@
       "ID": "SUB_CLEAR_ISLAND4",
       "SetID": "apihg0e",
       "Name": "Ouranos Island Expert",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 10
     },
     {
       "ID": "TOTAL_DESTROYED_OBJECT",
@@ -1654,8 +1654,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-22T22:04:35.8966331+00:00",
+  "LastChanged_Achievements": "2023-12-22T23:02:01.9923648+00:00",
   "LastUpdate_AppInfo": "2023-12-19T19:57:15.6866052+00:00",
-  "LastUpdate_Ratings": "2023-12-22T22:02:59.0364712+00:00",
-  "LastUpdate_Achievements": "2023-12-22T22:04:35.8966664+00:00"
+  "LastUpdate_Ratings": "2023-12-22T23:00:55.3821522+00:00",
+  "LastUpdate_Achievements": "2023-12-22T23:02:01.9923972+00:00"
 }

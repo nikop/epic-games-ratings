@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewPlayers": 303,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -191,11 +191,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 759,
+  "EOS_Progressed": 760,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.91,
+  "EOS_Completed_Percentage": 7.89,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:45.6416158+00:00",
@@ -631,6 +631,11 @@
       "Time": "2023-12-22T16:08:48.5103523+00:00",
       "NumProgressed": 759,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-22T23:04:14.7895675+00:00",
+      "NumProgressed": 760,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 50,
@@ -642,7 +647,7 @@
       "Name": "Plenty More to Go",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "ACHIEVEMENT002",
@@ -650,7 +655,7 @@
       "Name": "Partners?",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "ACHIEVEMENT003",
@@ -666,7 +671,7 @@
       "Name": "All Bark, No Bite",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "ACHIEVEMENT005",
@@ -674,7 +679,7 @@
       "Name": "Magical Mineral Golem",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "ACHIEVEMENT006",
@@ -704,9 +709,9 @@
       "ID": "ACHIEVEMENT009",
       "SetID": "dejhjd5",
       "Name": "The Road to Recovery",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 471
+      "UsersEstimate": 464
     },
     {
       "ID": "ACHIEVEMENT010",
@@ -714,7 +719,7 @@
       "Name": "One-Hundred Resident Record",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT011",
@@ -834,7 +839,7 @@
       "Name": "Hopeful Hunter",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "ACHIEVEMENT026",
@@ -890,7 +895,7 @@
       "Name": "Sommelier",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT033",
@@ -898,7 +903,7 @@
       "Name": "Rune Scholar",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACHIEVEMENT034",
@@ -930,7 +935,7 @@
       "Name": "Rune Wall Wreckage",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "ACHIEVEMENT038",
@@ -978,7 +983,7 @@
       "Name": "The Snowpeak...On Foot!",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ACHIEVEMENT044",
@@ -986,7 +991,7 @@
       "Name": "The Lava Ruins...On Foot!",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ACHIEVEMENT045",
@@ -1002,7 +1007,7 @@
       "Name": "Champion of the Great Forest",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT047",
@@ -1041,15 +1046,15 @@
     {
       "ID": "dejhjd5",
       "IsBase": true,
-      "Progressed": 759,
+      "Progressed": 760,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-12-03T09:59:31.596296+00:00",
-  "LastChanged_Achievements": "2023-12-22T22:07:50.0436839+00:00",
+  "LastChanged_Achievements": "2023-12-22T23:04:14.7895672+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:14.9591133+00:00",
-  "LastUpdate_Ratings": "2023-12-22T22:00:09.7381094+00:00",
-  "LastUpdate_Achievements": "2023-12-22T22:07:50.0437261+00:00"
+  "LastUpdate_Ratings": "2023-12-22T22:59:06.9687232+00:00",
+  "LastUpdate_Achievements": "2023-12-22T23:04:14.7895985+00:00"
 }

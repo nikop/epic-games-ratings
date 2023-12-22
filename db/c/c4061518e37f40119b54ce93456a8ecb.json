@@ -4,7 +4,7 @@
   "ProductSlug": "return-to-grace-92a75a",
   "Ranking_EOS_Progress": 620,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 531,
+  "Ranking_EOS_NewPlayers": 532,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-30T13:00:00+00:00",
@@ -166,9 +166,9 @@
       "ID": "ACH_Bathroom",
       "SetID": "aao9n96",
       "Name": "He doesn\u0027t know how to use the three seashells",
-      "Percentage": 63,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_Beacon",
@@ -182,9 +182,9 @@
       "ID": "ACH_CastDevice",
       "SetID": "aao9n96",
       "Name": "Wilson!",
-      "Percentage": 6,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_ControlEnding",
@@ -238,25 +238,25 @@
       "ID": "ACH_Everett",
       "SetID": "aao9n96",
       "Name": "I KNOW HIM!",
-      "Percentage": 63,
+      "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_FirstWish",
       "SetID": "aao9n96",
       "Name": "As you wish",
-      "Percentage": 63,
+      "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_FlawlessSecurity",
       "SetID": "aao9n96",
       "Name": "Clever Girl",
-      "Percentage": 50,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_GraceEnding",
@@ -382,9 +382,9 @@
       "ID": "ACH_TransitWorking",
       "SetID": "aao9n96",
       "Name": "It\u0027s working! It\u0027s working!",
-      "Percentage": 69,
+      "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_WeatherStations",
@@ -405,8 +405,8 @@
   ],
   "FirstSeen": "2023-06-18T13:01:09.4740669+00:00",
   "FirstSeenAchievements": "2023-05-24T20:04:21.7839136+00:00",
-  "LastChanged_Achievements": "2023-12-22T22:05:59.9071252+00:00",
+  "LastChanged_Achievements": "2023-12-22T23:02:59.1312714+00:00",
   "LastUpdate_AppInfo": "2023-12-20T08:57:18.6265528+00:00",
-  "LastUpdate_Ratings": "2023-12-22T21:59:43.0896769+00:00",
-  "LastUpdate_Achievements": "2023-12-22T22:05:59.9071437+00:00"
+  "LastUpdate_Ratings": "2023-12-22T22:58:49.1061519+00:00",
+  "LastUpdate_Achievements": "2023-12-22T23:02:59.1312902+00:00"
 }

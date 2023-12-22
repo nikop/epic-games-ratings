@@ -5,7 +5,7 @@
   "Ranking_Rating": 829,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
-  "Ranking_EOS_Progress": 189,
+  "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 158,
@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6810,
+  "EOS_Progressed": 6811,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7382,6 +7382,11 @@
       "Time": "2023-12-22T22:08:23.052605+00:00",
       "NumProgressed": 6810,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-22T23:04:37.9253149+00:00",
+      "NumProgressed": 6811,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -7673,7 +7678,7 @@
       "Name": "Life Found a Way",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "MoneyShot",
@@ -7761,7 +7766,7 @@
       "Name": "Smooth Operator: Madison",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "SmellBlood",
@@ -7944,21 +7949,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3849,
+      "Progressed": 3850,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6810,
+      "Progressed": 6811,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-11-09T16:59:44.3369528+00:00",
-  "LastChanged_Achievements": "2023-12-22T22:08:23.0526046+00:00",
+  "LastChanged_Achievements": "2023-12-22T23:04:37.9253146+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:57:00.6837777+00:00",
-  "LastUpdate_Ratings": "2023-12-22T22:01:31.2416215+00:00",
-  "LastUpdate_Achievements": "2023-12-22T22:08:23.0526807+00:00"
+  "LastUpdate_Ratings": "2023-12-22T22:59:59.2898948+00:00",
+  "LastUpdate_Achievements": "2023-12-22T23:04:37.9253965+00:00"
 }

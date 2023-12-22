@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2013,
+  "EOS_Progressed": 2014,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 261,
+  "EOS_NewPlayers": 259,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5904,6 +5904,11 @@
       "Time": "2023-12-22T22:10:32.2262355+00:00",
       "NumProgressed": 2013,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-22T23:06:08.2782937+00:00",
+      "NumProgressed": 2014,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -6140,7 +6145,7 @@
       "Name": "New Recruit",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1771
+      "UsersEstimate": 1772
     },
     {
       "ID": "achievement_36",
@@ -6156,7 +6161,7 @@
       "Name": "Off to a good start",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1288
+      "UsersEstimate": 1289
     },
     {
       "ID": "achievement_38",
@@ -6180,7 +6185,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "achievement_40",
@@ -6354,9 +6359,9 @@
       "ID": "achievement_6",
       "SetID": "271ol84",
       "Name": "Great shot, kid!",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 322
+      "UsersEstimate": 342
     },
     {
       "ID": "achievement_60",
@@ -6419,13 +6424,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2013,
+      "Progressed": 2014,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2013,
+      "Progressed": 2014,
       "Completed": 1
     }
   ],
@@ -6433,8 +6438,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-22T22:10:32.2262349+00:00",
+  "LastChanged_Achievements": "2023-12-22T23:06:08.2782932+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.5169818+00:00",
-  "LastUpdate_Ratings": "2023-12-22T21:59:37.5340613+00:00",
-  "LastUpdate_Achievements": "2023-12-22T22:10:32.2263237+00:00"
+  "LastUpdate_Ratings": "2023-12-22T22:58:45.5893638+00:00",
+  "LastUpdate_Achievements": "2023-12-22T23:06:08.2783819+00:00"
 }

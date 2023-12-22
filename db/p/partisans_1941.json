@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 331,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1873,
+  "EOS_Progressed": 1874,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4509,6 +4509,11 @@
       "Time": "2023-12-22T18:10:20.7619178+00:00",
       "NumProgressed": 1873,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-22T23:05:30.5329424+00:00",
+      "NumProgressed": 1874,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -4544,7 +4549,7 @@
       "Name": "The Big Bertha",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "Boy",
@@ -4608,7 +4613,7 @@
       "Name": "The Gang\u0027s All Here",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "Experienced_strategist",
@@ -4632,7 +4637,7 @@
       "Name": "Grenadier",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "Hard_Serpent",
@@ -4648,7 +4653,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "High_noon",
@@ -4672,7 +4677,7 @@
       "Name": "Spice It Up",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "KillAllM2",
@@ -4710,9 +4715,9 @@
       "ID": "MoskitoBite",
       "SetID": "85nb4h3",
       "Name": "Mosquito bite",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 693
+      "UsersEstimate": 675
     },
     {
       "ID": "Scout",
@@ -4736,7 +4741,7 @@
       "Name": "War Never Changes",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "We_were_not_here",
@@ -4759,15 +4764,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1873,
+      "Progressed": 1874,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-12-22T22:09:39.0452567+00:00",
+  "LastChanged_Achievements": "2023-12-22T23:05:30.532942+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:45.5557319+00:00",
-  "LastUpdate_Ratings": "2023-12-22T22:02:43.0096552+00:00",
-  "LastUpdate_Achievements": "2023-12-22T22:09:39.0452915+00:00"
+  "LastUpdate_Ratings": "2023-12-22T23:00:45.3806351+00:00",
+  "LastUpdate_Achievements": "2023-12-22T23:05:30.5329713+00:00"
 }

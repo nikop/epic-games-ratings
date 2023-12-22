@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2872,
+  "EOS_Progressed": 2873,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 295,
+  "EOS_NewPlayers": 294,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7012,6 +7012,11 @@
       "Time": "2023-12-22T22:03:47.2560966+00:00",
       "NumProgressed": 2872,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T23:01:28.9354118+00:00",
+      "NumProgressed": 2873,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -7022,9 +7027,9 @@
       "ID": "ML_ACHIEVEMENT_01",
       "SetID": "c7hf6a4",
       "Name": "First Love",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1264
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -7080,7 +7085,7 @@
       "Name": "I Want One Too!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -7088,7 +7093,7 @@
       "Name": "Is It the Right Size?",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -7128,7 +7133,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -7232,7 +7237,7 @@
       "Name": "Clean Race",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1207
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -7415,14 +7420,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2872,
+      "Progressed": 2873,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-22T22:03:47.2560962+00:00",
+  "LastChanged_Achievements": "2023-12-22T23:01:28.9354115+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:35.5257739+00:00",
-  "LastUpdate_Ratings": "2023-12-22T22:01:29.7400944+00:00",
-  "LastUpdate_Achievements": "2023-12-22T22:03:47.2561512+00:00"
+  "LastUpdate_Ratings": "2023-12-22T22:59:58.3054305+00:00",
+  "LastUpdate_Achievements": "2023-12-22T23:01:28.9354958+00:00"
 }

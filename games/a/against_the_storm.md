@@ -6,8 +6,8 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Abandoned Settlement | 6.00% | ~1,136 |
-| Overgrown Library | 6.00% | ~1,136 |
+| Abandoned Settlement | 6.00% | ~1,137 |
+| Overgrown Library | 6.00% | ~1,137 |
 | Petrified Necropolis | 5.00% | ~947 |
 | First Real Expedition | 4.00% | ~758 |
 | Taking Action | 4.00% | ~758 |
@@ -27,6 +27,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Royal Outpost | 2.00% | ~379 |
 | Lost Colonies | 2.00% | ~379 |
 | Watchtower | 2.00% | ~379 |
+| A Real Challenge | 2.00% | ~379 |
 | Untamed Wilds | 2.00% | ~379 |
 | Bandit Camp | 1.00% | ~189 |
 | Barren Lands | 1.00% | ~189 |
@@ -37,7 +38,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Statue of the Forefathers | 1.00% | ~189 |
 | Corrosive Torrent | 1.00% | ~189 |
 | Cursed Lands | 1.00% | ~189 |
-| A Real Challenge | 1.00% | ~189 |
 | Trade Baron | 1.00% | ~189 |
 | Against All Odds | 0.90% | ~170 |
 | Haunted Forest | 0.90% | ~170 |
@@ -66,8 +66,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,939 (Ranked 150)  
-Completed: 39 (0.21%) (Ranked 269)  
+Progressed: 18,944 (Ranked 150)  
+Completed: 39 (0.21%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -312,10 +312,10 @@ Completed: 39 (0.21%) (Ranked 269)
 | 2023-12-19 | 18,687 | 39 |
 | 2023-12-20 | 18,771 | 39 |
 | 2023-12-21 | 18,861 | 39 |
-| 2023-12-22 | 18,939 | 39 |
+| 2023-12-22 | 18,944 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 228)  
-Sum: 3,282 (Ranked 175)  
+Sum: 3,283 (Ranked 175)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
@@ -326,7 +326,7 @@ Diff (max vs sum): 53
 | This game is Highly Recommended | 395 |
 | This game has Unique Visuals | 334 |
 | This game has Amazing Storytelling | 324 |
-| This game has Amazing Characters | 289 |
+| This game has Amazing Characters | 290 |
 | This game has Obsessive Gameplay | 254 |
 | This game has a Creative Community | 216 |
 ## Ratings History
@@ -593,4 +593,4 @@ Diff (max vs sum): 53
 | 2023-12-19 | 4.82 | - | 442 | 3,273 |
 | 2023-12-20 | 4.82 | - | 442 | 3,274 |
 | 2023-12-21 | 4.82 | - | 442 | 3,277 |
-| 2023-12-22 | 4.82 | - | 442 | 3,282 |
+| 2023-12-22 | 4.82 | - | 442 | 3,283 |

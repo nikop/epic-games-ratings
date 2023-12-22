@@ -2,11 +2,11 @@
   "ID": "viola",
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
-  "Ranking_Rating": 510,
+  "Ranking_Rating": 511,
   "Ranking_Popularity": 488,
   "Ranking_PopularitySum": 393,
   "Ranking_EOS_Progress": 204,
-  "Ranking_EOS_Completed": 297,
+  "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4135,
+  "EOS_Progressed": 4136,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 272,
+  "EOS_NewPlayers": 273,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -6746,6 +6746,11 @@
       "Time": "2023-12-22T22:07:33.7065656+00:00",
       "NumProgressed": 4135,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-22T23:04:03.7829118+00:00",
+      "NumProgressed": 4136,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -6861,7 +6866,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "HouseofCards_19",
@@ -6869,7 +6874,7 @@
       "Name": "House of Cards",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "LegacyOfaMasterHunter_55",
@@ -6885,7 +6890,7 @@
       "Name": "Let \u2018em eat magma!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "LightofLevant_18",
@@ -6949,7 +6954,7 @@
       "Name": "Ready for Winter",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 2605
+      "UsersEstimate": 2606
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -7077,7 +7082,7 @@
       "Name": "Venture Outward",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 3060
+      "UsersEstimate": 3061
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -7092,15 +7097,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4135,
+      "Progressed": 4136,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-22T22:07:33.7065652+00:00",
+  "LastChanged_Achievements": "2023-12-22T23:04:03.7829114+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:45.1407734+00:00",
-  "LastUpdate_Ratings": "2023-12-22T22:02:41.4821348+00:00",
-  "LastUpdate_Achievements": "2023-12-22T22:07:33.7066241+00:00"
+  "LastUpdate_Ratings": "2023-12-22T23:00:44.4488504+00:00",
+  "LastUpdate_Achievements": "2023-12-22T23:04:03.7830101+00:00"
 }

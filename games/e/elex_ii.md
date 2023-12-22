@@ -7,27 +7,35 @@ Number of Ratings: 124  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Best Buddy | 18.00% | ~12 |
-| Role Model | 15.00% | ~10 |
+| Role Model | 16.00% | ~11 |
 | Entrepreneur | 13.00% | ~9 |
-| Creator | 7.00% | ~5 |
+| Creator | 9.00% | ~6 |
 | Civilian | 7.00% | ~5 |
 | Military Leader | 6.00% | ~4 |
 | Peddler | 4.00% | ~3 |
 | Long-Haul Flyer | 4.00% | ~3 |
+| Hotshot | 4.00% | ~3 |
+| Free as a Bird | 4.00% | ~3 |
+| Alb | 4.00% | ~3 |
+| Berserker | 4.00% | ~3 |
 | Commander | 4.00% | ~3 |
+| Family Reunion | 4.00% | ~3 |
+| Irissa's Fate | 4.00% | ~3 |
+| Eternal Oblivion | 4.00% | ~3 |
 | Globetrotter | 3.00% | ~2 |
-| Hotshot | 3.00% | ~2 |
-| Free as a Bird | 3.00% | ~2 |
-| Berserker | 3.00% | ~2 |
-| Family Reunion | 3.00% | ~2 |
-| Irissa's Fate | 3.00% | ~2 |
+| Unbreakable | 3.00% | ~2 |
 | Pass A38 | 3.00% | ~2 |
 | Storyteller | 1.00% | ~1 |
-| Unbreakable | 1.00% | ~1 |
-| Alb | 1.00% | ~1 |
+| Alchemist | 1.00% | ~1 |
+| Self-Sufficient | 1.00% | ~1 |
+| Idealist | 1.00% | ~1 |
+| Defector | 1.00% | ~1 |
+| Cleric | 1.00% | ~1 |
+| Morkon | 1.00% | ~1 |
+| Outlaw | 1.00% | ~1 |
+| Destroyer | 1.00% | ~1 |
 | Festival-goer | 1.00% | ~1 |
 | Detective | 1.00% | ~1 |
-| Eternal Oblivion | 1.00% | ~1 |
 | Pack Rat | 0.00% | ~0 |
 | Banker | 0.00% | ~0 |
 | Drinker | 0.00% | ~0 |
@@ -36,17 +44,9 @@ Number of Ratings: 124  (23.09.2022)
 | Beam Me Up | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 | Socializer | 0.00% | ~0 |
-| Alchemist | 0.00% | ~0 |
 | Computer Scientist | 0.00% | ~0 |
 | Treasurer | 0.00% | ~0 |
-| Self-Sufficient | 0.00% | ~0 |
-| Idealist | 0.00% | ~0 |
 | Toy Time | 0.00% | ~0 |
-| Defector | 0.00% | ~0 |
-| Cleric | 0.00% | ~0 |
-| Morkon | 0.00% | ~0 |
-| Outlaw | 0.00% | ~0 |
-| Destroyer | 0.00% | ~0 |
 | Perfectionist | 0.00% | ~0 |
 | Legendary | 0.00% | ~0 |
 | Warrior | 0.00% | ~0 |

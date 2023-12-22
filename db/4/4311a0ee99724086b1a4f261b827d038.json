@@ -2,9 +2,9 @@
   "ID": "4311a0ee99724086b1a4f261b827d038",
   "Name": "Homeworld Remastered Collection",
   "ProductSlug": "homeworld-remastered-collection",
-  "Ranking_Rating": 510,
+  "Ranking_Rating": 511,
   "Ranking_Popularity": 492,
-  "Ranking_PopularitySum": 414,
+  "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 97,
@@ -705,10 +705,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 193,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2023-12-22T22:59:54.2012452+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 194,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 193,
+  "NumberOfAwards": 194,
   "NumberOfAwardsMax": 34,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -728,7 +734,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game has Diverse Characters",
@@ -773,9 +779,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 238985,
+  "EOS_Progressed": 238995,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1209,
+  "EOS_NewPlayers": 1214,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18423,6 +18429,11 @@
       "Time": "2023-12-22T22:10:23.0833803+00:00",
       "NumProgressed": 238985,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T23:06:01.5350379+00:00",
+      "NumProgressed": 238995,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -18491,7 +18502,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 50187
+      "UsersEstimate": 50189
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -18499,7 +18510,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21509
+      "UsersEstimate": 21510
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -18507,7 +18518,7 @@
       "Name": "Return to Kharak",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 11949
+      "UsersEstimate": 11950
     },
     {
       "ID": "HW1_MISSION4_COMPLETE",
@@ -18515,7 +18526,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9559
+      "UsersEstimate": 9560
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -18619,7 +18630,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 33458
+      "UsersEstimate": 33459
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -18627,7 +18638,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 16729
+      "UsersEstimate": 16730
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -18691,7 +18702,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 59746
+      "UsersEstimate": 59749
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -18706,16 +18717,16 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 238985,
+      "Progressed": 238995,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T17:57:09.4627104+00:00",
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged": "2023-12-22T16:01:38.2416428+00:00",
-  "LastChanged_Achievements": "2023-12-22T22:10:23.08338+00:00",
+  "LastChanged": "2023-12-22T22:59:54.201245+00:00",
+  "LastChanged_Achievements": "2023-12-22T23:06:01.5350376+00:00",
   "LastUpdate_AppInfo": "2023-12-22T05:57:00.8106495+00:00",
-  "LastUpdate_Ratings": "2023-12-22T22:01:23.1016886+00:00",
-  "LastUpdate_Achievements": "2023-12-22T22:10:23.0834986+00:00"
+  "LastUpdate_Ratings": "2023-12-22T22:59:54.2012457+00:00",
+  "LastUpdate_Achievements": "2023-12-22T23:06:01.5351478+00:00"
 }

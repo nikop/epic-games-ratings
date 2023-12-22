@@ -7,11 +7,11 @@ Number of Ratings: 177  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Friend in Need... | 6.00% | ~409 |
-| Smooth Operator: Madison | 5.00% | ~340 |
+| Smooth Operator: Madison | 5.00% | ~341 |
 | The Brahdyssey | 3.00% | ~204 |
 | Caught in the Act | 3.00% | ~204 |
 | Katherine | 3.00% | ~204 |
-| Life Found a Way | 3.00% | ~115 |
+| Life Found a Way | 3.00% | ~116 |
 | Relentless | 3.00% | ~204 |
 | If at First You Don't Succeed... | 3.00% | ~204 |
 | Drunk and Disorderly: Stephanie | 2.00% | ~136 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~7 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,810 (Ranked 189)  
+Progressed: 6,811 (Ranked 190)  
 Completed: 3 (0.04%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 3 (0.04%) (Ranked 342)
 | 2023-12-19 | 6,729 | 3 |
 | 2023-12-20 | 6,755 | 3 |
 | 2023-12-21 | 6,791 | 3 |
-| 2023-12-22 | 6,810 | 3 |
+| 2023-12-22 | 6,811 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

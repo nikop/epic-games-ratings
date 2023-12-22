@@ -11,8 +11,8 @@ Number of Ratings: 90  (23.09.2022)
 | Ducks in a Row, Fish in a Barrel | 48.00% | ~74 |
 | Furon Fashion | 43.00% | ~66 |
 | Shop Til They Drop | 36.00% | ~55 |
+| Earthly Pleasures | 31.00% | ~48 |
 | Bodied Sattva | 30.00% | ~46 |
-| Earthly Pleasures | 30.00% | ~46 |
 | Cult Following | 26.00% | ~40 |
 | Lie Back and Think of Albion | 22.00% | ~34 |
 | Upgreatest | 22.00% | ~34 |
@@ -27,9 +27,9 @@ Number of Ratings: 90  (23.09.2022)
 | Kaijuiced | 7.00% | ~11 |
 | Fly Me to the Moon Base | 6.00% | ~9 |
 | Scuttled | 5.00% | ~8 |
+| Re-Return of the Clone of the Invasion II-2 | 4.00% | ~6 |
 | Lobster Blisque | 3.00% | ~5 |
 | Yettisoned | 3.00% | ~5 |
-| Re-Return of the Clone of the Invasion II-2 | 3.00% | ~5 |
 | Ultimate Smoothie | 2.00% | ~3 |
 | Deincarnated | 2.00% | ~3 |
 | Arkvoodle Doodle | 2.00% | ~3 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.00% | ~0 |
 | Trans-Siberian Express | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 154 (Ranked 425)  
+Progressed: 154 (Ranked 426)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |

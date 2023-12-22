@@ -1,7 +1,7 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.55 (Ranked 510)  
+Rating: 4.55 (Ranked 511)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -42,7 +42,7 @@ Rating: 4.55 (Ranked 510)
 | Complete Arena Faction | 0.10% | ~2 |
 | A new Warchief rises | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,268 (Ranked 231)  
+Progressed: 2,269 (Ranked 231)  
 Completed: 12 (0.53%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 12 (0.53%) (Ranked 210)
 | 2023-12-19 | 2,258 | 12 |
 | 2023-12-20 | 2,263 | 12 |
 | 2023-12-21 | 2,266 | 12 |
-| 2023-12-22 | 2,268 | 12 |
+| 2023-12-22 | 2,269 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,8 +6,8 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 79.00% | ~66 |
-| First of many… | 71.00% | ~60 |
+| Green with Envy | 80.00% | ~67 |
+| First of many… | 73.00% | ~61 |
 | Helping Hand | 70.00% | ~59 |
 | Increased Vigor | 63.00% | ~53 |
 | Fight Fire with Fire | 63.00% | ~53 |
@@ -19,9 +19,9 @@ Number of Ratings: 116  (23.09.2022)
 | Enhance! | 48.00% | ~40 |
 | Throne Potato | 42.00% | ~35 |
 | 25 to Life | 40.00% | ~34 |
+| Devil's in the Details | 39.00% | ~33 |
 | Five's a Crowd | 39.00% | ~33 |
 | Unshakable Fortitude | 38.00% | ~32 |
-| Devil's in the Details | 38.00% | ~32 |
 | Soul Harvester | 37.00% | ~31 |
 | Salvation | 37.00% | ~31 |
 | Delusions of Grandeur | 35.00% | ~29 |

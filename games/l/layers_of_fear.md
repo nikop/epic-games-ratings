@@ -27,8 +27,8 @@
 | Another perspective | 8.00% | ~14 |
 | First steps | 8.00% | ~14 |
 | Lights! Camera! Action! | 8.00% | ~14 |
+| True Reflection | 8.00% | ~14 |
 | Breaking free | 7.00% | ~13 |
-| True Reflection | 7.00% | ~13 |
 | Casting Finished | 6.00% | ~11 |
 | Heavy Burden | 6.00% | ~11 |
 | Fisherman | 6.00% | ~11 |

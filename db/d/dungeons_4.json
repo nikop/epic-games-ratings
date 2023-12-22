@@ -3,9 +3,9 @@
   "Name": "Dungeons 4",
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 316,
-  "Ranking_EOS_Completed": 102,
+  "Ranking_EOS_Completed": 101,
   "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -1811,9 +1811,9 @@
       "ID": "ach_main02horde_creatures",
       "SetID": "4hg22ll",
       "Name": "For the Horde!",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 503
+      "UsersEstimate": 510
     },
     {
       "ID": "ach_main02horde_traps",
@@ -2139,9 +2139,9 @@
       "ID": "ach_main15drill_untouchable",
       "SetID": "4hg22ll",
       "Name": "Untouchable",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 92
     },
     {
       "ID": "ach_main16ring_completed",
@@ -2274,8 +2274,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-22T22:08:36.8754214+00:00",
+  "LastChanged_Achievements": "2023-12-22T23:04:47.4373407+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:09.5802782+00:00",
-  "LastUpdate_Ratings": "2023-12-22T21:57:36.6916857+00:00",
-  "LastUpdate_Achievements": "2023-12-22T22:08:36.8754709+00:00"
+  "LastUpdate_Ratings": "2023-12-22T22:57:29.0453753+00:00",
+  "LastUpdate_Achievements": "2023-12-22T23:04:47.437385+00:00"
 }

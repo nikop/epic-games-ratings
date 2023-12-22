@@ -6,18 +6,18 @@ Number of Ratings: 48  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Plenty More to Go | 86.00% | ~653 |
-| All Bark, No Bite | 75.00% | ~569 |
-| Hopeful Hunter | 65.00% | ~493 |
-| The Road to Recovery | 62.00% | ~471 |
+| Plenty More to Go | 86.00% | ~654 |
+| All Bark, No Bite | 75.00% | ~570 |
+| Hopeful Hunter | 65.00% | ~494 |
 | Amateur Adventurer | 62.00% | ~471 |
-| Partners? | 60.00% | ~455 |
-| Magical Mineral Golem | 53.00% | ~402 |
+| The Road to Recovery | 61.00% | ~464 |
+| Partners? | 60.00% | ~456 |
+| Magical Mineral Golem | 53.00% | ~403 |
 | On Outlander Lane | 52.00% | ~395 |
 | A Girl About the Town | 49.00% | ~372 |
 | First Time Fishing | 49.00% | ~372 |
 | First Time Hunting | 47.00% | ~357 |
-| Rune Wall Wreckage | 46.00% | ~349 |
+| Rune Wall Wreckage | 46.00% | ~350 |
 | ...And Your Tax Money | 45.00% | ~342 |
 | The Lords of the Snowpeak | 39.00% | ~296 |
 | The Lava Mantor Wyrm | 35.00% | ~266 |
@@ -31,8 +31,8 @@ Number of Ratings: 48  (23.09.2022)
 | Rune Wall Master | 32.00% | ~243 |
 | The Quarry...On Foot! | 30.00% | ~228 |
 | The Runebarrows...On Foot! | 28.00% | ~213 |
-| The Snowpeak...On Foot! | 26.00% | ~197 |
-| The Lava Ruins...On Foot! | 26.00% | ~197 |
+| The Snowpeak...On Foot! | 26.00% | ~198 |
+| The Lava Ruins...On Foot! | 26.00% | ~198 |
 | Meat Master | 25.00% | ~190 |
 | Fishing Master | 24.00% | ~182 |
 | Armor Master | 23.00% | ~175 |
@@ -40,11 +40,11 @@ Number of Ratings: 48  (23.09.2022)
 | This Treasure I've Found | 20.00% | ~152 |
 | New Nevaeh's Number One Customer | 20.00% | ~152 |
 | Arms Master | 18.00% | ~137 |
-| Rune Scholar | 16.00% | ~121 |
+| Rune Scholar | 16.00% | ~122 |
 | No Treasure Left Behind | 13.00% | ~99 |
-| One-Hundred Resident Record | 11.00% | ~83 |
-| Sommelier | 11.00% | ~83 |
-| Champion of the Great Forest | 11.00% | ~83 |
+| One-Hundred Resident Record | 11.00% | ~84 |
+| Sommelier | 11.00% | ~84 |
+| Champion of the Great Forest | 11.00% | ~84 |
 | A Local Hero | 10.00% | ~76 |
 | Champion of the Quarry | 10.00% | ~76 |
 | Champion of the Lava Ruins | 10.00% | ~76 |
@@ -57,8 +57,8 @@ Number of Ratings: 48  (23.09.2022)
 | Full Force - Isha | 8.00% | ~61 |
 | Rising Champion | 7.00% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 759 (Ranked 296)  
-Completed: 60 (7.91%) (Ranked 49)  
+Progressed: 760 (Ranked 296)  
+Completed: 60 (7.89%) (Ranked 49)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -112,7 +112,7 @@ Completed: 60 (7.91%) (Ranked 49)
 | 2023-12-18 | 752 | 60 |
 | 2023-12-20 | 754 | 60 |
 | 2023-12-21 | 755 | 60 |
-| 2023-12-22 | 759 | 60 |
+| 2023-12-22 | 760 | 60 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

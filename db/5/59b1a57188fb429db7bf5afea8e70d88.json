@@ -2,7 +2,7 @@
   "ID": "59b1a57188fb429db7bf5afea8e70d88",
   "Name": "Dinobreak",
   "ProductSlug": "dinobreak-307b09",
-  "Ranking_EOS_Progress": 575,
+  "Ranking_EOS_Progress": 576,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 158,
@@ -182,17 +182,17 @@
       "ID": "CATCHING_UP_ACH",
       "SetID": "7jaf9il",
       "Name": "Catching Up",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "COMBAT_EVOLUTION_ACH",
       "SetID": "7jaf9il",
       "Name": "Combat Evolution",
-      "Percentage": 3,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CUTTING_EDGE_ACH",
@@ -270,9 +270,9 @@
       "ID": "JAW_HURTS_FROM_MUNCHING_ACH",
       "SetID": "7jaf9il",
       "Name": "Jaw Hurts From Munching",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MAKE_THE_CALL_ACH",
@@ -286,9 +286,9 @@
       "ID": "MAKING_FRIENDS_ACH",
       "SetID": "7jaf9il",
       "Name": "Making Friends",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "QUITE_THE_CRISIS_ACH",
@@ -326,17 +326,17 @@
       "ID": "TAPE_IT_BACK_TOGETHER_ACH",
       "SetID": "7jaf9il",
       "Name": "Tape It Back Together",
-      "Percentage": 38,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "TEMPORARY_SHELTER_ACH",
       "SetID": "7jaf9il",
       "Name": "Temporary Shelter",
-      "Percentage": 14,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "THE_FOURTH_SURVIVOR_ACH",
@@ -381,8 +381,8 @@
   ],
   "FirstSeen": "2023-10-10T23:57:30.9159633+00:00",
   "FirstSeenAchievements": "2023-08-30T15:02:12.9396866+00:00",
-  "LastChanged_Achievements": "2023-12-22T22:05:59.6366208+00:00",
+  "LastChanged_Achievements": "2023-12-22T23:02:58.8851867+00:00",
   "LastUpdate_AppInfo": "2023-12-21T02:18:24.4177593+00:00",
-  "LastUpdate_Ratings": "2023-12-22T22:02:51.0063364+00:00",
-  "LastUpdate_Achievements": "2023-12-22T22:05:59.6366372+00:00"
+  "LastUpdate_Ratings": "2023-12-22T23:00:50.5596202+00:00",
+  "LastUpdate_Achievements": "2023-12-22T23:02:58.8852006+00:00"
 }

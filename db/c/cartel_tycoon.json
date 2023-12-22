@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 827,
+  "EOS_Progressed": 828,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -2855,6 +2855,11 @@
       "Time": "2023-12-22T22:06:19.3509953+00:00",
       "NumProgressed": 827,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-22T23:03:12.3710563+00:00",
+      "NumProgressed": 828,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -2912,9 +2917,9 @@
       "ID": "hire-lieutenant",
       "SetID": "bed33dd",
       "Name": "Our Man",
-      "Percentage": 85,
+      "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 703
+      "UsersEstimate": 696
     },
     {
       "ID": "kill-lieutenants",
@@ -2922,7 +2927,7 @@
       "Name": "Spreading Fear",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "pack-and-sell",
@@ -2954,7 +2959,7 @@
       "Name": "Bad Trip",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "rename-lieutenant",
@@ -2978,15 +2983,15 @@
       "Name": "Spread",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "send-smuggling",
       "SetID": "bed33dd",
       "Name": "Camellos",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 455
+      "UsersEstimate": 447
     },
     {
       "ID": "unlock-residences",
@@ -3017,15 +3022,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 827,
+      "Progressed": 828,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-12T19:59:33.5091909+00:00",
-  "LastChanged_Achievements": "2023-12-22T22:06:19.3509947+00:00",
+  "LastChanged_Achievements": "2023-12-22T23:03:12.371056+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.4837395+00:00",
-  "LastUpdate_Ratings": "2023-12-22T21:58:05.6446621+00:00",
-  "LastUpdate_Achievements": "2023-12-22T22:06:19.3510245+00:00"
+  "LastUpdate_Ratings": "2023-12-22T22:57:48.3800357+00:00",
+  "LastUpdate_Achievements": "2023-12-22T23:03:12.3710776+00:00"
 }

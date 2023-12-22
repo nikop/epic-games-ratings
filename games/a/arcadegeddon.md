@@ -6,14 +6,14 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 86.00% | ~8,659 |
-| Photogenic | 83.00% | ~8,357 |
-| Surge Gauntlet Jockey | 80.00% | ~8,055 |
+| Let's Get This Party Started | 86.00% | ~8,660 |
+| Photogenic | 83.00% | ~8,358 |
+| Surge Gauntlet Jockey | 80.00% | ~8,056 |
 | Plug It In | 79.00% | ~7,955 |
 | Adventure Time | 75.00% | ~7,552 |
-| Playing With Power | 73.00% | ~7,350 |
+| Playing With Power | 73.00% | ~7,351 |
 | Coup d'Etat | 56.00% | ~5,639 |
-| You're Fired | 54.00% | ~5,437 |
+| You're Fired | 54.00% | ~5,438 |
 | Get Furious | 53.00% | ~5,337 |
 | Hacks In Stacks | 53.00% | ~5,337 |
 | Gunplay And Cosplay | 52.00% | ~5,236 |
@@ -27,7 +27,7 @@ Number of Ratings: 801  (23.09.2022)
 | The Full Monty | 29.00% | ~2,920 |
 | Guardian Angel | 26.00% | ~2,618 |
 | Poppin Noggins | 23.00% | ~2,316 |
-| Clips and Crits | 18.00% | ~1,812 |
+| Clips and Crits | 18.00% | ~1,813 |
 | Grey Goo | 16.00% | ~1,611 |
 | Boss of Bosses | 14.00% | ~1,410 |
 | The Final Blow | 14.00% | ~1,410 |
@@ -40,7 +40,7 @@ Number of Ratings: 801  (23.09.2022)
 | Rescue Ranger | 8.00% | ~806 |
 | Surge Gauntlet Scholar | 6.00% | ~604 |
 | Ticket Titan | 6.00% | ~604 |
-| Master of Arms | 5.00% | ~503 |
+| Master of Arms | 5.00% | ~504 |
 | No Chill | 4.00% | ~403 |
 | Start Your Collection | 4.00% | ~403 |
 | Stop Hitting Yourself | 4.00% | ~403 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~40 |
 | Pyrotechnical | 0.20% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,069 (Ranked 175)  
+Progressed: 10,070 (Ranked 175)  
 Completed: 2 (0.02%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 2 (0.02%) (Ranked 353)
 | 2023-12-19 | 10,028 | 2 |
 | 2023-12-20 | 10,045 | 2 |
 | 2023-12-21 | 10,058 | 2 |
-| 2023-12-22 | 10,069 | 2 |
+| 2023-12-22 | 10,070 | 2 |
 ## Awards
 Max (Great for Beginners): 65  (Ranked 416)  
 Sum: 465 (Ranked 338)  

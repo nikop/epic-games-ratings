@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 884,
+  "EOS_Progressed": 887,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 0,
@@ -2370,6 +2370,11 @@
       "Time": "2023-12-22T21:09:04.7315683+00:00",
       "NumProgressed": 884,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T23:05:30.3156584+00:00",
+      "NumProgressed": 887,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -2380,9 +2385,9 @@
       "ID": "AchvActivateProbe",
       "SetID": "1hj060c",
       "Name": "The Teleprobe",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 451
+      "UsersEstimate": 444
     },
     {
       "ID": "AchvAllMemories",
@@ -2398,7 +2403,7 @@
       "Name": "On her own",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "AchvBattleScore",
@@ -2406,7 +2411,7 @@
       "Name": "Fierce fight",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "AchvBombStop",
@@ -2446,7 +2451,7 @@
       "Name": "The Alliance",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "AchvDoom",
@@ -2462,15 +2467,15 @@
       "Name": "Evacuation",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "AchvInvShip",
       "SetID": "1hj060c",
       "Name": "Another giant",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 106
+      "UsersEstimate": 98
     },
     {
       "ID": "AchvKrautaAlive",
@@ -2478,7 +2483,7 @@
       "Name": "Krauta is alive",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "AchvLava",
@@ -2510,7 +2515,7 @@
       "Name": "The Necroevolution",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "AchvNest",
@@ -2550,7 +2555,7 @@
       "Name": "The field base",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 371
+      "UsersEstimate": 373
     },
     {
       "ID": "AchvReachCamp",
@@ -2558,7 +2563,7 @@
       "Name": "The Camp",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 566
+      "UsersEstimate": 568
     },
     {
       "ID": "AchvReachCity",
@@ -2566,7 +2571,7 @@
       "Name": "The City",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "AchvReachCondor",
@@ -2574,7 +2579,7 @@
       "Name": "The Condor",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "AchvSurvivors",
@@ -2582,7 +2587,7 @@
       "Name": "Survivors",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -2598,7 +2603,7 @@
       "Name": "The End",
       "Percentage": 32,
       "XP": 55,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "AchvUnity",
@@ -2606,21 +2611,21 @@
       "Name": "Beyond divisions",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 884,
+      "Progressed": 887,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-12-22T22:09:38.7898506+00:00",
+  "LastChanged_Achievements": "2023-12-22T23:05:30.3156579+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.232501+00:00",
-  "LastUpdate_Ratings": "2023-12-22T22:01:03.5693209+00:00",
-  "LastUpdate_Achievements": "2023-12-22T22:09:38.7898775+00:00"
+  "LastUpdate_Ratings": "2023-12-22T22:59:41.7331923+00:00",
+  "LastUpdate_Achievements": "2023-12-22T23:05:30.3156889+00:00"
 }

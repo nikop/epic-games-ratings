@@ -4,7 +4,7 @@
   "ProductSlug": "mystery-in-the-office-f629ad",
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewPlayers": 356,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1237,
+  "EOS_Progressed": 1238,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.28,
   "EosHistory": [
@@ -2839,6 +2839,11 @@
       "Time": "2023-12-22T04:09:43.1379433+00:00",
       "NumProgressed": 1237,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-12-22T23:05:43.8768907+00:00",
+      "NumProgressed": 1238,
+      "NumCompleted": 53
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -2859,7 +2864,7 @@
       "Name": "Brain-teaser",
       "Percentage": 49,
       "XP": 85,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "ACH_DONUTS",
@@ -2867,7 +2872,7 @@
       "Name": "Sweet tooth",
       "Percentage": 70,
       "XP": 45,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
@@ -2875,7 +2880,7 @@
       "Name": "An apple a day",
       "Percentage": 55,
       "XP": 75,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "ACH_GET_BACK_TO_WORK",
@@ -2891,7 +2896,7 @@
       "Name": "Evil plan",
       "Percentage": 49,
       "XP": 85,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "ACH_RADIO_TAPES",
@@ -2907,7 +2912,7 @@
       "Name": "Food lover",
       "Percentage": 62,
       "XP": 55,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     },
     {
       "ID": "ACH_SPEEDRUN",
@@ -2930,14 +2935,14 @@
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 1237,
+      "Progressed": 1238,
       "Completed": 53
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-12-22T22:09:58.8537747+00:00",
+  "LastChanged_Achievements": "2023-12-22T23:05:43.87689+00:00",
   "LastUpdate_AppInfo": "2023-12-22T18:57:03.6270643+00:00",
-  "LastUpdate_Ratings": "2023-12-22T21:59:50.5534234+00:00",
-  "LastUpdate_Achievements": "2023-12-22T22:09:58.8537985+00:00"
+  "LastUpdate_Ratings": "2023-12-22T22:58:53.638059+00:00",
+  "LastUpdate_Achievements": "2023-12-22T23:05:43.8769136+00:00"
 }

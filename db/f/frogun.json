@@ -3,8 +3,8 @@
   "Name": "Frogun",
   "ProductSlug": "frogun-9cf69e",
   "Ranking_EOS_Progress": 396,
-  "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 531,
+  "Ranking_EOS_Completed": 141,
+  "Ranking_EOS_NewPlayers": 491,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-08-02T14:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 229,
+  "EOS_Progressed": 230,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.75,
+  "EOS_Completed_Percentage": 1.74,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:55.639606+00:00",
@@ -225,6 +225,11 @@
       "Time": "2023-12-21T12:04:59.0529343+00:00",
       "NumProgressed": 229,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-22T23:02:32.6846816+00:00",
+      "NumProgressed": 230,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 31,
@@ -236,7 +241,7 @@
       "Name": "Coin collector",
       "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "Achievement_Beelzebub",
@@ -252,7 +257,7 @@
       "Name": "Treasure hunter",
       "Percentage": 90,
       "XP": 20,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "Achievement_Hexy",
@@ -276,7 +281,7 @@
       "Name": "Survivalist",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "Achievement_Notes",
@@ -284,15 +289,15 @@
       "Name": "Historian",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "Achievement_Prickly",
       "SetID": "cn6a29l",
       "Name": "Prickly situation handler",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 78
+      "UsersEstimate": 80
     },
     {
       "ID": "Achievement_Race1",
@@ -322,9 +327,9 @@
       "ID": "Achievement_Skull",
       "SetID": "cn6a29l",
       "Name": "Challenge seeker",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 181
+      "UsersEstimate": 184
     },
     {
       "ID": "Achievement_TimeTrial",
@@ -388,7 +393,7 @@
       "Name": "Floater",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "Achievement_hat",
@@ -412,7 +417,7 @@
       "Name": "Pragmatic",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "Achievement_hubworld",
@@ -483,7 +488,7 @@
     {
       "ID": "cn6a29l",
       "IsBase": true,
-      "Progressed": 229,
+      "Progressed": 230,
       "Completed": 4
     }
   ],
@@ -491,8 +496,8 @@
   "FirstSeenRating": "2023-03-31T05:57:36.5225978+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.6396069+00:00",
   "LastChanged": "2023-03-31T05:57:36.5225979+00:00",
-  "LastChanged_Achievements": "2023-12-22T22:05:21.1740622+00:00",
+  "LastChanged_Achievements": "2023-12-22T23:02:32.6846813+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:15.3523533+00:00",
-  "LastUpdate_Ratings": "2023-12-22T22:02:36.6582106+00:00",
-  "LastUpdate_Achievements": "2023-12-22T22:05:21.1740806+00:00"
+  "LastUpdate_Ratings": "2023-12-22T23:00:40.9704298+00:00",
+  "LastUpdate_Achievements": "2023-12-22T23:02:32.6847011+00:00"
 }

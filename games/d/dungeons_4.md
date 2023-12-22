@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | The Last Stand | 88.00% | ~540 |
 | Thalya – Simply Immortal | 88.00% | ~540 |
-| For the Horde! | 82.00% | ~503 |
+| For the Horde! | 83.00% | ~510 |
 | Hammer Time, Round Two | 81.00% | ~497 |
 | The Hellwoods | 77.00% | ~473 |
 | The Plains of Strothalm | 71.00% | ~436 |
@@ -58,7 +58,7 @@
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~98 |
 | Evilification | 16.00% | ~98 |
 | Mirror, Mirror | 15.00% | ~92 |
-| Untouchable | 14.00% | ~86 |
+| Untouchable | 15.00% | ~92 |
 | Heal Heal Blessing | 14.00% | ~86 |
 | Laser Eyes Are So Useless | 12.00% | ~74 |
 | Hands Off My Stones | 12.00% | ~74 |
@@ -67,7 +67,7 @@
 | I Don't Need Any Help | 8.00% | ~49 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 614 (Ranked 316)  
-Completed: 21 (3.42%) (Ranked 102)  
+Completed: 21 (3.42%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -23,10 +23,10 @@
 | Chapter III | 22.00% | ~39 |
 | Like a moth in the Wind | 22.00% | ~39 |
 | Pacifist | 21.00% | ~38 |
+| Mirror mirror on the wall... | 19.00% | ~34 |
 | Fastidious Clown | 18.00% | ~32 |
-| Mirror mirror on the wall... | 18.00% | ~32 |
+| Home is where the heart is | 18.00% | ~32 |
 | It's not easy being green! | 17.00% | ~30 |
-| Home is where the heart is | 17.00% | ~30 |
 | Death is a part of life | 14.00% | ~25 |
 | To err is human... | 12.00% | ~21 |
 | Master of Thermodynamics | 12.00% | ~21 |

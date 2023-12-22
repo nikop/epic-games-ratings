@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 321,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -9371,9 +9371,9 @@
       "ID": "Collect_15_Anomalies",
       "SetID": "4h07amh",
       "Name": "Anomaly Researcher",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4469
+      "UsersEstimate": 4544
     },
     {
       "ID": "Control_All_Relics",
@@ -9915,8 +9915,8 @@
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-12-19T20:02:58.7273791+00:00",
-  "LastChanged_Achievements": "2023-12-22T22:10:12.5164926+00:00",
+  "LastChanged_Achievements": "2023-12-22T23:05:53.3823607+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:41.5804615+00:00",
-  "LastUpdate_Ratings": "2023-12-22T21:58:23.964605+00:00",
-  "LastUpdate_Achievements": "2023-12-22T22:10:12.5165816+00:00"
+  "LastUpdate_Ratings": "2023-12-22T22:57:59.6888022+00:00",
+  "LastUpdate_Achievements": "2023-12-22T23:05:53.3824562+00:00"
 }

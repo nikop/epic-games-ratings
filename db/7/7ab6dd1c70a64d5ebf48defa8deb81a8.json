@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1062,
+  "EOS_Progressed": 1066,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 581,
+  "EOS_NewPlayers": 580,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -2120,6 +2120,11 @@
       "Time": "2023-12-22T22:10:27.7964211+00:00",
       "NumProgressed": 1062,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-22T23:06:04.9535717+00:00",
+      "NumProgressed": 1066,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2131,7 +2136,7 @@
       "Name": "Break Out",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 552
+      "UsersEstimate": 554
     },
     {
       "ID": "ACH_02",
@@ -2139,7 +2144,7 @@
       "Name": "Find Allies",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ACH_03",
@@ -2147,7 +2152,7 @@
       "Name": "Powerful Allies",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_04",
@@ -2163,7 +2168,7 @@
       "Name": "To Battle",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_06",
@@ -2171,7 +2176,7 @@
       "Name": "Godslayer",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_07",
@@ -2187,7 +2192,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ACH_09",
@@ -2203,7 +2208,7 @@
       "Name": "Trinity",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "ACH_11",
@@ -2219,7 +2224,7 @@
       "Name": "Shardbearer",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_13",
@@ -2227,7 +2232,7 @@
       "Name": "Adventurer",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "ACH_14",
@@ -2243,7 +2248,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACH_16",
@@ -2267,7 +2272,7 @@
       "Name": "Shatter Them All",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "ACH_19",
@@ -2291,7 +2296,7 @@
       "Name": "Big Bazar",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ACH_22",
@@ -2331,7 +2336,7 @@
       "Name": "Scholar",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "ACH_27",
@@ -2347,7 +2352,7 @@
       "Name": "I Found It",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ACH_29",
@@ -2387,7 +2392,7 @@
       "Name": "The Collector",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ACH_35",
@@ -2418,14 +2423,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1062,
+      "Progressed": 1066,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-22T22:10:27.7964204+00:00",
+  "LastChanged_Achievements": "2023-12-22T23:06:04.9535715+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
-  "LastUpdate_Ratings": "2023-12-22T21:59:25.3337759+00:00",
-  "LastUpdate_Achievements": "2023-12-22T22:10:27.7964575+00:00"
+  "LastUpdate_Ratings": "2023-12-22T22:58:38.0797184+00:00",
+  "LastUpdate_Achievements": "2023-12-22T23:06:04.9535958+00:00"
 }

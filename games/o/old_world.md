@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 317)  
+Rating: 4.65 (Ranked 318)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -120,6 +120,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Tell the Spartans | 0.10% | ~16 |
 | The Olive Wreath | 0.10% | ~16 |
 | Those Were Mine | 0.10% | ~16 |
+| Three's a Crowd | 0.10% | ~16 |
 | Hittite Iron | 0.10% | ~16 |
 | Acropolis | 0.10% | ~16 |
 | Apadana | 0.10% | ~16 |
@@ -278,7 +279,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Not a Scratch | 0.00% | ~0 |
 | If? Then! | 0.00% | ~0 |
 | What's 'hubris' in Greek? | 0.00% | ~0 |
-| Three's a Crowd | 0.00% | ~0 |
 | Unfinished Business | 0.00% | ~0 |
 | Philip's Bronze Crown | 0.00% | ~0 |
 | Philip's Golden Crown | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,883 (Ranked 161)  
+Progressed: 15,884 (Ranked 161)  
 Completed: 5 (0.03%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -611,7 +611,7 @@ Completed: 5 (0.03%) (Ranked 345)
 | 2023-12-19 | 15,840 | 5 |
 | 2023-12-20 | 15,854 | 5 |
 | 2023-12-21 | 15,865 | 5 |
-| 2023-12-22 | 15,883 | 5 |
+| 2023-12-22 | 15,884 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 279)  
 Sum: 1,907 (Ranked 220)  

@@ -1,7 +1,7 @@
 # The Crew™ Motorfest Standard Edition
 [Store](https://store.epicgames.com/en-US/p/the-crew-motorfest)  
 [View Rawdata](../../db/t/the_crew_motorfest.json)  
-Rating: 4.65 (Ranked 317)  
+Rating: 4.65 (Ranked 318)  
 ## Awards
 Max (Relaxing): 570  (Ranked 208)  
 Sum: 4,092 (Ranked 158)  

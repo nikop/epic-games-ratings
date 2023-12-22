@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1448,
+  "EOS_Progressed": 1449,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 701,
+  "EOS_NewPlayers": 702,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -2625,6 +2625,11 @@
       "Time": "2023-12-22T22:10:13.3887246+00:00",
       "NumProgressed": 1448,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-22T23:05:53.8393192+00:00",
+      "NumProgressed": 1449,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 15,
@@ -2636,7 +2641,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 1419
+      "UsersEstimate": 1420
     },
     {
       "ID": "booty_call",
@@ -2660,7 +2665,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 1390
+      "UsersEstimate": 1391
     },
     {
       "ID": "hold_my_beer",
@@ -2668,7 +2673,7 @@
       "Name": "Hold my Beer",
       "Percentage": 63,
       "XP": 25,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -2746,16 +2751,16 @@
       "ID": "we_go_again",
       "SetID": "c4ipj3h",
       "Name": "We Go Again",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 376
+      "UsersEstimate": 391
     }
   ],
   "AchievementSets": [
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 1448,
+      "Progressed": 1449,
       "Completed": 11
     }
   ],
@@ -2763,8 +2768,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-12-22T22:10:13.3887242+00:00",
+  "LastChanged_Achievements": "2023-12-22T23:05:53.8393187+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:02.6209919+00:00",
-  "LastUpdate_Ratings": "2023-12-22T21:59:36.4116716+00:00",
-  "LastUpdate_Achievements": "2023-12-22T22:10:13.3887502+00:00"
+  "LastUpdate_Ratings": "2023-12-22T22:58:44.8601561+00:00",
+  "LastUpdate_Achievements": "2023-12-22T23:05:53.8393415+00:00"
 }

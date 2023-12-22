@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 58.00% | ~242 |
+| In the Black | 59.00% | ~246 |
 | Starting Skyward | 52.00% | ~217 |
 | Grime is Not Good | 46.00% | ~192 |
 | Floor Galore | 40.00% | ~167 |
@@ -22,8 +22,8 @@
 | Your Prestige is Rising | 24.00% | ~100 |
 | Retail Revenue | 23.00% | ~96 |
 | Don't Feel a Loan | 22.00% | ~92 |
+| People Mover | 21.00% | ~88 |
 | Artfully Done | 20.00% | ~83 |
-| People Mover | 20.00% | ~83 |
 | Leveled Up Shops | 20.00% | ~83 |
 | Lux Living | 19.00% | ~79 |
 | Emporium Empire | 19.00% | ~79 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 417 (Ranked 345)  
+Progressed: 417 (Ranked 346)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |

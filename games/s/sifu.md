@@ -28,7 +28,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Diligence as a goal | 1.00% | ~496 |
 | Qi Gong: Mind | 0.90% | ~6,663 |
 | Take damage to save time | 0.90% | ~6,663 |
-| Kung-Fu Tussle | 0.80% | ~5,922 |
+| Kung-Fu Tussle | 0.80% | ~5,923 |
 | Scareless | 0.70% | ~5,182 |
 | Dance of the Praying Mantis | 0.70% | ~5,182 |
 | Fight the way you practice | 0.70% | ~347 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~50 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~50 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 740,291 (Ranked 23)  
+Progressed: 740,313 (Ranked 23)  
 Completed: 12,959 (1.75%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 12,959 (1.75%) (Ranked 140)
 | 2023-12-19 | 736,295 | 12,958 |
 | 2023-12-20 | 737,594 | 12,958 |
 | 2023-12-21 | 738,913 | 12,958 |
-| 2023-12-22 | 740,291 | 12,959 |
+| 2023-12-22 | 740,313 | 12,959 |
 ## Awards
 Max (Great Boss Battles): 6,989  (Ranked 55)  
 Sum: 11,814 (Ranked 87)  

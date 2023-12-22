@@ -673,7 +673,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 472648,
+  "EOS_Progressed": 472649,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 348,
   "EOS_NewCompleters": 0,
@@ -26123,6 +26123,11 @@
       "Time": "2023-12-22T22:10:32.6124653+00:00",
       "NumProgressed": 472648,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-12-22T23:06:08.6701481+00:00",
+      "NumProgressed": 472649,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -26318,7 +26323,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160700
+      "UsersEstimate": 160701
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -26558,7 +26563,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207965
+      "UsersEstimate": 207966
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -26566,7 +26571,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 141794
+      "UsersEstimate": 141795
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -26765,21 +26770,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 16582,
+      "Progressed": 16583,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 472648,
+      "Progressed": 472649,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-12-16T01:44:08.2225132+00:00",
-  "LastChanged_Achievements": "2023-12-22T22:10:32.6124648+00:00",
+  "LastChanged_Achievements": "2023-12-22T23:06:08.6701477+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:11.1940108+00:00",
-  "LastUpdate_Ratings": "2023-12-22T21:59:01.088521+00:00",
-  "LastUpdate_Achievements": "2023-12-22T22:10:32.6126392+00:00"
+  "LastUpdate_Ratings": "2023-12-22T22:58:23.0196653+00:00",
+  "LastUpdate_Achievements": "2023-12-22T23:06:08.6702925+00:00"
 }

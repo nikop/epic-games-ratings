@@ -5,9 +5,9 @@
   "Ranking_Rating": 640,
   "Ranking_Popularity": 456,
   "Ranking_PopularitySum": 502,
-  "Ranking_EOS_Progress": 442,
+  "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-07-16T16:00:00+00:00",
@@ -439,9 +439,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 133,
+  "EOS_Progressed": 138,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -729,6 +729,11 @@
       "Time": "2023-12-22T22:09:57.286982+00:00",
       "NumProgressed": 133,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T23:05:42.9332163+00:00",
+      "NumProgressed": 138,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:09:59.7070954+00:00",
@@ -755,9 +760,9 @@
       "ID": "Astarte",
       "SetID": "329ak73",
       "Name": "Astarte",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "Belial",
@@ -779,7 +784,7 @@
       "ID": "ClosetheRift",
       "SetID": "329ak73",
       "Name": "Close the Rift",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -851,15 +856,15 @@
       "ID": "Mammon",
       "SetID": "329ak73",
       "Name": "Mammon",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "MasterofStrife",
       "SetID": "329ak73",
       "Name": "Master of Strife",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -867,9 +872,9 @@
       "ID": "MasterofWar",
       "SetID": "329ak73",
       "Name": "Master of War",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "MintI",
@@ -931,7 +936,7 @@
       "ID": "TheDeadCourt",
       "SetID": "329ak73",
       "Name": "The Dead Court",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -963,7 +968,7 @@
       "ID": "WhydItHavetoBeSnakes",
       "SetID": "329ak73",
       "Name": "Why\u0027d It Have to Be Snakes?",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -980,15 +985,15 @@
     {
       "ID": "329ak73",
       "IsBase": true,
-      "Progressed": 133,
+      "Progressed": 138,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-21T15:01:03.7221978+00:00",
-  "LastChanged_Achievements": "2023-12-22T22:09:57.2869815+00:00",
+  "LastChanged_Achievements": "2023-12-22T23:05:42.9332159+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:26.1049217+00:00",
-  "LastUpdate_Ratings": "2023-12-22T22:02:08.5407986+00:00",
-  "LastUpdate_Achievements": "2023-12-22T22:09:57.2870031+00:00"
+  "LastUpdate_Ratings": "2023-12-22T23:00:22.2624054+00:00",
+  "LastUpdate_Achievements": "2023-12-22T23:05:42.9332349+00:00"
 }

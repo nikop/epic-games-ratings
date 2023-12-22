@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 154,
+  "EOS_Progressed": 155,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -694,6 +694,11 @@
       "Time": "2023-12-22T09:09:02.3889636+00:00",
       "NumProgressed": 154,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T23:04:55.9273337+00:00",
+      "NumProgressed": 155,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -714,7 +719,7 @@
       "Name": "Across The Styx",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "SG_AGAINSTALLODDS",
@@ -752,9 +757,9 @@
       "ID": "SG_BRAVEONTIME",
       "SetID": "bj5g0n4",
       "Name": "Brave On Time",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "SG_CHARISMATIC",
@@ -776,9 +781,9 @@
       "ID": "SG_ENDOFTHEROAD",
       "SetID": "bj5g0n4",
       "Name": "End Of The Road",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 115
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -808,9 +813,9 @@
       "ID": "SG_HEARTBREAKER",
       "SetID": "bj5g0n4",
       "Name": "Heartbreaker",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 23
     },
     {
       "ID": "SG_LIKEHEROESBEFOREYOU",
@@ -842,7 +847,7 @@
       "Name": "Meant To Be",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "SG_MYTIMETOSHINE",
@@ -882,7 +887,7 @@
       "Name": "Saying Goodbye",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "SG_SHARETHISDANCE",
@@ -930,7 +935,7 @@
       "Name": "The Deep End",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "SG_THEHIGHROAD",
@@ -1001,14 +1006,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 154,
+      "Progressed": 155,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-12-22T22:08:49.50937+00:00",
+  "LastChanged_Achievements": "2023-12-22T23:04:55.9273333+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:52.970167+00:00",
-  "LastUpdate_Ratings": "2023-12-22T21:58:09.2952822+00:00",
-  "LastUpdate_Achievements": "2023-12-22T22:08:49.5094065+00:00"
+  "LastUpdate_Ratings": "2023-12-22T22:57:50.6646712+00:00",
+  "LastUpdate_Achievements": "2023-12-22T23:04:55.9273609+00:00"
 }

@@ -5,20 +5,20 @@ Rating: 4.21 (Ranked 928)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~1,389 |
-| Battlefields Have Memories | 80.00% | ~1,277 |
-| Enlisted | 73.00% | ~1,165 |
-| Maybe Engage a Little | 67.00% | ~1,069 |
-| No More Names | 49.00% | ~782 |
-| Initiate | 33.00% | ~527 |
-| Thrada-Kul | 30.00% | ~479 |
-| Gravity-Challenged Rocks | 23.00% | ~367 |
-| Socialite | 22.00% | ~351 |
-| Soldier | 19.00% | ~303 |
-| All the Major Food Groups | 19.00% | ~303 |
-| Beggars Would Ride | 17.00% | ~271 |
-| Control is an Illusion | 15.00% | ~239 |
-| The Means to Save It | 13.00% | ~207 |
+| Unforeseen | 87.00% | ~1,394 |
+| Battlefields Have Memories | 80.00% | ~1,282 |
+| Enlisted | 73.00% | ~1,169 |
+| Maybe Engage a Little | 67.00% | ~1,073 |
+| No More Names | 49.00% | ~785 |
+| Initiate | 33.00% | ~529 |
+| Thrada-Kul | 30.00% | ~481 |
+| Gravity-Challenged Rocks | 23.00% | ~368 |
+| Socialite | 22.00% | ~352 |
+| Soldier | 19.00% | ~304 |
+| All the Major Food Groups | 19.00% | ~304 |
+| Beggars Would Ride | 17.00% | ~272 |
+| Control is an Illusion | 15.00% | ~240 |
+| The Means to Save It | 13.00% | ~208 |
 | Resilience to Sin | 11.00% | ~176 |
 | A Familiar Nest | 11.00% | ~176 |
 | Geas Aristeya | 10.00% | ~160 |
@@ -39,8 +39,8 @@ Rating: 4.21 (Ranked 928)
 | Armaments Vert | 2.00% | ~32 |
 | Veteran | 2.00% | ~32 |
 | Master of Carmine | 1.00% | ~16 |
-| Grand Magnus | 0.80% | ~13 |
 | Tip of the Spear | 0.80% | ~13 |
+| Grand Magnus | 0.70% | ~11 |
 | Master of Ultramarine | 0.70% | ~11 |
 | Shroudfane Surveyor | 0.70% | ~11 |
 | Master of Malachite | 0.60% | ~10 |
@@ -49,12 +49,12 @@ Rating: 4.21 (Ranked 928)
 | Diplomat | 0.30% | ~5 |
 | Petite Bourgeoisie | 0.30% | ~5 |
 | Witch-Taker | 0.30% | ~5 |
-| Out of Time | 0.30% | ~5 |
 | Family Business | 0.20% | ~3 |
+| Out of Time | 0.20% | ~3 |
 | Fowl Play | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,596 (Ranked 249)  
-Completed: 2 (0.13%) (Ranked 291)  
+Progressed: 1,602 (Ranked 249)  
+Completed: 2 (0.12%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -138,7 +138,7 @@ Completed: 2 (0.13%) (Ranked 291)
 | 2023-12-19 | 1,301 | 2 |
 | 2023-12-20 | 1,423 | 2 |
 | 2023-12-21 | 1,514 | 2 |
-| 2023-12-22 | 1,596 | 2 |
+| 2023-12-22 | 1,602 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

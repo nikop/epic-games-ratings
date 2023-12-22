@@ -4667,9 +4667,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12616,
+  "EOS_Progressed": 12617,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 262,
+  "EOS_NewPlayers": 261,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17687,6 +17687,11 @@
       "Time": "2023-12-22T22:10:32.2712012+00:00",
       "NumProgressed": 12616,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T23:06:08.411721+00:00",
+      "NumProgressed": 12617,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -17698,7 +17703,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3406
+      "UsersEstimate": 3407
     },
     {
       "ID": "02_BurningCity",
@@ -17722,7 +17727,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1135
+      "UsersEstimate": 1136
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -17786,7 +17791,7 @@
       "Name": "Path of the Trickster",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "13_PathOfLich",
@@ -17794,7 +17799,7 @@
       "Name": "Path of the Lich",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "14_PathOfSwarm",
@@ -17834,7 +17839,7 @@
       "Name": "Mythic Choices",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1892
+      "UsersEstimate": 1893
     },
     {
       "ID": "19_EqualToAroden",
@@ -17922,7 +17927,7 @@
       "Name": "Heroic Victory",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "31_DivideAndRule",
@@ -17954,7 +17959,7 @@
       "Name": "Capitulation Is Now Moot",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "35_AbyssalConspiracy",
@@ -17970,7 +17975,7 @@
       "Name": "Core of the Riddle",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "37_FirstBigEnemy",
@@ -18625,21 +18630,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11398,
+      "Progressed": 11399,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12616,
+      "Progressed": 12617,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-22T03:58:13.0642392+00:00",
-  "LastChanged_Achievements": "2023-12-22T22:10:32.271201+00:00",
+  "LastChanged_Achievements": "2023-12-22T23:06:08.4117205+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.7532096+00:00",
-  "LastUpdate_Ratings": "2023-12-22T21:59:39.7554877+00:00",
-  "LastUpdate_Achievements": "2023-12-22T22:10:32.2713586+00:00"
+  "LastUpdate_Ratings": "2023-12-22T22:58:46.9636764+00:00",
+  "LastUpdate_Achievements": "2023-12-22T23:06:08.4119182+00:00"
 }
