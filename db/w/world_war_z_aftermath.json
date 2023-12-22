@@ -6,9 +6,9 @@
   "Ranking_Popularity": 73,
   "Ranking_PopularitySum": 44,
   "Ranking_EOS_Progress": 814,
-  "Ranking_EOS_Completed": 384,
+  "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 565,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-09-21T13:00:00+00:00",
     "PcReleaseDate": "2021-09-21T13:00:00+00:00",
@@ -11762,10 +11762,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 31246,
       "NumberOfAwardsMax": 5189
+    },
+    {
+      "Time": "2023-12-22T19:57:33.3711968+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 31252,
+      "NumberOfAwardsMax": 5189
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31246,
+  "NumberOfAwards": 31252,
   "NumberOfAwardsMax": 5189,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -11785,7 +11791,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 3584
+      "Count": 3586
     },
     {
       "Text": "This game is Highly Recommended",
@@ -11821,7 +11827,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 3458
+      "Count": 3462
     }
   ],
   "EOS_Progressed": 0,
@@ -11843,9 +11849,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:09.1230837+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.7901405+00:00",
-  "LastChanged": "2023-12-22T18:58:09.6382885+00:00",
-  "LastChanged_Achievements": "2023-12-22T19:05:21.2860162+00:00",
+  "LastChanged": "2023-12-22T19:57:33.3711967+00:00",
+  "LastChanged_Achievements": "2023-12-22T20:04:26.6099365+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:09.3135761+00:00",
-  "LastUpdate_Ratings": "2023-12-22T18:58:09.6382891+00:00",
-  "LastUpdate_Achievements": "2023-12-22T19:05:21.2860202+00:00"
+  "LastUpdate_Ratings": "2023-12-22T19:57:33.3711973+00:00",
+  "LastUpdate_Achievements": "2023-12-22T20:04:26.6099408+00:00"
 }

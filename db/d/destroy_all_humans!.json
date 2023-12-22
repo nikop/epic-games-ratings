@@ -5,10 +5,10 @@
   "Ranking_Rating": 353,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 515,
-  "Ranking_EOS_Progress": 477,
-  "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Progress": 472,
+  "Ranking_EOS_Completed": 385,
+  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -299,9 +299,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 98,
+  "EOS_Progressed": 100,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -619,6 +619,11 @@
       "Time": "2023-12-22T18:07:32.0381593+00:00",
       "NumProgressed": 98,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T20:05:39.1350776+00:00",
+      "NumProgressed": 100,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -631,7 +636,7 @@
       "Name": "Fly Me to the Moon Base",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_ABILITY_ABDUCTOBEAMCOW",
@@ -671,7 +676,7 @@
       "Name": "Yettisoned",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_ABILITY_PKHUMANINTOOCEAN",
@@ -685,9 +690,9 @@
       "ID": "ACH_ABILITY_PKTHROWANDCATCHHUMAN",
       "SetID": "cefn62b",
       "Name": "Forbidden Donut",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_ABILITY_SCANINHOLOBOB",
@@ -695,7 +700,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_ABILITY_SMASHBUTTON",
@@ -703,7 +708,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_ABILITY_TRANSMOG",
@@ -711,7 +716,7 @@
       "Name": "Freshly Squeezed",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_ABILITY_WITHWEAPON",
@@ -719,23 +724,23 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_CHALLENGE_ABDUCTIONTHREESTAR",
       "SetID": "cefn62b",
       "Name": "Ouch of Body Experience",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_CHALLENGE_ANY",
       "SetID": "cefn62b",
       "Name": "Furon Fashion",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_CHALLENGE_ARMAGEDDONTHREESTAR",
@@ -783,15 +788,15 @@
       "Name": "Earthly Pleasures",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_COLLECT_BRAINWHILEDAMAGED",
       "SetID": "cefn62b",
       "Name": "Kaijuiced",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_COLLECT_PROBE",
@@ -799,7 +804,7 @@
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_COMBAT_EVADEBAZOOKA",
@@ -813,9 +818,9 @@
       "ID": "ACH_ENEMY_KILLARMQUIST",
       "SetID": "cefn62b",
       "Name": "Albion Bridge Is for Falling Down",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_ENEMY_KILLROBOPREZ",
@@ -831,7 +836,7 @@
       "Name": "Lobster Blisque",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_ENEMY_SILHOUETTE",
@@ -853,9 +858,9 @@
       "ID": "ACH_INVADE_CAPITOL",
       "SetID": "cefn62b",
       "Name": "Hidden Human Hive Harvest",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_INVADE_ROCKWELL",
@@ -863,7 +868,7 @@
       "Name": "Pimp My Raid",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_INVADE_SANTAMODESTA",
@@ -871,7 +876,7 @@
       "Name": "Upgreatest",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_INVADE_TURNIPSEED",
@@ -879,7 +884,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_INVADE_UNIONTOWN",
@@ -901,7 +906,7 @@
       "ID": "ACH_MENU_FURONIGAMI",
       "SetID": "cefn62b",
       "Name": "Bodied Sattva",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
       "UsersEstimate": 29
     },
@@ -917,9 +922,9 @@
       "ID": "ACH_REVISIT_MISSION",
       "SetID": "cefn62b",
       "Name": "Dusted",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_UPGRADE_CRYPTO",
@@ -927,7 +932,7 @@
       "Name": "Perfect Probulator",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -935,7 +940,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_UPGRADE_TOPTIER",
@@ -950,15 +955,15 @@
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 98,
+      "Progressed": 100,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2023-11-09T01:43:19.9714919+00:00",
-  "LastChanged_Achievements": "2023-12-22T19:06:57.1319568+00:00",
+  "LastChanged_Achievements": "2023-12-22T20:05:39.1350771+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:30.3369877+00:00",
-  "LastUpdate_Ratings": "2023-12-22T19:00:12.3112645+00:00",
-  "LastUpdate_Achievements": "2023-12-22T19:06:57.1319788+00:00"
+  "LastUpdate_Ratings": "2023-12-22T19:58:59.295336+00:00",
+  "LastUpdate_Achievements": "2023-12-22T20:05:39.1351064+00:00"
 }

@@ -1,11 +1,11 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.54 (Ranked 533)  
+Rating: 4.54 (Ranked 532)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 14.00% | ~2,393 |
+| Oyedang, Kopengs | 14.00% | ~2,395 |
 | Captain Drummer | 10.00% | ~1,710 |
 | Celebrations are in Order | 10.00% | ~1,710 |
 | The Pit and the Pirates | 9.00% | ~1,539 |
@@ -15,34 +15,34 @@ Rating: 4.54 (Ranked 533)
 | Impossible Objects | 9.00% | ~1,539 |
 | Stogie for Fogey | 8.00% | ~1,368 |
 | Spore Taste | 8.00% | ~1,368 |
-| Safe Cracker | 8.00% | ~244 |
-| Zen Master | 8.00% | ~244 |
+| Safe Cracker | 8.00% | ~245 |
+| Zen Master | 8.00% | ~245 |
 | Call it Even | 7.00% | ~1,197 |
-| Madame Undersecretary | 7.00% | ~213 |
+| Madame Undersecretary | 7.00% | ~214 |
 | Drug Gifter | 6.00% | ~1,026 |
 | Heal Thy Medic | 6.00% | ~1,026 |
-| Keep Arjun in Check | 6.00% | ~183 |
+| Keep Arjun in Check | 6.00% | ~184 |
 | Data Archivist | 5.00% | ~855 |
 | Thorston Mayer | 5.00% | ~855 |
 | Khan's Revenge | 5.00% | ~855 |
-| Master Negotiator | 5.00% | ~152 |
+| Master Negotiator | 5.00% | ~153 |
 | Doctor Approved | 4.00% | ~684 |
 | Bottoms up! | 4.00% | ~684 |
 | Data Logger | 3.00% | ~513 |
 | Miraculous Maya | 3.00% | ~513 |
+| Brother's Reaper | 2.00% | ~342 |
 | No Belter Left Behind | 2.00% | ~342 |
 | Data Master | 2.00% | ~342 |
-| Brother's Reaper | 1.00% | ~171 |
 | Debris Spree | 1.00% | ~171 |
 | Data Recoverer | 1.00% | ~171 |
 | Urshanabi Hoarder | 0.90% | ~154 |
-| Data Miner | 0.50% | ~85 |
-| Grave Robber | 0.50% | ~85 |
+| Data Miner | 0.50% | ~86 |
+| Grave Robber | 0.50% | ~86 |
 | Scavenger Star | 0.20% | ~34 |
 | Data Collector | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,095 (Ranked 155)  
-Completed: 47 (0.27%) (Ranked 254)  
+Progressed: 17,105 (Ranked 155)  
+Completed: 47 (0.27%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -194,7 +194,7 @@ Completed: 47 (0.27%) (Ranked 254)
 | 2023-12-19 | 16,865 | 45 |
 | 2023-12-20 | 16,946 | 46 |
 | 2023-12-21 | 17,033 | 46 |
-| 2023-12-22 | 17,095 | 47 |
+| 2023-12-22 | 17,105 | 47 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,8 +4,8 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 380,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 378,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 596,
+  "EOS_Progressed": 597,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.17,
   "EosHistory": [
@@ -2604,6 +2604,11 @@
       "Time": "2023-12-22T17:04:49.030008+00:00",
       "NumProgressed": 596,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-22T20:04:41.4466052+00:00",
+      "NumProgressed": 597,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 14,
@@ -2615,7 +2620,7 @@
       "Name": "The gateway to the underworld",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -2623,7 +2628,7 @@
       "Name": "Is it merely a dream?",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2695,7 +2700,7 @@
       "Name": "Unveiling the Magnitude of Sin",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -2726,14 +2731,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 596,
+      "Progressed": 597,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-12-22T19:05:40.5980818+00:00",
+  "LastChanged_Achievements": "2023-12-22T20:04:41.4466044+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:57:05.7189556+00:00",
-  "LastUpdate_Ratings": "2023-12-22T18:59:05.41203+00:00",
-  "LastUpdate_Achievements": "2023-12-22T19:05:40.5981037+00:00"
+  "LastUpdate_Ratings": "2023-12-22T19:58:12.4460673+00:00",
+  "LastUpdate_Achievements": "2023-12-22T20:04:41.4466429+00:00"
 }

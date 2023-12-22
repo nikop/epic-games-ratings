@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 81.00% | ~144 |
-| A piece of the story | 58.00% | ~103 |
-| Wanderer | 57.00% | ~101 |
-| It's covered up for a reason | 48.00% | ~85 |
-| Scraps of love | 44.00% | ~78 |
-| The artist’s impression | 43.00% | ~77 |
-| Do what you have to | 41.00% | ~73 |
-| Sign of weakness | 36.00% | ~64 |
+| Something important | 81.00% | ~145 |
+| A piece of the story | 58.00% | ~104 |
+| Wanderer | 58.00% | ~104 |
+| It's covered up for a reason | 47.00% | ~84 |
+| Scraps of love | 44.00% | ~79 |
+| Do what you have to | 42.00% | ~75 |
+| The artist’s impression | 42.00% | ~75 |
+| Sign of weakness | 37.00% | ~66 |
 | Refuse to look | 33.00% | ~59 |
 | Face your fears | 27.00% | ~48 |
-| Finished it | 26.00% | ~46 |
+| Finished it | 26.00% | ~47 |
 | Whispers long forgotten | 14.00% | ~25 |
 | Debut | 11.00% | ~20 |
 | The art of movement | 11.00% | ~20 |
 | Tough conversation | 11.00% | ~20 |
 | A Slice of Life | 10.00% | ~18 |
-| Sound Bite | 10.00% | ~18 |
 | Playtime | 10.00% | ~18 |
+| Sound Bite | 9.00% | ~16 |
 | The tragedy unfolds | 9.00% | ~16 |
 | A new way | 8.00% | ~14 |
 | Another perspective | 8.00% | ~14 |
 | First steps | 8.00% | ~14 |
 | Lights! Camera! Action! | 8.00% | ~14 |
-| Breaking free | 7.00% | ~12 |
-| True Reflection | 7.00% | ~12 |
+| Breaking free | 7.00% | ~13 |
+| True Reflection | 7.00% | ~13 |
 | Casting Finished | 6.00% | ~11 |
 | Heavy Burden | 6.00% | ~11 |
 | Fisherman | 6.00% | ~11 |
@@ -57,8 +57,8 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 178 (Ranked 415)  
-Completed: 0 (0.00%) (Ranked 384)  
+Progressed: 179 (Ranked 414)  
+Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -117,4 +117,4 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-19 | 159 | 0 |
 | 2023-12-20 | 162 | 0 |
 | 2023-12-21 | 175 | 0 |
-| 2023-12-22 | 178 | 0 |
+| 2023-12-22 | 179 | 0 |

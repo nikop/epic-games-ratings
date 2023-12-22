@@ -17,8 +17,8 @@ Number of Ratings: 116  (23.09.2022)
 | All That Glitters | 52.00% | ~43 |
 | One Of the Chosen | 49.00% | ~40 |
 | Enhance! | 49.00% | ~40 |
+| Throne Potato | 41.00% | ~34 |
 | 25 to Life | 41.00% | ~34 |
-| Throne Potato | 40.00% | ~33 |
 | Unshakable Fortitude | 39.00% | ~32 |
 | Five's a Crowd | 39.00% | ~32 |
 | Devil's in the Details | 38.00% | ~31 |
@@ -72,7 +72,7 @@ Number of Ratings: 116  (23.09.2022)
 | Beast Mode | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 82 (Ranked 494)  
-Completed: 0 (0.00%) (Ranked 384)  
+Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

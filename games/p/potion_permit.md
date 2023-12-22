@@ -5,38 +5,38 @@ Rating: 3.83 (Ranked 1,049)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,727 |
-| The First Step | 88.00% | ~1,551 |
-| Moonbury Traveller | 63.00% | ~1,110 |
-| Rookie Chemist | 61.00% | ~1,075 |
-| Great Doctor | 50.00% | ~881 |
-| Dog Whisperer | 48.00% | ~846 |
-| Friendly | 47.00% | ~828 |
-| The Capitalist | 44.00% | ~775 |
-| K.O.! | 43.00% | ~758 |
-| Intermediate Chemist | 40.00% | ~705 |
+| Welcome to Moonbury | 98.00% | ~1,729 |
+| The First Step | 88.00% | ~1,552 |
+| Moonbury Traveller | 63.00% | ~1,111 |
+| Rookie Chemist | 61.00% | ~1,076 |
+| Great Doctor | 50.00% | ~882 |
+| Dog Whisperer | 48.00% | ~847 |
+| Friendly | 47.00% | ~829 |
+| The Capitalist | 44.00% | ~776 |
+| K.O.! | 43.00% | ~759 |
+| Intermediate Chemist | 40.00% | ~706 |
 | Decorative Mind | 32.00% | ~564 |
-| Lumber Specialist | 31.00% | ~546 |
-| Kind-hearted | 25.00% | ~440 |
-| Catch of the Day | 25.00% | ~440 |
+| Lumber Specialist | 31.00% | ~547 |
+| Kind-hearted | 25.00% | ~441 |
+| Catch of the Day | 25.00% | ~441 |
 | Amateur Chef | 22.00% | ~388 |
 | Fishing Guru | 21.00% | ~370 |
-| Spark of Love | 18.00% | ~317 |
+| Spark of Love | 18.00% | ~318 |
 | Community Helper | 17.00% | ~300 |
 | Expert Chemist | 14.00% | ~247 |
 | Stone Specialist | 14.00% | ~247 |
 | Sociable | 13.00% | ~229 |
-| Line Cook | 12.00% | ~211 |
-| Ablutomaniac | 12.00% | ~211 |
+| Line Cook | 12.00% | ~212 |
+| Ablutomaniac | 12.00% | ~212 |
 | Good Samaritan | 11.00% | ~194 |
 | Production Sorter | 11.00% | ~194 |
-| Acrobatic Adventurer | 9.00% | ~159 |
+| Acrobatic Adventurer | 10.00% | ~176 |
 | Animal Exterminator | 9.00% | ~159 |
 | Adolescent Love | 6.00% | ~106 |
 | Mail Carrier | 6.00% | ~106 |
 | Plantation Exterminator | 5.00% | ~88 |
-| Sous Chef | 4.00% | ~70 |
-| Grape Supplier | 4.00% | ~70 |
+| Sous Chef | 4.00% | ~71 |
+| Grape Supplier | 4.00% | ~71 |
 | Being forgetful... | 2.00% | ~35 |
 | Community Advisor | 2.00% | ~35 |
 | Rock Exterminator | 2.00% | ~35 |
@@ -44,7 +44,7 @@ Rating: 3.83 (Ranked 1,049)
 | Moonbury Navigator | 1.00% | ~18 |
 | Being a donut... | 0.70% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,762 (Ranked 241)  
+Progressed: 1,764 (Ranked 241)  
 Completed: 10 (0.57%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 10 (0.57%) (Ranked 202)
 | 2023-12-19 | 1,736 | 10 |
 | 2023-12-20 | 1,743 | 10 |
 | 2023-12-21 | 1,752 | 10 |
-| 2023-12-22 | 1,762 | 10 |
+| 2023-12-22 | 1,764 | 10 |
 ## Awards
 Max (Character Customization): 69  (Ranked 413)  
 Sum: 69 (Ranked 480)  

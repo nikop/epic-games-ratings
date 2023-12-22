@@ -17,7 +17,7 @@
 | Kemono Hunter | 41.00% | ~321 |
 | Helpful Heart | 40.00% | ~314 |
 | Flawless Crystal | 38.00% | ~298 |
-| Expert Conjuror | 37.00% | ~290 |
+| Expert Conjuror | 38.00% | ~298 |
 | Bonds of Enmity | 36.00% | ~282 |
 | Distance Devourer | 35.00% | ~274 |
 | Counter Specialist | 33.00% | ~259 |

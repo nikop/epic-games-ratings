@@ -7,6 +7,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Settler | 0.30% | ~48 |
+| Play a Single Player Game | 0.30% | ~48 |
 | Able | 0.20% | ~32 |
 | Architect | 0.20% | ~32 |
 | Explorer | 0.20% | ~32 |
@@ -22,7 +23,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 0.20% | ~32 |
 | Hanging Gardens | 0.20% | ~32 |
 | Oracle | 0.20% | ~32 |
-| Play a Single Player Game | 0.20% | ~32 |
 | Judaism | 0.20% | ~32 |
 | Greek Paganism | 0.20% | ~32 |
 | Alexander the Great | 0.10% | ~16 |
@@ -114,6 +114,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Five Routs | 0.10% | ~16 |
 | Run, Pheidippides, Run! | 0.10% | ~16 |
 | Nenikekamen | 0.10% | ~16 |
+| Get the Hellas Out | 0.10% | ~16 |
+| The Turning Point | 0.10% | ~16 |
+| A Good Start | 0.10% | ~16 |
+| Tell the Spartans | 0.10% | ~16 |
 | Hittite Iron | 0.10% | ~16 |
 | Acropolis | 0.10% | ~16 |
 | Apadana | 0.10% | ~16 |
@@ -160,6 +164,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Network Game | 0.10% | ~16 |
 | Play a Play-By-Cloud Game | 0.10% | ~16 |
 | Power to the People | 0.10% | ~16 |
+| Punic Wars | 0.10% | ~16 |
 | Christianity | 0.10% | ~16 |
 | Manichaeism | 0.10% | ~16 |
 | Assyrian Paganism | 0.10% | ~16 |
@@ -202,6 +207,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambition Victory | 0.10% | ~16 |
 | Conquest Victory | 0.10% | ~16 |
 | Double Victory | 0.10% | ~16 |
+| No Characters | 0.10% | ~16 |
 | No Undo | 0.10% | ~16 |
 | Points Victory | 0.10% | ~16 |
 | Randomized Families | 0.10% | ~16 |
@@ -258,15 +264,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Game of the Week | 0.00% | ~0 |
 | That Also Works | 0.00% | ~0 |
 | Defend Where? | 0.00% | ~0 |
-| Get the Hellas Out | 0.00% | ~0 |
 | Not a Chance | 0.00% | ~0 |
-| The Turning Point | 0.00% | ~0 |
-| A Good Start | 0.00% | ~0 |
 | Like a Lion | 0.00% | ~0 |
 | Still Fighting | 0.00% | ~0 |
 | They Shall Not Pass | 0.00% | ~0 |
 | THIS IS SPARTA!! | 0.00% | ~0 |
-| Tell the Spartans | 0.00% | ~0 |
 | Shape of Things to Come | 0.00% | ~0 |
 | I am the Archon Now | 0.00% | ~0 |
 | Not a Scratch | 0.00% | ~0 |
@@ -306,10 +308,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana in Parsa | 0.00% | ~0 |
 | Play a Hotseat Game | 0.00% | ~0 |
 | Play a MP Teams Game | 0.00% | ~0 |
-| Punic Wars | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
 | Roman Papacy | 0.00% | ~0 |
-| No Characters | 0.00% | ~0 |
 | One City Challenge | 0.00% | ~0 |
 | Time Victory | 0.00% | ~0 |
 | Win a 1-v-1 Game | 0.00% | ~0 |
@@ -365,8 +365,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,878 (Ranked 161)  
-Completed: 5 (0.03%) (Ranked 344)  
+Progressed: 15,881 (Ranked 161)  
+Completed: 5 (0.03%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -611,7 +611,7 @@ Completed: 5 (0.03%) (Ranked 344)
 | 2023-12-19 | 15,840 | 5 |
 | 2023-12-20 | 15,854 | 5 |
 | 2023-12-21 | 15,865 | 5 |
-| 2023-12-22 | 15,878 | 5 |
+| 2023-12-22 | 15,881 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 279)  
 Sum: 1,907 (Ranked 220)  

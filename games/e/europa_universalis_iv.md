@@ -6,8 +6,8 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 0.40% | ~1,925 |
-| Until death do us apart | 0.40% | ~1,925 |
+| That's a Grand Army | 0.40% | ~1,926 |
+| Until death do us apart | 0.40% | ~1,926 |
 | That's a Grand Navy | 0.30% | ~1,444 |
 | Seriously?! | 0.30% | ~1,444 |
 | That is mine! | 0.30% | ~1,444 |
@@ -253,6 +253,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | That's a Silk Road | 0.10% | ~481 |
 | That's No Mon | 0.10% | ~481 |
 | The Bohemians | 0.10% | ~481 |
+| The Burgundian Conquest | 0.10% | ~481 |
 | The Chrysanthemum Throne | 0.10% | ~481 |
 | The Coin is Stronger than the Sword | 0.10% | ~481 |
 | The Continuation of Diplomacy | 0.10% | ~481 |
@@ -354,7 +355,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Stern des Südens | 0.00% | ~0 |
 | Sworn Fealty | 0.00% | ~0 |
 | Tatarstan | 0.00% | ~0 |
-| The Burgundian Conquest | 0.00% | ~0 |
 | The Freest Man in the World | 0.00% | ~0 |
 | The Third Way | 0.00% | ~0 |
 | The Three Mountains | 0.00% | ~0 |
@@ -370,8 +370,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 481,365 (Ranked 40)  
-Completed: 1 (0.00%) (Ranked 384)  
+Progressed: 481,420 (Ranked 40)  
+Completed: 1 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -616,7 +616,7 @@ Completed: 1 (0.00%) (Ranked 384)
 | 2023-12-19 | 479,445 | 1 |
 | 2023-12-20 | 480,075 | 1 |
 | 2023-12-21 | 480,795 | 1 |
-| 2023-12-22 | 481,365 | 1 |
+| 2023-12-22 | 481,420 | 1 |
 ## Awards
 Max (Educational): 7,506  (Ranked 54)  
 Sum: 61,815 (Ranked 24)  

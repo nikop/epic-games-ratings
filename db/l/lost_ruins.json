@@ -3,9 +3,9 @@
   "Name": "Lost Ruins",
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 321,
-  "Ranking_EOS_Completed": 277,
+  "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 587,
+  "EOS_Progressed": 588,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
@@ -1464,6 +1464,11 @@
       "Time": "2023-12-22T18:11:11.0773045+00:00",
       "NumProgressed": 587,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-22T20:09:32.6858155+00:00",
+      "NumProgressed": 588,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1547,7 +1552,7 @@
       "Name": "Gladiator",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "GoblinTales",
@@ -1555,7 +1560,7 @@
       "Name": "Goblin Tales",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "Hardboiled",
@@ -1595,7 +1600,7 @@
       "Name": "Inquisitor",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "Librarian",
@@ -1667,7 +1672,7 @@
       "Name": "Pyromancer",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Reincarnation",
@@ -1731,7 +1736,7 @@
       "Name": "The End",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "TheFallen",
@@ -1739,7 +1744,7 @@
       "Name": "The Fallen",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "TheTrio",
@@ -1794,7 +1799,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 587,
+      "Progressed": 588,
       "Completed": 1
     }
   ],
@@ -1802,8 +1807,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-22T19:10:51.3933474+00:00",
+  "LastChanged_Achievements": "2023-12-22T20:09:32.6858149+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:31.304442+00:00",
-  "LastUpdate_Ratings": "2023-12-22T19:02:52.9652338+00:00",
-  "LastUpdate_Achievements": "2023-12-22T19:10:51.3933823+00:00"
+  "LastUpdate_Ratings": "2023-12-22T20:02:35.3150682+00:00",
+  "LastUpdate_Achievements": "2023-12-22T20:09:32.6858477+00:00"
 }

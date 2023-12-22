@@ -6,8 +6,8 @@
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 273,
-  "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_Completed": 275,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -224,7 +224,7 @@
   ],
   "EOS_Progressed": 1089,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2935,9 +2935,9 @@
       "ID": "BreakTheLoop",
       "SetID": "1n308hc",
       "Name": "Break the Loop",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 65
     },
     {
       "ID": "BridgeBuilder",
@@ -3368,8 +3368,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-22T19:07:04.2917546+00:00",
+  "LastChanged_Achievements": "2023-12-22T20:05:44.6248545+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-22T19:02:44.0318399+00:00",
-  "LastUpdate_Achievements": "2023-12-22T19:07:04.2918003+00:00"
+  "LastUpdate_Ratings": "2023-12-22T20:02:29.0863224+00:00",
+  "LastUpdate_Achievements": "2023-12-22T20:05:44.6249134+00:00"
 }

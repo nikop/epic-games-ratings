@@ -2,10 +2,10 @@
   "ID": "e7a7820e516744b88212c1f78aa895df",
   "Name": "Overpass 2",
   "ProductSlug": "overpass-2",
-  "Ranking_EOS_Progress": 372,
-  "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 394,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Progress": 371,
+  "Ranking_EOS_Completed": 385,
+  "Ranking_EOS_NewPlayers": 381,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 306,
+  "EOS_Progressed": 308,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1250,6 +1250,11 @@
       "Time": "2023-12-22T19:10:15.4350338+00:00",
       "NumProgressed": 306,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T20:09:05.0513791+00:00",
+      "NumProgressed": 308,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-28T09:03:06.3221207+00:00",
@@ -1420,7 +1425,7 @@
       "ID": "achWinDiv2",
       "SetID": "7ji07dj",
       "Name": "Moving Up",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -1485,14 +1490,14 @@
     {
       "ID": "7ji07dj",
       "IsBase": true,
-      "Progressed": 306,
+      "Progressed": 308,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-12-22T19:10:15.4350333+00:00",
+  "LastChanged_Achievements": "2023-12-22T20:09:05.0513785+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:13.519956+00:00",
-  "LastUpdate_Ratings": "2023-12-22T18:58:45.8564819+00:00",
-  "LastUpdate_Achievements": "2023-12-22T19:10:15.4350521+00:00"
+  "LastUpdate_Ratings": "2023-12-22T19:57:59.0412879+00:00",
+  "LastUpdate_Achievements": "2023-12-22T20:09:05.0513972+00:00"
 }

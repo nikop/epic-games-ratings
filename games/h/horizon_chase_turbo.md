@@ -6,46 +6,46 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~982,035 |
-| I Need a Bigger Garage | 63.00% | ~687,424 |
-| Pump my Ride | 47.00% | ~512,840 |
-| Ghostbuster | 34.00% | ~370,991 |
-| Call Roadside Assistance | 18.00% | ~196,407 |
-| That Was Close | 18.00% | ~196,407 |
-| Quickie | 11.00% | ~120,026 |
-| California Dreamer | 7.00% | ~76,380 |
-| Can't Touch This | 5.00% | ~54,558 |
-| Carménère Taster | 4.00% | ~43,646 |
-| Comeback | 4.00% | ~43,646 |
-| Driver from Ipanema | 3.00% | ~32,734 |
-| Supersonic | 3.00% | ~32,734 |
-| Marathonist | 3.00% | ~32,734 |
-| Living Legend | 3.00% | ~32,734 |
-| God of Roads | 2.00% | ~21,823 |
-| Pathfinder | 2.00% | ~21,823 |
-| Go-Kart Champion | 2.00% | ~21,823 |
-| Round the Globe | 2.00% | ~21,823 |
-| Completionist | 2.00% | ~21,823 |
-| Harder, Better, Faster, Stronger | 2.00% | ~21,823 |
+| The First of Many | 90.00% | ~982,068 |
+| I Need a Bigger Garage | 63.00% | ~687,448 |
+| Pump my Ride | 47.00% | ~512,858 |
+| Ghostbuster | 34.00% | ~371,004 |
+| Call Roadside Assistance | 18.00% | ~196,414 |
+| That Was Close | 18.00% | ~196,414 |
+| Quickie | 11.00% | ~120,031 |
+| California Dreamer | 7.00% | ~76,383 |
+| Can't Touch This | 5.00% | ~54,559 |
+| Carménère Taster | 4.00% | ~43,647 |
+| Comeback | 4.00% | ~43,647 |
+| Driver from Ipanema | 3.00% | ~32,736 |
+| Supersonic | 3.00% | ~32,736 |
+| Marathonist | 3.00% | ~32,736 |
+| Living Legend | 3.00% | ~32,736 |
+| God of Roads | 2.00% | ~21,824 |
+| Pathfinder | 2.00% | ~21,824 |
+| Go-Kart Champion | 2.00% | ~21,824 |
+| Round the Globe | 2.00% | ~21,824 |
+| Completionist | 2.00% | ~21,824 |
+| Harder, Better, Faster, Stronger | 2.00% | ~21,824 |
 | Crocodile Hunter | 1.00% | ~10,912 |
 | The Iceman | 1.00% | ~10,912 |
 | Bollywood Star | 1.00% | ~10,912 |
 | Oil Tycoon | 1.00% | ~10,912 |
 | Golden Passport | 1.00% | ~10,912 |
 | Brave and Bold | 1.00% | ~10,912 |
-| Old Master | 0.90% | ~9,820 |
-| Otaku | 0.90% | ~9,820 |
+| Old Master | 0.90% | ~9,821 |
+| Otaku | 0.90% | ~9,821 |
 | Volcano Surfer | 0.80% | ~8,729 |
 | Survivor | 0.60% | ~6,547 |
 | King of the World | 0.60% | ~6,547 |
 | Getting Famous | 0.50% | ~5,456 |
-| Now Go Play Outside | 0.30% | ~3,273 |
+| Now Go Play Outside | 0.30% | ~3,274 |
 | Master of the Racetrack | 0.20% | ~2,182 |
 | Look Mom, No Hands! | 0.20% | ~2,182 |
 | Transporter | 0.10% | ~1,091 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,091,150 (Ranked 14)  
-Completed: 515 (0.05%) (Ranked 330)  
+Progressed: 1,091,187 (Ranked 14)  
+Completed: 515 (0.05%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -290,24 +290,24 @@ Completed: 515 (0.05%) (Ranked 330)
 | 2023-12-19 | 1,089,602 | 510 |
 | 2023-12-20 | 1,090,114 | 511 |
 | 2023-12-21 | 1,090,638 | 515 |
-| 2023-12-22 | 1,091,150 | 515 |
+| 2023-12-22 | 1,091,187 | 515 |
 ## Awards
 Max (Great for Beginners): 179  (Ranked 306)  
-Sum: 1,598 (Ranked 235)  
-Diff (max vs sum): 71  
+Sum: 1,602 (Ranked 234)  
+Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 179 |
+| This game is Great for Quick Sessions | 152 |
 | This game has Diverse Characters | 152 |
-| This game is Great for Quick Sessions | 150 |
 | This game has Quickly Understood Controls | 147 |
 | This game is Relaxing | 144 |
 | This game is Highly Recommended | 139 |
 | This game has Competitive Players | 128 |
 | This game has Playful Visuals | 128 |
-| This game is Extremely Fun | 126 |
+| This game is Extremely Fun | 127 |
 | This game has Amazing Storytelling | 111 |
-| This game has Amazing Characters | 101 |
+| This game has Amazing Characters | 102 |
 | This game has a Competitive Community | 93 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -586,3 +586,4 @@ Diff (max vs sum): 71
 | 2023-12-19 | 4.54 | - | 178 | 1,591 |
 | 2023-12-20 | 4.54 | - | 178 | 1,593 |
 | 2023-12-21 | 4.55 | - | 179 | 1,598 |
+| 2023-12-22 | 4.55 | - | 179 | 1,602 |

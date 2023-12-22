@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 148,
   "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 689,
+  "EOS_Progressed": 690,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.45,
   "EosHistory": [
@@ -2485,6 +2485,11 @@
       "Time": "2023-12-22T18:10:37.1608526+00:00",
       "NumProgressed": 689,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-22T20:09:08.2856968+00:00",
+      "NumProgressed": 690,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -2505,7 +2510,7 @@
       "Name": "Holey Moley",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "achievement_11",
@@ -2521,7 +2526,7 @@
       "Name": "From Way Downtown",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "achievement_13",
@@ -2569,7 +2574,7 @@
       "Name": "Perfect Round",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "achievement_2",
@@ -2617,7 +2622,7 @@
       "Name": "Makin\u0027 the Cut",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "achievement_8",
@@ -2625,7 +2630,7 @@
       "Name": "Winner\u0027s Circle",
       "Percentage": 52,
       "XP": 35,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "achievement_9",
@@ -2640,13 +2645,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 689,
+      "Progressed": 690,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-12-22T19:10:19.9655673+00:00",
+  "LastChanged_Achievements": "2023-12-22T20:09:08.2856963+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:04.0623721+00:00",
-  "LastUpdate_Ratings": "2023-12-22T19:01:27.1347283+00:00",
-  "LastUpdate_Achievements": "2023-12-22T19:10:19.9655857+00:00"
+  "LastUpdate_Ratings": "2023-12-22T19:59:53.9141027+00:00",
+  "LastUpdate_Achievements": "2023-12-22T20:09:08.2857147+00:00"
 }

@@ -24,8 +24,8 @@ Number of Ratings: 90  (23.09.2022)
 | Transmitting From Sol-3 | 10.00% | ~15 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 8.00% | ~12 |
 | Dusted | 8.00% | ~12 |
+| Kaijuiced | 7.00% | ~11 |
 | Fly Me to the Moon Base | 6.00% | ~9 |
-| Kaijuiced | 6.00% | ~9 |
 | Scuttled | 5.00% | ~8 |
 | Lobster Blisque | 3.00% | ~5 |
 | Yettisoned | 3.00% | ~5 |
@@ -52,7 +52,7 @@ Number of Ratings: 90  (23.09.2022)
 | Trans-Siberian Express | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 154 (Ranked 425)  
-Completed: 0 (0.00%) (Ranked 384)  
+Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

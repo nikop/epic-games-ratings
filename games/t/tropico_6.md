@@ -6,21 +6,21 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 74.00% | ~4,871 |
-| Un-Lonely Island | 45.00% | ~2,962 |
+| Just One...More...Term... | 74.00% | ~4,873 |
+| Un-Lonely Island | 45.00% | ~2,963 |
 | The Beginning of a Servantship | 44.00% | ~2,897 |
-| Trade Is My Trait | 36.00% | ~2,370 |
-| Number 18 | 23.00% | ~1,514 |
+| Trade Is My Trait | 36.00% | ~2,371 |
+| Number 18 | 23.00% | ~1,515 |
 | We Don't Have Time For That | 18.00% | ~1,185 |
 | The Governator | 17.00% | ~1,119 |
-| The Legend of Langostino | 16.00% | ~1,053 |
-| Caribbean Comrade | 15.00% | ~987 |
-| The Dreamer of Dreams | 15.00% | ~987 |
+| The Legend of Langostino | 16.00% | ~1,054 |
+| Caribbean Comrade | 15.00% | ~988 |
+| The Dreamer of Dreams | 15.00% | ~988 |
 | Go Sovereigns! | 11.00% | ~724 |
 | For Science! | 11.00% | ~724 |
 | Happy Ending? | 10.00% | ~658 |
-| Of Seals And Men | 9.00% | ~592 |
-| Shackadelic | 9.00% | ~592 |
+| Of Seals And Men | 9.00% | ~593 |
+| Shackadelic | 9.00% | ~593 |
 | Double Trouble | 8.00% | ~527 |
 | Firestarter | 8.00% | ~527 |
 | I Owe You Nothing | 7.00% | ~461 |
@@ -32,10 +32,10 @@ Number of Ratings: 398  (23.09.2022)
 | Computer Says "No" | 5.00% | ~329 |
 | Watch The World Burn | 5.00% | ~329 |
 | Fairy Tale Come True | 5.00% | ~329 |
-| Been there, Done That | 3.00% | ~197 |
-| Apocalypso | 3.00% | ~197 |
-| Narcissist | 3.00% | ~197 |
-| The Time For Wonders | 3.00% | ~197 |
+| Been there, Done That | 3.00% | ~198 |
+| Apocalypso | 3.00% | ~198 |
+| Narcissist | 3.00% | ~198 |
+| The Time For Wonders | 3.00% | ~198 |
 | One Does Not Simply Stage A Coup | 2.00% | ~132 |
 | Promising Endeavors | 2.00% | ~132 |
 | Sublime Subliminal Supreme | 2.00% | ~132 |
@@ -47,8 +47,8 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~53 |
 | My Ways | 0.20% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,583 (Ranked 191)  
-Completed: 2 (0.03%) (Ranked 344)  
+Progressed: 6,585 (Ranked 191)  
+Completed: 2 (0.03%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -293,11 +293,11 @@ Completed: 2 (0.03%) (Ranked 344)
 | 2023-12-19 | 6,520 | 2 |
 | 2023-12-20 | 6,547 | 2 |
 | 2023-12-21 | 6,567 | 2 |
-| 2023-12-22 | 6,583 | 2 |
+| 2023-12-22 | 6,585 | 2 |
 ## Awards
 Max (Highly Recommended): 104  (Ranked 364)  
-Sum: 742 (Ranked 294)  
-Diff (max vs sum): 70  
+Sum: 742 (Ranked 295)  
+Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 106 |

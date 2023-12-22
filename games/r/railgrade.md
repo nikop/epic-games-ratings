@@ -5,30 +5,30 @@ Rating: 4.55 (Ranked 510)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 106.00% | ~19,198 |
-| Before the Downfall | 101.00% | ~18,292 |
-| Money like Water | 99.00% | ~17,930 |
-| Minimalist | 97.00% | ~17,568 |
-| Builder | 89.00% | ~16,119 |
+| Trevithick's Legacy | 106.00% | ~19,197 |
+| Before the Downfall | 101.00% | ~18,291 |
+| Money like Water | 99.00% | ~17,929 |
+| Minimalist | 97.00% | ~17,567 |
+| Builder | 89.00% | ~16,118 |
 | Eraser | 76.00% | ~13,764 |
-| Pocket of Trains | 70.00% | ~12,678 |
-| Inspector | 64.00% | ~11,591 |
+| Pocket of Trains | 70.00% | ~12,677 |
+| Inspector | 64.00% | ~11,590 |
 | Going the Distance | 58.00% | ~10,504 |
 | Oil Baron | 45.00% | ~8,150 |
 | Loads-a-Money | 45.00% | ~8,150 |
-| Helper of the People | 42.00% | ~7,607 |
+| Helper of the People | 42.00% | ~7,606 |
 | Simplification | 37.00% | ~6,701 |
 | Box of Trains | 36.00% | ~6,520 |
-| Let There be Light | 35.00% | ~6,339 |
-| Hot Water | 33.00% | ~5,977 |
-| Indecisive | 32.00% | ~5,796 |
+| Let There be Light | 35.00% | ~6,338 |
+| Hot Water | 33.00% | ~5,976 |
+| Indecisive | 32.00% | ~5,795 |
 | The scenic route | 30.00% | ~5,433 |
 | Industrialist | 27.00% | ~4,890 |
 | Perfectionist | 25.00% | ~4,528 |
 | Trains over Pipes | 25.00% | ~4,528 |
-| 8K is Enough for Everyone | 24.00% | ~4,347 |
+| 8K is Enough for Everyone | 24.00% | ~4,346 |
 | Man of Steel | 18.00% | ~3,260 |
-| Room Full of Trains | 14.00% | ~2,536 |
+| Room Full of Trains | 14.00% | ~2,535 |
 | Investor | 11.00% | ~1,992 |
 | Multiverse | 8.00% | ~1,449 |
 | The poor groundwater levels | 8.00% | ~1,449 |
@@ -43,8 +43,8 @@ Rating: 4.55 (Ranked 510)
 | Overdeer | 0.60% | ~109 |
 | Cloud Services | 0.30% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,111 (Ranked 152)  
-Completed: 27 (0.15%) (Ranked 286)  
+Progressed: 18,110 (Ranked 152)  
+Completed: 27 (0.15%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

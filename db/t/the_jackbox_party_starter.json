@@ -3,9 +3,9 @@
   "Name": "The Jackbox Party Starter",
   "ProductSlug": "jackbox-party-starter",
   "Ranking_EOS_Progress": 814,
-  "Ranking_EOS_Completed": 384,
+  "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 565,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-06-30T05:00:00+00:00",
     "PcReleaseDate": "2022-06-30T05:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:06.5607145+00:00",
   "LastChanged": "2023-03-31T05:58:06.5607146+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:15.7203722+00:00",
-  "LastUpdate_Ratings": "2023-12-22T19:01:41.9648209+00:00",
-  "LastUpdate_Achievements": "2023-12-22T19:10:30.5550504+00:00"
+  "LastUpdate_Ratings": "2023-12-22T20:00:03.5204578+00:00",
+  "LastUpdate_Achievements": "2023-12-22T20:09:15.9531581+00:00"
 }

@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 64.00% | ~563 |
-| The Teleprobe | 51.00% | ~449 |
-| The City | 46.00% | ~405 |
-| The field base | 42.00% | ~370 |
-| Survivors | 35.00% | ~308 |
-| The Alliance | 34.00% | ~299 |
-| The Condor | 33.00% | ~290 |
-| The End | 33.00% | ~290 |
-| The Necroevolution | 26.00% | ~229 |
-| Krauta is alive | 25.00% | ~220 |
+| The Camp | 64.00% | ~565 |
+| The Teleprobe | 51.00% | ~450 |
+| The City | 46.00% | ~406 |
+| The field base | 42.00% | ~371 |
+| Survivors | 35.00% | ~309 |
+| The Alliance | 34.00% | ~300 |
+| The Condor | 33.00% | ~291 |
+| The End | 32.00% | ~283 |
+| The Necroevolution | 26.00% | ~230 |
+| Krauta is alive | 25.00% | ~221 |
 | Peacemaker | 21.00% | ~185 |
-| Volcanologist | 20.00% | ~176 |
-| On her own | 19.00% | ~167 |
-| Evacuation | 18.00% | ~158 |
+| Volcanologist | 20.00% | ~177 |
+| On her own | 18.00% | ~159 |
+| Evacuation | 18.00% | ~159 |
 | Fierce fight | 17.00% | ~150 |
 | Beyond divisions | 17.00% | ~150 |
 | Flying Objects Operator | 15.00% | ~132 |
-| I remember everything! | 13.00% | ~114 |
+| I remember everything! | 13.00% | ~115 |
 | Another giant | 12.00% | ~106 |
 | Violent solution | 9.00% | ~79 |
-| I leave no man behind | 8.00% | ~70 |
-| Innate curiosity | 8.00% | ~70 |
+| I leave no man behind | 8.00% | ~71 |
+| Innate curiosity | 8.00% | ~71 |
 | Strong objection | 6.00% | ~53 |
 | Ubiquitous holes | 5.00% | ~44 |
 | The Invincible | 5.00% | ~44 |
@@ -34,8 +34,8 @@
 | Convoy list | 0.90% | ~8 |
 | No more mistakes | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 880 (Ranked 284)  
-Completed: 0 (0.00%) (Ranked 384)  
+Progressed: 883 (Ranked 284)  
+Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -81,4 +81,4 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-19 | 807 | 0 |
 | 2023-12-20 | 836 | 0 |
 | 2023-12-21 | 853 | 0 |
-| 2023-12-22 | 880 | 0 |
+| 2023-12-22 | 883 | 0 |

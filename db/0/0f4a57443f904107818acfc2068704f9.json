@@ -3,9 +3,9 @@
   "Name": "Warhammer Age of Sigmar: Realms of Ruin",
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 282,
-  "Ranking_EOS_Completed": 301,
+  "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 953,
+  "EOS_Progressed": 954,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2257,6 +2257,11 @@
       "Time": "2023-12-22T19:08:28.4478231+00:00",
       "NumProgressed": 953,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-22T20:07:44.6509829+00:00",
+      "NumProgressed": 954,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -2325,7 +2330,7 @@
       "Name": "Pathfinder",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "CompleteChapter10",
@@ -2333,7 +2338,7 @@
       "Name": "You da Boss, Now",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "CompleteChapter11",
@@ -2421,7 +2426,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "CompleteChapter4",
@@ -2461,7 +2466,7 @@
       "Name": "Troggoff Troubles",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "CompleteChapter9",
@@ -2517,7 +2522,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "Win100OnlineMatched",
@@ -2564,14 +2569,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 953,
+      "Progressed": 954,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-22T19:08:28.4478227+00:00",
+  "LastChanged_Achievements": "2023-12-22T20:07:44.6509824+00:00",
   "LastUpdate_AppInfo": "2023-12-22T09:57:09.096238+00:00",
-  "LastUpdate_Ratings": "2023-12-22T18:59:00.8986367+00:00",
-  "LastUpdate_Achievements": "2023-12-22T19:08:28.447859+00:00"
+  "LastUpdate_Ratings": "2023-12-22T19:58:09.7434274+00:00",
+  "LastUpdate_Achievements": "2023-12-22T20:07:44.6510196+00:00"
 }

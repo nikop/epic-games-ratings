@@ -5,8 +5,8 @@ Rating: 4.62 (Ranked 374)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Secret Technique | 8.00% | ~480 |
 | Realm Estate | 7.00% | ~420 |
-| Secret Technique | 7.00% | ~420 |
 | A Wonderful Discovery | 6.00% | ~360 |
 | Walls Cannot Stop Us | 6.00% | ~360 |
 | Bone Peddler | 5.00% | ~300 |
@@ -66,8 +66,8 @@ Rating: 4.62 (Ranked 374)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,995 (Ranked 193)  
-Completed: 7 (0.12%) (Ranked 296)  
+Progressed: 5,996 (Ranked 193)  
+Completed: 7 (0.12%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -280,7 +280,7 @@ Completed: 7 (0.12%) (Ranked 296)
 | 2023-12-19 | 5,881 | 7 |
 | 2023-12-20 | 5,911 | 7 |
 | 2023-12-21 | 5,945 | 7 |
-| 2023-12-22 | 5,995 | 7 |
+| 2023-12-22 | 5,996 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 481)  
 Sum: 113 (Ranked 449)  

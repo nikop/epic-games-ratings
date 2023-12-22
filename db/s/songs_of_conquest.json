@@ -4,11 +4,11 @@
   "ProductSlug": "songs-of-conquest",
   "Ranking_Rating": 230,
   "Ranking_Popularity": 524,
-  "Ranking_PopularitySum": 412,
-  "Ranking_EOS_Progress": 307,
-  "Ranking_EOS_Completed": 384,
+  "Ranking_PopularitySum": 413,
+  "Ranking_EOS_Progress": 306,
+  "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 657,
+  "EOS_Progressed": 660,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2568,6 +2568,11 @@
       "Time": "2023-12-22T19:09:13.8052599+00:00",
       "NumProgressed": 657,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T20:08:18.6720934+00:00",
+      "NumProgressed": 660,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2684,7 +2689,7 @@
       "Name": "Critical Hit",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "Deepstrike",
@@ -2724,7 +2729,7 @@
       "Name": "Double Kill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "FlameAttackKillCount",
@@ -2884,7 +2889,7 @@
       "Name": "Landlord Extraordinaire",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "TrojanHorse",
@@ -2908,7 +2913,7 @@
       "Name": "Adept",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "WielderLevel2",
@@ -2916,7 +2921,7 @@
       "Name": "Veteran",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "WielderLevel3",
@@ -2924,7 +2929,7 @@
       "Name": "Master",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "WielderLevel4",
@@ -3011,15 +3016,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 657,
+      "Progressed": 660,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-22T19:09:13.8052594+00:00",
+  "LastChanged_Achievements": "2023-12-22T20:08:18.6720929+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:10.4027668+00:00",
-  "LastUpdate_Ratings": "2023-12-22T19:00:05.618528+00:00",
-  "LastUpdate_Achievements": "2023-12-22T19:09:13.8053104+00:00"
+  "LastUpdate_Ratings": "2023-12-22T19:58:54.7678819+00:00",
+  "LastUpdate_Achievements": "2023-12-22T20:08:18.6721394+00:00"
 }

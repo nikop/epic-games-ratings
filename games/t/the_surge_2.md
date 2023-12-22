@@ -5,22 +5,22 @@ Rating: 4.26 (Ranked 887)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 79.00% | ~1,846 |
-| Don't I Know You...? | 76.00% | ~1,776 |
-| Jailbreak | 65.00% | ~1,519 |
+| Rigged And Ready | 79.00% | ~1,847 |
+| Don't I Know You...? | 76.00% | ~1,777 |
+| Jailbreak | 65.00% | ~1,520 |
 | HEADSHOT! | 38.00% | ~888 |
 | Suited and Booted | 38.00% | ~888 |
 | Sleeping With The Fishes | 35.00% | ~818 |
 | Overheated | 30.00% | ~701 |
 | High Performance | 30.00% | ~701 |
-| Powered Up | 28.00% | ~654 |
+| Powered Up | 28.00% | ~655 |
 | Studied The Blade | 25.00% | ~584 |
 | Home Invasion | 23.00% | ~538 |
 | Luminary | 22.00% | ~514 |
 | It's a Trap | 22.00% | ~514 |
 | True Survivor | 21.00% | ~491 |
-| Offensive Defense | 20.00% | ~467 |
-| Shocking | 20.00% | ~467 |
+| Offensive Defense | 20.00% | ~468 |
+| Shocking | 20.00% | ~468 |
 | Court Martial | 19.00% | ~444 |
 | Clean Cut | 19.00% | ~444 |
 | Unforeseeable Consequences | 19.00% | ~444 |
@@ -32,9 +32,9 @@ Rating: 4.26 (Ranked 887)
 | Where It All Began | 13.00% | ~304 |
 | Risk Tolerant | 13.00% | ~304 |
 | What A Catchy Song | 13.00% | ~304 |
-| Corrupted Beauty | 12.00% | ~280 |
-| Marked For Success | 12.00% | ~280 |
-| Sorry, Didn't See You There | 12.00% | ~280 |
+| Corrupted Beauty | 12.00% | ~281 |
+| Marked For Success | 12.00% | ~281 |
+| Sorry, Didn't See You There | 12.00% | ~281 |
 | Stimulating The Local Economy | 10.00% | ~234 |
 | Triplets | 10.00% | ~234 |
 | Denying Prophecy | 9.00% | ~210 |
@@ -50,9 +50,9 @@ Rating: 4.26 (Ranked 887)
 | Counter-Sniper | 5.00% | ~117 |
 | Shrimp Cocktail | 5.00% | ~117 |
 | Juiced Up | 5.00% | ~117 |
-| Geronimo! | 4.00% | ~93 |
-| Homewrecker | 4.00% | ~93 |
-| Plank of Wood | 4.00% | ~93 |
+| Geronimo! | 4.00% | ~94 |
+| Homewrecker | 4.00% | ~94 |
+| Plank of Wood | 4.00% | ~94 |
 | Gotta Craft 'em All | 3.00% | ~70 |
 | Own Medicine | 2.00% | ~47 |
 | It Lives! It Sniffs! It Conquers! | 2.00% | ~47 |
@@ -63,7 +63,7 @@ Rating: 4.26 (Ranked 887)
 | Three Birds With One Stone | 1.00% | ~23 |
 | The Easy Way Out | 1.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,337 (Ranked 229)  
+Progressed: 2,338 (Ranked 229)  
 Completed: 13 (0.56%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 13 (0.56%) (Ranked 203)
 | 2023-12-19 | 2,300 | 13 |
 | 2023-12-20 | 2,314 | 13 |
 | 2023-12-21 | 2,329 | 13 |
-| 2023-12-22 | 2,337 | 13 |
+| 2023-12-22 | 2,338 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Introduction completed | 83.00% | ~25 |
-| Chapter 1 | 47.00% | ~14 |
-| Chapter 2 | 43.00% | ~13 |
-| Chapter 3 | 43.00% | ~13 |
-| It's In My Nature | 43.00% | ~13 |
-| Chapter 4 | 40.00% | ~12 |
-| Your Days Are Numbered | 40.00% | ~12 |
-| All Materials | 40.00% | ~12 |
-| Chapter 5 | 33.00% | ~10 |
-| Chapter 6 | 27.00% | ~8 |
-| Food Thief | 17.00% | ~5 |
+| Introduction completed | 84.00% | ~26 |
+| Chapter 1 | 45.00% | ~14 |
+| Chapter 2 | 42.00% | ~13 |
+| Chapter 3 | 42.00% | ~13 |
+| It's In My Nature | 42.00% | ~13 |
+| Chapter 4 | 39.00% | ~12 |
+| Your Days Are Numbered | 39.00% | ~12 |
+| All Materials | 39.00% | ~12 |
+| Chapter 5 | 32.00% | ~10 |
+| Chapter 6 | 26.00% | ~8 |
+| Food Thief | 16.00% | ~5 |
 | Ads Fan | 13.00% | ~4 |
 | Best Student | 13.00% | ~4 |
 | Highway Survival | 10.00% | ~3 |
@@ -22,9 +22,9 @@
 | Sugar Pills Lover | 10.00% | ~3 |
 | Tramp Saver | 10.00% | ~3 |
 | Hard To Wake Up | 10.00% | ~3 |
-| Bear Cop | 7.00% | ~2 |
-| Chipmunk | 7.00% | ~2 |
-| Secret Locker | 7.00% | ~2 |
+| Bear Cop | 6.00% | ~2 |
+| Chipmunk | 6.00% | ~2 |
+| Secret Locker | 6.00% | ~2 |
 | Master of Mattresses | 0.00% | ~0 |
 | Main Endings | 0.00% | ~0 |
 | Pacifist | 0.00% | ~0 |
@@ -34,8 +34,8 @@
 | Toilets Tormentor | 0.00% | ~0 |
 | Worst. Investigator. Ever. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30 (Ranked 572)  
-Completed: 0 (0.00%) (Ranked 384)  
+Progressed: 31 (Ranked 569)  
+Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -61,7 +61,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-11-27 | 25 | 0 |
 | 2023-12-15 | 26 | 0 |
 | 2023-12-16 | 27 | 0 |
-| 2023-12-22 | 30 | 0 |
+| 2023-12-22 | 31 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

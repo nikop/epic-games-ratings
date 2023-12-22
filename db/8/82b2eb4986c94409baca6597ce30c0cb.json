@@ -3,9 +3,9 @@
   "Name": "Spellborne",
   "ProductSlug": "defimons-ac6e3e",
   "Ranking_EOS_Progress": 814,
-  "Ranking_EOS_Completed": 384,
+  "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 565,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-19T02:56:54.8590576+00:00",
-  "LastUpdate_Ratings": "2023-12-22T18:59:11.5653592+00:00",
-  "LastUpdate_Achievements": "2023-12-22T19:08:57.9863516+00:00"
+  "LastUpdate_Ratings": "2023-12-22T19:58:17.0495137+00:00",
+  "LastUpdate_Achievements": "2023-12-22T20:08:06.5280312+00:00"
 }

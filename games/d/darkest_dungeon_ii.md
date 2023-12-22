@@ -1,19 +1,19 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 259)  
+Rating: 4.68 (Ranked 258)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 9.00% | ~363 |
-| Lost and Found | 6.00% | ~242 |
+| Malpractice Assurance | 9.00% | ~364 |
+| Lost and Found | 6.00% | ~243 |
 | This guy... again? | 5.00% | ~202 |
 | This Belongs in a Museum | 4.00% | ~5,167 |
 | Overdue Notice | 4.00% | ~5,167 |
 | Autodidact | 4.00% | ~5,167 |
-| Ploughshares to Swords | 4.00% | ~161 |
-| Bloody Graduation | 4.00% | ~161 |
+| Ploughshares to Swords | 4.00% | ~162 |
+| Bloody Graduation | 4.00% | ~162 |
 | Don't Make Me Turn This Coach Around | 3.00% | ~3,875 |
 | Serenity Now! | 3.00% | ~3,875 |
 | It Rings a Bell | 3.00% | ~3,875 |
@@ -31,6 +31,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Funny Guy | 2.00% | ~2,583 |
 | Long Live the King | 2.00% | ~2,583 |
 | Wyrdly Reconstructed | 2.00% | ~2,583 |
+| Boxcar Kid | 2.00% | ~2,583 |
 | Unfulfilled Desires | 2.00% | ~2,583 |
 | Predator | 2.00% | ~2,583 |
 | Dissector | 2.00% | ~2,583 |
@@ -49,7 +50,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Nope | 2.00% | ~2,583 |
 | Unshackled | 2.00% | ~2,583 |
 | Road Trip | 2.00% | ~2,583 |
-| Boxcar Kid | 1.00% | ~1,292 |
 | This Looks Familiar | 1.00% | ~1,292 |
 | Hope Rekindled | 1.00% | ~1,292 |
 | Ichthyophobic | 1.00% | ~1,292 |
@@ -62,8 +62,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Slap on the Wrist | 0.90% | ~36 |
 | Handled | 0.80% | ~1,033 |
 | For Old Time' Sake | 0.80% | ~32 |
+| Shrine of Reflection | 0.70% | ~904 |
 | Body of Work | 0.70% | ~904 |
-| Shrine of Reflection | 0.60% | ~775 |
 | Et Tu, Riposte? | 0.60% | ~24 |
 | Clearing the Ledger | 0.50% | ~646 |
 | Hat Trick | 0.50% | ~646 |
@@ -86,8 +86,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,168 (Ranked 86)  
-Completed: 3 (0.00%) (Ranked 384)  
+Progressed: 129,174 (Ranked 86)  
+Completed: 3 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -322,10 +322,10 @@ Completed: 3 (0.00%) (Ranked 384)
 | 2023-12-19 | 128,605 | 3 |
 | 2023-12-20 | 128,785 | 3 |
 | 2023-12-21 | 128,979 | 3 |
-| 2023-12-22 | 129,168 | 3 |
+| 2023-12-22 | 129,174 | 3 |
 ## Awards
 Max (Character Customization): 7,823  (Ranked 50)  
-Sum: 20,920 (Ranked 58)  
+Sum: 20,925 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -335,7 +335,7 @@ Diff (max vs sum): -8
 | This game is Highly Recommended | 1,557 |
 | This game is Extremely Fun | 1,481 |
 | This game has Amazing Characters | 1,481 |
-| This game has Unique Visuals | 1,401 |
+| This game has Unique Visuals | 1,406 |
 | This game has Amazing Storytelling | 1,401 |
 | This game has Quickly Understood Controls | 1,367 |
 | This game has a Creative Community | 1,036 |
@@ -672,4 +672,4 @@ Diff (max vs sum): -8
 | 2023-12-19 | 4.68 | - | 7,795 | 20,806 |
 | 2023-12-20 | 4.68 | - | 7,805 | 20,840 |
 | 2023-12-21 | 4.68 | - | 7,823 | 20,903 |
-| 2023-12-22 | 4.68 | - | 7,823 | 20,920 |
+| 2023-12-22 | 4.68 | - | 7,823 | 20,925 |

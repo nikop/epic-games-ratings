@@ -1334,9 +1334,9 @@
       "ID": "Dust_fighter",
       "SetID": "b7i210",
       "Name": "Dust fighter",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 50,
-      "UsersEstimate": 156
+      "UsersEstimate": 158
     },
     {
       "ID": "Engineer",
@@ -1350,9 +1350,9 @@
       "ID": "Express_home_delivery",
       "SetID": "b7i210",
       "Name": "Express home delivery",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 50,
-      "UsersEstimate": 160
+      "UsersEstimate": 163
     },
     {
       "ID": "Fisher",
@@ -1390,17 +1390,17 @@
       "ID": "Justice",
       "SetID": "b7i210",
       "Name": "Justice",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 111
+      "UsersEstimate": 113
     },
     {
       "ID": "Liberator",
       "SetID": "b7i210",
       "Name": "Liberator",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 106
+      "UsersEstimate": 108
     },
     {
       "ID": "Peacemaker",
@@ -1414,17 +1414,17 @@
       "ID": "Repair",
       "SetID": "b7i210",
       "Name": "Repair",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 102
+      "UsersEstimate": 104
     },
     {
       "ID": "Rusty",
       "SetID": "b7i210",
       "Name": "Rusty",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 102
+      "UsersEstimate": 104
     },
     {
       "ID": "Samaritan",
@@ -1469,8 +1469,8 @@
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-12-22T19:06:51.9950387+00:00",
+  "LastChanged_Achievements": "2023-12-22T20:05:35.1714497+00:00",
   "LastUpdate_AppInfo": "2023-12-19T08:57:02.2592563+00:00",
-  "LastUpdate_Ratings": "2023-12-22T19:02:38.6747849+00:00",
-  "LastUpdate_Achievements": "2023-12-22T19:06:51.9950561+00:00"
+  "LastUpdate_Ratings": "2023-12-22T20:02:25.2778531+00:00",
+  "LastUpdate_Achievements": "2023-12-22T20:05:35.1714766+00:00"
 }

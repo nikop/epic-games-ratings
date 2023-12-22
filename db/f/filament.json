@@ -5,10 +5,10 @@
   "Ranking_Rating": 829,
   "Ranking_Popularity": 205,
   "Ranking_PopularitySum": 306,
-  "Ranking_EOS_Progress": 75,
-  "Ranking_EOS_Completed": 258,
+  "Ranking_EOS_Progress": 76,
+  "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -372,9 +372,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 207542,
+  "EOS_Progressed": 207543,
   "EOS_Completed": 546,
-  "EOS_NewPlayers": 459,
+  "EOS_NewPlayers": 458,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -26692,6 +26692,11 @@
       "Time": "2023-12-22T19:07:40.3326376+00:00",
       "NumProgressed": 207542,
       "NumCompleted": 546
+    },
+    {
+      "Time": "2023-12-22T20:06:12.0150038+00:00",
+      "NumProgressed": 207543,
+      "NumCompleted": 546
     }
   ],
   "TotalAchievements": 29,
@@ -26727,7 +26732,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 195089
+      "UsersEstimate": 195090
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -26934,7 +26939,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 207542,
+      "Progressed": 207543,
       "Completed": 546
     }
   ],
@@ -26942,8 +26947,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-12-14T16:59:49.3073331+00:00",
-  "LastChanged_Achievements": "2023-12-22T19:07:40.3326371+00:00",
+  "LastChanged_Achievements": "2023-12-22T20:06:12.0150032+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:10.7680666+00:00",
-  "LastUpdate_Ratings": "2023-12-22T19:01:16.9099942+00:00",
-  "LastUpdate_Achievements": "2023-12-22T19:07:40.3327883+00:00"
+  "LastUpdate_Ratings": "2023-12-22T19:59:46.8318108+00:00",
+  "LastUpdate_Achievements": "2023-12-22T20:06:12.0151474+00:00"
 }

@@ -8,7 +8,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | ---- | ---------- | ----- |
 | Abandoned Settlement | 6.00% | ~1,136 |
 | Overgrown Library | 6.00% | ~1,136 |
-| Petrified Necropolis | 5.00% | ~946 |
+| Petrified Necropolis | 5.00% | ~947 |
 | First Real Expedition | 4.00% | ~757 |
 | Taking Action | 4.00% | ~757 |
 | No Deaths | 4.00% | ~757 |
@@ -66,8 +66,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,929 (Ranked 149)  
-Completed: 39 (0.21%) (Ranked 268)  
+Progressed: 18,931 (Ranked 149)  
+Completed: 39 (0.21%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -312,20 +312,20 @@ Completed: 39 (0.21%) (Ranked 268)
 | 2023-12-19 | 18,687 | 39 |
 | 2023-12-20 | 18,771 | 39 |
 | 2023-12-21 | 18,861 | 39 |
-| 2023-12-22 | 18,929 | 39 |
+| 2023-12-22 | 18,931 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 228)  
-Sum: 3,279 (Ranked 175)  
+Sum: 3,282 (Ranked 175)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 442 |
 | This game is Relaxing | 439 |
 | This game is Great for Beginners | 431 |
-| This game is Extremely Fun | 411 |
+| This game is Extremely Fun | 412 |
 | This game is Highly Recommended | 395 |
 | This game has Unique Visuals | 334 |
-| This game has Amazing Storytelling | 322 |
+| This game has Amazing Storytelling | 324 |
 | This game has Amazing Characters | 289 |
 | This game has Obsessive Gameplay | 254 |
 | This game has a Creative Community | 216 |
@@ -593,4 +593,4 @@ Diff (max vs sum): 53
 | 2023-12-19 | 4.82 | - | 442 | 3,273 |
 | 2023-12-20 | 4.82 | - | 442 | 3,274 |
 | 2023-12-21 | 4.82 | - | 442 | 3,277 |
-| 2023-12-22 | 4.82 | - | 442 | 3,279 |
+| 2023-12-22 | 4.82 | - | 442 | 3,282 |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 331,
-  "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 356,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 271,
+  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -654,9 +654,9 @@
       "ID": "ACHIEVEMENT_07",
       "SetID": "631ndc2",
       "Name": "Circus Electrique Proudly Presents...",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 217
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -1015,8 +1015,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-12-22T19:03:46.52944+00:00",
+  "LastChanged_Achievements": "2023-12-22T20:03:15.0381182+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:19.7923718+00:00",
-  "LastUpdate_Ratings": "2023-12-22T18:59:39.3829932+00:00",
-  "LastUpdate_Achievements": "2023-12-22T19:03:46.5294903+00:00"
+  "LastUpdate_Ratings": "2023-12-22T19:58:36.2883855+00:00",
+  "LastUpdate_Achievements": "2023-12-22T20:03:15.0381624+00:00"
 }

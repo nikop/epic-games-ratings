@@ -4,7 +4,7 @@
   "ProductSlug": "ghostrunner",
   "Ranking_Rating": 188,
   "Ranking_Popularity": 212,
-  "Ranking_PopularitySum": 289,
+  "Ranking_PopularitySum": 290,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 139,
@@ -1473,9 +1473,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 24847,
+  "EOS_Progressed": 24848,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 598,
+  "EOS_NewPlayers": 593,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -27998,6 +27998,11 @@
       "Time": "2023-12-22T19:07:09.173408+00:00",
       "NumProgressed": 24847,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-12-22T20:05:48.3561185+00:00",
+      "NumProgressed": 24848,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 45,
@@ -28071,9 +28076,9 @@
       "ID": "FinishLine",
       "SetID": "6ce5bmd",
       "Name": "Finish line",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 60,
-      "UsersEstimate": 6460
+      "UsersEstimate": 6212
     },
     {
       "ID": "GRProjectComplete",
@@ -28105,7 +28110,7 @@
       "Name": "I call it luck",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 10684
+      "UsersEstimate": 10685
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -28305,7 +28310,7 @@
       "Name": "Unstoppable force",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 5466
+      "UsersEstimate": 5467
     },
     {
       "ID": "UpCloseAndPersonal",
@@ -28368,21 +28373,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 24847,
+      "Progressed": 24848,
       "Completed": 65
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 24847,
+      "Progressed": 24848,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-12-19T15:59:23.7611453+00:00",
-  "LastChanged_Achievements": "2023-12-22T19:07:09.1734074+00:00",
+  "LastChanged_Achievements": "2023-12-22T20:05:48.3561179+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:26.3617776+00:00",
-  "LastUpdate_Ratings": "2023-12-22T19:01:50.0321819+00:00",
-  "LastUpdate_Achievements": "2023-12-22T19:07:09.1735504+00:00"
+  "LastUpdate_Ratings": "2023-12-22T20:00:09.1821926+00:00",
+  "LastUpdate_Achievements": "2023-12-22T20:05:48.356251+00:00"
 }

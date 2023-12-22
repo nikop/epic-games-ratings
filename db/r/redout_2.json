@@ -6,9 +6,9 @@
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 267,
-  "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 422,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 385,
+  "Ranking_EOS_NewPlayers": 415,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1187,
+  "EOS_Progressed": 1188,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1210,6 +1210,11 @@
       "Time": "2023-12-22T05:03:19.9258559+00:00",
       "NumProgressed": 1187,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T20:03:45.2999256+00:00",
+      "NumProgressed": 1188,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -1333,7 +1338,7 @@
       "Name": "Under the neon lights",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ALLTROPHIES",
@@ -1349,7 +1354,7 @@
       "Name": "Rookie No More",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "CAREERADVANCED",
@@ -1389,7 +1394,7 @@
       "Name": "All Power to Engines!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "CAREERTRIALSA",
@@ -1397,7 +1402,7 @@
       "Name": "Had to sweat a bit",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "CAREERTRIALSB",
@@ -1469,7 +1474,7 @@
       "Name": "Almost broke the game",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "GRANDMASTER",
@@ -1477,7 +1482,7 @@
       "Name": "Redout Grandmaster",
       "Percentage": 0.8,
       "XP": 80,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "JOIN50ONLINE",
@@ -1509,7 +1514,7 @@
       "Name": "Better luck next time",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ONEAESTHETIC",
@@ -1533,7 +1538,7 @@
       "Name": "Increasing your Power Level",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ONEPAINT",
@@ -1549,7 +1554,7 @@
       "Name": "Dev, this!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ONETROPHY",
@@ -1573,7 +1578,7 @@
       "Name": "A Cheese Grater to the Face",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "TENPLATINUM",
@@ -1613,7 +1618,7 @@
       "Name": "He who laughs last...",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "WINONEONLINE",
@@ -1636,7 +1641,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1187,
+      "Progressed": 1188,
       "Completed": 0
     }
   ],
@@ -1644,8 +1649,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-12-19T23:02:44.1554509+00:00",
-  "LastChanged_Achievements": "2023-12-22T19:04:26.3348577+00:00",
+  "LastChanged_Achievements": "2023-12-22T20:03:45.2999249+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:54.1837394+00:00",
-  "LastUpdate_Ratings": "2023-12-22T19:03:18.9396568+00:00",
-  "LastUpdate_Achievements": "2023-12-22T19:04:26.3348992+00:00"
+  "LastUpdate_Ratings": "2023-12-22T20:02:54.5939839+00:00",
+  "LastUpdate_Achievements": "2023-12-22T20:03:45.299972+00:00"
 }

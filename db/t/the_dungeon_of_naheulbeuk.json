@@ -6,9 +6,9 @@
   "Ranking_Popularity": 274,
   "Ranking_PopularitySum": 327,
   "Ranking_EOS_Progress": 65,
-  "Ranking_EOS_Completed": 384,
+  "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1551,9 +1551,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 244051,
+  "EOS_Progressed": 244058,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1145,
+  "EOS_NewPlayers": 1141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23266,6 +23266,11 @@
       "Time": "2023-12-22T19:10:43.0468011+00:00",
       "NumProgressed": 244051,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-22T20:09:26.0867793+00:00",
+      "NumProgressed": 244058,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -23725,7 +23730,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 87858
+      "UsersEstimate": 87861
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -23773,7 +23778,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24405
+      "UsersEstimate": 24406
     },
     {
       "ID": "FollowBraztok",
@@ -23885,7 +23890,7 @@
       "Name": "L\u00EBgal Legend",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 2196
+      "UsersEstimate": 2197
     },
     {
       "ID": "QuestPriestess",
@@ -23980,21 +23985,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 244051,
+      "Progressed": 244058,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 244051,
+      "Progressed": 244058,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-12-22T18:58:18.7974401+00:00",
-  "LastChanged_Achievements": "2023-12-22T19:10:43.0468008+00:00",
+  "LastChanged_Achievements": "2023-12-22T20:09:26.0867788+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:08.5726178+00:00",
-  "LastUpdate_Ratings": "2023-12-22T18:58:18.7974406+00:00",
-  "LastUpdate_Achievements": "2023-12-22T19:10:43.0469553+00:00"
+  "LastUpdate_Ratings": "2023-12-22T19:57:39.7575965+00:00",
+  "LastUpdate_Achievements": "2023-12-22T20:09:26.086952+00:00"
 }

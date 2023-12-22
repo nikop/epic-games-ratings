@@ -12,7 +12,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Wallrunner | 53.00% | ~13,169 |
 | Homerunner | 44.00% | ~10,933 |
 | Out of order | 44.00% | ~10,933 |
-| I call it luck | 43.00% | ~10,684 |
+| I call it luck | 43.00% | ~10,685 |
 | Where are my Keys? | 40.00% | ~9,939 |
 | Back to hell | 36.00% | ~8,945 |
 | Perfection | 32.00% | ~7,951 |
@@ -21,9 +21,9 @@ Number of Ratings: 1,047  (23.09.2022)
 | Why not both | 29.00% | ~7,206 |
 | Artificial selection | 27.00% | ~6,709 |
 | Control freak | 27.00% | ~6,709 |
-| Finish line | 26.00% | ~6,460 |
 | Running Wild | 26.00% | ~6,460 |
-| Unstoppable force | 22.00% | ~5,466 |
+| Finish line | 25.00% | ~6,212 |
+| Unstoppable force | 22.00% | ~5,467 |
 | Wave of mutilation | 21.00% | ~5,218 |
 | Can't Run Can't Hide | 16.00% | ~3,976 |
 | Dead in the air | 15.00% | ~3,727 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~99 |
 | Up Close And Personal | 0.40% | ~99 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,847 (Ranked 142)  
+Progressed: 24,848 (Ranked 142)  
 Completed: 94 (0.38%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,11 +298,11 @@ Completed: 94 (0.38%) (Ranked 231)
 | 2023-12-19 | 24,650 | 94 |
 | 2023-12-20 | 24,718 | 94 |
 | 2023-12-21 | 24,789 | 94 |
-| 2023-12-22 | 24,847 | 94 |
+| 2023-12-22 | 24,848 | 94 |
 ## Awards
 Max (Great Boss Battles): 528  (Ranked 212)  
-Sum: 766 (Ranked 289)  
-Diff (max vs sum): -77  
+Sum: 766 (Ranked 290)  
+Diff (max vs sum): -78  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 528 |

@@ -55,8 +55,8 @@ Rating: 4.33 (Ranked 829)
 | Why Do I Keep Doing That? | 0.10% | ~58 |
 | Hey, You Did It! | 0.10% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,369 (Ranked 115)  
-Completed: 6 (0.01%) (Ranked 361)  
+Progressed: 58,370 (Ranked 116)  
+Completed: 6 (0.01%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -301,7 +301,7 @@ Completed: 6 (0.01%) (Ranked 361)
 | 2023-12-19 | 58,326 | 6 |
 | 2023-12-20 | 58,342 | 6 |
 | 2023-12-21 | 58,357 | 6 |
-| 2023-12-22 | 58,369 | 6 |
+| 2023-12-22 | 58,370 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

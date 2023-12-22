@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 95,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1647,
+  "EOS_Progressed": 1648,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 257,
+  "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 3.89,
+  "EOS_Completed_Percentage": 3.88,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:27.3083538+00:00",
@@ -3529,6 +3529,11 @@
       "Time": "2023-12-22T19:10:30.7669382+00:00",
       "NumProgressed": 1647,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-12-22T20:09:16.1325322+00:00",
+      "NumProgressed": 1648,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 16,
@@ -3564,7 +3569,7 @@
       "Name": "Emotional Baggage Handler",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ACH_GOODBYETIENGVALLEY",
@@ -3626,9 +3631,9 @@
       "ID": "ACH_OUTSIDEWORLDSEER",
       "SetID": "7pam6gn",
       "Name": "Outside World Seer",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 40,
-      "UsersEstimate": 1021
+      "UsersEstimate": 1038
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -3667,7 +3672,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1647,
+      "Progressed": 1648,
       "Completed": 64
     }
   ],
@@ -3675,8 +3680,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-12-22T19:10:30.7669376+00:00",
+  "LastChanged_Achievements": "2023-12-22T20:09:16.1325316+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:50.4706145+00:00",
-  "LastUpdate_Ratings": "2023-12-22T18:58:42.675838+00:00",
-  "LastUpdate_Achievements": "2023-12-22T19:10:30.7669667+00:00"
+  "LastUpdate_Ratings": "2023-12-22T19:57:56.4797202+00:00",
+  "LastUpdate_Achievements": "2023-12-22T20:09:16.1325621+00:00"
 }

@@ -50,12 +50,12 @@ Rating: 3.56 (Ranked 1,065)
 | Sisterhood | 0.40% | ~8 |
 | What Lies Below | 0.40% | ~8 |
 | Good Samaritan | 0.40% | ~8 |
+| Monster Hunters Club | 0.30% | ~6 |
 | Friendgineering | 0.30% | ~6 |
 | So Anyway I Started Blasting | 0.30% | ~6 |
 | Under a Bushel | 0.30% | ~6 |
 | Bob’s Final Hour | 0.30% | ~6 |
 | Scream Team | 0.20% | ~4 |
-| Monster Hunters Club | 0.20% | ~4 |
 | Enemy of My Enemy | 0.20% | ~4 |
 | Faith Healer | 0.10% | ~2 |
 | Someplace to Be | 0.10% | ~2 |
@@ -73,7 +73,7 @@ Rating: 3.56 (Ranked 1,065)
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,989 (Ranked 237)  
-Completed: 0 (0.00%) (Ranked 384)  
+Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 171,
-  "Ranking_EOS_Completed": 277,
+  "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
@@ -287,9 +287,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 11042,
+  "EOS_Progressed": 11044,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 2085,
+  "EOS_NewPlayers": 2074,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -7512,6 +7512,11 @@
       "Time": "2023-12-22T19:10:45.4399286+00:00",
       "NumProgressed": 11042,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-12-22T20:09:28.0011805+00:00",
+      "NumProgressed": 11044,
+      "NumCompleted": 19
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -7532,7 +7537,7 @@
       "Name": "Baby Steps",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 3644
+      "UsersEstimate": 3645
     },
     {
       "ID": "BeLikeWater",
@@ -7580,7 +7585,7 @@
       "Name": "Explosive Personality",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1656
+      "UsersEstimate": 1657
     },
     {
       "ID": "FasterThanLight",
@@ -7596,7 +7601,7 @@
       "Name": "First Time?",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 5079
+      "UsersEstimate": 5080
     },
     {
       "ID": "FuneralForTheDeath",
@@ -7716,7 +7721,7 @@
       "Name": "The Old-School Way",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2208
+      "UsersEstimate": 2209
     },
     {
       "ID": "TheQuarterback",
@@ -7724,7 +7729,7 @@
       "Name": "The Quarterback",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 3975
+      "UsersEstimate": 3976
     },
     {
       "ID": "ThisIsDharma",
@@ -7795,7 +7800,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 11042,
+      "Progressed": 11044,
       "Completed": 19
     }
   ],
@@ -7803,8 +7808,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-20T14:59:47.3947105+00:00",
-  "LastChanged_Achievements": "2023-12-22T19:10:45.4399281+00:00",
+  "LastChanged_Achievements": "2023-12-22T20:09:28.0011803+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.4547373+00:00",
-  "LastUpdate_Ratings": "2023-12-22T19:02:49.4462703+00:00",
-  "LastUpdate_Achievements": "2023-12-22T19:10:45.4399812+00:00"
+  "LastUpdate_Ratings": "2023-12-22T20:02:32.5067735+00:00",
+  "LastUpdate_Achievements": "2023-12-22T20:09:28.0012358+00:00"
 }

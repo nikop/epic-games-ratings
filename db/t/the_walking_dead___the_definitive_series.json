@@ -4,11 +4,11 @@
   "ProductSlug": "walking-dead-definitive-series",
   "Ranking_Rating": 27,
   "Ranking_Popularity": 209,
-  "Ranking_PopularitySum": 278,
+  "Ranking_PopularitySum": 276,
   "Ranking_EOS_Progress": 814,
-  "Ranking_EOS_Completed": 384,
+  "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 565,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2019-09-10T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1504,10 +1504,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 869,
       "NumberOfAwardsMax": 569
+    },
+    {
+      "Time": "2023-12-22T19:58:13.1819017+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 889,
+      "NumberOfAwardsMax": 569
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 869,
+  "NumberOfAwards": 889,
   "NumberOfAwardsMax": 569,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -1576,6 +1582,12 @@
       "Prefix": "This game has a",
       "Type": "Creative Community",
       "Count": 21
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -1589,8 +1601,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:07.806679+00:00",
-  "LastChanged": "2023-12-21T16:58:07.2702833+00:00",
+  "LastChanged": "2023-12-22T19:58:13.1819015+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:43.310821+00:00",
-  "LastUpdate_Ratings": "2023-12-22T18:59:06.3840611+00:00",
-  "LastUpdate_Achievements": "2023-12-22T19:07:18.6427497+00:00"
+  "LastUpdate_Ratings": "2023-12-22T19:58:13.181902+00:00",
+  "LastUpdate_Achievements": "2023-12-22T20:05:55.4397711+00:00"
 }

@@ -65,7 +65,7 @@
   "Tags": [],
   "EOS_Progressed": 1282,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -3212,9 +3212,9 @@
       "ID": "EV_ACH04",
       "SetID": "6jeac23",
       "Name": "No Bites",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 692
+      "UsersEstimate": 705
     },
     {
       "ID": "EV_ACH05",
@@ -3549,8 +3549,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-20T19:57:10.1945786+00:00",
-  "LastChanged_Achievements": "2023-12-22T19:10:52.881041+00:00",
+  "LastChanged_Achievements": "2023-12-22T20:09:34.0294925+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:41.6283728+00:00",
-  "LastUpdate_Ratings": "2023-12-22T18:58:34.1507184+00:00",
-  "LastUpdate_Achievements": "2023-12-22T19:10:52.881073+00:00"
+  "LastUpdate_Ratings": "2023-12-22T19:57:50.2691474+00:00",
+  "LastUpdate_Achievements": "2023-12-22T20:09:34.0295454+00:00"
 }

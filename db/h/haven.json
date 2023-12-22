@@ -5,10 +5,10 @@
   "Ranking_Rating": 148,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
-  "Ranking_EOS_Progress": 243,
+  "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1717,
+  "EOS_Progressed": 1720,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -2758,6 +2758,11 @@
       "Time": "2023-12-22T19:07:07.1116537+00:00",
       "NumProgressed": 1717,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-22T20:05:46.7188491+00:00",
+      "NumProgressed": 1720,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -2769,7 +2774,7 @@
       "Name": "Lovebirds",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "10",
@@ -2793,7 +2798,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "13",
@@ -2825,7 +2830,7 @@
       "Name": "My little pony",
       "Percentage": 18,
       "XP": 70,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "17",
@@ -2833,7 +2838,7 @@
       "Name": "Balding bloot!",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 1288
+      "UsersEstimate": 1290
     },
     {
       "ID": "18",
@@ -2841,7 +2846,7 @@
       "Name": "Like new!",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "19",
@@ -2905,7 +2910,7 @@
       "Name": "Heartstrings",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "27",
@@ -2929,7 +2934,7 @@
       "Name": "Hug therapy",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "30",
@@ -2961,7 +2966,7 @@
       "Name": "Head in the clouds",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "5",
@@ -2977,7 +2982,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "7",
@@ -2985,7 +2990,7 @@
       "Name": "Ain\u0027t no mountain high enough",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "8",
@@ -2993,7 +2998,7 @@
       "Name": "Over my dead body",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "9",
@@ -3008,15 +3013,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1717,
+      "Progressed": 1720,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-22T19:07:07.1116532+00:00",
+  "LastChanged_Achievements": "2023-12-22T20:05:46.7188485+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.3116727+00:00",
-  "LastUpdate_Ratings": "2023-12-22T19:01:38.02181+00:00",
-  "LastUpdate_Achievements": "2023-12-22T19:07:07.111681+00:00"
+  "LastUpdate_Ratings": "2023-12-22T20:00:00.9103866+00:00",
+  "LastUpdate_Achievements": "2023-12-22T20:05:46.7188761+00:00"
 }

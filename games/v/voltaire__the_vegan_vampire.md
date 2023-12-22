@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | So it begins | 86.00% | ~103 |
-| Good to grow | 60.00% | ~72 |
+| Good to grow | 61.00% | ~73 |
 | Fashionista | 38.00% | ~46 |
 | Irrigation not irritation | 35.00% | ~42 |
 | Graduated | 32.00% | ~38 |
@@ -13,8 +13,8 @@
 | Night Shift | 22.00% | ~26 |
 | Shine bright | 20.00% | ~24 |
 | It's about the journey | 12.00% | ~14 |
+| There be sand in me shorts | 12.00% | ~14 |
 | C'who? | 11.00% | ~13 |
-| There be sand in me shorts | 11.00% | ~13 |
 | Make it rain | 8.00% | ~10 |
 | Peaceful skies | 8.00% | ~10 |
 | Holy Crops! | 8.00% | ~10 |
@@ -24,11 +24,11 @@
 | It's a bug's life | 4.00% | ~5 |
 | V is for Vegan | 4.00% | ~5 |
 | Groovy! | 3.00% | ~4 |
+| I am Root! | 3.00% | ~4 |
 | Zap! | 3.00% | ~4 |
 | Veggie Master | 2.00% | ~2 |
 | Homecoming | 2.00% | ~2 |
 | Free Spirit | 2.00% | ~2 |
-| I am Root! | 2.00% | ~2 |
 | Yeehaw! | 2.00% | ~2 |
 | Tururururu! | 2.00% | ~2 |
 | Daddy Issues | 0.80% | ~1 |
@@ -37,7 +37,7 @@
 | Fauna Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 120 (Ranked 454)  
-Completed: 0 (0.00%) (Ranked 384)  
+Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

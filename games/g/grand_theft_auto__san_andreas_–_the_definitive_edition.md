@@ -1,29 +1,29 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.55 (Ranked 510)  
+Rating: 4.54 (Ranked 532)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~13,106 |
-| Pay 'n' Spray | 50.00% | ~8,090 |
-| All Dressed Up for San Fierro | 25.00% | ~4,045 |
-| The American Dream | 19.00% | ~3,074 |
-| School's Out | 18.00% | ~2,912 |
-| Smooth Moves | 16.00% | ~2,589 |
-| Today Was a Good Day | 15.00% | ~2,427 |
-| What happens in Las Venturas... | 14.00% | ~2,265 |
-| Horror of the Santa Maria | 10.00% | ~1,618 |
-| Liberty City State of Mind | 9.00% | ~1,456 |
-| Original Gangster | 8.00% | ~1,294 |
+| Getting Started | 81.00% | ~13,111 |
+| Pay 'n' Spray | 50.00% | ~8,094 |
+| All Dressed Up for San Fierro | 25.00% | ~4,047 |
+| The American Dream | 19.00% | ~3,076 |
+| School's Out | 18.00% | ~2,914 |
+| Smooth Moves | 16.00% | ~2,590 |
+| Today Was a Good Day | 15.00% | ~2,428 |
+| What happens in Las Venturas... | 14.00% | ~2,266 |
+| Horror of the Santa Maria | 10.00% | ~1,619 |
+| Liberty City State of Mind | 9.00% | ~1,457 |
+| Original Gangster | 8.00% | ~1,295 |
 | With Extra Dip | 7.00% | ~1,133 |
 | The End of the Line | 7.00% | ~1,133 |
 | Saviour | 6.00% | ~971 |
 | They Can’t Stop All of Us | 5.00% | ~809 |
 | Rescue a Kitten Too? | 5.00% | ~809 |
 | What are the Odds | 4.00% | ~647 |
-| Bike or Biker | 3.00% | ~485 |
-| What the City Needs | 3.00% | ~485 |
+| Bike or Biker | 3.00% | ~486 |
+| What the City Needs | 3.00% | ~486 |
 | A Legitimate Business | 2.00% | ~324 |
 | I’ll Have Two Number 9s | 2.00% | ~324 |
 | Who Needs Directions? | 2.00% | ~324 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 510)
 | ...Here we go again | 0.50% | ~81 |
 | I Ain't No Buster | 0.40% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,180 (Ranked 159)  
+Progressed: 16,187 (Ranked 159)  
 Completed: 62 (0.38%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,17 +287,17 @@ Completed: 62 (0.38%) (Ranked 231)
 | 2023-12-19 | 15,594 | 60 |
 | 2023-12-20 | 15,810 | 62 |
 | 2023-12-21 | 15,997 | 62 |
-| 2023-12-22 | 16,180 | 62 |
+| 2023-12-22 | 16,187 | 62 |
 ## Awards
 Max (Great Boss Battles): 473  (Ranked 221)  
-Sum: 735 (Ranked 296)  
-Diff (max vs sum): -75  
+Sum: 775 (Ranked 287)  
+Diff (max vs sum): -66  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 473 |
 | This game is Relaxing | 44 |
 | This game has Amazing Characters | 42 |
-| This game is Great for Beginners | 38 |
+| This game is Great for Beginners | 40 |
 | This game has Amazing Storytelling | 36 |
 | This game is Highly Recommended | 32 |
 | This game is Extremely Fun | 28 |
@@ -514,4 +514,4 @@ Diff (max vs sum): -75
 | 2023-12-19 | 4.55 | 463 | 718 |
 | 2023-12-20 | 4.55 | 467 | 727 |
 | 2023-12-21 | 4.55 | 473 | 734 |
-| 2023-12-22 | 4.55 | 473 | 735 |
+| 2023-12-22 | 4.55 | 473 | 775 |
