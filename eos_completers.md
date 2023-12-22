@@ -63,8 +63,8 @@
 | 61 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 6.67% |
 | 61 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.67% |
 | 61 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.67% |
-| 64 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.54% |
-| 65 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 6.52% |
+| 64 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 6.52% |
+| 64 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.52% |
 | 66 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.43% |
 | 67 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.36% |
 | 68 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -73,8 +73,8 @@
 | 71 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 5.88% |
 | 72 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.86% |
 | 73 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
-| 73 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 5.56% |
-| 75 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.27% |
+| 74 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.26% |
+| 74 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 5.26% |
 | 76 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.00% |
 | 77 | [Bugsnax](games/b/bugsnax.md) | 4.86% |
 | 78 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.75% |
@@ -96,14 +96,14 @@
 | 93 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.96% |
 | 95 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.90% |
 | 96 | [Doodle God](games/d/doodle_god.md) | 3.77% |
-| 97 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 3.70% |
+| 97 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 3.64% |
 | 98 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.60% |
 | 99 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.57% |
 | 99 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 3.57% |
 | 101 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.49% |
 | 102 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 3.45% |
 | 102 | [Time on Frog Island](games/t/time_on_frog_island.md) | 3.45% |
-| 104 | [Dungeons 4](games/d/dungeons_4.md) | 3.31% |
+| 104 | [Dungeons 4](games/d/dungeons_4.md) | 3.29% |
 | 105 | [Bunny Park](games/b/bunny_park.md) | 3.28% |
 | 106 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 3.23% |
 | 107 | [Monster Harvest](games/m/monster_harvest.md) | 3.22% |
@@ -122,15 +122,15 @@
 | 120 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.70% |
 | 121 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.65% |
 | 122 | [Mega City Force](games/m/mega_city_police.md) | 2.63% |
-| 123 | [FORECLOSED](games/f/foreclosed.md) | 2.52% |
 | 123 | [Night Book](games/n/night_book.md) | 2.52% |
-| 125 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 124 | [FORECLOSED](games/f/foreclosed.md) | 2.50% |
+| 124 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 126 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.48% |
 | 126 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.48% |
 | 128 | [Bloodshore](games/b/bloodshore.md) | 2.43% |
 | 129 | [Lamentum](games/l/lamentum.md) | 2.40% |
 | 130 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.38% |
-| 130 | [Destiny 2](games/d/destiny_2.md) | 2.38% |
+| 131 | [Destiny 2](games/d/destiny_2.md) | 2.37% |
 | 132 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.33% |
 | 133 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 2.22% |
 | 134 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.09% |
@@ -170,8 +170,8 @@
 | 168 | [Ten Dates](games/t/ten_dates.md) | 1.06% |
 | 168 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 1.06% |
 | 170 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.05% |
-| 171 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.03% |
-| 172 | [Sable](games/s/sable.md) | 1.02% |
+| 171 | [Sable](games/s/sable.md) | 1.02% |
+| 171 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.02% |
 | 173 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.01% |
 | 174 | [Botanicula](games/5/5c7501617f3449c5a6eed7590392f9fa.md) | 0.99% |
 | 175 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 0.98% |
