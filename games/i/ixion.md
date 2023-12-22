@@ -5,23 +5,23 @@ Rating: 4.58 (Ranked 457)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 30.00% | ~1,091 |
-| Sputnik 2049 | 27.00% | ~982 |
-| Infinite Growth... | 26.00% | ~946 |
-| Without Breaking Some Eggs... | 25.00% | ~909 |
+| Wakey Wakey | 30.00% | ~1,092 |
+| Sputnik 2049 | 27.00% | ~983 |
+| Infinite Growth... | 26.00% | ~947 |
+| Without Breaking Some Eggs... | 25.00% | ~910 |
 | A Thousand Strong | 18.00% | ~655 |
 | Ready for a New World | 18.00% | ~655 |
-| Space Society | 17.00% | ~618 |
-| Permanent Redesigns | 16.00% | ~582 |
-| Fully Recycled | 14.00% | ~509 |
-| Ain't Nobody Got Time for That | 14.00% | ~509 |
-| The Ship of Theseus | 14.00% | ~509 |
+| Space Society | 17.00% | ~619 |
+| Permanent Redesigns | 16.00% | ~583 |
+| Fully Recycled | 14.00% | ~510 |
+| Ain't Nobody Got Time for That | 14.00% | ~510 |
+| The Ship of Theseus | 14.00% | ~510 |
 | Guy de Borderlands | 13.00% | ~473 |
-| Exceeding Capacity | 12.00% | ~436 |
-| Breaking Protocol | 12.00% | ~436 |
-| Hope Seeker | 12.00% | ~436 |
-| A Hunk of Junk | 11.00% | ~400 |
-| Man's Best Friend | 9.00% | ~327 |
+| Exceeding Capacity | 12.00% | ~437 |
+| Breaking Protocol | 12.00% | ~437 |
+| Hope Seeker | 12.00% | ~437 |
+| A Hunk of Junk | 11.00% | ~401 |
+| Man's Best Friend | 9.00% | ~328 |
 | Power Outage | 8.00% | ~291 |
 | Convenient Transport | 8.00% | ~291 |
 | Please Make it Stop! | 8.00% | ~291 |
@@ -36,9 +36,9 @@ Rating: 4.58 (Ranked 457)
 | BRAWL! | 5.00% | ~182 |
 | Drill-dozer | 5.00% | ~182 |
 | What the Ruins Teach Us | 5.00% | ~182 |
-| Sustainable Energy | 4.00% | ~145 |
-| In Dolos We Trust | 4.00% | ~145 |
-| Pedal to the Metal | 4.00% | ~145 |
+| Sustainable Energy | 4.00% | ~146 |
+| In Dolos We Trust | 4.00% | ~146 |
+| Pedal to the Metal | 4.00% | ~146 |
 | Praise the Hull! | 3.00% | ~109 |
 | Delivery! | 3.00% | ~109 |
 | Help of the Forgotten Member | 3.00% | ~109 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 457)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,637 (Ranked 212)  
+Progressed: 3,641 (Ranked 212)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-19 | 3,586 | 0 |
 | 2023-12-20 | 3,605 | 0 |
 | 2023-12-21 | 3,624 | 0 |
-| 2023-12-22 | 3,637 | 0 |
+| 2023-12-22 | 3,641 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

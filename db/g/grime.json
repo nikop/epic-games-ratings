@@ -1711,10 +1711,10 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 163866,
-  "EOS_Completed": 383,
-  "EOS_NewPlayers": 1209,
-  "EOS_NewCompleters": 53,
+  "EOS_Progressed": 163882,
+  "EOS_Completed": 384,
+  "EOS_NewPlayers": 1214,
+  "EOS_NewCompleters": 54,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
@@ -20196,6 +20196,11 @@
       "Time": "2023-12-22T18:03:58.0476264+00:00",
       "NumProgressed": 163866,
       "NumCompleted": 383
+    },
+    {
+      "Time": "2023-12-22T19:03:39.8494882+00:00",
+      "NumProgressed": 163882,
+      "NumCompleted": 384
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -20272,7 +20277,7 @@
       "Name": "Taste",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3277
+      "UsersEstimate": 3278
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -20352,7 +20357,7 @@
       "Name": "Jawcrab",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "DEFEAT_JAWSTAG",
@@ -20360,7 +20365,7 @@
       "Name": "Jawstag",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "DEFEAT_PERFORMER",
@@ -20384,7 +20389,7 @@
       "Name": "Feast",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "DEFEAT_WATCHER",
@@ -20424,7 +20429,7 @@
       "Name": "Imprint",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3277
+      "UsersEstimate": 3278
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -20464,7 +20469,7 @@
       "Name": "Yank",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -20575,21 +20580,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 163449,
+      "Progressed": 163465,
       "Completed": 1243
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 163866,
-      "Completed": 383
+      "Progressed": 163882,
+      "Completed": 384
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-22T14:00:25.7599851+00:00",
-  "LastChanged_Achievements": "2023-12-22T18:03:58.0476258+00:00",
+  "LastChanged_Achievements": "2023-12-22T19:03:39.8494877+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:23.4801204+00:00",
-  "LastUpdate_Ratings": "2023-12-22T18:02:37.4896535+00:00",
-  "LastUpdate_Achievements": "2023-12-22T18:03:58.0477485+00:00"
+  "LastUpdate_Ratings": "2023-12-22T19:01:46.0951176+00:00",
+  "LastUpdate_Achievements": "2023-12-22T19:03:39.8496128+00:00"
 }

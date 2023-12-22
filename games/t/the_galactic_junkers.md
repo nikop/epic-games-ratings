@@ -12,7 +12,7 @@
 | Cookie Addict | 52.00% | ~28 |
 | Salvager | 44.00% | ~24 |
 | You're Hired! | 30.00% | ~16 |
-| Expert Miner | 24.00% | ~13 |
+| Expert Miner | 26.00% | ~14 |
 | Expert Firefighter | 13.00% | ~7 |
 | Master Mechanic | 13.00% | ~7 |
 | Pancake Day | 11.00% | ~6 |

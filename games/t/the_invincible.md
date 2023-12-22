@@ -11,12 +11,12 @@
 | Survivors | 35.00% | ~308 |
 | The Alliance | 34.00% | ~299 |
 | The Condor | 33.00% | ~290 |
-| The End | 32.00% | ~282 |
+| The End | 33.00% | ~290 |
 | The Necroevolution | 26.00% | ~229 |
 | Krauta is alive | 25.00% | ~220 |
 | Peacemaker | 21.00% | ~185 |
 | Volcanologist | 20.00% | ~176 |
-| On her own | 18.00% | ~158 |
+| On her own | 19.00% | ~167 |
 | Evacuation | 18.00% | ~158 |
 | Fierce fight | 17.00% | ~150 |
 | Beyond divisions | 17.00% | ~150 |

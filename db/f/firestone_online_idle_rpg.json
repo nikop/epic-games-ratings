@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 431,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 330,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -649,9 +649,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3669,
+  "EOS_Progressed": 3670,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 236,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10514,6 +10514,11 @@
       "Time": "2023-12-22T18:09:04.6883866+00:00",
       "NumProgressed": 3669,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-22T19:08:53.7081239+00:00",
+      "NumProgressed": 3670,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -10573,7 +10578,7 @@
       "Name": "Blueprint Upgrades",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "cauldronliberator",
@@ -10605,7 +10610,7 @@
       "Name": "Crystal Mining",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "dailyquestcompletionist",
@@ -10661,7 +10666,7 @@
       "Name": "Enchanting skill",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "enchantingskillx5",
@@ -10677,7 +10682,7 @@
       "Name": "Engineer Mastery",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "enhancedwarmachines",
@@ -10733,7 +10738,7 @@
       "Name": "Full Party",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "gearenchanting",
@@ -10781,7 +10786,7 @@
       "Name": "How Do You Turn This On?",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "hunter",
@@ -10829,7 +10834,7 @@
       "Name": "Lock And Load",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "masterenchanter",
@@ -10869,7 +10874,7 @@
       "Name": "Missions Dedication",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "movinguptheladder",
@@ -10941,7 +10946,7 @@
       "Name": "Sailor",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "scientist",
@@ -11013,7 +11018,7 @@
       "Name": "The game is on",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "thepowerofawakening",
@@ -11085,7 +11090,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3412
+      "UsersEstimate": 3413
     },
     {
       "ID": "warmachinesarmy",
@@ -11117,14 +11122,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2862
+      "UsersEstimate": 2863
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3669,
+      "Progressed": 3670,
       "Completed": 2
     }
   ],
@@ -11132,8 +11137,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-22T13:01:22.3199344+00:00",
-  "LastChanged_Achievements": "2023-12-22T18:09:04.6883862+00:00",
+  "LastChanged_Achievements": "2023-12-22T19:08:53.7081235+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:13.7887636+00:00",
-  "LastUpdate_Ratings": "2023-12-22T17:59:13.1784186+00:00",
-  "LastUpdate_Achievements": "2023-12-22T18:09:04.6884883+00:00"
+  "LastUpdate_Ratings": "2023-12-22T18:59:12.4719676+00:00",
+  "LastUpdate_Achievements": "2023-12-22T19:08:53.708211+00:00"
 }

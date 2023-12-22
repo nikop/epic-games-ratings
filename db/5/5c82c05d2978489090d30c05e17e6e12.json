@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 290,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-11-16T16:00:00+00:00",
     "PcReleaseDate": "2018-03-08T17:00:00+00:00",
@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69221,
+  "EOS_Progressed": 69242,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 2113,
+  "EOS_NewPlayers": 2112,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -4520,6 +4520,11 @@
       "Time": "2023-12-22T18:05:57.4917231+00:00",
       "NumProgressed": 69221,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-12-22T19:05:30.3770978+00:00",
+      "NumProgressed": 69242,
+      "NumCompleted": 91
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -4532,7 +4537,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 25612
+      "UsersEstimate": 25620
     },
     {
       "ID": "Achievement_10",
@@ -4564,7 +4569,7 @@
       "Name": "Supreme Scavenger",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2769
+      "UsersEstimate": 2770
     },
     {
       "ID": "Achievement_14",
@@ -4572,7 +4577,7 @@
       "Name": "Gardener of Lango",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1384
+      "UsersEstimate": 1385
     },
     {
       "ID": "Achievement_15",
@@ -4620,7 +4625,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 18690
+      "UsersEstimate": 18695
     },
     {
       "ID": "Achievement_20",
@@ -4644,7 +4649,7 @@
       "Name": "Spiritualist of the Sands",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1384
+      "UsersEstimate": 1385
     },
     {
       "ID": "Achievement_23",
@@ -4660,7 +4665,7 @@
       "Name": "Custodian of Scrollroads",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2769
+      "UsersEstimate": 2770
     },
     {
       "ID": "Achievement_25",
@@ -4708,7 +4713,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8307
+      "UsersEstimate": 8309
     },
     {
       "ID": "Achievement_30",
@@ -4756,7 +4761,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6230
+      "UsersEstimate": 6232
     },
     {
       "ID": "Achievement_5",
@@ -4764,7 +4769,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 4153
+      "UsersEstimate": 4155
     },
     {
       "ID": "Achievement_6",
@@ -4772,7 +4777,7 @@
       "Name": "The Red-Haired Enigma",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2769
+      "UsersEstimate": 2770
     },
     {
       "ID": "Achievement_7",
@@ -4803,7 +4808,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 69221,
+      "Progressed": 69242,
       "Completed": 91
     }
   ],
@@ -4811,8 +4816,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-12-21T06:03:08.9773291+00:00",
-  "LastChanged_Achievements": "2023-12-22T18:05:57.4917227+00:00",
+  "LastChanged_Achievements": "2023-12-22T19:05:30.3770968+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:17.3346413+00:00",
-  "LastUpdate_Ratings": "2023-12-22T18:03:30.8986371+00:00",
-  "LastUpdate_Achievements": "2023-12-22T18:05:57.49177+00:00"
+  "LastUpdate_Ratings": "2023-12-22T19:03:14.8684015+00:00",
+  "LastUpdate_Achievements": "2023-12-22T19:05:30.3771395+00:00"
 }

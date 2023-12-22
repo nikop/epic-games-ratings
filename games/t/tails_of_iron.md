@@ -42,7 +42,7 @@ Rating: 4.55 (Ranked 510)
 | Fix the Travellers Wagon | 0.10% | ~2 |
 | A new Warchief rises | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,266 (Ranked 231)  
+Progressed: 2,267 (Ranked 231)  
 Completed: 12 (0.53%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,6 +243,7 @@ Completed: 12 (0.53%) (Ranked 210)
 | 2023-12-19 | 2,258 | 12 |
 | 2023-12-20 | 2,263 | 12 |
 | 2023-12-21 | 2,266 | 12 |
+| 2023-12-22 | 2,267 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

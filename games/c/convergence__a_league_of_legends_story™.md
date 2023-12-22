@@ -31,10 +31,10 @@ Rating: 4.64 (Ranked 338)
 | The Family Fortune | 18.00% | ~192 |
 | Street Style | 17.00% | ~181 |
 | Whiz Kid | 15.00% | ~160 |
+| Cartographer | 14.00% | ~149 |
 | Good Neighbor | 14.00% | ~149 |
 | Treasure Trove | 13.00% | ~138 |
 | Family Memories | 13.00% | ~138 |
-| Cartographer | 13.00% | ~138 |
 | Chaincrawler Explorer | 12.00% | ~128 |
 | Ask Questions Later | 12.00% | ~128 |
 | Sump Explorer | 11.00% | ~117 |
@@ -46,9 +46,9 @@ Rating: 4.64 (Ranked 338)
 | Corin Goes Home | 8.00% | ~85 |
 | Sartorialist | 8.00% | ~85 |
 | Entresol Explorer | 8.00% | ~85 |
+| Golem Hunter | 7.00% | ~75 |
 | Clovemary for Remembering | 6.00% | ~64 |
 | Hexlock for Protection | 6.00% | ~64 |
-| Golem Hunter | 6.00% | ~64 |
 | Rungs Was Right | 5.00% | ~53 |
 | Wunderkind | 2.00% | ~21 |
 | Fitting In | 2.00% | ~21 |

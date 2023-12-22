@@ -5,26 +5,26 @@ Rating: 4.54 (Ranked 533)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 13.00% | ~13,027 |
-| I've Had Enough! | 10.00% | ~10,020 |
-| Fists, Fury & a lot of Rage | 8.00% | ~8,016 |
-| All For One and One For All | 6.00% | ~6,012 |
-| Seasoned Fighter | 6.00% | ~6,012 |
-| A New Age | 4.00% | ~4,008 |
-| Home Sweet Home? | 4.00% | ~4,008 |
-| Oh Baby, A Triple | 2.00% | ~2,004 |
-| Battle Hardened | 2.00% | ~2,004 |
-| Master of Disguise | 2.00% | ~2,004 |
-| Symbiotic | 2.00% | ~2,004 |
-| Double Punch! | 1.00% | ~1,002 |
-| It's Mayhem! | 1.00% | ~1,002 |
-| Right back at'cha | 1.00% | ~1,002 |
-| Spectacular Finisher | 1.00% | ~1,002 |
-| Cautious Veteran | 0.90% | ~902 |
-| Martyrdom | 0.90% | ~902 |
-| Katamari | 0.70% | ~701 |
-| Zero-sum Game | 0.70% | ~701 |
-| Ninja Reflex | 0.60% | ~601 |
+| All Grown Up! | 13.00% | ~13,037 |
+| I've Had Enough! | 10.00% | ~10,028 |
+| Fists, Fury & a lot of Rage | 8.00% | ~8,022 |
+| All For One and One For All | 6.00% | ~6,017 |
+| Seasoned Fighter | 6.00% | ~6,017 |
+| A New Age | 4.00% | ~4,011 |
+| Home Sweet Home? | 4.00% | ~4,011 |
+| Oh Baby, A Triple | 2.00% | ~2,006 |
+| Battle Hardened | 2.00% | ~2,006 |
+| Master of Disguise | 2.00% | ~2,006 |
+| Symbiotic | 2.00% | ~2,006 |
+| Double Punch! | 1.00% | ~1,003 |
+| It's Mayhem! | 1.00% | ~1,003 |
+| Right back at'cha | 1.00% | ~1,003 |
+| Spectacular Finisher | 1.00% | ~1,003 |
+| Cautious Veteran | 0.90% | ~903 |
+| Martyrdom | 0.90% | ~903 |
+| Katamari | 0.70% | ~702 |
+| Zero-sum Game | 0.70% | ~702 |
+| Ninja Reflex | 0.60% | ~602 |
 | Taste Your Own Medicine | 0.50% | ~501 |
 | Sidetracked... | 0.40% | ~401 |
 | Eye of the Titan | 0.30% | ~301 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 533)
 | What's Mine is Yours | 0.10% | ~100 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 100,204 (Ranked 94)  
+Progressed: 100,281 (Ranked 94)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -58,14 +58,14 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-19 | 95,039 | 0 |
 | 2023-12-20 | 96,698 | 0 |
 | 2023-12-21 | 98,723 | 0 |
-| 2023-12-22 | 100,204 | 0 |
+| 2023-12-22 | 100,281 | 0 |
 ## Awards
-Max (Great Boss Battles): 33  (Ranked 499)  
-Sum: 33 (Ranked 521)  
-Diff (max vs sum): -22  
+Max (Great Boss Battles): 34  (Ranked 491)  
+Sum: 34 (Ranked 515)  
+Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 33 |
+| This game has Great Boss Battles | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -100,3 +100,4 @@ Diff (max vs sum): -22
 | 2023-12-19 | 4.56 | 32 | 32 |
 | 2023-12-20 | 4.56 | 33 | 33 |
 | 2023-12-21 | 4.54 | 33 | 33 |
+| 2023-12-22 | 4.54 | 34 | 34 |

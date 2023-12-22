@@ -20,14 +20,14 @@ Number of Ratings: 1,845  (23.09.2022)
 | Coral Forest | 3.00% | ~568 |
 | The Marshlands | 3.00% | ~568 |
 | The Scarlet Orchard | 3.00% | ~568 |
-| Homesick | 2.00% | ~378 |
-| Ruined Armory | 2.00% | ~378 |
-| Fertile Meadows | 2.00% | ~378 |
-| Monastery of the Holy Flame | 2.00% | ~378 |
-| Royal Outpost | 2.00% | ~378 |
-| Lost Colonies | 2.00% | ~378 |
-| Watchtower | 2.00% | ~378 |
-| Untamed Wilds | 2.00% | ~378 |
+| Homesick | 2.00% | ~379 |
+| Ruined Armory | 2.00% | ~379 |
+| Fertile Meadows | 2.00% | ~379 |
+| Monastery of the Holy Flame | 2.00% | ~379 |
+| Royal Outpost | 2.00% | ~379 |
+| Lost Colonies | 2.00% | ~379 |
+| Watchtower | 2.00% | ~379 |
+| Untamed Wilds | 2.00% | ~379 |
 | Bandit Camp | 1.00% | ~189 |
 | Barren Lands | 1.00% | ~189 |
 | Ancient Battleground | 1.00% | ~189 |
@@ -42,10 +42,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Against All Odds | 0.90% | ~170 |
 | Haunted Forest | 0.90% | ~170 |
 | Defying the Crown | 0.80% | ~151 |
-| Serving Ale | 0.70% | ~132 |
-| Fishmen Ritual Site | 0.70% | ~132 |
-| Victory Through Prosperity | 0.70% | ~132 |
-| Into the Forest | 0.70% | ~132 |
+| Serving Ale | 0.70% | ~133 |
+| Fishmen Ritual Site | 0.70% | ~133 |
+| Victory Through Prosperity | 0.70% | ~133 |
+| Into the Forest | 0.70% | ~133 |
 | Efficient Explorer | 0.60% | ~114 |
 | Refinery | 0.60% | ~114 |
 | Forsaken Gods Temple | 0.60% | ~114 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,925 (Ranked 149)  
+Progressed: 18,929 (Ranked 149)  
 Completed: 39 (0.21%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 39 (0.21%) (Ranked 268)
 | 2023-12-19 | 18,687 | 39 |
 | 2023-12-20 | 18,771 | 39 |
 | 2023-12-21 | 18,861 | 39 |
-| 2023-12-22 | 18,925 | 39 |
+| 2023-12-22 | 18,929 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 228)  
 Sum: 3,279 (Ranked 175)  

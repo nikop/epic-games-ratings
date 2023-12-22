@@ -40,7 +40,7 @@ Rating: 3.56 (Ranked 1,065)
 | Block Party | 0.90% | ~18 |
 | Check, Please! | 0.90% | ~18 |
 | Nice Try | 0.90% | ~18 |
-| Curious Finch | 0.80% | ~16 |
+| Curious Finch | 0.90% | ~18 |
 | Right This Way | 0.60% | ~12 |
 | Empty Nest Syndrome | 0.50% | ~10 |
 | Bloody Initiate | 0.50% | ~10 |
@@ -72,7 +72,7 @@ Rating: 3.56 (Ranked 1,065)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,988 (Ranked 237)  
+Progressed: 1,989 (Ranked 237)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-19 | 1,947 | 0 |
 | 2023-12-20 | 1,963 | 0 |
 | 2023-12-21 | 1,977 | 0 |
-| 2023-12-22 | 1,988 | 0 |
+| 2023-12-22 | 1,989 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

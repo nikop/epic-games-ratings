@@ -17,9 +17,9 @@ Rating: 4.63 (Ranked 353)
 | Mist Walker | 0.80% | ~69 |
 | Lumberjack | 0.70% | ~60 |
 | Clear the Air | 0.60% | ~52 |
+| Search for the Hairy Grell | 0.60% | ~52 |
 | Oui, Chef! | 0.60% | ~52 |
 | Exit Through The Gift Shop | 0.60% | ~7 |
-| Search for the Hairy Grell | 0.50% | ~43 |
 | Beach Comber | 0.40% | ~34 |
 | Higher Tax Bracket | 0.40% | ~34 |
 | Botanical Breakthrough | 0.40% | ~34 |
@@ -49,7 +49,7 @@ Rating: 4.63 (Ranked 353)
 | Splish-Splash | 0.10% | ~1 |
 | Archi-Pal-igo Aficionado | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,593 (Ranked 180)  
+Progressed: 8,594 (Ranked 180)  
 Completed: 1 (0.01%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 1 (0.01%) (Ranked 361)
 | 2023-12-19 | 8,538 | 1 |
 | 2023-12-20 | 8,558 | 1 |
 | 2023-12-21 | 8,577 | 1 |
-| 2023-12-22 | 8,593 | 1 |
+| 2023-12-22 | 8,594 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

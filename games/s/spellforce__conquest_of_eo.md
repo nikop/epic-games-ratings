@@ -5,20 +5,20 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Home Sweet Home | 89.00% | ~62 |
-| Enough rooms to swing a cat | 84.00% | ~59 |
+| Enough rooms to swing a cat | 86.00% | ~60 |
 | First to the post | 84.00% | ~59 |
 | A kind of Magic | 79.00% | ~55 |
 | Connected | 71.00% | ~50 |
 | Expansion | 67.00% | ~47 |
+| Harvest Time | 61.00% | ~43 |
 | Mine! | 61.00% | ~43 |
-| Harvest Time | 60.00% | ~42 |
 | Artificer's Apprentice | 54.00% | ~38 |
 | Fly the friendly Sky | 49.00% | ~34 |
 | Get out of here! | 46.00% | ~32 |
 | Necromancer's Apprentice | 43.00% | ~30 |
 | Friend of Lyraine | 40.00% | ~28 |
+| Alchemist's Apprentice | 39.00% | ~27 |
 | The Circle | 37.00% | ~26 |
-| Alchemist's Apprentice | 37.00% | ~26 |
 | Redecorating | 36.00% | ~25 |
 | Bad JuJu | 24.00% | ~17 |
 | Slave to the rhythm | 23.00% | ~16 |
@@ -28,20 +28,20 @@
 | Friend of Alluvyan | 17.00% | ~12 |
 | Friend of Connach | 16.00% | ~11 |
 | Break Free | 16.00% | ~11 |
+| Stormwatch Faste | 14.00% | ~10 |
 | Friend of Gillyshire | 14.00% | ~10 |
+| Friend of Bastion | 14.00% | ~10 |
 | Philo's Tale | 13.00% | ~9 |
-| Stormwatch Faste | 13.00% | ~9 |
 | Friend of Silver Drift Hollow | 13.00% | ~9 |
-| Friend of Bastion | 13.00% | ~9 |
 | Friend of Orgash | 11.00% | ~8 |
 | Friend of Windholme | 11.00% | ~8 |
+| Silver Drift Hollow Mine | 10.00% | ~7 |
 | Magic Academy | 10.00% | ~7 |
 | A Joke | 10.00% | ~7 |
 | Defeat Gor | 9.00% | ~6 |
 | Defeat Uram | 9.00% | ~6 |
 | Elynn's Tale | 9.00% | ~6 |
 | The Forge of Regan Gor | 9.00% | ~6 |
-| Silver Drift Hollow Mine | 9.00% | ~6 |
 | Mage Teacher | 9.00% | ~6 |
 | A Master of Magic | 9.00% | ~6 |
 | Defeat Hokan | 7.00% | ~5 |

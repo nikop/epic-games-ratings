@@ -241,7 +241,7 @@
   "Tags": [],
   "EOS_Progressed": 1265,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.42,
   "EosHistory": [
@@ -2989,9 +2989,9 @@
       "ID": "ACH_POWER_OUTRAGE_FIXED",
       "SetID": "7k95e4n",
       "Name": "Let there be light",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 721
+      "UsersEstimate": 734
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -3078,8 +3078,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-12-22T01:43:30.3474225+00:00",
-  "LastChanged_Achievements": "2023-12-22T18:08:07.5732405+00:00",
+  "LastChanged_Achievements": "2023-12-22T19:07:30.6394939+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:13.8800884+00:00",
-  "LastUpdate_Ratings": "2023-12-22T17:59:30.8875454+00:00",
-  "LastUpdate_Achievements": "2023-12-22T18:08:07.5732747+00:00"
+  "LastUpdate_Ratings": "2023-12-22T18:59:29.3536962+00:00",
+  "LastUpdate_Achievements": "2023-12-22T19:07:30.639518+00:00"
 }

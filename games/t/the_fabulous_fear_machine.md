@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Master trainee | 41.00% | ~26 |
-| You have three wishes left | 37.00% | ~23 |
+| Master trainee | 43.00% | ~27 |
+| You have three wishes left | 38.00% | ~24 |
 | Jung's dream | 27.00% | ~17 |
 | The battle of Great Britain | 27.00% | ~17 |
 | Pulp! Where Monsters Dwell | 24.00% | ~15 |
@@ -52,7 +52,7 @@
 | Pulp! Skeleton Hand | 2.00% | ~1 |
 | Pulp! The Vault of Horror | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63 (Ranked 515)  
+Progressed: 63 (Ranked 516)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |

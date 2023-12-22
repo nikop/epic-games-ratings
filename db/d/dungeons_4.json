@@ -2148,9 +2148,9 @@
       "ID": "ach_main16ring_spawners",
       "SetID": "4hg22ll",
       "Name": "Rubble and Ashes",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 122
     },
     {
       "ID": "ach_main17stone_completed",
@@ -2259,8 +2259,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-22T18:09:18.1499038+00:00",
+  "LastChanged_Achievements": "2023-12-22T19:09:06.0385414+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:09.5802782+00:00",
-  "LastUpdate_Ratings": "2023-12-22T17:57:30.5315964+00:00",
-  "LastUpdate_Achievements": "2023-12-22T18:09:18.1499486+00:00"
+  "LastUpdate_Ratings": "2023-12-22T18:57:33.7682274+00:00",
+  "LastUpdate_Achievements": "2023-12-22T19:09:06.0385926+00:00"
 }

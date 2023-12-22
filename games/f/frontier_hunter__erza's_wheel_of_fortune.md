@@ -20,13 +20,13 @@
 | Giant Lizard Killer | 26.00% | ~168 |
 | Guardian | 26.00% | ~168 |
 | Nosebleeder | 25.00% | ~162 |
-| Trader | 21.00% | ~136 |
+| Trader | 22.00% | ~142 |
 | Weapon Boost | 21.00% | ~136 |
 | Flying Kobold Killer | 19.00% | ~123 |
 | Youth Magnet | 19.00% | ~123 |
 | Furious Scorpion Killer | 17.00% | ~110 |
+| Lethal Blade Mantis Killer | 17.00% | ~110 |
 | Master Artificer | 17.00% | ~110 |
-| Lethal Blade Mantis Killer | 16.00% | ~103 |
 | Squeaky Clean | 16.00% | ~103 |
 | Kind Adventurer | 15.00% | ~97 |
 | Mermaid Killer | 15.00% | ~97 |
@@ -50,7 +50,7 @@
 | Giantess Challenge | 1.00% | ~6 |
 | Warden Challenge | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 646 (Ranked 310)  
+Progressed: 646 (Ranked 309)  
 Completed: 1 (0.15%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |

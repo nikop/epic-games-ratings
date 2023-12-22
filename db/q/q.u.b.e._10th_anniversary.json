@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2022-09-29T11:00:00+00:00",
     "PcReleaseDate": "2022-09-14T13:00:00+00:00",
@@ -300,9 +300,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 26211,
+  "EOS_Progressed": 26219,
   "EOS_Completed": 168,
-  "EOS_NewPlayers": 1049,
+  "EOS_NewPlayers": 1047,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -7800,6 +7800,11 @@
       "Time": "2023-12-22T18:11:00.4018784+00:00",
       "NumProgressed": 26211,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-12-22T19:10:41.7424402+00:00",
+      "NumProgressed": 26219,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 24,
@@ -7811,7 +7816,7 @@
       "Name": "Feeling the Blues",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 2097
+      "UsersEstimate": 2098
     },
     {
       "ID": "ACH_CollectAll",
@@ -7835,7 +7840,7 @@
       "Name": "Crush That Ball!",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 4456
+      "UsersEstimate": 4457
     },
     {
       "ID": "ACH_CrushPhysicsCube",
@@ -7843,7 +7848,7 @@
       "Name": "Crush That Cube!",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 5504
+      "UsersEstimate": 5506
     },
     {
       "ID": "ACH_Finale",
@@ -7923,7 +7928,7 @@
       "Name": "Master Room",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "ACH_S8MaxPoints",
@@ -7939,7 +7944,7 @@
       "Name": "Sector 1",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 7601
+      "UsersEstimate": 7604
     },
     {
       "ID": "ACH_Sector2",
@@ -7947,7 +7952,7 @@
       "Name": "Sector 2",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 6553
+      "UsersEstimate": 6555
     },
     {
       "ID": "ACH_Sector3",
@@ -7955,7 +7960,7 @@
       "Name": "Sector 3",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 5766
+      "UsersEstimate": 5768
     },
     {
       "ID": "ACH_Sector4",
@@ -7963,7 +7968,7 @@
       "Name": "Sector 4",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 4718
+      "UsersEstimate": 4719
     },
     {
       "ID": "ACH_Sector5",
@@ -7971,7 +7976,7 @@
       "Name": "Sector 5",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 2883
+      "UsersEstimate": 2884
     },
     {
       "ID": "ACH_Sector6",
@@ -7979,7 +7984,7 @@
       "Name": "Sector 6",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 2621
+      "UsersEstimate": 2622
     },
     {
       "ID": "ACH_Sector7",
@@ -8002,7 +8007,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 26211,
+      "Progressed": 26219,
       "Completed": 168
     }
   ],
@@ -8010,8 +8015,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2023-12-21T18:00:04.0148975+00:00",
-  "LastChanged_Achievements": "2023-12-22T18:11:00.401878+00:00",
+  "LastChanged_Achievements": "2023-12-22T19:10:41.7424399+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:26.5220859+00:00",
-  "LastUpdate_Ratings": "2023-12-22T18:03:05.1387165+00:00",
-  "LastUpdate_Achievements": "2023-12-22T18:11:00.4019423+00:00"
+  "LastUpdate_Ratings": "2023-12-22T19:02:50.820209+00:00",
+  "LastUpdate_Achievements": "2023-12-22T19:10:41.7424789+00:00"
 }

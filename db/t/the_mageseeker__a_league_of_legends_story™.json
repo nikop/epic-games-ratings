@@ -151,9 +151,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2948,
+  "EOS_Progressed": 2949,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 181,
+  "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -4911,6 +4911,11 @@
       "Time": "2023-12-22T18:05:01.1120962+00:00",
       "NumProgressed": 2948,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-12-22T19:04:37.3829303+00:00",
+      "NumProgressed": 2949,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 53,
@@ -4930,7 +4935,7 @@
       "Name": "Whispers in the Woods I",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -4962,7 +4967,7 @@
       "Name": "Hijack",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -4970,7 +4975,7 @@
       "Name": "Elemental master",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -4986,7 +4991,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2801
+      "UsersEstimate": 2802
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -5002,7 +5007,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2270
+      "UsersEstimate": 2271
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -5034,7 +5039,7 @@
       "Name": "I chose my shackles",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -5098,7 +5103,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 2240
+      "UsersEstimate": 2241
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -5106,7 +5111,7 @@
       "Name": "No more cages!",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 2683
+      "UsersEstimate": 2684
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -5138,7 +5143,7 @@
       "Name": "Dark Forest",
       "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 2270
+      "UsersEstimate": 2271
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -5160,9 +5165,9 @@
       "ID": "STB_MISSION3_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Devineur",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 884
+      "UsersEstimate": 914
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -5266,7 +5271,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1002
+      "UsersEstimate": 1003
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -5345,7 +5350,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2948,
+      "Progressed": 2949,
       "Completed": 16
     }
   ],
@@ -5353,8 +5358,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-20T21:00:13.330526+00:00",
-  "LastChanged_Achievements": "2023-12-22T18:05:01.1120957+00:00",
+  "LastChanged_Achievements": "2023-12-22T19:04:37.38293+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:24.9335177+00:00",
-  "LastUpdate_Ratings": "2023-12-22T18:03:06.6290329+00:00",
-  "LastUpdate_Achievements": "2023-12-22T18:05:01.1121596+00:00"
+  "LastUpdate_Ratings": "2023-12-22T19:02:52.2531594+00:00",
+  "LastUpdate_Achievements": "2023-12-22T19:04:37.3829767+00:00"
 }

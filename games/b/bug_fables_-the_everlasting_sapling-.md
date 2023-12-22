@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chapter 1 Complete | 72.00% | ~71 |
+| Chapter 1 Complete | 71.00% | ~71 |
 | Vicious Spider | 45.00% | ~45 |
 | Chapter 2 Complete | 45.00% | ~45 |
 | Chapter 3 Complete | 33.00% | ~33 |
@@ -35,7 +35,7 @@
 | Our job's done! | 5.00% | ~5 |
 | Crystal Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 99 (Ranked 473)  
+Progressed: 100 (Ranked 472)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,6 +71,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-17 | 97 | 0 |
 | 2023-12-20 | 98 | 0 |
 | 2023-12-21 | 99 | 0 |
+| 2023-12-22 | 100 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

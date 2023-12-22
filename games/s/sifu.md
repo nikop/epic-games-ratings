@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 3.00% | ~22,205 |
-| The Assault | 3.00% | ~22,205 |
-| Life is your teacher | 3.00% | ~22,205 |
-| Lightning Hands | 3.00% | ~22,205 |
+| The Old Grandmaster | 3.00% | ~22,207 |
+| The Assault | 3.00% | ~22,207 |
+| Life is your teacher | 3.00% | ~22,207 |
+| Lightning Hands | 3.00% | ~22,207 |
 | The Hateful Pole Fighter | 2.00% | ~14,804 |
 | Street Fighting | 2.00% | ~14,804 |
 | State of constant learning | 2.00% | ~14,804 |
@@ -28,12 +28,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | Diligence as a goal | 1.00% | ~495 |
 | Qi Gong: Mind | 0.90% | ~6,662 |
 | Take damage to save time | 0.90% | ~6,662 |
-| Kung-Fu Tussle | 0.80% | ~5,921 |
-| Scareless | 0.70% | ~5,181 |
-| Dance of the Praying Mantis | 0.70% | ~5,181 |
-| Fight the way you practice | 0.70% | ~346 |
+| Kung-Fu Tussle | 0.80% | ~5,922 |
+| Scareless | 0.70% | ~5,182 |
+| Dance of the Praying Mantis | 0.70% | ~5,182 |
+| Fight the way you practice | 0.70% | ~347 |
 | Martial Hub | 0.60% | ~297 |
-| Bloody Sport | 0.50% | ~247 |
+| Bloody Sport | 0.50% | ~248 |
 | Muk Yan Master | 0.40% | ~2,961 |
 | Tiger on Fire | 0.40% | ~2,961 |
 | Source of Flying Daggers | 0.40% | ~2,961 |
@@ -43,7 +43,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Legendary Talismans of Wuxing | 0.30% | ~2,221 |
 | Prodigal Child | 0.30% | ~2,221 |
 | The 36th Chamber of Kung-Fu | 0.30% | ~2,221 |
-| The best strikes are the ones we avoid | 0.30% | ~148 |
+| The best strikes are the ones we avoid | 0.30% | ~149 |
 | Drunken Fighter | 0.20% | ~1,480 |
 | Martial Artist | 0.20% | ~1,480 |
 | Knowledge Greed | 0.20% | ~1,480 |
@@ -58,16 +58,16 @@ Number of Ratings: 9,492  (23.09.2022)
 | Beatmaker | 0.20% | ~99 |
 | Healing Memory | 0.10% | ~740 |
 | Warriors from the Mountain | 0.10% | ~740 |
-| Secure, Protect, Leave | 0.10% | ~49 |
-| Crouching Tiger | 0.10% | ~49 |
-| Hidden Dragon | 0.10% | ~49 |
-| Master of the Flying Assassins | 0.10% | ~49 |
-| Here Cometh the Iceman | 0.10% | ~49 |
-| Fighter in the Pond | 0.10% | ~49 |
-| Bonus Stage | 0.10% | ~49 |
-| A Bit Of Everything, Simultaneously | 0.10% | ~49 |
+| Secure, Protect, Leave | 0.10% | ~50 |
+| Crouching Tiger | 0.10% | ~50 |
+| Hidden Dragon | 0.10% | ~50 |
+| Master of the Flying Assassins | 0.10% | ~50 |
+| Here Cometh the Iceman | 0.10% | ~50 |
+| Fighter in the Pond | 0.10% | ~50 |
+| Bonus Stage | 0.10% | ~50 |
+| A Bit Of Everything, Simultaneously | 0.10% | ~50 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 740,183 (Ranked 23)  
+Progressed: 740,219 (Ranked 23)  
 Completed: 12,959 (1.75%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 12,959 (1.75%) (Ranked 140)
 | 2023-12-19 | 736,295 | 12,958 |
 | 2023-12-20 | 737,594 | 12,958 |
 | 2023-12-21 | 738,913 | 12,958 |
-| 2023-12-22 | 740,183 | 12,959 |
+| 2023-12-22 | 740,219 | 12,959 |
 ## Awards
 Max (Great Boss Battles): 6,978  (Ranked 55)  
 Sum: 11,803 (Ranked 87)  

@@ -370,9 +370,9 @@
       "ID": "ID_27",
       "SetID": "2bmd16d",
       "Name": "Power of the dolphin",
-      "Percentage": 8,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ID_28",
@@ -417,8 +417,8 @@
   ],
   "FirstSeen": "2023-10-01T15:03:13.0719146+00:00",
   "FirstSeenAchievements": "2023-09-07T16:08:09.7966951+00:00",
-  "LastChanged_Achievements": "2023-12-22T18:10:28.9258575+00:00",
+  "LastChanged_Achievements": "2023-12-22T19:10:12.1666873+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:22.0285628+00:00",
-  "LastUpdate_Ratings": "2023-12-22T18:02:33.7975261+00:00",
-  "LastUpdate_Achievements": "2023-12-22T18:10:28.925876+00:00"
+  "LastUpdate_Ratings": "2023-12-22T19:01:42.5167184+00:00",
+  "LastUpdate_Achievements": "2023-12-22T19:10:12.1667097+00:00"
 }

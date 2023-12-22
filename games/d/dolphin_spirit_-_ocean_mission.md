@@ -9,11 +9,11 @@
 | New recruit | 21.00% | ~5 |
 | Interesting | 17.00% | ~4 |
 | Amateur photographer | 13.00% | ~3 |
+| Power of the dolphin | 13.00% | ~3 |
 | Rescuer | 8.00% | ~2 |
 | Heroic member | 8.00% | ~2 |
 | In search of knowledge | 8.00% | ~2 |
 | Power of the turtle | 8.00% | ~2 |
-| Power of the dolphin | 8.00% | ~2 |
 | Power of the ray | 8.00% | ~2 |
 | Pro Photographer | 4.00% | ~1 |
 | Animal reporter | 4.00% | ~1 |

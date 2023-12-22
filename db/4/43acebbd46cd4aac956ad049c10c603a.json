@@ -3319,9 +3319,9 @@
       "ID": "VerdantCanyon",
       "SetID": "1n308hc",
       "Name": "Verdant Canyon",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 98
     },
     {
       "ID": "Wanderers",
@@ -3368,8 +3368,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-22T18:07:39.6712313+00:00",
+  "LastChanged_Achievements": "2023-12-22T19:07:04.2917546+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-22T18:02:57.5968165+00:00",
-  "LastUpdate_Achievements": "2023-12-22T18:07:39.6712862+00:00"
+  "LastUpdate_Ratings": "2023-12-22T19:02:44.0318399+00:00",
+  "LastUpdate_Achievements": "2023-12-22T19:07:04.2918003+00:00"
 }

@@ -5,16 +5,16 @@ Rating: 4.50 (Ranked 602)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 86.00% | ~390 |
+| Good start! | 86.00% | ~391 |
 | Vanquisher of Robots | 77.00% | ~350 |
-| Party | 50.00% | ~227 |
+| Party | 50.00% | ~228 |
 | Impossible Cube | 46.00% | ~209 |
 | Knowledge is Power | 44.00% | ~200 |
 | Through the Darkness | 44.00% | ~200 |
-| No Mercy | 43.00% | ~195 |
+| No Mercy | 43.00% | ~196 |
 | The Return of a Rat | 42.00% | ~191 |
-| Fat of the Earth | 37.00% | ~168 |
-| Last Man Standing | 32.00% | ~145 |
+| Fat of the Earth | 36.00% | ~164 |
+| Last Man Standing | 32.00% | ~146 |
 | He's Seen It All | 28.00% | ~127 |
 | Great Hero | 28.00% | ~127 |
 | Campaigning | 27.00% | ~123 |
@@ -28,12 +28,12 @@ Rating: 4.50 (Ranked 602)
 | Holy Vengeance | 17.00% | ~77 |
 | Honorary Cultist | 13.00% | ~59 |
 | Brain and Brawn | 11.00% | ~50 |
-| Strength and Sorcery | 10.00% | ~45 |
+| Strength and Sorcery | 10.00% | ~46 |
 | Omae Wa Mou Shindeiru | 8.00% | ~36 |
 | Experimentalist | 7.00% | ~32 |
 | Soldier | 7.00% | ~32 |
 | Wide Selection | 6.00% | ~27 |
-| Android Power | 6.00% | ~27 |
+| Android Power | 5.00% | ~23 |
 | Shopaholic | 3.00% | ~14 |
 | Zombie Lover | 3.00% | ~14 |
 | Munchkin | 2.00% | ~9 |
@@ -41,7 +41,7 @@ Rating: 4.50 (Ranked 602)
 | Vet | 0.90% | ~4 |
 | Real Achiever | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 454 (Ranked 335)  
+Progressed: 455 (Ranked 335)  
 Completed: 1 (0.22%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,6 +114,7 @@ Completed: 1 (0.22%) (Ranked 266)
 | 2023-12-19 | 450 | 1 |
 | 2023-12-20 | 453 | 1 |
 | 2023-12-21 | 454 | 1 |
+| 2023-12-22 | 455 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,57 +5,57 @@ Rating: 4.69 (Ranked 230)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~9,654 |
-| On the Top Step | 82.00% | ~8,699 |
-| Setting up for Success | 69.00% | ~7,320 |
-| Team Orders | 68.00% | ~7,214 |
-| Engineer | 47.00% | ~4,986 |
-| Familiar Faces | 42.00% | ~4,456 |
-| Going the Extra Mile | 36.00% | ~3,819 |
-| Sharing the Love | 34.00% | ~3,607 |
-| Hitting a Season | 28.00% | ~2,971 |
-| A Dozen Pieces | 25.00% | ~2,652 |
-| Challenge Yourself | 25.00% | ~2,652 |
-| Making History | 25.00% | ~2,652 |
-| Network Success | 23.00% | ~2,440 |
-| Writing a new Chapter | 20.00% | ~2,122 |
-| Spring Cleaning | 19.00% | ~2,016 |
-| Ups and Downs | 16.00% | ~1,697 |
-| Crucial Combo | 15.00% | ~1,591 |
-| Reduce | 15.00% | ~1,591 |
-| Reuse | 13.00% | ~1,379 |
-| Proving Them Wrong | 13.00% | ~1,379 |
-| Gathering Dust | 12.00% | ~1,273 |
-| One for the Book | 12.00% | ~1,273 |
-| Oil and Water | 11.00% | ~1,167 |
-| Eagle Eye | 10.00% | ~1,061 |
-| All in a Weekend's Work | 10.00% | ~1,061 |
-| Lightning Round the World | 10.00% | ~1,061 |
-| Hitting a Bullseye | 10.00% | ~1,061 |
-| Friendly Competition | 10.00% | ~1,061 |
-| Switcheroo | 10.00% | ~1,061 |
-| Spinning Around | 10.00% | ~1,061 |
-| Recycle | 8.00% | ~849 |
-| Undisputed Winner | 7.00% | ~743 |
-| Tinkerer | 7.00% | ~743 |
-| For all Those Back at the Factory | 5.00% | ~530 |
-| Smooth Operator | 5.00% | ~530 |
-| Living up to Expectations | 4.00% | ~424 |
-| Peak Performance | 4.00% | ~424 |
-| Hitting a Century | 3.00% | ~318 |
-| Loyal Bond | 3.00% | ~318 |
-| Seasoned Rookie | 2.00% | ~212 |
-| Wait, I know you? | 2.00% | ~212 |
-| Filling in the Gaps | 2.00% | ~212 |
+| Getting on the Step | 91.00% | ~9,684 |
+| On the Top Step | 82.00% | ~8,726 |
+| Setting up for Success | 69.00% | ~7,343 |
+| Team Orders | 68.00% | ~7,237 |
+| Engineer | 47.00% | ~5,002 |
+| Familiar Faces | 42.00% | ~4,470 |
+| Going the Extra Mile | 36.00% | ~3,831 |
+| Sharing the Love | 34.00% | ~3,618 |
+| Hitting a Season | 28.00% | ~2,980 |
+| A Dozen Pieces | 25.00% | ~2,660 |
+| Challenge Yourself | 25.00% | ~2,660 |
+| Making History | 25.00% | ~2,660 |
+| Network Success | 23.00% | ~2,448 |
+| Writing a new Chapter | 20.00% | ~2,128 |
+| Spring Cleaning | 19.00% | ~2,022 |
+| Ups and Downs | 16.00% | ~1,703 |
+| Crucial Combo | 15.00% | ~1,596 |
+| Reduce | 15.00% | ~1,596 |
+| Reuse | 13.00% | ~1,383 |
+| Gathering Dust | 12.00% | ~1,277 |
+| Proving Them Wrong | 12.00% | ~1,277 |
+| Oil and Water | 11.00% | ~1,171 |
+| One for the Book | 11.00% | ~1,171 |
+| Eagle Eye | 10.00% | ~1,064 |
+| All in a Weekend's Work | 10.00% | ~1,064 |
+| Lightning Round the World | 10.00% | ~1,064 |
+| Hitting a Bullseye | 10.00% | ~1,064 |
+| Friendly Competition | 10.00% | ~1,064 |
+| Switcheroo | 10.00% | ~1,064 |
+| Spinning Around | 10.00% | ~1,064 |
+| Recycle | 8.00% | ~851 |
+| Undisputed Winner | 7.00% | ~745 |
+| Tinkerer | 7.00% | ~745 |
+| For all Those Back at the Factory | 5.00% | ~532 |
+| Living up to Expectations | 5.00% | ~532 |
+| Smooth Operator | 5.00% | ~532 |
+| Peak Performance | 4.00% | ~426 |
+| Hitting a Century | 3.00% | ~319 |
+| Loyal Bond | 3.00% | ~319 |
+| Seasoned Rookie | 2.00% | ~213 |
+| Wait, I know you? | 2.00% | ~213 |
+| Filling in the Gaps | 2.00% | ~213 |
 | Saturday Night Drama | 1.00% | ~106 |
 | Media Darling | 1.00% | ~106 |
 | Under the Microscope | 0.70% | ~74 |
-| Ultimate Collector | 0.40% | ~42 |
+| Ultimate Collector | 0.40% | ~43 |
 | Golden Touch | 0.20% | ~21 |
 | Shot in the Dark | 0.10% | ~11 |
 | Elite Racer | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,609 (Ranked 173)  
+Progressed: 10,642 (Ranked 173)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-19 | 9,473 | 0 |
 | 2023-12-20 | 9,862 | 0 |
 | 2023-12-21 | 10,285 | 0 |
-| 2023-12-22 | 10,609 | 0 |
+| 2023-12-22 | 10,642 | 0 |
 ## Awards
 Max (Diverse Characters): 45  (Ranked 455)  
 Sum: 266 (Ranked 385)  

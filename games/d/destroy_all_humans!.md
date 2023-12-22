@@ -7,22 +7,22 @@ Number of Ratings: 85  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Kaijuiced | 67.00% | ~66 |
-| Lie Back and Think of Albion | 61.00% | ~60 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 58.00% | ~57 |
-| Shop Til They Drop | 57.00% | ~56 |
+| Lie Back and Think of Albion | 62.00% | ~61 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 59.00% | ~58 |
+| Shop Til They Drop | 58.00% | ~57 |
 | Yettisoned | 55.00% | ~54 |
-| I Look Up As I Walk to Takoshima | 53.00% | ~52 |
-| Lobster Blisque | 49.00% | ~48 |
-| Perfect Probulator | 48.00% | ~47 |
+| I Look Up As I Walk to Takoshima | 54.00% | ~53 |
+| Lobster Blisque | 51.00% | ~50 |
+| Perfect Probulator | 49.00% | ~48 |
 | Fly Me to the Moon Base | 44.00% | ~43 |
-| Pimp My Raid | 41.00% | ~40 |
-| Earthly Pleasures | 39.00% | ~38 |
+| Pimp My Raid | 42.00% | ~41 |
+| Earthly Pleasures | 40.00% | ~39 |
 | Ducks in a Row, Fish in a Barrel | 39.00% | ~38 |
 | Freshly Squeezed | 38.00% | ~37 |
 | Upgreatest | 31.00% | ~30 |
 | Forbidden Donut | 30.00% | ~29 |
-| Bodied Sattva | 29.00% | ~28 |
-| Rock of the Bay | 26.00% | ~25 |
+| Bodied Sattva | 30.00% | ~29 |
+| Rock of the Bay | 27.00% | ~26 |
 | Trans-Siberian Express | 24.00% | ~24 |
 | Deincarnated | 23.00% | ~23 |
 | Furon Fashion | 23.00% | ~23 |

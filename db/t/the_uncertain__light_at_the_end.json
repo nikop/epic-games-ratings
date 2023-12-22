@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 368,
+  "Ranking_EOS_NewPlayers": 364,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 598,
+  "EOS_Progressed": 599,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -1068,6 +1068,11 @@
       "Time": "2023-12-22T17:08:10.7137786+00:00",
       "NumProgressed": 598,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-22T19:08:55.7126981+00:00",
+      "NumProgressed": 599,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1103,7 +1108,7 @@
       "Name": "Bosom Buddies",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "Doors_Closing",
@@ -1199,7 +1204,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "Leisurely_Strol",
@@ -1310,7 +1315,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 598,
+      "Progressed": 599,
       "Completed": 6
     }
   ],
@@ -1318,8 +1323,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-12-22T18:09:06.9787962+00:00",
+  "LastChanged_Achievements": "2023-12-22T19:08:55.7126974+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:57:02.9075222+00:00",
-  "LastUpdate_Ratings": "2023-12-22T18:03:53.6766901+00:00",
-  "LastUpdate_Achievements": "2023-12-22T18:09:06.9788263+00:00"
+  "LastUpdate_Ratings": "2023-12-22T19:03:35.924928+00:00",
+  "LastUpdate_Achievements": "2023-12-22T19:08:55.7127212+00:00"
 }

@@ -6,25 +6,25 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,598 |
-| Gun Fu | 8.00% | ~78,399 |
-| The Fool | 7.00% | ~68,599 |
-| Right Back At Ya | 6.00% | ~58,799 |
-| Full Body Conversion | 5.00% | ~48,999 |
-| The Lovers | 5.00% | ~48,999 |
-| Christmas Tree Attack | 4.00% | ~39,199 |
-| Stanislavski's Method | 4.00% | ~39,199 |
-| The Hermit | 4.00% | ~39,199 |
-| The Wheel of Fortune | 4.00% | ~39,199 |
-| True Soldier | 4.00% | ~39,199 |
-| All the President's Men | 4.00% | ~4,344 |
-| Arachnophobia | 4.00% | ~4,344 |
-| The Quick and the Dead | 3.00% | ~29,399 |
-| Life of the Road | 3.00% | ~29,399 |
-| The High Priestess | 3.00% | ~29,399 |
-| True Warrior | 3.00% | ~29,399 |
-| Legend of The Afterlife | 3.00% | ~29,399 |
-| Relic Ruler | 3.00% | ~3,258 |
+| V for Vendetta | 12.00% | ~117,600 |
+| Gun Fu | 8.00% | ~78,400 |
+| The Fool | 7.00% | ~68,600 |
+| Right Back At Ya | 6.00% | ~58,800 |
+| Full Body Conversion | 5.00% | ~49,000 |
+| The Lovers | 5.00% | ~49,000 |
+| Christmas Tree Attack | 4.00% | ~39,200 |
+| Stanislavski's Method | 4.00% | ~39,200 |
+| The Hermit | 4.00% | ~39,200 |
+| The Wheel of Fortune | 4.00% | ~39,200 |
+| True Soldier | 4.00% | ~39,200 |
+| All the President's Men | 4.00% | ~4,345 |
+| Arachnophobia | 4.00% | ~4,345 |
+| The Quick and the Dead | 3.00% | ~29,400 |
+| Life of the Road | 3.00% | ~29,400 |
+| The High Priestess | 3.00% | ~29,400 |
+| True Warrior | 3.00% | ~29,400 |
+| Legend of The Afterlife | 3.00% | ~29,400 |
+| Relic Ruler | 3.00% | ~3,259 |
 | Bushido and Chill | 2.00% | ~19,600 |
 | To Protect and Serve | 2.00% | ~19,600 |
 | Master Crafter | 2.00% | ~19,600 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 979,983 (Ranked 16)  
+Progressed: 980,002 (Ranked 16)  
 Completed: 2,955 (0.30%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,21 +320,21 @@ Completed: 2,955 (0.30%) (Ranked 249)
 | 2023-12-19 | 978,882 | 2,944 |
 | 2023-12-20 | 979,279 | 2,948 |
 | 2023-12-21 | 979,668 | 2,950 |
-| 2023-12-22 | 979,983 | 2,955 |
+| 2023-12-22 | 980,002 | 2,955 |
 ## Awards
-Max (Character Customization): 125,917  (Ranked 8)  
-Sum: 436,670 (Ranked 9)  
+Max (Character Customization): 126,294  (Ranked 8)  
+Sum: 437,177 (Ranked 9)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 125,917 |
+| This game has Inclusive Character Customization | 126,294 |
 | This game has Great Boss Battles | 92,982 |
 | This game is Great for Beginners | 27,292 |
 | This game has Diverse Characters | 26,643 |
 | This game is Highly Recommended | 25,485 |
 | This game has Amazing Storytelling | 25,058 |
 | This game is Extremely Fun | 24,708 |
-| This game has Amazing Characters | 24,535 |
+| This game has Amazing Characters | 24,665 |
 | This game has Quickly Understood Controls | 23,769 |
 | This game is Relaxing | 23,750 |
 | This game has a Creative Community | 16,531 |
@@ -678,4 +678,4 @@ Diff (max vs sum): -1
 | 2023-12-19 | 4.66 | - | 125,194 | 431,324 |
 | 2023-12-20 | 4.66 | - | 125,560 | 433,348 |
 | 2023-12-21 | 4.66 | - | 125,917 | 435,336 |
-| 2023-12-22 | 4.66 | - | 125,917 | 436,670 |
+| 2023-12-22 | 4.66 | - | 126,294 | 437,177 |

@@ -6,24 +6,24 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 40.00% | ~11,199 |
-| Overkill | 34.00% | ~9,519 |
-| Vaccine Incoming | 32.00% | ~8,959 |
-| A normal day in Gloomhaven | 30.00% | ~8,399 |
-| Spread the plague | 28.00% | ~7,839 |
-| Get over here! | 24.00% | ~6,719 |
-| Just when I thought I was out... | 19.00% | ~5,319 |
-| Mine... All Mine... | 17.00% | ~4,759 |
-| Precious! | 16.00% | ~4,480 |
-| Grizzled veteran | 15.00% | ~4,200 |
-| Anatomy Lesson | 14.00% | ~3,920 |
-| Obstacle race | 13.00% | ~3,640 |
-| Light of my life | 13.00% | ~3,640 |
-| You activated my trap card! | 12.00% | ~3,360 |
-| Who's the Boss? | 11.00% | ~3,080 |
-| Augmented rat | 11.00% | ~3,080 |
-| Doom and gloom | 10.00% | ~2,800 |
-| Dungeon Veteran | 9.00% | ~2,520 |
+| I'm not dead yet | 40.00% | ~11,202 |
+| Overkill | 34.00% | ~9,522 |
+| Vaccine Incoming | 32.00% | ~8,962 |
+| A normal day in Gloomhaven | 30.00% | ~8,402 |
+| Spread the plague | 28.00% | ~7,842 |
+| Get over here! | 24.00% | ~6,721 |
+| Just when I thought I was out... | 19.00% | ~5,321 |
+| Mine... All Mine... | 17.00% | ~4,761 |
+| Precious! | 16.00% | ~4,481 |
+| Grizzled veteran | 15.00% | ~4,201 |
+| Anatomy Lesson | 14.00% | ~3,921 |
+| Obstacle race | 13.00% | ~3,641 |
+| Light of my life | 13.00% | ~3,641 |
+| You activated my trap card! | 12.00% | ~3,361 |
+| Who's the Boss? | 11.00% | ~3,081 |
+| Augmented rat | 11.00% | ~3,081 |
+| Doom and gloom | 10.00% | ~2,801 |
+| Dungeon Veteran | 9.00% | ~2,521 |
 | Pain is your friend | 8.00% | ~2,240 |
 | Black death | 8.00% | ~2,240 |
 | Play it again, Sam | 8.00% | ~2,240 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~28 |
 | Murder Death Kill | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,997 (Ranked 136)  
+Progressed: 28,006 (Ranked 136)  
 Completed: 1 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 1 (0.00%) (Ranked 384)
 | 2023-12-19 | 27,467 | 1 |
 | 2023-12-20 | 27,662 | 1 |
 | 2023-12-21 | 27,847 | 1 |
-| 2023-12-22 | 27,997 | 1 |
+| 2023-12-22 | 28,006 | 1 |
 ## Awards
 Max (Character Customization): 3,603  (Ranked 92)  
 Sum: 8,424 (Ranked 104)  

@@ -6,11 +6,11 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 61.00% | ~2,027 |
-| Keeping it classy | 28.00% | ~930 |
-| Welcome to the family | 22.00% | ~731 |
-| The finer things in life | 19.00% | ~631 |
-| Backpacker | 14.00% | ~465 |
+| You're free now! | 61.00% | ~2,028 |
+| Keeping it classy | 28.00% | ~931 |
+| Welcome to the family | 22.00% | ~732 |
+| The finer things in life | 19.00% | ~632 |
+| Backpacker | 14.00% | ~466 |
 | Go with the Flow | 13.00% | ~432 |
 | Plastic Surgeon | 10.00% | ~332 |
 | The flip trick crown jewel | 10.00% | ~332 |
@@ -23,14 +23,14 @@ Number of Ratings: 111  (23.09.2022)
 | Fashionista | 7.00% | ~233 |
 | Finally he zips it | 7.00% | ~233 |
 | That pinch! | 7.00% | ~233 |
-| DIY Boss | 6.00% | ~199 |
-| Fulfilled the dream | 6.00% | ~199 |
-| G'Day Mate! | 6.00% | ~199 |
-| Laid back | 6.00% | ~199 |
-| NAHELL! | 6.00% | ~199 |
-| Purple passion | 6.00% | ~199 |
-| Squad goals | 6.00% | ~199 |
-| Sup widdit big dog! | 6.00% | ~199 |
+| DIY Boss | 6.00% | ~200 |
+| Fulfilled the dream | 6.00% | ~200 |
+| G'Day Mate! | 6.00% | ~200 |
+| Laid back | 6.00% | ~200 |
+| NAHELL! | 6.00% | ~200 |
+| Purple passion | 6.00% | ~200 |
+| Squad goals | 6.00% | ~200 |
+| Sup widdit big dog! | 6.00% | ~200 |
 | Commence the Hijinx! | 5.00% | ~166 |
 | Cops called! | 5.00% | ~166 |
 | Globetrotter | 5.00% | ~166 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Loves You Back | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,323 (Ranked 217)  
+Progressed: 3,325 (Ranked 217)  
 Completed: 2 (0.06%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 2 (0.06%) (Ranked 323)
 | 2023-12-19 | 3,283 | 2 |
 | 2023-12-20 | 3,294 | 2 |
 | 2023-12-21 | 3,308 | 2 |
-| 2023-12-22 | 3,323 | 2 |
+| 2023-12-22 | 3,325 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 60  (Ranked 421)  
 Sum: 570 (Ranked 323)  

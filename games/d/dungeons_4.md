@@ -49,8 +49,8 @@
 | Raiders of the Lost Stone | 24.00% | ~147 |
 | The Rune Sockets of Finitude (Part 1) | 24.00% | ~147 |
 | The Rune Sockets of Finitude (Part 2) | 22.00% | ~134 |
+| Rubble and Ashes | 20.00% | ~122 |
 | The Last Stand - This Time For Real! | 20.00% | ~122 |
-| Rubble and Ashes | 19.00% | ~116 |
 | My Little Torture Chamber | 18.00% | ~110 |
 | Lavalumps on Ice! | 18.00% | ~110 |
 | To the Max! | 18.00% | ~110 |

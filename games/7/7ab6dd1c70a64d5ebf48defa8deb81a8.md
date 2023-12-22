@@ -4,44 +4,44 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 52.00% | ~544 |
-| Trinity | 24.00% | ~251 |
-| Find Allies | 18.00% | ~188 |
-| A Taste of Wrath | 18.00% | ~188 |
-| I Found It | 18.00% | ~188 |
-| The Collector | 18.00% | ~188 |
-| Geared Up | 17.00% | ~178 |
-| Adventurer | 16.00% | ~167 |
-| Shatter Them All | 16.00% | ~167 |
-| Scholar | 16.00% | ~167 |
-| Tributes of Caladrias | 15.00% | ~157 |
-| Fashion Victim | 14.00% | ~146 |
-| Stone Collection | 14.00% | ~146 |
-| Powerful Allies | 13.00% | ~136 |
+| Break Out | 52.00% | ~547 |
+| Trinity | 23.00% | ~242 |
+| Find Allies | 18.00% | ~189 |
+| A Taste of Wrath | 18.00% | ~189 |
+| I Found It | 18.00% | ~189 |
+| The Collector | 18.00% | ~189 |
+| Geared Up | 17.00% | ~179 |
+| Adventurer | 16.00% | ~168 |
+| Shatter Them All | 16.00% | ~168 |
+| Scholar | 16.00% | ~168 |
+| Tributes of Caladrias | 15.00% | ~158 |
+| Fashion Victim | 14.00% | ~147 |
+| Stone Collection | 14.00% | ~147 |
+| Powerful Allies | 13.00% | ~137 |
 | Big Bazar | 10.00% | ~105 |
-| Essence Blow | 9.00% | ~94 |
+| Essence Blow | 9.00% | ~95 |
 | Alchemist | 8.00% | ~84 |
 | The Mentor | 6.00% | ~63 |
-| Calm before the Storm | 5.00% | ~52 |
-| Airborne | 5.00% | ~52 |
-| Miner | 5.00% | ~52 |
+| Calm before the Storm | 5.00% | ~53 |
+| Airborne | 5.00% | ~53 |
+| Miner | 5.00% | ~53 |
 | To Battle | 4.00% | ~42 |
 | Godslayer | 4.00% | ~42 |
-| Clear Sight | 3.00% | ~31 |
-| Shatterer | 3.00% | ~31 |
-| Fine Feathers Make Fine Birds | 3.00% | ~31 |
+| Clear Sight | 3.00% | ~32 |
+| Shatterer | 3.00% | ~32 |
+| Fine Feathers Make Fine Birds | 3.00% | ~32 |
 | Slayer | 2.00% | ~21 |
-| Flawless Victory | 1.00% | ~10 |
-| All There Is | 1.00% | ~10 |
-| False God | 1.00% | ~10 |
-| A Queen's Tale | 1.00% | ~10 |
+| Flawless Victory | 1.00% | ~11 |
+| All There Is | 1.00% | ~11 |
+| False God | 1.00% | ~11 |
+| A Queen's Tale | 1.00% | ~11 |
 | Shardbearer | 0.80% | ~8 |
 | Forgemaster | 0.70% | ~7 |
 | Summiter | 0.70% | ~7 |
 | All That Gold | 0.60% | ~6 |
 | Feeling Fancy | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,046 (Ranked 276)  
+Progressed: 1,052 (Ranked 276)  
 Completed: 3 (0.29%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,4 +112,4 @@ Completed: 3 (0.29%) (Ranked 252)
 | 2023-12-19 | 881 | 3 |
 | 2023-12-20 | 928 | 3 |
 | 2023-12-21 | 998 | 3 |
-| 2023-12-22 | 1,046 | 3 |
+| 2023-12-22 | 1,052 | 3 |

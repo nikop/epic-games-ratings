@@ -18,8 +18,8 @@
 | Run K, run! | 69.00% | ~308 |
 | First defeat | 68.00% | ~304 |
 | Hello, world! | 67.00% | ~299 |
+| Fighting is cool | 66.00% | ~295 |
 | No bullying more | 66.00% | ~295 |
-| Fighting is cool | 65.00% | ~291 |
 | Pal of your father? | 64.00% | ~286 |
 | Spirit of the past | 62.00% | ~277 |
 | Employee of the month | 61.00% | ~273 |
@@ -49,13 +49,14 @@
 | GYM professional | 36.00% | ~161 |
 | The die is cast | 36.00% | ~161 |
 | Poisoned fighter | 35.00% | ~156 |
-| Get out of my apartment! | 34.00% | ~152 |
+| Get out of my apartment! | 35.00% | ~156 |
 | Seashell hunter | 33.00% | ~148 |
 | Gang wrangler | 32.00% | ~143 |
 | Undercover robot | 32.00% | ~143 |
 | Problems of cyborgs | 31.00% | ~139 |
 | Absolute Champion! | 31.00% | ~139 |
 | Not little hacker | 30.00% | ~134 |
+| Careerist | 30.00% | ~134 |
 | Your own way | 30.00% | ~134 |
 | Trap disarmed | 29.00% | ~130 |
 | Another world | 29.00% | ~130 |
@@ -63,10 +64,9 @@
 | Keep nature safe | 29.00% | ~130 |
 | Family comes first | 29.00% | ~130 |
 | Key memories | 29.00% | ~130 |
-| Careerist | 29.00% | ~130 |
+| The last bell ring | 29.00% | ~130 |
 | Anyone can resist | 29.00% | ~130 |
 | The heart of the Resistance | 29.00% | ~130 |
-| The last bell ring | 28.00% | ~125 |
 | Silver’s past | 26.00% | ~116 |
 | Better cooking at home | 26.00% | ~116 |
 | The only right decision | 26.00% | ~116 |

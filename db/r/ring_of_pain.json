@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 88,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
@@ -3736,9 +3736,9 @@
       "Count": 747
     }
   ],
-  "EOS_Progressed": 241470,
+  "EOS_Progressed": 241472,
   "EOS_Completed": 300,
-  "EOS_NewPlayers": 387,
+  "EOS_NewPlayers": 386,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -29126,6 +29126,11 @@
       "Time": "2023-12-22T17:09:57.3088993+00:00",
       "NumProgressed": 241470,
       "NumCompleted": 300
+    },
+    {
+      "Time": "2023-12-22T19:10:56.9047314+00:00",
+      "NumProgressed": 241472,
+      "NumCompleted": 300
     }
   ],
   "TotalAchievements": 138,
@@ -29767,9 +29772,9 @@
       "ID": "PARRY50TIMES",
       "SetID": "5l8oe0h",
       "Name": "Deflection",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1690
     },
     {
       "ID": "PASSIVEDEPTH6",
@@ -30240,13 +30245,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241470,
+      "Progressed": 241472,
       "Completed": 300
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 2950,
+      "Progressed": 2952,
       "Completed": 410
     }
   ],
@@ -30254,8 +30259,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-22T17:00:19.5323514+00:00",
-  "LastChanged_Achievements": "2023-12-22T18:11:17.06705+00:00",
+  "LastChanged_Achievements": "2023-12-22T19:10:56.9047309+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:23.1397919+00:00",
-  "LastUpdate_Ratings": "2023-12-22T18:02:36.22826+00:00",
-  "LastUpdate_Achievements": "2023-12-22T18:11:17.0673865+00:00"
+  "LastUpdate_Ratings": "2023-12-22T19:01:44.9857668+00:00",
+  "LastUpdate_Achievements": "2023-12-22T19:10:56.9049777+00:00"
 }
