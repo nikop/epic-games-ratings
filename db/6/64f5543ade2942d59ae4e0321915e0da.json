@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 202,
+  "EOS_Progressed": 203,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.5,
+  "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
     {
       "Time": "2023-10-17T15:03:17.566478+00:00",
@@ -834,6 +834,11 @@
       "Time": "2023-12-22T06:03:33.7607404+00:00",
       "NumProgressed": 202,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-22T08:03:32.2075899+00:00",
+      "NumProgressed": 203,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -902,7 +907,7 @@
       "Name": "Gambler",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "AC_BLACKJACK_GAMES_2",
@@ -918,7 +923,7 @@
       "Name": "Hunger",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "AC_BOSS_01",
@@ -948,9 +953,9 @@
       "ID": "AC_BOSS_04",
       "SetID": "16i2akc",
       "Name": "Heresy",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "AC_COMBO_1",
@@ -958,7 +963,7 @@
       "Name": "Pack",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "AC_COMBO_2",
@@ -988,9 +993,9 @@
       "ID": "AC_DEATH_1",
       "SetID": "16i2akc",
       "Name": "Corpse",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 79
     },
     {
       "ID": "AC_DEATH_2",
@@ -1014,7 +1019,7 @@
       "Name": "Killer",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -1030,7 +1035,7 @@
       "Name": "Genocide",
       "Percentage": 21,
       "XP": 45,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "AC_DISTANCE_1",
@@ -1070,7 +1075,7 @@
       "Name": "Creation",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "AC_FLASHBACK_02",
@@ -1116,9 +1121,9 @@
       "ID": "AC_PISTOL_MAX",
       "SetID": "16i2akc",
       "Name": "Gun",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "AC_RECIPES_DONE_1",
@@ -1181,14 +1186,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 202,
+      "Progressed": 203,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-22T07:03:27.5179262+00:00",
+  "LastChanged_Achievements": "2023-12-22T08:03:32.2075896+00:00",
   "LastUpdate_AppInfo": "2023-12-19T20:57:15.8211494+00:00",
-  "LastUpdate_Ratings": "2023-12-22T06:57:24.0484098+00:00",
-  "LastUpdate_Achievements": "2023-12-22T07:03:27.5179607+00:00"
+  "LastUpdate_Ratings": "2023-12-22T07:57:25.3678852+00:00",
+  "LastUpdate_Achievements": "2023-12-22T08:03:32.2076224+00:00"
 }

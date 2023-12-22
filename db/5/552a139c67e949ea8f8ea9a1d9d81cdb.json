@@ -2,8 +2,8 @@
   "ID": "552a139c67e949ea8f8ea9a1d9d81cdb",
   "Name": "HOT WHEELS UNLEASHED\u2122 2 - Turbocharged",
   "ProductSlug": "hot-wheels-unleashed-2",
-  "Ranking_EOS_Progress": 249,
-  "Ranking_EOS_Completed": 320,
+  "Ranking_EOS_Progress": 250,
+  "Ranking_EOS_Completed": 324,
   "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
@@ -22,11 +22,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1538,
+  "EOS_Progressed": 1539,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.07,
+  "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
     {
       "Time": "2023-10-04T08:05:55.5813903+00:00",
@@ -3672,6 +3672,11 @@
       "Time": "2023-12-22T07:04:03.5787256+00:00",
       "NumProgressed": 1538,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-22T08:04:07.4249288+00:00",
+      "NumProgressed": 1539,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -3874,9 +3879,9 @@
       "ID": "ML_ACHIEVEMENT_25",
       "SetID": "5k00jcd",
       "Name": "The Yeti",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ML_ACHIEVEMENT_26",
@@ -3930,9 +3935,9 @@
       "ID": "ML_ACHIEVEMENT_32",
       "SetID": "5k00jcd",
       "Name": "Spendthrift",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "ML_ACHIEVEMENT_33",
@@ -4051,20 +4056,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1538,
+      "Progressed": 1539,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1206,
+      "Progressed": 1207,
       "Completed": 997
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-22T07:04:03.5787253+00:00",
+  "LastChanged_Achievements": "2023-12-22T08:04:07.4249286+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:08.51229+00:00",
-  "LastUpdate_Ratings": "2023-12-22T06:57:17.8580515+00:00",
-  "LastUpdate_Achievements": "2023-12-22T07:04:03.5787825+00:00"
+  "LastUpdate_Ratings": "2023-12-22T07:57:19.4828282+00:00",
+  "LastUpdate_Achievements": "2023-12-22T08:04:07.4249776+00:00"
 }

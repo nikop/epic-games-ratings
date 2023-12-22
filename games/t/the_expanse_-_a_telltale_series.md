@@ -13,8 +13,8 @@ Rating: 4.54 (Ranked 533)
 | Drone Dodger | 9.00% | ~1,535 |
 | Bosmang | 9.00% | ~1,535 |
 | Impossible Objects | 9.00% | ~1,535 |
-| Stogie for Fogey | 8.00% | ~1,364 |
-| Spore Taste | 8.00% | ~1,364 |
+| Stogie for Fogey | 8.00% | ~1,365 |
+| Spore Taste | 8.00% | ~1,365 |
 | Zen Master | 8.00% | ~241 |
 | Call it Even | 7.00% | ~1,194 |
 | Safe Cracker | 7.00% | ~211 |
@@ -25,7 +25,7 @@ Rating: 4.54 (Ranked 533)
 | Data Archivist | 5.00% | ~853 |
 | Thorston Mayer | 5.00% | ~853 |
 | Khan's Revenge | 5.00% | ~853 |
-| Master Negotiator | 5.00% | ~150 |
+| Master Negotiator | 5.00% | ~151 |
 | Doctor Approved | 4.00% | ~682 |
 | Bottoms up! | 4.00% | ~682 |
 | Data Logger | 3.00% | ~512 |
@@ -35,13 +35,13 @@ Rating: 4.54 (Ranked 533)
 | Brother's Reaper | 1.00% | ~171 |
 | Debris Spree | 1.00% | ~171 |
 | Data Recoverer | 1.00% | ~171 |
-| Urshanabi Hoarder | 0.90% | ~153 |
+| Urshanabi Hoarder | 0.90% | ~154 |
 | Data Miner | 0.50% | ~85 |
 | Grave Robber | 0.50% | ~85 |
 | Scavenger Star | 0.20% | ~34 |
 | Data Collector | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,055 (Ranked 154)  
+Progressed: 17,057 (Ranked 154)  
 Completed: 46 (0.27%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 46 (0.27%) (Ranked 254)
 | 2023-12-19 | 16,865 | 45 |
 | 2023-12-20 | 16,946 | 46 |
 | 2023-12-21 | 17,033 | 46 |
-| 2023-12-22 | 17,055 | 46 |
+| 2023-12-22 | 17,057 | 46 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

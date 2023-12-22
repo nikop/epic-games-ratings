@@ -15,8 +15,8 @@
 | Overboard | 8.00% | ~9 |
 | The Guardian of Fire | 7.00% | ~8 |
 | Explorer | 6.00% | ~7 |
+| Sovereignty of Irons | 6.00% | ~7 |
 | Twin Thorns | 6.00% | ~7 |
-| Sovereignty of Irons | 5.00% | ~6 |
 | A Sandwyrm's Hoard | 5.00% | ~6 |
 | The River Styx | 4.00% | ~5 |
 | Sommelier | 3.00% | ~3 |

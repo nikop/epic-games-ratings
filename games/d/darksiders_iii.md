@@ -6,12 +6,12 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 81.00% | ~44 |
+| Green with Envy | 83.00% | ~45 |
+| First of many… | 78.00% | ~42 |
 | Helping Hand | 76.00% | ~41 |
-| First of many… | 76.00% | ~41 |
 | Increased Vigor | 72.00% | ~39 |
-| Fight Fire with Fire | 70.00% | ~38 |
-| Increased Capacity | 63.00% | ~34 |
+| Fight Fire with Fire | 72.00% | ~39 |
+| Increased Capacity | 65.00% | ~35 |
 | Just the start | 61.00% | ~33 |
 | Perfect Storm | 54.00% | ~29 |
 | Enhance! | 54.00% | ~29 |
@@ -43,10 +43,10 @@ Number of Ratings: 116  (23.09.2022)
 | Egomaniac | 20.00% | ~11 |
 | Seeing Red | 20.00% | ~11 |
 | Unbreakable Will | 15.00% | ~8 |
+| Holy Keeper | 13.00% | ~7 |
 | Path of the Horseman | 13.00% | ~7 |
 | Community Outreach | 13.00% | ~7 |
 | Take it to the Limit | 13.00% | ~7 |
-| Holy Keeper | 11.00% | ~6 |
 | Demon Keeper | 11.00% | ~6 |
 | Soul Reaper | 9.00% | ~5 |
 | A Parting Gift | 9.00% | ~5 |

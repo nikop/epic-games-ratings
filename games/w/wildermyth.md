@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Peacemaker | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,538 (Ranked 249)  
+Progressed: 1,538 (Ranked 251)  
 Completed: 7 (0.46%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |

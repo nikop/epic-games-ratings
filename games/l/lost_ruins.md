@@ -11,9 +11,9 @@
 | The Fallen | 20.00% | ~117 |
 | Artifact Collector | 19.00% | ~111 |
 | Trap Master | 18.00% | ~105 |
-| Ghost Buster | 15.00% | ~87 |
-| Iconoclasm | 15.00% | ~87 |
-| Reincarnation | 15.00% | ~87 |
+| Ghost Buster | 15.00% | ~88 |
+| Iconoclasm | 15.00% | ~88 |
+| Reincarnation | 15.00% | ~88 |
 | Librarian | 13.00% | ~76 |
 | Orcs Must Die! | 13.00% | ~76 |
 | Gladiator | 12.00% | ~70 |
@@ -27,9 +27,9 @@
 | Explorer | 5.00% | ~29 |
 | Trio | 5.00% | ~29 |
 | Pyromancer | 4.00% | ~23 |
-| Arrive Home | 3.00% | ~17 |
-| Holy Knight | 3.00% | ~17 |
-| Spell Master | 3.00% | ~17 |
+| Arrive Home | 3.00% | ~18 |
+| Holy Knight | 3.00% | ~18 |
+| Spell Master | 3.00% | ~18 |
 | Hoarder | 2.00% | ~12 |
 | Marksman | 2.00% | ~12 |
 | Meat Lover | 2.00% | ~12 |
@@ -45,7 +45,7 @@
 | Cryomancer | 0.30% | ~2 |
 | Hardboiled | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 583 (Ranked 321)  
+Progressed: 584 (Ranked 321)  
 Completed: 1 (0.17%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 1 (0.17%) (Ranked 277)
 | 2023-12-19 | 561 | 1 |
 | 2023-12-20 | 572 | 1 |
 | 2023-12-21 | 581 | 1 |
-| 2023-12-22 | 583 | 1 |
+| 2023-12-22 | 584 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

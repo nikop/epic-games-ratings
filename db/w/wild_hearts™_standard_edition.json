@@ -18,7 +18,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 763,
+  "EOS_Progressed": 764,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 312,
   "EOS_NewCompleters": 0,
@@ -2653,6 +2653,11 @@
       "Time": "2023-12-22T07:08:49.5891914+00:00",
       "NumProgressed": 763,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-22T08:08:53.0979729+00:00",
+      "NumProgressed": 764,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -2665,7 +2670,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "achievement_10",
@@ -2673,7 +2678,7 @@
       "Name": "Karakuri Trail",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "achievement_11",
@@ -2705,7 +2710,7 @@
       "Name": "Fusion Conjuror",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "achievement_15",
@@ -2753,7 +2758,7 @@
       "Name": "Mountain Splitter",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "achievement_20",
@@ -2825,7 +2830,7 @@
       "Name": "Flawless Crystal",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "achievement_29",
@@ -2865,7 +2870,7 @@
       "Name": "Style Seeker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "achievement_33",
@@ -2929,7 +2934,7 @@
       "Name": "Axer of Auspice",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "achievement_40",
@@ -2953,7 +2958,7 @@
       "Name": "Quintessence of Form",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "achievement_43",
@@ -2977,7 +2982,7 @@
       "Name": "Helpful Heart",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "achievement_46",
@@ -3017,7 +3022,7 @@
       "Name": "Commencing of Quests",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "achievement_7",
@@ -3041,20 +3046,20 @@
       "Name": "Karakuri Minato",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     }
   ],
   "AchievementSets": [
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 763,
+      "Progressed": 764,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-22T07:08:49.5891912+00:00",
+  "LastChanged_Achievements": "2023-12-22T08:08:53.0979728+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:11.6761115+00:00",
-  "LastUpdate_Ratings": "2023-12-22T06:57:36.6662927+00:00",
-  "LastUpdate_Achievements": "2023-12-22T07:08:49.5892364+00:00"
+  "LastUpdate_Ratings": "2023-12-22T07:57:37.788561+00:00",
+  "LastUpdate_Achievements": "2023-12-22T08:08:53.0980113+00:00"
 }

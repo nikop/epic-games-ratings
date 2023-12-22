@@ -6,8 +6,10 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Able | 0.20% | ~32 |
 | Architect | 0.20% | ~32 |
 | Explorer | 0.20% | ~32 |
+| Good | 0.20% | ~32 |
 | Intrepid | 0.20% | ~32 |
 | Mason | 0.20% | ~32 |
 | Settler | 0.20% | ~32 |
@@ -41,10 +43,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Silver Victory (Carthage 3) | 0.10% | ~16 |
 | Carthage - Seizing Destiny | 0.10% | ~16 |
 | Bronze Victory (Carthage 4) | 0.10% | ~16 |
+| Gold Victory (Carthage 4) | 0.10% | ~16 |
 | Silver Victory (Carthage 4) | 0.10% | ~16 |
 | Carthage Campaign | 0.10% | ~16 |
 | Cleopatra's Love | 0.10% | ~16 |
-| Able | 0.10% | ~16 |
 | Ambitious | 0.10% | ~16 |
 | Ancient | 0.10% | ~16 |
 | Beloved | 0.10% | ~16 |
@@ -56,7 +58,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightened | 0.10% | ~16 |
 | Fountainhead | 0.10% | ~16 |
 | Glorious | 0.10% | ~16 |
-| Good | 0.10% | ~16 |
 | Great | 0.10% | ~16 |
 | Holy | 0.10% | ~16 |
 | Intercessor | 0.10% | ~16 |
@@ -231,7 +232,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Battle of Opis | 0.00% | ~0 |
 | Hagia Sophia in Byzantion | 0.00% | ~0 |
 | Epic Victory (Carthage 4) | 0.00% | ~0 |
-| Gold Victory (Carthage 4) | 0.00% | ~0 |
 | Avenger | 0.00% | ~0 |
 | Destroyer | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,867 (Ranked 160)  
+Progressed: 15,868 (Ranked 160)  
 Completed: 5 (0.03%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -611,7 +611,7 @@ Completed: 5 (0.03%) (Ranked 345)
 | 2023-12-19 | 15,840 | 5 |
 | 2023-12-20 | 15,854 | 5 |
 | 2023-12-21 | 15,865 | 5 |
-| 2023-12-22 | 15,867 | 5 |
+| 2023-12-22 | 15,868 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 279)  
 Sum: 1,907 (Ranked 220)  

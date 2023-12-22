@@ -6,6 +6,7 @@ Rating: 4.71 (Ranked 197)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Audiophile | 0.10% | ~8 |
+| Body and Soul | 0.10% | ~8 |
 | Energy Saver | 0.10% | ~8 |
 | Globe Trotter | 0.10% | ~8 |
 | In a Pinch | 0.10% | ~8 |
@@ -13,7 +14,6 @@ Rating: 4.71 (Ranked 197)
 | The Journey Onwards | 0.10% | ~8 |
 | Ahem Ahem | 0.00% | ~0 |
 | Arrr! | 0.00% | ~0 |
-| Body and Soul | 0.00% | ~0 |
 | Ça de Wizz! | 0.00% | ~0 |
 | Clay Pigeon | 0.00% | ~0 |
 | Fashion Faux-Pas | 0.00% | ~0 |

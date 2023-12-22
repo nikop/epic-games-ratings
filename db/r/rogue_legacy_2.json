@@ -1506,9 +1506,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 26166,
+  "EOS_Progressed": 26176,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 1958,
+  "EOS_NewPlayers": 1957,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -11411,6 +11411,11 @@
       "Time": "2023-12-22T07:09:22.043614+00:00",
       "NumProgressed": 26166,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-22T08:09:26.0199329+00:00",
+      "NumProgressed": 26176,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -11502,7 +11507,7 @@
       "Name": "Spells and Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1309
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -11510,7 +11515,7 @@
       "Name": "For Wrath",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "BossCaveDefeated",
@@ -11582,7 +11587,7 @@
       "Name": "Poise and Poisons",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -11590,7 +11595,7 @@
       "Name": "For Pride",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "BossTowerDefeated",
@@ -11598,7 +11603,7 @@
       "Name": "Suns and Soldiers",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "BoxerBoss",
@@ -11606,7 +11611,7 @@
       "Name": "K.O.",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "EnableHouseRules",
@@ -11694,7 +11699,7 @@
       "Name": "Just the Beginning",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "StoryTutorial",
@@ -11702,7 +11707,7 @@
       "Name": "Wasted Betrayal",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "TitleDrop",
@@ -11726,28 +11731,28 @@
       "Name": "Color Coordination",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 26166,
+      "Progressed": 26176,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 5096,
+      "Progressed": 5106,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-21T13:03:02.8051894+00:00",
-  "LastChanged_Achievements": "2023-12-22T07:09:22.0436137+00:00",
+  "LastChanged_Achievements": "2023-12-22T08:09:26.0199327+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:44.2937948+00:00",
-  "LastUpdate_Ratings": "2023-12-22T06:58:53.0773349+00:00",
-  "LastUpdate_Achievements": "2023-12-22T07:09:22.0437148+00:00"
+  "LastUpdate_Ratings": "2023-12-22T07:58:56.3114021+00:00",
+  "LastUpdate_Achievements": "2023-12-22T08:09:26.0199862+00:00"
 }

@@ -5,32 +5,32 @@ Rating: 3.83 (Ranked 1,048)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,719 |
+| Welcome to Moonbury | 98.00% | ~1,720 |
 | The First Step | 88.00% | ~1,544 |
-| Moonbury Traveller | 63.00% | ~1,105 |
-| Rookie Chemist | 61.00% | ~1,070 |
-| Great Doctor | 51.00% | ~895 |
+| Moonbury Traveller | 63.00% | ~1,106 |
+| Rookie Chemist | 61.00% | ~1,071 |
+| Great Doctor | 50.00% | ~878 |
 | Dog Whisperer | 48.00% | ~842 |
-| Friendly | 47.00% | ~824 |
+| Friendly | 47.00% | ~825 |
 | The Capitalist | 44.00% | ~772 |
-| K.O.! | 43.00% | ~754 |
+| K.O.! | 43.00% | ~755 |
 | Intermediate Chemist | 40.00% | ~702 |
-| Decorative Mind | 32.00% | ~561 |
-| Lumber Specialist | 32.00% | ~561 |
-| Kind-hearted | 25.00% | ~438 |
-| Catch of the Day | 25.00% | ~438 |
+| Decorative Mind | 32.00% | ~562 |
+| Lumber Specialist | 32.00% | ~562 |
+| Kind-hearted | 25.00% | ~439 |
+| Catch of the Day | 25.00% | ~439 |
 | Amateur Chef | 22.00% | ~386 |
-| Fishing Guru | 21.00% | ~368 |
+| Fishing Guru | 21.00% | ~369 |
 | Spark of Love | 18.00% | ~316 |
 | Community Helper | 17.00% | ~298 |
 | Expert Chemist | 14.00% | ~246 |
 | Stone Specialist | 14.00% | ~246 |
 | Sociable | 13.00% | ~228 |
-| Line Cook | 12.00% | ~210 |
-| Ablutomaniac | 12.00% | ~210 |
+| Line Cook | 12.00% | ~211 |
+| Ablutomaniac | 12.00% | ~211 |
 | Good Samaritan | 11.00% | ~193 |
 | Production Sorter | 11.00% | ~193 |
-| Acrobatic Adventurer | 9.00% | ~158 |
+| Acrobatic Adventurer | 10.00% | ~176 |
 | Animal Exterminator | 9.00% | ~158 |
 | Adolescent Love | 6.00% | ~105 |
 | Mail Carrier | 6.00% | ~105 |
@@ -44,7 +44,7 @@ Rating: 3.83 (Ranked 1,048)
 | Moonbury Navigator | 1.00% | ~18 |
 | Being a donut... | 0.70% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,754 (Ranked 241)  
+Progressed: 1,755 (Ranked 241)  
 Completed: 10 (0.57%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 10 (0.57%) (Ranked 201)
 | 2023-12-19 | 1,736 | 10 |
 | 2023-12-20 | 1,743 | 10 |
 | 2023-12-21 | 1,752 | 10 |
-| 2023-12-22 | 1,754 | 10 |
+| 2023-12-22 | 1,755 | 10 |
 ## Awards
 Max (Character Customization): 69  (Ranked 413)  
 Sum: 69 (Ranked 480)  

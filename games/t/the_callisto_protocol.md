@@ -5,17 +5,17 @@ Rating: 4.20 (Ranked 934)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 15.00% | ~2,779 |
-| The Outer Way | 15.00% | ~2,779 |
+| Flesh Wound | 15.00% | ~2,780 |
+| The Outer Way | 15.00% | ~2,780 |
 | Get a Grip | 14.00% | ~2,594 |
 | Paper Jams | 14.00% | ~2,594 |
 | Desperate Times | 13.00% | ~2,409 |
-| Chew 'Em Up | 11.00% | ~2,038 |
-| Float Like A Butterfly | 11.00% | ~2,038 |
+| Chew 'Em Up | 11.00% | ~2,039 |
+| Float Like A Butterfly | 11.00% | ~2,039 |
 | Reforged | 10.00% | ~1,853 |
 | Workplace Hazard | 9.00% | ~1,668 |
 | If the SHU Fits... | 9.00% | ~1,668 |
-| Without A Paddle | 8.00% | ~1,482 |
+| Without A Paddle | 8.00% | ~1,483 |
 | Two Heads Are Better Than One | 7.00% | ~1,297 |
 | In the Pipe, Five by Five | 7.00% | ~1,297 |
 | Crash Site | 7.00% | ~1,297 |
@@ -25,8 +25,8 @@ Rating: 4.20 (Ranked 934)
 | What Lies Beneath | 6.00% | ~1,112 |
 | Full Circle | 6.00% | ~1,112 |
 | Keep Fighting | 6.00% | ~387 |
-| Giving Back | 5.00% | ~926 |
-| I Do Belong Here | 5.00% | ~926 |
+| Giving Back | 5.00% | ~927 |
+| I Do Belong Here | 5.00% | ~927 |
 | It's Time | 5.00% | ~323 |
 | In Striking Distance | 3.00% | ~556 |
 | The Commonality | 3.00% | ~556 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 934)
 | Bear Trap | 0.10% | ~6 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,529 (Ranked 149)  
+Progressed: 18,532 (Ranked 149)  
 Completed: 82 (0.44%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 82 (0.44%) (Ranked 225)
 | 2023-12-19 | 18,137 | 82 |
 | 2023-12-20 | 18,301 | 82 |
 | 2023-12-21 | 18,465 | 82 |
-| 2023-12-22 | 18,529 | 82 |
+| 2023-12-22 | 18,532 | 82 |
 ## Awards
 Max (Quickly Understood Controls): 91  (Ranked 385)  
 Sum: 542 (Ranked 326)  

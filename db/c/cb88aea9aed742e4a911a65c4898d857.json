@@ -2,12 +2,12 @@
   "ID": "cb88aea9aed742e4a911a65c4898d857",
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
-  "Ranking_Rating": 130,
+  "Ranking_Rating": 131,
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 533,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 62,
+  "Ranking_EOS_NewPlayers": 63,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -125,9 +125,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 6157,
+  "EOS_Progressed": 6160,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2535,
+  "EOS_NewPlayers": 2525,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1895,6 +1895,11 @@
       "Time": "2023-12-22T07:09:17.6389358+00:00",
       "NumProgressed": 6157,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T08:09:21.7638667+00:00",
+      "NumProgressed": 6160,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -1907,7 +1912,7 @@
       "Name": "Conspiracy",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1601
+      "UsersEstimate": 1602
     },
     {
       "ID": "03_TheStolenStar",
@@ -1915,7 +1920,7 @@
       "Name": "Stolen Star",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -2011,7 +2016,7 @@
       "Name": "Pentakill",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "16_TheRise",
@@ -2019,7 +2024,7 @@
       "Name": "The Rise",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "17_TheExemplar",
@@ -2035,7 +2040,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "19_TheVoidWolf",
@@ -2123,15 +2128,15 @@
       "Name": "No Stone Unturned",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "30_The GreatestExploration",
       "SetID": "37a94m8",
       "Name": "Greatest Exploration",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 493
     },
     {
       "ID": "31_DontTouchThis",
@@ -2163,7 +2168,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -2426,7 +2431,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 6157,
+      "Progressed": 6160,
       "Completed": 0
     }
   ],
@@ -2434,8 +2439,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-21T13:02:03.5666365+00:00",
-  "LastChanged_Achievements": "2023-12-22T07:09:17.6389355+00:00",
+  "LastChanged_Achievements": "2023-12-22T08:09:21.7638664+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:04.5293385+00:00",
-  "LastUpdate_Ratings": "2023-12-22T06:57:57.8296855+00:00",
-  "LastUpdate_Achievements": "2023-12-22T07:09:17.6389941+00:00"
+  "LastUpdate_Ratings": "2023-12-22T07:57:59.8758864+00:00",
+  "LastUpdate_Achievements": "2023-12-22T08:09:21.7639133+00:00"
 }

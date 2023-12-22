@@ -5,52 +5,52 @@ Rating: 4.18 (Ranked 948)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~39,524 |
-| Har, Har, Har, Very Funny | 34.00% | ~26,876 |
-| Loose Ends | 33.00% | ~26,086 |
-| To the Victor Go the Spoils | 28.00% | ~22,133 |
-| Knighthood | 27.00% | ~21,343 |
-| Get ReQ'd | 25.00% | ~19,762 |
-| Whispered Words | 24.00% | ~18,972 |
-| The Batman Family | 22.00% | ~17,391 |
-| Lock and Key | 22.00% | ~17,391 |
-| Something in the Clay | 20.00% | ~15,810 |
-| Quartzer Life Crisis | 20.00% | ~15,810 |
-| Working Hard or Harley Working? | 20.00% | ~15,810 |
-| Unstoppable Force | 20.00% | ~15,810 |
-| Bad Apples in Every Orchard | 20.00% | ~15,810 |
-| Snow Problem | 19.00% | ~15,019 |
-| The Show Mud Go On | 18.00% | ~14,229 |
-| From Inside Gotham's Walls | 17.00% | ~13,438 |
+| First Step Into the Knight | 50.00% | ~39,526 |
+| Har, Har, Har, Very Funny | 34.00% | ~26,878 |
+| Loose Ends | 33.00% | ~26,087 |
+| To the Victor Go the Spoils | 28.00% | ~22,135 |
+| Knighthood | 27.00% | ~21,344 |
+| Get ReQ'd | 25.00% | ~19,763 |
+| Whispered Words | 24.00% | ~18,973 |
+| The Batman Family | 22.00% | ~17,392 |
+| Lock and Key | 22.00% | ~17,392 |
+| Something in the Clay | 20.00% | ~15,811 |
+| Quartzer Life Crisis | 20.00% | ~15,811 |
+| Working Hard or Harley Working? | 20.00% | ~15,811 |
+| Unstoppable Force | 20.00% | ~15,811 |
+| Bad Apples in Every Orchard | 20.00% | ~15,811 |
+| Snow Problem | 19.00% | ~15,020 |
+| The Show Mud Go On | 18.00% | ~14,230 |
+| From Inside Gotham's Walls | 17.00% | ~13,439 |
 | Protector of Gotham | 16.00% | ~12,648 |
 | Universal Health Scare | 16.00% | ~12,648 |
-| In Your Element | 15.00% | ~11,857 |
-| Voiceless | 15.00% | ~11,857 |
+| In Your Element | 15.00% | ~11,858 |
+| Voiceless | 15.00% | ~11,858 |
 | Rock and a Hard Place | 14.00% | ~11,067 |
 | Cooldown | 14.00% | ~11,067 |
 | Seeking Asylum | 14.00% | ~11,067 |
-| Not On My Watch | 13.00% | ~10,276 |
-| Shock Til They Drop | 13.00% | ~10,276 |
+| Not On My Watch | 13.00% | ~10,277 |
+| Shock Til They Drop | 13.00% | ~10,277 |
 | End of an Era | 12.00% | ~9,486 |
 | Bulldozed | 12.00% | ~9,486 |
 | Gotham Knight | 12.00% | ~9,486 |
-| Gotham City Confidential | 11.00% | ~8,695 |
+| Gotham City Confidential | 11.00% | ~8,696 |
 | Drone You Out | 10.00% | ~7,905 |
-| Out of Their League | 9.00% | ~7,114 |
-| Solid Alibi | 9.00% | ~7,114 |
-| Fusion Expert | 7.00% | ~5,533 |
+| Out of Their League | 9.00% | ~7,115 |
+| Solid Alibi | 9.00% | ~7,115 |
+| Fusion Expert | 7.00% | ~5,534 |
 | Family Meeting | 6.00% | ~4,743 |
 | A Worthy Successor | 6.00% | ~4,743 |
-| Expert Crime Fighter | 5.00% | ~3,952 |
+| Expert Crime Fighter | 5.00% | ~3,953 |
 | Dressed to Impress | 4.00% | ~3,162 |
-| A Momentum Occasion | 3.00% | ~2,371 |
-| Bat Out of Hell | 3.00% | ~2,371 |
+| A Momentum Occasion | 3.00% | ~2,372 |
+| Bat Out of Hell | 3.00% | ~2,372 |
 | Practice Makes Perfect | 2.00% | ~1,581 |
 | He'd Be So Proud of You | 2.00% | ~1,581 |
-| Talonted | 1.00% | ~790 |
-| The Man-Bat Family | 1.00% | ~790 |
-| Batarang Collector | 1.00% | ~790 |
-| Claiming the Mural High Ground | 1.00% | ~790 |
+| Talonted | 1.00% | ~791 |
+| The Man-Bat Family | 1.00% | ~791 |
+| Batarang Collector | 1.00% | ~791 |
+| Claiming the Mural High Ground | 1.00% | ~791 |
 | Icebreaker | 0.80% | ~395 |
 | History Major | 0.80% | ~632 |
 | A Sophisticated Mallet | 0.80% | ~395 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 948)
 | The Cold, the Bad and the Ugly | 0.30% | ~148 |
 | It's Nice to Be Wanted | 0.20% | ~99 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,048 (Ranked 102)  
+Progressed: 79,053 (Ranked 102)  
 Completed: 126 (0.16%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 126 (0.16%) (Ranked 281)
 | 2023-12-19 | 78,757 | 126 |
 | 2023-12-20 | 78,864 | 126 |
 | 2023-12-21 | 79,000 | 126 |
-| 2023-12-22 | 79,048 | 126 |
+| 2023-12-22 | 79,053 | 126 |
 ## Awards
 Max (Great Boss Battles): 3,036  (Ranked 99)  
 Sum: 5,196 (Ranked 142)  

@@ -6,25 +6,25 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 9.00% | ~352 |
+| Malpractice Assurance | 9.00% | ~353 |
 | Lost and Found | 6.00% | ~235 |
 | This guy... again? | 5.00% | ~196 |
 | This Belongs in a Museum | 4.00% | ~5,162 |
 | Autodidact | 4.00% | ~5,162 |
 | Ploughshares to Swords | 4.00% | ~157 |
 | Bloody Graduation | 4.00% | ~157 |
-| Don't Make Me Turn This Coach Around | 3.00% | ~3,871 |
-| Serenity Now! | 3.00% | ~3,871 |
-| Not Today! | 3.00% | ~3,871 |
-| Creep and Sleep | 3.00% | ~3,871 |
-| Meat and Greet | 3.00% | ~3,871 |
-| Catch and Decease | 3.00% | ~3,871 |
-| Overdue Notice | 3.00% | ~3,871 |
-| Escape from the Black Hole | 3.00% | ~3,871 |
-| Rush Hour | 3.00% | ~3,871 |
-| To Grandmother's House | 3.00% | ~3,871 |
-| FNG | 3.00% | ~3,871 |
-| Friends 'Til the End | 3.00% | ~117 |
+| Don't Make Me Turn This Coach Around | 3.00% | ~3,872 |
+| Serenity Now! | 3.00% | ~3,872 |
+| Not Today! | 3.00% | ~3,872 |
+| Creep and Sleep | 3.00% | ~3,872 |
+| Meat and Greet | 3.00% | ~3,872 |
+| Catch and Decease | 3.00% | ~3,872 |
+| Overdue Notice | 3.00% | ~3,872 |
+| Escape from the Black Hole | 3.00% | ~3,872 |
+| Rush Hour | 3.00% | ~3,872 |
+| To Grandmother's House | 3.00% | ~3,872 |
+| FNG | 3.00% | ~3,872 |
+| Friends 'Til the End | 3.00% | ~118 |
 | It Rings a Bell | 2.00% | ~2,581 |
 | Resurrection | 2.00% | ~2,581 |
 | Unleash Hell | 2.00% | ~2,581 |
@@ -45,26 +45,26 @@ Number of Ratings: 7,767  (23.09.2022)
 | Nope | 2.00% | ~2,581 |
 | Unshackled | 2.00% | ~2,581 |
 | Road Trip | 2.00% | ~2,581 |
-| Wyrdly Reconstructed | 1.00% | ~1,290 |
-| Boxcar Kid | 1.00% | ~1,290 |
-| Hope Rekindled | 1.00% | ~1,290 |
-| Predator | 1.00% | ~1,290 |
-| Ichthyophobic | 1.00% | ~1,290 |
-| No More Mouths to Feed | 1.00% | ~1,290 |
-| Reverse Banditry | 1.00% | ~1,290 |
-| A Clear Conscience | 1.00% | ~1,290 |
-| When You Want Something Done Right | 1.00% | ~1,290 |
-| Worldly Traveller | 1.00% | ~1,290 |
-| Utopia | 1.00% | ~1,290 |
-| Hot Air | 1.00% | ~1,290 |
-| Eyes Up | 1.00% | ~1,290 |
+| Wyrdly Reconstructed | 1.00% | ~1,291 |
+| Boxcar Kid | 1.00% | ~1,291 |
+| Hope Rekindled | 1.00% | ~1,291 |
+| Predator | 1.00% | ~1,291 |
+| Ichthyophobic | 1.00% | ~1,291 |
+| No More Mouths to Feed | 1.00% | ~1,291 |
+| Reverse Banditry | 1.00% | ~1,291 |
+| A Clear Conscience | 1.00% | ~1,291 |
+| When You Want Something Done Right | 1.00% | ~1,291 |
+| Worldly Traveller | 1.00% | ~1,291 |
+| Utopia | 1.00% | ~1,291 |
+| Hot Air | 1.00% | ~1,291 |
+| Eyes Up | 1.00% | ~1,291 |
 | This Looks Familiar | 0.90% | ~1,161 |
 | Slap on the Wrist | 0.90% | ~35 |
 | For Old Time' Sake | 0.80% | ~31 |
 | Handled | 0.70% | ~903 |
 | Body of Work | 0.70% | ~903 |
 | Shrine of Reflection | 0.60% | ~774 |
-| Et Tu, Riposte? | 0.60% | ~23 |
+| Et Tu, Riposte? | 0.60% | ~24 |
 | Clearing the Ledger | 0.50% | ~645 |
 | Triage | 0.50% | ~645 |
 | Hat Trick | 0.40% | ~516 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,047 (Ranked 86)  
+Progressed: 129,052 (Ranked 86)  
 Completed: 3 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,15 +322,15 @@ Completed: 3 (0.00%) (Ranked 384)
 | 2023-12-19 | 128,605 | 3 |
 | 2023-12-20 | 128,785 | 3 |
 | 2023-12-21 | 128,979 | 3 |
-| 2023-12-22 | 129,047 | 3 |
+| 2023-12-22 | 129,052 | 3 |
 ## Awards
 Max (Character Customization): 7,823  (Ranked 50)  
-Sum: 20,913 (Ranked 58)  
+Sum: 20,920 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,823 |
-| This game has Diverse Characters | 1,747 |
+| This game has Diverse Characters | 1,754 |
 | This game has Challenging Combat | 1,619 |
 | This game is Highly Recommended | 1,557 |
 | This game is Extremely Fun | 1,481 |
@@ -672,4 +672,4 @@ Diff (max vs sum): -8
 | 2023-12-19 | 4.68 | - | 7,795 | 20,806 |
 | 2023-12-20 | 4.68 | - | 7,805 | 20,840 |
 | 2023-12-21 | 4.68 | - | 7,823 | 20,903 |
-| 2023-12-22 | 4.68 | - | 7,823 | 20,913 |
+| 2023-12-22 | 4.68 | - | 7,823 | 20,920 |

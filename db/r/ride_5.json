@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2842,
+  "EOS_Progressed": 2843,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 306,
+  "EOS_NewPlayers": 305,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6937,6 +6937,11 @@
       "Time": "2023-12-22T07:03:16.9256759+00:00",
       "NumProgressed": 2842,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T08:03:21.5183585+00:00",
+      "NumProgressed": 2843,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -6947,9 +6952,9 @@
       "ID": "ML_ACHIEVEMENT_01",
       "SetID": "c7hf6a4",
       "Name": "First Love",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1222
+      "UsersEstimate": 1251
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -7005,7 +7010,7 @@
       "Name": "I Want One Too!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -7021,7 +7026,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -7053,7 +7058,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -7340,14 +7345,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2842,
+      "Progressed": 2843,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-22T07:03:16.9256757+00:00",
+  "LastChanged_Achievements": "2023-12-22T08:03:21.5183581+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:35.5257739+00:00",
-  "LastUpdate_Ratings": "2023-12-22T06:59:28.3550578+00:00",
-  "LastUpdate_Achievements": "2023-12-22T07:03:16.9257545+00:00"
+  "LastUpdate_Ratings": "2023-12-22T07:59:32.673421+00:00",
+  "LastUpdate_Achievements": "2023-12-22T08:03:21.518465+00:00"
 }

@@ -6,11 +6,11 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~13,838 |
-| Finding Your Footing | 25.00% | ~12,813 |
+| Rookie | 27.00% | ~13,839 |
+| Finding Your Footing | 25.00% | ~12,814 |
 | Nomad | 17.00% | ~8,713 |
 | Picking Up Speed | 15.00% | ~7,688 |
-| Welcome Maya | 14.00% | ~7,175 |
+| Welcome Maya | 14.00% | ~7,176 |
 | Scout | 11.00% | ~5,638 |
 | Sightseer | 11.00% | ~5,638 |
 | Amateur | 10.00% | ~5,125 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~51 |
 | Windswept | 0.10% | ~51 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,252 (Ranked 118)  
+Progressed: 51,254 (Ranked 118)  
 Completed: 5 (0.01%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 5 (0.01%) (Ranked 361)
 | 2023-12-19 | 50,899 | 5 |
 | 2023-12-20 | 51,064 | 5 |
 | 2023-12-21 | 51,212 | 5 |
-| 2023-12-22 | 51,252 | 5 |
+| 2023-12-22 | 51,254 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 49  (Ranked 445)  
 Sum: 387 (Ranked 351)  

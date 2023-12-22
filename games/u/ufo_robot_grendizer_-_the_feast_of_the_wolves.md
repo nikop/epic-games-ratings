@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escape from Fleed | 50.00% | ~9 |
-| First Contact | 44.00% | ~8 |
+| Escape from Fleed | 56.00% | ~10 |
+| First Contact | 50.00% | ~9 |
 | Strength in Defeat | 44.00% | ~8 |
 | The Remains of Fleed | 44.00% | ~8 |
 | Life of Pi | 44.00% | ~8 |

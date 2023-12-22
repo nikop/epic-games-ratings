@@ -567,9 +567,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5958,
+  "EOS_Progressed": 5959,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 298,
+  "EOS_NewPlayers": 297,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8742,6 +8742,11 @@
       "Time": "2023-12-22T07:05:39.83404+00:00",
       "NumProgressed": 5958,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-22T08:05:44.071193+00:00",
+      "NumProgressed": 5959,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -8873,7 +8878,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "24",
@@ -8889,7 +8894,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "26",
@@ -9232,13 +9237,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5958,
+      "Progressed": 5959,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5958,
+      "Progressed": 5959,
       "Completed": 7
     }
   ],
@@ -9246,8 +9251,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-20T07:59:25.4319145+00:00",
-  "LastChanged_Achievements": "2023-12-22T07:05:39.8340396+00:00",
+  "LastChanged_Achievements": "2023-12-22T08:05:44.0711927+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.6868317+00:00",
-  "LastUpdate_Ratings": "2023-12-22T06:57:27.4440017+00:00",
-  "LastUpdate_Achievements": "2023-12-22T07:05:39.8341627+00:00"
+  "LastUpdate_Ratings": "2023-12-22T07:57:28.6194393+00:00",
+  "LastUpdate_Achievements": "2023-12-22T08:05:44.0712614+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "creepy-tale-3-ingrid-penance-1daff4",
   "Ranking_EOS_Progress": 530,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewPlayers": 336,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 49,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -392,9 +392,9 @@
       "ID": "creepytale3_ach_27",
       "SetID": "7idcjbn",
       "Name": "Mimic",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "creepytale3_ach_3",
@@ -535,8 +535,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2023-12-22T07:06:28.4428688+00:00",
+  "LastChanged_Achievements": "2023-12-22T08:06:33.0829734+00:00",
   "LastUpdate_AppInfo": "2023-12-20T07:56:51.9801236+00:00",
-  "LastUpdate_Ratings": "2023-12-22T06:02:50.7173408+00:00",
-  "LastUpdate_Achievements": "2023-12-22T07:06:28.4428905+00:00"
+  "LastUpdate_Ratings": "2023-12-22T07:56:57.8371758+00:00",
+  "LastUpdate_Achievements": "2023-12-22T08:06:33.0829921+00:00"
 }

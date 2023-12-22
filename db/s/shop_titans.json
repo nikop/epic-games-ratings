@@ -2,7 +2,7 @@
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
-  "Ranking_Rating": 1021,
+  "Ranking_Rating": 1022,
   "Ranking_Popularity": 75,
   "Ranking_PopularitySum": 52,
   "Ranking_EOS_Progress": 82,
@@ -7625,10 +7625,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27772,
       "NumberOfAwardsMax": 4900
+    },
+    {
+      "Time": "2023-12-22T08:03:05.0034961+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27773,
+      "NumberOfAwardsMax": 4900
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27772,
+  "NumberOfAwards": 27773,
   "NumberOfAwardsMax": 4900,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7654,7 +7660,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 3750
+      "Count": 3751
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -7681,7 +7687,7 @@
       "Count": 3801
     }
   ],
-  "EOS_Progressed": 146867,
+  "EOS_Progressed": 146871,
   "EOS_Completed": 329,
   "EOS_NewPlayers": 1326,
   "EOS_NewCompleters": 20,
@@ -33426,6 +33432,11 @@
       "Time": "2023-12-22T07:04:23.3251301+00:00",
       "NumProgressed": 146867,
       "NumCompleted": 329
+    },
+    {
+      "Time": "2023-12-22T08:04:27.2786815+00:00",
+      "NumProgressed": 146871,
+      "NumCompleted": 329
     }
   ],
   "TotalAchievements": 112,
@@ -33517,7 +33528,7 @@
       "Name": "One Easy Payment",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7343
+      "UsersEstimate": 7344
     },
     {
       "ID": "bigsale02",
@@ -33541,7 +33552,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7343
+      "UsersEstimate": 7344
     },
     {
       "ID": "blueprint02",
@@ -33669,7 +33680,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11749
+      "UsersEstimate": 11750
     },
     {
       "ID": "commonres02",
@@ -33789,7 +33800,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7343
+      "UsersEstimate": 7344
     },
     {
       "ID": "energy02",
@@ -33909,15 +33920,15 @@
       "Name": "Tinkle of Coins",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11749
+      "UsersEstimate": 11750
     },
     {
       "ID": "gold02",
       "SetID": "anfd17p",
       "Name": "Pretty Penny",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 5875
+      "UsersEstimate": 7344
     },
     {
       "ID": "gold03",
@@ -34021,7 +34032,7 @@
       "Name": "Budding Merchant",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 7343
+      "UsersEstimate": 7344
     },
     {
       "ID": "level02",
@@ -34301,7 +34312,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7343
+      "UsersEstimate": 7344
     },
     {
       "ID": "workers02",
@@ -34332,15 +34343,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 146867,
+      "Progressed": 146871,
       "Completed": 329
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-12-22T03:03:15.9955299+00:00",
-  "LastChanged_Achievements": "2023-12-22T07:04:23.3251299+00:00",
+  "LastChanged": "2023-12-22T08:03:05.0034959+00:00",
+  "LastChanged_Achievements": "2023-12-22T08:04:27.2786813+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.001195+00:00",
-  "LastUpdate_Ratings": "2023-12-22T07:03:01.4127798+00:00",
-  "LastUpdate_Achievements": "2023-12-22T07:04:23.3253394+00:00"
+  "LastUpdate_Ratings": "2023-12-22T08:03:05.0034965+00:00",
+  "LastUpdate_Achievements": "2023-12-22T08:04:27.278904+00:00"
 }

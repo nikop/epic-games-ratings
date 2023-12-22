@@ -6,12 +6,12 @@ Number of Ratings: 1,331  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spells and Swords | 5.00% | ~1,308 |
+| Spells and Swords | 5.00% | ~1,309 |
 | Captain and Crew | 4.00% | ~1,047 |
 | Harvest and Home | 3.00% | ~785 |
 | No Harm in Looking | 3.00% | ~785 |
-| Poise and Poisons | 2.00% | ~523 |
-| Suns and Soldiers | 2.00% | ~523 |
+| Poise and Poisons | 2.00% | ~524 |
+| Suns and Soldiers | 2.00% | ~524 |
 | Hands and Hammers | 1.00% | ~262 |
 | King and Kin | 1.00% | ~262 |
 | Progenitor and Protégé | 1.00% | ~262 |
@@ -25,12 +25,12 @@ Number of Ratings: 1,331  (23.09.2022)
 | For Survival | 0.40% | ~105 |
 | For Love | 0.40% | ~105 |
 | Jack of all Trades | 0.40% | ~105 |
-| For Wrath | 0.30% | ~78 |
-| For Pride | 0.30% | ~78 |
-| K.O. | 0.30% | ~78 |
-| Just the Beginning | 0.30% | ~78 |
-| Wasted Betrayal | 0.30% | ~78 |
-| Color Coordination | 0.30% | ~78 |
+| For Wrath | 0.30% | ~79 |
+| For Pride | 0.30% | ~79 |
+| K.O. | 0.30% | ~79 |
+| Just the Beginning | 0.30% | ~79 |
+| Wasted Betrayal | 0.30% | ~79 |
+| Color Coordination | 0.30% | ~79 |
 | Black-shoppe | 0.20% | ~52 |
 | For Greed | 0.20% | ~52 |
 | For Penance | 0.20% | ~52 |
@@ -46,7 +46,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,166 (Ranked 138)  
+Progressed: 26,176 (Ranked 138)  
 Completed: 35 (0.13%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 35 (0.13%) (Ranked 290)
 | 2023-12-19 | 25,732 | 35 |
 | 2023-12-20 | 25,943 | 35 |
 | 2023-12-21 | 26,118 | 35 |
-| 2023-12-22 | 26,166 | 35 |
+| 2023-12-22 | 26,176 | 35 |
 ## Awards
 Max (Extremely Fun): 224  (Ranked 284)  
 Sum: 1,705 (Ranked 225)  

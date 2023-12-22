@@ -2184,7 +2184,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15867,
+  "EOS_Progressed": 15868,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
@@ -18084,6 +18084,11 @@
       "Time": "2023-12-22T03:10:04.4153349+00:00",
       "NumProgressed": 15867,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-22T08:09:32.4927277+00:00",
+      "NumProgressed": 15868,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -18389,9 +18394,9 @@
       "ID": "ACHIEVEMENT_CARTHAGE_4_GOLD",
       "SetID": "9201eeb",
       "Name": "Gold Victory (Carthage 4)",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_4_SILVER",
@@ -18421,9 +18426,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_ABLE",
       "SetID": "7l38kb8",
       "Name": "Able",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AMBITIOUS",
@@ -18549,9 +18554,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_GOOD",
       "SetID": "7l38kb8",
       "Name": "Good",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GREAT",
@@ -20958,21 +20963,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15867,
+      "Progressed": 15868,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15867,
+      "Progressed": 15868,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-22T01:47:48.5403593+00:00",
-  "LastChanged_Achievements": "2023-12-22T07:09:28.2510307+00:00",
+  "LastChanged_Achievements": "2023-12-22T08:09:32.4927275+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:47.4773202+00:00",
-  "LastUpdate_Ratings": "2023-12-22T07:02:49.7346567+00:00",
-  "LastUpdate_Achievements": "2023-12-22T07:09:28.2519733+00:00"
+  "LastUpdate_Ratings": "2023-12-22T08:02:53.370139+00:00",
+  "LastUpdate_Achievements": "2023-12-22T08:09:32.4936972+00:00"
 }

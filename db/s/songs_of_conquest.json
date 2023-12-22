@@ -2,12 +2,12 @@
   "ID": "3a18db06dff0465b8a58308aa29020a0",
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
-  "Ranking_Rating": 231,
+  "Ranking_Rating": 230,
   "Ranking_Popularity": 524,
   "Ranking_PopularitySum": 412,
-  "Ranking_EOS_Progress": 310,
+  "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,7 +438,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 637,
+  "EOS_Progressed": 638,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
@@ -2508,6 +2508,11 @@
       "Time": "2023-12-22T07:08:27.0054379+00:00",
       "NumProgressed": 637,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T08:08:30.5697694+00:00",
+      "NumProgressed": 638,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2544,7 +2549,7 @@
       "Name": "Dressed For Success",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "AttackCount",
@@ -2664,7 +2669,7 @@
       "Name": "Double Kill",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "FlameAttackKillCount",
@@ -2784,7 +2789,7 @@
       "Name": "Don\u0027t Touch My Stuff",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "RepelIntoExplosiveFungi",
@@ -2832,7 +2837,7 @@
       "Name": "Trojan Horse",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "UltraKill",
@@ -2951,15 +2956,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 637,
+      "Progressed": 638,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-22T07:08:27.0054377+00:00",
+  "LastChanged_Achievements": "2023-12-22T08:08:30.5697692+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:10.4027668+00:00",
-  "LastUpdate_Ratings": "2023-12-22T06:58:42.6383738+00:00",
-  "LastUpdate_Achievements": "2023-12-22T07:08:27.0054944+00:00"
+  "LastUpdate_Ratings": "2023-12-22T07:58:45.5438037+00:00",
+  "LastUpdate_Achievements": "2023-12-22T08:08:30.5698063+00:00"
 }

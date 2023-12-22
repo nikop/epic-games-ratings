@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 523,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
@@ -557,9 +557,9 @@
       "ID": "Collect_Artifact_Angel_50",
       "SetID": "7a5k76n",
       "Name": "Holy Keeper",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Collect_Artifact_Demon_50",
@@ -581,9 +581,9 @@
       "ID": "Collect_HealthStone_CapacityUpgrade_1",
       "SetID": "7a5k76n",
       "Name": "Increased Capacity",
-      "Percentage": 63,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_4",
@@ -613,9 +613,9 @@
       "ID": "Collect_Hollow_Flame",
       "SetID": "7a5k76n",
       "Name": "Fight Fire with Fire",
-      "Percentage": 70,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Collect_Hollow_Force",
@@ -877,9 +877,9 @@
       "ID": "Kill_Sin_Envy",
       "SetID": "7a5k76n",
       "Name": "Green with Envy",
-      "Percentage": 81,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Kill_Sin_Gluttony",
@@ -981,9 +981,9 @@
       "ID": "Spend_AttributePoint_1",
       "SetID": "7a5k76n",
       "Name": "First of many\u2026",
-      "Percentage": 76,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "Spend_AttributePoint_25",
@@ -1045,8 +1045,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2023-12-21T01:44:47.7904418+00:00",
-  "LastChanged_Achievements": "2023-12-22T07:04:52.8519263+00:00",
+  "LastChanged_Achievements": "2023-12-22T08:04:56.6020739+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:38.9666493+00:00",
-  "LastUpdate_Ratings": "2023-12-22T06:59:02.2486698+00:00",
-  "LastUpdate_Achievements": "2023-12-22T07:04:52.8519755+00:00"
+  "LastUpdate_Ratings": "2023-12-22T07:59:06.4473952+00:00",
+  "LastUpdate_Achievements": "2023-12-22T08:04:56.6021122+00:00"
 }

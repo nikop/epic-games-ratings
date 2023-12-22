@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 252381,
+  "EOS_Progressed": 252382,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 238,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21887,6 +21887,11 @@
       "Time": "2023-12-22T07:09:25.8794531+00:00",
       "NumProgressed": 252381,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-22T08:09:29.6644409+00:00",
+      "NumProgressed": 252382,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -22114,7 +22119,7 @@
       "Name": "Lazy Laser",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 20190
+      "UsersEstimate": 20191
     },
     {
       "ID": "lockupLockdown",
@@ -22138,7 +22143,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126190
+      "UsersEstimate": 126191
     },
     {
       "ID": "notScared",
@@ -22265,7 +22270,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 252381,
+      "Progressed": 252382,
       "Completed": 6
     }
   ],
@@ -22273,8 +22278,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-12-22T07:09:25.8794529+00:00",
+  "LastChanged_Achievements": "2023-12-22T08:09:29.6644406+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.4778344+00:00",
-  "LastUpdate_Ratings": "2023-12-22T06:59:46.0480125+00:00",
-  "LastUpdate_Achievements": "2023-12-22T07:09:25.879592+00:00"
+  "LastUpdate_Ratings": "2023-12-22T07:59:50.4890712+00:00",
+  "LastUpdate_Achievements": "2023-12-22T08:09:29.6645577+00:00"
 }

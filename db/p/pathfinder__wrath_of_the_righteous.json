@@ -2,7 +2,7 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 130,
+  "Ranking_Rating": 131,
   "Ranking_Popularity": 124,
   "Ranking_PopularitySum": 123,
   "Ranking_EOS_Progress": 168,
@@ -4667,9 +4667,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12590,
+  "EOS_Progressed": 12592,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 258,
+  "EOS_NewPlayers": 257,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17632,6 +17632,11 @@
       "Time": "2023-12-22T07:09:40.6563648+00:00",
       "NumProgressed": 12590,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T08:09:44.5012088+00:00",
+      "NumProgressed": 12592,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -17643,7 +17648,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3399
+      "UsersEstimate": 3400
     },
     {
       "ID": "02_BurningCity",
@@ -17651,7 +17656,7 @@
       "Name": "Burning City",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2266
+      "UsersEstimate": 2267
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -17779,7 +17784,7 @@
       "Name": "Mythic Choices",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1888
+      "UsersEstimate": 1889
     },
     {
       "ID": "19_EqualToAroden",
@@ -17851,7 +17856,7 @@
       "Name": "Great Upstart",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "29_StrategicVictory",
@@ -17891,7 +17896,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2014
+      "UsersEstimate": 2015
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -17995,7 +18000,7 @@
       "Name": "All Paths Open",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -18570,21 +18575,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11372,
+      "Progressed": 11374,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12590,
+      "Progressed": 12592,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-22T03:58:13.0642392+00:00",
-  "LastChanged_Achievements": "2023-12-22T07:09:40.6563646+00:00",
+  "LastChanged_Achievements": "2023-12-22T08:09:44.5012087+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.7532096+00:00",
-  "LastUpdate_Ratings": "2023-12-22T06:58:20.3169755+00:00",
-  "LastUpdate_Achievements": "2023-12-22T07:09:40.6565359+00:00"
+  "LastUpdate_Ratings": "2023-12-22T07:58:22.4194795+00:00",
+  "LastUpdate_Achievements": "2023-12-22T08:09:44.5013653+00:00"
 }

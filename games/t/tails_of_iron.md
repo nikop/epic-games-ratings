@@ -15,17 +15,17 @@ Rating: 4.55 (Ranked 510)
 | Defeat Croakhis Khan | 0.40% | ~4 |
 | Shield Maiden Yellow Tongue | 0.40% | ~4 |
 | I Remember My First Beer | 0.40% | ~4 |
+| Return the Statues | 0.30% | ~7 |
 | Complete the Chefs Book | 0.30% | ~7 |
 | Defeat Ratnor Rodentson | 0.30% | ~7 |
+| Defeat Rattus Augustail | 0.30% | ~7 |
 | Ranged Weapon | 0.30% | ~7 |
 | Defeat 25 Frogs | 0.30% | ~7 |
 | Collect Gold | 0.20% | ~5 |
 | Collect Iron Ore | 0.20% | ~5 |
 | Collect Monster Parts | 0.20% | ~5 |
-| Return the Statues | 0.20% | ~5 |
 | Complete Elder Faction | 0.20% | ~5 |
 | Complete Ranger Faction | 0.20% | ~5 |
-| Defeat Rattus Augustail | 0.20% | ~5 |
 | Two Handed Weapon | 0.20% | ~5 |
 | Defeat 25 Grubs | 0.20% | ~5 |
 | Defeat 25 Mozis | 0.20% | ~5 |

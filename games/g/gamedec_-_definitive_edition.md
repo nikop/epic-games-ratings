@@ -6,16 +6,16 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~74,035 |
-| Powergamer | 27.00% | ~68,929 |
-| Write that down | 25.00% | ~63,823 |
-| Barely scratched the surface | 25.00% | ~63,823 |
+| I will finish what you started | 29.00% | ~74,036 |
+| Powergamer | 27.00% | ~68,930 |
+| Write that down | 25.00% | ~63,824 |
+| Barely scratched the surface | 25.00% | ~63,824 |
 | Guns, lots of guns | 13.00% | ~33,188 |
-| Collector | 12.00% | ~30,635 |
-| Elementary! | 9.00% | ~22,976 |
-| Griever | 8.00% | ~20,423 |
-| Pumpkin Jack | 8.00% | ~20,423 |
-| Wake up! | 8.00% | ~20,423 |
+| Collector | 12.00% | ~30,636 |
+| Elementary! | 9.00% | ~22,977 |
+| Griever | 8.00% | ~20,424 |
+| Pumpkin Jack | 8.00% | ~20,424 |
+| Wake up! | 8.00% | ~20,424 |
 | It's honest work | 7.00% | ~17,871 |
 | Me smart | 6.00% | ~15,318 |
 | Trash compactor | 6.00% | ~15,318 |
@@ -43,8 +43,8 @@ Number of Ratings: 33  (23.09.2022)
 | SysOp on duty | 1.00% | ~2,553 |
 | Take the blue pill | 1.00% | ~2,553 |
 | The power of three | 1.00% | ~2,553 |
-| Let's try another | 0.90% | ~2,298 |
 | It's blue, always blue | 0.80% | ~2,042 |
+| Let's try another | 0.80% | ~2,042 |
 | Home run | 0.80% | ~2,042 |
 | I have the high ground | 0.70% | ~1,787 |
 | Enjoy these little moments | 0.50% | ~1,276 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~511 |
 | Memory 5 | 0.10% | ~255 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,293 (Ranked 63)  
+Progressed: 255,296 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 7 (0.00%) (Ranked 384)
 | 2023-12-19 | 255,106 | 7 |
 | 2023-12-20 | 255,178 | 7 |
 | 2023-12-21 | 255,268 | 7 |
-| 2023-12-22 | 255,293 | 7 |
+| 2023-12-22 | 255,296 | 7 |
 ## Awards
 Max (Character Customization): 92  (Ranked 383)  
 Sum: 92 (Ranked 462)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 480,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -299,9 +299,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 89,
+  "EOS_Progressed": 90,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -584,6 +584,11 @@
       "Time": "2023-12-22T01:50:32.0481645+00:00",
       "NumProgressed": 89,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T08:05:26.1191714+00:00",
+      "NumProgressed": 90,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -618,7 +623,7 @@
       "ID": "ACH_ABILITY_ECM",
       "SetID": "cefn62b",
       "Name": "Deincarnated",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
       "UsersEstimate": 21
     },
@@ -658,7 +663,7 @@
       "ID": "ACH_ABILITY_SCANINHOLOBOB",
       "SetID": "cefn62b",
       "Name": "I Look Up As I Walk to Takoshima",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 15,
       "UsersEstimate": 49
     },
@@ -666,7 +671,7 @@
       "ID": "ACH_ABILITY_SMASHBUTTON",
       "SetID": "cefn62b",
       "Name": "Rock of the Bay",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
       "UsersEstimate": 21
     },
@@ -674,15 +679,15 @@
       "ID": "ACH_ABILITY_TRANSMOG",
       "SetID": "cefn62b",
       "Name": "Freshly Squeezed",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_ABILITY_WITHWEAPON",
       "SetID": "cefn62b",
       "Name": "Lie Back and Think of Albion",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 15,
       "UsersEstimate": 56
     },
@@ -698,7 +703,7 @@
       "ID": "ACH_CHALLENGE_ANY",
       "SetID": "cefn62b",
       "Name": "Furon Fashion",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
       "UsersEstimate": 22
     },
@@ -722,7 +727,7 @@
       "ID": "ACH_CHALLENGE_RAMPAGETHREESTAR",
       "SetID": "cefn62b",
       "Name": "If You Know What I Mean",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 30,
       "UsersEstimate": 13
     },
@@ -746,15 +751,15 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "cefn62b",
       "Name": "Earthly Pleasures",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_COLLECT_BRAINWHILEDAMAGED",
       "SetID": "cefn62b",
       "Name": "Kaijuiced",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 15,
       "UsersEstimate": 61
     },
@@ -762,17 +767,17 @@
       "ID": "ACH_COLLECT_PROBE",
       "SetID": "cefn62b",
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_COMBAT_EVADEBAZOOKA",
       "SetID": "cefn62b",
       "Name": "Die Nasty",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_ENEMY_KILLARMQUIST",
@@ -794,7 +799,7 @@
       "ID": "ACH_ENEMY_KILLSWITHEXPLOSIVE",
       "SetID": "cefn62b",
       "Name": "Lobster Blisque",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
       "UsersEstimate": 45
     },
@@ -826,7 +831,7 @@
       "ID": "ACH_INVADE_ROCKWELL",
       "SetID": "cefn62b",
       "Name": "Pimp My Raid",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
       "UsersEstimate": 37
     },
@@ -834,25 +839,25 @@
       "ID": "ACH_INVADE_SANTAMODESTA",
       "SetID": "cefn62b",
       "Name": "Upgreatest",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_INVADE_TURNIPSEED",
       "SetID": "cefn62b",
       "Name": "Shop Til They Drop",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_INVADE_UNIONTOWN",
       "SetID": "cefn62b",
       "Name": "Mash Machine",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_JETPACK_INTODONUT",
@@ -866,9 +871,9 @@
       "ID": "ACH_MENU_FURONIGAMI",
       "SetID": "cefn62b",
       "Name": "Bodied Sattva",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_OBJECTIVES_COMPLETEDALLOPTIONAL",
@@ -882,15 +887,15 @@
       "ID": "ACH_REVISIT_MISSION",
       "SetID": "cefn62b",
       "Name": "Dusted",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "cefn62b",
       "Name": "Perfect Probulator",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 15,
       "UsersEstimate": 46
     },
@@ -915,15 +920,15 @@
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 89,
+      "Progressed": 90,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2023-11-09T01:43:19.9714919+00:00",
-  "LastChanged_Achievements": "2023-12-22T07:05:21.8719273+00:00",
+  "LastChanged_Achievements": "2023-12-22T08:05:26.1191712+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:30.3369877+00:00",
-  "LastUpdate_Ratings": "2023-12-22T06:58:47.7128549+00:00",
-  "LastUpdate_Achievements": "2023-12-22T07:05:21.8719587+00:00"
+  "LastUpdate_Ratings": "2023-12-22T07:58:50.8579884+00:00",
+  "LastUpdate_Achievements": "2023-12-22T08:05:26.1191965+00:00"
 }

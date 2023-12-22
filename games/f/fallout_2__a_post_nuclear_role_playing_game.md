@@ -1,14 +1,14 @@
 # Fallout 2: A Post Nuclear Role Playing Game
 [Store](https://store.epicgames.com/en-US/p/fallout-2)  
 [View Rawdata](../../db/f/fallout_2__a_post_nuclear_role_playing_game.json)  
-Rating: 4.70 (Ranked 218)  
+Rating: 4.69 (Ranked 230)  
 ## Awards
-Max (Character Customization): 128  (Ranked 340)  
-Sum: 128 (Ranked 440)  
+Max (Character Customization): 129  (Ranked 340)  
+Sum: 129 (Ranked 440)  
 Diff (max vs sum): -100  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 128 |
+| This game has Inclusive Character Customization | 129 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -136,3 +136,4 @@ Diff (max vs sum): -100
 | 2023-12-14 | 4.70 | 125 | 125 |
 | 2023-12-15 | 4.70 | 126 | 126 |
 | 2023-12-20 | 4.70 | 128 | 128 |
+| 2023-12-22 | 4.69 | 129 | 129 |

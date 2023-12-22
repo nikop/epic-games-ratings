@@ -5,11 +5,11 @@ Rating: 4.27 (Ranked 878)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Storm Warning | 24.00% | ~51 |
-| Regional Juniors Champion | 14.00% | ~30 |
-| Wheeler Dealer | 14.00% | ~30 |
+| Storm Warning | 24.00% | ~52 |
 | Dirty Roller | 14.00% | ~30 |
-| Look Mom, I Can Fly | 10.00% | ~21 |
+| Regional Juniors Champion | 13.00% | ~28 |
+| Wheeler Dealer | 13.00% | ~28 |
+| Look Mom, I Can Fly | 10.00% | ~22 |
 | National Amateurs Champion | 9.00% | ~19 |
 | Junk Collector | 9.00% | ~19 |
 | Challengers Champion | 7.00% | ~15 |
@@ -26,7 +26,7 @@ Rating: 4.27 (Ranked 878)
 | Rocketeer | 0.50% | ~1 |
 | Human Lover | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 214 (Ranked 399)  
+Progressed: 215 (Ranked 399)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -35,7 +35,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-19 | 116 | 0 |
 | 2023-12-20 | 166 | 0 |
 | 2023-12-21 | 205 | 0 |
-| 2023-12-22 | 214 | 0 |
+| 2023-12-22 | 215 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

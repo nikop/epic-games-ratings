@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1020,
+  "EOS_Progressed": 1021,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 604,
   "EOS_NewCompleters": 0,
@@ -2050,6 +2050,11 @@
       "Time": "2023-12-22T07:09:38.0350164+00:00",
       "NumProgressed": 1020,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-22T08:09:41.8384758+00:00",
+      "NumProgressed": 1021,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2061,7 +2066,7 @@
       "Name": "Break Out",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "ACH_02",
@@ -2348,14 +2353,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1020,
+      "Progressed": 1021,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-22T07:09:38.0350162+00:00",
+  "LastChanged_Achievements": "2023-12-22T08:09:41.8384756+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
-  "LastUpdate_Ratings": "2023-12-22T06:58:11.4584277+00:00",
-  "LastUpdate_Achievements": "2023-12-22T07:09:38.0350583+00:00"
+  "LastUpdate_Ratings": "2023-12-22T07:58:13.3297899+00:00",
+  "LastUpdate_Achievements": "2023-12-22T08:09:41.838505+00:00"
 }

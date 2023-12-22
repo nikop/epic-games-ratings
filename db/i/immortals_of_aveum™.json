@@ -265,9 +265,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1538,
+  "EOS_Progressed": 1541,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 957,
+  "EOS_NewPlayers": 955,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2705,6 +2705,11 @@
       "Time": "2023-12-22T07:09:19.0636691+00:00",
       "NumProgressed": 1538,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-22T08:09:23.0766237+00:00",
+      "NumProgressed": 1541,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -2717,7 +2722,7 @@
       "Name": "Unforeseen",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1341
     },
     {
       "ID": "achievement_10",
@@ -2725,7 +2730,7 @@
       "Name": "Control is an Illusion",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "achievement_11",
@@ -2741,7 +2746,7 @@
       "Name": "Resilience to Sin",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "achievement_13",
@@ -2757,7 +2762,7 @@
       "Name": "Geas Aristeya",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "achievement_15",
@@ -2797,7 +2802,7 @@
       "Name": "Socialite",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "achievement_2",
@@ -2805,7 +2810,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1230
+      "UsersEstimate": 1233
     },
     {
       "ID": "achievement_20",
@@ -2861,7 +2866,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1032
     },
     {
       "ID": "achievement_36",
@@ -2893,7 +2898,7 @@
       "Name": "No More Names",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 738
+      "UsersEstimate": 740
     },
     {
       "ID": "achievement_41",
@@ -2949,7 +2954,7 @@
       "Name": "Enlisted",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1110
     },
     {
       "ID": "achievement_49",
@@ -2957,7 +2962,7 @@
       "Name": "Soldier",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "achievement_5",
@@ -2965,7 +2970,7 @@
       "Name": "Initiate",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "achievement_50",
@@ -2995,9 +3000,9 @@
       "ID": "achievement_56",
       "SetID": "18al4io",
       "Name": "Master of Malachite",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_59",
@@ -3013,15 +3018,15 @@
       "Name": "Thrada-Kul",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "achievement_60",
       "SetID": "18al4io",
       "Name": "Shroudfane Surveyor",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_62",
@@ -3077,7 +3082,7 @@
       "Name": "All the Major Food Groups",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "achievement_9",
@@ -3085,14 +3090,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 1538,
+      "Progressed": 1541,
       "Completed": 2
     }
   ],
@@ -3100,8 +3105,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-12-22T07:00:02.0554889+00:00",
-  "LastChanged_Achievements": "2023-12-22T07:09:19.0636688+00:00",
+  "LastChanged_Achievements": "2023-12-22T08:09:23.0766234+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:30.3074422+00:00",
-  "LastUpdate_Ratings": "2023-12-22T07:00:02.0554895+00:00",
-  "LastUpdate_Achievements": "2023-12-22T07:09:19.06373+00:00"
+  "LastUpdate_Ratings": "2023-12-22T08:00:07.040908+00:00",
+  "LastUpdate_Achievements": "2023-12-22T08:09:23.0766626+00:00"
 }

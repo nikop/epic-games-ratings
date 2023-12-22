@@ -10,8 +10,8 @@ Number of Ratings: 32  (23.09.2022)
 | Daily Life Begins Anew | 82.00% | ~202 |
 | Our World Now | 82.00% | ~202 |
 | Never Saw It Coming | 67.00% | ~165 |
-| Coup de Grace | 57.00% | ~140 |
-| Go-Home Club Activities START! | 48.00% | ~118 |
+| Coup de Grace | 58.00% | ~143 |
+| Go-Home Club Activities START! | 49.00% | ~121 |
 | Philanthropist | 39.00% | ~96 |
 | Test Your Luck | 34.00% | ~84 |
 | Behind the Curtain | 33.00% | ~81 |
@@ -22,8 +22,8 @@ Number of Ratings: 32  (23.09.2022)
 | Investment Ban-χ-ing | 24.00% | ~59 |
 | Combo Commando | 24.00% | ~59 |
 | One-Track Mind | 23.00% | ~57 |
+| Nice Doing Business | 23.00% | ~57 |
 | Stay Winning | 23.00% | ~57 |
-| Nice Doing Business | 22.00% | ~54 |
 | WIRE Guru | 21.00% | ~52 |
 | The Greater Good | 20.00% | ~49 |
 | Depths of the Heart | 20.00% | ~49 |
