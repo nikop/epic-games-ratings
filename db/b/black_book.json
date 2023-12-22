@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 458,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2021-08-10T17:00:00+00:00",
@@ -675,9 +675,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 61558,
+  "EOS_Progressed": 61560,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 1485,
+  "EOS_NewPlayers": 1479,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -14125,6 +14125,11 @@
       "Time": "2023-12-22T09:05:53.4143037+00:00",
       "NumProgressed": 61558,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-12-22T10:04:40.5546972+00:00",
+      "NumProgressed": 61560,
+      "NumCompleted": 62
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -14209,7 +14214,7 @@
       "Name": "Cow Level",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 6771
+      "UsersEstimate": 6772
     },
     {
       "ID": "DEAD_MAN",
@@ -14257,7 +14262,7 @@
       "Name": "Scientist",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 6771
+      "UsersEstimate": 6772
     },
     {
       "ID": "ENCYCLOPEDIA_3",
@@ -14265,7 +14270,7 @@
       "Name": "Encyclopedist",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3693
+      "UsersEstimate": 3694
     },
     {
       "ID": "FERN",
@@ -14329,15 +14334,15 @@
       "Name": "Witch",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3693
+      "UsersEstimate": 3694
     },
     {
       "ID": "INITIATION",
       "SetID": "bijn3c8",
       "Name": "Initiation",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 17236
+      "UsersEstimate": 17852
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -14401,7 +14406,7 @@
       "Name": "Old Spirits",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3693
+      "UsersEstimate": 3694
     },
     {
       "ID": "ONOMASTIKON_ITEMS",
@@ -14441,7 +14446,7 @@
       "Name": "Sinner",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3693
+      "UsersEstimate": 3694
     },
     {
       "ID": "SUSANIN",
@@ -14473,7 +14478,7 @@
       "Name": "Folklorist",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3693
+      "UsersEstimate": 3694
     },
     {
       "ID": "TRAVELLER",
@@ -14513,7 +14518,7 @@
       "Name": "Knower",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 9849
+      "UsersEstimate": 9850
     },
     {
       "ID": "ZNATKOST_2",
@@ -14529,22 +14534,22 @@
       "Name": "Keeper of Knowledge",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3693
+      "UsersEstimate": 3694
     }
   ],
   "AchievementSets": [
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 61558,
+      "Progressed": 61560,
       "Completed": 62
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-12-20T11:59:57.3935397+00:00",
-  "LastChanged_Achievements": "2023-12-22T09:05:53.4143033+00:00",
+  "LastChanged_Achievements": "2023-12-22T10:04:40.5546969+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:15.0116795+00:00",
-  "LastUpdate_Ratings": "2023-12-22T09:01:41.0960426+00:00",
-  "LastUpdate_Achievements": "2023-12-22T09:05:53.4144134+00:00"
+  "LastUpdate_Ratings": "2023-12-22T10:00:12.0144184+00:00",
+  "LastUpdate_Achievements": "2023-12-22T10:04:40.554789+00:00"
 }

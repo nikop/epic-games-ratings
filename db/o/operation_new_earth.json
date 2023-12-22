@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2065,
+  "EOS_Progressed": 2066,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7894,6 +7894,11 @@
       "Time": "2023-12-22T09:05:40.6288183+00:00",
       "NumProgressed": 2065,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-22T10:04:31.1695537+00:00",
+      "NumProgressed": 2066,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8033,7 +8038,7 @@
       "Name": "Lieutenant",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -8097,7 +8102,7 @@
       "Name": "Getting Deployment",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -8129,7 +8134,7 @@
       "Name": "On Target",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -8208,7 +8213,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2065,
+      "Progressed": 2066,
       "Completed": 1
     }
   ],
@@ -8216,8 +8221,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-11T08:59:11.5639448+00:00",
-  "LastChanged_Achievements": "2023-12-22T09:05:40.6288179+00:00",
+  "LastChanged_Achievements": "2023-12-22T10:04:31.1695533+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:15.2562842+00:00",
-  "LastUpdate_Ratings": "2023-12-22T09:01:43.3315301+00:00",
-  "LastUpdate_Achievements": "2023-12-22T09:05:40.6288688+00:00"
+  "LastUpdate_Ratings": "2023-12-22T10:00:13.6236593+00:00",
+  "LastUpdate_Achievements": "2023-12-22T10:04:31.1696058+00:00"
 }

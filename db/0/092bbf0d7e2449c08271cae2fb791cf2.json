@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 219,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -760,9 +760,9 @@
       "ID": "ach3",
       "SetID": "796kfpa",
       "Name": "Blue Bean",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 145,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "ach4",
@@ -807,8 +807,8 @@
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2023-12-22T09:07:22.1145104+00:00",
+  "LastChanged_Achievements": "2023-12-22T10:05:44.4385699+00:00",
   "LastUpdate_AppInfo": "2023-12-20T19:57:05.4963637+00:00",
-  "LastUpdate_Ratings": "2023-12-22T09:01:50.5019398+00:00",
-  "LastUpdate_Achievements": "2023-12-22T09:07:22.1145211+00:00"
+  "LastUpdate_Ratings": "2023-12-22T10:00:18.3057466+00:00",
+  "LastUpdate_Achievements": "2023-12-22T10:05:44.4385802+00:00"
 }

@@ -1003,9 +1003,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 7352,
+  "EOS_Progressed": 7356,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 427,
+  "EOS_NewPlayers": 426,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11888,6 +11888,11 @@
       "Time": "2023-12-22T09:04:45.1704732+00:00",
       "NumProgressed": 7352,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T10:03:50.829329+00:00",
+      "NumProgressed": 7356,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -11897,9 +11902,9 @@
       "ID": "ACHIEVEMENT_001",
       "SetID": "1a05lfd",
       "Name": "Fish Just Got Reel",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 809
+      "UsersEstimate": 883
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -11915,7 +11920,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -11947,7 +11952,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -12218,13 +12223,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7352,
+      "Progressed": 7356,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 6724,
+      "Progressed": 6728,
       "Completed": 113
     }
   ],
@@ -12232,8 +12237,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-21T00:02:47.1837703+00:00",
-  "LastChanged_Achievements": "2023-12-22T09:04:45.1704729+00:00",
+  "LastChanged_Achievements": "2023-12-22T10:03:50.8293287+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:41.8809727+00:00",
-  "LastUpdate_Ratings": "2023-12-22T08:57:47.7139138+00:00",
-  "LastUpdate_Achievements": "2023-12-22T09:04:45.170539+00:00"
+  "LastUpdate_Ratings": "2023-12-22T09:57:35.2942233+00:00",
+  "LastUpdate_Achievements": "2023-12-22T10:03:50.8294077+00:00"
 }

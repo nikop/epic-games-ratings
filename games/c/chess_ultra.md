@@ -1,27 +1,27 @@
 # Chess Ultra
 [Store](https://store.epicgames.com/en-US/p/chess-ultra-91bba3)  
 [View Rawdata](../../db/c/chess_ultra.json)  
-Rating: 4.31 (Ranked 847)  
+Rating: 4.31 (Ranked 846)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 71.00% | ~158,501 |
-| Doubled Pawn | 57.00% | ~127,247 |
-| Check | 55.00% | ~122,783 |
-| Absolute pin | 47.00% | ~104,923 |
-| Promotion | 31.00% | ~69,205 |
-| Checkmate | 30.00% | ~66,972 |
-| O-O | 24.00% | ~53,578 |
-| Spanish Bishop | 21.00% | ~46,881 |
-| Queen Sacrifice | 20.00% | ~44,648 |
-| Stalemate | 18.00% | ~40,183 |
-| O-O-O | 13.00% | ~29,021 |
-| Octopus | 13.00% | ~29,021 |
-| Stranger Danger | 12.00% | ~26,789 |
+| Chop Wood | 71.00% | ~158,505 |
+| Doubled Pawn | 57.00% | ~127,250 |
+| Check | 55.00% | ~122,785 |
+| Absolute pin | 47.00% | ~104,926 |
+| Promotion | 31.00% | ~69,206 |
+| Checkmate | 30.00% | ~66,974 |
+| O-O | 24.00% | ~53,579 |
+| Spanish Bishop | 21.00% | ~46,882 |
+| Queen Sacrifice | 20.00% | ~44,649 |
+| Stalemate | 18.00% | ~40,184 |
+| O-O-O | 13.00% | ~29,022 |
+| Octopus | 13.00% | ~29,022 |
+| Stranger Danger | 12.00% | ~26,790 |
 | En Passant | 9.00% | ~20,092 |
 | Double Check | 7.00% | ~15,627 |
-| Family Fork | 6.00% | ~13,394 |
-| Piece Collector | 6.00% | ~13,394 |
+| Family Fork | 6.00% | ~13,395 |
+| Piece Collector | 6.00% | ~13,395 |
 | ELO | 5.00% | ~11,162 |
 | Friendly Fire | 5.00% | ~11,162 |
 | Underpromote | 4.00% | ~8,930 |
@@ -44,7 +44,7 @@ Rating: 4.31 (Ranked 847)
 | Tournament Master | 0.10% | ~223 |
 | Tournament Pro | 0.10% | ~223 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,241 (Ranked 73)  
+Progressed: 223,246 (Ranked 73)  
 Completed: 2 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 2 (0.00%) (Ranked 384)
 | 2023-12-19 | 222,848 | 2 |
 | 2023-12-20 | 222,992 | 2 |
 | 2023-12-21 | 223,171 | 2 |
-| 2023-12-22 | 223,241 | 2 |
+| 2023-12-22 | 223,246 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4781,9 +4781,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 79061,
+  "EOS_Progressed": 79062,
   "EOS_Completed": 126,
-  "EOS_NewPlayers": 936,
+  "EOS_NewPlayers": 933,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -27011,6 +27011,11 @@
       "Time": "2023-12-22T09:04:34.2621844+00:00",
       "NumProgressed": 79061,
       "NumCompleted": 126
+    },
+    {
+      "Time": "2023-12-22T10:03:42.5504655+00:00",
+      "NumProgressed": 79062,
+      "NumCompleted": 126
     }
   ],
   "TotalAchievements": 61,
@@ -27070,7 +27075,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17393
+      "UsersEstimate": 17394
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -27206,7 +27211,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 7115
+      "UsersEstimate": 7116
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -27334,7 +27339,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19765
+      "UsersEstimate": 19766
     },
     {
       "ID": "HARLEY_3",
@@ -27366,7 +27371,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 39530
+      "UsersEstimate": 39531
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -27398,7 +27403,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 21346
+      "UsersEstimate": 21347
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -27430,7 +27435,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17393
+      "UsersEstimate": 17394
     },
     {
       "ID": "MYSTERY_04",
@@ -27446,7 +27451,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 13440
+      "UsersEstimate": 13441
     },
     {
       "ID": "MYSTERY_06",
@@ -27486,7 +27491,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 7115
+      "UsersEstimate": 7116
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -27509,13 +27514,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 79061,
+      "Progressed": 79062,
       "Completed": 126
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 49341,
+      "Progressed": 49342,
       "Completed": 2677
     }
   ],
@@ -27523,8 +27528,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-12-22T09:01:25.2548122+00:00",
-  "LastChanged_Achievements": "2023-12-22T09:04:34.262184+00:00",
+  "LastChanged_Achievements": "2023-12-22T10:03:42.5504652+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:16.1599271+00:00",
-  "LastUpdate_Ratings": "2023-12-22T09:01:25.2548131+00:00",
-  "LastUpdate_Achievements": "2023-12-22T09:04:34.2623761+00:00"
+  "LastUpdate_Ratings": "2023-12-22T10:00:01.4594988+00:00",
+  "LastUpdate_Achievements": "2023-12-22T10:03:42.550595+00:00"
 }

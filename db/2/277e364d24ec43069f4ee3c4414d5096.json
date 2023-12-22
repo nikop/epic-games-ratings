@@ -2,7 +2,7 @@
   "ID": "277e364d24ec43069f4ee3c4414d5096",
   "Name": "Guacamelee! 2",
   "ProductSlug": "guacamelee-2-ac4977",
-  "Ranking_Rating": 394,
+  "Ranking_Rating": 395,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 87,
@@ -367,7 +367,7 @@
   "Tags": [],
   "EOS_Progressed": 117410,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 697,
+  "EOS_NewPlayers": 694,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -22570,8 +22570,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-12-21T05:59:27.8580735+00:00",
-  "LastChanged_Achievements": "2023-12-22T09:10:31.602561+00:00",
+  "LastChanged_Achievements": "2023-12-22T10:09:30.6069567+00:00",
   "LastUpdate_AppInfo": "2023-12-22T08:57:08.9251827+00:00",
-  "LastUpdate_Ratings": "2023-12-22T09:01:41.2784271+00:00",
-  "LastUpdate_Achievements": "2023-12-22T09:10:31.6027338+00:00"
+  "LastUpdate_Ratings": "2023-12-22T10:00:12.1619109+00:00",
+  "LastUpdate_Achievements": "2023-12-22T10:09:30.6071029+00:00"
 }

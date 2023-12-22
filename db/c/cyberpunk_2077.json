@@ -17000,9 +17000,9 @@
       "Count": 16443
     }
   ],
-  "EOS_Progressed": 979792,
+  "EOS_Progressed": 979806,
   "EOS_Completed": 2951,
-  "EOS_NewPlayers": 3574,
+  "EOS_NewPlayers": 3564,
   "EOS_NewCompleters": 43,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -45040,6 +45040,11 @@
       "Time": "2023-12-22T09:03:58.6405555+00:00",
       "NumProgressed": 979792,
       "NumCompleted": 2951
+    },
+    {
+      "Time": "2023-12-22T10:03:16.6562827+00:00",
+      "NumProgressed": 979806,
+      "NumCompleted": 2951
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -45124,7 +45129,7 @@
       "Name": "Gun Fu",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 78383
+      "UsersEstimate": 78384
     },
     {
       "ID": "Gunslinger",
@@ -45268,7 +45273,7 @@
       "Name": "The Fool",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 68585
+      "UsersEstimate": 68586
     },
     {
       "ID": "TheHermit",
@@ -45380,7 +45385,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 117575
+      "UsersEstimate": 117577
     },
     {
       "ID": "YipMan",
@@ -45428,7 +45433,7 @@
       "Name": "The APB is Not Enough",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "Easycomeeasygo",
@@ -45452,7 +45457,7 @@
       "Name": "Spin Doctor",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 2168
+      "UsersEstimate": 2169
     },
     {
       "ID": "Kingofcups",
@@ -45492,7 +45497,7 @@
       "Name": "Relic Ruler",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 3252
+      "UsersEstimate": 3253
     },
     {
       "ID": "UltimateSurvivor",
@@ -45516,7 +45521,7 @@
       "Name": "Judgement Day",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "IHateSpider",
@@ -45548,7 +45553,7 @@
       "Name": "King of Swords",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "KingOfTheWands",
@@ -45564,7 +45569,7 @@
       "Name": "The Tower",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "DirtyWork",
@@ -45587,21 +45592,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 979792,
+      "Progressed": 979806,
       "Completed": 2951
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 108415,
+      "Progressed": 108429,
       "Completed": 10431
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-12-22T02:23:52.686081+00:00",
-  "LastChanged_Achievements": "2023-12-22T09:03:58.6405551+00:00",
+  "LastChanged_Achievements": "2023-12-22T10:03:16.6562823+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:11.4044836+00:00",
-  "LastUpdate_Ratings": "2023-12-22T09:03:23.9237125+00:00",
-  "LastUpdate_Achievements": "2023-12-22T09:03:58.6407336+00:00"
+  "LastUpdate_Ratings": "2023-12-22T10:02:52.8980672+00:00",
+  "LastUpdate_Achievements": "2023-12-22T10:03:16.6565005+00:00"
 }

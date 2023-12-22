@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1139,
+  "EOS_Progressed": 1140,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": -7,
+  "EOS_NewPlayers": -6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1906,6 +1906,11 @@
       "Time": "2023-12-22T09:05:29.5231556+00:00",
       "NumProgressed": 1139,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-22T10:04:23.2283569+00:00",
+      "NumProgressed": 1140,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -1949,7 +1954,7 @@
       "Name": "The First Step",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "06",
@@ -1965,7 +1970,7 @@
       "Name": "Monster Hunter",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "08",
@@ -2069,7 +2074,7 @@
       "Name": "Digging Deep",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "21",
@@ -2100,7 +2105,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1139,
+      "Progressed": 1140,
       "Completed": 1
     }
   ],
@@ -2108,8 +2113,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-12-04T18:59:06.5793648+00:00",
-  "LastChanged_Achievements": "2023-12-22T09:05:29.5231549+00:00",
+  "LastChanged_Achievements": "2023-12-22T10:04:23.2283568+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:06.8516374+00:00",
-  "LastUpdate_Ratings": "2023-12-22T09:02:22.6987697+00:00",
-  "LastUpdate_Achievements": "2023-12-22T09:05:29.5231764+00:00"
+  "LastUpdate_Ratings": "2023-12-22T10:00:41.3553457+00:00",
+  "LastUpdate_Achievements": "2023-12-22T10:04:23.2283735+00:00"
 }

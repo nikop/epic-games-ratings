@@ -4,7 +4,7 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 714,
+  "EOS_Progressed": 716,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.26,
   "EosHistory": [
@@ -2445,6 +2445,11 @@
       "Time": "2023-12-22T07:06:40.5475321+00:00",
       "NumProgressed": 714,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-22T10:08:16.7407474+00:00",
+      "NumProgressed": 716,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -2457,7 +2462,7 @@
       "Name": "Assassinate the Makron",
       "Percentage": 16,
       "XP": 120,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH_eou1",
@@ -2465,7 +2470,7 @@
       "Name": "Establish Communications",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "ACH_eou2",
@@ -2481,7 +2486,7 @@
       "Name": "Destroy Security Grid",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_eou4",
@@ -2489,7 +2494,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_eou5",
@@ -2513,7 +2518,7 @@
       "Name": "Destroy the Big Gun",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_eou8",
@@ -2521,7 +2526,7 @@
       "Name": "Destroy Black Hole Generator",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_mg2",
@@ -2560,14 +2565,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 714,
+      "Progressed": 716,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-22T09:08:50.2673809+00:00",
+  "LastChanged_Achievements": "2023-12-22T10:08:16.7407471+00:00",
   "LastUpdate_AppInfo": "2023-12-22T05:56:59.907635+00:00",
-  "LastUpdate_Ratings": "2023-12-22T08:57:38.2019637+00:00",
-  "LastUpdate_Achievements": "2023-12-22T09:08:50.2674011+00:00"
+  "LastUpdate_Ratings": "2023-12-22T09:57:29.1522408+00:00",
+  "LastUpdate_Achievements": "2023-12-22T10:08:16.7407657+00:00"
 }

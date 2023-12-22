@@ -2,7 +2,7 @@
   "ID": "e462ded8eeed40d7b81015ca87cdb5d8",
   "Name": "The Complex",
   "ProductSlug": "the-complex-0ca5bb",
-  "Ranking_EOS_Progress": 301,
+  "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 113,
   "Ranking_EOS_NewPlayers": 288,
   "Ranking_EOS_NewCompleters": 160,
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 704,
+  "EOS_Progressed": 705,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
@@ -1305,6 +1305,11 @@
       "Time": "2023-12-21T21:09:33.9296143+00:00",
       "NumProgressed": 704,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-22T10:09:03.247885+00:00",
+      "NumProgressed": 705,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 20,
@@ -1324,7 +1329,7 @@
       "Name": "Blast From The Past",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "deadly_secret",
@@ -1460,7 +1465,7 @@
       "Name": "The Rebel And The Doctor",
       "Percentage": 58,
       "XP": 100,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "tough_decision",
@@ -1468,14 +1473,14 @@
       "Name": "Tough Decision",
       "Percentage": 93,
       "XP": 50,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 704,
+      "Progressed": 705,
       "Completed": 21
     }
   ],
@@ -1483,8 +1488,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-12-22T09:09:54.389078+00:00",
+  "LastChanged_Achievements": "2023-12-22T10:09:03.2478847+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:08.7462011+00:00",
-  "LastUpdate_Ratings": "2023-12-22T08:57:38.7363926+00:00",
-  "LastUpdate_Achievements": "2023-12-22T09:09:54.3891006+00:00"
+  "LastUpdate_Ratings": "2023-12-22T09:57:29.3947882+00:00",
+  "LastUpdate_Achievements": "2023-12-22T10:09:03.2479087+00:00"
 }

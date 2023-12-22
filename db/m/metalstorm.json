@@ -2,7 +2,7 @@
   "ID": "dc09ae8f1aa445b7853b5300c2345d81",
   "Name": "Metalstorm",
   "ProductSlug": "metalstorm",
-  "Ranking_Rating": 804,
+  "Ranking_Rating": 805,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 814,
@@ -242,6 +242,6 @@
   "FirstSeenRating": "2023-11-25T02:17:36.1236475+00:00",
   "LastChanged": "2023-12-22T09:00:05.2343415+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:30.6063391+00:00",
-  "LastUpdate_Ratings": "2023-12-22T09:00:05.2343426+00:00",
-  "LastUpdate_Achievements": "2023-12-22T09:04:54.6741255+00:00"
+  "LastUpdate_Ratings": "2023-12-22T09:59:09.3093913+00:00",
+  "LastUpdate_Achievements": "2023-12-22T10:03:58.0278455+00:00"
 }

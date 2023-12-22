@@ -1423,9 +1423,9 @@
       "ID": "FIRST_METEOR_SHOWER",
       "SetID": "apihg0e",
       "Name": "Celestial Rain",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 111
     },
     {
       "ID": "FIRST_MINIBOSS_DEFEATED",
@@ -1439,9 +1439,9 @@
       "ID": "FIRST_POWER_BOOST",
       "SetID": "apihg0e",
       "Name": "Speed Demon",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 222
     },
     {
       "ID": "FIRST_S_RANK",
@@ -1591,9 +1591,9 @@
       "ID": "SPEED_STATUS_REACH_NUM",
       "SetID": "apihg0e",
       "Name": "Hypersonic Hedgehog",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 29
     },
     {
       "ID": "SUB_CLEAR_ALL",
@@ -1654,8 +1654,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-22T09:04:45.069849+00:00",
+  "LastChanged_Achievements": "2023-12-22T10:03:50.7474482+00:00",
   "LastUpdate_AppInfo": "2023-12-19T19:57:15.6866052+00:00",
-  "LastUpdate_Ratings": "2023-12-22T09:03:25.6953237+00:00",
-  "LastUpdate_Achievements": "2023-12-22T09:04:45.0698876+00:00"
+  "LastUpdate_Ratings": "2023-12-22T10:02:53.8906627+00:00",
+  "LastUpdate_Achievements": "2023-12-22T10:03:50.7475007+00:00"
 }

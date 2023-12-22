@@ -10020,9 +10020,9 @@
       "Count": 1036
     }
   ],
-  "EOS_Progressed": 129059,
+  "EOS_Progressed": 129063,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1844,
+  "EOS_NewPlayers": 1835,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36245,6 +36245,11 @@
       "Time": "2023-12-22T09:09:41.2377542+00:00",
       "NumProgressed": 129059,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-22T10:08:54.0462732+00:00",
+      "NumProgressed": 129063,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36384,7 +36389,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5162
+      "UsersEstimate": 5163
     },
     {
       "ID": "combat_kill_cadavers",
@@ -36608,7 +36613,7 @@
       "Name": "Autodidact",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5162
+      "UsersEstimate": 5163
     },
     {
       "ID": "hero_story_complete_all",
@@ -36800,7 +36805,7 @@
       "Name": "This guy... again?",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -36887,21 +36892,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 129059,
+      "Progressed": 129063,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 3928,
+      "Progressed": 3932,
       "Completed": 807
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-22T08:00:05.9983731+00:00",
-  "LastChanged_Achievements": "2023-12-22T09:09:41.2377538+00:00",
+  "LastChanged_Achievements": "2023-12-22T10:08:54.0462731+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-22T09:02:03.996629+00:00",
-  "LastUpdate_Achievements": "2023-12-22T09:09:41.2379088+00:00"
+  "LastUpdate_Ratings": "2023-12-22T10:00:27.6550775+00:00",
+  "LastUpdate_Achievements": "2023-12-22T10:08:54.04642+00:00"
 }

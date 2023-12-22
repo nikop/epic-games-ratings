@@ -2,9 +2,9 @@
   "ID": "3a5c77a536854024add2714cbd0fa865",
   "Name": "RoboCop: Rogue City",
   "ProductSlug": "robocop-rogue-city",
-  "Ranking_Rating": 837,
-  "Ranking_Popularity": 397,
-  "Ranking_PopularitySum": 471,
+  "Ranking_Rating": 846,
+  "Ranking_Popularity": 392,
+  "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 561,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "robocop-rogue-city"
     }
   },
-  "Rating": 4.32,
+  "Rating": 4.31,
   "RatingHistory": [
     {
       "Time": "2023-11-07T18:58:52.6047076+00:00",
@@ -351,18 +351,24 @@
       "Rating": 4.32,
       "NumberOfAwards": 79,
       "NumberOfAwardsMax": 79
+    },
+    {
+      "Time": "2023-12-22T09:59:47.1748777+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 85,
+      "NumberOfAwardsMax": 85
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 79,
-  "NumberOfAwardsMax": 79,
+  "NumberOfAwards": 85,
+  "NumberOfAwardsMax": 85,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 79
+      "Count": 85
     }
   ],
   "EOS_Progressed": 705,
@@ -1509,9 +1515,9 @@
   "FirstSeen": "2023-11-02T16:00:47.732778+00:00",
   "FirstSeenRating": "2023-11-07T18:58:52.6047074+00:00",
   "FirstSeenAchievements": "2023-10-10T13:10:57.0550884+00:00",
-  "LastChanged": "2023-12-21T05:59:03.9603265+00:00",
-  "LastChanged_Achievements": "2023-12-22T09:07:26.1940143+00:00",
+  "LastChanged": "2023-12-22T09:59:47.1748776+00:00",
+  "LastChanged_Achievements": "2023-12-22T10:05:47.4238882+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:57:00.7989671+00:00",
-  "LastUpdate_Ratings": "2023-12-22T09:01:03.6673653+00:00",
-  "LastUpdate_Achievements": "2023-12-22T09:07:26.1940386+00:00"
+  "LastUpdate_Ratings": "2023-12-22T09:59:47.1748781+00:00",
+  "LastUpdate_Achievements": "2023-12-22T10:05:47.4239064+00:00"
 }

@@ -4667,7 +4667,7 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12592,
+  "EOS_Progressed": 12593,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 257,
   "EOS_NewCompleters": 0,
@@ -17637,6 +17637,11 @@
       "Time": "2023-12-22T08:09:44.5012088+00:00",
       "NumProgressed": 12592,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T10:09:38.8571309+00:00",
+      "NumProgressed": 12593,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -17680,7 +17685,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -17704,7 +17709,7 @@
       "Name": "Path of the Angel",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "09_PathOfDemon",
@@ -18016,7 +18021,7 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2392
+      "UsersEstimate": 2393
     },
     {
       "ID": "49_Flame",
@@ -18040,7 +18045,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -18520,7 +18525,7 @@
       "Name": "Stay Underground",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "DLC4_24_Hanged Man\u0027s Notes",
@@ -18575,21 +18580,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11374,
+      "Progressed": 11375,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12592,
+      "Progressed": 12593,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-22T03:58:13.0642392+00:00",
-  "LastChanged_Achievements": "2023-12-22T09:10:42.1510671+00:00",
+  "LastChanged_Achievements": "2023-12-22T10:09:38.8571307+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.7532096+00:00",
-  "LastUpdate_Ratings": "2023-12-22T08:59:22.2525878+00:00",
-  "LastUpdate_Achievements": "2023-12-22T09:10:42.1512195+00:00"
+  "LastUpdate_Ratings": "2023-12-22T09:58:40.4554007+00:00",
+  "LastUpdate_Achievements": "2023-12-22T10:09:38.8572839+00:00"
 }

@@ -6,9 +6,9 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,575 |
-| Gun Fu | 8.00% | ~78,383 |
-| The Fool | 7.00% | ~68,585 |
+| V for Vendetta | 12.00% | ~117,577 |
+| Gun Fu | 8.00% | ~78,384 |
+| The Fool | 7.00% | ~68,586 |
 | Right Back At Ya | 6.00% | ~58,788 |
 | Full Body Conversion | 5.00% | ~48,990 |
 | The Lovers | 5.00% | ~48,990 |
@@ -24,7 +24,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The High Priestess | 3.00% | ~29,394 |
 | True Warrior | 3.00% | ~29,394 |
 | Legend of The Afterlife | 3.00% | ~29,394 |
-| Relic Ruler | 3.00% | ~3,252 |
+| Relic Ruler | 3.00% | ~3,253 |
 | Bushido and Chill | 2.00% | ~19,596 |
 | To Protect and Serve | 2.00% | ~19,596 |
 | Master Crafter | 2.00% | ~19,596 |
@@ -32,7 +32,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The World | 2.00% | ~19,596 |
 | Two Heads, One Bullet | 2.00% | ~19,596 |
 | Judy vs Night City | 2.00% | ~19,596 |
-| Spin Doctor | 2.00% | ~2,168 |
+| Spin Doctor | 2.00% | ~2,169 |
 | The Wandering Fool | 1.00% | ~9,798 |
 | The Sun | 1.00% | ~9,798 |
 | King of Wands | 1.00% | ~1,084 |
@@ -43,10 +43,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | Breathtaking | 0.80% | ~7,838 |
 | The Star | 0.80% | ~7,838 |
 | Autojock | 0.60% | ~5,879 |
-| The APB is Not Enough | 0.60% | ~650 |
-| Judgement Day | 0.60% | ~650 |
-| King of Swords | 0.60% | ~650 |
-| The Tower | 0.60% | ~650 |
+| The APB is Not Enough | 0.60% | ~651 |
+| Judgement Day | 0.60% | ~651 |
+| King of Swords | 0.60% | ~651 |
+| The Tower | 0.60% | ~651 |
 | Must Be Rats | 0.50% | ~4,899 |
 | Temperance | 0.50% | ~4,899 |
 | King of Pentacles | 0.50% | ~542 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 979,792 (Ranked 16)  
+Progressed: 979,806 (Ranked 16)  
 Completed: 2,951 (0.30%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 2,951 (0.30%) (Ranked 249)
 | 2023-12-19 | 978,882 | 2,944 |
 | 2023-12-20 | 979,279 | 2,948 |
 | 2023-12-21 | 979,668 | 2,950 |
-| 2023-12-22 | 979,792 | 2,951 |
+| 2023-12-22 | 979,806 | 2,951 |
 ## Awards
 Max (Character Customization): 125,917  (Ranked 8)  
 Sum: 435,621 (Ranked 9)  

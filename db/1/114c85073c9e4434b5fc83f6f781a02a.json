@@ -2,9 +2,9 @@
   "ID": "114c85073c9e4434b5fc83f6f781a02a",
   "Name": "Supfly Delivery Simulator",
   "ProductSlug": "supfly-delivery-simulator-82d2fd",
-  "Ranking_EOS_Progress": 633,
-  "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 524,
+  "Ranking_EOS_Progress": 629,
+  "Ranking_EOS_Completed": 52,
+  "Ranking_EOS_NewPlayers": 490,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-11-08T17:00:00+00:00",
@@ -22,11 +22,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 12,
+  "EOS_Progressed": 13,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 8.33,
+  "EOS_Completed_Percentage": 7.69,
   "EosHistory": [
     {
       "Time": "2023-11-06T10:07:21.2241111+00:00",
@@ -87,6 +87,11 @@
       "Time": "2023-12-17T14:04:56.844989+00:00",
       "NumProgressed": 12,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-22T10:05:52.6503254+00:00",
+      "NumProgressed": 13,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-29T07:04:24.2015685+00:00",
@@ -105,9 +110,9 @@
       "ID": "GETTING_AN_UPGRADE",
       "SetID": "7ae64fg",
       "Name": "Getting an upgrade",
-      "Percentage": 17,
+      "Percentage": 23,
       "XP": 110,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "HIGH_TECH",
@@ -129,54 +134,54 @@
       "ID": "OOPS",
       "SetID": "7ae64fg",
       "Name": "Oops",
-      "Percentage": 117,
+      "Percentage": 115,
       "XP": 110,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "SMALL_BUSINESS",
       "SetID": "7ae64fg",
       "Name": "Small business",
-      "Percentage": 33,
+      "Percentage": 38,
       "XP": 110,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SPECIAL_DELIVERY",
       "SetID": "7ae64fg",
       "Name": "Special delivery",
-      "Percentage": 75,
+      "Percentage": 77,
       "XP": 110,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "STEP_BY_STEP",
       "SetID": "7ae64fg",
       "Name": "Step by step",
-      "Percentage": 17,
+      "Percentage": 23,
       "XP": 110,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "TIME_TO_START",
       "SetID": "7ae64fg",
       "Name": "Time to start",
-      "Percentage": 75,
+      "Percentage": 77,
       "XP": 110,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     }
   ],
   "AchievementSets": [
     {
       "ID": "7ae64fg",
       "IsBase": true,
-      "Progressed": 12,
+      "Progressed": 13,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-10-26T15:04:27.1843787+00:00",
-  "LastChanged_Achievements": "2023-12-22T09:07:33.7351626+00:00",
+  "LastChanged_Achievements": "2023-12-22T10:05:52.6503251+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:54.1930026+00:00",
-  "LastUpdate_Ratings": "2023-12-22T08:59:10.5417454+00:00",
-  "LastUpdate_Achievements": "2023-12-22T09:07:33.7351715+00:00"
+  "LastUpdate_Ratings": "2023-12-22T09:58:32.0557549+00:00",
+  "LastUpdate_Achievements": "2023-12-22T10:05:52.6503329+00:00"
 }

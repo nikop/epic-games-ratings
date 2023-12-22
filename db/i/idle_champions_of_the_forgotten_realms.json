@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewPlayers": 59,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8959,9 +8959,9 @@
       "Count": 3583
     }
   ],
-  "EOS_Progressed": 243142,
+  "EOS_Progressed": 243160,
   "EOS_Completed": 2555,
-  "EOS_NewPlayers": 2597,
+  "EOS_NewPlayers": 2602,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -36719,6 +36719,11 @@
       "Time": "2023-12-22T09:10:47.3185205+00:00",
       "NumProgressed": 243142,
       "NumCompleted": 2555
+    },
+    {
+      "Time": "2023-12-22T10:09:43.2504899+00:00",
+      "NumProgressed": 243160,
+      "NumCompleted": 2555
     }
   ],
   "TotalAchievements": 546,
@@ -36730,7 +36735,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2431
+      "UsersEstimate": 2432
     },
     {
       "ID": "objective_completed_10",
@@ -41034,7 +41039,7 @@
       "Name": "Fast Food",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "objective_completed_1563",
@@ -41097,21 +41102,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 209416,
+      "Progressed": 209434,
       "Completed": 4054
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 243142,
+      "Progressed": 243160,
       "Completed": 2555
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-22T01:47:37.4753987+00:00",
-  "LastChanged_Achievements": "2023-12-22T09:10:47.3185202+00:00",
+  "LastChanged_Achievements": "2023-12-22T10:09:43.2504897+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:52.1318001+00:00",
-  "LastUpdate_Ratings": "2023-12-22T09:02:30.0945695+00:00",
-  "LastUpdate_Achievements": "2023-12-22T09:10:47.3207337+00:00"
+  "LastUpdate_Ratings": "2023-12-22T10:02:36.4704484+00:00",
+  "LastUpdate_Achievements": "2023-12-22T10:09:43.2527604+00:00"
 }

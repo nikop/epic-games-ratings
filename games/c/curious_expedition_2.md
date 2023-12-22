@@ -14,8 +14,8 @@ Number of Ratings: 20  (23.09.2022)
 | From Whence we Came | 42.00% | ~156 |
 | Fire and Flood | 41.00% | ~152 |
 | Spooky! | 37.00% | ~137 |
+| Treasure Hunt | 35.00% | ~130 |
 | Shennong Herbalist | 34.00% | ~126 |
-| Treasure Hunt | 34.00% | ~126 |
 | Good Mama | 33.00% | ~122 |
 | O Captain My Captain | 31.00% | ~115 |
 | Plunderer | 29.00% | ~108 |

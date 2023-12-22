@@ -5,25 +5,25 @@ Rating: 4.20 (Ranked 934)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 15.00% | ~2,780 |
-| The Outer Way | 15.00% | ~2,780 |
-| Get a Grip | 14.00% | ~2,595 |
-| Paper Jams | 14.00% | ~2,595 |
-| Desperate Times | 13.00% | ~2,409 |
-| Chew 'Em Up | 11.00% | ~2,039 |
-| Float Like A Butterfly | 11.00% | ~2,039 |
-| Reforged | 10.00% | ~1,853 |
-| Workplace Hazard | 9.00% | ~1,668 |
-| If the SHU Fits... | 9.00% | ~1,668 |
+| Flesh Wound | 15.00% | ~2,781 |
+| The Outer Way | 15.00% | ~2,781 |
+| Get a Grip | 14.00% | ~2,596 |
+| Paper Jams | 14.00% | ~2,596 |
+| Desperate Times | 13.00% | ~2,410 |
+| Chew 'Em Up | 11.00% | ~2,040 |
+| Float Like A Butterfly | 11.00% | ~2,040 |
+| Reforged | 10.00% | ~1,854 |
+| Workplace Hazard | 9.00% | ~1,669 |
+| If the SHU Fits... | 9.00% | ~1,669 |
 | Without A Paddle | 8.00% | ~1,483 |
-| Two Heads Are Better Than One | 7.00% | ~1,297 |
-| In the Pipe, Five by Five | 7.00% | ~1,297 |
-| Crash Site | 7.00% | ~1,297 |
-| Power Up | 7.00% | ~1,297 |
-| You Need a Gun | 6.00% | ~1,112 |
-| Terminated | 6.00% | ~1,112 |
-| What Lies Beneath | 6.00% | ~1,112 |
-| Full Circle | 6.00% | ~1,112 |
+| Two Heads Are Better Than One | 7.00% | ~1,298 |
+| In the Pipe, Five by Five | 7.00% | ~1,298 |
+| Crash Site | 7.00% | ~1,298 |
+| Power Up | 7.00% | ~1,298 |
+| You Need a Gun | 6.00% | ~1,113 |
+| Terminated | 6.00% | ~1,113 |
+| What Lies Beneath | 6.00% | ~1,113 |
+| Full Circle | 6.00% | ~1,113 |
 | Keep Fighting | 6.00% | ~388 |
 | Giving Back | 5.00% | ~927 |
 | I Do Belong Here | 5.00% | ~927 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 934)
 | Bear Trap | 0.10% | ~6 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,534 (Ranked 149)  
+Progressed: 18,542 (Ranked 149)  
 Completed: 82 (0.44%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 82 (0.44%) (Ranked 225)
 | 2023-12-19 | 18,137 | 82 |
 | 2023-12-20 | 18,301 | 82 |
 | 2023-12-21 | 18,465 | 82 |
-| 2023-12-22 | 18,534 | 82 |
+| 2023-12-22 | 18,542 | 82 |
 ## Awards
 Max (Quickly Understood Controls): 91  (Ranked 385)  
 Sum: 542 (Ranked 326)  

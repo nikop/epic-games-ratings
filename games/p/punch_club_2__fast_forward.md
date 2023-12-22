@@ -49,7 +49,7 @@
 | GYM professional | 36.00% | ~160 |
 | The die is cast | 36.00% | ~160 |
 | Poisoned fighter | 35.00% | ~155 |
-| Get out of my apartment! | 34.00% | ~151 |
+| Get out of my apartment! | 35.00% | ~155 |
 | Seashell hunter | 33.00% | ~147 |
 | Gang wrangler | 32.00% | ~142 |
 | Undercover robot | 32.00% | ~142 |
@@ -63,10 +63,10 @@
 | Keep nature safe | 29.00% | ~129 |
 | Family comes first | 29.00% | ~129 |
 | Key memories | 29.00% | ~129 |
+| The last bell ring | 29.00% | ~129 |
 | Careerist | 29.00% | ~129 |
 | Anyone can resist | 29.00% | ~129 |
 | The heart of the Resistance | 29.00% | ~129 |
-| The last bell ring | 28.00% | ~124 |
 | Better cooking at home | 26.00% | ~115 |
 | The only right decision | 26.00% | ~115 |
 | Silver’s past | 25.00% | ~111 |

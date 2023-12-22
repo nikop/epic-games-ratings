@@ -6,11 +6,11 @@
 | ---- | ---------- | ----- |
 | First success | 86.00% | ~38 |
 | Suicide squad | 52.00% | ~23 |
+| Train hard, fight easy | 32.00% | ~14 |
+| Under cover | 32.00% | ~14 |
 | First blood | 32.00% | ~14 |
-| Train hard, fight easy | 30.00% | ~13 |
-| Under cover | 30.00% | ~13 |
+| Royal blessing | 27.00% | ~12 |
 | All for one! | 25.00% | ~11 |
-| Royal blessing | 25.00% | ~11 |
 | A hidden snake | 25.00% | ~11 |
 | Blood and sand | 25.00% | ~11 |
 | Vene, vidi, vici | 20.00% | ~9 |

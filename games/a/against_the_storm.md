@@ -13,13 +13,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Taking Action | 4.00% | ~756 |
 | No Deaths | 4.00% | ~756 |
 | Frosts | 4.00% | ~756 |
+| Land of Greed | 4.00% | ~756 |
 | Ominous Presence | 4.00% | ~756 |
 | Gathering Storm | 4.00% | ~756 |
 | Overcoming Difficulty | 3.00% | ~567 |
 | Coral Forest | 3.00% | ~567 |
 | The Marshlands | 3.00% | ~567 |
 | The Scarlet Orchard | 3.00% | ~567 |
-| Land of Greed | 3.00% | ~567 |
 | Homesick | 2.00% | ~378 |
 | Fertile Meadows | 2.00% | ~378 |
 | Monastery of the Holy Flame | 2.00% | ~378 |
@@ -41,9 +41,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Trade Baron | 1.00% | ~189 |
 | Against All Odds | 0.90% | ~170 |
 | Haunted Forest | 0.90% | ~170 |
+| Defying the Crown | 0.80% | ~151 |
 | Serving Ale | 0.70% | ~132 |
 | Victory Through Prosperity | 0.70% | ~132 |
-| Defying the Crown | 0.70% | ~132 |
 | Into the Forest | 0.70% | ~132 |
 | Fishmen Ritual Site | 0.60% | ~113 |
 | Forsaken Gods Temple | 0.60% | ~113 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,893 (Ranked 148)  
+Progressed: 18,896 (Ranked 148)  
 Completed: 39 (0.21%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 39 (0.21%) (Ranked 268)
 | 2023-12-19 | 18,687 | 39 |
 | 2023-12-20 | 18,771 | 39 |
 | 2023-12-21 | 18,861 | 39 |
-| 2023-12-22 | 18,893 | 39 |
+| 2023-12-22 | 18,896 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 228)  
 Sum: 3,277 (Ranked 175)  

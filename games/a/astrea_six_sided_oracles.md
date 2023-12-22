@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 76.00% | ~158 |
-| Purification Pioneer | 72.00% | ~150 |
-| Mechanical Buddy | 67.00% | ~139 |
-| Dicesmithing Time! | 60.00% | ~125 |
-| Sanctuary Guardian | 54.00% | ~112 |
-| Endless Tricks | 50.00% | ~104 |
-| Wild's Keeper | 47.00% | ~98 |
-| Mind Illuminator | 44.00% | ~92 |
-| Noctuan Champion | 37.00% | ~77 |
-| Stellar Dismantler | 36.00% | ~75 |
+| Meissa's Savior | 76.00% | ~160 |
+| Purification Pioneer | 72.00% | ~151 |
+| Mechanical Buddy | 68.00% | ~143 |
+| Dicesmithing Time! | 60.00% | ~126 |
+| Sanctuary Guardian | 53.00% | ~111 |
+| Endless Tricks | 50.00% | ~105 |
+| Wild's Keeper | 47.00% | ~99 |
+| Mind Illuminator | 43.00% | ~90 |
+| Stellar Dismantler | 36.00% | ~76 |
+| Noctuan Champion | 36.00% | ~76 |
 | Anomaly Destroyer | 32.00% | ~67 |
-| Astral Adventurer | 31.00% | ~64 |
-| Star Killer | 28.00% | ~58 |
+| Astral Adventurer | 31.00% | ~65 |
+| Star Killer | 28.00% | ~59 |
 | Eridanian Champion | 25.00% | ~52 |
-| Lacertian Champion | 24.00% | ~50 |
 | Loyal Partner | 23.00% | ~48 |
-| Apian Champion | 22.00% | ~46 |
-| Shard Spender | 18.00% | ~37 |
-| Unbeatable | 18.00% | ~37 |
-| Behenian Champion | 18.00% | ~37 |
-| Sadistic Plan | 15.00% | ~31 |
+| Lacertian Champion | 23.00% | ~48 |
+| Apian Champion | 21.00% | ~44 |
+| Shard Spender | 18.00% | ~38 |
+| Unbeatable | 18.00% | ~38 |
+| Behenian Champion | 18.00% | ~38 |
+| Sadistic Plan | 16.00% | ~34 |
 | Astral Seeker | 10.00% | ~21 |
 | Heavy Purger | 10.00% | ~21 |
 | Stellar Haste | 10.00% | ~21 |
@@ -35,9 +35,9 @@
 | The Corruption Goddess | 8.00% | ~17 |
 | The Goddes Avatar | 8.00% | ~17 |
 | Can't touch this | 7.00% | ~15 |
-| Anomaly Control | 6.00% | ~12 |
-| Artificer | 6.00% | ~12 |
-| Apian Hero | 6.00% | ~12 |
+| Anomaly Control | 6.00% | ~13 |
+| Artificer | 6.00% | ~13 |
+| Apian Hero | 6.00% | ~13 |
 | Denying Destiny | 5.00% | ~10 |
 | Prestidigitation | 5.00% | ~10 |
 | The Dark Moon | 5.00% | ~10 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208 (Ranked 403)  
+Progressed: 210 (Ranked 402)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,4 +160,4 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-19 | 195 | 0 |
 | 2023-12-20 | 201 | 0 |
 | 2023-12-21 | 206 | 0 |
-| 2023-12-22 | 208 | 0 |
+| 2023-12-22 | 210 | 0 |

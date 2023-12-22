@@ -6,8 +6,8 @@
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 219,
-  "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_Completed": 207,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -151,11 +151,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2935,
+  "EOS_Progressed": 2936,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.55,
+  "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:35.6138039+00:00",
@@ -4876,6 +4876,11 @@
       "Time": "2023-12-22T09:04:35.7182421+00:00",
       "NumProgressed": 2935,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-12-22T10:03:43.7424152+00:00",
+      "NumProgressed": 2936,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 53,
@@ -4909,9 +4914,9 @@
       "ID": "STB_COLISSEUM_SECOND",
       "SetID": "3pe2bac",
       "Name": "Whispers in the Woods II",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 558
+      "UsersEstimate": 528
     },
     {
       "ID": "STB_COLISSEUM_THIRD",
@@ -4927,7 +4932,7 @@
       "Name": "Hijack",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -4951,7 +4956,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2788
+      "UsersEstimate": 2789
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -4967,7 +4972,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2260
+      "UsersEstimate": 2261
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -5071,7 +5076,7 @@
       "Name": "No more cages!",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 2671
+      "UsersEstimate": 2672
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -5103,7 +5108,7 @@
       "Name": "Dark Forest",
       "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 2260
+      "UsersEstimate": 2261
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -5111,7 +5116,7 @@
       "Name": "Thornbarrow",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1203
+      "UsersEstimate": 1204
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -5191,7 +5196,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1761
+      "UsersEstimate": 1762
     },
     {
       "ID": "STB_PET_HORSE",
@@ -5263,7 +5268,7 @@
       "Name": "The use of petricite",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2172
+      "UsersEstimate": 2173
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -5295,7 +5300,7 @@
       "Name": "Ancient power",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -5310,7 +5315,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2935,
+      "Progressed": 2936,
       "Completed": 16
     }
   ],
@@ -5318,8 +5323,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-20T21:00:13.330526+00:00",
-  "LastChanged_Achievements": "2023-12-22T09:04:35.7182417+00:00",
+  "LastChanged_Achievements": "2023-12-22T10:03:43.7424148+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:24.9335177+00:00",
-  "LastUpdate_Ratings": "2023-12-22T09:02:27.0111039+00:00",
-  "LastUpdate_Achievements": "2023-12-22T09:04:35.7183186+00:00"
+  "LastUpdate_Ratings": "2023-12-22T10:02:34.6164987+00:00",
+  "LastUpdate_Achievements": "2023-12-22T10:03:43.742466+00:00"
 }

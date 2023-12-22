@@ -4,7 +4,7 @@
   "ProductSlug": "risk-of-rain-2",
   "Ranking_Rating": 61,
   "Ranking_Popularity": 264,
-  "Ranking_PopularitySum": 194,
+  "Ranking_PopularitySum": 193,
   "Ranking_EOS_Progress": 814,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 561,
@@ -3117,10 +3117,16 @@
       "Rating": 4.83,
       "NumberOfAwards": 2626,
       "NumberOfAwardsMax": 277
+    },
+    {
+      "Time": "2023-12-22T09:59:05.1499111+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 2629,
+      "NumberOfAwardsMax": 277
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2626,
+  "NumberOfAwards": 2629,
   "NumberOfAwardsMax": 277,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3140,7 +3146,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 244
+      "Count": 245
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3164,7 +3170,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 249
+      "Count": 250
     },
     {
       "Text": "This game has Unique Visuals",
@@ -3182,7 +3188,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 218
+      "Count": 219
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3208,8 +3214,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:31.4387684+00:00",
-  "LastChanged": "2023-12-22T08:59:59.1141683+00:00",
+  "LastChanged": "2023-12-22T09:59:05.149911+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:15.6015304+00:00",
-  "LastUpdate_Ratings": "2023-12-22T08:59:59.1141688+00:00",
-  "LastUpdate_Achievements": "2023-12-22T09:04:57.9233601+00:00"
+  "LastUpdate_Ratings": "2023-12-22T09:59:05.1499115+00:00",
+  "LastUpdate_Achievements": "2023-12-22T10:04:00.3878197+00:00"
 }

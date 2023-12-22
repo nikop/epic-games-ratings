@@ -299,9 +299,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2485,
+  "EOS_Progressed": 2486,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7074,6 +7074,11 @@
       "Time": "2023-12-22T08:04:21.3346458+00:00",
       "NumProgressed": 2485,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T10:04:20.1135551+00:00",
+      "NumProgressed": 2486,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -7109,7 +7114,7 @@
       "Name": "Resistance is futile",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "A04",
@@ -7165,7 +7170,7 @@
       "Name": "From X to Y",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 1814
+      "UsersEstimate": 1815
     },
     {
       "ID": "A11",
@@ -7181,7 +7186,7 @@
       "Name": "Departure",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1839
+      "UsersEstimate": 1840
     },
     {
       "ID": "A13",
@@ -7189,7 +7194,7 @@
       "Name": "Seven at one stroke",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "A14",
@@ -7205,7 +7210,7 @@
       "Name": "Full Steam ahead",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "A16",
@@ -7261,7 +7266,7 @@
       "Name": "Brainstorm",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1640
+      "UsersEstimate": 1641
     },
     {
       "ID": "A23",
@@ -7325,7 +7330,7 @@
       "Name": "All mine",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "A31",
@@ -7333,7 +7338,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "A32",
@@ -7357,7 +7362,7 @@
       "Name": "Producer",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "A35",
@@ -7373,7 +7378,7 @@
       "Name": "Way of Iron",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1764
+      "UsersEstimate": 1765
     },
     {
       "ID": "A37",
@@ -7405,7 +7410,7 @@
       "Name": "Mind the Gap",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1615
+      "UsersEstimate": 1616
     },
     {
       "ID": "A41",
@@ -7413,7 +7418,7 @@
       "Name": "Right through the middle",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 1466
+      "UsersEstimate": 1467
     },
     {
       "ID": "A42",
@@ -7461,7 +7466,7 @@
       "Name": "Travel Company",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 1640
+      "UsersEstimate": 1641
     },
     {
       "ID": "A48",
@@ -7477,15 +7482,15 @@
       "Name": "Financial Shark",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "A50",
       "SetID": "9b7p7eo",
       "Name": "Accurate",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 75
     },
     {
       "ID": "A51",
@@ -7524,7 +7529,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 2485,
+      "Progressed": 2486,
       "Completed": 0
     }
   ],
@@ -7532,8 +7537,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-12-07T22:58:14.7831098+00:00",
-  "LastChanged_Achievements": "2023-12-22T09:05:25.0452671+00:00",
+  "LastChanged_Achievements": "2023-12-22T10:04:20.1135544+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:12.4572163+00:00",
-  "LastUpdate_Ratings": "2023-12-22T08:02:46.2195196+00:00",
-  "LastUpdate_Achievements": "2023-12-22T09:05:25.0453381+00:00"
+  "LastUpdate_Ratings": "2023-12-22T09:57:10.0250546+00:00",
+  "LastUpdate_Achievements": "2023-12-22T10:04:20.1136131+00:00"
 }

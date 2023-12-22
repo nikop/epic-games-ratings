@@ -6,51 +6,51 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 82.00% | ~47 |
-| First of many… | 77.00% | ~44 |
-| Helping Hand | 75.00% | ~43 |
-| Increased Vigor | 70.00% | ~40 |
-| Fight Fire with Fire | 70.00% | ~40 |
-| Increased Capacity | 63.00% | ~36 |
-| Just the start | 60.00% | ~34 |
-| Perfect Storm | 53.00% | ~30 |
-| Enhance! | 53.00% | ~30 |
-| All That Glitters | 53.00% | ~30 |
-| One Of the Chosen | 51.00% | ~29 |
-| 25 to Life | 49.00% | ~28 |
-| Unshakable Fortitude | 47.00% | ~27 |
-| Throne Potato | 47.00% | ~27 |
-| Devil's in the Details | 46.00% | ~26 |
-| Five's a Crowd | 46.00% | ~26 |
-| Soul Harvester | 42.00% | ~24 |
-| Salvation | 42.00% | ~24 |
-| Delusions of Grandeur | 42.00% | ~24 |
-| I Wanna Rock | 40.00% | ~23 |
-| For Whom the Bell Tolls | 39.00% | ~22 |
-| Love Tap | 37.00% | ~21 |
-| Maximum Vigor | 33.00% | ~19 |
-| Freeze Frame | 33.00% | ~19 |
-| Can you restore the Balance? | 32.00% | ~18 |
-| Eat Your Heart Out | 32.00% | ~18 |
-| Crowd Source | 30.00% | ~17 |
-| Unyielding Strength | 28.00% | ~16 |
-| Cleanup Crew | 28.00% | ~16 |
-| Big Spender | 26.00% | ~15 |
-| Maximum Capacity | 25.00% | ~14 |
-| Demon Meddler | 21.00% | ~12 |
-| Egomaniac | 21.00% | ~12 |
-| Seeing Red | 21.00% | ~12 |
+| Green with Envy | 81.00% | ~48 |
+| First of many… | 76.00% | ~45 |
+| Helping Hand | 75.00% | ~44 |
+| Increased Vigor | 68.00% | ~40 |
+| Fight Fire with Fire | 68.00% | ~40 |
+| Increased Capacity | 61.00% | ~36 |
+| Just the start | 58.00% | ~34 |
+| Perfect Storm | 53.00% | ~31 |
+| All That Glitters | 53.00% | ~31 |
+| Enhance! | 51.00% | ~30 |
+| One Of the Chosen | 49.00% | ~29 |
+| 25 to Life | 47.00% | ~28 |
+| Unshakable Fortitude | 46.00% | ~27 |
+| Throne Potato | 46.00% | ~27 |
+| Devil's in the Details | 44.00% | ~26 |
+| Five's a Crowd | 44.00% | ~26 |
+| Soul Harvester | 41.00% | ~24 |
+| Salvation | 41.00% | ~24 |
+| Delusions of Grandeur | 41.00% | ~24 |
+| I Wanna Rock | 39.00% | ~23 |
+| For Whom the Bell Tolls | 37.00% | ~22 |
+| Love Tap | 36.00% | ~21 |
+| Maximum Vigor | 32.00% | ~19 |
+| Freeze Frame | 32.00% | ~19 |
+| Can you restore the Balance? | 31.00% | ~18 |
+| Eat Your Heart Out | 31.00% | ~18 |
+| Crowd Source | 29.00% | ~17 |
+| Unyielding Strength | 27.00% | ~16 |
+| Cleanup Crew | 27.00% | ~16 |
+| Big Spender | 25.00% | ~15 |
+| Maximum Capacity | 24.00% | ~14 |
+| Seeing Red | 22.00% | ~13 |
+| Demon Meddler | 20.00% | ~12 |
+| Egomaniac | 20.00% | ~12 |
 | Protector of Humanity | 19.00% | ~11 |
 | Everybody Wants to Rule the World | 19.00% | ~11 |
-| Unbreakable Will | 16.00% | ~9 |
+| Unbreakable Will | 15.00% | ~9 |
 | Holy Keeper | 14.00% | ~8 |
 | Community Outreach | 14.00% | ~8 |
 | Take it to the Limit | 14.00% | ~8 |
 | Demon Keeper | 12.00% | ~7 |
 | Path of the Horseman | 12.00% | ~7 |
-| A Parting Gift | 11.00% | ~6 |
-| Humanitarian | 11.00% | ~6 |
-| Soul Reaper | 9.00% | ~5 |
+| A Parting Gift | 10.00% | ~6 |
+| Humanitarian | 10.00% | ~6 |
+| Soul Reaper | 8.00% | ~5 |
 | My Evil Twin | 7.00% | ~4 |
 | Made of Sterner Stuff | 7.00% | ~4 |
 | Purity of Power | 5.00% | ~3 |
@@ -58,7 +58,7 @@ Number of Ratings: 116  (23.09.2022)
 | Keeper of the Vale | 5.00% | ~3 |
 | Keeper of the Sky | 5.00% | ~3 |
 | Keep it 100! | 5.00% | ~3 |
-| Proceed on your way to Armageddon | 4.00% | ~2 |
+| Proceed on your way to Armageddon | 3.00% | ~2 |
 | Balance in all things | 2.00% | ~1 |
 | "Impressive!" | 2.00% | ~1 |
 | "Incredible!" | 2.00% | ~1 |
@@ -71,14 +71,14 @@ Number of Ratings: 116  (23.09.2022)
 | "Amazing!" | 0.00% | ~0 |
 | Beast Mode | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57 (Ranked 519)  
+Progressed: 59 (Ranked 517)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-12-13 | 1 | 0 |
 | 2023-12-21 | 34 | 0 |
-| 2023-12-22 | 57 | 0 |
+| 2023-12-22 | 59 | 0 |
 ## Awards
 Max (Great Boss Battles): 92  (Ranked 383)  
 Sum: 92 (Ranked 462)  

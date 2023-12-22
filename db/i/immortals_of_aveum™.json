@@ -265,9 +265,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1544,
+  "EOS_Progressed": 1547,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 952,
+  "EOS_NewPlayers": 953,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2715,6 +2715,11 @@
       "Time": "2023-12-22T09:10:12.6039562+00:00",
       "NumProgressed": 1544,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-22T10:09:16.6081825+00:00",
+      "NumProgressed": 1547,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -2725,9 +2730,9 @@
       "ID": "achievement_1",
       "SetID": "18al4io",
       "Name": "Unforeseen",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 1343
+      "UsersEstimate": 1361
     },
     {
       "ID": "achievement_10",
@@ -2735,7 +2740,7 @@
       "Name": "Control is an Illusion",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "achievement_11",
@@ -2759,7 +2764,7 @@
       "Name": "A Familiar Nest",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "achievement_14",
@@ -2815,7 +2820,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1238
     },
     {
       "ID": "achievement_20",
@@ -2871,7 +2876,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1036
     },
     {
       "ID": "achievement_36",
@@ -2903,7 +2908,7 @@
       "Name": "No More Names",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 741
+      "UsersEstimate": 743
     },
     {
       "ID": "achievement_41",
@@ -2943,7 +2948,7 @@
       "Name": "Periapt Alizarin",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "achievement_46",
@@ -2959,7 +2964,7 @@
       "Name": "Enlisted",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1114
     },
     {
       "ID": "achievement_49",
@@ -2967,7 +2972,7 @@
       "Name": "Soldier",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "achievement_5",
@@ -2975,7 +2980,7 @@
       "Name": "Initiate",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "achievement_50",
@@ -3023,7 +3028,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_60",
@@ -3079,7 +3084,7 @@
       "Name": "Gravity-Challenged Rocks",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "achievement_8",
@@ -3087,7 +3092,7 @@
       "Name": "All the Major Food Groups",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "achievement_9",
@@ -3095,14 +3100,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 1544,
+      "Progressed": 1547,
       "Completed": 2
     }
   ],
@@ -3110,8 +3115,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-12-22T07:00:02.0554889+00:00",
-  "LastChanged_Achievements": "2023-12-22T09:10:12.6039558+00:00",
+  "LastChanged_Achievements": "2023-12-22T10:09:16.6081822+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:30.3074422+00:00",
-  "LastUpdate_Ratings": "2023-12-22T09:02:05.4891966+00:00",
-  "LastUpdate_Achievements": "2023-12-22T09:10:12.6040012+00:00"
+  "LastUpdate_Ratings": "2023-12-22T10:00:28.6571532+00:00",
+  "LastUpdate_Achievements": "2023-12-22T10:09:16.6082199+00:00"
 }

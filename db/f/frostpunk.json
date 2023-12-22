@@ -4,7 +4,7 @@
   "ProductSlug": "frostpunk",
   "Ranking_Rating": 162,
   "Ranking_Popularity": 172,
-  "Ranking_PopularitySum": 121,
+  "Ranking_PopularitySum": 120,
   "Ranking_EOS_Progress": 814,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 561,
@@ -6633,10 +6633,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 7305,
       "NumberOfAwardsMax": 852
+    },
+    {
+      "Time": "2023-12-22T09:58:23.546644+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 7306,
+      "NumberOfAwardsMax": 852
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7305,
+  "NumberOfAwards": 7306,
   "NumberOfAwardsMax": 852,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -6644,7 +6650,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 821
+      "Count": 822
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6726,9 +6732,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.239094+00:00",
-  "LastChanged": "2023-12-21T15:58:32.9098811+00:00",
-  "LastChanged_Achievements": "2023-12-22T09:09:24.1517369+00:00",
+  "LastChanged": "2023-12-22T09:58:23.5466439+00:00",
+  "LastChanged_Achievements": "2023-12-22T10:08:41.5108354+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:33.3357387+00:00",
-  "LastUpdate_Ratings": "2023-12-22T08:58:57.6203838+00:00",
-  "LastUpdate_Achievements": "2023-12-22T09:09:24.1517439+00:00"
+  "LastUpdate_Ratings": "2023-12-22T09:58:23.5466445+00:00",
+  "LastUpdate_Achievements": "2023-12-22T10:08:41.5108375+00:00"
 }

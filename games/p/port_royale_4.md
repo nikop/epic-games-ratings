@@ -8,7 +8,7 @@ Number of Ratings: 53  (23.09.2022)
 | ---- | ---------- | ----- |
 | Cabin boy | 80.00% | ~889 |
 | My little farm | 64.00% | ~711 |
-| Every beginning is difficult | 62.00% | ~689 |
+| Every beginning is difficult | 63.00% | ~700 |
 | Gofer | 56.00% | ~622 |
 | 3, 2, 1, mine | 55.00% | ~611 |
 | O Captain! My Captain! | 55.00% | ~611 |
@@ -21,7 +21,7 @@ Number of Ratings: 53  (23.09.2022)
 | Pirates! | 34.00% | ~378 |
 | Collectionitis | 29.00% | ~322 |
 | Megalomania | 29.00% | ~322 |
-| Christening | 27.00% | ~300 |
+| Christening | 28.00% | ~311 |
 | Groundskeeper | 25.00% | ~278 |
 | Wholesale | 22.00% | ~244 |
 | Walk the plank | 21.00% | ~233 |

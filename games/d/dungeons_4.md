@@ -42,7 +42,7 @@
 | Forbidden Knowledge | 28.00% | ~170 |
 | Doom Hill | 28.00% | ~170 |
 | Hungry, Hungry Gorgu! | 27.00% | ~164 |
-| Stop Tanos! | 26.00% | ~158 |
+| Stop Tanos! | 27.00% | ~164 |
 | Brimstone Shaken, Not Stirred | 26.00% | ~158 |
 | Sabotage! | 25.00% | ~152 |
 | Bonus Evilness | 24.00% | ~146 |

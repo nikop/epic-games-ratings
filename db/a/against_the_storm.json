@@ -3539,9 +3539,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18893,
+  "EOS_Progressed": 18896,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 702,
+  "EOS_NewPlayers": 703,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16664,6 +16664,11 @@
       "Time": "2023-12-22T09:08:25.1175219+00:00",
       "NumProgressed": 18893,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-22T10:07:58.9861611+00:00",
+      "NumProgressed": 18896,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17058,9 +17063,9 @@
       "ID": "WinWithoutOrders",
       "SetID": "cfbk359",
       "Name": "Defying the Crown",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 132
+      "UsersEstimate": 151
     },
     {
       "ID": "Year1Dangerous",
@@ -17090,9 +17095,9 @@
       "ID": "WinNearGreed",
       "SetID": "cfbk359",
       "Name": "Land of Greed",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 567
+      "UsersEstimate": 756
     },
     {
       "ID": "WinNearLibrary",
@@ -17147,15 +17152,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18893,
+      "Progressed": 18896,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-21T17:59:36.1497483+00:00",
-  "LastChanged_Achievements": "2023-12-22T09:08:25.1175214+00:00",
+  "LastChanged_Achievements": "2023-12-22T10:07:58.9861609+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
-  "LastUpdate_Ratings": "2023-12-22T09:01:47.8681396+00:00",
-  "LastUpdate_Achievements": "2023-12-22T09:08:25.1176657+00:00"
+  "LastUpdate_Ratings": "2023-12-22T10:00:16.5426865+00:00",
+  "LastUpdate_Achievements": "2023-12-22T10:07:58.9862425+00:00"
 }

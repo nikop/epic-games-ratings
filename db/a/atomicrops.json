@@ -4,7 +4,7 @@
   "ProductSlug": "atomicrops",
   "Ranking_Rating": 33,
   "Ranking_Popularity": 328,
-  "Ranking_PopularitySum": 402,
+  "Ranking_PopularitySum": 403,
   "Ranking_EOS_Progress": 814,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 561,
@@ -492,6 +492,6 @@
   "FirstSeen": "2022-07-22T20:22:16.7457184+00:00",
   "LastChanged": "2023-12-20T16:58:12.8767282+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:21.8187657+00:00",
-  "LastUpdate_Ratings": "2023-12-22T08:59:57.0422728+00:00",
-  "LastUpdate_Achievements": "2023-12-22T09:09:21.3001732+00:00"
+  "LastUpdate_Ratings": "2023-12-22T09:59:03.619546+00:00",
+  "LastUpdate_Achievements": "2023-12-22T10:08:39.3586811+00:00"
 }

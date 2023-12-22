@@ -4,7 +4,7 @@
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewPlayers": 340,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
@@ -1028,17 +1028,17 @@
       "ID": "TINGWD_OUTBOX",
       "SetID": "c0imaa6",
       "Name": "Outside the box",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 45
     },
     {
       "ID": "TINGWD_PERPETUITY",
       "SetID": "c0imaa6",
       "Name": "Life sentence",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "TINGWD_PUNCHMAN",
@@ -1052,9 +1052,9 @@
       "ID": "TINGWD_RADAR",
       "SetID": "c0imaa6",
       "Name": "Better than Mr. Radar",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "TINGWD_RAIDERS",
@@ -1076,15 +1076,15 @@
       "ID": "TINGWD_SHIFUMI_LOSE",
       "SetID": "c0imaa6",
       "Name": "Roshambo Addict",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "TINGWD_SHOOT",
       "SetID": "c0imaa6",
       "Name": "Skeet shoot",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -1100,9 +1100,9 @@
       "ID": "TINGWD_TRAP",
       "SetID": "c0imaa6",
       "Name": "It\u0027s a trap!",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 120,
-      "UsersEstimate": 81
+      "UsersEstimate": 83
     },
     {
       "ID": "TINGWD_WRONGDIMENSION",
@@ -1123,8 +1123,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-12-22T09:06:57.8499833+00:00",
+  "LastChanged_Achievements": "2023-12-22T10:05:26.8056458+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:02.2829018+00:00",
-  "LastUpdate_Ratings": "2023-12-22T08:59:15.3570646+00:00",
-  "LastUpdate_Achievements": "2023-12-22T09:06:57.8500036+00:00"
+  "LastUpdate_Ratings": "2023-12-22T09:58:35.3214683+00:00",
+  "LastUpdate_Achievements": "2023-12-22T10:05:26.8056695+00:00"
 }

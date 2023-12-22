@@ -10,9 +10,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Titan's First Steps | 9.00% | ~13,219 |
 | Basic in Bulk | 8.00% | ~11,750 |
 | Tinkle of Coins | 8.00% | ~11,750 |
-| Disintermediation | 6.00% | ~8,812 |
-| It's Free Real Estate | 6.00% | ~8,812 |
-| Capitalism Ho! | 6.00% | ~8,812 |
+| Disintermediation | 6.00% | ~8,813 |
+| It's Free Real Estate | 6.00% | ~8,813 |
+| Capitalism Ho! | 6.00% | ~8,813 |
 | One Easy Payment | 5.00% | ~7,344 |
 | Some Assembly Required | 5.00% | ~7,344 |
 | Another Satisfied Customer | 5.00% | ~7,344 |
@@ -31,6 +31,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Blank Page Syndrome | 3.00% | ~4,406 |
 | Demand for Supplies | 3.00% | ~4,406 |
 | Flooding the Market | 3.00% | ~4,406 |
+| Power of Love | 3.00% | ~4,406 |
 | Efficient Floor Space | 3.00% | ~4,406 |
 | Flawless Fusion | 3.00% | ~4,406 |
 | Gem Expert | 3.00% | ~4,406 |
@@ -63,7 +64,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Omae wa Mou Shindeiru | 2.00% | ~2,938 |
 | Master of Transmutation | 2.00% | ~2,938 |
 | Hidden Potential | 2.00% | ~2,938 |
-| Power of Love | 2.00% | ~2,938 |
 | Supercharged | 2.00% | ~2,938 |
 | Expansion in Session | 2.00% | ~2,938 |
 | Ritualist | 2.00% | ~2,938 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~588 |
 | Capitalist Camaraderie | 0.20% | ~294 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 146,875 (Ranked 82)  
+Progressed: 146,880 (Ranked 82)  
 Completed: 329 (0.22%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -365,7 +365,7 @@ Completed: 329 (0.22%) (Ranked 266)
 | 2023-12-19 | 146,428 | 325 |
 | 2023-12-20 | 146,580 | 325 |
 | 2023-12-21 | 146,796 | 328 |
-| 2023-12-22 | 146,875 | 329 |
+| 2023-12-22 | 146,880 | 329 |
 ## Awards
 Max (Great for Beginners): 4,906  (Ranked 75)  
 Sum: 27,779 (Ranked 52)  
