@@ -33,12 +33,12 @@ Rating: 4.01 (Ranked 1,015)
 | Caveman | 1.00% | ~18 |
 | One does not simply... | 1.00% | ~18 |
 | Thunderstruck | 1.00% | ~18 |
-| 5G Network | 0.80% | ~14 |
+| 5G Network | 0.90% | ~16 |
 | Rover Mechanic | 0.50% | ~9 |
 | Bull’s eye | 0.40% | ~7 |
 | Korolev crater | 0.40% | ~7 |
 | Hot Repairs | 0.30% | ~5 |
-| Never Ending Story? | 0.20% | ~4 |
+| Never Ending Story? | 0.30% | ~5 |
 | Roadster | 0.20% | ~4 |
 | Cooking Vegetables | 0.10% | ~2 |
 | Historical Places | 0.10% | ~2 |

@@ -5,8 +5,8 @@ Rating: 4.62 (Ranked 374)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Realm Estate | 7.00% | ~418 |
-| Secret Technique | 7.00% | ~418 |
+| Realm Estate | 7.00% | ~419 |
+| Secret Technique | 7.00% | ~419 |
 | A Wonderful Discovery | 6.00% | ~359 |
 | Walls Cannot Stop Us | 6.00% | ~359 |
 | Bone Peddler | 5.00% | ~299 |
@@ -16,10 +16,10 @@ Rating: 4.62 (Ranked 374)
 | Full Ascension | 4.00% | ~239 |
 | Magical Synergy | 4.00% | ~239 |
 | Seat of Power | 4.00% | ~239 |
-| Valley of Wonders | 3.00% | ~179 |
-| Stronger Together | 3.00% | ~179 |
-| In a Liege of Your Own | 3.00% | ~179 |
-| Intimidation Tactics | 3.00% | ~179 |
+| Valley of Wonders | 3.00% | ~180 |
+| Stronger Together | 3.00% | ~180 |
+| In a Liege of Your Own | 3.00% | ~180 |
+| Intimidation Tactics | 3.00% | ~180 |
 | Return of the Wizard King | 2.00% | ~120 |
 | Enchanted Archipelago | 2.00% | ~120 |
 | Digging for Treasure | 2.00% | ~120 |
@@ -54,7 +54,7 @@ Rating: 4.62 (Ranked 374)
 | Pruning for Progress | 0.70% | ~42 |
 | One for All, All for One | 0.70% | ~42 |
 | Duality | 0.70% | ~42 |
-| Betrayal Most Foul | 0.40% | ~24 |
+| Betrayal Most Foul | 0.50% | ~30 |
 | Snap Out of It! | 0.30% | ~18 |
 | The Magic That Empowers Me! | 0.30% | ~18 |
 | Jack of All Tomes | 0.30% | ~18 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 374)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,978 (Ranked 193)  
+Progressed: 5,985 (Ranked 193)  
 Completed: 7 (0.12%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 7 (0.12%) (Ranked 296)
 | 2023-12-19 | 5,881 | 7 |
 | 2023-12-20 | 5,911 | 7 |
 | 2023-12-21 | 5,945 | 7 |
-| 2023-12-22 | 5,978 | 7 |
+| 2023-12-22 | 5,985 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 481)  
 Sum: 113 (Ranked 449)  

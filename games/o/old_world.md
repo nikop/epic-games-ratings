@@ -16,7 +16,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 0.20% | ~32 |
 | Pioneer | 0.20% | ~32 |
 | Settler | 0.20% | ~32 |
+| Strong | 0.20% | ~32 |
 | Friendly Family | 0.20% | ~32 |
+| Hanging Gardens | 0.20% | ~32 |
 | Play a Single Player Game | 0.20% | ~32 |
 | Alexander the Great | 0.10% | ~16 |
 | Lighthouse in Alexandria | 0.10% | ~16 |
@@ -75,7 +77,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old | 0.10% | ~16 |
 | Peacemaker | 0.10% | ~16 |
 | Ready | 0.10% | ~16 |
-| Strong | 0.10% | ~16 |
 | Subjugator | 0.10% | ~16 |
 | Valiant | 0.10% | ~16 |
 | Victorious | 0.10% | ~16 |
@@ -93,6 +94,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Magnificent Difficulty | 0.10% | ~16 |
 | Noble Difficulty | 0.10% | ~16 |
 | Strong Difficulty | 0.10% | ~16 |
+| Elephant in Elephantine | 0.10% | ~16 |
 | Event Level High | 0.10% | ~16 |
 | Artisans | 0.10% | ~16 |
 | Champions | 0.10% | ~16 |
@@ -116,7 +118,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus | 0.10% | ~16 |
 | Great Ziggurat | 0.10% | ~16 |
 | Hagia Sophia | 0.10% | ~16 |
-| Hanging Gardens | 0.10% | ~16 |
 | Church of the Holy Sepulchre | 0.10% | ~16 |
 | Temple of Solomon | 0.10% | ~16 |
 | Cao'an | 0.10% | ~16 |
@@ -225,9 +226,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kush | 0.10% | ~16 |
 | Kushite Paganism | 0.10% | ~16 |
 | Beja Archer | 0.10% | ~16 |
+| Al Khazneh | 0.10% | ~16 |
 | Colosseum | 0.10% | ~16 |
+| Heliopolis | 0.10% | ~16 |
+| Jebel Barkal | 0.10% | ~16 |
 | Jerwan Aqueduct | 0.10% | ~16 |
 | Royal Library | 0.10% | ~16 |
+| Yazilikaya | 0.10% | ~16 |
 | Colosseum in Roma | 0.10% | ~16 |
 | Centenarian | 0.00% | ~0 |
 | Alexander the who? | 0.00% | ~0 |
@@ -244,7 +249,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Council of Madness | 0.00% | ~0 |
 | Via Recta Souk in Damascus | 0.00% | ~0 |
 | Oracle in Delphi | 0.00% | ~0 |
-| Elephant in Elephantine | 0.00% | ~0 |
 | Ethnic Diversity | 0.00% | ~0 |
 | Et tu Brutus? | 0.00% | ~0 |
 | Battle of the Fertile Crescent | 0.00% | ~0 |
@@ -355,17 +359,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cothon in Carthago | 0.00% | ~0 |
 | Yazilikaya in Hattusa | 0.00% | ~0 |
 | Heliopolis in Heliopolis | 0.00% | ~0 |
-| Al Khazneh | 0.00% | ~0 |
 | Cothon | 0.00% | ~0 |
-| Heliopolis | 0.00% | ~0 |
-| Jebel Barkal | 0.00% | ~0 |
-| Yazilikaya | 0.00% | ~0 |
 | Jerwan Aqueduct in Jerwan | 0.00% | ~0 |
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,872 (Ranked 160)  
+Progressed: 15,873 (Ranked 160)  
 Completed: 5 (0.03%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -611,7 +611,7 @@ Completed: 5 (0.03%) (Ranked 345)
 | 2023-12-19 | 15,840 | 5 |
 | 2023-12-20 | 15,854 | 5 |
 | 2023-12-21 | 15,865 | 5 |
-| 2023-12-22 | 15,872 | 5 |
+| 2023-12-22 | 15,873 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 279)  
 Sum: 1,907 (Ranked 220)  

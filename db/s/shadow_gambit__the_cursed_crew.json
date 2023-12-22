@@ -155,9 +155,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1246,
+  "EOS_Progressed": 1247,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.73,
   "EosHistory": [
@@ -4240,6 +4240,11 @@
       "Time": "2023-12-22T14:04:53.4212292+00:00",
       "NumProgressed": 1246,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-22T15:04:54.7343742+00:00",
+      "NumProgressed": 1247,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4276,7 +4281,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "_05_FinishAct2",
@@ -4396,7 +4401,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -4459,7 +4464,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1246,
+      "Progressed": 1247,
       "Completed": 34
     }
   ],
@@ -4467,8 +4472,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-21T17:58:16.3881577+00:00",
-  "LastChanged_Achievements": "2023-12-22T14:04:53.4212289+00:00",
+  "LastChanged_Achievements": "2023-12-22T15:04:54.734374+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:17.2609478+00:00",
-  "LastUpdate_Ratings": "2023-12-22T13:59:03.2179233+00:00",
-  "LastUpdate_Achievements": "2023-12-22T14:04:53.4212642+00:00"
+  "LastUpdate_Ratings": "2023-12-22T14:59:12.4154359+00:00",
+  "LastUpdate_Achievements": "2023-12-22T15:04:54.7344122+00:00"
 }

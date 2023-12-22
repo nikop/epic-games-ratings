@@ -5,10 +5,10 @@
   "Ranking_Rating": 175,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
-  "Ranking_EOS_Progress": 355,
+  "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 321,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
     "PcReleaseDate": "2021-01-28T00:00:00+00:00",
@@ -70,7 +70,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 372,
+  "EOS_Progressed": 373,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
@@ -475,6 +475,11 @@
       "Time": "2023-12-22T12:10:55.8775653+00:00",
       "NumProgressed": 372,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-22T15:09:57.3096805+00:00",
+      "NumProgressed": 373,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -580,9 +585,9 @@
       "ID": "ach-campaign-finish-easy",
       "SetID": "17ih7ma",
       "Name": "Traveller",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 93
     },
     {
       "ID": "ach-campaign-finish-hard",
@@ -622,7 +627,7 @@
       "Name": "A Strange Artefact",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ach-campaign-story2",
@@ -638,7 +643,7 @@
       "Name": "O Captain My Captain",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ach-cartography-complete",
@@ -662,7 +667,7 @@
       "Name": "Cartographer",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ach-discover-locations-high",
@@ -694,7 +699,7 @@
       "Name": "Red Flag Pirate",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ach-find-treasure-high",
@@ -708,9 +713,9 @@
       "ID": "ach-firstExpedition",
       "SetID": "17ih7ma",
       "Name": "The Adventure Begins",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 239
     },
     {
       "ID": "ach-hardExpeditions",
@@ -750,7 +755,7 @@
       "Name": "Taxonomist",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ach-kill-hyenas",
@@ -774,7 +779,7 @@
       "Name": "Shennong Herbalist",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ach-maxClubLevel-american",
@@ -804,9 +809,9 @@
       "ID": "ach-maxLevelCharacter",
       "SetID": "17ih7ma",
       "Name": "Veteran Explorer",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 78
     },
     {
       "ID": "ach-meetGhost",
@@ -830,7 +835,7 @@
       "Name": "Insomnia",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ach-pacifist-goals",
@@ -838,7 +843,7 @@
       "Name": "Nahua Seeker",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ach-paleMask-cure",
@@ -852,9 +857,9 @@
       "ID": "ach-paleMask-party",
       "SetID": "17ih7ma",
       "Name": "Uncertain Loyalties",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 93
     },
     {
       "ID": "ach-portal-return",
@@ -862,7 +867,7 @@
       "Name": "From Whence we Came",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "ach-promotion",
@@ -910,7 +915,7 @@
       "Name": "Cold Blood, Warm Heart",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ach-spendNoMoney",
@@ -934,7 +939,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ach-unlockAllLeaders",
@@ -950,7 +955,7 @@
       "Name": "Errand Runner",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ach-wearHat",
@@ -965,7 +970,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 372,
+      "Progressed": 373,
       "Completed": 1
     }
   ],
@@ -973,8 +978,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-12-22T14:09:37.6106145+00:00",
+  "LastChanged_Achievements": "2023-12-22T15:09:57.3096804+00:00",
   "LastUpdate_AppInfo": "2023-12-16T13:57:07.0437312+00:00",
-  "LastUpdate_Ratings": "2023-12-22T13:57:29.9774115+00:00",
-  "LastUpdate_Achievements": "2023-12-22T14:09:37.610659+00:00"
+  "LastUpdate_Ratings": "2023-12-22T14:57:29.4802834+00:00",
+  "LastUpdate_Achievements": "2023-12-22T15:09:57.3097221+00:00"
 }

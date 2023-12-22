@@ -7,12 +7,12 @@ Rating: 4.64 (Ranked 338)
 | ---- | ---------- | ----- |
 | Satisfied Gus-tomer | 4.00% | ~993 |
 | Are You Packin'? | 4.00% | ~993 |
+| Bring A Knife to a Gun Fight | 4.00% | ~993 |
 | Sweezy Like Sunday Morning | 4.00% | ~993 |
 | First Bounty Down | 4.00% | ~993 |
 | G3 Graduation | 4.00% | ~993 |
 | Cold-Blooded Driller | 4.00% | ~993 |
 | Creature Feature | 3.00% | ~745 |
-| Bring A Knife to a Gun Fight | 3.00% | ~745 |
 | RIP Davey Glutes | 3.00% | ~745 |
 | We're All Very Impressed, Trust Me | 3.00% | ~745 |
 | Hardest Battle In The Game | 3.00% | ~745 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 338)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,821 (Ranked 142)  
+Progressed: 24,822 (Ranked 142)  
 Completed: 14 (0.06%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 14 (0.06%) (Ranked 324)
 | 2023-12-19 | 24,778 | 14 |
 | 2023-12-20 | 24,792 | 14 |
 | 2023-12-21 | 24,817 | 14 |
-| 2023-12-22 | 24,821 | 14 |
+| 2023-12-22 | 24,822 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

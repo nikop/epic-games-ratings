@@ -2,13 +2,13 @@
   "ID": "5fdcc0dc67294af3be740f362bd976fd",
   "Name": "Magic: The Gathering Arena",
   "ProductSlug": "mtg-arena",
-  "Ranking_Rating": 672,
+  "Ranking_Rating": 658,
   "Ranking_Popularity": 34,
   "Ranking_PopularitySum": 17,
   "Ranking_EOS_Progress": 814,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 562,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 563,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-01-16T08:00:00+00:00",
     "PcReleaseDate": null,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN,KR,HK,MO,TW,TH,VN,ID,PH,MY,SG,KH,LA,BN,MM"
     }
   },
-  "Rating": 4.45,
+  "Rating": 4.46,
   "NumberOfRatings": 14652,
   "RatingHistory": [
     {
@@ -15422,10 +15422,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 99723,
       "NumberOfAwardsMax": 12743
+    },
+    {
+      "Time": "2023-12-22T14:59:20.072111+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 99737,
+      "NumberOfAwardsMax": 12743
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 99723,
+  "NumberOfAwards": 99737,
   "NumberOfAwardsMax": 12743,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -15439,13 +15445,13 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 10519
+      "Count": 10526
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 9832
+      "Count": 9839
     },
     {
       "Text": "This game is Relaxing",
@@ -15507,8 +15513,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2023-12-22T07:58:43.9184657+00:00",
+  "LastChanged": "2023-12-22T14:59:20.0721109+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:12.3284096+00:00",
-  "LastUpdate_Ratings": "2023-12-22T13:59:10.2707821+00:00",
-  "LastUpdate_Achievements": "2023-12-22T14:06:09.3915157+00:00"
+  "LastUpdate_Ratings": "2023-12-22T14:59:20.0721114+00:00",
+  "LastUpdate_Achievements": "2023-12-22T15:06:18.9402556+00:00"
 }

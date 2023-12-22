@@ -2,10 +2,10 @@
   "ID": "a5c7f255d82b45c29d9ae3e3d2e5563a",
   "Name": "The Case of the Golden Idol",
   "ProductSlug": "the-case-of-the-golden-idol-ce58f7",
-  "Ranking_EOS_Progress": 397,
+  "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 97,
-  "Ranking_EOS_NewPlayers": 434,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 435,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-03-23T16:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -1081,8 +1081,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-12-22T14:03:54.8023344+00:00",
+  "LastChanged_Achievements": "2023-12-22T15:03:50.9395812+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:15.2411406+00:00",
-  "LastUpdate_Ratings": "2023-12-22T14:00:09.6832783+00:00",
-  "LastUpdate_Achievements": "2023-12-22T14:03:54.8023479+00:00"
+  "LastUpdate_Ratings": "2023-12-22T15:00:23.6884982+00:00",
+  "LastUpdate_Achievements": "2023-12-22T15:03:50.9396013+00:00"
 }

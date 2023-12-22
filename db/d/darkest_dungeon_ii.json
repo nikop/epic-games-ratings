@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10020,9 +10020,9 @@
       "Count": 1036
     }
   ],
-  "EOS_Progressed": 129106,
+  "EOS_Progressed": 129120,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1809,
+  "EOS_NewPlayers": 1804,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36270,6 +36270,11 @@
       "Time": "2023-12-22T14:08:52.8258252+00:00",
       "NumProgressed": 129106,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-22T15:09:08.7898949+00:00",
+      "NumProgressed": 129120,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36281,7 +36286,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3873
+      "UsersEstimate": 3874
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -36289,7 +36294,7 @@
       "Name": "Serenity Now!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3873
+      "UsersEstimate": 3874
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -36367,17 +36372,17 @@
       "ID": "altar_of_hope_upgrade_total_full",
       "SetID": "64l4lke",
       "Name": "The World As It Was",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 387
+      "UsersEstimate": 516
     },
     {
       "ID": "altar_of_hope_upgrade_total_half",
       "SetID": "64l4lke",
       "Name": "This Looks Familiar",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1162
+      "UsersEstimate": 1291
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -36409,7 +36414,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5164
+      "UsersEstimate": 5165
     },
     {
       "ID": "combat_kill_cadavers",
@@ -36433,7 +36438,7 @@
       "Name": "Not Today!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3873
+      "UsersEstimate": 3874
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -36441,7 +36446,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3873
+      "UsersEstimate": 3874
     },
     {
       "ID": "combat_kill_fanatics",
@@ -36481,7 +36486,7 @@
       "Name": "Meat and Greet",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3873
+      "UsersEstimate": 3874
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -36497,7 +36502,7 @@
       "Name": "Catch and Decease",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3873
+      "UsersEstimate": 3874
     },
     {
       "ID": "combat_kill_librarian",
@@ -36505,7 +36510,7 @@
       "Name": "Overdue Notice",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5164
+      "UsersEstimate": 5165
     },
     {
       "ID": "combat_kill_pillagers",
@@ -36521,7 +36526,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3873
+      "UsersEstimate": 3874
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -36577,7 +36582,7 @@
       "Name": "Rush Hour",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3873
+      "UsersEstimate": 3874
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -36601,7 +36606,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3873
+      "UsersEstimate": 3874
     },
     {
       "ID": "driving_distance_easy",
@@ -36633,7 +36638,7 @@
       "Name": "Autodidact",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5164
+      "UsersEstimate": 5165
     },
     {
       "ID": "hero_story_complete_all",
@@ -36689,7 +36694,7 @@
       "Name": "FNG",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3873
+      "UsersEstimate": 3874
     },
     {
       "ID": "inn_visit_all_variants",
@@ -36817,7 +36822,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "combat_kill_collector",
@@ -36865,7 +36870,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -36873,7 +36878,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "quest_complete_crusader",
@@ -36881,7 +36886,7 @@
       "Name": "Lost and Found",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -36889,7 +36894,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -36912,21 +36917,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 129106,
+      "Progressed": 129120,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 3975,
+      "Progressed": 3989,
       "Completed": 807
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-22T08:00:05.9983731+00:00",
-  "LastChanged_Achievements": "2023-12-22T14:08:52.8258248+00:00",
+  "LastChanged_Achievements": "2023-12-22T15:09:08.7898944+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-22T14:02:27.0953872+00:00",
-  "LastUpdate_Achievements": "2023-12-22T14:08:52.8260105+00:00"
+  "LastUpdate_Ratings": "2023-12-22T15:00:53.6319852+00:00",
+  "LastUpdate_Achievements": "2023-12-22T15:09:08.7900885+00:00"
 }

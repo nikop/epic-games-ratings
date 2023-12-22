@@ -23,7 +23,7 @@
 | Steam Powered | 18.00% | ~27 |
 | Steaming Rich | 18.00% | ~27 |
 | Manic Mechanic | 16.00% | ~24 |
-| Room To Spare | 13.00% | ~19 |
+| Room To Spare | 14.00% | ~21 |
 | Stack Overflow | 5.00% | ~7 |
 | Click 'Em All | 4.00% | ~6 |
 | Real Purdy | 4.00% | ~6 |

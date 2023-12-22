@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sorry, kiddo | 97.00% | ~251 |
-| And away we go! | 88.00% | ~228 |
+| Sorry, kiddo | 97.00% | ~252 |
+| And away we go! | 88.00% | ~229 |
 | Job one. DONE! | 62.00% | ~161 |
 | You are Carol Vorderman | 59.00% | ~153 |
 | Toby foolery | 52.00% | ~135 |
@@ -20,10 +20,10 @@
 | Prove it | 27.00% | ~70 |
 | The truth | 27.00% | ~70 |
 | Making a murderer | 20.00% | ~52 |
-| The whole truth | 16.00% | ~41 |
+| The whole truth | 16.00% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 259 (Ranked 385)  
-Completed: 28 (10.81%) (Ranked 38)  
+Progressed: 260 (Ranked 385)  
+Completed: 28 (10.77%) (Ranked 39)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -111,6 +111,7 @@ Completed: 28 (10.81%) (Ranked 38)
 | 2023-12-19 | 258 | 27 |
 | 2023-12-20 | 259 | 27 |
 | 2023-12-21 | 259 | 28 |
+| 2023-12-22 | 260 | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

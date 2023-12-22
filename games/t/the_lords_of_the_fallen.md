@@ -9,8 +9,6 @@ Rating: 4.25 (Ranked 898)
 | Lost and Found | 0.20% | ~13 |
 | Comrades | 0.20% | ~13 |
 | Shared Triumph | 0.20% | ~13 |
-| No Mercy | 0.20% | ~13 |
-| Thriving in Darkness | 0.20% | ~13 |
 | Wayfarer | 0.10% | ~7 |
 | Weapon Collector | 0.10% | ~7 |
 | Ironclad | 0.10% | ~7 |
@@ -29,6 +27,7 @@ Rating: 4.25 (Ranked 898)
 | Carving Out Victory | 0.10% | ~7 |
 | Utmost Insight | 0.10% | ~7 |
 | Vengeance for the Fallen | 0.10% | ~7 |
+| No Mercy | 0.10% | ~7 |
 | Infernal Offerings | 0.10% | ~7 |
 | Radiant Offerings | 0.10% | ~7 |
 | Umbral Offerings | 0.10% | ~7 |
@@ -62,6 +61,7 @@ Rating: 4.25 (Ranked 898)
 | Back to the Void | 0.10% | ~7 |
 | A Shadow Dispelled | 0.10% | ~7 |
 | Essence of Death | 0.10% | ~7 |
+| Thriving in Darkness | 0.10% | ~7 |
 | Seasoned | 0.10% | ~7 |
 | Lord of the Fallen | 0.10% | ~7 |
 | The Past Shapes the Present | 0.10% | ~7 |
@@ -69,7 +69,7 @@ Rating: 4.25 (Ranked 898)
 | A Rest Among the Dead | 0.10% | ~7 |
 | A Trace of Venom | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,666 (Ranked 190)  
+Progressed: 6,681 (Ranked 190)  
 Completed: 2 (0.03%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 2 (0.03%) (Ranked 345)
 | 2023-12-19 | 5,770 | 2 |
 | 2023-12-20 | 6,125 | 2 |
 | 2023-12-21 | 6,478 | 2 |
-| 2023-12-22 | 6,666 | 2 |
+| 2023-12-22 | 6,681 | 2 |
 ## Awards
 Max (Character Customization): 251  (Ranked 273)  
 Sum: 631 (Ranked 313)  

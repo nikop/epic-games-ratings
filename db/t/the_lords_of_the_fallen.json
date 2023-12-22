@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-13T14:00:00+00:00",
     "PcReleaseDate": "2023-10-13T14:00:00+00:00",
@@ -1107,9 +1107,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 6666,
+  "EOS_Progressed": 6681,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3319,
+  "EOS_NewPlayers": 3311,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5847,6 +5847,11 @@
       "Time": "2023-12-22T14:08:30.5874208+00:00",
       "NumProgressed": 6666,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-22T15:08:44.1550982+00:00",
+      "NumProgressed": 6681,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-23T12:04:43.6042359+00:00",
@@ -6033,9 +6038,9 @@
       "ID": "TLOTF_ACHIEVEMENT_023",
       "SetID": "87e61g",
       "Name": "No Mercy",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 7
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_024",
@@ -6305,9 +6310,9 @@
       "ID": "TLOTF_ACHIEVEMENT_057",
       "SetID": "87e61g",
       "Name": "Thriving in Darkness",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 7
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_058",
@@ -6362,7 +6367,7 @@
     {
       "ID": "87e61g",
       "IsBase": true,
-      "Progressed": 6666,
+      "Progressed": 6681,
       "Completed": 2
     }
   ],
@@ -6370,8 +6375,8 @@
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
   "LastChanged": "2023-12-22T13:59:21.5047535+00:00",
-  "LastChanged_Achievements": "2023-12-22T14:08:30.5874206+00:00",
+  "LastChanged_Achievements": "2023-12-22T15:08:44.1550981+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:35.9560906+00:00",
-  "LastUpdate_Ratings": "2023-12-22T13:59:21.504754+00:00",
-  "LastUpdate_Achievements": "2023-12-22T14:08:30.5874948+00:00"
+  "LastUpdate_Ratings": "2023-12-22T14:59:32.6684757+00:00",
+  "LastUpdate_Achievements": "2023-12-22T15:08:44.1551657+00:00"
 }

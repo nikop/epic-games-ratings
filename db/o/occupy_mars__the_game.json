@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 351,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -4773,9 +4773,9 @@
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
       "SetID": "l546gc",
       "Name": "5G Network",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "NEW_ACHIEVEMENT_ALIENS",
@@ -4949,9 +4949,9 @@
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
       "SetID": "l546gc",
       "Name": "Never Ending Story?",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "NEW_ACHIEVEMENT_OCCUPY_MARS",
@@ -5078,8 +5078,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-12-22T01:43:37.6229896+00:00",
-  "LastChanged_Achievements": "2023-12-22T14:08:47.8386336+00:00",
+  "LastChanged_Achievements": "2023-12-22T15:09:03.2779611+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:56:59.196607+00:00",
-  "LastUpdate_Ratings": "2023-12-22T13:58:55.0641909+00:00",
-  "LastUpdate_Achievements": "2023-12-22T14:08:47.8386961+00:00"
+  "LastUpdate_Ratings": "2023-12-22T14:59:03.0941039+00:00",
+  "LastUpdate_Achievements": "2023-12-22T15:09:03.2780135+00:00"
 }

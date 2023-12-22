@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2184,9 +2184,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15872,
+  "EOS_Progressed": 15873,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18104,6 +18104,11 @@
       "Time": "2023-12-22T14:09:25.8023774+00:00",
       "NumProgressed": 15872,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-22T15:09:44.938491+00:00",
+      "NumProgressed": 15873,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -18745,9 +18750,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
       "SetID": "7l38kb8",
       "Name": "Strong",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
@@ -18913,9 +18918,9 @@
       "ID": "ACHIEVEMENT_ELEPHANTINE_ELEPHANT",
       "SetID": "9201eeb",
       "Name": "Elephant in Elephantine",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_ETHNIC_DIVERSITY",
@@ -19481,9 +19486,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HANGING_GARDENS",
       "SetID": "9201eeb",
       "Name": "Hanging Gardens",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY",
@@ -20873,9 +20878,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_AL_KHAZNEH",
       "SetID": "9201eeb",
       "Name": "Al Khazneh",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_COLOSSEUM",
@@ -20897,17 +20902,17 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HELIOPOLIS",
       "SetID": "9201eeb",
       "Name": "Heliopolis",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_JEBEL_BARKAL",
       "SetID": "9201eeb",
       "Name": "Jebel Barkal",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_JERWAN_AQUEDUCT",
@@ -20929,9 +20934,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_YAZILIKAYA",
       "SetID": "9201eeb",
       "Name": "Yazilikaya",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_JERWAN_JERWAN_AQUEDUCT",
@@ -20978,21 +20983,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15872,
+      "Progressed": 15873,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15872,
+      "Progressed": 15873,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-22T01:47:48.5403593+00:00",
-  "LastChanged_Achievements": "2023-12-22T14:09:25.8023771+00:00",
+  "LastChanged_Achievements": "2023-12-22T15:09:44.9384908+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:47.4773202+00:00",
-  "LastUpdate_Ratings": "2023-12-22T14:02:50.6168984+00:00",
-  "LastUpdate_Achievements": "2023-12-22T14:09:25.8033282+00:00"
+  "LastUpdate_Ratings": "2023-12-22T15:02:39.0547979+00:00",
+  "LastUpdate_Achievements": "2023-12-22T15:09:44.9394841+00:00"
 }

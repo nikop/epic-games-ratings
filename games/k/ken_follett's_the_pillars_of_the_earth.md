@@ -1,42 +1,42 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.51 (Ranked 582)  
+Rating: 4.51 (Ranked 583)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tattletale | 40.00% | ~6,906 |
 | Man of politics | 34.00% | ~5,870 |
-| Friends of sorts | 33.00% | ~5,697 |
-| Yet another secret | 33.00% | ~5,697 |
+| Friends of sorts | 33.00% | ~5,698 |
+| Yet another secret | 33.00% | ~5,698 |
 | Let there be darkness | 31.00% | ~5,352 |
 | End of Book One | 29.00% | ~5,007 |
-| Garden of Eden | 24.00% | ~4,143 |
+| Garden of Eden | 24.00% | ~4,144 |
 | Wannabe knight | 23.00% | ~3,971 |
 | Full house | 23.00% | ~3,971 |
-| Help an old friend | 21.00% | ~3,625 |
+| Help an old friend | 21.00% | ~3,626 |
 | Two of us | 20.00% | ~3,453 |
 | Negotiation skills | 18.00% | ~3,108 |
 | Workers' union | 18.00% | ~3,108 |
 | End of Book Two | 18.00% | ~3,108 |
-| Everything's in order | 16.00% | ~2,762 |
+| Everything's in order | 16.00% | ~2,763 |
 | Twist of Fate | 14.00% | ~2,417 |
 | Jack was here! | 14.00% | ~2,417 |
-| Exterminator | 13.00% | ~2,244 |
+| Exterminator | 13.00% | ~2,245 |
 | Whodunnit | 12.00% | ~2,072 |
-| Good midwife | 10.00% | ~1,726 |
-| Friar Tuck | 10.00% | ~1,726 |
-| First profit | 10.00% | ~1,726 |
-| Team player | 10.00% | ~1,726 |
+| Good midwife | 10.00% | ~1,727 |
+| Friar Tuck | 10.00% | ~1,727 |
+| First profit | 10.00% | ~1,727 |
+| Team player | 10.00% | ~1,727 |
 | Skilled merchant | 9.00% | ~1,554 |
 | Brother Marcus | 9.00% | ~1,554 |
 | The oath | 9.00% | ~1,554 |
 | The truth revealed | 9.00% | ~1,554 |
 | The End. | 9.00% | ~1,554 |
 | Nothing but make-believe | 8.00% | ~1,381 |
-| A cry for help | 7.00% | ~1,208 |
-| Silentium est aureum | 7.00% | ~1,208 |
+| A cry for help | 7.00% | ~1,209 |
+| Silentium est aureum | 7.00% | ~1,209 |
 | Rebel without a cause | 6.00% | ~1,036 |
 | Staring contest champion | 5.00% | ~863 |
 | Lone wolf | 5.00% | ~863 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~518 |
 | Boy of mystery | 2.00% | ~345 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,264 (Ranked 153)  
+Progressed: 17,266 (Ranked 153)  
 Completed: 119 (0.69%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 119 (0.69%) (Ranked 195)
 | 2023-12-19 | 17,192 | 119 |
 | 2023-12-20 | 17,220 | 119 |
 | 2023-12-21 | 17,248 | 119 |
-| 2023-12-22 | 17,264 | 119 |
+| 2023-12-22 | 17,266 | 119 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 320)  
 Sum: 200 (Ranked 409)  

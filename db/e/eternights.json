@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 593,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -2226,9 +2226,9 @@
       "ID": "ACHIEVEMENT_14_PromiseYuna",
       "SetID": "9bke6f1",
       "Name": "Yuna\u0027s Promise",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 154
+      "UsersEstimate": 160
     },
     {
       "ID": "ACHIEVEMENT_15_PromiseMin",
@@ -2401,8 +2401,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-12-22T14:08:33.3712384+00:00",
+  "LastChanged_Achievements": "2023-12-22T15:08:47.2381864+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:14.9985646+00:00",
-  "LastUpdate_Ratings": "2023-12-22T14:00:03.2130556+00:00",
-  "LastUpdate_Achievements": "2023-12-22T14:08:33.3712726+00:00"
+  "LastUpdate_Ratings": "2023-12-22T15:00:16.4325708+00:00",
+  "LastUpdate_Achievements": "2023-12-22T15:08:47.238225+00:00"
 }

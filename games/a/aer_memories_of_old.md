@@ -1,22 +1,22 @@
 # AER Memories of Old
 [Store](https://store.epicgames.com/en-US/p/aer-memories-of-old)  
 [View Rawdata](../../db/a/aer_memories_of_old.json)  
-Rating: 4.45 (Ranked 672)  
+Rating: 4.45 (Ranked 673)  
 Number of Ratings: 170  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 76.00% | ~20,364 |
+| Light at the end of the tunnel | 76.00% | ~20,366 |
 | Mama? | 27.00% | ~7,235 |
-| People's Haven | 18.00% | ~4,823 |
-| Cartographer | 17.00% | ~4,555 |
-| Knowledge for Power | 14.00% | ~3,751 |
-| Antlers of Stone | 14.00% | ~3,751 |
-| Gaze into the abyss | 13.00% | ~3,483 |
-| Mausoleum of Ice | 13.00% | ~3,483 |
-| Wings of Stone | 12.00% | ~3,215 |
-| Equilibrium | 12.00% | ~3,215 |
-| In the belly of the beast | 11.00% | ~2,947 |
+| People's Haven | 18.00% | ~4,824 |
+| Cartographer | 17.00% | ~4,556 |
+| Knowledge for Power | 14.00% | ~3,752 |
+| Antlers of Stone | 14.00% | ~3,752 |
+| Gaze into the abyss | 13.00% | ~3,484 |
+| Mausoleum of Ice | 13.00% | ~3,484 |
+| Wings of Stone | 12.00% | ~3,216 |
+| Equilibrium | 12.00% | ~3,216 |
+| In the belly of the beast | 11.00% | ~2,948 |
 | Condor condo | 10.00% | ~2,680 |
 | Memorial | 9.00% | ~2,412 |
 | An uninvited guest | 7.00% | ~1,876 |
@@ -27,7 +27,7 @@ Number of Ratings: 170  (23.09.2022)
 | Ripples on the surface | 5.00% | ~1,340 |
 | Hide and Seek | 4.00% | ~1,072 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,795 (Ranked 137)  
+Progressed: 26,798 (Ranked 137)  
 Completed: 498 (1.86%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 498 (1.86%) (Ranked 138)
 | 2023-12-19 | 26,606 | 495 |
 | 2023-12-20 | 26,672 | 495 |
 | 2023-12-21 | 26,754 | 496 |
-| 2023-12-22 | 26,795 | 498 |
+| 2023-12-22 | 26,798 | 498 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

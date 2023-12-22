@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 372,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 369,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
     "PcReleaseDate": "2016-09-22T14:42:57+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 605,
+  "EOS_Progressed": 606,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.14,
   "EosHistory": [
@@ -954,6 +954,11 @@
       "Time": "2023-12-22T12:10:45.2197816+00:00",
       "NumProgressed": 605,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-12-22T15:09:48.092765+00:00",
+      "NumProgressed": 606,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 32,
@@ -981,7 +986,7 @@
       "Name": "Blade Runner",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "BUCKLE_UP",
@@ -989,7 +994,7 @@
       "Name": "Buckle up",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "CONCRETE_PAINTING",
@@ -1005,7 +1010,7 @@
       "Name": "Curious",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "EVERYBODY_LIES",
@@ -1085,7 +1090,7 @@
       "Name": "I can do a thing or two",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "LUCKY_DOG",
@@ -1133,7 +1138,7 @@
       "Name": "Perfect hearing",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "PLEASE",
@@ -1157,7 +1162,7 @@
       "Name": "Quick charge",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "SHORT_CIRCUIT",
@@ -1211,16 +1216,16 @@
       "ID": "WALKING_ROBOT",
       "SetID": "2iigf77",
       "Name": "The Walking Robot Among Us",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 121
+      "UsersEstimate": 115
     }
   ],
   "AchievementSets": [
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 605,
+      "Progressed": 606,
       "Completed": 19
     }
   ],
@@ -1228,8 +1233,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-12-08T04:01:04.3643054+00:00",
-  "LastChanged_Achievements": "2023-12-22T14:09:29.0854059+00:00",
+  "LastChanged_Achievements": "2023-12-22T15:09:48.0927647+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.7016288+00:00",
-  "LastUpdate_Ratings": "2023-12-22T14:02:26.3275638+00:00",
-  "LastUpdate_Achievements": "2023-12-22T14:09:29.0854233+00:00"
+  "LastUpdate_Ratings": "2023-12-22T15:00:52.774596+00:00",
+  "LastUpdate_Achievements": "2023-12-22T15:09:48.0928019+00:00"
 }

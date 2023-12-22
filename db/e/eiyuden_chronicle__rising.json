@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 295,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
     "PcReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -191,11 +191,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 757,
+  "EOS_Progressed": 758,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.93,
+  "EOS_Completed_Percentage": 7.92,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:45.6416158+00:00",
@@ -621,6 +621,11 @@
       "Time": "2023-12-22T14:06:17.5597262+00:00",
       "NumProgressed": 757,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-22T15:06:27.4146967+00:00",
+      "NumProgressed": 758,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 50,
@@ -632,7 +637,7 @@
       "Name": "Plenty More to Go",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "ACHIEVEMENT002",
@@ -640,7 +645,7 @@
       "Name": "Partners?",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "ACHIEVEMENT003",
@@ -664,7 +669,7 @@
       "Name": "Magical Mineral Golem",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "ACHIEVEMENT006",
@@ -672,7 +677,7 @@
       "Name": "The Lords of the Snowpeak",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "ACHIEVEMENT007",
@@ -688,7 +693,7 @@
       "Name": "This Treasure I\u0027ve Found",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ACHIEVEMENT009",
@@ -696,7 +701,7 @@
       "Name": "The Road to Recovery",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "ACHIEVEMENT010",
@@ -718,9 +723,9 @@
       "ID": "ACHIEVEMENT012",
       "SetID": "dejhjd5",
       "Name": "The Go-To Girl",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 273
+      "UsersEstimate": 265
     },
     {
       "ID": "ACHIEVEMENT013",
@@ -752,7 +757,7 @@
       "Name": "One Mean Merc",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "ACHIEVEMENT017",
@@ -760,7 +765,7 @@
       "Name": "Adept, for an Acting Mayor",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "ACHIEVEMENT018",
@@ -816,7 +821,7 @@
       "Name": "Amateur Adventurer",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "ACHIEVEMENT025",
@@ -824,7 +829,7 @@
       "Name": "Hopeful Hunter",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "ACHIEVEMENT026",
@@ -832,7 +837,7 @@
       "Name": "No Treasure Left Behind",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACHIEVEMENT027",
@@ -856,15 +861,15 @@
       "Name": "New Nevaeh\u0027s Number One Customer",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ACHIEVEMENT030",
       "SetID": "dejhjd5",
       "Name": "Gourmand",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 68
     },
     {
       "ID": "ACHIEVEMENT031",
@@ -896,7 +901,7 @@
       "Name": "Money, Money, Money",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "ACHIEVEMENT035",
@@ -920,7 +925,7 @@
       "Name": "Rune Wall Wreckage",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "ACHIEVEMENT038",
@@ -936,7 +941,7 @@
       "Name": "Meat Master",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ACHIEVEMENT040",
@@ -944,7 +949,7 @@
       "Name": "Rune Wall Master",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ACHIEVEMENT041",
@@ -1031,15 +1036,15 @@
     {
       "ID": "dejhjd5",
       "IsBase": true,
-      "Progressed": 757,
+      "Progressed": 758,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-12-03T09:59:31.596296+00:00",
-  "LastChanged_Achievements": "2023-12-22T14:06:17.5597259+00:00",
+  "LastChanged_Achievements": "2023-12-22T15:06:27.4146965+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:14.9591133+00:00",
-  "LastUpdate_Ratings": "2023-12-22T13:59:07.4984879+00:00",
-  "LastUpdate_Achievements": "2023-12-22T14:06:17.5597568+00:00"
+  "LastUpdate_Ratings": "2023-12-22T14:59:17.1339864+00:00",
+  "LastUpdate_Achievements": "2023-12-22T15:06:27.4147265+00:00"
 }

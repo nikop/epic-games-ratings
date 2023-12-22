@@ -44,8 +44,8 @@
 | Champion – no way back | 39.00% | ~174 |
 | Underground dwellers | 38.00% | ~169 |
 | Responsible approach | 38.00% | ~169 |
+| Deal with life | 37.00% | ~165 |
 | Mom got better | 36.00% | ~160 |
-| Deal with life | 36.00% | ~160 |
 | GYM professional | 36.00% | ~160 |
 | The die is cast | 36.00% | ~160 |
 | Poisoned fighter | 35.00% | ~156 |

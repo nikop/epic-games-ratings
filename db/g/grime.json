@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1711,10 +1711,10 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 163824,
-  "EOS_Completed": 381,
-  "EOS_NewPlayers": 1190,
-  "EOS_NewCompleters": 51,
+  "EOS_Progressed": 163836,
+  "EOS_Completed": 382,
+  "EOS_NewPlayers": 1201,
+  "EOS_NewCompleters": 52,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
@@ -20181,6 +20181,11 @@
       "Time": "2023-12-22T14:06:19.1760557+00:00",
       "NumProgressed": 163824,
       "NumCompleted": 381
+    },
+    {
+      "Time": "2023-12-22T15:06:29.1464788+00:00",
+      "NumProgressed": 163836,
+      "NumCompleted": 382
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -20257,7 +20262,7 @@
       "Name": "Taste",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3276
+      "UsersEstimate": 3277
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -20289,7 +20294,7 @@
       "Name": "Shapely",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "DEFEAT_FLOWERHEART",
@@ -20377,7 +20382,7 @@
       "Name": "Watcher",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "DEFEAT_WHISPERERS",
@@ -20409,7 +20414,7 @@
       "Name": "Imprint",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3276
+      "UsersEstimate": 3277
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -20417,7 +20422,7 @@
       "Name": "Predator",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "MISC_ENDING_PROPER",
@@ -20455,9 +20460,9 @@
       "ID": "MISC_REACHHIGHLEVEL",
       "SetID": "ccc0dlh",
       "Name": "Sharpened Vessel",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 655
+      "UsersEstimate": 819
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -20560,21 +20565,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 163407,
+      "Progressed": 163419,
       "Completed": 1243
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 163824,
-      "Completed": 381
+      "Progressed": 163836,
+      "Completed": 382
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-22T14:00:25.7599851+00:00",
-  "LastChanged_Achievements": "2023-12-22T14:06:19.1760554+00:00",
+  "LastChanged_Achievements": "2023-12-22T15:06:29.1464786+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:23.4801204+00:00",
-  "LastUpdate_Ratings": "2023-12-22T14:00:25.7599857+00:00",
-  "LastUpdate_Achievements": "2023-12-22T14:06:19.176153+00:00"
+  "LastUpdate_Ratings": "2023-12-22T15:00:42.8210244+00:00",
+  "LastUpdate_Achievements": "2023-12-22T15:06:29.1465777+00:00"
 }

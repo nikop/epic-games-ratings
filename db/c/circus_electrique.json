@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 372,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 369,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -77,9 +77,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 491,
+  "EOS_Progressed": 492,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -582,6 +582,11 @@
       "Time": "2023-12-22T14:03:14.7025047+00:00",
       "NumProgressed": 491,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-22T15:03:07.5217553+00:00",
+      "NumProgressed": 492,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -593,7 +598,7 @@
       "Name": "Grand Opening",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -609,7 +614,7 @@
       "Name": "Lion Tamer",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -641,7 +646,7 @@
       "Name": "Circus Electrique Proudly Presents...",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -655,9 +660,9 @@
       "ID": "ACHIEVEMENT_09",
       "SetID": "631ndc2",
       "Name": "Path of Learning",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 212
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -697,7 +702,7 @@
       "Name": "More Brain Than Brawn",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -929,7 +934,7 @@
       "Name": "Amazing!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -992,7 +997,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 491,
+      "Progressed": 492,
       "Completed": 1
     }
   ],
@@ -1000,8 +1005,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-12-22T14:03:14.7025045+00:00",
+  "LastChanged_Achievements": "2023-12-22T15:03:07.521755+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:19.7923718+00:00",
-  "LastUpdate_Ratings": "2023-12-22T13:58:54.7359265+00:00",
-  "LastUpdate_Achievements": "2023-12-22T14:03:14.7025443+00:00"
+  "LastUpdate_Ratings": "2023-12-22T14:59:02.8024965+00:00",
+  "LastUpdate_Achievements": "2023-12-22T15:03:07.5218083+00:00"
 }

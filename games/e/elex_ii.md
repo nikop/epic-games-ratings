@@ -6,21 +6,23 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Best Buddy | 16.00% | ~9 |
+| Best Buddy | 15.00% | ~9 |
 | Entrepreneur | 14.00% | ~8 |
-| Role Model | 11.00% | ~6 |
+| Role Model | 10.00% | ~6 |
+| Creator | 7.00% | ~4 |
 | Military Leader | 5.00% | ~3 |
-| Creator | 5.00% | ~3 |
 | Civilian | 5.00% | ~3 |
-| Peddler | 4.00% | ~2 |
-| Long-Haul Flyer | 4.00% | ~2 |
-| Globetrotter | 4.00% | ~2 |
-| Free as a Bird | 4.00% | ~2 |
-| Irissa's Fate | 4.00% | ~2 |
+| Peddler | 3.00% | ~2 |
+| Long-Haul Flyer | 3.00% | ~2 |
+| Globetrotter | 3.00% | ~2 |
+| Free as a Bird | 3.00% | ~2 |
+| Irissa's Fate | 3.00% | ~2 |
 | Storyteller | 2.00% | ~1 |
 | Hotshot | 2.00% | ~1 |
 | Unbreakable | 2.00% | ~1 |
 | Alb | 2.00% | ~1 |
+| Berserker | 2.00% | ~1 |
+| Commander | 2.00% | ~1 |
 | Festival-goer | 2.00% | ~1 |
 | Pass A38 | 2.00% | ~1 |
 | Eternal Oblivion | 2.00% | ~1 |
@@ -39,13 +41,11 @@ Number of Ratings: 124  (23.09.2022)
 | Idealist | 0.00% | ~0 |
 | Toy Time | 0.00% | ~0 |
 | Defector | 0.00% | ~0 |
-| Berserker | 0.00% | ~0 |
 | Cleric | 0.00% | ~0 |
 | Morkon | 0.00% | ~0 |
 | Outlaw | 0.00% | ~0 |
 | Destroyer | 0.00% | ~0 |
 | Perfectionist | 0.00% | ~0 |
-| Commander | 0.00% | ~0 |
 | Legendary | 0.00% | ~0 |
 | Family Reunion | 0.00% | ~0 |
 | Detective | 0.00% | ~0 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Fire in the Hole | 0.00% | ~0 |
 | Lover | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57 (Ranked 521)  
+Progressed: 59 (Ranked 519)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,7 +66,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-19 | 32 | 0 |
 | 2023-12-20 | 40 | 0 |
 | 2023-12-21 | 48 | 0 |
-| 2023-12-22 | 57 | 0 |
+| 2023-12-22 | 59 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

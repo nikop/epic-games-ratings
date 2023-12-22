@@ -3,8 +3,8 @@
   "Name": "Who Pressed Mute on Uncle Marcus?",
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
   "Ranking_EOS_Progress": 385,
-  "Ranking_EOS_Completed": 38,
-  "Ranking_EOS_NewPlayers": 379,
+  "Ranking_EOS_Completed": 39,
+  "Ranking_EOS_NewPlayers": 374,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 259,
+  "EOS_Progressed": 260,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 10.81,
+  "EOS_Completed_Percentage": 10.77,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:58.284727+00:00",
@@ -660,6 +660,11 @@
       "Time": "2023-12-21T14:09:27.5776483+00:00",
       "NumProgressed": 259,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-22T15:09:29.0316698+00:00",
+      "NumProgressed": 260,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 17,
@@ -671,7 +676,7 @@
       "Name": "And away we go!",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "bless_the_rain",
@@ -767,7 +772,7 @@
       "Name": "Sorry, kiddo",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "the_truth",
@@ -783,7 +788,7 @@
       "Name": "The whole truth",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "toby_foolery",
@@ -806,7 +811,7 @@
     {
       "ID": "202dmm8",
       "IsBase": true,
-      "Progressed": 259,
+      "Progressed": 260,
       "Completed": 28
     }
   ],
@@ -814,8 +819,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-12-22T14:09:11.5322865+00:00",
+  "LastChanged_Achievements": "2023-12-22T15:09:29.0316695+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:24.8474883+00:00",
   "LastUpdate_Ratings": "2023-12-22T14:02:35.763606+00:00",
-  "LastUpdate_Achievements": "2023-12-22T14:09:11.532298+00:00"
+  "LastUpdate_Achievements": "2023-12-22T15:09:29.0316797+00:00"
 }

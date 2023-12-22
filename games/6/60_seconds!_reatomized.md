@@ -19,7 +19,7 @@ Rating: 4.52 (Ranked 565)
 | Souper! | 65.00% | ~3,820 |
 | Pacifist | 60.00% | ~3,526 |
 | 2-1-6 | 59.00% | ~3,467 |
-| A gift | 54.00% | ~3,174 |
+| A gift | 55.00% | ~3,232 |
 | Girl Power | 49.00% | ~2,880 |
 | What goes around... | 44.00% | ~2,586 |
 | Be Prepared | 38.00% | ~2,233 |
@@ -61,12 +61,12 @@ Rating: 4.52 (Ranked 565)
 | Pro gamer | 0.70% | ~41 |
 | Naysayer | 0.60% | ~35 |
 | Manhattan Project | 0.50% | ~29 |
-| Fair Exchange | 0.40% | ~24 |
+| Fair Exchange | 0.50% | ~29 |
 | Miracle | 0.30% | ~18 |
 | Tora! Tora! Tora! | 0.20% | ~12 |
 | Dead Hand | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,877 (Ranked 194)  
+Progressed: 5,877 (Ranked 195)  
 Completed: 1 (0.02%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |

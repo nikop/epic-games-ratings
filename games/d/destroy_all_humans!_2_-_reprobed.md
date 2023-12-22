@@ -11,8 +11,8 @@ Number of Ratings: 90  (23.09.2022)
 | Ducks in a Row, Fish in a Barrel | 48.00% | ~73 |
 | Furon Fashion | 42.00% | ~64 |
 | Shop Til They Drop | 36.00% | ~55 |
+| Earthly Pleasures | 30.00% | ~46 |
 | Bodied Sattva | 29.00% | ~44 |
-| Earthly Pleasures | 29.00% | ~44 |
 | Cult Following | 26.00% | ~40 |
 | Lie Back and Think of Albion | 22.00% | ~34 |
 | Pimp My Raid | 21.00% | ~32 |
@@ -20,7 +20,7 @@ Number of Ratings: 90  (23.09.2022)
 | I Look Up As I Walk to Takoshima | 18.00% | ~28 |
 | Freshly Squeezed | 16.00% | ~24 |
 | Perfect Probulator | 14.00% | ~21 |
-| Die Nasty | 12.00% | ~18 |
+| Die Nasty | 13.00% | ~20 |
 | Transmitting From Sol-3 | 10.00% | ~15 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 8.00% | ~12 |
 | Dusted | 8.00% | ~12 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.00% | ~0 |
 | Trans-Siberian Express | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 153 (Ranked 427)  
+Progressed: 153 (Ranked 428)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |

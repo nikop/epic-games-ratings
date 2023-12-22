@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 431,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -649,7 +649,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3664,
+  "EOS_Progressed": 3665,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 238,
   "EOS_NewCompleters": 0,
@@ -10499,6 +10499,11 @@
       "Time": "2023-12-22T14:08:05.5470678+00:00",
       "NumProgressed": 3664,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-22T15:07:46.5665027+00:00",
+      "NumProgressed": 3665,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -10702,7 +10707,7 @@
       "Name": "Four Leaf Clover",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "frostfireliberator",
@@ -10750,7 +10755,7 @@
       "Name": "Here We Go Again",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "heroinspection",
@@ -10804,9 +10809,9 @@
       "ID": "lieutenant",
       "SetID": "3nl4bcg",
       "Name": "Lieutenant",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 476
+      "UsersEstimate": 440
     },
     {
       "ID": "lockandload",
@@ -10822,7 +10827,7 @@
       "Name": "Master Enchanter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "mastery",
@@ -10990,7 +10995,7 @@
       "Name": "The father of Dragons",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "thegameison",
@@ -11030,7 +11035,7 @@
       "Name": "Trader",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "trainingmakesaproplayer",
@@ -11102,14 +11107,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2858
+      "UsersEstimate": 2859
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3664,
+      "Progressed": 3665,
       "Completed": 2
     }
   ],
@@ -11117,8 +11122,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-22T13:01:22.3199344+00:00",
-  "LastChanged_Achievements": "2023-12-22T14:08:05.5470676+00:00",
+  "LastChanged_Achievements": "2023-12-22T15:07:46.5665024+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:13.7887636+00:00",
-  "LastUpdate_Ratings": "2023-12-22T13:58:35.2197034+00:00",
-  "LastUpdate_Achievements": "2023-12-22T14:08:05.5471583+00:00"
+  "LastUpdate_Ratings": "2023-12-22T14:58:40.8298035+00:00",
+  "LastUpdate_Achievements": "2023-12-22T15:07:46.5666059+00:00"
 }

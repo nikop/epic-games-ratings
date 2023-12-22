@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -403,9 +403,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1460,
+  "EOS_Progressed": 1463,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3583,6 +3583,11 @@
       "Time": "2023-12-22T14:09:29.2889814+00:00",
       "NumProgressed": 1460,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-22T15:09:48.7323958+00:00",
+      "NumProgressed": 1463,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -3650,7 +3655,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1445
+      "UsersEstimate": 1448
     },
     {
       "ID": "EXPERT_1",
@@ -3666,7 +3671,7 @@
       "Name": "Explorer",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "GHOSTBUSTER",
@@ -3722,7 +3727,7 @@
       "Name": "Love Guru",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "NEANDERTHAL_1",
@@ -3746,7 +3751,7 @@
       "Name": "One HIT wonder",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -3754,7 +3759,7 @@
       "Name": "One shot, one kill",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "PACIFIST",
@@ -3810,7 +3815,7 @@
       "Name": "Sacrifice",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "SAVANT_1",
@@ -3850,7 +3855,7 @@
       "Name": "Traveler",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "VVE",
@@ -3866,7 +3871,7 @@
       "Name": "Wanderer",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "WISHMASTER_1",
@@ -3881,15 +3886,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1460,
+      "Progressed": 1463,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-11-03T17:57:55.7845483+00:00",
-  "LastChanged_Achievements": "2023-12-22T14:09:29.2889811+00:00",
+  "LastChanged_Achievements": "2023-12-22T15:09:48.7323957+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:19.4071615+00:00",
-  "LastUpdate_Ratings": "2023-12-22T13:59:02.5695053+00:00",
-  "LastUpdate_Achievements": "2023-12-22T14:09:29.2890159+00:00"
+  "LastUpdate_Ratings": "2023-12-22T14:59:11.3350972+00:00",
+  "LastUpdate_Achievements": "2023-12-22T15:09:48.7324265+00:00"
 }

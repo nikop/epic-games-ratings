@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 268,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3539,9 +3539,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18912,
+  "EOS_Progressed": 18915,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 699,
+  "EOS_NewPlayers": 694,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16689,6 +16689,11 @@
       "Time": "2023-12-22T14:07:57.3609648+00:00",
       "NumProgressed": 18912,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-22T15:07:37.6143639+00:00",
+      "NumProgressed": 18915,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16763,9 +16768,9 @@
       "ID": "ManyEvents",
       "SetID": "cfbk359",
       "Name": "Efficient Explorer",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 113
     },
     {
       "ID": "MetalChain",
@@ -16789,7 +16794,7 @@
       "Name": "First Real Expedition",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "WinHard",
@@ -17037,7 +17042,7 @@
       "Name": "Taking Action",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "WinWithResolve",
@@ -17077,7 +17082,7 @@
       "Name": "No Deaths",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "WinWithoutOrders",
@@ -17109,7 +17114,7 @@
       "Name": "Frosts",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "WinNearGreed",
@@ -17117,7 +17122,7 @@
       "Name": "Land of Greed",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "WinNearLibrary",
@@ -17141,7 +17146,7 @@
       "Name": "Ominous Presence",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "WinNearStorms",
@@ -17149,7 +17154,7 @@
       "Name": "Gathering Storm",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -17172,15 +17177,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18912,
+      "Progressed": 18915,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-21T17:59:36.1497483+00:00",
-  "LastChanged_Achievements": "2023-12-22T14:07:57.3609643+00:00",
+  "LastChanged_Achievements": "2023-12-22T15:07:37.6143636+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
-  "LastUpdate_Ratings": "2023-12-22T14:00:26.4290488+00:00",
-  "LastUpdate_Achievements": "2023-12-22T14:07:57.3610539+00:00"
+  "LastUpdate_Ratings": "2023-12-22T15:00:43.5527565+00:00",
+  "LastUpdate_Achievements": "2023-12-22T15:07:37.6144877+00:00"
 }

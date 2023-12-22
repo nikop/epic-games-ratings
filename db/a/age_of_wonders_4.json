@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 449,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -567,9 +567,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5978,
+  "EOS_Progressed": 5985,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 307,
+  "EOS_NewPlayers": 310,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8777,6 +8777,11 @@
       "Time": "2023-12-22T14:05:56.3554794+00:00",
       "NumProgressed": 5978,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-22T15:06:04.4465047+00:00",
+      "NumProgressed": 5985,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -8788,7 +8793,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "10",
@@ -8900,7 +8905,7 @@
       "Name": "Realm Estate",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "23",
@@ -8916,7 +8921,7 @@
       "Name": "Secret Technique",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "25",
@@ -8956,7 +8961,7 @@
       "Name": "Stronger Together",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "3",
@@ -9004,7 +9009,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "35",
@@ -9060,7 +9065,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "41",
@@ -9122,9 +9127,9 @@
       "ID": "8",
       "SetID": "3aa2279",
       "Name": "Betrayal Most Foul",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 30
     },
     {
       "ID": "9",
@@ -9267,13 +9272,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5978,
+      "Progressed": 5985,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5978,
+      "Progressed": 5985,
       "Completed": 7
     }
   ],
@@ -9281,8 +9286,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-20T07:59:25.4319145+00:00",
-  "LastChanged_Achievements": "2023-12-22T14:05:56.3554788+00:00",
+  "LastChanged_Achievements": "2023-12-22T15:06:04.4465045+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.6868317+00:00",
-  "LastUpdate_Ratings": "2023-12-22T13:57:50.3869338+00:00",
-  "LastUpdate_Achievements": "2023-12-22T14:05:56.3555619+00:00"
+  "LastUpdate_Ratings": "2023-12-22T14:57:52.8540026+00:00",
+  "LastUpdate_Achievements": "2023-12-22T15:06:04.446574+00:00"
 }

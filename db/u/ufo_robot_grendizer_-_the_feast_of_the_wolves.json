@@ -4,8 +4,8 @@
   "ProductSlug": "goldorak-d90cf1",
   "Ranking_EOS_Progress": 611,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 527,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 526,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-14T16:00:00+00:00",
     "PcReleaseDate": "2023-11-14T16:00:00+00:00",
@@ -177,17 +177,17 @@
       "ID": "ACH_FIRSTLEGENDARYLOOT",
       "SetID": "ch874lb",
       "Name": "The Remains of Fleed",
-      "Percentage": 44,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_FIRSTMEDITATION",
       "SetID": "ch874lb",
       "Name": "Life of Pi",
-      "Percentage": 44,
+      "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_FIRSTSKINCHANGE",
@@ -249,9 +249,9 @@
       "ID": "ACH_LEGENDARYMATERIAL",
       "SetID": "ch874lb",
       "Name": "The Legend",
-      "Percentage": 44,
+      "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_PERFECTDODGE",
@@ -376,8 +376,8 @@
   ],
   "FirstSeen": "2023-11-15T14:59:58.3542509+00:00",
   "FirstSeenAchievements": "2023-10-23T10:08:08.2725119+00:00",
-  "LastChanged_Achievements": "2023-12-22T14:04:18.7121337+00:00",
+  "LastChanged_Achievements": "2023-12-22T15:04:16.9261537+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:03.5029771+00:00",
-  "LastUpdate_Ratings": "2023-12-22T14:00:07.8906749+00:00",
-  "LastUpdate_Achievements": "2023-12-22T14:04:18.7121521+00:00"
+  "LastUpdate_Ratings": "2023-12-22T15:00:21.7562868+00:00",
+  "LastUpdate_Achievements": "2023-12-22T15:04:16.9261734+00:00"
 }

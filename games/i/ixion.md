@@ -12,7 +12,7 @@ Rating: 4.58 (Ranked 457)
 | A Thousand Strong | 18.00% | ~654 |
 | Ready for a New World | 18.00% | ~654 |
 | Space Society | 17.00% | ~617 |
-| Permanent Redesigns | 15.00% | ~545 |
+| Permanent Redesigns | 16.00% | ~581 |
 | Fully Recycled | 14.00% | ~508 |
 | Ain't Nobody Got Time for That | 14.00% | ~508 |
 | The Ship of Theseus | 14.00% | ~508 |

@@ -5,14 +5,14 @@ Rating: 4.20 (Ranked 934)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 15.00% | ~2,788 |
-| The Outer Way | 15.00% | ~2,788 |
-| Get a Grip | 14.00% | ~2,602 |
-| Paper Jams | 14.00% | ~2,602 |
-| Desperate Times | 14.00% | ~2,602 |
-| Chew 'Em Up | 12.00% | ~2,230 |
-| Float Like A Butterfly | 11.00% | ~2,044 |
-| Reforged | 11.00% | ~2,044 |
+| Flesh Wound | 15.00% | ~2,789 |
+| The Outer Way | 15.00% | ~2,789 |
+| Get a Grip | 14.00% | ~2,603 |
+| Paper Jams | 14.00% | ~2,603 |
+| Desperate Times | 14.00% | ~2,603 |
+| Chew 'Em Up | 12.00% | ~2,231 |
+| Float Like A Butterfly | 11.00% | ~2,045 |
+| Reforged | 11.00% | ~2,045 |
 | Workplace Hazard | 9.00% | ~1,673 |
 | If the SHU Fits... | 9.00% | ~1,673 |
 | Without A Paddle | 8.00% | ~1,487 |
@@ -26,7 +26,7 @@ Rating: 4.20 (Ranked 934)
 | What Lies Beneath | 6.00% | ~1,115 |
 | Full Circle | 6.00% | ~1,115 |
 | Keep Fighting | 6.00% | ~391 |
-| I Do Belong Here | 5.00% | ~929 |
+| I Do Belong Here | 5.00% | ~930 |
 | It's Time | 5.00% | ~326 |
 | In Striking Distance | 3.00% | ~558 |
 | The Commonality | 3.00% | ~558 |
@@ -53,8 +53,8 @@ Rating: 4.20 (Ranked 934)
 | Bear Trap | 0.10% | ~7 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,584 (Ranked 149)  
-Completed: 82 (0.44%) (Ranked 225)  
+Progressed: 18,591 (Ranked 149)  
+Completed: 82 (0.44%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -291,7 +291,7 @@ Completed: 82 (0.44%) (Ranked 225)
 | 2023-12-19 | 18,137 | 82 |
 | 2023-12-20 | 18,301 | 82 |
 | 2023-12-21 | 18,465 | 82 |
-| 2023-12-22 | 18,584 | 82 |
+| 2023-12-22 | 18,591 | 82 |
 ## Awards
 Max (Amazing Characters): 95  (Ranked 382)  
 Sum: 551 (Ranked 324)  

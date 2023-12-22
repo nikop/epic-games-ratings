@@ -5,10 +5,10 @@
   "Ranking_Rating": 565,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
-  "Ranking_EOS_Progress": 194,
+  "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 353,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2019-07-25T08:00:00+00:00",
@@ -8493,9 +8493,9 @@
       "ID": "ACH_PRESENT",
       "SetID": "5nj1ea3",
       "Name": "A gift",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 3174
+      "UsersEstimate": 3232
     },
     {
       "ID": "ACH_PRO_GAMER",
@@ -8589,9 +8589,9 @@
       "ID": "ACH_TRADER",
       "SetID": "5nj1ea3",
       "Name": "Fair Exchange",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_YESMAN",
@@ -8614,8 +8614,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-12-21T20:59:22.4145876+00:00",
-  "LastChanged_Achievements": "2023-12-22T14:07:52.1203929+00:00",
+  "LastChanged_Achievements": "2023-12-22T15:07:32.0555783+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:40.8323499+00:00",
-  "LastUpdate_Ratings": "2023-12-22T13:59:51.8998539+00:00",
-  "LastUpdate_Achievements": "2023-12-22T14:07:52.1204781+00:00"
+  "LastUpdate_Ratings": "2023-12-22T15:00:05.3814611+00:00",
+  "LastUpdate_Achievements": "2023-12-22T15:07:32.0556493+00:00"
 }

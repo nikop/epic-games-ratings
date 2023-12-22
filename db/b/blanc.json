@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3640,
+  "EOS_Progressed": 3642,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
@@ -5786,6 +5786,11 @@
       "Time": "2023-12-22T11:06:54.6803038+00:00",
       "NumProgressed": 3640,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-22T15:05:42.4135101+00:00",
+      "NumProgressed": 3642,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -5821,7 +5826,7 @@
       "Name": "Helping the little ones",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "MOVE_ON",
@@ -5877,7 +5882,7 @@
       "Name": "The end",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "TRANSMISSION",
@@ -5893,14 +5898,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3640,
+      "Progressed": 3642,
       "Completed": 6
     }
   ],
@@ -5908,8 +5913,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-22T14:05:36.5480826+00:00",
+  "LastChanged_Achievements": "2023-12-22T15:05:42.4135098+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:23.2126403+00:00",
-  "LastUpdate_Ratings": "2023-12-22T14:02:32.1015982+00:00",
-  "LastUpdate_Achievements": "2023-12-22T14:05:36.5481169+00:00"
+  "LastUpdate_Ratings": "2023-12-22T15:00:59.0645248+00:00",
+  "LastUpdate_Achievements": "2023-12-22T15:05:42.4135547+00:00"
 }

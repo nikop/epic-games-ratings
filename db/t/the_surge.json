@@ -3,12 +3,12 @@
   "Name": "The Surge",
   "ProductSlug": "the-surge",
   "Ranking_Rating": 686,
-  "Ranking_Popularity": 511,
-  "Ranking_PopularitySum": 527,
+  "Ranking_Popularity": 512,
+  "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 200,
-  "Ranking_EOS_Completed": 236,
+  "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -382,7 +382,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 5024,
+  "EOS_Progressed": 5025,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
@@ -3912,6 +3912,11 @@
       "Time": "2023-12-22T13:11:17.7895531+00:00",
       "NumProgressed": 5024,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-22T15:07:39.584896+00:00",
+      "NumProgressed": 5025,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -3971,7 +3976,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4220
+      "UsersEstimate": 4221
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -3979,7 +3984,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4723
+      "UsersEstimate": 4724
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -3987,7 +3992,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3868
+      "UsersEstimate": 3869
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -4051,7 +4056,7 @@
       "Name": "Sunglasses at Night",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "ID_ACHIEV_18",
@@ -4139,7 +4144,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3818
+      "UsersEstimate": 3819
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -4171,7 +4176,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 2713
+      "UsersEstimate": 2714
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -4307,7 +4312,7 @@
       "Name": "Carbon Cat",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "ID_ACHIEV_51",
@@ -4458,15 +4463,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5024,
+      "Progressed": 5025,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-21T05:59:26.6733243+00:00",
-  "LastChanged_Achievements": "2023-12-22T14:07:59.2160453+00:00",
+  "LastChanged_Achievements": "2023-12-22T15:07:39.5848958+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.7369287+00:00",
-  "LastUpdate_Ratings": "2023-12-22T14:00:20.5620863+00:00",
-  "LastUpdate_Achievements": "2023-12-22T14:07:59.2161461+00:00"
+  "LastUpdate_Ratings": "2023-12-22T15:00:36.3990523+00:00",
+  "LastUpdate_Achievements": "2023-12-22T15:07:39.5849789+00:00"
 }

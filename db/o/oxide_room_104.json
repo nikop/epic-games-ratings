@@ -3,9 +3,9 @@
   "Name": "Oxide Room 104",
   "ProductSlug": "oxide-room-104-4c1249",
   "Ranking_EOS_Progress": 383,
-  "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 372,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_Completed": 235,
+  "Ranking_EOS_NewPlayers": 369,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T22:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 273,
+  "EOS_Progressed": 274,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.37,
+  "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
     {
       "Time": "2023-05-04T03:02:36.1367715+00:00",
@@ -1259,6 +1259,11 @@
       "Time": "2023-12-20T17:03:52.1106193+00:00",
       "NumProgressed": 273,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-22T15:04:28.7767711+00:00",
+      "NumProgressed": 274,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -1294,7 +1299,7 @@
       "Name": "First aid",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ACH_BATHROOM",
@@ -1366,7 +1371,7 @@
       "Name": "Brute force",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "ACH_GOODENDING",
@@ -1438,7 +1443,7 @@
       "Name": "Nimble fingers",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ACH_RESTAURANT",
@@ -1462,7 +1467,7 @@
       "Name": "Room 104",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ACH_ROOM203",
@@ -1494,7 +1499,7 @@
       "Name": "Face to face",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH_THIRDFLOOR",
@@ -1510,21 +1515,21 @@
       "Name": "Now or never",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     }
   ],
   "AchievementSets": [
     {
       "ID": "511e31d",
       "IsBase": true,
-      "Progressed": 273,
+      "Progressed": 274,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-12-22T14:04:29.1099725+00:00",
+  "LastChanged_Achievements": "2023-12-22T15:04:28.7767708+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:11.3257713+00:00",
-  "LastUpdate_Ratings": "2023-12-22T13:58:16.7553986+00:00",
-  "LastUpdate_Achievements": "2023-12-22T14:04:29.109991+00:00"
+  "LastUpdate_Ratings": "2023-12-22T14:58:20.3063958+00:00",
+  "LastUpdate_Achievements": "2023-12-22T15:04:28.7767969+00:00"
 }

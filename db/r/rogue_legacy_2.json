@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1506,9 +1506,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 26232,
+  "EOS_Progressed": 26252,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 1858,
+  "EOS_NewPlayers": 1849,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -11446,6 +11446,11 @@
       "Time": "2023-12-22T14:09:17.8583255+00:00",
       "NumProgressed": 26232,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-22T15:09:35.8702256+00:00",
+      "NumProgressed": 26252,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -11465,7 +11470,7 @@
       "Name": "Truly Blessed",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "AllEquipment",
@@ -11473,7 +11478,7 @@
       "Name": "Black-shoppe",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "AllFriends",
@@ -11505,7 +11510,7 @@
       "Name": "Looks Familiar",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "BossBridgeAdvancedDefeated",
@@ -11521,7 +11526,7 @@
       "Name": "Captain and Crew",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1049
+      "UsersEstimate": 1050
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -11537,7 +11542,7 @@
       "Name": "Spells and Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1313
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -11553,7 +11558,7 @@
       "Name": "Hands and Hammers",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "BossFinalAdvancedDefeated",
@@ -11561,7 +11566,7 @@
       "Name": "For Greed",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "BossFinalDefeated",
@@ -11569,7 +11574,7 @@
       "Name": "King and Kin",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "BossForestAdvancedDefeated",
@@ -11585,7 +11590,7 @@
       "Name": "Harvest and Home",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -11593,7 +11598,7 @@
       "Name": "For Penance",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "BossGardenDefeated",
@@ -11601,7 +11606,7 @@
       "Name": "Progenitor and Prot\u00E9g\u00E9",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "BossStudyAdvancedDefeated",
@@ -11649,7 +11654,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "EndTimerFail",
@@ -11681,7 +11686,7 @@
       "Name": "Good Practice",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "Icarus",
@@ -11689,7 +11694,7 @@
       "Name": "Maybe Wax Doesn\u0027t Melt",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "NightmareKhidr",
@@ -11697,7 +11702,7 @@
       "Name": "A Glimpse of the Future",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "PetDragon",
@@ -11713,7 +11718,7 @@
       "Name": "Prequel to the Sequel",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "RogueMode",
@@ -11768,21 +11773,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 26232,
+      "Progressed": 26252,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 5162,
+      "Progressed": 5182,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-21T13:03:02.8051894+00:00",
-  "LastChanged_Achievements": "2023-12-22T14:09:17.8583252+00:00",
+  "LastChanged_Achievements": "2023-12-22T15:09:35.8702254+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:44.2937948+00:00",
-  "LastUpdate_Ratings": "2023-12-22T13:59:22.6057618+00:00",
-  "LastUpdate_Achievements": "2023-12-22T14:09:17.8583813+00:00"
+  "LastUpdate_Ratings": "2023-12-22T14:59:33.7935398+00:00",
+  "LastUpdate_Achievements": "2023-12-22T15:09:35.8703034+00:00"
 }

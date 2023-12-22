@@ -25,9 +25,9 @@
 | Flying Kobold Killer | 18.00% | ~116 |
 | Youth Magnet | 18.00% | ~116 |
 | Furious Scorpion Killer | 17.00% | ~110 |
+| Master Artificer | 17.00% | ~110 |
 | Lethal Blade Mantis Killer | 16.00% | ~103 |
 | Squeaky Clean | 16.00% | ~103 |
-| Master Artificer | 16.00% | ~103 |
 | Kind Adventurer | 15.00% | ~97 |
 | Mermaid Killer | 14.00% | ~90 |
 | Cave Master | 14.00% | ~90 |
