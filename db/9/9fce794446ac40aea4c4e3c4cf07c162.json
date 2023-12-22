@@ -4,7 +4,7 @@
   "ProductSlug": "ugly-da09b2",
   "Ranking_EOS_Progress": 608,
   "Ranking_EOS_Completed": 75,
-  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewPlayers": 449,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -139,9 +139,9 @@
       "ID": "BOSS_02",
       "SetID": "35d3i7a",
       "Name": "Can\u2019t be real.",
-      "Percentage": 32,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "BOSS_03",
@@ -562,8 +562,8 @@
   ],
   "FirstSeen": "2023-10-03T14:57:54.0765548+00:00",
   "FirstSeenAchievements": "2023-09-13T06:03:08.8902067+00:00",
-  "LastChanged_Achievements": "2023-12-22T11:10:51.8576465+00:00",
+  "LastChanged_Achievements": "2023-12-22T12:10:52.3817406+00:00",
   "LastUpdate_AppInfo": "2023-12-20T14:57:10.5217862+00:00",
-  "LastUpdate_Ratings": "2023-12-22T10:58:38.2966464+00:00",
-  "LastUpdate_Achievements": "2023-12-22T11:10:51.8576876+00:00"
+  "LastUpdate_Ratings": "2023-12-22T11:58:43.1069518+00:00",
+  "LastUpdate_Achievements": "2023-12-22T12:10:52.3817716+00:00"
 }

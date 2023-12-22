@@ -15,9 +15,9 @@ Rating: 4.54 (Ranked 533)
 | Impossible Objects | 9.00% | ~1,536 |
 | Stogie for Fogey | 8.00% | ~1,365 |
 | Spore Taste | 8.00% | ~1,365 |
+| Safe Cracker | 8.00% | ~242 |
 | Zen Master | 8.00% | ~242 |
 | Call it Even | 7.00% | ~1,195 |
-| Safe Cracker | 7.00% | ~211 |
 | Madame Undersecretary | 7.00% | ~211 |
 | Drug Gifter | 6.00% | ~1,024 |
 | Heal Thy Medic | 6.00% | ~1,024 |

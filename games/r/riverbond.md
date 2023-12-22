@@ -1,20 +1,20 @@
 # Riverbond
 [Store](https://store.epicgames.com/en-US/p/riverbond-782aa4)  
 [View Rawdata](../../db/r/riverbond.json)  
-Rating: 4.47 (Ranked 645)  
+Rating: 4.47 (Ranked 646)  
 Number of Ratings: 617  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~373,544 |
+| First Step | 70.00% | ~373,545 |
 | Now You're Talking | 62.00% | ~330,854 |
 | Steel Yourself | 62.00% | ~330,854 |
 | Window Dressing | 50.00% | ~266,818 |
-| Trigger Happy | 46.00% | ~245,472 |
+| Trigger Happy | 46.00% | ~245,473 |
 | Riverborn | 45.00% | ~240,136 |
 | Starry Eyed | 34.00% | ~181,436 |
 | Poking Around | 34.00% | ~181,436 |
-| Talk of the Town | 24.00% | ~128,072 |
+| Talk of the Town | 24.00% | ~128,073 |
 | AAARR! | 23.00% | ~122,736 |
 | Hello Darkness | 23.00% | ~122,736 |
 | Wind At Our Backs | 22.00% | ~117,400 |
@@ -31,8 +31,8 @@ Number of Ratings: 617  (23.09.2022)
 | Road Less Travelled | 9.00% | ~48,027 |
 | Lost and Found | 9.00% | ~48,027 |
 | Under the Radar | 8.00% | ~42,691 |
-| Partner in Crime | 7.00% | ~37,354 |
-| Hard to Hear | 7.00% | ~37,354 |
+| Partner in Crime | 7.00% | ~37,355 |
+| Hard to Hear | 7.00% | ~37,355 |
 | Moving On Up | 6.00% | ~32,018 |
 | Owl Knows Best | 6.00% | ~32,018 |
 | Mind the Moose | 6.00% | ~32,018 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,601 |
 | Point Taken | 0.20% | ~1,067 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 533,635 (Ranked 35)  
+Progressed: 533,636 (Ranked 35)  
 Completed: 510 (0.10%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 510 (0.10%) (Ranked 302)
 | 2023-12-19 | 533,486 | 510 |
 | 2023-12-20 | 533,542 | 510 |
 | 2023-12-21 | 533,605 | 510 |
-| 2023-12-22 | 533,635 | 510 |
+| 2023-12-22 | 533,636 | 510 |
 ## Awards
 Max (Relaxing): 21  (Ranked 560)  
 Sum: 21 (Ranked 562)  

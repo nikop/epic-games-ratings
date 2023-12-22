@@ -28,8 +28,8 @@ Rating: 4.57 (Ranked 482)
 | The fourth triplet | 20.00% | ~21 |
 | Sidelined | 20.00% | ~21 |
 | Little hero | 19.00% | ~20 |
+| Master detective | 19.00% | ~20 |
 | Fence | 18.00% | ~19 |
-| Master detective | 18.00% | ~19 |
 | Ghost hunter | 17.00% | ~18 |
 | Pandora's box | 16.00% | ~17 |
 | Peacekeeper | 16.00% | ~17 |

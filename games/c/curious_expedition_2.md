@@ -6,31 +6,31 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 64.00% | ~237 |
-| Cartographer | 57.00% | ~211 |
-| A Strange Artefact | 53.00% | ~197 |
+| The Adventure Begins | 64.00% | ~238 |
+| Cartographer | 57.00% | ~212 |
+| A Strange Artefact | 52.00% | ~193 |
 | Insomnia | 49.00% | ~182 |
 | Lost & Found & Lost Again | 43.00% | ~160 |
 | From Whence we Came | 42.00% | ~156 |
-| Fire and Flood | 41.00% | ~152 |
-| Spooky! | 37.00% | ~137 |
+| Fire and Flood | 41.00% | ~153 |
+| Spooky! | 37.00% | ~138 |
 | Treasure Hunt | 35.00% | ~130 |
 | Shennong Herbalist | 34.00% | ~126 |
-| Good Mama | 33.00% | ~122 |
-| O Captain My Captain | 32.00% | ~119 |
+| Good Mama | 33.00% | ~123 |
+| O Captain My Captain | 31.00% | ~115 |
 | Plunderer | 29.00% | ~108 |
 | Taxonomist | 27.00% | ~100 |
-| Uncertain Loyalties | 26.00% | ~96 |
+| Uncertain Loyalties | 26.00% | ~97 |
 | Traveller | 25.00% | ~93 |
 | Nahua Seeker | 24.00% | ~89 |
-| Roll to Save | 23.00% | ~85 |
+| Roll to Save | 23.00% | ~86 |
 | Veteran Explorer | 22.00% | ~82 |
 | Red Flag Pirate | 20.00% | ~74 |
 | Iron Man | 17.00% | ~63 |
 | A Gentle Beast | 17.00% | ~63 |
-| For the Club! | 16.00% | ~59 |
-| Shortening of the Way | 16.00% | ~59 |
-| Practical Palaeontology | 16.00% | ~59 |
+| For the Club! | 16.00% | ~60 |
+| Shortening of the Way | 16.00% | ~60 |
+| Practical Palaeontology | 16.00% | ~60 |
 | Adventurer | 15.00% | ~56 |
 | Dapper | 15.00% | ~56 |
 | Plays Well With Others | 14.00% | ~52 |
@@ -54,11 +54,11 @@ Number of Ratings: 20  (23.09.2022)
 | The Director Perseveres | 5.00% | ~19 |
 | The Round Table | 5.00% | ~19 |
 | X Marks the Spot | 4.00% | ~15 |
-| Risk/Reward | 4.00% | ~15 |
 | Frugal | 4.00% | ~15 |
-| I Set Forth Again... and Again... and Again... | 4.00% | ~15 |
 | A Familiar Figure | 3.00% | ~11 |
 | A Perfect Map | 3.00% | ~11 |
+| Risk/Reward | 3.00% | ~11 |
+| I Set Forth Again... and Again... and Again... | 3.00% | ~11 |
 | Lunatic | 2.00% | ~7 |
 | Look Ma, No Equipment! | 2.00% | ~7 |
 | Abominable Hunger | 0.80% | ~3 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.80% | ~3 |
 | Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 371 (Ranked 354)  
+Progressed: 372 (Ranked 355)  
 Completed: 1 (0.27%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 1 (0.27%) (Ranked 254)
 | 2023-12-19 | 364 | 1 |
 | 2023-12-20 | 365 | 1 |
 | 2023-12-21 | 370 | 1 |
-| 2023-12-22 | 371 | 1 |
+| 2023-12-22 | 372 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

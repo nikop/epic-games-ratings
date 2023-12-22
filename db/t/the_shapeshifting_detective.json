@@ -2,10 +2,10 @@
   "ID": "7509a5c8feb744ae866d9e3326d52d3b",
   "Name": "The Shapeshifting Detective",
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
-  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 326,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
     "PcReleaseDate": "2018-11-06T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 278,
+  "EOS_Progressed": 279,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.08,
   "EosHistory": [
@@ -635,6 +635,11 @@
       "Time": "2023-12-22T11:03:42.0478405+00:00",
       "NumProgressed": 278,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-22T12:03:47.434726+00:00",
+      "NumProgressed": 279,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 21,
@@ -734,7 +739,7 @@
       "Name": "Play It Again Sam",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "play_me_by_the_hour",
@@ -742,7 +747,7 @@
       "Name": "Play Me By The Hour",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "poetent",
@@ -772,9 +777,9 @@
       "ID": "strong_silent_type",
       "SetID": "2db2j74",
       "Name": "Strong Silent Type",
-      "Percentage": 91,
+      "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 253
+      "UsersEstimate": 251
     },
     {
       "ID": "the_big_sleep",
@@ -790,7 +795,7 @@
       "Name": "Video Saved The Radio Star",
       "Percentage": 40,
       "XP": 35,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "voyeur",
@@ -813,7 +818,7 @@
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 278,
+      "Progressed": 279,
       "Completed": 3
     }
   ],
@@ -821,8 +826,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-12-22T11:03:42.04784+00:00",
+  "LastChanged_Achievements": "2023-12-22T12:03:47.4347256+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:54.0210156+00:00",
-  "LastUpdate_Ratings": "2023-12-22T11:03:16.4861436+00:00",
-  "LastUpdate_Achievements": "2023-12-22T11:03:42.0478663+00:00"
+  "LastUpdate_Ratings": "2023-12-22T12:03:22.9079554+00:00",
+  "LastUpdate_Achievements": "2023-12-22T12:03:47.4347414+00:00"
 }

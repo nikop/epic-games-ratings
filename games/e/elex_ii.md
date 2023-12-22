@@ -7,7 +7,7 @@ Number of Ratings: 124  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Best Buddy | 14.00% | ~8 |
-| Entrepreneur | 11.00% | ~6 |
+| Entrepreneur | 12.00% | ~7 |
 | Role Model | 9.00% | ~5 |
 | Military Leader | 5.00% | ~3 |
 | Creator | 5.00% | ~3 |
@@ -20,6 +20,7 @@ Number of Ratings: 124  (23.09.2022)
 | Storyteller | 2.00% | ~1 |
 | Hotshot | 2.00% | ~1 |
 | Unbreakable | 2.00% | ~1 |
+| Alb | 2.00% | ~1 |
 | Festival-goer | 2.00% | ~1 |
 | Pass A38 | 2.00% | ~1 |
 | Eternal Oblivion | 2.00% | ~1 |
@@ -38,7 +39,6 @@ Number of Ratings: 124  (23.09.2022)
 | Idealist | 0.00% | ~0 |
 | Toy Time | 0.00% | ~0 |
 | Defector | 0.00% | ~0 |
-| Alb | 0.00% | ~0 |
 | Berserker | 0.00% | ~0 |
 | Cleric | 0.00% | ~0 |
 | Morkon | 0.00% | ~0 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Fire in the Hole | 0.00% | ~0 |
 | Lover | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56 (Ranked 520)  
+Progressed: 57 (Ranked 520)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,7 +66,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-19 | 32 | 0 |
 | 2023-12-20 | 40 | 0 |
 | 2023-12-21 | 48 | 0 |
-| 2023-12-22 | 56 | 0 |
+| 2023-12-22 | 57 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 203,
+  "EOS_Progressed": 204,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -839,6 +839,11 @@
       "Time": "2023-12-22T08:03:32.2075899+00:00",
       "NumProgressed": 203,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-22T12:04:11.4537676+00:00",
+      "NumProgressed": 204,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -857,9 +862,9 @@
       "ID": "AC_ALL_COLUMNS",
       "SetID": "16i2akc",
       "Name": "Empire",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "AC_ALL_MONEYSACKS",
@@ -881,9 +886,9 @@
       "ID": "AC_ALL_TOYS",
       "SetID": "16i2akc",
       "Name": "Gift",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "AC_ALL_WEAPONS",
@@ -939,7 +944,7 @@
       "Name": "Downfall",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "AC_BOSS_03",
@@ -947,7 +952,7 @@
       "Name": "Sacrilege",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "AC_BOSS_04",
@@ -995,7 +1000,7 @@
       "Name": "Corpse",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "AC_DEATH_2",
@@ -1043,7 +1048,7 @@
       "Name": "Excursion",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -1051,7 +1056,7 @@
       "Name": "Journey",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -1091,7 +1096,7 @@
       "Name": "Schooling",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "AC_FULL_MAP",
@@ -1131,7 +1136,7 @@
       "Name": "Cook",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "AC_RECIPES_DONE_2",
@@ -1155,7 +1160,7 @@
       "Name": "Loss",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -1186,14 +1191,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 203,
+      "Progressed": 204,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-22T11:04:07.1725397+00:00",
+  "LastChanged_Achievements": "2023-12-22T12:04:11.4537671+00:00",
   "LastUpdate_AppInfo": "2023-12-19T20:57:15.8211494+00:00",
-  "LastUpdate_Ratings": "2023-12-22T10:57:51.7748371+00:00",
-  "LastUpdate_Achievements": "2023-12-22T11:04:07.1725708+00:00"
+  "LastUpdate_Ratings": "2023-12-22T11:58:00.9301996+00:00",
+  "LastUpdate_Achievements": "2023-12-22T12:04:11.453804+00:00"
 }

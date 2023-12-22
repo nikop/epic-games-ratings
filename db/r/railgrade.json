@@ -3,11 +3,11 @@
   "Name": "RAILGRADE",
   "ProductSlug": "railgrade",
   "Ranking_Rating": 510,
-  "Ranking_Popularity": 382,
+  "Ranking_Popularity": 383,
   "Ranking_PopularitySum": 309,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 3773,
+  "Ranking_EOS_NewPlayers": 3774,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-09-29T14:00:00+00:00",
@@ -609,9 +609,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 18123,
+  "EOS_Progressed": 18122,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": -60,
+  "EOS_NewPlayers": -61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -11004,6 +11004,11 @@
       "Time": "2023-12-22T11:07:45.0069696+00:00",
       "NumProgressed": 18123,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-12-22T12:07:37.5626374+00:00",
+      "NumProgressed": 18122,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 37,
@@ -11023,7 +11028,7 @@
       "Name": "Helper of the People",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 7612
+      "UsersEstimate": 7611
     },
     {
       "ID": "ach.030.deertastic",
@@ -11063,7 +11068,7 @@
       "Name": "8K is Enough for Everyone",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 4350
+      "UsersEstimate": 4349
     },
     {
       "ID": "ach.080.eraser",
@@ -11079,7 +11084,7 @@
       "Name": "Perfectionist",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 4531
+      "UsersEstimate": 4530
     },
     {
       "ID": "ach.100.indecisive",
@@ -11103,7 +11108,7 @@
       "Name": "Simplification",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 6706
+      "UsersEstimate": 6705
     },
     {
       "ID": "ach.130.minimalist",
@@ -11111,7 +11116,7 @@
       "Name": "Minimalist",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 17579
+      "UsersEstimate": 17578
     },
     {
       "ID": "ach.140.legacy",
@@ -11119,7 +11124,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 106,
       "XP": 60,
-      "UsersEstimate": 19210
+      "UsersEstimate": 19209
     },
     {
       "ID": "ach.150.pocket",
@@ -11127,7 +11132,7 @@
       "Name": "Pocket of Trains",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 12686
+      "UsersEstimate": 12685
     },
     {
       "ID": "ach.160.box",
@@ -11151,7 +11156,7 @@
       "Name": "Inspector",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 11599
+      "UsersEstimate": 11598
     },
     {
       "ID": "ach.190.scenic",
@@ -11183,7 +11188,7 @@
       "Name": "Hot Water",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5981
+      "UsersEstimate": 5980
     },
     {
       "ID": "ach.230.infinity",
@@ -11207,7 +11212,7 @@
       "Name": "Before the Downfall",
       "Percentage": 101,
       "XP": 60,
-      "UsersEstimate": 18304
+      "UsersEstimate": 18303
     },
     {
       "ID": "ach.260.investor",
@@ -11215,7 +11220,7 @@
       "Name": "Investor",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1994
+      "UsersEstimate": 1993
     },
     {
       "ID": "ach.270.groundwater",
@@ -11271,7 +11276,7 @@
       "Name": "Money like Water",
       "Percentage": 99,
       "XP": 10,
-      "UsersEstimate": 17942
+      "UsersEstimate": 17941
     },
     {
       "ID": "ach.340.steel",
@@ -11287,7 +11292,7 @@
       "Name": "Trains over Pipes",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 4531
+      "UsersEstimate": 4530
     },
     {
       "ID": "ach.360.lightning",
@@ -11310,7 +11315,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 18123,
+      "Progressed": 18122,
       "Completed": 27
     }
   ],
@@ -11318,8 +11323,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-12-10T14:59:42.7930094+00:00",
-  "LastChanged_Achievements": "2023-12-22T11:07:45.0069693+00:00",
+  "LastChanged_Achievements": "2023-12-22T12:07:37.5626371+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:34.6081627+00:00",
-  "LastUpdate_Ratings": "2023-12-22T10:59:12.1566823+00:00",
-  "LastUpdate_Achievements": "2023-12-22T11:07:45.0070244+00:00"
+  "LastUpdate_Ratings": "2023-12-22T11:59:14.3112174+00:00",
+  "LastUpdate_Achievements": "2023-12-22T12:07:37.5627125+00:00"
 }

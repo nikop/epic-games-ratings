@@ -24,8 +24,8 @@ Rating: 4.50 (Ranked 602)
 | The Relentless Storm | 46.00% | ~588 |
 | A Tragic Reminder | 44.00% | ~562 |
 | 3000 Year Blackout | 44.00% | ~562 |
+| So Close | 42.00% | ~537 |
 | The Finisher | 42.00% | ~537 |
-| So Close | 41.00% | ~524 |
 | You Get Used To It | 41.00% | ~524 |
 | Family | 39.00% | ~498 |
 | Biggest Snowball Ever | 39.00% | ~498 |

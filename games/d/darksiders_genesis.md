@@ -10,6 +10,7 @@ Number of Ratings: 67  (23.09.2022)
 | Soul Cache | 3.00% | ~4 |
 | Close the Rift | 0.80% | ~1 |
 | Mammon | 0.80% | ~1 |
+| Master of War | 0.80% | ~1 |
 | The Dead Court | 0.80% | ~1 |
 | Why'd It Have to Be Snakes? | 0.80% | ~1 |
 | A Bullet for All Seasons | 0.00% | ~0 |
@@ -26,7 +27,6 @@ Number of Ratings: 67  (23.09.2022)
 | Hell's Forge | 0.00% | ~0 |
 | Infested | 0.00% | ~0 |
 | Master of Strife | 0.00% | ~0 |
-| Master of War | 0.00% | ~0 |
 | Mint II | 0.00% | ~0 |
 | Mint III | 0.00% | ~0 |
 | Moloch | 0.00% | ~0 |

@@ -5,41 +5,41 @@ Rating: 4.37 (Ranked 784)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,501 |
+| First Blood | 92.00% | ~1,502 |
 | Ranidaphobia | 77.00% | ~1,257 |
 | Aspiring Editor | 74.00% | ~1,208 |
-| Gun for Hire | 69.00% | ~1,126 |
-| I am the law! | 63.00% | ~1,028 |
+| Gun for Hire | 69.00% | ~1,127 |
+| I am the law! | 63.00% | ~1,029 |
 | Lumberjack | 53.00% | ~865 |
 | Croaked | 49.00% | ~800 |
 | Limp Richard | 49.00% | ~800 |
-| Editor Adept | 48.00% | ~783 |
-| Exorcist | 48.00% | ~783 |
-| From Darkness to Light | 48.00% | ~783 |
+| Editor Adept | 48.00% | ~784 |
+| Exorcist | 48.00% | ~784 |
+| From Darkness to Light | 48.00% | ~784 |
 | Giant Killer | 46.00% | ~751 |
-| Sensei | 44.00% | ~718 |
-| Firestarter | 42.00% | ~685 |
-| The meaning of Kain | 42.00% | ~685 |
-| Technophobe | 41.00% | ~669 |
+| Sensei | 44.00% | ~719 |
+| Firestarter | 42.00% | ~686 |
+| The meaning of Kain | 42.00% | ~686 |
+| Technophobe | 41.00% | ~670 |
 | Recycler | 40.00% | ~653 |
 | Are you not entertained? | 36.00% | ~588 |
 | Ganglord | 36.00% | ~588 |
 | Jarhead | 36.00% | ~588 |
-| Infiltrator | 35.00% | ~571 |
+| Infiltrator | 35.00% | ~572 |
 | Experienced | 33.00% | ~539 |
 | Pushing Daisy | 33.00% | ~539 |
-| Hold The Line | 32.00% | ~522 |
+| Hold The Line | 32.00% | ~523 |
 | Endgame | 28.00% | ~457 |
 | Savior | 28.00% | ~457 |
 | Silent but Violent | 27.00% | ~441 |
-| There Can Be Only One! | 26.00% | ~424 |
+| There Can Be Only One! | 26.00% | ~425 |
 | Chain Killer | 22.00% | ~359 |
 | The Watchers | 22.00% | ~359 |
-| Commando | 17.00% | ~277 |
-| Dr Jones | 17.00% | ~277 |
+| Commando | 17.00% | ~278 |
+| Dr Jones | 17.00% | ~278 |
 | Chaos Theory | 16.00% | ~261 |
 | Newtonian Knockout | 16.00% | ~261 |
-| Ruthless | 14.00% | ~228 |
+| Ruthless | 14.00% | ~229 |
 | Side Order | 11.00% | ~180 |
 | Bot Whisperer | 9.00% | ~147 |
 | Chain Reaction | 9.00% | ~147 |
@@ -57,7 +57,7 @@ Rating: 4.37 (Ranked 784)
 | Goaaaaal! | 0.90% | ~15 |
 | QA Has Suffered! (Redux) | 0.80% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,632 (Ranked 246)  
+Progressed: 1,633 (Ranked 247)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-19 | 1,621 | 0 |
 | 2023-12-20 | 1,626 | 0 |
 | 2023-12-21 | 1,631 | 0 |
-| 2023-12-22 | 1,632 | 0 |
+| 2023-12-22 | 1,633 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4109,
+  "EOS_Progressed": 4110,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 287,
+  "EOS_NewPlayers": 281,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -6691,6 +6691,11 @@
       "Time": "2023-12-22T11:07:35.1699235+00:00",
       "NumProgressed": 4109,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-22T12:07:29.1245798+00:00",
+      "NumProgressed": 4110,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -6700,9 +6705,9 @@
       "ID": "AFortressToppled_14",
       "SetID": "c4hee28",
       "Name": "A Fortress Toppled!",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 657
+      "UsersEstimate": 616
     },
     {
       "ID": "AceDetective_9",
@@ -6734,7 +6739,7 @@
       "Name": "Blood and justice",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "CordonBleu_28",
@@ -6886,7 +6891,7 @@
       "Name": "Ready for Summer",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 2054
+      "UsersEstimate": 2055
     },
     {
       "ID": "ReadyforWinter_42",
@@ -6910,7 +6915,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -6926,7 +6931,7 @@
       "Name": "Tapped!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1479
+      "UsersEstimate": 1480
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -6966,7 +6971,7 @@
       "Name": "The Power of Family",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -7037,15 +7042,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4109,
+      "Progressed": 4110,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-22T11:07:35.1699231+00:00",
+  "LastChanged_Achievements": "2023-12-22T12:07:29.1245793+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:45.1407734+00:00",
-  "LastUpdate_Ratings": "2023-12-22T11:02:56.8577544+00:00",
-  "LastUpdate_Achievements": "2023-12-22T11:07:35.1699746+00:00"
+  "LastUpdate_Ratings": "2023-12-22T12:03:05.0078917+00:00",
+  "LastUpdate_Achievements": "2023-12-22T12:07:29.1246357+00:00"
 }

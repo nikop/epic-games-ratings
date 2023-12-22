@@ -523,9 +523,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 44737,
+  "EOS_Progressed": 44742,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 890,
+  "EOS_NewPlayers": 887,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16023,6 +16023,11 @@
       "Time": "2023-12-22T11:04:20.9189847+00:00",
       "NumProgressed": 44737,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-22T12:04:24.9355614+00:00",
+      "NumProgressed": 44742,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -16066,7 +16071,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1789
+      "UsersEstimate": 1790
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -16082,7 +16087,7 @@
       "Name": "Attachments",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4921
+      "UsersEstimate": 4922
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -16090,7 +16095,7 @@
       "Name": "Stuck",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1789
+      "UsersEstimate": 1790
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -16226,7 +16231,7 @@
       "Name": "Leapfrogger",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2684
+      "UsersEstimate": 2685
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -16386,7 +16391,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2684
+      "UsersEstimate": 2685
     },
     {
       "ID": "STAYING_AIR",
@@ -16457,22 +16462,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 44737,
+      "Progressed": 44742,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 9574,
-      "Completed": 9574
+      "Progressed": 9579,
+      "Completed": 9579
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-21T10:56:56.3222551+00:00",
-  "LastChanged_Achievements": "2023-12-22T11:04:20.9189843+00:00",
+  "LastChanged_Achievements": "2023-12-22T12:04:24.9355611+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:26.7354097+00:00",
-  "LastUpdate_Ratings": "2023-12-22T10:57:49.47297+00:00",
-  "LastUpdate_Achievements": "2023-12-22T11:04:20.919086+00:00"
+  "LastUpdate_Ratings": "2023-12-22T11:57:58.8113288+00:00",
+  "LastUpdate_Achievements": "2023-12-22T12:04:24.9356476+00:00"
 }

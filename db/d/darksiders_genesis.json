@@ -832,9 +832,9 @@
       "ID": "MasterofWar",
       "SetID": "329ak73",
       "Name": "Master of War",
-      "Percentage": 0,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MintI",
@@ -952,8 +952,8 @@
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-21T15:01:03.7221978+00:00",
-  "LastChanged_Achievements": "2023-12-22T11:10:10.5855339+00:00",
+  "LastChanged_Achievements": "2023-12-22T12:10:23.1614804+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:26.1049217+00:00",
-  "LastUpdate_Ratings": "2023-12-22T11:01:51.6808358+00:00",
-  "LastUpdate_Achievements": "2023-12-22T11:10:10.5855502+00:00"
+  "LastUpdate_Ratings": "2023-12-22T12:01:42.3158582+00:00",
+  "LastUpdate_Achievements": "2023-12-22T12:10:23.1615001+00:00"
 }

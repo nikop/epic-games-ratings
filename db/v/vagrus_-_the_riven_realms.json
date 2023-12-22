@@ -4,7 +4,7 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 393,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -910,9 +910,9 @@
       "ID": "Vanilla_100OnACCRoll",
       "SetID": "27kik8p",
       "Name": "Randomized",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 43
     },
     {
       "ID": "Vanilla_Abolitionists",
@@ -1711,8 +1711,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-12-22T11:07:06.3442738+00:00",
+  "LastChanged_Achievements": "2023-12-22T12:07:02.0688089+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:13.1376509+00:00",
-  "LastUpdate_Ratings": "2023-12-22T11:01:24.5871397+00:00",
-  "LastUpdate_Achievements": "2023-12-22T11:07:06.3443684+00:00"
+  "LastUpdate_Ratings": "2023-12-22T12:01:16.2463762+00:00",
+  "LastUpdate_Achievements": "2023-12-22T12:07:02.0689142+00:00"
 }

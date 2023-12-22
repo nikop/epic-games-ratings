@@ -57,7 +57,7 @@
 | No such thing as luck | 0.70% | ~14 |
 | Do we take prisoners? | 0.70% | ~14 |
 | Stop that Droid | 0.70% | ~14 |
-| I’ll take that bet | 0.50% | ~10 |
+| I’ll take that bet | 0.60% | ~12 |
 | Stay on target | 0.40% | ~8 |
 | Greed can be a very powerful ally | 0.40% | ~8 |
 | in a galaxy far, far away.... | 0.30% | ~6 |

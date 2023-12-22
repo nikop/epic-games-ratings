@@ -5,9 +5,9 @@
   "Ranking_Rating": 175,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
-  "Ranking_EOS_Progress": 354,
+  "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -70,9 +70,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 371,
+  "EOS_Progressed": 372,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -470,6 +470,11 @@
       "Time": "2023-12-22T00:09:56.8556419+00:00",
       "NumProgressed": 371,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-22T12:10:55.8775653+00:00",
+      "NumProgressed": 372,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -615,9 +620,9 @@
       "ID": "ach-campaign-story1",
       "SetID": "17ih7ma",
       "Name": "A Strange Artefact",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 193
     },
     {
       "ID": "ach-campaign-story2",
@@ -631,9 +636,9 @@
       "ID": "ach-campaign-story3",
       "SetID": "17ih7ma",
       "Name": "O Captain My Captain",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 115
     },
     {
       "ID": "ach-cartography-complete",
@@ -649,7 +654,7 @@
       "Name": "Roll to Save",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ach-discover-locations",
@@ -657,7 +662,7 @@
       "Name": "Cartographer",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ach-discover-locations-high",
@@ -681,7 +686,7 @@
       "Name": "Fire and Flood",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ach-find-treasure",
@@ -705,15 +710,15 @@
       "Name": "The Adventure Begins",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ach-hardExpeditions",
       "SetID": "17ih7ma",
       "Name": "Risk/Reward",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 11
     },
     {
       "ID": "ach-interspeciesLove",
@@ -729,7 +734,7 @@
       "Name": "For the Club!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ach-keepHighStanding",
@@ -761,7 +766,7 @@
       "Name": "Shortening of the Way",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ach-learn-traits",
@@ -809,7 +814,7 @@
       "Name": "Spooky!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ach-noEquipment",
@@ -849,7 +854,7 @@
       "Name": "Uncertain Loyalties",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ach-portal-return",
@@ -873,7 +878,7 @@
       "Name": "Good Mama",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ach-redElk",
@@ -889,7 +894,7 @@
       "Name": "Practical Palaeontology",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ach-rob-shrines",
@@ -919,9 +924,9 @@
       "ID": "ach-totalFame",
       "SetID": "17ih7ma",
       "Name": "I Set Forth Again... and Again... and Again...",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 11
     },
     {
       "ID": "ach-treasureFameInExpedition",
@@ -960,7 +965,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 371,
+      "Progressed": 372,
       "Completed": 1
     }
   ],
@@ -968,8 +973,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-12-22T11:10:55.3421777+00:00",
+  "LastChanged_Achievements": "2023-12-22T12:10:55.8775647+00:00",
   "LastUpdate_AppInfo": "2023-12-16T13:57:07.0437312+00:00",
-  "LastUpdate_Ratings": "2023-12-22T10:57:25.7871937+00:00",
-  "LastUpdate_Achievements": "2023-12-22T11:10:55.3422183+00:00"
+  "LastUpdate_Ratings": "2023-12-22T11:57:36.0874378+00:00",
+  "LastUpdate_Achievements": "2023-12-22T12:10:55.8776024+00:00"
 }

@@ -1156,9 +1156,9 @@
       "ID": "9",
       "SetID": "4n5bj21",
       "Name": "Oops, My bad",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 569
+      "UsersEstimate": 577
     }
   ],
   "AchievementSets": [
@@ -1173,8 +1173,8 @@
   "FirstSeenRating": "2023-03-31T05:56:56.4017079+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:42.4655927+00:00",
   "LastChanged": "2023-03-31T05:56:56.401708+00:00",
-  "LastChanged_Achievements": "2023-12-22T11:06:01.1667868+00:00",
+  "LastChanged_Achievements": "2023-12-22T12:06:01.7556957+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:15.7437099+00:00",
-  "LastUpdate_Ratings": "2023-12-22T11:00:03.9564627+00:00",
-  "LastUpdate_Achievements": "2023-12-22T11:06:01.1668087+00:00"
+  "LastUpdate_Ratings": "2023-12-22T12:00:01.358548+00:00",
+  "LastUpdate_Achievements": "2023-12-22T12:06:01.7557282+00:00"
 }

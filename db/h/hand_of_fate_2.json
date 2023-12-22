@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 30,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -943,9 +943,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 666100,
+  "EOS_Progressed": 666102,
   "EOS_Completed": 174,
-  "EOS_NewPlayers": 275,
+  "EOS_NewPlayers": 274,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -24193,6 +24193,11 @@
       "Time": "2023-12-22T11:09:26.4949071+00:00",
       "NumProgressed": 666100,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2023-12-22T12:09:42.6435985+00:00",
+      "NumProgressed": 666102,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 48,
@@ -24204,7 +24209,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 479592
+      "UsersEstimate": 479593
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -24212,7 +24217,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 386338
+      "UsersEstimate": 386339
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -24252,7 +24257,7 @@
       "Name": "Dungeon Master",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3330
+      "UsersEstimate": 3331
     },
     {
       "ID": "Achievement_08_Card_Sharp",
@@ -24468,7 +24473,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 166525
+      "UsersEstimate": 166526
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -24587,15 +24592,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 666100,
+      "Progressed": 666102,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-11-24T17:58:48.2867936+00:00",
-  "LastChanged_Achievements": "2023-12-22T11:09:26.4949065+00:00",
+  "LastChanged_Achievements": "2023-12-22T12:09:42.643598+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:46.8226063+00:00",
-  "LastUpdate_Ratings": "2023-12-22T11:01:22.5810761+00:00",
-  "LastUpdate_Achievements": "2023-12-22T11:09:26.4950539+00:00"
+  "LastUpdate_Ratings": "2023-12-22T12:01:14.4858274+00:00",
+  "LastUpdate_Achievements": "2023-12-22T12:09:42.6437298+00:00"
 }

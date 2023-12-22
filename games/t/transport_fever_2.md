@@ -18,7 +18,7 @@ Number of Ratings: 180  (23.09.2022)
 | First industry upgraded | 54.00% | ~1,133 |
 | Transport millionaire | 53.00% | ~1,112 |
 | Cadet | 53.00% | ~1,112 |
-| Transport master | 50.00% | ~1,050 |
+| Transport master | 51.00% | ~1,070 |
 | Cargo hub | 50.00% | ~1,050 |
 | Sculpturer | 48.00% | ~1,008 |
 | Settled down | 47.00% | ~987 |
@@ -26,7 +26,7 @@ Number of Ratings: 180  (23.09.2022)
 | First ship arrived | 44.00% | ~924 |
 | Now what? | 44.00% | ~924 |
 | Exemplary student | 42.00% | ~882 |
-| High speed | 40.00% | ~840 |
+| High speed | 41.00% | ~861 |
 | Transport shark | 39.00% | ~819 |
 | First aircraft arrived | 39.00% | ~819 |
 | Mass production | 34.00% | ~714 |
@@ -37,9 +37,9 @@ Number of Ratings: 180  (23.09.2022)
 | The king of the sea | 28.00% | ~588 |
 | City | 27.00% | ~567 |
 | Transport tycoon | 22.00% | ~462 |
+| Old timer | 22.00% | ~462 |
 | The ugly smell of success | 22.00% | ~462 |
 | Climate change | 21.00% | ~441 |
-| Old timer | 21.00% | ~441 |
 | Heavily loaded | 20.00% | ~420 |
 | Bob Ross | 15.00% | ~315 |
 | Truck Fever | 11.00% | ~231 |

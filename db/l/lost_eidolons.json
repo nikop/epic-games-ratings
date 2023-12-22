@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 3772,
+  "Ranking_EOS_NewPlayers": 3773,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1140,
+  "EOS_Progressed": 1139,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": -6,
+  "EOS_NewPlayers": -7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1911,6 +1911,11 @@
       "Time": "2023-12-22T10:04:23.2283569+00:00",
       "NumProgressed": 1140,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-22T12:05:25.726264+00:00",
+      "NumProgressed": 1139,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -1954,7 +1959,7 @@
       "Name": "The First Step",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 787
+      "UsersEstimate": 786
     },
     {
       "ID": "06",
@@ -1970,7 +1975,7 @@
       "Name": "Monster Hunter",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 616
+      "UsersEstimate": 615
     },
     {
       "ID": "08",
@@ -2074,7 +2079,7 @@
       "Name": "Digging Deep",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 160
+      "UsersEstimate": 159
     },
     {
       "ID": "21",
@@ -2105,7 +2110,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1140,
+      "Progressed": 1139,
       "Completed": 1
     }
   ],
@@ -2113,8 +2118,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-12-04T18:59:06.5793648+00:00",
-  "LastChanged_Achievements": "2023-12-22T11:05:23.670187+00:00",
+  "LastChanged_Achievements": "2023-12-22T12:05:25.7262637+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:06.8516374+00:00",
-  "LastUpdate_Ratings": "2023-12-22T11:02:44.2447156+00:00",
-  "LastUpdate_Achievements": "2023-12-22T11:05:23.670218+00:00"
+  "LastUpdate_Ratings": "2023-12-22T12:02:52.9427748+00:00",
+  "LastUpdate_Achievements": "2023-12-22T12:05:25.7262797+00:00"
 }

@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meissa's Savior | 76.00% | ~160 |
-| Purification Pioneer | 72.00% | ~152 |
+| Purification Pioneer | 73.00% | ~154 |
 | Mechanical Buddy | 67.00% | ~141 |
 | Dicesmithing Time! | 60.00% | ~127 |
 | Sanctuary Guardian | 53.00% | ~112 |
@@ -16,17 +16,17 @@
 | Noctuan Champion | 36.00% | ~76 |
 | Anomaly Destroyer | 32.00% | ~68 |
 | Astral Adventurer | 31.00% | ~65 |
-| Star Killer | 27.00% | ~57 |
-| Eridanian Champion | 25.00% | ~53 |
+| Star Killer | 28.00% | ~59 |
+| Eridanian Champion | 26.00% | ~55 |
+| Lacertian Champion | 24.00% | ~51 |
 | Loyal Partner | 23.00% | ~49 |
-| Lacertian Champion | 23.00% | ~49 |
-| Apian Champion | 21.00% | ~44 |
+| Apian Champion | 22.00% | ~46 |
 | Shard Spender | 18.00% | ~38 |
 | Unbeatable | 18.00% | ~38 |
 | Behenian Champion | 18.00% | ~38 |
 | Sadistic Plan | 16.00% | ~34 |
+| Astral Seeker | 10.00% | ~21 |
 | Aquarian Champion | 10.00% | ~21 |
-| Astral Seeker | 9.00% | ~19 |
 | Favored by the Cosmos | 9.00% | ~19 |
 | Heart Gate | 9.00% | ~19 |
 | Heavy Purger | 9.00% | ~19 |
@@ -65,6 +65,8 @@
 | Eridanian Mastery | 2.00% | ~4 |
 | Noctuan Mastery | 2.00% | ~4 |
 | Royal Choir | 1.00% | ~2 |
+| Unepic Hero | 1.00% | ~2 |
+| Apian Mastery | 1.00% | ~2 |
 | Anomaly Master | 0.90% | ~2 |
 | Astral Tinkerer | 0.90% | ~2 |
 | Astrea's Saviors | 0.90% | ~2 |
@@ -72,8 +74,6 @@
 | Plague Doctor | 0.90% | ~2 |
 | Six-Sided Mastery | 0.90% | ~2 |
 | This is Fine | 0.90% | ~2 |
-| Unepic Hero | 0.90% | ~2 |
-| Apian Mastery | 0.90% | ~2 |
 | Arch-Oracle | 0.50% | ~1 |
 | Dice Specialist | 0.50% | ~1 |
 | Gotta tinker'em all! | 0.50% | ~1 |

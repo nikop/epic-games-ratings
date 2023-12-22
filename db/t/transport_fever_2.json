@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 365,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -833,7 +833,7 @@
   ],
   "EOS_Progressed": 2099,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5666,9 +5666,9 @@
       "ID": "achAccumulate10M",
       "SetID": "dgl390n",
       "Name": "Transport master",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1070
     },
     {
       "ID": "achAccumulate1B",
@@ -5786,9 +5786,9 @@
       "ID": "achCompleteCampaignA",
       "SetID": "dgl390n",
       "Name": "Old timer",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 441
+      "UsersEstimate": 462
     },
     {
       "ID": "achCompleteCampaignB",
@@ -6082,9 +6082,9 @@
       "ID": "achTopSpeed120",
       "SetID": "dgl390n",
       "Name": "High speed",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 840
+      "UsersEstimate": 861
     },
     {
       "ID": "achTopSpeed300",
@@ -6146,8 +6146,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-12-20T20:00:28.6251007+00:00",
-  "LastChanged_Achievements": "2023-12-22T11:08:46.7992941+00:00",
+  "LastChanged_Achievements": "2023-12-22T12:09:05.4383745+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:42.3173295+00:00",
-  "LastUpdate_Ratings": "2023-12-22T10:57:46.3350717+00:00",
-  "LastUpdate_Achievements": "2023-12-22T11:08:46.7993525+00:00"
+  "LastUpdate_Ratings": "2023-12-22T11:57:55.7695781+00:00",
+  "LastUpdate_Achievements": "2023-12-22T12:09:05.4384292+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -3224,9 +3224,9 @@
       "ID": "EV_ACH08",
       "SetID": "6jeac23",
       "Name": "So Close",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 524
+      "UsersEstimate": 537
     },
     {
       "ID": "EV_ACH09",
@@ -3529,8 +3529,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-20T19:57:10.1945786+00:00",
-  "LastChanged_Achievements": "2023-12-22T11:10:53.680727+00:00",
+  "LastChanged_Achievements": "2023-12-22T12:10:54.1300334+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:41.6283728+00:00",
-  "LastUpdate_Ratings": "2023-12-22T10:58:23.2686692+00:00",
-  "LastUpdate_Achievements": "2023-12-22T11:10:53.6807711+00:00"
+  "LastUpdate_Ratings": "2023-12-22T11:58:29.8189745+00:00",
+  "LastUpdate_Achievements": "2023-12-22T12:10:54.130076+00:00"
 }

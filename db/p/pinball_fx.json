@@ -2051,10 +2051,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 1620,
       "NumberOfAwardsMax": 209
+    },
+    {
+      "Time": "2023-12-22T12:03:39.1643029+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 1621,
+      "NumberOfAwardsMax": 209
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1620,
+  "NumberOfAwards": 1621,
   "NumberOfAwardsMax": 209,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2080,7 +2086,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 192
+      "Count": 193
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2137,9 +2143,9 @@
       "Count": 112
     }
   ],
-  "EOS_Progressed": 285335,
+  "EOS_Progressed": 285354,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2109,
+  "EOS_NewPlayers": 2121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30282,6 +30288,11 @@
       "Time": "2023-12-22T11:08:49.1092153+00:00",
       "NumProgressed": 285335,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T12:09:07.6736813+00:00",
+      "NumProgressed": 285354,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 39,
@@ -30533,7 +30544,7 @@
       "Name": "Catomic Bomb",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -30541,7 +30552,7 @@
       "Name": "Terraformer",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -30573,7 +30584,7 @@
       "Name": "Did It for the Dowry",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -30604,21 +30615,21 @@
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 285335,
+      "Progressed": 285354,
       "Completed": 0
     },
     {
       "ID": "5ld4kno",
       "IsBase": false,
-      "Progressed": 3494,
+      "Progressed": 3513,
       "Completed": 595
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
-  "LastChanged": "2023-12-17T22:03:10.4833445+00:00",
-  "LastChanged_Achievements": "2023-12-22T11:08:49.1092149+00:00",
+  "LastChanged": "2023-12-22T12:03:39.1643027+00:00",
+  "LastChanged_Achievements": "2023-12-22T12:09:07.6736808+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:50:00.8574994+00:00",
-  "LastUpdate_Ratings": "2023-12-22T11:03:33.5507819+00:00",
-  "LastUpdate_Achievements": "2023-12-22T11:08:49.1093664+00:00"
+  "LastUpdate_Ratings": "2023-12-22T12:03:39.1643032+00:00",
+  "LastUpdate_Achievements": "2023-12-22T12:09:07.6738139+00:00"
 }

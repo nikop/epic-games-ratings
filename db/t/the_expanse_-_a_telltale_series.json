@@ -297,7 +297,7 @@
   "Tags": [],
   "EOS_Progressed": 17067,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 747,
+  "EOS_NewPlayers": 746,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -14993,9 +14993,9 @@
       "ID": "32",
       "SetID": "9nnpo9n",
       "Name": "Safe Cracker",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 211
+      "UsersEstimate": 242
     },
     {
       "ID": "33",
@@ -15040,8 +15040,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-21T04:02:39.716899+00:00",
-  "LastChanged_Achievements": "2023-12-22T11:06:45.4232015+00:00",
+  "LastChanged_Achievements": "2023-12-22T12:06:42.6670561+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:40.0929133+00:00",
-  "LastUpdate_Ratings": "2023-12-22T10:57:29.653287+00:00",
-  "LastUpdate_Achievements": "2023-12-22T11:06:45.4232855+00:00"
+  "LastUpdate_Ratings": "2023-12-22T11:57:39.7120976+00:00",
+  "LastUpdate_Achievements": "2023-12-22T12:06:42.6671279+00:00"
 }

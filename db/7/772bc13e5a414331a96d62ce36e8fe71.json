@@ -2,7 +2,7 @@
   "ID": "772bc13e5a414331a96d62ce36e8fe71",
   "Name": "Carsick Carventure",
   "ProductSlug": "carsick-carventure-d216ba",
-  "Ranking_EOS_Progress": 354,
+  "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 66,
   "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 20,
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 371,
+  "EOS_Progressed": 373,
   "EOS_Completed": 24,
   "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 15,
-  "EOS_Completed_Percentage": 6.47,
+  "EOS_Completed_Percentage": 6.43,
   "EosHistory": [
     {
       "Time": "2023-12-07T15:03:10.6458391+00:00",
@@ -1099,6 +1099,11 @@
       "Time": "2023-12-22T11:06:40.3717207+00:00",
       "NumProgressed": 371,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-12-22T12:06:37.7206634+00:00",
+      "NumProgressed": 373,
+      "NumCompleted": 24
     }
   ],
   "AchievementsAdded": "2023-12-07T15:03:10.6469952+00:00",
@@ -1127,7 +1132,7 @@
       "Name": "1000 Score",
       "Percentage": 33,
       "XP": 200,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "100_XP",
@@ -1143,21 +1148,21 @@
       "Name": "200 Score",
       "Percentage": 53,
       "XP": 200,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     }
   ],
   "AchievementSets": [
     {
       "ID": "8d0im30",
       "IsBase": true,
-      "Progressed": 371,
+      "Progressed": 373,
       "Completed": 24
     }
   ],
   "FirstSeen": "2023-12-08T10:57:34.1568649+00:00",
   "FirstSeenAchievements": "2023-12-07T15:03:10.6469952+00:00",
-  "LastChanged_Achievements": "2023-12-22T11:06:40.3717202+00:00",
+  "LastChanged_Achievements": "2023-12-22T12:06:37.7206629+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:12.9601407+00:00",
-  "LastUpdate_Ratings": "2023-12-22T10:58:05.3830813+00:00",
-  "LastUpdate_Achievements": "2023-12-22T11:06:40.371734+00:00"
+  "LastUpdate_Ratings": "2023-12-22T11:58:13.747217+00:00",
+  "LastUpdate_Achievements": "2023-12-22T12:06:37.7206797+00:00"
 }

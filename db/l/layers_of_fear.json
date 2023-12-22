@@ -1209,9 +1209,9 @@
       "ID": "wanderer",
       "SetID": "f2im8d",
       "Name": "Wanderer",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 102
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1232,8 +1232,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-22T11:05:44.3832912+00:00",
+  "LastChanged_Achievements": "2023-12-22T12:05:45.7958832+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:26.5525701+00:00",
-  "LastUpdate_Ratings": "2023-12-22T11:00:26.2740331+00:00",
-  "LastUpdate_Achievements": "2023-12-22T11:05:44.3833281+00:00"
+  "LastUpdate_Ratings": "2023-12-22T12:00:22.6342815+00:00",
+  "LastUpdate_Achievements": "2023-12-22T12:05:45.7959149+00:00"
 }

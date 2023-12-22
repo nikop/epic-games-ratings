@@ -1,7 +1,7 @@
 # Deliver Us Mars
 [Store](https://store.epicgames.com/en-US/p/deliver-us-mars)  
 [View Rawdata](../../db/d/deliver_us_mars.json)  
-Rating: 4.15 (Ranked 967)  
+Rating: 4.16 (Ranked 958)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -82,4 +82,4 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-11 | 4.18 | 0 | 0 |
 | 2023-12-13 | 4.17 | 0 | 0 |
 | 2023-12-14 | 4.16 | 0 | 0 |
-| 2023-12-22 | 4.15 | 0 | 0 |
+| 2023-12-22 | 4.16 | 0 | 0 |

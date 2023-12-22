@@ -36,10 +36,10 @@ Rating: 3.56 (Ranked 1,064)
 | From the Shadows | 1.00% | ~20 |
 | Harvest’s End | 1.00% | ~20 |
 | Revelations | 0.90% | ~18 |
+| Block Party | 0.90% | ~18 |
 | Check, Please! | 0.90% | ~18 |
 | Nice Try | 0.90% | ~18 |
 | Blacklight Down | 0.90% | ~18 |
-| Block Party | 0.80% | ~16 |
 | Curious Finch | 0.80% | ~16 |
 | Empty Nest Syndrome | 0.50% | ~10 |
 | Bloody Initiate | 0.50% | ~10 |

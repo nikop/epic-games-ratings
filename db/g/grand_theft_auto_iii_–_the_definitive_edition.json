@@ -601,9 +601,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10191,
+  "EOS_Progressed": 10193,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1043,
+  "EOS_NewPlayers": 1036,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -13106,6 +13106,11 @@
       "Time": "2023-12-22T11:04:58.6781033+00:00",
       "NumProgressed": 10191,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-12-22T12:05:01.464045+00:00",
+      "NumProgressed": 10193,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 29,
@@ -13117,7 +13122,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 8459
+      "UsersEstimate": 8460
     },
     {
       "ID": "ACH02",
@@ -13125,7 +13130,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 3465
+      "UsersEstimate": 3466
     },
     {
       "ID": "ACH03",
@@ -13157,7 +13162,7 @@
       "Name": "Street Sweeper",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1834
+      "UsersEstimate": 1835
     },
     {
       "ID": "ACH07",
@@ -13189,7 +13194,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2853
+      "UsersEstimate": 2854
     },
     {
       "ID": "ACH11",
@@ -13221,7 +13226,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1732
+      "UsersEstimate": 1733
     },
     {
       "ID": "ACH15",
@@ -13261,7 +13266,7 @@
       "Name": "A Gift from the King",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "ACH20",
@@ -13348,7 +13353,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 10191,
+      "Progressed": 10193,
       "Completed": 65
     }
   ],
@@ -13356,8 +13361,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-12-21T13:03:11.4589759+00:00",
-  "LastChanged_Achievements": "2023-12-22T11:04:58.6781028+00:00",
+  "LastChanged_Achievements": "2023-12-22T12:05:01.4640443+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:35.1384791+00:00",
-  "LastUpdate_Ratings": "2023-12-22T11:00:30.2329338+00:00",
-  "LastUpdate_Achievements": "2023-12-22T11:04:58.6781973+00:00"
+  "LastUpdate_Ratings": "2023-12-22T12:00:26.2694775+00:00",
+  "LastUpdate_Achievements": "2023-12-22T12:05:01.4641095+00:00"
 }

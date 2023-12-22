@@ -5,28 +5,28 @@ Rating: 4.27 (Ranked 878)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Storm Warning | 25.00% | ~54 |
-| Dirty Roller | 15.00% | ~32 |
-| Regional Juniors Champion | 14.00% | ~30 |
-| Wheeler Dealer | 14.00% | ~30 |
-| Look Mom, I Can Fly | 11.00% | ~24 |
-| National Amateurs Champion | 9.00% | ~19 |
-| Junk Collector | 9.00% | ~19 |
-| Trashing Around | 7.00% | ~15 |
-| Hating Them Tin Cans | 7.00% | ~15 |
+| Storm Warning | 27.00% | ~59 |
+| Dirty Roller | 17.00% | ~37 |
+| Regional Juniors Champion | 16.00% | ~35 |
+| Wheeler Dealer | 16.00% | ~35 |
+| Look Mom, I Can Fly | 12.00% | ~26 |
+| National Amateurs Champion | 11.00% | ~24 |
+| Junk Collector | 10.00% | ~22 |
+| Trashing Around | 9.00% | ~20 |
+| Challengers Champion | 8.00% | ~17 |
+| Hating Them Tin Cans | 8.00% | ~17 |
 | Highballer | 6.00% | ~13 |
-| Challengers Champion | 6.00% | ~13 |
-| Pro Internationals Champion | 3.00% | ~6 |
+| Pro Internationals Champion | 5.00% | ~11 |
+| Cash For Crashes | 3.00% | ~7 |
+| Showing Some Dedication | 3.00% | ~7 |
+| Maniac Driver | 3.00% | ~7 |
 | World Masters Champion | 2.00% | ~4 |
-| Cash For Crashes | 2.00% | ~4 |
-| Showing Some Dedication | 2.00% | ~4 |
-| Maniac Driver | 2.00% | ~4 |
-| Glutton For Punishment | 0.90% | ~2 |
-| Garden Variety | 0.90% | ~2 |
+| Glutton For Punishment | 1.00% | ~2 |
+| Garden Variety | 1.00% | ~2 |
+| Human Lover | 0.50% | ~1 |
 | Rocketeer | 0.50% | ~1 |
-| Human Lover | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216 (Ranked 399)  
+Progressed: 217 (Ranked 399)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -35,7 +35,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-19 | 116 | 0 |
 | 2023-12-20 | 166 | 0 |
 | 2023-12-21 | 205 | 0 |
-| 2023-12-22 | 216 | 0 |
+| 2023-12-22 | 217 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

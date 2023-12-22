@@ -5,7 +5,7 @@ Rating: 4.64 (Ranked 338)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 38.00% | ~404 |
+| Time Heals All Wounds | 39.00% | ~415 |
 | The Mysterious Stranger | 29.00% | ~308 |
 | Rail Rat | 29.00% | ~308 |
 | Immaculate Aim | 25.00% | ~266 |
@@ -14,17 +14,17 @@ Rating: 4.64 (Ranked 338)
 | Time Flies | 23.00% | ~244 |
 | No, Thanks! | 23.00% | ~244 |
 | The Prince in Heels | 23.00% | ~244 |
-| Honest Mistake | 23.00% | ~244 |
 | Immaculate Aim | 23.00% | ~244 |
 | The Steel Shadow | 22.00% | ~234 |
 | The Harder They Fall | 22.00% | ~234 |
 | Breaking Down Barriers | 22.00% | ~234 |
+| Honest Mistake | 22.00% | ~234 |
 | Fast Learner | 22.00% | ~234 |
 | The Wicked Twins | 21.00% | ~223 |
-| Right On Time | 20.00% | ~212 |
-| Like Clockwork | 20.00% | ~212 |
-| The Betrayer | 20.00% | ~212 |
-| Golem Chaser | 20.00% | ~212 |
+| Right On Time | 20.00% | ~213 |
+| Like Clockwork | 20.00% | ~213 |
+| The Betrayer | 20.00% | ~213 |
+| Golem Chaser | 20.00% | ~213 |
 | Check Your Pulse | 19.00% | ~202 |
 | The Man Who Shattered Time | 18.00% | ~191 |
 | The Loose Cannon | 18.00% | ~191 |
@@ -35,8 +35,8 @@ Rating: 4.64 (Ranked 338)
 | Treasure Trove | 13.00% | ~138 |
 | Family Memories | 13.00% | ~138 |
 | Cartographer | 13.00% | ~138 |
-| Chaincrawler Explorer | 12.00% | ~127 |
-| Ask Questions Later | 12.00% | ~127 |
+| Chaincrawler Explorer | 12.00% | ~128 |
+| Ask Questions Later | 12.00% | ~128 |
 | Sump Explorer | 11.00% | ~117 |
 | Syron for Hope | 11.00% | ~117 |
 | Factorywood Explorer | 10.00% | ~106 |
@@ -44,8 +44,8 @@ Rating: 4.64 (Ranked 338)
 | Cultivair Explorer | 9.00% | ~96 |
 | Fairgrounds Explorer | 9.00% | ~96 |
 | Corin Goes Home | 8.00% | ~85 |
+| Sartorialist | 8.00% | ~85 |
 | Entresol Explorer | 8.00% | ~85 |
-| Sartorialist | 7.00% | ~74 |
 | Clovemary for Remembering | 6.00% | ~64 |
 | Hexlock for Protection | 6.00% | ~64 |
 | Golem Hunter | 6.00% | ~64 |
@@ -55,11 +55,11 @@ Rating: 4.64 (Ranked 338)
 | Thinking Two Steps Ahead | 1.00% | ~11 |
 | No Time to Waste | 1.00% | ~11 |
 | A Lesson in Precision | 0.90% | ~10 |
-| Wildlife Protection | 0.80% | ~8 |
+| Wildlife Protection | 0.80% | ~9 |
 | Raw Talent | 0.70% | ~7 |
 | Going to Live Forever | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,062 (Ranked 275)  
+Progressed: 1,063 (Ranked 275)  
 Completed: 6 (0.56%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 6 (0.56%) (Ranked 203)
 | 2023-12-19 | 1,037 | 6 |
 | 2023-12-20 | 1,046 | 6 |
 | 2023-12-21 | 1,057 | 6 |
-| 2023-12-22 | 1,062 | 6 |
+| 2023-12-22 | 1,063 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

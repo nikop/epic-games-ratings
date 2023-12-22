@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 641,
+  "EOS_Progressed": 643,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2528,6 +2528,11 @@
       "Time": "2023-12-22T11:08:58.2891466+00:00",
       "NumProgressed": 641,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T12:09:16.4984908+00:00",
+      "NumProgressed": 643,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2644,7 +2649,7 @@
       "Name": "Critical Hit",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "Deepstrike",
@@ -2844,7 +2849,7 @@
       "Name": "Landlord Extraordinaire",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "TrojanHorse",
@@ -2868,7 +2873,7 @@
       "Name": "Adept",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "WielderLevel2",
@@ -2876,7 +2881,7 @@
       "Name": "Veteran",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "WielderLevel3",
@@ -2884,7 +2889,7 @@
       "Name": "Master",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "WielderLevel4",
@@ -2971,15 +2976,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 641,
+      "Progressed": 643,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-22T11:08:58.2891462+00:00",
+  "LastChanged_Achievements": "2023-12-22T12:09:16.4984898+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:10.4027668+00:00",
-  "LastUpdate_Ratings": "2023-12-22T11:00:00.494872+00:00",
-  "LastUpdate_Achievements": "2023-12-22T11:08:58.2891868+00:00"
+  "LastUpdate_Ratings": "2023-12-22T11:59:58.1423146+00:00",
+  "LastUpdate_Achievements": "2023-12-22T12:09:16.4985317+00:00"
 }

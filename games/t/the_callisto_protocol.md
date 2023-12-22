@@ -5,25 +5,25 @@ Rating: 4.20 (Ranked 934)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 15.00% | ~2,783 |
-| The Outer Way | 15.00% | ~2,783 |
-| Get a Grip | 14.00% | ~2,598 |
-| Paper Jams | 14.00% | ~2,598 |
-| Desperate Times | 13.00% | ~2,412 |
-| Chew 'Em Up | 11.00% | ~2,041 |
-| Float Like A Butterfly | 11.00% | ~2,041 |
-| Reforged | 10.00% | ~1,855 |
-| Workplace Hazard | 9.00% | ~1,670 |
-| If the SHU Fits... | 9.00% | ~1,670 |
-| Without A Paddle | 8.00% | ~1,484 |
+| Flesh Wound | 15.00% | ~2,785 |
+| The Outer Way | 15.00% | ~2,785 |
+| Get a Grip | 14.00% | ~2,599 |
+| Paper Jams | 14.00% | ~2,599 |
+| Desperate Times | 14.00% | ~2,599 |
+| Chew 'Em Up | 12.00% | ~2,228 |
+| Float Like A Butterfly | 11.00% | ~2,042 |
+| Reforged | 10.00% | ~1,856 |
+| Workplace Hazard | 9.00% | ~1,671 |
+| If the SHU Fits... | 9.00% | ~1,671 |
+| Without A Paddle | 8.00% | ~1,485 |
 | Two Heads Are Better Than One | 7.00% | ~1,299 |
 | In the Pipe, Five by Five | 7.00% | ~1,299 |
 | Crash Site | 7.00% | ~1,299 |
 | Power Up | 7.00% | ~1,299 |
-| You Need a Gun | 6.00% | ~1,113 |
-| Terminated | 6.00% | ~1,113 |
-| What Lies Beneath | 6.00% | ~1,113 |
-| Full Circle | 6.00% | ~1,113 |
+| You Need a Gun | 6.00% | ~1,114 |
+| Terminated | 6.00% | ~1,114 |
+| What Lies Beneath | 6.00% | ~1,114 |
+| Full Circle | 6.00% | ~1,114 |
 | Keep Fighting | 6.00% | ~389 |
 | Giving Back | 5.00% | ~928 |
 | I Do Belong Here | 5.00% | ~928 |
@@ -35,7 +35,7 @@ Rating: 4.20 (Ranked 934)
 | Big Spender | 1.00% | ~65 |
 | This Isn't About Escape | 1.00% | ~65 |
 | Armed to the Teeth | 0.90% | ~58 |
-| Grim Reaper | 0.80% | ~148 |
+| Grim Reaper | 0.80% | ~149 |
 | Instigator | 0.80% | ~52 |
 | Information Overload | 0.80% | ~52 |
 | Parole Denied | 0.70% | ~45 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 934)
 | Bear Trap | 0.10% | ~6 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,554 (Ranked 149)  
+Progressed: 18,564 (Ranked 149)  
 Completed: 82 (0.44%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,17 +291,17 @@ Completed: 82 (0.44%) (Ranked 225)
 | 2023-12-19 | 18,137 | 82 |
 | 2023-12-20 | 18,301 | 82 |
 | 2023-12-21 | 18,465 | 82 |
-| 2023-12-22 | 18,554 | 82 |
+| 2023-12-22 | 18,564 | 82 |
 ## Awards
-Max (Quickly Understood Controls): 91  (Ranked 385)  
-Sum: 542 (Ranked 326)  
-Diff (max vs sum): 59  
+Max (Amazing Characters): 95  (Ranked 382)  
+Sum: 551 (Ranked 324)  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
+| This game has Amazing Characters | 95 |
+| This game is Highly Recommended | 93 |
 | This game has Quickly Understood Controls | 91 |
-| This game has Amazing Characters | 91 |
 | This game has Amazing Storytelling | 90 |
-| This game is Highly Recommended | 88 |
 | This game is Extremely Fun | 81 |
 | This game has Challenging Combat | 66 |
 | This game has a Creative Community | 35 |
@@ -486,4 +486,4 @@ Diff (max vs sum): 59
 | 2023-12-19 | 4.19 | 89 | 526 |
 | 2023-12-20 | 4.19 | 89 | 533 |
 | 2023-12-21 | 4.20 | 91 | 539 |
-| 2023-12-22 | 4.20 | 91 | 542 |
+| 2023-12-22 | 4.20 | 95 | 551 |

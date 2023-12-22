@@ -2,13 +2,13 @@
   "ID": "100f8957d16d4d2d89716775b5767779",
   "Name": "Riverbond",
   "ProductSlug": "riverbond-782aa4",
-  "Ranking_Rating": 645,
+  "Ranking_Rating": 646,
   "Ranking_Popularity": 560,
   "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -503,7 +503,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 533635,
+  "EOS_Progressed": 533636,
   "EOS_Completed": 510,
   "EOS_NewPlayers": 474,
   "EOS_NewCompleters": 1,
@@ -26548,6 +26548,11 @@
       "Time": "2023-12-22T11:04:36.6031624+00:00",
       "NumProgressed": 533635,
       "NumCompleted": 510
+    },
+    {
+      "Time": "2023-12-22T12:04:39.9306049+00:00",
+      "NumProgressed": 533636,
+      "NumCompleted": 510
     }
   ],
   "TotalAchievements": 57,
@@ -26575,7 +26580,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 373544
+      "UsersEstimate": 373545
     },
     {
       "ID": "12",
@@ -26655,7 +26660,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 128072
+      "UsersEstimate": 128073
     },
     {
       "ID": "21",
@@ -26679,7 +26684,7 @@
       "Name": "Partner in Crime",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 37354
+      "UsersEstimate": 37355
     },
     {
       "ID": "24",
@@ -26759,7 +26764,7 @@
       "Name": "Hard to Hear",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 37354
+      "UsersEstimate": 37355
     },
     {
       "ID": "33",
@@ -26935,7 +26940,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 245472
+      "UsersEstimate": 245473
     },
     {
       "ID": "53",
@@ -27014,15 +27019,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 533635,
+      "Progressed": 533636,
       "Completed": 510
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-12-14T14:59:39.4842186+00:00",
-  "LastChanged_Achievements": "2023-12-22T11:04:36.6031618+00:00",
+  "LastChanged_Achievements": "2023-12-22T12:04:39.9306044+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:12.0766655+00:00",
-  "LastUpdate_Ratings": "2023-12-22T11:01:15.0553269+00:00",
-  "LastUpdate_Achievements": "2023-12-22T11:04:36.60334+00:00"
+  "LastUpdate_Ratings": "2023-12-22T12:01:07.8569703+00:00",
+  "LastUpdate_Achievements": "2023-12-22T12:04:39.9307272+00:00"
 }
