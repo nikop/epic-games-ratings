@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~87,861 |
+| Sowwy! | 36.00% | ~87,863 |
 | Alt+F4 | 10.00% | ~24,406 |
-| Where's that freaking Dwarf? | 9.00% | ~21,965 |
+| Where's that freaking Dwarf? | 9.00% | ~21,966 |
 | Déjà vu | 7.00% | ~17,084 |
-| Sock! SOCK! | 6.00% | ~14,643 |
+| Sock! SOCK! | 6.00% | ~14,644 |
 | A beer, two curses, three companions | 5.00% | ~12,203 |
 | GG EZ | 5.00% | ~12,203 |
 | Speedrun | 5.00% | ~12,203 |
-| DM intervention | 4.00% | ~9,762 |
-| Fireproof Wizardess | 4.00% | ~9,762 |
+| DM intervention | 4.00% | ~9,763 |
+| Fireproof Wizardess | 4.00% | ~9,763 |
 | Livin' in a dwarven paradise | 3.00% | ~7,322 |
 | Way of the Wimp | 3.00% | ~7,322 |
 | The plot thickens... At the tavern | 3.00% | ~7,322 |
@@ -46,7 +46,7 @@ Number of Ratings: 118  (23.09.2022)
 | Lust and Debauchery | 1.00% | ~2,441 |
 | Material Girl | 1.00% | ~2,441 |
 | Lëgal Legend | 0.90% | ~2,197 |
-| We come in peace | 0.80% | ~1,952 |
+| We come in peace | 0.80% | ~1,953 |
 | Holistic Adventuring Party | 0.70% | ~1,708 |
 | An old poacher makes the best gamekeeper | 0.70% | ~1,708 |
 | Law and Order | 0.60% | ~1,464 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~244 |
 | Dwarf Candy | 0.10% | ~244 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244,058 (Ranked 65)  
+Progressed: 244,063 (Ranked 65)  
 Completed: 7 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,19 +300,19 @@ Completed: 7 (0.00%) (Ranked 385)
 | 2023-12-19 | 243,614 | 7 |
 | 2023-12-20 | 243,748 | 7 |
 | 2023-12-21 | 243,905 | 7 |
-| 2023-12-22 | 244,058 | 7 |
+| 2023-12-22 | 244,063 | 7 |
 ## Awards
 Max (Character Customization): 250  (Ranked 274)  
-Sum: 528 (Ranked 327)  
+Sum: 529 (Ranked 327)  
 Diff (max vs sum): -53  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 250 |
 | This game is Relaxing | 39 |
 | This game is Great for Beginners | 37 |
+| This game has Amazing Storytelling | 33 |
 | This game has Quickly Understood Controls | 33 |
 | This game is Highly Recommended | 32 |
-| This game has Amazing Storytelling | 32 |
 | This game has Amazing Characters | 28 |
 | This game has Diverse Characters | 28 |
 | This game is Extremely Fun | 28 |
@@ -518,4 +518,4 @@ Diff (max vs sum): -53
 | 2023-12-18 | 4.59 | - | 247 | 519 |
 | 2023-12-19 | 4.59 | - | 249 | 522 |
 | 2023-12-20 | 4.59 | - | 250 | 526 |
-| 2023-12-22 | 4.59 | - | 250 | 528 |
+| 2023-12-22 | 4.59 | - | 250 | 529 |

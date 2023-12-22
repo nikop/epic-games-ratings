@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4613,
+  "EOS_Progressed": 4614,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
@@ -11915,6 +11915,11 @@
       "Time": "2023-12-22T19:03:38.490375+00:00",
       "NumProgressed": 4613,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-12-22T21:03:03.194068+00:00",
+      "NumProgressed": 4614,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 16,
@@ -11942,7 +11947,7 @@
       "Name": "Artist in the making",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "ach_animals_completed",
@@ -11958,7 +11963,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 3552
+      "UsersEstimate": 3553
     },
     {
       "ID": "ach_architecture_completed",
@@ -11974,7 +11979,7 @@
       "Name": "Architecture - unlocked",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1522
+      "UsersEstimate": 1523
     },
     {
       "ID": "ach_bomb",
@@ -12022,7 +12027,7 @@
       "Name": "Game opened",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3506
+      "UsersEstimate": 3507
     },
     {
       "ID": "ach_magic_wand",
@@ -12053,7 +12058,7 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 4613,
+      "Progressed": 4614,
       "Completed": 40
     }
   ],
@@ -12061,8 +12066,8 @@
   "FirstSeenRating": "2023-12-06T23:00:44.8965761+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
   "LastChanged": "2023-12-06T23:00:44.8965762+00:00",
-  "LastChanged_Achievements": "2023-12-22T20:03:09.1853237+00:00",
+  "LastChanged_Achievements": "2023-12-22T21:03:03.1940676+00:00",
   "LastUpdate_AppInfo": "2023-12-15T21:57:12.1320242+00:00",
-  "LastUpdate_Ratings": "2023-12-22T19:57:22.4633066+00:00",
-  "LastUpdate_Achievements": "2023-12-22T20:03:09.1854226+00:00"
+  "LastUpdate_Ratings": "2023-12-22T20:57:56.6530858+00:00",
+  "LastUpdate_Achievements": "2023-12-22T21:03:03.1941523+00:00"
 }

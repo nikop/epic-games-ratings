@@ -3,12 +3,12 @@
   "Name": "GigaBash",
   "ProductSlug": "gigabash",
   "Ranking_Rating": 532,
-  "Ranking_Popularity": 491,
-  "Ranking_PopularitySum": 515,
+  "Ranking_Popularity": 492,
+  "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 16,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-08-04T15:00:00+00:00",
     "PcReleaseDate": "2022-08-04T15:00:00+00:00",
@@ -237,9 +237,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 100339,
+  "EOS_Progressed": 100374,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16486,
+  "EOS_NewPlayers": 16412,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1772,6 +1772,11 @@
       "Time": "2023-12-22T20:03:18.4140468+00:00",
       "NumProgressed": 100339,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T21:03:15.5014064+00:00",
+      "NumProgressed": 100374,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-10T01:55:31.023863+00:00",
@@ -1832,7 +1837,7 @@
       "Name": "Double Punch!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1004
     },
     {
       "ID": "ACH_EYE_OF_THE_TITAN",
@@ -1848,7 +1853,7 @@
       "Name": "Fists, Fury \u0026 a lot of Rage",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 8027
+      "UsersEstimate": 8030
     },
     {
       "ID": "ACH_GROWNUP",
@@ -1856,7 +1861,7 @@
       "Name": "All Grown Up!",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 13044
+      "UsersEstimate": 13049
     },
     {
       "ID": "ACH_JUST_GETTING_WARMED_UP",
@@ -1872,7 +1877,7 @@
       "Name": "Katamari",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "ACH_KONGKRETE",
@@ -1880,7 +1885,7 @@
       "Name": "I\u0027ve Had Enough!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 11037
+      "UsersEstimate": 11041
     },
     {
       "ID": "ACH_LET_THEM_FIGHT",
@@ -1912,7 +1917,7 @@
       "Name": "It\u0027s Mayhem!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1004
     },
     {
       "ID": "ACH_NINJA_REFLEX",
@@ -1936,7 +1941,7 @@
       "Name": "All For One and One For All",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 6020
+      "UsersEstimate": 6022
     },
     {
       "ID": "ACH_RIGHT_BACK_AT_CHA",
@@ -1944,7 +1949,7 @@
       "Name": "Right back at\u0027cha",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1004
     },
     {
       "ID": "ACH_SEASONED_FIGHTER",
@@ -1952,7 +1957,7 @@
       "Name": "Seasoned Fighter",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 6020
+      "UsersEstimate": 6022
     },
     {
       "ID": "ACH_SIGNATURE_LOOK",
@@ -2008,7 +2013,7 @@
       "Name": "A New Age",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 4014
+      "UsersEstimate": 4015
     },
     {
       "ID": "ACH_TOP_OF_THE_FOOD_CHAIN",
@@ -2024,7 +2029,7 @@
       "Name": "Spectacular Finisher",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1004
     },
     {
       "ID": "ACH_WATCHFUL_SENTINEL",
@@ -2048,7 +2053,7 @@
       "Name": "Home Sweet Home?",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 4014
+      "UsersEstimate": 4015
     },
     {
       "ID": "ACH_ZERO_SUM_GAME",
@@ -2056,14 +2061,14 @@
       "Name": "Zero-sum Game",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     }
   ],
   "AchievementSets": [
     {
       "ID": "3k5ibhn",
       "IsBase": true,
-      "Progressed": 100339,
+      "Progressed": 100374,
       "Completed": 0
     }
   ],
@@ -2071,8 +2076,8 @@
   "FirstSeenRating": "2022-10-02T07:32:08.4274129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:17.2611178+00:00",
   "LastChanged": "2023-12-22T19:03:00.1185833+00:00",
-  "LastChanged_Achievements": "2023-12-22T20:03:18.4140465+00:00",
+  "LastChanged_Achievements": "2023-12-22T21:03:15.5014014+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:44.2379723+00:00",
-  "LastUpdate_Ratings": "2023-12-22T20:02:40.8786314+00:00",
-  "LastUpdate_Achievements": "2023-12-22T20:03:18.4140876+00:00"
+  "LastUpdate_Ratings": "2023-12-22T21:02:20.5425043+00:00",
+  "LastUpdate_Achievements": "2023-12-22T21:03:15.5014389+00:00"
 }

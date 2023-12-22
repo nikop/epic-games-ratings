@@ -5,35 +5,35 @@ Rating: 4.73 (Ranked 175)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 7.00% | ~18,214 |
-| First of Many | 6.00% | ~15,612 |
-| Not Your Average Trait | 5.00% | ~13,010 |
-| Expanding Horizons | 4.00% | ~10,408 |
-| Quest for Survival | 4.00% | ~10,408 |
-| Gleaming the Cube | 3.00% | ~7,806 |
-| Not So Special Now | 3.00% | ~7,806 |
-| Not a Janitor | 3.00% | ~7,806 |
-| Familiar Face | 3.00% | ~7,806 |
-| Blue Goddess | 3.00% | ~7,806 |
-| Duality | 3.00% | ~7,806 |
-| Boss'n Up | 3.00% | ~7,806 |
-| Trait Chaser | 3.00% | ~7,806 |
-| Am I Seeing This? | 2.00% | ~5,204 |
-| Chaos | 2.00% | ~5,204 |
-| Traitor | 2.00% | ~5,204 |
-| Power Surge | 2.00% | ~5,204 |
-| The God Gambit | 2.00% | ~5,204 |
-| Dark Designs | 2.00% | ~5,204 |
-| Madman's Paradise | 2.00% | ~5,204 |
-| Equal Measures | 2.00% | ~5,204 |
-| Top Performer | 2.00% | ~5,204 |
-| Shhh...It's a Secret | 2.00% | ~5,204 |
-| Was This Supposed To Happen? | 2.00% | ~5,204 |
-| The Web | 2.00% | ~5,204 |
-| Scrap Collector | 2.00% | ~5,204 |
-| Almost There | 2.00% | ~5,204 |
-| Make Some Room | 2.00% | ~5,204 |
-| Good, But Could Be Better! | 2.00% | ~5,204 |
+| The Killing Jar | 7.00% | ~18,217 |
+| First of Many | 6.00% | ~15,615 |
+| Not Your Average Trait | 5.00% | ~13,012 |
+| Expanding Horizons | 4.00% | ~10,410 |
+| Quest for Survival | 4.00% | ~10,410 |
+| Gleaming the Cube | 3.00% | ~7,807 |
+| Not So Special Now | 3.00% | ~7,807 |
+| Not a Janitor | 3.00% | ~7,807 |
+| Familiar Face | 3.00% | ~7,807 |
+| Blue Goddess | 3.00% | ~7,807 |
+| Duality | 3.00% | ~7,807 |
+| Boss'n Up | 3.00% | ~7,807 |
+| Trait Chaser | 3.00% | ~7,807 |
+| Am I Seeing This? | 2.00% | ~5,205 |
+| Chaos | 2.00% | ~5,205 |
+| Traitor | 2.00% | ~5,205 |
+| Power Surge | 2.00% | ~5,205 |
+| The God Gambit | 2.00% | ~5,205 |
+| Dark Designs | 2.00% | ~5,205 |
+| Madman's Paradise | 2.00% | ~5,205 |
+| Equal Measures | 2.00% | ~5,205 |
+| Top Performer | 2.00% | ~5,205 |
+| Shhh...It's a Secret | 2.00% | ~5,205 |
+| Was This Supposed To Happen? | 2.00% | ~5,205 |
+| The Web | 2.00% | ~5,205 |
+| Scrap Collector | 2.00% | ~5,205 |
+| Almost There | 2.00% | ~5,205 |
+| Make Some Room | 2.00% | ~5,205 |
+| Good, But Could Be Better! | 2.00% | ~5,205 |
 | Forever is a Long Time Coming | 1.00% | ~2,602 |
 | The Agenda | 1.00% | ~2,602 |
 | Tall Tales | 1.00% | ~2,602 |
@@ -48,8 +48,8 @@ Rating: 4.73 (Ranked 175)
 | Transmutate | 1.00% | ~2,602 |
 | Regicide | 1.00% | ~394 |
 | Master of the Dark Arts | 1.00% | ~394 |
+| Only Human | 0.80% | ~2,082 |
 | Red Room | 0.80% | ~2,082 |
-| Only Human | 0.70% | ~1,821 |
 | Crafty | 0.60% | ~1,561 |
 | Maxed Out! | 0.60% | ~1,561 |
 | Ghost in the Machine | 0.50% | ~1,301 |
@@ -61,7 +61,7 @@ Rating: 4.73 (Ranked 175)
 | You Shall Pass | 0.30% | ~118 |
 | A Foul Feast | 0.20% | ~79 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 260,193 (Ranked 60)  
+Progressed: 260,246 (Ranked 60)  
 Completed: 621 (0.24%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,11 +220,11 @@ Completed: 621 (0.24%) (Ranked 261)
 | 2023-12-19 | 255,737 | 607 |
 | 2023-12-20 | 257,155 | 610 |
 | 2023-12-21 | 258,570 | 614 |
-| 2023-12-22 | 260,193 | 621 |
+| 2023-12-22 | 260,246 | 621 |
 ## Awards
 Max (Great Boss Battles): 3,534  (Ranked 93)  
-Sum: 8,175 (Ranked 108)  
-Diff (max vs sum): -15  
+Sum: 8,175 (Ranked 109)  
+Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 3,534 |

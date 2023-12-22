@@ -11,8 +11,8 @@
 | Your first job | 81.00% | ~362 |
 | Depressed visitor | 77.00% | ~344 |
 | Old movies enjoyer | 76.00% | ~340 |
+| Neurotrainer – power gainer! | 76.00% | ~340 |
 | Fitness professional | 75.00% | ~335 |
-| Neurotrainer – power gainer! | 75.00% | ~335 |
 | Employee of the week | 74.00% | ~331 |
 | Your own amateur gym | 70.00% | ~313 |
 | Run K, run! | 69.00% | ~308 |
@@ -44,8 +44,8 @@
 | Champion – no way back | 39.00% | ~174 |
 | Underground dwellers | 38.00% | ~170 |
 | Responsible approach | 38.00% | ~170 |
+| Deal with life | 37.00% | ~165 |
 | Mom got better | 36.00% | ~161 |
-| Deal with life | 36.00% | ~161 |
 | GYM professional | 36.00% | ~161 |
 | The die is cast | 36.00% | ~161 |
 | Poisoned fighter | 35.00% | ~156 |
@@ -55,12 +55,12 @@
 | Undercover robot | 32.00% | ~143 |
 | Problems of cyborgs | 31.00% | ~139 |
 | Absolute Champion! | 31.00% | ~139 |
+| The lonesome road | 30.00% | ~134 |
 | Not little hacker | 30.00% | ~134 |
 | Careerist | 30.00% | ~134 |
 | Your own way | 30.00% | ~134 |
 | Trap disarmed | 29.00% | ~130 |
 | Another world | 29.00% | ~130 |
-| The lonesome road | 29.00% | ~130 |
 | Keep nature safe | 29.00% | ~130 |
 | Family comes first | 29.00% | ~130 |
 | Key memories | 29.00% | ~130 |

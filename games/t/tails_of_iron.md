@@ -12,6 +12,7 @@ Rating: 4.55 (Ranked 510)
 | Return Power To The Depths | 0.50% | ~11 |
 | Become King | 0.40% | ~9 |
 | Complete Guard Faction | 0.40% | ~9 |
+| Defeat 25 Frogs | 0.40% | ~9 |
 | Defeat Croakhis Khan | 0.40% | ~4 |
 | Shield Maiden Yellow Tongue | 0.40% | ~4 |
 | I Remember My First Beer | 0.40% | ~4 |
@@ -25,21 +26,20 @@ Rating: 4.55 (Ranked 510)
 | Ranged Weapon | 0.30% | ~7 |
 | Two Handed Weapon | 0.30% | ~7 |
 | Defeat 25 Grubs | 0.30% | ~7 |
-| Defeat 25 Frogs | 0.30% | ~7 |
 | Defeat 25 Mozis | 0.30% | ~7 |
+| Kitchen Ready To Cook | 0.30% | ~7 |
 | Smithy Ready to Craft | 0.30% | ~7 |
 | Rescue Redgi's Brothers | 0.30% | ~7 |
 | Complete Elder Faction | 0.20% | ~5 |
 | Complete Ranger Faction | 0.20% | ~5 |
 | Defeat Avor Warden of the Northern Wastes | 0.20% | ~5 |
+| Fix the Travellers Wagon | 0.20% | ~5 |
 | Discover the mystery of the Kings Chambers | 0.20% | ~5 |
-| Kitchen Ready To Cook | 0.20% | ~5 |
 | Defeat the Grub Buster | 0.20% | ~2 |
 | Defeat the Stalker Queen | 0.20% | ~2 |
 | Complete Redgi's Armory | 0.10% | ~2 |
 | King of Kings | 0.10% | ~2 |
 | Complete Arena Faction | 0.10% | ~2 |
-| Fix the Travellers Wagon | 0.10% | ~2 |
 | A new Warchief rises | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,267 (Ranked 231)  

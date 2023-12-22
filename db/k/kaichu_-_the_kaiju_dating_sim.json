@@ -2,10 +2,10 @@
   "ID": "5cadfb94efd74932b97805c2a78f4150",
   "Name": "Kaichu - The Kaiju Dating Sim",
   "ProductSlug": "kaichu-the-kaiju-dating-sim-531fb7",
-  "Ranking_EOS_Progress": 549,
-  "Ranking_EOS_Completed": 43,
-  "Ranking_EOS_NewPlayers": 525,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_Progress": 548,
+  "Ranking_EOS_Completed": 46,
+  "Ranking_EOS_NewPlayers": 489,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-09-07T14:00:00+00:00",
     "PcReleaseDate": "2022-09-07T14:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43,
+  "EOS_Progressed": 44,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 9.3,
+  "EOS_Completed_Percentage": 9.09,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:42:13.8187686+00:00",
@@ -155,6 +155,11 @@
       "Time": "2023-12-21T00:07:44.8851876+00:00",
       "NumProgressed": 43,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-22T21:07:34.1103068+00:00",
+      "NumProgressed": 44,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 15,
@@ -164,7 +169,7 @@
       "ID": "A_HEATED_AFFAIR",
       "SetID": "dhjj31a",
       "Name": "A Heated Affair",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 9
     },
@@ -172,7 +177,7 @@
       "ID": "CYBER_BULLY",
       "SetID": "dhjj31a",
       "Name": "Cyber Bully",
-      "Percentage": 72,
+      "Percentage": 70,
       "XP": 75,
       "UsersEstimate": 31
     },
@@ -180,7 +185,7 @@
       "ID": "EVERYTHINGS_COMING_UP_GIGACHU",
       "SetID": "dhjj31a",
       "Name": "Everything\u0027s Coming Up Gigachu",
-      "Percentage": 93,
+      "Percentage": 91,
       "XP": 75,
       "UsersEstimate": 40
     },
@@ -188,7 +193,7 @@
       "ID": "FRIENDZONED",
       "SetID": "dhjj31a",
       "Name": "Friendzoned",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 100,
       "UsersEstimate": 17
     },
@@ -212,7 +217,7 @@
       "ID": "LOVE_IS_IN_BLOOM",
       "SetID": "dhjj31a",
       "Name": "Love is in Bloom",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 30,
       "UsersEstimate": 16
     },
@@ -220,7 +225,7 @@
       "ID": "LOVE_IS_IN_THE_AIR",
       "SetID": "dhjj31a",
       "Name": "Love is in the Air",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 9
     },
@@ -228,7 +233,7 @@
       "ID": "LOVING_COMMUTE",
       "SetID": "dhjj31a",
       "Name": "Loving Commute",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 50,
       "UsersEstimate": 28
     },
@@ -244,7 +249,7 @@
       "ID": "POLYAMOROUSASAURUS",
       "SetID": "dhjj31a",
       "Name": "Polyamorousasaurus",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 200,
       "UsersEstimate": 5
     },
@@ -252,7 +257,7 @@
       "ID": "ROYAL_ROMANCE",
       "SetID": "dhjj31a",
       "Name": "Royal Romance",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 30,
       "UsersEstimate": 14
     },
@@ -260,7 +265,7 @@
       "ID": "SHORT_DISTANCE_RELATIONSHIP",
       "SetID": "dhjj31a",
       "Name": "Short Distance Relationship",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -276,7 +281,7 @@
       "ID": "SPREAD_THE_LOVE",
       "SetID": "dhjj31a",
       "Name": "Spread the Love",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 75,
       "UsersEstimate": 9
     }
@@ -285,7 +290,7 @@
     {
       "ID": "dhjj31a",
       "IsBase": true,
-      "Progressed": 43,
+      "Progressed": 44,
       "Completed": 4
     }
   ],
@@ -293,8 +298,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.7586093+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.8187697+00:00",
   "LastChanged": "2023-03-31T05:58:12.7586094+00:00",
-  "LastChanged_Achievements": "2023-12-22T20:07:47.3459989+00:00",
+  "LastChanged_Achievements": "2023-12-22T21:07:34.1103061+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:29.5926254+00:00",
-  "LastUpdate_Ratings": "2023-12-22T19:57:55.7230709+00:00",
-  "LastUpdate_Achievements": "2023-12-22T20:07:47.3460157+00:00"
+  "LastUpdate_Ratings": "2023-12-22T20:58:45.1405117+00:00",
+  "LastUpdate_Achievements": "2023-12-22T21:07:34.1103164+00:00"
 }

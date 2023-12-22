@@ -6,25 +6,25 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~51,591 |
-| Get Busy Living | 16.00% | ~33,018 |
-| Samuel Norton | 9.00% | ~18,573 |
-| Spare The Rod | 5.00% | ~10,318 |
+| Stone Walls | 25.00% | ~51,595 |
+| Get Busy Living | 16.00% | ~33,021 |
+| Samuel Norton | 9.00% | ~18,574 |
+| Spare The Rod | 5.00% | ~10,319 |
 | Don't Put Me In The Dark | 3.00% | ~6,191 |
 | Wait and Hope | 3.00% | ~6,191 |
 | I May Have Found A Way Out Of Here | 3.00% | ~6,191 |
-| Throw The Book At Them | 2.00% | ~4,127 |
-| Iron Bars | 2.00% | ~4,127 |
+| Throw The Book At Them | 2.00% | ~4,128 |
+| Iron Bars | 2.00% | ~4,128 |
 | D.B. Cooper | 1.00% | ~2,064 |
 | Reformation | 0.60% | ~1,238 |
 | Crowd Control | 0.50% | ~1,032 |
-| Freedom | 0.40% | ~825 |
+| Freedom | 0.40% | ~826 |
 | Confined | 0.30% | ~619 |
 | It's Not What You Know... | 0.10% | ~206 |
 | ... It's What You Can Prove | 0.10% | ~206 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206,364 (Ranked 77)  
-Completed: 11 (0.01%) (Ranked 362)  
+Progressed: 206,379 (Ranked 77)  
+Completed: 11 (0.01%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -269,10 +269,10 @@ Completed: 11 (0.01%) (Ranked 362)
 | 2023-12-19 | 205,206 | 11 |
 | 2023-12-20 | 205,600 | 11 |
 | 2023-12-21 | 206,020 | 11 |
-| 2023-12-22 | 206,364 | 11 |
+| 2023-12-22 | 206,379 | 11 |
 ## Awards
 Max (Great for Beginners): 610  (Ranked 199)  
-Sum: 4,670 (Ranked 149)  
+Sum: 4,673 (Ranked 149)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
@@ -281,7 +281,7 @@ Diff (max vs sum): 50
 | This game is Highly Recommended | 556 |
 | This game has Quickly Understood Controls | 549 |
 | This game is Relaxing | 540 |
-| This game has Diverse Characters | 513 |
+| This game has Diverse Characters | 516 |
 | This game has Amazing Storytelling | 500 |
 | This game is Educational | 459 |
 | This game has Amazing Characters | 450 |
@@ -623,4 +623,4 @@ Diff (max vs sum): 50
 | 2023-12-19 | 4.61 | - | 607 | 4,641 |
 | 2023-12-20 | 4.61 | - | 607 | 4,654 |
 | 2023-12-21 | 4.61 | - | 610 | 4,665 |
-| 2023-12-22 | 4.61 | - | 610 | 4,670 |
+| 2023-12-22 | 4.61 | - | 610 | 4,673 |

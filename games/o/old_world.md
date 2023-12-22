@@ -118,6 +118,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Turning Point | 0.10% | ~16 |
 | A Good Start | 0.10% | ~16 |
 | Tell the Spartans | 0.10% | ~16 |
+| The Olive Wreath | 0.10% | ~16 |
+| Those Were Mine | 0.10% | ~16 |
 | Hittite Iron | 0.10% | ~16 |
 | Acropolis | 0.10% | ~16 |
 | Apadana | 0.10% | ~16 |
@@ -272,8 +274,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Shape of Things to Come | 0.00% | ~0 |
 | I am the Archon Now | 0.00% | ~0 |
 | Not a Scratch | 0.00% | ~0 |
-| The Olive Wreath | 0.00% | ~0 |
-| Those Were Mine | 0.00% | ~0 |
 | If? Then! | 0.00% | ~0 |
 | What's 'hubris' in Greek? | 0.00% | ~0 |
 | Three's a Crowd | 0.00% | ~0 |

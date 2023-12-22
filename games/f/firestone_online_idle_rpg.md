@@ -5,34 +5,34 @@ Rating: 4.05 (Ranked 1,007)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,413 |
-| World Map | 78.00% | ~2,863 |
-| Temple of Eternals | 56.00% | ~2,055 |
-| Prestigious | 53.00% | ~1,945 |
-| Fellowship Power | 42.00% | ~1,541 |
+| Victor | 93.00% | ~3,417 |
+| World Map | 78.00% | ~2,866 |
+| Temple of Eternals | 56.00% | ~2,057 |
+| Prestigious | 53.00% | ~1,947 |
+| Fellowship Power | 42.00% | ~1,543 |
 | Full Party | 25.00% | ~918 |
-| Guild Power | 23.00% | ~844 |
-| Prestigious x10 | 20.00% | ~734 |
+| Guild Power | 23.00% | ~845 |
+| Prestigious x10 | 20.00% | ~735 |
 | The game is on | 18.00% | ~661 |
-| Exotic Merchant | 16.00% | ~587 |
-| Dragon Clicker | 15.00% | ~550 |
-| Miner Clicker | 15.00% | ~550 |
+| Exotic Merchant | 16.00% | ~588 |
+| Dragon Clicker | 15.00% | ~551 |
+| Miner Clicker | 15.00% | ~551 |
 | Hero inspection | 14.00% | ~514 |
 | Inspection | 14.00% | ~514 |
-| Dragon Master | 13.00% | ~477 |
-| Enlightenment | 13.00% | ~477 |
-| Lieutenant | 12.00% | ~440 |
+| Dragon Master | 13.00% | ~478 |
+| Enlightenment | 13.00% | ~478 |
+| Lieutenant | 12.00% | ~441 |
 | Milestone collector | 11.00% | ~404 |
 | Mysterious Rock | 11.00% | ~404 |
 | Natural Talent | 11.00% | ~404 |
 | Superior | 11.00% | ~404 |
 | The Unstoppable | 11.00% | ~404 |
 | Scientist | 10.00% | ~367 |
-| Challenger | 9.00% | ~330 |
-| Daily Quest Completionist | 9.00% | ~330 |
-| Doing My Part | 9.00% | ~330 |
-| Hunter | 9.00% | ~330 |
-| The power of Awakening | 9.00% | ~330 |
+| Challenger | 9.00% | ~331 |
+| Daily Quest Completionist | 9.00% | ~331 |
+| Doing My Part | 9.00% | ~331 |
+| Hunter | 9.00% | ~331 |
+| The power of Awakening | 9.00% | ~331 |
 | Frostfire Liberator | 8.00% | ~294 |
 | Mastery | 8.00% | ~294 |
 | Moving Up The Ladder | 8.00% | ~294 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 1,007)
 | Jewel Enchanting | 0.20% | ~7 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,670 (Ranked 210)  
+Progressed: 3,674 (Ranked 210)  
 Completed: 2 (0.05%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,11 +322,11 @@ Completed: 2 (0.05%) (Ranked 331)
 | 2023-12-19 | 3,555 | 2 |
 | 2023-12-20 | 3,585 | 2 |
 | 2023-12-21 | 3,636 | 2 |
-| 2023-12-22 | 3,670 | 2 |
+| 2023-12-22 | 3,674 | 2 |
 ## Awards
-Max (Great for Beginners): 38  (Ranked 474)  
+Max (Great for Beginners): 38  (Ranked 475)  
 Sum: 147 (Ranked 431)  
-Diff (max vs sum): 43  
+Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 38 |

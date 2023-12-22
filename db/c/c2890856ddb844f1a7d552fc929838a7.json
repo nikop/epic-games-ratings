@@ -3,12 +3,12 @@
   "Name": "Blasphemous 2",
   "ProductSlug": "blasphemous-2",
   "Ranking_Rating": 69,
-  "Ranking_Popularity": 540,
-  "Ranking_PopularitySum": 545,
+  "Ranking_Popularity": 541,
+  "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -209,7 +209,7 @@
   ],
   "EOS_Progressed": 1600,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 402,
+  "EOS_NewPlayers": 400,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4158,9 +4158,9 @@
       "ID": "AC37",
       "SetID": "l4abp0",
       "Name": "Storm of Death",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 320
+      "UsersEstimate": 336
     },
     {
       "ID": "AC38",
@@ -4239,8 +4239,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-12-21T21:57:41.8978652+00:00",
-  "LastChanged_Achievements": "2023-12-22T20:05:40.1810209+00:00",
+  "LastChanged_Achievements": "2023-12-22T21:06:32.941608+00:00",
   "LastUpdate_AppInfo": "2023-12-20T02:56:51.3112263+00:00",
-  "LastUpdate_Ratings": "2023-12-22T19:57:37.8594781+00:00",
-  "LastUpdate_Achievements": "2023-12-22T20:05:40.1810616+00:00"
+  "LastUpdate_Ratings": "2023-12-22T20:58:20.9348235+00:00",
+  "LastUpdate_Achievements": "2023-12-22T21:06:32.9416628+00:00"
 }

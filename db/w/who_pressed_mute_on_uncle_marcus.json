@@ -4,8 +4,8 @@
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
   "Ranking_EOS_Progress": 386,
   "Ranking_EOS_Completed": 39,
-  "Ranking_EOS_NewPlayers": 370,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
     "PcReleaseDate": "2022-03-18T05:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 261,
+  "EOS_Progressed": 262,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 10.73,
+  "EOS_Completed_Percentage": 10.69,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:58.284727+00:00",
@@ -670,6 +670,11 @@
       "Time": "2023-12-22T19:10:20.6402257+00:00",
       "NumProgressed": 261,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-22T21:09:20.9274385+00:00",
+      "NumProgressed": 262,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 17,
@@ -681,7 +686,7 @@
       "Name": "And away we go!",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "bless_the_rain",
@@ -737,7 +742,7 @@
       "Name": "Instinct",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "job_one_done",
@@ -759,9 +764,9 @@
       "ID": "making_a_murderer",
       "SetID": "202dmm8",
       "Name": "Making a murderer",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 52
+      "UsersEstimate": 50
     },
     {
       "ID": "prove_it",
@@ -769,7 +774,7 @@
       "Name": "Prove it",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "sorry_kiddo",
@@ -777,7 +782,7 @@
       "Name": "Sorry, kiddo",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "the_truth",
@@ -785,7 +790,7 @@
       "Name": "The truth",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "the_whole_truth",
@@ -807,16 +812,16 @@
       "ID": "you_are_carol_vorderman",
       "SetID": "202dmm8",
       "Name": "You are Carol Vorderman",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 152
     }
   ],
   "AchievementSets": [
     {
       "ID": "202dmm8",
       "IsBase": true,
-      "Progressed": 261,
+      "Progressed": 262,
       "Completed": 28
     }
   ],
@@ -824,8 +829,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-12-22T20:09:08.8549107+00:00",
+  "LastChanged_Achievements": "2023-12-22T21:09:20.9274382+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:24.8474883+00:00",
-  "LastUpdate_Ratings": "2023-12-22T19:56:52.7546131+00:00",
-  "LastUpdate_Achievements": "2023-12-22T20:09:08.8549253+00:00"
+  "LastUpdate_Ratings": "2023-12-22T20:57:12.3825351+00:00",
+  "LastUpdate_Achievements": "2023-12-22T21:09:20.9274503+00:00"
 }

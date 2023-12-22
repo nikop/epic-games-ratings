@@ -9,7 +9,7 @@
 | It's Yours, My Friend | 73.00% | ~112 |
 | Going Places | 67.00% | ~103 |
 | Conducted Trade | 66.00% | ~102 |
-| Aristocratic | 62.00% | ~95 |
+| Aristocratic | 63.00% | ~97 |
 | Tutti Frutti | 57.00% | ~88 |
 | Gotta Go Fast | 44.00% | ~68 |
 | Systematic | 41.00% | ~63 |

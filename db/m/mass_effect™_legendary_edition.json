@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2739,
+  "EOS_Progressed": 2740,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 980,
+  "EOS_NewPlayers": 978,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -5748,6 +5748,11 @@
       "Time": "2023-12-22T20:09:36.3645849+00:00",
       "NumProgressed": 2739,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-22T21:09:55.7087072+00:00",
+      "NumProgressed": 2740,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-09-20T19:07:08.0577567+00:00",
@@ -5800,7 +5805,7 @@
       "Name": "Untouchable",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "achievement_104",
@@ -5832,7 +5837,7 @@
       "Name": "Eye of the Hurricane",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "achievement_108",
@@ -5864,7 +5869,7 @@
       "Name": "Giant Killer",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "achievement_111",
@@ -5888,7 +5893,7 @@
       "Name": "Under Pressure",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "achievement_114",
@@ -5904,7 +5909,7 @@
       "Name": "Last Resort",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "achievement_116",
@@ -6112,7 +6117,7 @@
       "Name": "Soldier Ally",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1014
     },
     {
       "ID": "achievement_25",
@@ -6120,7 +6125,7 @@
       "Name": "Sentinel Ally",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "achievement_26",
@@ -6128,7 +6133,7 @@
       "Name": "Krogan Ally",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "achievement_27",
@@ -6136,7 +6141,7 @@
       "Name": "Turian Ally",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 1150
+      "UsersEstimate": 1151
     },
     {
       "ID": "achievement_28",
@@ -6160,7 +6165,7 @@
       "Name": "Distinguished Service Medal",
       "Percentage": 91,
       "XP": 25,
-      "UsersEstimate": 2492
+      "UsersEstimate": 2493
     },
     {
       "ID": "achievement_30",
@@ -6184,7 +6189,7 @@
       "Name": "Charismatic",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1014
     },
     {
       "ID": "achievement_33",
@@ -6192,7 +6197,7 @@
       "Name": "Search and Rescue",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 1424
+      "UsersEstimate": 1425
     },
     {
       "ID": "achievement_34",
@@ -6208,7 +6213,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 19,
       "XP": 125,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "achievement_36",
@@ -6216,7 +6221,7 @@
       "Name": "Missing in Action",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "achievement_37",
@@ -6224,7 +6229,7 @@
       "Name": "Very Elusive",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "achievement_38",
@@ -6232,7 +6237,7 @@
       "Name": "Colony Defense",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "achievement_39",
@@ -6256,7 +6261,7 @@
       "Name": "Suicide Mission",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "achievement_41",
@@ -6264,7 +6269,7 @@
       "Name": "Against All Odds",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "achievement_42",
@@ -6280,7 +6285,7 @@
       "Name": "Friend or Foe",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "achievement_44",
@@ -6320,7 +6325,7 @@
       "Name": "The Krogan",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "achievement_49",
@@ -6368,7 +6373,7 @@
       "Name": "Cat\u0027s in the Cradle",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "achievement_54",
@@ -6544,7 +6549,7 @@
       "Name": "Scholar",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "achievement_74",
@@ -6568,7 +6573,7 @@
       "Name": "Broke, Blind, and Bedlam",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "achievement_77",
@@ -6664,7 +6669,7 @@
       "Name": "Saboteur",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "achievement_88",
@@ -6680,7 +6685,7 @@
       "Name": "Last Witness",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "achievement_9",
@@ -6704,7 +6709,7 @@
       "Name": "Well Connected",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "achievement_92",
@@ -6775,19 +6780,19 @@
     {
       "ID": "b9pe172",
       "IsBase": true,
-      "Progressed": 2739,
+      "Progressed": 2740,
       "Completed": 9
     },
     {
       "ID": "d252ncf",
       "IsBase": false,
-      "Progressed": 2739,
+      "Progressed": 2740,
       "Completed": 7
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-22T20:09:36.3645846+00:00",
+  "LastChanged_Achievements": "2023-12-22T21:09:55.708707+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:58.4660143+00:00",
-  "LastUpdate_Ratings": "2023-12-22T20:03:02.2944197+00:00",
-  "LastUpdate_Achievements": "2023-12-22T20:09:36.3647619+00:00"
+  "LastUpdate_Ratings": "2023-12-22T21:02:52.0955468+00:00",
+  "LastUpdate_Achievements": "2023-12-22T21:09:55.7088635+00:00"
 }

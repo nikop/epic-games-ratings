@@ -4,11 +4,11 @@
   "ProductSlug": "skul-the-hero-slayer",
   "Ranking_Rating": 175,
   "Ranking_Popularity": 327,
-  "Ranking_PopularitySum": 271,
+  "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -1179,10 +1179,16 @@
       "Rating": 4.73,
       "NumberOfAwards": 960,
       "NumberOfAwardsMax": 141
+    },
+    {
+      "Time": "2023-12-22T20:59:02.1235862+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 962,
+      "NumberOfAwardsMax": 141
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 960,
+  "NumberOfAwards": 962,
   "NumberOfAwardsMax": 141,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1202,7 +1208,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 137
+      "Count": 139
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1253,9 +1259,9 @@
       "Count": 141
     }
   ],
-  "EOS_Progressed": 11891,
+  "EOS_Progressed": 11892,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 2382,
+  "EOS_NewPlayers": 2380,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -7183,6 +7189,11 @@
       "Time": "2023-12-22T20:08:32.4504925+00:00",
       "NumProgressed": 11891,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-22T21:08:33.025113+00:00",
+      "NumProgressed": 11892,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 24,
@@ -7290,7 +7301,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 3329
+      "UsersEstimate": 3330
     },
     {
       "ID": "LeoniasFall_2",
@@ -7314,7 +7325,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2140
+      "UsersEstimate": 2141
     },
     {
       "ID": "SavedElderEnt",
@@ -7330,7 +7341,7 @@
       "Name": "Quick Movements",
       "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 3567
+      "UsersEstimate": 3568
     },
     {
       "ID": "SkeletonKing",
@@ -7346,7 +7357,7 @@
       "Name": "Inventory Management",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 3567
+      "UsersEstimate": 3568
     },
     {
       "ID": "TheLegendBegins",
@@ -7354,7 +7365,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 11059
+      "UsersEstimate": 11060
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -7378,22 +7389,22 @@
       "Name": "What should I buy?",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9632
+      "UsersEstimate": 9633
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 11891,
+      "Progressed": 11892,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
-  "LastChanged": "2023-12-21T23:58:05.4565593+00:00",
-  "LastChanged_Achievements": "2023-12-22T20:08:32.450492+00:00",
+  "LastChanged": "2023-12-22T20:59:02.1235861+00:00",
+  "LastChanged_Achievements": "2023-12-22T21:08:33.0251128+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:00.8013876+00:00",
-  "LastUpdate_Ratings": "2023-12-22T19:58:07.3078021+00:00",
-  "LastUpdate_Achievements": "2023-12-22T20:08:32.4505265+00:00"
+  "LastUpdate_Ratings": "2023-12-22T20:59:02.1235865+00:00",
+  "LastUpdate_Achievements": "2023-12-22T21:08:33.0251465+00:00"
 }

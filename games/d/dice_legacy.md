@@ -6,11 +6,11 @@ Rating: 4.29 (Ranked 857)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | We made it | 41.00% | ~512 |
-| The City | 11.00% | ~137 |
+| The City | 11.00% | ~138 |
 | Manipulating Fate | 10.00% | ~125 |
-| Full house | 7.00% | ~87 |
-| Burn and Pillage | 7.00% | ~87 |
-| Hear me out | 7.00% | ~87 |
+| Full house | 7.00% | ~88 |
+| Burn and Pillage | 7.00% | ~88 |
+| Hear me out | 7.00% | ~88 |
 | Listening to the crowd | 6.00% | ~75 |
 | The Penitent Ones | 5.00% | ~62 |
 | Greedy | 5.00% | ~62 |
@@ -21,7 +21,7 @@ Rating: 4.29 (Ranked 857)
 | Ascended | 4.00% | ~50 |
 | Incredible Strength | 4.00% | ~50 |
 | Prophecy Fulfilled | 4.00% | ~50 |
-| The Greedy Ones | 3.00% | ~37 |
+| The Greedy Ones | 3.00% | ~38 |
 | The First King | 2.00% | ~25 |
 | The great fire | 2.00% | ~25 |
 | The Unruly Ones | 2.00% | ~25 |
@@ -30,9 +30,9 @@ Rating: 4.29 (Ranked 857)
 | Like the dream | 1.00% | ~12 |
 | Metropolis | 0.90% | ~11 |
 | Charismatic Leader | 0.80% | ~10 |
-| The Great Winter | 0.60% | ~7 |
-| Red Tape | 0.60% | ~7 |
-| Knowledge is Power | 0.60% | ~7 |
+| The Great Winter | 0.60% | ~8 |
+| Red Tape | 0.60% | ~8 |
+| Knowledge is Power | 0.60% | ~8 |
 | Six Faces | 0.50% | ~6 |
 | It's spreading | 0.30% | ~4 |
 | The Flail | 0.30% | ~4 |
@@ -51,7 +51,7 @@ Rating: 4.29 (Ranked 857)
 | Fate is against us | 0.00% | ~0 |
 | Despite everything | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,249 (Ranked 265)  
+Progressed: 1,250 (Ranked 265)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-19 | 1,230 | 0 |
 | 2023-12-20 | 1,238 | 0 |
 | 2023-12-21 | 1,244 | 0 |
-| 2023-12-22 | 1,249 | 0 |
+| 2023-12-22 | 1,250 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

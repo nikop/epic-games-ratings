@@ -11,7 +11,7 @@ Number of Ratings: 892  (23.09.2022)
 | Super Spelunker | 135.00% | ~879 |
 | Greeno-B-Gone | 120.00% | ~781 |
 | The Little Wood that Could | 118.00% | ~768 |
-| Your Especially Earned Trajectory | 99.00% | ~644 |
+| Your Especially Earned Trajectory | 100.00% | ~651 |
 | On that Grindset | 90.00% | ~586 |
 | One of the Cool Kids | 83.00% | ~540 |
 | Officially Official | 82.00% | ~534 |
@@ -59,7 +59,7 @@ Number of Ratings: 892  (23.09.2022)
 | Pro Gamer | 33.00% | ~215 |
 | Do Your Part | 32.00% | ~208 |
 | Newton | 31.00% | ~202 |
-| Cardistry | 23.00% | ~150 |
+| Cardistry | 24.00% | ~156 |
 | Winner and Still Champeen | 23.00% | ~150 |
 | It's High Noon... | 16.00% | ~104 |
 | Strong Arms | 16.00% | ~104 |

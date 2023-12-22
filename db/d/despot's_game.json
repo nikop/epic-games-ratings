@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 390,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -634,9 +634,9 @@
       "ID": "fat-human",
       "SetID": "799afm0",
       "Name": "Fat of the Earth",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 164
+      "UsersEstimate": 168
     },
     {
       "ID": "finished-quest-cube",
@@ -818,9 +818,9 @@
       "ID": "win-second-biom",
       "SetID": "799afm0",
       "Name": "Through the Darkness",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 200
+      "UsersEstimate": 205
     },
     {
       "ID": "win-with-3-cultists",
@@ -851,8 +851,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-12-22T20:06:21.5970081+00:00",
+  "LastChanged_Achievements": "2023-12-22T21:07:27.4695806+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:10.0467066+00:00",
-  "LastUpdate_Ratings": "2023-12-22T19:58:40.635909+00:00",
-  "LastUpdate_Achievements": "2023-12-22T20:06:21.597028+00:00"
+  "LastUpdate_Ratings": "2023-12-22T20:59:47.4762558+00:00",
+  "LastUpdate_Achievements": "2023-12-22T21:07:27.4696047+00:00"
 }

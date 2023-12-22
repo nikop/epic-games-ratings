@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 240,
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
     "PcReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -1928,7 +1928,7 @@
   ],
   "EOS_Progressed": 651,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7618,9 +7618,9 @@
       "ID": "P_SAVESANDROCK",
       "SetID": "80dcan0",
       "Name": "Your Especially Earned Trajectory",
-      "Percentage": 99,
+      "Percentage": 100,
       "XP": 20,
-      "UsersEstimate": 644
+      "UsersEstimate": 651
     },
     {
       "ID": "P_SCHOOL",
@@ -7674,9 +7674,9 @@
       "ID": "S_CARD",
       "SetID": "80dcan0",
       "Name": "Cardistry",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 156
     },
     {
       "ID": "S_CHAT",
@@ -7874,8 +7874,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2023-12-22T17:57:11.129801+00:00",
-  "LastChanged_Achievements": "2023-12-22T20:04:58.3576714+00:00",
+  "LastChanged_Achievements": "2023-12-22T21:05:37.822252+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:20.3290168+00:00",
-  "LastUpdate_Ratings": "2023-12-22T19:56:56.349317+00:00",
-  "LastUpdate_Achievements": "2023-12-22T20:04:58.357729+00:00"
+  "LastUpdate_Ratings": "2023-12-22T20:57:17.6585102+00:00",
+  "LastUpdate_Achievements": "2023-12-22T21:05:37.8223082+00:00"
 }

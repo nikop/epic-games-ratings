@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 491,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
     "PcReleaseDate": "2014-02-25T05:00:00+00:00",
@@ -566,9 +566,9 @@
       "ID": "NEW_ACHIEVEMENT_1_30",
       "SetID": "ae95dh3",
       "Name": "Dirty Secrets",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_31",
@@ -677,8 +677,8 @@
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2023-12-22T20:03:40.6499504+00:00",
+  "LastChanged_Achievements": "2023-12-22T21:03:44.6724473+00:00",
   "LastUpdate_AppInfo": "2023-12-20T16:57:13.0376587+00:00",
-  "LastUpdate_Ratings": "2023-12-22T19:57:48.2538441+00:00",
-  "LastUpdate_Achievements": "2023-12-22T20:03:40.6499767+00:00"
+  "LastUpdate_Ratings": "2023-12-22T20:58:34.8197809+00:00",
+  "LastUpdate_Achievements": "2023-12-22T21:03:44.6724733+00:00"
 }

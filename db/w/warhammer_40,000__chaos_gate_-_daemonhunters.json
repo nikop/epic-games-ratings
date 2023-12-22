@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -795,9 +795,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3528,
+  "EOS_Progressed": 3530,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4675,6 +4675,11 @@
       "Time": "2023-12-22T19:04:19.5465287+00:00",
       "NumProgressed": 3528,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T21:03:43.9818823+00:00",
+      "NumProgressed": 3530,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4748,9 +4753,9 @@
       "ID": "CompletedAllShipUpgrades",
       "SetID": "3jha1np",
       "Name": "Patron of Deimos",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 32
+      "UsersEstimate": 28
     },
     {
       "ID": "Dominus",
@@ -5229,21 +5234,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3528,
+      "Progressed": 3530,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3528,
+      "Progressed": 3530,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-16T13:05:46.2808+00:00",
-  "LastChanged_Achievements": "2023-12-22T20:03:40.0765057+00:00",
+  "LastChanged_Achievements": "2023-12-22T21:03:43.9818819+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:54.7152084+00:00",
-  "LastUpdate_Ratings": "2023-12-22T20:02:56.2396523+00:00",
-  "LastUpdate_Achievements": "2023-12-22T20:03:40.0765691+00:00"
+  "LastUpdate_Ratings": "2023-12-22T21:02:43.3332765+00:00",
+  "LastUpdate_Achievements": "2023-12-22T21:03:43.9819663+00:00"
 }

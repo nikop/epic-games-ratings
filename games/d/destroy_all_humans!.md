@@ -6,31 +6,31 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kaijuiced | 68.00% | ~68 |
+| Kaijuiced | 69.00% | ~69 |
 | Lie Back and Think of Albion | 62.00% | ~62 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 59.00% | ~59 |
-| Shop Til They Drop | 58.00% | ~58 |
-| Yettisoned | 55.00% | ~55 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 60.00% | ~60 |
+| Shop Til They Drop | 59.00% | ~59 |
+| Yettisoned | 56.00% | ~56 |
 | I Look Up As I Walk to Takoshima | 54.00% | ~54 |
 | Lobster Blisque | 51.00% | ~51 |
 | Perfect Probulator | 49.00% | ~49 |
 | Fly Me to the Moon Base | 44.00% | ~44 |
 | Pimp My Raid | 42.00% | ~42 |
-| Earthly Pleasures | 40.00% | ~40 |
+| Earthly Pleasures | 41.00% | ~41 |
 | Ducks in a Row, Fish in a Barrel | 39.00% | ~39 |
 | Freshly Squeezed | 38.00% | ~38 |
-| Forbidden Donut | 31.00% | ~31 |
+| Forbidden Donut | 32.00% | ~32 |
 | Upgreatest | 31.00% | ~31 |
-| Bodied Sattva | 29.00% | ~29 |
-| Rock of the Bay | 27.00% | ~27 |
+| Bodied Sattva | 30.00% | ~30 |
+| Rock of the Bay | 28.00% | ~28 |
 | Furon Fashion | 24.00% | ~24 |
 | Trans-Siberian Express | 24.00% | ~24 |
 | Deincarnated | 23.00% | ~23 |
 | Re-Return of the Clone of the Invasion II-2 | 19.00% | ~19 |
 | Arkvoodle Doodle | 16.00% | ~16 |
 | Ouch of Body Experience | 14.00% | ~14 |
+| If You Know What I Mean | 14.00% | ~14 |
 | Dusted | 14.00% | ~14 |
-| If You Know What I Mean | 13.00% | ~13 |
 | Die Nasty | 11.00% | ~11 |
 | Hidden Human Hive Harvest | 11.00% | ~11 |
 | Mash Machine | 11.00% | ~11 |
@@ -58,8 +58,8 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-21 | 86 | 0 |
 | 2023-12-22 | 100 | 0 |
 ## Awards
-Max (Great Boss Battles): 34  (Ranked 491)  
-Sum: 34 (Ranked 515)  
+Max (Great Boss Battles): 34  (Ranked 492)  
+Sum: 34 (Ranked 516)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |

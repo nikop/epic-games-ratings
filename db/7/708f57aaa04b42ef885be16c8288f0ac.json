@@ -3,11 +3,11 @@
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
   "Ranking_Rating": 160,
-  "Ranking_Popularity": 540,
-  "Ranking_PopularitySum": 545,
+  "Ranking_Popularity": 536,
+  "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -273,23 +273,29 @@
       "Rating": 4.74,
       "NumberOfAwards": 24,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2023-12-22T21:02:09.6776522+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 25,
+      "NumberOfAwardsMax": 25
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 24,
-  "NumberOfAwardsMax": 24,
+  "NumberOfAwards": 25,
+  "NumberOfAwardsMax": 25,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 24
+      "Count": 25
     }
   ],
-  "EOS_Progressed": 11044,
+  "EOS_Progressed": 11045,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 2074,
+  "EOS_NewPlayers": 2055,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -7517,6 +7523,11 @@
       "Time": "2023-12-22T20:09:28.0011805+00:00",
       "NumProgressed": 11044,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-12-22T21:09:45.6359277+00:00",
+      "NumProgressed": 11045,
+      "NumCompleted": 19
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -7601,7 +7612,7 @@
       "Name": "First Time?",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 5080
+      "UsersEstimate": 5081
     },
     {
       "ID": "FuneralForTheDeath",
@@ -7745,7 +7756,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1877
+      "UsersEstimate": 1878
     },
     {
       "ID": "UnResurrected",
@@ -7800,16 +7811,16 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 11044,
+      "Progressed": 11045,
       "Completed": 19
     }
   ],
   "FirstSeen": "2023-10-26T15:59:55.7422761+00:00",
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged": "2023-12-20T14:59:47.3947105+00:00",
-  "LastChanged_Achievements": "2023-12-22T20:09:28.0011803+00:00",
+  "LastChanged": "2023-12-22T21:02:09.677652+00:00",
+  "LastChanged_Achievements": "2023-12-22T21:09:45.6359275+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.4547373+00:00",
-  "LastUpdate_Ratings": "2023-12-22T20:02:32.5067735+00:00",
-  "LastUpdate_Achievements": "2023-12-22T20:09:28.0012358+00:00"
+  "LastUpdate_Ratings": "2023-12-22T21:02:09.6776525+00:00",
+  "LastUpdate_Achievements": "2023-12-22T21:09:45.635981+00:00"
 }

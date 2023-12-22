@@ -7,9 +7,9 @@ Rating: 4.20 (Ranked 936)
 | ---- | ---------- | ----- |
 | Flesh Wound | 15.00% | ~2,797 |
 | The Outer Way | 15.00% | ~2,797 |
-| Get a Grip | 14.00% | ~2,610 |
-| Paper Jams | 14.00% | ~2,610 |
-| Desperate Times | 14.00% | ~2,610 |
+| Get a Grip | 14.00% | ~2,611 |
+| Paper Jams | 14.00% | ~2,611 |
+| Desperate Times | 14.00% | ~2,611 |
 | Chew 'Em Up | 12.00% | ~2,238 |
 | Float Like A Butterfly | 11.00% | ~2,051 |
 | Reforged | 11.00% | ~2,051 |
@@ -30,7 +30,7 @@ Rating: 4.20 (Ranked 936)
 | It's Time | 5.00% | ~329 |
 | The Commonality | 4.00% | ~746 |
 | In Striking Distance | 3.00% | ~559 |
-| One Last Job | 2.00% | ~131 |
+| One Last Job | 2.00% | ~132 |
 | Mugshot | 1.00% | ~186 |
 | Big Spender | 1.00% | ~66 |
 | This Isn't About Escape | 1.00% | ~66 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 936)
 | Bear Trap | 0.10% | ~7 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,646 (Ranked 151)  
+Progressed: 18,649 (Ranked 151)  
 Completed: 82 (0.44%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 82 (0.44%) (Ranked 223)
 | 2023-12-19 | 18,137 | 82 |
 | 2023-12-20 | 18,301 | 82 |
 | 2023-12-21 | 18,465 | 82 |
-| 2023-12-22 | 18,646 | 82 |
+| 2023-12-22 | 18,649 | 82 |
 ## Awards
 Max (Amazing Characters): 95  (Ranked 382)  
 Sum: 551 (Ranked 324)  

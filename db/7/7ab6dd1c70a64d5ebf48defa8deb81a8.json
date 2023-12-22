@@ -3,9 +3,9 @@
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 276,
-  "Ranking_EOS_Completed": 253,
+  "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1054,
+  "EOS_Progressed": 1057,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 579,
+  "EOS_NewPlayers": 578,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -2110,6 +2110,11 @@
       "Time": "2023-12-22T20:09:32.0088338+00:00",
       "NumProgressed": 1054,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-22T21:09:50.4737722+00:00",
+      "NumProgressed": 1057,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2121,7 +2126,7 @@
       "Name": "Break Out",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 548
+      "UsersEstimate": 550
     },
     {
       "ID": "ACH_02",
@@ -2193,7 +2198,7 @@
       "Name": "Trinity",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_11",
@@ -2233,7 +2238,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ACH_16",
@@ -2281,7 +2286,7 @@
       "Name": "Big Bazar",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH_22",
@@ -2297,7 +2302,7 @@
       "Name": "Geared Up",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "ACH_24",
@@ -2353,7 +2358,7 @@
       "Name": "Alchemist",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_31",
@@ -2408,14 +2413,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1054,
+      "Progressed": 1057,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-22T20:09:32.0088337+00:00",
+  "LastChanged_Achievements": "2023-12-22T21:09:50.473772+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
-  "LastUpdate_Ratings": "2023-12-22T19:58:20.4387412+00:00",
-  "LastUpdate_Achievements": "2023-12-22T20:09:32.008862+00:00"
+  "LastUpdate_Ratings": "2023-12-22T20:59:20.0981889+00:00",
+  "LastUpdate_Achievements": "2023-12-22T21:09:50.4737976+00:00"
 }

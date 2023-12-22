@@ -7,7 +7,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Spells and Swords | 5.00% | ~1,314 |
-| Captain and Crew | 4.00% | ~1,051 |
+| Captain and Crew | 4.00% | ~1,052 |
 | Harvest and Home | 3.00% | ~789 |
 | No Harm in Looking | 3.00% | ~789 |
 | Poise and Poisons | 2.00% | ~526 |
@@ -23,9 +23,9 @@ Number of Ratings: 1,331  (23.09.2022)
 | For Justice | 0.50% | ~131 |
 | Good Boy! | 0.50% | ~131 |
 | For Survival | 0.40% | ~105 |
-| For Love | 0.40% | ~105 |
 | Jack of all Trades | 0.40% | ~105 |
 | For Wrath | 0.30% | ~79 |
+| For Love | 0.30% | ~79 |
 | For Pride | 0.30% | ~79 |
 | K.O. | 0.30% | ~79 |
 | Just the Beginning | 0.30% | ~79 |
@@ -46,7 +46,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,285 (Ranked 140)  
+Progressed: 26,288 (Ranked 140)  
 Completed: 35 (0.13%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,17 +290,17 @@ Completed: 35 (0.13%) (Ranked 291)
 | 2023-12-19 | 25,732 | 35 |
 | 2023-12-20 | 25,943 | 35 |
 | 2023-12-21 | 26,118 | 35 |
-| 2023-12-22 | 26,285 | 35 |
+| 2023-12-22 | 26,288 | 35 |
 ## Awards
 Max (Extremely Fun): 224  (Ranked 284)  
-Sum: 1,705 (Ranked 225)  
+Sum: 1,706 (Ranked 225)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 224 |
 | This game has Quickly Understood Controls | 207 |
 | This game has Diverse Characters | 201 |
-| This game has Challenging Combat | 197 |
+| This game has Challenging Combat | 198 |
 | This game is Highly Recommended | 194 |
 | This game is Relaxing | 189 |
 | This game has Amazing Characters | 169 |
@@ -437,3 +437,4 @@ Diff (max vs sum): 59
 | 2023-11-23 | 4.85 | - | 223 | 1,703 |
 | 2023-12-07 | 4.85 | - | 223 | 1,704 |
 | 2023-12-21 | 4.85 | - | 224 | 1,705 |
+| 2023-12-22 | 4.85 | - | 224 | 1,706 |

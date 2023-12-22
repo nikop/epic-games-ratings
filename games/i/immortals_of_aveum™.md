@@ -1,35 +1,35 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.21 (Ranked 927)  
+Rating: 4.21 (Ranked 928)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~1,382 |
-| Battlefields Have Memories | 80.00% | ~1,271 |
-| Enlisted | 73.00% | ~1,160 |
-| Maybe Engage a Little | 67.00% | ~1,065 |
-| No More Names | 49.00% | ~779 |
-| Initiate | 33.00% | ~524 |
-| Thrada-Kul | 29.00% | ~461 |
-| Gravity-Challenged Rocks | 23.00% | ~365 |
+| Unforeseen | 87.00% | ~1,385 |
+| Battlefields Have Memories | 80.00% | ~1,274 |
+| Enlisted | 73.00% | ~1,162 |
+| Maybe Engage a Little | 67.00% | ~1,067 |
+| No More Names | 49.00% | ~780 |
+| Initiate | 33.00% | ~525 |
+| Thrada-Kul | 29.00% | ~462 |
+| Gravity-Challenged Rocks | 23.00% | ~366 |
 | Socialite | 22.00% | ~350 |
 | Soldier | 19.00% | ~302 |
 | All the Major Food Groups | 19.00% | ~302 |
-| Beggars Would Ride | 17.00% | ~270 |
-| Control is an Illusion | 16.00% | ~254 |
+| Beggars Would Ride | 17.00% | ~271 |
+| Control is an Illusion | 16.00% | ~255 |
 | The Means to Save It | 13.00% | ~207 |
 | Resilience to Sin | 11.00% | ~175 |
 | A Familiar Nest | 11.00% | ~175 |
-| Geas Aristeya | 10.00% | ~159 |
 | Periapt Alizarin | 10.00% | ~159 |
+| Geas Aristeya | 9.00% | ~143 |
 | A Perfect Cycle | 9.00% | ~143 |
 | Recruit | 8.00% | ~127 |
 | Armsman | 8.00% | ~127 |
-| Lights Army | 6.00% | ~95 |
-| Periapt Cerulean | 6.00% | ~95 |
-| Periapt Viridian | 5.00% | ~79 |
-| Good Boy | 5.00% | ~79 |
+| Lights Army | 6.00% | ~96 |
+| Periapt Cerulean | 6.00% | ~96 |
+| Periapt Viridian | 5.00% | ~80 |
+| Good Boy | 5.00% | ~80 |
 | Best Dressed | 4.00% | ~64 |
 | Shroudfane Explorer | 4.00% | ~64 |
 | Scholar | 3.00% | ~48 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 927)
 | Family Business | 0.20% | ~3 |
 | Fowl Play | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,589 (Ranked 249)  
+Progressed: 1,592 (Ranked 249)  
 Completed: 2 (0.13%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 2 (0.13%) (Ranked 291)
 | 2023-12-19 | 1,301 | 2 |
 | 2023-12-20 | 1,423 | 2 |
 | 2023-12-21 | 1,514 | 2 |
-| 2023-12-22 | 1,589 | 2 |
+| 2023-12-22 | 1,592 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

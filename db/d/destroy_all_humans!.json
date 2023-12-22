@@ -3,12 +3,12 @@
   "Name": "Destroy All Humans!",
   "ProductSlug": "destroy-all-humans",
   "Ranking_Rating": 353,
-  "Ranking_Popularity": 491,
-  "Ranking_PopularitySum": 515,
+  "Ranking_Popularity": 492,
+  "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 472,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -674,9 +674,9 @@
       "ID": "ACH_ABILITY_PKHUMANINTOHUMAN",
       "SetID": "cefn62b",
       "Name": "Yettisoned",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_ABILITY_PKHUMANINTOOCEAN",
@@ -690,9 +690,9 @@
       "ID": "ACH_ABILITY_PKTHROWANDCATCHHUMAN",
       "SetID": "cefn62b",
       "Name": "Forbidden Donut",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_ABILITY_SCANINHOLOBOB",
@@ -706,9 +706,9 @@
       "ID": "ACH_ABILITY_SMASHBUTTON",
       "SetID": "cefn62b",
       "Name": "Rock of the Bay",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_ABILITY_TRANSMOG",
@@ -762,9 +762,9 @@
       "ID": "ACH_CHALLENGE_RAMPAGETHREESTAR",
       "SetID": "cefn62b",
       "Name": "If You Know What I Mean",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_CHALLENGE_THREESTARSEVERYWHERE",
@@ -786,25 +786,25 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "cefn62b",
       "Name": "Earthly Pleasures",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_COLLECT_BRAINWHILEDAMAGED",
       "SetID": "cefn62b",
       "Name": "Kaijuiced",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_COLLECT_PROBE",
       "SetID": "cefn62b",
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH_COMBAT_EVADEBAZOOKA",
@@ -882,9 +882,9 @@
       "ID": "ACH_INVADE_TURNIPSEED",
       "SetID": "cefn62b",
       "Name": "Shop Til They Drop",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_INVADE_UNIONTOWN",
@@ -906,9 +906,9 @@
       "ID": "ACH_MENU_FURONIGAMI",
       "SetID": "cefn62b",
       "Name": "Bodied Sattva",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_OBJECTIVES_COMPLETEDALLOPTIONAL",
@@ -962,8 +962,8 @@
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2023-11-09T01:43:19.9714919+00:00",
-  "LastChanged_Achievements": "2023-12-22T20:05:39.1350771+00:00",
+  "LastChanged_Achievements": "2023-12-22T21:06:31.6176744+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:30.3369877+00:00",
-  "LastUpdate_Ratings": "2023-12-22T19:58:59.295336+00:00",
-  "LastUpdate_Achievements": "2023-12-22T20:05:39.1351064+00:00"
+  "LastUpdate_Ratings": "2023-12-22T21:00:14.7223607+00:00",
+  "LastUpdate_Achievements": "2023-12-22T21:06:31.6176961+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 814,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 565,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-27T06:00:00+00:00",
     "PcReleaseDate": null,
@@ -9725,10 +9725,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 12005,
       "NumberOfAwardsMax": 3196
+    },
+    {
+      "Time": "2023-12-22T20:58:46.5539299+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 12014,
+      "NumberOfAwardsMax": 3196
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12005,
+  "NumberOfAwards": 12014,
   "NumberOfAwardsMax": 3196,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9742,7 +9748,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2405
+      "Count": 2408
     },
     {
       "Text": "This game has Diverse Characters",
@@ -9808,13 +9814,13 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 623
+      "Count": 626
     },
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 778
+      "Count": 781
     }
   ],
   "EOS_Progressed": 0,
@@ -9829,8 +9835,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-27T11:30:26.4233372+00:00",
   "FirstSeenRating": "2022-10-28T11:32:15.7744841+00:00",
-  "LastChanged": "2023-12-22T19:57:56.7530077+00:00",
+  "LastChanged": "2023-12-22T20:58:46.5539297+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:50.0031913+00:00",
-  "LastUpdate_Ratings": "2023-12-22T19:57:56.7530089+00:00",
-  "LastUpdate_Achievements": "2023-12-22T20:05:03.7354862+00:00"
+  "LastUpdate_Ratings": "2023-12-22T20:58:46.5539302+00:00",
+  "LastUpdate_Achievements": "2023-12-22T21:05:44.993113+00:00"
 }

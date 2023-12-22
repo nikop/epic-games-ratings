@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 512,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
     "PcReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -571,9 +571,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 65,
+  "EOS_Progressed": 66,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -795,6 +795,11 @@
     {
       "Time": "2023-12-22T20:04:48.8393998+00:00",
       "NumProgressed": 65,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T21:05:14.9696239+00:00",
+      "NumProgressed": 66,
       "NumCompleted": 0
     }
   ],
@@ -1070,9 +1075,9 @@
       "ID": "FINDALLIES",
       "SetID": "a1angca",
       "Name": "Commander",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "FINDBILLY",
@@ -1207,15 +1212,15 @@
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 65,
+      "Progressed": 66,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2023-12-22T20:04:48.8393991+00:00",
+  "LastChanged_Achievements": "2023-12-22T21:05:14.9696234+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:52.2543669+00:00",
-  "LastUpdate_Ratings": "2023-12-22T19:57:44.2645512+00:00",
-  "LastUpdate_Achievements": "2023-12-22T20:04:48.8394358+00:00"
+  "LastUpdate_Ratings": "2023-12-22T20:58:29.8336417+00:00",
+  "LastUpdate_Achievements": "2023-12-22T21:05:14.9696519+00:00"
 }

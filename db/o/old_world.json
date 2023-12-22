@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2186,7 +2186,7 @@
   ],
   "EOS_Progressed": 15881,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19231,17 +19231,17 @@
       "ID": "ACHIEVEMENT_GREECE3_OLYMPICS",
       "SetID": "9201eeb",
       "Name": "The Olive Wreath",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_GREECE3_PAIONIA",
       "SetID": "9201eeb",
       "Name": "Those Were Mine",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_GREECE3_SPARTA",
@@ -21021,8 +21021,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-22T01:47:48.5403593+00:00",
-  "LastChanged_Achievements": "2023-12-22T20:09:25.0588501+00:00",
+  "LastChanged_Achievements": "2023-12-22T21:09:42.3483738+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:47.4773202+00:00",
-  "LastUpdate_Ratings": "2023-12-22T20:02:45.99621+00:00",
-  "LastUpdate_Achievements": "2023-12-22T20:09:25.0598161+00:00"
+  "LastUpdate_Ratings": "2023-12-22T21:02:28.3659766+00:00",
+  "LastUpdate_Achievements": "2023-12-22T21:09:42.3493121+00:00"
 }

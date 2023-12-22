@@ -8,8 +8,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | ---- | ---------- | ----- |
 | V for Vendetta | 12.00% | ~117,603 |
 | Gun Fu | 8.00% | ~78,402 |
-| The Fool | 7.00% | ~68,601 |
-| Right Back At Ya | 6.00% | ~58,801 |
+| The Fool | 7.00% | ~68,602 |
+| Right Back At Ya | 6.00% | ~58,802 |
 | Full Body Conversion | 5.00% | ~49,001 |
 | The Lovers | 5.00% | ~49,001 |
 | Christmas Tree Attack | 4.00% | ~39,201 |
@@ -24,14 +24,14 @@ Number of Ratings: 32,700  (23.09.2022)
 | The High Priestess | 3.00% | ~29,401 |
 | True Warrior | 3.00% | ~29,401 |
 | Legend of The Afterlife | 3.00% | ~29,401 |
-| Relic Ruler | 3.00% | ~3,259 |
-| Bushido and Chill | 2.00% | ~19,600 |
-| To Protect and Serve | 2.00% | ~19,600 |
-| Master Crafter | 2.00% | ~19,600 |
-| I Am The Law | 2.00% | ~19,600 |
-| The World | 2.00% | ~19,600 |
-| Two Heads, One Bullet | 2.00% | ~19,600 |
-| Judy vs Night City | 2.00% | ~19,600 |
+| Relic Ruler | 3.00% | ~3,260 |
+| Bushido and Chill | 2.00% | ~19,601 |
+| To Protect and Serve | 2.00% | ~19,601 |
+| Master Crafter | 2.00% | ~19,601 |
+| I Am The Law | 2.00% | ~19,601 |
+| The World | 2.00% | ~19,601 |
+| Two Heads, One Bullet | 2.00% | ~19,601 |
+| Judy vs Night City | 2.00% | ~19,601 |
 | Spin Doctor | 2.00% | ~2,173 |
 | The Wandering Fool | 1.00% | ~9,800 |
 | The Sun | 1.00% | ~9,800 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 980,021 (Ranked 16)  
+Progressed: 980,027 (Ranked 16)  
 Completed: 2,955 (0.30%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,10 +320,10 @@ Completed: 2,955 (0.30%) (Ranked 249)
 | 2023-12-19 | 978,882 | 2,944 |
 | 2023-12-20 | 979,279 | 2,948 |
 | 2023-12-21 | 979,668 | 2,950 |
-| 2023-12-22 | 980,021 | 2,955 |
+| 2023-12-22 | 980,027 | 2,955 |
 ## Awards
 Max (Character Customization): 126,294  (Ranked 8)  
-Sum: 437,177 (Ranked 9)  
+Sum: 437,314 (Ranked 9)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -335,8 +335,8 @@ Diff (max vs sum): -1
 | This game has Amazing Storytelling | 25,058 |
 | This game is Extremely Fun | 24,708 |
 | This game has Amazing Characters | 24,665 |
+| This game is Relaxing | 23,887 |
 | This game has Quickly Understood Controls | 23,769 |
-| This game is Relaxing | 23,750 |
 | This game has a Creative Community | 16,531 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -678,4 +678,4 @@ Diff (max vs sum): -1
 | 2023-12-19 | 4.66 | - | 125,194 | 431,324 |
 | 2023-12-20 | 4.66 | - | 125,560 | 433,348 |
 | 2023-12-21 | 4.66 | - | 125,917 | 435,336 |
-| 2023-12-22 | 4.66 | - | 126,294 | 437,177 |
+| 2023-12-22 | 4.66 | - | 126,294 | 437,314 |

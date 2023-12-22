@@ -26,30 +26,30 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 3.00% | ~3,875 |
 | FNG | 3.00% | ~3,875 |
 | Friends 'Til the End | 3.00% | ~121 |
-| Resurrection | 2.00% | ~2,583 |
-| Unleash Hell | 2.00% | ~2,583 |
-| Funny Guy | 2.00% | ~2,583 |
-| Long Live the King | 2.00% | ~2,583 |
-| Wyrdly Reconstructed | 2.00% | ~2,583 |
-| Boxcar Kid | 2.00% | ~2,583 |
-| Unfulfilled Desires | 2.00% | ~2,583 |
-| Predator | 2.00% | ~2,583 |
-| Dissector | 2.00% | ~2,583 |
-| Banishment | 2.00% | ~2,583 |
-| Deprogramming | 2.00% | ~2,583 |
-| Now Stay Dead | 2.00% | ~2,583 |
-| Reverse Banditry | 2.00% | ~2,583 |
-| It Happens | 2.00% | ~2,583 |
-| Spelunker | 2.00% | ~2,583 |
-| Merry Time | 2.00% | ~2,583 |
-| Harvest Festival | 2.00% | ~2,583 |
-| Ramble On | 2.00% | ~2,583 |
-| A Clear Conscience | 2.00% | ~2,583 |
-| Whale | 2.00% | ~2,583 |
-| A Place to Lay Your Head | 2.00% | ~2,583 |
-| Nope | 2.00% | ~2,583 |
-| Unshackled | 2.00% | ~2,583 |
-| Road Trip | 2.00% | ~2,583 |
+| Resurrection | 2.00% | ~2,584 |
+| Unleash Hell | 2.00% | ~2,584 |
+| Funny Guy | 2.00% | ~2,584 |
+| Long Live the King | 2.00% | ~2,584 |
+| Wyrdly Reconstructed | 2.00% | ~2,584 |
+| Boxcar Kid | 2.00% | ~2,584 |
+| Unfulfilled Desires | 2.00% | ~2,584 |
+| Predator | 2.00% | ~2,584 |
+| Dissector | 2.00% | ~2,584 |
+| Banishment | 2.00% | ~2,584 |
+| Deprogramming | 2.00% | ~2,584 |
+| Now Stay Dead | 2.00% | ~2,584 |
+| Reverse Banditry | 2.00% | ~2,584 |
+| It Happens | 2.00% | ~2,584 |
+| Spelunker | 2.00% | ~2,584 |
+| Merry Time | 2.00% | ~2,584 |
+| Harvest Festival | 2.00% | ~2,584 |
+| Ramble On | 2.00% | ~2,584 |
+| A Clear Conscience | 2.00% | ~2,584 |
+| Whale | 2.00% | ~2,584 |
+| A Place to Lay Your Head | 2.00% | ~2,584 |
+| Nope | 2.00% | ~2,584 |
+| Unshackled | 2.00% | ~2,584 |
+| Road Trip | 2.00% | ~2,584 |
 | This Looks Familiar | 1.00% | ~1,292 |
 | Hope Rekindled | 1.00% | ~1,292 |
 | Ichthyophobic | 1.00% | ~1,292 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,174 (Ranked 86)  
+Progressed: 129,179 (Ranked 86)  
 Completed: 3 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,22 +322,22 @@ Completed: 3 (0.00%) (Ranked 385)
 | 2023-12-19 | 128,605 | 3 |
 | 2023-12-20 | 128,785 | 3 |
 | 2023-12-21 | 128,979 | 3 |
-| 2023-12-22 | 129,174 | 3 |
+| 2023-12-22 | 129,179 | 3 |
 ## Awards
-Max (Character Customization): 7,823  (Ranked 50)  
-Sum: 20,925 (Ranked 58)  
+Max (Character Customization): 7,834  (Ranked 50)  
+Sum: 20,950 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,823 |
+| This game has Inclusive Character Customization | 7,834 |
 | This game has Diverse Characters | 1,754 |
-| This game has Challenging Combat | 1,619 |
+| This game has Challenging Combat | 1,625 |
 | This game is Highly Recommended | 1,557 |
 | This game is Extremely Fun | 1,481 |
 | This game has Amazing Characters | 1,481 |
 | This game has Unique Visuals | 1,406 |
 | This game has Amazing Storytelling | 1,401 |
-| This game has Quickly Understood Controls | 1,367 |
+| This game has Quickly Understood Controls | 1,375 |
 | This game has a Creative Community | 1,036 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
@@ -672,4 +672,4 @@ Diff (max vs sum): -8
 | 2023-12-19 | 4.68 | - | 7,795 | 20,806 |
 | 2023-12-20 | 4.68 | - | 7,805 | 20,840 |
 | 2023-12-21 | 4.68 | - | 7,823 | 20,903 |
-| 2023-12-22 | 4.68 | - | 7,823 | 20,925 |
+| 2023-12-22 | 4.68 | - | 7,834 | 20,950 |

@@ -3,12 +3,12 @@
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
   "Ranking_Rating": 646,
-  "Ranking_Popularity": 483,
+  "Ranking_Popularity": 484,
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -842,9 +842,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5740,
+  "EOS_Progressed": 5741,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -11612,6 +11612,11 @@
       "Time": "2023-12-22T20:04:54.3867171+00:00",
       "NumProgressed": 5740,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-22T21:05:32.3185293+00:00",
+      "NumProgressed": 5741,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -11672,7 +11677,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1493
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -11807,15 +11812,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5740,
+      "Progressed": 5741,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-17T11:57:49.7030504+00:00",
-  "LastChanged_Achievements": "2023-12-22T20:04:54.3867164+00:00",
+  "LastChanged_Achievements": "2023-12-22T21:05:32.318529+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:20.367807+00:00",
-  "LastUpdate_Ratings": "2023-12-22T20:00:00.3144581+00:00",
-  "LastUpdate_Achievements": "2023-12-22T20:04:54.3867846+00:00"
+  "LastUpdate_Ratings": "2023-12-22T21:01:39.4369849+00:00",
+  "LastUpdate_Achievements": "2023-12-22T21:05:32.3185833+00:00"
 }

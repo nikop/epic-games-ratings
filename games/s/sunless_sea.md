@@ -50,7 +50,7 @@ Number of Ratings: 401  (23.09.2022)
 | Leviathan | 0.80% | ~342 |
 | What lies beneath | 0.70% | ~299 |
 | Stone's Curse | 0.70% | ~299 |
-| Five Years at Zee | 0.50% | ~213 |
+| Five Years at Zee | 0.50% | ~214 |
 | The Lady's Parlour | 0.20% | ~85 |
 | A Past Wreathed in Shadows | 0.20% | ~85 |
 | Under pressure | 0.20% | ~85 |
@@ -61,8 +61,8 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~43 |
 | Ten Years at Zee | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,699 (Ranked 126)  
-Completed: 4 (0.01%) (Ranked 362)  
+Progressed: 42,700 (Ranked 126)  
+Completed: 4 (0.01%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -307,7 +307,7 @@ Completed: 4 (0.01%) (Ranked 362)
 | 2023-12-19 | 42,538 | 4 |
 | 2023-12-20 | 42,588 | 4 |
 | 2023-12-21 | 42,648 | 4 |
-| 2023-12-22 | 42,699 | 4 |
+| 2023-12-22 | 42,700 | 4 |
 ## Awards
 Max (Character Customization): 220  (Ranked 285)  
 Sum: 314 (Ranked 367)  

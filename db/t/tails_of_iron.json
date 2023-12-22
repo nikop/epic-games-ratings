@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -4245,9 +4245,9 @@
       "ID": "FixTheTravellersWagon",
       "SetID": "9lj35g4",
       "Name": "Fix the Travellers Wagon",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "GetRangedWeapon",
@@ -4277,9 +4277,9 @@
       "ID": "Kill25Frogs",
       "SetID": "9lj35g4",
       "Name": "Defeat 25 Frogs",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "Kill25Mozi",
@@ -4309,9 +4309,9 @@
       "ID": "RepairChef",
       "SetID": "9lj35g4",
       "Name": "Kitchen Ready To Cook",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "RepairSmith",
@@ -4412,8 +4412,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-12-21T19:58:12.3582087+00:00",
-  "LastChanged_Achievements": "2023-12-22T20:04:13.1476952+00:00",
+  "LastChanged_Achievements": "2023-12-22T21:04:28.0912066+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:33.7739845+00:00",
-  "LastUpdate_Ratings": "2023-12-22T19:58:09.4901651+00:00",
-  "LastUpdate_Achievements": "2023-12-22T20:04:13.1477368+00:00"
+  "LastUpdate_Ratings": "2023-12-22T20:59:05.6902221+00:00",
+  "LastUpdate_Achievements": "2023-12-22T21:04:28.0912487+00:00"
 }

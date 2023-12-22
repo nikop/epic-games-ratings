@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
     "PcReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -1526,9 +1526,9 @@
       "ID": "RISKYTEXT_ONE_WORD_GETS_VOTES_FROM_ALL_VOTING_PLAYERS",
       "SetID": "9j9h72e",
       "Name": "FixyText: Bestseller",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 58
     },
     {
       "ID": "RISKYTEXT_PLAY_ALL_CATEGORIES",
@@ -1621,8 +1621,8 @@
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-22T20:09:11.3589537+00:00",
+  "LastChanged_Achievements": "2023-12-22T21:09:24.3339755+00:00",
   "LastUpdate_AppInfo": "2023-12-16T01:42:15.0489028+00:00",
-  "LastUpdate_Ratings": "2023-12-22T19:57:02.4009698+00:00",
-  "LastUpdate_Achievements": "2023-12-22T20:09:11.3589704+00:00"
+  "LastUpdate_Ratings": "2023-12-22T20:57:26.5913858+00:00",
+  "LastUpdate_Achievements": "2023-12-22T21:09:24.3339963+00:00"
 }

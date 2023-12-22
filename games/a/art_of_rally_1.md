@@ -6,52 +6,52 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 79.00% | ~52,054 |
-| good drivers have dead flies on the side windows | 29.00% | ~19,108 |
-| keep it tidy | 27.00% | ~17,791 |
-| brail | 26.00% | ~17,132 |
-| podium | 22.00% | ~14,496 |
-| car wash | 21.00% | ~13,837 |
-| the artist | 20.00% | ~13,178 |
-| medium attack | 19.00% | ~12,519 |
-| grocery-getter | 7.00% | ~4,612 |
-| bicycle race | 6.00% | ~3,953 |
-| food tour: pasta | 5.00% | ~3,295 |
-| autopilot | 4.00% | ~2,636 |
-| rwd only | 4.00% | ~2,636 |
-| to finish first, first you must finish | 3.00% | ~1,977 |
-| perkele | 3.00% | ~1,977 |
-| turbo | 3.00% | ~1,977 |
-| night ride | 3.00% | ~1,977 |
-| you can't treat a car like a human being. a car requires love | 3.00% | ~1,977 |
-| food tour: pretzel | 3.00% | ~1,977 |
-| espresso | 2.00% | ~1,318 |
-| monster | 2.00% | ~1,318 |
-| parallel universe | 2.00% | ~1,318 |
-| where is the stage? | 2.00% | ~1,318 |
-| if in doubt, flat out! | 2.00% | ~1,318 |
-| maximum attack | 2.00% | ~1,318 |
-| snorkel | 2.00% | ~1,318 |
-| parking lot | 1.00% | ~659 |
-| eurobeat | 1.00% | ~659 |
-| viking | 1.00% | ~659 |
-| master of rally | 1.00% | ~659 |
-| antilag | 1.00% | ~659 |
-| in like a lamb, out like a lion | 1.00% | ~659 |
-| mittens | 1.00% | ~659 |
-| samir | 1.00% | ~659 |
-| oktoberfest | 0.90% | ~593 |
-| group b | 0.80% | ~527 |
-| comfy seats | 0.60% | ~395 |
-| simulator | 0.50% | ~329 |
-| real roads, real fast | 0.50% | ~329 |
-| if everything seems under control, you're not going fast enough | 0.10% | ~66 |
-| absolute drift | 0.10% | ~66 |
-| barely keeping it together | 0.10% | ~66 |
-| you're here for a good time, not a long time | 0.10% | ~66 |
+| light attack | 79.00% | ~57,683 |
+| good drivers have dead flies on the side windows | 28.00% | ~20,445 |
+| keep it tidy | 26.00% | ~18,984 |
+| brail | 26.00% | ~18,984 |
+| podium | 21.00% | ~15,334 |
+| car wash | 20.00% | ~14,603 |
+| the artist | 20.00% | ~14,603 |
+| medium attack | 18.00% | ~13,143 |
+| grocery-getter | 6.00% | ~4,381 |
+| bicycle race | 5.00% | ~3,651 |
+| rwd only | 4.00% | ~2,921 |
+| food tour: pasta | 4.00% | ~2,921 |
+| to finish first, first you must finish | 3.00% | ~2,191 |
+| autopilot | 3.00% | ~2,191 |
+| perkele | 3.00% | ~2,191 |
+| turbo | 3.00% | ~2,191 |
+| you can't treat a car like a human being. a car requires love | 3.00% | ~2,191 |
+| food tour: pretzel | 3.00% | ~2,191 |
+| espresso | 2.00% | ~1,460 |
+| monster | 2.00% | ~1,460 |
+| where is the stage? | 2.00% | ~1,460 |
+| if in doubt, flat out! | 2.00% | ~1,460 |
+| maximum attack | 2.00% | ~1,460 |
+| night ride | 2.00% | ~1,460 |
+| snorkel | 2.00% | ~1,460 |
+| eurobeat | 1.00% | ~730 |
+| viking | 1.00% | ~730 |
+| master of rally | 1.00% | ~730 |
+| antilag | 1.00% | ~730 |
+| parallel universe | 1.00% | ~730 |
+| in like a lamb, out like a lion | 1.00% | ~730 |
+| mittens | 1.00% | ~730 |
+| samir | 1.00% | ~730 |
+| parking lot | 0.90% | ~657 |
+| oktoberfest | 0.80% | ~584 |
+| group b | 0.80% | ~584 |
+| comfy seats | 0.50% | ~365 |
+| simulator | 0.50% | ~365 |
+| real roads, real fast | 0.40% | ~292 |
+| if everything seems under control, you're not going fast enough | 0.10% | ~73 |
+| absolute drift | 0.10% | ~73 |
+| barely keeping it together | 0.10% | ~73 |
+| you're here for a good time, not a long time | 0.10% | ~73 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,891 (Ranked 112)  
-Completed: 10 (0.02%) (Ranked 353)  
+Progressed: 73,017 (Ranked 105)  
+Completed: 10 (0.01%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -226,7 +226,7 @@ Completed: 10 (0.02%) (Ranked 353)
 | 2023-12-19 | 10,366 | 10 |
 | 2023-12-20 | 10,368 | 10 |
 | 2023-12-21 | 10,374 | 10 |
-| 2023-12-22 | 65,891 | 10 |
+| 2023-12-22 | 73,017 | 10 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -37,10 +37,10 @@ Number of Ratings: 371  (23.09.2022)
 | Long Distance Call | 1.00% | ~35 |
 | Tactical Flexibility | 1.00% | ~35 |
 | Tactical Sabotage | 1.00% | ~35 |
-| Patron of Deimos | 0.90% | ~32 |
 | Fleetmaster | 0.90% | ~32 |
 | For the Machine God | 0.90% | ~32 |
 | Death Comes For All | 0.90% | ~32 |
+| Patron of Deimos | 0.80% | ~28 |
 | Engine Kill | 0.80% | ~28 |
 | Hands-On Research | 0.70% | ~25 |
 | Harvest No More | 0.70% | ~25 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,528 (Ranked 215)  
+Progressed: 3,530 (Ranked 215)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-19 | 3,477 | 0 |
 | 2023-12-20 | 3,493 | 0 |
 | 2023-12-21 | 3,510 | 0 |
-| 2023-12-22 | 3,528 | 0 |
+| 2023-12-22 | 3,530 | 0 |
 ## Awards
 Max (Character Customization): 229  (Ranked 279)  
 Sum: 490 (Ranked 333)  

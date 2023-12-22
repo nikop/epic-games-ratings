@@ -16962,10 +16962,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 437177,
       "NumberOfAwardsMax": 126294
+    },
+    {
+      "Time": "2023-12-22T21:02:39.2631441+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 437314,
+      "NumberOfAwardsMax": 126294
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 437177,
+  "NumberOfAwards": 437314,
   "NumberOfAwardsMax": 126294,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -16991,7 +16997,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 23750
+      "Count": 23887
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -17042,9 +17048,9 @@
       "Count": 16531
     }
   ],
-  "EOS_Progressed": 980021,
+  "EOS_Progressed": 980027,
   "EOS_Completed": 2955,
-  "EOS_NewPlayers": 3459,
+  "EOS_NewPlayers": 3445,
   "EOS_NewCompleters": 42,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -45137,6 +45143,11 @@
       "Time": "2023-12-22T20:03:25.6132886+00:00",
       "NumProgressed": 980021,
       "NumCompleted": 2955
+    },
+    {
+      "Time": "2023-12-22T21:03:24.8595804+00:00",
+      "NumProgressed": 980027,
+      "NumCompleted": 2955
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -45165,7 +45176,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19600
+      "UsersEstimate": 19601
     },
     {
       "ID": "Cyberjunkie",
@@ -45181,7 +45192,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 58801
+      "UsersEstimate": 58802
     },
     {
       "ID": "FollowingTheRiver",
@@ -45189,7 +45200,7 @@
       "Name": "To Protect and Serve",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19600
+      "UsersEstimate": 19601
     },
     {
       "ID": "Fortuneteller",
@@ -45237,7 +45248,7 @@
       "Name": "Master Crafter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19600
+      "UsersEstimate": 19601
     },
     {
       "ID": "IAmMaxTac",
@@ -45245,7 +45256,7 @@
       "Name": "I Am The Law",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 19600
+      "UsersEstimate": 19601
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -45365,7 +45376,7 @@
       "Name": "The Fool",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 68601
+      "UsersEstimate": 68602
     },
     {
       "ID": "TheHermit",
@@ -45421,7 +45432,7 @@
       "Name": "The World",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 19600
+      "UsersEstimate": 19601
     },
     {
       "ID": "ThisIsPacifica",
@@ -45461,7 +45472,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19600
+      "UsersEstimate": 19601
     },
     {
       "ID": "UnderPressure",
@@ -45469,7 +45480,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19600
+      "UsersEstimate": 19601
     },
     {
       "ID": "VForVendetta",
@@ -45589,7 +45600,7 @@
       "Name": "Relic Ruler",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 3259
+      "UsersEstimate": 3260
     },
     {
       "ID": "UltimateSurvivor",
@@ -45684,21 +45695,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 980021,
+      "Progressed": 980027,
       "Completed": 2955
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 108644,
+      "Progressed": 108650,
       "Completed": 10437
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-12-22T19:03:17.158961+00:00",
-  "LastChanged_Achievements": "2023-12-22T20:03:25.6132881+00:00",
+  "LastChanged": "2023-12-22T21:02:39.263144+00:00",
+  "LastChanged_Achievements": "2023-12-22T21:03:24.8595802+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:11.4044836+00:00",
-  "LastUpdate_Ratings": "2023-12-22T20:02:53.3248876+00:00",
-  "LastUpdate_Achievements": "2023-12-22T20:03:25.6134807+00:00"
+  "LastUpdate_Ratings": "2023-12-22T21:02:39.2631449+00:00",
+  "LastUpdate_Achievements": "2023-12-22T21:03:24.8597443+00:00"
 }

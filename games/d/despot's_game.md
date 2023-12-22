@@ -9,11 +9,11 @@ Rating: 4.50 (Ranked 602)
 | Vanquisher of Robots | 77.00% | ~350 |
 | Party | 50.00% | ~228 |
 | Impossible Cube | 46.00% | ~209 |
+| Through the Darkness | 45.00% | ~205 |
 | Knowledge is Power | 44.00% | ~200 |
-| Through the Darkness | 44.00% | ~200 |
 | No Mercy | 43.00% | ~196 |
 | The Return of a Rat | 42.00% | ~191 |
-| Fat of the Earth | 36.00% | ~164 |
+| Fat of the Earth | 37.00% | ~168 |
 | Last Man Standing | 32.00% | ~146 |
 | He's Seen It All | 28.00% | ~127 |
 | Great Hero | 28.00% | ~127 |

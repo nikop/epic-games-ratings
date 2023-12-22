@@ -6,42 +6,42 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 9.00% | ~13,228 |
-| Titan's First Steps | 9.00% | ~13,228 |
+| Sponsored by Argon | 9.00% | ~13,229 |
+| Titan's First Steps | 9.00% | ~13,229 |
 | Basic in Bulk | 8.00% | ~11,759 |
 | Tinkle of Coins | 8.00% | ~11,759 |
 | Disintermediation | 6.00% | ~8,819 |
 | It's Free Real Estate | 6.00% | ~8,819 |
 | Capitalism Ho! | 6.00% | ~8,819 |
-| One Easy Payment | 5.00% | ~7,349 |
-| Some Assembly Required | 5.00% | ~7,349 |
-| Another Satisfied Customer | 5.00% | ~7,349 |
-| Pretty Penny | 5.00% | ~7,349 |
-| Budding Merchant | 5.00% | ~7,349 |
-| Own the Means of Production | 5.00% | ~7,349 |
-| The Daily Grind | 4.00% | ~5,879 |
-| Bounty Hunters | 4.00% | ~5,879 |
-| Where it Hurts | 4.00% | ~5,879 |
-| One-Armed Bandit | 4.00% | ~5,879 |
-| Dungeon Imports | 4.00% | ~5,879 |
-| Through Repetition, Perfection | 4.00% | ~5,879 |
-| On the Path to Greatness | 3.00% | ~4,409 |
-| Ascended | 3.00% | ~4,409 |
-| Research & Development | 3.00% | ~4,409 |
-| Vanity, Verily | 3.00% | ~4,409 |
-| Blank Page Syndrome | 3.00% | ~4,409 |
-| Demand for Supplies | 3.00% | ~4,409 |
-| Flooding the Market | 3.00% | ~4,409 |
-| Power of Love | 3.00% | ~4,409 |
-| Efficient Floor Space | 3.00% | ~4,409 |
-| Flawless Fusion | 3.00% | ~4,409 |
-| Gem Expert | 3.00% | ~4,409 |
-| Gild-Gotten Goods | 3.00% | ~4,409 |
-| Helping Hand | 3.00% | ~4,409 |
-| Accomplished Merchant | 3.00% | ~4,409 |
-| Natural 20 | 3.00% | ~4,409 |
-| Did we pack lunch? | 3.00% | ~4,409 |
-| Arcane Industries | 3.00% | ~4,409 |
+| One Easy Payment | 5.00% | ~7,350 |
+| Some Assembly Required | 5.00% | ~7,350 |
+| Another Satisfied Customer | 5.00% | ~7,350 |
+| Pretty Penny | 5.00% | ~7,350 |
+| Budding Merchant | 5.00% | ~7,350 |
+| Own the Means of Production | 5.00% | ~7,350 |
+| The Daily Grind | 4.00% | ~5,880 |
+| Bounty Hunters | 4.00% | ~5,880 |
+| Where it Hurts | 4.00% | ~5,880 |
+| One-Armed Bandit | 4.00% | ~5,880 |
+| Dungeon Imports | 4.00% | ~5,880 |
+| Through Repetition, Perfection | 4.00% | ~5,880 |
+| On the Path to Greatness | 3.00% | ~4,410 |
+| Ascended | 3.00% | ~4,410 |
+| Research & Development | 3.00% | ~4,410 |
+| Vanity, Verily | 3.00% | ~4,410 |
+| Blank Page Syndrome | 3.00% | ~4,410 |
+| Demand for Supplies | 3.00% | ~4,410 |
+| Flooding the Market | 3.00% | ~4,410 |
+| Power of Love | 3.00% | ~4,410 |
+| Efficient Floor Space | 3.00% | ~4,410 |
+| Flawless Fusion | 3.00% | ~4,410 |
+| Gem Expert | 3.00% | ~4,410 |
+| Gild-Gotten Goods | 3.00% | ~4,410 |
+| Helping Hand | 3.00% | ~4,410 |
+| Accomplished Merchant | 3.00% | ~4,410 |
+| Natural 20 | 3.00% | ~4,410 |
+| Did we pack lunch? | 3.00% | ~4,410 |
+| Arcane Industries | 3.00% | ~4,410 |
 | A Notch Above the Rest | 2.00% | ~2,940 |
 | Cream of the Crop | 2.00% | ~2,940 |
 | Top of the World | 2.00% | ~2,940 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~588 |
 | Capitalist Camaraderie | 0.20% | ~294 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 146,983 (Ranked 82)  
+Progressed: 146,990 (Ranked 82)  
 Completed: 330 (0.22%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -365,7 +365,7 @@ Completed: 330 (0.22%) (Ranked 267)
 | 2023-12-19 | 146,428 | 325 |
 | 2023-12-20 | 146,580 | 325 |
 | 2023-12-21 | 146,796 | 328 |
-| 2023-12-22 | 146,983 | 330 |
+| 2023-12-22 | 146,990 | 330 |
 ## Awards
 Max (Great for Beginners): 4,906  (Ranked 75)  
 Sum: 27,779 (Ranked 52)  

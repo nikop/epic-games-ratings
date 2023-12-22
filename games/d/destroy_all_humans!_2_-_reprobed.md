@@ -1,7 +1,7 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.53 (Ranked 552)  
+Rating: 4.53 (Ranked 553)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -22,7 +22,7 @@ Number of Ratings: 90  (23.09.2022)
 | Perfect Probulator | 15.00% | ~23 |
 | Die Nasty | 14.00% | ~22 |
 | Transmitting From Sol-3 | 10.00% | ~15 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 8.00% | ~12 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 9.00% | ~14 |
 | Dusted | 8.00% | ~12 |
 | Kaijuiced | 7.00% | ~11 |
 | Fly Me to the Moon Base | 6.00% | ~9 |
@@ -79,8 +79,8 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-21 | 147 | 0 |
 | 2023-12-22 | 154 | 0 |
 ## Awards
-Max (Great Boss Battles): 36  (Ranked 483)  
-Sum: 36 (Ranked 513)  
+Max (Great Boss Battles): 36  (Ranked 484)  
+Sum: 36 (Ranked 514)  
 Diff (max vs sum): -30  
 | Award | Count |
 | ----- | ----- |

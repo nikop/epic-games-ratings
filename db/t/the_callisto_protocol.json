@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1775,9 +1775,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 18646,
+  "EOS_Progressed": 18649,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1567,
+  "EOS_NewPlayers": 1557,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -10750,6 +10750,11 @@
       "Time": "2023-12-22T20:08:52.2455574+00:00",
       "NumProgressed": 18646,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-22T21:08:58.8486208+00:00",
+      "NumProgressed": 18649,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -10865,7 +10870,7 @@
       "Name": "Get a Grip",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2610
+      "UsersEstimate": 2611
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -10937,7 +10942,7 @@
       "Name": "Paper Jams",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2610
+      "UsersEstimate": 2611
     },
     {
       "ID": "SHARE_PHOTO",
@@ -10993,7 +10998,7 @@
       "Name": "Desperate Times",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2610
+      "UsersEstimate": 2611
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -11105,7 +11110,7 @@
       "Name": "One Last Job",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "KILL_BIOBOT",
@@ -11136,13 +11141,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 18646,
+      "Progressed": 18649,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 6572,
+      "Progressed": 6575,
       "Completed": 29
     }
   ],
@@ -11150,8 +11155,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-22T12:03:29.2787348+00:00",
-  "LastChanged_Achievements": "2023-12-22T20:08:52.245557+00:00",
+  "LastChanged_Achievements": "2023-12-22T21:08:58.8486206+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.4893565+00:00",
-  "LastUpdate_Ratings": "2023-12-22T20:02:59.6005514+00:00",
-  "LastUpdate_Achievements": "2023-12-22T20:08:52.245638+00:00"
+  "LastUpdate_Ratings": "2023-12-22T21:02:47.9125386+00:00",
+  "LastUpdate_Achievements": "2023-12-22T21:08:58.8487287+00:00"
 }
