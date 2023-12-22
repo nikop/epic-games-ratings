@@ -15,22 +15,22 @@ Rating: 4.55 (Ranked 510)
 | Defeat Croakhis Khan | 0.40% | ~4 |
 | Shield Maiden Yellow Tongue | 0.40% | ~4 |
 | I Remember My First Beer | 0.40% | ~4 |
+| Collect Gold | 0.30% | ~7 |
+| Collect Iron Ore | 0.30% | ~7 |
+| Collect Monster Parts | 0.30% | ~7 |
 | Return the Statues | 0.30% | ~7 |
 | Complete the Chefs Book | 0.30% | ~7 |
 | Defeat Ratnor Rodentson | 0.30% | ~7 |
 | Defeat Rattus Augustail | 0.30% | ~7 |
 | Ranged Weapon | 0.30% | ~7 |
+| Two Handed Weapon | 0.30% | ~7 |
+| Defeat 25 Grubs | 0.30% | ~7 |
 | Defeat 25 Frogs | 0.30% | ~7 |
-| Collect Gold | 0.20% | ~5 |
-| Collect Iron Ore | 0.20% | ~5 |
-| Collect Monster Parts | 0.20% | ~5 |
+| Defeat 25 Mozis | 0.30% | ~7 |
+| Smithy Ready to Craft | 0.30% | ~7 |
 | Complete Elder Faction | 0.20% | ~5 |
 | Complete Ranger Faction | 0.20% | ~5 |
-| Two Handed Weapon | 0.20% | ~5 |
-| Defeat 25 Grubs | 0.20% | ~5 |
-| Defeat 25 Mozis | 0.20% | ~5 |
 | Kitchen Ready To Cook | 0.20% | ~5 |
-| Smithy Ready to Craft | 0.20% | ~5 |
 | Rescue Redgi's Brothers | 0.20% | ~5 |
 | Defeat the Grub Buster | 0.20% | ~2 |
 | Defeat the Stalker Queen | 0.20% | ~2 |

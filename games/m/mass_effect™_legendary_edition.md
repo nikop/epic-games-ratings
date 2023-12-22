@@ -5,14 +5,14 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Distinguished Service Medal | 91.00% | ~2,452 |
-| Spectre Inductee | 68.00% | ~1,832 |
+| Spectre Inductee | 68.00% | ~1,833 |
 | Medal of Exploration I | 58.00% | ~1,563 |
-| Recruit | 52.00% | ~1,401 |
+| Recruit | 53.00% | ~1,428 |
 | Search and Rescue | 52.00% | ~1,401 |
 | Quarian Ally | 51.00% | ~1,374 |
-| Medal of Heroism | 45.00% | ~1,212 |
-| Honorarium of Corporate Service | 45.00% | ~1,212 |
-| Turian Ally | 42.00% | ~1,131 |
+| Medal of Heroism | 45.00% | ~1,213 |
+| Honorarium of Corporate Service | 45.00% | ~1,213 |
+| Turian Ally | 42.00% | ~1,132 |
 | Medal of Exploration II | 40.00% | ~1,078 |
 | Council Legion of Merit | 40.00% | ~1,078 |
 | Soldier Ally | 37.00% | ~997 |
@@ -31,12 +31,12 @@
 | Paramour I | 30.00% | ~808 |
 | Merciless | 30.00% | ~808 |
 | Scientist | 30.00% | ~808 |
-| Scholar | 29.00% | ~781 |
-| The Professor | 28.00% | ~754 |
-| Head Hunter | 28.00% | ~754 |
-| The Archangel | 27.00% | ~727 |
-| Operative | 27.00% | ~727 |
-| Power Full | 26.00% | ~700 |
+| Scholar | 29.00% | ~782 |
+| The Professor | 28.00% | ~755 |
+| Head Hunter | 28.00% | ~755 |
+| The Archangel | 27.00% | ~728 |
+| Operative | 27.00% | ~728 |
+| Power Full | 26.00% | ~701 |
 | Veteran | 25.00% | ~674 |
 | The Convict | 25.00% | ~674 |
 | Colony Defense | 24.00% | ~647 |
@@ -100,14 +100,14 @@
 | No One Left Behind | 13.00% | ~350 |
 | Executioner | 13.00% | ~350 |
 | Patriot | 13.00% | ~350 |
+| Legend | 13.00% | ~350 |
 | Master and Commander | 13.00% | ~350 |
 | Sabotage Specialist | 12.00% | ~323 |
 | Throw Mastery | 12.00% | ~323 |
-| Legend | 12.00% | ~323 |
 | Long Service Medal | 11.00% | ~296 |
 | Electronics Specialist | 11.00% | ~296 |
-| Mail Slot | 10.00% | ~269 |
-| Combined Arms | 9.00% | ~242 |
+| Mail Slot | 10.00% | ~270 |
+| Combined Arms | 9.00% | ~243 |
 | Bruiser | 8.00% | ~216 |
 | Warp Mastery | 8.00% | ~216 |
 | Barrier Mastery | 7.00% | ~189 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 1.00% | ~27 |
 | The One and Only | 0.70% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,694 (Ranked 223)  
+Progressed: 2,695 (Ranked 223)  
 Completed: 9 (0.33%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,4 +230,4 @@ Completed: 9 (0.33%) (Ranked 242)
 | 2023-12-19 | 2,442 | 8 |
 | 2023-12-20 | 2,559 | 9 |
 | 2023-12-21 | 2,663 | 9 |
-| 2023-12-22 | 2,694 | 9 |
+| 2023-12-22 | 2,695 | 9 |

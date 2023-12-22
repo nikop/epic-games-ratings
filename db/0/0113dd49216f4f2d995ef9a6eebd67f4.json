@@ -2,7 +2,7 @@
   "ID": "0113dd49216f4f2d995ef9a6eebd67f4",
   "Name": "Stray Gods: The Roleplaying Musical",
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
-  "Ranking_EOS_Progress": 425,
+  "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 284,
   "Ranking_EOS_NewCompleters": 160,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 153,
+  "EOS_Progressed": 154,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -689,6 +689,11 @@
       "Time": "2023-12-22T05:08:25.3244006+00:00",
       "NumProgressed": 153,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T09:09:02.3889636+00:00",
+      "NumProgressed": 154,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -725,7 +730,7 @@
       "Name": "All The Help You Need",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "SG_ARROWOFEROSUNDONE",
@@ -771,17 +776,17 @@
       "ID": "SG_ENDOFTHEROAD",
       "SetID": "bj5g0n4",
       "Name": "End Of The Road",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 114
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
       "SetID": "bj5g0n4",
       "Name": "Everything Has Changed",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "SG_FIERY",
@@ -813,7 +818,7 @@
       "Name": "Like Heroes Before You",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "SG_LOSTINASONG",
@@ -869,7 +874,7 @@
       "Name": "Queen Without A Throne",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "SG_SAYINGGOODBYE",
@@ -883,7 +888,7 @@
       "ID": "SG_SHARETHISDANCE",
       "SetID": "bj5g0n4",
       "Name": "Share This Dance",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -949,7 +954,7 @@
       "Name": "The Muse\u2019s Encore",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "SG_THEQUEENOFTHEDEAD",
@@ -963,9 +968,9 @@
       "ID": "SG_THEULTIMATESACRIFICE",
       "SetID": "bj5g0n4",
       "Name": "The Ultimate Sacrifice",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "SG_THISHELLISMINE",
@@ -996,14 +1001,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 153,
+      "Progressed": 154,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-12-22T08:08:33.4308929+00:00",
+  "LastChanged_Achievements": "2023-12-22T09:09:02.3889632+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:52.970167+00:00",
-  "LastUpdate_Ratings": "2023-12-22T07:57:25.6394986+00:00",
-  "LastUpdate_Achievements": "2023-12-22T08:08:33.4309231+00:00"
+  "LastUpdate_Ratings": "2023-12-22T08:57:56.5266616+00:00",
+  "LastUpdate_Achievements": "2023-12-22T09:09:02.3889947+00:00"
 }

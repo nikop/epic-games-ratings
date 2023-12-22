@@ -5,52 +5,52 @@ Rating: 4.73 (Ranked 175)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 7.00% | ~18,131 |
-| First of Many | 6.00% | ~15,541 |
-| Not Your Average Trait | 5.00% | ~12,950 |
-| Expanding Horizons | 4.00% | ~10,360 |
-| Quest for Survival | 4.00% | ~10,360 |
-| Gleaming the Cube | 3.00% | ~7,770 |
-| Not So Special Now | 3.00% | ~7,770 |
-| Not a Janitor | 3.00% | ~7,770 |
-| Familiar Face | 3.00% | ~7,770 |
-| Boss'n Up | 3.00% | ~7,770 |
-| Trait Chaser | 3.00% | ~7,770 |
-| Am I Seeing This? | 2.00% | ~5,180 |
-| Chaos | 2.00% | ~5,180 |
-| Traitor | 2.00% | ~5,180 |
-| Power Surge | 2.00% | ~5,180 |
-| The God Gambit | 2.00% | ~5,180 |
-| Dark Designs | 2.00% | ~5,180 |
-| Equal Measures | 2.00% | ~5,180 |
-| Blue Goddess | 2.00% | ~5,180 |
-| Duality | 2.00% | ~5,180 |
-| Top Performer | 2.00% | ~5,180 |
-| Shhh...It's a Secret | 2.00% | ~5,180 |
-| Was This Supposed To Happen? | 2.00% | ~5,180 |
-| The Web | 2.00% | ~5,180 |
-| Almost There | 2.00% | ~5,180 |
-| Make Some Room | 2.00% | ~5,180 |
-| Good, But Could Be Better! | 2.00% | ~5,180 |
-| Forever is a Long Time Coming | 1.00% | ~2,590 |
-| Madman's Paradise | 1.00% | ~2,590 |
-| The Agenda | 1.00% | ~2,590 |
-| Bad Moon Rising | 1.00% | ~2,590 |
-| Strapped | 1.00% | ~2,590 |
-| Edgelord | 1.00% | ~2,590 |
-| Scrap Collector | 1.00% | ~2,590 |
-| Scrap Hoarder | 1.00% | ~2,590 |
-| All These Traits� | 1.00% | ~2,590 |
-| Carnage in C-Minor | 1.00% | ~2,590 |
-| The Ultimate Weapon | 1.00% | ~2,590 |
-| Regicide | 1.00% | ~382 |
-| Master of the Dark Arts | 1.00% | ~382 |
-| Tall Tales | 0.90% | ~2,331 |
-| No One Should Have All That Power | 0.90% | ~2,331 |
-| Transmutate | 0.90% | ~2,331 |
-| Red Room | 0.80% | ~2,072 |
-| Only Human | 0.70% | ~1,813 |
-| Maxed Out! | 0.60% | ~1,554 |
+| The Killing Jar | 7.00% | ~18,136 |
+| First of Many | 6.00% | ~15,545 |
+| Not Your Average Trait | 5.00% | ~12,954 |
+| Expanding Horizons | 4.00% | ~10,363 |
+| Quest for Survival | 4.00% | ~10,363 |
+| Gleaming the Cube | 3.00% | ~7,773 |
+| Not So Special Now | 3.00% | ~7,773 |
+| Not a Janitor | 3.00% | ~7,773 |
+| Familiar Face | 3.00% | ~7,773 |
+| Boss'n Up | 3.00% | ~7,773 |
+| Trait Chaser | 3.00% | ~7,773 |
+| Am I Seeing This? | 2.00% | ~5,182 |
+| Chaos | 2.00% | ~5,182 |
+| Traitor | 2.00% | ~5,182 |
+| Power Surge | 2.00% | ~5,182 |
+| The God Gambit | 2.00% | ~5,182 |
+| Dark Designs | 2.00% | ~5,182 |
+| Equal Measures | 2.00% | ~5,182 |
+| Blue Goddess | 2.00% | ~5,182 |
+| Duality | 2.00% | ~5,182 |
+| Top Performer | 2.00% | ~5,182 |
+| Shhh...It's a Secret | 2.00% | ~5,182 |
+| Was This Supposed To Happen? | 2.00% | ~5,182 |
+| The Web | 2.00% | ~5,182 |
+| Almost There | 2.00% | ~5,182 |
+| Make Some Room | 2.00% | ~5,182 |
+| Good, But Could Be Better! | 2.00% | ~5,182 |
+| Forever is a Long Time Coming | 1.00% | ~2,591 |
+| Madman's Paradise | 1.00% | ~2,591 |
+| The Agenda | 1.00% | ~2,591 |
+| Bad Moon Rising | 1.00% | ~2,591 |
+| Strapped | 1.00% | ~2,591 |
+| Edgelord | 1.00% | ~2,591 |
+| Scrap Collector | 1.00% | ~2,591 |
+| Scrap Hoarder | 1.00% | ~2,591 |
+| All These Traits� | 1.00% | ~2,591 |
+| Carnage in C-Minor | 1.00% | ~2,591 |
+| The Ultimate Weapon | 1.00% | ~2,591 |
+| Regicide | 1.00% | ~383 |
+| Master of the Dark Arts | 1.00% | ~383 |
+| Tall Tales | 0.90% | ~2,332 |
+| No One Should Have All That Power | 0.90% | ~2,332 |
+| Transmutate | 0.90% | ~2,332 |
+| Red Room | 0.80% | ~2,073 |
+| Only Human | 0.70% | ~1,814 |
+| Maxed Out! | 0.60% | ~1,555 |
 | Crafty | 0.50% | ~1,295 |
 | Ghost in the Machine | 0.50% | ~1,295 |
 | The Trigger | 0.50% | ~1,295 |
@@ -59,9 +59,9 @@ Rating: 4.73 (Ranked 175)
 | Proving Grounds | 0.40% | ~1,036 |
 | Succession | 0.30% | ~115 |
 | You Shall Pass | 0.30% | ~115 |
-| A Foul Feast | 0.20% | ~76 |
+| A Foul Feast | 0.20% | ~77 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 259,010 (Ranked 61)  
+Progressed: 259,087 (Ranked 61)  
 Completed: 617 (0.24%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 617 (0.24%) (Ranked 260)
 | 2023-12-19 | 255,737 | 607 |
 | 2023-12-20 | 257,155 | 610 |
 | 2023-12-21 | 258,570 | 614 |
-| 2023-12-22 | 259,010 | 617 |
+| 2023-12-22 | 259,087 | 617 |
 ## Awards
 Max (Great Boss Battles): 3,397  (Ranked 96)  
 Sum: 7,949 (Ranked 112)  

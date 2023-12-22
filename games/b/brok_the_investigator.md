@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Introduction completed | 83.00% | ~24 |
-| Chapter 1 | 45.00% | ~13 |
+| Chapter 1 | 48.00% | ~14 |
 | Chapter 2 | 45.00% | ~13 |
 | Chapter 3 | 45.00% | ~13 |
 | Your Days Are Numbered | 41.00% | ~12 |

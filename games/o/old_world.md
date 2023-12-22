@@ -43,12 +43,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Silver Victory (Carthage 3) | 0.10% | ~16 |
 | Carthage - Seizing Destiny | 0.10% | ~16 |
 | Bronze Victory (Carthage 4) | 0.10% | ~16 |
+| Epic Victory (Carthage 4) | 0.10% | ~16 |
 | Gold Victory (Carthage 4) | 0.10% | ~16 |
 | Silver Victory (Carthage 4) | 0.10% | ~16 |
 | Carthage Campaign | 0.10% | ~16 |
 | Cleopatra's Love | 0.10% | ~16 |
 | Ambitious | 0.10% | ~16 |
 | Ancient | 0.10% | ~16 |
+| Avenger | 0.10% | ~16 |
 | Beloved | 0.10% | ~16 |
 | Drillmaster | 0.10% | ~16 |
 | Brilliant | 0.10% | ~16 |
@@ -78,6 +80,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Valiant | 0.10% | ~16 |
 | Victorious | 0.10% | ~16 |
 | Warrior | 0.10% | ~16 |
+| White Death | 0.10% | ~16 |
 | Wise | 0.10% | ~16 |
 | Developing Cities | 0.10% | ~16 |
 | Legendary Cities | 0.10% | ~16 |
@@ -142,6 +145,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt | 0.10% | ~16 |
 | Greece | 0.10% | ~16 |
 | Hatti | 0.10% | ~16 |
+| Persia | 0.10% | ~16 |
 | Rome | 0.10% | ~16 |
 | Old World Order | 0.10% | ~16 |
 | One True Faith | 0.10% | ~16 |
@@ -181,6 +185,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Veneration | 0.10% | ~16 |
 | Word of God | 0.10% | ~16 |
 | Trade Caravan | 0.10% | ~16 |
+| Cataphract Archer | 0.10% | ~16 |
 | Cimmerian Archer | 0.10% | ~16 |
 | Three Man Chariot | 0.10% | ~16 |
 | Kushite Cavalry | 0.10% | ~16 |
@@ -231,13 +236,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | United Against The Horde | 0.00% | ~0 |
 | Battle of Opis | 0.00% | ~0 |
 | Hagia Sophia in Byzantion | 0.00% | ~0 |
-| Epic Victory (Carthage 4) | 0.00% | ~0 |
-| Avenger | 0.00% | ~0 |
 | Destroyer | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
 | Rebuilder | 0.00% | ~0 |
 | Restorer | 0.00% | ~0 |
-| White Death | 0.00% | ~0 |
 | Council of Madness | 0.00% | ~0 |
 | Via Recta Souk in Damascus | 0.00% | ~0 |
 | Oracle in Delphi | 0.00% | ~0 |
@@ -294,7 +296,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Medo-Babylonian Conquest | 0.00% | ~0 |
 | Pyramids in Menefer | 0.00% | ~0 |
 | Merchants of the Levant | 0.00% | ~0 |
-| Persia | 0.00% | ~0 |
 | Apadana in Parsa | 0.00% | ~0 |
 | Play a Free-For-All Game (>2 Players) | 0.00% | ~0 |
 | Play a Hotseat Game | 0.00% | ~0 |
@@ -303,7 +304,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Punic Wars | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
 | Roman Papacy | 0.00% | ~0 |
-| Cataphract Archer | 0.00% | ~0 |
 | No Characters | 0.00% | ~0 |
 | One City Challenge | 0.00% | ~0 |
 | Time Victory | 0.00% | ~0 |

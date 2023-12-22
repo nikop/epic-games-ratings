@@ -6,23 +6,23 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~25,366 |
-| Exploitative | 4.00% | ~20,293 |
-| Point Shooting | 4.00% | ~20,293 |
-| Wet Feet | 4.00% | ~20,293 |
-| High Speed Low Drag | 3.00% | ~15,220 |
-| Lucky | 3.00% | ~15,220 |
-| Stylin' | 3.00% | ~15,220 |
-| Turf War | 3.00% | ~15,220 |
-| Banged | 2.00% | ~10,146 |
-| Checkpoint Victory | 2.00% | ~10,146 |
-| First Blood | 2.00% | ~10,146 |
-| Flaccid Paralysis | 2.00% | ~10,146 |
-| Push Victory | 2.00% | ~10,146 |
-| Self-destructive | 2.00% | ~10,146 |
-| Blindfire | 1.00% | ~5,073 |
-| Ruthless | 1.00% | ~5,073 |
-| Semper Paratus | 1.00% | ~5,073 |
+| Wallbanger | 5.00% | ~25,368 |
+| Exploitative | 4.00% | ~20,294 |
+| Point Shooting | 4.00% | ~20,294 |
+| Wet Feet | 4.00% | ~20,294 |
+| High Speed Low Drag | 3.00% | ~15,221 |
+| Lucky | 3.00% | ~15,221 |
+| Stylin' | 3.00% | ~15,221 |
+| Turf War | 3.00% | ~15,221 |
+| Banged | 2.00% | ~10,147 |
+| Checkpoint Victory | 2.00% | ~10,147 |
+| First Blood | 2.00% | ~10,147 |
+| Flaccid Paralysis | 2.00% | ~10,147 |
+| Push Victory | 2.00% | ~10,147 |
+| Self-destructive | 2.00% | ~10,147 |
+| Blindfire | 1.00% | ~5,074 |
+| Ruthless | 1.00% | ~5,074 |
+| Semper Paratus | 1.00% | ~5,074 |
 | Carrying | 0.90% | ~4,566 |
 | Efficient | 0.90% | ~4,566 |
 | Mount & Gun | 0.90% | ~4,566 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~507 |
 | Road Hazard | 0.10% | ~507 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 507,323 (Ranked 37)  
+Progressed: 507,352 (Ranked 37)  
 Completed: 2 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 2 (0.00%) (Ranked 384)
 | 2023-12-19 | 505,482 | 2 |
 | 2023-12-20 | 506,215 | 2 |
 | 2023-12-21 | 507,028 | 2 |
-| 2023-12-22 | 507,323 | 2 |
+| 2023-12-22 | 507,352 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 407  (Ranked 235)  
 Sum: 3,262 (Ranked 176)  

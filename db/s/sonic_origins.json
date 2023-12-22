@@ -2,12 +2,12 @@
   "ID": "78705aae6f39495e920966615c7a22ae",
   "Name": "Sonic Origins",
   "ProductSlug": "sonic-origins",
-  "Ranking_Rating": 443,
+  "Ranking_Rating": 442,
   "Ranking_Popularity": 337,
   "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 306,
-  "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_Completed": 59,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -3173,9 +3173,9 @@
       "ID": "ID_28_ART_MANIA",
       "SetID": "7o8nc5m",
       "Name": "Art Appreciator",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 92
+      "UsersEstimate": 98
     },
     {
       "ID": "ID_29_HERO_FOR_ALL",
@@ -3245,8 +3245,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-12-13T19:57:46.4026225+00:00",
-  "LastChanged_Achievements": "2023-12-22T08:09:40.9900847+00:00",
+  "LastChanged_Achievements": "2023-12-22T09:10:37.5216809+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:34.9486393+00:00",
-  "LastUpdate_Ratings": "2023-12-22T07:58:16.367029+00:00",
-  "LastUpdate_Achievements": "2023-12-22T08:09:40.9901182+00:00"
+  "LastUpdate_Ratings": "2023-12-22T08:59:13.7568551+00:00",
+  "LastUpdate_Achievements": "2023-12-22T09:10:37.5217178+00:00"
 }

@@ -6,8 +6,8 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 9.00% | ~353 |
-| Lost and Found | 6.00% | ~235 |
+| Malpractice Assurance | 9.00% | ~354 |
+| Lost and Found | 6.00% | ~236 |
 | This guy... again? | 5.00% | ~196 |
 | This Belongs in a Museum | 4.00% | ~5,162 |
 | Autodidact | 4.00% | ~5,162 |
@@ -58,7 +58,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Utopia | 1.00% | ~1,291 |
 | Hot Air | 1.00% | ~1,291 |
 | Eyes Up | 1.00% | ~1,291 |
-| This Looks Familiar | 0.90% | ~1,161 |
+| This Looks Familiar | 0.90% | ~1,162 |
 | Slap on the Wrist | 0.90% | ~35 |
 | For Old Time' Sake | 0.80% | ~31 |
 | Handled | 0.70% | ~903 |
@@ -67,8 +67,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Et Tu, Riposte? | 0.60% | ~24 |
 | Clearing the Ledger | 0.50% | ~645 |
 | Triage | 0.50% | ~645 |
+| No Mercy | 0.50% | ~20 |
 | Hat Trick | 0.40% | ~516 |
-| No Mercy | 0.40% | ~16 |
 | A Life Well Lived | 0.30% | ~387 |
 | The World As It Was | 0.30% | ~387 |
 | Bacon Bits | 0.30% | ~387 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,052 (Ranked 86)  
+Progressed: 129,059 (Ranked 86)  
 Completed: 3 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 3 (0.00%) (Ranked 384)
 | 2023-12-19 | 128,605 | 3 |
 | 2023-12-20 | 128,785 | 3 |
 | 2023-12-21 | 128,979 | 3 |
-| 2023-12-22 | 129,052 | 3 |
+| 2023-12-22 | 129,059 | 3 |
 ## Awards
 Max (Character Customization): 7,823  (Ranked 50)  
 Sum: 20,920 (Ranked 58)  

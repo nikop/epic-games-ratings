@@ -1769,9 +1769,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 18532,
+  "EOS_Progressed": 18534,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1617,
+  "EOS_NewPlayers": 1615,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -10684,6 +10684,11 @@
       "Time": "2023-12-22T08:09:03.0908086+00:00",
       "NumProgressed": 18532,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-22T09:09:44.272386+00:00",
+      "NumProgressed": 18534,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -10789,9 +10794,9 @@
       "ID": "FINISH_NEW_GAME_PLUS",
       "SetID": "6j5ggkc",
       "Name": "Parole Denied",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 45
     },
     {
       "ID": "GRP_25_ENEMIES",
@@ -10799,7 +10804,7 @@
       "Name": "Get a Grip",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2594
+      "UsersEstimate": 2595
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -10871,7 +10876,7 @@
       "Name": "Paper Jams",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2594
+      "UsersEstimate": 2595
     },
     {
       "ID": "SHARE_PHOTO",
@@ -11047,7 +11052,7 @@
       "Name": "Keep Fighting",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -11070,13 +11075,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 18532,
+      "Progressed": 18534,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 6458,
+      "Progressed": 6460,
       "Completed": 29
     }
   ],
@@ -11084,8 +11089,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-22T06:03:10.3384801+00:00",
-  "LastChanged_Achievements": "2023-12-22T08:09:03.0908083+00:00",
+  "LastChanged_Achievements": "2023-12-22T09:09:44.2723854+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.4893565+00:00",
-  "LastUpdate_Ratings": "2023-12-22T08:03:06.1171045+00:00",
-  "LastUpdate_Achievements": "2023-12-22T08:09:03.0908793+00:00"
+  "LastUpdate_Ratings": "2023-12-22T09:03:34.1980156+00:00",
+  "LastUpdate_Achievements": "2023-12-22T09:09:44.2724784+00:00"
 }

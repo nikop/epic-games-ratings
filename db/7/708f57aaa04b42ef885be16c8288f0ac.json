@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -287,9 +287,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 10959,
+  "EOS_Progressed": 10961,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 2316,
+  "EOS_NewPlayers": 2291,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -7457,6 +7457,11 @@
       "Time": "2023-12-22T08:09:38.0331409+00:00",
       "NumProgressed": 10959,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-12-22T09:10:33.6463871+00:00",
+      "NumProgressed": 10961,
+      "NumCompleted": 19
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -7477,7 +7482,7 @@
       "Name": "Baby Steps",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 3616
+      "UsersEstimate": 3617
     },
     {
       "ID": "BeLikeWater",
@@ -7541,7 +7546,7 @@
       "Name": "First Time?",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 5041
+      "UsersEstimate": 5042
     },
     {
       "ID": "FuneralForTheDeath",
@@ -7549,7 +7554,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "GarbageMan",
@@ -7685,7 +7690,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1753
+      "UsersEstimate": 1754
     },
     {
       "ID": "UnResurrected",
@@ -7701,7 +7706,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1753
+      "UsersEstimate": 1754
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -7709,7 +7714,7 @@
       "Name": "Digestive Issues",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -7740,7 +7745,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 10959,
+      "Progressed": 10961,
       "Completed": 19
     }
   ],
@@ -7748,8 +7753,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-20T14:59:47.3947105+00:00",
-  "LastChanged_Achievements": "2023-12-22T08:09:38.0331407+00:00",
+  "LastChanged_Achievements": "2023-12-22T09:10:33.6463867+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.4547373+00:00",
-  "LastUpdate_Ratings": "2023-12-22T08:00:17.8627722+00:00",
-  "LastUpdate_Achievements": "2023-12-22T08:09:38.0331942+00:00"
+  "LastUpdate_Ratings": "2023-12-22T09:02:22.099636+00:00",
+  "LastUpdate_Achievements": "2023-12-22T09:10:33.6464425+00:00"
 }

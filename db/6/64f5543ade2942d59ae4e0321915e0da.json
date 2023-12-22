@@ -921,9 +921,9 @@
       "ID": "AC_BOSS_00",
       "SetID": "16i2akc",
       "Name": "Hunger",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 110
     },
     {
       "ID": "AC_BOSS_01",
@@ -1192,8 +1192,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-22T08:03:32.2075896+00:00",
+  "LastChanged_Achievements": "2023-12-22T09:04:14.5238043+00:00",
   "LastUpdate_AppInfo": "2023-12-19T20:57:15.8211494+00:00",
-  "LastUpdate_Ratings": "2023-12-22T07:57:25.3678852+00:00",
-  "LastUpdate_Achievements": "2023-12-22T08:03:32.2076224+00:00"
+  "LastUpdate_Ratings": "2023-12-22T08:57:56.1542367+00:00",
+  "LastUpdate_Achievements": "2023-12-22T09:04:14.5238386+00:00"
 }

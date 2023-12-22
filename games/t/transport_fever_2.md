@@ -18,24 +18,24 @@ Number of Ratings: 180  (23.09.2022)
 | First industry upgraded | 54.00% | ~1,133 |
 | Transport millionaire | 53.00% | ~1,112 |
 | Cadet | 53.00% | ~1,112 |
-| Transport master | 50.00% | ~1,049 |
-| Cargo hub | 50.00% | ~1,049 |
-| Sculpturer | 48.00% | ~1,007 |
-| Settled down | 47.00% | ~986 |
-| First electric train arrived | 45.00% | ~944 |
-| First ship arrived | 44.00% | ~923 |
-| Now what? | 44.00% | ~923 |
-| Exemplary student | 42.00% | ~881 |
-| High speed | 41.00% | ~860 |
-| Transport shark | 39.00% | ~818 |
-| First aircraft arrived | 39.00% | ~818 |
-| Mass production | 34.00% | ~713 |
-| Aircraft entrepreneur | 32.00% | ~671 |
-| The future is now, old man | 30.00% | ~629 |
-| Crowd in a train | 29.00% | ~608 |
-| Not in my backyard | 29.00% | ~608 |
-| The king of the sea | 28.00% | ~587 |
-| City | 27.00% | ~566 |
+| Transport master | 50.00% | ~1,050 |
+| Cargo hub | 50.00% | ~1,050 |
+| Sculpturer | 48.00% | ~1,008 |
+| Settled down | 47.00% | ~987 |
+| First electric train arrived | 45.00% | ~945 |
+| First ship arrived | 44.00% | ~924 |
+| Now what? | 44.00% | ~924 |
+| Exemplary student | 42.00% | ~882 |
+| High speed | 40.00% | ~840 |
+| Transport shark | 39.00% | ~819 |
+| First aircraft arrived | 39.00% | ~819 |
+| Mass production | 34.00% | ~714 |
+| Aircraft entrepreneur | 32.00% | ~672 |
+| The future is now, old man | 30.00% | ~630 |
+| Crowd in a train | 29.00% | ~609 |
+| Not in my backyard | 29.00% | ~609 |
+| The king of the sea | 28.00% | ~588 |
+| City | 27.00% | ~567 |
 | Transport tycoon | 22.00% | ~462 |
 | The ugly smell of success | 22.00% | ~462 |
 | Climate change | 21.00% | ~441 |
@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.20% | ~4 |
 | Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,098 (Ranked 233)  
+Progressed: 2,099 (Ranked 233)  
 Completed: 1 (0.05%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 1 (0.05%) (Ranked 331)
 | 2023-12-19 | 2,065 | 1 |
 | 2023-12-20 | 2,080 | 1 |
 | 2023-12-21 | 2,096 | 1 |
-| 2023-12-22 | 2,098 | 1 |
+| 2023-12-22 | 2,099 | 1 |
 ## Awards
 Max (Great for Beginners): 48  (Ranked 449)  
 Sum: 325 (Ranked 364)  

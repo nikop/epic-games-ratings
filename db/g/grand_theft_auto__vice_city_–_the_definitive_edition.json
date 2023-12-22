@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 437,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -973,9 +973,9 @@
       "Count": 133
     }
   ],
-  "EOS_Progressed": 13349,
+  "EOS_Progressed": 13351,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 1547,
+  "EOS_NewPlayers": 1539,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -15353,6 +15353,11 @@
       "Time": "2023-12-22T08:09:13.1189518+00:00",
       "NumProgressed": 13349,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-12-22T09:09:58.1069405+00:00",
+      "NumProgressed": 13351,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 34,
@@ -15364,7 +15369,7 @@
       "Name": "Born in the 80\u2019s",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACH02",
@@ -15388,7 +15393,7 @@
       "Name": "Not my First Time",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "ACH05",
@@ -15404,7 +15409,7 @@
       "Name": "Point A to Point B",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "ACH07",
@@ -15412,7 +15417,7 @@
       "Name": "High Quality H2O",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "ACH08",
@@ -15428,7 +15433,7 @@
       "Name": "Bull in a China Shop",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "ACH10",
@@ -15444,7 +15449,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1468
+      "UsersEstimate": 1469
     },
     {
       "ID": "ACH12",
@@ -15460,7 +15465,7 @@
       "Name": "Somebody Call the Wambulance?",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "ACH14",
@@ -15476,7 +15481,7 @@
       "Name": "Just Like the Real Thing",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "ACH16",
@@ -15484,7 +15489,7 @@
       "Name": "Keepie-Uppy Okie Dokie",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACH17",
@@ -15492,7 +15497,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1201
+      "UsersEstimate": 1202
     },
     {
       "ID": "ACH18",
@@ -15500,7 +15505,7 @@
       "Name": "I\u0027m Famous!",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACH19",
@@ -15508,7 +15513,7 @@
       "Name": "Don\u0027t Need Roads",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "ACH20",
@@ -15516,7 +15521,7 @@
       "Name": "Daredevil",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACH21",
@@ -15538,9 +15543,9 @@
       "ID": "ACH23",
       "SetID": "9llo822",
       "Name": "South American Connection",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 3337
+      "UsersEstimate": 3471
     },
     {
       "ID": "ACH24",
@@ -15564,7 +15569,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2002
+      "UsersEstimate": 2003
     },
     {
       "ID": "ACH27",
@@ -15572,7 +15577,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "ACH28",
@@ -15635,7 +15640,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 13349,
+      "Progressed": 13351,
       "Completed": 73
     }
   ],
@@ -15643,8 +15648,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-12-21T18:58:29.9620707+00:00",
-  "LastChanged_Achievements": "2023-12-22T08:09:13.1189513+00:00",
+  "LastChanged_Achievements": "2023-12-22T09:09:58.1069401+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:04.8941276+00:00",
-  "LastUpdate_Ratings": "2023-12-22T07:58:31.9250637+00:00",
-  "LastUpdate_Achievements": "2023-12-22T08:09:13.1190407+00:00"
+  "LastUpdate_Ratings": "2023-12-22T08:59:36.7905585+00:00",
+  "LastUpdate_Achievements": "2023-12-22T09:09:58.1070305+00:00"
 }

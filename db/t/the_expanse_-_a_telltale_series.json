@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17057,
+  "EOS_Progressed": 17060,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 746,
+  "EOS_NewPlayers": 747,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -14720,6 +14720,11 @@
       "Time": "2023-12-22T08:05:18.895214+00:00",
       "NumProgressed": 17057,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-12-22T09:06:47.8960026+00:00",
+      "NumProgressed": 17060,
+      "NumCompleted": 46
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14788,7 +14793,7 @@
       "Name": "Drug Gifter",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1023
+      "UsersEstimate": 1024
     },
     {
       "ID": "17",
@@ -14852,7 +14857,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1023
+      "UsersEstimate": 1024
     },
     {
       "ID": "24",
@@ -15011,13 +15016,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17057,
+      "Progressed": 17060,
       "Completed": 46
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3011,
+      "Progressed": 3014,
       "Completed": 983
     }
   ],
@@ -15025,8 +15030,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-21T04:02:39.716899+00:00",
-  "LastChanged_Achievements": "2023-12-22T08:05:18.8952138+00:00",
+  "LastChanged_Achievements": "2023-12-22T09:06:47.8960021+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:40.0929133+00:00",
-  "LastUpdate_Ratings": "2023-12-22T07:57:11.4471031+00:00",
-  "LastUpdate_Achievements": "2023-12-22T08:05:18.8952815+00:00"
+  "LastUpdate_Ratings": "2023-12-22T08:57:34.1418096+00:00",
+  "LastUpdate_Achievements": "2023-12-22T09:06:47.8961065+00:00"
 }

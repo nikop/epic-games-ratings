@@ -6,28 +6,28 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 4.00% | ~44,415 |
-| Skillful | 4.00% | ~44,415 |
-| Zealous | 3.00% | ~33,311 |
-| Not half bad | 3.00% | ~33,311 |
-| Make Some Noise | 3.00% | ~33,311 |
-| The Grand Sacrifice | 2.00% | ~22,207 |
-| Agonizing Escape | 2.00% | ~22,207 |
-| Backdoor Escape | 2.00% | ~22,207 |
-| No one left behind | 2.00% | ~22,207 |
-| Medic | 2.00% | ~22,207 |
-| Handyman | 2.00% | ~22,207 |
-| Perfect Escape | 2.00% | ~22,207 |
-| Perfect Killing | 2.00% | ~22,207 |
-| Bloody Millionaire | 2.00% | ~22,207 |
-| Apt Survivor | 2.00% | ~22,207 |
-| Survival Treasures | 2.00% | ~22,207 |
-| I | 2.00% | ~22,207 |
-| Sorted | 2.00% | ~22,207 |
-| Healthy Obsession | 2.00% | ~22,207 |
-| Resurgence | 2.00% | ~22,207 |
-| Preemptive Strike | 2.00% | ~22,207 |
-| Humanitarian | 2.00% | ~22,207 |
+| It wakes | 4.00% | ~44,417 |
+| Skillful | 4.00% | ~44,417 |
+| Zealous | 3.00% | ~33,313 |
+| Not half bad | 3.00% | ~33,313 |
+| Make Some Noise | 3.00% | ~33,313 |
+| The Grand Sacrifice | 2.00% | ~22,208 |
+| Agonizing Escape | 2.00% | ~22,208 |
+| Backdoor Escape | 2.00% | ~22,208 |
+| No one left behind | 2.00% | ~22,208 |
+| Medic | 2.00% | ~22,208 |
+| Handyman | 2.00% | ~22,208 |
+| Perfect Escape | 2.00% | ~22,208 |
+| Perfect Killing | 2.00% | ~22,208 |
+| Bloody Millionaire | 2.00% | ~22,208 |
+| Apt Survivor | 2.00% | ~22,208 |
+| Survival Treasures | 2.00% | ~22,208 |
+| I | 2.00% | ~22,208 |
+| Sorted | 2.00% | ~22,208 |
+| Healthy Obsession | 2.00% | ~22,208 |
+| Resurgence | 2.00% | ~22,208 |
+| Preemptive Strike | 2.00% | ~22,208 |
+| Humanitarian | 2.00% | ~22,208 |
 | Escape Artist | 1.00% | ~11,104 |
 | I've got your back | 1.00% | ~11,104 |
 | Apt Killer | 1.00% | ~11,104 |
@@ -46,10 +46,10 @@ Number of Ratings: 70,340  (23.09.2022)
 | Lifting The Fog | 1.00% | ~11,104 |
 | Chorus of Chaos | 1.00% | ~11,104 |
 | Second Act | 1.00% | ~11,104 |
-| Blood on your hands | 0.90% | ~9,993 |
-| Unforgettable Getaway | 0.90% | ~9,993 |
-| Old West Oasis | 0.90% | ~9,993 |
-| Raccoon City Recruit | 0.90% | ~9,993 |
+| Blood on your hands | 0.90% | ~9,994 |
+| Unforgettable Getaway | 0.90% | ~9,994 |
+| Old West Oasis | 0.90% | ~9,994 |
+| Raccoon City Recruit | 0.90% | ~9,994 |
 | Made it out alive! | 0.80% | ~8,883 |
 | Gifts for the Fog | 0.80% | ~8,883 |
 | III-50 | 0.80% | ~8,883 |
@@ -72,16 +72,16 @@ Number of Ratings: 70,340  (23.09.2022)
 | A Fast Death | 0.70% | ~7,773 |
 | MU/TH/UR Dearest | 0.70% | ~7,773 |
 | Outta Nowhere | 0.70% | ~7,773 |
-| A bite for the Entity | 0.60% | ~6,662 |
-| Blood on your face | 0.60% | ~6,662 |
-| Leapfrog | 0.60% | ~6,662 |
-| Escaping the Nightmare | 0.60% | ~6,662 |
-| Devoted Gatekeeping | 0.60% | ~6,662 |
-| Shrine Apparatus | 0.60% | ~6,662 |
-| End of Days | 0.60% | ~6,662 |
-| Outrun the Overlap | 0.60% | ~6,662 |
-| Rebuilding The Borgo | 0.60% | ~6,662 |
-| Extraterrestrial | 0.60% | ~6,662 |
+| A bite for the Entity | 0.60% | ~6,663 |
+| Blood on your face | 0.60% | ~6,663 |
+| Leapfrog | 0.60% | ~6,663 |
+| Escaping the Nightmare | 0.60% | ~6,663 |
+| Devoted Gatekeeping | 0.60% | ~6,663 |
+| Shrine Apparatus | 0.60% | ~6,663 |
+| End of Days | 0.60% | ~6,663 |
+| Outrun the Overlap | 0.60% | ~6,663 |
+| Rebuilding The Borgo | 0.60% | ~6,663 |
+| Extraterrestrial | 0.60% | ~6,663 |
 | Jump Scares | 0.50% | ~5,552 |
 | Hemophobia | 0.50% | ~5,552 |
 | Serial Killer | 0.50% | ~5,552 |
@@ -91,16 +91,16 @@ Number of Ratings: 70,340  (23.09.2022)
 | Insult and Injury | 0.50% | ~5,552 |
 | High Speed Pursuit | 0.50% | ~5,552 |
 | Complete the Evolution | 0.50% | ~5,552 |
-| Blood in your mouth | 0.40% | ~4,441 |
-| Deep Cleansing | 0.40% | ~4,441 |
-| Texas BBQ | 0.40% | ~4,441 |
-| Party Crasher | 0.40% | ~4,441 |
-| Whiffing to Success | 0.40% | ~4,441 |
-| Outrage | 0.40% | ~4,441 |
-| Heavy Burden | 0.40% | ~4,441 |
-| I See You | 0.40% | ~4,441 |
-| Punch Drunk | 0.40% | ~4,441 |
-| Triage | 0.40% | ~4,441 |
+| Blood in your mouth | 0.40% | ~4,442 |
+| Deep Cleansing | 0.40% | ~4,442 |
+| Texas BBQ | 0.40% | ~4,442 |
+| Party Crasher | 0.40% | ~4,442 |
+| Whiffing to Success | 0.40% | ~4,442 |
+| Outrage | 0.40% | ~4,442 |
+| Heavy Burden | 0.40% | ~4,442 |
+| I See You | 0.40% | ~4,442 |
+| Punch Drunk | 0.40% | ~4,442 |
+| Triage | 0.40% | ~4,442 |
 | Looter | 0.30% | ~3,331 |
 | Death of Ignorance | 0.30% | ~3,331 |
 | Power Moves | 0.30% | ~3,331 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,110 |
 | Adept Good Guy | 0.10% | ~1,110 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,110,368 (Ranked 13)  
+Progressed: 1,110,417 (Ranked 13)  
 Completed: 64 (0.01%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -485,7 +485,7 @@ Completed: 64 (0.01%) (Ranked 361)
 | 2023-12-19 | 1,106,038 | 63 |
 | 2023-12-20 | 1,107,875 | 63 |
 | 2023-12-21 | 1,109,780 | 63 |
-| 2023-12-22 | 1,110,368 | 64 |
+| 2023-12-22 | 1,110,417 | 64 |
 ## Awards
 Max (Diverse Characters): 38,366  (Ranked 15)  
 Sum: 289,965 (Ranked 12)  

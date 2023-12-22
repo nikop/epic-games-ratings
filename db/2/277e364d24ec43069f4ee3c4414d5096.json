@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
@@ -365,9 +365,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 117407,
+  "EOS_Progressed": 117410,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 698,
+  "EOS_NewPlayers": 697,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -22155,6 +22155,11 @@
       "Time": "2023-12-22T08:09:36.5796805+00:00",
       "NumProgressed": 117407,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-12-22T09:10:31.6025615+00:00",
+      "NumProgressed": 117410,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 49,
@@ -22174,7 +22179,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 90403
+      "UsersEstimate": 90406
     },
     {
       "ID": "EAwards_10",
@@ -22190,7 +22195,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 31700
+      "UsersEstimate": 31701
     },
     {
       "ID": "EAwards_12",
@@ -22198,7 +22203,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17611
+      "UsersEstimate": 17612
     },
     {
       "ID": "EAwards_13",
@@ -22230,7 +22235,7 @@
       "Name": "PERFECT",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 8218
+      "UsersEstimate": 8219
     },
     {
       "ID": "EAwards_17",
@@ -22238,7 +22243,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 43441
+      "UsersEstimate": 43442
     },
     {
       "ID": "EAwards_18",
@@ -22254,7 +22259,7 @@
       "Name": "One Born Every Minute",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7044
+      "UsersEstimate": 7045
     },
     {
       "ID": "EAwards_2",
@@ -22262,7 +22267,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 57529
+      "UsersEstimate": 57531
     },
     {
       "ID": "EAwards_20",
@@ -22278,7 +22283,7 @@
       "Name": "Special Delivery!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 8218
+      "UsersEstimate": 8219
     },
     {
       "ID": "EAwards_22",
@@ -22286,7 +22291,7 @@
       "Name": "Combo Machine",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7044
+      "UsersEstimate": 7045
     },
     {
       "ID": "EAwards_23",
@@ -22302,7 +22307,7 @@
       "Name": "Temple Raider",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 8218
+      "UsersEstimate": 8219
     },
     {
       "ID": "EAwards_25",
@@ -22310,7 +22315,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 22307
+      "UsersEstimate": 22308
     },
     {
       "ID": "EAwards_26",
@@ -22350,7 +22355,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 23481
+      "UsersEstimate": 23482
     },
     {
       "ID": "EAwards_30",
@@ -22374,7 +22379,7 @@
       "Name": "El T\u00E9cnico T\u00E1ctico",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 8218
+      "UsersEstimate": 8219
     },
     {
       "ID": "EAwards_33",
@@ -22557,7 +22562,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 117407,
+      "Progressed": 117410,
       "Completed": 53
     }
   ],
@@ -22565,8 +22570,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-12-21T05:59:27.8580735+00:00",
-  "LastChanged_Achievements": "2023-12-22T08:09:36.5796802+00:00",
-  "LastUpdate_AppInfo": "2023-12-15T07:57:07.3909986+00:00",
-  "LastUpdate_Ratings": "2023-12-22T07:59:51.2218832+00:00",
-  "LastUpdate_Achievements": "2023-12-22T08:09:36.5797846+00:00"
+  "LastChanged_Achievements": "2023-12-22T09:10:31.602561+00:00",
+  "LastUpdate_AppInfo": "2023-12-22T08:57:08.9251827+00:00",
+  "LastUpdate_Ratings": "2023-12-22T09:01:41.2784271+00:00",
+  "LastUpdate_Achievements": "2023-12-22T09:10:31.6027338+00:00"
 }

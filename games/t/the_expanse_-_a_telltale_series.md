@@ -19,8 +19,8 @@ Rating: 4.54 (Ranked 533)
 | Call it Even | 7.00% | ~1,194 |
 | Safe Cracker | 7.00% | ~211 |
 | Madame Undersecretary | 7.00% | ~211 |
-| Drug Gifter | 6.00% | ~1,023 |
-| Heal Thy Medic | 6.00% | ~1,023 |
+| Drug Gifter | 6.00% | ~1,024 |
+| Heal Thy Medic | 6.00% | ~1,024 |
 | Keep Arjun in Check | 6.00% | ~181 |
 | Data Archivist | 5.00% | ~853 |
 | Thorston Mayer | 5.00% | ~853 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 533)
 | Scavenger Star | 0.20% | ~34 |
 | Data Collector | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,057 (Ranked 154)  
+Progressed: 17,060 (Ranked 154)  
 Completed: 46 (0.27%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 46 (0.27%) (Ranked 254)
 | 2023-12-19 | 16,865 | 45 |
 | 2023-12-20 | 16,946 | 46 |
 | 2023-12-21 | 17,033 | 46 |
-| 2023-12-22 | 17,057 | 46 |
+| 2023-12-22 | 17,060 | 46 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

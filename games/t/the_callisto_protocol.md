@@ -7,8 +7,8 @@ Rating: 4.20 (Ranked 934)
 | ---- | ---------- | ----- |
 | Flesh Wound | 15.00% | ~2,780 |
 | The Outer Way | 15.00% | ~2,780 |
-| Get a Grip | 14.00% | ~2,594 |
-| Paper Jams | 14.00% | ~2,594 |
+| Get a Grip | 14.00% | ~2,595 |
+| Paper Jams | 14.00% | ~2,595 |
 | Desperate Times | 13.00% | ~2,409 |
 | Chew 'Em Up | 11.00% | ~2,039 |
 | Float Like A Butterfly | 11.00% | ~2,039 |
@@ -24,7 +24,7 @@ Rating: 4.20 (Ranked 934)
 | Terminated | 6.00% | ~1,112 |
 | What Lies Beneath | 6.00% | ~1,112 |
 | Full Circle | 6.00% | ~1,112 |
-| Keep Fighting | 6.00% | ~387 |
+| Keep Fighting | 6.00% | ~388 |
 | Giving Back | 5.00% | ~927 |
 | I Do Belong Here | 5.00% | ~927 |
 | It's Time | 5.00% | ~323 |
@@ -36,9 +36,9 @@ Rating: 4.20 (Ranked 934)
 | This Isn't About Escape | 1.00% | ~65 |
 | Armed to the Teeth | 0.90% | ~58 |
 | Grim Reaper | 0.80% | ~148 |
-| Parole Denied | 0.80% | ~52 |
 | Instigator | 0.80% | ~52 |
 | Information Overload | 0.80% | ~52 |
+| Parole Denied | 0.70% | ~45 |
 | Quick Pick | 0.60% | ~39 |
 | Subject Alpha | 0.40% | ~26 |
 | Don't Let It Mellow | 0.30% | ~19 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 934)
 | Bear Trap | 0.10% | ~6 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,532 (Ranked 149)  
+Progressed: 18,534 (Ranked 149)  
 Completed: 82 (0.44%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 82 (0.44%) (Ranked 225)
 | 2023-12-19 | 18,137 | 82 |
 | 2023-12-20 | 18,301 | 82 |
 | 2023-12-21 | 18,465 | 82 |
-| 2023-12-22 | 18,532 | 82 |
+| 2023-12-22 | 18,534 | 82 |
 ## Awards
 Max (Quickly Understood Controls): 91  (Ranked 385)  
 Sum: 542 (Ranked 326)  

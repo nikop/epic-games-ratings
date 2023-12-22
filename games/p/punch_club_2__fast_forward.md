@@ -8,11 +8,11 @@
 | Your first fight | 85.00% | ~377 |
 | First winning | 83.00% | ~369 |
 | Good Person Chip | 83.00% | ~369 |
-| Your first job | 81.00% | ~360 |
+| Your first job | 82.00% | ~364 |
 | Old movies enjoyer | 76.00% | ~337 |
 | Depressed visitor | 76.00% | ~337 |
+| Neurotrainer – power gainer! | 76.00% | ~337 |
 | Fitness professional | 75.00% | ~333 |
-| Neurotrainer – power gainer! | 75.00% | ~333 |
 | Employee of the week | 75.00% | ~333 |
 | Your own amateur gym | 70.00% | ~311 |
 | First defeat | 69.00% | ~306 |
@@ -40,7 +40,7 @@
 | Fight is life | 43.00% | ~191 |
 | Mysterious voice | 42.00% | ~186 |
 | Guiding on the right path | 42.00% | ~186 |
-| No blades in the gym | 40.00% | ~178 |
+| No blades in the gym | 41.00% | ~182 |
 | Champion – no way back | 39.00% | ~173 |
 | Underground dwellers | 38.00% | ~169 |
 | Responsible approach | 38.00% | ~169 |

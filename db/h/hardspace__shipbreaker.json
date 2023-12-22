@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -303,9 +303,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1001,
+  "EOS_Progressed": 1002,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2163,6 +2163,11 @@
       "Time": "2023-12-21T14:09:07.4497638+00:00",
       "NumProgressed": 1001,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T09:09:42.3118377+00:00",
+      "NumProgressed": 1002,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -2174,7 +2179,7 @@
       "Name": "Act I Complete",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ACH_ACT_2_COMPLETE",
@@ -2198,7 +2203,7 @@
       "Name": "Always Finding Your Mark",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "ACH_A_DROP_IN_THE_OCEAN",
@@ -2206,7 +2211,7 @@
       "Name": "A drop in the Ocean",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "ACH_A_SUCCESSFUL_PROCEDURE",
@@ -2270,7 +2275,7 @@
       "Name": "Critical Thinker",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "ACH_DISAGREE_AND_COMMIT",
@@ -2342,15 +2347,15 @@
       "Name": "No Ni\u00F1os",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ACH_POST_NO_BILLS",
       "SetID": "108h92c",
       "Name": "Post No Bills",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 551
+      "UsersEstimate": 541
     },
     {
       "ID": "ACH_SEE_YOU_SPACE_COWBOY",
@@ -2374,7 +2379,7 @@
       "Name": "The Weight of the World",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "ACH_TRUELY_SHOCKING",
@@ -2382,14 +2387,14 @@
       "Name": "Truly Shocking!",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     }
   ],
   "AchievementSets": [
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 1001,
+      "Progressed": 1002,
       "Completed": 0
     }
   ],
@@ -2397,8 +2402,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-11-20T03:58:42.1118377+00:00",
-  "LastChanged_Achievements": "2023-12-22T08:09:01.7658159+00:00",
+  "LastChanged_Achievements": "2023-12-22T09:09:42.3118373+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:08.6185668+00:00",
-  "LastUpdate_Ratings": "2023-12-22T07:57:09.762106+00:00",
-  "LastUpdate_Achievements": "2023-12-22T08:09:01.7658339+00:00"
+  "LastUpdate_Ratings": "2023-12-22T08:57:31.6252322+00:00",
+  "LastUpdate_Achievements": "2023-12-22T09:09:42.3118621+00:00"
 }

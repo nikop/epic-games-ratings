@@ -1,7 +1,7 @@
 # Salt and Sacrifice
 [Store](https://store.epicgames.com/en-US/p/salt-and-sacrifice)  
 [View Rawdata](../../db/s/salt_and_sacrifice.json)  
-Rating: 4.31 (Ranked 846)  
+Rating: 4.31 (Ranked 847)  
 Number of Ratings: 2,205  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -20,7 +20,7 @@ Number of Ratings: 2,205  (23.09.2022)
 | Dawnlight Order | 64.00% | ~43,456 |
 | The Electromancer | 61.00% | ~41,419 |
 | The Terramancer | 59.00% | ~40,061 |
-| The Exalted | 56.00% | ~38,024 |
+| The Exalted | 57.00% | ~38,703 |
 | Sheriff Inquisitors | 55.00% | ~37,345 |
 | Blueheart Runners | 54.00% | ~36,666 |
 | The Necromancer | 52.00% | ~35,308 |
@@ -61,7 +61,7 @@ Number of Ratings: 2,205  (23.09.2022)
 | Top Shelf | 5.00% | ~3,395 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 67,900 (Ranked 109)  
-Completed: 1,279 (1.88%) (Ranked 137)  
+Completed: 1,280 (1.89%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -306,10 +306,10 @@ Completed: 1,279 (1.88%) (Ranked 137)
 | 2023-12-19 | 67,860 | 1,278 |
 | 2023-12-20 | 67,878 | 1,278 |
 | 2023-12-21 | 67,894 | 1,279 |
-| 2023-12-22 | 67,900 | 1,279 |
+| 2023-12-22 | 67,900 | 1,280 |
 ## Awards
 Max (Character Customization): 992  (Ranked 158)  
-Sum: 1,998 (Ranked 217)  
+Sum: 2,000 (Ranked 217)  
 Diff (max vs sum): -59  
 | Award | Count |
 | ----- | ----- |
@@ -317,8 +317,8 @@ Diff (max vs sum): -59
 | This game has Great Boss Battles | 571 |
 | This game is Extremely Fun | 71 |
 | This game has Challenging Combat | 68 |
-| This game has Diverse Characters | 62 |
-| This game has Unique Visuals | 62 |
+| This game has Diverse Characters | 63 |
+| This game has Unique Visuals | 63 |
 | This game is Highly Recommended | 59 |
 | This game has Quickly Understood Controls | 57 |
 | This game has Amazing Storytelling | 56 |
@@ -501,3 +501,4 @@ Diff (max vs sum): -59
 | 2023-12-07 | 4.31 | - | 992 | 1,996 |
 | 2023-12-09 | 4.31 | - | 992 | 1,997 |
 | 2023-12-13 | 4.31 | - | 992 | 1,998 |
+| 2023-12-22 | 4.31 | - | 992 | 2,000 |

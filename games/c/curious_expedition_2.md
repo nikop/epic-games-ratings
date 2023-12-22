@@ -25,7 +25,7 @@ Number of Ratings: 20  (23.09.2022)
 | Nahua Seeker | 24.00% | ~89 |
 | Roll to Save | 23.00% | ~85 |
 | Veteran Explorer | 22.00% | ~82 |
-| Red Flag Pirate | 19.00% | ~70 |
+| Red Flag Pirate | 20.00% | ~74 |
 | Iron Man | 17.00% | ~63 |
 | A Gentle Beast | 17.00% | ~63 |
 | For the Club! | 16.00% | ~59 |

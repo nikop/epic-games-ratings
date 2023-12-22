@@ -265,9 +265,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1541,
+  "EOS_Progressed": 1544,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 955,
+  "EOS_NewPlayers": 952,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2710,6 +2710,11 @@
       "Time": "2023-12-22T08:09:23.0766237+00:00",
       "NumProgressed": 1541,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-22T09:10:12.6039562+00:00",
+      "NumProgressed": 1544,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -2722,7 +2727,7 @@
       "Name": "Unforeseen",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 1341
+      "UsersEstimate": 1343
     },
     {
       "ID": "achievement_10",
@@ -2738,7 +2743,7 @@
       "Name": "The Means to Save It",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "achievement_12",
@@ -2770,7 +2775,7 @@
       "Name": "A Perfect Cycle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "achievement_16",
@@ -2778,7 +2783,7 @@
       "Name": "Recruit",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "achievement_17",
@@ -2786,7 +2791,7 @@
       "Name": "Lights Army",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "achievement_18",
@@ -2802,7 +2807,7 @@
       "Name": "Socialite",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "achievement_2",
@@ -2810,7 +2815,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1233
+      "UsersEstimate": 1235
     },
     {
       "ID": "achievement_20",
@@ -2866,7 +2871,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1034
     },
     {
       "ID": "achievement_36",
@@ -2874,7 +2879,7 @@
       "Name": "Armsman",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "achievement_37",
@@ -2898,7 +2903,7 @@
       "Name": "No More Names",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "achievement_41",
@@ -2954,7 +2959,7 @@
       "Name": "Enlisted",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1112
     },
     {
       "ID": "achievement_49",
@@ -2970,15 +2975,15 @@
       "Name": "Initiate",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "achievement_50",
       "SetID": "18al4io",
       "Name": "Veteran",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 15
+      "UsersEstimate": 31
     },
     {
       "ID": "achievement_54",
@@ -3018,7 +3023,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "achievement_60",
@@ -3074,7 +3079,7 @@
       "Name": "Gravity-Challenged Rocks",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "achievement_8",
@@ -3097,7 +3102,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 1541,
+      "Progressed": 1544,
       "Completed": 2
     }
   ],
@@ -3105,8 +3110,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-12-22T07:00:02.0554889+00:00",
-  "LastChanged_Achievements": "2023-12-22T08:09:23.0766234+00:00",
+  "LastChanged_Achievements": "2023-12-22T09:10:12.6039558+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:30.3074422+00:00",
-  "LastUpdate_Ratings": "2023-12-22T08:00:07.040908+00:00",
-  "LastUpdate_Achievements": "2023-12-22T08:09:23.0766626+00:00"
+  "LastUpdate_Ratings": "2023-12-22T09:02:05.4891966+00:00",
+  "LastUpdate_Achievements": "2023-12-22T09:10:12.6040012+00:00"
 }

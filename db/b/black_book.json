@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2021-08-10T17:00:00+00:00",
     "PcReleaseDate": "2021-08-10T17:00:00+00:00",
@@ -675,9 +675,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 61553,
+  "EOS_Progressed": 61558,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 1486,
+  "EOS_NewPlayers": 1485,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -14120,6 +14120,11 @@
       "Time": "2023-12-22T08:04:41.1890901+00:00",
       "NumProgressed": 61553,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-12-22T09:05:53.4143037+00:00",
+      "NumProgressed": 61558,
+      "NumCompleted": 62
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -14156,7 +14161,7 @@
       "Name": "Aspen Tree",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 8617
+      "UsersEstimate": 8618
     },
     {
       "ID": "BAD_END",
@@ -14188,7 +14193,7 @@
       "Name": "Card Player",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4924
+      "UsersEstimate": 4925
     },
     {
       "ID": "CHEATER",
@@ -14244,7 +14249,7 @@
       "Name": "Student",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 13542
+      "UsersEstimate": 13543
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -14308,7 +14313,7 @@
       "Name": "Healer",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 8617
+      "UsersEstimate": 8618
     },
     {
       "ID": "HERBS_2",
@@ -14316,7 +14321,7 @@
       "Name": "Herbalist",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6155
+      "UsersEstimate": 6156
     },
     {
       "ID": "HERBS_3",
@@ -14330,9 +14335,9 @@
       "ID": "INITIATION",
       "SetID": "bijn3c8",
       "Name": "Initiation",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 17850
+      "UsersEstimate": 17236
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -14348,7 +14353,7 @@
       "Name": "Dead Friend",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4924
+      "UsersEstimate": 4925
     },
     {
       "ID": "MERMAID_NOT_FREE",
@@ -14380,7 +14385,7 @@
       "Name": "Soldier",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7386
+      "UsersEstimate": 7387
     },
     {
       "ID": "NORMAL_END",
@@ -14412,7 +14417,7 @@
       "Name": "Pine Tree",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4924
+      "UsersEstimate": 4925
     },
     {
       "ID": "PROSHKA_LOYAL",
@@ -14452,7 +14457,7 @@
       "Name": "Listener",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 9233
+      "UsersEstimate": 9234
     },
     {
       "ID": "TALES_2",
@@ -14484,7 +14489,7 @@
       "Name": "Water",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6155
+      "UsersEstimate": 6156
     },
     {
       "ID": "WOLF",
@@ -14508,7 +14513,7 @@
       "Name": "Knower",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 9848
+      "UsersEstimate": 9849
     },
     {
       "ID": "ZNATKOST_2",
@@ -14531,15 +14536,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 61553,
+      "Progressed": 61558,
       "Completed": 62
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-12-20T11:59:57.3935397+00:00",
-  "LastChanged_Achievements": "2023-12-22T08:04:41.1890898+00:00",
+  "LastChanged_Achievements": "2023-12-22T09:05:53.4143033+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:15.0116795+00:00",
-  "LastUpdate_Ratings": "2023-12-22T07:59:51.1094774+00:00",
-  "LastUpdate_Achievements": "2023-12-22T08:04:41.1891649+00:00"
+  "LastUpdate_Ratings": "2023-12-22T09:01:41.0960426+00:00",
+  "LastUpdate_Achievements": "2023-12-22T09:05:53.4144134+00:00"
 }

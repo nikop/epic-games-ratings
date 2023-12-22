@@ -10,10 +10,10 @@
 | A Taste of Wrath | 18.00% | ~184 |
 | I Found It | 18.00% | ~184 |
 | The Collector | 18.00% | ~184 |
-| Adventurer | 16.00% | ~163 |
-| Shatter Them All | 16.00% | ~163 |
-| Geared Up | 16.00% | ~163 |
-| Scholar | 16.00% | ~163 |
+| Geared Up | 17.00% | ~174 |
+| Adventurer | 16.00% | ~164 |
+| Shatter Them All | 16.00% | ~164 |
+| Scholar | 16.00% | ~164 |
 | Tributes of Caladrias | 15.00% | ~153 |
 | Powerful Allies | 14.00% | ~143 |
 | Fashion Victim | 14.00% | ~143 |
@@ -41,7 +41,7 @@
 | All That Gold | 0.60% | ~6 |
 | Feeling Fancy | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,021 (Ranked 278)  
+Progressed: 1,022 (Ranked 278)  
 Completed: 3 (0.29%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,4 +112,4 @@ Completed: 3 (0.29%) (Ranked 252)
 | 2023-12-19 | 881 | 3 |
 | 2023-12-20 | 928 | 3 |
 | 2023-12-21 | 998 | 3 |
-| 2023-12-22 | 1,021 | 3 |
+| 2023-12-22 | 1,022 | 3 |

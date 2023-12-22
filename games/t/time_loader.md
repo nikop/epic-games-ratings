@@ -35,7 +35,7 @@
 | Secret ending | 8.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 133 (Ranked 440)  
-Completed: 9 (6.77%) (Ranked 60)  
+Completed: 9 (6.77%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

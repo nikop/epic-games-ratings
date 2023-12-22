@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 449,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -567,9 +567,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5959,
+  "EOS_Progressed": 5963,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 297,
+  "EOS_NewPlayers": 301,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8747,6 +8747,11 @@
       "Time": "2023-12-22T08:05:44.071193+00:00",
       "NumProgressed": 5959,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-22T09:07:23.8537611+00:00",
+      "NumProgressed": 5963,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -8774,7 +8779,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "12",
@@ -8798,7 +8803,7 @@
       "Name": "Full Ascension",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "15",
@@ -8950,7 +8955,7 @@
       "Name": "Magical Synergy",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "32",
@@ -8966,7 +8971,7 @@
       "Name": "Seat of Power",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "34",
@@ -9237,13 +9242,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5959,
+      "Progressed": 5963,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5959,
+      "Progressed": 5963,
       "Completed": 7
     }
   ],
@@ -9251,8 +9256,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-20T07:59:25.4319145+00:00",
-  "LastChanged_Achievements": "2023-12-22T08:05:44.0711927+00:00",
+  "LastChanged_Achievements": "2023-12-22T09:07:23.8537608+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.6868317+00:00",
-  "LastUpdate_Ratings": "2023-12-22T07:57:28.6194393+00:00",
-  "LastUpdate_Achievements": "2023-12-22T08:05:44.0712614+00:00"
+  "LastUpdate_Ratings": "2023-12-22T08:58:01.0336737+00:00",
+  "LastUpdate_Achievements": "2023-12-22T09:07:23.8538446+00:00"
 }

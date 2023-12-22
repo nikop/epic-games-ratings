@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1021,
+  "EOS_Progressed": 1022,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 604,
+  "EOS_NewPlayers": 602,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -2055,6 +2055,11 @@
       "Time": "2023-12-22T08:09:41.8384758+00:00",
       "NumProgressed": 1021,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-22T09:10:38.5694594+00:00",
+      "NumProgressed": 1022,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2162,7 +2167,7 @@
       "Name": "Adventurer",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ACH_14",
@@ -2202,7 +2207,7 @@
       "Name": "Shatter Them All",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ACH_19",
@@ -2240,9 +2245,9 @@
       "ID": "ACH_23",
       "SetID": "efe2lj",
       "Name": "Geared Up",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 163
+      "UsersEstimate": 174
     },
     {
       "ID": "ACH_24",
@@ -2266,7 +2271,7 @@
       "Name": "Scholar",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ACH_27",
@@ -2353,14 +2358,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1021,
+      "Progressed": 1022,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-22T08:09:41.8384756+00:00",
+  "LastChanged_Achievements": "2023-12-22T09:10:38.5694589+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
-  "LastUpdate_Ratings": "2023-12-22T07:58:13.3297899+00:00",
-  "LastUpdate_Achievements": "2023-12-22T08:09:41.838505+00:00"
+  "LastUpdate_Ratings": "2023-12-22T08:59:09.1810483+00:00",
+  "LastUpdate_Achievements": "2023-12-22T09:10:38.5694879+00:00"
 }

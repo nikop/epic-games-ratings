@@ -687,9 +687,9 @@
       "ID": "ach-find-treasure",
       "SetID": "17ih7ma",
       "Name": "Red Flag Pirate",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 74
     },
     {
       "ID": "ach-find-treasure-high",
@@ -968,8 +968,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-12-22T08:09:44.8926794+00:00",
+  "LastChanged_Achievements": "2023-12-22T09:10:42.5700234+00:00",
   "LastUpdate_AppInfo": "2023-12-16T13:57:07.0437312+00:00",
-  "LastUpdate_Ratings": "2023-12-22T07:57:08.9999167+00:00",
-  "LastUpdate_Achievements": "2023-12-22T08:09:44.8927264+00:00"
+  "LastUpdate_Ratings": "2023-12-22T08:57:30.3890464+00:00",
+  "LastUpdate_Achievements": "2023-12-22T09:10:42.5700713+00:00"
 }

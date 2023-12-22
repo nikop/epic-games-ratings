@@ -5,43 +5,43 @@ Rating: 4.52 (Ranked 566)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 78.00% | ~3,712 |
-| Keep 'Em Coming | 67.00% | ~3,189 |
-| Snatched Out | 67.00% | ~3,189 |
-| Cleaning Lethe, One Nest At A Time | 60.00% | ~2,855 |
-| Call Me Snake | 56.00% | ~2,665 |
-| Something Lurks Under The Hills | 55.00% | ~2,617 |
-| This Was No Papercut | 53.00% | ~2,522 |
-| The Shrink Hates Me | 51.00% | ~2,427 |
-| People Person | 50.00% | ~2,380 |
-| Use The Bumper, That's What It's For | 47.00% | ~2,237 |
-| First Steps Into Madness | 47.00% | ~2,237 |
-| Colonial Barrels | 45.00% | ~2,142 |
-| Harper's Hell | 40.00% | ~1,904 |
-| Making a Stand | 39.00% | ~1,856 |
-| Damn Dude, You Gotta Lose Some Weight! | 37.00% | ~1,761 |
-| Where It All Begun | 35.00% | ~1,666 |
-| Recouped Investment | 33.00% | ~1,570 |
-| The More The Merrier | 30.00% | ~1,428 |
-| Living Nightmare | 29.00% | ~1,380 |
+| This Is Hayes, Pioneer Station, Signing Off | 78.00% | ~3,714 |
+| Keep 'Em Coming | 67.00% | ~3,191 |
+| Snatched Out | 67.00% | ~3,191 |
+| Cleaning Lethe, One Nest At A Time | 60.00% | ~2,857 |
+| Call Me Snake | 56.00% | ~2,667 |
+| Something Lurks Under The Hills | 55.00% | ~2,619 |
+| This Was No Papercut | 53.00% | ~2,524 |
+| The Shrink Hates Me | 51.00% | ~2,429 |
+| People Person | 50.00% | ~2,381 |
+| Use The Bumper, That's What It's For | 47.00% | ~2,238 |
+| First Steps Into Madness | 47.00% | ~2,238 |
+| Colonial Barrels | 45.00% | ~2,143 |
+| Harper's Hell | 40.00% | ~1,905 |
+| Making a Stand | 39.00% | ~1,857 |
+| Damn Dude, You Gotta Lose Some Weight! | 37.00% | ~1,762 |
+| Where It All Begun | 35.00% | ~1,667 |
+| Recouped Investment | 33.00% | ~1,571 |
+| The More The Merrier | 30.00% | ~1,429 |
+| Living Nightmare | 29.00% | ~1,381 |
 | Omelette Du Fromage | 28.00% | ~1,333 |
-| The Darwin Era Was Here | 26.00% | ~1,237 |
+| The Darwin Era Was Here | 26.00% | ~1,238 |
 | Deep Into Insanity | 25.00% | ~1,190 |
-| The Passenger | 24.00% | ~1,142 |
+| The Passenger | 24.00% | ~1,143 |
 | Come on, You Wanna Live Forever? | 23.00% | ~1,095 |
-| The Spire | 22.00% | ~1,047 |
-| El Riesgo Siempre Vive | 21.00% | ~999 |
+| The Spire | 22.00% | ~1,048 |
+| El Riesgo Siempre Vive | 21.00% | ~1,000 |
 | Stuff Of Nightmares | 20.00% | ~952 |
 | Excavating The Truth | 20.00% | ~952 |
-| Abysmal Horrors | 19.00% | ~904 |
+| Abysmal Horrors | 19.00% | ~905 |
 | One For Every Occasion | 18.00% | ~857 |
 | Frontliner | 18.00% | ~857 |
 | The Cable Guy | 18.00% | ~857 |
-| Bandage Lover | 17.00% | ~809 |
-| Regicide | 14.00% | ~666 |
+| Bandage Lover | 17.00% | ~810 |
+| Regicide | 14.00% | ~667 |
 | This Went Smoothly | 12.00% | ~571 |
-| Flawless Victory | 11.00% | ~523 |
-| Heavy Steps | 11.00% | ~523 |
+| Flawless Victory | 11.00% | ~524 |
+| Heavy Steps | 11.00% | ~524 |
 | Perfect Enhancements | 8.00% | ~381 |
 | Hardened In The Heat Of Battle | 7.00% | ~333 |
 | The True Experience | 6.00% | ~286 |
@@ -51,7 +51,7 @@ Rating: 4.52 (Ranked 566)
 | Chalk It Up To Experience | 0.70% | ~33 |
 | This Ain't No Picnic | 0.60% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,759 (Ranked 201)  
+Progressed: 4,762 (Ranked 201)  
 Completed: 3 (0.06%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 3 (0.06%) (Ranked 324)
 | 2023-12-19 | 4,563 | 3 |
 | 2023-12-20 | 4,650 | 3 |
 | 2023-12-21 | 4,736 | 3 |
-| 2023-12-22 | 4,759 | 3 |
+| 2023-12-22 | 4,762 | 3 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 455)  
 Sum: 45 (Ranked 501)  

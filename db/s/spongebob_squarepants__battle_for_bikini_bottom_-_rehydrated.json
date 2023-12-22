@@ -5,7 +5,7 @@
   "Ranking_Rating": 297,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 514,
-  "Ranking_EOS_Progress": 411,
+  "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 160,
@@ -311,9 +311,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 182,
+  "EOS_Progressed": 184,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 181,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -696,6 +696,11 @@
       "Time": "2023-12-22T08:05:42.3937874+00:00",
       "NumProgressed": 182,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T09:07:21.6124522+00:00",
+      "NumProgressed": 184,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -802,17 +807,17 @@
       "ID": "ACH_MERMALAIR",
       "SetID": "biiejkc",
       "Name": "Keep it Rolling",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_PRAWN_BOSS",
       "SetID": "biiejkc",
       "Name": "Shrimp Catcher",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_ROBO_PATRICK_BOSS",
@@ -916,7 +921,7 @@
       "Name": "Spatula Seeker",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -924,7 +929,7 @@
       "Name": "Sponge Smasher",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -963,15 +968,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 182,
+      "Progressed": 184,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-17T16:58:22.2973338+00:00",
-  "LastChanged_Achievements": "2023-12-22T08:05:42.3937872+00:00",
+  "LastChanged_Achievements": "2023-12-22T09:07:21.6124519+00:00",
   "LastUpdate_AppInfo": "2023-12-16T13:57:06.8451361+00:00",
-  "LastUpdate_Ratings": "2023-12-22T07:59:59.6407305+00:00",
-  "LastUpdate_Achievements": "2023-12-22T08:05:42.3938065+00:00"
+  "LastUpdate_Ratings": "2023-12-22T09:01:54.4840824+00:00",
+  "LastUpdate_Achievements": "2023-12-22T09:07:21.6124717+00:00"
 }

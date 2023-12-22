@@ -4,7 +4,7 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 395,
+  "Ranking_EOS_NewPlayers": 387,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 594,
+  "EOS_Progressed": 595,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.18,
   "EosHistory": [
@@ -2594,6 +2594,11 @@
       "Time": "2023-12-22T07:04:28.2368604+00:00",
       "NumProgressed": 594,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-22T09:05:40.3359115+00:00",
+      "NumProgressed": 595,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 14,
@@ -2605,7 +2610,7 @@
       "Name": "The gateway to the underworld",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -2613,7 +2618,7 @@
       "Name": "Is it merely a dream?",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2661,7 +2666,7 @@
       "Name": "Our efforts are finally yielding progress",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -2693,7 +2698,7 @@
       "Name": "The court",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -2701,7 +2706,7 @@
       "Name": "Holy Nails",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -2716,14 +2721,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 594,
+      "Progressed": 595,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-12-22T08:04:32.0439954+00:00",
+  "LastChanged_Achievements": "2023-12-22T09:05:40.3359112+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:57:05.7189556+00:00",
-  "LastUpdate_Ratings": "2023-12-22T07:58:06.2142472+00:00",
-  "LastUpdate_Achievements": "2023-12-22T08:04:32.0440149+00:00"
+  "LastUpdate_Ratings": "2023-12-22T08:58:57.9679718+00:00",
+  "LastUpdate_Achievements": "2023-12-22T09:05:40.3359316+00:00"
 }
