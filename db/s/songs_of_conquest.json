@@ -5,10 +5,10 @@
   "Ranking_Rating": 230,
   "Ranking_Popularity": 524,
   "Ranking_PopularitySum": 412,
-  "Ranking_EOS_Progress": 308,
+  "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 649,
+  "EOS_Progressed": 652,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2553,6 +2553,11 @@
       "Time": "2023-12-22T16:09:47.5139163+00:00",
       "NumProgressed": 649,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T17:08:34.9504474+00:00",
+      "NumProgressed": 652,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2573,7 +2578,7 @@
       "Name": "The Song of Stoutheart",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ArleonCampaignFinaleOnHard",
@@ -2637,7 +2642,7 @@
       "Name": "Versatile Wielder",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ChainLightningKills",
@@ -2709,7 +2714,7 @@
       "Name": "Double Kill",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "FlameAttackKillCount",
@@ -2741,7 +2746,7 @@
       "Name": "Infernal Influence",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "KillingSpree",
@@ -2757,7 +2762,7 @@
       "Name": "Together For Her",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "LothCampaignFinaleOnHard",
@@ -2773,7 +2778,7 @@
       "Name": "Multi Kill",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "MultiplayerWins",
@@ -2805,7 +2810,7 @@
       "Name": "Whoops!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "RanaCampaign",
@@ -2837,7 +2842,7 @@
       "Name": "Such A Fungi",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SorcerousSpree",
@@ -2845,7 +2850,7 @@
       "Name": "Sorcerous Spree",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -2893,7 +2898,7 @@
       "Name": "Adept",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "WielderLevel2",
@@ -2941,7 +2946,7 @@
       "Name": "Expert Essence Employment",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "WinSiegeAsAttacker",
@@ -2957,7 +2962,7 @@
       "Name": "Venisti, Vidisti, Perdidisti",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "WinsWithFactionArleon",
@@ -2996,15 +3001,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 649,
+      "Progressed": 652,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-22T16:09:47.513916+00:00",
+  "LastChanged_Achievements": "2023-12-22T17:08:34.9504471+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:10.4027668+00:00",
-  "LastUpdate_Ratings": "2023-12-22T16:00:29.3364978+00:00",
-  "LastUpdate_Achievements": "2023-12-22T16:09:47.5139563+00:00"
+  "LastUpdate_Ratings": "2023-12-22T16:59:06.2198845+00:00",
+  "LastUpdate_Achievements": "2023-12-22T17:08:34.9504917+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 327,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1545,9 +1545,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 244019,
+  "EOS_Progressed": 244029,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1154,
+  "EOS_NewPlayers": 1148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23245,6 +23245,11 @@
       "Time": "2023-12-22T16:11:23.1948782+00:00",
       "NumProgressed": 244019,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-22T17:09:44.6710629+00:00",
+      "NumProgressed": 244029,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -23280,7 +23285,7 @@
       "Name": "Shiny and Cr\u00F4m",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4880
+      "UsersEstimate": 4881
     },
     {
       "ID": "BarbarianKillUsingBow",
@@ -23304,7 +23309,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 17081
+      "UsersEstimate": 17082
     },
     {
       "ID": "Chapter2",
@@ -23344,7 +23349,7 @@
       "Name": "Torture and Sensibility",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4880
+      "UsersEstimate": 4881
     },
     {
       "ID": "Chapter7",
@@ -23352,7 +23357,7 @@
       "Name": "Urik\u0027s Depths",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4880
+      "UsersEstimate": 4881
     },
     {
       "ID": "Chapter8",
@@ -23360,7 +23365,7 @@
       "Name": "The Dungeon Master",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4880
+      "UsersEstimate": 4881
     },
     {
       "ID": "Chapter9",
@@ -23368,7 +23373,7 @@
       "Name": "The Statuette of Gladeulfeurah",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4880
+      "UsersEstimate": 4881
     },
     {
       "ID": "CollateralVictim",
@@ -23400,7 +23405,7 @@
       "Name": "Res Judicata",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4880
+      "UsersEstimate": 4881
     },
     {
       "ID": "CompanionPriestress",
@@ -23608,7 +23613,7 @@
       "Name": "The Famous Dungeon of Naheulbeuk",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4880
+      "UsersEstimate": 4881
     },
     {
       "ID": "DifficultyIronManNoCompanion",
@@ -23640,7 +23645,7 @@
       "Name": "A tale of adventurers not quite like the others...",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4880
+      "UsersEstimate": 4881
     },
     {
       "ID": "Dwarf30Insult",
@@ -23656,7 +23661,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 21962
+      "UsersEstimate": 21963
     },
     {
       "ID": "DwarfElf15Support",
@@ -23672,7 +23677,7 @@
       "Name": "Dwarf Fortress",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4880
+      "UsersEstimate": 4881
     },
     {
       "ID": "DwarfInsultWin",
@@ -23688,7 +23693,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14641
+      "UsersEstimate": 14642
     },
     {
       "ID": "ElfEpic",
@@ -23696,7 +23701,7 @@
       "Name": "Look but don\u0027t touch",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4880
+      "UsersEstimate": 4881
     },
     {
       "ID": "ElfHitTwoFriends",
@@ -23704,7 +23709,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 87847
+      "UsersEstimate": 87850
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -23752,7 +23757,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24402
+      "UsersEstimate": 24403
     },
     {
       "ID": "FollowBraztok",
@@ -23760,7 +23765,7 @@
       "Name": "The beards of change",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4880
+      "UsersEstimate": 4881
     },
     {
       "ID": "FollowNarzatok",
@@ -23776,7 +23781,7 @@
       "Name": "I\u0027ve seen that beard before! It was on sale, and came with a broomstick and a bucket!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4880
+      "UsersEstimate": 4881
     },
     {
       "ID": "KillDungeonLich",
@@ -23880,7 +23885,7 @@
       "Name": "The Ranger of Chaos",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4880
+      "UsersEstimate": 4881
     },
     {
       "ID": "Rogue30Backstab",
@@ -23888,7 +23893,7 @@
       "Name": "I am the night",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4880
+      "UsersEstimate": 4881
     },
     {
       "ID": "RogueEpic",
@@ -23896,7 +23901,7 @@
       "Name": "Thieves\u0027 Guild Accreditation",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4880
+      "UsersEstimate": 4881
     },
     {
       "ID": "Speedrun",
@@ -23912,7 +23917,7 @@
       "Name": "Team Building Exercise",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4880
+      "UsersEstimate": 4881
     },
     {
       "ID": "SystematicallyStupid",
@@ -23959,21 +23964,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 244019,
+      "Progressed": 244029,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 244019,
+      "Progressed": 244029,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-12-20T20:02:43.3780941+00:00",
-  "LastChanged_Achievements": "2023-12-22T16:11:23.1948779+00:00",
+  "LastChanged_Achievements": "2023-12-22T17:09:44.6710626+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:08.5726178+00:00",
-  "LastUpdate_Ratings": "2023-12-22T15:58:37.4710035+00:00",
-  "LastUpdate_Achievements": "2023-12-22T16:11:23.1950204+00:00"
+  "LastUpdate_Ratings": "2023-12-22T16:57:50.2725775+00:00",
+  "LastUpdate_Achievements": "2023-12-22T17:09:44.6712442+00:00"
 }

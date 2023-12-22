@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 386,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 380,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
     "PcReleaseDate": "2022-03-17T09:00:00+00:00",
@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 791,
+  "EOS_Progressed": 792,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1058,6 +1058,11 @@
       "Time": "2023-12-20T08:04:40.8599448+00:00",
       "NumProgressed": 791,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T17:06:03.1462784+00:00",
+      "NumProgressed": 792,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1093,7 +1098,7 @@
       "Name": "Big Spender",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "Clarity_of_Mind",
@@ -1101,7 +1106,7 @@
       "Name": "Clarity of Mind",
       "Percentage": 6,
       "XP": 75,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Club_Star",
@@ -1125,7 +1130,7 @@
       "Name": "Deadly Kombationem",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "Fire in the hole!",
@@ -1141,7 +1146,7 @@
       "Name": "I feel secure, contained \u0026 protected",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "I\u0027m walking here!",
@@ -1157,7 +1162,7 @@
       "Name": "I just love stuff!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "I_think_its_broke",
@@ -1181,7 +1186,7 @@
       "Name": "Keep \u0027em coming!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "Lady_Luck",
@@ -1213,7 +1218,7 @@
       "Name": "Science, it works!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "So_Fresh",
@@ -1235,17 +1240,17 @@
       "ID": "Tell_me_your_story",
       "SetID": "gl7plp",
       "Name": "Tell me your story",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 593
+      "UsersEstimate": 602
     },
     {
       "ID": "Thats_gotta_hurt",
       "SetID": "gl7plp",
       "Name": "That\u0027s gotta hurt",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 293
+      "UsersEstimate": 285
     },
     {
       "ID": "The Traveler",
@@ -1285,7 +1290,7 @@
       "Name": "The things they print nowadays",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "The_truth_is_out_there",
@@ -1293,7 +1298,7 @@
       "Name": "The truth is out there",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "This_cant_be_right",
@@ -1356,7 +1361,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 791,
+      "Progressed": 792,
       "Completed": 0
     }
   ],
@@ -1364,8 +1369,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-12-09T07:59:55.495838+00:00",
-  "LastChanged_Achievements": "2023-12-22T16:08:10.3060058+00:00",
+  "LastChanged_Achievements": "2023-12-22T17:06:03.1462781+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:41.3639651+00:00",
-  "LastUpdate_Ratings": "2023-12-22T16:03:38.9915559+00:00",
-  "LastUpdate_Achievements": "2023-12-22T16:08:10.3060337+00:00"
+  "LastUpdate_Ratings": "2023-12-22T17:02:44.7614502+00:00",
+  "LastUpdate_Achievements": "2023-12-22T17:06:03.1463067+00:00"
 }

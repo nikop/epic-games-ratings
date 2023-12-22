@@ -6,28 +6,28 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kaijuiced | 67.00% | ~65 |
+| Kaijuiced | 68.00% | ~66 |
 | Lie Back and Think of Albion | 61.00% | ~59 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 58.00% | ~56 |
-| Shop Til They Drop | 57.00% | ~55 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 59.00% | ~57 |
+| Shop Til They Drop | 58.00% | ~56 |
 | Yettisoned | 55.00% | ~53 |
-| I Look Up As I Walk to Takoshima | 53.00% | ~51 |
-| Lobster Blisque | 48.00% | ~47 |
-| Perfect Probulator | 47.00% | ~46 |
-| Fly Me to the Moon Base | 43.00% | ~42 |
-| Pimp My Raid | 40.00% | ~39 |
-| Earthly Pleasures | 38.00% | ~37 |
+| I Look Up As I Walk to Takoshima | 54.00% | ~52 |
+| Lobster Blisque | 49.00% | ~48 |
+| Perfect Probulator | 48.00% | ~47 |
+| Fly Me to the Moon Base | 44.00% | ~43 |
+| Pimp My Raid | 41.00% | ~40 |
+| Earthly Pleasures | 39.00% | ~38 |
+| Freshly Squeezed | 38.00% | ~37 |
 | Ducks in a Row, Fish in a Barrel | 38.00% | ~37 |
-| Freshly Squeezed | 37.00% | ~36 |
 | Upgreatest | 30.00% | ~29 |
 | Forbidden Donut | 29.00% | ~28 |
 | Bodied Sattva | 29.00% | ~28 |
+| Rock of the Bay | 26.00% | ~25 |
+| Trans-Siberian Express | 25.00% | ~24 |
 | Deincarnated | 24.00% | ~23 |
-| Rock of the Bay | 24.00% | ~23 |
 | Furon Fashion | 24.00% | ~23 |
-| Trans-Siberian Express | 24.00% | ~23 |
 | Re-Return of the Clone of the Invasion II-2 | 20.00% | ~19 |
-| Arkvoodle Doodle | 15.00% | ~15 |
+| Arkvoodle Doodle | 16.00% | ~16 |
 | Ouch of Body Experience | 13.00% | ~13 |
 | If You Know What I Mean | 13.00% | ~13 |
 | Dusted | 13.00% | ~13 |
@@ -35,7 +35,7 @@ Number of Ratings: 85  (23.09.2022)
 | Mash Machine | 11.00% | ~11 |
 | Hidden Human Hive Harvest | 10.00% | ~10 |
 | PK Slam Dunk | 8.00% | ~8 |
-| Albion Bridge Is for Falling Down | 7.00% | ~7 |
+| Albion Bridge Is for Falling Down | 8.00% | ~8 |
 | Higher Than the Futen Zoku | 6.00% | ~6 |
 | Scuttled | 5.00% | ~5 |
 | Arty Facts | 4.00% | ~4 |

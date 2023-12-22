@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 86.00% | ~38 |
-| Suicide squad | 52.00% | ~23 |
-| Train hard, fight easy | 32.00% | ~14 |
-| Under cover | 32.00% | ~14 |
-| First blood | 32.00% | ~14 |
+| First success | 84.00% | ~38 |
+| Suicide squad | 51.00% | ~23 |
+| Train hard, fight easy | 31.00% | ~14 |
+| Under cover | 31.00% | ~14 |
+| First blood | 31.00% | ~14 |
 | Royal blessing | 27.00% | ~12 |
-| All for one! | 25.00% | ~11 |
-| A hidden snake | 25.00% | ~11 |
-| Blood and sand | 25.00% | ~11 |
+| All for one! | 24.00% | ~11 |
+| A hidden snake | 24.00% | ~11 |
+| Blood and sand | 24.00% | ~11 |
 | Vene, vidi, vici | 20.00% | ~9 |
 | Crimson rivers | 18.00% | ~8 |
 | Power of Inquisition | 18.00% | ~8 |
@@ -21,7 +21,7 @@
 | She-Wolf | 18.00% | ~8 |
 | Berkanan Borgia | 16.00% | ~7 |
 | Trial by cold | 16.00% | ~7 |
-| The champion of the arena | 14.00% | ~6 |
+| The champion of the arena | 13.00% | ~6 |
 | Stronger than Gellian steel | 11.00% | ~5 |
 | Rage | 11.00% | ~5 |
 | Protect the Healer! | 11.00% | ~5 |
@@ -36,10 +36,10 @@
 | By own strength | 7.00% | ~3 |
 | All's fair in love and war | 7.00% | ~3 |
 | Nothing is settled | 7.00% | ~3 |
-| The power of persuasion | 5.00% | ~2 |
-| Deadly strike | 5.00% | ~2 |
-| A solo player | 5.00% | ~2 |
-| Cunning plan | 5.00% | ~2 |
+| The power of persuasion | 4.00% | ~2 |
+| Deadly strike | 4.00% | ~2 |
+| A solo player | 4.00% | ~2 |
+| Cunning plan | 4.00% | ~2 |
 | Supplier | 2.00% | ~1 |
 | Do it yourself | 2.00% | ~1 |
 | By someone else's hands | 2.00% | ~1 |
@@ -54,7 +54,7 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44 (Ranked 546)  
+Progressed: 45 (Ranked 544)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-15 | 37 | 0 |
 | 2023-12-17 | 40 | 0 |
 | 2023-12-21 | 43 | 0 |
-| 2023-12-22 | 44 | 0 |
+| 2023-12-22 | 45 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

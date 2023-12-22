@@ -5,10 +5,10 @@
   "Ranking_Rating": 338,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
-  "Ranking_EOS_Progress": 142,
-  "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_Progress": 143,
+  "Ranking_EOS_Completed": 323,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24822,
+  "EOS_Progressed": 24823,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -7955,6 +7955,11 @@
       "Time": "2023-12-22T15:04:52.1887905+00:00",
       "NumProgressed": 24822,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-22T17:05:00.2131502+00:00",
+      "NumProgressed": 24823,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -8317,13 +8322,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24822,
+      "Progressed": 24823,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 2115,
+      "Progressed": 2116,
       "Completed": 1376
     }
   ],
@@ -8331,8 +8336,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-12-19T23:02:26.7402542+00:00",
-  "LastChanged_Achievements": "2023-12-22T16:06:46.3040913+00:00",
+  "LastChanged_Achievements": "2023-12-22T17:05:00.2131493+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:16.6894951+00:00",
-  "LastUpdate_Ratings": "2023-12-22T16:03:40.7029296+00:00",
-  "LastUpdate_Achievements": "2023-12-22T16:06:46.304201+00:00"
+  "LastUpdate_Ratings": "2023-12-22T17:02:45.8270446+00:00",
+  "LastUpdate_Achievements": "2023-12-22T17:05:00.2132168+00:00"
 }

@@ -28,12 +28,12 @@ Number of Ratings: 45  (23.09.2022)
 | Legends Never Die | 0.80% | ~12 |
 | Chain Reaction | 0.80% | ~12 |
 | Another Tale to Tell | 0.80% | ~12 |
-| In Soil, In Smoke | 0.70% | ~11 |
 | Everfading | 0.70% | ~11 |
-| No Time for Clawmonsters | 0.70% | ~11 |
 | Plague Doctor | 0.60% | ~9 |
+| In Soil, In Smoke | 0.60% | ~9 |
 | Some Say I'm Too Flashy | 0.60% | ~9 |
 | Astrology | 0.60% | ~9 |
+| No Time for Clawmonsters | 0.60% | ~9 |
 | Storied Past | 0.50% | ~8 |
 | Empty the Caves | 0.50% | ~8 |
 | Bonebreakers | 0.50% | ~8 |
@@ -63,8 +63,8 @@ Number of Ratings: 45  (23.09.2022)
 | Peacemaker | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,538 (Ranked 252)  
-Completed: 7 (0.46%) (Ranked 220)  
+Progressed: 1,539 (Ranked 252)  
+Completed: 7 (0.45%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -253,6 +253,7 @@ Completed: 7 (0.46%) (Ranked 220)
 | 2023-12-18 | 1,534 | 6 |
 | 2023-12-19 | 1,536 | 7 |
 | 2023-12-21 | 1,538 | 7 |
+| 2023-12-22 | 1,539 | 7 |
 ## Awards
 Max (Character Customization): 29  (Ranked 513)  
 Sum: 29 (Ranked 529)  

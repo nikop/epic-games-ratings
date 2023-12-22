@@ -1,11 +1,11 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.56 (Ranked 1,064)  
+Rating: 3.56 (Ranked 1,065)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 11.00% | ~218 |
+| I Like My Stakes Rare! | 11.00% | ~219 |
 | Catch and Release | 8.00% | ~159 |
 | Home Is Where the Heart Is | 7.00% | ~139 |
 | ICU | 7.00% | ~139 |
@@ -16,11 +16,11 @@ Rating: 3.56 (Ranked 1,064)
 | Peek-a-boo | 6.00% | ~119 |
 | Throw The First Stone | 5.00% | ~99 |
 | Sucks To Be You | 5.00% | ~99 |
-| Enter of Your Own Free Will | 4.00% | ~79 |
-| Welcome to the Neighborhood | 4.00% | ~79 |
-| Grounded | 4.00% | ~79 |
-| Heart Attack | 4.00% | ~79 |
-| Skin of Their Teeth | 4.00% | ~79 |
+| Enter of Your Own Free Will | 4.00% | ~80 |
+| Welcome to the Neighborhood | 4.00% | ~80 |
+| Grounded | 4.00% | ~80 |
+| Heart Attack | 4.00% | ~80 |
+| Skin of Their Teeth | 4.00% | ~80 |
 | Bad Wiring | 3.00% | ~60 |
 | Neighborhood Revitalization | 2.00% | ~40 |
 | Radio Silence | 2.00% | ~40 |
@@ -36,10 +36,10 @@ Rating: 3.56 (Ranked 1,064)
 | You Clean It Up | 1.00% | ~20 |
 | From the Shadows | 1.00% | ~20 |
 | Harvest’s End | 1.00% | ~20 |
+| Blacklight Down | 1.00% | ~20 |
 | Block Party | 0.90% | ~18 |
 | Check, Please! | 0.90% | ~18 |
 | Nice Try | 0.90% | ~18 |
-| Blacklight Down | 0.90% | ~18 |
 | Curious Finch | 0.80% | ~16 |
 | Right This Way | 0.60% | ~12 |
 | Empty Nest Syndrome | 0.50% | ~10 |
@@ -72,7 +72,7 @@ Rating: 3.56 (Ranked 1,064)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,986 (Ranked 237)  
+Progressed: 1,988 (Ranked 237)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-19 | 1,947 | 0 |
 | 2023-12-20 | 1,963 | 0 |
 | 2023-12-21 | 1,977 | 0 |
-| 2023-12-22 | 1,986 | 0 |
+| 2023-12-22 | 1,988 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

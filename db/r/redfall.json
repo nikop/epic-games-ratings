@@ -2,13 +2,13 @@
   "ID": "48e20c81667c4ff49c85dd79ac3a01b0",
   "Name": "Redfall",
   "ProductSlug": "redfall",
-  "Ranking_Rating": 1064,
+  "Ranking_Rating": 1065,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1986,
+  "EOS_Progressed": 1988,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3039,6 +3039,11 @@
       "Time": "2023-12-22T15:04:44.9355963+00:00",
       "NumProgressed": 1986,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T17:04:52.7954398+00:00",
+      "NumProgressed": 1988,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3074,7 +3079,7 @@
       "Name": "Enter of Your Own Free Will",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "Achievement_006",
@@ -3114,7 +3119,7 @@
       "Name": "Welcome to the Neighborhood",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "Achievement_011",
@@ -3186,7 +3191,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "Achievement_020",
@@ -3234,7 +3239,7 @@
       "Name": "Grounded",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "Achievement_026",
@@ -3354,7 +3359,7 @@
       "Name": "Heart Attack",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "Achievement_041",
@@ -3386,7 +3391,7 @@
       "Name": "Skin of Their Teeth",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "Achievement_046",
@@ -3448,9 +3453,9 @@
       "ID": "Achievement_055",
       "SetID": "6b34g18",
       "Name": "Blacklight Down",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "Achievement_056",
@@ -3577,7 +3582,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1986,
+      "Progressed": 1988,
       "Completed": 0
     }
   ],
@@ -3585,8 +3590,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-21T11:57:57.6911859+00:00",
-  "LastChanged_Achievements": "2023-12-22T16:06:36.6442601+00:00",
+  "LastChanged_Achievements": "2023-12-22T17:04:52.7954395+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:02.9619993+00:00",
-  "LastUpdate_Ratings": "2023-12-22T15:59:05.1573748+00:00",
-  "LastUpdate_Achievements": "2023-12-22T16:06:36.6443301+00:00"
+  "LastUpdate_Ratings": "2023-12-22T16:58:09.0181426+00:00",
+  "LastUpdate_Achievements": "2023-12-22T17:04:52.7955004+00:00"
 }

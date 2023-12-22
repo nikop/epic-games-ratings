@@ -5,10 +5,10 @@
   "Ranking_Rating": 442,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
-  "Ranking_EOS_Progress": 146,
-  "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_Progress": 147,
+  "Ranking_EOS_Completed": 309,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-03-29T13:00:00+00:00",
     "PcReleaseDate": "2023-03-29T13:00:00+00:00",
@@ -387,9 +387,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21025,
+  "EOS_Progressed": 21026,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -9552,6 +9552,11 @@
       "Time": "2023-12-22T10:09:18.1596921+00:00",
       "NumProgressed": 21025,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-22T17:09:32.7148775+00:00",
+      "NumProgressed": 21026,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 13,
@@ -9563,7 +9568,7 @@
       "Name": "Safe!",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "FirstGlide",
@@ -9666,7 +9671,7 @@
     {
       "ID": "3c9im16",
       "IsBase": true,
-      "Progressed": 21025,
+      "Progressed": 21026,
       "Completed": 18
     }
   ],
@@ -9674,8 +9679,8 @@
   "FirstSeenRating": "2023-03-31T05:57:29.8298127+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.2502922+00:00",
   "LastChanged": "2023-12-21T01:46:12.5576924+00:00",
-  "LastChanged_Achievements": "2023-12-22T16:11:06.7315456+00:00",
+  "LastChanged_Achievements": "2023-12-22T17:09:32.7148773+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:56:54.2690502+00:00",
-  "LastUpdate_Ratings": "2023-12-22T16:03:27.4628921+00:00",
-  "LastUpdate_Achievements": "2023-12-22T16:11:06.7315985+00:00"
+  "LastUpdate_Ratings": "2023-12-22T17:02:37.0248687+00:00",
+  "LastUpdate_Achievements": "2023-12-22T17:09:32.7149455+00:00"
 }

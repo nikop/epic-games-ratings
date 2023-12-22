@@ -6,9 +6,9 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Best Buddy | 17.00% | ~10 |
+| Best Buddy | 18.00% | ~11 |
 | Entrepreneur | 13.00% | ~8 |
-| Role Model | 12.00% | ~7 |
+| Role Model | 13.00% | ~8 |
 | Military Leader | 7.00% | ~4 |
 | Creator | 7.00% | ~4 |
 | Civilian | 5.00% | ~3 |
@@ -24,6 +24,7 @@ Number of Ratings: 124  (23.09.2022)
 | Alb | 2.00% | ~1 |
 | Berserker | 2.00% | ~1 |
 | Festival-goer | 2.00% | ~1 |
+| Family Reunion | 2.00% | ~1 |
 | Pass A38 | 2.00% | ~1 |
 | Eternal Oblivion | 2.00% | ~1 |
 | Pack Rat | 0.00% | ~0 |
@@ -47,7 +48,6 @@ Number of Ratings: 124  (23.09.2022)
 | Destroyer | 0.00% | ~0 |
 | Perfectionist | 0.00% | ~0 |
 | Legendary | 0.00% | ~0 |
-| Family Reunion | 0.00% | ~0 |
 | Detective | 0.00% | ~0 |
 | Warrior | 0.00% | ~0 |
 | Hunter | 0.00% | ~0 |

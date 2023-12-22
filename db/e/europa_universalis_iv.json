@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 37,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -13513,10 +13513,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 61788,
       "NumberOfAwardsMax": 7506
+    },
+    {
+      "Time": "2023-12-22T16:58:25.731228+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 61803,
+      "NumberOfAwardsMax": 7506
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 61788,
+  "NumberOfAwards": 61803,
   "NumberOfAwardsMax": 7506,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -13560,7 +13566,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 6702
+      "Count": 6717
     },
     {
       "Text": "This game is Relaxing",
@@ -13587,9 +13593,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 481227,
+  "EOS_Progressed": 481270,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5837,
+  "EOS_NewPlayers": 5802,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41917,6 +41923,11 @@
       "Time": "2023-12-22T16:07:45.9265038+00:00",
       "NumProgressed": 481227,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-22T17:05:45.2543361+00:00",
+      "NumProgressed": 481270,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -42368,7 +42379,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -42448,7 +42459,7 @@
       "Name": "Cold War",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "achievement_colonial_management",
@@ -43144,7 +43155,7 @@
       "Name": "It\u0027s all about the money",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "achievement_its_all_greek_to_me",
@@ -44520,7 +44531,7 @@
       "Name": "True Catholic",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -44831,21 +44842,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 481227,
+      "Progressed": 481270,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 481227,
+      "Progressed": 481270,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-12-22T15:59:29.8488756+00:00",
-  "LastChanged_Achievements": "2023-12-22T16:07:45.9265034+00:00",
+  "LastChanged": "2023-12-22T16:58:25.7312276+00:00",
+  "LastChanged_Achievements": "2023-12-22T17:05:45.2543357+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:33.9920534+00:00",
-  "LastUpdate_Ratings": "2023-12-22T15:59:29.8488763+00:00",
-  "LastUpdate_Achievements": "2023-12-22T16:07:45.9275341+00:00"
+  "LastUpdate_Ratings": "2023-12-22T16:58:25.7312285+00:00",
+  "LastUpdate_Achievements": "2023-12-22T17:05:45.2554016+00:00"
 }

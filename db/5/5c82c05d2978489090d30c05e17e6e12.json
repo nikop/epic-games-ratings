@@ -2,12 +2,12 @@
   "ID": "5c82c05d2978489090d30c05e17e6e12",
   "Name": "EARTHLOCK",
   "ProductSlug": "earthlock-e7d979",
-  "Ranking_Rating": 984,
+  "Ranking_Rating": 985,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewPlayers": 69,
   "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2023-11-16T16:00:00+00:00",
@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69174,
+  "EOS_Progressed": 69204,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 2095,
+  "EOS_NewPlayers": 2108,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -4510,6 +4510,11 @@
       "Time": "2023-12-22T16:06:20.6642557+00:00",
       "NumProgressed": 69174,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-12-22T17:04:40.9191989+00:00",
+      "NumProgressed": 69204,
+      "NumCompleted": 91
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -4522,7 +4527,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 25594
+      "UsersEstimate": 25605
     },
     {
       "ID": "Achievement_10",
@@ -4538,7 +4543,7 @@
       "Name": "Owls of the Nest",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "Achievement_12",
@@ -4554,7 +4559,7 @@
       "Name": "Supreme Scavenger",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2767
+      "UsersEstimate": 2768
     },
     {
       "ID": "Achievement_14",
@@ -4562,7 +4567,7 @@
       "Name": "Gardener of Lango",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1383
+      "UsersEstimate": 1384
     },
     {
       "ID": "Achievement_15",
@@ -4610,7 +4615,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 18677
+      "UsersEstimate": 18685
     },
     {
       "ID": "Achievement_20",
@@ -4634,7 +4639,7 @@
       "Name": "Spiritualist of the Sands",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1383
+      "UsersEstimate": 1384
     },
     {
       "ID": "Achievement_23",
@@ -4650,7 +4655,7 @@
       "Name": "Custodian of Scrollroads",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2767
+      "UsersEstimate": 2768
     },
     {
       "ID": "Achievement_25",
@@ -4682,7 +4687,7 @@
       "Name": "A Better World",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "Achievement_29",
@@ -4698,7 +4703,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8301
+      "UsersEstimate": 8304
     },
     {
       "ID": "Achievement_30",
@@ -4746,7 +4751,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6226
+      "UsersEstimate": 6228
     },
     {
       "ID": "Achievement_5",
@@ -4754,7 +4759,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 4150
+      "UsersEstimate": 4152
     },
     {
       "ID": "Achievement_6",
@@ -4762,7 +4767,7 @@
       "Name": "The Red-Haired Enigma",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2767
+      "UsersEstimate": 2768
     },
     {
       "ID": "Achievement_7",
@@ -4770,7 +4775,7 @@
       "Name": "Ancient Sentient Support",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2075
+      "UsersEstimate": 2076
     },
     {
       "ID": "Achievement_8",
@@ -4778,7 +4783,7 @@
       "Name": "House In Order",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2075
+      "UsersEstimate": 2076
     },
     {
       "ID": "Achievement_9",
@@ -4793,7 +4798,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 69174,
+      "Progressed": 69204,
       "Completed": 91
     }
   ],
@@ -4801,8 +4806,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-12-21T06:03:08.9773291+00:00",
-  "LastChanged_Achievements": "2023-12-22T16:06:20.6642555+00:00",
+  "LastChanged_Achievements": "2023-12-22T17:04:40.9191987+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:17.3346413+00:00",
-  "LastUpdate_Ratings": "2023-12-22T16:03:58.28332+00:00",
-  "LastUpdate_Achievements": "2023-12-22T16:06:20.6642952+00:00"
+  "LastUpdate_Ratings": "2023-12-22T17:02:58.1600036+00:00",
+  "LastUpdate_Achievements": "2023-12-22T17:04:40.9192312+00:00"
 }

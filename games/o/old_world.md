@@ -13,6 +13,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good | 0.20% | ~32 |
 | Intrepid | 0.20% | ~32 |
 | Just | 0.20% | ~32 |
+| Keystone | 0.20% | ~32 |
 | Learned | 0.20% | ~32 |
 | Mason | 0.20% | ~32 |
 | Noble | 0.20% | ~32 |
@@ -73,7 +74,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Holy | 0.10% | ~16 |
 | Intercessor | 0.10% | ~16 |
 | Invincible | 0.10% | ~16 |
-| Keystone | 0.10% | ~16 |
 | Lion | 0.10% | ~16 |
 | Magnificent | 0.10% | ~16 |
 | Mighty | 0.10% | ~16 |
@@ -154,7 +154,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | One True Faith | 0.10% | ~16 |
 | Pantheon of Gods | 0.10% | ~16 |
 | Play a 1-v-1 Game | 0.10% | ~16 |
+| Play a Free-For-All Game (>2 Players) | 0.10% | ~16 |
 | Play a LAN Game | 0.10% | ~16 |
+| Play a Network Game | 0.10% | ~16 |
 | Play a Play-By-Cloud Game | 0.10% | ~16 |
 | Power to the People | 0.10% | ~16 |
 | Christianity | 0.10% | ~16 |
@@ -302,10 +304,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pyramids in Menefer | 0.00% | ~0 |
 | Merchants of the Levant | 0.00% | ~0 |
 | Apadana in Parsa | 0.00% | ~0 |
-| Play a Free-For-All Game (>2 Players) | 0.00% | ~0 |
 | Play a Hotseat Game | 0.00% | ~0 |
 | Play a MP Teams Game | 0.00% | ~0 |
-| Play a Network Game | 0.00% | ~0 |
 | Punic Wars | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
 | Roman Papacy | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,874 (Ranked 160)  
+Progressed: 15,875 (Ranked 161)  
 Completed: 5 (0.03%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -611,7 +611,7 @@ Completed: 5 (0.03%) (Ranked 345)
 | 2023-12-19 | 15,840 | 5 |
 | 2023-12-20 | 15,854 | 5 |
 | 2023-12-21 | 15,865 | 5 |
-| 2023-12-22 | 15,874 | 5 |
+| 2023-12-22 | 15,875 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 279)  
 Sum: 1,907 (Ranked 220)  

@@ -6,31 +6,31 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 40.00% | ~260 |
-| Double Kill | 33.00% | ~214 |
+| Adept | 40.00% | ~261 |
+| Double Kill | 33.00% | ~215 |
 | Critical Hit | 18.00% | ~117 |
 | Veteran | 18.00% | ~117 |
 | Dressed For Success | 12.00% | ~78 |
 | Humiliation | 8.00% | ~52 |
 | Veni, Vidi, Vici | 8.00% | ~52 |
-| Multi Kill | 7.00% | ~45 |
-| Sorcerous Spree | 7.00% | ~45 |
+| Multi Kill | 7.00% | ~46 |
+| Sorcerous Spree | 7.00% | ~46 |
 | Landlord Extraordinaire | 6.00% | ~39 |
 | Master | 6.00% | ~39 |
-| Whoops! | 5.00% | ~32 |
+| Whoops! | 5.00% | ~33 |
 | Don't Touch My Stuff | 4.00% | ~26 |
 | Trojan Horse | 4.00% | ~26 |
-| The Song of Stoutheart | 3.00% | ~19 |
-| Expert Essence Employment | 3.00% | ~19 |
-| Venisti, Vidisti, Perdidisti | 3.00% | ~19 |
+| The Song of Stoutheart | 3.00% | ~20 |
+| Expert Essence Employment | 3.00% | ~20 |
+| Venisti, Vidisti, Perdidisti | 3.00% | ~20 |
 | This Spot's Taken | 2.00% | ~13 |
 | Deepstrike | 2.00% | ~13 |
 | Ultra Kill | 2.00% | ~13 |
 | Pyrrhic Victory | 2.00% | ~13 |
-| Versatile Wielder | 1.00% | ~6 |
-| Infernal Influence | 1.00% | ~6 |
-| Together For Her | 1.00% | ~6 |
-| Such A Fungi | 1.00% | ~6 |
+| Versatile Wielder | 1.00% | ~7 |
+| Infernal Influence | 1.00% | ~7 |
+| Together For Her | 1.00% | ~7 |
+| Such A Fungi | 1.00% | ~7 |
 | From the Ashes | 0.90% | ~6 |
 | Grand Master | 0.90% | ~6 |
 | Get Over Here! | 0.60% | ~4 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 649 (Ranked 308)  
+Progressed: 652 (Ranked 307)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-19 | 575 | 0 |
 | 2023-12-20 | 600 | 0 |
 | 2023-12-21 | 630 | 0 |
-| 2023-12-22 | 649 | 0 |
+| 2023-12-22 | 652 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 524)  
 Sum: 194 (Ranked 412)  

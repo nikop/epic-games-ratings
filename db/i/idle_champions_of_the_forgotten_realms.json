@@ -2,12 +2,12 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 1003,
+  "Ranking_Rating": 1004,
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 59,
+  "Ranking_EOS_NewPlayers": 60,
   "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8965,7 +8965,7 @@
       "Count": 3583
     }
   ],
-  "EOS_Progressed": 243294,
+  "EOS_Progressed": 243320,
   "EOS_Completed": 2555,
   "EOS_NewPlayers": 2625,
   "EOS_NewCompleters": 26,
@@ -36760,6 +36760,11 @@
       "Time": "2023-12-22T16:11:39.5009206+00:00",
       "NumProgressed": 243294,
       "NumCompleted": 2555
+    },
+    {
+      "Time": "2023-12-22T17:09:58.757234+00:00",
+      "NumProgressed": 243320,
+      "NumCompleted": 2555
     }
   ],
   "TotalAchievements": 546,
@@ -38443,7 +38448,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1216
+      "UsersEstimate": 1217
     },
     {
       "ID": "objective_completed_34",
@@ -41075,7 +41080,7 @@
       "Name": "Fast Food",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1257
+      "UsersEstimate": 1258
     },
     {
       "ID": "objective_completed_1563",
@@ -41138,21 +41143,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 209568,
-      "Completed": 4054
+      "Progressed": 209594,
+      "Completed": 4055
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 243294,
+      "Progressed": 243320,
       "Completed": 2555
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-22T13:05:44.8154424+00:00",
-  "LastChanged_Achievements": "2023-12-22T16:11:39.5009201+00:00",
+  "LastChanged_Achievements": "2023-12-22T17:09:58.7572337+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:52.1318001+00:00",
-  "LastUpdate_Ratings": "2023-12-22T16:03:35.8714102+00:00",
-  "LastUpdate_Achievements": "2023-12-22T16:11:39.5031657+00:00"
+  "LastUpdate_Ratings": "2023-12-22T17:02:42.7558799+00:00",
+  "LastUpdate_Achievements": "2023-12-22T17:09:58.7599426+00:00"
 }

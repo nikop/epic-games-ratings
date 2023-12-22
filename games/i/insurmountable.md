@@ -1,11 +1,11 @@
 # Insurmountable
 [Store](https://store.epicgames.com/en-US/p/insurmountable-b02c31)  
 [View Rawdata](../../db/i/insurmountable.json)  
-Rating: 4.20 (Ranked 934)  
+Rating: 4.20 (Ranked 935)  
 Number of Ratings: 711  (23.09.2022)  
 ## Awards
-Max (Relaxing): 22  (Ranked 553)  
-Sum: 22 (Ranked 555)  
+Max (Relaxing): 22  (Ranked 554)  
+Sum: 22 (Ranked 556)  
 Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |

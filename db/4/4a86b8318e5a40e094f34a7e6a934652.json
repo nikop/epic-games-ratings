@@ -4,8 +4,8 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 361,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -1510,9 +1510,9 @@
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 215
+      "UsersEstimate": 219
     },
     {
       "ID": "BRING_PROSPERO",
@@ -1550,17 +1550,17 @@
       "ID": "GO_ON_EXPEDITION",
       "SetID": "aniflfk",
       "Name": "Off on an Expedition!",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 50,
-      "UsersEstimate": 219
+      "UsersEstimate": 222
     },
     {
       "ID": "GROW_20_PLANTS",
       "SetID": "aniflfk",
       "Name": "Farmer",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 161
+      "UsersEstimate": 164
     },
     {
       "ID": "HOUSEWARMING",
@@ -1574,9 +1574,9 @@
       "ID": "LUNCH_LEECH",
       "SetID": "aniflfk",
       "Name": "Leech Lunch",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 147
+      "UsersEstimate": 150
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -1661,8 +1661,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-22T16:08:26.4012126+00:00",
+  "LastChanged_Achievements": "2023-12-22T17:06:14.9718401+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:11.7079702+00:00",
-  "LastUpdate_Ratings": "2023-12-22T16:01:57.6421763+00:00",
-  "LastUpdate_Achievements": "2023-12-22T16:08:26.4012309+00:00"
+  "LastUpdate_Ratings": "2023-12-22T17:00:05.2339578+00:00",
+  "LastUpdate_Achievements": "2023-12-22T17:06:14.971859+00:00"
 }

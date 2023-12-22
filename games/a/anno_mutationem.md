@@ -5,13 +5,13 @@ Rating: 4.54 (Ranked 533)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tell me your story | 75.00% | ~593 |
+| Tell me your story | 76.00% | ~602 |
 | Don't judge a manhole by its cover | 60.00% | ~475 |
-| I just love stuff! | 42.00% | ~332 |
-| Keep 'em coming! | 42.00% | ~332 |
-| The things they print nowadays | 40.00% | ~316 |
-| Big Spender | 39.00% | ~308 |
-| That's gotta hurt | 37.00% | ~293 |
+| I just love stuff! | 42.00% | ~333 |
+| Keep 'em coming! | 42.00% | ~333 |
+| The things they print nowadays | 40.00% | ~317 |
+| Big Spender | 39.00% | ~309 |
+| That's gotta hurt | 36.00% | ~285 |
 | I think it's broke | 27.00% | ~214 |
 | The Ann Flores Combo Experience | 27.00% | ~214 |
 | Club Star | 25.00% | ~198 |
@@ -19,8 +19,8 @@ Rating: 4.54 (Ranked 533)
 | Omnipotence | 20.00% | ~158 |
 | The Warlord | 20.00% | ~158 |
 | You are the One | 19.00% | ~150 |
-| Deadly Kombationem | 18.00% | ~142 |
-| The truth is out there | 17.00% | ~134 |
+| Deadly Kombationem | 18.00% | ~143 |
+| The truth is out there | 17.00% | ~135 |
 | Annakin Skyscroller | 13.00% | ~103 |
 | In the smacker...I think | 10.00% | ~79 |
 | Arm Wrestlin' | 9.00% | ~71 |
@@ -30,9 +30,9 @@ Rating: 4.54 (Ranked 533)
 | Welcome home, 06 | 8.00% | ~63 |
 | I'm walking here! | 7.00% | ~55 |
 | So Fresh and So clean clean | 7.00% | ~55 |
-| Clarity of Mind | 6.00% | ~47 |
-| I feel secure, contained & protected | 6.00% | ~47 |
-| Science, it works! | 6.00% | ~47 |
+| Clarity of Mind | 6.00% | ~48 |
+| I feel secure, contained & protected | 6.00% | ~48 |
+| Science, it works! | 6.00% | ~48 |
 | The Traveler | 5.00% | ~40 |
 | Woman on a (side) mission | 4.00% | ~32 |
 | Ann ULTRA | 3.00% | ~24 |
@@ -42,7 +42,7 @@ Rating: 4.54 (Ranked 533)
 | Love me like I love my posters | 1.00% | ~8 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 791 (Ranked 292)  
+Progressed: 792 (Ranked 292)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,6 +150,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 787 | 0 |
 | 2023-12-19 | 789 | 0 |
 | 2023-12-20 | 791 | 0 |
+| 2023-12-22 | 792 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,9 +6,9 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 61.00% | ~2,025 |
+| You're free now! | 61.00% | ~2,027 |
 | Keeping it classy | 28.00% | ~930 |
-| Welcome to the family | 22.00% | ~730 |
+| Welcome to the family | 22.00% | ~731 |
 | The finer things in life | 19.00% | ~631 |
 | Backpacker | 14.00% | ~465 |
 | Go with the Flow | 13.00% | ~432 |
@@ -19,10 +19,10 @@ Number of Ratings: 111  (23.09.2022)
 | Keep the dream alive | 9.00% | ~299 |
 | Upfront shredder | 9.00% | ~299 |
 | Tight lipslides | 8.00% | ~266 |
-| Bottom ply killer | 7.00% | ~232 |
-| Fashionista | 7.00% | ~232 |
-| Finally he zips it | 7.00% | ~232 |
-| That pinch! | 7.00% | ~232 |
+| Bottom ply killer | 7.00% | ~233 |
+| Fashionista | 7.00% | ~233 |
+| Finally he zips it | 7.00% | ~233 |
+| That pinch! | 7.00% | ~233 |
 | DIY Boss | 6.00% | ~199 |
 | Fulfilled the dream | 6.00% | ~199 |
 | G'Day Mate! | 6.00% | ~199 |
@@ -55,8 +55,8 @@ Number of Ratings: 111  (23.09.2022)
 | Loves You Back | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,320 (Ranked 217)  
-Completed: 2 (0.06%) (Ranked 324)  
+Progressed: 3,323 (Ranked 217)  
+Completed: 2 (0.06%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -276,7 +276,7 @@ Completed: 2 (0.06%) (Ranked 324)
 | 2023-12-19 | 3,283 | 2 |
 | 2023-12-20 | 3,294 | 2 |
 | 2023-12-21 | 3,308 | 2 |
-| 2023-12-22 | 3,320 | 2 |
+| 2023-12-22 | 3,323 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 60  (Ranked 421)  
 Sum: 570 (Ranked 323)  

@@ -2,13 +2,13 @@
   "ID": "af0ea01162704696bebf8633a52a7a6d",
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
-  "Ranking_Rating": 1031,
+  "Ranking_Rating": 1032,
   "Ranking_Popularity": 207,
   "Ranking_PopularitySum": 190,
   "Ranking_EOS_Progress": 96,
-  "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_Completed": 323,
+  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -5175,9 +5175,9 @@
       "Count": 520
     }
   ],
-  "EOS_Progressed": 92337,
+  "EOS_Progressed": 92339,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 413,
+  "EOS_NewPlayers": 414,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -28810,6 +28810,11 @@
       "Time": "2023-12-22T16:04:31.3389177+00:00",
       "NumProgressed": 92337,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-22T17:03:21.1929261+00:00",
+      "NumProgressed": 92339,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -28965,7 +28970,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3693
+      "UsersEstimate": 3694
     },
     {
       "ID": "ACH_0210",
@@ -29148,13 +29153,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 92337,
+      "Progressed": 92339,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 20684,
+      "Progressed": 20686,
       "Completed": 15589
     }
   ],
@@ -29162,8 +29167,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-12-22T13:58:35.4645384+00:00",
-  "LastChanged_Achievements": "2023-12-22T16:04:31.3389174+00:00",
+  "LastChanged_Achievements": "2023-12-22T17:03:21.1929257+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:15.2774722+00:00",
-  "LastUpdate_Ratings": "2023-12-22T15:59:34.063675+00:00",
-  "LastUpdate_Achievements": "2023-12-22T16:04:31.3390578+00:00"
+  "LastUpdate_Ratings": "2023-12-22T16:58:28.7595348+00:00",
+  "LastUpdate_Achievements": "2023-12-22T17:03:21.1930908+00:00"
 }

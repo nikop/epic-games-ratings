@@ -1,7 +1,7 @@
 # Galactic Civilizations IV
 [Store](https://store.epicgames.com/en-US/p/galactic-civilizations-iv)  
 [View Rawdata](../../db/g/galactic_civilizations_iv.json)  
-Rating: 4.17 (Ranked 954)  
+Rating: 4.17 (Ranked 955)  
 Number of Ratings: 429  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -57,6 +57,7 @@ Number of Ratings: 429  (23.09.2022)
 | Play for 100 Hours | 0.10% | ~7 |
 | Play for 5 Hours | 0.10% | ~7 |
 | It's OUR Homeworld | 0.10% | ~7 |
+| Recruit a Leader | 0.10% | ~7 |
 | Commodity Seller, Level 2 | 0.10% | ~7 |
 | Win a Multiplayer Game | 0.10% | ~7 |
 | Solid Economy | 0.00% | ~0 |
@@ -75,7 +76,6 @@ Number of Ratings: 429  (23.09.2022)
 | Play a Multiplayer Game | 0.00% | ~0 |
 | Rebuild the Retribution | 0.00% | ~0 |
 | Recruit a Dozen Leaders | 0.00% | ~0 |
-| Recruit a Leader | 0.00% | ~0 |
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

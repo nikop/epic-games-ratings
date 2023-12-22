@@ -2,10 +2,10 @@
   "ID": "ff1ca89cef474e6fa402c58c29a6258a",
   "Name": "Lifeslide",
   "ProductSlug": "lifeslide",
-  "Ranking_EOS_Progress": 364,
+  "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 489,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 463,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-11-15T19:00:00+00:00",
     "PcReleaseDate": "2021-08-06T12:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 335,
+  "EOS_Progressed": 336,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -139,6 +139,11 @@
       "Time": "2023-12-20T14:03:45.9218303+00:00",
       "NumProgressed": 335,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T17:04:24.623152+00:00",
+      "NumProgressed": 336,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 31,
@@ -156,9 +161,9 @@
       "ID": "ADULTHOOD_REACHED",
       "SetID": "b6f796g",
       "Name": "On The Right Path",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 60
     },
     {
       "ID": "ALL_PLANES _UNLOCKED",
@@ -190,7 +195,7 @@
       "Name": "All Starts Here",
       "Percentage": 96,
       "XP": 20,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "BUILDING_HIDDEN",
@@ -318,7 +323,7 @@
       "Name": "Night Air",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "OLD_AGE_REACHED",
@@ -334,7 +339,7 @@
       "Name": "Second Wind",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "SECOND_WIND_X3",
@@ -374,7 +379,7 @@
       "Name": "Chain of Events",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "YOUNG_ADULTHOOD_REACHED",
@@ -382,7 +387,7 @@
       "Name": "Finding The Way",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ZEN_TRAVEL_10000",
@@ -397,7 +402,7 @@
     {
       "ID": "b6f796g",
       "IsBase": true,
-      "Progressed": 335,
+      "Progressed": 336,
       "Completed": 0
     }
   ],
@@ -405,8 +410,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.7063169+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.5274456+00:00",
   "LastChanged": "2023-03-31T05:57:26.706317+00:00",
-  "LastChanged_Achievements": "2023-12-22T16:05:58.1825084+00:00",
+  "LastChanged_Achievements": "2023-12-22T17:04:24.6231517+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:09.7833488+00:00",
-  "LastUpdate_Ratings": "2023-12-22T15:59:56.7909625+00:00",
-  "LastUpdate_Achievements": "2023-12-22T16:05:58.1825252+00:00"
+  "LastUpdate_Ratings": "2023-12-22T16:58:44.7614548+00:00",
+  "LastUpdate_Achievements": "2023-12-22T17:04:24.623171+00:00"
 }

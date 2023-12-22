@@ -1,47 +1,47 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 1,022)  
+Rating: 3.99 (Ranked 1,023)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 9.00% | ~13,225 |
-| Titan's First Steps | 9.00% | ~13,225 |
+| Sponsored by Argon | 9.00% | ~13,226 |
+| Titan's First Steps | 9.00% | ~13,226 |
 | Basic in Bulk | 8.00% | ~11,756 |
 | Tinkle of Coins | 8.00% | ~11,756 |
 | Disintermediation | 6.00% | ~8,817 |
 | It's Free Real Estate | 6.00% | ~8,817 |
 | Capitalism Ho! | 6.00% | ~8,817 |
-| One Easy Payment | 5.00% | ~7,347 |
-| Some Assembly Required | 5.00% | ~7,347 |
-| Another Satisfied Customer | 5.00% | ~7,347 |
-| Pretty Penny | 5.00% | ~7,347 |
-| Budding Merchant | 5.00% | ~7,347 |
-| Own the Means of Production | 5.00% | ~7,347 |
+| One Easy Payment | 5.00% | ~7,348 |
+| Some Assembly Required | 5.00% | ~7,348 |
+| Another Satisfied Customer | 5.00% | ~7,348 |
+| Pretty Penny | 5.00% | ~7,348 |
+| Budding Merchant | 5.00% | ~7,348 |
+| Own the Means of Production | 5.00% | ~7,348 |
 | The Daily Grind | 4.00% | ~5,878 |
 | Bounty Hunters | 4.00% | ~5,878 |
 | Where it Hurts | 4.00% | ~5,878 |
 | One-Armed Bandit | 4.00% | ~5,878 |
 | Dungeon Imports | 4.00% | ~5,878 |
 | Through Repetition, Perfection | 4.00% | ~5,878 |
-| On the Path to Greatness | 3.00% | ~4,408 |
-| Ascended | 3.00% | ~4,408 |
-| Research & Development | 3.00% | ~4,408 |
-| Vanity, Verily | 3.00% | ~4,408 |
-| Blank Page Syndrome | 3.00% | ~4,408 |
-| Demand for Supplies | 3.00% | ~4,408 |
-| Flooding the Market | 3.00% | ~4,408 |
-| Power of Love | 3.00% | ~4,408 |
-| Efficient Floor Space | 3.00% | ~4,408 |
-| Flawless Fusion | 3.00% | ~4,408 |
-| Gem Expert | 3.00% | ~4,408 |
-| Gild-Gotten Goods | 3.00% | ~4,408 |
-| Helping Hand | 3.00% | ~4,408 |
-| Accomplished Merchant | 3.00% | ~4,408 |
-| Natural 20 | 3.00% | ~4,408 |
-| Did we pack lunch? | 3.00% | ~4,408 |
-| Arcane Industries | 3.00% | ~4,408 |
+| On the Path to Greatness | 3.00% | ~4,409 |
+| Ascended | 3.00% | ~4,409 |
+| Research & Development | 3.00% | ~4,409 |
+| Vanity, Verily | 3.00% | ~4,409 |
+| Blank Page Syndrome | 3.00% | ~4,409 |
+| Demand for Supplies | 3.00% | ~4,409 |
+| Flooding the Market | 3.00% | ~4,409 |
+| Power of Love | 3.00% | ~4,409 |
+| Efficient Floor Space | 3.00% | ~4,409 |
+| Flawless Fusion | 3.00% | ~4,409 |
+| Gem Expert | 3.00% | ~4,409 |
+| Gild-Gotten Goods | 3.00% | ~4,409 |
+| Helping Hand | 3.00% | ~4,409 |
+| Accomplished Merchant | 3.00% | ~4,409 |
+| Natural 20 | 3.00% | ~4,409 |
+| Did we pack lunch? | 3.00% | ~4,409 |
+| Arcane Industries | 3.00% | ~4,409 |
 | A Notch Above the Rest | 2.00% | ~2,939 |
 | Cream of the Crop | 2.00% | ~2,939 |
 | Top of the World | 2.00% | ~2,939 |
@@ -99,13 +99,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Exotic Commodities | 2.00% | ~2,939 |
 | Complete Monopoly | 2.00% | ~2,939 |
 | King's Blade | 2.00% | ~2,939 |
-| The Free Encyclopedia | 1.00% | ~1,469 |
-| Fillin' the Bin | 1.00% | ~1,469 |
-| Thank You Tom Nook | 1.00% | ~1,469 |
-| Jackpot! | 1.00% | ~1,469 |
-| Eternal Crusade | 1.00% | ~1,469 |
-| Economy of Scarce | 1.00% | ~1,469 |
-| All or Nothing! | 0.90% | ~1,322 |
+| The Free Encyclopedia | 1.00% | ~1,470 |
+| Fillin' the Bin | 1.00% | ~1,470 |
+| Thank You Tom Nook | 1.00% | ~1,470 |
+| Jackpot! | 1.00% | ~1,470 |
+| Eternal Crusade | 1.00% | ~1,470 |
+| Economy of Scarce | 1.00% | ~1,470 |
+| All or Nothing! | 0.90% | ~1,323 |
 | The Greatest Grind | 0.80% | ~1,176 |
 | Marvels from the World Over | 0.80% | ~1,176 |
 | Bane of Legends | 0.70% | ~1,029 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~588 |
 | Capitalist Camaraderie | 0.20% | ~294 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 146,944 (Ranked 82)  
+Progressed: 146,952 (Ranked 82)  
 Completed: 329 (0.22%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -365,7 +365,7 @@ Completed: 329 (0.22%) (Ranked 266)
 | 2023-12-19 | 146,428 | 325 |
 | 2023-12-20 | 146,580 | 325 |
 | 2023-12-21 | 146,796 | 328 |
-| 2023-12-22 | 146,944 | 329 |
+| 2023-12-22 | 146,952 | 329 |
 ## Awards
 Max (Great for Beginners): 4,906  (Ranked 75)  
 Sum: 27,779 (Ranked 52)  

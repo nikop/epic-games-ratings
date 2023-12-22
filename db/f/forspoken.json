@@ -2,13 +2,13 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 984,
+  "Ranking_Rating": 985,
   "Ranking_Popularity": 499,
   "Ranking_PopularitySum": 521,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -523,9 +523,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 44766,
+  "EOS_Progressed": 44772,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 882,
+  "EOS_NewPlayers": 881,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16048,6 +16048,11 @@
       "Time": "2023-12-22T16:05:16.0806115+00:00",
       "NumProgressed": 44766,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-22T17:03:53.4725928+00:00",
+      "NumProgressed": 44772,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -16107,7 +16112,7 @@
       "Name": "Attachments",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4924
+      "UsersEstimate": 4925
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -16211,7 +16216,7 @@
       "Name": "Tinkerer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3581
+      "UsersEstimate": 3582
     },
     {
       "ID": "CUFF_ATTACK",
@@ -16219,7 +16224,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2238
+      "UsersEstimate": 2239
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -16275,7 +16280,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2238
+      "UsersEstimate": 2239
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -16315,7 +16320,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2238
+      "UsersEstimate": 2239
     },
     {
       "ID": "MAGIC_IVY",
@@ -16385,9 +16390,9 @@
       "ID": "SKILLTREE_ALL",
       "SetID": "6d0g7k8",
       "Name": "Realized Potential",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 313
+      "UsersEstimate": 269
     },
     {
       "ID": "SKILLTREE_FIRST",
@@ -16482,22 +16487,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 44766,
+      "Progressed": 44772,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 9603,
-      "Completed": 9603
+      "Progressed": 9609,
+      "Completed": 9609
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-21T10:56:56.3222551+00:00",
-  "LastChanged_Achievements": "2023-12-22T16:05:16.0806112+00:00",
+  "LastChanged_Achievements": "2023-12-22T17:03:53.4725927+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:26.7354097+00:00",
-  "LastUpdate_Ratings": "2023-12-22T15:58:20.2028112+00:00",
-  "LastUpdate_Achievements": "2023-12-22T16:05:16.0807068+00:00"
+  "LastUpdate_Ratings": "2023-12-22T16:57:38.0174882+00:00",
+  "LastUpdate_Achievements": "2023-12-22T17:03:53.4726919+00:00"
 }

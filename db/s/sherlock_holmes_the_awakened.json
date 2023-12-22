@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1281,
+  "EOS_Progressed": 1282,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 2.81,
   "EosHistory": [
@@ -4455,6 +4455,11 @@
       "Time": "2023-12-22T13:06:46.3052493+00:00",
       "NumProgressed": 1281,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-12-22T17:03:51.8010317+00:00",
+      "NumProgressed": 1282,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 28,
@@ -4466,7 +4471,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "MQ01_2",
@@ -4474,7 +4479,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "MQ02_1",
@@ -4506,7 +4511,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 51,
       "XP": 40,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "MQ03_1",
@@ -4514,7 +4519,7 @@
       "Name": "Fond Memories",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "MQ03_2",
@@ -4530,7 +4535,7 @@
       "Name": "History Check",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "MQ03_4",
@@ -4554,7 +4559,7 @@
       "Name": "Going Once...",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "MQ04_2",
@@ -4570,7 +4575,7 @@
       "Name": "The New World",
       "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "MQ05_1",
@@ -4634,7 +4639,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "MQ07_1",
@@ -4642,7 +4647,7 @@
       "Name": "Read It And Weep",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "MQ07_2",
@@ -4650,7 +4655,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "MQ08_1",
@@ -4689,7 +4694,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1281,
+      "Progressed": 1282,
       "Completed": 36
     }
   ],
@@ -4697,8 +4702,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-19T11:03:29.5971745+00:00",
-  "LastChanged_Achievements": "2023-12-22T16:05:13.7126858+00:00",
+  "LastChanged_Achievements": "2023-12-22T17:03:51.8010315+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:14.2246919+00:00",
-  "LastUpdate_Ratings": "2023-12-22T16:04:04.6592162+00:00",
-  "LastUpdate_Achievements": "2023-12-22T16:05:13.7127302+00:00"
+  "LastUpdate_Ratings": "2023-12-22T17:03:02.6679235+00:00",
+  "LastUpdate_Achievements": "2023-12-22T17:03:51.8010694+00:00"
 }

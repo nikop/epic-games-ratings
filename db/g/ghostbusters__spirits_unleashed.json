@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 182,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3727,10 +3727,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2921,
       "NumberOfAwardsMax": 324
+    },
+    {
+      "Time": "2023-12-22T17:00:21.5473413+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2922,
+      "NumberOfAwardsMax": 324
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2921,
+  "NumberOfAwards": 2922,
   "NumberOfAwardsMax": 324,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3756,7 +3762,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 320
+      "Count": 321
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3807,9 +3813,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32530,
+  "EOS_Progressed": 32531,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 257,
+  "EOS_NewPlayers": 256,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -23077,6 +23083,11 @@
       "Time": "2023-12-22T16:08:37.1230134+00:00",
       "NumProgressed": 32530,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-22T17:06:22.8183871+00:00",
+      "NumProgressed": 32531,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -23136,7 +23147,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1626
+      "UsersEstimate": 1627
     },
     {
       "ID": "Collector",
@@ -23176,7 +23187,7 @@
       "Name": "Discovery",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1626
+      "UsersEstimate": 1627
     },
     {
       "ID": "Dont_Need_These",
@@ -23224,7 +23235,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1626
+      "UsersEstimate": 1627
     },
     {
       "ID": "GB_In_Training",
@@ -23424,7 +23435,7 @@
       "Name": "Teamwork",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1626
+      "UsersEstimate": 1627
     },
     {
       "ID": "Terrifying",
@@ -23495,16 +23506,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32530,
+      "Progressed": 32531,
       "Completed": 69
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-12-22T15:00:43.9750725+00:00",
-  "LastChanged_Achievements": "2023-12-22T16:08:37.123013+00:00",
+  "LastChanged": "2023-12-22T17:00:21.547341+00:00",
+  "LastChanged_Achievements": "2023-12-22T17:06:22.8183869+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:05.1146147+00:00",
-  "LastUpdate_Ratings": "2023-12-22T16:02:22.2694974+00:00",
-  "LastUpdate_Achievements": "2023-12-22T16:08:37.1231436+00:00"
+  "LastUpdate_Ratings": "2023-12-22T17:00:21.547342+00:00",
+  "LastUpdate_Achievements": "2023-12-22T17:06:22.8185537+00:00"
 }

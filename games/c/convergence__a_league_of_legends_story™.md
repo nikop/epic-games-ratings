@@ -6,11 +6,11 @@ Rating: 4.64 (Ranked 338)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 39.00% | ~415 |
-| Rail Rat | 30.00% | ~319 |
+| Rail Rat | 30.00% | ~320 |
 | The Mysterious Stranger | 29.00% | ~309 |
 | Immaculate Aim | 25.00% | ~266 |
-| The Brass Boss | 24.00% | ~255 |
-| Make Up For Lost Time | 23.00% | ~245 |
+| Make Up For Lost Time | 24.00% | ~256 |
+| The Brass Boss | 24.00% | ~256 |
 | Time Flies | 23.00% | ~245 |
 | No, Thanks! | 23.00% | ~245 |
 | The Prince in Heels | 23.00% | ~245 |
@@ -35,8 +35,8 @@ Rating: 4.64 (Ranked 338)
 | Treasure Trove | 13.00% | ~138 |
 | Family Memories | 13.00% | ~138 |
 | Cartographer | 13.00% | ~138 |
-| Ask Questions Later | 13.00% | ~138 |
 | Chaincrawler Explorer | 12.00% | ~128 |
+| Ask Questions Later | 12.00% | ~128 |
 | Sump Explorer | 11.00% | ~117 |
 | Syron for Hope | 11.00% | ~117 |
 | Factorywood Explorer | 10.00% | ~106 |
@@ -59,7 +59,7 @@ Rating: 4.64 (Ranked 338)
 | Raw Talent | 0.70% | ~7 |
 | Going to Live Forever | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,064 (Ranked 275)  
+Progressed: 1,065 (Ranked 275)  
 Completed: 6 (0.56%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 6 (0.56%) (Ranked 203)
 | 2023-12-19 | 1,037 | 6 |
 | 2023-12-20 | 1,046 | 6 |
 | 2023-12-21 | 1,057 | 6 |
-| 2023-12-22 | 1,064 | 6 |
+| 2023-12-22 | 1,065 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

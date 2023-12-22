@@ -4,7 +4,7 @@
   "ProductSlug": "creepy-tale-058ebd",
   "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 72,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -725,9 +725,9 @@
       "ID": "creepytaleach11",
       "SetID": "bnif31p",
       "Name": "Alchemist",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 75,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "creepytaleach12",
@@ -820,8 +820,8 @@
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2023-12-22T16:11:24.3120997+00:00",
+  "LastChanged_Achievements": "2023-12-22T17:09:45.6166113+00:00",
   "LastUpdate_AppInfo": "2023-12-20T07:56:51.7348534+00:00",
-  "LastUpdate_Ratings": "2023-12-22T15:58:35.4982069+00:00",
-  "LastUpdate_Achievements": "2023-12-22T16:11:24.3121146+00:00"
+  "LastUpdate_Ratings": "2023-12-22T16:57:48.9039892+00:00",
+  "LastUpdate_Achievements": "2023-12-22T17:09:45.6166188+00:00"
 }

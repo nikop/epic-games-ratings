@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 294,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1467,9 +1467,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6578,
+  "EOS_Progressed": 6579,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 214,
+  "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14987,6 +14987,11 @@
       "Time": "2023-12-22T15:05:12.4196051+00:00",
       "NumProgressed": 6578,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-22T17:05:19.540745+00:00",
+      "NumProgressed": 6579,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -15094,7 +15099,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 2894
+      "UsersEstimate": 2895
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -15102,7 +15107,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1052
+      "UsersEstimate": 1053
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -15190,7 +15195,7 @@
       "Name": "I Owe You Nothing",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "ACH_MYWAYS",
@@ -15254,7 +15259,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2960
+      "UsersEstimate": 2961
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -15278,7 +15283,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -15302,7 +15307,7 @@
       "Name": "French Connection",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -15317,15 +15322,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6578,
+      "Progressed": 6579,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-12-21T18:57:32.4771676+00:00",
-  "LastChanged_Achievements": "2023-12-22T16:07:13.1633683+00:00",
+  "LastChanged_Achievements": "2023-12-22T17:05:19.5407447+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:47.7844638+00:00",
-  "LastUpdate_Ratings": "2023-12-22T15:58:49.9102228+00:00",
-  "LastUpdate_Achievements": "2023-12-22T16:07:13.1634616+00:00"
+  "LastUpdate_Ratings": "2023-12-22T16:57:58.8998484+00:00",
+  "LastUpdate_Achievements": "2023-12-22T17:05:19.5408329+00:00"
 }

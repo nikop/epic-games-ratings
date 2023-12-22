@@ -6,38 +6,38 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 37.00% | ~32,201 |
-| Final touch | 34.00% | ~29,590 |
-| Prop-M Rover | 32.00% | ~27,850 |
-| Changing the Planet | 28.00% | ~24,368 |
-| Sojourner | 26.00% | ~22,628 |
-| New Home | 23.00% | ~20,017 |
-| Beagle 2 | 23.00% | ~20,017 |
-| Winner Winner Terraformer | 21.00% | ~18,276 |
-| Project Manager | 19.00% | ~16,536 |
-| Curiosity | 19.00% | ~16,536 |
-| Collector | 19.00% | ~16,536 |
-| No Longer Red | 18.00% | ~15,665 |
-| Master | 18.00% | ~15,665 |
-| Self-sufficient | 17.00% | ~14,795 |
-| Money money | 15.00% | ~13,054 |
-| Biggest Reward | 14.00% | ~12,184 |
-| First Journey | 13.00% | ~11,314 |
+| It's a steal! | 37.00% | ~32,203 |
+| Final touch | 34.00% | ~29,592 |
+| Prop-M Rover | 32.00% | ~27,852 |
+| Changing the Planet | 28.00% | ~24,370 |
+| Sojourner | 26.00% | ~22,629 |
+| New Home | 23.00% | ~20,018 |
+| Beagle 2 | 23.00% | ~20,018 |
+| Winner Winner Terraformer | 21.00% | ~18,278 |
+| Project Manager | 19.00% | ~16,537 |
+| Curiosity | 19.00% | ~16,537 |
+| Collector | 19.00% | ~16,537 |
+| No Longer Red | 18.00% | ~15,666 |
+| Master | 18.00% | ~15,666 |
+| Self-sufficient | 17.00% | ~14,796 |
+| Money money | 15.00% | ~13,055 |
+| Biggest Reward | 14.00% | ~12,185 |
+| First Journey | 13.00% | ~11,315 |
 | Acquired knowledge | 12.00% | ~10,444 |
-| Landlord | 11.00% | ~9,573 |
-| Most Achievements | 11.00% | ~9,573 |
-| Hellenic Elysium | 11.00% | ~9,573 |
-| Grand champion | 11.00% | ~9,573 |
-| Spirit | 10.00% | ~8,703 |
-| Ultimate success | 10.00% | ~8,703 |
+| Landlord | 11.00% | ~9,574 |
+| Most Achievements | 11.00% | ~9,574 |
+| Hellenic Elysium | 11.00% | ~9,574 |
+| Grand champion | 11.00% | ~9,574 |
+| Spirit | 10.00% | ~8,704 |
+| Ultimate success | 10.00% | ~8,704 |
 | Variety Expert | 9.00% | ~7,833 |
-| Frequent tester | 8.00% | ~6,962 |
-| Determined | 7.00% | ~6,092 |
+| Frequent tester | 8.00% | ~6,963 |
+| Determined | 7.00% | ~6,093 |
 | Terraformer | 4.00% | ~3,481 |
 | Team Effort | 3.00% | ~2,611 |
 | Opportunity | 3.00% | ~2,611 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,030 (Ranked 98)  
+Progressed: 87,036 (Ranked 98)  
 Completed: 176 (0.20%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 176 (0.20%) (Ranked 270)
 | 2023-12-19 | 86,714 | 175 |
 | 2023-12-20 | 86,829 | 176 |
 | 2023-12-21 | 86,959 | 176 |
-| 2023-12-22 | 87,030 | 176 |
+| 2023-12-22 | 87,036 | 176 |
 ## Awards
 Max (Relaxing): 532  (Ranked 211)  
 Sum: 3,305 (Ranked 173)  

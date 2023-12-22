@@ -2,13 +2,13 @@
   "ID": "03fd634dc7f24662ac5545277b89a826",
   "Name": "The Uncertain: Light at the End",
   "ProductSlug": "the-uncertain-light-at-the-end",
-  "Ranking_Rating": 1051,
+  "Ranking_Rating": 1052,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 374,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -83,11 +83,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 597,
+  "EOS_Progressed": 598,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.01,
+  "EOS_Completed_Percentage": 1,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:44.5175392+00:00",
@@ -1063,6 +1063,11 @@
       "Time": "2023-12-22T14:08:07.2962809+00:00",
       "NumProgressed": 597,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-22T17:08:10.7137786+00:00",
+      "NumProgressed": 598,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1162,7 +1167,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "Hitman",
@@ -1192,9 +1197,9 @@
       "ID": "Left_Behind",
       "SetID": "ek310c",
       "Name": "A Friend in Need...",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 269
     },
     {
       "ID": "Leisurely_Strol",
@@ -1290,7 +1295,7 @@
       "Name": "Beat the Heat",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "Unforeseen_Consequences",
@@ -1305,7 +1310,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 597,
+      "Progressed": 598,
       "Completed": 6
     }
   ],
@@ -1313,8 +1318,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-12-22T16:09:28.1709611+00:00",
+  "LastChanged_Achievements": "2023-12-22T17:08:10.7137784+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:57:02.9075222+00:00",
-  "LastUpdate_Ratings": "2023-12-22T16:04:20.5653952+00:00",
-  "LastUpdate_Achievements": "2023-12-22T16:09:28.1709794+00:00"
+  "LastUpdate_Ratings": "2023-12-22T17:03:13.5754322+00:00",
+  "LastUpdate_Achievements": "2023-12-22T17:08:10.7138002+00:00"
 }

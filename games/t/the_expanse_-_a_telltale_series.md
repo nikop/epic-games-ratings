@@ -5,20 +5,20 @@ Rating: 4.54 (Ranked 533)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 14.00% | ~2,391 |
+| Oyedang, Kopengs | 14.00% | ~2,392 |
 | Captain Drummer | 10.00% | ~1,708 |
 | Celebrations are in Order | 10.00% | ~1,708 |
-| The Pit and the Pirates | 9.00% | ~1,537 |
-| Martian Music | 9.00% | ~1,537 |
-| Drone Dodger | 9.00% | ~1,537 |
-| Bosmang | 9.00% | ~1,537 |
-| Impossible Objects | 9.00% | ~1,537 |
-| Stogie for Fogey | 8.00% | ~1,366 |
-| Spore Taste | 8.00% | ~1,366 |
+| The Pit and the Pirates | 9.00% | ~1,538 |
+| Martian Music | 9.00% | ~1,538 |
+| Drone Dodger | 9.00% | ~1,538 |
+| Bosmang | 9.00% | ~1,538 |
+| Impossible Objects | 9.00% | ~1,538 |
+| Stogie for Fogey | 8.00% | ~1,367 |
+| Spore Taste | 8.00% | ~1,367 |
 | Safe Cracker | 8.00% | ~243 |
 | Zen Master | 8.00% | ~243 |
 | Call it Even | 7.00% | ~1,196 |
-| Madame Undersecretary | 7.00% | ~212 |
+| Madame Undersecretary | 7.00% | ~213 |
 | Drug Gifter | 6.00% | ~1,025 |
 | Heal Thy Medic | 6.00% | ~1,025 |
 | Keep Arjun in Check | 6.00% | ~182 |
@@ -28,8 +28,8 @@ Rating: 4.54 (Ranked 533)
 | Master Negotiator | 5.00% | ~152 |
 | Doctor Approved | 4.00% | ~683 |
 | Bottoms up! | 4.00% | ~683 |
-| Data Logger | 3.00% | ~512 |
-| Miraculous Maya | 3.00% | ~512 |
+| Data Logger | 3.00% | ~513 |
+| Miraculous Maya | 3.00% | ~513 |
 | No Belter Left Behind | 2.00% | ~342 |
 | Data Master | 2.00% | ~342 |
 | Brother's Reaper | 1.00% | ~171 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 533)
 | Scavenger Star | 0.20% | ~34 |
 | Data Collector | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,080 (Ranked 154)  
+Progressed: 17,085 (Ranked 155)  
 Completed: 47 (0.28%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 47 (0.28%) (Ranked 253)
 | 2023-12-19 | 16,865 | 45 |
 | 2023-12-20 | 16,946 | 46 |
 | 2023-12-21 | 17,033 | 46 |
-| 2023-12-22 | 17,080 | 47 |
+| 2023-12-22 | 17,085 | 47 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

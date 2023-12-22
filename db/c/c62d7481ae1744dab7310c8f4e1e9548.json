@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 434,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewPlayers": 312,
   "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 141,
+  "EOS_Progressed": 142,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 7.09,
+  "EOS_Completed_Percentage": 7.04,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -734,6 +734,11 @@
       "Time": "2023-12-22T09:08:03.0687534+00:00",
       "NumProgressed": 141,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-22T17:03:16.1262093+00:00",
+      "NumProgressed": 142,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -746,7 +751,7 @@
       "Name": "Woodworm",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Cikady",
@@ -786,7 +791,7 @@
       "Name": "Mushrooms",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Jing",
@@ -834,7 +839,7 @@
       "Name": "Blossoms",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "MluviciPapouch",
@@ -842,7 +847,7 @@
       "Name": "Mimicking Parrot",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Myska",
@@ -866,7 +871,7 @@
       "Name": "Liana Bats",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Pejsek",
@@ -920,9 +925,9 @@
       "ID": "Sputnik2",
       "SetID": "ag48e8e",
       "Name": "Sputnik",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 36
     },
     {
       "ID": "Stonozka",
@@ -930,15 +935,15 @@
       "Name": "Centipede",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Strom",
       "SetID": "ag48e8e",
       "Name": "Sprouting Tree",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "Termit",
@@ -946,7 +951,7 @@
       "Name": "Saint Termite",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "Truhlice",
@@ -962,7 +967,7 @@
       "Name": "Rockheads",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Zelvak",
@@ -985,14 +990,14 @@
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 141,
+      "Progressed": 142,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-12-22T16:04:24.2708034+00:00",
+  "LastChanged_Achievements": "2023-12-22T17:03:16.1262083+00:00",
   "LastUpdate_AppInfo": "2023-12-16T05:57:11.9485544+00:00",
-  "LastUpdate_Ratings": "2023-12-22T16:03:42.5264357+00:00",
-  "LastUpdate_Achievements": "2023-12-22T16:04:24.2725724+00:00"
+  "LastUpdate_Ratings": "2023-12-22T17:02:47.1015886+00:00",
+  "LastUpdate_Achievements": "2023-12-22T17:03:16.1278813+00:00"
 }

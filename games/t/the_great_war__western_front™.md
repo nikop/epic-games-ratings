@@ -1,11 +1,11 @@
 # The Great War: Western Front™
 [Store](https://store.epicgames.com/en-US/p/the-great-war-western-front)  
 [View Rawdata](../../db/t/the_great_war__western_front™.json)  
-Rating: 4.03 (Ranked 1,012)  
+Rating: 4.03 (Ranked 1,013)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Earth Shattering | 46.00% | ~333 |
+| Earth Shattering | 46.00% | ~334 |
 | La Der des Ders | 15.00% | ~109 |
 | Das Ist Endgültig! | 15.00% | ~109 |
 | From the Pages of History | 8.00% | ~58 |
@@ -18,7 +18,7 @@ Rating: 4.03 (Ranked 1,012)
 | Eventful | 0.00% | ~0 |
 | Generalissimo | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 724 (Ranked 297)  
+Progressed: 725 (Ranked 297)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-19 | 688 | 0 |
 | 2023-12-20 | 707 | 0 |
 | 2023-12-21 | 717 | 0 |
-| 2023-12-22 | 724 | 0 |
+| 2023-12-22 | 725 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

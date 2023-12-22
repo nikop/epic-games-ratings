@@ -7,7 +7,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Steps | 1.00% | ~2,415 |
-| Matching | 1.00% | ~29 |
+| Matching | 1.00% | ~30 |
 | Uncharted Territory | 0.90% | ~2,173 |
 | Getting A Glimpse | 0.80% | ~1,932 |
 | A Quick Escape | 0.80% | ~1,932 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,469 (Ranked 67)  
+Progressed: 241,470 (Ranked 67)  
 Completed: 300 (0.12%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -391,10 +391,10 @@ Completed: 300 (0.12%) (Ranked 296)
 | 2023-12-19 | 241,311 | 300 |
 | 2023-12-20 | 241,359 | 300 |
 | 2023-12-21 | 241,432 | 300 |
-| 2023-12-22 | 241,469 | 300 |
+| 2023-12-22 | 241,470 | 300 |
 ## Awards
 Max (Quickly Understood Controls): 1,511  (Ranked 134)  
-Sum: 11,752 (Ranked 88)  
+Sum: 11,753 (Ranked 88)  
 Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
@@ -405,7 +405,7 @@ Diff (max vs sum): 46
 | This game is Extremely Fun | 1,421 |
 | This game is Highly Recommended | 1,391 |
 | This game has Amazing Storytelling | 1,329 |
-| This game has Amazing Characters | 1,232 |
+| This game has Amazing Characters | 1,233 |
 | This game has Unique Visuals | 1,232 |
 | This game has Obsessive Gameplay | 1,088 |
 | This game has a Creative Community | 747 |
@@ -650,4 +650,4 @@ Diff (max vs sum): 46
 | 2023-12-19 | 4.58 | - | 1,511 | 11,746 |
 | 2023-12-20 | 4.58 | - | 1,511 | 11,749 |
 | 2023-12-21 | 4.58 | - | 1,511 | 11,751 |
-| 2023-12-22 | 4.58 | - | 1,511 | 11,752 |
+| 2023-12-22 | 4.58 | - | 1,511 | 11,753 |

@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Master trainee | 41.00% | ~25 |
-| You have three wishes left | 36.00% | ~22 |
-| Jung's dream | 28.00% | ~17 |
-| The battle of Great Britain | 28.00% | ~17 |
-| Pulp! Where Monsters Dwell | 25.00% | ~15 |
-| A continent with chemistry | 20.00% | ~12 |
+| Master trainee | 40.00% | ~25 |
+| You have three wishes left | 35.00% | ~22 |
+| Jung's dream | 27.00% | ~17 |
+| The battle of Great Britain | 27.00% | ~17 |
+| Pulp! Where Monsters Dwell | 24.00% | ~15 |
+| A continent with chemistry | 19.00% | ~12 |
 | Giant | 18.00% | ~11 |
 | The happy farmer girl | 18.00% | ~11 |
 | Pulp! Terror Tales in the Night | 16.00% | ~10 |
@@ -34,10 +34,10 @@
 | Blood Red Island | 8.00% | ~5 |
 | The adventurer | 8.00% | ~5 |
 | Pulp! The Beyond | 8.00% | ~5 |
-| Blessed antennas | 7.00% | ~4 |
-| The beast in the Oval Office | 7.00% | ~4 |
-| The scholar | 7.00% | ~4 |
-| Pulp! True Adventures | 7.00% | ~4 |
+| Blessed antennas | 6.00% | ~4 |
+| The beast in the Oval Office | 6.00% | ~4 |
+| The scholar | 6.00% | ~4 |
+| Pulp! True Adventures | 6.00% | ~4 |
 | America had no Faith | 5.00% | ~3 |
 | Vaccine fans | 5.00% | ~3 |
 | Pulp! Weird Science | 3.00% | ~2 |
@@ -52,7 +52,7 @@
 | Pulp! Skeleton Hand | 2.00% | ~1 |
 | Pulp! The Vault of Horror | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61 (Ranked 516)  
+Progressed: 62 (Ranked 516)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,3 +89,4 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-16 | 58 | 0 |
 | 2023-12-17 | 60 | 0 |
 | 2023-12-18 | 61 | 0 |
+| 2023-12-22 | 62 | 0 |

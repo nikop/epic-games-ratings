@@ -2,13 +2,13 @@
   "ID": "8ff186a4415d4ce6b5a287ccfd11cf04",
   "Name": "Core",
   "ProductSlug": "core",
-  "Ranking_Rating": 805,
+  "Ranking_Rating": 795,
   "Ranking_Popularity": 178,
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 814,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 565,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR, CN"
     }
   },
-  "Rating": 4.35,
+  "Rating": 4.36,
   "NumberOfRatings": 1439,
   "RatingHistory": [
     {
@@ -2574,10 +2574,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 2184,
       "NumberOfAwardsMax": 776
+    },
+    {
+      "Time": "2023-12-22T16:57:45.340532+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 2185,
+      "NumberOfAwardsMax": 776
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2184,
+  "NumberOfAwards": 2185,
   "NumberOfAwardsMax": 776,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2639,7 +2645,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 122
+      "Count": 123
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2671,8 +2677,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:10.3468578+00:00",
-  "LastChanged": "2023-12-19T20:00:56.9660053+00:00",
+  "LastChanged": "2023-12-22T16:57:45.3405318+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:36.6580588+00:00",
-  "LastUpdate_Ratings": "2023-12-22T15:58:30.9163611+00:00",
-  "LastUpdate_Achievements": "2023-12-22T16:06:57.3142253+00:00"
+  "LastUpdate_Ratings": "2023-12-22T16:57:45.3405324+00:00",
+  "LastUpdate_Achievements": "2023-12-22T17:05:07.6654665+00:00"
 }

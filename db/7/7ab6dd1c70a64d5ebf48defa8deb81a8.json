@@ -4,8 +4,8 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1041,
+  "EOS_Progressed": 1044,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 585,
+  "EOS_NewPlayers": 583,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -2090,6 +2090,11 @@
       "Time": "2023-12-22T16:11:31.0797206+00:00",
       "NumProgressed": 1041,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-22T17:09:51.1254994+00:00",
+      "NumProgressed": 1044,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2101,7 +2106,7 @@
       "Name": "Break Out",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 541
+      "UsersEstimate": 543
     },
     {
       "ID": "ACH_02",
@@ -2109,7 +2114,7 @@
       "Name": "Find Allies",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH_03",
@@ -2157,7 +2162,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH_09",
@@ -2165,7 +2170,7 @@
       "Name": "The Mentor",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_10",
@@ -2173,7 +2178,7 @@
       "Name": "Trinity",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH_11",
@@ -2213,7 +2218,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "ACH_16",
@@ -2317,7 +2322,7 @@
       "Name": "I Found It",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH_29",
@@ -2333,15 +2338,15 @@
       "Name": "Alchemist",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH_31",
       "SetID": "efe2lj",
       "Name": "Stone Collection",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 156
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_33",
@@ -2357,7 +2362,7 @@
       "Name": "The Collector",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH_35",
@@ -2388,14 +2393,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1041,
+      "Progressed": 1044,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-22T16:11:31.0797202+00:00",
+  "LastChanged_Achievements": "2023-12-22T17:09:51.1254991+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
-  "LastUpdate_Ratings": "2023-12-22T15:59:37.6898744+00:00",
-  "LastUpdate_Achievements": "2023-12-22T16:11:31.0797581+00:00"
+  "LastUpdate_Ratings": "2023-12-22T16:58:31.7800685+00:00",
+  "LastUpdate_Achievements": "2023-12-22T17:09:51.125531+00:00"
 }

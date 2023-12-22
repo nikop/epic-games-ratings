@@ -2,12 +2,12 @@
   "ID": "4d8b727a49144090b103f6b6ba471e71",
   "Name": "Hundred Days - Winemaking Simulator",
   "ProductSlug": "hundred-days-winemaking-simulator",
-  "Ranking_Rating": 805,
+  "Ranking_Rating": 806,
   "Ranking_Popularity": 290,
   "Ranking_PopularitySum": 223,
-  "Ranking_EOS_Progress": 155,
-  "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_Progress": 156,
+  "Ranking_EOS_Completed": 315,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
@@ -1081,9 +1081,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 17002,
+  "EOS_Progressed": 17015,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 962,
+  "EOS_NewPlayers": 969,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -14516,6 +14516,11 @@
       "Time": "2023-12-22T16:10:54.5383166+00:00",
       "NumProgressed": 17002,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-22T17:09:23.8634524+00:00",
+      "NumProgressed": 17015,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -14528,7 +14533,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1700
+      "UsersEstimate": 1702
     },
     {
       "ID": "a_10",
@@ -14576,7 +14581,7 @@
       "Name": "Bye Bye",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 7141
+      "UsersEstimate": 7146
     },
     {
       "ID": "a_19",
@@ -14584,7 +14589,7 @@
       "Name": "Bonjour!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1360
+      "UsersEstimate": 1361
     },
     {
       "ID": "a_2",
@@ -14592,7 +14597,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "a_20",
@@ -14600,7 +14605,7 @@
       "Name": "The Assistant",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1021
     },
     {
       "ID": "a_21",
@@ -14608,7 +14613,7 @@
       "Name": "The Blue Marl",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1021
     },
     {
       "ID": "a_22",
@@ -14616,7 +14621,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "a_23",
@@ -14624,7 +14629,7 @@
       "Name": "Quack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1360
+      "UsersEstimate": 1361
     },
     {
       "ID": "a_25",
@@ -14632,7 +14637,7 @@
       "Name": "Better than nothing?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "a_26",
@@ -14775,7 +14780,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 17002,
+      "Progressed": 17015,
       "Completed": 13
     }
   ],
@@ -14783,8 +14788,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-12-20T04:59:26.9581914+00:00",
-  "LastChanged_Achievements": "2023-12-22T16:10:54.5383162+00:00",
+  "LastChanged_Achievements": "2023-12-22T17:09:23.8634522+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:03.7853176+00:00",
-  "LastUpdate_Ratings": "2023-12-22T16:01:58.0251435+00:00",
-  "LastUpdate_Achievements": "2023-12-22T16:10:54.5383987+00:00"
+  "LastUpdate_Ratings": "2023-12-22T17:00:05.4514134+00:00",
+  "LastUpdate_Achievements": "2023-12-22T17:09:23.8635255+00:00"
 }

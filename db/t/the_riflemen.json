@@ -2,12 +2,12 @@
   "ID": "f76d927e6a344026a1cdd6b44b52c055",
   "Name": "The Riflemen",
   "ProductSlug": "the-riflemen-8be608",
-  "Ranking_Rating": 771,
+  "Ranking_Rating": 732,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 24,
-  "Ranking_EOS_NewPlayers": 39,
+  "Ranking_EOS_NewPlayers": 40,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-09-28T03:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.38,
+  "Rating": 4.41,
   "RatingHistory": [
     {
       "Time": "2023-10-20T10:59:47.6628887+00:00",
@@ -173,17 +173,23 @@
       "Rating": 4.38,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-22T16:58:17.8081488+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 59721,
+  "EOS_Progressed": 59743,
   "EOS_Completed": 11760,
-  "EOS_NewPlayers": 4747,
+  "EOS_NewPlayers": 4742,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 19.69,
+  "EOS_Completed_Percentage": 19.68,
   "EosHistory": [
     {
       "Time": "2023-08-15T10:06:43.8267441+00:00",
@@ -13834,6 +13840,11 @@
       "Time": "2023-12-22T16:10:34.4844638+00:00",
       "NumProgressed": 59721,
       "NumCompleted": 11760
+    },
+    {
+      "Time": "2023-12-22T17:09:08.8329507+00:00",
+      "NumProgressed": 59743,
+      "NumCompleted": 11760
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -13854,7 +13865,7 @@
       "Name": "First blood",
       "Percentage": 74,
       "XP": 25,
-      "UsersEstimate": 44194
+      "UsersEstimate": 44210
     },
     {
       "ID": "grenadeKills",
@@ -13870,7 +13881,7 @@
       "Name": "Head popping I",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 2389
+      "UsersEstimate": 2390
     },
     {
       "ID": "headshots1000",
@@ -13957,16 +13968,16 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 59721,
+      "Progressed": 59743,
       "Completed": 11760
     }
   ],
   "FirstSeen": "2023-09-28T12:00:24.9112474+00:00",
   "FirstSeenRating": "2023-10-20T10:59:47.6628885+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
-  "LastChanged": "2023-12-21T16:58:00.7933274+00:00",
-  "LastChanged_Achievements": "2023-12-22T16:10:34.4844634+00:00",
+  "LastChanged": "2023-12-22T16:58:17.8081486+00:00",
+  "LastChanged_Achievements": "2023-12-22T17:09:08.8329504+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:56:56.3892904+00:00",
-  "LastUpdate_Ratings": "2023-12-22T15:59:18.1041652+00:00",
-  "LastUpdate_Achievements": "2023-12-22T16:10:34.4845379+00:00"
+  "LastUpdate_Ratings": "2023-12-22T16:58:17.8081491+00:00",
+  "LastUpdate_Achievements": "2023-12-22T17:09:08.8330322+00:00"
 }

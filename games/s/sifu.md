@@ -6,15 +6,15 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 3.00% | ~22,202 |
-| The Assault | 3.00% | ~22,202 |
-| Life is your teacher | 3.00% | ~22,202 |
-| Lightning Hands | 3.00% | ~22,202 |
-| The Hateful Pole Fighter | 2.00% | ~14,801 |
-| Street Fighting | 2.00% | ~14,801 |
-| State of constant learning | 2.00% | ~14,801 |
-| Qi Gong: Essence | 2.00% | ~14,801 |
-| Old Child | 2.00% | ~14,801 |
+| The Old Grandmaster | 3.00% | ~22,204 |
+| The Assault | 3.00% | ~22,204 |
+| Life is your teacher | 3.00% | ~22,204 |
+| Lightning Hands | 3.00% | ~22,204 |
+| The Hateful Pole Fighter | 2.00% | ~14,803 |
+| Street Fighting | 2.00% | ~14,803 |
+| State of constant learning | 2.00% | ~14,803 |
+| Qi Gong: Essence | 2.00% | ~14,803 |
+| Old Child | 2.00% | ~14,803 |
 | A Lady's Blood in the Snow | 1.00% | ~7,401 |
 | Lady Wing Chun | 1.00% | ~7,401 |
 | Furious Fists | 1.00% | ~7,401 |
@@ -29,17 +29,17 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Mind | 0.90% | ~6,661 |
 | Take damage to save time | 0.90% | ~6,661 |
 | Kung-Fu Tussle | 0.80% | ~5,921 |
-| Scareless | 0.70% | ~5,180 |
-| Dance of the Praying Mantis | 0.70% | ~5,180 |
+| Scareless | 0.70% | ~5,181 |
+| Dance of the Praying Mantis | 0.70% | ~5,181 |
 | Fight the way you practice | 0.70% | ~346 |
-| Martial Hub | 0.60% | ~296 |
+| Martial Hub | 0.60% | ~297 |
 | Bloody Sport | 0.50% | ~247 |
-| Muk Yan Master | 0.40% | ~2,960 |
-| Tiger on Fire | 0.40% | ~2,960 |
-| Source of Flying Daggers | 0.40% | ~2,960 |
-| Iron Money | 0.40% | ~2,960 |
-| Detective Story | 0.40% | ~2,960 |
-| Sword Stained With Blood | 0.40% | ~2,960 |
+| Muk Yan Master | 0.40% | ~2,961 |
+| Tiger on Fire | 0.40% | ~2,961 |
+| Source of Flying Daggers | 0.40% | ~2,961 |
+| Iron Money | 0.40% | ~2,961 |
+| Detective Story | 0.40% | ~2,961 |
+| Sword Stained With Blood | 0.40% | ~2,961 |
 | Legendary Talismans of Wuxing | 0.30% | ~2,220 |
 | Prodigal Child | 0.30% | ~2,220 |
 | The 36th Chamber of Kung-Fu | 0.30% | ~2,220 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~49 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~49 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 740,069 (Ranked 23)  
+Progressed: 740,137 (Ranked 23)  
 Completed: 12,959 (1.75%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 12,959 (1.75%) (Ranked 140)
 | 2023-12-19 | 736,295 | 12,958 |
 | 2023-12-20 | 737,594 | 12,958 |
 | 2023-12-21 | 738,913 | 12,958 |
-| 2023-12-22 | 740,069 | 12,959 |
+| 2023-12-22 | 740,137 | 12,959 |
 ## Awards
 Max (Great Boss Battles): 6,978  (Ranked 55)  
 Sum: 11,803 (Ranked 87)  

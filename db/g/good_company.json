@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 353,
-  "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -188,7 +188,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5716,
+  "EOS_Progressed": 5717,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
@@ -4888,6 +4888,11 @@
       "Time": "2023-12-21T21:08:32.6270306+00:00",
       "NumProgressed": 5716,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-22T17:08:11.9786673+00:00",
+      "NumProgressed": 5717,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -4931,7 +4936,7 @@
       "Name": "Campaign: Lesson Learned",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ach_campaign_chapter2",
@@ -4995,7 +5000,7 @@
       "Name": "Level: Bet On Bots",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ach_campaign_progress4",
@@ -5019,7 +5024,7 @@
       "Name": "Level: Rising Markets",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "ach_campaign_progress7",
@@ -5267,7 +5272,7 @@
       "Name": "Modular Performance",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ach_frp_many_modules3",
@@ -5291,7 +5296,7 @@
       "Name": "Salesperson",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ach_frp_many_products3",
@@ -5506,15 +5511,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5716,
+      "Progressed": 5717,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-12-22T16:09:29.3987747+00:00",
+  "LastChanged_Achievements": "2023-12-22T17:08:11.978667+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:04.2667134+00:00",
-  "LastUpdate_Ratings": "2023-12-22T15:59:53.7784361+00:00",
-  "LastUpdate_Achievements": "2023-12-22T16:09:29.3988613+00:00"
+  "LastUpdate_Ratings": "2023-12-22T16:58:42.6532999+00:00",
+  "LastUpdate_Achievements": "2023-12-22T17:08:11.9787434+00:00"
 }

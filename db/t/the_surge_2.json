@@ -2,13 +2,13 @@
   "ID": "effee7c2775148e9a99f5685d29751d2",
   "Name": "The Surge 2",
   "ProductSlug": "the-surge-2-e7df70",
-  "Ranking_Rating": 886,
+  "Ranking_Rating": 887,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -288,7 +288,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2336,
+  "EOS_Progressed": 2337,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
@@ -3738,6 +3738,11 @@
       "Time": "2023-12-22T15:06:30.515143+00:00",
       "NumProgressed": 2336,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-22T17:07:44.6944336+00:00",
+      "NumProgressed": 2337,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3757,7 +3762,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1518
+      "UsersEstimate": 1519
     },
     {
       "ID": "ACHV_03",
@@ -3765,7 +3770,7 @@
       "Name": "Dead Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "ACHV_04",
@@ -3789,7 +3794,7 @@
       "Name": "Home Invasion",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "ACHV_07",
@@ -3949,7 +3954,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1845
+      "UsersEstimate": 1846
     },
     {
       "ID": "ACHV_27",
@@ -4029,7 +4034,7 @@
       "Name": "Can\u0027t Trust Banks",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "ACHV_37",
@@ -4053,7 +4058,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1775
+      "UsersEstimate": 1776
     },
     {
       "ID": "ACHV_40",
@@ -4204,7 +4209,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2336,
+      "Progressed": 2337,
       "Completed": 13
     }
   ],
@@ -4212,8 +4217,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-17T06:57:54.8643494+00:00",
-  "LastChanged_Achievements": "2023-12-22T16:08:52.6869486+00:00",
+  "LastChanged_Achievements": "2023-12-22T17:07:44.6944333+00:00",
   "LastUpdate_AppInfo": "2023-12-16T16:57:00.284762+00:00",
   "LastUpdate_Ratings": "2023-12-22T16:03:21.9409605+00:00",
-  "LastUpdate_Achievements": "2023-12-22T16:08:52.6870064+00:00"
+  "LastUpdate_Achievements": "2023-12-22T17:07:44.6944807+00:00"
 }

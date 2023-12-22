@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -45,7 +45,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1064,
+  "EOS_Progressed": 1065,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
@@ -2975,6 +2975,11 @@
       "Time": "2023-12-22T13:12:44.6982401+00:00",
       "NumProgressed": 1064,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-22T17:09:44.0839819+00:00",
+      "NumProgressed": 1065,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3146,7 +3151,7 @@
       "Name": "Rail Rat",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "HexlockGift",
@@ -3176,9 +3181,9 @@
       "ID": "LacunaCompleted",
       "SetID": "a9e499d",
       "Name": "Make Up For Lost Time",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 245
+      "UsersEstimate": 256
     },
     {
       "ID": "MapCompletion1",
@@ -3376,9 +3381,9 @@
       "ID": "WatcherFought",
       "SetID": "a9e499d",
       "Name": "Ask Questions Later",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 128
     },
     {
       "ID": "WatcherSpared",
@@ -3394,7 +3399,7 @@
       "Name": "The Brass Boss",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "Zarkon2Defeated",
@@ -3409,7 +3414,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1064,
+      "Progressed": 1065,
       "Completed": 6
     }
   ],
@@ -3417,8 +3422,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-18T08:57:59.1291337+00:00",
-  "LastChanged_Achievements": "2023-12-22T16:11:22.3241566+00:00",
+  "LastChanged_Achievements": "2023-12-22T17:09:44.0839817+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.1550939+00:00",
-  "LastUpdate_Ratings": "2023-12-22T16:02:08.3860995+00:00",
-  "LastUpdate_Achievements": "2023-12-22T16:11:22.3241979+00:00"
+  "LastUpdate_Ratings": "2023-12-22T17:00:12.3824181+00:00",
+  "LastUpdate_Achievements": "2023-12-22T17:09:44.084025+00:00"
 }

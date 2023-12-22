@@ -6,14 +6,14 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~13,854 |
-| Finding Your Footing | 25.00% | ~12,828 |
-| Nomad | 17.00% | ~8,723 |
-| Picking Up Speed | 15.00% | ~7,697 |
-| Welcome Maya | 14.00% | ~7,184 |
-| Scout | 11.00% | ~5,644 |
-| Sightseer | 11.00% | ~5,644 |
-| Amateur | 10.00% | ~5,131 |
+| Rookie | 27.00% | ~13,856 |
+| Finding Your Footing | 25.00% | ~12,830 |
+| Nomad | 17.00% | ~8,724 |
+| Picking Up Speed | 15.00% | ~7,698 |
+| Welcome Maya | 14.00% | ~7,185 |
+| Scout | 11.00% | ~5,645 |
+| Sightseer | 11.00% | ~5,645 |
+| Amateur | 10.00% | ~5,132 |
 | Unlock Maya | 8.00% | ~4,105 |
 | Wanderer | 8.00% | ~4,105 |
 | Enter Paz | 7.00% | ~3,592 |
@@ -21,12 +21,12 @@ Number of Ratings: 332  (23.09.2022)
 | My Little Friend | 5.00% | ~2,566 |
 | One With The Board | 5.00% | ~2,566 |
 | Voyager | 5.00% | ~2,566 |
-| Junkie | 3.00% | ~1,539 |
-| Traveler | 3.00% | ~1,539 |
-| Unlock Paz | 3.00% | ~1,539 |
-| Human Flight | 3.00% | ~1,539 |
-| Sandboarder | 3.00% | ~1,539 |
-| Izel Has Arrived | 3.00% | ~1,539 |
+| Junkie | 3.00% | ~1,540 |
+| Traveler | 3.00% | ~1,540 |
+| Unlock Paz | 3.00% | ~1,540 |
+| Human Flight | 3.00% | ~1,540 |
+| Sandboarder | 3.00% | ~1,540 |
+| Izel Has Arrived | 3.00% | ~1,540 |
 | Explorer | 2.00% | ~1,026 |
 | Pro | 2.00% | ~1,026 |
 | Journeyer | 2.00% | ~1,026 |
@@ -37,7 +37,7 @@ Number of Ratings: 332  (23.09.2022)
 | Introducing Sumara | 1.00% | ~513 |
 | Vandal | 1.00% | ~513 |
 | Unlock Felipe | 0.90% | ~462 |
-| Adventurer | 0.80% | ~410 |
+| Adventurer | 0.80% | ~411 |
 | Unlock Tupa | 0.50% | ~257 |
 | Master Of The Sands | 0.30% | ~154 |
 | Master | 0.20% | ~103 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~51 |
 | Windswept | 0.10% | ~51 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,311 (Ranked 118)  
+Progressed: 51,318 (Ranked 118)  
 Completed: 5 (0.01%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 5 (0.01%) (Ranked 361)
 | 2023-12-19 | 50,899 | 5 |
 | 2023-12-20 | 51,064 | 5 |
 | 2023-12-21 | 51,212 | 5 |
-| 2023-12-22 | 51,311 | 5 |
+| 2023-12-22 | 51,318 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 49  (Ranked 446)  
 Sum: 387 (Ranked 351)  

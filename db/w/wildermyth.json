@@ -6,8 +6,8 @@
   "Ranking_Popularity": 513,
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 252,
-  "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 374,
+  "Ranking_EOS_Completed": 221,
+  "Ranking_EOS_NewPlayers": 367,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -166,11 +166,11 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 1538,
+  "EOS_Progressed": 1539,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.46,
+  "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:23.2726912+00:00",
@@ -2166,6 +2166,11 @@
       "Time": "2023-12-21T19:09:54.6074642+00:00",
       "NumProgressed": 1538,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-22T17:09:53.8920027+00:00",
+      "NumProgressed": 1539,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 56,
@@ -2399,9 +2404,9 @@
       "ID": "completedStory_cvawn",
       "SetID": "95dc8p",
       "Name": "In Soil, In Smoke",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "completedStory_ecthis",
@@ -2615,24 +2620,24 @@
       "ID": "ulstryx_killCalabyneInOneTurn",
       "SetID": "95dc8p",
       "Name": "No Time for Clawmonsters",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1538,
+      "Progressed": 1539,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-11-12T17:00:17.2155611+00:00",
-  "LastChanged_Achievements": "2023-12-22T16:11:34.4336216+00:00",
+  "LastChanged_Achievements": "2023-12-22T17:09:53.8920025+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:42.9077467+00:00",
-  "LastUpdate_Ratings": "2023-12-22T16:00:23.9243996+00:00",
-  "LastUpdate_Achievements": "2023-12-22T16:11:34.4336606+00:00"
+  "LastUpdate_Ratings": "2023-12-22T16:59:02.6213047+00:00",
+  "LastUpdate_Achievements": "2023-12-22T17:09:53.8920529+00:00"
 }

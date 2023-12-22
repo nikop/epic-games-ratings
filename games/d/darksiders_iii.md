@@ -6,17 +6,17 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 79.00% | ~59 |
+| Green with Envy | 80.00% | ~60 |
 | First of many… | 75.00% | ~56 |
-| Helping Hand | 71.00% | ~53 |
-| Increased Vigor | 64.00% | ~48 |
+| Helping Hand | 72.00% | ~54 |
+| Increased Vigor | 65.00% | ~49 |
 | Fight Fire with Fire | 64.00% | ~48 |
-| Increased Capacity | 60.00% | ~45 |
-| Just the start | 55.00% | ~41 |
+| Increased Capacity | 61.00% | ~46 |
+| Just the start | 57.00% | ~43 |
+| Perfect Storm | 53.00% | ~40 |
 | All That Glitters | 53.00% | ~40 |
-| Perfect Storm | 52.00% | ~39 |
-| One Of the Chosen | 49.00% | ~37 |
-| Enhance! | 49.00% | ~37 |
+| One Of the Chosen | 52.00% | ~39 |
+| Enhance! | 51.00% | ~38 |
 | 25 to Life | 44.00% | ~33 |
 | Unshakable Fortitude | 43.00% | ~32 |
 | Throne Potato | 43.00% | ~32 |
@@ -25,18 +25,18 @@ Number of Ratings: 116  (23.09.2022)
 | Soul Harvester | 39.00% | ~29 |
 | Salvation | 39.00% | ~29 |
 | Delusions of Grandeur | 39.00% | ~29 |
-| I Wanna Rock | 36.00% | ~27 |
+| I Wanna Rock | 37.00% | ~28 |
+| Love Tap | 35.00% | ~26 |
 | For Whom the Bell Tolls | 35.00% | ~26 |
-| Love Tap | 33.00% | ~25 |
-| Maximum Vigor | 32.00% | ~24 |
-| Freeze Frame | 31.00% | ~23 |
-| Can you restore the Balance? | 31.00% | ~23 |
+| Maximum Vigor | 33.00% | ~25 |
+| Freeze Frame | 32.00% | ~24 |
+| Can you restore the Balance? | 32.00% | ~24 |
+| Eat Your Heart Out | 31.00% | ~23 |
 | Cleanup Crew | 29.00% | ~22 |
-| Eat Your Heart Out | 29.00% | ~22 |
 | Crowd Source | 28.00% | ~21 |
 | Unyielding Strength | 27.00% | ~20 |
 | Big Spender | 25.00% | ~19 |
-| Maximum Capacity | 23.00% | ~17 |
+| Maximum Capacity | 24.00% | ~18 |
 | Egomaniac | 20.00% | ~15 |
 | Seeing Red | 20.00% | ~15 |
 | Demon Meddler | 19.00% | ~14 |
@@ -80,12 +80,12 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-21 | 34 | 0 |
 | 2023-12-22 | 75 | 0 |
 ## Awards
-Max (Great Boss Battles): 92  (Ranked 384)  
-Sum: 92 (Ranked 462)  
-Diff (max vs sum): -78  
+Max (Great Boss Battles): 93  (Ranked 383)  
+Sum: 93 (Ranked 462)  
+Diff (max vs sum): -79  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 92 |
+| This game has Great Boss Battles | 93 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -164,3 +164,4 @@ Diff (max vs sum): -78
 | 2023-08-11 | 4.50 | - | 91 | 91 |
 | 2023-12-20 | 4.49 | - | 91 | 91 |
 | 2023-12-21 | 4.49 | - | 92 | 92 |
+| 2023-12-22 | 4.49 | - | 93 | 93 |

@@ -3,9 +3,9 @@
   "Name": "HOT WHEELS UNLEASHED\u2122 2 - Turbocharged",
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 251,
-  "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_Completed": 323,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -3869,9 +3869,9 @@
       "ID": "ML_ACHIEVEMENT_20",
       "SetID": "5k00jcd",
       "Name": "Challenge accepted!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -3981,9 +3981,9 @@
       "ID": "ML_ACHIEVEMENT_34",
       "SetID": "5k00jcd",
       "Name": "Beyond the limit",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -4061,25 +4061,25 @@
       "ID": "ML_ACHIEVEMENT_44",
       "SetID": "8jfk4dl",
       "Name": "Ignition",
-      "Percentage": 0,
-      "XP": 15,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "ML_ACHIEVEMENT_45",
-      "SetID": "8jfk4dl",
-      "Name": "The Speed of Silence",
       "Percentage": 0.1,
       "XP": 15,
       "UsersEstimate": 1
     },
     {
+      "ID": "ML_ACHIEVEMENT_45",
+      "SetID": "8jfk4dl",
+      "Name": "The Speed of Silence",
+      "Percentage": 0.2,
+      "XP": 15,
+      "UsersEstimate": 2
+    },
+    {
       "ID": "ML_ACHIEVEMENT_46",
       "SetID": "8jfk4dl",
       "Name": "The Ultimate Race",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
@@ -4093,13 +4093,13 @@
       "ID": "8jfk4dl",
       "IsBase": false,
       "Progressed": 1217,
-      "Completed": 997
+      "Completed": 998
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-22T16:05:55.2832958+00:00",
+  "LastChanged_Achievements": "2023-12-22T17:04:22.4232387+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:08.51229+00:00",
-  "LastUpdate_Ratings": "2023-12-22T15:58:13.4892302+00:00",
-  "LastUpdate_Achievements": "2023-12-22T16:05:55.2833415+00:00"
+  "LastUpdate_Ratings": "2023-12-22T16:57:33.2030149+00:00",
+  "LastUpdate_Achievements": "2023-12-22T17:04:22.4232758+00:00"
 }
