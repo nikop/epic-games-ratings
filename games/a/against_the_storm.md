@@ -6,9 +6,9 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Abandoned Settlement | 6.00% | ~1,134 |
-| Overgrown Library | 6.00% | ~1,134 |
-| Petrified Necropolis | 5.00% | ~945 |
+| Abandoned Settlement | 6.00% | ~1,135 |
+| Overgrown Library | 6.00% | ~1,135 |
+| Petrified Necropolis | 5.00% | ~946 |
 | First Real Expedition | 4.00% | ~756 |
 | Taking Action | 4.00% | ~756 |
 | No Deaths | 4.00% | ~756 |
@@ -24,6 +24,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Fertile Meadows | 2.00% | ~378 |
 | Monastery of the Holy Flame | 2.00% | ~378 |
 | Royal Outpost | 2.00% | ~378 |
+| Lost Colonies | 2.00% | ~378 |
 | Watchtower | 2.00% | ~378 |
 | Untamed Wilds | 2.00% | ~378 |
 | Ruined Armory | 1.00% | ~189 |
@@ -33,7 +34,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Sparkdew Crystals | 1.00% | ~189 |
 | Levitating Monument | 1.00% | ~189 |
 | Flooded Mines | 1.00% | ~189 |
-| Lost Colonies | 1.00% | ~189 |
 | Statue of the Forefathers | 1.00% | ~189 |
 | Corrosive Torrent | 1.00% | ~189 |
 | Cursed Lands | 1.00% | ~189 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,908 (Ranked 148)  
+Progressed: 18,912 (Ranked 148)  
 Completed: 39 (0.21%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 39 (0.21%) (Ranked 268)
 | 2023-12-19 | 18,687 | 39 |
 | 2023-12-20 | 18,771 | 39 |
 | 2023-12-21 | 18,861 | 39 |
-| 2023-12-22 | 18,908 | 39 |
+| 2023-12-22 | 18,912 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 228)  
 Sum: 3,277 (Ranked 175)  

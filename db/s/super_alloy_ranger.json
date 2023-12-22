@@ -2,8 +2,8 @@
   "ID": "6bd7d2e32a724e119b9e4a2254aeec33",
   "Name": "Super Alloy Ranger",
   "ProductSlug": "super-alloy-ranger-4252cc",
-  "Ranking_EOS_Progress": 439,
-  "Ranking_EOS_Completed": 192,
+  "Ranking_EOS_Progress": 438,
+  "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 134,
+  "EOS_Progressed": 135,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.75,
+  "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:52:20.3185117+00:00",
@@ -656,6 +656,11 @@
       "Time": "2023-12-21T17:05:45.8145469+00:00",
       "NumProgressed": 134,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-22T14:05:37.8485407+00:00",
+      "NumProgressed": 135,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -683,7 +688,7 @@
       "Name": "The Abyss Conqueror",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Achi_04",
@@ -795,15 +800,15 @@
       "Name": "Space Warrior: Prologue",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Achi_18",
       "SetID": "51a97k7",
       "Name": "Gear Up",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 90
     },
     {
       "ID": "Achi_19",
@@ -819,7 +824,7 @@
       "Name": "Freshen Up",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "Achi_21",
@@ -843,7 +848,7 @@
       "Name": "The Hidden Secret",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Achi_24",
@@ -875,7 +880,7 @@
       "Name": "GG EZ",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "Achi_28",
@@ -897,9 +902,9 @@
       "ID": "Achi_30",
       "SetID": "51a97k7",
       "Name": "A Grand Show",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 90
     },
     {
       "ID": "Achi_31",
@@ -937,9 +942,9 @@
       "ID": "Achi_35",
       "SetID": "51a97k7",
       "Name": "Stop Right There",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 38
+      "UsersEstimate": 36
     },
     {
       "ID": "Achi_36",
@@ -1035,7 +1040,7 @@
       "Name": "Phew!",
       "Percentage": 16,
       "XP": 35,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Achi_48",
@@ -1066,7 +1071,7 @@
     {
       "ID": "51a97k7",
       "IsBase": true,
-      "Progressed": 134,
+      "Progressed": 135,
       "Completed": 1
     }
   ],
@@ -1074,8 +1079,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-12-22T13:08:36.7556682+00:00",
+  "LastChanged_Achievements": "2023-12-22T14:05:37.8485405+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:25.2099775+00:00",
-  "LastUpdate_Ratings": "2023-12-22T13:01:27.1603917+00:00",
-  "LastUpdate_Achievements": "2023-12-22T13:08:36.7557002+00:00"
+  "LastUpdate_Ratings": "2023-12-22T13:58:40.1517367+00:00",
+  "LastUpdate_Achievements": "2023-12-22T14:05:37.8485789+00:00"
 }

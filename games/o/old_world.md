@@ -211,6 +211,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Great Mage | 0.10% | ~16 |
 | Pilgrimage | 0.10% | ~16 |
 | Poetic Leader | 0.10% | ~16 |
+| Patriarch St Paul | 0.10% | ~16 |
 | Rmt n Kmt Buhen | 0.10% | ~16 |
 | Greater Kmt Unified | 0.10% | ~16 |
 | Kmt Unified | 0.10% | ~16 |
@@ -316,7 +317,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | Five Cults | 0.00% | ~0 |
 | The Mythical Beast | 0.00% | ~0 |
-| Patriarch St Paul | 0.00% | ~0 |
 | Hypatia the Teacher | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 | Only Kem | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,871 (Ranked 160)  
+Progressed: 15,872 (Ranked 160)  
 Completed: 5 (0.03%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -611,7 +611,7 @@ Completed: 5 (0.03%) (Ranked 345)
 | 2023-12-19 | 15,840 | 5 |
 | 2023-12-20 | 15,854 | 5 |
 | 2023-12-21 | 15,865 | 5 |
-| 2023-12-22 | 15,871 | 5 |
+| 2023-12-22 | 15,872 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 279)  
 Sum: 1,907 (Ranked 220)  

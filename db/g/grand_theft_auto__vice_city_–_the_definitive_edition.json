@@ -2,12 +2,12 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 552,
+  "Ranking_Rating": 565,
   "Ranking_Popularity": 335,
   "Ranking_PopularitySum": 437,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.53,
+  "Rating": 4.52,
   "RatingHistory": [
     {
       "Time": "2023-02-21T16:57:02.7003964+00:00",
@@ -959,6 +959,12 @@
       "Rating": 4.53,
       "NumberOfAwards": 133,
       "NumberOfAwardsMax": 133
+    },
+    {
+      "Time": "2023-12-22T13:58:57.6536905+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 133,
+      "NumberOfAwardsMax": 133
     }
   ],
   "ReviewsDisabled": false,
@@ -973,9 +979,9 @@
       "Count": 133
     }
   ],
-  "EOS_Progressed": 13377,
+  "EOS_Progressed": 13383,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 1525,
+  "EOS_NewPlayers": 1515,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -15378,6 +15384,11 @@
       "Time": "2023-12-22T13:12:22.4256235+00:00",
       "NumProgressed": 13377,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-12-22T14:09:04.9404926+00:00",
+      "NumProgressed": 13383,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 34,
@@ -15469,7 +15480,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1471
+      "UsersEstimate": 1472
     },
     {
       "ID": "ACH12",
@@ -15493,7 +15504,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 5618
+      "UsersEstimate": 5621
     },
     {
       "ID": "ACH15",
@@ -15549,7 +15560,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 6153
+      "UsersEstimate": 6156
     },
     {
       "ID": "ACH22",
@@ -15557,7 +15568,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2675
+      "UsersEstimate": 2677
     },
     {
       "ID": "ACH23",
@@ -15565,7 +15576,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 3478
+      "UsersEstimate": 3480
     },
     {
       "ID": "ACH24",
@@ -15573,7 +15584,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1873
+      "UsersEstimate": 1874
     },
     {
       "ID": "ACH25",
@@ -15581,7 +15592,7 @@
       "Name": "Chauffeur",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1873
+      "UsersEstimate": 1874
     },
     {
       "ID": "ACH26",
@@ -15621,7 +15632,7 @@
       "Name": "Mischief Managed",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1071
     },
     {
       "ID": "ACH31",
@@ -15660,16 +15671,16 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 13377,
+      "Progressed": 13383,
       "Completed": 73
     }
   ],
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
-  "LastChanged": "2023-12-21T18:58:29.9620707+00:00",
-  "LastChanged_Achievements": "2023-12-22T13:12:22.4256231+00:00",
+  "LastChanged": "2023-12-22T13:58:57.6536903+00:00",
+  "LastChanged_Achievements": "2023-12-22T14:09:04.9404925+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:04.8941276+00:00",
-  "LastUpdate_Ratings": "2023-12-22T13:01:44.1095015+00:00",
-  "LastUpdate_Achievements": "2023-12-22T13:12:22.4257237+00:00"
+  "LastUpdate_Ratings": "2023-12-22T13:58:57.6536909+00:00",
+  "LastUpdate_Achievements": "2023-12-22T14:09:04.9405657+00:00"
 }

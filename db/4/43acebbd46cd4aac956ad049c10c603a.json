@@ -5,10 +5,10 @@
   "Ranking_Rating": 17,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
-  "Ranking_EOS_Progress": 274,
+  "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -222,9 +222,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 1083,
+  "EOS_Progressed": 1085,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2862,6 +2862,11 @@
       "Time": "2023-12-22T13:08:41.7848206+00:00",
       "NumProgressed": 1083,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-22T14:05:42.9058109+00:00",
+      "NumProgressed": 1085,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2882,7 +2887,7 @@
       "Name": "Ab Initio",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "AnthropicHills",
@@ -2898,7 +2903,7 @@
       "Name": "Archaeologist",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Balance",
@@ -2906,7 +2911,7 @@
       "Name": "Balance",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "BecomingSmarter",
@@ -2914,7 +2919,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "BreakTheLoop",
@@ -2954,7 +2959,7 @@
       "Name": "Circular Oasis",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "DesolateIsland",
@@ -2962,7 +2967,7 @@
       "Name": "Desolate Island",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "Discovery",
@@ -2970,7 +2975,7 @@
       "Name": "Discovery",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "EasternWetlands",
@@ -3002,7 +3007,7 @@
       "Name": "Flooded Valley",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "GnothiSeauton",
@@ -3024,9 +3029,9 @@
       "ID": "GrasslandsRing",
       "SetID": "1n308hc",
       "Name": "Grasslands Ring",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 98
     },
     {
       "ID": "HighPlain",
@@ -3074,7 +3079,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "Mnemosyne",
@@ -3082,7 +3087,7 @@
       "Name": "Mnemosyne",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "MuseumExplorer",
@@ -3146,7 +3151,7 @@
       "Name": "Prometheus Unbound",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "PuzzleFiend",
@@ -3170,7 +3175,7 @@
       "Name": "Renaissance Robot",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ScientiaVincereTenebras",
@@ -3178,7 +3183,7 @@
       "Name": "Scientia Vincere Tenebras",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "Signatory",
@@ -3210,7 +3215,7 @@
       "Name": "Southern Coast",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "TeamSpirit",
@@ -3234,7 +3239,7 @@
       "Name": "The All-Gifted",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "TheEdgeOfForever",
@@ -3242,7 +3247,7 @@
       "Name": "The Edge of Forever",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "TheFuture",
@@ -3250,7 +3255,7 @@
       "Name": "The Future",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "TheHardWay",
@@ -3266,7 +3271,7 @@
       "Name": "The Spark",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "TheThiefOfFire",
@@ -3282,7 +3287,7 @@
       "Name": "The Word Endures",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "TouchGrass",
@@ -3345,7 +3350,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1083,
+      "Progressed": 1085,
       "Completed": 2
     }
   ],
@@ -3353,8 +3358,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-22T13:08:41.78482+00:00",
+  "LastChanged_Achievements": "2023-12-22T14:05:42.9058104+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-22T13:05:36.2302262+00:00",
-  "LastUpdate_Achievements": "2023-12-22T13:08:41.7848671+00:00"
+  "LastUpdate_Ratings": "2023-12-22T14:02:32.2936698+00:00",
+  "LastUpdate_Achievements": "2023-12-22T14:05:42.9058554+00:00"
 }

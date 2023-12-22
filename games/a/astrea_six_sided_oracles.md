@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 76.00% | ~160 |
-| Purification Pioneer | 73.00% | ~154 |
-| Mechanical Buddy | 67.00% | ~141 |
+| Meissa's Savior | 76.00% | ~161 |
+| Purification Pioneer | 73.00% | ~155 |
+| Mechanical Buddy | 67.00% | ~142 |
 | Dicesmithing Time! | 60.00% | ~127 |
 | Sanctuary Guardian | 53.00% | ~112 |
 | Endless Tricks | 50.00% | ~106 |
-| Wild's Keeper | 47.00% | ~99 |
+| Wild's Keeper | 47.00% | ~100 |
 | Mind Illuminator | 43.00% | ~91 |
 | Stellar Dismantler | 36.00% | ~76 |
 | Noctuan Champion | 36.00% | ~76 |
 | Anomaly Destroyer | 32.00% | ~68 |
-| Astral Adventurer | 31.00% | ~65 |
+| Astral Adventurer | 31.00% | ~66 |
 | Star Killer | 28.00% | ~59 |
-| Eridanian Champion | 26.00% | ~55 |
+| Eridanian Champion | 25.00% | ~53 |
 | Lacertian Champion | 24.00% | ~51 |
 | Loyal Partner | 23.00% | ~49 |
-| Apian Champion | 22.00% | ~46 |
+| Apian Champion | 22.00% | ~47 |
 | Shard Spender | 18.00% | ~38 |
 | Unbeatable | 18.00% | ~38 |
-| Behenian Champion | 18.00% | ~38 |
+| Behenian Champion | 17.00% | ~36 |
 | Sadistic Plan | 16.00% | ~34 |
 | Astral Seeker | 10.00% | ~21 |
 | Aquarian Champion | 10.00% | ~21 |
-| Favored by the Cosmos | 9.00% | ~19 |
-| Heart Gate | 9.00% | ~19 |
 | Heavy Purger | 9.00% | ~19 |
 | Stellar Haste | 9.00% | ~19 |
 | Wave Bender | 9.00% | ~19 |
+| Favored by the Cosmos | 8.00% | ~17 |
+| Heart Gate | 8.00% | ~17 |
 | The Corruption Goddess | 8.00% | ~17 |
 | The Goddes Avatar | 8.00% | ~17 |
 | Can't touch this | 7.00% | ~15 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211 (Ranked 403)  
+Progressed: 212 (Ranked 401)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,4 +160,4 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-19 | 195 | 0 |
 | 2023-12-20 | 201 | 0 |
 | 2023-12-21 | 206 | 0 |
-| 2023-12-22 | 211 | 0 |
+| 2023-12-22 | 212 | 0 |

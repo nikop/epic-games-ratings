@@ -5,14 +5,14 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | In the Black | 58.00% | ~241 |
-| Starting Skyward | 53.00% | ~220 |
+| Starting Skyward | 52.00% | ~216 |
 | Grime is Not Good | 46.00% | ~191 |
 | Floor Galore | 40.00% | ~166 |
 | Dinner Dash | 40.00% | ~166 |
 | Campaign Launch | 39.00% | ~162 |
 | Need a Consult | 37.00% | ~154 |
 | It's Technical | 37.00% | ~154 |
-| Upgrade Unlock | 36.00% | ~149 |
+| Upgrade Unlock | 36.00% | ~150 |
 | Delegate Maintenance | 32.00% | ~133 |
 | Proper Walls | 31.00% | ~129 |
 | Destination Destiny | 31.00% | ~129 |
@@ -20,13 +20,13 @@
 | Potent Potables | 25.00% | ~104 |
 | Smooth Service | 25.00% | ~104 |
 | Your Prestige is Rising | 24.00% | ~100 |
-| Retail Revenue | 23.00% | ~95 |
-| Don't Feel a Loan | 22.00% | ~91 |
+| Retail Revenue | 23.00% | ~96 |
+| Don't Feel a Loan | 22.00% | ~92 |
 | Artfully Done | 20.00% | ~83 |
 | People Mover | 20.00% | ~83 |
-| Emporium Empire | 20.00% | ~83 |
 | Leveled Up Shops | 20.00% | ~83 |
 | Lux Living | 19.00% | ~79 |
+| Emporium Empire | 19.00% | ~79 |
 | We Don't Need No Education | 19.00% | ~79 |
 | Get Electrified | 19.00% | ~79 |
 | Rehab Expert | 18.00% | ~75 |
@@ -50,12 +50,12 @@
 | Water Features | 7.00% | ~29 |
 | Revenue Royalty | 7.00% | ~29 |
 | Golden Opportunity | 7.00% | ~29 |
-| Pipe Up | 7.00% | ~29 |
 | Careful Constructor | 6.00% | ~25 |
 | Meet Me at HQ | 6.00% | ~25 |
 | Profound Proceeds | 6.00% | ~25 |
 | Maximum Reuse | 6.00% | ~25 |
 | It's a Gas | 6.00% | ~25 |
+| Pipe Up | 6.00% | ~25 |
 | Meet ADA/360 | 5.00% | ~21 |
 | Penthouse in the Sky | 5.00% | ~21 |
 | Baron of Business | 5.00% | ~21 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 415 (Ranked 344)  
+Progressed: 416 (Ranked 344)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-19 | 402 | 0 |
 | 2023-12-20 | 404 | 0 |
 | 2023-12-21 | 413 | 0 |
-| 2023-12-22 | 415 | 0 |
+| 2023-12-22 | 416 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

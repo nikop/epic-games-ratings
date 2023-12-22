@@ -2,7 +2,7 @@
   "ID": "calluna",
   "Name": "Control",
   "ProductSlug": "control",
-  "Ranking_Rating": 395,
+  "Ranking_Rating": 394,
   "Ranking_Popularity": 42,
   "Ranking_PopularitySum": 78,
   "Ranking_EOS_Progress": 814,
@@ -6110,10 +6110,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 13513,
       "NumberOfAwardsMax": 8936
+    },
+    {
+      "Time": "2023-12-22T13:59:25.161053+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 13515,
+      "NumberOfAwardsMax": 8936
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13513,
+  "NumberOfAwards": 13515,
   "NumberOfAwardsMax": 8936,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6145,7 +6151,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 540
+      "Count": 542
     },
     {
       "Text": "This game has Amazing Characters",
@@ -6189,8 +6195,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:45.0678604+00:00",
-  "LastChanged": "2023-12-22T03:58:50.2946267+00:00",
+  "LastChanged": "2023-12-22T13:59:25.1610529+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:29.056856+00:00",
-  "LastUpdate_Ratings": "2023-12-22T13:02:10.9383296+00:00",
-  "LastUpdate_Achievements": "2023-12-22T13:07:51.789204+00:00"
+  "LastUpdate_Ratings": "2023-12-22T13:59:25.1610533+00:00",
+  "LastUpdate_Achievements": "2023-12-22T14:04:52.1344437+00:00"
 }

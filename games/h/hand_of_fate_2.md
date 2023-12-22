@@ -6,24 +6,24 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~479,596 |
-| Apprentice | 58.00% | ~386,341 |
-| Close Shave | 25.00% | ~166,526 |
-| Mercenary | 23.00% | ~153,204 |
-| Ninja | 23.00% | ~153,204 |
+| The Fool | 72.00% | ~479,598 |
+| Apprentice | 58.00% | ~386,343 |
+| Close Shave | 25.00% | ~166,527 |
+| Mercenary | 23.00% | ~153,205 |
+| Ninja | 23.00% | ~153,205 |
 | Northern Scourge | 17.00% | ~113,238 |
 | Thief Bane | 14.00% | ~93,255 |
 | Master of Arms | 12.00% | ~79,933 |
-| Gambler | 10.00% | ~66,610 |
-| Dice Master | 10.00% | ~66,610 |
-| Swordsman | 9.00% | ~59,949 |
-| Knight | 8.00% | ~53,288 |
-| Cure for Corruption | 8.00% | ~53,288 |
-| Focused | 8.00% | ~53,288 |
-| Flurry of Fury | 8.00% | ~53,288 |
-| Long Shot | 7.00% | ~46,627 |
-| Devil Dice | 7.00% | ~46,627 |
-| Broken Heart | 7.00% | ~46,627 |
+| Gambler | 10.00% | ~66,611 |
+| Dice Master | 10.00% | ~66,611 |
+| Swordsman | 9.00% | ~59,950 |
+| Knight | 8.00% | ~53,289 |
+| Cure for Corruption | 8.00% | ~53,289 |
+| Focused | 8.00% | ~53,289 |
+| Flurry of Fury | 8.00% | ~53,289 |
+| Long Shot | 7.00% | ~46,628 |
+| Devil Dice | 7.00% | ~46,628 |
+| Broken Heart | 7.00% | ~46,628 |
 | Adventurer | 6.00% | ~39,966 |
 | Empire's Bane | 6.00% | ~39,966 |
 | Jack of all Trades | 5.00% | ~33,305 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~666 |
 | Blood Pact | 0.10% | ~666 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666,105 (Ranked 30)  
+Progressed: 666,108 (Ranked 30)  
 Completed: 174 (0.03%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,11 +301,11 @@ Completed: 174 (0.03%) (Ranked 345)
 | 2023-12-19 | 666,012 | 174 |
 | 2023-12-20 | 666,047 | 174 |
 | 2023-12-21 | 666,086 | 174 |
-| 2023-12-22 | 666,105 | 174 |
+| 2023-12-22 | 666,108 | 174 |
 ## Awards
-Max (Amazing Storytelling): 36  (Ranked 481)  
+Max (Amazing Storytelling): 36  (Ranked 482)  
 Sum: 193 (Ranked 414)  
-Diff (max vs sum): 67  
+Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 118 |

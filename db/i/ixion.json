@@ -2,12 +2,12 @@
   "ID": "1efd3d783b814b8b8548fb60c5983825",
   "Name": "IXION",
   "ProductSlug": "ixion-88cda4",
-  "Ranking_Rating": 483,
+  "Ranking_Rating": 457,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.57,
+  "Rating": 4.58,
   "RatingHistory": [
     {
       "Time": "2022-12-11T21:57:21.9707652+00:00",
@@ -311,13 +311,19 @@
       "Rating": 4.57,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-22T13:57:44.9340382+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3631,
+  "EOS_Progressed": 3632,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
@@ -6862,6 +6868,11 @@
       "Time": "2023-12-22T12:05:25.2948622+00:00",
       "NumProgressed": 3631,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T14:04:32.2200985+00:00",
+      "NumProgressed": 3632,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -6961,7 +6972,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "ACH_BASE_22",
@@ -6985,7 +6996,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "ACH_BASE_25",
@@ -7009,7 +7020,7 @@
       "Name": "A Hunk of Junk",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "ACH_BASE_28",
@@ -7049,7 +7060,7 @@
       "Name": "Power Outage",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ACH_BASE_32",
@@ -7201,7 +7212,7 @@
       "Name": "Convenient Transport",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ACH_BASE_52",
@@ -7225,7 +7236,7 @@
       "Name": "Please Make it Stop!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ACH_BASE_57",
@@ -7328,22 +7339,22 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1815,
+      "Progressed": 1816,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3631,
+      "Progressed": 3632,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-12-07T21:57:33.3706141+00:00",
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
-  "LastChanged": "2023-12-21T17:56:57.5768777+00:00",
-  "LastChanged_Achievements": "2023-12-22T13:07:32.9216508+00:00",
+  "LastChanged": "2023-12-22T13:57:44.9340377+00:00",
+  "LastChanged_Achievements": "2023-12-22T14:04:32.2200982+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.6786359+00:00",
-  "LastUpdate_Ratings": "2023-12-22T13:00:33.5509731+00:00",
-  "LastUpdate_Achievements": "2023-12-22T13:07:32.9217106+00:00"
+  "LastUpdate_Ratings": "2023-12-22T13:57:44.9340385+00:00",
+  "LastUpdate_Achievements": "2023-12-22T14:04:32.2201597+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "9b89b68d8751414db0991007bdc4766c",
   "Name": "JARS",
   "ProductSlug": "jars-e39063",
-  "Ranking_EOS_Progress": 463,
+  "Ranking_EOS_Progress": 464,
   "Ranking_EOS_Completed": 81,
   "Ranking_EOS_NewPlayers": 465,
   "Ranking_EOS_NewCompleters": 159,
@@ -421,9 +421,9 @@
       "ID": "ACH_100_MINIONS_PLACED",
       "SetID": "3jfhgga",
       "Name": "I have an army!",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_ALL_ENCYCLOPEDIA_ENTRIES",
@@ -445,9 +445,9 @@
       "ID": "ACH_CHAPTER_1_DONE",
       "SetID": "3jfhgga",
       "Name": "Vampires",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_CHAPTER_2_DONE",
@@ -582,8 +582,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.991429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:38.9338539+00:00",
   "LastChanged": "2023-03-31T05:58:01.9914291+00:00",
-  "LastChanged_Achievements": "2023-12-22T13:06:37.302827+00:00",
+  "LastChanged_Achievements": "2023-12-22T14:03:36.3315243+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:59.9606789+00:00",
-  "LastUpdate_Ratings": "2023-12-22T13:01:20.8575542+00:00",
-  "LastUpdate_Achievements": "2023-12-22T13:06:37.3028458+00:00"
+  "LastUpdate_Ratings": "2023-12-22T13:58:33.7246911+00:00",
+  "LastUpdate_Achievements": "2023-12-22T14:03:36.3315374+00:00"
 }

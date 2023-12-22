@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1032,
+  "EOS_Progressed": 1033,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 589,
+  "EOS_NewPlayers": 584,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -2075,6 +2075,11 @@
       "Time": "2023-12-22T13:12:51.4897031+00:00",
       "NumProgressed": 1032,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-22T14:09:34.4348631+00:00",
+      "NumProgressed": 1033,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2158,7 +2163,7 @@
       "Name": "Trinity",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ACH_11",
@@ -2262,7 +2267,7 @@
       "Name": "Geared Up",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ACH_24",
@@ -2278,7 +2283,7 @@
       "Name": "Fashion Victim",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_26",
@@ -2324,9 +2329,9 @@
       "ID": "ACH_31",
       "SetID": "efe2lj",
       "Name": "Stone Collection",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 144
+      "UsersEstimate": 155
     },
     {
       "ID": "ACH_33",
@@ -2373,14 +2378,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1032,
+      "Progressed": 1033,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-22T13:12:51.4897029+00:00",
+  "LastChanged_Achievements": "2023-12-22T14:09:34.4348629+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
-  "LastUpdate_Ratings": "2023-12-22T13:01:24.9290676+00:00",
-  "LastUpdate_Achievements": "2023-12-22T13:12:51.4897328+00:00"
+  "LastUpdate_Ratings": "2023-12-22T13:58:38.0354593+00:00",
+  "LastUpdate_Achievements": "2023-12-22T14:09:34.4348878+00:00"
 }

@@ -1003,9 +1003,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 7368,
+  "EOS_Progressed": 7369,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 421,
+  "EOS_NewPlayers": 417,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11908,6 +11908,11 @@
       "Time": "2023-12-22T13:07:00.3496645+00:00",
       "NumProgressed": 7368,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T14:03:59.6210858+00:00",
+      "NumProgressed": 7369,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -11959,7 +11964,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -12205,9 +12210,9 @@
       "ID": "ACHIEVEMENT_038",
       "SetID": "6jk25od",
       "Name": "Live by the Rod, Diez by the Rod!",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_039",
@@ -12238,13 +12243,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7368,
+      "Progressed": 7369,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 6740,
+      "Progressed": 6741,
       "Completed": 113
     }
   ],
@@ -12252,8 +12257,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-21T00:02:47.1837703+00:00",
-  "LastChanged_Achievements": "2023-12-22T13:07:00.3496643+00:00",
+  "LastChanged_Achievements": "2023-12-22T14:03:59.6210855+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:41.8809727+00:00",
-  "LastUpdate_Ratings": "2023-12-22T13:00:30.3886709+00:00",
-  "LastUpdate_Achievements": "2023-12-22T13:07:00.3497329+00:00"
+  "LastUpdate_Ratings": "2023-12-22T13:57:41.1486329+00:00",
+  "LastUpdate_Achievements": "2023-12-22T14:03:59.6211679+00:00"
 }

@@ -9,10 +9,10 @@
 | The child of the night | 74.00% | ~79 |
 | It fits. IT FITS! | 73.00% | ~78 |
 | Uncle will be happy | 64.00% | ~68 |
-| I have an army! | 59.00% | ~63 |
+| I have an army! | 60.00% | ~64 |
 | Sticky fingers | 39.00% | ~42 |
 | A horrible thing will happen... | 35.00% | ~37 |
-| Vampires | 28.00% | ~30 |
+| Vampires | 29.00% | ~31 |
 | Bloody stream | 27.00% | ~29 |
 | Fangs | 17.00% | ~18 |
 | Mirrors | 10.00% | ~11 |
@@ -25,7 +25,7 @@
 | Missing pages | 5.00% | ~5 |
 | Master of puppets | 5.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 107 (Ranked 463)  
+Progressed: 107 (Ranked 464)  
 Completed: 5 (4.67%) (Ranked 81)  
 ## EOS Players History
 | Date | Progressed | Completed |

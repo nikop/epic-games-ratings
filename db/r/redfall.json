@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1983,
+  "EOS_Progressed": 1984,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3029,6 +3029,11 @@
       "Time": "2023-12-22T07:04:31.3744232+00:00",
       "NumProgressed": 1983,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T14:04:44.2864967+00:00",
+      "NumProgressed": 1984,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3046,9 +3051,9 @@
       "ID": "Achievement_002",
       "SetID": "6b34g18",
       "Name": "Revelations",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "Achievement_003",
@@ -3160,7 +3165,7 @@
       "Name": "Bad Wiring",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "Achievement_018",
@@ -3222,9 +3227,9 @@
       "ID": "Achievement_025",
       "SetID": "6b34g18",
       "Name": "Grounded",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 79
     },
     {
       "ID": "Achievement_026",
@@ -3567,7 +3572,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1983,
+      "Progressed": 1984,
       "Completed": 0
     }
   ],
@@ -3575,8 +3580,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-21T11:57:57.6911859+00:00",
-  "LastChanged_Achievements": "2023-12-22T13:07:44.222877+00:00",
+  "LastChanged_Achievements": "2023-12-22T14:04:44.2864962+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:02.9619993+00:00",
-  "LastUpdate_Ratings": "2023-12-22T13:01:04.1400115+00:00",
-  "LastUpdate_Achievements": "2023-12-22T13:07:44.222932+00:00"
+  "LastUpdate_Ratings": "2023-12-22T13:58:16.2033962+00:00",
+  "LastUpdate_Achievements": "2023-12-22T14:04:44.286553+00:00"
 }

@@ -1,23 +1,23 @@
 # Risen
 [Store](https://store.epicgames.com/en-US/p/risen-e8e55e)  
 [View Rawdata](../../db/r/risen.json)  
-Rating: 4.57 (Ranked 483)  
+Rating: 4.57 (Ranked 484)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Beginner | 91.00% | ~96 |
 | Map reader | 70.00% | ~74 |
-| Adventurer | 67.00% | ~70 |
-| Philanthropist | 65.00% | ~68 |
-| The brave little tailor | 49.00% | ~51 |
-| Archer | 49.00% | ~51 |
+| Adventurer | 66.00% | ~70 |
+| Philanthropist | 64.00% | ~68 |
+| The brave little tailor | 48.00% | ~51 |
+| Archer | 48.00% | ~51 |
 | Field hand | 41.00% | ~43 |
 | Samaritan | 39.00% | ~41 |
 | Well-to-do | 39.00% | ~41 |
 | The merciful one | 36.00% | ~38 |
 | Ladies' man | 35.00% | ~37 |
-| Ferocious wild boars | 29.00% | ~30 |
-| Idiot | 27.00% | ~28 |
+| Ferocious wild boars | 28.00% | ~30 |
+| Idiot | 26.00% | ~28 |
 | Beast slayer | 24.00% | ~25 |
 | Wise man | 21.00% | ~22 |
 | Family man | 21.00% | ~22 |
@@ -39,10 +39,10 @@ Rating: 4.57 (Ranked 483)
 | Safecracker | 12.00% | ~13 |
 | Master thief | 12.00% | ~13 |
 | Freedom fighter | 11.00% | ~12 |
-| Titan Lord | 10.00% | ~10 |
-| Terror of the hens | 10.00% | ~10 |
-| King of the handymen | 10.00% | ~10 |
-| Expert | 9.00% | ~9 |
+| King of the handymen | 10.00% | ~11 |
+| Titan Lord | 9.00% | ~10 |
+| Terror of the hens | 9.00% | ~10 |
+| Expert | 8.00% | ~8 |
 | The traveler | 7.00% | ~7 |
 | Moneybags | 7.00% | ~7 |
 | Rune master | 5.00% | ~5 |
@@ -52,11 +52,11 @@ Rating: 4.57 (Ranked 483)
 | Big game hunter | 3.00% | ~3 |
 | Mage | 3.00% | ~3 |
 | Sharpshooter | 2.00% | ~2 |
-| Gladiator | 1.00% | ~1 |
-| Master of the classes | 1.00% | ~1 |
+| Gladiator | 0.90% | ~1 |
+| Master of the classes | 0.90% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 105 (Ranked 465)  
+Progressed: 106 (Ranked 465)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-19 | 100 | 0 |
 | 2023-12-20 | 101 | 0 |
 | 2023-12-21 | 104 | 0 |
-| 2023-12-22 | 105 | 0 |
+| 2023-12-22 | 106 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

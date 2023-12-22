@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -271,9 +271,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 39320,
+  "EOS_Progressed": 39321,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 312,
+  "EOS_NewPlayers": 311,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -21686,6 +21686,11 @@
       "Time": "2023-12-22T13:07:52.3516779+00:00",
       "NumProgressed": 39320,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-12-22T14:04:52.7289924+00:00",
+      "NumProgressed": 39321,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 14,
@@ -21785,7 +21790,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 30276
+      "UsersEstimate": 30277
     },
     {
       "ID": "roots",
@@ -21793,7 +21798,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 6684
+      "UsersEstimate": 6685
     },
     {
       "ID": "secretItem",
@@ -21808,15 +21813,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 39320,
+      "Progressed": 39321,
       "Completed": 121
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-12-09T15:00:19.5920578+00:00",
-  "LastChanged_Achievements": "2023-12-22T13:07:52.3516775+00:00",
+  "LastChanged_Achievements": "2023-12-22T14:04:52.7289919+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:34.0215734+00:00",
-  "LastUpdate_Ratings": "2023-12-22T13:02:40.1888179+00:00",
-  "LastUpdate_Achievements": "2023-12-22T13:07:52.3517898+00:00"
+  "LastUpdate_Ratings": "2023-12-22T13:59:54.8995483+00:00",
+  "LastUpdate_Achievements": "2023-12-22T14:04:52.7290942+00:00"
 }

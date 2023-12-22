@@ -10020,9 +10020,9 @@
       "Count": 1036
     }
   ],
-  "EOS_Progressed": 129098,
+  "EOS_Progressed": 129106,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1826,
+  "EOS_NewPlayers": 1809,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36265,6 +36265,11 @@
       "Time": "2023-12-22T13:12:10.9067908+00:00",
       "NumProgressed": 129098,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-22T14:08:52.8258252+00:00",
+      "NumProgressed": 129106,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36484,7 +36489,7 @@
       "Name": "Clearing the Ledger",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "combat_kill_leviathan",
@@ -36660,7 +36665,7 @@
       "Name": "Triage",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "inn_first_time",
@@ -36812,7 +36817,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "combat_kill_collector",
@@ -36820,7 +36825,7 @@
       "Name": "This guy... again?",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -36907,21 +36912,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 129098,
+      "Progressed": 129106,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 3967,
+      "Progressed": 3975,
       "Completed": 807
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-22T08:00:05.9983731+00:00",
-  "LastChanged_Achievements": "2023-12-22T13:12:10.9067905+00:00",
+  "LastChanged_Achievements": "2023-12-22T14:08:52.8258248+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-22T13:03:19.9723754+00:00",
-  "LastUpdate_Achievements": "2023-12-22T13:12:10.9069649+00:00"
+  "LastUpdate_Ratings": "2023-12-22T14:02:27.0953872+00:00",
+  "LastUpdate_Achievements": "2023-12-22T14:08:52.8260105+00:00"
 }

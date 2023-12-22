@@ -6,22 +6,22 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 74.00% | ~112 |
-| Mash Machine | 70.00% | ~106 |
-| Ducks in a Row, Fish in a Barrel | 48.00% | ~72 |
-| Furon Fashion | 42.00% | ~63 |
-| Shop Til They Drop | 36.00% | ~54 |
-| Bodied Sattva | 30.00% | ~45 |
-| Earthly Pleasures | 28.00% | ~42 |
-| Cult Following | 26.00% | ~39 |
-| Lie Back and Think of Albion | 22.00% | ~33 |
-| Upgreatest | 21.00% | ~32 |
+| Rock of the Bay | 74.00% | ~113 |
+| Mash Machine | 69.00% | ~106 |
+| Ducks in a Row, Fish in a Barrel | 48.00% | ~73 |
+| Furon Fashion | 42.00% | ~64 |
+| Shop Til They Drop | 36.00% | ~55 |
+| Bodied Sattva | 29.00% | ~44 |
+| Earthly Pleasures | 29.00% | ~44 |
+| Cult Following | 26.00% | ~40 |
+| Lie Back and Think of Albion | 22.00% | ~34 |
 | Pimp My Raid | 21.00% | ~32 |
-| I Look Up As I Walk to Takoshima | 18.00% | ~27 |
+| Upgreatest | 20.00% | ~31 |
+| I Look Up As I Walk to Takoshima | 18.00% | ~28 |
 | Freshly Squeezed | 16.00% | ~24 |
 | Perfect Probulator | 14.00% | ~21 |
-| Die Nasty | 13.00% | ~20 |
-| Transmitting From Sol-3 | 11.00% | ~17 |
+| Die Nasty | 12.00% | ~18 |
+| Transmitting From Sol-3 | 10.00% | ~15 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 8.00% | ~12 |
 | Dusted | 8.00% | ~12 |
 | Fly Me to the Moon Base | 6.00% | ~9 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.00% | ~0 |
 | Trans-Siberian Express | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 151 (Ranked 428)  
+Progressed: 153 (Ranked 427)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,10 +77,10 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-19 | 129 | 0 |
 | 2023-12-20 | 138 | 0 |
 | 2023-12-21 | 147 | 0 |
-| 2023-12-22 | 151 | 0 |
+| 2023-12-22 | 153 | 0 |
 ## Awards
-Max (Great Boss Battles): 36  (Ranked 481)  
-Sum: 36 (Ranked 512)  
+Max (Great Boss Battles): 36  (Ranked 482)  
+Sum: 36 (Ranked 513)  
 Diff (max vs sum): -31  
 | Award | Count |
 | ----- | ----- |

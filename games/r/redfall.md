@@ -18,15 +18,16 @@ Rating: 3.56 (Ranked 1,064)
 | Sucks To Be You | 5.00% | ~99 |
 | Enter of Your Own Free Will | 4.00% | ~79 |
 | Welcome to the Neighborhood | 4.00% | ~79 |
+| Grounded | 4.00% | ~79 |
 | Heart Attack | 4.00% | ~79 |
 | Skin of Their Teeth | 4.00% | ~79 |
-| Bad Wiring | 3.00% | ~59 |
-| Grounded | 3.00% | ~59 |
+| Bad Wiring | 3.00% | ~60 |
 | Neighborhood Revitalization | 2.00% | ~40 |
 | Radio Silence | 2.00% | ~40 |
 | Starve the Beast | 2.00% | ~40 |
 | Helping Hand | 2.00% | ~40 |
 | I Spit On Your Grave | 2.00% | ~40 |
+| Revelations | 1.00% | ~20 |
 | Contingency Plans | 1.00% | ~20 |
 | Sic Transit Umbra | 1.00% | ~20 |
 | Bell-ringer | 1.00% | ~20 |
@@ -35,7 +36,6 @@ Rating: 3.56 (Ranked 1,064)
 | You Clean It Up | 1.00% | ~20 |
 | From the Shadows | 1.00% | ~20 |
 | Harvest’s End | 1.00% | ~20 |
-| Revelations | 0.90% | ~18 |
 | Block Party | 0.90% | ~18 |
 | Check, Please! | 0.90% | ~18 |
 | Nice Try | 0.90% | ~18 |
@@ -72,7 +72,7 @@ Rating: 3.56 (Ranked 1,064)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,983 (Ranked 237)  
+Progressed: 1,984 (Ranked 237)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-19 | 1,947 | 0 |
 | 2023-12-20 | 1,963 | 0 |
 | 2023-12-21 | 1,977 | 0 |
-| 2023-12-22 | 1,983 | 0 |
+| 2023-12-22 | 1,984 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

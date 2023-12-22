@@ -1,21 +1,21 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.53 (Ranked 552)  
+Rating: 4.52 (Ranked 565)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~6,153 |
-| Greasy Palms | 42.00% | ~5,618 |
-| South American Connection | 26.00% | ~3,478 |
-| Life of the Party | 20.00% | ~2,675 |
+| Legal Counsel | 46.00% | ~6,156 |
+| Greasy Palms | 42.00% | ~5,621 |
+| South American Connection | 26.00% | ~3,480 |
+| Life of the Party | 20.00% | ~2,677 |
 | Tommy Two-Wheels | 15.00% | ~2,007 |
-| Big Heat from Little Havana | 14.00% | ~1,873 |
-| Chauffeur | 14.00% | ~1,873 |
-| Salutations My Little Friend | 11.00% | ~1,471 |
+| Big Heat from Little Havana | 14.00% | ~1,874 |
+| Chauffeur | 14.00% | ~1,874 |
+| Salutations My Little Friend | 11.00% | ~1,472 |
 | Iron-y | 10.00% | ~1,338 |
 | Gun for Hire | 9.00% | ~1,204 |
-| Mischief Managed | 8.00% | ~1,070 |
+| Mischief Managed | 8.00% | ~1,071 |
 | Vice City Mogul | 6.00% | ~803 |
 | Catch Me if You Can | 6.00% | ~803 |
 | Bloodstained Hands | 6.00% | ~803 |
@@ -40,7 +40,7 @@ Rating: 4.53 (Ranked 552)
 | Done it All | 0.90% | ~120 |
 | Kingpin | 0.50% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,377 (Ranked 166)  
+Progressed: 13,383 (Ranked 166)  
 Completed: 73 (0.55%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 73 (0.55%) (Ranked 206)
 | 2023-12-19 | 12,956 | 70 |
 | 2023-12-20 | 13,130 | 71 |
 | 2023-12-21 | 13,290 | 72 |
-| 2023-12-22 | 13,377 | 73 |
+| 2023-12-22 | 13,383 | 73 |
 ## Awards
 Max (Great Boss Battles): 133  (Ranked 335)  
 Sum: 133 (Ranked 437)  
@@ -449,3 +449,4 @@ Diff (max vs sum): -102
 | 2023-12-18 | 4.53 | 130 | 130 |
 | 2023-12-20 | 4.52 | 131 | 131 |
 | 2023-12-21 | 4.53 | 133 | 133 |
+| 2023-12-22 | 4.52 | 133 | 133 |

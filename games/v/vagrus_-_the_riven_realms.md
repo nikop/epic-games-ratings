@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Second Chance | 59.00% | ~135 |
-| Press-ganged | 43.00% | ~98 |
+| Press-ganged | 42.00% | ~96 |
 | The Package | 27.00% | ~62 |
 | Conquered | 20.00% | ~46 |
-| Randomized | 19.00% | ~43 |
+| Randomized | 19.00% | ~44 |
 | Scribe | 12.00% | ~27 |
 | Breached | 12.00% | ~27 |
 | Conciliator | 10.00% | ~23 |
@@ -25,20 +25,20 @@
 | Courier | 5.00% | ~11 |
 | Pilgrimage's End | 5.00% | ~11 |
 | Merchant | 5.00% | ~11 |
-| Quartermaster | 4.00% | ~9 |
 | Potential Unlocked | 4.00% | ~9 |
-| The Voice of Hereafter | 4.00% | ~9 |
-| Despised | 4.00% | ~9 |
 | Been There | 4.00% | ~9 |
-| A Terrible Will | 4.00% | ~9 |
 | Spiritual Journey | 4.00% | ~9 |
-| Inquisitions of Discord | 4.00% | ~9 |
 | Trouble at Fort Larius | 4.00% | ~9 |
 | Unseen Patterns | 4.00% | ~9 |
 | Bounty Hunter | 3.00% | ~7 |
+| Quartermaster | 3.00% | ~7 |
 | Huntress Unbound | 3.00% | ~7 |
 | Xevarian Gambit | 3.00% | ~7 |
+| The Voice of Hereafter | 3.00% | ~7 |
+| Despised | 3.00% | ~7 |
+| A Terrible Will | 3.00% | ~7 |
 | Life... Finds a Way | 3.00% | ~7 |
+| Inquisitions of Discord | 3.00% | ~7 |
 | Insectoid Propagator | 3.00% | ~7 |
 | Supercargo | 2.00% | ~5 |
 | Talent Nurtured | 2.00% | ~5 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228 (Ranked 393)  
+Progressed: 229 (Ranked 392)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-19 | 224 | 0 |
 | 2023-12-20 | 225 | 0 |
 | 2023-12-21 | 227 | 0 |
-| 2023-12-22 | 228 | 0 |
+| 2023-12-22 | 229 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

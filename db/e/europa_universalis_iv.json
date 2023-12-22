@@ -13575,9 +13575,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 481081,
+  "EOS_Progressed": 481138,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5842,
+  "EOS_NewPlayers": 5854,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41890,6 +41890,11 @@
       "Time": "2023-12-22T13:08:31.2821541+00:00",
       "NumProgressed": 481081,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-22T14:05:32.6733569+00:00",
+      "NumProgressed": 481138,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -42899,9 +42904,9 @@
       "ID": "achievement_grand_army",
       "SetID": "8p2n7he",
       "Name": "That\u0027s a Grand Army",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1443
+      "UsersEstimate": 1925
     },
     {
       "ID": "achievement_grand_coalition",
@@ -44565,7 +44570,7 @@
       "Name": "Until death do us apart",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1924
+      "UsersEstimate": 1925
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -44804,21 +44809,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 481081,
+      "Progressed": 481138,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 481081,
+      "Progressed": 481138,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-12-22T11:59:03.7414948+00:00",
-  "LastChanged_Achievements": "2023-12-22T13:08:31.2821538+00:00",
+  "LastChanged_Achievements": "2023-12-22T14:05:32.6733562+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:33.9920534+00:00",
-  "LastUpdate_Ratings": "2023-12-22T13:01:20.0301288+00:00",
-  "LastUpdate_Achievements": "2023-12-22T13:08:31.2831471+00:00"
+  "LastUpdate_Ratings": "2023-12-22T13:58:32.8409078+00:00",
+  "LastUpdate_Achievements": "2023-12-22T14:05:32.6743975+00:00"
 }

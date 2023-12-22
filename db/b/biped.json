@@ -4,7 +4,7 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8471,
+  "EOS_Progressed": 8479,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 755,
+  "EOS_NewPlayers": 742,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14639,6 +14639,11 @@
       "Time": "2023-12-22T13:07:15.6672492+00:00",
       "NumProgressed": 8471,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T14:04:15.2301056+00:00",
+      "NumProgressed": 8479,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -14650,7 +14655,7 @@
       "Name": "First Step",
       "Percentage": 34,
       "XP": 45,
-      "UsersEstimate": 2880
+      "UsersEstimate": 2883
     },
     {
       "ID": "10",
@@ -14706,7 +14711,7 @@
       "Name": "Dense Forest",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 2287
+      "UsersEstimate": 2289
     },
     {
       "ID": "3",
@@ -14714,7 +14719,7 @@
       "Name": "Cactus Vally",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1696
     },
     {
       "ID": "4",
@@ -14722,7 +14727,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "5",
@@ -14730,7 +14735,7 @@
       "Name": "Snowy Peak",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "6",
@@ -14738,7 +14743,7 @@
       "Name": "High Treetops",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "7",
@@ -14760,16 +14765,16 @@
       "ID": "9",
       "SetID": "1dkhij4",
       "Name": "Speed\u00A0walkers",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 508
+      "UsersEstimate": 424
     }
   ],
   "AchievementSets": [
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 8471,
+      "Progressed": 8479,
       "Completed": 0
     }
   ],
@@ -14777,8 +14782,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-12-22T13:07:15.6672487+00:00",
+  "LastChanged_Achievements": "2023-12-22T14:04:15.2301052+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:47.9764383+00:00",
-  "LastUpdate_Ratings": "2023-12-22T13:02:50.8230713+00:00",
-  "LastUpdate_Achievements": "2023-12-22T13:07:15.6673133+00:00"
+  "LastUpdate_Ratings": "2023-12-22T14:00:06.6301628+00:00",
+  "LastUpdate_Achievements": "2023-12-22T14:04:15.2302361+00:00"
 }

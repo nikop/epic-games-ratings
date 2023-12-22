@@ -3539,7 +3539,7 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18908,
+  "EOS_Progressed": 18912,
   "EOS_Completed": 39,
   "EOS_NewPlayers": 699,
   "EOS_NewCompleters": 0,
@@ -16684,6 +16684,11 @@
       "Time": "2023-12-22T13:11:16.0973151+00:00",
       "NumProgressed": 18908,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-22T14:07:57.3609648+00:00",
+      "NumProgressed": 18912,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16918,9 +16923,9 @@
       "ID": "WinNearRuins",
       "SetID": "cfbk359",
       "Name": "Lost Colonies",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 378
     },
     {
       "ID": "WinNearStatue",
@@ -17096,7 +17101,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1135
     },
     {
       "ID": "WinNearFrosts",
@@ -17120,7 +17125,7 @@
       "Name": "Overgrown Library",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1135
     },
     {
       "ID": "WinNearPetrified",
@@ -17128,7 +17133,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "WinNearPresence",
@@ -17167,15 +17172,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18908,
+      "Progressed": 18912,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-21T17:59:36.1497483+00:00",
-  "LastChanged_Achievements": "2023-12-22T13:11:16.0973147+00:00",
+  "LastChanged_Achievements": "2023-12-22T14:07:57.3609643+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
-  "LastUpdate_Ratings": "2023-12-22T13:03:09.6958571+00:00",
-  "LastUpdate_Achievements": "2023-12-22T13:11:16.0974021+00:00"
+  "LastUpdate_Ratings": "2023-12-22T14:00:26.4290488+00:00",
+  "LastUpdate_Achievements": "2023-12-22T14:07:57.3610539+00:00"
 }

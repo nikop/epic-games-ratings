@@ -1,12 +1,12 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.57 (Ranked 483)  
+Rating: 4.58 (Ranked 457)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 30.00% | ~1,089 |
-| Sputnik 2049 | 27.00% | ~980 |
+| Wakey Wakey | 30.00% | ~1,090 |
+| Sputnik 2049 | 27.00% | ~981 |
 | Infinite Growth... | 26.00% | ~944 |
 | Without Breaking Some Eggs... | 25.00% | ~908 |
 | A Thousand Strong | 18.00% | ~654 |
@@ -20,11 +20,11 @@ Rating: 4.57 (Ranked 483)
 | Exceeding Capacity | 12.00% | ~436 |
 | Breaking Protocol | 12.00% | ~436 |
 | Hope Seeker | 12.00% | ~436 |
-| A Hunk of Junk | 11.00% | ~399 |
+| A Hunk of Junk | 11.00% | ~400 |
 | Man's Best Friend | 9.00% | ~327 |
-| Power Outage | 8.00% | ~290 |
-| Convenient Transport | 8.00% | ~290 |
-| Please Make it Stop! | 8.00% | ~290 |
+| Power Outage | 8.00% | ~291 |
+| Convenient Transport | 8.00% | ~291 |
+| Please Make it Stop! | 8.00% | ~291 |
 | Sightseeing | 7.00% | ~254 |
 | Necessary Enhancement | 7.00% | ~254 |
 | From the Past | 7.00% | ~254 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 483)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,631 (Ranked 212)  
+Progressed: 3,632 (Ranked 212)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-19 | 3,586 | 0 |
 | 2023-12-20 | 3,605 | 0 |
 | 2023-12-21 | 3,624 | 0 |
-| 2023-12-22 | 3,631 | 0 |
+| 2023-12-22 | 3,632 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -358,3 +358,4 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-06 | 4.57 | 0 | 0 |
 | 2023-12-10 | 4.58 | 0 | 0 |
 | 2023-12-21 | 4.57 | 0 | 0 |
+| 2023-12-22 | 4.58 | 0 | 0 |

@@ -14,29 +14,29 @@ Rating: 4.28 (Ranked 871)
 | Down Boy! | 2.00% | ~850 |
 | A Snowball's Chance in Hell | 2.00% | ~850 |
 | Enjoy The Silence | 1.00% | ~425 |
-| Sure Footed As A Goat | 0.90% | ~382 |
-| Backdoor Man | 0.90% | ~382 |
+| Sure Footed As A Goat | 0.90% | ~383 |
+| Backdoor Man | 0.90% | ~383 |
 | Thorn in My Herbicide | 0.80% | ~340 |
 | Red In Tooth And Claw | 0.80% | ~340 |
 | Death Becomes Her | 0.80% | ~340 |
 | The Sky Is Falling | 0.80% | ~340 |
 | Schadenfreude | 0.80% | ~340 |
-| Start As You Mean To Go On | 0.70% | ~297 |
-| Hail the Great Horned Metal God! | 0.70% | ~297 |
-| That'll Come In Handy... | 0.70% | ~297 |
-| Four Legged Friend | 0.50% | ~212 |
-| Oh God, Mother! Blood! Blood! | 0.50% | ~212 |
-| Ice To See You | 0.50% | ~212 |
-| Smack My Imp Up | 0.50% | ~212 |
-| Vroll With It | 0.30% | ~127 |
-| Swift of Foot, Keen of Blade | 0.30% | ~127 |
+| Start As You Mean To Go On | 0.70% | ~298 |
+| Hail the Great Horned Metal God! | 0.70% | ~298 |
+| That'll Come In Handy... | 0.70% | ~298 |
+| Four Legged Friend | 0.50% | ~213 |
+| Oh God, Mother! Blood! Blood! | 0.50% | ~213 |
+| Ice To See You | 0.50% | ~213 |
+| Smack My Imp Up | 0.50% | ~213 |
+| Vroll With It | 0.30% | ~128 |
+| Swift of Foot, Keen of Blade | 0.30% | ~128 |
 | Flame Retardant | 0.20% | ~85 |
-| Too Metal For Magic | 0.10% | ~42 |
-| Heart Of Steel | 0.10% | ~42 |
-| Death or Glory | 0.10% | ~42 |
+| Too Metal For Magic | 0.10% | ~43 |
+| Heart Of Steel | 0.10% | ~43 |
+| Death or Glory | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,499 (Ranked 126)  
-Completed: 30 (0.07%) (Ranked 320)  
+Progressed: 42,502 (Ranked 126)  
+Completed: 30 (0.07%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -281,7 +281,7 @@ Completed: 30 (0.07%) (Ranked 320)
 | 2023-12-19 | 42,342 | 30 |
 | 2023-12-20 | 42,411 | 30 |
 | 2023-12-21 | 42,474 | 30 |
-| 2023-12-22 | 42,499 | 30 |
+| 2023-12-22 | 42,502 | 30 |
 ## Awards
 Max (Great Boss Battles): 128  (Ranked 341)  
 Sum: 128 (Ranked 441)  
