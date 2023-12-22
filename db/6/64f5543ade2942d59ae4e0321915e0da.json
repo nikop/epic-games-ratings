@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -1012,9 +1012,9 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 105
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -1028,9 +1028,9 @@
       "ID": "AC_DEATH_ENEMIES_3",
       "SetID": "16i2akc",
       "Name": "Genocide",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 45,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "AC_DISTANCE_1",
@@ -1092,9 +1092,9 @@
       "ID": "AC_FULL_MAP",
       "SetID": "16i2akc",
       "Name": "Vision",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "AC_MONEY_BLACKJACK",
@@ -1187,8 +1187,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-22T06:03:33.7607401+00:00",
+  "LastChanged_Achievements": "2023-12-22T07:03:27.5179262+00:00",
   "LastUpdate_AppInfo": "2023-12-19T20:57:15.8211494+00:00",
-  "LastUpdate_Ratings": "2023-12-22T05:57:26.0535426+00:00",
-  "LastUpdate_Achievements": "2023-12-22T06:03:33.7607683+00:00"
+  "LastUpdate_Ratings": "2023-12-22T06:57:24.0484098+00:00",
+  "LastUpdate_Achievements": "2023-12-22T07:03:27.5179607+00:00"
 }

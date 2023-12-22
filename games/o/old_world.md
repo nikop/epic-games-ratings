@@ -205,6 +205,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Great Mage | 0.10% | ~16 |
 | Pilgrimage | 0.10% | ~16 |
 | Poetic Leader | 0.10% | ~16 |
+| Rmt n Kmt Buhen | 0.10% | ~16 |
+| Greater Kmt Unified | 0.10% | ~16 |
+| Kmt Unified | 0.10% | ~16 |
 | Ramesses II KIA | 0.10% | ~16 |
 | Lost the Hearts of Kmt | 0.10% | ~16 |
 | Won the Hearts of Kmt | 0.10% | ~16 |
@@ -316,11 +319,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Patriarch St Paul | 0.00% | ~0 |
 | Hypatia the Teacher | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
-| Rmt n Kmt Buhen | 0.00% | ~0 |
 | Only Kem | 0.00% | ~0 |
 | Sepat Wase Forever | 0.00% | ~0 |
-| Greater Kmt Unified | 0.00% | ~0 |
-| Kmt Unified | 0.00% | ~0 |
 | Pharaonic Greater Kmt Unified | 0.00% | ~0 |
 | Pharaonic Kmt Unified | 0.00% | ~0 |
 | Golden Age-less | 0.00% | ~0 |

@@ -244,9 +244,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "7on801h",
       "Name": "We Are Human Beings",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -452,9 +452,9 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "7on801h",
       "Name": "The Supreme Enlightened",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -905,8 +905,8 @@
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2023-12-22T06:03:44.9826573+00:00",
+  "LastChanged_Achievements": "2023-12-22T07:03:38.122127+00:00",
   "LastUpdate_AppInfo": "2023-12-20T16:57:12.9726855+00:00",
-  "LastUpdate_Ratings": "2023-12-22T05:57:43.7030559+00:00",
-  "LastUpdate_Achievements": "2023-12-22T06:03:44.9827281+00:00"
+  "LastUpdate_Ratings": "2023-12-22T06:57:41.7620787+00:00",
+  "LastUpdate_Achievements": "2023-12-22T07:03:38.1222125+00:00"
 }

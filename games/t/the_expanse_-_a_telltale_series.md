@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 533)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 14.00% | ~2,387 |
-| Captain Drummer | 10.00% | ~1,705 |
-| Celebrations are in Order | 10.00% | ~1,705 |
+| Oyedang, Kopengs | 14.00% | ~2,388 |
+| Captain Drummer | 10.00% | ~1,706 |
+| Celebrations are in Order | 10.00% | ~1,706 |
 | The Pit and the Pirates | 9.00% | ~1,535 |
 | Martian Music | 9.00% | ~1,535 |
 | Drone Dodger | 9.00% | ~1,535 |
@@ -15,13 +15,13 @@ Rating: 4.54 (Ranked 533)
 | Impossible Objects | 9.00% | ~1,535 |
 | Stogie for Fogey | 8.00% | ~1,364 |
 | Spore Taste | 8.00% | ~1,364 |
-| Zen Master | 8.00% | ~240 |
+| Zen Master | 8.00% | ~241 |
 | Call it Even | 7.00% | ~1,194 |
-| Safe Cracker | 7.00% | ~210 |
-| Madame Undersecretary | 7.00% | ~210 |
+| Safe Cracker | 7.00% | ~211 |
+| Madame Undersecretary | 7.00% | ~211 |
 | Drug Gifter | 6.00% | ~1,023 |
 | Heal Thy Medic | 6.00% | ~1,023 |
-| Keep Arjun in Check | 6.00% | ~180 |
+| Keep Arjun in Check | 6.00% | ~181 |
 | Data Archivist | 5.00% | ~853 |
 | Thorston Mayer | 5.00% | ~853 |
 | Khan's Revenge | 5.00% | ~853 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 533)
 | Scavenger Star | 0.20% | ~34 |
 | Data Collector | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,052 (Ranked 154)  
+Progressed: 17,055 (Ranked 154)  
 Completed: 46 (0.27%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 46 (0.27%) (Ranked 254)
 | 2023-12-19 | 16,865 | 45 |
 | 2023-12-20 | 16,946 | 46 |
 | 2023-12-21 | 17,033 | 46 |
-| 2023-12-22 | 17,052 | 46 |
+| 2023-12-22 | 17,055 | 46 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

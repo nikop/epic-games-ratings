@@ -4,7 +4,7 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 395,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 593,
+  "EOS_Progressed": 594,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.18,
   "EosHistory": [
@@ -2589,6 +2589,11 @@
       "Time": "2023-12-20T21:04:14.6833898+00:00",
       "NumProgressed": 593,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-22T07:04:28.2368604+00:00",
+      "NumProgressed": 594,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 14,
@@ -2616,7 +2621,7 @@
       "Name": "The crucifixion",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -2664,7 +2669,7 @@
       "Name": "This looks really bad",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -2672,7 +2677,7 @@
       "Name": "Unholy lands",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -2704,21 +2709,21 @@
       "Name": "Flagellation",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     }
   ],
   "AchievementSets": [
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 593,
+      "Progressed": 594,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-12-22T06:04:35.1920544+00:00",
+  "LastChanged_Achievements": "2023-12-22T07:04:28.2368601+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:57:05.7189556+00:00",
-  "LastUpdate_Ratings": "2023-12-22T05:58:06.8016069+00:00",
-  "LastUpdate_Achievements": "2023-12-22T06:04:35.1920799+00:00"
+  "LastUpdate_Ratings": "2023-12-22T06:58:03.9883731+00:00",
+  "LastUpdate_Achievements": "2023-12-22T07:04:28.2368814+00:00"
 }

@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escape from Fleed | 53.00% | ~9 |
-| First Contact | 47.00% | ~8 |
-| The Remains of Fleed | 47.00% | ~8 |
-| Life of Pi | 47.00% | ~8 |
-| The Legend | 47.00% | ~8 |
-| Strength in Defeat | 41.00% | ~7 |
-| Technology first! | 41.00% | ~7 |
-| The Keeper of Fleed | 35.00% | ~6 |
-| The Exterminator | 24.00% | ~4 |
-| Earth's Savior | 18.00% | ~3 |
-| Iron Fist | 18.00% | ~3 |
-| The Space Hydra | 18.00% | ~3 |
-| The Vega Turtle | 18.00% | ~3 |
-| A Good Paint Job | 12.00% | ~2 |
-| The Collector | 12.00% | ~2 |
-| The Royal Guard | 12.00% | ~2 |
+| Escape from Fleed | 50.00% | ~9 |
+| First Contact | 44.00% | ~8 |
+| Strength in Defeat | 44.00% | ~8 |
+| The Remains of Fleed | 44.00% | ~8 |
+| Life of Pi | 44.00% | ~8 |
+| The Legend | 44.00% | ~8 |
+| Technology first! | 39.00% | ~7 |
+| The Keeper of Fleed | 33.00% | ~6 |
+| The Exterminator | 22.00% | ~4 |
+| Earth's Savior | 17.00% | ~3 |
+| Iron Fist | 17.00% | ~3 |
+| The Space Hydra | 17.00% | ~3 |
+| The Vega Turtle | 17.00% | ~3 |
+| A Good Paint Job | 11.00% | ~2 |
+| The Collector | 11.00% | ~2 |
+| The Royal Guard | 11.00% | ~2 |
 | Gold Seeker | 6.00% | ~1 |
 | The Power of Friendship | 6.00% | ~1 |
 | The Planner | 6.00% | ~1 |
@@ -35,7 +35,7 @@
 | The Completionist | 0.00% | ~0 |
 | The Fire Cannons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17 (Ranked 615)  
+Progressed: 18 (Ranked 611)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -50,3 +50,4 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-06 | 13 | 0 |
 | 2023-12-08 | 16 | 0 |
 | 2023-12-20 | 17 | 0 |
+| 2023-12-22 | 18 | 0 |

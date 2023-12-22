@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 93,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -477,9 +477,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3511,
+  "EOS_Progressed": 3512,
   "EOS_Completed": 139,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.96,
   "EosHistory": [
@@ -5797,6 +5797,11 @@
       "Time": "2023-12-22T05:03:06.771151+00:00",
       "NumProgressed": 3511,
       "NumCompleted": 139
+    },
+    {
+      "Time": "2023-12-22T07:03:21.6550652+00:00",
+      "NumProgressed": 3512,
+      "NumCompleted": 139
     }
   ],
   "TotalAchievements": 14,
@@ -5904,7 +5909,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 1053
+      "UsersEstimate": 1054
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -5919,7 +5924,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3511,
+      "Progressed": 3512,
       "Completed": 139
     }
   ],
@@ -5927,8 +5932,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-12-16T18:57:24.1820131+00:00",
-  "LastChanged_Achievements": "2023-12-22T06:03:27.7817434+00:00",
+  "LastChanged_Achievements": "2023-12-22T07:03:21.6550649+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:20.5679965+00:00",
-  "LastUpdate_Ratings": "2023-12-22T05:59:49.0030863+00:00",
-  "LastUpdate_Achievements": "2023-12-22T06:03:27.7817869+00:00"
+  "LastUpdate_Ratings": "2023-12-22T06:59:43.5502515+00:00",
+  "LastUpdate_Achievements": "2023-12-22T07:03:21.655121+00:00"
 }

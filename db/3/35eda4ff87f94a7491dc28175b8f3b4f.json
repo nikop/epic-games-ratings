@@ -6,9 +6,9 @@
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 156,
-  "Ranking_EOS_Completed": 224,
+  "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2022-05-19T14:00:00+00:00",
@@ -263,11 +263,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16520,
-  "EOS_Completed": 73,
-  "EOS_NewPlayers": 1769,
-  "EOS_NewCompleters": 19,
-  "EOS_Completed_Percentage": 0.44,
+  "EOS_Progressed": 16526,
+  "EOS_Completed": 74,
+  "EOS_NewPlayers": 1768,
+  "EOS_NewCompleters": 20,
+  "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
     {
       "Time": "2023-10-19T17:06:35.017307+00:00",
@@ -5258,6 +5258,11 @@
       "Time": "2023-12-22T06:08:26.7479835+00:00",
       "NumProgressed": 16520,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-12-22T07:06:26.7860268+00:00",
+      "NumProgressed": 16526,
+      "NumCompleted": 74
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -5278,7 +5283,7 @@
       "Name": "Beam Me Up Scotty",
       "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 1156
+      "UsersEstimate": 1157
     },
     {
       "ID": "LISTEN_TO_ALL_6_VOICEMAILS_1_4",
@@ -5294,7 +5299,7 @@
       "Name": "Morbidly Curious",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "SAVE_EVERYONE_1_1",
@@ -5318,7 +5323,7 @@
       "Name": "Rescuer",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1982
+      "UsersEstimate": 1983
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -5326,7 +5331,7 @@
       "Name": "Secrets Out",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 1156
+      "UsersEstimate": 1157
     },
     {
       "ID": "UNLOCK_ALL_4_DOORS_1_3",
@@ -5342,23 +5347,23 @@
       "Name": "Investigator",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     }
   ],
   "AchievementSets": [
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 16520,
-      "Completed": 73
+      "Progressed": 16526,
+      "Completed": 74
     }
   ],
   "FirstSeen": "2023-10-19T17:59:40.5875906+00:00",
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2023-12-22T05:00:06.7831302+00:00",
-  "LastChanged_Achievements": "2023-12-22T06:08:26.7479817+00:00",
+  "LastChanged_Achievements": "2023-12-22T07:06:26.7860261+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:56.7597495+00:00",
-  "LastUpdate_Ratings": "2023-12-22T06:00:10.4141912+00:00",
-  "LastUpdate_Achievements": "2023-12-22T06:08:26.7480219+00:00"
+  "LastUpdate_Ratings": "2023-12-22T07:00:04.245431+00:00",
+  "LastUpdate_Achievements": "2023-12-22T07:06:26.7860661+00:00"
 }

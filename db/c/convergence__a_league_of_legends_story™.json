@@ -45,7 +45,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1058,
+  "EOS_Progressed": 1059,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
@@ -2955,6 +2955,11 @@
       "Time": "2023-12-22T01:54:29.5691838+00:00",
       "NumProgressed": 1058,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-22T07:09:31.1252312+00:00",
+      "NumProgressed": 1059,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3022,7 +3027,7 @@
       "Name": "Clovemary for Remembering",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "CosmeticCompletion1",
@@ -3126,7 +3131,7 @@
       "Name": "Rail Rat",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "HexlockGift",
@@ -3134,7 +3139,7 @@
       "Name": "Hexlock for Protection",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "InxChromaInTheatre",
@@ -3150,7 +3155,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "LacunaCompleted",
@@ -3158,7 +3163,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "MapCompletion1",
@@ -3206,7 +3211,7 @@
       "Name": "Time Flies",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ParryBoss",
@@ -3222,7 +3227,7 @@
       "Name": "No, Thanks!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "PhaseDiveCounter",
@@ -3246,7 +3251,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "RewindDamage1",
@@ -3262,7 +3267,7 @@
       "Name": "Honest Mistake",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ScrambotCompletion1",
@@ -3342,7 +3347,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "WarwickDefeated",
@@ -3350,7 +3355,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "WatcherFought",
@@ -3382,14 +3387,14 @@
       "Name": "The Family Fortune",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1058,
+      "Progressed": 1059,
       "Completed": 6
     }
   ],
@@ -3397,8 +3402,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-18T08:57:59.1291337+00:00",
-  "LastChanged_Achievements": "2023-12-22T06:09:52.462083+00:00",
+  "LastChanged_Achievements": "2023-12-22T07:09:31.1252309+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.1550939+00:00",
-  "LastUpdate_Ratings": "2023-12-22T05:59:48.4940329+00:00",
-  "LastUpdate_Achievements": "2023-12-22T06:09:52.4621363+00:00"
+  "LastUpdate_Ratings": "2023-12-22T06:59:43.0285706+00:00",
+  "LastUpdate_Achievements": "2023-12-22T07:09:31.1252816+00:00"
 }

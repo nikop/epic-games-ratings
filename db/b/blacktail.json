@@ -5,9 +5,9 @@
   "Ranking_Rating": 259,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
-  "Ranking_EOS_Progress": 290,
+  "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 812,
+  "EOS_Progressed": 813,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2476,6 +2476,11 @@
       "Time": "2023-12-22T05:09:33.3183065+00:00",
       "NumProgressed": 812,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-22T07:09:36.4708226+00:00",
+      "NumProgressed": 813,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -2487,7 +2492,7 @@
       "Name": "Extensive retelling",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "BadApple",
@@ -2543,7 +2548,7 @@
       "Name": "Sneak peek",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Favourite",
@@ -2551,7 +2556,7 @@
       "Name": "Favorite",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "FisherKing",
@@ -2647,7 +2652,7 @@
       "Name": "Queen",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Rats",
@@ -2727,7 +2732,7 @@
       "Name": "Forbidden techniques",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "YagaProfessional",
@@ -2742,7 +2747,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 812,
+      "Progressed": 813,
       "Completed": 1
     }
   ],
@@ -2750,8 +2755,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2023-12-22T06:09:57.8754803+00:00",
+  "LastChanged_Achievements": "2023-12-22T07:09:36.4708223+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:13.6567295+00:00",
-  "LastUpdate_Ratings": "2023-12-22T05:58:10.9632746+00:00",
-  "LastUpdate_Achievements": "2023-12-22T06:09:57.8755108+00:00"
+  "LastUpdate_Ratings": "2023-12-22T06:58:08.1813406+00:00",
+  "LastUpdate_Achievements": "2023-12-22T07:09:36.4708588+00:00"
 }

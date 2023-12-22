@@ -20,18 +20,18 @@ Rating: 4.50 (Ranked 602)
 | There you are! | 4.00% | ~1,301 |
 | Vaporous Expansion | 4.00% | ~1,301 |
 | Whoopsie | 4.00% | ~1,301 |
-| Animated | 3.00% | ~975 |
-| Back Off | 3.00% | ~975 |
-| We have the best insurance | 3.00% | ~975 |
-| Ectoplasmic Entity | 3.00% | ~975 |
-| Ghostbuster In Training | 3.00% | ~975 |
-| Icing on the Cake | 3.00% | ~975 |
-| Legions | 3.00% | ~975 |
-| Pesky Jerks | 3.00% | ~975 |
-| Right back at ya | 3.00% | ~975 |
-| Seasoned | 3.00% | ~975 |
-| Side Hustle | 3.00% | ~975 |
-| Summoner | 3.00% | ~975 |
+| Animated | 3.00% | ~976 |
+| Back Off | 3.00% | ~976 |
+| We have the best insurance | 3.00% | ~976 |
+| Ectoplasmic Entity | 3.00% | ~976 |
+| Ghostbuster In Training | 3.00% | ~976 |
+| Icing on the Cake | 3.00% | ~976 |
+| Legions | 3.00% | ~976 |
+| Pesky Jerks | 3.00% | ~976 |
+| Right back at ya | 3.00% | ~976 |
+| Seasoned | 3.00% | ~976 |
+| Side Hustle | 3.00% | ~976 |
+| Summoner | 3.00% | ~976 |
 | Collector | 2.00% | ~650 |
 | Escape Artist | 2.00% | ~650 |
 | Reckless | 2.00% | ~650 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 602)
 | Ultimate Defense | 0.20% | ~65 |
 | Line em' up | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,516 (Ranked 130)  
+Progressed: 32,517 (Ranked 130)  
 Completed: 69 (0.21%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 69 (0.21%) (Ranked 268)
 | 2023-12-19 | 32,454 | 69 |
 | 2023-12-20 | 32,478 | 69 |
 | 2023-12-21 | 32,503 | 69 |
-| 2023-12-22 | 32,516 | 69 |
+| 2023-12-22 | 32,517 | 69 |
 ## Awards
 Max (Great for Beginners): 324  (Ranked 251)  
 Sum: 2,920 (Ranked 182)  

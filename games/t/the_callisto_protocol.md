@@ -1,7 +1,7 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.20 (Ranked 935)  
+Rating: 4.20 (Ranked 934)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,8 +13,8 @@ Rating: 4.20 (Ranked 935)
 | Chew 'Em Up | 11.00% | ~2,038 |
 | Float Like A Butterfly | 11.00% | ~2,038 |
 | Reforged | 10.00% | ~1,853 |
-| Workplace Hazard | 9.00% | ~1,667 |
-| If the SHU Fits... | 9.00% | ~1,667 |
+| Workplace Hazard | 9.00% | ~1,668 |
+| If the SHU Fits... | 9.00% | ~1,668 |
 | Without A Paddle | 8.00% | ~1,482 |
 | Two Heads Are Better Than One | 7.00% | ~1,297 |
 | In the Pipe, Five by Five | 7.00% | ~1,297 |
@@ -53,8 +53,8 @@ Rating: 4.20 (Ranked 935)
 | Bear Trap | 0.10% | ~6 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,527 (Ranked 149)  
-Completed: 82 (0.44%) (Ranked 224)  
+Progressed: 18,529 (Ranked 149)  
+Completed: 82 (0.44%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -291,7 +291,7 @@ Completed: 82 (0.44%) (Ranked 224)
 | 2023-12-19 | 18,137 | 82 |
 | 2023-12-20 | 18,301 | 82 |
 | 2023-12-21 | 18,465 | 82 |
-| 2023-12-22 | 18,527 | 82 |
+| 2023-12-22 | 18,529 | 82 |
 ## Awards
 Max (Quickly Understood Controls): 91  (Ranked 385)  
 Sum: 542 (Ranked 326)  

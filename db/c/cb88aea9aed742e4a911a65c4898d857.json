@@ -125,9 +125,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 6150,
+  "EOS_Progressed": 6157,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2533,
+  "EOS_NewPlayers": 2535,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1890,6 +1890,11 @@
       "Time": "2023-12-22T06:09:38.8408916+00:00",
       "NumProgressed": 6150,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T07:09:17.6389358+00:00",
+      "NumProgressed": 6157,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -1902,7 +1907,7 @@
       "Name": "Conspiracy",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1599
+      "UsersEstimate": 1601
     },
     {
       "ID": "03_TheStolenStar",
@@ -2062,7 +2067,7 @@
       "Name": "Perfect Timing",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "23_DynastyRestored",
@@ -2118,7 +2123,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "30_The GreatestExploration",
@@ -2134,7 +2139,7 @@
       "Name": "Don\u0027t Touch This",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "32_AviationSaviour",
@@ -2150,7 +2155,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -2254,7 +2259,7 @@
       "Name": "A Spark",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 922
+      "UsersEstimate": 924
     },
     {
       "ID": "47_AFlame",
@@ -2286,7 +2291,7 @@
       "Name": "Whodunit?",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "51_AmendsToTheDead",
@@ -2324,9 +2329,9 @@
       "ID": "55_ReturningTheBoots",
       "SetID": "37a94m8",
       "Name": "Returning the Boots",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 37
     },
     {
       "ID": "56_ThoroughInvestigation",
@@ -2421,7 +2426,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 6150,
+      "Progressed": 6157,
       "Completed": 0
     }
   ],
@@ -2429,8 +2434,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-21T13:02:03.5666365+00:00",
-  "LastChanged_Achievements": "2023-12-22T06:09:38.8408913+00:00",
+  "LastChanged_Achievements": "2023-12-22T07:09:17.6389355+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:04.5293385+00:00",
-  "LastUpdate_Ratings": "2023-12-22T05:58:00.5220881+00:00",
-  "LastUpdate_Achievements": "2023-12-22T06:09:38.8409374+00:00"
+  "LastUpdate_Ratings": "2023-12-22T06:57:57.8296855+00:00",
+  "LastUpdate_Achievements": "2023-12-22T07:09:17.6389941+00:00"
 }

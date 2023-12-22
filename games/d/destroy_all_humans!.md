@@ -8,8 +8,8 @@ Number of Ratings: 85  (23.09.2022)
 | ---- | ---------- | ----- |
 | Kaijuiced | 69.00% | ~61 |
 | Lie Back and Think of Albion | 63.00% | ~56 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 58.00% | ~52 |
 | Yettisoned | 57.00% | ~51 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 57.00% | ~51 |
 | Shop Til They Drop | 56.00% | ~50 |
 | I Look Up As I Walk to Takoshima | 55.00% | ~49 |
 | Perfect Probulator | 52.00% | ~46 |
@@ -17,7 +17,7 @@ Number of Ratings: 85  (23.09.2022)
 | Fly Me to the Moon Base | 46.00% | ~41 |
 | Pimp My Raid | 42.00% | ~37 |
 | Earthly Pleasures | 40.00% | ~36 |
-| Ducks in a Row, Fish in a Barrel | 39.00% | ~35 |
+| Ducks in a Row, Fish in a Barrel | 40.00% | ~36 |
 | Freshly Squeezed | 38.00% | ~34 |
 | Upgreatest | 30.00% | ~27 |
 | Bodied Sattva | 30.00% | ~27 |

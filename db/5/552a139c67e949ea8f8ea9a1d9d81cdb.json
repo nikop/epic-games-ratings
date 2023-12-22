@@ -2,9 +2,9 @@
   "ID": "552a139c67e949ea8f8ea9a1d9d81cdb",
   "Name": "HOT WHEELS UNLEASHED\u2122 2 - Turbocharged",
   "ProductSlug": "hot-wheels-unleashed-2",
-  "Ranking_EOS_Progress": 250,
+  "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1537,
+  "EOS_Progressed": 1538,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3667,6 +3667,11 @@
       "Time": "2023-12-22T04:04:06.0068009+00:00",
       "NumProgressed": 1537,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-22T07:04:03.5787256+00:00",
+      "NumProgressed": 1538,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -3839,7 +3844,7 @@
       "Name": "I\u0027m in charge here!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
@@ -3847,7 +3852,7 @@
       "Name": "The Octopus",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ML_ACHIEVEMENT_23",
@@ -3943,7 +3948,7 @@
       "Name": "Beyond the limit",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -4046,20 +4051,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1537,
+      "Progressed": 1538,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1205,
+      "Progressed": 1206,
       "Completed": 997
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-22T06:04:10.0672694+00:00",
+  "LastChanged_Achievements": "2023-12-22T07:04:03.5787253+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:08.51229+00:00",
-  "LastUpdate_Ratings": "2023-12-22T05:57:19.9268736+00:00",
-  "LastUpdate_Achievements": "2023-12-22T06:04:10.0673091+00:00"
+  "LastUpdate_Ratings": "2023-12-22T06:57:17.8580515+00:00",
+  "LastUpdate_Achievements": "2023-12-22T07:04:03.5787825+00:00"
 }

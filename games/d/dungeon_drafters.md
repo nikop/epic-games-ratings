@@ -11,12 +11,12 @@
 | Uncut Gem | 27.00% | ~32 |
 | Clear as Water | 25.00% | ~29 |
 | Setting Off | 24.00% | ~28 |
-| Card Collector | 22.00% | ~26 |
+| Card Collector | 23.00% | ~27 |
 | Riddlesolver | 21.00% | ~25 |
 | Dungeon Mastery | 18.00% | ~21 |
 | The Steed | 9.00% | ~11 |
 | A Strange Proposition | 9.00% | ~11 |
-| Card Completionist | 8.00% | ~9 |
+| Card Completionist | 9.00% | ~11 |
 | Braving Miasma | 7.00% | ~8 |
 | The Bodyguard | 6.00% | ~7 |
 | The Apprentice | 6.00% | ~7 |
@@ -45,7 +45,7 @@
 | Gladiator | 0.90% | ~1 |
 | True Drafter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117 (Ranked 455)  
+Progressed: 117 (Ranked 456)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |

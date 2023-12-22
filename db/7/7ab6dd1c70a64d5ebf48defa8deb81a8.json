@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1017,
+  "EOS_Progressed": 1020,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 608,
+  "EOS_NewPlayers": 604,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -2045,6 +2045,11 @@
       "Time": "2023-12-22T06:09:59.3631624+00:00",
       "NumProgressed": 1017,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-22T07:09:38.0350164+00:00",
+      "NumProgressed": 1020,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2056,7 +2061,7 @@
       "Name": "Break Out",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "ACH_02",
@@ -2064,15 +2069,15 @@
       "Name": "Find Allies",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ACH_03",
       "SetID": "efe2lj",
       "Name": "Powerful Allies",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_04",
@@ -2112,7 +2117,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ACH_09",
@@ -2128,7 +2133,7 @@
       "Name": "Trinity",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH_11",
@@ -2248,7 +2253,7 @@
       "Name": "Fashion Victim",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_26",
@@ -2272,7 +2277,7 @@
       "Name": "I Found It",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ACH_29",
@@ -2288,7 +2293,7 @@
       "Name": "Alchemist",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACH_31",
@@ -2296,7 +2301,7 @@
       "Name": "Stone Collection",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_33",
@@ -2312,7 +2317,7 @@
       "Name": "The Collector",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ACH_35",
@@ -2343,14 +2348,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1017,
+      "Progressed": 1020,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-22T06:09:59.3631621+00:00",
+  "LastChanged_Achievements": "2023-12-22T07:09:38.0350162+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
-  "LastUpdate_Ratings": "2023-12-22T05:58:14.0339224+00:00",
-  "LastUpdate_Achievements": "2023-12-22T06:09:59.363197+00:00"
+  "LastUpdate_Ratings": "2023-12-22T06:58:11.4584277+00:00",
+  "LastUpdate_Achievements": "2023-12-22T07:09:38.0350583+00:00"
 }

@@ -9,22 +9,22 @@
 | Mechanical Buddy | 67.00% | ~139 |
 | Dicesmithing Time! | 60.00% | ~125 |
 | Sanctuary Guardian | 54.00% | ~112 |
-| Endless Tricks | 49.00% | ~102 |
+| Endless Tricks | 50.00% | ~104 |
 | Wild's Keeper | 46.00% | ~96 |
 | Mind Illuminator | 43.00% | ~89 |
-| Noctuan Champion | 36.00% | ~75 |
-| Stellar Dismantler | 35.00% | ~73 |
+| Noctuan Champion | 37.00% | ~77 |
+| Stellar Dismantler | 36.00% | ~75 |
 | Anomaly Destroyer | 32.00% | ~67 |
 | Astral Adventurer | 31.00% | ~64 |
-| Star Killer | 27.00% | ~56 |
+| Star Killer | 28.00% | ~58 |
 | Eridanian Champion | 25.00% | ~52 |
+| Lacertian Champion | 24.00% | ~50 |
 | Loyal Partner | 23.00% | ~48 |
-| Lacertian Champion | 23.00% | ~48 |
-| Apian Champion | 21.00% | ~44 |
+| Apian Champion | 22.00% | ~46 |
 | Shard Spender | 18.00% | ~37 |
 | Unbeatable | 18.00% | ~37 |
-| Behenian Champion | 17.00% | ~35 |
-| Sadistic Plan | 14.00% | ~29 |
+| Behenian Champion | 18.00% | ~37 |
+| Sadistic Plan | 15.00% | ~31 |
 | Astral Seeker | 10.00% | ~21 |
 | Heavy Purger | 10.00% | ~21 |
 | Stellar Haste | 10.00% | ~21 |
@@ -34,9 +34,9 @@
 | Wave Bender | 9.00% | ~19 |
 | The Corruption Goddess | 8.00% | ~17 |
 | The Goddes Avatar | 8.00% | ~17 |
+| Can't touch this | 7.00% | ~15 |
 | Anomaly Control | 6.00% | ~12 |
 | Artificer | 6.00% | ~12 |
-| Can't touch this | 6.00% | ~12 |
 | Apian Hero | 6.00% | ~12 |
 | Denying Destiny | 5.00% | ~10 |
 | Prestidigitation | 5.00% | ~10 |

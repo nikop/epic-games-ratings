@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewPlayers": 75,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9928,10 +9928,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20910,
       "NumberOfAwardsMax": 7823
+    },
+    {
+      "Time": "2023-12-22T07:00:01.1234237+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20913,
+      "NumberOfAwardsMax": 7823
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20910,
+  "NumberOfAwards": 20913,
   "NumberOfAwardsMax": 7823,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9999,7 +10005,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1398
+      "Count": 1401
     },
     {
       "Text": "This game has a Creative Community",
@@ -10008,9 +10014,9 @@
       "Count": 1036
     }
   ],
-  "EOS_Progressed": 129038,
+  "EOS_Progressed": 129047,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1860,
+  "EOS_NewPlayers": 1855,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36218,6 +36224,11 @@
       "Time": "2023-12-22T06:09:18.4728535+00:00",
       "NumProgressed": 129038,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-22T07:08:57.4331896+00:00",
+      "NumProgressed": 129047,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36715,9 +36726,9 @@
       "ID": "run_victory_act05",
       "SetID": "64l4lke",
       "Name": "Body of Work",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 774
+      "UsersEstimate": 903
     },
     {
       "ID": "run_victory_all_confessions_back_to_back",
@@ -36773,7 +36784,7 @@
       "Name": "This guy... again?",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -36813,7 +36824,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -36821,7 +36832,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "quest_complete_crusader",
@@ -36829,7 +36840,7 @@
       "Name": "Lost and Found",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -36860,21 +36871,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 129038,
+      "Progressed": 129047,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 3907,
+      "Progressed": 3916,
       "Completed": 806
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-22T04:00:00.1015404+00:00",
-  "LastChanged_Achievements": "2023-12-22T06:09:18.4728531+00:00",
+  "LastChanged": "2023-12-22T07:00:01.1234235+00:00",
+  "LastChanged_Achievements": "2023-12-22T07:08:57.4331893+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-22T06:00:07.1447633+00:00",
-  "LastUpdate_Achievements": "2023-12-22T06:09:18.4730162+00:00"
+  "LastUpdate_Ratings": "2023-12-22T07:00:01.123424+00:00",
+  "LastUpdate_Achievements": "2023-12-22T07:08:57.4334517+00:00"
 }

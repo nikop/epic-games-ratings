@@ -12,8 +12,8 @@
 | Elephant in the room | 32.00% | ~90 |
 | Dark and stinky | 30.00% | ~84 |
 | Sneak in, sneak out | 26.00% | ~73 |
+| A gift horse | 26.00% | ~73 |
 | Is this the end? | 25.00% | ~70 |
-| A gift horse | 25.00% | ~70 |
 | You sssaved me | 24.00% | ~67 |
 | Say hello to my little friends | 21.00% | ~59 |
 | Heal thyself | 20.00% | ~56 |

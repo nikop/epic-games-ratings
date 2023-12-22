@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 65.00% | ~558 |
-| The Teleprobe | 52.00% | ~446 |
-| The City | 47.00% | ~403 |
-| The field base | 43.00% | ~369 |
+| The Camp | 64.00% | ~550 |
+| The Teleprobe | 52.00% | ~447 |
+| The City | 47.00% | ~404 |
+| The field base | 42.00% | ~361 |
 | Survivors | 36.00% | ~309 |
 | The Alliance | 34.00% | ~292 |
 | The Condor | 34.00% | ~292 |
@@ -17,8 +17,8 @@
 | Peacemaker | 22.00% | ~189 |
 | Volcanologist | 20.00% | ~172 |
 | On her own | 19.00% | ~163 |
-| Fierce fight | 18.00% | ~154 |
-| Evacuation | 18.00% | ~154 |
+| Fierce fight | 18.00% | ~155 |
+| Evacuation | 18.00% | ~155 |
 | Beyond divisions | 17.00% | ~146 |
 | Flying Objects Operator | 15.00% | ~129 |
 | I remember everything! | 13.00% | ~112 |
@@ -26,7 +26,7 @@
 | Violent solution | 9.00% | ~77 |
 | I leave no man behind | 8.00% | ~69 |
 | Innate curiosity | 8.00% | ~69 |
-| Strong objection | 6.00% | ~51 |
+| Strong objection | 6.00% | ~52 |
 | Ubiquitous holes | 5.00% | ~43 |
 | The Invincible | 5.00% | ~43 |
 | Got lost again | 5.00% | ~43 |
@@ -34,7 +34,7 @@
 | Convoy list | 0.80% | ~7 |
 | No more mistakes | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 858 (Ranked 284)  
+Progressed: 859 (Ranked 284)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,4 +81,4 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-19 | 807 | 0 |
 | 2023-12-20 | 836 | 0 |
 | 2023-12-21 | 853 | 0 |
-| 2023-12-22 | 858 | 0 |
+| 2023-12-22 | 859 | 0 |

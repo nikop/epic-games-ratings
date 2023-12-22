@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -183,11 +183,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1709,
+  "EOS_Progressed": 1710,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.59,
+  "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:19.3415137+00:00",
@@ -2728,6 +2728,11 @@
       "Time": "2023-12-22T04:05:35.6172186+00:00",
       "NumProgressed": 1709,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-22T07:05:29.0159595+00:00",
+      "NumProgressed": 1710,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -2739,7 +2744,7 @@
       "Name": "Lovebirds",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "10",
@@ -2867,7 +2872,7 @@
       "Name": "In my shoes",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "25",
@@ -2923,7 +2928,7 @@
       "Name": "Spring cleaning",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "4",
@@ -2939,7 +2944,7 @@
       "Name": "An eye for an eye",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "6",
@@ -2963,7 +2968,7 @@
       "Name": "Over my dead body",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "9",
@@ -2978,15 +2983,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1709,
+      "Progressed": 1710,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-22T06:05:37.2141949+00:00",
+  "LastChanged_Achievements": "2023-12-22T07:05:29.0159592+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.3116727+00:00",
-  "LastUpdate_Ratings": "2023-12-22T05:59:50.4763412+00:00",
-  "LastUpdate_Achievements": "2023-12-22T06:05:37.2142182+00:00"
+  "LastUpdate_Ratings": "2023-12-22T06:59:44.9761228+00:00",
+  "LastUpdate_Achievements": "2023-12-22T07:05:29.0159957+00:00"
 }

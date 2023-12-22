@@ -22,7 +22,7 @@
 | Bakery Empire | 6.00% | ~11 |
 | A Loving Home | 6.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 176 (Ranked 413)  
+Progressed: 176 (Ranked 414)  
 Completed: 2 (1.14%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |

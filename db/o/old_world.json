@@ -20461,9 +20461,9 @@
       "ID": "ACHIEVEMENT_EGYPT1_BUHEN",
       "SetID": "9201eeb",
       "Name": "Rmt n Kmt Buhen",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_EGYPT1_DEFEAT",
@@ -20485,17 +20485,17 @@
       "ID": "ACHIEVEMENT_EGYPT1_MAJOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Greater Kmt Unified",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_EGYPT1_MINOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Kmt Unified",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_EGYPT1_PHARAOH_MAJOR_VICTORY",
@@ -20971,8 +20971,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-22T01:47:48.5403593+00:00",
-  "LastChanged_Achievements": "2023-12-22T06:09:49.3322634+00:00",
+  "LastChanged_Achievements": "2023-12-22T07:09:28.2510307+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:47.4773202+00:00",
-  "LastUpdate_Ratings": "2023-12-22T06:02:57.7780446+00:00",
-  "LastUpdate_Achievements": "2023-12-22T06:09:49.3332446+00:00"
+  "LastUpdate_Ratings": "2023-12-22T07:02:49.7346567+00:00",
+  "LastUpdate_Achievements": "2023-12-22T07:09:28.2519733+00:00"
 }

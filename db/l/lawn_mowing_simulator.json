@@ -2230,9 +2230,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 690026,
+  "EOS_Progressed": 690034,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 1871,
+  "EOS_NewPlayers": 1877,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30455,6 +30455,11 @@
       "Time": "2023-12-22T06:10:00.901528+00:00",
       "NumProgressed": 690026,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-12-22T07:09:39.6196442+00:00",
+      "NumProgressed": 690034,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 54,
@@ -30466,7 +30471,7 @@
       "Name": "The dream begins",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 545121
+      "UsersEstimate": 545127
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -30554,7 +30559,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 248409
+      "UsersEstimate": 248412
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -30706,7 +30711,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 213908
+      "UsersEstimate": 213911
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -30770,7 +30775,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 103504
+      "UsersEstimate": 103505
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -30866,7 +30871,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 124205
+      "UsersEstimate": 124206
     },
     {
       "ID": "RP_TRUSTED",
@@ -30882,7 +30887,7 @@
       "Name": "Blade Runner",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 62102
+      "UsersEstimate": 62103
     },
     {
       "ID": "UPGRADE_COMPANY_HQ",
@@ -30897,15 +30902,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 690026,
+      "Progressed": 690034,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-12-22T00:00:38.9182801+00:00",
-  "LastChanged_Achievements": "2023-12-22T06:10:00.9015277+00:00",
+  "LastChanged_Achievements": "2023-12-22T07:09:39.619644+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:21.409328+00:00",
-  "LastUpdate_Ratings": "2023-12-22T06:00:12.3820916+00:00",
-  "LastUpdate_Achievements": "2023-12-22T06:10:00.9016649+00:00"
+  "LastUpdate_Ratings": "2023-12-22T07:00:06.269795+00:00",
+  "LastUpdate_Achievements": "2023-12-22T07:09:39.6198975+00:00"
 }

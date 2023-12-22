@@ -6,24 +6,24 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 9.00% | ~13,217 |
-| Titan's First Steps | 9.00% | ~13,217 |
+| Sponsored by Argon | 9.00% | ~13,218 |
+| Titan's First Steps | 9.00% | ~13,218 |
 | Basic in Bulk | 8.00% | ~11,749 |
 | Tinkle of Coins | 8.00% | ~11,749 |
-| Disintermediation | 6.00% | ~8,811 |
-| It's Free Real Estate | 6.00% | ~8,811 |
-| Capitalism Ho! | 6.00% | ~8,811 |
+| Disintermediation | 6.00% | ~8,812 |
+| It's Free Real Estate | 6.00% | ~8,812 |
+| Capitalism Ho! | 6.00% | ~8,812 |
 | One Easy Payment | 5.00% | ~7,343 |
 | Some Assembly Required | 5.00% | ~7,343 |
 | Another Satisfied Customer | 5.00% | ~7,343 |
 | Budding Merchant | 5.00% | ~7,343 |
 | Own the Means of Production | 5.00% | ~7,343 |
-| The Daily Grind | 4.00% | ~5,874 |
-| Bounty Hunters | 4.00% | ~5,874 |
-| Where it Hurts | 4.00% | ~5,874 |
-| Pretty Penny | 4.00% | ~5,874 |
-| One-Armed Bandit | 4.00% | ~5,874 |
-| Through Repetition, Perfection | 4.00% | ~5,874 |
+| The Daily Grind | 4.00% | ~5,875 |
+| Bounty Hunters | 4.00% | ~5,875 |
+| Where it Hurts | 4.00% | ~5,875 |
+| Pretty Penny | 4.00% | ~5,875 |
+| One-Armed Bandit | 4.00% | ~5,875 |
+| Through Repetition, Perfection | 4.00% | ~5,875 |
 | On the Path to Greatness | 3.00% | ~4,406 |
 | Ascended | 3.00% | ~4,406 |
 | Research & Development | 3.00% | ~4,406 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~587 |
 | Capitalist Camaraderie | 0.20% | ~294 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 146,857 (Ranked 82)  
+Progressed: 146,867 (Ranked 82)  
 Completed: 329 (0.22%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -365,7 +365,7 @@ Completed: 329 (0.22%) (Ranked 266)
 | 2023-12-19 | 146,428 | 325 |
 | 2023-12-20 | 146,580 | 325 |
 | 2023-12-21 | 146,796 | 328 |
-| 2023-12-22 | 146,857 | 329 |
+| 2023-12-22 | 146,867 | 329 |
 ## Awards
 Max (Great for Beginners): 4,900  (Ranked 75)  
 Sum: 27,772 (Ranked 52)  

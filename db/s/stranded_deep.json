@@ -2,12 +2,12 @@
   "ID": "5fd8f5ae809f46d4b33741cc80d3aef8",
   "Name": "Stranded Deep",
   "ProductSlug": "stranded-deep",
-  "Ranking_Rating": 922,
+  "Ranking_Rating": 921,
   "Ranking_Popularity": 281,
   "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 814,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 560,
+  "Ranking_EOS_NewPlayers": 561,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2020-12-28T16:00:00+00:00",
@@ -2809,10 +2809,16 @@
       "Rating": 4.22,
       "NumberOfAwards": 1174,
       "NumberOfAwardsMax": 228
+    },
+    {
+      "Time": "2023-12-22T06:59:14.2243904+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 1175,
+      "NumberOfAwardsMax": 228
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1174,
+  "NumberOfAwards": 1175,
   "NumberOfAwardsMax": 228,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -2868,7 +2874,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 98
+      "Count": 99
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2888,8 +2894,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:37.8027761+00:00",
-  "LastChanged": "2023-12-21T17:58:58.4119688+00:00",
+  "LastChanged": "2023-12-22T06:59:14.2243902+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.4749775+00:00",
-  "LastUpdate_Ratings": "2023-12-22T05:59:18.9113038+00:00",
-  "LastUpdate_Achievements": "2023-12-22T06:08:30.8001758+00:00"
+  "LastUpdate_Ratings": "2023-12-22T06:59:14.2243908+00:00",
+  "LastUpdate_Achievements": "2023-12-22T07:06:30.6944674+00:00"
 }

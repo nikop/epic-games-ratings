@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17256,
+  "EOS_Progressed": 17257,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 214,
+  "EOS_NewPlayers": 215,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -16700,6 +16700,11 @@
       "Time": "2023-12-22T06:05:10.599839+00:00",
       "NumProgressed": 17256,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-12-22T07:05:02.5607906+00:00",
+      "NumProgressed": 17257,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 41,
@@ -16751,7 +16756,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5694
+      "UsersEstimate": 5695
     },
     {
       "ID": "tpote_achievement_15",
@@ -16799,7 +16804,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5694
+      "UsersEstimate": 5695
     },
     {
       "ID": "tpote_achievement_20",
@@ -16815,7 +16820,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 5004
+      "UsersEstimate": 5005
     },
     {
       "ID": "tpote_achievement_22",
@@ -16887,7 +16892,7 @@
       "Name": "Let there be darkness",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5349
+      "UsersEstimate": 5350
     },
     {
       "ID": "tpote_achievement_30",
@@ -16919,7 +16924,7 @@
       "Name": "Nothing but make-believe",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1380
+      "UsersEstimate": 1381
     },
     {
       "ID": "tpote_achievement_34",
@@ -16975,7 +16980,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6902
+      "UsersEstimate": 6903
     },
     {
       "ID": "tpote_achievement_40",
@@ -16999,7 +17004,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 4141
+      "UsersEstimate": 4142
     },
     {
       "ID": "tpote_achievement_6",
@@ -17038,15 +17043,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17256,
+      "Progressed": 17257,
       "Completed": 119
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2023-12-22T06:05:10.5998387+00:00",
+  "LastChanged_Achievements": "2023-12-22T07:05:02.5607902+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:13.9933566+00:00",
-  "LastUpdate_Ratings": "2023-12-22T05:59:47.9964496+00:00",
-  "LastUpdate_Achievements": "2023-12-22T06:05:10.5999261+00:00"
+  "LastUpdate_Ratings": "2023-12-22T06:59:42.5610107+00:00",
+  "LastUpdate_Achievements": "2023-12-22T07:05:02.5609019+00:00"
 }
