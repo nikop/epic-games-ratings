@@ -155,7 +155,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1244,
+  "EOS_Progressed": 1245,
   "EOS_Completed": 34,
   "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 2,
@@ -4230,6 +4230,11 @@
       "Time": "2023-12-22T12:05:53.6071065+00:00",
       "NumProgressed": 1244,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-22T13:07:53.1337233+00:00",
+      "NumProgressed": 1245,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4242,7 +4247,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -4250,7 +4255,7 @@
       "Name": "A New Journey",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "_03_FinishAct1",
@@ -4274,7 +4279,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -4282,7 +4287,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "_07_FinishAct3",
@@ -4306,7 +4311,7 @@
       "Name": "Powder Monkey",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "_10_Completion_30",
@@ -4449,7 +4454,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1244,
+      "Progressed": 1245,
       "Completed": 34
     }
   ],
@@ -4457,8 +4462,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-21T17:58:16.3881577+00:00",
-  "LastChanged_Achievements": "2023-12-22T12:05:53.6071062+00:00",
+  "LastChanged_Achievements": "2023-12-22T13:07:53.1337226+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:17.2609478+00:00",
-  "LastUpdate_Ratings": "2023-12-22T11:59:44.89262+00:00",
-  "LastUpdate_Achievements": "2023-12-22T12:05:53.6071336+00:00"
+  "LastUpdate_Ratings": "2023-12-22T13:01:49.3856393+00:00",
+  "LastUpdate_Achievements": "2023-12-22T13:07:53.1337577+00:00"
 }

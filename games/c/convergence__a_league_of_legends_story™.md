@@ -6,31 +6,31 @@ Rating: 4.64 (Ranked 338)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 39.00% | ~415 |
-| The Mysterious Stranger | 29.00% | ~308 |
-| Rail Rat | 29.00% | ~308 |
+| Rail Rat | 30.00% | ~319 |
+| The Mysterious Stranger | 29.00% | ~309 |
 | Immaculate Aim | 25.00% | ~266 |
 | The Brass Boss | 24.00% | ~255 |
-| Make Up For Lost Time | 23.00% | ~244 |
-| Time Flies | 23.00% | ~244 |
-| No, Thanks! | 23.00% | ~244 |
-| The Prince in Heels | 23.00% | ~244 |
-| Immaculate Aim | 23.00% | ~244 |
+| Make Up For Lost Time | 23.00% | ~245 |
+| Time Flies | 23.00% | ~245 |
+| No, Thanks! | 23.00% | ~245 |
+| The Prince in Heels | 23.00% | ~245 |
+| Immaculate Aim | 23.00% | ~245 |
 | The Steel Shadow | 22.00% | ~234 |
 | The Harder They Fall | 22.00% | ~234 |
 | Breaking Down Barriers | 22.00% | ~234 |
+| The Wicked Twins | 22.00% | ~234 |
 | Honest Mistake | 22.00% | ~234 |
 | Fast Learner | 22.00% | ~234 |
-| The Wicked Twins | 21.00% | ~223 |
 | Right On Time | 20.00% | ~213 |
 | Like Clockwork | 20.00% | ~213 |
 | The Betrayer | 20.00% | ~213 |
 | Golem Chaser | 20.00% | ~213 |
 | Check Your Pulse | 19.00% | ~202 |
-| The Man Who Shattered Time | 18.00% | ~191 |
-| The Loose Cannon | 18.00% | ~191 |
-| The Family Fortune | 18.00% | ~191 |
+| The Man Who Shattered Time | 18.00% | ~192 |
+| The Loose Cannon | 18.00% | ~192 |
+| The Family Fortune | 18.00% | ~192 |
 | Street Style | 17.00% | ~181 |
-| Whiz Kid | 15.00% | ~159 |
+| Whiz Kid | 15.00% | ~160 |
 | Good Neighbor | 14.00% | ~149 |
 | Treasure Trove | 13.00% | ~138 |
 | Family Memories | 13.00% | ~138 |
@@ -59,7 +59,7 @@ Rating: 4.64 (Ranked 338)
 | Raw Talent | 0.70% | ~7 |
 | Going to Live Forever | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,063 (Ranked 275)  
+Progressed: 1,064 (Ranked 275)  
 Completed: 6 (0.56%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 6 (0.56%) (Ranked 203)
 | 2023-12-19 | 1,037 | 6 |
 | 2023-12-20 | 1,046 | 6 |
 | 2023-12-21 | 1,057 | 6 |
-| 2023-12-22 | 1,063 | 6 |
+| 2023-12-22 | 1,064 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 814,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 562,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2020-06-11T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -15780,10 +15780,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 281392,
       "NumberOfAwardsMax": 64928
+    },
+    {
+      "Time": "2023-12-22T13:01:59.3376897+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 281409,
+      "NumberOfAwardsMax": 64928
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 281392,
+  "NumberOfAwards": 281409,
   "NumberOfAwardsMax": 64928,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -15809,7 +15815,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 21731
+      "Count": 21733
     },
     {
       "Text": "This game is Educational",
@@ -15833,7 +15839,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 20546
+      "Count": 20552
     },
     {
       "Text": "This game has Amazing Characters",
@@ -15845,7 +15851,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 20438
+      "Count": 20447
     },
     {
       "Text": "This game has Diverse Characters",
@@ -15871,8 +15877,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
-  "LastChanged": "2023-12-22T11:00:02.5626376+00:00",
+  "LastChanged": "2023-12-22T13:01:59.3376896+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:10.6412529+00:00",
-  "LastUpdate_Ratings": "2023-12-22T12:00:00.0239258+00:00",
-  "LastUpdate_Achievements": "2023-12-22T12:05:54.6729061+00:00"
+  "LastUpdate_Ratings": "2023-12-22T13:01:59.3376901+00:00",
+  "LastUpdate_Achievements": "2023-12-22T13:07:54.0997915+00:00"
 }

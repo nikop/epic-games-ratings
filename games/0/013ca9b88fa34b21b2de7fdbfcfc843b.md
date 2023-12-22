@@ -17,9 +17,9 @@ Rating: 4.63 (Ranked 353)
 | Mist Walker | 0.70% | ~60 |
 | Clear the Air | 0.60% | ~52 |
 | Lumberjack | 0.60% | ~52 |
+| Oui, Chef! | 0.60% | ~52 |
 | Exit Through The Gift Shop | 0.60% | ~7 |
 | Search for the Hairy Grell | 0.50% | ~43 |
-| Oui, Chef! | 0.50% | ~43 |
 | Beach Comber | 0.40% | ~34 |
 | Higher Tax Bracket | 0.40% | ~34 |
 | Botanical Breakthrough | 0.40% | ~34 |

@@ -11,11 +11,11 @@ Number of Ratings: 124  (23.09.2022)
 | Role Model | 9.00% | ~5 |
 | Military Leader | 5.00% | ~3 |
 | Creator | 5.00% | ~3 |
+| Civilian | 5.00% | ~3 |
 | Peddler | 4.00% | ~2 |
 | Long-Haul Flyer | 4.00% | ~2 |
 | Globetrotter | 4.00% | ~2 |
 | Free as a Bird | 4.00% | ~2 |
-| Civilian | 4.00% | ~2 |
 | Irissa's Fate | 4.00% | ~2 |
 | Storyteller | 2.00% | ~1 |
 | Hotshot | 2.00% | ~1 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Fire in the Hole | 0.00% | ~0 |
 | Lover | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57 (Ranked 520)  
+Progressed: 57 (Ranked 521)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marc Allard | 70.00% | ~40 |
-| Little ideas | 65.00% | ~37 |
-| The Ship | 60.00% | ~34 |
+| Marc Allard | 72.00% | ~41 |
+| Little ideas | 67.00% | ~38 |
+| The Ship | 61.00% | ~35 |
 | Seeking the truth | 53.00% | ~30 |
 | An old friend | 51.00% | ~29 |
 | The Gala | 49.00% | ~28 |
@@ -51,7 +51,7 @@
 | A true performance | 12.00% | ~7 |
 | Perkins | 7.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57 (Ranked 520)  
+Progressed: 57 (Ranked 521)  
 Completed: 2 (3.51%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |

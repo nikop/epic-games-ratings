@@ -11,7 +11,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Explorer | 0.20% | ~32 |
 | Good | 0.20% | ~32 |
 | Intrepid | 0.20% | ~32 |
+| Learned | 0.20% | ~32 |
 | Mason | 0.20% | ~32 |
+| Noble | 0.20% | ~32 |
+| Pioneer | 0.20% | ~32 |
 | Settler | 0.20% | ~32 |
 | Friendly Family | 0.20% | ~32 |
 | Play a Single Player Game | 0.20% | ~32 |
@@ -66,14 +69,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Invincible | 0.10% | ~16 |
 | Just | 0.10% | ~16 |
 | Keystone | 0.10% | ~16 |
-| Learned | 0.10% | ~16 |
 | Lion | 0.10% | ~16 |
 | Magnificent | 0.10% | ~16 |
 | Mighty | 0.10% | ~16 |
-| Noble | 0.10% | ~16 |
 | Old | 0.10% | ~16 |
 | Peacemaker | 0.10% | ~16 |
-| Pioneer | 0.10% | ~16 |
 | Ready | 0.10% | ~16 |
 | Strong | 0.10% | ~16 |
 | Subjugator | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,869 (Ranked 160)  
+Progressed: 15,871 (Ranked 160)  
 Completed: 5 (0.03%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -611,7 +611,7 @@ Completed: 5 (0.03%) (Ranked 345)
 | 2023-12-19 | 15,840 | 5 |
 | 2023-12-20 | 15,854 | 5 |
 | 2023-12-21 | 15,865 | 5 |
-| 2023-12-22 | 15,869 | 5 |
+| 2023-12-22 | 15,871 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 279)  
 Sum: 1,907 (Ranked 220)  

@@ -8,8 +8,8 @@ Number of Ratings: 180  (23.09.2022)
 | ---- | ---------- | ----- |
 | First line | 75.00% | ~1,574 |
 | First cargo item waiting | 70.00% | ~1,469 |
+| First bus stop | 69.00% | ~1,448 |
 | First cargo item on board | 69.00% | ~1,448 |
-| First bus stop | 68.00% | ~1,427 |
 | First passenger on board | 65.00% | ~1,364 |
 | First passenger waiting | 65.00% | ~1,364 |
 | First bus arrived | 64.00% | ~1,343 |
@@ -302,7 +302,7 @@ Completed: 1 (0.05%) (Ranked 331)
 | 2023-12-22 | 2,099 | 1 |
 ## Awards
 Max (Great for Beginners): 48  (Ranked 449)  
-Sum: 325 (Ranked 365)  
+Sum: 326 (Ranked 365)  
 Diff (max vs sum): 84  
 | Award | Count |
 | ----- | ----- |
@@ -313,7 +313,7 @@ Diff (max vs sum): 84
 | This game has Quickly Understood Controls | 35 |
 | This game is Relaxing | 34 |
 | This game has a Creative Community | 31 |
-| This game is Educational | 29 |
+| This game is Educational | 30 |
 | This game has Amazing Characters | 26 |
 | This game has Obsessive Gameplay | 21 |
 ## Ratings History
@@ -433,3 +433,4 @@ Diff (max vs sum): 84
 | 2023-12-17 | 4.68 | - | 47 | 323 |
 | 2023-12-19 | 4.68 | - | 47 | 324 |
 | 2023-12-20 | 4.68 | - | 48 | 325 |
+| 2023-12-22 | 4.68 | - | 48 | 326 |

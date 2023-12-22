@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Act of Kindness | 88.00% | ~77 |
-| Air Fighter | 75.00% | ~66 |
-| Oo-De-Lally | 69.00% | ~61 |
-| The Altruist | 67.00% | ~59 |
-| Treasure Hunter | 65.00% | ~57 |
+| Act of Kindness | 88.00% | ~78 |
+| Air Fighter | 74.00% | ~66 |
+| Oo-De-Lally | 70.00% | ~62 |
+| The Altruist | 66.00% | ~59 |
+| Treasure Hunter | 64.00% | ~57 |
 | Watch your Step! | 53.00% | ~47 |
 | Tap Dancing | 52.00% | ~46 |
 | MAX LEVEL | 51.00% | ~45 |
 | Spring Board | 42.00% | ~37 |
-| Right between the eyes | 41.00% | ~36 |
-| Starry Night | 39.00% | ~34 |
-| Rebel Unleashed | 38.00% | ~33 |
+| Right between the eyes | 40.00% | ~36 |
+| Starry Night | 38.00% | ~34 |
+| Rebel Unleashed | 37.00% | ~33 |
 | Merry Co-operation | 35.00% | ~31 |
 | Locksley's Tears | 35.00% | ~31 |
 | Finish Him! | 27.00% | ~24 |
@@ -28,15 +28,15 @@
 | Take Action! | 18.00% | ~16 |
 | Ascending Will | 16.00% | ~14 |
 | Ultra Combo | 15.00% | ~13 |
-| Into the Lion's Den | 13.00% | ~11 |
+| Into the Lion's Den | 12.00% | ~11 |
 | Haute Couture | 11.00% | ~10 |
 | Sky High Fighter | 9.00% | ~8 |
 | The Gang prevails | 8.00% | ~7 |
 | Brilliant Executioner | 7.00% | ~6 |
 | Bold and Bossy | 6.00% | ~5 |
 | Power of Friendship! | 6.00% | ~5 |
-| No Mercy | 5.00% | ~4 |
-| Out of the ring | 5.00% | ~4 |
+| No Mercy | 4.00% | ~4 |
+| Out of the ring | 4.00% | ~4 |
 | King of the Iron Fist | 3.00% | ~3 |
 | Five of Friends | 2.00% | ~2 |
 | A Gest of Robyn Hode | 2.00% | ~2 |
@@ -58,7 +58,7 @@
 | The Armorer | 0.00% | ~0 |
 | Master of All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88 (Ranked 484)  
+Progressed: 89 (Ranked 481)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,3 +88,4 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-18 | 84 | 0 |
 | 2023-12-19 | 87 | 0 |
 | 2023-12-21 | 88 | 0 |
+| 2023-12-22 | 89 | 0 |

@@ -6,19 +6,19 @@ Number of Ratings: 896  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~571,913 |
-| Error: Stack Overflow | 66.00% | ~405,874 |
-| We need more gold | 61.00% | ~375,126 |
-| The dawn of civilization | 53.00% | ~325,929 |
-| More FPS for the FPS god! | 50.00% | ~307,480 |
-| Beauty and harmony | 48.00% | ~295,181 |
-| One more! | 44.00% | ~270,582 |
-| Overmind | 24.00% | ~147,590 |
-| RNG is my best friend now | 18.00% | ~110,693 |
-| Cosplay | 14.00% | ~86,094 |
-| Evolution in progress... | 13.00% | ~79,945 |
+| First.. Bit? | 93.00% | ~571,918 |
+| Error: Stack Overflow | 66.00% | ~405,878 |
+| We need more gold | 61.00% | ~375,129 |
+| The dawn of civilization | 53.00% | ~325,932 |
+| More FPS for the FPS god! | 50.00% | ~307,483 |
+| Beauty and harmony | 48.00% | ~295,184 |
+| One more! | 44.00% | ~270,585 |
+| Overmind | 24.00% | ~147,592 |
+| RNG is my best friend now | 18.00% | ~110,694 |
+| Cosplay | 14.00% | ~86,095 |
+| Evolution in progress... | 13.00% | ~79,946 |
 | Step by step | 8.00% | ~49,197 |
-| README reader | 4.00% | ~24,598 |
+| README reader | 4.00% | ~24,599 |
 | Data scientist | 3.00% | ~18,449 |
 | One small step for a man... | 3.00% | ~18,449 |
 | To see it all, to learn it all | 2.00% | ~12,299 |
@@ -35,7 +35,7 @@ Number of Ratings: 896  (23.09.2022)
 | Elements will destroy you! | 0.40% | ~2,460 |
 | The Scrooge | 0.10% | ~615 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 614,960 (Ranked 31)  
+Progressed: 614,966 (Ranked 31)  
 Completed: 559 (0.09%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,11 +281,11 @@ Completed: 559 (0.09%) (Ranked 310)
 | 2023-12-19 | 614,576 | 557 |
 | 2023-12-20 | 614,717 | 557 |
 | 2023-12-21 | 614,889 | 558 |
-| 2023-12-22 | 614,960 | 559 |
+| 2023-12-22 | 614,966 | 559 |
 ## Awards
-Max (Challenging Puzzles): 139  (Ranked 329)  
+Max (Challenging Puzzles): 139  (Ranked 330)  
 Sum: 139 (Ranked 436)  
-Diff (max vs sum): -107  
+Diff (max vs sum): -106  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 139 |

@@ -1,7 +1,7 @@
 # Tchia
 [Store](https://store.epicgames.com/en-US/p/tchia)  
 [View Rawdata](../../db/t/tchia.json)  
-Rating: 4.71 (Ranked 197)  
+Rating: 4.71 (Ranked 198)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,6 +11,7 @@ Rating: 4.71 (Ranked 197)
 | Globe Trotter | 0.10% | ~8 |
 | In a Pinch | 0.10% | ~8 |
 | Snip Snip | 0.10% | ~8 |
+| Soul-Canon | 0.10% | ~8 |
 | The Journey Onwards | 0.10% | ~8 |
 | Ahem Ahem | 0.00% | ~0 |
 | Arrr! | 0.00% | ~0 |
@@ -24,7 +25,6 @@ Rating: 4.71 (Ranked 197)
 | Liberator | 0.00% | ~0 |
 | Live Wire | 0.00% | ~0 |
 | Shredder | 0.00% | ~0 |
-| Soul-Canon | 0.00% | ~0 |
 | Thing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 8,185 (Ranked 182)  

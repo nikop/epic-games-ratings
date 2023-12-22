@@ -2,7 +2,7 @@
   "ID": "5f7c8e78a55f4eb9956329556c44a27a",
   "Name": "There Is No Game - Wrong Dimension",
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
-  "Ranking_EOS_Progress": 400,
+  "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 339,
   "Ranking_EOS_NewCompleters": 98,
@@ -1128,8 +1128,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-12-22T12:06:52.4811948+00:00",
+  "LastChanged_Achievements": "2023-12-22T13:08:36.4510271+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:02.2829018+00:00",
-  "LastUpdate_Ratings": "2023-12-22T11:59:16.7703666+00:00",
-  "LastUpdate_Achievements": "2023-12-22T12:06:52.4812146+00:00"
+  "LastUpdate_Ratings": "2023-12-22T13:01:29.3909091+00:00",
+  "LastUpdate_Achievements": "2023-12-22T13:08:36.4510532+00:00"
 }

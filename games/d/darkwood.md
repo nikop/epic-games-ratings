@@ -4,12 +4,12 @@
 Rating: 4.61 (Ranked 395)  
 ## Awards
 Max (Extremely Fun): 329  (Ranked 249)  
-Sum: 2,427 (Ranked 201)  
+Sum: 2,428 (Ranked 201)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 329 |
-| This game has Challenging Combat | 300 |
+| This game has Challenging Combat | 301 |
 | This game has Amazing Storytelling | 292 |
 | This game has Quickly Understood Controls | 277 |
 | This game is Highly Recommended | 274 |
@@ -95,3 +95,4 @@ Diff (max vs sum): 48
 | 2023-11-26 | 4.61 | 329 | 2,424 |
 | 2023-12-07 | 4.61 | 329 | 2,426 |
 | 2023-12-09 | 4.61 | 329 | 2,427 |
+| 2023-12-22 | 4.61 | 329 | 2,428 |

@@ -64,10 +64,10 @@
 | Aquarian Mastery | 2.00% | ~4 |
 | Eridanian Mastery | 2.00% | ~4 |
 | Noctuan Mastery | 2.00% | ~4 |
+| Anomaly Master | 1.00% | ~2 |
 | Royal Choir | 1.00% | ~2 |
 | Unepic Hero | 1.00% | ~2 |
 | Apian Mastery | 1.00% | ~2 |
-| Anomaly Master | 0.90% | ~2 |
 | Astral Tinkerer | 0.90% | ~2 |
 | Astrea's Saviors | 0.90% | ~2 |
 | Astrium Specialist | 0.90% | ~2 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211 (Ranked 402)  
+Progressed: 211 (Ranked 403)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |

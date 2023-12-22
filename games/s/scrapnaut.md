@@ -6,39 +6,39 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My New Home | 60.00% | ~327 |
-| Mushroom Picker | 56.00% | ~305 |
-| Scrap Gatherer | 56.00% | ~305 |
-| Scrapper | 46.00% | ~251 |
-| Teleport | 44.00% | ~240 |
-| Cook | 43.00% | ~234 |
-| Scrap Master | 38.00% | ~207 |
+| My New Home | 60.00% | ~328 |
+| Scrap Gatherer | 56.00% | ~306 |
+| Mushroom Picker | 55.00% | ~301 |
+| Scrapper | 45.00% | ~246 |
+| Teleport | 44.00% | ~241 |
+| Cook | 42.00% | ~230 |
+| Scrap Master | 37.00% | ~202 |
 | Smelter | 35.00% | ~191 |
-| Digger | 32.00% | ~174 |
-| Electro-Scrap Gatherer | 32.00% | ~174 |
-| Survivor | 31.00% | ~169 |
-| Lumberjack | 29.00% | ~158 |
-| Robot Destroyer | 29.00% | ~158 |
+| Digger | 32.00% | ~175 |
+| Electro-Scrap Gatherer | 31.00% | ~170 |
+| Survivor | 31.00% | ~170 |
+| Lumberjack | 29.00% | ~159 |
+| Robot Destroyer | 29.00% | ~159 |
 | Herbalist | 28.00% | ~153 |
 | Prepper | 26.00% | ~142 |
 | Electro-Scrap Master | 24.00% | ~131 |
-| Robot Hunter | 21.00% | ~114 |
+| Robot Hunter | 21.00% | ~115 |
 | Advanced Survivalist | 19.00% | ~104 |
-| Master Of Technology | 16.00% | ~87 |
-| Treasure Hunter | 16.00% | ~87 |
-| Mythical Smelter | 14.00% | ~76 |
-| Blacksmith | 12.00% | ~65 |
-| Master Of Management | 10.00% | ~54 |
-| Forest Lord | 10.00% | ~54 |
-| Fuel | 10.00% | ~54 |
-| Smelting Master | 10.00% | ~54 |
+| Master Of Technology | 16.00% | ~88 |
+| Treasure Hunter | 16.00% | ~88 |
+| Mythical Smelter | 14.00% | ~77 |
+| Blacksmith | 12.00% | ~66 |
+| Master Of Management | 10.00% | ~55 |
+| Forest Lord | 10.00% | ~55 |
+| Fuel | 10.00% | ~55 |
+| Smelting Master | 10.00% | ~55 |
 | Black Gold | 7.00% | ~38 |
 | Survival Master | 5.00% | ~27 |
 | Traveler | 3.00% | ~16 |
 | Forest Killer | 2.00% | ~11 |
 | Invincible | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 545 (Ranked 326)  
+Progressed: 547 (Ranked 326)  
 Completed: 3 (0.55%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,6 +199,7 @@ Completed: 3 (0.55%) (Ranked 206)
 | 2023-12-19 | 532 | 3 |
 | 2023-12-20 | 538 | 3 |
 | 2023-12-21 | 545 | 3 |
+| 2023-12-22 | 547 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 412,
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 643,
+  "EOS_Progressed": 644,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2533,6 +2533,11 @@
       "Time": "2023-12-22T12:09:16.4984908+00:00",
       "NumProgressed": 643,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T13:11:39.3532402+00:00",
+      "NumProgressed": 644,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2689,7 +2694,7 @@
       "Name": "Double Kill",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "FlameAttackKillCount",
@@ -2873,7 +2878,7 @@
       "Name": "Adept",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "WielderLevel2",
@@ -2905,7 +2910,7 @@
       "Name": "Humiliation",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -2929,7 +2934,7 @@
       "Name": "Veni, Vidi, Vici",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "WinSiegeAsDefender",
@@ -2976,15 +2981,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 643,
+      "Progressed": 644,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-22T12:09:16.4984898+00:00",
+  "LastChanged_Achievements": "2023-12-22T13:11:39.3532399+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:10.4027668+00:00",
-  "LastUpdate_Ratings": "2023-12-22T11:59:58.1423146+00:00",
-  "LastUpdate_Achievements": "2023-12-22T12:09:16.4985317+00:00"
+  "LastUpdate_Ratings": "2023-12-22T13:01:58.0839538+00:00",
+  "LastUpdate_Achievements": "2023-12-22T13:11:39.3532795+00:00"
 }

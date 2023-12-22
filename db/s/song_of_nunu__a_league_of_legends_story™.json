@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -65,7 +65,7 @@
   "Tags": [],
   "EOS_Progressed": 1278,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -3272,9 +3272,9 @@
       "ID": "EV_ACH14",
       "SetID": "6jeac23",
       "Name": "Boom Things",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 665
+      "UsersEstimate": 677
     },
     {
       "ID": "EV_ACH15",
@@ -3392,9 +3392,9 @@
       "ID": "EV_ACH29",
       "SetID": "6jeac23",
       "Name": "Cutie Poro",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 818
+      "UsersEstimate": 831
     },
     {
       "ID": "EV_ACH30",
@@ -3529,8 +3529,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-20T19:57:10.1945786+00:00",
-  "LastChanged_Achievements": "2023-12-22T12:10:54.1300334+00:00",
+  "LastChanged_Achievements": "2023-12-22T13:12:53.3361113+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:41.6283728+00:00",
-  "LastUpdate_Ratings": "2023-12-22T11:58:29.8189745+00:00",
-  "LastUpdate_Achievements": "2023-12-22T12:10:54.130076+00:00"
+  "LastUpdate_Ratings": "2023-12-22T13:00:56.6352013+00:00",
+  "LastUpdate_Achievements": "2023-12-22T13:12:53.3361475+00:00"
 }

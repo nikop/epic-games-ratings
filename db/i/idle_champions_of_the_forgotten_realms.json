@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8909,18 +8909,24 @@
       "Rating": 4.06,
       "NumberOfAwards": 33001,
       "NumberOfAwardsMax": 5669
+    },
+    {
+      "Time": "2023-12-22T13:05:44.8154426+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33011,
+      "NumberOfAwardsMax": 5676
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33001,
-  "NumberOfAwardsMax": 5669,
+  "NumberOfAwards": 33011,
+  "NumberOfAwardsMax": 5676,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5669
+      "Count": 5676
     },
     {
       "Text": "This game has Diverse Characters",
@@ -8944,7 +8950,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 4259
+      "Count": 4262
     },
     {
       "Text": "This game has Amazing Characters",
@@ -8959,10 +8965,10 @@
       "Count": 3583
     }
   ],
-  "EOS_Progressed": 243191,
+  "EOS_Progressed": 243216,
   "EOS_Completed": 2555,
-  "EOS_NewPlayers": 2600,
-  "EOS_NewCompleters": 28,
+  "EOS_NewPlayers": 2610,
+  "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
     {
@@ -36734,6 +36740,11 @@
       "Time": "2023-12-22T12:11:00.4756842+00:00",
       "NumProgressed": 243191,
       "NumCompleted": 2555
+    },
+    {
+      "Time": "2023-12-22T13:12:58.8538451+00:00",
+      "NumProgressed": 243216,
+      "NumCompleted": 2555
     }
   ],
   "TotalAchievements": 546,
@@ -41112,21 +41123,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 209465,
+      "Progressed": 209490,
       "Completed": 4054
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 243191,
+      "Progressed": 243216,
       "Completed": 2555
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-12-22T01:47:37.4753987+00:00",
-  "LastChanged_Achievements": "2023-12-22T12:11:00.4756838+00:00",
+  "LastChanged": "2023-12-22T13:05:44.8154424+00:00",
+  "LastChanged_Achievements": "2023-12-22T13:12:58.8538447+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:52.1318001+00:00",
-  "LastUpdate_Ratings": "2023-12-22T12:02:57.6005279+00:00",
-  "LastUpdate_Achievements": "2023-12-22T12:11:00.4779452+00:00"
+  "LastUpdate_Ratings": "2023-12-22T13:05:44.815443+00:00",
+  "LastUpdate_Achievements": "2023-12-22T13:12:58.8560356+00:00"
 }

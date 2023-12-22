@@ -1,22 +1,22 @@
 # Grand Theft Auto III – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-iii-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto_iii_–_the_definitive_edition.json)  
-Rating: 4.16 (Ranked 958)  
+Rating: 4.15 (Ranked 967)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~8,460 |
-| Disposing of the Evidence | 38.00% | ~3,873 |
-| Without a Scratch | 34.00% | ~3,466 |
-| Wreckless Driving | 28.00% | ~2,854 |
-| A Marked Man | 25.00% | ~2,548 |
+| First Day on the Job | 83.00% | ~8,463 |
+| Disposing of the Evidence | 38.00% | ~3,874 |
+| Without a Scratch | 34.00% | ~3,467 |
+| Wreckless Driving | 28.00% | ~2,855 |
+| A Marked Man | 25.00% | ~2,549 |
 | Street Sweeper | 18.00% | ~1,835 |
 | Liberty City Minute | 17.00% | ~1,733 |
 | Offshore Delivery | 13.00% | ~1,325 |
-| Dirty Money | 12.00% | ~1,223 |
-| By a Mile | 10.00% | ~1,019 |
-| Not So Fast | 10.00% | ~1,019 |
-| Right-hand Man | 10.00% | ~1,019 |
+| Dirty Money | 12.00% | ~1,224 |
+| By a Mile | 10.00% | ~1,020 |
+| Not So Fast | 10.00% | ~1,020 |
+| Right-hand Man | 10.00% | ~1,020 |
 | A Gift from the King | 7.00% | ~714 |
 | Full Artillery | 4.00% | ~408 |
 | Mob Boss | 3.00% | ~306 |
@@ -35,7 +35,7 @@ Rating: 4.16 (Ranked 958)
 | Is That All You've Got? | 0.90% | ~92 |
 | King of Liberty City | 0.60% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,193 (Ranked 174)  
+Progressed: 10,196 (Ranked 174)  
 Completed: 65 (0.64%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 65 (0.64%) (Ranked 196)
 | 2023-12-19 | 9,880 | 62 |
 | 2023-12-20 | 9,997 | 63 |
 | 2023-12-21 | 10,133 | 64 |
-| 2023-12-22 | 10,193 | 65 |
+| 2023-12-22 | 10,196 | 65 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -384,3 +384,4 @@ Completed: 65 (0.64%) (Ranked 196)
 | 2023-12-18 | 4.19 | 0 | 0 |
 | 2023-12-20 | 4.18 | 0 | 0 |
 | 2023-12-21 | 4.16 | 0 | 0 |
+| 2023-12-22 | 4.15 | 0 | 0 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 327,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1545,9 +1545,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 243982,
+  "EOS_Progressed": 243987,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1153,
+  "EOS_NewPlayers": 1148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23225,6 +23225,11 @@
       "Time": "2023-12-22T12:10:44.1226655+00:00",
       "NumProgressed": 243982,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-22T13:12:45.2234514+00:00",
+      "NumProgressed": 243987,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -23236,7 +23241,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7319
+      "UsersEstimate": 7320
     },
     {
       "ID": "100Fail",
@@ -23268,7 +23273,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7319
+      "UsersEstimate": 7320
     },
     {
       "ID": "BookCollection",
@@ -23300,7 +23305,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7319
+      "UsersEstimate": 7320
     },
     {
       "ID": "Chapter4",
@@ -23308,7 +23313,7 @@
       "Name": "The demons\u0027 feast",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7319
+      "UsersEstimate": 7320
     },
     {
       "ID": "Chapter5",
@@ -23316,7 +23321,7 @@
       "Name": "The Great Library",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7319
+      "UsersEstimate": 7320
     },
     {
       "ID": "Chapter6",
@@ -23388,7 +23393,7 @@
       "Name": "The Woman in the High Castle",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7319
+      "UsersEstimate": 7320
     },
     {
       "ID": "DLC1ChooseNecro",
@@ -23636,7 +23641,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 21958
+      "UsersEstimate": 21959
     },
     {
       "ID": "DwarfElf15Support",
@@ -23684,7 +23689,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 87834
+      "UsersEstimate": 87835
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -23732,7 +23737,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24398
+      "UsersEstimate": 24399
     },
     {
       "ID": "FollowBraztok",
@@ -23916,7 +23921,7 @@
       "Name": "Oh, when I\u0027ll be level 10...",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7319
+      "UsersEstimate": 7320
     },
     {
       "ID": "WizardEpic",
@@ -23939,21 +23944,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 243982,
+      "Progressed": 243987,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 243982,
+      "Progressed": 243987,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-12-20T20:02:43.3780941+00:00",
-  "LastChanged_Achievements": "2023-12-22T12:10:44.1226651+00:00",
+  "LastChanged_Achievements": "2023-12-22T13:12:45.2234511+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:08.5726178+00:00",
-  "LastUpdate_Ratings": "2023-12-22T11:58:15.3349548+00:00",
-  "LastUpdate_Achievements": "2023-12-22T12:10:44.1228533+00:00"
+  "LastUpdate_Ratings": "2023-12-22T13:00:46.0376774+00:00",
+  "LastUpdate_Achievements": "2023-12-22T13:12:45.223601+00:00"
 }

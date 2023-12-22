@@ -2,13 +2,13 @@
   "ID": "632b8c18774d480d978cb116518cd06b",
   "Name": "Miasma Chronicles",
   "ProductSlug": "miasma-chronicles",
-  "Ranking_Rating": 784,
+  "Ranking_Rating": 785,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 316,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -4327,9 +4327,9 @@
       "ID": "HOLD_THE_LINE",
       "SetID": "9a4jnji",
       "Name": "Hold The Line",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 523
+      "UsersEstimate": 539
     },
     {
       "ID": "IM_THE_LAW",
@@ -4504,8 +4504,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-12-18T20:02:59.2153729+00:00",
-  "LastChanged_Achievements": "2023-12-22T12:10:54.6175808+00:00",
+  "LastChanged_Achievements": "2023-12-22T13:12:53.6366756+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:53.0198818+00:00",
-  "LastUpdate_Ratings": "2023-12-22T12:03:19.5181506+00:00",
-  "LastUpdate_Achievements": "2023-12-22T12:10:54.6176307+00:00"
+  "LastUpdate_Ratings": "2023-12-22T13:06:00.2535595+00:00",
+  "LastUpdate_Achievements": "2023-12-22T13:12:53.6367179+00:00"
 }

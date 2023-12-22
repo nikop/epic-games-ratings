@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 478,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -299,9 +299,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 91,
+  "EOS_Progressed": 92,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -594,6 +594,11 @@
       "Time": "2023-12-22T11:06:56.1866778+00:00",
       "NumProgressed": 91,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T13:08:36.5359747+00:00",
+      "NumProgressed": 92,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -644,9 +649,9 @@
       "ID": "ACH_ABILITY_PKHUMANINTOHUMAN",
       "SetID": "cefn62b",
       "Name": "Yettisoned",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_ABILITY_PKHUMANINTOOCEAN",
@@ -662,7 +667,7 @@
       "Name": "Forbidden Donut",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_ABILITY_SCANINHOLOBOB",
@@ -670,7 +675,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_ABILITY_SMASHBUTTON",
@@ -684,7 +689,7 @@
       "ID": "ACH_ABILITY_TRANSMOG",
       "SetID": "cefn62b",
       "Name": "Freshly Squeezed",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
       "UsersEstimate": 36
     },
@@ -694,7 +699,7 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_CHALLENGE_ABDUCTIONTHREESTAR",
@@ -756,7 +761,7 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "cefn62b",
       "Name": "Earthly Pleasures",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
       "UsersEstimate": 37
     },
@@ -766,15 +771,15 @@
       "Name": "Kaijuiced",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_COLLECT_PROBE",
       "SetID": "cefn62b",
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_COMBAT_EVADEBAZOOKA",
@@ -804,7 +809,7 @@
       "ID": "ACH_ENEMY_KILLSWITHEXPLOSIVE",
       "SetID": "cefn62b",
       "Name": "Lobster Blisque",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
       "UsersEstimate": 46
     },
@@ -838,7 +843,7 @@
       "Name": "Pimp My Raid",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_INVADE_SANTAMODESTA",
@@ -852,9 +857,9 @@
       "ID": "ACH_INVADE_TURNIPSEED",
       "SetID": "cefn62b",
       "Name": "Shop Til They Drop",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_INVADE_UNIONTOWN",
@@ -876,7 +881,7 @@
       "ID": "ACH_MENU_FURONIGAMI",
       "SetID": "cefn62b",
       "Name": "Bodied Sattva",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
       "UsersEstimate": 28
     },
@@ -900,7 +905,7 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "cefn62b",
       "Name": "Perfect Probulator",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
       "UsersEstimate": 46
     },
@@ -908,7 +913,7 @@
       "ID": "ACH_UPGRADE_SAUCER",
       "SetID": "cefn62b",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
       "UsersEstimate": 36
     },
@@ -925,15 +930,15 @@
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 91,
+      "Progressed": 92,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2023-11-09T01:43:19.9714919+00:00",
-  "LastChanged_Achievements": "2023-12-22T12:06:52.5313591+00:00",
+  "LastChanged_Achievements": "2023-12-22T13:08:36.5359742+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:30.3369877+00:00",
-  "LastUpdate_Ratings": "2023-12-22T12:00:05.4434431+00:00",
-  "LastUpdate_Achievements": "2023-12-22T12:06:52.5313783+00:00"
+  "LastUpdate_Ratings": "2023-12-22T13:02:03.3009818+00:00",
+  "LastUpdate_Achievements": "2023-12-22T13:08:36.535996+00:00"
 }

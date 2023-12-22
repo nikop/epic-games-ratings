@@ -2,13 +2,13 @@
   "ID": "af0ea01162704696bebf8633a52a7a6d",
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
-  "Ranking_Rating": 1030,
+  "Ranking_Rating": 1031,
   "Ranking_Popularity": 207,
   "Ranking_PopularitySum": 191,
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -5101,10 +5101,16 @@
       "Rating": 3.95,
       "NumberOfAwards": 2699,
       "NumberOfAwardsMax": 570
+    },
+    {
+      "Time": "2023-12-22T13:01:22.5746587+00:00",
+      "Rating": 3.95,
+      "NumberOfAwards": 2700,
+      "NumberOfAwardsMax": 570
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2699,
+  "NumberOfAwards": 2700,
   "NumberOfAwardsMax": 570,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5124,7 +5130,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 523
+      "Count": 524
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5163,9 +5169,9 @@
       "Count": 520
     }
   ],
-  "EOS_Progressed": 92317,
+  "EOS_Progressed": 92327,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 399,
+  "EOS_NewPlayers": 407,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -28778,6 +28784,11 @@
       "Time": "2023-12-22T12:03:43.2428202+00:00",
       "NumProgressed": 92317,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-22T13:06:17.3157845+00:00",
+      "NumProgressed": 92327,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -28797,7 +28808,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1846
+      "UsersEstimate": 1847
     },
     {
       "ID": "ACH_0012",
@@ -29005,7 +29016,7 @@
       "Name": "Case Closed",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1846
+      "UsersEstimate": 1847
     },
     {
       "ID": "ACH_0420",
@@ -29013,7 +29024,7 @@
       "Name": "King of the Hill",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1846
+      "UsersEstimate": 1847
     },
     {
       "ID": "ACH_0430",
@@ -29021,7 +29032,7 @@
       "Name": "Fancy Pants",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1846
+      "UsersEstimate": 1847
     },
     {
       "ID": "ACH_0431",
@@ -29045,7 +29056,7 @@
       "Name": "Off the Rocks",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1846
+      "UsersEstimate": 1847
     },
     {
       "ID": "ACH_0451",
@@ -29053,7 +29064,7 @@
       "Name": "Raider\u2019s Ruin",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1846
+      "UsersEstimate": 1847
     },
     {
       "ID": "ACH_0452",
@@ -29061,7 +29072,7 @@
       "Name": "Dragonslayer",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1846
+      "UsersEstimate": 1847
     },
     {
       "ID": "ACH_0460",
@@ -29116,22 +29127,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 92317,
+      "Progressed": 92327,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 20664,
+      "Progressed": 20674,
       "Completed": 15589
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-12-22T06:58:09.0231777+00:00",
-  "LastChanged_Achievements": "2023-12-22T12:03:43.2428191+00:00",
+  "LastChanged": "2023-12-22T13:01:22.5746585+00:00",
+  "LastChanged_Achievements": "2023-12-22T13:06:17.3157839+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:15.2774722+00:00",
-  "LastUpdate_Ratings": "2023-12-22T11:59:07.3211417+00:00",
-  "LastUpdate_Achievements": "2023-12-22T12:03:43.2430127+00:00"
+  "LastUpdate_Ratings": "2023-12-22T13:01:22.5746591+00:00",
+  "LastUpdate_Achievements": "2023-12-22T13:06:17.3159289+00:00"
 }

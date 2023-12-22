@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -183,7 +183,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1710,
+  "EOS_Progressed": 1711,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
@@ -2733,6 +2733,11 @@
       "Time": "2023-12-22T07:05:29.0159595+00:00",
       "NumProgressed": 1710,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-22T13:08:44.0989363+00:00",
+      "NumProgressed": 1711,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -2808,7 +2813,7 @@
       "Name": "Balding bloot!",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1283
     },
     {
       "ID": "18",
@@ -2816,7 +2821,7 @@
       "Name": "Like new!",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "19",
@@ -2904,7 +2909,7 @@
       "Name": "Hug therapy",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "30",
@@ -2952,7 +2957,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "7",
@@ -2983,15 +2988,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1710,
+      "Progressed": 1711,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-22T12:07:02.5466656+00:00",
+  "LastChanged_Achievements": "2023-12-22T13:08:44.0989357+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.3116727+00:00",
-  "LastUpdate_Ratings": "2023-12-22T12:01:30.6606066+00:00",
-  "LastUpdate_Achievements": "2023-12-22T12:07:02.5466964+00:00"
+  "LastUpdate_Ratings": "2023-12-22T13:03:03.3613433+00:00",
+  "LastUpdate_Achievements": "2023-12-22T13:08:44.0989676+00:00"
 }

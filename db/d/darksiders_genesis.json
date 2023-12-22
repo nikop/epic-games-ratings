@@ -5,10 +5,10 @@
   "Ranking_Rating": 640,
   "Ranking_Popularity": 455,
   "Ranking_PopularitySum": 501,
-  "Ranking_EOS_Progress": 454,
+  "Ranking_EOS_Progress": 451,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-07-16T16:00:00+00:00",
     "PcReleaseDate": "2019-12-05T15:00:00+00:00",
@@ -439,9 +439,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 119,
+  "EOS_Progressed": 120,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -694,6 +694,11 @@
       "Time": "2023-12-22T09:10:08.1503215+00:00",
       "NumProgressed": 119,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T13:12:29.5201812+00:00",
+      "NumProgressed": 120,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:09:59.7070954+00:00",
@@ -720,9 +725,9 @@
       "ID": "Astarte",
       "SetID": "329ak73",
       "Name": "Astarte",
-      "Percentage": 0,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Belial",
@@ -945,15 +950,15 @@
     {
       "ID": "329ak73",
       "IsBase": true,
-      "Progressed": 119,
+      "Progressed": 120,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-21T15:01:03.7221978+00:00",
-  "LastChanged_Achievements": "2023-12-22T12:10:23.1614804+00:00",
+  "LastChanged_Achievements": "2023-12-22T13:12:29.5201809+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:26.1049217+00:00",
-  "LastUpdate_Ratings": "2023-12-22T12:01:42.3158582+00:00",
-  "LastUpdate_Achievements": "2023-12-22T12:10:23.1615001+00:00"
+  "LastUpdate_Ratings": "2023-12-22T13:03:11.2924036+00:00",
+  "LastUpdate_Achievements": "2023-12-22T13:12:29.5201959+00:00"
 }

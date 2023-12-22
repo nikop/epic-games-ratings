@@ -8,20 +8,20 @@ Number of Ratings: 53  (23.09.2022)
 | ---- | ---------- | ----- |
 | Cabin boy | 80.00% | ~890 |
 | My little farm | 64.00% | ~712 |
-| Every beginning is difficult | 63.00% | ~701 |
+| Every beginning is difficult | 62.00% | ~690 |
 | Gofer | 56.00% | ~623 |
 | 3, 2, 1, mine | 55.00% | ~612 |
 | O Captain! My Captain! | 55.00% | ~612 |
-| Seafarer | 51.00% | ~567 |
-| Greed for gold | 43.00% | ~478 |
+| Seafarer | 51.00% | ~568 |
+| Greed for gold | 43.00% | ~479 |
 | Intangible | 42.00% | ~467 |
 | I'm out of here for a while | 42.00% | ~467 |
 | In a mint condition | 38.00% | ~423 |
-| Licence to Kill | 37.00% | ~411 |
+| Licence to Kill | 37.00% | ~412 |
 | Pirates! | 34.00% | ~378 |
-| Collectionitis | 29.00% | ~322 |
-| Megalomania | 29.00% | ~322 |
-| Christening | 28.00% | ~311 |
+| Collectionitis | 29.00% | ~323 |
+| Megalomania | 29.00% | ~323 |
+| Christening | 27.00% | ~301 |
 | Groundskeeper | 25.00% | ~278 |
 | Wholesale | 22.00% | ~245 |
 | Walk the plank | 21.00% | ~234 |
@@ -39,8 +39,8 @@ Number of Ratings: 53  (23.09.2022)
 | The Grande Bouffe | 6.00% | ~67 |
 | Buccaneer | 5.00% | ~56 |
 | Flying Dutchman | 5.00% | ~56 |
-| A true pirate! | 4.00% | ~44 |
-| Overpopulation | 4.00% | ~44 |
+| A true pirate! | 4.00% | ~45 |
+| Overpopulation | 4.00% | ~45 |
 | Premier Maître | 3.00% | ~33 |
 | Supreme conqueror | 3.00% | ~33 |
 | Master & Commander | 3.00% | ~33 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Traffic chaos | 0.70% | ~8 |
 | Davy Jones' locker | 0.40% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,112 (Ranked 271)  
+Progressed: 1,113 (Ranked 271)  
 Completed: 1 (0.09%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 1 (0.09%) (Ranked 310)
 | 2023-12-19 | 1,101 | 1 |
 | 2023-12-20 | 1,105 | 1 |
 | 2023-12-21 | 1,108 | 1 |
-| 2023-12-22 | 1,112 | 1 |
+| 2023-12-22 | 1,113 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

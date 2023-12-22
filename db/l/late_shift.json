@@ -4,8 +4,8 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 808,
+  "EOS_Progressed": 809,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.11,
   "EosHistory": [
@@ -2110,6 +2110,11 @@
       "Time": "2023-12-22T08:09:06.4482132+00:00",
       "NumProgressed": 808,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-22T13:12:16.0032785+00:00",
+      "NumProgressed": 809,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 20,
@@ -2121,7 +2126,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 768
+      "UsersEstimate": 769
     },
     {
       "ID": "CHOICES_MATTER",
@@ -2161,7 +2166,7 @@
       "Name": "The Fool",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ENDING_5",
@@ -2193,7 +2198,7 @@
       "Name": "Even Tempered",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -2209,7 +2214,7 @@
       "Name": "Fair Share",
       "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "GOOD_KARMA",
@@ -2217,7 +2222,7 @@
       "Name": "Good Karma",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "INTERROGATION",
@@ -2265,7 +2270,7 @@
       "Name": "Shill Bidder",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "STAR_CROSSED_LOVERS",
@@ -2280,7 +2285,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 808,
+      "Progressed": 809,
       "Completed": 9
     }
   ],
@@ -2288,8 +2293,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-12-22T12:10:04.9978484+00:00",
+  "LastChanged_Achievements": "2023-12-22T13:12:16.0032783+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:24.4540531+00:00",
-  "LastUpdate_Ratings": "2023-12-22T12:00:26.3574011+00:00",
-  "LastUpdate_Achievements": "2023-12-22T12:10:04.9978699+00:00"
+  "LastUpdate_Ratings": "2023-12-22T13:02:17.3895383+00:00",
+  "LastUpdate_Achievements": "2023-12-22T13:12:16.0032949+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 148,
   "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,7 +20,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 686,
+  "EOS_Progressed": 687,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
@@ -2470,6 +2470,11 @@
       "Time": "2023-12-22T08:09:19.256733+00:00",
       "NumProgressed": 686,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-22T13:12:28.3913743+00:00",
+      "NumProgressed": 687,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -2490,7 +2495,7 @@
       "Name": "Holey Moley",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "achievement_11",
@@ -2538,7 +2543,7 @@
       "Name": "Star Power",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "achievement_17",
@@ -2546,7 +2551,7 @@
       "Name": "Clean Sheet",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "achievement_18",
@@ -2554,7 +2559,7 @@
       "Name": "Perfect Round",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "achievement_2",
@@ -2602,7 +2607,7 @@
       "Name": "Makin\u0027 the Cut",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "achievement_8",
@@ -2625,13 +2630,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 686,
+      "Progressed": 687,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-12-22T12:10:21.6663504+00:00",
+  "LastChanged_Achievements": "2023-12-22T13:12:28.3913739+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:04.0623721+00:00",
-  "LastUpdate_Ratings": "2023-12-22T12:01:19.6639396+00:00",
-  "LastUpdate_Achievements": "2023-12-22T12:10:21.6663713+00:00"
+  "LastUpdate_Ratings": "2023-12-22T13:02:55.6887162+00:00",
+  "LastUpdate_Achievements": "2023-12-22T13:12:28.3913948+00:00"
 }

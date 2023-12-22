@@ -1,29 +1,29 @@
 # The Surge
 [Store](https://store.epicgames.com/en-US/p/the-surge)  
 [View Rawdata](../../db/t/the_surge.json)  
-Rating: 4.44 (Ranked 685)  
+Rating: 4.44 (Ranked 686)  
 Number of Ratings: 62  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,722 |
-| I'll Be Back | 84.00% | ~4,219 |
+| On My Own Two Feet | 94.00% | ~4,723 |
+| I'll Be Back | 84.00% | ~4,220 |
 | Sorry, I Dropped This | 77.00% | ~3,868 |
-| First Day on the Job | 76.00% | ~3,817 |
-| Butcher's Bill | 54.00% | ~2,712 |
+| First Day on the Job | 76.00% | ~3,818 |
+| Butcher's Bill | 54.00% | ~2,713 |
 | P.A.X | 37.00% | ~1,859 |
-| Hey Listen | 36.00% | ~1,808 |
-| OPERATOR | 36.00% | ~1,808 |
+| Hey Listen | 36.00% | ~1,809 |
+| OPERATOR | 36.00% | ~1,809 |
 | It's Blue Light | 33.00% | ~1,658 |
 | Most Wanted | 26.00% | ~1,306 |
-| Infidel | 23.00% | ~1,155 |
+| Infidel | 23.00% | ~1,156 |
 | GOLIATH | 21.00% | ~1,055 |
 | Firebug | 20.00% | ~1,005 |
 | Nothing to Lose | 18.00% | ~904 |
 | I Choose You | 17.00% | ~854 |
 | Big Sister | 16.00% | ~804 |
 | SENTINEL | 16.00% | ~804 |
-| Gear Up | 15.00% | ~753 |
+| Gear Up | 15.00% | ~754 |
 | Core Power | 13.00% | ~653 |
 | The Black Cerberus | 12.00% | ~603 |
 | Watchman | 12.00% | ~603 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~30 |
 | The Surge | 0.40% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,023 (Ranked 200)  
+Progressed: 5,024 (Ranked 200)  
 Completed: 18 (0.36%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 18 (0.36%) (Ranked 236)
 | 2023-12-19 | 4,989 | 18 |
 | 2023-12-20 | 5,007 | 18 |
 | 2023-12-21 | 5,019 | 18 |
-| 2023-12-22 | 5,023 | 18 |
+| 2023-12-22 | 5,024 | 18 |
 ## Awards
 Max (Great Boss Battles): 29  (Ranked 511)  
 Sum: 29 (Ranked 527)  

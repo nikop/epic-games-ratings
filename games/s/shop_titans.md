@@ -23,6 +23,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Bounty Hunters | 4.00% | ~5,876 |
 | Where it Hurts | 4.00% | ~5,876 |
 | One-Armed Bandit | 4.00% | ~5,876 |
+| Dungeon Imports | 4.00% | ~5,876 |
 | Through Repetition, Perfection | 4.00% | ~5,876 |
 | On the Path to Greatness | 3.00% | ~4,407 |
 | Ascended | 3.00% | ~4,407 |
@@ -38,7 +39,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Gild-Gotten Goods | 3.00% | ~4,407 |
 | Helping Hand | 3.00% | ~4,407 |
 | Accomplished Merchant | 3.00% | ~4,407 |
-| Dungeon Imports | 3.00% | ~4,407 |
 | Natural 20 | 3.00% | ~4,407 |
 | Did we pack lunch? | 3.00% | ~4,407 |
 | Arcane Industries | 3.00% | ~4,407 |
@@ -113,13 +113,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.60% | ~881 |
 | Unleashed Potential | 0.60% | ~881 |
 | JACKPOT!!! | 0.60% | ~881 |
-| Oligarch Monarch | 0.50% | ~734 |
-| Merchant Extraordinaire | 0.50% | ~734 |
+| Oligarch Monarch | 0.50% | ~735 |
+| Merchant Extraordinaire | 0.50% | ~735 |
 | To Hell and Back | 0.40% | ~588 |
 | Cash Only Please | 0.40% | ~588 |
 | Capitalist Camaraderie | 0.20% | ~294 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 146,895 (Ranked 82)  
+Progressed: 146,904 (Ranked 82)  
 Completed: 329 (0.22%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -365,7 +365,7 @@ Completed: 329 (0.22%) (Ranked 266)
 | 2023-12-19 | 146,428 | 325 |
 | 2023-12-20 | 146,580 | 325 |
 | 2023-12-21 | 146,796 | 328 |
-| 2023-12-22 | 146,895 | 329 |
+| 2023-12-22 | 146,904 | 329 |
 ## Awards
 Max (Great for Beginners): 4,906  (Ranked 75)  
 Sum: 27,779 (Ranked 52)  

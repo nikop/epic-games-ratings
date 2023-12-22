@@ -1,7 +1,7 @@
 # The Caligula Effect 2
 [Store](https://store.epicgames.com/en-US/p/the-caligula-effect-2-a51f60)  
 [View Rawdata](../../db/t/the_caligula_effect_2.json)  
-Rating: 4.44 (Ranked 685)  
+Rating: 4.44 (Ranked 686)  
 Number of Ratings: 32  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -15,7 +15,7 @@ Number of Ratings: 32  (23.09.2022)
 | Philanthropist | 39.00% | ~96 |
 | Test Your Luck | 34.00% | ~84 |
 | Behind the Curtain | 33.00% | ~81 |
-| Master of Surprise | 29.00% | ~71 |
+| Master of Surprise | 30.00% | ~74 |
 | Be Who You Wanna Be | 26.00% | ~64 |
 | Counter Champion | 25.00% | ~62 |
 | Friendly Neighborhood | 24.00% | ~59 |

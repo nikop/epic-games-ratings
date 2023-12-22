@@ -8,6 +8,7 @@ Number of Ratings: 67  (23.09.2022)
 | ---- | ---------- | ----- |
 | Mint I | 3.00% | ~4 |
 | Soul Cache | 3.00% | ~4 |
+| Astarte | 0.80% | ~1 |
 | Close the Rift | 0.80% | ~1 |
 | Mammon | 0.80% | ~1 |
 | Master of War | 0.80% | ~1 |
@@ -15,7 +16,6 @@ Number of Ratings: 67  (23.09.2022)
 | Why'd It Have to Be Snakes? | 0.80% | ~1 |
 | A Bullet for All Seasons | 0.00% | ~0 |
 | Are You Not Entertained? | 0.00% | ~0 |
-| Astarte | 0.00% | ~0 |
 | Belial | 0.00% | ~0 |
 | Blademaster | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
@@ -37,7 +37,7 @@ Number of Ratings: 67  (23.09.2022)
 | Walking Armory | 0.00% | ~0 |
 | Wicked Killington | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 119 (Ranked 454)  
+Progressed: 120 (Ranked 451)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -46,7 +46,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-19 | 62 | 0 |
 | 2023-12-20 | 77 | 0 |
 | 2023-12-21 | 113 | 0 |
-| 2023-12-22 | 119 | 0 |
+| 2023-12-22 | 120 | 0 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 455)  
 Sum: 45 (Ranked 501)  

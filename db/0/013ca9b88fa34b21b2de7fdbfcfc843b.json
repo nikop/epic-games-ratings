@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -237,7 +237,7 @@
   "Tags": [],
   "EOS_Progressed": 8584,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9101,9 +9101,9 @@
       "ID": "PREPARE_MEALS_1",
       "SetID": "9eia0f5",
       "Name": "Oui, Chef!",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 52
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -9244,8 +9244,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-19T16:03:30.9665101+00:00",
-  "LastChanged_Achievements": "2023-12-22T12:10:53.2078503+00:00",
+  "LastChanged_Achievements": "2023-12-22T13:12:52.6015229+00:00",
   "LastUpdate_AppInfo": "2023-12-22T11:57:12.9881326+00:00",
-  "LastUpdate_Ratings": "2023-12-22T12:03:29.6351511+00:00",
-  "LastUpdate_Achievements": "2023-12-22T12:10:53.2079059+00:00"
+  "LastUpdate_Ratings": "2023-12-22T13:06:06.9690894+00:00",
+  "LastUpdate_Achievements": "2023-12-22T13:12:52.6015881+00:00"
 }

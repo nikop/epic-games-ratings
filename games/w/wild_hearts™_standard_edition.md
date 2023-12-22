@@ -6,22 +6,22 @@
 | ---- | ---------- | ----- |
 | Land of the Rising Sun | 100.00% | ~772 |
 | Hidden History | 71.00% | ~548 |
-| Commencing of Quests | 61.00% | ~471 |
+| Commencing of Quests | 62.00% | ~479 |
 | Budding Conjuror | 60.00% | ~463 |
 | Man-Machine Master | 49.00% | ~378 |
 | Memory Rouser | 47.00% | ~363 |
 | Mountain Splitter | 47.00% | ~363 |
 | Subsistence Skills | 47.00% | ~363 |
 | Charmed by the Hunt | 47.00% | ~363 |
-| Fusion Conjuror | 44.00% | ~340 |
+| Fusion Conjuror | 45.00% | ~347 |
 | Kemono Hunter | 41.00% | ~317 |
 | Helpful Heart | 40.00% | ~309 |
 | Flawless Crystal | 37.00% | ~286 |
 | Expert Conjuror | 37.00% | ~286 |
 | Bonds of Enmity | 36.00% | ~278 |
 | Distance Devourer | 35.00% | ~270 |
-| Counter Specialist | 32.00% | ~247 |
-| Master of the Skies | 31.00% | ~239 |
+| Counter Specialist | 33.00% | ~255 |
+| Master of the Skies | 32.00% | ~247 |
 | Axer of Auspice | 28.00% | ~216 |
 | Mighty Marmelizer | 27.00% | ~208 |
 | Fair Means or Foul | 27.00% | ~208 |
@@ -29,7 +29,7 @@
 | Single Minded | 24.00% | ~185 |
 | Snare Specialist | 24.00% | ~185 |
 | Artful Assister | 24.00% | ~185 |
-| Karakuri Trail | 22.00% | ~170 |
+| Karakuri Trail | 23.00% | ~178 |
 | Team Hunter | 21.00% | ~162 |
 | Karakuri Isle | 19.00% | ~147 |
 | Reincarnation Cycle Stopper | 19.00% | ~147 |

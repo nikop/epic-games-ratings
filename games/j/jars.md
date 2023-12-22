@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Missing data | 83.00% | ~89 |
-| Broken jar | 77.00% | ~82 |
+| Broken jar | 78.00% | ~83 |
 | The child of the night | 74.00% | ~79 |
 | It fits. IT FITS! | 73.00% | ~78 |
 | Uncle will be happy | 64.00% | ~68 |

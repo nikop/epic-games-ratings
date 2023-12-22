@@ -4,7 +4,7 @@
   "ProductSlug": "boxville-2b75d3",
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 10,
-  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
@@ -1366,9 +1366,9 @@
       "ID": "Fixer",
       "SetID": "b7i210",
       "Name": "Fixer",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 127
+      "UsersEstimate": 129
     },
     {
       "ID": "Florist",
@@ -1446,9 +1446,9 @@
       "ID": "Tower_builder",
       "SetID": "b7i210",
       "Name": "Tower builder",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 131
+      "UsersEstimate": 133
     },
     {
       "ID": "Troubleshooter",
@@ -1469,8 +1469,8 @@
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-12-22T12:06:47.7131846+00:00",
+  "LastChanged_Achievements": "2023-12-22T13:08:32.7032896+00:00",
   "LastUpdate_AppInfo": "2023-12-19T08:57:02.2592563+00:00",
-  "LastUpdate_Ratings": "2023-12-22T12:01:54.2854031+00:00",
-  "LastUpdate_Achievements": "2023-12-22T12:06:47.7131972+00:00"
+  "LastUpdate_Ratings": "2023-12-22T13:03:19.4786054+00:00",
+  "LastUpdate_Achievements": "2023-12-22T13:08:32.7033155+00:00"
 }

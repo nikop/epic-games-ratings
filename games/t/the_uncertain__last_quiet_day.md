@@ -11,7 +11,7 @@ Rating: 3.75 (Ranked 1,061)
 | Hands up! | 53.00% | ~321 |
 | Now you know | 53.00% | ~321 |
 | Short circuit | 53.00% | ~321 |
-| Curious | 42.00% | ~254 |
+| Curious | 43.00% | ~260 |
 | Everybody lies | 36.00% | ~218 |
 | Trick or Treat? | 23.00% | ~139 |
 | There is another way | 23.00% | ~139 |

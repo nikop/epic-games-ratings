@@ -6,20 +6,20 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 74.00% | ~3,041 |
-| Ready for Winter | 63.00% | ~2,589 |
-| Ready for Summer | 50.00% | ~2,055 |
-| Cordon Bleu | 42.00% | ~1,726 |
+| Venture Outward | 74.00% | ~3,043 |
+| Ready for Winter | 63.00% | ~2,591 |
+| Ready for Summer | 50.00% | ~2,056 |
+| Cordon Bleu | 42.00% | ~1,727 |
 | Tapped! | 36.00% | ~1,480 |
-| Eureka | 31.00% | ~1,274 |
+| Eureka | 31.00% | ~1,275 |
 | Scourge Slayer | 25.00% | ~1,028 |
-| Science, Troglodyte! | 23.00% | ~945 |
-| Exceptional Skill | 22.00% | ~904 |
-| Home Sweet Home | 21.00% | ~863 |
+| Science, Troglodyte! | 23.00% | ~946 |
+| Exceptional Skill | 22.00% | ~905 |
+| Home Sweet Home | 21.00% | ~864 |
 | Encyclopedic! | 19.00% | ~781 |
 | The Power of Family | 16.00% | ~658 |
-| A Fortress Toppled! | 15.00% | ~616 |
-| Apex Predator | 15.00% | ~616 |
+| A Fortress Toppled! | 15.00% | ~617 |
+| Apex Predator | 15.00% | ~617 |
 | Strange amalgams | 12.00% | ~493 |
 | The Power of Faith | 12.00% | ~493 |
 | The Power of Freedom | 9.00% | ~370 |
@@ -42,14 +42,14 @@ Number of Ratings: 266  (23.09.2022)
 | Power! To! The People! | 2.00% | ~82 |
 | Your actions define you | 2.00% | ~82 |
 | The blood is life | 1.00% | ~41 |
+| They'll Tell Stories About This | 1.00% | ~41 |
 | Vanquisher of nightmares | 1.00% | ~41 |
-| They'll Tell Stories About This | 0.90% | ~37 |
 | Through fire and flame. | 0.70% | ~29 |
 | Legacy of a master hunter | 0.40% | ~16 |
 | Master of Aurai | 0.30% | ~12 |
 | The Absolute Pinnacle. | 0.30% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,110 (Ranked 204)  
+Progressed: 4,112 (Ranked 204)  
 Completed: 5 (0.12%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 5 (0.12%) (Ranked 296)
 | 2023-12-19 | 4,030 | 5 |
 | 2023-12-20 | 4,056 | 5 |
 | 2023-12-21 | 4,088 | 5 |
-| 2023-12-22 | 4,110 | 5 |
+| 2023-12-22 | 4,112 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 485)  
 Sum: 246 (Ranked 393)  

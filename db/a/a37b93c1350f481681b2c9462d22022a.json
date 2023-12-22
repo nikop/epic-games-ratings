@@ -2,13 +2,13 @@
   "ID": "a37b93c1350f481681b2c9462d22022a",
   "Name": "Phantom Blade: Executioners",
   "ProductSlug": "phantom-blade-executioners-918ac0",
-  "Ranking_Rating": 1048,
+  "Ranking_Rating": 1057,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 814,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 562,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-11-03T05:00:00+00:00",
     "PcReleaseDate": "2023-11-03T05:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 3.83,
+  "Rating": 3.79,
   "RatingHistory": [
     {
       "Time": "2023-11-21T03:58:33.7584781+00:00",
@@ -89,6 +89,12 @@
       "Rating": 3.83,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-22T13:01:23.3241253+00:00",
+      "Rating": 3.79,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -107,8 +113,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-13T13:14:49.9131564+00:00",
   "FirstSeenRating": "2023-11-21T03:58:33.7584778+00:00",
-  "LastChanged": "2023-12-21T13:02:16.2270939+00:00",
+  "LastChanged": "2023-12-22T13:01:23.3241251+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:38.018793+00:00",
-  "LastUpdate_Ratings": "2023-12-22T11:59:08.418532+00:00",
-  "LastUpdate_Achievements": "2023-12-22T12:10:22.9726318+00:00"
+  "LastUpdate_Ratings": "2023-12-22T13:01:23.3241257+00:00",
+  "LastUpdate_Achievements": "2023-12-22T13:12:29.3217744+00:00"
 }

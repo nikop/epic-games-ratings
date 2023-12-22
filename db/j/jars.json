@@ -4,8 +4,8 @@
   "ProductSlug": "jars-e39063",
   "Ranking_EOS_Progress": 463,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 466,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 465,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-10-20T16:00:00+00:00",
     "PcReleaseDate": "2021-10-20T16:00:00+00:00",
@@ -565,9 +565,9 @@
       "ID": "ACH_STAGE_LOST_FIRST_TIME",
       "SetID": "3jfhgga",
       "Name": "Broken jar",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     }
   ],
   "AchievementSets": [
@@ -582,8 +582,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.991429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:38.9338539+00:00",
   "LastChanged": "2023-03-31T05:58:01.9914291+00:00",
-  "LastChanged_Achievements": "2023-12-22T12:04:10.7579843+00:00",
+  "LastChanged_Achievements": "2023-12-22T13:06:37.302827+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:59.9606789+00:00",
-  "LastUpdate_Ratings": "2023-12-22T11:59:04.8254957+00:00",
-  "LastUpdate_Achievements": "2023-12-22T12:04:10.7580077+00:00"
+  "LastUpdate_Ratings": "2023-12-22T13:01:20.8575542+00:00",
+  "LastUpdate_Achievements": "2023-12-22T13:06:37.3028458+00:00"
 }

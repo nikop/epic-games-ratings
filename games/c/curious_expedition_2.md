@@ -6,7 +6,7 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 64.00% | ~238 |
+| The Adventure Begins | 65.00% | ~242 |
 | Cartographer | 57.00% | ~212 |
 | A Strange Artefact | 52.00% | ~193 |
 | Insomnia | 49.00% | ~182 |
@@ -20,8 +20,8 @@ Number of Ratings: 20  (23.09.2022)
 | O Captain My Captain | 31.00% | ~115 |
 | Plunderer | 29.00% | ~108 |
 | Taxonomist | 27.00% | ~100 |
+| Traveller | 26.00% | ~97 |
 | Uncertain Loyalties | 26.00% | ~97 |
-| Traveller | 25.00% | ~93 |
 | Nahua Seeker | 24.00% | ~89 |
 | Roll to Save | 23.00% | ~86 |
 | Veteran Explorer | 22.00% | ~82 |
