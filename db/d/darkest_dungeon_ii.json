@@ -10002,9 +10002,9 @@
       "Count": 1036
     }
   ],
-  "EOS_Progressed": 129006,
+  "EOS_Progressed": 129013,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1878,
+  "EOS_NewPlayers": 1876,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36187,6 +36187,11 @@
       "Time": "2023-12-22T01:53:53.6072128+00:00",
       "NumProgressed": 129006,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-22T02:30:17.3179516+00:00",
+      "NumProgressed": 129013,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36326,7 +36331,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5160
+      "UsersEstimate": 5161
     },
     {
       "ID": "combat_kill_cadavers",
@@ -36550,7 +36555,7 @@
       "Name": "Autodidact",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5160
+      "UsersEstimate": 5161
     },
     {
       "ID": "hero_story_complete_all",
@@ -36798,7 +36803,7 @@
       "Name": "Lost and Found",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -36829,21 +36834,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 129006,
+      "Progressed": 129013,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 3875,
+      "Progressed": 3882,
       "Completed": 806
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-22T01:45:18.7804753+00:00",
-  "LastChanged_Achievements": "2023-12-22T01:53:53.6072122+00:00",
+  "LastChanged_Achievements": "2023-12-22T02:30:17.3179505+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-22T01:45:18.7804759+00:00",
-  "LastUpdate_Achievements": "2023-12-22T01:53:53.6073686+00:00"
+  "LastUpdate_Ratings": "2023-12-22T02:22:06.0776981+00:00",
+  "LastUpdate_Achievements": "2023-12-22T02:30:17.3181426+00:00"
 }

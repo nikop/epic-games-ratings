@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17041,
+  "EOS_Progressed": 17043,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 759,
+  "EOS_NewPlayers": 756,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -14690,6 +14690,11 @@
       "Time": "2023-12-22T01:50:24.7899462+00:00",
       "NumProgressed": 17041,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-12-22T02:27:09.5984824+00:00",
+      "NumProgressed": 17043,
+      "NumCompleted": 46
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14748,9 +14753,9 @@
       "ID": "15",
       "SetID": "458bbdk",
       "Name": "Stogie for Fogey",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1193
+      "UsersEstimate": 1363
     },
     {
       "ID": "16",
@@ -14758,7 +14763,7 @@
       "Name": "Drug Gifter",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1023
     },
     {
       "ID": "17",
@@ -14822,7 +14827,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1023
     },
     {
       "ID": "24",
@@ -14981,13 +14986,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17041,
+      "Progressed": 17043,
       "Completed": 46
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 2995,
+      "Progressed": 2997,
       "Completed": 980
     }
   ],
@@ -14995,8 +15000,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-21T04:02:39.716899+00:00",
-  "LastChanged_Achievements": "2023-12-22T01:50:24.7899458+00:00",
+  "LastChanged_Achievements": "2023-12-22T02:27:09.598482+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:40.0929133+00:00",
-  "LastUpdate_Ratings": "2023-12-22T01:42:13.7104201+00:00",
-  "LastUpdate_Achievements": "2023-12-22T01:50:24.7900422+00:00"
+  "LastUpdate_Ratings": "2023-12-22T02:17:34.9503409+00:00",
+  "LastUpdate_Achievements": "2023-12-22T02:27:09.5985759+00:00"
 }

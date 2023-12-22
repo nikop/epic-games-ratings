@@ -465,9 +465,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 4743,
+  "EOS_Progressed": 4744,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 819,
+  "EOS_NewPlayers": 816,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -7280,6 +7280,11 @@
       "Time": "2023-12-22T01:49:28.1277336+00:00",
       "NumProgressed": 4743,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-22T02:25:50.6258141+00:00",
+      "NumProgressed": 4744,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -7315,7 +7320,7 @@
       "Name": "Perfect Enhancements",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ACH_APC_RUN_OVER",
@@ -7323,7 +7328,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2229
+      "UsersEstimate": 2230
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -7331,7 +7336,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2134
+      "UsersEstimate": 2135
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -7339,7 +7344,7 @@
       "Name": "Omelette Du Fromage",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1375
+      "UsersEstimate": 1376
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -7403,7 +7408,7 @@
       "Name": "Call Me Snake",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 2656
+      "UsersEstimate": 2657
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -7491,7 +7496,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2229
+      "UsersEstimate": 2230
     },
     {
       "ID": "ACH_MISSION_03",
@@ -7499,7 +7504,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1897
+      "UsersEstimate": 1898
     },
     {
       "ID": "ACH_MISSION_04",
@@ -7523,7 +7528,7 @@
       "Name": "Living Nightmare",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1375
+      "UsersEstimate": 1376
     },
     {
       "ID": "ACH_MISSION_07",
@@ -7547,7 +7552,7 @@
       "Name": "The Passenger",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1139
     },
     {
       "ID": "ACH_MISSION_10",
@@ -7555,7 +7560,7 @@
       "Name": "The Spire",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "ACH_MISSION_11",
@@ -7627,7 +7632,7 @@
       "Name": "Recouped Investment",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 1565
+      "UsersEstimate": 1566
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -7650,7 +7655,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 4743,
+      "Progressed": 4744,
       "Completed": 3
     }
   ],
@@ -7658,8 +7663,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-12-21T21:00:18.0075467+00:00",
-  "LastChanged_Achievements": "2023-12-22T01:49:28.1277332+00:00",
+  "LastChanged_Achievements": "2023-12-22T02:25:50.6258136+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:23.8354928+00:00",
-  "LastUpdate_Ratings": "2023-12-22T01:45:30.2321838+00:00",
-  "LastUpdate_Achievements": "2023-12-22T01:49:28.1277995+00:00"
+  "LastUpdate_Ratings": "2023-12-22T02:23:02.5006032+00:00",
+  "LastUpdate_Achievements": "2023-12-22T02:25:50.6259188+00:00"
 }

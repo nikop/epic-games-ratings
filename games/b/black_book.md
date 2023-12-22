@@ -6,15 +6,15 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 29.00% | ~17,840 |
-| Student | 22.00% | ~13,534 |
-| Knower | 16.00% | ~9,843 |
+| Initiation | 29.00% | ~17,842 |
+| Student | 22.00% | ~13,535 |
+| Knower | 16.00% | ~9,844 |
 | Listener | 15.00% | ~9,228 |
-| Aspen Tree | 14.00% | ~8,612 |
-| Healer | 14.00% | ~8,612 |
-| Soldier | 12.00% | ~7,382 |
-| Cow Level | 11.00% | ~6,767 |
-| Scientist | 11.00% | ~6,767 |
+| Aspen Tree | 14.00% | ~8,613 |
+| Healer | 14.00% | ~8,613 |
+| Soldier | 12.00% | ~7,383 |
+| Cow Level | 11.00% | ~6,768 |
+| Scientist | 11.00% | ~6,768 |
 | Herbalist | 10.00% | ~6,152 |
 | Water | 10.00% | ~6,152 |
 | Old Friend | 9.00% | ~5,537 |
@@ -23,17 +23,17 @@ Number of Ratings: 96  (23.09.2022)
 | Collector | 9.00% | ~5,537 |
 | Wolf | 9.00% | ~5,537 |
 | Black Mage | 9.00% | ~5,537 |
-| Card Player | 8.00% | ~4,921 |
-| Dead Friend | 8.00% | ~4,921 |
-| Pine Tree | 8.00% | ~4,921 |
-| Worthy | 7.00% | ~4,306 |
-| Black Book | 7.00% | ~4,306 |
-| Black Sorcerer | 7.00% | ~4,306 |
-| Dead Man | 7.00% | ~4,306 |
-| Fern | 7.00% | ~4,306 |
-| 100 Friends | 7.00% | ~4,306 |
-| Researcher | 7.00% | ~4,306 |
-| Savvy | 7.00% | ~4,306 |
+| Card Player | 8.00% | ~4,922 |
+| Dead Friend | 8.00% | ~4,922 |
+| Pine Tree | 8.00% | ~4,922 |
+| Worthy | 7.00% | ~4,307 |
+| Black Book | 7.00% | ~4,307 |
+| Black Sorcerer | 7.00% | ~4,307 |
+| Dead Man | 7.00% | ~4,307 |
+| Fern | 7.00% | ~4,307 |
+| 100 Friends | 7.00% | ~4,307 |
+| Researcher | 7.00% | ~4,307 |
+| Savvy | 7.00% | ~4,307 |
 | Encyclopedist | 6.00% | ~3,691 |
 | Witch | 6.00% | ~3,691 |
 | Old Spirits | 6.00% | ~3,691 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,230 |
 | Word Master | 0.20% | ~123 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,517 (Ranked 112)  
+Progressed: 61,523 (Ranked 112)  
 Completed: 62 (0.10%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 62 (0.10%) (Ranked 301)
 | 2023-12-19 | 61,094 | 61 |
 | 2023-12-20 | 61,294 | 62 |
 | 2023-12-21 | 61,504 | 62 |
-| 2023-12-22 | 61,517 | 62 |
+| 2023-12-22 | 61,523 | 62 |
 ## Awards
 Max (Character Customization): 102  (Ranked 367)  
 Sum: 102 (Ranked 459)  

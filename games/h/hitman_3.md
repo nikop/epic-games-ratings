@@ -6,20 +6,20 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~632,958 |
-| Death From Above | 45.00% | ~619,198 |
-| Master of the Household | 38.00% | ~522,878 |
-| Death of the Party | 35.00% | ~481,599 |
-| NEXUS-47 | 32.00% | ~440,319 |
-| The Last Tango | 31.00% | ~426,559 |
-| Nightmare Fuel | 30.00% | ~412,799 |
-| The Result of Previous Training | 29.00% | ~399,039 |
-| Cleared for Field Duty | 28.00% | ~385,279 |
-| Tools of the Trade | 28.00% | ~385,279 |
-| Seizing the Opportunity | 26.00% | ~357,759 |
-| Bullet Train | 21.00% | ~288,959 |
-| Stylish Assassin | 20.00% | ~275,199 |
-| Silent Assassin | 14.00% | ~192,639 |
+| Unseen Assassin | 46.00% | ~632,961 |
+| Death From Above | 45.00% | ~619,201 |
+| Master of the Household | 38.00% | ~522,881 |
+| Death of the Party | 35.00% | ~481,601 |
+| NEXUS-47 | 32.00% | ~440,321 |
+| The Last Tango | 31.00% | ~426,561 |
+| Nightmare Fuel | 30.00% | ~412,801 |
+| The Result of Previous Training | 29.00% | ~399,041 |
+| Cleared for Field Duty | 28.00% | ~385,281 |
+| Tools of the Trade | 28.00% | ~385,281 |
+| Seizing the Opportunity | 26.00% | ~357,761 |
+| Bullet Train | 21.00% | ~288,961 |
+| Stylish Assassin | 20.00% | ~275,201 |
+| Silent Assassin | 14.00% | ~192,640 |
 | Rise Up | 12.00% | ~165,120 |
 | Evil Wine Club | 11.00% | ~151,360 |
 | Console Cowboy | 10.00% | ~137,600 |
@@ -54,7 +54,7 @@ Number of Ratings: 21,082  (23.09.2022)
 | Ripe for the Picking | 1.00% | ~13,760 |
 | The Creative Assassin | 0.70% | ~9,632 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,375,996 (Ranked 9)  
+Progressed: 1,376,003 (Ranked 9)  
 Completed: 2,211 (0.16%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 2,211 (0.16%) (Ranked 280)
 | 2023-12-19 | 1,374,298 | 2,209 |
 | 2023-12-20 | 1,375,098 | 2,211 |
 | 2023-12-21 | 1,375,931 | 2,211 |
-| 2023-12-22 | 1,375,996 | 2,211 |
+| 2023-12-22 | 1,376,003 | 2,211 |
 ## Awards
 Max (Diverse Characters): 11,074  (Ranked 37)  
 Sum: 75,478 (Ranked 22)  

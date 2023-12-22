@@ -673,9 +673,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 472607,
+  "EOS_Progressed": 472608,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 352,
+  "EOS_NewPlayers": 353,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26043,6 +26043,11 @@
       "Time": "2023-12-22T01:54:41.294773+00:00",
       "NumProgressed": 472607,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-12-22T02:31:21.166578+00:00",
+      "NumProgressed": 472608,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -26190,7 +26195,7 @@
       "Name": "Admiral Okonkwo",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33082
+      "UsersEstimate": 33083
     },
     {
       "ID": "achievement_story_meet_survivalists",
@@ -26198,7 +26203,7 @@
       "Name": "The Survivalists",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33082
+      "UsersEstimate": 33083
     },
     {
       "ID": "achievement_story_meet_tetsuo",
@@ -26230,7 +26235,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94521
+      "UsersEstimate": 94522
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -26238,7 +26243,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160686
+      "UsersEstimate": 160687
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -26294,7 +26299,7 @@
       "Name": "The Tech Specialist",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33082
+      "UsersEstimate": 33083
     },
     {
       "ID": "achievement_unlock_officer_empire_2",
@@ -26478,7 +26483,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207947
+      "UsersEstimate": 207948
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -26685,21 +26690,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 16541,
+      "Progressed": 16542,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 472607,
+      "Progressed": 472608,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-12-16T01:44:08.2225132+00:00",
-  "LastChanged_Achievements": "2023-12-22T01:54:41.2947724+00:00",
+  "LastChanged_Achievements": "2023-12-22T02:31:21.1665775+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:11.1940108+00:00",
-  "LastUpdate_Ratings": "2023-12-22T01:43:04.3128473+00:00",
-  "LastUpdate_Achievements": "2023-12-22T01:54:41.2949331+00:00"
+  "LastUpdate_Ratings": "2023-12-22T02:18:48.5787523+00:00",
+  "LastUpdate_Achievements": "2023-12-22T02:31:21.1667215+00:00"
 }

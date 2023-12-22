@@ -1355,9 +1355,9 @@
       "ID": "Tuleni",
       "SetID": "823jm6g",
       "Name": "Seal Peaks",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 75,
-      "UsersEstimate": 96
+      "UsersEstimate": 98
     }
   ],
   "AchievementSets": [
@@ -1370,8 +1370,8 @@
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-12-22T01:53:31.1140134+00:00",
+  "LastChanged_Achievements": "2023-12-22T02:29:46.595808+00:00",
   "LastUpdate_AppInfo": "2023-12-16T05:57:11.9761332+00:00",
-  "LastUpdate_Ratings": "2023-12-22T01:45:03.5530618+00:00",
-  "LastUpdate_Achievements": "2023-12-22T01:53:31.1140391+00:00"
+  "LastUpdate_Ratings": "2023-12-22T02:21:44.2880501+00:00",
+  "LastUpdate_Achievements": "2023-12-22T02:29:46.5958299+00:00"
 }

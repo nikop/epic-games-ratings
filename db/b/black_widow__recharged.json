@@ -173,9 +173,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23363,
+  "EOS_Progressed": 23364,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 638,
+  "EOS_NewPlayers": 637,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -20918,6 +20918,11 @@
       "Time": "2023-12-22T01:50:00.559883+00:00",
       "NumProgressed": 23363,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-22T02:26:35.809997+00:00",
+      "NumProgressed": 23364,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 14,
@@ -20953,7 +20958,7 @@
       "Name": "Danger Ahead",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 6074
+      "UsersEstimate": 6075
     },
     {
       "ID": "ACH_DONT_BRING_ME_DOWN",
@@ -20961,7 +20966,7 @@
       "Name": "Don\u0027t Bring Me Down",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 4205
+      "UsersEstimate": 4206
     },
     {
       "ID": "ACH_EVEYONE_IS_BORN_TO_DIE",
@@ -21009,7 +21014,7 @@
       "Name": "Look at Me Now",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 6074
+      "UsersEstimate": 6075
     },
     {
       "ID": "ACH_THE_FALL",
@@ -21040,15 +21045,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 23363,
+      "Progressed": 23364,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-11-02T20:58:32.2795394+00:00",
-  "LastChanged_Achievements": "2023-12-22T01:50:00.5598824+00:00",
+  "LastChanged_Achievements": "2023-12-22T02:26:35.8099955+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:16.5568567+00:00",
-  "LastUpdate_Ratings": "2023-12-22T01:47:40.625726+00:00",
-  "LastUpdate_Achievements": "2023-12-22T01:50:00.5600038+00:00"
+  "LastUpdate_Ratings": "2023-12-22T02:23:30.0516425+00:00",
+  "LastUpdate_Achievements": "2023-12-22T02:26:35.8101248+00:00"
 }

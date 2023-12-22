@@ -1705,10 +1705,10 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 163744,
+  "EOS_Progressed": 163751,
   "EOS_Completed": 380,
-  "EOS_NewPlayers": 1170,
-  "EOS_NewCompleters": 55,
+  "EOS_NewPlayers": 1173,
+  "EOS_NewCompleters": 54,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
@@ -20110,6 +20110,11 @@
       "Time": "2023-12-22T01:51:15.1015965+00:00",
       "NumProgressed": 163744,
       "NumCompleted": 380
+    },
+    {
+      "Time": "2023-12-22T02:28:17.878844+00:00",
+      "NumProgressed": 163751,
+      "NumCompleted": 380
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -20146,7 +20151,7 @@
       "Name": "Assimilation",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "ACQUIRE_ALLWEAPONS",
@@ -20170,7 +20175,7 @@
       "Name": "The Hunt",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1637
+      "UsersEstimate": 1638
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -20202,7 +20207,7 @@
       "Name": "Hunt Down",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "DEFEAT_ARTISAN",
@@ -20210,7 +20215,7 @@
       "Name": "Artisan",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "DEFEAT_FIDUS",
@@ -20250,7 +20255,7 @@
       "Name": "Hush",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "DEFEAT_HARMLESSROCKGIANT",
@@ -20272,9 +20277,9 @@
       "ID": "DEFEAT_JAWSTAG",
       "SetID": "ccc0dlh",
       "Name": "Jawstag",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 491
+      "UsersEstimate": 655
     },
     {
       "ID": "DEFEAT_PERFORMER",
@@ -20282,7 +20287,7 @@
       "Name": "Celebration",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "DEFEAT_SHIDRA",
@@ -20290,7 +20295,7 @@
       "Name": "Inevitable",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "DEFEAT_VULTURE",
@@ -20322,7 +20327,7 @@
       "Name": "Devourer",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -20330,7 +20335,7 @@
       "Name": "All-Seeing",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "MISC_ACTIVATESURROGATE",
@@ -20370,7 +20375,7 @@
       "Name": "Breathsmith",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "MISC_PULLANENEMY",
@@ -20394,7 +20399,7 @@
       "Name": "Ravenous",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1637
+      "UsersEstimate": 1638
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -20402,7 +20407,7 @@
       "Name": "Unwrap the Gift",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "MISC_UNLOCKNERVEPASSES",
@@ -20489,21 +20494,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 163327,
+      "Progressed": 163334,
       "Completed": 1243
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 163744,
+      "Progressed": 163751,
       "Completed": 380
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-21T17:00:14.771722+00:00",
-  "LastChanged_Achievements": "2023-12-22T01:51:15.101596+00:00",
+  "LastChanged_Achievements": "2023-12-22T02:28:17.8788436+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:23.4801204+00:00",
-  "LastUpdate_Ratings": "2023-12-22T01:45:06.3653194+00:00",
-  "LastUpdate_Achievements": "2023-12-22T01:51:15.1017346+00:00"
+  "LastUpdate_Ratings": "2023-12-22T02:21:48.3292536+00:00",
+  "LastUpdate_Achievements": "2023-12-22T02:28:17.8790458+00:00"
 }

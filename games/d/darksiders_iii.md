@@ -6,42 +6,42 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 82.00% | ~36 |
-| Helping Hand | 75.00% | ~33 |
-| First of many… | 75.00% | ~33 |
-| Increased Vigor | 68.00% | ~30 |
-| Fight Fire with Fire | 66.00% | ~29 |
-| Increased Capacity | 57.00% | ~25 |
-| Just the start | 52.00% | ~23 |
-| Perfect Storm | 48.00% | ~21 |
-| All That Glitters | 48.00% | ~21 |
-| 25 to Life | 48.00% | ~21 |
-| Unshakable Fortitude | 45.00% | ~20 |
-| One Of the Chosen | 45.00% | ~20 |
-| Enhance! | 43.00% | ~19 |
-| Devil's in the Details | 43.00% | ~19 |
-| Five's a Crowd | 43.00% | ~19 |
-| Soul Harvester | 39.00% | ~17 |
-| Throne Potato | 39.00% | ~17 |
-| Salvation | 36.00% | ~16 |
-| Delusions of Grandeur | 34.00% | ~15 |
-| Maximum Vigor | 32.00% | ~14 |
-| I Wanna Rock | 32.00% | ~14 |
-| Freeze Frame | 32.00% | ~14 |
-| Love Tap | 32.00% | ~14 |
-| For Whom the Bell Tolls | 32.00% | ~14 |
-| Eat Your Heart Out | 30.00% | ~13 |
-| Crowd Source | 27.00% | ~12 |
-| Unyielding Strength | 25.00% | ~11 |
-| Maximum Capacity | 25.00% | ~11 |
-| Cleanup Crew | 25.00% | ~11 |
-| Can you restore the Balance? | 25.00% | ~11 |
-| Big Spender | 25.00% | ~11 |
+| Green with Envy | 85.00% | ~39 |
+| Helping Hand | 76.00% | ~35 |
+| First of many… | 76.00% | ~35 |
+| Increased Vigor | 72.00% | ~33 |
+| Fight Fire with Fire | 72.00% | ~33 |
+| Increased Capacity | 63.00% | ~29 |
+| Just the start | 57.00% | ~26 |
+| One Of the Chosen | 50.00% | ~23 |
+| Perfect Storm | 48.00% | ~22 |
+| All That Glitters | 48.00% | ~22 |
+| Unshakable Fortitude | 46.00% | ~21 |
+| Enhance! | 46.00% | ~21 |
+| 25 to Life | 46.00% | ~21 |
+| Five's a Crowd | 43.00% | ~20 |
+| Devil's in the Details | 41.00% | ~19 |
+| Soul Harvester | 39.00% | ~18 |
+| Throne Potato | 39.00% | ~18 |
+| Salvation | 37.00% | ~17 |
+| Delusions of Grandeur | 35.00% | ~16 |
+| I Wanna Rock | 33.00% | ~15 |
+| Freeze Frame | 33.00% | ~15 |
+| Love Tap | 33.00% | ~15 |
+| Maximum Vigor | 30.00% | ~14 |
+| Eat Your Heart Out | 30.00% | ~14 |
+| For Whom the Bell Tolls | 30.00% | ~14 |
+| Cleanup Crew | 26.00% | ~12 |
+| Crowd Source | 26.00% | ~12 |
+| Unyielding Strength | 24.00% | ~11 |
+| Maximum Capacity | 24.00% | ~11 |
+| Can you restore the Balance? | 24.00% | ~11 |
+| Big Spender | 24.00% | ~11 |
 | Demon Meddler | 20.00% | ~9 |
-| Protector of Humanity | 14.00% | ~6 |
-| Everybody Wants to Rule the World | 14.00% | ~6 |
-| Egomaniac | 14.00% | ~6 |
-| Seeing Red | 14.00% | ~6 |
+| Protector of Humanity | 13.00% | ~6 |
+| Everybody Wants to Rule the World | 13.00% | ~6 |
+| Egomaniac | 13.00% | ~6 |
+| Seeing Red | 13.00% | ~6 |
 | A Parting Gift | 11.00% | ~5 |
 | Community Outreach | 11.00% | ~5 |
 | Unbreakable Will | 9.00% | ~4 |
@@ -52,13 +52,13 @@ Number of Ratings: 116  (23.09.2022)
 | Path of the Horseman | 7.00% | ~3 |
 | Humanitarian | 7.00% | ~3 |
 | Made of Sterner Stuff | 7.00% | ~3 |
-| Purity of Power | 5.00% | ~2 |
-| My Evil Twin | 5.00% | ~2 |
-| Proceed on your way to Armageddon | 5.00% | ~2 |
-| Keeper of the Bonfire | 5.00% | ~2 |
-| Keeper of the Vale | 5.00% | ~2 |
-| Keeper of the Sky | 5.00% | ~2 |
-| Keep it 100! | 5.00% | ~2 |
+| Purity of Power | 4.00% | ~2 |
+| My Evil Twin | 4.00% | ~2 |
+| Proceed on your way to Armageddon | 4.00% | ~2 |
+| Keeper of the Bonfire | 4.00% | ~2 |
+| Keeper of the Vale | 4.00% | ~2 |
+| Keeper of the Sky | 4.00% | ~2 |
+| Keep it 100! | 4.00% | ~2 |
 | Balance in all things | 2.00% | ~1 |
 | "Impressive!" | 2.00% | ~1 |
 | "Incredible!" | 2.00% | ~1 |
@@ -71,14 +71,14 @@ Number of Ratings: 116  (23.09.2022)
 | Death Incarnate | 0.00% | ~0 |
 | Beast Mode | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44 (Ranked 544)  
+Progressed: 46 (Ranked 539)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-12-13 | 1 | 0 |
 | 2023-12-21 | 34 | 0 |
-| 2023-12-22 | 44 | 0 |
+| 2023-12-22 | 46 | 0 |
 ## Awards
 Max (Great Boss Battles): 92  (Ranked 384)  
 Sum: 92 (Ranked 463)  

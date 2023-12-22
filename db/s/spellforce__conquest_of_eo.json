@@ -819,9 +819,9 @@
       "ID": "Max_Reputation_SilverDriftHollow",
       "SetID": "7b9f97e",
       "Name": "Friend of Silver Drift Hollow",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Max_Reputation_Southwatch",
@@ -948,8 +948,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-12-22T01:53:49.6821004+00:00",
+  "LastChanged_Achievements": "2023-12-22T02:30:12.0125155+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:09.2965751+00:00",
-  "LastUpdate_Ratings": "2023-12-22T01:42:33.0953277+00:00",
-  "LastUpdate_Achievements": "2023-12-22T01:53:49.6821547+00:00"
+  "LastUpdate_Ratings": "2023-12-22T02:18:02.5193546+00:00",
+  "LastUpdate_Achievements": "2023-12-22T02:30:12.012599+00:00"
 }

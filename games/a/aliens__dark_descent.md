@@ -9,27 +9,27 @@ Rating: 4.52 (Ranked 565)
 | Keep 'Em Coming | 67.00% | ~3,178 |
 | Snatched Out | 67.00% | ~3,178 |
 | Cleaning Lethe, One Nest At A Time | 60.00% | ~2,846 |
-| Call Me Snake | 56.00% | ~2,656 |
+| Call Me Snake | 56.00% | ~2,657 |
 | Something Lurks Under The Hills | 55.00% | ~2,609 |
 | This Was No Papercut | 53.00% | ~2,514 |
 | The Shrink Hates Me | 51.00% | ~2,419 |
 | People Person | 50.00% | ~2,372 |
-| Use The Bumper, That's What It's For | 47.00% | ~2,229 |
-| First Steps Into Madness | 47.00% | ~2,229 |
-| Colonial Barrels | 45.00% | ~2,134 |
-| Harper's Hell | 40.00% | ~1,897 |
+| Use The Bumper, That's What It's For | 47.00% | ~2,230 |
+| First Steps Into Madness | 47.00% | ~2,230 |
+| Colonial Barrels | 45.00% | ~2,135 |
+| Harper's Hell | 40.00% | ~1,898 |
 | Making a Stand | 39.00% | ~1,850 |
 | Damn Dude, You Gotta Lose Some Weight! | 37.00% | ~1,755 |
 | Where It All Begun | 35.00% | ~1,660 |
-| Recouped Investment | 33.00% | ~1,565 |
+| Recouped Investment | 33.00% | ~1,566 |
 | The More The Merrier | 30.00% | ~1,423 |
-| Omelette Du Fromage | 29.00% | ~1,375 |
-| Living Nightmare | 29.00% | ~1,375 |
+| Omelette Du Fromage | 29.00% | ~1,376 |
+| Living Nightmare | 29.00% | ~1,376 |
 | The Darwin Era Was Here | 26.00% | ~1,233 |
 | Deep Into Insanity | 25.00% | ~1,186 |
-| The Passenger | 24.00% | ~1,138 |
+| The Passenger | 24.00% | ~1,139 |
 | Come on, You Wanna Live Forever? | 23.00% | ~1,091 |
-| The Spire | 22.00% | ~1,043 |
+| The Spire | 22.00% | ~1,044 |
 | El Riesgo Siempre Vive | 21.00% | ~996 |
 | Stuff Of Nightmares | 20.00% | ~949 |
 | Excavating The Truth | 20.00% | ~949 |
@@ -42,7 +42,7 @@ Rating: 4.52 (Ranked 565)
 | This Went Smoothly | 12.00% | ~569 |
 | Flawless Victory | 11.00% | ~522 |
 | Heavy Steps | 11.00% | ~522 |
-| Perfect Enhancements | 8.00% | ~379 |
+| Perfect Enhancements | 8.00% | ~380 |
 | Hardened In The Heat Of Battle | 7.00% | ~332 |
 | The True Experience | 6.00% | ~285 |
 | Archivist | 2.00% | ~95 |
@@ -51,7 +51,7 @@ Rating: 4.52 (Ranked 565)
 | Chalk It Up To Experience | 0.70% | ~33 |
 | This Ain't No Picnic | 0.60% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,743 (Ranked 201)  
+Progressed: 4,744 (Ranked 201)  
 Completed: 3 (0.06%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 3 (0.06%) (Ranked 325)
 | 2023-12-19 | 4,563 | 3 |
 | 2023-12-20 | 4,650 | 3 |
 | 2023-12-21 | 4,736 | 3 |
-| 2023-12-22 | 4,743 | 3 |
+| 2023-12-22 | 4,744 | 3 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 456)  
 Sum: 45 (Ranked 502)  

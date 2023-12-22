@@ -6,16 +6,16 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,761,694 |
-| Easy to forget | 46.00% | ~1,653,835 |
-| Back in the black | 39.00% | ~1,402,164 |
-| That's what I'm talking about | 29.00% | ~1,042,635 |
-| The Best of Both Worlds | 25.00% | ~898,823 |
-| Get your wings | 20.00% | ~719,059 |
-| Double trouble | 16.00% | ~575,247 |
-| Smashing it | 11.00% | ~395,482 |
-| But can it run Crysis? | 9.00% | ~323,576 |
-| My favourite feature... | 9.00% | ~323,576 |
+| You need to plug it in... | 49.00% | ~1,761,699 |
+| Easy to forget | 46.00% | ~1,653,840 |
+| Back in the black | 39.00% | ~1,402,169 |
+| That's what I'm talking about | 29.00% | ~1,042,638 |
+| The Best of Both Worlds | 25.00% | ~898,826 |
+| Get your wings | 20.00% | ~719,061 |
+| Double trouble | 16.00% | ~575,249 |
+| Smashing it | 11.00% | ~395,483 |
+| But can it run Crysis? | 9.00% | ~323,577 |
+| My favourite feature... | 9.00% | ~323,577 |
 | From humble beginnings... | 7.00% | ~251,671 |
 | Customer satisfaction | 7.00% | ~251,671 |
 | Keeping things neat | 4.00% | ~143,812 |
@@ -41,7 +41,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Work ethic 101 | 0.70% | ~25,167 |
 | Building momentum | 0.60% | ~21,572 |
 | Lead by example | 0.60% | ~21,572 |
-| Treat yourself - RAM | 0.50% | ~17,976 |
+| Treat yourself - RAM | 0.50% | ~17,977 |
 | Mr big business | 0.40% | ~14,381 |
 | So you're the reason why the prices are so high? | 0.30% | ~10,786 |
 | Mister Big | 0.30% | ~10,786 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,595 |
 | Treat yourself - GPU | 0.10% | ~3,595 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,595,293 (Ranked 5)  
+Progressed: 3,595,304 (Ranked 5)  
 Completed: 39 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 39 (0.00%) (Ranked 384)
 | 2023-12-19 | 3,594,090 | 39 |
 | 2023-12-20 | 3,594,681 | 39 |
 | 2023-12-21 | 3,595,238 | 39 |
-| 2023-12-22 | 3,595,293 | 39 |
+| 2023-12-22 | 3,595,304 | 39 |
 ## Awards
 Max (Great for Beginners): 1,121  (Ranked 146)  
 Sum: 8,231 (Ranked 106)  

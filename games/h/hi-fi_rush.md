@@ -5,29 +5,29 @@ Rating: 4.89 (Ranked 10)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 45.00% | ~4,619 |
-| Start with a bang! | 44.00% | ~4,517 |
-| You can pet the cat! | 40.00% | ~4,106 |
-| Who put gears in there? | 32.00% | ~3,285 |
-| Cream of the Crop | 28.00% | ~2,874 |
-| Thanks for the free chip, Peppermint! | 27.00% | ~2,772 |
-| You got this, Peppermint? | 22.00% | ~2,258 |
+| Feeling the beat! | 45.00% | ~4,621 |
+| Start with a bang! | 44.00% | ~4,518 |
+| You can pet the cat! | 40.00% | ~4,108 |
+| Who put gears in there? | 32.00% | ~3,286 |
+| Cream of the Crop | 28.00% | ~2,875 |
+| Thanks for the free chip, Peppermint! | 27.00% | ~2,773 |
+| You got this, Peppermint? | 22.00% | ~2,259 |
 | Perfect Parry | 21.00% | ~2,156 |
-| Alright, that felt AWESOME! | 20.00% | ~2,053 |
+| Alright, that felt AWESOME! | 20.00% | ~2,054 |
 | I play my own way! | 18.00% | ~1,848 |
-| This will cost you big time | 16.00% | ~1,642 |
-| Uh, they were broken when I got here | 16.00% | ~1,642 |
-| Z-shielding's got nothing on us! | 14.00% | ~1,437 |
-| Kissing the sky! | 14.00% | ~1,437 |
-| Does that say weakpoint? | 14.00% | ~1,437 |
+| This will cost you big time | 16.00% | ~1,643 |
+| Uh, they were broken when I got here | 16.00% | ~1,643 |
+| Z-shielding's got nothing on us! | 14.00% | ~1,438 |
+| Kissing the sky! | 14.00% | ~1,438 |
+| Does that say weakpoint? | 14.00% | ~1,438 |
 | Whoa! There's ANOTHER health bar!? | 12.00% | ~1,232 |
-| The Negotiator | 11.00% | ~1,129 |
-| You must like calling me in, Chai | 10.00% | ~1,026 |
-| I look cool. But I can look COOLER. | 10.00% | ~1,026 |
+| The Negotiator | 11.00% | ~1,130 |
+| You must like calling me in, Chai | 10.00% | ~1,027 |
+| I look cool. But I can look COOLER. | 10.00% | ~1,027 |
 | Out in a puff of smoke | 9.00% | ~924 |
-| Headliner | 8.00% | ~821 |
-| Time to pay up! | 8.00% | ~821 |
-| Perfecter Parry-er! | 8.00% | ~821 |
+| Headliner | 8.00% | ~822 |
+| Time to pay up! | 8.00% | ~822 |
+| Perfecter Parry-er! | 8.00% | ~822 |
 | Who's the boss now? | 7.00% | ~719 |
 | I have to read these things? | 7.00% | ~719 |
 | NOW we got a kickass hideout! | 6.00% | ~527 |
@@ -77,7 +77,7 @@ Rating: 4.89 (Ranked 10)
 | Voices from within | 0.10% | ~9 |
 | Low budget finish | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,265 (Ranked 173)  
+Progressed: 10,269 (Ranked 173)  
 Completed: 8 (0.08%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 8 (0.08%) (Ranked 316)
 | 2023-12-19 | 9,581 | 8 |
 | 2023-12-20 | 9,904 | 8 |
 | 2023-12-21 | 10,248 | 8 |
-| 2023-12-22 | 10,265 | 8 |
+| 2023-12-22 | 10,269 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

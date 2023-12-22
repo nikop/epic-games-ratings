@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 140,
   "Ranking_EOS_NewPlayers": 17,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8403,9 +8403,9 @@
       "Count": 434
     }
   ],
-  "EOS_Progressed": 738981,
+  "EOS_Progressed": 739001,
   "EOS_Completed": 12959,
-  "EOS_NewPlayers": 16379,
+  "EOS_NewPlayers": 16335,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.75,
   "EosHistory": [
@@ -30358,6 +30358,11 @@
       "Time": "2023-12-22T01:53:28.8107793+00:00",
       "NumProgressed": 738981,
       "NumCompleted": 12959
+    },
+    {
+      "Time": "2023-12-22T02:29:43.4858901+00:00",
+      "NumProgressed": 739001,
+      "NumCompleted": 12959
     }
   ],
   "TotalAchievements": 60,
@@ -30369,7 +30374,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22169
+      "UsersEstimate": 22170
     },
     {
       "ID": "02_Vengeance_H1",
@@ -30545,7 +30550,7 @@
       "Name": "Life is your teacher",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22169
+      "UsersEstimate": 22170
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -30633,7 +30638,7 @@
       "Name": "Lightning Hands",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22169
+      "UsersEstimate": 22170
     },
     {
       "ID": "35_WideStrike",
@@ -30721,7 +30726,7 @@
       "Name": "Bloody Sport",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -30848,21 +30853,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 48282,
+      "Progressed": 48302,
       "Completed": 10779
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 738981,
+      "Progressed": 739001,
       "Completed": 12959
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-22T01:47:51.31507+00:00",
-  "LastChanged_Achievements": "2023-12-22T01:53:28.8107787+00:00",
+  "LastChanged_Achievements": "2023-12-22T02:29:43.4858897+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:50.1499922+00:00",
-  "LastUpdate_Ratings": "2023-12-22T01:47:51.3150706+00:00",
-  "LastUpdate_Achievements": "2023-12-22T01:53:28.8109014+00:00"
+  "LastUpdate_Ratings": "2023-12-22T02:23:46.8383597+00:00",
+  "LastUpdate_Achievements": "2023-12-22T02:29:43.486073+00:00"
 }

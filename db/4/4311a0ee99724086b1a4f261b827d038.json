@@ -767,9 +767,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 238830,
+  "EOS_Progressed": 238834,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1198,
+  "EOS_NewPlayers": 1199,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18312,6 +18312,11 @@
       "Time": "2023-12-22T01:54:33.7572883+00:00",
       "NumProgressed": 238830,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T02:31:11.7897861+00:00",
+      "NumProgressed": 238834,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -18380,7 +18385,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 50154
+      "UsersEstimate": 50155
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -18508,7 +18513,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 33436
+      "UsersEstimate": 33437
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -18548,7 +18553,7 @@
       "Name": "The Karos Graveyard Complete",
       "Percentage": 0.9,
       "XP": 35,
-      "UsersEstimate": 2149
+      "UsersEstimate": 2150
     },
     {
       "ID": "HW2_MISSION7_COMPLETE",
@@ -18595,7 +18600,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 238830,
+      "Progressed": 238834,
       "Completed": 0
     }
   ],
@@ -18603,8 +18608,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-12-20T01:28:33.075443+00:00",
-  "LastChanged_Achievements": "2023-12-22T01:54:33.7572881+00:00",
+  "LastChanged_Achievements": "2023-12-22T02:31:11.7897858+00:00",
   "LastUpdate_AppInfo": "2023-12-15T04:56:59.9211133+00:00",
-  "LastUpdate_Ratings": "2023-12-22T01:44:39.477563+00:00",
-  "LastUpdate_Achievements": "2023-12-22T01:54:33.7573898+00:00"
+  "LastUpdate_Ratings": "2023-12-22T02:21:08.8587374+00:00",
+  "LastUpdate_Achievements": "2023-12-22T02:31:11.7898775+00:00"
 }

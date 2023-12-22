@@ -12714,7 +12714,7 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 57157,
+  "EOS_Progressed": 57158,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 1368,
   "EOS_NewCompleters": 0,
@@ -35639,6 +35639,11 @@
       "Time": "2023-12-22T01:51:13.3408684+00:00",
       "NumProgressed": 57157,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-22T02:28:15.7066411+00:00",
+      "NumProgressed": 57158,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -35746,7 +35751,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 33151
+      "UsersEstimate": 33152
     },
     {
       "ID": "DeliveryGrapes",
@@ -35786,7 +35791,7 @@
       "Name": "Plant get enough",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 33151
+      "UsersEstimate": 33152
     },
     {
       "ID": "Harvested",
@@ -35834,7 +35839,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 27435
+      "UsersEstimate": 27436
     },
     {
       "ID": "Mission",
@@ -35858,7 +35863,7 @@
       "Name": "Hard work pays off",
       "Percentage": 51,
       "XP": 55,
-      "UsersEstimate": 29150
+      "UsersEstimate": 29151
     },
     {
       "ID": "NumBeehives",
@@ -35906,7 +35911,7 @@
       "Name": "This is just my weekend vehicle",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 31436
+      "UsersEstimate": 31437
     },
     {
       "ID": "PetDog",
@@ -35938,7 +35943,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 34294
+      "UsersEstimate": 34295
     },
     {
       "ID": "Stones",
@@ -35954,7 +35959,7 @@
       "Name": "Field Trip",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 23434
+      "UsersEstimate": 23435
     },
     {
       "ID": "TruckDriving",
@@ -35993,15 +35998,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 57157,
+      "Progressed": 57158,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-12-21T22:00:04.8365303+00:00",
-  "LastChanged_Achievements": "2023-12-22T01:51:13.340868+00:00",
+  "LastChanged_Achievements": "2023-12-22T02:28:15.70664+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:09.7454283+00:00",
-  "LastUpdate_Ratings": "2023-12-22T01:44:20.8042479+00:00",
-  "LastUpdate_Achievements": "2023-12-22T01:51:13.340984+00:00"
+  "LastUpdate_Ratings": "2023-12-22T02:20:41.2058303+00:00",
+  "LastUpdate_Achievements": "2023-12-22T02:28:15.7069137+00:00"
 }

@@ -9,8 +9,8 @@
 | Oo-De-Lally | 69.00% | ~61 |
 | The Altruist | 67.00% | ~59 |
 | Treasure Hunter | 65.00% | ~57 |
+| Watch your Step! | 53.00% | ~47 |
 | Tap Dancing | 52.00% | ~46 |
-| Watch your Step! | 52.00% | ~46 |
 | MAX LEVEL | 51.00% | ~45 |
 | Spring Board | 42.00% | ~37 |
 | Right between the eyes | 41.00% | ~36 |

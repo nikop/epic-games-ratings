@@ -6,23 +6,23 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~873,860 |
-| Green Energy | 60.00% | ~738,473 |
-| Singing In The- | 59.00% | ~726,166 |
-| Foggy Weather | 58.00% | ~713,858 |
-| Unpopular Mayor | 40.00% | ~492,316 |
-| Power at Your Fingertips | 33.00% | ~406,160 |
-| City Planner | 22.00% | ~270,774 |
-| Rolling in Dough | 20.00% | ~246,158 |
-| Does My Bum Look Big In This? | 17.00% | ~209,234 |
-| Climbing the Social Ladder | 16.00% | ~196,926 |
-| Safe City | 13.00% | ~160,003 |
-| Quay-King | 11.00% | ~135,387 |
-| Lawmaker | 10.00% | ~123,079 |
-| With Canals You Can! | 10.00% | ~123,079 |
-| Nomen Est Omen | 7.00% | ~86,155 |
-| Well Informed | 6.00% | ~73,847 |
-| Fire Watch | 5.00% | ~61,539 |
+| Pioneer | 71.00% | ~873,877 |
+| Green Energy | 60.00% | ~738,487 |
+| Singing In The- | 59.00% | ~726,179 |
+| Foggy Weather | 58.00% | ~713,871 |
+| Unpopular Mayor | 40.00% | ~492,325 |
+| Power at Your Fingertips | 33.00% | ~406,168 |
+| City Planner | 22.00% | ~270,779 |
+| Rolling in Dough | 20.00% | ~246,162 |
+| Does My Bum Look Big In This? | 17.00% | ~209,238 |
+| Climbing the Social Ladder | 16.00% | ~196,930 |
+| Safe City | 13.00% | ~160,006 |
+| Quay-King | 11.00% | ~135,389 |
+| Lawmaker | 10.00% | ~123,081 |
+| With Canals You Can! | 10.00% | ~123,081 |
+| Nomen Est Omen | 7.00% | ~86,157 |
+| Well Informed | 6.00% | ~73,849 |
+| Fire Watch | 5.00% | ~61,541 |
 | Greenest City | 4.00% | ~49,232 |
 | Heavenly City | 3.00% | ~36,924 |
 | Reporting! | 3.00% | ~36,924 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~1,231 |
 | Z00 | 0.10% | ~1,231 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,230,789 (Ranked 11)  
+Progressed: 1,230,812 (Ranked 11)  
 Completed: 11 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -372,7 +372,7 @@ Completed: 11 (0.00%) (Ranked 384)
 | 2023-12-19 | 1,228,060 | 11 |
 | 2023-12-20 | 1,229,350 | 11 |
 | 2023-12-21 | 1,230,680 | 11 |
-| 2023-12-22 | 1,230,789 | 11 |
+| 2023-12-22 | 1,230,812 | 11 |
 ## Awards
 Max (Great for Beginners): 6,512  (Ranked 59)  
 Sum: 48,084 (Ranked 31)  

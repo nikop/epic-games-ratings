@@ -7,16 +7,16 @@
 | Inquisitor | 37.00% | ~215 |
 | Goblin Tales | 29.00% | ~168 |
 | Bug Hunter | 24.00% | ~139 |
-| Boss Killer | 22.00% | ~128 |
+| Boss Killer | 23.00% | ~134 |
 | The Fallen | 20.00% | ~116 |
 | Artifact Collector | 19.00% | ~110 |
 | Trap Master | 18.00% | ~105 |
 | Ghost Buster | 15.00% | ~87 |
 | Iconoclasm | 15.00% | ~87 |
 | Reincarnation | 15.00% | ~87 |
+| Librarian | 13.00% | ~76 |
 | Orcs Must Die! | 13.00% | ~76 |
 | Gladiator | 12.00% | ~70 |
-| Librarian | 12.00% | ~70 |
 | The End | 12.00% | ~70 |
 | Lumberjack | 11.00% | ~64 |
 | Troubleshooter | 10.00% | ~58 |

@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 406,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1510,9 +1510,9 @@
       "ID": "TIME_JINX",
       "SetID": "9j9h72e",
       "Name": "Timejinx: Timejinx",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 102
+      "UsersEstimate": 106
     },
     {
       "ID": "TIME_ORWELL",
@@ -1581,8 +1581,8 @@
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-22T01:54:15.7984316+00:00",
+  "LastChanged_Achievements": "2023-12-22T02:30:47.6436481+00:00",
   "LastUpdate_AppInfo": "2023-12-16T01:42:15.0489028+00:00",
-  "LastUpdate_Ratings": "2023-12-22T01:47:42.7513483+00:00",
-  "LastUpdate_Achievements": "2023-12-22T01:54:15.7984485+00:00"
+  "LastUpdate_Ratings": "2023-12-22T02:23:33.5441303+00:00",
+  "LastUpdate_Achievements": "2023-12-22T02:30:47.6436641+00:00"
 }

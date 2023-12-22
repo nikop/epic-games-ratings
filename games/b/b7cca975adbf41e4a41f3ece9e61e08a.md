@@ -5,27 +5,27 @@ Rating: 4.75 (Ranked 149)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 88.00% | ~12,972 |
-| I Challenge You To Save More Money! | 81.00% | ~11,940 |
-| I Love How Tough You Are | 66.00% | ~9,729 |
-| Wanna Come To My Place For Dinner? | 59.00% | ~8,697 |
-| What I Want Is You | 54.00% | ~7,960 |
-| To Be Or Not To Be | 51.00% | ~7,518 |
-| Are You Alright? | 47.00% | ~6,928 |
-| Love Actually | 42.00% | ~6,191 |
-| Drama King | 37.00% | ~5,454 |
+| Last Night...Did We... | 88.00% | ~12,974 |
+| I Challenge You To Save More Money! | 81.00% | ~11,942 |
+| I Love How Tough You Are | 66.00% | ~9,730 |
+| Wanna Come To My Place For Dinner? | 59.00% | ~8,698 |
+| What I Want Is You | 54.00% | ~7,961 |
+| To Be Or Not To Be | 51.00% | ~7,519 |
+| Are You Alright? | 47.00% | ~6,929 |
+| Love Actually | 42.00% | ~6,192 |
+| Drama King | 37.00% | ~5,455 |
 | Go Clean up In Your Own Way | 33.00% | ~4,865 |
 | You're Really Something Else | 33.00% | ~4,865 |
-| Drama CP: Reel to Real | 32.00% | ~4,717 |
+| Drama CP: Reel to Real | 32.00% | ~4,718 |
 | FIRST LOVE | 31.00% | ~4,570 |
 | Worthless Speech | 31.00% | ~4,570 |
-| Happy Family | 30.00% | ~4,422 |
-| ONE PUNCH | 30.00% | ~4,422 |
+| Happy Family | 30.00% | ~4,423 |
 | Absolutely Elegant | 29.00% | ~4,275 |
-| Still Single | 28.00% | ~4,127 |
+| ONE PUNCH | 29.00% | ~4,275 |
+| Still Single | 28.00% | ~4,128 |
 | Days Of Innocence | 26.00% | ~3,833 |
 | David | 26.00% | ~3,833 |
-| Go Get Some Fries On The Pier | 25.00% | ~3,685 |
+| Go Get Some Fries On The Pier | 25.00% | ~3,686 |
 | All I Have Is Money | 22.00% | ~3,243 |
 | Lover In Dark Alley | 22.00% | ~3,243 |
 | A Slap In The Face! | 22.00% | ~3,243 |
@@ -48,7 +48,7 @@ Rating: 4.75 (Ranked 149)
 | Tall; Grande; Venti | 2.00% | ~295 |
 | Limerence | 2.00% | ~295 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,741 (Ranked 164)  
+Progressed: 14,743 (Ranked 164)  
 Completed: 238 (1.61%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 238 (1.61%) (Ranked 142)
 | 2023-12-19 | 14,207 | 233 |
 | 2023-12-20 | 14,479 | 236 |
 | 2023-12-21 | 14,731 | 238 |
-| 2023-12-22 | 14,741 | 238 |
+| 2023-12-22 | 14,743 | 238 |
 ## Awards
 Max (Impact the Story): 28  (Ranked 520)  
 Sum: 28 (Ranked 534)  

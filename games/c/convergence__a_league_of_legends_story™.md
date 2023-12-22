@@ -18,9 +18,9 @@ Rating: 4.64 (Ranked 338)
 | The Steel Shadow | 22.00% | ~233 |
 | The Harder They Fall | 22.00% | ~233 |
 | Breaking Down Barriers | 22.00% | ~233 |
+| The Wicked Twins | 22.00% | ~233 |
 | Honest Mistake | 22.00% | ~233 |
 | Fast Learner | 22.00% | ~233 |
-| The Wicked Twins | 21.00% | ~222 |
 | Right On Time | 20.00% | ~212 |
 | Like Clockwork | 20.00% | ~212 |
 | The Betrayer | 20.00% | ~212 |
@@ -30,7 +30,7 @@ Rating: 4.64 (Ranked 338)
 | The Family Fortune | 18.00% | ~190 |
 | Street Style | 17.00% | ~180 |
 | The Man Who Shattered Time | 17.00% | ~180 |
-| Whiz Kid | 14.00% | ~148 |
+| Whiz Kid | 15.00% | ~159 |
 | Good Neighbor | 14.00% | ~148 |
 | Treasure Trove | 13.00% | ~138 |
 | Family Memories | 13.00% | ~138 |

@@ -16914,10 +16914,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 435455,
       "NumberOfAwardsMax": 125917
+    },
+    {
+      "Time": "2023-12-22T02:23:52.6860812+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 435621,
+      "NumberOfAwardsMax": 125917
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 435455,
+  "NumberOfAwards": 435621,
   "NumberOfAwardsMax": 125917,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -16937,7 +16943,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 26477
+      "Count": 26643
     },
     {
       "Text": "This game is Relaxing",
@@ -16994,9 +17000,9 @@
       "Count": 16443
     }
   ],
-  "EOS_Progressed": 979698,
+  "EOS_Progressed": 979708,
   "EOS_Completed": 2951,
-  "EOS_NewPlayers": 3604,
+  "EOS_NewPlayers": 3606,
   "EOS_NewCompleters": 44,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -44999,6 +45005,11 @@
       "Time": "2023-12-22T01:51:30.4699034+00:00",
       "NumProgressed": 979698,
       "NumCompleted": 2951
+    },
+    {
+      "Time": "2023-12-22T02:28:39.2394959+00:00",
+      "NumProgressed": 979708,
+      "NumCompleted": 2951
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -45083,7 +45094,7 @@
       "Name": "Gun Fu",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 78376
+      "UsersEstimate": 78377
     },
     {
       "ID": "Gunslinger",
@@ -45147,7 +45158,7 @@
       "Name": "Must Be Rats",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4898
+      "UsersEstimate": 4899
     },
     {
       "ID": "NeverFadeAway",
@@ -45203,7 +45214,7 @@
       "Name": "Temperance",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4898
+      "UsersEstimate": 4899
     },
     {
       "ID": "ThatIsSoHardForTheKnees",
@@ -45227,7 +45238,7 @@
       "Name": "The Fool",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 68579
+      "UsersEstimate": 68580
     },
     {
       "ID": "TheHermit",
@@ -45339,7 +45350,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 117564
+      "UsersEstimate": 117565
     },
     {
       "ID": "YipMan",
@@ -45546,21 +45557,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 979698,
+      "Progressed": 979708,
       "Completed": 2951
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 108321,
+      "Progressed": 108331,
       "Completed": 10431
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-12-22T00:03:05.0843458+00:00",
-  "LastChanged_Achievements": "2023-12-22T01:51:30.469903+00:00",
+  "LastChanged": "2023-12-22T02:23:52.686081+00:00",
+  "LastChanged_Achievements": "2023-12-22T02:28:39.2394957+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:11.4044836+00:00",
-  "LastUpdate_Ratings": "2023-12-22T01:47:55.3830587+00:00",
-  "LastUpdate_Achievements": "2023-12-22T01:51:30.470055+00:00"
+  "LastUpdate_Ratings": "2023-12-22T02:23:52.6860816+00:00",
+  "LastUpdate_Achievements": "2023-12-22T02:28:39.2396864+00:00"
 }

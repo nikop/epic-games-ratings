@@ -567,9 +567,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5947,
+  "EOS_Progressed": 5950,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 299,
+  "EOS_NewPlayers": 302,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8712,6 +8712,11 @@
       "Time": "2023-12-22T01:50:51.369538+00:00",
       "NumProgressed": 5947,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-22T02:27:45.7684653+00:00",
+      "NumProgressed": 5950,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -8795,7 +8800,7 @@
       "Name": "Arch Mage",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "19",
@@ -8803,7 +8808,7 @@
       "Name": "The Creator",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "2",
@@ -8827,7 +8832,7 @@
       "Name": "Eternal Lord",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "22",
@@ -8851,7 +8856,7 @@
       "Name": "Secret Technique",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "25",
@@ -8867,7 +8872,7 @@
       "Name": "Bone Peddler",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "27",
@@ -8883,7 +8888,7 @@
       "Name": "From Friends to Family",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "29",
@@ -8899,7 +8904,7 @@
       "Name": "Crimson Caldera",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "30",
@@ -8963,7 +8968,7 @@
       "Name": "Against the Odds",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "38",
@@ -8987,7 +8992,7 @@
       "Name": "The Eternal Court",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "40",
@@ -9099,7 +9104,7 @@
       "Name": "Blood of the Dragon",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "49",
@@ -9139,7 +9144,7 @@
       "Name": "Prometheus Avenged",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "54",
@@ -9155,7 +9160,7 @@
       "Name": "Seal the Deal",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "56",
@@ -9163,7 +9168,7 @@
       "Name": "A Conqueror\u0027s Cohort",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "57",
@@ -9179,7 +9184,7 @@
       "Name": "Dawn of the Dread",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "59",
@@ -9187,7 +9192,7 @@
       "Name": "But this one is mine",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "60",
@@ -9202,13 +9207,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5947,
+      "Progressed": 5950,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5947,
+      "Progressed": 5950,
       "Completed": 7
     }
   ],
@@ -9216,8 +9221,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-20T07:59:25.4319145+00:00",
-  "LastChanged_Achievements": "2023-12-22T01:50:51.3695375+00:00",
+  "LastChanged_Achievements": "2023-12-22T02:27:45.7684642+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.6868317+00:00",
-  "LastUpdate_Ratings": "2023-12-22T01:42:32.8029351+00:00",
-  "LastUpdate_Achievements": "2023-12-22T01:50:51.3696257+00:00"
+  "LastUpdate_Ratings": "2023-12-22T02:18:02.1371638+00:00",
+  "LastUpdate_Achievements": "2023-12-22T02:27:45.7685848+00:00"
 }

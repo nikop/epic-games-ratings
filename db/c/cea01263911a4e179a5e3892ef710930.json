@@ -221,9 +221,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 90293,
+  "EOS_Progressed": 90294,
   "EOS_Completed": 306,
-  "EOS_NewPlayers": 750,
+  "EOS_NewPlayers": 749,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -15121,6 +15121,11 @@
       "Time": "2023-12-22T01:50:49.9706506+00:00",
       "NumProgressed": 90293,
       "NumCompleted": 306
+    },
+    {
+      "Time": "2023-12-22T02:27:43.914124+00:00",
+      "NumProgressed": 90294,
+      "NumCompleted": 306
     }
   ],
   "AchievementsAdded": "2023-08-03T06:01:19.3820028+00:00",
@@ -15133,7 +15138,7 @@
       "Name": "Welcome to Dodo Peak",
       "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 72234
+      "UsersEstimate": 72235
     },
     {
       "ID": "grp_beet",
@@ -15173,7 +15178,7 @@
       "Name": "Play Free Bird",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 22573
+      "UsersEstimate": 22574
     },
     {
       "ID": "grp_level10",
@@ -15221,7 +15226,7 @@
       "Name": "Investing in BirdCoin",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 48758
+      "UsersEstimate": 48759
     },
     {
       "ID": "grp_money_tree",
@@ -15229,7 +15234,7 @@
       "Name": "Money doesn\u0027t grow on trees",
       "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 66817
+      "UsersEstimate": 66818
     },
     {
       "ID": "grp_speed",
@@ -15268,7 +15273,7 @@
     {
       "ID": "2gd32f",
       "IsBase": true,
-      "Progressed": 90293,
+      "Progressed": 90294,
       "Completed": 306
     }
   ],
@@ -15276,8 +15281,8 @@
   "FirstSeenRating": "2023-08-27T07:59:18.2658043+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
   "LastChanged": "2023-12-16T14:00:50.6822682+00:00",
-  "LastChanged_Achievements": "2023-12-22T01:50:49.9706502+00:00",
+  "LastChanged_Achievements": "2023-12-22T02:27:43.9141238+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:55.9991463+00:00",
-  "LastUpdate_Ratings": "2023-12-22T01:44:46.3841691+00:00",
-  "LastUpdate_Achievements": "2023-12-22T01:50:49.970742+00:00"
+  "LastUpdate_Ratings": "2023-12-22T02:21:18.8395898+00:00",
+  "LastUpdate_Achievements": "2023-12-22T02:27:43.9142166+00:00"
 }

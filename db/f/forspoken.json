@@ -523,9 +523,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 44687,
+  "EOS_Progressed": 44691,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 890,
+  "EOS_NewPlayers": 891,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15973,6 +15973,11 @@
       "Time": "2023-12-22T01:48:39.9580471+00:00",
       "NumProgressed": 44687,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-22T02:24:43.945642+00:00",
+      "NumProgressed": 44691,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -16016,7 +16021,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1787
+      "UsersEstimate": 1788
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -16040,7 +16045,7 @@
       "Name": "Stuck",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1787
+      "UsersEstimate": 1788
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -16144,7 +16149,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2234
+      "UsersEstimate": 2235
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -16200,7 +16205,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2234
+      "UsersEstimate": 2235
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -16240,7 +16245,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2234
+      "UsersEstimate": 2235
     },
     {
       "ID": "MAGIC_IVY",
@@ -16407,22 +16412,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 44687,
+      "Progressed": 44691,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 9524,
-      "Completed": 9524
+      "Progressed": 9528,
+      "Completed": 9528
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-21T10:56:56.3222551+00:00",
-  "LastChanged_Achievements": "2023-12-22T01:48:39.9580466+00:00",
+  "LastChanged_Achievements": "2023-12-22T02:24:43.9456412+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:26.7354097+00:00",
-  "LastUpdate_Ratings": "2023-12-22T01:42:27.8085844+00:00",
-  "LastUpdate_Achievements": "2023-12-22T01:48:39.9581817+00:00"
+  "LastUpdate_Ratings": "2023-12-22T02:17:54.8274685+00:00",
+  "LastUpdate_Achievements": "2023-12-22T02:24:43.945906+00:00"
 }

@@ -21,8 +21,8 @@ Number of Ratings: 1,047  (23.09.2022)
 | Why not both | 29.00% | ~7,190 |
 | Artificial selection | 27.00% | ~6,694 |
 | Control freak | 27.00% | ~6,694 |
+| Finish line | 26.00% | ~6,446 |
 | Running Wild | 26.00% | ~6,446 |
-| Finish line | 25.00% | ~6,198 |
 | Unstoppable force | 22.00% | ~5,454 |
 | Wave of mutilation | 21.00% | ~5,206 |
 | Can't Run Can't Hide | 16.00% | ~3,967 |

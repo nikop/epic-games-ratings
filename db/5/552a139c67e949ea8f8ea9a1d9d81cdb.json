@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -3827,9 +3827,9 @@
       "ID": "ML_ACHIEVEMENT_21",
       "SetID": "5k00jcd",
       "Name": "I\u0027m in charge here!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 61
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
@@ -4048,8 +4048,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-22T01:49:07.884551+00:00",
+  "LastChanged_Achievements": "2023-12-22T02:25:22.5678331+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:08.51229+00:00",
-  "LastUpdate_Ratings": "2023-12-22T01:42:23.0678302+00:00",
-  "LastUpdate_Achievements": "2023-12-22T01:49:07.8845905+00:00"
+  "LastUpdate_Ratings": "2023-12-22T02:17:47.774627+00:00",
+  "LastUpdate_Achievements": "2023-12-22T02:25:22.5678947+00:00"
 }

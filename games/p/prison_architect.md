@@ -6,7 +6,7 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~51,514 |
+| Stone Walls | 25.00% | ~51,515 |
 | Get Busy Living | 16.00% | ~32,969 |
 | Samuel Norton | 9.00% | ~18,545 |
 | Spare The Rod | 5.00% | ~10,303 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~206 |
 | ... It's What You Can Prove | 0.10% | ~206 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206,057 (Ranked 76)  
+Progressed: 206,059 (Ranked 76)  
 Completed: 11 (0.01%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,10 +269,10 @@ Completed: 11 (0.01%) (Ranked 361)
 | 2023-12-19 | 205,206 | 11 |
 | 2023-12-20 | 205,600 | 11 |
 | 2023-12-21 | 206,020 | 11 |
-| 2023-12-22 | 206,057 | 11 |
+| 2023-12-22 | 206,059 | 11 |
 ## Awards
 Max (Great for Beginners): 610  (Ranked 198)  
-Sum: 4,665 (Ranked 148)  
+Sum: 4,667 (Ranked 148)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
@@ -285,7 +285,7 @@ Diff (max vs sum): 50
 | This game has Amazing Storytelling | 500 |
 | This game is Educational | 459 |
 | This game has Amazing Characters | 450 |
-| This game has a Creative Community | 358 |
+| This game has a Creative Community | 360 |
 | This game has Obsessive Gameplay | 234 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -623,3 +623,4 @@ Diff (max vs sum): 50
 | 2023-12-19 | 4.61 | - | 607 | 4,641 |
 | 2023-12-20 | 4.61 | - | 607 | 4,654 |
 | 2023-12-21 | 4.61 | - | 610 | 4,665 |
+| 2023-12-22 | 4.61 | - | 610 | 4,667 |

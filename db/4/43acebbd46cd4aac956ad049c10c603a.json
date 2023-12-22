@@ -222,9 +222,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 1079,
+  "EOS_Progressed": 1080,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2837,6 +2837,11 @@
       "Time": "2023-12-22T01:50:37.4701674+00:00",
       "NumProgressed": 1079,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-22T02:27:27.0029271+00:00",
+      "NumProgressed": 1080,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2855,9 +2860,9 @@
       "ID": "AbInitio",
       "SetID": "1n308hc",
       "Name": "Ab Initio",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 237
+      "UsersEstimate": 248
     },
     {
       "ID": "AnthropicHills",
@@ -2913,7 +2918,7 @@
       "Name": "Chasing the Light",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "Chicken",
@@ -2943,9 +2948,9 @@
       "ID": "Discovery",
       "SetID": "1n308hc",
       "Name": "Discovery",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 227
     },
     {
       "ID": "EasternWetlands",
@@ -2953,7 +2958,7 @@
       "Name": "Eastern Wetlands",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "EcstaticTruth",
@@ -3289,7 +3294,7 @@
       "Name": "Wanderers",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "WesternDelta",
@@ -3305,7 +3310,7 @@
       "Name": "Wooded Plateau",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "YourBiggestFan",
@@ -3320,7 +3325,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1079,
+      "Progressed": 1080,
       "Completed": 1
     }
   ],
@@ -3328,8 +3333,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-22T01:50:37.470167+00:00",
+  "LastChanged_Achievements": "2023-12-22T02:27:27.0029266+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-22T01:45:28.9184398+00:00",
-  "LastUpdate_Achievements": "2023-12-22T01:50:37.4702116+00:00"
+  "LastUpdate_Ratings": "2023-12-22T02:23:00.6620362+00:00",
+  "LastUpdate_Achievements": "2023-12-22T02:27:27.0030668+00:00"
 }

@@ -24,8 +24,8 @@ Number of Ratings: 85  (23.09.2022)
 | Forbidden Donut | 29.00% | ~26 |
 | Trans-Siberian Express | 25.00% | ~22 |
 | Deincarnated | 24.00% | ~21 |
+| Rock of the Bay | 24.00% | ~21 |
 | Furon Fashion | 24.00% | ~21 |
-| Rock of the Bay | 22.00% | ~20 |
 | Re-Return of the Clone of the Invasion II-2 | 20.00% | ~18 |
 | Arkvoodle Doodle | 16.00% | ~14 |
 | If You Know What I Mean | 13.00% | ~12 |
@@ -35,8 +35,8 @@ Number of Ratings: 85  (23.09.2022)
 | Mash Machine | 10.00% | ~9 |
 | Hidden Human Hive Harvest | 9.00% | ~8 |
 | PK Slam Dunk | 8.00% | ~7 |
+| Albion Bridge Is for Falling Down | 7.00% | ~6 |
 | Scuttled | 6.00% | ~5 |
-| Albion Bridge Is for Falling Down | 6.00% | ~5 |
 | Higher Than the Futen Zoku | 6.00% | ~5 |
 | Path of the Furon | 3.00% | ~3 |
 | Arty Facts | 3.00% | ~3 |

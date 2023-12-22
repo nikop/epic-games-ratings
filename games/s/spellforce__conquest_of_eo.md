@@ -31,9 +31,9 @@
 | Friend of Gillyshire | 14.00% | ~10 |
 | Philo's Tale | 13.00% | ~9 |
 | Stormwatch Faste | 13.00% | ~9 |
+| Friend of Silver Drift Hollow | 13.00% | ~9 |
 | Friend of Bastion | 13.00% | ~9 |
 | Friend of Orgash | 11.00% | ~8 |
-| Friend of Silver Drift Hollow | 11.00% | ~8 |
 | Friend of Windholme | 11.00% | ~8 |
 | Magic Academy | 10.00% | ~7 |
 | A Joke | 10.00% | ~7 |

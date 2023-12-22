@@ -7,7 +7,7 @@ Number of Ratings: 292  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Adept | 41.00% | ~259 |
-| Double Kill | 33.00% | ~209 |
+| Double Kill | 34.00% | ~215 |
 | Critical Hit | 19.00% | ~120 |
 | Veteran | 18.00% | ~114 |
 | Dressed For Success | 12.00% | ~76 |
@@ -21,9 +21,9 @@ Number of Ratings: 292  (23.09.2022)
 | Don't Touch My Stuff | 4.00% | ~25 |
 | Trojan Horse | 4.00% | ~25 |
 | The Song of Stoutheart | 3.00% | ~19 |
+| This Spot's Taken | 3.00% | ~19 |
 | Expert Essence Employment | 3.00% | ~19 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~19 |
-| This Spot's Taken | 2.00% | ~13 |
 | Deepstrike | 2.00% | ~13 |
 | Ultra Kill | 2.00% | ~13 |
 | Pyrrhic Victory | 2.00% | ~13 |
