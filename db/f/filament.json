@@ -2,13 +2,13 @@
   "ID": "89fb09a222a54e53b692e9c36e68d0a1",
   "Name": "Filament",
   "ProductSlug": "filament-332a92",
-  "Ranking_Rating": 830,
+  "Ranking_Rating": 829,
   "Ranking_Popularity": 205,
   "Ranking_PopularitySum": 306,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -372,9 +372,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 207492,
+  "EOS_Progressed": 207497,
   "EOS_Completed": 546,
-  "EOS_NewPlayers": 447,
+  "EOS_NewPlayers": 450,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -26602,6 +26602,11 @@
       "Time": "2023-12-22T00:06:25.4807242+00:00",
       "NumProgressed": 207492,
       "NumCompleted": 546
+    },
+    {
+      "Time": "2023-12-22T01:51:05.1553187+00:00",
+      "NumProgressed": 207497,
+      "NumCompleted": 546
     }
   ],
   "TotalAchievements": 29,
@@ -26637,7 +26642,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 195042
+      "UsersEstimate": 195047
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -26797,7 +26802,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20749
+      "UsersEstimate": 20750
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -26813,7 +26818,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16599
+      "UsersEstimate": 16600
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -26844,7 +26849,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 207492,
+      "Progressed": 207497,
       "Completed": 546
     }
   ],
@@ -26852,8 +26857,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-12-14T16:59:49.3073331+00:00",
-  "LastChanged_Achievements": "2023-12-22T00:06:25.4807238+00:00",
+  "LastChanged_Achievements": "2023-12-22T01:51:05.1553182+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:10.7680666+00:00",
-  "LastUpdate_Ratings": "2023-12-21T23:59:53.632221+00:00",
-  "LastUpdate_Achievements": "2023-12-22T00:06:25.4808544+00:00"
+  "LastUpdate_Ratings": "2023-12-22T01:44:45.7386569+00:00",
+  "LastUpdate_Achievements": "2023-12-22T01:51:05.155451+00:00"
 }

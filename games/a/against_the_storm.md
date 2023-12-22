@@ -8,7 +8,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | ---- | ---------- | ----- |
 | Abandoned Settlement | 6.00% | ~1,132 |
 | Overgrown Library | 6.00% | ~1,132 |
-| Petrified Necropolis | 5.00% | ~943 |
+| Petrified Necropolis | 5.00% | ~944 |
 | First Real Expedition | 4.00% | ~755 |
 | Taking Action | 4.00% | ~755 |
 | No Deaths | 4.00% | ~755 |
@@ -20,12 +20,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Marshlands | 3.00% | ~566 |
 | The Scarlet Orchard | 3.00% | ~566 |
 | Land of Greed | 3.00% | ~566 |
-| Homesick | 2.00% | ~377 |
-| Fertile Meadows | 2.00% | ~377 |
-| Monastery of the Holy Flame | 2.00% | ~377 |
-| Royal Outpost | 2.00% | ~377 |
-| Watchtower | 2.00% | ~377 |
-| Untamed Wilds | 2.00% | ~377 |
+| Homesick | 2.00% | ~378 |
+| Fertile Meadows | 2.00% | ~378 |
+| Monastery of the Holy Flame | 2.00% | ~378 |
+| Royal Outpost | 2.00% | ~378 |
+| Watchtower | 2.00% | ~378 |
+| Untamed Wilds | 2.00% | ~378 |
 | Ruined Armory | 1.00% | ~189 |
 | Bandit Camp | 1.00% | ~189 |
 | Barren Lands | 1.00% | ~189 |
@@ -50,8 +50,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Efficient Explorer | 0.50% | ~94 |
 | Refinery | 0.50% | ~94 |
 | Dangerous Lands | 0.50% | ~94 |
-| Forbidden Lands | 0.40% | ~75 |
-| Fox Utopia | 0.40% | ~75 |
+| Forbidden Lands | 0.40% | ~76 |
+| Fox Utopia | 0.40% | ~76 |
 | Feeding The People | 0.30% | ~57 |
 | Like a Machine | 0.30% | ~57 |
 | Prestigious Expedition | 0.20% | ~38 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,868 (Ranked 148)  
+Progressed: 18,875 (Ranked 148)  
 Completed: 39 (0.21%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 39 (0.21%) (Ranked 268)
 | 2023-12-19 | 18,687 | 39 |
 | 2023-12-20 | 18,771 | 39 |
 | 2023-12-21 | 18,861 | 39 |
-| 2023-12-22 | 18,868 | 39 |
+| 2023-12-22 | 18,875 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 228)  
 Sum: 3,277 (Ranked 175)  

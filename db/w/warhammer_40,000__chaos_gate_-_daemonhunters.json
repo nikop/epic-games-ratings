@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 333,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -795,9 +795,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3510,
+  "EOS_Progressed": 3514,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4625,6 +4625,11 @@
       "Time": "2023-12-21T23:04:01.9430261+00:00",
       "NumProgressed": 3510,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T01:48:31.7910449+00:00",
+      "NumProgressed": 3514,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4724,7 +4729,7 @@
       "Name": "Honoured Battle-Brother",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ExtractorSkullUses",
@@ -4828,7 +4833,7 @@
       "Name": "Executioner",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "Kills_Exterminator",
@@ -4900,7 +4905,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -5004,7 +5009,7 @@
       "Name": "A Foul Creche",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "NotAMoteOfCorruption",
@@ -5179,21 +5184,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3510,
+      "Progressed": 3514,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3510,
+      "Progressed": 3514,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-16T13:05:46.2808+00:00",
-  "LastChanged_Achievements": "2023-12-22T00:03:33.471701+00:00",
+  "LastChanged_Achievements": "2023-12-22T01:48:31.7910443+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:54.7152084+00:00",
-  "LastUpdate_Ratings": "2023-12-22T00:03:08.5685924+00:00",
-  "LastUpdate_Achievements": "2023-12-22T00:03:33.471788+00:00"
+  "LastUpdate_Ratings": "2023-12-22T01:47:58.4727571+00:00",
+  "LastUpdate_Achievements": "2023-12-22T01:48:31.7911668+00:00"
 }

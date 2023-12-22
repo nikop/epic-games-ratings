@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 529,
+  "EOS_Progressed": 530,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1852,6 +1852,11 @@
       "Time": "2023-12-21T17:10:10.121359+00:00",
       "NumProgressed": 529,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-22T01:54:33.0764182+00:00",
+      "NumProgressed": 530,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -1863,7 +1868,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 50,
       "XP": 60,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "completeact2",
@@ -1871,7 +1876,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 42,
       "XP": 80,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "completeact3",
@@ -1903,7 +1908,7 @@
       "Name": "Truthseeker",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "scoreminrankrb2",
@@ -1982,7 +1987,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 529,
+      "Progressed": 530,
       "Completed": 2
     }
   ],
@@ -1990,8 +1995,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-12-22T00:09:49.0241026+00:00",
+  "LastChanged_Achievements": "2023-12-22T01:54:33.0764179+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:48.6488501+00:00",
-  "LastUpdate_Ratings": "2023-12-22T00:02:44.2732595+00:00",
-  "LastUpdate_Achievements": "2023-12-22T00:09:49.0241184+00:00"
+  "LastUpdate_Ratings": "2023-12-22T01:47:36.904192+00:00",
+  "LastUpdate_Achievements": "2023-12-22T01:54:33.0764361+00:00"
 }

@@ -23,8 +23,8 @@ Number of Ratings: 45  (23.09.2022)
 | Thematic Divergence | 1.00% | ~15 |
 | Pyrrhic Victory | 1.00% | ~15 |
 | Echoes Die | 1.00% | ~15 |
+| Turncoat | 1.00% | ~15 |
 | A Story of Heroes | 0.90% | ~14 |
-| Turncoat | 0.90% | ~14 |
 | Legends Never Die | 0.80% | ~12 |
 | Chain Reaction | 0.80% | ~12 |
 | Another Tale to Tell | 0.80% | ~12 |

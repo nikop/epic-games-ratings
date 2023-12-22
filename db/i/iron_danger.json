@@ -2,9 +2,9 @@
   "ID": "cd8a253549eb42ce8ce491e09ca49690",
   "Name": "Iron Danger",
   "ProductSlug": "iron-danger-b4320c",
-  "Ranking_EOS_Progress": 366,
+  "Ranking_EOS_Progress": 364,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 446,
+  "Ranking_EOS_NewPlayers": 438,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 333,
+  "EOS_Progressed": 334,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.2,
   "EosHistory": [
@@ -879,6 +879,11 @@
       "Time": "2023-12-21T19:08:23.1720199+00:00",
       "NumProgressed": 333,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-22T01:53:18.9603625+00:00",
+      "NumProgressed": 334,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 23,
@@ -888,9 +893,9 @@
       "ID": "ACH_BIG_FISH",
       "SetID": "ao59f0i",
       "Name": "Big Fish",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 17
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_ENEMY_KILLER",
@@ -954,7 +959,7 @@
       "Name": "Found the Healer",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ACH_KEYU_EXTERMINATOR",
@@ -1010,7 +1015,7 @@
       "Name": "First Shard",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "ACH_SHARD_2",
@@ -1040,9 +1045,9 @@
       "ID": "ACH_SHARD_5",
       "SetID": "ao59f0i",
       "Name": "Fifth Shard",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 17
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_TROLL",
@@ -1073,7 +1078,7 @@
     {
       "ID": "ao59f0i",
       "IsBase": true,
-      "Progressed": 333,
+      "Progressed": 334,
       "Completed": 4
     }
   ],
@@ -1081,8 +1086,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-12-22T00:08:26.4247749+00:00",
+  "LastChanged_Achievements": "2023-12-22T01:53:18.9603619+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.0443386+00:00",
-  "LastUpdate_Ratings": "2023-12-21T23:57:15.1057961+00:00",
-  "LastUpdate_Achievements": "2023-12-22T00:08:26.4247919+00:00"
+  "LastUpdate_Ratings": "2023-12-22T01:42:21.2711203+00:00",
+  "LastUpdate_Achievements": "2023-12-22T01:53:18.9603844+00:00"
 }

@@ -987,7 +987,7 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 7444,
+  "EOS_Progressed": 7445,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
@@ -9297,6 +9297,11 @@
       "Time": "2023-12-22T00:09:39.9485503+00:00",
       "NumProgressed": 7444,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T01:54:24.6587412+00:00",
+      "NumProgressed": 7445,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -9412,7 +9417,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5732
+      "UsersEstimate": 5733
     },
     {
       "ID": "First_Race_Met",
@@ -9444,7 +9449,7 @@
       "Name": "Worker Specialization",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 5657
+      "UsersEstimate": 5658
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -9628,7 +9633,7 @@
       "Name": "Unleash My Power",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4466
+      "UsersEstimate": 4467
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -9650,9 +9655,9 @@
       "ID": "War_Without_Translator",
       "SetID": "4h07amh",
       "Name": "War with the Unknown",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 372
+      "UsersEstimate": 447
     },
     {
       "ID": "Win_As_Altarian",
@@ -9883,15 +9888,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7444,
+      "Progressed": 7445,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-12-19T20:02:58.7273791+00:00",
-  "LastChanged_Achievements": "2023-12-22T00:09:39.9485501+00:00",
+  "LastChanged_Achievements": "2023-12-22T01:54:24.6587406+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:41.5804615+00:00",
-  "LastUpdate_Ratings": "2023-12-21T23:57:34.6784141+00:00",
-  "LastUpdate_Achievements": "2023-12-22T00:09:39.9486267+00:00"
+  "LastUpdate_Ratings": "2023-12-22T01:42:39.2942795+00:00",
+  "LastUpdate_Achievements": "2023-12-22T01:54:24.6588259+00:00"
 }

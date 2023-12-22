@@ -4,7 +4,7 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 805,
+  "EOS_Progressed": 806,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.12,
   "EosHistory": [
@@ -2095,6 +2095,11 @@
       "Time": "2023-12-21T22:10:04.8875101+00:00",
       "NumProgressed": 805,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-22T01:53:59.1680469+00:00",
+      "NumProgressed": 806,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 20,
@@ -2106,7 +2111,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "CHOICES_MATTER",
@@ -2154,7 +2159,7 @@
       "Name": "The Delivery",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "ENDING_6",
@@ -2194,7 +2199,7 @@
       "Name": "Fair Share",
       "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "GOOD_KARMA",
@@ -2202,7 +2207,7 @@
       "Name": "Good Karma",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "INTERROGATION",
@@ -2218,7 +2223,7 @@
       "Name": "Office Clerk",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "PROFICIENT_STORYTELLER",
@@ -2234,7 +2239,7 @@
       "Name": "Protector",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "SABOTAGE",
@@ -2258,14 +2263,14 @@
       "Name": "Star-Crossed Lovers",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     }
   ],
   "AchievementSets": [
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 805,
+      "Progressed": 806,
       "Completed": 9
     }
   ],
@@ -2273,8 +2278,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-12-22T00:09:12.2021398+00:00",
+  "LastChanged_Achievements": "2023-12-22T01:53:59.1680467+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:24.4540531+00:00",
-  "LastUpdate_Ratings": "2023-12-21T23:59:19.441452+00:00",
-  "LastUpdate_Achievements": "2023-12-22T00:09:12.202155+00:00"
+  "LastUpdate_Ratings": "2023-12-22T01:44:14.744864+00:00",
+  "LastUpdate_Achievements": "2023-12-22T01:53:59.1680632+00:00"
 }

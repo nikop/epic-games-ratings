@@ -933,9 +933,9 @@
       "ID": "1",
       "SetID": "acl54ke",
       "Name": "Solved second case",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "10",
@@ -1076,8 +1076,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-12-22T00:03:51.8460006+00:00",
+  "LastChanged_Achievements": "2023-12-22T01:48:48.3072687+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:15.2411406+00:00",
-  "LastUpdate_Ratings": "2023-12-21T23:59:59.4763979+00:00",
-  "LastUpdate_Achievements": "2023-12-22T00:03:51.8460173+00:00"
+  "LastUpdate_Ratings": "2023-12-22T01:44:50.9910835+00:00",
+  "LastUpdate_Achievements": "2023-12-22T01:48:48.307285+00:00"
 }

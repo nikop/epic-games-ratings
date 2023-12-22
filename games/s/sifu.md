@@ -6,33 +6,33 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 3.00% | ~22,168 |
-| Life is your teacher | 3.00% | ~22,168 |
-| Lightning Hands | 3.00% | ~22,168 |
-| The Assault | 2.00% | ~14,779 |
-| The Hateful Pole Fighter | 2.00% | ~14,779 |
-| State of constant learning | 2.00% | ~14,779 |
-| Qi Gong: Essence | 2.00% | ~14,779 |
-| Old Child | 2.00% | ~14,779 |
-| A Lady's Blood in the Snow | 1.00% | ~7,389 |
-| Lady Wing Chun | 1.00% | ~7,389 |
-| Kill Nil | 1.00% | ~7,389 |
-| Stuntmaster | 1.00% | ~7,389 |
-| Street Fighting | 1.00% | ~7,389 |
-| Qi Gong: Breath | 1.00% | ~7,389 |
-| I know Kung-Fu | 1.00% | ~7,389 |
-| Path of the Prospect | 1.00% | ~7,389 |
-| Rumble in the Hangar | 1.00% | ~7,389 |
-| Diligence as a goal | 1.00% | ~482 |
-| Furious Fists | 0.90% | ~6,650 |
-| Take damage to save time | 0.90% | ~6,650 |
-| Project Arena | 0.90% | ~434 |
-| Qi Gong: Mind | 0.80% | ~5,912 |
+| The Old Grandmaster | 3.00% | ~22,169 |
+| Life is your teacher | 3.00% | ~22,169 |
+| Lightning Hands | 3.00% | ~22,169 |
+| The Assault | 2.00% | ~14,780 |
+| The Hateful Pole Fighter | 2.00% | ~14,780 |
+| State of constant learning | 2.00% | ~14,780 |
+| Qi Gong: Essence | 2.00% | ~14,780 |
+| Old Child | 2.00% | ~14,780 |
+| A Lady's Blood in the Snow | 1.00% | ~7,390 |
+| Lady Wing Chun | 1.00% | ~7,390 |
+| Kill Nil | 1.00% | ~7,390 |
+| Stuntmaster | 1.00% | ~7,390 |
+| Street Fighting | 1.00% | ~7,390 |
+| Qi Gong: Breath | 1.00% | ~7,390 |
+| I know Kung-Fu | 1.00% | ~7,390 |
+| Path of the Prospect | 1.00% | ~7,390 |
+| Rumble in the Hangar | 1.00% | ~7,390 |
+| Diligence as a goal | 1.00% | ~483 |
+| Furious Fists | 0.90% | ~6,651 |
+| Qi Gong: Mind | 0.90% | ~6,651 |
+| Take damage to save time | 0.90% | ~6,651 |
+| Project Arena | 0.90% | ~435 |
 | Scareless | 0.70% | ~5,173 |
 | Dance of the Praying Mantis | 0.70% | ~5,173 |
 | Kung-Fu Tussle | 0.70% | ~5,173 |
 | Fight the way you practice | 0.70% | ~338 |
-| Martial Hub | 0.60% | ~289 |
+| Martial Hub | 0.60% | ~290 |
 | Bloody Sport | 0.50% | ~241 |
 | Muk Yan Master | 0.40% | ~2,956 |
 | Tiger on Fire | 0.40% | ~2,956 |
@@ -52,10 +52,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Pit Protector | 0.20% | ~1,478 |
 | Be like water my friend | 0.20% | ~1,478 |
 | Come Snap With Me | 0.20% | ~1,478 |
-| Deadly Venom | 0.20% | ~96 |
-| A Touch of Acumen | 0.20% | ~96 |
-| Skill and an even stronger will | 0.20% | ~96 |
-| Beatmaker | 0.20% | ~96 |
+| Deadly Venom | 0.20% | ~97 |
+| A Touch of Acumen | 0.20% | ~97 |
+| Skill and an even stronger will | 0.20% | ~97 |
+| Beatmaker | 0.20% | ~97 |
 | Healing Memory | 0.10% | ~739 |
 | Warriors from the Mountain | 0.10% | ~739 |
 | Secure, Protect, Leave | 0.10% | ~48 |
@@ -67,8 +67,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~48 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 738,938 (Ranked 23)  
-Completed: 12,958 (1.75%) (Ranked 140)  
+Progressed: 738,981 (Ranked 23)  
+Completed: 12,959 (1.75%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -313,10 +313,10 @@ Completed: 12,958 (1.75%) (Ranked 140)
 | 2023-12-19 | 736,295 | 12,958 |
 | 2023-12-20 | 737,594 | 12,958 |
 | 2023-12-21 | 738,913 | 12,958 |
-| 2023-12-22 | 738,938 | 12,958 |
+| 2023-12-22 | 738,981 | 12,959 |
 ## Awards
 Max (Great Boss Battles): 6,978  (Ranked 55)  
-Sum: 11,798 (Ranked 87)  
+Sum: 11,800 (Ranked 87)  
 Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
@@ -327,7 +327,7 @@ Diff (max vs sum): -32
 | This game has Amazing Characters | 595 |
 | This game is Highly Recommended | 588 |
 | This game has Quickly Understood Controls | 585 |
-| This game is Extremely Fun | 575 |
+| This game is Extremely Fun | 577 |
 | This game has Unique Visuals | 568 |
 | This game has a Creative Community | 434 |
 | This game is Relaxing | 401 |
@@ -673,4 +673,4 @@ Diff (max vs sum): -32
 | 2023-12-19 | 4.82 | - | 6,965 | 12,212 |
 | 2023-12-20 | 4.82 | - | 6,973 | 12,223 |
 | 2023-12-21 | 4.82 | - | 6,978 | 11,797 |
-| 2023-12-22 | 4.82 | - | 6,978 | 11,798 |
+| 2023-12-22 | 4.82 | - | 6,978 | 11,800 |

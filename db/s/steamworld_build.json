@@ -4,7 +4,7 @@
   "ProductSlug": "steamworld-build-71ee6c",
   "Ranking_EOS_Progress": 430,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -616,9 +616,9 @@
       "ID": "ConductedTrade",
       "SetID": "4bd750m",
       "Name": "Conducted Trade",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "DiggingAHole",
@@ -815,8 +815,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-22T00:05:01.3614255+00:00",
+  "LastChanged_Achievements": "2023-12-22T01:49:49.7385879+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.7183942+00:00",
-  "LastUpdate_Ratings": "2023-12-22T00:03:12.7448849+00:00",
-  "LastUpdate_Achievements": "2023-12-22T00:05:01.3614406+00:00"
+  "LastUpdate_Ratings": "2023-12-22T01:48:02.2038508+00:00",
+  "LastUpdate_Achievements": "2023-12-22T01:49:49.738608+00:00"
 }

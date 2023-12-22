@@ -2,7 +2,7 @@
   "ID": "30de69013f3b41b0ba594a8ef3b693ba",
   "Name": "Isonzo",
   "ProductSlug": "isonzo",
-  "Ranking_Rating": 483,
+  "Ranking_Rating": 482,
   "Ranking_Popularity": 470,
   "Ranking_PopularitySum": 363,
   "Ranking_EOS_Progress": 177,
@@ -1021,9 +1021,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 9539,
+  "EOS_Progressed": 9540,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -9761,6 +9761,11 @@
       "Time": "2023-12-21T22:09:35.628539+00:00",
       "NumProgressed": 9539,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-22T01:53:37.0893367+00:00",
+      "NumProgressed": 9540,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -9788,7 +9793,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4197
+      "UsersEstimate": 4198
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -9820,7 +9825,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 3052
+      "UsersEstimate": 3053
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -9860,7 +9865,7 @@
       "Name": "Donatello",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1812
+      "UsersEstimate": 1813
     },
     {
       "ID": "ISONZO_ACH_DROP_AND_GIVE_ME_20",
@@ -9884,7 +9889,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 3052
+      "UsersEstimate": 3053
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -9900,7 +9905,7 @@
       "Name": "Insubordination",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1812
+      "UsersEstimate": 1813
     },
     {
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
@@ -10060,7 +10065,7 @@
       "Name": "The Italian Job",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1812
+      "UsersEstimate": 1813
     },
     {
       "ID": "ISONZO_ACH_THE_LION_OF_THE_ISONZO",
@@ -10068,7 +10073,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1335
+      "UsersEstimate": 1336
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -10116,7 +10121,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1812
+      "UsersEstimate": 1813
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -10131,7 +10136,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9539,
+      "Progressed": 9540,
       "Completed": 10
     }
   ],
@@ -10139,8 +10144,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-21T18:57:04.5501188+00:00",
-  "LastChanged_Achievements": "2023-12-22T00:08:47.5016752+00:00",
+  "LastChanged_Achievements": "2023-12-22T01:53:37.089336+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:27.7823002+00:00",
-  "LastUpdate_Ratings": "2023-12-21T23:57:16.9523107+00:00",
-  "LastUpdate_Achievements": "2023-12-22T00:08:47.5017345+00:00"
+  "LastUpdate_Ratings": "2023-12-22T01:42:23.194483+00:00",
+  "LastUpdate_Achievements": "2023-12-22T01:53:37.0893993+00:00"
 }

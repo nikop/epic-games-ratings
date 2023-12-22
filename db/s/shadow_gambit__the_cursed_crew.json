@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 121,
   "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -155,11 +155,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1242,
+  "EOS_Progressed": 1243,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.66,
+  "EOS_Completed_Percentage": 2.65,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -4215,6 +4215,11 @@
       "Time": "2023-12-21T21:04:45.6287535+00:00",
       "NumProgressed": 1242,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-12-22T01:49:47.7935014+00:00",
+      "NumProgressed": 1243,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4235,7 +4240,7 @@
       "Name": "A New Journey",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     },
     {
       "ID": "_03_FinishAct1",
@@ -4273,9 +4278,9 @@
       "ID": "_07_FinishAct3",
       "SetID": "8a1io5d",
       "Name": "All Good Things",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 211
+      "UsersEstimate": 224
     },
     {
       "ID": "_08_Completion_10",
@@ -4299,7 +4304,7 @@
       "Name": "Buccaneer",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "_11_Completion_40",
@@ -4379,7 +4384,7 @@
       "Name": "Fishy Fish",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -4434,7 +4439,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1242,
+      "Progressed": 1243,
       "Completed": 33
     }
   ],
@@ -4442,8 +4447,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-21T17:58:16.3881577+00:00",
-  "LastChanged_Achievements": "2023-12-22T00:04:58.898183+00:00",
+  "LastChanged_Achievements": "2023-12-22T01:49:47.793501+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:17.2609478+00:00",
-  "LastUpdate_Ratings": "2023-12-21T23:58:47.2770276+00:00",
-  "LastUpdate_Achievements": "2023-12-22T00:04:58.8982094+00:00"
+  "LastUpdate_Ratings": "2023-12-22T01:43:45.9093299+00:00",
+  "LastUpdate_Achievements": "2023-12-22T01:49:47.7935338+00:00"
 }

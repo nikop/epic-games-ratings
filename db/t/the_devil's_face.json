@@ -4,7 +4,7 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 593,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.18,
   "EosHistory": [
@@ -2717,8 +2717,8 @@
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-12-22T00:04:44.0534601+00:00",
+  "LastChanged_Achievements": "2023-12-22T01:49:34.860654+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:57:05.7189556+00:00",
-  "LastUpdate_Ratings": "2023-12-21T23:58:11.6524003+00:00",
-  "LastUpdate_Achievements": "2023-12-22T00:04:44.0534818+00:00"
+  "LastUpdate_Ratings": "2023-12-22T01:43:13.1231808+00:00",
+  "LastUpdate_Achievements": "2023-12-22T01:49:34.8606795+00:00"
 }

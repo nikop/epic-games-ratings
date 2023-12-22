@@ -1,7 +1,7 @@
 # Occupy Mars: The Game
 [Store](https://store.epicgames.com/en-US/p/occupy-mars)  
 [View Rawdata](../../db/o/occupy_mars__the_game.json)  
-Rating: 4.02 (Ranked 1,013)  
+Rating: 4.01 (Ranked 1,014)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -320,3 +320,4 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-06 | 4.05 | 0 | 0 |
 | 2023-12-14 | 4.03 | 0 | 0 |
 | 2023-12-19 | 4.02 | 0 | 0 |
+| 2023-12-22 | 4.01 | 0 | 0 |

@@ -1003,7 +1003,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 7339,
+  "EOS_Progressed": 7341,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 440,
   "EOS_NewCompleters": 0,
@@ -11843,6 +11843,11 @@
       "Time": "2023-12-21T23:04:31.1683541+00:00",
       "NumProgressed": 7339,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T01:48:53.2990246+00:00",
+      "NumProgressed": 7341,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -11854,7 +11859,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -12173,13 +12178,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7339,
+      "Progressed": 7341,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 6711,
+      "Progressed": 6713,
       "Completed": 113
     }
   ],
@@ -12187,8 +12192,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-21T00:02:47.1837703+00:00",
-  "LastChanged_Achievements": "2023-12-22T00:03:57.3962385+00:00",
+  "LastChanged_Achievements": "2023-12-22T01:48:53.2990242+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:41.8809727+00:00",
-  "LastUpdate_Ratings": "2023-12-21T23:57:17.2369756+00:00",
-  "LastUpdate_Achievements": "2023-12-22T00:03:57.3962976+00:00"
+  "LastUpdate_Ratings": "2023-12-22T01:42:23.4569063+00:00",
+  "LastUpdate_Achievements": "2023-12-22T01:48:53.2991006+00:00"
 }

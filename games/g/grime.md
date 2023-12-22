@@ -33,6 +33,7 @@ Number of Ratings: 46  (23.09.2022)
 | Inevitable | 0.20% | ~327 |
 | All-Seeing | 0.20% | ~327 |
 | Breathsmith | 0.20% | ~327 |
+| Unwrap the Gift | 0.20% | ~327 |
 | Dream | 0.20% | ~327 |
 | Spiral Heart | 0.10% | ~161 |
 | Bloodhunter | 0.10% | ~164 |
@@ -42,7 +43,6 @@ Number of Ratings: 46  (23.09.2022)
 | Breath | 0.10% | ~164 |
 | Kinship | 0.10% | ~164 |
 | Weakness | 0.10% | ~164 |
-| Unwrap the Gift | 0.10% | ~164 |
 | Passage | 0.10% | ~164 |
 | Generous | 0.10% | ~164 |
 | Kin | 0.10% | ~163 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~163 |
 | Intensify | 0.10% | ~163 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 163,732 (Ranked 80)  
+Progressed: 163,744 (Ranked 80)  
 Completed: 380 (0.23%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 380 (0.23%) (Ranked 262)
 | 2023-12-19 | 163,376 | 355 |
 | 2023-12-20 | 163,552 | 366 |
 | 2023-12-21 | 163,723 | 380 |
-| 2023-12-22 | 163,732 | 380 |
+| 2023-12-22 | 163,744 | 380 |
 ## Awards
 Max (Unique Visuals): 58  (Ranked 424)  
 Sum: 414 (Ranked 343)  

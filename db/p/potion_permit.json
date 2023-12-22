@@ -379,9 +379,9 @@
       "Count": 69
     }
   ],
-  "EOS_Progressed": 1752,
+  "EOS_Progressed": 1753,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -2834,6 +2834,11 @@
       "Time": "2023-12-21T23:04:29.4986701+00:00",
       "NumProgressed": 1752,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-22T01:48:52.0757862+00:00",
+      "NumProgressed": 1753,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 38,
@@ -2845,7 +2850,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1717
+      "UsersEstimate": 1718
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -2893,7 +2898,7 @@
       "Name": "K.O.!",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "ACHIEVEMENTS_08",
@@ -2901,7 +2906,7 @@
       "Name": "The First Step",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1542
+      "UsersEstimate": 1543
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -2933,7 +2938,7 @@
       "Name": "Amateur Chef",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "ACHIEVEMENTS_13",
@@ -2957,7 +2962,7 @@
       "Name": "Friendly",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "ACHIEVEMENTS_16",
@@ -2989,7 +2994,7 @@
       "Name": "Spark of Love",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "ACHIEVEMENTS_20",
@@ -3083,9 +3088,9 @@
       "ID": "ACHIEVEMENTS_31",
       "SetID": "d4o538a",
       "Name": "Ablutomaniac",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 210
     },
     {
       "ID": "ACHIEVEMENTS_32",
@@ -3148,7 +3153,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1752,
+      "Progressed": 1753,
       "Completed": 10
     }
   ],
@@ -3156,8 +3161,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-12-02T14:58:43.9151067+00:00",
-  "LastChanged_Achievements": "2023-12-22T00:03:56.0722546+00:00",
+  "LastChanged_Achievements": "2023-12-22T01:48:52.0757857+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:47.0899932+00:00",
-  "LastUpdate_Ratings": "2023-12-21T23:57:56.6586464+00:00",
-  "LastUpdate_Achievements": "2023-12-22T00:03:56.0722919+00:00"
+  "LastUpdate_Ratings": "2023-12-22T01:42:59.1531346+00:00",
+  "LastUpdate_Achievements": "2023-12-22T01:48:52.0758301+00:00"
 }

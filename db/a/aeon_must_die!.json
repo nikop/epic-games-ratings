@@ -3,8 +3,8 @@
   "Name": "Aeon Must Die!",
   "ProductSlug": "aeon-must-die",
   "Ranking_EOS_Progress": 213,
-  "Ranking_EOS_Completed": 3771,
-  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_Completed": 3773,
+  "Ranking_EOS_NewPlayers": 327,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-10-27T21:59:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3609,
+  "EOS_Progressed": 3610,
   "EOS_Completed": -28,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": -0.78,
   "EosHistory": [
@@ -759,6 +759,11 @@
       "Time": "2023-12-21T16:09:07.8058552+00:00",
       "NumProgressed": 3609,
       "NumCompleted": -28
+    },
+    {
+      "Time": "2023-12-22T01:53:03.97661+00:00",
+      "NumProgressed": 3610,
+      "NumCompleted": -28
     }
   ],
   "TotalAchievements": 35,
@@ -906,7 +911,7 @@
       "Name": "Like Swatting Flies",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "26",
@@ -1049,7 +1054,7 @@
     {
       "ID": "5cfan5f",
       "IsBase": true,
-      "Progressed": 3609,
+      "Progressed": 3610,
       "Completed": -28
     }
   ],
@@ -1057,8 +1062,8 @@
   "FirstSeenRating": "2023-03-31T05:57:47.6282552+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:12.6590754+00:00",
   "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
-  "LastChanged_Achievements": "2023-12-22T00:07:19.8971056+00:00",
+  "LastChanged_Achievements": "2023-12-22T01:53:03.9766095+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:09.6700788+00:00",
-  "LastUpdate_Ratings": "2023-12-22T00:02:37.4069699+00:00",
-  "LastUpdate_Achievements": "2023-12-22T00:07:19.8971308+00:00"
+  "LastUpdate_Ratings": "2023-12-22T01:45:40.6908292+00:00",
+  "LastUpdate_Achievements": "2023-12-22T01:53:03.9766518+00:00"
 }

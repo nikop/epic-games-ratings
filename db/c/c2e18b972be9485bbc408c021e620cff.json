@@ -4,10 +4,10 @@
   "ProductSlug": "train-sim-world-4",
   "Ranking_Rating": 837,
   "Ranking_Popularity": 373,
-  "Ranking_PopularitySum": 378,
-  "Ranking_EOS_Progress": 813,
+  "Ranking_PopularitySum": 377,
+  "Ranking_EOS_Progress": 814,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 563,
+  "Ranking_EOS_NewPlayers": 564,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-26T17:00:00+00:00",
@@ -967,10 +967,16 @@
       "Rating": 4.32,
       "NumberOfAwards": 281,
       "NumberOfAwardsMax": 98
+    },
+    {
+      "Time": "2023-12-22T01:44:45.376618+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 283,
+      "NumberOfAwardsMax": 98
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 281,
+  "NumberOfAwards": 283,
   "NumberOfAwardsMax": 98,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -990,7 +996,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 43
+      "Count": 44
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1008,7 +1014,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1037,9 +1043,9 @@
   "FirstSeen": "2023-09-26T18:02:09.8849688+00:00",
   "FirstSeenRating": "2023-09-28T19:59:46.8251254+00:00",
   "FirstSeenAchievements": "2023-08-15T22:07:16.7768201+00:00",
-  "LastChanged": "2023-12-21T18:59:42.9332674+00:00",
-  "LastChanged_Achievements": "2023-12-22T00:06:43.2598257+00:00",
+  "LastChanged": "2023-12-22T01:44:45.3766179+00:00",
+  "LastChanged_Achievements": "2023-12-22T01:51:21.6522915+00:00",
   "LastUpdate_AppInfo": "2023-12-20T02:56:49.9723939+00:00",
-  "LastUpdate_Ratings": "2023-12-21T23:59:53.1919531+00:00",
-  "LastUpdate_Achievements": "2023-12-22T00:06:43.2598308+00:00"
+  "LastUpdate_Ratings": "2023-12-22T01:44:45.3766185+00:00",
+  "LastUpdate_Achievements": "2023-12-22T01:51:21.6522943+00:00"
 }

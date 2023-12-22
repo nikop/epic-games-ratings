@@ -2,12 +2,12 @@
   "ID": "de554cff12704db4a900032bbd194d7e",
   "Name": "EVE Online",
   "ProductSlug": "eve-online",
-  "Ranking_Rating": 913,
+  "Ranking_Rating": 914,
   "Ranking_Popularity": 144,
   "Ranking_PopularitySum": 186,
-  "Ranking_EOS_Progress": 813,
+  "Ranking_EOS_Progress": 814,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 563,
+  "Ranking_EOS_NewPlayers": 564,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-09-23T13:00:00+00:00",
@@ -3232,10 +3232,16 @@
       "Rating": 4.23,
       "NumberOfAwards": 2758,
       "NumberOfAwardsMax": 1163
+    },
+    {
+      "Time": "2023-12-22T01:44:01.9274668+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 2759,
+      "NumberOfAwardsMax": 1163
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2758,
+  "NumberOfAwards": 2759,
   "NumberOfAwardsMax": 1163,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3273,7 +3279,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 206
+      "Count": 207
     },
     {
       "Text": "This game has Competitive Players",
@@ -3317,8 +3323,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:38.4001765+00:00",
-  "LastChanged": "2023-12-20T22:58:20.3526478+00:00",
+  "LastChanged": "2023-12-22T01:44:01.9274667+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:43.1956892+00:00",
-  "LastUpdate_Ratings": "2023-12-21T23:59:05.0799834+00:00",
-  "LastUpdate_Achievements": "2023-12-22T00:08:48.0386046+00:00"
+  "LastUpdate_Ratings": "2023-12-22T01:44:01.9274672+00:00",
+  "LastUpdate_Achievements": "2023-12-22T01:53:37.3652241+00:00"
 }

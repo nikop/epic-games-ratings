@@ -14,27 +14,27 @@ Rating: 4.64 (Ranked 338)
 | Time Flies | 23.00% | ~243 |
 | No, Thanks! | 23.00% | ~243 |
 | The Prince in Heels | 23.00% | ~243 |
-| Honest Mistake | 23.00% | ~243 |
 | Immaculate Aim | 23.00% | ~243 |
 | The Steel Shadow | 22.00% | ~233 |
 | The Harder They Fall | 22.00% | ~233 |
 | Breaking Down Barriers | 22.00% | ~233 |
+| Honest Mistake | 22.00% | ~233 |
 | Fast Learner | 22.00% | ~233 |
 | The Wicked Twins | 21.00% | ~222 |
-| Right On Time | 20.00% | ~211 |
-| Like Clockwork | 20.00% | ~211 |
-| The Betrayer | 20.00% | ~211 |
-| Golem Chaser | 20.00% | ~211 |
+| Right On Time | 20.00% | ~212 |
+| Like Clockwork | 20.00% | ~212 |
+| The Betrayer | 20.00% | ~212 |
+| Golem Chaser | 20.00% | ~212 |
 | Check Your Pulse | 19.00% | ~201 |
-| The Man Who Shattered Time | 18.00% | ~190 |
 | The Loose Cannon | 18.00% | ~190 |
 | The Family Fortune | 18.00% | ~190 |
 | Street Style | 17.00% | ~180 |
+| The Man Who Shattered Time | 17.00% | ~180 |
 | Whiz Kid | 14.00% | ~148 |
 | Good Neighbor | 14.00% | ~148 |
-| Treasure Trove | 13.00% | ~137 |
-| Family Memories | 13.00% | ~137 |
-| Cartographer | 13.00% | ~137 |
+| Treasure Trove | 13.00% | ~138 |
+| Family Memories | 13.00% | ~138 |
+| Cartographer | 13.00% | ~138 |
 | Chaincrawler Explorer | 12.00% | ~127 |
 | Ask Questions Later | 12.00% | ~127 |
 | Sump Explorer | 11.00% | ~116 |
@@ -59,7 +59,7 @@ Rating: 4.64 (Ranked 338)
 | Raw Talent | 0.70% | ~7 |
 | Going to Live Forever | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,057 (Ranked 275)  
+Progressed: 1,058 (Ranked 275)  
 Completed: 6 (0.57%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,6 +211,7 @@ Completed: 6 (0.57%) (Ranked 201)
 | 2023-12-19 | 1,037 | 6 |
 | 2023-12-20 | 1,046 | 6 |
 | 2023-12-21 | 1,057 | 6 |
+| 2023-12-22 | 1,058 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

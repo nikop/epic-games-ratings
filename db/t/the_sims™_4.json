@@ -3,11 +3,11 @@
   "Name": "The Sims\u2122 4",
   "ProductSlug": "the-sims-4",
   "Ranking_Rating": 353,
-  "Ranking_Popularity": 106,
+  "Ranking_Popularity": 105,
   "Ranking_PopularitySum": 81,
-  "Ranking_EOS_Progress": 813,
+  "Ranking_EOS_Progress": 814,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 563,
+  "Ranking_EOS_NewPlayers": 564,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-02-02T18:00:00+00:00",
@@ -10853,11 +10853,17 @@
       "Rating": 4.63,
       "NumberOfAwards": 12747,
       "NumberOfAwardsMax": 2438
+    },
+    {
+      "Time": "2023-12-22T01:47:40.0508358+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 12796,
+      "NumberOfAwardsMax": 2469
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12747,
-  "NumberOfAwardsMax": 2438,
+  "NumberOfAwards": 12796,
+  "NumberOfAwardsMax": 2469,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -10870,7 +10876,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 2438
+      "Count": 2469
     },
     {
       "Text": "This game has Diverse Characters",
@@ -10894,7 +10900,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1105
+      "Count": 1123
     },
     {
       "Text": "This game is Extremely Fun",
@@ -10947,9 +10953,9 @@
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
   "FirstSeenAchievements": "2023-07-31T02:02:04.5176736+00:00",
-  "LastChanged": "2023-12-22T00:02:47.9684962+00:00",
-  "LastChanged_Achievements": "2023-12-22T00:03:34.7524172+00:00",
+  "LastChanged": "2023-12-22T01:47:40.0508356+00:00",
+  "LastChanged_Achievements": "2023-12-22T01:48:32.6629694+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:56:57.5473743+00:00",
-  "LastUpdate_Ratings": "2023-12-22T00:02:47.9684969+00:00",
-  "LastUpdate_Achievements": "2023-12-22T00:03:34.7524244+00:00"
+  "LastUpdate_Ratings": "2023-12-22T01:47:40.0508362+00:00",
+  "LastUpdate_Achievements": "2023-12-22T01:48:32.6629737+00:00"
 }

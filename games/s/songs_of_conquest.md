@@ -6,13 +6,13 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 40.00% | ~252 |
-| Double Kill | 33.00% | ~208 |
+| Adept | 41.00% | ~259 |
+| Double Kill | 33.00% | ~209 |
 | Critical Hit | 19.00% | ~120 |
-| Veteran | 18.00% | ~113 |
+| Veteran | 18.00% | ~114 |
 | Dressed For Success | 12.00% | ~76 |
-| Humiliation | 8.00% | ~50 |
-| Veni, Vidi, Vici | 8.00% | ~50 |
+| Humiliation | 8.00% | ~51 |
+| Veni, Vidi, Vici | 8.00% | ~51 |
 | Multi Kill | 7.00% | ~44 |
 | Sorcerous Spree | 7.00% | ~44 |
 | Landlord Extraordinaire | 6.00% | ~38 |
@@ -30,9 +30,9 @@ Number of Ratings: 292  (23.09.2022)
 | Versatile Wielder | 1.00% | ~6 |
 | Infernal Influence | 1.00% | ~6 |
 | Together For Her | 1.00% | ~6 |
-| From the Ashes | 1.00% | ~6 |
 | Such A Fungi | 1.00% | ~6 |
-| Grand Master | 1.00% | ~6 |
+| From the Ashes | 0.90% | ~6 |
+| Grand Master | 0.90% | ~6 |
 | Get Over Here! | 0.60% | ~4 |
 | Death To Diplomacy | 0.50% | ~3 |
 | Unlimited Power! | 0.50% | ~3 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 630 (Ranked 313)  
+Progressed: 632 (Ranked 313)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,10 +103,11 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-19 | 575 | 0 |
 | 2023-12-20 | 600 | 0 |
 | 2023-12-21 | 630 | 0 |
+| 2023-12-22 | 632 | 0 |
 ## Awards
-Max (Quickly Understood Controls): 27  (Ranked 524)  
+Max (Quickly Understood Controls): 27  (Ranked 525)  
 Sum: 194 (Ranked 412)  
-Diff (max vs sum): 112  
+Diff (max vs sum): 113  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 27 |

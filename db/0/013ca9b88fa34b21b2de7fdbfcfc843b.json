@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -235,9 +235,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8579,
+  "EOS_Progressed": 8580,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8860,6 +8860,11 @@
       "Time": "2023-12-22T00:09:54.7534819+00:00",
       "NumProgressed": 8579,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-22T01:54:38.4276762+00:00",
+      "NumProgressed": 8580,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -8902,9 +8907,9 @@
       "ID": "CHAPTER_5_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Clear the Air",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 51
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -9094,9 +9099,9 @@
       "ID": "PRODUCE_HYBRIDFLOWER",
       "SetID": "9eia0f5",
       "Name": "Botanical Breakthrough",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 34
     },
     {
       "ID": "SPEND_FIRSTYEAR",
@@ -9215,13 +9220,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8579,
+      "Progressed": 8580,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1196,
+      "Progressed": 1197,
       "Completed": 1050
     }
   ],
@@ -9229,8 +9234,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-19T16:03:30.9665101+00:00",
-  "LastChanged_Achievements": "2023-12-22T00:09:54.7534815+00:00",
+  "LastChanged_Achievements": "2023-12-22T01:54:38.4276759+00:00",
   "LastUpdate_AppInfo": "2023-12-15T11:57:06.5610357+00:00",
-  "LastUpdate_Ratings": "2023-12-22T00:03:12.8813398+00:00",
-  "LastUpdate_Achievements": "2023-12-22T00:09:54.7535362+00:00"
+  "LastUpdate_Ratings": "2023-12-22T01:48:02.3417025+00:00",
+  "LastUpdate_Achievements": "2023-12-22T01:54:38.4277349+00:00"
 }

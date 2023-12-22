@@ -8,14 +8,14 @@
 | Treasure Hunting | 36.00% | ~42 |
 | Friend! | 30.00% | ~35 |
 | Shine! | 30.00% | ~35 |
-| Uncut Gem | 28.00% | ~32 |
+| Uncut Gem | 27.00% | ~32 |
 | Clear as Water | 25.00% | ~29 |
 | Setting Off | 24.00% | ~28 |
 | Card Collector | 22.00% | ~26 |
 | Riddlesolver | 20.00% | ~23 |
 | Dungeon Mastery | 18.00% | ~21 |
-| The Steed | 9.00% | ~10 |
-| A Strange Proposition | 9.00% | ~10 |
+| The Steed | 9.00% | ~11 |
+| A Strange Proposition | 9.00% | ~11 |
 | Card Completionist | 8.00% | ~9 |
 | Braving Miasma | 7.00% | ~8 |
 | The Bodyguard | 6.00% | ~7 |
@@ -26,11 +26,11 @@
 | Traveler Mastery | 4.00% | ~5 |
 | Warden Mastery | 4.00% | ~5 |
 | The Plot Thickens | 4.00% | ~5 |
-| Ancient Nemesis | 3.00% | ~3 |
-| Raider Mastery | 3.00% | ~3 |
-| The False Prophet | 3.00% | ~3 |
-| Sealed Once Again | 3.00% | ~3 |
-| ACHOO! | 3.00% | ~3 |
+| Ancient Nemesis | 3.00% | ~4 |
+| Raider Mastery | 3.00% | ~4 |
+| The False Prophet | 3.00% | ~4 |
+| Sealed Once Again | 3.00% | ~4 |
+| ACHOO! | 3.00% | ~4 |
 | Best Pupil | 2.00% | ~2 |
 | FOR JUSTICE! | 2.00% | ~2 |
 | Journey’s End | 2.00% | ~2 |
@@ -45,7 +45,7 @@
 | Gladiator | 0.90% | ~1 |
 | True Drafter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 116 (Ranked 455)  
+Progressed: 117 (Ranked 455)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-17 | 108 | 0 |
 | 2023-12-20 | 109 | 0 |
 | 2023-12-21 | 115 | 0 |
-| 2023-12-22 | 116 | 0 |
+| 2023-12-22 | 117 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

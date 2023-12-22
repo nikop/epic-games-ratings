@@ -9916,10 +9916,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20903,
       "NumberOfAwardsMax": 7823
+    },
+    {
+      "Time": "2023-12-22T01:45:18.7804754+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20906,
+      "NumberOfAwardsMax": 7823
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20903,
+  "NumberOfAwards": 20906,
   "NumberOfAwardsMax": 7823,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9993,12 +9999,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 1033
+      "Count": 1036
     }
   ],
-  "EOS_Progressed": 128991,
+  "EOS_Progressed": 129006,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1881,
+  "EOS_NewPlayers": 1878,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36176,6 +36182,11 @@
       "Time": "2023-12-22T00:09:05.9451123+00:00",
       "NumProgressed": 128991,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-22T01:53:53.6072128+00:00",
+      "NumProgressed": 129006,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36185,9 +36196,9 @@
       "ID": "affinity_meltdown_first_time",
       "SetID": "64l4lke",
       "Name": "Don\u0027t Make Me Turn This Coach Around",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2580
+      "UsersEstimate": 3870
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -36705,9 +36716,9 @@
       "ID": "altar_of_hope_memory_equip_all_crusader",
       "SetID": "d3bcpc8",
       "Name": "Battle Hardened",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 12
     },
     {
       "ID": "altar_of_hope_memory_equip_all_duelist",
@@ -36723,7 +36734,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 347
+      "UsersEstimate": 349
     },
     {
       "ID": "combat_kill_collector",
@@ -36731,7 +36742,7 @@
       "Name": "This guy... again?",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -36747,7 +36758,7 @@
       "Name": "No Mercy",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "combat_land_riposte_dmg_threshold_duelist",
@@ -36771,7 +36782,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -36779,7 +36790,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "quest_complete_crusader",
@@ -36818,21 +36829,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 128991,
+      "Progressed": 129006,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 3860,
-      "Completed": 805
+      "Progressed": 3875,
+      "Completed": 806
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-21T21:00:06.4101591+00:00",
-  "LastChanged_Achievements": "2023-12-22T00:09:05.945112+00:00",
+  "LastChanged": "2023-12-22T01:45:18.7804753+00:00",
+  "LastChanged_Achievements": "2023-12-22T01:53:53.6072122+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-22T00:00:32.2402441+00:00",
-  "LastUpdate_Achievements": "2023-12-22T00:09:05.9452801+00:00"
+  "LastUpdate_Ratings": "2023-12-22T01:45:18.7804759+00:00",
+  "LastUpdate_Achievements": "2023-12-22T01:53:53.6073686+00:00"
 }

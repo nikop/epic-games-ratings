@@ -997,9 +997,9 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 105
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -1172,8 +1172,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-22T00:03:31.8647886+00:00",
+  "LastChanged_Achievements": "2023-12-22T01:48:30.3846257+00:00",
   "LastUpdate_AppInfo": "2023-12-19T20:57:15.8211494+00:00",
-  "LastUpdate_Ratings": "2023-12-21T23:57:23.8250572+00:00",
-  "LastUpdate_Achievements": "2023-12-22T00:03:31.8648285+00:00"
+  "LastUpdate_Ratings": "2023-12-22T01:42:29.4306689+00:00",
+  "LastUpdate_Achievements": "2023-12-22T01:48:30.3846611+00:00"
 }

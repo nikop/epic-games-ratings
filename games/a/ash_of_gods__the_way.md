@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 88.00% | ~38 |
-| Suicide squad | 53.00% | ~23 |
-| First blood | 33.00% | ~14 |
+| First success | 86.00% | ~38 |
+| Suicide squad | 52.00% | ~23 |
+| First blood | 32.00% | ~14 |
 | Train hard, fight easy | 30.00% | ~13 |
 | Under cover | 30.00% | ~13 |
-| All for one! | 26.00% | ~11 |
-| Royal blessing | 26.00% | ~11 |
-| A hidden snake | 26.00% | ~11 |
-| Blood and sand | 26.00% | ~11 |
-| Vene, vidi, vici | 21.00% | ~9 |
-| Crimson rivers | 19.00% | ~8 |
-| Power of Inquisition | 19.00% | ~8 |
-| Surpass the teacher | 19.00% | ~8 |
-| Help of the Gell | 19.00% | ~8 |
-| She-Wolf | 19.00% | ~8 |
+| All for one! | 25.00% | ~11 |
+| Royal blessing | 25.00% | ~11 |
+| A hidden snake | 25.00% | ~11 |
+| Blood and sand | 25.00% | ~11 |
+| Vene, vidi, vici | 20.00% | ~9 |
+| Crimson rivers | 18.00% | ~8 |
+| Power of Inquisition | 18.00% | ~8 |
+| Surpass the teacher | 18.00% | ~8 |
+| Help of the Gell | 18.00% | ~8 |
+| She-Wolf | 18.00% | ~8 |
 | Berkanan Borgia | 16.00% | ~7 |
 | Trial by cold | 16.00% | ~7 |
 | The champion of the arena | 14.00% | ~6 |
-| Stronger than Gellian steel | 12.00% | ~5 |
-| Rage | 12.00% | ~5 |
-| Protect the Healer! | 12.00% | ~5 |
+| Stronger than Gellian steel | 11.00% | ~5 |
+| Rage | 11.00% | ~5 |
+| Protect the Healer! | 11.00% | ~5 |
 | For the greater good | 9.00% | ~4 |
 | Collector | 9.00% | ~4 |
 | Overplay the rogue | 9.00% | ~4 |
@@ -54,7 +54,7 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43 (Ranked 544)  
+Progressed: 44 (Ranked 544)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,6 +82,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-15 | 37 | 0 |
 | 2023-12-17 | 40 | 0 |
 | 2023-12-21 | 43 | 0 |
+| 2023-12-22 | 44 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

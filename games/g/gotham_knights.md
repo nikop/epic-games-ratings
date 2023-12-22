@@ -5,46 +5,46 @@ Rating: 4.18 (Ranked 948)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~39,504 |
-| Har, Har, Har, Very Funny | 34.00% | ~26,863 |
-| Loose Ends | 33.00% | ~26,073 |
-| To the Victor Go the Spoils | 28.00% | ~22,122 |
-| Knighthood | 27.00% | ~21,332 |
-| Get ReQ'd | 25.00% | ~19,752 |
-| Whispered Words | 24.00% | ~18,962 |
-| The Batman Family | 22.00% | ~17,382 |
-| Lock and Key | 22.00% | ~17,382 |
-| Something in the Clay | 20.00% | ~15,802 |
-| Quartzer Life Crisis | 20.00% | ~15,802 |
-| Working Hard or Harley Working? | 20.00% | ~15,802 |
-| Unstoppable Force | 20.00% | ~15,802 |
-| Bad Apples in Every Orchard | 20.00% | ~15,802 |
-| Snow Problem | 19.00% | ~15,012 |
-| The Show Mud Go On | 18.00% | ~14,221 |
-| From Inside Gotham's Walls | 17.00% | ~13,431 |
-| Protector of Gotham | 16.00% | ~12,641 |
-| Universal Health Scare | 16.00% | ~12,641 |
-| In Your Element | 15.00% | ~11,851 |
-| Voiceless | 15.00% | ~11,851 |
-| Rock and a Hard Place | 14.00% | ~11,061 |
-| Cooldown | 14.00% | ~11,061 |
-| Seeking Asylum | 14.00% | ~11,061 |
-| Not On My Watch | 13.00% | ~10,271 |
-| Shock Til They Drop | 13.00% | ~10,271 |
-| End of an Era | 12.00% | ~9,481 |
-| Bulldozed | 12.00% | ~9,481 |
-| Gotham Knight | 12.00% | ~9,481 |
-| Gotham City Confidential | 11.00% | ~8,691 |
-| Drone You Out | 10.00% | ~7,901 |
-| Out of Their League | 9.00% | ~7,111 |
-| Solid Alibi | 9.00% | ~7,111 |
+| First Step Into the Knight | 50.00% | ~39,508 |
+| Har, Har, Har, Very Funny | 34.00% | ~26,866 |
+| Loose Ends | 33.00% | ~26,076 |
+| To the Victor Go the Spoils | 28.00% | ~22,125 |
+| Knighthood | 27.00% | ~21,335 |
+| Get ReQ'd | 25.00% | ~19,754 |
+| Whispered Words | 24.00% | ~18,964 |
+| The Batman Family | 22.00% | ~17,384 |
+| Lock and Key | 22.00% | ~17,384 |
+| Something in the Clay | 20.00% | ~15,803 |
+| Quartzer Life Crisis | 20.00% | ~15,803 |
+| Working Hard or Harley Working? | 20.00% | ~15,803 |
+| Unstoppable Force | 20.00% | ~15,803 |
+| Bad Apples in Every Orchard | 20.00% | ~15,803 |
+| Snow Problem | 19.00% | ~15,013 |
+| The Show Mud Go On | 18.00% | ~14,223 |
+| From Inside Gotham's Walls | 17.00% | ~13,433 |
+| Protector of Gotham | 16.00% | ~12,643 |
+| Universal Health Scare | 16.00% | ~12,643 |
+| In Your Element | 15.00% | ~11,853 |
+| Voiceless | 15.00% | ~11,853 |
+| Rock and a Hard Place | 14.00% | ~11,062 |
+| Cooldown | 14.00% | ~11,062 |
+| Seeking Asylum | 14.00% | ~11,062 |
+| Not On My Watch | 13.00% | ~10,272 |
+| Shock Til They Drop | 13.00% | ~10,272 |
+| End of an Era | 12.00% | ~9,482 |
+| Bulldozed | 12.00% | ~9,482 |
+| Gotham Knight | 12.00% | ~9,482 |
+| Gotham City Confidential | 11.00% | ~8,692 |
+| Drone You Out | 10.00% | ~7,902 |
+| Out of Their League | 9.00% | ~7,112 |
+| Solid Alibi | 9.00% | ~7,112 |
 | Fusion Expert | 7.00% | ~5,531 |
-| Family Meeting | 6.00% | ~4,740 |
-| A Worthy Successor | 6.00% | ~4,740 |
-| Expert Crime Fighter | 5.00% | ~3,950 |
-| Dressed to Impress | 4.00% | ~3,160 |
-| A Momentum Occasion | 3.00% | ~2,370 |
-| Bat Out of Hell | 3.00% | ~2,370 |
+| Family Meeting | 6.00% | ~4,741 |
+| A Worthy Successor | 6.00% | ~4,741 |
+| Expert Crime Fighter | 5.00% | ~3,951 |
+| Dressed to Impress | 4.00% | ~3,161 |
+| A Momentum Occasion | 3.00% | ~2,371 |
+| Bat Out of Hell | 3.00% | ~2,371 |
 | Practice Makes Perfect | 2.00% | ~1,580 |
 | He'd Be So Proud of You | 2.00% | ~1,580 |
 | Talonted | 1.00% | ~790 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 948)
 | Element of Surprise | 0.20% | ~99 |
 | It's Nice to Be Wanted | 0.20% | ~99 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,008 (Ranked 102)  
+Progressed: 79,017 (Ranked 102)  
 Completed: 126 (0.16%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 126 (0.16%) (Ranked 280)
 | 2023-12-19 | 78,757 | 126 |
 | 2023-12-20 | 78,864 | 126 |
 | 2023-12-21 | 79,000 | 126 |
-| 2023-12-22 | 79,008 | 126 |
+| 2023-12-22 | 79,017 | 126 |
 ## Awards
 Max (Great Boss Battles): 3,036  (Ranked 99)  
 Sum: 5,195 (Ranked 142)  

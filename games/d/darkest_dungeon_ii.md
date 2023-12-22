@@ -6,13 +6,14 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 9.00% | ~347 |
+| Malpractice Assurance | 9.00% | ~349 |
 | Lost and Found | 6.00% | ~232 |
 | This Belongs in a Museum | 4.00% | ~5,160 |
 | Autodidact | 4.00% | ~5,160 |
-| This guy... again? | 4.00% | ~154 |
-| Ploughshares to Swords | 4.00% | ~154 |
-| Bloody Graduation | 4.00% | ~154 |
+| This guy... again? | 4.00% | ~155 |
+| Ploughshares to Swords | 4.00% | ~155 |
+| Bloody Graduation | 4.00% | ~155 |
+| Don't Make Me Turn This Coach Around | 3.00% | ~3,870 |
 | Serenity Now! | 3.00% | ~3,870 |
 | Not Today! | 3.00% | ~3,870 |
 | Creep and Sleep | 3.00% | ~3,870 |
@@ -24,7 +25,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 3.00% | ~3,870 |
 | FNG | 3.00% | ~3,870 |
 | Friends 'Til the End | 3.00% | ~116 |
-| Don't Make Me Turn This Coach Around | 2.00% | ~2,580 |
 | It Rings a Bell | 2.00% | ~2,580 |
 | Resurrection | 2.00% | ~2,580 |
 | Unleash Hell | 2.00% | ~2,580 |
@@ -68,15 +68,15 @@ Number of Ratings: 7,767  (23.09.2022)
 | Clearing the Ledger | 0.50% | ~645 |
 | Triage | 0.50% | ~645 |
 | Hat Trick | 0.40% | ~516 |
-| No Mercy | 0.40% | ~15 |
+| No Mercy | 0.40% | ~16 |
 | A Life Well Lived | 0.30% | ~387 |
 | The World As It Was | 0.30% | ~387 |
 | Bacon Bits | 0.30% | ~387 |
 | Eidetic | 0.30% | ~387 |
+| Battle Hardened | 0.30% | ~12 |
 | Maître De La Lame | 0.30% | ~12 |
 | On This Long Road, We Found Redemption | 0.30% | ~12 |
 | Tears in the Rain | 0.20% | ~258 |
-| Battle Hardened | 0.20% | ~8 |
 | Loop Year | 0.10% | ~129 |
 | Circle of Life | 0.10% | ~129 |
 | No Gravestone Left Unturned | 0.10% | ~129 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,991 (Ranked 86)  
+Progressed: 129,006 (Ranked 86)  
 Completed: 3 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,10 +322,10 @@ Completed: 3 (0.00%) (Ranked 384)
 | 2023-12-19 | 128,605 | 3 |
 | 2023-12-20 | 128,785 | 3 |
 | 2023-12-21 | 128,979 | 3 |
-| 2023-12-22 | 128,991 | 3 |
+| 2023-12-22 | 129,006 | 3 |
 ## Awards
 Max (Character Customization): 7,823  (Ranked 50)  
-Sum: 20,903 (Ranked 58)  
+Sum: 20,906 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -338,7 +338,7 @@ Diff (max vs sum): -8
 | This game has Unique Visuals | 1,401 |
 | This game has Amazing Storytelling | 1,398 |
 | This game has Quickly Understood Controls | 1,367 |
-| This game has a Creative Community | 1,033 |
+| This game has a Creative Community | 1,036 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
 ## Ratings History
@@ -672,3 +672,4 @@ Diff (max vs sum): -8
 | 2023-12-19 | 4.68 | - | 7,795 | 20,806 |
 | 2023-12-20 | 4.68 | - | 7,805 | 20,840 |
 | 2023-12-21 | 4.68 | - | 7,823 | 20,903 |
+| 2023-12-22 | 4.68 | - | 7,823 | 20,906 |
