@@ -6,14 +6,15 @@ Number of Ratings: 67  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Mint I | 3.00% | ~4 |
 | Soul Cache | 3.00% | ~4 |
-| Mint I | 2.00% | ~2 |
+| Close the Rift | 0.90% | ~1 |
+| Mammon | 0.90% | ~1 |
 | A Bullet for All Seasons | 0.00% | ~0 |
 | Are You Not Entertained? | 0.00% | ~0 |
 | Astarte | 0.00% | ~0 |
 | Belial | 0.00% | ~0 |
 | Blademaster | 0.00% | ~0 |
-| Close the Rift | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
 | Dagon | 0.00% | ~0 |
 | Demolition Derby | 0.00% | ~0 |
@@ -22,7 +23,6 @@ Number of Ratings: 67  (23.09.2022)
 | Good Deeds | 0.00% | ~0 |
 | Hell's Forge | 0.00% | ~0 |
 | Infested | 0.00% | ~0 |
-| Mammon | 0.00% | ~0 |
 | Master of Strife | 0.00% | ~0 |
 | Master of War | 0.00% | ~0 |
 | Mint II | 0.00% | ~0 |
@@ -48,8 +48,8 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-21 | 113 | 0 |
 | 2023-12-22 | 117 | 0 |
 ## Awards
-Max (Great Boss Battles): 45  (Ranked 456)  
-Sum: 45 (Ranked 502)  
+Max (Great Boss Battles): 45  (Ranked 455)  
+Sum: 45 (Ranked 501)  
 Diff (max vs sum): -46  
 | Award | Count |
 | ----- | ----- |

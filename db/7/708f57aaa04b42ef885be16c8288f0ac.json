@@ -3,12 +3,12 @@
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
   "Ranking_Rating": 162,
-  "Ranking_Popularity": 541,
-  "Ranking_PopularitySum": 546,
+  "Ranking_Popularity": 540,
+  "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 276,
   "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -287,9 +287,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 10927,
+  "EOS_Progressed": 10929,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 2418,
+  "EOS_NewPlayers": 2403,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -7427,6 +7427,11 @@
       "Time": "2023-12-22T02:31:10.7447152+00:00",
       "NumProgressed": 10927,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-12-22T03:10:12.0908812+00:00",
+      "NumProgressed": 10929,
+      "NumCompleted": 19
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -7447,7 +7452,7 @@
       "Name": "Baby Steps",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 3606
+      "UsersEstimate": 3607
     },
     {
       "ID": "BeLikeWater",
@@ -7471,7 +7476,7 @@
       "Name": "Chewing The Scenery",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ConnectionLost",
@@ -7511,7 +7516,7 @@
       "Name": "First Time?",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 5026
+      "UsersEstimate": 5027
     },
     {
       "ID": "FuneralForTheDeath",
@@ -7583,7 +7588,7 @@
       "Name": "Nasty!",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 2513
+      "UsersEstimate": 2514
     },
     {
       "ID": "NoMoreTotems",
@@ -7591,7 +7596,7 @@
       "Name": "No More Totems",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "NotLikeTheOthers",
@@ -7631,7 +7636,7 @@
       "Name": "The Old-School Way",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2185
+      "UsersEstimate": 2186
     },
     {
       "ID": "TheQuarterback",
@@ -7639,7 +7644,7 @@
       "Name": "The Quarterback",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 3824
+      "UsersEstimate": 3825
     },
     {
       "ID": "ThisIsDharma",
@@ -7655,7 +7660,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1748
+      "UsersEstimate": 1749
     },
     {
       "ID": "UnResurrected",
@@ -7663,7 +7668,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 9,
       "XP": 45,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -7710,7 +7715,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 10927,
+      "Progressed": 10929,
       "Completed": 19
     }
   ],
@@ -7718,8 +7723,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-20T14:59:47.3947105+00:00",
-  "LastChanged_Achievements": "2023-12-22T02:31:10.7447149+00:00",
+  "LastChanged_Achievements": "2023-12-22T03:10:12.0908807+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.4547373+00:00",
-  "LastUpdate_Ratings": "2023-12-22T02:23:10.264555+00:00",
-  "LastUpdate_Achievements": "2023-12-22T02:31:10.7447735+00:00"
+  "LastUpdate_Ratings": "2023-12-22T03:00:57.9028926+00:00",
+  "LastUpdate_Achievements": "2023-12-22T03:10:12.0909301+00:00"
 }

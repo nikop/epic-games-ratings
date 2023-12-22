@@ -3,12 +3,12 @@
   "Name": "Soulstice",
   "ProductSlug": "soulstice",
   "Ranking_Rating": 926,
-  "Ranking_Popularity": 410,
-  "Ranking_PopularitySum": 478,
+  "Ranking_Popularity": 409,
+  "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -437,9 +437,9 @@
       "Count": 71
     }
   ],
-  "EOS_Progressed": 332726,
+  "EOS_Progressed": 332740,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3765,
+  "EOS_NewPlayers": 3768,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10497,6 +10497,11 @@
       "Time": "2023-12-22T02:28:16.1484314+00:00",
       "NumProgressed": 332726,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-22T03:06:34.8847996+00:00",
+      "NumProgressed": 332740,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -10509,7 +10514,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13309
+      "UsersEstimate": 13310
     },
     {
       "ID": "S02_BRDA",
@@ -10645,7 +10650,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13309
+      "UsersEstimate": 13310
     },
     {
       "ID": "S19_CHALLENGES",
@@ -10828,7 +10833,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 332726,
+      "Progressed": 332740,
       "Completed": 5
     }
   ],
@@ -10836,8 +10841,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-20T17:57:35.3329235+00:00",
-  "LastChanged_Achievements": "2023-12-22T02:28:16.1484311+00:00",
+  "LastChanged_Achievements": "2023-12-22T03:06:34.8847992+00:00",
   "LastUpdate_AppInfo": "2023-12-21T21:57:06.8306267+00:00",
-  "LastUpdate_Ratings": "2023-12-22T02:18:58.7175873+00:00",
-  "LastUpdate_Achievements": "2023-12-22T02:28:16.1485737+00:00"
+  "LastUpdate_Ratings": "2023-12-22T02:58:18.9120426+00:00",
+  "LastUpdate_Achievements": "2023-12-22T03:06:34.8848552+00:00"
 }

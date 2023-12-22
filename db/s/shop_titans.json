@@ -7619,10 +7619,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27771,
       "NumberOfAwardsMax": 4900
+    },
+    {
+      "Time": "2023-12-22T03:03:15.99553+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27772,
+      "NumberOfAwardsMax": 4900
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27771,
+  "NumberOfAwards": 27772,
   "NumberOfAwardsMax": 4900,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7666,7 +7672,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3223
+      "Count": 3224
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7675,9 +7681,9 @@
       "Count": 3801
     }
   ],
-  "EOS_Progressed": 146827,
+  "EOS_Progressed": 146831,
   "EOS_Completed": 329,
-  "EOS_NewPlayers": 1319,
+  "EOS_NewPlayers": 1317,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -33395,6 +33401,11 @@
       "Time": "2023-12-22T02:25:51.9343033+00:00",
       "NumProgressed": 146827,
       "NumCompleted": 329
+    },
+    {
+      "Time": "2023-12-22T03:04:42.1970173+00:00",
+      "NumProgressed": 146831,
+      "NumCompleted": 329
     }
   ],
   "TotalAchievements": 112,
@@ -33486,7 +33497,7 @@
       "Name": "One Easy Payment",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7341
+      "UsersEstimate": 7342
     },
     {
       "ID": "bigsale02",
@@ -33510,7 +33521,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7341
+      "UsersEstimate": 7342
     },
     {
       "ID": "blueprint02",
@@ -33574,7 +33585,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13214
+      "UsersEstimate": 13215
     },
     {
       "ID": "chest02",
@@ -33758,7 +33769,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7341
+      "UsersEstimate": 7342
     },
     {
       "ID": "energy02",
@@ -33990,7 +34001,7 @@
       "Name": "Budding Merchant",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 7341
+      "UsersEstimate": 7342
     },
     {
       "ID": "level02",
@@ -34222,7 +34233,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13214
+      "UsersEstimate": 13215
     },
     {
       "ID": "twinenchant01",
@@ -34270,7 +34281,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7341
+      "UsersEstimate": 7342
     },
     {
       "ID": "workers02",
@@ -34301,15 +34312,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 146827,
+      "Progressed": 146831,
       "Completed": 329
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-12-21T11:03:02.6966348+00:00",
-  "LastChanged_Achievements": "2023-12-22T02:25:51.9343023+00:00",
+  "LastChanged": "2023-12-22T03:03:15.9955299+00:00",
+  "LastChanged_Achievements": "2023-12-22T03:04:42.1970171+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.001195+00:00",
-  "LastUpdate_Ratings": "2023-12-22T02:24:00.6940765+00:00",
-  "LastUpdate_Achievements": "2023-12-22T02:25:51.9348413+00:00"
+  "LastUpdate_Ratings": "2023-12-22T03:03:15.9955305+00:00",
+  "LastUpdate_Achievements": "2023-12-22T03:04:42.1972111+00:00"
 }

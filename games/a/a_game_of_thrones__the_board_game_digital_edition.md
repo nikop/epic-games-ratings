@@ -30,7 +30,7 @@ Number of Ratings: 2,500  (23.09.2022)
 | War of the Five Kings | 1.00% | ~310 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 30,993 (Ranked 133)  
-Completed: 84 (0.27%) (Ranked 254)  
+Completed: 85 (0.27%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -275,11 +275,11 @@ Completed: 84 (0.27%) (Ranked 254)
 | 2023-12-19 | 30,807 | 84 |
 | 2023-12-20 | 30,884 | 84 |
 | 2023-12-21 | 30,974 | 84 |
-| 2023-12-22 | 30,993 | 84 |
+| 2023-12-22 | 30,993 | 85 |
 ## Awards
-Max (Quickly Understood Controls): 127  (Ranked 344)  
+Max (Quickly Understood Controls): 127  (Ranked 343)  
 Sum: 803 (Ranked 284)  
-Diff (max vs sum): 60  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 127 |

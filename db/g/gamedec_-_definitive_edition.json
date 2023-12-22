@@ -3,12 +3,12 @@
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
   "Ranking_Rating": 858,
-  "Ranking_Popularity": 384,
-  "Ranking_PopularitySum": 463,
+  "Ranking_Popularity": 383,
+  "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -495,7 +495,7 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 255280,
+  "EOS_Progressed": 255282,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 631,
   "EOS_NewCompleters": 0,
@@ -27990,6 +27990,11 @@
       "Time": "2023-12-22T02:26:20.4206211+00:00",
       "NumProgressed": 255280,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-22T03:05:04.1524865+00:00",
+      "NumProgressed": 255282,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -28065,7 +28070,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 33186
+      "UsersEstimate": 33187
     },
     {
       "ID": "ACH_HATTRICK",
@@ -28145,7 +28150,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 74031
+      "UsersEstimate": 74032
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -28305,7 +28310,7 @@
       "Name": "Griever",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 20422
+      "UsersEstimate": 20423
     },
     {
       "ID": "ACH_PUMPKINJACK",
@@ -28313,7 +28318,7 @@
       "Name": "Pumpkin Jack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 20422
+      "UsersEstimate": 20423
     },
     {
       "ID": "ACH_SCRATCH",
@@ -28393,7 +28398,7 @@
       "Name": "Wake up!",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 20422
+      "UsersEstimate": 20423
     },
     {
       "ID": "ACH_WELLDESERVED",
@@ -28416,7 +28421,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 255280,
+      "Progressed": 255282,
       "Completed": 7
     }
   ],
@@ -28424,8 +28429,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-11-30T10:59:11.8312964+00:00",
-  "LastChanged_Achievements": "2023-12-22T02:26:20.4206207+00:00",
+  "LastChanged_Achievements": "2023-12-22T03:05:04.1524862+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:10.8864766+00:00",
-  "LastUpdate_Ratings": "2023-12-22T02:23:42.837886+00:00",
-  "LastUpdate_Achievements": "2023-12-22T02:26:20.4208219+00:00"
+  "LastUpdate_Ratings": "2023-12-22T03:03:01.7822441+00:00",
+  "LastUpdate_Achievements": "2023-12-22T03:05:04.152611+00:00"
 }

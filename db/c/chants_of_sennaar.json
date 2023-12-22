@@ -3,10 +3,10 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_Rating": 42,
-  "Ranking_Popularity": 571,
-  "Ranking_PopularitySum": 571,
+  "Ranking_Popularity": 570,
+  "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 252,
-  "Ranking_EOS_Completed": 75,
+  "Ranking_EOS_Completed": 74,
   "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 12,
   "Store": {
@@ -49,11 +49,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1518,
+  "EOS_Progressed": 1520,
   "EOS_Completed": 80,
-  "EOS_NewPlayers": 458,
+  "EOS_NewPlayers": 457,
   "EOS_NewCompleters": 24,
-  "EOS_Completed_Percentage": 5.27,
+  "EOS_Completed_Percentage": 5.26,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -4799,6 +4799,11 @@
       "Time": "2023-12-22T02:29:10.5850285+00:00",
       "NumProgressed": 1518,
       "NumCompleted": 80
+    },
+    {
+      "Time": "2023-12-22T03:08:37.3165221+00:00",
+      "NumProgressed": 1520,
+      "NumCompleted": 80
     }
   ],
   "TotalAchievements": 25,
@@ -4818,7 +4823,7 @@
       "Name": "In this together",
       "Percentage": 19,
       "XP": 200,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "META_ALL_LINK",
@@ -4842,7 +4847,7 @@
       "Name": "A good beginning",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "META_HALF_LINK",
@@ -4898,7 +4903,7 @@
       "Name": "A Link to the Past",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -4914,7 +4919,7 @@
       "Name": "Rascal",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -4922,7 +4927,7 @@
       "Name": "True G3M4R",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -4930,7 +4935,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -4946,7 +4951,7 @@
       "Name": "Champollion",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -4954,7 +4959,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -4970,7 +4975,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "PROGRESS_N2",
@@ -4986,7 +4991,7 @@
       "Name": "A new dawn",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "PROGRESS_N4",
@@ -4994,7 +4999,7 @@
       "Name": "The darkness",
       "Percentage": 24,
       "XP": 60,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "PROGRESS_N5",
@@ -5009,7 +5014,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1518,
+      "Progressed": 1520,
       "Completed": 80
     }
   ],
@@ -5017,8 +5022,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-21T13:58:55.1051952+00:00",
-  "LastChanged_Achievements": "2023-12-22T02:29:10.5850274+00:00",
+  "LastChanged_Achievements": "2023-12-22T03:08:37.3165215+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:30.8935759+00:00",
-  "LastUpdate_Ratings": "2023-12-22T02:20:22.4278422+00:00",
-  "LastUpdate_Achievements": "2023-12-22T02:29:10.5851393+00:00"
+  "LastUpdate_Ratings": "2023-12-22T02:59:21.0880541+00:00",
+  "LastUpdate_Achievements": "2023-12-22T03:08:37.3165595+00:00"
 }

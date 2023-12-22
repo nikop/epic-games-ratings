@@ -6,16 +6,16 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~10,886 |
-| What should I buy? | 81.00% | ~9,481 |
-| Focus! | 60.00% | ~7,023 |
-| Rescued Elder Ent | 60.00% | ~7,023 |
-| The End of the Gold Mane Knights | 46.00% | ~5,384 |
+| The Legend Begins | 93.00% | ~10,887 |
+| What should I buy? | 81.00% | ~9,482 |
+| Focus! | 60.00% | ~7,024 |
+| Rescued Elder Ent | 60.00% | ~7,024 |
+| The End of the Gold Mane Knights | 46.00% | ~5,385 |
 | False Goddess, Disappear | 37.00% | ~4,331 |
 | Rules of Etiquette | 37.00% | ~4,331 |
 | Quick Movements | 30.00% | ~3,512 |
 | Inventory Management | 30.00% | ~3,512 |
-| The Fall of the Leonia Order | 28.00% | ~3,277 |
+| The Fall of the Leonia Order | 28.00% | ~3,278 |
 | Go Home... | 25.00% | ~2,926 |
 | The Final Battle of the First Hero | 24.00% | ~2,809 |
 | The Hero Killer | 23.00% | ~2,692 |
@@ -23,15 +23,15 @@ Number of Ratings: 546  (23.09.2022)
 | Rookies Welcome | 18.00% | ~2,107 |
 | Deadly Power | 15.00% | ~1,756 |
 | Castle Restoration Plans | 12.00% | ~1,405 |
-| The Dwarven Chandelier | 10.00% | ~1,170 |
-| Master of Speed | 9.00% | ~1,053 |
+| The Dwarven Chandelier | 10.00% | ~1,171 |
+| Master of Speed | 9.00% | ~1,054 |
 | The Levitator | 7.00% | ~819 |
 | The God of Battle | 4.00% | ~468 |
 | Too Much of a Talker | 1.00% | ~117 |
 | The Skeleton King | 1.00% | ~117 |
 | Cold-Blooded | 0.60% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,705 (Ranked 169)  
+Progressed: 11,706 (Ranked 169)  
 Completed: 18 (0.15%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,11 +256,11 @@ Completed: 18 (0.15%) (Ranked 286)
 | 2023-12-19 | 11,222 | 18 |
 | 2023-12-20 | 11,485 | 18 |
 | 2023-12-21 | 11,694 | 18 |
-| 2023-12-22 | 11,705 | 18 |
+| 2023-12-22 | 11,706 | 18 |
 ## Awards
-Max (Great for Beginners): 141  (Ranked 328)  
+Max (Great for Beginners): 141  (Ranked 327)  
 Sum: 960 (Ranked 271)  
-Diff (max vs sum): 57  
+Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 141 |

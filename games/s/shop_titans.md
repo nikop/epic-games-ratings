@@ -6,18 +6,18 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 9.00% | ~13,214 |
-| Titan's First Steps | 9.00% | ~13,214 |
+| Sponsored by Argon | 9.00% | ~13,215 |
+| Titan's First Steps | 9.00% | ~13,215 |
 | Basic in Bulk | 8.00% | ~11,746 |
 | Tinkle of Coins | 8.00% | ~11,746 |
 | Disintermediation | 6.00% | ~8,810 |
 | It's Free Real Estate | 6.00% | ~8,810 |
 | Capitalism Ho! | 6.00% | ~8,810 |
-| One Easy Payment | 5.00% | ~7,341 |
-| Some Assembly Required | 5.00% | ~7,341 |
-| Another Satisfied Customer | 5.00% | ~7,341 |
-| Budding Merchant | 5.00% | ~7,341 |
-| Own the Means of Production | 5.00% | ~7,341 |
+| One Easy Payment | 5.00% | ~7,342 |
+| Some Assembly Required | 5.00% | ~7,342 |
+| Another Satisfied Customer | 5.00% | ~7,342 |
+| Budding Merchant | 5.00% | ~7,342 |
+| Own the Means of Production | 5.00% | ~7,342 |
 | The Daily Grind | 4.00% | ~5,873 |
 | Bounty Hunters | 4.00% | ~5,873 |
 | Where it Hurts | 4.00% | ~5,873 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~587 |
 | Capitalist Camaraderie | 0.20% | ~294 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 146,827 (Ranked 82)  
+Progressed: 146,831 (Ranked 82)  
 Completed: 329 (0.22%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -365,10 +365,10 @@ Completed: 329 (0.22%) (Ranked 266)
 | 2023-12-19 | 146,428 | 325 |
 | 2023-12-20 | 146,580 | 325 |
 | 2023-12-21 | 146,796 | 328 |
-| 2023-12-22 | 146,827 | 329 |
+| 2023-12-22 | 146,831 | 329 |
 ## Awards
 Max (Great for Beginners): 4,900  (Ranked 75)  
-Sum: 27,771 (Ranked 52)  
+Sum: 27,772 (Ranked 52)  
 Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
@@ -378,7 +378,7 @@ Diff (max vs sum): 23
 | This game has Diverse Characters | 3,984 |
 | This game is Highly Recommended | 3,801 |
 | This game has Easy Combat | 3,750 |
-| This game has Playful Visuals | 3,223 |
+| This game has Playful Visuals | 3,224 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -708,3 +708,4 @@ Diff (max vs sum): 23
 | 2023-12-19 | 3.99 | - | 4,898 | 27,764 |
 | 2023-12-20 | 3.99 | - | 4,900 | 27,769 |
 | 2023-12-21 | 3.99 | - | 4,900 | 27,771 |
+| 2023-12-22 | 3.99 | - | 4,900 | 27,772 |

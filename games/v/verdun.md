@@ -6,28 +6,28 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~52,283 |
-| Worth it | 63.00% | ~42,228 |
-| Eagle Eye | 55.00% | ~36,866 |
-| Corpseman I | 40.00% | ~26,812 |
-| Blast fishing | 37.00% | ~24,801 |
-| Not alone | 32.00% | ~21,449 |
-| Headhunter I | 26.00% | ~17,428 |
-| Manual Labour I | 25.00% | ~16,757 |
-| Developers, Developers, Developers | 24.00% | ~16,087 |
-| Basic Training | 23.00% | ~15,417 |
+| Setting an example | 78.00% | ~52,286 |
+| Worth it | 63.00% | ~42,231 |
+| Eagle Eye | 55.00% | ~36,868 |
+| Corpseman I | 40.00% | ~26,813 |
+| Blast fishing | 37.00% | ~24,802 |
+| Not alone | 32.00% | ~21,451 |
+| Headhunter I | 26.00% | ~17,429 |
+| Manual Labour I | 25.00% | ~16,758 |
+| Developers, Developers, Developers | 24.00% | ~16,088 |
+| Basic Training | 23.00% | ~15,418 |
 | Furchtlos und Treu | 13.00% | ~8,714 |
-| Gott Mit Uns | 12.00% | ~8,043 |
+| Gott Mit Uns | 12.00% | ~8,044 |
 | This We'll Defend! | 9.00% | ~6,033 |
 | Anker wirf! | 9.00% | ~6,033 |
 | Providentiea Memor | 9.00% | ~6,033 |
 | For King and Country | 9.00% | ~6,033 |
-| Battle hardened | 8.00% | ~5,362 |
+| Battle hardened | 8.00% | ~5,363 |
 | Semper Fidelis! | 7.00% | ~4,692 |
 | Honneur et Patrie | 7.00% | ~4,692 |
-| In Treue Fest | 5.00% | ~3,351 |
-| Voor De Koning | 5.00% | ~3,351 |
-| Extreme Headhunter | 5.00% | ~3,351 |
+| In Treue Fest | 5.00% | ~3,352 |
+| Voor De Koning | 5.00% | ~3,352 |
+| Extreme Headhunter | 5.00% | ~3,352 |
 | Advance Australia | 4.00% | ~2,681 |
 | We Stand on Guard | 4.00% | ~2,681 |
 | Sidi Brahim | 4.00% | ~2,681 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~67 |
 | Blood Brother | 0.10% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,029 (Ranked 110)  
+Progressed: 67,033 (Ranked 110)  
 Completed: 4 (0.01%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,11 +312,11 @@ Completed: 4 (0.01%) (Ranked 361)
 | 2023-12-19 | 66,841 | 4 |
 | 2023-12-20 | 66,920 | 4 |
 | 2023-12-21 | 67,017 | 4 |
-| 2023-12-22 | 67,029 | 4 |
+| 2023-12-22 | 67,033 | 4 |
 ## Awards
-Max (Highly Recommended): 105  (Ranked 364)  
+Max (Highly Recommended): 105  (Ranked 363)  
 Sum: 822 (Ranked 281)  
-Diff (max vs sum): 83  
+Diff (max vs sum): 82  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 106 |

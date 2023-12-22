@@ -3,12 +3,12 @@
   "Name": "IXION",
   "ProductSlug": "ixion-88cda4",
   "Ranking_Rating": 482,
-  "Ranking_Popularity": 571,
-  "Ranking_PopularitySum": 571,
+  "Ranking_Popularity": 570,
+  "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -317,9 +317,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3625,
+  "EOS_Progressed": 3626,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6837,6 +6837,11 @@
       "Time": "2023-12-22T01:49:26.0814157+00:00",
       "NumProgressed": 3625,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T03:04:38.9437718+00:00",
+      "NumProgressed": 3626,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -6864,7 +6869,7 @@
       "Name": "Mutual Loyalty",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_BASE_12",
@@ -6896,7 +6901,7 @@
       "Name": "Tiqqun Contender",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_BASE_17",
@@ -6912,7 +6917,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "ACH_BASE_19",
@@ -7000,7 +7005,7 @@
       "Name": "A Thousand Strong",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "ACH_BASE_3",
@@ -7008,7 +7013,7 @@
       "Name": "Catastrophe Avoided",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_BASE_30",
@@ -7048,7 +7053,7 @@
       "Name": "Ready for a New World",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "ACH_BASE_35",
@@ -7112,7 +7117,7 @@
       "Name": "Space Greenhouse",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_BASE_45",
@@ -7160,7 +7165,7 @@
       "Name": "Tiqqun Unchained",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_BASE_50",
@@ -7240,7 +7245,7 @@
       "Name": "Crunch Culture",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_BASE_61",
@@ -7256,7 +7261,7 @@
       "Name": "Soylent Green",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_BASE_63",
@@ -7303,13 +7308,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1809,
+      "Progressed": 1810,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3625,
+      "Progressed": 3626,
       "Completed": 0
     }
   ],
@@ -7317,8 +7322,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-21T17:56:57.5768777+00:00",
-  "LastChanged_Achievements": "2023-12-22T02:25:47.8771648+00:00",
+  "LastChanged_Achievements": "2023-12-22T03:04:38.9437715+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.6786359+00:00",
-  "LastUpdate_Ratings": "2023-12-22T02:17:53.2825048+00:00",
-  "LastUpdate_Achievements": "2023-12-22T02:25:47.8772521+00:00"
+  "LastUpdate_Ratings": "2023-12-22T02:57:29.6267606+00:00",
+  "LastUpdate_Achievements": "2023-12-22T03:04:38.9438444+00:00"
 }

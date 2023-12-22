@@ -12,21 +12,21 @@ Rating: 4.27 (Ranked 878)
 | Look Mom, I Can Fly | 9.00% | ~19 |
 | Junk Collector | 9.00% | ~19 |
 | National Amateurs Champion | 8.00% | ~17 |
+| Trashing Around | 7.00% | ~15 |
+| Hating Them Tin Cans | 7.00% | ~15 |
 | Challengers Champion | 6.00% | ~13 |
-| Trashing Around | 6.00% | ~13 |
-| Hating Them Tin Cans | 6.00% | ~13 |
 | Highballer | 4.00% | ~8 |
 | Pro Internationals Champion | 3.00% | ~6 |
 | Cash For Crashes | 2.00% | ~4 |
+| Maniac Driver | 2.00% | ~4 |
 | World Masters Champion | 1.00% | ~2 |
 | Showing Some Dedication | 1.00% | ~2 |
-| Maniac Driver | 1.00% | ~2 |
 | Glutton For Punishment | 0.90% | ~2 |
 | Garden Variety | 0.90% | ~2 |
 | Rocketeer | 0.50% | ~1 |
 | Human Lover | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211 (Ranked 400)  
+Progressed: 211 (Ranked 401)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |

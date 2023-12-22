@@ -3,12 +3,12 @@
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
   "Ranking_Rating": 510,
-  "Ranking_Popularity": 486,
+  "Ranking_Popularity": 485,
   "Ranking_PopularitySum": 393,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -541,7 +541,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4097,
+  "EOS_Progressed": 4098,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 303,
   "EOS_NewCompleters": 1,
@@ -6656,6 +6656,11 @@
       "Time": "2023-12-22T02:27:57.9787852+00:00",
       "NumProgressed": 4097,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-22T03:06:20.6383303+00:00",
+      "NumProgressed": 4098,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -6723,7 +6728,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "Eureka_23",
@@ -6739,7 +6744,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 901
+      "UsersEstimate": 902
     },
     {
       "ID": "ForAllAurai_8",
@@ -6771,7 +6776,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "HouseofCards_19",
@@ -6851,7 +6856,7 @@
       "Name": "Ready for Summer",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 2048
+      "UsersEstimate": 2049
     },
     {
       "ID": "ReadyforWinter_42",
@@ -6859,7 +6864,7 @@
       "Name": "Ready for Winter",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 2581
+      "UsersEstimate": 2582
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -6867,7 +6872,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -6987,7 +6992,7 @@
       "Name": "Venture Outward",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 3032
+      "UsersEstimate": 3033
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -7002,15 +7007,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4097,
+      "Progressed": 4098,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-22T02:27:57.9787849+00:00",
+  "LastChanged_Achievements": "2023-12-22T03:06:20.6383299+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:45.1407734+00:00",
-  "LastUpdate_Ratings": "2023-12-22T02:23:37.2067702+00:00",
-  "LastUpdate_Achievements": "2023-12-22T02:27:57.9789265+00:00"
+  "LastUpdate_Ratings": "2023-12-22T03:02:57.3343658+00:00",
+  "LastUpdate_Achievements": "2023-12-22T03:06:20.6383836+00:00"
 }

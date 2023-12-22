@@ -10,8 +10,8 @@ Number of Ratings: 281  (23.09.2022)
 | More Fish in the Sea | 10.00% | ~734 |
 | Can you smell what the Rod is Hooking | 9.00% | ~661 |
 | Hey Good Hookin | 9.00% | ~661 |
-| I'm on a Boat! | 8.00% | ~587 |
-| Scaling up | 8.00% | ~587 |
+| I'm on a Boat! | 8.00% | ~588 |
+| Scaling up | 8.00% | ~588 |
 | Ready to Rod and Roll | 6.00% | ~441 |
 | Fish Out of Water | 4.00% | ~294 |
 | Things that go Splash in the Night | 4.00% | ~294 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,342 (Ranked 188)  
+Progressed: 7,344 (Ranked 188)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,11 +293,11 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-19 | 7,233 | 0 |
 | 2023-12-20 | 7,288 | 0 |
 | 2023-12-21 | 7,339 | 0 |
-| 2023-12-22 | 7,342 | 0 |
+| 2023-12-22 | 7,344 | 0 |
 ## Awards
-Max (Great for Beginners): 41  (Ranked 466)  
+Max (Great for Beginners): 41  (Ranked 465)  
 Sum: 210 (Ranked 405)  
-Diff (max vs sum): 61  
+Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 41 |

@@ -44,7 +44,7 @@ Number of Ratings: 180  (23.09.2022)
 | Bob Ross | 15.00% | ~314 |
 | Truck Fever | 11.00% | ~231 |
 | Campaign expert | 10.00% | ~210 |
-| No free seats | 9.00% | ~189 |
+| No free seats | 10.00% | ~210 |
 | Penny pincher | 9.00% | ~189 |
 | Back to the future | 8.00% | ~168 |
 | Transport belt | 8.00% | ~168 |
@@ -300,9 +300,9 @@ Completed: 1 (0.05%) (Ranked 331)
 | 2023-12-20 | 2,080 | 1 |
 | 2023-12-21 | 2,096 | 1 |
 ## Awards
-Max (Great for Beginners): 48  (Ranked 450)  
+Max (Great for Beginners): 48  (Ranked 449)  
 Sum: 325 (Ranked 364)  
-Diff (max vs sum): 86  
+Diff (max vs sum): 85  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 48 |

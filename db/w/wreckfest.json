@@ -3,12 +3,12 @@
   "Name": "Wreckfest",
   "ProductSlug": "wreckfest",
   "Ranking_Rating": 878,
-  "Ranking_Popularity": 571,
-  "Ranking_PopularitySum": 571,
-  "Ranking_EOS_Progress": 400,
+  "Ranking_Popularity": 570,
+  "Ranking_PopularitySum": 570,
+  "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -844,9 +844,9 @@
       "ID": "PlayerRankB",
       "SetID": "5hd282c",
       "Name": "Trashing Around",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "PlayerRankC",
@@ -868,17 +868,17 @@
       "ID": "WreckOpponentsA",
       "SetID": "5hd282c",
       "Name": "Hating Them Tin Cans",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "WreckOpponentsBus",
       "SetID": "5hd282c",
       "Name": "Maniac Driver",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
@@ -893,8 +893,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-19T23:00:17.2400985+00:00",
-  "LastChanged_Achievements": "2023-12-22T02:29:13.4221359+00:00",
+  "LastChanged_Achievements": "2023-12-22T03:08:39.6053037+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:03.0967517+00:00",
-  "LastUpdate_Ratings": "2023-12-22T02:18:31.2786596+00:00",
-  "LastUpdate_Achievements": "2023-12-22T02:29:13.4221661+00:00"
+  "LastUpdate_Ratings": "2023-12-22T02:57:58.1432439+00:00",
+  "LastUpdate_Achievements": "2023-12-22T03:08:39.605318+00:00"
 }

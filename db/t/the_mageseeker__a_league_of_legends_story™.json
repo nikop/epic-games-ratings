@@ -3,12 +3,12 @@
   "Name": "The Mageseeker: A League of Legends Story\u2122",
   "ProductSlug": "the-mageseeker-a-league-of-legends-story",
   "Ranking_Rating": 110,
-  "Ranking_Popularity": 571,
-  "Ranking_PopularitySum": 571,
+  "Ranking_Popularity": 570,
+  "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -151,9 +151,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2928,
+  "EOS_Progressed": 2929,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -4851,6 +4851,11 @@
       "Time": "2023-12-22T02:24:52.0323239+00:00",
       "NumProgressed": 2928,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-12-22T03:03:55.9793588+00:00",
+      "NumProgressed": 2929,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 53,
@@ -4886,7 +4891,7 @@
       "Name": "Whispers in the Woods II",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "STB_COLISSEUM_THIRD",
@@ -4902,7 +4907,7 @@
       "Name": "Hijack",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -4910,7 +4915,7 @@
       "Name": "Elemental master",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1084
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -4926,7 +4931,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2782
+      "UsersEstimate": 2783
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -4934,7 +4939,7 @@
       "Name": "My heart and sword always for Demacia",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "STB_DEFEAT_ICE_SALAMANDER_I",
@@ -4974,7 +4979,7 @@
       "Name": "I chose my shackles",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -4982,7 +4987,7 @@
       "Name": "Past trauma",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1084
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -4990,7 +4995,7 @@
       "Name": "Little light",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_I",
@@ -5006,7 +5011,7 @@
       "Name": "True power",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_III",
@@ -5046,7 +5051,7 @@
       "Name": "No more cages!",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 2664
+      "UsersEstimate": 2665
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -5054,7 +5059,7 @@
       "Name": "Meltridge",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "STB_MISSION11_COMPLETED",
@@ -5086,7 +5091,7 @@
       "Name": "Thornbarrow",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1200
+      "UsersEstimate": 1201
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -5126,7 +5131,7 @@
       "Name": "Capelworth",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -5172,9 +5177,9 @@
       "ID": "STB_PET_HORSE",
       "SetID": "3pe2bac",
       "Name": "You can pet the... horse",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 293
+      "UsersEstimate": 322
     },
     {
       "ID": "STB_PLATINUM",
@@ -5198,7 +5203,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1084
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -5230,7 +5235,7 @@
       "Name": "Cloven Dell Headquarters",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
@@ -5254,7 +5259,7 @@
       "Name": "Full equipped",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "STB_UNLOCK_ALL_ULTIMATES",
@@ -5278,14 +5283,14 @@
       "Name": "Petricite Burst",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2928,
+      "Progressed": 2929,
       "Completed": 16
     }
   ],
@@ -5293,8 +5298,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-20T21:00:13.330526+00:00",
-  "LastChanged_Achievements": "2023-12-22T02:24:52.0323227+00:00",
+  "LastChanged_Achievements": "2023-12-22T03:03:55.9793585+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:24.9335177+00:00",
-  "LastUpdate_Ratings": "2023-12-22T02:23:15.4104337+00:00",
-  "LastUpdate_Achievements": "2023-12-22T02:24:52.0324309+00:00"
+  "LastUpdate_Ratings": "2023-12-22T03:01:01.8397851+00:00",
+  "LastUpdate_Achievements": "2023-12-22T03:03:55.979444+00:00"
 }

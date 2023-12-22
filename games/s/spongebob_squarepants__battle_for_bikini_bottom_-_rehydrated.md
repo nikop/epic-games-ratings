@@ -10,16 +10,16 @@ Number of Ratings: 76  (23.09.2022)
 | Jellyfish Jam | 2.00% | ~4 |
 | Sponge Smasher | 2.00% | ~4 |
 | Time For Tutorial | 2.00% | ~4 |
+| Hello, Bikini Bottom | 1.00% | ~2 |
+| Shrimp Catcher | 1.00% | ~2 |
+| Toxic Terror | 1.00% | ~2 |
 | Sweet Victory | 1.00% | ~2 |
 | Squirrel Smasher | 1.00% | ~2 |
 | Robot encyclopedia | 0.60% | ~1 |
 | Are you ready now? | 0.60% | ~1 |
 | Life's as extreme as you wanna make it! | 0.60% | ~1 |
 | Uptown and Downtown | 0.60% | ~1 |
-| Hello, Bikini Bottom | 0.60% | ~1 |
 | Keep it Rolling | 0.60% | ~1 |
-| Shrimp Catcher | 0.60% | ~1 |
-| Toxic Terror | 0.60% | ~1 |
 | Hit Rock Bottom | 0.60% | ~1 |
 | Super Spatula Seeker | 0.60% | ~1 |
 | Sock Getter | 0.60% | ~1 |
@@ -50,8 +50,8 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-21 | 173 | 0 |
 | 2023-12-22 | 175 | 0 |
 ## Awards
-Max (Great Boss Battles): 34  (Ranked 491)  
-Sum: 34 (Ranked 515)  
+Max (Great Boss Battles): 34  (Ranked 490)  
+Sum: 34 (Ranked 514)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |

@@ -3,12 +3,12 @@
   "Name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
   "ProductSlug": "spongebob-squarepants-battle-for-bikini-bottom-rehydrated",
   "Ranking_Rating": 297,
-  "Ranking_Popularity": 491,
-  "Ranking_PopularitySum": 515,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -747,9 +747,9 @@
       "ID": "ACH_FIND_BB_SPATULAS",
       "SetID": "biiejkc",
       "Name": "Hello, Bikini Bottom",
-      "Percentage": 0.6,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_FLYING_DUTCHMAN_BOSS",
@@ -795,17 +795,17 @@
       "ID": "ACH_PRAWN_BOSS",
       "SetID": "biiejkc",
       "Name": "Shrimp Catcher",
-      "Percentage": 0.6,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_ROBO_PATRICK_BOSS",
       "SetID": "biiejkc",
       "Name": "Toxic Terror",
-      "Percentage": 0.6,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_ROBO_SANDY_BOSS",
@@ -955,8 +955,8 @@
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-17T16:58:22.2973338+00:00",
-  "LastChanged_Achievements": "2023-12-22T02:27:43.7400496+00:00",
+  "LastChanged_Achievements": "2023-12-22T03:06:09.5213746+00:00",
   "LastUpdate_AppInfo": "2023-12-16T13:57:06.8451361+00:00",
-  "LastUpdate_Ratings": "2023-12-22T02:21:56.6253561+00:00",
-  "LastUpdate_Achievements": "2023-12-22T02:27:43.7400882+00:00"
+  "LastUpdate_Ratings": "2023-12-22T03:00:32.9688858+00:00",
+  "LastUpdate_Achievements": "2023-12-22T03:06:09.5213939+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Airborne Kingdom",
   "ProductSlug": "airborne-kingdom",
   "Ranking_Rating": 317,
-  "Ranking_Popularity": 571,
-  "Ranking_PopularitySum": 571,
+  "Ranking_Popularity": 570,
+  "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 282,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7653,
+  "EOS_Progressed": 7654,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -6413,6 +6413,11 @@
       "Time": "2023-12-22T02:24:18.3123155+00:00",
       "NumProgressed": 7653,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-22T03:03:29.202612+00:00",
+      "NumProgressed": 7654,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 27,
@@ -6456,7 +6461,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 4056
+      "UsersEstimate": 4057
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -6480,7 +6485,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1913
+      "UsersEstimate": 1914
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -6488,7 +6493,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1913
+      "UsersEstimate": 1914
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -6528,7 +6533,7 @@
       "Name": "A Peaceful Respite",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1072
     },
     {
       "ID": "AK_PROPHECY_FULFILLED",
@@ -6624,7 +6629,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 3061
+      "UsersEstimate": 3062
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -6639,15 +6644,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7653,
+      "Progressed": 7654,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-12-22T02:24:18.3123152+00:00",
+  "LastChanged_Achievements": "2023-12-22T03:03:29.2026117+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:12.2358899+00:00",
-  "LastUpdate_Ratings": "2023-12-22T02:24:06.9451915+00:00",
-  "LastUpdate_Achievements": "2023-12-22T02:24:18.31246+00:00"
+  "LastUpdate_Ratings": "2023-12-22T03:03:20.6422144+00:00",
+  "LastUpdate_Achievements": "2023-12-22T03:03:29.2027223+00:00"
 }

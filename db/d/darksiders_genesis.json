@@ -3,12 +3,12 @@
   "Name": "Darksiders Genesis",
   "ProductSlug": "darksiders-genesis",
   "Ranking_Rating": 640,
-  "Ranking_Popularity": 456,
-  "Ranking_PopularitySum": 502,
+  "Ranking_Popularity": 455,
+  "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 455,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-07-16T16:00:00+00:00",
     "PcReleaseDate": "2019-12-05T15:00:00+00:00",
@@ -734,9 +734,9 @@
       "ID": "ClosetheRift",
       "SetID": "329ak73",
       "Name": "Close the Rift",
-      "Percentage": 0,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Collector",
@@ -806,9 +806,9 @@
       "ID": "Mammon",
       "SetID": "329ak73",
       "Name": "Mammon",
-      "Percentage": 0,
+      "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MasterofStrife",
@@ -830,9 +830,9 @@
       "ID": "MintI",
       "SetID": "329ak73",
       "Name": "Mint I",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "MintII",
@@ -942,8 +942,8 @@
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-21T15:01:03.7221978+00:00",
-  "LastChanged_Achievements": "2023-12-22T02:30:44.9279227+00:00",
+  "LastChanged_Achievements": "2023-12-22T03:09:51.6455583+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:26.1049217+00:00",
-  "LastUpdate_Ratings": "2023-12-22T02:21:52.6536574+00:00",
-  "LastUpdate_Achievements": "2023-12-22T02:30:44.9279363+00:00"
+  "LastUpdate_Ratings": "2023-12-22T03:00:29.6796578+00:00",
+  "LastUpdate_Achievements": "2023-12-22T03:09:51.6455774+00:00"
 }

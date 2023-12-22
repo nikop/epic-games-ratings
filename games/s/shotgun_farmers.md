@@ -44,8 +44,8 @@
 | Master Survivor | 3.00% | ~9 |
 | Heart Breaker | 3.00% | ~9 |
 | 15 Days | 2.00% | ~7 |
+| Easy Peasy | 2.00% | ~6 |
 | Pro Shotgunner | 1.00% | ~4 |
-| Easy Peasy | 1.00% | ~3 |
 | King of the Crow | 0.80% | ~2 |
 | Tomassacred | 0.80% | ~2 |
 | Pro Pyromancer | 0.60% | ~2 |

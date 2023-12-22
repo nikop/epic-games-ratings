@@ -5,13 +5,13 @@ Rating: 4.20 (Ranked 935)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 15.00% | ~2,775 |
-| The Outer Way | 15.00% | ~2,775 |
-| Get a Grip | 14.00% | ~2,590 |
-| Paper Jams | 14.00% | ~2,590 |
-| Desperate Times | 13.00% | ~2,405 |
-| Chew 'Em Up | 11.00% | ~2,035 |
-| Float Like A Butterfly | 11.00% | ~2,035 |
+| Flesh Wound | 15.00% | ~2,776 |
+| The Outer Way | 15.00% | ~2,776 |
+| Get a Grip | 14.00% | ~2,591 |
+| Paper Jams | 14.00% | ~2,591 |
+| Desperate Times | 13.00% | ~2,406 |
+| Chew 'Em Up | 11.00% | ~2,036 |
+| Float Like A Butterfly | 11.00% | ~2,036 |
 | Reforged | 10.00% | ~1,850 |
 | Workplace Hazard | 9.00% | ~1,665 |
 | If the SHU Fits... | 9.00% | ~1,665 |
@@ -24,13 +24,13 @@ Rating: 4.20 (Ranked 935)
 | Terminated | 6.00% | ~1,110 |
 | What Lies Beneath | 6.00% | ~1,110 |
 | Full Circle | 6.00% | ~1,110 |
-| Keep Fighting | 6.00% | ~385 |
+| Keep Fighting | 6.00% | ~386 |
 | Giving Back | 5.00% | ~925 |
 | I Do Belong Here | 5.00% | ~925 |
 | It's Time | 4.00% | ~257 |
 | In Striking Distance | 3.00% | ~555 |
 | The Commonality | 3.00% | ~555 |
-| One Last Job | 2.00% | ~128 |
+| One Last Job | 2.00% | ~129 |
 | Mugshot | 1.00% | ~185 |
 | Big Spender | 1.00% | ~64 |
 | This Isn't About Escape | 1.00% | ~64 |
@@ -45,7 +45,7 @@ Rating: 4.20 (Ranked 935)
 | The Protocol is About Life | 0.20% | ~37 |
 | Recidivist | 0.20% | ~13 |
 | Hoard Mode | 0.20% | ~13 |
-| It's over, Jacob! | 0.10% | ~18 |
+| It's over, Jacob! | 0.10% | ~19 |
 | Glutton for Punishment | 0.10% | ~6 |
 | You Belong Here | 0.10% | ~6 |
 | Lifer | 0.10% | ~6 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 935)
 | Bear Trap | 0.10% | ~6 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,497 (Ranked 149)  
+Progressed: 18,505 (Ranked 149)  
 Completed: 82 (0.44%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,11 +291,11 @@ Completed: 82 (0.44%) (Ranked 224)
 | 2023-12-19 | 18,137 | 82 |
 | 2023-12-20 | 18,301 | 82 |
 | 2023-12-21 | 18,465 | 82 |
-| 2023-12-22 | 18,497 | 82 |
+| 2023-12-22 | 18,505 | 82 |
 ## Awards
-Max (Amazing Characters): 91  (Ranked 386)  
+Max (Amazing Characters): 91  (Ranked 385)  
 Sum: 540 (Ranked 326)  
-Diff (max vs sum): 60  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 91 |

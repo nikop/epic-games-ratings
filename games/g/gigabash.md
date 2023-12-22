@@ -5,26 +5,26 @@ Rating: 4.54 (Ranked 533)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 13.00% | ~12,859 |
-| I've Had Enough! | 10.00% | ~9,891 |
-| Fists, Fury & a lot of Rage | 7.00% | ~6,924 |
-| All For One and One For All | 6.00% | ~5,935 |
-| Seasoned Fighter | 6.00% | ~5,935 |
-| A New Age | 4.00% | ~3,957 |
-| Home Sweet Home? | 4.00% | ~3,957 |
-| Oh Baby, A Triple | 2.00% | ~1,978 |
-| Battle Hardened | 2.00% | ~1,978 |
-| Master of Disguise | 2.00% | ~1,978 |
-| Symbiotic | 2.00% | ~1,978 |
-| Double Punch! | 1.00% | ~989 |
-| It's Mayhem! | 1.00% | ~989 |
-| Right back at'cha | 1.00% | ~989 |
-| Spectacular Finisher | 1.00% | ~989 |
-| Cautious Veteran | 0.90% | ~890 |
-| Martyrdom | 0.90% | ~890 |
-| Katamari | 0.70% | ~692 |
-| Zero-sum Game | 0.70% | ~692 |
-| Ninja Reflex | 0.60% | ~593 |
+| All Grown Up! | 13.00% | ~12,865 |
+| I've Had Enough! | 10.00% | ~9,896 |
+| Fists, Fury & a lot of Rage | 7.00% | ~6,927 |
+| All For One and One For All | 6.00% | ~5,938 |
+| Seasoned Fighter | 6.00% | ~5,938 |
+| A New Age | 4.00% | ~3,959 |
+| Home Sweet Home? | 4.00% | ~3,959 |
+| Oh Baby, A Triple | 2.00% | ~1,979 |
+| Battle Hardened | 2.00% | ~1,979 |
+| Master of Disguise | 2.00% | ~1,979 |
+| Symbiotic | 2.00% | ~1,979 |
+| Double Punch! | 1.00% | ~990 |
+| It's Mayhem! | 1.00% | ~990 |
+| Right back at'cha | 1.00% | ~990 |
+| Spectacular Finisher | 1.00% | ~990 |
+| Cautious Veteran | 0.90% | ~891 |
+| Martyrdom | 0.90% | ~891 |
+| Katamari | 0.70% | ~693 |
+| Zero-sum Game | 0.70% | ~693 |
+| Ninja Reflex | 0.60% | ~594 |
 | Taste Your Own Medicine | 0.50% | ~495 |
 | Eye of the Titan | 0.30% | ~297 |
 | Just Getting Warmed Up | 0.30% | ~297 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 533)
 | What's Mine is Yours | 0.10% | ~99 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 98,914 (Ranked 94)  
+Progressed: 98,964 (Ranked 94)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -58,10 +58,10 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-19 | 95,039 | 0 |
 | 2023-12-20 | 96,698 | 0 |
 | 2023-12-21 | 98,723 | 0 |
-| 2023-12-22 | 98,914 | 0 |
+| 2023-12-22 | 98,964 | 0 |
 ## Awards
-Max (Great Boss Battles): 33  (Ranked 499)  
-Sum: 33 (Ranked 521)  
+Max (Great Boss Battles): 33  (Ranked 498)  
+Sum: 33 (Ranked 520)  
 Diff (max vs sum): -22  
 | Award | Count |
 | ----- | ----- |

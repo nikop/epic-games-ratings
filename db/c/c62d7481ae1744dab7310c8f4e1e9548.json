@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 436,
   "Ranking_EOS_Completed": 66,
-  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 140,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 6.43,
   "EosHistory": [
@@ -822,9 +822,9 @@
       "ID": "Kvitky",
       "SetID": "ag48e8e",
       "Name": "Blossoms",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "MluviciPapouch",
@@ -981,8 +981,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-12-22T02:28:26.112261+00:00",
+  "LastChanged_Achievements": "2023-12-22T03:06:42.5848305+00:00",
   "LastUpdate_AppInfo": "2023-12-16T05:57:11.9485544+00:00",
-  "LastUpdate_Ratings": "2023-12-22T02:23:35.931342+00:00",
-  "LastUpdate_Achievements": "2023-12-22T02:28:26.1123094+00:00"
+  "LastUpdate_Ratings": "2023-12-22T03:02:56.3363004+00:00",
+  "LastUpdate_Achievements": "2023-12-22T03:06:42.5848467+00:00"
 }

@@ -21,8 +21,8 @@ Rating: 4.29 (Ranked 858)
 | Kill-streak | 29.00% | ~60 |
 | Topped up | 29.00% | ~60 |
 | The Bird | 27.00% | ~56 |
+| The Ninja | 26.00% | ~54 |
 | The Idol | 25.00% | ~52 |
-| The Ninja | 25.00% | ~52 |
 | Inferno Ruins | 24.00% | ~49 |
 | I'm Rich | 22.00% | ~45 |
 | 1 is all I need | 21.00% | ~43 |
@@ -35,7 +35,7 @@ Rating: 4.29 (Ranked 858)
 | The Blacksmith | 16.00% | ~33 |
 | Ember | 16.00% | ~33 |
 | Turquoise | 15.00% | ~31 |
-| The Assistant | 13.00% | ~27 |
+| The Assistant | 14.00% | ~29 |
 | The Steampunk | 13.00% | ~27 |
 | Verse | 11.00% | ~23 |
 | The Droid | 10.00% | ~21 |

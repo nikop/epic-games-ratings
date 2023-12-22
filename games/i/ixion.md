@@ -7,10 +7,10 @@ Rating: 4.57 (Ranked 482)
 | ---- | ---------- | ----- |
 | Wakey Wakey | 30.00% | ~1,088 |
 | Sputnik 2049 | 27.00% | ~979 |
-| Infinite Growth... | 26.00% | ~942 |
+| Infinite Growth... | 26.00% | ~943 |
 | Without Breaking Some Eggs... | 25.00% | ~906 |
-| A Thousand Strong | 18.00% | ~652 |
-| Ready for a New World | 18.00% | ~652 |
+| A Thousand Strong | 18.00% | ~653 |
+| Ready for a New World | 18.00% | ~653 |
 | Space Society | 17.00% | ~616 |
 | Permanent Redesigns | 15.00% | ~544 |
 | Fully Recycled | 14.00% | ~508 |
@@ -43,19 +43,19 @@ Rating: 4.57 (Ranked 482)
 | Delivery! | 3.00% | ~109 |
 | Help of the Forgotten Member | 3.00% | ~109 |
 | Pulsar Disciple | 3.00% | ~109 |
-| Mutual Loyalty | 2.00% | ~72 |
-| Tiqqun Contender | 2.00% | ~72 |
-| Catastrophe Avoided | 2.00% | ~72 |
-| Space Greenhouse | 2.00% | ~72 |
-| Tiqqun Unchained | 2.00% | ~72 |
+| Mutual Loyalty | 2.00% | ~73 |
+| Tiqqun Contender | 2.00% | ~73 |
+| Catastrophe Avoided | 2.00% | ~73 |
+| Space Greenhouse | 2.00% | ~73 |
+| Tiqqun Unchained | 2.00% | ~73 |
 | Better Him Than Me | 1.00% | ~36 |
 | Remember the Dead | 1.00% | ~36 |
 | You Had One Job... | 1.00% | ~36 |
 | Gregor Spinoza | 1.00% | ~36 |
 | Scientifically Accurate | 1.00% | ~36 |
 | Work Harder | 0.60% | ~22 |
-| Crunch Culture | 0.40% | ~14 |
-| Soylent Green | 0.40% | ~14 |
+| Crunch Culture | 0.40% | ~15 |
+| Soylent Green | 0.40% | ~15 |
 | A Junker's Dream | 0.30% | ~11 |
 | Scenic View | 0.20% | ~7 |
 | I Give You the Stars | 0.20% | ~4 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 482)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,625 (Ranked 212)  
+Progressed: 3,626 (Ranked 212)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-19 | 3,586 | 0 |
 | 2023-12-20 | 3,605 | 0 |
 | 2023-12-21 | 3,624 | 0 |
-| 2023-12-22 | 3,625 | 0 |
+| 2023-12-22 | 3,626 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

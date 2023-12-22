@@ -3,12 +3,12 @@
   "Name": "The Alto Collection",
   "ProductSlug": "the-alto-collection",
   "Ranking_Rating": 197,
-  "Ranking_Popularity": 446,
+  "Ranking_Popularity": 445,
   "Ranking_PopularitySum": 351,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -916,9 +916,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 51233,
+  "EOS_Progressed": 51237,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1049,
+  "EOS_NewPlayers": 1050,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -28796,6 +28796,11 @@
       "Time": "2023-12-22T02:26:01.6802837+00:00",
       "NumProgressed": 51233,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-22T03:04:49.5447872+00:00",
+      "NumProgressed": 51237,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -28847,7 +28852,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 13833
+      "UsersEstimate": 13834
     },
     {
       "ID": "goals180",
@@ -28863,7 +28868,7 @@
       "Name": "Amateur",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5123
+      "UsersEstimate": 5124
     },
     {
       "ID": "goals75",
@@ -28935,7 +28940,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 7685
+      "UsersEstimate": 7686
     },
     {
       "ID": "playerFelipe",
@@ -29015,7 +29020,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 12808
+      "UsersEstimate": 12809
     },
     {
       "ID": "sandboarder",
@@ -29079,7 +29084,7 @@
       "Name": "Enter Paz",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3586
+      "UsersEstimate": 3587
     },
     {
       "ID": "vandal",
@@ -29118,15 +29123,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 51233,
+      "Progressed": 51237,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-12-16T06:59:13.2454805+00:00",
-  "LastChanged_Achievements": "2023-12-22T02:26:01.6802834+00:00",
+  "LastChanged_Achievements": "2023-12-22T03:04:49.5447869+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:56.7269376+00:00",
-  "LastUpdate_Ratings": "2023-12-22T02:18:55.0723655+00:00",
-  "LastUpdate_Achievements": "2023-12-22T02:26:01.6806703+00:00"
+  "LastUpdate_Ratings": "2023-12-22T02:58:16.3662195+00:00",
+  "LastUpdate_Achievements": "2023-12-22T03:04:49.5449043+00:00"
 }

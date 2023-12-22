@@ -4,9 +4,9 @@
 Rating: 4.41 (Ranked 732)  
 Number of Ratings: 1,747  (23.09.2022)  
 ## Awards
-Max (Amazing Characters): 70  (Ranked 413)  
+Max (Amazing Characters): 70  (Ranked 412)  
 Sum: 628 (Ranked 314)  
-Diff (max vs sum): 99  
+Diff (max vs sum): 98  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 70 |

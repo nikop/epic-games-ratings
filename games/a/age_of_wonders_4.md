@@ -16,10 +16,10 @@ Rating: 4.62 (Ranked 374)
 | Full Ascension | 4.00% | ~238 |
 | Magical Synergy | 4.00% | ~238 |
 | Seat of Power | 4.00% | ~238 |
-| Valley of Wonders | 3.00% | ~178 |
-| Stronger Together | 3.00% | ~178 |
-| In a Liege of Your Own | 3.00% | ~178 |
-| Intimidation Tactics | 3.00% | ~178 |
+| Valley of Wonders | 3.00% | ~179 |
+| Stronger Together | 3.00% | ~179 |
+| In a Liege of Your Own | 3.00% | ~179 |
+| Intimidation Tactics | 3.00% | ~179 |
 | Return of the Wizard King | 2.00% | ~119 |
 | Enchanted Archipelago | 2.00% | ~119 |
 | Digging for Treasure | 2.00% | ~119 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 374)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,950 (Ranked 193)  
+Progressed: 5,951 (Ranked 193)  
 Completed: 7 (0.12%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,10 +280,10 @@ Completed: 7 (0.12%) (Ranked 295)
 | 2023-12-19 | 5,881 | 7 |
 | 2023-12-20 | 5,911 | 7 |
 | 2023-12-21 | 5,945 | 7 |
-| 2023-12-22 | 5,950 | 7 |
+| 2023-12-22 | 5,951 | 7 |
 ## Awards
-Max (Great for Beginners): 37  (Ranked 481)  
-Sum: 113 (Ranked 450)  
+Max (Great for Beginners): 37  (Ranked 480)  
+Sum: 113 (Ranked 449)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |

@@ -8403,9 +8403,9 @@
       "Count": 434
     }
   ],
-  "EOS_Progressed": 739001,
+  "EOS_Progressed": 739026,
   "EOS_Completed": 12959,
-  "EOS_NewPlayers": 16335,
+  "EOS_NewPlayers": 16273,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.75,
   "EosHistory": [
@@ -30363,6 +30363,11 @@
       "Time": "2023-12-22T02:29:43.4858901+00:00",
       "NumProgressed": 739001,
       "NumCompleted": 12959
+    },
+    {
+      "Time": "2023-12-22T03:09:03.2617289+00:00",
+      "NumProgressed": 739026,
+      "NumCompleted": 12959
     }
   ],
   "TotalAchievements": 60,
@@ -30374,7 +30379,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22170
+      "UsersEstimate": 22171
     },
     {
       "ID": "02_Vengeance_H1",
@@ -30382,7 +30387,7 @@
       "Name": "The Assault",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14780
+      "UsersEstimate": 14781
     },
     {
       "ID": "03_Vengeance_H2",
@@ -30390,7 +30395,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14780
+      "UsersEstimate": 14781
     },
     {
       "ID": "04_Vengeance_H3",
@@ -30550,7 +30555,7 @@
       "Name": "Life is your teacher",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22170
+      "UsersEstimate": 22171
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -30558,7 +30563,7 @@
       "Name": "State of constant learning",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14780
+      "UsersEstimate": 14781
     },
     {
       "ID": "25_ShrineMind",
@@ -30582,7 +30587,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14780
+      "UsersEstimate": 14781
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -30622,7 +30627,7 @@
       "Name": "Old Child",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14780
+      "UsersEstimate": 14781
     },
     {
       "ID": "33_BladeOneShot",
@@ -30638,7 +30643,7 @@
       "Name": "Lightning Hands",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22170
+      "UsersEstimate": 22171
     },
     {
       "ID": "35_WideStrike",
@@ -30853,21 +30858,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 48302,
+      "Progressed": 48327,
       "Completed": 10779
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 739001,
+      "Progressed": 739026,
       "Completed": 12959
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-22T01:47:51.31507+00:00",
-  "LastChanged_Achievements": "2023-12-22T02:29:43.4858897+00:00",
+  "LastChanged_Achievements": "2023-12-22T03:09:03.2617286+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:50.1499922+00:00",
-  "LastUpdate_Ratings": "2023-12-22T02:23:46.8383597+00:00",
-  "LastUpdate_Achievements": "2023-12-22T02:29:43.486073+00:00"
+  "LastUpdate_Ratings": "2023-12-22T03:03:05.1611492+00:00",
+  "LastUpdate_Achievements": "2023-12-22T03:09:03.2618783+00:00"
 }
