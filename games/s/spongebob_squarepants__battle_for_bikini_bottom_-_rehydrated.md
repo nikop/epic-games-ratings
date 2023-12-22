@@ -1,15 +1,15 @@
 # SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated
 [Store](https://store.epicgames.com/en-US/p/spongebob-squarepants-battle-for-bikini-bottom-rehydrated)  
 [View Rawdata](../../db/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.json)  
-Rating: 4.66 (Ranked 297)  
+Rating: 4.66 (Ranked 296)  
 Number of Ratings: 76  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spatula Seeker | 6.00% | ~13 |
-| Sponge Smasher | 5.00% | ~10 |
-| Jellyfish Jam | 4.00% | ~8 |
-| Jellyfishing | 3.00% | ~6 |
+| Spatula Seeker | 7.00% | ~15 |
+| Jellyfish Jam | 5.00% | ~11 |
+| Sponge Smasher | 5.00% | ~11 |
+| Jellyfishing | 4.00% | ~8 |
 | Shrimp Catcher | 3.00% | ~6 |
 | Toxic Terror | 3.00% | ~6 |
 | Sweet Victory | 3.00% | ~6 |
@@ -19,11 +19,11 @@ Number of Ratings: 76  (23.09.2022)
 | Squirrel Smasher | 2.00% | ~4 |
 | Surf's Up! | 2.00% | ~4 |
 | Time For Tutorial | 2.00% | ~4 |
-| Robot encyclopedia | 1.00% | ~2 |
 | Uptown and Downtown | 1.00% | ~2 |
 | Hello, Bikini Bottom | 1.00% | ~2 |
 | Hit Rock Bottom | 1.00% | ~2 |
 | Sock Getter | 1.00% | ~2 |
+| Robot encyclopedia | 0.90% | ~2 |
 | Are you ready now? | 0.50% | ~1 |
 | Super Spatula Seeker | 0.50% | ~1 |
 | The Small Does Not Rule | 0.00% | ~0 |
@@ -39,7 +39,7 @@ Number of Ratings: 76  (23.09.2022)
 | Ultra Spatula Seeker | 0.00% | ~0 |
 | Mega Spatula Seeker | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209 (Ranked 406)  
+Progressed: 211 (Ranked 404)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -48,7 +48,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-19 | 88 | 0 |
 | 2023-12-20 | 127 | 0 |
 | 2023-12-21 | 173 | 0 |
-| 2023-12-22 | 209 | 0 |
+| 2023-12-22 | 211 | 0 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 491)  
 Sum: 34 (Ranked 515)  

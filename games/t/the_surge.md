@@ -6,22 +6,22 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,725 |
-| I'll Be Back | 84.00% | ~4,223 |
-| Sorry, I Dropped This | 77.00% | ~3,871 |
-| First Day on the Job | 76.00% | ~3,821 |
-| Butcher's Bill | 54.00% | ~2,715 |
-| P.A.X | 37.00% | ~1,860 |
+| On My Own Two Feet | 94.00% | ~4,727 |
+| I'll Be Back | 84.00% | ~4,224 |
+| Sorry, I Dropped This | 77.00% | ~3,872 |
+| First Day on the Job | 76.00% | ~3,822 |
+| Butcher's Bill | 54.00% | ~2,716 |
+| P.A.X | 37.00% | ~1,861 |
 | Hey Listen | 36.00% | ~1,810 |
 | OPERATOR | 36.00% | ~1,810 |
-| It's Blue Light | 33.00% | ~1,659 |
-| Most Wanted | 26.00% | ~1,307 |
-| Infidel | 23.00% | ~1,156 |
+| It's Blue Light | 33.00% | ~1,660 |
+| Most Wanted | 26.00% | ~1,308 |
+| Infidel | 23.00% | ~1,157 |
 | GOLIATH | 21.00% | ~1,056 |
-| Firebug | 20.00% | ~1,005 |
+| Firebug | 20.00% | ~1,006 |
 | Nothing to Lose | 18.00% | ~905 |
 | I Choose You | 17.00% | ~855 |
-| Big Sister | 16.00% | ~804 |
+| Big Sister | 16.00% | ~805 |
 | Gear Up | 15.00% | ~754 |
 | SENTINEL | 15.00% | ~754 |
 | Core Power | 13.00% | ~654 |
@@ -31,10 +31,10 @@ Number of Ratings: 62  (23.09.2022)
 | Who's in Charge Here? | 11.00% | ~553 |
 | Shall Not Pass | 11.00% | ~553 |
 | Right Tool for the Job | 10.00% | ~503 |
-| Melting Down | 9.00% | ~452 |
-| Raging Drones | 9.00% | ~452 |
-| Overconfident | 9.00% | ~452 |
-| Is This Real Life? | 9.00% | ~452 |
+| Melting Down | 9.00% | ~453 |
+| Raging Drones | 9.00% | ~453 |
+| Overconfident | 9.00% | ~453 |
+| Is This Real Life? | 9.00% | ~453 |
 | Pusher Man | 8.00% | ~402 |
 | Squad Chief Helvig | 8.00% | ~402 |
 | No More Marching | 8.00% | ~402 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~30 |
 | The Surge | 0.40% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,027 (Ranked 200)  
+Progressed: 5,029 (Ranked 200)  
 Completed: 18 (0.36%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 18 (0.36%) (Ranked 235)
 | 2023-12-19 | 4,989 | 18 |
 | 2023-12-20 | 5,007 | 18 |
 | 2023-12-21 | 5,019 | 18 |
-| 2023-12-22 | 5,027 | 18 |
+| 2023-12-22 | 5,029 | 18 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 510)  
 Sum: 30 (Ranked 526)  

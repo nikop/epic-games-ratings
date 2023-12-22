@@ -9,8 +9,8 @@
 | Bug Hunter | 24.00% | ~141 |
 | Boss Killer | 23.00% | ~135 |
 | The Fallen | 20.00% | ~117 |
-| Artifact Collector | 19.00% | ~111 |
-| Trap Master | 18.00% | ~105 |
+| Artifact Collector | 19.00% | ~112 |
+| Trap Master | 18.00% | ~106 |
 | Ghost Buster | 15.00% | ~88 |
 | Iconoclasm | 15.00% | ~88 |
 | Reincarnation | 15.00% | ~88 |
@@ -18,7 +18,7 @@
 | Orcs Must Die! | 13.00% | ~76 |
 | Gladiator | 12.00% | ~70 |
 | The End | 12.00% | ~70 |
-| Lumberjack | 11.00% | ~64 |
+| Lumberjack | 11.00% | ~65 |
 | Troubleshooter | 10.00% | ~59 |
 | Money Swag | 8.00% | ~47 |
 | Oops | 7.00% | ~41 |
@@ -45,7 +45,7 @@
 | Cryomancer | 0.30% | ~2 |
 | Hardboiled | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 586 (Ranked 321)  
+Progressed: 587 (Ranked 321)  
 Completed: 1 (0.17%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 1 (0.17%) (Ranked 277)
 | 2023-12-19 | 561 | 1 |
 | 2023-12-20 | 572 | 1 |
 | 2023-12-21 | 581 | 1 |
-| 2023-12-22 | 586 | 1 |
+| 2023-12-22 | 587 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

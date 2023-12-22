@@ -435,9 +435,9 @@
       "ID": "Craft_First_Glyph",
       "SetID": "7b9f97e",
       "Name": "Artificer\u0027s Apprentice",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "Craft_First_Potion",
@@ -948,8 +948,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-12-22T17:09:03.8938542+00:00",
+  "LastChanged_Achievements": "2023-12-22T18:10:05.9407974+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:09.2965751+00:00",
-  "LastUpdate_Ratings": "2023-12-22T16:57:43.3955755+00:00",
-  "LastUpdate_Achievements": "2023-12-22T17:09:03.8939144+00:00"
+  "LastUpdate_Ratings": "2023-12-22T17:58:07.9098938+00:00",
+  "LastUpdate_Achievements": "2023-12-22T18:10:05.9408536+00:00"
 }

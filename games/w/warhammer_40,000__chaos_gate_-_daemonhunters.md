@@ -6,14 +6,14 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 13.00% | ~458 |
-| Look Over There! | 10.00% | ~352 |
-| Not So Fast... | 10.00% | ~352 |
-| Watch Where You Step... | 10.00% | ~352 |
-| An Ill Omen | 10.00% | ~352 |
+| Executioner | 13.00% | ~459 |
+| Watch Where You Step... | 11.00% | ~388 |
+| Look Over There! | 10.00% | ~353 |
+| Not So Fast... | 10.00% | ~353 |
+| An Ill Omen | 10.00% | ~353 |
 | Purging Spree | 8.00% | ~282 |
 | Blood for the Blood God! | 7.00% | ~247 |
-| Bloodless | 6.00% | ~211 |
+| Bloodless | 6.00% | ~212 |
 | Surgical Excision | 5.00% | ~176 |
 | Friendly Fire | 5.00% | ~176 |
 | Honoured Battle-Brother | 4.00% | ~141 |
@@ -22,13 +22,13 @@ Number of Ratings: 371  (23.09.2022)
 | Nemesis Master | 3.00% | ~106 |
 | Gunmaster | 3.00% | ~106 |
 | Just a Scratch | 3.00% | ~106 |
-| Daemonkeeper | 2.00% | ~70 |
-| Hold Your Ground | 2.00% | ~70 |
-| Corruption Cleanser | 2.00% | ~70 |
-| Efficient Killer | 2.00% | ~70 |
-| A Gift Spurned | 2.00% | ~70 |
-| Execution Force | 2.00% | ~70 |
-| Hive Exterminator | 2.00% | ~70 |
+| Daemonkeeper | 2.00% | ~71 |
+| Hold Your Ground | 2.00% | ~71 |
+| Corruption Cleanser | 2.00% | ~71 |
+| Efficient Killer | 2.00% | ~71 |
+| A Gift Spurned | 2.00% | ~71 |
+| Execution Force | 2.00% | ~71 |
+| Hive Exterminator | 2.00% | ~71 |
 | Exterminator | 1.00% | ~35 |
 | Mind Like a Fortress | 1.00% | ~35 |
 | Only in Death | 1.00% | ~35 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,524 (Ranked 214)  
+Progressed: 3,527 (Ranked 214)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-19 | 3,477 | 0 |
 | 2023-12-20 | 3,493 | 0 |
 | 2023-12-21 | 3,510 | 0 |
-| 2023-12-22 | 3,524 | 0 |
+| 2023-12-22 | 3,527 | 0 |
 ## Awards
 Max (Character Customization): 229  (Ranked 279)  
 Sum: 490 (Ranked 333)  

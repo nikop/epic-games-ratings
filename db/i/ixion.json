@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -323,9 +323,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3634,
+  "EOS_Progressed": 3637,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6883,6 +6883,11 @@
       "Time": "2023-12-22T17:04:40.5395687+00:00",
       "NumProgressed": 3634,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T18:05:57.0173838+00:00",
+      "NumProgressed": 3637,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -6894,7 +6899,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 908
+      "UsersEstimate": 909
     },
     {
       "ID": "ACH_BASE_10",
@@ -6958,7 +6963,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "ACH_BASE_19",
@@ -6974,7 +6979,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "ACH_BASE_21",
@@ -6982,7 +6987,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1091
     },
     {
       "ID": "ACH_BASE_22",
@@ -7006,7 +7011,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 981
+      "UsersEstimate": 982
     },
     {
       "ID": "ACH_BASE_25",
@@ -7022,7 +7027,7 @@
       "Name": "Sightseeing",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "ACH_BASE_27",
@@ -7046,7 +7051,7 @@
       "Name": "A Thousand Strong",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "ACH_BASE_3",
@@ -7094,7 +7099,7 @@
       "Name": "Ready for a New World",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "ACH_BASE_35",
@@ -7118,15 +7123,15 @@
       "Name": "Necessary Enhancement",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "ACH_BASE_38",
       "SetID": "92iocjf",
       "Name": "You Had One Job...",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_BASE_4",
@@ -7188,9 +7193,9 @@
       "ID": "ACH_BASE_48",
       "SetID": "92iocjf",
       "Name": "Permanent Redesigns",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 545
+      "UsersEstimate": 582
     },
     {
       "ID": "ACH_BASE_49",
@@ -7326,7 +7331,7 @@
       "Name": "From the Past",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "ACH_BASE_8",
@@ -7349,13 +7354,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1818,
+      "Progressed": 1821,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3634,
+      "Progressed": 3637,
       "Completed": 0
     }
   ],
@@ -7363,8 +7368,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-22T13:57:44.9340377+00:00",
-  "LastChanged_Achievements": "2023-12-22T17:04:40.5395686+00:00",
+  "LastChanged_Achievements": "2023-12-22T18:05:57.0173833+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.6786359+00:00",
-  "LastUpdate_Ratings": "2023-12-22T16:57:37.1255016+00:00",
-  "LastUpdate_Achievements": "2023-12-22T17:04:40.539627+00:00"
+  "LastUpdate_Ratings": "2023-12-22T17:57:58.8295189+00:00",
+  "LastUpdate_Achievements": "2023-12-22T18:05:57.0174617+00:00"
 }

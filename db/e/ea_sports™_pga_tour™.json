@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 688,
+  "EOS_Progressed": 689,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.45,
   "EosHistory": [
@@ -2480,6 +2480,11 @@
       "Time": "2023-12-22T16:10:58.7950331+00:00",
       "NumProgressed": 688,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-22T18:10:37.1608526+00:00",
+      "NumProgressed": 689,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -2532,7 +2537,7 @@
       "Name": "Golfer Versus Golfer",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "achievement_15",
@@ -2548,7 +2553,7 @@
       "Name": "Star Power",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "achievement_17",
@@ -2556,7 +2561,7 @@
       "Name": "Clean Sheet",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "achievement_18",
@@ -2572,7 +2577,7 @@
       "Name": "A Tradition Unlike Any Other",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "achievement_3",
@@ -2580,7 +2585,7 @@
       "Name": "A Passion for Excellence",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "achievement_4",
@@ -2596,7 +2601,7 @@
       "Name": "Golf\u0027s Original Championship",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "achievement_6",
@@ -2635,13 +2640,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 688,
+      "Progressed": 689,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-12-22T17:09:27.1489688+00:00",
+  "LastChanged_Achievements": "2023-12-22T18:10:37.1608521+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:04.0623721+00:00",
-  "LastUpdate_Ratings": "2023-12-22T17:00:06.3994882+00:00",
-  "LastUpdate_Achievements": "2023-12-22T17:09:27.1489921+00:00"
+  "LastUpdate_Ratings": "2023-12-22T18:01:36.5261422+00:00",
+  "LastUpdate_Achievements": "2023-12-22T18:10:37.16088+00:00"
 }

@@ -5,9 +5,9 @@
   "Ranking_Rating": 602,
   "Ranking_Popularity": 251,
   "Ranking_PopularitySum": 182,
-  "Ranking_EOS_Progress": 130,
+  "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3813,9 +3813,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32531,
+  "EOS_Progressed": 32535,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 256,
+  "EOS_NewPlayers": 255,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -23088,6 +23088,11 @@
       "Time": "2023-12-22T17:06:22.8183871+00:00",
       "NumProgressed": 32531,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-22T18:08:17.2926251+00:00",
+      "NumProgressed": 32535,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -23211,7 +23216,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 2602
+      "UsersEstimate": 2603
     },
     {
       "ID": "Escape_Artist",
@@ -23403,7 +23408,7 @@
       "Name": "Stylish",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3253
+      "UsersEstimate": 3254
     },
     {
       "ID": "Summoner",
@@ -23506,7 +23511,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32531,
+      "Progressed": 32535,
       "Completed": 69
     }
   ],
@@ -23514,8 +23519,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-22T17:00:21.547341+00:00",
-  "LastChanged_Achievements": "2023-12-22T17:06:22.8183869+00:00",
+  "LastChanged_Achievements": "2023-12-22T18:08:17.2926246+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:05.1146147+00:00",
-  "LastUpdate_Ratings": "2023-12-22T17:00:21.547342+00:00",
-  "LastUpdate_Achievements": "2023-12-22T17:06:22.8185537+00:00"
+  "LastUpdate_Ratings": "2023-12-22T18:02:39.0215015+00:00",
+  "LastUpdate_Achievements": "2023-12-22T18:08:17.2927367+00:00"
 }

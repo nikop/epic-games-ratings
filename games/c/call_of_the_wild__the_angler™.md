@@ -6,7 +6,7 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 12.00% | ~885 |
+| Fish Just Got Reel | 12.00% | ~886 |
 | Hey Good Hookin | 10.00% | ~738 |
 | More Fish in the Sea | 10.00% | ~738 |
 | Can you smell what the Rod is Hooking | 9.00% | ~664 |
@@ -34,7 +34,7 @@ Number of Ratings: 281  (23.09.2022)
 | Lake Me up Before You Go Go | 0.20% | ~15 |
 | Big Fish Small Pond | 0.20% | ~15 |
 | Golden Ridge Ranger | 0.20% | ~15 |
-| Three Square Meals | 0.20% | ~13 |
+| Three Square Meals | 0.20% | ~14 |
 | Head for Heights | 0.10% | ~7 |
 | Taylor Made | 0.10% | ~7 |
 | Lost and Flounder | 0.10% | ~7 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,377 (Ranked 188)  
+Progressed: 7,381 (Ranked 188)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-19 | 7,233 | 0 |
 | 2023-12-20 | 7,288 | 0 |
 | 2023-12-21 | 7,339 | 0 |
-| 2023-12-22 | 7,377 | 0 |
+| 2023-12-22 | 7,381 | 0 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 465)  
 Sum: 210 (Ranked 405)  

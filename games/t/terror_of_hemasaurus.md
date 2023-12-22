@@ -11,7 +11,7 @@
 | Aerosolized | 44.00% | ~38 |
 | Monstrosity Atrocity | 38.00% | ~33 |
 | Test of Faith | 34.00% | ~30 |
-| Reign of Terror | 32.00% | ~28 |
+| Reign of Terror | 33.00% | ~29 |
 | Crushing All Cars | 23.00% | ~20 |
 | Brain Chopper | 20.00% | ~17 |
 | Night Bird | 16.00% | ~14 |

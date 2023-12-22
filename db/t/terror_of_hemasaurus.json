@@ -4,7 +4,7 @@
   "ProductSlug": "terror-of-hemasaurus-a08800",
   "Ranking_EOS_Progress": 488,
   "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 491,
+  "Ranking_EOS_NewPlayers": 525,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-17T17:00:00+00:00",
@@ -32,7 +32,7 @@
   "Tags": [],
   "EOS_Progressed": 87,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.45,
   "EosHistory": [
@@ -431,9 +431,9 @@
       "ID": "ACH_5000_CIVILIANS",
       "SetID": "aio76gp",
       "Name": "Reign of Terror",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_50_CATCHES",
@@ -568,8 +568,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.2122868+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.8436935+00:00",
   "LastChanged": "2023-03-31T05:57:37.2122869+00:00",
-  "LastChanged_Achievements": "2023-12-22T17:04:21.7571276+00:00",
+  "LastChanged_Achievements": "2023-12-22T18:05:30.7167242+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:25.6506261+00:00",
-  "LastUpdate_Ratings": "2023-12-22T17:00:21.9202321+00:00",
-  "LastUpdate_Achievements": "2023-12-22T17:04:21.7571459+00:00"
+  "LastUpdate_Ratings": "2023-12-22T18:02:39.5666552+00:00",
+  "LastUpdate_Achievements": "2023-12-22T18:05:30.7167466+00:00"
 }

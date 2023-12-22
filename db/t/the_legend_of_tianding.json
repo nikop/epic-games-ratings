@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 544,
   "Ranking_EOS_Completed": 62,
   "Ranking_EOS_NewPlayers": 421,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-11-02T01:00:00+00:00",
     "PcReleaseDate": "2021-11-02T01:00:00+00:00",
@@ -349,9 +349,9 @@
       "ID": "Collector",
       "SetID": "123m9l1",
       "Name": "Collector",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ExpressTrainExplorer",
@@ -421,9 +421,9 @@
       "ID": "OmamoriExpert",
       "SetID": "123m9l1",
       "Name": "Taoist",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "RescueAKuai",
@@ -502,8 +502,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2023-12-22T17:04:27.9042348+00:00",
+  "LastChanged_Achievements": "2023-12-22T18:05:39.3489425+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:41.0518809+00:00",
-  "LastUpdate_Ratings": "2023-12-22T16:59:47.6737663+00:00",
-  "LastUpdate_Achievements": "2023-12-22T17:04:27.9042503+00:00"
+  "LastUpdate_Ratings": "2023-12-22T18:01:09.7258972+00:00",
+  "LastUpdate_Achievements": "2023-12-22T18:05:39.3489586+00:00"
 }

@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 812,
+  "EOS_Progressed": 814,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.11,
   "EosHistory": [
@@ -2130,6 +2130,11 @@
       "Time": "2023-12-22T17:09:13.2173601+00:00",
       "NumProgressed": 812,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-22T18:10:18.7739693+00:00",
+      "NumProgressed": 814,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 20,
@@ -2141,7 +2146,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 771
+      "UsersEstimate": 773
     },
     {
       "ID": "CHOICES_MATTER",
@@ -2189,7 +2194,7 @@
       "Name": "The Delivery",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "ENDING_6",
@@ -2213,7 +2218,7 @@
       "Name": "Even Tempered",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -2229,7 +2234,7 @@
       "Name": "Fair Share",
       "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "GOOD_KARMA",
@@ -2237,7 +2242,7 @@
       "Name": "Good Karma",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "INTERROGATION",
@@ -2253,7 +2258,7 @@
       "Name": "Office Clerk",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "PROFICIENT_STORYTELLER",
@@ -2269,7 +2274,7 @@
       "Name": "Protector",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "SABOTAGE",
@@ -2277,7 +2282,7 @@
       "Name": "Sabotage",
       "Percentage": 11,
       "XP": 75,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "SHILL_BIDDER",
@@ -2285,7 +2290,7 @@
       "Name": "Shill Bidder",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "STAR_CROSSED_LOVERS",
@@ -2300,7 +2305,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 812,
+      "Progressed": 814,
       "Completed": 9
     }
   ],
@@ -2308,8 +2313,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-12-22T17:09:13.2173596+00:00",
+  "LastChanged_Achievements": "2023-12-22T18:10:18.7739689+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:24.4540531+00:00",
-  "LastUpdate_Ratings": "2023-12-22T16:59:26.6205402+00:00",
-  "LastUpdate_Achievements": "2023-12-22T17:09:13.2173824+00:00"
+  "LastUpdate_Ratings": "2023-12-22T18:00:38.1791759+00:00",
+  "LastUpdate_Achievements": "2023-12-22T18:10:18.773989+00:00"
 }

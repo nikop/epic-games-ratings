@@ -335,9 +335,9 @@
       "ID": "AvianVeterinarian",
       "SetID": "d11cl5p",
       "Name": "Avian veterinarian",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "BehemothOfTheSkies",
@@ -439,9 +439,9 @@
       "ID": "NoviceCEO",
       "SetID": "d11cl5p",
       "Name": "Novice CEO",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "OrACEO",
@@ -598,8 +598,8 @@
   ],
   "FirstSeen": "2023-09-02T13:02:28.4911547+00:00",
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2023-12-22T17:05:32.5821152+00:00",
+  "LastChanged_Achievements": "2023-12-22T18:07:08.0281076+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:11.3523836+00:00",
-  "LastUpdate_Ratings": "2023-12-22T16:59:56.5426295+00:00",
-  "LastUpdate_Achievements": "2023-12-22T17:05:32.5821318+00:00"
+  "LastUpdate_Ratings": "2023-12-22T18:01:22.8229731+00:00",
+  "LastUpdate_Achievements": "2023-12-22T18:07:08.0281286+00:00"
 }

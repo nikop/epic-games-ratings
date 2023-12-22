@@ -5,32 +5,32 @@ Rating: 4.54 (Ranked 533)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 13.00% | ~13,016 |
-| I've Had Enough! | 10.00% | ~10,012 |
-| Fists, Fury & a lot of Rage | 7.00% | ~7,008 |
-| All For One and One For All | 6.00% | ~6,007 |
-| Seasoned Fighter | 6.00% | ~6,007 |
-| A New Age | 4.00% | ~4,005 |
-| Home Sweet Home? | 4.00% | ~4,005 |
-| Oh Baby, A Triple | 2.00% | ~2,002 |
-| Battle Hardened | 2.00% | ~2,002 |
-| Master of Disguise | 2.00% | ~2,002 |
-| Symbiotic | 2.00% | ~2,002 |
-| Double Punch! | 1.00% | ~1,001 |
-| It's Mayhem! | 1.00% | ~1,001 |
-| Right back at'cha | 1.00% | ~1,001 |
-| Spectacular Finisher | 1.00% | ~1,001 |
-| Cautious Veteran | 0.90% | ~901 |
-| Martyrdom | 0.90% | ~901 |
+| All Grown Up! | 13.00% | ~13,027 |
+| I've Had Enough! | 10.00% | ~10,020 |
+| Fists, Fury & a lot of Rage | 8.00% | ~8,016 |
+| All For One and One For All | 6.00% | ~6,012 |
+| Seasoned Fighter | 6.00% | ~6,012 |
+| A New Age | 4.00% | ~4,008 |
+| Home Sweet Home? | 4.00% | ~4,008 |
+| Oh Baby, A Triple | 2.00% | ~2,004 |
+| Battle Hardened | 2.00% | ~2,004 |
+| Master of Disguise | 2.00% | ~2,004 |
+| Symbiotic | 2.00% | ~2,004 |
+| Double Punch! | 1.00% | ~1,002 |
+| It's Mayhem! | 1.00% | ~1,002 |
+| Right back at'cha | 1.00% | ~1,002 |
+| Spectacular Finisher | 1.00% | ~1,002 |
+| Cautious Veteran | 0.90% | ~902 |
+| Martyrdom | 0.90% | ~902 |
 | Katamari | 0.70% | ~701 |
 | Zero-sum Game | 0.70% | ~701 |
 | Ninja Reflex | 0.60% | ~601 |
 | Taste Your Own Medicine | 0.50% | ~501 |
-| Sidetracked... | 0.40% | ~400 |
-| Eye of the Titan | 0.30% | ~300 |
-| Just Getting Warmed Up | 0.30% | ~300 |
-| This is GigaBash! | 0.30% | ~300 |
-| Top of the Food Chain | 0.30% | ~300 |
+| Sidetracked... | 0.40% | ~401 |
+| Eye of the Titan | 0.30% | ~301 |
+| Just Getting Warmed Up | 0.30% | ~301 |
+| This is GigaBash! | 0.30% | ~301 |
+| Top of the Food Chain | 0.30% | ~301 |
 | 5 Stages of Grief | 0.10% | ~100 |
 | Bastion of Humanity | 0.10% | ~100 |
 | Keeper of Knowledge | 0.10% | ~100 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 533)
 | What's Mine is Yours | 0.10% | ~100 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 100,121 (Ranked 94)  
+Progressed: 100,204 (Ranked 94)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -58,7 +58,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-19 | 95,039 | 0 |
 | 2023-12-20 | 96,698 | 0 |
 | 2023-12-21 | 98,723 | 0 |
-| 2023-12-22 | 100,121 | 0 |
+| 2023-12-22 | 100,204 | 0 |
 ## Awards
 Max (Great Boss Battles): 33  (Ranked 499)  
 Sum: 33 (Ranked 521)  

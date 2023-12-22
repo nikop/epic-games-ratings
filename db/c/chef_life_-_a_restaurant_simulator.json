@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 840,
+  "EOS_Progressed": 841,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3637,6 +3637,11 @@
       "Time": "2023-12-22T16:10:46.885079+00:00",
       "NumProgressed": 840,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T18:10:24.9071391+00:00",
+      "NumProgressed": 841,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -3704,7 +3709,7 @@
       "Name": "So Clean You Can Eat Off the Floor",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "Clothes10",
@@ -3806,9 +3811,9 @@
       "ID": "MenuGastronomic",
       "SetID": "d1bm05f",
       "Name": "Haute Cuisine",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 67
+      "UsersEstimate": 59
     },
     {
       "ID": "Money10000",
@@ -3824,7 +3829,7 @@
       "Name": "The Big Day",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "Packing20",
@@ -3872,7 +3877,7 @@
       "Name": "S is for Scrumptious",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ServiceMaxClient",
@@ -3967,7 +3972,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 840,
+      "Progressed": 841,
       "Completed": 0
     }
   ],
@@ -3975,8 +3980,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-12-22T17:09:17.663493+00:00",
+  "LastChanged_Achievements": "2023-12-22T18:10:24.9071344+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:31.9021331+00:00",
-  "LastUpdate_Ratings": "2023-12-22T16:59:32.0132566+00:00",
-  "LastUpdate_Achievements": "2023-12-22T17:09:17.6635402+00:00"
+  "LastUpdate_Ratings": "2023-12-22T18:00:45.7470989+00:00",
+  "LastUpdate_Achievements": "2023-12-22T18:10:24.9071836+00:00"
 }

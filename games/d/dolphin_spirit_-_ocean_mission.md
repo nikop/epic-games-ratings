@@ -9,6 +9,7 @@
 | New recruit | 21.00% | ~5 |
 | Interesting | 17.00% | ~4 |
 | Amateur photographer | 13.00% | ~3 |
+| Rescuer | 8.00% | ~2 |
 | Heroic member | 8.00% | ~2 |
 | In search of knowledge | 8.00% | ~2 |
 | Power of the turtle | 8.00% | ~2 |
@@ -18,7 +19,6 @@
 | Animal reporter | 4.00% | ~1 |
 | Recycling expert | 4.00% | ~1 |
 | Island gardian angel | 4.00% | ~1 |
-| Rescuer | 4.00% | ~1 |
 | Legend of the association | 4.00% | ~1 |
 | Picture of the bay | 4.00% | ~1 |
 | Picture of the atoll | 4.00% | ~1 |

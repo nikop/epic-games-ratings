@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Master trainee | 40.00% | ~25 |
-| You have three wishes left | 35.00% | ~22 |
+| Master trainee | 41.00% | ~26 |
+| You have three wishes left | 37.00% | ~23 |
 | Jung's dream | 27.00% | ~17 |
 | The battle of Great Britain | 27.00% | ~17 |
 | Pulp! Where Monsters Dwell | 24.00% | ~15 |
 | A continent with chemistry | 19.00% | ~12 |
-| Giant | 18.00% | ~11 |
-| The happy farmer girl | 18.00% | ~11 |
+| Giant | 17.00% | ~11 |
+| The happy farmer girl | 17.00% | ~11 |
 | Pulp! Terror Tales in the Night | 16.00% | ~10 |
 | Pulp! Out of this World | 16.00% | ~10 |
-| The artist | 15.00% | ~9 |
-| Pulp! Adventures into the Unknown | 15.00% | ~9 |
-| Diagnosis: fear | 15.00% | ~9 |
-| Ambition is... blind | 15.00% | ~9 |
-| You have two wishes left | 15.00% | ~9 |
+| The artist | 14.00% | ~9 |
+| Pulp! Adventures into the Unknown | 14.00% | ~9 |
+| Diagnosis: fear | 14.00% | ~9 |
+| Ambition is... blind | 14.00% | ~9 |
+| You have two wishes left | 14.00% | ~9 |
 | A rival with no options | 13.00% | ~8 |
 | The seer | 13.00% | ~8 |
 | You had one wish left | 11.00% | ~7 |
@@ -52,7 +52,7 @@
 | Pulp! Skeleton Hand | 2.00% | ~1 |
 | Pulp! The Vault of Horror | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62 (Ranked 516)  
+Progressed: 63 (Ranked 515)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,4 +89,4 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-16 | 58 | 0 |
 | 2023-12-17 | 60 | 0 |
 | 2023-12-18 | 61 | 0 |
-| 2023-12-22 | 62 | 0 |
+| 2023-12-22 | 63 | 0 |

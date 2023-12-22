@@ -2,12 +2,12 @@
   "ID": "396a808f269241aba0fe2ad322ebd6d5",
   "Name": "Circus Electrique",
   "ProductSlug": "circus-electrique",
-  "Ranking_Rating": 959,
+  "Ranking_Rating": 960,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewPlayers": 362,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -77,9 +77,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 492,
+  "EOS_Progressed": 493,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -587,6 +587,11 @@
       "Time": "2023-12-22T15:03:07.5217553+00:00",
       "NumProgressed": 492,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-22T18:04:05.1477776+00:00",
+      "NumProgressed": 493,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -654,7 +659,7 @@
       "Name": "Built in a Day",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -686,7 +691,7 @@
       "Name": "Fan Service",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -710,7 +715,7 @@
       "Name": "Club Member",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -724,9 +729,9 @@
       "ID": "ACHIEVEMENT_17",
       "SetID": "631ndc2",
       "Name": "Dirty Dozen",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 99
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -758,7 +763,7 @@
       "Name": "Hundred Percent Second",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -918,7 +923,7 @@
       "Name": "Self Defense",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -950,7 +955,7 @@
       "Name": "Spirits High",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACHIEVEMENT_46",
@@ -966,7 +971,7 @@
       "Name": "Mobile Infantry",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACHIEVEMENT_48",
@@ -997,7 +1002,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 492,
+      "Progressed": 493,
       "Completed": 1
     }
   ],
@@ -1005,8 +1010,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-12-22T17:03:20.0039994+00:00",
+  "LastChanged_Achievements": "2023-12-22T18:04:05.1477771+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:19.7923718+00:00",
-  "LastUpdate_Ratings": "2023-12-22T16:58:48.1759268+00:00",
-  "LastUpdate_Achievements": "2023-12-22T17:03:20.0040411+00:00"
+  "LastUpdate_Ratings": "2023-12-22T17:59:41.4912923+00:00",
+  "LastUpdate_Achievements": "2023-12-22T18:04:05.1478307+00:00"
 }

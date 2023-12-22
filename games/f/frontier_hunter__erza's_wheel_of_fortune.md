@@ -22,8 +22,8 @@
 | Nosebleeder | 25.00% | ~162 |
 | Trader | 21.00% | ~136 |
 | Weapon Boost | 21.00% | ~136 |
-| Flying Kobold Killer | 18.00% | ~116 |
-| Youth Magnet | 18.00% | ~116 |
+| Flying Kobold Killer | 19.00% | ~123 |
+| Youth Magnet | 19.00% | ~123 |
 | Furious Scorpion Killer | 17.00% | ~110 |
 | Master Artificer | 17.00% | ~110 |
 | Lethal Blade Mantis Killer | 16.00% | ~103 |
@@ -50,7 +50,7 @@
 | Giantess Challenge | 1.00% | ~6 |
 | Warden Challenge | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 646 (Ranked 309)  
+Progressed: 646 (Ranked 310)  
 Completed: 1 (0.15%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |

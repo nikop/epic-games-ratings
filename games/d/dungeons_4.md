@@ -4,38 +4,38 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 88.00% | ~537 |
-| Thalya – Simply Immortal | 88.00% | ~537 |
-| For the Horde! | 82.00% | ~500 |
-| Hammer Time, Round Two | 80.00% | ~488 |
+| The Last Stand | 88.00% | ~538 |
+| Thalya – Simply Immortal | 88.00% | ~538 |
+| For the Horde! | 82.00% | ~501 |
+| Hammer Time, Round Two | 80.00% | ~489 |
 | The Hellwoods | 77.00% | ~470 |
-| The Plains of Strothalm | 71.00% | ~433 |
-| Experienced Thalya | 71.00% | ~433 |
-| Thalya's Concentrated Fury | 69.00% | ~421 |
+| The Plains of Strothalm | 71.00% | ~434 |
+| Experienced Thalya | 71.00% | ~434 |
+| Thalya's Concentrated Fury | 69.00% | ~422 |
 | Bad Elves Go Everywhere | 68.00% | ~415 |
-| Heroes’ Gorge | 64.00% | ~390 |
-| Master of Magic | 63.00% | ~384 |
-| Unicorn steaks – fresh off the hoof! | 61.00% | ~372 |
+| Heroes’ Gorge | 64.00% | ~391 |
+| Master of Magic | 63.00% | ~385 |
+| Unicorn steaks – fresh off the hoof! | 61.00% | ~373 |
 | Magic Accidents | 59.00% | ~360 |
 | The Ascent | 58.00% | ~354 |
 | It's Warm and Cozy at Home | 58.00% | ~354 |
 | Trap Master | 55.00% | ~336 |
-| Minions, Minions! | 54.00% | ~329 |
-| Hard Work | 53.00% | ~323 |
-| The Big Eaty | 53.00% | ~323 |
-| YOU SHALL NOT PASS! | 50.00% | ~305 |
-| “… like son” | 50.00% | ~305 |
+| Minions, Minions! | 54.00% | ~330 |
+| Hard Work | 53.00% | ~324 |
+| The Big Eaty | 53.00% | ~324 |
+| YOU SHALL NOT PASS! | 50.00% | ~306 |
+| “… like son” | 50.00% | ~306 |
 | The Cathedral of Light | 48.00% | ~293 |
 | Shame! Shame! Shame! | 47.00% | ~287 |
-| Pure Dynamite! | 45.00% | ~274 |
-| Dungeonlord Gorgu | 45.00% | ~274 |
-| Tanos' Crusade Against Thalya | 45.00% | ~274 |
-| Mana Cannon | 41.00% | ~250 |
-| All’s Well That Ends Evil | 41.00% | ~250 |
+| Pure Dynamite! | 45.00% | ~275 |
+| Dungeonlord Gorgu | 45.00% | ~275 |
+| Tanos' Crusade Against Thalya | 45.00% | ~275 |
+| Mana Cannon | 41.00% | ~251 |
+| All’s Well That Ends Evil | 41.00% | ~251 |
 | The Duel | 36.00% | ~220 |
 | Unstoppable Horde | 35.00% | ~214 |
 | Master of the Undead | 35.00% | ~214 |
-| If Looks Could Kill | 34.00% | ~207 |
+| If Looks Could Kill | 34.00% | ~208 |
 | The Finitude Drill | 31.00% | ~189 |
 | Ghost Pirates? Ghost Heroes! | 30.00% | ~183 |
 | Forbidden Knowledge | 28.00% | ~171 |
@@ -44,13 +44,13 @@
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 27.00% | ~165 |
 | Stop Tanos! | 27.00% | ~165 |
 | Brimstone Shaken, Not Stirred | 26.00% | ~159 |
-| Sabotage! | 25.00% | ~152 |
-| Bonus Evilness | 24.00% | ~146 |
-| Raiders of the Lost Stone | 24.00% | ~146 |
-| The Rune Sockets of Finitude (Part 1) | 24.00% | ~146 |
+| Sabotage! | 25.00% | ~153 |
+| Bonus Evilness | 24.00% | ~147 |
+| Raiders of the Lost Stone | 24.00% | ~147 |
+| The Rune Sockets of Finitude (Part 1) | 24.00% | ~147 |
 | The Rune Sockets of Finitude (Part 2) | 22.00% | ~134 |
-| Rubble and Ashes | 20.00% | ~122 |
 | The Last Stand - This Time For Real! | 20.00% | ~122 |
+| Rubble and Ashes | 19.00% | ~116 |
 | My Little Torture Chamber | 18.00% | ~110 |
 | Lavalumps on Ice! | 18.00% | ~110 |
 | To the Max! | 18.00% | ~110 |
@@ -59,14 +59,14 @@
 | Evilification | 16.00% | ~98 |
 | Mirror, Mirror | 15.00% | ~92 |
 | Untouchable | 15.00% | ~92 |
-| Heal Heal Blessing | 14.00% | ~85 |
+| Heal Heal Blessing | 14.00% | ~86 |
 | Laser Eyes Are So Useless | 12.00% | ~73 |
 | Hands Off My Stones | 12.00% | ~73 |
 | Gorgu is in the Best of Health | 11.00% | ~67 |
 | No Mana, No Cry | 10.00% | ~61 |
 | I Don't Need Any Help | 9.00% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 610 (Ranked 316)  
+Progressed: 611 (Ranked 316)  
 Completed: 21 (3.44%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,4 +113,4 @@ Completed: 21 (3.44%) (Ranked 103)
 | 2023-12-19 | 592 | 19 |
 | 2023-12-20 | 598 | 20 |
 | 2023-12-21 | 604 | 20 |
-| 2023-12-22 | 610 | 21 |
+| 2023-12-22 | 611 | 21 |

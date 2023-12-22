@@ -2,7 +2,7 @@
   "ID": "64f5543ade2942d59ae4e0321915e0da",
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
-  "Ranking_EOS_Progress": 404,
+  "Ranking_EOS_Progress": 405,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 157,
@@ -946,9 +946,9 @@
       "ID": "AC_BOSS_00",
       "SetID": "16i2akc",
       "Name": "Hunger",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 113
     },
     {
       "ID": "AC_BOSS_01",
@@ -1042,9 +1042,9 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 109
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -1066,9 +1066,9 @@
       "ID": "AC_DISTANCE_1",
       "SetID": "16i2akc",
       "Name": "Excursion",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 168
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -1217,8 +1217,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-22T17:03:42.9194312+00:00",
+  "LastChanged_Achievements": "2023-12-22T18:04:38.5421414+00:00",
   "LastUpdate_AppInfo": "2023-12-19T20:57:15.8211494+00:00",
-  "LastUpdate_Ratings": "2023-12-22T16:57:39.4358173+00:00",
-  "LastUpdate_Achievements": "2023-12-22T17:03:42.9194645+00:00"
+  "LastUpdate_Ratings": "2023-12-22T17:58:02.4285705+00:00",
+  "LastUpdate_Achievements": "2023-12-22T18:04:38.5421756+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "b04882669b2e495e9f747c8560488c93",
   "Name": "Trackmania",
   "ProductSlug": "trackmania",
-  "Ranking_Rating": 297,
+  "Ranking_Rating": 296,
   "Ranking_Popularity": 83,
   "Ranking_PopularitySum": 40,
   "Ranking_EOS_Progress": 814,
@@ -14814,10 +14814,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 34166,
       "NumberOfAwardsMax": 4219
+    },
+    {
+      "Time": "2023-12-22T18:02:45.0535185+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 34168,
+      "NumberOfAwardsMax": 4219
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 34166,
+  "NumberOfAwards": 34168,
   "NumberOfAwardsMax": 4219,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -14873,7 +14879,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 2784
+      "Count": 2786
     },
     {
       "Text": "This game has Challenging Combat",
@@ -14905,8 +14911,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2023-12-22T16:02:28.0998055+00:00",
+  "LastChanged": "2023-12-22T18:02:45.0535183+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:05.3789885+00:00",
-  "LastUpdate_Ratings": "2023-12-22T17:00:25.3078565+00:00",
-  "LastUpdate_Achievements": "2023-12-22T17:09:29.9597754+00:00"
+  "LastUpdate_Ratings": "2023-12-22T18:02:45.0535189+00:00",
+  "LastUpdate_Achievements": "2023-12-22T18:10:41.0065259+00:00"
 }

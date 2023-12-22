@@ -6,32 +6,33 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 9.00% | ~361 |
-| Lost and Found | 6.00% | ~240 |
-| This guy... again? | 5.00% | ~200 |
+| Malpractice Assurance | 9.00% | ~362 |
+| Lost and Found | 6.00% | ~242 |
+| This guy... again? | 5.00% | ~201 |
 | This Belongs in a Museum | 4.00% | ~5,166 |
 | Overdue Notice | 4.00% | ~5,166 |
 | Autodidact | 4.00% | ~5,166 |
-| Ploughshares to Swords | 4.00% | ~160 |
-| Bloody Graduation | 4.00% | ~160 |
-| Don't Make Me Turn This Coach Around | 3.00% | ~3,874 |
-| Serenity Now! | 3.00% | ~3,874 |
-| Not Today! | 3.00% | ~3,874 |
-| Creep and Sleep | 3.00% | ~3,874 |
-| Meat and Greet | 3.00% | ~3,874 |
-| Catch and Decease | 3.00% | ~3,874 |
-| Escape from the Black Hole | 3.00% | ~3,874 |
-| Rush Hour | 3.00% | ~3,874 |
-| To Grandmother's House | 3.00% | ~3,874 |
-| FNG | 3.00% | ~3,874 |
-| Friends 'Til the End | 3.00% | ~120 |
-| It Rings a Bell | 2.00% | ~2,583 |
+| Ploughshares to Swords | 4.00% | ~161 |
+| Bloody Graduation | 4.00% | ~161 |
+| Don't Make Me Turn This Coach Around | 3.00% | ~3,875 |
+| Serenity Now! | 3.00% | ~3,875 |
+| It Rings a Bell | 3.00% | ~3,875 |
+| Not Today! | 3.00% | ~3,875 |
+| Creep and Sleep | 3.00% | ~3,875 |
+| Meat and Greet | 3.00% | ~3,875 |
+| Catch and Decease | 3.00% | ~3,875 |
+| Escape from the Black Hole | 3.00% | ~3,875 |
+| Rush Hour | 3.00% | ~3,875 |
+| To Grandmother's House | 3.00% | ~3,875 |
+| FNG | 3.00% | ~3,875 |
+| Friends 'Til the End | 3.00% | ~121 |
 | Resurrection | 2.00% | ~2,583 |
 | Unleash Hell | 2.00% | ~2,583 |
 | Funny Guy | 2.00% | ~2,583 |
 | Long Live the King | 2.00% | ~2,583 |
 | Wyrdly Reconstructed | 2.00% | ~2,583 |
 | Unfulfilled Desires | 2.00% | ~2,583 |
+| Predator | 2.00% | ~2,583 |
 | Dissector | 2.00% | ~2,583 |
 | Banishment | 2.00% | ~2,583 |
 | Deprogramming | 2.00% | ~2,583 |
@@ -48,17 +49,16 @@ Number of Ratings: 7,767  (23.09.2022)
 | Nope | 2.00% | ~2,583 |
 | Unshackled | 2.00% | ~2,583 |
 | Road Trip | 2.00% | ~2,583 |
-| Boxcar Kid | 1.00% | ~1,291 |
-| This Looks Familiar | 1.00% | ~1,291 |
-| Hope Rekindled | 1.00% | ~1,291 |
-| Predator | 1.00% | ~1,291 |
-| Ichthyophobic | 1.00% | ~1,291 |
-| No More Mouths to Feed | 1.00% | ~1,291 |
-| When You Want Something Done Right | 1.00% | ~1,291 |
-| Worldly Traveller | 1.00% | ~1,291 |
-| Utopia | 1.00% | ~1,291 |
-| Hot Air | 1.00% | ~1,291 |
-| Eyes Up | 1.00% | ~1,291 |
+| Boxcar Kid | 1.00% | ~1,292 |
+| This Looks Familiar | 1.00% | ~1,292 |
+| Hope Rekindled | 1.00% | ~1,292 |
+| Ichthyophobic | 1.00% | ~1,292 |
+| No More Mouths to Feed | 1.00% | ~1,292 |
+| When You Want Something Done Right | 1.00% | ~1,292 |
+| Worldly Traveller | 1.00% | ~1,292 |
+| Utopia | 1.00% | ~1,292 |
+| Hot Air | 1.00% | ~1,292 |
+| Eyes Up | 1.00% | ~1,292 |
 | Slap on the Wrist | 0.90% | ~36 |
 | For Old Time' Sake | 0.80% | ~32 |
 | Handled | 0.70% | ~904 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,138 (Ranked 86)  
+Progressed: 129,158 (Ranked 86)  
 Completed: 3 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 3 (0.00%) (Ranked 384)
 | 2023-12-19 | 128,605 | 3 |
 | 2023-12-20 | 128,785 | 3 |
 | 2023-12-21 | 128,979 | 3 |
-| 2023-12-22 | 129,138 | 3 |
+| 2023-12-22 | 129,158 | 3 |
 ## Awards
 Max (Character Customization): 7,823  (Ranked 50)  
 Sum: 20,920 (Ranked 58)  

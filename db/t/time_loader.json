@@ -2,7 +2,7 @@
   "ID": "38d778eab1134c7f9bc4e0e5747b3ea4",
   "Name": "Time Loader",
   "ProductSlug": "time-loader",
-  "Ranking_EOS_Progress": 440,
+  "Ranking_EOS_Progress": 441,
   "Ranking_EOS_Completed": 61,
   "Ranking_EOS_NewPlayers": 491,
   "Ranking_EOS_NewCompleters": 157,
@@ -248,17 +248,17 @@
       "ID": "01_WRENCH",
       "SetID": "681m9fa",
       "Name": "Wrench",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "02_Soap",
       "SetID": "681m9fa",
       "Name": "Soap",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "03_Cassette",
@@ -336,9 +336,9 @@
       "ID": "12_Purrfect",
       "SetID": "681m9fa",
       "Name": "Purr-fect",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "13_DrAntivirus",
@@ -360,17 +360,17 @@
       "ID": "15_Screwdriver",
       "SetID": "681m9fa",
       "Name": "Screwdriver",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 82
     },
     {
       "ID": "16_Springs",
       "SetID": "681m9fa",
       "Name": "Springs",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 78
     },
     {
       "ID": "17_Capacitors",
@@ -489,8 +489,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.0272628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.4088384+00:00",
   "LastChanged": "2023-03-31T05:58:23.0272628+00:00",
-  "LastChanged_Achievements": "2023-12-22T17:09:22.7797823+00:00",
+  "LastChanged_Achievements": "2023-12-22T18:10:31.166913+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.0788621+00:00",
-  "LastUpdate_Ratings": "2023-12-22T16:57:31.2310277+00:00",
-  "LastUpdate_Achievements": "2023-12-22T17:09:22.7797949+00:00"
+  "LastUpdate_Ratings": "2023-12-22T17:57:50.545963+00:00",
+  "LastUpdate_Achievements": "2023-12-22T18:10:31.1669351+00:00"
 }

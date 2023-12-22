@@ -2,13 +2,13 @@
   "ID": "f10440a3a8fa4c29ae5be55c949ba58f",
   "Name": "Tangles",
   "ProductSlug": "tangles-e99298",
-  "Ranking_EOS_Progress": 448,
+  "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-12-21T00:00:00+00:00",
-    "PcReleaseDate": "2023-12-21T14:30:00+00:00",
+    "PcReleaseDate": "2023-12-21T13:00:00+00:00",
     "isBlockchainUsed": false,
     "isEpicFirstRun": false,
     "EpicFirstRunAdded": null,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 125,
+  "EOS_Progressed": 195,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -174,6 +174,11 @@
       "Time": "2023-12-22T17:09:04.4354797+00:00",
       "NumProgressed": 125,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T18:10:06.6896405+00:00",
+      "NumProgressed": 195,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-04T20:08:44.4848254+00:00",
@@ -184,25 +189,25 @@
       "ID": "CompleteGame",
       "SetID": "ao2gjap",
       "Name": "Final Destination",
-      "Percentage": 53,
+      "Percentage": 46,
       "XP": 200,
-      "UsersEstimate": 66
+      "UsersEstimate": 90
     },
     {
       "ID": "Document1",
       "SetID": "ao2gjap",
       "Name": "The Seeker in the Shadows",
-      "Percentage": 20,
+      "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 31
     },
     {
       "ID": "Document2",
       "SetID": "ao2gjap",
       "Name": "Document Discoverer",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "Document3",
@@ -210,7 +215,7 @@
       "Name": "Secrets Revealer",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "Document4",
@@ -218,13 +223,13 @@
       "Name": "Truth Seeker",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "Document5",
       "SetID": "ao2gjap",
       "Name": "Master of Secrets",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -232,7 +237,7 @@
       "ID": "Perservant",
       "SetID": "ao2gjap",
       "Name": "Perseverant",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 150,
       "UsersEstimate": 2
     },
@@ -240,23 +245,23 @@
       "ID": "Untraceable2",
       "SetID": "ao2gjap",
       "Name": "Untraceable",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 150,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
     {
       "ID": "ao2gjap",
       "IsBase": true,
-      "Progressed": 125,
+      "Progressed": 195,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-22T16:57:58.2471903+00:00",
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2023-12-22T17:09:04.4354795+00:00",
+  "LastChanged_Achievements": "2023-12-22T18:10:06.68964+00:00",
   "LastUpdate_AppInfo": "2023-12-17T19:57:03.2997714+00:00",
-  "LastUpdate_Ratings": "2023-12-22T16:57:58.2471922+00:00",
-  "LastUpdate_Achievements": "2023-12-22T17:09:04.4354865+00:00"
+  "LastUpdate_Ratings": "2023-12-22T17:58:28.806901+00:00",
+  "LastUpdate_Achievements": "2023-12-22T18:10:06.6896481+00:00"
 }

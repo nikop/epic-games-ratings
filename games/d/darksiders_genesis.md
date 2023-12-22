@@ -8,11 +8,11 @@ Number of Ratings: 67  (23.09.2022)
 | ---- | ---------- | ----- |
 | Soul Cache | 3.00% | ~4 |
 | Mammon | 2.00% | ~3 |
+| Master of War | 2.00% | ~3 |
 | Mint I | 2.00% | ~3 |
 | Astarte | 0.80% | ~1 |
 | Close the Rift | 0.80% | ~1 |
 | Master of Strife | 0.80% | ~1 |
-| Master of War | 0.80% | ~1 |
 | The Dead Court | 0.80% | ~1 |
 | Why'd It Have to Be Snakes? | 0.80% | ~1 |
 | A Bullet for All Seasons | 0.00% | ~0 |
@@ -37,7 +37,7 @@ Number of Ratings: 67  (23.09.2022)
 | Walking Armory | 0.00% | ~0 |
 | Wicked Killington | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128 (Ranked 444)  
+Progressed: 128 (Ranked 445)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |

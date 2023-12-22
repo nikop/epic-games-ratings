@@ -6,8 +6,8 @@
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 148,
-  "Ranking_EOS_Completed": 353,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_Completed": 352,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19130,
+  "EOS_Progressed": 19131,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13974,6 +13974,11 @@
       "Time": "2023-12-22T16:04:27.1806352+00:00",
       "NumProgressed": 19130,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-22T18:04:02.2556948+00:00",
+      "NumProgressed": 19131,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -13993,7 +13998,7 @@
       "Name": "License to Thrill",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "0003",
@@ -14041,7 +14046,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3443
+      "UsersEstimate": 3444
     },
     {
       "ID": "0009",
@@ -14113,7 +14118,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3443
+      "UsersEstimate": 3444
     },
     {
       "ID": "0018",
@@ -14177,7 +14182,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3443
+      "UsersEstimate": 3444
     },
     {
       "ID": "0026",
@@ -14217,7 +14222,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3443
+      "UsersEstimate": 3444
     },
     {
       "ID": "0031",
@@ -14272,7 +14277,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19130,
+      "Progressed": 19131,
       "Completed": 4
     }
   ],
@@ -14280,8 +14285,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-11-20T16:57:01.0774379+00:00",
-  "LastChanged_Achievements": "2023-12-22T17:03:18.1704821+00:00",
+  "LastChanged_Achievements": "2023-12-22T18:04:02.2556945+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:23.0079073+00:00",
-  "LastUpdate_Ratings": "2023-12-22T16:58:49.8202631+00:00",
-  "LastUpdate_Achievements": "2023-12-22T17:03:18.1705674+00:00"
+  "LastUpdate_Ratings": "2023-12-22T17:59:43.977162+00:00",
+  "LastUpdate_Achievements": "2023-12-22T18:04:02.2557737+00:00"
 }

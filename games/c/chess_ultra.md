@@ -5,28 +5,28 @@ Rating: 4.31 (Ranked 846)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 71.00% | ~158,549 |
-| Doubled Pawn | 57.00% | ~127,286 |
-| Check | 55.00% | ~122,819 |
-| Absolute pin | 47.00% | ~104,955 |
-| Promotion | 31.00% | ~69,225 |
-| Checkmate | 30.00% | ~66,992 |
-| O-O | 24.00% | ~53,594 |
-| Spanish Bishop | 21.00% | ~46,895 |
-| Queen Sacrifice | 20.00% | ~44,662 |
-| Stalemate | 18.00% | ~40,195 |
-| O-O-O | 13.00% | ~29,030 |
-| Octopus | 13.00% | ~29,030 |
-| Stranger Danger | 12.00% | ~26,797 |
-| En Passant | 9.00% | ~20,098 |
+| Chop Wood | 71.00% | ~158,556 |
+| Doubled Pawn | 57.00% | ~127,291 |
+| Check | 55.00% | ~122,825 |
+| Absolute pin | 47.00% | ~104,959 |
+| Promotion | 31.00% | ~69,229 |
+| Checkmate | 30.00% | ~66,995 |
+| O-O | 24.00% | ~53,596 |
+| Spanish Bishop | 21.00% | ~46,897 |
+| Queen Sacrifice | 20.00% | ~44,664 |
+| Stalemate | 18.00% | ~40,197 |
+| O-O-O | 13.00% | ~29,031 |
+| Octopus | 13.00% | ~29,031 |
+| Stranger Danger | 12.00% | ~26,798 |
+| En Passant | 9.00% | ~20,099 |
 | Double Check | 7.00% | ~15,632 |
-| Family Fork | 6.00% | ~13,398 |
-| Piece Collector | 6.00% | ~13,398 |
-| ELO | 5.00% | ~11,165 |
-| Friendly Fire | 5.00% | ~11,165 |
-| Underpromote | 4.00% | ~8,932 |
-| ELO ELO | 3.00% | ~6,699 |
-| Learner | 3.00% | ~6,699 |
+| Family Fork | 6.00% | ~13,399 |
+| Piece Collector | 6.00% | ~13,399 |
+| ELO | 5.00% | ~11,166 |
+| Friendly Fire | 5.00% | ~11,166 |
+| Underpromote | 4.00% | ~8,933 |
+| ELO ELO | 3.00% | ~6,700 |
+| Learner | 3.00% | ~6,700 |
 | Blind Pigs | 2.00% | ~4,466 |
 | ELO ELO ELO | 2.00% | ~4,466 |
 | Bobby Time | 1.00% | ~2,233 |
@@ -44,7 +44,7 @@ Rating: 4.31 (Ranked 846)
 | Tournament Master | 0.10% | ~223 |
 | Tournament Pro | 0.10% | ~223 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,308 (Ranked 73)  
+Progressed: 223,318 (Ranked 73)  
 Completed: 2 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 2 (0.00%) (Ranked 384)
 | 2023-12-19 | 222,848 | 2 |
 | 2023-12-20 | 222,992 | 2 |
 | 2023-12-21 | 223,171 | 2 |
-| 2023-12-22 | 223,308 | 2 |
+| 2023-12-22 | 223,318 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

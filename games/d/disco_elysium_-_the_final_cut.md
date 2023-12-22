@@ -6,19 +6,19 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~37,724 |
-| Biggest Communism Builder | 24.00% | ~32,335 |
-| The World's Most Laughable Centrist | 20.00% | ~26,946 |
-| Il Coppo Del'Arte! | 18.00% | ~24,251 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,557 |
-| Hyperstellar Law Official | 15.00% | ~20,209 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~18,862 |
-| Gurdi-Ball Is Lit | 14.00% | ~18,862 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~17,515 |
-| Truly Rabid *Traditionalist* | 11.00% | ~14,820 |
+| Goodest Of The Good Cops | 28.00% | ~37,726 |
+| Biggest Communism Builder | 24.00% | ~32,337 |
+| The World's Most Laughable Centrist | 20.00% | ~26,947 |
+| Il Coppo Del'Arte! | 18.00% | ~24,252 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,558 |
+| Hyperstellar Law Official | 15.00% | ~20,210 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~18,863 |
+| Gurdi-Ball Is Lit | 14.00% | ~18,863 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~17,516 |
+| Truly Rabid *Traditionalist* | 11.00% | ~14,821 |
 | Unbelievably Boring **** | 9.00% | ~12,126 |
 | The Figurines Won't Win Her Back | 9.00% | ~12,126 |
-| Enemy Of The Physical Realm | 8.00% | ~10,778 |
+| Enemy Of The Physical Realm | 8.00% | ~10,779 |
 | Hardie's Heroes | 6.00% | ~8,084 |
 | The Lawbringer | 4.00% | ~5,389 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,389 |
@@ -47,8 +47,8 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~135 |
 | What body? | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,729 (Ranked 85)  
-Completed: 28 (0.02%) (Ranked 353)  
+Progressed: 134,736 (Ranked 85)  
+Completed: 28 (0.02%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -293,10 +293,10 @@ Completed: 28 (0.02%) (Ranked 353)
 | 2023-12-19 | 134,139 | 28 |
 | 2023-12-20 | 134,371 | 28 |
 | 2023-12-21 | 134,562 | 28 |
-| 2023-12-22 | 134,729 | 28 |
+| 2023-12-22 | 134,736 | 28 |
 ## Awards
 Max (Character Customization): 754  (Ranked 184)  
-Sum: 1,148 (Ranked 256)  
+Sum: 1,149 (Ranked 256)  
 Diff (max vs sum): -72  
 | Award | Count |
 | ----- | ----- |
@@ -305,9 +305,9 @@ Diff (max vs sum): -72
 | This game is Educational | 47 |
 | This game has Quickly Understood Controls | 45 |
 | This game is Highly Recommended | 45 |
+| This game has Amazing Characters | 39 |
 | This game has Unique Visuals | 38 |
 | This game is Relaxing | 38 |
-| This game has Amazing Characters | 38 |
 | This game has Diverse Characters | 36 |
 | This game is Extremely Fun | 32 |
 | This game has Obsessive Gameplay | 26 |
@@ -484,4 +484,4 @@ Diff (max vs sum): -72
 | 2023-12-17 | 4.87 | - | 748 | 1,142 |
 | 2023-12-19 | 4.87 | - | 750 | 1,144 |
 | 2023-12-20 | 4.87 | - | 751 | 1,145 |
-| 2023-12-22 | 4.87 | - | 754 | 1,148 |
+| 2023-12-22 | 4.87 | - | 754 | 1,149 |

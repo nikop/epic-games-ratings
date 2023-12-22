@@ -5,10 +5,10 @@
   "Ranking_Rating": 602,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
-  "Ranking_EOS_Progress": 262,
+  "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -63,9 +63,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1281,
+  "EOS_Progressed": 1282,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -3173,6 +3173,11 @@
       "Time": "2023-12-22T17:09:53.1326944+00:00",
       "NumProgressed": 1281,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-22T18:11:12.3396918+00:00",
+      "NumProgressed": 1282,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-10-23T06:09:19.5228409+00:00",
@@ -3185,7 +3190,7 @@
       "Name": "Blue Dreams",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "EV_ACH02",
@@ -3217,7 +3222,7 @@
       "Name": "Tear of Freedom",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "EV_ACH06",
@@ -3249,7 +3254,7 @@
       "Name": "You Get Used To It",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "EV_ACH10",
@@ -3281,15 +3286,15 @@
       "Name": "It Is Not Over",
       "Percentage": 35,
       "XP": 90,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "EV_ACH14",
       "SetID": "6jeac23",
       "Name": "Boom Things",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 666
+      "UsersEstimate": 679
     },
     {
       "ID": "EV_ACH15",
@@ -3297,7 +3302,7 @@
       "Name": "Better On Ice",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     },
     {
       "ID": "EV_ACH16",
@@ -3353,7 +3358,7 @@
       "Name": "Bullseye",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "EV_ACH23",
@@ -3377,7 +3382,7 @@
       "Name": "Rhythm Of Willump",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "EV_ACH26",
@@ -3393,7 +3398,7 @@
       "Name": "I Broke It",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "EV_ACH28",
@@ -3425,7 +3430,7 @@
       "Name": "Feels Familiar",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "EV_ACH32",
@@ -3441,7 +3446,7 @@
       "Name": "Notai Notes",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 858
+      "UsersEstimate": 859
     },
     {
       "ID": "EV_ACH34",
@@ -3465,7 +3470,7 @@
       "Name": "The Relentless Storm",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "EV_ACH37",
@@ -3536,7 +3541,7 @@
     {
       "ID": "6jeac23",
       "IsBase": true,
-      "Progressed": 1281,
+      "Progressed": 1282,
       "Completed": 9
     }
   ],
@@ -3544,8 +3549,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-20T19:57:10.1945786+00:00",
-  "LastChanged_Achievements": "2023-12-22T17:09:53.1326941+00:00",
+  "LastChanged_Achievements": "2023-12-22T18:11:12.3396914+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:41.6283728+00:00",
-  "LastUpdate_Ratings": "2023-12-22T16:58:01.153118+00:00",
-  "LastUpdate_Achievements": "2023-12-22T17:09:53.132736+00:00"
+  "LastUpdate_Ratings": "2023-12-22T17:58:32.9448485+00:00",
+  "LastUpdate_Achievements": "2023-12-22T18:11:12.339746+00:00"
 }

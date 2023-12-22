@@ -87,9 +87,9 @@
       "ID": "ach_50_items",
       "SetID": "c0bphk8",
       "Name": "Sharp-sighted!",
-      "Percentage": 83,
+      "Percentage": 100,
       "XP": 130,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_50_levels",
@@ -182,8 +182,8 @@
   ],
   "FirstSeen": "2023-12-03T06:00:02.0591024+00:00",
   "FirstSeenAchievements": "2023-07-19T06:01:22.7935728+00:00",
-  "LastChanged_Achievements": "2023-12-22T17:05:50.5213404+00:00",
+  "LastChanged_Achievements": "2023-12-22T18:07:32.838142+00:00",
   "LastUpdate_AppInfo": "2023-12-20T19:57:04.9469738+00:00",
-  "LastUpdate_Ratings": "2023-12-22T16:59:27.9425269+00:00",
-  "LastUpdate_Achievements": "2023-12-22T17:05:50.5213484+00:00"
+  "LastUpdate_Ratings": "2023-12-22T18:00:40.596076+00:00",
+  "LastUpdate_Achievements": "2023-12-22T18:07:32.8381492+00:00"
 }

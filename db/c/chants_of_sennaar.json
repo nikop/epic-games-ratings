@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 74,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -55,9 +55,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1565,
+  "EOS_Progressed": 1566,
   "EOS_Completed": 85,
-  "EOS_NewPlayers": 464,
+  "EOS_NewPlayers": 459,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 5.43,
   "EosHistory": [
@@ -4880,6 +4880,11 @@
       "Time": "2023-12-22T17:08:12.6956027+00:00",
       "NumProgressed": 1565,
       "NumCompleted": 85
+    },
+    {
+      "Time": "2023-12-22T18:09:09.2217384+00:00",
+      "NumProgressed": 1566,
+      "NumCompleted": 85
     }
   ],
   "TotalAchievements": 25,
@@ -4899,7 +4904,7 @@
       "Name": "In this together",
       "Percentage": 19,
       "XP": 200,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "META_ALL_LINK",
@@ -4979,7 +4984,7 @@
       "Name": "A Link to the Past",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -4987,15 +4992,15 @@
       "Name": "Alchemists Express",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "OPTIONNAL_BELL",
       "SetID": "2gma9an",
       "Name": "Rascal",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 297
+      "UsersEstimate": 313
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -5011,7 +5016,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -5027,15 +5032,15 @@
       "Name": "Champollion",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 782
+      "UsersEstimate": 799
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -5049,9 +5054,9 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 704
+      "UsersEstimate": 720
     },
     {
       "ID": "PROGRESS_N2",
@@ -5081,16 +5086,16 @@
       "ID": "PROGRESS_N5",
       "SetID": "2gma9an",
       "Name": "One last step",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 80,
-      "UsersEstimate": 329
+      "UsersEstimate": 345
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1565,
+      "Progressed": 1566,
       "Completed": 85
     }
   ],
@@ -5098,8 +5103,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-22T13:59:24.7803739+00:00",
-  "LastChanged_Achievements": "2023-12-22T17:08:12.6956025+00:00",
+  "LastChanged_Achievements": "2023-12-22T18:09:09.221738+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:30.8935759+00:00",
-  "LastUpdate_Ratings": "2023-12-22T16:59:19.6534352+00:00",
-  "LastUpdate_Achievements": "2023-12-22T17:08:12.6956432+00:00"
+  "LastUpdate_Ratings": "2023-12-22T18:00:27.5251547+00:00",
+  "LastUpdate_Achievements": "2023-12-22T18:09:09.2217811+00:00"
 }

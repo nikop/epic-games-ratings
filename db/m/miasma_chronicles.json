@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewPlayers": 317,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -4236,9 +4236,9 @@
       "ID": "EDITOR_ADEPT",
       "SetID": "9a4jnji",
       "Name": "Editor Adept",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 768
+      "UsersEstimate": 784
     },
     {
       "ID": "ENDGAME",
@@ -4509,8 +4509,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-12-18T20:02:59.2153729+00:00",
-  "LastChanged_Achievements": "2023-12-22T17:09:53.5289122+00:00",
+  "LastChanged_Achievements": "2023-12-22T18:11:12.9040455+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:53.0198818+00:00",
-  "LastUpdate_Ratings": "2023-12-22T17:02:59.423298+00:00",
-  "LastUpdate_Achievements": "2023-12-22T17:09:53.5289566+00:00"
+  "LastUpdate_Ratings": "2023-12-22T18:03:32.5595841+00:00",
+  "LastUpdate_Achievements": "2023-12-22T18:11:12.9041045+00:00"
 }

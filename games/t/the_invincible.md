@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 64.00% | ~561 |
-| The Teleprobe | 51.00% | ~447 |
-| The City | 46.00% | ~403 |
-| The field base | 42.00% | ~368 |
-| Survivors | 35.00% | ~307 |
-| The Alliance | 34.00% | ~298 |
-| The Condor | 33.00% | ~289 |
-| The End | 33.00% | ~289 |
-| Krauta is alive | 26.00% | ~228 |
-| The Necroevolution | 26.00% | ~228 |
-| Peacemaker | 21.00% | ~184 |
-| Volcanologist | 20.00% | ~175 |
+| The Camp | 64.00% | ~563 |
+| The Teleprobe | 51.00% | ~449 |
+| The City | 46.00% | ~405 |
+| The field base | 42.00% | ~370 |
+| Survivors | 35.00% | ~308 |
+| The Alliance | 34.00% | ~299 |
+| The Condor | 33.00% | ~290 |
+| The End | 32.00% | ~282 |
+| The Necroevolution | 26.00% | ~229 |
+| Krauta is alive | 25.00% | ~220 |
+| Peacemaker | 21.00% | ~185 |
+| Volcanologist | 20.00% | ~176 |
 | On her own | 18.00% | ~158 |
 | Evacuation | 18.00% | ~158 |
-| Fierce fight | 17.00% | ~149 |
-| Beyond divisions | 17.00% | ~149 |
-| Flying Objects Operator | 15.00% | ~131 |
+| Fierce fight | 17.00% | ~150 |
+| Beyond divisions | 17.00% | ~150 |
+| Flying Objects Operator | 15.00% | ~132 |
 | I remember everything! | 13.00% | ~114 |
-| Another giant | 12.00% | ~105 |
+| Another giant | 12.00% | ~106 |
 | Violent solution | 9.00% | ~79 |
 | I leave no man behind | 8.00% | ~70 |
 | Innate curiosity | 8.00% | ~70 |
@@ -31,10 +31,10 @@
 | The Invincible | 5.00% | ~44 |
 | Got lost again | 5.00% | ~44 |
 | I leave no man behind (no exceptions) | 2.00% | ~18 |
-| Convoy list | 0.80% | ~7 |
+| Convoy list | 0.90% | ~8 |
 | No more mistakes | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 876 (Ranked 284)  
+Progressed: 880 (Ranked 284)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,4 +81,4 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-19 | 807 | 0 |
 | 2023-12-20 | 836 | 0 |
 | 2023-12-21 | 853 | 0 |
-| 2023-12-22 | 876 | 0 |
+| 2023-12-22 | 880 | 0 |

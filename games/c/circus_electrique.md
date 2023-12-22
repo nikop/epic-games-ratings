@@ -1,21 +1,21 @@
 # Circus Electrique
 [Store](https://store.epicgames.com/en-US/p/circus-electrique)  
 [View Rawdata](../../db/c/circus_electrique.json)  
-Rating: 4.16 (Ranked 959)  
+Rating: 4.16 (Ranked 960)  
 Number of Ratings: 22  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self Defense | 48.00% | ~236 |
+| Self Defense | 48.00% | ~237 |
 | Grand Opening | 43.00% | ~212 |
 | Circus Electrique Proudly Presents... | 43.00% | ~212 |
 | Path of Learning | 43.00% | ~212 |
-| Built in a Day | 35.00% | ~172 |
+| Built in a Day | 35.00% | ~173 |
 | More Brain Than Brawn | 31.00% | ~153 |
 | Perfect Illusion | 24.00% | ~118 |
 | Hundred Percent First | 24.00% | ~118 |
-| Dirty Dozen | 21.00% | ~103 |
-| Fan Service | 19.00% | ~93 |
+| Dirty Dozen | 20.00% | ~99 |
+| Fan Service | 19.00% | ~94 |
 | Lion Tamer | 18.00% | ~89 |
 | Amazing! | 17.00% | ~84 |
 | King of District 1 | 16.00% | ~79 |
@@ -28,10 +28,10 @@ Number of Ratings: 22  (23.09.2022)
 | Marketing Manager | 11.00% | ~54 |
 | Circus Versus Circus | 9.00% | ~44 |
 | King of District 3 | 9.00% | ~44 |
-| Club Member | 7.00% | ~34 |
-| Hundred Percent Second | 7.00% | ~34 |
-| Spirits High | 7.00% | ~34 |
-| Mobile Infantry | 7.00% | ~34 |
+| Club Member | 7.00% | ~35 |
+| Hundred Percent Second | 7.00% | ~35 |
+| Spirits High | 7.00% | ~35 |
+| Mobile Infantry | 7.00% | ~35 |
 | Around the Clock | 5.00% | ~25 |
 | Club Champion | 5.00% | ~25 |
 | King of District 4 | 5.00% | ~25 |
@@ -57,7 +57,7 @@ Number of Ratings: 22  (23.09.2022)
 | Guest Stars | 0.40% | ~2 |
 | Versatile Tactics | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 492 (Ranked 330)  
+Progressed: 493 (Ranked 330)  
 Completed: 1 (0.20%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 1 (0.20%) (Ranked 270)
 | 2023-12-19 | 484 | 1 |
 | 2023-12-20 | 485 | 1 |
 | 2023-12-21 | 489 | 1 |
-| 2023-12-22 | 492 | 1 |
+| 2023-12-22 | 493 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

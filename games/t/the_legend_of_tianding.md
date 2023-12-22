@@ -27,8 +27,8 @@
 | Tomb Raider | 24.00% | ~11 |
 | The Hero of the People | 16.00% | ~7 |
 | Talk to the Fist | 16.00% | ~7 |
-| Collector | 9.00% | ~4 |
-| Taoist | 9.00% | ~4 |
+| Collector | 11.00% | ~5 |
+| Taoist | 11.00% | ~5 |
 | The Legend | 7.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 45 (Ranked 544)  

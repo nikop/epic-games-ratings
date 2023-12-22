@@ -2,9 +2,9 @@
   "ID": "974d75969ed043489745f61eb0a25baf",
   "Name": "SteamWorld Build",
   "ProductSlug": "steamworld-build-71ee6c",
-  "Ranking_EOS_Progress": 430,
+  "Ranking_EOS_Progress": 431,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 150,
+  "EOS_Progressed": 152,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -584,6 +584,11 @@
       "Time": "2023-12-22T16:06:53.0801664+00:00",
       "NumProgressed": 150,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T18:06:29.4985953+00:00",
+      "NumProgressed": 152,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T14:06:40.4198033+00:00",
@@ -594,9 +599,9 @@
       "ID": "AccustomedCustomer",
       "SetID": "4bd750m",
       "Name": "Accustomed Customer",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "Aristocratic",
@@ -604,7 +609,7 @@
       "Name": "Aristocratic",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 96
     },
     {
       "ID": "Botropolis",
@@ -628,7 +633,7 @@
       "Name": "Conducted Trade",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "DiggingAHole",
@@ -636,21 +641,21 @@
       "Name": "Digging a Hole",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "DopaMiner",
       "SetID": "4bd750m",
       "Name": "Dopa-Miner",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 43
     },
     {
       "ID": "GoingPlaces",
       "SetID": "4bd750m",
       "Name": "Going Places",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 15,
       "UsersEstimate": 100
     },
@@ -658,9 +663,9 @@
       "ID": "GottaGoFast",
       "SetID": "4bd750m",
       "Name": "Gotta Go Fast",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 90,
-      "UsersEstimate": 68
+      "UsersEstimate": 67
     },
     {
       "ID": "ImALumberbot",
@@ -684,15 +689,15 @@
       "Name": "It\u0027s Yours, My Friend",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ManicMechanic",
       "SetID": "4bd750m",
       "Name": "Manic Mechanic",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "Mathematic",
@@ -700,7 +705,7 @@
       "Name": "Mathematic",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 131
     },
     {
       "ID": "MineSweeper",
@@ -708,7 +713,7 @@
       "Name": "Mine Sweeper",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "NothingButRoad",
@@ -732,7 +737,7 @@
       "Name": "Roll Out",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "RoomToSpare",
@@ -746,7 +751,7 @@
       "ID": "SlottingMachine",
       "SetID": "4bd750m",
       "Name": "Slotting Machine",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
       "UsersEstimate": 61
     },
@@ -778,9 +783,9 @@
       "ID": "Systematic",
       "SetID": "4bd750m",
       "Name": "Systematic",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 62
     },
     {
       "ID": "TuttiFrutti",
@@ -788,7 +793,7 @@
       "Name": "Tutti Frutti",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 87
     },
     {
       "ID": "UpUpAndAway",
@@ -796,7 +801,7 @@
       "Name": "Up, Up And Away!",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Whoa",
@@ -804,7 +809,7 @@
       "Name": "Whoa!",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Yup",
@@ -819,14 +824,14 @@
     {
       "ID": "4bd750m",
       "IsBase": true,
-      "Progressed": 150,
+      "Progressed": 152,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-22T17:05:04.7443177+00:00",
+  "LastChanged_Achievements": "2023-12-22T18:06:29.4985951+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.7183942+00:00",
-  "LastUpdate_Ratings": "2023-12-22T17:03:06.5192226+00:00",
-  "LastUpdate_Achievements": "2023-12-22T17:05:04.7443364+00:00"
+  "LastUpdate_Ratings": "2023-12-22T18:03:43.4045631+00:00",
+  "LastUpdate_Achievements": "2023-12-22T18:06:29.4986107+00:00"
 }

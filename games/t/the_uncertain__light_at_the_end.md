@@ -6,7 +6,7 @@ Rating: 3.82 (Ranked 1,052)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Bundle of Joy | 51.00% | ~305 |
-| A Friend in Need... | 45.00% | ~269 |
+| A Friend in Need... | 46.00% | ~275 |
 | Bosom Buddies | 31.00% | ~185 |
 | Beat the Heat | 24.00% | ~144 |
 | A Familiar Face | 15.00% | ~90 |

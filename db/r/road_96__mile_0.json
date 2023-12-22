@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 532,
+  "EOS_Progressed": 533,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1867,6 +1867,11 @@
       "Time": "2023-12-22T17:09:46.9698622+00:00",
       "NumProgressed": 532,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-22T18:11:04.430676+00:00",
+      "NumProgressed": 533,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -1884,9 +1889,9 @@
       "ID": "completeact2",
       "SetID": "40n95i5",
       "Name": "Conspiracy Theorist",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 80,
-      "UsersEstimate": 223
+      "UsersEstimate": 219
     },
     {
       "ID": "completeact3",
@@ -1894,7 +1899,7 @@
       "Name": "On the Road",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "findalltapes",
@@ -1997,7 +2002,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 532,
+      "Progressed": 533,
       "Completed": 2
     }
   ],
@@ -2005,8 +2010,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-12-22T17:09:46.9698619+00:00",
+  "LastChanged_Achievements": "2023-12-22T18:11:04.4306758+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:48.6488501+00:00",
-  "LastUpdate_Ratings": "2023-12-22T16:57:08.9110895+00:00",
-  "LastUpdate_Achievements": "2023-12-22T17:09:46.9698906+00:00"
+  "LastUpdate_Ratings": "2023-12-22T17:57:17.9583623+00:00",
+  "LastUpdate_Achievements": "2023-12-22T18:11:04.4306956+00:00"
 }

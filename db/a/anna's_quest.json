@@ -4,7 +4,7 @@
   "ProductSlug": "annas-quest-fbefa2",
   "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 528,
+  "Ranking_EOS_NewPlayers": 525,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
@@ -518,9 +518,9 @@
       "ID": "aq_achievement_24",
       "SetID": "7jh86ne",
       "Name": "Book Worm",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "aq_achievement_25",
@@ -566,9 +566,9 @@
       "ID": "aq_achievement_3",
       "SetID": "7jh86ne",
       "Name": "My lost nightingale",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "aq_achievement_30",
@@ -614,9 +614,9 @@
       "ID": "aq_achievement_35",
       "SetID": "7jh86ne",
       "Name": "Ooh, it\u0027s shiny!",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 35,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "aq_achievement_36",
@@ -711,8 +711,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-12-22T17:03:16.9805109+00:00",
+  "LastChanged_Achievements": "2023-12-22T18:04:00.6517308+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:17.0844151+00:00",
-  "LastUpdate_Ratings": "2023-12-22T16:58:33.8665429+00:00",
-  "LastUpdate_Achievements": "2023-12-22T17:03:16.9806221+00:00"
+  "LastUpdate_Ratings": "2023-12-22T17:59:20.36977+00:00",
+  "LastUpdate_Achievements": "2023-12-22T18:04:00.6517611+00:00"
 }

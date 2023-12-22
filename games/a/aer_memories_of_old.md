@@ -6,19 +6,19 @@ Number of Ratings: 170  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 76.00% | ~20,371 |
-| Mama? | 27.00% | ~7,237 |
+| Light at the end of the tunnel | 76.00% | ~20,373 |
+| Mama? | 27.00% | ~7,238 |
 | People's Haven | 18.00% | ~4,825 |
 | Cartographer | 17.00% | ~4,557 |
 | Knowledge for Power | 14.00% | ~3,753 |
 | Antlers of Stone | 14.00% | ~3,753 |
 | Gaze into the abyss | 13.00% | ~3,485 |
 | Mausoleum of Ice | 13.00% | ~3,485 |
-| Wings of Stone | 12.00% | ~3,216 |
-| Equilibrium | 12.00% | ~3,216 |
-| In the belly of the beast | 11.00% | ~2,948 |
-| Condor condo | 10.00% | ~2,680 |
-| Memorial | 9.00% | ~2,412 |
+| Wings of Stone | 12.00% | ~3,217 |
+| Equilibrium | 12.00% | ~3,217 |
+| In the belly of the beast | 11.00% | ~2,949 |
+| Condor condo | 10.00% | ~2,681 |
+| Memorial | 9.00% | ~2,413 |
 | An uninvited guest | 7.00% | ~1,876 |
 | Tails of Stone | 6.00% | ~1,608 |
 | Baa from the past | 6.00% | ~1,608 |
@@ -27,7 +27,7 @@ Number of Ratings: 170  (23.09.2022)
 | Ripples on the surface | 5.00% | ~1,340 |
 | Hide and Seek | 4.00% | ~1,072 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,804 (Ranked 137)  
+Progressed: 26,807 (Ranked 138)  
 Completed: 498 (1.86%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 498 (1.86%) (Ranked 138)
 | 2023-12-19 | 26,606 | 495 |
 | 2023-12-20 | 26,672 | 495 |
 | 2023-12-21 | 26,754 | 496 |
-| 2023-12-22 | 26,804 | 498 |
+| 2023-12-22 | 26,807 | 498 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -2,9 +2,9 @@
   "ID": "9df61912ce644d8096412ba0f516759a",
   "Name": "Layers of Fear",
   "ProductSlug": "layers-of-fears-85a02b",
-  "Ranking_EOS_Progress": 414,
+  "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 176,
+  "EOS_Progressed": 177,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -804,6 +804,11 @@
       "Time": "2023-12-22T15:04:48.74174+00:00",
       "NumProgressed": 176,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T18:06:18.3492447+00:00",
+      "NumProgressed": 177,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -822,9 +827,9 @@
       "ID": "another_perspective",
       "SetID": "f2im8d",
       "Name": "Another perspective",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "assemble_puzzles",
@@ -928,7 +933,7 @@
       "Name": "Do what you have to",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "earn_all_trophies",
@@ -968,7 +973,7 @@
       "Name": "Scraps of love",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "find_one_photo",
@@ -990,9 +995,9 @@
       "ID": "find_one_rat_sketch",
       "SetID": "f2im8d",
       "Name": "The artist\u2019s impression",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 74
     },
     {
       "ID": "finished_it",
@@ -1006,9 +1011,9 @@
       "ID": "first_step",
       "SetID": "f2im8d",
       "Name": "First steps",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "hear_most_of_interviews",
@@ -1062,9 +1067,9 @@
       "ID": "lights_camera_action",
       "SetID": "f2im8d",
       "Name": "Lights! Camera! Action!",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "once_upon_a_time",
@@ -1088,7 +1093,7 @@
       "Name": "A piece of the story",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "playtime",
@@ -1144,7 +1149,7 @@
       "Name": "Sign of weakness",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "something_important",
@@ -1216,7 +1221,7 @@
       "Name": "Wanderer",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1231,14 +1236,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 176,
+      "Progressed": 177,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-22T17:04:56.5306131+00:00",
+  "LastChanged_Achievements": "2023-12-22T18:06:18.3492441+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:26.5525701+00:00",
-  "LastUpdate_Ratings": "2023-12-22T16:59:24.1064541+00:00",
-  "LastUpdate_Achievements": "2023-12-22T17:04:56.5306447+00:00"
+  "LastUpdate_Ratings": "2023-12-22T18:00:34.2701802+00:00",
+  "LastUpdate_Achievements": "2023-12-22T18:06:18.3492877+00:00"
 }

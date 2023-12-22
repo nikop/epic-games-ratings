@@ -596,9 +596,9 @@
       "ID": "InnkeeperQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Treasure Hunting",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "InnkeeperQuestlineLast",
@@ -644,9 +644,9 @@
       "ID": "MasterOracleQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Riddlesolver",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "MasterOracleQuestlineLast",
@@ -716,9 +716,9 @@
       "ID": "MasterWardenQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Uncut Gem",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "MasterWardenQuestlineLast",
@@ -772,9 +772,9 @@
       "ID": "any_curio",
       "SetID": "3b8n56h",
       "Name": "Might be useful\u2026",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "bad_ending",
@@ -909,8 +909,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-12-22T17:05:23.2917465+00:00",
+  "LastChanged_Achievements": "2023-12-22T18:06:55.1350193+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:57:00.4120511+00:00",
-  "LastUpdate_Ratings": "2023-12-22T16:59:46.8191804+00:00",
-  "LastUpdate_Achievements": "2023-12-22T17:05:23.2917711+00:00"
+  "LastUpdate_Ratings": "2023-12-22T18:01:08.4478886+00:00",
+  "LastUpdate_Achievements": "2023-12-22T18:06:55.1350417+00:00"
 }
