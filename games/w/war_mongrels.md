@@ -1,37 +1,37 @@
 # War Mongrels
 [Store](https://store.epicgames.com/en-US/p/war-mongrels)  
 [View Rawdata](../../db/w/war_mongrels.json)  
-Rating: 4.37 (Ranked 785)  
+Rating: 4.37 (Ranked 783)  
 Number of Ratings: 34  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 67.00% | ~467 |
-| Cowardice | 61.00% | ~425 |
-| NO LIFE IS WORTH SAVING... | 46.00% | ~321 |
-| Eat Lead! | 45.00% | ~314 |
-| The Breaking Point | 44.00% | ~307 |
-| Here Comes the Boom | 42.00% | ~293 |
-| Prospector | 40.00% | ~279 |
-| Sniper Wolf | 39.00% | ~272 |
-| Treasure Hunter | 37.00% | ~258 |
-| The Motivation | 37.00% | ~258 |
-| Heroism | 35.00% | ~244 |
-| Collectibles of Chapter I | 34.00% | ~237 |
-| Missing in Action | 34.00% | ~237 |
-| King of Knives | 33.00% | ~230 |
-| Consequences | 31.00% | ~216 |
-| Opportunities | 30.00% | ~209 |
-| The Horror | 28.00% | ~195 |
-| The Difference | 26.00% | ~181 |
-| Vengeance | 25.00% | ~174 |
-| It's Just an Accident | 24.00% | ~167 |
-| Broken Hopes | 23.00% | ~160 |
-| Collectibles of Chapter II | 22.00% | ~153 |
-| Bullseye! | 22.00% | ~153 |
-| Sorrow | 20.00% | ~139 |
-| Atonement | 18.00% | ~125 |
-| Food Massacre | 18.00% | ~125 |
+| Explorer | 67.00% | ~468 |
+| Cowardice | 61.00% | ~426 |
+| NO LIFE IS WORTH SAVING... | 46.00% | ~322 |
+| Eat Lead! | 44.00% | ~308 |
+| The Breaking Point | 43.00% | ~301 |
+| Here Comes the Boom | 42.00% | ~294 |
+| Prospector | 40.00% | ~280 |
+| Sniper Wolf | 39.00% | ~273 |
+| Treasure Hunter | 37.00% | ~259 |
+| The Motivation | 37.00% | ~259 |
+| Heroism | 35.00% | ~245 |
+| Missing in Action | 34.00% | ~238 |
+| Collectibles of Chapter I | 33.00% | ~231 |
+| King of Knives | 32.00% | ~224 |
+| Consequences | 31.00% | ~217 |
+| Opportunities | 30.00% | ~210 |
+| The Horror | 28.00% | ~196 |
+| The Difference | 26.00% | ~182 |
+| Vengeance | 25.00% | ~175 |
+| It's Just an Accident | 24.00% | ~168 |
+| Broken Hopes | 23.00% | ~161 |
+| Collectibles of Chapter II | 22.00% | ~154 |
+| Bullseye! | 22.00% | ~154 |
+| Sorrow | 20.00% | ~140 |
+| Atonement | 18.00% | ~126 |
+| Food Massacre | 18.00% | ~126 |
 | Helping Hand | 16.00% | ~112 |
 | Without a Second Thought | 15.00% | ~105 |
 | Collectibles of Chapter III | 14.00% | ~98 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.10% | ~1 |
 | Challenges of Chapter XII | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 697 (Ranked 302)  
+Progressed: 699 (Ranked 302)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-19 | 676 | 0 |
 | 2023-12-20 | 680 | 0 |
 | 2023-12-21 | 691 | 0 |
-| 2023-12-22 | 697 | 0 |
+| 2023-12-22 | 699 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

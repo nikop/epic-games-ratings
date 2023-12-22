@@ -4,7 +4,7 @@
   "ProductSlug": "creepy-tale-058ebd",
   "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 72,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 154,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 5.84,
   "EosHistory": [
@@ -733,9 +733,9 @@
       "ID": "creepytaleach12",
       "SetID": "bnif31p",
       "Name": "Sweet feeling",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 80,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "creepytaleach13",
@@ -757,9 +757,9 @@
       "ID": "creepytaleach3",
       "SetID": "bnif31p",
       "Name": "Happy end",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 75,
-      "UsersEstimate": 62
+      "UsersEstimate": 65
     },
     {
       "ID": "creepytaleach4",
@@ -820,8 +820,8 @@
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2023-12-22T15:09:48.1274261+00:00",
+  "LastChanged_Achievements": "2023-12-22T16:11:24.3120997+00:00",
   "LastUpdate_AppInfo": "2023-12-20T07:56:51.7348534+00:00",
-  "LastUpdate_Ratings": "2023-12-22T14:57:58.9191609+00:00",
-  "LastUpdate_Achievements": "2023-12-22T15:09:48.127436+00:00"
+  "LastUpdate_Ratings": "2023-12-22T15:58:35.4982069+00:00",
+  "LastUpdate_Achievements": "2023-12-22T16:11:24.3121146+00:00"
 }

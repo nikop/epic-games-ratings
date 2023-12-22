@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 88.00% | ~1,758 |
-| Off to a good start | 64.00% | ~1,279 |
-| Do... or do not. There is no try | 51.00% | ~1,019 |
-| A good blaster at your side | 27.00% | ~539 |
+| New Recruit | 88.00% | ~1,760 |
+| Off to a good start | 64.00% | ~1,280 |
+| Do... or do not. There is no try | 51.00% | ~1,020 |
+| A good blaster at your side | 27.00% | ~540 |
 | I suggest a new strategy | 18.00% | ~360 |
 | Scrap collector | 17.00% | ~340 |
 | Great shot, kid! | 17.00% | ~340 |
@@ -47,17 +47,17 @@
 | Playing the objective | 1.00% | ~20 |
 | Ackbar's Elite | 1.00% | ~20 |
 | This is a new day, a new beginning | 1.00% | ~20 |
-| You have your moments | 1.00% | ~20 |
 | Alternative solution | 1.00% | ~20 |
 | Onwards! | 1.00% | ~20 |
 | The circle is now complete | 1.00% | ~20 |
+| You have your moments | 0.90% | ~18 |
 | When surrounded by war... | 0.90% | ~18 |
 | A New Hope | 0.80% | ~16 |
 | Walker defender | 0.80% | ~16 |
 | No such thing as luck | 0.70% | ~14 |
 | Do we take prisoners? | 0.70% | ~14 |
 | Stop that Droid | 0.70% | ~14 |
-| I’ll take that bet | 0.60% | ~12 |
+| I’ll take that bet | 0.50% | ~10 |
 | Stay on target | 0.40% | ~8 |
 | Greed can be a very powerful ally | 0.40% | ~8 |
 | in a galaxy far, far away.... | 0.30% | ~6 |
@@ -65,10 +65,10 @@
 | Master | 0.30% | ~6 |
 | That got him! | 0.20% | ~4 |
 | Stay in attack formation | 0.20% | ~4 |
-| I never doubted you! | 0.20% | ~4 |
+| I never doubted you! | 0.10% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,998 (Ranked 236)  
+Progressed: 2,000 (Ranked 236)  
 Completed: 1 (0.05%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 1 (0.05%) (Ranked 331)
 | 2023-12-19 | 1,913 | 1 |
 | 2023-12-20 | 1,946 | 1 |
 | 2023-12-21 | 1,979 | 1 |
-| 2023-12-22 | 1,998 | 1 |
+| 2023-12-22 | 2,000 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

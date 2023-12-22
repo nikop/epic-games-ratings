@@ -842,9 +842,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5732,
+  "EOS_Progressed": 5734,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 204,
+  "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -11592,6 +11592,11 @@
       "Time": "2023-12-22T14:04:52.9174897+00:00",
       "NumProgressed": 5732,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-22T16:06:49.0455539+00:00",
+      "NumProgressed": 5734,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -11644,7 +11649,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -11652,7 +11657,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1490
+      "UsersEstimate": 1491
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -11660,7 +11665,7 @@
       "Name": "First Strike",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 1146
+      "UsersEstimate": 1147
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -11692,7 +11697,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -11700,7 +11705,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -11724,7 +11729,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -11740,7 +11745,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -11787,15 +11792,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5732,
+      "Progressed": 5734,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-17T11:57:49.7030504+00:00",
-  "LastChanged_Achievements": "2023-12-22T15:04:54.1471655+00:00",
+  "LastChanged_Achievements": "2023-12-22T16:06:49.0455535+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:20.367807+00:00",
-  "LastUpdate_Ratings": "2023-12-22T15:00:34.8863389+00:00",
-  "LastUpdate_Achievements": "2023-12-22T15:04:54.1472416+00:00"
+  "LastUpdate_Ratings": "2023-12-22T16:02:10.5885076+00:00",
+  "LastUpdate_Achievements": "2023-12-22T16:06:49.0456427+00:00"
 }

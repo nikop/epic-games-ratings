@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 341,
+  "EOS_Progressed": 342,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
@@ -1479,6 +1479,11 @@
       "Time": "2023-12-22T14:06:01.4576165+00:00",
       "NumProgressed": 341,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-22T16:08:26.4012129+00:00",
+      "NumProgressed": 342,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -1491,7 +1496,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 90,
       "XP": 50,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -1499,15 +1504,15 @@
       "Name": "Design Engineer",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 218
+      "UsersEstimate": 215
     },
     {
       "ID": "BRING_PROSPERO",
@@ -1523,7 +1528,7 @@
       "Name": "Empty Shelves",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "CATCH_30_FISH",
@@ -1531,7 +1536,7 @@
       "Name": "Fisherman",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -1539,7 +1544,7 @@
       "Name": "Energy Boost",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "GO_ON_EXPEDITION",
@@ -1547,15 +1552,15 @@
       "Name": "Off on an Expedition!",
       "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "GROW_20_PLANTS",
       "SetID": "aniflfk",
       "Name": "Farmer",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 164
+      "UsersEstimate": 161
     },
     {
       "ID": "HOUSEWARMING",
@@ -1587,7 +1592,7 @@
       "Name": "Tough Guy",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "PREPARE_10_COFFEE",
@@ -1650,14 +1655,14 @@
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 341,
+      "Progressed": 342,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-22T15:06:10.0159936+00:00",
+  "LastChanged_Achievements": "2023-12-22T16:08:26.4012126+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:11.7079702+00:00",
-  "LastUpdate_Ratings": "2023-12-22T15:00:24.6183409+00:00",
-  "LastUpdate_Achievements": "2023-12-22T15:06:10.0160096+00:00"
+  "LastUpdate_Ratings": "2023-12-22T16:01:57.6421763+00:00",
+  "LastUpdate_Achievements": "2023-12-22T16:08:26.4012309+00:00"
 }

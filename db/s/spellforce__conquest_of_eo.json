@@ -403,9 +403,9 @@
       "ID": "Build_First_Room_Extension",
       "SetID": "7b9f97e",
       "Name": "Redecorating",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Capture_Own_Tower",
@@ -948,8 +948,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-12-22T15:09:04.4907281+00:00",
+  "LastChanged_Achievements": "2023-12-22T16:10:26.8941242+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:09.2965751+00:00",
-  "LastUpdate_Ratings": "2023-12-22T14:57:53.275631+00:00",
-  "LastUpdate_Achievements": "2023-12-22T15:09:04.4907932+00:00"
+  "LastUpdate_Ratings": "2023-12-22T15:58:27.852866+00:00",
+  "LastUpdate_Achievements": "2023-12-22T16:10:26.8941822+00:00"
 }

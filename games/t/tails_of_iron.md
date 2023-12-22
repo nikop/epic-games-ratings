@@ -28,12 +28,12 @@ Rating: 4.55 (Ranked 510)
 | Defeat 25 Frogs | 0.30% | ~7 |
 | Defeat 25 Mozis | 0.30% | ~7 |
 | Smithy Ready to Craft | 0.30% | ~7 |
+| Rescue Redgi's Brothers | 0.30% | ~7 |
 | Complete Elder Faction | 0.20% | ~5 |
 | Complete Ranger Faction | 0.20% | ~5 |
 | Defeat Avor Warden of the Northern Wastes | 0.20% | ~5 |
 | Discover the mystery of the Kings Chambers | 0.20% | ~5 |
 | Kitchen Ready To Cook | 0.20% | ~5 |
-| Rescue Redgi's Brothers | 0.20% | ~5 |
 | Defeat the Grub Buster | 0.20% | ~2 |
 | Defeat the Stalker Queen | 0.20% | ~2 |
 | Complete Redgi's Armory | 0.10% | ~2 |

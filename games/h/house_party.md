@@ -41,7 +41,6 @@ Number of Ratings: 177  (23.09.2022)
 | Rachael | 0.40% | ~27 |
 | The Elder Brahs | 0.40% | ~27 |
 | Good Ol' Days | 0.40% | ~27 |
-| Beyond the Call of Dude-y | 0.30% | ~20 |
 | The Bride | 0.30% | ~20 |
 | Drunk and Disorderly: Madison | 0.30% | ~20 |
 | Do Not Burn | 0.30% | ~20 |
@@ -50,6 +49,7 @@ Number of Ratings: 177  (23.09.2022)
 | Do You Smell Blood? | 0.30% | ~20 |
 | The Muse: Derek | 0.30% | ~20 |
 | Derezzed | 0.30% | ~20 |
+| Beyond the Call of Dude-y | 0.20% | ~14 |
 | Doja's Dope-Ass Dinolicious Danceapalooza | 0.20% | ~8 |
 | Ronin | 0.20% | ~14 |
 | A Striking Resemblance | 0.20% | ~14 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~7 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,799 (Ranked 189)  
+Progressed: 6,801 (Ranked 189)  
 Completed: 3 (0.04%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 3 (0.04%) (Ranked 342)
 | 2023-12-19 | 6,729 | 3 |
 | 2023-12-20 | 6,755 | 3 |
 | 2023-12-21 | 6,791 | 3 |
-| 2023-12-22 | 6,799 | 3 |
+| 2023-12-22 | 6,801 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

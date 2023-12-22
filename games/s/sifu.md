@@ -6,34 +6,34 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 3.00% | ~22,199 |
-| The Assault | 3.00% | ~22,199 |
-| Life is your teacher | 3.00% | ~22,199 |
-| Lightning Hands | 3.00% | ~22,199 |
-| The Hateful Pole Fighter | 2.00% | ~14,799 |
-| State of constant learning | 2.00% | ~14,799 |
-| Qi Gong: Essence | 2.00% | ~14,799 |
-| Old Child | 2.00% | ~14,799 |
-| A Lady's Blood in the Snow | 1.00% | ~7,400 |
-| Lady Wing Chun | 1.00% | ~7,400 |
-| Furious Fists | 1.00% | ~7,400 |
-| Kill Nil | 1.00% | ~7,400 |
-| Stuntmaster | 1.00% | ~7,400 |
-| Street Fighting | 1.00% | ~7,400 |
-| Qi Gong: Breath | 1.00% | ~7,400 |
-| I know Kung-Fu | 1.00% | ~7,400 |
-| Path of the Prospect | 1.00% | ~7,400 |
-| Rumble in the Hangar | 1.00% | ~7,400 |
-| Project Arena | 1.00% | ~493 |
-| Diligence as a goal | 1.00% | ~493 |
-| Qi Gong: Mind | 0.90% | ~6,660 |
-| Take damage to save time | 0.90% | ~6,660 |
-| Kung-Fu Tussle | 0.80% | ~5,920 |
+| The Old Grandmaster | 3.00% | ~22,202 |
+| The Assault | 3.00% | ~22,202 |
+| Life is your teacher | 3.00% | ~22,202 |
+| Lightning Hands | 3.00% | ~22,202 |
+| The Hateful Pole Fighter | 2.00% | ~14,801 |
+| Street Fighting | 2.00% | ~14,801 |
+| State of constant learning | 2.00% | ~14,801 |
+| Qi Gong: Essence | 2.00% | ~14,801 |
+| Old Child | 2.00% | ~14,801 |
+| A Lady's Blood in the Snow | 1.00% | ~7,401 |
+| Lady Wing Chun | 1.00% | ~7,401 |
+| Furious Fists | 1.00% | ~7,401 |
+| Kill Nil | 1.00% | ~7,401 |
+| Stuntmaster | 1.00% | ~7,401 |
+| Qi Gong: Breath | 1.00% | ~7,401 |
+| I know Kung-Fu | 1.00% | ~7,401 |
+| Path of the Prospect | 1.00% | ~7,401 |
+| Rumble in the Hangar | 1.00% | ~7,401 |
+| Project Arena | 1.00% | ~494 |
+| Diligence as a goal | 1.00% | ~494 |
+| Qi Gong: Mind | 0.90% | ~6,661 |
+| Take damage to save time | 0.90% | ~6,661 |
+| Kung-Fu Tussle | 0.80% | ~5,921 |
 | Scareless | 0.70% | ~5,180 |
 | Dance of the Praying Mantis | 0.70% | ~5,180 |
-| Fight the way you practice | 0.70% | ~345 |
+| Fight the way you practice | 0.70% | ~346 |
 | Martial Hub | 0.60% | ~296 |
-| Bloody Sport | 0.50% | ~246 |
+| Bloody Sport | 0.50% | ~247 |
 | Muk Yan Master | 0.40% | ~2,960 |
 | Tiger on Fire | 0.40% | ~2,960 |
 | Source of Flying Daggers | 0.40% | ~2,960 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~49 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~49 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 739,967 (Ranked 23)  
+Progressed: 740,069 (Ranked 23)  
 Completed: 12,959 (1.75%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 12,959 (1.75%) (Ranked 140)
 | 2023-12-19 | 736,295 | 12,958 |
 | 2023-12-20 | 737,594 | 12,958 |
 | 2023-12-21 | 738,913 | 12,958 |
-| 2023-12-22 | 739,967 | 12,959 |
+| 2023-12-22 | 740,069 | 12,959 |
 ## Awards
 Max (Great Boss Battles): 6,978  (Ranked 55)  
 Sum: 11,803 (Ranked 87)  

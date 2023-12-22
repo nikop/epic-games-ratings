@@ -35,8 +35,8 @@ Rating: 4.64 (Ranked 338)
 | Treasure Trove | 13.00% | ~138 |
 | Family Memories | 13.00% | ~138 |
 | Cartographer | 13.00% | ~138 |
+| Ask Questions Later | 13.00% | ~138 |
 | Chaincrawler Explorer | 12.00% | ~128 |
-| Ask Questions Later | 12.00% | ~128 |
 | Sump Explorer | 11.00% | ~117 |
 | Syron for Hope | 11.00% | ~117 |
 | Factorywood Explorer | 10.00% | ~106 |

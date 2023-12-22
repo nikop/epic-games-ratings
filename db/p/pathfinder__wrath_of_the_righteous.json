@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 123,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4667,9 +4667,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12596,
+  "EOS_Progressed": 12600,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 253,
+  "EOS_NewPlayers": 255,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17652,6 +17652,11 @@
       "Time": "2023-12-22T15:09:57.1060488+00:00",
       "NumProgressed": 12596,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T16:11:35.1164186+00:00",
+      "NumProgressed": 12600,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -17663,7 +17668,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3401
+      "UsersEstimate": 3402
     },
     {
       "ID": "02_BurningCity",
@@ -17671,7 +17676,7 @@
       "Name": "Burning City",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2267
+      "UsersEstimate": 2268
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -17679,7 +17684,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1763
+      "UsersEstimate": 1764
     },
     {
       "ID": "04_FithCrusade",
@@ -17799,7 +17804,7 @@
       "Name": "Mythic Choices",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1889
+      "UsersEstimate": 1890
     },
     {
       "ID": "19_EqualToAroden",
@@ -17911,7 +17916,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2015
+      "UsersEstimate": 2016
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -18031,15 +18036,15 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2393
+      "UsersEstimate": 2394
     },
     {
       "ID": "49_Flame",
       "SetID": "989of5o",
       "Name": "A Flame",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 504
+      "UsersEstimate": 630
     },
     {
       "ID": "50_HeyIKnowYou",
@@ -18590,21 +18595,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11378,
+      "Progressed": 11382,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12596,
+      "Progressed": 12600,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-22T03:58:13.0642392+00:00",
-  "LastChanged_Achievements": "2023-12-22T15:09:57.1060486+00:00",
+  "LastChanged_Achievements": "2023-12-22T16:11:35.1164183+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.7532096+00:00",
-  "LastUpdate_Ratings": "2023-12-22T14:58:53.969639+00:00",
-  "LastUpdate_Achievements": "2023-12-22T15:09:57.1063011+00:00"
+  "LastUpdate_Ratings": "2023-12-22T15:59:51.4781172+00:00",
+  "LastUpdate_Achievements": "2023-12-22T16:11:35.1165707+00:00"
 }

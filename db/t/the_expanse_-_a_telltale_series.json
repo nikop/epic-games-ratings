@@ -6,9 +6,9 @@
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 154,
-  "Ranking_EOS_Completed": 254,
+  "Ranking_EOS_Completed": 253,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -295,11 +295,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17075,
-  "EOS_Completed": 46,
-  "EOS_NewPlayers": 731,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 0.27,
+  "EOS_Progressed": 17080,
+  "EOS_Completed": 47,
+  "EOS_NewPlayers": 730,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
       "Time": "2023-07-26T16:06:14.482825+00:00",
@@ -14750,6 +14750,11 @@
       "Time": "2023-12-22T15:05:35.4659842+00:00",
       "NumProgressed": 17075,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-12-22T16:07:41.7098377+00:00",
+      "NumProgressed": 17080,
+      "NumCompleted": 47
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14818,7 +14823,7 @@
       "Name": "Drug Gifter",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "17",
@@ -14882,7 +14887,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "24",
@@ -14906,7 +14911,7 @@
       "Name": "Call it Even",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1195
+      "UsersEstimate": 1196
     },
     {
       "ID": "27",
@@ -15010,7 +15015,7 @@
       "Name": "Safe Cracker",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "33",
@@ -15018,7 +15023,7 @@
       "Name": "Zen Master",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "34",
@@ -15026,7 +15031,7 @@
       "Name": "Master Negotiator",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "35",
@@ -15041,22 +15046,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17075,
-      "Completed": 46
+      "Progressed": 17080,
+      "Completed": 47
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3029,
-      "Completed": 987
+      "Progressed": 3034,
+      "Completed": 988
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-21T04:02:39.716899+00:00",
-  "LastChanged_Achievements": "2023-12-22T15:05:35.465984+00:00",
+  "LastChanged_Achievements": "2023-12-22T16:07:41.7098373+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:40.0929133+00:00",
-  "LastUpdate_Ratings": "2023-12-22T14:57:32.1795734+00:00",
-  "LastUpdate_Achievements": "2023-12-22T15:05:35.4660644+00:00"
+  "LastUpdate_Ratings": "2023-12-22T15:58:00.0869851+00:00",
+  "LastUpdate_Achievements": "2023-12-22T16:07:41.7099109+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "madden-nfl-24",
   "Ranking_Rating": 948,
   "Ranking_Popularity": 424,
-  "Ranking_PopularitySum": 385,
+  "Ranking_PopularitySum": 386,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 384,
   "Ranking_EOS_NewPlayers": 104,
@@ -1107,7 +1107,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5392,
+  "EOS_Progressed": 5393,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1101,
   "EOS_NewCompleters": 0,
@@ -8177,6 +8177,11 @@
       "Time": "2023-12-22T15:05:04.4873953+00:00",
       "NumProgressed": 5392,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T16:07:02.8467566+00:00",
+      "NumProgressed": 5393,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -8197,7 +8202,7 @@
       "Name": "Stud Finder",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 1887
+      "UsersEstimate": 1888
     },
     {
       "ID": "achievement_11",
@@ -8205,7 +8210,7 @@
       "Name": "Big Spender",
       "Percentage": 20,
       "XP": 60,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "achievement_12",
@@ -8229,7 +8234,7 @@
       "Name": "ROTY",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 1887
+      "UsersEstimate": 1888
     },
     {
       "ID": "achievement_15",
@@ -8285,7 +8290,7 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 3073
+      "UsersEstimate": 3074
     },
     {
       "ID": "achievement_21",
@@ -8356,7 +8361,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 5392,
+      "Progressed": 5393,
       "Completed": 0
     }
   ],
@@ -8364,8 +8369,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-12-21T23:57:26.8526204+00:00",
-  "LastChanged_Achievements": "2023-12-22T15:05:04.4873949+00:00",
+  "LastChanged_Achievements": "2023-12-22T16:07:02.8467563+00:00",
   "LastUpdate_AppInfo": "2023-12-21T08:57:12.8750926+00:00",
-  "LastUpdate_Ratings": "2023-12-22T14:57:52.304035+00:00",
-  "LastUpdate_Achievements": "2023-12-22T15:05:04.4874464+00:00"
+  "LastUpdate_Ratings": "2023-12-22T15:58:26.5125252+00:00",
+  "LastUpdate_Achievements": "2023-12-22T16:07:02.8468037+00:00"
 }

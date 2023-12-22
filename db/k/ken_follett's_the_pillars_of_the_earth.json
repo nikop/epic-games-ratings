@@ -570,7 +570,7 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17266,
+  "EOS_Progressed": 17267,
   "EOS_Completed": 119,
   "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 0,
@@ -16730,6 +16730,11 @@
       "Time": "2023-12-22T15:05:20.9936767+00:00",
       "NumProgressed": 17266,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-12-22T16:07:23.564327+00:00",
+      "NumProgressed": 17267,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 41,
@@ -16917,7 +16922,7 @@
       "Name": "Let there be darkness",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5352
+      "UsersEstimate": 5353
     },
     {
       "ID": "tpote_achievement_30",
@@ -17005,7 +17010,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6906
+      "UsersEstimate": 6907
     },
     {
       "ID": "tpote_achievement_40",
@@ -17061,22 +17066,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5870
+      "UsersEstimate": 5871
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17266,
+      "Progressed": 17267,
       "Completed": 119
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2023-12-22T15:05:20.9936765+00:00",
+  "LastChanged_Achievements": "2023-12-22T16:07:23.5643266+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:13.9933566+00:00",
-  "LastUpdate_Ratings": "2023-12-22T15:00:32.8072511+00:00",
-  "LastUpdate_Achievements": "2023-12-22T15:05:20.9937528+00:00"
+  "LastUpdate_Ratings": "2023-12-22T16:02:07.4251745+00:00",
+  "LastUpdate_Achievements": "2023-12-22T16:07:23.5644235+00:00"
 }

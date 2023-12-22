@@ -285,9 +285,9 @@
       "ID": "creepytale3_ach_11",
       "SetID": "7idcjbn",
       "Name": "Dexterity",
-      "Percentage": 76,
+      "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "creepytale3_ach_12",
@@ -309,9 +309,9 @@
       "ID": "creepytale3_ach_15",
       "SetID": "7idcjbn",
       "Name": "Bathing time!",
-      "Percentage": 54,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "creepytale3_ach_17",
@@ -493,9 +493,9 @@
       "ID": "creepytale3_ach_5",
       "SetID": "7idcjbn",
       "Name": "Bloodthirsty",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 35,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "creepytale3_ach_6",
@@ -540,8 +540,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2023-12-22T15:07:45.1538529+00:00",
+  "LastChanged_Achievements": "2023-12-22T16:09:24.0729237+00:00",
   "LastUpdate_AppInfo": "2023-12-20T07:56:51.9801236+00:00",
-  "LastUpdate_Ratings": "2023-12-22T14:57:16.425561+00:00",
-  "LastUpdate_Achievements": "2023-12-22T15:07:45.1538715+00:00"
+  "LastUpdate_Ratings": "2023-12-22T15:57:38.8429062+00:00",
+  "LastUpdate_Achievements": "2023-12-22T16:09:24.0729456+00:00"
 }

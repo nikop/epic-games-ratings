@@ -7,30 +7,30 @@ Number of Ratings: 62  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | On My Own Two Feet | 94.00% | ~4,724 |
-| I'll Be Back | 84.00% | ~4,221 |
-| Sorry, I Dropped This | 77.00% | ~3,869 |
-| First Day on the Job | 76.00% | ~3,819 |
+| I'll Be Back | 84.00% | ~4,222 |
+| Sorry, I Dropped This | 77.00% | ~3,870 |
+| First Day on the Job | 76.00% | ~3,820 |
 | Butcher's Bill | 54.00% | ~2,714 |
-| P.A.X | 37.00% | ~1,859 |
+| P.A.X | 37.00% | ~1,860 |
 | Hey Listen | 36.00% | ~1,809 |
 | OPERATOR | 36.00% | ~1,809 |
-| It's Blue Light | 33.00% | ~1,658 |
-| Most Wanted | 26.00% | ~1,306 |
+| It's Blue Light | 33.00% | ~1,659 |
+| Most Wanted | 26.00% | ~1,307 |
 | Infidel | 23.00% | ~1,156 |
 | GOLIATH | 21.00% | ~1,055 |
 | Firebug | 20.00% | ~1,005 |
-| Nothing to Lose | 18.00% | ~904 |
+| Nothing to Lose | 18.00% | ~905 |
 | I Choose You | 17.00% | ~854 |
 | Big Sister | 16.00% | ~804 |
-| SENTINEL | 16.00% | ~804 |
 | Gear Up | 15.00% | ~754 |
+| SENTINEL | 15.00% | ~754 |
 | Core Power | 13.00% | ~653 |
 | The Black Cerberus | 12.00% | ~603 |
 | Watchman | 12.00% | ~603 |
 | CREO Killed the Video Star | 11.00% | ~553 |
 | Who's in Charge Here? | 11.00% | ~553 |
 | Shall Not Pass | 11.00% | ~553 |
-| Right Tool for the Job | 10.00% | ~502 |
+| Right Tool for the Job | 10.00% | ~503 |
 | Melting Down | 9.00% | ~452 |
 | Raging Drones | 9.00% | ~452 |
 | Overconfident | 9.00% | ~452 |
@@ -54,18 +54,18 @@ Number of Ratings: 62  (23.09.2022)
 | Turing Test | 3.00% | ~151 |
 | Repeat Customer | 3.00% | ~151 |
 | Evolution Theory | 3.00% | ~151 |
-| Ghost in the Machine | 2.00% | ~100 |
-| Homo Machinalis | 2.00% | ~100 |
-| Was That Yours? | 2.00% | ~100 |
-| Guard Dog | 2.00% | ~100 |
-| Carbon Cat vs Iron Maus | 2.00% | ~100 |
-| Dress Up | 2.00% | ~100 |
-| New Gear | 2.00% | ~100 |
-| Good Listener | 2.00% | ~100 |
-| One-Armed Bandit | 2.00% | ~100 |
-| Episodic | 2.00% | ~100 |
-| End of Transmission | 2.00% | ~100 |
-| Gramophone Enthusiast | 2.00% | ~100 |
+| Ghost in the Machine | 2.00% | ~101 |
+| Homo Machinalis | 2.00% | ~101 |
+| Was That Yours? | 2.00% | ~101 |
+| Guard Dog | 2.00% | ~101 |
+| Carbon Cat vs Iron Maus | 2.00% | ~101 |
+| Dress Up | 2.00% | ~101 |
+| New Gear | 2.00% | ~101 |
+| Good Listener | 2.00% | ~101 |
+| One-Armed Bandit | 2.00% | ~101 |
+| Episodic | 2.00% | ~101 |
+| End of Transmission | 2.00% | ~101 |
+| Gramophone Enthusiast | 2.00% | ~101 |
 | Bling-Bling | 1.00% | ~50 |
 | Sniffing Around | 0.80% | ~40 |
 | Suited and Booted | 0.80% | ~40 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~30 |
 | The Surge | 0.40% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,025 (Ranked 200)  
+Progressed: 5,026 (Ranked 200)  
 Completed: 18 (0.36%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,14 +277,14 @@ Completed: 18 (0.36%) (Ranked 235)
 | 2023-12-19 | 4,989 | 18 |
 | 2023-12-20 | 5,007 | 18 |
 | 2023-12-21 | 5,019 | 18 |
-| 2023-12-22 | 5,025 | 18 |
+| 2023-12-22 | 5,026 | 18 |
 ## Awards
-Max (Great Boss Battles): 29  (Ranked 512)  
-Sum: 29 (Ranked 528)  
+Max (Great Boss Battles): 30  (Ranked 510)  
+Sum: 30 (Ranked 526)  
 Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 29 |
+| This game has Great Boss Battles | 30 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -356,3 +356,4 @@ Diff (max vs sum): -16
 | 2023-10-22 | 4.44 | - | 29 | 29 |
 | 2023-11-03 | 4.43 | - | 29 | 29 |
 | 2023-12-21 | 4.44 | - | 29 | 29 |
+| 2023-12-22 | 4.44 | - | 30 | 30 |

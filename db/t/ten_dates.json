@@ -4,7 +4,7 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 380,
+  "EOS_Progressed": 381,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -941,6 +941,11 @@
       "Time": "2023-12-22T12:10:12.2308893+00:00",
       "NumProgressed": 380,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-22T16:10:48.8044211+00:00",
+      "NumProgressed": 381,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 19,
@@ -984,7 +989,7 @@
       "Name": "Let it begin",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "profile_ryan",
@@ -1032,7 +1037,7 @@
       "Name": "The boss",
       "Percentage": 23,
       "XP": 90,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "success_derek",
@@ -1103,7 +1108,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 380,
+      "Progressed": 381,
       "Completed": 4
     }
   ],
@@ -1111,8 +1116,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-12-22T15:09:20.454386+00:00",
+  "LastChanged_Achievements": "2023-12-22T16:10:48.8044208+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:10.0190099+00:00",
-  "LastUpdate_Ratings": "2023-12-22T14:57:55.3260431+00:00",
-  "LastUpdate_Achievements": "2023-12-22T15:09:20.4543974+00:00"
+  "LastUpdate_Ratings": "2023-12-22T15:58:30.5443417+00:00",
+  "LastUpdate_Achievements": "2023-12-22T16:10:48.8044333+00:00"
 }

@@ -6,20 +6,24 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Settler | 0.30% | ~48 |
 | Able | 0.20% | ~32 |
 | Architect | 0.20% | ~32 |
 | Explorer | 0.20% | ~32 |
 | Good | 0.20% | ~32 |
 | Intrepid | 0.20% | ~32 |
+| Just | 0.20% | ~32 |
 | Learned | 0.20% | ~32 |
 | Mason | 0.20% | ~32 |
 | Noble | 0.20% | ~32 |
 | Pioneer | 0.20% | ~32 |
-| Settler | 0.20% | ~32 |
 | Strong | 0.20% | ~32 |
 | Friendly Family | 0.20% | ~32 |
 | Hanging Gardens | 0.20% | ~32 |
+| Oracle | 0.20% | ~32 |
 | Play a Single Player Game | 0.20% | ~32 |
+| Judaism | 0.20% | ~32 |
+| Greek Paganism | 0.20% | ~32 |
 | Alexander the Great | 0.10% | ~16 |
 | Lighthouse in Alexandria | 0.10% | ~16 |
 | Musaeum in Alexandria | 0.10% | ~16 |
@@ -69,7 +73,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Holy | 0.10% | ~16 |
 | Intercessor | 0.10% | ~16 |
 | Invincible | 0.10% | ~16 |
-| Just | 0.10% | ~16 |
 | Keystone | 0.10% | ~16 |
 | Lion | 0.10% | ~16 |
 | Magnificent | 0.10% | ~16 |
@@ -127,7 +130,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum | 0.10% | ~16 |
 | Musaeum | 0.10% | ~16 |
 | Necropolis | 0.10% | ~16 |
-| Oracle | 0.10% | ~16 |
 | Pantheon | 0.10% | ~16 |
 | Pyramids | 0.10% | ~16 |
 | Via Recta Souk | 0.10% | ~16 |
@@ -156,13 +158,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Play-By-Cloud Game | 0.10% | ~16 |
 | Power to the People | 0.10% | ~16 |
 | Christianity | 0.10% | ~16 |
-| Judaism | 0.10% | ~16 |
 | Manichaeism | 0.10% | ~16 |
 | Assyrian Paganism | 0.10% | ~16 |
 | Babylonian Paganism | 0.10% | ~16 |
 | Carthaginian Paganism | 0.10% | ~16 |
 | Egyptian Paganism | 0.10% | ~16 |
-| Greek Paganism | 0.10% | ~16 |
 | Hittite Paganism | 0.10% | ~16 |
 | Persian Paganism | 0.10% | ~16 |
 | Roman Paganism | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,873 (Ranked 160)  
+Progressed: 15,874 (Ranked 160)  
 Completed: 5 (0.03%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -611,7 +611,7 @@ Completed: 5 (0.03%) (Ranked 345)
 | 2023-12-19 | 15,840 | 5 |
 | 2023-12-20 | 15,854 | 5 |
 | 2023-12-21 | 15,865 | 5 |
-| 2023-12-22 | 15,873 | 5 |
+| 2023-12-22 | 15,874 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 279)  
 Sum: 1,907 (Ranked 220)  

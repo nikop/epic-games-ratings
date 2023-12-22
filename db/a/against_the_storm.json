@@ -3539,9 +3539,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18915,
+  "EOS_Progressed": 18919,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 694,
+  "EOS_NewPlayers": 688,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16694,6 +16694,11 @@
       "Time": "2023-12-22T15:07:37.6143639+00:00",
       "NumProgressed": 18915,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-22T16:09:13.9384044+00:00",
+      "NumProgressed": 18919,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16770,7 +16775,7 @@
       "Name": "Efficient Explorer",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "MetalChain",
@@ -16778,7 +16783,7 @@
       "Name": "Refinery",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "Win5Years",
@@ -16802,7 +16807,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "WinImpossible",
@@ -16816,9 +16821,9 @@
       "ID": "WinNearArmory",
       "SetID": "cfbk359",
       "Name": "Ruined Armory",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 378
     },
     {
       "ID": "WinNearBandit",
@@ -16946,7 +16951,7 @@
       "Name": "Forsaken Gods Temple",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "WinNearTorrent",
@@ -16970,7 +16975,7 @@
       "Name": "Coral Forest",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "WinOnCursed",
@@ -16986,7 +16991,7 @@
       "Name": "The Marshlands",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "WinOnMoorlands",
@@ -16994,7 +16999,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "WinPrestige10",
@@ -17177,15 +17182,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18915,
+      "Progressed": 18919,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-21T17:59:36.1497483+00:00",
-  "LastChanged_Achievements": "2023-12-22T15:07:37.6143636+00:00",
+  "LastChanged_Achievements": "2023-12-22T16:09:13.938404+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
-  "LastUpdate_Ratings": "2023-12-22T15:00:43.5527565+00:00",
-  "LastUpdate_Achievements": "2023-12-22T15:07:37.6144877+00:00"
+  "LastUpdate_Ratings": "2023-12-22T16:02:21.7022726+00:00",
+  "LastUpdate_Achievements": "2023-12-22T16:09:13.9384876+00:00"
 }

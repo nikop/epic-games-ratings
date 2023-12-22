@@ -10,34 +10,34 @@ Number of Ratings: 20  (23.09.2022)
 | Cartographer | 57.00% | ~213 |
 | A Strange Artefact | 52.00% | ~194 |
 | Insomnia | 49.00% | ~183 |
-| Lost & Found & Lost Again | 43.00% | ~160 |
+| Lost & Found & Lost Again | 43.00% | ~161 |
 | From Whence we Came | 42.00% | ~157 |
 | Fire and Flood | 41.00% | ~153 |
 | Spooky! | 37.00% | ~138 |
-| Treasure Hunt | 35.00% | ~131 |
 | Shennong Herbalist | 34.00% | ~127 |
+| Treasure Hunt | 34.00% | ~127 |
 | Good Mama | 33.00% | ~123 |
 | O Captain My Captain | 31.00% | ~116 |
 | Plunderer | 29.00% | ~108 |
 | Taxonomist | 27.00% | ~101 |
-| Traveller | 25.00% | ~93 |
-| Uncertain Loyalties | 25.00% | ~93 |
+| Traveller | 25.00% | ~94 |
+| Uncertain Loyalties | 25.00% | ~94 |
 | Nahua Seeker | 24.00% | ~90 |
 | Roll to Save | 23.00% | ~86 |
-| Veteran Explorer | 21.00% | ~78 |
+| Veteran Explorer | 21.00% | ~79 |
 | Red Flag Pirate | 20.00% | ~75 |
-| Iron Man | 17.00% | ~63 |
-| A Gentle Beast | 17.00% | ~63 |
+| Iron Man | 17.00% | ~64 |
+| A Gentle Beast | 17.00% | ~64 |
 | For the Club! | 16.00% | ~60 |
 | Shortening of the Way | 16.00% | ~60 |
 | Practical Palaeontology | 16.00% | ~60 |
 | Adventurer | 15.00% | ~56 |
 | Dapper | 15.00% | ~56 |
 | Plays Well With Others | 14.00% | ~52 |
-| The New Director | 13.00% | ~48 |
-| The Director is Dead | 13.00% | ~48 |
-| And Here Is Your Statue | 13.00% | ~48 |
-| Discovery | 13.00% | ~48 |
+| The New Director | 13.00% | ~49 |
+| The Director is Dead | 13.00% | ~49 |
+| And Here Is Your Statue | 13.00% | ~49 |
+| Discovery | 13.00% | ~49 |
 | Very Classy | 12.00% | ~45 |
 | Under the Table | 11.00% | ~41 |
 | It's Complicated | 11.00% | ~41 |
@@ -67,8 +67,8 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.80% | ~3 |
 | Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 373 (Ranked 354)  
-Completed: 1 (0.27%) (Ranked 254)  
+Progressed: 374 (Ranked 352)  
+Completed: 1 (0.27%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -127,7 +127,7 @@ Completed: 1 (0.27%) (Ranked 254)
 | 2023-12-19 | 364 | 1 |
 | 2023-12-20 | 365 | 1 |
 | 2023-12-21 | 370 | 1 |
-| 2023-12-22 | 373 | 1 |
+| 2023-12-22 | 374 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

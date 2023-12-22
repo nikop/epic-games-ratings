@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
     "PcReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -163,7 +163,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7611,
+  "EOS_Progressed": 7612,
   "EOS_Completed": 47,
   "EOS_NewPlayers": 254,
   "EOS_NewCompleters": 4,
@@ -7838,6 +7838,11 @@
       "Time": "2023-12-22T15:07:42.1330487+00:00",
       "NumProgressed": 7611,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-12-22T16:09:20.337981+00:00",
+      "NumProgressed": 7612,
+      "NumCompleted": 47
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -7850,7 +7855,7 @@
       "Name": "First of Many",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 6698
+      "UsersEstimate": 6699
     },
     {
       "ID": "achievement_01_02",
@@ -7866,7 +7871,7 @@
       "Name": "Brand New Ride",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4947
+      "UsersEstimate": 4948
     },
     {
       "ID": "achievement_01_04",
@@ -7874,7 +7879,7 @@
       "Name": "Bzzzt",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 5632
+      "UsersEstimate": 5633
     },
     {
       "ID": "achievement_01_05",
@@ -7882,7 +7887,7 @@
       "Name": "Automotive Stylist",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 3729
+      "UsersEstimate": 3730
     },
     {
       "ID": "achievement_01_06",
@@ -7906,7 +7911,7 @@
       "Name": "Trophy Collector",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 5708
+      "UsersEstimate": 5709
     },
     {
       "ID": "achievement_01_09",
@@ -7922,7 +7927,7 @@
       "Name": "Beat the Clock",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 4186
+      "UsersEstimate": 4187
     },
     {
       "ID": "achievement_02_01",
@@ -7978,7 +7983,7 @@
       "Name": "Whale of a Time",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 3729
+      "UsersEstimate": 3730
     },
     {
       "ID": "achievement_02_08",
@@ -8090,7 +8095,7 @@
       "Name": "Gotta go Fast",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 3653
+      "UsersEstimate": 3654
     },
     {
       "ID": "achievement_04_03",
@@ -8153,7 +8158,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 7611,
+      "Progressed": 7612,
       "Completed": 47
     }
   ],
@@ -8161,8 +8166,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-12-20T14:59:57.7914737+00:00",
-  "LastChanged_Achievements": "2023-12-22T15:07:42.1330483+00:00",
+  "LastChanged_Achievements": "2023-12-22T16:09:20.3379807+00:00",
   "LastUpdate_AppInfo": "2023-12-21T23:57:02.6189043+00:00",
-  "LastUpdate_Ratings": "2023-12-22T14:57:33.26573+00:00",
-  "LastUpdate_Achievements": "2023-12-22T15:07:42.1331081+00:00"
+  "LastUpdate_Ratings": "2023-12-22T15:58:01.7536475+00:00",
+  "LastUpdate_Achievements": "2023-12-22T16:09:20.3380384+00:00"
 }

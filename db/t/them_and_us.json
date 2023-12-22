@@ -4,7 +4,7 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_NewPlayers": 354,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 337,
+  "EOS_Progressed": 338,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -1486,6 +1486,11 @@
       "Time": "2023-12-21T19:03:50.9794264+00:00",
       "NumProgressed": 337,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-22T16:05:36.913037+00:00",
+      "NumProgressed": 338,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1503,9 +1508,9 @@
       "ID": "ETUA_AloneInTheDark",
       "SetID": "65jc0ap",
       "Name": "Alone In The Dark",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 47
     },
     {
       "ID": "ETUA_AlonewithThem",
@@ -1513,7 +1518,7 @@
       "Name": "Alone with Them",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -1521,7 +1526,7 @@
       "Name": "Armed To The Teeth",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ETUA_BackInTime",
@@ -1593,7 +1598,7 @@
       "Name": "Forced to Kill",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1743,9 +1748,9 @@
       "ID": "ETUA_TheCultists",
       "SetID": "65jc0ap",
       "Name": "The Cultists",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 47
     },
     {
       "ID": "ETUA_TheCurseIsReal",
@@ -1777,7 +1782,7 @@
       "Name": "This Mansion Is Clean",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ETUA_Thiswillbealongnight",
@@ -1785,7 +1790,7 @@
       "Name": "A Night To Remember",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ETUA_Trapped",
@@ -1793,7 +1798,7 @@
       "Name": "Trapped",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ETUA_WhatAMansion",
@@ -1816,7 +1821,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 337,
+      "Progressed": 338,
       "Completed": 1
     }
   ],
@@ -1824,8 +1829,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-12-22T15:03:58.7185377+00:00",
+  "LastChanged_Achievements": "2023-12-22T16:05:36.9130367+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:15.4863673+00:00",
-  "LastUpdate_Ratings": "2023-12-22T15:00:19.3309844+00:00",
-  "LastUpdate_Achievements": "2023-12-22T15:03:58.7185642+00:00"
+  "LastUpdate_Ratings": "2023-12-22T16:01:50.2812774+00:00",
+  "LastUpdate_Achievements": "2023-12-22T16:05:36.9130699+00:00"
 }

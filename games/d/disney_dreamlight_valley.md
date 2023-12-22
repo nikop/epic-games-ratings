@@ -6,23 +6,23 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 68.00% | ~8,818 |
+| Goofy's Investor | 68.00% | ~8,819 |
 | Photographer | 67.00% | ~8,689 |
-| Valley's Helper | 61.00% | ~7,910 |
+| Valley's Helper | 61.00% | ~7,911 |
 | Constructor | 51.00% | ~6,614 |
 | Renovator | 51.00% | ~6,614 |
-| Bestest Friend | 46.00% | ~5,965 |
+| Bestest Friend | 46.00% | ~5,966 |
 | Banker | 39.00% | ~5,058 |
 | Gardener | 31.00% | ~4,020 |
 | Generous | 25.00% | ~3,242 |
 | Chef Cook | 19.00% | ~2,464 |
-| Miner | 11.00% | ~1,426 |
-| Duty Bound | 8.00% | ~1,037 |
+| Miner | 11.00% | ~1,427 |
+| Duty Bound | 8.00% | ~1,038 |
 | Angler | 6.00% | ~778 |
 | Thorn Cleaner | 6.00% | ~778 |
 | Chit Chatter | 3.00% | ~389 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,968 (Ranked 167)  
+Progressed: 12,969 (Ranked 167)  
 Completed: 324 (2.50%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,10 +219,10 @@ Completed: 324 (2.50%) (Ranked 124)
 | 2023-12-19 | 12,853 | 318 |
 | 2023-12-20 | 12,891 | 320 |
 | 2023-12-21 | 12,956 | 322 |
-| 2023-12-22 | 12,968 | 324 |
+| 2023-12-22 | 12,969 | 324 |
 ## Awards
 Max (Great for Beginners): 1,147  (Ranked 145)  
-Sum: 8,220 (Ranked 107)  
+Sum: 8,221 (Ranked 107)  
 Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
@@ -230,7 +230,7 @@ Diff (max vs sum): 38
 | This game has Diverse Characters | 955 |
 | This game is Highly Recommended | 854 |
 | This game has Amazing Characters | 836 |
-| This game is Relaxing | 820 |
+| This game is Relaxing | 821 |
 | This game has Amazing Storytelling | 798 |
 | This game is Extremely Fun | 783 |
 | This game has Quickly Understood Controls | 767 |
@@ -522,4 +522,4 @@ Diff (max vs sum): 38
 | 2023-12-19 | 4.76 | - | 1,141 | 8,195 |
 | 2023-12-20 | 4.76 | - | 1,144 | 8,207 |
 | 2023-12-21 | 4.76 | - | 1,147 | 8,216 |
-| 2023-12-22 | 4.76 | - | 1,147 | 8,220 |
+| 2023-12-22 | 4.76 | - | 1,147 | 8,221 |

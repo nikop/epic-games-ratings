@@ -14,7 +14,7 @@ Rating: 4.63 (Ranked 353)
 | Miner 49er | 0.90% | ~77 |
 | Break-Net Speed | 0.90% | ~77 |
 | Humble Collector | 0.80% | ~69 |
-| Mist Walker | 0.70% | ~60 |
+| Mist Walker | 0.80% | ~69 |
 | Clear the Air | 0.60% | ~52 |
 | Lumberjack | 0.60% | ~52 |
 | Oui, Chef! | 0.60% | ~52 |

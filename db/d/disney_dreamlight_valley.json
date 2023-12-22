@@ -5383,10 +5383,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 8220,
       "NumberOfAwardsMax": 1147
+    },
+    {
+      "Time": "2023-12-22T15:57:53.8908568+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 8221,
+      "NumberOfAwardsMax": 1147
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8220,
+  "NumberOfAwards": 8221,
   "NumberOfAwardsMax": 1147,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5436,7 +5442,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 820
+      "Count": 821
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5457,9 +5463,9 @@
       "Count": 542
     }
   ],
-  "EOS_Progressed": 12968,
+  "EOS_Progressed": 12969,
   "EOS_Completed": 324,
-  "EOS_NewPlayers": 351,
+  "EOS_NewPlayers": 350,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 2.5,
   "EosHistory": [
@@ -22612,6 +22618,11 @@
       "Time": "2023-12-22T15:08:52.3679179+00:00",
       "NumProgressed": 12968,
       "NumCompleted": 324
+    },
+    {
+      "Time": "2023-12-22T16:10:11.1116778+00:00",
+      "NumProgressed": 12969,
+      "NumCompleted": 324
     }
   ],
   "TotalAchievements": 15,
@@ -22639,7 +22650,7 @@
       "Name": "Bestest Friend",
       "Percentage": 46,
       "XP": 75,
-      "UsersEstimate": 5965
+      "UsersEstimate": 5966
     },
     {
       "ID": "Chef_Cook",
@@ -22671,7 +22682,7 @@
       "Name": "Duty Bound",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1038
     },
     {
       "ID": "Gardener",
@@ -22695,7 +22706,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 68,
       "XP": 75,
-      "UsersEstimate": 8818
+      "UsersEstimate": 8819
     },
     {
       "ID": "Miner",
@@ -22703,7 +22714,7 @@
       "Name": "Miner",
       "Percentage": 11,
       "XP": 75,
-      "UsersEstimate": 1426
+      "UsersEstimate": 1427
     },
     {
       "ID": "Photographer",
@@ -22735,23 +22746,23 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 61,
       "XP": 100,
-      "UsersEstimate": 7910
+      "UsersEstimate": 7911
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 12968,
+      "Progressed": 12969,
       "Completed": 324
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-12-22T14:57:27.7496065+00:00",
-  "LastChanged_Achievements": "2023-12-22T15:08:52.3679176+00:00",
+  "LastChanged": "2023-12-22T15:57:53.8908564+00:00",
+  "LastChanged_Achievements": "2023-12-22T16:10:11.1116773+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:26.6445497+00:00",
-  "LastUpdate_Ratings": "2023-12-22T14:57:27.749607+00:00",
-  "LastUpdate_Achievements": "2023-12-22T15:08:52.3680176+00:00"
+  "LastUpdate_Ratings": "2023-12-22T15:57:53.8908572+00:00",
+  "LastUpdate_Achievements": "2023-12-22T16:10:11.1117787+00:00"
 }

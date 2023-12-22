@@ -379,9 +379,9 @@
       "Count": 69
     }
   ],
-  "EOS_Progressed": 1758,
+  "EOS_Progressed": 1759,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -2859,6 +2859,11 @@
       "Time": "2023-12-22T15:03:55.1035425+00:00",
       "NumProgressed": 1758,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-22T16:05:32.0899858+00:00",
+      "NumProgressed": 1759,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 38,
@@ -2870,7 +2875,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1723
+      "UsersEstimate": 1724
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -2878,7 +2883,7 @@
       "Name": "Great Doctor",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 879
+      "UsersEstimate": 880
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -2926,7 +2931,7 @@
       "Name": "The First Step",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1547
+      "UsersEstimate": 1548
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -2934,7 +2939,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1073
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -2942,15 +2947,15 @@
       "Name": "Intermediate Chemist",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "ACHIEVEMENTS_11",
       "SetID": "d4o538a",
       "Name": "Expert Chemist",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 80,
-      "UsersEstimate": 264
+      "UsersEstimate": 246
     },
     {
       "ID": "ACHIEVEMENTS_12",
@@ -2982,7 +2987,7 @@
       "Name": "Friendly",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "ACHIEVEMENTS_16",
@@ -3014,7 +3019,7 @@
       "Name": "Spark of Love",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "ACHIEVEMENTS_20",
@@ -3118,7 +3123,7 @@
       "Name": "Adolescent Love",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACHIEVEMENTS_33",
@@ -3158,7 +3163,7 @@
       "Name": "Mail Carrier",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACHIEVEMENTS_38",
@@ -3173,7 +3178,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1758,
+      "Progressed": 1759,
       "Completed": 10
     }
   ],
@@ -3181,8 +3186,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-12-02T14:58:43.9151067+00:00",
-  "LastChanged_Achievements": "2023-12-22T15:03:55.1035423+00:00",
+  "LastChanged_Achievements": "2023-12-22T16:05:32.0899854+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:47.0899932+00:00",
-  "LastUpdate_Ratings": "2023-12-22T14:58:20.1773279+00:00",
-  "LastUpdate_Achievements": "2023-12-22T15:03:55.103583+00:00"
+  "LastUpdate_Ratings": "2023-12-22T15:59:05.8099553+00:00",
+  "LastUpdate_Achievements": "2023-12-22T16:05:32.0900233+00:00"
 }

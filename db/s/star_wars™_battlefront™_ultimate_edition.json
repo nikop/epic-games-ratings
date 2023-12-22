@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1998,
+  "EOS_Progressed": 2000,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 259,
+  "EOS_NewPlayers": 260,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5874,6 +5874,11 @@
       "Time": "2023-12-22T15:09:57.6611203+00:00",
       "NumProgressed": 1998,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-22T16:11:35.7199489+00:00",
+      "NumProgressed": 2000,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -6110,7 +6115,7 @@
       "Name": "New Recruit",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1758
+      "UsersEstimate": 1760
     },
     {
       "ID": "achievement_36",
@@ -6126,7 +6131,7 @@
       "Name": "Off to a good start",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1279
+      "UsersEstimate": 1280
     },
     {
       "ID": "achievement_38",
@@ -6158,7 +6163,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1020
     },
     {
       "ID": "achievement_41",
@@ -6190,7 +6195,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "achievement_45",
@@ -6252,9 +6257,9 @@
       "ID": "achievement_51",
       "SetID": "cemm4l8",
       "Name": "You have your moments",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "achievement_52",
@@ -6268,9 +6273,9 @@
       "ID": "achievement_53",
       "SetID": "cemm4l8",
       "Name": "I\u2019ll take that bet",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 90,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_54",
@@ -6348,9 +6353,9 @@
       "ID": "achievement_62",
       "SetID": "cemm4l8",
       "Name": "I never doubted you!",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_63",
@@ -6389,13 +6394,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1998,
+      "Progressed": 2000,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1998,
+      "Progressed": 2000,
       "Completed": 1
     }
   ],
@@ -6403,8 +6408,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-22T15:09:57.6611201+00:00",
+  "LastChanged_Achievements": "2023-12-22T16:11:35.7199486+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.5169818+00:00",
-  "LastUpdate_Ratings": "2023-12-22T14:58:52.7322629+00:00",
-  "LastUpdate_Achievements": "2023-12-22T15:09:57.6611815+00:00"
+  "LastUpdate_Ratings": "2023-12-22T15:59:49.6676214+00:00",
+  "LastUpdate_Achievements": "2023-12-22T16:11:35.7200113+00:00"
 }

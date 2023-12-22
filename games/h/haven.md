@@ -6,20 +6,20 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Balding bloot! | 75.00% | ~1,283 |
-| Lovebirds | 46.00% | ~787 |
-| Hug therapy | 41.00% | ~702 |
+| Balding bloot! | 75.00% | ~1,285 |
+| Lovebirds | 46.00% | ~788 |
 | Life’s short, ride long | 41.00% | ~702 |
-| Over my dead body | 37.00% | ~633 |
-| Shake the rust off their feet | 20.00% | ~342 |
+| Hug therapy | 40.00% | ~685 |
+| Over my dead body | 37.00% | ~634 |
+| Shake the rust off their feet | 19.00% | ~325 |
 | My little pony | 18.00% | ~308 |
 | Strike! | 17.00% | ~291 |
 | A love supreme | 17.00% | ~291 |
 | In my shoes | 16.00% | ~274 |
 | Like new! | 14.00% | ~240 |
-| Heartstrings | 13.00% | ~222 |
-| Head in the clouds | 13.00% | ~222 |
-| Don't look back | 12.00% | ~205 |
+| Heartstrings | 13.00% | ~223 |
+| Head in the clouds | 13.00% | ~223 |
+| Don't look back | 12.00% | ~206 |
 | Back to rust | 11.00% | ~188 |
 | Flower Powered | 11.00% | ~188 |
 | Perfect timing | 9.00% | ~154 |
@@ -28,16 +28,16 @@ Number of Ratings: 38  (23.09.2022)
 | Self-sustainability | 7.00% | ~120 |
 | Spring cleaning | 5.00% | ~86 |
 | An eye for an eye | 5.00% | ~86 |
-| Second thoughts | 4.00% | ~68 |
-| Mooning the moon | 4.00% | ~68 |
-| Can't get wetter... | 4.00% | ~68 |
-| Strip-a-bobble | 4.00% | ~68 |
+| Second thoughts | 4.00% | ~69 |
+| Mooning the moon | 4.00% | ~69 |
+| Can't get wetter... | 4.00% | ~69 |
+| Strip-a-bobble | 4.00% | ~69 |
 | Pearls before Birble | 3.00% | ~51 |
 | Last minute | 3.00% | ~51 |
 | Thar she blows | 2.00% | ~34 |
 | À la carte | 2.00% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,711 (Ranked 243)  
+Progressed: 1,713 (Ranked 243)  
 Completed: 10 (0.58%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 10 (0.58%) (Ranked 199)
 | 2023-12-19 | 1,679 | 10 |
 | 2023-12-20 | 1,693 | 10 |
 | 2023-12-21 | 1,707 | 10 |
-| 2023-12-22 | 1,711 | 10 |
+| 2023-12-22 | 1,713 | 10 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

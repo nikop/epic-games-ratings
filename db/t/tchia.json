@@ -259,7 +259,7 @@
   "Tags": [],
   "EOS_Progressed": 8186,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 178,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -9666,9 +9666,9 @@
       "ID": "AHEM_AHEM",
       "SetID": "3cck1g6",
       "Name": "Ahem Ahem",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 8
     },
     {
       "ID": "ARRR",
@@ -9843,8 +9843,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-12-17T08:57:44.8415466+00:00",
-  "LastChanged_Achievements": "2023-12-22T15:06:13.9650429+00:00",
+  "LastChanged_Achievements": "2023-12-22T16:08:31.3512409+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:46.5620941+00:00",
-  "LastUpdate_Ratings": "2023-12-22T15:00:10.0043319+00:00",
-  "LastUpdate_Achievements": "2023-12-22T15:06:13.9651055+00:00"
+  "LastUpdate_Ratings": "2023-12-22T16:01:37.1076493+00:00",
+  "LastUpdate_Achievements": "2023-12-22T16:08:31.3512968+00:00"
 }

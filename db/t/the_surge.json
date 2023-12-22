@@ -3,8 +3,8 @@
   "Name": "The Surge",
   "ProductSlug": "the-surge",
   "Ranking_Rating": 686,
-  "Ranking_Popularity": 512,
-  "Ranking_PopularitySum": 528,
+  "Ranking_Popularity": 510,
+  "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 207,
@@ -368,21 +368,27 @@
       "Rating": 4.44,
       "NumberOfAwards": 29,
       "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2023-12-22T16:02:12.558052+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 30,
+      "NumberOfAwardsMax": 30
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29,
-  "NumberOfAwardsMax": 29,
+  "NumberOfAwards": 30,
+  "NumberOfAwardsMax": 30,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 29
+      "Count": 30
     }
   ],
-  "EOS_Progressed": 5025,
+  "EOS_Progressed": 5026,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
@@ -3917,6 +3923,11 @@
       "Time": "2023-12-22T15:07:39.584896+00:00",
       "NumProgressed": 5025,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-22T16:09:16.395662+00:00",
+      "NumProgressed": 5026,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -3928,7 +3939,7 @@
       "Name": "P.A.X",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1859
+      "UsersEstimate": 1860
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -3976,7 +3987,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4221
+      "UsersEstimate": 4222
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -3992,7 +4003,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3869
+      "UsersEstimate": 3870
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -4096,7 +4107,7 @@
       "Name": "Right Tool for the Job",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "ID_ACHIEV_23",
@@ -4128,7 +4139,7 @@
       "Name": "Ghost in the Machine",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ID_ACHIEV_27",
@@ -4144,7 +4155,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3819
+      "UsersEstimate": 3820
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -4192,7 +4203,7 @@
       "Name": "Most Wanted",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1307
     },
     {
       "ID": "ID_ACHIEV_36",
@@ -4208,7 +4219,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -4224,7 +4235,7 @@
       "Name": "Homo Machinalis",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ID_ACHIEV_40",
@@ -4232,7 +4243,7 @@
       "Name": "Was That Yours?",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ID_ACHIEV_41",
@@ -4240,7 +4251,7 @@
       "Name": "Guard Dog",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ID_ACHIEV_42",
@@ -4248,7 +4259,7 @@
       "Name": "Nothing to Lose",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 904
+      "UsersEstimate": 905
     },
     {
       "ID": "ID_ACHIEV_43",
@@ -4278,9 +4289,9 @@
       "ID": "ID_ACHIEV_46",
       "SetID": "98bke8c",
       "Name": "SENTINEL",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 804
+      "UsersEstimate": 754
     },
     {
       "ID": "ID_ACHIEV_47",
@@ -4320,7 +4331,7 @@
       "Name": "Carbon Cat vs Iron Maus",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ID_ACHIEV_52",
@@ -4328,7 +4339,7 @@
       "Name": "Dress Up",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ID_ACHIEV_53",
@@ -4336,7 +4347,7 @@
       "Name": "New Gear",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ID_ACHIEV_54",
@@ -4352,7 +4363,7 @@
       "Name": "Good Listener",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ID_ACHIEV_56",
@@ -4384,7 +4395,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ID_ACHIEV_60",
@@ -4400,7 +4411,7 @@
       "Name": "Episodic",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ID_ACHIEV_62",
@@ -4432,7 +4443,7 @@
       "Name": "End of Transmission",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ID_ACHIEV_66",
@@ -4440,7 +4451,7 @@
       "Name": "Gramophone Enthusiast",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ID_ACHIEV_67",
@@ -4463,15 +4474,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5025,
+      "Progressed": 5026,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
-  "LastChanged": "2023-12-21T05:59:26.6733243+00:00",
-  "LastChanged_Achievements": "2023-12-22T15:07:39.5848958+00:00",
+  "LastChanged": "2023-12-22T16:02:12.5580517+00:00",
+  "LastChanged_Achievements": "2023-12-22T16:09:16.3956617+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.7369287+00:00",
-  "LastUpdate_Ratings": "2023-12-22T15:00:36.3990523+00:00",
-  "LastUpdate_Achievements": "2023-12-22T15:07:39.5849789+00:00"
+  "LastUpdate_Ratings": "2023-12-22T16:02:12.5580527+00:00",
+  "LastUpdate_Achievements": "2023-12-22T16:09:16.3957215+00:00"
 }

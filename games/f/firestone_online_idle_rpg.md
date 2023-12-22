@@ -5,29 +5,29 @@ Rating: 4.05 (Ranked 1,006)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,408 |
-| World Map | 78.00% | ~2,859 |
-| Temple of Eternals | 56.00% | ~2,052 |
-| Prestigious | 53.00% | ~1,942 |
-| Fellowship Power | 42.00% | ~1,539 |
-| Full Party | 25.00% | ~916 |
+| Victor | 93.00% | ~3,410 |
+| World Map | 78.00% | ~2,860 |
+| Temple of Eternals | 56.00% | ~2,054 |
+| Prestigious | 53.00% | ~1,944 |
+| Fellowship Power | 42.00% | ~1,540 |
+| Full Party | 25.00% | ~917 |
 | Guild Power | 23.00% | ~843 |
 | Prestigious x10 | 20.00% | ~733 |
 | The game is on | 18.00% | ~660 |
-| Exotic Merchant | 16.00% | ~586 |
+| Exotic Merchant | 16.00% | ~587 |
 | Dragon Clicker | 15.00% | ~550 |
 | Miner Clicker | 15.00% | ~550 |
 | Hero inspection | 14.00% | ~513 |
 | Inspection | 14.00% | ~513 |
-| Dragon Master | 13.00% | ~476 |
-| Enlightenment | 13.00% | ~476 |
+| Dragon Master | 13.00% | ~477 |
+| Enlightenment | 13.00% | ~477 |
 | Lieutenant | 12.00% | ~440 |
 | Milestone collector | 11.00% | ~403 |
 | Mysterious Rock | 11.00% | ~403 |
 | Natural Talent | 11.00% | ~403 |
 | Superior | 11.00% | ~403 |
 | The Unstoppable | 11.00% | ~403 |
-| Scientist | 10.00% | ~366 |
+| Scientist | 10.00% | ~367 |
 | Challenger | 9.00% | ~330 |
 | Daily Quest Completionist | 9.00% | ~330 |
 | Doing My Part | 9.00% | ~330 |
@@ -46,7 +46,6 @@ Rating: 4.05 (Ranked 1,006)
 | Dragon Slayer | 6.00% | ~220 |
 | The Expeditioner | 6.00% | ~220 |
 | Weekly Quest Completionist | 6.00% | ~220 |
-| Ancient Knowledge | 5.00% | ~183 |
 | Blueprint Upgrades | 5.00% | ~183 |
 | Crystal Mining | 5.00% | ~183 |
 | Enchanting skill | 5.00% | ~183 |
@@ -56,6 +55,7 @@ Rating: 4.05 (Ranked 1,006)
 | Missions Dedication | 5.00% | ~183 |
 | Sailor | 5.00% | ~183 |
 | Active Member | 4.00% | ~147 |
+| Ancient Knowledge | 4.00% | ~147 |
 | Arena Challenger | 4.00% | ~147 |
 | Background Story | 4.00% | ~147 |
 | Ebony Jungle Liberator | 4.00% | ~147 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 1,006)
 | Jewel Enchanting | 0.20% | ~7 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,665 (Ranked 210)  
+Progressed: 3,667 (Ranked 210)  
 Completed: 2 (0.05%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 2 (0.05%) (Ranked 331)
 | 2023-12-19 | 3,555 | 2 |
 | 2023-12-20 | 3,585 | 2 |
 | 2023-12-21 | 3,636 | 2 |
-| 2023-12-22 | 3,665 | 2 |
+| 2023-12-22 | 3,667 | 2 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 474)  
 Sum: 147 (Ranked 431)  

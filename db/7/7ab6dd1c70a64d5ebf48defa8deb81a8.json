@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1037,
+  "EOS_Progressed": 1041,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 585,
   "EOS_NewCompleters": 0,
@@ -2085,6 +2085,11 @@
       "Time": "2023-12-22T15:09:53.9679523+00:00",
       "NumProgressed": 1037,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-22T16:11:31.0797206+00:00",
+      "NumProgressed": 1041,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2096,7 +2101,7 @@
       "Name": "Break Out",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 539
+      "UsersEstimate": 541
     },
     {
       "ID": "ACH_02",
@@ -2110,9 +2115,9 @@
       "ID": "ACH_03",
       "SetID": "efe2lj",
       "Name": "Powerful Allies",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_04",
@@ -2128,7 +2133,7 @@
       "Name": "To Battle",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_06",
@@ -2136,7 +2141,7 @@
       "Name": "Godslayer",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_07",
@@ -2192,7 +2197,7 @@
       "Name": "Adventurer",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH_14",
@@ -2216,7 +2221,7 @@
       "Name": "Essence Blow",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_17",
@@ -2232,7 +2237,7 @@
       "Name": "Shatter Them All",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH_19",
@@ -2272,7 +2277,7 @@
       "Name": "Geared Up",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH_24",
@@ -2288,7 +2293,7 @@
       "Name": "Fashion Victim",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_26",
@@ -2296,7 +2301,7 @@
       "Name": "Scholar",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH_27",
@@ -2383,14 +2388,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1037,
+      "Progressed": 1041,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-22T15:09:53.9679521+00:00",
+  "LastChanged_Achievements": "2023-12-22T16:11:31.0797202+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
-  "LastUpdate_Ratings": "2023-12-22T14:58:43.841358+00:00",
-  "LastUpdate_Achievements": "2023-12-22T15:09:53.9679814+00:00"
+  "LastUpdate_Ratings": "2023-12-22T15:59:37.6898744+00:00",
+  "LastUpdate_Achievements": "2023-12-22T16:11:31.0797581+00:00"
 }

@@ -27,8 +27,8 @@ Number of Ratings: 28  (23.09.2022)
 | America | 19.00% | ~109 |
 | Missed it! | 18.00% | ~103 |
 | Sabotage | 16.00% | ~92 |
+| Japan | 12.00% | ~69 |
 | Achtung! | 12.00% | ~69 |
-| Japan | 11.00% | ~63 |
 | Woodcutter | 11.00% | ~63 |
 | Tycoon | 10.00% | ~57 |
 | Engineer | 10.00% | ~57 |

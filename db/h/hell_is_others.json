@@ -2,12 +2,12 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 748,
+  "Ranking_Rating": 749,
   "Ranking_Popularity": 433,
   "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -1369,9 +1369,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 259622,
+  "EOS_Progressed": 259624,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 256,
+  "EOS_NewPlayers": 255,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24894,6 +24894,11 @@
       "Time": "2023-12-22T15:04:08.2571828+00:00",
       "NumProgressed": 259622,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-22T16:05:49.2249223+00:00",
+      "NumProgressed": 259624,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -25193,7 +25198,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59713
+      "UsersEstimate": 59714
     },
     {
       "ID": "KillOthers2",
@@ -25352,7 +25357,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 259622,
+      "Progressed": 259624,
       "Completed": 3
     }
   ],
@@ -25360,8 +25365,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-12-22T12:01:32.6283228+00:00",
-  "LastChanged_Achievements": "2023-12-22T15:04:08.2571826+00:00",
+  "LastChanged_Achievements": "2023-12-22T16:05:49.224922+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.6293608+00:00",
-  "LastUpdate_Ratings": "2023-12-22T15:00:37.1505286+00:00",
-  "LastUpdate_Achievements": "2023-12-22T15:04:08.257317+00:00"
+  "LastUpdate_Ratings": "2023-12-22T16:02:13.9952168+00:00",
+  "LastUpdate_Achievements": "2023-12-22T16:05:49.2250441+00:00"
 }

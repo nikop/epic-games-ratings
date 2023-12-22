@@ -18,7 +18,7 @@
 | Seal Breaker | 32.00% | ~207 |
 | Handyman | 28.00% | ~181 |
 | Giant Lizard Killer | 26.00% | ~168 |
-| Guardian | 25.00% | ~162 |
+| Guardian | 26.00% | ~168 |
 | Nosebleeder | 25.00% | ~162 |
 | Trader | 21.00% | ~136 |
 | Weapon Boost | 21.00% | ~136 |
@@ -29,7 +29,7 @@
 | Lethal Blade Mantis Killer | 16.00% | ~103 |
 | Squeaky Clean | 16.00% | ~103 |
 | Kind Adventurer | 15.00% | ~97 |
-| Mermaid Killer | 14.00% | ~90 |
+| Mermaid Killer | 15.00% | ~97 |
 | Cave Master | 14.00% | ~90 |
 | Face Slapper | 14.00% | ~90 |
 | Boss challenge | 10.00% | ~65 |
@@ -50,7 +50,7 @@
 | Giantess Challenge | 1.00% | ~6 |
 | Warden Challenge | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 646 (Ranked 308)  
+Progressed: 646 (Ranked 309)  
 Completed: 1 (0.15%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |

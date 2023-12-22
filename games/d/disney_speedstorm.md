@@ -1,37 +1,37 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.40 (Ranked 748)  
+Rating: 4.40 (Ranked 749)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 12.00% | ~42,458 |
-| IT MAKES BOOM! | 8.00% | ~28,305 |
-| EXTRA BOOST | 6.00% | ~21,229 |
-| PROTECTED | 5.00% | ~17,691 |
-| HERE ARE SOME BARE NECESSITIES | 4.00% | ~14,153 |
-| PRO | 4.00% | ~14,153 |
-| AGGRESSIVE RACER | 3.00% | ~10,614 |
-| IT'S A LONG WAY TO THE TOP | 2.00% | ~7,076 |
-| A TIGER'S FEAR | 2.00% | ~7,076 |
-| TRAINING HARD | 1.00% | ~3,538 |
-| RELEASE THE KRAKEN | 1.00% | ~3,538 |
-| BE OUR GUEST | 1.00% | ~3,538 |
-| DEFEAT OUR CHAMPION | 1.00% | ~3,538 |
-| ACE SPEEDSTER | 1.00% | ~3,538 |
-| FRIENDLY | 1.00% | ~3,538 |
-| MASTER | 1.00% | ~3,538 |
-| LEGENDARY HERO | 1.00% | ~3,538 |
-| ACE DEFENDER | 0.90% | ~3,184 |
-| THE EYE OF THE HUNTER | 0.90% | ~3,184 |
-| EXPERIENCED CREW | 0.80% | ~2,831 |
-| ACE BRAWLER | 0.80% | ~2,831 |
-| FRAMED! | 0.60% | ~2,123 |
-| ACE TRICKSTER | 0.60% | ~2,123 |
-| PERFECTLY POISED | 0.50% | ~1,769 |
+| ROOKIE | 12.00% | ~42,481 |
+| IT MAKES BOOM! | 8.00% | ~28,321 |
+| EXTRA BOOST | 6.00% | ~21,241 |
+| PROTECTED | 5.00% | ~17,701 |
+| HERE ARE SOME BARE NECESSITIES | 4.00% | ~14,160 |
+| PRO | 4.00% | ~14,160 |
+| AGGRESSIVE RACER | 3.00% | ~10,620 |
+| IT'S A LONG WAY TO THE TOP | 2.00% | ~7,080 |
+| A TIGER'S FEAR | 2.00% | ~7,080 |
+| TRAINING HARD | 1.00% | ~3,540 |
+| RELEASE THE KRAKEN | 1.00% | ~3,540 |
+| BE OUR GUEST | 1.00% | ~3,540 |
+| DEFEAT OUR CHAMPION | 1.00% | ~3,540 |
+| ACE SPEEDSTER | 1.00% | ~3,540 |
+| FRIENDLY | 1.00% | ~3,540 |
+| MASTER | 1.00% | ~3,540 |
+| LEGENDARY HERO | 1.00% | ~3,540 |
+| ACE DEFENDER | 0.90% | ~3,186 |
+| THE EYE OF THE HUNTER | 0.90% | ~3,186 |
+| EXPERIENCED CREW | 0.80% | ~2,832 |
+| ACE BRAWLER | 0.80% | ~2,832 |
+| FRAMED! | 0.60% | ~2,124 |
+| ACE TRICKSTER | 0.60% | ~2,124 |
+| PERFECTLY POISED | 0.50% | ~1,770 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 353,816 (Ranked 50)  
-Completed: 1,060 (0.30%) (Ranked 249)  
+Progressed: 354,011 (Ranked 50)  
+Completed: 1,061 (0.30%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -272,7 +272,7 @@ Completed: 1,060 (0.30%) (Ranked 249)
 | 2023-12-19 | 346,758 | 975 |
 | 2023-12-20 | 348,507 | 995 |
 | 2023-12-21 | 351,816 | 1,034 |
-| 2023-12-22 | 353,816 | 1,060 |
+| 2023-12-22 | 354,011 | 1,061 |
 ## Awards
 Max (Great for Beginners): 149  (Ranked 323)  
 Sum: 958 (Ranked 272)  

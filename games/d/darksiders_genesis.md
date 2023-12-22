@@ -7,10 +7,11 @@ Number of Ratings: 67  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Soul Cache | 3.00% | ~4 |
-| Mint I | 2.00% | ~2 |
+| Mammon | 2.00% | ~3 |
+| Mint I | 2.00% | ~3 |
 | Astarte | 0.80% | ~1 |
 | Close the Rift | 0.80% | ~1 |
-| Mammon | 0.80% | ~1 |
+| Master of Strife | 0.80% | ~1 |
 | Master of War | 0.80% | ~1 |
 | The Dead Court | 0.80% | ~1 |
 | Why'd It Have to Be Snakes? | 0.80% | ~1 |
@@ -26,7 +27,6 @@ Number of Ratings: 67  (23.09.2022)
 | Good Deeds | 0.00% | ~0 |
 | Hell's Forge | 0.00% | ~0 |
 | Infested | 0.00% | ~0 |
-| Master of Strife | 0.00% | ~0 |
 | Mint II | 0.00% | ~0 |
 | Mint III | 0.00% | ~0 |
 | Moloch | 0.00% | ~0 |
@@ -37,7 +37,7 @@ Number of Ratings: 67  (23.09.2022)
 | Walking Armory | 0.00% | ~0 |
 | Wicked Killington | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 124 (Ranked 447)  
+Progressed: 126 (Ranked 446)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -46,7 +46,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-19 | 62 | 0 |
 | 2023-12-20 | 77 | 0 |
 | 2023-12-21 | 113 | 0 |
-| 2023-12-22 | 124 | 0 |
+| 2023-12-22 | 126 | 0 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 455)  
 Sum: 45 (Ranked 501)  

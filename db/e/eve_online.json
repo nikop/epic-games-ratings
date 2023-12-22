@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 186,
   "Ranking_EOS_Progress": 814,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 563,
+  "Ranking_EOS_NewPlayers": 565,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-09-23T13:00:00+00:00",
@@ -3244,10 +3244,16 @@
       "Rating": 4.23,
       "NumberOfAwards": 2760,
       "NumberOfAwardsMax": 1163
+    },
+    {
+      "Time": "2023-12-22T16:00:39.7450238+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 2762,
+      "NumberOfAwardsMax": 1163
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2760,
+  "NumberOfAwards": 2762,
   "NumberOfAwardsMax": 1163,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3261,7 +3267,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 184
+      "Count": 185
     },
     {
       "Text": "This game has Challenging Combat",
@@ -3291,7 +3297,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 186
+      "Count": 187
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3329,8 +3335,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:38.4001765+00:00",
-  "LastChanged": "2023-12-22T09:59:11.302601+00:00",
+  "LastChanged": "2023-12-22T16:00:39.7450237+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:43.1956892+00:00",
-  "LastUpdate_Ratings": "2023-12-22T14:59:29.9115827+00:00",
-  "LastUpdate_Achievements": "2023-12-22T15:08:50.0898036+00:00"
+  "LastUpdate_Ratings": "2023-12-22T16:00:39.7450243+00:00",
+  "LastUpdate_Achievements": "2023-12-22T16:10:08.1584004+00:00"
 }

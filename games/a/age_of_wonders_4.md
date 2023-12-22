@@ -47,9 +47,9 @@ Rating: 4.62 (Ranked 374)
 | A Conqueror's Cohort | 1.00% | ~60 |
 | Dawn of the Dread | 1.00% | ~60 |
 | God Emperor | 0.90% | ~54 |
+| I've Got Everything I Need Right Here | 0.80% | ~48 |
 | The Goddess of Nature | 0.80% | ~48 |
 | Grexolis | 0.80% | ~48 |
-| I've Got Everything I Need Right Here | 0.70% | ~42 |
 | Manufactured War | 0.70% | ~42 |
 | Pruning for Progress | 0.70% | ~42 |
 | One for All, All for One | 0.70% | ~42 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 374)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,985 (Ranked 193)  
+Progressed: 5,987 (Ranked 193)  
 Completed: 7 (0.12%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 7 (0.12%) (Ranked 296)
 | 2023-12-19 | 5,881 | 7 |
 | 2023-12-20 | 5,911 | 7 |
 | 2023-12-21 | 5,945 | 7 |
-| 2023-12-22 | 5,985 | 7 |
+| 2023-12-22 | 5,987 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 481)  
 Sum: 113 (Ranked 449)  
