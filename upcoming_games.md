@@ -5,7 +5,7 @@
 | [NEVERMORE](games/4/46f62203901b4742bf782ac8c4fe9356.md) | 2023-12-24 | - |  | - | - |
 | [1001 Jigsaw. Earth Chronicles](games/d/d5ed5f18bd5640ea9954ff39f2be25b0.md) | 2023-12-24 | - |  | - | - |
 | [Otok](games/c/cb2b40b6713d48768e5950e2d77f9fd8.md) | 2023-12-26 | - |  | - | - |
-| [9Lives Arena](games/9/9lives_arena.md) | 2023-12-27 | 5 (1,000 XP) | 31 | - | - |
+| [9Lives Arena](games/9/9lives_arena.md) | 2023-12-27 | 5 (1,000 XP) | 32 | - | - |
 | [Alice's Jigsaw. Wonderland Chronicles](games/a/af3dedaf653943779d7161fa3531229f.md) | 2023-12-27 | - |  | - | - |
 | [Sakura Day 2 Mahjong](games/c/ca3057f83651427394eb172a4addc286.md) | 2023-12-30 | - |  | - | - |
 | [1000xRESIST](games/1/1000xresist.md) | 2023-12-31 | - |  | - | - |
