@@ -73,7 +73,7 @@
 | 71 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 5.88% |
 | 72 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.86% |
 | 73 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
-| 74 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.38% |
+| 74 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.43% |
 | 75 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 5.26% |
 | 76 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.00% |
 | 77 | [Bugsnax](games/b/bugsnax.md) | 4.86% |
@@ -141,8 +141,8 @@
 | 139 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.82% |
 | 140 | [Frogun](games/f/frogun.md) | 1.75% |
 | 140 | [Sifu](games/s/sifu.md) | 1.75% |
-| 142 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.61% |
-| 142 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.61% |
+| 142 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.62% |
+| 143 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.61% |
 | 144 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.58% |
 | 145 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.57% |
 | 146 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.53% |
@@ -197,9 +197,9 @@
 | 195 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.64% |
 | 195 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.64% |
 | 197 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.62% |
-| 198 | [Haven](games/h/haven.md) | 0.59% |
-| 199 | [Grindstone](games/g/grindstone.md) | 0.58% |
-| 199 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.58% |
+| 198 | [Grindstone](games/g/grindstone.md) | 0.58% |
+| 198 | [Haven](games/h/haven.md) | 0.58% |
+| 198 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.58% |
 | 201 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.57% |
 | 201 | [Potion Permit](games/p/potion_permit.md) | 0.57% |
 | 203 | [Aragami 2](games/a/aragami_2.md) | 0.56% |
@@ -222,9 +222,9 @@
 | 220 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 220 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 0.46% |
 | 220 | [Wildermyth](games/w/wildermyth.md) | 0.46% |
+| 223 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.45% |
 | 223 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.45% |
-| 224 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.44% |
-| 224 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.44% |
+| 225 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.44% |
 | 226 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.43% |
 | 227 | [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 0.42% |
 | 227 | [Tchia](games/t/tchia.md) | 0.42% |
