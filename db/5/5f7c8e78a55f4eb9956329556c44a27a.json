@@ -3,9 +3,9 @@
   "Name": "There Is No Game - Wrong Dimension",
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
   "Ranking_EOS_Progress": 400,
-  "Ranking_EOS_Completed": 218,
+  "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 340,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
     "PcReleaseDate": "2020-08-06T17:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 212,
-  "EOS_Completed": 1,
+  "EOS_Completed": 2,
   "EOS_NewPlayers": 19,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.47,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.94,
   "EosHistory": [
     {
       "Time": "2023-11-10T21:13:00.589505+00:00",
@@ -834,6 +834,11 @@
       "Time": "2023-12-22T03:05:50.2410625+00:00",
       "NumProgressed": 212,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-22T11:06:55.940326+00:00",
+      "NumProgressed": 212,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-06T19:03:25.5191161+00:00",
@@ -1012,9 +1017,9 @@
       "ID": "TINGWD_KARAMASOV",
       "SetID": "c0imaa6",
       "Name": "Serge Karamasov",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "TINGWD_NOSHAME",
@@ -1118,13 +1123,13 @@
       "ID": "c0imaa6",
       "IsBase": true,
       "Progressed": 212,
-      "Completed": 1
+      "Completed": 2
     }
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-12-22T10:05:26.8056458+00:00",
+  "LastChanged_Achievements": "2023-12-22T11:06:55.9403255+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:02.2829018+00:00",
-  "LastUpdate_Ratings": "2023-12-22T09:58:35.3214683+00:00",
-  "LastUpdate_Achievements": "2023-12-22T10:05:26.8056695+00:00"
+  "LastUpdate_Ratings": "2023-12-22T10:59:14.7453657+00:00",
+  "LastUpdate_Achievements": "2023-12-22T11:06:55.9403546+00:00"
 }

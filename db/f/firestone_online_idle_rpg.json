@@ -645,7 +645,7 @@
   ],
   "EOS_Progressed": 3657,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 236,
+  "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10783,9 +10783,9 @@
       "ID": "lieutenant",
       "SetID": "3nl4bcg",
       "Name": "Lieutenant",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 439
+      "UsersEstimate": 475
     },
     {
       "ID": "lockandload",
@@ -11096,8 +11096,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-22T01:43:18.0686278+00:00",
-  "LastChanged_Achievements": "2023-12-22T10:08:07.111589+00:00",
+  "LastChanged_Achievements": "2023-12-22T11:08:36.3721119+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:13.7887636+00:00",
-  "LastUpdate_Ratings": "2023-12-22T09:58:28.5403214+00:00",
-  "LastUpdate_Achievements": "2023-12-22T10:08:07.1116809+00:00"
+  "LastUpdate_Ratings": "2023-12-22T10:59:04.1754694+00:00",
+  "LastUpdate_Achievements": "2023-12-22T11:08:36.3722108+00:00"
 }

@@ -11,7 +11,7 @@ Number of Ratings: 281  (23.09.2022)
 | More Fish in the Sea | 10.00% | ~736 |
 | Can you smell what the Rod is Hooking | 9.00% | ~662 |
 | Scaling up | 9.00% | ~662 |
-| I'm on a Boat! | 8.00% | ~588 |
+| I'm on a Boat! | 8.00% | ~589 |
 | Ready to Rod and Roll | 6.00% | ~441 |
 | Fish Out of Water | 4.00% | ~294 |
 | Things that go Splash in the Night | 4.00% | ~294 |
@@ -21,8 +21,8 @@ Number of Ratings: 281  (23.09.2022)
 | License to Gill | 2.00% | ~147 |
 | I'm Hooked! | 2.00% | ~147 |
 | Diamond in the Rough | 0.80% | ~59 |
-| I'm the Captain Now | 0.70% | ~51 |
-| Marathon | 0.70% | ~51 |
+| I'm the Captain Now | 0.70% | ~52 |
+| Marathon | 0.70% | ~52 |
 | Hook, Line and Sinker | 0.60% | ~44 |
 | More than a Tourist | 0.50% | ~37 |
 | No Fin left to give | 0.50% | ~37 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,356 (Ranked 188)  
+Progressed: 7,358 (Ranked 188)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-19 | 7,233 | 0 |
 | 2023-12-20 | 7,288 | 0 |
 | 2023-12-21 | 7,339 | 0 |
-| 2023-12-22 | 7,356 | 0 |
+| 2023-12-22 | 7,358 | 0 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 465)  
 Sum: 210 (Ranked 405)  

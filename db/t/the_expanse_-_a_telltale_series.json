@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17065,
+  "EOS_Progressed": 17067,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 751,
+  "EOS_NewPlayers": 747,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -14730,6 +14730,11 @@
       "Time": "2023-12-22T10:05:19.6525157+00:00",
       "NumProgressed": 17065,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-12-22T11:06:45.4232019+00:00",
+      "NumProgressed": 17067,
+      "NumCompleted": 46
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14918,7 +14923,7 @@
       "Name": "Captain Drummer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1706
+      "UsersEstimate": 1707
     },
     {
       "ID": "30",
@@ -14950,7 +14955,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1706
+      "UsersEstimate": 1707
     },
     {
       "ID": "7",
@@ -15021,13 +15026,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17065,
+      "Progressed": 17067,
       "Completed": 46
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3019,
+      "Progressed": 3021,
       "Completed": 983
     }
   ],
@@ -15035,8 +15040,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-21T04:02:39.716899+00:00",
-  "LastChanged_Achievements": "2023-12-22T10:05:19.6525153+00:00",
+  "LastChanged_Achievements": "2023-12-22T11:06:45.4232015+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:40.0929133+00:00",
-  "LastUpdate_Ratings": "2023-12-22T09:57:26.6185027+00:00",
-  "LastUpdate_Achievements": "2023-12-22T10:05:19.6526002+00:00"
+  "LastUpdate_Ratings": "2023-12-22T10:57:29.653287+00:00",
+  "LastUpdate_Achievements": "2023-12-22T11:06:45.4232855+00:00"
 }

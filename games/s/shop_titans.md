@@ -6,10 +6,10 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 9.00% | ~13,219 |
-| Titan's First Steps | 9.00% | ~13,219 |
-| Basic in Bulk | 8.00% | ~11,750 |
-| Tinkle of Coins | 8.00% | ~11,750 |
+| Sponsored by Argon | 9.00% | ~13,220 |
+| Titan's First Steps | 9.00% | ~13,220 |
+| Basic in Bulk | 8.00% | ~11,751 |
+| Tinkle of Coins | 8.00% | ~11,751 |
 | Disintermediation | 6.00% | ~8,813 |
 | It's Free Real Estate | 6.00% | ~8,813 |
 | Capitalism Ho! | 6.00% | ~8,813 |
@@ -19,29 +19,29 @@ Number of Ratings: 12,664  (23.09.2022)
 | Pretty Penny | 5.00% | ~7,344 |
 | Budding Merchant | 5.00% | ~7,344 |
 | Own the Means of Production | 5.00% | ~7,344 |
-| The Daily Grind | 4.00% | ~5,875 |
-| Bounty Hunters | 4.00% | ~5,875 |
-| Where it Hurts | 4.00% | ~5,875 |
-| One-Armed Bandit | 4.00% | ~5,875 |
-| Through Repetition, Perfection | 4.00% | ~5,875 |
-| On the Path to Greatness | 3.00% | ~4,406 |
-| Ascended | 3.00% | ~4,406 |
-| Research & Development | 3.00% | ~4,406 |
-| Vanity, Verily | 3.00% | ~4,406 |
-| Blank Page Syndrome | 3.00% | ~4,406 |
-| Demand for Supplies | 3.00% | ~4,406 |
-| Flooding the Market | 3.00% | ~4,406 |
-| Power of Love | 3.00% | ~4,406 |
-| Efficient Floor Space | 3.00% | ~4,406 |
-| Flawless Fusion | 3.00% | ~4,406 |
-| Gem Expert | 3.00% | ~4,406 |
-| Gild-Gotten Goods | 3.00% | ~4,406 |
-| Helping Hand | 3.00% | ~4,406 |
-| Accomplished Merchant | 3.00% | ~4,406 |
-| Dungeon Imports | 3.00% | ~4,406 |
-| Natural 20 | 3.00% | ~4,406 |
-| Did we pack lunch? | 3.00% | ~4,406 |
-| Arcane Industries | 3.00% | ~4,406 |
+| The Daily Grind | 4.00% | ~5,876 |
+| Bounty Hunters | 4.00% | ~5,876 |
+| Where it Hurts | 4.00% | ~5,876 |
+| One-Armed Bandit | 4.00% | ~5,876 |
+| Through Repetition, Perfection | 4.00% | ~5,876 |
+| On the Path to Greatness | 3.00% | ~4,407 |
+| Ascended | 3.00% | ~4,407 |
+| Research & Development | 3.00% | ~4,407 |
+| Vanity, Verily | 3.00% | ~4,407 |
+| Blank Page Syndrome | 3.00% | ~4,407 |
+| Demand for Supplies | 3.00% | ~4,407 |
+| Flooding the Market | 3.00% | ~4,407 |
+| Power of Love | 3.00% | ~4,407 |
+| Efficient Floor Space | 3.00% | ~4,407 |
+| Flawless Fusion | 3.00% | ~4,407 |
+| Gem Expert | 3.00% | ~4,407 |
+| Gild-Gotten Goods | 3.00% | ~4,407 |
+| Helping Hand | 3.00% | ~4,407 |
+| Accomplished Merchant | 3.00% | ~4,407 |
+| Dungeon Imports | 3.00% | ~4,407 |
+| Natural 20 | 3.00% | ~4,407 |
+| Did we pack lunch? | 3.00% | ~4,407 |
+| Arcane Industries | 3.00% | ~4,407 |
 | A Notch Above the Rest | 2.00% | ~2,938 |
 | Cream of the Crop | 2.00% | ~2,938 |
 | Top of the World | 2.00% | ~2,938 |
@@ -60,6 +60,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Archivist | 2.00% | ~2,938 |
 | Locally Sourced | 2.00% | ~2,938 |
 | Flying off the Shelves | 2.00% | ~2,938 |
+| Industrial Evolution | 2.00% | ~2,938 |
 | This Power Level...! | 2.00% | ~2,938 |
 | Omae wa Mou Shindeiru | 2.00% | ~2,938 |
 | Master of Transmutation | 2.00% | ~2,938 |
@@ -100,7 +101,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | King's Blade | 2.00% | ~2,938 |
 | The Free Encyclopedia | 1.00% | ~1,469 |
 | Fillin' the Bin | 1.00% | ~1,469 |
-| Industrial Evolution | 1.00% | ~1,469 |
 | Thank You Tom Nook | 1.00% | ~1,469 |
 | Jackpot! | 1.00% | ~1,469 |
 | Eternal Crusade | 1.00% | ~1,469 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~588 |
 | Capitalist Camaraderie | 0.20% | ~294 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 146,880 (Ranked 82)  
+Progressed: 146,889 (Ranked 82)  
 Completed: 329 (0.22%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -365,7 +365,7 @@ Completed: 329 (0.22%) (Ranked 266)
 | 2023-12-19 | 146,428 | 325 |
 | 2023-12-20 | 146,580 | 325 |
 | 2023-12-21 | 146,796 | 328 |
-| 2023-12-22 | 146,880 | 329 |
+| 2023-12-22 | 146,889 | 329 |
 ## Awards
 Max (Great for Beginners): 4,906  (Ranked 75)  
 Sum: 27,779 (Ranked 52)  

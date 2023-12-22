@@ -3539,7 +3539,7 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 18896,
+  "EOS_Progressed": 18902,
   "EOS_Completed": 39,
   "EOS_NewPlayers": 703,
   "EOS_NewCompleters": 0,
@@ -16669,6 +16669,11 @@
       "Time": "2023-12-22T10:07:58.9861611+00:00",
       "NumProgressed": 18896,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-22T11:08:24.592626+00:00",
+      "NumProgressed": 18902,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16745,15 +16750,15 @@
       "Name": "Efficient Explorer",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "MetalChain",
       "SetID": "cfbk359",
       "Name": "Refinery",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 113
     },
     {
       "ID": "Win5Years",
@@ -16833,7 +16838,7 @@
       "Name": "Dangerous Lands",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "WinNearFertile",
@@ -16847,9 +16852,9 @@
       "ID": "WinNearFishmen",
       "SetID": "cfbk359",
       "Name": "Fishmen Ritual Site",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 132
     },
     {
       "ID": "WinNearForbidden",
@@ -17152,15 +17157,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18896,
+      "Progressed": 18902,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-21T17:59:36.1497483+00:00",
-  "LastChanged_Achievements": "2023-12-22T10:07:58.9861609+00:00",
+  "LastChanged_Achievements": "2023-12-22T11:08:24.5926256+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
-  "LastUpdate_Ratings": "2023-12-22T10:00:16.5426865+00:00",
-  "LastUpdate_Achievements": "2023-12-22T10:07:58.9862425+00:00"
+  "LastUpdate_Ratings": "2023-12-22T11:01:49.1968676+00:00",
+  "LastUpdate_Achievements": "2023-12-22T11:08:24.592711+00:00"
 }

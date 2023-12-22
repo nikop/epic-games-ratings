@@ -857,9 +857,9 @@
       "ID": "Achi_25",
       "SetID": "51a97k7",
       "Name": "Mr. Want It All",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Achi_26",
@@ -937,9 +937,9 @@
       "ID": "Achi_35",
       "SetID": "51a97k7",
       "Name": "Stop Right There",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "Achi_36",
@@ -1074,8 +1074,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-12-22T10:05:27.1356623+00:00",
+  "LastChanged_Achievements": "2023-12-22T11:06:56.2059757+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:25.2099775+00:00",
-  "LastUpdate_Ratings": "2023-12-22T09:58:33.2009093+00:00",
-  "LastUpdate_Achievements": "2023-12-22T10:05:27.1356929+00:00"
+  "LastUpdate_Ratings": "2023-12-22T10:59:11.3926393+00:00",
+  "LastUpdate_Achievements": "2023-12-22T11:06:56.2060122+00:00"
 }

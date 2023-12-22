@@ -3,8 +3,8 @@
   "Name": "The Hidden Room",
   "ProductSlug": "the-hidden-room-1a63ec",
   "Ranking_EOS_Progress": 195,
-  "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_Completed": 179,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-10-31T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5859,
+  "EOS_Progressed": 5860,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 460,
+  "EOS_NewPlayers": 456,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.92,
   "EosHistory": [
@@ -5764,6 +5764,11 @@
       "Time": "2023-12-22T10:08:26.7491663+00:00",
       "NumProgressed": 5859,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-12-22T11:09:03.8009487+00:00",
+      "NumProgressed": 5860,
+      "NumCompleted": 54
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -5832,7 +5837,7 @@
       "Name": "Wrong passcode",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 4687
+      "UsersEstimate": 4688
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -5903,14 +5908,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 5859,
+      "Progressed": 5860,
       "Completed": 54
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-12-22T10:08:26.7491661+00:00",
+  "LastChanged_Achievements": "2023-12-22T11:09:03.8009482+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:07.8033204+00:00",
-  "LastUpdate_Ratings": "2023-12-22T10:00:24.0691915+00:00",
-  "LastUpdate_Achievements": "2023-12-22T10:08:26.7491999+00:00"
+  "LastUpdate_Ratings": "2023-12-22T11:02:00.5545308+00:00",
+  "LastUpdate_Achievements": "2023-12-22T11:09:03.800984+00:00"
 }

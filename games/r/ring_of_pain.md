@@ -11,7 +11,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Uncharted Territory | 0.90% | ~2,173 |
 | Getting A Glimpse | 0.80% | ~1,932 |
 | A Quick Escape | 0.80% | ~1,932 |
-| Not Touching You | 0.80% | ~23 |
+| Not Touching You | 0.80% | ~24 |
 | Nothing To Lose | 0.70% | ~1,690 |
 | Heavy Hitter | 0.70% | ~1,690 |
 | That Was Quick | 0.70% | ~1,690 |
@@ -30,6 +30,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Heartless | 0.60% | ~1,449 |
 | What's Yours Is Mine | 0.60% | ~1,449 |
 | Spine Breaker | 0.60% | ~1,449 |
+| Shootout | 0.60% | ~1,449 |
 | C-C-Combo | 0.60% | ~1,449 |
 | Deflection | 0.60% | ~1,449 |
 | Toxic | 0.60% | ~1,449 |
@@ -39,7 +40,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Who To Trust? | 0.50% | ~1,207 |
 | Walk It Off | 0.50% | ~1,207 |
 | Destroy Your Fears | 0.50% | ~1,207 |
-| Shootout | 0.50% | ~1,207 |
 | Stone Touch | 0.50% | ~1,207 |
 | Shadow Walker | 0.50% | ~1,207 |
 | Flesh Wound | 0.50% | ~1,207 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,456 (Ranked 67)  
+Progressed: 241,458 (Ranked 67)  
 Completed: 300 (0.12%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -391,7 +391,7 @@ Completed: 300 (0.12%) (Ranked 296)
 | 2023-12-19 | 241,311 | 300 |
 | 2023-12-20 | 241,359 | 300 |
 | 2023-12-21 | 241,432 | 300 |
-| 2023-12-22 | 241,456 | 300 |
+| 2023-12-22 | 241,458 | 300 |
 ## Awards
 Max (Quickly Understood Controls): 1,511  (Ranked 134)  
 Sum: 11,752 (Ranked 88)  

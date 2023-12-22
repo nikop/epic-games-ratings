@@ -2,7 +2,7 @@
   "ID": "552a139c67e949ea8f8ea9a1d9d81cdb",
   "Name": "HOT WHEELS UNLEASHED\u2122 2 - Turbocharged",
   "ProductSlug": "hot-wheels-unleashed-2",
-  "Ranking_EOS_Progress": 250,
+  "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 324,
   "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 160,
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 1542,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4001,9 +4001,9 @@
       "ID": "ML_ACHIEVEMENT_39",
       "SetID": "5k00jcd",
       "Name": "Tools of the trade",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -4078,8 +4078,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-22T10:04:05.5221189+00:00",
+  "LastChanged_Achievements": "2023-12-22T11:04:58.724043+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:08.51229+00:00",
-  "LastUpdate_Ratings": "2023-12-22T09:57:34.835198+00:00",
-  "LastUpdate_Achievements": "2023-12-22T10:04:05.5221684+00:00"
+  "LastUpdate_Ratings": "2023-12-22T10:57:42.3106148+00:00",
+  "LastUpdate_Achievements": "2023-12-22T11:04:58.7240896+00:00"
 }

@@ -43,13 +43,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Haunted Forest | 0.90% | ~170 |
 | Defying the Crown | 0.80% | ~151 |
 | Serving Ale | 0.70% | ~132 |
+| Fishmen Ritual Site | 0.70% | ~132 |
 | Victory Through Prosperity | 0.70% | ~132 |
 | Into the Forest | 0.70% | ~132 |
-| Fishmen Ritual Site | 0.60% | ~113 |
+| Refinery | 0.60% | ~113 |
 | Forsaken Gods Temple | 0.60% | ~113 |
-| Efficient Explorer | 0.50% | ~94 |
-| Refinery | 0.50% | ~94 |
-| Dangerous Lands | 0.50% | ~94 |
+| Efficient Explorer | 0.50% | ~95 |
+| Dangerous Lands | 0.50% | ~95 |
 | Forbidden Lands | 0.40% | ~76 |
 | Fox Utopia | 0.40% | ~76 |
 | Feeding The People | 0.30% | ~57 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,896 (Ranked 148)  
+Progressed: 18,902 (Ranked 148)  
 Completed: 39 (0.21%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 39 (0.21%) (Ranked 268)
 | 2023-12-19 | 18,687 | 39 |
 | 2023-12-20 | 18,771 | 39 |
 | 2023-12-21 | 18,861 | 39 |
-| 2023-12-22 | 18,896 | 39 |
+| 2023-12-22 | 18,902 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 228)  
 Sum: 3,277 (Ranked 175)  

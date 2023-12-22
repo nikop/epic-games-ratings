@@ -334,9 +334,9 @@
       "ID": "TEMPORARY_SHELTER_ACH",
       "SetID": "7jaf9il",
       "Name": "Temporary Shelter",
-      "Percentage": 10,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "THE_FOURTH_SURVIVOR_ACH",
@@ -381,8 +381,8 @@
   ],
   "FirstSeen": "2023-10-10T23:57:30.9159633+00:00",
   "FirstSeenAchievements": "2023-08-30T15:02:12.9396866+00:00",
-  "LastChanged_Achievements": "2023-12-22T10:04:48.8957781+00:00",
+  "LastChanged_Achievements": "2023-12-22T11:06:00.4180824+00:00",
   "LastUpdate_AppInfo": "2023-12-21T02:18:24.4177593+00:00",
-  "LastUpdate_Ratings": "2023-12-22T10:02:48.8367118+00:00",
-  "LastUpdate_Achievements": "2023-12-22T10:04:48.8957942+00:00"
+  "LastUpdate_Ratings": "2023-12-22T11:03:06.5183358+00:00",
+  "LastUpdate_Achievements": "2023-12-22T11:06:00.4180975+00:00"
 }

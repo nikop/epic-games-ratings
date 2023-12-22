@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 30,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -943,9 +943,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 666098,
+  "EOS_Progressed": 666100,
   "EOS_Completed": 174,
-  "EOS_NewPlayers": 274,
+  "EOS_NewPlayers": 275,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -24188,6 +24188,11 @@
       "Time": "2023-12-22T09:09:25.4736048+00:00",
       "NumProgressed": 666098,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2023-12-22T11:09:26.4949071+00:00",
+      "NumProgressed": 666100,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 48,
@@ -24199,7 +24204,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 479591
+      "UsersEstimate": 479592
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -24207,7 +24212,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 386337
+      "UsersEstimate": 386338
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -24463,7 +24468,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 166524
+      "UsersEstimate": 166525
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -24582,15 +24587,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 666098,
+      "Progressed": 666100,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-11-24T17:58:48.2867936+00:00",
-  "LastChanged_Achievements": "2023-12-22T10:08:42.4113751+00:00",
+  "LastChanged_Achievements": "2023-12-22T11:09:26.4949065+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:46.8226063+00:00",
-  "LastUpdate_Ratings": "2023-12-22T09:59:58.5749944+00:00",
-  "LastUpdate_Achievements": "2023-12-22T10:08:42.4114843+00:00"
+  "LastUpdate_Ratings": "2023-12-22T11:01:22.5810761+00:00",
+  "LastUpdate_Achievements": "2023-12-22T11:09:26.4950539+00:00"
 }

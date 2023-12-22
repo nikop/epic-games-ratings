@@ -491,9 +491,9 @@
       "ID": "Professions",
       "SetID": "7m88n8p",
       "Name": "Different People Specialize in Different Professions",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ProtectedPower",
@@ -523,17 +523,17 @@
       "ID": "SeeingThrough",
       "SetID": "7m88n8p",
       "Name": "Seeing through Vanity",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 65,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "TimeManagement",
       "SetID": "7m88n8p",
       "Name": "Master of Time Management",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "WaitingForSalvation",
@@ -562,8 +562,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2023-12-22T10:03:20.3618951+00:00",
+  "LastChanged_Achievements": "2023-12-22T11:03:55.9967792+00:00",
   "LastUpdate_AppInfo": "2023-12-18T13:57:00.6991865+00:00",
-  "LastUpdate_Ratings": "2023-12-22T09:59:19.2558525+00:00",
-  "LastUpdate_Achievements": "2023-12-22T10:03:20.3619166+00:00"
+  "LastUpdate_Ratings": "2023-12-22T11:00:22.5715793+00:00",
+  "LastUpdate_Achievements": "2023-12-22T11:03:55.9967999+00:00"
 }

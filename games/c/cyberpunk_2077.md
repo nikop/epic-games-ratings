@@ -6,24 +6,24 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,577 |
-| Gun Fu | 8.00% | ~78,384 |
-| The Fool | 7.00% | ~68,586 |
-| Right Back At Ya | 6.00% | ~58,788 |
-| Full Body Conversion | 5.00% | ~48,990 |
-| The Lovers | 5.00% | ~48,990 |
-| Stanislavski's Method | 4.00% | ~39,192 |
-| The Hermit | 4.00% | ~39,192 |
-| The Wheel of Fortune | 4.00% | ~39,192 |
-| True Soldier | 4.00% | ~39,192 |
-| All the President's Men | 4.00% | ~4,337 |
-| Arachnophobia | 4.00% | ~4,337 |
-| Christmas Tree Attack | 3.00% | ~29,394 |
-| The Quick and the Dead | 3.00% | ~29,394 |
-| Life of the Road | 3.00% | ~29,394 |
-| The High Priestess | 3.00% | ~29,394 |
-| True Warrior | 3.00% | ~29,394 |
-| Legend of The Afterlife | 3.00% | ~29,394 |
+| V for Vendetta | 12.00% | ~117,579 |
+| Gun Fu | 8.00% | ~78,386 |
+| The Fool | 7.00% | ~68,587 |
+| Right Back At Ya | 6.00% | ~58,789 |
+| Full Body Conversion | 5.00% | ~48,991 |
+| The Lovers | 5.00% | ~48,991 |
+| Stanislavski's Method | 4.00% | ~39,193 |
+| The Hermit | 4.00% | ~39,193 |
+| The Wheel of Fortune | 4.00% | ~39,193 |
+| True Soldier | 4.00% | ~39,193 |
+| All the President's Men | 4.00% | ~4,338 |
+| Arachnophobia | 4.00% | ~4,338 |
+| Christmas Tree Attack | 3.00% | ~29,395 |
+| The Quick and the Dead | 3.00% | ~29,395 |
+| Life of the Road | 3.00% | ~29,395 |
+| The High Priestess | 3.00% | ~29,395 |
+| True Warrior | 3.00% | ~29,395 |
+| Legend of The Afterlife | 3.00% | ~29,395 |
 | Relic Ruler | 3.00% | ~3,253 |
 | Bushido and Chill | 2.00% | ~19,596 |
 | To Protect and Serve | 2.00% | ~19,596 |
@@ -40,8 +40,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | Easy Come, Easy Go | 1.00% | ~1,084 |
 | To Bad Decisions! | 0.90% | ~8,818 |
 | Ten out of Ten | 0.90% | ~8,818 |
-| Breathtaking | 0.80% | ~7,838 |
-| The Star | 0.80% | ~7,838 |
+| Breathtaking | 0.80% | ~7,839 |
+| The Star | 0.80% | ~7,839 |
 | Autojock | 0.60% | ~5,879 |
 | The APB is Not Enough | 0.60% | ~651 |
 | Judgement Day | 0.60% | ~651 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 979,806 (Ranked 16)  
+Progressed: 979,821 (Ranked 16)  
 Completed: 2,951 (0.30%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,15 +320,15 @@ Completed: 2,951 (0.30%) (Ranked 249)
 | 2023-12-19 | 978,882 | 2,944 |
 | 2023-12-20 | 979,279 | 2,948 |
 | 2023-12-21 | 979,668 | 2,950 |
-| 2023-12-22 | 979,806 | 2,951 |
+| 2023-12-22 | 979,821 | 2,951 |
 ## Awards
 Max (Character Customization): 125,917  (Ranked 8)  
-Sum: 435,621 (Ranked 9)  
+Sum: 435,954 (Ranked 9)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 125,917 |
-| This game has Great Boss Battles | 92,649 |
+| This game has Great Boss Battles | 92,982 |
 | This game is Great for Beginners | 27,135 |
 | This game has Diverse Characters | 26,643 |
 | This game is Highly Recommended | 25,335 |
@@ -678,4 +678,4 @@ Diff (max vs sum): -1
 | 2023-12-19 | 4.66 | - | 125,194 | 431,324 |
 | 2023-12-20 | 4.66 | - | 125,560 | 433,348 |
 | 2023-12-21 | 4.66 | - | 125,917 | 435,336 |
-| 2023-12-22 | 4.66 | - | 125,917 | 435,621 |
+| 2023-12-22 | 4.66 | - | 125,917 | 435,954 |

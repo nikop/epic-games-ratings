@@ -1,20 +1,20 @@
 # Runbow
 [Store](https://store.epicgames.com/en-US/p/runbow-fc9fa4)  
 [View Rawdata](../../db/r/runbow.json)  
-Rating: 4.46 (Ranked 657)  
+Rating: 4.46 (Ranked 658)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~133,763 |
+| In The Zone | 53.00% | ~133,764 |
 | My First Runbow | 50.00% | ~126,192 |
 | It's The Fall | 26.00% | ~65,620 |
 | The Stunner | 22.00% | ~55,524 |
-| Be Aggressive | 21.00% | ~53,000 |
+| Be Aggressive | 21.00% | ~53,001 |
 | Curator | 20.00% | ~50,477 |
 | Crowning Around | 18.00% | ~45,429 |
 | Can You Dig It? | 17.00% | ~42,905 |
 | You Juan-A-Go? | 16.00% | ~40,381 |
-| Chan-tastic | 15.00% | ~37,857 |
+| Chan-tastic | 15.00% | ~37,858 |
 | Muddy Waters | 14.00% | ~35,334 |
 | Toasty! | 13.00% | ~32,810 |
 | Lazy Laser | 8.00% | ~20,191 |
@@ -22,8 +22,8 @@ Rating: 4.46 (Ranked 657)
 | Into The Drift | 7.00% | ~17,667 |
 | Ready? Fight! | 7.00% | ~17,667 |
 | Butt Butt | 6.00% | ~15,143 |
-| He Who Laughs Last | 3.00% | ~7,571 |
-| Shoo, Cat! | 3.00% | ~7,571 |
+| He Who Laughs Last | 3.00% | ~7,572 |
+| Shoo, Cat! | 3.00% | ~7,572 |
 | And You're Okay | 2.00% | ~5,048 |
 | Blotbuster | 2.00% | ~5,048 |
 | Thunderstruck | 2.00% | ~5,048 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 657)
 | Talent Scout | 0.10% | ~252 |
 | True Completionist | 0.10% | ~252 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252,383 (Ranked 64)  
+Progressed: 252,384 (Ranked 64)  
 Completed: 6 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 6 (0.00%) (Ranked 384)
 | 2023-12-19 | 252,322 | 6 |
 | 2023-12-20 | 252,345 | 6 |
 | 2023-12-21 | 252,376 | 6 |
-| 2023-12-22 | 252,383 | 6 |
+| 2023-12-22 | 252,384 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

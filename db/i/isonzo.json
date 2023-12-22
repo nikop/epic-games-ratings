@@ -1021,9 +1021,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 9543,
+  "EOS_Progressed": 9544,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -9781,6 +9781,11 @@
       "Time": "2023-12-22T10:08:37.8894513+00:00",
       "NumProgressed": 9543,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-22T11:09:19.9010411+00:00",
+      "NumProgressed": 9544,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -10096,7 +10101,7 @@
       "Name": "The Show Must Go On",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "ISONZO_ACH_THUS_WITH_A_KISS",
@@ -10112,7 +10117,7 @@
       "Name": "Tosca",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "ISONZO_ACH_TUTTI_EROI",
@@ -10151,7 +10156,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9543,
+      "Progressed": 9544,
       "Completed": 10
     }
   ],
@@ -10159,8 +10164,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-21T18:57:04.5501188+00:00",
-  "LastChanged_Achievements": "2023-12-22T10:08:37.8894511+00:00",
+  "LastChanged_Achievements": "2023-12-22T11:09:19.9010407+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:27.7823002+00:00",
-  "LastUpdate_Ratings": "2023-12-22T09:57:35.0459752+00:00",
-  "LastUpdate_Achievements": "2023-12-22T10:08:37.889522+00:00"
+  "LastUpdate_Ratings": "2023-12-22T10:57:42.6308678+00:00",
+  "LastUpdate_Achievements": "2023-12-22T11:09:19.9011066+00:00"
 }

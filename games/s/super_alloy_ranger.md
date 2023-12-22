@@ -11,10 +11,10 @@
 | GG EZ | 53.00% | ~71 |
 | Hydrophobia | 37.00% | ~50 |
 | Ka-Ching! | 31.00% | ~42 |
-| Stop Right There | 27.00% | ~36 |
+| Stop Right There | 28.00% | ~38 |
 | Get to the Point | 25.00% | ~34 |
 | Phew! | 16.00% | ~21 |
-| Mr. Want It All | 14.00% | ~19 |
+| Mr. Want It All | 15.00% | ~20 |
 | Toe to Toe | 14.00% | ~19 |
 | The Hidden Secret | 13.00% | ~17 |
 | The Abyss Conqueror | 10.00% | ~13 |

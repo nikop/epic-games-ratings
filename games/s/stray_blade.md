@@ -9,13 +9,13 @@
 | Welcome to the Club | 6.00% | ~8 |
 | A new World ahead | 6.00% | ~8 |
 | Don't Cry Wolf | 5.00% | ~7 |
-| Craftsmen | 2.00% | ~3 |
+| Craftsmen | 3.00% | ~4 |
 | Apprentice | 2.00% | ~3 |
+| Defeat Tezuth | 1.00% | ~1 |
 | Locked and Loaded | 1.00% | ~1 |
 | Can't touch this | 1.00% | ~1 |
 | The A-Team | 1.00% | ~1 |
 | Sponsor | 0.70% | ~1 |
-| Defeat Tezuth | 0.70% | ~1 |
 | Freezing Cold | 0.70% | ~1 |
 | A Deceiving Gift | 0.70% | ~1 |
 | The Golden Flash | 0.70% | ~1 |

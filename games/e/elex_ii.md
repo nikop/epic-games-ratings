@@ -1,12 +1,12 @@
 # ELEX II
 [Store](https://store.epicgames.com/en-US/p/elex-ii)  
 [View Rawdata](../../db/e/elex_ii.json)  
-Rating: 4.30 (Ranked 855)  
+Rating: 4.29 (Ranked 857)  
 Number of Ratings: 124  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Best Buddy | 15.00% | ~8 |
+| Best Buddy | 14.00% | ~8 |
 | Entrepreneur | 11.00% | ~6 |
 | Role Model | 9.00% | ~5 |
 | Military Leader | 5.00% | ~3 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Fire in the Hole | 0.00% | ~0 |
 | Lover | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55 (Ranked 522)  
+Progressed: 56 (Ranked 520)  
 Completed: 0 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,7 +66,7 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-12-19 | 32 | 0 |
 | 2023-12-20 | 40 | 0 |
 | 2023-12-21 | 48 | 0 |
-| 2023-12-22 | 55 | 0 |
+| 2023-12-22 | 56 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -179,3 +179,4 @@ Completed: 0 (0.00%) (Ranked 384)
 | 2023-09-30 | 4.28 | - | 0 | 0 |
 | 2023-10-06 | 4.29 | - | 0 | 0 |
 | 2023-11-15 | 4.30 | - | 0 | 0 |
+| 2023-12-22 | 4.29 | - | 0 | 0 |

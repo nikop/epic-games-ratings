@@ -2,12 +2,12 @@
   "ID": "75c06d52a99942e9884a47deced106bb",
   "Name": "ELEX II",
   "ProductSlug": "elex-ii",
-  "Ranking_Rating": 855,
+  "Ranking_Rating": 857,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
-  "Ranking_EOS_Progress": 522,
+  "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.3,
+  "Rating": 4.29,
   "NumberOfRatings": 124,
   "RatingHistory": [
     {
@@ -546,6 +546,12 @@
       "Rating": 4.3,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-22T10:58:14.6122713+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -565,9 +571,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 55,
+  "EOS_Progressed": 56,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -754,6 +760,11 @@
     {
       "Time": "2023-12-22T09:05:49.0753008+00:00",
       "NumProgressed": 55,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T11:05:44.0755417+00:00",
+      "NumProgressed": 56,
       "NumCompleted": 0
     }
   ],
@@ -1053,7 +1064,7 @@
       "ID": "FINDCRONY",
       "SetID": "a1angca",
       "Name": "Best Buddy",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -1166,15 +1177,15 @@
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 55,
+      "Progressed": 56,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
-  "LastChanged": "2023-11-15T13:09:21.2815291+00:00",
-  "LastChanged_Achievements": "2023-12-22T10:04:37.5334243+00:00",
+  "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
+  "LastChanged_Achievements": "2023-12-22T11:05:44.0755412+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:52.2543669+00:00",
-  "LastUpdate_Ratings": "2023-12-22T09:57:56.2194505+00:00",
-  "LastUpdate_Achievements": "2023-12-22T10:04:37.5334534+00:00"
+  "LastUpdate_Ratings": "2023-12-22T10:58:14.6122715+00:00",
+  "LastUpdate_Achievements": "2023-12-22T11:05:44.075578+00:00"
 }

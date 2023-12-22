@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 384,
-  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewPlayers": 76,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10020,9 +10020,9 @@
       "Count": 1036
     }
   ],
-  "EOS_Progressed": 129063,
+  "EOS_Progressed": 129073,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1835,
+  "EOS_NewPlayers": 1836,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36250,6 +36250,11 @@
       "Time": "2023-12-22T10:08:54.0462732+00:00",
       "NumProgressed": 129063,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-22T11:09:43.2117977+00:00",
+      "NumProgressed": 129073,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36323,9 +36328,9 @@
       "ID": "altar_of_hope_unlock_hero_occultist",
       "SetID": "64l4lke",
       "Name": "Wyrdly Reconstructed",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1291
+      "UsersEstimate": 2581
     },
     {
       "ID": "altar_of_hope_unlock_hero_runaway",
@@ -36515,9 +36520,9 @@
       "ID": "combat_kill_swine",
       "SetID": "64l4lke",
       "Name": "Bacon Bits",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 387
+      "UsersEstimate": 516
     },
     {
       "ID": "combat_party_wipe_all_run_bosses",
@@ -36741,7 +36746,7 @@
       "Name": "Handled",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "run_victory_act05",
@@ -36749,7 +36754,7 @@
       "Name": "Body of Work",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "run_victory_all_confessions_back_to_back",
@@ -36797,7 +36802,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "combat_kill_collector",
@@ -36845,7 +36850,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -36853,7 +36858,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "quest_complete_crusader",
@@ -36861,7 +36866,7 @@
       "Name": "Lost and Found",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -36877,7 +36882,7 @@
       "Name": "For Old Time\u0027 Sake",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "run_victory_final_boss_hwy_cru",
@@ -36892,21 +36897,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 129063,
+      "Progressed": 129073,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 3932,
+      "Progressed": 3942,
       "Completed": 807
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-22T08:00:05.9983731+00:00",
-  "LastChanged_Achievements": "2023-12-22T10:08:54.0462731+00:00",
+  "LastChanged_Achievements": "2023-12-22T11:09:43.2117973+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-22T10:00:27.6550775+00:00",
-  "LastUpdate_Achievements": "2023-12-22T10:08:54.04642+00:00"
+  "LastUpdate_Ratings": "2023-12-22T11:02:05.3331812+00:00",
+  "LastUpdate_Achievements": "2023-12-22T11:09:43.2120427+00:00"
 }

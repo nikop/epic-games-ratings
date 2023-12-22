@@ -4,7 +4,7 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewPlayers": 299,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3064,
+  "EOS_Progressed": 3066,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8194,6 +8194,11 @@
       "Time": "2023-12-22T00:09:37.6493708+00:00",
       "NumProgressed": 3064,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-22T11:10:32.1098063+00:00",
+      "NumProgressed": 3066,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -8205,7 +8210,7 @@
       "Name": "Aggressor",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "AI_DRAW",
@@ -8213,7 +8218,7 @@
       "Name": "Puppetmaster",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "BOT_DESTROYER",
@@ -8229,7 +8234,7 @@
       "Name": "Whoops",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "CONQUEROR",
@@ -8301,7 +8306,7 @@
       "Name": "Gonna Fly Now",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "GRASSHOPPER",
@@ -8309,7 +8314,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1838
+      "UsersEstimate": 1840
     },
     {
       "ID": "GUARD_MAKER",
@@ -8380,14 +8385,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 3064,
+      "Progressed": 3066,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-12-22T10:09:21.9341151+00:00",
+  "LastChanged_Achievements": "2023-12-22T11:10:32.1098061+00:00",
   "LastUpdate_AppInfo": "2023-12-20T08:57:18.9258605+00:00",
-  "LastUpdate_Ratings": "2023-12-22T09:59:21.6211386+00:00",
-  "LastUpdate_Achievements": "2023-12-22T10:09:21.9341675+00:00"
+  "LastUpdate_Ratings": "2023-12-22T11:00:26.5058633+00:00",
+  "LastUpdate_Achievements": "2023-12-22T11:10:32.1098483+00:00"
 }

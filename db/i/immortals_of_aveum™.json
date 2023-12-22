@@ -265,9 +265,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1547,
+  "EOS_Progressed": 1550,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 953,
+  "EOS_NewPlayers": 950,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2720,6 +2720,11 @@
       "Time": "2023-12-22T10:09:16.6081825+00:00",
       "NumProgressed": 1547,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-22T11:10:15.3738814+00:00",
+      "NumProgressed": 1550,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -2730,9 +2735,9 @@
       "ID": "achievement_1",
       "SetID": "18al4io",
       "Name": "Unforeseen",
-      "Percentage": 88,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 1361
+      "UsersEstimate": 1348
     },
     {
       "ID": "achievement_10",
@@ -2748,7 +2753,7 @@
       "Name": "The Means to Save It",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "achievement_12",
@@ -2772,7 +2777,7 @@
       "Name": "Geas Aristeya",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "achievement_15",
@@ -2812,7 +2817,7 @@
       "Name": "Socialite",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "achievement_2",
@@ -2820,7 +2825,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1238
+      "UsersEstimate": 1240
     },
     {
       "ID": "achievement_20",
@@ -2876,7 +2881,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1038
     },
     {
       "ID": "achievement_36",
@@ -2908,7 +2913,7 @@
       "Name": "No More Names",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "achievement_41",
@@ -2940,7 +2945,7 @@
       "Name": "Periapt Cerulean",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "achievement_45",
@@ -2956,15 +2961,15 @@
       "Name": "Periapt Viridian",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "achievement_48",
       "SetID": "18al4io",
       "Name": "Enlisted",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1132
     },
     {
       "ID": "achievement_49",
@@ -2980,7 +2985,7 @@
       "Name": "Initiate",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "achievement_50",
@@ -3004,7 +3009,7 @@
       "Name": "Master of Carmine",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_56",
@@ -3076,7 +3081,7 @@
       "Name": "Good Boy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "achievement_7",
@@ -3100,14 +3105,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 1547,
+      "Progressed": 1550,
       "Completed": 2
     }
   ],
@@ -3115,8 +3120,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-12-22T07:00:02.0554889+00:00",
-  "LastChanged_Achievements": "2023-12-22T10:09:16.6081822+00:00",
+  "LastChanged_Achievements": "2023-12-22T11:10:15.373881+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:30.3074422+00:00",
-  "LastUpdate_Ratings": "2023-12-22T10:00:28.6571532+00:00",
-  "LastUpdate_Achievements": "2023-12-22T10:09:16.6082199+00:00"
+  "LastUpdate_Ratings": "2023-12-22T11:02:06.8981092+00:00",
+  "LastUpdate_Achievements": "2023-12-22T11:10:15.3739176+00:00"
 }

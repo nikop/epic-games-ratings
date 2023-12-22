@@ -4288,9 +4288,9 @@
       "ID": "MeetTheMoles",
       "SetID": "9lj35g4",
       "Name": "Meet the Creatures from the Deep",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "MysteryKingsChamber",
@@ -4336,9 +4336,9 @@
       "ID": "ReturnPowerInMines",
       "SetID": "9lj35g4",
       "Name": "Return Power To The Depths",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "DefeatCroakhisKhan",
@@ -4407,8 +4407,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-12-21T19:58:12.3582087+00:00",
-  "LastChanged_Achievements": "2023-12-22T10:04:03.359286+00:00",
+  "LastChanged_Achievements": "2023-12-22T11:04:55.567069+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:33.7739845+00:00",
-  "LastUpdate_Ratings": "2023-12-22T09:58:20.6456594+00:00",
-  "LastUpdate_Achievements": "2023-12-22T10:04:03.3593313+00:00"
+  "LastUpdate_Ratings": "2023-12-22T10:58:51.556942+00:00",
+  "LastUpdate_Achievements": "2023-12-22T11:04:55.5671144+00:00"
 }

@@ -795,9 +795,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3519,
+  "EOS_Progressed": 3520,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4645,6 +4645,11 @@
       "Time": "2023-12-22T10:03:30.0207449+00:00",
       "NumProgressed": 3519,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-22T11:04:10.2377572+00:00",
+      "NumProgressed": 3520,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4848,7 +4853,7 @@
       "Name": "Executioner",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "Kills_Exterminator",
@@ -5199,21 +5204,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3519,
+      "Progressed": 3520,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3519,
+      "Progressed": 3520,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-16T13:05:46.2808+00:00",
-  "LastChanged_Achievements": "2023-12-22T10:03:30.0207445+00:00",
+  "LastChanged_Achievements": "2023-12-22T11:04:10.2377568+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:54.7152084+00:00",
-  "LastUpdate_Ratings": "2023-12-22T10:02:55.98864+00:00",
-  "LastUpdate_Achievements": "2023-12-22T10:03:30.0208461+00:00"
+  "LastUpdate_Ratings": "2023-12-22T11:03:17.8050047+00:00",
+  "LastUpdate_Achievements": "2023-12-22T11:04:10.2378247+00:00"
 }

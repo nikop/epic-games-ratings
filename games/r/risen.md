@@ -13,7 +13,7 @@ Rating: 4.57 (Ranked 482)
 | Archer | 49.00% | ~51 |
 | Field hand | 41.00% | ~43 |
 | Samaritan | 39.00% | ~41 |
-| Well-to-do | 38.00% | ~40 |
+| Well-to-do | 39.00% | ~41 |
 | The merciful one | 36.00% | ~38 |
 | Ladies' man | 35.00% | ~37 |
 | Ferocious wild boars | 29.00% | ~30 |
@@ -44,11 +44,11 @@ Rating: 4.57 (Ranked 482)
 | King of the handymen | 10.00% | ~10 |
 | Expert | 9.00% | ~9 |
 | The traveler | 7.00% | ~7 |
-| Moneybags | 6.00% | ~6 |
+| Moneybags | 7.00% | ~7 |
 | Rune master | 5.00% | ~5 |
+| King Midas | 5.00% | ~5 |
 | Fervent swimmer | 4.00% | ~4 |
 | Jester | 4.00% | ~4 |
-| King Midas | 4.00% | ~4 |
 | Big game hunter | 3.00% | ~3 |
 | Mage | 3.00% | ~3 |
 | Sharpshooter | 2.00% | ~2 |

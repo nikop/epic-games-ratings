@@ -278,7 +278,7 @@
   ],
   "EOS_Progressed": 151,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1064,9 +1064,9 @@
       "ID": "ACH_KILL_BONGWATER",
       "SetID": "4n84pon",
       "Name": "Bodied Sattva",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -1232,9 +1232,9 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "4n84pon",
       "Name": "Shop Til They Drop",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1257,8 +1257,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-22T10:08:30.8468588+00:00",
+  "LastChanged_Achievements": "2023-12-22T11:09:09.4235837+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:43.3974092+00:00",
-  "LastUpdate_Ratings": "2023-12-22T09:59:12.101919+00:00",
-  "LastUpdate_Achievements": "2023-12-22T10:08:30.8468829+00:00"
+  "LastUpdate_Ratings": "2023-12-22T11:00:12.0416045+00:00",
+  "LastUpdate_Achievements": "2023-12-22T11:09:09.4236153+00:00"
 }

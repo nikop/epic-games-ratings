@@ -6,13 +6,13 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 9.00% | ~354 |
-| Lost and Found | 6.00% | ~236 |
+| Malpractice Assurance | 9.00% | ~355 |
+| Lost and Found | 6.00% | ~237 |
 | This guy... again? | 5.00% | ~197 |
 | This Belongs in a Museum | 4.00% | ~5,163 |
 | Autodidact | 4.00% | ~5,163 |
-| Ploughshares to Swords | 4.00% | ~157 |
-| Bloody Graduation | 4.00% | ~157 |
+| Ploughshares to Swords | 4.00% | ~158 |
+| Bloody Graduation | 4.00% | ~158 |
 | Don't Make Me Turn This Coach Around | 3.00% | ~3,872 |
 | Serenity Now! | 3.00% | ~3,872 |
 | Not Today! | 3.00% | ~3,872 |
@@ -30,6 +30,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Unleash Hell | 2.00% | ~2,581 |
 | Funny Guy | 2.00% | ~2,581 |
 | Long Live the King | 2.00% | ~2,581 |
+| Wyrdly Reconstructed | 2.00% | ~2,581 |
 | Unfulfilled Desires | 2.00% | ~2,581 |
 | Dissector | 2.00% | ~2,581 |
 | Banishment | 2.00% | ~2,581 |
@@ -45,7 +46,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Nope | 2.00% | ~2,581 |
 | Unshackled | 2.00% | ~2,581 |
 | Road Trip | 2.00% | ~2,581 |
-| Wyrdly Reconstructed | 1.00% | ~1,291 |
 | Boxcar Kid | 1.00% | ~1,291 |
 | Hope Rekindled | 1.00% | ~1,291 |
 | Predator | 1.00% | ~1,291 |
@@ -60,18 +60,18 @@ Number of Ratings: 7,767  (23.09.2022)
 | Eyes Up | 1.00% | ~1,291 |
 | This Looks Familiar | 0.90% | ~1,162 |
 | Slap on the Wrist | 0.90% | ~35 |
-| For Old Time' Sake | 0.80% | ~31 |
-| Handled | 0.70% | ~903 |
-| Body of Work | 0.70% | ~903 |
+| For Old Time' Sake | 0.80% | ~32 |
+| Handled | 0.70% | ~904 |
+| Body of Work | 0.70% | ~904 |
 | Shrine of Reflection | 0.60% | ~774 |
 | Et Tu, Riposte? | 0.60% | ~24 |
 | Clearing the Ledger | 0.50% | ~645 |
 | Triage | 0.50% | ~645 |
 | No Mercy | 0.50% | ~20 |
+| Bacon Bits | 0.40% | ~516 |
 | Hat Trick | 0.40% | ~516 |
 | A Life Well Lived | 0.30% | ~387 |
 | The World As It Was | 0.30% | ~387 |
-| Bacon Bits | 0.30% | ~387 |
 | Eidetic | 0.30% | ~387 |
 | Battle Hardened | 0.30% | ~12 |
 | Maître De La Lame | 0.30% | ~12 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,063 (Ranked 86)  
+Progressed: 129,073 (Ranked 86)  
 Completed: 3 (0.00%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 3 (0.00%) (Ranked 384)
 | 2023-12-19 | 128,605 | 3 |
 | 2023-12-20 | 128,785 | 3 |
 | 2023-12-21 | 128,979 | 3 |
-| 2023-12-22 | 129,063 | 3 |
+| 2023-12-22 | 129,073 | 3 |
 ## Awards
 Max (Character Customization): 7,823  (Ranked 50)  
 Sum: 20,920 (Ranked 58)  

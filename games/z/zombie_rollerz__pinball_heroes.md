@@ -1,38 +1,38 @@
 # Zombie Rollerz: Pinball Heroes
 [Store](https://store.epicgames.com/en-US/p/zombie-rollerz-7aa027)  
 [View Rawdata](../../db/z/zombie_rollerz__pinball_heroes.json)  
-Rating: 4.29 (Ranked 858)  
+Rating: 4.29 (Ranked 857)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 87.00% | ~179 |
-| Bullseye! | 84.00% | ~173 |
-| Graduation! | 80.00% | ~165 |
-| Villfir Forest | 73.00% | ~150 |
-| Right in the kisser! | 57.00% | ~117 |
+| Level Up! | 87.00% | ~180 |
+| Bullseye! | 84.00% | ~174 |
+| Graduation! | 80.00% | ~166 |
+| Villfir Forest | 72.00% | ~149 |
+| Right in the kisser! | 57.00% | ~118 |
 | The Thrower | 46.00% | ~95 |
 | Duscot Steamcity | 46.00% | ~95 |
-| The Penguin | 44.00% | ~91 |
 | The Shaman | 44.00% | ~91 |
-| The Magician | 39.00% | ~80 |
-| The Tunneler | 39.00% | ~80 |
-| Level Up!! | 36.00% | ~74 |
-| The Shield | 36.00% | ~74 |
+| The Penguin | 43.00% | ~89 |
+| The Magician | 39.00% | ~81 |
+| The Tunneler | 39.00% | ~81 |
+| Level Up!! | 36.00% | ~75 |
+| The Shield | 36.00% | ~75 |
 | Kill-streak | 29.00% | ~60 |
 | Topped up | 29.00% | ~60 |
 | The Bird | 27.00% | ~56 |
 | The Ninja | 26.00% | ~54 |
 | The Idol | 25.00% | ~52 |
-| Inferno Ruins | 24.00% | ~49 |
-| I'm Rich | 22.00% | ~45 |
+| Inferno Ruins | 24.00% | ~50 |
+| I'm Rich | 22.00% | ~46 |
 | 1 is all I need | 21.00% | ~43 |
 | The Slime | 21.00% | ~43 |
 | Untouchable | 20.00% | ~41 |
-| The Flower | 17.00% | ~35 |
 | The Giant | 17.00% | ~35 |
-| The Ooze | 17.00% | ~35 |
-| Out of the Frying Pan... | 17.00% | ~35 |
 | The Blacksmith | 16.00% | ~33 |
+| The Flower | 16.00% | ~33 |
+| The Ooze | 16.00% | ~33 |
+| Out of the Frying Pan... | 16.00% | ~33 |
 | Ember | 16.00% | ~33 |
 | Turquoise | 15.00% | ~31 |
 | The Assistant | 14.00% | ~29 |
@@ -40,7 +40,7 @@ Rating: 4.29 (Ranked 858)
 | Verse | 11.00% | ~23 |
 | The Droid | 10.00% | ~21 |
 | Iron | 10.00% | ~21 |
-| The Bomber | 8.00% | ~16 |
+| The Bomber | 8.00% | ~17 |
 | Highway to Hell | 7.00% | ~14 |
 | Tested | 7.00% | ~14 |
 | Power Overwhelming | 6.00% | ~12 |
@@ -79,8 +79,8 @@ Rating: 4.29 (Ranked 858)
 | Divinity | 0.50% | ~1 |
 | Zombie Exterminator | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206 (Ranked 404)  
-Completed: 1 (0.49%) (Ranked 213)  
+Progressed: 207 (Ranked 404)  
+Completed: 1 (0.48%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -193,6 +193,7 @@ Completed: 1 (0.49%) (Ranked 213)
 | 2023-12-16 | 203 | 1 |
 | 2023-12-18 | 204 | 1 |
 | 2023-12-20 | 206 | 1 |
+| 2023-12-22 | 207 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

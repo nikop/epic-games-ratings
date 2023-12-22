@@ -4,8 +4,8 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -2813,9 +2813,9 @@
       "ID": "SleepingBasiliskPistol",
       "SetID": "db30heh",
       "Name": "Knockout",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 105
+      "UsersEstimate": 111
     },
     {
       "ID": "SleepingBasiliskPoppiesBroth",
@@ -2860,8 +2860,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-12-22T10:04:34.468796+00:00",
+  "LastChanged_Achievements": "2023-12-22T11:05:39.648528+00:00",
   "LastUpdate_AppInfo": "2023-12-20T02:56:49.0129985+00:00",
-  "LastUpdate_Ratings": "2023-12-22T09:59:19.6389763+00:00",
-  "LastUpdate_Achievements": "2023-12-22T10:04:34.4688381+00:00"
+  "LastUpdate_Ratings": "2023-12-22T11:00:23.1678509+00:00",
+  "LastUpdate_Achievements": "2023-12-22T11:05:39.6485655+00:00"
 }

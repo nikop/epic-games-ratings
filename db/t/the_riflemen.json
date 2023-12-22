@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 24,
   "Ranking_EOS_NewPlayers": 39,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-09-28T03:00:00+00:00",
     "PcReleaseDate": "2023-09-01T11:00:00+00:00",
@@ -179,11 +179,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 59619,
+  "EOS_Progressed": 59634,
   "EOS_Completed": 11760,
-  "EOS_NewPlayers": 4804,
+  "EOS_NewPlayers": 4806,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 19.73,
+  "EOS_Completed_Percentage": 19.72,
   "EosHistory": [
     {
       "Time": "2023-08-15T10:06:43.8267441+00:00",
@@ -13804,6 +13804,11 @@
       "Time": "2023-12-22T10:08:55.1752839+00:00",
       "NumProgressed": 59619,
       "NumCompleted": 11760
+    },
+    {
+      "Time": "2023-12-22T11:09:44.6782388+00:00",
+      "NumProgressed": 59634,
+      "NumCompleted": 11760
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -13824,7 +13829,7 @@
       "Name": "First blood",
       "Percentage": 74,
       "XP": 25,
-      "UsersEstimate": 44118
+      "UsersEstimate": 44129
     },
     {
       "ID": "grenadeKills",
@@ -13927,7 +13932,7 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 59619,
+      "Progressed": 59634,
       "Completed": 11760
     }
   ],
@@ -13935,8 +13940,8 @@
   "FirstSeenRating": "2023-10-20T10:59:47.6628885+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
   "LastChanged": "2023-12-21T16:58:00.7933274+00:00",
-  "LastChanged_Achievements": "2023-12-22T10:08:55.1752836+00:00",
+  "LastChanged_Achievements": "2023-12-22T11:09:44.6782383+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:56:56.3892904+00:00",
-  "LastUpdate_Ratings": "2023-12-22T09:58:18.6008567+00:00",
-  "LastUpdate_Achievements": "2023-12-22T10:08:55.17536+00:00"
+  "LastUpdate_Ratings": "2023-12-22T10:58:48.487452+00:00",
+  "LastUpdate_Achievements": "2023-12-22T11:09:44.6783042+00:00"
 }
