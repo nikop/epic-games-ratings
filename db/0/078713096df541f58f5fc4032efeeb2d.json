@@ -4,8 +4,8 @@
   "ProductSlug": "creepy-tale-3-ingrid-penance-1daff4",
   "Ranking_EOS_Progress": 527,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -532,9 +532,9 @@
       "ID": "creepytale3_ach_8",
       "SetID": "7idcjbn",
       "Name": "Save mission",
-      "Percentage": 41,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "creepytale3_ach_9",
@@ -555,8 +555,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2023-12-23T15:08:28.1884387+00:00",
+  "LastChanged_Achievements": "2023-12-23T16:08:30.0557686+00:00",
   "LastUpdate_AppInfo": "2023-12-20T07:56:51.9801236+00:00",
-  "LastUpdate_Ratings": "2023-12-23T14:57:40.0168116+00:00",
-  "LastUpdate_Achievements": "2023-12-23T15:08:28.1884678+00:00"
+  "LastUpdate_Ratings": "2023-12-23T15:57:49.7350357+00:00",
+  "LastUpdate_Achievements": "2023-12-23T16:08:30.0557867+00:00"
 }

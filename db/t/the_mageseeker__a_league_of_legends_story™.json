@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -151,9 +151,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2976,
+  "EOS_Progressed": 2977,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 180,
+  "EOS_NewPlayers": 181,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -4986,6 +4986,11 @@
       "Time": "2023-12-23T15:04:31.7616334+00:00",
       "NumProgressed": 2976,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-12-23T16:04:26.7464772+00:00",
+      "NumProgressed": 2977,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 53,
@@ -5045,7 +5050,7 @@
       "Name": "Elemental master",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1072
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -5061,7 +5066,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2827
+      "UsersEstimate": 2828
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -5125,7 +5130,7 @@
       "Name": "Little light",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_I",
@@ -5173,7 +5178,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 2262
+      "UsersEstimate": 2263
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -5181,7 +5186,7 @@
       "Name": "No more cages!",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 2708
+      "UsersEstimate": 2709
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -5221,7 +5226,7 @@
       "Name": "Thornbarrow",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1221
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -5261,7 +5266,7 @@
       "Name": "Capelworth",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -5373,7 +5378,7 @@
       "Name": "The use of petricite",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2202
+      "UsersEstimate": 2203
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -5389,7 +5394,7 @@
       "Name": "Full equipped",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "STB_UNLOCK_ALL_ULTIMATES",
@@ -5420,7 +5425,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2976,
+      "Progressed": 2977,
       "Completed": 16
     }
   ],
@@ -5428,8 +5433,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-20T21:00:13.330526+00:00",
-  "LastChanged_Achievements": "2023-12-23T15:04:31.7616331+00:00",
+  "LastChanged_Achievements": "2023-12-23T16:04:26.7464768+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:24.9335177+00:00",
-  "LastUpdate_Ratings": "2023-12-23T15:02:40.737663+00:00",
-  "LastUpdate_Achievements": "2023-12-23T15:04:31.7616812+00:00"
+  "LastUpdate_Ratings": "2023-12-23T16:02:45.2888723+00:00",
+  "LastUpdate_Achievements": "2023-12-23T16:04:26.746534+00:00"
 }

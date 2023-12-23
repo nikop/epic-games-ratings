@@ -5,25 +5,25 @@ Rating: 4.54 (Ranked 533)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~13,239 |
-| Pay 'n' Spray | 50.00% | ~8,172 |
-| All Dressed Up for San Fierro | 25.00% | ~4,086 |
-| The American Dream | 19.00% | ~3,105 |
-| School's Out | 18.00% | ~2,942 |
-| Smooth Moves | 16.00% | ~2,615 |
-| Today Was a Good Day | 15.00% | ~2,452 |
-| What happens in Las Venturas... | 14.00% | ~2,288 |
-| Horror of the Santa Maria | 10.00% | ~1,634 |
-| Liberty City State of Mind | 9.00% | ~1,471 |
-| Original Gangster | 8.00% | ~1,308 |
-| With Extra Dip | 7.00% | ~1,144 |
-| The End of the Line | 7.00% | ~1,144 |
-| Saviour | 6.00% | ~981 |
-| Rescue a Kitten Too? | 5.00% | ~817 |
+| Getting Started | 81.00% | ~13,252 |
+| Pay 'n' Spray | 50.00% | ~8,180 |
+| All Dressed Up for San Fierro | 25.00% | ~4,090 |
+| The American Dream | 19.00% | ~3,108 |
+| School's Out | 18.00% | ~2,945 |
+| Smooth Moves | 16.00% | ~2,618 |
+| Today Was a Good Day | 15.00% | ~2,454 |
+| What happens in Las Venturas... | 14.00% | ~2,290 |
+| Horror of the Santa Maria | 10.00% | ~1,636 |
+| Liberty City State of Mind | 9.00% | ~1,472 |
+| Original Gangster | 8.00% | ~1,309 |
+| With Extra Dip | 7.00% | ~1,145 |
+| The End of the Line | 7.00% | ~1,145 |
+| Saviour | 6.00% | ~982 |
+| Rescue a Kitten Too? | 5.00% | ~818 |
 | They Can’t Stop All of Us | 4.00% | ~654 |
 | What are the Odds | 4.00% | ~654 |
-| Bike or Biker | 3.00% | ~490 |
-| What the City Needs | 3.00% | ~490 |
+| Bike or Biker | 3.00% | ~491 |
+| What the City Needs | 3.00% | ~491 |
 | A Legitimate Business | 2.00% | ~327 |
 | I’ll Have Two Number 9s | 2.00% | ~327 |
 | Who Needs Directions? | 2.00% | ~327 |
@@ -33,15 +33,15 @@ Rating: 4.54 (Ranked 533)
 | Assassin | 2.00% | ~327 |
 | Public Enemy No. 1 | 2.00% | ~327 |
 | Ain’t Nothing But a G Thing | 2.00% | ~327 |
-| Hoopin' it Up | 1.00% | ~163 |
-| Lucky Spinner | 1.00% | ~163 |
-| Not a Player | 1.00% | ~163 |
-| Chick Magnet | 1.00% | ~163 |
-| Remastered | 0.70% | ~114 |
+| Hoopin' it Up | 1.00% | ~164 |
+| Lucky Spinner | 1.00% | ~164 |
+| Not a Player | 1.00% | ~164 |
+| Chick Magnet | 1.00% | ~164 |
+| Remastered | 0.70% | ~115 |
 | ...Here we go again | 0.50% | ~82 |
 | I Ain't No Buster | 0.40% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,344 (Ranked 159)  
+Progressed: 16,360 (Ranked 159)  
 Completed: 62 (0.38%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 62 (0.38%) (Ranked 232)
 | 2023-12-20 | 15,810 | 62 |
 | 2023-12-21 | 15,997 | 62 |
 | 2023-12-22 | 16,205 | 62 |
-| 2023-12-23 | 16,344 | 62 |
+| 2023-12-23 | 16,360 | 62 |
 ## Awards
 Max (Great Boss Battles): 483  (Ranked 220)  
 Sum: 788 (Ranked 286)  

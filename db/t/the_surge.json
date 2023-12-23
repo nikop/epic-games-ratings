@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -388,7 +388,7 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5041,
+  "EOS_Progressed": 5043,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
@@ -3983,6 +3983,11 @@
       "Time": "2023-12-23T14:08:22.531596+00:00",
       "NumProgressed": 5041,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-23T16:08:26.7590236+00:00",
+      "NumProgressed": 5043,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -3994,7 +3999,7 @@
       "Name": "P.A.X",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1865
+      "UsersEstimate": 1866
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -4002,7 +4007,7 @@
       "Name": "Firebug",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1009
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -4042,7 +4047,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4234
+      "UsersEstimate": 4236
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -4050,7 +4055,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4739
+      "UsersEstimate": 4740
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -4058,7 +4063,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3882
+      "UsersEstimate": 3883
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -4122,7 +4127,7 @@
       "Name": "Sunglasses at Night",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "ID_ACHIEV_18",
@@ -4178,7 +4183,7 @@
       "Name": "Core Power",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "ID_ACHIEV_25",
@@ -4210,7 +4215,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3831
+      "UsersEstimate": 3833
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -4242,7 +4247,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 2722
+      "UsersEstimate": 2723
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -4266,7 +4271,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1160
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -4314,7 +4319,7 @@
       "Name": "Nothing to Lose",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 907
+      "UsersEstimate": 908
     },
     {
       "ID": "ID_ACHIEV_43",
@@ -4378,7 +4383,7 @@
       "Name": "Carbon Cat",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "ID_ACHIEV_51",
@@ -4529,15 +4534,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5041,
+      "Progressed": 5043,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-22T16:02:12.5580517+00:00",
-  "LastChanged_Achievements": "2023-12-23T15:08:24.5275542+00:00",
+  "LastChanged_Achievements": "2023-12-23T16:08:26.7590232+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.7369287+00:00",
-  "LastUpdate_Ratings": "2023-12-23T14:02:44.4265728+00:00",
-  "LastUpdate_Achievements": "2023-12-23T15:08:24.5276178+00:00"
+  "LastUpdate_Ratings": "2023-12-23T15:57:14.4855885+00:00",
+  "LastUpdate_Achievements": "2023-12-23T16:08:26.7590901+00:00"
 }

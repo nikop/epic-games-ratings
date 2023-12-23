@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Such a strange dream… | 88.00% | ~396 |
-| Your first fight | 85.00% | ~382 |
+| Such a strange dream… | 88.00% | ~397 |
+| Your first fight | 85.00% | ~383 |
 | First winning | 83.00% | ~374 |
 | Good Person Chip | 83.00% | ~374 |
-| Your first job | 82.00% | ~369 |
-| Depressed visitor | 77.00% | ~346 |
-| Fitness professional | 76.00% | ~342 |
-| Old movies enjoyer | 76.00% | ~342 |
-| Neurotrainer – power gainer! | 76.00% | ~342 |
+| Your first job | 82.00% | ~370 |
+| Depressed visitor | 77.00% | ~347 |
+| Old movies enjoyer | 76.00% | ~343 |
+| Neurotrainer – power gainer! | 76.00% | ~343 |
+| Fitness professional | 75.00% | ~338 |
 | Employee of the week | 75.00% | ~338 |
-| Your own amateur gym | 70.00% | ~315 |
-| Run K, run! | 69.00% | ~310 |
-| First defeat | 68.00% | ~306 |
+| Your own amateur gym | 70.00% | ~316 |
+| Run K, run! | 69.00% | ~311 |
+| First defeat | 68.00% | ~307 |
 | Hello, world! | 67.00% | ~302 |
-| Fighting is cool | 66.00% | ~297 |
-| No bullying more | 66.00% | ~297 |
-| Pal of your father? | 64.00% | ~288 |
-| Spirit of the past | 62.00% | ~279 |
-| Employee of the month | 61.00% | ~274 |
+| Fighting is cool | 66.00% | ~298 |
+| No bullying more | 66.00% | ~298 |
+| Pal of your father? | 64.00% | ~289 |
+| Spirit of the past | 62.00% | ~280 |
+| Employee of the month | 61.00% | ~275 |
 | Law student | 59.00% | ~266 |
-| Workout professional | 56.00% | ~252 |
-| Handyman | 56.00% | ~252 |
-| Champion – starter pack | 56.00% | ~252 |
+| Workout professional | 56.00% | ~253 |
+| Handyman | 56.00% | ~253 |
+| Champion – starter pack | 56.00% | ~253 |
 | Fight for life | 55.00% | ~248 |
 | Little hacker | 55.00% | ~248 |
 | It's good to be alive | 55.00% | ~248 |
 | Employee of the year | 55.00% | ~248 |
-| Own four walls | 54.00% | ~243 |
-| Intriguing candies | 54.00% | ~243 |
+| Own four walls | 54.00% | ~244 |
+| Intriguing candies | 54.00% | ~244 |
 | Extreme neuropower! | 51.00% | ~230 |
-| Legal courier | 50.00% | ~225 |
+| Legal courier | 50.00% | ~226 |
 | Escaped from a big trouble | 47.00% | ~212 |
 | Now you are worthy | 44.00% | ~198 |
 | Fight is life | 43.00% | ~194 |
@@ -44,34 +44,34 @@
 | Champion – no way back | 39.00% | ~176 |
 | Underground dwellers | 38.00% | ~171 |
 | Responsible approach | 38.00% | ~171 |
-| Mom got better | 36.00% | ~162 |
 | Deal with life | 36.00% | ~162 |
 | GYM professional | 36.00% | ~162 |
+| Mom got better | 35.00% | ~158 |
 | Poisoned fighter | 35.00% | ~158 |
 | The die is cast | 35.00% | ~158 |
 | Get out of my apartment! | 34.00% | ~153 |
-| Seashell hunter | 33.00% | ~148 |
+| Seashell hunter | 33.00% | ~149 |
 | Gang wrangler | 32.00% | ~144 |
-| Absolute Champion! | 32.00% | ~144 |
 | Undercover robot | 32.00% | ~144 |
 | Problems of cyborgs | 31.00% | ~140 |
-| The lonesome road | 30.00% | ~135 |
+| Absolute Champion! | 31.00% | ~140 |
 | Not little hacker | 30.00% | ~135 |
-| Careerist | 30.00% | ~135 |
 | Your own way | 30.00% | ~135 |
-| Trap disarmed | 29.00% | ~130 |
-| Another world | 29.00% | ~130 |
-| Keep nature safe | 29.00% | ~130 |
-| Family comes first | 29.00% | ~130 |
-| Key memories | 29.00% | ~130 |
-| Anyone can resist | 29.00% | ~130 |
-| The heart of the Resistance | 29.00% | ~130 |
+| Trap disarmed | 29.00% | ~131 |
+| Another world | 29.00% | ~131 |
+| The lonesome road | 29.00% | ~131 |
+| Keep nature safe | 29.00% | ~131 |
+| Family comes first | 29.00% | ~131 |
+| Key memories | 29.00% | ~131 |
+| Careerist | 29.00% | ~131 |
+| Anyone can resist | 29.00% | ~131 |
+| The heart of the Resistance | 29.00% | ~131 |
 | The last bell ring | 28.00% | ~126 |
 | Better cooking at home | 27.00% | ~122 |
 | Silver’s past | 26.00% | ~117 |
 | The only right decision | 26.00% | ~117 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 450 (Ranked 339)  
+Progressed: 451 (Ranked 339)  
 Completed: 9 (2.00%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,4 +173,4 @@ Completed: 9 (2.00%) (Ranked 135)
 | 2023-12-20 | 436 | 9 |
 | 2023-12-21 | 442 | 9 |
 | 2023-12-22 | 447 | 9 |
-| 2023-12-23 | 450 | 9 |
+| 2023-12-23 | 451 | 9 |

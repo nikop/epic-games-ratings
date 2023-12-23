@@ -10,7 +10,7 @@
 | We will need a bigger wardrobe | 41.00% | ~43 |
 | Born to Win | 38.00% | ~40 |
 | Welcome to Seoul | 38.00% | ~40 |
-| Roller Race | 37.00% | ~39 |
+| Roller Race | 38.00% | ~40 |
 | Stilesville Hidden Style | 30.00% | ~32 |
 | Creating New Trends | 25.00% | ~26 |
 | Scooter Race | 24.00% | ~25 |
@@ -24,7 +24,7 @@
 | Talented Photographer | 1.00% | ~1 |
 | Exclusive Photoshoot | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 105 (Ranked 469)  
+Progressed: 105 (Ranked 470)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |

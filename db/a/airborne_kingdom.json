@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7658,
+  "EOS_Progressed": 7659,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -6438,6 +6438,11 @@
       "Time": "2023-12-23T14:04:38.0456303+00:00",
       "NumProgressed": 7658,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-23T16:04:01.2773239+00:00",
+      "NumProgressed": 7659,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 27,
@@ -6489,7 +6494,7 @@
       "Name": "Harp Tuned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1761
+      "UsersEstimate": 1762
     },
     {
       "ID": "AK_HOPES_HOISTED",
@@ -6505,7 +6510,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1914
+      "UsersEstimate": 1915
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -6513,7 +6518,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1914
+      "UsersEstimate": 1915
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -6521,7 +6526,7 @@
       "Name": "Knowledge Seeker",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "AK_KNOWLEDGE_SHARED",
@@ -6545,7 +6550,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2144
+      "UsersEstimate": 2145
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -6569,7 +6574,7 @@
       "Name": "Pyre Ignited",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1761
+      "UsersEstimate": 1762
     },
     {
       "ID": "AK_RELIC_FINDER",
@@ -6601,7 +6606,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4288
+      "UsersEstimate": 4289
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -6625,7 +6630,7 @@
       "Name": "Travelers Returned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1761
+      "UsersEstimate": 1762
     },
     {
       "ID": "AK_TRUE_CHALLENGE",
@@ -6649,7 +6654,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -6664,15 +6669,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7658,
+      "Progressed": 7659,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-12-23T15:04:04.3376478+00:00",
+  "LastChanged_Achievements": "2023-12-23T16:04:01.2773236+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:12.2358899+00:00",
-  "LastUpdate_Ratings": "2023-12-23T15:03:11.9809302+00:00",
-  "LastUpdate_Achievements": "2023-12-23T15:04:04.3376952+00:00"
+  "LastUpdate_Ratings": "2023-12-23T16:03:13.424245+00:00",
+  "LastUpdate_Achievements": "2023-12-23T16:04:01.2773717+00:00"
 }

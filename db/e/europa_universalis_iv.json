@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 37,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -13623,9 +13623,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 482077,
+  "EOS_Progressed": 482135,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5492,
+  "EOS_NewPlayers": 5468,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -42068,6 +42068,11 @@
       "Time": "2023-12-23T15:06:23.720126+00:00",
       "NumProgressed": 482077,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-23T16:06:10.544412+00:00",
+      "NumProgressed": 482135,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -43079,7 +43084,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1928
+      "UsersEstimate": 1929
     },
     {
       "ID": "achievement_grand_coalition",
@@ -44743,7 +44748,7 @@
       "Name": "Until death do us apart",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1928
+      "UsersEstimate": 1929
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -44775,7 +44780,7 @@
       "Name": "Victorious!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1928
+      "UsersEstimate": 1929
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -44982,21 +44987,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 482077,
+      "Progressed": 482135,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 482077,
+      "Progressed": 482135,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-12-23T14:59:05.1750284+00:00",
-  "LastChanged_Achievements": "2023-12-23T15:06:23.7201258+00:00",
+  "LastChanged_Achievements": "2023-12-23T16:06:10.5444117+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:33.9920534+00:00",
-  "LastUpdate_Ratings": "2023-12-23T14:59:05.175029+00:00",
-  "LastUpdate_Achievements": "2023-12-23T15:06:23.7211999+00:00"
+  "LastUpdate_Ratings": "2023-12-23T15:59:03.1821042+00:00",
+  "LastUpdate_Achievements": "2023-12-23T16:06:10.5454379+00:00"
 }

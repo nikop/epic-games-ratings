@@ -26,10 +26,10 @@ Rating: 4.63 (Ranked 353)
 | Azorian Anniversary | 0.40% | ~34 |
 | Skilled | 0.40% | ~34 |
 | Flaming Hot Completos | 0.30% | ~26 |
+| Fae Farmer | 0.30% | ~26 |
 | Fanatical Farmer | 0.30% | ~26 |
 | Right Tool For the Job | 0.30% | ~26 |
 | Azorian Hat Dance | 0.30% | ~4 |
-| Fae Farmer | 0.20% | ~17 |
 | Got to Catch Them All | 0.20% | ~17 |
 | Scattered Scroll Scrounger | 0.20% | ~17 |
 | Rumble in the Jumble | 0.20% | ~17 |
@@ -49,7 +49,7 @@ Rating: 4.63 (Ranked 353)
 | Splish-Splash | 0.10% | ~1 |
 | Archi-Pal-igo Aficionado | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,603 (Ranked 182)  
+Progressed: 8,605 (Ranked 182)  
 Completed: 1 (0.01%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 1 (0.01%) (Ranked 362)
 | 2023-12-20 | 8,558 | 1 |
 | 2023-12-21 | 8,577 | 1 |
 | 2023-12-22 | 8,600 | 1 |
-| 2023-12-23 | 8,603 | 1 |
+| 2023-12-23 | 8,605 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

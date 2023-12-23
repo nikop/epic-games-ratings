@@ -2,13 +2,13 @@
   "ID": "7ab8af3a04424eeaa509d37d7b5222b7",
   "Name": "Beyond Good \u0026 Evil",
   "ProductSlug": "beyond-good-and-evil",
-  "Ranking_Rating": 131,
+  "Ranking_Rating": 173,
   "Ranking_Popularity": 571,
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 815,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 570,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2020-08-25T15:00:00+00:00",
     "PcReleaseDate": "2003-11-11T00:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.76,
+  "Rating": 4.73,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:24.4398974+00:00",
@@ -37,6 +37,12 @@
     {
       "Time": "2023-12-14T13:59:56.9902532+00:00",
       "Rating": 4.76,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-23T15:57:51.6258709+00:00",
+      "Rating": 4.73,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -57,8 +63,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:50.8664104+00:00",
   "FirstSeenRating": "2023-03-31T05:58:24.4398971+00:00",
-  "LastChanged": "2023-12-14T13:59:56.9902529+00:00",
+  "LastChanged": "2023-12-23T15:57:51.6258707+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:21.8362042+00:00",
-  "LastUpdate_Ratings": "2023-12-23T14:57:42.2525666+00:00",
-  "LastUpdate_Achievements": "2023-12-23T15:08:38.9188376+00:00"
+  "LastUpdate_Ratings": "2023-12-23T15:57:51.6258713+00:00",
+  "LastUpdate_Achievements": "2023-12-23T16:08:39.4166251+00:00"
 }

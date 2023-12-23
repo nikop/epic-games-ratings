@@ -5,14 +5,14 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Travel Streamer | 93.00% | ~604 |
-| Training Simulation | 79.00% | ~513 |
-| Kuku Bird Hunter | 66.00% | ~428 |
-| Storm Traveller | 60.00% | ~389 |
-| Wolf King Killer | 55.00% | ~357 |
-| Fashion Connoisseur | 53.00% | ~344 |
+| Training Simulation | 79.00% | ~514 |
+| Kuku Bird Hunter | 66.00% | ~429 |
+| Storm Traveller | 60.00% | ~390 |
+| Wolf King Killer | 55.00% | ~358 |
+| Fashion Connoisseur | 52.00% | ~338 |
 | Arms Mechanic | 49.00% | ~318 |
 | Flower Thief | 44.00% | ~286 |
-| Apostle of Flame | 39.00% | ~253 |
+| Apostle of Flame | 39.00% | ~254 |
 | Beginner Cook | 37.00% | ~240 |
 | Beginner Artificer | 37.00% | ~240 |
 | Seal Breaker | 32.00% | ~208 |
@@ -22,14 +22,14 @@
 | Nosebleeder | 25.00% | ~162 |
 | Trader | 22.00% | ~143 |
 | Weapon Boost | 21.00% | ~136 |
-| Flying Kobold Killer | 18.00% | ~117 |
+| Flying Kobold Killer | 19.00% | ~124 |
 | Youth Magnet | 18.00% | ~117 |
-| Furious Scorpion Killer | 17.00% | ~110 |
-| Master Artificer | 17.00% | ~110 |
+| Furious Scorpion Killer | 17.00% | ~111 |
+| Master Artificer | 17.00% | ~111 |
 | Lethal Blade Mantis Killer | 16.00% | ~104 |
 | Squeaky Clean | 16.00% | ~104 |
-| Kind Adventurer | 15.00% | ~97 |
-| Mermaid Killer | 14.00% | ~91 |
+| Kind Adventurer | 15.00% | ~98 |
+| Mermaid Killer | 15.00% | ~98 |
 | Cave Master | 14.00% | ~91 |
 | Face Slapper | 14.00% | ~91 |
 | Boss challenge | 10.00% | ~65 |
@@ -37,12 +37,12 @@
 | Giantess Slayer | 10.00% | ~65 |
 | Master Cook | 9.00% | ~58 |
 | Warden Slayer | 9.00% | ~58 |
-| Silver Moon Wolf King Challenge | 3.00% | ~19 |
-| Giant Lizard Challenge | 3.00% | ~19 |
+| Silver Moon Wolf King Challenge | 4.00% | ~26 |
+| Flying Kobold Challenge | 3.00% | ~20 |
+| Giant Lizard Challenge | 3.00% | ~20 |
 | Rebellious | 2.00% | ~13 |
 | Blade Mantis Challenge | 2.00% | ~13 |
 | Big Face Goalkeeper Challenge | 2.00% | ~13 |
-| Flying Kobold Challenge | 2.00% | ~13 |
 | Giant Claw Spider Challenge | 2.00% | ~13 |
 | Furious Scorpion Challenge | 2.00% | ~13 |
 | Mermaid Challenge | 2.00% | ~13 |
@@ -50,7 +50,7 @@
 | Berserker Challenge | 1.00% | ~6 |
 | Warden Challenge | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 649 (Ranked 310)  
+Progressed: 650 (Ranked 310)  
 Completed: 2 (0.31%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 2 (0.31%) (Ranked 246)
 | 2023-12-20 | 642 | 1 |
 | 2023-12-21 | 646 | 1 |
 | 2023-12-22 | 647 | 1 |
-| 2023-12-23 | 649 | 2 |
+| 2023-12-23 | 650 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 449,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -569,7 +569,7 @@
   ],
   "EOS_Progressed": 6052,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 315,
+  "EOS_NewPlayers": 314,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -9226,9 +9226,9 @@
       "ID": "6",
       "SetID": "3aa2279",
       "Name": "One for All, All for One",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 42
+      "UsersEstimate": 48
     },
     {
       "ID": "7",
@@ -9401,8 +9401,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-20T07:59:25.4319145+00:00",
-  "LastChanged_Achievements": "2023-12-23T15:07:50.560189+00:00",
+  "LastChanged_Achievements": "2023-12-23T16:08:05.1001409+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.6868317+00:00",
-  "LastUpdate_Ratings": "2023-12-23T14:58:18.1660013+00:00",
-  "LastUpdate_Achievements": "2023-12-23T15:07:50.5602637+00:00"
+  "LastUpdate_Ratings": "2023-12-23T15:58:21.2768094+00:00",
+  "LastUpdate_Achievements": "2023-12-23T16:08:05.1002097+00:00"
 }

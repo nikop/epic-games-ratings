@@ -4,8 +4,8 @@
   "ProductSlug": "overpass-2",
   "Ranking_EOS_Progress": 372,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 364,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 371,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 311,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1488,9 +1488,9 @@
       "ID": "achWinRaceUd",
       "SetID": "7ji07dj",
       "Name": "Dry Driver",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achWinRaceWe",
@@ -1511,8 +1511,8 @@
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-12-23T15:09:36.1166295+00:00",
+  "LastChanged_Achievements": "2023-12-23T16:09:32.252674+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:13.519956+00:00",
-  "LastUpdate_Ratings": "2023-12-23T14:58:47.3415407+00:00",
-  "LastUpdate_Achievements": "2023-12-23T15:09:36.1166515+00:00"
+  "LastUpdate_Ratings": "2023-12-23T15:58:47.0745587+00:00",
+  "LastUpdate_Achievements": "2023-12-23T16:09:32.252702+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 970,
+  "EOS_Progressed": 972,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2317,6 +2317,11 @@
       "Time": "2023-12-23T15:03:38.3463841+00:00",
       "NumProgressed": 970,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-23T16:03:38.1607611+00:00",
+      "NumProgressed": 972,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -2383,17 +2388,17 @@
       "ID": "CompleteChapter1",
       "SetID": "52ail55",
       "Name": "Pathfinder",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 757
+      "UsersEstimate": 748
     },
     {
       "ID": "CompleteChapter10",
       "SetID": "52ail55",
       "Name": "You da Boss, Now",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 126
     },
     {
       "ID": "CompleteChapter11",
@@ -2401,7 +2406,7 @@
       "Name": "The Artefact is Mine",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "CompleteChapter12",
@@ -2473,7 +2478,7 @@
       "Name": "Met the Enemy",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "CompleteChapter3",
@@ -2481,7 +2486,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "CompleteChapter4",
@@ -2489,7 +2494,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "CompleteChapter5",
@@ -2497,7 +2502,7 @@
       "Name": "Breathing Easy",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "CompleteChapter6",
@@ -2521,7 +2526,7 @@
       "Name": "Troggoff Troubles",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "CompleteChapter9",
@@ -2624,14 +2629,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 970,
+      "Progressed": 972,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-23T15:03:38.346384+00:00",
+  "LastChanged_Achievements": "2023-12-23T16:03:38.1607605+00:00",
   "LastUpdate_AppInfo": "2023-12-22T09:57:09.096238+00:00",
-  "LastUpdate_Ratings": "2023-12-23T14:58:58.8704226+00:00",
-  "LastUpdate_Achievements": "2023-12-23T15:03:38.3464097+00:00"
+  "LastUpdate_Ratings": "2023-12-23T15:58:58.0084965+00:00",
+  "LastUpdate_Achievements": "2023-12-23T16:03:38.1607879+00:00"
 }

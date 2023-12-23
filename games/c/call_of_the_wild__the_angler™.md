@@ -6,11 +6,11 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 12.00% | ~891 |
-| Hey Good Hookin | 10.00% | ~742 |
-| More Fish in the Sea | 10.00% | ~742 |
-| Can you smell what the Rod is Hooking | 9.00% | ~668 |
-| Scaling up | 9.00% | ~668 |
+| Fish Just Got Reel | 12.00% | ~892 |
+| Hey Good Hookin | 10.00% | ~743 |
+| More Fish in the Sea | 10.00% | ~743 |
+| Can you smell what the Rod is Hooking | 9.00% | ~669 |
+| Scaling up | 9.00% | ~669 |
 | I'm on a Boat! | 8.00% | ~594 |
 | Ready to Rod and Roll | 7.00% | ~520 |
 | Fish Out of Water | 4.00% | ~297 |
@@ -18,8 +18,8 @@ Number of Ratings: 281  (23.09.2022)
 | Goldfish? | 3.00% | ~223 |
 | Going for Gold | 3.00% | ~223 |
 | School's Out for Summer | 3.00% | ~223 |
-| License to Gill | 2.00% | ~148 |
-| I'm Hooked! | 2.00% | ~148 |
+| License to Gill | 2.00% | ~149 |
+| I'm Hooked! | 2.00% | ~149 |
 | Diamond in the Rough | 0.90% | ~67 |
 | I'm the Captain Now | 0.70% | ~52 |
 | Marathon | 0.70% | ~52 |
@@ -27,8 +27,8 @@ Number of Ratings: 281  (23.09.2022)
 | More than a Tourist | 0.50% | ~37 |
 | No Fin left to give | 0.50% | ~37 |
 | Gonna Need a Bigger Boat | 0.50% | ~37 |
-| Live by the Rod, Diez by the Rod! | 0.40% | ~27 |
 | Aguas Claras Conquistador | 0.40% | ~27 |
+| Live by the Rod, Diez by the Rod! | 0.30% | ~20 |
 | All Good Kings Must Come to an End | 0.30% | ~20 |
 | The Beetles | 0.20% | ~15 |
 | Lake Me up Before You Go Go | 0.20% | ~15 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,425 (Ranked 188)  
+Progressed: 7,431 (Ranked 188)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,11 +294,11 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-20 | 7,288 | 0 |
 | 2023-12-21 | 7,339 | 0 |
 | 2023-12-22 | 7,389 | 0 |
-| 2023-12-23 | 7,425 | 0 |
+| 2023-12-23 | 7,431 | 0 |
 ## Awards
-Max (Great for Beginners): 41  (Ranked 467)  
+Max (Great for Beginners): 41  (Ranked 468)  
 Sum: 210 (Ranked 405)  
-Diff (max vs sum): 62  
+Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 41 |

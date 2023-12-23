@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 386,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 268,
+  "EOS_Progressed": 270,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 266,
+  "EOS_NewPlayers": 268,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -849,6 +849,11 @@
       "Time": "2023-12-23T15:08:35.6758017+00:00",
       "NumProgressed": 268,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T16:08:36.5766161+00:00",
+      "NumProgressed": 270,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -867,9 +872,9 @@
       "ID": "CareerAllChallenges",
       "SetID": "5hd282c",
       "Name": "Highballer",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 40
+      "UsersEstimate": 43
     },
     {
       "ID": "CareerChamp1",
@@ -917,7 +922,7 @@
       "Name": "Storm Warning",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "CollectVehiclesA",
@@ -931,9 +936,9 @@
       "ID": "CollectVehiclesB",
       "SetID": "5hd282c",
       "Name": "Junk Collector",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 38
     },
     {
       "ID": "CreditsEarnedA",
@@ -941,7 +946,7 @@
       "Name": "Cash For Crashes",
       "Percentage": 5,
       "XP": 120,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "GetWreckedA",
@@ -973,15 +978,15 @@
       "Name": "Dirty Roller",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "PlayerRankB",
       "SetID": "5hd282c",
       "Name": "Trashing Around",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 35
     },
     {
       "ID": "PlayerRankC",
@@ -1020,7 +1025,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 268,
+      "Progressed": 270,
       "Completed": 0
     }
   ],
@@ -1028,8 +1033,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-19T23:00:17.2400985+00:00",
-  "LastChanged_Achievements": "2023-12-23T15:08:35.6758015+00:00",
+  "LastChanged_Achievements": "2023-12-23T16:08:36.5766156+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:03.0967517+00:00",
-  "LastUpdate_Ratings": "2023-12-23T14:58:40.7204503+00:00",
-  "LastUpdate_Achievements": "2023-12-23T15:08:35.6758162+00:00"
+  "LastUpdate_Ratings": "2023-12-23T15:58:41.5661798+00:00",
+  "LastUpdate_Achievements": "2023-12-23T16:08:36.5766269+00:00"
 }

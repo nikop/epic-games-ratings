@@ -4,8 +4,8 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -18,11 +18,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 812,
+  "EOS_Progressed": 813,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 282,
+  "EOS_NewPlayers": 279,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.99,
+  "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
       "Time": "2023-09-19T03:08:38.9448107+00:00",
@@ -2758,6 +2758,11 @@
       "Time": "2023-12-23T15:09:11.6753843+00:00",
       "NumProgressed": 812,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-23T16:09:09.7600802+00:00",
+      "NumProgressed": 813,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -2770,7 +2775,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 804
+      "UsersEstimate": 805
     },
     {
       "ID": "achievement_10",
@@ -2810,7 +2815,7 @@
       "Name": "Fusion Conjuror",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "achievement_15",
@@ -2922,15 +2927,15 @@
       "Name": "Mighty Marmelizer",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "achievement_28",
       "SetID": "2cpn27e",
       "Name": "Flawless Crystal",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 300
+      "UsersEstimate": 309
     },
     {
       "ID": "achievement_29",
@@ -2938,7 +2943,7 @@
       "Name": "Fair Means or Foul",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "achievement_3",
@@ -2946,7 +2951,7 @@
       "Name": "Bonds of Enmity",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "achievement_30",
@@ -2960,9 +2965,9 @@
       "ID": "achievement_31",
       "SetID": "2cpn27e",
       "Name": "Snare Specialist",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 187
     },
     {
       "ID": "achievement_32",
@@ -2986,7 +2991,7 @@
       "Name": "Kemono at Heart",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "achievement_35",
@@ -3008,9 +3013,9 @@
       "ID": "achievement_37",
       "SetID": "2cpn27e",
       "Name": "Hidden History",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 577
+      "UsersEstimate": 569
     },
     {
       "ID": "achievement_38",
@@ -3034,7 +3039,7 @@
       "Name": "Axer of Auspice",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "achievement_40",
@@ -3066,7 +3071,7 @@
       "Name": "Team Hunter",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "achievement_44",
@@ -3120,9 +3125,9 @@
       "ID": "achievement_6",
       "SetID": "2cpn27e",
       "Name": "Commencing of Quests",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 495
+      "UsersEstimate": 504
     },
     {
       "ID": "achievement_7",
@@ -3130,7 +3135,7 @@
       "Name": "Budding Conjuror",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "achievement_8",
@@ -3153,13 +3158,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 812,
+      "Progressed": 813,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-23T15:09:11.6753842+00:00",
+  "LastChanged_Achievements": "2023-12-23T16:09:09.7600798+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:11.6761115+00:00",
-  "LastUpdate_Ratings": "2023-12-23T14:58:30.0487451+00:00",
-  "LastUpdate_Achievements": "2023-12-23T15:09:11.6754228+00:00"
+  "LastUpdate_Ratings": "2023-12-23T15:58:32.3035644+00:00",
+  "LastUpdate_Achievements": "2023-12-23T16:09:09.7601269+00:00"
 }

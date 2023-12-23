@@ -4,8 +4,8 @@
   "ProductSlug": "worldless-49eae3",
   "Ranking_EOS_Progress": 430,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 423,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-21T14:00:00+00:00",
     "PcReleaseDate": "2023-11-21T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 154,
+  "EOS_Progressed": 155,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -669,6 +669,11 @@
       "Time": "2023-12-22T17:04:39.9294423+00:00",
       "NumProgressed": 154,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T16:05:04.4628832+00:00",
+      "NumProgressed": 155,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-17T13:09:54.2114838+00:00",
@@ -681,7 +686,7 @@
       "Name": "Adaptation",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_ALL_COMBAT_SKILLS",
@@ -727,9 +732,9 @@
       "ID": "ACH_AVEN_UNLOCKED",
       "SetID": "cagp2pi",
       "Name": "Together",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_BIPOLAR_ABSORBED",
@@ -737,7 +742,7 @@
       "Name": "Duality",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_BRANCH_ALL_SLOTS",
@@ -785,7 +790,7 @@
       "Name": "Edda and Aven",
       "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_FIRST_ABSORPTION",
@@ -793,7 +798,7 @@
       "Name": "Absorption",
       "Percentage": 85,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_LIGHTNING_NIGHTMARE_ABSORBED",
@@ -872,14 +877,14 @@
     {
       "ID": "cagp2pi",
       "IsBase": true,
-      "Progressed": 154,
+      "Progressed": 155,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2023-12-23T15:05:12.1808344+00:00",
+  "LastChanged_Achievements": "2023-12-23T16:05:04.4628828+00:00",
   "LastUpdate_AppInfo": "2023-12-22T14:57:06.2279599+00:00",
-  "LastUpdate_Ratings": "2023-12-23T14:58:25.1246775+00:00",
-  "LastUpdate_Achievements": "2023-12-23T15:05:12.1808464+00:00"
+  "LastUpdate_Ratings": "2023-12-23T15:58:27.8927383+00:00",
+  "LastUpdate_Achievements": "2023-12-23T16:05:04.4628967+00:00"
 }

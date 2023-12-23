@@ -6,42 +6,42 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 9.00% | ~13,243 |
-| Titan's First Steps | 9.00% | ~13,243 |
-| Basic in Bulk | 8.00% | ~11,771 |
-| Tinkle of Coins | 8.00% | ~11,771 |
-| Disintermediation | 6.00% | ~8,828 |
-| It's Free Real Estate | 6.00% | ~8,828 |
-| Capitalism Ho! | 6.00% | ~8,828 |
-| One Easy Payment | 5.00% | ~7,357 |
-| Some Assembly Required | 5.00% | ~7,357 |
-| Another Satisfied Customer | 5.00% | ~7,357 |
-| Pretty Penny | 5.00% | ~7,357 |
-| Budding Merchant | 5.00% | ~7,357 |
-| Own the Means of Production | 5.00% | ~7,357 |
+| Sponsored by Argon | 9.00% | ~13,245 |
+| Titan's First Steps | 9.00% | ~13,245 |
+| Basic in Bulk | 8.00% | ~11,773 |
+| Tinkle of Coins | 8.00% | ~11,773 |
+| Disintermediation | 6.00% | ~8,830 |
+| It's Free Real Estate | 6.00% | ~8,830 |
+| Capitalism Ho! | 6.00% | ~8,830 |
+| One Easy Payment | 5.00% | ~7,358 |
+| Some Assembly Required | 5.00% | ~7,358 |
+| Another Satisfied Customer | 5.00% | ~7,358 |
+| Pretty Penny | 5.00% | ~7,358 |
+| Budding Merchant | 5.00% | ~7,358 |
+| Own the Means of Production | 5.00% | ~7,358 |
 | The Daily Grind | 4.00% | ~5,886 |
 | Bounty Hunters | 4.00% | ~5,886 |
 | Where it Hurts | 4.00% | ~5,886 |
 | One-Armed Bandit | 4.00% | ~5,886 |
 | Dungeon Imports | 4.00% | ~5,886 |
 | Through Repetition, Perfection | 4.00% | ~5,886 |
-| On the Path to Greatness | 3.00% | ~4,414 |
-| Ascended | 3.00% | ~4,414 |
-| Research & Development | 3.00% | ~4,414 |
-| Vanity, Verily | 3.00% | ~4,414 |
-| Blank Page Syndrome | 3.00% | ~4,414 |
-| Demand for Supplies | 3.00% | ~4,414 |
-| Flooding the Market | 3.00% | ~4,414 |
-| Power of Love | 3.00% | ~4,414 |
-| Efficient Floor Space | 3.00% | ~4,414 |
-| Flawless Fusion | 3.00% | ~4,414 |
-| Gem Expert | 3.00% | ~4,414 |
-| Gild-Gotten Goods | 3.00% | ~4,414 |
-| Helping Hand | 3.00% | ~4,414 |
-| Accomplished Merchant | 3.00% | ~4,414 |
-| Natural 20 | 3.00% | ~4,414 |
-| Did we pack lunch? | 3.00% | ~4,414 |
-| Arcane Industries | 3.00% | ~4,414 |
+| On the Path to Greatness | 3.00% | ~4,415 |
+| Ascended | 3.00% | ~4,415 |
+| Research & Development | 3.00% | ~4,415 |
+| Vanity, Verily | 3.00% | ~4,415 |
+| Blank Page Syndrome | 3.00% | ~4,415 |
+| Demand for Supplies | 3.00% | ~4,415 |
+| Flooding the Market | 3.00% | ~4,415 |
+| Power of Love | 3.00% | ~4,415 |
+| Efficient Floor Space | 3.00% | ~4,415 |
+| Flawless Fusion | 3.00% | ~4,415 |
+| Gem Expert | 3.00% | ~4,415 |
+| Gild-Gotten Goods | 3.00% | ~4,415 |
+| Helping Hand | 3.00% | ~4,415 |
+| Accomplished Merchant | 3.00% | ~4,415 |
+| Natural 20 | 3.00% | ~4,415 |
+| Did we pack lunch? | 3.00% | ~4,415 |
+| Arcane Industries | 3.00% | ~4,415 |
 | A Notch Above the Rest | 2.00% | ~2,943 |
 | Cream of the Crop | 2.00% | ~2,943 |
 | Top of the World | 2.00% | ~2,943 |
@@ -99,12 +99,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Exotic Commodities | 2.00% | ~2,943 |
 | Complete Monopoly | 2.00% | ~2,943 |
 | King's Blade | 2.00% | ~2,943 |
-| The Free Encyclopedia | 1.00% | ~1,471 |
-| Fillin' the Bin | 1.00% | ~1,471 |
-| Thank You Tom Nook | 1.00% | ~1,471 |
-| Jackpot! | 1.00% | ~1,471 |
-| Eternal Crusade | 1.00% | ~1,471 |
-| Economy of Scarce | 1.00% | ~1,471 |
+| The Free Encyclopedia | 1.00% | ~1,472 |
+| Fillin' the Bin | 1.00% | ~1,472 |
+| Thank You Tom Nook | 1.00% | ~1,472 |
+| Jackpot! | 1.00% | ~1,472 |
+| Eternal Crusade | 1.00% | ~1,472 |
+| Economy of Scarce | 1.00% | ~1,472 |
 | All or Nothing! | 0.90% | ~1,324 |
 | The Greatest Grind | 0.80% | ~1,177 |
 | Marvels from the World Over | 0.80% | ~1,177 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~589 |
 | Capitalist Camaraderie | 0.20% | ~294 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 147,139 (Ranked 83)  
+Progressed: 147,162 (Ranked 83)  
 Completed: 330 (0.22%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -366,10 +366,10 @@ Completed: 330 (0.22%) (Ranked 266)
 | 2023-12-20 | 146,580 | 325 |
 | 2023-12-21 | 146,796 | 328 |
 | 2023-12-22 | 147,019 | 330 |
-| 2023-12-23 | 147,139 | 330 |
+| 2023-12-23 | 147,162 | 330 |
 ## Awards
 Max (Great for Beginners): 4,910  (Ranked 75)  
-Sum: 27,792 (Ranked 51)  
+Sum: 27,793 (Ranked 51)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
@@ -378,7 +378,7 @@ Diff (max vs sum): 24
 | This game has Quickly Understood Controls | 4,054 |
 | This game has Diverse Characters | 3,986 |
 | This game is Highly Recommended | 3,801 |
-| This game has Easy Combat | 3,751 |
+| This game has Easy Combat | 3,752 |
 | This game has Playful Visuals | 3,225 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
@@ -710,4 +710,4 @@ Diff (max vs sum): 24
 | 2023-12-20 | 3.99 | - | 4,900 | 27,769 |
 | 2023-12-21 | 3.99 | - | 4,900 | 27,771 |
 | 2023-12-22 | 3.99 | - | 4,906 | 27,779 |
-| 2023-12-23 | 3.99 | - | 4,910 | 27,792 |
+| 2023-12-23 | 3.99 | - | 4,910 | 27,793 |

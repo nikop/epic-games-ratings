@@ -1,7 +1,7 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.58 (Ranked 456)  
+Rating: 4.58 (Ranked 457)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -17,9 +17,9 @@ Rating: 4.58 (Ranked 456)
 | Ain't Nobody Got Time for That | 14.00% | ~513 |
 | The Ship of Theseus | 14.00% | ~513 |
 | Guy de Borderlands | 13.00% | ~476 |
-| Exceeding Capacity | 12.00% | ~439 |
-| Breaking Protocol | 12.00% | ~439 |
-| Hope Seeker | 12.00% | ~439 |
+| Exceeding Capacity | 12.00% | ~440 |
+| Breaking Protocol | 12.00% | ~440 |
+| Hope Seeker | 12.00% | ~440 |
 | A Hunk of Junk | 11.00% | ~403 |
 | Man's Best Friend | 9.00% | ~330 |
 | Power Outage | 8.00% | ~293 |
@@ -36,9 +36,9 @@ Rating: 4.58 (Ranked 456)
 | BRAWL! | 5.00% | ~183 |
 | Drill-dozer | 5.00% | ~183 |
 | What the Ruins Teach Us | 5.00% | ~183 |
-| Sustainable Energy | 4.00% | ~146 |
-| In Dolos We Trust | 4.00% | ~146 |
-| Pedal to the Metal | 4.00% | ~146 |
+| Sustainable Energy | 4.00% | ~147 |
+| In Dolos We Trust | 4.00% | ~147 |
+| Pedal to the Metal | 4.00% | ~147 |
 | Praise the Hull! | 3.00% | ~110 |
 | Delivery! | 3.00% | ~110 |
 | Help of the Forgotten Member | 3.00% | ~110 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 456)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,662 (Ranked 212)  
+Progressed: 3,663 (Ranked 212)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-20 | 3,605 | 0 |
 | 2023-12-21 | 3,624 | 0 |
 | 2023-12-22 | 3,645 | 0 |
-| 2023-12-23 | 3,662 | 0 |
+| 2023-12-23 | 3,663 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

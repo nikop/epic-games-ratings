@@ -5,10 +5,10 @@
   "Ranking_Rating": 551,
   "Ranking_Popularity": 485,
   "Ranking_PopularitySum": 516,
-  "Ranking_EOS_Progress": 423,
+  "Ranking_EOS_Progress": 422,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -276,9 +276,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 163,
+  "EOS_Progressed": 165,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -936,6 +936,11 @@
       "Time": "2023-12-23T13:11:08.3497652+00:00",
       "NumProgressed": 163,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T16:08:55.3053898+00:00",
+      "NumProgressed": 165,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -946,7 +951,7 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 15,
       "UsersEstimate": 112
     },
@@ -962,9 +967,9 @@
       "ID": "ACH_ANAL_PROBE_TRIPPLE_CRIT",
       "SetID": "4n84pon",
       "Name": "Perfect Probulator",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_BASKETBALL_SLAM",
@@ -980,7 +985,7 @@
       "Name": "Furon Fashion",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -1058,9 +1063,9 @@
       "ID": "ACH_DISLOCATOR_BOWLING",
       "SetID": "4n84pon",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1076,15 +1081,15 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
       "SetID": "4n84pon",
       "Name": "Rock of the Bay",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 25,
-      "UsersEstimate": 121
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1092,7 +1097,7 @@
       "Name": "Fly Me to the Moon Base",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_ENTER_TAKOSHIMA",
@@ -1100,7 +1105,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_ENTER_TUNGUSKA",
@@ -1124,7 +1129,7 @@
       "Name": "Kaijuiced",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_KILL_MILENKOV",
@@ -1138,9 +1143,9 @@
       "ID": "ACH_KILL_ORANCHOV",
       "SetID": "4n84pon",
       "Name": "Freshly Squeezed",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_KILL_PONSONBY",
@@ -1170,9 +1175,9 @@
       "ID": "ACH_KILL_WARSHIP",
       "SetID": "4n84pon",
       "Name": "Scuttled",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_KILL_YETI",
@@ -1194,17 +1199,17 @@
       "ID": "ACH_OPEN_FLUFF_MENU",
       "SetID": "4n84pon",
       "Name": "Earthly Pleasures",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
       "SetID": "4n84pon",
       "Name": "Upgreatest",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -1218,9 +1223,9 @@
       "ID": "ACH_REVISIT_MISSION",
       "SetID": "4n84pon",
       "Name": "Re-Return of the Clone of the Invasion II-2",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_SKATE_ALBION",
@@ -1292,14 +1297,14 @@
       "Name": "Pimp My Raid",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 163,
+      "Progressed": 165,
       "Completed": 0
     }
   ],
@@ -1307,8 +1312,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-23T15:08:55.6607411+00:00",
+  "LastChanged_Achievements": "2023-12-23T16:08:55.3053894+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:43.3974092+00:00",
-  "LastUpdate_Ratings": "2023-12-23T14:59:57.4491857+00:00",
-  "LastUpdate_Achievements": "2023-12-23T15:08:55.6607693+00:00"
+  "LastUpdate_Ratings": "2023-12-23T15:59:49.5856404+00:00",
+  "LastUpdate_Achievements": "2023-12-23T16:08:55.3054267+00:00"
 }

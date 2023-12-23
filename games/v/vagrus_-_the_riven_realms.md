@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 58.00% | ~133 |
+| A Second Chance | 58.00% | ~134 |
 | Press-ganged | 42.00% | ~97 |
 | The Package | 27.00% | ~62 |
 | Conquered | 20.00% | ~46 |
@@ -15,11 +15,11 @@
 | Tactician | 10.00% | ~23 |
 | Fight Another Day | 9.00% | ~21 |
 | Taskmaster | 8.00% | ~18 |
-| Scholar | 7.00% | ~16 |
 | The More the Merrier | 7.00% | ~16 |
 | Harbinger | 7.00% | ~16 |
 | Acquaintance | 7.00% | ~16 |
 | Tail-wind | 7.00% | ~16 |
+| Scholar | 6.00% | ~14 |
 | Strategist | 5.00% | ~12 |
 | Deputized | 5.00% | ~12 |
 | Courier | 5.00% | ~12 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230 (Ranked 397)  
+Progressed: 231 (Ranked 397)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-20 | 225 | 0 |
 | 2023-12-21 | 227 | 0 |
 | 2023-12-22 | 229 | 0 |
-| 2023-12-23 | 230 | 0 |
+| 2023-12-23 | 231 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

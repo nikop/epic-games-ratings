@@ -50,9 +50,9 @@ Rating: 4.62 (Ranked 373)
 | I've Got Everything I Need Right Here | 0.80% | ~48 |
 | The Goddess of Nature | 0.80% | ~48 |
 | Grexolis | 0.80% | ~48 |
+| One for All, All for One | 0.80% | ~48 |
 | Manufactured War | 0.70% | ~42 |
 | Pruning for Progress | 0.70% | ~42 |
-| One for All, All for One | 0.70% | ~42 |
 | Duality | 0.70% | ~42 |
 | Betrayal Most Foul | 0.50% | ~30 |
 | Snap Out of It! | 0.30% | ~18 |

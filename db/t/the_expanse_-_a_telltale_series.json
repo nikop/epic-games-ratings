@@ -5,7 +5,7 @@
   "Ranking_Rating": 509,
   "Ranking_Popularity": 571,
   "Ranking_PopularitySum": 571,
-  "Ranking_EOS_Progress": 155,
+  "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 56,
@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17186,
+  "EOS_Progressed": 17188,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 691,
+  "EOS_NewPlayers": 687,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -14871,6 +14871,11 @@
       "Time": "2023-12-23T15:06:14.5501201+00:00",
       "NumProgressed": 17186,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-12-23T16:06:01.7091841+00:00",
+      "NumProgressed": 17188,
+      "NumCompleted": 47
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14923,7 +14928,7 @@
       "Name": "Doctor Approved",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "15",
@@ -14955,7 +14960,7 @@
       "Name": "Bottoms up!",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "19",
@@ -15123,7 +15128,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "32",
@@ -15162,13 +15167,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17186,
+      "Progressed": 17188,
       "Completed": 47
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3140,
+      "Progressed": 3142,
       "Completed": 1005
     }
   ],
@@ -15176,8 +15181,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-23T03:58:14.2545087+00:00",
-  "LastChanged_Achievements": "2023-12-23T15:06:14.5501198+00:00",
+  "LastChanged_Achievements": "2023-12-23T16:06:01.7091838+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:40.0929133+00:00",
-  "LastUpdate_Ratings": "2023-12-23T14:57:56.428888+00:00",
-  "LastUpdate_Achievements": "2023-12-23T15:06:14.5501953+00:00"
+  "LastUpdate_Ratings": "2023-12-23T15:58:03.069918+00:00",
+  "LastUpdate_Achievements": "2023-12-23T16:06:01.7092855+00:00"
 }

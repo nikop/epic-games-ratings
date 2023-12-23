@@ -13,10 +13,10 @@
 | Mummy Nightmare | 8.00% | ~8 |
 | Cat Lover | 8.00% | ~8 |
 | It's a Deal! | 8.00% | ~8 |
+| In the Name of the Law | 7.00% | ~7 |
+| Au Revoir, Abudin | 7.00% | ~7 |
 | Dynamite, Treason and Coconuts | 7.00% | ~7 |
 | Save a Friend | 7.00% | ~7 |
-| In the Name of the Law | 6.00% | ~6 |
-| Au Revoir, Abudin | 6.00% | ~6 |
 | Barking Dog | 6.00% | ~6 |
 | Mysterious Bungalow | 5.00% | ~5 |
 | The Eyes! | 4.00% | ~4 |

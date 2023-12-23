@@ -5,7 +5,7 @@ Rating: 4.65 (Ranked 319)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 39.00% | ~419 |
+| Time Heals All Wounds | 40.00% | ~430 |
 | Rail Rat | 30.00% | ~322 |
 | The Mysterious Stranger | 29.00% | ~312 |
 | Immaculate Aim | 25.00% | ~269 |
@@ -15,12 +15,12 @@ Rating: 4.65 (Ranked 319)
 | Time Flies | 23.00% | ~247 |
 | No, Thanks! | 23.00% | ~247 |
 | Honest Mistake | 23.00% | ~247 |
+| Fast Learner | 23.00% | ~247 |
 | Immaculate Aim | 23.00% | ~247 |
 | The Steel Shadow | 22.00% | ~236 |
 | The Harder They Fall | 22.00% | ~236 |
 | Breaking Down Barriers | 22.00% | ~236 |
 | The Wicked Twins | 22.00% | ~236 |
-| Fast Learner | 22.00% | ~236 |
 | The Betrayer | 21.00% | ~226 |
 | Right On Time | 20.00% | ~215 |
 | Like Clockwork | 20.00% | ~215 |

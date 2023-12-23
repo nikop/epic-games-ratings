@@ -6,10 +6,10 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Settler | 0.40% | ~64 |
+| Play a Single Player Game | 0.40% | ~64 |
 | Explorer | 0.30% | ~48 |
-| Settler | 0.30% | ~48 |
 | Friendly Family | 0.30% | ~48 |
-| Play a Single Player Game | 0.30% | ~48 |
 | Regicide | 0.20% | ~32 |
 | Able | 0.20% | ~32 |
 | Ambitious | 0.20% | ~32 |
@@ -230,6 +230,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pilgrimage | 0.10% | ~16 |
 | Poetic Leader | 0.10% | ~16 |
 | Patriarch St Paul | 0.10% | ~16 |
+| Hypatia the Teacher | 0.10% | ~16 |
 | Rmt n Kmt Buhen | 0.10% | ~16 |
 | Only Kem | 0.10% | ~16 |
 | Greater Kmt Unified | 0.10% | ~16 |
@@ -323,7 +324,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | Five Cults | 0.00% | ~0 |
 | The Mythical Beast | 0.00% | ~0 |
-| Hypatia the Teacher | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 | Sepat Wase Forever | 0.00% | ~0 |
 | Pharaonic Greater Kmt Unified | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,901 (Ranked 161)  
+Progressed: 15,902 (Ranked 161)  
 Completed: 5 (0.03%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -612,7 +612,7 @@ Completed: 5 (0.03%) (Ranked 346)
 | 2023-12-20 | 15,854 | 5 |
 | 2023-12-21 | 15,865 | 5 |
 | 2023-12-22 | 15,884 | 5 |
-| 2023-12-23 | 15,901 | 5 |
+| 2023-12-23 | 15,902 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 279)  
 Sum: 1,907 (Ranked 220)  

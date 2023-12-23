@@ -20,7 +20,7 @@
 | Friend of Lyraine | 39.00% | ~28 |
 | The Circle | 38.00% | ~27 |
 | Redecorating | 35.00% | ~25 |
-| Bad JuJu | 24.00% | ~17 |
+| Bad JuJu | 25.00% | ~18 |
 | Slave to the rhythm | 23.00% | ~16 |
 | Friend of Sevenkeeps | 23.00% | ~16 |
 | Castle Meldec | 21.00% | ~15 |
@@ -30,9 +30,9 @@
 | Break Free | 15.00% | ~11 |
 | Stormwatch Faste | 14.00% | ~10 |
 | Friend of Gillyshire | 14.00% | ~10 |
+| Friend of Silver Drift Hollow | 14.00% | ~10 |
 | Friend of Bastion | 14.00% | ~10 |
 | Philo's Tale | 13.00% | ~9 |
-| Friend of Silver Drift Hollow | 13.00% | ~9 |
 | Friend of Orgash | 11.00% | ~8 |
 | Friend of Windholme | 11.00% | ~8 |
 | Silver Drift Hollow Mine | 10.00% | ~7 |
@@ -41,12 +41,12 @@
 | Defeat Gor | 8.00% | ~6 |
 | Defeat Uram | 8.00% | ~6 |
 | Elynn's Tale | 8.00% | ~6 |
+| Yngrid's Tale | 8.00% | ~6 |
 | The Forge of Regan Gor | 8.00% | ~6 |
 | Mage Teacher | 8.00% | ~6 |
 | A Master of Magic | 8.00% | ~6 |
 | Defeat Hokan | 7.00% | ~5 |
 | Lore's Tale | 7.00% | ~5 |
-| Yngrid's Tale | 7.00% | ~5 |
 | Get to the Airship! | 6.00% | ~4 |
 | Defeat Isgrimm | 6.00% | ~4 |
 | Defeat Undergast | 6.00% | ~4 |

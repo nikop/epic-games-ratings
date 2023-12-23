@@ -301,7 +301,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 835,
+  "EOS_Progressed": 836,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 1,
@@ -2891,6 +2891,11 @@
       "Time": "2023-12-23T12:05:40.3271037+00:00",
       "NumProgressed": 835,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-23T16:05:44.1200319+00:00",
+      "NumProgressed": 836,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -2942,15 +2947,15 @@
       "Name": "That was base",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "hire-lieutenant",
       "SetID": "bed33dd",
       "Name": "Our Man",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 20,
-      "UsersEstimate": 701
+      "UsersEstimate": 711
     },
     {
       "ID": "kill-lieutenants",
@@ -2966,7 +2971,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "play-at-night",
@@ -2974,7 +2979,7 @@
       "Name": "Don\u0027t Let Mom Know You\u0027re A Druglord",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "product-profit",
@@ -2982,7 +2987,7 @@
       "Name": "Follow the Money",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "rage-quit",
@@ -2990,7 +2995,7 @@
       "Name": "Bad Trip",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "rename-lieutenant",
@@ -2998,7 +3003,7 @@
       "Name": "I\u0027m Going To Call You Kitty",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "rob-village",
@@ -3012,9 +3017,9 @@
       "ID": "sell-variety",
       "SetID": "bed33dd",
       "Name": "Spread",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 359
+      "UsersEstimate": 351
     },
     {
       "ID": "send-smuggling",
@@ -3038,7 +3043,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "use-submarine",
@@ -3053,15 +3058,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 835,
+      "Progressed": 836,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-23T10:57:58.3271618+00:00",
-  "LastChanged_Achievements": "2023-12-23T15:05:55.5253253+00:00",
+  "LastChanged_Achievements": "2023-12-23T16:05:44.1200315+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.4837395+00:00",
-  "LastUpdate_Ratings": "2023-12-23T14:58:11.6738517+00:00",
-  "LastUpdate_Achievements": "2023-12-23T15:05:55.5253606+00:00"
+  "LastUpdate_Ratings": "2023-12-23T15:58:16.3321151+00:00",
+  "LastUpdate_Achievements": "2023-12-23T16:05:44.1200599+00:00"
 }

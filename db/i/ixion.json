@@ -2,13 +2,13 @@
   "ID": "1efd3d783b814b8b8548fb60c5983825",
   "Name": "IXION",
   "ProductSlug": "ixion-88cda4",
-  "Ranking_Rating": 456,
+  "Ranking_Rating": 457,
   "Ranking_Popularity": 571,
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -323,7 +323,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3662,
+  "EOS_Progressed": 3663,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
@@ -6958,6 +6958,11 @@
       "Time": "2023-12-23T15:05:14.0618973+00:00",
       "NumProgressed": 3662,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T16:05:05.7980534+00:00",
+      "NumProgressed": 3663,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -7065,7 +7070,7 @@
       "Name": "Sustainable Energy",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ACH_BASE_23",
@@ -7113,7 +7118,7 @@
       "Name": "In Dolos We Trust",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ACH_BASE_29",
@@ -7137,7 +7142,7 @@
       "Name": "Exceeding Capacity",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "ACH_BASE_31",
@@ -7177,7 +7182,7 @@
       "Name": "Breaking Protocol",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "ACH_BASE_36",
@@ -7329,7 +7334,7 @@
       "Name": "Pedal to the Metal",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ACH_BASE_58",
@@ -7353,7 +7358,7 @@
       "Name": "Hope Seeker",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "ACH_BASE_60",
@@ -7424,13 +7429,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1846,
+      "Progressed": 1847,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3662,
+      "Progressed": 3663,
       "Completed": 0
     }
   ],
@@ -7438,8 +7443,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-22T13:57:44.9340377+00:00",
-  "LastChanged_Achievements": "2023-12-23T15:05:14.0618972+00:00",
+  "LastChanged_Achievements": "2023-12-23T16:05:05.7980528+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.6786359+00:00",
-  "LastUpdate_Ratings": "2023-12-23T14:58:11.3426758+00:00",
-  "LastUpdate_Achievements": "2023-12-23T15:05:14.0619624+00:00"
+  "LastUpdate_Ratings": "2023-12-23T15:58:16.0607735+00:00",
+  "LastUpdate_Achievements": "2023-12-23T16:05:05.7981338+00:00"
 }

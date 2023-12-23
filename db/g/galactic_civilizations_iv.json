@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 306,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -987,9 +987,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 7455,
+  "EOS_Progressed": 7456,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9352,6 +9352,11 @@
       "Time": "2023-12-23T15:09:54.1147522+00:00",
       "NumProgressed": 7455,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T16:09:49.0036736+00:00",
+      "NumProgressed": 7456,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -9403,7 +9408,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4473
+      "UsersEstimate": 4474
     },
     {
       "ID": "Control_All_Relics",
@@ -9467,7 +9472,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5740
+      "UsersEstimate": 5741
     },
     {
       "ID": "First_Race_Met",
@@ -9499,7 +9504,7 @@
       "Name": "Worker Specialization",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 5666
+      "UsersEstimate": 5667
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -9577,9 +9582,9 @@
       "ID": "Own_30_Planets",
       "SetID": "4h07amh",
       "Name": "Own 30 Planets",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2460
+      "UsersEstimate": 2386
     },
     {
       "ID": "Play_1000_Hours",
@@ -9683,7 +9688,7 @@
       "Name": "Unleash My Power",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4473
+      "UsersEstimate": 4474
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -9938,15 +9943,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7455,
+      "Progressed": 7456,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-12-19T20:02:58.7273791+00:00",
-  "LastChanged_Achievements": "2023-12-23T15:09:54.1147519+00:00",
+  "LastChanged_Achievements": "2023-12-23T16:09:49.0036732+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:41.5804615+00:00",
-  "LastUpdate_Ratings": "2023-12-23T14:58:26.2127772+00:00",
-  "LastUpdate_Achievements": "2023-12-23T15:09:54.1148498+00:00"
+  "LastUpdate_Ratings": "2023-12-23T15:58:28.828267+00:00",
+  "LastUpdate_Achievements": "2023-12-23T16:09:49.0037618+00:00"
 }

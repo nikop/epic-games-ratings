@@ -1,7 +1,7 @@
 # Curious Expedition 2
 [Store](https://store.epicgames.com/en-US/p/curious-expedition-2-8cb901)  
 [View Rawdata](../../db/c/curious_expedition_2.json)  
-Rating: 4.73 (Ranked 174)  
+Rating: 4.73 (Ranked 173)  
 Number of Ratings: 20  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -14,7 +14,7 @@ Number of Ratings: 20  (23.09.2022)
 | From Whence we Came | 43.00% | ~161 |
 | Fire and Flood | 41.00% | ~153 |
 | Spooky! | 38.00% | ~142 |
-| Shennong Herbalist | 34.00% | ~127 |
+| Shennong Herbalist | 35.00% | ~131 |
 | Treasure Hunt | 34.00% | ~127 |
 | Good Mama | 33.00% | ~123 |
 | O Captain My Captain | 31.00% | ~116 |
@@ -24,7 +24,7 @@ Number of Ratings: 20  (23.09.2022)
 | Uncertain Loyalties | 25.00% | ~94 |
 | Nahua Seeker | 24.00% | ~90 |
 | Roll to Save | 23.00% | ~86 |
-| Veteran Explorer | 21.00% | ~79 |
+| Veteran Explorer | 22.00% | ~82 |
 | Red Flag Pirate | 20.00% | ~75 |
 | Iron Man | 17.00% | ~64 |
 | A Gentle Beast | 17.00% | ~64 |

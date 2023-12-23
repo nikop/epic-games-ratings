@@ -6,14 +6,14 @@ Rating: 3.23 (Ranked 1,069)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It's Good to have Allies | 27.00% | ~560 |
-| Defenses Online | 25.00% | ~518 |
+| Defenses Online | 25.00% | ~519 |
 | Facility Online | 20.00% | ~415 |
 | Corporal | 15.00% | ~311 |
 | Sergeant | 12.00% | ~249 |
 | Covert Operative | 12.00% | ~249 |
-| Lieutenant | 10.00% | ~207 |
-| Getting Deployment | 10.00% | ~207 |
-| On Target | 10.00% | ~207 |
+| Lieutenant | 10.00% | ~208 |
+| Getting Deployment | 10.00% | ~208 |
+| On Target | 10.00% | ~208 |
 | Keeping Busy | 9.00% | ~187 |
 | Stocking Up | 9.00% | ~187 |
 | Infantry Reporting | 9.00% | ~187 |
@@ -32,10 +32,10 @@ Rating: 3.23 (Ranked 1,069)
 | Resourceful | 4.00% | ~83 |
 | Colonel | 3.00% | ~62 |
 | Control the Skies | 3.00% | ~62 |
-| Advanced Warfare | 2.00% | ~41 |
-| General | 2.00% | ~41 |
-| Seek & Destroy | 2.00% | ~41 |
-| Battle Ready | 2.00% | ~41 |
+| Advanced Warfare | 2.00% | ~42 |
+| General | 2.00% | ~42 |
+| Seek & Destroy | 2.00% | ~42 |
+| Battle Ready | 2.00% | ~42 |
 | Advanced Interceptors | 1.00% | ~21 |
 | Titan Tanks | 1.00% | ~21 |
 | Shock Troops | 1.00% | ~21 |
@@ -44,7 +44,7 @@ Rating: 3.23 (Ranked 1,069)
 | Platinum Achiever | 0.10% | ~2 |
 | Platinum Competitor | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,074 (Ranked 234)  
+Progressed: 2,075 (Ranked 234)  
 Completed: 1 (0.05%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,6 +242,7 @@ Completed: 1 (0.05%) (Ranked 332)
 | 2023-12-20 | 2,055 | 1 |
 | 2023-12-21 | 2,059 | 1 |
 | 2023-12-22 | 2,074 | 1 |
+| 2023-12-23 | 2,075 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,8 +4,8 @@
   "ProductSlug": "ova-magica-058407",
   "Ranking_EOS_Progress": 815,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 570,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -32,6 +32,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-16T23:57:34.5891744+00:00",
-  "LastUpdate_Ratings": "2023-12-23T15:00:26.3621276+00:00",
-  "LastUpdate_Achievements": "2023-12-23T15:09:47.4747769+00:00"
+  "LastUpdate_Ratings": "2023-12-23T16:00:16.148864+00:00",
+  "LastUpdate_Achievements": "2023-12-23T16:09:42.4445547+00:00"
 }

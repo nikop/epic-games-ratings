@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 403,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 220,
+  "EOS_Progressed": 222,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -909,6 +909,11 @@
       "Time": "2023-12-23T15:04:13.4518565+00:00",
       "NumProgressed": 220,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-23T16:04:09.6911816+00:00",
+      "NumProgressed": 222,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -993,7 +998,7 @@
       "Name": "Hunger",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "AC_BOSS_01",
@@ -1009,7 +1014,7 @@
       "Name": "Downfall",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "AC_BOSS_03",
@@ -1033,7 +1038,7 @@
       "Name": "Pack",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "AC_COMBO_2",
@@ -1065,7 +1070,7 @@
       "Name": "Corpse",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "AC_DEATH_2",
@@ -1089,15 +1094,15 @@
       "Name": "Killer",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
       "SetID": "16i2akc",
       "Name": "Psycopath",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 66
+      "UsersEstimate": 64
     },
     {
       "ID": "AC_DEATH_ENEMIES_3",
@@ -1111,9 +1116,9 @@
       "ID": "AC_DISTANCE_1",
       "SetID": "16i2akc",
       "Name": "Excursion",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 175
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -1121,7 +1126,7 @@
       "Name": "Journey",
       "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -1129,7 +1134,7 @@
       "Name": "Voyage",
       "Percentage": 30,
       "XP": 45,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
@@ -1193,15 +1198,15 @@
       "Name": "Gun",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "AC_RECIPES_DONE_1",
       "SetID": "16i2akc",
       "Name": "Cook",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 31
     },
     {
       "ID": "AC_RECIPES_DONE_2",
@@ -1225,7 +1230,7 @@
       "Name": "Loss",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -1239,9 +1244,9 @@
       "ID": "AC_SNIPER_MAX",
       "SetID": "16i2akc",
       "Name": "Crosshair",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "AC_UZI_MAX",
@@ -1256,14 +1261,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 220,
+      "Progressed": 222,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-23T15:04:13.4518564+00:00",
+  "LastChanged_Achievements": "2023-12-23T16:04:09.6911812+00:00",
   "LastUpdate_AppInfo": "2023-12-19T20:57:15.8211494+00:00",
-  "LastUpdate_Ratings": "2023-12-23T14:58:14.5896688+00:00",
-  "LastUpdate_Achievements": "2023-12-23T15:04:13.4518807+00:00"
+  "LastUpdate_Ratings": "2023-12-23T15:58:18.2260358+00:00",
+  "LastUpdate_Achievements": "2023-12-23T16:04:09.6912084+00:00"
 }

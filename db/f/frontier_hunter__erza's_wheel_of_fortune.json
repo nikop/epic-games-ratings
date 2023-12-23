@@ -4,7 +4,7 @@
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 649,
+  "EOS_Progressed": 650,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -2177,6 +2177,11 @@
       "Time": "2023-12-23T04:09:55.8346315+00:00",
       "NumProgressed": 649,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-23T16:09:07.6785959+00:00",
+      "NumProgressed": 650,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -2218,9 +2223,9 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "7pimpda",
       "Name": "Flying Kobold Killer",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 124
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -2236,7 +2241,7 @@
       "Name": "Furious Scorpion Killer",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -2260,15 +2265,15 @@
       "Name": "Kind Adventurer",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACHIEVEMENT_19",
       "SetID": "7pimpda",
       "Name": "Mermaid Killer",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 98
     },
     {
       "ID": "ACHIEVEMENT_2",
@@ -2276,7 +2281,7 @@
       "Name": "Training Simulation",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -2332,15 +2337,15 @@
       "Name": "Master Artificer",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACHIEVEMENT_27",
       "SetID": "7pimpda",
       "Name": "Fashion Connoisseur",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 344
+      "UsersEstimate": 338
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -2356,7 +2361,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -2402,9 +2407,9 @@
       "ID": "ACHIEVEMENT_35",
       "SetID": "7pimpda",
       "Name": "Flying Kobold Challenge",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 20
     },
     {
       "ID": "ACHIEVEMENT_36",
@@ -2426,9 +2431,9 @@
       "ID": "ACHIEVEMENT_38",
       "SetID": "7pimpda",
       "Name": "Silver Moon Wolf King Challenge",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -2436,7 +2441,7 @@
       "Name": "Giant Lizard Challenge",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -2444,7 +2449,7 @@
       "Name": "Storm Traveller",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -2508,7 +2513,7 @@
       "Name": "Wolf King Killer",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -2524,7 +2529,7 @@
       "Name": "Apostle of Flame",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -2547,7 +2552,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 649,
+      "Progressed": 650,
       "Completed": 2
     }
   ],
@@ -2555,8 +2560,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-23T15:09:09.327601+00:00",
+  "LastChanged_Achievements": "2023-12-23T16:09:07.6785957+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:00.9363361+00:00",
-  "LastUpdate_Ratings": "2023-12-23T14:58:55.9852404+00:00",
-  "LastUpdate_Achievements": "2023-12-23T15:09:09.3276408+00:00"
+  "LastUpdate_Ratings": "2023-12-23T15:58:55.3336775+00:00",
+  "LastUpdate_Achievements": "2023-12-23T16:09:07.6786315+00:00"
 }

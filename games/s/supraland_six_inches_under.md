@@ -6,62 +6,62 @@ Number of Ratings: 209  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good Morning | 99.00% | ~2,360 |
-| Hit Rock Bottom | 97.00% | ~2,312 |
-| Rocket Launched | 97.00% | ~2,312 |
-| Speed | 97.00% | ~2,312 |
-| High Jump | 96.00% | ~2,289 |
-| Knee bending | 96.00% | ~2,289 |
-| Pickaxe | 94.00% | ~2,241 |
-| Force Beam | 93.00% | ~2,217 |
-| Entered Cage Town | 93.00% | ~2,217 |
-| Stone Pickaxe | 93.00% | ~2,217 |
-| Revenge | 93.00% | ~2,217 |
-| Cage Town | 93.00% | ~2,217 |
-| Surprise | 93.00% | ~2,217 |
-| Industrial Area | 90.00% | ~2,146 |
+| Good Morning | 99.00% | ~2,361 |
+| Hit Rock Bottom | 97.00% | ~2,313 |
+| Rocket Launched | 97.00% | ~2,313 |
+| Speed | 97.00% | ~2,313 |
+| High Jump | 96.00% | ~2,290 |
+| Knee bending | 96.00% | ~2,290 |
+| Pickaxe | 94.00% | ~2,242 |
+| Cage Town | 94.00% | ~2,242 |
+| Force Beam | 93.00% | ~2,218 |
+| Entered Cage Town | 93.00% | ~2,218 |
+| Stone Pickaxe | 93.00% | ~2,218 |
+| Revenge | 93.00% | ~2,218 |
+| Surprise | 93.00% | ~2,218 |
 | Magnet | 90.00% | ~2,146 |
-| Magnet Repel | 88.00% | ~2,098 |
-| You feel middle classy | 87.00% | ~2,074 |
-| Boomeraxe | 87.00% | ~2,074 |
-| Iron Pickaxe | 87.00% | ~2,074 |
-| Banking District | 86.00% | ~2,050 |
-| Mission Unlikely | 86.00% | ~2,050 |
-| Arrested | 85.00% | ~2,026 |
-| Zappy Gun | 85.00% | ~2,026 |
-| Got your own one now | 85.00% | ~2,026 |
-| Don't draw dicks pls | 85.00% | ~2,026 |
+| Industrial Area | 89.00% | ~2,123 |
+| Magnet Repel | 88.00% | ~2,099 |
+| You feel middle classy | 87.00% | ~2,075 |
+| Boomeraxe | 87.00% | ~2,075 |
+| Iron Pickaxe | 87.00% | ~2,075 |
+| Banking District | 86.00% | ~2,051 |
+| Mission Unlikely | 86.00% | ~2,051 |
+| Arrested | 85.00% | ~2,027 |
+| Zappy Gun | 85.00% | ~2,027 |
+| Got your own one now | 85.00% | ~2,027 |
+| Don't draw dicks pls | 85.00% | ~2,027 |
 | Ripped | 84.00% | ~2,003 |
-| Beat the big arena | 83.00% | ~1,979 |
-| Force Cube | 82.00% | ~1,955 |
-| Got Battery | 81.00% | ~1,931 |
-| Guard Distracted | 81.00% | ~1,931 |
-| Translocator | 80.00% | ~1,907 |
+| Beat the big arena | 83.00% | ~1,980 |
+| Force Cube | 82.00% | ~1,956 |
+| Got Battery | 81.00% | ~1,932 |
+| Guard Distracted | 81.00% | ~1,932 |
+| Translocator | 80.00% | ~1,908 |
 | Inner Peace | 78.00% | ~1,860 |
 | Diamond Pickaxe | 77.00% | ~1,836 |
 | Trickle Down Economy | 77.00% | ~1,836 |
-| Killed them all | 76.00% | ~1,812 |
-| Win | 76.00% | ~1,812 |
-| Greenhouse | 72.00% | ~1,716 |
-| Played with fire | 71.00% | ~1,693 |
-| You feel very sorry | 70.00% | ~1,669 |
+| Killed them all | 76.00% | ~1,813 |
+| Win | 76.00% | ~1,813 |
+| Greenhouse | 72.00% | ~1,717 |
+| Played with fire | 70.00% | ~1,670 |
+| You feel very sorry | 70.00% | ~1,670 |
 | No Match for you | 65.00% | ~1,550 |
-| Bouncy | 62.00% | ~1,478 |
-| Plumbster | 61.00% | ~1,454 |
-| Faster | 60.00% | ~1,430 |
+| Bouncy | 62.00% | ~1,479 |
+| Plumbster | 61.00% | ~1,455 |
+| Faster | 60.00% | ~1,431 |
 | Much Magic | 58.00% | ~1,383 |
-| Chest Detector | 56.00% | ~1,335 |
+| Chest Detector | 56.00% | ~1,336 |
 | Flames | 53.00% | ~1,264 |
 | Momentum | 46.00% | ~1,097 |
-| You're unsure if you broke the game or not | 43.00% | ~1,025 |
+| You're unsure if you broke the game or not | 43.00% | ~1,026 |
 | But wait... ...There's more... | 40.00% | ~954 |
-| So much force | 35.00% | ~834 |
+| So much force | 35.00% | ~835 |
 | You feel fully engaged | 24.00% | ~572 |
 | Too hot | 20.00% | ~477 |
 | All the chests | 14.00% | ~334 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,384 (Ranked 228)  
-Completed: 291 (12.21%) (Ranked 36)  
+Progressed: 2,385 (Ranked 228)  
+Completed: 291 (12.20%) (Ranked 36)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -276,6 +276,7 @@ Completed: 291 (12.21%) (Ranked 36)
 | 2023-12-20 | 2,377 | 291 |
 | 2023-12-21 | 2,381 | 291 |
 | 2023-12-22 | 2,384 | 291 |
+| 2023-12-23 | 2,385 | 291 |
 ## Awards
 Max (Challenging Puzzles): 109  (Ranked 358)  
 Sum: 109 (Ranked 454)  

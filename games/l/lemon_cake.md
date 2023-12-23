@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Proving Your Skills | 92.00% | ~165 |
+| Proving Your Skills | 93.00% | ~166 |
 | Bakery Startup | 42.00% | ~75 |
 | Apprentice Baker | 34.00% | ~61 |
 | The Kitchen Is On Fire | 34.00% | ~61 |

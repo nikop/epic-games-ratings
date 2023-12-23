@@ -28,11 +28,11 @@ Rating: 4.55 (Ranked 509)
 | I Remember My First Beer | 0.40% | ~4 |
 | Return the Statues | 0.30% | ~7 |
 | Complete the Chefs Book | 0.30% | ~7 |
+| Complete Elder Faction | 0.30% | ~7 |
 | Defeat Avor Warden of the Northern Wastes | 0.30% | ~7 |
 | Defeat Ratnor Rodentson | 0.30% | ~7 |
 | Defeat Rattus Augustail | 0.30% | ~7 |
 | Discover the mystery of the Kings Chambers | 0.30% | ~7 |
-| Complete Elder Faction | 0.20% | ~5 |
 | Complete Ranger Faction | 0.20% | ~5 |
 | Fix the Travellers Wagon | 0.20% | ~5 |
 | Defeat the Grub Buster | 0.20% | ~2 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 469,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -229,9 +229,9 @@
       "Count": 83
     }
   ],
-  "EOS_Progressed": 1095,
+  "EOS_Progressed": 1096,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2899,6 +2899,11 @@
       "Time": "2023-12-23T14:07:38.4256699+00:00",
       "NumProgressed": 1095,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-23T16:06:16.1833471+00:00",
+      "NumProgressed": 1096,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2975,7 +2980,7 @@
       "Name": "Chasing the Light",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "Chicken",
@@ -3015,7 +3020,7 @@
       "Name": "Eastern Wetlands",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "EcstaticTruth",
@@ -3053,9 +3058,9 @@
       "ID": "GoodCitizen",
       "SetID": "1n308hc",
       "Name": "Good Citizen",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 66
     },
     {
       "ID": "GrasslandsRing",
@@ -3357,9 +3362,9 @@
       "ID": "WesternDelta",
       "SetID": "1n308hc",
       "Name": "Western Delta",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 99
     },
     {
       "ID": "WoodedPlateau",
@@ -3367,7 +3372,7 @@
       "Name": "Wooded Plateau",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "YourBiggestFan",
@@ -3375,14 +3380,14 @@
       "Name": "Your Biggest Fan",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     }
   ],
   "AchievementSets": [
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1095,
+      "Progressed": 1096,
       "Completed": 2
     }
   ],
@@ -3390,8 +3395,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-23T12:59:33.4828819+00:00",
-  "LastChanged_Achievements": "2023-12-23T15:06:29.4304462+00:00",
+  "LastChanged_Achievements": "2023-12-23T16:06:16.1833466+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-23T14:57:22.6924196+00:00",
-  "LastUpdate_Achievements": "2023-12-23T15:06:29.4304927+00:00"
+  "LastUpdate_Ratings": "2023-12-23T15:57:35.3764691+00:00",
+  "LastUpdate_Achievements": "2023-12-23T16:06:16.1834053+00:00"
 }

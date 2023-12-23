@@ -6,22 +6,22 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 21.00% | ~14 |
+| Entrepreneur | 22.00% | ~15 |
 | Best Buddy | 21.00% | ~14 |
 | Role Model | 18.00% | ~12 |
 | Civilian | 13.00% | ~9 |
-| Creator | 9.00% | ~6 |
+| Creator | 10.00% | ~7 |
+| Military Leader | 9.00% | ~6 |
 | Peddler | 7.00% | ~5 |
-| Military Leader | 7.00% | ~5 |
 | Long-Haul Flyer | 6.00% | ~4 |
 | Berserker | 6.00% | ~4 |
+| Commander | 6.00% | ~4 |
+| Pass A38 | 6.00% | ~4 |
 | Hotshot | 4.00% | ~3 |
 | Free as a Bird | 4.00% | ~3 |
 | Alb | 4.00% | ~3 |
-| Commander | 4.00% | ~3 |
 | Family Reunion | 4.00% | ~3 |
 | Irissa's Fate | 4.00% | ~3 |
-| Pass A38 | 4.00% | ~3 |
 | Eternal Oblivion | 4.00% | ~3 |
 | Storyteller | 3.00% | ~2 |
 | Globetrotter | 3.00% | ~2 |
