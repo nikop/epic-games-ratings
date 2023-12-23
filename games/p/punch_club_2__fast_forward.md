@@ -10,18 +10,18 @@
 | Good Person Chip | 83.00% | ~374 |
 | Your first job | 82.00% | ~370 |
 | Depressed visitor | 77.00% | ~347 |
+| Fitness professional | 76.00% | ~343 |
 | Old movies enjoyer | 76.00% | ~343 |
 | Neurotrainer – power gainer! | 76.00% | ~343 |
-| Fitness professional | 75.00% | ~338 |
 | Employee of the week | 75.00% | ~338 |
-| Your own amateur gym | 70.00% | ~316 |
+| Your own amateur gym | 71.00% | ~320 |
 | Run K, run! | 70.00% | ~316 |
 | First defeat | 68.00% | ~307 |
+| Hello, world! | 68.00% | ~307 |
 | No bullying more | 67.00% | ~302 |
-| Hello, world! | 67.00% | ~302 |
 | Fighting is cool | 66.00% | ~298 |
-| Pal of your father? | 64.00% | ~289 |
-| Spirit of the past | 62.00% | ~280 |
+| Pal of your father? | 65.00% | ~293 |
+| Spirit of the past | 63.00% | ~284 |
 | Employee of the month | 61.00% | ~275 |
 | Law student | 59.00% | ~266 |
 | Workout professional | 56.00% | ~253 |
@@ -30,9 +30,9 @@
 | Fight for life | 55.00% | ~248 |
 | Little hacker | 55.00% | ~248 |
 | It's good to be alive | 55.00% | ~248 |
+| Own four walls | 55.00% | ~248 |
 | Intriguing candies | 55.00% | ~248 |
 | Employee of the year | 55.00% | ~248 |
-| Own four walls | 54.00% | ~244 |
 | Extreme neuropower! | 51.00% | ~230 |
 | Legal courier | 50.00% | ~226 |
 | Escaped from a big trouble | 47.00% | ~212 |

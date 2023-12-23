@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3563,9 +3563,9 @@
       "Count": 334
     }
   ],
-  "EOS_Progressed": 19017,
+  "EOS_Progressed": 19021,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 650,
+  "EOS_NewPlayers": 653,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16833,6 +16833,11 @@
       "Time": "2023-12-23T17:03:29.4937165+00:00",
       "NumProgressed": 19017,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-23T18:03:34.940757+00:00",
+      "NumProgressed": 19021,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16843,9 +16848,9 @@
       "ID": "AleChain",
       "SetID": "cfbk359",
       "Name": "Serving Ale",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 152
     },
     {
       "ID": "AllFood",
@@ -17316,15 +17321,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19017,
+      "Progressed": 19021,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-23T13:57:13.6733867+00:00",
-  "LastChanged_Achievements": "2023-12-23T17:03:29.4937161+00:00",
+  "LastChanged_Achievements": "2023-12-23T18:03:34.9407567+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
-  "LastUpdate_Ratings": "2023-12-23T16:57:26.9771394+00:00",
-  "LastUpdate_Achievements": "2023-12-23T17:03:29.4938071+00:00"
+  "LastUpdate_Ratings": "2023-12-23T17:57:20.3982271+00:00",
+  "LastUpdate_Achievements": "2023-12-23T18:03:34.9408399+00:00"
 }

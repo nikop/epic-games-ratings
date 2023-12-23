@@ -385,9 +385,9 @@
       "ID": "A_QUEEN",
       "SetID": "324h56e",
       "Name": "Mother of Insectoids",
-      "Percentage": 15,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "A_RESS",
@@ -473,9 +473,9 @@
       "ID": "A_WRAITH",
       "SetID": "324h56e",
       "Name": "So Bright It Burns",
-      "Percentage": 4,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
@@ -488,8 +488,8 @@
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2023-12-23T17:08:32.0213865+00:00",
+  "LastChanged_Achievements": "2023-12-23T18:08:23.7356006+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:06.9451598+00:00",
-  "LastUpdate_Ratings": "2023-12-23T16:57:19.9219584+00:00",
-  "LastUpdate_Achievements": "2023-12-23T17:08:32.0214133+00:00"
+  "LastUpdate_Ratings": "2023-12-23T17:57:14.233289+00:00",
+  "LastUpdate_Achievements": "2023-12-23T18:08:23.7356252+00:00"
 }

@@ -41,9 +41,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Cursed Lands | 1.00% | ~190 |
 | Trade Baron | 1.00% | ~190 |
 | Against All Odds | 0.90% | ~171 |
+| Serving Ale | 0.80% | ~152 |
 | Defying the Crown | 0.80% | ~152 |
 | Into the Forest | 0.80% | ~152 |
-| Serving Ale | 0.70% | ~133 |
 | Fishmen Ritual Site | 0.70% | ~133 |
 | Victory Through Prosperity | 0.70% | ~133 |
 | Efficient Explorer | 0.60% | ~114 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,017 (Ranked 150)  
+Progressed: 19,021 (Ranked 150)  
 Completed: 39 (0.21%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 39 (0.21%) (Ranked 270)
 | 2023-12-20 | 18,771 | 39 |
 | 2023-12-21 | 18,861 | 39 |
 | 2023-12-22 | 18,944 | 39 |
-| 2023-12-23 | 19,017 | 39 |
+| 2023-12-23 | 19,021 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 443  (Ranked 228)  
 Sum: 3,284 (Ranked 175)  

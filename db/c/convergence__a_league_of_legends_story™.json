@@ -5,9 +5,9 @@
   "Ranking_Rating": 320,
   "Ranking_Popularity": 571,
   "Ranking_PopularitySum": 571,
-  "Ranking_EOS_Progress": 277,
+  "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,9 +51,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1075,
+  "EOS_Progressed": 1076,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -3026,6 +3026,11 @@
       "Time": "2023-12-23T15:09:58.9569762+00:00",
       "NumProgressed": 1075,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-23T18:09:53.1608664+00:00",
+      "NumProgressed": 1076,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3045,7 +3050,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -3093,7 +3098,7 @@
       "Name": "Clovemary for Remembering",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "CosmeticCompletion1",
@@ -3197,7 +3202,7 @@
       "Name": "Rail Rat",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "HexlockGift",
@@ -3205,7 +3210,7 @@
       "Name": "Hexlock for Protection",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "InxChromaInTheatre",
@@ -3285,7 +3290,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ParryRepeated1",
@@ -3301,7 +3306,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -3309,7 +3314,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "PidgeDefeated",
@@ -3323,9 +3328,9 @@
       "ID": "RewindDamage1",
       "SetID": "a9e499d",
       "Name": "Time Heals All Wounds",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 430
+      "UsersEstimate": 420
     },
     {
       "ID": "RewindParry",
@@ -3347,9 +3352,9 @@
       "ID": "ScrambotProgress1",
       "SetID": "a9e499d",
       "Name": "Golem Chaser",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 226
     },
     {
       "ID": "SkillCompletion1",
@@ -3363,9 +3368,9 @@
       "ID": "SkillProgress1",
       "SetID": "a9e499d",
       "Name": "Fast Learner",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 247
+      "UsersEstimate": 237
     },
     {
       "ID": "SpeedRun",
@@ -3395,9 +3400,9 @@
       "ID": "TemporalPulseKills1",
       "SetID": "a9e499d",
       "Name": "Check Your Pulse",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 215
     },
     {
       "ID": "TheaterChests1",
@@ -3460,7 +3465,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1075,
+      "Progressed": 1076,
       "Completed": 6
     }
   ],
@@ -3468,8 +3473,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2023-12-23T17:10:00.6268784+00:00",
+  "LastChanged_Achievements": "2023-12-23T18:09:53.1608662+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.1550939+00:00",
-  "LastUpdate_Ratings": "2023-12-23T16:57:21.0634027+00:00",
-  "LastUpdate_Achievements": "2023-12-23T17:10:00.6269299+00:00"
+  "LastUpdate_Ratings": "2023-12-23T17:57:14.9516168+00:00",
+  "LastUpdate_Achievements": "2023-12-23T18:09:53.1609202+00:00"
 }

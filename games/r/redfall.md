@@ -14,8 +14,8 @@ Rating: 3.56 (Ranked 1,066)
 | Ne Plus Ultra | 6.00% | ~121 |
 | Fly Fisher | 6.00% | ~121 |
 | Peek-a-boo | 6.00% | ~121 |
-| Throw The First Stone | 5.00% | ~100 |
-| Sucks To Be You | 5.00% | ~100 |
+| Throw The First Stone | 5.00% | ~101 |
+| Sucks To Be You | 5.00% | ~101 |
 | Enter of Your Own Free Will | 4.00% | ~80 |
 | Welcome to the Neighborhood | 4.00% | ~80 |
 | Grounded | 4.00% | ~80 |
@@ -72,7 +72,7 @@ Rating: 3.56 (Ranked 1,066)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,010 (Ranked 237)  
+Progressed: 2,011 (Ranked 237)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-20 | 1,963 | 0 |
 | 2023-12-21 | 1,977 | 0 |
 | 2023-12-22 | 1,992 | 0 |
-| 2023-12-23 | 2,010 | 0 |
+| 2023-12-23 | 2,011 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

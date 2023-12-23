@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7661,
+  "EOS_Progressed": 7663,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -6448,6 +6448,11 @@
       "Time": "2023-12-23T17:04:06.3170938+00:00",
       "NumProgressed": 7661,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-23T18:04:11.6334521+00:00",
+      "NumProgressed": 7663,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 27,
@@ -6475,7 +6480,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3141
+      "UsersEstimate": 3142
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -6491,7 +6496,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 4060
+      "UsersEstimate": 4061
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -6507,7 +6512,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1685
+      "UsersEstimate": 1686
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -6515,7 +6520,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1915
+      "UsersEstimate": 1916
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -6523,7 +6528,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1915
+      "UsersEstimate": 1916
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -6539,7 +6544,7 @@
       "Name": "Knowledge Shared",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1533
     },
     {
       "ID": "AK_LEARNED_SCHOLAR",
@@ -6555,7 +6560,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2145
+      "UsersEstimate": 2146
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -6587,7 +6592,7 @@
       "Name": "Relic Finder",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1533
     },
     {
       "ID": "AK_SEEKERS_FOUND",
@@ -6595,7 +6600,7 @@
       "Name": "Seekers Found",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3141
+      "UsersEstimate": 3142
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -6603,7 +6608,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3141
+      "UsersEstimate": 3142
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -6611,7 +6616,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4290
+      "UsersEstimate": 4291
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -6659,7 +6664,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 3064
+      "UsersEstimate": 3065
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -6674,15 +6679,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7661,
+      "Progressed": 7663,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-12-23T17:04:06.3170934+00:00",
+  "LastChanged_Achievements": "2023-12-23T18:04:11.6334517+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:12.2358899+00:00",
-  "LastUpdate_Ratings": "2023-12-23T17:03:15.5362344+00:00",
-  "LastUpdate_Achievements": "2023-12-23T17:04:06.3171438+00:00"
+  "LastUpdate_Ratings": "2023-12-23T18:03:18.9461919+00:00",
+  "LastUpdate_Achievements": "2023-12-23T18:04:11.6334966+00:00"
 }

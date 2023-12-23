@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19145,
+  "EOS_Progressed": 19148,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14014,6 +14014,11 @@
       "Time": "2023-12-23T13:05:54.1923558+00:00",
       "NumProgressed": 19145,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-23T18:03:56.7949312+00:00",
+      "NumProgressed": 19148,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -14081,7 +14086,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3446
+      "UsersEstimate": 3447
     },
     {
       "ID": "0009",
@@ -14089,7 +14094,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4403
+      "UsersEstimate": 4404
     },
     {
       "ID": "0010",
@@ -14113,7 +14118,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "0013",
@@ -14121,7 +14126,7 @@
       "Name": "Keycards Royale",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1914
+      "UsersEstimate": 1915
     },
     {
       "ID": "0014",
@@ -14129,7 +14134,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "0015",
@@ -14153,7 +14158,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3446
+      "UsersEstimate": 3447
     },
     {
       "ID": "0018",
@@ -14177,7 +14182,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 10,
       "XP": 115,
-      "UsersEstimate": 1914
+      "UsersEstimate": 1915
     },
     {
       "ID": "0021",
@@ -14209,7 +14214,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4212
+      "UsersEstimate": 4213
     },
     {
       "ID": "0025",
@@ -14217,7 +14222,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3446
+      "UsersEstimate": 3447
     },
     {
       "ID": "0026",
@@ -14225,7 +14230,7 @@
       "Name": "The Living Portrait",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2297
+      "UsersEstimate": 2298
     },
     {
       "ID": "0027",
@@ -14241,7 +14246,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4403
+      "UsersEstimate": 4404
     },
     {
       "ID": "0029",
@@ -14257,7 +14262,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3446
+      "UsersEstimate": 3447
     },
     {
       "ID": "0031",
@@ -14289,7 +14294,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2297
+      "UsersEstimate": 2298
     },
     {
       "ID": "0035",
@@ -14312,7 +14317,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19145,
+      "Progressed": 19148,
       "Completed": 4
     }
   ],
@@ -14320,8 +14325,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-11-20T16:57:01.0774379+00:00",
-  "LastChanged_Achievements": "2023-12-23T17:03:51.0818206+00:00",
+  "LastChanged_Achievements": "2023-12-23T18:03:56.7949308+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:23.0079073+00:00",
-  "LastUpdate_Ratings": "2023-12-23T16:59:36.4368542+00:00",
-  "LastUpdate_Achievements": "2023-12-23T17:03:51.0819137+00:00"
+  "LastUpdate_Ratings": "2023-12-23T17:59:30.6035154+00:00",
+  "LastUpdate_Achievements": "2023-12-23T18:03:56.7950227+00:00"
 }

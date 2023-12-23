@@ -6,28 +6,28 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 10.00% | ~425 |
-| Lost and Found | 6.00% | ~255 |
-| This guy... again? | 5.00% | ~212 |
-| This Belongs in a Museum | 4.00% | ~5,175 |
-| Creep and Sleep | 4.00% | ~5,175 |
-| Overdue Notice | 4.00% | ~5,175 |
-| Escape from the Black Hole | 4.00% | ~5,175 |
-| Autodidact | 4.00% | ~5,175 |
+| Malpractice Assurance | 10.00% | ~426 |
+| Lost and Found | 6.00% | ~256 |
+| Autodidact | 5.00% | ~6,470 |
+| This guy... again? | 5.00% | ~213 |
+| This Belongs in a Museum | 4.00% | ~5,176 |
+| Creep and Sleep | 4.00% | ~5,176 |
+| Overdue Notice | 4.00% | ~5,176 |
+| Escape from the Black Hole | 4.00% | ~5,176 |
 | Ploughshares to Swords | 4.00% | ~170 |
 | Bloody Graduation | 4.00% | ~170 |
-| Don't Make Me Turn This Coach Around | 3.00% | ~3,881 |
-| Serenity Now! | 3.00% | ~3,881 |
-| It Rings a Bell | 3.00% | ~3,881 |
-| Not Today! | 3.00% | ~3,881 |
-| Meat and Greet | 3.00% | ~3,881 |
-| Catch and Decease | 3.00% | ~3,881 |
-| It Happens | 3.00% | ~3,881 |
-| Rush Hour | 3.00% | ~3,881 |
-| To Grandmother's House | 3.00% | ~3,881 |
-| A Place to Lay Your Head | 3.00% | ~3,881 |
-| FNG | 3.00% | ~3,881 |
-| Friends 'Til the End | 3.00% | ~127 |
+| Don't Make Me Turn This Coach Around | 3.00% | ~3,882 |
+| Serenity Now! | 3.00% | ~3,882 |
+| It Rings a Bell | 3.00% | ~3,882 |
+| Not Today! | 3.00% | ~3,882 |
+| Meat and Greet | 3.00% | ~3,882 |
+| Catch and Decease | 3.00% | ~3,882 |
+| It Happens | 3.00% | ~3,882 |
+| Rush Hour | 3.00% | ~3,882 |
+| To Grandmother's House | 3.00% | ~3,882 |
+| A Place to Lay Your Head | 3.00% | ~3,882 |
+| FNG | 3.00% | ~3,882 |
+| Friends 'Til the End | 3.00% | ~128 |
 | Resurrection | 2.00% | ~2,588 |
 | Unleash Hell | 2.00% | ~2,588 |
 | Funny Guy | 2.00% | ~2,588 |
@@ -65,7 +65,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Shrine of Reflection | 0.70% | ~906 |
 | Body of Work | 0.70% | ~906 |
 | Clearing the Ledger | 0.60% | ~776 |
-| Et Tu, Riposte? | 0.60% | ~25 |
+| Et Tu, Riposte? | 0.60% | ~26 |
 | Hat Trick | 0.50% | ~647 |
 | Triage | 0.50% | ~647 |
 | No Mercy | 0.50% | ~21 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,378 (Ranked 87)  
+Progressed: 129,393 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 3 (0.00%) (Ranked 385)
 | 2023-12-20 | 128,785 | 3 |
 | 2023-12-21 | 128,979 | 3 |
 | 2023-12-22 | 129,196 | 3 |
-| 2023-12-23 | 129,378 | 3 |
+| 2023-12-23 | 129,393 | 3 |
 ## Awards
 Max (Character Customization): 7,834  (Ranked 50)  
 Sum: 20,980 (Ranked 58)  

@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 702,
+  "EOS_Progressed": 703,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.42,
   "EosHistory": [
@@ -2540,6 +2540,11 @@
       "Time": "2023-12-23T17:09:43.8885752+00:00",
       "NumProgressed": 702,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-23T18:09:35.9896966+00:00",
+      "NumProgressed": 703,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -2576,7 +2581,7 @@
       "Name": "From Way Downtown",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "achievement_13",
@@ -2608,7 +2613,7 @@
       "Name": "Star Power",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "achievement_17",
@@ -2616,7 +2621,7 @@
       "Name": "Clean Sheet",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "achievement_18",
@@ -2632,7 +2637,7 @@
       "Name": "A Tradition Unlike Any Other",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "achievement_3",
@@ -2640,15 +2645,15 @@
       "Name": "A Passion for Excellence",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "achievement_4",
       "SetID": "7ldgi7j",
       "Name": "From Many, One",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 176
+      "UsersEstimate": 169
     },
     {
       "ID": "achievement_5",
@@ -2656,7 +2661,7 @@
       "Name": "Golf\u0027s Original Championship",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "achievement_6",
@@ -2672,7 +2677,7 @@
       "Name": "Makin\u0027 the Cut",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "achievement_8",
@@ -2680,7 +2685,7 @@
       "Name": "Winner\u0027s Circle",
       "Percentage": 52,
       "XP": 35,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "achievement_9",
@@ -2695,13 +2700,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 702,
+      "Progressed": 703,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-12-23T17:09:43.8885748+00:00",
+  "LastChanged_Achievements": "2023-12-23T18:09:35.9896963+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:04.0623721+00:00",
-  "LastUpdate_Ratings": "2023-12-23T17:00:48.4171774+00:00",
-  "LastUpdate_Achievements": "2023-12-23T17:09:43.8885994+00:00"
+  "LastUpdate_Ratings": "2023-12-23T18:02:42.6257095+00:00",
+  "LastUpdate_Achievements": "2023-12-23T18:09:35.9897171+00:00"
 }

@@ -20,9 +20,9 @@ Rating: 4.52 (Ranked 566)
 | Idiot | 26.00% | ~29 |
 | Beast slayer | 23.00% | ~25 |
 | Family man | 21.00% | ~23 |
+| Archaeologist | 21.00% | ~23 |
 | Wise man | 20.00% | ~22 |
 | Death of a legend | 20.00% | ~22 |
-| Archaeologist | 20.00% | ~22 |
 | Ogre friend | 20.00% | ~22 |
 | The fourth triplet | 20.00% | ~22 |
 | Little hero | 19.00% | ~21 |

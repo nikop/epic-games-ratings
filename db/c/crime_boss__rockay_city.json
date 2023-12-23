@@ -4,7 +4,7 @@
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 1033,
   "Ranking_Popularity": 207,
-  "Ranking_PopularitySum": 190,
+  "Ranking_PopularitySum": 191,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 325,
   "Ranking_EOS_NewPlayers": 157,
@@ -5199,9 +5199,9 @@
       "Count": 521
     }
   ],
-  "EOS_Progressed": 92399,
+  "EOS_Progressed": 92403,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 407,
+  "EOS_NewPlayers": 408,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -28934,6 +28934,11 @@
       "Time": "2023-12-23T17:03:54.0808718+00:00",
       "NumProgressed": 92399,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-23T18:03:59.7491722+00:00",
+      "NumProgressed": 92403,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -28983,9 +28988,9 @@
       "ID": "ACH_0015",
       "SetID": "3kam13l",
       "Name": "Legend Looter",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 462
+      "UsersEstimate": 554
     },
     {
       "ID": "ACH_0016",
@@ -29257,7 +29262,7 @@
       "Name": "One for All",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_1050",
@@ -29265,20 +29270,20 @@
       "Name": "Now You See Me",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     }
   ],
   "AchievementSets": [
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 92399,
+      "Progressed": 92403,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 20746,
+      "Progressed": 20750,
       "Completed": 15590
     }
   ],
@@ -29286,8 +29291,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-12-23T14:59:08.4198238+00:00",
-  "LastChanged_Achievements": "2023-12-23T17:03:54.0808712+00:00",
+  "LastChanged_Achievements": "2023-12-23T18:03:59.7491719+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:15.2774722+00:00",
-  "LastUpdate_Ratings": "2023-12-23T16:59:15.0947919+00:00",
-  "LastUpdate_Achievements": "2023-12-23T17:03:54.0810119+00:00"
+  "LastUpdate_Ratings": "2023-12-23T17:59:09.5817461+00:00",
+  "LastUpdate_Achievements": "2023-12-23T18:03:59.7493161+00:00"
 }

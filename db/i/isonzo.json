@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1021,7 +1021,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 9574,
+  "EOS_Progressed": 9575,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
@@ -9866,6 +9866,11 @@
       "Time": "2023-12-23T17:09:09.4894283+00:00",
       "NumProgressed": 9574,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-23T18:09:01.4560208+00:00",
+      "NumProgressed": 9575,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -9947,9 +9952,9 @@
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
       "SetID": "akchbl3",
       "Name": "Die Bosniaken Kommen!",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1053
+      "UsersEstimate": 1149
     },
     {
       "ID": "ISONZO_ACH_DIRTY_DOZEN",
@@ -9981,7 +9986,7 @@
       "Name": "Farewell to Arms",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ISONZO_ACH_GABRIELE_DANNUNZIO",
@@ -10077,7 +10082,7 @@
       "Name": "Ponte of No Return",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ISONZO_ACH_RAGAZZI_DEL_99",
@@ -10133,7 +10138,7 @@
       "Name": "So\u010Da Drag",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ISONZO_ACH_SUPER_MARIO",
@@ -10141,7 +10146,7 @@
       "Name": "Saboteur",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ISONZO_ACH_THE_DEVILS_PAINTBRUSH",
@@ -10149,7 +10154,7 @@
       "Name": "The Devil\u0027s Paintbrush",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "ISONZO_ACH_THE_ENLIGHTMENT",
@@ -10173,7 +10178,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1340
+      "UsersEstimate": 1341
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -10189,7 +10194,7 @@
       "Name": "Thus With A Kiss",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "ISONZO_ACH_TOSCA",
@@ -10205,7 +10210,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4787
+      "UsersEstimate": 4788
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -10236,7 +10241,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9574,
+      "Progressed": 9575,
       "Completed": 10
     }
   ],
@@ -10244,8 +10249,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-21T18:57:04.5501188+00:00",
-  "LastChanged_Achievements": "2023-12-23T17:09:09.489428+00:00",
+  "LastChanged_Achievements": "2023-12-23T18:09:01.4560206+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:27.7823002+00:00",
-  "LastUpdate_Ratings": "2023-12-23T16:58:20.2575722+00:00",
-  "LastUpdate_Achievements": "2023-12-23T17:09:09.4894952+00:00"
+  "LastUpdate_Ratings": "2023-12-23T17:58:12.9925044+00:00",
+  "LastUpdate_Achievements": "2023-12-23T18:09:01.4560765+00:00"
 }

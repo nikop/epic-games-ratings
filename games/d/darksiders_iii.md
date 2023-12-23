@@ -6,51 +6,51 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 77.00% | ~82 |
-| Helping Hand | 70.00% | ~74 |
-| First of many… | 70.00% | ~74 |
+| Green with Envy | 78.00% | ~83 |
+| First of many… | 70.00% | ~75 |
+| Helping Hand | 69.00% | ~74 |
 | Increased Vigor | 62.00% | ~66 |
 | Fight Fire with Fire | 59.00% | ~63 |
-| Increased Capacity | 56.00% | ~59 |
-| Just the start | 55.00% | ~58 |
-| Perfect Storm | 48.00% | ~51 |
-| All That Glitters | 48.00% | ~51 |
-| Enhance! | 45.00% | ~48 |
-| One Of the Chosen | 42.00% | ~45 |
-| Throne Potato | 41.00% | ~43 |
-| 25 to Life | 39.00% | ~41 |
-| Devil's in the Details | 37.00% | ~39 |
-| Unshakable Fortitude | 36.00% | ~38 |
-| Salvation | 36.00% | ~38 |
-| Five's a Crowd | 36.00% | ~38 |
+| Increased Capacity | 55.00% | ~59 |
+| Just the start | 54.00% | ~58 |
+| Perfect Storm | 49.00% | ~52 |
+| All That Glitters | 49.00% | ~52 |
+| Enhance! | 46.00% | ~49 |
+| Throne Potato | 42.00% | ~45 |
+| One Of the Chosen | 41.00% | ~44 |
+| 25 to Life | 39.00% | ~42 |
+| Five's a Crowd | 38.00% | ~41 |
+| Salvation | 37.00% | ~40 |
+| Devil's in the Details | 37.00% | ~40 |
+| Unshakable Fortitude | 36.00% | ~39 |
+| Delusions of Grandeur | 35.00% | ~37 |
+| I Wanna Rock | 33.00% | ~35 |
 | Soul Harvester | 33.00% | ~35 |
-| Delusions of Grandeur | 33.00% | ~35 |
-| I Wanna Rock | 32.00% | ~34 |
 | Maximum Vigor | 31.00% | ~33 |
-| Love Tap | 29.00% | ~31 |
-| For Whom the Bell Tolls | 29.00% | ~31 |
+| For Whom the Bell Tolls | 31.00% | ~33 |
+| Love Tap | 30.00% | ~32 |
 | Freeze Frame | 27.00% | ~29 |
 | Eat Your Heart Out | 26.00% | ~28 |
-| Cleanup Crew | 25.00% | ~26 |
-| Can you restore the Balance? | 25.00% | ~26 |
-| Crowd Source | 25.00% | ~26 |
-| Unyielding Strength | 24.00% | ~25 |
-| Maximum Capacity | 23.00% | ~24 |
-| Big Spender | 22.00% | ~23 |
+| Can you restore the Balance? | 25.00% | ~27 |
+| Crowd Source | 25.00% | ~27 |
+| Cleanup Crew | 24.00% | ~26 |
+| Unyielding Strength | 23.00% | ~25 |
+| Maximum Capacity | 22.00% | ~24 |
+| Big Spender | 21.00% | ~22 |
 | Demon Meddler | 18.00% | ~19 |
+| Seeing Red | 18.00% | ~19 |
 | Egomaniac | 17.00% | ~18 |
-| Seeing Red | 17.00% | ~18 |
 | Community Outreach | 15.00% | ~16 |
 | Protector of Humanity | 13.00% | ~14 |
 | Everybody Wants to Rule the World | 13.00% | ~14 |
-| Take it to the Limit | 12.00% | ~13 |
+| Take it to the Limit | 13.00% | ~14 |
 | Unbreakable Will | 11.00% | ~12 |
 | Holy Keeper | 10.00% | ~11 |
 | Demon Keeper | 9.00% | ~10 |
 | A Parting Gift | 9.00% | ~10 |
 | Path of the Horseman | 9.00% | ~10 |
-| Soul Reaper | 8.00% | ~8 |
-| Humanitarian | 8.00% | ~8 |
+| Soul Reaper | 8.00% | ~9 |
+| Humanitarian | 8.00% | ~9 |
 | My Evil Twin | 7.00% | ~7 |
 | Keep it 100! | 6.00% | ~6 |
 | Purity of Power | 5.00% | ~5 |
@@ -71,15 +71,15 @@ Number of Ratings: 116  (23.09.2022)
 | "Apocalyptic!" | 0.90% | ~1 |
 | Beast Mode | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 106 (Ranked 469)  
-Completed: 1 (0.94%) (Ranked 177)  
+Progressed: 107 (Ranked 469)  
+Completed: 1 (0.93%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-12-13 | 1 | 0 |
 | 2023-12-21 | 34 | 0 |
 | 2023-12-22 | 84 | 0 |
-| 2023-12-23 | 106 | 1 |
+| 2023-12-23 | 107 | 1 |
 ## Awards
 Max (Great Boss Battles): 93  (Ranked 383)  
 Sum: 93 (Ranked 462)  

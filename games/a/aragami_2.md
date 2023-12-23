@@ -1,21 +1,21 @@
 # Aragami 2
 [Store](https://store.epicgames.com/en-US/p/aragami-2)  
 [View Rawdata](../../db/a/aragami_2.json)  
-Rating: 4.54 (Ranked 534)  
+Rating: 4.54 (Ranked 533)  
 Number of Ratings: 88  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~41,343 |
-| First Steps | 80.00% | ~35,564 |
-| Control the Shadows | 67.00% | ~29,785 |
+| Awakening | 93.00% | ~41,344 |
+| First Steps | 80.00% | ~35,565 |
+| Control the Shadows | 67.00% | ~29,786 |
 | Tools of the Trade | 63.00% | ~28,007 |
-| Apprentice | 60.00% | ~26,673 |
-| Secret Seeker | 57.00% | ~25,339 |
-| Forge of Assassins | 55.00% | ~24,450 |
+| Apprentice | 60.00% | ~26,674 |
+| Secret Seeker | 57.00% | ~25,340 |
+| Forge of Assassins | 55.00% | ~24,451 |
 | Revenant | 52.00% | ~23,117 |
 | I don’t Care! | 45.00% | ~20,005 |
-| Bird of Prey | 37.00% | ~16,448 |
+| Bird of Prey | 37.00% | ~16,449 |
 | Engraved with Power | 32.00% | ~14,226 |
 | Lady | 31.00% | ~13,781 |
 | Fashionable Assassin | 27.00% | ~12,003 |
@@ -24,7 +24,7 @@ Number of Ratings: 88  (23.09.2022)
 | Embers | 22.00% | ~9,780 |
 | Wall Lizard | 20.00% | ~8,891 |
 | Clinging to Life | 18.00% | ~8,002 |
-| Burning | 17.00% | ~7,557 |
+| Burning | 17.00% | ~7,558 |
 | Look Behind You | 16.00% | ~7,113 |
 | Sleeping on the Job | 16.00% | ~7,113 |
 | Family | 14.00% | ~6,224 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~889 |
 | Legacy | 2.00% | ~889 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,455 (Ranked 123)  
+Progressed: 44,456 (Ranked 124)  
 Completed: 247 (0.56%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 247 (0.56%) (Ranked 204)
 | 2023-12-20 | 44,411 | 247 |
 | 2023-12-21 | 44,423 | 247 |
 | 2023-12-22 | 44,443 | 247 |
-| 2023-12-23 | 44,455 | 247 |
+| 2023-12-23 | 44,456 | 247 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

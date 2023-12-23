@@ -56,6 +56,7 @@
 | Balanced | 6.00% | ~4 |
 | Friend of Grey Dusk Vale | 6.00% | ~4 |
 | Defeat Ianna | 4.00% | ~3 |
+| Defeat Raith | 4.00% | ~3 |
 | Defeat Rohen | 4.00% | ~3 |
 | Defeat Yria | 4.00% | ~3 |
 | Master Alchemist | 4.00% | ~3 |
@@ -64,7 +65,6 @@
 | My Friends! | 4.00% | ~3 |
 | Master Necromancer | 4.00% | ~3 |
 | Friend of Uram Gor | 4.00% | ~3 |
-| Defeat Raith | 3.00% | ~2 |
 | Fireforge | 3.00% | ~2 |
 | Master Artificer | 3.00% | ~2 |
 | Breaking the circle | 3.00% | ~2 |

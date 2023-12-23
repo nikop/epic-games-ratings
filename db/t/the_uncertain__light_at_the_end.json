@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 341,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -83,11 +83,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 603,
+  "EOS_Progressed": 604,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1,
+  "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:44.5175392+00:00",
@@ -1088,6 +1088,11 @@
       "Time": "2023-12-23T14:08:31.2536397+00:00",
       "NumProgressed": 603,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-23T18:08:31.8730507+00:00",
+      "NumProgressed": 604,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1185,9 +1190,9 @@
       "ID": "Healthy_Child",
       "SetID": "ek310c",
       "Name": "Bundle of Joy",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 308
+      "UsersEstimate": 302
     },
     {
       "ID": "Hitman",
@@ -1219,7 +1224,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "Leisurely_Strol",
@@ -1275,7 +1280,7 @@
       "Name": "A Familiar Face",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "Paparazzi",
@@ -1323,14 +1328,14 @@
       "Name": "Unexpected Consequences",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     }
   ],
   "AchievementSets": [
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 603,
+      "Progressed": 604,
       "Completed": 6
     }
   ],
@@ -1338,8 +1343,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-12-23T17:08:40.0099952+00:00",
+  "LastChanged_Achievements": "2023-12-23T18:08:31.8730505+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:57:02.9075222+00:00",
-  "LastUpdate_Ratings": "2023-12-23T17:03:20.2840153+00:00",
-  "LastUpdate_Achievements": "2023-12-23T17:08:40.0100117+00:00"
+  "LastUpdate_Ratings": "2023-12-23T18:03:24.33366+00:00",
+  "LastUpdate_Achievements": "2023-12-23T18:08:31.8730841+00:00"
 }

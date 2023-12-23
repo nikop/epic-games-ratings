@@ -5,9 +5,9 @@
   "Ranking_Rating": 882,
   "Ranking_Popularity": 571,
   "Ranking_PopularitySum": 571,
-  "Ranking_EOS_Progress": 386,
+  "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 272,
+  "EOS_Progressed": 275,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 270,
+  "EOS_NewPlayers": 273,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -859,6 +859,11 @@
       "Time": "2023-12-23T17:08:43.5937078+00:00",
       "NumProgressed": 272,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T18:08:35.550047+00:00",
+      "NumProgressed": 275,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -869,17 +874,17 @@
       "ID": "AirborneTime",
       "SetID": "5hd282c",
       "Name": "Look Mom, I Can Fly",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 57
+      "UsersEstimate": 55
     },
     {
       "ID": "CareerAllChallenges",
       "SetID": "5hd282c",
       "Name": "Highballer",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 44
+      "UsersEstimate": 47
     },
     {
       "ID": "CareerChamp1",
@@ -887,7 +892,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "CareerChamp2",
@@ -925,9 +930,9 @@
       "ID": "CareerFirstWin",
       "SetID": "5hd282c",
       "Name": "Storm Warning",
-      "Percentage": 45,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 122
+      "UsersEstimate": 129
     },
     {
       "ID": "CollectVehiclesA",
@@ -943,15 +948,15 @@
       "Name": "Junk Collector",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "CreditsEarnedA",
       "SetID": "5hd282c",
       "Name": "Cash For Crashes",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 120,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "GetWreckedA",
@@ -967,7 +972,7 @@
       "Name": "Garden Variety",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "MultiplayerEventsWonA",
@@ -981,9 +986,9 @@
       "ID": "PlayerRankA",
       "SetID": "5hd282c",
       "Name": "Dirty Roller",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 68
+      "UsersEstimate": 72
     },
     {
       "ID": "PlayerRankB",
@@ -991,7 +996,7 @@
       "Name": "Trashing Around",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "PlayerRankC",
@@ -1015,7 +1020,7 @@
       "Name": "Hating Them Tin Cans",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "WreckOpponentsBus",
@@ -1030,7 +1035,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 272,
+      "Progressed": 275,
       "Completed": 0
     }
   ],
@@ -1038,8 +1043,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-19T23:00:17.2400985+00:00",
-  "LastChanged_Achievements": "2023-12-23T17:08:43.5937074+00:00",
+  "LastChanged_Achievements": "2023-12-23T18:08:35.5500465+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:03.0967517+00:00",
-  "LastUpdate_Ratings": "2023-12-23T16:58:49.0771999+00:00",
-  "LastUpdate_Achievements": "2023-12-23T17:08:43.5937244+00:00"
+  "LastUpdate_Ratings": "2023-12-23T17:58:43.3975836+00:00",
+  "LastUpdate_Achievements": "2023-12-23T18:08:35.5500744+00:00"
 }

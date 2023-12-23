@@ -12,7 +12,7 @@ Number of Ratings: 892  (23.09.2022)
 | Greeno-B-Gone | 122.00% | ~792 |
 | The Little Wood that Could | 120.00% | ~779 |
 | Your Especially Earned Trajectory | 101.00% | ~655 |
-| On that Grindset | 92.00% | ~597 |
+| On that Grindset | 93.00% | ~604 |
 | Officially Official | 87.00% | ~565 |
 | One of the Cool Kids | 84.00% | ~545 |
 | No Mountain Wide Enough | 81.00% | ~526 |
@@ -35,19 +35,19 @@ Number of Ratings: 892  (23.09.2022)
 | Builder of the Month | 63.00% | ~409 |
 | Lifeline Pipeline | 63.00% | ~409 |
 | Waste Not Want Not | 63.00% | ~409 |
-| What Plants Crave | 61.00% | ~396 |
+| What Plants Crave | 62.00% | ~402 |
 | Martle's Dream | 60.00% | ~389 |
 | Commissions, commissions...! | 59.00% | ~383 |
 | Happier-est Place on Earth | 59.00% | ~383 |
 | Anti-Santa | 59.00% | ~383 |
 | You Don't Win Friends With Salad | 58.00% | ~376 |
-| Bridging the Gap | 56.00% | ~363 |
+| Bridging the Gap | 57.00% | ~370 |
 | Finishing Touches | 54.00% | ~350 |
 | Sepia Toned Memories | 53.00% | ~344 |
 | Got the Flow Back | 53.00% | ~344 |
 | Call Me Fishmael | 53.00% | ~344 |
 | Time Flies | 49.00% | ~318 |
-| Who Ya Gonna Call...? | 47.00% | ~305 |
+| Who Ya Gonna Call...? | 48.00% | ~312 |
 | Kind of a Big Deal | 46.00% | ~299 |
 | Jewel of the Eufaula | 44.00% | ~286 |
 | Just What I Always Wanted! | 43.00% | ~279 |

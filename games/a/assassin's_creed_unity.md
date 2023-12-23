@@ -5,7 +5,7 @@ Rating: 4.62 (Ranked 373)
 Number of Ratings: 900  (23.09.2022)  
 ## Awards
 Max (Character Customization): 918  (Ranked 164)  
-Sum: 1,226 (Ranked 251)  
+Sum: 1,227 (Ranked 251)  
 Diff (max vs sum): -87  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): -87
 | This game is Educational | 33 |
 | This game has Great Boss Battles | 32 |
 | This game has Quickly Understood Controls | 32 |
-| This game is Highly Recommended | 31 |
+| This game is Highly Recommended | 32 |
 | This game is Great for Quick Sessions | 30 |
 | This game is Extremely Fun | 30 |
 | This game has Amazing Storytelling | 29 |
@@ -300,3 +300,4 @@ Diff (max vs sum): -87
 | 2023-12-16 | 4.62 | - | 912 | 1,200 |
 | 2023-12-18 | 4.62 | - | 915 | 1,203 |
 | 2023-12-21 | 4.62 | - | 918 | 1,226 |
+| 2023-12-23 | 4.62 | - | 918 | 1,227 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 140,
   "Ranking_EOS_NewPlayers": 23,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8359,10 +8359,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 12257,
       "NumberOfAwardsMax": 6989
+    },
+    {
+      "Time": "2023-12-23T18:03:05.7688932+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 12260,
+      "NumberOfAwardsMax": 6989
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12257,
+  "NumberOfAwards": 12260,
   "NumberOfAwardsMax": 6989,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8394,13 +8400,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 595
+      "Count": 596
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 679
+      "Count": 681
     },
     {
       "Text": "This game is Relaxing",
@@ -8439,9 +8445,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 741670,
+  "EOS_Progressed": 741713,
   "EOS_Completed": 12961,
-  "EOS_NewPlayers": 11790,
+  "EOS_NewPlayers": 11743,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.75,
   "EosHistory": [
@@ -30594,6 +30600,11 @@
       "Time": "2023-12-23T17:09:01.6472478+00:00",
       "NumProgressed": 741670,
       "NumCompleted": 12961
+    },
+    {
+      "Time": "2023-12-23T18:08:53.3438723+00:00",
+      "NumProgressed": 741713,
+      "NumCompleted": 12961
     }
   ],
   "TotalAchievements": 60,
@@ -30605,7 +30616,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 29667
+      "UsersEstimate": 29669
     },
     {
       "ID": "02_Vengeance_H1",
@@ -30613,7 +30624,7 @@
       "Name": "The Assault",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22250
+      "UsersEstimate": 22251
     },
     {
       "ID": "03_Vengeance_H2",
@@ -30621,7 +30632,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14833
+      "UsersEstimate": 14834
     },
     {
       "ID": "04_Vengeance_H3",
@@ -30653,7 +30664,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3708
+      "UsersEstimate": 3709
     },
     {
       "ID": "08_Wude_H2",
@@ -30693,7 +30704,7 @@
       "Name": "Scareless",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5933
+      "UsersEstimate": 5934
     },
     {
       "ID": "13_LowAge",
@@ -30757,7 +30768,7 @@
       "Name": "Stuntmaster",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14833
+      "UsersEstimate": 14834
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -30773,7 +30784,7 @@
       "Name": "Street Fighting",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14833
+      "UsersEstimate": 14834
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -30781,7 +30792,7 @@
       "Name": "Life is your teacher",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22250
+      "UsersEstimate": 22251
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -30789,7 +30800,7 @@
       "Name": "State of constant learning",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14833
+      "UsersEstimate": 14834
     },
     {
       "ID": "25_ShrineMind",
@@ -30813,7 +30824,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14833
+      "UsersEstimate": 14834
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -30853,7 +30864,7 @@
       "Name": "Old Child",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14833
+      "UsersEstimate": 14834
     },
     {
       "ID": "33_BladeOneShot",
@@ -30869,7 +30880,7 @@
       "Name": "Lightning Hands",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22250
+      "UsersEstimate": 22251
     },
     {
       "ID": "35_WideStrike",
@@ -30877,7 +30888,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5933
+      "UsersEstimate": 5934
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -30899,9 +30910,9 @@
       "ID": "38_CustomTrophy_H2",
       "SetID": "adcm20g",
       "Name": "The Pit Protector",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1483
+      "UsersEstimate": 2225
     },
     {
       "ID": "39_CustomTrophy_H3",
@@ -31084,21 +31095,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 50971,
+      "Progressed": 51014,
       "Completed": 10780
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 741670,
+      "Progressed": 741713,
       "Completed": 12961
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-12-23T16:03:00.0284694+00:00",
-  "LastChanged_Achievements": "2023-12-23T17:09:01.6472475+00:00",
+  "LastChanged": "2023-12-23T18:03:05.7688929+00:00",
+  "LastChanged_Achievements": "2023-12-23T18:08:53.343872+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:50.1499922+00:00",
-  "LastUpdate_Ratings": "2023-12-23T17:03:02.5510907+00:00",
-  "LastUpdate_Achievements": "2023-12-23T17:09:01.6473767+00:00"
+  "LastUpdate_Ratings": "2023-12-23T18:03:05.7688936+00:00",
+  "LastUpdate_Achievements": "2023-12-23T18:08:53.344044+00:00"
 }

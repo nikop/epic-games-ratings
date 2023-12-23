@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2075,
+  "EOS_Progressed": 2076,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7944,6 +7944,11 @@
       "Time": "2023-12-23T16:05:13.0894071+00:00",
       "NumProgressed": 2075,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-23T18:05:24.0170611+00:00",
+      "NumProgressed": 2076,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7955,7 +7960,7 @@
       "Name": "Know The Enemy",
       "Percentage": 6,
       "XP": 75,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -8043,7 +8048,7 @@
       "Name": "Moving On Up",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "objective_headquarters_20",
@@ -8123,7 +8128,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -8131,7 +8136,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -8258,7 +8263,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2075,
+      "Progressed": 2076,
       "Completed": 1
     }
   ],
@@ -8266,8 +8271,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-11T08:59:11.5639448+00:00",
-  "LastChanged_Achievements": "2023-12-23T17:05:19.4945759+00:00",
+  "LastChanged_Achievements": "2023-12-23T18:05:24.0170608+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:15.2562842+00:00",
-  "LastUpdate_Ratings": "2023-12-23T16:57:25.1258201+00:00",
-  "LastUpdate_Achievements": "2023-12-23T17:05:19.4946256+00:00"
+  "LastUpdate_Ratings": "2023-12-23T17:57:18.9050469+00:00",
+  "LastUpdate_Achievements": "2023-12-23T18:05:24.017123+00:00"
 }

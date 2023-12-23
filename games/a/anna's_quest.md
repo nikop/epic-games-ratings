@@ -22,9 +22,9 @@
 | Shattered | 28.00% | ~25 |
 | GG | 28.00% | ~25 |
 | Beekeeper | 28.00% | ~25 |
+| Far away from home | 28.00% | ~25 |
 | NOW GO AWAY! | 28.00% | ~25 |
 | You've got mail! | 27.00% | ~24 |
-| Far away from home | 27.00% | ~24 |
 | Show me your true self | 26.00% | ~23 |
 | Memories | 26.00% | ~23 |
 | Mischief maker | 26.00% | ~23 |

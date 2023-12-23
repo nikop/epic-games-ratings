@@ -6,8 +6,8 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Entrepreneur | 24.00% | ~17 |
 | Best Buddy | 23.00% | ~16 |
-| Entrepreneur | 22.00% | ~15 |
 | Role Model | 17.00% | ~12 |
 | Civilian | 14.00% | ~10 |
 | Creator | 10.00% | ~7 |
@@ -27,12 +27,12 @@ Number of Ratings: 124  (23.09.2022)
 | Globetrotter | 3.00% | ~2 |
 | Self-Sufficient | 3.00% | ~2 |
 | Unbreakable | 3.00% | ~2 |
+| Morkon | 3.00% | ~2 |
 | Festival-goer | 3.00% | ~2 |
 | Alchemist | 1.00% | ~1 |
 | Idealist | 1.00% | ~1 |
 | Defector | 1.00% | ~1 |
 | Cleric | 1.00% | ~1 |
-| Morkon | 1.00% | ~1 |
 | Outlaw | 1.00% | ~1 |
 | Destroyer | 1.00% | ~1 |
 | Detective | 1.00% | ~1 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Fire in the Hole | 0.00% | ~0 |
 | Lover | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69 (Ranked 509)  
+Progressed: 70 (Ranked 509)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,7 +67,7 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-20 | 40 | 0 |
 | 2023-12-21 | 48 | 0 |
 | 2023-12-22 | 67 | 0 |
-| 2023-12-23 | 69 | 0 |
+| 2023-12-23 | 70 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

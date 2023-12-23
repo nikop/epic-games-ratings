@@ -24,16 +24,19 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just | 0.20% | ~32 |
 | Keystone | 0.20% | ~32 |
 | Learned | 0.20% | ~32 |
+| Magnificent | 0.20% | ~32 |
 | Noble | 0.20% | ~32 |
 | Pioneer | 0.20% | ~32 |
 | Strong | 0.20% | ~32 |
 | Warrior | 0.20% | ~32 |
 | Developing Cities | 0.20% | ~32 |
+| Legendary Cities | 0.20% | ~32 |
 | Strong Cities | 0.20% | ~32 |
 | Able Difficulty | 0.20% | ~32 |
 | Furious Family | 0.20% | ~32 |
 | Great Ziggurat | 0.20% | ~32 |
 | Hanging Gardens | 0.20% | ~32 |
+| Ishtar Gate | 0.20% | ~32 |
 | Lighthouse | 0.20% | ~32 |
 | Oracle | 0.20% | ~32 |
 | Pyramids | 0.20% | ~32 |
@@ -41,6 +44,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Christianity | 0.20% | ~32 |
 | Judaism | 0.20% | ~32 |
 | Greek Paganism | 0.20% | ~32 |
+| Zoroastrianism | 0.20% | ~32 |
 | Naming Landmarks | 0.20% | ~32 |
 | Trade Caravan | 0.20% | ~32 |
 | Alexander the Great | 0.10% | ~16 |
@@ -87,7 +91,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intercessor | 0.10% | ~16 |
 | Invincible | 0.10% | ~16 |
 | Lion | 0.10% | ~16 |
-| Magnificent | 0.10% | ~16 |
 | Mighty | 0.10% | ~16 |
 | Old | 0.10% | ~16 |
 | Peacemaker | 0.10% | ~16 |
@@ -97,7 +100,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Victorious | 0.10% | ~16 |
 | White Death | 0.10% | ~16 |
 | Wise | 0.10% | ~16 |
-| Legendary Cities | 0.10% | ~16 |
 | Glorious Difficulty | 0.10% | ~16 |
 | Good Difficulty | 0.10% | ~16 |
 | Great Difficulty | 0.10% | ~16 |
@@ -142,7 +144,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Temple of Solomon | 0.10% | ~16 |
 | Cao'an | 0.10% | ~16 |
 | Adur Burzen-Mihr | 0.10% | ~16 |
-| Ishtar Gate | 0.10% | ~16 |
 | Mausoleum | 0.10% | ~16 |
 | Musaeum | 0.10% | ~16 |
 | Necropolis | 0.10% | ~16 |
@@ -183,7 +184,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Paganism | 0.10% | ~16 |
 | Persian Paganism | 0.10% | ~16 |
 | Roman Paganism | 0.10% | ~16 |
-| Zoroastrianism | 0.10% | ~16 |
 | Circus Maximus in Roma | 0.10% | ~16 |
 | Pantheon in Roma | 0.10% | ~16 |
 | Building Wonders | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,903 (Ranked 161)  
+Progressed: 15,906 (Ranked 161)  
 Completed: 5 (0.03%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -612,7 +612,7 @@ Completed: 5 (0.03%) (Ranked 346)
 | 2023-12-20 | 15,854 | 5 |
 | 2023-12-21 | 15,865 | 5 |
 | 2023-12-22 | 15,884 | 5 |
-| 2023-12-23 | 15,903 | 5 |
+| 2023-12-23 | 15,906 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 279)  
 Sum: 1,907 (Ranked 220)  

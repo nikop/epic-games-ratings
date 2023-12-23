@@ -6,16 +6,16 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 4.00% | ~29,667 |
-| The Assault | 3.00% | ~22,250 |
-| Life is your teacher | 3.00% | ~22,250 |
-| Lightning Hands | 3.00% | ~22,250 |
-| The Hateful Pole Fighter | 2.00% | ~14,833 |
-| Stuntmaster | 2.00% | ~14,833 |
-| Street Fighting | 2.00% | ~14,833 |
-| State of constant learning | 2.00% | ~14,833 |
-| Qi Gong: Essence | 2.00% | ~14,833 |
-| Old Child | 2.00% | ~14,833 |
+| The Old Grandmaster | 4.00% | ~29,669 |
+| The Assault | 3.00% | ~22,251 |
+| Life is your teacher | 3.00% | ~22,251 |
+| Lightning Hands | 3.00% | ~22,251 |
+| The Hateful Pole Fighter | 2.00% | ~14,834 |
+| Stuntmaster | 2.00% | ~14,834 |
+| Street Fighting | 2.00% | ~14,834 |
+| State of constant learning | 2.00% | ~14,834 |
+| Qi Gong: Essence | 2.00% | ~14,834 |
+| Old Child | 2.00% | ~14,834 |
 | A Lady's Blood in the Snow | 1.00% | ~7,417 |
 | Lady Wing Chun | 1.00% | ~7,417 |
 | Furious Fists | 1.00% | ~7,417 |
@@ -28,12 +28,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | Project Arena | 1.00% | ~510 |
 | Diligence as a goal | 1.00% | ~510 |
 | Qi Gong: Mind | 0.90% | ~6,675 |
-| Scareless | 0.80% | ~5,933 |
-| Kung-Fu Tussle | 0.80% | ~5,933 |
+| Scareless | 0.80% | ~5,934 |
+| Kung-Fu Tussle | 0.80% | ~5,934 |
 | Dance of the Praying Mantis | 0.70% | ~5,192 |
 | Fight the way you practice | 0.70% | ~357 |
 | Martial Hub | 0.60% | ~306 |
-| Muk Yan Master | 0.50% | ~3,708 |
+| Muk Yan Master | 0.50% | ~3,709 |
 | Bloody Sport | 0.50% | ~255 |
 | Tiger on Fire | 0.40% | ~2,967 |
 | Source of Flying Daggers | 0.40% | ~2,967 |
@@ -43,13 +43,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | Legendary Talismans of Wuxing | 0.30% | ~2,225 |
 | Prodigal Child | 0.30% | ~2,225 |
 | The 36th Chamber of Kung-Fu | 0.30% | ~2,225 |
+| The Pit Protector | 0.30% | ~2,225 |
 | The best strikes are the ones we avoid | 0.30% | ~153 |
 | Drunken Fighter | 0.20% | ~1,483 |
 | Martial Artist | 0.20% | ~1,483 |
 | Knowledge Greed | 0.20% | ~1,483 |
 | Master of the Phoenix Eye Fist | 0.20% | ~1,483 |
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,483 |
-| The Pit Protector | 0.20% | ~1,483 |
 | Be like water my friend | 0.20% | ~1,483 |
 | Come Snap With Me | 0.20% | ~1,483 |
 | Deadly Venom | 0.20% | ~102 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~51 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~51 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 741,670 (Ranked 23)  
+Progressed: 741,713 (Ranked 23)  
 Completed: 12,961 (1.75%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,18 +314,18 @@ Completed: 12,961 (1.75%) (Ranked 140)
 | 2023-12-20 | 737,594 | 12,958 |
 | 2023-12-21 | 738,913 | 12,958 |
 | 2023-12-22 | 740,313 | 12,959 |
-| 2023-12-23 | 741,670 | 12,961 |
+| 2023-12-23 | 741,713 | 12,961 |
 ## Awards
 Max (Great Boss Battles): 6,989  (Ranked 55)  
-Sum: 12,257 (Ranked 84)  
+Sum: 12,260 (Ranked 84)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,989 |
-| This game has Diverse Characters | 679 |
+| This game has Diverse Characters | 681 |
 | This game has Challenging Combat | 629 |
 | This game has Amazing Storytelling | 608 |
-| This game has Amazing Characters | 595 |
+| This game has Amazing Characters | 596 |
 | This game is Highly Recommended | 590 |
 | This game has Quickly Understood Controls | 585 |
 | This game is Extremely Fun | 577 |
@@ -675,4 +675,4 @@ Diff (max vs sum): -29
 | 2023-12-20 | 4.82 | - | 6,973 | 12,223 |
 | 2023-12-21 | 4.82 | - | 6,978 | 11,797 |
 | 2023-12-22 | 4.82 | - | 6,989 | 11,814 |
-| 2023-12-23 | 4.82 | - | 6,989 | 12,257 |
+| 2023-12-23 | 4.82 | - | 6,989 | 12,260 |

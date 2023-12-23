@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 312,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -260,9 +260,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2271,
+  "EOS_Progressed": 2273,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -4120,6 +4120,11 @@
       "Time": "2023-12-23T11:04:27.8919045+00:00",
       "NumProgressed": 2271,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-23T18:04:56.0051746+00:00",
+      "NumProgressed": 2273,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 36,
@@ -4209,9 +4214,9 @@
       "ID": "CompleteGuardFaction",
       "SetID": "9lj35g4",
       "Name": "Complete Guard Faction",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "CompleteHunterFaction",
@@ -4418,13 +4423,13 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2271,
+      "Progressed": 2273,
       "Completed": 12
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 912,
+      "Progressed": 914,
       "Completed": 900
     }
   ],
@@ -4432,8 +4437,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-12-21T19:58:12.3582087+00:00",
-  "LastChanged_Achievements": "2023-12-23T17:04:51.4262413+00:00",
+  "LastChanged_Achievements": "2023-12-23T18:04:56.0051743+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:33.7739845+00:00",
-  "LastUpdate_Ratings": "2023-12-23T16:59:06.0507187+00:00",
-  "LastUpdate_Achievements": "2023-12-23T17:04:51.4262802+00:00"
+  "LastUpdate_Ratings": "2023-12-23T17:59:01.0110449+00:00",
+  "LastUpdate_Achievements": "2023-12-23T18:04:56.0052082+00:00"
 }

@@ -6,25 +6,25 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kaijuiced | 66.00% | ~79 |
+| Kaijuiced | 67.00% | ~80 |
 | Shop Til They Drop | 61.00% | ~73 |
-| Lie Back and Think of Albion | 58.00% | ~70 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 56.00% | ~67 |
-| Yettisoned | 53.00% | ~64 |
-| I Look Up As I Walk to Takoshima | 53.00% | ~64 |
-| Lobster Blisque | 48.00% | ~58 |
-| Perfect Probulator | 48.00% | ~58 |
-| Fly Me to the Moon Base | 43.00% | ~52 |
+| Lie Back and Think of Albion | 60.00% | ~72 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 58.00% | ~70 |
+| Yettisoned | 55.00% | ~66 |
+| I Look Up As I Walk to Takoshima | 54.00% | ~65 |
+| Lobster Blisque | 50.00% | ~60 |
+| Perfect Probulator | 49.00% | ~59 |
+| Fly Me to the Moon Base | 44.00% | ~53 |
 | Pimp My Raid | 43.00% | ~52 |
-| Earthly Pleasures | 40.00% | ~48 |
+| Earthly Pleasures | 41.00% | ~49 |
 | Ducks in a Row, Fish in a Barrel | 38.00% | ~46 |
-| Freshly Squeezed | 35.00% | ~42 |
-| Upgreatest | 29.00% | ~35 |
-| Forbidden Donut | 28.00% | ~34 |
+| Freshly Squeezed | 37.00% | ~44 |
+| Upgreatest | 31.00% | ~37 |
+| Forbidden Donut | 29.00% | ~35 |
 | Bodied Sattva | 28.00% | ~34 |
 | Rock of the Bay | 27.00% | ~32 |
-| Trans-Siberian Express | 24.00% | ~29 |
-| Deincarnated | 23.00% | ~28 |
+| Trans-Siberian Express | 25.00% | ~30 |
+| Deincarnated | 24.00% | ~29 |
 | Furon Fashion | 23.00% | ~28 |
 | Re-Return of the Clone of the Invasion II-2 | 19.00% | ~23 |
 | Arkvoodle Doodle | 17.00% | ~20 |
@@ -34,16 +34,16 @@ Number of Ratings: 85  (23.09.2022)
 | Dusted | 12.00% | ~14 |
 | Hidden Human Hive Harvest | 11.00% | ~13 |
 | Mash Machine | 11.00% | ~13 |
+| Scuttled | 8.00% | ~10 |
 | PK Slam Dunk | 8.00% | ~10 |
 | Albion Bridge Is for Falling Down | 8.00% | ~10 |
-| Scuttled | 7.00% | ~8 |
 | Higher Than the Futen Zoku | 6.00% | ~7 |
 | Cult Following | 3.00% | ~4 |
 | To Russia With Love | 3.00% | ~4 |
 | Path of the Furon | 3.00% | ~4 |
 | Arty Facts | 3.00% | ~4 |
+| Toilet Break | 2.00% | ~2 |
 | Transmitting From Sol-3 | 0.80% | ~1 |
-| Toilet Break | 0.80% | ~1 |
 | Steezy Down the Spine | 0.00% | ~0 |
 | Against All Odds | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

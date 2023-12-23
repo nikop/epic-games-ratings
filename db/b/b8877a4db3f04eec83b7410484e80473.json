@@ -4,7 +4,7 @@
   "ProductSlug": "railbreak-f87a0c",
   "Ranking_EOS_Progress": 674,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 496,
+  "Ranking_EOS_NewPlayers": 495,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-12-23T00:00:00+00:00",
@@ -214,9 +214,9 @@
       "ID": "THE_LAST_SHOT_BAR_ACH",
       "SetID": "af7amn3",
       "Name": "The Last Shot Bar",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "THE_MAYOR_ACH",
@@ -268,8 +268,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-05T21:07:03.3998078+00:00",
-  "LastChanged_Achievements": "2023-12-23T17:08:28.7107366+00:00",
+  "LastChanged_Achievements": "2023-12-23T18:08:20.4098462+00:00",
   "LastUpdate_AppInfo": "2023-12-22T22:57:07.1314256+00:00",
-  "LastUpdate_Ratings": "2023-12-23T16:57:28.0830769+00:00",
-  "LastUpdate_Achievements": "2023-12-23T17:08:28.7107502+00:00"
+  "LastUpdate_Ratings": "2023-12-23T17:57:21.9510565+00:00",
+  "LastUpdate_Achievements": "2023-12-23T18:08:20.4098588+00:00"
 }

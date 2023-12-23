@@ -1643,9 +1643,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 7458,
+  "EOS_Progressed": 7459,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -15283,6 +15283,11 @@
       "Time": "2023-12-23T17:08:46.4761265+00:00",
       "NumProgressed": 7458,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-23T18:08:38.3665174+00:00",
+      "NumProgressed": 7459,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -15292,9 +15297,9 @@
       "ID": "BUILD_ROOM",
       "SetID": "5349c2e",
       "Name": "Get A Room",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 5668
+      "UsersEstimate": 5594
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -15302,7 +15307,7 @@
       "Name": "Beam Me Up",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 3878
+      "UsersEstimate": 3879
     },
     {
       "ID": "DISMANTLE_ITEMS_5",
@@ -15326,7 +15331,7 @@
       "Name": "Green Thumb",
       "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 4997
+      "UsersEstimate": 4998
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -15334,7 +15339,7 @@
       "Name": "Having A Field Day",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5668
+      "UsersEstimate": 5669
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -15342,7 +15347,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 5444
+      "UsersEstimate": 5445
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -15366,7 +15371,7 @@
       "Name": "Oh Deer!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1715
+      "UsersEstimate": 1716
     },
     {
       "ID": "HUNT_RABBIT_20",
@@ -15414,7 +15419,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 62,
       "XP": 25,
-      "UsersEstimate": 4624
+      "UsersEstimate": 4625
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -15438,7 +15443,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 3356
+      "UsersEstimate": 3357
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -15478,7 +15483,7 @@
       "Name": "Winter Is Here",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1864
+      "UsersEstimate": 1865
     },
     {
       "ID": "SURVIVE_FIRST_YEAR",
@@ -15494,7 +15499,7 @@
       "Name": "The First Week",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4176
+      "UsersEstimate": 4177
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -15502,7 +15507,7 @@
       "Name": "Novice Researcher",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 5071
+      "UsersEstimate": 5072
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -15510,7 +15515,7 @@
       "Name": "Adept Researcher",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 3356
+      "UsersEstimate": 3357
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -15518,7 +15523,7 @@
       "Name": "Luminary Researcher",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 2237
+      "UsersEstimate": 2238
     },
     {
       "ID": "UNLOCK_RESEARCH_3",
@@ -15541,15 +15546,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 7458,
+      "Progressed": 7459,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-12-21T23:02:58.0023012+00:00",
-  "LastChanged_Achievements": "2023-12-23T17:08:46.4761262+00:00",
+  "LastChanged_Achievements": "2023-12-23T18:08:38.3665172+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:47.8691665+00:00",
-  "LastUpdate_Ratings": "2023-12-23T16:58:01.0525688+00:00",
-  "LastUpdate_Achievements": "2023-12-23T17:08:46.4762308+00:00"
+  "LastUpdate_Ratings": "2023-12-23T17:57:53.7315096+00:00",
+  "LastUpdate_Achievements": "2023-12-23T18:08:38.366678+00:00"
 }

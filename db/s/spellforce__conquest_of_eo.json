@@ -496,9 +496,9 @@
       "ID": "Defeat_Raith",
       "SetID": "7b9f97e",
       "Name": "Defeat Raith",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Defeat_Rohen",
@@ -953,8 +953,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-12-23T17:09:21.6332755+00:00",
+  "LastChanged_Achievements": "2023-12-23T18:09:13.8921066+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:09.2965751+00:00",
-  "LastUpdate_Ratings": "2023-12-23T16:58:29.7874932+00:00",
-  "LastUpdate_Achievements": "2023-12-23T17:09:21.6333242+00:00"
+  "LastUpdate_Ratings": "2023-12-23T17:58:22.7225548+00:00",
+  "LastUpdate_Achievements": "2023-12-23T18:09:13.8921622+00:00"
 }

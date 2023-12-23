@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 240,
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -1928,7 +1928,7 @@
   ],
   "EOS_Progressed": 649,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7492,9 +7492,9 @@
       "ID": "C_STAMINA",
       "SetID": "80dcan0",
       "Name": "On that Grindset",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 597
+      "UsersEstimate": 604
     },
     {
       "ID": "C_STAYUP",
@@ -7628,9 +7628,9 @@
       "ID": "P_BRIDGE",
       "SetID": "80dcan0",
       "Name": "Bridging the Gap",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 363
+      "UsersEstimate": 370
     },
     {
       "ID": "P_CRANELIFT",
@@ -7660,9 +7660,9 @@
       "ID": "P_HYDROGEL",
       "SetID": "80dcan0",
       "Name": "What Plants Crave",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 396
+      "UsersEstimate": 402
     },
     {
       "ID": "P_JEWEL",
@@ -7804,9 +7804,9 @@
       "ID": "S_GHOST",
       "SetID": "80dcan0",
       "Name": "Who Ya Gonna Call...?",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 305
+      "UsersEstimate": 312
     },
     {
       "ID": "S_GIFT",
@@ -7964,8 +7964,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2023-12-22T17:57:11.129801+00:00",
-  "LastChanged_Achievements": "2023-12-23T17:05:36.6896637+00:00",
+  "LastChanged_Achievements": "2023-12-23T18:05:40.9376651+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:20.3290168+00:00",
-  "LastUpdate_Ratings": "2023-12-23T16:57:51.279304+00:00",
-  "LastUpdate_Achievements": "2023-12-23T17:05:36.6897315+00:00"
+  "LastUpdate_Ratings": "2023-12-23T17:57:43.8793293+00:00",
+  "LastUpdate_Achievements": "2023-12-23T18:05:40.9377342+00:00"
 }

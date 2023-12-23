@@ -20,8 +20,8 @@
 | The bad boy | 5.00% | ~19 |
 | Picky! | 4.00% | ~15 |
 | Playing the field | 4.00% | ~15 |
+| Go well, lad | 4.00% | ~15 |
 | Keep the spark alive | 3.00% | ~12 |
-| Go well, lad | 3.00% | ~12 |
 | Muggy Misha | 3.00% | ~12 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 387 (Ranked 351)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 346,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2184,9 +2184,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15903,
+  "EOS_Progressed": 15906,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18194,6 +18194,11 @@
       "Time": "2023-12-23T17:10:04.234477+00:00",
       "NumProgressed": 15903,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-23T18:09:57.0545258+00:00",
+      "NumProgressed": 15906,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -18747,9 +18752,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_MAGNIFICENT",
       "SetID": "7l38kb8",
       "Name": "Magnificent",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MASON",
@@ -18907,9 +18912,9 @@
       "ID": "ACHIEVEMENT_CULTURE_LEGENDARY",
       "SetID": "9201eeb",
       "Name": "Legendary Cities",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_CULTURE_STRONG",
@@ -19611,9 +19616,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_ISHTAR_GATE",
       "SetID": "9201eeb",
       "Name": "Ishtar Gate",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_LIGHTHOUSE",
@@ -20067,9 +20072,9 @@
       "ID": "ACHIEVEMENT_RELIGION_ZOROASTRIANISM",
       "SetID": "7l38kb8",
       "Name": "Zoroastrianism",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_RHODES_COLOSSUS",
@@ -21068,21 +21073,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15903,
+      "Progressed": 15906,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15903,
+      "Progressed": 15906,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-22T01:47:48.5403593+00:00",
-  "LastChanged_Achievements": "2023-12-23T17:10:04.2344767+00:00",
+  "LastChanged_Achievements": "2023-12-23T18:09:57.0545254+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:47.4773202+00:00",
-  "LastUpdate_Ratings": "2023-12-23T17:02:59.8580929+00:00",
-  "LastUpdate_Achievements": "2023-12-23T17:10:04.2354078+00:00"
+  "LastUpdate_Ratings": "2023-12-23T18:03:03.0054774+00:00",
+  "LastUpdate_Achievements": "2023-12-23T18:09:57.0554891+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "the-darkest-tales-7d0dab",
   "Ranking_EOS_Progress": 815,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-10-13T12:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:43.7526612+00:00",
   "LastChanged": "2023-03-31T05:58:43.7526613+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:15.2234043+00:00",
-  "LastUpdate_Ratings": "2023-12-23T16:57:18.4592976+00:00",
-  "LastUpdate_Achievements": "2023-12-23T17:04:31.4808099+00:00"
+  "LastUpdate_Ratings": "2023-12-23T17:57:12.8150146+00:00",
+  "LastUpdate_Achievements": "2023-12-23T18:04:36.546248+00:00"
 }

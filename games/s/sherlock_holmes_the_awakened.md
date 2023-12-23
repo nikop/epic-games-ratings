@@ -1,7 +1,7 @@
 # Sherlock Holmes The Awakened
 [Store](https://store.epicgames.com/en-US/p/sherlock-holmes-the-awakened)  
 [View Rawdata](../../db/s/sherlock_holmes_the_awakened.json)  
-Rating: 4.54 (Ranked 534)  
+Rating: 4.54 (Ranked 533)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,33 +9,33 @@ Rating: 4.54 (Ranked 534)
 | To Hell In A Handcart | 61.00% | ~794 |
 | High Profile | 54.00% | ~703 |
 | Whispers In The Dark | 51.00% | ~664 |
-| Fond Memories | 49.00% | ~637 |
-| A Method To His Madness | 47.00% | ~611 |
-| History Check | 46.00% | ~598 |
-| The New World | 44.00% | ~572 |
-| Gaze Into The Abyss | 43.00% | ~559 |
-| Open Sesame | 43.00% | ~559 |
-| Sticky Fingers | 43.00% | ~559 |
-| Knives Out | 43.00% | ~559 |
-| Lock, Stock, And Barrel | 42.00% | ~546 |
-| Land, Ho! | 42.00% | ~546 |
-| Back In The Saddle | 41.00% | ~533 |
-| No Man Is An Island | 40.00% | ~520 |
-| At Wits' End | 39.00% | ~507 |
-| Fhtagn! | 38.00% | ~494 |
-| Bookworm | 37.00% | ~481 |
-| Up In Flames | 37.00% | ~481 |
-| Going Once... | 35.00% | ~455 |
-| Let Me Be Frank | 33.00% | ~429 |
-| Brain Food | 31.00% | ~403 |
-| No Stone Unturned | 31.00% | ~403 |
+| Fond Memories | 49.00% | ~638 |
+| A Method To His Madness | 47.00% | ~612 |
+| History Check | 46.00% | ~599 |
+| The New World | 44.00% | ~573 |
+| Gaze Into The Abyss | 43.00% | ~560 |
+| Open Sesame | 43.00% | ~560 |
+| Sticky Fingers | 43.00% | ~560 |
+| Lock, Stock, And Barrel | 42.00% | ~547 |
+| Knives Out | 42.00% | ~547 |
+| Land, Ho! | 42.00% | ~547 |
+| Back In The Saddle | 41.00% | ~534 |
+| No Man Is An Island | 40.00% | ~521 |
+| At Wits' End | 39.00% | ~508 |
+| Fhtagn! | 38.00% | ~495 |
+| Bookworm | 37.00% | ~482 |
+| Up In Flames | 37.00% | ~482 |
+| Going Once... | 35.00% | ~456 |
+| Let Me Be Frank | 33.00% | ~430 |
+| Brain Food | 31.00% | ~404 |
+| No Stone Unturned | 31.00% | ~404 |
 | Read It And Weep | 19.00% | ~247 |
 | Curiosity Killed The Cat | 18.00% | ~234 |
 | Big Breakthrough | 12.00% | ~156 |
 | Reawakened | 3.00% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,301 (Ranked 260)  
-Completed: 36 (2.77%) (Ranked 117)  
+Progressed: 1,302 (Ranked 260)  
+Completed: 37 (2.84%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -237,7 +237,7 @@ Completed: 36 (2.77%) (Ranked 117)
 | 2023-12-20 | 1,267 | 36 |
 | 2023-12-21 | 1,274 | 36 |
 | 2023-12-22 | 1,289 | 36 |
-| 2023-12-23 | 1,301 | 36 |
+| 2023-12-23 | 1,302 | 37 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

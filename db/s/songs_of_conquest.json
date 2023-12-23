@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 690,
+  "EOS_Progressed": 692,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2638,6 +2638,11 @@
       "Time": "2023-12-23T17:08:54.6076569+00:00",
       "NumProgressed": 690,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T18:08:46.5995931+00:00",
+      "NumProgressed": 692,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2890,7 +2895,7 @@
       "Name": "Whoops!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "RanaCampaign",
@@ -2944,17 +2949,17 @@
       "ID": "SweepKillCount",
       "SetID": "71c0n9i",
       "Name": "Cleave",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "TownCompletion",
       "SetID": "71c0n9i",
       "Name": "Landlord Extraordinaire",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 35
     },
     {
       "ID": "TrojanHorse",
@@ -2978,7 +2983,7 @@
       "Name": "Adept",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "WielderLevel2",
@@ -2986,7 +2991,7 @@
       "Name": "Veteran",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "WielderLevel3",
@@ -2994,7 +2999,7 @@
       "Name": "Master",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "WielderLevel4",
@@ -3081,15 +3086,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 690,
+      "Progressed": 692,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-23T17:08:54.6076566+00:00",
+  "LastChanged_Achievements": "2023-12-23T18:08:46.5995928+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:10.4027668+00:00",
-  "LastUpdate_Ratings": "2023-12-23T16:59:52.7688713+00:00",
-  "LastUpdate_Achievements": "2023-12-23T17:08:54.6077056+00:00"
+  "LastUpdate_Ratings": "2023-12-23T17:59:47.2060191+00:00",
+  "LastUpdate_Achievements": "2023-12-23T18:08:46.5996386+00:00"
 }

@@ -463,9 +463,9 @@
       "ID": "beatOwnScore",
       "SetID": "cfe0fhi",
       "Name": "Practice Makes Postmasters",
-      "Percentage": 47,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 44
     },
     {
       "ID": "completeFall",
@@ -503,9 +503,9 @@
       "ID": "completeTheFirstWeek",
       "SetID": "cfe0fhi",
       "Name": "Learn the Ropes",
-      "Percentage": 70,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 66
     },
     {
       "ID": "findFirstCollectible",
@@ -519,9 +519,9 @@
       "ID": "getABonusReward",
       "SetID": "cfe0fhi",
       "Name": "Working for the Kiweekend",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "goldOnAllLevels",
@@ -590,8 +590,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:23.8514145+00:00",
   "LastChanged": "2023-03-31T05:58:13.8503402+00:00",
-  "LastChanged_Achievements": "2023-12-23T17:05:49.080225+00:00",
+  "LastChanged_Achievements": "2023-12-23T18:05:52.7029687+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:06.0598499+00:00",
-  "LastUpdate_Ratings": "2023-12-23T16:57:51.0243925+00:00",
-  "LastUpdate_Achievements": "2023-12-23T17:05:49.0802366+00:00"
+  "LastUpdate_Ratings": "2023-12-23T17:57:43.5740851+00:00",
+  "LastUpdate_Achievements": "2023-12-23T18:05:52.702983+00:00"
 }

@@ -4,10 +4,10 @@
   "ProductSlug": "avatar-frontiers-of-pandora",
   "Ranking_Rating": 641,
   "Ranking_Popularity": 432,
-  "Ranking_PopularitySum": 355,
+  "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 815,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-12-07T05:00:00+00:00",
@@ -465,10 +465,16 @@
       "Rating": 4.48,
       "NumberOfAwards": 370,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2023-12-23T17:59:38.982597+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 374,
+      "NumberOfAwardsMax": 54
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 370,
+  "NumberOfAwards": 374,
   "NumberOfAwardsMax": 54,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -476,7 +482,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 47
+      "Count": 51
     },
     {
       "Text": "This game is Relaxing",
@@ -545,8 +551,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-07T07:59:53.6089805+00:00",
   "FirstSeenRating": "2023-12-07T19:59:23.1655437+00:00",
-  "LastChanged": "2023-12-23T16:59:44.955947+00:00",
+  "LastChanged": "2023-12-23T17:59:38.9825967+00:00",
   "LastUpdate_AppInfo": "2023-12-18T06:57:00.6202557+00:00",
-  "LastUpdate_Ratings": "2023-12-23T16:59:44.9559475+00:00",
-  "LastUpdate_Achievements": "2023-12-23T17:03:56.3738988+00:00"
+  "LastUpdate_Ratings": "2023-12-23T17:59:38.9825973+00:00",
+  "LastUpdate_Achievements": "2023-12-23T18:04:01.9233501+00:00"
 }
