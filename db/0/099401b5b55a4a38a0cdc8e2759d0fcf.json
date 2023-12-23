@@ -2,10 +2,10 @@
   "ID": "099401b5b55a4a38a0cdc8e2759d0fcf",
   "Name": "Weko The Mask Gatherer",
   "ProductSlug": "wekothemaskgatherer-3148f9",
-  "Ranking_EOS_Progress": 814,
+  "Ranking_EOS_Progress": 815,
   "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-22T17:57:01.7195942+00:00",
-  "LastUpdate_Ratings": "2023-12-23T06:57:24.5024929+00:00",
-  "LastUpdate_Achievements": "2023-12-23T07:03:39.9276432+00:00"
+  "LastUpdate_Ratings": "2023-12-23T07:57:27.1286173+00:00",
+  "LastUpdate_Achievements": "2023-12-23T08:03:59.8690565+00:00"
 }

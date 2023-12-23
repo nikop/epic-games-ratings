@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 216,
   "Ranking_EOS_Progress": 34,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
@@ -2898,9 +2898,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 541673,
+  "EOS_Progressed": 541675,
   "EOS_Completed": 1653,
-  "EOS_NewPlayers": 764,
+  "EOS_NewPlayers": 757,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -30188,6 +30188,11 @@
       "Time": "2023-12-23T07:04:02.1122678+00:00",
       "NumProgressed": 541673,
       "NumCompleted": 1653
+    },
+    {
+      "Time": "2023-12-23T08:04:24.0627348+00:00",
+      "NumProgressed": 541675,
+      "NumCompleted": 1653
     }
   ],
   "TotalAchievements": 37,
@@ -30199,7 +30204,7 @@
       "Name": "Branded",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 70417
+      "UsersEstimate": 70418
     },
     {
       "ID": "COASTROCK",
@@ -30207,7 +30212,7 @@
       "Name": "Coastrock",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 10833
+      "UsersEstimate": 10834
     },
     {
       "ID": "DEVARAS_LIGHT",
@@ -30223,7 +30228,7 @@
       "Name": "Devoted",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 10833
+      "UsersEstimate": 10834
     },
     {
       "ID": "DOMINION",
@@ -30231,7 +30236,7 @@
       "Name": "Dominion",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 10833
+      "UsersEstimate": 10834
     },
     {
       "ID": "FADING_FAST",
@@ -30255,7 +30260,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 449589
+      "UsersEstimate": 449590
     },
     {
       "ID": "HONED",
@@ -30279,7 +30284,7 @@
       "Name": "Keepers of Fire and Sky",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 10833
+      "UsersEstimate": 10834
     },
     {
       "ID": "ORDER_OF_BETRAYER",
@@ -30287,7 +30292,7 @@
       "Name": "Order of the Betrayer",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 10833
+      "UsersEstimate": 10834
     },
     {
       "ID": "STORIED",
@@ -30311,7 +30316,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 216669
+      "UsersEstimate": 216670
     },
     {
       "ID": "THE_CASTLE",
@@ -30455,7 +30460,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 346671
+      "UsersEstimate": 346672
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -30471,7 +30476,7 @@
       "Name": "The Village",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 92084
+      "UsersEstimate": 92085
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -30487,22 +30492,22 @@
       "Name": "Wise Words",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 10833
+      "UsersEstimate": 10834
     }
   ],
   "AchievementSets": [
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 541673,
+      "Progressed": 541675,
       "Completed": 1653
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-12-22T13:57:52.473286+00:00",
-  "LastChanged_Achievements": "2023-12-23T07:04:02.1122675+00:00",
+  "LastChanged_Achievements": "2023-12-23T08:04:24.0627344+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:36.3607432+00:00",
-  "LastUpdate_Ratings": "2023-12-23T06:58:10.7986344+00:00",
-  "LastUpdate_Achievements": "2023-12-23T07:04:02.1123797+00:00"
+  "LastUpdate_Ratings": "2023-12-23T07:58:18.6678675+00:00",
+  "LastUpdate_Achievements": "2023-12-23T08:04:24.062847+00:00"
 }

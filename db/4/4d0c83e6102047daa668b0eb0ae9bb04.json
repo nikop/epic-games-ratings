@@ -2,10 +2,10 @@
   "ID": "4d0c83e6102047daa668b0eb0ae9bb04",
   "Name": "Love Yuri",
   "ProductSlug": "love-yuri-b962f0",
-  "Ranking_EOS_Progress": 814,
+  "Ranking_EOS_Progress": 815,
   "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-22T07:00:00+00:00",
     "PcReleaseDate": "2023-08-18T07:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-20T01:27:10.5722838+00:00",
-  "LastUpdate_Ratings": "2023-12-23T06:58:50.4287598+00:00",
-  "LastUpdate_Achievements": "2023-12-23T07:04:48.5816801+00:00"
+  "LastUpdate_Ratings": "2023-12-23T07:59:02.4269484+00:00",
+  "LastUpdate_Achievements": "2023-12-23T08:05:15.1253063+00:00"
 }

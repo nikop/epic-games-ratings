@@ -2,13 +2,13 @@
   "ID": "f9a21c4ce910440d82b83b01d1c48c5e",
   "Name": "Assassin\u0027s Creed\u00AE I: Director\u0027s Cut",
   "ProductSlug": "assassins-creed-1",
-  "Ranking_Rating": 659,
+  "Ranking_Rating": 672,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
-  "Ranking_EOS_Progress": 814,
+  "Ranking_EOS_Progress": 815,
   "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2008-04-09T15:00:00+00:00",
     "PcReleaseDate": "2008-04-09T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.46,
+  "Rating": 4.45,
   "NumberOfRatings": 142,
   "RatingHistory": [
     {
@@ -619,6 +619,12 @@
       "Rating": 4.46,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-23T07:59:23.72462+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -636,8 +642,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:57.2958454+00:00",
-  "LastChanged": "2023-11-16T20:57:47.4907257+00:00",
+  "LastChanged": "2023-12-23T07:59:23.7246199+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:40.7286523+00:00",
-  "LastUpdate_Ratings": "2023-12-23T06:59:09.3294051+00:00",
-  "LastUpdate_Achievements": "2023-12-23T07:08:49.8764644+00:00"
+  "LastUpdate_Ratings": "2023-12-23T07:59:23.7246203+00:00",
+  "LastUpdate_Achievements": "2023-12-23T08:09:16.2740551+00:00"
 }

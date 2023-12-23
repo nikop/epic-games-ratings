@@ -5,9 +5,9 @@ Rating: 4.64 (Ranked 340)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 39.00% | ~417 |
+| Time Heals All Wounds | 39.00% | ~418 |
 | Rail Rat | 30.00% | ~321 |
-| The Mysterious Stranger | 29.00% | ~310 |
+| The Mysterious Stranger | 29.00% | ~311 |
 | Immaculate Aim | 25.00% | ~268 |
 | Make Up For Lost Time | 24.00% | ~257 |
 | The Brass Boss | 24.00% | ~257 |
@@ -16,11 +16,11 @@ Rating: 4.64 (Ranked 340)
 | The Prince in Heels | 23.00% | ~246 |
 | Honest Mistake | 23.00% | ~246 |
 | Immaculate Aim | 23.00% | ~246 |
-| The Steel Shadow | 22.00% | ~235 |
-| The Harder They Fall | 22.00% | ~235 |
-| Breaking Down Barriers | 22.00% | ~235 |
-| The Wicked Twins | 22.00% | ~235 |
-| Fast Learner | 22.00% | ~235 |
+| The Steel Shadow | 22.00% | ~236 |
+| The Harder They Fall | 22.00% | ~236 |
+| Breaking Down Barriers | 22.00% | ~236 |
+| The Wicked Twins | 22.00% | ~236 |
+| Fast Learner | 22.00% | ~236 |
 | The Betrayer | 21.00% | ~225 |
 | Right On Time | 20.00% | ~214 |
 | Like Clockwork | 20.00% | ~214 |
@@ -30,22 +30,22 @@ Rating: 4.64 (Ranked 340)
 | The Man Who Shattered Time | 18.00% | ~193 |
 | The Family Fortune | 18.00% | ~193 |
 | Street Style | 17.00% | ~182 |
-| Whiz Kid | 15.00% | ~160 |
+| Whiz Kid | 15.00% | ~161 |
 | Cartographer | 14.00% | ~150 |
 | Good Neighbor | 14.00% | ~150 |
 | Treasure Trove | 13.00% | ~139 |
 | Family Memories | 13.00% | ~139 |
-| Chaincrawler Explorer | 12.00% | ~128 |
-| Ask Questions Later | 12.00% | ~128 |
+| Chaincrawler Explorer | 12.00% | ~129 |
+| Ask Questions Later | 12.00% | ~129 |
 | Sump Explorer | 11.00% | ~118 |
 | Syron for Hope | 11.00% | ~118 |
 | Factorywood Explorer | 10.00% | ~107 |
 | Fairgrounds Explorer | 10.00% | ~107 |
 | Theater Explorer | 10.00% | ~107 |
 | Cultivair Explorer | 9.00% | ~96 |
-| Entresol Explorer | 9.00% | ~96 |
 | Corin Goes Home | 8.00% | ~86 |
 | Sartorialist | 8.00% | ~86 |
+| Entresol Explorer | 8.00% | ~86 |
 | Golem Hunter | 7.00% | ~75 |
 | Clovemary for Remembering | 6.00% | ~64 |
 | Hexlock for Protection | 6.00% | ~64 |
@@ -59,7 +59,7 @@ Rating: 4.64 (Ranked 340)
 | Raw Talent | 0.70% | ~7 |
 | Going to Live Forever | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,070 (Ranked 276)  
+Progressed: 1,071 (Ranked 276)  
 Completed: 6 (0.56%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 6 (0.56%) (Ranked 204)
 | 2023-12-20 | 1,046 | 6 |
 | 2023-12-21 | 1,057 | 6 |
 | 2023-12-22 | 1,068 | 6 |
-| 2023-12-23 | 1,070 | 6 |
+| 2023-12-23 | 1,071 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

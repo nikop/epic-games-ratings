@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -288,9 +288,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2345,
+  "EOS_Progressed": 2347,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -3773,6 +3773,11 @@
       "Time": "2023-12-23T05:03:55.5143473+00:00",
       "NumProgressed": 2345,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-23T08:03:53.6282094+00:00",
+      "NumProgressed": 2347,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3792,7 +3797,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1524
+      "UsersEstimate": 1526
     },
     {
       "ID": "ACHV_03",
@@ -3816,7 +3821,7 @@
       "Name": "Studied The Blade",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "ACHV_06",
@@ -3824,7 +3829,7 @@
       "Name": "Home Invasion",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "ACHV_07",
@@ -3856,7 +3861,7 @@
       "Name": "Corrupted Beauty",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "ACHV_11",
@@ -3920,7 +3925,7 @@
       "Name": "True Survivor",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "ACHV_19",
@@ -3936,7 +3941,7 @@
       "Name": "Marked For Success",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "ACHV_21",
@@ -3944,7 +3949,7 @@
       "Name": "Stimulating The Local Economy",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ACHV_22",
@@ -3960,7 +3965,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "ACHV_24",
@@ -3984,7 +3989,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1853
+      "UsersEstimate": 1854
     },
     {
       "ID": "ACHV_27",
@@ -4008,7 +4013,7 @@
       "Name": "Triplets",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ACHV_30",
@@ -4088,7 +4093,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1782
+      "UsersEstimate": 1784
     },
     {
       "ID": "ACHV_40",
@@ -4104,7 +4109,7 @@
       "Name": "Suited and Booted",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "ACHV_42",
@@ -4112,7 +4117,7 @@
       "Name": "Sorry, Didn\u0027t See You There",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "ACHV_43",
@@ -4239,7 +4244,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2345,
+      "Progressed": 2347,
       "Completed": 13
     }
   ],
@@ -4247,8 +4252,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-17T06:57:54.8643494+00:00",
-  "LastChanged_Achievements": "2023-12-23T07:03:34.2307874+00:00",
+  "LastChanged_Achievements": "2023-12-23T08:03:53.6282087+00:00",
   "LastUpdate_AppInfo": "2023-12-16T16:57:00.284762+00:00",
-  "LastUpdate_Ratings": "2023-12-23T06:57:25.5881395+00:00",
-  "LastUpdate_Achievements": "2023-12-23T07:03:34.2308407+00:00"
+  "LastUpdate_Ratings": "2023-12-23T07:57:28.4446049+00:00",
+  "LastUpdate_Achievements": "2023-12-23T08:03:53.6282623+00:00"
 }

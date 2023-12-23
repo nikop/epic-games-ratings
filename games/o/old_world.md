@@ -120,6 +120,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | A Good Start | 0.10% | ~16 |
 | Like a Lion | 0.10% | ~16 |
 | Tell the Spartans | 0.10% | ~16 |
+| Shape of Things to Come | 0.10% | ~16 |
 | The Olive Wreath | 0.10% | ~16 |
 | Those Were Mine | 0.10% | ~16 |
 | What's 'hubris' in Greek? | 0.10% | ~16 |
@@ -275,7 +276,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Still Fighting | 0.00% | ~0 |
 | They Shall Not Pass | 0.00% | ~0 |
 | THIS IS SPARTA!! | 0.00% | ~0 |
-| Shape of Things to Come | 0.00% | ~0 |
 | I am the Archon Now | 0.00% | ~0 |
 | Not a Scratch | 0.00% | ~0 |
 | If? Then! | 0.00% | ~0 |

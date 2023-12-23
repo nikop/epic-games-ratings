@@ -1,50 +1,50 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.45 (Ranked 673)  
+Rating: 4.45 (Ranked 672)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,922 |
-| Confirming Suspicions | 41.00% | ~1,676 |
-| The Kraken Wakes | 37.00% | ~1,513 |
-| It's Starting to Crack | 34.00% | ~1,390 |
+| Meeting Resistance | 47.00% | ~1,923 |
+| Confirming Suspicions | 41.00% | ~1,677 |
+| The Kraken Wakes | 37.00% | ~1,514 |
+| It's Starting to Crack | 34.00% | ~1,391 |
 | Change the Channel | 31.00% | ~1,268 |
 | Lord of War | 30.00% | ~1,227 |
 | Taking it back | 29.00% | ~1,186 |
-| Resourceful | 27.00% | ~1,104 |
-| Target America | 27.00% | ~1,104 |
-| The Kraken Sleeps | 25.00% | ~1,022 |
-| As Quiet as a Mouse | 24.00% | ~981 |
-| Liberté | 23.00% | ~940 |
-| Organ Grinder | 23.00% | ~940 |
-| Sharpshooter | 23.00% | ~940 |
+| Resourceful | 27.00% | ~1,105 |
+| Target America | 27.00% | ~1,105 |
+| The Kraken Sleeps | 25.00% | ~1,023 |
+| As Quiet as a Mouse | 24.00% | ~982 |
+| Liberté | 23.00% | ~941 |
+| Organ Grinder | 23.00% | ~941 |
+| Sharpshooter | 23.00% | ~941 |
 | Gunslinger | 19.00% | ~777 |
 | Explosive Efficiency | 19.00% | ~777 |
 | Climbing the Ladder | 17.00% | ~695 |
 | Just a Flesh Wound | 17.00% | ~695 |
 | Der Geist | 17.00% | ~695 |
-| Close Quarters | 16.00% | ~654 |
-| Snake in the Grass | 16.00% | ~654 |
-| Skirmisher | 15.00% | ~613 |
-| Die Nussknacker Sweet! | 15.00% | ~613 |
-| Brains of the Operation | 15.00% | ~613 |
-| No Stone Unturned | 14.00% | ~572 |
-| Opposing Force | 14.00% | ~572 |
-| Enemy at the Gates | 14.00% | ~572 |
-| Fields of Glory | 14.00% | ~572 |
+| Close Quarters | 16.00% | ~655 |
+| Snake in the Grass | 16.00% | ~655 |
+| Skirmisher | 15.00% | ~614 |
+| Die Nussknacker Sweet! | 15.00% | ~614 |
+| Brains of the Operation | 15.00% | ~614 |
+| No Stone Unturned | 14.00% | ~573 |
+| Opposing Force | 14.00% | ~573 |
+| Enemy at the Gates | 14.00% | ~573 |
+| Fields of Glory | 14.00% | ~573 |
 | Set Europe Ablaze | 13.00% | ~532 |
 | Precision Is Key | 10.00% | ~409 |
 | My Little Friend | 10.00% | ~409 |
 | Rigged to Blow | 9.00% | ~368 |
 | Herr Today, Gone Tomorrow | 7.00% | ~283 |
 | The Long Game | 6.00% | ~245 |
-| Operation Foxley | 6.00% | ~242 |
-| Strategist | 5.00% | ~204 |
-| Tinkerer | 5.00% | ~204 |
-| It'll Buff Right Out | 5.00% | ~204 |
-| Road Rage | 5.00% | ~204 |
-| Don't hold your breath | 5.00% | ~204 |
+| Operation Foxley | 6.00% | ~243 |
+| Strategist | 5.00% | ~205 |
+| Tinkerer | 5.00% | ~205 |
+| It'll Buff Right Out | 5.00% | ~205 |
+| Road Rage | 5.00% | ~205 |
+| Don't hold your breath | 5.00% | ~205 |
 | Last Resort | 5.00% | ~202 |
 | Siegebreaker | 5.00% | ~202 |
 | Ghost of Falaise | 5.00% | ~202 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 673)
 | Going Overboard | 0.60% | ~24 |
 | Stroll in the Woods | 0.50% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,089 (Ranked 206)  
+Progressed: 4,091 (Ranked 206)  
 Completed: 11 (0.27%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 11 (0.27%) (Ranked 256)
 | 2023-12-20 | 4,066 | 11 |
 | 2023-12-21 | 4,079 | 11 |
 | 2023-12-22 | 4,086 | 11 |
-| 2023-12-23 | 4,089 | 11 |
+| 2023-12-23 | 4,091 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 522)  
 Sum: 28 (Ranked 536)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 333,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 386,
-  "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -795,9 +795,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3534,
+  "EOS_Progressed": 3536,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4695,6 +4695,11 @@
       "Time": "2023-12-23T06:04:01.6253914+00:00",
       "NumProgressed": 3534,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T08:04:33.4115153+00:00",
+      "NumProgressed": 3536,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4722,7 +4727,7 @@
       "Name": "Look Over There!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "BloodAndIron",
@@ -4874,7 +4879,7 @@
       "Name": "Not So Fast...",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "Kills_Bleed",
@@ -4882,7 +4887,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -4896,9 +4901,9 @@
       "ID": "Kills_Executioner",
       "SetID": "3jha1np",
       "Name": "Executioner",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 459
+      "UsersEstimate": 495
     },
     {
       "ID": "Kills_Exterminator",
@@ -4954,7 +4959,7 @@
       "Name": "An Ill Omen",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -5249,21 +5254,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3534,
+      "Progressed": 3536,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3534,
+      "Progressed": 3536,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-16T13:05:46.2808+00:00",
-  "LastChanged_Achievements": "2023-12-23T07:04:10.4279695+00:00",
+  "LastChanged_Achievements": "2023-12-23T08:04:33.411515+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:54.7152084+00:00",
-  "LastUpdate_Ratings": "2023-12-23T07:03:17.9520866+00:00",
-  "LastUpdate_Achievements": "2023-12-23T07:04:10.4280529+00:00"
+  "LastUpdate_Ratings": "2023-12-23T08:03:34.0166313+00:00",
+  "LastUpdate_Achievements": "2023-12-23T08:04:33.4115748+00:00"
 }

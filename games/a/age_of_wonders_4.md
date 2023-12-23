@@ -20,20 +20,20 @@ Rating: 4.62 (Ranked 373)
 | Valley of Wonders | 3.00% | ~181 |
 | In a Liege of Your Own | 3.00% | ~181 |
 | Intimidation Tactics | 3.00% | ~181 |
-| Return of the Wizard King | 2.00% | ~120 |
-| Enchanted Archipelago | 2.00% | ~120 |
-| Digging for Treasure | 2.00% | ~120 |
-| Preparation Is Everything | 2.00% | ~120 |
-| My Final Form | 2.00% | ~120 |
-| Fiery Friend | 2.00% | ~120 |
-| Impenetrable Fortress | 2.00% | ~120 |
-| Here be Dragons | 2.00% | ~120 |
-| Tipping the Scales | 2.00% | ~120 |
-| Mighty Hoard | 2.00% | ~120 |
-| Freed Lands of Manuhari | 2.00% | ~120 |
-| Sehiran Oasis | 2.00% | ~120 |
-| Chaos Surge | 2.00% | ~120 |
-| Spoils of War | 2.00% | ~120 |
+| Return of the Wizard King | 2.00% | ~121 |
+| Enchanted Archipelago | 2.00% | ~121 |
+| Digging for Treasure | 2.00% | ~121 |
+| Preparation Is Everything | 2.00% | ~121 |
+| My Final Form | 2.00% | ~121 |
+| Fiery Friend | 2.00% | ~121 |
+| Impenetrable Fortress | 2.00% | ~121 |
+| Here be Dragons | 2.00% | ~121 |
+| Tipping the Scales | 2.00% | ~121 |
+| Mighty Hoard | 2.00% | ~121 |
+| Freed Lands of Manuhari | 2.00% | ~121 |
+| Sehiran Oasis | 2.00% | ~121 |
+| Chaos Surge | 2.00% | ~121 |
+| Spoils of War | 2.00% | ~121 |
 | Arch Mage | 1.00% | ~60 |
 | The Creator | 1.00% | ~60 |
 | Eternal Lord | 1.00% | ~60 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 373)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,025 (Ranked 193)  
+Progressed: 6,029 (Ranked 193)  
 Completed: 7 (0.12%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 7 (0.12%) (Ranked 297)
 | 2023-12-20 | 5,911 | 7 |
 | 2023-12-21 | 5,945 | 7 |
 | 2023-12-22 | 6,001 | 7 |
-| 2023-12-23 | 6,025 | 7 |
+| 2023-12-23 | 6,029 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 482)  
 Sum: 113 (Ranked 449)  

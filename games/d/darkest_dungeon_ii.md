@@ -7,7 +7,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 9.00% | ~373 |
-| Lost and Found | 6.00% | ~248 |
+| Lost and Found | 6.00% | ~249 |
 | This guy... again? | 5.00% | ~207 |
 | This Belongs in a Museum | 4.00% | ~5,171 |
 | Creep and Sleep | 4.00% | ~5,171 |
@@ -22,6 +22,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Not Today! | 3.00% | ~3,878 |
 | Meat and Greet | 3.00% | ~3,878 |
 | Catch and Decease | 3.00% | ~3,878 |
+| It Happens | 3.00% | ~3,878 |
 | Rush Hour | 3.00% | ~3,878 |
 | To Grandmother's House | 3.00% | ~3,878 |
 | FNG | 3.00% | ~3,878 |
@@ -39,7 +40,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Deprogramming | 2.00% | ~2,585 |
 | Now Stay Dead | 2.00% | ~2,585 |
 | Reverse Banditry | 2.00% | ~2,585 |
-| It Happens | 2.00% | ~2,585 |
 | Spelunker | 2.00% | ~2,585 |
 | Merry Time | 2.00% | ~2,585 |
 | Harvest Festival | 2.00% | ~2,585 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,270 (Ranked 87)  
+Progressed: 129,274 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 3 (0.00%) (Ranked 386)
 | 2023-12-20 | 128,785 | 3 |
 | 2023-12-21 | 128,979 | 3 |
 | 2023-12-22 | 129,196 | 3 |
-| 2023-12-23 | 129,270 | 3 |
+| 2023-12-23 | 129,274 | 3 |
 ## Awards
 Max (Character Customization): 7,834  (Ranked 50)  
 Sum: 20,962 (Ranked 58)  

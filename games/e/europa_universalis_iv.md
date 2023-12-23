@@ -12,10 +12,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | Seriously?! | 0.30% | ~1,445 |
 | That is mine! | 0.30% | ~1,445 |
 | Victorious! | 0.30% | ~1,445 |
-| Brothers in Arms | 0.20% | ~963 |
-| Cold War | 0.20% | ~963 |
-| It's all about the money | 0.20% | ~963 |
-| True Catholic | 0.20% | ~963 |
+| Brothers in Arms | 0.20% | ~964 |
+| Cold War | 0.20% | ~964 |
+| It's all about the money | 0.20% | ~964 |
+| True Catholic | 0.20% | ~964 |
 | The 52 Garhs | 0.10% | ~482 |
 | I don't like sand | 0.10% | ~482 |
 | A Blessed Nation | 0.10% | ~482 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 481,722 (Ranked 40)  
+Progressed: 481,755 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -617,7 +617,7 @@ Completed: 1 (0.00%) (Ranked 386)
 | 2023-12-20 | 480,075 | 1 |
 | 2023-12-21 | 480,795 | 1 |
 | 2023-12-22 | 481,537 | 1 |
-| 2023-12-23 | 481,722 | 1 |
+| 2023-12-23 | 481,755 | 1 |
 ## Awards
 Max (Educational): 7,506  (Ranked 54)  
 Sum: 61,863 (Ranked 24)  

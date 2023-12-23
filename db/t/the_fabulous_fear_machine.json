@@ -4,8 +4,8 @@
   "ProductSlug": "the-fabulous-fear-machine-8e7c6b",
   "Ranking_EOS_Progress": 514,
   "Ranking_EOS_Completed": 386,
-  "Ranking_EOS_NewPlayers": 411,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 412,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-04T16:00:00+00:00",
     "PcReleaseDate": "2023-10-04T16:00:00+00:00",
@@ -411,9 +411,9 @@
       "ID": "18",
       "SetID": "d37idgg",
       "Name": "Jung\u0027s dream",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "19",
@@ -563,9 +563,9 @@
       "ID": "35",
       "SetID": "d37idgg",
       "Name": "Pulp! Where Monsters Dwell",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "36",
@@ -722,8 +722,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2023-12-23T07:04:32.1565546+00:00",
+  "LastChanged_Achievements": "2023-12-23T08:04:57.2631965+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:27.0664892+00:00",
-  "LastUpdate_Ratings": "2023-12-23T06:57:52.9896187+00:00",
-  "LastUpdate_Achievements": "2023-12-23T07:04:32.1565814+00:00"
+  "LastUpdate_Ratings": "2023-12-23T07:57:58.917497+00:00",
+  "LastUpdate_Achievements": "2023-12-23T08:04:57.2632228+00:00"
 }

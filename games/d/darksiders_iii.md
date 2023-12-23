@@ -8,9 +8,9 @@ Number of Ratings: 116  (23.09.2022)
 | ---- | ---------- | ----- |
 | Green with Envy | 78.00% | ~75 |
 | First of many… | 72.00% | ~69 |
-| Helping Hand | 68.00% | ~65 |
-| Increased Vigor | 63.00% | ~60 |
-| Fight Fire with Fire | 61.00% | ~59 |
+| Helping Hand | 70.00% | ~67 |
+| Increased Vigor | 64.00% | ~61 |
+| Fight Fire with Fire | 63.00% | ~60 |
 | Increased Capacity | 59.00% | ~57 |
 | Just the start | 55.00% | ~53 |
 | Perfect Storm | 50.00% | ~48 |

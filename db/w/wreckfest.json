@@ -5,10 +5,10 @@
   "Ranking_Rating": 879,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
-  "Ranking_EOS_Progress": 391,
+  "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 386,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 250,
+  "EOS_Progressed": 253,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 248,
+  "EOS_NewPlayers": 251,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -814,6 +814,11 @@
       "Time": "2023-12-23T06:08:47.5538137+00:00",
       "NumProgressed": 250,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T08:09:11.8758995+00:00",
+      "NumProgressed": 253,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -826,7 +831,7 @@
       "Name": "Look Mom, I Can Fly",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "CareerAllChallenges",
@@ -834,7 +839,7 @@
       "Name": "Highballer",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "CareerChamp1",
@@ -842,7 +847,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "CareerChamp2",
@@ -872,17 +877,17 @@
       "ID": "CareerComplete",
       "SetID": "5hd282c",
       "Name": "World Masters Champion",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "CareerFirstWin",
       "SetID": "5hd282c",
       "Name": "Storm Warning",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 101
     },
     {
       "ID": "CollectVehiclesA",
@@ -890,15 +895,15 @@
       "Name": "Wheeler Dealer",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "CollectVehiclesB",
       "SetID": "5hd282c",
       "Name": "Junk Collector",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 35
     },
     {
       "ID": "CreditsEarnedA",
@@ -914,7 +919,7 @@
       "Name": "Glutton For Punishment",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "LawnMowerTime",
@@ -938,7 +943,7 @@
       "Name": "Dirty Roller",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "PlayerRankB",
@@ -968,9 +973,9 @@
       "ID": "WreckOpponentsA",
       "SetID": "5hd282c",
       "Name": "Hating Them Tin Cans",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "WreckOpponentsBus",
@@ -985,7 +990,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 250,
+      "Progressed": 253,
       "Completed": 0
     }
   ],
@@ -993,8 +998,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-19T23:00:17.2400985+00:00",
-  "LastChanged_Achievements": "2023-12-23T07:08:45.9703726+00:00",
+  "LastChanged_Achievements": "2023-12-23T08:09:11.8758992+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:03.0967517+00:00",
-  "LastUpdate_Ratings": "2023-12-23T06:58:28.6541307+00:00",
-  "LastUpdate_Achievements": "2023-12-23T07:08:45.9703858+00:00"
+  "LastUpdate_Ratings": "2023-12-23T07:58:38.230505+00:00",
+  "LastUpdate_Achievements": "2023-12-23T08:09:11.8759114+00:00"
 }

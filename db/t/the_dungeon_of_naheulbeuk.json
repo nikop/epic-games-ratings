@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1489,10 +1489,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 529,
       "NumberOfAwardsMax": 250
+    },
+    {
+      "Time": "2023-12-23T07:58:23.9794788+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 530,
+      "NumberOfAwardsMax": 250
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 529,
+  "NumberOfAwards": 530,
   "NumberOfAwardsMax": 250,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1542,7 +1548,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1557,9 +1563,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 244132,
+  "EOS_Progressed": 244136,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1138,
+  "EOS_NewPlayers": 1136,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23332,6 +23338,11 @@
       "Time": "2023-12-23T07:10:01.6636809+00:00",
       "NumProgressed": 244132,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-23T08:10:35.5983654+00:00",
+      "NumProgressed": 244136,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -23391,7 +23402,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 17089
+      "UsersEstimate": 17090
     },
     {
       "ID": "Chapter2",
@@ -23791,7 +23802,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 87888
+      "UsersEstimate": 87889
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -23839,7 +23850,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24413
+      "UsersEstimate": 24414
     },
     {
       "ID": "FollowBraztok",
@@ -24046,21 +24057,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 244132,
+      "Progressed": 244136,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 244132,
+      "Progressed": 244136,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-12-22T20:58:23.6126046+00:00",
-  "LastChanged_Achievements": "2023-12-23T07:10:01.6636807+00:00",
+  "LastChanged": "2023-12-23T07:58:23.9794786+00:00",
+  "LastChanged_Achievements": "2023-12-23T08:10:35.5983649+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:08.5726178+00:00",
-  "LastUpdate_Ratings": "2023-12-23T06:58:16.0296285+00:00",
-  "LastUpdate_Achievements": "2023-12-23T07:10:01.6638242+00:00"
+  "LastUpdate_Ratings": "2023-12-23T07:58:23.9794792+00:00",
+  "LastUpdate_Achievements": "2023-12-23T08:10:35.5985143+00:00"
 }

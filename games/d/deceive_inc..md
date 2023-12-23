@@ -16,7 +16,7 @@ Rating: 4.58 (Ranked 457)
 | Assistant Accountant | 17.00% | ~3,254 |
 | You Only Live Twice | 16.00% | ~3,063 |
 | Fully Decked Out | 16.00% | ~3,063 |
-| A view to Win | 13.00% | ~2,488 |
+| A view to Win | 13.00% | ~2,489 |
 | The Living Portrait | 12.00% | ~2,297 |
 | Smells Like Trouble | 12.00% | ~2,297 |
 | My Motto, My Creed | 11.00% | ~2,106 |
@@ -42,7 +42,7 @@ Rating: 4.58 (Ranked 457)
 | Extraction Confusion | 0.20% | ~38 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,142 (Ranked 149)  
+Progressed: 19,143 (Ranked 149)  
 Completed: 4 (0.02%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 4 (0.02%) (Ranked 354)
 | 2023-12-20 | 19,116 | 4 |
 | 2023-12-21 | 19,127 | 4 |
 | 2023-12-22 | 19,134 | 4 |
-| 2023-12-23 | 19,142 | 4 |
+| 2023-12-23 | 19,143 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

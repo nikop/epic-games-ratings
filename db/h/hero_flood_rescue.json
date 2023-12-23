@@ -2,10 +2,10 @@
   "ID": "3156b81631d14a0b95b730e6f737c569",
   "Name": "Hero Flood Rescue",
   "ProductSlug": "hero-flood-rescue-3c03d4",
-  "Ranking_EOS_Progress": 814,
+  "Ranking_EOS_Progress": 815,
   "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-16T20:57:49.8196632+00:00",
-  "LastUpdate_Ratings": "2023-12-23T07:03:14.3861965+00:00",
-  "LastUpdate_Achievements": "2023-12-23T07:05:18.8615923+00:00"
+  "LastUpdate_Ratings": "2023-12-23T08:03:29.9619442+00:00",
+  "LastUpdate_Achievements": "2023-12-23T08:05:48.1851836+00:00"
 }

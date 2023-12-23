@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 332,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2024,
+  "EOS_Progressed": 2025,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 265,
+  "EOS_NewPlayers": 264,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5939,6 +5939,11 @@
       "Time": "2023-12-23T07:10:11.0448041+00:00",
       "NumProgressed": 2024,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-23T08:10:45.5730741+00:00",
+      "NumProgressed": 2025,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -6175,7 +6180,7 @@
       "Name": "New Recruit",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1781
+      "UsersEstimate": 1782
     },
     {
       "ID": "achievement_36",
@@ -6191,7 +6196,7 @@
       "Name": "Off to a good start",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1296
     },
     {
       "ID": "achievement_38",
@@ -6223,7 +6228,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "achievement_41",
@@ -6231,7 +6236,7 @@
       "Name": "Judge me by my size, do you?",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "achievement_42",
@@ -6255,7 +6260,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "achievement_45",
@@ -6389,9 +6394,9 @@
       "ID": "achievement_6",
       "SetID": "271ol84",
       "Name": "Great shot, kid!",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 344
+      "UsersEstimate": 324
     },
     {
       "ID": "achievement_60",
@@ -6454,13 +6459,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2024,
+      "Progressed": 2025,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2024,
+      "Progressed": 2025,
       "Completed": 1
     }
   ],
@@ -6468,8 +6473,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-23T07:10:11.0448039+00:00",
+  "LastChanged_Achievements": "2023-12-23T08:10:45.5730737+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.5169818+00:00",
-  "LastUpdate_Ratings": "2023-12-23T06:59:03.8152617+00:00",
-  "LastUpdate_Achievements": "2023-12-23T07:10:11.0448831+00:00"
+  "LastUpdate_Ratings": "2023-12-23T07:59:17.7403046+00:00",
+  "LastUpdate_Achievements": "2023-12-23T08:10:45.5731376+00:00"
 }

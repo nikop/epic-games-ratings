@@ -13,6 +13,7 @@ Number of Ratings: 67  (23.09.2022)
 | Hell's Forge | 1.00% | ~1 |
 | Mammon | 1.00% | ~1 |
 | Master of War | 1.00% | ~1 |
+| Good Deeds | 0.70% | ~1 |
 | Master of Strife | 0.70% | ~1 |
 | Mint II | 0.70% | ~1 |
 | The Dead Court | 0.70% | ~1 |
@@ -26,7 +27,6 @@ Number of Ratings: 67  (23.09.2022)
 | Demolition Derby | 0.00% | ~0 |
 | Full of Hell | 0.00% | ~0 |
 | Gatekeeper | 0.00% | ~0 |
-| Good Deeds | 0.00% | ~0 |
 | Infested | 0.00% | ~0 |
 | Mint III | 0.00% | ~0 |
 | Moloch | 0.00% | ~0 |
@@ -37,7 +37,7 @@ Number of Ratings: 67  (23.09.2022)
 | Walking Armory | 0.00% | ~0 |
 | Wicked Killington | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 145 (Ranked 434)  
+Progressed: 147 (Ranked 433)  
 Completed: 0 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -47,7 +47,7 @@ Completed: 0 (0.00%) (Ranked 386)
 | 2023-12-20 | 77 | 0 |
 | 2023-12-21 | 113 | 0 |
 | 2023-12-22 | 138 | 0 |
-| 2023-12-23 | 145 | 0 |
+| 2023-12-23 | 147 | 0 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 456)  
 Sum: 45 (Ranked 502)  

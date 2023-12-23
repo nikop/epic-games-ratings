@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -273,7 +273,7 @@
   "Tags": [],
   "EOS_Progressed": 1637,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 886,
+  "EOS_NewPlayers": 878,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2841,9 +2841,9 @@
       "ID": "achievement_1",
       "SetID": "18al4io",
       "Name": "Unforeseen",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 1424
+      "UsersEstimate": 1441
     },
     {
       "ID": "achievement_10",
@@ -3226,8 +3226,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-12-22T20:02:26.8397171+00:00",
-  "LastChanged_Achievements": "2023-12-23T07:09:49.1553967+00:00",
+  "LastChanged_Achievements": "2023-12-23T08:10:21.7975714+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:30.3074422+00:00",
-  "LastUpdate_Ratings": "2023-12-23T07:02:52.4048048+00:00",
-  "LastUpdate_Achievements": "2023-12-23T07:09:49.1554411+00:00"
+  "LastUpdate_Ratings": "2023-12-23T08:03:05.1213198+00:00",
+  "LastUpdate_Achievements": "2023-12-23T08:10:21.7976087+00:00"
 }

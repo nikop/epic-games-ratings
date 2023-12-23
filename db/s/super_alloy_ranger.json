@@ -4,8 +4,8 @@
   "ProductSlug": "super-alloy-ranger-4252cc",
   "Ranking_EOS_Progress": 440,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
     "PcReleaseDate": "2022-09-15T07:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 136,
+  "EOS_Progressed": 137,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.74,
+  "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:52:20.3185117+00:00",
@@ -666,6 +666,11 @@
       "Time": "2023-12-22T16:07:52.5941808+00:00",
       "NumProgressed": 136,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-23T08:06:39.3522124+00:00",
+      "NumProgressed": 137,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -803,9 +808,9 @@
       "ID": "Achi_17",
       "SetID": "51a97k7",
       "Name": "Space Warrior: Prologue",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "Achi_18",
@@ -827,7 +832,7 @@
       "ID": "Achi_20",
       "SetID": "51a97k7",
       "Name": "Freshen Up",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 15,
       "UsersEstimate": 73
     },
@@ -869,7 +874,7 @@
       "Name": "Mr. Want It All",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Achi_26",
@@ -939,9 +944,9 @@
       "ID": "Achi_34",
       "SetID": "51a97k7",
       "Name": "Hydrophobia",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 50
+      "UsersEstimate": 49
     },
     {
       "ID": "Achi_35",
@@ -965,7 +970,7 @@
       "Name": "Get to the Point",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Achi_38",
@@ -989,7 +994,7 @@
       "Name": "Toe to Toe",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Achi_41",
@@ -1045,7 +1050,7 @@
       "Name": "Phew!",
       "Percentage": 15,
       "XP": 35,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Achi_48",
@@ -1076,7 +1081,7 @@
     {
       "ID": "51a97k7",
       "IsBase": true,
-      "Progressed": 136,
+      "Progressed": 137,
       "Completed": 1
     }
   ],
@@ -1084,8 +1089,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-12-23T07:06:07.4664919+00:00",
+  "LastChanged_Achievements": "2023-12-23T08:06:39.3522121+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:25.2099775+00:00",
-  "LastUpdate_Ratings": "2023-12-23T06:58:57.5182755+00:00",
-  "LastUpdate_Achievements": "2023-12-23T07:06:07.4665303+00:00"
+  "LastUpdate_Ratings": "2023-12-23T07:59:11.3338161+00:00",
+  "LastUpdate_Achievements": "2023-12-23T08:06:39.3522477+00:00"
 }

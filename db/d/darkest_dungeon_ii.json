@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10044,9 +10044,9 @@
       "Count": 1044
     }
   ],
-  "EOS_Progressed": 129270,
+  "EOS_Progressed": 129274,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1697,
+  "EOS_NewPlayers": 1686,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36379,6 +36379,11 @@
       "Time": "2023-12-23T07:09:27.248853+00:00",
       "NumProgressed": 129270,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-23T08:09:57.7940329+00:00",
+      "NumProgressed": 129274,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36660,9 +36665,9 @@
       "ID": "combat_party_wipe_any_run_boss",
       "SetID": "64l4lke",
       "Name": "It Happens",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2585
+      "UsersEstimate": 3878
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -36990,7 +36995,7 @@
       "Name": "Lost and Found",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -37021,21 +37026,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 129270,
+      "Progressed": 129274,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 4139,
+      "Progressed": 4143,
       "Completed": 807
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-23T03:02:58.6812207+00:00",
-  "LastChanged_Achievements": "2023-12-23T07:09:27.2488528+00:00",
+  "LastChanged_Achievements": "2023-12-23T08:09:57.7940327+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-23T06:57:13.7850237+00:00",
-  "LastUpdate_Achievements": "2023-12-23T07:09:27.2489993+00:00"
+  "LastUpdate_Ratings": "2023-12-23T07:57:14.2348257+00:00",
+  "LastUpdate_Achievements": "2023-12-23T08:09:57.7942219+00:00"
 }

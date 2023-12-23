@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewPlayers": 59,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8977,9 +8977,9 @@
       "Count": 3583
     }
   ],
-  "EOS_Progressed": 243594,
+  "EOS_Progressed": 243611,
   "EOS_Completed": 2556,
-  "EOS_NewPlayers": 2684,
+  "EOS_NewPlayers": 2693,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -36847,6 +36847,11 @@
       "Time": "2023-12-23T07:10:14.9516907+00:00",
       "NumProgressed": 243594,
       "NumCompleted": 2556
+    },
+    {
+      "Time": "2023-12-23T08:10:49.5648646+00:00",
+      "NumProgressed": 243611,
+      "NumCompleted": 2556
     }
   ],
   "TotalAchievements": 546,
@@ -41178,7 +41183,7 @@
       "Name": "The Overgrown Grove",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "objective_completed_673",
@@ -41202,7 +41207,7 @@
       "Name": "Mental Gymnastics",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "objective_completed_860",
@@ -41225,21 +41230,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 209868,
-      "Completed": 4056
+      "Progressed": 209885,
+      "Completed": 4057
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 243594,
+      "Progressed": 243611,
       "Completed": 2556
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-23T00:03:25.4113465+00:00",
-  "LastChanged_Achievements": "2023-12-23T07:10:14.9516906+00:00",
+  "LastChanged_Achievements": "2023-12-23T08:10:49.5648643+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:52.1318001+00:00",
-  "LastUpdate_Ratings": "2023-12-23T07:02:58.7501673+00:00",
-  "LastUpdate_Achievements": "2023-12-23T07:10:14.9539212+00:00"
+  "LastUpdate_Ratings": "2023-12-23T08:03:12.0598868+00:00",
+  "LastUpdate_Achievements": "2023-12-23T08:10:49.5670567+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 303,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -1661,9 +1661,9 @@
       "ID": "12_roll",
       "SetID": "chb1m60",
       "Name": "Let\u0027s roll!",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 156
     },
     {
       "ID": "13_bunkrupt",
@@ -1837,9 +1837,9 @@
       "ID": "34_needtothink",
       "SetID": "chb1m60",
       "Name": "Need to think",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 242
+      "UsersEstimate": 248
     },
     {
       "ID": "35_achtung",
@@ -1893,8 +1893,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-12-18T07:02:31.8741871+00:00",
-  "LastChanged_Achievements": "2023-12-23T07:03:42.8239732+00:00",
+  "LastChanged_Achievements": "2023-12-23T08:04:03.1108404+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:44.2539038+00:00",
-  "LastUpdate_Ratings": "2023-12-23T06:59:27.8012094+00:00",
-  "LastUpdate_Achievements": "2023-12-23T07:03:42.8240042+00:00"
+  "LastUpdate_Ratings": "2023-12-23T07:59:45.1457367+00:00",
+  "LastUpdate_Achievements": "2023-12-23T08:04:03.1108915+00:00"
 }

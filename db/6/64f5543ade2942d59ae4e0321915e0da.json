@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 405,
   "Ranking_EOS_Completed": 219,
   "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 214,
+  "EOS_Progressed": 215,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
@@ -879,6 +879,11 @@
       "Time": "2023-12-23T07:04:07.7527648+00:00",
       "NumProgressed": 214,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-23T08:04:30.3465324+00:00",
+      "NumProgressed": 215,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -899,7 +904,7 @@
       "Name": "Empire",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "AC_ALL_MONEYSACKS",
@@ -945,9 +950,9 @@
       "ID": "AC_BLACKJACK_GAMES_1",
       "SetID": "16i2akc",
       "Name": "Gambler",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "AC_BLACKJACK_GAMES_2",
@@ -1001,9 +1006,9 @@
       "ID": "AC_COMBO_1",
       "SetID": "16i2akc",
       "Name": "Pack",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 56
     },
     {
       "ID": "AC_COMBO_2",
@@ -1035,7 +1040,7 @@
       "Name": "Corpse",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "AC_DEATH_2",
@@ -1059,7 +1064,7 @@
       "Name": "Killer",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -1083,31 +1088,31 @@
       "Name": "Excursion",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "AC_DISTANCE_2",
       "SetID": "16i2akc",
       "Name": "Journey",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 96
+      "UsersEstimate": 99
     },
     {
       "ID": "AC_DISTANCE_3",
       "SetID": "16i2akc",
       "Name": "Voyage",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 45,
-      "UsersEstimate": 64
+      "UsersEstimate": 67
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
       "SetID": "16i2akc",
       "Name": "Player",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 62
     },
     {
       "ID": "AC_FLASHBACK_01",
@@ -1129,9 +1134,9 @@
       "ID": "AC_FLASHBACK_03",
       "SetID": "16i2akc",
       "Name": "Schooling",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "AC_FULL_MAP",
@@ -1147,7 +1152,7 @@
       "Name": "Winner",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "AC_MUSIC_CONCERT",
@@ -1203,7 +1208,7 @@
       "Name": "Shot",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "AC_SNIPER_MAX",
@@ -1226,14 +1231,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 214,
+      "Progressed": 215,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-23T07:04:07.7527646+00:00",
+  "LastChanged_Achievements": "2023-12-23T08:04:30.346532+00:00",
   "LastUpdate_AppInfo": "2023-12-19T20:57:15.8211494+00:00",
-  "LastUpdate_Ratings": "2023-12-23T06:58:05.3574509+00:00",
-  "LastUpdate_Achievements": "2023-12-23T07:04:07.7527883+00:00"
+  "LastUpdate_Ratings": "2023-12-23T07:58:12.7653917+00:00",
+  "LastUpdate_Achievements": "2023-12-23T08:04:30.3465574+00:00"
 }

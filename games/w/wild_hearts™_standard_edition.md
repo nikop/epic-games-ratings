@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Land of the Rising Sun | 99.00% | ~786 |
 | Hidden History | 71.00% | ~564 |
-| Commencing of Quests | 61.00% | ~484 |
+| Commencing of Quests | 62.00% | ~492 |
 | Budding Conjuror | 60.00% | ~476 |
 | Man-Machine Master | 49.00% | ~389 |
 | Mountain Splitter | 48.00% | ~381 |
@@ -41,7 +41,7 @@
 | Quintessence of Form | 15.00% | ~119 |
 | Karakuri Minato | 15.00% | ~119 |
 | Canyon of Karakuri | 14.00% | ~111 |
-| Jack of All Trades | 12.00% | ~95 |
+| Jack of All Trades | 13.00% | ~103 |
 | Karakuri Fortress | 11.00% | ~87 |
 | Haven Hunter | 11.00% | ~87 |
 | Volatile Vocation | 10.00% | ~79 |

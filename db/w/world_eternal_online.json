@@ -2,10 +2,10 @@
   "ID": "3d0b855e90094ada96a8fa8027f11eda",
   "Name": "World Eternal Online",
   "ProductSlug": "world-eternal-online-f5e658",
-  "Ranking_EOS_Progress": 814,
+  "Ranking_EOS_Progress": 815,
   "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-27T16:00:00+00:00",
     "PcReleaseDate": "2023-02-02T05:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-27T01:44:40.6439088+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:14.0318411+00:00",
-  "LastUpdate_Ratings": "2023-12-23T07:03:14.1258721+00:00",
-  "LastUpdate_Achievements": "2023-12-23T07:06:24.4401855+00:00"
+  "LastUpdate_Ratings": "2023-12-23T08:03:29.6788362+00:00",
+  "LastUpdate_Achievements": "2023-12-23T08:08:27.5347852+00:00"
 }

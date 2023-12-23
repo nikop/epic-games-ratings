@@ -2,10 +2,10 @@
   "ID": "728aba5ceb3d4159a96e06ff2edc32f5",
   "Name": "Panic Room 2: Hide and Seek",
   "ProductSlug": "panic-room-2-hide-and-seek-41dec9",
-  "Ranking_EOS_Progress": 814,
+  "Ranking_EOS_Progress": 815,
   "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-18T13:00:00.996+00:00",
     "PcReleaseDate": "2023-12-18T13:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-19T13:57:26.4065444+00:00",
   "LastUpdate_AppInfo": "2023-12-18T13:03:13.8815275+00:00",
-  "LastUpdate_Ratings": "2023-12-23T06:59:32.9813524+00:00",
-  "LastUpdate_Achievements": "2023-12-23T07:05:22.0297779+00:00"
+  "LastUpdate_Ratings": "2023-12-23T07:59:51.0772313+00:00",
+  "LastUpdate_Achievements": "2023-12-23T08:05:51.545362+00:00"
 }

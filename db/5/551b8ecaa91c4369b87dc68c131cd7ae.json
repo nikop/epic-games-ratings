@@ -2,10 +2,10 @@
   "ID": "551b8ecaa91c4369b87dc68c131cd7ae",
   "Name": "Project Apidom",
   "ProductSlug": "project-apidom-8d4585",
-  "Ranking_EOS_Progress": 814,
+  "Ranking_EOS_Progress": 815,
   "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2024-03-31T00:00:00+00:00",
     "PcReleaseDate": "2023-08-27T21:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-18T11:57:11.1073502+00:00",
-  "LastUpdate_Ratings": "2023-12-23T06:59:34.353214+00:00",
-  "LastUpdate_Achievements": "2023-12-23T07:05:23.6082961+00:00"
+  "LastUpdate_Ratings": "2023-12-23T07:59:52.6540934+00:00",
+  "LastUpdate_Achievements": "2023-12-23T08:05:53.2882575+00:00"
 }

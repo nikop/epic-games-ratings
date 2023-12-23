@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Clean Sweep | 94.00% | ~408 |
-| Scavenger | 73.00% | ~317 |
+| Scavenger | 74.00% | ~321 |
 | Line of Duty | 72.00% | ~312 |
 | Gunner | 57.00% | ~247 |
-| DocKing | 45.00% | ~195 |
-| What-A-Shot | 43.00% | ~187 |
+| DocKing | 46.00% | ~200 |
+| What-A-Shot | 44.00% | ~191 |
 | Batteries Included | 38.00% | ~165 |
 | Death from Above | 34.00% | ~148 |
 | Hull King | 26.00% | ~113 |

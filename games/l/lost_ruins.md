@@ -10,7 +10,7 @@
 | Boss Killer | 23.00% | ~136 |
 | The Fallen | 20.00% | ~118 |
 | Artifact Collector | 19.00% | ~112 |
-| Trap Master | 18.00% | ~107 |
+| Trap Master | 19.00% | ~112 |
 | Ghost Buster | 15.00% | ~89 |
 | Iconoclasm | 15.00% | ~89 |
 | Reincarnation | 15.00% | ~89 |
@@ -23,7 +23,7 @@
 | Money Swag | 8.00% | ~47 |
 | Oops | 7.00% | ~41 |
 | Shield Crusher | 7.00% | ~41 |
-| Treasure Hunter | 6.00% | ~36 |
+| Treasure Hunter | 7.00% | ~41 |
 | Explorer | 5.00% | ~30 |
 | Trio | 5.00% | ~30 |
 | Pyromancer | 4.00% | ~24 |

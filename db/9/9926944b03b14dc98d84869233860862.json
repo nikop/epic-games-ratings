@@ -2,10 +2,10 @@
   "ID": "9926944b03b14dc98d84869233860862",
   "Name": "chaosMetaverse",
   "ProductSlug": "chaosmetaverse-fd04ed",
-  "Ranking_EOS_Progress": 814,
+  "Ranking_EOS_Progress": 815,
   "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-03T16:00:00+00:00",
     "PcReleaseDate": "2023-10-03T16:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-16T13:57:08.1299204+00:00",
-  "LastUpdate_Ratings": "2023-12-23T06:58:43.5925332+00:00",
-  "LastUpdate_Achievements": "2023-12-23T07:03:52.1726521+00:00"
+  "LastUpdate_Ratings": "2023-12-23T07:58:55.3167157+00:00",
+  "LastUpdate_Achievements": "2023-12-23T08:04:13.2400163+00:00"
 }

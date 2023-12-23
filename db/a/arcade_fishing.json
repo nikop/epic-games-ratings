@@ -2,10 +2,10 @@
   "ID": "32484765a2a642649a1ebdce28b924d2",
   "Name": "Arcade Fishing",
   "ProductSlug": "arcade-fishing-77ba80",
-  "Ranking_EOS_Progress": 814,
+  "Ranking_EOS_Progress": 815,
   "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-31T00:00:00+00:00",
     "PcReleaseDate": "2023-06-30T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-17T01:50:00.8565291+00:00",
-  "LastUpdate_Ratings": "2023-12-23T07:03:27.9457937+00:00",
-  "LastUpdate_Achievements": "2023-12-23T07:05:12.9066956+00:00"
+  "LastUpdate_Ratings": "2023-12-23T08:03:44.8265624+00:00",
+  "LastUpdate_Achievements": "2023-12-23T08:05:41.575531+00:00"
 }

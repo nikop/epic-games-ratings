@@ -2,10 +2,10 @@
   "ID": "f49430f2e78a414ba9d025122f00ffd8",
   "Name": "Halloween World",
   "ProductSlug": "halloween-world-187b24",
-  "Ranking_EOS_Progress": 814,
+  "Ranking_EOS_Progress": 815,
   "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-13T10:00:00+00:00",
     "PcReleaseDate": "2023-10-13T10:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-15T19:00:36.5308133+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:39.7301109+00:00",
-  "LastUpdate_Ratings": "2023-12-23T06:57:49.9439278+00:00",
-  "LastUpdate_Achievements": "2023-12-23T07:04:40.8045618+00:00"
+  "LastUpdate_Ratings": "2023-12-23T07:57:55.4698249+00:00",
+  "LastUpdate_Achievements": "2023-12-23T08:05:06.6030259+00:00"
 }

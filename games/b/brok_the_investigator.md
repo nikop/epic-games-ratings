@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Introduction completed | 84.00% | ~26 |
-| Chapter 1 | 45.00% | ~14 |
+| Chapter 1 | 48.00% | ~15 |
 | It's In My Nature | 45.00% | ~14 |
 | Chapter 2 | 42.00% | ~13 |
 | Chapter 3 | 42.00% | ~13 |
@@ -34,7 +34,7 @@
 | Toilets Tormentor | 0.00% | ~0 |
 | Worst. Investigator. Ever. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31 (Ranked 569)  
+Progressed: 31 (Ranked 570)  
 Completed: 0 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |

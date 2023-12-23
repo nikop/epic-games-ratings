@@ -1,7 +1,7 @@
 # Lords of the Fallen
 [Store](https://store.epicgames.com/en-US/p/lords-of-the-fallen)  
 [View Rawdata](../../db/t/the_lords_of_the_fallen.json)  
-Rating: 4.25 (Ranked 899)  
+Rating: 4.24 (Ranked 904)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -69,7 +69,7 @@ Rating: 4.25 (Ranked 899)
 | A Rest Among the Dead | 0.10% | ~7 |
 | A Trace of Venom | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,952 (Ranked 189)  
+Progressed: 6,966 (Ranked 189)  
 Completed: 2 (0.03%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,14 +135,14 @@ Completed: 2 (0.03%) (Ranked 346)
 | 2023-12-20 | 6,125 | 2 |
 | 2023-12-21 | 6,478 | 2 |
 | 2023-12-22 | 6,826 | 2 |
-| 2023-12-23 | 6,952 | 2 |
+| 2023-12-23 | 6,966 | 2 |
 ## Awards
-Max (Character Customization): 251  (Ranked 273)  
-Sum: 609 (Ranked 315)  
-Diff (max vs sum): -42  
+Max (Character Customization): 272  (Ranked 266)  
+Sum: 630 (Ranked 313)  
+Diff (max vs sum): -47  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 251 |
+| This game has Inclusive Character Customization | 272 |
 | This game has Great Boss Battles | 181 |
 | This game has Amazing Storytelling | 31 |
 | This game has Competitive Players | 30 |
@@ -220,3 +220,4 @@ Diff (max vs sum): -42
 | 2023-12-20 | 4.22 | 228 | 594 |
 | 2023-12-21 | 4.23 | 237 | 610 |
 | 2023-12-22 | 4.25 | 251 | 631 |
+| 2023-12-23 | 4.24 | 272 | 630 |

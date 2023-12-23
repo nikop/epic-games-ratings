@@ -2,10 +2,10 @@
   "ID": "ec8a01641ab7453d9abae814727d5171",
   "Name": "Police Car Simulator",
   "ProductSlug": "police-car-simulator-d57d15",
-  "Ranking_EOS_Progress": 814,
+  "Ranking_EOS_Progress": 815,
   "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2022-12-29T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-01T17:00:04.066248+00:00",
   "LastUpdate_AppInfo": "2023-12-22T02:57:08.3186565+00:00",
-  "LastUpdate_Ratings": "2023-12-23T06:57:27.7979929+00:00",
-  "LastUpdate_Achievements": "2023-12-23T07:08:38.186998+00:00"
+  "LastUpdate_Ratings": "2023-12-23T07:57:31.2155777+00:00",
+  "LastUpdate_Achievements": "2023-12-23T08:09:03.4430728+00:00"
 }

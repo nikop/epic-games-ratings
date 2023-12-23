@@ -12,14 +12,14 @@ Number of Ratings: 28  (23.09.2022)
 | Pangs of conscience | 45.00% | ~259 |
 | Living it large! | 45.00% | ~259 |
 | Collector | 44.00% | ~253 |
-| Need to think | 42.00% | ~242 |
+| Need to think | 43.00% | ~248 |
 | Completely nuts! | 41.00% | ~236 |
 | Just in time! | 34.00% | ~196 |
 | Europe | 33.00% | ~190 |
 | Madness! | 31.00% | ~179 |
 | It's no coincidence. | 29.00% | ~167 |
+| Let's roll! | 27.00% | ~156 |
 | Philatelist | 26.00% | ~150 |
-| Let's roll! | 26.00% | ~150 |
 | Ouroboros | 25.00% | ~144 |
 | Non Stop! | 24.00% | ~138 |
 | Foreman | 21.00% | ~121 |

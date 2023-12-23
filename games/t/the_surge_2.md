@@ -5,20 +5,20 @@ Rating: 4.26 (Ranked 888)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 79.00% | ~1,853 |
-| Don't I Know You...? | 76.00% | ~1,782 |
-| Jailbreak | 65.00% | ~1,524 |
-| HEADSHOT! | 38.00% | ~891 |
-| Suited and Booted | 38.00% | ~891 |
+| Rigged And Ready | 79.00% | ~1,854 |
+| Don't I Know You...? | 76.00% | ~1,784 |
+| Jailbreak | 65.00% | ~1,526 |
+| HEADSHOT! | 38.00% | ~892 |
+| Suited and Booted | 38.00% | ~892 |
 | Sleeping With The Fishes | 35.00% | ~821 |
 | Overheated | 30.00% | ~704 |
 | High Performance | 30.00% | ~704 |
 | Powered Up | 28.00% | ~657 |
-| Studied The Blade | 25.00% | ~586 |
-| Home Invasion | 23.00% | ~539 |
+| Studied The Blade | 25.00% | ~587 |
+| Home Invasion | 23.00% | ~540 |
 | Luminary | 22.00% | ~516 |
 | It's a Trap | 22.00% | ~516 |
-| True Survivor | 21.00% | ~492 |
+| True Survivor | 21.00% | ~493 |
 | Offensive Defense | 20.00% | ~469 |
 | Shocking | 20.00% | ~469 |
 | Court Martial | 19.00% | ~446 |
@@ -32,11 +32,11 @@ Rating: 4.26 (Ranked 888)
 | Where It All Began | 13.00% | ~305 |
 | Risk Tolerant | 13.00% | ~305 |
 | What A Catchy Song | 13.00% | ~305 |
-| Corrupted Beauty | 12.00% | ~281 |
-| Marked For Success | 12.00% | ~281 |
-| Sorry, Didn't See You There | 12.00% | ~281 |
-| Stimulating The Local Economy | 10.00% | ~234 |
-| Triplets | 10.00% | ~234 |
+| Corrupted Beauty | 12.00% | ~282 |
+| Marked For Success | 12.00% | ~282 |
+| Sorry, Didn't See You There | 12.00% | ~282 |
+| Stimulating The Local Economy | 10.00% | ~235 |
+| Triplets | 10.00% | ~235 |
 | Denying Prophecy | 9.00% | ~211 |
 | A Little Banged Up | 8.00% | ~188 |
 | Following In Their Footsteps | 8.00% | ~188 |
@@ -63,7 +63,7 @@ Rating: 4.26 (Ranked 888)
 | Three Birds With One Stone | 1.00% | ~23 |
 | The Easy Way Out | 1.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,345 (Ranked 229)  
+Progressed: 2,347 (Ranked 229)  
 Completed: 13 (0.55%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 13 (0.55%) (Ranked 206)
 | 2023-12-20 | 2,314 | 13 |
 | 2023-12-21 | 2,329 | 13 |
 | 2023-12-22 | 2,340 | 13 |
-| 2023-12-23 | 2,345 | 13 |
+| 2023-12-23 | 2,347 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
