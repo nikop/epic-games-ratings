@@ -5,30 +5,30 @@ Rating: 4.20 (Ranked 937)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 16.00% | ~3,017 |
-| The Outer Way | 16.00% | ~3,017 |
-| Get a Grip | 15.00% | ~2,829 |
-| Paper Jams | 15.00% | ~2,829 |
-| Desperate Times | 15.00% | ~2,829 |
-| Chew 'Em Up | 12.00% | ~2,263 |
-| Float Like A Butterfly | 12.00% | ~2,263 |
-| Reforged | 11.00% | ~2,074 |
-| Workplace Hazard | 10.00% | ~1,886 |
-| If the SHU Fits... | 10.00% | ~1,886 |
+| Flesh Wound | 16.00% | ~3,019 |
+| The Outer Way | 16.00% | ~3,019 |
+| Get a Grip | 15.00% | ~2,830 |
+| Paper Jams | 15.00% | ~2,830 |
+| Desperate Times | 15.00% | ~2,830 |
+| Chew 'Em Up | 12.00% | ~2,264 |
+| Float Like A Butterfly | 12.00% | ~2,264 |
+| Reforged | 11.00% | ~2,075 |
+| Workplace Hazard | 10.00% | ~1,887 |
+| If the SHU Fits... | 10.00% | ~1,887 |
 | Without A Paddle | 8.00% | ~1,509 |
-| Two Heads Are Better Than One | 7.00% | ~1,320 |
-| Terminated | 7.00% | ~1,320 |
-| In the Pipe, Five by Five | 7.00% | ~1,320 |
-| Crash Site | 7.00% | ~1,320 |
-| Power Up | 7.00% | ~1,320 |
-| Giving Back | 6.00% | ~1,131 |
-| You Need a Gun | 6.00% | ~1,131 |
-| What Lies Beneath | 6.00% | ~1,131 |
-| Full Circle | 6.00% | ~1,131 |
-| Keep Fighting | 6.00% | ~407 |
+| In the Pipe, Five by Five | 8.00% | ~1,509 |
+| Two Heads Are Better Than One | 7.00% | ~1,321 |
+| Terminated | 7.00% | ~1,321 |
+| Crash Site | 7.00% | ~1,321 |
+| Power Up | 7.00% | ~1,321 |
+| Giving Back | 6.00% | ~1,132 |
+| You Need a Gun | 6.00% | ~1,132 |
+| What Lies Beneath | 6.00% | ~1,132 |
+| Full Circle | 6.00% | ~1,132 |
+| Keep Fighting | 6.00% | ~408 |
 | I Do Belong Here | 5.00% | ~943 |
-| It's Time | 5.00% | ~339 |
-| The Commonality | 4.00% | ~754 |
+| It's Time | 5.00% | ~340 |
+| The Commonality | 4.00% | ~755 |
 | In Striking Distance | 3.00% | ~566 |
 | One Last Job | 2.00% | ~136 |
 | Armed to the Teeth | 1.00% | ~68 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 937)
 | Bear Trap | 0.10% | ~7 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,857 (Ranked 151)  
+Progressed: 18,866 (Ranked 151)  
 Completed: 82 (0.43%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 82 (0.43%) (Ranked 225)
 | 2023-12-20 | 18,301 | 82 |
 | 2023-12-21 | 18,465 | 82 |
 | 2023-12-22 | 18,670 | 82 |
-| 2023-12-23 | 18,857 | 82 |
+| 2023-12-23 | 18,866 | 82 |
 ## Awards
 Max (Amazing Characters): 97  (Ranked 377)  
 Sum: 556 (Ranked 324)  

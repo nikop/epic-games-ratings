@@ -11,8 +11,8 @@
 | Aboard the Sea Bird | 31.00% | ~89 |
 | Elephant in the room | 31.00% | ~89 |
 | Dark and stinky | 30.00% | ~86 |
+| Sneak in, sneak out | 26.00% | ~74 |
 | Is this the end? | 25.00% | ~72 |
-| Sneak in, sneak out | 25.00% | ~72 |
 | A gift horse | 25.00% | ~72 |
 | You sssaved me | 24.00% | ~69 |
 | Say hello to my little friends | 21.00% | ~60 |
@@ -46,8 +46,8 @@
 | Force of nature | 0.00% | ~0 |
 | Save it for a Rainier day | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 286 (Ranked 380)  
-Completed: 0 (0.00%) (Ranked 385)  
+Progressed: 286 (Ranked 381)  
+Completed: 0 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

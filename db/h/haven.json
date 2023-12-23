@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1743,
+  "EOS_Progressed": 1745,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -2823,6 +2823,11 @@
       "Time": "2023-12-23T16:06:17.3536432+00:00",
       "NumProgressed": 1743,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-23T20:06:08.7510926+00:00",
+      "NumProgressed": 1745,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -2834,7 +2839,7 @@
       "Name": "Lovebirds",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "10",
@@ -2850,7 +2855,7 @@
       "Name": "Strike!",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "12",
@@ -2858,7 +2863,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "13",
@@ -2898,7 +2903,7 @@
       "Name": "Balding bloot!",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 1290
+      "UsersEstimate": 1291
     },
     {
       "ID": "18",
@@ -2962,7 +2967,7 @@
       "Name": "In my shoes",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "25",
@@ -2986,7 +2991,7 @@
       "Name": "A love supreme",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "3",
@@ -2994,7 +2999,7 @@
       "Name": "Hug therapy",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "30",
@@ -3024,9 +3029,9 @@
       "ID": "4",
       "SetID": "n50no0",
       "Name": "Head in the clouds",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 209
     },
     {
       "ID": "5",
@@ -3050,7 +3055,7 @@
       "Name": "Ain\u0027t no mountain high enough",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "8",
@@ -3058,7 +3063,7 @@
       "Name": "Over my dead body",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "9",
@@ -3073,15 +3078,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1743,
+      "Progressed": 1745,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-23T19:06:09.5655023+00:00",
+  "LastChanged_Achievements": "2023-12-23T20:06:08.7510924+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.3116727+00:00",
-  "LastUpdate_Ratings": "2023-12-23T18:57:12.3567673+00:00",
-  "LastUpdate_Achievements": "2023-12-23T19:06:09.5655298+00:00"
+  "LastUpdate_Ratings": "2023-12-23T19:57:23.8045477+00:00",
+  "LastUpdate_Achievements": "2023-12-23T20:06:08.7511212+00:00"
 }

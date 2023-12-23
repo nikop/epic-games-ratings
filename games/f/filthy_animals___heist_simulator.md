@@ -9,13 +9,13 @@
 | Supermart Heisted | 2.00% | ~173 |
 | Sewer Objectives Complete | 1.00% | ~87 |
 | Bank Heisted | 0.60% | ~52 |
-| Crocodile Maxed Out | 0.20% | ~17 |
 | Nuclear Plant Heisted | 0.20% | ~17 |
 | All Objectives Complete | 0.10% | ~9 |
 | All Gold Chest Slots Unlocked | 0.10% | ~9 |
 | Bandit Camp Heisted | 0.10% | ~9 |
 | Bank Objectives Complete | 0.10% | ~9 |
 | Chicken Maxed Out | 0.10% | ~9 |
+| Crocodile Maxed Out | 0.10% | ~9 |
 | All Weapons Purchased | 0.10% | ~9 |
 | Military Base Heisted | 0.10% | ~9 |
 | Monkey Maxed Out | 0.10% | ~9 |
@@ -33,8 +33,8 @@
 | Temple Objectives Complete | 0.00% | ~0 |
 | Temple Heisted | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,665 (Ranked 180)  
-Completed: 0 (0.00%) (Ranked 385)  
+Progressed: 8,667 (Ranked 180)  
+Completed: 0 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -273,7 +273,7 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-19 | 8,633 | 0 |
 | 2023-12-21 | 8,637 | 0 |
 | 2023-12-22 | 8,654 | 0 |
-| 2023-12-23 | 8,665 | 0 |
+| 2023-12-23 | 8,667 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

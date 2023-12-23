@@ -3,9 +3,9 @@
   "Name": "Hunt the Night",
   "ProductSlug": "hunt-the-night-3f1eb5",
   "Ranking_EOS_Progress": 618,
-  "Ranking_EOS_Completed": 385,
+  "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-04-12T22:00:00+00:00",
     "PcReleaseDate": "2023-04-12T22:00:00+00:00",
@@ -235,8 +235,8 @@
   "FirstSeenRating": "2023-04-14T09:57:55.2658892+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:14.1963225+00:00",
   "LastChanged": "2023-04-14T09:57:55.2658892+00:00",
-  "LastChanged_Achievements": "2023-12-23T18:06:33.1290757+00:00",
+  "LastChanged_Achievements": "2023-12-23T20:03:11.6829338+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.7774895+00:00",
-  "LastUpdate_Ratings": "2023-12-23T18:59:07.8352226+00:00",
-  "LastUpdate_Achievements": "2023-12-23T18:06:33.1290875+00:00"
+  "LastUpdate_Ratings": "2023-12-23T19:59:14.5940416+00:00",
+  "LastUpdate_Achievements": "2023-12-23T20:03:11.6829504+00:00"
 }

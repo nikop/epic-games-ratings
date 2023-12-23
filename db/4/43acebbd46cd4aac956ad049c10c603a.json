@@ -6,9 +6,9 @@
   "Ranking_Popularity": 395,
   "Ranking_PopularitySum": 469,
   "Ranking_EOS_Progress": 275,
-  "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_Completed": 276,
+  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -231,7 +231,7 @@
   ],
   "EOS_Progressed": 1099,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2929,9 +2929,9 @@
       "ID": "AbAeterno",
       "SetID": "1n308hc",
       "Name": "Ab Aeterno",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 55
     },
     {
       "ID": "AbInitio",
@@ -3410,8 +3410,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-23T12:59:33.4828819+00:00",
-  "LastChanged_Achievements": "2023-12-23T19:06:08.073658+00:00",
+  "LastChanged_Achievements": "2023-12-23T20:06:07.8648143+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-23T18:57:22.112483+00:00",
-  "LastUpdate_Achievements": "2023-12-23T19:06:08.0737042+00:00"
+  "LastUpdate_Ratings": "2023-12-23T19:57:33.1042222+00:00",
+  "LastUpdate_Achievements": "2023-12-23T20:06:07.8648732+00:00"
 }

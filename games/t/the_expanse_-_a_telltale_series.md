@@ -1,13 +1,13 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.55 (Ranked 510)  
+Rating: 4.55 (Ranked 511)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 15.00% | ~2,580 |
+| Oyedang, Kopengs | 15.00% | ~2,581 |
+| Captain Drummer | 11.00% | ~1,893 |
 | Bosmang | 10.00% | ~1,720 |
-| Captain Drummer | 10.00% | ~1,720 |
 | Celebrations are in Order | 10.00% | ~1,720 |
 | The Pit and the Pirates | 9.00% | ~1,548 |
 | Martian Music | 9.00% | ~1,548 |
@@ -15,14 +15,14 @@ Rating: 4.55 (Ranked 510)
 | Impossible Objects | 9.00% | ~1,548 |
 | Stogie for Fogey | 8.00% | ~1,376 |
 | Spore Taste | 8.00% | ~1,376 |
-| Safe Cracker | 8.00% | ~252 |
-| Zen Master | 8.00% | ~252 |
+| Safe Cracker | 8.00% | ~253 |
+| Zen Master | 8.00% | ~253 |
 | Call it Even | 7.00% | ~1,204 |
 | Madame Undersecretary | 7.00% | ~221 |
 | Data Archivist | 6.00% | ~1,032 |
 | Drug Gifter | 6.00% | ~1,032 |
 | Heal Thy Medic | 6.00% | ~1,032 |
-| Keep Arjun in Check | 6.00% | ~189 |
+| Keep Arjun in Check | 6.00% | ~190 |
 | Thorston Mayer | 5.00% | ~860 |
 | Khan's Revenge | 5.00% | ~860 |
 | Master Negotiator | 5.00% | ~158 |
@@ -41,8 +41,8 @@ Rating: 4.55 (Ranked 510)
 | Scavenger Star | 0.20% | ~34 |
 | Data Collector | 0.20% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,198 (Ranked 156)  
-Completed: 47 (0.27%) (Ranked 255)  
+Progressed: 17,205 (Ranked 156)  
+Completed: 47 (0.27%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -195,7 +195,7 @@ Completed: 47 (0.27%) (Ranked 255)
 | 2023-12-20 | 16,946 | 46 |
 | 2023-12-21 | 17,033 | 46 |
 | 2023-12-22 | 17,122 | 47 |
-| 2023-12-23 | 17,198 | 47 |
+| 2023-12-23 | 17,205 | 47 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

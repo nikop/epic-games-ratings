@@ -6,20 +6,20 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~37,793 |
-| Biggest Communism Builder | 24.00% | ~32,394 |
-| The World's Most Laughable Centrist | 20.00% | ~26,995 |
-| Il Coppo Del'Arte! | 18.00% | ~24,296 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,596 |
-| Hyperstellar Law Official | 15.00% | ~20,246 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~18,896 |
-| Gurdi-Ball Is Lit | 14.00% | ~18,896 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~17,547 |
-| Truly Rabid *Traditionalist* | 11.00% | ~14,847 |
+| Goodest Of The Good Cops | 28.00% | ~37,795 |
+| Biggest Communism Builder | 24.00% | ~32,396 |
+| The World's Most Laughable Centrist | 20.00% | ~26,997 |
+| Il Coppo Del'Arte! | 18.00% | ~24,297 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,597 |
+| Hyperstellar Law Official | 15.00% | ~20,247 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~18,898 |
+| Gurdi-Ball Is Lit | 14.00% | ~18,898 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~17,548 |
+| Truly Rabid *Traditionalist* | 11.00% | ~14,848 |
 | Unbelievably Boring **** | 9.00% | ~12,148 |
 | The Figurines Won't Win Her Back | 9.00% | ~12,148 |
-| Enemy Of The Physical Realm | 8.00% | ~10,798 |
-| Hardie's Heroes | 6.00% | ~8,098 |
+| Enemy Of The Physical Realm | 8.00% | ~10,799 |
+| Hardie's Heroes | 6.00% | ~8,099 |
 | The Lawbringer | 4.00% | ~5,399 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,399 |
 | The Opener Of The Eighth Seal | 3.00% | ~4,049 |
@@ -47,8 +47,8 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~135 |
 | What body? | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,975 (Ranked 86)  
-Completed: 28 (0.02%) (Ranked 354)  
+Progressed: 134,983 (Ranked 86)  
+Completed: 28 (0.02%) (Ranked 355)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -294,7 +294,7 @@ Completed: 28 (0.02%) (Ranked 354)
 | 2023-12-20 | 134,371 | 28 |
 | 2023-12-21 | 134,562 | 28 |
 | 2023-12-22 | 134,780 | 28 |
-| 2023-12-23 | 134,975 | 28 |
+| 2023-12-23 | 134,983 | 28 |
 ## Awards
 Max (Character Customization): 754  (Ranked 184)  
 Sum: 1,149 (Ranked 257)  

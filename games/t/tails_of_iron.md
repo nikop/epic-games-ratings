@@ -1,12 +1,12 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.55 (Ranked 510)  
+Rating: 4.56 (Ranked 496)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| The Bright Fir | 0.80% | ~7 |
 | Complete Guard Faction | 0.70% | ~16 |
-| The Bright Fir | 0.70% | ~6 |
 | Become King | 0.60% | ~14 |
 | Shield Maiden Yellow Tongue | 0.60% | ~5 |
 | End of the Mozis | 0.50% | ~11 |
@@ -42,7 +42,7 @@ Rating: 4.55 (Ranked 510)
 | Complete Arena Faction | 0.10% | ~2 |
 | A new Warchief rises | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,273 (Ranked 231)  
+Progressed: 2,274 (Ranked 231)  
 Completed: 12 (0.53%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 12 (0.53%) (Ranked 211)
 | 2023-12-20 | 2,263 | 12 |
 | 2023-12-21 | 2,266 | 12 |
 | 2023-12-22 | 2,269 | 12 |
-| 2023-12-23 | 2,273 | 12 |
+| 2023-12-23 | 2,274 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -298,3 +298,4 @@ Completed: 12 (0.53%) (Ranked 211)
 | 2023-12-16 | 4.56 | 0 | 0 |
 | 2023-12-20 | 4.57 | 0 | 0 |
 | 2023-12-21 | 4.55 | 0 | 0 |
+| 2023-12-23 | 4.56 | 0 | 0 |

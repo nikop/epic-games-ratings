@@ -10,12 +10,12 @@ Number of Ratings: 90  (23.09.2022)
 | Mash Machine | 69.00% | ~115 |
 | Ducks in a Row, Fish in a Barrel | 50.00% | ~84 |
 | Furon Fashion | 42.00% | ~70 |
-| Shop Til They Drop | 37.00% | ~62 |
-| Bodied Sattva | 32.00% | ~53 |
+| Shop Til They Drop | 38.00% | ~63 |
+| Bodied Sattva | 33.00% | ~55 |
 | Earthly Pleasures | 31.00% | ~52 |
 | Cult Following | 29.00% | ~48 |
+| Lie Back and Think of Albion | 23.00% | ~38 |
 | Upgreatest | 23.00% | ~38 |
-| Lie Back and Think of Albion | 22.00% | ~37 |
 | Pimp My Raid | 22.00% | ~37 |
 | I Look Up As I Walk to Takoshima | 18.00% | ~30 |
 | Freshly Squeezed | 16.00% | ~27 |
@@ -28,8 +28,8 @@ Number of Ratings: 90  (23.09.2022)
 | Kaijuiced | 7.00% | ~12 |
 | Scuttled | 6.00% | ~10 |
 | Re-Return of the Clone of the Invasion II-2 | 5.00% | ~8 |
+| Yettisoned | 4.00% | ~7 |
 | Lobster Blisque | 3.00% | ~5 |
-| Yettisoned | 3.00% | ~5 |
 | Ultimate Smoothie | 2.00% | ~3 |
 | Deincarnated | 2.00% | ~3 |
 | Arkvoodle Doodle | 2.00% | ~3 |
@@ -52,7 +52,7 @@ Number of Ratings: 90  (23.09.2022)
 | Trans-Siberian Express | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 167 (Ranked 422)  
-Completed: 0 (0.00%) (Ranked 385)  
+Completed: 0 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

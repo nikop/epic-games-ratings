@@ -3,9 +3,9 @@
   "Name": "Tin Hearts",
   "ProductSlug": "tin-hearts-221ecf",
   "Ranking_EOS_Progress": 816,
-  "Ranking_EOS_Completed": 385,
+  "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-16T09:00:00+00:00",
     "PcReleaseDate": "2023-05-16T09:00:00+00:00",
@@ -43,8 +43,8 @@
   ],
   "FirstSeen": "2023-05-16T13:05:37.0022463+00:00",
   "FirstSeenAchievements": "2023-05-15T18:00:07.7368094+00:00",
-  "LastChanged_Achievements": "2023-12-23T19:03:20.0107245+00:00",
+  "LastChanged_Achievements": "2023-12-23T20:03:23.8298993+00:00",
   "LastUpdate_AppInfo": "2023-12-19T17:57:05.3423962+00:00",
-  "LastUpdate_Ratings": "2023-12-23T19:02:49.606655+00:00",
-  "LastUpdate_Achievements": "2023-12-23T19:03:20.010737+00:00"
+  "LastUpdate_Ratings": "2023-12-23T20:02:52.1088957+00:00",
+  "LastUpdate_Achievements": "2023-12-23T20:03:23.8299009+00:00"
 }

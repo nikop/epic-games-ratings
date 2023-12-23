@@ -6,56 +6,56 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 69.00% | ~30,501 |
-| Say goodbye, creep! | 66.00% | ~29,175 |
-| Blood splattered | 66.00% | ~29,175 |
-| Choo choo! | 63.00% | ~27,849 |
-| Groovy | 62.00% | ~27,406 |
-| Cleanup on aisle 4! | 57.00% | ~25,196 |
-| Gold | 51.00% | ~22,544 |
-| The boat can leave now...tell the crew | 49.00% | ~21,660 |
-| Give me something to shoot! | 47.00% | ~20,776 |
-| Stand back boy! | 47.00% | ~20,776 |
-| Chain reaction | 45.00% | ~19,892 |
-| Weird science | 44.00% | ~19,450 |
-| What did you say, Blain? | 42.00% | ~18,566 |
-| Look mummy! A shark! | 41.00% | ~18,124 |
-| In the dark dark woods... | 39.00% | ~17,240 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,798 |
-| Double tap | 37.00% | ~16,355 |
-| Cranial blowout! | 37.00% | ~16,355 |
-| All of this has happened before… | 36.00% | ~15,913 |
-| Zombie killin' machine | 36.00% | ~15,913 |
-| Every bullet counts | 36.00% | ~15,913 |
-| All roads lead to Rome | 34.00% | ~15,029 |
-| You've got red on you | 34.00% | ~15,029 |
-| You're all going to die down here | 32.00% | ~14,145 |
-| He did Nazi that coming | 32.00% | ~14,145 |
-| Kill of the week | 31.00% | ~13,703 |
-| I never liked them anyway | 31.00% | ~13,703 |
-| Is it over? | 28.00% | ~12,377 |
-| Got your back | 27.00% | ~11,935 |
-| Gore soaked | 24.00% | ~10,609 |
-| Shock therapy | 23.00% | ~10,167 |
-| Leave the limbs you've lost | 23.00% | ~10,167 |
-| Everyone's a mad scientist, life is the lab | 19.00% | ~8,399 |
+| Shoot it, man! Shoot it in the head! | 69.00% | ~30,504 |
+| Say goodbye, creep! | 66.00% | ~29,177 |
+| Blood splattered | 66.00% | ~29,177 |
+| Choo choo! | 63.00% | ~27,851 |
+| Groovy | 62.00% | ~27,409 |
+| Cleanup on aisle 4! | 57.00% | ~25,199 |
+| Gold | 51.00% | ~22,546 |
+| The boat can leave now...tell the crew | 49.00% | ~21,662 |
+| Give me something to shoot! | 47.00% | ~20,778 |
+| Stand back boy! | 47.00% | ~20,778 |
+| Chain reaction | 45.00% | ~19,894 |
+| Weird science | 44.00% | ~19,452 |
+| What did you say, Blain? | 42.00% | ~18,567 |
+| Look mummy! A shark! | 41.00% | ~18,125 |
+| In the dark dark woods... | 39.00% | ~17,241 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,799 |
+| Double tap | 37.00% | ~16,357 |
+| Cranial blowout! | 37.00% | ~16,357 |
+| All of this has happened before… | 36.00% | ~15,915 |
+| Zombie killin' machine | 36.00% | ~15,915 |
+| Every bullet counts | 36.00% | ~15,915 |
+| All roads lead to Rome | 34.00% | ~15,031 |
+| You've got red on you | 34.00% | ~15,031 |
+| You're all going to die down here | 32.00% | ~14,147 |
+| He did Nazi that coming | 32.00% | ~14,147 |
+| Kill of the week | 31.00% | ~13,704 |
+| I never liked them anyway | 31.00% | ~13,704 |
+| Is it over? | 28.00% | ~12,378 |
+| Got your back | 27.00% | ~11,936 |
+| Gore soaked | 24.00% | ~10,610 |
+| Shock therapy | 23.00% | ~10,168 |
+| Leave the limbs you've lost | 23.00% | ~10,168 |
+| Everyone's a mad scientist, life is the lab | 19.00% | ~8,400 |
 | Take them down screaming | 18.00% | ~7,957 |
 | Bad Blood | 17.00% | ~7,515 |
 | Weapons expert | 17.00% | ~7,515 |
 | The bigger they are... | 15.00% | ~6,631 |
 | I'm going deeper underground | 14.00% | ~6,189 |
 | Well equipped | 13.00% | ~5,747 |
-| Into the deep | 12.00% | ~5,304 |
-| Damnedbusters | 9.00% | ~3,978 |
-| Plane sailing | 8.00% | ~3,536 |
-| I can do anything I want. I got guns | 8.00% | ~3,536 |
-| Send me an angel | 8.00% | ~3,536 |
-| This is no Sunday School picnic! | 7.00% | ~3,094 |
-| I never redoubted you! | 7.00% | ~3,094 |
-| Not today you won't | 7.00% | ~3,094 |
-| Gotcha, didn't I? | 7.00% | ~3,094 |
-| A gross gross | 7.00% | ~3,094 |
-| Hail to the king, baby! | 7.00% | ~3,094 |
+| Into the deep | 12.00% | ~5,305 |
+| Damnedbusters | 9.00% | ~3,979 |
+| Plane sailing | 8.00% | ~3,537 |
+| I can do anything I want. I got guns | 8.00% | ~3,537 |
+| Send me an angel | 8.00% | ~3,537 |
+| This is no Sunday School picnic! | 7.00% | ~3,095 |
+| I never redoubted you! | 7.00% | ~3,095 |
+| Not today you won't | 7.00% | ~3,095 |
+| Gotcha, didn't I? | 7.00% | ~3,095 |
+| A gross gross | 7.00% | ~3,095 |
+| Hail to the king, baby! | 7.00% | ~3,095 |
 | Something wicked this way comes | 6.00% | ~2,652 |
 | Take a little bit of Italy with you | 6.00% | ~2,652 |
 | Staring at Shadows | 6.00% | ~2,652 |
@@ -73,8 +73,8 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~442 |
 | None more hard | 0.60% | ~265 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,204 (Ranked 125)  
-Completed: 25 (0.06%) (Ranked 325)  
+Progressed: 44,208 (Ranked 125)  
+Completed: 25 (0.06%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -320,7 +320,7 @@ Completed: 25 (0.06%) (Ranked 325)
 | 2023-12-20 | 44,179 | 25 |
 | 2023-12-21 | 44,186 | 25 |
 | 2023-12-22 | 44,194 | 25 |
-| 2023-12-23 | 44,204 | 25 |
+| 2023-12-23 | 44,208 | 25 |
 ## Awards
 Max (Great Boss Battles): 861  (Ranked 171)  
 Sum: 2,603 (Ranked 195)  

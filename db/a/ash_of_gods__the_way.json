@@ -3,9 +3,9 @@
   "Name": "Ash of Gods: The Way",
   "ProductSlug": "ash-of-gods-the-way-58bd36",
   "Ranking_EOS_Progress": 540,
-  "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_Completed": 386,
+  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-04-27T11:00:00+00:00",
     "PcReleaseDate": "2023-04-27T11:00:00+00:00",
@@ -403,9 +403,9 @@
       "ID": "special1",
       "SetID": "c64if4d",
       "Name": "All for one!",
-      "Percentage": 23,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "special10",
@@ -676,8 +676,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2023-12-23T19:09:25.4252857+00:00",
+  "LastChanged_Achievements": "2023-12-23T20:09:02.4182126+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:39.1112603+00:00",
-  "LastUpdate_Ratings": "2023-12-23T18:59:21.0670824+00:00",
-  "LastUpdate_Achievements": "2023-12-23T19:09:25.4253551+00:00"
+  "LastUpdate_Ratings": "2023-12-23T19:59:26.796944+00:00",
+  "LastUpdate_Achievements": "2023-12-23T20:09:02.4182393+00:00"
 }

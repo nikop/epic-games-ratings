@@ -6,9 +6,9 @@
   "Ranking_Popularity": 279,
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 161,
-  "Ranking_EOS_Completed": 346,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_Completed": 347,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2184,7 +2184,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15907,
+  "EOS_Progressed": 15909,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
@@ -18204,6 +18204,11 @@
       "Time": "2023-12-23T19:10:06.520783+00:00",
       "NumProgressed": 15907,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-23T20:09:41.8352239+00:00",
+      "NumProgressed": 15909,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -18325,9 +18330,9 @@
       "ID": "ACHIEVEMENT_BARBARIAN_INVASION_MULTIPLAYER",
       "SetID": "9201eeb",
       "Name": "United Against The Horde",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_BATTLE_OF_OPIS",
@@ -18541,9 +18546,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_ABLE",
       "SetID": "7l38kb8",
       "Name": "Able",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AMBITIOUS",
@@ -20021,9 +20026,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_BABYLONIA",
       "SetID": "7l38kb8",
       "Name": "Babylonian Paganism",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_CARTHAGE",
@@ -21078,21 +21083,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15907,
+      "Progressed": 15909,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15907,
+      "Progressed": 15909,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-22T01:47:48.5403593+00:00",
-  "LastChanged_Achievements": "2023-12-23T19:10:06.5207827+00:00",
+  "LastChanged_Achievements": "2023-12-23T20:09:41.8352237+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:47.4773202+00:00",
-  "LastUpdate_Ratings": "2023-12-23T19:02:45.5033995+00:00",
-  "LastUpdate_Achievements": "2023-12-23T19:10:06.5217509+00:00"
+  "LastUpdate_Ratings": "2023-12-23T20:02:48.0594779+00:00",
+  "LastUpdate_Achievements": "2023-12-23T20:09:41.836189+00:00"
 }

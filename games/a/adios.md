@@ -5,33 +5,33 @@ Rating: 3.46 (Ranked 1,069)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 22.00% | ~17,904 |
-| Master, Commander | 21.00% | ~17,090 |
-| Hard Worker | 20.00% | ~16,277 |
-| Adios, Friendo | 19.00% | ~15,463 |
-| Mechanic | 19.00% | ~15,463 |
-| Bottom's Up | 18.00% | ~14,649 |
-| Nice Try | 16.00% | ~13,021 |
-| Right On Target | 14.00% | ~11,394 |
-| Piano Man | 11.00% | ~8,952 |
-| Lazy Bones | 9.00% | ~7,324 |
+| Be Seeing You | 22.00% | ~17,906 |
+| Master, Commander | 21.00% | ~17,092 |
+| Hard Worker | 20.00% | ~16,278 |
+| Adios, Friendo | 19.00% | ~15,464 |
+| Mechanic | 19.00% | ~15,464 |
+| Bottom's Up | 18.00% | ~14,650 |
+| Nice Try | 16.00% | ~13,023 |
+| Right On Target | 14.00% | ~11,395 |
+| Piano Man | 11.00% | ~8,953 |
+| Lazy Bones | 9.00% | ~7,325 |
 | Vinyl Vibes | 8.00% | ~6,511 |
 | Nothing Left to Say | 7.00% | ~5,697 |
 | Sniper | 7.00% | ~5,697 |
 | Cut Call | 6.00% | ~4,883 |
-| Magnetic Miracles | 5.00% | ~4,069 |
-| Butcher | 4.00% | ~3,255 |
-| Fair's Fair | 4.00% | ~3,255 |
-| Spicy | 4.00% | ~3,255 |
-| A Man Of Taste | 3.00% | ~2,441 |
-| Ace in the Hole | 3.00% | ~2,441 |
-| Hearty | 3.00% | ~2,441 |
-| Meaty | 3.00% | ~2,441 |
-| Taco Toto | 3.00% | ~2,441 |
+| Magnetic Miracles | 5.00% | ~4,070 |
+| Butcher | 4.00% | ~3,256 |
+| Fair's Fair | 4.00% | ~3,256 |
+| Spicy | 4.00% | ~3,256 |
+| A Man Of Taste | 3.00% | ~2,442 |
+| Ace in the Hole | 3.00% | ~2,442 |
+| Hearty | 3.00% | ~2,442 |
+| Meaty | 3.00% | ~2,442 |
+| Taco Toto | 3.00% | ~2,442 |
 | Audiophile | 2.00% | ~1,628 |
 | Tape Head | 2.00% | ~1,628 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 81,383 (Ranked 101)  
+Progressed: 81,391 (Ranked 101)  
 Completed: 893 (1.10%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 893 (1.10%) (Ranked 163)
 | 2023-12-20 | 81,134 | 889 |
 | 2023-12-21 | 81,234 | 890 |
 | 2023-12-22 | 81,304 | 891 |
-| 2023-12-23 | 81,383 | 893 |
+| 2023-12-23 | 81,391 | 893 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

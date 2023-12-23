@@ -3,9 +3,9 @@
   "Name": "Warhammer 40,000: Boltgun",
   "ProductSlug": "boltgun-b1cb36",
   "Ranking_EOS_Progress": 335,
-  "Ranking_EOS_Completed": 266,
+  "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 465,
+  "EOS_Progressed": 468,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.22,
+  "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
     {
       "Time": "2023-10-13T10:03:19.5665873+00:00",
@@ -1639,6 +1639,11 @@
       "Time": "2023-12-23T19:04:34.5217892+00:00",
       "NumProgressed": 465,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-23T20:04:36.3226647+00:00",
+      "NumProgressed": 468,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -1651,7 +1656,7 @@
       "Name": "Chapter I - Complete",
       "Percentage": 19,
       "XP": 45,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ach_chapter_complete_2",
@@ -1689,9 +1694,9 @@
       "ID": "ach_complete_difficulty_hard",
       "SetID": "d499apg",
       "Name": "Emperor\u2019s Mercy",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 175,
-      "UsersEstimate": 9
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_complete_difficulty_medium",
@@ -1707,7 +1712,7 @@
       "Name": "Defeat a Great Unclean One",
       "Percentage": 10,
       "XP": 45,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ach_defeat_lord_of_change",
@@ -1715,7 +1720,7 @@
       "Name": "Defeat a Lord of Change",
       "Percentage": 23,
       "XP": 45,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -1746,14 +1751,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 465,
+      "Progressed": 468,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-12-23T19:04:34.5217888+00:00",
+  "LastChanged_Achievements": "2023-12-23T20:04:36.3226645+00:00",
   "LastUpdate_AppInfo": "2023-12-22T14:57:06.4082276+00:00",
-  "LastUpdate_Ratings": "2023-12-23T18:58:40.7377432+00:00",
-  "LastUpdate_Achievements": "2023-12-23T19:04:34.5218023+00:00"
+  "LastUpdate_Ratings": "2023-12-23T19:58:48.8545426+00:00",
+  "LastUpdate_Achievements": "2023-12-23T20:04:36.3226797+00:00"
 }

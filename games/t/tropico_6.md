@@ -6,32 +6,32 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 74.00% | ~4,888 |
-| Un-Lonely Island | 45.00% | ~2,973 |
-| The Beginning of a Servantship | 44.00% | ~2,907 |
-| Trade Is My Trait | 36.00% | ~2,378 |
-| Number 18 | 23.00% | ~1,519 |
-| We Don't Have Time For That | 18.00% | ~1,189 |
-| The Governator | 17.00% | ~1,123 |
-| The Legend of Langostino | 16.00% | ~1,057 |
-| Caribbean Comrade | 15.00% | ~991 |
-| The Dreamer of Dreams | 15.00% | ~991 |
+| Just One...More...Term... | 74.00% | ~4,892 |
+| Un-Lonely Island | 45.00% | ~2,975 |
+| The Beginning of a Servantship | 44.00% | ~2,909 |
+| Trade Is My Trait | 36.00% | ~2,380 |
+| Number 18 | 23.00% | ~1,521 |
+| We Don't Have Time For That | 18.00% | ~1,190 |
+| The Governator | 17.00% | ~1,124 |
+| The Legend of Langostino | 16.00% | ~1,058 |
+| Caribbean Comrade | 15.00% | ~992 |
+| The Dreamer of Dreams | 15.00% | ~992 |
 | Go Sovereigns! | 11.00% | ~727 |
 | For Science! | 11.00% | ~727 |
 | Happy Ending? | 10.00% | ~661 |
 | Of Seals And Men | 9.00% | ~595 |
 | Shackadelic | 9.00% | ~595 |
-| Double Trouble | 8.00% | ~528 |
-| Firestarter | 8.00% | ~528 |
-| I Owe You Nothing | 7.00% | ~462 |
-| Make Tropico Great Again! | 7.00% | ~462 |
-| French Connection | 7.00% | ~462 |
-| Don't Panic! | 6.00% | ~396 |
-| Beware The Betman | 6.00% | ~396 |
-| Viva Tropico! | 5.00% | ~330 |
-| Computer Says "No" | 5.00% | ~330 |
-| Watch The World Burn | 5.00% | ~330 |
-| Fairy Tale Come True | 5.00% | ~330 |
+| Double Trouble | 8.00% | ~529 |
+| Firestarter | 8.00% | ~529 |
+| I Owe You Nothing | 7.00% | ~463 |
+| Make Tropico Great Again! | 7.00% | ~463 |
+| French Connection | 7.00% | ~463 |
+| Don't Panic! | 6.00% | ~397 |
+| Beware The Betman | 6.00% | ~397 |
+| Viva Tropico! | 5.00% | ~331 |
+| Computer Says "No" | 5.00% | ~331 |
+| Watch The World Burn | 5.00% | ~331 |
+| Fairy Tale Come True | 5.00% | ~331 |
 | Been there, Done That | 3.00% | ~198 |
 | Apocalypso | 3.00% | ~198 |
 | Narcissist | 3.00% | ~198 |
@@ -47,8 +47,8 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~53 |
 | My Ways | 0.20% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,606 (Ranked 192)  
-Completed: 2 (0.03%) (Ranked 346)  
+Progressed: 6,611 (Ranked 192)  
+Completed: 2 (0.03%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -294,7 +294,7 @@ Completed: 2 (0.03%) (Ranked 346)
 | 2023-12-20 | 6,547 | 2 |
 | 2023-12-21 | 6,567 | 2 |
 | 2023-12-22 | 6,587 | 2 |
-| 2023-12-23 | 6,606 | 2 |
+| 2023-12-23 | 6,611 | 2 |
 ## Awards
 Max (Highly Recommended): 104  (Ranked 364)  
 Sum: 742 (Ranked 295)  

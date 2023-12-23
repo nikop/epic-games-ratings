@@ -5,10 +5,10 @@
   "Ranking_Rating": 882,
   "Ranking_Popularity": 571,
   "Ranking_PopularitySum": 571,
-  "Ranking_EOS_Progress": 384,
-  "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 386,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 279,
+  "EOS_Progressed": 287,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 277,
+  "EOS_NewPlayers": 285,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -869,6 +869,11 @@
       "Time": "2023-12-23T19:08:44.9557221+00:00",
       "NumProgressed": 279,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T20:08:22.3369625+00:00",
+      "NumProgressed": 287,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -879,23 +884,23 @@
       "ID": "AirborneTime",
       "SetID": "5hd282c",
       "Name": "Look Mom, I Can Fly",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 60
     },
     {
       "ID": "CareerAllChallenges",
       "SetID": "5hd282c",
       "Name": "Highballer",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 47
+      "UsersEstimate": 55
     },
     {
       "ID": "CareerChamp1",
       "SetID": "5hd282c",
       "Name": "Regional Juniors Champion",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 30,
       "UsersEstimate": 75
     },
@@ -905,7 +910,7 @@
       "Name": "National Amateurs Champion",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "CareerChamp3",
@@ -913,7 +918,7 @@
       "Name": "Challengers Champion",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "CareerChamp4",
@@ -929,15 +934,15 @@
       "Name": "World Masters Champion",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "CareerFirstWin",
       "SetID": "5hd282c",
       "Name": "Storm Warning",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 138
     },
     {
       "ID": "CollectVehiclesA",
@@ -945,15 +950,15 @@
       "Name": "Wheeler Dealer",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "CollectVehiclesB",
       "SetID": "5hd282c",
       "Name": "Junk Collector",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 40
     },
     {
       "ID": "CreditsEarnedA",
@@ -983,7 +988,7 @@
       "ID": "MultiplayerEventsWonA",
       "SetID": "5hd282c",
       "Name": "Human Lover",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -991,7 +996,7 @@
       "ID": "PlayerRankA",
       "SetID": "5hd282c",
       "Name": "Dirty Roller",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 30,
       "UsersEstimate": 75
     },
@@ -1001,7 +1006,7 @@
       "Name": "Trashing Around",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "PlayerRankC",
@@ -1015,7 +1020,7 @@
       "ID": "RocketSpeedReached",
       "SetID": "5hd282c",
       "Name": "Rocketeer",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -1025,7 +1030,7 @@
       "Name": "Hating Them Tin Cans",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "WreckOpponentsBus",
@@ -1040,7 +1045,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 279,
+      "Progressed": 287,
       "Completed": 0
     }
   ],
@@ -1048,8 +1053,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-19T23:00:17.2400985+00:00",
-  "LastChanged_Achievements": "2023-12-23T19:08:44.9557217+00:00",
+  "LastChanged_Achievements": "2023-12-23T20:08:22.3369622+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:03.0967517+00:00",
-  "LastUpdate_Ratings": "2023-12-23T18:58:31.7310465+00:00",
-  "LastUpdate_Achievements": "2023-12-23T19:08:44.9557357+00:00"
+  "LastUpdate_Ratings": "2023-12-23T19:58:40.4458503+00:00",
+  "LastUpdate_Achievements": "2023-12-23T20:08:22.3369816+00:00"
 }

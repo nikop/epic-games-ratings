@@ -3,9 +3,9 @@
   "Name": "Who\u0027s Your Daddy?!",
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 329,
-  "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_Completed": 386,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
     "PcReleaseDate": "2015-12-23T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 505,
+  "EOS_Progressed": 506,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1604,6 +1604,11 @@
       "Time": "2023-12-23T19:03:28.5924901+00:00",
       "NumProgressed": 505,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T20:03:32.1470313+00:00",
+      "NumProgressed": 506,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -1632,7 +1637,7 @@
       "Name": "What\u0027s Cooking?",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "6",
@@ -1686,9 +1691,9 @@
       "ID": "REMAKE_004",
       "SetID": "5pi96jj",
       "Name": "I\u0027m Your Daddy",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 303
+      "UsersEstimate": 309
     },
     {
       "ID": "Remake_005",
@@ -1702,17 +1707,17 @@
       "ID": "Remake_006",
       "SetID": "5pi96jj",
       "Name": "Attempted Vehicular Infanticide",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 46
     },
     {
       "ID": "Remake_007",
       "SetID": "5pi96jj",
       "Name": "Deez Buffs Make Me Go Nuts",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 136
+      "UsersEstimate": 132
     },
     {
       "ID": "Remake_008",
@@ -1839,14 +1844,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 505,
+      "Progressed": 506,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-23T19:03:28.5924899+00:00",
+  "LastChanged_Achievements": "2023-12-23T20:03:32.147031+00:00",
   "LastUpdate_AppInfo": "2023-12-19T01:44:23.8086343+00:00",
-  "LastUpdate_Ratings": "2023-12-23T19:00:02.4614286+00:00",
-  "LastUpdate_Achievements": "2023-12-23T19:03:28.5925112+00:00"
+  "LastUpdate_Ratings": "2023-12-23T20:00:09.0594388+00:00",
+  "LastUpdate_Achievements": "2023-12-23T20:03:32.1470613+00:00"
 }

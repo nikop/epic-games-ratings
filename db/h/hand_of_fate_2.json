@@ -2,13 +2,13 @@
   "ID": "eb348461cdaf4bec9d69a1c4bb39ecc4",
   "Name": "Hand of Fate 2",
   "ProductSlug": "hand-of-fate-2",
-  "Ranking_Rating": 510,
+  "Ranking_Rating": 511,
   "Ranking_Popularity": 485,
   "Ranking_PopularitySum": 415,
   "Ranking_EOS_Progress": 30,
-  "Ranking_EOS_Completed": 346,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_Completed": 347,
+  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -943,7 +943,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 666179,
+  "EOS_Progressed": 666180,
   "EOS_Completed": 174,
   "EOS_NewPlayers": 299,
   "EOS_NewCompleters": 1,
@@ -24343,6 +24343,11 @@
       "Time": "2023-12-23T19:09:14.1372404+00:00",
       "NumProgressed": 666179,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2023-12-23T20:08:51.4033927+00:00",
+      "NumProgressed": 666180,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 48,
@@ -24354,7 +24359,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 479649
+      "UsersEstimate": 479650
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -24506,7 +24511,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 113250
+      "UsersEstimate": 113251
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -24594,7 +24599,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 79941
+      "UsersEstimate": 79942
     },
     {
       "ID": "Achievement_32_Karma",
@@ -24737,15 +24742,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 666179,
+      "Progressed": 666180,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-11-24T17:58:48.2867936+00:00",
-  "LastChanged_Achievements": "2023-12-23T19:09:14.1372402+00:00",
+  "LastChanged_Achievements": "2023-12-23T20:08:51.4033926+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:46.8226063+00:00",
-  "LastUpdate_Ratings": "2023-12-23T19:00:25.4093126+00:00",
-  "LastUpdate_Achievements": "2023-12-23T19:09:14.13735+00:00"
+  "LastUpdate_Ratings": "2023-12-23T20:00:30.4817202+00:00",
+  "LastUpdate_Achievements": "2023-12-23T20:08:51.4035108+00:00"
 }

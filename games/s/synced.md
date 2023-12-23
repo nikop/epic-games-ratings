@@ -5,25 +5,25 @@ Rating: 4.15 (Ranked 970)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 39.00% | ~28,719 |
-| As Far Away As Possible | 19.00% | ~13,991 |
-| A Most Unstable Organism | 13.00% | ~9,573 |
-| No Time to Follow Protocol | 10.00% | ~7,364 |
-| More Power to You | 9.00% | ~6,627 |
-| Float Like a Butterfly... | 8.00% | ~5,891 |
-| Nano Connoisseur | 6.00% | ~4,418 |
-| In Two Places At Once | 6.00% | ~4,418 |
-| Pulling Your Weight | 3.00% | ~2,209 |
-| Reaping Rivals | 3.00% | ~2,209 |
-| fifteenth Time's the Charm | 1.00% | ~736 |
-| Gone Rogue | 0.70% | ~515 |
+| Your Lucky Day | 39.00% | ~28,738 |
+| As Far Away As Possible | 19.00% | ~14,001 |
+| A Most Unstable Organism | 13.00% | ~9,579 |
+| No Time to Follow Protocol | 10.00% | ~7,369 |
+| More Power to You | 9.00% | ~6,632 |
+| Float Like a Butterfly... | 8.00% | ~5,895 |
+| Nano Connoisseur | 6.00% | ~4,421 |
+| In Two Places At Once | 6.00% | ~4,421 |
+| Pulling Your Weight | 3.00% | ~2,211 |
+| Reaping Rivals | 3.00% | ~2,211 |
+| fifteenth Time's the Charm | 1.00% | ~737 |
+| Gone Rogue | 0.70% | ~516 |
 | Memory Keeper | 0.40% | ~295 |
 | Completely Customizable | 0.40% | ~295 |
 | Runs for Your Money | 0.30% | ~221 |
 | Past Master | 0.30% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,638 (Ranked 107)  
-Completed: 60 (0.08%) (Ranked 316)  
+Progressed: 73,688 (Ranked 107)  
+Completed: 60 (0.08%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -140,19 +140,19 @@ Completed: 60 (0.08%) (Ranked 316)
 | 2023-12-20 | 71,566 | 59 |
 | 2023-12-21 | 72,043 | 59 |
 | 2023-12-22 | 72,919 | 59 |
-| 2023-12-23 | 73,638 | 60 |
+| 2023-12-23 | 73,688 | 60 |
 ## Awards
 Max (Great for Beginners): 116  (Ranked 349)  
-Sum: 495 (Ranked 332)  
+Sum: 497 (Ranked 332)  
 Diff (max vs sum): 17  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 116 |
-| This game has Diverse Characters | 77 |
+| This game has Diverse Characters | 78 |
 | This game is Highly Recommended | 57 |
 | This game has Amazing Characters | 56 |
+| This game is Extremely Fun | 55 |
 | This game has a Competitive Community | 54 |
-| This game is Extremely Fun | 54 |
 | This game has Amazing Storytelling | 50 |
 | This game has Quickly Understood Controls | 45 |
 | This game is Relaxing | 40 |
@@ -256,4 +256,4 @@ Diff (max vs sum): 17
 | 2023-12-20 | 4.15 | 113 | 482 |
 | 2023-12-21 | 4.15 | 113 | 484 |
 | 2023-12-22 | 4.15 | 116 | 490 |
-| 2023-12-23 | 4.15 | 116 | 495 |
+| 2023-12-23 | 4.15 | 116 | 497 |

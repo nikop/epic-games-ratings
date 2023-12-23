@@ -59,8 +59,8 @@
 | Pinewood | 0.90% | ~1 |
 | Love is All | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 111 (Ranked 466)  
-Completed: 1 (0.90%) (Ranked 181)  
+Progressed: 111 (Ranked 468)  
+Completed: 1 (0.90%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

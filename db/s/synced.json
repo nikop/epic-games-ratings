@@ -6,9 +6,9 @@
   "Ranking_Popularity": 349,
   "Ranking_PopularitySum": 332,
   "Ranking_EOS_Progress": 107,
-  "Ranking_EOS_Completed": 316,
+  "Ranking_EOS_Completed": 317,
   "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -1369,10 +1369,16 @@
       "Rating": 4.15,
       "NumberOfAwards": 495,
       "NumberOfAwardsMax": 116
+    },
+    {
+      "Time": "2023-12-23T20:00:16.8677865+00:00",
+      "Rating": 4.15,
+      "NumberOfAwards": 497,
+      "NumberOfAwardsMax": 116
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 495,
+  "NumberOfAwards": 497,
   "NumberOfAwardsMax": 116,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1404,7 +1410,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 77
+      "Count": 78
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1422,7 +1428,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 54
+      "Count": 55
     },
     {
       "Text": "This game is Relaxing",
@@ -1437,9 +1443,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 73638,
+  "EOS_Progressed": 73688,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 3814,
+  "EOS_NewPlayers": 3825,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -13782,6 +13788,11 @@
       "Time": "2023-12-23T19:05:12.0328149+00:00",
       "NumProgressed": 73638,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-23T20:05:12.8631982+00:00",
+      "NumProgressed": 73688,
+      "NumCompleted": 60
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -13794,7 +13805,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 28719
+      "UsersEstimate": 28738
     },
     {
       "ID": "10",
@@ -13802,7 +13813,7 @@
       "Name": "fifteenth Time\u0027s the Charm",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "11",
@@ -13810,7 +13821,7 @@
       "Name": "Pulling Your Weight",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2209
+      "UsersEstimate": 2211
     },
     {
       "ID": "12",
@@ -13818,7 +13829,7 @@
       "Name": "Reaping Rivals",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2209
+      "UsersEstimate": 2211
     },
     {
       "ID": "13",
@@ -13834,7 +13845,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 4418
+      "UsersEstimate": 4421
     },
     {
       "ID": "15",
@@ -13842,7 +13853,7 @@
       "Name": "Gone Rogue",
       "Percentage": 0.7,
       "XP": 80,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "16",
@@ -13858,7 +13869,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 13991
+      "UsersEstimate": 14001
     },
     {
       "ID": "3",
@@ -13866,7 +13877,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 9573
+      "UsersEstimate": 9579
     },
     {
       "ID": "4",
@@ -13874,7 +13885,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 7364
+      "UsersEstimate": 7369
     },
     {
       "ID": "5",
@@ -13882,7 +13893,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5891
+      "UsersEstimate": 5895
     },
     {
       "ID": "6",
@@ -13890,7 +13901,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 4418
+      "UsersEstimate": 4421
     },
     {
       "ID": "7",
@@ -13898,7 +13909,7 @@
       "Name": "More Power to You",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 6627
+      "UsersEstimate": 6632
     },
     {
       "ID": "8",
@@ -13921,16 +13932,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 73638,
+      "Progressed": 73688,
       "Completed": 60
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2023-12-23T18:00:25.0871108+00:00",
-  "LastChanged_Achievements": "2023-12-23T19:05:12.0328146+00:00",
+  "LastChanged": "2023-12-23T20:00:16.8677863+00:00",
+  "LastChanged_Achievements": "2023-12-23T20:05:12.863198+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:09.497208+00:00",
-  "LastUpdate_Ratings": "2023-12-23T19:00:10.840032+00:00",
-  "LastUpdate_Achievements": "2023-12-23T19:05:12.0328776+00:00"
+  "LastUpdate_Ratings": "2023-12-23T20:00:16.8677868+00:00",
+  "LastUpdate_Achievements": "2023-12-23T20:05:12.8632721+00:00"
 }

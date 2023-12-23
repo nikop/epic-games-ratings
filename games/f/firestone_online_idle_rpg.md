@@ -5,16 +5,16 @@ Rating: 4.04 (Ranked 1,012)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,460 |
-| World Map | 78.00% | ~2,902 |
-| Temple of Eternals | 56.00% | ~2,083 |
-| Prestigious | 53.00% | ~1,972 |
-| Fellowship Power | 42.00% | ~1,562 |
+| Victor | 93.00% | ~3,461 |
+| World Map | 78.00% | ~2,903 |
+| Temple of Eternals | 56.00% | ~2,084 |
+| Prestigious | 53.00% | ~1,973 |
+| Fellowship Power | 42.00% | ~1,563 |
 | Full Party | 25.00% | ~930 |
 | Guild Power | 23.00% | ~856 |
 | Prestigious x10 | 20.00% | ~744 |
 | The game is on | 18.00% | ~670 |
-| Exotic Merchant | 16.00% | ~595 |
+| Exotic Merchant | 16.00% | ~596 |
 | Dragon Clicker | 15.00% | ~558 |
 | Miner Clicker | 15.00% | ~558 |
 | Hero inspection | 14.00% | ~521 |
@@ -38,11 +38,11 @@ Rating: 4.04 (Ranked 1,012)
 | Moving Up The Ladder | 8.00% | ~298 |
 | Relic Of The Past | 8.00% | ~298 |
 | Scroll Master | 8.00% | ~298 |
-| Four Leaf Clover | 7.00% | ~260 |
-| Here We Go Again | 7.00% | ~260 |
-| Master Enchanter | 7.00% | ~260 |
-| The father of Dragons | 7.00% | ~260 |
-| Trader | 7.00% | ~260 |
+| Four Leaf Clover | 7.00% | ~261 |
+| Here We Go Again | 7.00% | ~261 |
+| Master Enchanter | 7.00% | ~261 |
+| The father of Dragons | 7.00% | ~261 |
+| Trader | 7.00% | ~261 |
 | Dragon Slayer | 6.00% | ~223 |
 | The Expeditioner | 6.00% | ~223 |
 | Weekly Quest Completionist | 6.00% | ~223 |
@@ -81,8 +81,8 @@ Rating: 4.04 (Ranked 1,012)
 | Jewel Enchanting | 0.20% | ~7 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,720 (Ranked 210)  
-Completed: 2 (0.05%) (Ranked 332)  
+Progressed: 3,722 (Ranked 210)  
+Completed: 2 (0.05%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -323,7 +323,7 @@ Completed: 2 (0.05%) (Ranked 332)
 | 2023-12-20 | 3,585 | 2 |
 | 2023-12-21 | 3,636 | 2 |
 | 2023-12-22 | 3,677 | 2 |
-| 2023-12-23 | 3,720 | 2 |
+| 2023-12-23 | 3,722 | 2 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 476)  
 Sum: 147 (Ranked 431)  

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 571,
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 182,
-  "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_Completed": 363,
+  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -235,9 +235,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8609,
+  "EOS_Progressed": 8613,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8950,6 +8950,11 @@
       "Time": "2023-12-23T19:10:09.4578973+00:00",
       "NumProgressed": 8609,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-23T20:09:44.4505583+00:00",
+      "NumProgressed": 8613,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -8986,7 +8991,7 @@
       "Name": "Open the Gate!",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -9098,7 +9103,7 @@
       "Name": "Humble Collector",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -9296,22 +9301,22 @@
       "ID": "DLC1_ACHIEVEMENT_08",
       "SetID": "6p01o4j",
       "Name": "Exit Through The Gift Shop",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8609,
+      "Progressed": 8613,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1226,
+      "Progressed": 1230,
       "Completed": 1050
     }
   ],
@@ -9319,8 +9324,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-19T16:03:30.9665101+00:00",
-  "LastChanged_Achievements": "2023-12-23T19:10:09.4578966+00:00",
+  "LastChanged_Achievements": "2023-12-23T20:09:44.450558+00:00",
   "LastUpdate_AppInfo": "2023-12-22T11:57:12.9881326+00:00",
-  "LastUpdate_Ratings": "2023-12-23T19:02:59.6422288+00:00",
-  "LastUpdate_Achievements": "2023-12-23T19:10:09.4579578+00:00"
+  "LastUpdate_Ratings": "2023-12-23T20:03:01.6300852+00:00",
+  "LastUpdate_Achievements": "2023-12-23T20:09:44.4506286+00:00"
 }

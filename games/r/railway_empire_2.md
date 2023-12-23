@@ -35,9 +35,9 @@ Rating: 4.42 (Ranked 722)
 | Country Life | 28.00% | ~701 |
 | Hostile Takeover | 25.00% | ~626 |
 | Seven at one stroke | 24.00% | ~600 |
+| Trailblazer | 22.00% | ~550 |
 | Traffic Junction | 22.00% | ~550 |
 | Breaking Ground | 22.00% | ~550 |
-| Trailblazer | 21.00% | ~525 |
 | Traffic Jam | 19.00% | ~475 |
 | Networker | 18.00% | ~450 |
 | Resistance is futile | 17.00% | ~425 |
@@ -62,7 +62,7 @@ Rating: 4.42 (Ranked 722)
 | Together we stand | 0.50% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,502 (Ranked 227)  
-Completed: 0 (0.00%) (Ranked 385)  
+Completed: 0 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

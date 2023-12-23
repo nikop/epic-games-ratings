@@ -5,18 +5,18 @@ Rating: 4.89 (Ranked 10)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 47.00% | ~5,263 |
-| Start with a bang! | 46.00% | ~5,151 |
-| You can pet the cat! | 41.00% | ~4,591 |
-| Who put gears in there? | 33.00% | ~3,695 |
-| Cream of the Crop | 29.00% | ~3,247 |
-| Thanks for the free chip, Peppermint! | 28.00% | ~3,135 |
-| You got this, Peppermint? | 24.00% | ~2,687 |
-| Perfect Parry | 22.00% | ~2,463 |
-| Alright, that felt AWESOME! | 21.00% | ~2,351 |
-| I play my own way! | 19.00% | ~2,127 |
-| This will cost you big time | 17.00% | ~1,903 |
-| Uh, they were broken when I got here | 17.00% | ~1,903 |
+| Feeling the beat! | 47.00% | ~5,265 |
+| Start with a bang! | 46.00% | ~5,153 |
+| You can pet the cat! | 41.00% | ~4,593 |
+| Who put gears in there? | 33.00% | ~3,697 |
+| Cream of the Crop | 29.00% | ~3,249 |
+| Thanks for the free chip, Peppermint! | 28.00% | ~3,137 |
+| You got this, Peppermint? | 24.00% | ~2,688 |
+| Perfect Parry | 22.00% | ~2,464 |
+| Alright, that felt AWESOME! | 21.00% | ~2,352 |
+| I play my own way! | 19.00% | ~2,128 |
+| This will cost you big time | 17.00% | ~1,904 |
+| Uh, they were broken when I got here | 17.00% | ~1,904 |
 | Z-shielding's got nothing on us! | 15.00% | ~1,680 |
 | Kissing the sky! | 15.00% | ~1,680 |
 | Does that say weakpoint? | 14.00% | ~1,568 |
@@ -52,12 +52,12 @@ Rating: 4.89 (Ranked 10)
 | OK, well THEY came after ME! | 0.60% | ~67 |
 | New bad guys? No problem! | 0.60% | ~58 |
 | Problem solved... wait, what? | 0.30% | ~34 |
-| Fully Powered Up! | 0.30% | ~34 |
 | Now this is how you fight like a team! | 0.30% | ~34 |
-| I am a good person who likes to help | 0.30% | ~34 |
 | Choose your own adventure | 0.30% | ~29 |
 | And the crowd goes wild! | 0.20% | ~22 |
 | I can't see this ever being a problem again | 0.20% | ~22 |
+| Fully Powered Up! | 0.20% | ~22 |
+| I am a good person who likes to help | 0.20% | ~22 |
 | With our powers combined…and to the rhythm… | 0.20% | ~22 |
 | It'll do, CNMN | 0.20% | ~19 |
 | Didn't skip a beat! | 0.10% | ~11 |
@@ -77,8 +77,8 @@ Rating: 4.89 (Ranked 10)
 | Voices from within | 0.10% | ~10 |
 | Low budget finish | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,197 (Ranked 172)  
-Completed: 8 (0.07%) (Ranked 318)  
+Progressed: 11,202 (Ranked 172)  
+Completed: 8 (0.07%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -314,7 +314,7 @@ Completed: 8 (0.07%) (Ranked 318)
 | 2023-12-20 | 9,904 | 8 |
 | 2023-12-21 | 10,248 | 8 |
 | 2023-12-22 | 10,702 | 8 |
-| 2023-12-23 | 11,197 | 8 |
+| 2023-12-23 | 11,202 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

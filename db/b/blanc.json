@@ -3,9 +3,9 @@
   "Name": "Blanc",
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 211,
-  "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_Completed": 284,
+  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3674,
+  "EOS_Progressed": 3675,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -5891,6 +5891,11 @@
       "Time": "2023-12-23T19:06:00.5271244+00:00",
       "NumProgressed": 3674,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-23T20:06:00.3052001+00:00",
+      "NumProgressed": 3675,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -5910,7 +5915,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "FALLEN_TREE",
@@ -5918,7 +5923,7 @@
       "Name": "Sheltered by the fallen tree",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "HELPING_LITTLE_ONES",
@@ -6005,7 +6010,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3674,
+      "Progressed": 3675,
       "Completed": 6
     }
   ],
@@ -6013,8 +6018,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-23T19:06:00.527124+00:00",
+  "LastChanged_Achievements": "2023-12-23T20:06:00.3051999+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:23.2126403+00:00",
-  "LastUpdate_Ratings": "2023-12-23T18:57:22.2131853+00:00",
-  "LastUpdate_Achievements": "2023-12-23T19:06:00.5271584+00:00"
+  "LastUpdate_Ratings": "2023-12-23T19:57:33.198182+00:00",
+  "LastUpdate_Achievements": "2023-12-23T20:06:00.3052374+00:00"
 }

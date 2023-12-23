@@ -17,8 +17,8 @@ Rating: 4.50 (Ranked 603)
 | The Fire Below the Mountain | 60.00% | ~782 |
 | Iceborn | 55.00% | ~717 |
 | No Bites | 54.00% | ~704 |
+| Boom Things | 53.00% | ~691 |
 | Tear of Freedom | 52.00% | ~678 |
-| Boom Things | 52.00% | ~678 |
 | My Darkest Day | 48.00% | ~625 |
 | Rhythm Of Willump | 46.00% | ~599 |
 | The Relentless Storm | 46.00% | ~599 |
@@ -29,9 +29,9 @@ Rating: 4.50 (Ranked 603)
 | You Get Used To It | 41.00% | ~534 |
 | Family | 39.00% | ~508 |
 | Biggest Snowball Ever | 39.00% | ~508 |
+| Freeze The Ice Witch | 39.00% | ~508 |
 | Boosted! | 39.00% | ~508 |
 | Deadliest and Biggest Snowball Ever! | 39.00% | ~508 |
-| Freeze The Ice Witch | 38.00% | ~495 |
 | True Legends | 38.00% | ~495 |
 | Bullseye | 36.00% | ~469 |
 | It Is Not Over | 35.00% | ~456 |
@@ -50,7 +50,7 @@ Rating: 4.50 (Ranked 603)
 | We Are Speed | 2.00% | ~26 |
 | Sneaky Notai | 1.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,303 (Ranked 261)  
+Progressed: 1,303 (Ranked 262)  
 Completed: 9 (0.69%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |

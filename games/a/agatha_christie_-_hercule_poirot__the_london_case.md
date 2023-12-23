@@ -26,11 +26,11 @@
 | An odd series of events | 27.00% | ~16 |
 | The Apartment | 27.00% | ~16 |
 | Nathaniel Dryden | 25.00% | ~15 |
+| Bartholomew | 25.00% | ~15 |
 | Well-acquainted | 24.00% | ~14 |
 | A rude awakening | 24.00% | ~14 |
 | Anastasia Babanin | 24.00% | ~14 |
 | Zakariya Demir | 24.00% | ~14 |
-| Bartholomew | 24.00% | ~14 |
 | The Scheme | 24.00% | ~14 |
 | Truth from within | 22.00% | ~13 |
 | A curious phrase | 19.00% | ~11 |

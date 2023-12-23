@@ -3,9 +3,9 @@
   "Name": "Towerful",
   "ProductSlug": "towerful-a7bde9",
   "Ranking_EOS_Progress": 816,
-  "Ranking_EOS_Completed": 385,
+  "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-08-03T13:00:00+00:00",
     "PcReleaseDate": "2023-08-03T13:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-05T23:57:17.2951548+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:58.5394663+00:00",
-  "LastUpdate_Ratings": "2023-12-23T19:03:03.9096558+00:00",
-  "LastUpdate_Achievements": "2023-12-23T19:03:41.3031307+00:00"
+  "LastUpdate_Ratings": "2023-12-23T20:03:05.9495766+00:00",
+  "LastUpdate_Achievements": "2023-12-23T20:03:44.4755546+00:00"
 }

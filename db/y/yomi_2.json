@@ -3,9 +3,9 @@
   "Name": "Yomi 2",
   "ProductSlug": "yomi-2-14c463",
   "Ranking_EOS_Progress": 816,
-  "Ranking_EOS_Completed": 385,
+  "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-07-05T17:00:00+00:00",
     "PcReleaseDate": "2023-07-05T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-29T21:59:51.0138371+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:14.4934298+00:00",
-  "LastUpdate_Ratings": "2023-12-23T19:00:05.7695915+00:00",
-  "LastUpdate_Achievements": "2023-12-23T19:09:20.1627959+00:00"
+  "LastUpdate_Ratings": "2023-12-23T20:00:11.9251434+00:00",
+  "LastUpdate_Achievements": "2023-12-23T20:08:57.3564166+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Bulwark: Falconeer Chronicles",
   "ProductSlug": "bulwark-falconeer-chronicles-72b9dd",
   "Ranking_EOS_Progress": 816,
-  "Ranking_EOS_Completed": 385,
+  "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2024-03-31T00:00:00+00:00",
     "PcReleaseDate": "2024-03-31T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-20T17:03:22.6774631+00:00",
-  "LastChanged_Achievements": "2023-12-23T19:04:23.8712507+00:00",
+  "LastChanged_Achievements": "2023-12-23T20:04:26.1586597+00:00",
   "LastUpdate_AppInfo": "2023-12-20T16:57:12.3880456+00:00",
-  "LastUpdate_Ratings": "2023-12-23T18:58:30.5677417+00:00",
-  "LastUpdate_Achievements": "2023-12-23T19:04:23.8712566+00:00"
+  "LastUpdate_Ratings": "2023-12-23T19:58:39.2367766+00:00",
+  "LastUpdate_Achievements": "2023-12-23T20:04:26.1586617+00:00"
 }

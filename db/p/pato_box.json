@@ -3,9 +3,9 @@
   "Name": "Pato Box",
   "ProductSlug": "pato-box-311c99",
   "Ranking_EOS_Progress": 816,
-  "Ranking_EOS_Completed": 385,
+  "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-09-02T05:00:00+00:00",
     "PcReleaseDate": "2021-09-02T05:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:24.8569454+00:00",
   "LastChanged": "2023-03-31T05:57:24.8569455+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:05.2334918+00:00",
-  "LastUpdate_Ratings": "2023-12-23T18:59:19.7807078+00:00",
-  "LastUpdate_Achievements": "2023-12-23T19:04:55.5786477+00:00"
+  "LastUpdate_Ratings": "2023-12-23T19:59:25.3184841+00:00",
+  "LastUpdate_Achievements": "2023-12-23T20:04:56.4501702+00:00"
 }

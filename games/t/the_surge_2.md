@@ -6,50 +6,50 @@ Rating: 4.26 (Ranked 890)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rigged And Ready | 79.00% | ~1,856 |
-| Don't I Know You...? | 76.00% | ~1,785 |
-| Jailbreak | 65.00% | ~1,527 |
+| Don't I Know You...? | 76.00% | ~1,786 |
+| Jailbreak | 65.00% | ~1,528 |
 | HEADSHOT! | 38.00% | ~893 |
 | Suited and Booted | 38.00% | ~893 |
 | Sleeping With The Fishes | 35.00% | ~822 |
 | Overheated | 30.00% | ~705 |
 | High Performance | 30.00% | ~705 |
 | Powered Up | 28.00% | ~658 |
-| Studied The Blade | 25.00% | ~587 |
+| Studied The Blade | 25.00% | ~588 |
 | Home Invasion | 23.00% | ~540 |
 | Luminary | 22.00% | ~517 |
 | It's a Trap | 22.00% | ~517 |
-| True Survivor | 21.00% | ~493 |
+| True Survivor | 21.00% | ~494 |
 | Offensive Defense | 20.00% | ~470 |
 | Shocking | 20.00% | ~470 |
 | Court Martial | 19.00% | ~446 |
 | Clean Cut | 19.00% | ~446 |
 | Unforeseeable Consequences | 19.00% | ~446 |
 | Dead Again | 18.00% | ~423 |
-| Full Arsenal | 17.00% | ~399 |
+| Full Arsenal | 17.00% | ~400 |
 | Can't Trust Banks | 15.00% | ~352 |
-| Mommy Dearest | 13.00% | ~305 |
-| Bad Dog | 13.00% | ~305 |
-| Where It All Began | 13.00% | ~305 |
-| Risk Tolerant | 13.00% | ~305 |
-| What A Catchy Song | 13.00% | ~305 |
+| Mommy Dearest | 13.00% | ~306 |
+| Bad Dog | 13.00% | ~306 |
+| Where It All Began | 13.00% | ~306 |
+| Risk Tolerant | 13.00% | ~306 |
+| What A Catchy Song | 13.00% | ~306 |
 | Corrupted Beauty | 12.00% | ~282 |
 | Marked For Success | 12.00% | ~282 |
 | Sorry, Didn't See You There | 12.00% | ~282 |
 | Stimulating The Local Economy | 10.00% | ~235 |
 | Triplets | 10.00% | ~235 |
-| Denying Prophecy | 9.00% | ~211 |
+| Denying Prophecy | 9.00% | ~212 |
 | A Little Banged Up | 8.00% | ~188 |
 | Following In Their Footsteps | 8.00% | ~188 |
 | Defense in Depth | 8.00% | ~188 |
-| Reverse Engineering | 7.00% | ~164 |
+| Reverse Engineering | 7.00% | ~165 |
 | Reborn | 6.00% | ~141 |
 | Remote Surgery | 6.00% | ~141 |
 | Turbo Booster | 6.00% | ~141 |
 | Squid Pro Quo | 6.00% | ~141 |
-| Hello Darkness My Old Friend | 5.00% | ~117 |
-| Counter-Sniper | 5.00% | ~117 |
-| Shrimp Cocktail | 5.00% | ~117 |
-| Juiced Up | 5.00% | ~117 |
+| Hello Darkness My Old Friend | 5.00% | ~118 |
+| Counter-Sniper | 5.00% | ~118 |
+| Shrimp Cocktail | 5.00% | ~118 |
+| Juiced Up | 5.00% | ~118 |
 | Geronimo! | 4.00% | ~94 |
 | Plank of Wood | 4.00% | ~94 |
 | Gotta Craft 'em All | 3.00% | ~70 |
@@ -59,11 +59,11 @@ Rating: 4.26 (Ranked 890)
 | Box Office Smash | 2.00% | ~47 |
 | Going Postal | 2.00% | ~47 |
 | Loot, Pillage & Craft | 2.00% | ~47 |
-| Swiss Army Drone | 1.00% | ~23 |
-| Three Birds With One Stone | 1.00% | ~23 |
-| The Easy Way Out | 1.00% | ~23 |
+| Swiss Army Drone | 1.00% | ~24 |
+| Three Birds With One Stone | 1.00% | ~24 |
+| The Easy Way Out | 1.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,349 (Ranked 229)  
+Progressed: 2,350 (Ranked 229)  
 Completed: 13 (0.55%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 13 (0.55%) (Ranked 206)
 | 2023-12-20 | 2,314 | 13 |
 | 2023-12-21 | 2,329 | 13 |
 | 2023-12-22 | 2,340 | 13 |
-| 2023-12-23 | 2,349 | 13 |
+| 2023-12-23 | 2,350 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

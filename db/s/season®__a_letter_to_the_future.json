@@ -4,8 +4,8 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 95,
-  "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -31,7 +31,7 @@
   "Tags": [],
   "EOS_Progressed": 1688,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 264,
+  "EOS_NewPlayers": 263,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.79,
   "EosHistory": [
@@ -3652,9 +3652,9 @@
       "ID": "ACH_EMOTIONALBAGGAGEHANDLER",
       "SetID": "7pam6gn",
       "Name": "Emotional Baggage Handler",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 287
+      "UsersEstimate": 304
     },
     {
       "ID": "ACH_GOODBYETIENGVALLEY",
@@ -3765,8 +3765,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-12-23T19:09:52.5000421+00:00",
+  "LastChanged_Achievements": "2023-12-23T20:09:28.7204237+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:50.4706145+00:00",
-  "LastUpdate_Ratings": "2023-12-23T18:58:34.9695518+00:00",
-  "LastUpdate_Achievements": "2023-12-23T19:09:52.5000643+00:00"
+  "LastUpdate_Ratings": "2023-12-23T19:58:43.5314462+00:00",
+  "LastUpdate_Achievements": "2023-12-23T20:09:28.7204512+00:00"
 }

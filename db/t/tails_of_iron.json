@@ -2,13 +2,13 @@
   "ID": "fb76c816bb054fc8be57dc49f1600843",
   "Name": "Tails of Iron",
   "ProductSlug": "tails-of-iron-587abd",
-  "Ranking_Rating": 510,
+  "Ranking_Rating": 496,
   "Ranking_Popularity": 571,
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 317,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.55,
+  "Rating": 4.56,
   "RatingHistory": [
     {
       "Time": "2022-09-24T13:07:58.3730391+00:00",
@@ -254,15 +254,21 @@
       "Rating": 4.55,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-23T19:58:55.6551136+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2273,
+  "EOS_Progressed": 2274,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -4125,6 +4131,11 @@
       "Time": "2023-12-23T18:04:56.0051746+00:00",
       "NumProgressed": 2273,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-23T20:04:39.7046599+00:00",
+      "NumProgressed": 2274,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 36,
@@ -4414,31 +4425,31 @@
       "ID": "TravelToBrightFirForest",
       "SetID": "cbf1i0c",
       "Name": "The Bright Fir",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2273,
+      "Progressed": 2274,
       "Completed": 12
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 914,
+      "Progressed": 915,
       "Completed": 900
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
-  "LastChanged": "2023-12-21T19:58:12.3582087+00:00",
-  "LastChanged_Achievements": "2023-12-23T19:04:37.7586697+00:00",
+  "LastChanged": "2023-12-23T19:58:55.6551134+00:00",
+  "LastChanged_Achievements": "2023-12-23T20:04:39.7046596+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:33.7739845+00:00",
-  "LastUpdate_Ratings": "2023-12-23T18:58:48.4982181+00:00",
-  "LastUpdate_Achievements": "2023-12-23T19:04:37.7587056+00:00"
+  "LastUpdate_Ratings": "2023-12-23T19:58:55.6551141+00:00",
+  "LastUpdate_Achievements": "2023-12-23T20:04:39.7046994+00:00"
 }

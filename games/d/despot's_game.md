@@ -12,7 +12,7 @@ Rating: 4.50 (Ranked 603)
 | Knowledge is Power | 44.00% | ~202 |
 | Through the Darkness | 44.00% | ~202 |
 | No Mercy | 43.00% | ~197 |
-| The Return of a Rat | 41.00% | ~188 |
+| The Return of a Rat | 42.00% | ~192 |
 | Fat of the Earth | 36.00% | ~165 |
 | Last Man Standing | 32.00% | ~147 |
 | He's Seen It All | 28.00% | ~128 |
@@ -42,7 +42,7 @@ Rating: 4.50 (Ranked 603)
 | Real Achiever | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 458 (Ranked 337)  
-Completed: 1 (0.22%) (Ranked 266)  
+Completed: 1 (0.22%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

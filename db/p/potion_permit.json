@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -387,7 +387,7 @@
   ],
   "EOS_Progressed": 1768,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -3173,9 +3173,9 @@
       "ID": "ACHIEVEMENTS_34",
       "SetID": "d4o538a",
       "Name": "Moonbury Traveller",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1132
     },
     {
       "ID": "ACHIEVEMENTS_35",
@@ -3222,8 +3222,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-12-23T09:58:26.8266867+00:00",
-  "LastChanged_Achievements": "2023-12-23T19:04:23.5411308+00:00",
+  "LastChanged_Achievements": "2023-12-23T20:04:25.8739652+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:47.0899932+00:00",
-  "LastUpdate_Ratings": "2023-12-23T18:58:37.1318036+00:00",
-  "LastUpdate_Achievements": "2023-12-23T19:04:23.5411881+00:00"
+  "LastUpdate_Ratings": "2023-12-23T19:58:45.7303617+00:00",
+  "LastUpdate_Achievements": "2023-12-23T20:04:25.8740091+00:00"
 }

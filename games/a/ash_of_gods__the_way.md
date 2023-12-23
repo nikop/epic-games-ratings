@@ -9,8 +9,8 @@
 | Train hard, fight easy | 30.00% | ~14 |
 | Under cover | 30.00% | ~14 |
 | First blood | 30.00% | ~14 |
+| All for one! | 26.00% | ~12 |
 | Royal blessing | 26.00% | ~12 |
-| All for one! | 23.00% | ~11 |
 | A hidden snake | 23.00% | ~11 |
 | Blood and sand | 23.00% | ~11 |
 | Vene, vidi, vici | 19.00% | ~9 |
@@ -55,7 +55,7 @@
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 47 (Ranked 540)  
-Completed: 0 (0.00%) (Ranked 385)  
+Completed: 0 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

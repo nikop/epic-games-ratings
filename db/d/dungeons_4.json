@@ -4,8 +4,8 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 101,
-  "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 624,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 3.37,
   "EosHistory": [
@@ -1838,9 +1838,9 @@
       "ID": "ach_main02horde_completed",
       "SetID": "4hg22ll",
       "Name": "Hammer Time, Round Two",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 499
+      "UsersEstimate": 505
     },
     {
       "ID": "ach_main02horde_creatures",
@@ -1886,9 +1886,9 @@
       "ID": "ach_main04undead_completed",
       "SetID": "4hg22ll",
       "Name": "The Plains of Strothalm",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 437
+      "UsersEstimate": 443
     },
     {
       "ID": "ach_main04undead_minions",
@@ -2126,9 +2126,9 @@
       "ID": "ach_main13tanos_evilbosses",
       "SetID": "4hg22ll",
       "Name": "Bonus Evilness",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 144
+      "UsersEstimate": 150
     },
     {
       "ID": "ach_main14run_completed",
@@ -2309,8 +2309,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-23T19:08:50.2429337+00:00",
-  "LastUpdate_AppInfo": "2023-12-16T18:57:09.5802782+00:00",
-  "LastUpdate_Ratings": "2023-12-23T18:57:44.8950296+00:00",
-  "LastUpdate_Achievements": "2023-12-23T19:08:50.2429892+00:00"
+  "LastChanged_Achievements": "2023-12-23T20:08:27.5919244+00:00",
+  "LastUpdate_AppInfo": "2023-12-23T19:56:58.4415734+00:00",
+  "LastUpdate_Ratings": "2023-12-23T19:57:55.7782245+00:00",
+  "LastUpdate_Achievements": "2023-12-23T20:08:27.5920022+00:00"
 }

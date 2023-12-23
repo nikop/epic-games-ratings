@@ -5,22 +5,22 @@ Rating: 4.52 (Ranked 566)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 91.00% | ~101 |
-| Map reader | 68.00% | ~75 |
-| Adventurer | 67.00% | ~74 |
-| Philanthropist | 63.00% | ~70 |
-| Archer | 47.00% | ~52 |
-| The brave little tailor | 46.00% | ~51 |
-| Field hand | 41.00% | ~46 |
+| Beginner | 90.00% | ~101 |
+| Map reader | 69.00% | ~77 |
+| Adventurer | 66.00% | ~74 |
+| Philanthropist | 63.00% | ~71 |
+| The brave little tailor | 46.00% | ~52 |
+| Archer | 46.00% | ~52 |
+| Field hand | 40.00% | ~45 |
 | Samaritan | 37.00% | ~41 |
 | Well-to-do | 37.00% | ~41 |
 | The merciful one | 34.00% | ~38 |
 | Ladies' man | 33.00% | ~37 |
 | Ferocious wild boars | 28.00% | ~31 |
 | Idiot | 26.00% | ~29 |
-| Beast slayer | 23.00% | ~26 |
-| Family man | 21.00% | ~23 |
-| Archaeologist | 21.00% | ~23 |
+| Beast slayer | 22.00% | ~25 |
+| Family man | 21.00% | ~24 |
+| Archaeologist | 21.00% | ~24 |
 | Wise man | 20.00% | ~22 |
 | Death of a legend | 20.00% | ~22 |
 | Ogre friend | 20.00% | ~22 |
@@ -33,8 +33,8 @@ Rating: 4.52 (Ranked 566)
 | Ghost hunter | 16.00% | ~18 |
 | Pandora's box | 15.00% | ~17 |
 | Peacekeeper | 15.00% | ~17 |
-| Defender | 14.00% | ~16 |
-| Workaholic | 14.00% | ~16 |
+| Defender | 13.00% | ~15 |
+| Workaholic | 13.00% | ~15 |
 | Showdown | 12.00% | ~13 |
 | Safecracker | 12.00% | ~13 |
 | Master thief | 12.00% | ~13 |
@@ -45,10 +45,10 @@ Rating: 4.52 (Ranked 566)
 | Expert | 8.00% | ~9 |
 | The traveler | 6.00% | ~7 |
 | Moneybags | 6.00% | ~7 |
-| Rune master | 5.00% | ~6 |
-| King Midas | 5.00% | ~6 |
+| Rune master | 4.00% | ~4 |
 | Fervent swimmer | 4.00% | ~4 |
 | Jester | 4.00% | ~4 |
+| King Midas | 4.00% | ~4 |
 | Big game hunter | 3.00% | ~3 |
 | Mage | 3.00% | ~3 |
 | Sharpshooter | 2.00% | ~2 |
@@ -56,8 +56,8 @@ Rating: 4.52 (Ranked 566)
 | Master of the classes | 0.90% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 111 (Ranked 466)  
-Completed: 0 (0.00%) (Ranked 385)  
+Progressed: 112 (Ranked 466)  
+Completed: 0 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -111,7 +111,7 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-20 | 101 | 0 |
 | 2023-12-21 | 104 | 0 |
 | 2023-12-22 | 107 | 0 |
-| 2023-12-23 | 111 | 0 |
+| 2023-12-23 | 112 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

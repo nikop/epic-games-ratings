@@ -3,9 +3,9 @@
   "Name": "Backrooms: Realm of Shadows",
   "ProductSlug": "backrooms-realm-of-shadows-1ca413",
   "Ranking_EOS_Progress": 162,
-  "Ranking_EOS_Completed": 385,
+  "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
     "PcReleaseDate": "2023-07-11T08:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15822,
+  "EOS_Progressed": 15834,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1122,
   "EOS_NewCompleters": 0,
@@ -9899,6 +9899,11 @@
       "Time": "2023-12-23T19:04:05.9284076+00:00",
       "NumProgressed": 15822,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T20:04:08.2558819+00:00",
+      "NumProgressed": 15834,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -9943,7 +9948,7 @@
       "Name": "KITTY",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "ACH_MEGLAB",
@@ -9951,7 +9956,7 @@
       "Name": "MEG",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_RUNFORYOURLIFE",
@@ -9959,7 +9964,7 @@
       "Name": "RUN",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "ACH_SECRETENDING",
@@ -9991,7 +9996,7 @@
       "Name": "End?",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_WINELECTRICALSTATION",
@@ -9999,7 +10004,7 @@
       "Name": "Electric",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     },
     {
       "ID": "ACH_WINLEVEL0",
@@ -10007,7 +10012,7 @@
       "Name": "Level 0",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 4114
+      "UsersEstimate": 4117
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -10015,7 +10020,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1899
+      "UsersEstimate": 1900
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -10023,7 +10028,7 @@
       "Name": "Dreamer!",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1740
+      "UsersEstimate": 1742
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -10047,7 +10052,7 @@
       "Name": "Glitchy",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "ACH_WINLEVEL5",
@@ -10063,7 +10068,7 @@
       "Name": "The Dark Road",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "ACH_WINLEVEL94",
@@ -10079,7 +10084,7 @@
       "Name": "Endless",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "ACH_WINLEVELFUN",
@@ -10087,7 +10092,7 @@
       "Name": "FUN",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "ACH_WINLEVELLIGHTOUT",
@@ -10102,14 +10107,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 15822,
+      "Progressed": 15834,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-12-23T19:04:05.9284072+00:00",
+  "LastChanged_Achievements": "2023-12-23T20:04:08.2558816+00:00",
   "LastUpdate_AppInfo": "2023-12-18T18:57:14.5772532+00:00",
-  "LastUpdate_Ratings": "2023-12-23T18:58:13.7708598+00:00",
-  "LastUpdate_Achievements": "2023-12-23T19:04:05.9284658+00:00"
+  "LastUpdate_Ratings": "2023-12-23T19:58:24.2315516+00:00",
+  "LastUpdate_Achievements": "2023-12-23T20:04:08.2559437+00:00"
 }

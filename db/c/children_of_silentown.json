@@ -2,10 +2,10 @@
   "ID": "5d2eeb5e52a54324a8246eb39ee72d4b",
   "Name": "Children of Silentown",
   "ProductSlug": "children-of-silentown-52cc21",
-  "Ranking_EOS_Progress": 398,
-  "Ranking_EOS_Completed": 385,
+  "Ranking_EOS_Progress": 399,
+  "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 434,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-01-11T16:00:00+00:00",
     "PcReleaseDate": "2023-01-11T16:00:00+00:00",
@@ -488,9 +488,9 @@
       "ID": "Cat",
       "SetID": "9kk0gal",
       "Name": "Cat",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 60,
-      "UsersEstimate": 71
+      "UsersEstimate": 74
     },
     {
       "ID": "Cellar",
@@ -608,9 +608,9 @@
       "ID": "Offroad",
       "SetID": "9kk0gal",
       "Name": "Flower of hope",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "Puppy",
@@ -640,17 +640,17 @@
       "ID": "Spyglass",
       "SetID": "9kk0gal",
       "Name": "Spyglass",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 30,
-      "UsersEstimate": 191
+      "UsersEstimate": 193
     },
     {
       "ID": "Toy",
       "SetID": "9kk0gal",
       "Name": "Broken toy",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 177
+      "UsersEstimate": 179
     },
     {
       "ID": "Trinket",
@@ -697,8 +697,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-12-23T19:04:39.0425062+00:00",
+  "LastChanged_Achievements": "2023-12-23T20:04:40.9699626+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:26.6651499+00:00",
-  "LastUpdate_Ratings": "2023-12-23T18:57:47.8711001+00:00",
-  "LastUpdate_Achievements": "2023-12-23T19:04:39.0425188+00:00"
+  "LastUpdate_Ratings": "2023-12-23T19:57:58.4865841+00:00",
+  "LastUpdate_Achievements": "2023-12-23T20:04:40.9699791+00:00"
 }

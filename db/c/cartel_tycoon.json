@@ -6,9 +6,9 @@
   "Ranking_Popularity": 571,
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 290,
-  "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_Completed": 236,
+  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -301,7 +301,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 839,
+  "EOS_Progressed": 840,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 1,
@@ -2906,6 +2906,11 @@
       "Time": "2023-12-23T18:05:55.7908578+00:00",
       "NumProgressed": 839,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-23T20:05:37.0914436+00:00",
+      "NumProgressed": 840,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -2957,7 +2962,7 @@
       "Name": "That was base",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "hire-lieutenant",
@@ -2965,7 +2970,7 @@
       "Name": "Our Man",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "kill-lieutenants",
@@ -2981,7 +2986,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "play-at-night",
@@ -3037,7 +3042,7 @@
       "Name": "Camellos",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "unlock-residences",
@@ -3053,7 +3058,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "use-submarine",
@@ -3068,15 +3073,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 839,
+      "Progressed": 840,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-23T10:57:58.3271618+00:00",
-  "LastChanged_Achievements": "2023-12-23T19:05:36.8661205+00:00",
+  "LastChanged_Achievements": "2023-12-23T20:05:37.0914434+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.4837395+00:00",
-  "LastUpdate_Ratings": "2023-12-23T18:58:04.6969898+00:00",
-  "LastUpdate_Achievements": "2023-12-23T19:05:36.8661448+00:00"
+  "LastUpdate_Ratings": "2023-12-23T19:58:14.9869191+00:00",
+  "LastUpdate_Achievements": "2023-12-23T20:05:37.0914677+00:00"
 }

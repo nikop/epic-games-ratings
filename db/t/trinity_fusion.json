@@ -3,9 +3,9 @@
   "Name": "Trinity Fusion",
   "ProductSlug": "trinity-fusion-e036cf",
   "Ranking_EOS_Progress": 749,
-  "Ranking_EOS_Completed": 385,
+  "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-04-13T14:00:00+00:00",
     "PcReleaseDate": "2023-12-14T22:00:00+00:00",
@@ -428,8 +428,8 @@
   "FirstSeenRating": "2023-04-14T02:57:39.6098813+00:00",
   "FirstSeenAchievements": "2023-12-09T14:03:41.1725839+00:00",
   "LastChanged": "2023-04-14T02:57:39.6098814+00:00",
-  "LastChanged_Achievements": "2023-12-23T19:05:54.2108526+00:00",
+  "LastChanged_Achievements": "2023-12-23T20:05:54.2111257+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:49.2060555+00:00",
-  "LastUpdate_Ratings": "2023-12-23T19:02:48.9949731+00:00",
-  "LastUpdate_Achievements": "2023-12-23T19:05:54.210881+00:00"
+  "LastUpdate_Ratings": "2023-12-23T20:02:51.4678165+00:00",
+  "LastUpdate_Achievements": "2023-12-23T20:05:54.2111542+00:00"
 }

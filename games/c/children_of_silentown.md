@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Lucky charm | 90.00% | ~207 |
 | Trumpet | 89.00% | ~205 |
-| Spyglass | 83.00% | ~191 |
-| Broken toy | 77.00% | ~177 |
+| Spyglass | 84.00% | ~193 |
+| Broken toy | 78.00% | ~179 |
 | Egghead Lucy | 76.00% | ~175 |
 | Puppy | 63.00% | ~145 |
 | Coal's fur | 58.00% | ~133 |
@@ -19,11 +19,11 @@
 | Big metal ruler | 38.00% | ~87 |
 | Doll | 35.00% | ~80 |
 | Mysterious paintings | 33.00% | ~76 |
-| Cat | 31.00% | ~71 |
+| Cat | 32.00% | ~74 |
 | Depths of the well | 27.00% | ~62 |
 | Children | 23.00% | ~53 |
 | Huge Snail | 15.00% | ~34 |
-| Flower of hope | 13.00% | ~30 |
+| Flower of hope | 14.00% | ~32 |
 | Friend | 12.00% | ~28 |
 | Old kettle | 12.00% | ~28 |
 | Back Home | 11.00% | ~25 |
@@ -31,8 +31,8 @@
 | Hope | 5.00% | ~12 |
 | Hairball | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230 (Ranked 398)  
-Completed: 0 (0.00%) (Ranked 385)  
+Progressed: 230 (Ranked 399)  
+Completed: 0 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
